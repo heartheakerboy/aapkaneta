@@ -2442,4 +2442,56 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Negative khabar: TOI ke mutabik Washim jile ke civic chunav me sitting MLA Ameet Zanak apne party samarthit ummidvaaron ko Risod aur Malegaon dono jagah jeet nahi dila sake — unke liye jhatka mana gaya.',
     },
   ],
+  // ---- Buldhana district batch (researched 2026-10-12) ----
+  'mrs-shweta-vidyadhar-mahale': [
+    {
+      title: 'Sarangwadi sinchai pariyojana me ghotala — ₹16 crore se ₹260 crore kharch, SIT jaanch ki maang',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 15 Dec 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/sit-to-probe-sarangwadi-irrigation-project-as-cost-soars-from-rs16-crore-to-rs260-crore-chikhli-mla/articleshow/125966145.cms',
+      date: '2025-12-15',
+      note: 'Mahale ne aarop lagaya ki 2009 me ₹16 crore manzoor Sarangwadi pariyojana ka kharch ₹260 crore ho gaya jabki zameen par kaam na ke barabar hai; thekedaar company ke khilaf fraud complaint darj, SIT jaanch ki maang ki. Jaach/maang stage hai.',
+    },
+    {
+      title: 'Atikraman-hatav abhiyan par jaan se maarne ki dhamki — gumnam patr',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'ThePrint (PTI), 21 Feb 2025',
+      sourceUrl: 'https://theprint.in/india/bjp-mla-claims-death-threat-due-to-her-anti-encroachment-initiative-cites-religious-angle/2505662/',
+      date: '2025-02-21',
+      note: 'Mahale ne kaha Chikhli me avaidh atikraman hatane ke prayason ke kaaran unhe gumnam patr se jaan se maarne ki dhamki mili. Samarthakon ne police me shikayat di.',
+    },
+  ],
+  'gaikwad-sanjay-rambhau': [
+    {
+      title: 'MLA hostel canteen karmchari par hamla — stale khane par thappad, video viral',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'NDTV, 16 Jul 2025',
+      sourceUrl: 'https://www.ndtv.com/india-news/a-lungi-baniyan-protest-by-maharashtra-opposition-against-slapgate-mla-sanjay-gaikwad-8884583',
+      date: '2025-07-09',
+      note: 'Negative khabar: Gaikwad ne Mumbai ke Akashvani MLA hostel canteen me stale dal-chawal milne par karmchari ko thappad/ghoonse maare; video viral hua. Vipaksh ne "goonda raj" ka aarop lagaya; Gaikwad ne khed vyakt nahi kiya.',
+    },
+  ],
+  'akash-pandurang-fundkar': [
+    {
+      title: 'Khamgaon APMC ka CM Relief Fund ko ₹11 lakh ka cheque — akaal-peedit kisaano ke liye',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Nation Press, 29 Sep 2026',
+      sourceUrl: 'https://www.nationpress.com/national/khamgaon-apmc-gives-11-lakh-cm-drought-fund',
+      date: '2026-09-29',
+      note: 'Khamgaon APMC ne CM Relief Fund ko ₹11 lakh ka cheque diya; Mantri Fundkar ne khud CM Fadnavis ko Mumbai me cheque saunpa. Rashi akaal-peedit kisaano ki madad ke liye nirdharit.',
+    },
+    {
+      title: 'Private security guards ko kanooni labh dilane ke liye jila-war inspection drive ki ghoshna',
+      category: 'Rojgar',
+      badge: 'news',
+      sourceLabel: 'OB News, 05 Oct 2026',
+      sourceUrl: 'https://en-in.obnews.co/Index/flowNewsDetail/id/11159084.html?val=4f48fe0906690da1997f26f240df54b2',
+      date: '2026-10-05',
+      note: 'Shram mantri ke roop me Fundkar ne ghoshna ki ki suraksha guards ko kanooni labh dilane ke liye jila-war inspection hoga. Ghoshna stage hai.',
+    },
+  ],
 };
