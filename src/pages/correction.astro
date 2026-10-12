@@ -37,8 +37,8 @@ import Layout from '../layouts/Layout.astro';
     <div class="card l-block">
       <h2>Kaise kaam karta hai</h2>
       <ul>
-        <li>Neeche form bharein — aapka sandesh taiyaar ho jayega.</li>
-        <li><b>Copy</b> dabakar use Instagram DM (<a href="https://www.instagram.com/rtibyfiroz/" rel="noopener" target="_blank">@rtibyfiroz</a>) me paste karke bhej dein.</li>
+        <li>Neeche form bharein — aapka email taiyaar ho jayega.</li>
+        <li><b>Email bhejo</b> dabate hi aapke email app me <b>hello@aapkaneta.org</b> par pre-filled email khul jayega — bas Send dabana hai.</li>
         <li>Sahi paye jaane par sudhaar turant, aur jawab bhi milega.</li>
       </ul>
     </div>
@@ -76,12 +76,11 @@ import Layout from '../layouts/Layout.astro';
       </div>
 
       <div id="corrOutput">
-        <label for="corrText" style="font-size:14px;font-weight:600">Aapka sandesh (copy karke bhej dein):</label>
-        <textarea id="corrText" readonly></textarea>
         <div class="btn-row">
-          <button class="btn" id="copyBtn" type="button">Copy karo</button>
-          <a class="btn-ghost" href="https://www.instagram.com/rtibyfiroz/" rel="noopener" target="_blank">Instagram DM kholo</a>
+          <a class="btn" id="mailBtn" href="#">Email bhejo →</a>
+          <button class="btn-ghost" id="copyBtn" type="button">Copy karo</button>
         </div>
+        <p style="font-size:13px;color:var(--ink-soft);margin-top:10px">Email app na khule to message copy karke <b>hello@aapkaneta.org</b> par bhej dein, ya <a href="https://www.instagram.com/rtibyfiroz/" rel="noopener" target="_blank">Instagram DM</a> me paste kar dein.</p>
       </div>
     </div>
   </div>
@@ -104,18 +103,18 @@ import Layout from '../layouts/Layout.astro';
         + 'Vishay: ' + t + '\n'
         + 'Sahi jaankari: ' + d + '\n'
         + (p ? 'Saboot: ' + p + '\n' : '')
-        + (nm ? 'Bhejne wala: ' + nm + '\n' : '')
-        + 'Page: ' + location.origin + '/neta/' + encodeURIComponent(n.toLowerCase().replace(/[^a-z0-9]+/g, '-')) + '/';
-      document.getElementById('corrText').value = msg;
+        + (nm ? 'Bhejne wala: ' + nm + '\n' : '');
+      var subject = encodeURIComponent('Correction: ' + n + ' — ' + t);
+      var body = encodeURIComponent(msg);
+      document.getElementById('mailBtn').href = 'mailto:hello@aapkaneta.org?subject=' + subject + '&body=' + body;
       document.getElementById('corrOutput').style.display = 'block';
       document.getElementById('corrOutput').scrollIntoView({ behavior: 'smooth' });
+      window.__corrMsg = msg;
     });
 
     document.getElementById('copyBtn').addEventListener('click', function () {
-      var ta = document.getElementById('corrText');
-      ta.select();
-      try { document.execCommand('copy'); } catch (e) {}
-      if (navigator.clipboard) { navigator.clipboard.writeText(ta.value); }
+      var msg = window.__corrMsg || '';
+      if (navigator.clipboard) { navigator.clipboard.writeText(msg); }
       this.textContent = 'Copy ho gaya ✓';
       var self = this;
       setTimeout(function () { self.textContent = 'Copy karo'; }, 2000);
