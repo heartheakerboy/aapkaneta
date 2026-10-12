@@ -3,12 +3,15 @@ import Layout from '../layouts/Layout.astro';
 import { netas } from '../data/all';
 ---
 
-<Layout title="Netavon ki tulna — Palghar" description="Palghar jile ke netaon ki tulna: pad, party, karyakaal, fund utilization aur verified kaam.">
+<Layout title="Netavon ki tulna — Maharashtra" description="Maharashtra ke 288 MLA aur 48 MP ki tulna: pad, party, halafnama record aur verified kaam.">
   <style>
     .t-hero { background: var(--ink); color: #fff; padding: 44px 0; }
     .t-hero h1 { font-size: 32px; }
     .t-hero p { color: #cbd5e1; margin-top: 8px; }
-    .table-wrap { overflow-x: auto; margin-top: 28px; }
+    .chips { display: flex; gap: 10px; margin-top: 24px; flex-wrap: wrap; }
+    .chip { border: 2px solid var(--line); background: #fff; border-radius: 999px; padding: 8px 18px; font-size: 15px; font-weight: 700; cursor: pointer; font-family: inherit; color: var(--ink); }
+    .chip.active { background: var(--ink); color: #fff; border-color: var(--ink); }
+    .table-wrap { overflow-x: auto; margin-top: 20px; }
     table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 14px; overflow: hidden; font-size: 15px; min-width: 760px; }
     th { background: var(--ink); color: #fff; text-align: left; padding: 14px 16px; font-size: 14px; }
     td { padding: 14px 16px; border-bottom: 1px solid var(--line); }
@@ -17,16 +20,22 @@ import { netas } from '../data/all';
     td a { font-weight: 700; color: var(--ink); text-decoration: none; }
     td a:hover { color: var(--accent); }
     .note { font-size: 14px; color: var(--ink-soft); margin-top: 16px; }
+    .hidden-row { display: none; }
   </style>
 
   <div class="t-hero">
     <div class="wrap">
       <h1>Netavon ki tulna</h1>
-      <p>Palghar jila — ek nazar me 7 neta. Tathya record ke anusaar, raay aapki.</p>
+      <p>Maharashtra — ek nazar me {netas.length} neta. Tathya record ke anusaar, raay aapki.</p>
     </div>
   </div>
 
   <div class="wrap">
+    <div class="chips" id="chips">
+      <button class="chip active" data-f="all">Sab ({netas.length})</button>
+      <button class="chip" data-f="MP">MP ({netas.filter(n => n.post === 'MP').length})</button>
+      <button class="chip" data-f="MLA">MLA ({netas.filter(n => n.post === 'MLA').length})</button>
+    </div>
     <div class="table-wrap">
       <table>
         <thead>
@@ -43,7 +52,7 @@ import { netas } from '../data/all';
         </thead>
         <tbody>
           {netas.map(n => (
-            <tr>
+            <tr data-post={n.post}>
               <td><a href={`/neta/${n.slug}`}>{n.name}</a></td>
               <td>{n.post}</td>
               <td>{n.constituency}</td>
@@ -59,4 +68,17 @@ import { netas } from '../data/all';
     </div>
     <p class="note">* "Record baaki" ka matlab hai data jama kiya ja raha hai — ye kisi neta ke khilaf tippani nahi hai. <a href="/methodology">Methodology padhein</a>.</p>
   </div>
+
+  <script>
+    const chips = document.getElementById('chips');
+    const rows = Array.from(document.querySelectorAll('tbody tr'));
+    chips.addEventListener('click', (e) => {
+      const btn = e.target.closest('.chip');
+      if (!btn) return;
+      chips.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+      btn.classList.add('active');
+      const f = btn.dataset.f;
+      rows.forEach(r => r.classList.toggle('hidden-row', f !== 'all' && r.dataset.post !== f));
+    });
+  </script>
 </Layout>

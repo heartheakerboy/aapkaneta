@@ -1,8 +1,23 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { netas, badgeMeta } from '../data/all';
+import { netas, constituencies, badgeMeta } from '../data/all';
 
 const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).join('');
+const constBySlug: Record<string, (typeof constituencies)[number]> = Object.fromEntries(constituencies.map(c => [c.slug, c]));
+
+const mps = netas.filter(n => n.post === 'MP');
+const mlas = netas.filter(n => n.post === 'MLA');
+
+const byDistrict = new Map<string, typeof mlas>();
+for (const n of mlas) {
+  const d = constBySlug[n.constituencySlug]?.district || 'Anya';
+  if (!byDistrict.has(d)) byDistrict.set(d, []);
+  byDistrict.get(d)!.push(n);
+}
+const districts = [...byDistrict.entries()].sort((a, b) => a[0].localeCompare(b[0], 'hi'));
+for (const [, arr] of districts) {
+  arr.sort((x, y) => (constBySlug[x.constituencySlug]?.number ?? 999) - (constBySlug[y.constituencySlug]?.number ?? 999));
+}
 ---
 
 <Layout title="AapkaNeta — Har neta ka hisaab, har nagrik ke haath">
@@ -21,6 +36,12 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
       border: 1px solid rgba(251,191,36,.5); padding: 6px 14px; border-radius: 999px; font-size: 14px; font-weight: 600;
     }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 18px; margin-top: 20px; }
+    .post-section { margin-top: 8px; }
+    .group-title { font-size: 22px; margin: 30px 0 4px; }
+    .group-title span { font-size: 15px; font-weight: 400; color: var(--ink-soft); }
+    .dist-group { margin-top: 22px; }
+    .dist-title { font-size: 17px; color: var(--ink); border-left: 4px solid var(--accent); padding-left: 10px; margin-bottom: 2px; }
+    .dist-title span { font-size: 13.5px; font-weight: 400; color: var(--ink-soft); }
     .cta-card {
       display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px;
       background: linear-gradient(150deg, #1b2a41, #2e4a73); color: #fff; text-decoration: none;
@@ -69,29 +90,61 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
 
   <div class="wrap">
     <h2 class="section-title">Maharashtra ke neta <span style="font-size:16px;font-weight:400;color:var(--ink-soft)">({netas.length} profiles)</span></h2>
-    <div class="grid" id="netaGrid">
-      {netas.map(n => (
-        <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
-          <div class="neta-top">
-            <div class="avatar">{initials(n.name)}</div>
-            <div>
-              <h3>{n.name}</h3>
-              <div class="neta-meta">{n.post} • {n.constituency}</div>
+
+    <section class="post-section" id="mpSection">
+      <h3 class="group-title">Sansad — Lok Sabha MP <span>({mps.length})</span></h3>
+      <div class="grid">
+        {mps.map(n => (
+          <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
+            <div class="neta-top">
+              <div class="avatar">{initials(n.name)}</div>
+              <div>
+                <h3>{n.name}</h3>
+                <div class="neta-meta">{n.post} • {n.constituency}</div>
+              </div>
             </div>
+            <span class="party-pill">{n.partyShort}</span>
+            <div class="neta-foot">
+              <span>{n.works.length} verified kaam</span>
+              <span>Profile dekhein →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="post-section" id="mlaSection">
+      <h3 class="group-title">Vidhan Sabha — jile ke hisaab se <span>({mlas.length} MLA)</span></h3>
+      {districts.map(([d, arr]) => (
+        <div class="dist-group" data-district={d}>
+          <h4 class="dist-title">{d} <span>({arr.length})</span></h4>
+          <div class="grid">
+            {arr.map(n => (
+              <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort} ${d}`.toLowerCase()}>
+                <div class="neta-top">
+                  <div class="avatar">{initials(n.name)}</div>
+                  <div>
+                    <h3>{n.name}</h3>
+                    <div class="neta-meta">{n.post} • {n.constituency}</div>
+                  </div>
+                </div>
+                <span class="party-pill">{n.partyShort}</span>
+                <div class="neta-foot">
+                  <span>{n.works.length} verified kaam</span>
+                  <span>Profile dekhein →</span>
+                </div>
+              </a>
+            ))}
           </div>
-          <span class="party-pill">{n.partyShort}</span>
-          <div class="neta-foot">
-            <span>{n.works.length} verified kaam</span>
-            <span>Profile dekhein →</span>
-          </div>
-        </a>
+        </div>
       ))}
-      <a class="cta-card" href="/rti">
-        <h3>Aur bhi neta jud rahe hain</h3>
-        <p>Maharashtra ke 288 MLA — dheere-dheere. RTI drive me hissa lo, apne kshetra ka hisaab sabse pehle lao.</p>
-        <span class="link">RTI Drive me hissa lo →</span>
-      </a>
-    </div>
+    </section>
+
+    <a class="cta-card" href="/rti" style="margin-top:26px">
+      <h3>Aur bhi neta jud rahe hain</h3>
+      <p>Maharashtra ke 288 MLA — dheere-dheere. RTI drive me hissa lo, apne kshetra ka hisaab sabse pehle lao.</p>
+      <span class="link">RTI Drive me hissa lo →</span>
+    </a>
     <div class="no-results card" id="noResults">Koi neta nahi mila — spelling badal kar try karein.</div>
 
     <h2 class="section-title">Ye kaam kaise karta hai?</h2>
@@ -127,6 +180,7 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
   <script>
     const q = document.getElementById('q');
     const cards = Array.from(document.querySelectorAll('.neta-card'));
+    const groups = Array.from(document.querySelectorAll('.dist-group, .post-section'));
     const noResults = document.getElementById('noResults');
     q.addEventListener('input', () => {
       const v = q.value.trim().toLowerCase();
@@ -135,6 +189,10 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
         const hit = !v || c.dataset.search.includes(v);
         c.classList.toggle('hidden-card', !hit);
         if (hit) visible++;
+      });
+      groups.forEach(g => {
+        const anyVisible = Array.from(g.querySelectorAll('.neta-card')).some(c => !c.classList.contains('hidden-card'));
+        g.style.display = anyVisible ? '' : 'none';
       });
       noResults.style.display = visible ? 'none' : 'block';
     });
