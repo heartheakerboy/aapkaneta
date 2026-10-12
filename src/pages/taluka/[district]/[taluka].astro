@@ -1,6 +1,6 @@
 ---
 import Layout from '../../../layouts/Layout.astro';
-import { netas, constituencies } from '../../../data/all';
+import { mhaNetasAll, mhaConstsAll } from '../../../data/all';
 import { districtTalukas, districtSlug, slugify, districtPath, acTalukas, acDistrict } from '../../../data/geo';
 
 export function getStaticPaths() {
@@ -16,8 +16,8 @@ export function getStaticPaths() {
 const { district, taluka } = Astro.props;
 // All ACs whose extent includes this taluka (even if the AC sits in a neighbouring district)
 const acNums = Object.entries(acTalukas).filter(([, ts]) => ts.includes(taluka)).map(([n]) => Number(n)).sort((a, b) => a - b);
-const constByNum = Object.fromEntries(constituencies.filter(c => c.type === 'Vidhan Sabha' && c.number != null).map(c => [c.number!, c]));
-const netaByConst = Object.fromEntries(netas.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
+const constByNum = Object.fromEntries(mhaConstsAll.filter(c => c.type === 'Vidhan Sabha' && c.number != null).map(c => [c.number!, c]));
+const netaByConst = Object.fromEntries(mhaNetasAll.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
 ---
 
 <Layout title={`${taluka} taluka, ${district} — kshetra aur neta`} description={`${taluka} taluka (${district} jila) me aane wale Vidhan Sabha kshetron ke MLA aur unke kaam ka record.`}>

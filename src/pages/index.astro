@@ -1,14 +1,14 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { netas, constituencies, badgeMeta } from '../data/all';
+import { netas, constituencies, badgeMeta, mhaNetasAll, netaUrl } from '../data/all';
 import { districtPath } from '../data/geo';
 
 const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).join('');
 const constBySlug: Record<string, (typeof constituencies)[number]> = Object.fromEntries(constituencies.map(c => [c.slug, c]));
 
-const mps = netas.filter(n => n.post === 'MP' && n.house !== 'Rajya Sabha');
-const rsMps = netas.filter(n => n.post === 'MP' && n.house === 'Rajya Sabha');
-const mlas = netas.filter(n => n.post === 'MLA');
+const mps = mhaNetasAll.filter(n => n.post === 'MP' && n.house !== 'Rajya Sabha');
+const rsMps = mhaNetasAll.filter(n => n.post === 'MP' && n.house === 'Rajya Sabha');
+const mlas = mhaNetasAll.filter(n => n.post === 'MLA');
 
 const byDistrict = new Map<string, typeof mlas>();
 for (const n of mlas) {
@@ -91,13 +91,19 @@ for (const [, arr] of districts) {
   </section>
 
   <div class="wrap">
-    <h2 class="section-title">Maharashtra ke neta <span style="font-size:16px;font-weight:400;color:var(--ink-soft)">({netas.length} profiles)</span></h2>
+    <a href="/gujarat" style="text-decoration:none;display:block;margin-top:26px">
+      <div class="card" style="background:linear-gradient(150deg,#1b2a41,#2e4a73);color:#fff;border:none">
+        <h3 style="font-size:20px">🗺️ Gujarat jud gaya! <span style="font-weight:400;font-size:15px;color:#cbd5e1">— 182 MLA + 26 MP + 11 Rajya Sabha MP, halafnama record ke saath</span></h3>
+        <p style="color:#cbd5e1;font-size:14.5px;margin-top:6px">Gujarat ke netaon ka hisaab ab AapkaNeta par — <span style="color:#fbbf24;font-weight:700">Gujarat section dekhein →</span></p>
+      </div>
+    </a>
+    <h2 class="section-title">Maharashtra ke neta <span style="font-size:16px;font-weight:400;color:var(--ink-soft)">({mhaNetasAll.length} profiles)</span></h2>
 
     <section class="post-section" id="mpSection">
       <h3 class="group-title">Sansad — Lok Sabha MP <span>({mps.length})</span></h3>
       <div class="grid">
         {mps.map(n => (
-          <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
+          <a class="neta-card card" href={netaUrl(n)} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
             <div class="neta-top">
               <div class="avatar">{initials(n.name)}</div>
               <div>
@@ -119,7 +125,7 @@ for (const [, arr] of districts) {
       <h3 class="group-title">Sansad — Rajya Sabha MP <span>({rsMps.length})</span></h3>
       <div class="grid">
         {rsMps.map(n => (
-          <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
+          <a class="neta-card card" href={netaUrl(n)} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
             <div class="neta-top">
               <div class="avatar">{initials(n.name)}</div>
               <div>
@@ -144,7 +150,7 @@ for (const [, arr] of districts) {
           <h4 class="dist-title"><a href={districtPath(d)}>{d}</a> <span>({arr.length})</span></h4>
           <div class="grid">
             {arr.map(n => (
-              <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort} ${d}`.toLowerCase()}>
+              <a class="neta-card card" href={netaUrl(n)} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort} ${d}`.toLowerCase()}>
                 <div class="neta-top">
                   <div class="avatar">{initials(n.name)}</div>
                   <div>

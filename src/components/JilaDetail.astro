@@ -1,0 +1,87 @@
+---
+import Layout from '../layouts/Layout.astro';
+import type { Neta, Constituency } from '../data/pilot';
+
+interface Props {
+  district: string;
+  districtSlugStr: string;
+  acs: Constituency[];
+  netaByConst: Record<string, Neta>;
+  mps: Neta[];
+  talukas: string[];
+  base: string;
+  stateName: string;
+  srcNote?: string;
+}
+
+const { district, acs, netaByConst, mps, talukas, base, stateName, srcNote } = Astro.props;
+const withWorks = acs.filter(a => (netaByConst[a.slug]?.works.length ?? 0) > 0).length;
+---
+
+<Layout title={`${district} jila — neta aur kshetra`} description={`${district} jile ke ${acs.length} Vidhan Sabha kshetron ke MLA${talukas.length ? ', taluke' : ''} aur Lok Sabha kshetron ki suchi.`}>
+  <style>
+    .k-hero { background: #fff; border-bottom: 1px solid var(--line); padding: 40px 0 30px; }
+    .k-hero h1 { font-size: 32px; }
+    .k-meta { color: var(--ink-soft); margin-top: 6px; font-size: 16px; }
+    .back { display: inline-block; margin-bottom: 18px; font-size: 15px; text-decoration: none; }
+    .chips { display: flex; flex-wrap: wrap; gap: 10px; margin: 6px 0 8px; }
+    .chip { background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 8px 16px; text-decoration: none; color: var(--ink); font-size: 15px; }
+    .chip:hover { border-color: var(--accent); color: var(--accent); }
+    .note { color: var(--ink-soft); }
+    .ac-list { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+    .ac-row { display: grid; grid-template-columns: 52px 1fr auto auto; gap: 12px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; text-decoration: none; color: inherit; }
+    .ac-row:hover { border-color: var(--accent); }
+    .ac-num { font-weight: 800; color: var(--accent); }
+    .ac-name { font-weight: 600; }
+    .ac-mla { color: var(--ink-soft); font-size: 14px; }
+    .ac-works { font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
+    .src-note { margin-top: 22px; font-size: 13px; color: var(--ink-soft); }
+    @media (max-width: 640px) { .ac-row { grid-template-columns: 44px 1fr; } .ac-mla, .ac-works { display: none; } }
+  </style>
+
+  <div class="k-hero">
+    <div class="wrap">
+      <a class="back" href={base || '/'}>← {base ? 'Gujarat home' : 'Home'}</a>
+      <h1>Jila {district}</h1>
+      <div class="k-meta">{acs.length} Vidhan Sabha kshetra{talukas.length ? ` • ${talukas.length} taluke` : ''} • {stateName}</div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    {talukas.length > 0 ? (
+      <>
+        <h2 class="section-title">Taluke <span>({talukas.length})</span></h2>
+        <div class="chips">
+          {talukas.map(t => <span class="chip">{t}</span>)}
+        </div>
+      </>
+    ) : (
+      <p class="note" style="margin-top:16px">Taluka suchi jald jodi jayegi.</p>
+    )}
+
+    {mps.length > 0 && (
+      <>
+        <h2 class="section-title">Lok Sabha kshetra <span>({mps.length})</span></h2>
+        <div class="chips">
+          {mps.map(m => <a class="chip" href={`${base}/neta/${m.slug}`}>{m.constituency.replace(' (Lok Sabha)', '')} — {m.name}</a>)}
+        </div>
+      </>
+    )}
+
+    <h2 class="section-title">Vidhan Sabha kshetra <span>({acs.length}{withWorks ? ` — ${withWorks} me verified kaam` : ''})</span></h2>
+    <div class="ac-list">
+      {acs.map(a => {
+        const n = netaByConst[a.slug];
+        return (
+          <a class="ac-row" href={`${base}/kshetra/${a.slug}`}>
+            <span class="ac-num">{a.number}</span>
+            <span class="ac-name">{a.name}{a.reservation && a.reservation !== '—' ? ` (${a.reservation})` : ''}</span>
+            <span class="ac-mla">{n ? n.name : '—'}</span>
+            <span class="ac-works">{n ? `${n.works.length} kaam` : ''}</span>
+          </a>
+        );
+      })}
+    </div>
+    {srcNote && <p class="src-note">{srcNote}</p>}
+  </div>
+</Layout>

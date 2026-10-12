@@ -1,64 +1,17 @@
 ---
-import Layout from '../../layouts/Layout.astro';
-import { constituencies, getConstituency, netasByConstituency } from '../../data/all';
-import { acTalukas, talukaLink, districtPath } from '../../data/geo';
+import KshetraDetail from '../../components/KshetraDetail.astro';
+import { mhaConstsAll, mhaNetasAll } from '../../data/all';
+import { acTalukas, districtPath } from '../../data/geo';
 
 export function getStaticPaths() {
-  return constituencies.map(c => ({ params: { slug: c.slug } }));
+  return mhaConstsAll.map(c => ({ params: { slug: c.slug } }));
 }
 
 const { slug } = Astro.params;
-const kshetra = getConstituency(slug!);
+const kshetra = mhaConstsAll.find(c => c.slug === slug);
 if (!kshetra) throw new Error('Constituency not found: ' + slug);
-const leaders = netasByConstituency(kshetra.slug);
+const leaders = mhaNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
 const talukas = kshetra.type === 'Vidhan Sabha' && kshetra.number != null ? (acTalukas[kshetra.number] || []) : [];
 ---
 
-<Layout title={`${kshetra.name} ${kshetra.type} — kshetra ka hisaab`} description={`${kshetra.name} ${kshetra.type}${kshetra.district ? ` (jila ${kshetra.district})` : ''} ke neta aur unke kaam ka satyaapit record.`}>
-  <style>
-    .k-hero { background: #fff; border-bottom: 1px solid var(--line); padding: 40px 0 30px; }
-    .k-hero h1 { font-size: 32px; }
-    .k-meta { color: var(--ink-soft); margin-top: 6px; font-size: 16px; }
-    .leader { display: flex; gap: 16px; align-items: center; text-decoration: none; color: inherit; padding: 16px 0; border-bottom: 1px solid var(--line); }
-    .leader:last-child { border-bottom: none; }
-    .avatar { width: 52px; height: 52px; border-radius: 50%; background: linear-gradient(135deg, #1b2a41, #3d5a80); color: #fff; display: grid; place-items: center; font-weight: 800; font-size: 18px; flex-shrink: 0; }
-    .leader h3 { font-size: 18px; }
-    .leader p { font-size: 14px; color: var(--ink-soft); }
-    .back { display: inline-block; margin-bottom: 18px; font-size: 15px; text-decoration: none; }
-  </style>
-
-  <div class="k-hero">
-    <div class="wrap">
-      <a class="back" href="/">← Home</a>
-      <h1>{kshetra.name} <span style="font-weight:400;color:var(--ink-soft)">({kshetra.type}{kshetra.number ? ` • No. ${kshetra.number}` : ''})</span></h1>
-      <div class="k-meta">{kshetra.district ? <span>Jila <a href={districtPath(kshetra.district)}>{kshetra.district}</a>, Maharashtra</span> : 'Maharashtra'} • Arakshan: {kshetra.reservation}</div>
-      {talukas.length > 0 && (
-        <div class="k-talukas">Taluke: {talukas.map((t, i) => (<span>{i > 0 ? ', ' : ''}<a href={talukaLink(kshetra.district, t)}>{t}</a></span>))}</div>
-      )}
-    </div>
-  </div>
-
-  <div class="wrap">
-    <h2 class="section-title">Is kshetra ke neta</h2>
-    <div class="card">
-      {leaders.map(n => (
-        <a class="leader" href={`/neta/${n.slug}`}>
-          <div class="avatar">{n.name.split(' ').map(w=>w[0]).slice(0,2).join('')}</div>
-          <div>
-            <h3>{n.name}</h3>
-            <p>{n.post} • {n.partyShort} • karyakaal: {n.tenures.find(t=>t.constituencySlug===kshetra.slug)?.start}–{n.tenures.find(t=>t.constituencySlug===kshetra.slug)?.end}</p>
-          </div>
-          <span style="margin-left:auto;font-size:20px">→</span>
-        </a>
-      ))}
-    </div>
-
-    <div class="card" style="margin-top:20px">
-      <h3>Is kshetra ka kaam</h3>
-      <p style="color:var(--ink-soft);font-size:15px;margin-top:8px">
-        Kshetra-wise kaam ki list RTI Drive #1 ke jawab aane ke baad yahan dikhegi.
-        <a href="/rti">RTI template</a> se aap bhi hisaab mang sakte hain.
-      </p>
-    </div>
-  </div>
-</Layout>
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="" stateName="Maharashtra" talukas={talukas} districtHref={kshetra.district ? districtPath(kshetra.district) : null} />

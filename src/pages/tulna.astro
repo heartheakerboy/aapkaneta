@@ -1,9 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { netas } from '../data/all';
+import { netas, netaUrl, isGujarat } from '../data/all';
 ---
 
-<Layout title="Netavon ki tulna — Maharashtra" description="Maharashtra ke 288 MLA aur 48 MP ki tulna: pad, party, halafnama record aur verified kaam.">
+<Layout title="Netavon ki tulna — Maharashtra + Gujarat" description="Maharashtra aur Gujarat ke netaon ki tulna: pad, party, halafnama record aur verified kaam.">
   <style>
     .t-hero { background: var(--ink); color: #fff; padding: 44px 0; }
     .t-hero h1 { font-size: 32px; }
@@ -26,7 +26,7 @@ import { netas } from '../data/all';
   <div class="t-hero">
     <div class="wrap">
       <h1>Comparison</h1>
-      <p>Maharashtra — ek nazar me {netas.length} neta. Tathya record ke anusaar, raay aapki.</p>
+      <p>Maharashtra + Gujarat — ek nazar me {netas.length} neta. Tathya record ke anusaar, raay aapki.</p>
     </div>
   </div>
 
@@ -35,6 +35,8 @@ import { netas } from '../data/all';
       <button class="chip active" data-f="all">Sab ({netas.length})</button>
       <button class="chip" data-f="MP">MP ({netas.filter(n => n.post === 'MP').length})</button>
       <button class="chip" data-f="MLA">MLA ({netas.filter(n => n.post === 'MLA').length})</button>
+      <button class="chip" data-s="Maharashtra">Maharashtra ({netas.filter(n => !isGujarat(n)).length})</button>
+      <button class="chip" data-s="Gujarat">Gujarat ({netas.filter(isGujarat).length})</button>
     </div>
     <div class="table-wrap">
       <table>
@@ -52,8 +54,8 @@ import { netas } from '../data/all';
         </thead>
         <tbody>
           {netas.map(n => (
-            <tr data-post={n.post}>
-              <td><a href={`/neta/${n.slug}`}>{n.name}</a></td>
+            <tr data-post={n.post} data-state={isGujarat(n) ? "Gujarat" : "Maharashtra"}>
+              <td><a href={netaUrl(n)}>{n.name}</a></td>
               <td>{n.post}</td>
               <td>{n.constituency}</td>
               <td>{n.partyShort}</td>
@@ -78,7 +80,12 @@ import { netas } from '../data/all';
       chips.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
       btn.classList.add('active');
       const f = btn.dataset.f;
-      rows.forEach(r => r.classList.toggle('hidden-row', f !== 'all' && r.dataset.post !== f));
+      const st = btn.dataset.s;
+      rows.forEach(r => {
+        const okF = !f || f === 'all' || r.dataset.post === f;
+        const okS = !st || r.dataset.state === st;
+        r.classList.toggle('hidden-row', !(okF && okS));
+      });
     });
   </script>
 </Layout>

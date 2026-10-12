@@ -1,16 +1,24 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { allConstituencies, netasByConstituency } from '../data/all';
+import { allConstituencies, allNetas } from '../data/all';
 
-const assembly = allConstituencies
-  .filter(c => c.type === 'Vidhan Sabha')
+const mhaAssembly = allConstituencies
+  .filter(c => c.type === 'Vidhan Sabha' && (c as any).state !== 'Gujarat')
+  .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
+const gujAssembly = allConstituencies
+  .filter(c => c.type === 'Vidhan Sabha' && (c as any).state === 'Gujarat')
   .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
 
-const districts = [...new Set(assembly.map(c => c.district))].sort();
+const mhaDistricts = [...new Set(mhaAssembly.map(c => c.district))].sort();
+const gujDistricts = [...new Set(gujAssembly.map(c => c.district))].sort();
 
-function templateFor(c: { slug: string; name: string; district: string }): string {
-  const leaders = netasByConstituency(c.slug);
-  const neta = leaders[0]?.name ?? 'maananeey vidhaayak';
+function netaFor(state: string, slug: string): string {
+  const n = allNetas.find(n => ((n.state ?? 'Maharashtra') === state) && n.tenures.some(t => t.constituencySlug === slug));
+  return n?.name ?? 'maananeey vidhaayak';
+}
+
+function templateFor(state: string, c: { slug: string; name: string; district: string }): string {
+  const neta = netaFor(state, c.slug);
   return `Seva me,\nJan Soochna Adhikaari,\nJila Niyojan Adhikaari, ${c.district}\n\nVishay: ${c.name} Vidhan Sabha kshetra me Vidhayak Kshetra Vikas Nidhi (MLALADS) se sambandhit soochna — RTI 2005 ki dhaara 6(1) ke antargat\n\nMahoday,\n\nKripya nimn soochna uplabdh karayein:\n\n1. Vitt varsh 2024-25 aur 2025-26 me ${c.name} kshetra ke liye MLALADS ke tahat kul kitni raashi aavantit hui?\n2. Ukt avadhi me ${neta} dwara kaun-kaun se kaam swikrit kiye gaye? (kaam ka naam, sthal, laagat sahit soochi)\n3. Inme se kitne kaam poore hue, kitne pragati par hain, kitne shuru nahi hue?\n4. Poore hue kaamon ke completion certificate ki prati uplabdh karayein.\n\nAavedak ka naam/pata:\n[Apna naam]\n[Apna pata]\n\nDinank: [tareekh]`;
 }
 ---
@@ -54,13 +62,13 @@ function templateFor(c: { slug: string; name: string; district: string }): strin
     <div class="wrap r-hero-grid">
       <div>
         <h1>File RTI</h1>
-        <p>Maharashtra me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>288 seaton</b> ke liye taiyaar template hai — apna jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+        <p>Maharashtra aur Gujarat me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>470 seaton</b> ke liye taiyaar template hai — apna rajya aur jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
       </div>
       <div class="r-hero-card">
         <b>RTI Drive</b>
         <div class="r-hero-stats">
-          <div><strong>288</strong><span>seats</span></div>
-          <div><strong>288</strong><span>templates</span></div>
+          <div><strong>470</strong><span>seats</span></div>
+          <div><strong>470</strong><span>templates</span></div>
           <div><strong>₹10</strong><span>fees</span></div>
         </div>
         <p>Jawab 30 din me aata hai. Scan bhejo — verification ke baad neta ke profile par lagega.</p>
@@ -77,22 +85,34 @@ function templateFor(c: { slug: string; name: string; district: string }): strin
       <div class="card"><b>4. Jawab humein bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">30 din me jawab aayega. Scan humein bhejo — verification ke baad neta ke profile par lagega.</p></div>
     </div>
 
-    <h2 class="section-title">288 seaton ke taiyaar templates</h2>
+    <h2 class="section-title">470 seaton ke taiyaar templates</h2>
     <div class="filter-bar">
+      <select id="stateFilter" aria-label="Rajya chunein">
+        <option value="Maharashtra">Maharashtra (288)</option>
+        <option value="Gujarat">Gujarat (182)</option>
+      </select>
       <select id="distFilter" aria-label="Jila chunein">
         <option value="">Saare jile</option>
-        {districts.map(d => <option value={d}>{d}</option>)}
       </select>
       <input id="seatSearch" type="text" placeholder="Seat ka naam likhein… (jaise: Dahanu, Kopargaon)" aria-label="Seat khojein" />
     </div>
     <div id="noResult">Koi seat nahi mili — spelling check karein ya jila badlein.</div>
-    {assembly.map(c => (
-      <div class="card tpl" data-district={c.district} data-seat={c.slug} data-name={c.name.toLowerCase()} id={`tpl-card-${c.slug}`}>
+    {mhaAssembly.map(c => (
+      <div class="card tpl" data-state="Maharashtra" data-district={c.district} data-seat={c.slug} data-name={c.name.toLowerCase()} id={`tpl-card-${c.slug}`}>
         <div class="tpl-head">
           <h3>{c.name} <span class="dist-tag">({c.district}{c.number ? ` — No. ${c.number}` : ''})</span></h3>
           <button class="copy-btn" data-tpl={c.slug}>Copy karo</button>
         </div>
-        <pre class="tpl-body" id={`tpl-${c.slug}`}>{templateFor(c)}</pre>
+        <pre class="tpl-body" id={`tpl-${c.slug}`}>{templateFor('Maharashtra', c)}</pre>
+      </div>
+    ))}
+    {gujAssembly.map(c => (
+      <div class="card tpl" data-state="Gujarat" data-district={c.district} data-seat={'guj-' + c.slug} data-name={c.name.toLowerCase()} id={`tpl-card-guj-${c.slug}`}>
+        <div class="tpl-head">
+          <h3>{c.name} <span class="dist-tag">({c.district}{c.number ? ` — No. ${c.number}` : ''})</span></h3>
+          <button class="copy-btn" data-tpl={'guj-' + c.slug}>Copy karo</button>
+        </div>
+        <pre class="tpl-body" id={`tpl-guj-${c.slug}`}>{templateFor('Gujarat', c)}</pre>
       </div>
     ))}
     <p style="font-size:14px;color:var(--ink-soft);margin:24px 0 8px">
@@ -102,32 +122,59 @@ function templateFor(c: { slug: string; name: string; district: string }): strin
 
   <script is:inline>
     (function () {
+      var stateSel = document.getElementById('stateFilter');
       var distSel = document.getElementById('distFilter');
       var search = document.getElementById('seatSearch');
       var cards = Array.prototype.slice.call(document.querySelectorAll('.tpl'));
       var noResult = document.getElementById('noResult');
+      var distByState = {
+        'Maharashtra': ['Ahmednagar','Akola','Amaravati','Aurangabad','Beed','Bhandara','Buldhana','Chandrapur','Dhule','Gadchiroli','Gondiya','Hingoli','Jalgaon','Jalna','Kolhapur','Latur','Mumbai City','Mumbai Suburban','Nagpur','Nanded','Nandurabar','Nashik','Osmanabad','Parbhani','Pune','Raigad','Ratnagiri','Sangli','Satara','Sindhudurg','Solapur','Thane','Wardha','Washim','Yavatmal'],
+        'Gujarat': ['Ahmedabad','Amreli','Anand','Aravalli','Banaskantha','Bharuch','Bhavnagar','Botad','Chhota Udaipur','Dahod','Dang','Devbhoomi Dwarka','Gandhinagar','Gir Somnath','Jamnagar','Junagadh','Kachchh','Kheda','Mahesana','Mahisagar','Morbi','Narmada','Navsari','Panchmahal','Patan','Porbandar','Rajkot','Sabarkantha','Surat','Surendranagar','Tapi','Vadodara','Valsad','Vav-Tharad']
+      };
+
+      function rebuildDistricts() {
+        var st = stateSel.value;
+        distSel.innerHTML = '<option value="">Saare jile</option>';
+        distByState[st].forEach(function (d) {
+          var o = document.createElement('option');
+          o.value = d; o.textContent = d;
+          distSel.appendChild(o);
+        });
+      }
 
       function applyFilter() {
+        var st = stateSel.value;
         var d = distSel.value;
         var q = search.value.trim().toLowerCase();
         var shown = 0;
         cards.forEach(function (card) {
+          var okS = card.getAttribute('data-state') === st;
           var okD = !d || card.getAttribute('data-district') === d;
           var okQ = !q || card.getAttribute('data-name').indexOf(q) !== -1;
-          var show = okD && okQ;
+          var show = okS && okD && okQ;
           card.classList.toggle('hidden', !show);
           if (show) shown++;
         });
         noResult.style.display = shown ? 'none' : 'block';
       }
+      stateSel.addEventListener('change', function () { rebuildDistricts(); applyFilter(); });
       distSel.addEventListener('change', applyFilter);
       search.addEventListener('input', applyFilter);
+      rebuildDistricts();
+      applyFilter();
 
       // ?seat=<slug> aaye to seedha us seat ka template dikhao
       var params = new URLSearchParams(location.search);
       var seat = params.get('seat');
+      var stParam = params.get('state');
+      if (stParam === 'Gujarat') {
+        stateSel.value = 'Gujarat';
+        rebuildDistricts();
+      }
       if (seat) {
-        var target = document.getElementById('tpl-card-' + seat);
+        var gid = 'tpl-card-guj-' + seat;
+        var mid = 'tpl-card-' + seat;
+        var target = (stParam === 'Gujarat' && document.getElementById(gid)) || document.getElementById(mid) || document.getElementById(gid);
         if (target) {
           distSel.value = '';
           search.value = '';
