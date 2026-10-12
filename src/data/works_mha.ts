@@ -3119,4 +3119,82 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Vidhan Parishad chunav me cross-voting ke aarop ke baad Congress adhyaksh Nana Patole ne Antapurkar (aur Zeeshan Siddique) ko party se nikaal diya. Baad me ve BJP me shamil hue aur Deglur se 2024 me jeete.',
     },
   ],
+  // ---- Osmanabad district batch (researched 2026-10-12) ----
+  'pravin-virbhadrayya-swami': [
+    {
+      title: 'DPDC nidhi me "dugla vyavhar" ka aarop — palakmantri par Umarga-Lohara ka haq ka nidhi rokne ka ilzam, andolan ki ghoshna',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Lokmat, 18 Sep 2026',
+      sourceUrl: 'https://www.lokmat.com/dharashiv/umarga-mla-pravin-swami-slams-guardian-minister-pratap-sarnaik-over-step-motherly-treatment-in-dpdc-funds-a-a320/amp/',
+      date: '2026-09-18',
+      note: 'Swami ne aarop lagaya ki virodhi paksh ka MLA hone ki wajah se palakmantri Pratap Sarnaik Umarga-Lohara ka DPDC nidhi rok rahe hain; DPDC baithak ka bahishkar kar vibhagiya ayukt se maangein rakhi — sar-sakat sukha ghoshna, 37 bhukampagrast gaon ke liye vishesh nidhi, Makani dam canal marammat. Maang/virodh stage hai.',
+    },
+  ],
+  'ranajagjitsinha-padmasinha-patil': [
+    {
+      title: 'Tuljapur tirtha kshetra vikas aarakhda ₹1,866 crore manzoor — Patil ne kalbadha kruti karyakram ke nirdesh diye',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Agrowon (Sakal), 12 May 2025',
+      sourceUrl: 'https://agrowon.esakal.com/agro-special/tuljapur-to-become-world-class-religious-destination-devendra-fadnavis-approves-masterplan',
+      date: '2025-05-12',
+      note: 'CM Fadnavis ki adhyakshta me shikhar samiti aur mantrimandal ne Tuljapur tirtha kshetra ke ₹1,866 crore ke vikas aarakhde ko manzoori di; MITRA upaadhyaksh aur MLA Patil ne 3 saal me poora karne ka kalbadha karyakram banane ke nirdesh diye — mandir jeernoddhar November se, pehle charan me bhusampadan.',
+    },
+    {
+      title: 'Tuljapur bhusampadan ke liye ₹18.89 crore ka nidhi jaari — shasan aadesh nirgamite, kaam ka shriganesha jald',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Divya Marathi, 15 Jan 2026',
+      sourceUrl: 'https://divyamarathi.bhaskar.com/amp/local/maharashtra/aurangabad/osmanabad/news/18-crores-for-land-acquisition-from-tuljapur-plan-136257582.html',
+      date: '2026-01-15',
+      note: 'Tuljapur tirtha kshetra vikas aarakhde ke tahat bhusampadan ke liye ₹18.89 crore ka nidhi jiladhikari/mandir samiti adhyaksh ko dene ka shasan aadesh jaari; jaankari MITRA upaadhyaksh aur MLA Patil ne di. Kul ₹1,865 crore ke aarakhde ka 30% bhusampadan ke liye.',
+    },
+  ],
+  'kailas-balasaheb-ghadge-patil': [
+    {
+      title: 'Dharashiv me ₹250 crore se zyada ke vikas kaam rokne ka aarop — Fadnavis sarkar par Patil ka hamla',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'NewsDrum (PTI), 03 Apr 2025',
+      sourceUrl: 'https://www.newsdrum.in/national/sena-ubt-mla-accuses-fadnavis-govt-of-stalling-development-works-of-rs-250-cr-in-dharashiv-8920798',
+      date: '2025-04-03',
+      note: 'Patil ne aarop lagaya ki prashasnik manzoori ke bawajood Dharashiv jile ke ₹250 crore se zyada ke vikas kaam rok diye gaye — yojana vibhag ne jiladhikari ko kaam "agale aadesh tak" rokne ka patr bheja. Sarkar ki taraf se jawab ki khabar nahi. Aarop stage hai.',
+    },
+  ],
+  'prof-dr-tanaji-jayawant-sawant': [
+    {
+      title: 'Paranda shahar ke mukhya raste ke liye ₹18 crore — Shivaji Chowk se bus sthanak tak bhoomipujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Divya Marathi, 19 Mar 2022',
+      sourceUrl: 'https://divyamarathi.bhaskar.com/amp/local/maharashtra/aurangabad/osmanabad/news/main-road-in-paranda-city-will-be-strengthened-with-18-crores-inauguration-by-sawant-130582949.html',
+      date: '2022-03-19',
+      period: '2019-2024',
+      note: 'Palakmantri ke roop me Sawant ne Paranda shahar ke mukhya raste (Chhatrapati Shivaji Maharaj Chowk se bus sthanak) ke majbutikaran ke liye ₹18 crore manzoor kar bhoomipujan kiya; rasta 10 saal se nidhi ke abhav me atka tha. Bhoomipujan stage hai.',
+    },
+  ],
+  // ---- Parbhani district batch (researched 2026-10-12) ----
+  'bordikar-meghna-deepak-sakore': [
+    {
+      title: 'Bori (Jintur) me gram sevak ko thappad maarne ki dhamki ka video viral — Rohit Pawar ne lagaya aarop, Bordikar ne kaha video edited',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'ThePrint (PTI), 04 Aug 2025',
+      sourceUrl: 'http://theprint.in/india/rohit-pawar-shares-video-of-minister-threatening-to-slap-official-cm-downplays-incident/2712532/?amp',
+      date: '2025-08-04',
+      note: 'NCP (SP) MLA Rohit Pawar ne video share karke aarop lagaya ki Bordikar ne Bori me sarkari karyakram me gram sevak ko dhamkaya; Bordikar ne kaha video edited hai aur gram sevak mahila labharthiyon se rishwat maangta tha — jan-hit me fatkara. CM Fadnavis ne maamle ko halka bataya. Aarop + khandan dono.',
+    },
+  ],
+  'gutte-ratnakar-manikrao': [
+    {
+      title: '₹400 crore CBI bank loan fraud case me Nagpur HC ka interim stay — Gutte ne FIR/chargesheet radd karne ki arzi di',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Economic Times, 04 Dec 2025',
+      sourceUrl: 'https://m.economictimes.com/news/india/nagpur-hc-stays-proceedings-in-rs-400-crore-cbi-loan-fraud-case-against-mla-ratnakar-gutte/amp_articleshow/125865461.cms',
+      date: '2025-12-04',
+      note: 'Bombay High Court (Nagpur bench) ne CBI ke ₹400 crore bank loan fraud case me CJM ko charges frame karne se rok diya; Gutte ne FIR/chargesheet radd karne ki arzi di hai — unka tark: yehi aarop pehle Maharashtra CID case me hain jisme Mumbai me trial chal raha hai. Aarop + adalat ki sthiti.',
+    },
+  ],
 };
