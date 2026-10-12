@@ -2291,4 +2291,37 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Negative khabar: PTI report ke mutabik 2004-2012 ke dauraan (Congress-NCP sarkar me) Gavit ke adivasi vikas mantri karyakal me adivasi kalyan nidhi me ₹6,000 crore ka ghotala hua tha. Aarop purane karyakal ka hai — koi doshsiddhi ki khabar nahi mili.',
     },
   ],
+  // ---- Amravati district batch (researched 2026-10-12) ----
+  'adsad-pratap-arunbhau': [
+    {
+      title: 'Dhamak (Nandgaon Khandeshwar) me ₹3 crore ke vikas kaamon ka bhoomipujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Divya Marathi, 01 Sep 2022',
+      sourceUrl: 'https://divyamarathi.bhaskar.com/amp/local/maharashtra/amravati/news/development-works-mla-pratap-adsad-performed-bhumi-pujan-at-dhamak-130255271.html',
+      date: '2022-09-01',
+      period: '2019-2024',
+      note: 'Adsad ne Dhamak gaon me school se Koregaon tak ke raste aur apne MLA nidhi se dusre raste ka bhoomipujan kiya. Bhoomipujan stage hai — 2019-2024 karyakal ka.',
+    },
+  ],
+  'sulbha-sanjay-khodke': [
+    {
+      title: 'Amravati Super Specialty Hospital ke oncology ward ke liye ₹5 crore manzoor — Khodke ke dabav par',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Times of India, 26 Jan 2026',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/amravati-cancer-ward-gets-boost-with-5cr-allocation/articleshow/127421424.cms',
+      date: '2026-01-26',
+      note: 'DPC baithak me Super Specialty Hospital ke oncology department me indoor ward ke liye ₹5 crore manzoor kiye; Khodke ne cancer care ki zaroorat uthaayi thi. Khodke ne 63 municipal schools ke liye DPC me naya head of account banane ki maang bhi rakhi.',
+    },
+    {
+      title: 'Amravati-Badnera line par ₹125.37 crore ke naye railway overbridge ki maang — March 2026 budget me provision ka ashwasan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Times of India, 16 Dec 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/demand-for-rs127cr-to-construct-new-flyover-in-amravati/articleshow/125966181.cms',
+      date: '2025-12-16',
+      note: 'Khodke ne winter session me Amravati-Badnera line par naye railway overbridge ke liye ₹125.37 crore ki maang ki; purana 1963 ka flyover unsafe paya gaya tha. Mantri ne March 2026 budget me provision ka ashwasan diya. Maang/ashwasan stage hai.',
+    },
+  ],
 };
