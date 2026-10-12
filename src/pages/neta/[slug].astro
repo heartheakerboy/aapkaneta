@@ -156,7 +156,7 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
 
     <div class="cta-row" style="margin: 36px 0 8px">
       <a class="btn" href="/rti">Is neta par RTI lagao</a>
-      <a class="btn-ghost" href="/methodology#correction">Galat info? Correction bhejo</a>
+      <a class="btn-ghost" href={`/correction?neta=${encodeURIComponent(neta.name)}`}>Galat info? Correction bhejo</a>
     </div>
   </div>
 </Layout>

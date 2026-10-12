@@ -1,0 +1,125 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Correction Bhejein" description="AapkaNeta.org par galat jaankari dikhe to correction bhejein — saboot ke saath.">
+  <style>
+    .l-hero { background: var(--ink); color: #fff; padding: 44px 0; }
+    .l-hero h1 { font-size: 32px; }
+    .l-hero p { color: #cbd5e1; margin-top: 8px; max-width: 680px; }
+    .l-block { margin-bottom: 20px; }
+    .l-block h2 { font-size: 20px; margin-bottom: 10px; }
+    .l-block p, .l-block li { color: var(--ink-soft); font-size: 15px; }
+    .l-block p { margin-bottom: 10px; }
+    .l-block ul { margin: 10px 0 10px 22px; }
+    .l-block li { margin-bottom: 8px; }
+    .form-grid { display: grid; gap: 14px; }
+    .form-grid label { font-size: 14px; font-weight: 600; color: var(--ink); display: block; }
+    .form-grid input, .form-grid select, .form-grid textarea {
+      width: 100%; margin-top: 6px; padding: 10px 12px; font-size: 15px;
+      border: 1px solid #cbd5e1; border-radius: 8px; font-family: inherit;
+    }
+    .form-grid textarea { min-height: 110px; resize: vertical; }
+    #corrOutput { display: none; margin-top: 18px; }
+    #corrText { width: 100%; min-height: 180px; padding: 12px; font-size: 14px; font-family: inherit;
+      border: 1px solid #cbd5e1; border-radius: 8px; background: #f8fafc; }
+    .btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 12px; }
+  </style>
+
+  <div class="l-hero">
+    <div class="wrap">
+      <h1>Correction Bhejein</h1>
+      <p>Galti humse bhi ho sakti hai. Saboot ke saath bheji gayi correction ki <b>48 ghante</b> me jaanch hoti hai.</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="card l-block">
+      <h2>Kaise kaam karta hai</h2>
+      <ul>
+        <li>Neeche form bharein — aapka sandesh taiyaar ho jayega.</li>
+        <li><b>Copy</b> dabakar use Instagram DM (<a href="https://www.instagram.com/rtibyfiroz/" rel="noopener" target="_blank">@rtibyfiroz</a>) me paste karke bhej dein.</li>
+        <li>Sahi paye jaane par sudhaar turant, aur jawab bhi milega.</li>
+      </ul>
+    </div>
+
+    <div class="card l-block">
+      <h2>Correction form</h2>
+      <div class="form-grid">
+        <div>
+          <label for="fNeta">Kis neta ke baare me? *</label>
+          <input id="fNeta" type="text" placeholder="Neta ka naam" />
+        </div>
+        <div>
+          <label for="fType">Correction kis cheez par hai? *</label>
+          <select id="fType">
+            <option>Kaam ki entry galat hai</option>
+            <option>Halafnama data galat hai</option>
+            <option>Naya kaam jodna hai</option>
+            <option>Entry hatani hai</option>
+            <option>Kuch aur</option>
+          </select>
+        </div>
+        <div>
+          <label for="fDetail">Sahi jaankari kya hai? *</label>
+          <textarea id="fDetail" placeholder="Galat kya hai aur sahi kya hai — saaf likhein"></textarea>
+        </div>
+        <div>
+          <label for="fProof">Saboot (news link / sarkari dastavez / RTI jawab)</label>
+          <input id="fProof" type="text" placeholder="https://..." />
+        </div>
+        <div>
+          <label for="fName">Aapka naam (optional)</label>
+          <input id="fName" type="text" placeholder="Naam" />
+        </div>
+        <button class="btn" id="genBtn" type="button">Sandesh taiyaar karo →</button>
+      </div>
+
+      <div id="corrOutput">
+        <label for="corrText" style="font-size:14px;font-weight:600">Aapka sandesh (copy karke bhej dein):</label>
+        <textarea id="corrText" readonly></textarea>
+        <div class="btn-row">
+          <button class="btn" id="copyBtn" type="button">Copy karo</button>
+          <a class="btn-ghost" href="https://www.instagram.com/rtibyfiroz/" rel="noopener" target="_blank">Instagram DM kholo</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script is:inline>
+  (function () {
+    var params = new URLSearchParams(location.search);
+    var neta = params.get('neta');
+    if (neta) { document.getElementById('fNeta').value = neta; }
+
+    document.getElementById('genBtn').addEventListener('click', function () {
+      var n = document.getElementById('fNeta').value.trim();
+      var t = document.getElementById('fType').value;
+      var d = document.getElementById('fDetail').value.trim();
+      var p = document.getElementById('fProof').value.trim();
+      var nm = document.getElementById('fName').value.trim();
+      if (!n || !d) { alert('Neta ka naam aur sahi jaankari bharna zaroori hai.'); return; }
+      var msg = 'CORRECTION REQUEST — AapkaNeta.org\n\n'
+        + 'Neta: ' + n + '\n'
+        + 'Vishay: ' + t + '\n'
+        + 'Sahi jaankari: ' + d + '\n'
+        + (p ? 'Saboot: ' + p + '\n' : '')
+        + (nm ? 'Bhejne wala: ' + nm + '\n' : '')
+        + 'Page: ' + location.origin + '/neta/' + encodeURIComponent(n.toLowerCase().replace(/[^a-z0-9]+/g, '-')) + '/';
+      document.getElementById('corrText').value = msg;
+      document.getElementById('corrOutput').style.display = 'block';
+      document.getElementById('corrOutput').scrollIntoView({ behavior: 'smooth' });
+    });
+
+    document.getElementById('copyBtn').addEventListener('click', function () {
+      var ta = document.getElementById('corrText');
+      ta.select();
+      try { document.execCommand('copy'); } catch (e) {}
+      if (navigator.clipboard) { navigator.clipboard.writeText(ta.value); }
+      this.textContent = 'Copy ho gaya ✓';
+      var self = this;
+      setTimeout(function () { self.textContent = 'Copy karo'; }, 2000);
+    });
+  })();
+  </script>
+</Layout>
