@@ -1649,4 +1649,67 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Phool kisaano ke hit me Patil ne plastic ke nakli phoolon par ban ki maang ki; signature campaign me 105 MLAs ne samarthan diya; CM ne baithak ka ashwasan diya. Maang hai — ban nahi hua.',
     },
   ],
+  // ---- Satara district batch (researched 2026-10-12) ----
+  'desai-shambhuraj-shivajirao': [
+    {
+      title: 'Karad-Chiplun Highway ka Patan wala kaam 15 December tak poora karne ka nirdesh',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Pune Pulse, 13 Jul 2025',
+      sourceUrl: 'https://www.mypunepulse.com/complete-karad-chiplun-highway-work-in-patan-by-december-15/',
+      date: '2025-07-13',
+      note: 'Guardian mantri ke roop me Desai ne review baithak lekar NH-166E ka dheema kaam dekh 15 December tak poora karne ka nirdesh diya. Nirdesh/review hai — kaam poora hua ya nahi, khabar nahi.',
+    },
+  ],
+  'shivendraraje-abhaysinhraje-bhonsle': [
+    {
+      title: 'Satara ka pehla IT park — Nagewadi ki 42 hectare zameen industrial zone ghoshit',
+      category: 'Rojgar',
+      badge: 'news',
+      sourceLabel: 'Pune Pulse, 18 Nov 2025',
+      sourceUrl: 'https://www.mypunepulse.com/green-signal-for-it-park-in-satara-as-nagewadi-land-declared-industrial-zone/',
+      date: '2025-11-18',
+      note: 'Shivendraraje ke prayason se Udyog vibhag ne Nagewadi ki 42.87 hectare zameen industrial zone ghoshit ki; MIDC ne prastav manzoor kiya. Zameen manzoor — park banna baaki.',
+    },
+    {
+      title: 'Ajinkyatara Fort aur Maharani Tararani Samadhi ke saundaryikaran ke liye ₹268 crore manzoor',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 08 Oct 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/kolhapur/deputy-chief-minister-approves-fund-for-beautification-of-historical-sites-in-maharashtra/articleshow/124383891.cms',
+      date: '2025-10-08',
+      note: 'PWD mantri Shivendraraje ki maang par DCM ne ₹358.89 crore manzoor kiye — Ajinkyatara Fort ₹135 crore, Sangam Mahuli Tarabai Samadhi ₹133 crore (dono Satara). Manzoori mili — nirman shuru hone ki khabar nahi.',
+    },
+  ],
+  'makrand-laxmanrao-jadhav': [
+    {
+      title: 'Barish-baadh prabhavit 33 lakh kisaano ke liye ₹3,258 crore rahat manzoor — ghoshna',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Akashvani News, 18 Oct 2025',
+      sourceUrl: 'https://newsonair.gov.in/maharashtra-sanctions-%e2%82%b93258-crore-relief-for-33-lakh-rain-hit-farmers/',
+      date: '2025-10-18',
+      note: 'Madad aur punarvas mantri ke roop me Jadhav ne 23 jilon ke baadh-prabhavit kisaano ke liye ₹3,258 crore sahayata ki ghoshna ki. Rajya-stariya ghoshna hai — Wai kshetra tak seemit nahi.',
+    },
+  ],
+  'jaykumar-bhagavanrao-gore': [
+    {
+      title: 'Mukhyamantri Samruddhi Gram Yojana ki ghoshna — behtareen gaon ko ₹5 crore tak inam',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'ThePrint (ANI/VMPL), 04 Jul 2025',
+      sourceUrl: 'https://theprint.in/ani-press-releases/rural-development-minister-jaykumar-gore-announces-5-cr-reward-samruddhi-gram-yojana-at-lokmat-sarpanch-awards-2025/2679611/?amp',
+      date: '2025-07-04',
+      note: 'Gram vikas mantri ke roop me Gore ne yojana ki ghoshna ki — taluka ₹25 lakh, jila ₹50 lakh, vibhag ₹1 crore, rajya ke behtareen gaon ko ₹5 crore. Ghoshna stage hai — laagu hone ki pushti nahi.',
+    },
+    {
+      title: 'Sanjay Raut ke aarop par vivaad — Gore ne kaha 2019 me adalat se bari hue',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times Now, 05 Mar 2025',
+      sourceUrl: 'https://www.timesnownews.com/india/who-is-jaykumar-gore-bjp-minister-accused-of-sending-obscene-pictures-to-woman-article-118734997/amp',
+      date: '2025-03-05',
+      note: 'Negative khabar: Sanjay Raut ne purane mamle ka hawala dekar isteefe ki maang ki; Gore ne kaha adalat ne 2019 me bari kar diya tha, aarop rajneetik badnaami hai aur manhani ka mukadma karenge.',
+    },
+  ],
 };
