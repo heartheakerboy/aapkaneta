@@ -1,17 +1,21 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { constituencies, netasByConstituency } from '../data/pilot';
+import { allConstituencies, netasByConstituency } from '../data/all';
 
-const assembly = constituencies.filter(c => c.type === 'Vidhan Sabha');
+const assembly = allConstituencies
+  .filter(c => c.type === 'Vidhan Sabha')
+  .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
 
-function templateFor(slug: string, name: string): string {
-  const leaders = netasByConstituency(slug);
+const districts = [...new Set(assembly.map(c => c.district))].sort();
+
+function templateFor(c: { slug: string; name: string; district: string }): string {
+  const leaders = netasByConstituency(c.slug);
   const neta = leaders[0]?.name ?? 'maananeey vidhaayak';
-  return `Seva me,\nJan Soochna Adhikaari,\nJila Niyojan Adhikaari, Palghar\n\nVishay: ${name} Vidhan Sabha kshetra me Vidhayak Kshetra Vikas Nidhi (MLALADS) se sambandhit soochna — RTI 2005 ki dhaara 6(1) ke antargat\n\nMahoday,\n\nKripya nimn soochna uplabdh karayein:\n\n1. Vitt varsh 2024-25 aur 2025-26 me ${name} kshetra ke liye MLALADS ke tahat kul kitni raashi aavantit hui?\n2. Ukt avadhi me ${neta} dwara kaun-kaun se kaam swikrit kiye gaye? (kaam ka naam, sthal, laagat sahit soochi)\n3. Inme se kitne kaam poore hue, kitne pragati par hain, kitne shuru nahi hue?\n4. Poore hue kaamon ke completion certificate ki prati uplabdh karayein.\n\nAavedak ka naam/pata:\n[Apna naam]\n[Apna pata]\n\nDinank: [tareekh]`;
+  return `Seva me,\nJan Soochna Adhikaari,\nJila Niyojan Adhikaari, ${c.district}\n\nVishay: ${c.name} Vidhan Sabha kshetra me Vidhayak Kshetra Vikas Nidhi (MLALADS) se sambandhit soochna — RTI 2005 ki dhaara 6(1) ke antargat\n\nMahoday,\n\nKripya nimn soochna uplabdh karayein:\n\n1. Vitt varsh 2024-25 aur 2025-26 me ${c.name} kshetra ke liye MLALADS ke tahat kul kitni raashi aavantit hui?\n2. Ukt avadhi me ${neta} dwara kaun-kaun se kaam swikrit kiye gaye? (kaam ka naam, sthal, laagat sahit soochi)\n3. Inme se kitne kaam poore hue, kitne pragati par hain, kitne shuru nahi hue?\n4. Poore hue kaamon ke completion certificate ki prati uplabdh karayein.\n\nAavedak ka naam/pata:\n[Apna naam]\n[Apna pata]\n\nDinank: [tareekh]`;
 }
 ---
 
-<Layout title="RTI Lagao — Apne neta ka hisaab mango" description="Apne MLA par RTI kaise lagayein: taiyaar template, 6 Palghar seaton ke liye. Jawab aate hi AapkaNeta par RTI Verified badge ke saath publish hoga.">
+<Layout title="File RTI — Apne neta ka hisaab mango" description="Apne MLA par RTI kaise lagayein: Maharashtra ki 288 Vidhan Sabha seaton ke liye taiyaar template. Jawab aate hi AapkaNeta par RTI Verified badge ke saath publish hoga.">
   <style>
     .r-hero { background: linear-gradient(160deg, #1b2a41, #2e4a73); color: #fff; padding: 44px 0; }
     .r-hero h1 { font-size: 32px; }
@@ -25,9 +29,16 @@ function templateFor(slug: string, name: string): string {
     .r-hero-stats span { font-size: 13px; color: #cbd5e1; }
     .r-hero-card p { font-size: 14px; }
     @media (max-width: 720px) { .r-hero-grid { grid-template-columns: 1fr; } }
+    .filter-bar { display: flex; gap: 12px; flex-wrap: wrap; margin: 18px 0; }
+    .filter-bar select, .filter-bar input {
+      padding: 10px 12px; font-size: 15px; border: 1px solid #cbd5e1; border-radius: 8px; font-family: inherit;
+    }
+    .filter-bar input { flex: 1; min-width: 200px; }
     .tpl { margin-bottom: 20px; }
+    .tpl.hidden { display: none; }
     .tpl-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
     .tpl-head h3 { font-size: 19px; }
+    .tpl-head .dist-tag { font-size: 13px; color: var(--ink-soft); font-weight: 400; }
     pre.tpl-body {
       background: #1b2a41; color: #e2e8f0; padding: 20px; border-radius: 12px;
       font-size: 13.5px; line-height: 1.7; white-space: pre-wrap; font-family: ui-monospace, monospace;
@@ -36,19 +47,20 @@ function templateFor(slug: string, name: string): string {
     .copy-btn { background: var(--accent); color: #fff; border: none; padding: 9px 18px; border-radius: 8px; font-weight: 700; cursor: pointer; font-size: 14px; font-family: inherit; }
     .copy-btn:hover { background: #92400e; }
     .howto { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 20px; }
+    #noResult { display: none; text-align: center; padding: 30px; color: var(--ink-soft); }
   </style>
 
   <div class="r-hero">
     <div class="wrap r-hero-grid">
       <div>
         <h1>File RTI</h1>
-        <p>Maharashtra me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche 6 seaton ke liye taiyaar template hai. Copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+        <p>Maharashtra me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>288 seaton</b> ke liye taiyaar template hai — apna jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
       </div>
       <div class="r-hero-card">
-        <b>RTI Drive #1</b>
+        <b>RTI Drive</b>
         <div class="r-hero-stats">
-          <div><strong>6</strong><span>seats</span></div>
-          <div><strong>6</strong><span>templates</span></div>
+          <div><strong>288</strong><span>seats</span></div>
+          <div><strong>288</strong><span>templates</span></div>
           <div><strong>₹10</strong><span>fees</span></div>
         </div>
         <p>Jawab 30 din me aata hai. Scan bhejo — verification ke baad neta ke profile par lagega.</p>
@@ -59,19 +71,28 @@ function templateFor(slug: string, name: string): string {
   <div class="wrap">
     <h2 class="section-title">RTI kaise lagayein?</h2>
     <div class="howto">
-      <div class="card"><b>1. Template copy karo</b><p style="font-size:14.5px;color:var(--ink-soft)">Neeche apne kshetra ka template copy karo.</p></div>
+      <div class="card"><b>1. Apna kshetra chunein</b><p style="font-size:14.5px;color:var(--ink-soft)">Neeche jila ya seat ka naam likhkar apna template dhoondhein.</p></div>
+      <div class="card"><b>2. Template copy karo</b><p style="font-size:14.5px;color:var(--ink-soft)">Copy karke apna naam-pata bharein.</p></div>
       <div class="card"><b>2. Online ya offline bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">Maharashtra: <a href="https://rtionline.maharashtra.gov.in/" rel="noopener">rtionline.maharashtra.gov.in</a> ya sambandhit karyalaya me. Fees: ₹10.</p></div>
-      <div class="card"><b>3. Jawab humein bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">30 din me jawab aayega. Scan humein bhejo — verification ke baad neta ke profile par lagega.</p></div>
+      <div class="card"><b>4. Jawab humein bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">30 din me jawab aayega. Scan humein bhejo — verification ke baad neta ke profile par lagega.</p></div>
     </div>
 
-    <h2 class="section-title">6 seaton ke taiyaar templates</h2>
+    <h2 class="section-title">288 seaton ke taiyaar templates</h2>
+    <div class="filter-bar">
+      <select id="distFilter" aria-label="Jila chunein">
+        <option value="">Saare jile</option>
+        {districts.map(d => <option value={d}>{d}</option>)}
+      </select>
+      <input id="seatSearch" type="text" placeholder="Seat ka naam likhein… (jaise: Dahanu, Kopargaon)" aria-label="Seat khojein" />
+    </div>
+    <div id="noResult">Koi seat nahi mili — spelling check karein ya jila badlein.</div>
     {assembly.map(c => (
-      <div class="card tpl">
+      <div class="card tpl" data-district={c.district} data-seat={c.slug} data-name={c.name.toLowerCase()} id={`tpl-card-${c.slug}`}>
         <div class="tpl-head">
-          <h3>{c.name} ({c.type}{c.number ? ` — No. ${c.number}` : ''})</h3>
+          <h3>{c.name} <span class="dist-tag">({c.district}{c.number ? ` — No. ${c.number}` : ''})</span></h3>
           <button class="copy-btn" data-tpl={c.slug}>Copy karo</button>
         </div>
-        <pre class="tpl-body" id={`tpl-${c.slug}`}>{templateFor(c.slug, c.name)}</pre>
+        <pre class="tpl-body" id={`tpl-${c.slug}`}>{templateFor(c)}</pre>
       </div>
     ))}
     <p style="font-size:14px;color:var(--ink-soft);margin:24px 0 8px">
@@ -79,25 +100,70 @@ function templateFor(slug: string, name: string): string {
     </p>
   </div>
 
-  <script>
-    document.querySelectorAll('.copy-btn').forEach(btn => {
-      btn.addEventListener('click', async () => {
-        const slug = btn.getAttribute('data-tpl');
-        const pre = document.getElementById('tpl-' + slug);
-        try {
-          await navigator.clipboard.writeText(pre.innerText);
-          const old = btn.textContent;
-          btn.textContent = 'Copied ✓';
-          setTimeout(() => btn.textContent = old, 1800);
-        } catch (e) {
-          const r = document.createRange();
-          r.selectNodeContents(pre);
-          const s = getSelection(); s.removeAllRanges(); s.addRange(r);
-          document.execCommand('copy'); s.removeAllRanges();
-          btn.textContent = 'Copied ✓';
-          setTimeout(() => btn.textContent = 'Copy karo', 1800);
+  <script is:inline>
+    (function () {
+      var distSel = document.getElementById('distFilter');
+      var search = document.getElementById('seatSearch');
+      var cards = Array.prototype.slice.call(document.querySelectorAll('.tpl'));
+      var noResult = document.getElementById('noResult');
+
+      function applyFilter() {
+        var d = distSel.value;
+        var q = search.value.trim().toLowerCase();
+        var shown = 0;
+        cards.forEach(function (card) {
+          var okD = !d || card.getAttribute('data-district') === d;
+          var okQ = !q || card.getAttribute('data-name').indexOf(q) !== -1;
+          var show = okD && okQ;
+          card.classList.toggle('hidden', !show);
+          if (show) shown++;
+        });
+        noResult.style.display = shown ? 'none' : 'block';
+      }
+      distSel.addEventListener('change', applyFilter);
+      search.addEventListener('input', applyFilter);
+
+      // ?seat=<slug> aaye to seedha us seat ka template dikhao
+      var params = new URLSearchParams(location.search);
+      var seat = params.get('seat');
+      if (seat) {
+        var target = document.getElementById('tpl-card-' + seat);
+        if (target) {
+          distSel.value = '';
+          search.value = '';
+          applyFilter();
+          cards.forEach(function (card) {
+            card.classList.toggle('hidden', card.getAttribute('data-seat') !== seat);
+          });
+          noResult.style.display = 'none';
+          setTimeout(function () {
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }, 300);
         }
+      }
+
+      document.querySelectorAll('.copy-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var slug = btn.getAttribute('data-tpl');
+          var pre = document.getElementById('tpl-' + slug);
+          var done = function () {
+            var old = btn.textContent;
+            btn.textContent = 'Copied ✓';
+            setTimeout(function () { btn.textContent = old; }, 1800);
+          };
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(pre.innerText).then(done).catch(function () { fallback(); });
+          } else { fallback(); }
+          function fallback() {
+            var r = document.createRange();
+            r.selectNodeContents(pre);
+            var s = getSelection(); s.removeAllRanges(); s.addRange(r);
+            try { document.execCommand('copy'); } catch (e) {}
+            s.removeAllRanges();
+            done();
+          }
+        });
       });
-    });
+    })();
   </script>
 </Layout>
