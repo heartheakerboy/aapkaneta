@@ -10,6 +10,7 @@ export interface Work {
   sourceLabel: string;
   sourceUrl?: string;
   date?: string;
+  period?: string;
   note?: string;
 }
 
@@ -83,9 +84,20 @@ export const netas: Neta[] = [
     constituency: 'Dahanu (ST)',
     constituencySlug: 'dahanu',
     tenures: [
+      { post: "MLA", constituency: "Dahanu (ST)", constituencySlug: "dahanu", party: "CPI(M)", start: "2019", end: "2024" },
       { post: 'MLA', constituency: 'Dahanu (ST)', constituencySlug: 'dahanu', party: 'CPI(M)', start: '2024', end: '2029' },
     ],
-    works: [],
+    works: [
+    {
+      title: "Bhiwandi-Ganeshpuri Zilla Parishad school ko van vibhag se manzoori dilwayi",
+      category: "School",
+      badge: "news",
+      sourceLabel: "rajkaran.in",
+      sourceUrl: "https://rajkaran.in/mla-vinod-bhiva-nikole",
+      period: "MLA karyakaal 2019–2024",
+      note: "Van mantri se pratinidhimandal ke saath milne ke baad school pariyojna ko manzoori mili",
+    },
+    ],
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
@@ -141,7 +153,28 @@ export const netas: Neta[] = [
       { post: 'MP', constituency: 'Palghar (ST)', constituencySlug: 'palghar-lok-sabha', party: 'Shiv Sena', start: '2019', end: '2024' },
       { post: 'MLA', constituency: 'Palghar (ST)', constituencySlug: 'palghar', party: 'Shiv Sena', start: '2024', end: '2029' },
     ],
-    works: [],
+    works: [
+    {
+      title: "Kuposhit bachchon ke punarvas-swasthya kendra ke liye MPLADS se ₹50 lakh manzoor",
+      category: "Aspataal",
+      badge: "news",
+      sourceLabel: "The Hindu",
+      sourceUrl: "https://www.thehindu.com/news/cities/mumbai/a-new-life-for-malnourished-children/article28665059.ece/amp/",
+      date: "2019",
+      period: "MP karyakaal 2018–2024",
+      note: "Vithu Mauli Trust ke kendra ke liye MPLADS se raashi",
+    },
+    {
+      title: "Ganeshotsav se pehle PWD ko sadak marammat ke nirdesh; karya-sthal par soochna board anivarya",
+      category: "Sadak",
+      badge: "news",
+      sourceLabel: "Free Press Journal",
+      sourceUrl: "https://www.freepressjournal.in/mumbai/ganeshotsav-2026-palghar-mla-rajendra-gavit-directs-pwd-contractors-to-complete-road-repairs-soon",
+      date: "Sep 2026",
+      period: "MLA karyakaal 2024–2029",
+      note: "Nirdesh jaari — kaam poora hone ki pushti baaki",
+    },
+    ],
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
@@ -166,9 +199,41 @@ export const netas: Neta[] = [
     constituency: 'Boisar (ST)',
     constituencySlug: 'boisar',
     tenures: [
+      { post: "MLA", constituency: "Boisar (ST)", constituencySlug: "boisar", party: "BVA", start: "2014", end: "2019" },
       { post: 'MLA', constituency: 'Boisar (ST)', constituencySlug: 'boisar', party: 'Shiv Sena', start: '2024', end: '2029' },
     ],
-    works: [],
+    works: [
+    {
+      title: "Vasai-Virar Ward F me sadak marammat abhiyaan ka shubharambh",
+      category: "Sadak",
+      badge: "news",
+      sourceLabel: "Free Press Journal",
+      sourceUrl: "https://www.freepressjournal.in/mumbai/palghar-civic-development-mla-vilas-tare-launches-major-road-repair-and-restoration-initiative-in-vasai-virars-ward-f-areas-citizens-express-relief",
+      date: "Nov 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "Sopara Phata, Dhaniv Baug, Goraipada sahit kai sthanon par marammat",
+    },
+    {
+      title: "Palghar jile ke liye 2 saal me 200 MSRTC buses ki ghoshna",
+      category: "Any",
+      badge: "news",
+      sourceLabel: "newsdrum (PTI)",
+      sourceUrl: "https://www.newsdrum.in/national/palghar-to-get-200-st-buses-over-next-two-years-11177999",
+      date: "Mar 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "Parivahan mantri se charcha ke baad — 2026-27 me 90, 2027-28 me 110 buses",
+    },
+    {
+      title: "Shigao Rampada me lagwaye gaye borewell me paani na aane ki sthaniya report",
+      category: "Paani",
+      badge: "news",
+      sourceLabel: "Gallinews",
+      sourceUrl: "https://gallinews.com/palghar-water-scarcity-in-adiwasi-villages/",
+      date: "~2017",
+      period: "MLA karyakaal 2014–2019",
+      note: "Sthaniya report ke anusaar borewell me paani nahi aaya; prashaasan ka paksh uplabdh nahi",
+    },
+    ],
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
@@ -195,7 +260,38 @@ export const netas: Neta[] = [
     tenures: [
       { post: 'MLA', constituency: 'Nalasopara', constituencySlug: 'nalasopara', party: 'BJP', start: '2024', end: '2029' },
     ],
-    works: [],
+    works: [
+    {
+      title: "Achole-Diwanman me 1500 ekad par BKC-style vikas ki maang; MMRDA ne prastaav sarkar ko bheja",
+      category: "Rojgar",
+      badge: "news",
+      sourceLabel: "Free Press Journal",
+      sourceUrl: "https://www.freepressjournal.in/mumbai/palghar-news-vasai-virar-set-to-receive-development-boost-as-mmrda-inspection-clears-key-projects",
+      date: "Dec 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "Sthaniya rojgar ke liye maang — manzoori/nirmaan ki pushti baaki",
+    },
+    {
+      title: "Virar-Nalasopara me sadakon ka bhumipujan; Santosh Bhuvan sadak 12 ghante me ukhadne ki khabar",
+      category: "Sadak",
+      badge: "news",
+      sourceLabel: "Free Press Journal",
+      sourceUrl: "https://www.freepressjournal.in/mumbai/nalasopara-civic-row-newly-repaired-road-crumbles-within-hours-of-inauguration-locals-slam-poor-quality-election-time-rush",
+      date: "Nov 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "FPJ ke anusaar sthaniya logon ne gunvatta par sawal uthaye",
+    },
+    {
+      title: "80+ atke punarvikas projects ke liye CM se vishesh samiti ki maang",
+      category: "Any",
+      badge: "news",
+      sourceLabel: "Urban Acres",
+      sourceUrl: "https://urbanacres.in/vasai-virar-redevelopment-crisis-exposes-a-broken-approval-chain/",
+      date: "Sep 2026",
+      period: "MLA karyakaal 2024–2029",
+      note: "Maang — sarkar ka faisla uplabdh nahi",
+    },
+    ],
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
@@ -222,7 +318,38 @@ export const netas: Neta[] = [
     tenures: [
       { post: 'MLA', constituency: 'Vasai', constituencySlug: 'vasai', party: 'BJP', start: '2024', end: '2029' },
     ],
-    works: [],
+    works: [
+    {
+      title: "VVMC buses me mahilaon ko 50% kiraya chhoot (1 June 2025 se lagu)",
+      category: "Any",
+      badge: "news",
+      sourceLabel: "Devdiscourse (PTI)",
+      sourceUrl: "https://www.Devdiscourse.com/article/science-environment/3441119-vasai-virar-buses-to-offer-women-50-fare-concession",
+      date: "May 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "MLA ki pairavi ke baad VVMC ka faisla",
+    },
+    {
+      title: "CM se Vasai me sadak concreting, flyover/ROB kaam tez karne ki maang",
+      category: "Sadak",
+      badge: "news",
+      sourceLabel: "ThePrint (PTI)",
+      sourceUrl: "https://theprint.in/india/mla-urges-cm-fadnavis-to-expedite-infrastructure-projects-in-vasai/2755054/?amp",
+      date: "Oct 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "Maang — kaam poora hone ki pushti baaki",
+    },
+    {
+      title: "Vasai me baadh-paani samasya ke liye ₹200 crore prastaav ki manzoori ki maang",
+      category: "Paani",
+      badge: "news",
+      sourceLabel: "newsdrum (PTI)",
+      sourceUrl: "https://www.newsdrum.in/national/rs-200-cr-civic-proposal-for-flood-mitigation-in-vasai-must-be-approved-soon-mla-9383128",
+      date: "Jun 2025",
+      period: "MLA karyakaal 2024–2029",
+      note: "Prastaav sarkar ke paas lambit",
+    },
+    ],
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
@@ -249,11 +376,22 @@ export const netas: Neta[] = [
     tenures: [
       { post: 'MP', constituency: 'Palghar (ST)', constituencySlug: 'palghar-lok-sabha', party: 'BJP', start: '2024', end: '2029' },
     ],
-    works: [],
+    works: [
+    {
+      title: "Palghar me Khelo India ke tahat ₹5 crore sports stadium ki manzoori",
+      category: "Any",
+      badge: "news",
+      sourceLabel: "ThePrint (PTI)",
+      sourceUrl: "https://theprint.in/sport/centre-sanctions-rs-5-cr-for-new-sports-stadium-in-palghar-bjp-mp-savara/2258273/",
+      date: "Sep 2024",
+      period: "MP karyakaal 2024–2029",
+      note: "Khel mantri se patra-vyavahar ke baad manzoori; nirmaan ki sthiti jaanch baaki",
+    },
+    ],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS portal se fund utilization ka record nikala ja raha hai. Maharashtra ke 48 MPs ne ab tak sirf ~13% fund istemal kiya hai (sarkari record).',
+      allocated: '₹14.70 crore', utilized: '₹8.57 crore (sifarish)', utilizationPct: 58,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 89 kaam sifarish, 21 manzoor, 1 poora; kharch ₹1.52 crore. Sifarish ke hisaab se utilization ~58%, kharch ke hisaab se ~10%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '47',

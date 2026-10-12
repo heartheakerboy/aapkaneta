@@ -110,7 +110,7 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
         return (
           <div class="work">
             <span class="badge" style={`color:${b.color}`}>{b.label}</span>
-            <span style="font-size:13px;color:var(--ink-soft);margin-left:8px">{w.category}{w.date ? ` • ${w.date}` : ''}</span>
+            <span style="font-size:13px;color:var(--ink-soft);margin-left:8px">{w.category}{w.period ? ` • ${w.period}` : ''}{w.date ? ` • ${w.date}` : ''}</span>
             <h3>{w.title}</h3>
             {w.note && <p>{w.note}</p>}
             <div class="src">Source: {w.sourceUrl ? <a href={w.sourceUrl} rel="noopener">{w.sourceLabel}</a> : w.sourceLabel}</div>
