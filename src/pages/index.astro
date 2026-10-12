@@ -20,7 +20,15 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
       display: inline-block; margin-top: 18px; background: rgba(251,191,36,.15); color: #fbbf24;
       border: 1px solid rgba(251,191,36,.5); padding: 6px 14px; border-radius: 999px; font-size: 14px; font-weight: 600;
     }
-    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 18px; margin-top: 20px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 18px; margin-top: 20px; }
+    .cta-card {
+      display: flex; flex-direction: column; justify-content: center; align-items: flex-start; gap: 10px;
+      background: linear-gradient(150deg, #1b2a41, #2e4a73); color: #fff; text-decoration: none;
+      border-radius: 14px; padding: 22px; min-height: 100%;
+    }
+    .cta-card h3 { font-size: 19px; line-height: 1.35; }
+    .cta-card p { font-size: 14px; color: #cbd5e1; }
+    .cta-card span.link { color: #fbbf24; font-weight: 700; font-size: 15px; }
     .neta-card { text-decoration: none; color: inherit; transition: transform .12s ease, box-shadow .12s ease; display: block; }
     .neta-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(27,42,65,.12); }
     .neta-top { display: flex; gap: 14px; align-items: center; }
@@ -78,6 +86,11 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
           </div>
         </a>
       ))}
+      <a class="cta-card" href="/rti">
+        <h3>Aur bhi neta jud rahe hain</h3>
+        <p>Maharashtra ke 288 MLA — dheere-dheere. RTI drive me hissa lo, apne kshetra ka hisaab sabse pehle lao.</p>
+        <span class="link">RTI Drive me hissa lo →</span>
+      </a>
     </div>
     <div class="no-results card" id="noResults">Koi neta nahi mila — spelling badal kar try karein.</div>
 

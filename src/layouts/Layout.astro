@@ -14,7 +14,7 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
     <title>{title} | AapkaNeta.org</title>
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <style>
+    <style is:global>
       :root {
         --ink: #1b2a41;
         --ink-soft: #3d4f6b;
@@ -86,8 +86,13 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
       }
       .section-title { font-size: 24px; margin: 40px 0 16px; }
       @media (max-width: 720px) {
-        nav.site a { padding: 8px 8px; font-size: 13.5px; }
+        .bar { padding: 12px 14px 10px; gap: 10px; flex-wrap: wrap; }
+        .brand { flex: 1 1 auto; }
+        .brand b { font-size: 17px; }
         .brand small { display: none; }
+        nav.site { flex: 1 1 100%; overflow-x: auto; scrollbar-width: none; gap: 2px; }
+        nav.site::-webkit-scrollbar { display: none; }
+        nav.site a { padding: 8px 12px; font-size: 14px; white-space: nowrap; }
         .foot-grid { grid-template-columns: 1fr; }
       }
     </style>

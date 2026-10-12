@@ -16,6 +16,15 @@ function templateFor(slug: string, name: string): string {
     .r-hero { background: linear-gradient(160deg, #1b2a41, #2e4a73); color: #fff; padding: 44px 0; }
     .r-hero h1 { font-size: 32px; }
     .r-hero p { color: #cbd5e1; margin-top: 8px; max-width: 680px; }
+    .r-hero-grid { display: grid; grid-template-columns: 1.6fr 1fr; gap: 28px; align-items: center; }
+    .r-hero-card { background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18); border-radius: 14px; padding: 22px; }
+    .r-hero-card > b { font-size: 17px; color: #fbbf24; }
+    .r-hero-stats { display: flex; gap: 22px; margin: 12px 0; }
+    .r-hero-stats div { text-align: center; }
+    .r-hero-stats strong { display: block; font-size: 26px; color: #fff; }
+    .r-hero-stats span { font-size: 13px; color: #cbd5e1; }
+    .r-hero-card p { font-size: 14px; }
+    @media (max-width: 720px) { .r-hero-grid { grid-template-columns: 1fr; } }
     .tpl { margin-bottom: 20px; }
     .tpl-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
     .tpl-head h3 { font-size: 19px; }
@@ -30,9 +39,20 @@ function templateFor(slug: string, name: string): string {
   </style>
 
   <div class="r-hero">
-    <div class="wrap">
-      <h1>RTI Lagao — hisaab mango</h1>
-      <p>Maharashtra me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche 6 seaton ke liye taiyaar template hai. Copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+    <div class="wrap r-hero-grid">
+      <div>
+        <h1>RTI Lagao — hisaab mango</h1>
+        <p>Maharashtra me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche 6 seaton ke liye taiyaar template hai. Copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+      </div>
+      <div class="r-hero-card">
+        <b>RTI Drive #1</b>
+        <div class="r-hero-stats">
+          <div><strong>6</strong><span>seats</span></div>
+          <div><strong>6</strong><span>templates</span></div>
+          <div><strong>₹10</strong><span>fees</span></div>
+        </div>
+        <p>Jawab 30 din me aata hai. Scan bhejo — verification ke baad neta ke profile par lagega.</p>
+      </div>
     </div>
   </div>
 
