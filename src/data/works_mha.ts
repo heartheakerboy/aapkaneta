@@ -2246,4 +2246,36 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Oneindia ke mutabik Chandrakant Patil ki pahal se Raver taluka me 300 km Kisan Marg, Niradhar Yojana 40,000 logon tak, Bodwad me ₹100 crore paani yojana aur ₹12 crore sinchai prakalp tez hua. 2019-2024 karyakal ke kaam.',
     },
   ],
+  // ---- Dhule district batch (researched 2026-10-12) ----
+  'jaykumar-jitendrasinh-rawal': [
+    {
+      title: 'Sindkheda City Water Supply Scheme Phase 2 ka bhoomipujan — 2030 tak smart city ka lakshya',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Free Press Journal, 19 Oct 2025',
+      sourceUrl: 'https://www.freepressjournal.in/pune/dhule-shindkheda-to-become-smart-city-by-2030-says-guardian-minister-jaykumar-rawal',
+      date: '2025-10-19',
+      note: 'Guardian mantri ke roop me Rawal ne Shindkheda City Water Supply Scheme Phase 2 ka bhoomipujan kiya. Phase 2 me solar plants, atirikt water tanks aur 2,000 gharon ko tap connections milenge.',
+    },
+    {
+      title: 'Bhausaheb Hiray Govt Medical College me naye casualty department aur maternity ward ka udghatan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Times of India, 15 Aug 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nashik/guardian-mins-hoist-tricolour-announce-state-govt-initiatives/articleshow/123339190.cms',
+      date: '2025-08-15',
+      note: 'Guardian mantri Rawal ne medical college me naya accident/casualty department (₹5.8 crore) aur gynaecology-delivery ward (₹4.8 crore) udhghatit kiya — district annual plan se manzoor.',
+    },
+  ],
+  'kashiram-vechan-pawara': [
+    {
+      title: 'Shirpur me Dhule Book Festival ka udghatan — Nashik division ka pehla taluka-level event',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Free Press Journal, 17 Jan 2026',
+      sourceUrl: 'https://www.freepressjournal.in/pune/dhule-book-festival-inaugurated-in-shirpur-first-taluka-level-event-in-nashik-division',
+      date: '2026-01-17',
+      note: 'Rajya sarkar ki yojana ke tahat Shirpur me hue do-divasiya pustak mahotsav ka udghatan Pawara ne kiya; Nashik division ka pehla taluka-level book festival. Bhoomika udghatan tak seemit.',
+    },
+  ],
 };
