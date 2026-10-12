@@ -35,7 +35,8 @@ import { netas } from '../data/pilot';
             <th>Pad</th>
             <th>Kshetra</th>
             <th>Party</th>
-            <th>Karyakaal</th>
+            <th>Aaparaadhik mamle</th>
+            <th>Sampatti (halafnama)</th>
             <th>Verified kaam</th>
             <th>Fund utilization</th>
           </tr>
@@ -47,7 +48,8 @@ import { netas } from '../data/pilot';
               <td>{n.post}</td>
               <td>{n.constituency}</td>
               <td>{n.partyShort}</td>
-              <td>{n.tenures.length} ({n.tenures[0].start}–{n.tenures[n.tenures.length-1].end})</td>
+              <td>{n.background.criminalCases}</td>
+              <td style="white-space:nowrap">{n.background.assets}</td>
               <td>{n.works.filter(w=>w.badge!=='dawa').length}</td>
               <td>{n.fund?.utilizationPct != null ? n.fund.utilizationPct + '%' : 'record baaki'}</td>
             </tr>

@@ -30,6 +30,15 @@ export interface FundInfo {
   note: string;
 }
 
+export interface Background {
+  age: string;
+  education: string;
+  criminalCases: number;
+  assets: string;
+  liabilities: string;
+  mynetaUrl: string;
+}
+
 export interface Neta {
   slug: string;
   name: string;
@@ -41,6 +50,7 @@ export interface Neta {
   tenures: Tenure[];
   works: Work[];
   fund: FundInfo | null;
+  background: Background;
   electionNote: string;
 }
 
@@ -81,6 +91,14 @@ export const netas: Neta[] = [
       allocated: null, utilized: null, utilizationPct: null,
       note: 'Maharashtra me MLA fund ka record online uplabdh nahi hai. Pehli RTI drive me Dahanu seat ka data manga jayega.',
     },
+    background: {
+      age: '49',
+      education: '12th Pass',
+      criminalCases: 5,
+      assets: 'Rs 82,01,803',
+      liabilities: 'Nil',
+      mynetaUrl: 'https://myneta.info/Maharashtra2024/candidate.php?candidate_id=901',
+    },
     electionNote: '2024 me Dahanu (ST) se 1,04,702 vote (47.21%) lekar jeete.',
   },
   {
@@ -99,6 +117,14 @@ export const netas: Neta[] = [
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
       note: 'Maharashtra me MLA fund ka record online uplabdh nahi hai. Pehli RTI drive me Vikramgad seat ka data manga jayega.',
+    },
+    background: {
+      age: '55',
+      education: '10th Pass',
+      criminalCases: 0,
+      assets: 'Rs 1,46,43,386',
+      liabilities: 'Rs 18,89,099',
+      mynetaUrl: 'https://myneta.info/Maharashtra2024/candidate.php?candidate_id=800',
     },
     electionNote: '2024 me Vikramgad (ST) se 1,14,514 vote (46.02%) lekar jeete.',
   },
@@ -121,6 +147,14 @@ export const netas: Neta[] = [
       allocated: null, utilized: null, utilizationPct: null,
       note: 'MP karyakaal (2018–2024) ka MPLADS record nikala ja raha hai. MLA fund ke liye RTI drive me data manga jayega.',
     },
+    background: {
+      age: '57',
+      education: 'Graduate',
+      criminalCases: 1,
+      assets: 'Rs 14,22,62,017',
+      liabilities: 'Rs 1,29,71,595',
+      mynetaUrl: 'https://myneta.info/Maharashtra2024/candidate.php?candidate_id=593',
+    },
     electionNote: '2018 (upchunav) aur 2019 me Palghar se MP rahe; 2024 me Palghar (ST) Vidhan Sabha se 1,12,894 vote (52.61%) lekar MLA bane.',
   },
   {
@@ -139,6 +173,14 @@ export const netas: Neta[] = [
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
       note: 'Maharashtra me MLA fund ka record online uplabdh nahi hai. Pehli RTI drive me Boisar seat ka data manga jayega.',
+    },
+    background: {
+      age: '52',
+      education: '5th Pass',
+      criminalCases: 0,
+      assets: 'Rs 1,06,79,521',
+      liabilities: 'Nil',
+      mynetaUrl: 'https://myneta.info/Maharashtra2024/candidate.php?candidate_id=2129',
     },
     electionNote: '2024 me Boisar (ST) se 1,26,117 vote (45.34%) lekar jeete.',
   },
@@ -159,6 +201,14 @@ export const netas: Neta[] = [
       allocated: null, utilized: null, utilizationPct: null,
       note: 'Maharashtra me MLA fund ka record online uplabdh nahi hai. Pehli RTI drive me Nalasopara seat ka data manga jayega.',
     },
+    background: {
+      age: '60',
+      education: 'Graduate',
+      criminalCases: 11,
+      assets: 'Rs 45,19,37,369',
+      liabilities: 'Rs 17,62,47,684',
+      mynetaUrl: 'https://myneta.info/Maharashtra2024/candidate.php?candidate_id=1161',
+    },
     electionNote: '2024 me Nalasopara se 1,65,113 vote (47.16%) lekar jeete.',
   },
   {
@@ -178,6 +228,14 @@ export const netas: Neta[] = [
       allocated: null, utilized: null, utilizationPct: null,
       note: 'Maharashtra me MLA fund ka record online uplabdh nahi hai. Pehli RTI drive me Vasai seat ka data manga jayega.',
     },
+    background: {
+      age: '38',
+      education: 'Graduate Professional',
+      criminalCases: 1,
+      assets: 'Rs 1,68,66,201',
+      liabilities: 'Rs 46,44,974',
+      mynetaUrl: 'https://myneta.info/Maharashtra2024/candidate.php?candidate_id=788',
+    },
     electionNote: '2024 me Vasai se 77,553 vote (35.38%) lekar jeetin.',
   },
   {
@@ -196,6 +254,14 @@ export const netas: Neta[] = [
       scheme: 'MPLADS',
       allocated: null, utilized: null, utilizationPct: null,
       note: 'MPLADS portal se fund utilization ka record nikala ja raha hai. Maharashtra ke 48 MPs ne ab tak sirf ~13% fund istemal kiya hai (sarkari record).',
+    },
+    background: {
+      age: '47',
+      education: 'Graduate Professional',
+      criminalCases: 0,
+      assets: 'Rs 8,16,22,050',
+      liabilities: 'Rs 1,07,76,056',
+      mynetaUrl: 'https://myneta.info/LokSabha2024/candidate.php?candidate_id=7349',
     },
     electionNote: '2024 me Palghar Lok Sabha se 6,01,244 vote (43.69%) lekar jeete — 1,83,306 vote ke antar se.',
   },

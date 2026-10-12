@@ -51,6 +51,11 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
     .fundbar i { display: block; height: 100%; background: linear-gradient(90deg, #f59e0b, #b45309); }
     .cta-row { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 18px; }
     .back { display: inline-block; margin-bottom: 18px; font-size: 15px; text-decoration: none; }
+    .bg-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+    .bg-item { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
+    .bg-item span { display: block; font-size: 12.5px; color: var(--ink-soft); margin-bottom: 4px; }
+    .bg-item b { font-size: 17px; }
+    .bg-item b.warn { color: #b45309; }
   </style>
 
   <div class="profile-hero">
@@ -128,11 +133,18 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
       <p style="font-size:13.5px;color:var(--ink-soft);margin-top:10px">Record ke anusaar — daawa nahi, dastavez.</p>
     </div>
 
-    <h2 class="section-title">Chunav background</h2>
+    <h2 class="section-title">Halafnama <span style="font-size:15px;font-weight:400;color:var(--ink-soft)">(ECI affidavit, myneta.info)</span></h2>
     <div class="card">
-      <p style="font-size:15.5px">{neta.electionNote}</p>
+      <div class="bg-grid">
+        <div class="bg-item"><span>Umar</span><b>{neta.background.age} varsh</b></div>
+        <div class="bg-item"><span>Shiksha</span><b>{neta.background.education}</b></div>
+        <div class="bg-item"><span>Aaparaadhik mamle</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
+        <div class="bg-item"><span>Kul sampatti</span><b>{neta.background.assets}</b></div>
+        <div class="bg-item"><span>Deyta (liabilities)</span><b>{neta.background.liabilities}</b></div>
+      </div>
+      <p style="font-size:15.5px;margin-top:14px">{neta.electionNote}</p>
       <p style="font-size:14px;color:var(--ink-soft);margin-top:8px">
-        Sampatti, aaparaadhik mamle aur shiksha ka poora halafnama: <a href="https://affidavit.eci.gov.in/" rel="noopener">ECI Affidavit Portal</a> par dekhein.
+        Ye aankde neta ke chunav halafname se hain. Poora record: <a href={neta.background.mynetaUrl} rel="noopener">myneta.info par dekhein</a> • <a href="https://affidavit.eci.gov.in/" rel="noopener">ECI Affidavit Portal</a>
       </p>
     </div>
 
