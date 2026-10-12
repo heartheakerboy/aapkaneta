@@ -2278,4 +2278,17 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Rajya sarkar ki yojana ke tahat Shirpur me hue do-divasiya pustak mahotsav ka udghatan Pawara ne kiya; Nashik division ka pehla taluka-level book festival. Bhoomika udghatan tak seemit.',
     },
   ],
+  // ---- Nandurbar district batch (researched 2026-10-12) ----
+  'dr-vijaykumar-krushanrao-gavit': [
+    {
+      title: '2004-12 me adivasi kalyan nidhi me ₹6,000 crore ka ghotala — Gavit ke mantri karyakal me (PTI)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Moneycontrol (PTI), 10 Aug 2022',
+      sourceUrl: 'https://www.moneycontrol.com/news/politics/maharashtra-bjps-devendra-fadnavis-may-get-home-vijaykumar-gavit-tribal-development-portfolio-8996021.html',
+      date: '2022-08-10',
+      period: '2019-2024',
+      note: 'Negative khabar: PTI report ke mutabik 2004-2012 ke dauraan (Congress-NCP sarkar me) Gavit ke adivasi vikas mantri karyakal me adivasi kalyan nidhi me ₹6,000 crore ka ghotala hua tha. Aarop purane karyakal ka hai — koi doshsiddhi ki khabar nahi mili.',
+    },
+  ],
 };
