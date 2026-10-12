@@ -2570,4 +2570,56 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Shasan ke faisle (5 brass reti bina royalty muft) ke tahat Wankhede ne Dighdi me gharkul labharthiyon ko reti vitaran ke tractor ko hari jhandi dikhai. Yojana ka shubharambh — bhoomika shubharambh tak seemit. Local source.',
     },
   ],
+  // ---- Wardha district batch (researched 2026-10-12) ----
+  'sumit-wankhede': [
+    {
+      title: 'Arvi ko sukhagrast suchi me shamil karwane ki maang — CM ko patr, maang manzoor',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Outlook India, 30 Sep 2026',
+      sourceUrl: 'https://www.outlookindia.com/national/mahayuti-faces-questions-from-all-sides-over-265-talukas-in-maharashtra-drought-list',
+      date: '2026-09-30',
+      note: 'Wankhede ne CM Fadnavis ko patr likh kar Arvi ko sukhagrast (drought) suchi me shamil karne ki maang ki; maang manzoor ho gayi.',
+    },
+  ],
+  'samir-tryambakrao-kunawar': [
+    {
+      title: 'Hinganghat sarkari medical college ki sanshodhit lagat ₹476.97 crore manzoor — Kunawar ke virodh ke baad',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Times of India, 11 Apr 2026',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/maha-nod-to-revised-cost-for-hinganghat-gmch/articleshow/130178926.cms',
+      date: '2026-04-11',
+      note: 'Sarkar ne Hinganghat GMCH ke nirman ke liye ₹476.97 crore ki sanshodhit lagat manzoor ki (100-student college + 430-bed hospital). Dec 2023 me Kunawar ne Vidhan Bhavan ke bahar virodh kar isteefe ki dhamki di thi taaki college Hinganghat me hi bane.',
+    },
+  ],
+  'dr-pankaj-rajesh-bhoyar': [
+    {
+      title: 'Wardha me aadhunik policing suvidhaon ka udghatan — Deoli me CCTV network, forensic van',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 17 Oct 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/guardian-minister-pankaj-bhoyar-inaugurates-modern-policing-facilities-in-wardha/articleshow/124633947.cms',
+      date: '2025-10-17',
+      note: 'Guardian mantri Bhoyar ne Wardha jile me policing ke liye nayi suvidhaen udhghatit ki — Deoli me upgraded CCTV surveillance network, forensic van, 2 buses aur muddemal-vapsi karyakram. Guardian-mantri bhoomika (jila-bhar).',
+    },
+    {
+      title: 'MSIDC Wardha jile me vikas kaamon ko tez karega — Bhoyar ke netritva me pahal',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 11 Sep 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/msidc-to-boost-development-works-in-wardha-district/articleshow/123810885.cms',
+      date: '2025-09-11',
+      note: 'Bhoyar ke netritva me MSIDC ko Wardha jile ke vikas kaam saunpe gaye — Wardha shahar saundaryikaran, aadhunik sports complex, purani central jail ka sthanantaran, Bor dam par paryatan suvidhaen. Yojana/nirikshan stage hai. Guardian-mantri bhoomika (jila-bhar).',
+    },
+    {
+      title: 'Bor Tiger Reserve me 2 naye safari gates ka udghatan — paryatan aur rozgar ko badhava',
+      category: 'Rojgar',
+      badge: 'news',
+      sourceLabel: 'Times of India, 15 Jan 2026',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/new-gates-at-bor-tiger-reserve-to-boost-tourism-business-pankaj-bhoyar/articleshow/126661091.cms',
+      date: '2026-01-15',
+      note: 'Bhoyar ne Bor Tiger Project ke Rahati aur Dhaga safari gates ka udghatan kiya; buffer zone ke 5 gaon ke punarvas ke liye ~₹100 crore manzoor hone ki ghoshna. Guardian-mantri bhoomika.',
+    },
+  ],
 };
