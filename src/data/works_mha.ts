@@ -2844,4 +2844,57 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Agrawal ne Vidhan Bhavan me Employment Guarantee mantri Bharat Gogawale se Gondia jile ke ₹407 crore bakaaya EGS funds par bhidai — ilzam: manzoor raashi mahinon se jaari nahi, bhrasht adhikari rishwat lekar fund chhodta hai. Mantri ne jila collector ko phone par lagaya. Maang/virodh stage hai — fund jaari hone ki khabar nahi.',
     },
   ],
+  // ---- Hingoli district batch (researched 2026-10-12) ----
+  'chandrakant-alias-rajubhaiya-ramakant-navghare': [
+    {
+      title: 'Basmath tehsil karyalaya me naya meeting hall ka lokarpan; sukhe ki maar jhel rahe kisaano ke liye "aaj hi canal me paani" ki ghoshna',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Lokmanch Times, 17 Sep 2026',
+      sourceUrl: 'https://lokmanchtimes.in/?p=3832',
+      date: '2026-09-17',
+      note: 'Navghare ne jila varshik yojana 2025-26 se bane tehsil karyalaya meeting hall ka lokarpan kiya; sookhe se prabhavit faslon ke liye tehsildar ko turant panchnama ke nirdesh diye aur kisaano ko canal me paani chhodne ki ghoshna ki. Ghoshna stage hai — paani chhute ki pushti nahi. Local source.',
+    },
+  ],
+  'bangar-santosh-laxmanrao': [
+    {
+      title: 'Covid kal me ₹90 lakh ki parivarik FD tod kar Remdesivir khareeda — muft/nirakar laagat par baanta',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'ABP Live, 28 Apr 2021',
+      sourceUrl: 'https://news.abplive.com/news/india/shiv-sena-mla-breaks-into-family-rs-90-lakh-fd-to-buy-medications-for-covid-patients-in-maharashtra-1455014/amp',
+      date: '2021-04-28',
+      period: '2019-2024',
+      note: 'Covid ki doosri lehar me Kalamnuri me dawaiyon ki kami par Bangar ne apne parivar ki ₹90 lakh ki FD tod kar Remdesivir ki badi khareed ki — shuru me muft baanta, phir no-profit-no-loss par diya.',
+    },
+    {
+      title: '2022 me Shinde camp me jaane ke liye ₹50 crore lene ka aarop — BJP MLA Mutkule ne lagaya, Bangar ne palatvaar kiya',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Week (PTI), 28 Nov 2025',
+      sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/11/28/bes5-mh-polls-sena-mla-bjp-leader.amp.html',
+      date: '2025-11-28',
+      note: 'Hingoli nagar parishad chunav se pehle BJP MLA Tanaji Mutkule ne aarop lagaya ki Bangar ne 2022 me Thackeray camp se Shinde camp me jaane ke liye ₹50 crore liye aur ab money power se voter lubha rahe hain; Bangar ne turant palatvaar kar Mutkule par "misdeeds" ka aarop lagaya. Aarop + khandan — koi jaanch/nirnay ki khabar nahi.',
+    },
+  ],
+  'mutkule-tanhaji-sakharamji': [
+    {
+      title: 'Devkarwadi me additional transformer ka bhoomipujan — kisaano ko bijli supply sudharegi',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Public App (Sengaon News), 24 Oct 2025',
+      sourceUrl: 'https://public.app/video/sp_aajky4rk1feqq',
+      date: '2025-10-24',
+      note: 'Mutkule ke hasten Devkarwadi 33/30 kV upkendra par 5 kV additional transformer ka bhoomipujan; isse aaspaas ke gaon-kisaano ko bijli supply sudharne ka daava. Bhoomipujan stage hai. Local source.',
+    },
+    {
+      title: 'Kavardari me raste aur ZP school ke classroom ka bhoomipujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Public App (Sengaon News), 02 Aug 2025',
+      sourceUrl: 'https://public.app/video/sp_qzgbqf0nrgy4u',
+      date: '2025-08-02',
+      note: 'Mutkule (purv MLA Ramrao Vadkute ke saath) ne Kavardari me raste aur zila parishad primary school ke classroom ke nirman ka bhoomipujan kiya. Bhoomipujan stage hai. Local source.',
+    },
+  ],
 };
