@@ -12,7 +12,7 @@ if (!kshetra) throw new Error('Constituency not found: ' + slug);
 const leaders = netasByConstituency(kshetra.slug);
 ---
 
-<Layout title={`${kshetra.name} ${kshetra.type} — kshetra ka hisaab`} description={`${kshetra.name} ${kshetra.type} (jila ${kshetra.district}) ke neta aur unke kaam ka satyaapit record.`}>
+<Layout title={`${kshetra.name} ${kshetra.type} — kshetra ka hisaab`} description={`${kshetra.name} ${kshetra.type}${kshetra.district ? ` (jila ${kshetra.district})` : ''} ke neta aur unke kaam ka satyaapit record.`}>
   <style>
     .k-hero { background: #fff; border-bottom: 1px solid var(--line); padding: 40px 0 30px; }
     .k-hero h1 { font-size: 32px; }
@@ -29,7 +29,7 @@ const leaders = netasByConstituency(kshetra.slug);
     <div class="wrap">
       <a class="back" href="/">← Home</a>
       <h1>{kshetra.name} <span style="font-weight:400;color:var(--ink-soft)">({kshetra.type}{kshetra.number ? ` • No. ${kshetra.number}` : ''})</span></h1>
-      <div class="k-meta">Jila {kshetra.district}, Maharashtra • Arakshan: {kshetra.reservation}</div>
+      <div class="k-meta">{kshetra.district ? `Jila ${kshetra.district}, Maharashtra` : 'Maharashtra'} • Arakshan: {kshetra.reservation}</div>
     </div>
   </div>
 

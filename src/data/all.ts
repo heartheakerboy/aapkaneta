@@ -1,10 +1,11 @@
 // Combined dataset: Palghar pilot (rich) + Maharashtra 282 (generated)
 import { netas as pilotNetas, constituencies as pilotConsts, badgeMeta } from './pilot';
 import { mhaNetas, mhaConstituencies } from './maharashtra';
+import { mpNetas, mpConstituencies } from './mp';
 import type { Neta, Constituency } from './pilot';
 
-export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas];
-export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies];
+export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas];
+export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies];
 
 export function getNeta(slug: string): Neta | undefined {
   return allNetas.find((n) => n.slug === slug);
