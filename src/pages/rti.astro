@@ -1,0 +1,83 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { constituencies, netasByConstituency } from '../data/pilot';
+
+const assembly = constituencies.filter(c => c.type === 'Vidhan Sabha');
+
+function templateFor(slug: string, name: string): string {
+  const leaders = netasByConstituency(slug);
+  const neta = leaders[0]?.name ?? 'maananeey vidhaayak';
+  return `Seva me,\nJan Soochna Adhikaari,\nJila Niyojan Adhikaari, Palghar\n\nVishay: ${name} Vidhan Sabha kshetra me Vidhayak Kshetra Vikas Nidhi (MLALADS) se sambandhit soochna — RTI 2005 ki dhaara 6(1) ke antargat\n\nMahoday,\n\nKripya nimn soochna uplabdh karayein:\n\n1. Vitt varsh 2024-25 aur 2025-26 me ${name} kshetra ke liye MLALADS ke tahat kul kitni raashi aavantit hui?\n2. Ukt avadhi me ${neta} dwara kaun-kaun se kaam swikrit kiye gaye? (kaam ka naam, sthal, laagat sahit soochi)\n3. Inme se kitne kaam poore hue, kitne pragati par hain, kitne shuru nahi hue?\n4. Poore hue kaamon ke completion certificate ki prati uplabdh karayein.\n\nAavedak ka naam/pata:\n[Apna naam]\n[Apna pata]\n\nDinank: [tareekh]`;
+}
+---
+
+<Layout title="RTI Lagao — Apne neta ka hisaab mango" description="Apne MLA par RTI kaise lagayein: taiyaar template, 6 Palghar seaton ke liye. Jawab aate hi AapkaNeta par RTI Verified badge ke saath publish hoga.">
+  <style>
+    .r-hero { background: linear-gradient(160deg, #1b2a41, #2e4a73); color: #fff; padding: 44px 0; }
+    .r-hero h1 { font-size: 32px; }
+    .r-hero p { color: #cbd5e1; margin-top: 8px; max-width: 680px; }
+    .tpl { margin-bottom: 20px; }
+    .tpl-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+    .tpl-head h3 { font-size: 19px; }
+    pre.tpl-body {
+      background: #1b2a41; color: #e2e8f0; padding: 20px; border-radius: 12px;
+      font-size: 13.5px; line-height: 1.7; white-space: pre-wrap; font-family: ui-monospace, monospace;
+      max-height: 340px; overflow-y: auto;
+    }
+    .copy-btn { background: var(--accent); color: #fff; border: none; padding: 9px 18px; border-radius: 8px; font-weight: 700; cursor: pointer; font-size: 14px; font-family: inherit; }
+    .copy-btn:hover { background: #92400e; }
+    .howto { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-top: 20px; }
+  </style>
+
+  <div class="r-hero">
+    <div class="wrap">
+      <h1>RTI Lagao — hisaab mango</h1>
+      <p>Maharashtra me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche 6 seaton ke liye taiyaar template hai. Copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <h2 class="section-title">RTI kaise lagayein?</h2>
+    <div class="howto">
+      <div class="card"><b>1. Template copy karo</b><p style="font-size:14.5px;color:var(--ink-soft)">Neeche apne kshetra ka template copy karo.</p></div>
+      <div class="card"><b>2. Online ya offline bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">Maharashtra: <a href="https://rtionline.maharashtra.gov.in/" rel="noopener">rtionline.maharashtra.gov.in</a> ya sambandhit karyalaya me. Fees: ₹10.</p></div>
+      <div class="card"><b>3. Jawab humein bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">30 din me jawab aayega. Scan humein bhejo — verification ke baad neta ke profile par lagega.</p></div>
+    </div>
+
+    <h2 class="section-title">6 seaton ke taiyaar templates</h2>
+    {assembly.map(c => (
+      <div class="card tpl">
+        <div class="tpl-head">
+          <h3>{c.name} ({c.type}{c.number ? ` — No. ${c.number}` : ''})</h3>
+          <button class="copy-btn" data-tpl={c.slug}>Copy karo</button>
+        </div>
+        <pre class="tpl-body" id={`tpl-${c.slug}`}>{templateFor(c.slug, c.name)}</pre>
+      </div>
+    ))}
+    <p style="font-size:14px;color:var(--ink-soft);margin:24px 0 8px">
+      Note: Ye template nagrik-shiksha ke liye hai. RTI lagane se pehle <a href="https://www.instagram.com/rtibyfiroz/" rel="noopener">@rtibyfiroz</a> par RTI ki sahi prakriya samajh lein.
+    </p>
+  </div>
+
+  <script>
+    document.querySelectorAll('.copy-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const slug = btn.getAttribute('data-tpl');
+        const pre = document.getElementById('tpl-' + slug);
+        try {
+          await navigator.clipboard.writeText(pre.innerText);
+          const old = btn.textContent;
+          btn.textContent = 'Copied ✓';
+          setTimeout(() => btn.textContent = old, 1800);
+        } catch (e) {
+          const r = document.createRange();
+          r.selectNodeContents(pre);
+          const s = getSelection(); s.removeAllRanges(); s.addRange(r);
+          document.execCommand('copy'); s.removeAllRanges();
+          btn.textContent = 'Copied ✓';
+          setTimeout(() => btn.textContent = 'Copy karo', 1800);
+        }
+      });
+    });
+  </script>
+</Layout>

@@ -1,0 +1,143 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verified neta work tracker.' } = Astro.props;
+---
+
+<!doctype html>
+<html lang="hi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} | AapkaNeta.org</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <style>
+      :root {
+        --ink: #1b2a41;
+        --ink-soft: #3d4f6b;
+        --paper: #faf8f2;
+        --card: #ffffff;
+        --line: #e6e0d2;
+        --accent: #b45309;
+        --accent-soft: #fef3e2;
+        --green: #166534;
+        --blue: #1d4ed8;
+      }
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      body {
+        font-family: "Noto Sans Devanagari", "Mukta", system-ui, -apple-system, "Segoe UI", sans-serif;
+        background: var(--paper);
+        color: var(--ink);
+        line-height: 1.65;
+      }
+      a { color: var(--accent); }
+      .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+      header.site {
+        background: var(--ink);
+        color: #fff;
+        position: sticky; top: 0; z-index: 50;
+        box-shadow: 0 2px 12px rgba(0,0,0,.18);
+      }
+      .bar { display: flex; align-items: center; justify-content: space-between; padding: 14px 20px; max-width: 1080px; margin: 0 auto; }
+      .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: #fff; }
+      .brand-mark {
+        width: 36px; height: 36px; border-radius: 10px;
+        background: linear-gradient(135deg, #f59e0b, #b45309);
+        display: grid; place-items: center; font-weight: 800; font-size: 20px; color: #fff;
+      }
+      .brand b { font-size: 20px; letter-spacing: .2px; }
+      .brand small { display: block; font-size: 11px; color: #cbd5e1; font-weight: 400; line-height: 1.2; }
+      nav.site { display: flex; gap: 4px; }
+      nav.site a {
+        color: #e2e8f0; text-decoration: none; font-size: 15px; padding: 8px 14px; border-radius: 8px;
+      }
+      nav.site a:hover, nav.site a.active { background: rgba(255,255,255,.12); color: #fff; }
+      main { min-height: 60vh; }
+      footer.site { background: var(--ink); color: #cbd5e1; margin-top: 64px; }
+      footer.site .wrap { padding-top: 36px; padding-bottom: 28px; }
+      .foot-grid { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 28px; }
+      footer.site h4 { color: #fff; font-size: 15px; margin-bottom: 10px; }
+      footer.site p, footer.site li { font-size: 14px; }
+      footer.site ul { list-style: none; }
+      footer.site li { margin-bottom: 6px; }
+      footer.site a { color: #fbbf24; text-decoration: none; }
+      footer.site a:hover { text-decoration: underline; }
+      .fine { border-top: 1px solid rgba(255,255,255,.12); margin-top: 24px; padding-top: 16px; font-size: 12.5px; color: #94a3b8; }
+      .card {
+        background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+        padding: 22px; box-shadow: 0 1px 4px rgba(27,42,65,.06);
+      }
+      .btn {
+        display: inline-block; background: var(--accent); color: #fff !important;
+        padding: 11px 22px; border-radius: 10px; text-decoration: none; font-weight: 700; font-size: 15px;
+        border: none; cursor: pointer;
+      }
+      .btn:hover { background: #92400e; }
+      .btn-ghost {
+        display: inline-block; border: 1.5px solid var(--line); color: var(--ink) !important;
+        padding: 10px 20px; border-radius: 10px; text-decoration: none; font-weight: 600; font-size: 15px; background: #fff;
+      }
+      .badge {
+        display: inline-block; font-size: 12.5px; font-weight: 700; padding: 3px 10px;
+        border-radius: 999px; border: 1.5px solid currentColor; white-space: nowrap;
+      }
+      .section-title { font-size: 24px; margin: 40px 0 16px; }
+      @media (max-width: 720px) {
+        nav.site a { padding: 8px 8px; font-size: 13.5px; }
+        .brand small { display: none; }
+        .foot-grid { grid-template-columns: 1fr; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site">
+      <div class="bar">
+        <a class="brand" href="/">
+          <span class="brand-mark">अ</span>
+          <span><b>AapkaNeta</b><small>har neta ka hisaab, har nagrik ke haath</small></span>
+        </a>
+        <nav class="site">
+          <a href="/">Home</a>
+          <a href="/tulna">Tulna</a>
+          <a href="/methodology">Methodology</a>
+          <a href="/rti">RTI Lagao</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site">
+      <div class="wrap">
+        <div class="foot-grid">
+          <div>
+            <h4>AapkaNeta.org</h4>
+            <p>India ka RTI-verified neta work-tracker. Har neta ne apne kshetra me kya kaam kiya — saboot ke saath, bina pakshpaat ke.</p>
+            <p style="margin-top:10px">Pilot: Palghar jila, Maharashtra</p>
+          </div>
+          <div>
+            <h4>Pages</h4>
+            <ul>
+              <li><a href="/tulna">Netavon ki tulna</a></li>
+              <li><a href="/methodology">Hamari methodology</a></li>
+              <li><a href="/rti">RTI lagao</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>About Us</h4>
+            <ul>
+              <li><a href="https://www.instagram.com/rtibyfiroz/" rel="noopener">Instagram — @rtibyfiroz</a></li>
+              <li><a href="https://www.linkedin.com/in/firoz-khan-1153358a/" rel="noopener">LinkedIn — Firoz Khan</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="fine">
+          Ye site nagrik-shiksha ke liye hai. Sabhi tathya uplabdh sarkari record, RTI jawab ya news sroton par aadharit hain. Galti dikhe to <a href="/methodology#correction">correction bhejein</a>.
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

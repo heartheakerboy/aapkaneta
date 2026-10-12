@@ -1,0 +1,72 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { badgeMeta } from '../data/pilot';
+---
+
+<Layout title="Hamari Methodology" description="AapkaNeta.org kaise kaam karta hai: verification badges, neutrality policy aur correction process.">
+  <style>
+    .m-hero { background: var(--ink); color: #fff; padding: 44px 0; }
+    .m-hero h1 { font-size: 32px; }
+    .m-hero p { color: #cbd5e1; margin-top: 8px; max-width: 680px; }
+    .badge-row { display: flex; gap: 10px; align-items: center; margin: 12px 0; flex-wrap: wrap; }
+    .principle { margin-bottom: 14px; }
+    .principle b { display: block; font-size: 17px; margin-bottom: 4px; }
+    .principle p { color: var(--ink-soft); font-size: 15px; }
+    ol.steps-list { margin: 12px 0 12px 22px; color: var(--ink-soft); font-size: 15px; }
+    ol.steps-list li { margin-bottom: 8px; }
+  </style>
+
+  <div class="m-hero">
+    <div class="wrap">
+      <h1>Hamari Methodology</h1>
+      <p>Ye site <b>daavon</b> par nahi, <b>dastavezon</b> par chalti hai. Neeche har niyam likha hai — taaki aap hum par aankh band karke nahi, aankh khol kar bharosa karein.</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <h2 class="section-title">Verification badges</h2>
+    <div class="card">
+      {Object.entries(badgeMeta).map(([key, b]) => (
+        <div class="badge-row">
+          <span class="badge" style={`color:${b.color}`}>{b.label}</span>
+          <span style="font-size:15px;color:var(--ink-soft)">— {b.desc}</span>
+        </div>
+      ))}
+      <p style="font-size:15px;color:var(--ink-soft);margin-top:12px">
+        <b style="color:var(--ink)">Sabse zaroori niyam:</b> bina badge ke koi "kaam" list me nahi aata. Khali profile ka matlab hai "record jama ho raha hai" — ye kisi neta ke khilaf tippani nahi hai.
+      </p>
+    </div>
+
+    <h2 class="section-title">Neutrality ke 5 usool</h2>
+    <div class="card">
+      <div class="principle"><b>1. Tathya, visheshan nahi</b><p>"Sadak bani (source)" likhte hain — "nikamma neta" kabhi nahi.</p></div>
+      <div class="principle"><b>2. "Record ke anusaar" framing</b><p>Daawa hum nahi karte — record bolta hai. "MPLADS record ke anusaar ₹X me se ₹Y kharch hue."</p></div>
+      <div class="principle"><b>3. Dono paksh</b><p>Vivaad wale section me neta ka jawab bhi hoga, agar uplabdh ho.</p></div>
+      <div class="principle"><b>4. Balance check</b><p>Har publish batch me jaanch: kya kisi ek party ke neta nishana ban rahe hain?</p></div>
+      <div class="principle"><b>5. Koi paid listing nahi</b><p>Kisi neta ya party se paisa lekar listing — ek baar hua to site ka bharosa khatam. Ye kabhi nahi hoga.</p></div>
+    </div>
+
+    <h2 class="section-title" id="correction">Correction policy</h2>
+    <div class="card">
+      <p style="font-size:15.5px">Galti humse bhi ho sakti hai. Isliye:</p>
+      <ol class="steps-list">
+        <li>Har profile par "Correction bhejo" button hai.</li>
+        <li>Saboot ke saath bheji gayi correction ki <b>48 ghante</b> me jaanch hoti hai.</li>
+        <li>Sahi paye jaane par sudhaar turant, aur <b>public correction log</b> me darj.</li>
+        <li>Correction bhejne wale ko jawab diya jata hai — chaahe sudhaar ho ya na ho.</li>
+      </ol>
+      <p style="font-size:15px;color:var(--ink-soft)">Aaparaadhik record jaise samvedansheel tathya sirf ECI halafname / myneta.info se liye jate hain — apne shabdon me kabhi nahi.</p>
+    </div>
+
+    <h2 class="section-title">Data ke srot</h2>
+    <div class="card">
+      <ol class="steps-list">
+        <li><b>MPLADS portal</b> (mplads.gov.in) — MP fund ka sarkari hisaab</li>
+        <li><b>ECI halafname</b> — chunav background</li>
+        <li><b>RTI jawab</b> — MLA fund aur kaam ka satyaapan (hamari sabse mazboot kadi)</li>
+        <li><b>News archive</b> — ghoshnaon ka record</li>
+        <li><b>Nagrik</b> — photo-saboot ke saath correction (review ke baad hi publish)</li>
+      </ol>
+    </div>
+  </div>
+</Layout>
