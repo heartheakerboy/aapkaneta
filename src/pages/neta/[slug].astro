@@ -1,6 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { netas, getNeta, badgeMeta, getConstituency } from '../../data/pilot';
+import { netas, getNeta, badgeMeta, getConstituency } from '../../data/all';
 
 export function getStaticPaths() {
   return netas.map(n => ({ params: { slug: n.slug } }));
@@ -135,17 +135,23 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
 
     <h2 class="section-title">Halafnama <span style="font-size:15px;font-weight:400;color:var(--ink-soft)">(ECI affidavit, myneta.info)</span></h2>
     <div class="card">
-      <div class="bg-grid">
-        <div class="bg-item"><span>Umar</span><b>{neta.background.age} varsh</b></div>
-        <div class="bg-item"><span>Shiksha</span><b>{neta.background.education}</b></div>
-        <div class="bg-item"><span>Aaparaadhik mamle</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
-        <div class="bg-item"><span>Kul sampatti</span><b>{neta.background.assets}</b></div>
-        <div class="bg-item"><span>Deyta (liabilities)</span><b>{neta.background.liabilities}</b></div>
-      </div>
+      {neta.background.backgroundNote ? (
+        <p style="font-size:15.5px;color:var(--ink-soft)">{neta.background.backgroundNote}</p>
+      ) : (
+        <>
+          <div class="bg-grid">
+            <div class="bg-item"><span>Umar</span><b>{neta.background.age} varsh</b></div>
+            <div class="bg-item"><span>Shiksha</span><b>{neta.background.education}</b></div>
+            <div class="bg-item"><span>Aaparaadhik mamle</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
+            <div class="bg-item"><span>Kul sampatti</span><b>{neta.background.assets}</b></div>
+            <div class="bg-item"><span>Deyta (liabilities)</span><b>{neta.background.liabilities}</b></div>
+          </div>
+          <p style="font-size:14px;color:var(--ink-soft);margin-top:8px">
+            Ye aankde neta ke chunav halafname se hain. Poora record: <a href={neta.background.mynetaUrl} rel="noopener">myneta.info par dekhein</a> • <a href="https://affidavit.eci.gov.in/" rel="noopener">ECI Affidavit Portal</a>
+          </p>
+        </>
+      )}
       <p style="font-size:15.5px;margin-top:14px">{neta.electionNote}</p>
-      <p style="font-size:14px;color:var(--ink-soft);margin-top:8px">
-        Ye aankde neta ke chunav halafname se hain. Poora record: <a href={neta.background.mynetaUrl} rel="noopener">myneta.info par dekhein</a> • <a href="https://affidavit.eci.gov.in/" rel="noopener">ECI Affidavit Portal</a>
-      </p>
     </div>
 
     <div class="cta-row" style="margin: 36px 0 8px">

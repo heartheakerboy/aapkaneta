@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { netas, badgeMeta } from '../data/pilot';
+import { netas, badgeMeta } from '../data/all';
 
 const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).join('');
 ---
@@ -63,12 +63,12 @@ const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).jo
       <div class="searchbox">
         <input id="q" type="search" placeholder="Neta ya kshetra ka naam likhein… (jaise: Vasai, Savara)" autocomplete="off" />
       </div>
-      <span class="pilot-tag">📍 Pilot live: Palghar jila, Maharashtra — 7 neta</span>
+      <span class="pilot-tag">📍 Live: Maharashtra ke 288 MLA — halafnama record ke saath</span>
     </div>
   </section>
 
   <div class="wrap">
-    <h2 class="section-title">Palghar ke neta</h2>
+    <h2 class="section-title">Maharashtra ke neta <span style="font-size:16px;font-weight:400;color:var(--ink-soft)">({netas.length} profiles)</span></h2>
     <div class="grid" id="netaGrid">
       {netas.map(n => (
         <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>

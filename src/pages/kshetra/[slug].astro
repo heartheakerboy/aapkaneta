@@ -1,6 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { constituencies, getConstituency, netasByConstituency } from '../../data/pilot';
+import { constituencies, getConstituency, netasByConstituency } from '../../data/all';
 
 export function getStaticPaths() {
   return constituencies.map(c => ({ params: { slug: c.slug } }));

@@ -38,6 +38,7 @@ export interface Background {
   assets: string;
   liabilities: string;
   mynetaUrl: string;
+  backgroundNote?: string;
 }
 
 export interface Neta {
