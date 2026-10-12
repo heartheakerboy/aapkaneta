@@ -2430,4 +2430,16 @@ export const mhaWorks: Record<string, Work[]> = {
       note: '2022-23 ke MLA Local Development Fund se Murtizapur MLA ko ₹80 lakh vikas kaamon ke liye mile. Fund allocation ka record hai.',
     },
   ],
+  // ---- Washim district batch (researched 2026-10-12) ----
+  'ameet-subhashrao-zanak': [
+    {
+      title: 'Nagar palika chunav me jhatka — Risod aur Malegaon dono me party samarthit ummidvaar haare',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, Dec 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/bjp-sweeps-washim-risod-civic-bodies-aimimsdebut-win-karanja-senashinde-takes-malegaon/articleshow/126109757.cms',
+      date: '2025-12-01',
+      note: 'Negative khabar: TOI ke mutabik Washim jile ke civic chunav me sitting MLA Ameet Zanak apne party samarthit ummidvaaron ko Risod aur Malegaon dono jagah jeet nahi dila sake — unke liye jhatka mana gaya.',
+    },
+  ],
 };
