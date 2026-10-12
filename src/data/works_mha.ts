@@ -2715,4 +2715,28 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Munde ne Parli thermal power station me nayi unit ki maang uthayi; CM Fadnavis ne sadan me ghoshna ki ki unit 1-5 ki jagah par solar urja prakalp lagega. Ghoshna stage hai — nirman shuru hone ki khabar nahi.',
     },
   ],
+  // ---- Bhandara district batch (researched 2026-10-12) ----
+  'karemore-raju-manikrao': [
+    {
+      title: 'Mohadi police station me hungama — police walon ko gaali/dhamki ka aarop, FIR darj (video viral)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Indian Express, 03 Jan 2022',
+      sourceUrl: 'https://indianexpress.com/article/cities/mumbai/ncp-mla-raju-karemore-mohadi-police-station-ruckus-video-7702094/',
+      date: '2022-01-03',
+      period: '2019-2024',
+      note: '31 Dec 2021 ko Mohadi police station me duty par tainat police walon ko gaali-dhamki dene ka aarop; video viral hone par SP Bhandara ki jaanch ke baad FIR darj. Karemore ne aaropon par apna paksh rakha — unke 2024 ke halafname me ye case (Crime No.02/2022, Mohadi PS) darj hai, charges Nov 2024 me frame hue.',
+    },
+  ],
+  'bhondekar-narendra-bhojraj': [
+    {
+      title: 'Cabinet me jagah na milne par Shiv Sena ke sabhi padon se isteefa — mantripad ka vaada poora na hone ka aarop',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Hindu, 16 Dec 2024',
+      sourceUrl: 'https://www.thehindu.com/news/national/maharashtra-cabinet-expansion-overlooked-for-berth-shiv-sena-mla-narendra-bhondekar-quits-party-posts/article68991425.ece',
+      date: '2024-12-16',
+      note: 'Bhondekar (Shiv Sena ke deputy leader aur eastern Vidarbha coordinator) ne cabinet vistaar me naam na aane par sabhi party padon se isteefa diya; unka daava tha ki Eknath Shinde ne unhe mantripad ka vaada kiya tha. Unka apna bayan hai — party ki taraf se aadhikarik pratikriya ki khabar nahi.',
+    },
+  ],
 };
