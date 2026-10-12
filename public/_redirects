@@ -1,0 +1,2 @@
+# pages.dev subdomain -> main domain (permanent redirect)
+https://aapkaneta.pages.dev/* https://aapkaneta.org/:splat 301
