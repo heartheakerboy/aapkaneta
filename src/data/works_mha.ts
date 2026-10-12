@@ -3052,4 +3052,71 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Swasthya mantri Abitkar ki sameeksha baithak me Pawar ne district hospital ko 500-bed me upgrade karne ki maang rakhi; mantri ne ADB funding se 400-bed vistaar ka estimate aur Ausa up-zila aspataal ke 69 padon ka prastav manga. Maang/ashwasan stage hai.',
     },
   ],
+  // ---- Nanded district batch (researched 2026-10-12) ----
+  'chavan-sreejaya-ashokrao': [
+    {
+      title: '500-khaat ke naye jila samanya aspataal ke liye ADB se nidhi ki maang — Vidhan Sabha me lakshavedhi suchna',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'ALM Bharat, Mar 2026',
+      sourceUrl: 'https://almbharat.com/?p=5939',
+      date: '2026-03-17',
+      note: 'Chavan ne 17 March 2026 ko Vidhan Sabha me lakshavedhi suchna mandkar 500-khaat ke naye jila samanya aspataal ko ADB ke Pragati prakalp se nidhi dilane ki maang ki; swasthya mantri ne agle prastav me shamil karne ki ghoshna ki. Maang/ghoshna stage hai — article me mukhya shrey MP Ashok Chavan ke pathpurave ko diya gaya hai. Local source.',
+    },
+  ],
+  'balaji-devidasrao-kalyankar': [
+    {
+      title: 'Someshwar gaon me vikas kaamon ke udghatan daure me Maratha andolankariyon ne ghera — aarakshan par sawal-jawab',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 14 Aug 2024',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/aurangabad/sena-mla-kalyankar-faces-ire-of-maratha-activists-in-nanded/articleshow/112508038.cms',
+      date: '2024-08-14',
+      period: '2019-2024',
+      note: 'Kalyankar Someshwar gaon me vikas kaamon ke udghatan ke liye gaye the jab Maratha andolankariyon ne unhe rok kar aarakshan par sawal kiye; video viral hua. Udghata + vivaad dono frame kiye.',
+    },
+  ],
+  'rajesh-sambhajirao-pawar': [
+    {
+      title: 'Gareeb parivaron ki betiyon ki shaadi ka kharch khud uthane ki pahal — "Naigaon pattern"',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 05 Jun 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/aurangabad/mla-rajesh-pawar-launches-wedding-aid-drive-for-poor-families/articleshow/121658928.cms',
+      date: '2025-06-05',
+      note: 'Pawar ne apne vyapar se kamai se garib parivaron ke samuhik vivah ka kharch uthane ki pahal shuru ki — 4-6 jodon par tent/kursi/saaj-sajja, 8+ jodon par bhojan bhi. Kuch gaon me 6 jodon ka karyakram ho chuka; Umri, Dharmabad se maangein aa rahin.',
+    },
+    {
+      title: 'Gharkul labharthiyon se rishwat lene wale ZP karmiyon se sarvajanik bhrashtachar-virodhi shapath dilayi',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, Nov 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/aurangabad/bjp-mla-administers-oath-against-corruption-to-govt-staffers-who-admitted-taking-bribe-from-gharkul-beneficiaries/articleshow/124882255.cms',
+      date: '2025-11-01',
+      note: 'Naigaon taluka me PM awas yojana ke labharthiyon se paise lene ki baat kabool karne wale Nanded ZP ke 2 karmiyon se Pawar ne video par sarvajanik shapath dilayi; sadan me mudda uthane aur CM ko shikayat ki baat kahi.',
+    },
+  ],
+  'tushar-govindrao-rathod': [
+    {
+      title: 'Hasnal gaon me baadh se 4 ki maut — Lendi prakalp par jaanch ki maang mantri se',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'The Week (PTI), 20 Aug 2025',
+      sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/08/20/bes3-mh-rains-village-mla.amp.html',
+      date: '2025-08-20',
+      note: 'Mukhed taluka ke Hasnal gaon me Lendi minor irrigation project ke paani se 80% gaon dooba, 4 ki maut; Rathod ne sthaniyaon se milkar jal sansadhan mantri Vikhe Patil se nishpaksh jaanch ki maang ki. Maang stage hai.',
+    },
+  ],
+  'antapurkar-jitesh-raosaheb': [
+    {
+      title: 'MLC chunav me cross-voting ka aarop — Congress ne chunav se pehle nikal diya',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'NDTV, 06 Sep 2024',
+      sourceUrl: 'https://www.ndtv.com/india-news/zeeshan-siddique-jitesh-antapurkar-congress-expels-2-maharashtra-mlas-ahead-of-polls-6453574',
+      date: '2024-09-06',
+      period: '2019-2024',
+      note: 'Vidhan Parishad chunav me cross-voting ke aarop ke baad Congress adhyaksh Nana Patole ne Antapurkar (aur Zeeshan Siddique) ko party se nikaal diya. Baad me ve BJP me shamil hue aur Deglur se 2024 me jeete.',
+    },
+  ],
 };
