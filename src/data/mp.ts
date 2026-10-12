@@ -17,8 +17,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.03 crore (sifarish)', utilizationPct: 82,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 148 kaam sifarish, 65 manzoor, 31 poora; kharch ₹4.99 crore. Sifarish ke hisaab se utilization ~82%, kharch ke hisaab se ~34%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '44',
@@ -44,8 +44,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.69 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 101 kaam sifarish, 64 manzoor, 12 poora; kharch ₹2.48 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~17%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '44',
@@ -71,8 +71,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.80 crore (sifarish)', utilizationPct: 67,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 100 kaam sifarish, 89 manzoor, 41 poora; kharch ₹6.03 crore. Sifarish ke hisaab se utilization ~67%, kharch ke hisaab se ~41%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '39',
@@ -98,8 +98,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹19.83 crore', utilized: '₹16.45 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 185 kaam sifarish, 145 manzoor, 51 poora; kharch ₹10.06 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~51%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '56',
@@ -125,8 +125,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.84 crore (sifarish)', utilizationPct: 87,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 100 kaam sifarish, 39 manzoor, 29 poora; kharch ₹5.41 crore. Sifarish ke hisaab se utilization ~87%, kharch ke hisaab se ~37%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '62',
@@ -152,8 +152,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.05 crore (sifarish)', utilizationPct: 62,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 126 kaam sifarish, 40 manzoor, 10 poora; kharch ₹2.98 crore. Sifarish ke hisaab se utilization ~62%, kharch ke hisaab se ~20%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -179,8 +179,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹16.59 crore', utilized: '₹9.94 crore (sifarish)', utilizationPct: 60,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 100 kaam sifarish, 43 manzoor, 34 poora; kharch ₹4.20 crore. Sifarish ke hisaab se utilization ~60%, kharch ke hisaab se ~25%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '53',
@@ -206,8 +206,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹15.97 crore', utilized: '₹13.61 crore (sifarish)', utilizationPct: 85,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 153 kaam sifarish, 49 manzoor, 8 poora; kharch ₹1.80 crore. Sifarish ke hisaab se utilization ~85%, kharch ke hisaab se ~11%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '45',
@@ -233,8 +233,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.68 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 164 kaam sifarish, 98 manzoor, 11 poora; kharch ₹6.70 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~46%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '53',
@@ -260,8 +260,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹5.00 crore (sifarish)', utilizationPct: 34,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 68 kaam sifarish, 2 manzoor, 0 poora; kharch ₹0.12 crore. Sifarish ke hisaab se utilization ~34%, kharch ke hisaab se ~1%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '63',
@@ -287,8 +287,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹11.14 crore (sifarish)', utilizationPct: 76,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 88 kaam sifarish, 19 manzoor, 7 poora; kharch ₹2.12 crore. Sifarish ke hisaab se utilization ~76%, kharch ke hisaab se ~14%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '38',
@@ -314,8 +314,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹10.09 crore (sifarish)', utilizationPct: 69,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 92 kaam sifarish, 54 manzoor, 16 poora; kharch ₹1.71 crore. Sifarish ke hisaab se utilization ~69%, kharch ke hisaab se ~12%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '65',
@@ -341,8 +341,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹10.28 crore (sifarish)', utilizationPct: 70,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 123 kaam sifarish, 86 manzoor, 20 poora; kharch ₹3.78 crore. Sifarish ke hisaab se utilization ~70%, kharch ke hisaab se ~26%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '53',
@@ -368,8 +368,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹13.58 crore (sifarish)', utilizationPct: 92,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 166 kaam sifarish, 65 manzoor, 21 poora; kharch ₹2.75 crore. Sifarish ke hisaab se utilization ~92%, kharch ke hisaab se ~19%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '65',
@@ -395,8 +395,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹2.19 crore (sifarish)', utilizationPct: 15,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 17 kaam sifarish, 10 manzoor, 4 poora; kharch ₹0.85 crore. Sifarish ke hisaab se utilization ~15%, kharch ke hisaab se ~6%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '43',
@@ -422,8 +422,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹19.03 crore', utilized: '₹13.83 crore (sifarish)', utilizationPct: 73,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 116 kaam sifarish, 59 manzoor, 38 poora; kharch ₹6.85 crore. Sifarish ke hisaab se utilization ~73%, kharch ke hisaab se ~36%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '52',
@@ -449,8 +449,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.81 crore', utilized: '₹1.60 crore (sifarish)', utilizationPct: 11,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 10 kaam sifarish, 10 manzoor, 9 poora; kharch ₹1.40 crore. Sifarish ke hisaab se utilization ~11%, kharch ke hisaab se ~9%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '56',
@@ -476,8 +476,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹6.01 crore (sifarish)', utilizationPct: 41,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 61 kaam sifarish, 42 manzoor, 19 poora; kharch ₹3.98 crore. Sifarish ke hisaab se utilization ~41%, kharch ke hisaab se ~27%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '61',
@@ -503,8 +503,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹0.28 crore (sifarish)', utilizationPct: 2,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 2 kaam sifarish, 1 manzoor, 0 poora; kharch ₹0.03 crore. Sifarish ke hisaab se utilization ~2%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '37',
@@ -530,8 +530,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.63 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 151 kaam sifarish, 44 manzoor, 31 poora; kharch ₹4.17 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~28%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '76',
@@ -557,8 +557,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹18.72 crore', utilized: '₹9.34 crore (sifarish)', utilizationPct: 50,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 118 kaam sifarish, 36 manzoor, 26 poora; kharch ₹3.08 crore. Sifarish ke hisaab se utilization ~50%, kharch ke hisaab se ~16%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -584,8 +584,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹19.56 crore', utilized: '₹9.53 crore (sifarish)', utilizationPct: 49,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 259 kaam sifarish, 67 manzoor, 41 poora; kharch ₹0.97 crore. Sifarish ke hisaab se utilization ~49%, kharch ke hisaab se ~5%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '47',
@@ -611,8 +611,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹11.59 crore (sifarish)', utilizationPct: 79,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 113 kaam sifarish, 52 manzoor, 32 poora; kharch ₹3.92 crore. Sifarish ke hisaab se utilization ~79%, kharch ke hisaab se ~27%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '60',
@@ -638,8 +638,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.80 crore (sifarish)', utilizationPct: 67,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 49 kaam sifarish, 49 manzoor, 0 poora; kharch ₹2.64 crore. Sifarish ke hisaab se utilization ~67%, kharch ke hisaab se ~18%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '59',
@@ -665,8 +665,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.80 crore (sifarish)', utilizationPct: 67,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 57 kaam sifarish, 57 manzoor, 0 poora; kharch ₹9.26 crore. Sifarish ke hisaab se utilization ~67%, kharch ke hisaab se ~63%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '49',
@@ -692,8 +692,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.75 crore (sifarish)', utilizationPct: 60,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 40 kaam sifarish, 25 manzoor, 0 poora; kharch ₹0.60 crore. Sifarish ke hisaab se utilization ~60%, kharch ke hisaab se ~4%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '55',
@@ -719,8 +719,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.70 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 67 kaam sifarish, 46 manzoor, 0 poora; kharch ₹5.63 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '65',
@@ -746,8 +746,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹13.25 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 74 kaam sifarish, 33 manzoor, 14 poora; kharch ₹4.81 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~33%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '72',
@@ -773,8 +773,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.28 crore (sifarish)', utilizationPct: 97,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 51 kaam sifarish, 32 manzoor, 0 poora; kharch ₹7.22 crore. Sifarish ke hisaab se utilization ~97%, kharch ke hisaab se ~49%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '66',
@@ -800,8 +800,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹16.82 crore', utilized: '₹15.41 crore (sifarish)', utilizationPct: 92,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 70 kaam sifarish, 36 manzoor, 19 poora; kharch ₹4.66 crore. Sifarish ke hisaab se utilization ~92%, kharch ke hisaab se ~28%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '67',
@@ -827,8 +827,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.78 crore', utilized: '₹8.81 crore (sifarish)', utilizationPct: 60,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 279 kaam sifarish, 237 manzoor, 191 poora; kharch ₹3.20 crore. Sifarish ke hisaab se utilization ~60%, kharch ke hisaab se ~22%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '31',
@@ -854,8 +854,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹15.29 crore', utilized: '₹12.84 crore (sifarish)', utilizationPct: 84,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 133 kaam sifarish, 84 manzoor, 22 poora; kharch ₹5.96 crore. Sifarish ke hisaab se utilization ~84%, kharch ke hisaab se ~39%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '59',
@@ -881,8 +881,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹18.48 crore', utilized: '₹14.94 crore (sifarish)', utilizationPct: 81,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 213 kaam sifarish, 52 manzoor, 34 poora; kharch ₹3.09 crore. Sifarish ke hisaab se utilization ~81%, kharch ke hisaab se ~17%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '40',
@@ -908,8 +908,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.15 crore (sifarish)', utilizationPct: 55,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 84 kaam sifarish, 64 manzoor, 28 poora; kharch ₹4.30 crore. Sifarish ke hisaab se utilization ~55%, kharch ke hisaab se ~29%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '57',
@@ -935,8 +935,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.65 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 99 kaam sifarish, 19 manzoor, 12 poora; kharch ₹1.89 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~13%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '49',
@@ -962,8 +962,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹10.93 crore (sifarish)', utilizationPct: 74,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 70 kaam sifarish, 54 manzoor, 18 poora; kharch ₹6.59 crore. Sifarish ke hisaab se utilization ~74%, kharch ke hisaab se ~45%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '69',
@@ -989,8 +989,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹6.46 crore (sifarish)', utilizationPct: 44,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 65 kaam sifarish, 15 manzoor, 1 poora; kharch ₹0.90 crore. Sifarish ke hisaab se utilization ~44%, kharch ke hisaab se ~6%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '46',
@@ -1016,8 +1016,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.88 crore (sifarish)', utilizationPct: 60,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 96 kaam sifarish, 67 manzoor, 28 poora; kharch ₹2.83 crore. Sifarish ke hisaab se utilization ~60%, kharch ke hisaab se ~19%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '72',
@@ -1043,8 +1043,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹15.31 crore', utilized: '₹4.86 crore (sifarish)', utilizationPct: 32,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 13 kaam sifarish, 7 manzoor, 3 poora; kharch ₹0.79 crore. Sifarish ke hisaab se utilization ~32%, kharch ke hisaab se ~5%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '36',
@@ -1070,8 +1070,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.79 crore (sifarish)', utilizationPct: 60,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 82 kaam sifarish, 79 manzoor, 11 poora; kharch ₹2.36 crore. Sifarish ke hisaab se utilization ~60%, kharch ke hisaab se ~16%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '43',
@@ -1097,8 +1097,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.70 crore (sifarish)', utilizationPct: 66,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 134 kaam sifarish, 127 manzoor, 19 poora; kharch ₹1.80 crore. Sifarish ke hisaab se utilization ~66%, kharch ke hisaab se ~12%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '58',
@@ -1124,8 +1124,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.91 crore (sifarish)', utilizationPct: 67,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 137 kaam sifarish, 98 manzoor, 11 poora; kharch ₹2.14 crore. Sifarish ke hisaab se utilization ~67%, kharch ke hisaab se ~15%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '74',
@@ -1151,8 +1151,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹10.60 crore (sifarish)', utilizationPct: 72,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 111 kaam sifarish, 33 manzoor, 17 poora; kharch ₹2.56 crore. Sifarish ke hisaab se utilization ~72%, kharch ke hisaab se ~17%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '43',
@@ -1178,8 +1178,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹11.84 crore (sifarish)', utilizationPct: 81,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 131 kaam sifarish, 12 manzoor, 2 poora; kharch ₹1.04 crore. Sifarish ke hisaab se utilization ~81%, kharch ke hisaab se ~7%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '43',
@@ -1205,8 +1205,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -1232,8 +1232,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹6.95 crore (sifarish)', utilizationPct: 47,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 112 kaam sifarish, 56 manzoor, 29 poora; kharch ₹3.53 crore. Sifarish ke hisaab se utilization ~47%, kharch ke hisaab se ~24%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '50',
@@ -1259,8 +1259,8 @@ export const mpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me ₹25 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
+      allocated: '₹18.56 crore', utilized: '₹8.90 crore (sifarish)', utilizationPct: 48,
+      note: 'e-SAKSHI dashboard (12 Oct 2026): 130 kaam sifarish, 48 manzoor, 24 poora; kharch ₹2.59 crore. Sifarish ke hisaab se utilization ~48%, kharch ke hisaab se ~14%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '55',

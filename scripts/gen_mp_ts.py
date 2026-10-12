@@ -66,6 +66,24 @@ def clean_pc(raw):
     return s
 
 unknown, netas, consts, seen = set(), [], [], set()
+
+def mplkey(s):
+    s = s.upper()
+    s = re.sub(r"\s*:\s*BYE ELECTION.*$", "", s)
+    for tag in ["(ST)", "(SC)", " "]:
+        s = s.replace(tag, "")
+    s = s.replace("-", "").replace("_MH", "")
+    return {"HATKANANGALE": "HATKANANGLE"}.get(s, s)
+
+mplads = {}
+try:
+    for r in json.load(open(os.path.join(CACHE, "mplads.json"))):
+        mplads[mplkey(r["constituency"])] = r
+except FileNotFoundError:
+    pass
+
+def crore(n):
+    return f"\u20b9{n/1e7:.2f} crore"
 # bye-election entries are current: process them last so they win dedupe
 data = sorted(data, key=lambda r: ("BYE ELECTION" not in r["constituency_raw"].upper(), r["constituency_raw"]))
 seen_const = set()
@@ -81,6 +99,21 @@ for r in data:
 data = deduped
 for r in data:
     pc_raw = clean_pc(r["constituency_raw"])
+    fund_rec = mplads.get(mplkey(r["constituency_raw"]))
+    if fund_rec and fund_rec["allocated"] > 0:
+        rec_pct = round(fund_rec["recommended_amt"] / fund_rec["allocated"] * 100)
+        exp_pct = round(fund_rec["expenditure"] / fund_rec["allocated"] * 100)
+        fund_block = (
+            "      scheme: 'MPLADS',\n"
+            f"      allocated: '{crore(fund_rec['allocated'])}', utilized: '{crore(fund_rec['recommended_amt'])} (sifarish)', utilizationPct: {rec_pct},\n"
+            f"      note: 'e-SAKSHI dashboard (12 Oct 2026): {fund_rec['recommended_works']} kaam sifarish, {fund_rec['sanctioned_works']} manzoor, {fund_rec['completed_works']} poora; kharch {crore(fund_rec['expenditure'])}. Sifarish ke hisaab se utilization ~{rec_pct}%, kharch ke hisaab se ~{exp_pct}%. Source: mplads.mospi.gov.in',\n"
+        )
+    else:
+        fund_block = (
+            "      scheme: 'MPLADS',\n"
+            "      allocated: null, utilized: null, utilizationPct: null,\n"
+            "      note: 'Har MP ko karyakaal me \u20b925 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',\n"
+        )
     cslug = slugify(pc_raw) + "-lok-sabha"
     if cslug in seen:
         continue
@@ -113,10 +146,7 @@ f"""  {{
     ],
     works: [],
     fund: {{
-      scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'Har MP ko karyakaal me \u20b925 crore tak milte hain. Kharch ka official record e-SAKSHI dashboard se jald joda jayega.',
-    }},
+{fund_block}    }},
     background: {{
       age: '{r["age"]}',
       education: '{ts_str(r["education"])}',
