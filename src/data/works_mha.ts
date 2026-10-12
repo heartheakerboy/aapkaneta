@@ -2494,4 +2494,80 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Shram mantri ke roop me Fundkar ne ghoshna ki ki suraksha guards ko kanooni labh dilane ke liye jila-war inspection hoga. Ghoshna stage hai.',
     },
   ],
+  // ---- Yavatmal district batch (researched 2026-10-12) ----
+  'derkar-sanjay-nilkanthrao': [
+    {
+      title: 'Maregaon taluka: Murdhoni–Vegav jodne wale ZP raste ka bhoomipujan — ₹38 lakh nidhi manzoor',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'SK News Channel, 28 Apr 2025',
+      sourceUrl: 'https://www.sknewschannel.online/2025/04/blog-post_98.html',
+      date: '2025-04-28',
+      note: 'Derkar ne Murdhoni–Dahegaon–Vegav ZP raste ke vikas kaam ka bhoomipujan kiya; unke vishesh prayas se ₹38 lakh ka nidhi manzoor hua. Bhoomipujan stage hai. Local source.',
+    },
+  ],
+  'prof-dr-ashok-ramaji-wooike': [
+    {
+      title: 'Pardhi samuday ke liye vishesh vikas package ki ghoshna — Tribal Development mantri ke roop me',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Free Press Journal, 03 Jun 2026',
+      sourceUrl: 'https://www.freepressjournal.in/mumbai/maharashtra-govt-announces-special-package-for-marginalised-pardhi-community-to-address-land-education-and-housing-issues',
+      date: '2026-06-03',
+      note: 'Adivasi Vikas mantri ke roop me Uike ne Pardhi samuday ke liye dedicated vikas package ki ghoshna ki — zameen, awas, shiksha, hostel ke liye earmarked funds. Poore state ke liye ghoshna hai, package taiyar hone ki stage par.',
+    },
+  ],
+  'anil-alias-balasaheb-shankarrao-mangulkar': [
+    {
+      title: 'Prabhag 26 me Gajanan Maharaj mandir parisar me JN Park udyan ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Public App, 19 Jun 2025',
+      sourceUrl: 'https://public.app/video/sp_wy7154csd18vh',
+      date: '2025-06-19',
+      note: 'Mangulkar ne Yavatmal shahar ke prabhag 26 me Gajanan Maharaj mandir ke khule maidan me JN Park udyan ka udghatan kiya. Udghatan stage hai. Local source.',
+    },
+    {
+      title: 'Prabhag 26, Shriram Nagar (Lohara) me raste ke khadikaran ka bhoomipujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Public App, 06 Jul 2025',
+      sourceUrl: 'https://public.app/video/sp_agdkjgc8o8tg5',
+      date: '2025-07-06',
+      note: 'Nagar parishad vikas nidhi se prabhag 26, Shriram Nagar me raste ke khadikaran kaam ka bhoomipujan Mangulkar ke hasten. Bhoomipujan stage hai. Local source.',
+    },
+  ],
+  'rathod-sanjay-dulichand': [
+    {
+      title: 'Vasantrao Naik shaskiya medical college me hi-tech ward — operation theatre, 20-bed surgical ICU ka udghatan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Divya Marathi, 31 Oct 2025',
+      sourceUrl: 'https://divyamarathi.bhaskar.com/amp/local/maharashtra/amravati/yavatmal/news/hi-tech-facilities-in-government-hospital-136316098.html',
+      date: '2025-10-31',
+      note: 'Palakmantri ke roop me Rathod ke pahal par zila khanij nidhi aur zila varshik yojana se medical college me strirog operation theatre, 20 khaat ka surgical ICU aur 3 renovated ward bane — udghatan/lokarpan hua. Poora hua kaam.',
+    },
+  ],
+  'indranil-manohar-naik': [
+    {
+      title: 'Pusad shahar prabhag 10 me Yog Bhavan ka bhoomipujan — vishisht yojana 2023-24 se',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Public App, 22 Sep 2025',
+      sourceUrl: 'https://public.app/video/sp_0vuoxd9ixkmcr',
+      date: '2025-09-22',
+      note: 'Naik ne Pusad ke prabhag 10 me vishisht yojana 2023-24 ke tahat Yog Bhavan ka bhoomipujan kiya. Bhoomipujan stage hai. Local source.',
+    },
+  ],
+  'kisan-maroti-wankhede': [
+    {
+      title: 'Umarkhed me gharkul labharthiyon ko muft reti vitaran — Dighdi me hari jhandi',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Public App, 13 Jun 2025',
+      sourceUrl: 'https://public.app/video/sp_wf6yzwvndib8u',
+      date: '2025-06-13',
+      note: 'Shasan ke faisle (5 brass reti bina royalty muft) ke tahat Wankhede ne Dighdi me gharkul labharthiyon ko reti vitaran ke tractor ko hari jhandi dikhai. Yojana ka shubharambh — bhoomika shubharambh tak seemit. Local source.',
+    },
+  ],
 };
