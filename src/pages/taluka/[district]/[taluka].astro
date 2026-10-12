@@ -1,0 +1,64 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { netas, constituencies } from '../../../data/all';
+import { districtTalukas, districtSlug, slugify, districtPath, acTalukas, acDistrict } from '../../../data/geo';
+
+export function getStaticPaths() {
+  const paths: { params: { district: string; taluka: string }; props: { district: string; taluka: string } }[] = [];
+  for (const [d, ts] of Object.entries(districtTalukas)) {
+    for (const t of ts) {
+      paths.push({ params: { district: districtSlug(d), taluka: slugify(t) }, props: { district: d, taluka: t } });
+    }
+  }
+  return paths;
+}
+
+const { district, taluka } = Astro.props;
+// All ACs whose extent includes this taluka (even if the AC sits in a neighbouring district)
+const acNums = Object.entries(acTalukas).filter(([, ts]) => ts.includes(taluka)).map(([n]) => Number(n)).sort((a, b) => a - b);
+const constByNum = Object.fromEntries(constituencies.filter(c => c.type === 'Vidhan Sabha' && c.number != null).map(c => [c.number!, c]));
+const netaByConst = Object.fromEntries(netas.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
+---
+
+<Layout title={`${taluka} taluka, ${district} — kshetra aur neta`} description={`${taluka} taluka (${district} jila) me aane wale Vidhan Sabha kshetron ke MLA aur unke kaam ka record.`}>
+  <div class="k-hero">
+    <div class="wrap">
+      <a class="back" href={districtPath(district)}>← Jila {district}</a>
+      <h1>Taluka {taluka}</h1>
+      <div class="k-meta">Jila <a href={districtPath(district)}>{district}</a>, Maharashtra • {acNums.length} Vidhan Sabha kshetra {acNums.length === 1 ? 'ka hissa' : 'ke hisse'}</div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <h2 class="section-title">Is taluke me aane wale kshetra</h2>
+    <div class="ac-list">
+      {acNums.map(num => {
+        const c = constByNum[num];
+        if (!c) return null;
+        const n = netaByConst[c.slug];
+        return (
+          <a class="ac-row" href={`/kshetra/${c.slug}`}>
+            <span class="ac-num">{c.number}</span>
+            <span class="ac-name">{c.name} <span class="ac-dist">({acDistrict[num]})</span></span>
+            <span class="ac-mla">{n ? n.name : '—'}</span>
+            <span class="ac-works">{n ? `${n.works.length} verified kaam` : ''}</span>
+          </a>
+        );
+      })}
+    </div>
+    <p class="src-note">Kshetra-taluka sambandh: Bharat Nirvachan Aayog — Delimitation Order, 2008 (CEO Maharashtra). Kuch kshetra ek se zyada talukon me batte hain.</p>
+  </div>
+</Layout>
+
+<style>
+  .ac-list { display: flex; flex-direction: column; gap: 8px; margin-top: 8px; }
+  .ac-row { display: grid; grid-template-columns: 52px 1fr auto auto; gap: 12px; align-items: center; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; text-decoration: none; color: inherit; }
+  .ac-row:hover { border-color: var(--accent); }
+  .ac-num { font-weight: 800; color: var(--accent); }
+  .ac-name { font-weight: 600; }
+  .ac-dist { font-weight: 400; font-size: 13px; color: var(--ink-soft); }
+  .ac-mla { color: var(--ink-soft); font-size: 14px; }
+  .ac-works { font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
+  .src-note { margin-top: 22px; font-size: 13px; color: var(--ink-soft); }
+  @media (max-width: 640px) { .ac-row { grid-template-columns: 44px 1fr; } .ac-mla, .ac-works { display: none; } }
+</style>

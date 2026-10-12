@@ -1,6 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import { constituencies, getConstituency, netasByConstituency } from '../../data/all';
+import { acTalukas, talukaLink, districtPath } from '../../data/geo';
 
 export function getStaticPaths() {
   return constituencies.map(c => ({ params: { slug: c.slug } }));
@@ -10,6 +11,7 @@ const { slug } = Astro.params;
 const kshetra = getConstituency(slug!);
 if (!kshetra) throw new Error('Constituency not found: ' + slug);
 const leaders = netasByConstituency(kshetra.slug);
+const talukas = kshetra.type === 'Vidhan Sabha' && kshetra.number != null ? (acTalukas[kshetra.number] || []) : [];
 ---
 
 <Layout title={`${kshetra.name} ${kshetra.type} — kshetra ka hisaab`} description={`${kshetra.name} ${kshetra.type}${kshetra.district ? ` (jila ${kshetra.district})` : ''} ke neta aur unke kaam ka satyaapit record.`}>
@@ -29,7 +31,10 @@ const leaders = netasByConstituency(kshetra.slug);
     <div class="wrap">
       <a class="back" href="/">← Home</a>
       <h1>{kshetra.name} <span style="font-weight:400;color:var(--ink-soft)">({kshetra.type}{kshetra.number ? ` • No. ${kshetra.number}` : ''})</span></h1>
-      <div class="k-meta">{kshetra.district ? `Jila ${kshetra.district}, Maharashtra` : 'Maharashtra'} • Arakshan: {kshetra.reservation}</div>
+      <div class="k-meta">{kshetra.district ? <span>Jila <a href={districtPath(kshetra.district)}>{kshetra.district}</a>, Maharashtra</span> : 'Maharashtra'} • Arakshan: {kshetra.reservation}</div>
+      {talukas.length > 0 && (
+        <div class="k-talukas">Taluke: {talukas.map((t, i) => (<span>{i > 0 ? ', ' : ''}<a href={talukaLink(kshetra.district, t)}>{t}</a></span>))}</div>
+      )}
     </div>
   </div>
 

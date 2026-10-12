@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { netas, constituencies, badgeMeta } from '../data/all';
+import { districtPath } from '../data/geo';
 
 const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).join('');
 const constBySlug: Record<string, (typeof constituencies)[number]> = Object.fromEntries(constituencies.map(c => [c.slug, c]));
@@ -117,7 +118,7 @@ for (const [, arr] of districts) {
       <h3 class="group-title">Vidhan Sabha — jile ke hisaab se <span>({mlas.length} MLA)</span></h3>
       {districts.map(([d, arr]) => (
         <div class="dist-group" data-district={d}>
-          <h4 class="dist-title">{d} <span>({arr.length})</span></h4>
+          <h4 class="dist-title"><a href={districtPath(d)}>{d}</a> <span>({arr.length})</span></h4>
           <div class="grid">
             {arr.map(n => (
               <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort} ${d}`.toLowerCase()}>
