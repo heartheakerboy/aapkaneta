@@ -2053,4 +2053,95 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Shiksha mantri ke roop me Kesarkar ne Sawantwadi, Dodamarg, Vengurla blocks ke 150 sarkari primary schools ko smart classroom banane ka programme launch kiya — ~5,000 bachchon ko fayda.',
     },
   ],
+  // ---- Ahmednagar district batch (researched 2026-10-12) ----
+  'dr-kiran-yamaji-lahamate': [
+    {
+      title: '17 saal baad Pimparkane pul khula — Lahamate ke haathon lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'ABP Live Marathi, 08 Nov 2023',
+      sourceUrl: 'https://marathi.abplive.com/news/ahmednagar/ahmednagar-latest-news-inauguration-of-pimparkane-bridge-in-ahmednagar-district-after-17-years-maharashtra-news-1226710',
+      date: '2023-11-08',
+      period: '2019-2024',
+      note: '2006 me manzoor 560m pul 17 saal baad poora; Dr. Kiran Lahamate ne Rajur-Pimparkane (Akole taluka) pul ka lokarpan kiya. 25 adivasi gaon ko fayda. Poora hua kaam — 2019-2024 karyakal ka.',
+    },
+  ],
+  'amol-dhondiba-khatal': [
+    {
+      title: 'Sangamner me adhure health infrastructure kaamon ko jaldi poora karne ki maang',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Hindustan Times, 14 Mar 2026',
+      sourceUrl: 'https://www.hindustantimes.com/cities/pune-news/minister-orders-to-speed-up-health-infrastructure-works-fill-rural-vacancies-101773430037627.html',
+      date: '2026-03-14',
+      note: 'Mantralaya ki review baithak me MLA Khatal ne Sangamner me adhure paday swasthya-nirman kaamon ko jaldi poora karne ki maang uthayi. Maang/follow-up hai.',
+    },
+  ],
+  'patil-vikhe-radhakrushna-eknathrao': [
+    {
+      title: 'Sina Madha sinchai pariyojana ke liye ₹20 crore ka pravdhan — Vikhe Patil ki ghoshna',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Free Press Journal, 11 Jul 2025',
+      sourceUrl: 'https://www.freepressjournal.in/mumbai/maharashtra-cm-devendra-fadnavis-announces-big-push-for-farm-road-construction-across-state',
+      date: '2025-07-11',
+      note: 'Jal sansadhan mantri Vikhe Patil ne sadan me kaha: Sina Madha pariyojana ke liye FY 2025-26 me ₹20 crore ka pravdhan; 710 hectare zameen ka adhigrahan poora. Mantri-padiya ghoshna hai.',
+    },
+  ],
+  'ashutosh-ashokrao-kale': [
+    {
+      title: 'Kopargaon me tendua hamle par turant Dy CM ko soochit kiya — safai abhiyan aur animal shelter ki ghoshna',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 30 Nov 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nashik/ajit-pawar-vows-measures-to-keep-leopards-at-bay-in-kopargaon-eknath-shinde-says-sena-bjp-alliance-here-to-stay/articleshow/125643302.cms',
+      date: '2025-11-30',
+      note: 'Tendua hamle ke baad MLA Kale ne turant Dy CM Ajit Pawar ko soochit kiya; Pawar ne cleanliness drive aur animal shelter ka elan kiya. Kale ki bhoomika soochna/coordination tak seemit.',
+    },
+  ],
+  'ogale-hemant-bhujangrao': [
+    {
+      title: 'Shrirampur ke main raston par khadde bujhwane ka kaam shuru — Ogale ke nirdesh par',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Janta Awaj, Dec 2025',
+      sourceUrl: 'https://jantaawaj.in/14406/',
+      date: '2025-12-27',
+      note: 'MLA Ogale aur Nagaradhyaksha ne palika adhikariyon ko nirdesh diye; main road par khadde bujhwane ka kaam shuru ho gaya.',
+    },
+  ],
+  'vitthal-vakilrao-langhe': [
+    {
+      title: 'Nevasa me paani-sankat par nagarikon ka virodh — Langhe ke hastakshep se protest wapas',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Daijiworld, 20 Sep 2025',
+      sourceUrl: 'https://daijiworld.com/news/newsDisplay?newsID=1292834',
+      date: '2025-09-20',
+      note: '8 din ke paani-sankat par virodh ke baad MLA Langhe ne hastakshep kiya; adhikariyon ke likhit ashwasan (8 din me paani-bijli bahaal) ke baad virodh wapas liya gaya.',
+    },
+  ],
+  'rohit-pawar': [
+    {
+      title: 'Karjat-Jamkhed Integrated Development Foundation ki shuruaat — shiksha, swasthya, rozgar ke liye',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Indian Express, 12 Feb 2020',
+      sourceUrl: 'https://indianexpress.com/article/cities/pune/for-better-education-health-more-jobs-mla-rohit-pawar-to-launch-foundation-to-uplift-karjat-jamkhed-6263628/lite/',
+      date: '2020-02-12',
+      period: '2019-2024',
+      note: '2019 me chune jaane ke baad Pawar ne kshetra ke vikas ke liye foundation banayi — shiksha, swasthya, rozgar, jal sanrakshan par focus; CSR funding se kaam.',
+    },
+  ],
+  'sangram-arunkaka-jagtap': [
+    {
+      title: 'Ahilyanagar nagar nigam me ₹350 crore ghotaale ka aarop — Sanjay Raut ne Jagtap ka naam liya',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'LatestLY (ANI), 16 Jul 2025',
+      sourceUrl: 'https://www.latestly.com/agency-news/india-news-sanjay-raut-alleges-rs-350-crore-scam-in-ahilyanagar-targets-state-government-over-widespread-corruption-7000502.html',
+      date: '2025-07-16',
+      note: 'Negative khabar: Sanjay Raut ne aarop lagaya ki Ahilyanagar nagar nigam me 776 sadkon ke naam par ₹350 crore kharch hue jo kahin dikhe nahi; sthaniya MLA Jagtap ka naam liya. Raut ne CM ko saboot ki file saunpi. Jagtap ki pratikriya khabar me nahi.',
+    },
+  ],
 };
