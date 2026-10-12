@@ -2811,4 +2811,25 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Wadettiwar ki Brahmapuri me krishi vibhag ki baithak me daava: Gosekhurd pariyojana ka paani har taluka tak pahunchane ka kaam yuddhastar par chal raha hai; MIDC Mul me ethanol project antim charan me. MLA ke apne bayaan par aadharit — swatantra pushti nahi.',
     },
   ],
+  // ---- Gadchiroli district batch (researched 2026-10-12) ----
+  'dr-milind-ramji-narote': [
+    {
+      title: 'Chamorshi ke kisaano ka shishtmandal CM ke paas — Narote ke netritva me; zabardasti bhoomi adhigrahan nahi hoga, CM ka ashwasan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 08 Apr 2026',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/nagpur/no-forced-land-acquisition-in-gadchiroli-says-fadnavis/articleshow/130096007.cms',
+      date: '2026-04-08',
+      note: 'Narote ke netritva me Chamorshi taluka ke kisaano ka shishtmandal Ramgiri me CM Fadnavis se mila; CM ne ashwasan diya ki audyogik pariyojnaon ke liye bhoomi adhigrahan bina dabav ke, uchit muavza aur punarvas ke saath, sabhi pakshon se charcha ke baad hoga.',
+    },
+    {
+      title: 'Gadchiroli me ₹3 lakh crore nivesh ki ghoshna — steel hub, sthaniya rozgar me prathmikta ka ashwasan',
+      category: 'Rojgar',
+      badge: 'news',
+      sourceLabel: 'Illustrated Daily News, 01 Dec 2025',
+      sourceUrl: 'https://www.illustrateddailynews.com/india/fadnavis-says-rapid-development-poised-to-make-gadchiroli-the-gateway-to-south-india-849146',
+      date: '2025-12-01',
+      note: 'Nagarpalika chunav se pehle jan sabha me Narote ne ghoshna ki ki Gadchiroli me steel hub ke roop me ₹3 lakh crore ka nivesh aayega; naye udyogon me sthaniya nagriko ko rozgar me prathmikta aur jal-jameen-jungle ki poorn suraksha ka ashwasan diya. Ghoshna stage hai — nivesh aane ki pushti nahi.',
+    },
+  ],
 };
