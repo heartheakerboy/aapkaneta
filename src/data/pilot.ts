@@ -47,6 +47,7 @@ export interface Neta {
   party: string;
   partyShort: string;
   post: 'MLA' | 'MP';
+  house?: 'Lok Sabha' | 'Rajya Sabha';
   constituency: string;
   constituencySlug: string;
   tenures: Tenure[];
@@ -59,7 +60,7 @@ export interface Neta {
 export interface Constituency {
   slug: string;
   name: string;
-  type: 'Vidhan Sabha' | 'Lok Sabha';
+  type: 'Vidhan Sabha' | 'Lok Sabha' | 'Rajya Sabha';
   number: number | null;
   district: string;
   reservation: string;

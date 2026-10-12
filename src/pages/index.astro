@@ -6,7 +6,8 @@ import { districtPath } from '../data/geo';
 const initials = (name: string) => name.split(' ').map(w => w[0]).slice(0, 2).join('');
 const constBySlug: Record<string, (typeof constituencies)[number]> = Object.fromEntries(constituencies.map(c => [c.slug, c]));
 
-const mps = netas.filter(n => n.post === 'MP');
+const mps = netas.filter(n => n.post === 'MP' && n.house !== 'Rajya Sabha');
+const rsMps = netas.filter(n => n.post === 'MP' && n.house === 'Rajya Sabha');
 const mlas = netas.filter(n => n.post === 'MLA');
 
 const byDistrict = new Map<string, typeof mlas>();
@@ -85,7 +86,7 @@ for (const [, arr] of districts) {
       <div class="searchbox">
         <input id="q" type="search" placeholder="Neta ya kshetra ka naam likhein… (jaise: Vasai, Savara)" autocomplete="off" />
       </div>
-      <span class="pilot-tag">📍 Live: Maharashtra ke 288 MLA + 48 MP — halafnama record ke saath</span>
+      <span class="pilot-tag">📍 Live: Maharashtra ke 288 MLA + 48 Lok Sabha MP + 19 Rajya Sabha MP — halafnama record ke saath</span>
     </div>
   </section>
 
@@ -102,6 +103,28 @@ for (const [, arr] of districts) {
               <div>
                 <h3>{n.name}</h3>
                 <div class="neta-meta">{n.post} • {n.constituency}</div>
+              </div>
+            </div>
+            <span class="party-pill">{n.partyShort}</span>
+            <div class="neta-foot">
+              <span>{n.works.length} verified kaam</span>
+              <span>Profile dekhein →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section class="post-section" id="rsSection">
+      <h3 class="group-title">Sansad — Rajya Sabha MP <span>({rsMps.length})</span></h3>
+      <div class="grid">
+        {rsMps.map(n => (
+          <a class="neta-card card" href={`/neta/${n.slug}`} data-search={`${n.name} ${n.constituency} ${n.party} ${n.partyShort}`.toLowerCase()}>
+            <div class="neta-top">
+              <div class="avatar">{initials(n.name)}</div>
+              <div>
+                <h3>{n.name}</h3>
+                <div class="neta-meta">Rajya Sabha MP • Maharashtra</div>
               </div>
             </div>
             <span class="party-pill">{n.partyShort}</span>

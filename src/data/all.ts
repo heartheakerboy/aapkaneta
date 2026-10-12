@@ -2,11 +2,12 @@
 import { netas as pilotNetas, constituencies as pilotConsts, badgeMeta } from './pilot';
 import { mhaNetas, mhaConstituencies } from './maharashtra';
 import { mpNetas, mpConstituencies } from './mp';
+import { rsNetas, rsConstituencies } from './rs';
 import { mhaWorks } from './works_mha';
 import type { Neta, Constituency } from './pilot';
 
-export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas];
-export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies];
+export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas];
+export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies, ...rsConstituencies];
 
 // Overlay verified work entries (district batches) onto generated profiles
 for (const n of allNetas) {
