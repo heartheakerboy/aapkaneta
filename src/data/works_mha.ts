@@ -1571,4 +1571,82 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'CM Fadnavis ne Ichalkaranji me ₹361.31 crore ki pariyojanaon (Panchganga pradushan niyantran, MIDC kshetra) ka udghatan/bhoomipujan kiya; Awade samaroh me maujood the. Bhoomika upasthiti tak seemit.',
     },
   ],
+  // ---- Sangli district batch (researched 2026-10-12) ----
+  'dr-suresh-dagadu-khade': [
+    {
+      title: 'Miraj-Sangli railway samasyaen — Kripamayi ROB, LC crossings par kendriya mantri se maang',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Pune Mirror, 12 Jan 2024',
+      sourceUrl: 'https://punemirror.com/pune-mirror-explore/union-minister-raosaheb-danve-patil-addresses-concerns-at-pune-station-promises-swift-solutions-for-miraj-and-sangli/',
+      date: '2024-01-12',
+      period: '2019-2024',
+      note: 'Khade ne railway rajya mantri se milkar Miraj yard ke ROB aur level crossings ki samasyaen uthayin. Maang/follow-up hai — kaam poora hone ki khabar nahi.',
+    },
+  ],
+  'dhananjay-hari-gadgil': [
+    {
+      title: 'Sangli me dedicated raisin research centre ki maang — Shivaji University Senate ne siddhant roop se manzoori di',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Adda247 Current Affairs, 12 Oct 2026',
+      sourceUrl: 'https://currentaffairs.adda247.com/maharashtras-sangli-to-get-dedicated-raisin-research-centre/amp/',
+      date: '2026-10-12',
+      note: 'Gadgil (Dhananjay alias Sudhir Gadgil) ki maang par Shivaji University ke Senate ne raisin research centre ke prastav ko siddhant roop se manzoor kiya. Maang/manzoori stage hai — centre banna baaki.',
+    },
+  ],
+  'deshmukh-satyajit-shivajirao': [
+    {
+      title: 'Battis Shirala me Nagpanchami ka chunavi vaada poora — paramparik naag pooja phir shuru',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India, 30 Jul 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/kolhapur/poll-promise-on-nagpanchami-celebrations-at-battis-shirala-fulfilled-says-bjp-mla-deshmukh/articleshow/122982280.cms',
+      date: '2025-07-30',
+      note: 'Nov 2024 chunav ke vaade ke baad sarkar ne Battis Shirala me live naag pooja shart-sahit permit ke saath phir shuru karayi; Deshmukh ne sadan me mudda uthaya tha. Vaada poora hua.',
+    },
+    {
+      title: 'Shaktipeeth Expressway ka alignment badalne ki CM se maang — kisaano ke saath MSRDC se virodh',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Times of India, 16 Jun 2026',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/kolhapur/bjps-shirala-mla-urges-cm-to-alter-alignment-of-proposed-shaktipeeth-expressway/articleshow/131779095.cms',
+      date: '2026-06-16',
+      note: 'Deshmukh ne CM se Shaktipeeth Expressway ka alignment badalne ki maang ki — upjau zameen par asar ka hawala; kisaano ke saath MSRDC se virodh darj karaya. Maang hai — nirnay nahi hua.',
+    },
+  ],
+  'kadam-vishwajit-patangrao': [
+    {
+      title: '2019 baadh me Palus me rescue kaam — naav se khana pahunchaya',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Mumbai Mirror, 08 Aug 2019',
+      sourceUrl: 'https://mumbaimirror.indiatimes.com/mumbai/maharashtra-floods-live-updates-sangli-kolhapur-satara-displaced-rescue-operations-ndrf-navy/maharashtra-floods-congress-mla-vishwajeet-patangrao-kadam-participated-in-rescue-work/videoshow/70599298.html',
+      date: '2019-08-08',
+      period: '2019-2024',
+      note: '2019 ki baadh me Kadam ne Palus ke Bramhanal gaon me rescue kaam me hissa liya aur naav se baadh-prabhaviton tak khana pahunchaya. Rahat kaam tha — vikas nirman nahi.',
+    },
+  ],
+  'babar-suhas-anilbhau': [
+    {
+      title: '"Tree Army" — 78,178 paudhe lagane ka sankalp, hazaaron nagrik jude',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Lokmat Times, 15 May 2026',
+      sourceUrl: 'https://www.lokmattimes.com/social-viral/from-one-peepal-tree-to-a-full-fledged-tree-army-mla-suhas-babars-green-movement-becomes-a-model-for-environmental-conservation-a521/',
+      date: '2026-05-15',
+      note: '2024 chunav me mile 78,178 vote ke barabar paudhe lagane ka sankalp; abhiyan "Tree Army" bana — nagrik zameen, paani, paudhe aur shram de rahe hain. Abhiyan jaari hai.',
+    },
+  ],
+  'rohit-suman-r-r-aba-patil': [
+    {
+      title: 'Plastic ke nakli phoolon par ban ki maang — 105 MLAs ka signature campaign',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'News18, 17 Jul 2025',
+      sourceUrl: 'https://www.news18.com/politics/over-100-mlas-back-rohit-patils-signature-drive-against-artificial-flowers-in-maharashtra-ws-kl-9445625.html',
+      date: '2025-07-17',
+      note: 'Phool kisaano ke hit me Patil ne plastic ke nakli phoolon par ban ki maang ki; signature campaign me 105 MLAs ne samarthan diya; CM ne baithak ka ashwasan diya. Maang hai — ban nahi hua.',
+    },
+  ],
 };
