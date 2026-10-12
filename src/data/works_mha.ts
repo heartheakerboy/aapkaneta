@@ -1956,4 +1956,39 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'EGS/Horticulture mantri ke roop me Gogawale ne bataya ki Bamboo Industry Policy manzoor hui — ₹50,000 crore nivesh, 5 lakh rozgar ka lakshya. Poore Maharashtra ke liye neeti hai, sirf Mahad ke liye nahi.',
     },
   ],
+  // ---- Ratnagiri district batch (researched 2026-10-12) ----
+  'kadam-yogeshdada-ramdas': [
+    {
+      title: 'Mumbai–Vijaydurg Ro-Ro seva me Harnai bandargah ko halt dene ki maang — Nitesh Rane ko patr',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Free Press Journal, 04 Mar 2026',
+      sourceUrl: 'https://www.freepressjournal.in/mumbai/boost-for-konkan-connectivity-minister-yogesh-kadam-urges-nitesh-rane-to-include-harnai-port-in-mumbaivijaydurg-ro-ro-service',
+      date: '2026-03-04',
+      note: 'Rajya mantri Yogesh Kadam ne Matsyapalan/Bandargah mantri ko likhit patr me Ro-Ro seva me Dapoli taluka ke Harnai bandargah par halt ki maang ki; kaha Dapoli me rail connectivity nahi hai. Maang hai — halt mila ya nahi, khabar nahi.',
+    },
+  ],
+  'uday-ravindra-samant': [
+    {
+      title: 'Ratnagiri me Indian Institute of Gems & Jewellery training centre ka udghatan — 350 students saalana',
+      category: 'Rojgar',
+      badge: 'news',
+      sourceLabel: 'GJEPC, 24 Sep 2024',
+      sourceUrl: 'https://gjepc.org/solitaire/shri-uday-samant-honble-minister-of-industries-govt-of-maharashtra-inaugurates-iigj-training-and-skilling-centre-in-ratnagiri-gjepc/',
+      date: '2024-09-24',
+      period: '2019-2024',
+      note: 'Udyog mantri Uday Samant ne Ratnagiri me IIGJ ka training centre udhghatit kiya — jewellery design/manufacturing me 350 students ka saalana prashikshan; yuvaon ke liye skill hub. 2019-2024 karyakal ka kaam.',
+    },
+  ],
+  'jadhav-bhaskar-bhaurao': [
+    {
+      title: 'Sadan me Konkan ke liye lambi-avadhi vikas yojana ki maang — "dollar land" bahas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Mid-day (PTI), 18 Mar 2026',
+      sourceUrl: 'https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-bhaskar-jadhav-urges-unified-effort-to-harness-konkans-fisheries-tourism-potential-23621475',
+      date: '2026-03-18',
+      note: 'Bhaskar Jadhav ne vidhan sabha me Konkan vikas par bahas me dedicated authority aur machhuaron ke liye board ki maang ki. Maang hai — nirnay nahi hua.',
+    },
+  ],
 };
