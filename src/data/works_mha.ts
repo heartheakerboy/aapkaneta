@@ -2832,4 +2832,16 @@ export const mhaWorks: Record<string, Work[]> = {
       note: 'Nagarpalika chunav se pehle jan sabha me Narote ne ghoshna ki ki Gadchiroli me steel hub ke roop me ₹3 lakh crore ka nivesh aayega; naye udyogon me sthaniya nagriko ko rozgar me prathmikta aur jal-jameen-jungle ki poorn suraksha ka ashwasan diya. Ghoshna stage hai — nivesh aane ki pushti nahi.',
     },
   ],
+  // ---- Gondiya district batch (researched 2026-10-12) ----
+  'agrawal-vinod': [
+    {
+      title: 'Gondia ke EGS ka ₹407 crore bakaaya — mantri se bhid gaye Agrawal, kshetriya bhedbhaav ka aarop',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Free Press Journal, 12 Jul 2025',
+      sourceUrl: 'https://www.freepressjournal.in/mumbai/maharashtra-news-gondia-bjp-mla-confronts-minister-gogawale-over-pending-egs-funds-alleges-regional-discrimination',
+      date: '2025-07-12',
+      note: 'Agrawal ne Vidhan Bhavan me Employment Guarantee mantri Bharat Gogawale se Gondia jile ke ₹407 crore bakaaya EGS funds par bhidai — ilzam: manzoor raashi mahinon se jaari nahi, bhrasht adhikari rishwat lekar fund chhodta hai. Mantri ne jila collector ko phone par lagaya. Maang/virodh stage hai — fund jaari hone ki khabar nahi.',
+    },
+  ],
 };
