@@ -2,10 +2,17 @@
 import { netas as pilotNetas, constituencies as pilotConsts, badgeMeta } from './pilot';
 import { mhaNetas, mhaConstituencies } from './maharashtra';
 import { mpNetas, mpConstituencies } from './mp';
+import { mhaWorks } from './works_mha';
 import type { Neta, Constituency } from './pilot';
 
 export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas];
 export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies];
+
+// Overlay verified work entries (district batches) onto generated profiles
+for (const n of allNetas) {
+  const w = mhaWorks[n.slug];
+  if (w && w.length) n.works = [...n.works, ...w];
+}
 
 export function getNeta(slug: string): Neta | undefined {
   return allNetas.find((n) => n.slug === slug);
