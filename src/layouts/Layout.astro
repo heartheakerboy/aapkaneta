@@ -55,6 +55,31 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         color: #e2e8f0; text-decoration: none; font-size: 15px; padding: 8px 14px; border-radius: 8px;
       }
       nav.site a:hover, nav.site a.active { background: rgba(255,255,255,.12); color: #fff; }
+      .nav-drop { position: static; }
+      .nav-drop > button {
+        color: #e2e8f0; background: none; border: none; cursor: pointer;
+        font-size: 15px; padding: 8px 14px; border-radius: 8px; font-family: inherit; white-space: nowrap;
+      }
+      .nav-drop > button:hover, .nav-drop > button[aria-expanded="true"] { background: rgba(255,255,255,.12); color: #fff; }
+      .nav-panel {
+        position: absolute; top: 100%; left: 0; right: 0; z-index: 60;
+        background: #fff; color: var(--ink); border-bottom: 1px solid var(--line);
+        box-shadow: 0 12px 28px rgba(27,42,65,.16);
+      }
+      .nav-panel[hidden] { display: none; }
+      .nav-panel .wrap { display: flex; gap: 10px; align-items: end; padding-top: 14px; padding-bottom: 16px; flex-wrap: wrap; }
+      .nav-panel label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; font-weight: 700; color: var(--ink-soft); flex: 1 1 160px; }
+      .nav-panel select {
+        font-family: inherit; font-size: 15px; padding: 10px 12px; border-radius: 10px;
+        border: 1.5px solid var(--line); background: #fff; color: var(--ink); max-width: 100%;
+      }
+      .nav-panel select:disabled { background: #f1f5f9; color: #94a3b8; }
+      .nav-panel .btn { flex: 0 0 auto; }
+      @media (max-width: 720px) {
+        .nav-drop > button { padding: 8px 12px; font-size: 14px; }
+        .nav-panel .wrap { flex-direction: column; align-items: stretch; }
+        .nav-panel label { flex: 1 1 auto; }
+      }
       main { min-height: 60vh; }
       footer.site { background: var(--ink); color: #cbd5e1; margin-top: 64px; }
       footer.site .wrap { padding-top: 36px; padding-bottom: 28px; }
@@ -106,10 +131,27 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         </a>
         <nav class="site">
           <a href="/">Home</a>
+          <div class="nav-drop">
+            <button id="kshetraBtn" aria-expanded="false" aria-controls="kshetraPanel">Kshetra ▾</button>
+          </div>
           <a href="/tulna">Tulna</a>
           <a href="/methodology">Methodology</a>
           <a href="/rti">RTI Lagao</a>
         </nav>
+      </div>
+      <div id="kshetraPanel" class="nav-panel" hidden>
+        <div class="wrap">
+          <label>Jila
+            <select id="selDistrict"><option value="">Jila chunein…</option></select>
+          </label>
+          <label>Taluka
+            <select id="selTaluka" disabled><option value="">Pehle jila chunein</option></select>
+          </label>
+          <label>Kshetra
+            <select id="selAc" disabled><option value="">Pehle taluka chunein</option></select>
+          </label>
+          <button id="goBtn" class="btn" disabled>Dekhein →</button>
+        </div>
       </div>
     </header>
     <main>
@@ -144,5 +186,89 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         </div>
       </div>
     </footer>
+    <script is:inline>
+    (function () {
+      var btn = document.getElementById('kshetraBtn');
+      var panel = document.getElementById('kshetraPanel');
+      var selD = document.getElementById('selDistrict');
+      var selT = document.getElementById('selTaluka');
+      var selA = document.getElementById('selAc');
+      var go = document.getElementById('goBtn');
+      if (!btn || !panel) return;
+      var data = null, curD = null, curT = null;
+
+      function setOpen(open) {
+        panel.hidden = !open;
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        if (open) ensureData();
+      }
+      btn.addEventListener('click', function (e) { e.stopPropagation(); setOpen(panel.hidden); });
+      document.addEventListener('click', function (e) {
+        if (!panel.hidden && !panel.contains(e.target) && e.target !== btn) setOpen(false);
+      });
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape') setOpen(false); });
+
+      function opt(select, value, text) {
+        var o = document.createElement('option');
+        o.value = value; o.textContent = text;
+        select.appendChild(o);
+      }
+      function reset(select, placeholder) {
+        select.innerHTML = '';
+        opt(select, '', placeholder);
+        select.disabled = true;
+      }
+      async function ensureData() {
+        if (data) return;
+        try {
+          var r = await fetch('/hierarchy.json');
+          data = await r.json();
+          data.districts.forEach(function (d, i) { opt(selD, String(i), d.name); });
+        } catch (err) { /* offline: panel simply stays unusable */ }
+      }
+      function target() {
+        if (!curD) return null;
+        var a = selA.value !== '' ? JSON.parse(selA.value) : null;
+        if (a) return '/kshetra/' + a.slug;
+        if (curT) return '/taluka/' + curD.slug + '/' + curT.slug;
+        return '/jila/' + curD.slug;
+      }
+      function refreshGo() { go.disabled = !target(); }
+
+      selD.addEventListener('change', function () {
+        curD = data.districts[Number(selD.value)] || null;
+        curT = null;
+        reset(selT, 'Taluka chunein…');
+        reset(selA, 'Kshetra chunein…');
+        if (curD) {
+          if (curD.talukas.length) {
+            curD.talukas.forEach(function (t, i) { opt(selT, String(i), t.name + ' (' + t.acs.length + ')'); });
+            selT.disabled = false;
+            reset(selA, 'Pehle taluka chunein');
+          } else {
+            // Mumbai Shahar jaise jile: seedhe kshetra
+            opt(selT, '', '—');
+            curD.acs.forEach(function (a) { opt(selA, JSON.stringify(a), a.n + ' - ' + a.name); });
+            selA.disabled = false;
+          }
+        }
+        refreshGo();
+      });
+      selT.addEventListener('change', function () {
+        curT = curD.talukas[Number(selT.value)] || null;
+        reset(selA, 'Kshetra chunein…');
+        if (curT) {
+          curT.acs.forEach(function (a) { opt(selA, JSON.stringify(a), a.n + ' - ' + a.name); });
+          selA.disabled = false;
+        }
+        refreshGo();
+      });
+      selA.addEventListener('change', refreshGo);
+      go.addEventListener('click', function () {
+        var t = target();
+        if (t) window.location.href = t;
+      });
+    })();
+    </script>
   </body>
 </html>
