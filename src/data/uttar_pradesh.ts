@@ -3539,7 +3539,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=881',
       backgroundNote: '',
     },
-    electionNote: '2022 me Faridpur se jeete.',
+    electionNote: '2022 me Faridpur se jeete. 2 January 2026 ko unka nidhan ho gaya (PTI) — Faridpur seat rikt hai, upchunav hona baki hai.',
   },
   {
     slug: 'dr-raghavendra-sharma',
@@ -11688,7 +11688,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarpradesh2022/candidate.php?candidate_id=4936',
       backgroundNote: '',
     },
-    electionNote: '2024 ke upchunav me Duddhi se jeete.',
+    electionNote: '2024 ke upchunav me Duddhi se jeete. 8 January 2026 ko unka nidhan ho gaya (Indian Express/PTI) — Duddhi seat rikt hai, upchunav hona baki hai.',
   },
 ];
 
