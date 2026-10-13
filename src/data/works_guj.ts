@@ -2025,4 +2025,67 @@ export const gujWorks: Record<string, Work[]> = {
       note: 'VIVAAD (credible reporting): Mahisagar ke naye Godhar taluke me shaamil june Santrampur ke 46 gaon (vartaman me Morwa-Hadaf Vidhan Sabha me) ko Santrampur Vidhan Sabha me milane ka mantri Kuber Dindor ne ek karyakram me manch se bayaan diya, jiska 46 gaonon ke sarpanchon/agrevaanon ne virodh kiya. Unhone Mahisagar collector ko likhit rajuaat dekar sabhi gaonon ko Morwa (H) me hi rakhne ki maang ki. Mantri ka paksh article me darj nahi. (status: vivaad — sthaniya virodh, koi antim nirnay report nahi)',
     },
   ],
+
+  // ---- Aravalli district batch (researched 2026-10-13) ----
+  // Note: P.C. Baranda aur Bhikhusinhji Parmar dono MoS hain — sirf constituency-specific kaam liye gaye.
+  'dhavalsinh-narendrasinh-zala': [
+    {
+      title: 'Samras gram panchayaton ko MLA grant se ₹10-10 lakh — Rupnagar ko grant jaari',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'News18 Gujarati, 4-5 Jun 2025',
+      sourceUrl: 'https://gujarati.news18.com/news/gandhinagar/independent-mla-from-bayad-assembly-dhavalsinh-zala-gave-10-lakhs-from-his-grant-to-samaras-gram-panchayat-rb-ws-bl-2230850.html',
+      date: '2025-06-05',
+      note: 'Bayad-Malpur taluka ki jo gram panchayatein bina chunav ladhe samras (sarvasammat) banengi, unhe apni MLA grant se ₹10 lakh dene ki ghoshna (4 Jun); Rupnagar gram panchayat (Bayad taluka) ke samras banne par ₹10 lakh ki grant jaari karne ki prakriya poori ki (5 Jun). Sarpanch ne grant milne ki pushti ki. (status: ghoshna + grant manzoori/jaari)',
+    },
+  ],
+  'p-c-baranda': [
+    {
+      title: 'Vejpur gram panchayat me ₹7.58 crore ke vikas karyon ka khatmuhurat-lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Mar 2026 (est. — page par exact date nahi)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/aravalli/bhiloda/news/bhiloda-vejpur-gram-panchayat-inauguration-758-crore-works-pc-baranda-137372312.html',
+      date: '2026-03-01',
+      note: 'Bhiloda taluka ke Vejpur gram panchayat me ₹7.58 crore ke vikas karyon ka khatmuhurat aur lokarpan Baranda ke hast se. Gramya kshetron me sadak, paani, bijli jaise kaam tez karne ki baat kahi. (status: mixed — shilanyas + lokarpan)',
+    },
+  ],
+  'bhikhusinhji-chatursinhji-parmar': [
+    {
+      title: 'Dadhaliya gram panchayat ke naye bhavan ka khatmuhurat',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jul 2026 (est. — "3 mahino pehla")',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/aravalli/news/modasa-gram-panchayat-new-building-foundation-stone-laid-bikhusingh-parmar-137356666.html',
+      date: '2026-07-01',
+      note: 'Modasa taluka ke Dadhaliya gaon me gram panchayat ke naye bhavan ke nirman ka shastrokta vidhi se khatmuhurat — Parmar ke hast se. Sarpanch, upsarpanch, gaon ke agrevaan aur gramin maujood the. (status: shilanyas)',
+    },
+    {
+      title: 'Modasa me Sahyog bypass par nayi police chowki ka udghatan (Khalikpur)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Dec 2025 (est. — "10 mahino pehla")',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/aravalli/news/modasa-new-police-chowki-inauguration-135991424.html',
+      date: '2025-12-01',
+      note: 'Modasa shehar me Mumbai-Udaipur-Delhi highway par suraksha ke liye Sahyog bypass ke paas Khalikpur gaon me nayi police chowki ka udghatan Parmar ke hast se. Highway par apradh rokne aur durghatna me turant madad ka uddeshya. (status: udghatan)',
+    },
+    {
+      title: "'Maru Gaam Maro Parivar' abhiyan — har hafte ek gaon ka daura, gaon me hi samasya-samadhan",
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Nov 2025 (est. — "11 mahino pehla")',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/aravalli/news/minister-bhikhusinh-parmars-unique-resolution-on-his-birthday-135146210.html',
+      date: '2025-11-01',
+      note: 'Janmadin par Shamlaji darshan ke baad Gazan gaon se naye abhiyan ki shuruaat: har hafte ek gaon ki mulakat, gaon ke padar me baithkar logon ki samasyayein sunna aur vikas-sambandhi prashnon ka gaon me hi samadhan — taaki graminon ko Gandhinagar na jana pade. (status: pehal/ghoshna — abhiyan ki shuruaat)',
+    },
+    {
+      title: 'Meshwo dam tak pakki sadak aur Aravalli jile me university ki maang',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'LatestLY (ANI), 20 Apr 2025',
+      sourceUrl: 'https://www.latestly.com/agency-news/india-news-government-aims-to-build-sub-district-hospitals-to-offer-healthcare-services-to-people-in-remote-and-distant-villages-chief-minister-bhupendra-patel-6796202.html',
+      date: '2025-04-20',
+      note: 'Aravalli jile me CM ke ₹282 crore ke projects karyakram me MoS Parmar ne Meshwo dam tak pakki sadak aur jile me university ki maang rakhi; CM ne university par "due consideration" ka ashwasan diya. (status: maang/demand — sarkari faisla nahi)',
+    },
+  ],
 };
