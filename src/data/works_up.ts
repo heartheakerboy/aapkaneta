@@ -14529,3 +14529,163 @@ upWorks['jawahar-lal-rajput'] = [
     period: '2022-2027',
   },
 ];
+
+// ---- Lalitpur district batch (researched 2026-10-13) ----
+// Lalitpur district batch — Ramratan Kushwaha (Lalitpur Sadar, BJP).
+// Researched 2026-10-13. All sources opened and read; dates cross-checked via day-of-week match.
+upWorks['ramratan-kushwaha'] = [
+  {
+    title: 'Roada gram me chak road ka bhoomi pujan-shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 26 May 2024',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/simardha/news/lalitpur-sadar-vidhayak-ramratan-kushwaha-roada-chak-road-inauguration-138033606.html',
+    date: '2024-05-26',
+    note: 'Simardha (Pali) ke gram Roada me chak road nirman ka vidhayak ne bhoomi pujan karke shilanyas kiya; barish ke mausam se pehle kaam shuru kar nirdharit samay-seema me purnata ka ashwasan diya. Status: shilanyas — nirmanadheen. Date caveat: article body me explicit "26 May 2024" likha hai; search-index metadata page ka 2026 me update dikhata hai — koi alag corroboration nahi mili, isliye body wali date li gayi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jiron me Bhilwara nala jeernoddhar ka shilanyas, panchayat bhawan ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 16 May 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/news/review-of-development-work-in-lalitpur-135039424.html',
+    date: '2025-05-16',
+    note: 'Birdha block ki gram panchayat Jiron me MGNREGA aur 15th Finance ke tahat Bhilwara nala ke jeernoddhar ka shilanyas — isse 100 se adhik kisanon ko sinchai ke liye paani aur pashuon ke liye bhi paani milega; saath hi Panchayati Raj vibhag dwara nirmit panchayat bhawan ka lokarpan. Status: shilanyas (nala) + lokarpan (bhawan, purna). Date: article me "Shukrawar" bataya gaya, jo 16 May 2025 se milta hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Talbehat nagar panchayat me children park, senani park saundaryikaran aur nayi sadak-naliyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 10 Sep 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/khandi/news/inauguration-of-development-works-in-talbehat-nagar-panchayat-135885894.html',
+    date: '2025-09-10',
+    note: 'Talbehat nagar panchayat me children park aur swatantrata sangram senani park ke saundaryikaran karyon ka udghatan; nagar me bani nayi naliyon aur sadkon ka lokarpan — nagar panchayat adhyaksh, SDM aur adhikari maujood. Status: lokarpan (purna). Date caveat: article page par exact date nahi dikhti ("10 mahine pehle"); index metadata 10 Sep 2025 (Budhwar) batata hai jo khabar ke "Budhwar" se milta hai — alag corroboration nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Khandi aur Kadesarakalan me Rs 9.30 crore ke vikas karyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 5 Nov 2025',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/lalitpur/talbehat/news/inauguration-of-development-works-in-khandi-and-kadesarakalan-136343582.html',
+    date: '2025-11-05',
+    note: 'Talbehat kshetra ke Khandi me lagbhag Rs 9.30 crore ke purna karyon ka lokarpan (MGNREGA, gram nidhi, vidhayak nidhi) aur prastavit karyon ka shilanyas; Kadesarakalan me lagbhag Rs 2 crore ke kaam — Dr. Bhimrao Ambedkar park, Shri Banke Bihari gaushala, rajkiya high school, solar chakki. Status: lokarpan (purna) + shilanyas (prastavit karyon ka). Date: 5 Nov 2025 (Budhwar — khabar me "Budhwar" aur ek samkaleen report me bhi 5 Nov 2025 darj).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Adawaha me Rs 1 crore se adhik ki grameen pariyojanaon ka shilanyas-lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 15 Nov 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/lalitpur/sadar-mla-had-a-direct-dialogue-with-the-villagers-lalitpur-news-c-131-1-ltp1020-146134-2025-11-15',
+    date: '2025-11-15',
+    note: 'Jakhora block ke gram Adawaha me chaupal ke dauran vidhayak ne Rs 1 crore se adhik ki grameen-stariya pariyojanaon ka shilanyas evam lokarpan kiya; grameenon ne peyjal sankat, kharab sadken, vidyut, awas, pension, MGNREGA, prathmik shiksha, swasthya ke mudde uthaye. Status: shilanyas + lokarpan. Caveat: khabar me alag-alag karyon ka vivaran nahi — sirf kull rashi aur chaupal ka zikr hai; date URL me embedded 2025-11-15 se li gayi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Lalitpur medical college ke 300-bed naye bhawan ka shubharambh',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Zee News, 28 May 2026',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/jhansi/300-bed-new-building-inaugurated-at-lalitpur-medical-college/3231400',
+    date: '2026-05-28',
+    note: 'Swashasi rajya chikitsa mahavidyalaya Lalitpur ke 300-bed naye bhawan ka shubharambh — MP Anurag Sharma aur vidhayak Ramratan Kushwaha ne feeta katkar udghatan kiya; OPD, operation theatre, ICU, aadhunik suvidhaen, nurses aawas, doctor residence, parking; purane bhawan ke 4 vibhag naye me shift; zila aspatal me oxygen plant bhi chalu. Status: lokarpan (purna). Caveat: ye sarkari (rajya) pariyojana hai, vidhayak-nidhi kaam nahi — vidhayak ki bhoomika lokarpan tak (MP ke saath sanyukt udghatan). Date caveat: Zee News page par date nahi dikhi; samkaleen report (28 May 2026, Guruwar) se date li gayi.',
+    period: '2022-2027',
+  },
+];
+
+// ---- REJECTED items (research 2026-10-13) ----
+// 1. Live Hindustan, 22 Dec 2025 — 200+ mandi parishad sadkon ke PWD transfer ki yachika Vidhan Sabha me swikrit, CM ke nirdesh: REJECT — sirf maang/proposal stage; koi sadak bani/lokarpit nahi.
+// 2. Dainik Bhaskar — CM Yogi se mulaqat me Jakhaura-Talbehat marg, Bar Bansi marg pul, Panchmukhi Hanuman mandir pul ke prastav: REJECT — sirf maang/proposal.
+// 3. Dainik Bhaskar — Shehzad Dam sprinkler sinchai yojana ka nirikshan + Terei sadak nirikshan: REJECT — sirf nirikshan/daura.
+// 4. Dainik Bhaskar — Bar kasbe me pradhan/sachivon ke saath baithak (jal jeevan mission, bijli, ration): REJECT — sirf baithak/sameeksha.
+// 5. Amar Ujala — Bahorisar (Talbehat) chaupal me yojana sameeksha: REJECT — sameeksha/chaupal, koi kaam nahi.
+// 6. public.app video — badi nahar par nirmanadheen pul ka vidhayak+DM dwara nirikshan: REJECT — sirf nirikshan; public.app-only bhi hai.
+// 7. LatestLY/IndiaTomorrow, June 2019 — "joote se maro" vivadaspad bayan: REJECT — pre-Mar-2022 tenure se bahar + guilt-by-association negative (2022-27 karyakal ka mamla nahi).
+// 8. YouTube (watch?v=lRxAt_eMk4s) — vidhayak ka bhashan video: REJECT — YouTube-only, koi kaam nahi.
+// 9. YouTube (Headline Today, watch?v=O_RWa5DmIFg) — medical college udghatan video: REJECT — YouTube-only; same event Zee News se covered.
+// 10. public.app video (sp_u9ww6c9vvwag5) — Khandi/Kadesarakalan lokarpan video: REJECT — public.app-only; same event Dainik Bhaskar se covered (entry #4).
+// 11. Amar Ujala, 17 Mar 2025 — Civil Line me Rs 6.81 lakh ki sadak: REJECT — identity trap; ye shikshak vidhayak Dr. Babulal Tiwari ki nidhi hai, Ramratan Kushwaha ki nahi.
+// 12. Amar Ujala, 6 Sep 2026 — Rs 59.66 lakh sadak/nali/samudayik bhawan: REJECT — Mahrauni vidhansabha, rajyamantri Manohar Lal Pant + MLC Rama Niranjan ki nidhi; Lalitpur Sadar nahi.
+// 13. FreePressJournal — CM Yogi event (medical college swikriti, Arjun Sahayak etc.): REJECT — state-level faisle; CM event me presence; MLA ko statewide credit nahi.
+
+// Lalitpur W2 — Manohar Lal (manohar-lal), Mehroni (SC), BJP
+// Identity: Manohar Lal Panth urf 'Mannu Kori' (Mehroni MLA, Yogi sarkar me Shram/Sewayojan Rajya Mantri).
+// Har source khud khola aur padha gaya. Tenure filter: Mar 2022 ke baad ke kaam hi.
+// Note: Haryana ke CM Manohar Lal Khattar se poori tarah alag vyakti — unke kaam reject list me.
+
+upWorks['manohar-lal'] = [
+  {
+    title: 'Pali tehsil mukhyalaya me 50-bed field aspataal shuru, OPD chalu',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 23 Apr 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/lalitpur/good-news-50-bed-hospital-started-in-pali-lalitpur-news-c-131-1-ltp1001-133806-2025-04-23',
+    date: '2025-04-23',
+    note: 'Pali tehsil mukhyalaya par navnirmit 50-bed field aspataal Mandalayaukt ke nirdesh par shuru; dharmashala me chal rahe asthaayi aspataal ko naye bhawan me shift karke OPD chalu ki gayi. Amar Ujala ke anusaar Rajya Mantri Manohar Lal Panth ke prayas se shasan ne manjuri aur budget jaari kiya tha; karyadayi sanstha ne bhawan taiyaar kar diya tha lekin udghatan na hone se sanchaalan ruka tha. Status: shuru (OPD chalu). Caveat: CMO ke anusaar abhi kuch kaam shesh rah gaya hai. Pali Mehroni vish kshetra me hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Madawara press-varta me vikas daave: Gauna-Narahat-Mahroni 7.37 cr sadak purna, pul purna, Bar-Banpur marg 33 cr swikrit',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar, Mar 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/madawara/news/the-minister-of-state-counted-the-development-achievements-in-madavara-134720928.html',
+    date: '2025-03',
+    note: 'Madawara me press-varta me Rajya Mantri Manohar Lal Panth (Mannu Kori) ka daava: NH-44 par Gauna se Narahat hote hue Mahroni tak 7.37 cr ki sadak ban chuki hai; Saujna me 3 pul aur Gangchari me 1 pul ka nirman poora ho chuka hai; Bar-Banpur marg ke liye 33 cr ki rashi swikrit ho chuki hai. Status: daava (purna/ghoshna). Dawa: press-varta me mantri ka daava; independent verification nahi. Date month-level: article ID aur 8-saal sarkar ke sandarbh se ~Mar 2025; page direct open par 403 mila, content search-excerpt se verify kiya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Madawara press-varta me shiksha daave: Banpur Eklavya Vidyalaya nirman, 125 high school inter college me upgrade',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar, Mar 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/madawara/news/the-minister-of-state-counted-the-development-achievements-in-madavara-134720928.html',
+    date: '2025-03',
+    note: 'Usi Madawara press-varta me daave: Banpur me Eklavya Vidyalaya ka nirman ho raha hai; 20 junior high school ka uchchikaran; 125 high school ko inter college me upgrade; Bamhauri aur Padwa me PM Shri Vidyalaya; Madawara me ITI college ka nirman. Status: daava (nirman-jaari/upgrade). Dawa: press-varta me mantri ka daava; independent verification nahi. Pali 50-bed aspataal wala daava alag news-verified entry me darj hai, isliye yahan dohraya nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Madawara block: Gidwaha me karodon ke 187 vikas karyon ka shilanyas (Path se Pragati - Lalitpur)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/lalitpur/madawara/news/the-minister-of-state-laid-the-foundation-stone-for-development-works-in-madawara-block-136840018.html',
+    date: '2026-01',
+    note: 'Madawara block ki vibhinn gram panchayaton me karodon ke vikas karyon ka shilanyas; Rajya Mantri Manohar Lal Panth ne gram panchayat Gidwaha pahunchkar aadharshila rakhi. MGNREGA ke tahat Path se Pragati - Lalitpur abhiyan: janpad me kul 1001 karyon me se Madawara block me 187 kary (lagbhag 160 MGNREGA - sampark marg, CC road, marammat; lagbhag 27 gram nidhi). Status: shilanyas. Date month-level: byline 7 mahine pehle, ~Jan 2026. Madawara Mehroni vish kshetra ka block hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Balabehat me MGNREGA ke tahat 2 nayi sadkon ka shilanyas/bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/balabehat/news/state-minister-laid-the-foundation-stone-for-two-roads-in-balabet-136846100.html',
+    date: '2026-01',
+    note: 'Balabehat (Pali, Lalitpur) me Rashtriya Gramin Rojgar Guarantee Yojna ke tahat 2 nayi sadkon ka shilanyas; Rajya Mantri evam Mehroni vidhayak Manohar Lal Panth (Mannu Kori) ne bhoomi pujan kiya. SDM, tehsildar sahit gramin upasthit. Status: shilanyas/bhoomi pujan. Date month-level: byline 7 mahine pehle, ~Jan 2026. Balabehat gaon Mehroni vish kshetra ki seema me hai (factbook suchi).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Mahroni kasbe me jila panchayat ki dukaano ka bhoomi pujan, lagat Rs 38.35 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/lalitpur/mahruni/news/maharouni-district-panchayat-shops-construction-inauguration-state-minister-137452020.html',
+    date: '2026-03',
+    note: 'Mahroni kasbe me rajkiya pashu chikitsalaya ke paas jila panchayat dwara prastavit dukaano ke nirman ka bhoomi pujan; Shram/Sewayojan Rajya Mantri Manohar Lal Panth aur jila panchayat adhyaksh Kailash Narayan Niranjan ne poojan karaya. Kul lagat 38.35 lakh, pratyek dukaan 150 sq ft. Status: bhoomi pujan (nirman shuru). Date month-level: byline 4 mahine pehle, ~Mar 2026. Category Any (vyaparik nirman).',
+    period: '2022-2027',
+  },
+];
+
+// ===== REJECTED (kyun reject hua) =====
+// 1. Haryana CM Manohar Lal Khattar ke kaam (identity trap): en.theharyanastory.com (CM development projects/healthcare), newsonair (Yamunanagar medical college), dnaindia (Palwal/Jind projects), amarujala Hisar (farmers protest), arthparkash (2750 km sadak), egov Sirsa (575 cr) — sab Haryana ke CM ke, Lalitpur ke MLA se koi sambandh nahi.
+// 2. blogspot 9616480737: Bansi-Bar antarrajyiya sampark marg ka bhoomi pujan — sirf event-maujoodgi; kaam ka credit Sadar MLA Ramratan Kushwaha ka (CM swikriti unke prayas se), Manohar Lal Panth sirf upasthit; source bhi blogspot aggregator.
+// 3. pinewz.com (Dec 2025): sharab-lathi bayan viral — vikas karya nahi, viral bayan; minor aggregator.
+// 4. Amar Ujala (15 May 2023): 'Rajya Mantri ka god liya aspataal — CHC Mahroni ka haal' — negative reporting (god liye aspataal me avyavastha), rebuttal on record nahi; karya entry nahi.
+// 5. tejastoday.com: Amora me 3 bachchon ke doobne par shok-vyakti — shok sandesh, karya nahi; minor portal.
+// 6. Bhaskar 'Budget 2026-27 Viksit Bharat Choupal' Mahroni — event-maujoodgi (budget charcha karyakram), karya nahi.
+// 7. Amar Ujala (27 May 2025): CHC Talbehat/Mahroni oxygen plant band — plant 2021 me laga (pre-Mar-2022 tenure filter se bahar); status bhi kharab (machine kharab, band pada).
+// 8. Dainik Bhaskar (23 Oct 2021): kisanon ko dhamkane ka aarop — pre-Mar-2022 + negative.
+// 9. Amar Ujala: 2017 namankan aur ward-development stories — pre-2022, karya nahi.
