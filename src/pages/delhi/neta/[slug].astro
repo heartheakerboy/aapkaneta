@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { delhiNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return delhiNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = delhiNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/delhi" stateName="Delhi" homeLabel="Delhi home" />

@@ -12,45 +12,52 @@ import { rajRsNetas, rajRsConstituencies } from './rajasthan_rs';
 import { upNetas, upConstituencies } from './uttar_pradesh';
 import { upMpNetas, upMpConstituencies } from './up_mp';
 import { upRsNetas, upRsConstituencies } from './up_rs';
+import { delhiNetas, delhiConstituencies } from './delhi';
+import { delhiMpNetas, delhiMpConstituencies } from './delhi_mp';
+import { delhiRsNetas, delhiRsConstituencies } from './delhi_rs';
 import { mhaWorks } from './works_mha';
 import { gujWorks } from './works_guj';
 import { rajWorks } from './works_raj';
 import { upWorks } from './works_up';
+import { delhiWorks } from './works_delhi';
 import { prevMha } from './prev_mha';
 import { prevGuj } from './prev_guj';
 import { prevRaj } from './prev_raj';
+import { prevUp } from './prev_up';
 import type { Neta, Constituency } from './pilot';
 
-export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas, ...upNetas, ...upMpNetas, ...upRsNetas];
-export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies, ...rsConstituencies, ...gujConstituencies, ...gujMpConstituencies, ...gujRsConstituencies, ...rajConstituencies, ...rajMpConstituencies, ...rajRsConstituencies, ...upConstituencies, ...upMpConstituencies, ...upRsConstituencies];
+export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas, ...upNetas, ...upMpNetas, ...upRsNetas, ...delhiNetas, ...delhiMpNetas, ...delhiRsNetas];
+export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies, ...rsConstituencies, ...gujConstituencies, ...gujMpConstituencies, ...gujRsConstituencies, ...rajConstituencies, ...rajMpConstituencies, ...rajRsConstituencies, ...upConstituencies, ...upMpConstituencies, ...upRsConstituencies, ...delhiConstituencies, ...delhiMpConstituencies, ...delhiRsConstituencies];
 
 // Overlay verified work entries (district batches) onto generated profiles
 for (const n of allNetas) {
-  const w = (n.state === 'Uttar Pradesh' ? upWorks : n.state === 'Rajasthan' ? rajWorks : n.state === 'Gujarat' ? gujWorks : mhaWorks)[n.slug];
+  const w = (n.state === 'Delhi' ? delhiWorks : n.state === 'Uttar Pradesh' ? upWorks : n.state === 'Rajasthan' ? rajWorks : n.state === 'Gujarat' ? gujWorks : mhaWorks)[n.slug];
   if (w && w.length) n.works = [...n.works, ...w];
 }
 
-// Overlay previous-election affidavit comparison data (Rajasthan 2018 vs 2023)
-// UP comparison pending — leave null for now
+// Overlay previous-election affidavit comparison data (2017 vs 2022 for UP)
 for (const n of allNetas) {
-  n.prevAffidavit = ((n.state === 'Uttar Pradesh' ? null : n.state === 'Rajasthan' ? prevRaj : (n.state === 'Gujarat' ? prevGuj : prevMha)) ?? {})[n.slug] ?? null;
+  n.prevAffidavit = ((n.state === 'Delhi' ? null : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : (n.state === 'Gujarat' ? prevGuj : prevMha)) ?? {})[n.slug] ?? null;
 }
 
 // State helpers
 export const isGujarat = (n: Neta | Constituency): boolean => (n as Neta).state === 'Gujarat';
 export const isRajasthan = (n: Neta | Constituency): boolean => (n as Neta).state === 'Rajasthan';
 export const isUttarPradesh = (n: Neta | Constituency): boolean => (n as Neta).state === 'Uttar Pradesh';
-export const mhaNetasAll: Neta[] = allNetas.filter(n => !isGujarat(n) && !isRajasthan(n) && !isUttarPradesh(n));
+export const isDelhi = (n: Neta | Constituency): boolean => (n as Neta).state === 'Delhi';
+export const mhaNetasAll: Neta[] = allNetas.filter(n => !isGujarat(n) && !isRajasthan(n) && !isUttarPradesh(n) && !isDelhi(n));
 export const gujNetasAll: Neta[] = allNetas.filter(isGujarat);
 export const rajNetasAll: Neta[] = allNetas.filter(isRajasthan);
 export const upNetasAll: Neta[] = allNetas.filter(isUttarPradesh);
-export const mhaConstsAll: Constituency[] = allConstituencies.filter(c => !isGujarat(c) && !isRajasthan(c) && !isUttarPradesh(c));
+export const delhiNetasAll: Neta[] = allNetas.filter(isDelhi);
+export const mhaConstsAll: Constituency[] = allConstituencies.filter(c => !isGujarat(c) && !isRajasthan(c) && !isUttarPradesh(c) && !isDelhi(c));
 export const gujConstsAll: Constituency[] = allConstituencies.filter(isGujarat);
 export const rajConstsAll: Constituency[] = allConstituencies.filter(isRajasthan);
 export const upConstsAll: Constituency[] = allConstituencies.filter(isUttarPradesh);
+export const delhiConstsAll: Constituency[] = allConstituencies.filter(isDelhi);
 
 export function statePrefix(n: Neta | Constituency): string {
-  return isUttarPradesh(n) ? '/uttar-pradesh' : isRajasthan(n) ? '/rajasthan' : isGujarat(n) ? '/gujarat' : '';
+  return isDelhi(n) ? '/delhi' : isUttarPradesh(n) ? '/uttar-pradesh' : isRajasthan(n) ? '/rajasthan' : isGujarat(n) ? '/gujarat' : '';
 }
 
 export function netaUrl(n: Neta): string {
