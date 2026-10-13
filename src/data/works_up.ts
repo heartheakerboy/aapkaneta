@@ -8469,4 +8469,203 @@ export const upWorks: Record<string, Work[]> = {
   },
 ],
 
+
+  // ---- Pratapgarh district batch (researched 2026-10-13) ----
+
+  // === 'aradhana-mishra-mona' — Aradhana Mishra 'Mona', Rampur Khas (244), INC ===
+  // Research trail (~9 searches, Hindi + English + news vertical):
+  // - Ekmatra works article: The News Agency (TNA), 25 Nov 2021 — Naudhiya me
+  //   link road ka udghatan + group water-supply scheme ka shilanyas. Article
+  //   padha gaya, lekin tenure cutoff (March 2022) se PEHLE ka hai → REJECT.
+  //   URL: https://www.thenewsagency.in/uttar-pradesh/aradhana-mishra-mona-hits-the-road-unveils-infra-projects-in-rampur-khas
+  // - Baaki saari coverage sirf raajneetik hai: 2022 election jeet, CLP leader
+  //   (2019-2026), Sep 2021 Gareeb Kalyan Mela jhadap/FIRs (pre-tenure), aur
+  //   2 Oct 2026 UP Congress president appointment — koi vikas karya nahi.
+  // - TOI Feb 2022 election piece me kanyadaan/c-section phone-call anecdotes
+  //   hain — vyaktigat madad ki kahaniyan, verifiable development works nahi
+  //   → weak attribution, REJECT.
+  // - Vidhan sabha official site / aradhanamisra.com se koi verifiable works
+  //   list nahi mili (site ka direct fetch browser me resolve nahi hua).
+  // NISHKARSH: tenure window me koi qualified works coverage nahi → array khaali.
+  'aradhana-mishra-mona': [
+  ],
+  // === 'vinod-kumar-up' — Vinod Kumar, Babaganj (245, SC), Jansatta Dal (Loktantrik) ===
+  // Research trail (~8 searches, Hindi + English + news vertical):
+  // - Identity verify: myneta.info — Vinod Kumar, Jansatta Dal Loktantrik,
+  //   Babaganj (SC), s/o Ram Nath, age 43 — 2022 winner (67,282 votes).
+  //   2022 me isi seat par ek NAMSAKE "Vinod Kumar (Independent)" bhi lada tha
+  //   (1,050 votes) — identity trap confirm, uske kaam jodne se bacha gaya.
+  //   URL: http://www.myneta.info/uttarpradesh2022/candidate.php?candidate_id=3052
+  // - Coverage sirf election results tak seemit hai (2012/2017 IND jeet,
+  //   2022 JSD(L) jeet). Koi shilanyas/udghatan/nidhi/sadak/paani/school/
+  //   hospital/yojana article 2022-2026 me nahi mila.
+  // - Ekmatra gair-election mention: veblr result — Satish Mahana ke Speaker
+  //   chunaav me samarthan (Raja Bhaiya ke saath) — raajneetik, works nahi.
+  // - Hindi district portals (Jagran/Hindustan/Bhaskar/ETV Bharat angles),
+  //   nidhi-vocabulary (interlocking/kharanja/nali) sab try kiye — kuch nahi.
+  // NISHKARSH: koi qualified works coverage nahi → array khaali.
+  'vinod-kumar-up': [
+  ],
+  'raghuraj-pratap-singh': [
+    {
+      title: 'Hiraaganj-Kamasin Rajbah marg widening ka shilanyas: 20 km sadak, lagbhag Rs 25 crore',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Patrika',
+      sourceUrl: 'https://www.patrika.com/pratapgarh-up-news/raja-bhaiya-lays-foundation-stone-for-20-km-road-project-in-kunda-boost-to-rural-connectivity-20388858',
+      date: '2026-02',
+      note: 'Raja Bhaiya ne swayam bhoomi-poojan karke shilanyas kiya; event Feb 2026 (exact date confirm nahi, article me sirf Friday likha). Status: foundation stone, kaam us waqt shuru nahi hua tha. Background: isi marg ke liye 27 Nov 2025 ko Rs 19.70 crore ka budget swikrit hua tha (livehindustan, 18.2 km, Babaganj MLA Vinod Saroj ke prastaav + Raja Bhaiya ke prayason se) aur April 2026 me kaam shuru hone ki khabar bhi aayi (Bhaskar, Rs 24.29 crore).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Babaganj me 18 km nehar-patri sadak chaudi karan-uchchikaran ka lokarpan: lagbhag Rs 25 crore',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Bhaskar',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/bihar/news/raja-bhaiya-inaugurates-canal-track-road-widening-uttar-pradesh-137314570.html',
+      date: '2026-05',
+      note: 'Raja Bhaiya ne swayam Heeraaganj bazaar ke Naya Purva nehar pul ke paas lokarpan kiya; date lagbhag May 2026 (article me 5 mahine pehle). Note: headline lokarpan kahta hai lekin article ke mutabiq yeh Hiraaganj-Kamasin Rajbah corridor ka hi stretch hai aur nirman kaam poorn hone ke baad labh milega, yaani lokarpan pariyojana-shuruaat ka tha, samapan ka nahi. Pichli entry (Feb 2026 shilanyas) se alag event hai, corridor wahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Mavai kala-Itoura-Dulwamai (Ahirana) sampark marg ka shilanyas: 2 km, Rs 1.20 crore',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Bhaskar',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/kunda/news/raja-bhaiya-gopal-bhaiya-construction-maiwakala-itoura-road-inauguration-137669440.html',
+      date: '2026-07',
+      note: 'Shilanyas date lagbhag July 2026 (article me 3 mahine pehle). FY 2025-26 me swikriti Raja Bhaiya aur MLC Akshay Pratap Singh ke vishesh prayason se mili; PWD se nirman, thekedaar ne kaam shuru karaya. Status: shilanyas/kaam-shuruaat, samapan report nahi mili.',
+      period: '2022-2027',
+    },
+  ],
+
+  'jeet-lal': [
+    {
+      title: 'Sai nadi par Khajuri-Ladhwat ghat pul (lagbhag Rs 18 crore) ka bhoomi pujan-shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (approx — page par exact date nahi, "2 mahine pehle" tha)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/lalganj/news/pratapgarh-sai-river-bridge-inauguration-mla-jeetlal-patel-137910787.html',
+      date: '2026-05',
+      note: 'Vishwanathganj kshetra me Sai nadi par Khajuri-Ladhwat ghat par lagbhag Rs 18 crore ki lagat se banne wale pul ka bhoomi pujan Vidhayak Jeet Lal Patel ne kiya; Setu Nigam Sultanpur ke adhikari (pariyojana prabandhak Prashant Singh aadi) maujood the. Vidhayak ke daave ke anusaar pul pehle doosri jagah swikrit hua tha, unhone Vidhan Sabha me mudda uthaya aur shasan ko patra likha, tab Ladhwat ghat par swikriti mili (yeh credit unka daava hai, swatantra pushti nahi). Vidhayak ke anusaar 30-40 gaon ko seedha labh, 1 ghante ka safar 5 minute me. Vidhayak ne Baniyanar Sai nadi ghat par bhavishya me pul ki GHOSHNA bhi ki (sirf ghoshnit, kaam shuru nahi). (status: shilanyas/bhoomi pujan — nirman shuru, poorn nahi)',
+      period: '2022-2027',
+    },
+  ],
+  'rajendra-kumar': [
+    {
+      title: 'Chaura-Gadwara 1 km sadak ke nirman karya ka shubharambh',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 25 Feb 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/pratapgarh-kunda/story-road-construction-inaugurated-by-mla-rajendra-maurya-in-gadvra-market-201772028131246.html',
+      date: '2026-02-25',
+      note: 'Nagar Panchayat Gadwara ke Chaura ward se Gadwara bazaar tak aane wali 1 km sadak ke nirman karya ka shubharambh Sadar Vidhayak Rajendra Maurya ne poojan-nariyal fodkar kiya. BJP Antu mandal adhyaksh Rajaram Vaishya ke prastav par vidhayak ne sadak ko zila panchayat se PWD me badalwaya tha. (status: nirman karya ka shubharambh — kaam shuru, poorn nahi)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Jafarpur me Pariya nala par Rs 4.82 crore ke pul ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 01 Jul 2026',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/pratapgarh-pratapgarh-mla-lays-foundation-for-482-cr-jafrabad-bridge-40291270.html',
+      date: '2026-07-01',
+      note: 'Sadar Vidhan Sabha ke Jafarpur (URL slug me "jafrabad" likha hai, article body me Jafarpur) me Pariya nala par Rs 4.82 crore ki lagat se banne wale pul ka bhoomi pujan-shilanyas Sadar Vidhayak Rajendra Kumar Maurya ne kiya. Nirman Lok Nirman Vibhag prantiya khand karega; vidhayak ke anusaar lagbhag 2 dozen gaon ke logon ko barsat me chakkar lagana padta tha, 5 mahine me samasya khatm hone ka daava (daava, pushti nahi). (status: shilanyas — nirman shuru, poorn nahi)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Dangri-Bhadousi 900 meter sadak (Rs 30 lakh) ka bhoomi pujan-udghatan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (approx — page par exact date nahi, "4 mahine pehle" tha; event guruvar ko)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/sandwachandika/news/pratapgarh-900m-road-30lakh-approved-dangri-bhadousi-construction-start-137596079.html',
+      date: '2026-03',
+      note: 'Nagar Panchayat Gadwara bazaar me Dangri Shiv Mandir se Bhadousi tak 900 meter lambi sadak ke nirman ka shubharambh Sadar Vidhayak Rajendra Maurya ne bhoomi pujan karke kiya. Lagat Rs 30 lakh; jalbharav wali jagah RCC road banegi. BJP Antu mandal adhyaksh Rajaram Vaishya ke prastav par vidhayak ne sadak ko Grameen Abhiyantran Seva (RES) se PWD me sthanantarit karwaya tha. (status: nirman shubharambh — kaam shuru, poorn nahi)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Jal Arpan yojana ka shubharambh — Rampur Gauri me peyjal yojana ka jal arpan',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 09 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/pratapgarh-kunda/story-water-supply-scheme-launched-in-pratapgarh-to-ensure-clean-drinking-water-201773068692961.html',
+      date: '2026-03-09',
+      note: 'Shasan ki Jal Arpan yojana ki shuruaat Sadar Vidhayak Rajendra Kumar Maurya ne Sadar block ki gram panchayat Rampur Gauri se ki; peyjal yojana ke tehat jalapurti vyavastha ka prateekatmak jal arpan karke gram pradhan ko saunpa. Bacchon ne jal sanrakshan ke liye prabhat pheri nikali. (status: yojana ka shubharambh — prateekatmak hastantaran; yojana shasan ki hai)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Raja Pratap Bahadur Chikitsalay (medical college) me IPHL lab ka udghatan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, Jun 2026 (approx — page par exact date nahi; event shukravar ko)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/pratapgarh-kunda/story-rajendra-maurya-inaugurates-new-integrated-public-health-lab-at-medical-college-in-pratapgarh-201781888237410.html',
+      date: '2026-06',
+      note: 'Medical college ke Raja Pratap Bahadur Chikitsalay me Integrated Public Health Lab (IPHL) ka udghatan Sadar Vidhayak Rajendra Maurya ne kiya. Lab ke shuru hone se CHC-PHC ke marij bhi ve jaanchen kara sakenge jo unke yahan nahi hoti thin; principal Dr. Somnath ke anusaar chikitsa chhatron/shodhkartaon ko public health research me labh. (status: udghatan — taiyaar facility ka lokarpan)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Hanuman Mandir (Chilbila) bhoomi dhokhadhadi case — MP-MLA court me aarop virachan ke liye talab (NEGATIVE)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amrit Vichar, Mar 2025 (approx — page par exact date nahi)',
+      sourceUrl: 'https://www.amritvichar.com/article/528732/sadar-mlas-were-summoned-strict-in-case-of-pratapgarh-fraud',
+      date: '2025-03',
+      note: 'AAROP: Kotwali Nagar ke Chilbila sthit Hanuman Mandir ki bhoomi ko 2012 aur 2013 me numaishi ikrarnama karke hathiyane ka aarop; mandir padadhikari ki shikayat par rajaswa-police ki sanyukt jaanch ke baad FIR, vivechna ke baad nyayalaya me aarop patra (yeh myneta affidavit ke 2 criminal cases — IPC 420/467/468/506-type — se mel khata hai). STATUS: MP-MLA court ne 13 Feb 2025 ko 2 mukdamon me aarop virachan ke liye talab kiya; 3 Feb 2025 ko discharge arzi khariz; sessions court me criminal revision (2 May 2025 sunvai nirdharit); 29 March ko peshi ka aadesh. VIDHAYAK KA PAKSH (doosri local report ke anusaar): prakaran me sanliptata rajnaitik karanon se chhavi kharab karne ke uddeshya se jodi gayi, discharge ki maang; shasan se mukadma vapsi ka prayas asafal. Koi doshsiddhi (conviction) nahi — mamla aarop/vicharadheen stage par hai.',
+      period: '2022-2027',
+    },
+  ],
+  'ram-singh': [
+    {
+      title: 'Dhakwa me MLA nidhi se 1 km PWD sadak ka navinikaran',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/pratapgarh-kunda/story-residents-halt-road-construction-in-dhakva-over-poor-standards-201762622558442.html',
+      date: '2025-11-08',
+      note: 'Aspur Devsara, Nagar Panchayat Dhakwa ward 14 me Nima nahar se Harijan basti tak purani (BSP shasan kal ki) sadak ka navinikaran MLA nidhi se ho raha tha. Grameenon ne 8 Nov 2025 ko manakvihin nirman ka aarop lagakar kaam rukwa diya. MLA Ram Singh Patel ne adhikariyon ko sakht nirdesh diye ki kaam manak anusar ho. Work ongoing thi, completion confirm nahi.',
+      period: '2022-2027',
+    },
+  ],
+  'rakesh-kumar-verma-alias-dr-r-k-verma': [
+    {
+      title: 'Pathatiya Kalan me Ambedkar gate aur boundary wall ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/pathatiyakala/news/rani-ganganj-mla-inaugurates-ambedkar-gate-boundary-wall-137444155.html',
+      date: '2026-03',
+      note: 'Vikas khand Gaura ke Pathatiya Kalan gram sabha me Bhimrao Ambedkar gate aur boundary wall ka MLA Dr. R.K. Verma ne phita kaatkar lokarpan kiya. Date approx: article me relative stamp "5 mahine pehle" (crawl ~Aug 2026 ke samay). Funding source article me specify nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Raniganj me sadak, street light, yatri shed, smriti dwar (MLA ke dawe, Jagran report card)',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Jagran',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/pratapgarh-raneeganj-of-pratapgarh-mla-report-card-industry-stalls-roads-lag-in-pratapgarh-40319040.html',
+      date: '2026-07-25',
+      note: 'Ye sankhyaen MLA ke apne dawe hain (Jagran interview, 25 July 2026): 500 km nai pakki sadak, 600 street light, 6 km interlocking sadak, 31 smriti dwar, 50 yatri shed, 100 bastiyon me vidyutikaran, ~200 transformer capacity upgrade, Umran/Kamasin drain ka punroddhar, Fatehpur-Birapur marg chaudikaran. Unverified claims (dawa). Jagran ne vipakshi neta (ex-MLA Abhay Kumar Ojha) aur kuch grameenon ke khandan/virodhi vaktavya bhi darj kiye.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bakulahi nadi par Puraila-Noorpur pul (Rs 4 crore) — nirman pragati par (MLA dawa)',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Jagran',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/pratapgarh-raneeganj-of-pratapgarh-mla-report-card-industry-stalls-roads-lag-in-pratapgarh-40319040.html',
+      date: '2026-07-25',
+      note: 'MLA ka dawa: Rs 4 crore ki lagat se pul nirman pragati par. Unverified claim (dawa). Isi report me Jagran ki ground reporting me pul nirman "adhar me" (ruka) bhi bataya gaya — virodhabhas, ground verification nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Shivsat me Engineering College ki diwar girane par FIR (allegation + MLA rebuttal)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'NewsDrum (PTI)',
+      sourceUrl: 'https://www.newsdrum.in/national/sp-mla-booked-for-demolishing-college-wall-in-ups-pratapgarh-50186.html',
+      date: '2022-06-26',
+      note: 'NEGATIVE entry. Arop: Raniganj ke Shivsat gaon me nirmanadheen Government Engineering College ki diwar giraane par MLA par Kandhai thane me FIR — rioting, criminal intimidation, lok sevak ko kaam se rokne ke charges; shikayat construction firm ke project manager ne ki (Indian Express ne bhi report kiya). MLA ka khandan: grameenon ki shikayat par inspection kiya, diwar ko halka dhakka diya jo gir gayi — substandard material (bina cement ret) ka khulasa; sahayak abhiyanta ne sample jaanch ko bheje. Case status (conviction/acquittal) source me confirm nahi.',
+      period: '2022-2027',
+    },
+  ],
+
 };
