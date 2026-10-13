@@ -3623,4 +3623,27 @@ export const gujWorks: Record<string, Work[]> = {
     note: 'Una shahar ward no. 4 ki Tulsidham Society me ₹95 lakh ke kharch se taiyaar bagiche ka MLA Kalubhai Rathod aur nagarpalika pramukh Harshaben Rathod ke hast se lokarpan — janata ke liye khula. (status: udghatan)',
   },
 ],
+  // ---- Dang district batch (researched 2026-10-13) ----
+  'vijaybhai-rameshbhai-patel': [
+    {
+      title: 'Mukhyamantri Gram Sadak Yojana 2024/25 me Dang jile ke 30 grameen margon (83.24 km) ko ₹35.23cr ki manzoori',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Akashvani News (AIR), 19 Sep 2024',
+      sourceUrl: 'http://newsonair.gov.in/gu/tag/%E0%AA%B5%E0%AA%BF%E0%AA%9C%E0%AA%AF-%E0%AA%AA%E0%AA%9F%E0%AB%87%E0%AA%B2/',
+      date: '2024-09-19',
+      note: 'Dang ke MLA aur Gujarat Vidhan Sabha ke nayab mukhya dandak Vijaybhai Patel ne ghoshna ki ki jile ke grameen janon ki maang sweekar karte hue rajya sarkar ne Mukhyamantri Gram Sadak Yojana-2024/25 ke tahat ₹35.23cr ke kul 30 margon (83.24 km) ko manzoori di hai. Inme Ahwa taluka ke 6, Waghai taluka ke 14 aur poorvi-patti ke seemavarti Subir taluka ke 10 marg shamil hain. (status: manzoori; source AIR ka official tag page hai jahan poora article padha gaya)',
+      period: '2022-2026',
+    },
+    {
+      title: 'New Gujarat Pattern yojana: 11 sarkari ashram shala/anudanit chhatralayon ko bhojan-samagri yantro ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Nov 2025 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/dangs/news/dang-district-government-hostel-new-gujarat-pattern-scheme-kitchen-equipment-distribution-135625785.html',
+      date: '2025-11-01',
+      note: 'Dang jile ke sarkari kumar chhatralaya Borkhal me aayojit karyakram me nayab mukhya dandak Vijaybhai Patel ne "New Gujarat Pattern" yojana ke tahat kul 11 sarkari ashram shala aur anudanit chhatralayon ko bhautik sadhna sahayta vitran ka lokarpan kiya. Tribal Subplan ke tahat chhatralayon ko rasoi ke upyogi yantra (roti maker machine, thali-vatki-glass, anaaj ke pipe aur dalne ki ghanti sahit kul 25 prakar ke yantra) diye gaye. (status: lokarpan; exact date page par nahi mili)',
+      period: '2022-2026',
+    },
+  ],
 };
