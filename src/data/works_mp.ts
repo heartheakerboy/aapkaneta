@@ -384,3 +384,90 @@ mpWorks['phundelal-singh-marko'] = [];
 //     REJECT: background info only — koi kaam ka zikr nahi.
 // SARKARI CHECK: MP Vidhan Sabha/Anuppur jila site par vidhayak-nidhi suchi ki koi saarvajanik entry is
 // neta ke naam par trace nahi hui; isliye koi 'sarkari' badge entry bhi nahi bani.
+
+
+// ---- Ashok Nagar district batch (researched 2026-10-13) ----
+// Ashok Nagar district batch 1 — Haribaboo Rai (Ashok Nagar SC, INC) + Jagannath Singh Raghuwanshi (Chanderi, BJP) (researched 2026-10-13) — DO NOT export; appended to works_mp.ts
+mpWorks['haribaboo-rai'] = [
+  {
+    title: 'Ashoknagar shahar ki Garib Rath, Guru Dham aur Ganganagar colonies me bijli sankat par vidhayak-nidhi se transformer dene ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar, Aug 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/ashoknagar/news/coolers-and-fans-are-not-working-due-to-frequent-power-cuts-135719521.html',
+    date: '2025-08-20',
+    note: 'Bhaskar ke mutabik bijli sankat se pareshan colony-wasiyon ke virodh ke baad vidhayak mauke par pahunche aur adhikariyon se baat ki; unhone kaha ki ve apni vidhayak-nidhi se transformer uplabdh karayenge. Status: ghoshna (dawa) — swikriti ya transformer lagne ki alag khabar nahi mili. Caveat: tithi article par print nahi thi; search-index ("419 din pehle") aur article me likhe "budhwar" se cross-check karke 20 Aug 2025 (est.) maani hai.',
+    period: '2023-2028',
+  },
+];
+mpWorks['jagannath-singh-raghuwanshi'] = [];
+// NOTE (2026-10-13): Jagannath Singh Raghuwanshi (Chanderi, BJP) — qualifying kaam nahi mila, profile khaali chhodi. Khali profile weak attribution se behtar.
+
+/*
+RESEARCH REPORT (Ashok Nagar district batch 1, researched 2026-10-13):
+
+ENTRIES: 1 (haribaboo-rai: 1; jagannath-singh-raghuwanshi: 0).
+SOURCES READ (khole aur padhe gaye): 11.
+- Dainik Bhaskar (local Ashoknagar) — bijli-sankat article: Haribaboo Rai ki vidhayak-nidhi se transformer dene ki ghoshna → 1 'dawa' entry (stage: ghoshna). Tithi 20 Aug 2025 (est.) — search-index + "budhwar" cross-check se.
+- Navbharat Times — Haribaboo Rai ke PA ka rishwat maamla: MLA ne khud apne PA ko pakadkar collector se shikayat ki, PA suspend; nilambit PA ne badle me MLA par nidhi-commission ke aarop lagaye. NEGATIVE entry nahi banayi — PA ke aaropon par koi case/status report me nahi (rebuttal bhi nahi); sirf aarop = bar poora nahi karta.
+- ETV Bharat — bijli chakkajam samarthan: MLA ne sirf ashwasan diya, koi concrete kaam nahi → reject (sirf ashwasan).
+- ETV Bharat — police challan vivaad: MLA ne challan kam karne ko kaha, SP ne khari-khari sunayi → reject (ye kaam nahi, controversy hai).
+- YouTube — Haribaboo Rai ka zila-aspataal nirikshan video → reject (YouTube-only + sirf nirikshan).
+- VocalTV (Hindustan Samachar wire) — Scindia ki Ashoknagar city-plan review: Haribaboo Rai us baithak me maujood hi nahi the (Brajendra Singh Yadav + Raghuwanshi the) → weak attribution, reject.
+- YouTube — "Vidhayak Raghuwanshi ne kiya sadak nirman ka bhoomi-pujan" → reject (YouTube-only, bina text corroboration).
+- public.app — Isagarh mini-kit vitran me Raghuwanshi ki maujoodgi → reject (public.app-only).
+- bccnewsind/cgimpact — Janmashtami 2024 Chanderi: CM Mohan Yadav ne 2.60 cr ke 4 karyon ka bhoomi-pujan aur 11.33 cr ke 3 karyon ka lokarpan kiya; Raghuwanshi manch par maujood/sambodhit → reject (CM ka kaam; MLA ki concrete bhoomika article me saaf nahi — weak attribution).
+- Sahara Samachar / Punjab Kesari — Raghuwanshi ne Scindia se train ki maang ki (Kamal Nath ki tareef wala maamla) → reject (sirf maang).
+- zee24.in — sthapna-diwas karyakram me kalakaron ko 11-11 hazar ki ghoshna: "MLA tatha zila shiksha vibhag dwara" — attribution ambiguous + raashi trivial → reject.
+- thesootr — Scindia ne 5 vidhayakon (Chanderi MLA sahit) ke saath Gadkari se mulakat → reject (maang-meeting, koi swikrit kaam nahi).
+- swatantrasamay.com — Vikas Yatra Feb 2023 (tenure se pehle, tab ve zila panchayat adhyaksh the) → reject (pre-Dec-2023).
+- emsindia — zila vikas salahkar samiti baithak (Dec 2025): dono MLA sirf maujood → reject (sirf maujoodgi).
+
+CAVEATS: Bhaskar article par print tithi nahi thi; tithi est. hai aur note me disclose ki gayi hai. Dono profiles par tenure (Dec 2023) se pehle ke kaam nahi diye gaye.
+*/
+
+// Ashok Nagar district batch — Brajendra Singh Yadav (BJP, Mungaoli AC-34) (researched 2026-10-13) — DO NOT export; appended to works_mp.ts
+mpWorks['brajendra-singh-yadav'] = [
+  {
+    title: 'Maharashtra (Sangli/Kolhapur) me bandhak banae gaye Mungawali ke 80+ shramikon ki mukti — vidhayak ke hastakshep se police karyavahi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nai Duniya, 26 Dec 2025',
+    sourceUrl: 'https://www.naidunia.com/madhya-pradesh/ashoknagar-80-labourers-from-ashoknagar-held-hostage-in-maharashtra-rescued-after-mla-intervention-8420063',
+    date: '2025-12-26',
+    note: 'Mungawali kshetra ke Aaksi Chakk, Jaroli, Tinsi aur Belai gaon ke 80+ shramik Maharashtra ke Sangli/Kolhapur me ganna katai ke dauraan bandhak banae gaye — majdooron ko Maharashtra le jaane wala bichauliya majdoori ke paise lekar farar ho gaya tha, uske baad thekedaar ne shramikon ko aage Kolhapur le jakar bandhak bana liya (bandhak shramikon se maarpeet ki suchna bhi). Suchna milte hi vidhayak ne tatkal Sangli (Maharashtra) ke police adhikshak aur Ashoknagar SP se sampark karke poore ghatnakram se avgat karaya; unke hastakshep ke baad police karyavahi se sabhi shramik mukt hue, Mungawali thana prabhari Arvind Singh Kachhwah ne thekedaar se majdoori ka bhugtan bhi karaya — sabhi shramik surakshit apne ghar laut rahe hain. Status: hastakshep safal — parinam prapt. Caveat: ye swikrit vikas-nirman karya nahi, balki ek news-verified jan-pratinidhi hastakshep hai (dataset me isi tarah ke hastakshep entries ki misaal hai); Free Press Journal (25 Dec 2025) ne bhi isi ghatna ki swatantra roop se pushti ki hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Research report (2026-10-13) — brajendra-singh-yadav (Mungaoli AC-34, Ashok Nagar) ----
+// Entries: 1 (Free Press Journal + Nai Duniya — do swatantra credible text sources, dono poori tarah padhe).
+// Sources poori tarah khole/padhe: 4 (mpfirst.in Mudra Kala bridge 13 Aug 2024; Free Press Journal 80 labourers 25 Dec 2025;
+// Nai Duniya 80 labourers 26 Dec 2025; Navbharat hospital inspection 14 Feb 2026). Ek Dainik Bhaskar short-link desktop-app par
+// redirect hui (padhi nahi ja saki — vaise bhi Meerut/UP ki "Mundali" khabar thi, galat sthan/vyakti).
+// Searches: Hindi + English + news vertical me ~12 queries (bhumi-pujan/lokarpan/vidhayak-nidhi/swikrit/school/aspataal/peyjal
+// sabdo ke saath; naam ki alag-alag vartaniyan: Brajendra/Brijendra/ब्रजेंद्र/बृजेंद्र — Brajendra Singh Rathore Jhansi-UP ko
+// hamesha bahar rakha).
+// REJECT kiya gaya:
+// 1. Mudra Kala gaon pul (Rs. 2 crore, mpfirst.in, 13 Aug 2024): swikriti kendriya mantri Jyotiraditya Scindia ne di; article
+//    khud kehta hai vidhayak ko grameenon ne kai baar shikayat ki par "sirf ashwasan" mila — MLA attribution weak/negative, reject.
+// 2. Scindia ka Mungaoli daura (sabkikhabar.com): 78 karyon (Rs. 14.24 crore) ka lokarpan/shilanyas Scindia ne kiya — MLA ko
+//    credit nahi, weak attribution, reject.
+// 3. Parkana–Barkheda 5 km sadak (Rs. 5 crore) ka bhoomi-pujan (public.app, 29 Feb 2024): vidhayak ne khud kiya tha, par
+//    public.app-only — text corroboration nahi mila, niyam-anusar reject.
+// 4. Mungaoli civil aspataal ka aauchak nirikshan (Navbharat, 14 Feb 2026): nirikshan + baithak, sirf prastav/charcha —
+//    nirikshan-only kaam nahi, reject.
+// 5. "Mundali" 25 lakh sadak (Dainik Bhaskar): Meerut, Uttar Pradesh ka maamla — galat vyakti/sthan, reject.
+// 6. MP-vs-MLA jhadap "Mungaoli mini smart city" baithak (mpbreakingnews.in): Dec 2023 se pehle ka daur (collector Manju Sharma,
+//    MP K.P. Yadav ka samay) + vivaad hai, kaam nahi, reject.
+// 7. Madhavrao Scindia moorti anavaran karyakram (mpbreakingnews.in): MLA sirf maujood vakta tha — weak attribution, reject.
+// 8. Hindu Sammelan me bailgadi (Bhaskar/NBT, Jan 2026): event hai, kaam nahi, reject.
+// 9. Scindia daure ki taiyariyon ka nirikshan (public.app, 8 Oct 2025): doosre neta ke karyakram ka nirikshan — reject.
+// 10. Thubon anganwadi me moringa powder (public.app, 27 Oct 2025): public.app-only, corroboration nahi — reject.
+// 11. YouTube-only videos (sadak hadse me ghaayalon ki madad; Scindia ke karyakram ka sambodhan): text corroboration nahi — reject.
+// 12. Koi bhi FB/IG self-posted dawa (dawa badge) layak news-reported claim nahi mila; neta ke khilaf koi credible negative
+//    khabar (case/allegation) bhi is avadhi me nahi mili.
+// NISHKARSH: Dec 2023 ke baad ka koi news-verified vikas-nirman kaam (sadak/paani/school/aspataal/nidhi-sanction) is MLA ke naam
+// par text source me nahi mila — vah Mohan Yadav sarkar me mantri nahi hain, isliye news visibility kam hai. Ek hi qualifying
+// entry rakhi hai: FPJ + Nai Duniya dono se verify hua 80+ shramikon ka safal hastakshep (25-26 Dec 2025). Khali profile se behtar
+// hai kyunki attribution mazboot hai, weak nahi.
