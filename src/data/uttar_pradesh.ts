@@ -10267,7 +10267,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarpradesh2022/candidate.php?candidate_id=4901',
       backgroundNote: '',
     },
-    electionNote: '2023 ke upchunav me Ghosi se jeete.',
+    electionNote: '2023 ke upchunav me Ghosi se jeete. 20 November 2025 ko unka nidhan ho gaya (PTI/Indian Express) — Ghosi seat rikt hai, upchunav hona baki hai.',
   },
   {
     slug: 'rajendra-kumar-up',
@@ -10325,7 +10325,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=4595',
       backgroundNote: '',
     },
-    electionNote: '2022 me Mau se jeete.',
+    electionNote: '2022 me Mau se jeete. 31 May 2025 ko hate-speech case me 2 saal ki saza par sadasyata radd hui thi; 20 August 2025 ko Allahabad High Court ne dosh-siddhi par rok lagayi aur September 2025 me Vidhan Sabha ne sadasyata bahal ki. 10 April 2026 ko Supreme Court ne High Court ke stay me hastakshep se inkaar kiya — vartamaan me Mau Sadar ke sitting MLA hain (PTI/IANS).',
   },
   {
     slug: 'hansu-ram',
