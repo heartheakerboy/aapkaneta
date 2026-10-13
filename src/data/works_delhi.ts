@@ -123,3 +123,163 @@ delhiWorks['vishesh-ravi'] = [
     note: 'Usi MLALAD aadesh (F.18B(599)/AC-23/8DVS/UD/MLALADS/2025-26) me Kaam 2: Military Road Gate, Arya Samaj Road, Hardhyan Singh Road aur Gali No. 5, Bapa Nagar (Ward No. 84/KBZ) me toilet blocks ka construction/improvement/renovation; anumaanit Rs11.95 lakh, revised Rs11.23 lakh. Status: swikriti + pehli kisht jaari (kul Rs59.99 lakh package ka hissa) — purnata ki khabar nahi mili.',
   },
 ];
+
+
+// ---- East district batch (researched 2026-10-13) ----
+delhiWorks['ravi-kant'] = [
+{
+    title: 'New Ashok Nagar me E-Block PTB se Metro Station tak nali sudhar ke liye 22.94 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 19 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_55_3417-3427_19-08-2025.pdf',
+    date: '2025-08-19',
+    note: 'F.18B(623)/AC-55/8DVS/UD/MLALADS/2025-26: A/A Rs. 22.94 lakh; first installment Rs. 2.29 lakh MCD ko. Kaam: "Improvement of Drain at New Ashok Nagar from E-Block PTB to New Ashok Nagar Metro Station by providing and fixing 155 slabs", Work ID AC-55/2025-26/01, Ward No. 190 New Ashok Nagar, Shahdara South Zone. Order me "Sh. Ravi Kant Ujjainwal, Honble MLA Trilokpuri Assembly Constituency (AC-55)" ka naam. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Mayur Vihar Phase-1 ke community halls aur senior citizen reading rooms me bijli fittings ke liye 15.93 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 18 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_55_10111-10122_18-12-2025.pdf',
+    date: '2025-12-18',
+    note: 'F.18B(623)/AC-55/8DVS/UD/MLALADS/2025-26: A/A Rs. 15.93 lakh; first installment Rs. 1.59 lakh MCD ko. Kaam: "Provision of E-1 and Fans at various newly constructed Community halls (Multipurpose rooms), Library (Reading rooms) for senior citizens in ward no. 191, Mayur Vihar Phase-1, Shahdara South Zone", Work ID AC-55/2025-26/05. Order me "Sh. Ravi Kant Ujjainwal, Honble MLA Trilok Puri Assembly Constituency (AC-55)" ka naam. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+// kuldeep-kumar (Kondli, AAP) — defensible empty: AC-56 ke sabhi MLALAD orders 7th-VS sanction ke continuation the (reject); Kondli pul wali PTI-story ka URL verify nahi ho saka (2 variants, page ab 403) — khaali profile weak attribution se behtar.
+
+
+delhiWorks['ravinder-singh-negi'] = [
+{
+    title: 'Mandawali ke MC Primary School No. 2 me boundary wall ke liye 4.80 lakh ka MLALAD sanction',
+    category: 'School',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 7 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_57_3193-3203_07-08-2025.pdf',
+    date: '2025-08-07',
+    note: 'F.18B(625)/AC-57/8DVS/UD/MLALADS/2025-26: kul A/A Rs. 69.90 lakh; first installment Rs. 6.97 lakh MCD ko Patparganj AC-57 ke 4 karyon ke liye. Ye kaam: "Construction of Boundary Wall in MC Primary School Mandawali No. 2 in ward no. 199/AC-57, SSZ", Work ID AC-57/2025-26/24 (est. Rs. 4.80 lakh, revised Rs. 4.38 lakh). Order me "Sh. Ravinder Singh Negi, Honble MLA, Patparganj Assembly Constituency (AC-57)" ka naam. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'East Vinod Nagar me Garhwal Dairy se Bhati Chowk tak RMC lane ke liye 21.78 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 7 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_57_3193-3203_07-08-2025.pdf',
+    date: '2025-08-07',
+    note: 'F.18B(625)/AC-57/8DVS/UD/MLALADS/2025-26 (kul A/A Rs. 69.90 lakh, first installment Rs. 6.97 lakh MCD ko): "Construction/improvement of lane by P/L RMC from Garhwal Dairy to Bhati Chowk, gali no. 9, East Vinod Nagar in Ward No. 196 (Mayur Vihar Phase-I)/SSZ in Patparganj AC-57", Work ID AC-57/2025-26/25, est. Rs. 21.78 lakh. Order me "Sh. Ravinder Singh Negi, Honble MLA, Patparganj Assembly Constituency (AC-57)" ka naam. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Mayur Vihar Phase-2 aur Mandawali me 160 MS security gates + 22 LED street-light poles ke liye 44.07 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 7 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_57_3193-3203_07-08-2025.pdf',
+    date: '2025-08-07',
+    note: 'F.18B(625)/AC-57/8DVS/UD/MLALADS/2025-26 (kul A/A Rs. 69.90 lakh, first installment Rs. 6.97 lakh MCD ko): (1) "Providing and fixing of (40 New and 120 Old) M.S Security Gates in various Locations at Mayur Vihar Phase-2, Pocket A, B, E, Mandawali Village, Mayur Vihar Phase-1, Pocket-IV", Work ID AC-57/2025-26/26, est. Rs. 35.42 lakh; (2) "Provision of 5 Mtr Street Light 22 Nos. Poles with 45 Watt LED fitting at Metro View Apartment, Pocket-4, Mayur Vihar Phase-I, Ward No. 197, Shahdara (South) Zone", Work ID AC-57/2025-26/27, est. Rs. 8.65 lakh. Order me "Sh. Ravinder Singh Negi, Honble MLA, Patparganj Assembly Constituency (AC-57)" ka naam. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Patparganj AC-57 me 13 automatic boom barriers ke liye 14.79 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 8 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_57_5279-5289_08-10-2025.pdf',
+    date: '2025-10-08',
+    note: 'F.18B(625)/AC-57/8DVS/UD/MLALADS/2025-26: A/A Rs. 14.79 lakh; first installment Rs. 1.47 lakh I&FC ko. Kaam: "Providing and installation of 13 Nos. Automatic Boom Barrier at various locations in Patparganj AC-57", Work ID AC-57/2025-26/33. Order me "Sh. Ravinder Singh Negi, Honble MLA, Patparganj Assembly Constituency (AC-57)" ka naam. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Mayur Vihar Phase-2/Mandawali ke security gates ke liye 11.32 lakh ki final installment jaari — kaam karyanwayan me',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD final-installment order), 28 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_57_9482-9492_28-11-2025.pdf',
+    date: '2025-11-28',
+    note: 'F.18B(625)/AC-57/8DVS/UD/MLALADS/2025-26, 14.08.2025 ke 8DVS sanction order ki continuation: Rs. 11.32 lakh I&FC ko final installment ke roop me — "providing and fixing of M.S Security Gates in various Locations Mayur Vihar Phase-2, Pocket A-B, E Mandawali village, Mayur Vihar Phase-1, pkt IV and other of Patparganj" (40 new aur 120 old gates), Work ID AC-57/2025-26/26, contractual Rs. 29.72 lakh. Status: kaam karyanwayan me hai (50% tendered amount stage tak kisht jaari; final bill par UC deni hogi). Note: isi work ka A/A 07.08.2025 ke order (Negi ke naam) me bhi hai — ye order usi ki pragati ka saboot hai.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['abhay-kumar-verma'] = [
+  {
+    title: 'Laxmi Nagar me Rs 30 cr ki vikas pariyojnaon ka udghatan — 153 galiyan/sadakein, 75 sewer-jal line',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune, 24 Oct 2025',
+    sourceUrl: 'https://www.tribuneindia.com/news/delhi/cm-inaugurates-rs-30-cr-projects-in-laxmi-nagar/amp/',
+    date: '2025-10-24',
+    note: 'CM Rekha Gupta ne Laxmi Nagar AC me Rs 30 cr ki pariyojnaon ka udghatan kiya: 153 galiyan/sadakein (Rs 16 cr), 75 sewer + pani ki linein (Rs 12.36 cr), Ganesh Nagar Complex me puliya (Rs 1.30 cr), S Block Pandav Nagar se Akshardham tak survey, Shahdara Link Drain saundaryikaran survey, naya Chhath Ghat. MLA Abhay Verma karyakram me maujood the. Status: udghatan — karya purn bataye gaye. Caveat: udghatan CM ne kiya; vidhayak ki bhoomika kshetra ke pratinidhi ke roop me upasthiti tak seemit dikhti hai. (Millennium Post aur Amar Ujala ne bhi isi karyakram ki report ki.)',
+    period: '2025-2030',
+  },
+  {
+    title: 'Laxmi Nagar chaurahe par skywalk ki ghoshna — PWD feasibility study ke baad tender',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'ThePrint Hindi (PTI feed), 23 Feb 2026',
+    sourceUrl: 'https://hindi.theprint.in/india/preparations-to-make-the-main-roads-of-east-delhi-jam-free-skywalk-to-be-built-in-laxmi-nagar/937491/',
+    date: '2026-02-23',
+    note: 'MLA Abhay Verma ke anusaar Laxmi Nagar chaurahe par skywalk ko vittiya manzoori mil gayi hai; PWD feasibility study karega, uske baad tender jari hoga. Saath hi Mother Dairy Road, Patparganj Road aur Vikas Marg ki re-carpeting tatha footpath navinikaran ka elaan. Status: ghoshna — feasibility study/tender baaki; nirman shuru hone ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['dr-anil-goyal'] = [
+  {
+    title: 'Krishna Nagar me 7 sadak-nali karyon ke liye Rs 103.45 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_60_3061-3071_04-08-2025.pdf',
+    date: '2025-08-04',
+    note: 'F.18B(628)/AC-60/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs 103.45 lakh; first installment Rs 10.30 lakh MCD ko — Krishna Nagar AC-60 me RMC sadak + nali ke 7 kaam, Work ID AC-60/2025-26/26 se /32 (8th Vidhan Sabha; vartaman vidhayak Dr Anil Goyal): (1) MC primary school F-Block se BSES office Block-F (Rs 17.93 lakh, /26); (2) A-1/1 se A-1/9, A-Block (Rs 22.42 lakh, /27); (3) A-2/49 se A-2/24, A-Block (Rs 22.53 lakh, /28); (4) back lane F-2/19 se F-2/35, F-Block (Rs 11.10 lakh, /29); (5) back lane A-7/1 se A-7/04, A-Block (Rs 3.58 lakh, /30); (6) H-4/12 se Vijay Chowk, H-Block (Rs 15.18 lakh, /31); (7) C-2/1 se C-2/5, C-Block (Rs 17.35 lakh, /32) — sabhi Ward 211, Shahdara South Zone. Status: swikrit (A/A + pehli kisht) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Geeta Colony me 20 varshon se upekshit 6 mukhya sadakon ke nirman karya ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Top Story, Jan/Feb 2026',
+    sourceUrl: 'https://topstory.online/krishna-nagar-development-anil-goyal-mla-road-construction-delhi/',
+    date: '2026-02-01',
+    note: 'MLA Dr Anil Goyal ne Geeta Colony kshetra me 6 pramukh sadakon ke nirman karya ka shubharambh kiya; sadakon ke saath aadhunik naliyon ka nirman bhi — jalbharav samadhan ka daava. MLA ke anusaar CM vikas nidhi + vidhayak nidhi ke talmel se kaam. Status: shubharambh — nirman shuru, purnata ki alag khabar nahi mili. Caveat: lekh par tithi print nahi hai; search-index recency ke anusaar ~Jan/Feb 2026 ka anumanit date; chhote local portal ki report, swatantra ground-reporting patli hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Gyan Park me nayi sewer pipeline bichhane ke karya ka shubharambh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Top Story, Jul 2025',
+    sourceUrl: 'https://topstory.online/krishna-nagar-sewer-project-gyan-park-sewer-line-anil-goyal-mla/',
+    date: '2025-07-13',
+    note: 'MLA Dr Anil Goyal ke prayason se Gyan Park (Krishna Nagar AC) me nayi sewer pipeline bichhane ke karya ka shubharambh; lagbhag 150-200 gharon ko rahat ka daava. Status: shubharambh — nirman shuru, purnata ki alag khabar nahi mili. Caveat: lekh par tithi print nahi hai; search-index recency ke anusaar ~Jul 2025 ka anumanit date; chhote local portal ki report, swatantra ground-reporting patli hai.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['arvinder-singh-lovely'] = [
+  {
+    title: 'Gandhi Nagar me Dharampura Extn/Ajeet Nagar ke 6 nali-sadak karyon ke liye Rs 82.01 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 7 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_61_3204-3214_07-08-2025.pdf',
+    date: '2025-08-07',
+    note: 'F.18B(629)/AC-61/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs 82.01 lakh; first installment Rs 8.33 lakh MCD ko — Gandhi Nagar AC-61 me RMC nali + sadak ke 6 kaam, Work ID AC-61/2025-26/40 se /45 (8th Vidhan Sabha; order "Honble MLA, Gandhi Nagar Assembly Constituency (AC-61)" ko suchanaarth): (1) H.No. 3647 se 3801, Dharampura Extn. (Circular Road) (Rs 19.51 lakh, /40); (2) Gali No. 6 + links, H.No. 9/3967A se 9/3758 (Rs 17.90 lakh, /41); (3) Gali No. 4, IX/3731 se IX/3718A (Rs 13.74 lakh, /42); (4) Gali No. 3, IX/3716 se IX/3707 (Rs 14.92 lakh, /43); (5) Gali No. 2, IX/3665 se IX/3680 (Rs 15.25 lakh, /44); (6) H.No. 3995/7 se 3990/1 (Gali No. 19), Ajeet Nagar (Rs 15.49 lakh, /45) — sabhi Ward 212, Shahdara South Zone. Status: swikrit (A/A + pehli kisht) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Gandhi Nagar bazaar ke vikas ke liye Rs 15 cr fund ka CM elaan — tooti sadakein, parking, shauchalay',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Jagran, 22 Aug 2025',
+    sourceUrl: 'https://www.jagran.com/delhi/new-delhi-city-ncr-cm-rekha-gupta-announces-funds-for-gandhi-nagar-development-names-arvinder-singh-lovely-yamunapar-cm-24021206.html',
+    date: '2025-08-22',
+    note: 'CM Rekha Gupta ne Gandhi Nagar bazaar ke vikas ke liye Rs 15 cr fund ka elaan kiya: tooti sadakon ka nirman, elevated road ke neeche 1000 vahanon ki parking, shauchalay block (safai karmchari + parking sanchalan NHAI dwara). Usi karyakram me MLA Arvinder Singh Lovely ko Yamuna Paar Vikas Board ka chairman banaya gaya. Status: ghoshna — fund elaan; karyanwayan/purnata ki alag khabar nahi mili. Caveat: elaan CM ka hai; vidhayak kshetra ke MLA + board chairman ke roop me jude hain.',
+    period: '2025-2030',
+  },
+];
