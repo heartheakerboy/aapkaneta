@@ -13308,3 +13308,68 @@ export const upWorks: Record<string, Work[]> = {
 // - Vidhayak nidhi upyog story, teenon Bhadohi vidhayak (StreetBuzz, ~Mar 2025): page khula nahi (verify nahi ho paya); chhota outlet; fund-proposal news, concrete karya nahi — reject.
 // Entries: 3 (2 positive news + 1 negative news). Rejects: 12.
 };
+
+// ---- Kaushambi district batch (researched 2026-10-13) ----
+// Kaushambi district batch 1 (researched 2026-10-13).
+// Sirathu (dr-pallavi-patel) + Manjhanpur SC (indrajeet-saroj). Both SP, tenure Mar 2022+.
+// RULE: every entry needs a real, opened sourceUrl. Empty is better than unverified.
+// Fragment: appended by parent; no trailing '};'.
+upWorks['dr-pallavi-patel'] = [
+  {
+    title: 'Thon me RES vibhag se bani sadak ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 10 Nov 2024',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kausambi/story-siraithu-mla-dr-pallavi-patel-tours-constituency-promises-development-amid-challenges-201731236607126.html',
+    date: '2024-11-10',
+    note: 'Kshetra daure ke dauraan Thon gaon me gram pradhan ke nivas par RES (Rural Engineering Service) vibhag se bani ek sadak ka udghatan kiya. Status: udghatan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Girdharpur Garhi (Block Kara) me Rs 4,48,700 lagat se 70 meter interlocking marg ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Oct 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kausambi/story-siramathu-mla-pallavi-patel-hears-women-s-development-demands-opens-interlocking-road-in-kaushambi-201791481392272.html',
+    date: '2026-10',
+    note: 'Block Kara me mahila shiksha samooh ki baithak ke baad gram Girdharpur Garhi me 70 meter lambe interlocking marg ka lokarpan; nirmaan lagat Rs 4,48,700. Graminon ko aawagaman me suvidha ka daava. Status: lokarpan (purna karya). Exact date page par nahi mili (month-level). Mahilaon ki solar energy aadi maangein sirf suni gayin — karya nahi, isliye entry me nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jawai Padri aur Ulachupur (Kokhraj) me navnirmit sampark margon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Sep 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kaushambi/kara/news/sirathu-mla-pallavi-patel-trilokpur-accident-visit-compensation-138450428.html',
+    date: '2026-09',
+    note: 'Sirathu karyalaya me jansunwai aur Trilokpur sadak hadse ke peedit parivaron se mulakat ke baad Sirathu tehsil kshetra ke Jawai Padri aur Ulachupur (Kokhraj) me navnirmit sampark margon ka lokarpan. Graminon ke anusaar barsaat me keechad-jalbharao se aawagaman me bhari pareshani hoti thi. Status: lokarpan (purna karya). Exact date page par nahi mili (month-level).',
+    period: '2022-2027',
+  },
+];
+
+upWorks['indrajeet-saroj'] = [
+  {
+    title: 'Vidhayak nidhi se handpump — peyjal samasya ke samadhan ke liye',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Paripoorna News, Aug 2026',
+    sourceUrl: 'https://www.paripoornanews.com/71044/',
+    date: '2026-08',
+    note: 'Manjhanpur seat par local outlet ki vishleshanatmak report ke anusaar Jal Jeevan Mission ke prabhavi kriyanvayan me kami se peyjal samasya bani hui hai, jiske samadhan ke liye vidhayak nidhi se handpump lagwaye gaye. Sthal/sankhya ki detail report me nahi. Corroboration: Aug 2025 ki ek local video report me isi vidhayak nidhi ke handpump karyon me gunvatta ki shikayat par (vidhayak ne khud shikayat ki thi) DM dwara jaanch team gathit karne ki khabar hai — handpump lagne ki pushti hoti hai. Note: haath-pump karyon ki gunvatta par jaanch ke aadesh hue the; vidhayak aaropi nahi, shikayat-karta the.',
+    period: '2022-2027',
+  },
+];
+// Kaushambi district batch — researched 2026-10-13
+// Pooja Pal, Chail (SP ticket 2022; expelled Aug 2025). Tenure rule: only works after Mar 2022.
+upWorks['pooja-pal'] = [
+  {
+    title: 'Chail me Rs 1.05 crore ke vidhayak-nidhi karyon ki swikriti — interlocking sadak, CC sadak, nali nirman',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 1 Feb 2026',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kaushambi/due-to-negligence-of-officials-work-worth-rs-105-crore-of-chail-mla-got-stuckdue-to-negligence-of-officials-work-worth-rs-105-crore-of-chail-mla-got-stuck-kaushambi-news-c-261-1-kmb1004-135818-2026-02-01',
+    date: '2026-02-01',
+    note: 'Vidhayak Pooja Pal ne Chail Vidhan Sabha kshetra me interlocking sadak, CC sadak aur nali nirman sahit moolbhoot vikas karyon ke liye Rs 1.05 crore ki nidhi swikrit ki; pehli kisht ke roop me Rs 63.37 lakh jari bhi hue. Status: swikrit + nidhi jari, lekin lagbhag 5 mahine baad bhi koi karya purn nahi hua — karyadayi sanstha (UP Laghu Udyog Nigam) ki laparwahi par CDO ne adhishasi abhiyanta ko notice jari kar jawab-talab kiya. Udghatan ya purnata ki koi khabar nahi mili.',
+    period: '2022-2027',
+  },
+];
