@@ -3066,4 +3066,45 @@ export const gujWorks: Record<string, Work[]> = {
       note: 'Dediapada up-vibhagiya karyalaya me vikas-samanvay baithak ke dauran taluka panchayat adhyaksh Sanjay Vasava ki shikayat par MLA par mobile-glass fenkne, thappad marne aur jaan se marne ki dhamki ka aarop laga; police ne giraftar kiya. AAP ne ise BJP ki raajnaitik badle ki karyavahi bataya. MLA baad me zamanat par riha hue. (status: aarop — mamla nyayalay me; exact date page par nahi mili)',
     },
   ],
+  // ---- Navsari district batch (researched 2026-10-13) ----
+  'r-c-patel': [
+    {
+      title: 'Doli talab (Vijalpore) sundarikaran ke liye ₹4 crore ki manzoori dilayi',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'New Indian Express, 15 Mar 2024',
+      sourceUrl: 'https://www.newindianexpress.com/nation/2024/mar/15/gujarat-mlas-candid-confession-in-our-bjp-system-they-take-2-commission',
+      date: '2024-03-15',
+      note: 'Navsari jile ke Vijalpore kshetra me Doli talab ke sundarikaran (beautification) project ke liye MLA ne apne prayason se ₹4 crore ki manzoori hasil ki; thekedaron ko gunvatta par jor dene aur shikayat par gambhir karyavahi ki chetavni di. (status: manzoori)',
+    },
+    {
+      title: '"BJP system me 2 percent commission" wala sarvajanik bayan — vivaad',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'New Indian Express, 15 Mar 2024',
+      sourceUrl: 'https://www.newindianexpress.com/nation/2024/mar/15/gujarat-mlas-candid-confession-in-our-bjp-system-they-take-2-commission',
+      date: '2024-03-15',
+      note: 'Doli talab project par sarvajanik manch se MLA ne kaha ki BJP system me "2 percent" commission chalta hai aur thekedaron ko kaha ki iske alawa kisi ko paisa na dein; Congress ne ise bhrashtachar ka khula sweekar batakar aalochna ki. (status: vivaad — MLA ka khud ka on-record bayan; party ka paksh report me nahi)',
+    },
+  ],
+  'anantkumar-hasmukhbhai-patel': [
+    {
+      title: 'Par-Tapi-Narmada nadi-jod pariyojana ke khilaf Dharampur me hajaaron aadivasiyon ka mahavirodh',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Indian Express + Free Press Journal, 14 Aug 2025',
+      sourceUrl: 'https://indianexpress.com/article/cities/ahmedabad/congress-mla-anant-patel-says-will-go-ahead-with-aug-14-protest-10187687/',
+      date: '2025-08-14',
+      note: 'Valsad ke Dharampur me Dam Hatao Samiti ke banner tale hajaaron aadivasi ikatthe hue; Vansda ke MLA Anant Patel ne gaon-gaon jakar pratirodh sangathit kiya. Unki maang pariyojana ke sthayi raddikaran ka aadesh hai. Valsad sansad ne Jal Shakti mantralaya ka patra dikhakar kaha ki pariyojana priority links se hata di gayi hai, lekin MLA ne sarkar par bharosa na karke pradarshan jari rakha. (status: maang/aandolan)',
+    },
+    {
+      title: 'Kaveri Sugar (Sadadvela) ki nilami ke khilaf kisan pradarshan ki aguvai',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Bhaskar English, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskarenglish.in/local/gujarat/news/anant-patel-issues-stern-warning-to-gujarat-police-says-during-navsari-farmer-protests-that-taking-money-from-liquor-136515795.html',
+      date: '2026-02-01',
+      note: 'Navsari jile ke Chikhli taluka ke Sadadvel gaon me Kaveri Sugar sahkari mill ki nilami ke khilaf MLA ne kisan pradarshan-sabha ki aguvai ki; aadivasi kisaano ke croreon rupaye ki share-punji ke khatre ka mudda uthaya. (status: maang/aandolan — virodh-sabha; exact date page par nahi mili)',
+    },
+  ],
 };
