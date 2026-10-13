@@ -14395,3 +14395,137 @@ upWorks['brij-bhushan-rajput'] = [
 // REJECT: Dainik Bhaskar (Nov 2025) — Charkhari me Akhil Bharatiya Kavi Sammelan ka shubharambh — sanskritik karyakram, kaam nahi.
 // REJECT: YouTube-only — deputy CM banane ki maang (Agra), profile videos — YouTube-only, rule ke anusar reject.
 // NEGATIVE CHECK: Zee News par Dashahra shastra-pooja ke dauran vidhayak + sathiyon ki celebratory firing ka video (Chandel-kaleen gadhi) — credible outlet, lekin koi FIR/case, aarop ya rebuttal status report me EXPLICIT nahi; parampara-frame me. Rule ke anusar negative entry nahi banai. BJP notice (upar) me bhi koi bhrashtachar/muqadma aarop nahi — sirf anushasanik prakriya. myneta.info 2022 affidavit me 5 declared cases hain, lekin case-specific credible reporting with status nahi mili — isliye koi negative entry nahi.
+
+// ---- Jhansi district batch (researched 2026-10-13) ----
+upWorks['rajeev-singh-parichha'] = [
+  {
+    title: '52 Bus Shelters Completed Across Babina Assembly Roads',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Aug 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jhansi/story-new-passenger-shelters-completed-in-babina-assembly-enhancing-commuter-safety-201785686026369.html',
+    date: '2026-08',
+    note: 'Hindustan reported that 52 yatri pratikshalaya (passenger waiting shelters) were built on rural and urban routes of Babina Vidhan Sabha at a cost of Rs 138.82 lakh (about Rs 1.38 crore), with construction fully completed. MLA Rajeev Singh Parichha was the source of the information quoted in the report; local residents (students, daily commuters, women) are quoted confirming the shelters exist and are in daily use, especially useful against rain and harsh sun. Status: completed (as reported). MLA ki bhoomika: credit given via his statement; no separate inauguration event mentioned. Exact publish date not shown on the page; month estimated from crawl metadata (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: '335 Blast Wells Under Construction for Groundwater Recharge in Chirgaon-Badagaon-Babina Blocks',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Jhansi Bulletin News, 28 Jun 2026',
+    sourceUrl: 'https://jhansibulletinnews.in/?p=24713',
+    date: '2026-06-28',
+    note: 'Local portal Jhansi Bulletin News reported that 335 "blast kuon" (blast wells for rainwater harvesting and groundwater recharge) are under rapid construction at identified village sites across the three development blocks of Babina Vidhan Sabha: Chirgaon, Badagaon and Babina, under the banner "Mission Babina 2027". The MLA is credited with "special efforts"; the information is attributed to department data and official information from the MLA office, and a progressive farmer from Badagaon block is quoted supporting the claim. Purpose: recharge of wells and handpumps, better irrigation water for farmers. Status: UNDER CONSTRUCTION ("tezi se pragati par"), NOT completed. Disclosure: jhansibulletinnews.in is a small local news portal; no independent verification available. Date 2026-06-28 is estimated from the article image filename IMG-20260628 and crawl age (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Multiple Link Roads Under Construction in Babina Under Interconnectivity Scheme',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jhansi Bulletin News, Feb 2026',
+    sourceUrl: 'https://jhansibulletinnews.in/?p=24254',
+    date: '2026-02',
+    note: 'Local portal Jhansi Bulletin News reported that under the Interconnectivity Scheme, many important link roads are under construction in Babina Vidhan Sabha, credited to the MLA Rajeev Singh Parichha\'s "active initiative and continuous efforts". Roads named in the report: Babina-Simaria road km 0/1 to Kotimata Mandir link road, Saiyar village to MP border, Baruasagar municipality to Khadri (Harpura) MP border, Basowai canal (Basouna side) to Belma, Pargahna to Kabutaron ka Dera, Ajneri to Sutta link road, Samthar Mandi to Datawari Kuthaund (Betwa canal bank) new construction, Dumrai (Tigaila) to Kairoakhar, Bhanderi gate via Nagarriya Kuan to 4-lane highway, and NH-39 Ataran via Prachin Hanuman Mandir to Dhaipura. Report says approval was secured and work is progressing fast, connecting villages to main roads and national highways, benefiting farmers, students and traders. Status: under construction, NOT completed. Disclosure: jhansibulletinnews.in is a small local news portal; no independent verification available. Date Feb 2026 estimated from crawl age (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'New Block Pramukh Chamber Inaugurated at Chirgaon Vikas Khand Office',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Fast India News, Mar 2026',
+    sourceUrl: 'https://fastindianews2.blogspot.com/2026/03/9.html',
+    date: '2026-03',
+    note: 'Local blog Fast India News reported a Chirgaon kshetra panchayat meeting (chaired by Block Pramukh Rajkantesh Verma, with MLC Rama Niranjan, MLA Rajeev Singh Parichha and Zila Panchayat Chairman Pawan Gautam present). After the meeting, the MLA inaugurated (lokarpan) the newly built Block Pramukh chamber in the Chirgaon Vikas Khand premises, in the presence of BDO Ram Kumar Verma and other officials and village heads. Status: completed (inauguration done). In the same meeting the MLA claimed record development in Chirgaon over 9 years, greater than several past decades - this is an unverified claim, no independent verification. Disclosure: fastindianews2.blogspot.com is a small local blog, disclosed here. Date Mar 2026 estimated from the URL path /2026/03/ (est.).',
+    period: '2022-2027',
+  },
+];
+upWorks['ravi-sharma'] = [
+  {
+    title: 'Jhansi-Gwalior road railway overbridge: second line inaugurated (Rs 102.73 crore)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 1 Jan 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jhansi/story-inauguration-of-over-bridge-construction-on-jhansi-gwalior-road-by-mp-anurag-sharma-and-mla-ravi-sharma-201735749470349.html',
+    date: '2025-01-01',
+    note: 'Second line of 991.91-metre Jhansi-Gwalior road railway overbridge opened to traffic; MP Anurag Sharma and MLA Ravi Sharma inaugurated it together (MLA drove the car with the MP over the bridge to open it). Setu Nigam project, Rs 102.73 crore, construction started March 2022; first line opened Oct 2023, second line was due March 2024 but finished 31 Dec 2024 due to technical reasons. Status: inauguration (udghatan) of completed work. Credit-transparency: article itself says MLA initiated the ROB demand and the state government accepted and sanctioned it; sanction and execution by state govt/railways and Setu Nigam, inauguration jointly with the MP. Opened fully on new year as both lines thrown open together.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Post-victory interview claims: Gwalior road ROB, smart-city works, fort lighting (dawa)',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Newstrack, 16 Apr 2022',
+    sourceUrl: 'https://newstrack.com/uttar-pradesh/jhansi-mla-ravi-sharma-political-career-biography-wiki-jhansi-will-develop-under-cm-yogi-314304',
+    date: '2022-04-16',
+    note: 'News-reported interview claims by MLA shortly after his March 2022 win: claimed the Jhansi-Gwalior road railway overbridge was sanctioned through his efforts (approx Rs 100 crore, 3-year target), and claimed smart-city development works underway, roads and drains built, open gyms in parks, Rajkiya Balika Inter College building under construction, several primary schools being built, and fort lighting inside and outside drawing tourists. Status: claim (ghoshna-level dawa), not independently verified. Independent verification nahi. Partial corroboration: the Hindustan 1 Jan 2025 report independently says he initiated the ROB demand that the state government accepted. Other claims (open gyms, balika college, primary schools, fort lighting) have no independent verification.',
+    period: '2022-2027',
+  },
+  {
+    title: 'MP-MLA court conviction in 2006 road-jam case (negative)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Zeenews, Dec 2023',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/uttar-pradesh/jhansi-court-sentenced-40-people-including-mla-ravi-sharma-in-16-years-old-case-know-whole-matter/1688444',
+    date: '2023-12',
+    note: 'Negative: Additional Chief Judicial Magistrate court found MLA Ravi Sharma guilty along with 40 others in the 16-year-old road-jam case. Case facts per article: on 25 July 2006, after the kidnapping of Rajput dhaba operator Rinku Rajput in Bijauli (Premnagar thana area), the MLA and others blocked the Jhansi-Lalitpur road demanding his safe recovery; police had registered a case against 70+ people. Sentence: 15 days jail or Rs 1500 fine. Rebuttal/status explicit: MLA publicly disagreed with the verdict and said he would appeal after furnishing bond; former nagarpalika adhyaksh Dhanulal Gautam paid the fine. Date approx Dec 2023 (est.) since article only shows the verdict report and case history; 1017-day crawl offset suggests Dec 2023.',
+    period: '2022-2027',
+  },
+];
+// Jhansi district batch 3 (mined 2026-10-13): Rashmi Arya (Mauranipur) + Jawahar Lal Rajput (Garautha).
+// Fragment only — append entries to upWorks in works_up.ts. Do NOT paste directly; keep as separate fragment file.
+
+upWorks['rashmi-arya'] = [
+  {
+    title: 'Totifatehpur me lagbhag Rs 3 crore ke vikas karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, May 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jhansi/pandwaha/news/jhansi-vidhayak-pratinidhi-lay-foundation-stone-3cr-development-projects-137924481.html',
+    date: '2026-05',
+    note: 'Mauranipur vidhayak Dr Rashmi Arya ke pratinidhi Jayprakash Arya (Pappu Seth) ne Totifatehpur me 3 pariyojanaon ka bhoomi pujan/shilanyas kiya: interlocking sadak nirman (Rs 1.83 crore), Badi Mata mandir par samudayik satsang shed + chabootra (Rs 86 lakh), Mohalla Fatehpur me samudayik vivah ghar (Rs 86 lakh). Status: shilanyas — nirmanadheen, purnata ki khabar nahi mili. Note: vidhayak khud upasthit nahi thi — unke pratinidhi ne shilanyas kiya. Usi karyakram me pratinidhi ne kaha ki Shri Harihar Kshetra Larwara sthit Bhagwan Shankar mandir ke vikas ke liye Rs 1.5 crore ki swikriti jald milne wali hai — ye ghoshna matra hai, swikriti/kaam nahi, isliye alag entry nahi. Date (est.): Bhaskar ne "3 mahine pehle" dikhaya jo ~Jul 2026 crawl par based hai, isliye May 2026 andazit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Syavari me vidhayak nidhi se Veerangana Jhalkari Bai Dwar ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jhansi/syavri/news/inauguration-of-new-gate-in-mauranipur-136491542.html',
+    date: '2025-12',
+    note: 'Syavari me Ranipur road par Veerangana Jhalkari Bai Dwar vidhayak nidhi se nirmit hokar purn hua; lokarpan Jhalkari Bai jayanti karyakram me hua. Vidhayak Dr Rashmi Arya khud upasthit nahi thi — unke pratinidhi Jayprakash Arya (Pappu Seth) ne udghatan kiya. Status: completed/udghatan — vidhayak nidhi se swikrit evam nirmit karya. Cost article me disclose nahi. Date (est.): Bhaskar ne "8 mahine pehle" dikhaya jo ~Aug 2026 crawl par based hai, isliye Dec 2025 andazit.',
+    period: '2022-2027',
+  },
+];
+
+upWorks['jawahar-lal-rajput'] = [
+  {
+    title: 'Imlauta se Magya ki Madhaiya nahar road tak Rs 2.5 crore sadak ka bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 18 May 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/jhansi/garautha-mla-performed-bhoomi-pujan-for-road-construction-jhansi-news-c-316-1-gar1001-102014-2025-05-18',
+    date: '2025-05-18',
+    note: 'Garautha vidhayak Jawahar Lal Rajput ne gram Imlauta se Magya ki Madhaiya ki or nahar road tak lagbhag Rs 2.5 crore ki lagat se banne wali sadak ka bhoomi pujan kiya. Marg Lok Nirman Vibhag (PWD) dwara swikrit hai; article ke anusar "bahut jald gramvasiyon ke liye samarpit hoga". Status: shilanyas — swikrit PWD karya, udghatan/purnata ki alag khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Gursarai me 8.5 km sampark marg ke chaudikaran ka shilanyas (Rs 24.67 crore)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jhansi/gursrai/news/gursarai-road-widening-inauguration-jawahar-lal-rajput-137315513.html',
+    date: '2026-02',
+    note: 'Gursarai me Chauthi Meel-Habupura-Gursarai sampark marg ke 8.5 km lambe chaudikaran evam sudridhikaran ka shilanyas; vidhayak Jawahar Lal Rajput ne vidhivat bhoomi pujan karke karyarambh kiya. PWD dwara 7 meter chaudi CC sadak; lagat lagbhag Rs 24.67 crore; PWD ke JE ke anusar 8 mahine me purn hone ka lakshya. Status: shilanyas — nirmanadheen, purnata ki khabar nahi mili. Date (est.): Bhaskar ne "5 mahine pehle" dikhaya jo ~Jul 2026 crawl par based hai, isliye Feb 2026 andazit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Garhwai-Kakarwai-Garutha sadak ki vittiya swikriti — vidhayak ki pahal',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 13 Feb 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/jhansi/garhwai-kakarwai-garutha-road-approved-construction-process-will-start-soon-jhansi-news-c-322-1-kak1001-100546-2025-02-13',
+    date: '2025-02-13',
+    note: 'Vidhayak Jawahar Lal Rajput ne Garautha vidhansabha ki jarjar sadkon ki suchi lekar PWD ke pramukh sachiv Rajesh Chauhan se mulakat ki; vidhayak ki maang par pramukh sachiv ne Garhwai se Kakarwai hote hue Garutha ki or jaane wali pramukh sadak ki file talab ki aur turant karya shuru karane ka aashwasan diya. Article ke anusar is sadak ke nirman ke liye vittiya swikriti mil chuki hai. Vidhayak ki thos bhoomika: pramukh sachiv se mulakat, sadkon ki suchi saunpna, aur file talab karana. Status: swikriti — nirman prakriya shuru honi thi, purnata ki khabar nahi mili. Isi maang me Bamaur block ki kai aur sadkon (Devri-Pratappura, Tharaun, Dhanaura, Dhanaura-Kakarwai, Dhamanod-Kakarwai, Kharwanch-Kakarwai, Barmain-Kakarbai) ki vishesh marammat ke liye vittiya swikriti ki karyavahi jari thi — ye maang/prakriya sthiti me hai, isliye alag entry nahi. Vidhayak ne isse pehle CM Yogi Adityanath se mulakat aur vidhansabha me bhi sadak nirman ka mudda uthaya tha.',
+    period: '2022-2027',
+  },
+];
