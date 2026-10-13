@@ -10164,4 +10164,350 @@ export const upWorks: Record<string, Work[]> = {
     period: '2022-2027',
   },
 ],
+// ---- Kushinagar district batch (researched 2026-10-13) ----
+'vinay-prakash': [
+    {
+      title: 'Mathauli nagar panchayat me 7 pariyojanaon ka shilanyas: CC sadak, naali, school marammat (1.57 cr)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Avadhnama, Dec 2022 (est.)',
+      sourceUrl: 'https://avadhnama.com/the-mla-laid-the-foundation-stone-of-seven-projects-at-a-cost-of-rs-1-5-crore/',
+      date: '2022-12-15',
+      note: 'Ramkola vidhayak Vinay Prakash Gond ne Mathauli nagar panchayat me Mukhyamantri Nagar Srijan Yojana ke tahat 7 wardon me kul 1,56,89,485 rupaye ki pariyojanaon ka bhoomipoojan/shilanyas kiya — CC sadak, bhoomigat naali aur Haraiya primary school ki marammat/shauchalaya/boundary sahit. Status: SHILANYAS stage; purna/poora hone ki news-report nahi mili. Date (est.): report me "Guruvaar shaam" — Dec 15, 2022 guruvaar tha (crawl stamp se milan).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Badi sadkon ke daave: Kaptaanganj-Jhanga (44.9 cr), Laxmigaon-Pakariyar, Ragadgaanj-Puraini Mandir (95 lakh)',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'News Adda press-varta, Mar 2025 (est.)',
+      sourceUrl: 'https://newsaddaa.in/seeem-yogee-ke-netaritv-men-huaa-pardesh-ka-abhootapoorv-vikas/',
+      date: '2025-03',
+      note: 'Camp office me press-varta me vidhayak ka daava: "hamare 3 varshon ke karyakaal me" Kaptaanganj-Jhanga marg 44.9 karod, Laxmigaon-Pakariyar marg aur Ragadgaanj se Puraini Mandir tak 95 lakh sahit darjanon badi sadkon ka nirmaan hua. Status: DAAVA (press-varta me news-reported claim, independent verification nahi). Date (est.): "BJP sarkar ke 8 varsh" aur "3 varsh ka karyakaal" se ~Mar 2025.',
+      period: '2022-2027',
+    },
+    {
+      title: 'PM Shri yojana ke tahat Bankat me high school ka nirmaan',
+      category: 'School',
+      badge: 'dawa',
+      sourceLabel: 'News Adda press-varta, Mar 2025 (est.)',
+      sourceUrl: 'https://newsaddaa.in/seeem-yogee-ke-netaritv-men-huaa-pardesh-ka-abhootapoorv-vikas/',
+      date: '2025-03',
+      note: 'Press-varta me vidhayak ka daava: PM Shri yojana ke tahat Ramkola ke Bankat me high school ka nirmaan. Status: DAAVA (news-reported claim). Date (est.): upar wali entry jaisa ~Mar 2025.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Kaptaanganj me sadkon ka chaudikaran; Laxmigaon me 22 karod ki nayi sadak nirmaanadheen',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Bhaskar interview, Apr 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/news/ramkola-mla-vinay-prakash-gond-public-work-evaluation-137569214.html',
+      date: '2026-04',
+      note: 'Dainik Bhaskar se khaas baatcheet me vidhayak ka daava: Kaptaanganj me sadkon ka chaudikaran ho chuka; Laxmigaon me 22 karod lagat se nayi sadak ka nirmaan karaaya ja raha hai (nirmaanadheen); Bhat-hat–Pipraich marg ke jarjar hisse ke liye tender prakriya poori. Status: DAAVA — interview claim, poora hone ki independent verification nahi. Date (est.): "4 saal ke karyakaal" (Mar 2022 + 4 varsh) se ~Mar-Apr 2026.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Mawan nala par Mehda pul ka nirmaan; Kaptaanganj railway dhala par flyover',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Bhaskar interview, Apr 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/news/ramkola-mla-vinay-prakash-gond-public-work-evaluation-137569214.html',
+      date: '2026-04',
+      note: 'Bhaskar interview me vidhayak ka daava: Mawan nala par Mehda pul ka nirmaan karaaya gaya (kisaano ko laabh ka daava); Kaptaanganj railway dhala par flyover ban gaya, ab underpass PRAS-TAAVIT hai (underpass proposal-only, is entry me shamil nahi). Status: DAAVA. Date (est.): upar wali entry jaisa ~Mar-Apr 2026.',
+      period: '2022-2027',
+    },
+    // REJECTED — Vinay Prakash: Amar Ujala (17 Mar 2024) Kaptaanganj tehsil 24 pariyojana/1.55 cr — shilanyas SANSAD Vijay Dubey ne kiya; vidhayak sirf sambodhit karte dikhe (merely-present).
+    // REJECTED — Vinay Prakash: Amar Ujala (6 Apr 2025) Ramkola me path-prakash (37 lakh, Nagar Srijan Yojana) — Nagar Panchayat ka kaam; vidhayak ka attribution nahi.
+    // REJECTED — Vinay Prakash: Bhaskar Hiranyavati nadi safai abhiyan (Kasia) — DM/MLA PN Pathak ke saath sirf upasthiti; koi kaam nahi.
+    // REJECTED — Vinay Prakash: newsaddaa "ek ped maa ke naam" vriksharopan — Sansad Vijay Dubey ke saath sirf paudharopan upasthiti.
+    // REJECTED — Vinay Prakash: Bhaskar interview ka "Bhat-hat–Pipraich tender poora" — tender-only, nirmaan shuru nahi; entry me shaamil nahi. "Bankat school ke liye dhan swikrit" daava 2025 press-varta wali entry se overlap, dobara nahi joda. Cheera Devi/Kulkula Dham/Ram-Janki mandir "nirmaan/saundaryikaran karaya ja raha hai" — religious works, batch scope se bahar; CM discretionary 50 cr treatment claim bhi daava-matray.
+  ],
+  'mohan-up': [
+    {
+      title: 'AMRUT 2.0: Hata napa aur Sukrauli me paani-supply/sewerage ke liye 280 cr ki vittiya swikriti',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'News Adda, Mar 2023 (est.)',
+      sourceUrl: 'https://newsaddaa.in/drinking-water-and-sewerage-system-of-hata-napa-and-sukrauli-nagar-panchayat-will-improve-with-281-crores/',
+      date: '2023-03',
+      note: 'News report: vidhayak Mohan Verma ke prastaav par shasan ne AMRUT 2.0 ke tahat Hata nagar palika (sewerage 125.50 cr + 24-ghante paani 108.02 cr) aur Sukrauli nagar panchayat (sewerage 25.71 cr + paani 20.71 cr) — kul ~280 karod ki vittiya manzoori di. Status: SWIKRITI stage; report ke samay kaam shuru nahi hua tha ("jald shuru hoga"). Date (est.): crawl-stamp se ~Mar 2023; chunaav-2022 ke baad ka hai.',
+      period: '2022-2027',
+    },
+    {
+      title: 'CHC Hata me Jan Aushadhi Kendra aur Block Public Health Unit ka udghatan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jun 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/junglenaugawan/news/expansion-of-health-facilities-in-hata-135296914.html',
+      date: '2025-06-23',
+      note: 'Vidhayak Mohan Verma ne Samudayik Swasthya Kendra Hata me Bharatiya Jan Aushadhi Kendra aur Block Public Health Unit ka udghatan kiya — kam keemat par health test, blood jaanch aur generic dawaiyan milengi. Solo vidhayak event (CMO sahit adhikari maujood). Status: UDGHAATAN/poora. Date (est.): report me "Somvaar" — 23 Jun 2025 somvaar tha (crawl-stamp se milan).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Nagar Palika Hata (3 cr) aur Sukrauli (1 cr) ke liye 4 cr vikas-rashi swikrit — vidhayak ke prastaav par',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/kushinagar/tharuadih/news/a-big-gift-to-hata-assembly-136713936.html',
+      date: '2026-03',
+      note: 'Mukhyamantri Nagriya Alpviksit evam Malin Basti Vikas Yojana ke tahat shasan ne vidhayak Mohan Verma ke prastaav par Hata Nagar Palika ko 3 karod aur Sukrauli Nagar Panchayat ko 1 karod swikrit kiya (sadak-naali-streetlight kaam); mantri A.K. Sharma ko vidhayak ka patra; DM ko DPR dene ke nirdesh. Status: SWIKRITI stage; nirmaan shuru hone ki report nahi mili. Date (est.): "7 mahine pehle" se ~Mar 2026.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Hata-Deoria marg (5 km) chaudikaran ka bhoomipoojan — 17.8 cr; Sansad ke saath sanyukt karyakram',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Mar 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kushinagar/widening-of-hata-deoria-road-begins-with-foundation-stone-laying-kushinagar-news-c-205-1-sgkp1019-156341-2026-03-14',
+      date: '2026-03-14',
+      note: 'Hata-Deoria jila marg ke chainage 22.00–27.00 tak ~5 km two-lane vid paved shoulder chaudikaran/sudridhikaran ka bhoomipoojan 14 Mar 2026 ko hua; Sansad Vijay Dubey aur vidhayak Mohan Verma ne SANYUKT roop se shilanyas kiya (Sansad ka district-event nahi — vidhayak saha-karta the, isliye note ke saath shamil). Laagat ~17.80 karod; PWD ne 6 mahine ka lakshya bataya; report me "nirman karya shuru ho gaya" likha hai. Status: NIRMANADHEEN (bhoomipoojan + kaam shuru).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Hata tehsil me 7 sadkon ko 3.25 cr ki vittiya swikriti — vidhayak ki pahal par',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Mar 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kushinagar/seven-roads-will-be-constructed-financial-approval-received-from-the-government-kushinagar-news-c-205-1-ksh1030-156561-2026-03-19',
+      date: '2026-03-19',
+      note: 'Vidhayak Mohan Verma ki pahal par Hata tehsil ki 7 grameen sadkon (Majhna nala–Jolhupur–Basantpur, Hata–Pipraich–Haskhor sampark, Naumunda–Bhishwa Mathwalgiri, Padri Khas–Kakwal Sivan, Laxmipur sampark, Hata–Kaptanganj–Parsauni Bhiswa sampark, Kaptanganj–Jhanga–Geedha Tola sampark) ko shasan se ~3.25 karod ki vittiya swikriti mili; kaam "jald shuru" ki ummeed. Status: SWIKRITI stage; nirmaan shuru hone ki report nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Rampur Sohrauna me ICC sadak ka udghatan; 65 lakh ke samudayik hall ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/kushinagar/tharuadih/news/development-work-in-rampur-sohrauna-of-kushinagar-135227682.html',
+      sourceLabel: 'Dainik Bhaskar, Jun 2025 (est.)',
+      date: '2025-06',
+      note: 'Hata vikas khand Sukrauli ke Rampur Sohrauna me Sansad Vijay Dubey aur vidhayak Mohan Verma ke sanyukt karyakram me 65 lakh lagat se samudayik hall ka SHILANYAS hua aur ek ICC sadak ka UDGHAATAN hua (vidhayak ne hall ki laagat 65 lakh batayi). Status: hall = shilanyas; ICC sadak = poori/udghatan. Note: Sansad bhi sanyukt roop se shaamil the — vidhayak sirf maujood nahi, karta the. Date (est.): crawl-stamp se ~Jun 2025.',
+      period: '2022-2027',
+    },
+    // REJECTED — Mohan Verma: Bhaskar "Sukrauli PHC nirikshan" — sirf nirikshan/nirdesh; koi poora kaam ya shilanyas nahi.
+    // REJECTED — Mohan Verma: Swatantra Prabhat sewa-sankalp abhiyan — vidhayak ne sirf mareezon ko phal baante (event upasthiti).
+    // REJECTED — Mohan Verma: Bhaskar Chhath ghat poojan — dharmik karyakram me upasthiti; koi kaam nahi.
+    // REJECTED — Mohan Verma: Amar Ujala Hetimpur (Deoria) prashasnik bhavan lokarpan — Deoria ke vidhayak Surya Pratap Shahi ka event; Mohan Verma sirf maujood.
+    // REJECTED — Mohan Verma: YouTube "Hata me 3 varshon ke vikas karya" interview — YouTube-only, rule ke mutabik reject.
+  ],
+// Kushinagar district (UP) batch 2 — researched 2026-10-13
+// Entries: 8 (Pathak 4, Pandey 4). Rejects: 13 (neeche trail)
+//
+// REJECT TRAIL:
+// PN Pathak — (1) newsaddaa.in "do interlocking sadkon ka lokarpan" (₹28.25L, 706 din purana) — aggregator/low-credibility source; (2) newsaddaa.in "samudayik bhawan + 4 sadken" (₹61.55L) — wahi aggregator; (3) YouTube "Netaji pratima anavaran" (Rotary Club) — YouTube-only; (4) Patrika: UP SI exam 'Pandit' tweet — political statement/maang, vikas karya nahi; (5) News18/newstrack: Brahmin MLA sahbhoj controversy — political vivad, karya nahi; (6) IndiaTimes: ₹424cr/278 projects (CM Yogi) — Tamkuhi Raj/Fazilnagar, CM-level event, MLA ki concrete bhoomika nahi; (7) indianmasterminds: ₹525cr Kushinagar projects — wahi kaaran.
+// V.N. Pandey — (1) YouTube "716 crore pul / Bhainsaha pakka pul" — YouTube-only; (2) YouTube "sadan me mudda (Chithauni chini mill, swasthya kendra, Belvaniya pul)" — YouTube-only + sirf maang; (3) Bhaskar "janamdin par phal vitran" — samarthakon ka welfare event, MLA ki concrete bhoomika nahi; (4) newsaddaa.in "farzi FB ID" — aggregator + karya nahi; (5) ETV Bharat (Aug 2024): NISHAD MLAs ko by-election duty — party assignment, karya nahi; party-switch ka koi saboot NAHI (2024 me bhi NISHAD me the); (6) ksnsamachar.com: 2009 Sec-144 case withdrawal — weak source; myneta affidavit me 3 cases pehle se recorded.
+'panchanand-pathak-p-n-pathak': [
+  {
+    title: 'Narkatiya (Kaptanganj/Sohsa) me vidhayak nidhi (FY 2024-25) se bani CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/sohsa/news/kushinagar-mla-inaugurates-cc-road-development-claims-136969743.html',
+    date: '2026-01',
+    note: 'Status: completed aur inaugurated (lokarpan). Narkatiya gaon me Maldhani ki dukaan se Rajan Dubey ke ghar tak CC sadak, FY 2024-25 ki vidhayak nidhi se nirmit; MLA ne udghatan kiya. Page par exact date nahi thi (body me "shanivaar" + "6 mahine pehle" — crawl ~Jul 2026 ke hisab se Jan 2026), isliye (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bohrapur me samudayik bhawan (₹9.74 lakh), Dharampur Khurd me CC road (₹9 lakh) aur Dighwa Bujurg me Pt. Dwarka Prasad smriti dwar (₹4.20 lakh) ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 20 Jan 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kushinagar/mla-inaugurates-community-building-cc-road-and-smriti-dwar-kushinagar-news-c-205-1-ksh1006-130604-2025-01-21',
+    date: '2025-01-20',
+    note: 'Status: completed aur inaugurated (lokarpan). Kul lagat ~₹26.94 lakh, vidhayak nidhi se nirmit teen karya; MLA ne vedic mantra-uchcharan ke saath udghatan kiya. Page URL me date 2025-01-21 hai lekin body me "somvaar" likha hai (20 Jan 2025 = somvaar), isliye event date 2025-01-20 li gayi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kushinagar nagar ke malin bastiyon me 12 CC sadkon aur nali-nirman ke liye ₹2 crore swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 31 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-p-n-pathak-secures-funding-for-12-cc-roads-in-kushinagar-assembly-201769836584374.html',
+    date: '2026-01-31',
+    note: 'Status: sanction/approval — kaam abhi shuru nahi hua. UP Rajya Nagariya Vikas Abhikaran (SUDA) ki Malin Basti Vikas Yojana ke antargat MLA ke prastav par ₹2 crore ki swikriti; Nagar Palika Parishad Kushinagar ke ward 26, 15, 27 aur 6 me 12 CC sadken + unse sati nali. Article par exact page-date (31 Jan 2026) thi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Daroga ko dhamkane ka viral video — "nayi naukri hai, sahi se karo nahin to nipta dunga" (vivaad/negative)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News18 Hindi, Oct 2025',
+    sourceUrl: 'https://hindi.news18.com/news/uttar-pradesh/kushinagar-why-bjp-mla-pn-pathak-threatens-sub-inspector-in-kushinagar-ws-kl-9692583.html',
+    date: '2025-10',
+    note: 'Vivaad (negative): Ramkola thana kshetra ke Badhara Laxmipur gaon ke Siktiya tola nivasi Daddan Patel ki sandigdh maut (parivar ka daava: hatya ko haadse ka roop diya gaya; police FIR nahi likh rahi thi) par peedit parivar se milne pahunche MLA ka kshetriya daroga ko dhamkane wala ~2:10 min ka video viral hua — "nayi naukri hai tumhari... main sadharan vidhayak nahin hoon, kahin bhi posting kara kar niptwa dunga". News18 (reporter byline Amit Tiwari ke saath) ne report kiya. Status: aarop/vivad — video ki pramanikta ki swatantra pushti nahi; MLA ke khilaf kisi FIR/case ki khabar article me nahi; MLA ka paksh article me report nahi hua. Article First Published 3 Oct 2025 (page header me 6 Feb 2026 ki tareekh bhi dikhi — ambiguous), isliye month-level date.',
+    period: '2022-2027',
+  },
+],
+'viveka-nand-pandey': [
+  {
+    title: 'Nebua Naurangia kshetra me 5 grameen sadkon (₹8.75 crore) ka sanyukt shilanyas (MP Vijay Dubey ke saath)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 23 May 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/nebuanorangia/news/kushinagar-rural-roads-shilanyas-mp-mla-vijay-dubey-photo-138009192.html',
+    date: '2026-05-23',
+    note: 'Status: shilanyas — nirman shuru nahi. Sauraha Khurd se Singha regulator, Nebua se Kerwaniya, Parsiya se Sirsiya aadi 5 sadken; shilanyas karyakram Charigharwa me, MP Vijay Kumar Dubey aur MLA Vivekanand Pandey ne SANYUKT roop se shilanyas kiya. MLA ki bhoomika = sanyukt shilanyas (ye MP ka akela kaam nahi — joint entry hai). Page par exact date nahi thi (body me "shanivaar" + "2 mahine pehle"; index me ~143 din pehle ka update — dono 23 May 2026, shanivaar, ki taraf ishara), isliye (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nepal border sadak (Banjaripatti se Chanda Gularbhar, ~11 km) chaodikaran-sudridhikaran (₹28.40 crore) ka sanyukt bhoomipujan (MP ke saath)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 7 Jul 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar//story-road-expansion-and-strengthening-launched-in-kushinagar-by-mp-vijay-kumar-dubey-and-mla-vivekanand-pandey-201751860719799.html',
+    date: '2025-07-06',
+    note: 'Status: bhoomipujan + shilanyas; article ke mutabik karya shuru ho gaya hai. Padrauna se Nepal border Jhulanipur (Gandak nahar patri) ke beech Khadda kshetra ka ~11.450 km single stretch two-lane hoga; sadak Maharajganj jile (Chanda Gularbhar) tak jaati hai. MP Vijay Kumar Dubey aur MLA Vivekanand Pandey ne SANYUKT bhoomipujan kiya; article me "sānsad va vidhāyak ke prayās se" swikriti ka ullekh hai — MLA ki concrete bhoomika sanyukt prayas + shilanyas me hai. Article 7 Jul 2025 me "ravivaar" (6 Jul 2025) ko karyakram hua bataya gaya hai, isliye event date 2025-07-06.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Fatkdauna (₹80.81 lakh), Dargauli (₹65 lakh) aur Bharpatiya (₹65 lakh) me samudayik bhavanon ki swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 31 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-community-centers-approved-for-integrated-development-in-kushinagar-by-mla-vivekanand-pandey-201774924937416.html',
+    date: '2026-03-31',
+    note: 'Status: sanction/approval (swikriti) — nirman shuru nahi. MLA ki pehal/maang par Ekkrit Vikas Yojana ke antargat teen gram sabhaon me samudayik bhavan: Fatkdauna ₹80.81 lakh, Dargauli ₹65 lakh, Bharpatiya ₹65 lakh. Article par exact page-date (31 Mar 2026) thi. Kshetra ke logon ne CM, MP Vijay Dubey aur MLA — teenon — ko dhanyavaad diya, lekin pehal/maang article me MLA ki batayi gayi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Khadda diyara (reta) kshetra me 5 sadkon ke liye PWD dwara dhan-avmukt — aazadi ke baad pehli baar',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/khadda/news/khadda-diara-roads-construction-approval-viveshanand-pandey-137439531.html',
+    date: '2026-03',
+    note: 'Status: swikriti/dhan-avmukt — nirman shuru nahi. Article ke mutabik MLA ke "athak prayason" ke baad PWD ne diyara kshetra me 5 sadkon ke liye fund release kiya; sthaniya logon ne isse reta kshetra ki dashkon purani samasya ke samadhan ki aasha jatai (barsaat/badh me gaon ka sampark kat jata tha; marijon ko aspatal pahunchane me dikkat). Page par exact date nahi thi ("4 mahine pehle" — crawl ~Jul 2026 ke hisab se mid-Mar 2026), isliye (est.).',
+    period: '2022-2027',
+  },
+],
+// Kushinagar district (UP) works batch — researched 2026-10-13
+// Slug verification: teenon slug uttar_pradesh.ts me mile aur naam/seat/party EXACT match (Padrauna / Tamkuhi Raj / Fazilnagar, sab BJP).
+// NOTE — naam ka variation: local media MLA ko "Manish Jaiswal" ya "Manish Kumar Jaiswal" likhta hai; affidavit me "Manish Kumar Alias Mantu".
+// "मनीष जायसवाल उर्फ मंटू" (Safal Samachar) se identity confirm — teenon naam EKE hi vyakti ke hain. Galat slug me koi entry nahi jodi gayi.
+// Asim Kumar ko media "डॉ. असीम कुमार" / "डॉ. असीम कुमार राय" likhta hai — medical-service background (affidavit) se match; wahi vyakti.
+// REJECTED TRAIL:
+// - LiveHindustan (Fazilnagar 50-bed field hospital lokarpan): mukhya atithi MP Shashank Mani Tripathi the, MLA sirf "vishisht atithi" — merely-present, reject.
+// - Times of Kushinagar blogspot (raktadan shivir, MP + MLA): MP-led joint event, sirf maujoodgi — reject.
+// - IndiaTimes (CM event, ₹424cr / 278 projects, Jun 2026): CM ka credit, MLA kewal manch par maujood — reject.
+// - YouTube Lokdarpan podcast (Dr Asim Kumar: smart classes ₹25L, modular OT, etc.): YouTube-only, koi news corroboration nahi — reject.
+// - YouTube (krishi mahavidyalaya Babhnauli daava): YouTube-only — reject.
+// - vftnews.co.in / newsrbm.blogspot / makkhabar.blogspot (Padrauna road/pul shilanyas): low-credibility/aggregator-blog; wahi events Amar Ujala / Safal Samachar se cover hue — reject.
+// - Arth Parkash (Fazilnagar ka naam Pawagarh): CM ki ghoshna, MLA merely present — reject.
+// - Dailyhunt/public.app links mile par open nahi kiye — aggregator, rule ke tahat reject.
+
+'manish-kumar-alias-mantu': [
+  {
+    title: 'Dhur Chhapra Nauk Tola and Dagaha sampark marg ka shilanyas (Vishunpur block)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 09 Feb 2026',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kushinagar/the-mla-laid-the-foundation-stone-for-the-road-kushinagar-news-c-205-1-deo1003-154351-2026-02-09',
+    date: '2026-02-08',
+    note: 'Vikas khand Vishunpur ke gram sabha Dhur Chhapra ke Nauk Tola sampark marg va Dagaha sampark marg ke nirmaan ka shilanyas vidhayak ne kiya; PWD (Lok Nirman Vibhag) ki 2025-26 yojana. Status: shilanyas/nirmaan shuru (poora nahi). Event ravivaar 08 Feb 2026 ko (date command se Sunday verify); URL me publication date 09 Feb 2026 hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Soharauana gram sabha me naye vidyut transformer ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/bansi/news/padrauna-mla-inaugurates-transformer-soharauana-village-137021568.html',
+    date: '2026-01',
+    note: 'Soharauana gram sabha me naye transformer ka vidhayak ne feeta kaatkar lokarpan kiya; graminon ki maang par lagaya gaya — bijli katoti/low-voltage se rahat ka daava. Status: lokarpan (installation poora + inauguration). Page par exact date nahi thi (byline "6 mahine pehle"; search-index last-update ~263 din pehle), isliye Jan 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Minkoura Vin Toli me naale par 2x5m span RCC puliya ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Safal Samachar, Jan 2026 (est.)',
+    sourceUrl: 'https://safalsamachar.in/270409-2/',
+    date: '2026-01',
+    note: 'Vikas khand Vishunpur ke Minkoura gaon ke Vin Toli me naale par RCC puliya ka shilanyas — Purvanchal Vikas Nidhi (jilansh) 2025-26, karyadayi sanstha Gramin Abhiyantran Vibhag Kushinagar. Gram pradhan ke anusaar lambe samay se lambit maang poori hui. Status: shilanyas (nirmaan shuru, poora nahi). Page par date nahi thi (index last-update ~264 din pehle), isliye Jan 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhaskar interview me vidhayak ke vikas-daave: medical college, critical care centre, nursing college, ₹225cr jila jail, ₹20cr model vidyalaya',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/news/padrauna-vidhan-sabha-development-work-manish-jaiswal-interview-137448158.html',
+    date: '2026-03',
+    note: 'Dainik Bhaskar ke interview me vidhayak ka daava: "vidhayak banne ke baad" Padrauna me medical college, critical care centre, nursing college ki sthapana; ~₹225 crore se jila jail nirmaan; ₹20 crore se model vidyalaya; bus stand va mandi taiyaar; 33 kV sub-station va transformer kshamta badhi. Status: dawa — interview-based claim, swatantra roop se verify nahi. Caveat: medical college jaisi kuch pariyojnaon ki ghoshna vidhayak ke karyakal (Mar 2022) se pehle ki ho sakti hai. Page par date nahi thi (byline "4 mahine pehle"; index last-update ~211 din pehle), isliye Mar 2026 (est.).',
+    period: '2022-2027',
+  },
+],
+'asim-kumar': [
+  {
+    title: 'Tamkuhi Raj ke 27 gramin sadkon (40 km) ki marammat-navinikaran ko ₹6 crore ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kushinagar/tamkuhi-raj/news/tamkuhi-raj-roads-cm-yogi-adityanath-mla-asim-kumar-6cr-137093827.html',
+    date: '2026-02',
+    note: 'Vidhayak ke prastav par (shasan ko patra + CM se vyaktigat mulakat) 27 gramin sadkon (lagbhag 40 km) ke nirmaan/navinikaran hetu ~₹6 crore swikrit; ₹1.5 crore jaari. LiveHindustan ne wahi khabar alag report me confirm ki. Status: swikriti (kaam shuru/poora nahi). Page par exact date nahi thi (byline "5 mahine pehle"; index last-update ~254 din pehle), isliye Feb 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tamkuhi Raj ke 12 gramin sampark margon ke nirmaan ko swikriti — April me kaam shuru ki sambhavna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, Apr 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-road-construction-approved-in-tamkuhi-raj-relief-for-local-residents-201775011007893.html',
+    date: '2026-04',
+    note: 'Vidhayak ke prayason se shasan ne lagbhag ek darjan kshatigrast/badhaal gramin sadkon ke nirmaan ki swikriti di; CM se mulakat karke maang rakhi thi. Status: swikriti (report ke samay nirmaan April me shuru hona tha). Page par date nahi thi (index ~195 din pehle), isliye Apr 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tamkuhi Raj me 7 sadkon (11.10 km) ko ₹12.28 crore ki swikriti, pehli kist ₹4.01 crore jaari',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, Aug 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-road-connectivity-boost-in-tamkuhi-raj-assembly-area-approved-201787689055864.html',
+    date: '2026-08',
+    note: 'Mukhyamantri Gram Sadak Yojana (FY 2026-27) ke tahat 7 sadkon (Salemgarh-Patharwa-Basdila Buzurg, Ramkola chatti-Dubha, Bakulhawa chaurahe-Bihar sampark marg aadi; kul 11.10 km) ko prashasanik/vittiya swikriti; ₹12.28 crore me se pehli kist ₹4.0164 crore jaari. Status: swikriti + pehli kist jaari (kaam shuru nahi). Page par date nahi thi (index ~48 din pehle), isliye Aug 2026 (est.).',
+    period: '2022-2027',
+  },
+],
+'surendra-kumar-kushwaha': [
+  {
+    title: 'Fazilnagar me CM Gram Sadak Yojana se 5 sadkon ka ~₹11 crore me kayakaalp',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, Aug 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-11-crore-road-development-in-fazilnagar-cm-gram-sadak-yojana-201787714584705.html',
+    date: '2026-08',
+    note: 'Vidhayak ke prayas se Fazilnagar kshetra ki 5 sadkon (Amarwa Khurd Durga mandir-Gagalwa ~1.2 km, Sapaha-Tamkuhi marg-Jamuan ~3.5 km, Kasya-Sapaha marg-Beili ~1 km, Jokwa-Banjaria marg-Pandey Patti sampark marg ~1.7 km sahit) ka nirmaan swikrit. Status: nirmaan swikriti (kaam shuru/poora nahi). Page par date nahi thi (index ~48 din pehle), isliye Aug 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Fazilnagar-Baghochhhat marg ka 1.4 km hissa four-lane — ₹20 crore swikrit, ₹6 crore jaari',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, Sep 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-government-approves-20-crore-for-four-lane-expansion-of-fazilnagar-baghochghat-road-201788233454466.html',
+    date: '2026-09',
+    note: 'Dharmarth yojana ke tahat 1.4 km hisse ke chaudi-karan/sudridhi-karan ko ₹20 crore ki prashasanik/vittiya swikriti, ₹6 crore avamukt; report ke anusaar vidhayak ke prayas se swikriti mili. Paryatan drishti se mahatvapurna (CM ne Fazilnagar ka naam Pawagarh karne ki ghoshna ki hai — Jain/Buddh dharmik sthal). Status: swikriti + ₹6 crore jaari. Page par date nahi thi (index ~42 din pehle), isliye Sep 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Fazilnagar kshetra ki 11 jarjar sadkon (8.9 km) ka navinikaran — ₹2.08 crore swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 14 Oct 2025',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/kushinagar-kushinagar-road-development-11-roads-to-be-revamped-40009339.html',
+    date: '2025-10-14',
+    note: 'Vidhayak ne prastav bheja tha; 8.9 km ki 11 sadkon (Semra Hardopatti, Mathiya Bhokariya, Beni Bhar, BCT-Lohar Patti, Kokilpatti-Pandey Tola aadi) ke liye ₹208.52 lakh swikrit, pratham kist ₹104.20 lakh avamukt. Status: swikriti + pehli kist (nirmaan shuru nahi). Article par date printed: 14 Oct 2025 (Tuesday verify).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Gurwalia-Dudahi marg par school ke paas gaddha — vidhayak ke nirdesh par PWD ne turant bharwaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, Sep 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kushinagar/story-school-road-accident-due-to-pothole-in-kushinagar-immediate-action-taken-by-mla-201788933060047.html',
+    date: '2026-09',
+    note: 'Vijaypur parishadiya vidyalaya ke paas gaddhe me cycle-sahit chhatra girne par vidhayak ne PWD ko nirdesh diye; JE mauke par pahunche aur gaddha turant bharwaya gaya — school bachchon va rahgeeron ko rahat. Status: poora (kaam sampann). Page par date nahi thi (index ~34 din pehle), isliye Sep 2026 (est.).',
+    period: '2022-2027',
+  },
+],
 };
