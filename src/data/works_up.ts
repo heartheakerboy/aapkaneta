@@ -11284,4 +11284,305 @@ export const upWorks: Record<string, Work[]> = {
 // - ourneta.com me election affidavit ke 6 criminal cases ka ullekh — affidavit data hai (profile me myneta record se covered); koi news-reported allegation/case nahi — negative entry nahi.
 // - Negative: koi credible allegation/case news nahi mili — zero negative entries.
 
+
+// ---- Mau district batch (researched 2026-10-13) ----
+// Madhuban (Mau) - Ram Bilash Chauhan (BJP) | news-verified works, tenure Mar 2022+
+// News spelling variant used by press: "Ramvilas Chauhan".
+// Trail: Hindi+English news search 2022-2026 (shilanyas/udghatan/vidhayak-nidhi/sadak/paani/school/aspataal).
+// 3 entries accepted; 8 rejected below. No credible negative reporting found.
+'ram-bilash-chauhan': [
+  {
+    title: 'Dohrighat-Madhuban marg (20.96km) chaudikaran ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, Mar 2026',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/mau/work-on-widening-and-construction-of-dohrighat-madhuban-road-begins-mau-news-c-295-1-svns1028-142352-2026-03-17',
+    date: '2026-03',
+    note: '20.96km, Rs ~61cr, PWD; MLA ne JCB chalakar kaam shuru karwaya. 1-saal ka court vivad MLA ke prayas se suljha (Hindustan, Feb 2026). Status: shilanyas (nirman jaari).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Madhuban me 39 sadako ke sudhar ke liye Rs 77cr svikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/mau/story-madhuban-mla-secures-77-crores-for-repairing-39-roads-in-twohri-ghat-201767546884451.html',
+    date: '2026-01',
+    note: '39 sadak, 68.45km; vidhayak ke prastav par shasan se budget svikrit; Feb 2026 se kaam. Status: sanction (tender stage).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sharda Sahayak Khand 32 nahar se Primary School Reyav tak 300m sadak poorn',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Nov 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/mau/story-infrastructure-development-madhuban-mla-ramvilas-chauhan-inspects-newly-built-road-201763919354389.html',
+    date: '2025-11',
+    note: 'Vidhayak ke prastav par 300m sadak ka nirman poorn; vidhayak ne nirikshan kiya. Status: completed.',
+    period: '2022-2027',
+  },
+],
+
+// Rejected (research trail):
+// (1) Nemdaad jan chaupal (Hindustan, Oct 2026) - claims-only ("kai sadak ke kaam"), no verifiable work; reject.
+// (2) Road safety month inauguration (Bhaskar, Jan 2026) - event presence only; reject.
+// (3) Shilapat controversy, Dhanauli Rampur (Amar Ujala, Nov 2025) - plaque-politics story; 200m interlocking
+//     vidhayak-nidhi work (Rs 11L) documented but MLA attribution contested (uska naam hataya gaya); reject as work entry.
+// (4) Hot-cooked-food yojana udghatan + 129 anganwadi bhavan shilanyas (Satya Savera) - district-wide sarkari
+//     scheme, MLA only inaugurated locally; weak attribution; reject.
+// (5) Brihad rozgar mela (Youth India Times, Mar 2023) - presence/inauguration only; reject.
+// (6) Flood relief kit distribution, Devaranchal (ppkhojikhabar, Sep 2026) - event, not development work; reject.
+// (7) Mandi samiti inspector transfer (Hindustan, Apr 2025) - administrative grievance redressal, not works category; reject.
+// (8) CM Yogi 114-project launch, Gandhi Maidan Mau (Patrika) - CM-level statewide projects, not MLA-attributable; reject.
+// Ghosi (Mau) - Sudhakar Singh (SP) works batch, researched 2026-10-13.
+// TENURE NOTE: Sep 2023 upchunav se jeete, 20 Nov 2025 ko nidhan — karyakal Sep 2023-Nov 2025.
+// Purane MLA Dara Singh Chauhan ke kaam credit nahi diye gaye.
+// Mukhya aadhaar: Dainik Jagran ka karyakal report card (Sep 2026) + Dainik Bhaskar (Brigadier Usman dwar) + PTI (1986 case).
+'sudhakar-singh': [
+  {
+    title: 'Kopaganj-Kasara marg jeernoddhar-chaudikaran ke liye Rs 2 crore swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Jagran ke karyakal report card ke anusar Sep 2023-Nov 2025 karyakal me Kopaganj-Kasara marg ke jeernoddhar aur chaudikaran ke liye Rs 2 crore ki rashi swikrit karayi. Status: swikrit — shilanyas/nirman purnata ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jaisinghpur-Hathini pul approach marg aur Mirpur-Ekauna marg ka nirman',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card me dono marg nirman karya ke roop me ullekh. Status: nirman ka ullekh — shilanyas/udghatan/purnata ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: '50 gaon ke sampark margon ki marammat ke liye PWD ko Rs 10 crore swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card ke anusar kshetra ke 50 gaonon ko jodne wale sampark margon ki marammat ke liye lok nirman vibhag (PWD) ko Rs 10 crore ki rashi swikrit karayi. Status: swikrit — nirman pragati ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Vibhinn gaon me Rs 3 crore ki interlocking sadak ka nirman',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card me Rs 3 crore ki lagat se vibhinn gaonon me interlocking road nirman ka ullekh; "aadhe se adhik karya sampadit ho gaye the" ka daava. Status: nirman ka ullekh — karyawise purnata ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Shaheed Brigadier Usman smriti dwar, Bibipur/Khemrajpur (Ghosi-Madhuban marg)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 3 Jul 2025 (shilanyas)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/mau/akolhimubarakpur/news/memorial-gate-in-the-name-of-martyr-brigadier-usman-136425265.html',
+    date: '2025-07-03',
+    note: 'Vidhayak nidhi se nirmit smriti dwar: 3 Jul 2025 ko Brigadier Usman ki punya-tithi karyakram me Akolhi chatti par shilanyas board ka udghatan (MP Rajiv Rai bhi maujood). Sinchai vibhag ki zameen par anumati na milne se dwar Khemrajpur (Ghosi-Madhuban marg) par sthapit; Bhaskar ne dwar ko "sthapit kiya gaya hai" likha. Status: nirmit — purna.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sw. Kalpnath Rai smriti dwar (Semri Jamalpur) sahit 8 swagat/pravesh dwar',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card ke anusar nirmit: Semri Jamalpur me sw. Kalpnath Rai swagat dwar, Bibipur me Brigadier Usman dwar, Prabhu Shri Ram dwar, Nishad Raj Guh dwar, Maharaja Suhel dwar, Prithviraj Chauhan pravesh dwar, Baba Saheb Ambedkar dwar, Netaji Mulayam Singh dwar. Status: report card me nirmit ke roop me ullekh. (Kalpnath Rai dwar ka 14 Sep 2025 ka shilanyas sirf public.app video me mila — source policy par reject, isliye entry Jagran par aadharit.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sarvajanik sthalon par Rs 80 lakh ke water cooler',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card me Rs 80 lakh ki lagat se vibhinn sarvajanik sthalon par water cooler lagwane ka ullekh. Status: report card me nirmit ka ullekh — karyawise purnata ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: '15 gaon me Rs 90 lakh ke open gym',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card me 15 gaonon me Rs 90 lakh ki lagat se open gym lagwane ka ullekh. Status: report card me nirmit ka ullekh — karyawise purnata ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Parishadiya vidyalayon me vidhayak nidhi se desk-bench ki vyavastha',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card ke anusar vidhayak nidhi se parishadiya vidyalayon me desk aur bench ki vyavastha karayi; shikshan sansthanon ki jagah focus badhaal sadakon ke jeernoddhar par raha. Status: report card me karya hone ka ullekh. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: '100-bed Tadiyanw aspataal me janch machines/upkaran ke liye shasan se Rs 3 crore swikrit',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card ke anusar 100-bed ke Tadiyanw aspataal me janch machines aur anya chikitsakeeya upkaranon ki khareed ke liye shasan se Rs 3 crore ki rashi swikrit karayi. Status: swikrit — khareed/purnata ki alag khabar nahi mili. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Puraghat me vidhayak nidhi se 30 janajagah ka nirman',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-ghosi-mla-report-card-ghosi-development-hidden-by-mla-death-40367722.html',
+    date: '2026-09-09',
+    note: 'Report card ke anusar vidhayak nidhi se Puraghat me 30 janajagah (antim-sanskar sthal) ka nirman karaya. Status: report card me nirman ka ullekh. (Karya ki swatantra tithi khabar me nahi; ye report card ki tithi hai.)',
+    period: '2022-2027',
+  },
+  {
+    title: '1986 ke purane mamle me Mau MP/MLA court dwara faraar (absconder) ghoshit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI/newsdrum, 3 Jul 2024',
+    sourceUrl: 'https://www.newsdrum.in/national/court-declares-up-mla-absconder-9459781',
+    date: '2024-07-03',
+    note: 'Negative entry. Aarop: 1986 me Dohri Ghat ke 400 KV vidyut substation par bijli-kati ke virodh pradarshan ke dauran sarkari kaam me badha, todphod aur adhikariyon se durvyavahar; 25 Jul 2023 ko court ne absconder ghoshit kiya. Rebuttal/status: MLA chune jaane ke baad 4 Jun 2024 ko unke counsel ne warrant sahi se serve na hone ka tark dekar aadesh radd karne ki yachika di; sarkari counsel ke anusar MLA ko karyavahi ki poori jaankari thi; court ne stay dene se mana kiya, sunwai 10 Jul par taya hui. Mukadma MP/MLA court me jari tha.',
+    period: '2022-2027',
+  },
+],
+
+// ---- Research trail (rejected / excluded) ----
+// REJECT: public.app video "Semri me Kalpnath Rai smriti dwar ka shilanyas" (14 Sep 2025) — public.app-only source, policy par reject; wahi dwar Jagran report card me nirmit ke roop me cover hai.
+// REJECT: Free Press Journal "CM Yogi gifts 114 projects worth Rs 392 crore to Mau" (May 2026) — rajya sarkar ke karyakram the, Sudhakar Singh ki koi bhumika khabar me nahi — weak/no attribution, reject.
+// REJECT: TOI/HT/Indian Express/Sabrang Ghosi bypoll coverage (Sep 2023) — chunav news, koi vikas karya nahi — reject.
+// REJECT: News18 obituary me "2 dozen se adhik mukadme" ka ek-line ullekh — case-wise details nahi — standalone entry nahi banayi.
+// REJECT: dotookmedia/Patrika nidhan coverage — nidhan ki khabar hai, kaam nahi — reject.
+// REJECT: Nidhan par shok-sandes (Akhilesh Yadav, Brajesh Pathak aadi) — karya nahi — reject.
+// NOTE: Jagran report card me "28 March ko shapath" likha hai, lekin PTI ke anusar shapath 18 Sep 2023 ko hui thi — karya-daawe isse prabhavit nahi hote.
+// Rajendra Kumar (SP), Muhammadabad-Gohna (SC), Mau — research 2026-10-13
+// Identity: S/o Ram Briksh, SP, elected Mar 2022 (myneta candidate_id=4604).
+// Trap avoided: Pratapgarh ke BJP MLA Rajendra Kumar MAURYA ki khabrein (Paria nala pull, Rs 4.82cr, Hindustan Pratapgarh) galat na jodna — wo alag neta hain.
+// Rejected: (1) Bhaskar skill-dev mission inauguration (Aug 2026) — UP Skill Development Mission ka udghatan, MLA ne sirf fita kata; weak attribution, kaam nahi.
+// (2) Hindustan 3.87cr road repair (Dec 2025) — prastav MLC Vikrant Singh Rishu ka, Rajendra Kumar se attribution nahi.
+// (3) Hindustan bus-station maang — vidhan sabha me maang/prastav hi tha, kaam nahi.
+// (4) news18/Local18 Galibpur road (Jun 2026) — MLA ne kharab sadak ka kaam rukvaya; nirikshan/quality-complaint, kaam nahi.
+// (5) Amar Ujala PDA chaupal (Aug 2025) — political event, koi vikas kaam nahi.
+// (6) CM Yogi ke 114 Mau projects (Rs 392cr, 2026) — sarkari kaam, MLA-attribution nahi.
+'rajendra-kumar-up': [
+  {
+    title: 'Ansar Nagar (Ward 3) me vidhayak nidhi se 250 KVA transformer ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Samachar Tak, Mar 2024',
+    sourceUrl: 'https://samachartak.co.in/vidhayk-nidhi-se-lge-250-kevee-t/',
+    date: '2024-03',
+    note: 'Mohalla Jamin Baramadpur, Ansar Nagar Ward 3 (Nagar Panchayat Muhammadabad Gohna); bunakar-bahul area me low-voltage samasya. Lagbhag Rs 80,000 vidhayak nidhi se 250 KVA transformer lagaya; udghatan vidhayak ne kiya. Status: poorn (udghatan ho chuka).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Vidhayak nidhi + Purvanchal Vikas Nidhi se sadak, interlocking, highmast light, RO plant, school me extra kamre — MLA ke interview dawe',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar (interview), Jun 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/mau/news/muhammadabad-sp-mla-rajendra-kumar-claims-big-win-2027-137554281.html',
+    date: '2026-06',
+    note: 'Dainik Bhaskar interview me MLA ka dawa: vidhayak nidhi aur Purvanchal Vikas Nidhi se sadak nirman, gaon me interlocking, zaroorat-jagah highmast light, kai jagah RO plant, schools me extra kamre. Specific dawe: Loha Tikkat gaon se ~1km pitch road; Paliya, Paligarh, Tenduli me sadak + interlocking; Devlas ke paas Chauhan basti me interlocking. Status: dawa (alag news-verification nahi mili). Unhone Tons nadi Bandi ghat pull ko adhura kaam bataya — ye sirf maang hai, kaam nahi.',
+    period: '2022-2027',
+  },
+],
+'abbas-ansari': [
+  {
+    title: 'Gram panchayaton me high-mast light karya',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-mau-sadar-mla-report-card-widening-action-plan-ready-dream-of-freedom-from-jams-not-realized-40361986.html',
+    date: '2026-09',
+    note: 'Rs 1.72cr, vidhayak nidhi, vibhinn gram panchayaton me high-mast lights. Status: poorn (Jagran report-card me verified; vidhayak jail me rehte hue bhi nidhi ka istemal hua).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhadesra interlocking road (Muniraj Singh ke makan se Tilyata tak)',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-mau-sadar-mla-report-card-widening-action-plan-ready-dream-of-freedom-from-jams-not-realized-40361986.html',
+    date: '2026-09',
+    note: 'Rs 22.60 lakh, vidhayak nidhi. Santosh Singh ke tubewell hote hue Tilyata tak interlocking karya. Status: poorn (Jagran report-card).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Masdi (Pardaha block) gram panchayat me interlocking karya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-mau-sadar-mla-report-card-widening-action-plan-ready-dream-of-freedom-from-jams-not-realized-40361986.html',
+    date: '2026-09',
+    note: 'Rs 17.65 lakh, vidhayak nidhi. Status: poorn (Jagran report-card).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Malpur Lohrai (Kadwara) interlocking road',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-mau-sadar-mla-report-card-widening-action-plan-ready-dream-of-freedom-from-jams-not-realized-40361986.html',
+    date: '2026-09',
+    note: 'Rs 19.28 lakh, vidhayak nidhi. Nahar road se Asharam Yadav ke khet tak. Status: poorn (Jagran report-card).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Itaura interlocking road ka udghatan + shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'AajTak, May 2026',
+    sourceUrl: 'https://www.aajtak.in/uttar-pradesh/story/rajbhars-party-mla-abbas-ansari-on-samajwadi-party-stage-mau-cockroach-party-election-lclam-strc-2558680-2026-05-22',
+    date: '2026-05',
+    note: 'Vidhayak nidhi; Pardaha block ke Itaura gaon me program. AajTak/Bhaskar ne ~Rs 25L likha; Jagran (Sep 2026) ke mutabik Itaura me Shriram ke ghar se Vidhichand ke ghar tak Rs 20.41L ka interlocking karya poorn ho chuka hai. Status: udghatan + shilanyas (2026-05), baad me poorn ki pushti.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Babuapar Singhaw (Pardaha) interlocking karya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, Sep 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-mau-sadar-mla-report-card-widening-action-plan-ready-dream-of-freedom-from-jams-not-realized-40361986.html',
+    date: '2026-09',
+    note: 'Rs 35.12 lakh, vidhayak nidhi. Status: poorn (Jagran report-card).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jila aspatal: 100 beds + thalassemia ilaj suvidha ka dawa',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Jagran, Sep 2026 (vidhayak ka bayan)',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mau-mau-sadar-mla-report-card-widening-action-plan-ready-dream-of-freedom-from-jams-not-realized-40361986.html',
+    date: '2026-09',
+    note: 'MLA ka interview claim: 80-bed jila aspatal 100 beds ka hua; thalassemia marizon ke liye ilaj ki poori vyavastha karayi. Status: DAWA — news-reported interview claim; Jagran ne iski swatantra pushti nahi ki. BJP runner-up Ashok Singh ne vidhayak nidhi ke durupayog ka jawab me aarop lagaya hai.',
+    period: '2022-2027',
+  },
+],
+// RESEARCH TRAIL (2026-10-13):
+// Source padhe: Dainik Jagran report-card (04 Sep 2026), AajTak (22 May 2026), Dainik Bhaskar Itaura road story,
+// New Indian Express (09 Sep 2025), TOI, Maktoob Media, LatestLY/PTI — sab khole aur padhe.
+// ENTRIES ACCEPTED: 7 (5 interlocking roads + 1 high-mast lights 1.72cr + 1 dawa hospital claim).
+// REJECTED (weak/missing attribution ya non-work):
+// 1. Bhadsa-Manopur se Badhuagodaam 18km sadak chaudikaran (2023 me Rs 275cr ka prastav shasan ko bheja) — REJECT: sanction/approval nahi hui, demand/proposal hi rah gaya (Jagran).
+// 2. Jila aspatal oxygen plant — REJECT: Jagran ke mutabik karya poora nahi ho saka.
+// 3. Textile park (bunkaron ke liye) — REJECT: sirf budget satra me prashn uthaya tha; demand/proposal, kaam nahi (MLA ka bayan hi).
+// 4. Ratanpura Gadha taal jaljamav, shahar me underpass — REJECT: sirf maang/yojana ki ghoshna (dawa bhi nahi, kaam nahi).
+// 5. CBR News YouTube video (Itaura 37L interlocking udghatan) — REJECT: YouTube-only source allowed nahi; AajTak/Bhaskar ne wahi event cover kiya.
+// 6. BJP runner-up Ashok Singh ke vidhayak-nidhi durupayog ke aarop — REJECT: negative entry layak credible ruling/adverse finding nahi; political allegation + rebuttal nahi.
+// TENURE CONTEXT: Abbas Ansari Nov 2022 - Mar 2025 ED money-laundering case me jail me the (28 mahine; 21 Mar 2025 Kasganj jail se riha) — isliye field work kam, nidhi-karya hi main coverage hai.
+// PARIWAR CASES: task instruction ke mutabik Mukhtar Ansari se jude kisi case ko inke profile par nahi joda gaya.
 };
