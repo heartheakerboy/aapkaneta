@@ -4130,4 +4130,48 @@ export const rajWorks: Record<string, Work[]> = {
     },
   ],
   'ramila-khadiya': [],
+  // ---- Dungarpur district batch (researched 2026-10-13) ----
+  'ganesh-ghogra': [
+    {
+      title: 'Ramsagada sarkari college ke taiyaar bhavan ka vidhayak dwara udghatan (prashasan ne 3 mahine se nahi karaya tha)',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'ETV Bharat, 9 Sep 2024',
+      sourceUrl: 'https://www.etvbharat.com/hi/!state/congress-mla-ganesh-ghoghra-inaugurated-the-building-of-ramsagada-college-in-dungarpur-rajasthan-news-rjs24090904128',
+      date: '2024-09-09',
+      note: 'Ramsagada sarkari college ka bhavan banne ke 3 mahine baad bhi jila prashasan/uchch shiksha vibhag dwara lokarpan nahi ho raha tha (450 students 2 kamron me padh rahe the); vidhyarthiyon ke aagrah par MLA Ganesh Ghogra ne swayam udghatan kar diya. Doosra paksh: college ke nodal officer ke anusaar bhavan abhi handover nahi hua tha aur sarkar/commissionerate se udghatan ke nirdesh nahi the; MLA ka kehna hai unhone collector se baat ki thi. (status: udghatan — vivaadit tareeke par, dono paksh report me)',
+    },
+  ],
+  'umesh-meena': [
+    {
+      title: 'Dhani Khajur (Bhevdi) rajkiya vidyalaya ko vidhayak kosh se projector + laptop; naye hall ki ghoshna',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Mera Sagwara News, 19 Aug 2025',
+      sourceUrl: 'https://merasagwara.com/aaspur-mla-umesh-meena-projector-laptop-dhani-khajur-school.html',
+      date: '2025-08',
+      note: 'Aspur kshetra ke gram panchayat Bhevdi ke rajkiya prathmik vidyalaya Dhani Khajur me vishesh samaroh me vidhayak-mad se mile projector aur laptop ka shubharambh; graminon ki maang par vidyalaya me bachchon ke liye naye hall ke nirmaan ki ghoshna. (status: udghatan + ghoshna; sthaniya portal; page kholne par timeout mila, poora article text search-index se padhkar verify kiya gaya)',
+    },
+  ],
+  'shankarlal-decha': [
+    {
+      title: 'Sagwara me ~₹20 crore ke vikas karyon ka shilanyas — ₹15cr Ambada-Patli Johra sadak + Moran nadi high-level pul',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Janta Serishta, Oct 2026 (est.)',
+      sourceUrl: 'https://jantaserishta.com/local/rajasthan/development-projects-worth-20-crore-rupees-in-sagwara-receive-the-green-light-20--4881065',
+      date: '2026-10',
+      note: 'Ambada-Patli kshetra me MLA Shankarlal Decha ne shilanyas kiya: ₹15 crore se Ambada se Patli Johra tak ~3 km pakki sadak + Moran nadi par high-level pul; ₹2.40 crore Maida Marble se Parada Mataji marg; ₹2 crore Obri Atal Gaurav Path; ₹1.50 crore Khumanpur se Karkatiya Fala marg. Article me "pichle dhai varshon" ka sandarbh — current tenure confirm. (status: shilanyas; exact date page par nahi mili)',
+    },
+    {
+      title: 'Sagwara me 7 nayi damar sadak pariyojnaon ki swikriti (MLA ke prayason se)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Aug 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/dungarpur/obari/news/sagwara-mla-shankar-decha-road-project-approval-latest-news-138666760.html',
+      date: '2026-08',
+      note: 'Vidhayak Shankarlal Decha ke prayason se 7 sadak karyon ki swikriti: Aantri-Obri balak aashram chhatravas sampark sadak ₹1.05cr; Silohi Neelkanth (Ganeshpuri-Silohi) se Pemela talab ₹91.20L; Veeramkhor talab-shamshan ghat ₹54.25L; NH-927A Bhiloora-Pada Fala-Jagannathpuri ₹87.15L; Karkatiya Fala-Khumanpur ₹1.039cr; Bijola Nalwali-adivasi basti ₹54.25L; Fawta-Gamela Fala ₹57.65L. (status: swikriti; exact date page par nahi mili)',
+    },
+  ],
+  'anil-kumar-katara': [],
 };
