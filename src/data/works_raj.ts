@@ -1340,4 +1340,102 @@ export const rajWorks: Record<string, Work[]> = {
       note: 'Vidhayak Sushila Rameshwar Dudi ke prayason se Nokha vidhansabha ke shahri-graameen vidyalayon me kaksha-kaksh nirman ki swikriti: Chacha Nehru balika school Nokha (2), Baba Chhotu Nath Jasarasaar (3), Maiyasar (2), Leelka (2 + baramda), JD Magra (3 + baramda), Desalsar (2 + baramda), Kavliyo Pyau Ramnagar (2), Kahira (4). (status: manzoori; exact date page par nahi mili; source: Bikaner ka local news portal)',
     },
   ],
+
+  // ---- Bharatpur district batch (researched 2026-10-13) ----
+  'dr-subhash-garg': [
+
+  {
+    title: 'Khaimra gram panchayat me ~₹97 lakh vidhayak nidhi karyon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Khas Khabar, 12 Oct 2025',
+    sourceUrl: 'https://www.khaskhabar.com/local/rajasthan/bharatpur-news/news-i-will-always-be-dedicated-to-the-development-of-the-region-dr-garg-news-hindi-1-759994-KKN.html',
+    date: '2025-10-12',
+    note: 'Khaimra kalan, Khaimra khurd, Bansi Birhana, Bhiriganj, Nagla Puthiya, Nagla Jatta, Malauni aadi gaanvon me vidhayak nidhi se karaye gaye CC sadak, kharanja, nali, samudayik bhavan aadi karyon ka lokarpan. Status: udghatan (kaam poora).',
+  },
+  {
+    title: 'Dhourmui gram panchayat me ~₹60 lakh vidhayak nidhi karyon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Khas Khabar, 22 Sep 2025',
+    sourceUrl: 'https://www.khaskhabar.com/local/rajasthan/bharatpur-news/news-dr-subhash-garg-inaugurated-the-development-works-done-at-a-cost-of-rs-60-lakh-from-the-mla-fund-in-dhourmuai-news-hindi-1-754855-KKN.html',
+    date: '2025-09-22',
+    note: 'Dhourmui gaon me ~₹30.95 lakh ki sadaken aur Sahnawali gaon me ~₹29.60 lakh ki sadak + samudayik bhavan ki chaar-diwari sahit kul ~₹60 lakh ke karyon ka lokarpan. Status: udghatan (kaam poora).',
+  },
+  ],
+
+  'jagat-singh': [
+
+  {
+    title: 'Nadbai me naye rajkiya bus stand ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/bharatpur/nadbai/news/inauguration-of-new-state-bus-stand-at-nadbai-136677652.html',
+    date: '2026-03 (est.)',
+    note: 'Vidhayak Jagat Singh ne nav-nirmit rajkiya bus stand ka vidhivat lokarpan kiya; kaha ki varshon purani maang poori hui. ROB poora hone par atirikt bus sevaon ka daava. Status: udghatan (kaam poora). Exact date page par nahi mili (\"7 mahine pehla\").',
+  },
+  {
+    title: 'Raisis, Dayawali aur Jharkai ke 3 up-swasthya kendron ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/bharatpur/nadbai/news/nadbai-mla-inaugurated-3-sub-health-centers-136592393.html',
+    date: '2026-02 (est.)',
+    note: 'Teenon up-swasthya kendron ka lokarpan; pratyek bhavan lagbhag ₹55 lakh ki lagat se bana. Vidhayak ne ANM ke saath CHO niyukti ka bhi elaan kiya. Status: udghatan (kaam poora). Exact date page par nahi mili (\"8 mahine pehla\").',
+  },
+  {
+    title: 'Nadbai nagar palika me ~₹50 lakh ke sabha kaksh ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/bharatpur/nadbai/news/nadbai-municipality-gets-a-grand-meeting-hall-136677792.html',
+    date: '2026-03 (est.)',
+    note: 'Nagar palika parisar me nav-nirmit sabha kaksh ka vidhayak dwara feeta kaatkar udghatan; lagbhag ₹50 lakh ki lagat. Status: udghatan (kaam poora). Exact date page par nahi mili (\"7 mahine pehla\").',
+  },
+  ],
+
+  'bahadur-singh': [
+
+  {
+    title: 'Bhusawar me DSP karyalaya bhavan ka bhoomi-pujan/shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Samacharnama, Jul 2024 (est.)',
+    sourceUrl: 'https://samacharnama.com/city/bharatpur/mla-performs-bhoomi-pujan-for-dsp-office-building/cid14853647.htm',
+    date: '2024-07 (est.)',
+    note: 'Vair vidhayak Bahadur Singh Koli mukhya atithi ke roop me bhoomi-pujan me shamil hue aur shilanyas kiya; kaha ki Bhusawar me ~24 saalon se CO karyalaya kiraaye ke bhavan me chal raha tha. Status: shilanyas. Note: sthaniya news portal; exact date page par nahi mili.',
+  },
+  {
+    title: 'Khedli Mor chauki ke thana me kramonnat hone par lokarpan karyakram',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Aapka Rajasthan, Oct 2024 (est.)',
+    sourceUrl: 'https://aapkarajasthan.com/bharatpur/bharatpur-kherli-mor-outpost-upgraded-to-police-station/cid15503720.htm',
+    date: '2024-10 (est.)',
+    note: 'Vair-Bhusawar kshetra ki Khedli Mor chauki ke thana banne par lokarpan karyakram me vidhayak mukhya atithi rahe aur feeta kaata; thana ke antargat 31 gaon jode gaye. Status: udghatan; thana sarkari nirnay par bana, vidhayak ki bhoomika mukhya-atithi ke roop me. Note: sthaniya news portal; exact date page par nahi mili.',
+  },
+  ],
+
+  'dr-ritu-banawat': [
+
+  {
+    title: 'Bayana me 4 kshatigrast puliyaon ke punarnirman ke liye ₹3.5 crore ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/bharatpur/bayana/news/four-culverts-damaged-during-monsoon-will-be-constructed-in-bayana-136382165.html',
+    date: '2025-11 (est.)',
+    note: 'Vidhayak Dr. Ritu Banawat ke prayason ke baad rajya sarkar ne 4 puliyaon (Thana Dang, Chahal puliya, Devri-Nayagaon — pratyek ₹1 crore; Pandri puliya — ₹50 lakh) ke punarnirman/unchai-karan ke liye ₹3.5 crore swikrit kiye. Status: manzoori (kaam shuru hona baaki). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Vidhayak nidhi me commission ka aarop — IAS adhikariyon ki team ne vikas karyon ki jaanch ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar English, Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskarenglish.in/local/rajasthan/news/ias-officerss-team-probe-mla-ritu-banawats-development-works-records-on-school-carpet-purchases-seized-136760966.html',
+    date: '2026-01 (est.)',
+    note: 'Dainik Bhaskar ke sting expose (14 Dec) ke baad: Bayana vidhayak ke pati par school-carpet khareed me ₹40 lakh ki deal ka aarop; ACS (Grih) ke netritva me team ne Bayana me MLA-nidhi karyon ki filein zabt ki aur adhikariyon se poochtaachh ki; sarkar ne teenon aaropit vidhayakon ke MLA LAD khaate freeze kiye. Status: aarop/jaanch jaari — swatantra nyayik parinaam ki pushti nahi; vidhayak ka paksh report me nahi. Exact date page par nahi mili.',
+  },
+  ],
 };
