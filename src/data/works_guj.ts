@@ -1984,4 +1984,45 @@ export const gujWorks: Record<string, Work[]> = {
       note: 'ALLEGATION (credible reporting): Devgadh Baria taluka ke Kuva aur Redhana gaon + Dhanpur taluka ke Simamoi gaon me 2021-2024 ke dauraan MGNREGA sadakon ke farzi completion certificate par ~₹71 crore ka bhugtaan 35 anadhikrit agencies ko; 28 agencies Devgadh Baria me. Raj Construction aur Raj Traders — dono MLA ke bete Balvantsinh aur Kiran Khabad chalate hain. Dono bete May 2025 me giraftar (BNS dharaon me case); Congress ne mantri ke istife aur SIT ki maang ki. REBUTTAL: Khabad FIR me namzad nahi; unhone video sandesh me kaha bete "sirf material supply ka kanooni vyapaar" karte the, kaam poora karne ki zimmedari unki nahi thi; jaanch me vishwas jataya. Beton ko baad me zamaanat mili (May-Jul 2025), Kiran ki dobara giraftari (2026) bhi report hui. Jaanch jaari.',
     },
   ],
+  // ---- Mahisagar district batch (researched 2026-10-13) ----
+  'gulabsinh-somsinh-chauhan': [
+    {
+      title: 'Khetiwadi office ki aakasmik mulaqat: tuver beej-kit vitaran me gairriti ka aarop, adhikari ka khandan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Sep 2025 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/mahisagar/news/gulab-singh-chauhan-agriculture-office-visit-pigeon-pea-seed-kit-distribution-controversy-135957288.html',
+      date: '2025-09-19',
+      note: 'Lunawada ke Congress MLA ne khetiwadi office ki aakasmik mulaqat karke aarop lagaya ki kisaano ko muft milne wali laal tuver ki nidarshan-kit godown me padi hai, vitaran nahi hua. MLA ne DDO ko likhit rajuaat ki. REBUTTAL: khetiwadi vistaran adhikari ke anusaar NFSM minikit yojana me 28 June ko falvan hua tha, 1000 safed + 3500 laal tuver kit me se adhikansh vitaran ho chuka, sirf 60 kit baki — zyada barish/vilamb se kisan lene nahi aaye. (status: aarop + prashasanik khandan; jaanch DDO star par)',
+    },
+  ],
+  'dr-kuberbhai-mansukhbhai-dindor': [
+    {
+      title: 'Gothib (Santrampur) me navnirmit Samuhik Aarogya Kendra ka lokarpan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Public App (Santrampur News), 20 Sep 2025',
+      sourceUrl: 'https://public.app/video/sp_glri9fwbkg52j',
+      date: '2025-09-20',
+      note: 'Santrampur taluka ke Gothib gaon me navnirmit Samuhik Aarogya Kendra (CHC) ka lokarpan shikshan mantri Dr. Kuberbhai Dindor ke varad-hasthe hua; jila aarogya adhikari, karmchari aur sthaniya aagevaan maujood. (status: udghatan; sthaniya video-news source)',
+    },
+    {
+      title: 'Kadana-Santrampur me Vanbandhu Kalyan Yojana: ₹54.14 crore ke MVCC cable kaam, 41,553 grahakon ko nirantar bijli',
+      category: 'Bijli',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Dec 2025 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/mahisagar/news/solar-energy-program-in-santrampur-under-the-chairmanship-of-education-minister-136143574.html',
+      date: '2025-12-01',
+      note: 'Santrampur me saur-urja karyakram me mantri ne kshetra ke kaam ginaye: Vanbandhu Kalyan Yojana Phase-1 me Kadana aur Santrampur taluka ke 21 feeder — 742 km MVCC cable ka kaam chal raha, 100 km poora; ₹54.14 crore kharch, 41,553 grahakon ko avirat bijli. Phase-2 me Santrampur ke 5 feeder par ₹83.35 crore (14,398 grahak); Kisan Suryoday se Santrampur-Khanpur ke 6 kheti feeder par ₹61.10 crore (5,779 kisan). (status: ongoing works — rajya yojana ke tahat kshetra-vishisht kaam)',
+    },
+    {
+      title: 'NEGATIVE — 46 gaon ko Santrampur me milane ke mantri ke bayaan par rosh; gaonwalon ne collector ko di likhit rajuaat',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Oct 2025 (est.)',
+      date: '2025-10-14',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/mahisagar/santrampur/news/keep-46-villages-of-santrampur-taluka-in-morwa-h-assembly-136167125.html',
+      note: 'VIVAAD (credible reporting): Mahisagar ke naye Godhar taluke me shaamil june Santrampur ke 46 gaon (vartaman me Morwa-Hadaf Vidhan Sabha me) ko Santrampur Vidhan Sabha me milane ka mantri Kuber Dindor ne ek karyakram me manch se bayaan diya, jiska 46 gaonon ke sarpanchon/agrevaanon ne virodh kiya. Unhone Mahisagar collector ko likhit rajuaat dekar sabhi gaonon ko Morwa (H) me hi rakhne ki maang ki. Mantri ka paksh article me darj nahi. (status: vivaad — sthaniya virodh, koi antim nirnay report nahi)',
+    },
+  ],
 };
