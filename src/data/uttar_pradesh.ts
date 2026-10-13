@@ -7314,14 +7314,14 @@ export const upNetas: Neta[] = [
   {
     slug: 'pooja-pal',
     name: 'Pooja Pal',
-    party: 'Samajwadi Party',
-    partyShort: 'SP',
+    party: 'Bharatiya Janata Party',
+    partyShort: 'BJP',
     post: 'MLA',
     state: 'Uttar Pradesh',
     constituency: 'Chail',
     constituencySlug: 'chail',
     tenures: [
-      { post: 'MLA', constituency: 'Chail', constituencySlug: 'chail', party: 'Samajwadi Party', start: '2022', end: '2027' },
+      { post: 'MLA', constituency: 'Chail', constituencySlug: 'chail', party: 'Bharatiya Janata Party', start: '2022', end: '2027' },
     ],
     works: [],
     fund: {
@@ -7338,7 +7338,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=3201',
       backgroundNote: '',
     },
-    electionNote: '2022 me Chail se jeete.',
+    electionNote: '2022 me SP se Chail se jeete. Feb 2024 Rajya Sabha chunav me cross-voting ke baad SP se sambandh bigde; 14 August 2025 ko SP ne dal-virodhi gatividhiyon par nishkasit kar diya (Vidhan Sabha record me ve unattached ke roop me darj hain). June 2026 me BJP ne unhe pradesh upadhyaksh banaya; ve khud ko BJP ki sadasya batati hain — mantri pad unhe nahi mila (ThePrint/Bhaskar).',
   },
   {
     slug: 'guru-prasad-maurya',
