@@ -4084,4 +4084,50 @@ export const rajWorks: Record<string, Work[]> = {
   //   7 bachchon ki maut, The Week/PTI/TOI) unke kshetra me hua lekin reporting me prashasan/shiksha mantri
   //   par aarop hai, MLA par vishesh aarop nahi — guilt-by-association se bacha gaya; negative entry nahi banai.
   // kaluram (Dag-SC, BJP): sirf Dec 2025 truck-accident news (The Week/Tribune) + YouTube; koi works-news nahi.
+
+  // ---- Banswara district batch (researched 2026-10-13) ----
+  'nanalal-ninama': [],
+  'kailash-chandra-meena': [
+    {
+      title: 'Garhi me 50 janjati shilpkaroon ko unnat stone-inlay toolkit vitrit',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Pratahkal, 22 Mar 2026',
+      sourceUrl: 'https://www.pratahkal.com/udaipur/banswara-garhi-tribal-artisans-stone-inlay-toolkit-distribution-1574458',
+      date: '2026-03-22',
+      note: 'Garhi panchayat samiti bhavan (Kheroda) me aayojit samaroh me MLA ne Paratapur gaon ke 50 ST shilpkaroon ko adhunik stone-inlay toolkit pradan kiye. Toolkit Bharat sarkar ke Vastra Mantralaya (Vikas Ayukt-Hastshilp) ki yojana ke tahat diye gaye; Prabhat Sagar Gyan Vikas Sansthan (Udaipur) ne samanvay kiya. (status: vitran — yojana kendra sarkar ki, vitran MLA ke haathon)',
+    },
+  ],
+  'arjun-singh-bamaniya': [
+    {
+      title: 'Nadia (Chhoti Sarwan) ke RaUmavi me ₹12 lakh ke atirikt kaksha-kaksh ka udghatan, ₹20 lakh ke hall ka shilanyas',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Aapka Rajasthan, 4 Dec 2024 (est.)',
+      sourceUrl: 'https://aapkarajasthan.com/banswara/banswara-inaugurates-classes-at-nadia-school/cid15813793.htm',
+      date: '2024-12-04',
+      note: 'Chhoti Sarwan PS ki Nadia gram panchayat ke rajkiya uchch madhyamik vidyalaya me ₹12 lakh se bane atirikt kaksha-kaksh ka udghatan aur ₹20 lakh se banne wale hall ka shilanyas MLA ne kiya. Vidhayak-mad se sweekrit kaam. (status: udghatan + shilanyas; exact date page par nahi mili — search-index ke anusaar ~4 Dec 2024)',
+    },
+    {
+      title: 'Nadia GP ke RaaPravi Khodipada me ₹32 lakh ke school bhavan ka udghatan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/banswara/news/khodipada-school-building-inaugurated-136304899.html',
+      date: '2025-10',
+      note: 'Nadia gram panchayat ke Khodipada me ₹32 lakh se bane rajkiya prathmik vidyalaya ke naye bhavan ka udghatan MLA ne kiya. (status: udghatan; exact date page par nahi mili — search-index ke anusaar ~Oct 2025)',
+    },
+  ],
+  'jaikrishn-patel': [
+    {
+      title: 'ACB dwara ₹20 lakh rishwat mamle me giraftari — khanan sawal wapas lene ka aarop (zamaanat mili)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Times of India (PTI), 7 Aug 2025',
+      sourceUrl: 'https://timesofindia.indiatimes.com/city/jaipur/raj-hc-grants-bail-to-bap-mla-in-20l-bribery-case/articleshow/123311089.cms',
+      date: '2025-05-04',
+      note: '(Negative entry — dono paksh report me.) Aarop: ACB ne BAP vidhayak Jaikrishn Patel ko 4 May 2025 ko ₹20 lakh ki rishwat lete hue pakda — aarop tha ki khanan vibhag par vidhansabha me lagaye gaye sawal wapas lene ke liye rishwat maangi gayi thi; chachere bhai Vijay Kumar Patel sahit teen aur giraftar hue. Rebuttal/status: Rajasthan High Court ne August 2025 me zamaanat de di; sitting MLA ke khilaf abhiyojan swikriti trial ke dauran pending thi. (status: aarop + zamaanat; trial pending)',
+    },
+  ],
+  'ramila-khadiya': [],
 };
