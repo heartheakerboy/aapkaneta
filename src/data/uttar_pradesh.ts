@@ -10383,7 +10383,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=3576',
       backgroundNote: '',
     },
-    electionNote: '2022 me Rasara se jeete.',
+    electionNote: '2022 me Rasara se jeete (BSP ke ekmatra vidhayak). 5 August 2026 ko unka nidhan ho gaya (PTI/Indian Express) — Rasara seat rikt hai, upchunav hona baki hai.',
   },
   {
     slug: 'ziyauddin-rizvi',
