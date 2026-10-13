@@ -11927,4 +11927,405 @@ export const upWorks: Record<string, Work[]> = {
     period: '2022-2027',
   },
 ],
+
+  // ---- Jaunpur district batch (researched 2026-10-13) ----
+
+  // Jaunpur district batch W1 (researched 2026-10-13).
+  // Jaunpur district batch 1 (researched 2026-10-13): Badlapur, Shahganj, Jaunpur Sadar.
+  // RULE: every entry has a real, opened sourceUrl. Empty is better than unverified.
+  // Shahganj MLA ka poora naam source se verify: Ramesh Singh (NISHAD Party) - TV9 Hindi election result.
+  
+  'ramesh-chandra-mishra': [
+  
+    {
+      title: 'Badlapur me Peeli nadi punarjeevan abhiyan ki shuruaat; tatbandh marammat kaam shuru',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'ThePrint (PTI), 13 Jun 2025',
+      sourceUrl: 'https://theprint.in/india/up-campaign-launched-to-revive-peeli-river-in-jaunpur-badlapur-mla-leads-conservation-efforts/2656836/',
+      date: '2025-06-13',
+      note: 'MLA Ramesh Chandra Mishra ne "Badlapur Sankalpit, Peeli Nadi Sanrakshit" abhiyan launch kiya; tatbandh (riverbank) marammat ka kaam shuru ho gaya. DM Dinesh Chandra ke saath action plan meeting bhi hui. Status: abhiyan launch + kaam pragati me.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Badlapur me teen nayi gramin sadkon ka bhoomi pujan (Khanpur, Sadhapur, Keshavpur)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 5 May 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-ramesh-mishra-inaugurates-new-rural-roads-in-badlapur-boosting-local-development-201777919840140.html',
+      date: '2026-05-04',
+      note: 'Lalganj kshetra ke Khanpur, Sadhapur aur Keshavpur gaon me teen nayi gramin sadkon ke liye bhoomi pujan (Somwar, article 5 May 2026 ko prakashit; May 4, 2026 Somwar tha). Status: shilanyas/bhoomi pujan.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Badlapur CHC me digital X-ray machine ka lokarpan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 17 Sep 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-digital-x-ray-machine-launched-by-mla-ramesh-chandra-mishra-in-badlapur-201789651287610.html',
+      date: '2026-09-17',
+      note: 'CHC Badlapur me digital X-ray machine ka lokarpan; machine install ho gayi, seva shuru hone wali hai. Chikitsadhikshak Dr. Arvind Kumar Pandey ne MLA ke prayason ka zikr kiya. Status: lokarpan (poorn sthapna).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Singramau me Jal Jeevan Mission ke tahat peyjal tanki ka udghatan',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jaunpur/tiyara/news/mla-inaugurated-the-drinking-water-tank-136194131.html',
+      date: '2025-10',
+      note: 'Singramau ke local bazaar me Jal Jeevan Mission ke tahat nirmit peyjal tanki ka udghatan (Jila Peyjal evam Swachchhata Mission, Jal Nigam Gramin dwara aayojit). Bhaskar page par exact date nahi mili (relative time tha), isliye sirf YYYY-MM diya; article ~Oct 2025 ka hai. Status: udghatan (poorn).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Badlapur me 5 sadkon aur railway crossing 23C Bhaluahin par ROB ka nirman',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-badlapur-assembly-development-will-catch-up-quickly-now-the-dream-will-come-true-40363494.html',
+      date: '2026-09-05',
+      note: 'Jagran ke karyakal report card (2022 chunav ke baad ke saadhe chaar varsh par) ke anusaar poorn hue karya: Baksha-Lohinda-Bandhwa, Singramau-Mishrauli-Ratashi, Singramau-Lalganj-Gauramafi, Puralal-Gaddopur-Baihari, Babuganj-Belwar sadak nirman + railway crossing 23C Bhaluahin par ROB nirman. Status: poorn (Jagran reporting).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Sai nadi par Kevatli pul poorn, Kalyanpur pul nirmanadhin; Peeli nadi par do pulon ke liye dhan swikriti',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-badlapur-assembly-development-will-catch-up-quickly-now-the-dream-will-come-true-40363494.html',
+      date: '2026-09-05',
+      note: 'Sai nadi par Kevatli gaon (Karobir ghat) me pul ka nirman poorn ho chuka hai, Kalyanpur (Bhojnath ghat) me pul nirmanadhin hai; Peeli nadi par Rari-Agarora aur Dehuda me pul nirman ke liye dhan swikriti mili hai. Status: mixed (poorn + nirmanadhin + swikriti).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Maharajganj me 50-bed aspataal ka nirman',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-badlapur-assembly-development-will-catch-up-quickly-now-the-dream-will-come-true-40363494.html',
+      date: '2026-09-05',
+      note: 'Jagran report card ke anusaar Maharajganj me 50-bed aspataal ka nirman vidhayak ki uplabdhi me gina gaya hai. Jagran ne explicit "poorn" ya "chal raha" nahi likha - sirf "nirman" likha hai, isliye status: nirman (stage ambiguous).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Naurangabad me power house nirman; Babuganj upkendra ke liye dhan swikriti',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-badlapur-assembly-development-will-catch-up-quickly-now-the-dream-will-come-true-40363494.html',
+      date: '2026-09-05',
+      note: 'Vidyut vyavastha sudridhikaran: Naurangabad me power house ka nirman, Babuganj me upkendra nirman ke liye dhan ki swikriti, saath hi transformers ki kshamata vriddhi. Status: mixed (nirman + swikriti).',
+      period: '2022-2027',
+    },
+  
+  ],
+  
+  'ramesh': [
+  
+    {
+      title: 'Shahganj me Rs 35 crore se teen sadkon ke chaudikaran-jirnoddhar ka bhoomi pujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 29 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-groundbreaking-ceremony-for-road-expansion-and-renovation-in-shahganj-by-mla-ramesh-singh-201774808795578.html',
+      date: '2026-03-29',
+      note: 'MLA Ramesh Singh (NISHAD Party) ne teen sadkon ka bhoomi pujan kiya: Arsiya-Bibiganj marg, Pattinarendrapur-Saraimohiuddinpur marg, aur Barauna via Chilbili-Gangauli-Savayan-Rudhauli marg. Chaudikaran aur jirnoddhar hoga. Headline me "lokarpan" likha hai par article body bhoomi pujan ki hai - status body ke anusaar: shilanyas (nirman shuru).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Panouli gaon me Rs 20 lakh ki 400-meter CC sadak ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 10 Dec 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-groundbreaking-ceremony-for-400-meter-cc-road-and-anganwadi-building-in-panouli-by-mla-ramesh-singh-201765305891391.html',
+      date: '2025-12-09',
+      note: 'Khuthan kshetra ke Panouli gaon me 400-meter CC sadak (Rs 20 lakh lagat) ka bhoomi pujan/shilanyas (Mangalwar; article 10 Dec 2025 ko prakashit). Status: shilanyas.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Panouli me parishadiya vidyalaya parisar me nirmit anganwadi bhavan ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 10 Dec 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-groundbreaking-ceremony-for-400-meter-cc-road-and-anganwadi-building-in-panouli-by-mla-ramesh-singh-201765305891391.html',
+      date: '2025-12-09',
+      note: 'Panouli me parishadiya vidyalaya parisar me bankar taiyaar anganwadi bhavan ka feeta katkar udghatan. Status: poorn (udghatan).',
+      period: '2022-2027',
+    },
+  
+  ],
+  
+  'girish-chandra-yadav': [
+  
+    {
+      title: 'Jaunpur shahar me Bhandari Sheetla Chaukia se Lakhanpur railway crossing tak sadak chaudikaran (Rs 3.17 crore) ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Aawaz News, 23 Jun 2026',
+      sourceUrl: 'https://aavaj.com/2026/06/23/329-%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc-%e0%a4%95%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%93/',
+      date: '2026-06-23',
+      note: 'Sadar vidhayak Girish Chandra Yadav ne nagriya kshetra me Rs 3.29 crore ki do pariyojnaon me se pehli ka shilanyas kiya: Bhandari Sheetla Chaukia marg se Lakhanpur hote hue railway crossing tak sadak chaudikaran (Rs 3.17 crore). Dainik Bhaskar ne bhi isi karyakram ko cover kiya. Status: shilanyas. Note: yah sirf Vidhan Sabha kshetra ka local kaam hai - sports department ke state-level faisle exclude hain.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Miyapur me interlocking evam nali nirman (Rs 12.36 lakh) ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Aawaz News, 23 Jun 2026',
+      sourceUrl: 'https://aavaj.com/2026/06/23/329-%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc-%e0%a4%95%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be%e0%a4%93/',
+      date: '2026-06-23',
+      note: 'Mohalla Miyapur me Ranjeet Singh ke makan se Tola Maurya hote hue Ram Lakhan Bind ke makan tak interlocking evam nali nirman (Rs 12.36 lakh) ka shilanyas. Status: shilanyas.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Karanjakala block me Rs 2.23 crore ki gramin vikas pariyojnaon ka lokarpan aur shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 25 Feb 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/jaunpur/inauguration-of-projects-worth-rs-223-crore-jaunpur-news-c-193-1-jon1012-150181-2026-02-25',
+      date: '2026-02-25',
+      note: 'Vikas khand Karanjakala me adhunik sabhagar, teen bhavy modern gate, shaheed stambh, adhunik shauchalaya aur karyalayon ka udghatan + vibhinn gram panchayaton me poorn vikas yojnaon ka lokarpan/shilanyas. Status: mixed (lokarpan + shilanyas). Article me ring road, fourlane, overbridge aur auditorium ke "sheeghr dharaatal par" wale dawe ghoshna-star ke hain - is entry me shamil nahi.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Jaunpur ko Kendriya Vidyalaya ki swikriti; isi satr se kaksha 1-5 ki padhai',
+      category: 'School',
+      badge: 'dawa',
+      sourceLabel: 'C Bharat, 14 Jun 2025',
+      sourceUrl: 'https://cbharat.com/?p=30717',
+      date: '2025-06-14',
+      note: 'Bharat sarkar ne Jaunpur me Kendriya Vidyalaya ki sthapna swikrit ki: kaksha 1-5 (pratyek me 40 seats), ~15 Jul 2025 se padhai, asthayi parisar GGIC me; sthayi bhavan ke liye ITI Siddikipur (Karanjakala) ke paas ~5 acre bhoomi adhigrihit. MLA Girish Chandra Yadav ne press-varta me ise "mere lambe prayason ka parinaam" bataya (Varta news agency ne bhi report kiya). Note: yah central sarkar ki swikriti hai; MLA ke yogdan ka independent verification nahi hai - isliye badge "dawa".',
+      period: '2022-2027',
+    },
+  
+  ],
+
+  // Jaunpur district batch W2 (researched 2026-10-13).
+  // Jaunpur district batch (researched 2026-10-13).
+  // Full names verified: Pankaj -> Pankaj Patel (LiveHindustan); Dr. Ragini -> Dr. Ragini Sonkar (News18 Hindi, Dainik Bhaskar, Jagran).
+  // All 3 are SP (opposition) MLAs elected 2022; only post-March-2022 works included.
+  
+  'lucky-yadav': [
+  
+    {
+      title: 'Vidyut vibhag ko apni vidhayak nidhi se Rs 2 crore dene ka daava (Malhani)',
+      category: 'Any',
+      badge: 'dawa',
+      sourceLabel: 'Bharat Samachar TV, Jan 2023 (approx)',
+      sourceUrl: 'https://bharatsamachartv.in/sp-mla-lucky-yadav-accused-the-government-system-of-being-unheard-of-said-that-he-gave-2-crores-to-the-electricity-department-from-his-own-funds/',
+      date: '2023-01',
+      note: 'Malhani ke MLA Lucky Yadav ne Naupedwa Bazar me patrakaron se press-varta me daava kiya ki unhone apni vidhayak nidhi se Rs 2 crore vidyut vibhag ko diye the (bijli ke khambhe, taar aur transformer badalne ke liye), lekin vibhag ne kaam shuru nahi kiya. Status: vidhayak ka apna daava (press statement); independent verification nahi; vibhag paksh news me nahi. Exact publication date page par nahi mili; crawl-data se lagbhag Jan 2023.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'PWD ke 2 JE aur 1 thekedar ko bandhak banane ke aarop par vivaad; vidhayak ne aarop ka khandan kiya',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Zee News Hindi, Apr 2023 (approx)',
+      sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/uttar-pradesh/jaunpur-fierce-confrontation-with-police-and-mla-lucky-yadav-know-the-whole-matter/1665913',
+      date: '2023-04',
+      note: 'NEGATIVE: Jaunpur ke SP (Rural) Shailendra Kumar Singh ke anusaar, sadak-chaudikaran ke dauran PWD ke JE ko bandhak banane ki suchna par police vidhayak ke aawas pahunchi aur karmiyon ko mukt karaya; janch ka adesh hua. Vidhayak Lucky Yadav ka rebuttal: CCTV me ghar me ghusne wale sandigdh log dikhe, surakshakarmiyon ne pakda, unhone khud SP aur CO City ko phone kiya; police ne unke saath abhadrta ki. Status: aarop/patr ki sthiti; koi conviction report nahi. Exact date page par nahi mili; ~Apr 2023.',
+      period: '2022-2027',
+    },
+  
+  ],
+  
+  'pankaj': [
+  
+    {
+      title: 'Sujanpur block ke Shivriha sampark marg (2.3 km) ko Rs 26.58 lakh ki swikriti (PWD, 2023-24)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Zee News Hindi, Jul 2025 (approx)',
+      sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/jaunpur/road-built-on-paper-but-no-work-on-ground-sp-mla-raises-questions-on-corruption/2851842',
+      date: '2025-07',
+      note: 'Mungra Badshahpur ke MLA Pankaj Patel ke PWD ko bheje prastav par Shivriha sampark marg (Sujanpur block, Mungra Badshahpur) ke nirmaan ke liye Rs 26.58 lakh swikrit hue aur tender bhi jari hua. Status: SWIKRITI (MLA ke prastav par 2023-24 me swikriti) — lekin zameen par nirmaan nahi hua; sarkari dastavezon me karya poorna dikhakar bhugtan jari kar diya gaya. MLA ne mauke par pahunchkar PWD pradhikariyon ko zimmedar thahrate hue CM Yogi Adityanath aur zila prashasan se sakht karvai ki mang ki; graminon ne dharna diya aur MLA ne ye mudda UP Vidhan Sabha me bhi uthaya (Aug 2025). Bhugtan-ghotala MLA ka aarop hai; PWD paksh news me nahi; janch ka ashwasan mila tha. Exact date page par nahi mili; Naya Savera Network ne Jul 2025 me aur TV9 UP ne 15 Aug 2025 ko isi prakaran ko cover kiya.',
+      period: '2022-2027',
+    },
+  
+  ],
+  
+  'dr-ragini': [
+  
+    {
+      title: 'Machhlishahr CHC parisar me Rs 4.79 crore ke netra chikitsalaya ki swikriti (Rajya Sabha MP nidhi se)',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Bharat New Media, Jul 2024 (approx)',
+      sourceUrl: 'https://bharatnewmedia.com/jaunpur-news-eye-hospital-to-be-built-in-machhlishahr-due-to-efforts-of-mla-ragini-sonkar-funded-by-jaya-bachchans-mp-fund/',
+      date: '2024-07',
+      note: 'Machhlishahr ki MLA Dr. Ragini Sonkar ke anurodh par Rajya Sabha sadasya Jaya Bachchan ne MPLADS se Machhlishahr CHC parisar me netra chikitsalaya (nirmaan + upkaran) ke liye Rs 4,79,66,000 swikrit kiye; 12 Jan 2024 ko dhanrashi jari hui. Status: SWIKRITI — DM dwara upkaran-kharid samiti gathit, CMO Dr. Lakshmi Singh ne pushti ki ki jald nirmaan shuru hoga; report ke samay nirmaan shuru nahi hua tha. Funds MP nidhi se hain; MLA ka prayas news me report hua hai. Exact date page par nahi mili; crawl-data se lagbhag Jul 2024.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Badhwaon me bijli upkendra banane ki ghoshna aur bhoomi awantan ki swikriti',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'News Track Hindi, 28 Jan 2025',
+      sourceUrl: 'https://newstrack.com/uttar-pradesh/jaunpur/samajwadi-party-mla-dr-ragini-sonkar-statement-relief-to-machhilishahr-from-electricity-crisis-493059',
+      date: '2025-01-28',
+      note: 'Machhlishahr ki MLA Dr. Ragini Sonkar ne Niyam 51 ke tahat Vidhan Sabha adhyaksh ko patra likha (29 July ko sadan me mudda uthaya); bijli sankat par Badhwaon me bijli upkendra banane ki ghoshna ho gayi aur bhoomi awantan ki swikriti bhi mil gayi. Status: GHOSHNA + bhoomi-awantan swikriti; nirmaan shuru nahi; MLA ne kshetra me 2 naye upkendraon ki mang rakhi hai.',
+      period: '2022-2027',
+    },
+  
+  ],
+
+  // Jaunpur district batch W3 (researched 2026-10-13).
+    'dr-r-k-patel': [
+  
+    {
+      title: 'Rampur block me Kisan Kalyan Kendra bhawan ka bhoomipujan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jaunpur/rampur/news/rampur-block-farmer-welfare-center-inauguration-dr-rk-patel-137846567.html',
+      date: '2026-07',
+      note: 'Mariyahu vidhayak Dr R.K. Patel ne mukhya atithi ke roop me Vikas Khand Rampur me Kisan Kalyan Kendra bhawan ke nirman ka bhoomipujan kar karya ka shubharambh kiya; UP Rajya Nirman Sahkari Sangh ke adhishasi abhiyanta bhi maujood the. Status: bhoomipujan/shilanyas (nirman shuru). Page par exact date nahi mili (Bhaskar: 3 mahine pehle publish).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Sehra gram sabha me primary school se Premchandra Patel ke ghar tak interlocking sadak ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jaunpur/nonari/news/inauguration-of-road-construction-work-in-sehra-136292472.html',
+      date: '2026-02',
+      note: 'Vikas Khand Rampur ke gram sabha Sehra me interlocking sadak nirman ka vidhayak ne udghatan/lokarpan kiya. Status: poorn nirman, lokarpan. Page par exact date nahi mili (Bhaskar: 8 mahine pehle publish).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Dehua gaon me Rs 11.78 lakh ki vidhayak-nidhi interlocking sadak aur nali ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, 19 Dec 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-inauguration-of-145-meter-interlocking-road-in-dehua-village-by-mla-fund-201766148000636.html',
+      date: '2025-12-19',
+      note: 'Rampur block ke Dehua gaon me vidhayak nidhi se bani 145 meter lambi interlocking sadak aur nali ka lokarpan hua; lokarpan vidhayak ki patni Dr Surbhi Gangwar (purv jila panchayat sadasya) aur AD(S) jiladhyaksh Lal Bahadur Patel ne kiya. Status: poorn nirman, lokarpan (vidhayak-nidhi karya).',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Kumbhapur gaon me Annapurna Model Shop ka bhoomipujan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Apr 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jaunpur/mariahu/news/madiyahun-mla-performed-the-ground-breaking-ceremony-of-annapurna-model-shop-136805089.html',
+      date: '2026-04',
+      note: 'Mariyahu tehsil ke Kumbhapur gaon me vidhayak ne lakhon ki lagat se banne wali Annapurna Model Shop ki aadharshila rakhi; ye Khadya evam Rasad Vibhag dwara banwai ja rahi hai — saste damon par saman, sarkari ration, jan suvidha kendra (aay/jaati/nivas praman patra, Aadhaar, pension), 5 kg LPG cylinder, e-stamp, ATM, PM-Wani WiFi ki suvidhaen. Status: bhoomipujan/shilanyas (Ramnagar block ki ekmatra model shop). Page par exact date nahi mili (Bhaskar: 6 mahine pehle publish).',
+      period: '2022-2027',
+    },
+  
+  ],
+  
+  'jagdish-narayan': [
+  
+    {
+      title: 'Sai nadi par Gutwan-Salkhapur ghat peepa pul ka udghatan (Rs 30.74 lakh, state Setu Yojana)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, 29 Dec 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/jaunpur/story-inauguration-of-new-bridge-over-sai-river-in-jafarabad-by-mla-jagdish-narayan-rai-201766949996394.html',
+      date: '2025-12-28',
+      note: 'Ramnagar kshetra ke Gutwan-Salkhapur ghat par Sai nadi par state Setu Yojana ke antargat Rs 30.74 lakh ki lagat se bane peepa pul ka vidhayak Jagdish Narayan Rai ne poojan kar udghatan kiya; barish me nadi paar karne ki dikkat door hogi. Status: poorn nirman, udghatan (event 28 Dec 2025, article 29 Dec). Dainik Bhaskar ne bhi report kiya.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Uttarganva me Ambedkar Park saundaryikaran ka shilanyas; library ki ghoshna',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Shiraz-e-Hind (Jaunpur), 14 Apr 2026',
+      sourceUrl: 'https://www.shirazehind.com/2026/04/blog-post_911.html',
+      date: '2026-04-14',
+      note: 'Ambedkar Jayanti ke avsar par Vikas Khand Dharmapur ke gram sabha Uttarganva me Ambedkar Park ke saundaryikaran (boundary, gate, mask light) ka vidhayak ne shilanyas kiya; saath me ek library sthapit karne ki ghoshna ki. Status: shilanyas ho gaya; library abhi ghoshna star par (swikriti/kaam ki pushti nahi). Date: Ambedkar Jayanti (14 Apr) ke avsar par, URL path 2026/04.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Rs 1.5 crore ke puliya aur sampark marg karyon ki swikriti (Sehamalpur Rs 86 lakh, Samopur Kala Rs 64 lakh)',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'Amar Ujala, 1 Nov 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/jaunpur/due-to-the-efforts-of-the-mla-works-worth-rs-15-crore-were-approved-jaunpur-news-c-193-1-svns1025-143558-2025-11-01',
+      date: '2025-11-01',
+      note: 'Press-varta me vidhayak ka daava: unke prastav par shasan ne Sehamalpur gaon (Bhainsahan basti se Tala Majhwara tak nale par puliya evam pahunch marg, Rs 86 lakh) aur Samopur Kala Yadav basti sampark marg par puliya (Rs 64 lakh) ki swikriti di. Status: swikriti (approval) star; kaam shuru hua ya nahi — independent verification nahi. Ye press-varta ka daava hai, swatantra roop se verify nahi hua.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: '5 swasthya kendron me Health ATM; pramukh chaurahon par Water ATM aur solar light',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran report card, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-jafrabad-mla-waiting-for-big-projects-is-five-years-to-go-40363315.html',
+      date: '2026-09-05',
+      note: 'Jagran ki report ke anusaar kshetra ke 5 swasthya kendron me Health ATM tatha pramukh chaurahon par Water ATM aur solar light ka karya zameen par dikhta hai. Status: sthapit (poorn) — lekin Jagran ke anusaar rakh-rakhav ke abhav me Health ATM mahaz showpiece sabit ho rahe hain.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Pilkhini vidyut upakendra parichalan me; Dharmapur upakendra nirmanadhin',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran report card, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-jafrabad-mla-waiting-for-big-projects-is-five-years-to-go-40363315.html',
+      date: '2026-09-05',
+      note: 'Jarzad vidyut vyavastha ki bahali ke liye do vidyut upakendra: Pilkhini ka upakendra parichalan (operational) me aa chuka hai; Dharmapur me ek anya vidyut vitran upakendra ban raha hai jiske jald parichalan ki ummeed hai. Status: ek poorn/operational, ek nirmanadhin.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Jagran report-card me vidhayak ke daave: 4 saal ki vidhayak nidhi kharch; tubewell, marg, dharmik sthal, Gaurabadshahpur-Rampur marg',
+      category: 'Any',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Jagran report card, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-report-card-of-jafrabad-mla-waiting-for-big-projects-is-five-years-to-go-40363315.html',
+      date: '2026-09-05',
+      note: 'Vidhayak ke daave (Jagran report card me): 4 saal ki vidhayak nidhi poorn kharch — sinchai ke liye 5 tubewell ki sthapana, sampark marg, bijli/transformer kshamata vriddhi, schoolon me bench-desk; Trilochan Mahadev, Akhadon ghat, Rajepur mandir ke liye vidhayak nidhi se 25-25 lakh aur Mukhyamantri nidhi se 25-25 lakh; Gaurabadshahpur se Rampur marg ka chaudikaran-uchchikaran prarambh; Jalalpur bazaar me karya prarambh; paanchven saal ki nidhi ke prastav shasan ko bheje. Status: vidhayak ke daave — independent verification nahi. Jagran ke anusaar koi badi pariyojna kshetra ko nahi mili.',
+      period: '2022-2027',
+    },
+  
+  ],
+  
+  'tufani-saroj': [
+  
+    {
+      title: 'Vidhayak nidhi se ~Rs 17 crore ke sampark marg; solar light aur bijli sudhar karya',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran report card, 5 Sep 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/jaunpur-kerkat-mla-report-card-small-work-done-big-dreams-kept-incomplete-40363500.html',
+      date: '2026-09-05',
+      note: 'Jagran ki report-card assessment: Karyakal me sadak, bijli aur solar light jaise chhote vikas karya hue — vidhayak nidhi va anya madon se lagbhag Rs 17 crore ki lagat se kai sampark margon ka nirman; kai hisson me jarzad vidyut khambhe-taar badle gaye; lagbhag sabhi boothon par solar light; Ambedkar pratimaon ke paas solar light. Status: poorn (report-card summary; pratyek pariyojna ka swatantra verification nahi). Report card ke anusaar koi badi sarkari pariyojna, ITI college ya naya pul kshetra ko nahi mila.',
+      period: '2022-2027',
+    },
+  
+    {
+      title: 'Ghurhupur (Muftiganj) sadak shilanyas: ghatiya nirmaan ka aarop',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Apr 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/jaunpur/ahan/news/jaunpur-ghurhupur-road-construction-inauguration-villagers-protest-136968175.html',
+      date: '2026-04',
+      note: 'NEGATIVE ENTRY. Bhaskar ki report ke anusaar Muftiganj block ke Ghurhupur gaon me jis sadak ka shilanyas vidhayak Tufani Saroj ne kiya tha, usme ghatiya samagri ke istemal ka gramino ne aarop lagaya; thekedaar ne bill-bhugtan me deri ko wajah bataya; vidhayak se sampark ka prayas nakaam raha (mobile switch off). Status: aarop (allegation) — court ya jaanch ka faisla report me nahi; independent verification nahi. Page par exact date nahi mili (Bhaskar: 6 mahine pehle publish).',
+      period: '2022-2027',
+    },
+  
+  ],
 };
