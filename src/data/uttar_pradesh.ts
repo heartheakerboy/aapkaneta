@@ -10093,7 +10093,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=4303',
       backgroundNote: '',
     },
-    electionNote: '2022 me Nizamabad se jeete.',
+    electionNote: '2022 me Nizamabad se jeete (panchvi baar ke vidhayak, sabha ke sabse varishth sadasya). 23 July 2026 ko unka nidhan ho gaya (The Hindu/PTI) — Nizamabad seat rikt hai, upchunav hona baki hai.',
   },
   {
     slug: 'ramakant',
