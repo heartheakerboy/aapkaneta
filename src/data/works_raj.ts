@@ -4072,4 +4072,16 @@ export const rajWorks: Record<string, Work[]> = {
       note: 'Baran shahar ke Shriram Stadium me aayojit samarah me kshetriya sansad Dushyant Singh aur vidhayak Radheyshyam Bairwa ne digital madhyam se Baran-Atru kshetra ke 60+ vikas karyon ka shilanyas-lokarpan kiya. Stadium me ~₹2 crore ke khel karya bhi. (status: sanyukt lokarpan-shilanyas; sansad mukhya atithi the)',
     },
   ],
+
+  // ---- Jhalawar district batch (researched 2026-10-13) ----
+  // 4/4 MLAs researched, 0 news-verified entries — honest empty batch.
+  // vasundhara-raje (Jhalrapatan, BJP): koi current-tenure (Dec 2023+) constituency-specific kaam nahi mila.
+  //   DNA 2018 ke ₹94cr projects pre-tenure (CM ke roop me); Jhalawar airport udghatan (Apr 2025, FirstIndia)
+  //   me MP Dushyant Singh ke saath sirf upasthit — weak attribution; Dy CM ki ₹30cr Jhalrapatan sadak swikriti
+  //   (Business Standard, Jun 2026) Dy CM ka kaam hai, unka nahi. Piplodi school-tragedy par sirf samvedna — kaam nahi.
+  // suresh-gurjar (Khanpur, INC): sirf YouTube videos/election coverage; koi credible works-news nahi.
+  // govind-prasad (Manohar Thana, BJP): koi credible works-news nahi. Piplodi school roof-collapse (25 Jul 2025,
+  //   7 bachchon ki maut, The Week/PTI/TOI) unke kshetra me hua lekin reporting me prashasan/shiksha mantri
+  //   par aarop hai, MLA par vishesh aarop nahi — guilt-by-association se bacha gaya; negative entry nahi banai.
+  // kaluram (Dag-SC, BJP): sirf Dec 2025 truck-accident news (The Week/Tribune) + YouTube; koi works-news nahi.
 };
