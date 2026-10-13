@@ -4603,4 +4603,124 @@ export const upWorks: Record<string, Work[]> = {
   // Rejected (Pilibhit): SSG — Amaria 64 karya (shilanyas me maujood hi nahi the); Composite School Barha (paudharopan hi tha, sadak sirf vaada); Organic Hub event (DM ke saath, Swatantrata Diwas event); ratri chaupal anganwadi (passing mention); 23 mukhya sevika (CM ka statewide karyakram); DPS opening (private school); ₹10cr sadak marammat (shrey sansad Jitin Prasada ka); LED light (public.app + vitran); Jan 2022 MCC case (pre-tenure); AajTak 2022 report-card daave (2017-22 ke). Jaydrath — vivadit rasta muaayna (sirf nirikshan); Amkheda sadak (PWD ne banayi, vidhayak ka shilanyas nahi); chandi mukut daan (personal gesture); matdata shivir, yatayat pakhwada, School Chalo (events); Ajitpur mela (ghoshna hi); avaidh khanan chhapa (enforcement, work nahi); CM ₹569cr event (CM projects); Billasanda sadak (galat vyakti — Vivek Verma ka). Baburam — ₹7cr sanstituti (sirf sifarish); sugar mill maang (maang, kaam nahi); Winter Cup/Swami Vivekananda tournament/Ramlila mela (events, chief guest); flood review (public.app + baithak); Republic Day (rasmi); ElectionMandi puff (weak attribution); Meetha Jal (YouTube-only). Vivek Verma — 1.81cr shilanyas (YouTube-only); 6.32cr Mala nadi pul (adhunikduniya, weak/non-credible); Bisalpur-jila maang (demand only); DM meeting maangen (demand); pita Ram Saran audio vivaad (politics); CM 569cr event (weak attribution); cheeni mill maang (demand); Viksit Bharat chaupal (event); Ahirwara paudhropan (event).
   // Summary (Pilibhit): 4 MLAs researched. 20 entries accepted: sanjay-singh-gangwar (Pilibhit Sadar, BJP) = 6; jaydrath-alias-pravaktanand (Barkhera, BJP) = 3; baburam (Puranpur SC, BJP) = 4; vivek-kumar-verma (Bisalpur, BJP) = 7. Negative entries: 4 — sanjay-singh-gangwar (kisan virodh/bhrashtachar aarop: Patrika Dec 2025, siddh nahi; gaushala vivadit swasthya-daawe: PTI Oct 2024; 2012 MCC mamalon me 3 mahine sazaa: PTI Dec 2022, appeal sthiti apusht); baburam (Bhole Baba vivad me Congress ka siyasi aarop: The Hindu Oct 2024, koi FIR/charge nahi). Koi empty profile nahi. Rejected overall ~45: events, nirikshan-only, demands/proposals, YouTube-only + public.app, weak attribution, galat vyakti, pre-tenure.
 
+
+  // ---- Shahjahanpur district batch (researched 2026-10-13) ----
+  'veer-vikram-singh': [
+    {
+      title: 'Tilhar block me 4.28 km sadak marammat aur 240m interlocking ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/shahjahanpur/tilhar/news/laying-of-foundation-stone-for-road-repair-and-interlocking-work-136542661.html',
+      date: '2025-12',
+      note: 'Status: shilanyas — Phailnagar se Khairpur tak 4.28 km sadak marammat + gaon ke andar 240 meter interlocking; kul lagbhag 82 lakh; Mandi Samiti Tilhar ke antargat; Jalalabad-Katra marg ko jodne wala sampark marg. Tareekh note: Bhaskar page par exact date nahi mili — Nov-Dec 2025 anumanit hai.',
+    },
+  ],
+  'hari-prakash-verma': [
+    {
+      title: 'Nagriya Bhood me 9 lakh ki nahar puliya ka bhoomi pujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 7 Nov 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/shahjahnpur/story-groundbreaking-ceremony-for-9-lakh-inr-canal-bridge-in-nagar-bhud-jalalabad-201762536899109.html',
+      date: '2025-11-07',
+      note: 'Status: bhoomi pujan/shilanyas — Jalalabad rajvah (Sharda nahar khand) km 16.900 par sarkari school ke paas 9 lakh ki puliya; MLA ne Sinchai vibhag adhikariyon se milkar swikriti dilayi; graminon ke anusar azadi ke baad gaon ki pehli puliya. Dainik Bhaskar bhi same event cover karta hai (corroboration).',
+    },
+    {
+      title: 'Lahsadi me Ramganga par 72.50 lakh ke pontoon pul ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Dec 2025 (est.)',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/shahjahanpur/mla-hariprakash-inaugurated-the-construction-work-of-the-pontoon-bridge-in-lahsadi-shahjahanpur-news-c-122-1-spn1003-161623-2025-12-29',
+      date: '2025-12',
+      note: 'Status: shilanyas/nirman shubharambh — Madanapur kshetra ke gaon Nausara Lahsadi me Ramganga/Bahgul par lagbhag 72.50 lakh lagat ka pontoon pul. Article "Sunday" likhta hai (28 Dec 2025), URL slug 2025-12-29. Tareekh note: exact date page par nahi mili, Dec 2025 anumanit hai.',
+    },
+    {
+      title: 'Mirzapur me Kilapur Ganga par pontoon pul ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/shahjahanpur/mirzapur/news/foundation-stone-laid-for-pattern-bridge-over-kilapur-ganga-river-136780972.html',
+      date: '2025-12',
+      note: 'Status: shilanyas — Mirzapur kshetra me Kilapur Ganga nadi par pontoon ("pattern") pul ki adharshila; MLA ne kaha pul banne ke baad CM se sthayi pakke pul ki maang karenge. Article me exact date/lagat nahi.',
+    },
+    {
+      title: 'Jalalabad me Farrukhabad marg par sadak chaudikaran aur retaining wall ka shubharambh',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/shahjahanpur/jalalabad/news/jalalabad-mla-hariprakash-verma-central-budget-2026-road-widening-launch-137147976.html',
+      date: '2026-02',
+      note: 'Status: shubharambh/shilanyas — Azad Nagar me Farrukhabad marg se Gunara mandi gate tak sadak chaudikaran, sudridhikaran aur retaining wall kaam. Article me lagat ka zikr nahi; exact date nahi (Feb 2026 anumanit).',
+    },
+    {
+      title: 'Parashurampuri me kanwariya vishram sthal ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 30 Jul 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/shahjahnpur/story-inauguration-of-kanwadiya-rest-stop-in-jalalabad-for-sawan-pilgrims-201785433511930.html',
+      date: '2026-07-30',
+      note: 'Status: udghatan — Nagar Palika Parishad Jalalabad dwara banaye gaye Sawan-seasonal kanwariya vishram sthal (thaharne, shuddh peyjal, charpai, cooler/pankhe; 24-ghante staff + doctor) ka MLA ne udghatan kiya. Suvidha nagar palika ne banayi, MLA ne udghatan kiya.',
+    },
+  ],
+  'suresh-kumar-khanna': [
+    {
+      title: '424 crore ki 24 pariyojanaon ka shilanyas, Shahid Dwar Shahjahanpur',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 9 Jun 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/shahjahanpur/finance-minister-laid-the-foundation-stone-for-24-projects-worth-rs-424-crore-shahjahanpur-news-c-122-1-sbly1036-145622-2025-06-09',
+      date: '2025-06-09',
+      note: 'Status: shilanyas (sabhi 24 pariyojanaon ka ek saath bhoomi-pujan). Nagar Nigam Shahjahanpur karyakram me Khanna ne kiya. Bade kaam: Amrit 2.0 punargathan peyjal yojana 185 cr (21 tube-well, 6 overhead tank, 333 km pipeline, 45000 ghar connection), Kakra connection centre 34.9 cr, sports complex 28.31 cr, Keruganj smart road 22.2 cr, planetarium 20.37 cr, Lodhipur jalapurti 20.18 cr, mechanized parking 13.37 cr. Ye statewide budget faisla nahi — Shahjahanpur shahar (unke kshetra) ke local kaam hain.',
+    },
+    {
+      title: '7.14 crore se shahar ke 10 vikas karyon ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 12 Sep 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/shahjahanpur/roads-and-drains-to-be-constructed-in-the-city-at-a-cost-of-714-crore-will-provide-relief-from-waterlogging-shahjahanpur-news-c-122-1-sbly1036-184440-2026-09-12',
+      date: '2026-09-12',
+      note: 'Status: shilanyas. Rajya sector yojana phase-1: 4 hot-mix + 6 CC sadak/nali. Ilaake: Subhash Nagar (Health Care Hospital se KGN House), pump house se railway sadak, Eidgah se Kakra Kalan, Kakra Khurd, Azizganj. Jalnikasi + jalbharaav raahat bhi. Khanna aur mayor Archana Verma ne saath kiya.',
+    },
+    {
+      title: '10.70 crore se shahar ki 10 pramukh sadkon ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, Sep 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/shahjahnpur/story-road-development-launched-in-shahjahanpur-with-10-70-crore-investment-201788718502818.html',
+      date: '2026-09',
+      note: 'Status: shilanyas. 8 hot-mix + 2 CC sadak, 2-3 mahine me poorn karne ka lakshya. Sadke: Jiyakhel NH-24 se Abdullahganj-Maghai tola, Char Khamba se Qila Road, Khoya Mandi se Anaj Mandi, Ward-38 (Nidan Pathology se Khemkaran Lal-Barfkhana-Jail Road) sahit. Tareekh note: article me "Ravivar" aur ~37 din pehle likha tha — Sep 2026 anumanit hai.',
+    },
+    {
+      title: 'Mukhyamantri Model Composite Vidyalaya Daudpur ka shilanyas',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, 22 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/shahjahnpur/story-groundbreaking-ceremony-for-chief-minister-model-school-in-shahjahanpur-201774160982557.html',
+      date: '2026-03-22',
+      note: 'Status: bhoomi-pujan + shilanyas. Daudpur urf Muradgaon (Bhawal Khera block), Shahjahanpur. Khanna mukhya atithi. Lagat Hindustan me nahi di (local portal 24.675 cr kehta hai — weak source, isliye note me nahi joda).',
+    },
+  ],
+  'arvind-kumar-singh': [
+    {
+      title: 'Malhpur se 3 sampark margon ka shilanyas, 3.5 crore se adhik',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, 25 Jan 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/shahjahnpur/story-arvind-singh-lays-foundation-for-roads-in-malhpur-benefiting-25-000-residents-201737807253218.html',
+      date: '2025-01-25',
+      note: 'Status: shilanyas. Gaon Malhpur (Kant block) se: Malhpur-Visara, Malhpur-Bahadurpur, Malhpur-Sartholi sampark marg. ~25000 aabadi ko labh. Pehle ke PWD mantri ne swikriti di thi; vidhayak ne shilanyas kiya.',
+    },
+    {
+      title: 'Sikrohi me Sarvodaya Ashram Paddhati Vidyalaya ki manjuri, nirmaan shuru',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 21 Feb 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/shahjahanpur/the-city-race-will-endquality-education-will-be-available-in-dadraul-shahjahanpur-news-c-122-1-spn1003-161623-2025-02-29',
+      date: '2025-02-21',
+      note: 'Status: swikriti/manjuri + nirmaan shuru (poorn nahi). Dadraul block, gaon Sikrohi: JP Narayan Sarvodaya Rajkiya Ashram Paddhati Vidyalaya, 4251.52 lakh (42.5 cr), 30 bigha me bhavan, hostel/lab/library sahit, 11 Oct 2026 tak poorn hone ka lakshya. Article explicit: vidhayak Arvind Singh ne school ki manjuri karaate hue kaam bhi shuru kara diya.',
+    },
+  ],
+  // Summary (Shahjahanpur): 6 MLAs researched. 12 entries accepted: veer-vikram-singh (Katra, BJP) = 1; hari-prakash-verma (Jalalabad, BJP) = 5; suresh-kumar-khanna (Shahjahanpur, BJP; vitt mantri — sirf constituency-local kaam) = 4; arvind-kumar-singh (Dadraul, BJP) = 2. Empty profiles: salona-kushwaha (Tilhar, BJP), chetram (Powayan SC, BJP) — imaandaar empty (koi credible development-work news nahi mili). Negative entries: 0 (guilt-by-association items reject). Rejected overall ~40: pre-tenure (Mar 2022 se pehle), sirf nirikshan/daura, events/upasthiti, sirf maang/proposal/petition, YouTube-only, aggregators, weak/non-credible sources, galat vyakti, state-level mantri faisle.
+
 };
