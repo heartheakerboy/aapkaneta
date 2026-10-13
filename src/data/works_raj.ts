@@ -4512,4 +4512,100 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Viratnagar vidhayak Kuldeep Dhankhar ne NH-48 Jajaikalan se Rampura, Gautamnagar, Badijodi, Saiwad hote hue Saiwad Mod tak ₹25 crore ki 20 km lambi, 7 meter chaudi MDR sadak ka shilanyas kiya; 2 darjan se adhik gaon-dhaniyon ko labh. Article ke anusaar sadak ki ghoshna upmukhya mantri ne Feb 2025 me ki thi (vidhayak ki maang par), budget me shamil hone ke baad shilanyas vidhayak ne kiya. (status: shilanyas; exact date page par nahi mili)',
   },
   ],
+  // ---- Ganganagar district batch (researched 2026-10-13) ----
+  'gurveer-singh': [
+    {
+      title: 'Sadulshahar विधानसभा में ₹5.85 करोड़ के विकास कार्यों की स्वीकृति — लाइब्रेरी, कक्षाकक्ष, ओपन जिम, आंगनबाड़ी',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/sriganganagar/sadulshahar/news/development-work-worth-rs-585-crore-will-be-undertaken-in-sadulshahar-136161593.html',
+      date: '2025-10',
+      note: 'मुख्यमंत्री थार सीमा क्षेत्र विकास योजना के तहत ₹5.85 करोड़ के कार्य मंजूर — विधायक गुरवीर सिंह बराड़ की अनुशंसा पर जारी। 11 गांवों (दौलतपुरा, पक्की, खाटलबाना, हिन्दुमलकोट आदि) में ₹15-15 लाख की लाइब्रेरी; 14 राजकीय स्कूलों में कक्षाकक्ष निर्माण (₹1.85 करोड़); 5 गांवों में ओपन जिम (₹57.05 लाख); 3 आंगनबाड़ी केंद्र; मोहनपुरा खेल मैदान की चारदीवारी (₹10 लाख); मटीली राठान स्कूल में विज्ञान प्रयोगशाला (₹10 लाख); शिवपुर हेरिटेज हाउस की चारदीवारी व स्ट्रीट लाइट (₹20 लाख)। (status: manzoori/swikriti)',
+    },
+  ],
+
+  'jaydeep-bihani': [
+    {
+      title: 'Ganganagar शहर में ₹108.28 लाख के नाला मरम्मत-सड़क कार्यों का शिलान्यास',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Janta Se Rishta, Nov 2024',
+      sourceUrl: 'https://jantaserishta.com/local/rajasthan/ganganagar-mla-jaideep-bihani-laid-the-foundation-stone-for-development-works-worth-rs-10828-lakh-3633087',
+      date: '2024-11',
+      note: 'MLA जयदीप बिहाणी ने स्वयं शिलान्यास किया: 66 फीट रोड पर नाला मरम्मत (₹11.88 लाख), 3 ई छोटी में नाला मरम्मत (₹9.20 लाख), 100 फीट रोड पूर्व दिशा में नाला निर्माण (₹26.01 लाख) — कुल ₹47.09 लाख; सिहाग हॉस्पिटल के पास कबीर चौक से शुगर मिल STP तक बाउंड्री वॉल (₹11.71 लाख), नॉन-स्कीम एरिया सड़क रिकरपेट (₹18.36 लाख), N-J-K ब्लॉक सड़क रिकरपेट (₹31.12 लाख) — कुल ₹61.19 लाख। (status: shilanyas)',
+    },
+    {
+      title: 'ग्रामीण क्षेत्रों में ₹80 लाख के लोकार्पण-शिलान्यास कार्यक्रम की घोषणा (1 अप्रैल 2025)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Janta Se Rishta, Mar 2025 (est.)',
+      sourceUrl: 'https://jantaserishta.com/local/rajasthan/sri-ganganagar-mla-bihani-will-inaugurate-and-lay-the-foundation-stone-of-various-projects-on-1-april-3924167',
+      date: '2025-04',
+      note: 'MLA द्वारा 1 अप्रैल 2025 के कार्यक्रम की घोषणा: नेतेवाला (हड्डा रोडी चारदीवारी मय गेट ₹15 लाख, इंटरलॉकिंग ₹10+10 लाख, स्कूल रसोई/प्रार्थना-स्थल शेड ₹5 लाख), 4LL (इंटरलॉकिंग सड़क ₹10+10 लाख, वॉलीबॉल मैदान ₹2 लाख, विद्यालय सामग्री ₹3 लाख), 5LL/8-9LL (इंटरलॉकिंग चौक-सड़क ₹5+10 लाख, उपस्वास्थ्य केंद्र का उद्घाटन)। (status: ghoshna — karyakram ki ghoshna; poornata ki pushti nahi mili)',
+    },
+    {
+      title: 'Sukhadia Circle चौक के पुनरोद्धार कार्य का लोकार्पण',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Sep 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/sriganganagar/news/the-citys-roads-squares-and-circles-will-shine-like-a-full-moon-even-on-the-night-of-amavasya-bihari-135920994.html',
+      date: '2025-09',
+      note: 'श्रीगंगानगर शहर के सुखाड़िया सर्किल चौक के पुनरोद्धार कार्य का MLA जयदीप बिहाणी ने लोकार्पण समारोह में उद्घाटन किया। चौक पूर्व विधायक राधेश्याम के कार्यकाल की देन था; नये स्वरूप में बदला गया, आने वाले दिनों में महाराजा गंगासिंह की सवारी की झांकी भी लगेगी। MLA ने क्षतिग्रस्त सड़कों के पुनरोद्धार की भी घोषणा की। (status: udghatan)',
+    },
+  ],
+
+  'dungarram-gedar': [
+    {
+      title: 'Jaitsar क्षेत्र में सड़क-नाली और स्कूल कक्षाकक्ष का सयुंक्त लोकार्पण (सांसद + MLA + जिला प्रमुख)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/sriganganagar/shrivijaynagar/news/mp-mla-district-head-inaugurated-in-jaitsar-136423856.html',
+      date: '2025-11',
+      note: 'श्रीगंगानगर सांसद कुलदीप इंदौरा, सूरतगढ़ MLA डूंगरराम गेदर और जिला प्रमुख दुल्लाराम इंदलिया ने जैतसर कस्बे व आसपास के गांवों का दौरा कर विकास कार्यों का लोकार्पण किया: गांव 7LC में विभिन्न निर्माण कार्य, मसानीवाला आबादी में सड़क-नाली निर्माण (स्थानीय निवासियों की लंबे समय से लंबित मांग), 7LC राजकीय उच्च माध्यमिक स्कूल में नया कक्षाकक्ष। (status: udghatan — sanyukt lokarpan)',
+    },
+    {
+      title: 'Shri Shiv Nandi Gaushala (Suratgarh) में शैड-ठाण का लोकार्पण; विधायक निधि से ₹8 लाख की घोषणा',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/sriganganagar/suratgarh/news/inauguration-of-shed-at-shri-shiv-nandi-gaushala-in-suratgarh-136865032.html',
+      date: '2026-03',
+      note: 'किशनपुरा आबादी स्थित श्री शिव नंदी गोशाला में 3 विशाल शैड और ठाण का MLA डूंगरराम गेदर सहित संयुक्त लोकार्पण (शैड दानदाता लालचंद सोनी/नगरपालिका/जनसहयोग से बने थे)। MLA ने गोशाला के कार्यालय व चौकीदार आवास निर्माण हेतु विधायक निधि से ₹8 लाख देने की घोषणा की। (status: udghatan + nidhi ki ghoshna; ₹8 lakh abhi ghoshna-matra, vitaran ki pushti nahi)',
+    },
+  ],
+  // ---- Anupgarh (SC), INC ----
+  'shimla-devi': [
+    {
+      title: '₹32.71 lakh ke vikas karyon ka udghatan — 2 gram panchayaton me MLA LAD fund se',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/sriganganagar/anoopgarh/news/anoopgarh-mla-inaugurates-3271-lakh-development-works-two-gram-panchayats-137537472.html',
+      date: '2026-03',
+      note: 'Anupgarh MLA Shimla Devi (Nayak) ne do gram panchayaton me MLA LAD fund se bane ₹32.71 lakh ke karyon ka udghatan kiya. Gram panchayat 4 MSR: gaon 5 MSR me 825-feet interlocking sadak (₹9.96 lakh), gaon 6 MSR me dharmashala shed (₹5.94 lakh); gram panchayat 72 GB: gaon 71 GB me water works tak 1500-feet kharanja sadak (₹6.96 lakh) aur interlocking sadak (₹9.85 lakh). (status: udghatan — kaam poore)',
+    },
+  ],
+  // ---- Khajuwala (SC), BJP ----
+  'dr-vishwanath-meghwal': [
+    {
+      title: 'Husangsar me ₹10 lakh MLA nidhi se vikas karya + ₹33.08 lakh panchayat bhawan-multipurpose hall ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jun 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/bikaner/news/inauguration-of-panchayat-bhawan-in-husangsar-union-minister-meghwal-gave-rs-10-lakh-for-the-library-dbp-137841124.html',
+      date: '2026-06',
+      note: 'Khajuwala (Khajuwala vishansabha kshetra) ki navsrijit gram panchayat Husangsar me: kendriya mantri aur MLA ne ₹33.08 lakh ki laagat se bane gram panchayat bhawan aur multipurpose hall ka lokarpan kiya; MLA Dr Vishwanath Meghwal ne kshetra ke vikas karyon ke liye apni MLA nidhi se ₹10 lakh dene ki ghoshna ki. Street light, Nagasar shamshan bhumi chardiwari, CC block aur school chardiwari sahit anya karyon ki bhi saughat. (status: udghatan + MLA nidhi ghoshna)',
+    },
+    {
+      title: 'Khajuwala me 3 naye PHC (₹4.61 crore) aur 33/11 kV GSS (₹1.75 crore) ka lokarpan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik News India, Aug 2026 (est.)',
+      sourceUrl: 'https://dainiknewsindia.com/%E0%A4%95%E0%A5%87%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80-%E0%A4%85%E0%A4%B0%E0%A5%8D/',
+      date: '2026-08',
+      note: 'Khajuwala vishansabha kshetra me swasthya-vidyut saughaten: Motigarh PHC (₹1.59 crore), Sattasar PHC (₹1.43 crore), Kharbara PHC (₹1.59 crore) aur Sattasar me 33/11 kV GSS (₹1.75 crore) — kendriya mantri Arjun Ram Meghwal aur Khajuwala MLA Dr Vishwanath Meghwal ne sanyukt roop se lokarpan kiya. (status: udghatan — kaam poore; udghatan kendriya mantri ke sath)',
+    },
+  ],
 };
