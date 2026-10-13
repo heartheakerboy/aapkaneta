@@ -14124,3 +14124,70 @@ upWorks['manisha'] = [
     period: '2022-2027',
   },
 ];
+
+// ---- Mahoba district batch (researched 2026-10-13) ----
+upWorks['rakesh-kumar-goswami'] = [
+  {
+    title: 'Charkhari bypass par 2.350 km four-lane sadak (Rs12+ crore) ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 15 Jan 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/mahoba-mahoba-charkhari-bypass-fourlane-road-project-begins-40108726.html',
+    date: '2026-01-15',
+    note: 'Mahoba shahar me Charkhari bypass par Parmanand tiraha se Jhalkari Bai tiraha tak 2.350 km four-lane sadak (lagat ~Rs12-13.35 crore, PWD) ka bhoomi-poojan/shilanyas sadar vidhayak Rakesh Goswami ne kiya; unki pehal par shasan se swikriti mili. Theka Khajuraho Construction ko, 6 mahine me purnata ka aashwasan. Status: shilanyas — purnata ki alag khabar nahi mili. (Dainik Bhaskar me bhi isi karyakram ki khabar.)',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jila aspatal Mahoba me Rs50 lakh ki IPHL lab ka udghatan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 25 Nov 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/mohoba/story-integrated-public-health-lab-opens-in-mahoba-district-hospital-for-better-health-services-201764095272130.html',
+    date: '2025-11-25',
+    note: 'Mahoba jila aspatal me ~Rs50 lakh lagat ki Integrated Public Health Lab (IPHL) ka feeta kaatkar udghatan vidhayak Rakesh Goswami ne kiya; sarkari swikriti se bani. 150 prakar ki jaanch (urine, thyroid, microbiology, hormonal, heart, culture, CBC, dengue, malaria) nishulk, report 1 ghante me mobile par; Mahoba ke saath Banda, Hamirpur aur Chhatarpur ke marijon ko rahat. Status: lokarpan — purna nirmit karya ka udghatan.',
+    period: '2022-2027',
+  },
+  {
+    title: 'FY 2024-25 me vidhayak nidhi ka shoonya upyog — sarkari portal data (ETV Bharat report)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 21 Jan 2026',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/up-6-mlas-spent-0-paise-for-development-from-mla-fund-in-financial-year-2024-25-know-about-uttar-pradesh-news-ups26012006898',
+    date: '2026-01-21',
+    note: 'NEGATIVE: Gramya vikas vibhag ke portal (mlaladsup.in) ke aankdon ke vishleshan par adharit ETV Bharat report ne Mahoba sadar vidhayak Rakesh Kumar Goswami ka naam un 6 vidhayakon me shamil kiya jinhone FY 2024-25 me vidhayak nidhi (Rs5 crore) ka koi upyog nahi kiya. Vidhayak ka jawab (khabar me darj): sab prastav 3-4 mah pehle vibhagon ko bheje gaye, adhikansh karya pragati par hain, kul Rs5 crore me se sirf Rs4,84,900 shesh hain — upyog me laparwahi nahi. Aankda-prathmik (portal) aur vidhayak ke daave me antar hai; sthiti: aarop (report) + khandan (vidhayak) — dono khabar me spasht.',
+    period: '2022-2027',
+  },
+];
+upWorks['brij-bhushan-rajput'] = [
+  {
+    title: 'Supa (Charkhari block) me Rs 1.73 crore ke Rajkiya Inter College ki bhoomi ka shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 18 Apr 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/mahoba/173-crore-will-be-spent-on-government-inter-college-in-supa-mahoba-news-c-225-1-mah1001-113811-2025-04-18',
+    date: '2025-04-18',
+    note: 'Madhyamik Shiksha Vibhag dwara vikas khand Charkhari ki gram panchayat Supa me Rajkiya Inter College ka nirman (Rs 1.73 crore); shukravar ko vidhayak ne bhoomi ka shilanyas kiya. MLA Supa me inter college ke liye lambe samay se prayasrat tha; banne se grameen bachchon ko 12vi tak dusri jagah nahi jana padega. Status: shilanyas — nirman purnata/udghatan ki alag khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'CHC Charkhari me PM Jan Aushadhi Kendra ka shubharambh',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 10 Jun 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/mahoba/dialysis-machine-will-be-installed-in-chc-charkhari-mahoba-news-c-225-1-mah1001-115172-2025-06-10',
+    date: '2025-06-10',
+    note: 'Vidhayak ne feeta katkar samudaayik swasthya kendra (CHC) Charkhari me PM Jan Aushadhi Kendra ka shubharambh kiya — ab mareezon ko bazaar se 60-70% kam moolya par dawaiyan. Usi karyakram me vidhayak ne CHC me dialysis machine lagwane ki ghoshna ki (status: ghoshna — lagne ki khabar nahi mili); aspatal ko mili nayi ultrasound machine ka nirdesh — ek mahine me shuru karane ko kaha. Prasuti visheshagya/surgeon ki tainati ke baad cesarean delivery shuru; bal rog visheshagya ki on-call tainati ke liye CMO ko nirdesh. Status: udghatan (Jan Aushadhi Kendra) + ghoshna (dialysis).',
+    period: '2022-2027',
+  },
+];
+// ---- REJECT LIST (researched 2026-10-13, Mahoba district) ----
+// IDENTITY CHECK: yah Charkhari ke BJP vidhayak Brij Bhushan Rajput (urf Guddu Rajput, s/o Ganga Charan Rajput, myneta candidate_id=1811) hain — pehalwan-neta Brij Bhushan Sharan Singh (Kaiserganj) se confuse na ho; dono alag vyakti hain. Vidhayak 2022 me dusri baar chune gaye.
+// REJECT: TOI / FPJ / PTI / ThePrint (Jan 2026) — Jal Shakti mantri Swatantra Dev Singh ke kafile ko vidhayak ne roka (Jal Jeevan Mission me khudi sadkon par virodh) — sirf virodh/maang, koi kaam nahi.
+// REJECT: ZoomNews / Lalluram (Feb 2026) — kafila rokne par BJP ne vidhayak ko kaaran-batao notice diya — rajneetik/anushasanik prakriya, na koi kaam na bhrashtachar aarop.
+// REJECT: India TV (Dec 2020) — vidhayak ne suraksha wapas ki (Karaira Kalan me vahan par hamla) — tenure se pehle ka (Dec 2020), aur kaam bhi nahi.
+// REJECT: Latestly (Nov 2018) — divyang bachche ko ek din ka MLA banaya — tenure se pehle ka.
+// REJECT: Dainik Bhaskar (Apr 2026) — Mahoba me 12 crore ki four-lane sadak ka bhoomi poojan — sadar vidhayak Rakesh Goswami ki pahal, is MLA ka kaam nahi.
+// REJECT: public.app (Jul 2025) — Panwari me ABC Public School (PRIVATE) ka udghatan + Swami Brahmanand pratima anavaran — public.app-only source + niji pratishthan, MLA sirf mukhya atithi.
+// REJECT: Dainik Bhaskar (Nov 2025) — Charkhari me Akhil Bharatiya Kavi Sammelan ka shubharambh — sanskritik karyakram, kaam nahi.
+// REJECT: YouTube-only — deputy CM banane ki maang (Agra), profile videos — YouTube-only, rule ke anusar reject.
+// NEGATIVE CHECK: Zee News par Dashahra shastra-pooja ke dauran vidhayak + sathiyon ki celebratory firing ka video (Chandel-kaleen gadhi) — credible outlet, lekin koi FIR/case, aarop ya rebuttal status report me EXPLICIT nahi; parampara-frame me. Rule ke anusar negative entry nahi banai. BJP notice (upar) me bhi koi bhrashtachar/muqadma aarop nahi — sirf anushasanik prakriya. myneta.info 2022 affidavit me 5 declared cases hain, lekin case-specific credible reporting with status nahi mili — isliye koi negative entry nahi.
