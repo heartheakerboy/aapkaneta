@@ -155,7 +155,7 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
       <p style="font-size:15.5px;margin-top:14px">{neta.electionNote}</p>
     </div>
 
-    <h2 class="section-title">Halafnama: {neta.prevAffidavit ? `${neta.prevAffidavit.year} vs ${neta.state === 'Gujarat' ? '2022' : '2024'}` : '2019 vs 2024'}</h2>
+    <h2 class="section-title">Halafnama: {neta.prevAffidavit ? `${neta.prevAffidavit.year} vs ${neta.state === 'Gujarat' ? '2022' : '2024'}` : (neta.state === 'Gujarat' ? '2017 vs 2022' : '2019 vs 2024')}</h2>
     <div class="card">
       {neta.prevAffidavit ? (
         <>
