@@ -831,3 +831,154 @@ delhiWorks['gopal-rai'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- South district batch (researched 2026-10-13) ----
+
+delhiWorks['satish-upadhyay'] = [
+{
+    title: 'Malviya Nagar me Masjid Moth, Gautam Nagar, Gurjar Dairy, Adchini ki galiyon me RMC sadak-nalee aur Shaheed Bhagat Singh Park ke liye 110.96 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 18 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_43_4465-4475_18-09-2025.pdf',
+    date: '2025-09-18',
+    note: 'F.No.18B(611)/AC-43/8DVS/UD/MLALADS/2025-26: A/A Rs. 110.96 lakh; first installment Rs. 11.05 lakh MCD ko — copy-to "Sh. Satish Upadhyay, Hon\'ble MLA, Malviya Nagar Assembly Constituency (AC-43)". 9 kaam (Work ID AC-43/2025-26/11 se /19, Ward 148/SZ aur 149/SZ): Masjid Moth me RMC galiyan (H.No.139-152 via Church; Radha Krishan Mandir ke paas), Gautam Nagar me 3 RMC galiyan, Gurjar Dairy me RMC gali + nalee/drain (Balbir Saxena Marg se Gate No.3, Mother Dairy tak), Adchini Village me gali (DDA Park se BSES office), aur Shaheed Bhagat Singh Park 80 Block Malviya Nagar ka vikas (paver block, grill, painting). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Malviya Nagar ke liye MCD Horticulture vibhag hetu 1 tipper truck ki khareed par 24.74 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_43_9735-9745_04-12-2025.pdf',
+    date: '2025-12-04',
+    note: 'F.No.18B(611)/AC-43/8DVS/UD/MLALADS/2025-26: A/A Rs. 24.74 lakh (est. Rs. 25.72 lakh); first installment Rs. 2.47 lakh MCD ko — "Procurement of 01 Nos. Tipper Truck for the department of Horticulture of MCD for Malviya Nagar Constituency (AC-43)", Work ID AC-43/2025-26/19, U.ID 8DVS/3670/633, copy-to "Sh. Satish Upadhyay, Hon\'ble MLA, Malviya Nagar Assembly Constituency (AC-43)". Status: swikrit (A/A + first installment) — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'IIT flyover ke paas Outer Ring Road ke sudridhikaran karya ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 24 Feb 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/rekha-government-pwd-minister-inaugurated-ring-road-in-delhi-delhi-news-dls25022401845',
+    date: '2025-02-24',
+    note: 'Nayi sarkar ke PWD sadak-marammat abhiyan me Malviya Nagar vidhayak Satish Upadhyay ne IIT flyover ke paas Outer Ring Road ke sudridhikaran karya ka udghatan kiya. Status: shubharambh — karya shuru; purnata ki alag khabar nahi mili. Caveat: article sarkari PWD drive ki vyapak khabar ka hissa hai; swatantra ground-reporting patli hai.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['gajender-singh-yadav'] = [
+{
+    title: 'Vasant Kunj me 30 street light poles aur 1 semi high-mast pole ke liye 12.65 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 18 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_45_4531-4541_18-09-2025.pdf',
+    date: '2025-09-18',
+    note: 'F.No.18B(613)/AC-45/8DVS/UD/MLALADS/2025-26: A/A Rs. 12.65 lakh (est. Rs. 12.71 lakh); first installment Rs. 1.26 lakh MCD ko — "Provision of 30 nos. Street Light Poles and 1 no. Semi High Mast pole with LED fittings in B-2 Rock View Apartment 455 Vasant Kunj under Mehrauli Assembly Constituency (AC-45) under South Zone", Work ID AC-45/2025-26/05, U.ID 8DVS/3670/01, copy-to "Sh. Gajender Singh Yadav, Hon\'ble MLA, Mehrauli Assembly Constituency (AC-45)". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Ber Sarai ke paas Vedanta Deshika Marg par sadak jeernoddhar karya ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 24 Feb 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/rekha-government-pwd-minister-inaugurated-ring-road-in-delhi-delhi-news-dls25022401845',
+    date: '2025-02-24',
+    note: 'Nayi sarkar ke PWD sadak-marammat abhiyan me Mehrauli vidhayak Gajender Singh Yadav ne Vedanta Deshika Marg par Ber Sarai ke paas jeernoddhar karya ka udghatan kiya. Status: shubharambh — karya shuru; purnata ki alag khabar nahi mili. Caveat: article sarkari PWD drive ki vyapak khabar ka hissa hai; swatantra ground-reporting patli hai.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['kartar-singh-tanwar'] = [
+{
+    title: 'Sanjay Gandhi Park (Bhati Mines) me open gym ke liye SBR tile flooring ka 2.65 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 20 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_46_3673-3683_20-08-2025.pdf',
+    date: '2025-08-20',
+    note: 'F.18B(614)/AC-46/8DVS/UD/MLALADS/2025-26/3673-3683: A/A & E/S Rs. 2.65 lakh; first installment Rs. 0.26 lakh MCD ko — "Providing & Laying of SBR Tile Flooring under open Gym area at Sanjay Gandhi Park in Bhati Mines, Ward No. 158, South Zone", Work ID AC-46/2025-26/02, U.ID 8DVS/3670/362. Order me "Chhatarpur Assembly Constituency (AC-46)" saaf likha hai; "in continuation of 7DVS/6DVS" clause nahi hai. Caveat: ye PDF do orders ka merged scan hai (peeche F.18B(616)/AC-48/8DVS ka 22.08.2025 wala final-installment order juda hai — wo reject), isliye copy-to section me MLA ka naam OCR-garbled hai; F.No series F.18B(614)/AC-46/8DVS + address "H. No. 38, Fatehpur Beri" 01.09.2025 wale saaf order (Sh. Kartar Singh Tanwar, Chhatarpur AC-46) se match karta hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },  {
+    title: 'Bhati (Ward 158) me 270 naye street lights ke liye 9.95 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 1 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_46_4079-4089_01-09-2025.pdf',
+    date: '2025-09-01',
+    note: 'F.18B(614)/AC-46/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 9.95 lakh; first installment Rs. 0.99 lakh MCD ko — "Provision of 270 Nos. New Street Light on existing Poles with allied accessories in Ward No. 158 Bhati under South Zone", Work ID AC-46/2025-26/05, U.ID 8DVS/3670/451. Order me "Chhatarpur Assembly Constituency (AC-46)" aur copy-to me "Sh. Kartar Singh Tanwar, Honble MLA Chhatarpur Assembly Constituency (AC-46), H. No. 38, Fatehpur Beri" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },  {
+    title: 'Chhatarpur-Sultanpur-Jaunapur me drainage, lane aur park works ke liye 47.45 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 30 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_46_5070-5080_30-09-2025.pdf',
+    date: '2025-09-30',
+    note: 'F.18B(614)/AC-46/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 47.45 lakh; first installment Rs. 4.73 lakh MCD ko — 3 kaam: (1) "Imp to drainage system from Madrsa to Sharma shop (F&G block), Chhatarpur village, Ward No. 159 Chhatarpur M-IV/SZ" Rs. 15.05 lakh, Work ID AC-46/2025-26/09, U.ID 8DVS/3670/538; (2) "Construction of drain and Imp. of lane from Rana Niwas to Masjid, Sultanpur village Ward No. 159/M-IV/SZ" Rs. 20.92 lakh, Work ID AC-46/2025-26/10, U.ID 8DVS/3670/539; (3) "Supply & installation of Children play equipments at Jaunapur village Park Ward No. 158, South Zone" Rs. 11.48 lakh, Work ID AC-46/2025-26/11, U.ID 8DVS/3670/555. Order me "Chhatarpur Assembly Constituency (AC-46)" saaf; copy-to me naam OCR-garbled par F.No series + address "H. No. 38, Fatehpur Beri" 01.09.2025 wale saaf order (Kartar Singh Tanwar) se match karta hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },  {
+    title: 'Saidulajab-Chhatarpur me 3 drainage works ke liye 27.80 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 28 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_46_9504-9514_28-11-2025.pdf',
+    date: '2025-11-28',
+    note: 'F.18B(614)/AC-46/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 27.80 lakh; first installment Rs. 2.77 lakh MCD ko — 3 kaam: (1) "Improvement and Re-Modelling of existing drainage system by providing bricks work near We Cook restaurant to CNG pump SSN Marg Raipur Ward No.160, Saidulajab - M-IV/SZ" Rs. 8.50 lakh, Work ID AC-46/2025-26/18, U.ID 8DVS/3670/637; (2) "Construction of drain by providing Brickwork from Paryavaran Complex B Block to drain Near Mandir marg in Saidulajab Village in Ward No.160/M-IV/SZ, Saidulajab" Rs. 9.31 lakh, Work ID AC-46/2025-26/19, U.ID 8DVS/3670/638; (3) "Construction of drain and IMP to lane from Jaffer Hs to Masjid behind kabristan in gate Chattarpur Village, WardNo.159, M-IV/SZ" Rs. 9.99 lakh, Work ID AC-46/2025-26/20, U.ID 8DVS/3670/639. Order me "Chhatarpur Assembly Constituency (AC-46)" saaf; copy-to me naam OCR-garbled par F.No series + address "H. No. 38, Fatehpur Beri" 01.09.2025 wale saaf order (Kartar Singh Tanwar) se match karta hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['prem-chauhan'] = [
+{
+    title: 'Tigri I1 Colony community hall me internal electrification ke liye 16.69 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 27 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_47_4013-4033_27-08-2025_1.pdf',
+    date: '2025-08-27',
+    note: 'F.18B(615)/AC-47/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 16.69 lakh; first installment Rs. 1.66 lakh DUSIB ko — "Remaining work for Internal Electrification & other allied accessories in Community facility Centre/Community Hall Building at I1 Colony, Tigri", Work ID AC-47/2025-26/01, U.ID 8DVS/3670/443. Order me "Deoli Assembly Constituency (AC-47)" aur copy-to me "Sh. Prem Chauhan, Honble MLA Deoli Assy, Constituency (AC-47)" saaf likha hai. "Remaining work" kaam ka vivaran hai (purane 7DVS ka installment nahi — "in continuation" clause nahi, F.No 8DVS hai). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },  {
+    title: 'Sangam Vihar L-1A me 11KV line shifting ke liye 10.90 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 6 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_47_5213-5223_06-10-2025_1.pdf',
+    date: '2025-10-06',
+    note: 'F.18B(615)/AC-47/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 10.90 lakh; first installment Rs. 8.17 lakh BSES-Rajdhani ko — "Shifting of 11 KV HVDS line at L-1A, Sangam vihar in Deoli Constituency due to reduction of clearance upon raising of road level", Work ID AC-47/2025-26/02, U.ID 8DVS/3670/546. Copy-to me "Sh. Prem Chauhan, Honble MLA Deoli Assy, Constituency (AC-47)". Caveat: order ke body me "10% of the estimated cost i.e. Rs. 8.17 Lakh" likha hai par 8.17 lakh = 75% hai (table header "75% of Estimated Amount") — BSES electrical works wale template ka pattern hai (dusri ACs ke BSES orders me bhi aisa hi); phir bhi ye "First Installment" hai, koi "in continuation of 7DVS/6DVS" clause nahi. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },  {
+    title: 'Deoli me 2000m rumble strip aur 15 signage boards ke liye 59.88 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 6 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_47_5224-5234_06-10-2025_1.pdf',
+    date: '2025-10-06',
+    note: 'F.18B(615)/AC-47/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 59.88 lakh; first installment Rs. 5.98 lakh I&FC ko — 2 kaam: (1) "Providing & Fixing of 2000 metre Rumble Strip at various location in Devli AC-47" Rs. 48.24 lakh, Work ID AC-47/2025-26/03, U.ID 8DVS/3670/253; (2) "Providing and Fixing 15 nos of signage boards at different locations in Devli AC-47" Rs. 11.64 lakh, Work ID AC-47/2025-26/04, U.ID 8DVS/3670/254. Copy-to me "Sh. Prem Chauhan, Honble MLA Deoli Assy, Constituency (AC-47)" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },  {
+    title: 'Deoli ke liye MCD Horticulture tipper truck ke liye 24.74 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_47_9515-9525_28-11-2025_1.pdf',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 28 Nov 2025',
+    date: '2025-11-28',
+    note: 'F.18B(615)/AC-47/8DVS/UD/MLALADS/2025-26: A/A Rs. 24.74 lakh; first installment Rs. 2.47 lakh MCD ko — "Procurement of 01 Nos. Tipper Truck for the department of Horticulture of MCD for Deoli Constituency (AC-47)", Work ID AC-47/2025-26/03, U.ID 8DVS/3670/631. Copy-to me "Sh. Prem Chauhan, Honble MLA Deoli Assy, Constituency (AC-47)" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['dr-ajay-dutt'] = [
+{
+    title: 'Ambedkar Nagar ke liye MCD Horticulture tipper truck ke liye 24.74 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 2 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_48_9592-9602_02-12-2025.pdf',
+    date: '2025-12-02',
+    note: 'F.18B(616)/AC-48/8DVS/UD/MLALADS/2025-26: A/A Rs. 24.74 lakh; first installment Rs. 2.47 lakh MCD ko — "Procurement of 01 Nos. Tipper Truck for the department of Horticulture of MCD for Ambedkar Nagar Constituency (AC-48)", Work ID AC-48/2025-26/01, U.ID 8DVS/3670/632. Copy-to me "Sh. Ajay Dutt, Honble MLA, Ambedkar Nagar Assembly Constituency (AC-48)" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
