@@ -14,6 +14,7 @@ import { gujWorks } from './works_guj';
 import { rajWorks } from './works_raj';
 import { prevMha } from './prev_mha';
 import { prevGuj } from './prev_guj';
+import { prevRaj } from './prev_raj';
 import type { Neta, Constituency } from './pilot';
 
 export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas];
@@ -25,9 +26,9 @@ for (const n of allNetas) {
   if (w && w.length) n.works = [...n.works, ...w];
 }
 
-// Overlay previous-election affidavit comparison data (Rajasthan 2018 vs 2023: pending)
+// Overlay previous-election affidavit comparison data (Rajasthan 2018 vs 2023)
 for (const n of allNetas) {
-  n.prevAffidavit = (n.state === 'Rajasthan' ? null : (n.state === 'Gujarat' ? prevGuj : prevMha)[n.slug]) ?? null;
+  n.prevAffidavit = (n.state === 'Rajasthan' ? prevRaj : (n.state === 'Gujarat' ? prevGuj : prevMha))[n.slug] ?? null;
 }
 
 // State helpers
