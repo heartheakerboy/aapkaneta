@@ -2011,10 +2011,10 @@ export const gujNetas: Neta[] = [
     partyShort: 'BJP',
     post: 'MLA',
     state: 'Gujarat',
-    constituency: 'Rajkot South-',
+    constituency: 'Rajkot South',
     constituencySlug: 'rajkot-south',
     tenures: [
-      { post: 'MLA', constituency: 'Rajkot South-', constituencySlug: 'rajkot-south', party: 'Bharatiya Janata Party', start: '2022', end: '2027' },
+      { post: 'MLA', constituency: 'Rajkot South', constituencySlug: 'rajkot-south', party: 'Bharatiya Janata Party', start: '2022', end: '2027' },
     ],
     works: [],
     fund: {
@@ -2031,7 +2031,7 @@ export const gujNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Gujarat2022/candidate.php?candidate_id=5011',
       backgroundNote: '',
     },
-    electionNote: '2022 me Rajkot South- se jeete.',
+    electionNote: '2022 me Rajkot South se jeete.',
   },
   {
     slug: 'bhanuben-manoharbhai-babariya',
@@ -5353,7 +5353,7 @@ export const gujConstituencies: Constituency[] = [
   { slug: 'wankaner', name: 'Wankaner', type: 'Vidhan Sabha', number: 67, district: 'Morbi', reservation: '—', state: 'Gujarat' },
   { slug: 'rajkot-east', name: 'Rajkot East', type: 'Vidhan Sabha', number: 68, district: 'Rajkot', reservation: '—', state: 'Gujarat' },
   { slug: 'rajkot-west', name: 'Rajkot West', type: 'Vidhan Sabha', number: 69, district: 'Rajkot', reservation: '—', state: 'Gujarat' },
-  { slug: 'rajkot-south', name: 'Rajkot South-', type: 'Vidhan Sabha', number: 70, district: 'Rajkot', reservation: '—', state: 'Gujarat' },
+  { slug: 'rajkot-south', name: 'Rajkot South', type: 'Vidhan Sabha', number: 70, district: 'Rajkot', reservation: '—', state: 'Gujarat' },
   { slug: 'rajkot-rural', name: 'Rajkot Rural', type: 'Vidhan Sabha', number: 71, district: 'Rajkot', reservation: 'SC', state: 'Gujarat' },
   { slug: 'jasdan', name: 'Jasdan', type: 'Vidhan Sabha', number: 72, district: 'Rajkot', reservation: '—', state: 'Gujarat' },
   { slug: 'gondal', name: 'Gondal', type: 'Vidhan Sabha', number: 73, district: 'Rajkot', reservation: '—', state: 'Gujarat' },
