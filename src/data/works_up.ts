@@ -13751,3 +13751,183 @@ upWorks['krishna-paswan'] = [
     period: '2022-2027',
   },
 ];
+
+// ---- Banda district batch (researched 2026-10-13) ----
+upWorks['ramkesh-nishad'] = [
+  {
+    title: 'Pailani (Tindwari) me Utsav Bhavan ka bhoomi pujan aur shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'City News Uttar Pradesh, Sep 2026',
+    sourceUrl: 'https://citynewsuttarpradesh.in/news/81861',
+    date: '2026-09',
+    note: 'Gram panchayat Pailani me samudayik Utsav Bhavan (shaadi-vivah, samajik baithak, sanskritik karyakram) ke nirman ka bhoomi pujan/shilanyas mantri ne kiya. Status: shilanyas — nirman purna hone ya lokarpan ki alag khabar nahi mili. Exact date page par nahi mili; search index ke "22 din pehle" se Sep 2026 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Singhauli (Tindwari) me vidhayak nidhi se Atal Dwar ka lokarpan aur Swami Tyagi Maharaj ki murti ka anavaran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 27 Nov 2024',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/banda/story-minister-ramkesh-nishad-inaugurates-atal-construction-and-statue-in-singhauli-201732730914484.html',
+    date: '2024-11-27',
+    note: 'Vidhayak nidhi se nirmit Atal Dwar ka lokarpan aur Brahmleen Swami Tyagi Maharaj ki murti ka anavaran mantri ne kiya. Status: lokarpan/anavaran (kaam purna).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tindwari me 150 margon ke nirman aur sinchai ke liye Rs 1,100 crore swikrit karane ka mantri ka daava',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Live Hindustan, 27 Nov 2024',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/banda/story-minister-ramkesh-nishad-inaugurates-atal-construction-and-statue-in-singhauli-201732730914484.html',
+    date: '2024-11-27',
+    note: 'Singhauli karyakram me mantri ke bayan (Hindustan ne report kiya): Tindwari vidhan sabha me 150 margon ka nirman karaya jayega; kisano ki sinchai ke liye pradesh sarkar se Rs 1,100 crore swikrit karaye hain; Ken-Betwa link pariyojana kisano ke liye vardaan hogi. Status: ghoshna/daava — margon par bhavishya-kaaleen bayan; swikriti aur nirman ka independent verification nahi.',
+    period: '2022-2027',
+  },
+];
+
+// ---- vishambhar-singh (Vishambhar Singh Yadav, Baberu, SP) ----
+// NOTE: Baberu Banda jile me hai; Chitrakoot jile me is naam ka koi doosra kshetra nahi — identity confirmed.
+upWorks['vishambhar-singh'] = [
+  {
+    title: 'Kalinjar durg kshetra me antarrajya bus stand ke liye 5 bigha bhoomi prashasan ko daan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navbharat Times, Dec 2025',
+    sourceUrl: 'https://navbharattimes.indiatimes.com/state/uttar-pradesh/banda/sp-mla-vishambhar-singh-yadav-donated-5-bighas-of-land-to-administration-for-development-of-kalinjar-fort/articleshow/125957530.cms',
+    date: '2025-12',
+    note: 'DM ki pahal par vidhayak ne apni 5 bigha bhoomi (divangat beton ki bahuon ke naam) prashasan ko daan-patra dwara di; is par Kalinjar me Roadways antarrajya bus stand banega. Status: daan-patra panjikrit; Dainik Bhaskar (Mar 2026, est.) ke anusaar lagbhag Rs 8 crore, 7 bigha pariyojana ka bhoomi pujan ho chuka hai. Exact date page par nahi mili; search index ke "303 din pehle" se Dec 2025 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Baberu block me 10 divyang labharthiyon ko motorized cycles ka vitran (vidhayak nidhi Rs 2 lakh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tarun Mitra, Jan 2026',
+    sourceUrl: 'https://www.tarunmitra.in/state/uttar-pradesh/with-the-help-of-mla-fund-mla-distributed-motorized-bicycles/article-123888',
+    date: '2026-01',
+    note: 'Baberu block parisar me vidhayak nidhi (Rs 2 lakh) ke sahyog se 10 divyang labharthiyon (80% se adhik viklangta) ko ~Rs 45,000 prati motorized cycle vitrit; jila divyang kalyan adhikari ke sahyog se. Status: vitran purna. Exact date page par nahi mili; search index ke "259 din pehle" se Jan 2026 (est.).',
+    period: '2022-2027',
+  },
+];
+
+upWorks['ommani-varma'] = [
+  {
+    title: 'Kalinjar kile tak 2 km pahadi marg ka Rs 7.44 crore se chaurikaran (kaam chal raha hai)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'City News Uttar Pradesh, Oct 2026',
+    sourceUrl: 'https://citynewsuttarpradesh.in/news/82551',
+    date: '2026-10',
+    note: 'Baghelabari mod se Kalinjar kile tak 2 km pahadi rasta (3.75m se 5.5m) — interlocking, retaining wall, crash barriers; contractor Messrs Madan Construction, target 15 March 2027. Article ke anusaar vidhayak ki pahal par; 16 March 2026 ko prashasanik swikriti, ASI NOC 10 July 2026 ke baad kaam shuru, filhal retaining wall ka kaam chal raha hai. Status: nirmanadhin. Exact publication date page par nahi mili — search metadata se Oct 2026.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kalinjar me Rs 945.55 lakh ka roadways bus stand — bhoomi pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tarun Mitra, Jan 2026',
+    sourceUrl: 'https://www.tarunmitra.in/state/uttar-pradesh/the-process-of-construction-of-bus-stand-started-in-kalinjar/article-120315',
+    date: '2026-01',
+    note: 'Kalinjar durg ke neeche 1.26 hectare adhigrahit bhoomi par roadways bus stand ka nirmaan (karya-dai sanstha C&D S Unit, Banda). Vidhayak Om Mani Varma ne bhoomi pujan kiya; article me "vidhayak ka prayas rang laya" likha hai. Status: bhoomi pujan / nirmaan prakriya shuru. Exact date page par nahi mili — search metadata ("279 days ago") se Jan 2026.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Naraini kasbe me Rs 20 lakh ka naya 11 kVA feeder — aapurti shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 27 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/banda/story-new-11kva-feeder-launched-in-naraini-for-improved-power-supply-201774582933357.html',
+    date: '2026-03-27',
+    note: 'Naraini kasbe ke power house me lagbhag Rs 20 lakh ki lagat se naya 11 kVA feeder sthapit; vidhayak Ommani Varma ne shubharambh kiya. Ab tak 33/11 kVA upkendra ke 11 kV town feeder se aapurti hoti thi jisse overloading/line breakdown par badha aati thi. Status: purna/lokarpan (aapurti chalu).',
+    period: '2022-2027',
+  },
+];
+
+upWorks['prakash-dwivedi'] = [
+  {
+    title: 'Kiran College Chauraha se Babulal Chauraha tak aadhunik sadak — Rs 2388.59 lakh swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, May 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/banda/story-inauguration-of-modern-road-project-in-banda-for-urban-development-201778774819501.html',
+    date: '2026-05',
+    note: 'Kiran College Chauraha se Padmakar Chauraha, Bakarganj Chauraha, Chhawni hote hue Babulal Chauraha tak aadhunik sadak + sudridh nala + underground cabling + street light + yatri shelter. Awas vibhag se kul Rs 2388.59 lakh swikrit, FY 2025-26 me Rs 1194.30 lakh pratham kist avmukt. Vidhayak Prakash Dwivedi aur nagar palika adhyaksh Malti Gupta Basu ne bhoomi pujan kiya. Status: shilanyas/bhoomi pujan. Exact publication date page par nahi mili — story image metadata (2026/05) aur search se May 2026.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Aliha rajbaha ka ~10 km chaurikaran-sudridhikaran — Rs 1060.24 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Newstrack, 4 Mar 2024',
+    sourceUrl: 'https://newstrack.com/uttar-pradesh/banda/road-elevation-mla-performed-bhoomi-pujan-banda-news-in-hindi-428715',
+    date: '2024-03-04',
+    note: 'Aliha gaon me 9.700 km lambe rajbaha ka chaurikaran/sudridhikaran (PWD Khand-1) — Rs 1060.24 lakh. Vidhayak Prakash Dwivedi ne 4 March 2024 ko bhoomi pujan kiya. Status: bhoomi pujan/shilanyas.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Devrar-Anthuva marg ka chaurikaran (Rs 26.38 crore) — bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, Jun 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/banda/story-prakash-dwivedi-addresses-public-issues-and-performs-groundbreaking-for-road-expansion-in-banda-201780333490792.html',
+    date: '2026-06',
+    note: 'Gram Anthuva (sadar vidhan sabha) me Rs 26.38 crore ki lagat se sadak chaurikaran/sudridhikaran — lepit satah 3.75m se 5.50m, abadi kshetra me CC sadak + nala. Vidhayak Prakash Dwivedi ne bhoomi pujan/shilanyas kiya. Status: shilanyas. Exact date page par nahi mili — search metadata se Jun 2026.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kachehri Tiraha se Muktidham Gate tak four-lane sadak (Rs 21 crore) — bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 17 Jan 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/banda/mla-and-dm-performed-bhoomi-pujan-for-the-road-banda-news-c-212-1-bnd1004-120795-2025-01-17',
+    date: '2025-01-17',
+    note: 'Kachehri Tiraha se Muktidham Gate tak ~1 km four-lane marg — divider, dono taraf 9-9m lane, footpath; Rs 21 crore swikrit, PWD chaurikaran karayega. Jal Shakti rajya mantri Ramkesh Nishad, sadar vidhayak Prakash Dwivedi, chairperson Malti Gupta Basu aur DM Nagendra Pratap ne bhoomi pujan kiya. Status: shilanyas. Date URL slug se.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Anthuva me Rs 41 lakh ka samudaik bhavan + Kalka Devi mandir parisar ka Rs 1.72 crore kayakalap — shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bundelkhand News, 12 Jul 2026',
+    sourceUrl: 'https://bundelkhandnews.com/Foundation-stones-laid-for-multi-crore-development-projects-in-Banda-Bhoomi-Pujan-performed-by-the-Sadar-MLA-and-Municipal-Council-Chairperson',
+    date: '2026-07-12',
+    note: 'Mahua vikas khand, gram panchayat Anthuva me ~Rs 41 lakh ka samudaik bhavan (barat ghar); Khutla mohalla Kalka Devi mandir parisar ka ~Rs 1.72 crore kayakalap — talaab sundarikaran, kala manch, shauchalaya, guest house, mukhya dwar. Vidhayak Prakash Dwivedi aur nagar palika adhyaksh Malti Gupta Basu ne bhoomi pujan/shilanyas kiya. Status: shilanyas. Exact date page par nahi thi — "ravivar" + images folder (202607) se 12 Jul 2026 (Sunday) anumaanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Amrit 2.0 ke tahat Swaraj Colony me peyjal yojana ka bhoomi pujan (24x7 paani)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 7 Nov 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/banda/story-water-supply-solution-in-banda-clean-water-to-third-floor-without-pumping-201762454222610.html',
+    date: '2025-11-07',
+    note: 'Swaraj Colony Ward 14, Banda me Amrit 2.0 yojana ki peyjal pariyojana ka bhoomi pujan — vidhayak Prakash Dwivedi aur Malti Gupta Basu. Daava: pariyojana purna hone par Swaraj Colony aur Awas Vikas A Block ke upbhoktaon ko teesri manjil tak bina motor 24 ghante swachh peyjal. Status: bhoomi pujan; lagat ka aankda article me nahi diya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Moram-lade 2 truck seez mamle me SDM se jhadap ka aarop (vidhayak ne sabhi aarop nakare)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala + ETV Bharat, 24 Jun 2025',
+    sourceUrl: 'https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/fight-between-bjp-mla-and-sdm-after-seizing-two-overloaded-trucks-carrying-gravel-in-banda-full-story-2025-06-24',
+    date: '2025-06-24',
+    note: '22 Jun 2025 ki raat Naraini SDM Amit Shukla ne Girwan kshetra Paigambarpur me moram-lade 2 overloaded truck seez kiye; vidhayak Prakash Dwivedi saathiyon ke saath mauke par pahunche. Aarop: vidhayak ne SDM ko thappad jade, police ke saath dhakka-mukki. SDM ke driver ne 4 namzad + 25-30 agyat ke khilaf 10 dharaon me report darj karai — report me VIDHAYAK KA NAAM NAHI. 24 Jun ko vidhayak ne press conference me sabhi aarop niradhar bataye, FIR me naam na hone ka hawala diya. Status: aarop (explicit) + khandan (explicit) — jaanch/nyayik natije ki khabar nahi. ETV Bharat rebuttal: https://www.etvbharat.com/hi/!state/bjp-mla-prakash-dwivedi-held-a-press-conference-in-banda-uttar-pradesh-news-ups25062406612',
+    period: '2022-2027',
+  },
+];
+
+// ---- REJECTED (batch W2) ----
+// ommani-varma:
+// 1. Kalinjar fort facade/street lights Rs 6 crore (Jagran, 12 Oct 2026) — tourism dept project; MLA ne sirf bhoomi pujan kiya, weak attribution → reject.
+// 2. School-merger virodh patra (public.app, Feb 2026) — maang/virodh, kaam nahi → reject.
+// 3. Fasal survey ke liye CM ko patra (Live Hindustan, Sep 2026) — maang, kaam nahi → reject.
+// 4. Pati Pavan Varma ka SDM-morang vivad (Live Hindustan, 24 Jun 2025) — aarop pati par, guilt-by-association; task rule ke anusar MLA par negative nahi → reject.
+// 5. CM Yogi Rs 710 crore Banda event (Outlook/FPJ, Jul 2026) — CM ka event, MLA sirf naam-upasthiti; attributable kaam nahi → reject.
+// 6. Pradhan sammelan/mang (Live Hindustan, Jun 2026) — dusron ki maang, kaam nahi → reject.
+// prakash-dwivedi:
+// 1. Kotwali Chauraha aadhunik public toilet (Bhaskar, Feb 2025) — Nagar Palika ne banwaya; MLA ne sirf anavaran kiya (ceremonial, weak attribution) → reject.
+// 2. Prabhari mantri samiksha baithak (bhaskarnewsupuk.in, Oct 2026) — samiksha/meeting, maud nirikshan; kaam nahi → reject.
+// 3. Bijli-paani samiksha baithak (YouTube, Sky India TV) — review meeting, kaam nahi → reject.
+// 4. Amrit 2.0 bhoomi pujan (public.app, Nov 2025) — duplicate of Live Hindustan coverage (item 6); canonical source chuna → dedupe.
+// 5. CM Yogi Rs 710 crore Banda event — CM ka event; attributable kaam nahi → reject.
