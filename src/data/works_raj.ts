@@ -857,4 +857,213 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'CM budget ghoshna 2024-25 ke tahat Vallabhnagar AC me Nagliya-Kheroda Baggad road via Kapdiyon ka Kheda-Kanna Mataji ₹3.50cr aur Vana-Khedli sadak ₹1.50cr manzoor. Article ke anusaar vidhayakon ki anushansa par manzoori. Status: manzoori.',
   },
   ],
+
+  // ---- Kota district batch (researched 2026-10-13) ----
+  'chetan-patel-kolana': [
+  {
+    title: 'Tail-area kisaano ke liye naharon me paani ki maang — pradarshan + 3-din ka ultimatum',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 22 Feb 2024',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/mla-chetan-patel-took-to-the-streets-with-farmers-water-is-not-reaching-the-tail-area-from-canals-rjs24022204846',
+    date: '2024-02-22',
+    note: 'Chambal naharon ke tail-kshetra ke kheton me paani na pahunchne par kisaano ke saath Itava SDM karyalaya ke bahar pradarshan; prashasan ko 3 din me paani pahunchane ka ultimatum, warna Kota collectorate gherav ki chetavni. Status: maang/aandolan (vipakshi MLA ki accountability-pahal).',
+  },
+  {
+    title: 'Sultanpur nagar palika adhyaksh chunav virodh me FIR (rajkarya me badha ka aarop)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhasakshi, Oct 2026 (est.)',
+    sourceUrl: 'https://www.prabhasakshi.com/amp/news/rajasthan-congress-mla-chetan-patel-booked-tika-ram-jully-slams-bjp-government',
+    date: '2026-10 (est.)',
+    note: 'Sultanpur nagar palika adhyaksh ke chunav ke dauran virodh-pradarshan ke silsile me Chetan Patel aur ~27 anyon ke khilaf sadak jaam aur rajkarya me badha ke aarop me FIR; jaanch CID-CB ko saunpi gayi. Vipakshi neta Tika Ram Jully ne ise "janpratinidhi ki awaaz dabane ka prayas" bataya. Status: aarop/FIR — nyayik parinaam ki swatantra pushti nahi. Exact date page par nahi mili.',
+  },
+  ],
+
+  'heeralal-nagar': [
+  {
+    title: 'Sangod me ₹17.82 crore ke vikas karyon ka lokarpan-shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Zee News Hindi, Oct 2026 (est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/kota/rajasthan-news-bhajanlal-government-sangod-development-energy-minister-heeralal-nagar/1774873202222',
+    date: '2026-10 (est.)',
+    note: 'Panchayat samiti parisar me poorna hue aur naveen swikrit karyon ki pattikaon ka anavaran — grameen sadak nirmaan, peyjal (handpump, water cooler) aur samudayik bhavan. Mantri-bhoomika note: ve rajya ke urja mantri hain; ye kaam apne matvistaar Sangod AC ke hain. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Sangod me ₹39.42 crore se adhik ke karyon ka lokarpan-shilanyas (Vikas Rath Yatra)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pratahkal, 19 Dec 2025',
+    sourceUrl: 'https://www.pratahkal.com/kota/vikas-rath-yatra-begins-in-sangod-assembly-constituency-energy-minister-nagar-to-inaugurate-and-lay-foundation-stone-for-development-works-worth-over-rs-3942-crore-1548756',
+    date: '2025-12-19',
+    note: 'Simliya me ₹34.95cr flood diversion channel ka shilanyas (CM budget ghoshna), ₹2cr CC sadak ka lokarpan (mantri ki anushansa par), Kalyanpura me ₹2cr+ missing-link sadak ki pattika ka anavaran, Sarola-Kachnavda gravel sadak ka shilanyas. Status: shilanyas + lokarpan (mixed).',
+  },
+  ],
+
+  'sandeep-sharma': [
+  {
+    title: 'Jan Shikshan Sansthan Kota me MLA kosh se bane sabhagar ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Pratahkal, Mar 2026 (est.)',
+    sourceUrl: 'https://www.pratahkal.com/kota/kota-jan-shikshan-sansthan-auditorium-inauguration-sandeep-sharma-1575014',
+    date: '2026-03 (est.)',
+    note: 'Vigyan Nagar me Jan Shikshan Sansthan (Kaushal Vikas Udyamita Mantralaya) ke navnirmit sabhagar ka lokarpan — nirmaan Kota Dakshin vidhayak kosh se hua. Status: udghatan (kaam poora). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Mahavir Nagar-II me ₹2.5 crore CC road ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Aug 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/kota/news/foundation-stone-laid-for-construction-of-cc-road-in-mahavir-nagar-ii-dbp-137606893.html',
+    date: '2026-08 (est.)',
+    note: 'Khandelwal Nursing Home mukhya sadak par ₹2.5 crore ki CC sadak ka shilanyas. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  ],
+
+  'kalpana-devi': [
+  {
+    title: 'Dadh Devi-Mawasa 6.5 km CC sadak ka shilanyas (₹5.55cr swikrit)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Pratahkal, 19 Nov 2025',
+    sourceUrl: 'https://www.pratahkal.com/kota/mla-kalpana-devi-laid-the-foundation-stone-of-65-km-dhard-devi-mawasa-road-and-inaugurated-alaniya-dam-1541102',
+    date: '2025-11-19',
+    note: 'Dadh Devi se Prahladpura hote hue Mawasa tak 6.5 km CC sadak ka shilanyas; kul ₹5.55cr swikrit, PWD dwara ~₹4.03cr ka work order jaari. Status: shilanyas.',
+  },
+  {
+    title: 'Alaniya baandh ke gate khole — rabi season me kisaano ko sinchai jal',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Pratahkal, 19 Nov 2025',
+    sourceUrl: 'https://www.pratahkal.com/kota/mla-kalpana-devi-laid-the-foundation-stone-of-65-km-dhard-devi-mawasa-road-and-inaugurated-alaniya-dam-1541102',
+    date: '2025-11-19',
+    note: 'Rabi season me kisaano ko samay par sinchai jal ke liye Alaniya baandh ke gate kholkar jal vitran ki prakriya shuru ki; adhikariyon ko jal-pravah ki monitoring ke nirdesh.',
+  },
+  {
+    title: 'Ladpura me ₹6.91 crore sadak-nali karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika, Jan 2026 (est.)',
+    sourceUrl: 'https://www.patrika.com/kota-news/rs-6-91-crore-rupees-development-work-in-kota-ladpura-mla-kalpana-devi-gave-good-news-20293108',
+    date: '2026-01 (est.)',
+    note: 'Guru Govind Vihar, Poonam Colony, Amrit Kalash Colony, Vaibhav State aur Durga Nagar Vistar me sadak-nali-park nirmaan karyon ka shilanyas. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  ],
+
+  'madan-dilawar': [
+  {
+    title: 'Ramganj Mandi ke 8 wardon me ₹22.09 crore karyon ka lokarpan-shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Punjab Kesari, 6 Oct 2024',
+    sourceUrl: 'https://m.rajasthan.punjabkesari.in/rajasthan/news/dilawar-said--donors-should-help-in-the-development-of-schools-2044153',
+    date: '2024-10-06',
+    note: 'Ward 32 me rajkiya uchch prathmik vidyalaya me 2 navnirmit kakshon ka lokarpan + vidhayak kosh se ₹15L ki ghoshna; school ko middle school me kramonnat karne ki ghoshna. Mantri-bhoomika note: ve shiksha evam panchayati raj mantri hain; ye kaam apne matvistaar Ramganj Mandi AC ke hain. Status: lokarpan + ghoshna (mixed).',
+  },
+  {
+    title: 'Ramganj Mandi me ₹63 crore ke 200-bed zila aspataal ka shilanyas',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Patrika, Jul 2026 (est.)',
+    sourceUrl: 'https://www.patrika.com/kota-news/kota-ramganjmandi-200-bed-hospital-foundation-om-birla-madan-dilawar-20603598',
+    date: '2026-07 (est.)',
+    note: 'Lok Sabha adhyaksh Om Birla ke saath zila aspataal bhavan ka bhoomi poojan-shilanyas; 1.5 saal me poora karne ka lakshya. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  ],
+
+  // ---- Ajmer district batch (researched 2026-10-13) ----
+  'vikash-choudhary': [
+  {
+    title: 'Aranai krishi upaj mandi me ~₹31 lakh ke godam + tin shed ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Awaz Rajasthan Ki, 26 Sep 2026',
+    sourceUrl: 'https://awazrajasthanki.com/archives/15167',
+    date: '2026-09-26',
+    note: 'Kishangarh (Aranai) krishi upaj mandi me 250 metric ton godam aur tin shed ka lokarpan; kisaano ki lambe samay se chali aa rahi maang poori. Status: lokarpan (kaam poora).',
+  },
+  {
+    title: 'Grameen kshetron me ₹6 crore se adhik ke vikas karyon ka udghatan-shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/ajmer/kishangarh/news/foundation-stone-laying-and-inauguration-of-development-works-worth-rs-6-crore-136609119.html',
+    date: '2026-03 (est.)',
+    note: 'Dhasook-Jhirota 5.65 km sadak (₹2.29cr) ka udghatan; Bhagwantpura ₹85.5L, Manoharpura ₹97L, Jhirota ₹91L ke karya lokarpit; Dhasook ko ₹1cr ke karyon ka shilanyas. Sadak, naali, school bhavan, puliya, khel maidan aur peyjal karya shamil. Status: mixed (udghatan + shilanyas). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Aranai kshetra me ₹2.5 crore ke vikas karyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/ajmer/araai/news/mla-vikas-chaudhary-inaugurated-works-worth-rs-25-crore-136617015.html',
+    date: '2026-02 (est.)',
+    note: 'Gram panchayat Siroz ₹90L, Kalanada ₹57L ke karya; Goli se Itakhoi zila seema tak 2 km sadak (₹80L) ka shubharambh — vidhayak kosh aur anya madon se sadak, swasthya, shiksha, peyjal karya. Status: lokarpan. Exact date page par nahi mili.',
+  },
+  ],
+
+  'suresh-singh': [
+  {
+    title: 'Amarpura, Karkedi, Navan gram panchayaton me ₹3.25 crore ke karyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/ajmer/roopangarh/news/minister-rawat-took-the-pledge-of-smart-village-136245728.html',
+    date: '2026-01 (est.)',
+    note: 'Amarpura ₹69.11L, Karkedi ₹131.85L, Navan ₹124.09L ke karyon ka lokarpan grameen seva shiviron me; patte, poshahar/beej kit, beema rashi aur anudan check bhi vitrit. Mantri-bhoomika note: ve jal sansadhan mantri hain; ye kaam Rupangarh kshetra (Pushkar AC ke antargat) ke hain. Status: lokarpan. Exact date page par nahi mili.',
+  },
+  ],
+
+  'vasudev-devnani': [
+  {
+    title: 'Ward 79, 80 aur 72 me sadak nirman karyon ka shilanyas (~₹1.03 crore)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Janta Se Rishta, May 2025 (est.)',
+    sourceUrl: 'https://jantaserishta.com/amp/local/rajasthan/jaipur-assembly-speaker-inaugurated-road-construction-work-3994697',
+    date: '2025-05 (est.)',
+    note: 'Mukhyamantri budget ghoshna ke tahat Gauri Nagar (ward 79/80) me ₹88.5L sadak aur Rembal Road (ward 72) par ₹14L sadak ka shilanyas; ward 79 me ~₹9cr ke karya nirmanadhin hone ka daava. Speaker-bhoomika note: ve tab Vidhan Sabha adhyaksh the; kaam apne matvistaar Ajmer North ke wardon ke hain. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Chaurasiyawas se Lions Club tak ₹2.06 crore naale ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Janta Se Rishta, Sep 2025 (est.)',
+    sourceUrl: 'https://jantaserishta.com/local/rajasthan/jaipur-assembly-speaker-laid-the-foundation-stone-of-a-drain-costing-rs-2-crore-4279224',
+    date: '2025-09 (est.)',
+    note: 'Dwarka Nagar ki galiyon, White House, Abhiyanta Nagar aur Aravali Vihar ke nivaasiyon ko varsha-jal nikaasi me rahat milegi. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Panchsheel me ₹15.20 crore Science Park ki chardiwari ka shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, Mar 2024 (est.)',
+    sourceUrl: 'https://www.etvbharat.com/amp/hi/!state/vasudev-devnani-laid-foundation-stone-of-science-park-in-ajmer-will-cost-more-than-rs-15-crore-rjs24030705002',
+    date: '2024-03 (est.)',
+    note: 'Jhalkari Bai smarak ke saamne 20,000 sqm bhoomi par Science Park ki chardiwari ka shilanyas; vittiya manzoori kendriya sanskriti mantralaya se. Speaker-bhoomika note: ve tab Vidhan Sabha adhyaksh the. Status: shilanyas (chardiwari). Exact date page par nahi mili.',
+  },
+  ],
+
+  'anita-bhadel': [
+  {
+    title: 'Krishna Colony me ₹19.5 lakh sadak ka shilanyas (Rajya Sabha MP fund)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Zee News Hindi, Sep 2026 (est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/ajmer/special-gift-to-the-people-of-ajmer-19500000-received-from-rajya-sabha-mp-mla-fund-for-road-work/1216842',
+    date: '2026-09 (est.)',
+    note: 'Kendriya mantri/Rajya Sabha saansad Bhupendra Yadav dwara sweekrit rashi se sarkari hospital aur Shani mandir Dhola Bhata ke saamne sadak ka shilanyas; vidhayak ne bataya ki vidhayak kosh se bhi ₹2cr ke karya sweekrit hain aur ward 51 me DMFT se ₹80L ka shahri chikitsa kendra banega. Status: shilanyas (fund MP kosh se, kaam vidhayak dwara). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Ward 39 aur 37 me ₹73 lakh ke vikas karya shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/ajmer/news/development-work-worth-rs-73-lakh-begins-in-ajmer-south-136818316.html',
+    date: '2026-03 (est.)',
+    note: 'Ward 39 Shivaji Nagar gali-6 me ~₹30L CC sadak; ward 37 Sundar Vihar Colony me ~₹43L CC sadak + naali ka shilanyas — jalbharao aur swachchhata samasya se rahat ka daava. Status: shilanyas/nirman shuru. Exact date page par nahi mili.',
+  },
+  ],
 };
