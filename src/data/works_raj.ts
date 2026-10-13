@@ -2140,4 +2140,15 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Rajakhera vidhayak Rohit Bohra Rajakhera Vidhan Sabha kshetra me ek nayi library ka udghatan karne pahunche; udghatan ke baad unhone sarkar ke vittiya prabandhan par aarop lagaye. Article ka mukhya focus raajnaitik bayanbaazi hai — library ki lagat/nirmaan-vivaran report me nahi. Status: udghatan. Exact date page par nahi mili (relative "6 mahine pehle").',
   },
   ],
+
+  // ---- Sikar district batch (researched 2026-10-13) ----
+  // All 8 MLAs researched; NO news-verified works found in current tenure (Dec 2023+) — profiles left empty per neutrality rule (khali profile > weak attribution).
+  // - Hakam Ali Khan (Fatehpur, INC): no works news, only profile/election data.
+  // - Govind Singh Dotasra (Lachhmangarh, INC): only opposition/budget coverage; his ₹1,000–1,800cr development claims are pre-Dec 2023 tenure (excluded). The Jajod PHC privilege-story (DNA) is from 2013–18 period (Kailash Meghwal was Speaker then) and the PHC was sanctioned by the then Gehlot govt — not his work.
+  // - Gordhan (Dhod, BJP): only YouTube videos; no credible news. One YouTube hit was Ghorawal (UP) MLA — wrong person, rejected.
+  // - Rajendra Pareek (Sikar, INC): assembly speeches; his playground Calling Attention Motion adjourned the House but is a demand, not a work.
+  // - Virendra Singh (Danta Ramgarh, INC): election coverage only.
+  // - Subhash Meel (Khandela, BJP): YouTube-only (a road foundation-stone video) — weak source, rejected.
+  // - Suresh Modi (Neem Ka Thana, INC): YouTube-only; no works news.
+  // - Jhabar Singh Kharra (Srimadhopur, BJP): UDH cabinet minister — coverage is minister-capacity statewide (green buildings PTI, press-conference controversies); no Srimadhopur-constituency-specific work found. Statewide minister decisions excluded.
 };
