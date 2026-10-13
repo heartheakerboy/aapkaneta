@@ -1438,4 +1438,140 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Dainik Bhaskar ke sting expose (14 Dec) ke baad: Bayana vidhayak ke pati par school-carpet khareed me ₹40 lakh ki deal ka aarop; ACS (Grih) ke netritva me team ne Bayana me MLA-nidhi karyon ki filein zabt ki aur adhikariyon se poochtaachh ki; sarkar ne teenon aaropit vidhayakon ke MLA LAD khaate freeze kiye. Status: aarop/jaanch jaari — swatantra nyayik parinaam ki pushti nahi; vidhayak ka paksh report me nahi. Exact date page par nahi mili.',
   },
   ],
+
+  // ---- Alwar district batch (researched 2026-10-13) ----
+  'dr-jaswant-singh-yadav': [
+  {
+    title: 'Behror kshetra me ₹421 crore ke vikas karyon ki manzoori',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 2 Jan 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/rs-421-crore-has-been-sanctioned-for-development-work-in-behror-assembly-constituency-rajasthan-news-rjs25010205277',
+    date: '2025-01-02',
+    note: 'Vidhayak Dr. Jaswant Singh Yadav ne bataya ki Behror Vidhan Sabha kshetra me bijli, sadak, paani, swasthya aur severage ke liye ₹421 crore swikrit hue hain; aadhe se zyada karyon par kaam shuru ho chuka hai. Isi bayaan me zila aspataal me shishu ward aur dawa vitran khidki ka udghatan bhi shamil tha. Status: manzoori (kuch kaam shuru, kuch shuru hone baaki).',
+  },
+  {
+    title: 'Nangal Khodiya me Ayushman Arogya Mandir PHC ka shilanyas; boring aur Anantpura up-swasthya kendra ka udghatan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Khas Khabar, 26 Oct 2024',
+    sourceUrl: 'https://www.khaskhabar.com/local/rajasthan/kotputli-behrore-news/news-behror-mla-dr-jaswant-yadav-felicitated-the-winning-children-of-the-scout-competition-laid-the-foundation-stone-of-the-primary-health-center-news-hindi-1-679211-KKN.html',
+    date: '2024-10-26',
+    note: 'Vidhayak ne gaon Nangal Khodiya me Ayushman Arogya Mandir (prathmik swasthya kendra) ka shilanyas, boring nirmaan karya ka udghatan aur gaon Anantpura me up-swasthya kendra ka udghatan kiya. Status: shilanyas + udghatan (mixed).',
+  },
+  {
+    title: 'Behror anaj mandi vistar (~₹1.40 crore) ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Khas Khabar, Jan 2026 (est.)',
+    sourceUrl: 'https://www.khaskhabar.com/print-page.php?print=715469',
+    date: '2026-01 (est.)',
+    note: 'Kendreeya mantri Bhupendra Yadav ke saath vidhayak Jaswant Yadav ne ~₹1.40 crore ki lagat se banne wale Behror anaj mandi vistar karya ka shilanyas kiya (22.5 beegha zameen par vikas). Isi avsar par kendra mantri ne naya bus stand, Anantpura ke paas Kendriya Vidyalaya aur highway overbridge uncha karne ki ghoshnaein ki — ye ghoshnaein mantri ki hain, vidhayak ki nahi. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  ],
+
+  'devi-singh-shekhawat': [
+  {
+    title: 'Bansur me ₹21 crore sadak pariyojana ka shilanyas (Kothiya, 13 km)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/alwar/bansur/news/foundation-stone-laid-for-rs-21-crore-road-project-in-bansur-136541519.html',
+    date: '2026-03 (est.)',
+    note: 'Vidhayak Devi Singh Shekhawat ne Kothiya me SH-52 se SH-77 tak 13 km lambi sadak ke chaudikaran/saundaryikaran ka shilanyas kiya; pariyojana CM budget ghoshna 2025-26 ke tahat swikrit hai. Sadak Kothiya, Garhi, Ajabpura aur Khariyon ki Dhani se guzregi. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Mahanpur me ~₹1 crore PHC ka shilanyas',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/alwar/bansur/news/foundation-stone-of-phc-laid-in-mahanpur-mla-performed-bhoomi-pujan-136740079.html',
+    date: '2026-03 (est.)',
+    note: 'Vidhayak ne Mahanpur me lagbhag ₹1 crore ki lagat se banne wale prathmik swasthya kendra ka bhoomi-pujan/shilanyas kiya; nirmaan ek varsh me poora hone ka daava. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Bansur up-zila aspataal me dialysis machine ka udghatan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Khas Khabar, 1 Jul 2025',
+    sourceUrl: 'https://www.khaskhabar.com/local/rajasthan/kotputli-behrore-news/news-chief-ministers-initiative-to-provide-better-medical-facilities-in-villages-shekhawat-news-hindi-1-733295-KKN.html',
+    date: '2025-07-01',
+    note: 'Vidhayak ne Bansur nagar palika kshetra ke up-zila aspataal me dialysis machine ka udghatan mukhya atithi ke roop me kiya. Status: udghatan.',
+  },
+  ],
+
+  'tikaram-jully': [
+  {
+    title: 'Alwar Gramin me vidhayak nidhi se vikas karyon ka lokarpan/shilanyas (Kesarpur, Ballanna)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Zee News, 6 Feb 2025',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/alwar/rajasthan-news-tikaram-julie-inaugurated-various-development-works-in-alwar-rural-assembly-constituency/2609022',
+    date: '2025-02-06',
+    note: 'Neta Pratipaksh evam Alwar Gramin vidhayak Tikaram Jully ne Kesarpur aur Ballanna gaonon me vidhayak nidhi kosh se bane vikas karyon ka lokarpan/shilanyas kiya — gravel sadak nirmaan aur kabristan/shamshan ghat ki chardiwari sahit. Status: lokarpan + shilanyas (mixed).',
+  },
+  ],
+
+  'sanjay-sharma': [
+  {
+    title: 'Alwar shahar me ~₹3 crore ke vikas karyon ka lokarpan/shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhairav Jyoti, Apr 2024 (est.)',
+    sourceUrl: 'https://bhairavjyoti.com/there-will-be-no-shortage-of-funds-for-the-development-of-alwar-city-sanjay-sharma/',
+    date: '2024-04 (est.)',
+    note: 'Van evam Paryavaran rajya mantri (swatantra prabhar) evam Alwar shahar vidhayak Sanjay Sharma ne Kalimori flyover se Tiger Colony tak CC sadak ka lokarpan, ₹32 lakh Mansa Mata mandir surang saundaryikaran, ₹29 lakh school kaksha navinikaran ka lokarpan aur ~₹81 lakh interlocking sadak, ₹40 lakh plantation, ₹70 lakh CC road ka shilanyas kiya. Mantri-bhoomika note me disclose; saare kaam apne matvistaar (Alwar shahar) ke hain. Status: lokarpan + shilanyas (mixed). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Bhupendra Yadav ke saath ₹56 crore ke vikas karyon ki saugaat (Bhakheda Anicut udghatan)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Patrika, Jun 2026 (est.)',
+    sourceUrl: 'https://www.patrika.com/alwar-news/alwar-bhakheda-anicut-inauguration-bhupender-yadav-20684922',
+    date: '2026-06 (est.)',
+    note: 'Kendreeya van mantri Bhupendra Yadav aur rajya mantri Sanjay Sharma ne sanyukt roop se ₹56 crore ke karyon ki saugaat di — Bhakheda Anicut ka udghatan (bhujal recharge, vanjeevo ke liye peyjal), Natni ke Bara se Jaisamand baandh nahar pakkikaran ka shilanyas aur ₹10 crore ki 14 km Tehla-Dabkan-Rajorgarh-Mathrawat sadak ka shilanyas. Sanyukt karyakram tha — mantri-bhoomika aur sanyukt upasthiti note me disclose. Status: udghatan + shilanyas (mixed). Exact date page par nahi mili.',
+  },
+  ],
+
+  'sukhavant-singh': [
+  {
+    title: 'Bhayadi–Badaodamev ₹46 lakh sadak ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/alwar/laxmangarh/news/foundation-stone-laid-for-a-road-worth-rs-46-lakh-in-ramgarh-136110205.html',
+    date: '2025-12 (est.)',
+    note: 'Ramgarh vidhayak Sukhavant Singh ne gaon Bhayadi se Badaodamev ki seema tak ₹46 lakh ki lagat se banne wali sadak ka shilanyas kiya. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Ramgarh Vidhan Sabha me ₹215 crore ke vikas karyon ki manzoori',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/alwar/ramgarh/news/development-works-worth-rs-215-crore-will-be-undertaken-in-ramgarh-assembly-136614328.html',
+    date: '2026-03 (est.)',
+    note: 'Vidhayak ke prayason se upchunav ke baad ek saal me rajya/kendra sarkar se ₹215 crore ki swikriti mili — PWD ₹91.41 crore, Jalday ₹26.64 crore, Shiksha ₹10.44 crore, college shiksha ₹4.50 crore, Mewat Vikas Board ₹20 crore, vidhayak nidhi ₹4.79 crore aur nagar palikaon me ~₹20 crore. Status: manzoori (pustika ka vimochan CM awas par hua). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Ramgarh nagar palika kshetra me ₹5.33 crore ke vikas karyon ka lokarpan/shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/alwar/naugawa/news/ramgarh-mla-inaugurates-5-33cr-development-works-137677419.html',
+    date: '2026-04 (est.)',
+    note: 'Vidhayak ne nagar palika kshetra Ramgarh me ₹5.33 crore ke karyon (sadak, naali sahit moolbhoot suvidhaein) ka lokarpan aur shilanyas kiya. Status: lokarpan + shilanyas (mixed). Exact date page par nahi mili.',
+  },
+  ],
+
+  'ramesh-khinchi': [
+  {
+    title: 'Khudiana me 33/11 kV sub-station ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Oct 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/alwar/laxmangarh/news/kathumar-mla-laid-the-foundation-stone-of-the-sub-station-136078542.html',
+    date: '2025-10 (est.)',
+    note: 'Kathumar vidhayak Ramesh Khinchi ne panchayat samiti Laxmangarh ke gram panchayat Khudiana me 33/11 kV sub-station ka shilanyas kiya; isse kshetr me bijli tripping ki samasya door hone ka daava. Status: shilanyas. Exact date page par nahi mili.',
+  },
+  ],
 };
