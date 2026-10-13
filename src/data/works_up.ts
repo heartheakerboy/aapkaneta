@@ -8997,4 +8997,68 @@ export const upWorks: Record<string, Work[]> = {
 //   Brij Bhushan/Kaiserganj-LS items (galat vyakti/sthan); Sep 2025 Dy CM review vivad
 //   (political, kaam nahi); reels (event presence); flood complaint reel (citizen shikayat).
 'anand-kumar-up': [],
+
+  // ---- Shrawasti district batch (researched 2026-10-13) ----
+  // RESEARCH TRAIL (Shrawasti/Shravasti district — 2 ACs: Bhinga 289, Shrawasti 290):
+  // MLA: ram-feran (Shrawasti, BJP — news me 'Ram Feran Pandey'; myneta SHRAWASTI(SHRAWASTI) BJP se pehchan match).
+  // Search kiya: Hindi + English, 2022-2026 — udghatan, shilanyas, sadak, school, hospital, yojana.
+  // ACCEPTED (3):
+  //  - Dainik Bhaskar (Feb 2026, est. — page par '8 mahine pehle'; article khola-padha): Jamunaha (AC-290)
+  //    me Pt. Deendayal Upadhyay yojana ke tahat 4 grameen marg (Kaharanpurwa, Naupurwa, Pewahna Purwa,
+  //    Mahantpurwa) ka lokarpan — MLA ne fita kaatkar udghatan kiya (poorn/udghatan).
+  //  - Target TV Live (Jan 2025, image timestamps se; article khola-padha): Ikauna block me MLA dwara
+  //    4 pariyojnaon ka shilanyas — Ikauna Sanjay Park-Bhinga marg (703.44L), Ikauna bypass (653.03L),
+  //    Andharpurwa setu guide-bandh marammat (773.73L), PWD nirikshan bhavan (159.12L).
+  //    NOTE: chhota regional outlet hai — entry note me disclose.
+  //  - Dainik Bhaskar (May 2026, est. — '5 mahine pehle'; article khola-padha): Ikauna nagar panchayat me
+  //    adhishasi adhikari aawas ka lokarpan — MLA ne fita kaatkar udghatan kiya (poorn/udghatan).
+  // REJECTED:
+  //  - Dainik Bhaskar (May 2025): PMGSY 2 sadak lokarpan — udghatan MP Ram Shiromani Verma ne kiya;
+  //    MLA sirf maujood the (weak attribution: 'merely present' rule par reject).
+  //  - The Hindu pr-release (Jul 2026): CM Yogi dwara 83 pariyojnaon (396cr) ka lokarpan/shilanyas —
+  //    shrey CM ka, MLA sirf maujood (merely-present rule par reject).
+  //  - pinewz (Jan 2025): Shrawasti Mahotsav bhoomi pujan — event, vikas-kaam nahi, reject.
+  //  - newstrack: DISHA/district development committee meeting — sirf baithak/upasthiti, reject.
+  //  - rashtriyaswaroop: Dy CM Dinesh Sharma 15 pariyojna (1772 din pehle ~2021) — pre-March-2022, reject.
+  // MLA: indrani-verma (Bhinga, SP — file me name 'Indrani Devi'; news me 'Indrani Verma', Bhinga SP se pehchan match).
+  // Search kiya: Hindi + English, 2022-2026 (naam variants: Indrani Devi/Indrani Verma), ~8 sweeps.
+  // ACCEPTED (0): koi credible TEXT news coverage nahi mili. Jo mila: YouTube-only videos (daura, sadgi, maang),
+  //   FB-post-based reports, tender-aggregator listings (globaltenders/firsttender par unki nidhi ke high-mast
+  //   light tenders — tender-aggregator hamari source-list me nahi, aur khabar ki reporting nahi hai; reject).
+  // REJECTED: sare YouTube-only items; 'vishwavidyalaya maang' YouTube; ground-report reels (maang); 2022-chunav
+  //   coverage; Wikipedia profile. Empty profile defensible — baad me e-paper/RTI se mazboot ho sakti hai.
+  'ram-feran': [
+    {
+      title: 'Jamunaha me 4 grameen margon ka lokarpan — Kaharanpurwa, Naupurwa, Pewahna Purwa, Mahantpurwa',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/shrawasti/jamunaha/news/expansion-of-development-roads-in-shravasti-136621208.html',
+      date: '2026-02',
+      note: 'Status: UDGHATAN/LOKARPAN (poorn karya ka udghatan). Pt. Deendayal Upadhyay yojana ke tahat Jamunaha (AC-290) me 4 grameen marg — Kaharanpurwa, Naupurwa, Pewahna Purwa, Mahantpurwa — ka MLA Ram Feran Pandey ne fita kaatkar lokarpan kiya. Report me sthaniya grameenon ki santushti bhi darj. Date page par print nahi thi (Bhaskar relative timestamp "8 mahine pehle") — Feb 2026 (est.) disclose.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ikauna block me 4 vikas pariyojnaon ka shilanyas (~₹21.9 crore)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Target TV Live, Jan 2025 (chhota outlet)',
+      sourceUrl: 'https://targettvlive.com/103323/',
+      date: '2025-01',
+      note: 'Status: SHILANYAS (buniyaad rakhi gayi, nirmaan shuru nahi). MLA dwara shilanyas ki gayi 4 pariyojnaen: (1) Ikauna Sanjay Park–Bhinga marg nirman ₹703.44L; (2) Ikauna bypass marg ₹653.03L; (3) Andharpurwa setu par guide-bandh ki marammat ₹773.73L; (4) PWD nirikshan bhavan ₹159.12L. Target TV Live chhota regional outlet hai — independent corroboration nahi mili, isliye disclose karke rakha gaya hai. Completion follow-up nahi mila.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ikauna nagar panchayat me adhishasi adhikari aawas ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/shrawasti/ikauna/news/ikona-adheekshak-aawas-udghatan-shravasti-vidhayak-ram-feran-pandey-137286129.html',
+      date: '2026-05',
+      note: 'Status: UDGHATAN/LOKARPAN (poorn karya ka udghatan). Ikauna nagar panchayat me adhishasi adhikari (EO) aawas ka MLA ne fita kaatkar udghatan kiya. Bhavan ka nirman 2% atirikt stamp shulk + Rajya Vitta Aayog 2025-26 yojana se hua. Date page par print nahi thi (Bhaskar relative timestamp "5 mahine pehle") — May 2026 (est.) disclose.',
+      period: '2022-2027',
+    },
+  ],
+  // RESEARCH TRAIL (indrani-devi — Bhinga, SP; KHALI profile): upar trail me detail hai. NOTE: neta slug file me 'indrani-devi' hai (name 'Indrani Devi'); news me 'Indrani Verma' bhi likha milta hai, pehchan Bhinga+SP se confirm.
+  'indrani-devi': [],
 };
