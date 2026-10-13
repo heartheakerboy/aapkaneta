@@ -10510,4 +10510,342 @@ export const upWorks: Record<string, Work[]> = {
     period: '2022-2027',
   },
 ],
+  // ---- Deoria district batch (researched 2026-10-13) ----
+  // ---- Deoria district batch W1 (researched 2026-10-13) ----
+  // Search trail: Hindi + English news search for both MLAs; har source page kholkar padha gaya.
+  // REJECTS (jai-prakash-nishad): MP-MLA khel spardha shubharambh (sirf event); CM Yogi 106 projects Rs 456 cr
+  //   event (CM credit); Nitin Gadkari 5 highways (CM/central credit); purana RO plant 4 Jul 2022 (Ram Avatar Kedia
+  //   Charitable Trust ka daan-plant, MLA sirf udghatan-karta); salt-scam 2020 questioning (pre-March-2022, koi charge nahi).
+  // Negative entries: koi nahi mili (myneta/oneindia ke anusar 0 criminal cases).
+  'jai-prakash-nishad': [
+    {
+      title: 'Madanpur nagar panchayat me 2 km naala ka shilanyas (Rs 2.38 cr)',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/rudrapur/news/ground-breaking-ceremony-of-a-drain-worth-rs-238-crore-in-rudrapur-136451686.html',
+      date: '2025-11',
+      note: 'Madanpur nagar panchayat me sewerage evam jal vikas mad se 2 km lambe naale ka shilanyas vidhayak ne vaidic mantrochchar ke beech kiya; anumanit lagat Rs 2.38 cr; naala Madanpur ki purvi seema se Union Bank tak. Status: shilanyas — nirmanadheen, purnata ki khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Barhaj-Rudrapur mukhya marg par 1.8 km naala ka shilanyas (Rs 3 cr)',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/brhaz/news/madanpur-will-get-relief-from-waterlogging-136456076.html',
+      date: '2025-11',
+      note: 'Madanpur nagar panchayat me Barhaj-Rudrapur mukhya marg ke kinare 1.8 km naale ka shilanyas (vidhayak ne favda chalakar karyarambh); Swachh Bharat/Amrit 2.0 ke tahat, lagat Rs 3 cr; 8 mahine me poorn karne ka lakshya. Status: shilanyas — nirmanadheen. Caveat: isi saptah Bhaskar ne 2.38 cr wale naale (purvi seema-Union Bank segment) ki alag khabar di — specs alag hain isliye do alag entry.',
+      period: '2022-2027',
+    },
+    {
+      title: '3 sadak pariyojanaon ka shilanyas-lokarpan (Sansad Kamlesh Paswan ke saath, Rs 21.33 cr)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/rudrapur/news/laying-the-foundation-stone-of-road-projects-in-deoria-135483354.html',
+      date: '2025-07',
+      note: 'Rudrapur kshetra me teen sadak pariyojanaon ka shilanyas/lokarpan — vidhayak ne kendriya gramin vikas mantri evam sansad Kamlesh Paswan ke saath sanyukt karyakram me kiya. PMGSY: Sarawan Bujurg-Bhelaur marg (Rs 3.68 cr), Manga Kodar-Satkothwa marg (Rs 2.77 cr); PWD: Pachrukha-Ekauna marg (Rs 14.88 cr). Status: shilanyas + lokarpan (sanyukt karyakram); yojanaen PMGSY/PWD ki hain — vidhayak ka bhagidaari-shilanyas hai, nidhi-credit ka dawa nahi.',
+      period: '2022-2027',
+    },
+  ],
+  // REJECTS (shalabh-mani-tripathi): Great Salute LED screen (mantri + MLA + palika-adhyaksh sanyukt udghatan, weak
+  //   attribution); anganwadi niyukti patra vitran (sarkari yojana vitran); Prithviraj Chauhan smarak shilanyas
+  //   (program cancelled); Sadal auditorium udghatan me maujoodgi (sirf presence); CM ke 80 projects Rs 305 cr /
+  //   676 cr (CM credit); ZeeNews report-card daawe — surauli thana, god liye school, Baitalpur solar plant (tweet,
+  //   independent verification nahi mili); Govt ITI tablet vitran (sarkari yojana vitran); Jan Aushadhi Kendra (blogspot
+  //   source, central scheme); Deoria-Beldad road completion via dainikawaz (evidence sirf MLA ke FB post par —
+  //   Hindustan ne 2025 me stall + intervention verify kiya tha, par completion independent verify nahi); helmet fine
+  //   May 2026 (personal conduct, fine paid — kaam nahi); namaz remark controversy (political remark, not work).
+  // Negative entries: koi nahi mili.
+  'shalabh-mani-tripathi': [
+    {
+      title: 'Deoria-Rudrapur marg chaudiikaran (Rudrapur mod se Usra audyogik kshetra) ka shilanyas (Rs 36 cr)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 20 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-road-widening-project-launched-in-surouli-for-deoria-rudrpur-route-201774039439297.html',
+      date: '2026-03-20',
+      note: 'Sad vidhayak ne Surauli chauraha par Rudrapur mod se audyogik kshetra Usra tak sadak chaudiikaran ka shilanyas kiya; 7 meter se 10 meter + 1-1 meter footpath; shasan ne Rs 36 cr swikrit kiye; PWD dwara karya shuru. Status: shilanyas — nirmanadheen, purnata ki khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Hata-Gauribazar marg par Chorkhari se Devtahan Kuti tak 6.2 km sadak chaudiikaran-sudridhikaran ka bhoomipoojan (Rs 12.72 cr)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/gauribazar/news/devria-sadar-mla-inauguration-road-widening-chorakari-devtahan-kuti-137400225.html',
+      date: '2026-03',
+      note: 'Gauribazar kshetra me Hata-Gauribazar marg par Chorkhari se Devtahan Kuti tak 6.2 km sadak ke chaudiikaran-sudridhikaran karya ka bhoomipoojan vidhayak ne kiya; lagat ~Rs 12.72 cr. Status: shilanyas — nirmanadheen, purnata ki khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Usra vidyut upkendra par naye feeder ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/baitalpur/news/deoria-dehat-gets-new-feeder-135475073.html',
+      date: '2025-07',
+      note: 'Deoria dehat me bijli aapurti sudhar ke liye Usra vidyut upkendra par naye feeder ki sthapna; vidhayak ne poojan ke baad feeta katkar udghatan kiya; ~18 gaon labhanvit honge. Vidhayak ne CM aur urja mantri A.K. Sharma se feeder ki maang ki thi. Status: udghatan — sthapit aur chalu suvidha.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Deoria nagar palika ward 3, gram Mundera Mall ki sadak ka navnirman purna',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Sep 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/mehra/news/rejuvenation-of-dilapidated-road-in-deoria-135990582.html',
+      date: '2025-09',
+      note: 'Deoria nagar palika ke ward 3 (Mehra-Gadpurwa) me gram Mundera Mall ki jarjar sadak ka navnirman purna; Bhaskar ne ise sad vidhayak ke prayas se hua bataya, sthaniya niwasi uddhrit. Status: purna nirmit karya (shilanyas/lokarpan ki alag khabar nahi mili).',
+      period: '2022-2027',
+    },
+  ],
+// Deoria district batch (researched 2026-10-13): surya-pratap-shahi, surendra-chaurasia, sabhakunwar.
+// Trail comments at end record rejected items and what was searched.
+
+  'surya-pratap-shahi': [
+    {
+      title: 'PMGSY ke tahat 7 sadkon (kul ~Rs51 crore) ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'thedeoria.com, Jul 2023 (est.)',
+      sourceUrl: 'https://thedeoria.com/krishi-mantri-surya-pratap-shahi-did-shilanyas-of-7-road-in-pathardeva-assembly/',
+      date: '2023-07',
+      note: 'Pathardeva AC me 2 karyakramon me kul 7 PMGSY sadkon ka shilanyas: Garhrampur (Rampur Khas)-Trimuhani (Jokwa) 7.1 km, Munderababu-Nautan Hathiyagarh 6.2 km, Nautan Hathiyagarh via Jigni Raja 5.4 km (Rs19.12 crore) + Pathardeva-Vishunpura se Kaulmundera via Bhainsadabar, Baghauchghat-Pakhah se Pandeypur via Sundarpur, Dhus Deoria se Shahpur Shukl Ananadnagar, Pathardeva se Vishunpura road (Rs31.88 crore). MP Ramapati Ram Tripathi bhi upasthit. Status: shilanyas — nirmaan shuru, purnata ki khabar nahi mili. Page par date nahi thi (image path 2023/07 + "guruvaar" = July 2023), isliye Jul 2023 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Tarkulwa aur Pathardeva nagar panchayat me Rs5 crore ki pariyojanaon ka lokarpan-shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 27 Dec 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-agriculture-minister-inaugurates-projects-on-atal-bihari-vajpayee-s-101st-birthday-201766808718877.html',
+      date: '2025-12-27',
+      note: 'Atal Bihari Vajpayee ki jayanti par Tarkulwa (Kanakpura, Gandhi ward-2) aur Pathardeva nagar panchayat me Rs5 crore ki vibhinn pariyojanaon ka lokarpan + shilanyas. Status: mishrit — kuch poori (lokarpan), kuch nayi (shilanyas); alag-alag karyon ka vivaran report me nahi tha.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Baghauchghat 33/11 KV substation: 10 MVA transformer + "Deoria Dhus" feeder ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/pathardewa/news/inauguration-of-10-mva-transformer-at-baghouchghat-substation-136780163.html',
+      date: '2025-12',
+      note: 'Pathardeva AC ke Baghauchghat substation ki kshamata 5 MVA se badhkar 10 MVA (Rs1.76 crore); naya 11 KV "Deoria Dhus" feeder chalu. ~120 gaon, ~14,000 upbhokta labhanvit; overload/low-voltage/fault samasya kam hone ki ummeed. Status: lokarpan — poora aur chalu. Page par date nahi thi (index ~291 din pehle), isliye Dec 2025 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Pipra Daulakadam se Piprahia (Kushinagar border) 1.90 km sadak ka shilanyas — Rs1.37 crore',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, Sep 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-inauguration-of-1-90-km-road-by-agriculture-minister-to-enhance-connectivity-in-deoria-and-kushinagar-201789764966425.html',
+      date: '2026-09',
+      note: 'Desahi Deoria kshetra (Pathardeva AC) me nahar ki patri par Pipra Daulakadam se Piprahia hote hue Kushinagar seema tak 1.90 km nav-nirmaan sadak ka shilanyas. Status: shilanyas — nirmaan shuru, purnata ki khabar nahi mili. Page par date nahi thi (index ~24 din pehle), isliye Sep 2026 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Deoria-Kasya marg four-lane: cabinet se swikriti',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 30 Jan 2026',
+      sourceUrl: 'https://org374nextwww.jagran.com/uttar-pradesh/deoria-deoriakasya-fourlane-new-bridge-over-chhoti-gandak-river-40125078.html',
+      date: '2026-01-30',
+      note: 'Mukhyamantri ki adhyakshata wali cabinet baithak me Deoria-Kasya marg (Rampur Karkhana, Pathardeva se hote hue) ke four-lane nirmaan ko swikriti; Patnwa (Rampur Karkhana) ke paas Chhoti Gandak nadi par 103 m lamba naya 2-lane pul (Setu Nigam dwara) bhi manzoor. Vidhayak ke anusaar swikriti unke anurodh par mili; MP Shashank Mani Tripathi ne bhi swagat kiya. Status: cabinet swikriti — rajya-stariya pariyojana; nirmaan shuru/poora ki khabar nahi mili. Article par date printed: 30 Jan 2026.',
+      period: '2022-2027',
+    },
+  ],
+  'surendra-chaurasia': [
+    {
+      title: '48 sadkon (Rs7.09 crore) ke kayakalp ko swikriti',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 19 Apr 2022',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/gorakhpur-city-up-government-given-approval-for-construction-of-road-at-rampur-karkhana-deoria-22641925.html',
+      date: '2022-04-19',
+      note: 'Vidhayak ne CM se milkar 48 sadkon ke kayakalp ka prastav diya tha; shasan se Rs7.09 crore ki swikriti mili (Bharhe chauraha-Kurmauta Thakur, Nonapar-Devghat, Babhnauli Kala sampark marg, Bankata Tiwari-Sakatiya tola, Nonapar-Chhapra, Saroura-Hathiyagarh, Madhwapur-Piparia, Deoria-Kasya marg se Bheempur, Gambhirpur Malibari-Madhwapur, Bhikhampur-Deoria marg se Pagra, Baikunthpur-Rupai, Mahuani chauraha-Badhera Babu, Sidhua, Khukhundu-Bhatni se Babhni aadi). Status: swikriti — nirmaan shuru/poora ki alag khabar nahi mili. Article par date printed: 19 Apr 2022.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Salempur-Nonapar marg (7.77 km) ka chaudi-karan — Rs17.09 crore ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, Mar 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-foundation-laid-for-salempur-nonapar-road-expansion-at-17-crores-201773543890311.html',
+      date: '2026-03',
+      note: 'Salempur aur Rampur Karkhana AC ko jodne wale 7.77 km marg ke chaudi-karan/sudridhi-karan ka sanyukt shilanyas — rajyamantri Vijaylaxmi Gautam, MP Shashank Mani Tripathi aur vidhayak Surendra Chaurasia ne milkar kiya. Rajyamantri ke anusaar ve lambe samay se iske liye prayasrat thin. Status: shilanyas (sanyukt) — nirmaan shuru, purnata ki khabar nahi mili. Page par date nahi thi (index ~212 din pehle), isliye Mar 2026 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Harpur Nizam-Vijayi Tola sampark marg (Rs95.85 lakh) ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 28 Jan 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-inauguration-of-harpur-nizam-vijayi-tola-link-road-by-mla-surendra-chaurasia-for-rural-development-201769572067600.html',
+      date: '2026-01-28',
+      note: 'Rampur Karkhana AC me Harpur Nizam-Vijayi Tola sampark marg ka shilanyas. Status: shilanyas — swikrit karya, purnata ki khabar nahi mili. Article par date printed: 28 Jan 2026.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bariyarpur nagar panchayat ward-5 me sadak-bijli-nali karyon ka sanyukt shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/baikunthpur/news/mla-laid-the-foundation-stone-for-development-works-in-bariyarpur-136368813.html',
+      date: '2026-02',
+      note: 'Nagar panchayat Bariyarpur ke ward-5 me sadak-nirmaan, bijli aapurti sudhaar aur nali-nirmaan pariyojanaon ka vidhayak + nagar panchayat adhyaksh Kiran Rajbhar dwara sanyukt shilanyas. Status: shilanyas (sanyukt) — alag-alag lagat ka vivaran report me nahi tha; purnata ki khabar nahi mili. Page par date nahi thi (index ~339 din pehle), isliye Feb 2026 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Noonkhar-Baikunthpur marg chaudi-karan (Rs6.78 crore) — shilanyas ke baad nirmaan pragati par',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/noonkhar/news/devria-noonkhar-baikunthpur-road-widening-6-78-crore-progress-137675778.html',
+      date: '2026-07',
+      note: 'Vidhayak ki lagatar maang par shasan ne Rs6.78 crore swikrit kiye; vibhagiya prakriyaon ke baad shilanyas hua aur turant chaudi-karan ka kaam shuru — report ke samay nirmaan pragati par tha. Status: shilanyas + nirmaan jaari (purna nahi). Page par date nahi thi ("3 mahine pehle"), isliye Jul 2026 (est.).',
+      period: '2022-2027',
+    },
+  ],
+  'sabhakunwar': [
+    {
+      title: 'Pakadi Babu-Kukurghati aur Bhatni-Balua marg ka chaudi-karan — Rs36.83 crore ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, Mar 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-road-construction-launched-in-bhathparrani-36-crores-investment-for-local-development-201773606727818.html',
+      date: '2026-03',
+      note: 'Vidhayak Sabhakunwar Kushwaha ne 2 sadkon (Pakadi Babu-Kukurghati; Bhatni-Balua — Darshan chauraha se Chakhni ghat via Raibari hote hue Bihar seema tak) ke chaudi-karan/sudridhi-karan ka shilanyas kiya; kul lagat Rs36.83 crore. Usi karyakram me vidhayak ne PHC uchchikaran ki vittiya swikriti aur fire station ki ghoshna ka bhi dawa kiya (nirmaan shuru nahi — alag entry nahi). Status: shilanyas — nirmaan shuru, purnata ki khabar nahi mili. Page par date nahi thi (index ~211 din pehle), isliye Mar 2026 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bhatpar Rani PHC ko CHC me badalne ko shasan se hari jhandi',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 12 Jun 2025',
+      sourceUrl: 'https://www.amarujala.com/amp/uttar-pradesh/deoria/bhatpar-rani-phc-will-be-converted-into-chc-green-signal-received-from-the-government-deoria-news-c-208-1-sgkp1008-155871-2025-06-12',
+      date: '2025-06-12',
+      note: 'Vidhayak ke 19 mahine ke prayas ke baad UP shasan (sanyukt sachiv Anand Rai, 10 June patra) ne Bhatpar Rani PHC ke CHC me uchchikaran ko hari jhandi di; DG Chikitsa ko prastav maanga gaya. Aug 2026 me CM ne Majhauliraj karyakram me PHC parisar me Rs13 crore ke CHC ka shilanyas bhi kiya (CM ka karyakram — alag entry nahi banayi). Status: hari jhandi/prastav charan — nirmaan purna/poora ki khabar nahi mili. Article par date printed: 12 Jun 2025.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bhatpar Rani ki 2 sadkon ki vishesh marammat — Rs96.11 lakh swikrit, pehli kist Rs33.64 lakh jaari',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, 17 Nov 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-major-road-repairs-approved-in-bhathpar-rani-with-96-lakh-funding-201763326531555.html',
+      date: '2025-11-17',
+      note: 'PWD ne 2 jarjar sadkon ki vishesh marammat ko Rs96.11 lakh swikrit kiye, Rs33.64 lakh pehli kist jaari: Bhatpar-Bhingari-Bhawani Chhapar sampark marg par Durgapur school se Miskar Chak hote hue Karaunda chauraha tak (2.5 km, Rs48.19 lakh) + Karjania se Khemipur (Bihar border) tak (Rs47.92 lakh). Vidhayak ke anusaar tender prakriya jald shuru hogi. Status: swikriti + pehli kist — nirmaan shuru nahi. Article par date printed: 17 Nov 2025.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Mehrona chauraha se Sohanpar tak sadak ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Aug 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/batparrani/news/bihar-mla-inauguration-road-foundation-stone-mehrona-137925816.html',
+      date: '2026-08',
+      note: 'Bhatpar Rani tehsil ke gram Mehrona me Mehrona chauraha se Sohanpar tak banne wali sadak ka vidhayak dwara shilanyas. Status: shilanyas — lagat ka vivaran report me nahi tha; purnata ki khabar nahi mili. Page par date nahi thi ("2 mahine pehle"), isliye Aug 2026 (est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bhatpar Rani vikas khand ke naye block bhawan ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'LiveHindustan, Sep 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-inauguration-of-new-block-building-in-bhathparrani-with-vedic-ceremony-201788915703934.html',
+      date: '2026-09',
+      note: 'Bhatpar Rani-Bhingari marg par Belpar me bane naye block bhawan ka vidhayak dwara lokarpan/grih-pravesh; purana bhawan jarjar tha. Vidhayak ne apne 3 chunavi vaadon me se 2 poore hone ka dawa kiya (block bhawan + nagar panchayat me jal-nikasi nala poora; Belpar railway dhala par ROB "jald" — ghoshna matra, alag entry nahi). Status: lokarpan — poora aur chalu. Page par date nahi thi (index ~34 din pehle), isliye Sep 2026 (est.).',
+      period: '2022-2027',
+    },
+  ],
+
+// ---- TRAIL: rejected items & search notes (2026-10-13) ----
+// SURYA PRATAP SHAHI (Pathardeva) — REJECTED:
+//  - Krishi-mantri statewide announcements (FPO yojna, ganna-mulya, fasal-bima waghera): task ke anusaar exclude; sirf Pathardeva AC-specific kaam liye.
+//  - Bhaskar interview claims (self-claims, koi independent event/evidence nahi): rajkiya degree college Rs22 cr (hostel+PG), ITI Banjaria, ITI Pipra Dhaula Kadam, pashu aspataal Deoria, Baitalpur Rs5 cr krishi kendra, 14 blocks kisan kalyan kendra, 4 naye town area, pani ki tankiyan, 230 KV vidyut kendra. Kisi ka bhi shilanyas/lokarpan/samapan independent news me nahi mila — dawa matra, isliye exclude.
+//  - Amar Ujala (Mar 2026): ITI Banjaria nirmaan me deri par DM ne adhikariyon par case — ye negative construction-delay news hai, vidhayak ka kaam nahi; entry nahi.
+//  - Amar Ujala (Mar 2026): Ravindra Kishore Shahi Rajkiya Mahavidyalaya (Ghudipur) me chal rahe nirmaan ka vidhayak dwara NIRIKSHAN — sirf nirikshan, exclude.
+//  - Amar Ujala (Jan 2025): Pathardeva CHC 50→100 bed upgrade — sirf prastav/maang (CMO ne shasan ko prastav bheja, swikriti pending); exclude.
+//  - LiveHindustan Dec 2025 article me Narayanpur 132 KVA substation — "prayas kiya ja raha hai" = announcement/proposal; exclude.
+//  - balliaexpress.in Dec 2019: Pathardeva mahotsav me Rs19.79 cr sadkon ka shilanyas — pre-March-2022; exclude.
+// SURENDRA CHAURASIA (Rampur Karkhana) — REJECTED:
+//  - YouTube-only: (a) IOC CSR se Rs65 lakh ki 2 digital library (Baikunthpur bazar, Kushahari) ka shilanyas; (b) Harpur-Ahirauli 2.60 km sadak par Rs183.11 crore ka dawa (figure bhi avishvasniya). YouTube URL rule ke anusaar exclude; koi news-portal coverage nahi mili.
+//  - LiveHindustan (May 2026): 24 gram panchayaton me digital library — "shasan ki pahal" (govt scheme), vidhayak ne sirf prashansa ki; guilt-by-association, exclude.
+//  - Bhaskar: Harpur me niji "Abhay Marka" eent-bhatthe ka shubharambh — vidhayak sirf mukhya atithi (private industry), event-maujoodgi; exclude.
+//  - Deoria-Kasya four-lane (Jan 2026) Shahi wali entry me hai; Chaurasia ka concrete role nahi mila — unke naam par entry nahi.
+// SABHAKUNWAR (Bhatpar Rani) — REJECTED:
+//  - Amar Ujala (29 Aug 2026): CM ne Majhauliraj me Rs305 cr ki 80 pariyojanaon ka lokarpan-shilanyas (block bhawan, Rs13 cr CHC, fire station) + ROB manzuri ki ghoshna — CM ka karyakram, vidhayak ka credit nahi; CHC shilanyas ko PHC→CHC entry ke note me fold kiya; ROB sirf ghoshna.
+//  - Fire station "jald banega" — ghoshna matra (sirf ek swikrit-dawa, nirmaan nahi); exclude.
+//  - Block-bhawan article me "nagar panchayat jal-nikasi nala poora" — vidhayak ka self-dawa, independent report nahi; exclude (note me mention).
+// NEGATIVE entries: teenon me koi bhi credible allegation/case news nahi mili — zero negative entries.
+  // ---- Deoria district batch, wave 3 (researched 2026-10-13) ----
+  'bijaylaxmi-gautam': [
+    {
+      title: 'Salempur-Nonapar marg (7.77 km) ka Rs17.09 crore ki lagat se shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 15 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/deoria/story-foundation-laid-for-salempur-nonapar-road-expansion-at-17-crores-201773543890311.html',
+      date: '2026-03-15',
+      period: '2022-2027',
+      note: 'Salempur aur Rampur Karkhana vidhan sabha kshetron ko jodne wale marg ke chaudikaran-sudridhikaran ka sanyukt shilanyas: Rajyamatri Bijaylaxmi Gautam, Sadar MP Shashank Mani Tripathi aur Rampur Karkhana MLA Surendra Chaurasia ne kiya. Unhone kaha ki is sadak ke liye ve lambe samay se prayasrat thin. Status: shilanyas — nirman shuru hona baki/purnata ki khabar nahi mili.',
+    },
+    {
+      title: 'Lar-Salempur 13 km sadak (Rs19 crore) ka bhoomi poojan aur nirman prarambh',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 13 Mar 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/deoria/construction-of-lar-salempur-road-started-traffic-will-be-easy-deoria-news-c-208-1-deo1004-149186-2025-03-13',
+      date: '2025-03-13',
+      period: '2022-2027',
+      note: 'Lar bypass se Salempur tak 13 km khatara sadak ka Rs19 crore ki lagat se punarnirman; vidhayak-mantri ne bhoomi poojan kiya, machinein lagkar kaam shuru ho gaya. Status: shilanyas ke baad nirman prarambh — purnata/udghatan ki alag khabar nahi mili.',
+    },
+    {
+      title: 'Salempur roadways bus adda (Rs3.17 crore) ki swikriti aur nirman',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 9 Mar 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/deoria/bus-station-will-be-built-in-salempur-three-crore-rupees-will-be-spent-deoria-news-c-208-1-sgkp1012-148838-2025-03-09',
+      date: '2025-03-09',
+      period: '2022-2027',
+      note: 'Vidhayak-mantri ki maang-patr par CM/Parivahan Mantri ko likhe jaane ke baad Rs3.17 crore ki swikriti, Salahabad (ITI-krishi vibhag ki zameen) par zameen chihnit, tender prakriya poori; parivahan mantri ne ise unka "dream project" batakar munch se ghoshna ki thi. Amar Ujala 14 Sep 2026 me nirikshan ki khabar: baaki kaam poora karne ke nirdesh, October 2026 me lokarpan ka ailaan — lokarpan hua ya nahi, iski pushti ki khabar nahi mili. Status: swikriti/nirmanadheen — ghoshit lokarpan unverified.',
+    },
+  ],
+  // 'bijaylaxmi-gautam' trail:
+  // - Zee Media interview me unka apna dawa ("bus adda poori tarah taiyaar hai") — self-claim, alag independent khabar nahi mili; Amar Ujala ki independent reporting (swikriti + Sep-2026 nirikshan) entry me li gayi.
+  // - Gandhi Jayanti (Oct 2026) par Gandhi Chowk me jhadu uthana — sirf event/PR, koi kaam nahi — reject.
+  // - World Environment Day (Jun 2026) par paudharopan — sirf event, koi kaam nahi — reject.
+  // - Bhaskar Dec 2025: Lekhpal Sangh Bhavan ke liye CDO ko patra likhkar vidhayak nidhi (FY 2025-26) se prastav banane ka nirdesh — sirf nirdesh/prastav, swikriti ya shilanyas nahi — reject (proposal-stage).
+  // - Bhaskar: Shaheed Rishikesh Choubey ke ghar tak sadak ki MAANG (Sohanpur gaonwasiyon ne unse milkar rakhi) — sirf maang — reject.
+  // - PMAY/sarkari aawas se judi sari khabaren unki mantri-bhoomika (state-level ghoshnaayein) ki hain, Salempur kshetra ka vishisht kaam nahi — reject.
+  // - Bihar Sharif wali Binsa-Salempur school ki khabar Bihar ki hai, UP ke Salempur se sambandh nahi — reject.
+  // - Birthday-program khabar me unka dawa (Mohar...-Pyasi, Jamua-Karuana sadak marg ki sanstuti mili) — sirf manchiya dawa, alag reporting nahi — reject.
+  'deepak-kumar-mishr': [
+    {
+      title: 'Bhaluani vikas-khand me karmchari awasiy bhavan ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, 2025-03',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/deoria/bhaluani/news/barhaj-mla-laid-the-foundation-stone-in-bhaluani-136658532.html',
+      date: '2025-03',
+      period: '2022-2027',
+      note: 'Samudayik Vikas Yojana (FY 2024-25) ke antargat Bhaluani block me jargi purani building ki jagah naye awasiy bhavan ki aadharshila MLA Deepak Mishra ("Shaka Baba") ne rakhi — staff ko parisar me hi awas milega. Status: shilanyas — nirmanadheen, purnata ki khabar nahi mili.',
+    },
+    {
+      title: 'Mirzapur-Pandey Phulwariya gaon jodne wali nai sadak ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Apr 2026',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/deoria/brhaz/news/foundation-stone-laid-for-new-road-in-barhaj-136876314.html',
+      date: '2026-04',
+      period: '2022-2027',
+      note: 'Mirzapur aur Pandey Phulwariya gaon ki lambe samay se connectivity maang par vidhayak ne shilanyas kar karya prarambh kiya. Khabar me lagat "1.08 lakh" likhi hai — itni chhoti rashi do gaon jodne wali sadak ke liye asamanya lagti hai, sambhavtah "crore" ka typo; jaise source me hai waise diya gaya hai. Status: shilanyas — nirman prarambh, purnata ki khabar nahi mili.',
+    },
+  ],
+  // 'deepak-kumar-mishr' trail:
+  // - Bhaskar (Dec 2025): Karuvana-Maghara 8.5 km, Rs18 crore sadak ka sirf nirikshan (75% kaam poorn tha, Dec-ant tak poora hone ka unka dawa) — sirf nirikshan, shilanyas/udghatan ki is tenure ki khabar nahi — reject.
+  // - Amar Ujala (20 Feb 2026): Mohan Setu + Sonu Ghat-Barhaj marg ko fourlane karane ki vidhan sabha me MAANG uthayi — sirf maang — reject.
+  // - YouTube "MLA Report Card" videos (India News UP) dono MLAs ke liye — video-aggregator content, concrete kaam ke liye use yogya nahi — reject.
+
 };
