@@ -1232,3 +1232,229 @@ mpWorks['keshav-singh-desai'] = [
     period: '2023-2028',
   },
 ];
+
+// ---- Bhopal district batch (researched 2026-10-14) ----
+// Bhopal district batch 1 fragment (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+// MLAs: vishnu-khatri (Berasia SC), atif-arif-aqueel (Bhopal Uttar),
+//        vishvas-sarang (Narela, minister — sirf Narela kshetra ke kaam), bhagwandas-sabnani (Bhopal Dakshin-Paschim)
+
+mpWorks['vishvas-sarang'] = [
+  {
+    title: 'Narela ke Ward 37 aur 38 me Rs. 24.78 crore ke 10 vikas karyon ka bhoomi-pujan (sadak, sewer, peya-jal, naali, park)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran (MP-CG), 20 Jul 2026',
+    sourceUrl: 'https://www.dainikjagranmpcg.com/state/madhya-pradesh/development-work-worth-%E2%82%B9-2478-crore-started-in-narela-bhopal/article-59257',
+    date: '2026-07-19',
+    note: '19 Jul 2026 (Ravivar) ko Vishvas Sarang ne Narela ke Ward 37 (lagbhag Rs. 8.04 crore) aur Ward 38 (lagbhag Rs. 16.74 crore) me kul Rs. 24.78 crore ke 10 karyon ka bhoomi-pujan kiya: sewer network vistaar (AMRUT ke tahat), peya-jal pipeline, sadak/naali nirman (Ward 38 me Ashoka Garden thana se Ektapuri hote hue Semra sabzi mandi tak lagbhag Rs. 6 crore ki CC sadak sahit), park sudhaar aur Semra mandi me lagbhag Rs. 20 lakh ka sarvajanik shauchalaya. Status: bhoomi-pujan — karyanwayan ki alag khabar nahi mili. Usi karyakram me Kailash Sarang Park me taiyaar open gym ka lokarpan bhi hua. Disclosure: Sarang mantri hain, lekin ye karyakram unke apne Narela kshetra ke karyon ka tha — isliye rakha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Narela ka teesra CM Rise School: Govindpura (BHEL) me lagbhag Rs. 23.71 crore ke naveen bhavan ka bhoomi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 16 Mar 2024',
+    sourceUrl: 'https://www.amarujala.com/madhya-pradesh/bhopal/bhopal-news-third-cm-rise-school-will-be-built-in-narela-at-a-cost-of-rs-23-crore-will-be-ready-in-18-months-2024-03-16',
+    date: '2024-03-16',
+    note: 'Shaskiya Uchchtar Madhyamik Vidyalaya Govindpura (BHEL) me lagbhag Rs. 23.71 crore ki anumanit lagat se banne wale CM Rise School ke naveen bhavan ka bhoomi-pujan Vishvas Sarang ne 16 Mar 2024 ko kiya — Amar Ujala ke mutabik ye unke Narela kshetra ka teesra CM Rise School hai; nirman avadhi lagbhag 18 mahine batayi gayi (43 classroom, 5 lab, 3 library, auditorium sahit). Status: bhoomi-pujan — purnata ki alag khabar nahi mili. Disclosure: CM Rise rajya sarkar ki yojna hai, lekin bhoomi-pujan unhone apne kshetra ke vidhayak ke roop me kiya — isliye rakha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Narela ke Ward 38 me sadak-nirman aur saundaryakaran karyon ka shilanyas (Semra, Purushottam Nagar)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskar English, Nov 2025 (est.)',
+    sourceUrl: 'https://www.bhaskarenglish.in/local/mp/news/mp-minister-vishvas-sarang-foundation-development-works-narela-ward-38-road-construction-beautification-135497830.html',
+    date: '2025-11',
+    note: 'Vishvas Sarang ne Narela ke Ward 38 me kai vikas karyon ka shilanyas kiya: Semra me Shiv Mandir ke paas aur Purushottam Nagar me sadak-nirman aur saundaryakaran. Status: shilanyas — lagat ka aankda report me nahi tha; purnata ki alag khabar nahi mili. Caveat: tithi article ke "11 months ago" timestamp se anumanit hai (Nov 2025, est.); upar wali Rs. 24.78 crore wali entry ke kuch sthal (Semra, Purushottam Nagar) overlap karte hain — lekin ye doosra, alag event tha, isliye alag entry rakhi hai. Disclosure: Sarang mantri hain, lekin karyakram unke apne Narela kshetra me tha — isliye rakha hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['bhagwandas-sabnani'] = [
+  {
+    title: 'Ward 33 (Bhim Nagar) me lagbhag Rs. 30 lakh ki CC sadak aur naali nirman ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Shabd Sangram, 19 Apr 2025',
+    sourceUrl: 'https://shabdsangram.com/?p=6761',
+    date: '2025-04-19',
+    note: '19 Apr 2025 ko Dakshin-Paschim kshetra ke Ward 33 me CC road aur naali nirman karyon ke liye vidhayak Bhagwandas Sabnani aur Mahapaur Malti Rai ne sanyukt roop se bhoomi-pujan kiya; lagat lagbhag Rs. 30 lakh batayi gayi. Status: bhoomi-pujan — purnata ki alag khabar nahi mili. Note: article Jan-Sampark press-note shaili me hai; sthal, rakam aur stage article me saaf likhe hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dakshin-Paschim kshetra ke bauddh viharon me lagbhag Rs. 45 lakh ke nirman/saundaryakaran karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Shabd Sangram, 7 Apr 2025',
+    sourceUrl: 'https://shabdsangram.com/?p=6246',
+    date: '2025-04-07',
+    note: '7 Apr 2025 ko vidhayak Bhagwandas Sabnani ne Shravasti Buddh Vihar, Rahul Nagar me lagbhag Rs. 45 lakh ki lagat se kshetra ke samast bauddh viharon me hone wale nirman aur saundaryakaran karyon ka bhoomi-pujan kiya. Status: bhoomi-pujan — purnata ki alag khabar nahi mili. Note: article Jan-Sampark press-note shaili me hai; rakam aur stage saaf likhe hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 26 (Suraj Nagar) me Mukhya Mantri Sanjeevani Clinic ke naveen kakshon ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'MP Today, 16 Mar 2024',
+    sourceUrl: 'https://mptoday.org.in/99571/',
+    date: '2024-03-16',
+    note: '16 Mar 2024 (Lok Sabha aachar-sanhita se ek din pehle) ko vidhayak Bhagwandas Sabnani ne Dakshin-Paschim kshetra ke Ward 26, Suraj Nagar me Mukhya Mantri Sanjeevani Clinic ke naveen kakshon ka lokarpan kiya; kshetriya parshad Rajmani Uike bhi upasthit the. Status: lokarpan (nirman purn) — lagat ka aankda report me nahi tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 25 (Chandrashekhar School parisar) me Rs. 20,57,660 ke vikas karyon ka bhoomi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'CGINFO24, 9 Aug 2024',
+    sourceUrl: 'https://cginfo24.com/2024/08/09/mla-bhagwandas-sabnani-performed-the-bhoomi-pujan-for-development-works-in-ward-25-of-south-west-assembly/',
+    date: '2024-08-09',
+    note: '9 Aug 2024 ko vidhayak Bhagwandas Sabnani ne Ward 25 ke Chandrashekhar School parisar me Rs. 20,57,660 ki rashi se hone wale karyon ka bhoomi-pujan kiya: boundary wall, paver block, jhule, furniture aur anya marammat karya. Status: bhoomi-pujan — purnata ki alag khabar nahi mili. Caveat: CGINFO24 chhota kshetriya news portal hai; article press-note shaili me hai — isi wajah se detail cross-verify nahi ho payi, lekin sthal/rakam/stage sab article me saaf likhe hain.',
+    period: '2023-2028',
+  },
+];
+
+// vishnu-khatri (Berasia SC): khaali — credibility check par koi entry nahi bani. Reject-log:
+// 1. CM Rise School Rs. 36.34 crore bhoomi-pujan + Itkhedi school Rs. 1.75 crore lokarpan (mpjankrantinews.in) — event lagbhag Mar 2023 ka hai (pre-tenure), REJECT.
+// 2. Vikas Yatra (Feb 2023) me sadak bhoomi-pujan/lokarpan ke daave (ncrsamacharlive.in, swatantrasamay.com) — pre-tenure, REJECT.
+// 3. Berasia me Sandipani School lokarpan + four-lane road ghoshna (indianmasterminds.com, Aug 2026) — CM ka karyakram; Khatri ki sirf upasthiti/bhashan, koi concrete bhoomika (nidhi/shilanyas/anushansa) report nahi, REJECT.
+// 4. Unke X account ka daava: Behrawal-Barkhedi Dev-Bilakho 20 km sadak (~Rs. 10 crore) — self-post, kisi news me report nahi hua, REJECT (dawa ke liye news report chahiye).
+// 5. 33 gram panchayaton ko paani tanker vitran (YouTube NN81) — YouTube-only source, REJECT.
+// 6. Sadak suraksha jagrukta abhiyan — BJP karyakarta ki pehal, Khatri sirf agrim-badhai paane wale, REJECT.
+// 7. SS Hospital (Harrakheda) udghatan me upasthiti; accident ke baad hospital daura — sirf maujoodgi/sawedna, REJECT.
+mpWorks['vishnu-khatri'] = [];
+
+// atif-arif-aqueel (Bhopal Uttar): khaali — credibility check par koi entry nahi bani. Reject-log:
+// 1. Metro Orange Line Phase-2 virodh (Bhaskar English ~Mar 2026; FPJ/ETV Bharat Oct 2026) — virodh/protest, koi vikas karya nahi; Gadkari ko double-decker bridge ki chitthi — sirf maang/proposal, REJECT.
+// 2. Vidhan Sabha me gaay ko rashtriya pashu ghoshit karne ka sankalp (Feb 2026) — vidhayi maang, vikas karya nahi, REJECT.
+// 3. Aawara kutton par dhyanakarshan (budget session 2026) — vidhayi sawal, vikas karya nahi, REJECT.
+// Note: vipakshi vidhayak hone ke kaaran unke khud ke nidhi/shilanyas/lokarpan ki koi credible news Dec 2023 ke baad nahi mili — khaali profile weak attribution se behtar.
+mpWorks['atif-arif-aqueel'] = [];
+
+// General reject-log (Bhopal batch 1):
+// - Sarang: Govindpura CM Rise school bhoomi-pujan (Mar 2024) — Amar Ujala ki entry me shamil hai; mptoday wala Mar-2024 wala article usi event ka dusra report hai (double-count nahi).
+// - Sarang: Ashoka Garden ke Vivekananda Park par lokarpan-credit vivaad (mpbreakingnews.in) — lagbhag Mar 2020 ka purana mamla (pre-tenure), REJECT.
+// - Sabnani: Ayurved Chikitsalaya naveen bhavan bhoomi-pujan (Sep 2026) me sirf upasthiti — mantri Inder Singh Parmar ka karyakram, koi concrete bhoomika nahi, REJECT.
+// - Sabnani: Jawahar Chowk par Durga Utsav jhanki-sthal bhoomi-pujan (Sep 2026) — utsav-sajja, vikas karya nahi, REJECT.
+// - Sabnani: Gandhi Jayanti swachhata abhiyan me sahbhagita (Oct 2026) — sirf sahbhagita, REJECT.
+
+// Bhopal district batch w2 (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+// Slugs: arif-masood (Bhopal Madhya AC-153, INC), krishna-gaur (Govindpura AC-154, BJP, mantri),
+// rameshwar-sharma (Huzur AC-155, BJP)
+
+mpWorks['arif-masood'] = [
+  // Negative entry (santulit, dosh-siddhi ka daava nahi): Indira Priyadarshini College manyata-radd
+  // mamle me MP High Court ne FIR + SIT ka nirdesh diya tha (Aug 2025), jise Supreme Court ne
+  // 10 Mar 2026 ko set aside kar diya; mamla HC me merits par lambit hai. Vikas-karya ki koi
+  // satyapit khabar nahi mili — isliye positive entries khaali.
+  {
+    title: 'Indira Priyadarshini College manyata-radd mamle me Supreme Court se rahat — HC ka FIR/SIT nirdesh radd, mamla HC me merits par lambit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran English, 10 Mar 2026',
+    sourceUrl: 'https://english.dainikjagranmpcg.com/states/madhya-pradesh/supreme-court-grants-relief-to-congress-mla-arif-masood/article-15144',
+    date: '2026-03-10',
+    note: 'NEGATIVE entry. Aman Education Society (sachiv: Arif Masood) dwara sanchalit Khanugaon sthit Indira Priyadarshini College ki manyata Higher Education Department ne 9 Jun 2025 ko jali dastavezon ke aarop par radd ki thi; MP High Court ne FIR darj karne aur SIT gathan ka nirdesh diya tha. SC (Justice J.K. Maheshwari, Justice Atul Chandurkar) ne HC ke antarim nirdeshon ko set aside kiya — kaha ki sarkar ka jawab aane se pehle itne sakht nirdesh zaroori nahi the. Mamla abhi bhi High Court me merits par lambit hai — dosh-siddhi ka koi daava nahi. Caveat: shikayat purv vidhayak Dhruvnarayan Singh ne ki thi (rajnaitik prtispardha ka pehlu bhi hai).',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['krishna-gaur'] = [
+  {
+    title: 'Ward 73 (Shiv Nagar Phase 1-3, Anant Nagar) me sadak aur naali karyon ka bhoomi-pujan — kul 74.48 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskar English, Jun 2025 (est.)',
+    sourceUrl: 'https://www.bhaskarenglish.in/local/mp/bhopal/news/krishna-gaur-bhoomi-poojan-road-drain-construction-ward-73-bhopal-shiv-nagar-anant-nagar-development-135310276.html',
+    date: '2025-06',
+    note: 'Govindpura vidhayak tatha Rajya Mantri (Swatantra Prabhar) Krishna Gaur ne Ward 73 ke parshad Raju Rathore ke saath milkar sadak-naali nirmaan karyon ka bhoomi-pujan kiya: Shiv Nagar Phase-3 (Prahlad Wali Gali naali), Phase-2 (Suraj Premium School ke peeche naali), Phase-1 (Sachin Gaur ke nivas ke saamne sadak-naali), Phase-3 (Chhote Zindbaba ke paas sadak-naali). Status: bhoomi-pujan — karyanwayan/purnata ki alag khabar nahi mili. Caveat: tithi page par "1 year ago" thi (est. Jun 2025); BJP ke bayaan ke hawale se report.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Govindpura kshetra me 70 lakh ke vikas karyon ka bhoomi-pujan — Rajat Vihar, Durga Nagar (Ward 54), Kunjan Nagar, Bagsevania',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Central Chronicle, Jun 2025 (est.)',
+    sourceUrl: 'https://www.centralchronicle.com/krishna-gaur-performs-bhoomi-pujan-of-development-projects/',
+    date: '2025-06',
+    note: 'Rajat Vihar Colony me 5 lakh ke paver-block aur 7 lakh ki CC sadak ka bhoomi-pujan; Ward 54 ke Durga Nagar mandir parisar me paver-block aur mandir roofing; Sterling Castles me paver-block; Kunjan Nagar me naali aur park nirmaan; Kabirpanthi Samaj Bhawan ka unnayan; Bagsevania me park-sadak karyon ki shuruaat. Status: bhoomi-pujan/karyarambh — purnata ki alag khabar nahi mili. Caveat: tithi "476 days ago" thi (est. Jun 2025, Balidan Diwas ke din — 23 Jun 2025 se milti-julti).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 65 me 52 lakh ke vikas karyon ka bhoomi-pujan — ITI Staff Campus sanskritik manch, Gautam Nagar naali-sadak, Geet Bungalow Phase-5',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Central Chronicle, Jun 2025 (est.)',
+    sourceUrl: 'https://www.centralchronicle.com/krishna-gaur-performs-bhoomi-pujan-of-development-projects-2/',
+    date: '2025-06',
+    note: 'ITI Staff Campus me 5 lakh ke sanskritik manch ka nirmaan shuru; Gautam Nagar me 14.88 lakh ki RCC naali aur CC sadak ka bhoomi-pujan; Chanakyapuri me 5.57 lakh ki naali; Geet Bungalow Phase-5 me 26 lakh ki RCC naali-CC sadak ka shilanyas; Indus Park Phase-2 me vriksharopan. Status: bhoomi-pujan/karyarambh — purnata ki alag khabar nahi mili. Caveat: tithi "475 days ago" thi (est. Jun 2025).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward-61 (Lavkush Nagar, Khajuri Kalan) me mandir saundaryikaran ke liye 5 lakh ki vidhayak-nidhi ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Central Chronicle, Apr 2025 (est.)',
+    sourceUrl: 'https://www.centralchronicle.com/minister-krishna-gaur-listens-to-govindpura-residents/',
+    date: '2025-04',
+    note: 'Ward-61 ke achanak nirikshan dauran Lavkush Nagar/Samridhi Parisar (Khajuri Kalan) me jal-jamav ki shikayat par Krishna Gaur ne atikraman hatane, naali safai aur mandir ke chaaron taraf paver-block lagane ke nirdesh diye, aur mandir saundaryikaran ke liye apni vidhayak-nidhi se 5 lakh rupaye dene ki ghoshna ki. Status: ghoshna — swikriti/vitran ki alag sarkari pushti nahi mili. Disclosure: yehi article mukhyatah nirikshan-aadeshon par hai (jo niyam-anusar ginne layak nahi); sirf 5 lakh ki ghoshna entry me hai. Caveat: tithi "542 days ago" thi (est. Apr 2025).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ayodhya Bypass par BMC-NHAI severage line vivad ka samadhan — mantri Krishna Gaur ki uchch-stariya baithak ke baad sahamati',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran English, 14 May 2026',
+    sourceUrl: 'https://english.dainikjagranmpcg.com/states/madhya-pradesh/ayodhya-bypass-sewage-dispute-resolved-after-minister%E2%80%99s-meeting/article-18231',
+    date: '2026-05-14',
+    note: '16-km 10-lane Ayodhya Bypass par severage pipeline bichhane ko lekar BMC aur NHAI ke beech gatirodh tha (NHAI 33-metre restricted zone ka hawala de raha tha). Krishna Gaur ne dono vibhagon ke adhikariyon ki uchch-stariya baithak bulai; hastakshep ke baad NHAI ne sadak ke dono taraf 4-4 metre jagah dene par sahamati di, aur Bhanpur ke 60 MLD STP se judi severage line ke liye 3 takniki vikalp pehchane gaye. Disclosure: hastakshep mantri ke roop me tha (unke vibhag ka vishay nahi), lekin Ayodhya Bypass/Bhanpur belt Govindpura kshetra sahit purvi Bhopal ke 5 lakh+ nivasiyon ko prabhavit karta hai; rajya-bhar ke vibhagiya faisle exclude kiye gaye hain, ye shahar-stariya samadhan hai. Status: samadhan ghoshit — pipeline ka karyanwayan takniki anumodanon ke baad shuru hona tha.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rameshwar-sharma'] = [
+  {
+    title: '11 Mile Khajuri Junction (Bhopal-Indore highway) par 31 crore ke 6-lane flyover ka bhoomi-pujan — Vidhan Sabha Adhyaksh ke saath',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 5 Nov 2025',
+    sourceUrl: 'https://www.freepressjournal.in/bhopal/mp-news-6-lane-flyover-worth-31-crore-to-be-built-on-bhopal-indore-highway-to-be-completed-before-simhastha',
+    date: '2025-11-05',
+    note: 'Huzur vidhayak Rameshwar Sharma ne Vidhan Sabha Adhyaksh Narendra Singh Tomar ke saath milkar 850-metre lambe 6-lane flyover ka bhoomi-pujan kiya; nirmaan MPRDC karegi, lakshya Simhastha-2028 se pehle (18 mahine me) purnata. Status: bhoomi-pujan — nirmaan shuru hona tha. Disclosure: ye rajya pariyojna hai (MPRDC), lekin Sharma ne sanyukt roop se bhoomi-pujan kiya aur pariyojna unke Huzur kshetra me hai — isliye pardarshita ke saath rakha gaya hai. Isi article ke mutabik pichhle 5 dinon me kshetra me 100 crore+ ke karyon ke shilanyas hue (Mandakini-Danishkunj 4-lane sadak, Sukhi Sewania 6-lane flyover) — unke alag-alag shilanyas ki pushti nahi mili, isliye alag entry nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Sikandarabad me Ram mandir nirmaan ke liye 5 lakh ki vidhayak-nidhi ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Bhaskar English, Dec 2024 (est.)',
+    sourceUrl: 'https://www.bhaskarenglish.in/local/mp/bhopal/news/shrimad-bhagwat-katha-ends-with-a-call-for-unity-as-villagers-pledge-support-for-ram-temple-134053942.html',
+    date: '2024-12',
+    note: 'Sikandarabad gaon me 7-divasiya Shrimad Bhagwat Katha ke samapan par Huzur vidhayak Rameshwar Sharma ne gaon ke Ram mandir nirmaan ke liye apni nidhi se 5 lakh rupaye dene ki ghoshna ki; unki ghoshna ke baad graminon ne 30 minute me 60 lakh se adhik ka sahyog aur zameen daan ki ghoshna ki. Status: ghoshna — nidhi vitran ya mandir nirmaan ki alag pushti nahi mili. Caveat: tithi page par "1 year ago" thi (est. Dec 2024); ye dharmik nirmaan hetu nidhi-ghoshna hai, vikas-karya ki shreni me dhyan se rakha gaya hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (bhopal_w2, 2026-10-14)
+// — arif-masood: Run-4 Master Plan marathon (FPJ, 9 Sep 2026) — sirf maang/protest, kaam nahi.
+//   Master Plan 2047 draft par sarkar ko credit-sawal (IANS, 26 Sep 2026) — tippani, kaam nahi.
+//   Metro khodai par Vidhan Sabha me sawal (TOI, ~Aug 2025) — sawal-jawab, kaam nahi.
+//   Waqf (Amendment) Act virodh / Ujjain mosque row par appeal / Bhojshala verdict tippani — rajnaitik bayan, kaam nahi.
+//   tfipost.com ka "20-year college fraud" article — pakshpatpurna outlet; HC FIR/SIT nirdesh wali khabar ko
+//   Dainik Jagran English ki SC-relief wali santulit reporting ke saath entry me shamil kiya; tfipost ka daava alag se nahi.
+// — krishna-gaur: Ward-61 nirikshan (Central Chronicle, Apr 2025) ke aadesh-nirdesh — sirf nirikshan; sirf 5 lakh
+//   ki ghoshna entry me hai. Master Plan 2047 par mantri-bayaan (IANS, Sep 2026) — tippani, kaam nahi.
+//   Bhoj-Narmada Dwar bhoomi-pujan (Central Chronicle, ~May 2025) — CM ka karyakram, Gaur sirf upasthit; exclude.
+//   CM ka 155-cr severage + Sandipani School + stadium karyakram (FPJ, Nov 2025) — CM ka shilanyas/lokarpan,
+//   Gaur sirf upasthit; exclude. Unke vibhag (Backward Classes/Minority Welfare) ke rajya-bhar ke faisle — niyam se exclude.
+// — rameshwar-sharma: Bairagarh 305-cr flyover / Lalghat grade separator / Sant Nagar flyover / Phatak Road ROB /
+//   3 FOBs / Rose Garden vistar / Bhaunri talab / Kalkheda Panchayat Bhawan / PM Awas Kalkheda ke nirikshan
+//   (Bhaskar English + Dainik Jagran English, ~Dec 2025-Jan 2026) — sirf nirikshan-nirdesh, kaam ki shuruaat/purnata nahi.
+//   CM ke 9 dwar ghoshna karyakram (FPJ, Dec 2025) — CM ki ghoshna, Sharma aayojak matra; exclude.
+//   CM ka 155-cr severage bhoomi-pujan + Katara Barrai Sandipani School + Banjari stadium lokarpan (FPJ, Nov 2025) —
+//   CM ke shilanyas/lokarpan; Sharma ne bhashan me Ram Leela Ground ki maang rakhi (maang = reject).
+//   IISER Bhopal-ATRI campus shilanyas (TOI, Oct 2026) — Amit Shah/CM ka karyakram, Sharma sirf ganmanya; exclude.
+//   Owaisi-Qazi Camp bayan vivad (Lokmat Times, Sep 2026) — rajnaitik bayan, kaam nahi; negative entry layak gambhir
+//   mamla nahi (koi case/FIR ki credible khabar nahi mili).
+// — SOURCES REJECTED: youtube.com shorts (NationMirror), newsorbit.info (aggregator-style), itdcindia.com,
+//   public.app-type, FB/IG self-posts — niyam-anusar istemal nahi.
