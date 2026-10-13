@@ -7320,4 +7320,198 @@ export const upWorks: Record<string, Work[]> = {
       period: '2022-2027',
     },
   ],
+// ---- Raebareli district batch (researched 2026-10-13) ----
+// Raebareli district batch (researched 2026-10-13): 'shyam-sunder' — Shyam Sunder Bharti, SP MLA, Bachhrawan (SC), AC 177, tenure March 2022 onwards.
+// RESULT: zero entries — no news-verified works met the verification bar.
+// Identity confirmed via Wikipedia/OneIndia/TOI: won Bachhrawan 2022 with 65,747 votes (margin 2,812 vs Laxmikant, Apna Dal(S)); SP; assumed office March 2022.
+// Research (12 web searches Hindi+English incl. news vertical + 1 social sweep) found only the following leads, ALL REJECTED:
+//   1. Chitai Kheda <-> Dahigawan interlocking road (Rs 65 lakh, foundation 2026-07-27, MLA present) — only on Facebook/Instagram reels (excluded source type). Reject.
+//   2. CM Yogi Rs 879 crore / 346 projects package (Aug 2026, Raebareli+Bachhrawan+Harchandpur) — state government/CM work (FreePressJournal, IndianMasterminds, Punjab Kesari), not this MLA's own work. Misattribution risk. Reject.
+//   3. Rahul Gandhi DISHA meeting + PMGSY road foundation stones (Nov 2024, ThePrint/The Federal/The Statesman) — MP's work, explicitly out of scope for this MLA profile. Reject.
+//   4. DISHA meeting Sept 2026 (Instagram reel only): MLA raised demands (dilapidated roads, Jal Jeevan dug-up roads unrepaired, closed govt schools) — demands only, no sanctioned/completed work; excluded source. Reject.
+//   5. Ghuraina village incidents Oct 2026 (social only): MLA visited site, demanded FIR/arrests — visit/advocacy only, no credible text reporting, no case-status established. Reject.
+//   6. Samaspur Halor high-mast solar light Oct 2026 (Instagram carousel only) — described as a citizen's birthday contribution, not MLA-fund work; excluded source. Reject.
+//   7. Kanshi Ram statue unveiling Apr 2023 (newscubic.co.in): unveiled by Akhilesh Yadav; MLA merely present (was stopped by security, later let go) — event presence is not a work. Reject.
+//   8. India News UP 'MLA Report Card' video (YouTube only) — excluded source type. Reject.
+//   9. Sept 2026 caste-discrimination allegation videos (Instagram/Facebook reels only) — no credible text reporting; allegation/case/rebuttal status not establishable. No negative entry per rules.
+// No negative entry qualifies (credible reporting + explicit allegation/case/rebuttal status required; none found).
+// Revisit in a later batch if text-news coverage of this MLA's works appears.
+'shyam-sunder': [],
+  'rahul-rajpoot': [
+    {
+      title: 'Khiro block me navnirmit sadak ka gaon ki betiyon ke haathon lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Navbharat Times, Mar 2026',
+      sourceUrl: 'https://navbharattimes.indiatimes.com/state/uttar-pradesh/raebareli/heartwarming-photo-from-raebareli-daughters-inaugurate-newly-constructed-road-in-harchandpur/articleshow/129824353.cms',
+      date: '2026-03',
+      note: 'Harchandpur kshetra ke vikas khand Khiro me navnirmit concrete-tarmac sadak ka lokarpan SP vidhayak Rahul Lodhi ne swayam na karke gaon ki sangharshrat betiyon ke haathon karaya. Status: lokarpan — purna nirmit karya. Article me gaon ka naam, sadak ki lambai, nirmaan agency ya vittiya srot nahi diye gaye — vidhayak nidhi ka daava bhi nahi kiya gaya. Exact date page par nahi thi — "201 din pehle" marker se Mar 2026 anumanit.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Sataon block ke Talfahar mazra Hajipur me 200m sadak ka nirman purna',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/raibareli/onaipaharpur/news/200-meters-of-road-was-built-in-hajipur-136282713.html',
+      date: '2025-10',
+      note: 'Sataon block ke Talfahar mazra Hajipur me 200 meter lambi sadak ka nirman karya purna hua; samajsevi Satyesh Gautam ke anusaar vidhayak Rahul Lodhi ke sahyog/prayason se nirman sambhav hua — graminon ne unka aabhar vyakt kiya. Status: purna (completed). Vittiya srot (vidhayak nidhi ya any yojana) article me disclose nahi hua. Exact date page par nahi thi — "9 mahine pehle" marker se Oct 2025 anumanit.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Feroze Gandhi College vivaad ke baad SP office par takraav — Lodhi ka police marpit ka aarop',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Statesman, Sep 2026',
+      sourceUrl: 'https://www.thestatesman.com/uttar-pradesh/rahul-gandhis-turf-akhilesh-yadavs-pda-rath-raebareli-becomes-stage-for-sps-2027-push-1503642360.html/amp',
+      date: '2026-09',
+      note: 'Negative/vivaad entry: 17 Sep 2026 ko Feroze Gandhi Degree College (Raebareli) me Samajwadi Chhatra Sabha aur ABVP ke beech jhadap ke baad SP netaon-karyakartaon ne SP office par pradarshan kiya. AAROP (vidhayak Rahul Lodhi): police ne unke aur karyakartaon ke saath dhakka-mukki/marpit ki; Outlook ke anusaar Lodhi ne SP office ke andar pitne ka daava kiya. REBUTTAL (police): aaropon se inkar — karvai kewal kanoon-vyavastha banaye rakhne ke liye thi. Status: magisterial inquiry ke aadesh (The Statesman); jaanch ke parinam ki koi khabar report nahi hui. Iske baad Akhilesh Yadav ne 24 Sep ko PDA Rath Yatra ki shuruaat Lodhi ke ghar se ki. Outlook India ne bhi aarop + police-khandan report kiya.',
+      period: '2022-2027',
+    },
+  ],
+// W3 fragment — Raebareli district batch (researched 2026-10-13).
+// NOTE: Aditi Singh won Rae Bareli on Congress ticket in 2017, joined BJP Nov 2021,
+// won 2022 on BJP ticket. Only post-March-2022 works included below.
+  'aditi-singh': [
+    {
+      title: 'Police Line chauraha se Mama chauraha overbridge tak ~₹9 crore ki 2.35 km Jail Road ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Inkhabar, 23 Apr 2026',
+      sourceUrl: 'https://www.inkhabar.com/uttar-pradesh/raebareli-jail-road-upgrade-mla-aditi-singh-launches-9-crore-development-project-207337/',
+      date: '2026-04-23',
+      note: 'Police Line chauraha se Mama chauraha overbridge tak ~2.35 km marg ka nirman ₹901.13 lakh ki lagat se hoga; shilanyas vidhayak ne kiya. Status: shilanyas — nirman shuru, purnata ki alag khabar nahi mili. (Article me syndicated-feed disclaimer hai.)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Raebareli me DUDA se ₹2.75 crore ki 14 sadkon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dynamite News Hindi, 10 Apr 2025',
+      sourceUrl: 'https://hindi.dynamitenews.com/story/sadar-mla-inaugurated-and-laid-the-foundation-stone-of-roads',
+      date: '2025-04-10',
+      note: 'PWD guest house samaroh me jila nagariya vikas abhikaran (DUDA) ke madhyam se ₹2.75 crore lagat se bani 14 nayi sadkon ka lokarpan. Status: lokarpan — purna nirmit karya. (Usi samaroh me 16 sadkon ka shilanyas alag entry me.)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Raebareli me DUDA se ₹2.60 crore ki 16 sadkon ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dynamite News Hindi, 10 Apr 2025',
+      sourceUrl: 'https://hindi.dynamitenews.com/story/sadar-mla-inaugurated-and-laid-the-foundation-stone-of-roads',
+      date: '2025-04-10',
+      note: 'DUDA ke madhyam se ₹2.60 crore lagat se banne wali 16 sadkon ka shilanyas. Status: shilanyas — nirman shuru, purnata ki alag khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Tulsi Nagar Phase-2 me ₹67.55 lakh interlocking sadak ka bhoomi pujan (DUDA)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jun 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/raibareli/news/raebareli-mla-aditi-singh-inauguration-interlocking-road-project-138209743.html',
+      date: '2026-06-16',
+      note: 'Tulsi Nagar Phase-2 me DUDA antargat ₹67.55 lakh lagat se interlocking sadak nirman ka bhoomi pujan; vidhayak ne DUDA se estimate pass karaya tha. Status: bhoomi pujan/shilanyas. Exact date page par nahi thi — samantar NewsTrack report ke "Mangalvar" se 16 Jun 2026 (Mangalvar) fix ki.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gram Sabha Sanhi (Rahi block) me 1.5 km interlocking sadak ka shilanyas — ₹130.33 lakh, Teevra Arthik Vikas Yojana',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Friends Times, 25 Jun 2026',
+      sourceUrl: 'https://friendstimes.in/uttar-pradesh/rae-bareli/%E0%A4%B8%E0%A4%A6%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%85%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A4%BF-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%A8%E0%A5%87-1/',
+      date: '2026-06-25',
+      note: 'Sanhi me Semnath Pasi ke ghar se Maharani Chabutra hote hue Salon road tak 1.5 km interlocking sadak ka shilanyas; Teevra Arthik Vikas Yojana antargat anumanit lagat ₹130.33 lakh. Status: shilanyas. (Date article image ke 20260625 naam se pusht.)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bela gram sabha me CM Model Composite School ka bhoomi pujan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'NewsTrack, 20 Jun 2025',
+      sourceUrl: 'https://newstrack.com/uttar-pradesh/raebareli/bhoomi-pujan-of-cm-model-composite-school-in-raebareli-news-in-hindi-520264',
+      date: '2025-06-20',
+      note: 'Yogi sarkar ki Mukhyamantri Model Composite School yojana (pre-primary se class 12) ka Bela gram sabha me bhoomi pujan — vidhayak ke saath DM Harshita Mathur aadi upasthit. Status: bhoomi pujan — rajya sarkari yojana ka ground work shuru; purnata ki alag khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Amawan ke Ghuradih gaon me MGNREGA Annapurna Bhavan ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan (LiveHindustan), 14 Apr 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/raebareli/story-inauguration-of-annapurna-bhavan-and-ict-lab-in-ghuradiha-village-201776189476457.html',
+      date: '2026-04-14',
+      note: 'Amawan ke Ghuradih gaon me MGNREGA-Swaraj vitta se nirmit Annapurna Bhavan ka lokarpan. Status: lokarpan — purna nirmit karya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Composite School Habatmau me ICT lab aur ACR kaksh ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Hindustan (LiveHindustan), 14 Apr 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/raebareli/story-inauguration-of-annapurna-bhavan-and-ict-lab-in-ghuradiha-village-201776189476457.html',
+      date: '2026-04-14',
+      note: 'Composite School Habatmau me ICT lab aur ACR (additional classroom) kaksh ka lokarpan. Status: lokarpan — purna nirmit karya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ratapur, Malikmau, Gora Bazar, Rajkiya Colony me 4 solar RO water plants ka lokarpan — ₹12.5 lakh pratyek',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'SK India News (local blog), Jun 2025',
+      sourceUrl: 'http://skindianews00.blogspot.com/2025/06/blog-post_91.html',
+      date: '2025-06',
+      note: 'Shahar ke 4 kshetron (Ratapur, Malikmau, Gora Bazar, Rajkiya Colony) me solar-based RO plants ka lokarpan; nirman purna, lagat ₹12.5 lakh pratyek. Status: lokarpan — purna nirmit karya. (Source chhota local blog hai — exact date page par nahi thi.)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Rahi aur Amawan block me 50 nava-nirmit anganwadi kendron ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Inkhabar, 24 Apr 2026',
+      sourceUrl: 'https://www.inkhabar.com/uttar-pradesh/raebareli-mla-aditi-singh-distributes-smartphones-to-anganwadi-workers-inaugurates-50-centers-207531/',
+      date: '2026-04-24',
+      note: 'Bal Vikas Seva "Nari Shakti Vandan" karyakram me Rahi + Amawan block ke 50 nava-nirmit anganwadi kendron ka lokarpan; article ke anusaar ~45 aur kendron par kaam yudh-star par chal raha hai (kul lakshya 95). Status: lokarpan (50 purna). (Syndicated-feed disclaimer.) Karyakram me 411 smartphone vitran — welfare distribution tha, alag entry nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Amawan block ke Bandipur me MGNREGA Amrit Sarovar ka lokarpan',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'CitiUpdate, Jan 2025',
+      sourceUrl: 'https://citiupdate.com/news/detailNews/96342',
+      date: '2025-01',
+      note: 'Vikas khand Amawan ke Bandipur me MGNREGA antargat nirmit Amrit Sarovar ka lokarpan; fencing, interlocking pathway, benches, inlet-outlet aadi ke saath grameen paryatan/jal-sanrakshan sthal ke roop me vikasit. Status: lokarpan — purna nirmit karya. Exact date page par nahi thi — search index se ~Jan 2025.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Lodhwari gram panchayat me nava-nirmit sachivalaya evam jansuvidha kendra ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'News Nation Bharat, Jun 2026',
+      sourceUrl: 'https://newsnationbharat.com/raebareli-sadar-mla-aditi-singh-development-works-jan-samvad-lodhwari-navalgunj/',
+      date: '2026-06-21',
+      note: 'Jan-samvad daure me Lodhwari gram panchayat ke nava-nirmit sachivalaya evam jansuvidha kendra ka lokarpan. Status: lokarpan — purna nirmit karya. Article me Lodhwari, Banglhi Bag, Pure Maideen ka Purwa, Pure Dube, Navalganj ke "vibhinn vikas karyon" ka shilanyas/lokarpan daava bhi hai lekin bina lagat/specifics — shamil nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Sadar kshetra ke 53 sthalon par vidhayak nidhi se high-mast lights ki sanstuti',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 8 Jun 2023',
+      sourceUrl: 'https://www.amarujala.com/lucknow/milky-light-will-illuminate-53-intersections-markets-and-temples-raebareli-news-c-13-1-278811-2023-06-08',
+      date: '2023-06-08',
+      note: 'Vidhayak nidhi ki kist milne par Rahi, Amawan, Sataon ke 53 chauraha/bazar/mandir parisaron (Bharatganj, Lakshmanganj, Tikra Bazar aadi) par high-mast light lagane ki sanstuti; DRDA me prakriya shuru. Status: sanstuti/swikrit — kaam shuru hona baaki tha. Funding source: vidhayak nidhi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Vidhayak nidhi 2022-23: ~₹417 lakh ke karyon ka report card',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amrit Vichar, Jun 2023',
+      sourceUrl: 'https://www.amritvichar.com/article/380541/rae-bareli--bus-stand-will-be-built-on-the-highway--will-get-rid-of-jam--aditi-singh-gave-details',
+      date: '2023-06',
+      note: 'Vidhayak ne report card me bataya: 2022-23 me vidhayak nidhi se ₹416.996 lakh — RES sadak/nali ₹288.036 lakh, laghu udyog (oxygen plant/solar light) ₹120 lakh, nagar palika shauchalay ₹6 lakh, handpump ₹1.24 lakh, bijli ₹1.22 lakh. Note: ye vidhayak ke swayam ke daave hain (Amrit Vichar report); 2017-21 ke Congress-kalin aakde chhod diye gaye hain. Isi khabar me highway bus stand sirf "shasan ko prastav bheja gaya" tha — shamil nahi.',
+      period: '2022-2027',
+    },
+  ],
 };
