@@ -11584,5 +11584,347 @@ export const upWorks: Record<string, Work[]> = {
 // 5. CBR News YouTube video (Itaura 37L interlocking udghatan) — REJECT: YouTube-only source allowed nahi; AajTak/Bhaskar ne wahi event cover kiya.
 // 6. BJP runner-up Ashok Singh ke vidhayak-nidhi durupayog ke aarop — REJECT: negative entry layak credible ruling/adverse finding nahi; political allegation + rebuttal nahi.
 // TENURE CONTEXT: Abbas Ansari Nov 2022 - Mar 2025 ED money-laundering case me jail me the (28 mahine; 21 Mar 2025 Kasganj jail se riha) — isliye field work kam, nidhi-karya hi main coverage hai.
-// PARIWAR CASES: task instruction ke mutabik Mukhtar Ansari se jude kisi case ko inke profile par nahi joda gaya.
+// PARIWAR CASES: task instruction ke mutabik Mukhtar Ansari se jude kisi case ko inke profile par nahi joda gaya.,
+
+// ---- Ballia district batch (researched 2026-10-13) ----
+// Ballia district batch W1 (researched 2026-10-13).
+// Slugs verified against src/data/uttar_pradesh.ts ('sangram-singh' = Sangram Singh, Phephana, SP; 'jai-prakash-anchal' = Jai Prakash Anchal, Bairia, SP).
+// Sab entries me period '2022-2027' (sirf March 2022 ke baad ke kaam).
+
+'sangram-singh': [
+  {
+    title: 'Sohav block me Maa Mangala Bhavani kshetra me vidhayak dwara nirmit sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ballia Live, Sep 2024',
+    sourceUrl: 'https://ballialive.in/ballia-mp-sanatan-pandey-received-a-grand-welcome-at-various-places-in-sohav-block-said-that-development-work-will-reach-every-section/',
+    date: '2024-09',
+    note: 'Sohav block me Maa Mangala Bhavani ke darshan ke baad MP Sanatan Pandey ne kshetriya vidhayak Sangram Singh Yadav ke saath unke dwara nirman karai gayi sadak ka lokarpan kiya. Article me sadak ki lambai/lagat ka zikr nahi hai. Exact date page par nahi thi (image/upload path Sept 2024, search index ~31 Aug 2024). Status: nirman poora, lokarpan.',
+    period: '2022-2027',
+  },
+  // RESEARCH TRAIL (sangram-singh) — rejected leads:
+  // - YouTube-only results (post-victory interview, ERC prize event, "mulybhoot suvidhaon par ghera" news clip): source rule ke tahat reject.
+  // - Yashoda Mishthan Bhandar + Maya Celebration restaurant ke feeta-kaat udghatan (akhandbharatsamachar, streetbuzz): neta sirf chief guest, private business — reject.
+  // - Ballia Live press-varta (thana/BJP office, Phephana ko block banane ki maang, Janeshwar Mishra setu maang): sirf bayan/maang — reject.
+  // - "Dr. Sangram Yadav" (Ataraulia, Azamgarh) ke road-lokarpan results: alag vyakti — identity trap, reject.
+  // - Maldepur Ganga Ghat vikas ghoshna (balliasamachar): transport mantri ki ghoshna/proposal, Sangram ki nidhi ka sirf zikr — reject.
+  // - DevDiscourse 2020 FIR "Sangram Singh Yadav": alag vyakti ka purana case — istemal nahi kiya.
+],
+
+'jai-prakash-anchal': [
+  {
+    title: 'Belhari block ki 3 gram panchayaton me 5 sadkon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026 (anumaanit)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ballia/chakia/news/bairia-mla-inaugurated-roads-in-belhari-136847587.html',
+    date: '2026-04',
+    note: 'Haldi-Sahatwar marg se Bigha gaon, Bighi Kali Mandir se Sonwani vidyut sub-station, Sonwani me Dalit basti, Dudhaila Paswan basti aur Dudhaila Milky me pitching/CC karya. Nirman Purvanchal Vikas Nidhi, Jilansh aur Vidhayak Nidhi yojnaon ke tahat; lokarpan ke baad vidhayak ne sabhi margon ka paidal nirikshan bhi kiya. Status: nirman poora, lokarpan. Exact tareekh page par nahi thi — live page "~6-7 mahine pehle" (Oct 2026 fetch) dikhata hai, isliye Apr 2026 anumaanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dalanchapra (Semaratar) me PWD marg ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (anumaanit)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ballia/murlichhapra/news/mla-anchal-inaugurated-the-road-in-dalanchapra-136356815.html',
+    date: '2026-02',
+    note: 'Bairia Vidhan Sabha ke Dalanchapra (Semaratar) me PWD marg — Koil Yadav ke ghar se Jhulli Yadav ke ghar tak — ka lokarpan vidhayak ne kiya. Vidhayak ne kaha sadak janta ki suvidha aur kshetra ke vikas ko samarpit hai; vikas karya nirantar jaari rahenge. Status: nirman poora, lokarpan. Exact tareekh page par nahi thi — "~8 mahine pehle" (Oct 2026 fetch), isliye Feb 2026 anumaanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Raniganj ke Jawahar Tola gaon me 200m CC road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 16 Nov 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/balia/story-bariyya-mla-launches-200-meter-cc-road-in-jawahar-tola-village-for-better-accessibility-201763313014824.html',
+    date: '2025-11-16',
+    note: 'Jawahar Tola se Rambihari Yadav ke ghar tak ~200m lambi CC sadak — graminon ne pehle samasya batayi thi, phir vidhayak ne apni nidhi se nirman karaya. Barsaat me keechad/pani ki samasya door hogi, aavagaman me suhuliyat milegi. Status: nirman poora, lokarpan (exact date article par).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhagwanpur me primary vidyalaya se Domwa Dhala tak CC/PC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ballia Live, Nov 2023',
+    sourceUrl: 'https://ballialive.in/mla-arrived-to-see-the-condition-of-harvesting-and-talked-to-officials-from-the-spot/',
+    date: '2023-11',
+    note: 'Bhagwanpur (Bairia) me Gramin Abhiyantran Vibhag dwara ~Rs 19 lakh ki lagat se primary vidyalaya se Domwa Dhala tak bani CC/PC sadak ka lokarpan vidhayak ne vaidik mantrochchar ke saath kiya; vibhag ke avar/sahayak abhiyanta bhi maujood the. Status: nirman poora (sarkari vibhag dwara), lokarpan vidhayak dwara. Isi article me Suremanpur diyaranchal me katan-sthal ka nirikshan aur sarkar par aarop bhi hain — wo hissa sirf nirikshan/bayan hai, isliye entry me shamil nahi. (Image path 2023/11; exact date page par nahi thi.)',
+    period: '2022-2027',
+  },
+  // RESEARCH TRAIL (jai-prakash-anchal) — rejected leads:
+  // - "Champasati samet aadhe darjan sthanon par sadkon ka shilanyas" (ballialive): ~Jan 2017, pichhle karyakal ka — tenure rule par reject.
+  // - Usi katan wale article ka nirikshan hissa (Suremanpur diyaranchal daura): sirf nirikshan/daura — reject.
+],
+
+// Ballia district batch (researched 2026-10-13). Key = neta slug (uttar_pradesh.ts se verified).
+// Research trail: Hindi+English search; har source khola-padhha. Rejected items (final report me poora byora):
+//  Daya Shankar Singh: (1) Kathar Nala pul par PWD engineer ko daant (ThePrint PTI, Aug 2025) — vivaad ki khabar, pul-nirman unka kaam nahi bataya gaya; (2) YouTube "2000 crore nivesh" daava video — YouTube-only, reject; (3) Gangapur (Bairia vidhan sabha) school navinikaran ghoshna (Bhaskar) — doosri constituency + sirf ghoshna; (4) Maharshi Times interview me "Rampur Mahaval regulator banvaya" — ekala self-claim, kamzor attribution; (5) Surha kshetra Rs 106 cr swikriti — NGT rok ke kaaran kaam shuru hi nahi hua, sirf ghoshna.
+//  Ketakee Singh: (1) Ballia medical college me "Muslimon ke liye alag wing" maang (PTI, Mar 2025) — sirf maang/proposal; (2) tehsildar ko bulldozer rokne ki dhamki (ThePrint PTI, Apr 2022) — vivaad, vikas-karya nahi; (3) defamation notice / death-threat / Mithila Paag vivaad — sab politics, kaam nahi; (4) Sukhpura CHC "kal udghatan hoga" ghoshna (Hindustan, Sep 2026) — pre-event ghoshna, poora hone ki pushti nahi; (5) MLC Ravi Shankar Singh ke saath sanyukt lokarpan (BalliaLive) — ve sirf vishesh atithi thi, mukhya atithi MLC; unki bhoomika aspasht.
+// Note: Daya Shankar Singh Transport (Parivahan) mantri hain — sirf Ballia Nagar constituency-specific kaam liye gaye; statewide mantri-faisle exclude.
+
+'daya-shankar-singh': [
+  {
+    title: '9 Mar 2024: ~300 vikas karyon ka shilanyas/lokarpan — Ballia roadways bus stand (Rs 155 cr), 100+ sadaken',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Purvanchal24, 9 Mar 2024',
+    sourceUrl: 'https://www.purvanchal24.com/uttar-pradesh/ballia/transport-minister-will-lay-the-foundation-stone-of-dozens-of/article-18506',
+    date: '2024-03-09',
+    note: 'Nagar Vidhan Sabha me Ballia roadways bus stand (kul Rs 155 cr; pehle charan me Rs 49 cr jaari, tender poora), Bharauli bus adda, Shankarpur-Hanumanganj sahit 100+ sadakon aur paryatan vibhag ke karyon ka shilanyas/bhoomi poojan. Status: shilanyas (karyakram ki khabar; nirman-poorti article me nahi). Tithi pakki: article me "shanivaar (9 March)" + lagbhag 2 saal ka karyakaal — 9 Mar 2024 shanivaar tha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ballia medical college (Chittu Pandey) ke liye Rs 27 cr budget — rajkiya college ka daava',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'BalliaLive, Feb 2025',
+    sourceUrl: 'https://ballialive.in/ballia-ballia-got-a-big-gift-in-up-budget-2025-this-dream-of-ballia-residents-will-be-fulfilled-with-rs-27-crore/',
+    date: '2025-02',
+    note: 'Mantri ka press-bayaan: CM ne 2022 me Ballia me medical college ki ghoshna ki thi; PPP model ki jagah rajkiya medical college banane ka "mera prayaas" safal hua; Mahakumbh cabinet me swikriti, UP budget 2025 me Rs 27 cr ki vittiya swikriti. Status: daava (unka khud ka bayaan, swatantra pushti nahi); college parisar zila jail ki 14.05 acre bhoomi par (2 acre me swatantrata senaniyon ki gallery).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ballia shahar badh-suraksha: 14 badh-pariyojnaen — Jal Shakti mantri ne shrey Daya Shankar ko diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI), 8 Jul 2025',
+    sourceUrl: 'https://theprint.in/india/no-flood-related-deaths-reported-in-up-in-past-eight-years-claims-minister-swatantra-dev-singh/2683429/?amp',
+    date: '2025-07-08',
+    note: 'Jal Shakti mantri Swatantra Dev Singh ne Ballia me badh-bachaav karyon ke nirikshan ke baad kaha: shahar "Transport Minister Dayashankar Singh dwara laayi gayi pariyojna" ki wajah se surakshit raaste par hai; 14 badh-pariyojnaen, adhikansh 3-4 din me poori hone ka daava. Status: attribution doosre mantri ke bayaan par aadharit; nirikshan ke samay kaam chal raha tha; Daya Shankar nirikshan me maujood the.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kathal Nala saundaryikaran (Rs 18.07 cr) — Juhi Chaupati-style riverfront ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 27 Jan 2026',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/ballia/kathalnala-will-become-juhi-chowpatty-ballia-news-c-190-1-bal1002-156657-2026-01-27',
+    date: '2026-01-27',
+    note: 'Sadar vidhayak Daya Shankar Singh ne DM Mangla Prasad Singh ki maujoodgi me bhoomi poojan/shilanyas kiya — 2022 chunav ka "Juhi Chaupati" vaada. Pehle charan me Pramandapur pul se Rampur Mahaval barrage tak ~2 km: boulder pitching, parking, landscaping, solar lighting, miyawaki forest; karyadayi sanstha CNDS (UP Jal Nigam, Azamgarh). Kul lagat Rs 18.07 cr (CM dwara Rs 19 cr + sinchai vibhag se safai ke Rs 2 cr alag se swikrit). Status: shilanyas; nala ~17 km lamba, ~3.5 km nagar palika kshetra me.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Basantpur Udaseen Math jirnoddhar (Rs 1.93 cr) ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Ballia Express, Jan 2026',
+    sourceUrl: 'https://www.balliaexpress.in/2026/01/193.html',
+    date: '2026-01',
+    note: 'Shahar se sate Basantpur ke aitihasik Udaseen Math ke liye shasan se Rs 1.93 cr jaari; mantri ne mahant Nityanand Mishra ke saath bhoomi poojan/shilanyas kiya; saundaryikaran + hall nirman. Status: shilanyas. Exact tithi page par nahi (do outlets — Ballia Express aur Maharshi Times — dono me Jan 2026 ki khabar).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Majhouli (Bajahan) me school, open gym, library ka lokarpan; Shankarpur–Majhouli marg ka shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ballia/news/transport-minister-inaugurates-school-gym-library-in-maijouli-137098013.html',
+    date: '2026-02',
+    note: 'Gram panchayat Majhouli (Bajahan) me prathmik vidyalaya, open gym, kanya prathmik vidyalaya me pustakalaya bhavan aur Maa Bhagwati digital library ka lokarpan (poora hua kaam) + Shankarpur–Majhouli marg ka shilanyas (naya kaam). Tithi: Bhaskar page par "6 mahine pehle" + Ravidas Jayanti karyakram ka sandarbh — Feb 2026 anumaanit.',
+    period: '2022-2027',
+  },
+],
+
+'ketakee-singh': [
+  {
+    title: 'Sahodih–Aschaura marg (4 km, Rs 2.64 cr) ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Purvanchal24, Dec 2023',
+    sourceUrl: 'https://www.purvanchal24.com/uttar-pradesh/ballia/mla-ketki-singh-laid-the-foundation-stone-of-the-road/article-17163',
+    date: '2023-12',
+    note: 'Sahodih gaon ke Sudama Baba mathiya par vidhayak ne shilanyas kiya; Teevra Aarthik Vikas Yojana se Rs 2.64 cr; pitch sadak + kuch hisson me CC sadak. Status: shilanyas. Page par tithi nahi (ravivaar-event; index-recency ke aadhar par Dec 2023).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bansdih me Rs 54.60 cr se adhik ki pariyojnaen swikrit (press-varta daava)',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Purvanchal24, May 2023',
+    sourceUrl: 'https://www.purvanchal24.com/uttar-pradesh/ballia/ballia-news-mla-ketki-singh-said-speed-of-development-increased/article-15144',
+    date: '2023-05',
+    note: 'Vidhayak ke media ko diye bayaan me ginayi pariyojnaen: Husenabad balika ashram school navinikaran Rs 2.26 cr; Turtipar-Srinagar tatbandh Rs 28 cr; 25 sadakon (lagbhag 66 km) ki vishesh marammat Rs 11 cr; bhukamp-rodhi vidyalaya Rs 10.03 cr; Mudikatawa paryatak sthal Rs 87 lakh; nalkoop marammat/nirman; 4535 vridha pension. Status: daava (unka khud ka bayaan; swatantra pushti nahi). Page par tithi nahi (May 2023 anumaanit).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bansdih me 2 sadaken (10 km, Rs 20 cr) ka shilanyas — Shahpur–ITI Husenabad aur Parvatpur–TS bandha',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 2 Feb 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/balia/story-groundbreaking-ceremony-for-two-major-roads-in-bansdih-enhancing-connectivity-201738517492941.html',
+    date: '2025-02-02',
+    note: 'Godhappa gaon me vidhayak ne bhoomi poojan/shilanyas kiya; unke prastaav par PWD ne yojana banayi. Sadak 1: Bansdih sabzi bazaar–Shahpur–ITI Husenabad, 6 km, Rs 11.70 cr (Rs 5.85 cr avmukt). Sadak 2: Bansdih–Parvatpur–TS bandha, 4 km, Rs 8.24 cr (pehli kist Rs 1.24 cr jaari). Dono ke tender poore. Status: shilanyas.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kevra–Husenabad se Kusauri–Rewati tak 16.5 km sadak (Rs 37.68 cr) ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 7 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/balia/story-foundation-laid-for-16-5-km-road-in-bansdih-enhancing-connectivity-for-villages-201775584317451.html',
+    date: '2026-04-07',
+    note: 'Husenabad aur Rewati me vidhayak ne bhoomi poojan/shilanyas kiya; unke prastaav par PWD ne yojana banayi; 2 darjan+ gaon labhanvit (Kevra, Husenabad, Kola kala, Bisauli, Tahirpur, Bariyarpur, Kusauri, Rewati). Tender poora; Rs 3.68 cr avmukt. Usi bayaan me Sahatwar–Baleoor–Khorauli–Husenabad sadak (Rs ~13 cr) ka tender-poora hona bhi bataya — wo ghoshna thi, shilanyas nahi. Status: shilanyas.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bansdih PHC me POCT lab ka udghatan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'BalliaLive, Jul 2026',
+    sourceUrl: 'https://ballialive.in/ballia-mla-ketki-singh-inaugurated-a-state-of-the-art-poct-lab-at-bansdih-hospital/',
+    date: '2026-07',
+    note: 'Prathmik swasthya kendra Bansdih me point-of-care testing (POCT) lab ka vidhayak ne feeta kaatkar udghatan kiya — khoon, peshaab, sugar, liver, kidney, thyroid, dengue, malaria aadi jaanchen ab turant uplabdh. Doosra outlet (JaiDeshNews) bhi isi event ki pushti karta hai. Status: udghatan (poora hua kaam). Exact tithi page par nahi (mangalvaar-event; Jul 2026).',
+    period: '2022-2027',
+  },
+  {
+    title: '4 samudayik bhavanon (Barsari Jagir, Kharauni, Kushahar, Shivpur) ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'BalliaLive, Jul 2026',
+    sourceUrl: 'https://ballialive.in/ballia-mla-ketki-singh-inaugurated-a-state-of-the-art-poct-lab-at-bansdih-hospital/',
+    date: '2026-07',
+    note: 'POCT lab karyakram ke baad Meritar gaon me Teevra Vikas Yojana ke antargat 4 gaonon me samudayik kendra bhavanon ka vidhayak ne shilanyas kiya. Status: shilanyas. Wahi BalliaLive article + JaiDeshNews me pushti.',
+    period: '2022-2027',
+  },
+],
+
+// Ballia district batch (researched 2026-10-13)
+// Key = neta slug (verified in src/data/uttar_pradesh.ts). Property-style fragment, no export wrapper.
+'ziyauddin-rizvi': [
+  {
+    title: 'Purvanchal Vikas Nidhi se Rs 1.5 crore ke sadak aur pul karyon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rashtra Ki Parampara (rkpnewsup.com), Feb 2024',
+    sourceUrl: 'https://rkpnewsup.com/work-costing-rs-1-crore-50-lakh-will-be-done-from-purvanchal-development-fund/',
+    date: '2024-02',
+    note: 'MLA Mohd Ziyauddin Rizvi ne SP office se Purvanchal Vikas Nidhi ke Rs 1.5 crore ke karyon ka shilanyas kiya: Gadamapur, Sakalpura, Mudera, Karsi, Harnatar, Banhara, Basrikhpur, Sivan Kala gaon me sadak aur Kikoda gaon ke saamne pandrah rajwaha par pul ka nirmaan. Status: shilanyas (karyon ki shuruaat ghoshit; poornata ki khabar nahi mili). Source chhota local portal hai — photo sahit report.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sikanderpur nagar panchayat ke Gandhi mohalla me 250 KVA transformer ka udghatan (Rs 11 lakh, vidhayak nidhi)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rashtra Ki Parampara (rkpnewsup.com), Feb 2024',
+    sourceUrl: 'https://rkpnewsup.com/work-costing-rs-1-crore-50-lakh-will-be-done-from-purvanchal-development-fund/',
+    date: '2024-02',
+    note: 'Usi karyakram me vidhayak nidhi se Rs 11 lakh ki lagat se lagaye gaye 250 KVA ke vidyut transformer ka udghatan. Status: udghatan/completed (khabar me sthapit hone ki report). Source chhota local portal hai — photo sahit report.',
+    period: '2022-2027',
+  },
+],
+'hansu-ram': [
+  {
+    title: 'Jamin Bigah gram sabha me Ambedkar statue se Dalit basti tak CC road (vidhayak nidhi) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/ballia/tendua/news/cc-road-constructed-from-mla-fund-in-belthara-road-135815597.html',
+    date: '2025-12',
+    note: 'MLA Hansu Ram ne apni vidhayak nidhi se Baba Saheb Dr Bhimrao Ambedkar ki pratima se Dalit basti tak CC sadak ka nirmaan karwaya aur lokarpan kiya. Status: lokarpan/completed. Exact tithi page par "10 mahine pehle" likhi thi (Oct 2026 se peeche ~Dec 2025).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Habsapur gram panchayat (Nagra block) me mukhya basti se primary school via Chhath ghat CC road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ballia Live, Mar 2026',
+    sourceUrl: 'https://ballialive.in/mla-hansu-ram-inaugurated-the-cc-road-a-big-gift-for-the-villagers/',
+    date: '2026-03',
+    note: 'Vidhayak nidhi yojana ke antargat mukhya basti se primary vidyalaya hote hue Chhath ghat tak bani CC road ka feeta kaatkar lokarpan. Status: lokarpan/completed. Article ki image Feb/Mar 2026 ki hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'GMAM Inter College campus me high-mast light aur CC marg (vidhayak nidhi) ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/ballia/belthra-road/news/belthara-road-vidhayak-hansu-ram-honors-meritorious-students-137869037.html',
+    date: '2026-07',
+    note: 'Pratibha samman samaroh me apni nidhi se vidyalaya parisar me sthapit high-mast light aur CC marg ka udghatan. Status: udghatan/completed. Isi avsar par khel maidan ko mini stadium banane ki ghoshna bhi hui — wo sirf ghoshna thi, entry me shamil nahi. Exact tithi page par "3 mahine pehle" thi (~Jul 2026).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Telma Jamaluddinpur (Seer block) me park (lights, CCTV, shauchalaya) aur CC road ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Ballia Live, Aug 2026',
+    sourceUrl: 'https://ballialive.in/belthara-road-mla-hansu-ram-inaugurated-development-works-in-telma-jamaluddinpur/',
+    date: '2026-08',
+    note: 'Swatantrata Diwas ke avsar par gram sabha Telma Jamaluddinpur me navnirmit park (chaaron taraf light, CCTV camera, shauchalaya) aur CC sadak ka lokarpan. Status: lokarpan/completed. Article ki image Aug 2026 ki hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Atraul gram sabha ke Chandrol me Kali Mata sthan se 200m CC road (~Rs 10 lakh, vidhayak nidhi) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'PNN24 (Public News Network), Sep 2026',
+    sourceUrl: 'https://www.pnn24.in/2026/09/belthara-road-mla-hansu-ram-inaugurates-cc-road-atraul-chandrol-pnn24.html',
+    date: '2026-09',
+    note: 'Vidhayak nidhi se lagbhag Rs 10 lakh ki lagat se bani 200 meter lambi CC sadak ka vidhivat lokarpan; keechad-jalbharaav ki purani samasya se raahat. Status: lokarpan/completed. Khabar Sept 2026 me prakashit; exact tithi nahi di gayi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Indauli Malkauli gaon ki Maurya basti me ~200m CC road (vidhayak nidhi) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 29 Sep 2026',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/ballia/mla-hansu-ram-inaugurated-a-200-meter-road-in-maurya-basti-ballia-news-c-190-1-ana1001-173979-2026-09-29',
+    date: '2026-09-29',
+    note: 'Vidhayak nidhi se nirmit lagbhag 200 meter lambi CC sadak ka lokarpan; barsaat me raaste ki badhali se raahat aur mukhya margon se behtar sampark. Status: lokarpan/completed. MLA ne kaha pichhle chaar varshon me vidhan sabha ki badhaal sadkon ko prathmikta par durust karaya gaya.',
+    period: '2022-2027',
+  },
+],
+
+// Research trail (ballia_w3, 2026-10-13):
+// ziyauddin-rizvi — REJECTED: (1) Dainik Bhaskar "Sikandarpur MLA made a demand to CM Yogi" (Sivan Kala krishi mandi + Kharid-Darauli pul ke liye fund ki MAANG) — sirf maang, reject.
+// (2) Dainik Bhaskar "Threatens tehsil gherao May 15 over Sikandarpur erosion project" — virodh/dhamki, koi kaam nahi, reject.
+// (3) Hindustan "Villagers demand road construction from MLA in Sikandarpur" (Sisotar gaon) — sirf maang, reject.
+// (4) public.app — Mata Prasad Pandey ka swagat; neta sirf event me maujood — reject. (5) YouTube — peepa pul udghatan (Kharid-Darauli ghat) — YouTube-only source, reject.
+// (6) ballialive.in yom-e-sadat — dharmik event me chief guest, koi vikas karya nahi — reject. (7) ballialive.in "sugaton ki barsaat" ~2016 — 2022 se pehle ka tenure, reject.
+// (8) ballialive.in krishi mandi "bahut jald shuru hogi" (Aug 2022) — sirf announcement, reject. (9) Zee News rebel ticket story — politics, works nahi, reject.
+// hansu-ram — REJECTED: (1) YouTube — sarkari aspatal chaalu karwane ki video — YouTube-only, reject. (2) YouTube — "road projects" video — YouTube-only, reject.
+// (3) public.app — Chandanpatti Nirbhaypur raajkeeya nalkoop (public.app-only + chaalu hi nahi hua) — reject.
+
+// Fragment: Ballia district — 'umashankar-singh' (Umashankar Singh, Rasara, BSP)
+// Researched 2026-10-13. Slug verified from src/data/uttar_pradesh.ts (line 10360):
+// slug 'umashankar-singh', party Bahujan Samaj Party, constituency 'Rasara'.
+// IMPORTANT FLAG FOR PARENT: MLA died 5 Aug 2026 (brain cancer, Delhi; reported by
+// HT, NDTV, TOI, Patrika, Akashvani). He was UP's ONLY BSP MLA. His tenures array in
+// uttar_pradesh.ts may need a status/end-date update — task was works-only, not done here.
+//
+// RESEARCH TRAIL (rejected — khali/weak se behtar hai):
+// - TOI 1 Mar 2023: assembly me Ballia medical college ke liye apni 30 bigha zameen
+//   muft dene ka offer (https://timesofindia.indiatimes.com/city/lucknow/bsp-mla-offers-land-for-medicalcollege-in-ballia/articleshow/98320080.cms)
+//   → REJECT: sirf offer/proposal, koi execution report nahi.
+// - TOI May 2025: CM ko letter — Ballia me airport ki maang + band chini mill punaruddhar
+//   (https://timesofindia.indiatimes.com/city/lucknow/bsp-mla-seeks-airport-in-ballia-dist/articleshow/122305185.cms)
+//   → REJECT: sirf maang/proposal.
+// - Katshal (Kathal) Nala bridge, Ballia city, Aug 2025 (Amar Ujala, Khabrilal): minister
+//   vs MLA credit-tussle; MLA ne udghatan ka inkaar kiya; bridge Ballia Sadar kshetra me,
+//   Rasara AC me nahi → REJECT: neta ka kaam nahi, sirf raajneetik vivad.
+// - Rasara CHC navinikaran ki ghoshna (Bhaskar, ~Mar 2026): sirf ghoshna + mapping/naksha;
+//   execution kabhi nahi hua (MLA ka Aug 2026 me nidhan) → REJECT: announcement-level.
+// - Rasara sadak chaudikaran vivad (Bhaskar, ~Nov 2025): VHP zila adhyaksh ka CM ko letter,
+//   MLA ki company par khanan ka aarop — article khud "Ballia Sadar MLA" (Dayashankar Singh)
+//   aur "Umashankar Singh" ko confuse karta hai; rebuttal status unknown → REJECT:
+//   identity confusion + weak attribution (guilt-by-association ban).
+// - CHC article me mahant Kaushalendra Giri ka "jadugar/mayavi" bayan → REJECT as negative:
+//   raajneetik bayanbaazi, credible case/allegation nahi.
+// - BalliaLive art/yoga training clinic udghatan (Siswar Kala) — 2016 ki khabar
+//   (SP sarkar + notebandi ka zikr) → REJECT: pre-tenure (March 2022 se pehle).
+// - Lalluram rakhi/bridge tussle piece → commentary, koi work nahi → REJECT.
+// - 2015 disqualification, 2016 free Wi-Fi hotspots, 2016 samuhik vivah → pre-tenure → REJECT.
+'umashankar-singh': [
+  {
+    title: 'Gaura me doobkar mrityu bachche ke parivar ko Rs 5 lakh ki vyaktigat sahayata aur chhote bhai ki padhai ka kharch uthaane ka vaada',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Purvanchal24, 13 Aug 2025',
+    sourceUrl: 'https://www.purvanchal24.com/uttar-pradesh/ballia/bsp-mla-umashankar-singhs-noble-initiative-in-ballia/article-24325',
+    date: '2025-08-13',
+    note: 'Rasara kshetra ke Gaura gaon me puliya me barish ke paani me doobkar 5 varshiya bachche (Sunil Rajbhar ke putra Satyam) ki maut ke baad vidhayak ne shok santapt parivar se milkar apni taraf se Rs 5 lakh diye; mrityak ke chhote bhai ki shiksha ka kharch uthaane ka vaada bhi kiya aur mukhyamantri se atirikt sahayata ki maang ki. Status: poori hui vyaktigat rahat-sahayata (7 Aug ko maut, vidhayak ka daura usi hafte budhwar ko) — koi sarkari vikas pariyojana nahi.',
+    period: '2022-2027',
+  },
+],
 };
