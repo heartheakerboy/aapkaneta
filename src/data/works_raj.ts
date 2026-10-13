@@ -549,4 +549,119 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Status: udghatan + ghoshna. भामाशाह-निर्मित अध्ययन कक्षों का लोकार्पण किया (कार्यक्रम में कांग्रेस विधायक प्रशांत शर्मा भी मौजूद). साथ में घोषणाएं: एक माह में ट्यूबवेल व हाई मास्क लाइट, शीघ्र शौचालय निर्माण; उप जिला अस्पताल हेतु 16 बीघा व खेल स्टेडियम हेतु 28 बीघा जमीन आवंटन की जानकारी. (लोकार्पण वास्तविक; शेष घोषणाएं)',
   },
   ],
+
+  // ---- Jodhpur district batch (researched 2026-10-13) ----
+  'babu-singh-rathor': [
+  {
+    title: 'Shergarh me CC sadak (₹1.70cr) ka shilanyas + ₹3.15cr jal yojana ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/jodhpur/shergarh/news/mla-rathore-inaugurated-development-works-in-shergarh-136779893.html',
+    date: '2026-03 (est.)',
+    note: 'Shergarh panchayat samiti kshetra me lokarpan/shilanyas: Atal Pragati Path ke tahat Balaji Mandir se Mallinath Circle tak 2 km CC sadak ka shilanyas (lagat ₹1.70cr manzoor); ₹3.15cr ki kshetriya jal praday yojana, naye tubewell, interlocking kharanja-nali, sarvajanik vachanalaya aur 7 navsrijit rajaswa gaonon ka udghatan. Status: udghatan + shilanyas (mixed). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Khirja Khas me ₹1cr+ vikas karyon ka lokarpan-shilanyas; 6 naye rajaswa gaon udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Apr 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/jodhpur/shergarh/news/mla-inaugurates-6-revenue-villages-khirja-khas-development-work-137005120.html',
+    date: '2026-04 (est.)',
+    note: 'Khirja Khas gram panchayat me ₹1 crore se adhik ke vikas karyon ka lokarpan-shilanyas; 6 navgathit rajaswa gaonon (Khirja Rawla, Vijay Singh Nagar, Jet Singh Nagar, Andsagar, Roopnagar, Khirja Nagji) ka vidhivat udghatan. Jan-samvad me graminon ne sadak, jal jeevan mission, tube well, solar handpump ki maangein rakhin. Status: udghatan + shilanyas (mixed). Exact date page par nahi mili.',
+  },
+  ],
+
+  'ashok-gehlot': [
+  {
+    title: 'Sardarpura me "lapata vidhayak" poster — sthaniya logon ka vikas-karyon ko lekar virodh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 2 Jan 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/former-cm-ashok-gehlot-missing-poster-put-up-in-sardarpura-jodhpur-know-reason-rajasthan-news-rjs25010203458',
+    date: '2025-01-02',
+    note: 'Sardarpura ke Sansi Basti colony me sthaniya yuvaon ne "Vidhayak ji lapata" poster lagaye; aarop — chunav ke baad se kshetra me nahi aaye, vidhayak kosh se koi vikas karya nahi hua, sadak-paani-safai ki samasyaein. Status: sthaniya virodh/aarop — swatantra pushti nahi; MLA ka jawab article me nahi.',
+  },
+  ],
+
+  'atul-bhansali': [
+  {
+    title: 'JNVU boxing centre me ₹30L changing room ka shilanyas (MLA fund)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/jodhpur/news/mla-bhansali-donated-rs-30-lakh-for-the-players39-changing-room-and-laid-the-foundation-stone-136610367.html',
+    date: '2026-02 (est.)',
+    note: 'Jai Narayan Vyas University ke Old Campus boxing centre me vidhayak kote se ₹30 lakh ke players changing room ka shilanyas. Isi karyakram me Sardarpura ke school me boxing ring ke liye ₹10 lakh ki ghoshna bhi ki — ye ghoshna dusre kshetra (Sardarpura AC) ki hai. Status: shilanyas + ghoshna. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Pali Road par ₹20L bus shelters + ₹1cr CC sadak ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/jodhpur/news/foundation-stone-laid-for-cc-road-on-pali-road-136661827.html',
+    date: '2026-03 (est.)',
+    note: 'Pali Road par ₹20 lakh ki lagat se 2 bus queue shelter aur KK Colony me Mahadev Mandir se Devnarayan Mandir tak ₹1 crore ki 800m CC sadak ka shubharambh. Status: shilanyas/shubharambh. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Jalap Mohalla CC sadak (₹34L, nagar nigam) udghatan — logon ne sewerage/kachre ki shikayatein uthayin',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Oct 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/jodhpur/news/many-problems-were-listed-to-the-mla-who-had-come-to-lay-the-foundation-stone-of-the-road-136091019.html',
+    date: '2025-10 (est.)',
+    note: 'Jalap Mohalla se Ghanchiyon ki Bagechi tak nagar nigam ki ₹34 lakh manzoori se ban rahi CC sadak ka udghatan karne pahunche MLA ko sthaniya logon ke aakrosh ka samna — jaam sewerline, ganda paani, kachre ke dher, kharab mail hall ki shikayatein. MLA ne adhikariyon se baat kar samadhan ka ashwasan diya. Status: udghatan + sthaniya virodh/shikayat. Kaam nagar nigam ka; MLA ne udghatan kiya.',
+  },
+  ],
+
+  'devendra-joshi': [
+  {
+    title: 'Soorsagar me ₹9.50cr vikas karyon ka lokarpan-shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/jodhpur/news/sursagar-development-works-worth-rs-950-crore-gifted-dbp-137550346.html',
+    date: '2026-03 (est.)',
+    note: 'Padamsar talab kayakalp (₹50L), DIET me ₹8.18cr Centre of Excellence infrastructure ka shilanyas; PM Shri school Baga me volleyball maidan-kaksha-shauchalaya (₹29.14L) ka lokarpan; MGN school Genwa me science lab-library-computer room (₹41.70L) ka shilanyas; vidhayak kosh se Bhuriberi-Kaliberi aur Bhil Basti schools me ₹10-10L karyon ka lokarpan. Status: udghatan + shilanyas (mixed). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Soorsagar me ₹60L nayi sewerage line ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/jodhpur/news/new-sewerage-line-inaugurated-in-sursagar-136519414.html',
+    date: '2026-02 (est.)',
+    note: 'Ganglav se Sivanchi Gate tak ~1200m lambi (200-400mm) aadhunik sewer line ka shubharambh, lagat ~₹60 lakh. Status: shubharambh (kaam shuru). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Soorsagar me ₹3.90cr vikas karyon ki shuruaat (wards 29-31, 33)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Dec 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/jodhpur/news/development-works-worth-rs-39-crore-inaugurated-136031798.html',
+    date: '2025-12 (est.)',
+    note: 'Nigam Dakshin ke wards 29, 30, 31 me ₹1.25cr sewerage-CC sadak karya; ward 33 me ₹55L interlocking karya ki shuruaat. Status: shuruaat/udghatan. Exact date page par nahi mili.',
+  },
+  ],
+
+  'jogaram-patel': [
+  {
+    title: 'Luni (Gayatri Nagar) me ₹3.30cr sadakon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/jodhpur/luni/news/minister-jogaram-said-double-engine-government-is-committed-to-development-136741947.html',
+    date: '2026-03 (est.)',
+    note: 'JDA ki or se Gayatri Nagar kshetra me ₹3.30cr ki sadak nirmaan karyon ka shilanyas (3.5km sadak ₹1.098cr, 0.9km CC ₹90.25L, 1km CC ₹1.003cr, 1.2km recarpet ₹29.65L). Mantri ne kaha JDA se Luni AC me ₹50cr+ ke vikas karya manzoor. Status: shilanyas. Note: Jogaram Patel cabinet mantri hain — ye unke apne matvistaar (Luni) ka kaam hai; statewide mantri faisle shamil nahi. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Luni (Nanddi) me ₹6.34cr sadak karyon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Mar 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/jodhpur/luni/news/road-work-worth-rs-634-crore-begins-in-nanddi-136797724.html',
+    date: '2026-03 (est.)',
+    note: 'Nanddi me ₹6.34cr ki sadakon ka shilanyas — Atal Pragati Path (₹4.50cr, 3km), 0.8km CC (₹68L), 1km CC (₹89.90L), 0.5km CC (₹26.62L). JDA se 9 sadakein (~₹8cr) manzoor. Status: shilanyas. Note: mantri-bhoomika disclose; kaam apne matvistaar ka. Exact date page par nahi mili.',
+  },
+  ],
 };
