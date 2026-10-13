@@ -4260,4 +4260,46 @@ export const rajWorks: Record<string, Work[]> = {
       period: '2023-2028',
     },
   ],
+
+  // ---- Beawar district batch (researched 2026-10-13) ----
+  'shanker-singh-rawat': [
+    {
+      title: 'Jassakhera se Dudhaleshwar tak 17 km sadak chaudaikaran (₹15 crore) ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Sabguru, Feb 2025 (est.)',
+      sourceUrl: 'https://www.sabguru.com/suresh-singh-rawat-laid-foundation-stone-for-widening-of-17-km-road-from-jassakhera-to-dudhaleshwar-in-beawar',
+      date: '2025-02',
+      note: 'Beawar Vidhan Sabha kshetra me Jassakhera se Dudhaleshwar tak 17 km sadak ke chaudaikaran karya ka shilanyas — jal sansadhan mantri Suresh Singh Rawat ke saath Beawar vidhayak Shanker Singh Rawat ne sanyukt roop se kiya; mukhya atithi (mantri) ne aadharshila ki pooja-archana ki. (status: shilanyas; exact date page par nahi mili)',
+    },
+  ],
+  'virendra-singh-104': [
+    {
+      title: 'Masuda me ₹35 crore up-zila chikitsalaya bhavan + ₹18.33 crore nursing college ka shilanyas; ₹16 crore sadkein, 2 kanya mahavidyalaya bhavan, ₹5 crore swasthya kendra',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/bayavar/masuda/news/masooda-mla-kanawat-lays-foundation-stone-35-crore-development-projects-137171277.html',
+      date: '2026-02',
+      note: 'Masuda Vidhan Sabha kshetra me do saal ke vikas karyon ka lokarpan aur naye karyon ka shilanyas vidhayak Virendra Singh Kanawat ne kiya: ₹35 crore up-zila chikitsalaya bhavan ka shilanyas, ₹18.33 crore nursing college bhavan ka shilanyas, ₹5 crore se vibhinn sthanon par up-swasthya kendron ka lokarpan, Masuda aur Vijaynagar me ₹4.5-₹4.5 crore ke kanya mahavidyalaya bhavan ka shilanyas, aur ₹16 crore ki PWD sadkon ka shilanyas-lokarpan. (status: shilanyas + lokarpan; exact date page par nahi mili)',
+    },
+    {
+      title: 'Masuda me ₹3.36 crore ki jal yojana (uchch jalashay + 12000 meter pipeline) ka shilanyas',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/bayavar/masuda/news/foundation-stone-laid-for-rs-336-crore-water-project-in-masuda-136796171.html',
+      date: '2026-03',
+      note: 'Jan swasthya abhiyantriki vibhag ki jal yojana ke tahat ₹3.36 crore ki lagat se uchch jalashay (2.50 lakh liter kshamta, 18 meter staging) aur 12000 meter nayi pipeline ka shilanyas vidhayak Virendra Singh Kanawat ne kiya. Budget ghoshna 2025-26 ka hissa; Masuda ke antim chhor tak paryapt dabav se paani pahunchane hetu. (status: shilanyas; exact date page par nahi mili)',
+    },
+    {
+      title: 'Vidhayak kosh se ₹1.31 crore ke vikas karyon ki swikriti (vishranti griha, samudayik bhavan, CC sadak, paani tanki)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 4 Nov 2024',
+      sourceUrl: 'https://www.amarujala.com/rajasthan/kekri-approval-of-1-25-crore-from-mla-fund-development-work-will-be-done-in-masuda-assembly-constituency-2024-11-04',
+      date: '2024-11-04',
+      note: 'Masuda vidhayak Virendra Singh Kanawat ne vidhayak kosh se kul ₹1.31 crore ki swikriti di: khule vishranti griha, samudayik bhavan, dharmshala, school chardiwari, paani ki tanki, CC sadak aadi — Nagola, Jivana, Telada, Badla, Sarganw, Saimala, Sedariya, Jaliya, Pipliya, Bandanwada, Dhatol, Sabalpura, Bhinay, Kanakheda, Moyana, Nandwada, Daulatpura, Devpura sahit anek gaon. (status: swikriti)',
+    },
+  ],
 };
