@@ -991,7 +991,7 @@ export const gujWorks: Record<string, Work[]> = {
   'chavda-meghjibhai-amarabhai': [
     {
       title: 'Manvar Khijadiya me nayi primary school ka lokarpan — MLA Meghjibhai Chavda ke haathon',
-      category: 'Shiksha',
+      category: 'School',
       badge: 'news',
       sourceLabel: 'Jai Hind, 23 Jan 2026',
       sourceUrl: 'https://jaihindnewspaper.com/gujarat/saurashtra/jamnagar/Jai-Hind-News-Paper-gujarat/saurashtra/jamnagar-495064/',
@@ -1083,7 +1083,7 @@ export const gujWorks: Record<string, Work[]> = {
     },
     {
       title: 'Jamjodhpur me nayi sub-district hospital manjoor — MLA office ka daava (budget session press note)',
-      category: 'Swasthya',
+      category: 'Aspataal',
       badge: 'news',
       sourceLabel: 'DivyaBhaskar, 16 Feb 2026',
       sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/jamnagar/news/jamjodhpur-lalpur-issues-mla-hemant-khava-budget-session-137221695.html',
@@ -1151,7 +1151,7 @@ export const gujWorks: Record<string, Work[]> = {
     },
     {
       title: 'Sachana gaon me MCX CSR se bani primary school building ka udghatan',
-      category: 'Shiksha',
+      category: 'School',
       badge: 'news',
       sourceLabel: 'Indian Express, 3 Dec 2023',
       sourceUrl: 'https://indianexpress.com/article/cities/rajkot/minister-inaugurates-school-building-built-at-cost-of-rs-1-cr-in-jamnagar-9051910/',
@@ -1162,7 +1162,7 @@ export const gujWorks: Record<string, Work[]> = {
   'akbari-divyeshbhai-ranchhodbhai': [
     {
       title: 'Janmadin par panch-vidh seva yajna: raktdan, kuposhan-mukti, mammography, Catch the Rain',
-      category: 'Swasthya',
+      category: 'Aspataal',
       badge: 'news',
       sourceLabel: 'DivyaBhaskar, 14 Jan 2026',
       sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/jamnagar/news/jamnagar-mla-divyesh-akbari-birthday-five-seva-projects-136942545.html',
@@ -1180,7 +1180,7 @@ export const gujWorks: Record<string, Work[]> = {
     },
     {
       title: '70+ varishth nagrikon ke liye Ayushman Vaya Vandana Card camp',
-      category: 'Swasthya',
+      category: 'Aspataal',
       badge: 'news',
       sourceLabel: 'AajKaal Daily, 25 Jun 2025',
       sourceUrl: 'https://aajkaaldaily.com/news/Jamnagar-79-South-Assembly-Constituency-MLA-Divyesh-Akbari-organizes-a-camp-for-Ayushman-Vaya-Vandana-Card',
@@ -1592,6 +1592,109 @@ export const gujWorks: Record<string, Work[]> = {
       sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/anand/news/kasor-village-1-52-crore-development-works-groundbreaking-sojitra-mla-vpul-patel-136640148.html',
       date: '2026-03',
       note: 'Sojitra taluka ke Kasor gaon me ₹1.52 crore ke karya — Kasor Mandevad se Vavdi Talavdi hote Kasor-Piplav tak road nirman sahit gram panchayat ke vikaslakshi kaam. Sojitra MLA Vipulkumar Patel ki vishesh upasthiti me shubharambh. (status: shilanyas)',
+    },
+  ],
+  // ---- Kheda district batch (researched 2026-10-13) ----
+  'kalpeshbhai-ashabhai-parmar': [
+    {
+      title: 'Shekhpur me ₹96 lakh ki navnirmit primary school ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Feb 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/kheda/matar/news/matar-mlas-kalpesh-parmar-inaugurates-primary-school-shekhpur-137205384.html',
+      date: '2026-02',
+      note: 'Matar taluka ke Shekhpur gaon me ₹96 lakh kharch se bani navnirmit primary school ka Matar MLA Kalpeshbhai Parmar ke hast se lokarpan. Taluka panchayat pramukh, sarpanch, shikshak aur gramin upasthit. (status: udghatan)',
+    },
+    {
+      title: 'Marala me ₹12 lakh ke naye anganwadi bhavan ka khaatmuhurat (DMF 2025-26)',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Manavta News, Sep 2026',
+      sourceUrl: 'https://manavtanews.com/%e0%aa%ae%e0%aa%be%e0%aa%a4%e0%aa%b0-%e0%aa%a4%e0%aa%be%e0%aa%b2%e0%ab%81%e0%aa%95%e0%aa%be%e0%aa%a8%e0%aa%be-%e0%aa%ae%e0%aa%b0%e0%aa%be%e0%aa%b2%e0%aa%be-%e0%aa%97%e0%aa%be%e0%aa%ae%e0%ab%87/',
+      date: '2026-09',
+      note: 'Matar taluka ke Marala gaon (Gayatrinagar) me District Mineral Foundation yojana 2025-26 ke tahat ₹12 lakh se banne wale naye anganwadi bhavan ka MLA Kalpeshbhai Parmar ke hast se khaatmuhurat. Sarpanch Rinkuben Solanki, CDPO sahit gramin upasthit. (status: shilanyas)',
+    },
+  ],
+  'desai-pankajbhai-vinubhai': [
+    {
+      title: 'Nadiad me ₹4.73 crore ke underground water storage ka khaatmuhurat',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Dec 2025',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/kheda/nadiad/news/groundbreaking-ceremony-for-underground-water-storage-at-a-cost-of-473-crore-in-nadiad-136592029.html',
+      date: '2025-12',
+      note: 'Nadiad Mahanagarpalika ke water works vibhag ki pariyojana — ₹4,73,38,056 ki lagat se 4 sthanon (Haridas Hospital, Civil, Sunrise tanki — pratyek 15 lakh litre; Pragatinagar tanki — 20 lakh litre) par underground sump; kul 65 lakh litre atirikt storage se ~15,000 gharon ko fayda. Nadiad MLA Pankajbhai Desai ke hast se khaatmuhurat. (status: shilanyas)',
+    },
+  ],
+  'arjunsinh-udesinh-chauhan': [
+    {
+      title: 'Parsantaj ke Himmatpura school ke ₹80 lakh ke naye bhavan ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jun 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/kheda/nadiad/news/mahemdabad-mla-arjunsinh-chauhan-inaugurates-rs-80-lakh-school-building-in-parsantaj-137093951.html',
+      date: '2026-06',
+      note: 'Mehmedabad taluka ke Parsantaj gaon ke Himmatpura seem vistaar me Himmatpura primary school ke ₹80 lakh se bane navin shaikshanik bhavan ka lokarpan — Mehmedabad MLA Arjunsinh Chauhan ki upasthiti me. Kheda jila shikshan samiti (Nadiad) dwara sanchalit. (status: udghatan)',
+    },
+  ],
+  'sanjaysinh-vijaysinh-mahida': [
+    {
+      title: 'Mahudha me ₹22 crore ke shahari vikas karyon ka lokarpan-khaatmuhurat',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Mar 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/kheda/mahudha/news/revenue-minister-inaugurates-development-works-mahudha-136590913.html',
+      date: '2026-03',
+      note: 'Swarnim Jayanti Mukhyamantri Shaheri Vikas Yojana-2025 ke tahat Mahudha MLA aur rajaswa rajyamantri Sanjaysinh Mahida ne ₹22 crore ke karyon ka lokarpan-khaatmuhurat kiya: nagarpalika ke ₹7 crore ke kaam, GUDC ka ₹8.5 crore ka water supply project (Vadthal canal se roz shuddh pani), SBM 2.0 me ₹2.16 crore ka door-to-door kachra plant, ₹40 lakh ka iconic road, aur Amrut 2.0 me ₹4 crore ka Vada talav beautification (poorna). (status: mixed — lokarpan + khaatmuhurat)',
+    },
+    {
+      title: 'Davapura-Jorapura-Arera me ₹1 crore ke sadak karyon ka khaatmuhurat',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, 18 Dec 2025',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/kheda/mahudha/news/mahudha-development-works-foundation-stone-laying-sanjaysinh-mahida-136710245.html',
+      date: '2025-12-18',
+      note: 'Mahudha Vidhan Sabha kshetra ke Davapura aur Jorapura gaon me: Mahudha-Nadiad mukhya road se jodne wale 1 km damar road resurfacing (₹48 lakh), Arera me Rampura se Davapura wali naal tak 800 metre damar road (₹42 lakh), aur Erandiyapura kabristan road par ₹10 lakh ka garnaala — taluka panchayat swabhandol se. Mahudha MLA Sanjaysinh Mahida ki upasthiti me khaatmuhurat. (status: shilanyas)',
+    },
+    {
+      title: 'Ramna Muvada me ₹16 lakh ke naye gram panchayat bhavan ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Mar 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/kheda/mahudha/news/sanjay-sinh-mahida-inaugurates-new-panchayat-building-mahudha-136575444.html',
+      date: '2026-03',
+      note: 'Mahudha ke Ramna Muvada me MGNREGA yojana se ₹16 lakh me bani navin gram panchayat bhavan ka Mahudha MLA Sanjaysinh Mahida ke hast se lokarpan — sarpanch, talati aur VC ke alag kaksh; 1500+ gramino ko gram vikas sewayein. (status: udghatan)',
+    },
+  ],
+  'yogendrasinh-parmar': [
+    {
+      title: 'Bhadrasa me Ayushman Arogya Mandir ke naye bhavan ka lokarpan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, May 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/kheda/thasra/news/thasra-bhadrasa-ayushman-arogya-mandir-inauguration-yogendrasinh-parmar-photos-videos-136752529.html',
+      date: '2026-05',
+      note: 'Thasra taluka ke Bhadrasa gaon me Ayushman Arogya Mandir ke navin bhavan ka Thasra MLA Yogendrasinh Parmar ke hast se lokarpan. Sath me 54 garbhavati behno ka garbh sanskar, 84 kuposhit bachchon ko poshan kit vitaran aur PMJAY Ayushman card vitaran. (status: udghatan)',
+    },
+  ],
+  'zala-rajeshkumar-maganbhai': [
+    {
+      title: 'Dahiyap me anganwadi aur Dahiyap-Nava Muvada road ka khaatmuhurat',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Apr 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/kheda/kathlal/news/mla-rajeshbhai-jhala-inaugurates-development-work-dahiyap-137586250.html',
+      date: '2026-04',
+      note: 'Kapadvanj-Kathlal MLA Rajeshbhai Zala ne Kapadvanj taluka ke Dahiyap gaon me navin anganwadi bhavan aur lambe samay se pratikshit Dahiyap se Nava Muvada tak ke road ka khaatmuhurat kiya. Panchayat pratinidhi aur gramin upasthit. (status: shilanyas)',
+    },
+    {
+      title: 'Kathlal taluka ke Madadara gaon me nayi anganwadi ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Apr 2026 (lagbhag)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/kheda/kathlal/news/kathlal-taluka-development-works-inauguration-rajesh-zala-137586884.html',
+      date: '2026-04',
+      note: 'Kathlal taluka ke Madadara gaon me navin anganwadi bhavan ka Kapadvanj-Kathlal MLA Rajeshbhai Zala ke hast se ribbon kaatkar lokarpan — chhevade ke gaon tak sarkari suvidha pahunchane ke abhiyan ka hissa. (status: udghatan)',
     },
   ],
 };
