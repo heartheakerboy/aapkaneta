@@ -7514,4 +7514,270 @@ export const upWorks: Record<string, Work[]> = {
       period: '2022-2027',
     },
   ],
+
+
+// ---- Barabanki district batch (researched 2026-10-13) ----
+  // Barabanki district batch (researched 2026-10-13): 'sakendra-pratap' = Sakendra Pratap Verma,
+  // BJP MLA Kursi (AC 266), MLA since Mar 2017 (re-elected 2022, margin 217 votes).
+  // Name variants checked: Sakendra Pratap / Sakendra Pratap Verma / Saket Verma (local press).
+  // Not a minister — entries reflect MLA capacity only.
+  //
+  // Research trail: 3 news-verified entries included. Rejected: (1) Hindustan Kursi bypass
+  // (Jun 2026) — sirf proposal, PWD karyayojna stage, swikriti/nirman nahi; (2) Amar Ujala PHC
+  // shilanyas Vishunpur-Safipur (~2018, Dy CM Dinesh Sharma era) — pre-2022; (3) CM Yogi ka
+  // ₹1,734 crore 254-projects event Kursi me (336 days ago) — MLA sirf aayojak/manch par,
+  // lokarpan-shilanyas CM ne kiya (event-maujoodgi = reject); (4) CM Yogi ₹542 crore Ramnagar+
+  // Dariyabad event — Sakendra sirf manch par maujood, Kursi kshetra ka kaam bhi nahi;
+  // (5) Bhaskar interview claims (₹200cr Lucknow-Kursi-Baddupur-Mahmudabad road, ₹43cr
+  // Tikaitganj-Bajgahni widening, ₹664cr Fatehpur bypass "swikrit") — MLA ke unverified
+  // daawe, independent news verification nahi mili, isliye dawa entries nahi banayi.
+  
+  'sakendra-pratap': [
+    {
+      title: 'Kursi ke Guggaur me CM Model Composite School ka shilanyas (lagbhag ₹30 crore)',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 30 Jun 2025 (karyakram somvar ko; article URL date 1 Jul 2025)',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/barabanki/laying-the-foundation-stone-of-the-first-cm-model-composite-school-of-the-district-barabanki-news-c-315-1-brb1001-142720-2025-07-01',
+      date: '2025-06-30',
+      note: 'Jile ka pehla CM Model Composite School — Guggaur gaon (Kursi, Nindura/Fatehpur kshetra, audyogik kshetra Kursi ke paas), 10 acre par, pre-primary se class 12 tak, ~2000 students capacity, 25 rooms + sports courts. Amar Ujala ke anusar lagat "karib 30 crore" (Dainik Bhaskar ne ₹23.42 crore likha). DM Shashank Tripathi, BSA aadi maujood. Status: shilanyas — nirmanadheen, purnata/udghatan ki alag khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Nindura me ₹121.87 crore ke Kisan Kalyan Kendra (multipurpose seed store) ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (exact date page par nahi; karyakram mangalvar ko)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/bahrauli/news/barabanki-nindura-kisan-kalyan-kendra-construction-begins-121cr-137285872.html',
+      date: '2026-02',
+      note: 'Nindura (National Public School ke paas) me Multipurpose Seed Store evam Dissemination Centre (Kisan Kalyan Kendra) ka bhoomipujan-shilanyas: beej bhandaran, prashikshan, krishi yojanaon ka kriyanvayan. Zila krishi adhikari aadi maujood. Corroboration: Barabanki Express ne bhi same event report kiya ("24 February", Tuesday) — uski byline me year "2024" print hai jo typo lagta hai (image paths 2026/02 ke hain, Bhaskar article ID bhi Feb 2026 sequence ka hai), isliye date 2026-02 li gayi. Status: shilanyas — nirman shuru, purnata ki khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Akhaipur (Nindura) me Annapurna Bhavan (sarkari uchit dar dukan) ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, 17 Apr 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/nindura/news/vidhayak-sakendra-pratap-verma-inaugurates-annapurna-bhavan-akhai-pur-137721516.html',
+      date: '2026-04-17',
+      note: 'Nindura vikas khand ki Akhaipur gram panchayat me atyadhunik Annapurna Bhavan (sarkari uchit dar/ration dukan) ka udghatan — behtar ration vitran ke liye aadhunik suvidhaon se susajjit bhawan. BDO, purti nirikshak, zila panchayat sadasya maujood. Status: udghatan — purna nirmit karya.',
+      period: '2022-2027',
+    },
+  ],
+  // Barabanki district batch (researched 2026-10-13): 'fareed-mahfooz-kidwai' = Fareed Mahfooz Kidwai,
+  // SP MLA Ram Nagar (AC 267), MLA since 10 Mar 2022 (won by 261 votes). Press me "Haji Farid
+  // Mahfooz Kidwai" / "Farid Mahfooz" bhi likha jata hai. 2012-17 me SP sarkar me mantri the
+  // ("poorv mantri") — neeche entries current MLA capacity ki hain.
+  //
+  // Research trail: 4 positive + 2 negative news-verified entries. Rejected: (1) ABP Live
+  // Ghaghara katan daura, Hetmapur (28 Sep 2026) — sirf nirikshan + jaanch ki maang, koi karya
+  // nahi; (2) Jagran "kanungo badmashi" bayaan (26 Sep 2026) — sirf bayaan/daura, karya nahi;
+  // (3) Bhaskar "sannyas ki afwahon ka khandan" — kaam se sambandhit nahi; (4) J&K ke Ramnagar
+  // (Dr. Sunil Bhardwaj) ki khabrein — galat sthan/vyakti; (5) SM News24 ka 2019-era aarop
+  // (BJP par SP-karyon par shilapat lagane ka) — pre-2022; (6) CM Yogi ₹542cr Ramnagar event
+  // (Jul 2026) — CM ne lokarpan kiya, MLA maujoodgi matra. Dono negative entries credible
+  // reporting + explicit allegation/rebuttal status ke saath shamil.
+  
+  'fareed-mahfooz-kidwai': [
+    {
+      title: 'Suratganj block ke 4 gaon me interlocking-khadanja sadakon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Swatantra Prabhat, Jun 2023 (exact date page par nahi; karyakram somvar ko)',
+      sourceUrl: 'https://www.swatantraprabhat.com/article/130165/mla-inaugurated-interlocking-and-khadanja-construction-work',
+      date: '2023-06',
+      note: 'Suratganj vikas khand ke Harakka (interlocking), Sihali (Chakresh ke ghar se Akhilesh ke ghar tak interlocking), Bairagipurwa Majre Jigini Utraula (interlocking se Pairu ke ghar tak khadanja) aur Pipri Ghat (Vidyasagar Pandey ke ghar se Pipri dammar tak khadanja) me vidhayak nidhi se bane karyon ka lokarpan. Status: lokarpan — purna nirmit karya. (Chhota local outlet hai, par report specific aur MLA-sandarbh current-term ka hai.)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ramnagar me ₹45 lakh ke Basantpur pul aur mukhya marg ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 14 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/barabanki/story-inauguration-of-basantpur-bridge-enhances-connectivity-in-ramnagar-201773512511463.html',
+      date: '2026-03-14',
+      note: 'Vidhayak nidhi se ₹45 lakh ki lagat se navnirmit Basantpur pul evam mukhya marg ka lokarpan — tarai kshetra ke darjanon gaon (Bhai Lalreti, Basantpur Ghat, Goda, Mohadwa, Rajepur, Karmullapur aadi) ki tehsil/block mukhyalaya se doori kam. Status: lokarpan — purna nirmit karya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Trilokpur me ₹15 lakh ki lagat se Hanuman Mandir sundarikaran ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (exact date page par nahi; karyakram shanivar ko)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/trilokpur/news/ramnagar-mla-inaugurates-hanuman-temple-renovation-prasad-distribution-137894019.html',
+      date: '2026-05',
+      note: 'Trilokpur kasbe ke prachin Pakka Talab Hanuman Mandir parisar ke sundarikaran (vidhayak nidhi, ~₹15 lakh) ka lokarpan — shilapat anavaran, hawan-pujan, kanya bhoj. Dhyan rahe: article ke anusar karya "karaya ja raha hai" (ongoing) tha, isliye ye purna-karya ka udghatan nahi balki shilapat-anavaran/lokarpan hai. Status: lokarpan (karya pragati par).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Suratganj me 2 sampark margon (khadanja + interlocking) ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (exact date page par nahi; karyakram somvar ko)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/suratganj/news/suratganj-barabanki-farid-kidwai-road-inauguration-pda-meeting-photo-137967235.html',
+      date: '2026-05',
+      note: 'Suratganj (Fatehpur) me 2 sampark marg: (1) CMM Junior High School se Suratganj-Fatehpur dammar road tak navnirmit khadanja marg, (2) gram Jigini me Gayatri Mandir se mukhya dammar road tak interlocking sadak. Usi karyakram me PDA baithak bhi hui. Status: lokarpan — purna nirmit karya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ganeshpur me vidhayak nidhi ki high-mast lights kabhi chalu nahi — grameenon ka aarop',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025 (exact date page par nahi; Diwali ke baad ki report)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/ramnagar/news/mla-funds-high-mast-lights-shut-down-in-ganeshpur-136235451.html',
+      date: '2025-10',
+      note: 'NEGATIVE: Ramnagar tehsil ke Ganeshpur (Muslim gali) me vidhayak nidhi se lagi high-mast lights Diwali ke baad bhi chalu nahi ho payin. Grameenon ka aarop: kuch lights agyat vyaktiyon ne nikal li thin, prashasan ne sirf khambe dobara lagaye, wiring adhuri hai aur 2 lights kam hain. Aarop ki sthiti: grameenon ke bayan par aadharit; vidhayak se sampark ka prayas kiya gaya par phone nahi utha — MLA ka paksh uplabdh nahi. Koi case/FIR ka ullekh nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Thekedaar se 10% commission mangne ka viral audio — aarop; MLA ne kaha audio tampered',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Zee News Hindi, 12 Mar 2023',
+      sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/uttar-pradesh/barabanki-audio-clip-viral-sp-mla-denied-allegations-hafiz-farid-mahfooz-kidwai-said-tampered-with-audio/1606001',
+      date: '2023-03-12',
+      note: 'NEGATIVE: Ek viral audio me daava kiya gaya ki Ramnagar ke ek thekedaar se phone par 10% commission ki maang hui aur "vidhayak ji ka commission" diye bina payment rokne ki baat kahi gayi. Aarop ki sthiti: apusht audio par aadharit aarop, koi case/FIR ka ullekh nahi. Khandan: MLA ne kaha audio tampered/edited hai aur badnam karne ki chaal hai; audio me baat karne wale shaks ne bhi kaha ki wo thekedaar nahi hai, uske parivar me koi firm registered nahi, aur lambi baatchit ka tukda edit karke viral kiya gaya — unhone kanuni karwai ki sambhavna bhi jatayi.',
+      period: '2022-2027',
+    },
+  ],
+  // Barabanki district batch (researched 2026-10-13): Dharmraj Singh Yadav (SP, Barabanki AC 268, aka 'Suresh Yadav').
+  // RESEARCH TRAIL: ~8 searches (Hindi + English, aliases 'Dharmraj/Dharamraj Singh Yadav' + 'Suresh Yadav', terms udghatan/lokarpan/shilanyas/shubharambh/vidhayak nidhi/sadak/nali/school/hospital).
+  // Identity confirmed via myneta.info (2022 affidavit, candidate_id=3137) + ourneta.com: Dharmraj Singh Yadav 'urf Suresh Yadav', SP, Barabanki, 62, won 2022.
+  // What surfaced: (1) Election-result coverage (India TV, Times Now, Oneindia, ABP) — not works, no entries. (2) UP Tak YouTube 2027-analysis videos — YouTube-only, not works. (3) YouTube clips: dargah visit (maang/grievance listening = sirf daura, reject), e-rickshaw rescue (news incident, not kaam, reject), assembly farmer-issue speech (maang/proposal, reject). (4) Government-level items with no MLA role: CM Yogi's Rs 542-cr Barabanki projects (Ramnagar/Dariyabad seats, not Barabanki Sadar; MLA not involved), NH-927 4-lane cabinet approval, 4-road widening sanction news — no MLA attribution, reject. (5) Identity-trap check: 'Dharmraj Singh' hits for Ballia/Ambedkar Nagar/Bihar netas carefully excluded; Phulpur Congress 'Suresh Yadav' is a different person — excluded.
+  // No khula-padhha text news source (news portal article, post-Mar 2022) about his development works found. Political-controversy item (Asianet Newsable, Dec 2024, 'Hindu terrorist organisation' remark at Barabanki protest) is politics, not works — not entered here (flagged to parent as FYI).
+  // Profile kept empty rather than fabricated.
+  'dharmraj-singh-yadav': [],
+  // Barabanki district batch (researched 2026-10-13): Gaurav Kumar (SP, Zaidpur (SC) AC 269, aka 'Gaurav Kumar Rawat' / 'Gaurav Rawat').
+  // RESEARCH TRAIL: ~9 searches (Hindi + English, aliases 'Gaurav Kumar' + 'Gaurav Rawat' + 'Gaurav Kumar Rawat', terms udghatan/lokarpan/shilanyas/shubharambh/vidhayak nidhi/interlocking/cc road/nali/school/hospital/water, news vertical included).
+  // Identity confirmed via Wikipedia + ECI data + Oneindia + ourneta.com: Gaurav Kumar Rawat, SP, Zaidpur (SC), born 1984 Barabanki, won 2019 bypoll + 2022.
+  // What surfaced: (1) Election coverage (ABP, FE, Business Standard, Times Now, Oneindia, india.com) — not works, no entries. (2) YouTube-only items: 'Naeem Bari Medical Clinic' ribbon-cutting by MLA Gaurav Rawat in Zaidpur — YouTube-only source = REJECT; also private-clinic ribbon cut = REJECT. Rampur Mahotsav shubharambh video — event presence = REJECT. (3) Government-level items with no MLA role: CM Yogi Rs 1,734-cr Barabanki package, NH-927 approval, road-widening sanction — no MLA attribution, reject. (4) Identity-trap check: other 'Gaurav Kumar/Rawat' hits (Himachal, industry/MSME video, housing project builder) are different persons — excluded.
+  // No khula-padhha text news source (news portal article, post-Mar 2022) about his development works found. FYI only (not entered): ourneta.com lists 1 criminal case (IPC 468/420/467) from affidavit — affidavit alone is not 'credible reporting + explicit allegation/rebuttal status', so no negative entry made.
+  // Profile kept empty rather than fabricated.
+  'gaurav-kumar': [],
+  // RESEARCH TRAIL — satish-chandra-sharma (Satish Chandra Sharma, Dariyabad AC 270, BJP; MoS Food & Civil Supplies)
+  // Searches: Hindi + English ("sateesh chandra sharma dariyabad vidhayak shilanyas/udghatan", "Satish Chandra Sharma Dariyabad MLA development")
+  // ACCEPTED: 4 news-verified items (all opened and date-verified):
+  //   1. livehindustan.com — 18 km road widening shilanyas, 26 Apr 2026
+  //   2. livehindustan.com — Sheetla Mata mandir vishram sthal shilanyas, 1 May 2026
+  //   3. bhaskar.com — Bhitariya bus station lokarpan, 17 Mar 2026
+  //   4. livehindustan.com — Dariyabad railway overbridge 65% complete (~Jun 2026)
+  // REJECTED:
+  //   - public.app "Ramsanehighat Nai sadak aawas" video — public.app-only + sirf janta-mulaqat, koi kaam nahi
+  //   - earlytimes/crosstown/jammulinksnews "Satish Sharma Chhamb" — J&K minister, galat vyakti (identity trap)
+  //   - jagran 21 Sep 2026 ROB nirikshan — sirf nirikshan/daura, no work milestone
+  //   - Stadium / roadways / samudayik bhavan ke daave (MLA ke bhashan se, 18km-road article me quote) — dawa; independent news verification nahi mila
+  //   - CM Yogi Rs 542 crore Barabanki event — CM ka event; MLA sirf maujood (mere presence = reject)
+  //   - YouTube-only bus-station videos — REJECT; bhaskar print version use ki hai
+  // DATE NOTES: Hindustan ne do articles par exact dates diye (26 Apr 2026, 1 May 2026). ROB article par date byline nahi thi,
+  //   search-crawl ~110 din pehle (approx Jun 2026). Bus station lokarpan date article se: 17 March 2026.
+  'satish-chandra-sharma': [
+    {
+      title: 'Bhitariya se Nai Sadak tak 18 km sadak chaudaikaran ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan (Live Hindustan), 26 Apr 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/barabanki/story-expansion-of-18-km-road-approved-in-barabanki-with-63-crore-fund-by-satish-sharma-201777203699757.html',
+      date: '2026-04-26',
+      note: 'Shilanyas (foundation stone) status — kaam abhi shuru hone wala hai, poora nahi. Rs 63 crore sanctioned; Ramsanehighat (Bhitariya ke nikat Chhoti Hanumangarhi se Nai Sadak tak) ka 18 km sadak-chaudaikaran. MLA/rajyamantri Satish Chandra Sharma ne shilanyas kiya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Dariyabad Sheetla Mata mandir me vishram sthal ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan (Live Hindustan), 1 May 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/barabanki/story-minister-satish-sharma-lays-foundation-for-development-projects-in-dariyabad-201777639936969.html',
+      date: '2026-05-01',
+      note: 'Shilanyas status — Rs ~1.75 crore (paune do crore) ka vishram sthal + tin-shed + prakash vyavastha Sheetla Mata mandir, Dariyabad me. MLA Satish Chandra Sharma ne shilanyas kiya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bhitariya bus station ka lokarpan (Rs 3.37 crore)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, 17 Mar 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/ramsnehi-ghat/news/barabanki-bus-station-inauguration-passengers-face-issues-137497268.html',
+      date: '2026-03-17',
+      note: 'Completed/inaugurated — udghatan parivahan rajyamantri Dayashankar Singh ne Satish Chandra Sharma ke saath kiya. Sthaniya logon ne Satish Sharma ke prayason ki sarahna ki. Bason ka thahrav shuru ho gaya tha, kuch buniyadi suvidhayein abhi baaki thi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Dariyabad railway overbridge (Rs 76 crore) — 65% kaam poora',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan (Live Hindustan), Jun 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/barabanki/story-rapid-progress-on-long-awaited-railway-overbridge-in-dariyabad-near-bhitriya-201782388444037.html',
+      date: '2026-06',
+      note: 'Sanction + construction underway — abhi poora nahi. Bhitariya-Tikaitnagar marg, gate 156-A, Rs 76 crore; Hindustan ke mutabik MLA Satish Chandra Sharma ke vishesh prayason se swikrit. Shilanyas prabhari mantri Jitin Prasad ne kiya tha. December tak poora hone ka target.',
+      period: '2022-2027',
+    },
+  ],
+  // RESEARCH TRAIL — dinesh-rawat (Dinesh Rawat, Haidergarh (SC) AC 272, BJP)
+  // Searches: Hindi + English ("dinesh rawat haidergarh vidhayak vikas karya", "Dinesh Rawat Haidergarh MLA development")
+  // ACCEPTED: 5 news-verified items (all opened and verified):
+  //   1. bhaskar.com — Haidergarh block lokarpan (Annapurna Bhavan + sadaken), ~Mar 2026
+  //   2. bhaskar.com — Sarai Chaube 1 km road shilanyas Rs 70 lakh, ~Apr 2026
+  //   3. bhaskar.com — Pahadapur ghat pipa pul formal lokarpan, ~Aug 2026
+  //   4. jagran.com — Gosiyamau pipa pul Rs 1.65 crore lokarpan, 22 Mar 2026
+  //   5. jagran.com — Subeha Har Ghar Jal tanki udghatan, 22 Mar 2026 (same article)
+  // REJECTED:
+  //   - RT News Hindi YouTube "Maulabad Rs 66 lakh pipa bridge" — YouTube-only
+  //   - theprint.in "Bulldozer will roll" — rajnitik bayan, vikas kaam nahi (no negative entry: sirf bayan, koi case/allegation nahi)
+  //   - telugustop "No vote, no help" Mar 2022 — cutoff se pehle + bayan, kaam nahi
+  //   - CM Yogi Rs 542 crore Barabanki event — CM ka event; MLA sirf maujood (mere presence = reject)
+  //   - theprint bulldozer article me koi crime/allegation nahi hai, isliye guilt-by-association concern nahi
+  // DATE NOTES: Dainik Bhaskar articles par sirf relative dates thi ("7 mahine pehle" / "6 mahine pehle" / "2 mahine pehle") —
+  //   approx month use kiya hai, sourceLabel me (approx) likha hai. Jagran article par exact date: 22 Mar 2026.
+  'dinesh-rawat': [
+    {
+      title: 'Haidergarh block ke teen gaon me vikas karyon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/haidargarh/news/mla-inaugurated-development-works-in-haidergarh-136842118.html',
+      date: '2026-03',
+      note: 'Completed/inaugurated — ek hi karyakram me teen jagah lokarpan: Alapur me Rs 10 lakh ka Annapurna Bhavan, Husainabad me 180 m interlocking road + Rs 18 lakh ki 250 m damar road, Sharifabad me 900 m kharanja sadak. Date article ki relative byline ("7 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Sarai Chaube me 1 km damar sadak ka shilanyas (Rs 70 lakh)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Apr 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/barabanki/haidargarh/news/foundation-stone-laid-for-a-road-worth-rs-70-lakh-in-haidergarh-136876721.html',
+      date: '2026-04',
+      note: 'Shilanyas status — kaam abhi shuru hone wala hai. Sarai Chaube gaon (Haidergarh block) me Rs 70 lakh ki 1 km damrikrit sadak. Date article ki relative byline ("6 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Pahadapur ghat par Gomti nadi par pipa pul ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Aug 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/barabanki/siddhaur/news/haidergarh-pipa-bridge-inauguration-gomti-river-villagers-relief-dinesh-rawat-138040234.html',
+      date: '2026-08',
+      note: 'Completed/inaugurated — pul 2 mahine pehle hi chaalu ho chuka tha, aupcharik lokarpan MLA Dinesh Rawat ne kiya. Pahadapur ghat (Siddhaur block), Gomti nadi; Kothi-Haidergarh marg ko Bhilwal-Haidergarh marg se jodta hai. Date article ki relative byline ("2 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gosiyamau me Gomti par Rs 1.65 crore ke pipa pul ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 22 Mar 2026',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/barabanki-mla-dinesh-rawat-inaugurates-pontoon-bridge-water-tank-in-barabanki-40180681.html',
+      date: '2026-03-22',
+      note: 'Completed/inaugurated — Gosiyamau gram panchayat me Gomti nadi par Rs 1.65 crore ka navnirmit pipa pul; MLA Dinesh Rawat aur block pramukh Arti Rawat ne lokarpan kiya. Pul se Barabanki ki doori ~25 km kam.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Subeha me Har Ghar Jal ki paani tanki ka udghatan',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 22 Mar 2026',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/barabanki-mla-dinesh-rawat-inaugurates-pontoon-bridge-water-tank-in-barabanki-40180681.html',
+      date: '2026-03-22',
+      note: 'Completed/inaugurated — Har Ghar Jal mission ke tehat nirmit paani tanki, Subeha; MLA Dinesh Rawat ne udghatan kiya. Usi din Gosiyamau pul ka lokarpan bhi hua tha.',
+      period: '2022-2027',
+    },
+  ],
 };
