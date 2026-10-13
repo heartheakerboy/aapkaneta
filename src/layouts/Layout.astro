@@ -167,6 +167,12 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
       </div>
       <div id="kshetraPanel" class="nav-panel" hidden>
         <div class="wrap">
+          <label>Rajya
+            <select id="selState">
+              <option value="mha">Maharashtra</option>
+              <option value="guj">Gujarat</option>
+            </select>
+          </label>
           <label>Jila
             <select id="selDistrict"><option value="">Jila chunein…</option></select>
           </label>
@@ -246,17 +252,21 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
       }
       var btn = document.getElementById('kshetraBtn');
       var panel = document.getElementById('kshetraPanel');
+      var selS = document.getElementById('selState');
       var selD = document.getElementById('selDistrict');
       var selT = document.getElementById('selTaluka');
       var selA = document.getElementById('selAc');
       var go = document.getElementById('goBtn');
       if (!btn || !panel) return;
-      var data = null, curD = null, curT = null;
+      var HIER = { mha: '/hierarchy.json', guj: '/hierarchy-gujarat.json' };
+      var PREFIX = { mha: '', guj: '/gujarat' };
+      var cache = {}, data = null, curD = null, curT = null;
+      function curState() { return selS ? selS.value : 'mha'; }
 
       function setOpen(open) {
         panel.hidden = !open;
         btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-        if (open) ensureData();
+        if (open) loadState();
       }
       btn.addEventListener('click', function (e) { e.stopPropagation(); setOpen(panel.hidden); });
       document.addEventListener('click', function (e) {
@@ -274,20 +284,33 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         opt(select, '', placeholder);
         select.disabled = true;
       }
-      async function ensureData() {
-        if (data) return;
+      async function loadState() {
+        var st = curState();
+        if (cache[st]) { data = cache[st]; fillDistricts(); return; }
         try {
-          var r = await fetch('/hierarchy.json');
+          var r = await fetch(HIER[st]);
           data = await r.json();
-          data.districts.forEach(function (d, i) { opt(selD, String(i), d.name); });
+          cache[st] = data;
+          fillDistricts();
         } catch (err) { /* offline: panel simply stays unusable */ }
       }
+      function fillDistricts() {
+        reset(selD, 'Jila chunein…');
+        reset(selT, 'Taluka chunein…');
+        reset(selA, 'Kshetra chunein…');
+        curD = null; curT = null;
+        data.districts.forEach(function (d, i) { opt(selD, String(i), d.name); });
+        selD.disabled = false;
+        refreshGo();
+      }
+      if (selS) selS.addEventListener('change', loadState);
       function target() {
         if (!curD) return null;
+        var p = PREFIX[curState()];
         var a = selA.value !== '' ? JSON.parse(selA.value) : null;
-        if (a) return '/kshetra/' + a.slug;
-        if (curT) return '/taluka/' + curD.slug + '/' + curT.slug;
-        return '/jila/' + curD.slug;
+        if (a) return p + '/kshetra/' + a.slug;
+        if (curT) return p + '/taluka/' + curD.slug + '/' + curT.slug;
+        return p + '/jila/' + curD.slug;
       }
       function refreshGo() { go.disabled = !target(); }
 
