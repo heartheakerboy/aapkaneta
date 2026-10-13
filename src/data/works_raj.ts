@@ -4174,4 +4174,34 @@ export const rajWorks: Record<string, Work[]> = {
     },
   ],
   'anil-kumar-katara': [],
+  // ---- Salumbar district batch (researched 2026-10-13) ----
+  'shanta-amrit-lal-meena': [
+    {
+      title: 'Udaipuria Jangir me 3 naveen bhavanon ka lokarpan — panchayat bhavan, pashu up-swasthya kendra Behuti, khel maidan boundary Behuti',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/salumber-/sarada/news/udaipuria-jangir-inauguration-new-buildings-animal-health-center-sports-ground-137013323.html',
+      date: '2026-01',
+      note: 'Sarada mandal ki gram panchayat Udaipuria Jangir me nav-nirmit panchayat bhavan, pashu up-swasthya kendra (Behuti) aur khel maidan boundary (Behuti) ka lokarpan mukhya atithi ke roop me MLA Shanta Amrit Lal Meena ne kiya. (status: udghatan; page par exact date nahi mili — article me 24 January karyashala ka sandarbh, search-index ke anusaar ~Jan 2026)',
+    },
+    {
+      title: 'Badawali ke Premji Bavsi mandir parisar me highmast street light ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/salumber-/semari/news/rajasthan-vidhayak-shanta-devi-meena-inaugurates-highmast-light-badawali-137103314.html',
+      date: '2026-02',
+      note: 'Gram panchayat Badawali ke prasiddh Premji Bavsi mandir parisar me highmast street light ka lokarpan MLA Shanta Devi Meena ne kiya. Swikriti Udaipur Zila Parishad ki Zila Pramukh Mamta Kunwar ki anushansa par Rajya Vitta Aayog (6th) mad se hui thi — swikriti ka shrey vidhayak ka nahi, note me disclose. (status: udghatan; exact date page par nahi mili — search-index ke anusaar ~Feb 2026)',
+    },
+    {
+      title: 'Farzi marksheet mamla (2015 panchayat chunav) — chargesheet me naam, zamaanat par (nyayik sthiti ki vartaman pushti nahi)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Hindu (PTI), 14 Jul 2021',
+      sourceUrl: 'https://www.thehindu.com/news/national/other-states/rajasthan-bjp-mla-sent-to-jail-in-forgery-case/article35301199.ece',
+      date: '2021-07',
+      note: '(Negative entry — dono paksh/tathya report me.) 2015 me Semari gram panchayat ke sarpanch chunav me namankan ke saath jama ki gayi kaksha-5 ki marksheet farzi payi gayi — CB-CID jaanch me pushti hui ki Shanta Devi ne ye kaksha pass nahi ki thi; shikayat unki virodhi Sugna Devi ne ki thi. Chargesheet me Shanta Devi aur unke pati (tatkalin MLA Amrit Lal Meena, ab divangat) dono ka naam aaropi ke roop me tha; pati ko nyayik hirasat bheja gaya tha, Shanta Devi zamaanat par theen. Koi dosh-siddhi ki report nahi mili; vartaman nyayik sthiti ki pushti nahi ho payi. Unke halafnama me 1 aapradhik mamla ghoshit hai. (status: aarop/chargesheet, zamaanat; parinaam ki pushti nahi)',
+    },
+  ],
 };
