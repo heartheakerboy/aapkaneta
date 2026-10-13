@@ -14067,3 +14067,60 @@ upWorks['avinash-chandra-dwivedi'] = [
     period: '2022-2027',
   },
 ];
+
+// ---- Hamirpur district batch (researched 2026-10-13) ----
+upWorks['dr-manoj-kumar'] = [
+
+  {
+    title: 'Ward-8 Teachers Colony me 105 meter sadak ka nirmaan aur lokarpan (Bundelkhand Vikas Nidhi)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 18 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/hamirpur/story-construction-of-105-meter-road-in-hamirpur-completed-by-mla-manoj-prajapati-201765996813175.html',
+    date: '2025-12-18',
+    note: 'Vidhayak ka poora naam Dr. Manoj Kumar Prajapati (khabar me Dr. Manoj Prajapati — vahi vyakti, Wikipedia/MyNeta/ECI se verify). Nagar palika kshetra Ward-8 Teachers Colony (Mandalata Sachan ke makaan se Priyanka Singh ke ghar tak) me varshon se daldal me tabdeel 105m sadak ka Bundelkhand Vikas Nidhi (jilaansh) yojnaantargat budget pass karwakar UP PCL Kanpur se nirmaan karaya; sadar vidhayak ne swayam lokarpan kiya. Status: completed + lokarpan.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sports stadium me ~Rs7.64 crore ke aadhunik hall (gym, pavilion, judo, badminton jirnoddhar) ka bhoomi poojan; nirmaan shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 2 Jan 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/hamirpur-up-hamirpur-sports-stadium-gets-rs-764-cr-modernization-40092891.html',
+    date: '2026-01-02',
+    note: 'Hamirpur sports stadium parisar me naye gym hall, pavilion, judo hall ke nirmaan aur badminton hall ke jirnoddhar ke liye shasan se svikriti; karyadaayi sanstha UP Sidco; pehli kist ~Rs3.81 crore jaari hone ke baad nirmaan shuru. Sadar vidhayak Dr. Manoj Prajapati ne bhoomi poojan karke karya ka shubharambh karaya. Status: construction started (ongoing, poornata ki khabar nahi mili).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rajya Sadak Nidhi se Hamirpur ki 5 nayi grameen sadkon (~Rs6.54 crore) ki svikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 7 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/hamirpur/story-government-approves-46-new-roads-in-bundelkhand-for-rural-development-201772903251676.html',
+    date: '2026-03-07',
+    note: 'Sadar vidhayak ke anusaar unhone jile ki 5 sadkon ke prastav bheje the: Shekhupur Bachrauli se Kalimai ka Dera marg, Hamirpur-Rath marg se nahar patri hote hue Dhanpura marg, Damar se Kusolipurwa marg, Nadehra se Bidokhar marg, Itailia-Raja Jigani via Chakaudiya pul ka avashesh bhaag. Shasan ne Rajya Sadak Nidhi se Rs653.75 lakh svikrit kiye; PWD tender jaari karne ki taiyari me tha. Status: sanction (svikriti) — nirmaan shuru hona baaki.',
+    period: '2022-2027',
+  },
+  {
+    title: 'God liye Primary Vidyalaya Sarain me peene ke paani ki killaat (Amar Ujala ground report)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 23 Jan 2026',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/hamirpur/children-are-craving-for-water-in-the-school-adopted-by-the-honorable-hamirpur-news-c-223-1-hmp1028-135146-2026-01-23',
+    date: '2026-01-23',
+    note: '2023 me vidhayak ne model school banane ke uddeshya se Primary Vidyalaya Sarain (shahar ke beechon-beech, BSA karyalaya se ~250m) god liya tha. Amar Ujala ground report ke mutabik ~2 saal se paani ka sankat: 2024 se tanki sookhi, boring kharab; 32 chhatra + 23 chhatraen pareshan; "vidhayak nidhi se koi karya nahi hua". Vidhayak ka version: god lene ke baad vidyalaya me kaam hue hain; beete kuch samay se wahan nahi ja paya, isliye paani ki samasya sangyaan me nahi thi; jald samasya door karane ka aashwasan. Status: negative ground report + explicit rebuttal — kaam ki sthiti vivaadit.',
+    period: '2022-2027',
+  },
+];
+upWorks['manisha'] = [
+  {
+    title: 'Sarila aur Gohand Nagar Panchayaton me Amrit 2.0 peyjal pariyojnaon ka shilanyas',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hindustan Samachar, 10 Oct 2026',
+    sourceUrl: 'https://www.hindusthansamachar.in/Encyc/2026/10/10/LAYING-OF-FOUNDATION-STONES-FO.php',
+    date: '2026-10-10',
+    note: 'Rath Vidhan Sabha kshetra ke Sarila aur Gohand Nagar Panchayaton me Amrit 2.0 ke tahat punargathan peyjal pariyojnaon ka bhoomi-pujan/shilanyas vidhayak ne kiya. Status: shilanyas (buniyaad rakhi gayi, nirmaan shuru). Corroboration (bbnlive): Sarila me do nayi paani ki tankiyan (Har daul Lala sthan aur Jhanda Bazaar par), Betwa nadi se paani lakar kasbe tak pahunchaya jayega, poora karne ka lakshya Feb 2028. Same event ki do stories thi — duplicate se bachne ke liye ek hi entry.',
+    period: '2022-2027',
+  },
+];
