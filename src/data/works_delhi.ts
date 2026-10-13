@@ -1292,3 +1292,303 @@ delhiWorks['kuldeep-solanki'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- West district batch (researched 2026-10-13) ----
+// West district batch 1 (researched 2026-10-13): Nangloi Jat (AC-11), Moti Nagar (AC-25), Madipur (AC-26), Rajouri Garden (AC-27).
+// Assignment-style lines; merge parent/coordinator karega.
+
+delhiWorks['manoj-kumar-shokeen'] = [
+{
+    title: 'Guru Harkishan Nagar Ward 48 me 12 sadak-gali-walkway karyon ke liye 213.15 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-11_12918-12934_04-08-2025.pdf',
+    date: '2025-08-04',
+    note: 'F.18B(587)/AC-11/8DVS/UD/MLALADS/2025-26/12918-12934: A/A Rs. 213.15 lakh; first installment Rs. 21.25 lakh MCD ko — "MLA Sh. Manoj Kumar Shokeen" ke liye Nangloi Jat AC-11 me. 12 kaam, sab Ward 48 Guru Harkishan Nagar (M-11/RZ): (1) park walkway opp H.No 203 Ambica Vihar Rs. 16.92L (8DVS/0135/159, /06); (2) park walkway opp H.No 208 Meerabagh A-Block Rs. 9.39L (/160, /07); (3) sadak H.No 210-226 Ambica Vihar Rs. 16.83L (/161, /08); (4) RMC sadak Cl/23-Cl/37 Mianwali Nagar Rs. 16.83L (/162, /09); (5) RMC gali Block 2/GH-13 Rs. 16.88L (/163, /10); (6) park walkway GH-12 Rs. 16.92L (/164, /11); (7) RMC gali GH-13 Rs. 26.86L (/165, /12); (8) sadak 328-322 Meera Bagh A-Block Rs. 25.99L (/166, /13); (9) RMC sadak 8-1/1-8-1/24 Mianwali Nagar Rs. 18.78L (/167, /14); (10) precast RCC slab GH-1/GH-05/Bheura/Ekta Enclave Rs. 16.38L (/168, /15); (11) park boundary wall + walkway near A-23 Meera Bagh Rs. 24.44L (/169, /16); (12) precast RCC slab Meera Bagh/GH-14/GH-09/GH-5&7/LIC Colony/Sunder Vihar/Ambica Vihar Rs. 9.97L (/170, /17). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Nangloi Jat me benches ke liye 48.69 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-11_12901-12917_04-08-2025.pdf',
+    date: '2025-08-04',
+    note: 'F.18B(587)/AC-11/8DVS/UD/MLALADS/2025-26/12901-12917: A/A Rs. 48.69 lakh; first installment Rs. 4.86 lakh I&FCD (CD-II) ko — "Supply of Benches at various location in Nangloi Jat Assembly Constituency (AC-11)", Work ID 8DVS/0135/10 (AC-11/2025-26/02), "MLA Sh. Manoj Kumar Shokeen" ke liye. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Jwalapuri Ward 45 me nali-gali-footpath ke 5 karyon ke liye 98.97 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 12 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-11_14559-14570_12-09-2025.pdf',
+    date: '2025-09-12',
+    note: 'F.18B(587)/AC-11/8DVS/UD/MLALADS/2025-26/14559-14570: A/A Rs. 98.97 lakh; first installment Rs. 9.88 lakh MCD ko — "MLA Sh. Manoj Kumar Shokeen" ke liye Nangloi Jat AC-11 me, sab Ward 45 Jwalapuri (M-11/RZ): (1) drain+lane RMC H.No W-155 se W-125, PVC market Rs. 16.92L (8DVS/0135/226, /23); (2) lane+drains RMC H.No W-16 se W-124, PVC market Rs. 36.08L (/227, /24); (3) drain+side berm B/W + interlocking pavers, ODA mkt se W-155 PVC mkt Rs. 13.70L (/228, /25); (4) park entry gate + hut ka beautification, H.No A-597 ke paas Rs. 12.83L (/229, /26); (5) footpath interlocking pavers, H.No A-558 Camp No. 4 Rs. 19.44L (/230, /27). Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Kavita Colony me galiyon aur RCC slab ke 3 karyon ke liye 41.82 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac11_12884-12900_04-08-2025.pdf',
+    date: '2025-08-04',
+    note: 'F.18B(587)/AC-11/8DVS/UD/MLALADS/2025-26/12884-12900: A/A Rs. 41.82 lakh; first installment Rs. 4.17 lakh MCD ko — "MLA Sh. Manoj Kumar Shokeen" ke liye Nangloi Jat AC-11 me: (1) RMC galiyan H.No 66-63, 70-75, 57-54, 59a-60a, Kavita Colony Rs. 15.73L (8DVS/0135/156, /03); (2) RMC galiyan H.No 59a-101, Kavita Colony Rs. 17.02L (/157, /04); (3) precast RCC slab, Kavita Colony/Saini Mohalla, Ward 46 Rs. 9.07L (/158, /05). Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Adhyapak Nagar J Block me 630 KVA transformer ka udghatan; 2500 parivaron ko bijli-kat se rahat ka daava',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Spy Newspaper, 15 Jul 2025',
+    sourceUrl: 'https://www.spynewspaper.com/2025/07/blog-post_15.html',
+    date: '2025-07-14',
+    note: 'Nangloi Jat ke Adhyapak Nagar, J Block me 630 KVA BSES transformer ka udghatan (14 Jul 2025) vidhayak Manoj Kumar Shokeen ne kiya; article me ~2500 parivaron ko bijli-kat se rahat ka daava; BSES adhikari Manish Saxena aur Ashok Kumar maujood the. Vidhayak ne 5 aur transformers ki ghoshna ki (Nihal Vihar E/F/G/K-2 blocks, Laxmi Park B block, Shiv Ram Park I block) — ghoshna ki sthiti me, purnata ki khabar nahi mili. Status: transformer sthapit + udghatan — purn. Caveat: chhota sthaniya Hindi outlet; transformer BSES dwara lagaya gaya, vidhayak ne udghatan kiya.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['harish-khurana'] = [
+{
+    title: 'Basaidarapur park vikas aur Laxmi Garden me MS hut ke liye 44.78 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 23 Apr 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-25_14919-14935_23-09-2025.pdf',
+    date: '2025-04-23',
+    note: 'F.18B(601)/AC-25/8DVS/UD/MLALADS/2025-26/14919-14935: A/A Rs. 44.78 lakh; first installment Rs. 4.47 lakh I&FCD ko — "MLA Sh. Harish Khurana" ke liye Moti Nagar AC-25 me: (1) "Development of Park with EPDM Flooring, C.C etc at Basaidarapur" Rs. 32.42L (8DVS/0135/273, 25/2025 26/13); (2) "Construction of durable assets (M.S. hut) for public use at Laxmi Garden" Rs. 12.36L (8DVS/0135/274, 25/2025 26/14). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili. Caveat: aadesh par tithi 23/04/2025 hai jabki file-naam me 23-09-2025 dikhta hai (sambhavatah upload tithi).',
+    period: '2025-2030',
+  },
+  {
+    title: 'Ramesh Nagar ke parkon me lighting ke liye 8.92 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac25_15194-15930_09-10-2025.pdf',
+    date: '2025-10-09',
+    note: 'F.18B(601)/AC-25/8DVS/UD/MLALADS/2025-26/15914-15930: A/A Rs. 8.92 lakh; first installment Rs. 0.89 lakh MCD ko — "Provision of Lighting arrangement at AC Block and Mata Vaishno Shakti park AB Park 7 Block Ramesh Nagar in Moti nagar Constituency AC-25", Work ID 8DVS/0135/328, "MLA Sh. Harish Khurana" ke liye. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Ramesh Nagar 4/5/6 Block ke parkon me lighting ke liye 8.67 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-25_15897-15913_09-10-2025.pdf',
+    date: '2025-10-09',
+    note: 'F.18B(601)/AC-25/8DVS/UD/MLALADS/2025-26/15897-15913: A/A Rs. 8.67 lakh; first installment Rs. 0.86 lakh MCD ko — "Provision of Lighting arrangement in various park of 4 Block, 5 Block, 6 Block Ramesh Nagar in Moti nagar Constituency AC-25", Work ID 8DVS/0135/330, "MLA Sh. Harish Khurana" ke liye. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Moti Nagar C/D/E Block ke parkon me lighting ke liye 8.81 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac25_15931-15947_09-10-2025.pdf',
+    date: '2025-10-09',
+    note: 'F.18B(601)/AC-25/8DVS/UD/MLALADS/2025-26/15931-15947: A/A Rs. 8.81 lakh; first installment Rs. 0.88 lakh MCD ko — "Provision of Lighting arrangement in various park of C, D & E BLOCK Moti nagar in Moti nagar Constituency AC-25", Work ID 8DVS/0135/329, "MLA Sh. Harish Khurana" ke liye. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Jan Kaushal Kendra aur Swayam Swasthya Kendra ka udghatan — vidhayak ki pehel par Madan Lal Khurana Foundation dwara sthapit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune, 21 Aug 2026',
+    sourceUrl: 'https://www.tribuneindia.com/news/delhi/delhi-cm-rekha-gupta-opens-skill-health-centres-in-moti-nagar/',
+    date: '2026-08-20',
+    note: 'Moti Nagar me Jan Kaushal Kendra (yuvaon ko AI/digital kaushal prashikshan) aur Swayam Swasthya Kendra (CBC, LFT, KFT, sugar, thyroid, cholesterol aadi jaanch + telemedicine) ka udghatan CM Rekha Gupta ne 20 Aug 2026 ko kiya; dono kendra Madan Lal Khurana Foundation ke prayason se sthapit — Zee News ke anusaar "vidhayak Harish Khurana ki pehel par"; MLA Harish Khurana karyakram me maujood the. Status: udghatan — kendra shuru. Caveat: udghatan CM ne kiya; kendra foundation dwara sthapit, sarkari yojna nahi.',
+    period: '2025-2030',
+  },
+  {
+    title: '51 lakh ki nayi paani pipeline me pilferage pakdi; water mafia ko chetavni',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Indian Express (Delhi Confidential), 23 Feb 2026',
+    sourceUrl: 'https://indianexpress.com/article/delhi-confidential/bjp-moti-nagar-mla-harish-khurana-delhi-water-mafia-crackdown-10546599/',
+    date: '2026-02-23',
+    note: 'Moti Nagar me garmiyon ke liye Rs. 51 lakh ki laagat se bichhai gayi nayi paani pipeline me pilferage points mile — vidhayak Harish Khurana ne swayam rukkar police ki kaanuni aupchariktaon ki nigrani ki aur illegally procured paani bechne walon ko kshetra chhodne ya parinam bhugatne ki sarvajanik chetavni di (Indian Express). Status: MLA ki enforcement-karvai — pipeline pehle se bichhi hui thi; ye naya sanction ya nirman-karya nahi.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['kailash-gangwal'] = [
+{
+    title: 'Madipur gaon ki aitihasik Pakki Chaupal ke jeernoddhar karya ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bharat Shikhar Times, 27 Apr 2026',
+    sourceUrl: 'https://www.bharatshikhartimes.com/2026/04/mp-kamaljeet-sehrawat-mla-kailash.html',
+    date: '2026-04-27',
+    note: 'Madipur gaon ki aitihasik Pakki Chaupal ke ek hisse ke jeernoddhar karya ka aupcharik udghatan — MP Kamaljeet Sehrawat, MLA Kailash Gangwal aur nigam parshad Urmila Gangwal ne sanyukt roop se nariyal todkar shubharambh kiya; sthaniya RWA/Chaupal Committee ne budget manzoori aur karya shuru karane ke liye jan-pratinidhiyon ka aabhaar jataya. MLA Gangwal ne kaha vikas ka laabh aakhri vyakti tak pahunchana lakshya hai. Status: shubharambh — jeernoddhar karya shuru, purnata ki khabar nahi mili. Caveat: MP ke saath sanyukt udghatan; budget ka srot (MP/MLA nidhi) article me spasht nahi; chhota sthaniya outlet.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['manjinder-singh-sirsa'] = [
+{
+    title: 'Rajouri Garden me 10 crore ke civic infrastructure karyon ka udghatan (J-Block, Z-Block, Rattan Dairy, Janta Market)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Millennium Post, 7 Nov 2025',
+    sourceUrl: 'https://www.millenniumpost.in/delhi/sirsa-inaugurates-10-cr-projs-in-rajouri-garden-634430',
+    date: '2025-11-06',
+    note: 'Rajouri Garden me Rs. 10 crore ke civic infrastructure karyon ka udghatan (6 Nov 2025) — DJB/PWD/MCD dwara: nayi sewer aur paani lines, sadak marammat, footpath, boundary wall (J-Block, Z-Block, Rattan Dairy, Janta Market). Status: udghatan — karyanwayan sarkari vibhagon dwara; ye MLALAD sanction nahi. Note: isi karyakram me anti-smog gun flag-off aur Delhi ke 13 pradushan hotspots ki samiksha bhi hui — mantri-bhoomika wala Delhi-wide hissa, kshetra-kaam se alag rakha gaya.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Rajouri Garden me 14 crore ki sadak-pani pariyojnaon ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'IANS via Pune News, 30 Mar 2026',
+    sourceUrl: 'https://pune.news/nation/delhi-manjinder-singh-sirsa-inaugurates-rs-14-crore-projects-in-rajouri-garden-430915/',
+    date: '2026-03-30',
+    note: 'Rajouri Garden me Rs. 14 crore ke vikas karyon ka udghatan (30 Mar 2026) — peya-jal aur sewer lines ka punarnirman, PWD sadakon ka sudridhikaran, parkon ka saundaryakaran. Sirsa ne kaha Rajouri Garden me pehle saal me hi lagbhag Rs. 175 crore ke kaam chal rahe hain aur har vidhansabha ke liye Rs. 100 crore+ ka pravdhan hai — ye mantri ke daave hain, swatantra satyapan nahi mila. Status: udghatan — karyanwayan sarkari vibhagon dwara; MLALAD nahi.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khayala-Vishnu Garden me 4.5 crore ke vikas karyon ka shubharambh; toilet complex ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI via NewsDrum, 9 Apr 2026',
+    sourceUrl: 'https://www.newsdrum.in/national/delhi-sirsa-launches-development-works-worth-rs-45-cr-in-rajouri-garden-11709536',
+    date: '2026-04-09',
+    note: 'Rajouri Garden ke Khayala, Vishnu Garden aur aaspaas me Rs. 4.5 crore ke kaam (9 Apr 2026) — paani supply lines ka vistaar, sewer network, nayi sadaken, naaliyan, toilet blocks, parkon me hariyali; sarvajanik toilet complex ka udghatan, Khayala gaon me sadak punarnirman, Chokhandi me sadak sudhaar, sewer vistaar, aur ek pramukh sadak + naali ka nirman (sthaniyon ki lambe samay se maang). Status: shubharambh/udghatan — karyanwayan sarkari vibhagon dwara; MLALAD nahi.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Rajouri Garden me 7.5 crore ki infrastructure pariyojnaon ka udghatan; parkon aur community center ka jeernoddhar',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Devdiscourse (agency inputs), 18 May 2026',
+    sourceUrl: 'https://www.devdiscourse.com/article/science-environment/3912947-revamping-rajouri-garden-delhis-infrastructure-leap',
+    date: '2026-05-18',
+    note: 'Rajouri Garden me lagbhag Rs. 7.5 crore ki infrastructure pariyojnaon ka udghatan (18 May 2026) — sadaken, sewer system, paani pipelines, parkon aur ek community center ka jeernoddhar; road connectivity aur sanitation me sudhaar ka lakshya. Sirsa ne Rajouri Garden ke vikas ke liye Rs. 100 crore ke sarkari aavantan ka ullekh kiya (sarkari daava). Caveat: article body me Rs. 7.5 crore hai — metadata me "Rs. 75 crore" ki typo dikhti hai, body ko maana gaya. Status: udghatan — karyanwayan sarkari vibhagon dwara; MLALAD nahi.',
+    period: '2025-2030',
+  },
+];
+
+// Delhi West district batch W2 (researched 2026-10-13).
+// shyam-sharma (Hari Nagar AC-28, BJP), jarnail-singh (Tilak Nagar AC-29, AAP),
+// ashish-sood (Janakpuri AC-30, BJP — mantri: sirf kshetra-vishesh kaam, Delhi-wide mantri faisle excluded).
+// Teenon Feb 2025 me chune gaye — sirf Feb 2025 ke baad ke kaam liye gaye.
+// Key = neta slug, value = Work[] entries. Neutral, source-cited entries only.
+//
+// SAKHT NIYAM (8DVS): UDD MLALAD orders me sirf 8DVS series ke NAYE sanctions liye gaye —
+// har PDF kholkar F.No/header me 8DVS, "in continuation" clause ki anupasthiti, date, amount,
+// Work ID aur copy-to me MLA ka naam verify kiya gaya. "In continuation of 7DVS/6DVS" wale
+// final-installment orders sabhi reject (purane sanctions ki kistein current MLA ka kaam nahi).
+
+// reason: AC-28 (Hari Nagar) ke 2025-26 me koi 8DVS NEW sanction order nahi mila.
+// UDD/Google par mile saare 5 orders "in continuation of 7DVS" final installments the (reject-log dekho).
+// AC-28 (16736-16752) 10-11-2025 ka listing entry UDD site par hai, lekin PDF ka download URL
+// text fetch se recover nahi hua — content unverified, isliye include nahi kiya (URL guess karna mana hai).
+// Post-Feb 2025 ka koi qualifying kshetra-kaam (news/sarkari) nahi mila. Khali profile weak attribution se behtar.
+delhiWorks['shyam-sharma'] = [];
+
+delhiWorks['jarnail-singh'] = [
+  {
+    title: 'Tilak Nagar AC-29 me Santgarh aur Khyala (ward 102) ki galiyon ki RMC sadak sudhar ke liye 19.75 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 3 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-29_15602-15618_03-10-2025.pdf',
+    date: '2025-10-03',
+    note: 'F.18B(605)/AC-29/8DVS/UD/MLALADS/2025-26: "in continuation" clause nahi hai — NEW sanction. A/A Rs. 19.75 lakh; first installment Rs. 1.97 lakh MCD ko — "development work carried out in Tilak Nagar Assembly Constituency (AC-29) MLA Sh. Jarnail Singh". Do kaam: (1) WZ-32/4 se WZ-20 (Gali no.1) aur NZ-47 se WZ-50 (Gali no.30) Santgarh me RMC se lane improvement (Rs. 8.64 lakh, Work ID AC-29/2025-26/17, U.ID 8DVS/0135/287); (2) WZ-32 se WZ-133, WZ-73-D se WZ-32, WZ-58B se WZ-135, WZ-58B se WZ-133, WZ-59 A/2 se WZ-53-B, WZ-133/134 se WZ-59 A/2 aur WZ-53B se Mahakali Mandir Gali no.32 tak Khyala West Zone me lane improvement (Rs. 11.11 lakh, /18, 8DVS/0135/288) — Ward 102, Khyala WZ. Copy-to me "Hon\'ble MLA Sh. Jarnail Singh". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Tilak Nagar ke 1-block park ke sudhar ke liye 4.56 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-29_15846-15862_09-10-2025.pdf',
+    date: '2025-10-09',
+    note: 'F.18B(605)/AC-29/8DVS/UD/MLALADS/2025-26: "in continuation" clause nahi hai — NEW sanction. A/A Rs. 4.56 lakh (est. Rs. 4.85 lakh); first installment Rs. 0.45 lakh MCD ko — "Improvement/Dev. of Park in 1-block by pdg. Paver block, Painting etc. in Tilak Nagar in Ward No 101/WZ, Tilak Nagar", Work ID AC-29/2025-26/20, U.ID 8DVS/0135/320. Copy-to me "Hon\'ble MLA Sh. Jarnail Singh". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Tilak Nagar ward 101 me stainless steel signage/informatory boards ke liye 17.95 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 16 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-29_16282-16298_16-10-2025.pdf',
+    date: '2025-10-16',
+    note: 'F.18B(605)/AC-29/8DVS/UD/MLALADS/2025-26: "in continuation" clause nahi hai — NEW sanction. A/A Rs. 17.95 lakh; first installment Rs. 1.79 lakh MCD ko — "Providing and fixing stainless steel Signage/Informatory Boards at various locations in ward 101/WZ Tilak Nagar", Work ID AC-29/2025-26/21, U.ID 8DVS/0135/334. Copy-to me "Hon\'ble MLA Sh. Jarnail Singh". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['ashish-sood'] = [
+  {
+    title: 'Janakpuri A-3 block ke park sudhar ke liye 75.48 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 16 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-30_16316-16332_16-10-2025.pdf',
+    date: '2025-10-16',
+    note: 'F.18B(606)/AC-30/8DVS/UD/MLALADS/2025-26: "in continuation" clause nahi hai — NEW sanction. A/A Rs. 75.48 lakh; first installment Rs. 7.54 lakh MCD ko. Do kaam: (1) "Improvement development of park near house no. 111 in A-3 block Janakpuri by repairing of wall, tiles in footpath, Gazebo repair, Repair of gates, Grit Wash Work Painting etc." (Rs. 53.11 lakh, Work ID AC-30/2025-26/03, U.ID 8DVS/0135/316); (2) "Improvement development of side berm of Park A-3 near house no. 119 by pdg. Interlocking, Laying Taking out old tile, Gully Grating, Pipe etc." (Rs. 22.37 lakh, /04, 8DVS/0135/317) — Ward 106/WZ, Janakpuri West. Copy-to me "Hon\'ble MLA Ashish Sood". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Janakpuri me Sitapuri, Shiv Nagar aur Virender Nagar me street lights ke liye 8.99 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 1 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-30_15372-15388_01-10-2025.pdf',
+    date: '2025-10-01',
+    note: 'F.18B(606)/AC-30/8DVS/UD/MLALADS/2025-26: "in continuation" clause nahi hai — NEW sanction. A/A Rs. 8.99 lakh; first installment Rs. 0.89 lakh MCD ko — "Supply and installation of street lights at various locations in Sitapuri, shiv nagar and virendernagar in AC-30 (Janakpuri) under MCD West Zone", Work ID AC-30/2025-26/02, U.ID 8DVS/0135/285. Copy-to me "Hon\'ble MLA Ashish Sood". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Janakpuri ke Mahaveer Enclave-II me street lights ke liye 9.50 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 1 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-29_15389-15405_01-10-2025.pdf',
+    date: '2025-10-01',
+    note: 'F.18B(606)/AC-30/8DVS/UD/MLALADS/2025-26: "in continuation" clause nahi hai — NEW sanction. A/A Rs. 9.50 lakh; first installment Rs. 0.95 lakh MCD ko — "Supply and installation of street lights at various locations in Mahaveer Enclave II in AC-30 Janakpuri under MCD West Zone", Work ID AC-30/2025-26/01, U.ID 8DVS/0135/290. Copy-to me "Hon\'ble MLA Sh. Ashish Sood". Caveat: PDF ka file naam "ac-29_..." hai, lekin F.No. header aur content dono AC-30 ke hain — kaam Janakpuri ka hi hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Virender Nagar, Chanakya Place aur Mahavir Enclave me sadak-sewer-paani karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Impressive Times, 18 Apr 2025',
+    sourceUrl: 'https://impressivetimes.com/latest/news-4508/',
+    date: '2025-04-18',
+    note: '18 April 2025 ko Ashish Sood ne apne Janakpuri kshetra me vikas karyon ka shilanyas kiya: Virender Nagar ki Lanes 1, 2, 5 me sadak, sewer aur paani pipeline; Chanakya Place ki 30-Foota Road par sewer-sadak kaam (Azad Juice Wali Gali me 120-ft road); Mahavir Enclave Part-2 (B Block, Lane 31) me sewer-paani pipeline (30 June tak deadline). DJB ko 2-6 mahine me kaam poora karne ke nirdesh. Status: shilanyas — kaam shuru, purnata ki alag khabar nahi mili. Caveat: chhota outlet; report mantri ke karyakram par aadharit hai, swatantra ground-reporting patli hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Janakpuri me sewer, gas aur paani pipeline nirman karyon ka shubharambh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'PTI via The Week, 3 Sep 2025',
+    sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/09/03/des90-dl-sood-projects.amp.html',
+    date: '2025-09-03',
+    note: '3 Sep 2025 (PTI) — Ashish Sood ne Janakpuri kshetra me nayi sewer, gas aur paani pipelines ke nirman ka shubharambh kiya ("Rekha Sarkar Aapke Dwar" abhiyan ke tahat). Kshetra: A5 A White Flat, Valmiki Marg, CD Block Uttam Nagar, Posangi Pur gaon, T Block Uttam Nagar, Z Block Dayalpur, aur Shiv Nagar, Hari Nagar, Virender Nagar ke mohalle — 3 mahine me kaam poora hone ka lakshya; purani sewer lines trenchless technology se badli jayengi. Status: shubharambh — nirman shuru, purnata ki alag khabar nahi mili. Caveat: soochi me Uttam Nagar ke kuch block shamil hain jo AC-31 me pad sakte hain; kshetra-simayein statement me saaf nahi hain.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Janakpuri ke Pankha Road kshetra me 5.5 crore ke vikas karyon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Millennium Post, 6 Oct 2025',
+    sourceUrl: 'https://www.millenniumpost.in/delhi/minister-ashish-sood-kicks-off-rs-55-cr-projects-in-janakpuri-630030',
+    date: '2025-10-05',
+    note: '5 Oct 2025 ko Ashish Sood ne Janakpuri ke Pankha Road kshetra me Rs. 5.5 crore ke vikas karyon ka shilanyas kiya (West Delhi MP Kamaljeet Sehrawat, RWA aur market association pratinidhi maujood). Kaam: nayi RCC naali, grit-plaster aur lohe ki grill wali toe walls, footpath, sadak ke dono taraf streetlights, service lanes ki hariyali/landscaping se sundarikaran. Mantri ke anusar kshetra ko sabse aadhunik, saaf-suthra banane ka lakshya. Status: shilanyas — karyanwayan baaki, purnata ki khabar nahi mili. (Delhi-wide mantri yojna nahi — poori tarah Janakpuri kshetra ka kaam.)',
+    period: '2025-2030',
+  },
+  {
+    title: 'Janakpuri ke C1A aur C-2 block me 1.6 crore ke vikas karyon ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune, 8 Mar 2026',
+    sourceUrl: 'https://www.tribuneindia.com/news/delhi/minister-sood-launches-rs-1-6-cr-development-works-in-janakpuri/',
+    date: '2026-03-08',
+    note: '8 March 2026 — Ashish Sood ne apne Janakpuri kshetra ke C1A aur C-2 blocks me lagbhag Rs. 1.60 crore ke vikas karyon ka udghatan kiya. C1A Block (~Rs. 86.37 lakh): sewer lines, naali-sadak nirman aur dense carpeting. C-2 Block (~Rs. 73.91 lakh): C2/116 se C2/230 tak sewer lines, interlocking tiles se galiyan, RMC se back lanes. RWA pratinidhi maujood. Status: udghatan — kaam shuru/launched, purnata ki alag khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
