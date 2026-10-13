@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { mpStateNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return mpStateNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = mpStateNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/madhya-pradesh" stateName="Madhya Pradesh" homeLabel="Madhya Pradesh home" />
