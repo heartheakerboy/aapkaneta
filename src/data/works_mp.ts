@@ -1089,3 +1089,146 @@ mpWorks['ganga-sajjan-singh-uikey'] = [
 mpWorks['mahendra-singh-chouhan'] = [
   // KHAALI (researched 2026-10-14): post-Dec 2023 kaam par koi verifiable news/sarkari source nahi milin.
 ];
+// ---- Bhind district batch (researched 2026-10-14) ----
+mpWorks['hemant-satyadev-katare'] = [
+  {
+    title: 'Gram Rajpura me Keshwanand Maharaj Rajpura Dham ke vikas/jirnodhar ke liye Rs. 10 lakh ki vidhayak-nidhi swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, 15 Jan 2026 (vistar: Jagran Today, 15 Jan 2026)',
+    sourceUrl: 'https://voiceofmp.com/user/description/Description_control/news_description/336661',
+    date: '2026-01-15',
+    note: '"Aapka Beta Aapke Dwar" karyakram ke tahat 3-divasiya kshetra-bhraman ke dauran unhone gram Rajpura sthit Keshwanand Maharaj Rajpura Dham ke vikas evam jirnodhar ke liye Rs. 10 lakh ki swikriti pradan ki; Jagran Today ke mutabik unhone mauke par hi apni vidhayak-nidhi se patra jaari karke anushansa ki. Jagran Today ke mutabik usi dauran Maharani Avantibai ki pratima ka anavaran aur dham-prangan ki wall ka nirman "shuru karakar pura kiya gaya". Status: swikriti (vidhayak-nidhi patra jaari) — wall-nirman/pratima-anavaran purn bataya gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kshetra-bhraman me lagbhag 15 gram-panchayaton me sadak aadi buniyadi karyon ke liye vidhayak-nidhi se mauke-par swikriti/anushansa',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jagran Today, 15 Jan 2026 (pushti: Voice of MP, 15 Jan 2026)',
+    sourceUrl: 'https://jagrantodaynews.in/12306',
+    date: '2026-01-15',
+    note: 'Usi 3-divasiya "Aapka Beta Aapke Dwar" daure me unhone lagbhag 15 se adhik gram-panchayaton ka bhraman karke gaon-vason se sujhav liye aur mauke par hi apni vidhayak-nidhi se patra jaari karke lakhon rupaye ke vikas karyon ki anushansa ki. Jagran Today ke mutabik gram Aharolighaat me sadak-nirman ke saath gram Kathelan, Navlihar, Raipura (Ghinauchi), Hulapura, Mudiyakhada, Deenpura, Gajna, Soi, Kadaura me sadak-nirman ke liye rashi manzoor karai gayi. Status: swikriti/anushansa (patra mauke par jaari) — vyaktigat rashiyan article me nahi di gayin ("lakhon ke karya"); karyanwayan ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+];
+mpWorks['narendra-singh-kushwah'] = [
+  {
+    title: 'Gram Tehngur me panchayat bhavan (lagbhag Rs. 37 lakh) ka bhoomi-pujan aur shala bhavan ki boundary-wall (Rs. 5.20 lakh) ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'E Khabar Today, Sep 2025 (est.)',
+    sourceUrl: 'https://ekhabartoday.com/khabare-jilo-se/panchayat-bhawan-will-be-constructed-in-this-village-of/cid17344800.htm',
+    date: '2025-09',
+    note: 'Bhind vidhansabha ke gram Tehngur me unhone panchayat bhavan ke liye bhoomi-pujan aur shala bhavan ki boundary-wall ka lokarpan kiya. Article ke body ke mutabik panchayat bhavan Rs. 37 lakh ki lagat se banega (headline me 35 lakh likha hai) aur boundary-wall ka nirman Rs. 5.20 lakh ki lagat se ho chuka hai. Status: panchayat bhavan = bhoomi-pujan (nirman shuru hona tha); boundary-wall = lokarpan (nirman purn). Caveat: article par print tithi nahi thi; search-index ("407 din pehle") ke aadhar par Sep 2025 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Press conference me daava: 2 saal me Rs. 600 crore ke karya swikrit, adhikansh shuru — kuch purn',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Patrika, 2 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/bhind-news/works-worth-600-crore-rupees-sanctioned-and-construction-started-in-two-years-mla-20226507',
+    date: '2026-01-02',
+    note: 'BJP shasan ke 2 saal pure hone par Rest House, Bhind me patrakaron se charcha me unhone daava kiya ki 2 saal me Rs. 600 crore ke karya shasan-star se swikrit karwakar adhikansh shuru ho chuke hain aur kuch pure bhi ho chuke hain. Mukhya daave: Rs. 149 crore ki ring road (nirman antim charan me), Rs. 126.80 crore ka sewer phase-2 (tender ho chuke), railway crossing par Rs. 42 crore ka ROB (ban raha hai), Babedi-Nadrali marg Rs. 8.28 crore (kaam shuru), Umari-Sagra-Nayagaon-Tehngur-UP road Rs. 49 crore (manzoor), Kuwari nadi ke Kachongra ghat par Rs. 19 crore ka pul (swikrit), Gauri Sarovar par Rs. 6 crore (sadak/retaining wall) + Rs. 2.25 crore ke karya, Ayush aspataal bhavan Rs. 12.50 crore (swikrit), Sandipani school bhavan Rs. 50 crore, MJS parisar me law college Rs. 9.59 crore, medical college Phoop se Bhind (85 bigha aavantan + Rs. 2.45 crore boundary-wall), Nagar Nigam seema ka gazette notification, Nunhata food park ka prastav Bhopal bheja, 20 gram-panchayaton me pratyek Rs. 27 lakh, 8 panchayaton me pratyek Rs. 37.50 lakh panchayat bhavan, 5 gaon me pratyek Rs. 30 lakh muktidham, nal-jal aapurti "15 din me" shuru hone ka daava. Status: daava/ghoshna — ye vidhayak ke apne daave hain press conference se; inme se kisi bhi swikriti-aadesh ya karyanwayan ki swatantra pushti nahi mili. Pardarshita: ring road, sewer, ROB, medical college jaise bade kaam rajya-sarkar ki pariyojnaen hain — unki vyaktigat bhoomika ka swatantra praman nahi mila.',
+    period: '2023-2028',
+  },
+];
+mpWorks['ambrish-sharma-guddu'] = [
+  {
+    title: 'CM ke Lahar daure me Rs. 117 crore ke 50 vikas karyon ka bhoomi-pujan/lokarpan — unki anushansa par swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar Hindi, 24 May 2025 (anushansa-bhoomika: Bhaskar English, 23 May 2025)',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/bhopal/a-new-industrial-center-will-be-established-in-lahar-chief-minister-dr-mohan-yadav-bhoomi-pujan-and-inauguration-of-50-development-works-costing-rs-117-crore-1144773',
+    date: '2025-05-23',
+    note: '23 May 2025 ko CM Dr. Mohan Yadav ne Lahar (Maa Mangaladevi ground, mahila sw-sahayata samuh sammelan) ke daure me Rs. 117 crore se adhik lagat ke 33 vikas karyon ka bhoomi-pujan aur 17 karyon ka lokarpan kiya (kul 50 karya — sadak, bijli, peyjal, swasthya, shiksha kshetron se jude). Bhaskar English ke mutabik ye pariyojnaen "BJP MLA Ambrish Sharma ki anushansa (recommendations) par swikrit" hui thin; ve swayam karyakram me maujood the. Usi manch se CM ne Lahar me naya audyogik kendra sthapit karne aur Machhand-Aswar ko nagar parishad banane ki ghoshna bhi ki. Status: 33 karya = bhoomi-pujan, 17 = lokarpan, audyogik kendra/nagar parishad = ghoshna. Pardarshita: bhoomi-pujan/lokarpan CM ne kiya; unki concrete bhoomika anushansa (recommendation) ke roop me hai — swikriti aur kriyanwayan rajya-sarkar dwara.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rakesh-shukla'] = [
+  {
+    title: 'Gram Pachera me 884.60 lakh ki 7 km sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jagran Today, 29 Jan 2026',
+    sourceUrl: 'https://jagrantodaynews.in/13037',
+    date: '2026-01-29',
+    note: 'Bhind jile ke Mehgaon block ke gram Pachera me Rs. 884.60 lakh ki lagat se 7 km lambi sadak ka bhoomi-pujan Rakesh Shukla ne kiya; sadak Mauja Mehgaon road se NH-719 (Gwalior-Etawah road) ko vaaya sub-jail Mehgaon bypass jodegi. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Corroboration: Navabharat me bhi yahi khabar (884.60 lakh, 7 km, Pachera) prakashit hui hai. Caveat: article me unhe "navin evam navkaraniya urja mantri" kaha gaya hai, lekin ye kaam poornatah Mehgaon kshetra-specific hai — isliye mantri-star exclusion apply nahi hota.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mehgaon vidhansabha me 705.18 lakh ki 4 sadak pariyojnaon ka bhoomi-pujan (Kheriya Bagh, Gitaur)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, May 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/bhind/news/roads-are-a-means-to-improve-rural-living-standards-minister-dbp-137980591.html',
+    date: '2026-05-19',
+    note: 'Rakesh Shukla ne Mehgaon vidhansabha kshetra me kul Rs. 705.18 lakh ki lagat wali 4 sadak pariyojnaon ka bhoomi-pujan kiya; sabse badi pariyojna gram Kheriya Bagh me lagbhag Rs. 284.98 lakh ki 2.5 km lambi sadak hai (Gwalior main road se Kheriya Bagh hote hue Moroli tak). Status: bhoomi-pujan — purnata ki alag khabar nahi mili. Corroboration: Jagran Today (15 May 2026) ne program ki advance soochna di thi — 19 May ko Kheriya Bagh me 3 margon ka aur Gitaur me Siddh Baba sthan par 1 marg ka bhoomi-pujan, jo Bhaskar ke "4 sadak pariyojnaon" se mel khata hai. Caveat: Bhaskar ka article text chhota hai; poora vivaran Jagran Today ki advance report se corroborate hai. Ye kaam poornatah Mehgaon kshetra-specific hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mehgaon me 1.2 crore ke Ramleela maidan aur Puttu Baba ki pratima ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News Chetna (Hindustan Samachar wire), 22 Jan 2024',
+    sourceUrl: 'https://newschetna.com/2024/01/minister-rakesh-shukla-announced-to-build-a-grand/',
+    date: '2024-01-22',
+    note: 'Ayodhya me Ram mandir pran-pratishtha ke din Mehgaon me aayojit karyakram me Rakesh Shukla ne ghoshna ki ki jis sthal par karyakram ho raha hai use Ramleela maidan ke roop me vikasit kiya jayega — Rs. 1 crore 20 lakh ki lagat se nirman karya karaye jayenge taaki har saal 22 January ko dharmik karyakram ho sake; saath hi Mehgaon ke chaurahye par Puttu Baba (1008 Purushottam Das Maharaj) ki bhavya pratima sthapit karne ki ghoshna ki. Status: GHOSHNA — karyakram-sthal par bhoomi-pujan to hua, lekin vaastavik nirman purn hone ya shuru hone ki alag khabar nahi mili. Credit-pardarshita: ghoshna ke samay ve cabinet mantri the, lekin ye ghoshna Mehgaon kshetra-specific karyakram me unke dwara ki gayi thi (rajya-bhar ka faisla nahi), isliye rakhi gayi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['keshav-singh-desai'] = [
+  {
+    title: 'Gohad ward 16 ke Gohadi kshetra me 1.30 crore ki CC sadkon ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jagran Today, 12 Feb 2026',
+    sourceUrl: 'https://jagrantodaynews.in/13747',
+    date: '2026-02-12',
+    note: 'Gohad nagar ke ward 16 antargat Gohadi kshetra ki vibhinn galiyon me lagbhag Rs. 35 lakh ki CC sadkon ka bhoomi-pujan vidhayak Keshav Desai ne kiya; saath hi Rapta se Gohadi tak lagbhag Rs. 17 lakh tatha Gohadi main road se Murari ke makan tak lagbhag Rs. 78 lakh ki CC sadkon ka bhi bhoomi-pujan hua (kul lagbhag Rs. 1.30 crore). Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Corroboration: Atulya Bharat Chetna me bhi yahi karyakram (35+17+78 lakh, ward 16) report hua hai. Karyakram me nagar palika adhyaksh pati Jagdish Mahaur aur ward 16 ki parshad Rajbeti upasthit the.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Bhagwasa me vidhayak-nidhi (7 lakh) se bani CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Atulya Bharat Chetna, 23 Dec 2025',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/43988',
+    date: '2025-12-23',
+    note: 'Gohad vidhayak Keshav Desai ne gram Bhagwasa me CC sadak ka lokarpan kiya; grameenon ki maang par unhone apni vidhayak-nidhi se Rs. 7 lakh swikrit kiye the. Status: lokarpan — kaam purn ho chuka hai (article ke shirshak "vidhayak ne CC road ka kiya lokarpan" aur body me nidhi-swikriti ka ullekh dono maujood hain).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram panchayat Tukeda me 2 CC sadken aur gaon ka pravesh-dwar — kul 19.50 lakh ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/bhind/news/there-should-be-no-compromise-on-quality-mla-136879138.html',
+    date: '2026-01',
+    note: 'Gohad vidhayak Keshav Desai ne gram panchayat Tukeda me do CC sadkon ke nirman ka bhoomi-pujan kiya — ek sadak Ramroop ke makan se Suresh Singh ke makan tak (Rs. 6 lakh), doosri Sarnam Singh ke makan se Hanuman mandir tak (Rs. 5.50 lakh); saath hi Tukeda gaon ka pravesh-dwar bhi banaya jayega. Dono sadkon aur gate par kul Rs. 19.50 lakh kharch honge. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Caveat: article par "7 mahine pehle" ka relative label tha (crawl ke aadhar par Jan 2026 est.); exact tithi article me nahi hai. Neta ne karyakram me nirman ki gunvatta par zor diya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram panchayat Lahchura ke Maho gaon me vidhayak-nidhi se bani CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jagran Today, 28 Feb 2026',
+    sourceUrl: 'https://jagrantodaynews.in/14592',
+    date: '2026-02-28',
+    note: 'Gram panchayat Lahchura ke Maho gaon me vidhayak-nidhi se nirmit nayi CC sadak ka lokarpan vidhayak Keshav Desai ne 28 February (Shanivaar) ko poojan-archan ke saath kiya. Status: lokarpan — kaam purn ho chuka hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mahatma Jyotirao Phule Park ke nirman ke liye vidhayak-nidhi se 10 lakh ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Jagran Today, 23 Feb 2026',
+    sourceUrl: 'https://jagrantodaynews.in/14311',
+    date: '2026-02-23',
+    note: 'Mahatma Jyotiba Phule Park me Shrimad Bhagwat katha karyakram me padhare Gohad vidhayak Keshav Desai ne prastavit Mahatma Jyotirao Phule Park ke nirman karya ke liye apni vidhayak-nidhi se Rs. 10 lakh dene ki ghoshna ki. Status: GHOSHNA — nidhi-swikriti ki ghoshna hui hai; vaastavik swikriti-patra ya nirman shuru hone ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+];
