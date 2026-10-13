@@ -8102,4 +8102,109 @@ export const upWorks: Record<string, Work[]> = {
     },
   ],
 
+  // ---- Ambedkar Nagar district batch (researched 2026-10-13) ----
+  // RESEARCH TRAIL — Ambedkar Nagar (5 ACs)
+  // ACCEPTED (8 entries): dharmraj-nishad x1 (Live Hindustan, 9 Mar 2026 — Katehari me 6 sadak ~10km ~Rs 6cr ki swikriti; sirf Nov 2024 upchunav ke baad);
+  //   ram-murti-verma x2 (Soochna News/Live Hindustan cross-corroborated, 7 Sep 2026 — Mubarakpur Noor-e-Haq Girls Inter College me Rs 5L kaksh ka lokarpan;
+  //   Dainik Bhaskar interview ~Mar 2026 — vidhayak ke daave, badge 'dawa');
+  //   tribhuwan-dutt x2 (Hariharpur 17L interlocking sadak lokarpan, Ayodhya Samachar ~Jun 2025; Sandha 46.69L CC sadak lokarpan Poorvanchal Vikas Nidhi, Bhaskar ~May 2026);
+  //   rakesh-pandey x3 (Jalalpur 2 laghu setu 69.17L swikriti + 13.84L pehli kist, Live Hindustan ~Sep 2026; Rukunpur-Kasimpur high-mast light nidhi se, Bhaskar ~Jan 2026;
+  //   Bandipur Shiv mandir 620m sadak 21.03L swikriti, Bhaskar ~Jun 2026); ram-achal-rajbhar 0 (defensible empty — sirf Ramayana-remarks controversy coverage mili).
+  // REJECTED: CM ke district-wide projects (vidhayak merely present, pre-bypoll items); MLC Hariom Pandey ke prastav wali sadaken (Amar Ujala 53-road 27.41cr,
+  //   Akbarpur-Dostpur 50.67cr); maang-patra (Annnapur-Nagadha road letter); Kanpur Dehat ke Akbarpur wali 4 sadak (galat shahar); nagar palika scheme
+  //   (MLA-attributed nahi); YouTube-only videos; Jaunpur/Badlapur vidhayak ka water-tank (identity trap); pre-tenure (Akbarpur tenure 2012-17, BSP minister-era 2007-12).
+  // CAVEATS: Bhaskar/Live Hindustan ke kai pages par print date nahi thi — dates search-index age se (approx) disclose. W2 fragment ko Roman-Hinglish me
+  //   normalize kiya gaya (pipeline standard). Ram Achal Rajbhar par 2013 ka DA case mila (HT) — pre-tenure, scope se bahar.
+
+  'dharmraj-nishad': [
+    {
+      title: 'Katehari me lagbhag 6 crore ki lagat se 10 km ki 6 sadkon ko mili swikriti',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 9 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/ambedkar-nagar/story-road-construction-approved-in-kathehari-assembly-by-mla-dharmraj-nishad-201772996668751.html',
+      date: '2026-03-09',
+      note: 'Status: swikriti. Vidhayak Dharmraj Nishad ke prayason se aadha darjan margon (lagbhag 10 km, lagbhag Rs 6 crore) ke PWD estimate ko shasan ne swikriti de di; PWD prantiya khand ke adhishasi abhiyanta ne swikriti ki pushti ki aur kaha ki tender prakriya poori karke nirman shuru karaya jayega - report ke samay nirman shuru NAHI hua tha. Vidhayak ne swikriti ke liye CM Yogi Adityanath ka aabhar vyakt kiya. Ye Nov 2024 upchunav ke baad ka karya hai (is se pehle Lalji Verma SP vidhayak the), isliye tenure window saaf hai.',
+      period: '2022-2027',
+    },
+  ],
+  'ram-murti-verma': [
+    {
+      title: 'Mubarakpur ke Noor-e-Haq Girls Inter College me 5 lakh ke shikshan kaksh ka udghatan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Soochna News, 7 Sep 2026',
+      sourceUrl: 'https://soochnanews.in/noorehuqmub/',
+      date: '2026-09-07',
+      note: 'Status: lokarpan. Vidhayak nidhi se nirmit Rs 5 lakh ke navnirmit shikshan kaksh ka udghatan vidhayak ne 7 Sep 2026 (somvar) ko fita katkar kiya; isi karyakram ki khabar Live Hindustan ne bhi di, isliye cross-corroborated. Is se pehle di gayi Rs 10 lakh ki vidhayak nidhi se ek aur kaksh ka nirman karya report ke samay chal raha tha. Isi avsar par vidhayak ne ghoshna ki: computer kaksh ke liye AC, 10 kW solar panel, water cooler, naya submersible/tank (March se pehle) aur Mubarakpur kabristan sadak ke liye dhan - ye ghoshna stage par the, poorn karya nahi. 800 kW transformer (Mubarakpur-Rasulpur) aur kul 9,000 kW transformer ki uplabdhta bhi unhone apne bayaan me kahi thi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Tanda me baadh, bijli aur saundaryikaran par Dainik Bhaskar interview me vidhayak ke daave',
+      category: 'Any',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/news/sp-mla-rammurti-verma-tanda-flood-electricity-9-crore-spent-137489465.html',
+      date: '2026-03',
+      note: 'Status: dawa - ye Dainik Bhaskar se baatchit me vidhayak ke apne daave hain, inki swatantra pushti nahi hui, isliye badge dawa hai. Daave: nadi kataan rokne ke liye jagah-jagah thokar nirman; low-voltage door karne ke liye transformers ki kshamta vriddhi, nai lines aur kisaano ke liye alag transformers - in par lagbhag Rs 9 crore kharch; Mahadeva Ghat ke saundaryikaran ke liye Rs 1.67 crore aur Hanumangarhi ke liye Rs 1.55 crore ki swikriti; Baba Saheb bazaar ke saundaryikaran ke liye NTPC se Rs 70 lakh ka project; aur har saal milne wali vidhayak nidhi se jarooratmandon ka ilaaj.',
+      period: '2022-2027',
+    },
+  ],  'tribhuwan-dutt': [
+    {
+      title: 'Hariharpur gaon me 17 lakh ki interlocking sadak ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Ayodhya Samachar, Jun 2025 (approx)',
+      sourceUrl: 'https://ayodhyasamachar.com/the-mla-inaugurated-the-interlocking-road-constructed-at-a-cost-of-17-lakhs/',
+      date: '2025-06',
+      note: 'Status: lokarpan. Vidhayak Tribhuwan Dutt ne Hariharpur gaon (Jahangirganj block, Alapur kshetra) me 17 lakh ki lagat se bani interlocking sadak ka udghatan kiya. Source page par print date nahi thi; Jun 2025 search-index age se anumanit - note me disclose. Ayodhya Samachar chhota local portal hai - disclosure ke saath rakha gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Sandha gaon me 46.69 lakh ki CC sadak ka lokarpan, Poorvanchal Vikas Nidhi se',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/ramnagar/news/alapur-mla-tribhuvan-datt-inaugurates-cc-road-ambedkar-nagar-137297093.html',
+      date: '2026-05',
+      note: 'Status: lokarpan. Vidhayak Tribhuwan Dutt ne Sandha gaon (Ramnagar block) me Poorvanchal Vikas Nidhi yojana se bani 46.69 lakh ki CC sadak ka udghatan kiya. Source page par print date nahi thi; May 2026 search-index age se anumanit - note me disclose.',
+      period: '2022-2027',
+    },
+  ],
+  'rakesh-pandey': [
+    {
+      title: 'Jalalpur me 2 laghu setu ke liye 69.17 lakh ki swikriti, pehli kist jaari',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, Sep 2026 (approx)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/ambedkar-nagar/story-approval-for-construction-of-two-small-bridges-in-jalalpur-constituency-201789644986488.html',
+      date: '2026-09',
+      note: 'Status: swikriti. Vidhayak Rakesh Pandey ke prastav par Jalalpur kshetra me 2 laghu setu ke liye kul 69.17 lakh ki prashaskiya+vittiya swikriti mili aur 13.84 lakh ki pehli kist jaari hui; nirman shuru nahi hua tha. Setu: Semra-Katka-Bandipur-Nevada Kala marg par sankeern puliya ki jagah 34.69 lakh ka setu, aur Marhara sampark marg par 34.48 lakh ka setu. Source page par print date nahi thi; Sep 2026 search-index age se anumanit - note me disclose.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Rukunpur-Kasimpur Karbala bazaar chauraha par vidhayak nidhi se high-mast light',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jan 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/rukunpurkasimpur/news/jalalpur-mla-rakesh-pandey-installed-high-mast-lights-136397940.html',
+      date: '2026-01',
+      note: 'Status: poorn. Vidhayak Rakesh Pandey ne apni 2025-26 ki vikas nidhi se Rukunpur-Kasimpur Karbala bazaar ke nahar chauraha par high-mast light lagwai; raat me suraksha aur CCTV nigrani me sudhaar. Source page par print date nahi thi; Jan 2026 search-index age se anumanit - note me disclose.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bandipur Shiv mandir tak 620 meter sadak ke liye 21.03 lakh swikrit',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jun 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ambedkarnagar/chainpur/news/ambedkar-nagar-shiv-mandir-road-sanctioned-rakesh-pandey-jayprakash-singh-137635822.html',
+      date: '2026-06',
+      note: 'Status: swikriti. Vidhayak Rakesh Pandey ne gram pradhan ke prastav par Bandipur Shiv mandir tak 620 meter sadak ke liye 21.03 lakh ki swikriti di; report ke samay nirman shuru nahi hua tha. Source page par print date nahi thi; Jun 2026 search-index age se anumanit - note me disclose.',
+      period: '2022-2027',
+    },
+  ],
+  'ram-achal-rajbhar': [
+
+  ],
+
 };
