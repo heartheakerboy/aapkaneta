@@ -2513,4 +2513,57 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Degana vidhayak Ajay Singh Kilak ne Bikharnian Kala (Bherunda Road) sthit rajkiya PHC bhavan ka feeta kaatkar va puja-archana ke baad nirmaan karya ka shubharambh kiya; karyakram me BMO Dr. Rajendra Choudhary sahit kai adhikari maujood the. Isi avsar par graminon ne vidhayak ko school/sadak/paani se judi 9-sutriya maangein saunpi — ve maangein hain, kaam nahi, isliye entry me shamil nahi. Status: shilanyas. Source chhota sthaniya portal hai lekin byline (Pradeep Kumar Daga) aur vishisht vivaran ke saath genuine local reporting lagti hai. Exact date page par nahi mili.',
   },
   ],
+
+  // ---- Didwana-Kuchaman district batch (researched 2026-10-13) ----
+  'yoonus-khan': [
+  {
+    title: 'As ki Dhani school me ₹7.5 lakh ki lagat se bane kaksha-kaksh ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/didwana/news/in-didwana-the-mla-gave-the-message-of-cleanliness-by-doing-voluntary-work-136840355.html',
+    date: '2025-01',
+    note: 'Deedwana vidhayak Yoonus Khan ne kshetriya daure ke dauran As ki Dhani sthit rajkiya uchch prathmik vidyalaya me ₹7.5 lakh ki lagat se nirmit kaksha-kaksh ka udghatan kiya. Isi daure me unhone gaon ki galiyon me swayam shramdaan karke swachhata ka sandesh diya. Status: udghatan. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Giradharipura me ₹22.51 lakh ki lagat se bane three-phase tubewell ka udghatan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/didwana/news/drinking-water-crisis-of-the-people-of-girdharipura-is-over-136848893.html',
+    date: '2025-01',
+    note: 'Deedwana vidhan sabha kshetra ke gram Giradharipura me vidhayak Yoonus Khan ne ₹22.51 lakh ki lagat se taiyaar three-phase tubewell ka udghatan kiya; unhone kaha iska mukhya uddeshya grameen kshetra me peyjal sankat se mataon-behnon ko rahat dilana hai. Graminon ne school kramonnati aur PHC ki maangein bhi saunpi (maangein hain, kaam nahi). Status: udghatan. Exact date page par nahi mili.',
+  },
+  ],
+  'jakir-hussain-gesawat': [
+  {
+    title: 'Makrana Eidgah kabristan me ₹50 lakh ke CC chowk aur ₹17 lakh ki sadak ka shilanyas (vidhayak kosh)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jun 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/nagaur/news/chaos-after-eid-prayers-in-nagaur-135187723.html',
+    date: '2025-06',
+    note: 'Makrana vidhayak Jakir Hussain Gesawat ne Eidgah kabristan (khasra 685) me ₹50 lakh ki lagat se CC chowk nirmaan aur kabristan wuzukhana se Bhakhro ki Dhani tak ₹17 lakh ki sadak nirmaan ka shilanyas kiya — dono kaam vidhayak kosh se hone hain. Status: shilanyas. Note: shilanyas karyakram ke dauran Congress neta Aziz Gehlot aur unke samarthakon se jhadap hui; vidhayak ne Gehlot ke khilaf FIR darj karwai (gali-galauj aur bhanje ka haath todne ka aarop). Dono paksh report me hain; mamla vivaadit hai. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Makrana up-jila aspatal me dialysis/sonography machine udghatan par feeta kaatne ko lekar vivaad',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Zee News Hindi, Jan 2026 (est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/ajmer/rajasthan-news-congress-mla-and-bjp-district-president-clash-over-ribbon-cutting-in-makrana/1767289795129',
+    date: '2026-01',
+    note: 'Makrana ke up-jila aspatal me 2 dialysis machine, 1 sonography machine aur dawa vitran kendra ka udghatan hua; karyakram me vidhayak Jakir Hussain Gesawat, BJP jiladhyaksh Sunita Randad aur pradhan Sumita Bhinchar atithi the. Feeta kaatne ko lekar vidhayak aur BJP jiladhyaksh me vivaad hua — vidhayak ne protocol ka hawala dekar dialysis room ka feeta kaata, jiladhyaksh ne virodh jataya. Dono paksh report me hain. (status: udghatan + vivaad; koi case/FIR ki khabar nahi). Exact date page par nahi mili.',
+  },
+  ],
+  'ramniwas-gawriya': [
+  {
+    title: 'Parbatsar ke Taparwada me darjanon sadkon aur school kaksha-kaksh/baramde ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Zee News Hindi, Jan 2025 (est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/nagaur/nagaur-news-mla-ramniwas-gavadiya-inaugurated-roads/1864966',
+    date: '2025-01',
+    note: 'Parbatsar vidhayak Ramniwas Gawriya ne upkhand ke gram Taparwada me gram panchayat dwara nirmit darjanon sadkon ka lokarpan kiya; saath hi raumavi me kaksha-kaksh aur baramde ka bhi lokarpan kiya. Graminon ki maang par vidhayak ne 2 hall ki swikriti bhi di (status: ghoshna/swikriti). Status: lokarpan. Exact date page par nahi mili.',
+  },
+  ],
 };

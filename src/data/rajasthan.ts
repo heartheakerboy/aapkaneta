@@ -3336,7 +3336,7 @@ export const rajNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Rajasthan2023/candidate.php?candidate_id=122',
       backgroundNote: '',
     },
-    electionNote: '2023 me Nawan se jeete.',
+    electionNote: '2023 me Nawan se jeete; Rajasthan sarkar me rajya mantri (Rajasva, Upniveshan evam Sainik Kalyan).',
   },
   {
     slug: 'avinash-gehlot',
