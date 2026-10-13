@@ -2087,4 +2087,57 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Poorv mantri Ramesh Meena ne press vaarta me Sapotra vidhayak Hansraj Meena par aarop lagaye: vidhayak ke bhai Shivraj Meena par Hariram ki sandigdh maut me shamil hone, parijanon se judi firm ke naam ₹13 crore mining lease, Chambal se avaidh khanan aur panchayat samiti me vittiya aniyamitta. ACB/uchch-stariya jaanch ki maang ki. Vidhayak ne aaropon ko kharij kar siyasi uddeshya bataya. Status: aarop — swatantra pushti nahi, koi nyayik parinaam report me nahi. Exact date page par nahi mili.',
   },
   ],
+
+  // ---- Dholpur district batch (researched 2026-10-13) ----
+  'sanjay-kumar': [
+  {
+    title: 'Baba Vishinigiri Dham par ₹35 lakh ke vikas karya poorne: parikrama marg + deep tubewell',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'G Express News, Apr 2025 (est.)',
+    sourceUrl: 'https://gexpressnews.com/48192',
+    date: '2025-04 (est.)',
+    note: 'Baseri vidhayak Sanjay Kumar ne Baba Vishinigiri Dham parisar me lagbhag ₹35 lakh ke karya poorne karaye: ₹10 lakh ki lagat se parikrama marg aur ₹25 lakh ki lagat se naya deep tubewell (mandir aur aaspaas ke ilake me paani ki samasya door). Status: karya poorne/udghatan. Exact date page par nahi mili (image path Apr 2025).',
+  },
+  {
+    title: 'Mandir parisar me bijli aapoorti hetu ₹35 lakh ke aur karyon ki yojana — swikriti lambit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'G Express News, Apr 2025 (est.)',
+    sourceUrl: 'https://gexpressnews.com/48192',
+    date: '2025-04 (est.)',
+    note: 'Vidhayak ne bataya ki mandir parisar me nirbadh bijli aapoorti hetu lagbhag ₹35 lakh ke aur karya karaye jayenge (garmi se rahat, cancer peedit marijon ke liye); takmeena taiyaar, swikriti hetu Adheekshan Abhiyanta karyalaya Jaipur bheja gaya — swikriti milte hi karya shuru hoga. Status: yojana/ghoshna (swikriti lambit, kaam shuru nahi).',
+  },
+  ],
+  'jaswant-singh-gurjar': [
+  {
+    title: 'Kainthari gram panchayat me ~₹15 crore ki do sadakon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/dholpur/news/inauguration-of-two-roads-worth-rs-15-crore-136966087.html',
+    date: '2026-04 (est.)',
+    note: 'Bari vidhayak Jaswant Singh Gurjar ne Kainthari gram panchayat kshetra me ~₹15 crore ki lagat se bani do sadakon ka lokarpan kiya: gram panchayat border se math tak aur nahar se Fateh ka Adda tak. Vidhayak ke anusaar unhone sarpanch ke saath mantri se mulakat ki thi, jis par sabhi sadakon ke nirmaan ki swikriti mili. Status: lokarpan (kaam poorna). Exact date page par nahi mili (relative "6 mahine pehle").',
+  },
+  {
+    title: 'Bari me Agrasen Vidyapeeth me ₹10 lakh (vidhayak kosh) Seva Sadan ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/dholpur/badi/news/bari-mla-inaugurated-seva-sadan-136796325.html',
+    date: '2025-12',
+    note: 'Bari shahar me Agrasen Vidyapeeth school me vidhayak kosh se ₹10 lakh ki lagat se bane Seva Sadan bhavan ka vidhayak Jaswant Singh Gurjar ne udghatan kiya; samaj ke bhamashahon dwara banaye kakshon ka bhi udghatan hua. Pehle ₹21 lakh ki ghoshna hui thi, takniki karanon se ₹10 lakh ka kaksh mila; shesh ₹11 lakh bhavishya me dene ki ghoshna. Status: udghatan (kaam poorna).',
+  },
+  ],
+  'rohit-bohra': [
+  {
+    title: 'Rajakhera me nayi library ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/dholpur/rajakhera/news/rajasthan-mla-rohit-bohra-slams-govt-financial-management-pension-scooty-137033122.html',
+    date: '2026-04 (est.)',
+    note: 'Rajakhera vidhayak Rohit Bohra Rajakhera Vidhan Sabha kshetra me ek nayi library ka udghatan karne pahunche; udghatan ke baad unhone sarkar ke vittiya prabandhan par aarop lagaye. Article ka mukhya focus raajnaitik bayanbaazi hai — library ki lagat/nirmaan-vivaran report me nahi. Status: udghatan. Exact date page par nahi mili (relative "6 mahine pehle").',
+  },
+  ],
 };
