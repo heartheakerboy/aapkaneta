@@ -8668,4 +8668,193 @@ export const upWorks: Record<string, Work[]> = {
     },
   ],
 
+  // ---- Amethi district batch (researched 2026-10-13) ----
+  // NOTE: Sareni (182) aur Unchahar (183) seats officially Raebareli district me hain
+  // (Wikipedia/india.com/ET verify — Raebareli jile ki 5 ACs: Raebareli, Harchandpur,
+  // Bachhrawan, Sareni, Unchahar). Lekin hierarchy JSON + uttar_pradesh.ts me ye
+  // Amethi district me mape hain — parent se district-mapping correction pending.
+  // Entries neta-slug par hain, isliye coverage kharab nahi hogi; jila-sudhar par
+  // inhe Raebareli district batch me bhi dikhaya ja sakta hai.
+
+// ---- mayankeshwar-sharan-singh (Tiloi, BJP; MoS chikitsa shiksha/swasthya) ----
+  'mayankeshwar-sharan-singh': [
+    {
+      title: 'Tiloi me Autonomous State Medical College ke liye vyaktigat sampatti samarpit',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'The Week (PTI), 17 Sep 2025',
+      sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/09/17/des61-up-adityanath-amethi-congress.amp.html',
+      date: '2025-09-17',
+      note: 'CM Yogi Adityanath ne kaha ki Tiloi ke medical college ke liye Mayankeshwar Sharan Singh (MoS chikitsa shiksha, Tiloi MLA) ne apni vyaktigat sampatti (zameen) upalabdh karai. IANS (16 Sep 2025) ke anusaar college Tiloi me ~₹300 crore ki lagat se bana aur usi din 50 MBBS seeton ko manyata mili. Note: college ka shilanyas 2022 me Smriti Irani (tatkaaleen MP) ne kiya tha — wo MP ka karya hai, is entry me MLA ko uska credit nahi diya gaya; MLA ka yogdaan CM ke shabd me vyaktigat sampatti ka samarpan hai. Status: college udghatit, 2025-26 se admission shuru.',
+      period: '2022-2027',
+    },
+  ],
+
+  // ---- ashok-kumar (Salon SC, BJP) ----
+  // RESEARCH TRAIL (2026-10-13): 10+ Hindi+English search rounds (2022-2026) —
+  // 'ashok-kumar'/'अशोक कुमार' + 'ashok-kori'/'अशोक कोरी' (yehi naam ZeeBiz/ANI me
+  // 'MLA Ashok Kori' ke roop me aaya) x udghatan/shilanyas/sadak/paani/school/aspatal/
+  // vidhayak-nidhi. Koi news-verified kaam NAHI mila. REJECTED (weak attribution):
+  // (1) ATP podcast clip (Dec 2025) — self-reported vision/daave ('inter college ki
+  //     sweekriti kahan pahunchi?'), koi poorn ya swikrit karya verify nahi;
+  // (2) Oct 2023 me CM ke Amethi event me maujoodgi (ANI/ZeeBiz) — sirf presence;
+  // (3) land-dispute aarop wala YouTube video (SudarshanUP) — sirf YouTube par, koi
+  //     text reporting nahi; video ke mutaabik mamla court me pending/investigation
+  //     jari — negative entry ke credible-reporting bar par khara nahi;
+  // (4) 2022 jeet ke baad road show (Dainik Bhaskar) — chunaavi event, kaam nahi.
+  // Khaali profile weak attribution se behtar — entries nahi jodi gayin.
+  'ashok-kumar': [],
+
+// MERGE FRAGMENT for src/data/works_up.ts (upWorks record) — coordinator merge karega.
+// Amethi district batch (researched 2026-10-13): Sareni + Unchahar (2 MLAs).
+// IMPORTANT for coordinator: dono seats officially Raebareli district me hain (multiple sources:
+// Sareni = "Sareni constituency of Raebareli district" (Wikipedia); Unchahar = "Unchahar assembly segment
+// that falls under the Raebareli parliamentary seat" (PTI via ThePrint/newsdrum)). Batch label 'Amethi
+// district' parent task ke grouping ke anusaar rakha gaya hai — verify karke sahi district file me merge karein.
+// Dono profiles me koi verified entry nahi mili — khaali arrays + research-trail comments.
+
+  // RESEARCH TRAIL — devendra-pratap-singh (Devendra Pratap Singh, Sareni, SP)
+  // Searches: ~8 (Hindi: "देवेंद्र प्रताप सिंह" सरेनी शिलान्यास/उद्घाटन/विकास/विधायक निधि; alternate spelling
+  // "देवेन्द्र प्रताप सिंह"; "सरेनी विधायक" करोड़ शिलान्यास/लोकार्पण; "विधायक देवेन्द्र प्रताप सिंह ने किया"
+  // रायबरेली; "सरेनी" "विधायक निधि" लोकार्पण रायबरेली; English: "Devendra Pratap Singh" Sareni MLA
+  // inaugurates foundation stone; news vertical included).
+  // Identity confirmed via Wikipedia (Devendra Pratap Singh, UP politician, born 1958) + News18/India Today:
+  // SP, won Sareni 2022 (66,166 votes, margin 3,807) vs Dhirendra Bahadur Singh (BJP); earlier MLA 2002, 2012.
+  // What surfaced: (1) Election-result coverage (News18, India Today, Oneindia) — not works, no entries.
+  // (2) India News UP 'MLA Report Card' YouTube video (ground survey, video-only) — citable works list nahi,
+  // reject. (3) Namesake traps carefully excluded: late BJP MLA Devendra Pratap Singh (Amapur, died 2021,
+  // Kasganj), ex-MLC Devendra Pratap Singh (joined BJP 2015), Raja Devendra Pratap Singh (Chhattisgarh,
+  // RS 2024), BJP MLA Devendra Pratap Singh (digital-attendance letter to CM, Jul 2024) — sab alag vyakti.
+  // (4) Pre-tenure negative: Indian Express (Sep 2012) FIR against SP MLA Devendra Pratap Singh (lawyers'
+  // strike, Rae Bareli, supporters allegedly assaulted bar association president) — 2012, March-2022 tenure
+  // window se bahar, excluded. (5) ourneta.com affidavit listing: no criminal cases as of 2026 (FYI only).
+  // No khula-padhha text news source (news portal article, post-Mar 2022) about his development works found.
+  // Profile kept empty rather than fabricated.
+  'devendra-pratap-singh': [],
+
+  // RESEARCH TRAIL — manoj-kumar-pandey (Manoj Kumar Pandey, Unchahar)
+  // Searches: ~9 (Hindi: "मनोज कुमार पांडेय" ऊंचाहार शिलान्यास/विकास; "मनोज पांडेय" ऊंचाहार विधायक निधि/सड़क;
+  // "ऊंचाहार विधायक" करोड़ शिलान्यास/लोकार्पण; "मंत्री मनोज पांडेय" ऊंचाहार उद्घाटन; "विधायक मनोज पांडेय ने
+  // किया" ऊंचाहार रायबरेली; English: "Manoj Kumar Pandey" Unchahar MLA development works road inauguration;
+  // news vertical included).
+  // Identity + trajectory confirmed via Wikipedia + oneindia + PTI/New Indian Express + TOI: 3-time MLA
+  // Unchahar (2012/2017/2022), cabinet minister in Akhilesh Yadav govt (2012-17), SP chief whip; resigned as
+  // whip + cross-voted in RS polls (Feb 2024); joined BJP at Amit Shah's Raebareli rally (May 2024, TOI);
+  // expelled from SP 23 Jun 2025; sworn as UP cabinet minister in 2026 expansion (Lokmat Times, UP Tak).
+  // NOTE for coordinator: task me '(Unchahar, SP)' label outdated hai — 2024 se BJP, 2026 se cabinet minister;
+  // profile party/post fields update zaroori.
+  // What surfaced (sab politics, koi kaam nahi): (1) chief-whip resignation (New Indian Express, Feb 2024),
+  // (2) RS cross-vote + Ayodhya Ram temple visit (PTI via ThePrint/newsdrum, Feb 2024), (3) BJP joining at
+  // Shah rally (TOI, May 2024), (4) SP expulsion of 3 MLAs incl. him (23 Jun 2025), (5) cabinet-minister oath
+  // (Lokmat Times, UP Tak, 2026). (6) Minister-era items: sirf YouTube par — Bilari (Moradabad) Parshuram
+  // Park lokarpan = constituency ke bahar (minister rule se reject); student-honor event = sirf maujoodgi,
+  // reject. (7) YouTube-only: 2000 kambal vitran (event, not infrastructure; no article source) — reject.
+  // (8) MP-work trap: Smriti Irani ke Raebareli/Salon project inaugurations (Business Standard/ANI) — MP kaam,
+  // rule 2 se excluded (aur waise bhi Salon seat hai, Unchahar nahi).
+  // No khula-padhha text news source (news portal article, post-Mar 2022) about his development works found.
+  // Profile kept empty rather than fabricated.
+  'manoj-kumar-pandey': [],
+
+// Amethi district batch (researched 2026-10-13) — 3 MLAs.
+// Key = neta slug; append into upWorks. All entries: period '2022-2027'.
+// RULE: every entry has a real, opened sourceUrl. Empty is better than unverified.
+
+'suresh-kumar': [
+  {
+    title: 'Jagdishpur me 8 sampark marg (11.70 km) ke nirman ko manzuri — ₹10.63 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, Aug 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/gauriganj/story-road-connectivity-enhancements-in-jagdishpur-11-70-km-of-new-roads-approved-201787745666401.html',
+    date: '2026-08',
+    period: '2022-2027',
+    note: 'Hindi media me inhe "Suresh Pasi" likha gaya hai (jati-upnaam); myneta.info par Jagdishpur (SC) ke BJP vijeta Suresh Kumar (candidate_id 3085) se pehchan verified. Khabar ke anusaar unke "prayas se" 8 sampark margon (Mishrauli-Pure Baba 2.50 km, Ramshahpur-Pure Sai 1.00 km, Mangrauli-Basawan Khan-Pure Gulal 1.55 km, Goongemau-Kadunala 1.20 km, Ankura-Jamuwari 1.70 km, Makdumpur-Kala Budha 1.45 km, Pure Lohar-Matiyawanpur 1.10 km, jila pichhda sampark marg 1.20 km) ke nirman/navnirman ko manzuri mili. Status: manzuri (approval) — nirman shuru hone ki alag khabar nahi mili. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Urair Mau (Bazarshukl) me police chauki ka shilanyas + thana boundary wall ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Shri News 24 (Dainik Aditi News), 25 Oct 2025',
+    sourceUrl: 'https://www.shrinews24.in/2025/10/blog-post_30.html',
+    date: '2025-10-25',
+    period: '2022-2027',
+    note: '25 Oct 2025 ko vidhayak Suresh Pasi (Suresh Kumar) ne Bazarshukl thana ki navnirmit boundary wall ka lokarpan kiya aur Urair Mau me nayi police chauki ka bhoomi poojan/shilanyas kiya (CO Musafirkhana ke saath). Status: boundary wall lokarpan (poora), chauki shilanyas (nirmaan shuru). Source chhota local outlet hai; khabar me SP/ASP ki nigrani ka zikr hai.',
+  },
+  {
+    title: 'Jaudilmau (Shukul Bazar) me Pandit Atal Bihari Vajpayee smriti dwar ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Swatantra Prabhat, Oct 2026',
+    sourceUrl: 'https://www.swatantraprabhat.com/article/190783/pandit-atal-bihari-vajpayee-memorial-gate-inaugurated-by-mla-suresh',
+    date: '2026-10',
+    period: '2022-2027',
+    note: 'Jagdishpur kshetra 184 ke vikas khand Shukul Bazar, gram panchayat Jaudilmau me nirmit smriti dwar ka vidhayak ne feeta katkar udghatan kiya. Prateekatmak karya — buniyadi dhanche (sadak/paani/school/aspataal) se bahar, isliye category Any. Exact date page par nahi mili.',
+  },
+],
+
+'rakesh-pratap-singh': [
+  {
+    title: 'Gauriganj me ₹34 crore ki vishesh marammat wali 50 sadkon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/amethi/news/mla-inaugurated-50-roads-136675433.html',
+    date: '2026-03',
+    period: '2022-2027',
+    note: 'Ye 50 sadken varsh 2024-25 me swikrit hui thin; vishesh marammat poori hone par vidhayak ne Gauriganj dak bangle/PWD guest house me pooja-archana ke baad janta ko samarpit kiya. Adhikansh sadken Musafirkhana block (Matha Bhusunda, Duwariya aadi) ki. Status: lokarpan (kaam poora). Exact date page par nahi mili.',
+  },
+  {
+    title: 'Musafirkhana me Nevada-Pure Pahalwan marg (5.80 km) ka shilanyas — ₹11.37 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Oct 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/amethi/news/construction-of-a-road-worth-rs-1137-crore-started-in-musafirkhana-134924825.html',
+    date: '2025-10',
+    period: '2022-2027',
+    note: 'Rajya sadak nidhi se Nevada se Pure Pahalwan marg ka chaudikaran/sudridhikaran; vidhayak ne vedik mantrochchar ke saath shilanyas kiya. Khabar ke anusaar unke prayas se Yogi sarkar ne pariyojana ko manzuri di. 20+ gaon labhanvit. Status: shilanyas (kaam prarambh). Exact date page par nahi mili.',
+  },
+  {
+    title: '(Negative entry) Gauriganj Kotwali me BJP neta ke pati par hamle ka aarop — FIR darj',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI), 10 May 2023',
+    sourceUrl: 'https://theprint.in/india/sp-mla-supporters-thrash-spouse-of-bjp-candidate-in-amethi-police-station-premises/1566577/',
+    date: '2023-05-10',
+    period: '2022-2027',
+    note: '(Negative entry — dono paksh report me.) Aarop: vidhayak aur samarthakon ne Gauriganj Kotwali me BJP nagar palika adhyaksh ummidvar Rashmi Singh ke pati Deepak Singh ko peeta (viral video). Deepak Singh ki shikayat par vidhayak, unke bhai Umesh aur 12 anyon par IPC 307/323/352/336 me FIR. Vidhayak ka paksh: Deepak Singh ne unhe gaali di, BJP karyakartaon ne unke samarthakon se marpeet ki aur police ne FIR nahi likhi — isliye dharne par baithe the. SP Elamaran: dono taraf se kaarravaai hogi. Status: aarop/FIR — koi nyayik parinaam report me nahi. Lokmat Times (IANS) se bhi corroborated.',
+  },
+],
+
+'maharaji-prajapati': [
+  {
+    title: 'Pindoriya (Amethi) me Jal Jeevan Mission jalapurti yojana ka udghatan — ₹511.52 lakh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Univarta (Varta news agency), 5 Feb 2026',
+    sourceUrl: 'https://www.univarta.com/news/uttar-pradesh/story/3731141.html',
+    date: '2026-02-05',
+    period: '2022-2027',
+    note: 'Vidhayak Maharaji Prajapati ne feeta katkar yojana ka udghatan kiya (jal arpan karyakram ki mukhya atithi). Jal Nigam ke anusaar kul lagat ₹511.52 lakh; 4434 labharthi, 919 gharon me jal sanyojan. Newstrack aur Dainik Bhaskar ne isi karyakram ki khabar di — teen source corroboration. Status: udghatan/shubharambh.',
+  },
+  {
+    title: 'MD Public Junior High School me vidhayak nidhi se bane kamre ka udghatan + 30 bachon ko cycle',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Up Post 24x7 (hyperlocal blog), 27 Jan 2026',
+    sourceUrl: 'https://uppost24news.wordpress.com/2026/01/27/uppost24x7-635/',
+    date: '2026-01-26',
+    period: '2022-2027',
+    note: '26 Jan 2026 ko gantantra diwas karyakram me vidhayak ne vidhayak nidhi se bane kamre ka feeta katkar udghatan kiya aur garib parivaron ke 30 bachon ko cycle baanti. Source chhota hyperlocal WordPress blog hai — daava vishisht hai (vidhayak nidhi kamra) par swatantra corroboration nahi mili.',
+  },
+  {
+    title: '1010 vikas karyon ka daava — vidhayak nidhi se sadak, light, handpump (interview daava)',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar (interview), May 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/amethi/news/amethi-vidhayak-maharaji-prajapati-development-work-claim-137496969.html',
+    date: '2026-05',
+    period: '2022-2027',
+    note: 'Bhaskar interview me vidhayak ka daava: karyakal me 1010 vikas karya karaye; vidhayak nidhi se sadak nirman, light, handpump lage; sabse badi bachi zaroorat — bada aspataal. Ye swayam-daava hai, swatantra satyapan nahi — isliye badge dawa. Exact date page par nahi mili.',
+  },
+],
 };
