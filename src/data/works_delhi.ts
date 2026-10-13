@@ -1104,3 +1104,191 @@ delhiWorks['ram-singh-netaji'] = [
 ];
 
 delhiWorks['amanatullah-khan'] = [];
+
+// ---- South-West district batch (researched 2026-10-13) ----
+// South-West district batch 1 (researched 2026-10-13): Vikaspuri AC-31, Uttam Nagar AC-32, Dwarka AC-33, Matiala AC-34.
+// Rule note: sirf 8DVS series ke NAYE sanctions (Feb 2025 ke baad). 7DVS/6DVS/IDVS/SDVS purane sanctions ki kistein (final installments) current MLA ka kaam nahi — sab reject kiye gaye.
+
+delhiWorks['pankaj-kumar-singh'] = [
+{
+    title: 'Baprola gaon se Harphool Vihar tak sadak ke nirman karya ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hawk (IANS), 22 Jun 2026',
+    sourceUrl: 'https://www.thehawk.in/news/india/delhi-transport-minister-vows-infra-green-push-in-vikaspuri',
+    date: '2026-06-22',
+    note: 'Vikaspuri ke MLA Pankaj Kumar Singh ne Baprola gaon se Harphool Vihar tak lambi arse se pending sadak ke nirman karya ka udghatan/shubharambh kiya — kharab sadak se yatayat me pareshani ho rahi thi, khaas taur par school jaane wale bachchon ko. Do schools ka mahatvapoorn link; lagbhag 3000-3500 school bachchon aur Baprola, G-2 Jai Vihar, Prashant Enclave, Bajrang Chowk, Harphool Vihar ke nivaasiyon ko fayda bataya gaya. Status: shubharambh — nirman karya shuru, purnata ki alag khabar nahi mili. Caveat: IANS wire story ka republication hai (thehawk.in); swatantra ground-reporting patli hai. Neta mantri bhi hain par kaam unke apne chunav kshetra (Vikaspuri AC-31) ka hai, isliye shamil hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Vikaspuri me 150 street sign boards lagane ke liye 38.03 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 22 Jul 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-31_12392-12406_22-07-2025.pdf',
+    date: '2025-07-22',
+    note: 'F.18B(607)/AC-31/8DVS/UD/MLALADS/2025-26, dinank 22/07/2025: A/A Rs. 38.03 lakh; first installment Rs. 3.80 lakh I&FC ko — "Providing and Fixing of Street Sign Boards at Various Location of Vikaspuri Assembly Constituency AC-31 in Distt. West. (Balaji Road 50 Nos, Kotla Vihar Phase-2 50 Nos. and Kunwar Singh Nagar 50 Nos.)", UID 8DVS/0135/120, Work ID AC-31/2025-26/08, "MLA Sh. Pankaj Kumar Singh" ke liye. Naya 8DVS sanction hai (koi "in continuation of" nahi). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+// Pawan Sharma (Uttam Nagar AC-32) — koi eligible entry nahi mili.
+delhiWorks['pawan-sharma'] = [];
+// reason: UDD site par AC-32 ke 8DVS series me Feb 2025 ke baad ka koi naya sanction nahi mila — sab "in continuation of" purane 7DVS/IDVS sanctions ke final installments hain (ac-32_12459-12472_22-07-2025.pdf: 7DVS dated 03/09/2024 ka Rs. 13.67 lakh final installment; ac32_15344-15357_01-10-25.pdf: IDVS dated 03/09/2024 ka Rs. 17.70 lakh final installment) — rules ke tahat current MLA ka kaam nahi. Koi vikas-kary ki news article bhi nahi mili. Khaali profile rakha gaya.
+
+delhiWorks['parduymn-singh-rajput'] = [
+{
+    title: 'Dwarka me Ward 119 Mangla Puri me LED street lights ke liye 4.02 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 16 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-33_16265-16281_16-10-2025.pdf',
+    date: '2025-10-16',
+    note: 'F.18B(609)/AC-33/8DVS/UD/MLALADS/2025-26, dinank 16/10/2025: A/A Rs. 4.02 lakh; first installment Rs. 0.40 lakh MCD ko — "Provision of LED Street lights on existing pole in Ward No 119 ManglaPuri in AC-33 Dwarka under Najafgarh Zone", UID 8DVS/0135/349, Work ID AC-33/2025-26/05, "MLA Sh. Parduymn Rajput" ke liye. Naya 8DVS sanction hai (koi "in continuation of" nahi). Note: PDF me naam "Parduvmn Rainut" chhapa hai (OCR/galati), profile slug parduymn-singh-rajput. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Dwarka me Ward 117 Dabri me LED street lights ke liye 4.06 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 14 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-33_16248-16264_16-10-2025.pdf',
+    date: '2025-10-14',
+    note: 'F.18B(609)/AC-33/8DVS/UD/MLALADS/2025-26, dinank 14/10/2025: A/A Rs. 4.06 lakh; first installment Rs. 0.40 lakh MCD ko — "Provision and Installation of LED Street Lights on existing poles in Ward No-117, Dabri under Dwarka Assembly Constituency (AC-33) under Najafgarh Zone", UID 8DVS/0135/36(x), Work ID AC-33/2025-26/06, "MLA Sh. Parduymn Rajput" ke liye. Naya 8DVS sanction hai (koi "in continuation of" nahi). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['sandeep-sehrawat'] = [
+{
+    title: 'Matiala me Nangli gaon me lane-drain sudhar ke liye 34.72 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-34_15829-15845_09-10-2025.pdf',
+    date: '2025-10-09',
+    note: 'F.18B(610)/AC-34/8DVS/UD/MLALADS/2025-26, dinank 09/10/2025: A/A Rs. 34.72 lakh; first installment Rs. 3.47 lakh MCD ko — "Improvement/Development of lane and drain by Pdg. B/w. 12mm Cement Plaster, B.agg, RMC etc. from Khasra No. 14/25/1 to Khasra No. 14/23/2 in Nangali Village Ward No. 124 Nangli Sakrawati/NGZ", UID 8DVS/0135/327, Work ID AC-34/2025-26/11, "MLA Sh. Sandeep Sehrawat" ke liye. Naya 8DVS sanction hai (koi "in continuation of" nahi). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+// Delhi South-West district batch W2 (researched 2026-10-13).
+// neelam-pahalwan (Najafgarh AC-35), kailash-gahlot (Bijwasan AC-36), kuldeep-solanki (Palam AC-37).
+// Teenon BJP, 8th Vidhan Sabha (Feb 2025-).
+// Key = neta slug, value = Work[] entries. Neutral, source-cited entries only.
+//
+// Sabhi entries UDD MLALAD NEW-sanction orders (8DVS series) — har PDF kholkar
+// F.No/header me 8DVS, date, amount, Work ID aur copy-to me MLA ka naam verify kiya gaya.
+// "In continuation of 7DVS/6DVS/1DVS/SDVS" wale final-installment / cost-enhancement orders
+// sabhi reject kiye gaye (purane sanctions ki kistein current MLA ka kaam nahi).
+// Kailash Gahlot ke AAP-mantri kaal (Feb 2025 se pehle) ke kaam tenure rule par liye hi nahi gaye.
+//
+// REJECT SUMMARY:
+// - neelam-pahalwan (2 entries): 3 orders reject — (a) 19-11-2025 wala 7DVS-continuation
+//   final installment Rs. 4.60L (Dhansa village shamshan-ghat renovation, 2022 ka sanction,
+//   Work ID AC-35/2022-23/19); (b) 28-10-2025 wala 1DVS-continuation final installment Rs. 4.23L
+//   (Najafgarh open gym, 2021-22 ka sanction, Work ID AC-35/2021-22/07); (c) 28-10-2025 wala
+//   1DVS-continuation final installment Rs. 21.93L (Issapur village water pipeline, Dec 2024 ka
+//   sanction, Work ID AC-35/2024-25/04). Livemint ki "Najafgarh ko Nahargarh rename" khabar —
+//   Assembly me proposal/maang hai, vikas-kaam nahi — reject.
+// - kailash-gahlot (0 entries): AC-36 ke sirf 2 orders mile — 24-09-2025 wala 7DVS-continuation
+//   final installment Rs. 23.45L (Bijwasan solar lights, Work ID AC-36/2024-25/77) aur
+//   27-08-2025 wala 7DVS-continuation cost-enhancement (4 Jan Suvidha Complexes, Work IDs
+//   AC-36/2024-25/73-76) — 8DVS rule par dono reject. Koi 8DVS NEW sanction Google/UDD par nahi
+//   mila (4 alag searches). News me post-Feb 2025 ka koi kshetra-kaam nahi: Delhi-Gurugram
+//   highway inspection minister Manjinder Singh Sirsa ke netritva me thi, MLA sirf maujood the
+//   (weak attribution — reject); election-time water-crisis criticism political hai, kaam nahi.
+//   Purane AAP-mantri kaal ke kaam tenure rule se bahar. Khali profile weak attribution se behtar.
+// - kuldeep-solanki (6 entries): koi order reject nahi hua. News me post-Feb 2025 ka koi
+//   qualifying kshetra-kaam nahi mila.
+
+delhiWorks['neelam-pahalwan'] = [
+  {
+    title: 'Dichaon Village aur aaspaas ke dark spots par lighting arrangement ke liye 9.73 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 16 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-35_16232-16247_16-10-2025.pdf',
+    date: '2025-10-16',
+    note: 'F.18B(611)/AC-35/8DVS/UD/MLALADS/2025-26: "NEW SANCTION" — "in continuation" clause nahi hai. A/A Rs. 9.73 lakh; first installment Rs. 0.97 lakh MCD ko — "Provision of lighting arrangement at dark spots in various locations of Dichaon Village and allied area in ward no 128 under Najafgarh Zone", Work ID AC-35/2025-26/01, U.ID 8DVS/0135/350. Copy-to me "Hon\'ble MLA Smt Neelam Pahalwan" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Dichaon Kalan me lane ki RMC sadak aur drain ke vikas ke liye 70.22 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 19 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-35_17187-17203_19-11-2025.pdf',
+    date: '2025-11-19',
+    note: 'F.18B(611)/AC-35/8DVS/UD/MLALADS/2025-26: "NEW SANCTION" — "in continuation" clause nahi hai. A/A Rs. 70.22 lakh; first installment Rs. 7.02 lakh MCD ko — "Development of Dichaon Kalan SH: Imp./Dev. of lane by Pdg RMC and Drain from Mahavir House to Balwan near main Dichaon Road in Dichaon Kalan Village in Ward No. 128/NGZ (AC-35)", Work ID AC-35/2025-26/02, U.ID 8DVS/0135/415. Copy-to me "Hon\'ble MLA Smt Neelam Pahalwan". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+// reason: AC-36 (Bijwasan) ke 2025-26 me koi 8DVS NEW sanction order nahi mila — sirf 2 orders
+// mile aur dono "in continuation of 7DVS" (final installment / cost-enhancement) par reject hue.
+// Post-Feb 2025 ka koi qualifying kshetra-kaam (news/sarkari) nahi mila; AAP-mantri kaal ke
+// kaam tenure rule se bahar. Khali profile weak attribution se behtar.
+delhiWorks['kailash-gahlot'] = [];
+
+delhiWorks['kuldeep-solanki'] = [
+  {
+    title: 'Palam Flyover-Health Center ke park ki boundary wall aur 10 parkon/3 water bodies me 85 benches ke liye 25.71 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 12 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_37_3307-3317_12-08-2025.pdf',
+    date: '2025-08-12',
+    note: 'F.18B(605)/AC-37/8DVS/UD/MLALADS/2025-26: "NEW SANCTION" — "in continuation" clause nahi hai. A/A Rs. 25.71 lakh; first installment Rs. 2.56 lakh MCD ko — (1) "Improvement/Development of damaged Boundary Wall of Park by Brick Work, MS Grills, Grit Wash etc. near Palam Flyover and Health Center in AC-37 Palam in Ward No. 135 Palam NGZ" Rs. 16.59 lakh, Work ID AC-37/2025-26/07, U.ID 8DVS/3670/388; (2) "Providing and Placing of precast RCC Benches (Chair Bench with back rest 50 Nos) and providing and fixing Victorian type Garden Benches of approved design having both side arms made of moulded single piece cast Iron (35 Nos) in 10 No. of Parks and 3 Nos Water Bodies in Palam Village, Puran Nagar, Raj Nagar Part II, Harijan Basti Palam Village in AC-37 in Ward No. 135 Palam NGZ" Rs. 9.12 lakh, Work ID AC-37/2025-26/08, U.ID 8DVS/3670/389. Copy-to me "Sh. Kuldeep Solanki, Hon\'ble MLA AC-37, Palam Assembly Constituency". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Dwarka Sec-7 me Late Flight Lt. Sunit Mohanti Memorial park ki boundary wall ke vikas ke liye 16.45 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 18 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_37_4432-4442_18-09-2025.pdf',
+    date: '2025-09-18',
+    note: 'F.18B(605)/AC-37/8DVS/UD/MLALADS/2025-26: "NEW SANCTION". A/A Rs. 16.45 lakh; first installment Rs. 1.64 lakh MCD ko — "Improvement/Development of Damaged boundary wall of Late Flight Lt. Sunit Mohanti Memorial park by providing fixing MS Grill, Brick work, steel work, Grit wash etc in Dwarka Sec-7 in AC-37 Palam Ward 135/NGZ", Work ID AC-37/2025-26/10, U.ID 8DVS/3670/456. Copy-to me "Sh. Kuldeep Solanki, Hon\'ble MLA AC-37, Palam Assembly Constituency". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'NPSC CGHS Palam me EPDM flooring aur 2 gym equipments ke liye 7.85 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 24 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_37_4652-4662_24-09-20252.pdf',
+    date: '2025-09-24',
+    note: 'F.18B(605)/AC-37/8DVS/UD/MLALADS/2025-26: "NEW SANCTION". A/A Rs. 7.85 lakh; first installment Rs. 0.78 lakh I&FC ko — "Providing and Laying EPDM flooring and 2 nos. Gym equipments at NPSC CGHS in Palam AC-37", Work ID AC-37/2025-26/11, U.ID 8DVS/3670/469. Copy-to me "Sh. Kuldeep Solanki, Hon\'ble MLA AC-37, Palam Assembly Constituency". Caveat: lagbhag same kaam (NPSC CGHS me EPDM flooring + 2 gym equipments, Rs. 7.85 lakh) 30-09-2025 ke order me bhi swikrit hai (Work ID AC-37/2025-26/12, U.ID 8DVS/3670/540) — dohra sanction lagta hai; koi bhi order radd/supersede ka ullekh nahi karta, isliye dono orders ko alag entries me darj kiya gaya hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Palam ki 14 CGHS societies me 80 benches, 5 auto broom barriers, EPDM flooring aur gym equipments ke liye 31.85 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 30 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_37_5114-5124_30-09-2025.pdf',
+    date: '2025-09-30',
+    note: 'F.18B(605)/AC-37/8DVS/UD/MLALADS/2025-26/5114-5124: "NEW SANCTION". A/A Rs. 31.85 lakh; first installment Rs. 3.18 lakh I&FC ko — (1) "Providing and laying EPDM flooring and 2 nos Gym equipments at NPSC CGHS in Palam AC-37" Rs. 7.85 lakh, Work ID AC-37/2025-26/12, U.ID 8DVS/3670/540; (2) "providing and placing 50 nos SS benches, 30 nos RCC benches and 5 automatic broom barriers in Air force and Naval officers CGHS Ltd, The Rafi Ahmed Kidwai CGHS Ltd., Satisar CGHS, Sec-7 Pkt-2, NPSC CGHS, St. Anns CGHS, The Brahma CGHS, Evergreen CGHS, Sargodha Vihar CGHS, Rashi CGHS, Kamal Vihar CGHS, Sec-1 Pkt-1, Sec-7 Pkt-2 and Pkt-13 in Palam Constituency AC-37" Rs. 24 lakh, Work ID AC-37/2025-26/13, U.ID 8DVS/3670/541. Copy-to me "Sh. Kuldeep Solanki, Hon\'ble MLA AC-37, Palam Assembly Constituency". Caveat: kaam (1) lagbhag same hai jo 24-09-2025 ke order me bhi swikrit hai (Work ID AC-37/2025-26/11, U.ID 8DVS/3670/469) — dohra sanction lagta hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Palam ki 4 CGHS societies me EPDM flooring aur children swings ke liye 35.45 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 28 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_37_9559-9569_28-11-2025.pdf',
+    date: '2025-11-28',
+    note: 'F.18B(605)/AC-37/8DVS/UD/MLALADS/2025-26: "NEW SANCTION". A/A Rs. 35.45 lakh; first installment Rs. 3.54 lakh I&FC ko — "Providing and laying EPDM flooring and children swing in Mahalaxmi CGHS Ltd., Satisar CGHS Ltd., Evergreen CGHS Ltd. and Rashi CGHS Ltd. in Palam Assembly Constituency (AC-37)", Work ID AC-37/2025-26/16, U.ID 8DVS/3670/651. Copy-to me "Kuldeep Solanki, Hon\'ble MLA AC-37, Palam Assembly Constituency". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sadh Nagar ward 138 ke parkon/schools/market me 87 benches ke liye 9.07 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 28 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_37_9548-9558_28-11-2025.pdf',
+    date: '2025-11-28',
+    note: 'F.18B(605)/AC-37/8DVS/UD/MLALADS/2025-26: "NEW SANCTION". A/A Rs. 9.07 lakh; first installment Rs. 0.90 lakh MCD ko — "Providing and Placing of precast RCC benches (chair bench with back rest 55 nos) and providing and fixing Victorian type garden benches of approved design having both side arms made of moulded single piece cast iron (32 nos) in Sadh Nagar, Kailash Puri, different parks, schools and market etc. in AC-37 ward no. 138 Sadh Nagar NGZ", Work ID AC-37/2025-26/15, U.ID 8DVS/3670/390. Copy-to me "Sh. Kuldeep Solanki, Hon\'ble MLA AC-37, Palam Assembly Constituency". Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
