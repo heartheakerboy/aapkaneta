@@ -283,3 +283,147 @@ delhiWorks['arvinder-singh-lovely'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- New Delhi district batch (researched 2026-10-13) ----
+delhiWorks['virender-singh-kadian'] = [
+{
+    title: 'Delhi Cantt me electrically-operated 4-brush road sweeping machine ke liye 52.34 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 28 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_38_6022-6033_28-10-2025.pdf',
+    date: '2025-10-28',
+    note: 'F.18B(606)/AC-38/8DVS/UD/MLALADS/2025-26: A/A Rs. 52.34 lakh; first installment Rs. 5.23 lakh PWD ko — "SITC of Ride on One (01) Nos. of Type Electrically Operated 04 Brush Road Sweeping Machine for Delhi Cantt Assembly Constituency (AC-38)", Work ID AC-38/2025-26/02, U.ID 3670/604. Order "Sh. Virender Singh Kadian, Honble MLA, AC-38" ko suchanaarth. Status: swikrit (A/A + pehli kisht) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Delhi Cantt me CNG mechanical road sweeper aur Yashwant Place sarkari daftar ki marammat ke liye 128.30 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 28 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_38_9444-9454_28-11-2025.pdf',
+    date: '2025-11-28',
+    note: 'F.18B(606)/AC-38/8DVS/UD/MLALADS/2025-26: kul A/A Rs. 128.30 lakh; first installment Rs. 12.83 lakh NDMC ko — (1) "Procurement, supplying, testing & commissioning of 01 nos. CNG Operated new Mechanical Road Sweepers (MLA Fund Work)", Work ID AC-38/2025-26/03 (est. Rs. 128.40 lakh, revised Rs. 122.40 lakh); (2) "Repairing and renovation of Govt. Office at Yashwant Place Complex, Chanakyapuri, New Delhi", Work ID AC-38/2025-26/04 (est. Rs. 5.92 lakh, revised Rs. 5.90 lakh). Order "Sh. Virender Singh Kadian, Honble MLA, AC-38" ko suchanaarth. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Delhi Cantt me Army kshetra ke 2 porta cabinon ke liye 19.48 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_38_9878-9888_09-12-2025.pdf',
+    date: '2025-12-09',
+    note: 'F.18B(606)/AC-38/8DVS/UD/MLALADS/2025-26 (kul A/A Rs. 28.94 lakh, first installment Rs. 2.88 lakh DUSIB ko): (1) "Construction of Porta cabin in 629 transport company Residential area of Army in Delhi Cantt Assembly constituency AC(38)", Work ID AC-38/2025-26/05 (revised Rs. 9.74 lakh); (2) "Construction of Porta cabin near 422 Field Hospital in Delhi Cantt Assembly constituency AC(38)", Work ID AC-38/2025-26/07 (revised Rs. 9.74 lakh). Order "Sh. Virender Singh Kadian, Honble MLA, AC-38" ko suchanaarth. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Delhi Cantt me Shekhawati Lines Gate No.1 ke paas RMC paving ke liye 9.46 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_38_9878-9888_09-12-2025.pdf',
+    date: '2025-12-09',
+    note: 'Usi MLALAD aadesh (F.18B(606)/AC-38/8DVS/UD/MLALADS/2025-26) me Kaam 3: "Providing RMC paving near Shekhawati lines near Gate No.1 in Delhi Cantt", Work ID AC-38/2025-26/06 (est. Rs. 9.83 lakh, revised Rs. 9.46 lakh) — kul 3-karyon ke package (Rs. 28.94 lakh) ka hissa, first installment DUSIB ko jaari. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Moti Bagh ke D-Block, P&T Quarters me badminton court ke liye 12.82 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 16 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_38_10089-10099_16-12-2025.pdf',
+    date: '2025-12-16',
+    note: 'F.18B(606)/AC-38/8DVS/UD/MLALADS/2025-26: A/A Rs. 12.82 lakh (est. Rs. 12.98 lakh); first installment Rs. 1.28 lakh NDMC ko — "Construction of Badminton Court at D-Block, P&T Qtr and North West under Moti Bagh", Work ID AC-38/2025-26/09, U.ID 3670/662. Order "Sh. Virender Singh Kadian, Honble MLA, AC-38" ko suchanaarth. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  }
+];
+
+delhiWorks['anil-kumar-sharma-delhi'] = [
+{
+    title: 'R.K. Puram me 120 sthanon par LED street-light fittings ke liye 4.83 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD first-sanction order), 9 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_44_9867-9877_09-12-2025.pdf',
+    date: '2025-12-09',
+    note: 'F.18B(612)/AC-44/8DVS/UD/MLALADS/2025-26 (FIRST SANCTION): A/A & E/S Rs. 4.83 lakh (est. Rs. 4.92 lakh); first installment Rs. 0.48 lakh MCD ko — "Provision of LED street light fittings on the existing poles at various locations in R.K. Puram Assembly", Work ID AC-44/2025-26/07, U.ID 013670; order me 120 sthanon ki suchi sanlagn (RK Puram Sector-1 se 12, Vasant Vihar, Vasant Enclave aadi). Order "Honble MLA Sh. Anil Kumar Sharma (AC-44)" ko suchanaarth. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  }
+];
+delhiWorks['pravesh-ratn'] = [
+{
+    title: 'Patel Nagar ke 4 parkon me SS benches ke liye 14.25 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 19 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-24_17204-17218_19-11-2025.pdf',
+    date: '2025-11-19',
+    note: 'F.18B(600)/AC-24/8DVS/UD/MLALADS/2025-26/17204-17218: A/A Rs. 14.25 lakh; first installment Rs. 1.42 lakh I&FC ko — "Supply of SS benches for 4 different park in Patel Nagar Assembly Constituency - 24", Work ID AC-24/2025-26/01, U.ID 8DVS/0135/07. Order me "MLA Sh. Pravesh Ratan" aur copy-to list me "Honble MLA Shri Pravesh Ratn" ka naam. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Prem Nagar Gali No. 21 me drainage aur sadak nirman karya ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Swatantra Prabhat, 15 Jan 2026',
+    sourceUrl: 'https://www.swatantraprabhat.com/article/166104/patel-nagar-mla-pravesh-ratna-increased-the-pace-of-development',
+    date: '2026-01-15',
+    note: 'Prem Nagar Gali No. 21 me drainage aur sadak nirman karya ka udghatan — vidhayak Pravesh Ratn ne nigam parshad Kavita Chauhan, sthaniya nivasion aur vibhagiya adhikariyon ke saath narial todkar shubharambh kiya; article ke anusaar "varshon se tooti sadak-sewer se log pareshan" the. Status: shubharambh — nirman shuru, purnata ki alag khabar nahi mili. Caveat: chhote Hindi portal ki report; page par prakashan tithi nahi dikhi — tithi search-index ke "Last Updated" (271 din pehle) se li gayi hai, jo isi site ke doosre article par in-page prakashan tithi se exact match karti hai.',
+    period: '2025-2030',
+  },
+  {
+    title: '20-number road ke nirman karya ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Swatantra Prabhat, 21 Feb 2026',
+    sourceUrl: 'https://www.swatantraprabhat.com/article/170730/patel-nagar-mla-pravesh-ratan-completes-one-year-tenure',
+    date: '2026-02-21',
+    note: 'Ek-varsh-karyakal wali report ke anusaar vidhayak Pravesh Ratn ne "20 number road ka udghatan" karke janta ko samarpit kiya — "jald road bankar taiyaar ho jayegi". Status: udghatan/shubharambh — purnata ki alag khabar nahi mili. Caveat: article PR-style roundup hai ("saikdon udghatan" jaise aggregate daave verify nahi ho sakte); sirf specific 20-number road event liya gaya hai.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['umang-bajaj'] = [
+{
+    title: 'Rajinder Nagar me saal-bhar ka anaemia-mukt abhiyan — har Ravivar muft health camp',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Daily Pioneer, 21 Aug 2026',
+    sourceUrl: 'https://dailypioneer.com/news/rajendra-nagar-mla-launches-year-long-anaemia-free-campaign-under-sabka-swasthya-initiative',
+    date: '2026-08-21',
+    note: 'MLA Umang Bajaj ke netritva me "Sabka Swasthya" ke tahat Rajinder Nagar me ek saal ka anaemia-roktham abhiyan — Dr. Archana Bajaj, Apollo medical staff aur Rotary Club of Delhi West Metro ke saath. Har Ravivar alag-alag kshetron me muft health camp (52 hafte, follow-up sahit); mahilaon-bachchon par focus; lakshya 10-11 mahine me 10,000 mahilayen. Muft haemoglobin/blood test, BP-sugar jaanch, ECG, eye exam, dawaiyan, chashme, deworming. Status: abhiyan shuru (ongoing) — neta ki vyaktigat pehel, sarkari yojana nahi.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['shikha-roy'] = [
+{
+    title: 'GK-I, Sant Nagar aur Panchsheel Enclave me back lane, RMC sadak aur park boundary wall ke 5 karyon ke liye 24.47 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_50_2984-2994_04-08-2025.pdf',
+    date: '2025-08-04',
+    note: 'F.18B(618)/AC-50/8DVS/UD/MLALADS/2025-26 (8th Vidhan Sabha ka naya sanction, purane 7DVS karyon ki kisht nahi): A/A Rs. 24.47 lakh; first installment Rs. 2.42 lakh MCD ko Greater Kailash AC-50 ke liye. 5 kaam (Work ID AC-50/2025-26/01 se /05, sabhi Ward 173, GK-I South Zone): (1) H.No. B-260 se B-264 GK-I tak back lane me cement concrete (Rs. 2.69 lakh, /01); (2) Sant Nagar GK-I me H.No. 243 ke paas park ki boundary wall ka sudhar/vikas (Rs. 2.71 lakh, /02); (3) H.No. N-1 se N-118 GK-I tak RMC se sadak nirman/sudhar (Rs. 13.06 lakh, /03); (4) Panchsheel Enclave me A-1/35 ke paas park ke sath side berm me cement concrete (Rs. 3.46 lakh, /04); (5) H.No. E-51 se E-53 GK Enclave-I tak back lane me cement concrete (Rs. 2.55 lakh, /05). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Greater Kailash ke liye MCD Horticulture vibhag ko 1 tipper truck ki kharid ke liye 24.74 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 3 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_50_9702-9712_03-12-2025.pdf',
+    date: '2025-12-03',
+    note: 'F.18B(618)/AC-50/8DVS/UD/MLALADS/2025-26 (naya sanction): A/A Rs. 24.74 lakh; first installment Rs. 2.47 lakh MCD ko — "Procurement of 01 Nos. Tipper Truck for the department of Horticulture of MCD for Greater Kailash Constituency (AC-50)", Work ID AC-50/2025-26/09. Order suchnaarth "Ms. Shikha Roy, Honble MLA Greater Kailash" ko bheja gaya. Status: swikrit — kharid/supurdagi baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Apne awas-karyalaya ko "Jan Seva Kendra" banaya — shikayat-niwaran ke liye shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'IANS (Hindi wire), 3 Aug 2025',
+    sourceUrl: 'https://hindi.ianslive.in/delhi-mein-bjp-vidhayak-ki-nayi-pahal-daftar-ko-banaya-jan-seva-kendra-cm-rekha-ne-ki-tareef--20250803145212',
+    date: '2025-08-03',
+    note: 'Shikha Roy ne apne awas/karyalaya ko "Jan Seva Kendra" naam diya, jahan kshetra ke logon ki shikayaton ka samadhan hoga; udghatan CM Rekha Gupta ne kiya (MP Bansuri Swaraj maujood). Yeh unki apni pahal hai — sirf maujoodgi nahi. Status: shubharambh — yeh nirman-karya nahi, seva-kendra pahal hai; iske prabhav/karyapranali ki swatantra sameeksha nahi mili.',
+    period: '2025-2030',
+  },
+];
