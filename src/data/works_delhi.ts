@@ -753,3 +753,81 @@ delhiWorks['rekha-gupta'] = [
 ];
 delhiWorks['tilak-ram-gupta'] = [
 ];
+// ---- Shahdara district batch (researched 2026-10-13) ----
+
+delhiWorks['om-prakash-sharma'] = [
+];
+
+delhiWorks['sanjay-goyal'] = [
+{
+    title: 'Shahdara ke Bihari Colony, Bholanath Nagar aur Old Seemapuri me 12 sadak/drain karyon ke liye 2.24 crore ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 25 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_62_4806-4816_25-9-2025.pdf',
+    date: '2025-09-25',
+    note: 'F.18B(630)/AC-62/8DVS/UD/MLALADS/2025-26/4806-4816: NEW Sanction (8DVS verify) — A/A & E/S Rs. 223.84 lakh; first installment 10% = Rs. 22.33 lakh MCD ko — 12 naye kaam (Work IDs AC-62/2025-26/09 se /20, U.ID 8DVS/3670/474 se /485): Bihari Colony ki galiyan (Gali 11/8/6/7/1, MCD parking link, W-215 Shahdara South Zone), Vats Medical se Rama General tak link galiyan, Bholanath Nagar (RadhaKrishan Mandir se P-40, Shri Ram Colony, Babu Ram School Road, Chhota Bazar, Tejab Mill/Railway parcel road), Old Seemapuri me RMC sadak+drain+culvert (H.No. D-266/D-279, H-1 se Govt School, J-76/J-100, D-205/D-278, B-289/B-348 — Ward 217 Dilshad Colony, North Zone), Vivek Vihar Phase-2 B-Block boundary wall (Ward 216), Jhilmil A-Block brick-work sadak aur Pratap Khand RMC sadak. Order ki copy "Sh. Sanjay Goyal, Hon\'ble MLA Shahdara Assy. Constituency (AC-62)" ko. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+{
+    title: 'Shahdara AC-62 me LED street lights ke liye 27.76 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 9 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_62_9856-9866_09-12-2025.pdf',
+    date: '2025-12-09',
+    note: 'F.18B(630)/AC-62/8DVS/UD/MLALADS/2025-26/9856-9866: NEW Sanction (8DVS verify) — A/A & E/S Rs. 27.76 lakh; first installment 10% = Rs. 2.72 lakh MCD (EE(E)-1, Shahdara North Zone) ko — 2 naye kaam: (1) various locations par proper illumination ke liye lights, Work ID AC-62/2025-26/23, U.ID 8DVS/3670/652 (est. Rs. 20.51 lakh); (2) existing poles par LED street lights, Work ID AC-62/2025-26/24, U.ID 8DVS/3670/653 (est. Rs. 7.25 lakh). Order ki copy "Sh. Sanjay Goyal, Hon\'ble MLA Shahdara (AC-62)" ko. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['veer-singh-dhingan'] = [
+{
+    title: 'Seemapuri me Dilshad Garden market, Dilshad Colony sadak aur Sunder Nagri park ke liye 1.88 crore ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 10 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_63_5423-5433_10-10-2025.pdf',
+    date: '2025-10-10',
+    note: 'F.18B(631)/AC-63/8DVS/UD/MLALADS/2025-26/5423-5433: NEW Sanction (8DVS verify) — A/A & E/S Rs. 188.05 lakh; first installment 10% = Rs. 18.79 lakh MCD ko — 5 naye kaam (Work IDs AC-63/2025-26/01 se /05, U.ID 8DVS/3670/596 se /600): (1) C-Block Dilshad Garden DDA market ka vikas (brick work, kota stone, plumbing items) — Rs. 38.40 lakh; (2) 2142 Janata Flat compound ka vikas (RMC) — Rs. 18.85 lakh; (3) Dilshad Colony me H.No. D-49 se D-1 tak sadak aur drain (brick work, RMC) — Rs. 91.43 lakh; (4) Sunder Nagri me K-Block staff quarter aur K-Pocket park ki boundary wall (brick work, paver block) — Rs. 22.50 lakh; (5) Sunder Nagri L-Block park ka vikas (brick work, paver block) — Rs. 16.87 lakh. Ward 219 (Dilshad Garden) aur Ward 218 (Sunder Nagri), Shahdara (N) Zone. Order ki copy "Sh. Veer Singh Dhingan, Hon\'ble MLA (AC-63)" ko. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+{
+    title: 'Seemapuri me Dilshad Garden GTB Enclave ki galiyon ke liye 1.47 crore ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 24 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_63_5811-5822_24-10-2025.pdf',
+    date: '2025-10-24',
+    note: 'F.18B(631)/AC-63/8DVS/UD/MLALADS/2025-26/5811-5822: NEW Sanction (8DVS verify) — A/A & E/S Rs. 147.11 lakh; first installment 10% = Rs. 14.70 lakh MCD ko — 3 naye kaam (U.ID 8DVS/3670/612, /613, /614): (1) Pocket A, Dilshad Garden GTB Enclave me flat nos 3A/6A/12A/47A/17S/245A/28A/58A ke paas internal lanes aur open spaces ka vikas — Rs. 73.52 lakh; (2) Pocket A me flat nos 65A/69A/90A/97A/4A/139A ke paas internal lanes — Rs. 44.65 lakh; (3) Ayyapa Mandir ke paas RMC sadak, Dilshad Garden — Rs. 28.94 lakh. Ward 219, Shahdara (N) Zone. Order ki copy "Sh. Veer Singh Dhingan, Hon\'ble MLA (AC-63)" ko. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+
+
+delhiWorks['jitender-mahajan'] = [
+{
+    title: 'Rohtas Nagar me 8 crore ke vikas kamon ke liye fund jari (5 cr MLA nidhi + 3 cr CM fund)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 28 Oct 2025',
+    sourceUrl: 'https://www.jagran.com/delhi/new-delhi-city-rohtas-nagar-development-8-crore-rupees-for-infrastructure-projects-40021922.html',
+    date: '2025-10-28',
+    note: 'Vidhayak Jitendra Mahajan ke bayan ke anusaar Delhi sarkar ne Rohtas Nagar ke liye Rs. 5 crore (MLA nidhi) + Rs. 3 crore (CM fund) ke fund jari kiye — Mandoli Road aur Budh Bazar Road ka nirman, galiyon ki marammat, DJB ki sewer aur water pipelines. Status: fund-release ki ghoshna — MLA ke anusaar "jald hi vikas kary shuru ho jayenge"; karyanwayan/udghatan ki alag khabar nahi mili. Caveat: fund jari hone ki jankari MLA ke bayan par aadharit hai; tithi jagran.com ke in-page "Published: Tue, 28 Oct 2025" se.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['gopal-rai'] = [
+{
+    title: 'Subhash Mohalla (Ward 233) me 12 gali-sadak-parking kamon ke liye 79.06 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 20 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_67_3684-3694_20-08-2025.pdf',
+    date: '2025-08-20',
+    note: 'F.18B(635)/AC-67/8DVS/UD/MLALADS/2025-26 (New Sanction): A/A & E/S Rs. 79.06 lakh; first installment Rs. 7.86 lakh MCD ko — copy-to list me "Sh. Gopal Rai, Hon\'ble MLA, Babarpur Assembly Constituency [AC-67]". 12 kaam (Work IDs AC-67/2025-26/12..23, U.ID 8DVS/3670/415..426), sab Ward 233 Subhash Mohalla, Shahdara (N) Zone me: Yamuna Vihar C-11/C-12 block me front lanes + parking (5 kaam), Momin Chowk me Tikona Park se RMC lanes + drainage system (2 kaam), B-Block Subhash Mohalla me Gali 13/14 + Gali 10 ke links (3 kaam), Moujpur me Doaba Gali + Azad Gali, Ghonda ke paas Mandir Wali Gali link. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili. Note: Delhi-wide mantri-stariya ghoshnaon ko exclude rakha gaya hai; ye order keval Babarpur kshetra ke kaam ka hai.',
+    period: '2025-2030',
+  },
+];
