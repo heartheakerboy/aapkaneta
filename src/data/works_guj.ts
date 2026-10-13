@@ -3107,4 +3107,100 @@ export const gujWorks: Record<string, Work[]> = {
       note: 'Navsari jile ke Chikhli taluka ke Sadadvel gaon me Kaveri Sugar sahkari mill ki nilami ke khilaf MLA ne kisan pradarshan-sabha ki aguvai ki; aadivasi kisaano ke croreon rupaye ki share-punji ke khatre ka mudda uthaya. (status: maang/aandolan — virodh-sabha; exact date page par nahi mili)',
     },
   ],
+  // ---- Valsad district batch (researched 2026-10-13) ----
+  'arvind-chhotubhai-patel': [
+    {
+      title: 'Dharampur ST depot ko 4 nayi minibuses — MLA Arvind Patel ke hast se lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Decision News, 9 Oct 2026',
+      sourceUrl: 'https://decisionnews.in/2026/10/09/success-for-youth-leader-dr-nirav-patels-representations-dharampur-depot-receives-4-minibuses-mla-arvind-patel-inaugurates-them/',
+      date: '2026-10-09',
+      note: 'Gujarat sarkar ki Janjatiya Gaurav Parivahan yojana ke tehet Dharampur ST depot ko 4 nayi minibuses mili; Bhagwan Birsa Munda ko samarpit in buses ka Dharampur ke MLA Arvind Patel ke hast se lokarpan hua. Antarital aur dungaral kshetron ke vidyarthiyon ke liye vishesh routes par chalengi. (status: lokarpan)',
+    },
+  ],
+  'bharatbhai-kikubhai-patel': [
+    {
+      title: 'Vashiyar ₹3.80cr pul vivad: approach road ki zameen pul banne ke BAAD adhigrahit — Youth Congress ne ACB jaanch maangi',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Gujarat Samachar English, Aug 2026 (est.)',
+      sourceUrl: 'https://english.gujaratsamachar.com/news/valsad/Rs-380-crore-bridge-built-approach-road-land-acquisition-yet-to-begin-in-valsad-youth-congress-alleges-seeks-acb-probe-17862069347',
+      date: '2026-08-24',
+      note: 'Valsad taluka ke Vashiyar gaon me ₹3.80cr ke pul ka mukhya dhancha banne ke baad prashasan ne approach road ke liye zameen adhigrahan ki prakriya shuru ki. Youth Congress ne bhook hadtaal karke ilzaam lagaya ki pul BJP neta Harshad Kataria ko fayda pahunchane ke liye banaya gaya aur ACB/Vigilance jaanch maangi. Roads & Buildings vibhag ne kaha ki sarkari manzoori sthaniya netaon ki rajooaton par mili, jinme BJP MLA Bharat Patel bhi the. (status: aarop/virodh — swatantra pushti nahi; MLA ka paksh report me nahi)',
+    },
+  ],
+  'kanubhai-mohanlal-desai': [
+    {
+      title: 'Pardi me DGVCL ki ₹3cr ki city+gramya petavibhagiya kacheriyon ka khatmuhurat, 11kV ring main unit ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Mar 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/valsad/news/energy-minister-kanubhai-desai-laid-the-foundation-stone-of-the-city-and-village-offices-to-be-built-at-a-cost-of-3-crores-135803741.html',
+      date: '2026-03-01',
+      note: 'Pardi me ₹3cr ke kharch se banne wali DGVCL ki city aur gramya petavibhagiya kacheriyon ka khatmuhurat aur Pardi nagarpalika kshetra me Adivasi Kshetra Petayojna ke tehet 11kV ring main unit ka lokarpan mantri Kanubhai Desai ke hast se. Nayi kacheri se 26 gramya gaonon ke 20,143 aur shahari kshetra ke 22,219 bijli grahakon ko labh. (status: shilanyas + lokarpan; ye unke apne matvistaar Pardi ka kaam hai, mantri-bhoomika note me saaf; exact date page par nahi mili)',
+    },
+  ],
+  'jitubhai-harjibhai-chaudhari': [
+    {
+      title: 'Kaprada Nanapodha taluka me ₹18cr ke marg karyon ka lokarpan-khatmuhurat',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jun 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/valsad/kaprada/news/kaprada-18-crore-road-works-inauguration-groundbreaking-jitubhai-chaudhary-136901302.html',
+      date: '2026-06-01',
+      note: 'Kaprada Vidhan Sabha kshetra ke Nanapodha taluka me ₹18cr ke kharch se hone wale marg karyon ka khatmuhurat aur lokarpan poorv mantri tatha MLA Jitubhai Chaudhari ke hast se. Aranai, Motivahiyal, Aamdha, Kharedi, Panas, Khuntli, Jogvel aur Nanapodha samet kai kshetron ke mahatvapoorn marg shamil. (status: shilanyas + lokarpan; exact date page par nahi mili)',
+    },
+  ],
+  'patkar-ramanlal-nanubhai': [
+    {
+      title: 'Khatalwad gaon me ₹1.5cr ke do margon ke nirman ka khatmuhurat',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jul 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/valsad/umbergaon/news/khatalwad-road-development-inauguration-mla-raman-patkar-umargam-136838617.html',
+      date: '2026-07-01',
+      note: 'Umbergaon taluka ke Khatalwad gaon me kul ₹1.5cr ke kharch se do margon (Samaj Mandir se Asan Devi ₹1.10cr, Varmora ki taraf ₹38 lakh) ke nirman ka khatmuhurat Umbergaon ke MLA Ramanlal Patkar ke hast se. (status: shilanyas; exact date page par nahi mili)',
+    },
+    {
+      title: 'Sanjan-Talsari road se Bunatpada tak 1.5km marg ka ₹33 lakh me navinikaran — khatmuhurat',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jul 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/amp/local/gujarat/valsad/news/the-work-was-inaugurated-by-mla-ramanlal-patkar-136643731.html',
+      date: '2026-07-01',
+      note: 'Maharashtra border se jude Sanjan gaon me Sanjan-Talsari road se Bunatpada ko jodne wale 1.5km marg ke ₹33 lakh ke kharch se navinikaran ka khatmuhurat MLA Ramanlal Patkar ke hast se; Mukhyamantri Border Village Utkarsh yojna se grant manzoor. (status: shilanyas; exact date page par nahi mili)',
+    },
+    {
+      title: 'Dholipada gaon me anganwadi bhavan ka khatmuhurat',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Apr 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/valsad/umbergaon/news/gujarat-umargam-dholipada-anganwadi-building-inauguration-ramanlal-patkar-photos-videos-136882238.html',
+      date: '2026-04-01',
+      note: 'Umbergaon taluka ke Dholipada gaon me anganwadi bhavan ka khatmuhurat MLA Raman Patkar ke hast se; karyakram me unhone kshetra me chal rahe aur bhavishya ke vikas karyon ki rooprekha bhi rakhi. (status: shilanyas; exact date page par nahi mili)',
+    },
+    {
+      title: 'Malkhet-Daheli ke 4 aantarik margon ka ₹94 lakh me khatmuhurat',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/valsad/vapi/news/the-foundation-stone-of-4-roads-was-laid-by-the-mla-136447550.html',
+      date: '2026-02-01',
+      note: 'Umbergaon ke Malkhet aur Daheli gram panchayaton ke 4 aantarik margon (Malkhet ke liye ₹25 lakh, Daheli ke liye ₹69 lakh) ke nirman ka khatmuhurat MLA Ramanlal Patkar ke hast se; sthaniya rajooaton par sarkari yojna se grant mili. (status: shilanyas; exact date page par nahi mili)',
+    },
+  ],
+  // ---- Tapi district batch (researched 2026-10-13) ----
+  'kokani-mohanbhai-dhedabhai': [
+    {
+      title: 'Aadivasi karyakartao ka aarop: Vyara MLA Mohan Kokani dharmantaran ko protsahan de rahe hain',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Economic Times, Mar 2025 (est.)',
+      sourceUrl: 'https://m.economictimes.com/news/politics-and-nation/gujarat-tribal-activists-voice-concern-at-bjp-mlas-proselytisation-bid/amp_articleshow/119390083.cms',
+      date: '2025-03-01',
+      note: 'Dev Birsa Sena ke Arvind Vasava ne ilzaam lagaya ki Vyara ke BJP MLA Mohan Konkani kshetra me dharmantaran ko sakriya protsahan de rahe hain; Gid Madi Dungar ke pavitra sthal par church aane ka aarop. Sampark karne par Konkani ne phone par baat se inkaar kiya; pehle inhone media se aaropon se inkaar karte hue saboot maanga tha. (status: aarop — swatantra pushti nahi; MLA ka paksh report me anshatah)',
+    },
+  ],
+  // note: dr-jayrambhai-chemabhai-gamit (Nizar, BJP, Oct 2025 se MoS) — credible constituency-specific kaam nahi mila; coverage sirf mantri-capacity me ya events me upasthiti ki hai. imaandaar khaali.
 };
