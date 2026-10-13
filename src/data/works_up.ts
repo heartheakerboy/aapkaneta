@@ -5138,4 +5138,77 @@ export const upWorks: Record<string, Work[]> = {
     },
   ],
   // Summary (Farrukhabad): 4/4 MLAs researched. Entries accepted: dr-surabhi (Kaimganj SC) = 4; sushil-kumar-shakya (Amritpur) = 3; major-sunil-dutt-dwivedi (Farrukhabad) = 9; nagendra-singh-rathour (Bhojpur) = 5. Empty profiles: 0. Negative entries: 0. Rejected overall ~30: sirf maujoodgi/upasthiti, sirf nirikshan/daura, sirf maang/proposal, pre-March-2022, galat vyakti/sthan, YouTube-only, aggregators, guilt-by-association items, daawa-only interview claims.
+
+  // ---- Kannauj district batch (researched 2026-10-13) ----
+  'asim-arun': [
+    {
+      title: 'Aunti gaon me aadhunik khel maidan, kachra prabandhan kendra (RRC), gaushala aur Annapurna Bhavan ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kannauj/news/kanauj-samaj-kalyan-mantri-asimm-arun-inauguration-v3-137284637.html',
+      date: '2026-02',
+      note: 'Status: lokarpan/inauguration — vitt varsh 2024-25 me nirmit charon suvidhaon ka feeta katkar shilapatt-anavaran ke saath udghatan; article ke anusaar Aunti ko vikas ke model gaon ke roop me vikasit kiya ja raha hai. Ten News One (chhota local portal — note me disclose) ke 23 Feb 2026 ke report me bhi pushti; Bhaskar page par exact date print nahi thi, isliye est.',
+    },
+    {
+      title: 'Vidhayak nidhi se 122 vikas karya (Rs 14.68cr): zila aspatal me Rs 75L lab, 30 composite schools me Rs 4.5cr smart class',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran report card, Jul 2026 (est.)',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/kannauj-kannauj-mla-aseem-aruns-development-report-hits-misses-40312242.html?app=true',
+      date: '2026-07',
+      note: 'Status: report card — 2022 se vidhayak nidhi Rs 14.68 crore se 122 karya poore: zila aspatal me Rs 75 lakh ka aadhunik lab, emergency ward/trauma centre me Rs 4 lakh ke 8 AC + 20 pankhe + baithak hall, 2 dant evam netra visheshagya ki tainati; Karaunda Shah Nagar, Gugrapur, Udaitapur, Simrapur sahit 30 composite schoolon me Rs 4.5 crore ki smart class + furniture, 12 schoolon me boundary wall/saundaryikaran; anusuchit chhatron ke 2 chhatravason ka kaykalp; Agra-Lucknow expressway ki vishisht mandi me aalu khareed shuru; Bahasor, Sharifapur, Baktaurapur, Manpur, Gova me CC sadak. Jagran ne aalochnayen bhi darj ki — gaddha-mukt sadak ka vaada poora nahi, mandi me sabzi-fal khareed shuru nahi, Jal Jeevan Mission me kami. (status: balanced report card — hits + misses dono; MLA ke apne shabdon se aage patrakarita-check ke saath)',
+    },
+    {
+      title: 'Collectorate parisar talaab saundaryikaran + patrakaron ke liye aadhunik media center — yojana ghoshit',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan, Sep 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kannauj/story-kannauj-beautification-of-pond-and-development-of-modern-media-center-for-journalists-planned-201789918127667.html',
+      date: '2026-09',
+      note: 'Status: ghoshna/planning — baithak me samaj kalyan rajya mantri evam sadar vidhayak ne collectorate parisar ke talaab ke saundaryikaran aur nagar palika ke store room ki jagah aadhunik media center (baithne ki suvidha, parking, shauchalaya, prakash vyavastha) ki yojana par vichar-vimarsh kiya. Article ke anusaar yojana abhi charcha-star par hai — swikriti ya nirman shuru hone ki alag khabar nahi mili. (ye entry mantri-capacity nahi, kshetra-specific ghoshna hai)',
+    },
+  ],
+  'archana-pandey': [
+    {
+      title: 'Gursahaiganj poorvi crossing par Rs 57cr railway overbridge — unki maang par CM ne swikrit',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Jul 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kannauj/railway-overbridge-will-be-built-on-the-eastern-crossing-in-gursahaiganj-57-crores-approved-kannauj-news-c-214-1-knj1007-134864-2025-07-28',
+      date: '2025-07',
+      note: 'Status: swikriti/sanction — Lucknow me Kanpur mandal ke vidhayakon ke saath baithak me unhone Gursahaiganj me jaam se nijat ke liye poorvi railway crossing par overbridge ki maang rakhi (Kanpur-Farrukhabad rail khand par roz 35 jodi train + 8 maal gaadiyan, ek ghante me do baar crossing band); CM Yogi ne Rs 57 crore ka budget swikrit kar Setu Nigam ko jald karya shuru karne ke nirdesh diye. (credit-transparency: unki anushansa par CM dwara swikriti — nirman-pragati ki alag khabar nahi mili)',
+    },
+    {
+      title: 'Chhibramau me Valmiki basti sanskritik bhavan (Rs 10.47L) + 2 sadkein (Rs 8.97L/8.79L) — vidhayak nidhi se lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 8 Oct 2024',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kannauj/story-inauguration-of-cultural-building-in-chhibramau-by-mla-archana-pandey-201728410087474.html',
+      date: '2024-10-08',
+      note: 'Status: lokarpan — mohalla Kassaban ki Valmiki basti me vidhayak nidhi se Rs 10.47 lakh ke sanskritik bhavan ka nirman (Vikas Khand Chhibramau ke madhyam se); GT Road Nigoha Khas se Pratyush Prajapati ke ghar tak ~180m sadak (Rs 8.97L) aur Khalla Roopmangadpur main road se Rahul Sisodia ke ghar tak ~120m sadak (Rs 8.79L) — teenon ka feeta katkar shilapatt-anavaran ke saath lokarpan.',
+    },
+    {
+      title: 'Chhibramau mahila chikitsalaya me BPHU lab ka shubharambh + kishoriyon ke liye HPV teekakaran abhiyan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 20 Mar 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kannauj/story-hpv-vaccine-campaign-launched-at-chhibramau-hospital-by-bjp-legislator-archana-pandey-201774008321441.html',
+      date: '2026-03-20',
+      note: 'Status: inauguration — rajkiya mahila chikitsalaya, Chhibramau me BPHU lab ka feeta katkar shubharambh; garbhashay cancer se bachav ke liye 14-20 varsh ki kishoriyon ke liye HPV vaccine ka vishesh abhiyan shuru (aagami 3 mahine tak roz teekakaran); zila pratirakshan adhikari evam CHC prabhari chikitsa adhikari bhi maujood.',
+    },
+  ],
+  'kailash-rajput': [
+    {
+      title: 'Tirwa bypass (15.8km, Rs 68.90cr) + Balnapur-Indergarh-Lakh Bahosi 2-lane sadak (Rs 28.37cr) — unki maang par CM ne swikrit',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Jul 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kannauj/railway-overbridge-will-be-built-on-the-eastern-crossing-in-gursahaiganj-57-crores-approved-kannauj-news-c-214-1-knj1007-134864-2025-07-28',
+      date: '2025-07',
+      note: 'Status: swikriti/sanction — Kanpur mandal ke vidhayakon ke saath baithak me unhone NH-234 par Tirwa kasbe me bypass (Ishan nadi pul se rajkiya medical college ke saamne se hote hue Balnapur bamba tak 15.800 km) ki maang rakhi; CM ne Rs 68.90 crore aavantit kiye. Saath hi Balnapur se Indergarh Lakh-Bahosi pakshi vihar hote hue Auraiya border tak 2-lane sadak ke Rs 28.37 crore bhi swikrit. (credit-transparency: unki anushansa par CM dwara swikriti — nirman-pragati ki alag khabar nahi mili). Identity note: 10 May 2026 ko Yogi cabinet me rajya mantri bane (PTI/Tribune/ABP); ye entry usse pehle ki, kshetra-specific hai.',
+    },
+  ],
+  // Summary (Kannauj): 3/3 MLAs researched. Entries accepted: asim-arun (Kannauj SC) = 3; archana-pandey (Chhibramau) = 3; kailash-rajput (Tirwa) = 1. Empty profiles: 0. Negative entries: 0. Rejected overall ~30: public.app-only items, YouTube/aggregator, sirf samiksha-baithak/nirakshan, event udghatan (Ramlila/khel pratiyogita), sirf maujoodgi, sirf maang bina swikriti, pre-March-2022, galat vyakti/sthan, bina-thos daave, mandir-kabza nirakshan (political), pradarshan (concrete allegation nahi).
+
 };
