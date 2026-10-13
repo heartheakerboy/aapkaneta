@@ -13373,3 +13373,381 @@ upWorks['pooja-pal'] = [
     period: '2022-2027',
   },
 ];
+
+// ---- Fatehpur district batch (researched 2026-10-13) ----
+upWorks['rajendra-singh-patel'] = [
+  {
+    title: 'Gahru Khera-Jafarganj 1650m sadak (Rs 1.03 crore) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/jafarganj/news/fatehpur-vidhayak-inaugurates-1-65km-road-worth-1-03-crore-137423231.html',
+    date: '2026-03',
+    note: 'Jafarganj kshetra me navnirmit 1650m marg ka lokarpan; PWD ke anusar lagat ~Rs 1.03 crore (1 crore 3 lakh 33 hazaar); PWD JE, purv pramukh aadi maujood. Status: lokarpan (purna nirmit karya). Exact date page par nahi thi — "4 mahine pehle" tag aur last-update se Mar 2026 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ghanshyampur (Devmai block) me do CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Oct 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/devmai/news/jehanabad-mla-inaugurated-two-cc-roads-136281867.html',
+    date: '2025-10',
+    note: 'Purvanchal Vikas Nidhi jilansh yojana ke tahat nirmit do CC marg: Mahavir ke ghar se Manoj ke ghar tak, aur Rajnish Uttam ke ghar se Ramswaroop ke ghar tak. Status: lokarpan. Exact date page par nahi thi — "9 mahine pehle" tag aur last-update se Oct 2025 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Abhaypur (Malwan block) me Rs 28.8 lakh panchayat bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/malwan/news/fatehpur-panchayat-bhawan-inaugurated-mla-patel-sadvi-jyoti-137040897.html',
+    date: '2026-01',
+    note: 'Bahuuddeshiya yojana ke tahat bana navnirmit panchayat bhavan; purv kendriya mantri Sadhvi Niranjan Jyoti ke saath sanyukt lokarpan (feeta + shilapatt). Status: lokarpan (purna nirmit). Exact date page par nahi thi — "6 mahine pehle" tag aur last-update se Jan 2026 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Budhwa (Amauli block) me navnirmit antyeshti sthal ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/amauli/news/inauguration-of-the-cremation-ground-at-budhwa-136864353.html',
+    date: '2026-01',
+    note: 'Cabinet mantri Rakesh Sachan ke saath sanyukt lokarpan — shared attribution, MLA akele daavedaar nahi. Mantri ne ise varshon purani samasya ka samadhan bataya. Status: lokarpan. Exact date page par nahi thi — "7 mahine pehle" tag aur last-update se Jan 2026 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jafarganj (Khajuha block) me digital library ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Shapath Samachar, May 2025',
+    sourceUrl: 'https://shapathsamachar.com/fatehpur-bjp-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BF%E0%A4%9F%E0%A4%B2-%E0%A4%B2%E0%A4%BE/',
+    date: '2025-05',
+    note: 'Chhota local portal. Gram panchayat Jafarganj me vidyarthiyon ke liye digital library ka udghatan (Digital India karyayojana ke tahat); BDO, ADO, sachiv, gram pradhan maujood. Status: udghatan. Exact date page par nahi thi — last-update se May 2025 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Khajuha bypass, 7 nadi-pul aur 50+ sampark margon ki swikriti ka daava',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Avadhnama, Jul 2026',
+    sourceUrl: 'https://avadhnama.com/bypass-to-be-built-in-khajuha-permanent-bridges-to-be-constructed-over-seven-rivers-in-the-jahanabad-area-mla-rajendra-singh-patel/',
+    date: '2026-07',
+    note: 'Press conference me MLA ke apne daave (news-reported): Khajuha bypass, Ganga/Yamuna/Pandu/Rind par 7 pakke pul, 50+ sampark margon ka nirman/navinikaran/chaudikaran, ~2 dozen mandir marg, ~10 laghu setu, aadha darjan audyogik sampark marg — sab swikrit, 15 Aug tak shilanyas ka vaada. Status: swikriti/ghoshna — nirman shuru nahi hua. Chhota portal. Date last-update se Jul 2026 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Mirai gaon me 350m CC sadak ki ghoshna',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Zishan News, Aug 2025',
+    sourceUrl: 'https://zishannews.in/?p=43188',
+    date: '2025-08',
+    note: 'Chhota local portal. Yogasana champion Neetu Singh ke samman samaroh me unke naam par ghar se main road tak 350m CC sadak ki maukhik ghoshna — nidhi aavantan ya nirman ki koi pushti nahi mili. Status: sirf ghoshna. Date image-path se Aug 2025 (approx).',
+    period: '2022-2027',
+  },
+];
+upWorks['jay-kumar-singh-jaiki'] = [
+  {
+    title: 'Churaman Khera (Malwan block) peyjal yojana ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'City News Fatehpur, Jul 2026',
+    sourceUrl: 'https://citynewsfatehpur.in/%E0%A4%AB%E0%A4%A4%E0%A5%87%E0%A4%B9%E0%A4%AA%E0%A5%81%E0%A4%B0cnf%E0%A5%A4-%E0%A4%AC%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A4%95%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%A8/',
+    date: '2026-07',
+    note: 'Chhota local portal. Jal Jeevan Mission ke tahat gram panchayat Churaman Khera me peyjal yojana ka lokarpan; MLA ke anusar yojana ~1 saal se safaltapurvak sanchaalit aur niyamit chlorine-yukt shuddh peyjal ka daava; XEN Anurag Gautam, nirman agency, JJM team maujood. Status: lokarpan. Exact date page par nahi thi — last-update se Jul 2026 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'GGIC Bindki ko god lene aur Rs 10 lakh nidhi ki ghoshna',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Aug 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/fatehpur/story-mp-jaikumar-singh-jackie-takes-initiative-to-improve-school-facilities-in-bindki-201787588498408.html',
+    date: '2026-08',
+    note: 'Sohanlal Dwivedi Rajkiya Balika Inter College (GGIC) Bindki god liya; high-mast light aur CC marg ke liye vidhayak nidhi se Rs 10 lakh dene ki ghoshna; parisar ka nirikshan, sachivon ko report ki zimmedari. Status: ghoshna — rashi kharch hone ki pushti nahi mili. Exact date page par nahi thi — last-update se Aug 2026 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bindki bypass, bus stand, Korai bypass sahit sadak karyon ka daava',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar interview, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/news/bindki-mla-jay-kumar-jaiki-ticket-land-roads-interview-137470376.html',
+    date: '2026-03',
+    note: 'MLA ke apne daave (Dainik Bhaskar interview): Bindki bypass nirman, Bindki kasbe me sarkari bus stand, ~7 saal se ruka Korai bypass poora, Muradipur railway pul, 2022 me jarjar Chaudgra-Banda/Joniha/Lalauli margon ka nirman, Joniha-Fatehpur marg, Korai-Fatehpur (Mughal Road, ab Baba Gayadin ke naam) ka Rs 19 crore se chaudikaran. Unverified claims. Date last-update se Mar 2026 (approx).',
+    period: '2022-2027',
+  },
+];
+upWorks['chandra-prakash'] = [
+  {
+    title: 'Lodheeganj me do CC marg (Rs 16 lakh) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amja Bharat, Feb 2023',
+    sourceUrl: 'https://amjaabharat.blogspot.com/2023/02/blog-post_551.html',
+    date: '2023-02',
+    note: 'Chhota local portal (blogspot). Vidhayak nidhi se nirmit: Dr Ram Singh ke ghar se Dilip ke ghar tak 160m CC marg (Rs 13 lakh) aur Swaraj Guest House ke paas Avadhesh ke ghar tak 40m marg (Rs 3 lakh); jalbharav se nijat ka daava. Status: lokarpan. Exact date page par nahi thi — blog archive se Feb 2023.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dalipur (Bhitoura block) me 120m CC road (Rs 7.65 lakh) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amja Bharat, Jun 2023',
+    sourceUrl: 'https://amjaabharat.blogspot.com/2023/06/blog-post_2.html',
+    date: '2023-06',
+    note: 'Chhota local portal (blogspot). Vidhayak nidhi se nirmit 120m CC road; gaon ka mukhya marg jarjar tha, barsaat me jalbharav/keechad — ab kisaano ko upaj le jaane me suvidha ka daava. Status: lokarpan. Exact date page par nahi thi — blog archive se Jun 2023.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ambapur-Hathgam sampark marg ka nirman shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Sep 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/bakandha/news/construction-work-of-ambapur-hathgam-link-road-of-fatehpur-started-136026745.html',
+    date: '2025-09',
+    note: '15 saal se jarjar marg; Bhaskar ke anusar sadar vidhayak ke lagatar prayason (Vidhan Sabha me mudda uthaya) se PWD dwara nirman shuru; MLA ne adhikariyon ke saath shubharambh/sthaliya nirikshan kiya. Status: nirman shuru — purnata/udghatan ki alag khabar nahi mili. Exact date page par nahi thi — last-update se Sep 2025 (approx).',
+    period: '2022-2027',
+  },
+  {
+    title: '90 gaon me 145 sadak, mandir dwar, Rs 7 crore chikitsa sahayata ka daava',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'News4Social interview, Mar 2026',
+    sourceUrl: 'https://news4social.com/%E0%A4%B5%E0%A4%BF%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B7-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B0%E0%A4%B9%E0%A4%95%E0%A5%87-%E0%A4%AD%E0%A5%80-%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%8F-%E0%A4%B5%E0%A4%BF/',
+    date: '2026-03',
+    note: 'Chhota local portal. MLA ke apne daave (interview): ~90 gaon me 145 sadken (15-20 prastavit), Tameshwar mandir ka bhavya pravesh dwar, Kalikan/Shitala mandir saundaryikaran prastavit, yatri prateekshalay, gambhir beemaron ko ~Rs 7 crore aarthik sahayata; lambit bade kaam: sewer line (Rs 900 crore), traffic, cargo airport, underpass, engineering college. Unverified claims. Date image-path se Mar 2026 (approx).',
+    period: '2022-2027',
+  },
+];
+// ---- REJECT LIST (researched 2026-10-13, Fatehpur district) ----
+// REJECT: watchindianow.in — Rajendra Singh Patel ne CM Yogi se mulakat me mangein rakhin (Khajuha-Amauli marg chaudikaran, Yamuna/Rind pul, ashram paddhati school) — sirf maang/proposal, koi swikriti/nirman nahi.
+// REJECT: livehindustan (lawyers meet, Mar 2026) — Jaiki ne adhivaktaon ke saath baithak me 4 mahine me samadhan ka aashvasan diya — sirf aashvasan/promise, kaam nahi.
+// REJECT: amjaabharat.blogspot (Oct 2026) — Alpha Health Care Hospital (Amauli, PRIVATE) ka shubharambh — neta sirf mukhya atithi tha, kaam nahi.
+// REJECT: India TV (Oct 2026) — Allipur-Hasanapur FDR sadak 24 ghante me ukhadi, Jaiki maujood tha — MLA par koi aarop nahi; DM ne curing/technology issue bataya; guilt-by-association par reject.
+// REJECT: Jagran (Jun 2022) — Tambeshwar mandir ke saamne 250m CC sadak — nagar palika ka kaam, article me MLA ka naam hi nahi — reject.
+// REJECT: azranews.in / citynewsfatehpur.in — National Multi Mart (private shop, Ambapur) ka udghatan Chandra Prakash ne kiya — private pratishthan, kaam nahi — reject.
+// REJECT: public.app — Taruwapur-Shivpuri damri marg lokarpan video (Rajendra Singh Patel) — public.app-only source, rule ke anusar reject.
+// REJECT: YouTube — "MLA Report Card" videos (India News UP, BSTV) Chandra Prakash par — YouTube-only, rule ke anusar reject.
+// REJECT: shapathsamachar digital library wali entry ACCEPT hui hai (chhota local portal disclose ke saath).
+// NEGATIVE CHECK: Chandra Prakash — Oneindia ke anusar 0 criminal cases; koi credible controversy/allegation reporting nahi mili. Rajendra Singh Patel aur Jaiki par bhi koi credible negative reporting nahi mili (sirf upar wali road-quality khabar, jo MLA par aarop nahi hai).
+
+  // NOTE: task me 'umar-ali-khan' ko Khaga (SC)/Fatehpur bataya gaya tha, lekin repo
+  // (uttar_pradesh.ts) me yahi slug Umar Ali Khan, Behat (Saharanpur), SP ka hai.
+  // Khaga (SC) ke vartaman MLA Krishna Paswan (BJP) hain. Isliye niche 'umar-ali-khan'
+  // par Behat (Saharanpur) ke kaam diye gaye hain — parent kripya district tag check kare.
+upWorks['vikas-gupta'] = [
+    {
+      title: 'Asothar Mandi Samiti me Rs 88 lakh ke nirman karyon ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 7 Dec 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/fatehpur/88-lakh-rupees-will-change-the-face-of-the-mandi-committee-fatehpur-news-c-217-1-fth1003-145121-2025-12-07',
+      date: '2025-12-06',
+      note: 'Asothar nagar panchayat ki Mandi Samiti me boundary wall, naye tin shed, purane shed ki marammat, nali aur sadak nirman sahit Rs 88 lakh ke karyon ka shilanyas. Status: shilanyas. Dono paksh report me: kisano ne sadak adhuri hone, taul-kanton ki kami aur nirman samagri ki gunvatta par sawal uthaye; vidhayak ne SMI/av ar abhiyanta ko fatkar lagakar gunvatta ke sakht nirdesh diye. (Karyakram shanivar 6 Dec 2025 ko; Amar Ujala ki 7 Dec ki report)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Budhramau me Pt. Deendayal Upadhyaya Swagat Dwar ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/fatehpur/ashothar/news/mla-ayah-shah-inaugurated-the-welcome-gate-136416848.html',
+      date: '2025-11 (est.)',
+      note: 'Ayah Shah kshetra ke gram Budhramau me Jageshwar Dham mandir ke paas Pt. Deendayal Upadhyaya Swagat Dwar ka lokarpan; sthaniya logon ke anusaar is dwar ki maang varshon se thi. Status: lokarpan. Exact date page par nahi mili — "8 mahine pehle" relative time se est.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gopal Nagar me 7-bed rain basera ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'RNI News, Dec 2025 (est.)',
+      sourceUrl: 'https://www.rninews.com/%E0%A4%97%E0%A5%8B%E0%A4%AA%E0%A4%BE%E0%A4%B2-%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%97%E0%A5%81%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BE-%E0%A4%A8%E0%A5%87-%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%B0%E0%A5%88%E0%A4%A8-%E0%A4%AC%E0%A4%B8%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%89%E0%A4%A6%E0%A5%8D%E0%A4%98%E0%A4%BE%E0%A4%9F%E0%A4%A8',
+      date: '2025-12 (est.)',
+      note: 'Gopal Nagar (Fatehpur) me Shani mandir ke paas 7-bed rain basera ka udghatan; shelter Shri Sitaram Mandir Trust ke saujanya se sanchalit hoga — vidhayak ne udghatan kiya, nirman unka nahi (note me saaf). Status: udghatan. Chhota digital outlet; exact date page par nahi mili ("guruvar ko" se est.).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Devgaon (Musepur) me Rs 23.87 lakh ki 2 interlocking + 1 CC sadak ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'RNI News, Jun 2025 (est.)',
+      sourceUrl: 'https://www.rninews.com/%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%A8%E0%A5%87-2387-%E0%A4%B2%E0%A4%BE%E0%A4%96-%E0%A4%95%E0%A5%87-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE%E0%A4%A3-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%BF%E0%A4%AF%E0%A4%BE-%E0%A4%B2%E0%A5%8B%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A4%A3',
+      date: '2025-06 (est.)',
+      note: 'Bahuwa block ke Devgaon (Musepur) gram panchayat me vidhayak nidhi, MGNREGA, rajya vitt aur 15vein vitt aayog se Rs 23.87 lakh ki lagat se bani 2 interlocking aur 1 CC sadak ka lokarpan. Status: lokarpan. Chhota local portal; exact date page par nahi mili ("ravivar ko" + relative time se est.).',
+      period: '2022-2027',
+    },
+    {
+      title: '(Negative) Mardanpur me vidhayak nidhi ki 45m CC sadak me nali na hone se jal-bharav; PIL',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Yugantar Pravah, Feb 2024',
+      sourceUrl: 'https://www.yugantarpravah.com/uttar-pradesh/fatehpur/fatehpur-news-mardanpur-drain-dispute-in-high-court-mla-stakes-his-reputation/article-6450',
+      date: '2024-02',
+      note: '(Negative entry — vidhayak ka paksh article me nahi.) Bahuwa block ke Mardanpur (GP Dhansinghpur) me vidhayak nidhi se RES dwara bani 45m CC sadak ~6 inch unchi bani aur 20m hissa bina nali ke — gharon me jal-bharav ki shikayat. 4 May 2023 ko vidhayak ne isi sadak ka lokarpan kiya tha (grameenon ne tabhi kami batayi thi). Yachikakarta Ajit Singh ne Allahabad HC me PIL dayar ki; 5 Jan 2024 ko repetition par court ne 8m nali banane aur 2 hafte me DM se report mangi. Yachikakarta ka aarop: prashasan vidhayak ke dabav me kaam kar raha hai (apramanit daava — keval aarop ke roop me darj). Vidhayak ki taraf se koi bayan article me nahi hai. (status: PIL/repetition — mamla nyayalay me; chhota regional portal)',
+      period: '2022-2027',
+    },
+];
+upWorks['usha-maurya'] = [
+    {
+      title: 'Mohammadpur Gaunti me Dr. A.P.J. Abdul Kalam Smriti Dwar ka shilanyas (Rs 20 lakh, vidhayak nidhi)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, 27 Sep 2025',
+      sourceUrl: 'https://www.bhaskar.com:443/local/uttar-pradesh/fatehpur/airaya/news/hussainganj-mla-laid-the-foundation-stone-of-dr-kalam-memorial-gate-136031162.html',
+      date: '2025-09-27',
+      note: 'Husainganj ke Mohammadpur Gaunti gaon me ~Rs 20 lakh ki lagat se vidhayak nidhi se banne wale Dr. Kalam Smriti Dwar ka shilanyas. Status: shilanyas. Date: Bhaskar me "shanivar ko/10 mahine pehle"; Samar Saleel ki 27 Sep 2025 (shanivar) ki report se confirm. Article ke anusaar isse pehle Hathgam me Mulayam Singh Yadav Smriti Dwar ka shilanyas bhi ho chuka hai (iska seedha source nahi mila) aur Sultanpur Ghosh me Munna Lal Maurya Smriti Dwar ki ghoshna hui (ghoshna — kaam nahi).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Mohammadpur Gaunti aur Korka me CC sadkon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Samar Saleel, 28 Sep 2025',
+      sourceUrl: 'https://samarsaleel.com/mla-usha-maurya-gave-the-gift-of-cc-marg-to-gaanti-and-korka-village/499508',
+      date: '2025-09-28',
+      note: 'Husainganj ke Mohammadpur Gaunti aur Korka gaonon me vidhayak nidhi se bani CC sadken — nirman poora hone par fita katkar janta ko samarpit. Status: lokarpan (article ke ek paragraph me "shilanyas/kaam shuru" jaisa mishrit shabd-prayog bhi hai, lekin lead "nirman karya poorna" kehti hai, isliye lokarpan mana gaya).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Dal ka Purva aur Patariya me vidhayak nidhi ki CC sadkon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Zishan News, Feb 2024 (est.)',
+      sourceUrl: 'https://zishannews.in/?p=49599',
+      date: '2024-02-22',
+      note: 'Husainganj ke gram Dal ka Purva aur Patariya me vidhayak nidhi se nirmit CC sadkon ka lokarpan. Status: lokarpan. Chhota local portal; page par date nahi — tasveer ka naam IMG-20240222 aur "guruvar ko" (22 Feb 2024 guruvar tha) se est.',
+      period: '2022-2027',
+    },
+    {
+      title: '(Daava) "Har gaon me sadak-bijli-pani-light karaya; Hathgam me mahila aspatal ka prastav bheja"',
+      category: 'Any',
+      badge: 'dawa',
+      sourceLabel: 'Patrika, Sep 2026',
+      sourceUrl: 'https://www.patrika.com/up-news/fatehpur-husainganj-election-2027-political-equation-20913196',
+      date: '2026-09',
+      note: '(Daava — news-reported, asatyapit.) Patrika ke chunavi-vishleshan me vidhayak ka daava: har gaon me sadak, bijli, pani, light ka kaam karaya; Hathgam me mahila aspatal ka prastav bheja; mahapurushon ke swagat dwar banwaye; peyjal suvidha badhai. Mahila aspatal sirf "prastav" hai — maang/prastav kaam nahi (note me saaf). 2027 chunav se pehle ke daave — swatantra satyapan nahi.',
+      period: '2022-2027',
+    },
+];
+
+  // ---- REJECT LIST (Fatehpur batch, researched 2026-10-13) ----
+  // vikas-gupta:
+  // - Live Hindustan (14 Jan 2026): Jiyareshwar Dham me aitihasik mele ka shubharambh — event ka udghatan, kaam nahi; reject.
+  // - Pinewz (29 Sep 2025): Deviganj me "da Pink Salon" ka udghatan — niji vyavsay ka udghatan, kaam nahi; reject.
+  // - Live Hindustan: kendra sarkar ke 12 saal par Vikas Pradarshani ka shubharambh (DM/CDO ke saath) — sarkari yojana pradarshani ka launch event, unka kaam nahi; reject.
+  // - CIB India News: Badagaon/Wahidpur me aakashiya bijli piditon ko rajya aapda nidhi ke praman-patra saunpe — rahat vitran me keval praman-patra saunpna; weak attribution; reject.
+  // - Yug Jagran (Dec 2023): Chakgazipur me Viksit Bharat Sankalp Yatra ka shubharambh — event me upasthiti/shubharambh, kaam nahi; reject.
+  // usha-maurya:
+  // - Hathgam mahila aspatal "prastav" (Patrika me unka daava) — maang/prastav kaam nahi; keval dawa-entry ke note me ullekh; reject as work.
+  // - Sultanpur Ghosh me Munna Lal Maurya Smriti Dwar — ghoshna matra (Bhaskar article me), kaam nahi; reject.
+  // - Hathgam me Mulayam Singh Yadav Smriti Dwar ka shilanyas — articles me "pehle ho chuka" ullekh, seedha source nahi mila; reject (weak sourcing).
+  // - Jagran (Mar 2022): chunav-ke-baad ummeedon wala piece — kaam nahi; reject.
+  // - Uptak (Sep 2026): chunavi samikaran piece — Patrika wale daave ka dohraav; alag entry nahi banayi; reject as duplicate.
+  // umar-ali-khan:
+  // - Zee News ke Hakam Ali Khan (Fatehpur, Sikar, Rajasthan) wale articles — galat vyakti; reject.
+  // - public.app videos (Lodhipur puliya, Hindon pul) — public.app-only; rule ke tahat reject (dono khabren credible/anya source se cover hain).
+  // - Live Hindustan (Sep 2026): tooti sadkon/pulon par padyatra, prashasan ne Toderpur me roki — virodh/maang karyavahi, kaam nahi; reject.
+  // - Live Hindustan (17 Jul 2025): paryatan vibhag baithak me jungle safari aadi sujhav — maang/sujhav, kaam nahi; reject.
+  // - Business Standard/ANI (Apr 2019): former MLC ke roop me MCC ullanghan ka case — tenure (Mar 2022+) se pehle ka; reject.
+  // - Asha Maurya (Mahmudabad, Sitapur, BJP) ke interlocking-sadak articles — galat vyakti (Usha Maurya se bhram); reject.
+  // - YouTube-only hits (Behat seat analysis, Shayan Masood, padyatra clips) — video-only/analysis, kaam nahi; reject.
+
+
+// Research summary (2026-10-13): 9 web searches (Hindi + English) chalai gayi;
+// 6 pages khole aur poore padhe gaye (bhaskar.com x2, livehindustan.com,
+// amarujala.com x2, citynewsfatehpur.in). NCR Samachar ka page bot-check par
+// nahi khula. Krishna Paswan = BJP MLA Khaga (SC), Fatehpur (2022 se; May 2026
+// se MoS, Yogi cabinet). Umar Ali Khan (Behat, Saharanpur) se koi sambandh
+// nahi — unki koi entry nahi jodi gayi.
+// REJECTED (16 sources/items):
+// - Amar Ujala 27 Nov 2025: Khaga Nagar Panchayat board meeting me Rs 3.5 cr
+//   works par sehmati — MLA sirf upasthit; nagar panchayat budget/board
+//   decision, weak attribution.
+// - Bhaskar (Garha, Khaga) Sep 2026: Ghazipur me Yamuna pul (Chillimal-Ghazipur)
+//   sthal ka punah sarvekshan — sirf survey/nirikshan; pul swikrit nahi.
+// - public.app x3 (Bhadar gaon Nandi gaushala lokarpan; Sasurkhaderi nadi pul
+//   nirikshan) — public.app task rules me rejected; pul wala sirf nirikshan bhi.
+// - Amar Ujala 2 Jan 2026: KPL Season 7 cricket tournament ka udghatan —
+//   sports event, development work nahi.
+// - YouTube-only x4 (India Today/News channels ka fawda-road video; minister
+//   biography; Fatehpur jila aspatal canteen udghatan; "daadi" viral video
+//   controversy) — YouTube-only task rules me rejected; viral video ki
+//   pramanikta bhi apusht.
+// - NDTV India / Punjab Kesari / Bhaskar English Feb 2026: Aimapur-Ratanpur
+//   sadak (Rs 38 lakh, 2.2-4 km) me fawda chalakar ghatiya nirman ka khulasa —
+//   nirikshan/oversight action; kaam rukwaya aur PWD/DM ko shikayat likhi, lekin
+//   koi pariyojana complete/inaugurate nahi hui — "sirf nirikshan" rule par reject.
+// - Live Hindustan Jun 2026: Airayan block me Jan Kalyan shivir me beej vitran —
+//   government event, weak attribution.
+// - Live Hindustan 30 Oct 2025: Assembly ki Mahila-Bal Vikas sanyukt samiti ke
+//   sabhapati ka pad — political appointment, development work nahi.
+// - Live Hindustan: Rampur Thariyanv (Haswa block) me paudh ropan karyakram me
+//   pashuchar bhoomi mudda — event/oversight, development work nahi.
+// - Live Hindustan 16 Oct 2025: Vijyipur me Rs 1.5 cr sthayi gaushala — udghatan
+//   Pashudhan mantri Dharmapal Singh ne (virtual) kiya; MLA sirf havan-puja me
+//   upasthit — weak attribution.
+// - thenewsmill Jul 2026: CM Yogi dwara Fatehpur me 125 pariyojanaon (Rs 489 cr)
+//   ka shilanyas/lokarpan — CM-level, MLA ko individually attributable nahi.
+// - ncrsamacharlive.in: Chhimi gram (Airayan block) me samudayik milan kendra ka
+//   shilanyas — page Cloudflare bot-check par atka, kholkar verify nahi ho
+//   paya (snippet mila tha lekin "empty is better than unverified" rule).
+// - Jagran (jagran.com) Oct 2026: Jagran Vimarsh Fatehpur — event, usme unka
+//   bhashan; development work nahi.
+// - Live Hindustan Pilibhit (Baburam Paswan) / Roorki (Mamata Rakesh) interlocking
+//   sadak — galat vyakti/kshetra.
+// - Live Hindustan May 2026 "kaun hain Krishna Paswan" profile — biography,
+//   koi nayi work-detail nahi.
+upWorks['krishna-paswan'] = [
+  {
+    title: 'Khaga Nagar Panchayat ke 9 gaon me vikas karyon (sadak, baraat ghar, peyjal, prakash) ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 24 Nov 2022 (inset)',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/fatehpur/other-fatehpur-news-knp7299031132',
+    date: '2022-11-23',
+    note: 'Status: shilanyas — MLA Krishna Paswan aur nagar panchayat chairperson Geeta Singh ne shilanyas kiya; karyon ka nirman nagar panchayat dwara hoga (nagar panchayat me shamil hue 9 gaon me sadaken, baraat ghar, peyjal, prakash). Shilanyas "budhvaar ko" hua; article 24 Nov 2022 ko update hua (search metadata), isliye date 23 Nov 2022 (est.). Note: isi article ki main khabar (Rs 83.13 lakh GT Road marammat, PWD tender) me MLA ka zikr nahi — wo alag kaam hai, is entry me nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhata Nagar Panchayat me Rs 2 crore adhunik marriage hall ka bhoomi pujan/aadharshila',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/dhata/news/a-modern-marriage-hall-will-be-built-in-dhata-of-fatehpur-135863899.html',
+    date: '2025-11',
+    note: 'Status: bhoomi pujan/shilanyas — Acharya Dev Nagar, Sirathu Road (Atelwa), 15 biswa bhoomi par; nirman nagar panchayat dwara hoga (MLA ne nagar panchayat adhyaksh Rekha Saroj ke saath aadharshila rakhi). Date page ke relative "11 mahine pehle" aur "ravivaar" se Nov 2025 (est.); exact date page par nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kishanpur-Pahadpur marg (lagbhag 4.5 km) ka Rs 5 crore se nirman swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'City News Fatehpur, Mar 2026 (est.)',
+    sourceUrl: 'https://citynewsfatehpur.in/%E0%A4%AB%E0%A4%A4%E0%A5%87%E0%A4%B9%E0%A4%AA%E0%A5%81%E0%A4%B0cnf%E0%A5%A4-%E0%A4%AA%E0%A4%BE%E0%A4%82%E0%A4%9A-%E0%A4%95%E0%A4%B0%E0%A5%8B%E0%A4%A1%E0%A4%BC-%E0%A4%B8%E0%A5%87-%E0%A4%95%E0%A4%BF/',
+    date: '2026-03',
+    note: 'Status: swikriti — PWD ne pariyojana ko swikriti di; portal ki headline ke anusaar "kshetriya vidhayak Krishna Paswan ka prayas laaya rang". MLA ke anusaar nirman jald shuru hoga. Nirman shuru hone ki alag khabar nahi mili. Note: chhota local portal (City News Fatehpur); date search metadata se Mar 2026 (est.), exact date page par nahi. Article me Narauli road ka bhi zikr hai lekin bina lagat/vivaran ke — isliye is entry me nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Khaga-Naubasta marg (13 km) ka bhoomi pujan — Krishna ka daava sadak unke prastav par swikrit',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Live Hindustan, 7 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/fatehpur/story-bjp-and-sp-legislators-clash-at-groundbreaking-ceremony-in-fatehpur-201775554961662.html',
+    date: '2026-04-07',
+    note: 'Status: bhoomi pujan — 13 km marg ka aadha hissa Khaga, aadha Hussainganj vidhan sabha me; PWD ne dono vidhayakon ko aamantrit kiya tha. Krishna Paswan ka daava (Hindustan me report): "unki vidhan sabha ki sadak hai, unke prastav se paas hui hai". Bhoomi pujan karyakram pooja ke dauran Krishna Paswan (BJP, Khaga) aur Usha Maurya (SP, Hussainganj) ke beech vivaad ki khabar bana; viral video ki pushti Hindustan ne nahi ki. Nirman shuru hone ki alag khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kishanpur-Raipur Bhasraul marg (lagbhag 9 km) ka Rs 22 crore se punarnirman — bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Sep 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/fatehpur/vijaypur/news/fatehpur-kishanpur-raipur-bhasraul-road-inauguration-krishna-paswan-138530867.html',
+    date: '2026-09-25',
+    note: 'Status: bhoomi pujan — MoS/MLA Krishna Paswan ne bhoomi pujan kiya; Bhaskar ke anusaar unhone shasan se pariyojana ka budget swikrit karaya tha. Lagbhag 50 gaon jodne ka daava; nirman "jald shuru" ka aashwasan. Nirman shuru hone ki alag khabar nahi mili. Date page ke relative "18 din pehle" aur "shukravaar" se 25 Sep 2026 (est.).',
+    period: '2022-2027',
+  },
+];
