@@ -5312,7 +5312,7 @@ export const rajNetas: Neta[] = [
   },
   {
     slug: 'ashok',
-    name: 'Ashok',
+    name: 'Ashok Chandna',
     party: 'Indian National Congress',
     partyShort: 'INC',
     post: 'MLA',

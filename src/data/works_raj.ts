@@ -3955,4 +3955,39 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'Vidhayak Gautam Dak ki anushansa par DMFT fund se: non-patchable (Araned, Palod–Biloda, Nikumbh–Uthel Kheda, MDR-11A–Uppareda) aur missing link (Palod–Shani Maharaj Devli, Parmeshwarapura–Wazirpura, Gulji ka Khera–main road, Alakhedi–Kachumra) sadken. Status: swikriti. Exact date page par nahi mili.',
   },
   ],
+
+  // ---- Bundi district batch (researched 2026-10-13) ----
+  // 'ashok' (Ashok Chandna, Hindoli) — honest empty: saari works-coverage pre-Dec-2023 tenure ki hai; current tenure me sirf raajnaitik coverage.
+  'ashok': [],
+  'chunni-lal-premi': [
+    {
+      title: 'Jai Minesh Adivasi Vishwavidyalaya me Ayush Bhavan aur aspatal nirmaan ke liye vidhayak kosh se ₹15 lakh ki anushansa',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/bundi/keshoraipatan/news/recommendation-for-development-work-worth-rs-15-lakh-from-mla-fund-136912225.html',
+      date: '2025',
+      note: 'Vidhayak CL Premi ne Ranpur (Kota) sthit Jai Minesh Adivasi Vishwavidyalaya me Ayush Bhavan aur aspatal ke nirmaan ke liye vidhayak kosh se ₹15 lakh ki anushansa ki. Vishwavidyalaya ke chairman RD Meena sahit padadhikariyon ne awas par bhentkar sahyog manga tha. (status: vidhayak-nidhi anushansa; exact date page par nahi mili)',
+    },
+  ],
+  'harimohan-sharma': [
+    {
+      title: 'Bundi khel sankul me vidhayak kosh se ₹14.50 lakh ki lagat se bane yoga platform ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/bundi/news/cow-worship-and-service-mla-sharma-prioritized-development-work-on-his-64th-wedding-anniversary-dbp-138178881.html',
+      date: '2026',
+      note: 'Apni 64vi vaivahik varshgaanth par vidhayak Harimohan Sharma ne khel sankul me vidhayak kosh se swikrit ₹14.50 lakh ki lagat se bane yoga platform ka lokarpan kiya; aamjan aur yog-sadhakon ko samarpit. (status: udghatan/lokarpan; exact date page par nahi mili)',
+    },
+    {
+      title: 'Rihana gram panchayat ke raajkiya vidyalaya me vidhayak kosh se ₹5 lakh ke tin shed ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/bundi/news/5-lakh-tin-shed-inaugurated-in-government-school-136492736.html',
+      date: '2025',
+      note: 'Gram panchayat Rihana ke raajkiya vidyalaya me prarthana sthal par vidhayak kosh se swikrit ₹5 lakh se bana tin shed — vidhayak Harimohan Sharma ne feeta katkar lokarpan kiya. (status: udghatan/lokarpan; exact date page par nahi mili — "8 mahine pehle")',
+    },
+  ],
 };
