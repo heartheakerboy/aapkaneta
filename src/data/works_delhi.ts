@@ -658,3 +658,98 @@ delhiWorks['kapil-mishra'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- North-West district batch (researched 2026-10-13) ----
+delhiWorks['kulwant-rana'] = [
+{
+    title: 'Rithala ke 9 parkon me boundary wall, grills, gates aur benches ke liye 77.29 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-06_12935-12931_04-08-2025.pdf',
+    date: '2025-08-04',
+    note: 'F.18B(582)/AC-06/8DVS/UD/MLALADS/2025-26: A/A Rs. 77.29 lakh; first installment Rs. 7.70 lakh MCD (Rohini Zone) ko — "Honble MLA Sh. Kulwant Rana" ke liye Rithala (AC-06) me 9 park works, Work IDs AC-06/2025-26/01 se /09: Sector 11 ke pocket B-2 (H.No. 28 ke paas) me park ki boundary wall raising, grills, fencing, sunshade, entry gate, footpath aur benches (3 works); Sector 5 ke pockets C-1/C-2, C-3/C-4, C-5/C-6, C-7/C-8, C-9, C-10 (H.No. 104-189 ke saamne), C-11/C-12 me boundary wall, grills, gates aur benches ki repairing (6 works) — sab Ward No. 22, M-I/RZ me. Status: swikrit (A/A + first installment) — karyanwayan/purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sector 11 Rohini ke Mpl Park me street lighting ke liye 8.53 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 31 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-06_18035-18045_31-12-2025.pdf',
+    date: '2025-12-31',
+    note: 'F.18B(582)/AC-06/8DVS/UD/MLALADS/2025-26/19035-19045: A/A Rs. 8.53 lakh; first installment Rs. 0.85 lakh MCD (Electrical, RZ) ko — "Provision of lighting arrangement and EI & other allied works in Mpl Park near H.No. B-2/27, Sector 11 Rohini in AC-06 (Rithala) under Rohini Zone", Work ID AC-06/2025-26/52, "MLA Sh. Kulwant Rana" ke liye. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['gajender-drall'] = [
+{
+    title: 'Utsav Vihar me HT bare conductor se HT ABC conversion ke liye 5.84 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 18 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-08_14729-14739_18-09-2025.pdf',
+    date: '2025-09-18',
+    note: 'F.188(584)/AC-08/8DVS/UD/MLALADS/2025-26: A/A Rs. 5.84 lakh; first installment Rs. 4.38 lakh TPDDL ko — "Conversion of HT bare conductor into HT ABC between HT513-1/48 to HT513-47 Pole No. in Utsav Vihar Delhi", Work ID AC-08/2025-26/02, "MLA Sh. Gajender Drall" ke liye Mundka (AC-08) me. Status: swikrit (A/A + first installment) — karyanwayan/purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['anil-jha'] = [];
+delhiWorks['mukesh-kumar-ahlawat'] = [
+{
+    title: 'Sultanpuri me pole shifting ke 2 works ke liye 43.30 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 18 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-10_14740-14750_18-09-2025.pdf',
+    date: '2025-09-18',
+    note: 'F.18B(586)/AC-10/8DVS/UD/MLALADS/2025-26: A/A Rs. 43.30 lakh; first installment Rs. 32.47 lakh TPDDL ko — "MLA Sh. Mukesh Kumar Ahlawat" ke liye Sultanpur Majra (AC-10) me: (1) Shifting of LT Pole at P4/40, Sultanpuri (Rs. 0.63 lakh, AC-10/2025-26/10); (2) Shifting of Four HT/LT Poles at Jaddama Market, Main Road, Sultanpuri (Rs. 42.67 lakh, AC-10/2025-26/11). Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sultanpuri ke C-1/C-2 Blocks me 5 drain works ke liye 88.16 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 30 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-10_15300-15310_30-09-2025.pdf',
+    date: '2025-09-30',
+    note: 'F.18B(586)/AC-10/8DVS/UD/MLALADS/2025-26/15300-15310: A/A Rs. 88.16 lakh; first installment Rs. 8.79 lakh MCD (M-II/RZ) ko — "MLA Sh. Mukesh Kumar Ahlawat" ke liye Sultanpur Majra (AC-10) me 5 drain improvement works, Work IDs AC-10/2025-26/16 se /20: C-1 Block me mother dairy ke saamne, H.No. 6 ke paas, park ke saamne (brick work + RCC); C-2 Block me H.No. 480 aur H.No. 493 ke paas (brick work, cp, rcc) — sab Ward 43, Sultanpuri me. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sultanpuri ke dark spots me street lighting ke liye 8.26 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 31 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-10_18046-18056_31-12-2025.pdf',
+    date: '2025-12-31',
+    note: 'F.18B(586)/AC-10/8DVS/UD/MLALADS/2025-26/18046-18056: A/A Rs. 8.26 lakh; first installment Rs. 0.82 lakh MCD ko — "Provision of street lighting arrangement in various dark spots in AC-10 Sultanpuri under Rohini Zone", Work ID AC-10/2025-26/26, "MLA Sh. Mukesh Kumar Ahlawat" ke liye. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['raj-kumar-chauhan'] = [
+];
+delhiWorks['rekha-gupta'] = [
+{
+    title: 'Shalimar Bagh ke blocks me security gates aur parks me RCC benches ke liye 92.51 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 22 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-14_14751-61_22-09-2025.pdf',
+    date: '2025-09-22',
+    note: 'F.18B(592)/AC-14/8DVS/UD/MLALADS/2025-26: A/A Rs. 92.51 lakh; first installment Rs. 9.22 lakh MCD ko — "MLA Smt. Rekha Gupta" ke liye Shalimar Bagh AC-14 me 6 naye kaam (Work IDs AC-14/2025-26/14 se /19): (1) BC-Block (East) me 2 security gates (Rs. 17.92 lakh); (2) H.No.31 ke paas BB-Block (East) me security gates (Rs. 9.22 lakh); (3) AP-Block me security gates + boundary wall imp./dev. (Rs. 14.19 lakh); (4) U&V-Block me 2 security gates + market gates (Rs. 18.21 lakh); (5) BA-Block me H.No.91 aur H.No.11 ke paas 2 security gates (Rs. 17.99 lakh); (6) various parks me P/F RCC benches (Rs. 14.98 lakh) — sabhi Ward 56/KPZ, Shalimar Bagh B. Order ki copy "Smt. Rekha Gupta, MLA, Shalimar Bagh Assembly Constituency (AC-14)" ko — MLA-roop kshetra-kaam, CM-capacity Delhi-wide faisla nahi. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+{
+    title: 'CA Block Park (Shalimar Bagh) me yoga shelter ke liye 17.72 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 24 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-14_15022-15032_24-09-2025.pdf',
+    date: '2025-09-24',
+    note: 'F.18B(592)/AC-14/8DVS/UD/MLALADS/2025-26: A/A Rs. 17.72 lakh (est. Rs. 17.90 lakh); first installment Rs. 1.77 lakh MCD ko — "Construction of Yoga Shelter in CA Block Park in Ward No. 56/KPZ (AC-14)", Work ID AC-14/2025-26/20, U.ID 8DVS/0135/286 — "MLA Smt. Rekha Gupta" ke liye Shalimar Bagh AC-14 me. Order ki copy "Smt. Rekha Gupta, MLA, Shalimar Bagh Assembly Constituency (AC-14), H.No. 92, AP Block, Shalimar Bagh" ko — MLA-roop kshetra-kaam, CM-capacity Delhi-wide faisla nahi. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['tilak-ram-gupta'] = [
+];
