@@ -1584,3 +1584,178 @@ mpWorks['manju-rajendra-dadu'] = [
     period: '2023-2028',
   },
 ];
+
+// ---- Chhatarpur district batch (researched 2026-10-14) ----
+// Chhatarpur batch 1 — Kamakhya Pratap Singh, Ahirwar Dileep, Arvind Pateriya (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+// ---- Chhatarpur district batch 1 (researched 2026-10-14) — DO NOT export; appended to works_mp.ts ----
+// Kamakhya Pratap Singh (Teeka Raja, Maharajpur), Ahirwar Dileep (Chandla SC, minister), Arvind Pateriya (Rajnagar).
+mpWorks['kamakhya-pratap-singh-teeka-raja'] = [
+  {
+    title: 'Naugaon me Kendriya Vidyalaya khulne ki prakriya shuru — unke 5 Jan 2025 ke patra par kendriya shiksha rajya mantri ka javab',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Prakhar Gyan, 16 Sep 2025',
+    sourceUrl: 'https://prakhargyan.com/naugaanv-ko-milegaa-bddaa-tohphaa-bccon-kii-aankhon-men-spnon-kii-cmk-kendriiy-vidyaaly-kholne-kii-prkriyaa-shuruu/',
+    date: '2025-09-16',
+    note: 'Report ke mutabik vidhayak ne 5 Jan 2025 ko kendriya shiksha mantralay ko patra likhkar Naugaon me Kendriya Vidyalaya ki maang rakhi thi; kendriya shiksha rajya mantri (swatantra prabhar) Jayant Chaudhary ne 4 Sep ko likhe patra me pushti ki ki Naugaon me naye Kendriya Vidyalaya ka prastav Kendriya Vidyalaya Sangathan (KVS) tak pahunch chuka hai aur prakriya shuru ho chuki hai. Status: prakriya shuru — antim manjoori saksham pradhikari dwara vistrit janch ke baad; vidyalay abhi sthapit/manjur nahi hua. Credit-pardarshita: article spasht likhta hai ki ye unki pahal/patra par hua; antim nirnay kendra ka hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['ahirwar-dileep'] = [
+  {
+    title: 'Chandla me double-lock khaad godam ka shubharambh (feeta kaatkar)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Great News, 12 Nov 2024',
+    sourceUrl: 'https://www.thegreat-news.in/2024/11/12/%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%80%e0%a4%aa-%e0%a4%85%e0%a4%b9%e0%a4%bf%e0%a4%b0%e0%a4%b5-2/',
+    date: '2024-11-12',
+    note: 'Unhone collector Parth Jaiswal ke saath Chandla me double-lock khaad godam ka feeta kaatkar shubharambh kiya; report ke mutabik ab kisanon ko DAP, urea aur NPK khaad shasan ki nirdharit daron par Chandla me hi milegi (pehle Lavkushnagar/Gadhimalhara se laate the). Status: lokarpan/shubharambh — godam operational. Credit-pardarshita: ye rajya sarkar ki pariyojna hai; unki concrete bhoomika shubharambh-karyakram me mukhya atithi ke roop me spasht hai. Note: ye van-rajya-mantri ke roop me ki gayi Chandla-constituency-specific gatividhi hai (minister-rule: sirf kshetra-specific kaam liya gaya hai).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chandla vidhansabha me kul ~15.5 km ki 2 sadkon (lagat Rs. 2.23 crore + Rs. 6.51 crore) ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'NaiDunia (epaper), 19 Apr 2026',
+    sourceUrl: 'https://epaperapi.jagran.com/naiduniaEpaper/19042026/gwalior/18cht-pg16-0215733503.pdf',
+    date: '2026-04-19',
+    note: 'NaiDunia (Bundelkhand page, 19 Apr 2026) ke mutabik unhone Sarbai dateline ki khabar me bataya: janpad panchayat Gaurihaar ke Gauhani gram panchayat ke Veton Purwa me Rs. 2.23 crore ki lagat se lagbhag 2.30 km lambi sadak, aur Sarbai se Goyara tak Rs. 6.51 crore ki lagat se 13.20 km lambi sadak — dono ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Credit-pardarshita: sadke shasan/parishad ki pariyojnaen hain; unki concrete bhoomika bhoomi-pujan-karta ke roop me article me spasht hai. Note: ye van-rajya-mantri ke roop me ki gayi Chandla-constituency-specific gatividhi hai; unke Anuppur-prabhari-mantri kshetra ya kendriya van-vibhag ke kaam is list me nahi liye gaye.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['arvind-pateriya'] = [
+  {
+    title: 'Chandranagar me shasakiya prathmik swasthya kendra bhavan ka bhoomi-pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'First Khabar, Dec 2024 (est.)',
+    sourceUrl: 'https://firstkhabar.com/mla-arvind-pateria-visited-the-area-under-the-chief-ministers-public-welfare-campaign/',
+    date: '2024-12',
+    note: 'Mukhyamantri Jan Kalyan Abhiyan ke dauran Chandranagar gram (police chowki ke bagal) me shasakiya prathmik swasthya kendra ke bhavan-nirman ka bhoomi-pujan unhone kiya; article me kaha gaya ki swasthya kendra ki lambe samay se chali aa rahi maang poori hone ja rahi hai. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: article me lagat "1.59.00 lakh" likhi hai — ye sankhya aspasht hai (sambhavatah Rs. 1.59 crore = 159 lakh, mudran-truti); lagat ko vahi rakha hai jo article me likha hai. Date: article ki index "668 days ago" (~Dec 2024) se est.; Jan Kalyan Abhiyan Dec 2024 me shuru hua tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bamnora gram me sadak nirman aur nali nirman karyon ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'First Khabar, Dec 2024 (est.)',
+    sourceUrl: 'https://firstkhabar.com/mla-arvind-pateria-visited-the-area-under-the-chief-ministers-public-welfare-campaign/',
+    date: '2024-12',
+    note: 'Usi Mukhyamantri Jan Kalyan Abhiyan pravas me Bamnora gram me sadak nirman aur nali nirman ke liye bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Date: wahi article, Dec 2024 (est.).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rajnagar vidhansabha me 28 crore se adhik lagat ki 8 sadak pariyojnaon ka teen-divasiya daure me bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, late 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/chhatarpur/khajuraho/news/bhumipujan-of-roads-worth-rs-28-crore-in-rajnagar-136298465.html',
+    date: '2025-11',
+    note: 'Bhaskar ke mutabik vidhayak ne apne teen-divasiya daure me Rs. 28 crore se adhik lagat wali sadak pariyojnaon ka bhoomi-pujan kiya; pramukh marg: Vikrampur se Station Purwa (Rs. 3.76 crore), Chowar gram se Jamunia (Rs. 4.50 crore), Rangoli Pi gram se Parba Purwa (Rs. 5 lakh — article me yahi sankhya), Sanjaynagar se Jhinna (Rs. 1.70 crore), Rampur se Rekha gram (Rs. 4.50 crore), Bhera se Talgaon (Rs. 5.62 crore), Nandgram se Pachloran Purwa (Rs. 3.61 crore), Bamnora gram se Mau Masania (Rs. 5 crore). Bhaskar ke mutabik in sadkon se 15-20 hazar graminon ko aavagaman ki suvidha milegi. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: date Bhaskar ke "9 mahine pehle" aur search-index timing (~Nov 2025) ke aadhar par est. hai. Note: isi daure ka Jamunia-focused alag Bhaskar lekh double-counting se bachne ke liye reject-list me rakha hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (researched 2026-10-14):
+// KEPT: kamakhya-pratap-singh-teeka-raja = 1; ahirwar-dileep = 2; arvind-pateriya = 3.
+// REJECTED — Kamakhya Pratap Singh (Teeka Raja):
+// - navbharattimes: 15 Aug 2026 ko graminon ka 40 km paidal march, ratri 1:30 baje vidhayak se baatchit — sirf "3-4 din me tender prakriya" ka aashwasan; aashwasan kaam nahi (rule: sirf maang/aashwasan nahi).
+// - patrika.com: Maharajpur CHC / Naugaon-Bijawar civil hospital nirman vilamb — MLA ka naam article me nahi; weak attribution.
+// - YouTube-only: Naugaon civil hospital feeta-kaat shubharambh (Bharat Samvad/CM News clips), Raja Yadavendra Singh stadium vriksharopan, Harpalpur vikas karyakram — YouTube-only sources bilkul nahi.
+// - public.app-only: Harpalpur nagar palika samiksha baithak (nal-jal nirdesh) — public.app-only sources bilkul nahi.
+// REJECTED — Ahirwar Dileep (Chandla, van-rajya-mantri):
+// - dailypioneer (PTI): Basrahi (Chandla) me school ke chhatron ne kafila roka — sadak+biji ki maang par sirf "road construction will start soon" ka aashwasan; aashwasan kaam nahi. (Constituency-specific tha phir bhi reject.)
+// - Free Press Journal / ETV Bharat: kafile ki gaadi ne e-rickshaw ko takkar (Oct 2025) — kafile ke vahan ki durghatna; MLA par seedha aarop nahi, police gaadi ki talash me — guilt-by-association negative, tangential; reject.
+// - Free Press Journal: kisan ke khet ki aag bujhane me madad — vyaktigat kshan, kaam (work) nahi.
+// - voiceofmp.com: mahilaon ka "sadak nahi" virodh (~Jan 2024) — user-submitted portal, kamzor source; negative ke liye credible editorial reporting chahiye thi; reject.
+// - trikaldarshitagat.com "real nayak" promotional piece — prashansa-lekh, koi concrete sourced kaam nahi; reject.
+// - YouTube-only: viklang shivir (Chandla), khet me aag video, aabhaar yatra, Amarkantak/Pushparajgarh bhooth baithak (Anuppur prabhari kshetra — constituency-specific bhi nahi).
+// REJECTED — Arvind Pateriya (Rajnagar):
+// - Bhaskar ka Jamunia 2.5 km sadak (Rs. 4 crore) lekh — upar wale 28-crore teen-divasiya daure ka hi hissa (Jamunia+Vikrampur dono list me); double-counting se bachne ke liye alag entry nahi.
+// - lalluram.com / Punjab Kesari: Seva Setu shivir me adhikariyon ko fatkaar — ghatna (event), kaam nahi.
+// - voiceofmp.com: Mukhyamantri Jan Vishwas Abhiyan shivir ka shubharambh — shivir udghatan ghatna hai, vikas-kaam nahi.
+// - public.app: gram Pahadi me Rs. 37.50 lakh panchayat bhavan bhoomi-pujan — public.app-only source bilkul nahi.
+// - YouTube-only: Namo talab marammat daava, Lavkushnagar jila maang, vikas karyon ka avalokan, mela aagman, janmadin — YouTube-only sources bilkul nahi.
+// Chhatarpur batch 2 — Lalita Yadav, Bablu Rajesh Shukla (researched 2026-10-14; bahin-ramsiya-bharti defensible empty) — DO NOT export; appended to works_mp.ts
+// Chhatarpur district batch 2 (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+// MLAs: lalita-yadav (Chhatarpur, BJP), bablu-rajesh-shukla (Bijawar, BJP), bahin-ramsiya-bharti (Malhara, INC)
+mpWorks['lalita-yadav'] = [
+  {
+    title: 'Gram Pathapur me Rs. 54.11 lakh ke vikas karyon ka bhoomi-pujan aur lokarpan — vidhayak vishesh nidhi se',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 22 Dec 2025',
+    sourceUrl: 'https://navabharat.com/?p=364197',
+    date: '2025-12-22',
+    note: 'Navabharat ke mutabik Pathapur me kul Rs. 54.11 lakh ke vikas karya unke prayason se swikrit hue; unki upasthiti me bhoomi-pujan aur lokarpan hua. Karye: vidhayak vishesh nidhi se parishad mohalla ke paas Rs. 25 lakh ka Manglik Bhavan nirman (bhoomi-pujan), gaon me nali nirman, school parisar evam Gaud basti se gram ki or CC road, shaskiya school parisar me boundary wall, aur bade Badka Hanuman mandir parisar sahit chabutra/baithak nirman ka lokarpan. Status: bhoomi-pujan + lokarpan (mishrit — kuch karya poorn, kuch nirmaanadheen).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Nandagay Kalan me Rs. 1.47 crore ke adhunik high school bhavan (720 sqm) ka bhoomi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Tarun Mitra, 16 Mar 2024',
+    sourceUrl: 'https://www.tarunmitra.in/state/madhya-pradesh/high-school-building-will-be-built-in-nandagay-kalan-with/article-29719',
+    date: '2024-03-16',
+    note: 'Tarun Mitra ke mutabik unhone Chhatarpur vidhansabha ke gram Nandagay Kalan me ek crore 47 lakh ki lagat se 720 varg meter me banne wale adhunik high school bhavan ka bhoomi-pujan kiya. Bhavan me pracharya kaksh, staff room, library, art & craft room, science lab, chhatr-chhatraon ke alag-alag shauchalay aur computer shiksha ki vyavastha hogi; unke anusaar 9 mahine me bhavan taiyar hoga. Nirman agency PIU. Status: bhoomi-pujan — nirman karyanwayan/purnata ki alag khabar nahi mili. Caveat: article me school ki swikriti me unke prayas/anushansa ka explicit ullekh nahi hai — entry unke dwara bhoomi-pujan ke aadhar par hai. Note: article ki body me gaon ka naam Nadgaein Kala bhi darj hai (headline me Nandgae Kalan).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kunjan mandir (bypass road) tak Rs. 21.29 lakh ke damar sadak ki swikriti aur bhoomi-pujan — unki chunavi ghoshna par',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Tarun Mitra, 16 Mar 2024',
+    sourceUrl: 'https://www.tarunmitra.in/state/madhya-pradesh/high-school-building-will-be-built-in-nandagay-kalan-with/article-29719',
+    date: '2024-03-16',
+    note: 'Tarun Mitra ke mutabik vidhansabha chunav prachar ke dauran unhone Kunjan mandir tak pahunch sugam banane ka vada kiya tha; jeetne ke baad unhone Rs. 21 lakh 29 hazar ki damar sadak swikrit karayi aur swayam uska bhoomi-pujan kar nirman karya ki shuruaat ki. Nirman agency: Nagar Palika; ek varsh me poornata ka lakshya bataya gaya. Status: bhoomi-pujan — purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+];
+mpWorks['bablu-rajesh-shukla'] = [
+  {
+    title: 'Bijawar me Rs. 11.34 crore ke 50-bistar civil aspatal ke karya ka bhoomi-pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'LiveVNS (Hindustan Samachar wire), 6 Mar 2024',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/%E0%A4%9B%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%AD%E0%A4%B0-%E0%A4%9A%E0%A4%B2%E0%A4%BE-%E0%A4%B6%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%A6%E0%A5%8C%E0%A4%B0-%E0%A4%B6%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%A8%E0%A5%87-%E0%A4%B2%E0%A5%82%E0%A4%9F%E0%A5%80-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%95%E0%A5%80/cid13754207.htm',
+    date: '2024-03-06',
+    note: 'LiveVNS ke mutabik Bijawar vidhayak Rajesh Shukla (Bablu) ne jansamanya ki maujoodgi me vedik vidhi-vidhan se naveen 50-bistar civil aspatal ki aadharshila rakhkar karya ka bhoomi-pujan kiya. Aspatal Rs. 11.34 crore ki lagat se adhunik suvidhaon se lais taiyar hoga; unka bayan ki ab Bijawar kshetra ke logon ko Chhatarpur nahi jana padega. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: article me aspatal ki swikriti me unke prayas/anushansa ka explicit ullekh nahi hai — entry unke dwara bhoomi-pujan ke aadhar par hai. Note: ye khabar Hindustan Samachar ((Hi.Sa.)) wire ki hai, jo LiveVNS par republish hui.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Devra me Rs. 3 crore ke vidyut sub-station ka lokarpan (kendra ki RDSS yojana) — lagbhag dedh darjan gaon labhanvit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'LiveVNS (Hindustan Samachar wire), 6 Mar 2024',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/%E0%A4%9B%E0%A4%A4%E0%A4%B0%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B0%E0%A4%BE%E0%A4%A4-%E0%A4%AD%E0%A4%B0-%E0%A4%9A%E0%A4%B2%E0%A4%BE-%E0%A4%B6%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%A6%E0%A5%8C%E0%A4%B0-%E0%A4%B6%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%A6%E0%A5%8C%E0%A4%B0-%E0%A4%B6%E0%A4%BE%E0%A4%AF%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%A8%E0%A5%87-%E0%A4%B2%E0%A5%82%E0%A4%9F%E0%A5%80-%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82-%E0%A4%95%E0%A5%80/cid13754207.htm',
+    date: '2024-03-06',
+    note: 'Usi LiveVNS report ke mutabik unhone vidhansabha kshetra ke Devra me Rs. 3 crore ki lagat se taiyar vidyut sub-station ka lokarpan kiya. Sub-station kendra sarkar ki RDSS vidyutikaran yojana ke tahat bana hai (kshamta 5000 kW, 4 feeder — Devra gharelu/krishi, Motigarh gharelu/krishi); isse lagbhag dedh darjan gaon (Motigarh, Amrauniya, Majhguvan, Kupiya, Devra, Tapariyan, Lahar, Patra, Dharampura, Udaypura aadi) — lagbhag 4000 gharelu aur 1500 krishi upbhokta — labhanvit honge. Status: lokarpan (poorn). Credit-pardarshita: nirman kendra sarkar ki RDSS yojana ke tahat hua; unki bhoomika lokarpan/karyakram tak seemit hai — note me darj.',
+    period: '2023-2028',
+  },
+];
+// bahin-ramsiya-bharti: koi entry nahi — Dec 2023 se tenure me koi news/sarkari-verified kaam nahi mila. Unki news coverage mukhya roop se political/viral videos tak seemit hai (Bamnora–Hirapur sadak patchwork ka nirikshan, jan-kalyan karyakram me sarkar ki aalochana ka viral video, Bharat Vikas Yatra me maujoodgi) — inme se koi bhi vikas-karya nahi banta. Weak attribution se profile bharne se behtar khaali rakhna hai; vipakshi MLA hone ke kaaran vidhayak-nidhi karyon ki khabar bhi uplabdh nahi mili.
+// REJECT-LOG (2026-10-14 research):
+// lalita-yadav rejects (9):
+// - public.app: Dhadari gaon Rs. 55 lakh bhoomi-pujan (23 Dec 2025) — REJECT: public.app-only source allowed nahi.
+// - public.app: Bandhikala Rs. 1.11 crore bhoomi-pujan/lokarpan (29 Dec 2025) — REJECT: public.app-only.
+// - public.app: Gangayach gaon Rs. 1 crore+ saugat (10 Dec 2025) — REJECT: public.app-only.
+// - YouTube: "7 crore se Chhatarpur ki sadakon ki marammat" ka unka daava — REJECT: YouTube-only source.
+// - YouTube: gram Dehri ke liye Pathapur main road se Banarsi Sarkar mandir tak Rs. 19.75 lakh sudur sadak bhoomi-pujan (11 Apr 2025) — REJECT: YouTube-only.
+// - YouTube: medical college nirmaan-sthal ka nirikshan — REJECT: YouTube-only + sirf nirikshan, kaam nahi.
+// - Amar Ujala, 29 Aug 2025: Rs. 2.2 crore ka Shri Krishna Dham — REJECT: CM Mohan Yadav ki ghoshna/pariyojna; unhone sirf media ko jankari di — concrete bhoomika nahi (weak attribution).
+// - Patrika: Nagar Palika budget Rs. 564 crore, har ward ko Rs. 25 lakh, 4 nayi paani tankiyan — REJECT: Nagar Palika parishad ka nirnay; baithak me unki maujoodgi concrete bhoomika nahi (weak attribution).
+// - FreePressJournal aadi: baadh-prabhavit ilakon ka daura/rahat nirdesh (Jul 2025) — REJECT: rahat-daura/nirikshan hai, vikas-karya nahi.
+// bablu-rajesh-shukla rejects (5):
+// - mptezkhabar: jan-sanvad yatra me kul Rs. 43 lakh ki ghoshnaen + Mahuajhala–Alpur 15.99 lakh sadak bhoomi-pujan + Kishangarh–Nagda 1.51 crore sadak bhoomi-pujan — REJECT: tenure se pehle ki khabar (2022-era), tenure rule.
+// - Amar Ujala, 15 Jul 2025: Bijawar me Shivraj Singh Chauhan dwara rope gaye paudhe 3 mahine me sukhe — REJECT: woh kendriya mantri ke karyakram me sirf maujood the (weak attribution).
+// - Amar Ujata, 19 Dec 2024: CM Mohan Yadav dwara Satai me Rs. 162 crore ke karyon ka lokarpan/bhoomi-pujan — REJECT: CM ka karyakram; unhone sirf swagat kiya (weak attribution).
+// - Zee News: SP se nishkasan (Rajya Sabha vote, 2020-era) — REJECT: purani political khabar, kaam nahi.
+// - YouTube (Bundelkhand 24x7): Ken-Betwa visthapiton se mulakat — REJECT: YouTube-only + mulakat hai, vikas-karya nahi.
+// bahin-ramsiya-bharti rejects (5):
+// - bhaskarenglish.in: Bamnora–Hirapur sadak patchwork ka aakasmik nirikshan — REJECT: sirf nirikshan/aalochana, kaam nahi.
+// - inhnews.in: collector ke rokne par bhi sarkari yojanaon ki pol kholne wala viral video — REJECT: political event, vikas-karya nahi.
+// - Punjab Kesari: Viksit Bharat Sankalp Yatra me maujoodgi — REJECT: sarkari karyakram me maujoodgi matra (weak attribution).
+// - YouTube/Bundeli Bauchaar: "tevar/aaina" wale videos — REJECT: YouTube-only.
+// - indialeader.com: "initiated several development projects" jaise generic daave — REJECT: vague, koi verifiable specifics nahi; page me factual errors bhi hain.
