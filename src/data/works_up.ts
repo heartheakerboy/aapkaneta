@@ -549,4 +549,380 @@ export const upWorks: Record<string, Work[]> = {
       note: 'Sevapuri vidhayak ke prayas se PWD dwara FY 2024-25 me 14 margon ki marammat + 37 naye pitch margon ka nirman; Khajuri (Mirzamurad) sthit jansampark karyalaya par karyakram, MLC Hansraj Vishwakarma mukhya atithi. JaiDeshNews ne wahi karyakram swatantra roop se cover kiya — corroborated. Status: lokarpan + shilanyas (mishrit).',
     },
   ],
+
+  // ---- Prayagraj district batch (researched 2026-10-13) ----
+// Prayagraj district — Group A (researched 2026-10-13)
+// MLA: guru-prasad-maurya, geeta-shastri-pasi, deepak-patel, vijama-yadav
+// Entries: 1 + 0 + 2 + 1 = 4
+
+  // ---- guru-prasad-maurya (Guru Prasad Maurya, Phaphamau, BJP; tenure: Mar 2022 se) ----
+  // 1 verified entry. Rejects (3):
+  //  - Dainik Bhaskar "Fafamau road & water pipeline work begins" (~Aug 2026): snippet me daava tha ki
+  //    vidhayak ki pahal/margdarshan par sadak + peyjal pipeline ka kaam shuru hua, lekin page app-redirect
+  //    (403) par atka — poora article kholkar padha NAHI ja saka, isliye verify nahi hua, shamil nahi.
+  //  - YouTube: Magh Mela Ayurvedic chikitsalaya shubharambh — YouTube-only source, reject.
+  //  - Bhaskar: Kaudihar BRC orientation workshop me maujoodgi — sirf upasthiti, kaam nahi, reject.
+  //  - (Keshav Prasad Maurya ke 2021 ke shilanyas wali Indian Express khabar galat vyakti — Deputy CM the, reject.)
+  'guru-prasad-maurya': [
+    {
+      title: 'Akbarpur (Gangaganj) me anganwadi kendra ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 31 Dec 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/gangapar/story-inauguration-of-anganwadi-center-in-akbarpur-by-mla-guru-prasad-maurya-201767185864320.html',
+      date: '2025-12-31',
+      note: 'Nawabganj/Kaudihar kshetra ke Akbarpur urf Gangaganj me anganwadi kendra ka udghatan vidhayak ne BDO Manoj Kumar ke saath sanyukt roop se kiya. Status: udghatan — purna nirmit karya ka udghatan.',
+    },
+  ],
+
+  // ---- geeta-shastri-pasi (Geeta Shastri (Pasi), Soraon, SP; tenure: Mar 2022 se) ----
+  // 0 verified entries — imaandaari se kuch nahi mila. Hindi + English me kayi searches par unke naam
+  //  par koi shilanyas/udghatan/vidhayak-nidhi kaam ki khabar nahi mili; ve news me lagbhag adrishya hain.
+  // Rejects (3):
+  //  - Dainik Bhaskar "Soranv street lights faulty" (~Jan 2026): poorv vidhayak ki lagi lights kharab, graminon
+  //    ke anusaar vartaman vidhayika ne ashwasan diya par kaam nahi hua, patrakaar se baat me "ye poorv vidhayak
+  //    ka karya hai" kahkar jimmedari se bachti nazar aayin. Ye nishkriyata ki aalochana hai — na kaam hai, na
+  //    allegation/case, isliye negative entry ke layak nahi, reject.
+  //  - Dainik Bhaskar "MLA fund light out of order in Soraon market" (~Feb 2026): wahi street-light vishay,
+  //    poorv vidhayak Jamuna Prasad Saroj ki nidhi ki light — reject.
+  //  - YouTube talk-shows (janta-santushti survey, Pasi-samaj manch) — weak source, reject.
+  'geeta-shastri-pasi': [],
+
+  // ---- deepak-patel (Deepak Patel, Phulpur, BJP; Nov 2024 upchunav — sirf Nov 2024 ke BAAD ke kaam) ----
+  // 2 verified entries. Rejects (2):
+  //  - Univarta/UNI interview (7 Apr 2026): vidhayak ke daave — Salori-Hetapatti ke beech Ganga par ~1300 crore
+  //    ke pul ko manzoori (40 saal purani maang), sadakon ka chaudikaran, bijli sudhar. Ye interview-daave/
+  //    ghoshna hain; rajya-stariya mega project jisme vidhayak ki apni saaf bhumika ki koi swatantra khabar
+  //    nahi — reject.
+  //  - Dainik Bhaskar "MLA Deepak Patel inaugurated Skill Development Center" (~Feb 2026, Saidabad/Dhokri):
+  //    sambhavtah Hindustan wali 8 Nov 2025 ki khabar ka hi vilambit report — duplicate ke roop me reject,
+  //    alag entry nahi banayi.
+  'deepak-patel': [
+    {
+      title: 'Phulpur me vidhayak nidhi se RCC sampark marg ka nirman shuru',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 3 Sep 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/gangapar/story-construction-of-rcc-road-begins-in-phoolpur-with-inauguration-ceremony-201788431336556.html',
+      date: '2026-09-03',
+      note: 'Vidhayak Deepak Patel ki vidhayak nidhi se swikrit RCC sampark marg ka nirman havan-pujan ke saath shuru karaya gaya: Umarpur pakki sadak se banne wala CC marg Brahman, Jaswal, Prajapati aur Yadav bastiyon ko mukhya marg se jodega; jalbharav se rahat ki ummeed. Vidhivat pujan VHP neta Pawan Kumar Pandey ne karaya (vidhayak ne swayam pujan nahi kiya). Status: karyarambh — swikrit/shuru, purnata ki khabar nahi mili.',
+    },
+    {
+      title: 'Dhokari gaon me UP kaushal vikas prashikshan kendra ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 8 Nov 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/gangapar/story-inauguration-of-skill-development-center-in-dhokari-village-by-mla-deepak-patel-201762597927619.html',
+      date: '2025-11-08',
+      note: 'Phulpur ke Dhokari gaon me Uttar Pradesh Kaushal Vikas Prashikshan Kendra ka vidhayak ne feeta katkar udghatan kiya; kendra Sw. Yagya Narayan Mishra Memorial Seva Samiti dwara RP College (Saidabad) me sanchalit hai. Status: udghatan — taiyar suvidha ka shubharambh.',
+    },
+  ],
+
+  // ---- vijama-yadav (Vijama Yadav, Pratappur, SP; tenure: Mar 2022 se) ----
+  // 1 verified entry (negative — court dosh-siddhi, credible reporting + case/rebuttal status explicit).
+  // Vikas-karya (shilanyas/udghatan/nidhi) ki koi khabar nahi mili — ve news me mukhyatah is case aur
+  // pati ki hatya par nyay ki maang ko lekar dikhti hain.
+  // Rejects (3):
+  //  - Hindustan "PWD proposals meeting" (~May 2026): disha-samiti baithak me kai vidhayakon ke saath
+  //    maujoodgi — sirf upasthiti, koi kaam attributable nahi, reject.
+  //  - KTV Varanasi (Aug 2025): pati Jawahar Yadav ke hatyaron ko saza ki CM se maang — maang/sawal hai,
+  //    kaam nahi, reject.
+  //  - YouTube "jal-jamav samasya door" — YouTube-only source, reject.
+  'vijama-yadav': [
+    {
+      title: '22 saal purane virodh-pradarshan case me 1.5 saal ki saza (court faisla)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'The Indian Express, 23 Feb 2023',
+      sourceUrl: 'https://indianexpress.com/article/cities/lucknow/22-year-old-protest-case-sp-mla-gets-18-month-jail-8463511/lite/',
+      date: '2023-02-23',
+      note: 'Prayagraj MP/MLA court ne 21 Sep 2000 ke Sarai Inayat hinsak virodh-pradarshan case me Vijama Yadav ko doshi thahrate hue dedh saal ki kaid (samvarti sajayen) sunayi: IPC 147/341/504/332/353 + CLA Act Sec 7; jurmane sahit sarvajanik sampatti ke nuksan ke liye ₹1 lakh. 14 saha-abhiyukt bari; hatya ke prayas aadi gambhir dharaon se ve bhi bari. Court ne appeal hetu jamanat di; saza 2 saal se kam hone ke kaaran vidhayaki bani rahi. Status: dosh-siddhi — jamanat par, uchch nyayalaya me appeal ki ghoshna.',
+    },
+  ],
+
+// Prayagraj district batch — Group B (researched 2026-10-13).
+// Slugs: hakim-lal-bind, sandeep-singh, piyush-ranjan-nishad, sidharth-nath-singh.
+// NOTE: Bhaskar local articles me exact date aksar nahi hoti ("N mahine pehle" + weekday
+// se anumanit ki gayi hai — har aisi entry ke note me caveat likha hai).
+
+  // ---- hakim-lal-bind (Hakim Lal Bind, Handia, SP) ----
+// Entries: 2 (1 positive + 1 negative). Rejected: 3.
+// - REJECT: Baraut-Bithauli marg interview (YouTube-only, sirf maang/demand — sadak ka karya shuru hi nahi hua).
+// - REJECT: Indravar gaon me katha vachni karyakram me upasthiti (Bhaskar) — sirf event me maujood the, koi karya nahi.
+// - REJECT: 30 Mar 2026 anganwadi karyakram (Hindustan) — Handia ke 78 niyukti patra/8 kendron ka zikr hai, lekin kaun vidhayak ne vitran/lokarpan kiya ye confirm nahi.
+  'hakim-lal-bind': [
+  {
+    title: 'Dhanupur block me Mulayam Singh sabhagar ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, ~13 Feb 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/handia/news/handia-mla-inaugurated-mulayam-singh-auditorium-136565023.html',
+    date: '2026-02-13',
+    note: 'Dhanupur block prangan me poorv mukhyamantri Mulayam Singh Yadav ki smriti me bane 100-seat sabhagar ka vidhayak ne feeta katkar lokarpan kiya. Uddeshya: pradhan, kshetra panchayat sadasya aur aam nagrik yahan baithkar apni samasyaen block adhikariyon tak pahuncha saken. Status: lokarpan — purna nirmit karya. Exact date page par nahi thi — article ke "8 mahine pehle" (Oct 2026 se) se anumanit.',
+  },
+  {
+    title: 'Banpurwa gaon me do bhaiyon ki sandigdh maut — vidhayak par FIR (vidhayak ne sabhi aarop nakare)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, ~24 Sep 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/handia/news/sp-mla-hakim-lal-bind-denies-links-prayagraj-murder-case-138357302.html',
+    date: '2026-09-24',
+    note: 'Banpurwa gaon me 20 dinon ke bhitar ek hi parivar ke do bhaiyon (Santosh Kumar, Sushil Kumar) ki sandigdh paristhitiyon me maut; mritak ke bhai ki tehreer par police ne vidhayak Hakim Lal Bind sahit 5 logon ke khilaf vibhinn dharaon me mukadma darj kiya (FIR July 2026). Vidhayak ne FIR ko poori tarah farzi bataya: jis bhoomi vivad ko joda ja raha hai wo niradhar hai, 2017 me rajaswa vibhag/magistrate team ne sarkari bhoomi ka seemankan kiya tha aur usi chinhit bhoomi par gaushala banwayi gayi; mritak parivar ko vyaktigat roop se nahi jante; BJP netaon par rajnaitik sajish ka aarop lagaya aur CDR jaanch ki appeal ki. Status: FIR darj — jaanch ka parinam report nahi hua; aarop abhi aarop hain, dosh siddh nahi. Exact coverage date page par nahi thi — "19 din pehle" se anumanit.',
+  },
+],
+
+  // ---- sandeep-singh (Sandeep Singh / Sandeep Patel, Meja, SP) ----
+// Entries: 2. Rejected: 4.
+// - REJECT: Bhaskar/Amrit Vichar interview (Mar 2026) — vidhayak nidhi ke "paani, bijli, sadak, school pankhe" jaise vague dawe, koi specific karya/tithi nahi.
+// - REJECT: Sirsa pul — sirf maang; shilanyas PWD mantri ne kiya tha aur karya aage nahi badha; vidhayak ki apni bhumika nahi.
+// - REJECT: Hindustan "Mughalsarai me 5 sadkon ka lokarpan" — galat vyakti (vidhayak Ramesh Jaiswal, Chandauli); "Sandeep Patel" wahan BJP mandal adhyaksh hai.
+// - REJECT: 30 Mar 2026 anganwadi karyakram (Hindustan) — Meja ke 94 niyukti patra ka zikr hai, lekin vitran/lokarpan kisne kiya confirm nahi.
+  'sandeep-singh': [
+  {
+    title: 'Meja me Belan nahar ke rajbaha me silt safai abhiyan ka shubharambh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 19 Nov 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/lohari/news/silt-cleaning-of-belan-canal-started-in-meja-136459266.html',
+    date: '2025-11-19',
+    note: 'Lohari (Meja) me Belan nahar ke rajbaha me silt safai abhiyan ka vidhayak Sandeep Patel ne feeta katkar udghatan kiya; uddeshya kisanon ko sinchai ke liye paryapt paani uplabdh karana. Adhikariyon ke anusar safai karya lagbhag 1 mahine me purna hoga. Status: shubharambh — abhiyan shuru, purnata ki alag khabar nahi mili. (Article me tithi swayam "Budhvar, 19 November 2025" di gayi hai — 19 Nov 2025 Budhvar hi tha.)',
+  },
+  {
+    title: 'Manda block ke gaon me vidhayak nidhi se 115 solar lights swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, ~15 Aug 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/mishrpur/news/vidhayak-sandeep-patel-nidhi-vikas-manda-block-solar-lights-137953219.html',
+    date: '2026-08-15',
+    note: 'Manda block ke kai gaon me sarve ke baad chinhit sthanon (gaon sampark marg, chaurahe, sarvajanik sthal, schoolon ke aaspaas, bazaar kshetra) par vidhayak nidhi se 115 solar lights lagane ka prastav shasan ko bheja gaya tha, jise swikriti mil gayi; vidhayak ne suchi sarvajanik ki aur gram sachivon ke madhyam se karya shuru karane ki baat kahi. Status: swikrit — suchi jari, lights lagane ka karya shuru hona baki; purnata ki khabar nahi mili. Exact date page par nahi thi — article ke "2 mahine pehle" + "Shanivar" se anumanit (15 Aug 2026 Shanivar tha).',
+  },
+],
+
+  // ---- piyush-ranjan-nishad (Piyush Ranjan Nishad, Karachhana, BJP) ----
+// Entries: 4. Rejected: 5.
+// - REJECT: Virpur-Kachri marg marammat ka raat me nirikshan (surajvarta.in, Apr 2025) — sirf nirikshan/fatkar, karya swayam nahi.
+// - REJECT: CM samvad baithak me flyover (Central Naini Jail–BPCL) + Deeha 100-bed hospital ke prastav (unitedbharat.net) — sirf maang/proposal.
+// - REJECT: Karachhana me ₹45 crore sadak/pul shilanyas (upkibaat.com) — shilanyas PWD mantri Jitin Prasad ne kiya, vidhayak sirf maujood the; source bhi kamzor.
+// - REJECT: Kafile par hamla (Bhaskar, Jul 2026) — suraksha ghatna hai, vikas karya nahi; vidhayak par koi aarop nahi.
+// - REJECT: Mahila dwara shoshan ka aarop (YouTube-only; channel swayam kehta hai "khabar ki pushti nahi karta") — weak source, ek-pakshiya aarop.
+  'piyush-ranjan-nishad': [
+  {
+    title: 'Karachhana me 5 rooton par city bus seva ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Jagran, 1 Jul 2025',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/prayagraj-prayagraj-city-bus-service-launched-new-routes-benefit-thousands-23972467.html',
+    date: '2025-07-01',
+    note: 'Karachhana block mukhyalay se vidhayak Piyush Ranjan Nishad aur SDM Tapan Kumar Mishra ne hari jhandi dikhakar 5 rooton (Dhahua Ghat, Kohdar Ghat, Panasa, Bhaganpur, Karma-Gauhania sampark marg) par city bus seva shuru ki; ~4 lakh aabadi ke labhanvit hone ka dawa. Status: shubharambh — seva shuru ho gayi.',
+  },
+  {
+    title: 'Karachhana me 7 anganwadi kendron ka lokarpan, 9 ka shilanyas, 28 niyukti patra vitran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 30 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/prayagraj/story-appointment-of-669-anganwadi-workers-in-prayagraj-with-inauguration-of-new-centers-201774883561421.html',
+    date: '2026-03-30',
+    note: 'Zila-stariya karyakram (mukhya aayojan Lucknow me CM dwara) ke tehat Karachhana vikas khand me vidhayak ne 28 navniyukt anganwadi karyakartriyon ko niyukti patra vitrit kiye, 7 navnirmit anganwadi kendron ka lokarpan aur 9 navswikrit kendron ka shilanyas kiya. Status: lokarpan/shilanyas — 7 kendra purna, 9 swikrit-nirmanadheen.',
+  },
+  {
+    title: '248 parishadiya vidyalayon ko smart school banane ke liye ₹14.65 crore ka dawa',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Hindustan, ~17 Jun 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/gangapar/story-piyush-ranjan-nishad-advocates-education-and-women-s-empowerment-for-regional-development-201781691032528.html',
+    date: '2026-06-17',
+    note: 'Karachhana block me jan kalyan swasthya mele me vidhayak ke dawe ke anusar unhone apni vidhayak nidhi se 248 parishadiya vidyalayon ke vikas aur smart school banane ke liye lagbhag ₹14.65 crore uplabdh karaye, jisse sarkari vidyalayon me bachchon ki sankhya 27 hazar se ~35 hazar hui. Status: dawa — Hindustan ne karyakram me kahe gaye shabdon ko report kiya hai; swatantra swikriti/nirikshan pushti nahi mili. Exact date page par nahi thi — story-ID kram + "118 din pehle" se ~17 Jun 2026 anumanit.',
+  },
+  {
+    title: 'Deeha me Mukhyamantri Composite Model Vidyalaya aur stadium ka bhumi pujan (kul ~₹50 crore)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, ~10 Sep 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/karchana/news/karchhana-cm-composite-model-school-bhumi-pujan-layak-piyush-ranjan-138288512.html',
+    date: '2026-09-10',
+    note: 'Karachhana ke Deeha gram sabha me Mukhyamantri Composite Model Vidyalaya ka bhumi pujan/shilanyas vidhayak ne mukhya atithi ke roop me kiya. Vidhayak ke anusar: vidyalaya ₹27 crore + stadium ₹23 crore (kul ~₹50 crore); pre-class se inter tak nishulk shiksha, rehna-khana samet sab suvidhaen muft. Ye rajya sarkar ki yojana hai — vidhayak ki bhumika bhumi pujan/mukhya atithi tak seemit. Status: bhumi pujan/shilanyas — nirman shuru, purnata ki khabar nahi mili. Exact date page par nahi thi — article ke "1 mahine pehle" + "Guruvar" se anumanit (10 Sep 2026 Guruvar tha).',
+  },
+],
+
+  // ---- sidharth-nath-singh (Sidharth Nath Singh, Prayagraj West, BJP; ex-minister — sirf constituency-specific karya) ----
+// Entries: 2. Rejected: 7.
+// - REJECT: Rajruppur/Kalindipuram/Jhalwa ₹4.56 crore 20 sadak lokarpan (swatantraprabhat) — ~Nov 2021, pre-tenure (Mar 2022 se pehle).
+// - REJECT: ₹6,700 crore Mahakumbh/PWD review baithak (Jul 2025) — zila/rajya-stariya, constituency-specific bhumika saaf nahi.
+// - REJECT: Chauphatka flyover nirikshan (inextlive, Oct 2023) — sirf nirikshan; pul ka prastav mantri-kaalkhand (pre-2022) ka.
+// - REJECT: Bhagwatpur block kayakalpa baithak (livevns, Mar 2024) — sirf sambodhan/sammaan samaroh, koi karya nahi.
+// - REJECT: Tilhapur (Kausambi/Chail) swagat samaroh — doosre zila/kshetra ka event, koi karya nahi.
+// - REJECT: Matdata panjikaran shivir daura + BJP sadasyata abhiyan (Hindustan) — party gatividhi, vikas karya nahi.
+// - REJECT: Naini purane Yamuna pul street-light shilapatt truti (Amrit Vichar) — unke karya par khabar nahi.
+// - NOTE: 47 sadak ₹641.47 lakh lokarpan wali khabar (~Sep 2020, hindustandailynews) bhi pre-tenure mili — reject.
+  'sidharth-nath-singh': [
+  {
+    title: 'Jhalwa me EPF karyalaya bhawan ka bhumi pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar (livevns), 28 Mar 2023',
+    sourceUrl: 'https://livevns.news/uttar-pradesh/foundation-stone-of-epf-office-building-in-west-jhalwaphp/cid10412292.htm',
+    date: '2023-03-28',
+    note: 'Shahar Paschimi ke Jhalwa (Triple IT aur Rashtriya Vidhi Vishwavidyalaya ke beech) me EPF karyalaya bhawan ka bhumi pujan vidhayak ne sampann karaya; kendriya mantri Bhupender Yadav virtual jude. PDA se ~₹5 crore me ~1000 sqm zameen kharidi gayi; 3-tal bhawan, CPWD karyadai agency, ~2.5 saal me nirman; boundary wall ka karya shuru ho chuka tha. Prayagraj, Kaushambi, Ayodhya, Sultanpur, Amethi, Pratapgarh ke karmchariyon ke PF sambandhi karya yahin honge. Status: bhumi pujan — nirmanadheen, purnata ki khabar nahi mili. (Article me "28 March (H.S.)" diya hai; crawl gap se 2023 fix — ye unke mantri-kaalkhand ke baad ka hai.)',
+  },
+  {
+    title: 'Shahar Paschimi ki 35 navchaynit anganwadi karyakartriyon ko niyukti patra vitran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar (livevns), 2 Sep 2025',
+    sourceUrl: 'https://livevns.news/uttar-pradesh/siddharth-nath-singh-distributed-appointment-lettephp/cid17351500.htm',
+    date: '2025-09-02',
+    note: 'Vikas Bhawan me Shahar Paschimi ki 35 navchaynit anganwadi karyakartriyon (Bal Vikas Pariyojana Shahar Pratham-15, Shahar Dwitiya-20) ko vidhayak ne niyukti patra vitrit kiye. Ye sarkari bharti karyakram ka niyamit hissa tha — koi naya nirman ya vikas karya nahi. Status: vitran sampann. (Article me "02 September (H.S.)" + "Mangalvar" — 2 Sep 2025 Mangalvar tha.)',
+  },
+],
+
+// Prayagraj district batch — Group C (researched 2026-10-13)
+// 4 MLAs: harshvardhan-bajpai, nand-gopal-gupta-nandi, vachaspati, raj-mani
+// Fragment for upWorks in src/data/works_up.ts — import/export mat jodo, sirf entries.
+
+  // ---- harshvardhan-bajpai (Harshvardhan Bajpai, Prayagraj North, BJP) ----
+  // Entries: 4. Rejects: 6 — (1) Salori-Hetapatti ₹1000cr bridge shilanyas: YouTube-only source; (2) ₹30cr pumping station: sirf prastav/manjoori, koi nirman karya nahi; (3) tbnews.in Bairahana underpass: article me galat constituency ("Allahabad South ke vidhayak Harshvardhan Bajpai" — wo North ke hain) + weak source; (4) TOI flyover proposals: sirf proposal; (5) Nazul bill opposition (LatestLY, Aug 2024): legislative stance, works entry nahi; (6) plaque vivad (Hindustan, Dec 2025): poorv vidhayak ka ek-pakshiya aarop (credit ko lekar), negative entry ke bar me nahi, kaam bhi nahi.
+  'harshvardhan-bajpai': [
+    {
+      title: 'Shiksha Nideshalaya Prayagraj me pratikshalaya aur prasadhankaksh ka shilanyas (vidhayak nidhi ~₹20-27 lakh)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'INA News, 26 Mar 2023',
+      sourceUrl: 'https://www.inanews.in/2023/03/mlaharshvardhannews.html',
+      date: '2023-03-26',
+      note: 'Shiksha Nideshalaya Prayagraj me aaguntak mahila-purushon ke liye pratikshalaya aur prasadhankaksh nirman ka shilanyas; vidhayak nidhi (satr 2022-23) se ~₹20-27 lakh. Zila samvaddata (Shantanu Tripathi) ki byline wali report. Status: shilanyas — swikrit/shuru, purnata ki alag khabar nahi mili. Spot-check verify: INA News page kholkar padha gaya (tithi image filename 2023-03-26 se fix ki).',
+    },
+    {
+      title: 'Janpad nyayalaya me mahila adhivakta kaksh aur CC sadak ka udghatan (vidhayak nidhi ₹22.31 lakh)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Jan Media TV, 15 Jun 2023',
+      sourceUrl: 'https://www.janmediatv.com/2023/06/15/mla-harshvardhan-bajpai/',
+      date: '2023-05-14',
+      note: '14 May 2023 ko Janpad Nyayalaya parisar me mahila adhivakta kaksh, pakka shed/seedi aur CC sadak ka udghatan vidhayak ne kiya; vidhayak nidhi (satr 2021-22) se ~₹22.31 lakh ki lagat se nirman. Status: udghatan — purna nirmit karya. Caveat: nidhi swikriti satr 2021-22 (tenure se pehle) ki hai, lekin udghatan/purnata May 2023 me hui — isliye tenure rule (March 2022 ke baad ka kaam) ke andar. Spot-check verify: Jan Media TV page kholkar padha gaya.',
+    },
+    {
+      title: 'Chhota Baghada me ₹9 crore ki sadak-nali-interlocking yojana ka bhoomi pujan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, Aug 2025 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/prayagraj/story-nine-crore-development-project-for-roads-and-drainage-in-chhota-baghaada-201778167196396.html',
+      date: '2025-08',
+      note: 'Chhota Baghada kshetra me ₹9 crore se sadak, nali aur interlocking kaam — vidhayak ne Lok Nirman Vibhag ke liye swikrit karakar bhoomi pujan kiya. Status: swikriti + bhoomi pujan — kaam shuru, purnata ki alag khabar nahi mili. Date caveat: page par tithi nahi thi; article image asset Aug 2025 ka hai, isliye Aug 2025 (est.) — page baad me (May 2026) update hua tha.',
+    },
+    {
+      title: 'Prayagraj North me 3 laghu setuon (₹502.06 lakh) ko swikriti — vidhayak ke prayason se',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindusthan Samachar, 6 Sep 2026',
+      sourceUrl: 'https://www.hindusthansamachar.in/Encyc/2026/9/6/UP-PRAYAGRAJ-BJP-HARSHVARDHAN-.php',
+      date: '2026-09-06',
+      note: 'Hindusthan Samachar (news agency, byline Ram Bahadur Pal): vidhayak ke prayason se 3 laghu setu nirman ko swikriti — Ganga Nagar gali no. 21 naale par (₹159.69 lakh), Ponpa Road ke paas naale par (₹160.79 lakh), Kalighati Dham-Basar naale par (₹181.58 lakh); kul ₹502.06 lakh. Status: swikriti (government approval) — nirman shuru/purnata ki alag khabar nahi mili.',
+    },
+  ],
+
+  // ---- nand-gopal-gupta-nandi (Nand Gopal Gupta (Nandi), Prayagraj South, BJP) ----
+  // Entries: 5. Rejects: 2 — (1) prachin mandiron ke sundarikaran ka prastav (Hindustan): sirf paryatan mantri ko patra/proposal, koi swikriti/nirman nahi; (2) Mahakumbh/Ganga Expressway/statewide investment daawe: statewide minister faisle, constituency-specific nahi — task rule ke anusar exclude.
+  // NOTE: ve current cabinet minister (Audyogik Vikas) hain — saare 5 entries Prayagraj South ke andar ke constituency-specific kaam hain, statewide minister faisle shamil nahi.
+  'nand-gopal-gupta-nandi': [
+    {
+      title: 'Naini me ₹126.60 lakh ki sadak-nali pariyojanaon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'News Track, 13 Apr 2025',
+      sourceUrl: 'https://newstrack.com/amp/uttar-pradesh/prayagraj/minister-nand-gopal-nandi-meets-people-hears-problems-news-in-hindi-506332',
+      date: '2025-04-13',
+      note: 'Prayagraj South (Naini kshetra) me ₹126.60 lakh se nirmit sadkon/galiyon ka lokarpan: Kharkauni electric bus stand (₹12.09L), Dube Talab (₹4.25L + ₹4.65L), Janhvi Puram Kharkauni (₹24.75L + ₹24.75L), Ambedkar Nagar antrik galiyan (₹25.50L), Kazipur Road Gandhi Nagar (₹22.50L), Kazipur mukhyamarg (₹8.20L). Status: lokarpan — purna nirmit karya. Constituency-specific kaam hai, statewide minister faisla nahi. Spot-check verify: Newstrack page kholkar padha gaya.',
+    },
+    {
+      title: 'Sadiyapur, Meerapur, Karelabagh me ₹1.47 crore ke CC sadak-nali aur sanskritik sthal/yoga hall ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 29 Oct 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/allahabad/minister-nandi-inaugurated-the-sadiyapur-cultural-program-site-and-yoga-center-children-were-delighted-2025-10-29',
+      date: '2025-10-29',
+      note: 'Prayagraj South ke Sadiyapur, Meerapur, Karelabagh ilakon me ₹1,46,79,000 ki lagat se nirmit CC sadak-nali karyon ka lokarpan; Sadiyapur me kachraghar bani bhoomi par sanskritik karyakram sthal, yoga hall aur baradari (₹17.65 lakh) ka bhi nirman-lokarpan. Status: lokarpan — purna nirmit karya. Constituency-specific kaam. Spot-check verify: AU page kholkar padha gaya.',
+    },
+    {
+      title: 'Kidganj mandal me ₹60 lakh ki CC sadak-nali karyon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 30 Oct 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/prayagraj/story-infrastructure-development-in-kidganj-60-lakh-cc-roads-launched-by-minister-nandi-201761838705281.html',
+      date: '2025-10-30',
+      note: 'Prayagraj South ke Kidganj mandal me ₹60 lakh ki lagat se nirmit CC sadak-nali karyon ka lokarpan: Azad Square (nali ₹8.10L, gali ₹9.60L), Kothaparcha garhaiya (₹3.57L), Baihrana Lashkar Line (₹6.65L + ₹6.03L), Anoop Agrahari-Anil Goswami (₹9.80L), Malakaraj (₹9.40L) adi. Status: lokarpan — purna nirmit karya. Constituency-specific kaam. Spot-check verify: Hindustan page kholkar padha gaya.',
+    },
+    {
+      title: 'Naini me ₹2.23 crore ki sadak-nali pariyojanaon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 31 Jan 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/prayagraj/story-minister-nandi-launches-development-projects-worth-2-23-crores-in-naini-201769876871626.html',
+      date: '2026-01-31',
+      note: 'Prayagraj South ke Naini kshetra me ₹2,23,40,000 ke sadak-nali karyon ka lokarpan: Mahewa Paschim Patti (₹9.30L), Kalichaura (₹13.11L), Vidyanagar (₹23.29L + ₹40.83L), Indalpur mukhyamarg (₹24.95L), Gangotri Nagar (₹40.92L + ₹41.55L), Dandi (₹24.45L). Status: lokarpan — purna nirmit karya. Constituency-specific kaam. Spot-check verify: Hindustan page kholkar padha gaya.',
+    },
+    {
+      title: 'Naini me ₹1.26 crore ke vikas karyon ka lokarpan; school ko naya hall-baranda',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 22 Jan 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/allahabad/minister-nandi-inaugurated-development-works-worth-rs-126-crore-naini-news-c-257-1-sald1006-119508-2026-01-23',
+      date: '2026-01-22',
+      note: 'Naini me ₹1.26 crore ke sadak-jal nikasi karyon ka lokarpan (Kharkauni antrik galiyan, Nandan Talab interlocking, Kazipur CC sadak, Chak Lal Mohammad, Chak Raghunath flyover ke neeche gali) + Vasant Panchami ki poorv sandhya par Vidyotama Vidya Mandir Junior High School (Uttari Lokpur) ko naya hall aur baranda. Status: lokarpan — purna nirmit karya. Constituency-specific kaam. Spot-check verify: AU page kholkar padha gaya.',
+    },
+  ],
+
+  // ---- vachaspati (Vachaspati, Bara (SC), AD(S)) ----
+  // Entries: 2. Rejects: 3 — (1) Kanjasa gaon sadak udghatan: YouTube-only source; (2) 3-divasiya vikas pradarshani (Hindustan): sirf ribbon-cutting event, vidhayak ka koi apna kaam nahi (pradarshani me sarkari karyon ke daawe the, alag se verified karya nahi); (3) StreetBuzz "5 sadak + library udghatan": page verify nahi ho paya (sirf placeholder load hua), aur library niji thi.
+  'vachaspati': [
+    {
+      title: 'Shankargarh block me 16 sadkon aur anya pariyojanaon ka shilanyas/udghatan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Aug 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/bara/news/mla-dr-vachaspati-laid-the-foundation-stone-of-several-projects-including-16-roads-in-shankargarh-135555879.html',
+      date: '2025-08',
+      note: 'Bara ke Shankargarh vikas khand me vidhayak ne ~16 sadkon aur anya pariyojanaon ka shilanyas/udghatan kiya: Badgadi-Ramna (Sabari Mata ashram marg) ka shilanyas; Shankargarh nagar panchayat ward 9-10 ki vidhayak nidhi se nirmit sadkon ka udghatan; Ram Bhawan tiraha-railway crossing CC road yojana; Raniganj ke Chundwa gaon me CC marg ka shilanyas. Status: shilanyas + kuch udghatan — nirmanadheen/anshik purn; purnata ki alag khabar nahi mili. Date caveat: Bhaskar par sirf "1 varsh pehle" dikha; Aug 2025 (est.). Spot-check verify: Bhaskar page kholkar padha gaya.',
+    },
+    {
+      title: 'Bara vidhan sabha me 51 sadkon ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/bara/news/inauguration-of-51-roads-in-bara-assembly-136830308.html',
+      date: '2026-01',
+      note: 'MV Convent School & College parisar me samaroh me vidhayak ne Bara vidhan sabha ki 51 sadkon ka lokarpan kiya; usi avsar par garib/bujurgon ko kambal vitran bhi hua (kambal vitran kaam nahi, isliye entry me sirf sadak lokarpan). Status: lokarpan — nirmit karya; alag-alag sadkon ki swikriti details report me nahi thi. Date caveat: Bhaskar par "7 mahine pehle"; sardi-kambal context se Jan 2026 (est.). Spot-check verify: Bhaskar page kholkar padha gaya.',
+    },
+  ],
+
+  // ---- raj-mani (Raj Mani, Koraon (SC), BJP) ----
+  // Entries: 3. Rejects: 2 — (1) digital library ka public.app video: aggregator-only source (wahi khabar Dainik Bhaskar se verified lekar entry me hai); (2) Atal Awasiya Vidyalaya ka zikr (Bhaskar road article me): sarkari yojana ka school, vidhayak ne sirf bhashan me zikr kiya — unka karya nahi.
+  'raj-mani': [
+    {
+      title: 'Koraon town ke 2 wardon me interlocking sadkon ka shilanyas (vidhayak nidhi)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan, 24 Nov 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/gangapar/story-mla-rajmani-kol-lays-foundation-for-interlocking-roads-in-korawan-town-201763985130115.html',
+      date: '2025-11-24',
+      note: 'Nagar panchayat Koraon me vidhayak ne apni vidhayak nidhi se town ke 2 wardon ki interlocking sadkon ka shilanyas kiya; donon wardon ki bahupratikshit maang thi. Status: shilanyas — nirman shuru, purnata ki alag khabar nahi mili. Spot-check verify: Hindustan page kholkar padha gaya.',
+    },
+    {
+      title: 'Koraon nagar panchayat me ₹2.07 crore ki digital library ka shilanyas/bhoomi pujan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/koraon/news/foundation-stone-laid-for-digital-library-in-koraon-136037944.html',
+      date: '2025-12',
+      note: 'Koraon nagar panchayat me ₹2.07 crore ki lagat se banne wali digital library ka shilanyas/bhoomi pujan vidhayak ne mukhya atithi ke roop me kiya; kshetriya yuvaon ko pratiyogi parikshaon ki taiyari me suvidha ka uddeshya. Status: shilanyas — nirman shuru, purnata ki alag khabar nahi mili. Date caveat: Bhaskar par "10 mahine pehle" dikha; Dec 2025 (est.). Spot-check verify: Bhaskar page kholkar padha gaya.',
+    },
+    {
+      title: 'Renga Kotar Palpatti me 350 me sadak ka udghatan aur 365 me sadak ka bhoomi pujan (vidhayak nidhi)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/prayagraj/meja/news/korav-mla-inaugurates-new-road-villagers-express-gratitude-137737792.html',
+      date: '2026-07',
+      note: 'Koraon tehsil ke Renga Kotar Palpatti gaon me vidhayak nidhi se nirmit ~350 me sadak (Ram Bhaskar Tiwari se Kripa Shankar Tiwari ke ghar tak) ka udghatan; usi karyakram me ~365 me nayi sadak (Lallan Tiwari se Khallan Tiwari ke ghar tak) ka bhoomi pujan. Status: ek udghatan (purn) + ek bhoomi pujan (shuru). Date caveat: Bhaskar par "3 mahine pehle" dikha; Jul 2026 (est.). Spot-check verify: Bhaskar page kholkar padha gaya.',
+    },
+  ],
 };
