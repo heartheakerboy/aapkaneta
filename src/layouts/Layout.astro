@@ -156,6 +156,7 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         <nav class="site" id="siteNav">
           <a href="/">Home</a>
           <a href="/gujarat">Gujarat</a>
+          <a href="/rajasthan">Rajasthan</a>
           <div class="nav-drop">
             <button id="kshetraBtn" aria-expanded="false" aria-controls="kshetraPanel">Kshetra ▾</button>
           </div>
@@ -171,6 +172,7 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
             <select id="selState">
               <option value="mha">Maharashtra</option>
               <option value="guj">Gujarat</option>
+              <option value="raj">Rajasthan</option>
             </select>
           </label>
           <label>Jila
@@ -195,7 +197,7 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
           <div>
             <h4>AapkaNeta.org</h4>
             <p>India ka RTI-verified neta work-tracker. Har neta ne apne kshetra me kya kaam kiya — saboot ke saath, bina pakshpaat ke.</p>
-            <p style="margin-top:10px">Coverage: Maharashtra ke 288 MLA + 48 MP (halafnama record) • Palghar pilot: kaam ka hisaab</p>
+            <p style="margin-top:10px">Coverage: Maharashtra (288 MLA + 48 MP) • Gujarat (182 MLA + 37 MP) • Rajasthan (200 MLA + 35 MP) — halafnama record • Palghar pilot: kaam ka hisaab</p>
             <p style="margin-top:10px"><a href="mailto:hello@aapkaneta.org">hello@aapkaneta.org</a></p>
           </div>
           <div>
@@ -258,8 +260,8 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
       var selA = document.getElementById('selAc');
       var go = document.getElementById('goBtn');
       if (!btn || !panel) return;
-      var HIER = { mha: '/hierarchy.json', guj: '/hierarchy-gujarat.json' };
-      var PREFIX = { mha: '', guj: '/gujarat' };
+      var HIER = { mha: '/hierarchy.json', guj: '/hierarchy-gujarat.json', raj: '/hierarchy-rajasthan.json' };
+      var PREFIX = { mha: '', guj: '/gujarat', raj: '/rajasthan' };
       var cache = {}, data = null, curD = null, curT = null;
       function curState() { return selS ? selS.value : 'mha'; }
 

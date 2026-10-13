@@ -1,6 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { netas, netaUrl, isGujarat } from '../data/all';
+import { netas, netaUrl, isGujarat, isRajasthan } from '../data/all';
 ---
 
 <Layout title="Netavon ki tulna — Maharashtra + Gujarat" description="Maharashtra aur Gujarat ke netaon ki tulna: pad, party, halafnama record aur verified kaam.">
@@ -35,8 +35,9 @@ import { netas, netaUrl, isGujarat } from '../data/all';
       <button class="chip active" data-f="all">Sab ({netas.length})</button>
       <button class="chip" data-f="MP">MP ({netas.filter(n => n.post === 'MP').length})</button>
       <button class="chip" data-f="MLA">MLA ({netas.filter(n => n.post === 'MLA').length})</button>
-      <button class="chip" data-s="Maharashtra">Maharashtra ({netas.filter(n => !isGujarat(n)).length})</button>
+      <button class="chip" data-s="Maharashtra">Maharashtra ({netas.filter(n => !isGujarat(n) && !isRajasthan(n)).length})</button>
       <button class="chip" data-s="Gujarat">Gujarat ({netas.filter(isGujarat).length})</button>
+      <button class="chip" data-s="Rajasthan">Rajasthan ({netas.filter(isRajasthan).length})</button>
     </div>
     <div class="table-wrap">
       <table>
@@ -54,7 +55,7 @@ import { netas, netaUrl, isGujarat } from '../data/all';
         </thead>
         <tbody>
           {netas.map(n => (
-            <tr data-post={n.post} data-state={isGujarat(n) ? "Gujarat" : "Maharashtra"}>
+            <tr data-post={n.post} data-state={isRajasthan(n) ? "Rajasthan" : isGujarat(n) ? "Gujarat" : "Maharashtra"}>
               <td><a href={netaUrl(n)}>{n.name}</a></td>
               <td>{n.post}</td>
               <td>{n.constituency}</td>
