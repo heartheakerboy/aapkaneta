@@ -2698,7 +2698,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=95',
       backgroundNote: '',
     },
-    electionNote: '2022 me Fatehabad se jeete.',
+    electionNote: '2022 me Fatehabad se jeete. 24 September 2026 ko unka nidhan ho gaya (The Statesman/Patrika) — Fatehabad seat rikt hai, upchunav hona baki hai.',
   },
   {
     slug: 'rani-pakshalika-singh',
