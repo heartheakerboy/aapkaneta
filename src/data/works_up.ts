@@ -9449,4 +9449,233 @@ export const upWorks: Record<string, Work[]> = {
       period: '2022-2027',
     },
   ],
+
+// ---- Siddharthnagar district batch (researched 2026-10-13) ----
+'vinay-verma': [
+  // Vinay Verma (Apna Dal-Sonelal), Shohratgarh (302), Siddharthnagar. All news opened and read.
+  {
+    title: 'Shohratgarh me baadh-katav rok ke liye Rs 13.64 crore ki 3 pariyojanaen swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan (Live Hindustan), 8 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-vidhayak-vinay-verma-secures-13-64-crore-for-flood-control-projects-in-shohratgarh-201775595895461.html',
+    date: '2026-04-08',
+    note: 'Vidhayak Vinay Verma ki pahal par shasan ne 3 pariyojanaen swikrit ki: (1) Boodhi Rapti nadi ke baayen tat par Lakhanapar-Bedaula tatbandh ke km 28.000-28.400 ke beech gram Baijnatha ke paas Rs 2.86 crore se katan-nirodhak karya; (2) km 21.000-21.450 ke beech gram Mahartha ke paas Rs 338.78 lakh se katan-nirodhak karya; (3) Banganga barrage parisar ka jirnoddhar, boundary wall aur Banganga mukhya nahar + Champapur alpika ka punarsthapn — Rs 7.39 crore. Status: swikriti (dharaatal par kaam shuru hone ka daava). Same khabar Voice of News 24 par bhi mili, main source Hindustan hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Banganga barrage parisar ka jirnoddhar aur naharon ka punarsthapn — Rs 7.39 crore',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hindustan (Live Hindustan), 8 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-vidhayak-vinay-verma-secures-13-64-crore-for-flood-control-projects-in-shohratgarh-201775595895461.html',
+    date: '2026-04-08',
+    note: 'Rs 13.64 crore package ka teesra hissa: Banganga barrage parisar ka jirnoddhar, boundary wall nirmaan, Banganga mukhya nahar (km 0-0.500) aur Champapur alpika (km 0-0.500) ka punarsthapn. Nahar marammat se sinchai vyavastha sudharne aur hazaaron kisaano ko faayda pahunchne ka daava. Status: swikriti.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Do sadak margon ka nirmaan — Rs 5.10 crore (Bhirinda-Samay Mata-Niyaanw aur Madhavnagar-Bairihawa)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/siddharthnagar/badhani/news/shoharatgarh-roads-approved-cm-yogi-adityanath-vinay-verma-137339396.html',
+    date: '2026-03',
+    note: 'PWD prantiya khand ki suchi ke anusaar 2 sadakon ko swikriti mili: Bhirinda Samay Mata sthan se Niyaanw marg (2.50 km, Rs 263.23 lakh) aur Samay Mata sthan Madhavnagar-Bairihawa marg (3.10 km, Rs 246.92 lakh) — kul Rs 510.15 lakh (5.10 crore). Status: swikriti (nirman hona baaki). Live Hindustan ne inhi 2 sadakon ko Rs 5.15 crore bataya — same project hai, isliye duplicate entry nahi banayi. Exact date page par nahi mili; page par byline 5 mahine pehle aur metadata March 2026 batata hai, isliye 2026-03 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Naudihwa pul approach-Jeetpur chauraha missing link aur Banganga canal sampark marg — Rs 5.94 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan (Live Hindustan) (est.)',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-infrastructure-improvement-5-94-crore-road-projects-approved-in-shoharatgarh-201787863539531.html',
+    date: '2026-08',
+    note: 'Do sadakon ki swikriti PWD se mili: Naudihwa pul approach se Jeetpur chauraha tak missing link marg (3.700 km, Rs 321.99 lakh) aur Banganga canal patri sampark marg se Paras Pinda sampark marg (2.900 km, Rs 271.69 lakh) — kul Rs 593.68 lakh (5.94 crore). Status: swikriti. Exact date page par nahi mili; metadata August 2026 batata hai, isliye 2026-08 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'PWD ki 13 pariyojanaon ko shasan se manjuri — kul Rs 56.08 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 15 Mar 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/sidharth-nagar-shohratgarh-pwd-projects-56-point-08-cr-approved-for-development-40172469.html',
+    date: '2026-03-15',
+    note: 'Vidhayak Vinay Verma ke prastavon par PWD ki varsh 2025-26 ki karyayojana ke tahat kul 13 vikas karyon ke liye Rs 56.08 crore ki shasanik swikriti mili — sadak sampark aur buniyadi suvidhaon par kendrit. Status: swikriti (kriyankaran ki prakriya tez). Article me 13 pariyojanaon ka vivaran nahi diya gaya, isliye alag-alag entries nahi banayi.',
+    period: '2022-2027',
+  },
+  {
+    title: '75 gaon me mini high-mast lights — Vidhayak Nidhi se Rs 2.34 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/siddharthnagar/soharatgarh/news/shoharatgarh-mla-vinay-verma-inaugurates-2-34cr-mini-high-mast-lights-75-villages-137294337.html',
+    date: '2026-03',
+    note: 'Vidhanmandal Kshetra Vikas Nidhi se Rs 2.34 crore (2,34,75,000) ki lagat se 75 gaonon me mini high-mast lights lagni hain — pratyek light Rs 3.13 lakh; Shohratgarh, Badhni, Jogiya, Itwa aur Birdpur block me 75 sthanon par. Vidhayak ne vaahanon ko hari jhandi dikhakar kaam launch kiya; UP Sidco ke zariye lagayi jaayengi. Status: launch (nirman shuru). Exact date page par nahi mili; byline aur metadata Feb-Mar 2026 batate hain, isliye 2026-03 (est.).',
+    period: '2022-2027',
+  },
+  // RESEARCH TRAIL — vinay-verma — rejected items:
+  // 1. kapilvastupost (16 Sep 2026): National Hospital, Kathela Kothi chauraha ka udghatan MLA ne kiya — PRIVATE hospital ka ribbon-cut, MLA sirf chief guest tha. REJECT (private ribbon-cut).
+  // 2. Live Hindustan: Antari PHC me nisulk swasthya shivir ka shubharambh MLA ne kiya — sarkari shivir ka udghatan, MLA merely present/inaugurating. REJECT (merely present).
+  // 3. Vinay Verma naam se jude kayi any neta (namesake traps) — sirf Shohratgarh/Siddharthnagar-verified khabaren li gayi.
+],
+'shyamdhani-rahi': [
+  // Shyamdhani Rahi (BJP), Kapilvastu (SC) (303), Siddharthnagar. All news opened and read.
+  {
+    title: 'Uska-Ajgara-Dharm Singhwa marg ka chaudikaran — Rs 16.62 crore, bhumipujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Kapilvastu Post, 28 Mar 2026',
+    sourceUrl: 'https://kapilvastupost.in/news-update/36467',
+    date: '2026-03-28',
+    note: 'Uska block ke antargat Uska-Ajgara-Dharm Singhwa marg ke chaudikaran evam sundarikaran karya ka bhumipujan vidhayak ke kar-kamalon se hua; lagat Rs 16,62,78,000 (16.62 crore). Kshetra ki lambe samay se maang batayi gayi. Status: shilanyas/bhumipujan (nirman shuru nahi). Note: source local portal hai — district-level national dailies me isi project ki khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kakrhi Tandiya Gaighat-Patkhauli sampark marg par laghu setu — Rs 1.60 crore swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan (Live Hindustan), 20 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-infrastructure-development-accelerated-in-kapilvastu-bridge-construction-approved-201773954032010.html',
+    date: '2026-03-20',
+    note: 'Vidhayak ke prayason se PWD dwara Kakrhi Tandiya Gaighat se Patkhauli sampark marg par laghu setu nirman ke liye Rs 1.60 crore ki swikriti mili. Barsaat me awagman ki purani samasya ka sthayi samadhan bataya gaya. Status: swikriti.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sonaura gaon me Har Ghar Jal yojana ka lokarpan — Rs 2.41 crore, 361 parivar',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Sandesh Wahak (est.)',
+    sourceUrl: 'https://www.thesandeshwahak.com/the-dream-of-water-in-every-home-has-become-a-reality-in-sonora-village-mla-shyamdhani-rahi-inaugurated-the-project/',
+    date: '2026-05',
+    note: 'Jal Jeevan Mission ke tahat Jogia block ki gram panchayat Sonaura me Rs 241.37 lakh ki lagat se bani peyjal yojana ka lokarpan vidhayak ne kiya: 175 KL ki overhead tanki, 7.98 km pipeline, 361 gharon me nal connection, 16 kW solar plant aur pumping plant. Yojana ko 2022-23 me prashasnik swikriti mili thi. Status: lokarpan/udghatan (kaam poora). Note: ye kendra sarkar ki Jal Jeevan Mission yojana hai — vidhayak ne udghatan kiya, yojana vidhayak ki khud ki nidhi se nahi. Exact date page par nahi mili; image path 2026/05 batata hai, isliye 2026-05 (est.).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Vidhayak ka daava: Tetri-Sohas (19 km), Kakrhi-Ajgara (18 km), Mohana-Lotan (15 km) sadaken banwai',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar (interview) (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/siddharthnagar/news/kapilvastu-mla-shyam-dhani-rahi-statement-development-work-137468913.html',
+    date: '2026-03',
+    note: 'Dainik Bhaskar se khaas baatchit me vidhayak ka daava: dusre karyakal me Tetri se Sohas tak ~19 km sadak ka unchikaran-chaudikaran, Kakrhi se Ajgara tak ~18 km vistaar, aur Mohana se Lotan tak ~15 km nirman-chaudikaran karaya; kachchi sadaken lagbhag khatm hone ka daava. Status: unverified claim — interview me diye gaye daave, swatantra news report se pushti nahi mili. Isi interview me NH-28 se Tetri-Sohas marg ko jodne wale ~2 km overbridge/bypass ki MANJURI ka bhi daava kiya — wo abhi sirf proposal hai, isliye alag entry nahi banayi. Exact date page par nahi mili; byline aur metadata March 2026 batate hain, isliye 2026-03 (est.).',
+    period: '2022-2027',
+  },
+  // RESEARCH TRAIL — shyamdhani-rahi — rejected items:
+  // 1. kapilvastupost.com (Nov 2021): Tetri-Sohas-Lotan marg ke liye NABARD se Rs 46 crore ki swikriti — article Nov 2021 ka hai, PRE-March-2022. REJECT (tenure rule).
+  // 2. public.app (Naugarh News): Vidya Hospital, Birdpur ke udghatan samaroh me MLA chief guest — PRIVATE hospital ka ribbon-cut + public.app-only source. REJECT (private ribbon-cut + rejected source type).
+  // 3. Amar Ujala (2020): Kapilvastu Mahotsav ka udghatan health minister ne kiya, MLA sirf upasthit tha — pre-2022 + merely present. REJECT.
+  // 4. Swatantra Prabhat (Sep 2026): Namo Seva natya manchan karyakram me MLA ka sambodhan — party event, vikas karya nahi. REJECT (no development work).
+  // 5. ourneta.com: IPC 506 ka ek criminal case affidavit me — bina credible news reporting, allegation/rebuttal/case-status explicit nahi. REJECT (negative-entry rule).
+],
+
+// Research trail (2026-10-13): Jai Pratap Singh, Bansi (Siddharthnagar), BJP.
+// ~10 search rounds (Hindi + English, news vertical included), 2022-2026 window.
+// Kuch bhi qualifying work nahi mila. Khaali profile unverified se behtar hai.
+//
+// REJECTED leads (kyun):
+// 1. CM Yogi ke Bansi daure (Rs 318cr / Rs 311cr, 107 projects) — CM ke kaam ka shrey;
+//    Zee News, Indian Masterminds, ABP Live. MLA profile me nahi jod sakte.
+// 2. Bhaskar (Kudja): Vani Vidyapeeth private school udghatan — private school, MLA
+//    sirf atithi ke roop me maujood the (merely present + private ribbon-cut).
+// 3. Live Hindustan: Nari Shakti Vandan karyakram Bansi block — sirf event me maujoodgi.
+// 4. Bhaskar: Vidhayak khel-kood spardha Asidhwa-Chetia (Dec 2025) — event flag-off,
+//    koi vikas karya describe nahi.
+// 5. Kapilvastupost: divyang bachchon ki exposure visit bus flag-off — event, not work.
+// 6. Amar Ujala review meeting (MP Jagdambika Pal ki adhyakshata) — MLA sirf upasthit.
+// 7. Live Hindustan: MLA ne energy minister AK Sharma se bijli ki maang ki — sirf maang.
+// 8. NishpakshDastak: Bewan drug warehouse shilanyas — Nov 2021 (pre-March 2022) aur
+//    mantri-kaleen faisla; dono rules se reject.
+// 9. The Print (Nov 2021): 'recently inaugurated a government hospital in my constituency'
+//    — pre-2022 claim, unverifiable date.
+// 10. Amar Ujala Basti (2021): Bankati X-ray machine — pre-2022 + mantri-era + Basti (not Bansi).
+// 11. Bhaskar Amethi 50 roads — galat vyakti (Rakesh Pratap Singh, Gauriganj).
+// 12. Bhaskar Kushinagar 'Bansi village' bhoomipujan — Kushinagar ka alag Bansi gaon,
+//    MP ka shrey; galat sthan.
+// 13. mntnews Chetia Bazar Moti Sagar: sirf pre-event announcement (Sept 2026), naam-par
+//    koi karya listed nahi, chhota outlet, follow-up story mili nahi.
+// 14. Public.app health camp Bansi 50-bed hospital — public.app-only source (type rule se reject).
+// 15. nextindiatimes Congress protest (Oct 2026): opposition allegation of neglect,
+//    par rebuttal/case-status explicit nahi — negative-entry rule se add nahi kiya ja sakta.
+// 16. News17India (Sep 2022) / VoiceofNews24 Udyan events — MLA sirf upasthit the.
+// 17. Live Hindustan press-association gyapan / Guru Purnima mandir visit — event/petition.
+// 18. mntnewsbharat Khesraha kshetra panchayat baithak — sirf charcha, koi karya nahi.
+//
+// Note: post-2022 ex-minister ke roop me unke Bansi-specific karyon par Hindi/English
+// press me koi concrete udghatan/shilanyas/vidhayak-nidhi story nahi mili.
+'jai-pratap-singh': [
+],
+
+// Siddharthnagar district batch (researched 2026-10-13).
+// 'mata-prasad-pandey': Itwa — MLA ke apne nidhi-karyon par direct news coverage
+//   lagbhag shoonya hai (sab coverage unke neta-pratipaksh role ki hai). 1 entry
+//   (Amar Ujala me unke Vidhan Sabha bayan par based). 'saiyada-khatoon':
+//   Domariyaganj — Jagran report card + Amar Ujala + Bhaskar se 4 entries.
+// RULE: every entry needs a real, opened sourceUrl. Empty is better than unverified.
+
+'mata-prasad-pandey': [
+  {
+    title: 'Chaukra (Itwa) me Fagu Shah mazar par vidhayak nidhi se rain-basera ka nirmaan; prashasan ne baad me dhaha diya',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Amar Ujala, 15 Aug 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/siddharthnagar/siddharthnagar-news-the-matter-of-running-a-bulldozer-on-fagu-shahs-tomb-was-raised-in-the-house-siddharthnagar-news-c-227-1-sgkp1033-142839-2025-08-15',
+    date: '2025-08',
+    note: 'Pandey ji ne Vidhan Sabha me bayan diya ki Itwa thana ke gram Chaukra me Fagu Shah ki mazar par aane walon ki suvidha ke liye unhone apni vidhayak nidhi se rain-basera banwaya tha, jise afsaron ne mazar ke saath dhaha diya. Badge dawa hai kyonki ye unka khud ka bayan hai (Amar Ujala ne Vidhan Sabha karyavahi se quote kiya hai, reporter ne swatantra verify nahi kiya). Status: kaam poora hua tha, phir dhwast kar diya gaya. Nirmaan ki exact date article me nahi hai — 15 Aug 2025 ke bayan se pehle, karyakaal 2022-2027 ke andar.',
+    period: '2022-2027',
+  },
+],
+
+'saiyada-khatoon': [
+  {
+    title: 'Bhavaniganj me vidhayak nidhi se bani do sadkon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 23 Aug 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/siddharthnagar/siddharthnagar-news-mla-inaugurated-two-roads-siddharthnagar-news-c-227-1-sdn1003-143248-2025-08-23',
+    date: '2025-08-23',
+    note: 'Domariyaganj vidhayak Saiyada Khatoon ne vidhayak nidhi se nirmit do sadkon ka lokarpan kiya: Dhaurahara me ₹8.30 lakh ki laagat se 270 meter kharanja aur Karekhut me ₹14 lakh ki laagat se 471 meter kharanja. Status: poora + udghatan.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Teen sadkon ke liye vidhayak nidhi se rashi swikrit: ₹98 lakh, ₹1 crore, ₹72 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran report card, 23 Jul 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/sidharth-nagar-dumariyaganj-mla-development-sayyada-khatoons-progress-and-challenges-40316242.html',
+    date: '2026-07-23',
+    note: 'Jagran ke report card ke anusaar nidhi se Ausankuiyaan-Kurthideeha sadak ke liye ₹98 lakh, Janglipur-Kalwari sadak ke liye ₹1 crore aur Siswap-Mahnua marg ke liye ₹72 lakh diye gaye hain. Status: swikriti (aakhiri dono sadkon par varsha ke baad kaam shuru hone ki ummeed).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nidhi se gambhir bimariyo ke ilaj me ₹45 lakh, school kaksha-kakshon me ₹40 lakh, bijli/vidyutikaran me ₹60 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran report card, 23 Jul 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/sidharth-nagar-dumariyaganj-mla-development-sayyada-khatoons-progress-and-challenges-40316242.html',
+    date: '2026-07-23',
+    note: 'Jagran report card ke anusaar Khatoon ki vidhayak nidhi se gambhir bimariyon se joojh rahe logon ki sahayata ke liye ₹45 lakh, vidyalayon me shikshan kakshon ke liye ₹40 lakh aur bijli, transformer tatha nayi vidyutikaran lines par lagbhag ₹60 lakh diye gaye; chauraahon aur gaanvon me highmast evam solar light bhi lagwai gayin. Report me kul ₹20.50 crore nidhi milna aur ₹1.91 crore shesh hona bhi darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Adhivakta bhawan ke sabhagar ke liye ₹25 lakh; Hallaur me shav-snan-grih ke liye ₹25 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran report card, 23 Jul 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/sidharth-nagar-dumariyaganj-mla-development-sayyada-khatoons-progress-and-challenges-40316242.html',
+    date: '2026-07-23',
+    note: 'Jagran report card ke anusaar vidhayak nidhi se adhivakta bhawan ke sabhagar ke liye lagbhag ₹25 lakh aur Hallaur me shav-snan-grih ke liye ₹25 lakh diye gaye. Status: nidhi se rashi di gayi (swikrit).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Khatoon ke patra par Saryu nahar khand ne jarjar nahar-patari sadkon aur pulon ke nirmaan ki prakriya shuru ki',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/siddharthnagar/bharatbhari/news/dumariyaganj-nehar-patari-roads-bridges-construction-sidda-khatoon-137119823.html',
+    date: '2026-02',
+    note: 'Dumariyaganj Vidhan Sabha ki jarjar nahar-patari sadkon aur pulon ko lekar vidhayak ke patra par sangyaan lete hue Saryu Nahar Khand Pratham, Bansi ne nirmaan tatha sudridhikaran ki prakriya prarambh ki; adhikariyon ne nirikshan ke baad ati-kharab sthalon ko prathmikta par chinhit kiya. Status: kaam shuru hone ki prakriya (swikriti/shuruaat), poora nahi. Date (est.): article par relative date thi ("6 mahine pehle" at crawl), isliye Feb 2026 approximate hai.',
+    period: '2022-2027',
+  },
+],
+
 };
