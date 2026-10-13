@@ -1,9 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { netas, netaUrl, isGujarat, isRajasthan } from '../data/all';
+import { netas, netaUrl, isGujarat, isRajasthan, isUttarPradesh } from '../data/all';
 ---
 
-<Layout title="Netavon ki tulna — Maharashtra + Gujarat" description="Maharashtra aur Gujarat ke netaon ki tulna: pad, party, halafnama record aur verified kaam.">
+<Layout title="Netavon ki tulna — Maharashtra + Gujarat + Rajasthan + Uttar Pradesh" description="Maharashtra, Gujarat, Rajasthan aur Uttar Pradesh ke netaon ki tulna: pad, party, halafnama record aur verified kaam.">
   <style>
     .t-hero { background: var(--ink); color: #fff; padding: 44px 0; }
     .t-hero h1 { font-size: 32px; }
@@ -26,7 +26,7 @@ import { netas, netaUrl, isGujarat, isRajasthan } from '../data/all';
   <div class="t-hero">
     <div class="wrap">
       <h1>Comparison</h1>
-      <p>Maharashtra + Gujarat — ek nazar me {netas.length} neta. Tathya record ke anusaar, raay aapki.</p>
+      <p>Maharashtra + Gujarat + Rajasthan + Uttar Pradesh — ek nazar me {netas.length} neta. Tathya record ke anusaar, raay aapki.</p>
     </div>
   </div>
 
@@ -35,9 +35,10 @@ import { netas, netaUrl, isGujarat, isRajasthan } from '../data/all';
       <button class="chip active" data-f="all">Sab ({netas.length})</button>
       <button class="chip" data-f="MP">MP ({netas.filter(n => n.post === 'MP').length})</button>
       <button class="chip" data-f="MLA">MLA ({netas.filter(n => n.post === 'MLA').length})</button>
-      <button class="chip" data-s="Maharashtra">Maharashtra ({netas.filter(n => !isGujarat(n) && !isRajasthan(n)).length})</button>
+      <button class="chip" data-s="Maharashtra">Maharashtra ({netas.filter(n => !isGujarat(n) && !isRajasthan(n) && !isUttarPradesh(n)).length})</button>
       <button class="chip" data-s="Gujarat">Gujarat ({netas.filter(isGujarat).length})</button>
       <button class="chip" data-s="Rajasthan">Rajasthan ({netas.filter(isRajasthan).length})</button>
+      <button class="chip" data-s="Uttar Pradesh">Uttar Pradesh ({netas.filter(isUttarPradesh).length})</button>
     </div>
     <div class="table-wrap">
       <table>
@@ -55,7 +56,7 @@ import { netas, netaUrl, isGujarat, isRajasthan } from '../data/all';
         </thead>
         <tbody>
           {netas.map(n => (
-            <tr data-post={n.post} data-state={isRajasthan(n) ? "Rajasthan" : isGujarat(n) ? "Gujarat" : "Maharashtra"}>
+            <tr data-post={n.post} data-state={isUttarPradesh(n) ? "Uttar Pradesh" : isRajasthan(n) ? "Rajasthan" : isGujarat(n) ? "Gujarat" : "Maharashtra"}>
               <td><a href={netaUrl(n)}>{n.name}</a></td>
               <td>{n.post}</td>
               <td>{n.constituency}</td>

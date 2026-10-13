@@ -155,14 +155,14 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
       <p style="font-size:15.5px;margin-top:14px">{neta.electionNote}</p>
     </div>
 
-    <h2 class="section-title">Halafnama: {neta.prevAffidavit ? `${neta.prevAffidavit.year} vs ${neta.state === 'Gujarat' ? '2022' : '2024'}` : (neta.state === 'Gujarat' ? '2017 vs 2022' : '2019 vs 2024')}</h2>
+    <h2 class="section-title">Halafnama{neta.prevAffidavit ? `: ${neta.prevAffidavit.year} vs ${neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : '2024'}` : (neta.state === 'Uttar Pradesh' ? '' : `: ${neta.state === 'Gujarat' ? '2017 vs 2022' : neta.state === 'Rajasthan' ? '2018 vs 2023' : '2019 vs 2024'}`)}</h2>
     <div class="card">
       {neta.prevAffidavit ? (
         <>
           <p style="font-size:14.5px;color:var(--ink-soft);margin-bottom:14px">Dono chunavon ke halafnamon ke aankde — aap khud tulna karein.</p>
           <div class="bg-grid">
             <div class="bg-item"><span>Kul sampatti ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.assets}</b></div>
-            <div class="bg-item"><span>Kul sampatti ({neta.state === 'Gujarat' ? '2022' : '2024'})</span><b>{neta.background.assets}</b></div>
+            <div class="bg-item"><span>Kul sampatti ({neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : '2024'})</span><b>{neta.background.assets}</b></div>
             {neta.prevAffidavit.assetsNum > 0 && (
               <div class="bg-item"><span>5 saal me badlav</span><b>{
                 (() => {
@@ -175,9 +175,9 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
               }</b></div>
             )}
             <div class="bg-item"><span>Aaparaadhik mamle ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.criminalCases}</b></div>
-            <div class="bg-item"><span>Aaparaadhik mamle ({neta.state === 'Gujarat' ? '2022' : '2024'})</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
+            <div class="bg-item"><span>Aaparaadhik mamle ({neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : '2024'})</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
             <div class="bg-item"><span>Shiksha ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.education}</b></div>
-            <div class="bg-item"><span>Umar ({neta.prevAffidavit.year} → {neta.state === 'Gujarat' ? '2022' : '2024'})</span><b>{neta.prevAffidavit.age} → {neta.background.age} varsh</b></div>
+            <div class="bg-item"><span>Umar ({neta.prevAffidavit.year} → {neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : '2024'})</span><b>{neta.prevAffidavit.age} → {neta.background.age} varsh</b></div>
           </div>
           <p style="font-size:14px;color:var(--ink-soft);margin-top:8px">
             {neta.prevAffidavit.year} ka poora halafnama: <a href={neta.prevAffidavit.mynetaUrl} rel="noopener">myneta.info par dekhein</a>
@@ -189,7 +189,7 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
     </div>
 
     <div class="cta-row" style="margin: 36px 0 8px">
-      <a class="btn" href={`/rti?seat=${neta.constituencySlug}${base ? '&state=Gujarat' : ''}`}>Is neta par RTI lagao</a>
+      <a class="btn" href={`/rti?seat=${neta.constituencySlug}${stateName && stateName !== 'Maharashtra' ? `&state=${stateName}` : ''}`}>Is neta par RTI lagao</a>
       <a class="btn-ghost" href={`/correction?neta=${encodeURIComponent(neta.name)}`}>Galat info? Correction bhejo</a>
     </div>
   </div>

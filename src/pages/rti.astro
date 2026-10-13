@@ -3,7 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { allConstituencies, allNetas } from '../data/all';
 
 const mhaAssembly = allConstituencies
-  .filter(c => c.type === 'Vidhan Sabha' && (c as any).state !== 'Gujarat')
+  .filter(c => c.type === 'Vidhan Sabha' && !['Gujarat', 'Rajasthan', 'Uttar Pradesh'].includes((c as any).state))
   .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
 const gujAssembly = allConstituencies
   .filter(c => c.type === 'Vidhan Sabha' && (c as any).state === 'Gujarat')
@@ -15,6 +15,10 @@ const rajAssembly = allConstituencies
   .filter(c => c.type === 'Vidhan Sabha' && (c as any).state === 'Rajasthan')
   .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
 const rajDistricts = [...new Set(rajAssembly.map(c => c.district))].sort();
+const upAssembly = allConstituencies
+  .filter(c => c.type === 'Vidhan Sabha' && (c as any).state === 'Uttar Pradesh')
+  .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
+const upDistricts = [...new Set(upAssembly.map(c => c.district))].sort();
 
 function netaFor(state: string, slug: string): string {
   const n = allNetas.find(n => ((n.state ?? 'Maharashtra') === state) && n.tenures.some(t => t.constituencySlug === slug));
@@ -66,13 +70,13 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
     <div class="wrap r-hero-grid">
       <div>
         <h1>File RTI</h1>
-        <p>Maharashtra aur Gujarat me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>670 seaton</b> ke liye taiyaar template hai — apna rajya aur jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+        <p>Maharashtra, Gujarat aur Uttar Pradesh me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>1073 seaton</b> ke liye taiyaar template hai — apna rajya aur jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
       </div>
       <div class="r-hero-card">
         <b>RTI Drive</b>
         <div class="r-hero-stats">
-          <div><strong>670</strong><span>seats</span></div>
-          <div><strong>670</strong><span>templates</span></div>
+          <div><strong>1073</strong><span>seats</span></div>
+          <div><strong>1073</strong><span>templates</span></div>
           <div><strong>₹10</strong><span>fees</span></div>
         </div>
         <p>Jawab 30 din me aata hai. Scan bhejo — verification ke baad neta ke profile par lagega.</p>
@@ -89,12 +93,13 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
       <div class="card"><b>4. Jawab humein bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">30 din me jawab aayega. Scan humein bhejo — verification ke baad neta ke profile par lagega.</p></div>
     </div>
 
-    <h2 class="section-title">670 seaton ke taiyaar templates</h2>
+    <h2 class="section-title">1073 seaton ke taiyaar templates</h2>
     <div class="filter-bar">
       <select id="stateFilter" aria-label="Rajya chunein">
         <option value="Maharashtra">Maharashtra (288)</option>
         <option value="Gujarat">Gujarat (182)</option>
         <option value="Rajasthan">Rajasthan (200)</option>
+        <option value="Uttar Pradesh">Uttar Pradesh (403)</option>
       </select>
       <select id="distFilter" aria-label="Jila chunein">
         <option value="">Saare jile</option>
@@ -129,10 +134,20 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
         <pre class="tpl-body" id={`tpl-raj-${c.slug}`}>{templateFor('Rajasthan', c)}</pre>
       </div>
     ))}
+    {upAssembly.map(c => (
+      <div class="card tpl" data-state="Uttar Pradesh" data-district={c.district} data-seat={'up-' + c.slug} data-name={c.name.toLowerCase()} id={`tpl-card-up-${c.slug}`}>
+        <div class="tpl-head">
+          <h3>{c.name} <span class="dist-tag">({c.district}{c.number ? ` — No. ${c.number}` : ''})</span></h3>
+          <button class="copy-btn" data-tpl={'up-' + c.slug}>Copy karo</button>
+        </div>
+        <pre class="tpl-body" id={`tpl-up-${c.slug}`}>{templateFor('Uttar Pradesh', c)}</pre>
+      </div>
+    ))}
     <p style="font-size:14px;color:var(--ink-soft);margin:24px 0 8px">
       Note: Ye template nagrik-shiksha ke liye hai. RTI lagane se pehle <a href="https://www.instagram.com/rtibyfiroz/" rel="noopener">@rtibyfiroz</a> par RTI ki sahi prakriya samajh lein.
     </p>
     <script type="application/json" id="rajDistricts">{JSON.stringify(rajDistricts)}</script>
+    <script type="application/json" id="upDistricts">{JSON.stringify(upDistricts)}</script>
   </div>
 
   <script is:inline>
@@ -145,7 +160,8 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
       var distByState = {
         'Maharashtra': ['Ahmednagar','Akola','Amaravati','Aurangabad','Beed','Bhandara','Buldhana','Chandrapur','Dhule','Gadchiroli','Gondiya','Hingoli','Jalgaon','Jalna','Kolhapur','Latur','Mumbai City','Mumbai Suburban','Nagpur','Nanded','Nandurabar','Nashik','Osmanabad','Parbhani','Pune','Raigad','Ratnagiri','Sangli','Satara','Sindhudurg','Solapur','Thane','Wardha','Washim','Yavatmal'],
         'Gujarat': ['Ahmedabad','Amreli','Anand','Aravalli','Banaskantha','Bharuch','Bhavnagar','Botad','Chhota Udaipur','Dahod','Dang','Devbhoomi Dwarka','Gandhinagar','Gir Somnath','Jamnagar','Junagadh','Kachchh','Kheda','Mahesana','Mahisagar','Morbi','Narmada','Navsari','Panchmahal','Patan','Porbandar','Rajkot','Sabarkantha','Surat','Surendranagar','Tapi','Vadodara','Valsad','Vav-Tharad'],
-        'Rajasthan': JSON.parse(document.getElementById('rajDistricts').textContent)
+        'Rajasthan': JSON.parse(document.getElementById('rajDistricts').textContent),
+        'Uttar Pradesh': JSON.parse(document.getElementById('upDistricts').textContent)
       };
 
       function rebuildDistricts() {
@@ -183,8 +199,8 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
       var params = new URLSearchParams(location.search);
       var seat = params.get('seat');
       var stParam = params.get('state');
-      var stPfx = stParam === 'Gujarat' ? 'guj-' : stParam === 'Rajasthan' ? 'raj-' : '';
-      if (stParam === 'Gujarat' || stParam === 'Rajasthan') {
+      var stPfx = stParam === 'Gujarat' ? 'guj-' : stParam === 'Rajasthan' ? 'raj-' : stParam === 'Uttar Pradesh' ? 'up-' : '';
+      if (stParam === 'Gujarat' || stParam === 'Rajasthan' || stParam === 'Uttar Pradesh') {
         stateSel.value = stParam;
         rebuildDistricts();
       }
@@ -192,7 +208,7 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
         var pid = 'tpl-card-' + stPfx + seat;
         var mid = 'tpl-card-' + seat;
         var gid = 'tpl-card-guj-' + seat;
-        var target = (stPfx && document.getElementById(pid)) || document.getElementById(mid) || document.getElementById(gid) || document.getElementById('tpl-card-raj-' + seat);
+        var target = (stPfx && document.getElementById(pid)) || document.getElementById(mid) || document.getElementById(gid) || document.getElementById('tpl-card-raj-' + seat) || document.getElementById('tpl-card-up-' + seat);
         if (target) {
           distSel.value = '';
           search.value = '';
