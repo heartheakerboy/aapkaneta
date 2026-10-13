@@ -10848,4 +10848,440 @@ export const upWorks: Record<string, Work[]> = {
   // - Amar Ujala (20 Feb 2026): Mohan Setu + Sonu Ghat-Barhaj marg ko fourlane karane ki vidhan sabha me MAANG uthayi — sirf maang — reject.
   // - YouTube "MLA Report Card" videos (India News UP) dono MLAs ke liye — video-aggregator content, concrete kaam ke liye use yogya nahi — reject.
 
+// ---- Azamgarh district batch (researched 2026-10-13) ----
+  'nafees-ahmad': [
+  {
+  title: 'Gopalpur me Rs3.25 crore ki 50 pariyojanaon ka shilanyas',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Azamgarh Live, Mar 2024',
+  sourceUrl: 'http://www.azmlive.in/2024/03/325.html',
+  date: '2024-03',
+  note: 'Sat 9 Mar 2024 ko Nasirpur Bazar sthit SP karyalay par fita katkar 50 pariyojanaon ki aadharshila rakhi gayi. MLA ke daave anusaar vipaksh me hote hue bhi itne kaam karaye gaye. Status: shilanyas (buniyaad rakhi gayi, nirmaan shuru hona baaki). RKP News UP aur Srishti Media ne bhi isi event ko cover kiya.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Vidhayak nidhi se Rs12.29 crore — CC road, interlocking, kharanja, naali, gate',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-gopalpur-mla-report-card-claims-of-achievements-are-many-yet-problems-persist-on-the-ground-40362363.html',
+  date: '2026-09',
+  note: 'Dainik Jagran report card ke anusaar vidhayak nidhi se CC road, interlocking, kharanja, naali aur gate nirmaan par Rs12,28,83,283 kharch: Araji Amani, Shivpur, Shankarpur, Rampur, Mubarakpatti, Motipur, Tripurarpur me CC/interlocking; Badhiya Chak me Rs14 lakh ki puliya; Bilariyaganj ke Johar Ali Park me 50m uncha rashtriya dhwaj + sundarikaran. Ye sanchayi (cumulative 2022-2026) aankda hai — Mar 2024 wali 50 pariyojanaen bhi isme shamil ho sakti hain; date-wise breakup page par nahi.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Schoolon me solar panel aur water cooler — shiksha par Rs1.03 crore',
+  category: 'School',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-gopalpur-mla-report-card-claims-of-achievements-are-many-yet-problems-persist-on-the-ground-40362363.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar shiksha ke liye diye gaye budget (Rs1,02,90,000) se schoolon me solar panel aur water cooler lagaye gaye; Madrasa Fala ki library me bhi solar panel lagaya gaya. Status: poore hone ka daava; sanchayi aankda, exact dates page par nahi.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Marg-prakash aur vidyut karyon par Rs6.82 crore',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-gopalpur-mla-report-card-claims-of-achievements-are-many-yet-problems-persist-on-the-ground-40362363.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar street lighting aur vidyut karyon par Rs6,82,08,711 kharch. Sanchayi aankda (2022-2026); date-wise breakup page par nahi.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Jaruratmandon ke ilaj ke liye vidhayak-nidhi se arthik sahayata',
+  category: 'Aspataal',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-gopalpur-mla-report-card-claims-of-achievements-are-many-yet-problems-persist-on-the-ground-40362363.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar chikitsa hetu milne wale budget ko MLA ne har jaruratmand ko diya. Note: ye hospital-building jaise buniyadi dhanche ka kaam nahi, ilaj hetu arthik sahayata ka vitran hai; saal-wise breakup page par nahi.',
+  period: '2022-2027',
+  }
+,
+  ],
+  'hriday-narayan-singh-patel': [
+  {
+  title: 'Vidhayak nidhi se Rs9.53 crore — 100+ CC road, pitch, interlocking, nullah-naali',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-sagari-mla-report-card-emphasis-on-roads-health-and-education-flood-tragedy-happens-every-year-rural-40362375.html',
+  date: '2026-09',
+  note: 'Dainik Jagran report card ke anusaar vidhayak nidhi se Rs9,53,07,800 se 100+ CC road, pitch, interlocking aur jal-nikasi ke liye nullah/naali ka nirmaan karaya gaya. Sanchayi aankda (2022-2026); date-wise breakup page par nahi. Report card me Mahul-Garhwal baandh ki jarrarta aur Ghaghra baadh-niyantran ka bada kaam abhi adhura bataya gaya hai.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'High-mast light aur vidyut karyon par Rs6.16 crore',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-sagari-mla-report-card-emphasis-on-roads-health-and-education-flood-tragedy-happens-every-year-rural-40362375.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar prakash hetu high-mast light aur vidyut karyon par Rs6,15,62,000 kharch. Sanchayi aankda (2022-2026).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Composite vidyalayon me kaksh nirmaan — Rs2.04 crore',
+  category: 'School',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-sagari-mla-report-card-emphasis-on-roads-health-and-education-flood-tragedy-happens-every-year-rural-40362375.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar kai composite vidyalayon me kaksh nirmaan par Rs2,04,00,000 kharch. Sanchayi aankda; exact dates page par nahi.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Har saal Rs25 lakh jaruratmandon ke ilaj hetu',
+  category: 'Aspataal',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-sagari-mla-report-card-emphasis-on-roads-health-and-education-flood-tragedy-happens-every-year-rural-40362375.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar chikitsa ke liye har saal milne wale Rs25 lakh bina bhedbhav jaruratmandon ke ilaj par diye gaye. Note: ye infrastructure ka kaam nahi, arthik sahayata ka vitran hai.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Bhuvna Bujurg me ~800m CC road ka shilanyas',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Samachar India Live (blog), Sep 2026',
+  sourceUrl: 'http://samacharindialive.blogspot.com/2026/09/blog-post_16.html',
+  date: '2026-09',
+  note: 'Azmatgarh block ki Bhuvna Bujurg gram panchayat me Bhuvna-Ojhauli sampark marg se Brahmlin Ramcharan Das Maharaj ki kuti tak lagbhag 800m CC road ki aadharshila; event Budhwar (post ke anusaar, lagbhag 16 Sep 2026). Status: shilanyas. Sirf ek local blog ne report kiya hai — mainstream outlet par verify nahi hua, isliye badge dawa.',
+  period: '2022-2027',
+  }
+,
+  ],
+  'akhilesh': [
+  {
+  title: 'Vidhayak nidhi se Rs5.20 crore ke 53 vikas karyon ka lokarpan',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, Sep 2025',
+  sourceUrl: 'https://www.jagran.com/politics/national-azamgarh-news-sp-mp-inaugurates-development-projects-worth-crores-24033569.html',
+  date: '2025-09',
+  note: '2 Sep 2025 ko Azamgarh ke MP Dharmendra Yadav aur MLC/purva mantri Balram Yadav ne vidhayak nidhi se hue Rs5,20,20,000 ke 53 karyon ka lokarpan kiya (MP ne sirf udghatan kiya, kaam MLA ke hain). Block road par swargiya Amresh Yadav (Babban Pradhan) ki smriti me bane gate ka bhi lokarpan hua. Status: lokarpan (kaam poore). DHYAN: khabar me "vidhayak Akhilesh Yadav" chhapa hai — ye Mubarakpur ke vidhayak Akhilesh s/o Ramakant (myneta candidate_id 4280) hain, SP adhyaksh Akhilesh Yadav NAHI; affidavit se verify.',
+  period: '2022-2027',
+  }
+,
+  ],
+  'durga-prasad-yadav': [
+  {
+  title: 'Vidhayak nidhi se 4 saal me Rs16 crore ke vikas karya (100+ sadaken, nali, bijli, ilaaj)',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-azamgarh-sadar-mla-report-card-rs-16-crore-spent-on-roads-education-electricity-and-health-40362336.html',
+  date: '2026-09-04',
+  period: '2022-2027',
+  note: 'Dainik Jagran ki report-card khabar: pichle 4 saalon me vidhayak nidhi se Rs16 crore kharch — 100 se adhik CC/interlocking sadaken aur jal-nikasi ki naaliyan; prativarsh Rs25 lakh chikitsa nidhi zarooratmand ilaaj me. Pramukh mad: Rs50 lakh se 1100m pitch road (Patel basti se Hasanpur Dalit basti tak, "haali me" nirmit); Rs14 lakh Ahopatti-Krishnanagar colony aur Rs12 lakh Manchobha sadak; Rs10 lakh Ambedkar Park boundary wall (Mumarkhapur); Rs5 lakh SBS Memorial School classroom; Bunda sahit gram panchayaton me transformer/khambha/taar; Rs5 lakh Chhatwara-Hyderabad nali+interlocking (nirmanadheen), Rs6 lakh Mulanapurmafi nali+interlocking. Vidhayak ka daava: nidhi ka 70% sadak-nali par; vetenary college (SP sarkar me swikrit) BJP sarkar me nahi bana. Adhuri maangen (Tamsa nadi pul Kakrahata–Mubarakpur, Rani ki Sarai mahila college, medical college/MRI/neuro-cardio doctor) — keval maang, entry nahi. Status: khabar vidhayak ke daavon par aadharit reporting hai; alag swatantra audit ya purnata ki pushti nahi mili.',
+  }
+,
+  ],
+  'alam-badi': [
+  ],
+  'ramakant': [
+  {
+  title: '19 saal purane sadak-jaam case me 3 mahine ki kaid (court faisla)',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'The Times of India, 15 May 2025',
+  sourceUrl: 'https://timesofindia.indiatimes.com/city/varanasi/sp-mla-gets-3-months-jail-in-19-year-old-road-blocking-case/amp_articleshow/121168853.cms',
+  date: '2025-05-15',
+  period: '2022-2027',
+  note: 'Azamgarh MP/MLA court ne April 2006 ke Pawai crossing chakka-jaam case (250 samarthakon ke saath tent lagakar marg avaruddh, sarkari kaam me badha) me Ramakant Yadav aur 3 samarthakon ko 3 mahine ki kaid + Rs1,300 jurmana; 3 gawahon ki gawahi par dosh-siddhi. Reporting me darj: July 2022 se nyayik hirasat me hain (1998 ke hatya-prayas/sadak-jaam case me surrender), May 2023 me Jaunpur MP/MLA court se 2019 ke maarpeet case me 4 mahine ki saza, Sep 2022 me Fatehgarh jail shift; 1998/2016 ke cases me jamanat mili par Mahul hooch tragedy (Feb 2022) ki file par remand badha diya gaya. Is tenure me koi vikas-karya (shilanyas/lokarpan/nidhi) ki khabar nahi mili. Status: dosh-siddhi — appeal/rihaai ki pushti wali khabar nahi mili.',
+  }
+,
+  {
+  title: '2006 ke chakka-jaam case me 1 saal ki sashram kaid + Rs3,800 jurmana (court faisla)',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Dainik Jagran, 15 Sep 2025',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-sp-mla-ramakant-yadav-sentenced-to-1-year-in-jail-for-road-blockage-case-24048158.html',
+  date: '2025-09-15',
+  period: '2022-2027',
+  note: 'Azamgarh MP/MLA special magistrate court (judge Anupam Kumar Tripathi) ne 6 April 2006 ke Didarganj thane chakka-jaam/sarkari-kaam me badha case me poorv sansad aur Phoolpur-Pawai SP MLA Ramakant Yadav ko 1 saal sashram kaid + Rs3,800 arthdand ki saza sunayi; thana prabhari se samarthak chhudane ka dabav banakar Didarganj-Khetasarai marg jaam kiya tha; 6 gawah pareekshit, 2 saha-aaropiyon ki mukadme ke dauran mrityu ho gayi. Khabar ke samay ve Fatehgarh jail me band the. Status: dosh-siddhi — appeal/rihaai ki pushti wali khabar nahi mili.',
+  }
+,
+  ],
+  'kamalkant': [
+  {
+  title: 'Martinganj tehsil parisar me navnirmit Adhivakta Bhavan ka lokarpan — vidhayak nidhi se Rs10 lakh',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Hindustan, 16 Apr 2026',
+  sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/azamgarh/story-mla-inaugurates-newly-constructed-advocate-bhavan-201776324161379.html',
+  date: '2026-04',
+  note: 'SP vidhayak Kamalkant Rajbhar ne Martinganj tehsil parisar me bane naye Adhivakta Bhavan ka lokarpan kiya; adhivaktaon ki maang par 23 Oct 2024 ko apni nidhi se Rs10 lakh diye the, jisse bhavan banakar taiyaar hua; bijli ke liye solar lagaya gaya. (status: purna + lokarpit)',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Vidhayak nidhi se kshetra me Rs5.56 crore ke sadak-naali-gate nirman (CC road, interlocking, khadanja)',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran, 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-didarganj-mla-report-card-the-problems-weighing-on-development-claims-in-the-region-40362316.html',
+  date: '2026-09',
+  note: 'Jagran ke "MLA Report Card" ground review ke anusaar: vidhayak nidhi se paanch crore 56 lakh 45 hazar rupaye kharch karke kshetra me CC road, interlocking, khadanja, naali aur gate ka nirman karaya gaya. Usi report card me gunvatta par sawal bhi — barish me sadken tooti hui, jalanikasi ki kami, kharab sadken. Status: nirmit bataye gaye (daawa) — report card two-sided review; koi aarop/case nahi. (status: nirman daawa, gunvatta vivadit)',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Vidhayak nidhi se Rs7.44 crore marg-prakash/vaidyut sudhar aur Rs3.20 crore shiksha kshetra me kharch',
+  category: 'Any',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran, 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-didarganj-mla-report-card-the-problems-weighing-on-development-claims-in-the-region-40362316.html',
+  date: '2026-09',
+  note: 'Jagran report card ke anusaar: marg prakash evam vidyut sudhar ke karyon par 7 crore 43 lakh 76 hazar 199 rupaye, aur shiksha kshetra me 3 crore 20 lakh 40 hazar rupaye kharch hue; jarooratmand mareezon ko ilaaj ke liye budget se paise bhi diye gaye. Usi report me — roadways bus stand, rajkiya mahila mahavidyalaya, raatswasthya suvidhaon ki kami ab bhi jari. Status: kharch-nidhi daawa (report card ke anusaar). (status: nirman daawa, do-pakshiya review)',
+  period: '2022-2027',
+  }
+,
+  ],
+  'puja': [
+  {
+  title: 'Mehnagar me mukhya margon par Rs90 lakh ke gate aur sarvajanik sthalon par Rs1.5 crore ki high-mast lights',
+  category: 'Any',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran, 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-mehnagar-mla-report-card-road-drainage-development-to-khadanja-lack-of-stadium-and-lack-of-health-facilities-40362254.html',
+  date: '2026-09',
+  note: 'Jagran ke "MLA Report Card" ke anusaar vidhayak nidhi se kshetra ke mukhya margon par 90 lakh rupaye se gate ka nirman karaya gaya; raat me suraksha aur aawagaman behtar banane ke liye sarvajanik sthalon par dedh crore ki lagat se high-mast lights lagwai gayin. Usi report card me runner-up (Manju Saroj, BJP) ka khandan — "koi bada karya nahi"; lekin bar association adhyaksh Ramjanm Singh ne lights ki pushti ki. (status: nirman daawa, do-pakshiya review)',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Vidhayak nidhi se gaon-gaon me Rs16 crore ki CC road, Rs1 crore interlocking aur Rs36 lakh ka khadanja nirman',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran, 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-mehnagar-mla-report-card-road-drainage-development-to-khadanja-lack-of-stadium-and-lack-of-health-facilities-40362254.html',
+  date: '2026-09',
+  note: 'Jagran report card ke anusaar: gaon-gaon me CC road 16 crore, interlocking ka kaam 1 crore se, grameen kshetron me khadanja nirman ke liye 36 lakh rupaye, aur Ranipur Rajmo me CC road banwai gayi; Sardarganj, Devariya, Khajura, Basupur sahit anya gaon me karyakartaon se sanvaad karke unki zaroorat ke anusaar vikas karya karaye gaye. Usi report me mukhya marg se jodne wali sadkon ki halat kharab batayi gayi — Mehnagar ko koi nayi sadak nahi mili. (status: nirman daawa, gunvatta/sampurnata vivadit)',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Mehnagar Adhivakta Sangh Bhavan ko solar urja se jodna — Rs17 lakh ka solar panel system',
+  category: 'Any',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran, 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-mehnagar-mla-report-card-road-drainage-development-to-khadanja-lack-of-stadium-and-lack-of-health-facilities-40362254.html',
+  date: '2026-09',
+  note: 'Report card ke anusaar adhivakta sangh bhavan ko solar urja se joda gaya; Bar Association adhyaksh Ramjanm Singh ke anusaar matra ek baar kehne par vidhayak ne 17 lakh rupaye ka solar panel system uplabdh karaya, jisse adhivaktaon ko bijli katauti ki samasya se mukti mili. Vidhayak ne nidhi se Rs15 lakh vidyut karyon par bhi kharch bataya. (status: nirman daawa — sangh adhyaksh ne pushti ki)',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Vidhayak nidhi me kathit commission ke aaropon par Satarkata Adhishthan (Vigilance) ne jaanch shuru ki',
+  category: 'Any',
+  badge: 'dawa',
+  sourceLabel: 'Hindustan, 24 Sep 2026',
+  sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/azamgarh/story-vigilance-initiates-probe-into-alleged-commission-in-mla-fund-201790234303832.html',
+  date: '2026-09',
+  note: 'Status: AAROP (allegation + jaanch shuru, rebuttal article me nahi). Azad Adhikar Sena ke rashtriya adhyaksh Amitabh Thakur ki shikayat par (ek sting report ke aadhar par): Mehnagar ki SP vidhayak Puja Saroj aur Maharajganj Sadar ke BJP vidhayak Jai Mangal Kannaujia par — vidhayak nidhi se vikas karyon ki anushansa ke badle kathit commission ki maang evam dhanrashi ke kathit len-den ka aarop. Uttar Pradesh Satarkata Adhishthan ki Gorakhpur ikai ne swatantra jaanch shuru kar di. Article me kisi FIR ya Puja Saroj ke khandan ka ullekh nahi hai.',
+  period: '2022-2027',
+  }
+,
+  ],
+  'bechai': [
+  {
+  title: 'Bardah samudayik swasthya kendra me navnirmit CC road ka lokarpan',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Hindustan (LiveHindustan), 9 Jun 2026 (est.)',
+  sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/azamgarh/story-samajik-swasthya-kendra-bardah-inaugurates-new-cc-road-by-sp-mla-bechai-saroj-201781034291499.html',
+  date: '2026-06-09',
+  note: 'Vikas khand Thekma kshetra ke samudayik swasthya kendra Bardah me Lalganj vidhan sabha kshetra ke SP vidhayak Bechai Saroj ne navnirmit CC road ka lokarpan kiya; report ke anusar ye marg 20 varshon se jarjar tha aur barsat me aavagaman kathin hota tha. Dainik Jagran ke 4 Sep 2026 report card me PHC Bardah tak Rs8 lakh ki CC road ka bhi ullekh hai — sambhavtah yehi pariyojana (CHC/PHC naam me bhinnata), isliye alag entry nahi. Status: lokarpan — poora aur chalu. Page par date nahi thi (index ~125 din pehle, "Mangalvar ko") — isliye 9 Jun 2026 (est.).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Kota Bujurg gaon me vidhayak nidhi se bani interlocking road ka lokarpan',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Hind Ekta Times, 20 Jun 2026 (est.)',
+  sourceUrl: 'https://www.hindektatimes.com/241491/',
+  date: '2026-06-20',
+  note: 'Lalganj tehsil kshetra ke Kota Bujurg gaon me vidhayak Bechai Saroj ki nidhi se nirmit interlocking road ka vidhayak ne swayam lokarpan kiya (Shanivar). Status: lokarpan — poora. Sthaniya (jila-star) news outlet; date index (~115 din pehle) aur "Shanivar" dono se 20 Jun 2026 milta hai — isliye est.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Shihuka Abirpur me vidhayak nidhi se bani CC road ka lokarpan',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Jan Sagar Today, 18 Aug 2025',
+  sourceUrl: 'https://www.jansagartoday.com/2025/08/18/%e0%a4%b8%e0%a4%a6%e0%a4%b0-%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%ac%e0%a5%87%e0%a4%9a%e0%a4%88-%e0%a4%b8%e0%a4%b0%e0%a5%8b%e0%a4%9c-%e0%a4%a8%e0%a5%87-%e0%a4%95%e0%a4%bf/',
+  date: '2025-08-18',
+  note: 'Azamgarh ke Tarwan block sthit Shihuka Abirpur me Indresh Pandey ke ghar se Abhimanyu Yadav ke ghar hote hue Rajbhar basti tak vidhayak nidhi se nirmit CC road ka lokarpan vidhayak Bechai Saroj ne kiya. Status: lokarpan — poora. Sthaniya (jila-star) news outlet.',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Ketlipur se Jamuawa tak dedh kilometer pitch road (Rs42 lakh) ka nirman',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar karyakal me vidhayak nidhi se lagbhag Rs42 lakh ki lagat se Ketlipur se Jamuawa tak dedh kilometer pitch road ka nirman karaya gaya. Status: nirmit (Jagran-reported; vishesh tithi/event alag se verify nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Devgaon CHC jaane wali CC road (Rs10 lakh) ka nirman',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar vidhayak nidhi se Rs10 lakh ki lagat se Devgaon CHC tak jaane wali CC road ka nirman karaya gaya. Status: nirmit (Jagran-reported; vishesh tithi/event alag se verify nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Gopalpur Sothauli me CC road (Rs11 lakh) ka nirman',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar vidhayak nidhi se Rs11 lakh ki lagat se Gopalpur Sothauli me CC road banwayi gayi. Status: nirmit (Jagran-reported; vishesh tithi/event alag se verify nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Shri Bhikhari Balika Mahavidyalaya, Ubarpur Lalganj ko bhavan nirman hetu Rs10 lakh',
+  category: 'School',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar vidhayak nidhi se Shri Bhikhari Balika Mahavidyalaya, Ubarpur (Lalganj) ko bhavan nirman ke liye Rs10 lakh diye gaye. Status: rashi di gayi (Jagran-reported; nirman poornata ki alag pushti nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Ramsurat Uchchatar Madhyamik Vidyalaya, Bardah ko bhavan nirman hetu Rs10 lakh',
+  category: 'School',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar vidhayak nidhi se Ramsurat Uchchatar Madhyamik Vidyalaya, Bardah ko bhavan nirman ke liye Rs10 lakh diye gaye. Status: rashi di gayi (Jagran-reported; nirman poornata ki alag pushti nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Lalganj me Varanasi-Azamgarh highway se Lalganj puliya tak pitch road (Rs9 lakh se adhik)',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar vidhayak nidhi se Rs9 lakh se adhik ki rashi Varanasi-Azamgarh highway se Lalganj puliya ke bagal me (nahar ki patri hote hue PWD road ke pul tak) pitch road banane ke liye di gayi. Status: rashi di gayi (Jagran-reported; nirman poornata ki alag pushti nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  {
+  title: 'Ismailpur Barahti me pitch marg se Bharat Yadav ke ghar tak interlocking (Rs8.03 lakh)',
+  category: 'Sadak',
+  badge: 'dawa',
+  sourceLabel: 'Dainik Jagran (report card), 4 Sep 2026',
+  sourceUrl: 'https://www.jagran.com/uttar-pradesh/azamgarh-report-card-of-lalganj-mla-no-demand-for-widening-of-roads-challenge-of-construction-of-overbridge-on-lalganj-bhira-road-continues-40362351.html',
+  date: '2026-09',
+  note: 'Jagran ke report card ke anusar vidhayak nidhi se Rs8.03 lakh ki rashi gramsabha Ismailpur Barahti me pitch marg se Bharat Yadav ke ghar tak interlocking ke liye di gayi. Status: rashi di gayi (Jagran-reported; nirman poornata ki alag pushti nahi — date report prakashan ki hai).',
+  period: '2022-2027',
+  }
+,
+  ],
+  'dr-sangram': [
+  {
+  title: 'Ahirula ke Khajuri gaon me apni nidhi se bani 2000-meter RCC sadak ka lokarpan',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+  sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/azamgarh/ahiraula/news/mla-inaugurated-rcc-road-in-ahraula-136211898.html',
+  date: '2026-01',
+  note: 'Ahirula (Azamgarh) ke Khajuri gaon me Samajwadi Party ke vidhayak Dr. Sangram Yadav ne apni nidhi se nirmit 2000-meter lambi RCC sadak ka lokarpan kiya (Ravivar, sayan 5 baje). Status: lokarpan — poora. Page par "9 mahine pehle" likha tha (index ~Oct 2026 ke hisab se) — Ravivar ke sanyojan se Jan 2026, isliye month-level est.',
+  period: '2022-2027',
+  }
+,
+  ],
+  // ---- Azamgarh district batch end ----
+// ---- Azamgarh district batch 1 (researched 2026-10-13) ----
+// Identity note: Mubarakpur ke vidhayak 'akhilesh' = Akhilesh s/o Ramakant (myneta candidate_id 4280; umr 59, 12th pass, 3 cases)
+// — SP adhyaksh Akhilesh Yadav NAHI. Verify: https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=4280
+// Research trail (rejected items):
+// - Nafees Ahmad: YouTube flood-area daura video (Chiknahwa bridge ki maang) — sirf daura + maang, reject; YouTube banned source bhi.
+// - Nafees Ahmad: public.app par Kayad nadi pul nirikshan — nirikshan/daura, reject; public.app banned source bhi.
+// - Nafees Ahmad: azmlive.in 2020 protest article (pre-2022, rajneetik pradarshan), Jagran Aug 2024 party-event hungaama — kaam nahi, reject.
+// - Nafees Ahmad: COVID-kaalin Bilariyaganj CHC oxygen pipeline — March 2022 se pehle ka, date rule se bahar, reject.
+// - HN Singh Patel: Amar Ujala Aug 2025 (Akhilesh Yadav par tippani ke khilaf gyapan) — rajneetik virodh, kaam nahi, reject.
+// - Mubarakpur: Akhilesh Yadav (SP supremo) ka Azamgarh SP karyalay udghatan (Jul 2025, latestly/theweek) — party property, MLA ka kaam nahi, reject.
+// - MP Dharmendra Yadav ke Azamgarh events — MP ke kaam MLA profile me nahi (rule).
+// - Mubarakpur: public.app Oct 2026 CEC-virodh protest video — rajneetik pradarshan, reject; banned source bhi.
+// Azamgarh batch w2 (2026-10-13): Durga Prasad Yadav, Alam Badi, Ramakant
+// NOTE: append these entries inside the works object in src/data/works_up.ts (before the closing '};').
+  // 'durga-prasad-yadav' trail:
+  // - azmlive (Mar 2024): Mahindra three-wheeler showroom (Sarai Mandraj–Kartalpur) ka feeta-katan udghatan — private commercial showroom ka event, public vikas karya nahi — reject.
+  // - azmlive (Oct 2020): Chak Inami interlocking/nali udghatan — pre-March-2022 — reject.
+  // - Amar Ujala (29 Apr 2025): DM ki sadak-prastav baithak me janpratinidhiyon ke sujhav — sirf meeting/proposal, koi swikriti/shilanyas nahi — reject.
+  // - Yug Jagran/Amar Ujala (Nov 2021): Purvanchal Expressway ka "sanketik lokarpan" — political stunt, pre-2022 — reject.
+  // 'alam-badi' trail:
+  // - Profile me koi entry nahi — March 2022 ke baad ke shilanyas/lokarpan/nidhi-karya ki koi credible khabar nahi mili.
+  // - janchetnaexpress (Aug 2025): Azamgarh–Mahul–Belwai sadak (Nizamabad-Lahidi-Phoolpur hote hue) ke chaudikaran ki PWD pramukh sachiv se sirf MAANG (patra) — reject (maang).
+  // - Indian Express obituary (Jul 2026): 90 saal ki umr tak sakriya, "personally inspecting development works in his constituency until about two months ago" — sirf nirikshan, koi shilanyas/lokarpan nahi — reject.
+  // - statenewspoint (Jul 2026) obituary: vikas karyon ki quality-check bhoomika — wahi nirikshan, work nahi — reject.
+  // - Dainik Bhaskar (Jun 2025): Azamgarh me SP PDA bhavan udghatan manch par dhakka-mukki ka vivaad — sirf event, koi kaam nahi — reject.
+  // - awazthevoice (Mar 2022): "four big gates in the name of martyrs" + nidhi jankalyan me — election-2022 ki khabar, pre-March-2022 tenure ke kaam, tareekh uncertain — reject.
+  // - Death (work nahi, profile update hetu note): 23 Jul 2026 — The Hindu, Hindustan Times, Indian Express, India TV ne 90 varsh ki umr me Azamgarh niwas par nidhan confirm kiya. Nizamabad seat ab khaali hai.
+  // 'ramakant' trail (identity verified: media me "Ramakant Yadav" — poorv sansad, 4-time MP (BSP/SP/BJP), 5-time MLA — SP MLA Phoolpur Pawai 2022; profile ke constituency/party se match):
+  // - July 2022 se nyayik hirasat (TOI, 15 May 2025) — is tenure me koi vikas-karya (shilanyas/lokarpan/nidhi) ki khabar nahi mili.
+  // - Mahul hooch tragedy (Feb 2022) me aaropi ka zikr TOI me hai — pre-March-2022 ghatna; case/rebuttal status ki explicit reporting nahi mili — negative entry me nahi joda.
+  // - TOI me "inter-region gang-42 ke leader" — police ka label, independent case status nahi — entry nahi.
+// ---- Azamgarh district batch w3 (researched 2026-10-13) ----
+  // Identity verified: 'kamalkant' = Kamlakant Rajbhar (myneta: KAMALKANT, s/o Sukhdev Rajbhar), SP, Didarganj (No. 350), elected 2022, in office since Mar 2022. NOT Kamalkant Mishra / other namesakes.
+  // ---- Azamgarh district batch w3 (researched 2026-10-13) ----
+  // Identity verified: 'puja' = Puja Saroj (W/o Rajiv Kumar), SP, Mehnagar (SC, No. 352), elected 2022, in office since Mar 2022. NOT Pooja Pal (Prayagraj) / other namesakes.
+  // Research trail (khaali nahi chhode — lekin reject kiye gaye sources):
+  // - Dainik Bhaskar interview (Mar 2026, "Akhilesh Yadav Vision Big..."): Puja Saroj ke SWAYAM-KE-DAAVE — Rasepur-Titra marg ki ~11 km sadak ban chuki, sadak/naali/jansuvidhaon par sakriyata; independent verification nahi mili — standalone entry nahi banayi (self-claim, uncorroborated).
+  // - news9up.com Feb 2023: blood-cancer pidit balak Pawan ka ilaaj apni nidhi se karane ka AASHVASAN — sirf vaada/promise, purnata ki khabar nahi; chhota local source — drop.
+  // - YouTube "Viral Video ... SP MLA in Azamgarh, Ground Report": high-mast light par Rs15,000 ka aarop — YouTube channel, non-credible; drop (vigilance probe wali credible Hindustan khabar hi dawa entry me hai).
+  // - public.app video: Mehnagar Bhadavar me Mata Shabri Trust karyalay ka feeta katkar udghatan (Puja Saroj) — public.app aggregator, khud neta ne kaam nahi karaya (sirf mukhya atithi) — drop.
+  // - dotookmedia.com Aug 2025: Kamalkant ke khilaf Congress neta ke netritv me jarjar sadak (Phoolpur-Sikraur, 2 km) par virodh — political protest, inaction ki aam shikayat, koi case status nahi — negative entry criteria (case/allegation status explicit) poora nahi — drop; Jagran report card me sadak ki halat ka zikr waise bhi covered hai.
+  // - YouTube "Roshan Rajbhar ka bada sawal ... 5 crore vidhayak nidhi": YouTube, non-credible — drop.
+  // - Name trap: "Pooja Pal" (ETV Bharat, Prayagraj MLA) — alag vyakti, Mehnagar wali Puja Saroj se mat jodo.
+  // NOTE (odd URLs): Dono Jagran report-card URLs search tool se verbatim mile, lekin subdomain ajeeb tha (org374nextwww.jagran.com / org432akamprepod.jagran.com). Content khud khola-padha aur verify kiya gaya (Jagran byline Mohan Pratap Rao, edited Abhishek Sharma, 4 Sep 2026). Parent agent sourceUrl ko standard https://www.jagran.com/uttar-pradesh/azamgarh-... slug se cross-check kar le.
+// ---- Azamgarh district batch, wave 4 (researched 2026-10-13) ----
+// Identity notes: 'bechai' = Bechai Saroj, Lalganj (SC), SP — Dainik Jagran report card (4 Sep 2026) me "Lalganj vidhan sabha kshetra se doosri baar Samajwadi Party se vidhayak chune gaye Bechai Saroj" se confirmed.
+// 'dr-sangram' = Dr. Sangram Yadav, Atrauliya, SP — Dainik Bhaskar (Ahirula) me "Samajwadi Party ke vidhayak Dr. Sangram Yadav" + Wikipedia/IndiaVoteKar se Atrauliya 2022 (teesri baar) confirmed.
+// 'bechai' trail:
+// - YouTube: "vidhayak Bechai Saroj ne vidhayak nidhi se bani 300 meter sadak ka udghatan" — YouTube-only, source rule ke anusar reject; koi text-news coverage nahi mili.
+// - public.app wali Lalganj khabar Mirzapur ke Lalganj (BJP MLA Sanjay Singh) ki hai, Azamgarh ke Lalganj (Bechai) se sambandh nahi — reject (galat vyakti/sthan).
+// - Jagran report card (4 Sep 2026) me Rs25 lakh/year chikitsa sahayta (jaruratmand marizon ke ilaj me) — routine disbursement, vikas-karya nahi — entry nahi.
+// - Jagran report card me ullikhit adhure kaam/maangein (Lalganj-Bhira overbridge, sadak chaudikaran, 100-shaiyya aspataal me ultrasound/X-ray) — entry nahi.
+// - BJP runner-up Neelam Sonkar ka political counter-claim ("sirf nali-kharanja me uljhe") — concrete allegation/case nahi — negative entry nahi.
+// - Negative: dono MLAs ke liye koi credible allegation/case news nahi mili — zero negative entries.
+// 'dr-sangram' trail:
+// - YouTube-only (text-news coverage nahi mili — rule ke anusar sab reject): (a) Dadar gaon me 220-meter CC marg ka lokarpan (MLC Balram Yadav sanyukt); (b) Pakhuwadih gaon me 300-meter CC marg ka lokarpan (betiyon ke haathon feeta); (c) Tamrua gaon me RCC marg + nali ka lokarpan; (d) Rithiya gramsabha me CC road ka lokarpan.
+// - News Track (Aug 2026): 4 jaruratmand marizon ko ilaj hetu aarthik sahayta (Rs50k, Rs2 lakh, Rs1.5 lakh, Rs50k) — one-time aid disbursement, vikas-karya nahi — entry nahi.
+// - devdiscourse (2020): COVID lockdown violation FIR me "former MLA Sangram Singh Yadav" — galat vyakti (Ballia/Sikandarpur) + pre-March-2022 — reject.
+// - YouTube (Tez News): SUBHASPA neta Arun Rajbhar ka aarop — YouTube-only, independent reporting nahi — reject.
+// - ourneta.com me election affidavit ke 6 criminal cases ka ullekh — affidavit data hai (profile me myneta record se covered); koi news-reported allegation/case nahi — negative entry nahi.
+// - Negative: koi credible allegation/case news nahi mili — zero negative entries.
+
 };
