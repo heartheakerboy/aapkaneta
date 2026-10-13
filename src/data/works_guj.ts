@@ -2505,4 +2505,15 @@ export const gujWorks: Record<string, Work[]> = {
       note: 'Vijapur taluka ke Bamanva gaon me navnirmit gram panchayat bhavan ka lokarpan MLA Dr. C.J. Chavda ke haathon — aadhunik suvidhaon se prashasanik karya me suvidha. (status: udghatan; exact date page par nahi mili)',
     },
   ],
+  'alpesh-khodaji-thakor': [
+    {
+      title: 'Chandkheda ke Vankar Seva Sangh Gyan Bhavan ke liye ₹10 lakh MLA grant ki ghoshna',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Vankar Seva Sangh (sangh ki official website), 2 Aug 2025',
+      sourceUrl: 'https://vsschandkheda.com/blogs/news/major-boost-for-education-mla-alpesh-thakor-announces-10-lakh-grant-for-vankar-seva-sanghs-gyan-bhavan',
+      date: '2025-08-02',
+      note: 'Sangh ki official website ke anusaar Gandhinagar South ke MLA Alpesh Thakor ne Chandkheda me Vankar Seva Sangh ke nirmanadheen Gyan Bhavan (5-manzila, ₹7 crore, competitive-exam coaching + library) ke liye apni MLA grant se ₹10 lakh ki ghoshna ki. (status: ghoshna/pledge — kaam poora hone ki report nahi; source sangh ka khud ka hai, swatantra press coverage nahi mili)',
+    },
+  ],
 };
