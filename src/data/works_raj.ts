@@ -4204,4 +4204,60 @@ export const rajWorks: Record<string, Work[]> = {
       note: '(Negative entry — dono paksh/tathya report me.) 2015 me Semari gram panchayat ke sarpanch chunav me namankan ke saath jama ki gayi kaksha-5 ki marksheet farzi payi gayi — CB-CID jaanch me pushti hui ki Shanta Devi ne ye kaksha pass nahi ki thi; shikayat unki virodhi Sugna Devi ne ki thi. Chargesheet me Shanta Devi aur unke pati (tatkalin MLA Amrit Lal Meena, ab divangat) dono ka naam aaropi ke roop me tha; pati ko nyayik hirasat bheja gaya tha, Shanta Devi zamaanat par theen. Koi dosh-siddhi ki report nahi mili; vartaman nyayik sthiti ki pushti nahi ho payi. Unke halafnama me 1 aapradhik mamla ghoshit hai. (status: aarop/chargesheet, zamaanat; parinaam ki pushti nahi)',
     },
   ],
+  // ---- Pratapgarh district batch (researched 2026-10-13) ----
+  // 2/2 MLAs researched, 5 news-verified entries / 1 MLA.
+  // thavar-chand (Dhariawad ST, BAP): 0 entries — honest empty (sirf Vidhan Sabha bhashan/YouTube/protest coverage mili; koi credible news-verified kaam nahi).
+  // hemant-meena (Pratapgarh ST, BJP, Revenue Minister): 5 entries — sirf constituency-specific kaam liye gaye; statewide minister faisle exclude.
+  'hemant-meena': [
+    {
+      title: 'Pratapgarh shahar me nagar parishad karyon ka bhoomi pujan-shilanyas: Tagore Park/Atal Park boundary walls aur damrikaran',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Zee News Hindi, Sep 2026 (exact date page par nahi)',
+      sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/pratapgargh/pratapgarh-news-minister-hemant-meena-laid-the-foundation-of-new-projects-boosting-development/2641451',
+      date: '2026-09',
+      note: 'Cabinet Revenue Minister Hemant Meena aur Nagar Parishad sabhapati Ramkanya Gurjar ne Ashok Nagar ke samudayik bhavan ke peeche karyakram me bhoomi pujan-shilanyas kiya. Karya: ward 37 me Tagore Park ki boundary wall + saundaryikaran, ward 25 (Ashok Nagar) me garden ki boundary wall, Reliance petrol pump ke saamne puliya ke paas Atal Park ki boundary wall, aur Ashok Nagar + Gautam Nagar me damrikaran. Nagar parishad ayukt Lalit Singh Rathore ke anusaar karyon par kaam shuru ho raha hai. (status: shilanyas/bhoomi pujan)',
+      period: '2023-2028',
+    },
+    {
+      title: 'Pratapgarh me ₹7 crore ke vikas karyon ka lokarpan aur bhoomi pujan (MP C.P. Joshi ke saath)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Zee News Hindi, Jun 2025 (exact date page par nahi; article ID ~23 Jun 2025)',
+      sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/pratapgargh/revenue-minister-and-mp-inaugurated-development-works-worth-of-7-crore-rupees/1750682393873',
+      date: '2025-06',
+      note: 'Revenue Minister Hemant Meena aur MP C.P. Joshi ne Devgarh Darwaza ke bahar Nagar Parishad dwara aayojit samaroha me ₹7 crore ke karyon ka lokarpan-bhoomi pujan kiya. Sabhapati Ramkanya Gurjar ke anusaar: Nand Marg par retaining wall, Neelkanth Mahadev me boundary wall, Valmiki Samaj muktidham me vikas karya, Gupt Ganga me anicut nirman, Maruti Nagar/Ashok Nagar/Gautam Nagar/Bawdi Mohalla me sadak nirman, aur shehar ke naalon ko RCC se dhakne ka karya. (status: mixed — lokarpan + bhoomi pujan)',
+      period: '2023-2028',
+    },
+    {
+      title: 'Arnod CHC ke naveen bhavan ka udghatan (14 Dec 2025)',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Pratahkal, Dec 2025 (follow-up report)',
+      sourceUrl: 'https://www.pratahkal.com/pratapgarh/pratapgarh-a-new-building-worth-crores-has-become-a-mere-showpiece-while-health-services-at-arond-chc-are-crippled-due-to-lack-of-roads-and-staff-1558112',
+      date: '2025-12-14',
+      note: 'Revenue Minister Hemant Meena ne 14 December 2025 ko Arnod upkhand ke samudayik svasthya kendra (CHC) ke naveen bhavan ka shubharambh kiya. (status: udghatan — poorn bhavan ka lokarpan). Tatasth note: usi follow-up reporting ke anusaar udghatan ke hafton baad bhi aspatal tak pakki approach sadak nahi thi, parisar me chardeewari nahi bani thi aur keval ~2 doctor karyarat the — sthiti report, vyaktigat aarop nahi.',
+      period: '2023-2028',
+    },
+    {
+      title: 'Suhagpura mandal ki 5 panchayaton me poorn vikas karyon ka lokarpan (sadak, jal, shiksha)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Pratahkal, Dec 2025 (exact date page par nahi; event "somvaar" ko)',
+      sourceUrl: 'https://www.pratahkal.com/pratapgarh/new-gift-of-development-cabinet-minister-hemant-meena-inaugurated-development-works-worth-lakhs-in-five-panchayats-of-suhagpura-mandal-1549693',
+      date: '2025-12',
+      note: 'Cabinet Minister evam kshetriya MLA Hemant Meena ne Mota Mayanga gram panchayat me aayojit samaroha me Suhagpura mandal ki 5 panchayaton — Mota Mayanga, Suhagpura, Pateliya, Padliya, Dojda — me laakhon rupaye ki lagat se sampann hue sadak, jal, shiksha aur nagrik suvidhaon ke vikas karyon ka udghatan karke janta ko samarpit kiya. (status: udghatan/lokarpan — poorn karyon ka samarpan)',
+      period: '2023-2028',
+    },
+    {
+      title: 'Gamda me samudayik bhavan aur Datiar me naveen panchayat bhavan ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Pratahkal, Jan 2026 (exact date page par nahi; event "shukravaar" ko)',
+      sourceUrl: 'https://www.pratahkal.com/pratapgarh/pratapgarh-revenue-minister-hemant-meena-gave-the-gift-of-development-works-inaugurated-the-newly-constructed-buildings-in-gamda-and-datiar-1552692',
+      date: '2026-01',
+      note: 'Revenue Minister Hemant Meena ne Suhagpura mandal ke daure me gram panchayat Datiar ke antargat gram Gamda me (Naya Mandir Dalji Bavji ke sameep) nirmit samudayik bhavan ki pattika ka anaavaran karke udghatan kiya, aur gram panchayat Datiar ke naveen aadhunik panchayat bhavan ka bhi lokarpan kiya. (status: udghatan/lokarpan)',
+      period: '2023-2028',
+    },
+  ],
 };
