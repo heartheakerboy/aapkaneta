@@ -1759,3 +1759,136 @@ mpWorks['bablu-rajesh-shukla'] = [
 // - Punjab Kesari: Viksit Bharat Sankalp Yatra me maujoodgi — REJECT: sarkari karyakram me maujoodgi matra (weak attribution).
 // - YouTube/Bundeli Bauchaar: "tevar/aaina" wale videos — REJECT: YouTube-only.
 // - indialeader.com: "initiated several development projects" jaise generic daave — REJECT: vague, koi verifiable specifics nahi; page me factual errors bhi hain.
+
+// ---- Chhindwara district batch (researched 2026-10-14) ----
+
+mpWorks['sunil-uikey'] = [
+  {
+    title: 'Parasia me vidhayak ke shopping complex ka 726 sq ft atikraman nagar palika ne dhwast kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika, Sep 2025',
+    sourceUrl: 'https://www.patrika.com/chhindwara-news/demolition-of-junnardeo-mla-sunil-uikey-shopping-complex-he-alleged-bjp-mp-news-19934915',
+    date: '2025-09',
+    note: 'Patrika ke mutabik Dongar Parasia nagar palika ne vidhayak Sunil Uikey ke Parasia-sthit shopping complex ke pichhe naale ke paas lagbhag 726 sq ft bhoomi par atikraman mankar pakka nirman (toilet/bathroom/store room) dhwast kar diya; nagar palika adhyaksh Vinod Malvi ki shikayat par CMO ne notice dekar 3 din ka ultimatum diya tha. Uikey ka khandan: nirman ki anumati thi, aur unhone kisan andolan me sansad Vivek Bunty Sahu ke khilaf awaz uthayi thi isliye rajnaitik badle ki karrawai hai. Status: prashasanik karrawai (dhwast) — vidhayak ka pratikhandan bhi darj hai; koi adlati faisla ki khabar nahi mili. Negative entry — karya nahi, lekin vyakti se juda credible-reported ghatna hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['kamlesh-pratap-shah'] = [
+  {
+    title: 'Amarwara me 17.62 crore ke 4 shala bhavan aur 2 senior girls hostel ki swikriti',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Satpura Express, 7 Aug 2025',
+    sourceUrl: 'https://satpudaexpress.com/?p=19479',
+    date: '2025-08-07',
+    note: 'Satpura Express ke mutabik vidhayak Kamlesh Pratap Shah ne vidhansabha satra ke dauran CM Dr. Mohan Yadav se milkar Amarwara kshetra me schoolon/chhatravason ke nirman ki maang rakhi thi, jise rajya shasan ne swikar kar Rs. 17.62 crore ki adhikarik swikriti de di: shaskiya kanya HSS Amarwara (Rs. 2.18 cr), shaskiya HSS Paunar (Rs. 2.18 cr), shaskiya high school gram Hirri (Rs. 2.18 cr), shaskiya HSS Khireti (Rs. 2.18 cr), senior girls hostel Partapur (Rs. 4.44 cr) aur senior girls hostel Gourpani (Rs. 4.44 cr). Status: swikriti — nirman karya shuru/lokarpan ki alag khabar nahi mili. Caveat: swikriti ka shreya outlet vidhayak ki maang ko deta hai (CM/siksha mantri ko bhi vidhayak ne dhanyavad diya hai).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Singodi-Khireti 28.30 km marg (Rs. 78.76 crore) ke unnayan ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Atulya Bharat Chetna, 20 Sep 2026',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/179315',
+    date: '2026-09-20',
+    note: 'Outlet ke mutabik Singodi-Hivarkhedi-Manegaon-Pipariya Gumani-Aklama-Khurshipar-Khireti marg ke unnayan (single se double lane, 28.30 km, lagat Rs. 78.76 crore se adhik) ka bhoomi-pujan gram panchayat Khakarachaurai me PWD mantri aur jile ke prabhari mantri Rakesh Singh ne kiya; vidhayak Kamlesh Pratap Shah karyakram me maujood rahe aur outlet unki "pehal"/anushansa ko swikriti ka shreya deta hai. Poornata ka lakshya Oct 2027. Status: bhoomi-pujan (mantri dwara) — nirman purnata ki khabar nahi. Pardarshita note: ye rajya sarkar (PWD) ki pariyojna hai; vidhayak ki bhoomika maang/anushansa aur upasthiti tak simit rahi, seedha bhoomi-pujan unhone nahi kiya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['choudhary-sujeet-mersingh'] = [
+  {
+    title: 'Loni kala-Kanaka Dham sadak (Rs. 7 lakh vidhayak-nidhi) ka bhoomi-pujan; Kanaka Dham me shed-saundaryikaran ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'KBP News, Apr 2025',
+    sourceUrl: 'https://kbpnews.in/?p=5160',
+    date: '2025-04',
+    note: 'KBP News ke mutabik Chourai vidhayak Sujeet Choudhary ne Loni kala sthit Kanaka Dham me (251-kundiya Sita Ram mahayagya ke sandarbh me) mukhya marg se mandir pahunch marg ki sadak ka bhoomi-pujan kiya — ye sadak vidhayak-nidhi se Rs. 7 lakh ki rashi se banegi — aur mandir me shade evam saundaryikaran karya ka lokarpan kiya. Status: sadak — bhoomi-pujan; shed/saundaryikaran — lokarpan (poorna). Caveat: tithi image metadata (Apr 2025) se li gayi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['vijay-revnath-chore'] = [
+  {
+    title: 'Swechchanudan me 17.5 lakh ki gadbadi ka aarop — BJP ka RTI-adhara par press conference',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar Hindi, 21 Sep 2025',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/chhindwara/saunsar-mla-choure-gave-rs-175-lakh-as-voluntary-grant-to-his-personal-assistant-and-his-family-1189447',
+    date: '2025-09-21',
+    note: 'Bhaskar Hindi ke mutabik Pandhurna/Chhindwara BJP ne Sausar karyalay me patrakar varta karke vidhayak Vijay Revnath Chore par aarop lagaya ki unhone 11 Apr 2023 se 6 Mar 2025 ke beech apni anushansa par nij sahayak Chandrashekhar Ganorkar, unki patni Neelima Ganorkar aur bhai Anil Ganorkar sahit parivar ke khaaton me naam badal-badalkar kul Rs. 17.50 lakh ki swechchanudan rashi aavantit karayi (BJP neta Sandeep Mohod ne kul ghotala lagbhag Rs. 20 lakh bataya; RTI-karyakarta Munna Kalam ke dastavezon ka hawala). BJP ne janch agencies se janch aur High Court jane ki chetawani di. Status: AAROP — patrakar varta ka daava; vidhayak ka khandan/paksh khabar me shamil nahi; koi FIR, janch ya adlati karrawai ki khabar nahi mili. Negative entry — credible reporting, allegation status explicit.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['kamal-nath'] = [
+  {
+    title: 'Chhindwara shahar me Rs. 85 lakh vidhayak-nidhi se 41 nirman karyon ki swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 23 Nov 2024',
+    sourceUrl: 'https://dainikyashonnati.com/mla-kamal-nath-many-development-works-will-be-done-from-the-development-fund-of-mla-kamal-nath/',
+    date: '2024-11-23',
+    note: 'Dainik Yashonnati ke mutabik Chhindwara vidhayak Kamal Nath ne apne vidhansabha kshetra ke liye apni vidhayak-nidhi se Rs. 85 lakh ki rashi swikrit ki, jisse Chhindwara shahar ke vibhinn wardon me 41 nirman karya hone hain — CC sadak, naali, samudayik bhavan, tin shed, chabutra, kalamanch, farshikaran aadi (ward-war suchi article me darj). Status: swikriti — karya \'sheeghra poorn\' hone the, purnata ki alag khabar nahi mili. Caveat: ye press-release style ki ghoshna-khabar hai; Satpuda Express ne bhi isi Nov 2024 round ki do aur alag swikritiyan (Rs. 50 lakh/33 karya, Rs. 80 lakh/52 karya) darj ki hain — teeno alag-alag allocation hain, isliye teeno entries rakhi hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nagar Palik Nigam ke graameen kshetron me Rs. 50 lakh vidhayak-nidhi se 33 nirman karyon ki swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Satpuda Express, 27 Nov 2024',
+    sourceUrl: 'https://satpudaexpress.com/?p=15400',
+    date: '2024-11-27',
+    note: 'Satpuda Express ke mutabik Kamal Nath ne Nagar Palik Nigam ke antargat aane wale gaon/kasbon/wardon me Rs. 50 lakh ki vidhayak-nidhi se 33 nirman karyon ki swikriti di — school me projector+computer set, pakki naali, CC sadak, mokshadham saundaryikaran, chabutra, tin shed, mandiron ke paas sarvajanik nirman aur park (ward-war suchi article me darj). Status: swikriti — karya \'sheeghra poorn\' hone the, purnata ki alag khabar nahi mili. Credit-pardarshita: ye unhi ke vidhayak-nidhi ke Nov 2024 round ki doosri allocation hai (pehli: Rs. 85 lakh/41 karya shahar me) — double-counting nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chhindwara Graameen 01 aur 02 me Rs. 80 lakh vidhayak-nidhi se 52 nirman karyon ki swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Satpuda Express, 27 Nov 2024',
+    sourceUrl: 'https://satpudaexpress.com/?p=15400',
+    date: '2024-11-27',
+    note: 'Satpuda Express ke mutabik Kamal Nath ne Chhindwara Graameen 01 aur 02 me Rs. 80 lakh ki vidhayak-nidhi se 52 nirman karyon ki swikriti di — kalamanch/rangmanch, boundary wall, CC sadak, naali, school me desk-table aur farshikaran, mokshadham me atirikt karya, stop dam marammat (gaon-war suchi article me darj). Status: swikriti — karya \'avilamb poorn\' hone the, purnata ki alag khabar nahi mili. Credit-pardarshita: ye Nov 2024 round ki teesri allocation hai — teenon ko alag entries me darj kiya gaya hai, koi double-count nahi.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['sohanlal-balmik'] = [
+  {
+    title: 'Parasia civil aspataal me three-phase bijli connection ke liye Rs. 2 lakh vidhayak-nidhi swikrit',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Naidunia, 19 Oct 2025',
+    sourceUrl: 'https://www.naidunia.com/madhya-pradesh/bhopal-chhindwaras-parasia-hospital-lacks-basic-facilities-amidst-cough-syrup-tragedy-8410392',
+    date: '2025-10-19',
+    note: 'Naidunia ke mutabik Parasia civil aspataal me three-phase bijli connection na hone se kharidi hui X-ray machine ek saal se dibbe me band padi thi (sonography machine bhi radiologist na hone se band). Iske baad Parasia vidhayak Sohanlal Balmik ne Rs. 2 lakh vidhayak-nidhi se swikrit kiye; connection lene ki prakriya prarambh honi thi. Status: swikriti — connection/karyanvayan ki alag khabar nahi mili; article swayam sandigdh hai ki machine kab chalegi. Prasang: Coldrif kaf-sirup se 15 bachchon ki maut ke baad aspataal ki badhali ujagar hui thi — ye swikriti usi sandarbh me aayi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chhath puja ke liye Pench nadi ka gate kholne ki maang par chakka-jam — vidhayak sahit 40 par FIR',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 11 Nov 2024',
+    sourceUrl: 'https://www.amarujala.com/madhya-pradesh/chhindwara/parasia-mla-approaches-sp-sp-expresses-displeasure-over-fir-in-chhath-puja-protest-says-it-is-wrong-to-block-road-chhindwara-news-c-1-1-noi1218-2304520-2024-11-11',
+    date: '2024-11-11',
+    note: 'Amar Ujala ke mutabik 6 Nov 2024 ko Chhath puja ke liye Newton (Parasia) me Pench nadi ka bandh-gate kholne ki maang par vidhayak Sohanlal Balmik ke netritva me Congress karyakartao ne mukhya marg par chakka-jam kiya (lagbhag ek ghante yatayat badhit); Parasia police ne vidhayak sahit 40 logon par BNS ki dhara 126-2 (sarvajanik sthan par yatayat avruddh karna) aur 189-2 (gairkanuni jamawda) me prakaran darj kiya. Baad me vidhayak SP karyalaya pahunche aur karwayi ko anavashyak bataya. Status: FIR darj — iske aage case ki sthiti ki koi khabar nahi mili. Caveat: ye vikas-karya nahi, virodh-pradarshan se juda case hai — negative entry ke roop me darj.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['neelesh-pusaram-uikey'] = [
+  {
+    title: 'Gram panchayat Gujarkhedi me Bhagwan Birsa Munda pratima sthal par rangmanch nirman ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Satyarath, 2 Jan 2026',
+    sourceUrl: 'https://satyarath.com/news/180730',
+    date: '2026-01-02',
+    note: 'Satyarath ke mutabik Pandhurna vidhayak Neelesh Uikey ki pehal par gram panchayat Gujarkhedi me Bhagwan Birsa Munda ki pratima sthal par rangmanch nirman karya ka bhoomi-pujan 2 Jan 2026 ko sampann hua; karyakram me jila Congress adhyaksh Jatan Uikey, janpad adhyaksh Lata Tumdam, sarpanch Sangeeta Dhurve sahit janpratinidhi maujood the. Status: bhoomi-pujan — nirman karyanvayan/purnata ki alag khabar nahi mili. Caveat: article me karya ki lagat darj nahi hai.',
+    period: '2023-2028',
+  },
+];
