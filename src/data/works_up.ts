@@ -4159,4 +4159,90 @@ export const upWorks: Record<string, Work[]> = {
     },
   ],
 
+  // ---- Kasganj district batch (researched 2026-10-13) ----
+  'devendra-singh': [
+    {
+      title: 'Bhaisora Khurd (Kuramai, AC-100) me Kali nadi par pul ke nirmaan ko manzoori',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jun 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kasganj/kuramai/news/kasganj-kali-river-bridge-devendra-singh-rajput-initiative-137489857.html',
+      date: '2026-06',
+      note: 'status: swikriti. Sadar vidhayak Devendra Singh Rajput ki pahal aur prayason se Bhaisora Khurd gaon ke paas Kali nadi par pul banane ki manzoori mili (Kasganj block, nyay panchayat Kuramai kshetra). Pul aur sambandhit marg se kisanon ko mandiyon tak seedha rasta milega aur Kasganj-Mirhchi bypass ka hissa banega. Page par tithi "4 mahine pehle" (est.) di gayi thi.',
+    },
+    {
+      title: 'Sagarpur se Raipur Patna marg ko jodne wali sadak ka nirmaan swikrit (lagbhag Rs 1.47 crore)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 6 Feb 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kasganj/road-construction-in-sagarpur-will-provide-convenience-to-the-villagers-kasganj-news-c-175-1-agr1054-143132-2026-02-06',
+      date: '2026-02-06',
+      note: 'status: swikriti. Soron kshetra ke gaon Sagarpur se Raipur Patna marg ko jodne wali sadak ko shasan se manzoori; lagat lagbhag Rs 1.47 crore; tender poora hone ke baad PWD nirmaan shuru karega. Vidhyak Devendra Rajput ki pahal par prastav ko manzoori mili. Sagarpur (Soron) Kasganj AC-100 me aata hai.',
+    },
+    {
+      title: 'Mohanpura me factory ke paas interlocking sadak ka nirmaan shuru',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kasganj/kantaur/news/road-construction-begins-near-the-factory-in-mohanpura-136847724.html',
+      date: '2026-04',
+      note: 'status: shilanyas/ongoing. Kantaur kshetra ke gram Mohanpura me factory ke paas lambe samay se jarjar haalat me pade raste ka nirmaan karya shuru hua; vidhayak Devendra Singh Rajput ke prayason se sambhav hua. Ek follow-up report me interlocking karya tezi se pragati par bataya gaya. Page par tithi "6 mahine pehle" (est.) di gayi thi.',
+    },
+  ],
+  // Summary: 3 verified entries. Kul 3 sources khole aur padhe (sab article text se verify).
+  // Rejected (7): (1) Sahawar Gate railway underpass (Amar Ujala, Sep 2025) - Railway ka karya, MLA ko attribution nahi (sirf BJP netaon ki maang) - weak attribution; (2) Sahawar bypass Rs 45 cr (Jagran, Jun 2025) - Amapur AC + CM ki ghoshna, galat constituency; (3) Ganjdundwara-Mohanpur road widening (Jagran, Aug 2025) - sirf prastav, koi MLA link nahi; (4) Zila panchayat budget baithak (Jagran) - sirf upasthiti; (5) 3 samitiyon ki sadasyata (Bhaskar) - vikas karya nahi; (6) Jalesar (Etah) sadkon ka shilanyas - mehmaan ke roop me upasthiti, Etah jila; (7) Bhaskar interview me MLA ke dawe (underpass/sadak budget) - bina swatantra verification ke dawa, include nahi kiye.
+  // Same-name caution: Devendra Pratap Singh (Amapur MLA, nidhan 2021) ki khabrein alag rakhi gayin - sab entries Kasganj Sadar (AC-100) ke Devendra Singh Rajput ki hain.
+  // hariom = Hariom Verma, BJP MLA Amapur (AC 101, Kasganj), 2022 se (tenure Mar 2022-2027).
+  'hariom': [
+    {
+      title: 'Jamalpur gaon me nayi RCC sadak ka udghatan (Sahawar, Kasganj)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Bharatvarsh Samachar Digital, Sep 2026 (exact date page par nahi; event "Shukravaar dopahar")',
+      sourceUrl: 'https://bharatvarshsamachardigital.com/archives/12990',
+      date: '2026-09-25',
+      note: 'status: lokarpan (Amapur BJP MLA Hariom Verma ne Jamalpur gaon, Sahawar tehsil, Kasganj me nayi bani RCC sadak ka feeta kaatkar-nariyal fodkar udghatan kiya; gram pradhan Devendra Singh aur mandal adhyaksh Haribhan Shakya maujood. Article me event "Shukravaar dopahar" bataya gaya; tasveer file names 26 Sep 2026 ke hain, isliye event date (est.) 2026-09-25. Sadak ki lambai/laagat ka zikr nahi. Source chhota Kasganj digital outlet hai (named reporter Mukesh Yadav + original photos); public.app par same event corroborated mila — public.app task rules ke mutabiq source ke roop me rejected.)',
+    },
+  ],
+
+// Research summary (2026-10-13): 8 web searches (Hindi + English) chalai gayi;
+// 1 article khola aur poora padha gaya (bharatvarshsamachardigital.com/archives/12990).
+// REJECTED (15 sources/items):
+// - Jagran 06 Nov 2025: 6 sadkon ka prastav (Rs 402 lakh) — sirf proposal/maang.
+// - Amar Ujala 11 Mar 2024: PM Gram Sadak Yojana sadkon ka PM dwara virtual lokarpan (Rs 42.89 cr) — MLA sirf upasthit.
+// - Bhaskar: Ram Mandir me moorti sthapana karyakram, Munir Nagar — dharmik karyakram me yajman/upasthiti, weak attribution.
+// - Bhaskar: pradhanon ki MLA se mulakat (tenure extension par dhanyavaad) — karyakram.
+// - Bhaskar: Mahamaya Polytechnic dikshant samaroh — mukhya atithi ke roop me upasthiti.
+// - Bhaskar (dainik.bhaskar.com): Nyauli-Shahbajpur road quality story — MLA ne khud kaha unki koi bhumika nahi (jila panchayat nidhi).
+// - public.app x2 (Jamalpur RCC + Jarai cricket tournament) — public.app task rules me rejected; cricket event vaise bhi development work nahi.
+// - bharatvarshsamachardigital: Gandhi Jayanti par Isepur primary school me shramdaan — event participation, kaam nahi.
+// - livehindustan: Estimates Committee me punah manonayan — political appointment, development work nahi.
+// - citynewsuttarpradesh: Om Mani Verma (Naraini, Banda) — galat vyakti.
+// - livehindustan Bulandshahr: Amipur me Lakshmiraj Singh ka shilanyas — galat vyakti/jila.
+// - jantaserishta: Adampur (Haryana) Congress MLA — galat vyakti/rajya.
+// - YouTube-only x2 (UKM News; India News UP MLA Report Card) — task rules me rejected.
+// - thedastak24: Sampurnata Abhiyan karyakram ka shubharambh — event, weak attribution.
+// - English results: CM Yogi dwara Kasganj me Rs 724 cr pariyojanaon ka shilanyas/lokarpan — CM-level, MLA ko individually attributable nahi.
+  'nadira-sultan': [
+    {
+      title: 'Myasur (Ganjdundwara) me masjid ke paas street light lagwayi',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kasganj/myasur/news/in-kasganj-the-mla-installed-streetlights-near-the-mosque-136664724.html',
+      date: '2026-02-01',
+      note: 'status: completed (Kasganj: block Ganjdundwara, tehsil Patiyali, gram panchayat Myasur; Kureshi mohalle me masjid ke paas street light sthapit, sthaniya nivasion ke anurodh par). Date page ke relative "8 mahine pehle" se (est.).',
+    },
+    {
+      title: 'Nawabganj Nagariya me agnikand peediton ko rahat samagri baanti, 200m interlock sadak ki ghoshna',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/kasganj/ganjdundwara/news/vidhayak-nadira-sultan-visits-fire-victims-ganjdundwara-announcement-137752862.html',
+      date: '2026-07-01',
+      note: 'status: ghoshna (vidhayak nidhi se ~200m interlock sadak ke nirman ki ghoshna — ye ghoshna hai, nirman completed verify nahi; agnikand peedit 5 parivaron ko aata-chawal-dal-tel-rahat samagri vitran completed; eent-bhatta mazdooro ke pakke aawas ka sirf aashwasan). Date page ke relative "3 mahine pehle" se (est.).',
+    },
+  ],
+  // ---- Summary: 6 web searches + 2 poori articles kholi/verify ki. 2 entries accepted (dono Dainik Bhaskar, Kasganj district verify). Reject: (1) Hindustan science-model exhibition story — sirf event me chief-guest upasthiti (weak attribution); (2) Hindustan Ahilyabai Holkar samaroh story — sirf samajik sammelan me upasthiti/aashwasan; (3) Bhaskar SP SIR camp story — party event, koi kaam nahi; (4) public.app ke 3 items — aggregator, task ne reject karne ko kaha; (5) YouTube land-dispute video (YNews) — kaam nahi, YouTube-only; (6) Wikipedia/OneIndia/onefivenine/indialeader/ugara — bio/election data, kaam nahi; (7) abplive caste-analysis — analysis, kaam nahi. Dono accepted entries me zila Kasganj confirm (block Ganjdundwara, tehsil Patiyali) — Patiyali naam ki koi aur jagah nahi. Date dono me Bhaskar ka exact publish date nahi dikha, isliye relative dates se (est.).
+
 };
