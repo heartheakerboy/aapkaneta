@@ -471,3 +471,322 @@ mpWorks['brajendra-singh-yadav'] = [
 // par text source me nahi mila — vah Mohan Yadav sarkar me mantri nahi hain, isliye news visibility kam hai. Ek hi qualifying
 // entry rakhi hai: FPJ + Nai Duniya dono se verify hua 80+ shramikon ka safal hastakshep (25-26 Dec 2025). Khali profile se behtar
 // hai kyunki attribution mazboot hai, weak nahi.
+
+// ---- Balaghat district batch (researched 2026-10-13) ----
+// Balaghat district batch 1 — Sanjay Uikey (Baihar ST, INC) + Rajkumar Karrahe (Lanji, BJP)
+// Researched 2026-10-14. Fragment — DO NOT export; coordinator appends to src/data/works_mp.ts
+// Tenure check: dono Dec 2023 me chune gaye — saari entries Dec 2023 ke baad ki hain. period: '2023-2028'.
+
+mpWorks['sanjay-uikey'] = [
+  {
+    title: 'Baihar me lagbhag 2 dozen naye anganwadi bhavanon (pratyek 11.22 lakh) ki swikriti — vidhayak ki pehal se',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, Mar 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/351609/',
+    date: '2026-03',
+    note: 'SeeTimes ke mutabik Baihar vidhansabha me rajya ayojana mad se lagbhag 2 dozen naveen anganwadi bhavanon (pratyek 11.22 lakh) ki swikriti vidhayak Sanjay Uikey ke lagatar aur prabhavi prayason se mili; report ke anusar kshetra me anganwadi bhavanon ki kami/jarjjar sthiti ko vidhayak ne shasan star par uthaya tha. Status: swikriti — nirman shuru/purnata ki alag khabar nahi mili. Caveat: (1) article par print tithi nahi thi; search-engine last-updated ke aadhar par Mar 2026 (est.) maani hai. (2) Single local outlet; swikriti ka attribution report par aadharit hai, swatantra roop se verify nahi hui. (3) Nidhi rajya yojna mad ki hai, vidhayak-nidhi ki nahi — credit-pardarshita.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rajkumar-karrahe'] = [
+  {
+    title: 'Kirnapur me janpad panchayat parisar ke paas Shiv mandir me 3 lakh ke sabha-manch ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dakshinapath, 1 May 2025',
+    sourceUrl: 'https://dakshinapath.com/news/45693/33',
+    date: '2025-05-01',
+    note: 'Kirnapur (Lanji-Kirnapur kshetra) me 1 May 2025 ko vidhayak Rajkumar Karrahe ne janpad panchayat parisar ke samip sthit Shiv mandir me 3 lakh ki swikrit rashi se sabha-manch nirman ka bhoomi-pujan kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kirnapur ke New Gujari Chowk me 25 lakh ke samudayik bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dakshinapath, 1 May 2025',
+    sourceUrl: 'https://dakshinapath.com/news/45693/33',
+    date: '2025-05-01',
+    note: 'Usi karyakram me vidhayak ne Kirnapur ke New Gujari Chowk me 25 lakh ki swikrit rashi se samudayik bhavan nirman ka bhoomi-pujan kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kirnapur me 18.25 lakh ke shaskiya basic school bhavan ka bhoomi-pujan (Sarva Shiksha Abhiyan)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dakshinapath, 1 May 2025',
+    sourceUrl: 'https://dakshinapath.com/news/45693/33',
+    date: '2025-05-01',
+    note: 'Usi karyakram me vidhayak ne Sarva Shiksha Abhiyan ke tahat swikrit 18.25 lakh ki lagat se shaskiya basic school ke naveen bhavan nirman ka bhoomi-pujan kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rajegaon-Kirnapur-Lanji-Aamgaon 57.40 km marg ko four-lane highway banane ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Tathya Wani, 8 Aug 2026',
+    sourceUrl: 'https://tathyawani.com/major-boost-for-lanji-kirnapur-thanks-to-mla-rajkumar-karrahes-efforts-57-km-road-to-be-widened-to-four-lanes/',
+    date: '2026-08-08',
+    note: 'Tathya Wani ke mutabik vidhayak Rajkumar Karrahe ke prayason ke baad Rajegaon-Kirnapur-Lanji-Aamgaon marg (lagbhag 57.40 km) ko four-lane highway ke roop me vikasit karne ki swikriti mil gayi hai; report me ise kshetr ki sadak suvidhaon ke liye mahatvapurn kadam bataya gaya hai. Status: swikriti — article ke anusar ab nirman shuru hone ka intezar tha; karyanwayan ki alag khabar nahi mili. Caveat: (1) Single local outlet; swikriti me vidhayak ki bhoomika report par aadharit hai (state/budget-level yojna, unka role "prayas" ke roop me). (2) Swikriti ki ghoshna budget-pariprekshya me hui hai — tender/karyanwayan pending.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Umri (Lanji) me vidhayak-nidhi aur anya yojnaon ke karib 2.24 crore ke vikas karyon ke bhoomi-pujan ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bahujan Sangathak, 9 Dec (est. 2025)',
+    sourceUrl: 'https://www.bahujansangathak.com/news/post-1252.html',
+    date: '2025-12',
+    note: 'Bahujan Sangathak ke mutabik gram panchayat Umri (Janpad Panchayat Lanji) me 9 December ko vidhayak Rajkumar Karrahe ke hastse kai vikas karyon ka bhoomi-pujan hona tha: (1) PM Khanij Kshetra Kalyan Yojana se Surendra Patle ke ghar se mokshadham tak 300 meter CC road — 10.5 lakh; (2) vidhayak-nidhi se toran dwar — 3.5 lakh; (3) PM Gram Sadak Yojana se Umri se Bori marg — 2,02,12,000; (4) 15ve vitta (janpad-star untied mad) se shaskiya prathmik-sah-madhyamik shala Umri me boundary wall — 6 lakh; (5) vidhayak-nidhi se Vitthal Rukhmai mandir ke paas sabha manch — 2 lakh. Status: ghoshna — article preview style me likha tha ("aaj ... kiya jana hai"), yaani karyakram se pehle ki report; bhoomi-pujan sampann hone ya karyon ke karyanwayan ki alag khabar nahi mili. Caveat: article me saal nahi likha tha (sirf "9 December"); publish/crawl timing ke aadhar par Dec 2025 (est.) maana hai — tenure (2023-2028) ke andar.',
+    period: '2023-2028',
+  },
+];
+// Balaghat district batch 2 — Madhu Bhau Bhagat (Paraswada AC-110, INC) + Anubha Munjare (Balaghat AC-111, INC)
+// Researched 2026-10-14. Tenure: Dec 2023– (current MLAs, opposition in BJP govt).
+// DO NOT export; appended to works_mp.ts by coordinator.
+// Fragment me koi export declaration nahi rakhi hai (instructions ke anusar).
+
+// ---- Anubha Munjare — Balaghat (AC-111), INC, Balaghat district ----
+mpWorks['anubha-munjare'] = [
+  {
+    title: 'Pathari laghu jalashay ki naharon ke sudridhikaran evam lining ko lagbhag 2.70 crore ki punarikshit prashasanik swikriti (Khamaria block, 30+ gaon)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 7 Oct 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/390213/',
+    date: '2026-10-07',
+    note: 'Balaghat vidhan sabha kshetra ke Pathari laghu jalashay ki naharon ke sudridhikaran/lining karya (lagbhag Rs. 2.70 crore) ko punarikshit prashasanik swikriti mili; report ke mutabik isse Khamaria block ke 30 se adhik gramon ke kisanon ko sinchai-labh ki ummeed hai. Vidhayak ki concrete bhoomika: unhone ye vishay lagatar CM Mohan Yadav aur jal sansadhan vibhag ke apar mukhya sachiv ke samaksh uthaya aur vidhan sabha me bhi Pathari jalashay ki naharon ki sthiti ka mudda uthaya (vidhan sabha abhilekh me Rs. 270.37 lakh ka prastav RRR mad ke antargat). Swikriti par unhone CM Mohan Yadav aur jal sansadhan mantri Tulsiram Silawat ka aabhar vyakt kiya. Credit-pardarshita: swikriti ka faisla madhya pradesh shasan ka hai; vidhayak ki bhoomika satat maang/anushansa ki rahi. Status: swikriti — report ke mutabik nivida aur anya vibhagiya prakriyaen us samay baki thin; nirman prarambh ki alag khabar nahi mili. Caveat: article par print tithi nahi thi; search-index ("7 din pehle") se 7 Oct 2026 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Balaghat-Lalbarra kshetra me 12 naveen anganwadi bhavanon ki swikriti (pratyek 11.22 lakh, kul lagbhag 1.35 crore)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, Mar 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/351415/',
+    date: '2026-03',
+    note: '17 Dec 2025 ke vidhan sabha vishesh satra me bhavan-vihin anganwadi kendron ka mudda uthane, mahila-bal vikas mantri Nirmala Bhuria ko patra/mang-patra bhejne aur Bhopal me unse pratyaksh bhet kar maang rakhne ke baad Balaghat vidhan sabha kshetra me 12 naveen anganwadi bhavanon ki swikriti mili — pratyek Rs. 11.22 lakh, kul Rs. 1,34,64,000. Sthan: gram panchayat Bharveli (kendra 04, kendra 07), gram panchayat Bagholi (kendra 03), gram Ranikuthar mini, gram Chandrapuri ke Sarjatola, Rategaon ke Awastola, Balaghat nagarpalika kshetra ward 08 (kendra 21), Prem Nagar (kendra 80), kendra 54, Budhi (kendra 32), Itwariganj (kendra 41), Saraswati Nagar (kendra 62). Category School: anganwadi pre-school shiksha + poshan kendra hai (mahila-bal vikas vibhag). Credit-pardarshita: pradesh ke 2532 anganwadi bhavanon ki statewide swikriti mantri Nirmala Bhuria ne di; vidhayak ki concrete bhoomika sadan me dhyan-akarshan + patra + mantri se pratyaksh bhet rahi, jiske baad unke kshetra ko ye 12 bhavan mile. Status: swikriti — nirman us samay shuru hona baki tha. Caveat: article par print tithi nahi thi; search-index (198 din pehle) se Mar 2026 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram panchayat Pandarwani Lalbarra me main road se Visarjan Ghat tak cement sadak (7.50 lakh) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, Mar 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/350903/',
+    date: '2026-03',
+    note: 'Vidhayak ki anushansa par gaun khanij fund (minor mineral fund) se gram panchayat Pandarwani Lalbarra ko Rs. 7.50 lakh ki lagat se cement sadak ki swikriti mili thi; main road se Visarjan Ghat tak ki is sadak ka bhoomi-pujan pichhli Shardiya Navratri (Oct 2025, isi tenure me) me vidhayak ne kiya tha aur lokarpan is Chaitra Navratri me vidhayak ne kiya. Maa Satbahini mandir samiti Lalbarra aur grameenon ki maang par ye karya hua; report ke mutabik visarjan ghat me Janmashtami, Phulera, Ganesh utsav, Navratri, Durga utsav aadi parvon me bhari bheed aati hai, pakki sadak se barish me bhi dikkat nahi hogi. Status: lokarpan (nirman purn, janata ko samarpit). Note: bhoomi-pujan ki swatantra khabar nahi mili — ye jankari isi article ke hawale se di gayi hai. Caveat: article par print tithi nahi thi; search-index (200 din pehle) + Chaitra Navratri 2026 ke aadhar par Mar 2026 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pandarwani Lalbarra ke Sindhi Mohalla ward 10 me CC sadak aur CC nali nirman (15th Finance Commission) ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nayak Darpan, 24 Jan 2026',
+    sourceUrl: 'https://www.nayakdarpan.com/news-details.php?id=88',
+    date: '2026-01-24',
+    note: 'Lalbarra nagar mukhyalay ki gram panchayat Pandarwani Lalbarra ke Sindhi Mohalla ward 10 me cement-concrete sadak aur cement-concrete nali nirman karyon ka bhoomi-pujan vidhayak ne kiya; sarpanch Anees Khan ke mutabik ye karya 15th Finance Commission mad se swikrit hain. Usi karyakram me 18 hitgrahiyon ko antyeshti sahayata ke tahat 5-5 hazar rupaye (kul Rs. 90,000) diye gaye aur panchayat ki sabhi 7 anganbadiyon ko samagri (weighing machine, kursi, table, parda, gilaf, almari, BP machine sahit) vitrit ki gayi. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+];
+// ---- Madhu Bhau Bhagat — Paraswada (AC-110), INC, Balaghat district ----
+// Dec 2023 me chune gaye (INC, vipakshi vidhayak). Hindi + English me 10+ targeted
+// searches (Dec 2023–2026; naam ki vartaniyan: Madhu Bhagat/Madhu Bhau Bhagat/मधु भगत/मधु भाऊ भगत)
+// ke baad bhi unke naam par koi news-verified vikas-kaam (swikriti/bhoomi-pujan/lokarpan/shilanyas/ghoshna)
+// text source me nahi mila. Jo mila wo sab andolan/maang/nirikshan, tenure se pehle ka, ya
+// YouTube-only/public.app-only tha (reject log neeche). Khali profile weak attribution se behtar.
+mpWorks['madhu-bhau-bhagat'] = [];
+
+// ==================== RESEARCH REPORT (Balaghat district batch 2, 2026-10-14) ====================
+//
+// ANUBHA MUNJARE (Balaghat AC-111, INC) — 4 entries qualified.
+// Har source browser.open se khola-padhha gaya. Sources:
+// - seetimes.in/390213/ (Pathari jalashay, est. 7 Oct 2026) — sanction entry (Paani).
+// - seetimes.in/351415/ (12 anganwadi bhavan, est. Mar 2026) — sanction entry (School).
+// - seetimes.in/350903/ (Visarjan Ghat sadak, est. Mar 2026) — lokarpan entry (Sadak).
+// - nayakdarpan.com/news-details.php?id=88 (24 Jan 2026, print tithi) — bhoomi-pujan entry (Sadak).
+// REJECTED (6):
+// 1. public.app video (Sep 2025) — nagar palika ward 2 me sadakon ka bhoomi-pujan/lokarpan — public.app-ONLY, text corroboration nahi mila. Reject.
+// 2. public.app video (Sep 2025) — gram Bagholi me vidhayak-nidhi + 15th FC karyon ka lokarpan/bhoomi-pujan (1 Sep) — public.app-ONLY, corroboration nahi. Reject.
+// 3. mpbreakingnews.in (Oct 2026) — overbridge nirman se jam par vidhayak mauke par pahunchin, adhikariyon ko diversion durust karne ke nirdesh — sirf daura/nirdesh, kaam nahi. Reject.
+// 4. emsindia.com (4 May 2026) — Devi Talab me Congress ka shramdaan/safai (Jal Ganga Samvardhan Abhiyan) — prateekatmak andolan/shramdaan, kaam nahi. Reject.
+// 5. malhaarmedia.com — "pehli baar ki vidhayak ki prathmiktaen" interview (Jan 2024) — background/priority bayan, koi kaam nahi. Reject.
+// 6. Bhaskar English — Waraseoni railway overbridge inauguration row — ye Vivek Patel (Waraseoni MLA) ka maamla hai; Munjare ka koi sambandh nahi. Reject.
+//
+// MADHU BHAU BHAGAT (Paraswada AC-110, INC) — 0 entries. Profile khaali.
+// REJECTED (9):
+// 1. nayakdarpan.com/news-details.php?id=82 (Jan 2026) — Bhikewada samudayik bhavan adhura: 2018 ka bhoomi-pujan (pichhle tenure ka) aaj tak apurn — TENURE FAIL + ye kaam nahi, alochanatmak opinion piece. Negative entry ke bar (credible reporting + allegation/case status) ko poora nahi karta. Reject.
+// 2. thetribalpost.com/2025/09 (Sep 2025) — Paraswada ke adivasi gaon (Shailla/Malkhedi) me sadak nahi bani — alochanatmak lekh; koi kaam report nahi hua. Reject (sirf aalochna, kaam nahi).
+// 3. YouTube (BGT khabar) — Paraswada aspataal me bhrashtachar par nirikshan/bayan — YouTube-ONLY + sirf nirikshan/daura. Reject.
+// 4. YouTube (halchal news) — barish me tooti puliya ka nirikshan — YouTube-ONLY + sirf nirikshan. Reject.
+// 5. YouTube (supreme power news) — Ghusitola me sadak samasya, rajaswa amle ne seemankan kiya — YouTube-ONLY; seemankan prashasanik kadam hai, kaam nahi. Reject.
+// 6. public.app (Apr 2026) — Bagdara me 47 lakh ke samudayik bhavan ka bhoomi-pujan: Madhu Bhagat sirf atithi-soochi me (Jalamsingh Patel, Sarvjeet Singh Lodhi, Bharti Pardhi, Rajkumar Karrahe sahit kai janpratinidhi) — weak attribution + public.app-ONLY. Reject.
+// 7. Zee News Hindi (24 Dec 2024) — avaidh sharab par andolan ki chetavani — andolan/chetavani hai, kaam nahi. Reject.
+// 8. ETV Bharat (23 Jan 2026) — PM Janman yojna ki Paraswada wali sadak (Mar 2024) par pul nahi bana — kendra yojna ka kaam; neta se koi attribution nahi. Reject.
+// 9. MP Vidhan Sabha zero-hour suchi (2026) — Karnapur me naveen udyog hetu vidyut substation na shuru hone ka mudda — sadan me dhyan-akarshan, kaam nahi. Reject.
+// FB/IG self-posted daawe: koi news-reported dawa layak claim nahi mila; koi 'dawa' entry nahi banayi.
+// Note: dono neta BJP sarkar me vipakshi (INC) vidhayak hain; vipakshi vidhayakon ke vikas-karyon ki
+// text-news coverage aam taur par kam hoti hai — isliye Bhagat ki profile khaali chhodi gayi hai.
+// Balaghat district batch 3 — Vivek Vicky Patel (Waraseoni AC-112, INC) + Gaurav Singh Pardhi (Katangi AC-113, BJP)
+// Researched 2026-10-14. Tenure: Dec 2023– (current MLAs; Patel opposition, Pardhi BJP/ruling side).
+// DO NOT export; appended to works_mp.ts by coordinator.
+// Fragment me `export const` line nahi rakhi hai (instructions ke anusar).
+
+// ---- Vivek Vicky Patel — Waraseoni (AC-112), INC, Balaghat district ----
+mpWorks['vivek-vicky-patel'] = [
+  {
+    title: 'Kochwahi me Rs. 1.17 crore ki lagat se bane naveen high school bhavan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 3 Feb 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/343654/',
+    date: '2026-02-03',
+    note: 'Waraseoni kshetra ke gram panchayat Kochwahi me Rs. 1.17 crore ki lagat se bane naveen high school bhavan ka lokarpan unhone kiya; bhavan me aadhunik kakshaen, library, karyalaya kaksh, prayogshala aadi suvidhaen uplabdh hain. Status: lokarpan (bhavan taiyar, janata ko samarpit). Caveat: khabar press-release style me aayi hai; purnata ka alag satyapan nahi mila.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak-nidhi se Waraseoni ke 8 aur Khairlanji ke 12 gram panchayaton ko fire-fighter paani tanker ki saugaat',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 10 Feb 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/344757/',
+    date: '2026-02-10',
+    note: 'Unhone apni vidhayak-nidhi se Waraseoni janpad panchayat kshetra ki 8 aur Khairlanji janpad panchayat kshetra ki 12 gram panchayaton ko fire-fighter paani tanker pradhan kiye; tanker sarpanchon ki upasthiti me supurd kiye gaye. Report ke mutabik pichle varsh bhi unhone 10 se adhik gram panchayaton ko aise tanker uplabdh karaye the. Status: vitran purn (nidhi se kharid, panchayaton ko saunpe gaye).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Arambha me 7 lakh ke sabhamanch aur Hanuman mandir parisar me cementikaran ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 22 Dec 2025 (est.)',
+    sourceUrl: 'https://seetimes.in/339920/',
+    date: '2025-12-22',
+    note: 'Gram panchayat Arambha me 7 lakh ki lagat se banne wale sabhamanch aur Hanuman mandir parisar me cementikaran ka bhoomi-pujan unhone kiya; report ke mutabik ye varsh 2025-26 ki vidhayak-nidhi se hone wale karyon me shamil hain. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Rengajhari me 8 lakh ki CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 22 Dec 2025 (est.)',
+    sourceUrl: 'https://seetimes.in/339920/',
+    date: '2025-12-22',
+    note: 'Usi karyakram me gram Rengajhari me 8 lakh ki lagat se banne wali CC sadak ka bhoomi-pujan bhi unhone kiya (vidhayak-nidhi 2025-26). Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pipariya me 15 lakh ke samudayik bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 7 Jul 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/373812/',
+    date: '2026-07-07',
+    note: 'Janpad panchayat kshetra ki gram panchayat Pipariya me 15 lakh ki lagat se bane samudayik bhavan ka lokarpan unhone kiya; karyakram Gondwana circle ke tatvadhhan me Bhagwan Birsa Munda ki pratima ke lokarpan ke saath aayojit hua tha. Status: lokarpan (bhavan taiyar, janata ko samarpit). Caveat: khabar press-release style me aayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ghoghariya ghat se Enkatola ke madhya 8 lakh ki pipe puliya ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 7 Jul 2026 (est.)',
+    sourceUrl: 'https://seetimes.in/373812/',
+    date: '2026-07-07',
+    note: 'Usi karyakram me Ghoghariya ghat se Enkatola ke madhya 8 lakh ki lagat se bani pipe puliya ka lokarpan bhi unhone kiya. Status: lokarpan (puliya taiyar, janata ko samarpit).',
+    period: '2023-2028',
+  },
+];
+
+// ---- Gaurav Singh Pardhi — Katangi (AC-113), BJP, Balaghat district ----
+mpWorks['gaurav-singh-pardhi'] = [
+  {
+    title: 'Sirpur me 500 MT kshamta ke godam (lagat Rs. 52.32 lakh) ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mooknayak News, May 2026 (est.)',
+    sourceUrl: 'https://www.mooknayaknews.com/2026/05/%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A4%A8%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/',
+    date: '2026-05',
+    note: 'Katangi kshetra ke gram Sirpur me kisanon ko behtar bhandaran suvidha ke liye 500 metric ton kshamta wale godam (lagat Rs. 52.32 lakh) ke nirman ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: khabar press-release style me aayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sirpur me 11.11 lakh ki CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Mooknayak News, May 2026 (est.)',
+    sourceUrl: 'https://www.mooknayaknews.com/2026/05/%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A4%A8%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/',
+    date: '2026-05',
+    note: 'Usi karyakram me gram Sirpur me 11.11 lakh ki lagat se banne wali CC sadak ka bhoomi-pujan bhi unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sirpur me zila panchayat sadasya mad se bane samudayik kaksh (lagat Rs. 2 lakh) ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mooknayak News, May 2026 (est.)',
+    sourceUrl: 'https://www.mooknayaknews.com/2026/05/%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A4%A8%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/',
+    date: '2026-05',
+    note: 'Zila panchayat sadasya mad se nirmit Rs. 2 lakh lagat ke samudayik kaksh ka lokarpan unhone kiya. Status: lokarpan (kaksh taiyar, janata ko samarpit). Credit-pardarshita: swikriti/nidhi zila panchayat sadasya mad ki thi; unki bhoomika lokarpan-karta ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Banera me rajya vitt aayog mad se 12 lakh ki CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Mooknayak News, May 2026 (est.)',
+    sourceUrl: 'https://www.mooknayaknews.com/2026/05/%E0%A4%B8%E0%A4%BF%E0%A4%B0%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%94%E0%A4%B0-%E0%A4%AC%E0%A4%A8%E0%A5%87%E0%A4%B0%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8/',
+    date: '2026-05',
+    note: 'Gram Banera me rajya vitt aayog mad se lagbhag 12 lakh ki lagat se banne wali CC sadak ke nirman ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Hathoda me Paraswara–Sanvargaon–Hathoda marg (5.30 km, lagat Rs. 415 lakh) ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Mooknayak News, May 2026 (est.)',
+    sourceUrl: 'https://www.mooknayaknews.com/2026/05/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%95%E0%A5%80-%E0%A4%B0%E0%A4%AB%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0-%E0%A4%A4%E0%A5%87%E0%A4%9C-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF/',
+    date: '2026-05',
+    note: 'Gram Hathoda me lok nirman vibhag dwara swikrit Paraswara–Sanvargaon–Hathoda marg (lambai 5.30 km, lagat lagbhag Rs. 415 lakh) ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: article body me unhe mukhya atithi ke roop me bataya gaya hai jabki headline bhoomi-pujan unke dwara batati hai — press-release style khabar hai. Credit-pardarshita: sadak PWD-swrikrit pariyojna hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Mohgaon me CC sadak ka bhoomi-pujan (11 Apr 2026)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 11 Apr 2026',
+    sourceUrl: 'https://seetimes.in/354720/',
+    date: '2026-04-11',
+    note: '11 April 2026 ko unhone gram panchayat Mohgaon me CC sadak nirman karya ki aadhaarshila rakhi/bhoomi-pujan kiya; report me lagat ka ullekh nahi hai. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: khabar press-release style me aayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Nandi me CC sadak aur nali nirman ka bhoomi-pujan (11 Apr 2026)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 11 Apr 2026',
+    sourceUrl: 'https://seetimes.in/354720/',
+    date: '2026-04-11',
+    note: 'Usi din unhone gram panchayat Nandi me CC sadak ke saath vyavasthit nali nirman karya ka bhoomi-pujan kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Paraswaraghat me CC sadak ka bhoomi-pujan (11 Apr 2026)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 11 Apr 2026',
+    sourceUrl: 'https://seetimes.in/354720/',
+    date: '2026-04-11',
+    note: 'Usi din unhone gram panchayat Paraswaraghat me CC sadak nirman karya ka bhoomi-pujan kiya. Status: bhoomi-pujan. Caveat: Naidunia (13 Jul 2026) ne isi gaon ki rajya vitt aayog mad se 11.99 lakh lagat ki CC sadak me nirman ke 3 din baad gaddhe padne aur ghatiya samagri ke aarop ki khabar chhapi; aarop thekedaar/panchayat par tha, vidhayak par nahi — thekedaar ne safai di, grameenon ne collector se jaanch ki maang ki. Ye entry sirf bhoomi-pujan ki hai; nirman-gunvatta se vidhayak ka seedha sambandh report me nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak-nidhi se Nagar Parishad Katangi ko tractor evam trolley pradhan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'National Press Times, 17 Oct 2025',
+    sourceUrl: 'https://nationalpresstimes.com/2025/10/17/mla-gaurav-pardhi-provided-tractor-and-trolley-to-katangi-municipal-council/',
+    date: '2025-10-17',
+    note: 'Unhone apni vidhayak-nidhi se Nagar Parishad Katangi ko ek tractor evam trolley pradhan kiye; sankshipt poojan karyakram ke baad nagar parishad ko saunpe gaye. Report ke mutabik inka upyog nagar me chal rahe nirman/vikas karyon me hoga. Status: hastantaran purn (nidhi se kharid, parishad ko saunpe gaye).',
+    period: '2023-2028',
+  },
+];
