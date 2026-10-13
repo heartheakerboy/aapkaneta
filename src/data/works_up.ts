@@ -9678,4 +9678,203 @@ export const upWorks: Record<string, Work[]> = {
   },
 ],
 
+
+  // ---- Basti district batch (researched 2026-10-13) ----
+// Basti district batch 1 (researched 2026-10-13) — Harraiya + Kaptanganj MLAs.
+  // RESEARCH TRAIL (ajay-singh-up — Harraiya AC-307, BJP):
+  // Identity: basti.nic.in (UP govt official) lists 307-Harraiya = Shri Ajay Kumar Singh, BJP;
+  // myneta.info/UttarPradesh2022 candidate_id=4171; elected March 2022, no by-election found.
+  // Searched (Hindi + English): udhghatan/shilanyas/vidhayak nidhi sadak-paani-school-aspatal news 2022-2026.
+  // ACCEPTED: (1) Amar Ujala 27 Apr 2025 — Shringinari-Swaminarayan Chhapia marg chaudikaran-sudridhikaran shilanyas,
+  // ₹1765.96 lakh; article opened and read, claim verified. (2) TheViralLines 22 Mar 2025 — Khamhariya Sujat-Mirzapur-Ubhai
+  // Bandha sadak shilanyas, ₹1831.91 lakh; article opened and read (exact date on page: 22 Mar 2025); same story on
+  // anuraglakshya.in — small Basti local portals, disclosed in note. (3) AajTak 6 May 2025 — Ashokpur-Bhuariya marg me
+  // BJP karyakartaon ke commission-khori aarop + vidhayak ka FB live khandan; negative entry, credible source, allegation
+  // aur rebuttal dono explicit; koi case/janch nahi mili.
+  // REJECTED: MNT News Bharat Sauri gaon works (RCC sadak/antyeshti sthal/interlocking udghatan) — fetch failed, khola nahi
+  // ja saka, verify nahi hua; Bhaskar skill-development camp udghatan (Feb 2026) — asthayi shivir, sthayi karya nahi;
+  // public.app 100-bed mahila hospital nirikshan — public.app-only + sirf nirikshan; khaskhabar Atal Awasiya waterlogging —
+  // vidhayak ki bhoomika nahi; Amar Ujala victim-family visit — sirf mulakat; bansalnews/patrika Leela Sahu MP road —
+  // galat vyakti (Churhat, MP ke Congress vidhayak Ajay Singh); TVL article ke andar Atal Awasiya Vidyalaya/Polytechnic ke
+  // vague future claims — specifics nahi.
+  'ajay-singh-up': [
+    {
+      title: 'Shringinari se Swaminarayan Chhapia marg ke chaudikaran-sudridhikaran ka shilanyas (₹17.66 cr)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 27 Apr 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/basti/mla-laid-the-foundation-stone-of-the-road-basti-news-c-207-1-sgkp1006-135577-2025-04-27',
+      date: '2025-04-27',
+      note: 'Harraiya vidhansabha kshetra me Shringinari se Swaminarayan Chhapia tak marg ke chaudikaran aur sudridhikaran karya ka vidhi-vidhan se shilanyas. Kul lagat ₹1765.96 lakh (lagbhag ₹17.66 crore); marg Shringinari, Baijalpur, Dhuniyabhiti, Bichhnaiya, Jagannathpur, Kadsara Bilari Bhiti, Narayanpur hote hue jayega. Status: shilanyas — swikrit karya ka karyarambh; purnata ki alag khabar nahi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Khamhariya Sujat-Mirzapur-Ubhai Bandha sadak ka shilanyas (₹18.32 cr)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'TheViralLines (Basti local portal), 22 Mar 2025',
+      sourceUrl: 'https://www.thevirallines.net/basti-news-mla-ajay-singh-laid-the-foundation-stone-of-the-road',
+      date: '2025-03-22',
+      note: 'Khamhariya Sujat gaon (Amar Shaheed Kodai Singh Smriti Dwar) me ₹1831.91 lakh (lagbhag ₹18.32 crore) ki lagat se Khamhariya Sujat se Ambedkar Gram Mirzapur hote hue Ubhai Bandhe tak sadak ka shilanyas. Status: shilanyas — karya shuru; purnata ki khabar nahi mili. Source note: TheViralLines Basti ka chhota sthaniya portal hai (Amar Ujala/Hindustan ne is khabar ko cover nahi kiya); wahi khabar anuraglakshya.in par bhi mili.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ashokpur-Bhuariya sampark marg me commission ke aarop — vidhayak ne FB live me khandan kiya',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'AajTak, 6 May 2025',
+      sourceUrl: 'https://www.aajtak.in/uttar-pradesh/story/basti-bjp-mla-ajay-singh-furious-over-allegations-of-commission-scolded-his-own-workers-know-whole-matter-lclam-strc-2233741-2025-05-06',
+      date: '2025-05-06',
+      note: 'Dubauliya block ke Ashokpur se Bhuariya tak sampark marg (PWD dwara vidhayak ke prayas se nirmanadheen) me BJP karyakartaon — mandal adhyaksh Sunil Singh, varishth neta Devendra Singh, karyakarta Veeru Singh — ne commission-khori aur gunvatta se samjhaute ke aarop lagaye. Vidhayak Ajay Singh ne Facebook live me aaropon ka khandan kiya, swayam thekedaar Pappu Ojha ke saath site par pahunche aur gunvatta ki kamiyon ko theek karane ki baat kahi. Status: aarop vs inkar — koi case ya janch ki khabar nahi mili; dono pakshon ke bayaan AajTak ne report kiye.',
+      period: '2022-2027',
+    },
+  ],
+  // RESEARCH TRAIL (kavindra-chaudhary — Kaptanganj AC-308, SP):
+  // Identity: basti.nic.in (UP govt official) lists 308-Kaptanganj = Shri Kavindra Chaudhary urf Atul Chaudhary, SP;
+  // myneta.info/UttarPradesh2022 candidate_id=4183; India TV: won March 2022 with 94,273 votes, margin 24,179 over BJP
+  // Chandra Prakash Shukla; polling 3 Mar 2022 (phase 6); no by-election found.
+  // Searched (Hindi + English): udhghatan/shilanyas/vidhayak nidhi sadak-pul-paani-school news 2022-2026.
+  // ACCEPTED: Dainik Bhaskar interview (~Mar 2025, opened and read) — "Aapke vidhayak ki baat" me vidhayak ka dawa ki
+  // janta ki maang ke anusar nidhi ka upyog sadak marammat aur smarak gate me kiya gaya. Badge dawa — news-reported
+  // interview claim hai; lekin sthan, rashi, tithi article me nahi di gayi, isliye swatantra pushti sambhav nahi
+  // (note me disclosed).
+  // REJECTED: YouTube PDA sammelan / podcast / SBI branch udghatan (sahil news 24) — YouTube-only; Hindustan bird
+  // festival (Feb 2026) — sirf event me mukhya atithi; tarunmitra foot march — political event; Hindustan Ashoka pillar
+  // demand letter — sirf maang/patra; vandebharatlivetvnews Belwariya-Majha Manpur road shikayat — shikayat hai, vidhayak
+  // ka karya nahi + chhota portal; MNT News Bharat March 2026 interview (Majha pul approach, Pakoliya-Shivaghat marg,
+  // Pandulghat pul claims) — fetch failed, khola nahi ja saka, chhota aggregator-style portal; Bhaskar cricket
+  // competition udghatan — sports event, sthayi karya nahi; bastitimes Kilkari hospital free camp (Nov 2023) — asthayi
+  // camp, sthayi karya nahi; MNT NEET felicitation — event + fetch fail. India TV election result sirf identity
+  // confirmation ke liye use hui.
+  'kavindra-chaudhary': [
+    {
+      title: 'Vidhayak nidhi se sadak marammat aur smarak gate ka dawa (sthan/rashi gair-nirdisht)',
+      category: 'Sadak',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Bhaskar, ~Mar 2025 (tithi anumanit)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/basti/news/your-mlas-talk-with-dainik-bhaskar-134664465.html',
+      date: '2025-03',
+      note: 'Dainik Bhaskar ke interview me Kaptanganj vidhayak Kavindra Chaudhary urf Atul ne dawa kiya ki janta ki maang ke anusar vidhayak nidhi ka upyog sadkon ki marammat aur smarak gate nirman me kiya gaya. Status: dawa — interview me kahe gaye shabdon ka dawa; kisi sadak ya gate ka sthan, rashi ya tithi article me nahi di gayi, isliye swatantra pushti sambhav nahi. Date page par nahi thi — "1 saal pehle" byline aur crawl se ~Mar 2025 anumanit.',
+      period: '2022-2027',
+    },
+  ],
+// Basti district batch — W2 (researched 2026-10-13). Append under upWorks in works_up.ts.
+
+  // RESEARCH TRAIL (rajendra-prasad-chaudhary — Rudhauli AC-309, SP): identity confirmed via uttarpradesh.org (current MLA Rudhauli 309, SP) + myneta candidate_id=4198; tenure 2022-2027, no bypoll. ACCEPTED: Amar Ujala 13-Jun-2023 — ward-prati 1 lakh MLA fund ghoshna (badge dawa, status ghoshna). REJECTED: Bhaskar Feb-2026 Dinbandhu Public School Mahadeva udghatan (private school ribbon-cut, MLA only attended with MP Ramprasad Chaudhary); Basti Dustak Mar-2026 Shivanand Jewellers Tenuar opening (private shop ribbon-cut); Anurag Lakshya Dec-2023 Vidhan Sabha demand for free SC/ST/OBC student travel (maang, not work); MNT News Bharat Aug-2026 80-ft tiranga (nagar panchayat work, MLA only chief guest; mandir room/hall sirf future promise); public.app + Newsbytes Aug-2026 students stopped convoy over muddy road (nirakshan/promise only, no work); Zee News Aug-2025 encounter enquiry demand to DIG (political demand, not development work). Identity traps avoided: Ramprasad Chaudhary (Basti MP, SP — alag vyakti), Ramchandra Yadav (Rudauli, Ayodhya — BJP MLA, alag seat), Ram Lalit Chaudhary (former Ramnagar/Rudhauli MLA, nidhan Sep 2026).
+  'rajendra-prasad-chaudhary': [
+    {
+      title: 'Rudhauli ke sabhi wardon me vikas karyon ke liye ward-prati 1 lakh ki ghoshna',
+      category: 'Any',
+      badge: 'dawa',
+      sourceLabel: 'Amar Ujala, 13 Jun 2023',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/basti/members-keep-telling-the-problems-of-the-ward-to-the-board-basti-news-c-7-1-204367-2023-06-13',
+      date: '2023-06-13',
+      note: 'Nagar panchayat Rudhauli ki pehli board baithak me vidhayak ne vidhayak nidhi se sabhi wardon me vikas karyon ke liye ek-ek lakh rupaye dene ki ghoshna ki. Status: GHOSHNA — fund allocation ki ghoshna matra; vitran ya karyon ke poora hone ki alag khabar nahi mili. Badge dawa hai kyonki ye vidhayak ka khud ka bayan hai (Amar Ujala ne board baithak se quote kiya hai, reporter ne swatantra verify nahi kiya).',
+      period: '2022-2027',
+    },
+  ],
+
+  // RESEARCH TRAIL (mahendra-nath-yadav — Basti Sadar AC-310, SP): identity confirmed via en.wikipedia (assumed office 10 May 2022, defeated BJP ke Dayaram Chaudhary) + myneta candidate_id=4213; tenure 2022-2027, no bypoll; SP jiladhyaksh Basti. ACCEPTED: BNT LIVE 28-Jul-2025 — Babu Shiv Dayal Chaurasia Smriti Dwar vidhayak nidhi se nirmit (completed, news; political controversy explicitly disclosed; chhota local portal disclose kiya). REJECTED: naradcharcha.in water cooler Mahakali mandir (funding article me unattributed, weak attribution; mukhya dwar sirf ghoshna tha); mediadustak.org 1-Apr-2025 Aakash coaching centre udghatan (private ribbon-cut); anuraglakshya.in Prakash Electricals shop opening (private ribbon-cut); Tarun Mitra/Hindustan/JantaKiAwaz Vidhan Sabha questions on education/health/roads (maang/sawal, not work); vandebharatlivetvnews Tinich 28-lakh invisible road ghotala (koi MLA named nahi, attribution nahi); dainik.bhaskar Mahtha barat-ghar boundary wall (pradhan ki private zameen ka kaam, dono MLA sirf aashvasan de rahe the — weak attribution). Identity traps avoided: Dudhram (Mahadeva SBSP MLA — Kudraha interlocking road, Bangawan 2-km road dono unke), Mahendra Singh Yadav (Biswan, Sitapur — BJP MLA, alag vyakti), Kavindra Chaudhary (Kaptanganj MLA).
+  'mahendra-nath-yadav': [
+    {
+      title: 'Babu Shiv Dayal Chaurasia Smriti Dwar ka nirmaan vidhayak nidhi se',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'BNT LIVE, 28 Jul 2025',
+      sourceUrl: 'https://bntlive.com/929',
+      date: '2025-07-28',
+      note: 'Article me darj hai ki smriti dwar sadar vidhayak Mahendra Nath Yadav ki vidhayak nidhi se nirmit hua hai. Status: poora — nirmaan sampann. Vivad disclose: BJP mahila morcha jiladhyaksh Roli Singh ne aarop lagaya ki dwar do mahapurushon aur do jatiyon ko aapas me ladane ki sazish hai; poorv sansad Harish Dwivedi ne social media par taanz kasa; BJP ne jan-samvad/protest kiya aur vidhayak ke khilaf naare lage. Ye political aarop hai — criminal allegation ya case nahi. Source note: bntlive.com chhota local portal hai; yahi khabar anuraglakshya.in par bhi chhapi hai (anuraglakshya.in/80354).',
+      period: '2022-2027',
+    },
+  ],
+// RESEARCH TRAIL (dudhram — Mahadewa (SC, AC-311), SBSP):
+  // Identity CONFIRMED: myneta.info/UttarPradesh2022/candidate.php?candidate_id=4220 + Wikipedia "Dudhram" (also spelled Doodh Ram) — won Mahadewa (SC) 2022 as SBSP, 83,350 votes, beat Ravi Kumar Sonkar (BJP) by 5,495 votes, assumed office March 2022. Age 61, b. 1960, matches profile. Also MLA 2007-2012 (Nagar East, BSP). No Bihar/Jharkhand identity trap found — name is unique to UP Mahadewa.
+  // 9 sweeps (Hindi + English): "Dudhram MLA Mahadewa vikas karya shilanyas", English inauguration/foundation searches, "Doodhram MLA Mahadewa Basti vikas karya", "vidhayak doodhram mahadeva udghatan lokarpan", quoted "दूधराम" + school/aspataal, Bihar-Jharkhand biography trap check, 2023-2024 year-filtered searches, English 2023/2024 inauguration search, "दूध राम" + peyjal/nalkoop/vidyalaya.
+  // ACCEPTED (7 — every article opened and read; bhaskar.com = Dainik Bhaskar, credible regional):
+  // 1. Ambedkar Park, Mustafabad village (Bahadurpur block) — SHILANYAS by Dudhram.
+  // 2. Paun Chauraha–Kudraha Dalit basti–primary school 300m RCC road — SHILANYAS, vidhayak nidhi se nirman.
+  // 3. Noorcak (Bahadurpur) ~800m pitch road, Purvanchal Vikas Nidhi — LOKARPAN (completed, dedicated to public).
+  // 4. Hariya Khoriya bazaar 3km kharanja road — LOKARPAN on Diwali day (article says Deepawali ke din; Diwali 2025 = 21 Oct 2025).
+  // 5. Baghi/Benipur (Kudraha) interlocking road ~100m, ~Rs 8 lakh, vidhayak nidhi — LOKARPAN.
+  // 6. Bangawan village ~2km pakki road (Rampur sampark marg to Gopalpur sampark marg), vidhayak nidhi — LOKARPAN.
+  // 7. Madan village sarkari nalkoop (irrigation tubewell) — LOKARPAN. Source: atulyabharatchetna.org.in (chhota local portal — disclosed).
+  // REJECTED:
+  // - Amar Ujala 2025-11-03 (MOIC Kudraha ko transfer ke liye DM ko patra): shikayat patra against third-party doctor — not a development work, no outcome verified; defamation risk — rejected.
+  // - Gauria Pathanpur interlocking road (dainik.bhaskar.com short link N5DvElrUx1b): page redirected to app download, HTTP 403 — could not open/verify — rejected as unverifiable.
+  // - MNT News Bharat (mntnewsbharat.com) Little Flower School–Bhoyrpur road bhoomi pujan: source fetch failed — could not verify — rejected.
+  // - All FB/IG/aggregator (Dailyhunt) and YouTube-only hits: none found for this MLA.
+  // - No school/aspataal works found in any sweep; no pre-March-2022 claims encountered.
+  // Dates: bhaskar.com shows relative bylines ("X mahine pehle") at crawl time; dates below are best estimates from those, disclosed as (est.).
+  'dudhram': [
+    {
+      title: 'Mustafabad gaon me Ambedkar Park ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/basti/bahadurpur/news/mustafabad-village-inauguration-ambedkar-park-mahadeva-mla-doodhram-137063391.html',
+      date: '2026-01',
+      note: 'Status: SHILANYAS. Mahadeva vidhayak Dudhram ne Bahadurpur block ke Mustafabad gaon me Ambedkar Park ka shilanyas kiya; parisar me Bhagwan Buddha, Bhimrao Ambedkar aur Sant Ravidas ki pratimayein. Park shadi-vivah, khel-kood aur dharmik ayojanon ke liye banega. Date approx hai — byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Paun Chauraha se Kudraha Dalit basti tak 300m RCC sadak ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/basti/kalwari/news/mahadeva-mla-laid-the-foundation-stone-of-paun-kudraha-road-136288691.html',
+      date: '2025-11',
+      note: 'Status: SHILANYAS. Vidhayak Dudhram ne Paun Chauraha se Kudraha Dalit basti hote hue prathmik vidyalaya tak 300 meter RCC sadak ka shilanyas kiya; ye sadak vidhayak nidhi se banegi. Barish me keechad-jalbharao se rahat milne ki ummeed. Date approx hai — byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Hariya Khoriya bazaar me 3km kharanja marg ka udghatan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/basti/kalwari/news/mla-inaugurated-3-km-kharanja-road-136218259.html',
+      date: '2025-10',
+      note: 'Status: LOKARPAN. Mahadeva vidhayak Dudhram ne Hariya Khoriya bazaar me 3km lambe kharanja marg ka udghatan kiya (article ke mutabik Deepawali ke din; Deepawali 2025 = 21 Oct). Kharab sadak ki jagah banaya gaya naya marg. Date approx hai — byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Baghi-Benipur me vidhayak nidhi se interlocking sadak ka udghatan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/basti/kudraha/news/mahadeva-mla-inaugurated-the-interlocking-road-136358612.html',
+      date: '2025-11',
+      note: 'Status: LOKARPAN. Kudraha vikas kshetra ki gram panchayat Baghi urf Benipur me vidhayak Dudhram ne apni vidhayak nidhi se bani interlocking sadak ka udghatan kiya — Shriram Yadav ke ghar se Kali ji ke sthan tak, lagbhag 100 meter, lagat lagbhag 8 lakh rupaye. Date approx hai — byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bangawan gaon me 2km pakki sadak ka udghatan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Dec 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/basti/kalwari/news/inauguration-of-2-kilometer-road-in-mahadeva-assembly-136687052.html',
+      date: '2025-12',
+      note: 'Status: LOKARPAN. Mahadeva vidhayak Dudhram ne gram Bangawan me lagbhag 2km lambi pakki sadak ka udghatan kiya jo Rampur sampark marg ko Gopalpur sampark marg se jodti hai; nirman vidhayak nidhi se hua. Kisan, chhatra aur vyapariyon ko labh. Date approx hai — byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Noorcak gaon me Purvanchal Vikas Nidhi se 800m pitch road ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/basti/kudraha/news/purvanchal-vikas-nidhi-road-inauguration-basti-mla-doodhram-137901302.html',
+      date: '2026-05',
+      note: 'Status: LOKARPAN (poorn-nirmit). Mahadeva vidhayak Dudhram ne Bahadurpur block ke Noorcak gaon me Purvanchal Vikas Nidhi ke tahat bani lagbhag 800 meter pitch road ka lokarpan kiya — Noorcak Chauraha se Siyaram ke Chak tak. 2012 se marammat ki maang chal rahi thi. Date approx hai — byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Madan gaon me sarkari nalkoop ka udghatan',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Atulya Bharat Chetna, Sep 2026 (est.)',
+      sourceUrl: 'https://atulyabharatchetna.org.in/archives/185573',
+      date: '2026-09',
+      note: 'Status: LOKARPAN (sarkari yojana ka udghatan). Mahadeva vidhayak Dudhram ne Madan gram me sinchai ke liye sthapit sarkari nalkoop ka udghatan kiya; aaspaas ke gaonon ke kisanon ko sinchai suvidha milegi. Chhota local portal hai (atulyabharatchetna.org.in) — is wajah se kamzor attribution se upar nahi. Date approx hai — article byline ke relative time se estimate kiya gaya.',
+      period: '2022-2027',
+    },
+  ],
 };
