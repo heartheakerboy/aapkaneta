@@ -982,3 +982,125 @@ delhiWorks['dr-ajay-dutt'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- South-East district batch (researched 2026-10-13) ----
+
+// South-East Delhi batch 1 (researched 2026-10-13): tarvinder-singh-marwah (Jangpura AC-41),
+// neeraj-basoya (Kasturba Nagar AC-42), chandan-kumar-choudhary (Sangam Vihar AC-49).
+// Key = neta slug, value = Work[] entries. Neutral, source-cited entries only.
+// Rejects: AC-41 — koi 8DVS naya sanction nahi mila (~8 targeted searches); Marwah ki news
+// items sirf proposal/maang (saffron-paint campaign, Navratri nameplate letter), meeting me
+// maujoodgi (newsdrum), ya court-ordered Madrasi Camp demolition (weak attribution, BJP chief
+// ka bayan) — sab reject. 2013 Lokayukta allegation (bhatija) — purana + relative par, reject.
+// AC-42 — 6 orders (7DVS continuation final installments, Feb 2025 ke pehle ke purane sanctions
+// ki kistein) reject. AC-49 — 1 order (7DVS continuation) reject. AC-42 ka Statesman culvert
+// bridge shilanyas (PWD minister + MP-led, MLA sirf maujood, 5 Apr 2025) weak attribution — reject.
+
+delhiWorks['tarvinder-singh-marwah'] = [];
+
+delhiWorks['neeraj-basoya'] = [
+{
+    title: 'Kasturba Nagar me Dayanand Colony, Lajpat Nagar-3 ki kshatigrast galiyon, Jangpura Extn ki drainage aur Lalit Kala Academy Park ke main gate ke liye 49.44 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 11 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_42_9900-9910_11-12-2025.pdf',
+    date: '2025-12-11',
+    note: 'F.No.18B(610)/AC-42/8DVS/UD/MLALADS/2025-26: A/A & E/S Rs. 49.44 lakh (est. Rs. 54.93 lakh); first installment Rs. 4.90 lakh MCD ko — copy-to "Sh. Neeraj Basoya, Hon\'ble MLA Kasturba Nagar Assembly Constituency (AC-42)". 6 kaam (Work ID AC-42/2025-26/32 se /37, U.ID 8DVS/3670/64, /649, /650, /659, /660, /661, Ward 146/Central Zone): Dayanand Colony Amar Colony me 2 kshatigrast galiyon ka sudhar (H.No. B-46 se Dayanand Colony; H.No. C-17 se C-10), Lajpat Nagar-3 me 2 galiyon ka sudhar (Bungalow No. 10 se 7; H.No. A-22 se A-10), Jangpura Extn me drainage system ka vikas (brick work, culvert, precast RCC slab — H.No. G-28 se G-1 aur G-25 se G-32 outfall), aur Garhi Village me Lalit Kala Academy Park ka main gate + Guru Nanak Mkt National Park me MCD store (Rs. 4.99 lakh). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['chandan-kumar-choudhary'] = [
+{
+    title: 'Sangam Vihar ke Tughlakabad Extension me Gali 7.5, Gali 17 aur Gali 16 ki RMC sadkon ke liye 25.68 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 12 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_49_3296-3306_12-08-2025.pdf',
+    date: '2025-08-12',
+    note: 'F.No.18B(617)/AC-49/8DVS/UD/MLALADS/2025-26: A/A Rs. 25.68 lakh (est. Rs. 25.71 lakh); first installment Rs. 2.56 lakh MCD ko — copy-to "Sh. Chandan Kumar Choudhary, Hon\'ble MLA Sangam Vihar Assembly Constituency (AC-49)". 3 kaam (Work ID AC-49/2025-26/08 se /10, U.ID 8DVS/3670/427, /428, /429, W.No.170/CNZ): Tughlakabad Extension me Gali 7.5 ka RMC vikas (H.No. RZ58L/7-8 se band gali aur H.No. RZ-S8A/8 se H.No. RZ 57D/7 tak link lane, Rs. 6.85 lakh), Gali 17 ka RMC vikas (H.No. RZ 306/17 se RZ 231A/17 hote hue RZ 272A/19 tak, Rs. 10.72 lakh), aur Gali 16 ka RMC vikas (Jagdamba road se H.No. RZ 192D/16 tak, Rs. 8.14 lakh). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sangam Vihar me sadak-nalee, Jal Board aur sewerage ki 100 crore ki pariyojnaon ka udghatan aur 2 naye DTC bus routes ki shuruaat',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Pioneer, 6 Oct 2025',
+    sourceUrl: 'https://dailypioneer.com/news/rs-100-crore-projects-launched-to-transform-sangam-vihar',
+    date: '2025-10-06',
+    note: 'South Delhi MP Ramvir Singh Bidhuri aur Sangam Vihar MLA Chandan Kumar Chaudhary ne sanyukt roop se ~Rs. 100 crore ki vikas pariyojnaon ka udghatan kiya: sadkon-naliyon ka nirman, Jal Board ke kaam, water pipelines, sewerage (jal-jamav ki samasya hetu), aur sadkon-galiyon ki marammat. Sangam Vihar Shooting Range se 2 naye DTC bus routes bhi shuru hue (Shooting Range–Mehrauli aur Shooting Range–AIIMS). Status: shubharambh — karya shuru; purnata ki alag khabar nahi mili. Caveat: pariyojnaen MP/PWD/DJB ke netritva ki hain (Rs. 100 crore, MLA fund se nahi) — MLA ki bhumika sanyukt udghatan tak seemit hai; MLA-stareeya swatantra yogdan ki pushti nahi hui.',
+    period: '2025-2030',
+  },
+];
+
+// Delhi South-East district batch W2 (researched 2026-10-13).
+// atishi (Kalkaji AC-51), sahi-ram (Tughlakabad AC-52), ram-singh-netaji (Badarpur AC-53),
+// amanatullah-khan (Okhla AC-54). Sabhi AAP, 8th Vidhan Sabha (Feb 2025-).
+// Key = neta slug, value = Work[] entries. Neutral, source-cited entries only.
+//
+// Sabhi entries UDD MLALAD NEW-sanction orders (8DVS series) — order kholkar
+// F.No/rakam/kaam/date/copy-to MLA-name verify kiya gaya. "In continuation of 7DVS/6DVS"
+// wale final-installment orders sabhi reject kiye gaye.
+//
+// REJECT SUMMARY:
+// - atishi (0 entries): AC-51 ke sirf 3 orders mile (24-09-2025, 26-11-2025, 28-11-2025) —
+//   teenon "FINAL SANCTION" + "In continuation of 7DVS" (Govindpuri RMC road 6.80L,
+//   Govindpuri Transit Camp water line 5.15L, JJC water lines 18.80L) — 8DVS rule par
+//   reject. Delhi-wide CM-capacity kaam (nirdesh anusar) liye hi nahi gaye. News me
+//   Atishi ke naam par Kalkaji gates/benches ki analysis piece (Outlook) — MLA ki
+//   apni claim nahi, weak attribution — reject.
+// - sahi-ram (2 entries): 05-08-2025 wala final-installment order (7DVS continuation) reject;
+//   AC-49 wale merged PDF ke Tughlakabad Extension works (Sangam Vihar AC-49 order,
+//   copy-to Chandan Kumar Choudhary) — galat AC — reject.
+// - ram-singh-netaji (1 entry): 16-10-2025 wala 7DVS-continuation final installment reject;
+//   Tribune 25-08-2026 ki Rs 30cr (Meethapur Extn 13cr + Peer Baba Basti 55L) khabar — Delhi
+//   Sarkar/I&FC kaam, MP ne shilanyas kiya, MLA sirf maujood the — weak attribution — reject.
+// - amanatullah-khan (0 entries): AC-54 ke 20-08-2025 (tubewell final installment 3.44L) aur
+//   04-08-2025 (BSES-RPL se 37,567 ki recovery — final settlement) orders — purani kist/recovery,
+//   8DVS rule par reject. 2025-26 ki recent news (Shaheen Bagh drain flooding, ToI) me MLA ke
+//   khilaf aarop (crossing pipe) — opponent (Asif Khan) ke daave, rebuttal bhi hai — rule 6
+//   "khali profile weak attribution se behtar" par reject. Batla House demolition PIL (June 2025)
+//   — HC ne relief nahi diya; ye vikas-kaam nahi — reject.
+
+
+
+delhiWorks['atishi'] = [];
+
+delhiWorks['sahi-ram'] = [
+  {
+    title: 'Tughlakabad AC-52 me Okhla Phase 1/2 aur Sarita Vihar-Okhla underpass service road par 5 street-light works ke liye 48.93 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 13 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_52_4344-4354_13-09-2025.pdf',
+    date: '2025-09-13',
+    note: 'F.18B(620)/AC-52/8DVS/UD/MLALADS/2025-26: "NEW SANCTION" — "in continuation of 7DVS/6DVS" clause nahi hai. A/A & E/S Rs. 48.93 lakh; first installment Rs. 4.87 lakh MCD ko — 5 street-light works: (1) "Provision of lighting arrangement with poles and SHM at Park near B-186, B block Okhla phase 1, AC-52 under Central Zone" Rs. 9.86 lakh, Work ID AC-52/2025-26/23, U.ID 8DVS/3670/264; (2) "Provision of street lights on existing poles at various locations in Tughlakabad assembly constituency under Central Zone" Rs. 9.61 lakh, AC-52/2025-26/24, 8DVS/3670/265; (3) "Provision of lighting arrangement with 7 mtr octagonal poles at service road near Sarita Vihar-Okhla underpass Okhla Phase 1 AC-52 under Central Zone" Rs. 9.79 lakh, AC-52/2025-26/25, 8DVS/3670/266; (4) "Provision of lighting arrangement with 12 mtr Semi High Mast Pole (with LED fittings) at various locations in Okhla Ph 2 AC-52 under Central Zone" Rs. 9.76 lakh, AC-52/2025-26/26, 8DVS/3670/267; (5) "Provision of lighting arrangement with 7 mtr octagonal poles at road near BSES store Okhla Phase 2 AC-52 under Central Zone" Rs. 9.91 lakh, AC-52/2025-26/27, 8DVS/3670/269. Copy-to me "Sh. Sahi Ram, Honble MLA, AC-52" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Tughlakabad Village ke Balmiki Mohalla aur Prajapati Mohalla me LT pole shifting ke liye 4.23 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 4 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_52_9768-9778_04-12-2025.pdf',
+    date: '2025-12-04',
+    note: 'F.18B(620)/AC-52/8DVS/UD/MLALADS/2025-26: "NEW SANCTION" — "in continuation" clause nahi hai. A/A Rs. 4.23 lakh; first installment Rs. 3.17 lakh BSES-Rajdhani Power Ltd ko — "Shifting of LT Pole in view safely and public hindrance at Balmiki Mohalla and Prajapati Mohalla, Tughlakabad Village Through MLALAD Fund (AC-52 Constituency-Tughlakabad)", Work ID AC-52/2025-26/32, U.ID 8DVS/3670/642. Copy-to me "Sh. Sahi Ram, Honble MLA, Tughlakabad Assembly Constituency (AC-52)". Caveat: order body me "10% of the estimated amount" likha hai par release Rs. 3.17 lakh = 75% hai — BSES/BRPL discom-wale orders ka pattern hai (AC-47 Deoli wale BSES order me bhi aisa hi tha); ye "First Installment" hai, koi "in continuation of 7DVS/6DVS" clause nahi. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['ram-singh-netaji'] = [
+  {
+    title: 'Badarpur AC-53 me Jaitpur sadak pipeline, parkon me 200 benches, drain slabs/gully traps, Khatu Shyam Park beautification aur 7 signage guards ke liye 124.72 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 27 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_53_3943-3953_27-08-2025.pdf',
+    date: '2025-08-27',
+    note: 'F.18B(621)/AC-53/8DVS/UD/MLALADS/2025-26: "NEW SANCTION" — "in continuation" clause nahi hai. A/A & E/S Rs. 124.72 lakh; first installment Rs. 12.45 lakh I&FC ko — 5 kaam: (1) "Providing & connecting Rainy Water Pipelines on Jaitpur Road from Arpan Vihar Pulia at village Jaitpur in Badarpur Constituency AC-53" Rs. 5.01 lakh, Work ID AC-53/2025-26/03, U.ID 8DVS/3670/444; (2) "providing & fixing Victorian Benches 100 Nos and SFRC Benches 100 Nos at various locations in Badarpur constituency AC-53" (Khatu Shyam Park 20, Atal Park Molar Bandh 20, Peer Baba Park 6, Jaitpur Part-2 Main Park 14, Ambedkar Park Meethapur 10, Badarpur Village Park 15, Chatt Ghat Park 10, Shaheed Bijender Singh Park Molar Bandh) Rs. 12.65 lakh, AC-53/2025-26/04, 8DVS/3670/445; (3) "Providing & fixing covering Slabs/Manhole/Gully Trap at various locations in Badarpur constituency AC-53" (Mithapur, Jaitpur, Molar Bandh Extn, Tajpur, Hari Nagar, Meethapur, Badarpur gaon drains) Rs. 19.58 lakh, AC-53/2025-26/05, 8DVS/3670/446; (4) "Beautification of Khatu Shyam Park at Molar Bandh Extn. In Badarpur Constituency AC-53" Rs. 82.81 lakh, AC-53/2025-26/06; (5) "Providing and fixing of 07 Nos. signage guards at various location in Badarpur Assembly constituency" (Faridabad-Delhi border road, Mathura Road Aali Railway pul/Gautampuri, Mehrauli-Badarpur Road, Lohia Pul Hari Nagar Extn, bypass road, MLA niwas, Badarpur Village entrance) Rs. 4.67 lakh, AC-53/2025-26/07. Copy-to me "Sh. Ram Singh Netaji, Honble MLA, Badarpur Assy Constituency (AC-53)" saaf likha hai. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['amanatullah-khan'] = [];
