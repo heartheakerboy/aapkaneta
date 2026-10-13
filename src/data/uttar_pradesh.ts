@@ -2060,7 +2060,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradeshBye2024/candidate.php?candidate_id=35',
       backgroundNote: '',
     },
-    electionNote: '2024 ke upchunav me Khair se jeete.',
+    electionNote: '2024 ke upchunav me Khair se jeete. 10 May 2026 ko Yogi mantrimandal vistaar me rajyamantri (MoS) bane (The Hindu/PTI).',
   },
   {
     slug: 'thakur-jaiveer-singh',
@@ -5714,7 +5714,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=2145',
       backgroundNote: '',
     },
-    electionNote: '2022 me Tirwa se jeete.',
+    electionNote: '2022 me Tirwa se jeete. 10 May 2026 ko Yogi mantrimandal vistaar me rajyamantri (MoS) bane (The Hindu/PTI).',
   },
   {
     slug: 'asim-arun',
@@ -7048,7 +7048,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=2860',
       backgroundNote: '',
     },
-    electionNote: '2022 me Khaga se jeete.',
+    electionNote: '2022 me Khaga se jeete. 10 May 2026 ko Yogi mantrimandal vistaar me rajyamantri (MoS) bani (The Hindu/PTI).',
   },
   {
     slug: 'aradhana-mishra-mona',
