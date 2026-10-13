@@ -790,3 +790,136 @@ mpWorks['gaurav-singh-pardhi'] = [
     period: '2023-2028',
   },
 ];
+
+// ---- Barwani district batch (researched 2026-10-13) ----
+// Barwani district batch 1 — Montu Solanki (Sendhwa ST AC-187) + Bala Bachchan (Rajpur ST AC-188) (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['montu-solanki'] = [
+  {
+    title: 'Sendhwa kshetra ki 5 sadkon ko pradesh budget me swikriti — vidhayak ke satat prayason se (Kundiya–Medliyapani 4 km nav-nirman Rs. 6 cr + 4 margon ka sandharan)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Janoday Punch, 18 Feb 2026',
+    sourceUrl: 'https://janodaypunch.com/main-news/efforts-of-sendhwa-mla-montu-solanki-bear-fruits-5-roads-approved-in-the-budget/',
+    date: '2026-02-18',
+    note: 'Janoday Punch ke mutabik Sendhwa vishan-sabha kshetra ki 5 sadkon ko pradesh sarkar ke budget me swikriti mili: gram Kundiya se Medliyapani marg (4 km, nav-nirman, anumaanit lagat Rs. 6 crore), Varla–Bakharli (5.80 km, sandharan, Rs. 4.06 crore), Hingwa–Varla (4.97 km, sandharan, Rs. 3.73 crore), Padachha pahunch marg (5 km, sandharan, Rs. 3.75 crore), Hingwa pahunch marg (3 km, sandharan, Rs. 1.80 crore). Report me vidhayak ki concrete bhoomika darj hai — unhone Dec 2023 ke vishan-sabha satra me Kundiya–Medliyapani sadak ka prashna lagakar maang rakhi thi aur mukhyamantri/sambandhit mantri ko patra likhe the. Status: swikriti — karyanwayan (tender/nirman-prarambh/purnata) ki alag khabar nahi mili. Caveat: swikriti ko nirman-purnata na samjha jaye; stage explicit "swikriti" hi hai.',
+    period: '2023-2028',
+  },
+];
+mpWorks['bala-bachchan'] = [
+  {
+    title: 'Bhamori gram me vidhayak-nidhi se 2 manglik bhavanon (kul Rs. 8 lakh) ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jul 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/barwani/news/bhoomipujan-of-two-auspicious-buildings-was-done-in-bhamori-135486824.html',
+    date: '2025-07',
+    note: 'Dainik Bhaskar ke mutabik Rajpur vidhayak Bala Bachchan ne gram Bhamori me vidhayak-nidhi se banne wale 2 manglik bhavanon ka bhoomi-pujan kiya: Shri Ram mandir ke paas sarvjanik manglik bhavan (lagat Rs. 5 lakh) aur Jai Mujay Maa mandir ke paas Bhilala samaj ke Mujalde parivar ka manglik bhavan (lagat Rs. 3 lakh); dono ke liye kul Rs. 8 lakh swikrit. Status: bhoomi-pujan — nirman karyanwayan/purnata ki alag khabar nahi mili. Caveat: article me ghatna "shanivaar" likhi thi aur search-index me "450 din pehle" dikha; 19 Jul 2025 ko shanivaar tha — isi aadhar par Jul 2025 (est.) maani hai. Ye unke mantri-kaam nahi, MLA-roop me vidhayak-nidhi ka kaam hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT LOG (researched 2026-10-14) ----
+// montu-solanki:
+// R1. Kalikundi pul bhoomi-pujan (Sendhwa) — sirf YouTube video mila (title: "Sendhwa कालीकुंडी पुल भूमिपूजन"), koi news-source nahi → reject (YouTube-only rule).
+// R2. Free Press Journal — World Indigenous Peoples Day, Jhopali (teacher shortage, tribal rights demand) — sirf maang/allegation, koi concrete kaam/nidhi/shilanyas nahi → reject (sirf maang).
+// R3. Free Press Journal — Janpad panchayat Sendhwa me dastavez jalane par action ki maang (minister ko patra) — allegation/demand, work nahi → reject.
+// R4. Dainik Jagran English — Niwali protest me BEO ke khilaf andolan/police rok — virodh-pradarshan, work nahi → reject.
+// R5. bansalnews.com — Congress block-adhyaksh niyukti par PCC ko patra — party-internal matter, sarkari kaam nahi → reject.
+// R6. public.app — JAYS ke saath dharna (shiksha-swasthya mudde) — protest + public.app-only source → reject.
+// R7. Nimad Junction podcast (YouTube) — interview, koi verifiable kaam nahi → reject.
+// R8. Zee News — 1400 km cycle yatra Tirupati Balaji (Sep 2024) — vyaktigat/dharmik yatra, vikas-kaam nahi → reject.
+// bala-bachchan:
+// R9. NDTV/New Indian Express/Zee — Dec 2019 "join Congress for MLA funds" vivaad — date Dec 2019 + mantri-era (Home Minister, Kamal Nath sarkar) → reject (Dec 2023 se pehle + mantri-kaam excluded).
+// R10. public.app — Moharram par garibon ko bhojan-vitran (Jun 2025) — unhone sirf dusron ke kaam ki prashansa ki (weak attribution) + public.app-only → reject.
+// R11. public.app — Ojhar me Gavli samaj manglik bhavan ki chhat-bharai pujan (Oct 2025) — sirf upasthiti/poojan, unka nidhi/shilanyas nahi + public.app-only → reject.
+// R12. public.app — Sant Shri Singaji Mahavidyalaya me Gandhi Jayanti karyakram (Oct 2025) — sirf bhashan/upasthiti + public.app-only → reject.
+// R13. rewakipukar.com — Meghwal samaj pratinidhimandal ko pratyek gaon me manglik bhavan hetu Rs. 5 lakh ka ashwasan — (a) article me koi tithi nahi aur image-path 2023/09 ka hai (Dec 2023 se pehle ka ho sakta hai), (b) ashwasan/dawa hai, swikriti/bhoomi-pujan ka satyapan nahi → reject (date unverifiable + sirf ashwasan).
+// R14. Dainik Bhaskar — Barwani me Congress ka ED-putla-dahan virodh — protest, work nahi → reject.
+// R15. policepublicnews.com — unke ghar me nakabjani ke 3 aaropi giraftar (Feb 2025) — crime news, unka kaam nahi → reject.
+// R16. aajtak/lokmat/nishaanebaz — beti Prerna ki sadak-hadse me mrityu (Jan 2026) — vyaktigat tragedy, work nahi → reject (note: is shok ki wajah se unke kuch public karyakram raddhe/rally-postpone hue the, lekin wo work-entry layak nahi).
+// NOTE: Bala Bachchan ke mantri-era (2018–2020 Deputy CM/Home Minister) ke sabhi vikas-kaam task-rules ke tahat excluded rakhe gaye hain; keval Dec 2023 ke baad ke MLA-roop ke kaam liye gaye.
+// Barwani district batch 2 — Shyam Barde (Pansemal ST, BJP) + Rajan Mandloi (Badwani ST, INC)
+// Researched 2026-10-14 — DO NOT export; appended to works_mp.ts
+mpWorks['shyam-barde'] = [
+  {
+    title: 'Mograpani gaon me vidyut khambhe aur distribution transformer ki sthapana ka bhoomi-pujan — dashakon se bina bijli wale pahadi gaon ka vidyutikaran shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 8 May 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/electricity-reaches-remote-mograpani-village-after-mla-shyam-barde-performed-for-installation-electric-poles-in-pansemalmla-shyam-barde-performed-for-installation-electric-poles-in-pansemal',
+    date: '2026-05-08',
+    note: 'Pansemal/Khetia ke door-daraz pahadi gaon Mograpani me dashakon se bijli nahi thi; FPJ ke mutabik vidhayak Shyam Barde ne vidyut khambhon aur distribution transformer ki sthapana ka bhoomi-pujan kiya, jisse gaon ke vidyutikaran ka karya prarambh hua. Status: bhoomi-pujan — khambhe/transformer lagne ka karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: yojna sarkari (state vidyut vibhag) hai; vidhayak ki bhoomika bhoomi-pujan aur maang uthane ki rahi (FPJ ke mutabik grameenon ne unhe pehle ke dauron me bijli ki samasya batayi thi).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Baygor gram panchayat ke Malgaon me naveen CC road (lagat Rs. 24.97 lakh) ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Janoday Punch, Dec 2025 (est.)',
+    sourceUrl: 'https://janodaypunch.com/khargone-badwani/pansemel-mla-barde-inaugurated-development-works-worth-crores-and-performed-bhoomi-pujan/',
+    date: '2025-12',
+    note: 'Janpad panchayat Pansemal ke gram panchayat Baygor ke Malgaon me Rs. 24,97,000 ki lagat wali naveen CC road ka bhoomi-pujan vidhayak Shyam Barde ne (BJP jila adhyaksh Ajay Yadav ke saath) kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: article me tithi explicit nahi thi; image dir (2025/12) aur crawl timing ke aadhar par Dec 2025 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Watershed Mahotsav me naveen talab (lagat Rs. 14 lakh) ka bhoomi-pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Janoday Punch, Dec 2025 (est.)',
+    sourceUrl: 'https://janodaypunch.com/khargone-badwani/pansemel-mla-barde-inaugurated-development-works-worth-crores-and-performed-bhoomi-pujan/',
+    date: '2025-12',
+    note: 'Usi karyakram-mala me Watershed Mahotsav ke dauran Rs. 14 lakh ki lagat wale naveen talab ka bhoomi-pujan hua; watershed vibhag ke jila adhikari bhi maujood the. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Note: article headline me "lokarpan" ka bhi zikr hai lekin body me kisi purn hue karya ka lokarpan specify nahi hai — isliye sirf bhoomi-pujan wali entries banayi hain.',
+    period: '2023-2028',
+  },
+];
+mpWorks['rajan-mandloi'] = [
+  {
+    title: 'Vidhayak nidhi se Pati vikas-khand ki 14 gram panchayaton ko paani ke tanker — garmi me peya-jal rahat',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Aug 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/barwani/news/14-villages-in-barwani-got-the-gift-of-water-135734002.html',
+    date: '2025-08',
+    note: 'Bhaskar ke mutabik vidhayak Rajan Mandloi ne apni vidhayak nidhi se Pati vikas-khand ki 14 gram panchayaton (Piparkund, Ubadgad, Shivni, Sawariyapani, Kandra, Harla, Rosar, Kumbhkhet, Rosmal, Semlet, Chikalkuanwadi, Atrasambha, Pakhalya, Gara) ko paani ke tanker diye; Pati mukhyalaya me pooja-archana ke baad vitran karyakram hua. Status: vitran purn — tanker sarpanchon/grameenon ko saupe gaye (garmi ke dinon me samajik/dharmik karyon hetu peya-jal ke liye). Caveat: tithi article me explicit nahi thi; crawl timing ke aadhar par Aug 2025 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Varishth Nagrik Pensioner Association, Badwani ke bhavan-nirman ke liye 5 lakh ka vidhayak-nidhi sanction',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jun 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/barwani/news/pensioners-appealed-to-cooperate-in-building-construction-dbp-138120591.html',
+    date: '2026-06',
+    note: 'Bhaskar ke mutabik Varishth Nagrik Pensioner Association Badwani ki maasik baithak me jiladhyaksh ne bataya ki bhavan-nirman ke liye vidhayak Rajan Mandloi ne Rs. 5 lakh swikrit kiye hain. Status: swikriti — association ke mutabik is rashi se bhavan-nirman purn nahi ho sakta, isliye sadasyon se sahyog ki appeal hui; nirman prarambh/purnata ki alag khabar nahi mili. Caveat: tithi explicit nahi thi; crawl timing ke aadhar par Jun 2026 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Badwani shahar me garmi-se-pehle jal-sankat: apni nidhi ke 5-6 tanker shahar ke wardon me jal-vitran me lagaye',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'RNI News, 25 Mar 2026',
+    sourceUrl: 'https://www.rninews.co.in/severe-water-crisis-strikes-even-before-the-onset-of-summer/',
+    date: '2026-03-25',
+    note: 'Garmi se pehle hi Badwani shahar me peya-jal sankat (aandhi se 125 HP ki motoren jalne par ~50% vyavastha prabhavit) ke dauran vidhayak Rajan Mandloi ne apni nidhi se grameen kshetron me vitran ke liye rakhe 5-6 tankeron ko shahar ke wardon me jal-vitran me laga diya; Pala Bazar se tanker bharkar vibhinn wardon me pahunchaye gaye. Status: rahat-karya sampann (emergency water distribution). Caveat: ye tanker nagar-palika ke atirikt upay the; sankat ka sthayi samadhan nagar-palika/PHE vibhag ke haath me raha.',
+    period: '2023-2028',
+  },
+];
+// REJECT LOG (Barwani district batch 2 — Shyam Barde / Rajan Mandloi, researched 2026-10-14):
+// --- Shyam Barde (shyam-barde, Pansemal ST) ---
+// 1. Rakhi Bujurg–Ganor (Maharashtra) aur Dhavdi–Ranipur–Toranmal sadak (lagbhag 2.5–4 crore) ka bhoomi-pujan, Jan 2026 — YouTube-ONLY sources (KBS TV News, Aasha Express News). Text/news source nahi mila. Reject.
+// 2. Gram panchayat Temla me Rs. 15 lakh ki naveen CC road ka bhoomi-pujan (2 Jan 2026) — public.app-ONLY source. Reject (public.app-only rule).
+// 3. Rakhi Bujurg me school boundary-wall ki ghoshna + scooty/cycle vitran (Khabar Madhya Pradesh) — YouTube-ONLY; ghoshna ka karyanwayan aur cycle/scooty (sarkari yojna) me vidhayak ki concrete bhoomika text source se verify nahi. Reject.
+// 4. PWD mantri Rakesh Singh dwara Silawad me Rs. 18 crore sadak-pul pariyojnaon ka bhoomi-pujan (FPJ, May 2026) — WEAK ATTRIBUTION: bhoomi-pujan mantri ne kiya; Barde sirf upasthit dignitaries me ek. Sirf maujoodgi. Reject.
+// 5. Mograpani ke baad Kambipani hamlet me peya-jal sankat ka "review" + Collector se baat (FPJ, May 2026) — sirf nirikshan/daura; koi swikriti/karya nahi. Reject.
+// 6. "Crores ke vikas karyon ki saugat" (jansamparkkhabar, Nov 2024) — vague press-release; Jamnia/Saloon/Budhgaon ke naam par bina karya-vivaran; koi concrete karya named nahi. Reject.
+// 7. Sendhwa–Khetia NH-752G 2-lane sadak, Rs. 615.61 crore swikriti (ETV Bharat, Dec 2024) — NO ATTRIBUTION: swikriti kendra sarkar ki, pehal sansad Gajendra Patel ki; Barde se koi sambandh nahi. Reject.
+// --- Rajan Mandloi (rajan-mandloi, Badwani ST) ---
+// 8. Jhanda Chowk vendor mall (Rs. 3.10 crore) lokarpan vivad — YouTube-ONLY + MLA ne karyakram ka bahishkar kiya; unka karya nahi, political controversy. Reject.
+// 9. Bhopaliyamal gaon (Rosmal panchayat) daura/chaupal (Bhaskar, Sep 2025 est.) — sirf daura; samasyaen suni, adhikariyon ko phone/patra ka ashwasan; koi concrete karya/swikriti nahi. Reject.
+// 10. Bijli katoti par kisan-hangama + andolan ki chetavani (RNI News, Oct 2026) — opposition/protest; koi karya nahi. Reject.
+// 11. Sardar Sarovar visthapiton ke punarvas par prashasan par aarop (ETV Bharat, Sep 2026) — aarop/virodh; koi concrete karya nahi. Reject.
+// 12. School-sankat reports (ETV Bharat, 2024–2026: Khedi falia, jarjar bhavan, jhopdi-school) — MLA ki tippani/mudda uthana; unka karya nahi. Reject.
+// 13. Datia by-election jeet ka jashn, Barwani (Bhaskar, Aug 2026) — political event; koi karya nahi. Reject.
+// 14. Muni-sangh ki agwani, Badwani (Shreephal Jain News) — dharmik karyakram me upasthiti; koi karya nahi. Reject.
+// 15. Badwani bypass Rs. 42 crore + Deb/Devanli pul (Naidunia, Sep 2026) — CM ki ghoshna, sansad ki pehal; Mandloi se koi sambandh nahi. Reject.
+// Kul: 6 entries qualified (3 + 3), 15 leads reject.
