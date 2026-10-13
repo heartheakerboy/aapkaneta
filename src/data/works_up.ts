@@ -8857,4 +8857,144 @@ export const upWorks: Record<string, Work[]> = {
     note: 'Bhaskar interview me vidhayak ka daava: karyakal me 1010 vikas karya karaye; vidhayak nidhi se sadak nirman, light, handpump lage; sabse badi bachi zaroorat — bada aspataal. Ye swayam-daava hai, swatantra satyapan nahi — isliye badge dawa. Exact date page par nahi mili.',
   },
 ],
+  // ---- Bahraich district batch (researched 2026-10-13) ----
+  // NOTE (coordinator): 12 me se 6 worker entries drop ki gayi — sab FB/IG self-posted
+  // claims thi (Bijnor precedent: dawa sirf news-reported claims par milta hai). Khaali
+  // profiles weak attribution se behtar hain.
+  // RESEARCH TRAIL (Bahraich batch 1)
+  // MLA: saroj-sonkar (Balha SC, BJP)
+  // Search kiya: Hindi/English 2022-2026 — shilanyas, udghatan, vidhayak nidhi, sadak, hospital, school, yojana.
+  // ACCEPTED (2): Live Hindustan Oct 2025 (4 sadak + 3 puliya, swikrit, MLA ke prayas ka shreya); Live Hindustan Aug 2026 (5 sadak ~10cr, swikrit, MLA ne CM ko patra likha tha).
+  // REJECTED:
+  //  - cmdnews.in / citiupdate.com (2021-06): Saryu Ghat antyeshti sthal shilanyas — pre-March-2022, TENURE RULE par reject.
+  //  - newstrack.com (2024-11): 'Dharti Aaba Janjatiya Gram Utkarsh Abhiyan' ka shubharambh — sirf karyakram ki mehmaan, koi concrete kaam nahi, reject.
+  //  - Bhaskar (2025-01): UP sthapna diwas par jile ke 100 projects lokarpan/shilanyas — MLA sirf event me maujood thin, vyaktigat attribution nahi, reject.
+  //  - blogspot 'timeindianews11' (2025-03): CM ne mihirpurwa tehseel bhavan ka lokarpan kiya — blog source + MLA sirf maujood, reject.
+  //  - Bhaskar 'saturation camp' (2025-12, Mihinpurwa): sewa shivir ka sanyukt udghatan — one-time event, sthayi kaam nahi, reject.
+  //  - wordpress 'globalnewsindiaonline' (2025-11): Katarniaghat paryatan satra shubharambh — event presence + aggregator-type blog, reject.
+  //  - Bhaskar 'Lights on Belha intersection of Lalganj' — ye Pratapgarh ka Belha hai, Balha nahi; MLA Aradhana Mishra 'Mona' — galat sthan/vyakti, reject.
+  //  - YouTube 'vidhayak Bechai Saroj ne 300m sadak ka udghatan' — Bechai Saroj alag vyakti (Sultanpur), reject.
+  // MLA: ram-niwas-verma (Nanpara, Apna Dal S)
+  // Search kiya: Hindi/English 2022-2026 — shilanyas, udghatan, lokarpan, sadak, school, hospital, peya jal.
+  // ACCEPTED (2): Amar Ujala Feb 2026 (Nanpara shahri marg chaudikaran 3.31cr, swikrit, MLA ke patra par); Dainik Bhaskar ~Jul 2025 (block Balha me shiksha vibhag ka naya karyalay bhavan, MLA ne udghatan kiya — poorn/lokarpan).
+  // REJECTED:
+  //  - public.app clips (pradarshani udghatan, marriage hall): aggregator-ish/public.app-only source, reject.
+  //  - mntnewsbharat.com (NH-927 link road bhoomipujan): chhota portal, page open nahi hua verify ke liye — credible source se verify nahi ho paya, reject.
+  //  - upvoiceofpublic.blogspot.com (Nanpara marg 3.31cr): blog source — wahi daava Amar Ujala se verified le liya, blog entry reject.
+  //  - Bhaskar Nanpara development plan (~Jul 2026): Bhavaniyapur tourism hub / Unani-Ayurvedic hospital / mahila college — sab 'prastaav bheja jayega' star ke daave (sirf maang/proposal), RupaiDeeha bypass 'nirman shuru' ka daava bhi sirf MLA ki interview statement thi; page verify ke liye open nahi hua (403), reject.
+  //  - janexpresslive.com (jila suchna karyalay ki marammat): chhota portal, sirf 'zimmedari lene ka ashwasan' — concrete kaam nahi, reject.
+  //  - Chhattisgarh 'mantri Tank Ram Verma' — alag rajya/vyakti, reject. 'Ramniwas Surjakheda' (Narwana, Haryana) — galat vyakti, reject.
+  //  - YouTube 'MLA ne ginaye vikas karya' — YouTube-only, reject.
+  //  - newsdrum/ThePrint toll-plaza vivad (2023): ghatna report hai, MLA par koi aarop/case status nahi; works profile se asangat — negative entry nahi banai.
+  // ----
+  'saroj-sonkar': [
+    {
+      title: 'Balha me 4 sadak aur 3 puliya ka nirman swikrit',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, Oct 2025',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/bahraich/story-baharich-assembly-receives-infrastructure-boost-4-roads-and-3-bridges-approved-201760521324519.html',
+      date: '2025-10',
+      note: 'Status: SWIKRIT (manzoori mili, nirman shuru hona baki). Diwali 2025 par khabar — Gudh gaon-Harkhapur 12km (30.39cr), Bichpari-Rajnawa border 13.9km (57.46cr), Sujauli 5km (13.23cr), Parvani Gaudhi 1km (2.89cr), Mihirpurwa kasba 1.1km (2.89cr) sadak chaudikaran/nirman; plus 3 puliya/setu (Ram sahayapurva 3.17cr, Mogalhanpurva 2.75cr, Daulatpur laghu setu 3.94cr). MLA ka concrete role: report ke mutabik in pariyojnaon ki swikriti "vidhayak Saroj Sonkar ke prayas se" mili; vidhayak pratinidhi Alok Jindal ne vivran diya. Nirman shuru hone ki khabar me pushti nahi — sirf swikriti ki pushti hai, poorn ka daava nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Balha me 5 sadak (10 crore) ka nirman swikrit',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, Aug 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/bahraich/story-construction-approval-for-five-roads-in-balha-constituency-worth-10-crores-201787828790162.html',
+      date: '2026-08',
+      note: 'Status: SWIKRIT (manzoori mili, tender prakriya ke baad nirman shuru hoga). Jan chaupal me logon ne maang-patra saunpa tha; uske baad MLA ne CM Yogi Adityanath ko patra likhkar sadak nirman ki maang ki, jisme 5 sadakon ko manzoori mili — Sitaram Purva 1.10km, Taja Purva-Tikhadiya sampark marg + RCC puliya 1.50km, Amritpur Kanta Bejha-Kathautiya 1.50km, Bakhtawar Gaudhi-Somai Gaudhi 3.30km, Sarra dwitiya 1km; kul lagat ~10.01cr. Report me spasht: kaam tender ke baad shuru hoga, nirman abhi shuru nahi hua — poorn/lokarpan ka daava nahi.',
+      period: '2022-2027',
+    },
+  ],
+  // ---- ram-niwas-verma (Nanpara, Apna Dal S) ----
+  'ram-niwas-verma': [
+    {
+      title: 'Nanpara shahri marg (5km) ka chaudikaran swikrit — 3.31 crore',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Feb 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/bahraich/the-condition-of-nanparas-roads-will-improve-bahraich-news-c-98-1-bhr1003-144306-2026-02-12',
+      date: '2026-02',
+      note: 'Status: SWIKRIT (prashasanik + vittiya swikriti mili, nirman shuru hona baki). Nanpara kasbe ke 5km shahri marg ka 1.69km sanke hissa 7m chauda kiya jayega; kul lagat 3.31cr, state road fund se 32.39 lakh ki vittiya swikriti jaari. MLA ka concrete role: 25 Dec 2024 ko pramukh sachiv, Lok Nirman Vibhag ko patra likhkar chaudikaran ki maang ki — report isi patra ko swikriti ka aadhar batati hai. Nirman shuru hone ki pushti khabar me nahi.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Block Balha me shiksha vibhag ke naye karyalay bhavan ka udghatan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, ~Jul 2025',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bahraich/nanparadehati/news/education-department-got-a-new-place-in-balha-135371852.html',
+      date: '2025-07',
+      note: 'Status: POORN + LOKARPAN (bhavan nirmit, MLA ne fee-ta kaatkar udghatan kiya). Vikas khand Balha me purana jharjar bhavan ke sthan par shiksha vibhag ka naya karyalay bhavan bana; udghatan MLA Ram Niwas Verma ne kiya. Note: bhavan Balha block (Saroj Sonkar ke vidhansabha kshetra) me hai, lekin udghatan Nanpara MLA ne kiya — report me dono tathya spasht hain. Nidhi ka source (vidhayak nidhi ya vibhagiya) report me nahi bataya gaya. Tareekh anumanit (article "~1 saal pehle", metadata ~466 din).',
+      period: '2022-2027',
+    },
+  ],
+// ---- mariya (Matera, SP) ----
+// RESEARCH TRAIL (mariya — Matera, SP; naam variants: Mariya Shah / Maria Ali Shah / Mariya Ali Shah; patni Yasar Shah, March 2022 se MLA):
+// - Hindi+English web search (8+ queries): "विधायक मारिया मटेरा", "मारिया शाह" + shilanyas/udghatan/lokarpan/vidhayak nidhi/sadak/paani/school/aspataal, news vertical bhi.
+// - Social search (FB/IG/Threads): sirf ye mila — (1) Chedagaon Dharm Nagar me kshetra daura (Aug 2026) — REJECT: sirf nirikshan/daura; (2) "MLA phone nahi uthati" wala critical reel — REJECT: kaam nahi, political; (3) gaon me baithak/daura (Jun 2026) — REJECT: daura; (4) 2027 election survey commentary — REJECT: chunav; (5) promo graphic — REJECT: kaam nahi.
+// - Risia News / AIMIM (Shaukat Ali) ke critical videos: Matera me kharab sadkon ki shikayat — ye unke KHILAF aarop hain, unke kaam ka saboot nahi; negative entry ke liye credible reporting + explicit status chahiye, ye activist videos hain — REJECT.
+// - Koi bhi credible news source me March 2022 ke baad unka koi shilanyas/udghatan/swikrit/poorn kaam nahi mila. Profile khaali rakhi gayi hai.
+'mariya': [],
+
+// ---- sureshwar-singh (Mahasi, BJP) ----
+// RESEARCH TRAIL (sureshwar-singh — Mahasi, BJP):
+// Coordinator-level DROPS (Bijnor precedent: dawa sirf news-reported claims par;
+// FB/IG self-posted claims drop):
+// - Kalyanpurwa-Mahsi bhoomi poojan (4 akhbaar-katran, MLA ke FB par) — DROP: katranen
+//   sirf MLA ke apne FB post par hain, swatantra online copy nahi mili (unverifiable).
+// - Bahraich-Sitapur marg Rs 3114.22L swikriti (MLA ka FB post) — DROP: self-posted claim.
+// - 3 GP me interlocking sadken poorn (MLA ka infographic) — DROP: self-posted claim.
+// Rejected: CM ka 21 Jul 2026 Bednapur event (MLA sirf maujood); generic "sadkon ka jaal"
+// graphic; samarthak ka IG reel; Bahraich hinsa FIR (MLA ne karayi thi, unke khilaf nahi);
+// bhediya video (mudda, kaam nahi).
+'sureshwar-singh': [
+  {
+    title: '2002 ke SDM-dhamki case me 2 saal ki saza; zila adalat ne saza par rok lagayi (appeal lambit)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI via ThePrint, Jan 2024',
+    sourceUrl: 'https://theprint.in/india/court-stays-conviction-sentence-of-bjp-mla-in-ups-bahraich/1915655/',
+    date: '2024-01',
+    note: 'Negative entry — credible reporting (PTI), status explicit. Ghatna 2002 ki hai: Mahsi SDM Lal Mani Mishra ne Hardi thane me case darj karaya tha (aarop: MLA ne office me ghuskar dhamki di/kaam me badha dali). MP-MLA court ne 4 Jan 2024 ko 2 saal ki saza + Rs 2,500 jurmana sunaya (bail mil gayi thi). District Judge Utkarsh Chaturvedi ne 8 Jan 2024 ko conviction aur saza dono par rok laga di, appeal lambit hai. Ye MLA ke khilaf unka APNA case hai (pariwar ka koi case nahi joda gaya).',
+    period: '2022-2027',
+  },
+],
+  // RESEARCH TRAIL — anupma-jaiswal (Bahraich, BJP): KHALI profile.
+  // Dhoonda: web search (Hindi+English, news vertical) "Anupma/Anupama Jaiswal Bahraich shilanyas/udghatan/lokarpan 2022-2026",
+  // Amar Ujala/livehindustan/Dainik Jagran targeted queries, aur unke verified FB page (@anupmajaisbjp, 110K) par
+  // authors-filtered mining (shilanyas/lokarpan/sadak/vidyalaya/aspatal/amrit sarovar/nal jal queries, 2022-03 se).
+  // Reject hua:
+  // - Nepalganj Road-Varanasi City train udghatan (31 Aug 2026, unka FB post) — CM Yogi + Railway Minister ka event;
+  //   MLA sirf maujood/thi, concrete role nahi (reject: neta sirf event me maujood tha).
+  // - 'Vikasit Bharat-Ji Ram Ji' photo exhibition udghatan, Maharaj Singh Inter College (Jan 2026) — event presence only.
+  // - Bahraich POST ka bijli-bahal meeting post (Oct 2026) — sirf baithak/nirdesh, kaam nahi.
+  // - Yuvraj case me shok-santvana visits — kaam nahi.
+  // - Migrant portal (Apr 2020), school inspections (2017), mantri-kaaleen faisle — sab pre-March-2022 ya statewide (tenure rule).
+  // - Effigy-burn incident (Apr 2026) — development kaam nahi.
+  // Koi bhi constituency-specific sadak/paani/school/aspatal kaam jisme unka concrete role ho, nahi mila — isliye [].
+  'anupma-jaiswal': [],
+
+  // ---- subhash-tripathi (Payagpur, BJP) ----
+// RESEARCH TRAIL (subhash-tripathi — Payagpur, BJP; KHALI profile):
+// - Puraini 2.4km sampark marg shilanyas (Jul 2026) — DROP: "Bahraich Khabar" ki report
+//   ka URL sirf FB group permalink tha, outlet ki apni page nahi mili (FB-only source).
+// - Virpurwa/Thakur interlocking udghatan + 30 transformer upgrade (MLA ke FB posts) —
+//   DROP: self-posted claims, independent coverage nahi (Bijnor precedent).
+// - Feb 2026 CM-patra (ITI/sadak/ROB) — sirf maang/proposal; Amrit Vichar kela nirikshan —
+//   sirf nirikshan; Lakhimpur Kheri clip — galat jila. Sab reject.
+'subhash-tripathi': [],
+// ---- anand-kumar-up (Kaiserganj, SP) ----
+// RESEARCH TRAIL (anand-kumar-up — Kaiserganj, SP; KHALI profile):
+// Pehchan note: ECI/myneta/PRS me "Anand Kumar"; PTI/Wikipedia me "Anand Kumar Yadav" —
+// Kaiserganj + SP + pita Shivpaltan se ek hi vyakti confirm.
+// - Smriti Shesh Baburam Rao Marg shilanyas (Aug 2026) — DROP: Aagaz Times ki report ka URL
+//   sirf FB reel tha, outlet ki apni page nahi mili (FB-reel-only source; Bijnor precedent).
+// - Reject: Mayawati ke bhai Anand Kumar wale items (galat vyakti); Kasganj confusion;
+//   Brij Bhushan/Kaiserganj-LS items (galat vyakti/sthan); Sep 2025 Dy CM review vivad
+//   (political, kaam nahi); reels (event presence); flood complaint reel (citizen shikayat).
+'anand-kumar-up': [],
 };
