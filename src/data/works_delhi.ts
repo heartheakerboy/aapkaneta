@@ -564,3 +564,97 @@ delhiWorks['ashok-goel'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- North-East district batch (researched 2026-10-13) ----
+delhiWorks['chaudhary-zubair-ahmad'] = [
+{
+    title: 'New Seelampur, Shastri Park aur Welcome area me 5 sadak-naali karyon ke liye 152.41 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 25 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_65_4883-4893_25-09-2025.pdf',
+    date: '2025-09-25',
+    note: 'F.18B(633)/AC-65/8DVS/UD/MLALADS/2025-26: A/A Rs. 152.41 lakh; first installment Rs. 15.22 lakh MCD ko — "Sh. Chaudhary Zubair Ahmad, Hon\'ble MLA AC-65" ke liye Seelampur AC-65 me 5 kaam: (1) D & F block New Seelampur me sadak (D-103 to 108, D-90 to D-74, E-14 to F-140, E-29 to E-34, D-1 to D-6, F-block 26/01 to F-121, F-151 to F-141 — Rs. 32.08 lakh, AC-65/2025-26/01); (2) Shastri Park E-block ki galiyan (gali 8: E-206/7 to E-51, gali 9: E-239 to E-229/E-299, gali 10: E-276 to E-257, gali 11: E-325, gali 12: E-368 to E-347 — Rs. 43.85 lakh, /02); (3) Welcome area road + market drain (L-block L-59 to L-1, Timber Market road — Rs. 36.60 lakh, /03); (4) Kaddaywali Masjid road + drain (Madarsa 12 A-block gali 10, Chauhan Bangar — Rs. 23.97 lakh, /04); (5) CPJ block road + drain (CPJ Pump to CPJ-122/17, CPJ-1/83 to CPJ-1/65/167 — Rs. 25.60 lakh, /05) — sabhi Ward 225, Shahdara North Zone; UIDs 8DVS/3670/488 se /492 tak. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Jafrabad me Jinnat Mahal school ke paas LED street light poles ke liye 3.57 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 27 Nov 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_65_9400-9410_27-11-2025.pdf',
+    date: '2025-11-27',
+    note: 'F.18B(633)/AC-65/8DVS/UD/MLALADS/2025-26 (New Sanction): A/A Rs. 3.57 lakh; first installment Rs. 0.35 lakh MCD ko — "Provision of 7 metre Street Light Poles with LED lights in Gali no-5 near Jinnat Mahal school, Jafrabad, Ward no-227, Shahdara North Zone", UID 8DVS/3670/647, Work ID AC-65/2025-26 series. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['ajay-mahawar'] = [
+{
+    title: 'Teesra Pusta Jagjeet Nagar me mukhya sadak (1.84 crore) aur naale par jaali ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Top Story, 19 Feb 2026',
+    sourceUrl: 'https://topstory.online/ghonda-road-construction-news-ajay-mahawar-shilanyas-event/',
+    date: '2026-02-19',
+    note: 'Ghonda ke Teesra Pusta, Jagjeet Nagar me mukhya sadak nirman (lagbhag Rs. 1.84 crore) aur Shiv mandir ke paas naale par lohe ki suraksha jaali (lagbhag Rs. 2.50 lakh) ka shilanyas — vidhayak Ajay Mahawar ne kiya. Article ke mutabik yah mukhya marg lagbhag 17 saalon baad banaya ja raha hai; sadak se pehle IGL ki gas pipeline ka kaam (lagbhag Rs. 2 crore) poora karaya gaya taaki sadak dobara na khodni pade. Status: shilanyas — nirman karya shuru, purnata ki alag khabar nahi mili. Caveat: sthaniya news site; swatantra ground-reporting patli hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Brahmapuri ward me PNG gas line dalne ke karya ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'VirSurya Times, 7 Oct 2025',
+    sourceUrl: 'https://virsuryatimes.com/2025/10/07/ghonda-mla-ajay-mahawar-launched-png-gas-line-work-in-brahmapuri-ward/',
+    date: '2025-10-07',
+    note: 'Brahmapuri ward, Teesra Pusta-Jagjeet Nagar main road par PNG (piped gas) line dalne ke karya ka shubharambh — vidhayak Ajay Mahawar ne kiya; lagbhag Rs. 50 lakh ki lagat se hazaron gharon ko PNG suvidha ka daava. Caveat: kaam IGL (kendra ki yojana) ka hai, vidhayak nidhi ka nahi — vidhayak ne shubharambh kiya. Status: shubharambh — bichhane ka kaam shuru.',
+    period: '2025-2030',
+  },
+];
+
+delhiWorks['surendra-kumar'] = [];
+
+delhiWorks['mohan-singh-bisht'] = [];
+
+delhiWorks['kapil-mishra'] = [
+{
+    title: 'Anuvrat Vihar me kshatigrast galiyon aur side drains ke liye 95.95 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 12 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_70_3285-3295_12-08-2025_1.pdf',
+    date: '2025-08-12',
+    note: 'F.18B(638)/AC-70/8DVS/UD/MLALADS/2025-26 (New Sanction): A/A Rs. 95.95 lakh; first installment Rs. 9.59 lakh I&FC (CD-IV) ko — "Construction of damaged streets & side drains at Anuvrat Vihar in Karawal Nagar Constituency (AC-70)", Work ID AC-70/2025-26/05, UID 8DVS/3670/414. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili. Note: yah Karawal Nagar kshetra ka vidhayak-nidhi kaam hai; mantri-star ke faisle is profile me shamil nahi.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sadatpur Extension B-block ki Gali No. 1 aur 2 ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Millennium Post, 7 Feb 2026',
+    sourceUrl: 'https://www.millenniumpost.in/delhi/min-unveils-development-push-for-karawal-nagar-647251',
+    date: '2026-02-07',
+    note: 'Kapil Mishra ne Karawal Nagar ke Sadatpur Extension me B-block ki Gali No. 1 aur 2 ka udghatan sthaniya nivaasiyon ke saath kiya (public interaction programme). Caveat: usi karyakram me ki gayi badi mantri-star ki ghoshnaayein (tourist centre, Yamuna riverfront, cruise tourism aadi) is profile me shamil nahi — sirf Karawal Nagar ka sthaniya kaam liya gaya hai. Status: udghatan — kaam poora bataya gaya.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sadatpur me PNG gas pipeline bichhane ke karya ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Daily Pioneer, 28 Jul 2025',
+    sourceUrl: 'https://dailypioneer.com/news/kapil-misra-inaugurates-png-gas-pipeline-in-sadatpur',
+    date: '2025-07-28',
+    note: 'Karawal Nagar ke Sadatpur me PNG (piped natural gas) supply ke liye pipeline bichhane ke kaam ka udghatan — Kapil Mishra ne kiya (mantri ke roop me). Sadatpur ke K, L, M, N blocks aur Sadatpur Extension ke Block B me kaam shuru; 4 mahine me pipeline, 6 mahine me supply ka daava. Caveat: kaam IGL ki pariyojana hai, vidhayak nidhi ka nahi — yah Karawal Nagar kshetra ka sthaniya udghatan hone ke kaaran shamil hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Karawal Nagar me kai pariyojanaon ka udghatan aur shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'UNI, 21 Feb 2026',
+    sourceUrl: 'https://www.uniindia.com/~/development-will-now-accelerate-further-across-all-constituencies-of-delhi-kapil-mishra/India/news/3749141.html',
+    date: '2026-02-21',
+    note: 'Kapil Mishra ne Karawal Nagar me kai pariyojanaon ka udghatan aur shilanyas kiya (North-East Delhi ke prabhari mantri ke roop me). Caveat: UNI report me pariyojanaon ke naam/vivran nahi diye gaye; mantri-star ke bayaan is profile me shamil nahi. Status: udghatan/shilanyas — vivran seemit.',
+    period: '2025-2030',
+  },
+];
