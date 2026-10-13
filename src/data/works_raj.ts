@@ -3203,4 +3203,62 @@ export const rajWorks: Record<string, Work[]> = {
     },
   ],
   'ratan-devasi': [],
+
+  // ---- Sirohi district batch (researched 2026-10-13) ----
+  'ota-ram-dewasi': [
+    {
+      title: 'कैलाशनगर (शिवगंज) में सामुदायिक स्वास्थ्य केंद्र का शिलान्यास; ₹1.52 करोड़ के अटल पथ की घोषणा',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/sirohi/news/rajasthan-minister-mp-inaugurate-development-work-launch-health-center-shivgaj-136954155.html',
+      date: '2026-04',
+      note: 'Shivganj tehsil ke Kailashnagar me samudayik swasthya kendra ka shilanyas MLA Ota Ram Dewasi ne khud kiya (sांसद Lumbaram Choudhary ke saath mukhya atithi). Isi karyakram me ₹1.52 crore ki lagat se 1 km lambe Atal Path ki ghoshna hui; Shivganj pradhan dwara panchayat samiti mad se karaye gaye ₹40 lakh ke karyon ka lokarpan bhi hua. (status: shilanyas + ghoshna; exact date page par nahi mili)',
+      period: '2023-2028',
+    },
+    {
+      title: 'गोयली में ₹1.82 करोड़ के पीएचसी भवन का शिलान्यास-भूमि पूजन',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Mar 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/sirohi/news/foundation-stone-laid-for-phc-building-in-goyli-sirohi-rajasthan-136909757.html',
+      date: '2026-03',
+      note: 'Goyli me PHC bhavan nirmaan (~₹1.82 crore) ka bhoomi poojan/shilanyas MLA Ota Ram Dewasi ne khud kiya. Article me Goyli me pehle hue Gaurav Path aur paani ki tankiyon jaise karyon ka bhi zikr hai. (status: shilanyas; exact date page par nahi mili)',
+      period: '2023-2028',
+    },
+    {
+      title: 'DMFT बैठक में सिरोही-शिवगंज क्षेत्र के लिए ₹39 करोड़ के विकास कार्यों के प्रस्ताव',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jul 2025 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/sirohi/news/sirohi-shivganj-got-the-gift-of-development-135497552.html',
+      date: '2025-07',
+      note: 'District Mineral Foundation Trust ki governing council baithak me MLA Ota Ram Dewasi ne Sirohi-Shivganj kshetra ke liye kul ~₹39 crore ke karyon ke prastav rakhe — sadak ₹17.30cr, school kaksha-kaksh ₹12.91cr, peyjal ₹3.52cr, mahila-bal vikas ₹2.88cr, samajik nyay ₹1.49cr, hospital machinery ₹90L. (status: prastav/manjuri-prakriya; exact date page par nahi mili)',
+      period: '2023-2028',
+    },
+  ],
+  'samaram': [
+    {
+      title: 'माउंट आबू में ₹1.88 करोड़ के मंदिर-पर्यटन विकास कार्यों का शिलान्यास',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Pratahkal, 1 Feb 2026',
+      sourceUrl: 'https://www.pratahkal.com/sirohi/mount-abu-development-projects-foundation-stone-samaram-garasia-1561604',
+      date: '2026-02-01',
+      note: 'Mukhyamantri budget ghoshna 2024-25 ke tahat Abu-Pindwara MLA Samaram Garasia ne Mount Abu me kul ~₹1.88 crore ke karyon ka vidhivat shilanyas kiya — Mandakini Kund Achaleshwar Mahadev mandir ₹99.17 lakh, Adhar Devi mata mandir ~₹55 lakh, Champa Gufa (pratham charan, nagar palika) ₹34 lakh. (status: shilanyas)',
+      period: '2023-2028',
+    },
+  ],
+  'motiram': [
+    {
+      title: 'एनएच-168 से रोहुआ तक ₹3.50 करोड़ की सड़क की स्वीकृति (पूरक बजट)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, May 2026 (est.)',
+      sourceUrl: 'https://www.bhaskar.com/local/rajasthan/sirohi/reodar/news/a-road-will-be-built-from-the-highway-to-rohua-at-a-cost-of-rs-350-crore-137249452.html',
+      date: '2026-05',
+      note: 'Rajya sarkar ke poorak budget me Reodar kshetra ki 2 mahatvapurna sadkon ko swikriti mili — NH-168 se Rohua (11 km, ~₹3.50 crore) samet; graminon ne MLA Motiram Koli ka aabhar jataya. (status: swikriti — shilanyas/udghatan report me nahi; exact date page par nahi mili)',
+      period: '2023-2028',
+    },
+  ],
 };
