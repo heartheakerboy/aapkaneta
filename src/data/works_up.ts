@@ -13101,4 +13101,210 @@ export const upWorks: Record<string, Work[]> = {
   },
 ],
 'vijay-singh-up': [],
+
+
+  // ---- Bhadohi district batch (researched 2026-10-13) ----
+'zahid': [
+  {
+    title: 'Madrasa Talimul Jadeed me kaksh ka lokarpan — vidhayak nidhi 2023-24',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Sep 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/madrasa-room-built-from-mla-fund-inaugurated-in-bhadohi-135917039.html',
+    date: '2025-09',
+    note: 'Bhadohi nagar ke Noorkhanpur mohalla sthit Madrasa Talimul Jadeed me vidhayak nidhi 2023-24 se banwaye gaye kaksh ka lokarpan hua; vidhayak ne shilapatt ka anavaran kiya. Karyakram me Islamic quiz pratiyogita (300 bachche) bhi hui. Status: lokarpan/purna. Lagat article me nahi di gayi. Date approx — page stamp par "10 mahine pehle" (Last Updated Sep 2025).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Madrasa Shamsiya Tegiya me kaksh ka lokarpan — vidhayak nidhi',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Sep 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/inauguration-of-school-room-in-bhadohi-136044132.html',
+    date: '2025-09',
+    note: 'Bhadohi nagar ke Maryadpatti sthit Madrasa Shamsiya Tegiya me vidhayak nidhi se nirmit ek kaksh ka lokarpan; vidhayak ne shilapatt ka anavaran karke kaksh bachchon ko samarpit kiya, medhavi chhatron ko sammanit kiya. Status: lokarpan/purna. Lagat article me nahi. Date approx — page stamp par "10 mahine pehle" (Last Updated Sep 2025).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kadhiya phatak–Durgaganj sadak fourlane ka daava — Bhaskar interview',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/bhadohi-mla-zahid-beg-development-works-4-years-137468305.html',
+    date: '2026-03',
+    note: 'Interview me vidhayak ka daava: Kadhiya phatak se Durgaganj tak ki sadak unke karyakal ki sabse badi uplabdhi; pehle pass karayi thi, 2017-22 me kaam ruka, 2022 me dobara vidhayak banne par pairevi ki aur ab sadak fourlane ban rahi hai. INDEPENDENT VERIFICATION NAHI — kisi sarkari/svatantr source se unki bhoomika ya sadak ka status confirm nahi. Jagran ne isi route (Bhadohi–Durgaganj) ko NH-731B national highway project ke hisse ke roop me report kiya hai, jo unke personal daave ko independently confirm nahi karta. Status: daava/shilanyas se lokarpan ka antar spasht nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Gharelu maid ki mrityu — bonded-labour case me giraftari, baad me zamaanat',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI/LatestLY, 2024-2025; LawBeat, Oct 2025',
+    sourceUrl: 'https://www.latestly.com/agency-news/india-news-hc-grants-bail-to-bhadohi-mla-zahid-beg-in-abetment-to-suicide-case-6903535.html',
+    date: '2024-09',
+    note: 'NEGATIVE. 9 Sep 2024 ko vidhayak ke Bhadohi nivas par gharelu sahayika (Nazia) ka shav mila; 13-14 Sep 2024 ko FIR — BNS dhara 108 (abetment of suicide) aur bonded-labour/human-trafficking (BNS 143(4)/(5), JJ Act, Bonded Labour Act) — police ne aarop lagaya ki naabaalig ladkiyan bina vetan bandhua mazdoor ke roop me rakhi gayi thin. Vidhayak ne 19-20 Sep 2024 ko surrender kiya; jail rahe. Allahabad High Court ne Jun 2025 me abetment case me aur Jul 2025 me bonded-labour case me zamaanat di (PTI); Oct 2025 me HC ne MP/MLA court me trial proceedings par stay de diya (LawBeat), aur patni Seema Beg ke khilaf trafficking/bonded-labour ka charge sheet quash kar diya. Vidhayak ke vakeel ka tark: aarop jhoothe aur rajnaitik prerana se. Abhi tak conviction ki koi reporting nahi; case HC stay par adhin. Guilt-by-association se bachen — patni/putr par alag cases me bhi bail/anticipatory bail hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Vidhayak nidhi kharch me pichhadna — FY 2024-25 me sirf Rs2.28 crore ke prastav',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'StreetBuzz, Mar 2025',
+    sourceUrl: 'https://streetbuzz.co.in/newsapp/view/post:561582',
+    date: '2025-03',
+    note: 'CHHOTA OUTLET (StreetBuzz) — disclose. Report: vittiya varsh samapt hone se 15 din pehle Bhadohi ke 3 vidhayakon me vidhayak nidhi (Rs5 crore) kharch karne me Zahid Beg sabse peeche — sirf Rs2.28 crore ke prastav svikrit (sabse zyada street-light ke), jail me hone se kharch nahi kar pa rahe the. Isi article me ye bhi ki FY 2022 aur 2023 me wo kharch karne me sabse aage rahe. PD ke havale se: prastav vidhayak ke aane par hi kaam hota hai. Status: FY 2024-25 ki svikriti-sthiti report; kharch shunya nahi, pichhda hua.',
+    period: '2022-2027',
+  },
+],
+// rejected:
+// - Bhaskar (May 2025): Madhosingh overbridge nirman + 1967 wale Mirzapur Shastri pul jeernoddhar ki vidhansabha maang — sirf maang/proposal, reject.
+// - Bhaskar interview me 2012-17 ke daave (4 overbridge, Carpet Expo Mart, 100-bed hospital) — pre-Mar-2022 tenure, reject.
+// - Bhaskar (May 2025): Manikarnika ghat Ahilyabai Holkar murti / Shankaracharya ke shishyon ka mamla — Vidhyanchal-mandal politics, district kaam nahi, reject.
+// - TV9 Hindi (Sep 2023): CM Yogi se mulaqat + BJP-joining speculation — development work nahi, reject.
+// - TV9 Hindi (Sep 2023): Feb 2023 Atal Bihari Vajpayee pratima lokarpan me upasthiti — sirf event-maujoodgi, reject.
+// - Amar Ujala (2017): Bhadohi–Machhlishahar fourlane ki Gadkari ghoshna — pre-2022, reject.
+// - Jagran: NH-731B (Varanasi–Machhlishahar via Bhadohi/Durgaganj) ₹650 crore — central NHAI project, article me MLA ki koi concrete bhoomika nahi, reject.
+// - YouTube/public.app/Dailyhunt-only stories on "Zahid Beg" — aggregator/YouTube-only, rule se reject (khoje gaye, credible standalone source nahi mila).
+'vipul-dubey': [
+  {
+    title: 'Kudi Khurd aur Shantipur me do sarkari nalkoopon ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Nov 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/bankatuparwar/news/mla-vipul-dubey-inaugurated-two-new-tube-wells-136441876.html',
+    date: '2025-11',
+    note: 'Deegh block ke Konia kshetra ki gram panchayat Kudi Khurd aur Shantipur me do naye rajkiya nalkoop banakar taiyaar — MLA ne 17 Nov (Somwar) ko lokarpan kiya. Uddeshya: sinchai ki samasya dur karna. Status: lokarpan/purna. Lagat article me nahi di gayi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Harirampur se Khargapur Prayagraj border tak 12 km sadak ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, Dec 2025',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/bhadohi-harirampur-to-khargapur-road-construction-begins-with-206-lakh-project-40063466.html',
+    date: '2025-12',
+    note: 'Harirampur gaon ke Bhurra hote hue Khargapur (Bhadohi–Prayagraj border) tak 12 km sadak nahar patri par banegi — lagat 206.69 lakh; MLA ne shanivar ko shilanyas kiya. Pariyojna Gyanpur Nagar Panchayat se swikrit. Status: shilanyas (nirman shuru). Date approx — article me sirf shanivar likha hai; 6 Dec 2025 shanivar tha, us hisaab se.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Singhpur nahar se Khargapur border tak sadak chaudaikaran ka shilanyas — 16.70 cr',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/gyanpur-road-project-inauguration-vipul-dubey-137530323.html',
+    date: '2026-03',
+    note: 'Deegh vikas khand me Singhpur nahar se Khargapur (Prayagraj border) tak sadak ke chaudikaran aur sudridhikaran ki pariyojna — lagat 16.70 cr; MLA ne Gandhi nahar puliya ke paas bhumi-pujan karke shilanyas kiya. Status: shilanyas (nirman shuru). Date approx — article me sirf budhwar likha hai; 11 Mar 2026 budhwar tha, us hisaab se.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Gopiganj–Durgaganj marg chaudikaran ka bhumi-pujan — 70.20 cr',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/gyanpur-mla-vipul-dubey-bhumi-pujan-gopiganj-durgaganj-road-137546706.html',
+    date: '2026-03',
+    note: 'Abholi vikas khand ke Kusauli gaon me Bhadohi–Durgaganj se Gopiganj marg ke chaudikaran/sundarikaran ki 70.20 cr ki pariyojna — MLA ne shukrawar ko bhumi-pujan karke shilanyas kiya. Status: shilanyas (nirman shuru). Date approx — article me sirf shukrawar likha hai; 13 Mar 2026 shukrawar tha, us hisaab se.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pali–Suriyawan marg ka lokarpan — 10.89 cr',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/bhadoni/story-inauguration-of-pali-suriyawan-road-by-mla-vipul-dubey-enhances-connectivity-201774978685101.html',
+    date: '2026-03',
+    note: 'Gyanpur–Durgaganj marg se hokar Suriyawan ko jodne wali Pali–Suriyawan sadak banakar taiyaar — lagat 10 cr 89 lakh 38 hazaar; MLA ne mangalwar ko Ghorha gaon (Mahjuda bazaar ke paas) me lokarpan kiya. Status: lokarpan/purna. Date pakki — Hindustan ki report 31 Mar 2026 (mangalwar) ki hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Baba Hariharnath Mandir dharmashala aur Balipur baraat ghar ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/bhadohi/gyanpur/news/gyanpur-mla-vipul-dubey-inaugurates-harhar-nath-temple-dharmashala-baraat-ghar-138352898.html',
+    date: '2026-07',
+    note: 'Gyanpur nagar me dedh cr se zyada ki pariyojnaon ka lokarpan — Vandan Yojana se bani Baba Hariharnath Mandir dharmashala (lagat 1 cr 7 lakh 80 hazaar) aur Ward 9 Balipur me swatantrata sangram senani Sheetal Pal ki smriti me baraat ghar (lagat 62 lakh). MLA ne shukrawar ko udghatan kiya. Status: lokarpan/purna. Date approx — article me sirf shukrawar likha hai; 3 Jul 2026 shukrawar tha, us hisaab se.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ganga par Dhan Tulsi–Dengurpur paka pul ka bhumi-pujan — 320 cr',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Zee News, Sep 2026',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/prayagraj/bhadohi-prayagraj-ganga-bridge-foundation-laid-after-30-years-project-worth-rs-320-crore/3246139',
+    date: '2026-09',
+    note: 'Bhadohi ke Dhan Tulsi ghat se Prayagraj ke Dengurpur ghat tak Ganga par ~320 cr ka paka pul — lagbhag 1320 meter lamba, 13 paye; MLA ne Tulsi Kala ghat par bhumi-pujan karke shilanyas kiya. Dec 2025 ki Jagran report me ye pul prastavit tha (takniki prakriya chal rahi thi) — ab nirman shuru. Status: shilanyas (nirman shuru). Date approx — Zee News ki late-Sep 2026 report ke aadhaar par; Bhaskar (Sitamadhi) ne bhi isi bhumi-pujan ko cover kiya tha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Baradih me adhure nali-interlocking kaam par lokarpan-shilapatth — MLA ka khandan (negative)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'StreetBuzz, Mar 2025',
+    sourceUrl: 'https://streetbuzz.co.in/newsapp/view/post:561582',
+    date: '2025-03',
+    note: 'Negative reporting: Gyanpur nagar panchayat Ward 2 Baradih me DUDA ki 12.76 lakh ki nali+interlocking pariyojna (Shani Rawat ke ghar se prathmik vidyalaya tak) me aadha kaam hone par bhi 1 March ko MLA ke naam ka lokarpan-shilapatth lagaya gaya. MLA ka khandan explicit — unke mutabik Vikas Bhawan me samuhik roop se shilanyas/lokarpan hua tha, adhure kaam ki jaankari unhe nahi thi, jaanch ki maang ki aur DUDA adhikariyon se baat karne ko kaha. Chhota outlet (StreetBuzz) — independent verification nahi.',
+    period: '2022-2027',
+  },
+],
+
+// rejected:
+// - FreePressJournal / Hindusthan Samachar / India United Press (Oct 2026) — CM Yogi carpet-expo event me MLA sirf maujood tha; event-maujoodgi, koi concrete kaam nahi.
+// - Live Hindustan (Dec 2025) "CM se mile vidhayak" — CM se mulakat me sirf vikas karyon par charcha/maang; koi concrete kaam nahi.
+// - Live Hindustan (Dec 2025) district development monitoring committee meeting — sirf baithak/charcha; koi concrete kaam nahi.
+// - New Indian Express (May 2022) — Vijay Mishra conspiracy FIR: MLA hatya-sazish ka target tha; crime news, kaam-entry nahi.
+// - Amar Ujala (Jul 2024) Abhiyan-Suriyawan CC marg gunvatta shikayat — article me MLA ka koi sambandh nahi; guilt-by-association.
+// - Amar Ujala (Jul 2024) 49 roads / 7.95 cr — sirf PWD proposal, swikriti pending; MLA ki bhoomika article me nahi.
+// - Jaideshnews (Sep 2026) Seva Sankalp blood donation camp — MLA camp me maujood tha; concrete kaam nahi.
+// - Swatantra Prabhat (Pali-Suriyawan marg version) — page load timeout; wahi khabar Live Hindustan se cite ki (duplicate).
+// - Bhaskar Sitamadhi (Dhan Tulsi-Degurpur bridge) — Zee News wale bhumi-pujan ki duplicate report.
+// - dainik.bhaskar short link (Suriyawan-Pali chaudikaran aniyamitta) — app-redirect par unreadable; snippet me MLA ki bhoomika nahi.
+// - YouTube interview (May 2022) — YouTube-only source.
+// - ABP Live / News18 / Oneindia (Mar 2022) — chunaav result coverage; kaam-entry nahi.
+'dinanath-bhashkar': [
+  {
+    title: 'Sarai Pathkani (Gopiganj) me 700-meter interlocking sadak ka lokarpan — Rs25.74 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, ~28 Jun 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/bhadoni/story-inauguration-of-interlocking-road-in-gopiganj-village-enhances-connectivity-201782647328763.html',
+    date: '2026-06-28',
+    note: 'Gyanpur vikas khand ke Sarai Pathkani gaon (Gopiganj) me Grameen Abhiyantrik Vibhag dwara nirmit 700-meter interlocking sadak (lagat ~Rs25.74 lakh) ka lokarpan aurai vidhayak ne kiya. Status: lokarpan — purna nirmit karya. Nidhi/funding source article me nahi bataya gaya. Date caveat: page par exact date nahi thi — search-index ke "107 din pehle" se 28 Jun 2026 anumanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Koilara uchch prathamik vidyalaya me navnirmit kaksha-kaksh aur smart class ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 2 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/bhadoni/story-inauguration-of-new-classroom-and-smart-class-at-koilara-school-with-awards-for-students-201775150850651.html',
+    date: '2026-04-02',
+    note: 'Vikas khand Aurai ke uchch prathamik vidyalaya Koilara (Gopiganj) me navnirmit kaksha-kaksh ka lokarpan, praveshotsav, pustak vitaran aur smart kaksha-kaksh ka udghatan — vidhayak mukhya atithi ke roop me udghatanakarta; saath me BSA Shivam Pandey bhi. Status: udghatan — purna/nirmit suvidha. School shiksha vibhag ka karyakram; vidhayak nidhi ka ullekh article me nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Trilokpur bhoomi vivad: vidhayak par avaidh khandja-nirman me sahyog ka aarop — kisanon ka collectorate par virodh (vidhayak ne aarop nakare)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 24 Aug 2022',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/bhadohi-villagers-created-ruckus-on-the-collectorate-against-mla-aurai-23008408.html',
+    date: '2022-08-24',
+    note: 'Aarop: Trilokpur nivasi Rajendra Prasad Bind ka daava — unki niji bhoomi (Chakdhundha rajasva gaon, GT Road se Asnanv marg par, vidhayak avas ke samne) hadapne ke liye vidhayak vipakshiyon ka sahyog kar rahe hain aur jabran nirman karwa rahe hain; civil judge ke sthagan adesh ke bavjood 21 Aug ko vidhayak ke ishare par sadak/khandja bichhwaya gaya (gaon ke sachiv Sikandar se eent-patthar girwaye gaye). Sekdon grameenon ne collectorate par ~2 ghante virodh kiya; ADM (Shailendra Kumar Mishra) aur SDM Gyanpur ne 3 din me nistaran ka bharosa diya. Vidhayak ka paksh (article me uddhrit): vivadit bhoomi se unka koi lena-dena nahi, badnam karne ke liye naam joda ja raha hai; DM-SSP se naapi karakar nistaran karane ko kaha; sthagan adesh virodhiyon ne hi liya hai. Status: aarop/vivad — koi FIR/case ya aage ke parinam ki khabar nahi mili; aarop abhi aarop hain, dosh siddh nahi.',
+    period: '2022-2027',
+  },
+],
+// rejected:
+// - Jagran report-card "Aurai vidhayak ka report card" (5 Sep 2026): vidhayak ke daave (₹700cr shasan-star karya, ~₹20cr nidhi, composite schools Girdbadgaon/Bhidiura, substations Ghosiya/Devnathpur, 150 transformers, Ravidas/Chakva mandir saundaryikaran, Khamaria NP CC road/sewer, 100+ sadaken, 12 sadak chaudikaran) — canonical jagran.com URL nahi mila (sirf preprod hosts org432akamprepod/org374nextwww.jagran.com par indexed); sourceUrl rule ke kaaran use nahi kiya gaya. Daavon ka independent verification bhi nahi mila.
+// - ECC kits vitran 50 anganwadi kendron ko (Hindustan, 24 Jan 2026): sarkari karyakram me vidhayak sirf mukhya atithi; koi concrete karya nahi — sirf event-maujoodgi, reject.
+// - Tender Hearts English School Ghosia varshik utsav udghatan (bhaskar.com, ~Feb 2026): private school event me deep-prajwalan — sirf event-maujoodgi, reject.
+// - Pradhanadhyapak-gram pradhan unmukhikaran karyakram, Aurai block (bhaskar.com, ~Mar 2026): vidhayak ne pradhano ko sammanit kiya; school-kayakalp ka kaam pradhano ka, vidhayak ka karya nahi — reject.
+// - Ghosia Urban Ayushman Arogya aspatal udghatan (~May/Jun 2025): YouTube-only (Newstimeup channel, Express bureau YouTube report) — text press source nahi mila, reject.
+// - 14 sadakon ka shilanyas (Mar 2026), ₹1cr pariyojanaon ka udghatan (Jan 2026), 6 jagahon par interlocking sadak lokarpan (Feb 2025), Sahsepur-Kathari road udghatan, PCC sadak udghatan (Sep 2026): sab YouTube-only, reject.
+// - ₹11 lakh COVID fund CMO ko vidhayak nidhi se (rninews.co.in, Mar 2020): pre-Mar-2022 tenure (2017-22 karyakal), reject.
+// - 2019 polling-officer maarpeet FIR (Business Standard/ANI, May 2019) + MP-MLA court dwara mukadma-vapsi arji kharij (Zee News, ~Jan 2022): pre-tenure, reject.
+// - Casteist-remarks case 10 logon par FIR (NDTV, Oct 2018): pre-tenure, reject.
+// - Aurai thanedar tabadla (Patrika, ~Feb 2018): pre-tenure, reject.
+// - Zila vikas karyanushravan samiti baithak (Swatantra Prabhat, ~May 2026): samiksha baithak, nirdesh; koi concrete karya nahi — reject.
+// - Vidhayak nidhi upyog story, teenon Bhadohi vidhayak (StreetBuzz, ~Mar 2025): page khula nahi (verify nahi ho paya); chhota outlet; fund-proposal news, concrete karya nahi — reject.
+// Entries: 3 (2 positive news + 1 negative news). Rejects: 12.
 };
