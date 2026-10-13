@@ -14689,3 +14689,114 @@ upWorks['manohar-lal'] = [
 // 7. Amar Ujala (27 May 2025): CHC Talbehat/Mahroni oxygen plant band — plant 2021 me laga (pre-Mar-2022 tenure filter se bahar); status bhi kharab (machine kharab, band pada).
 // 8. Dainik Bhaskar (23 Oct 2021): kisanon ko dhamkane ka aarop — pre-Mar-2022 + negative.
 // 9. Amar Ujala: 2017 namankan aur ward-development stories — pre-2022, karya nahi.
+
+// ---- Kanpur Dehat district batch (researched 2026-10-13) ----
+upWorks['poonam-sankhwar'] = [
+
+  {
+    title: 'Bhiti-Kursi-Indramani Nivada sadak marammat (Rs 1.33 crore) ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 28 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kanpur/story-road-repair-initiated-after-voting-boycott-in-indramani-nivada-village-201766940999913.html',
+    date: '2025-12-28',
+    note: 'Bhiti se Kursi hote hue Indramani Nivada tak lagbhag 3.5 km jarjar sadak ki marammat; lagat Rs 133 lakh; kisi vibhag ke antargat na aane se PWD me shamil karakar manzoori mili; Vidhayak ne Ravivar ko poojan ke saath shubharambh kiya. Prishthabhoomi: 2024 Lok Sabha chunav me gaon walon ne isi kharab sadak par matdan ka bahishkar kiya tha. Status: shubharambh (nirmanadheen) — purnata ki alag khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Juriya-Jhinjhak marg (Rs 1.20 crore) ke nirman ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 18 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kanpur/story-inauguration-of-long-awaited-road-construction-by-mla-poonam-sankhwar-201766082152058.html',
+    date: '2025-12-18',
+    note: 'Khamhaila gaon ke majra Jhalua se Juriya ko jodne wali lagbhag 2.5 km damar sadak; budget Rs 1.20 crore swikrit; Vidhayak ne Guruwar ko poojan-archan ke saath nirman ka shubharambh kiya. Article me ye bhi darj hai ki unhone is marg ke nirman ki maang ko lekar pehle CM ko maang patra saunpa tha — yaani maang + shubharambh dono unse jude hain. Status: shubharambh (nirman shuru) — purnata ki khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dudha Mahua gaon ki 30 saal purani maang: Rs 1.23 crore sadak marammat ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 27 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kanpur/story-road-construction-launched-in-dudha-mahua-village-after-30-years-of-demand-201766768868354.html',
+    date: '2025-12-26',
+    note: 'Rasulabad-Bela road se Dudha Mahua gaon jane wali lagbhag 2.25 km sadak (pehli baar 1992 me bani thi) ki marammat; Rs 123.32 lakh manzoor; gaon wale 30 saalon se maang kar rahe the; Vidhayak ne poojan-archan ke saath kaam shuru karaya. Date (est.): article me "Shukrawar" ka zikr hai aur publish 27 Dec 2025 12:14 am hai → karyakram 2025-12-26 (Shukrawar) ko hua. Status: shubharambh (nirmanadheen) — purnata ki khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jot se Yamdagni Ashram tak sadak (Rs 1.54 crore) ka bhumi-poojan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Jun 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kanpur/story-road-construction-approved-from-jot-village-to-yamdagni-ashram-with-1-54-crore-investment-201781029193494.html',
+    date: '2026-06-09',
+    note: 'Jot gaon se Yamdagni Ashram hote hue Kachhwahan Nivada tak lagbhag 2.2 km sadak; lagat Rs 1.54 crore; PWD se manzoori ke baad Vidhayak ne bhumi-poojan ke saath kaam shuru karaya; Shivratri/Sawan me mandir jane wale hazaron bhakton ko labh hoga. Date (est.): article page ki date-line fetch me nahi dikhi; article me "Mangalwar" ka zikr hai aur search metadata "126 days before 2026-10-13" → 2026-06-09 bhi Mangalwar hai, isliye ye date. Status: bhumi-poojan ke saath nirman shuru — purnata ki khabar nahi mili.',
+    period: '2022-2027',
+  },
+];
+upWorks['pratibha-shukla'] = [
+
+  {
+    title: 'Akbarpur CHC me Health ATM ka udghatan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, Oct 2022',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-dehat-take-investigation-report-in-akbarpur-chc-in-five-minutes-minister-of-state-inaugurated-health-atm-akbarpur-news-knp7233079126',
+    date: '2022-10',
+    note: 'Akbarpur CHC me Health ATM ka udghatan Rajya Mantri Pratibha Shukla ne feeta kaatkar kiya; 5 minute me 50+ jaanch (blood sugar, dengue, malaria, typhoid, pregnancy test aadi) nishulk; tele-consultancy se visheshagya salah. Disclosure: udghatan unhone kiya, lekin Health ATM AFPL Global Pvt Ltd company ki CSR fund se lagwaya gaya tha — sarkari kharch ka daava nahi hai. Date (est.): article page ki date-line fetch me nahi dikhi; article me "Shukrawar" ka zikr hai aur search metadata "~1459 days before 2026-10-13" → Oct 2022; mahina sure hai, din andaza hai. Status: udghatan (complete).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Akbarpur-Raniya me Rs 7.43 crore ki 9 sadkon ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 3 Apr 2026',
+    sourceUrl: 'https://www.jagran.com/uttar-pradesh/kanpur-dehat-kanpur-dehat-9-new-roads-approved-743-cr-project-40193437.html',
+    date: '2026-04-03',
+    note: 'Rajya Mantri Pratibha Shukla ke prastav par Akbarpur-Raniya kshetra me 9 sadkon ke nirman ko shasan se swikriti mili aur dhanrashi bhi jaari ho gayi; PWD dwara nirman hoga. Sadken: Akbarpur highway-Bamba-Banaalipur (puliya sahit interlocking), Rindi nadi pul Guteha-Gahlau bazar marg, Rasoolpur-Gogumau marg, Lamhara-Padampur-Bhojpur, Vikrampur-Raypur-Bhavanipur sampark marg, Kalyanpur-Shivli-Ramjanki mahavidyalaya-Lukaiyapurwa fanda, Bhaupur-Pratappur-Kiratpur Madaiya, Baghpur-Ludhaura-Hridaypur Gokula-Lokiyapur. Status: swikrit + dhanrashi jaari — tender/nirman shuru ki khabar nahi mili.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Akbarpur-Raniya me Rs 10.67 crore ki 8 navin sadkon ki prashasnik/vittiya swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, Aug 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/kanpur/story-uttar-pradesh-approves-eight-new-roads-in-akbarpur-raniya-constituency-201787768392014.html',
+    date: '2026-08',
+    note: 'Rajya Mantri ne sadak nirman ke prastav CM Yogi Adityanath ko saunpe the; CM ke nirdesh par PWD ne 8 navin sadkon ki prashasnik aur vittiya swikriti jaari kar di; kul lagat Rs 10.67 crore; PWD khand-1 tender poora karke nirman karayega. Sadken: Naharpur-Bhimpur, Surajpur primary vidyalaya-Gudsar sampark marg, Lalpur-Saraiyan primary school, M-19 Badhapur underpass-Badhapur puliya, Makrandpur Sankatmochan mandir-Shekhupur primary pathshala, Maitha Hathika Kudhwa-Panka Devi mandir-Jharakhandeshwar ashram, Swami Bhaskaranand mandir-Shumbha Devi mandir, Anne Hetpur-Goshala marg. Date (est.): article ki date-line fetch me nahi dikhi; search metadata "48 days before 2026-10-13" → Aug 2026. Note: ye 3 Apr 2026 wali 9 sadkon (Rs 7.43 crore, Jagran) se alag package hai. Status: swikrit — tender/nirman shuru ki khabar nahi mili.',
+    period: '2022-2027',
+  },
+];
+upWorks['ajit-singh-pal'] = [];
+upWorks['rakesh-sachan'] = [
+  {
+    title: 'Bhognipur ke paas Haldharpur railway crossing par naya overbridge khula — Rakesh Sachan ne kiya udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nation Now Samachar, Nov 2025',
+    sourceUrl: 'https://nationnowsamachar.com/headlines/kanpur-dehat-newly-constructed-overbridge-at-haldharpur-railway-crossing-near-bhognipur-opens-inaugurated-by-minister-rakesh-sachan-will-provide-relief-from-traffic-jams',
+    date: '2025-11',
+    note: 'Bhognipur-Haldharpur marg par railway crossing ke upar naya uparigami pul (Pukhrayan-Bhognipur aur darjanon gaanv ko jodne wala mahatvapurna marg) janata ke liye khol diya gaya; Cabinet Minister Rakesh Sachan ne vidhi-vidhan se udghatan kiya. Shilanyas 30 May 2023 ko hua tha; karyadayi sanstha CCC ki dheemi gati se lagbhag 2 saal ki deri hui. Status: udghatan/completed. Date disclosure: page par exact date nahi likhi — article ke image URLs (2025/11) Nov 2025 ki taraf ishara karte hain, isliye (est.) 2025-11.',
+    period: '2022-2027',
+  },
+  {
+    title: 'NH-25 se Chandpur-Malasa, Devipur-Kailai se Baraur hote hue Balhramau tak 26.5 km sadak chaudiakaran ka bhoomipujan-shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Aman Yatra, Oct 2023',
+    sourceUrl: 'https://amanyatralive.com/%e0%a4%95%e0%a5%88%e0%a4%ac%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%9f-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%87%e0%a4%b6-%e0%a4%b8%e0%a4%9a%e0%a4%be-3/',
+    date: '2023-10',
+    note: 'Bhognipur Vidhan Sabha kshetra ke antargat NH-25 se Chandpur-Malasa, Devipur-Kailai se Baraur hote hue Balhramau tak 26.5 km sadak marg chaudiakaran ka bhoomipujan aur shilanyas Devipur kasbe me Cabinet Minister Rakesh Sachan (jiladhyaksh Manoj Shukla ke saath) dwara kiya gaya. Status: shilanyas (nirmaan shuru hona tha; poornata ki news me pushti nahi). Date disclosure: page par exact date nahi — article images 2023/10 uploads ke hain, isliye (est.) 2023-10.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhognipur thana parisar me 48 police karmiyon ke liye naya hostel aur barrack ka udghatan/nirikshan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Aman Yatra, Jun 2026',
+    sourceUrl: 'https://amanyatralive.com/%E0%A4%AA%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A5%8B-%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A5%80-%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%B8/',
+    date: '2026-06',
+    note: 'Pragati Path Yatra ke dauran Bhognipur thana parisar me Graameen Abhiyantran Vibhag dwara banwaya gaya hostel (48 policekarmiyon ki rehne ki vyavastha) aur barrack — Cabinet Minister Rakesh Sachan ne iska nirikshan kiya aur khabar ke headline ke anusaar udghatan kiya. Status: completed work, samarpit. Attribution disclosure: headline "udghatan" kehta hai jabki body text me "nirikshan" likha hai — entry is mixed reporting ke saath li gayi hai. Date disclosure: page par exact date nahi — search metadata (est.) Jun 2026.',
+    period: '2022-2027',
+  },
+];
