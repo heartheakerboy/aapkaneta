@@ -3203,4 +3203,63 @@ export const gujWorks: Record<string, Work[]> = {
     },
   ],
   // note: dr-jayrambhai-chemabhai-gamit (Nizar, BJP, Oct 2025 se MoS) — credible constituency-specific kaam nahi mila; coverage sirf mantri-capacity me ya events me upasthiti ki hai. imaandaar khaali.
+  // ---- Devbhoomi Dwarka district batch (researched 2026-10-13) ----
+  'ayar-mulubhai-hardasbhai-bera': [
+    {
+      title: 'Khaatmuhurat: Khambhaliya-Ahir Simhan ₹9.28cr marg, MLA Mulubhai Bera ke haathon',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Feb 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/dwarka/news/the-road-was-formally-laid-by-the-mla-137208189.html',
+      date: '2026-02-01',
+      note: 'Dharampur (Khambhaliya) me Veer Balaji Hanuman mandir ke paas Khambhaliya se Ahir Simhan tak ₹9.28cr ke marg ka vidhivat khaatmuhurat Mulubhai Bera ke varad-hast se hua; Dharampur, Ahir Simhan samet ~10 gaon judte hain. (exact date page par nahi mili; "240 din pehla" se anumanit)',
+    },
+    {
+      title: 'Bhanvad taluka me ₹1.30cr+ vikas prakalpon ka lokarpan — 4 Ayushman Arogya Mandir',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Akashvani News (AIR), 13 Jul 2025',
+      sourceUrl: 'https://newsonair.gov.in/gu/%e0%aa%95%e0%ab%87%e0%aa%ac%e0%aa%bf%e0%aa%a8%e0%ab%87%e0%aa%9f-%e0%aa%ae%e0%aa%82%e0%aa%a4%e0%ab%8d%e0%aa%b0%e0%ab%80-%e0%aa%ae%e0%ab%81%e0%aa%b3%e0%ab%81%e0%aa%ad%e0%aa%be%e0%aa%87-%e0%aa%ac/',
+      date: '2025-07-13',
+      note: 'Bhanvad taluka (Khambhaliya matvistaar) me Dhebhar, Ranpar, Reta Kalavad aur Sai Devaliya me navnirmit Ayushman Arogya Mandiron ka lokarpan Bera ne khud kiya. Note: ye unhone cabinet mantri ke roop me kiya, par kaam apne matvistaar ka hai.',
+    },
+    {
+      title: 'Bhanvad me taluka library khaatmuhurat + ₹78L+ prakalpon ka lokarpan — 3 Ayushman Arogya Mandir',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Akashvani News (AIR), 23 Mar 2025',
+      sourceUrl: 'http://newsonair.gov.in/gu/%E0%AA%AF%E0%AB%81%E0%AA%B5%E0%AA%BE%E0%AA%A8%E0%AB%8B%E0%AA%A8%E0%AB%80-%E0%AA%89%E0%AA%9C%E0%AB%8D%E0%AA%9C%E0%AA%B5%E0%AA%B3-%E0%AA%95%E0%AA%BE%E0%AA%B0%E0%AA%95%E0%AA%BF%E0%AA%B0%E0%AB%8D%E0%AA%A6/',
+      date: '2025-03-23',
+      note: 'Bhanvad shahar me adyatan sarkari taluka library ka khaatmuhurat aur taluke me ~₹78L se adhik ke prakalpon ka lokarpan Bera ne kiya; Ambardi, Katkola aur Sankhala me navnirmit Ayushman Arogya Mandir ka udghatan. Note: cabinet mantri ke roop me kiya, par kaam apne matvistaar (Khambhaliya) ka hai.',
+    },
+    {
+      title: 'Bera ki rajooat par CM ne Khambhaliya ke 2 margon ke liye ₹12.50cr ki manzoori di',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jun 2025 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/dwarka/news/two-important-roads-will-be-renovated-in-khambhaliya-135289523.html',
+      date: '2025-06-01',
+      note: 'Mahaprabhuji bethak se Ahir Simhan (₹9cr) aur Khambhaliya shahar se Ramnagar (₹3.5cr) margon ke navinikaran ke liye CM ne raashi di; article ke anusaar MLA Mulu Bera aur MP Poonamben Madam ki rajooaton par ye nirnay liya gaya. (status: manzoori; exact date page par nahi mili)',
+    },
+  ],
+  'pabubha-virambha-manek': [
+    {
+      title: 'Dwarka Govalyadham me gutter yojana ka khaatmuhurat — MLA Manek ke haathon',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'DivyaBhaskar, Jul 2026 (est.)',
+      sourceUrl: 'https://www.divyabhaskar.co.in/local/gujarat/dwarka/news/dwarka-mla-pabubha-manek-statement-sewerage-project-inauguration-137602903.html',
+      date: '2026-07-01',
+      note: 'Dwarka shahar ke Govalyadham vistaar me gutter (sewerage) yojana ka khaatmuhurat Dwarka ke MLA Pabubha Manek ke haathon hua; vistaar ke logon ko gutter samasya se rahat ki apeksha. (exact date page par nahi mili; "3 mahine pehla" se anumanit)',
+    },
+    {
+      title: 'Okha nagarpalika chunav prachar me vivadaspad bayan: "rupiye ke jor par chunav binharif hoti hai"',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'TV9 Gujarati, 28 Sep 2026',
+      sourceUrl: 'https://tv9gujarati.com/videos/gujarat-videos/pabubha-manek-dwarka-mla-claims-money-buys-unopposed-elections-1523576.html',
+      date: '2026-09-28',
+      note: 'Okha nagarpalika chunav ke prachar me Manek ne on-record kaha ki rupiye ke jor par chunav binharif hoti hai ("main 25-50 kam karun to chunav binharif ho jaye, sab bikne ko taiyar baithe hain"); video viral, raajnaitik garmaagarmi. (status: vivadaspad bayan — unke khud ke shabd; kisi vastavik lenden ka ilzaam nahi)',
+    },
+  ],
 };
