@@ -65,6 +65,11 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         color: #e2e8f0; text-decoration: none; font-size: 15px; padding: 8px 14px; border-radius: 8px;
       }
       nav.site a:hover, nav.site a.active { background: rgba(255,255,255,.12); color: #fff; }
+      .hamburger {
+        display: none; background: none; border: none; cursor: pointer;
+        color: #fff; font-size: 24px; line-height: 1; padding: 8px 10px; border-radius: 8px;
+      }
+      .hamburger:hover { background: rgba(255,255,255,.12); }
       .nav-drop { position: static; }
       .nav-drop > button {
         color: #e2e8f0; background: none; border: none; cursor: pointer;
@@ -121,13 +126,21 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
       }
       .section-title { font-size: 24px; margin: 40px 0 16px; }
       @media (max-width: 720px) {
-        .bar { padding: 12px 14px 10px; gap: 10px; flex-wrap: wrap; }
+        .bar { padding: 12px 14px 10px; gap: 10px; flex-wrap: nowrap; }
         .brand { flex: 1 1 auto; }
         .brand b { font-size: 17px; }
         .brand small { display: none; }
-        nav.site { flex: 1 1 100%; overflow-x: auto; scrollbar-width: none; gap: 2px; }
-        nav.site::-webkit-scrollbar { display: none; }
-        nav.site a { padding: 8px 12px; font-size: 14px; white-space: nowrap; }
+        .hamburger { display: block; }
+        nav.site {
+          display: none; position: absolute; top: 100%; left: 0; right: 0; z-index: 55;
+          background: var(--ink); flex-direction: column; gap: 2px;
+          padding: 10px 14px 16px; box-shadow: 0 12px 28px rgba(0,0,0,.25);
+        }
+        nav.site.open { display: flex; }
+        nav.site a { padding: 10px 12px; font-size: 15px; white-space: nowrap; }
+        .nav-drop > button { padding: 10px 12px; font-size: 15px; width: 100%; text-align: left; }
+        .nav-panel .wrap { flex-direction: column; align-items: stretch; }
+        .nav-panel label { flex: 1 1 auto; }
         .foot-grid { grid-template-columns: 1fr; }
       }
     </style>
@@ -139,7 +152,8 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
           <span class="brand-mark">अ</span>
           <span><b>AapkaNeta</b><small>har neta ka hisaab, har nagrik ke haath</small></span>
         </a>
-        <nav class="site">
+        <button id="hamburger" class="hamburger" aria-label="Menu kholein" aria-expanded="false" aria-controls="siteNav">☰</button>
+        <nav class="site" id="siteNav">
           <a href="/">Home</a>
           <a href="/gujarat">Gujarat</a>
           <div class="nav-drop">
@@ -211,6 +225,25 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
     </footer>
     <script is:inline>
     (function () {
+      var ham = document.getElementById('hamburger');
+      var nav = document.getElementById('siteNav');
+      if (ham && nav) {
+        ham.addEventListener('click', function (e) {
+          e.stopPropagation();
+          var open = nav.classList.toggle('open');
+          ham.setAttribute('aria-expanded', open ? 'true' : 'false');
+          ham.setAttribute('aria-label', open ? 'Menu band karein' : 'Menu kholein');
+          ham.textContent = open ? '✕' : '☰';
+        });
+        nav.addEventListener('click', function (e) {
+          if (e.target.closest('a') && !e.target.closest('#kshetraBtn')) {
+            nav.classList.remove('open');
+            ham.setAttribute('aria-expanded', 'false');
+            ham.setAttribute('aria-label', 'Menu kholein');
+            ham.textContent = '☰';
+          }
+        });
+      }
       var btn = document.getElementById('kshetraBtn');
       var panel = document.getElementById('kshetraPanel');
       var selD = document.getElementById('selDistrict');
