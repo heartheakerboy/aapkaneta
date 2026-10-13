@@ -9877,4 +9877,120 @@ export const upWorks: Record<string, Work[]> = {
       period: '2022-2027',
     },
   ],
+  // ---- Sant Kabir Nagar district batch (researched 2026-10-13) ----
+// Anil Kumar Tripathi (NISHAD), Menhdawal (Sant Kabir Nagar), UP — researched 2026-10-13.
+// RESEARCH TRAIL:
+// - Searches: Hindi "अनिल कुमार त्रिपाठी विधायक मेंहदावल विकास कार्य शिलान्यास",
+//   "अनिल त्रिपाठी मेंहदावल विधायक अस्पताल स्कूल उद्घाटन शिलान्यास",
+//   "अनिल त्रिपाठी विधायक मेहदावल लोकार्पण पेयजल बाढ़",
+//   "अनिल त्रिपाठी मेहदावल विधायक 2023 शिलान्यास उद्घाटन सड़क";
+//   English: "Anil Kumar Tripathi MLA Menhdawal Sant Kabir Nagar news",
+//   "Anil Tripathi MLA Menhdawal inaugurates road school hospital project",
+//   "Anil Kumar Tripathi Menhdawal Nishad party controversy FIR case MLA".
+// - REJECTED (weak attribution — sirf ribbon-cutting / mukhya atithi):
+//   1. Loharsan (Santha) me Kaushal Vikas swasthya-prashikshan kendra ka udghatan
+//      (Dainik Bhaskar, ~Jan 2026, ID 136177145) — kendra UPSDM/संस्था ne lagaya, MLA sirf fee ta karke udghatan me mukhya atithi the.
+//   2. Baghauli vikas-khand me Kaushal Vikas Mission prashikshan kendra ka shubharambh
+//      (Dainik Bhaskar, ~Mar 2026, ID 136642534) — wahi pattern.
+//   3. 'Jal Arpan-2026' karyakram me payjal yojna ka nirikshan (Dainik Bhaskar, 22 Mar 2026) — sirf nirikshan; no work created.
+//   4. Brijesh Pathak dwara Shivbakhari CHC nirikshan me Anil Tripathi sirf उपस्थिति me the (tahalkanewslive, ~Sep 2026).
+// - REJECTED (non-credible/single-source rule): public.app video "gajouli mudila khurd me nalkup lokarpan"
+//   (~Jul 2025) — public.app-only, isliye reject.
+// - REJECTED (galat neta): 2019 ka "juta-kaand" Sharad Tripathi (MP) vs Rakesh Singh Baghel
+//   (purane MLA) ka tha — Anil Kumar Tripathi us samay MLA nahi the.
+// - No tenure-period negative news found (old criminal cases affidavit-level hain; negative entry nahi banayi).
+// - Interview-based 'dawa' entries: Dainik Bhaskar ne reporter ke interview ke roop me publish kiya — rule ke anusaar dawa badge allowed.
+// Dates: Bhaskar articles me exact date nahi, page par relative ("4 mahine pehle" ~Jun 2026; "8 mahine pehle" ~Feb 2026) — isliye (est.) label.
+  'anil-kumar-tripathi': [
+    { title: 'Sade Kala se Sohrawaliya Purwa marg ka bhumi-pujan aur shilanyas', category: 'Sadak', badge: 'news', sourceLabel: 'Dainik Bhaskar, Jun 2026 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/mehdawal/news/sant-kabir-nagar-vidhayak-anil-tripathi-road-inauguration-137451565.html', date: '2026-06', note: 'Vidhan Sabha kshetra me Sade Kala se Sohrawaliya Purwa marg ke nirmaan ke liye vidhayak ne bhumi-pujan aur shilanyas kiya; vibhagiya adhikariyon ko quality aur time-limit ke nirdesh diye. Status: SHILANYAS.', period: '2022-2027' },
+    { title: 'Menhdawal kshetra ki 5 mahatvapurna sadkon ke nirmaan ko CM se swikriti', category: 'Sadak', badge: 'news', sourceLabel: 'Hindustan (livehindustan.com), 02 Mar 2026', sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-uttar-pradesh-cm-yogi-adityanath-approves-road-construction-for-enhanced-connectivity-in-santkabir-nagar-201772426440741.html', date: '2026-03-02', note: 'Mukhya Mantri Yogi Adityanath ne 5 sadkon ke nirmaan ko swikriti di — Musahra me Goura sampark marg, Rajedih-Baurvyas marg se Pataana Khas sthit Rajkiya Mahila Degree College tak sadak, Itawa-Siktaur marg ka avshesh hissa, Babhni-Mudila sampark marg, aur Pipra me Karahna mandir se Pipra sampark marg. Article ke anusaar swikriti vidhayak ke prayason se mili. Status: SWIKRITI.', period: '2022-2027' },
+    { title: 'Gram panchayat Gagaura ko RCC sadak ki saugaat', category: 'Sadak', badge: 'news', sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/mirwapur/news/mehdawal-mla-anil-tripathi-gave-rcc-road-to-gagaura-136507628.html', date: '2026-02', note: 'Vidhayak ne Gram panchayat Gagaura ko RCC sadak di; article me barson purani jalbharao ki samasya ke samadhan ke roop me report kiya gaya, sthaniya nivasion ne karya ki sarahna ki. Status: LOKARPAN.', period: '2022-2027' },
+    { title: 'Bijli vikas ke daave: 2 naye sub-station, 400+ transformer upgrade, 200+ naye', category: 'Any', badge: 'dawa', sourceLabel: 'Dainik Bhaskar interview, Jun 2026 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/anil-tripathi-claims-focus-road-power-4-years-bakhira-lake-tourism-center-137486743.html', date: '2026-06', note: 'Reporter ke interview me vidhayak ka daava: bijli-sinchai kshetra me 2 naye sub-station (ek poora, ek nirmaanadheen), 400+ transformer upgrade aur 200+ naye lage; 20+ badi sadkon par kaam. Status: DAAVA (interview me news-reported claim, independent verification nahi).', period: '2022-2027' },
+    { title: 'Dharmasinghwa chauthi nagar panchayat; ek mini stadium ban chuka', category: 'Any', badge: 'dawa', sourceLabel: 'Dainik Bhaskar interview, Jun 2026 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/anil-tripathi-claims-focus-road-power-4-years-bakhira-lake-tourism-center-137486743.html', date: '2026-06', note: 'Interview me vidhayak ka daava: pehle 3 nagar panchayaten thi, Dharmasinghwa ko milakar chauthi bani; 2 mini stadium me se ek ban chuka, doosra prakriya me; vidyalayon ka infrastructure behtar. Bakhira jheel tourism aur budhi Rapti ke daave maang/prastav stage par — is entry me shamil nahi. Status: DAAVA.', period: '2022-2027' },
+  ],
+  // RESEARCH-TRAIL: Ankur Raj Tiwari, Khalilabad (BJP) MLA, Sant Kabir Nagar, UP (tenure Mar 2022+).
+  // Searches: Hindi + English (2022-2026). Har source khola aur padha gaya; har entry me MLA ka concrete role verified.
+  // --- ACCEPTED (6 entries) ---
+  // 1. Zee News (Neeraj Tripathi) — Maghar-Ashrafabad ROB ₹64.14 cr, 700m, UP Setu Nigam; shilanyas MLA ne khud kiya (piling machine chalayi), 30-month target. Article date exact nahi (byline me "ravivar", crawl ~Sep 29 2026) → date 2026-09 (est.).
+  // 2. Zee News video article, Mar 19 2025 (timestamped) — Mansir-Molnapur marg (~13 km, SKN-Gorakhpur) chaudiakaran ka shilanyas; MLA ne bhoomi poojan ke baad bulldozer chalaya.
+  // 3. Dainik Bhaskar, Apr 2026 (est., "6 mahine pehle") — Maghar me ~₹16 cr ki pariyojnaon ka lokarpan + shilanyas; MLA ne kiya (nagar dwar sundarikaran sahit).
+  // 4. Dainik Bhaskar, Nov 2025 (est., "11 mahine pehle") — Belduha (Ram Vaidehi/Samay Mata mandir) me ₹1 cr, 2000 sq ft dharmashala ka shilanyas; MLA ne nariyal phodkar bhoomi poojan kiya.
+  // 5. Dainik Bhaskar, Apr 2026 (est.) — Khalilabad Kashiram sports stadium me nav-nirmit gym ka udghatan MLA ne kiya.
+  // 6. Live Hindustan, 19 Jan 2026 (timestamped; somvar = bhoomi poojan ka din) — Khalilabad tehsil parisar me adhivakta chamber (25x100 sq ft, vidhayak nidhi se) ka bhoomi poojan MLA ne kiya. jaideshnews me bhi same event (shilanyas) — mainstream source chuna.
+  // --- NEGATIVE (1 entry) ---
+  // 7. ThePrint (PTI), 22 Jan 2026 + ABP Live — zameen vivad par ek vyakti ne MLA par maarpeet ka aarop lagaya; ASP ne complaint + CO ko jaanch saunpi; MLA ne aaropon se inkaar kiya. Case/FIR ki pushti nahi — ALLEGATION status hi diya gaya hai.
+  // --- REJECTED (research me mile, rules par reject) ---
+  // R1. sahilkidiary.com, ~Mar 2024 — Naurangia-GauryaBhar-Jigina marg (₹2.19 cr) + Bankatiya-Pachpokhari marg (₹29.75 cr) shilanyas: sirf chhota local portal, credibility bar paar nahi karti; sahi attribution bhi MP ke saath shared tha.
+  // R2. anuraglakshya.in, ~Sep 2023 — Dhavariya Panchayat Bhavan (~₹21 lakh) lokarpan: sirf chhote local portal par, mainstream me corroboration nahi mili.
+  // R3. jaideshnews.com — adhivakta chamber shilanyas: livehindustan wala same event; duplicate source ke roop me reject.
+  // R4. Jagran, 31 Dec 2025 — Ashrafabad ROB ki swikriti/kist release: sarkari approval ki khabar, MLA ka concrete role nahi (Zee News wala shilanyas hi entry banaya gaya).
+  // R5. YouTube-only "Medistar Multi Speciality Hospital udghatan": YouTube-only sources rule par reject.
+  // R6. breakingtube.com — 7 sadakon ki quality complaint par PWD jaanch: aggregator + ye "kaam" nahi, shikayat/oversight hai; entry-worthy nahi.
+  // R7. livehindustan Maghar naali dhakkan: sabhasad ne fix kiya, MLA ka role nahi → reject.
+  // R8. YouTube shorts/interviews (Land Cruiser, podcast, MLA report card): koi concrete vikas kaam nahi → reject.
+  // --- DISTRICT-MAPPING FLAG --- Koi nahi. Saare entries Sant Kabir Nagar jile ke andar hain (Khalilabad/Maghar/Belduha); Khalilabad jila HQ hai isliye CM/DM-level khabrein chhani gayi, sirf MLA ke concrete role wali rakhi gayi.
+  'ankur-tiwari': [
+    { title: 'Maghar-Ashrafabad railway crossing par ₹64.14 crore rail overbridge ka shilanyas', category: 'Sadak', badge: 'news', sourceLabel: 'Zee News, Sep 2026 (est.)', sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/basti/bjp-laid-foundation-stone-for-maghar-ashrafabad-railway-crossing-flyover-in-sant-kabir-nagar/3246125', date: '2026-09', note: 'MLA Ankur Raj Tiwari ne Maghar-Ashrafabad railway crossing par ₹64.14 crore lagat wale ~700m rail overbridge ka shilanyas kiya; khud hydraulic piling machine chalakar kaam ka shubharambh kiya. Nirman agency UP Rajya Setu Nigam; 30 mahine (2.5 saal) me poora karne ka lakshya. Status: SHILANYAS — kaam shuru, nirman chal raha hai.', period: '2022-2027' },
+    { title: 'Mansir-Molnapur marg (~13 km) chaudiakaran ka shilanyas', category: 'Sadak', badge: 'news', sourceLabel: 'Zee News, 19 Mar 2025', sourceUrl: 'https://zeenews.india.com/hindi/india/up-uttarakhand/video/sant-kabir-nagar-khalilabad-bjp-mla-ankur-raj-tiwari-laid-foundation-stone-of-road-by-driving-bulldozer/2686561', date: '2025-03-19', note: 'Sant Kabir Nagar ko Gorakhpur se jodne wale ~13 km lambe Mansir-Molnapur marg ke chaudiakaran ka shilanyas MLA ne kiya; bhoomi poojan ke baad khud bulldozer chalaya. Peechle ek dashak se ye sadak badhaal thi. Status: SHILANYAS.', period: '2022-2027' },
+    { title: 'Maghar me ~₹16 crore ki vikas pariyojnaon ka lokarpan-shilanyas', category: 'Any', badge: 'news', sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/bjp-mla-ankurraj-tiwari-santkabirnagar-development-projects-inauguration-137040430.html', date: '2026-04', note: 'MLA ne Maghar me lagbhag ₹16 crore ki vikas pariyojnaon ka lokarpan aur shilanyas kiya (Semra bypass par karyakram; nagar ke pravesh dwar ka sundarikaran sahit). Maghar ke liye ₹10 crore ke aur budget ki swikriti bhi ek saal ke andar hone ki ghoshna. Status: LOKARPAN + SHILANYAS (mixed).', period: '2022-2027' },
+    { title: 'Belduha Ram Vaidehi (Samay Mata) mandir parisar me ₹1 crore dharmashala ka shilanyas', category: 'Any', badge: 'news', sourceLabel: 'Dainik Bhaskar, Nov 2025 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/news/dharamshala-will-be-built-in-ram-vaidehi-temple-complex-in-sant-kabir-nagar-135758631.html', date: '2025-11', note: 'Belduha chauraha sthit Ram Vaidehi (Samay Mata) mandir me 2000 sq ft bhoomi par ₹1 crore ki lagat se dharmashala ke nirman ka shilanyas MLA ne nariyal phodkar bhoomi poojan karke kiya. Status: SHILANYAS — nirman prastavit/shuru.', period: '2022-2027' },
+    { title: 'Khalilabad Kashiram khel stadium me nav-nirmit gym ka udghatan', category: 'Any', badge: 'news', sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)', sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/sant-kabir-nagar/kahlilabad/news/inauguration-of-newly-constructed-gym-in-khalilabad-136918241.html', date: '2026-04', note: 'Khalilabad ke Kashiram sports stadium me nav-nirmit gym ka MLA ne vidhivat udghatan kiya; yuva khiladiyon ke liye aadhunik suvidhaen. Status: LOKARPAN/UDGHATAN.', period: '2022-2027' },
+    { title: 'Khalilabad tehsil parisar me adhivakta chamber (vidhayak nidhi) ka bhoomi poojan', category: 'Any', badge: 'sarkari', sourceLabel: 'Live Hindustan, 19 Jan 2026', sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-new-advocate-chamber-to-be-built-in-khalilabad-sant-kabir-nagar-201768843600235.html', date: '2026-01-19', note: 'Khalilabad tehsil parisar me vidhayak nidhi se banne wale adhivakta chamber (25x100 sq ft) ka bhoomi poojan MLA ne vedic mantrochchar ke beech kiya. Status: SHILANYAS — nirman shuru.', period: '2022-2027' },
+    { title: 'MLA par zameen vivad me maarpeet ka aarop; jaanch adeshit (MLA ne inkaar kiya)', category: 'Any', badge: 'news', sourceLabel: 'ThePrint (PTI), 22 Jan 2026', sourceUrl: 'https://theprint.in/india/man-alleges-assault-by-bjp-mla-in-ups-sant-kabir-nagar-probe-ordered/2834329/', date: '2026-01-22', note: 'ALLEGATION (apramanit): Indrashekhar Kanaujiya ne Khalilabad Kotwali police me shikayat di ki unke bhai Chandrashekhar ko 20 Jan ko zameen vivad par MLA Ankur Raj Tiwari aur unke samarthakon ne peeta. ASP Sushil Kumar Singh ne complaint milne ki pushti ki; jaanch CO Khalilabad ko saunpi. REBUTTAL: MLA ne saare aaropon se inkaar kiya (ABP Live). FIR/case ki pushti nahi mili. Guilt-by-association nahi lagana.', period: '2022-2027' },
+  ],
+  // ---- Sant Kabir Nagar: Dhanghata (researched 2026-10-13) ----
+  // RESEARCH TRAIL (rejected leads):
+  // - Tahalkanewslive, ~Sep 2026: Deputy CM Brijesh Pathak ne Paoli ke nirmanadheen CHC Shivbakhri ka nirikshan kiya; MLA sirf swagat/abhaar me maujood — weak attribution (neta sirf maujood) -> REJECT.
+  // - Lokmat Times (IANS), 25 Jun 2026: CM Yogi ne Dhanghata me ₹224.79 crore ki 65 pariyojanaon ka udghatan/shilanyas kiya; MLA ne sirf venue ka nirikshan kiya — CM ka kaam, MLA ki weak attribution -> REJECT.
+  // - Live Hindustan, ~30 Jun 2026: MLA ne CM Yogi ko 14-sutriya maang-patra saunpa (naye thane, mahila hospital, mandi vistaar aadi) — sirf maang/proposal -> REJECT.
+  // - Live Hindustan, 26 Jun 2026 (Baijunath Dham event): MLA ke bhashan me samanya daave (polytechnic college, stadium) — vague, kisi vishesh karya se jod nahi; koi dawa-worthy concrete claim nahi -> REJECT.
+  // - Tarunmitra, 2026: School Chalo Abhiyan rally me MLA mukhya atithi (hari jhandi) — sirf event presence -> REJECT.
+  // - Amar Ujala, 9 Dec 2025: MLA divangat SHO ke parijano se mile, SP Jalaun se baat ki — samajik/sok-samvedna visit, vikas karya nahi -> REJECT.
+  // - ETV Bharat: Akhilesh Yadav vs MLA bayaan-jung (political statement news) — kaam nahi -> REJECT.
+  // - YouTube (UP Times News, ~2023): vakeelon ka virodh — YouTube-only, credible reporting nahi -> REJECT (negative entry ke liye credible source nahi).
+  // - public.app video posts: aggregator, credible nahi -> REJECT (sirf date corroboration ke liye use hua).
+  // - Live Hindustan, 13 Jul 2024: Mahuli ko nagar panchayat banane ki maang — proposal -> REJECT.
+  // NEGATIVE: koi credible reported allegation/case nahi mila (ourneta.com par "No Criminal Case Found" likha hai, lekin ye news source nahi — isliye entry nahi).
+  'ganesh-chandra': [
+    {
+      title: 'Majhaura me navnirmit sarkari nalkoop ka lokarpan',
+      category: 'Paani',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 8 Aug 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/sant-kabir-nagar/mla-inaugurated-the-tube-well-in-majhaura-khalilabad-news-c-209-1-sgkp1039-136724-2025-08-08',
+      date: '2025-08-08',
+      note: 'Dhanghata Vidhan Sabha kshetra ke Majhaura gaon me navnirmit sarkari nalkoop ka MLA Ganesh Chandra Chauhan ne puja-archana ke saath lokarpan kiya; kisanon ko samay par sinchai ke liye paani milne ka daava. Status: LOKARPAN (kaam poora).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Nagar Panchayat Hamsar Bazar Dhanghata ke navnirmit karyalaya bhavan ka udghatan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Feb 2026',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/sant-kabir-nagar/the-chairman-was-not-seen-at-the-inauguration-of-the-nagar-panchayat-office-sparking-discussions-khalilabad-news-c-209-1-kld1020-146078-2026-02-16',
+      date: '2026-02-14',
+      note: 'MLA Ganesh Chand Chauhan ne nagar panchayat Hamsar Bazar Dhanghata ke navnirmit karyalaya ka udghatan kiya (adhyaksh Rinku Mani karyakram me anupasthit rahin — dono ke beech raajnaitik khincha-taan ki charcha article me hai). Status: UDGHATAN. Article me event "shanivar" bataya gaya hai; Feb 2026 ke hisab se 14 Feb (shanivar) sabse sambhavit date (article 16 Feb 2026 ko prakashit).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gram Panchayat Kharcha (Paoli) me aanganbadi kendra nirmaan ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, Sep 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-groundbreaking-for-anganwadi-center-and-digital-library-in-kharcha-by-mla-ganesh-chauhan-201788296424935.html',
+      date: '2026-09',
+      note: 'Vikas kshetra Paoli ki gram panchayat Kharcha me MLA Ganesh Chauhan ne aanganbadi kendra ke nirmaan karya ka shilanyas kiya. Status: SHILANYAS. Article me sirf "mangalwar" likha hai, exact date page par nahi mili (crawl ke hisab se Sep 2026).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gram Panchayat Kharcha (Paoli) me digital library ka udghatan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Live Hindustan, Sep 2026 (est.)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-groundbreaking-for-anganwadi-center-and-digital-library-in-kharcha-by-mla-ganesh-chauhan-201788296424935.html',
+      date: '2026-09',
+      note: 'Usi karyakram me MLA ne gram panchayat Kharcha me digital library ka feeta kaatkar udghatan kiya — vidyarthiyon ke liye adhyayan suvidha ka daava. Status: UDGHATAN. Exact date page par nahi mili (Sep 2026 est.).',
+      period: '2022-2027',
+    },
+  ],
 };
