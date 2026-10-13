@@ -923,3 +923,169 @@ mpWorks['rajan-mandloi'] = [
 // 14. Muni-sangh ki agwani, Badwani (Shreephal Jain News) — dharmik karyakram me upasthiti; koi karya nahi. Reject.
 // 15. Badwani bypass Rs. 42 crore + Deb/Devanli pul (Naidunia, Sep 2026) — CM ki ghoshna, sansad ki pehal; Mandloi se koi sambandh nahi. Reject.
 // Kul: 6 entries qualified (3 + 3), 15 leads reject.
+
+// ---- Betul district batch (researched 2026-10-13/14) ----
+// Betul district batch 1 — Multai, Amla (SC), Betul (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['chandrashekhar-deshmukh'] = [
+  {
+    title: 'Ashta (Prabhat Pattan block) me 200 meter CC sadak ka bhoomi-pujan — vidhayak-nidhi se Rs. 7.75 lakh sanction',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hum India News, 28 Sep 2026',
+    sourceUrl: 'https://humindianews.com/aashta-mein-200-meter-cc-road-ka-bhumi-pujan/',
+    date: '2026-09-28',
+    note: 'Gram Ashta me grameenon ki lambe samay ki maang par vidhayak Chandrashekhar Deshmukh ne vidhayak-nidhi se Rs. 7.75 lakh ki CC sadak (200 meter) ki swikriti dilayi aur bhoomi-pujan kiya. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: '21 swasthya sansthanon (CHC Multai, CHC Prabhat Pattan aur 19 up-swasthya kendra) me mortuary refrigerator khareed ki prashaskiya swikriti — prati fridge Rs. 1.98 lakh',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'National Breaking Times, 20 Nov 2025',
+    sourceUrl: 'https://www.nationalbreakingtimes.in/2025/11/21.html',
+    date: '2025-11-20',
+    note: 'Report ke mutabik unke prayason se samudayik swasthya kendra Multai, Prabhat Pattan sahit kul 19 up-swasthya kendron (kul 21 sansthan) me shav-sanrakshan fridge (mortuary refrigerator) khareedne ki prashaskiya swikriti mili; prati fridge Rs. 1.98 lakh swikrit. Status: prashaskiya swikriti — khareed/sthapana ki alag khabar nahi mili. Caveat: khabar press-release style me hai.',
+    period: '2023-2028',
+  },
+  {
+    title: '17 sinchai pariyojnaon ki swikriti (unke prayason se) — lagbhag 5688 hectare krishi bhoomi sinchit hogi',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hum India News, Jan 2026 (est.)',
+    sourceUrl: 'https://humindianews.com/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%A4%E0%A4%BE%E0%A4%88-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0/',
+    date: '2026-01',
+    note: 'Khabar ke mutabik unke prayason se Multai vidhansabha kshetra me 17 sinchai pariyojnaon ko swikriti mili, jinse lagbhag 5688 hectare krishi bhoomi sinchit hogi. Status: swikriti — nirman/purnata ki alag khabar nahi mili. Caveat: ye unke "do varsh ke karyakal" par press-release style ka samiksha-lekh hai; vyaktigat pariyojnaon ke swikriti-aadesh swatantra roop se nahi mile.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Multai block ke 15 high/higher-secondary schools me chhatraon ki cycle-suraksha hetu Rs. 67.50 lakh se cycle-stand nirman swikrit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hum India News, Jan 2026 (est.)',
+    sourceUrl: 'https://humindianews.com/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%A4%E0%A4%BE%E0%A4%88-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0/',
+    date: '2026-01',
+    note: 'Usi samiksha-lekh ke mutabik Multai vikas-khand ke 15 high school evam higher-secondary vidyalayon me chhatraon ki cyclon ki suraksha ke liye Rs. 67.50 lakh ki lagat se cycle-stand nirman swikrit karaya gaya. Status: swikriti — nirman/purnata ki alag khabar nahi mili. Caveat: press-release style source; swatantra swikriti-aadesh nahi mile.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak-nidhi 2025 se swikrit karya: 32 gramon me water-tanker (Rs. 86.40 lakh), 14 gramon me yatri-pratikshalaya (Rs. 36.73 lakh), sadak-marammat v anya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hum India News, Jan 2026 (est.)',
+    sourceUrl: 'https://humindianews.com/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%A4%E0%A4%BE%E0%A4%88-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0/',
+    date: '2026-01',
+    note: 'Khabar ke mutabik varsh 2025 me vidhayak-nidhi se swikrit karyon me pramukh: 32 gramon me water-tanker (Rs. 86.40 lakh), 14 gramon me yatri-pratikshalaya (Rs. 36.73 lakh), 9 gramon me sadak-marammat (Rs. 17.32 lakh), Temjhra-Barai me transformer sthanantaran (Rs. 5.19 lakh), nagar-palika vachnalaya furniture (Rs. 1 lakh), Bhilai me nali-nirman (Rs. 6 lakh), 2 gramon me tin-shed/samudayik bhavan (Rs. 6 lakh) aur 1 gram me gravel sadak (Rs. 6.70 lakh). Status: swikriti — karyanwayan/purnata ki alag khabar nahi mili. Caveat: press-release style source.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vishesh-nidhi 2024-25 se swikrit pramukh karya: 19 gramon me samudayik bhavan (Rs. 3.27 crore), 22 gramon me gravel sadak (Rs. 5.21 crore), Tiwarkhed stop-dam, Tapti Sarovar sluice-gate v anya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hum India News, Jan 2026 (est.)',
+    sourceUrl: 'https://humindianews.com/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%A4%E0%A4%BE%E0%A4%88-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0/',
+    date: '2026-01',
+    note: 'Khabar ke mutabik vishesh-nidhi 2024-25 se swikrit karyon me pramukh: 19 gramon me samudayik bhavan (Rs. 3.27 crore), 22 gramon me gravel sadaken (Rs. 5.21 crore), 11 gramon me puliya (Rs. 2.03 crore), 6 gramon me cement sadak (Rs. 99.70 lakh), 6 schoolon me boundary-wall (Rs. 78.80 lakh), Tiwarkhed me stop-dam (Rs. 36.30 lakh), Tapti Sarovar sluice-gate (Rs. 17 lakh), Shani talab saundaryikaran (Rs. 25 lakh), Birulbazar bus-stand cementikaran (Rs. 37.90 lakh) v anya. Status: swikriti — karyanwayan/purnata ki alag khabar nahi mili. Caveat: press-release style source.',
+    period: '2023-2028',
+  },
+  {
+    title: 'CM stamp-duty fund 2024 se swikrit karya: 15 gramon me samudayik bhavan (Rs. 2.09 crore), 10 gramon me puliya (Rs. 1.40 crore), 13 gramon me CC sadak (Rs. 1.09 crore) v anya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hum India News, Jan 2026 (est.)',
+    sourceUrl: 'https://humindianews.com/%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%A4%E0%A4%BE%E0%A4%88-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0/',
+    date: '2026-01',
+    note: 'Khabar ke mutabik varsh 2024 me mukhyamantri stamp-duty mad se swikrit karyon me pramukh: 15 gramon me 3-set yukt samudayik bhavan (Rs. 2,08,87,000), 10 gramon me puliya-nirman (Rs. 1,39,84,000), 13 gramon me CC cement sadaken (Rs. 1,09,41,000), 5 gramon me shaskiya vidyalayon ki boundary-wall (Rs. 48.84 lakh), 3 gramon me samudayik bhavan (Rs. 48 lakh), 2 gramon me talab-ghat nirman (Rs. 37.94 lakh), 3 gramon me mokshdham yatri-pratikshalaya (Rs. 23.50 lakh), Dahua me shopping-complex (Rs. 18 lakh) aur 3 gramon me sanskritik manch (Rs. 13.50 lakh). Status: swikriti — karyanwayan/purnata ki alag khabar nahi mili. Caveat: press-release style source.',
+    period: '2023-2028',
+  },
+];
+
+// Betul district batch 1 — Amla (SC) (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['dr-yogesh-pandagre'] = [
+  {
+    title: 'Amla ke Vinoba Ward (ward 4) me Rs. 29 lakh ka Chhatrapati Shivaji Sanskritik Bhavan — unhone mukhya-atithi ke roop me lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sahara Samachaar, Sep 2026 (est.)',
+    sourceUrl: 'https://saharasamachaar.com/due-to-the-efforts-of-councilor-diksha-vinoba-ward-got-the-gift/',
+    date: '2026-09',
+    note: 'Nagar-palika parishad Amla dwara Sant Vinoba ward kramank 4 me nirmit Rs. 29 lakh ke Chhatrapati Shivaji Sanskritik Bhavan ka lokarpan vidhayak Dr. Yogesh Pandagre ne nagar-palika adhyaksh aadi ke saath mukhya-atithi ke roop me fita katkar kiya. Status: lokarpan (bhavan nirmit, janata ko samarpit). Pardarshita: khabar ke mutabik bhavan ke liye prayas ward-parshad Deeksha Mayur Surajekar ka tha; vidhayak ki bhoomika lokarpan-karta ke roop me thi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Betul CMHO tabadla vivad: sthanantarit CMHO ki writ me High Court ne notice jari kiya — 21 din me paksh rakhne ko kaha (koi dosh-siddhi nahi)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Zee News (Hindi), Sep 2026 (est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/trending-news/amla-and-tikamgarh-mla-notice-of-high-court-for-two-contenders-for-one-cmho-chair-mpsn/862897',
+    date: '2026-09',
+    note: 'Zee News ke mutabik tabadla-shuda Betul CMHO Dr. A.K. Tiwari ne apne tabadle ke khilaf High Court me writ lagayi, jisme Amla vidhayak Dr. Yogesh Pandagre (aur Tikamgarh vidhayak Rakesh Giri) ko bhi party banaya gaya; High Court ne notice jari kar 21 din me paksh rakhne ko kaha. Tiwari ka aarop hai ki vidhayakon ne unhe "vivadit"/farzi-kam ka aaropi thahraate hue tabadle ke liye chitthi likhi thi. Status: lambit writ me notice — koi dosh-siddhi ya adesh nahi; is khabar me vidhayak ka pratikriya (rebuttal) darj nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+// Betul district batch 1 — Betul (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['hemant-vijay-khandelwal'] = [
+  {
+    title: 'Betul me zila ki pehli white-topping sadak (Rs. 3.24 crore) ka bhoomi-pujan — 7 meter chaudi, 20-25 saal tikau',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'S News Times, 9 Jun 2025',
+    sourceUrl: 'https://www.snewstimes.com/2025/06/09/betul-ki-khabar-the-picture-of-the-city-will-change-in-the-coming-one-year-hemant-khandelwal/',
+    date: '2025-06-09',
+    note: 'Vidhayak Hemant Khandelwal ne kendriya rajya-mantri D.D. Uikey ke saath Rs. 3.24 crore ki lagat wali zila ki pehli white-topping sadak ka bhoomi-pujan kiya; report ke mutabik sadak 7 meter chaudi aur agle 20-25 varshon tak tikau hogi. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Betul-Khedi marg par Machna nadi par 4-lane pul + pahunch marg (Rs. 18.43 crore) ka bhoomi-pujan — unke prayason se lagat Rs. 6 se Rs. 18 crore aur chaudai 30 se 60 feet hui',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'S News Times, 18 Jan 2026',
+    sourceUrl: 'https://www.snewstimes.com/2026/01/18/betul-news-we-will-make-every-vision-for-the-development-of-betul-a-reality-hemant/',
+    date: '2026-01-18',
+    note: 'Karbala Ghat par kendriya rajya-mantri Durga Das Uikey aur vidhayak Hemant Khandelwal ne Betul-Khedi marg par Machna nadi par pul evam pahunch marg (kul prashaskiya lagat Rs. 18.43 crore; 100 meter lamba, 18.5 meter chauda 4-lane pul) ka bhoomi-pujan kiya; 18 mah me purn karne ka lakshya. Uikey ke mutabik pul unke satat prayason ka parinam hai; Khandelwal ke mutabik jan-bhavna ko dekhte hue lagat Rs. 6 crore se badhakar Rs. 18 crore aur chaudai 30 feet se 60 feet ki gayi. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bhashan me daave: Rs. 100 crore drainage-swikriti, antarrajyiya bus-stand swikriti, Rs. 28 crore ki 2-lane sadak (BJP karyalaya se abkari tak) sahit kai pariyojnaen swikrit',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'S News Times, 9 Jun 2025',
+    sourceUrl: 'https://www.snewstimes.com/2025/06/09/betul-ki-khabar-the-picture-of-the-city-will-change-in-the-coming-one-year-hemant-khandelwal/',
+    date: '2025-06-09',
+    note: 'White-topping sadak ke bhoomi-pujan karyakram me apne bhashan me unhone daava kiya ki: kendra sarkar se shahar ke drainage-system ke liye Rs. 100 crore ki swikriti mil chuki hai; antarrajyiya bus-stand ki swikriti ke baad highway par 9 ekad zameen ki talash jaari hai; Rs. 28 crore ki lagat se BJP karyalaya se abkari tak 2-lane sadak, Kargil Chowk se Karbal tak marg aur Gandhi Chowk par parking ke saath dukaano ke project swikrit ho chuke hain. Status: daava/ghoshna — inme se kisi bhi swikriti-aadesh ya karyanwayan ki swatantra pushti nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Betul me PPP-mode medical college ka shilanyas (23 Dec 2025) — khabar me unke prayason ko 3 janpratinidhiyon me shrey; shilanyas JP Nadda aur CM ne kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Bansal News, 22 Dec 2025 (karyakram ki pushti IANS via Lokmat Times, 23 Dec 2025)',
+    sourceUrl: 'https://bansalnews.com/madhya-pradesh/mp-betul-ppp-mode-medical-college-foundation-stone-jp-nadda-mohan-yadav-hindi-news-zvj-10932168',
+    date: '2025-12-23',
+    note: 'Bansal News ke mutabik Betul ko PPP-mode medical college ki saugat jile ke janpratinidhiyon — visheshkar kendriya mantri Durga Das Uikey, prabhari-mantri Narendra Shivaji Patel aur vidhayak/BJP pradesh-adhyaksh Hemant Khandelwal — ke prayason se mili. 23 Dec 2025 ko kendriya swasthya-mantri J.P. Nadda aur CM Dr. Mohan Yadav ne Betul police-ground me shilanyas kiya; college Kosmi kshetra me banega. Status: shilanyas/bhoomi-pujan — nirman shuru hona tha. Pardarshita: unki bhoomika "prayas" ke roop me 3 netaon ke saath sanyukt shrey hai; shilanyas Nadda/CM ne kiya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sohagpur, Gorakhar aur Bagholi me Rs. 42 lakh ke 3 samudayik bhavanon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Jagriti Times, 8 Oct 2026',
+    sourceUrl: 'https://jagrititimes.com/politics/development-priorities-to-be-determined-through-public-dialogue-khandelwal/',
+    date: '2026-10-08',
+    note: 'Mukhyamantri Jan-Vishwas karyakram ke tahat Betul me 5 cluster baithakon ke dauran unhone Sohagpur, Gorakhar aur Bagholi me kul Rs. 42 lakh ki lagat se nirmit 3 samudayik bhavanon ka lokarpan kiya. Status: lokarpan (bhavan nirmit, janata ko samarpit).',
+    period: '2023-2028',
+  },
+];
+
+// Note (defensible-empty): donon MLAs Dec 2023 ke baad ke karyakal me hain. Hindi + English me
+// ~10 round ki targeted searches (Bhaskar/Patrika local, ETV Bharat, Naidunia, Betul Update WP API,
+// ETV Bharat MP, national portals) ke baad koi bhi bhoomi-pujan/lokarpan/vidhayak-nidhi sanction
+// khabar nahi mili jisme in do MLAs ki concrete bhoomika ho. Dono ke naam waali ekmatra substantiv
+// news (Indian Masterminds, Dec 2025 — Betul MLA delegation CM ke saath) weak attribution par
+// reject hui. Arrays isliye khaali hain — entries nahi milin, research nahi ki gayi aisi baat nahi.
+mpWorks['ganga-sajjan-singh-uikey'] = [
+  // KHAALI (researched 2026-10-14): post-Dec 2023 kaam par koi verifiable news/sarkari source nahi milin.
+];
+mpWorks['mahendra-singh-chouhan'] = [
+  // KHAALI (researched 2026-10-14): post-Dec 2023 kaam par koi verifiable news/sarkari source nahi milin.
+];
