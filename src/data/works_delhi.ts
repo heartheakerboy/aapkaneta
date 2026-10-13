@@ -427,3 +427,140 @@ delhiWorks['shikha-roy'] = [
     period: '2025-2030',
   },
 ];
+
+// ---- North district batch (researched 2026-10-13) ----
+delhiWorks['raj-karan-khatri'] = [
+{
+    title: 'Narela me 7 semi-high-mast street light poles ke liye 17.32 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 23 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-01_23-09-2025.pdf',
+    date: '2025-09-23',
+    note: 'F.188(577)/AC-01/8DVS/UD/MLALADS/2025-26: A/A Rs. 17.32 lakh; first installment Rs. 1.73 lakh MCD (Narela Zone, EE Electrical) ko — "Providing and fixing 7 Nos Semi High Mast Poles at various locations": Ambedkar Park, Gas Godown ke paas, Yadav Glass Works ke paas (Gandhi Ashram Talab Marg), Mahadev Apartment A-9 Pocket-3 ke peeche (Pana Papossia park), Ramlila Ground Pana Papossia (Kuldeep Hair Saloon ke paas, 2 Nos), Balaji Apartment Sector A-10. Work ID AC-01/2025-26/01 — "Honble MLA Sh. Raj Karan Khatri" ke liye. Status: swikrit (A/A + first installment) — karyanwayan/purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['raj-kumar-bhatia'] = [
+{
+    title: 'Adarsh Nagar me 9 sadak galiyon ke nirman ke liye 2.96 crore ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 30 Oct 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-04_30-10-2025.pdf',
+    date: '2025-10-30',
+    note: 'F.188(580)/AC-04/8DVS/UD/MLALADS/2025-26: A/A Rs. 296.22 lakh; first installment Rs. 29.59 lakh MCD (Civil Lines Zone) ko — "MLA Sh. Raj Kumar Bhatia" ke liye Adarsh Nagar (AC-04) me 9 RMC road works, Work IDs AC-04/2025-26/10 se /18: Kewal Park (Prachin Shiv Mandir se DJB office, H.No. walon ki galiyan, H.No. 1-3), Gopal Nagar (A-12 se A-30, MC Pry School se H.No. 34), Gurunanak Marg (A-219 se 211, H.No. 55 se 111/19), Rameshwar Nagar (Dispensary se H.No. A-75), Nirankari Colony ki galiyan — sab Ward No. 14/CLZ me. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['aahir-deepak-chaudharyy'] = [];
+delhiWorks['ravinder-indraj-singh'] = [
+  {
+    title: 'Dariyapur Kalan me 5.73 crore ki Phirni Road ka udghatan — nirman purn',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Punjab Kesari (English, IANS), 19 Apr 2026',
+    sourceUrl: 'https://english.punjabkesari.com/india/delhi-minister-ravinder-indraj-singh-says-govt-committed-to-viksit-delhi-harit-delhi/amp/',
+    date: '2026-04-19',
+    note: 'Bawana AC ke Dariyapur Kalan me lagbhag Rs. 5.73 crore ki lagat se bani Phirni Road ka udghatan — Dada Maldev Talab se Nangal Mor Road tak; Delhi Village Development Board (DVDB) fund + Irrigation and Flood Control Department ke sahyog se 20 saal se lambi pariyojana puri. Mantri ne kaha ye unke prayason se poori hui. Status: purn (inaugurated). Caveat: IANS-syndicated khabar; sthal par swatantra ground-reporting nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bawana me DJB ki nayi paani pipeline pariyojanaon ka udghatan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Bhaskar Hindi (IANS), 10 May 2026',
+    sourceUrl: 'https://www.bhaskarhindi.com/other/hindi-delhi-minister-ravinder-indraj-singh-inaugurates-new-djb-pipeline-projects-in-bawana-20260510194204-1294613',
+    date: '2026-05-10',
+    note: 'Bawana Vidhan Sabha kshetra ke Prakash Vihar sthit gaon Jat Khor aur Kali Mata Mandir me Delhi Jal Board ki nayi pipeline pariyojanaon ka udghatan — behtar, swachh aur nirbadh jal apurti ke liye. Mantri ne kaha kshetra me jal pipeline, sadak marammat, footpath, jal nikasi ke vikas karya lagatar jari hain. Status: udghatan — nayi pariyojanayein launch/poori. Caveat: IANS-syndicated khabar; pariyojana ki lagat aur exact scope article me nahi di gayi.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['vijender-gupta'] = [
+  {
+    title: 'Rohini Sector-13 me electric transformer shifting ke liye final installment — 8DVS naya sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 22 Dec 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-13_17927-17937_22-12-2025.pdf',
+    date: '2025-12-22',
+    note: 'F.18B(589)/AC-13/8DVS/UD/MLALADS/2025-26/17927-17937: Rs. 2.56 lakh ka final installment TPDDL ko — "Shifting of Electric Transformer at Lucky Home Apartment Sector-13, Rohini, Delhi", Work ID AC-13/2025-26/01. Order me saaf likha hai ye F.No.18B(589)/AC-13/8DVS/UD/MLALADS/2025-26/11833-49 dated 14/07/2025 ke NAYE 8DVS sanction ke silsile me hai (7DVS carryover NAHI). Copy to "Mr. Vijender Gupta, MLA, Rohini Assembly Constituency (AC-13)". Status: purn — final installment ka matlab kaam poora.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['karnail-singh'] = [
+  {
+    title: 'Shakur Basti me signage boards ke liye 86.45 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 14 Jul 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_15_11624-11640_14-07-2025.pdf',
+    date: '2025-07-14',
+    note: 'F.18B(591)/AC-15/8DVS/UD/MLALADS/2025-26: A/A Rs. 86.45 lakh; E/S first installment 10% = Rs. 8.64 lakh I&FC CD-II ko — "Providing and fixing signage boards at various locations in Shakur Basti Assembly Constituency AC-15", Work ID AC-15/2025-26/01 (U.ID 8DVS/0135/21). "MLA Sh. Karnail Singh" + copy to "Hon\'ble MLA, Sh. Karnail Singh". NAYA 8DVS sanction (Feb 2025 ke baad). Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['poonam-sharma'] = [
+{
+    title: 'Ashok Vihar ki Satyawati Colony me backlanes ke RMC nirman ke liye 93.47 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 1 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_17_14176-17187_01-09-2025.pdf',
+    date: '2025-09-01',
+    note: 'F.18B(593)/AC-17/8DVS/UD/MLALADS/2025-26: A/A Rs. 93.47 lakh (est. Rs. 99.38 lakh); first installment Rs. 9.34 lakh MCD ko — "Improvement/development of backlanes in A-Block, B-block, C-block, D-block, E-block and N-block of Satyawati colony, Ashok Vihar by pdg. RMC in Ward No. 66/KPZ", UID 8DVS/0135/3xx — "MLA Smt. Poonam Sharma" ke liye Wazirpur AC-17 me. Status: swikrit (A/A + first installment) — karyanwayan baaki, purnata ki khabar nahi mili. (Work ID scanned copy me aspasht.)',
+    period: '2025-2030',
+  },
+  {
+    title: 'Ashok Vihar Phase-II ki 7 backlanes aur Deep Market parking ke liye 119.57 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 30 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-17_15288-99_30-09-2025.pdf',
+    date: '2025-09-30',
+    note: 'F.18B(593)/AC-17/8DVS/UD/MLALADS/2025-26: A/A Rs. 119.57 lakh (est. Rs. 128.44 lakh); first installment Rs. 11.93 lakh MCD ko — "MLA Smt. Poonam Sharma" ke liye Wazirpur AC-17 me RMC backlanes: (1) C-1/1 se C-1/23 (Rs. 23.50 lakh); (2) C-2/1 se C-2/21 (Rs. 23.16 lakh); (3) C-2/44 se C-2/56 (Rs. 9.97 lakh); (4) C-3/11–C-3/27 aur C-3/68–C-3/79 (Rs. 11.16 lakh); (5) B-2/67 se Arya Samaj Mandir (Rs. 12.52 lakh); (6) B-3/1–B-3/13 aur B-3/65–B-3/70 (Rs. 21.33 lakh); (7) Deep Market, Phase-I me Balaji Mandir ke saamne parking area (Rs. 17.93 lakh) — UIDs 8DVS/0135/309 se /315 tak, Work IDs AC-17/2025-26/09 se /15 tak (kramanusar; scanned copy me kuch aspasht). Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'SN Marg, KC Goel Marg aur Chaudhary Gulab Singh Marg par multi-colour LED strip lights ke liye 8.92 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 1 Jan 2026',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-17_18091-18102_01-01-2026.pdf',
+    date: '2026-01-01',
+    note: 'F.18B(593)/AC-17/8DVS/UD/MLALADS/2025-26: A/A Rs. 8.92 lakh; first installment Rs. 0.89 lakh PWD ko — "SITC of Multi colour LED Strip Light at SN Marg, KC Goel Marg and Chaudhary Gulab Singh Marg, Ashok Vihar, Delhi under Wazirpur Assembly Constituency", UID 8DVS/0135/484, Work ID AC-17/2025-26/29 — "MLA Smt. Poonam Sharma" ke liye Wazirpur AC-17 me. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+];
+delhiWorks['ashok-goel'] = [
+{
+    title: 'Kamla Nagar, Model Town aur Sangam Vihar me signage boards ke liye 55.68 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 14 Jul 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac_18_11747-11764_14-07-2025.pdf',
+    date: '2025-07-14',
+    note: 'F.18B(594)/AC-18/8DVS/UD/MLALADS/2025-26: A/A Rs. 55.68 lakh; first installment Rs. 5.56 lakh I&FC ko — "Providing and fixing Signage Board in Kamla Nagar (Ward 69), Model Town (Ward 68) and Sangam Vihar (Ward 67) in Model Town constituency AC-18", Work ID AC-18/2025-26/01 — "Honble MLA Sh. Ashok Goel" ke liye. Status: swikrit — karyanwayan baaki, purnata ki khabar nahi mili.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Prem Nagar Gali No. 2 me sadak-drainage vyavastha ke 3 karyon ke liye 42.29 lakh ka MLALAD sanction',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 5 Aug 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-18_12952-12968_05-08-2025.pdf',
+    date: '2025-08-05',
+    note: 'F.18B(594)/AC-18/8DVS/UD/MLALADS/2025-26: A/A Rs. 42.29 lakh (est. Rs. 45.41 lakh); first installment Rs. 4.22 lakh MCD ko — "MLA Sh. Ashok Goel" ke liye Model Town AC-18 me: (1) H.No. 7317 se 7328 tak sadak+drainage (Rs. 17.42 lakh, AC-18/2025-26/14); (2) H.No. 82–90, 7287–7284 aur 7279–7278/129 (Rs. 11.80 lakh, /15); (3) H.No. 58–74, 63–64 aur 7309/4–7309/5 (Rs. 13.07 lakh, /16) — sabhi Prem Nagar, Gali No. 2, Ward 69/KPZ Kamla Nagar; UIDs 8DVS/0135/184 se /186 tak. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Prem Nagar me LT bare line ko ABC me badalne ke liye 0.46 lakh ka MLALAD sanction',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Urban Development Dept, GNCTD (MLALAD sanction order), 11 Sep 2025',
+    sourceUrl: 'https://udd.delhi.gov.in/sites/default/files/UD/mlalad/ac-18_14508-14524_11-09-2025.pdf',
+    date: '2025-09-11',
+    note: 'F.18B(594)/AC-18/8DVS/UD/MLALADS/2025-26: A/A Rs. 0.46 lakh; 75% (Rs. 0.34 lakh) TPDDL ko first installment — "Conversion of LT bare to LT ABC at near house No. 74, Prem Nagar", Work ID AC-18/2025-26/17 — "MLA Sh. Ashok Goel" ke liye Model Town AC-18 me. Status: swikrit — karyanwayan baaki.',
+    period: '2025-2030',
+  },
+];
