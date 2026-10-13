@@ -9061,4 +9061,216 @@ export const upWorks: Record<string, Work[]> = {
   ],
   // RESEARCH TRAIL (indrani-devi — Bhinga, SP; KHALI profile): upar trail me detail hai. NOTE: neta slug file me 'indrani-devi' hai (name 'Indrani Devi'); news me 'Indrani Verma' bhi likha milta hai, pehchan Bhinga+SP se confirm.
   'indrani-devi': [],
+  // ---- Balrampur district batch (researched 2026-10-13) ----
+// Balrampur district batch w1 (researched 2026-10-13) — append under upWorks in works_up.ts.
+// MLA: Kailash Nath Shukla (kailash-nath), Tulsipur AC (291), BJP. Tenure filter: March 2022 onwards only.
+// RESEARCH TRAIL: 7 targeted Hindi/English searches; har ummeedvar source khola-padha.
+//   ACCEPTED (5): sabhi entry me vidhayak ne khud kaam ka shilanyas/udghatan kiya ya unke prastav par swikriti mili — sirf upasthiti nahi.
+//   REJECTED (9):
+//   - SSB sewing/embroidery training udghatan, Nevalganj (Dainik Bhaskar) — karyakram SSB 9th battalion ka; vidhayak ne sirf deep prajwalan kiya. MAUJOOD THA → reject.
+//   - Sewing training, Ratanwa (Dainik Bhaskar) — SSB + Prerna Foundation ka program; sirf shubharambh. MAUJOOD THA → reject.
+//   - Divyang sahayak-upkaran vitaran, Kaushapur/Maharajganj Tarai (Hindustan, Oct 2026) — vibhagiya karyakram; vidhayak mukhya atithi. MAUJOOD THA → reject.
+//   - Maa Pateshwari Public School sthapana-diwas, Bhawaniyapur (Hindustan, Dec 2025) — vidhayak ne sirf medal diye. MAUJOOD THA → reject.
+//   - Muft netra shivir, Tulsipur (Hindustan, Feb 2026) — Ganna Vikas Vibhag + IFFCO-MC ka ayojan; vidhayak sirf upasthit. MAUJOOD THA → reject.
+//   - Mission Shakti Phase-5 virtual udghatan (public.app) — sirf NIC sabhagar me virtual karyakram me bhag. DAURA → reject.
+//   - Balrampur railway station virtual udghatan (crimejunction, May 2025) — PM ne udghatan kiya; vidhayak sirf samaroh vakta. MAUJOOD THA → reject.
+//   - Sarp-dansh mritak parijanon ko ₹8 lakh rahat (public.app, Sep 2025) — aapda rahat vitaran, vikas-kaam nahi + aggregator-ish source. REJECT.
+//   - Samay Mata Mandir Devi Katha (public.app, Jun 2025) — dharmik karyakram me sammilit. MAUJOOD THA → reject.
+//   Paani/School/Aspataal ke koi news-verified kaam 2022-2026 me nahi mile (khali chhoda, weak attribution nahi).
+//   Negative entries: koi credible allegation/case reporting nahi mili — isliye koi negative entry nahi.
+  'kailash-nath': [
+  {
+    title: 'Mathura Kodri sadak (48 km, ₹16 crore) ka bhumi-pujan — dashakon purani maang ka karyarambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/balrampur/tulsipur/news/tulsipur-mla-performed-the-ground-breaking-ceremony-of-mathura-kodri-road-136534402.html',
+    date: '2026-03',
+    note: 'Vidhayak Kailash Nath Shukla ne Mathura Kodri sadak marg ke nirman karya ka vaidik mantra-uchchar ke saath bhumi-pujan kiya; PWD adhikari bhi maujud the. 48 km lambi sadak lagbhag ₹16 crore ki lagat se banegi. Status: shilanyas/bhumi-pujan (karyarambh) — purnata/udghatan ki alag khabar Oct 2026 tak nahi mili. Page par exact date nahi thi ("7 mahine pehle" report), isliye mahina anumanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Haraiya Satgharwa me Kamdi–Jumman Deeh–Fakirideeh kharanja marg (₹10.46 lakh) ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/balrampur/jogiakalan/news/tulshipur-mla-inaugurates-road-connecting-kamdi-jumman-deeh-fakirideeh-136962119.html',
+    date: '2026-04',
+    note: 'Kamdi, Jumman Deeh aur Fakirideeh gaon ko jodne wale kharanja marg ka shilanyas; lagat ₹10,46,000. Graminon ki lambi maang thi. Status: shilanyas — nirman purnata/udghatan ki alag khabar nahi mili. Page par exact date nahi thi ("6 mahine pehle" report), mahina anumanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jumman Deeh me PWD sadak se gaon tak nave-nirmit kharanja ka udghatan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/balrampur/baldeonagar/news/jumman-deeh-village-road-inauguration-mla-kailashnath-shukla-136969301.html',
+    date: '2026-04',
+    note: 'Vidhayak ne Jumman Deeh me PWD sadak se gaon tak bane kharanja ka udghatan kiya; barish me durgam rehne wale raste se raahat. Sambhavatah upar wale shilanyas pariyojana ka purn hua charan hai, lekin khabar alag event ke roop me report hui — isliye alag entry. Status: nirman purn + udghatan. Page par exact date nahi thi ("6 mahine pehle" report), mahina anumanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tulsipur me 4 jarjar pul + 1 sadak ki marammat (₹1.29 crore) — vidhayak ke prastav par shasan se swikriti, PWD ne tender shuru kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 7 Jan 2025',
+    sourceUrl: 'https://www.amarujala.com/video/uttar-pradesh/balrampur/four-dilapidated-bridges-and-roads-will-be-repaired-in-tulsipur-balrampur-news-c-99-1-brp1008-119285-2025-01-07',
+    date: '2025-01-07',
+    note: 'Vidhayak ke prastav par shasan se manjuri: Bahraich-Sirsiya-Gulriha marg par Siriya nala pul (₹26.5 lakh), Tulsipur-Koilabas marg par Nakti nala pul (₹28 lakh), Maharajganj-Laliya marg par Kharjhar nala pul (₹27 lakh), Bahraich-Sirsiya-Tulsipur marg par Hengha nala pul (₹28.5 lakh) aur Tiwari Deeh–Dundra sampark marg marammat + navinikaran (₹19.37 lakh). PWD Prantiya Khand ne tender prakriya shuru ki; XEN ke anusaar 2 mah me kaam purn karaya jayega. Status: vittiya swikriti + tender prakriya shuru — marammat purn hone ki pushti khabar me nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ganwaria (Tulsipur Dehat) me nave-nirmit Annapurna Bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 2 Feb 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/balrampur/story-inauguration-of-annapurna-bhavan-in-tulsi-pur-mla-kailash-nath-shukla-highlights-community-benefits-201770035507047.html',
+    date: '2026-02-02',
+    note: 'Vikas Khand Tulsipur ki gram panchayat Tulsipur Dehat (Ganwaria) me nave-nirmit Annapurna Bhavan ka vidhayak ne feeta katkar lokarpan kiya. Bhavan samudayik gatividhiyon aur sarvajanik vitran pranali (PDS) karyon me sahayak hoga; BDO aur aapurti vibhag adhikari bhi maujud the. Status: nirman purn + lokarpan.',
+    period: '2022-2027',
+  },
+],
+// MERGE FRAGMENT for src/data/works_up.ts (upWorks record) — coordinator merge karega.
+// District: Balrampur, UP — researched 2026-10-13.
+// MLA: Rakesh Kumar Yadav (neta slug: rakesh-kumar-yadav), Gainsari AC-292, SP.
+// Tenure note: ye 25 May 2024 ke upchunav me jeete (bypoll voting 25-05-2024, office June 2024 — PRS/Wikipedia;
+// task ne Nov-2024 cutoff diya tha, isliye sirf Dec-2024 ke baad ki dated items li gayi hain). Identity:
+// sw. Dr Shiv Pratap Yadav (4-time MLA) ke putr; dusre same-naam netaon (e.g. Apna Dal ke Rakesh Yadav, Sonbhadra)
+// ke items reject kiye gaye.
+// Period: '2022-2027' (18th Assembly). Sab titles Roman-script Hinglish me, Devanagari nahi.
+// RESEARCH TRAIL (candidates checked, REJECTED — khaali profile weak attribution se behtar):
+// 1. Live Hindustan (~Jul 2026): Tulsipur Nagar ke Ramwapur me niji hospital ka udghatan, vidhayak ne feeta kata.
+//    → REJECT: neta sirf maujood tha; niji pratishthan ka ribbon-cutting sarkari vikas karya nahi.
+//    URL: https://www.livehindustan.com/uttar-pradesh/balrampur/story-inauguration-of-private-hospital-in-tulsiapur-by-local-mla-rakesh-kumar-yadav-201782733046390.html
+// 2. Dainik Bhaskar (~Jan 2025, date uncertain): Chandanpur-Ayodhya marg (Jode Kuiya-Jaitpur 8 km)
+//    ki sudharikaran/chowdikaran ke liye sarkar/PWD ko patra likha. → REJECT: sirf maang/proposal, koi swikriti
+//    ya nirman ki khabar nahi. URL: https://www.bhaskar.com/local/uttar-pradesh/balrampur/aurahwa/news/mla-rakesh-yadav-took-cognizance-of-the-dilapidated-road-136210346.html
+// 3. Amar Ujala, 22 Nov 2024: vidhayak nidhi ki doosri kisht (₹2.5 crore, FY 2024-25) sabhi Balrampur vidhayakon ko
+//    jari, prastav mange gaye. → REJECT: cutoff (Nov 2024 ke baad nahi) + sirf fund release, koi vishesh karya nahi.
+// 4. Live Hindustan (~Oct 2026): Pachpedwa me medhavi samman samaroh — vidhayak mukhya atithi, sarkar ki shiksha
+//    neetiyon par bayan. → REJECT: sirf maujoodgi, koi karya nahi.
+// 5. Live Hindustan (~Apr 2026): Veerpur Semra me nayi police chowki ka udghatan — mahant ne lokaarpan kiya,
+//    vidhayak keval upasthit. → REJECT: neta sirf maujood tha.
+// 6. Dainik Bhaskar (~Jun 2026): Utraula-Pachpedwa-Chandanpur marg ki jarrar sthiti par dharna pradarshan ki ghoshna;
+//    isi khabar me poorv BJP vidhayak Shailesh Kumar Singh ka shapath-patra me tathya chhipane ka aarop.
+//    → REJECT: dharna/demand hai, karya nahi; shapath-patra aarop political rival ka press-conference daava hai,
+//    koi case/rebuttal status nahi (guilt-by-association nahi).
+// 7. Live Hindustan, Oct 2025: Balrampur me petrol/diesel/gas ki killat par SP ka pradarshan (vidhayak ke netritva me).
+//    → REJECT: political protest, vikas karya nahi.
+// 8. Live Hindustan, 27 Jan 2026: Utraula me SP booth prahari sammelan — vidhayak ka sangathanik bayan.
+//    → REJECT: party activity, vikas karya nahi.
+// 9. Oct 2026: CM Yogi dwara Balrampur ko ₹803 crore ki 78 pariyojanaon ka lokaarpan/shilanyas (ABP Live).
+//    → REJECT: CM-level package; vidhayak ko kisi pariyojana me vishesh roop se jodti reporting nahi mili (weak attribution).
+// 10. Same-naam confusion: Apna Dal (S) ke Dudhi (Sonbhadra) karyalaya udghatan me "Rakesh Yadav" (vidhan sabha prabhari)
+//     → REJECT: dusre neta; Gainsari MLA se sambandh nahi.
+  'rakesh-kumar-yadav': [
+  {
+    title: 'Gainsari ki 2 sadkon sahit 9 sadkon ki marammat ko ₹5.06 crore ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 3 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/balrampur/story-five-crore-budget-approved-for-repair-of-nine-roads-in-balrampur-201764760896507.html',
+    date: '2025-12-03',
+    note: 'Pahadi nalon ki baadh se kshatigrast sadkon ki marammat ka mudda Gainsari vidhayak Rakesh Kumar Yadav aur Tulsipur vidhayak Kailash Nath Shukla ne Vidhan Sabha me uthaya tha; uske baad PWD Gonda ke adhishan abhiyanta ne 9 sadkon (₹5.06 crore) ka khaaka taiyaar karaya aur marammat ko manzoori mili. Gainsari ki sadken: Belbharia (₹56.30 lakh) aur Sonpur Puraina-Balapur (₹96.50 lakh). Status: swikriti — 2 mahine me kaam poora karane ka lakshya; poornata/completion ki alag khabar nahi mili. Ye dono vidhayakon ka sanyukt mudda tha, sirf Rakesh Kumar Yadav ka nahi.',
+    period: '2022-2027',
+  },
+],
+// Balrampur district batch — Utraula (researched 2026-10-13).
+// Append these keys to upWorks in works_up.ts (DO NOT touch works_up.ts from this subagent).
+  // RESEARCH TRAIL (rampratap-verma-alias-shashikant-verma — Utraula, BJP; KHALI profile).
+  // Pahchan confirm: 'Ram Pratap Alias Shashikant Verma', BJP, Utraula AC-293 (2022: 87,162 votes, BSP 'Ram Pratap' 9,669
+  // votes ke saath same ballot par tha — namesake trap se bacha gaya). Beta of ex-MLA Shyamlal Verma (Utraula 2007-12).
+  // KHOJ (2026-10-13, ~12 search rounds, Hindi + English): Hindi ('रामप्रताप वर्मा'/'शशिकांत वर्मा'/'उतरौला विधायक'
+  // + उद्घाटन/शिलान्यास/लोकार्पण/निधि/सड़क/अस्पताल/विद्यालय/पानी) aur English ('Ram Pratap Verma' Utraula development
+  // works 2022-2026) — koi news-reported work item NAHI mila.
+  // REJECTS (sab khole-padhe gaye):
+  //  1. Asianet Newsable/ThePrint/NewsDrum (Oct 2024, PTI): CM Yogi ka Balrampur vikas/law-order review — MLA sirf
+  //     hazir attendees (Palturam, Kailash Nath Shukla, Manju Singh, Aarti Tiwari ke saath) me tha. Rule: neta sirf
+  //     maujood tha → reject.
+  //  2. thecliffnews.in (Oct 2026): Prabhari mantri Satish Sharma ka Ghusaah school nirikshan — MLA Ram Pratap Verma
+  //     sirf senior attendees ki list me tha, nirikshan mantri ne kiya. → reject (sirf maujood).
+  //  3. thedemocratichindu.com (Oct 2026): CM Yogi ne Balrampur me ~₹804 crore pariyojnaon ka udghatan/shilanyas
+  //     (Bilariya, Shridattganj; 'Balrampur and Utraula ACs'). Launches CM ne kiye, MLA ne nahi; individual projects
+  //     ke naam/lagat report me diye hi nahi. → reject (MLA-attributable work nahi, details absent).
+  //  4. rampratapverma.in (official site, journey page): vikas ke self-published daawe (infrastructure, education,
+  //     healthcare, employment focus). Self-posted → 'news'/'dawa' badge ke layak nahi, isliye include nahi kiya.
+  //  5. HT (ED chargesheet vs former SP MLA Arif Anwar Hashmi, ₹8.24 cr PMLA): Hashmi Utraula ka purana SP MLA hai;
+  //     Verma se sambandhit nahi, aur guilt-by-association negative ki manahi hai. → reject.
+  //  6. sansad.in Lok Sabha question 4596 (Utraula–Pachpedwa–Chandanpur road): puchhne wale Shravasti MP
+  //     Ram SHIROMANI Verma (SP) hain, hamare MLA nahi. Namesake trap → reject.
+  // NEGATIVE items: Verma ke khilaf credible reporting me koi allegation/case nahi mila — isliye koi negative entry
+  // bhi nahi. Khali profile weak attribution se behtar hai.
+  'rampratap-verma-alias-shashikant-verma': [],
+// Balrampur district batch — Paltoo Ram (BJP), Balrampur (SC) AC. Researched 2026-10-13.
+// Identity: पलटू राम / Paltu Ram, BJP MLA Balrampur Sadar (SC) since 2017, re-elected 2022,
+// ex-Minister of State (Sainik Welfare, Sep 2021–Mar 2022). Same person in all sources below.
+// TENURE FILTER: sirf March 2022 ke baad ke kaam. All entries news-reported (badge 'news').
+//
+// RESEARCH TRAIL — REJECTED (verified but not usable):
+// 1. Bhaskar (Jun 2026): ₹33.72 crore / 140 nagar-palika projects — MLA sirf "मौजूदगी में" tha; ye nagar palika
+//    adhyaksh ki pariyojnaen theen. Presence-only → reject.
+// 2. StreetBuzz: Purani Bazar CC road shilanyas — page login-wall ke peeche, khul hi nahi paya; khola-padha rule par reject.
+// 3. Rashtriya Samachar: mahila chikitsalaya naya bhavan — DM (Pawan Agrawal) ke nirdesh/nirikshan drive ki pehal thi;
+//    MLA ne DM ke saath ribbon kaata. Shreya DM ki drive ko → reject (presence-only).
+// 4. Hindisamvad (Nov 2024): rojgar mela — Zila Sevayojan Karyalaya ka aayojan; MLA chief-guest udghatan maatra → reject.
+// 5. CrimeJunction (Sep 2023): raktdaan shivir — event inauguration, vikas kaam nahi → reject.
+// 6. CrimeJunction (Apr 2025): private college ki school bus hari jhandi — private sansthan, chief-guest → reject.
+// 7. LiveHindustan (Sep 2025): IPT Study Point (private coaching) udghatan — private sansthan → reject.
+// 8. Hindisamvad (Oct 2026): Teachers Premier League — khel event, chief-guest → reject.
+// 9. Newstrack article (Aug 2020) — tenure se pehle ka → reject.
+// 10. DailyChhattisgarh — galat Balrampur (Chhattisgarh ka Balrampur, UP ka nahi) → identity mismatch, reject.
+// 11. Ghamasan (Oct 2026): CM ke 78 projects — MLA bheed me maujood matra → reject.
+// 12. DNA India: law-and-order letter — rajneetik gatividhi, "kaam" nahi → reject.
+  'paltoo-ram': [
+  {
+    title: 'Maheshbhari-Bhainsaha marg ka shubharambh: ₹52.61 crore double-lane sadak',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sandesh Wahak, Nov 2025',
+    sourceUrl: 'https://www.thesandeshwahak.com/sadar-mla-paltu-ram-inaugurated-the-project-balrampur-will-now-travel-on-a-gleaming-double-lane-road/',
+    date: '2025-11-08',
+    period: '2022-2027',
+    note: 'Saalon se badhal pade Maheshbhari-Bhainsahwa marg (Balrampur–Gonda–Ayodhya–Banaras connector) ka shubharambh: sadar vidhayak ne bhoomi poojan + feeta kaatkar kaam shuru karaya. CM Yogi ne budget satr me ₹52,61,36,000 swikrit kiye the; double-lane maanak par nirmaan hoga. Status: shubharambh (nirmaan shuru). Date: article me "shanivaar" + 2025/11 image path — 8 Nov 2025 shanivaar tha.',
+  },
+  {
+    title: 'Sadar kshetra me 17 sadakon ka punarnirmaan: ₹7.71 crore (38 sadak / ₹18.57 crore package)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 27 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/balrampur/story-strengthening-road-infrastructure-in-balrampur-38-roads-to-be-constructed-201777287612180.html',
+    date: '2026-04-27',
+    period: '2022-2027',
+    note: 'Sadar (Paltoo Ram) + Utraula (Ram Pratap Verma) ke dono vidhayakon ne sadak punarnirmaan ka prastaav CM Yogi ko diya; CM ke nirdesh par PWD ne 38 sadakon (₹18.57 crore) ka khaaka taiyaar kiya — isme se Sadar kshetra me 17 sadak ₹7.71 crore me banengi (Utraula ki 21 sadak alag MLA ki hain). FY 2026-27 me barish se pehle poora karne ka lakshya. Status: swikriti + PWD prakriya poori; kaam pragati me. Sadar ki sadakon ke naam/raashi article me list hain.',
+  },
+  {
+    title: 'Graameen sampark margon ke liye ₹5 crore se adhik ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 19 Oct 2025',
+    sourceUrl: 'https://www.amarujala.com/uttar-pradesh/balrampur/more-than-rs-5-crore-approved-for-rural-connectivity-roads-balrampur-news-c-99-1-slko1019-135539-2025-10-19',
+    date: '2025-10-19',
+    period: '2022-2027',
+    note: 'Sadar vidhayak ne ghoshna ki: graameen ilaakon ko jodne ke liye ₹5 crore se adhik swikrit — Bargadwa-Niranjanpur (₹49.74 lakh), Bangwa-Paraspur (₹54.85 lakh), Khagaijot-Kalubankat (₹111.27 lakh), Rajghat-Sekhui Kala-Dhamoli-Juathan (₹53.10 lakh), Vichanupur/Chamrupur/Pipra Ramchandar/Jaitihawa (₹231.85 lakh). Status: swikriti (kaam shuru hone ki alag khabar nahi mili).',
+  },
+  {
+    title: 'Darichaura Rajkiya Inter College: vidhayak nidhi se CC road + RO plant ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'CrimeJunction, 14 Jul 2023',
+    sourceUrl: 'https://www.crimejunction.com/2023/07/balrampur_14.html',
+    date: '2023-07-14',
+    period: '2022-2027',
+    note: 'Vidhayak Paltoo Ram ne apni nidhi se Rajkiya Inter College Darichaura, Shriduttganj tak bani CC road aur RO plant ka feeta kaatkar lokarpan kiya. Status: udghatan (kaam poora). Date confirm: article me "shukravaar" — 14 Jul 2023 shukravaar tha. (Source chhota local portal hai, lekin news-reported claim hai; swatantra bade outlet se cross-verify nahi ho saka.)',
+  },
+  {
+    title: 'Rani Talab saundaryikaran ka shilanyas (Vandan Yojana 2024-25)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'CrimeJunction, 8 Apr 2025',
+    sourceUrl: 'https://www.crimejunction.com/2025/04/balrampur_45.html',
+    date: '2025-04-08',
+    period: '2022-2027',
+    note: 'Nagar palika Balrampur ke Poorab Tola Purvi ward me Hanuman Mandir/Rani Talab parisar me avasthapana suvidhaon (parikrama path, ghat, bench, vishramalaya, havan sthal, pooja-samagri ki dukanein) ka shilanyas: sadar vidhayak Paltoo Ram aur chairman Dhirendra Pratap Singh ne pooja-archana ke saath shubharambh karaya; Vandan Yojana 2024-25 ki swikrit dhanrashi se kaam hoga. Status: shilanyas. Date confirm: article me "mangalvaar" — 8 Apr 2025 mangalvaar tha. (Source chhota local portal hai.)',
+  },
+],
 };
