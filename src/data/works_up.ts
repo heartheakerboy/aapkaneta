@@ -7780,4 +7780,326 @@ export const upWorks: Record<string, Work[]> = {
       period: '2022-2027',
     },
   ],
+
+  // ---- Ayodhya district batch (researched 2026-10-13) ----
+  // RESEARCH TRAIL — ram-chandra-yadav (Ram Chandra Yadav, Rudauli AC 271, BJP, Ayodhya)
+  // Searches: Hindi + English ("रामचंद्र यादव रुदौली विधायक विकास कार्य शिलान्यास", "...लोकार्पण विकास",
+  //   "\"रामचंद्र यादव\" रुदौली विधायक अस्पताल स्कूल पानी टंकी शिलान्यास")
+  // ACCEPTED: 3 news-verified items (all opened and verified):
+  //   1. jagran.com — 2 sadak chaudaikaran (Bhelsar-Umapur Rechaghat 22.5 km + Bhelsar-Tikaitnagar), Rs 85.24 crore,
+  //      shilanyas 5 Sep 2026 (Sat), published 9 Sep 2026. Canonical www.jagran.com URL verified working.
+  //   2. livehindustan.com — 6 sampark marg shilanyas + 1 sadak lokarpan, Rs 3.75 crore,
+  //      Sadari/Shujaganj/Hasnamau/Bajauli/Chhulha/Lodhanpurwa/Talgaon. Date "ravivar" + 128-days-ago byline
+  //      → Sun 7 Jun 2026 (weekday cross-checked).
+  //   3. amritvichar.com — 3 sampark sadak shilanyas, Rs 163.48 lakh, kul 2150m. Date "mangalvaar" + 133-days-ago
+  //      byline → Tue 2 Jun 2026 (weekday cross-checked).
+  // REJECTED:
+  //   - amarujala CHC Mavai aachak nirikshan (Sep 2026) — sirf nirikshan/daura, no work milestone
+  //   - newshourlive Naipura pumping station — shilanyas jal shakti mantri ne kiya (May 2025); MLA ka role sirf
+  //     aachak nirikshan; portal ka apna "mukhya shreya" credit claim unverified + chhota portal + completion
+  //     unverified → reject (sirf nirikshan/daura)
+  //   - newshourlive "Naye Purwa se Vanatapasi Mata mandir" Rs 35.90 lakh — Amrit Vichar ke 3-road package wali
+  //     500m sadak ka duplicate (same endpoints); chhote portal ka version reject, credible entry rakhi
+  //   - newstrack biography/interview (~Mar 2022) — sirf yojnaen/vaade (Atal school, ayurvedic college), koi
+  //     completed/sanctioned kaam nahi
+  //   - khabrokichaupal Sunba paani tanki shilanyas — 2019, Mar 2022 cutoff se pehle
+  //   - YouTube "4 roads foundation" video — YouTube-only
+  // IDENTITY: sabhi sources Ayodhya jile ke Rudauli kshetra ke hain (Amar Ujala "अयोध्या के रुदौली", Jagran
+  //   "जागरण संवाददाता, अयोध्या", Hindustan "रौजागांव संवाददाता", Amrit Vichar "मवई/अयोध्या") — Barabanki ke
+  //   Rudauli items se alag. Koi Ram Mandir/airport credit nahi diya gaya.
+  'ram-chandra-yadav': [
+    {
+      title: 'Bhelsar-Umapur Rechaghat aur Bhelsar-Tikaitnagar sadak chaudaikaran ka shilanyas (Rs 85.24 crore)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Jagran, 9 Sep 2026',
+      sourceUrl: 'https://www.jagran.com/uttar-pradesh/ayodhya-ayodhya-road-widening-mla-lays-foundation-for-two-key-roads-40367153.html',
+      date: '2026-09-05',
+      note: 'Shilanyas (foundation stone) status — shilanyas MLA Ram Chandra Yadav ne 5 Sep 2026 (Shanivar) ko kiya. Bhelsar-Umapur Rechaghat marg 22.5 km (Rs 57.65 crore, 5.5m se 12m) + Bhelsar-Tikaitnagar marg (Rs 27.59 crore, 7m se 10m). Tender poora, pehle charan ki Rs 2.88 crore rashi jaari; 1 saal me poora karne ka target.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Saat gaon me 6 sampark margon ka shilanyas + 1 sadak ka lokarpan (Rs 3.75 crore)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan (Live Hindustan), 7 Jun 2026 (approx)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/ayodhya/story-major-infrastructure-development-in-rudauali-new-roads-launched-for-rural-connectivity-201780856504447.html',
+      date: '2026-06-07',
+      note: 'Shilanyas + 1 lokarpan — Rs ~3.75 crore ke 6 sampark margon ka shilanyas aur 1 marg ka lokarpan MLA Ram Chandra Yadav ne kiya. Gaon: Sadari, Shujaganj, Hasnamau, Bajauli, Chhulha, Lodhanpurwa, Talgaon. Date article ki relative byline ("ravivar" + ~128 din pehle) se approx; weekday cross-check OK.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Rs 1.63 crore ki 3 sampark sadakon ka shilanyas (kul 2150 meter)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amrit Vichar, 2 Jun 2026 (approx)',
+      sourceUrl: 'https://www.amritvichar.com/article/583705/ayodhya-news--mla-ramchandra-yadav-accelerated-development--laid-the-foundation-stone-for-3-roads-to-be-built-at-a-cost-of-%E2%82%B91-63-crore',
+      date: '2026-06-02',
+      note: 'Shilanyas status — tevarit aarthik vikas yojana 2025-26 ke tehat: (1) Lohti Saraiya Naya Purwa se Bantapasi sthal tak 500m (bhoomi poojan), (2) Khushhali Kisan Seva Kendra (Bhelsar-Rudauli-Inhauna marg) se Sahab ka Purwa tak 700m, (3) Ramdheeha se Nayapurwa (Rechh Harchandpur) tak 950m. Kul lagat Rs 163.48 lakh; Grameen Abhiyantran Vibhag dwara nirman. Date article ki relative byline ("mangalvaar" + ~133 din pehle) se approx; weekday cross-check OK.',
+      period: '2022-2027',
+    },
+  ],
+  // RESEARCH TRAIL — abhay-singh (Abhay Singh, Goshainganj AC 276, SP, Ayodhya)
+  // Searches: Hindi + English ("अभय सिंह गोसाईगंज विधायक विकास कार्य शिलान्यास",
+  //   "अभय सिंह गोसाईगंज टांडा राज्य मार्ग चौड़ीकरण 247 करोड़ लोकार्पण",
+  //   "अभय सिंह गोसाईगंज विधायक लोकार्पण सड़क शिलान्यास 2025",
+  //   "गोसाईगंज अभय सिंह 407 करोड़ परियोजना लोकार्पण द्वापर विद्यापीठ बरईपारा",
+  //   "अभय सिंह गोसाईगंज विधायक शिलान्यास 2024 सड़क उद्घाटन")
+  // ACCEPTED: 3 news-verified items (all opened and verified, sabhi Dainik Bhaskar):
+  //   1. bhaskar.com — Gayaspur-Sakatpur sampark sadak nirman, MLA ki pahal par, ~50% kaam poora (reporting time).
+  //      Byline "8 mahine pehle" + 333-days-ago → ~Nov 2025 (approx).
+  //   2. bhaskar.com (amp) — Dashrathpur-Gyaspur 6.2 km marg chaudaikaran; MLA ke prastav par PWD swikriti +
+  //      pradesh sarkar se Rs 3.61 crore budget; kaam mahino baad phir shuru. "8 mahine pehle" + 325-days-ago
+  //      → ~Nov 2025 (approx).
+  //   3. bhaskar.com — Gosaiganj nagar panchayat me pauranik Shri Sitaram Ghat ka lokarpan (Durga visarjan/
+  //      Chhath/Deepotsav hetu). Byline "9 mahine pehle" + 374-days-ago → ~Oct 2025 (approx); visarjan timing
+  //      (Vijayadashami 2025 = 2 Oct) se consistent.
+  // REJECTED:
+  //   - aimamedia.org "Rs 407 crore pariyojanaon ka lokarpan" (Tanda highway Rs 247.42 cr + Akbarpur-Basakhari
+  //     bypass Rs 60.70 cr) — SINGLE chhota portal ("Clown Times" byline, emoji-laden), bade daavon ka koi
+  //     corroboration nahi mila → reject (weak attribution)
+  //   - public.app "Gayaspur-Sakatpur shilanyas stone doosri baar toota" — public.app-only (usi sadak par
+  //     Bhaskar ki credible reporting maujood, wahi use ki)
+  //   - YouTube "ek saal se adhuri sadak ka lokarpan" — YouTube-only
+  //   - YouTube "nagar panchayat Gosaiganj shilanyas/lokarpan" — YouTube-only
+  //   - YouTube "Jagran Vimarsh" — sirf event me maujood/bayan, kaam nahi
+  //   - Bhaskar "Gosaiganj MLA becomes member of Parliamentary Committee" — sansadiya samiti niyukti hai,
+  //     vikas kaam nahi
+  // IDENTITY: sabhi accepted sources me "गोसाईगंज विधायक अभय सिंह" explicit hai — same-naam ke anya vyaktiyon
+  //   se alag. Koi Ram Mandir/airport credit nahi diya gaya. Negative entry nahi banayi (koi credible
+  //   allegation-reporting nahi mili; myneta criminal-cases background profile me pehle se hai).
+  // CAVEAT (works entry nahi): ABP Live 13 Oct 2026 ke mutabik ye Abhay Singh (SP) 14 Oct 2026 ko BJP me
+  //   shamil ho rahe hain — party field update ki zaroorat pad sakti hai.
+  'abhay-singh': [
+    {
+      title: 'Gayaspur-Sakatpur sampark sadak ka nirman — 50% kaam poora',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ayodhya/gyaspur/news/construction-work-continues-on-the-age-old-road-in-ayodhya-136415066.html',
+      date: '2025-11',
+      note: 'Construction underway — reporting ke samay ~50% kaam poora, shesh jald poora hone ki ummeed. Gauraghat-Gayaspur sampark marg ko Sakatpur gaon se jodne wala marg (Gayaspur gram sabha, Goshainganj AC); Bhaskar ke mutabik "kshetriya vidhayak Abhay Singh ki pahal par" nirman ho raha hai. Grameenon ne vidhayak ka aabhar vyakt kiya. Date byline ("8 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Dashrathpur-Gyaspur 6.2 km marg ka chaudaikaran (Rs 3.61 crore)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Nov 2025 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/ayodhya/gyaspur/news/widening-work-of-dashrathpur-gyaspur-link-road-136482949.html',
+      date: '2025-11',
+      note: 'Sanction + construction restarted — vidhayak Abhay Singh ke prastav par Lok Nirman Vibhag ne swikriti di, pradesh sarkar ne chaudaikaran/sudridhikaran ke liye Rs 3.61 crore ka budget jari kiya; mahino baad kaam phir shuru hua. Marg 3.75m se 7m chauda hoga (Dashrathpur-Ramdasapur-Gaura hote hue Ramvangaman marg se judta hai). Date byline ("8 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gosaiganj me pauranik Shri Sitaram Ghat ka lokarpan',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Oct 2025 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ayodhya/mayabazar/news/gosaiganj-mla-inaugurated-sitaram-ghat-136087128.html',
+      date: '2025-10',
+      note: 'Completed/inaugurated — Gosaiganj nagar panchayat (Maya Bazar) me pauranik Shri Sitaram Ghat ka lokarpan vidhayak Abhay Singh ne phita kaatkar shilapatt ka anavaran karke kiya. Ghat Durga pratima visarjan, Chhath puja, Deepotsav par shraddhaluon ke liye; nagar panchayat adhyaksh Dr. Vijay Lakshmi Jaiswal maujood thin. Date byline ("9 mahine pehle") se approx; visarjan timing se consistent.',
+      period: '2022-2027',
+    },
+  ],
+
+  // RESEARCH TRAIL — chandrabhanu-paswan (Chandrabhanu Paswan, Milkipur (SC) AC 273, BJP; Feb 2025 upchunav me jeete)
+  // Searches: Hindi + English ("चंद्रभानु पासवान विधायक मिल्कीपुर विकास कार्य शिलान्यास लोकार्पण", name variants चंद्रभान/चंद्रभानु,
+  //   English "Chandrabhanu Paswan Milkipur MLA 2026"). Wo sirf Feb 2025 se MLA hain — coverage thin.
+  // ACCEPTED: 1 'dawa' entry (news me report hua MLA ka claim; note me "unverified claim" explicit):
+  //   1. bhaskar.com — patrakar-samman karyakram (nav varsh 2026) me MLA ne kaha Gahnag Baba sthan ke saundaryikaran ke liye karodon swikrit hue (opened + verified)
+  // REJECTED:
+  //   - nextkhabar.in "Vikas ka naya adhyay" (54 km / Rs 37.74 crore sadaken) — shilanyas CM Yogi ne Aug 2024 me kiya tha (Awadhesh Prasad era), article ~Feb 2025; Chandrabhanu ko credit nahi
+  //   - dainik.bhaskar.com TB Poshan Potli vitaran, CHC Milkipur (~Mar 2026) — sirf karyakram me vitaran/maujoodgi, koi vikas kaam nahi
+  //   - public.app "nimdi me kambal vitaran" — public.app-only + event, kaam nahi
+  //   - election coverage (shapath 18 Feb 2025, jeet analysis) — kaam nahi
+  //   - YouTube video "BJP ke paas road banvane ke paisa khatm... गंभीर आरोप" — YouTube-only, unverified allegation → reject
+  // DATE NOTE: bhaskar article par byline "7 महीने पहले"; event "nav varsh 2026 ke aagman par shukravaar" → ~2 Jan 2026; date approx.
+  'chandrabhanu-paswan': [
+    {
+      title: 'Gahnag Baba sthan ke saundaryikaran ke liye karodon swikrit hone ka daava',
+      category: 'Any',
+      badge: 'dawa',
+      sourceLabel: 'Dainik Bhaskar, Jan 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ayodhya/news/milkipur-mla-chandrabhanu-paswan-honored-journalists-strict-action-against-the-corrupt-136901852.html',
+      date: '2026-01',
+      note: 'Unverified claim — MLA ka apna daava, news me report hua. Nav-varsh-2026 ke patrakar-samman karyakram me Chandrabhanu Paswan ne kaha ki Milkipur me kai dharmik sthalon ka saundaryikaran ho raha hai aur "haal hi me Gahnag Baba sthan ke saundaryikaran ke liye karodon rupaye swikrit hue hain". Swikriti ki swatantra news-verification nahi mili. Date article ki relative byline ("7 mahine pehle") aur karyakram ke varnan se approx.',
+      period: '2022-2027',
+    },
+  ],
+  // RESEARCH TRAIL — amit-singh-chauhan (Dr. Amit Singh Chauhan, Bikapur AC, BJP; 2022 se MLA)
+  // Searches: Hindi + English ("अमित सिंह चौहान विधायक बीकापुर शिलान्यास लोकार्पण विकास कार्य", "Amit Singh Chauhan Bikapur MLA")
+  // ACCEPTED: 6 news-verified items (sab kholkar verify kiye):
+  //   1. amarujala.com — 19 anganwadi kendron ka lokarpan (Rs ~8 lakh prati kendra), ~Sep 2026
+  //   2. nextkhabar.in — 6 vikas karyon ka lokarpan (5 interlocking + 1 nali), ~Aug 2026
+  //   3. bhaskar.com — Mustafabad nyay panchayat me antyesti sthal ka shilanyas, ~Jan 2026
+  //   4. bhaskar.com — Ramnagar gram sabha me interlocking sadak ka udghatan, 7 Apr 2026 (exact date)
+  //   5. bhaskar.com — Kundurkha Khurd me interlocking sadak ka lokarpan (swasthya upkendra tak), ~Dec 2025
+  //   6. nextkhabar.in — Purvanchal Vikas Nidhi se bani 6 me se 2 sadakon ka lokarpan (Jeruva, Jalalpur), ~Nov 2022
+  // REJECTED:
+  //   - nextkhabar.in "CM se mile" (~18 Sep 2026) — 20 sadakon + overbridge ki MAANG (sirf maang/proposal reject); Rs 17 crore pumping station ke liye CM ko aabhar = weak attribution (MLA ki bhoomika sirf dhanyavaad) → reject
+  //   - nextkhabar 6-project article ka "67 sadakon ka lokarpan" daava — MLA ke bhashan ka daava, koi suchi/detail nahi; isliye sirf 6 listed karyon ko entry banaya
+  // DATE NOTES: 4 articles par exact date byline nahi thi — relative byline ("17 din"/"45 din"/"6 mahine"/"8 mahine pehle") se approx month. #4 me exact date: 7 April 2026.
+  // IDENTITY: sabhi articles me "Bikapur vidhayak Dr. Amit Singh Chauhan" clear hai; same-naam ke dusre vyaktiyon ke item nahi mile.
+  // CHHOTE PORTALS DISCLOSE: #2 aur #6 nextkhabar.in se hain (chhota local portal); baaki 4 bade akhbaaron se (Amar Ujala, Dainik Bhaskar).
+  'amit-singh-chauhan': [
+    {
+      title: 'Bikapur me 19 anganwadi kendron ka lokarpan (Rs ~8 lakh prati kendra)',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, Sep 2026 (approx)',
+      sourceUrl: 'https://amritujala.com/ayodhya-bikapur-mla-amit-singh-chauhan-inaugurates-19-anganwadi-centres/',
+      date: '2026-09',
+      note: 'Completed/inaugurated — Bikapur vidhayak Dr. Amit Singh Chauhan ne ek hi din sabhi 19 anganwadi kendron ka udghatan kiya. Pratyek kendra ki lagat ~Rs 8 lakh (kul ~Rs 1.5 crore). Date article ki relative byline ("17 din pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Bikapur ke 6 vikas karyon ka lokarpan (5 interlocking sadaken + 1 nali)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Next Khabar, Aug 2026 (approx)',
+      sourceUrl: 'https://nextkhabar.in/the-bikapur-mla-inaugurated-6-development-projects/',
+      date: '2026-08',
+      note: 'Completed/inaugurated — Puhampi (mandir ke paas se Om Prakash Singh ke ghar tak), Hajipur (Shubham ke ghar se Vinod Rawat ke ghar tak), Lakhori (Ram Surat ke ghar se Rajesh Singh ke ghar hote hue mandir tak), Raunahi (registry office ke saamne Adarsh Nagar Colony tak) me interlocking; Sardar ka Purwa me talab tak nali; Mustafabad Lodh ka Purwa me pakki sadak se Virendra Pandey ke ghar tak interlocking. Usi article me MLA ka "67 sadakon ka lokarpan" daava suchi ke bina tha — sirf 6 listed karyon ko entry banaya. Date relative byline ("45 din pehle") se approx. Next Khabar chhota local portal hai.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Mustafabad nyay panchayat (Sohawal) me antyesti sthal ka shilanyas',
+      category: 'Any',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Jan 2026 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/amp/local/uttar-pradesh/ayodhya/ramnagardhaurahra/news/bikapur-mla-laid-the-foundation-stone-for-the-cremation-ground-136863780.html',
+      date: '2026-01',
+      note: 'Shilanyas status — kaam abhi shuru hone wala hai. Bikapur vidhayak Dr. Amit Singh Chauhan ne Mustafabad nyay panchayat me antyesti sthal ka shilanyas kiya; barsaat me jalbharav se antim-sanskar me dikkat door karne ka uddeshya. Date article ki relative byline ("6 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Gram sabha Ramnagar (Sohawal tehsil) me interlocking sadak ka udghatan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, 7 Apr 2026',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ayodhya/sohawal/news/bjp-mla-inaugurates-interlocking-road-sohawal-ayodhya-137638965.html',
+      date: '2026-04-07',
+      note: 'Completed/inaugurated — Bikapur vidhayak Dr. Amit Singh Chauhan ne 7 April 2026 ko Ramnagar gram sabha me paschim pakki sadak se Ram Kewal Pasi ke ghar tak interlocking sadak ka udghatan kiya; shilalekh ka anaavaran bhi MLA ne kiya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Kundurkha Khurd me swasthya upkendra tak interlocking sadak ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Dainik Bhaskar, Dec 2025 (approx)',
+      sourceUrl: 'https://www.bhaskar.com/local/uttar-pradesh/ayodhya/sohawal/news/inauguration-of-interlocking-road-in-kundurkha-khurd-136572800.html',
+      date: '2025-12',
+      note: 'Completed/inaugurated — Bikapur vidhayak Dr. Amit Singh Chauhan ne Deodhi main road se swasthya upkendra hote hue Ram Sanjeevan Prajapati ki dukaan tak interlocking sadak ka lokarpan kiya. Sadak Pancham Vitt Ayog + Kendra ke 15th Finance Commission ke tehat nirmit. Article me "Sohawal vidhansabha kshetra" reporter ki bhool hai — sthal Sohawal tehsil/block (Bikapur AC ke andar) hai. Date relative byline ("8 mahine pehle") se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Purvanchal Vikas Nidhi se bani 2 sadakon ka lokarpan (Jeruva, Jalalpur)',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Next Khabar, Nov 2022 (approx)',
+      sourceUrl: 'https://nextkhabar.in/bikapur-mla-inaugurated-the-roads/',
+      date: '2022-11',
+      note: 'Completed/inaugurated — Purvanchal Vikas Nidhi ke tehat bani 6 me se 2 sadakon ka lokarpan MLA ne kiya: Jeruva me pakki sadak se Juggilal Pandey ke ghar tak interlocking, aur Jalalpur me Chhatrapal Singh ke ghar se Banshilal Nishad ke ghar hote hue Shahganj road tak interlocking. Next Khabar chhota local portal hai; date relative crawl se approx (article me "shanivaar" ka ullekh, Nov 2022 ke aaspaas).',
+      period: '2022-2027',
+    },
+  ],
+
+  // RESEARCH TRAIL — ved-prakash (Ved Prakash Gupta, Ayodhya AC 275, BJP)
+  // Identity check: MyNeta record https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=3218
+  //   "Ved Prakash Gupta", Ayodhya seat, BJP — searches used "Ved Prakash Gupta Ayodhya MLA" to avoid same-name traps.
+  // Searches: Hindi ("विधायक वेद प्रकाश अयोध्या शिलान्यास लोकार्पण विकास", "वेद प्रकाश गुप्ता विधायक अयोध्या विधायक निधि")
+  //   + English ("Ved Prakash Gupta Ayodhya MLA inaugurated foundation stone 2024 development").
+  // ACCEPTED: 7 news-verified items (all opened and verified):
+  //   1. samarsaleel.com — 20 Oct 2023: 43 sadaken (Rs 335.38 lakh) ka lokarpan + shilanyas — MLA nidhi (15 sadaken lokarpan, 18 ka shilanyas) + Purvanchal nidhi (10 lokarpan)
+  //   2. amarujala.com — 18 May 2025: 65 sadaken (Rs 13 crore) ka lokarpan/shilanyas, MLA ne khud kiya
+  //   3. livehindustan.com — 16 Jul 2026 (approx): 4 sadaken (Rs ~2.5 crore) ka shilanyas (Tvarit Vikas + Purvanchal Vikas yojana)
+  //   4. ayodhyasamachar.com — Mar 2026 (approx): Kachauli me 2 interlocking marg ka lokarpan
+  //   5. ayodhyasamachar.com — Mar 2026 (approx): Kanhaiya Bhagwan Singh Smarak school me adhayan kaksh ka shilanyas (same event)
+  //   6. livehindustan.com — 27 Apr 2026: Shri Ram Chikitsalaya jeernoddhar ka lokarpan
+  //   7. ayodhyasamachar.com — 14 Sep 2026 (approx): Jalaluddin Nagar + Sirsinda me 2 anganwadi kendra (Rs 11.84 lakh each) ka lokarpan
+  // REJECTED (sabse bada trap — Ram Mandir/Deepotsav/airport/corridor wali coverage):
+  //   - freepressjournal/outlook/indianexpress — CM Yogi ke Rs 432 crore projects, pran-pratishtha, solar city; sab CM/state-level, MLA ka koi concrete role nahi
+  //   - theshillongtimes (2019, pre-tenure) / organiser (2018, pre-tenure) — cutoff se pehle + state govt projects
+  //   - indiapublickhabar CM Yogi Rs 63 crore event — MLA sirf munchaseen tha (mere presence = reject)
+  //   - nextkhabar.in — medical college overbridge ke neeche avaidh nirman ki SHIKAYAT; vyapariyon ne MLA ko gyapan diya — kaam nahi, sirf maang (reject)
+  //   - indiapublickhabar Kachauli duplicate — same event ka repeat, alag entry nahi banayi
+  // DATE NOTES: livehindustan (4 sadaken) par "गुरुवार" + 89 days ago → 16 Jul 2026 (Thursday ✓) — exact date use ki.
+  //   ayodhyasamachar articles par sirf relative dates ("29 days ago", "197 days ago") thi + weekday hint (सोमवार/रविवार) —
+  //   weekday cross-check se exact-ish dates mili: Kachauli 29 Mar 2026 (Sunday ✓), anganwadi 14 Sep 2026 (Monday ✓);
+  //   sourceLabel me (approx) rakha hai. Portal caveat: ayodhyasamachar.com + indiapublickhabar.com chhote local news portals hain
+  //   (apni reporting ke saath, aggregator/YouTube-only nahi).
+  'ved-prakash': [
+    {
+      title: 'Rampur Sardha me 43 sadakon (Rs 3.35 crore) ka lokarpan aur shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Samar Saleel, 20 Oct 2023',
+      sourceUrl: 'https://samarsaleel.com/development-of-villages-is-not-possible-without-roads-ayodhya-mla-inaugurated-and-laid-the-foundation-stone-of-34-roads/364183',
+      date: '2023-10-20',
+      note: 'Mixed status - lokarpan: MLA nidhi se 15 sadaken (Rs 127.36 lakh) + Purvanchal nidhi se 10 sadaken (Rs 83.5 lakh); shilanyas: MLA nidhi se banne wali 18 sadaken (Rs 124.58 lakh). Kul Rs 335.38 lakh, 43 sadaken. Gramoday Mahavidyalaya, Rampur Sardha (Pura block) me samarooh; MLA Ved Prakash Gupta ne khud lokarpan/shilanyas kiya.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Ayodhya vidhansabha kshetra ki 65 sadakon (Rs 13 crore) ka lokarpan-shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Amar Ujala, 18 May 2025',
+      sourceUrl: 'https://www.amarujala.com/uttar-pradesh/ayodhya/inauguration-and-foundation-stone-laying-of-65-roads-at-a-cost-of-13-crores-ayodhya-news-c-13-1-lko1045-1209400-2025-05-18',
+      date: '2025-05-18',
+      note: 'MLA ne Circuit House me samarooh me khud 65 sadakon ka lokarpan/shilanyas kiya (kul lagat Rs 13 crore). Gaon/mohallon ko mukhya margon se jodne wali sadaken; date URL ki publish date se (ravivar = 18 May 2025 ✓).',
+      period: '2022-2027',
+    },
+    {
+      title: 'Chaar sadakon (Rs ~2.5 crore) ke nirman ka shilanyas',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Hindustan (Live Hindustan), 16 Jul 2026 (approx)',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/ayodhya/story-ayodhya-mla-lays-foundation-for-road-construction-projects-worth-2-5-crores-201784197041977.html',
+      date: '2026-07-16',
+      note: 'Shilanyas status - Tvarit Vikas Yojana + Purvanchal Vikas Yojana ke tehat: Dashrathpur ward (Panchkosi parikrama marg se Makkhapur, 1.12 km, Rs 60.75 lakh), Raebareli road se Sultanpur road (1.40 km, Rs 99.72 lakh), Hanumatnagar ward (300 m, Rs 35.28 lakh), Ranopali (Mani Parvat sampark marg se Narayan Sanskrit Mahavidyalaya, 370 m, Rs 48.46 lakh). MLA ne shilanyas kiya; date article ke "Guruvaar" + relative byline se approx.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Kachauli me do interlocking marg ka lokarpan',
+      category: 'Sadak',
+      badge: 'news',
+      sourceLabel: 'Ayodhya Samachar, Mar 2026 (approx)',
+      sourceUrl: 'https://ayodhyasamachar.com/mla-ved-prakash-gupta-inaugurated-interlocking-roads-and-laid-the-foundation-stone-for-a-study-room/?amp=1',
+      date: '2026-03',
+      note: 'Completed/inaugurated - gram panchayat Kachauli: pakki sadak se Gayatri Sarvodaya Vidyalaya tak aur Sitaram ke ghar se Ramgulam Maurya ke ghar tak interlocking marg; MLA ne lokarpan kiya. Chhote local portal ki report; date relative byline ("Ravivaar") se approx - Mar 2026.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Kanhaiya Bhagwan Singh Smarak school me adhayan kaksh ka shilanyas',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Ayodhya Samachar, Mar 2026 (approx)',
+      sourceUrl: 'https://ayodhyasamachar.com/mla-ved-prakash-gupta-inaugurated-interlocking-roads-and-laid-the-foundation-stone-for-a-study-room/?amp=1',
+      date: '2026-03',
+      note: 'Shilanyas status - Kanhaiya Bhagwan Singh Smarak Ucchatar Madhyamik Vidyalaya, Pure Pahlawan Baisingh me adhayan kaksh (study room) nirman ka shilanyas; MLA ne upar wali sadak-event ke saath hi kiya. Chhote local portal ki report; date relative byline se approx - Mar 2026.',
+      period: '2022-2027',
+    },
+    {
+      title: 'Shri Ram Chikitsalaya ke jeernoddhar karyon ka lokarpan',
+      category: 'Aspataal',
+      badge: 'news',
+      sourceLabel: 'Hindustan (Live Hindustan), 27 Apr 2026',
+      sourceUrl: 'https://www.livehindustan.com/uttar-pradesh/ayodhya/story-inauguration-of-renovated-shri-ram-hospital-in-ayodhya-by-mla-ved-prakash-gupta-201777286270119.html',
+      date: '2026-04-27',
+      note: 'Completed/inaugurated - purane emergency block, X-ray block aur old ward ka poorn jeernoddhar (nayi flooring, partition, false ceiling, modern bed, AC), 100+ fully automatic Fowler bed, ICU/OT/emergency/ENT/dental ke atyadhunik upkaran. MLA ne lokarpan kiya aur marizon se baatchit ki. (Article me inspection ka bhi zikr hai, lekin lokarpan hi mukhya daava hai.)',
+      period: '2022-2027',
+    },
+    {
+      title: 'Jalaluddin Nagar aur Sirsinda me do anganwadi kendron ka lokarpan',
+      category: 'School',
+      badge: 'news',
+      sourceLabel: 'Ayodhya Samachar, 14 Sep 2026 (approx)',
+      sourceUrl: 'https://ayodhyasamachar.com/children-and-mothers-to-receive-better-facilities-at-anganwadi-centers-ved-prakash-gupta/',
+      date: '2026-09-14',
+      note: 'Completed/inaugurated - Pura Bazaar kshetra: Jalaluddin Nagar aur Sirsinda me navnirmit anganwadi kendra (pratyek Rs 11.84 lakh; kamra + kitchen + shauchalaya). MLA ne lokarpan kiya; usi din 2 bachchon ka annaprashan aur ek garbhvati ki godbharai bhi. Category: bachchon ki shiksha-poshan kendra hone se School rakha. Chhote local portal ki report; date "Somvaar" + relative byline se approx.',
+      period: '2022-2027',
+    },
+  ],
+
 };
