@@ -41,6 +41,17 @@ export interface Background {
   backgroundNote?: string;
 }
 
+export interface PrevAffidavit {
+  year: string;
+  age: string;
+  education: string;
+  criminalCases: number;
+  assets: string;
+  assetsNum: number;
+  liabilities: string;
+  mynetaUrl: string;
+}
+
 export interface Neta {
   slug: string;
   name: string;
@@ -55,6 +66,7 @@ export interface Neta {
   works: Work[];
   fund: FundInfo | null;
   background: Background;
+  prevAffidavit?: PrevAffidavit | null;
   electionNote: string;
 }
 

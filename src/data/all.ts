@@ -8,6 +8,7 @@ import { gujMpNetas, gujMpConstituencies } from './gujarat_mp';
 import { gujRsNetas, gujRsConstituencies } from './gujarat_rs';
 import { mhaWorks } from './works_mha';
 import { gujWorks } from './works_guj';
+import { prevMha } from './prev_mha';
 import type { Neta, Constituency } from './pilot';
 
 export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas];
@@ -17,6 +18,11 @@ export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstitu
 for (const n of allNetas) {
   const w = (n.state === 'Gujarat' ? gujWorks : mhaWorks)[n.slug];
   if (w && w.length) n.works = [...n.works, ...w];
+}
+
+// Overlay 2019 affidavit comparison data (Maharashtra MLAs)
+for (const n of allNetas) {
+  n.prevAffidavit = prevMha[n.slug] ?? null;
 }
 
 // State helpers
