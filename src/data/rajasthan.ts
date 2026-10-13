@@ -3568,7 +3568,7 @@ export const rajNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Rajasthan2023/candidate.php?candidate_id=283',
       backgroundNote: '',
     },
-    electionNote: '2023 me Lohawat se jeete.',
+    electionNote: '2023 me Lohawat se jeete; Rajasthan sarkar me chikitsa evam swasthya mantri hain.',
   },
   {
     slug: 'babu-singh-rathor',
