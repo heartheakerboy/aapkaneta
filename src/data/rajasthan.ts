@@ -528,8 +528,8 @@ export const rajNetas: Neta[] = [
   {
     slug: 'manoj-kumar-s-o-swai-singh',
     name: 'Manoj Kumar S/O Swai Singh',
-    party: 'Bahujan Samaj Party',
-    partyShort: 'BSP',
+    party: 'Shiv Sena',
+    partyShort: 'SHS',
     post: 'MLA',
     state: 'Rajasthan',
     constituency: 'Sadulpur',
@@ -552,7 +552,7 @@ export const rajNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Rajasthan2023/candidate.php?candidate_id=366',
       backgroundNote: '',
     },
-    electionNote: '2023 me Sadulpur se jeete.',
+    electionNote: '2023 me Sadulpur se BSP ticket par jeete; April 2024 me Shiv Sena (Shinde) me shamil hue.',
   },
   {
     slug: 'narendra-budania',
@@ -2239,8 +2239,8 @@ export const rajNetas: Neta[] = [
   {
     slug: 'jaswant-singh-gurjar',
     name: 'Jaswant Singh Gurjar',
-    party: 'Bahujan Samaj Party',
-    partyShort: 'BSP',
+    party: 'Shiv Sena',
+    partyShort: 'SHS',
     post: 'MLA',
     state: 'Rajasthan',
     constituency: 'Bari',
@@ -2263,7 +2263,7 @@ export const rajNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Rajasthan2023/candidate.php?candidate_id=731',
       backgroundNote: '',
     },
-    electionNote: '2023 me Bari se jeete.',
+    electionNote: '2023 me Bari se BSP ticket par jeete; April 2024 me Shiv Sena (Shinde) me shamil hue.',
   },
   {
     slug: 'shobharani-kushwah',

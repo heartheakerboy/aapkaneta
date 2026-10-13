@@ -2293,4 +2293,78 @@ export const rajWorks: Record<string, Work[]> = {
     note: 'lokarpan — nagar palika dwara nirmit udyan (200+ prajati ke paudhe, morning-walk path, open gym) ka lokarpan; vidhayak mukhya atithi rahe aur precast path ke liye vidhayak kosh se rashi ki ghoshna ki. Nagar palika ka kaam — vidhayak ki bhoomika mukhya-atithi + kosh-ghoshna tak. Exact date page par nahi mili.',
   },
   ],
+  // ---- Churu district batch (researched 2026-10-13) ----
+  'narendra-budania': [
+  {
+    title: 'Taranagar Ward 07 me uchch jalashay ka shilanyas; karodon ke vikas karyon ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Zee News Hindi (exact date page par nahi mili — est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/rajasthan/churu/churu-news-gift-of-taranagar-mla-narendrabudania-inaugurated-development-works-worth-crores-of-rupees/1617754',
+    date: '2025 (est.)',
+    note: 'shilanyas + lokarpan — Taranagar ke Ward 07 me banne ja rahe uchch jalashay ka shilanyas aur ward me bane karodon rupaye ke vikas karyon ka lokarpan; mauke par drainage, pakki sadkon aadi ki ghoshna bhi ki. Exact date page par nahi mili.',
+  },
+  ],
+  'anil-kumar-sharma': [
+  {
+    title: 'Rupalisar school me kabaddi mat ka lokarpan; naye classroom + CC road ki ghoshna',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Jan 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/churu/sardarshar/news/rajasthan-mla-anil-sharma-inaugurates-kabaddi-mat-roopalsar-137011461.html',
+    date: '2025-01 (est.)',
+    note: 'lokarpan + ghoshna — rajkiya school Rupalisar (Sardarshahar) me kabaddi khel mat ka lokarpan; isi avsar par vidyalaya me naya classroom banwane aur school ke paas CC road nirman ki ghoshna. Exact date page par nahi mili.',
+  },
+  ],
+  'poosaram-godara': [
+  {
+    title: 'Ratangarh Ward 39 me ₹8L vidhayak-kote se community hall jirnoddhar ka udghatan; ek aur hall ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Dec 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/churu/ratangarh/news/ratangarh-community-hall-inaugurated-after-renovation-136577215.html',
+    date: '2025-12 (est.)',
+    note: 'udghatan + ghoshna — Bisayati Mohalla (Ward 39) me vidhayak kote ke ₹8 lakh se jirnoddhar hue samudayik bhavan ka udghatan; ek aur hall banwane ki ghoshna. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Vidhayak kosh se ₹70.86L ke grameen vikas karyon ki manjuri',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Oct 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/churu/ratangarh/news/works-worth-rs-7086-lakh-approved-from-ratangarh-mla-fund-136315852.html',
+    date: '2025-10 (est.)',
+    note: 'manjuri — goshala pashu aashray sthal, interlock sadak, jal grahan koop, CC block, tin shed, Ambedkar bhavan kamra, shaheed smarak tin shed, school kamra/chardeewari aur samudayik bhavan sahit kai karyon ki swikriti. Exact date page par nahi mili.',
+  },
+  {
+    title: 'Bidasar Dhani Kumharan me ₹6L dressing room ka lokarpan; high mask light ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Sep 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/rajasthan/churu/bidasar/news/inauguration-of-dressing-room-in-bidasar-136259632.html',
+    date: '2025-09 (est.)',
+    note: 'lokarpan + ghoshna — khel maidan me ₹6 lakh ke dressing kakshon ka lokarpan; raatri khelon hetu high mask light lagane ki ghoshna. Exact date page par nahi mili.',
+  },
+  ],
+  'manoj-kumar': [
+  {
+    title: 'Sujangarh Dulia Talai me pump house + underground pipeline ka shilanyas (jalbharao mukti)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Feb 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/rajasthan/churu/sujangarh/news/sujangarh-mla-manoj-meghwal-jalbhrav-mukti-dulia-talai-pump-house-137102369.html',
+    date: '2025-02 (est.)',
+    note: 'shilanyas — Dulia Talai kshetra me naye pump house aur underground pipeline ka shilanyas; lambe samay se jalbharao ki samasya se rahat ka daava. Note: news reports me vidhayak "Manoj Meghwal" naam se report hote hain (myneta affidavit naam: Manoj Kumar). Exact date page par nahi mili.',
+  },
+  ],
+  'harlal-saharan': [
+  {
+    title: 'Churu Shanti Nagar me ₹49.98L West to Wealth Park ka shilanyas (sanyukt)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pinewz (local portal), 21 Dec 2025',
+    sourceUrl: 'https://pinewz.com/hindi/video/rajasthan/churu-churu-shantinagar-west-to-wealth-park-inauguration-a-step-toward-cleanliness-1766332075640',
+    date: '2025-12-21',
+    note: 'shilanyas — poorv mantri Rajendra Rathore aur nagar parishad aayukt ke saath sanyukt shilanyas/bhoomi pujan; rajya budget 2025-26 ghoshna ki pariyojana. Chhota local portal — attribution madhyam.',
+  },
+  ],
 };
