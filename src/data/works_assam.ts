@@ -384,3 +384,107 @@ assamWorks['jibesh-roy'] = [];
 
 
 // COORDINATOR QA NOTE (dhubri): marker 1x; 5 slugs, har slug exactly once, sabhi pehle khaali the (grep verified) — koi overwrite nahi; 0 entries, 5 profiles imaandari se khaali (sabha ~5.5 mahine purani); identities verify — dono 'Sarkar' upnaam wale seat+party se alag rakhe (Ashwini Ray Sarkar = BJP Golakganj, ab cabinet minister; Abdus Sobahan Ali Sarkar = INC Gauripur); Wazed Ali Choudhury LoP hain — virodh/dharna entries nahi; Jibesh Roy spell-variant note reject-log me; koi Devanagari/rupee-symbol/escaped-\n nahi; tsc+build pass.
+
+
+// ---- Dibrugarh district batch (researched 2026-10-14) ----
+
+assamWorks['binod-hazarika'] = [];
+
+// REJECT-LOG (binod-hazarika): profile KHAALI raha — May 2026 ke baad ka koi qualifying kshetra-kaam established media me nahi mila. (1) Sri Sri Aniruddhadeva Sports University page (unis10.com), 26 Jun 2026: Paniera Gaon (Chabua) me university ke sthayi campus ki Bhumi Puja — samaroh construction agency M/s M. P. Khaitan aur PWD (Building) Division Dibrugarh ne ayojit kiya, Bhumi Puja Vice Chancellor ne ki; Hazarika sirf "graced by the presence" — sirf maujoodgi (ceremonial), reject. (2) dailyprabhat.com (ANI), ~Sep 2026: Mulukgaon me Assam Cricket Association ke cricket pavilion ka lokarpan — Hazarika "gracious presence" me kai dignitaries ke saath maujood the — sirf maujoodgi + ACA ki pariyojna, reject. (3) nenow.in/hubnetwork.in, Jul 2025: CM ne Dibrugarh me Rs 65 crore ke integrated administrative complex ka shilanyas kiya — karyakaal se pehle + Hazarika sirf upasthit the, reject. (4) Sentinel, Feb 2026: Dibrugarh me Gaurav Gogoi ke khilaf BJP protest rally — karyakaal se pehle ka party karyakram, reject. (5) Sentinel/NENow, Apr 2026: "Tea garden vote holds key in Chabua-Lahowal" aur AGP-BJP ticket tug-of-war coverage — chunav-prachar vishleshan, kaam-khabar nahi, reject. (6) Election-result coverage May 2026 (Indian Express, TOI, ETV Bharat, Business Standard) — kaam-khabar nahi, reject. (7) Sentinel: Jamugurihat me "educationist Binod Hazarika" par book release — naam-milanjulta GALAT vyakti (retired principal, Naduar kshetra), reject. (8) Pratidin Time: Chabua me AASU-BJP workers clash (2019-20 era, convoy vivad) — karyakaal se pehle + sirf aarop, koi FIR/case/adhikarik karyavahi established media me nahi, negative criteria poora nahi, reject. (9) Pre-term MLA-era: Oct 2020 me CM Sonowal dwara Chabua Sports Association Stadium/Indoor Stadium ka shilanyas (IndiaTodayNE/NENow) — karyakaal se pehle + Hazarika sirf maujood the; 2019-era NHIDCL highway repair meeting me maujoodgi (Afternoon Voice) — karyakaal se pehle, reject. (10) NOTE: task me "Binod Hazarika pehle MP bhi rahe hain" likha tha — research me iska koi saboot NAHI mila; Dibrugarh Lok Sabha ke MP-record me unka naam nahi hai; unka darj career hai: MLA Chabua (2016-21), MLA Lahowal (2021-26), MLA Chabua-Lahowal (2026+). Koi MP-era/MP-fund attribution wali khabar mili hi nahi. (11) Koi negative (FIR/case/adalaati/adhikarik janch) reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['prasanta-phukan'] = [
+  {
+    title: 'Dibrugarh ke Lekai me Rs 25 crore ki Northeast ki pehli Integrated Waste Management Facility (IWMF) ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Northeast Now, 19 Jun 2026',
+    sourceUrl: 'https://nenow.in/north-east-news/assam/assam-northeasts-first-integrated-waste-management-facility-inaugurated-in-dibrugarh.html',
+    date: '2026-06-19',
+    note: '19 Jun 2026 ko Northeast Now ki reporting ke mutabiq Dibrugarh ke vidhayak Prasanta Phukan ne Lekai (Dibrugarh) me Northeast ki pehli Integrated Waste Management Facility (IWMF) ka lokarpan kiya; lagbhag Rs 25 crore ki lagat wali yeh facility Assam Waste Management Project ke tehat sthapit hui hai aur roz 1000 metric ton se zyada municipal, industrial aur biomedical kachra process kar sakti hai, jisse Dibrugarh ke saath Duliajan, Chabua aur Naharkatia ke padosi shaharon ko bhi seva milegi. Stage: lokarpan. Disclosure: yeh rajya sarkar ki pariyojna hai (Assam Waste Management Project); Phukan ne iska shilanyas ya swikriti nahi di thi, unhone apne kshetra me bani facility ka lokarpan apne haath se kiya. Phukan cabinet mantri bhi hain (Power, Skill, Medical Education), lekin is karyakram me woh Dibrugarh ke sthaniya vidhayak ke roop me the, isliye yeh unke kshetra-kaam ke roop me darj hai, rajya-stariya mantri-faisle ke roop me nahi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (prasanta-phukan): (1) hubnetwork.in, 1 Jul 2026: Chowkidingee Field me CM FIFA Fan Park ka lokarpan Phukan ne kiya — lekin yeh Assam Tourism Development Corporation ki pahal par bana TEMPORARY event venue tha (FIFA World Cup matches dekhne ke liye giant LED screens), sthayi vikas-kaam nahi; MLA ki bhoomika sirf udghatan tak — reject. (2) Sentinel, ~Jan 2026: Bairagimath Kachari Gaon me Adarsha Anganwadi Centre ka shilanyas — karyakaal se pehle, reject. (3) Sentinel, Feb 2026: Dibrugarh Hindu Milan Mandir me community centre ka shilanyas (CM Untied Fund, Rs 5 lakh) — karyakaal se pehle, reject. (4) TOI, ~Nov 2025: Dibrugarh Town Water Supply Project (Part-2) aur sewage treatment plant ka shilanyas PHE mantri Jayanta Mallabaruah ne kiya — karyakaal se pehle + Phukan sirf upasthit the, reject. (5) NENow/TOI, 30 Jun 2026: Health Minister Ashok Singhal ne AMCH Dibrugarh ka nirikshan kiya — Phukan sirf saath me the, koi apna kadam nahi — sirf maujoodgi, reject. (6) Free Press Journal/NE Herald, 5 Oct 2026: 540-tonne methanol cargo Dibrugarh se Bangladesh ravaana — Phukan "among those present" — sirf maujoodgi, reject. (7) Assam Tribune, ~10 Oct 2026: Dibrugarh cricket infrastructure upgrade lokarpan (Union Minister Sonowal ne kiya) — Phukan sirf maujood the, reject. (8) public.app, 7 Oct 2026: 40 patients ko CM Relief Fund ke cheque — public.app-only source + vyaktigat welfare vikas-kaam nahi, reject. (9) NENow, ~2021: "Amrit Dhara" drinking water project lokarpan (Jyoti Lalita Kanoi Foundation/Marwari Yuva Manch) — karyakaal se pehle + company/foundation ki pariyojna me sirf udghatan, reject. (10) Pre-term mantri-karyakram: Jun 2024 me CM dwara Namrup 25 MW solar project ka shilanyas (India TV/ANI) — karyakaal se pehle + Phukan sirf maujood, reject. (11) Chunav-prachar coverage (nenow/indiatodayne/bharathorizon, Feb-May 2026): youth convention, CM roadshow, renomination, jeet ki khabar — kaam-khabar nahi, reject. (12) aryanage.com, ~Aug 2026: netaon dwara Phukan ko janmdin ki shubhkamnayein — kaam-khabar nahi, reject. (13) Koi qualifying negative (FIR/case/adalaati/adhikarik janch) reporting established media me nahi mili.
+
+assamWorks['chakradhar-gogoi'] = [];
+
+// REJECT-LOG (chakradhar-gogoi): profile KHAALI raha — qualifying entry koi nahi mili. (1) NENOW ~Mar 2026: Jungaon (Haldibari Panchayat, Khowang) ke nivasiyon ki concrete sadak aur peya-jal ke liye chunav-bahishkar ki dhamki; unhone MLA par 10 saal se kaam na karne ka aarop lagaya — chunav-se-pehle + sirf shikayat/aarop, koi FIR/case/adhikarik janch nahi, negative-entry criteria poora nahi, reject. (2) IndiaTodayNE 27 Feb 2026 (video): Dihing Than gaon (Khowang) me Dihing nadi ke kataav se ~150 parivar pareshan; nivasiyon ne MLA Chakradhar Gogoi par sthayi samadhan na dene ka aarop lagaya — pre-term + sirf aarop, reject. (3) dy365live / Guwahati Times 10 May 2026: jeet ke baad Gogoi ka Congress 'political extinction' ki taraf hai wala bayan — sirf rajnaitik bayan, kaam nahi, reject. (4) IndiaTodayNE 9 Jul 2026: Assembly me 6 samudayon ko ST status par Gogoi ke prashn ka mantri Ranoj Pegu ne jawab diya (koi nishchit samay-seema nahi) — sansadiya prashn, sirf maang, koi poorn kaam/lokarpan/swikriti/shilanyas nahi, reject. (5) ~Oct 2026, Bogibeel se Bangladesh ke liye pehla antarrashtriya cargo flag-off (neherald / northeasttoday / thenewsmanofindia / jharkhandstatenews): Gogoi Khowang MLA ke roop me upasthit atithiyon me — mantriyon/IWAI ke karyakram me sirf maujoodgi, reject. (6) IndiaTodayNE video 12 Feb 2026: Moran highway par Emergency Landing Facility review me CM ke saath Gogoi maujood; PM ne 14 Feb ko inauguration kiya — pre-term + CM/PM karyakram me sirf maujoodgi, reject. (7) Chunav-prachar coverage (IndiaTodayNE / FirstIndia / Economic Times / hubnetwork / Sentinel, Mar-Apr 2026): infrastructure aur tea-garden schools ke provincialisation ke daave — prachar-bayan, kaam nahi, reject. (8) Parinaam coverage (Sentinel / Mathrubhumi / TOI, 4-5 May 2026) — chunav khabar, reject. (9) YouTube podcast 'PodcastWithSuprity' (~Jun 2026): Gogoi ka vision/development par interview — YouTube-only + bayan, reject. Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['rameswar-teli'] = [
+  {
+    title: 'Duliajan ke Madhabpur me 830-metre Rail Over Bridge (Madhabpur-Tipling Road) ka lokarpan kiya — Rs 72 crore ki laagat se railway crossing ka traffic jam khatm',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sentinel Assam, 22 Jun 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/state-minister-rameswar-teli-inaugurates-duliajans-first-rail-over-bridge-rob',
+    date: '2026-06-21',
+    note: 'The Sentinel Assam ki 22 Jun 2026 ki reporting ke mutabiq rajya mantri Rameswar Teli ne 21 Jun 2026 (Ravivar) ko Duliajan ke Madhabpur me 830-metre Rail Over Bridge ka lokarpan kiya; Madhabpur-Tipling Road par railway crossing par roz lagne wale lambe jam ka yeh bridge sthayi samadhan hai aur Oil India ke karmchariyon sahit aam yatriyon aur maal-vahanon ko labh milega. Stage: poorn (lokarpan). Disclosure: kul laagat Rs 72 crore — Assam sarkar ka yogdaan Rs 47 crore, Indian Railways ka Rs 25 crore. Is ROB ka shilanyas Dec 2022 me CM Himanta Biswa Sarma ne "Bikakhor Babe Eta Pokhek" (Vikas Pakhwada) ke dauran Dibrugarh jile ke Rs 973.38 crore package me kiya tha, jisme Teli us samay kendriya rajya mantri ke roop me maujood the; nirmaan uske baad poora hua aur lokarpan Teli ne Duliajan ke sthaniya MLA aur rajya mantri ke roop me June 2026 me kiya. Samaroh me unhone kaha ki yeh bridge logon ki lambe samay se chali aa rahi maang thi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (rameswar-teli): (1) Sentinel ~Jun/Jul 2026: Tinsukia me A.T. Road-Sripuria ROB (Rs 65 crore, 720-metre) ka Teli dwara lokarpan — Tinsukia Duliajan seat se bahar hai (Teli wahan Guardian Minister ke roop me the) — kshetra se bahar, reject. (2) Sentinel: 'Minister Rameshwar Teli reviews progress of development schemes in Tinsukia' — Tinsukia out-of-seat + sirf samiksha, koi poorn kaam nahi, reject. (3) Sentinel: Teli aur BTR Chief Pramod Boro ne Chirang me Rs 540 crore, 20,000 KL HPCL depot ka anaavaran kiya — Chirang Duliajan se bahar, reject. (4) IndiaTodayNE 28 Jun 2026: Naoholia (Duliajan) de-addiction centre me 18-saal ke Amon Sonar ki maut ki janch ki Teli ne Duliajan thane me samiksha ki — law-and-order samiksha/nirdesh, vikas-kaam nahi, reject. (5) nationpress ~21 Jun 2026: kendriya mantri Hardeep Puri ki Duliajan me Teli se mulaqat — sirf saujanya-mulaqat, kaam nahi, reject. (6) IndiaTV / NDTV / IndiaTodayNE 12-14 May 2026: 12 May 2026 ko Cabinet mantri ke roop me shapath + vibhag aavantan (Transformation and Development, Labour Welfare, Tea Tribes and Adivasi Welfare) — sansthanik khabar, seat-level kaam nahi, reject. (7) The Statesman: kendriya rajya mantri ke roop me Teli ne Tinsukia me 20-bed ESIC Hospital ka lokarpan aur 100-bed ESIC Hospital (Rs 136 crore) ka shilanyas kiya — Union mantri-era (2024 se pehle) + Tinsukia out-of-seat — MP/mantri-era ka kaam task-niyam se excluded, reject. (8) Pratidin Time Jul 2021: Union MoS (Labour & Employment, Petroleum & Natural Gas) ka padbhar — pre-term, reject. (9) Chunav coverage (Indian Express / TOI / ABP Live / IndiaTodayNE / Business Today, Apr-May 2026): Duliajan jeet (71,467 vote, 10,459 ka antar) — chunav khabar, reject. (10) Dibrugarh ke MP (2014-2024) aur Rajya Sabha MP (Aug 2024-Apr 2026) ke dauran ki saari yojnaen/udghatan — task-niyam ke tahat MP/mantri-era ka poora kaam is profile se bahar, reject.
+
+assamWorks['bimal-borah'] = [];
+
+// REJECT-LOG (bimal-borah): profile KHAALI raha — koi qualifying entry nahi mili. 5 Jun 2026 se cabinet minister
+// hain (Cultural Affairs, Industries, Commerce & Public Enterprises, Act East Policy Affairs), isliye May-Oct 2026 ki
+// coverage lagbhag poori tarah minister-capacity (vibhagiya ghoshnaen, CM ke karyakramon me maujoodgi, review meetings)
+// par hai, Tingkhong seat ke vyaktigat lokarpan/shilanyas/poorn-kaam/pakki swikriti par nahi.
+// (1) thenewsmill/newsable (Asianet/ANI)/nationpress/devdiscourse/Sentinel/India Today NE, 13-14 Oct 2026 (khud khola
+// gaya): CM ne Naharkatia Multipurpose Sports Complex (pehla phase Rs 22 crore, ~34 bigha) ka udghatan kiya; Bimal
+// Borah Cultural Affairs Minister ke roop me sirf upasthit the — na unki seat (Naharkatia) hai, na unhone act kiya —
+// sirf maujoodgi, reject. (2) The Sentinel, ~Dec 2025: Artists Health Insurance Scheme portal ka virtual udghatan
+// Tingkhong se minister Bimal Borah dwara — pre-term (Dec 2025) + vibhagiya/minister-capacity launch, reject.
+// (3) Pratidin Time: CM ne Tingkhong me Rs 937.38/973.38 crore ki pariyojnaon ke shilanyas/udghatan kiye
+// ('A Fortnight for Development') — khud khola gaya; Northeast Today 24 Dec 2022 ki reporting se confirm hua ki ye
+// Dec 2022 ka karyakram tha — pre-term + CM ne act kiya, MLA ki dastavezi bhoomika nahi, reject.
+// (4) ETV Bharat Assamese, 4 Feb 2026: Tingkhong me vikas par voter opinion piece — pre-term (Feb 2026) + sirf
+// rai, koi kshetra-kaam report nahi, reject. (5) Assam Tribune (purana, ~2010): 43 gaon me bijli + 433 parivaron ko
+// land-allotment certificates, MLA Bimal Borah ne udghatan kiya — karyakaal se bahut pehle, reject.
+// (6) Cabinet expansion coverage (The Hindu/HT/ET/Outlook/IndiaTV, 5-8 Jun 2026): shapath + portfolio allocation —
+// pad-bhoomika, kshetra-kaam nahi, reject. (7) Chunav coverage (Indian Express/TOI/India Today NE/Oneindia, May 2026) —
+// kaam-khabar nahi, reject. (8) NDTV: Borah ke naam par fake WhatsApp account banane walon ke khilaaf unhone khud
+// police case darj karaya — ve complainant/victim hain, aaropi nahi; negative criteria poora nahi, reject.
+// (9) lokmattimes Bimal Bora topic page — aggregate, koi dated works claim nahi, reject.
+// Negative entry qualify nahi karti: May-Oct 2026 me unke khilaaf koi FIR/case/adalaati faisla ya adhikarik janch
+// established reporting me darj nahi hai; Telegraph ka purana "chargesheet against Bora" alag vyakti (Gohpur ke
+// poorv mantri) par hai. Profile imaandari se khaali rahi.
+
+assamWorks['taranga-gogoi'] = [];
+
+// REJECT-LOG (taranga-gogoi): profile KHAALI raha — koi qualifying entry nahi mili. Ve dusri baar MLA chune gaye
+// (87,768 vote, 62,282 margin; TOI), 6 Jun 2026 se CM ke Political Secretary (Assam Tribune) aur ACA President hain.
+// (1) thenewsmill/newsable (Asianet/ANI)/nationpress/devdiscourse/Sentinel/India Today NE, 13-14 Oct 2026 (khud khola
+// gaya): CM Himanta Biswa Sarma ne 13 Oct 2026 ko Naharkatia (Naggaon) me Multipurpose Sports Complex ka udghatan
+// kiya — pehla phase Rs 22 crore, ~34 bigha, cricket ground + swimming pool + football ground + athletics + hockey +
+// gymnasium. CM ne publicly kaha ki "MLA Taranga Gogoi ke prayason aur leadership" se ye suvidhaen aayi, lekin:
+// (a) swikriti/shilanyas karyakaal se pehle ka hai — Northeast Today 24 Dec 2022: CM ne 'Fortnight for Development' me
+// Naharkatia sahit mini stadiums ke shilanyas kiye the; (b) vartaman karyakaal me udghatan ka act CM ka tha, MLA sirf
+// upasthit the; (c) CM ki tareef "prayas/leadership" ki hai — koi dastavezi concrete kadam (GO/sanction/shilanyas) MLA
+// dwara article me darj nahi — niyam ke mutabiq sirf prayas = reject. Entry nahi bani.
+// (2) ACA cricket stadium (thenewsmill Oct 2026; Pratidin Time: ACA ne pavilion/cricket ground ka shilanyas kiya):
+// Assam Cricket Association ki pariyojna — sarkari pariyojna nahi; Gogoi ki bhoomika ACA President (sangathan-capacity)
+// ki hai, MLA-capacity ki nahi, reject. (3) The Week (PTI), 24 Jul 2025: CM ke Naharkatia karyakram me Rs 130 crore ki
+// pariyojnaon (Co-District office, Namrup-Naharkatia ROB, school buildings, hockey stadium, Tata CoE at ITI) ke
+// shilanyas/handover — pre-term (Jul 2025) + CM ne act kiya, reject. (4) propnewstime: CM "Magh Bihu me udghatan
+// karenge" — India's biggest PMAY colony (113 units, Rs 4 crore, Namsang TE) — pre-event announcement srot nahi banta
+// + CM ka act + Gogoi ka Burhi Dihing tourism "vision" sirf "karenge" hai, reject. (5) Asomiya Pratidin: Naharkatia ITI
+// ka shilanyas CM ne kiya, MLA ne sirf CM ko dhanyavad diya — CM ne act kiya, sirf maujoodgi/dhanyavad, reject.
+// (6) The Sentinel, 3 Apr 2026 (pre-poll): sthaniya logon ne 2021-26 ke kaamon (sadken, stadium) ka shrey diya —
+// pre-term, reject. (7) ETV Bharat, 24 Jan 2026: Naharkatia seat overview — pre-term chunav coverage, reject.
+// (8) TOI, Apr 2026: tea-tribe voters outreach — pre-term campaign; "pichle paanch saal" ke daave karyakaal se pehle,
+// reject. (9) Republic World, 2 Apr 2026: campaign interview — pre-term, reject.
+// (10) Chunav parinaam coverage (TOI/India Today NE/Indian Express, May 2026) — kaam-khabar nahi, reject.
+// (11) thepurbottar.in, ~Sep 2026: Kandla (Gujarat) me APL e-methanol project ka shilanyas — kshetra se bahar (rajya se
+// bahar) + Gogoi sirf Political Secretary ke roop me upasthit, reject. (12) Daijiworld/Statesman, Dec 2025: PM Modi
+// dwara Namrup urea plant ka shilanyas — pre-term (Dec 2025) + PM/CM ka karyakram, MLA sirf maujood, reject.
+// (13) lokmattimes/tribuneindia, 13 Jul 2026: ACA APL player auction — cricket-prashasan ki bhoomika, kshetra-vikas
+// kaam nahi, reject. (14) nenow.in, Dec 2023: BJP meeting me anupasthiti par disciplinary action ki sambhavna —
+// pre-term (2023) + party-internal mamla, negative ke FIR/case/janch criteria poore nahi, reject.
+// Negative entry qualify nahi karti: May-Oct 2026 me unke khilaaf koi FIR/case/adalaati faisla ya adhikarik janch
+// established reporting me darj nahi hai (khoj me mile "Gogoi" FIR results Tarun Gogoi/poorv CM par the — alag vyakti).
+// Profile imaandari se khaali rahi.
+
+// Coordinator QA (dibrugarh): 6/6 MLA researched, teeno worker fragments ka schema/hygiene check OK (0 Devanagari, 0 ₹, 0 literal-\n, periods '2026-2031'); Rameswar Teli ki Madhabpur ROB entry me shilanyas pre-term (Dec 2022, CM) hone ka disclosure darj — lokarpan June 2026 me unhone sthaniya MLA + rajya mantri ke roop me kiya (lokarpan-pattern); Binod Hazarika MP kabhi nahi rahe — worker ne verify kiya, koi MP-era attribution nahi. Marker exactly 1x, har slug exactly once.
