@@ -4089,3 +4089,81 @@ tamilNaduWorks['ambethkumar-s'] = [];
 // REJECT-LOG (ambethkumar-s): PNI News / The CSR Journal / India Education Diary, published 2025-06-21 (Muthoot Kalaivani Nursery & Primary School, Theyyar Village, Vandavasi; Rs 5 crore CSR; udghatan MP M.S. Tharaniventhan ne kiya, Ambethkumar sirf special guest maujoodgi) — pre-term (Jun 2025) + sirf maujoodgi, CSR project, reject; New Indian Express 20 Feb 2025 (CM Stalin ne Cheyyur-Vandavasi-Polur 109-km road ka lokarpan kiya, Rs 1,141.23 crore) — pre-term + CM ka karyakram, MLA ki koi bhoomika nahi, reject; dtnext 14 Mar 2026 (CM Stalin ne 11 road projects Rs 1,843 crore ka lokarpan kiya, Tiruvannamalai four-lane sahit) — pre-term (Mar 2026) + CM ka kaam, reject; The Hindu 23 Feb 2026 (Mantri E.V. Velu ne Tiruvannamalai me 3 naye bypass roads launch kiye, CMRDP 2025-26) — pre-term + mantri ka kaam, reject; The Hindu 31 Aug 2025 (Tiruvannamalai me public grievance redressal building, Rs 12.17 crore) — pre-term, reject; livechennai Oct 2026 (Chennai-Tiruvannamalai greenfield expressway ghoshna, Vandavasi taluk ke 14 gaon land acquisition me) — sirf state sarkar ki ghoshna, land acquisition ka GO abhi nahi aaya, Ambethkumar ka koi dastavezi kadam nahi, reject; The Hindu Jan 2026 (Tiruvannamalai naya bus terminus Rs 34 crore, CM ne 27 Dec 2025 ko udghatan kiya) — pre-term + CM ka kaam, reject; indiaherald Sep 2026 (CM Stalin ne Tiruvannamalai me development works ki review ki; agricultural exhibition ka udghatan) — CM ke karyakram, sirf maujoodgi hoti to bhi qualify nahi karti, reject; TOI Apr 2026 (Tiruvannamalai temple town civic issues election story) — election-era reportage, koi karya nahi, reject; TOI / Indian Express / Oneindia / Business Today / ABP Live / Hindustan Times (Apr-May 2026 election results: Ambethkumar 63,805 votes se jeete, runner-up P. Rani AIADMK) — sirf chunav khabar, reject; The Hindu candidates page 2026 (affidavit: 2 pending criminal cases, non-serious) — pre-term cases, May 2026+ me koi nayi FIR/case/janch sthiti ki established reporting nahi, negative rule par negative nahi, reject; YouTube Short (candidate campaign clip) — YouTube-only + pre-term, reject; newspointapp (newspointapp TOI aggregator election result) — aggregator, reject.
 
 // ---- Coordinator QA note (Tiruvannamalai, 2026-10-15): 8/8 MLA researched. velu-e-v par 2 NEGATIVE entries rakhi gayin (donon current-tenure DVAC FIR: 25 Jun 2026 road-works contractor payment case + 24 Sep 2026 Malappambadi lake-bed excavation case; replies + HC sthiti sahit; title/note ko Roman Hinglish me rewrite kiya). Baaki 7/7 profiles imaandari se khaali. Naam-traps sakhti se pakde gaye: S Velu (Chengam, AIADMK) se E V Velu (Tiruvannamalai, DMK) ke DVAC cases bilkul alag rakhe; Abishek ka Elaiyaraja poaching case se sambandh nahi; mukkur-n-subramanian se Ma Subramanian alag. Hygiene: 0 Devanagari/Tamil script, 0 Rs-symbol, 0 literal-\n (sirf QA comment me descriptive text), entry objects me 0 comments; sab slugs append se pehle 0 matches (koi overwrite nahi). ----
+
+// ---- Vellore district batch (researched 2026-10-15) ----
+
+// ---- Vellore district batch: dr-m-sudhakar (AC order) ----
+
+tamilNaduWorks['dr-m-sudhakar'] = [];
+
+// REJECT-LOG (dr-m-sudhakar — Dr. M. Sudhakar, TVK, Katpadi AC, Vellore jila; research 15 Oct 2026)
+// 1. The Hindu, 22 May 2026 — naye hospital aur waterlogging rokne par priorities interview: sirf maang/prastav ("will be set up", "proposal will be taken up") + Serkadu hospital ka nirikshan. REJECT: kaam nahi.
+// 2. The Hindu, 30 May 2026 — Katpadi MLA office ka lokarpan Mantri V. Gandhiraj ne kiya, Sudhakar sirf maujood. REJECT: sirf maujoodgi.
+// 3. News Today Net, 11 Sep 2026 — church roof collapse spot visit. REJECT: sirf daura.
+// 4. Lokmat Times, 4 Jul 2026 — Katpadi school/library/anganwadi buildings ka lokarpan mantri Vijay Balaji ne kiya, "local MLAs were also present". REJECT: mantri ka kaam, sirf maujoodgi.
+// 5. The Hawk (IANS), 15 Jun 2026 — Serkadu taluk hospital (Rs 14.30 crore) pre-term PWD project, CM Stalin ne lokarpan kiya. REJECT: pre-term, unka kaam nahi.
+// 6. TVK Form C-7 + ADR/Oneindia — 1997 Bengaluru ka purana pending case (halafnama data): karyakaal me koi nayi FIR/development nahi. REJECT as negative.
+// 7. IANS, 12 Oct 2026 — "TVK MLA moves Madras HC to quash FIR over banners": GALAT VYAKTI — Saravanan (Srivaikuntam) ki khabar. REJECT.
+// 8. LiveChennai/UNI, Oct 2026 — PM Modi ne Vellore Cantonment station ka lokarpan kiya (11 Oct 2026): article me Sudhakar ka ullekh hi nahi. REJECT.
+// 9. Naam-traps: Ma. Subramanian (purv mantri), Dr M.C. Sudhakar (Karnataka mantri), M. Suthakar (independent ummidvar) — sab alag vyakti. SEAT-WORK NATIJA: May-Oct 2026 me Katpadi seat par koi qualifying entry nahi; profile imaandari se khaali.
+
+// ---- Vellore district batch: m-m-vinoth-kannan (AC order) ----
+
+tamilNaduWorks['m-m-vinoth-kannan'] = [];
+
+// REJECT-LOG (m-m-vinoth-kannan — M. M. Vinoth Kannan, TVK, Vellore AC; pehchan verified: 73,032 votes, margin 6,777; research 15 Oct 2026)
+// 1. Deccan Chronicle, 11 Oct 2026 — Vellore Cantonment station ka Rs 6.75 crore Amrit Bharat punarnirman: PM Modi ne video-conference se lokarpan kiya, MLA ne sthaniya samaroh me smarak-patt ka anavaran kiya. REJECT: karyakram PM ka tha, lokarpan unka tha — patt-anavaran doosre neta ke karyakram me ceremonial maujoodgi hai, MLA ka apna lokarpan nahi. **COORDINATOR OVERRIDE:** worker ne entry rakhi thi, niyam ("doosre neta ke karyakram me sirf maujoodgi") par reject ki gayi; mukundhan-k joint udghatan precedent yahan lagu nahi (wahan MLA sanyukt udghatan-karta the, yahan sirf patt).
+// 2. YouTube short "grievance website launch" — credible English reporting nahi. REJECT.
+// 3. VT MEDIA YouTube short "Vellore Fort press meet" — sirf bayan. REJECT.
+// 4. ainvest, 30 May 2026 — Katpadi MLA office (Dr. M. Sudhakar) ka lokarpan: galat vyakti/kshetra. REJECT.
+// 5. NIE, Nov 2025 — Udhayanidhi Stalin Vellore event: pre-term. REJECT.
+// 6. NIE, 10 Sep 2026 — mantri Vijay Balaji Vellore events: article me MLA ka zikr tak nahi. REJECT.
+// 7. Chunav coverage (May 2026) — chunav khabar, kaam nahi. REJECT.
+// 8. Negative check: Oneindia criminal-cases list me 0 cases; koi FIR/case reporting nahi. REJECT as negative.
+// 9. Naam-traps: M. Vinothkumar (AMGRDMK pratyashi, 131 votes), TVK C-7 affidavit ka "Vinoth" (Kumbakonam) — doosre vyakti. Profile imaandari se khaali.
+
+// ---- Vellore district batch: d-velazhagan (AC order) ----
+
+tamilNaduWorks['d-velazhagan'] = [];
+
+// REJECT-LOG (d-velazhagan — D. Velazhagan, AIADMK, Anaikattu AC; pehchan verified: 76,302 votes, margin 7,081; research 15 Oct 2026)
+// 1. NIE, 8 Nov 2025 — mantri E. V. Velu ne Anaicut me road widening launch kiya (Rs 50 crore): pre-term + mantri ka karyakram, Velazhagan ki maujoodgi bhi darj nahi. REJECT.
+// 2. DT Next, 20 Jan 2024 — sand-mining aarop DMK posters: pre-term, bina FIR/janch. REJECT (weak attribution; negative nahi).
+// 3. Business Standard/PTI, Apr 2017 — "AINRC functionary hacked to death in Pondy": NAAM-TRAP — Puducherry ka AINRC functionary Velazhagan, Anaikattu MLA se sambandh nahi. REJECT.
+// 4. The Hindu pre-election Anaicut piece: chunav coverage, pre-term. REJECT.
+// 5. Lokmat Times, 4 Jul 2026 — mantri Vijay Balaji ke Vellore projects: article me Velazhagan ka naam hi nahi. REJECT.
+// 6. Chunav-result coverage (May 2026): sirf jeet. REJECT.
+// 7. NDTV candidate page ADR "Cases: Yes (2)" — pre-term halafnama; post-term koi nayi FIR/case reporting nahi. REJECT as negative. Profile imaandari se khaali.
+
+// ---- Vellore district batch: thenral-kumar-e (AC order) ----
+
+tamilNaduWorks['thenral-kumar-e'] = [
+  { title: 'TNSTC bus bina heavy-vehicle licence ke chalane par Transport Department janch (Vettri Payanam launch, Vellore terminus; janch 3 Oct 2026 ko ghoshit, parinaam lambit)', note: 'Ghatna (2 Oct 2026, Vellore new bus terminus): Collector P.S. Leela Alex ne CM C. Joseph Vijay ki Vettri Payanam scheme ke tahat buses ko hari jhandi dikhai; MLA Thenral Kumar flag-off ke baad swayam bus chalane lage — khule portico me lagbhag 100 metre, lagbhag 30 yatri bus me; video me ve driver se gear/clutch poochte dikhe. Transport Department ka adhikarik bayan: bhaari vahan sirf heavy-vehicle licence + badge-dhari chala sakte hain; Kumar ke paas zaroori licence/badge na hone ki sambhavna; vibhagiya janch ke aadesh; MVA 1988 ke tahat driver par Rs 5,000 aur vahan-malik (TNSTC) par Rs 10,000 jurmana lag sakta hai; nishkarsh par uchit karyavahi hogi. Nayi sthiti: janch ghoshit, parinaam lambit. Neta ka jawab: article me uplabdh nahi.', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/tamil-nadu/probe-into-tvk-mla-driving-government-bus-without-valid-licence-during-launch-of-scheme/article71540822.ece', date: '2026-10-03' }
+];
+
+// REJECT-LOG (thenral-kumar-e — Thenral Kumar. E, TVK, Kilvaithinankuppam SC; pehchan seat+party se pakki ("Thendral"/"Thenral" ek hi vyakti); research 15 Oct 2026)
+// 1. DT Next, 4 Jul 2026 — mantri Vijay Balaji ne Vellore Fort museum + Katpadi school buildings ka lokarpan kiya; Kumar sirf attendance list me. REJECT: sirf maujoodgi.
+// 2. NIE, 10 Oct 2026 — Melalathur bridge ke liye assembly me maang: sirf maang/prastav. REJECT.
+// 3. ainvest, 30 May 2026 — Katpadi MLA office lokarpan: galat vyakti (Sudhakar) + dusri seat. REJECT.
+// 4. TOI, Sep 2026 — "Naidu pushes projects in Kuppam": Andhra Pradesh ka Kuppam (Chandrababu Naidu ki seat), TN ka Kilvaithinankuppam nahi. REJECT: kshetra trap.
+// 5. YouTube shorts (affidavit/barefoot-assembly): credible source nahi; NDTV/ADR "Cases: No". REJECT.
+// 6. Trinity Mirror, 4 Oct 2026 — bus incident ka secondary mirror; Hindu entry ka duplicate. NO SEPARATE ENTRY.
+// Vikas-kaam wala hissa imaandari se khaali — sirf 1 negative (Transport Department janch, sthiti lambit).
+
+// ---- Vellore district batch: k-sindu (AC order) ----
+
+tamilNaduWorks['k-sindu'] = [];
+
+// REJECT-LOG (k-sindu — K. Sindu, TVK, Gudiyattam AC; research 15 Oct 2026)
+// 1. DT Next, 28 Aug 2026 — vidhansabha me "thani thoguthi" ka naam badalkar "sirappu/urai thoguthi" karne ki maang; Speaker ne CM se charcha ka kaha. REJECT: sirf maang/prastav.
+// 2. ThePrint, ~Jun 2026 — CM Vijay ne rookie MLAs ka orientation udghatan kiya, unka quote chhapa. REJECT: CM ke karyakram me sirf maujoodgi.
+// 3. Kashmir Reader, 19 Aug 2026 — CM ne MLAs ko official vehicle + Rs 1 lakh monthly allowance ghoshit kiya; "singing in praise of Vijay" ka zikr. REJECT: CM ki ghoshna + perk, vikas-kaam nahi.
+// 4. Lokmat Times/ANI, 4 Jul 2026 — mantri Vijay Balaji ne Vellore jile me school/library/Anganwadi ka udghatan kiya; "local MLAs" maujood. REJECT: mantri ka kaam, sirf maujoodgi.
+// 5. Chunav-parinaam coverage (May 2026, sab outlets): pre-term/chunav. REJECT.
+// 6. Oneindia aggregate "K. Sindhu | Gudiyattam | TVK | 0 case": affidavit count, nayi sthiti nahi. REJECT as negative.
+// 7. South First + The Hindu, Jul-Aug 2026 — Rs 35 crore "poach TVK MLAs" FIR (Elaiyaraja complainant): GALAT VYAKTI. REJECT.
+// 8. DT Next, 24 Jul 2026 — "Ex-minister withdraws poll case against TVK legislator" (Srinivasa Sethupathi): GALAT VYAKTI. REJECT.
+// 9. Polimer News, 24 Aug 2026 — vidhansabha bhashan: TET-pass teachers ko naukri ki maang. REJECT: sirf maang.
+// 10. Naam-traps: actresses/sports ki Sindhu sab alag vyakti. Profile imaandari se khaali.
+
+// ---- Coordinator QA note (Vellore, 2026-10-15): 5/5 MLA researched. thenral-kumar-e par 1 NEGATIVE rakhi (The Hindu 3 Oct 2026 — bina HMV licence TNSTC bus chalane par Transport Department ki vibhagiya janch ghoshit, parinaam lambit, jawab uplabdh nahi — disclose; Sabari Iyngaran drone-probe precedent ke anuroop). m-m-vinoth-kannan ki Vellore Cantonment station plaque-unveiling entry REJECT ki gayi (PM ne lokarpan kiya, patt-anavaran doosre neta ke karyakram ki ceremonial maujoodgi hai — mukundhan joint udghatan precedent lagu nahi). Baaki 4/4 profiles imaandari se khaali. Hygiene: titles/notes me 0 Devanagari/Tamil script, 0 Rs-symbol (currency "Rs"); entry objects me 0 comments; sab slugs append se pehle file me 0 matches (koi overwrite nahi). ----
