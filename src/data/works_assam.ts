@@ -505,3 +505,106 @@ assamWorks['rupali-langthasa'] = [];
 // 10. Election coverage (Sentinel/ETV/Indian Express/India TV, May 2026): jeet ka margin 50,306 — chunav khabar, kaam nahi, reject. BJP manifesto launch (nenow, Apr 2026) — chunav-se-pehle + manifesto, reject.
 // 11. Negative check: Syllad Jul 2025 contractor ko dhamki ka aarop CEM Debolal Gorlosa par hai (Rupali par nahi) — galat vyakti + pre-term, reject. Sentinel ~Oct 2025: Congress ka Kalachand DIET B.Ed admission-list vivad me Rupali Langthasa (tab BJP councillor/BEd student) ke naam ka zikr — sirf virodhi aarop/bayaan, koi FIR/case/janch-karyavahi established reporting me nahi — negative-entry criteria poora nahi, reject. Koi qualifying negative reporting is karyakaal me nahi mili. Profile imaandari se khaali rahi.
 
+// ---- Goalpara district batch (researched 2026-10-14) ----
+
+assamWorks['aftab-uddin-mollah'] = [];
+
+// REJECT-LOG — Aftab Uddin Mollah (INC), Jaleshwar AC-12, Goalpara jila. Term: May 2026+
+// (won 4 May 2026: 1,62,174 votes, 69.19%, margin 1,09,688 over AIUDF's Sheikh Shah Alam; 16th Assembly).
+// Searched: name variants (Aftab Uddin Mollah / Aftabuddin Mollah / Aftabuddin) + Jaleshwar/Jaleswar +
+// inauguration/foundation-stone/sanction/school/road/water terms on Google news vertical and web; sources seen:
+// India Today NE, Pratidin Time, The Sentinel Assam, TOI, Hindustan Times, ABP, Republic, The Week, PTI feeds,
+// Wikipedia/Jaleswar constituency page, oneindia, indiatodayne, starsunfolded bio, myneta affidavit.
+// Result: 0 qualifying entries. He is a re-elected opposition (INC) MLA ~5 months into the 2026-31 term;
+// no indexable post-May-2026 development work (poorn/lokarpan / sanction-with-GO / shilanyas / ghoshna with
+// evidence) found in qualifying media.
+// REJECTS:
+// 1. Pratidin Time — "Decade-Old Dilapidated Bridge in Assam's Goalpara Puts Residents at Risk" (crawled ~41 days
+// before 14 Oct 2026 => Sep 2026 report; canonical URL opened): residents of Lakhipur (in Jaleswar constituency)
+// struggling with a decade-damaged bridge over the Pamerebala Jinjiram River; report says "Aftab Uddin Mollah,
+// the MLA of Jaleshwar constituency, had assured the construction of a new RCC bridge, but the promise has yet
+// to materialize". REJECT: sirf vaada/assurance — no stage (no GO, no sanction, no shilanyas, no poorn), and the
+// assurance itself appears to predate the May 2026 karyakaal ("a few years ago").
+// URL: https://www.pratidintime.com/latest-assam-news-breaking-news-assam/decade-old-dilapidated-bridge-in-assams-goalpara-puts-residents-at-risk-10048670
+// 2. The Sentinel Assam, ~Jun 2025 — Congress MP Rakibul Hussain + MLAs incl. Aftabuddin Mollah visited Hasila Beel
+// (Goalpara) eviction victims to distribute relief; team chased away by protesters. REJECT: pre-term (2021-26),
+// and political visit/relief — not a vikas-kaam anyway.
+// URL: https://www.sentinelassam.com/north-east-india-news/assam-news/congress-mp-mlas-face-wrath-of-evicted-people-in-goalpara-team-chased-away
+// 3. indusvalleytimes.com / odishanewsonline.com (~1 Oct 2026) — Nagaon by-election rally report names MLAs Aftab
+// Uddin Mollah and Abdur Rahim Ahmed among attendees of an Imran Masood election rally. REJECT: sirf
+// maujoodgi at a political campaign rally outside the constituency (Nagaon) — not a works entry.
+// URL: http://indusvalleytimes.com/news/whether-among-muslims-or-hindus-communalism-of-any-kind-is-detrimental-to-the-nation-imran-masood/
+// 4. Nov 2023 hate-speech arrest coverage (Siasat, The Statesman, Scroll, TOI, Pune News): arrested 8 Nov 2023 for
+// remarks about Hindu priests/namgharias, FIR at Dispur PS (IPC 295A/153A/505), bailed 9 Nov 2023. REJECT for
+// negative entry: entirely pre-term (2021-26 karyakaal, Nov 2023) — 2026-31 profile me shaamil nahi. (Also family
+// matters never apply; none found.)
+// 5. Election-result pages (TOI, Indian Express, India Today NE, Oneindia, Republic, HT, Wikipedia): May 2026 win
+// details only — no kaam content. REJECT: chunav-parinaam, kaam nahi.
+// 6. starsunfolded.com biography + myneta.info 2021 affidavit: background/assets only. REJECT: bio data, not works.
+// PROFILE: honestly EMPTY — 0 entries, 6 candidate-reports reviewed, all rejected with reasons above.
+
+assamWorks['pabitra-rabha'] = [];
+
+// REJECT-LOG (pabitra-rabha): profile KHAALI raha — qualifying entry koi nahi mili. Pabitra Rabha naye BJP MLA hain (chunav 9 Apr 2026, parinaam 4 May 2026); May 2026+ ki media coverage me koi shilanyas, lokarpan, swikriti (GO/established-report), ya vibhagiya ghoshna unke kshetra-kaam ke roop me report nahi hui. (1) Pratidin Time (~Sep 2026, "on Thursday" wali khabar, search-index ~31 Aug 2026): Tekelipara gaon (Assam-Meghalaya border) me Jinari nadi ke paar ke liye life jacket/inflatable tube vitran + ashwasan ke 1 hafte me 3 din me naav ki vyavastha — vyaktigat raahat/welfare (rule: flood-relief/vyaktigat welfare = vikas-kaam nahi), koi sanction/GO nahi. Usi khabar me Jinari par pull "near future me banega" + sadak pariyojnaon ka ashwasan = "karenge" wali khabar — reject. (2) The Sentinel (~June 2026): Rabha Hasong Joint Forum dwara Dudhnoi Jana Mandir auditorium me Tankeswar + Pabitra Rabha ka abhinandan samaroh — sirf samman/samaroah, kaam nahi — reject. (3) The Sentinel (Aug 2026): Jantar Mantar, New Delhi me Rabha-sangathanon ke dharne (Sixth Schedule ki maang) me Pabitra Rabha ki upasthiti — sirf community andolan me maujoodgi/maang, MLA ki koi concrete bhoomika nahi — reject. (4) The Sentinel (~June 2026): Krishnai Habraghat High School tiffin vivad par MLA ki ninda + "stringent steps" ki chetavni — sirf bayan, koi pariyojna nahi — reject. (5) The Sentinel (~May 2026): "47 new MLAs in 16th Assembly" list me naam — kaam-khabar nahi — reject. (6) Election-result coverage (TOI/Indian Express/NDTV/News18/Oneindia, 4-5 May 2026): jeet ki khabar (92,216 votes, 39,917 margin) — kaam-khabar nahi — reject. (7) Theatre-personality "Pabitra Rabha" (nenow.in 2021, Sentinel Dec 2020 Pratima Baruah Pandey award, TOI topic page 2012-2022, 'Dapon-The Mirror' dwarfs troupe, Tangla/Udalguri, born ~1976) — GALAT VYAKTI, MLA se poori tarah alag (MLA born 1996, Goalpara; affidavit Rs 37 lakh) — reject. (8) Pratidin Time (Apr 2026 campaign): CM Sarma ki Maladhara (Goalpara West) rally me medical college/engineering college/university ki ghoshna — pre-term + CM ki ghoshna, MLA ki dastavezi concrete bhoomika nahi — reject. (9) CM ke statewide baadh-raahat packages (Sentinel/Lokmat Times, July 2026) — sarkari package, MLA ke kshetra-kaam se sambandh nahi — reject. Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['abul-kalam-rasheed-alam'] = [];
+
+// REJECT-LOG — Abul Kalam Rasheed Alam (INC), Goalpara East AC-14. Term: May 2026+ (won 4 May 2026, 1,02,205 votes).
+// Searched: India Today NE, Pratidin Time, The Sentinel Assam, TOI, Oneindia, ABP, NE Now, latestly — name variants
+// (Abul Kalam Rasheed Alam / A.K. Rashid Alam / A.K. Rashid Alom), plus Goalpara East + inauguration/foundation/school/road terms, Jun-Oct 2026.
+// Result: 0 qualifying entries. He is a 3rd-term opposition (INC) MLA ~5 months into the 2026-31 term; no indexable
+// post-election development work (inauguration / lokarpan / sanction-with-GO / shilanyas / ghooshna with evidence) found.
+// REJECTS:
+// 1. India Today NE, 1 Apr 2026 — residents of Naya Para, Goalpara town confronted the MLA during election outreach,
+// alleging inadequate development; he left the spot. REJECT: pre-election (Apr 2026, before May 2026 karyakaal) and no
+// kaam entry possible — only an allegation of non-performance. URL:
+// https://www.indiatodayne.in/assam/video/congress-leader-forced-to-retreat-from-campaign-site-amid-protests-in-assams-goalpara-1368996-2026-04-01
+// 2. Pratidin Time — Assam Youth Congress VP Rakesh Chakravarty sought disciplinary action against MLA A.K. Rashid Alom
+// over panchayat ticket distribution / media allegations by the MLA. REJECT: intra-party fight, not a development work;
+// also not a valid negative (only rival-party claim with no FIR/case/janch-karyavahi and no official disciplinary action).
+// URL: https://www.pratidintime.com/latest-assam-news-breaking-news-assam/goalpara/assam-youth-congress-vp-seeks-action-against-mla-rashid-alom-8972988
+// 3. The Sentinel Assam (~Jul 2026, 81 days ago) — ACLP constituted 3 Congress MLA teams for flood-hit districts;
+// Abul Kalam Rasheed Alam was in the Charaideo team to assess flood situation and report. REJECT: sirf nirikshan/daura
+// (assessment visit, flood-relief context = not vikas-kaam) AND out of constituency (Charaideo, not Goalpara East).
+// URL: https://www.sentinelassam.com/cities/guwahati-city/assam-congress-mlas-to-visit-flood-hit-districts-today
+// 4. lokmattimes / Assembly, 28 Jul 2026 — all MLAs including him agreed to donate one month's salary to CM's Relief Fund
+// for floods. REJECT: personal charity / vetan-daan, not a development work (same rule as prior QA precedents).
+// URL: https://www.lokmattimes.com/national/assam-flood-mlas-to-donate-one-month-salary-for-relief-measures/
+// 5. India Today NE, 8 Nov 2025 — MLA slamming CM over Goalpara eviction drives. REJECT: pre-term (2021-26 term) statement,
+// opposition bayan — not a kaam.
+// 6. 2021-26 term ke koi bhi kaam (2025 me kiye gaye MLALADS/udghatan aadi, even if re-reported) — sakht rule se exclude.
+// No post-May-2026 MLALADS sanction/work-order coverage found for Goalpara East in indexed media.
+// PROFILE: honestly EMPTY — 0 entries, 6 candidates reviewed, all rejected with reasons above.
+
+assamWorks['tankeswar-rabha'] = [
+  {
+    title: 'Tankeswar Rabha ne Dudhnoi kshetra ki 5 mahatvapoorna sadakon ke punarnirman ka kaam Mukhyamantri Sadak Navinikaran Yojana (SOPD-G) ke tahat aupchaarik roop se shuru kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sentinel Assam, 22 Jul 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/assam-mla-tankeswar-rabha-launches-reconstruction-of-5-key-roads-in-dudhnoi',
+    date: '2026-07-21',
+    note: 'The Sentinel Assam ki report ke anusar vidhayak ne 21 July 2026 ko lok nirman vibhag (PWD), Assam sarkar ki Mukhyamantri Sadak Navinikaran Yojana (SOPD-G) ke tahat 5 sadakon ke punarnirman ka aupchaarik shubhaarambh kiya: NH-17 Jyotigaon se Kothakuthi gaon tak, NH-17 Daranggiri se Kharkhuta tak, D.N. Crossing Bangalpara se Chhechapani tak, NH-17 Daranggiri se Dinananda Shanti Ashram tak, aur SH-46 Dudhnoi ke College Road se Shialmari gaon tak. Poori fund State sarkar ki SOPD-G yojana (vitteeya varsh 2025-26) se hai; stage kaam-shuru (launch) hai, swikriti ka dawa nahi. Karyakram me RHAC ke karyakari sadasya Phanindra Rabha bhi upasthit the.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Tankeswar Rabha ne Dudhnoi Vikas Khand ke tahat poorn hui model anganwadi kendron, gaon panchayat karyalay bhavan aur MGNREGA sadakon ka lokarpan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sentinel Assam, 20 Jul 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/assam-dudhnoi-mla-inaugurates-key-rural-infrastructure-projects-to-boost-development',
+    date: '2026-07-18',
+    note: 'The Sentinel Assam ki report ke anusar vidhayak ne 18 July 2026 ko Dudhnoi Vikas Khand ke tahat poorn hui kayi grameen pariyojnaon ka lokarpan kiya: New Panchanggiri me model anganwadi kendra, Bakaitari-Karipara Gaon Panchayat ka naya karyalay bhavan, Bakaitari Chariali se Ganakpara tak interlocking block sadak (MGNREGA 2025-26), Prashanta Nath ke nivas se Jayanta Nath ke nivas tak interlocking block sadak (MGNREGA 2025-26), Jugal Nath ke nivas se Bageswari Mandir tak paver block sadak (MGNREGA 2024-25), aur Mornoi GP ke 181 Mornoi Goborkhowa gaon me model anganwadi kendra. Stage poorn/lokarpan hai; fund sarkari (MGNREGA aur vikas khand yojnaon) se hai. Karyakram me jila adhikari aur jan pratinidhi upasthit the.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (tankeswar-rabha, Dudhnai, Goalpara)
+// R1: India Today NE, 31 Jan 2026 — RHAC ne Dudhnoi me 13 schemes ka lokarpan CEM Tankeswar Rabha ne kiya. REJECT: May 2026 se pehle ka kaam (RHAC CEM ke roop me, 2024-25 vitteeya varsh ke funds), MLA karyakaal ka nahi.
+// R2: The Sentinel Assam, ~June 2026 — Rabha Hasong Joint Forum ne navnirvachit vidhayakon ka samman samaroh kiya. REJECT: samman samaroh, vikas-kaam nahi.
+// R3: The Sentinel Assam, ~Sep 2026 — BJP press conference me vidhayak ne CEC Gyanesh Kumar ka samarthan kiya. REJECT: rajnaitik karyakram, vikas-kaam nahi.
+// R4: India Today NE, 10 Sep 2024 — Kamrup Rabha Sahitya Sabha ke Ranjan Rabha ka aarop (pehchan/surname ko lekar). REJECT: 2024 ka pre-term virodhi aarop; koi FIR/adalaati/janch karyavahi ki sthiti report me nahi — negative nahi banta.
+// R5: The Sentinel Assam, ~Jan 2026 — CM Sarma ne state-bhar me 67 school bhavanon ka lokarpan aur 61 ke shilanyas kiye. REJECT: pre-term, statewide yojana, Dudhnai kshetra ka koi seedha sambandh ya vidhayak ki bhoomika nahi.
+// R6: Times of India election coverage (Dudhnai result 2026) aur Wikipedia page — chunaav jaankaari, vikas-kaam nahi. REJECT.
+
+
