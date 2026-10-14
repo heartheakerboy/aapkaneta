@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { tamilNaduNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return tamilNaduNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = tamilNaduNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/tamil-nadu" stateName="Tamil Nadu" homeLabel="Tamil Nadu home" />

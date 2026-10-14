@@ -1,0 +1,15 @@
+---
+import KshetraDetail from '../../../components/KshetraDetail.astro';
+import { tamilNaduConstsAll, tamilNaduNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return tamilNaduConstsAll.map(c => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const kshetra = tamilNaduConstsAll.find(c => c.slug === slug);
+if (!kshetra) throw new Error('Constituency not found: ' + slug);
+const leaders = tamilNaduNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
+---
+
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="/tamil-nadu" stateName="Tamil Nadu" districtHref={kshetra.district ? `/tamil-nadu/jila/${kshetra.district.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/` : null} />
