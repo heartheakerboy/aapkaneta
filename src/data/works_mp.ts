@@ -2964,3 +2964,203 @@ mpWorks['omkar-singh-markam'] = [
 // - Omprakash Dhurwey: 13 (YouTube-only x2, public.app-only x3, Dec-2023-se-pehle ka x1 (saath me doosre MLA par aarop), MLA-vs-Collector vivaad bina case, kamzor AC-attribution x2 (Dindori-cluster works jahan AC verify nahi hua), vague Trilok News x1, election profiles, PM-Modi projects, galat-vyakti Bhilwara x3)
 // - Omkar Singh Markam: 16 (sirf maang/prastav x2 (rail corridor patra, MGNREGA chetawani), mantri-karyakaal ki khabar x1, galat vyakti x4 (sab Dhurve ke kaam), Dec-2023-se-pehle x1, rajya-stariya ghoshna bina MLA bhoomika x2, sirf maujoodgi x2, YouTube-only x1, profile/biography/party-sangathan news x3)
 // Vistarit reject-log dono worker fragments me: ~/workspace/aapkaneta_scratch/dindori_dhurwey.ts, ~/workspace/aapkaneta_scratch/dindori_markam.ts
+// ---- Guna district batch (researched 2026-10-14) ----
+// Guna jila: 4 MLA. Panna Lal Shakya (BJP, Guna SC AC-29): 11 entries. Priyanka Penchi (BJP, Chachoura AC-30): 2 entries. Rishi Agrawal (INC, Bamori AC-28): 0 (khali profile). Jaivardhan Singh (INC, Raghogarh AC-31): 0 (khali profile). Coordinator audit: Penchi ki Beenaganj hospital 'swikriti' entry blog-only hone par hatayi gayi; sabhi entries period 2023-2028, Dec 2023+ karyakaal.
+
+mpWorks['panna-lal-shakya'] = [
+  {
+    title: 'Hilgana ke Gaader me Rs 20 lakh ki gravel sadak — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'Patrika ne yojana evam sankhyiki vibhag ke hawale se likha: FY 2025-26 ki Rs 2.5 crore vidhayak-nidhi me se 28 anushansit prastavon par 19 karya swikrit hue (kul Rs 2.5 crore), in me se ek ye gravel road hai. GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Disclosure: Patrika ki alochana bhi saath me — 19 swikrit karyon me ek bhi shiksha/swasthya se nahi juda tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Semra me Rs 10 lakh ka kharanja — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'Usi Patrika report ke mutabik FY 2025-26 ki vidhayak-nidhi se swikrit 19 karyon me se ek: Semra me Rs 10 lakh ka kharanja. GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Disclosure: Patrika ne report me ye bhi likha ki karya chuninda panchayaton (Vinayak Khedi, Mahugadha, Bhaura) me concentrate rahe aur kuch gaon walon ko sirf ashwasan mila.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khajuri me Rs 25 lakh ki CC sadak — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Khajuri me Rs 25 lakh ki CC road (Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Richhera me Rs 12 lakh ki CC sadak — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Richhera me Rs 12 lakh ki CC road (Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Budhakheda me Rs 15 lakh ki sadak — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Budhakheda me Rs 15 lakh ki sadak (Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gedabarra me Rs 20 lakh ka check dam — vidhayak-nidhi se swikrit',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Gedabarra me Rs 20 lakh ka check dam (jal sanrakshan; Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jetadongar me Rs 10 lakh ka stop dam — vidhayak-nidhi se swikrit',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Jetadongar me Rs 10 lakh ka stop dam (jal sanrakshan; Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mahugadha me Rs 15 lakh ki boundary wall — vidhayak-nidhi se swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Mahugadha me Rs 15 lakh ki boundary wall (Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Disclosure: Patrika ke mutabik Mahugadha ko vidhayak-nidhi se "bharpur hissa" mila.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mahugadha me Rs 20 lakh ka pavers karya — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Mahugadha me Rs 20 lakh ka pavers kary (Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bhaura me Rs 25 lakh se puliya aur naali nirman — vidhayak-nidhi se swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 17 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/guna-news/mla-pannalal-shakya-report-card-guna-mla-fund-ignored-education-mp-news-20266539',
+    date: '2026-01-17',
+    note: 'FY 2025-26 vidhayak-nidhi ke 19 swikrit karyon me se ek: Bhaura me Rs 25 lakh ke puliya aur naali nirman (Patrika, yojana evam sankhyiki vibhag ke hawale se). GO number khabar me nahi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Disclosure: Patrika ke mutabik Bhaura ko vidhayak-nidhi se "bharpur hissa" mila.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gulabganj road (Cant chauraha–Gulabganj, ~1.5 km, Rs 3 crore ghoshna)',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'ETV Bharat, 19 Sep 2026',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/guna-gulabganj-road-villagers-demand-warning-jyotiraditya-scindia-displeasure-pannalal-shakya-explanation-mps26091904708',
+    date: '2026-09-19',
+    note: 'GHOSHNA STAGE. ETV Bharat: graminon ne sadak ki maang par MP Scindia ka kafila roka ("road nahin to vote nahin", video viral); aadhe ghante baad munch se MP Scindia ne ghoshna ki ki CM ki Rs 15 crore vishesh adhosaunchana nidhi (har MLA ko milne wali, "Mukhya Mantri Adhosanrachana Yojana") me se Rs 3 crore is sadak ke liye swikrit karwayenge; DPR taiyaar; kaam monsoon ke baad; collector ko nirdesh. MLA Panna Lal Shakya ka apna dawa (ETV se baatcheet me): "4 mahine se prayas kar rahe hain, CM sachivalaya ko 4 mahine pehle application bheja tha; barish me sadak ka kaam hota nahi isliye ruka tha, sirf rashi aani shesh thi." POORA DISCLOSURE: ghoshna MP ne ki, MLA ne nahi; sanction order/GO number khabar me nahi; fund CM adhosaunchana yojana ka MLA-quota hai — ye vidhayak-nidhi (Rs 2.5 crore LAD) bhi nahi aur sansad-nidhi (MP fund) bhi nahi (doosre portals ne ise "vidhayak nidhi" likha, lekin ETV me Scindia ke shabdon me CM ki vishesh nidhi hai).',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (har rejected item, ek line me — kyun reject):
+// 1. Bansalnews, 27 Nov 2025 (khola tha): Rs 52 crore ke 2 railway overbridge ka bhoomi-pujan — ye LS sansad Scindia ka karyakram tha; MLA sirf manch par bole, khud kaha 'Maharaj sahab ki kripa hai... ye sabhi Guna vidhan sabha me hue hain'; unki koi nidhi/anushansa/lokarpan-bhoomika spasht nahi — Scindia-rule REJECT. https://bansalnews.com/madhya-pradesh/guna-bjp-mla-pannalal-shakya-vs-collector-wks-10817666
+// 2. AajTak 11 Mar 2026 + Amar Ujala 9 Mar 2026 (AajTak khola tha): hammer se PWD sadak quality nirikshan — sirf nirikshan/daura, koi kaam/bhoomi-pujan/lokarpan nahi — REJECT. https://www.aajtak.in/madhya-pradesh/story/mp-bjp-mla-pannalal-shakya-hammer-inspection-pwd-road-quality-guna-news-lcln-strc-2492443-2026-03-11
+// 3. Vocaltv (+ livevns mirror), 8 Sep 2025: 69th rajya-stariya shaleya krida pratiyogita (boxing/judo) udghatan — karyakram me sirf maujoodgi/shubharambh, koi kshetra-kaam nahi — REJECT. https://vocaltv.in/madhya-pradesh/guna-mla-shakya-inaugurated-the-69th-state-level-sphp/cid17378402.htm
+// 4. RNI News, Feb-Mar 2025: Dastak abhiyan (2nd phase) ka vitamin-A khurak pilakar shubharambh — sarkari abhiyan ka mukhya-atithi shubharambh, koi kaam nahi — REJECT. https://www.rninews.com/दस्तक-अभियान-के-द्वितीय-चरण-का-विधायक-ने-विटामिन-‘ए’-की-दवा-पिलाकर
+// 5. 14-15 Jul 2024 (Times Now / India.com / Zee Salaam / thesootr / ETV Bharat): PM College of Excellence udghatan par "degree se kuch nahi hoga, puncture repair shop kholo" bayan — bayan-vivad + karyakram haziri; negative entry nahi (koi FIR/case/adhikarik karwai nahi, koi neta-jawab angle bhi case-level nahi) — REJECT. https://www.timesnownews.com/india/madhya-pradesh-bjp-mlas-advice-to-college-students-skip-degrees-open-puncture-repair-shops-article-111759772
+// 6. Sep 2025 (Bhaskar English / Lokmat Times / TOI): "civil war / 18-30 saal walon ko mandatory military training" bayan — bayan-vivad; party ne Bhopal talba kiya lekin koi FIR/case/adhikarik karwai nahi — established reporting me case/FIR nahi, isliye negative entry nahi banti — REJECT. https://www.bhaskarenglish.in/local/mp/news/india-to-face-nepal-like-unrest-says-bjp-mla-pannalal-shakya-warns-of-domestic-conflict-135894800.html
+// 7. NIE, Aug 2026: Devi Sita par "maut ka saamaan" bayan — bayan-vivad; chhote-portal statement-khabar negative entry ke bar (aarop + case/FIR + adhikarik karwai) ko poora nahi karti — REJECT.
+// 8. Punjab Kesari, 5 Oct 2026: atikraman-hatayo abhiyan par collector par tanj ("upar se ghanti baj gayi") — sirf bayan/tanj, koi kaam nahi — REJECT. https://m.mp.punjabkesari.in/madhya-pradesh/news/bjp-mla-pannalal-shakya-takes-a-dig-at-the-action-taken-on-scindia-s-instruction-2386571?amp
+// 9. FPJ, Sep 2026: Rs 30.47 crore theme road (Chintaharan–Ambedkar Chowk) bhoomi-pujan — CSR (GAIL/HFCL) funding, Scindia ka karyakram; MLA ki bhoomika/nidhi/anushansa khabar me spasht nahi — Scindia-rule REJECT. https://www.freepressjournal.in/amp/indore/scindia-lays-foundation-for-3047crore-theme-road-project-in-guna
+// 10. Lokmat Times, 29 Jun 2026: Rs 350 crore pariyojnaon ke lokarpan/shilanyas (solar plant, ITI, substations, sadaken) — sab Scindia ke karyakram/lokarpan; MLA ki concrete bhoomika khabar me spasht nahi — Scindia-rule REJECT. https://www.lokmattimes.com/national/mp-scindia-lays-foundation-for-rs350-crore-development-projects-in-guna/
+// 11. NBT / PeoplesUpdate, Dec 2025: Scindia se phone-par mazak ("hello pannalal ji, mera khayal rakhiega") — rajnetik banter, koi kaam nahi — REJECT. https://navbharattimes.indiatimes.com/state/madhya-pradesh/guna/scindia-fears-the-mla-he-says-on-the-phone-hello-pannalal-ji-please-take-care-of-me-hes-seen-taking-a-dig-at-the-guna-mla/articleshow/125694476.cms
+// 12. sabkikhabar, Jun 2026: BJP pradesh adhyaksh dwara fatkar (Scindia-kheme ke mantriyon par bayanbaji) — party-internal mamla; koi FIR/case/adhikarik karwai nahi — negative entry nahi — REJECT. https://sabkikhabar.com/news.php?id=bhopal%20-1-629308
+// 13. Naidunia, Sep 2025: "farzi misabandi pension le rahe hain" bayan (krida pratiyogita munch par) — sirf bayan, koi kaam nahi — REJECT. https://www.naidunia.com/madhya-pradesh/guna-guna-bjp-mla-pannalal-shakya-made-a-big-claim-8404616
+// 14. 2023-28 tenure me koi sarkari GO/order, alag lokarpan/bhoomi-pujan ya hospital/school/water ka concrete kaam (Dec 2023 ke baad ka) kisi credible source me nahi mila; uparokt 11 entries hi poora qualifying set hain. Patrika ki 19 swikrit me se 10 hi list me the — baaki 9 ke naam/ rakam khabar me nahi the, isliye entry nahi ban sakti.
+
+// PARENT QA NOTE (2026-10-14): priyanka-penchi ki Kumbhraj pariyojna (Rs 5,138 cr) wali swikriti entry
+// HATA di gayi — ekmatra source ek blogspot blog tha; itni badi rajya-pariyojna + swikriti stage ke liye
+// established media/sarkari praman chahiye (wahi standard jo Beenaganj entry par coordinator ne lagaya tha).
+// Project ka astitva alag baat hai; MLA-prayas ka dawa is saboot par entry ke layak nahi.
+mpWorks['priyanka-penchi'] = [
+  {
+    title: 'Chachoura ke liye Rs 54.60 crore ki sadak-flyover yojna aur 5881 naye PMAY awas — MLA ka swikriti-dawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Reportage News International (RNI), 13 June 2025',
+    sourceUrl: 'https://www.rninews.com/मुख्यमंत्री-से-मिलीं-चाचौड़ा-विधायक-प्रियंका-मीणा',
+    date: '2025-06-13',
+    note: 'Poora disclosure: ye MLA ka swayam ka dawa hai jo report me chhapa — unhone CM se bhet karke Rs 54.60 crore ki sadak-flyover yojna aur PMAY ke tahat 5881 naye awason ki swikriti par aabhar jataya. Report me koi GO/adisuchana sankhya ya sanction-order ka praman nahi diya gaya, isliye ye sirf ghoshna/dawa stage par record hai. Fund vidhayak-nidhi nahi lagta (lagat state budget jaisi), sansad-nidhi bhi nahi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (har rejected item ek line me: kyun reject)
+// 1. satyarath.com/news/79342 (Aug 2024, "13 karyaon ki manzoori" press-note): source fetch failed — khud padh nahi sake, snippet se entry banana allowed nahi.
+// 2. gramsparshmadhusudangarh.blogspot.com/2024/10 (Oct 2024, MLA ki samiksha baithak): sirf nirikshan/nirdesh — kaam nahi.
+// 3. vocaltv.in — mantri Govind Singh Rajput ne Rs 815.64 lakh (26 karyaon) ka bhoomi-pujan/lokarpan kiya, Chachoura Beenaganj (Apr 2025): MLA sirf upasthit — maujoodgi kaam nahi.
+// 4. bhaskar.com — Kumbhraj nava-nirmit tehsil bhavan (Jan 2026): collector ne shubharambh kiya, MLA baad me pahunchi aur nirikshan kiya — sirf nirikshan.
+// 5. samarsaleel.com — Teligao Jan-Vishwas abhiyan (Oct 2026): jan-samvad + adhikariyon ko nirdesh — kaam nahi.
+// 6. samarsaleel.com — Beenaganj swasthya/netra shivir (Oct 2026): 480 students ki janch, MLA ne 20 chashme baante — karyakram me maujoodgi, sthayi nirman/kaam nahi.
+// 7. navbharattimes.indiatimes.com / sabkikhabar / bansalnews — Beenaganj kabaddi-maidan stage vivad (Sep 2026): bayan/vivad khabar — negative entry ka criteria poora nahi karta (koi aarop + case/FIR/adhikarik karwai MLA par nahi); kaam bhi nahi.
+// 8. TOI / bhaskarenglish / npg.news — MLA vs Guna SP Ankit Soni patra-vivad (May-Jun 2025): police-transfer par aarop-vivad; MLA ke viruddh koi case/FIR/karwai nahi, IG ne "sulajh gaya" kaha — negative-entry rule poora nahi karta.
+// 9. NDTV / Indian Express / latestly — Balaram Mahotsav me MLA Pannalal Shakya ke bayan par Penchi ki apatti (Aug 2026): doosre neta ke bayan par apatti — MLA ka kaam ya unpar vivad nahi.
+// 10. hindi.news18.com — CM ke samne "Narendra Singh Modi" galti (Jul 2025): zabani-chook ki khabar — kaam ya negative entry nahi.
+// 11. mp.punjabkesari.in — MLA ne CM ko Kumbhraj bandh/dam-sthan par shikayati patra likha (Oct 2025): sirf maang/patra — kaam nahi.
+// 12. lokmattimes.com — Scindia ne Guna me Rs 350 crore pariyojnaon ki neev (Jul 2026): LS sansad ka karyakram, MLA ki bhoomika khabar me spasht nahi — reject.
+// 13. Coordinator audit (2026-10-14): Worker ne Beenaganj CHC ke 50-bistar civil hospital me unnayan ki 'CM swikriti' entry di thi (gramsparshmadhusudangarh.blogspot.com, Jul 2026) — ekmatra chhota kshetriya blog, koi GO/sanction-order number nahi, aur established media me is specific unnayan ki koi pushti nahi — swikriti-stage rule (Chhindwara precedent) fail hone par entry hatayi gayi.
+
+mpWorks['rishi-agrawal'] = [
+  // EMPTY PROFILE — qualifying entry nahi mili.
+  // Dec 2023 se ab tak Hindi+English news me ~10 targeted searches + 6 sources khud khole gaye.
+  // Mili hui saari items reject-rules me aayi (REJECT-LOG neeche). Isliye profile khaali rakha hai.
+];
+
+// REJECT-LOG (har rejected item ek line me — kyun reject):
+// 1. Fatehgarh State Highway gunvatta-vivad (YouTube, politicswala) — REJECT: source YouTube-only (allowed nahi) + sirf nirikshan/daura (thekedaar ko daant), kaam nahi.
+// 2. Naidunia 02-08-2026: sadak hadse ke ghayalon ko apni gaadi se aspatal pahunchaya (Khairikhata road) — REJECT: manviya karya hai, vikas-kaam (work) nahi; source khud khola.
+// 3. Navbharat Times 12-10-2026: bamori ke yuvakon ne apne paiso se (sawa lakh+) 2 sarkari school (Madhai, Tarapur) sudhare; MLA sirf karyakram me mukhya atithi the, bhashan se prerana — REJECT: sirf maujoodgi/prerana, MLA ki concrete bhoomika ya nidhi nahi; source khud khola.
+// 4. Gram Sparsh blog 25-06-2025: baadh rahat daura (Fatehgarh/Vishnupura/Kapasi/Banda), niji kharch se raahat kit — REJECT: rahat-karya vikas-kaam nahi + blog source; source khud khola.
+// 5. PublicTV Samachar 26-08-2025: bamori college bhawan (2019 me swikrit, 17-03-2023 ko 5.34 cr prashasnik swikriti — dono tenure se pehle); MLA ne vidhan sabha me sawal uthaya, uske baad 14-05-2025 ko bhawan Guna PG college ko saunpa gaya, lekin padhane wale pad abhi bhi swikrit nahi, taala laga hai — REJECT: kaam pre-tenure + MLA ki bhoomika sirf sawal; source khud khola.
+// 6. ETV Bharat 24-11-2025: makka MSP press-varta (sarkar par aarop) — REJECT: rajnaitik bayan/aarop, koi vikas-kaam nahi; source khud khola.
+// 7. Prabhasakshi 19-09-2026: Scindia ne Guna (Pannalal Shakya) vidhayak-nidhi se 3 cr sadak manjur ki — REJECT: doosre vidhayak (Guna AC) ki nidhi, Rishi Agrawal ka koi role nahi, kshetra bhi Bamori nahi; source khud khola.
+// 8. NTV Time (Mar 2025): Fatehgarh me school chhatrao ka hadsa, MLA mauqe par pahunche — REJECT: sirf maujoodgi, kaam nahi.
+// 9. TheDelhiToday: kisan ki maut par BJP booth adhyaksh nishkasit, MLA ka sarkar par bayan — REJECT: rajnaitik bayan, vikas-kaam nahi.
+// 10. MP First: bamori ke schoolon ki badhali (2020 BJP sarkar ke davo par) — REJECT: pre-tenure sandarbh, Rishi Agrawal ka koi kaam nahi.
+// 11. public.app: Scindia ne 11.64 cr ki 3 sadakon ka lokarpan kiya, MLA maujood — REJECT: source public.app-only (allowed nahi) + Scindia karyakram me sirf haziri, MLA ki nidhi/bhoomi-pujan spasht nahi.
+// 12. YouTube (Khabar MP): Marki-Mahu aspatal bhawan me aniyamitta par MLA ki fatkaar — REJECT: YouTube-only + sirf nirikshan/daant, kaam nahi.
+// 13. Naam-doppelganger filter: Premchand Agrawal (Rishikesh, Uttarakhand) aur Brijmohan Agrawal (Raipur MP) ki khabrein — REJECT: galat vyakti, Bamori/Guna se sambandh nahi.
+
+mpWorks['jaivardhan-singh'] = [];
+
+// REJECT-LOG (har rejected item, ek line me — kyun reject):
+// 1. Jansamachar24, 13 Dec 2025, "Muni Nirlep Sagar Marg lokarpan": road ka naamkaran Nagar Palika Raghogarh-Vijaypur ne kiya tha, MLA sirf pattika-anavaran me mukhya atithi (siraf maujoodgi) — REJECT. https://jansamachar24.com/?p=79090
+// 2. Wahi khabar: "gaonshaala ke liye naye satra me April me tin shed ke liye Rs 5 lakh vidhayak-nidhi se swikrit karenge" — bhavishya ki ghoshna ("karenge"), sanction order/GO ka koi saboot nahi — REJECT (ghoshna + future work). https://jansamachar24.com/?p=79090
+// 3. public.app-only, 3 Mar 2025: Mahadevapura me Tantya Mama pratima par vidhayak-nidhi se Rs 10 lakh ki ghoshna — SOURCE REJECT (public.app-only) + ghoshna-type khabar, koi sanction saboot nahi. https://public.app/video/sp_sh3j3ane0kqxt
+// 4. public.app-only, 6 Mar 2025: Raghogarh nagar palika me vikas-samiksha baithak (sirf nirdesh/baithak, koi kaam nahi) — SOURCE REJECT + sirf baithak. https://public.app/amp_video/sp_09h1uz1ul40lc
+// 5. public.app-only, 2 Oct 2026 (dated, Raghogarh bus-stand building inspection): sirf nirikshan (inspection), koi kaam/bhoomi-pujan/lokarpan nahi — SOURCE REJECT + inspection-only. https://public.app/video/sp_ag8lg615xf7e0
+// 6. public.app-only, 21 Dec 2025: Raghogarh ward-6 Shah samaj samudayik bhavan lokarpan (fita kaatna) — SOURCE REJECT (public.app-only), koi non-aggregator alternate source nahi mili. https://public.app/video/sp_mkosfzwys9f2n
+// 7. public.app-only, 26 Jan: Rajnakhedi Veer Maharaj dev sthal par CC kharanja + pavers block lokarpan — SOURCE REJECT (public.app-only). https://public.app/video/sp_90aoq5i22k178
+// 8. public.app-only, 4 Sep: Gram panchayat Barod (Aron) me naveen panchayat bhavan + samudayik bhavan lokarpan — SOURCE REJECT (public.app-only); non-public.app duplicate source nahi mili. https://public.app/video/sp_p9dk944otqe3h
+// 9. theSootr: Guna ke Maksuranganj me "kagaz me chal rahe" farzi aspataal par CM sveccha-anudan se Rs 48 lakh — MLA ke vidhan-sabha sawal se khulasa hua; ye vidhanik nigrani (oversight) hai, koi development kaam nahi — REJECT (not a work). https://thesootr.com/state/madhya-pradesh/fake-hospital-revealed-cm-relief-fund-fraud-9635859
+// 10. Aug 2025 se kai sources: Guna jila Congress adhyaksh niyukti par virodh/pragyaapan — sangathanik rajneeti, kshetra-kaam nahi — REJECT.
+// 11. Vidhan-sabha budget session Mar 2025 me schoolon me 7000 shikshakon ki kami ka sawal — sawal/mang, kaam nahi — REJECT.
+// 12. 2018-20 mantri-karyakaal ke kaam (metro MoU, e-rickshaw, shav-vahan nirdesh): task instructions ke hisab se current karyakaal (Dec 2023-) se pehle ka sab kuch REJECT — NOT TAKEN.
