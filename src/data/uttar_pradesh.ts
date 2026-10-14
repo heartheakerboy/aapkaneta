@@ -5342,14 +5342,14 @@ export const upNetas: Neta[] = [
   {
     slug: 'rakesh-pratap-singh',
     name: 'Rakesh Pratap Singh',
-    party: 'Samajwadi Party',
-    partyShort: 'SP',
+    party: 'Bharatiya Janata Party',
+    partyShort: 'BJP',
     post: 'MLA',
     state: 'Uttar Pradesh',
     constituency: 'Gauriganj',
     constituencySlug: 'gauriganj',
     tenures: [
-      { post: 'MLA', constituency: 'Gauriganj', constituencySlug: 'gauriganj', party: 'Samajwadi Party', start: '2022', end: '2027' },
+      { post: 'MLA', constituency: 'Gauriganj', constituencySlug: 'gauriganj', party: 'Bharatiya Janata Party', start: '2022', end: '2027' },
     ],
     works: [],
     fund: {
@@ -5366,7 +5366,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=3096',
       backgroundNote: '',
     },
-    electionNote: '2022 me Gauriganj se jeete.',
+    electionNote: '2022 me SP se Gauriganj se jeete. Feb 2024 Rajya Sabha chunav me cross-voting ke baad SP ne dal-virodhi gatividhiyon par nishkasit kar diya (Vidhan Sabha record me ve unattached ke roop me darj the). 14 Oct 2026 ko Gauriganj, Amethi me Smriti Irani aur UP BJP adhyaksh Pankaj Chaudhary ki upasthiti me aupcharik roop se BJP me shamil hue (India TV/IANS).',
   },
   {
     slug: 'maharaji-prajapati',
@@ -6357,14 +6357,14 @@ export const upNetas: Neta[] = [
   {
     slug: 'vinod-chaturvedi',
     name: 'Vinod Chaturvedi',
-    party: 'Samajwadi Party',
-    partyShort: 'SP',
+    party: 'Bharatiya Janata Party',
+    partyShort: 'BJP',
     post: 'MLA',
     state: 'Uttar Pradesh',
     constituency: 'Kalpi',
     constituencySlug: 'kalpi',
     tenures: [
-      { post: 'MLA', constituency: 'Kalpi', constituencySlug: 'kalpi', party: 'Samajwadi Party', start: '2022', end: '2027' },
+      { post: 'MLA', constituency: 'Kalpi', constituencySlug: 'kalpi', party: 'Bharatiya Janata Party', start: '2022', end: '2027' },
     ],
     works: [],
     fund: {
@@ -6381,7 +6381,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=1698',
       backgroundNote: '',
     },
-    electionNote: '2022 me Kalpi se jeete.',
+    electionNote: '2022 me SP se Kalpi se jeete. Feb 2024 Rajya Sabha chunav me cross-voting ke baad SP se sambandh bigde (rebel SP MLA ke roop me jane gaye). 14 Oct 2026 ko Gauriganj, Amethi me Smriti Irani aur UP BJP adhyaksh Pankaj Chaudhary ki upasthiti me aupcharik roop se BJP me shamil hue (India TV/IANS).',
   },
   {
     slug: 'gauri-shankar',
@@ -7981,14 +7981,14 @@ export const upNetas: Neta[] = [
   {
     slug: 'abhay-singh',
     name: 'Abhay Singh',
-    party: 'Samajwadi Party',
-    partyShort: 'SP',
+    party: 'Bharatiya Janata Party',
+    partyShort: 'BJP',
     post: 'MLA',
     state: 'Uttar Pradesh',
     constituency: 'Goshainganj',
     constituencySlug: 'goshainganj',
     tenures: [
-      { post: 'MLA', constituency: 'Goshainganj', constituencySlug: 'goshainganj', party: 'Samajwadi Party', start: '2022', end: '2027' },
+      { post: 'MLA', constituency: 'Goshainganj', constituencySlug: 'goshainganj', party: 'Bharatiya Janata Party', start: '2022', end: '2027' },
     ],
     works: [],
     fund: {
@@ -8005,7 +8005,7 @@ export const upNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/UttarPradesh2022/candidate.php?candidate_id=3258',
       backgroundNote: '',
     },
-    electionNote: '2022 me Goshainganj se jeete.',
+    electionNote: '2022 me SP se Goshainganj se jeete. Feb 2024 Rajya Sabha chunav me cross-voting ke baad SP ne dal-virodhi gatividhiyon par nishkasit kar diya (Vidhan Sabha record me ve unattached ke roop me darj the). 14 Oct 2026 ko Gauriganj, Amethi me Smriti Irani aur UP BJP adhyaksh Pankaj Chaudhary ki upasthiti me aupcharik roop se BJP me shamil hue (India TV/IANS).',
   },
   {
     slug: 'dharmraj-nishad',
