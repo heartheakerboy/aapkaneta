@@ -653,3 +653,229 @@ tamilNaduWorks['prabhakar-j-c-d'] = [
 // unka jawab darj), Sekarbabu x2 (FIR jaanch-jaari, jawab darj), Udhayanidhi (Thanjavur FIR + giraftari +
 // station bail, inkaar darj), Saravanan (suo-motu FIR ke khilaf quash-yachika) — sab stage-sach + jawab ke saath.
 // Venkataramanan ke 3 entries ka srot Mylapore Times hai (established local English daily — note me disclosed).
+
+
+// ---- Coimbatore district batch (researched 2026-10-15) ----
+
+tamilNaduWorks['sunilanand'] = [];
+
+// REJECT-LOG (sunilanand, Mettupalayam — scope: May 2026+)
+// 1. PNI news (pninews.com), 19 Jun 2026: Iswarya Fertility Centre 86th branch opening at Mettupalayam — MLA attended and lit the lamp. REJECT: private commercial project, MLA ki sirf maujoodgi/anaavaran; sarkari pariyojna nahi, dastavezi bhoomika nahi.
+// 2. The Hindu (thehindu.com), 03 Jan 2026: Sengottaiyan denied permission to garland Anna statue at Mettupalayam. REJECT: pre-term (Jan 2026, chunaav se pehle) aur Sunilanand se sambandhit nahi.
+// 3. New Indian Express (newindianexpress.com), 07 May 2026: "Sunil Anand wins Mettupalayam, says proud to be Kannadiga". REJECT: election-result background story — focus drainage/roads/drinking water sirf irada/bayaan hai, koi kaam ka stage nahi.
+// 4. Deccan Chronicle (deccanchronicle.com), May 2026: "Metupalyam MLA Lone Kannadiga To Win In Tamil Nadu". REJECT: victory background — drainage/roads/drinking water improve karne ka sirf irada, koi dastavezi kaam nahi.
+// 5. Thanthi TV / Polimer News YouTube items (Aug-Sep 2026): (a) car-accident rescue video, (b) "election promise fulfilled" clip, (c) Kerala-TN bridge inspection reel, (d) TN Assembly Public Undertakings Committee appointment, (e) gold-ring-to-children clip. REJECT: sab YouTube-only sources (English sources me verifiable post-event reporting nahi), aur koi item sarkari kaam ka stage-sach (poora/lokarpan/swikriti/shilanyas) sabit nahi karta — inspection aur appointment entry-criteria ke bahar.
+// 6. Oneindia criminal-cases list: N. Sunil Anand — 0 cases. Koi negative reporting nahi mili.
+// 7. DT Next/The Hindu/TOI/NewsMinute/South First/NDTV/DH par "Sunil Anand"/"Sunilanand" ke saath sadak-paani-school-aspatal ya MLACDS keywords me koi post-May 2026 works-reporting nahi mili (alag-alag name spellings aur date ranges me 8 targeted searches).
+
+// QA: sunilanand (TVK, Mettupalayam, Coimbatore) — 0 entries, profile khaali. Sabha ~5 mahine purani; satyapit kaam na milna swabhavik. English established media me MLA ke kshetra-kaam ki koi post-event reporting (lokarpan/swikriti/shilanyas) nahi mili; sirf election-background, private-project maujoodgi, pre-term aur YouTube-only items the — sab reject. Negative bhi nahi (affidavit me 0 criminal cases). Empty profile imaandaar nishkarsh hai.
+
+tamilNaduWorks['nm-sukumar'] = [
+  {
+    title: 'Sulur ke Nagamma Naickenpalayam me 70-acre ke talab ki desilting ka bhoomi pujan 25 Sep 2026 ko MLA Sukumar ne kiya, lekin virodh ke kaaran kaam launch par hi ruka',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 25 Sep 2026',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/residents-oppose-proposed-plan-to-discharge-treated-wastewater-into-tank-near-sulur-in-coimbatore/article71509742.ece',
+    date: '2026-09-25',
+    note: 'The Hindu ki post-event reporting ke mutabik Sulur ke Nagamma Naickenpalayam sthit 70-acre ke talab ke desilting kaam ka bhoomi pujan police protection me hua; Revenue Department aur Water Resources Department ke adhikari bhi maujood the. Kuch sthaniya logon ne virodh kiya — unka aarop tha ki desilting ke baad talab me treated wastewater daalne ki yojna hai, jisse bhujal ki quality kharab hogi aur kheton par asar padega; virodhiyon ne MLA ka gherao kiya, un par pathrav hua (MLA ko laga nahi) aur laaye gaye earthmover ko rok diya; pathrav par police inquiry chal rahi hai. MLA ka jawab darj hai: yojna sirf talab ki gadh saaf karne aur us tak paani laane wale nalon ko kholne ki hai taaki barsaat ka paani bhar kar bhujal recharge ho; treated sewage daalne ka koi plan nahi. Unhone ye bhi dawa kiya ki state government ne water bodies ki desilting ke liye Rs 512 crore allocate kiye hain (ye unka dawa hai, alag se verify nahi). Stage-sach: shilanyas-bhoomi pujan hua, lekin virodh ke kaaran kaam launch par hi ruk gaya — poora ya lokarpan ka saboot abhi nahi. Coordinator ne The Hindu ka article khud kholkar verify kiya.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (nm-sukumar, Sulur — scope: May 2026+)
+// 1. ANI (asianetnews.com), 14 May 2026: Coimbatore airport welcome — "will focus on development of Sulur constituency". REJECT: jeet ke baad sirf vada/intent, koi kaam ka stage nahi.
+// 2. New Indian Express, 26 Sep 2026: MLA ka dawa — Sulur twin lakes ke desilting aur treatment plant ke liye "estimate submitted". REJECT: maang/prastav akela; sanction order/work-order ka saboot nahi.
+// 3. New Indian Express, 26 Sep 2026: MLA ka dawa — state government ne water-body desilting ke liye Rs 512 crore allocate kiye. REJECT: rajya-package ki aam swikriti; isme MLA ka dastavezi concrete kadam nahi.
+// 4. ANI (newspointapp.com / awazthevoice.in), 23 May 2026: Sulur schoolgirl murder case par "accused must be encountered" bayan. REJECT: political bayan, koi kshetra-kaam nahi; works scope se bahar.
+// 5. Oneindia criminal-cases list: N.M. Sukumar (Sulur, TVK) — 1 case. REJECT (negative): affidavit-aggregate list hai; established media me aarop + FIR/case/adalaati sthiti + jawab wali reporting nahi mili — chunav-yachika/affidavit akeli negative nahi.
+// 6. DT Next, Jun 2026: Sulur Pocso case me police ne chargesheet file ki. REJECT: murder-case coverage hai, MLA ka kaam nahi; Sukumar se sambandhit nahi.
+// 7. The Hindu, 12 Aug 2026: TN govt ne MLACDS 2026-27 ke liye Rs 828.36 crore allocate kiye. REJECT: state-level GO; Sukumar ka koi dastavezi proposal ya is fund se hua kaam report nahi hua.
+// 8. 8+ targeted English searches (naam spellings: Nm.Sukumar / N.M. Sukumar / N M Sukumar; keywords: road, water, school, hospital, MLACDS, sanction, inauguration, FIR) me pond-desilting ke teenon articles ke alawa koi post-May 2026 kshetra-kaam reporting nahi mili.
+
+// QA: nm-sukumar (TVK, Sulur, Coimbatore) — 1 entry (Paani, stage: shilanyas-bhoomi pujan, The Hindu post-event reporting). Stone-pelting aur virodh stage-sach ke saath note me darj hai. 7 rejects: vada, maang/prastav, rajya-package dawa, bayan, aggregate case-list, unrelated case coverage, state-level MLACDS GO. Negative entry nahi. Profile khaali nahi; sabha ~5 mahine purani isliye ek hi satyapit kaam milna swabhavik hai.
+
+tamilNaduWorks['kanimozhi-santhosh'] = [
+  {
+    title: 'MLA Kanimozhi Santhosh ne Anaikatti ke paas Kondanur check dam ki 12 saal purani desilting maang par bhoomi puja karke kaam shuru karwaya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Afternoon News, 9 Oct 2026',
+    sourceUrl: 'https://afternoonnews.in/article/kondanur-check-dam-desilting-work-launched-by-mla-kanimozhi-santhosh/',
+    date: '2026-10-09',
+    note: 'Anaikatti ke paas No. 24 Veerapandi Panchayat ke Kondanur gaon me sthit check dam ki desilting ka kaam shuru ho gaya hai; Kavundampalayam MLA Kanimozhi Santhosh ne bhoomi puja karke iska udghatan kiya. Report ke mutabik gaonwasi aur kisan pichhle 12 saalon se desilting ki maang kar rahe the, aur maang MLA tak pahunchne par unhone kadam uthaya; project swikrit ho chuka hai. Disclosure: source ek chhota local Coimbatore paper hai — coordinator ne article khud kholkar verify kiya hai; report me sanction order/GO ya rashi ka ullekh nahi hai, aur primary English media me corroboration nahi mili; isliye stage bhoomi pujan + kaam-shuru tak hi maana gaya hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (kanimozhi-santhosh, Kavundampalayam — scope: May 2026+)
+// - The Hindu astrology-office meeting story (19 May 2026): jan-aalochana hai lekin FIR/case/janch-karyavahi nahi, negative criteria fail; kshetra-kaam bhi nahi — reject.
+// - Anaikatti weekly market inauguration (businessminutes, 07 Sep 2026): Blogger-based portal, MLA ki bhoomika sirf udghatan + aashwasan, sarkari pariyojna ka dastavezi saboot nahi — reject.
+// - FinTech Hub Rs 400 crore welcome (businessminutes, Sep 2026): CM ki ghoshna ka swagat-matra; MLA ka koi dastavezi concrete kadam nahi — reject.
+// - "No Compromise in Speaking for the People" speech (businessminutes, Aug 2026): rajneetik bhashan, DMK par aarop; kshetra-kaam nahi — reject.
+// - Assembly Committee on Subordinate Legislation appointment (newstodaynet, 11 Sep 2026): committee sadasyata, kshetra-kaam nahi — reject.
+// - "Regressive Mindset of Viewing Women" statement (businessminutes, Sep 2026): rajneetik bayan; kshetra-kaam nahi — reject.
+// - Class 12 student school fees help (YouTube short): YouTube-only source, reject-list me hai — reject.
+// - "Kanimozhi launches Rs 515.72 crore drinking water project" (New Indian Express): ye Kanimozhi Karunanidhi MP (Thoothukudi) hain, 2023 ki khabar — naam-trap + pre-term, reject.
+// - Sulur pond desilting protest stories (The Hindu / NIE / ToI, 25-26 Sep 2026): Sulur MLA N.M. Sukumar ke baare me hain, Kanimozhi Santhosh nahi — galat vyakti, reject.
+// - The Hindu "CM's street campaign" / "TVK government not keeping its poll promises" (Oct 2026): DMK MP Kanimozhi Karunanidhi ki khabrein — naam-trap, reject.
+// - Narayana Schools Catalyst Lab inauguration (businessnewsthisweek, Jul 2026): private school event me sirf maujoodgi, udghatan mantri ne kiya — reject.
+// - GroHair & GloSkin clinic inauguration (covaimail): private clinic me guest of honour, sirf maujoodgi — reject.
+// QA: 1 entry kept (Kondanur check dam desilting, stage bhoomi pujan + kaam-shuru; single local-paper source, report me GO/amount ka ullekh nahi — primary English media me corroboration ke liye kayi searches ki gayin, nahi mili). Naam-trap wali saari khabrein (DMK MP Kanimozhi Karunanidhi, Sulur MLA N.M. Sukumar) reject ki gayin. Profile khaali nahi hai lekin patli hai — karyakaal ~5 mahine purana hai isliye seemit satyapit kaam imaandar tasveer hai.
+
+tamilNaduWorks['v-sampathkumar'] = [];
+
+// REJECT-LOG (v-sampathkumar, Coimbatore (North) — scope: May 2026+)
+// 1. The Hindu "Minister reviews civic projects in Coimbatore" (dumpyard/Ugd/flyover inspection): sirf nirikshan/daura, koi stage nahi — REJECT.
+// 2. The Hindu "Coimbatore Next meets Ministers, places its demands" (18 Jul 2026): maang/sujhav + sirf aashvaasan — REJECT.
+// 3. The Hindu "MSME agencies asked to coordinate" (4 Jul 2026): review meeting, koi concrete kaam nahi — REJECT.
+// 4. The Hindu "Swarga Foundation ... differently abled friendly initiatives" (11 Jun 2026): NGO ki pahal, minister ne keval inauguration kiya — sirf maujoodgi — REJECT.
+// 5. TOI "Tamil Nadu excise minister justifies suspension of Tasmac employees" (5 Sep 2026): Pollachi GH siddha building Rs 55 lakh seat se bahar (Pollachi seat) + sirf maujoodgi; rekla/coconut tree statues non-sarkari — REJECT.
+// 6. The Hindu "Work begins on new chariot for Perur Patteeswarar Temple" (1 Jun 2026): Perur Thondamuthur seat me hai + HR&CE ka purana project (Nov 2025 me CM Stalin video-conf se inauguration) — bahar + sirf maujoodgi — REJECT.
+// 7. Deccan Chronicle "43 EVs Deployed to Collect Waste From Houses in Coimbatore City": Leap Green Energy ka Rs 86 lakh CSR donation, minister ne keval launch kiya; city-wide — REJECT.
+// 8. DT Next "Semmozhi Poonga graft ... after inaugurating new sports facilities at Nehru stadium" (26 Jul 2026): sports dept ka sarkari project, cost/fund source article me nahi, MLA ki dastavezi bhoomika nahi — sirf maujoodgi — REJECT. Semmozhi Poonga bhrashtachar aarop previous regime par hai, Sampath Kumar par nahi — NEGATIVE NAHI.
+// 9. ANI/lokmattimes "TVK will move from 108 ... house-site pattas distributed" (29 Aug 2026): Housing Board Department ka sarkari program, minister ne keval sambodhit kiya — REJECT.
+// 10. businessminutes "Minister V. Sampath Kumar Launches Pulse Polio Campaign" (Jun 2026): state health program, koi MLA bhoomika nahi — REJECT.
+// 11. afternoonnews "mega free multi-speciality medical camp" (Chinnathadagam): IMA/private hospital ka NGO event — REJECT.
+// 12. covaimail "Minister Sampath Kumar appreciates Royal Care" (Neelambur): private hospital ki pahal, keval ribbon-cutting — REJECT.
+// 13. The Hindu "Contractors no longer have to pay politicians" (12 Sep 2026): anti-corruption seminar me bhashan, koi kaam nahi — REJECT.
+// 14. The Hindu "Minister V. Sampath Kumar distributes 1,202 new ration cards" (18 Jul 2026): sarkari welfare distribution, district-wide, minister ke roop me maujoodgi — REJECT.
+// 15. TNIE "Anti-Sathyabama protesters give minister a tough time in Dharapuram" (27 Sep 2026): campaign scuffle; police ne kaha koi case darj nahi hua, koi chot nahi — FIR/case/janch nahi, jawab darj — NEGATIVE NAHI.
+// 16. TOI "Vijay's visit to Coimbatore: Two cases registered against TVK functionary" (Apr 2026): pre-term (May 2026 se pehle, MCC period) — scope se bahar — NEGATIVE NAHI.
+// 17. 7globe "Controversy erupts after songs ... convocations at Coimbatore medical colleges": aggregator mirror, koi FIR/janch nahi, unpar seedha aarop nahi — NEGATIVE NAHI.
+
+// QA: 17 candidates reviewed (The Hindu x6, TOI x2, DT Next x2, Deccan Chronicle, TNIE, ANI/lokmattimes, businessminutes, afternoonnews, covaimail, 7globe). 14 positive-shape REJECT (inspection/presence/demand/wrong-seat/NGO/CSR/state-program, May-2026+ scope). 3 negative-shape checked, none qualify (no FIR/case/janch against him; 1 pre-term). 0 kept entries. Profile HONESTLY EMPTY — expected: sabha ~5 mahine purani, minister ke state-level faisle MLA par nahi jode, seat-level satyapit kaam English sources me nahi mila.
+
+tamilNaduWorks['s-p-velumani'] = [];
+
+// REJECT-LOG (s-p-velumani, Thondamuthur — scope: May 2026+)
+// 1. SimpliCity "SP Velumani Inaugurates Public Facilities in Thondamuthur Constituency" (bus shelter Kurumbapalayam Rs 8.25L, 30,000L water tank Nambiyalaganpalayam Rs 7.25L, Anganwadi building Nagarajapuram; page claims Sep 26, no year): REJECT — publish date unverifiable (image timestamps Sep 26, 2024 suggest pre-term), source not established-tier, no corroboration in The Hindu/IE/TOI/DT Next/TNM.
+// 2. SimpliCity "AIADMK MLA S.P. Velumani Hands Over Land for New Integrated Agricultural Extension Center" (9 cents land, Thondamuthur Panchayat Union): REJECT — date unverifiable/pre-term, single local-portal source, no established-media corroboration.
+// 3. SimpliCity "AIADMK MLA S.P. Velumani Inaugurates Development Works in Sugunapuram East" (Aug 2024): REJECT — pre-term (May 2026 se pehle).
+// 4. DT Next 25-Aug-2026 "Fix Coimbatore's issues relegated by DMK government: SP Velumani": REJECT — sirf maang/demand (state govt se pending projects tezi lane ki apeal), koi completed/sanctioned kaam nahi.
+// 5. TOI "SP Velumani, the lone warrior of AIADMK in Coimbatore" (May 2026): REJECT — election profile analysis, koi kshetra-kaam nahi.
+// 6. newsdrum PTI "AIADMK united under Palaniswami, no internal rift: Velumani" (May/Jun 2026): REJECT — press statement + charter of demands, koi kaam nahi.
+// 7. DT Next "After party truce, Velumani returns to Thondamuthur" (May/Jun 2026): REJECT — party politics, koi kaam nahi.
+// 8. TOI Apr-2026 "Tamil Nadu assembly elections 2026: Velumani looks to make it four times in a row" — isme DMK MP R. Girirajan ki ED/ECIR plea ka zikr hai; 20-Apr-2026 ko Madras HC ne wo batch of petitions DISMISS kar di (The Hindu): REJECT — pre-term (May 2026 se pehle) aur Velumani ke paksh me dismissed, isliye negative nahi. Purane DVAC tender case (FIR 2021, prosecution sanction 12-Feb-2024) me May 2026 ke baad Velumani ke khilaf koi NAYI FIR/charge-framing/court order established media me nahi — nayi sthiti nahi, isliye negative entry nahi. (Jul/Sep 2026 me indianmasterminds ki khabren IAS officers ki sanction-delay par hain, Velumani par nayi karyavahi nahi, aur established source nahi.)
+// 9. CM C. Joseph Vijay ke May-2026 ke baad ke state-level faisle/inaugurations: koi bhi Velumani se joda hi nahi — niyam ke mutabiq MLA par attach nahi ho sakte.
+// 10. Mantri-kaal (2016-21) ke saare kaam: pre-term, scope se bahar.
+
+// QA: sources khole gaye — SimpliCity article padha (date verify nahi hua), The Hindu, TOI, DT Next, New Indian Express, NewsDrum, ETV Bharat ke results scan kiye; established English media me May-2026+ ka koi satyapit kshetra-kaam (poora/lokarpan/swikriti-shilanyas/ghoshna-with-GO) nahi mila. Sabha sirf ~5 mahine purani; profile imaandari se khaali. 1 negative janch hui — koi nayi post-May-2026 adalaati sthiti nahi, entry nahi. Total kept: 0, rejects: 10.
+
+tamilNaduWorks['v-senthilbalaji'] = [
+  {
+    title: 'MLA Senthilbalaji aur unke bhai par TVK MLA Elaiyaraja ko Speaker ke khilaf vote ke liye Rs 35 crore ki rishwat ki peshkash ke aarop me mamla darj; HC se agraim jamaanat, phir shartein narm',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Law, 5 Aug 2026',
+    sourceUrl: 'https://www.livelaw.in/high-court/madras-high-court/senthil-balaji-brother-bail-condition-relaxed-mla-poaching-case-544401',
+    date: '2026-08-05',
+    note: '26 Jun 2026 ko TVK MLA N. Elaiyaraja ne Triplicane police me shikayat ki ki Speaker J.C.D. Prabhakar ke khilaf laaye jaane wale prastav ke paksh me vote ke liye unhe Rs 35 crore ki peshkash hui aur dhamki mili. Police ne 1 Jul 2026 se giraftariyan ki, aur Coimbatore South MLA V. Senthilbalaji aur unke bhai R.V. Ashok Kumar ko Crime No 205 of 2026 me aaropi banaya — summons aur Look Out Circular jaari hua (4 Jul 2026). Unke vakil ka tark tha ki case rajnaitik roop se prerit hai, unka naam mool FIR me nahi tha, koi audio recording nahi aur sirf call records aur anumaan se joda gaya; rajya ka tark tha ki hotel bookings aur hawala-money se badi sajish ka saboot hai. Madras HC ne 8 Jul 2026 ko agraim jamaanat di (roz haziri ki shart ke saath), aur 5 Aug 2026 ko division bench dwara janch par rok lagne ke baad shartein narm kar di — zaroorat par bulaaya ja sakta hai. Stage: janch jari, charge-framing abhi nahi, koi nishkarsh nahi nikala gaya. Coordinator ne Live Law ka article khud kholkar verify kiya.',
+    period: '2026-2031',
+  },
+  {
+    title: 'DVAC ne Tasmac aniyamitaton par Senthilbalaji ke khilaf nayi FIR darj ki; HC ne jamaanat kharij ki, Supreme Court ne giraftari par rok lagayi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 31 Jul 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/supreme-court-stays-senthilbalajis-arrest-in-tasmac-corruption-case/article71290196.ece',
+    date: '2026-07-31',
+    note: 'Directorate of Vigilance and Anti-Corruption ne 28 Jul 2026 ko purv mantri V. Senthilbalaji, purv TASMAC MD S. Visakan, do purv senior regional managers, unke purv PA Bhaskar aur anyon ke khilaf 2021-2025 ke dauraan sharab khareed, transport contracts aur bar licence tenders me aniyamitaton par FIR darj ki; rajya khazane ko nuksaan ka aarop hai. Justice G.K. Ilanthiraiyan ne 30 Jul 2026 ko unki agraim jamaanat kharij kar di (custodial interrogation zaroori bataya). Ghanton me Supreme Court ne 31 Jul 2026 ko giraftari par rok laga di — passport surrender, gawahon ko prabhavit na karna aur janch me poora sahyog ki shartein; rajya ko halka sa bhi ullanghan dikhe to adalat aane ki chhoot. Unke vakil Kapil Sibal ne case ko "strange" bataya — do saal purane ED halafname par adharit, sarkaar badalne ke baad shuru; rajya ka jawab — mantri-karyakaal me unhone janch roki thi, "huge scam" hai. Stage: janch jari, giraftari nahi, charge-framing nahi, koi nishkarsh nahi nikala gaya. Coordinator ne The Hindu ka article khud kholkar verify kiya.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (v-senthilbalaji, Coimbatore (South) — scope: May 2026+)
+// - The Hindu, 05 Jun 2026 (power shortage remarks + Huzur Road constituency office inauguration): office inauguration and political statements only; koi public work nahi.
+// - ANI via Lokmat Times, 04 Jun 2026 (same event): sirf criticism/statements, work stage absent.
+// - New Indian Express, 22 Apr 2026 (Rs 1 lakh crore manifesto): pre-term election promise ("karenge" wali khabar), scope se bahar.
+// - TOI, Apr 2026 (manifesto + campaign + win-by-2271-votes): election campaign/result reporting, koi post-May-2026 work nahi.
+// - NIE, 08 Apr 2026 (constituency profile): pre-term campaign feature, works absent.
+// - Moneycontrol, 29 Jun 2026 (Vijay vs DMK leaders / DVAC raids on EV Velu): context piece; Senthilbalaji par koi nayi karyavahi isme darj nahi.
+// - NIE, 26 Sep 2026 (stone hurled at MLA near Sulur): galat vyakti/kshetra — Sulur ke TVK MLA N M Sukumar, Senthilbalaji se koi sambandh nahi.
+// - The Hindu, 29 Dec 2024 (Rs 30.93 crore Coimbatore projects) and DT Next, 29 Dec 2024 (Rs 200 cr road fund): pre-term mantri-kaal, scope se bahar.
+// - TOI, Nov 2024 (CM Stalin visit prep): pre-term; nirikshan/taiyaari, work nahi.
+// - Verdictum/Lawtrend/Lawstreet (SC bail-condition relaxation + 2024 bail plea): purane ED cash-for-jobs mamle ki Dec 2025/pre-2026 khabrein; post-May-2026 nayi sthiti nahi.
+// - Organiser, 09 Jul 2026 (AB in bribery case): preferred English-source list se bahar; Mathrubhumi/Live Law se cover ho gaya.
+// - Positive works side: May 2026 ke baad The Hindu, Indian Express, TOI, DT Next, The News Minute, South First, Deccan Herald, NDTV me Coimbatore (South) ke liye Senthilbalaji ka koi satyapit sadak/paani/school/aspatal ya anya kshetra-kaam (poora/lokarpan/swikriti/shilanyas) nahi mila; sabha ~5 mahine purani hai isliye shoonya positive satyapan swabhavik hai.
+
+// QA: 2 negative entries kept, 0 positive — sabhi khud khole gaye established sources se verified (NIE 05 Jul 2026 FIR/LOC stage, Mathrubhumi English 08 Jul 2026 AB + defence, Live Law 05 Aug 2026 bail-condition relaxation, The Hindu 31 Jul 2026 SC stay). Purane ED cash-for-jobs mamle me post-May-2026 koi nayi adalaati sthiti nahi mili (last verified change Dec 2025 bail-condition relaxation = pre-term), isliye use negative nahi banaya. Titles Roman Hinglish full sentences, dates YYYY-MM-DD, currency "Rs", notes single-paragraph bina escape ke. works_tamilnadu.ts me append/push/build nahi kiya.
+
+tamilNaduWorks['k-s-sri-giri-prasath'] = [];
+
+// REJECT-LOG (k-s-sri-giri-prasath, Singanallur — scope: May 2026+)
+// 1. The Hindu 2026-06-21 "Coimbatore residents asked to adopt responsible waste disposal practices" — MLA ne Siruthuli/CCMC ke "Watch Your Waste" community cleaning event me sirf speech di (Singanallur Lake restore karne ki baat), koi dastavezi bhoomika/sanctioned kaam nahi; sirf maujoodgi+speech = REJECT.
+// 2. Deccan Chronicle ~Sep 2026 "43 EVs Deployed to Collect Waste From Houses in Coimbatore City" — CSR-funded CCMC initiative ka inauguration minister V. Sampath Kumar ne kiya, MLA sirf attendees me the; shrey ka dastavezi kadam nahi = REJECT.
+// 3. The Hindu 2026-07-25 "Highways Department plans to begin work on Singanallur flyover in Coimbatore city in a month" — flyover Highways Department ka project; MLAs ka naam sirf MP/Collector wali meeting me, bina dastavezi role = REJECT ("karenge"-type pre-start khabar bhi).
+// 4. Covai Mail / Medium Sep 2026 "Kia Sorento launched in Coimbatore" — private car launch event me maujoodgi; sarkari pariyojna/bhoomika nahi = REJECT.
+// 5. The Hindu ~Aug 2026 "Madras HC halts road work, development activities at Singanallur lake" — adalat-stay wali khabar; MLA se koi sambandh ya unke kadam ka zikr nahi = REJECT.
+// 6. The Hindu 2026-06-19 "Concerns raised over functioning of STP at Singanallur Lake" — councillors ki shikayat wali khabar; MLA ka koi dastavezi kadam nahi = REJECT.
+// 7. Negative-check: established English media me MLA ke khilaf koi FIR/case/adalaati ya adhikarik janch-karyavahi ki reporting nahi mili; MyNeta affidavit me 0 criminal cases; election-yachika ki bhi koi established report nahi — negative entry ke liye kuch nahi.
+// QA: Sabha sirf ~5 mahine purani; MLA (first-time, TVK, vakil) ki English media me koi satyapit kshetra-kaam reporting nahi mili; khaali profile imaandari se sahi hai; reject-log me 6 news items + 1 negative-check darj hai; koi aggregator/YouTube-only/FB source use nahi kiya.
+
+tamilNaduWorks['vignesh-k'] = [];
+
+// REJECT-LOG (vignesh-k, Kinathukadavu — scope: May 2026+)
+//
+// 1. ANI 2 Aug 2026 (lokmattimes/newkerala/latestly/desitalkchicago/thenewsmill mirrors): Minister K Vignesh ne Sokkanur TVK office inauguration ke baad kaha ki kai Coimbatore projects aane wale State Budget me shaamil ho sakte hain + illegal quarrying par sakht karyavahi — pre-announcement/promise hai; koi poori/swikrit/shilanyas pariyojna, GO, ya MLA ka dastavezi concrete kadam nahi. REJECT (ghoshna, "aayenge" wali khabar).
+//
+// 2. coimbatore.nic.in press release 12.09.2026: Madukkarai Municipality Office me Minister K. Vignesh ki adhyakshata me Kinathukadavu Assembly Constituency ke "ongoing development works" par review meeting — sirf samiksha baithak, kisi kaam ka lokarpan/swikriti/shilanyas nahi. REJECT (sirf nirikshan/samiksha).
+//
+// 3. TOI Coimbatore 5 Sep 2026: Vignesh aur V Sampath Kumar ne Pollachi Government Headquarters Hospital me Rs 55 lakh ka naya siddha outpatient building inaugurate kiya — Pollachi town Pollachi Assembly constituency me hai, Kinathukadavu seat se bahar; report me MLA-kinathukadavu ki bhoomika dastavezi nahi, mantri ke roop me maujoodgi. REJECT (kshetra se bahar + sirf maujoodgi).
+//
+// 4. The Hindu 18 Jul 2026: "Coimbatore Next meets Ministers" — Vignesh aur Sampath Kumar ne industry/civic groups ki presentations suni aur development demands note ki (airport expansion, railway station redevelopment, Western bypass, flyovers) — sirf maang/sujhaav, koi kaam nahi. REJECT (maang akeli).
+//
+// 5. ANI drug-free Tamil Nadu marathon (Coimbatore, ~10,000 participants): event hai, infrastructure works nahi. REJECT (karyakram/event, kaam nahi).
+//
+// 6. DT Next 23 Sep 2026 / CNBC TV18 31 Aug 2026 / TOI 5 Sep 2026 / New Indian Express 6 Sep 2026: Tasmac bottle buy-back, Rs 10 cess, FL-2 licensing reforms, 33 Tasmac employees suspension — sab state-level Prohibition & Excise mantri ke vibhagiya faisle/karyavahi, Kinathukadavu seat ka kaam nahi; unke khilaf koi FIR/case/adalaati karyavahi nahi. REJECT (state-level minister duties; negative criteria poori nahi).
+//
+// 7. New Indian Express 26 Jan 2026: Kinathukadavu taluk office building ka kaam ruka — article May 2026 se pehle ka, Vignesh ka koi ullekh nahi. REJECT (pre-term).
+//
+// 8. Election-season reporting (TOI 4 May 2026 counting, The Hindu "first-time MLAs" 4 May 2026, The Hindu pre-poll issues piece 9 Apr 2026): chunav khabar/issue-report, sabha shuru hone se pehle; MLA ke term ke kaam nahi. REJECT (pre-term/campaign).
+//
+// 9. Affidavit-declared 2 cases (Indian Express election page list) — pre-chunav affidavit entries, post-term credible reporting me unpar koi FIR/case/adalaati ya adhikarik janch-karyavahi ki sthiti nahi mili. REJECT (election petition/affidavit-list alone negative nahi).
+//
+// QA: Profile khaali hai — yahi sahi hai. Sabha sirf ~5.5 mahine purani hai, Vignesh K (TVK, Kinathukadavu, first-time MLA) 21 May 2026 se Prohibition and Excise mantri hain aur unki sabhi English-media appearances vibhagiya/state-level kaam ki hain (Tasmac reforms, cess, anti-drug campaigns). Kinathukadavu seat me May 2026 ke baad koi lokarpan/swikriti/shilanyas/poorna kaam satyapit reporting me nahi mila. 9 reject candidates above ke karan darj hain. Sabha badhne par dobara check karna chahiye.
+
+tamilNaduWorks['k-nithyanandhan'] = [];
+
+// REJECT-LOG (k-nithyanandhan, Pollachi — scope: May 2026+)
+// R1. YouTube video "INAUGURATION OF COMBINED COURD BUILDING POLLACHI | 11.07.2026" — REJECT: YouTube-only (sources policy); court buildings are inaugurated by judges/ministers, MLA ka dastavezi concrete kadam sabit nahi.
+// R2. YouTube short "Pollachi MLA talks about SKY in TN Assembly Aug,2026" — REJECT: YouTube-only; Assembly-floor speech hai, kshetra-kaam nahi.
+// R3. The Hindu (07 Apr 2026) "Unkept promises to the fore again in Pollachi constituency" — REJECT: pre-term (May 2026 se pehle) election feature; isme Pollachi V. Jayaraman (purane AIADMK MLA) ke daur ki baat hai.
+// R4. The Hindu (07 Oct 2026) "New crossing station planned at Kovilpalayam on Pollachi–Kinathukadavu section" — REJECT: Southern Railway ka apna sanctioned work (Rs 35.32 crore); MLA ka koi dastavezi kadam nahi, sirf kshetra se guzarne wali pariyojna.
+// R5. TOI "Modi inaugurates revamped Pollachi railway junction" (Feb 2026 period) — REJECT: pre-term + PM ka karyakram; Pollachi V Jayaraman (purane MLA) maujood the, Nithyanandhan nahi.
+// R6. The Hindu election-profile/affidavit page (Apr 2026) — REJECT: pre-term, sirf halafnama vivran.
+// R7. Moneycontrol/Business Today/ABP Live/oneindia Pollachi result pages — REJECT: chunav-parinaam coverage, kshetra-kaam nahi.
+// R8. TN budget live-blogs (livechennai) me El Nino/SDRF paani-aapurti tayari (Aug 2026) — REJECT: state-package ki aam ghoshna; MLA ka dastavezi concrete kadam nahi.
+// R9. News search me MLA-ke-naam se koi MLACDS/sanction/work-order wali established-media story (The Hindu, Indian Express, TOI, DT Next, The News Minute, South First, Deccan Herald, NDTV) May–Oct 2026 window me mili hi nahi.
+
+// QA: 0 kept entries, 9 rejects logged. Searched The Hindu/Indian Express/TOI/DT Next/news verticals + tn.gov.in press references; sabha ~5 mahine purani hai aur Nithyanandhan vipakshi DMK MLA hain (sarkari/mantri bhoomika nahi) — khaali profile imaandar aur sahi hai.
+
+tamilNaduWorks['kutty-alias-sudhakar-a'] = [];
+
+// REJECT-LOG (kutty-alias-sudhakar-a, Valparai — scope: May 2026+)
+// 1. DT Next, 29 Aug 2026 ("Valparai MLA Kutty credits win to poor network") — MLA ki Assembly grant-debate wali tipanni: healthcare behtar karna, cell-phone towers, Valparai ko tourist destination ghoshit karna — sirf maang, koi dastavezi swikriti/kaam nahi. REJECT (sirf maang).
+// 2. The Hindu, 8 Sep 2026 ("DMK MLAs evicted from T.N. Assembly after sit-in protest") — Assembly me Sarkaria Commission/MISA tippani par dharna, MLA evict; kshetra-kaam nahi. REJECT (virodh-rajniti, constituency work nahi).
+// 3. The Commune Mag, ~Sep 2026 ("TVK Candidate Takes Valparai DMK MLA's SC Eligibility To Court") — election petition; chunav-yachika akeli negative nahi, source established/credible nahi, FIR/case/adalati karyavahi ki sthiti dastavezi nahi. REJECT (negative ke mayar par poora nahi).
+// 4. TOI, ~Sep 2026 ("CPM urges CM Vijay to revise wages of Valparai tea estate workers") — CPM Valparai unit ki maang; MLA ka koi dastavezi kadam nahi. REJECT (maang; MLA shamil nahi).
+// 5. TOI, May 2026 ("Deploy enough doctors, nurses in Valparai govt hospital: CPM") — CPM ki maang, MLA ka ullekh/kadam nahi; term ke shuruaat par. REJECT (maang; MLA shamil nahi).
+// 6. TOI / Indian Express / Business Today election coverage (May 2026) — DMK ne 30 saal baad Valparai jeeta, jeet ke aankaare; kaam nahi. REJECT (chunav coverage).
+// 7. DNA India ("In tea country, woes spill over") — purana background piece (2011 chunav context), pre-term, koi post-May-2026 kaam nahi. REJECT (pre-term).
+// QA: Pehchan pakki — Kutty (alias) A. Sudhakar, DMK, Valparai (SC), 54,671 vote se jeet (ECI/IE/TOI sabhi par ek hi vyakti; "Kutti" sirf The Hindu ki spelling variant hai). English press me May 2026 ke baad ke kisi bhi kshetra-kaam (lokarpan/shilanyas/swikriti-MLACDS) ki khabar NAHI mili; Assembly me sirf maangein uthayi. DMK vipaksh me hai isliye sarkari kadam ki sambhavna kam — 5 mahine purani sabha me khaali profile imaandaar hai. Profile KHAALI rakhi gayi hai. Koi negative entry nahi (election petition ko negative nahi mana). Fragment me sirf reject-log + QA hai; works_tamilnadu.ts me append nahi kiya gaya.
+
+// COORDINATOR QA NOTE (Coimbatore district — 15 Oct 2026):
+// 10/10 MLA researched (10 parallel workers, sab completed). Sabhi 10 fragments khud padhe. Schema exact, har slug file me
+// exactly once (append se pehle grep-verified 0 matches — koi overwrite nahi), marker exactly 1x. Worker fragments me kept entries
+// Devanagari me likhi gayi thin — coordinator ne unhe is batch ke Roman Hinglish niyam me convert kiya (titles/notes full Roman,
+// currency "Rs"). Kept entries: 4 — nm-sukumar (Paani, shilanyas-bhoomi pujan; The Hindu post-event reporting, virodh + pathrav +
+// MLA ka jawab stage-sach ke saath; coordinator ne article khud khola), kanimozhi-santhosh (Paani, bhoomi pujan + kaam-shuru;
+// Afternoon News chhota local paper — disclosure ke saath rakha, GO/rashi nahi, coordinator ne article khud khola),
+// v-senthilbalaji 2 NEGATIVE (MLA-poaching case — Live Law khud verify; DVAC TASMAC FIR — The Hindu khud verify; donon me aarop +
+// sthiti + vakil ka jawab darj, charge-framing nahi, koi nishkarsh nahi). Negatives ka bar: Velumani ke DVAC purane mamle
+// (ED-pil Apr 2026 me Madras HC ne dismiss kiya — pre-term) aur Senthilbalaji ke purane ED cash-for-jobs case me May 2026 ke baad
+// koi nayi adalaati sthiti nahi — donon negative NAHI bane. Ministers: v-sampathkumar (Backward Classes Welfare, district in-charge)
+// aur vignesh-k (Prohibition & Excise) ke sabhi vibhagiya/rajya-star ke kaam sakhti se reject — sirf seat-level hi liya (mila nahi).
+// Hygiene: 0 Tamil/Devanagari, 0 Rs-symbol, 0 literal-\n; field order exact; period '2026-2031' kept entries me.
+// 7 profiles imaandari se KHAALI (Sunilanand, V. Sampathkumar, Velumani, Giri Prasath, Vignesh K, Nithyanandhan, Kutty Alias Sudhakar).
+// Kul 10/10 MLA researched. Push/deploy NAHI kiya — parent sambhalega.
