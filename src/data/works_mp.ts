@@ -3365,3 +3365,75 @@ mpWorks['suresh-raje'] = [
     period: '2023-2028',
   },
 ];
+// ---- Harda district batch (researched 2026-10-14) ----
+// Coordinator: Harda jila, 2 MLA (donon INC, karyakaal Dec 2023+)
+// Sare sources khud kholkar padhe gaye hain. Sare titles/notes Roman Hinglish.
+
+mpWorks['abhijeet-shah-ankit-baba'] = [
+  {
+    title: 'Gram Basigarh (Khirkia) me Rs 10.22 lakh ke anganwadi bhavan ka bhoomi pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Makdai Express24, 12 Dec 2023',
+    sourceUrl: 'https://makdaiexpress24.com/timarni-%e0%a4%9f%e0%a4%bf%e0%a4%ae%e0%a4%b0%e0%a4%a8%e0%a5%80-%e0%a4%b8%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a5%80-%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%85%e0%a4%ad/',
+    date: '2023-12-12',
+    note: 'Chunav jeetne ke baad apne karyakaal ka pehla bhoomi pujan — Khirkia vikas khand ke gram Basigarh me Rs 10.22 lakh ki lagat se banne wale anganwadi bhavan ka bhoomi pujan swayam vidhayak Abhijeet Shah ne kiya; janpad adhyaksha Ranushri Dashrath Patel, janpad sadasya Hari Shankar Kajle sahit sthaniya neta maujood rahe. Srot chhota sthaniya portal hai (Makdai Express24, Harda) — ye disclosure note me rakha ja raha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Timarni me 19 sadkon ki swikriti ki ghoshna (press-conference me dawa)',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'The Tribal Post, 20 Aug 2025',
+    sourceUrl: 'https://www.thetribalpost.com/2025/08/19.html',
+    date: '2025-08-20',
+    note: 'Ye MLA ka apna dawa hai jo press-conference me report hua — isliye badge dawa hai, news nahi. Vidhayak ne kaha ki 23 sadkon ki maang me se 19 sadkon ko sarkar ne swikrit kiya, aur ye unke prayason ka nateeja hai; poorv vidhayak Sanjay Shah ke shrey-lene ke dawe ko unhone nakara. Khabar me koi sanction order/GO number ya vibhagiya data nahi hai — bina pakke saboot ke swikriti nahi maani ja sakti, isliye stage sirf ghoshna likhi hai. Srot chhota sthaniya portal hai (The Tribal Post) — disclosure note me rakha gaya hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dr-ram-kishore-dogne'] = [
+  {
+    title: 'Gram Gahal me Rs 5 lakh ki 120-meter CC sadak ka bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Makdai Express24, 3 Jan 2025',
+    sourceUrl: 'https://makdaiexpress24.com/cc-road-will-be-built-at-a-cost-of-rs-5-lakh-mla-mr-dogne-performed-the-bhoomi-pujan-of-120-meter-cc-road-construction-work/',
+    date: '2025-01-03',
+    note: 'Gram panchayat Gahal me Chaitram Khodre ke ghar se Gurjar Bhavan tak banne wali 120-meter CC sadak ka bhoomi pujan swayam vidhayak Dr. Ram Kishore Dogne ne kiya. Kaam vidhayak-nidhi ki Rs 5 lakh rashi se hoga — ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Sarpanch Rukmani Baghel aur grameen maujood rahe. Srot chhota sthaniya portal hai (Makdai Express24, Harda) — disclosure note me rakha gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Handiya ke Ganesh Mandal Chowk par Rs 3 lakh ke chhat-chabutra ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribal Post, 25 Aug 2025',
+    sourceUrl: 'https://www.thetribalpost.com/2025/08/blog-post_61.html',
+    date: '2025-08-25',
+    note: 'Vitt varsh 2024-25 me vidhayak-nidhi se swikrit Rs 3 lakh ki lagat se bana chhat-chabutra (Ganesh Mandal Chowk, gram Handiya) bankar taiyaar hua; swayam vidhayak ne uska lokarpan kiya. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Nirman poora hua hai isliye stage lokarpan (swikriti nahi) likhi hai. Srot chhota sthaniya portal hai (The Tribal Post) — disclosure note me rakha gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Handiya ke Ward 01 me Rs 2.5 lakh ke sarvajanik chhat-chabutra ka bhoomi pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribal Post, 25 Aug 2025',
+    sourceUrl: 'https://www.thetribalpost.com/2025/08/blog-post_61.html',
+    date: '2025-08-25',
+    note: 'Sanskritik karyakramon ke aayojan hetu gram Handiya ke Ward 01 me vidhayak-nidhi ki Rs 2.5 lakh rashi se swikrit sarvajanik chhat-chabutra nirman ka bhoomi pujan swayam vidhayak Dr. Ram Kishore Dogne ne grameenon ke saath milkar kiya. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Srot chhota sthaniya portal hai (The Tribal Post) — disclosure note me rakha gaya hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT LOG (Harda batch) ----
+// ABHIJEET SHAH (Timarni) — rejects:
+// 1. Ganesh pratima nishulk vitran (Makdai Express24, Sep 2025) — dharmik muft vitran apne kharche par; verifiable public work nahi, reject.
+// 2. Rs 50,000 apni salary se Mannasa gaon ki sadak/puliya ke liye (pradeshgaurav.com, Aug 2025) — vyaktigat nakad sahayata, documented public work nahi; saath me "200 meter sadak vidhayak-nidhi se swikrit" sirf press ghoshna thi, sanction order/work-order ka saboot nahi — Chhindwara niyam se reject.
+// 3. "Vidhan Sabha me mudda uthayenge, PWD se sadak banwayenge" — bhavishya ka vaada, reject.
+// RAM KISHORE DOGNE (Harda) — rejects:
+// 1. Vidhan Sabha me dhoti pehenkar virodh (DNA, 2015-era) — pichle karyakaal ka + virodh, kaam nahi, reject.
+// 2. PM Kisan karyakram me maujoodgi (Pawan City, Oct 2024) — PM yojana ke karyakram me sirf maujoodgi, reject.
+// 3. Collector ko protocol-violation shikayat patra (Makdai Express24 / Anokha Teer, Mar 2024) — shikayat patra/gyapan, kaam nahi; jin pattharon ki baat hai wo PM ke virtual program ke sarkari karyaon ke the, reject.
+// 4. Pokharni-Harda sadak ko lekar 35 km padyatra + gyapan (Sep 2026, MP Breaking News / Anokha Teer) — dharna/yatra/maang, kaam nahi; sadak ke dikhai dene wale bhoomi pujan ka shrey BJP ke poorv mantri Kamal Patel ko (article me credit-war) — MLA ke "Rs 17 crore manzoor karaya" counter-dave ka koi sanction saboot nahi, reject.
+// 5. Gandhi kutiya (ETV Bharat, Oct 2019) — 2013-18 wale pichle karyakaal ka kaam, current tenure se bahar, reject.
+// Koi negative entry nahi mili. Donon profiles me entries hain — koi khaali profile nahi rahi.
