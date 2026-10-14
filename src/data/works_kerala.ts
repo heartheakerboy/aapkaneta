@@ -2384,3 +2384,78 @@ keralaWorks['t-m-sasi'] = [];
 // 4. Koi qualifying negative reporting established media me nahi mili (halafname ke 3 cases chunav-se-pehle ke hain). 16 round search (upar wale outlets + local queries: inauguration/foundation stone/road/school/water — May-Oct 2026) me sirf chunav-result, candidate lists aur district-panchayat-president background mila — koi dastavezi kaam nahi. Profile imaandari se khaali rahi.
 
 // COORDINATOR QA NOTE (Palakkad district batch, 2026-10-14): 6/6 workers completed, sabhi 6 fragments khud padhe — assignment format exact, har slug exactly once (append se pehle 0 matches the — koi overwrite nahi), marker 1x; kul titles 21 -> 25 (+4). Kept: v-t-balram (Thrithala) — KSRTC depot ghoshna (stage ghoshna, badge dawa; Madhyamam 2 Oct 2026 post-event; disclosure: koi GO nahi, unki niyamasabha dhyanakarshan-prastav bhoomika darj); thulasi-teacher (Kongad) — Karakurissi GVHSS Plus Two batch + smart classrooms lokarpan 31 Aug 2026 (The Hindu; Karakurissi Kongad AC me delimitation se satyapit; full credit-disclosure: batch swikriti rajya sarkar ki, Rs 5cr building Samsudheen ne online udghatan ki — entry ka hissa nahi, MP ka bus-vaada "karenge" reject); ramesh-pisharody (Palakkad) — 2 entries: (1) KSRTC city bus service shubharambh/jhandi (lokarpan, Onmanorama 26 Jul 2026; dastavezi vyaktigat pehal + follow-up, swikriti Minister CP John ki — disclosure; Priyadarshini scheme/pilot disclosed); (2) 1 NEGATIVE: AMMA ad hoc committee mamle me Ernakulam Munsiff Court — unka naam aaropi-suchi me, court ne committee ke kaamkari par rok lagai, unka affidavit-jawab (aaropi-suchi se hatane ki maang, rajneetik prerana ka daava, agle din istifa, prati-aarop) darj; Onmanorama + IANS corroboration; "koi nishkarsh na nikala jaye" disclaimer. 9 profiles imaandari se KHAALI: muhammed-muhassin (SHRADHA/Safe-Hands pre-term + minister udghatan reject), p-mammikutty (Mammootty wheelchair naam-trap pakda, YouTube-only road reject), adv-k-premkumar (Prem Kumar actor KSFDC naam-trap pakda), adv-n-samsudheen (mantri-niyam sakht — sab rajya-stariya ya kshetra-bahar), a-prabhakaran (purane mantri-era reject, Malampuzha garden sirf virodh-aarop), sumod (Vadakkenchery fire-station sirf prarambhik kadam), adv-sumesh-achuthan (Life Mission sirf maang, Attappady kshetra-bahar), k-preman (DDC progress-report sirf maang), t-m-sasi (P.K. Sasi naam-trap pakda, panchayat-president pre-term). QA fix: ramesh-pisharody ke negative entry me worker ki prose `stage` line hata di (negative entries me stage field nahi hota — Kappen/Riyas precedent). Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; entry objects me 0 comments; period '2026-2031' sabhi kept entries me; field order exact; reject-logs Roman Hinglish.
+
+// ---- Pathanamthitta district batch (researched 2026-10-14) ----
+
+keralaWorks['adv-varghese-mammen'] = [];
+
+
+// REJECT-LOG (adv-varghese-mammen): profile KHAALI raha — qualifying entry koi nahi mili. 8 search angles (inauguration/foundation stone/sanction/MLA fund/road/school/hospital/water supply — May-Oct 2026, plus negative angle).
+// 1. The Hindu, 28 Sep 2026 (Catholicate/Mar Thoma colleges platinum jubilee): MLA "special guest" ke roop me aane ki pre-event announcement — sirf maujoodgi, reject.
+// 2. Church Yuvajanasakhyam anti-drug bike rally (28 June 2026): church program ka udghatan, pre-event notice — MLA ka kshetra-kaam nahi, reject.
+// 3. LSG Kerala tender list (NIT 01-2026 MLA final): entries Chittayam Gopakumar (Adoor) aur K U JenishKumar (Konni) ke naam — galat vyakti/kshetra, reject.
+// 4. BCMCH Drishtidana charity inauguration: purv MLA Mathew T. Thomas ne kiya — galat vyakti, reject.
+// 5. Tendershark LAC-ADS 2024-25 Thiruvalla: purv MLA Mathew T. Thomas ke naam — karyakaal se pehle, reject.
+// 6. The Hindu 2012 archive (Thiruvalla food fest): us samay wo MLA nahi the — ~14 saal pre-term, reject.
+// 7. Sab May 2026 election-result coverage — kaam-khabar nahi, reject.
+// 8. Negative angle: "Rahul Mamkootathil" bail case galat vyakti (Palakkad ke expelled MLA); Mammen par koi May 2026+ ki FIR/case reporting nahi, isliye negative bhi nahi.
+
+keralaWorks['adv-pazhakulam-madhu'] = [];
+
+
+// REJECT-LOG (adv-pazhakulam-madhu): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: Adv. Pazhakulam Madhu, INC, Ranni AC (Pathanamthitta).
+// 1. The Hindu, 27 Sep 2026 (Sabarimala season works): DDC meeting me Ranni bridge alignment inspection + Vadasserikkara traffic police station ki maang — sirf maang/prastav, reject.
+// 2. Onmanorama, 4 Aug 2026 (Ranni water crisis): Pamba gandla-paani par MLA ka sirf bayan — sirf statement, reject.
+// 3. Onmanorama, 21 Apr 2026 (Ranni water scheme failure): karyakaal se pehle + naam tak nahi — reject.
+// 4. Kerala Kaumudi English, ~Jul 2026 (e-Niyamasabha complaint to Speaker): political complaint, kshetra-kaam nahi — reject.
+// 5. The Hindu, 27 Sep 2026 (ESA row): sirf political bayan — reject.
+// 6. TOI, ~Jun 2026 (Sabarimala gold heist reinvestigation): sirf maang — reject.
+// 7. LSG tender (LAC-ADS-2023-24, Uthimoodu ST colony footpath): purane karyakaal ka tender — reject.
+// 8. PWD tenders Dec 2025-Jan 2026 (MLA-SDF/ADS bus sheds): purv MLA Pramod Narayan ke naam — pre-term, reject.
+// 9. YouTube (5 Oct 2026, Ebenezer HSS new block): YouTube-only source — reject.
+// 10. ThePrint/Deccan Chronicle/National Herald (Sep 2026, "Congress MLA invites predecessor"): Poonjar ke Sebastian M.J. ki khabar — galat vyakti/kshetra, reject.
+// 11. TOI/Onmanorama Nov 2025 (Nilakkal hospital foundation): purane karyakaal ka — reject.
+// 12. The Hindu Mar 2026 (parody song EC complaint): pre-term campaign controversy — reject.
+// 13. Menafn/India Education Diary Jan 2025 (Path Finder scheme): purv MLA Pramod Narayan ki yojna — pre-term, reject.
+// May 2026+ me koi FIR/case reporting nahi — negative bhi nahi bana.
+
+keralaWorks['abin-varkey-kodiyattu'] = [];
+
+
+// REJECT-LOG (abin-varkey-kodiyattu): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: Abin Varkey Kodiyattu, INC, Aranmula AC (Pathanamthitta), first-time MLA.
+// 1. The Hindu, 27 Sep 2026 ("As Sabarimala season nears, agencies told to speed up key works", khud khola): Sabarimala package ke purane sanctioned KRFB works par sirf dabaav/nirakshan; Aban Junction flyover chunav-se-pehle ki swikriti (purv MLA Veena George campaign me gina rahi thi) — koi nayi swikriti/lokarpan/shilanyas nahi, reject.
+// 2. The Hindu, ~24 May 2026 (Pathanamthitta General Hospital substandard construction): HMC meeting me inspection + accounts audit ke nirdesh — sirf nirikshan/janch, reject.
+// 3. NIE/The Hindu/TOI (5-7 Sep 2026, MVD fine controversy): flood-rescue vehicle par Rs 50,000 ka jurmana gaadi maalik par laga; Varkey ne volunteers ka saath diya — works entry nahi; unpar koi aarop/FIR nahi, negative bar fail — reject.
+// 4. New Kerala/Madhyamam/Kerala Kaumudi, 5 Aug 2026 (baadh rahat daure ke baad haadsa): rahat karya + daura, development work nahi — reject.
+// 5. The Hindu (Aranmula airport controversy): sirf raajnaitik bahas — reject.
+// 6. The Hindu, 30 Aug 2026 (Aranmula Uthrittathi boat race): sirf maujoodgi — reject.
+// 7. Sab election-result/analysis coverage: karyakaal se pehle, reject.
+// 8. YouTube shorts/blogspot/aggregators: srot-reject.
+
+keralaWorks['adv-k-u-jenish-kumar'] = [];
+
+
+// REJECT-LOG (adv-k-u-jenish-kumar): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: Adv K U Jenish Kumar, CPI(M), Konni AC (Pathanamthitta); 2019 bypoll + 2021 se MLA, 2026 me 60,380 votes se jeete (margin 1,838).
+// 1. Onmanorama, 25 Feb 2026 (Seethathodu Gavi shopping mall + theatre, "backed by MLA"): inauguration 28 Feb 2026 — karyakaal se ~2 mahine PEHLE, reject.
+// 2. IANS/PTI (May 2025, forest office entry + detained release + FIR): incident purane karyakaal ka (15th Assembly log); negative ka current-development nahi — pre-term, reject.
+// 3. The Hindu, 18 May 2026 (Sabarimala airport alternative-site bayan): sirf bayan, reject.
+// 4. Mathrubhumi English, 3 July 2026 (tribal chief missing): family se milna + Home Minister ko complaint + drone search ki maang — sirf maang/daura, reject.
+// 5. MLA ADS tenders 2025 (bus shelters, anganwadis): tender sites srot nahi + purane karyakaal — reject.
+// 6. Onmanorama, 24 Mar 2026 (CM election convention): chunav prachar, reject.
+// 7. Mathrubhumi Oct 2026 ("Janeesh minister vehicle attacked"): alag minister Janeesh — galat vyakti, reject.
+// May 2026+ me established English media me unke koi qualifying kaam ki post-event reporting NAHI.
+
+keralaWorks['advocate-c-v-santhakumar'] = [];
+
+
+// REJECT-LOG (advocate-c-v-santhakumar): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: Adv. C V Santhakumar, INC, Adoor (SC) AC (Pathanamthitta).
+// 1. The Hindu, 14 Oct 2026 ("Authorities move to rein in speed on accident-hit MC Road", khud khola): Adoor-Pandalam MC Road par MLA ne assembly me mudda uthaya; Minister C. P. John ne ashwasan diya + Road Safety Mission ghoshna — sirf maang/submission, minister ki ghoshna MLA ki bhoomika nahi — reject.
+// 2. The Hindu, 1 Oct 2026 (KRSA Rs 4.25 crore Sabarimala road-safety works, 16 projects): vibhagiya faisla, khabar me unki koi bhoomika nahi — reject.
+// 3. School directory listing (Deepti Special School, 5 June 2026): campus me paudha-ropan — ceremonial + weak source, reject.
+// 4. Sab May 2026 election-result coverage: karyakaal se pehle, reject.
+// 5. The Hindu, 8 Apr 2026 (leaflet controversy): campaign-kaalin aarop-pratyaarop — FIR/case sthiti nahi, pre-term — negative bhi reject.
+// 6. The Hindu Sep 2026 (Kalleli ward bypoll): political campaign, reject.
+// 7. Lokmattimes/Onmanorama (UDF convener Adoor Prakash dissent): Adoor Prakash MP alag vyakti — galat vyakti, reject.
+// 8. LSG tender (Anandappally Govt LP School): 2024-25 purani entries, purv MLA Chittayam Gopakumar ke naam — reject.
+
+// COORDINATOR QA NOTE (Pathanamthitta district batch, 2026-10-14): 5/5 workers completed, sabhi 5 fragments khud padhe — assignment format exact, har slug append se pehle 0 matches (koi overwrite nahi), marker 1x; kul titles 25 (koi nayi entry nahi — sabhi 5 profiles imaandari se KHAALI rahi). Reject-logs sabhi reject ke saath kyun: Mammen (8 angles — pre-event/ceremonial + poorv MLA + Rahul Mamkootathil galat-vyakti trap), Madhu (13 rejects — sirf maang/bayaan + purane tenders purv MLA ke + Poonjar bridge galat-vyakti trap), Abin (8 rejects — Sabarimala package pre-sanctioned, MVD fine gaadi maalik par tha), Jenish (7 rejects — Seethathodu mall pre-term Feb 2026, May 2025 FIR incident pre-term, minister Janeesh galat-vyakti trap), Santhakumar (8 rejects — MC Road sirf maang, KRSA vibhagiya, leaflet pre-term campaign). Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; entry objects me 0 comments; reject-logs Roman Hinglish.
