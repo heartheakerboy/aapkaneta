@@ -149,3 +149,129 @@ assamWorks['md-nurul-islam'] = [];
 assamWorks['diptimayee-choudhury'] = [];
 
 // REJECT-LOG (diptimayee-choudhury): profile KHAALI raha — May 2026 ke baad koi qualifying kshetra-kaam established media me report nahi hua. (1) Medical Dialogues/thenewsmill/Asianet/webindia123 (ANI), 6 Oct 2026: CM ne Bongaigaon Medical College & Hospital (Rs 611 crore) aur Integrated DC Office (Rs 50 crore) ka udghatan kiya — Choudhury sirf 'present at the inauguration ceremony' — CM ke karyakram me sirf maujoodgi, unka vyaktigat lokarpan nahi, reject; project ki neenv bhi 2022 (pre-term) ki hai. (2) Sentinel Assam 16 Sep 2026 (khud khola): National Hindi Diwas, Bongaigaon Hindi HS School — Choudhury mukhya atithi ke roop me boli; sansthapak ki moorti ka anaavaran unke dwara nahi tha — sanskritik samaroh me sirf bhashan, ceremonial-niyam par reject. (3) Sentinel Assam 29 Dec 2025 (khud khola): Bongaigaon District Unit Srimanta Sankardeva Sangha ke Bhajan Hall ka shilanyas — shilanyas daata Sundar Das ne rakha, Choudhury ne sirf Rs 6.50 lakh ka personal daan announce kiya; dharmik sangathan ka karyakram + pre-term (Dec 2025), dono karan se reject. (4) nenow.in ~Mar 2026: Champabati nadi par Chikibiki-Bidyapur permanent bridge ki 50 saal purani maang — 'had previously promised' — sirf chunav-vaada (karenge), pre-term bhi, reject. (5) Sentinel Assam Oct 2025 (last updated 359 din pehle): Zubeen Garg ki ek mahine ki punyatithi par tribute karyakram me upasthiti — pre-term + shraddhanjali samaroh, reject. (6) Sentinel Assam ~Nov 2025 (last updated 325 din pehle): Bhabani Prasad Choudhury Memorial Drama Festival ka udghatan Phani Bhusan Choudhury + Diptimoyee Choudhury ne kiya — gair-sarkari club ka sanskritik karyakram, ceremonial-niyam par reject. (7) Chunav coverage (ETV Bharat/Sentinel/TOI/Oneindia/Moneycontrol/Indian Express/news24online, May 2026): jeet ka report — kaam-khabar nahi, reject. (8) Ticket/party khabren (Sentinel 20 Mar 2026, freepressjournal, HT Nov 2024, firstindia, suryaa, latestly): AGP ki 26 ummidvaron ki suchi me Bongaigaon se naam + bypoll 2024 me pati Phani Bhusan Choudhury ki ticket par virodh-nepotism vivaad — sab chunav-rajneeti, vikas-kaam nahi, reject. (9) Assam flood salary-donation khabren (Eastern Mirror/Outlook/Lokmat Times, 28 Jul 2026): sabhi MLAs ka ek mahine ka vetan CM Relief Fund me — samuhik ghoshna, kshetra-vikas kaam nahi, reject. (10) grokipedia Bongaigaon constituency page: 'without established legislative records as of late 2024' + koi kaam daava nahi — srot ke yogya bhi nahi, reject. Note: 'Choudhury' naam ke do log confuse kar sakte hain — Wajed Ali Choudhury (Congress LoP, alag vyakti) aur Phani Bhusan Choudhury (pati, Barpeta ke MP; medical college article me unhe galti se 'Bongaigaon MLA' likha gaya hai) — teeno ka identity-verification seat/party se alag-alag kiya gaya; entry unhi sources ki jo Bongaigaon AC-18 ki vartaman AGP mahila MLA se judi hain. Qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+// ---- Cachar district batch (researched 2026-10-14) ----
+
+// Cachar district batch — AC order 114->120 (Barak Valley), researched 2026-10-14. 4 field workers (W1=kaushik-rai/rajdeep-goala, W2=kamalakhya-dey-purkayastha/kishor-nath, W3=dr-rajdeep-roy/aminul-haque-laskar, W4=amiya-kanti-das).
+
+assamWorks['kaushik-rai'] = [];
+
+// REJECT-LOG (kaushik-rai): profile KHAALI raha — May 2026 ke baad ka koi qualifying seat-kaam nahi mila. Mantri-era (5 Jun 2026 se dobara cabinet me: Food & Public Distribution, Housing & Urban Affairs, Cooperation) me unki coverage ya to seat-se-bahar (Silchar) ki hai ya rajya-vyaapi/vibhagiya faislon ki.
+// 1. KRC Times, page-date Feb-Mar 2026 (image timestamps se verified): Vijay Sankalp Sabha karyakramon me Lediyachhara/Thailu/Nutan Ramnagar/Jirighat/Binnakandi/Bowali Chengjur me Jagannath Community-cum-Skill Centres, nach ghar, Durga mandap, sadkein (Barthul, Jirighat-Joypur Assam Mala 3.0 Rs 59.80 crore, Liloyanpur-Monkush Rs 10.81 crore RIDF-XXXI), model schools ka udghatain/shilanyas — sab 'ahead of the 2026 Assembly elections' + page dates Feb-Mar 2026, PRE-TERM, reject.
+// 2. KRC Times, 14 Mar 2026 (page-date verified): Lakhipur Udyan (Rs 1.10 crore), Visarjan Ghat (~Rs 50 lakh), Phulertol Rabindra Bhatika (Rs 10 lakh) ka udghatain; Ariban Jagannath Mandap (Rs 30 lakh, Barak Valley Development Department) ka shilanyas — PRE-TERM, reject.
+// 3. News18 Assam, 23 Jan 2026: Lakhipur shahar me Netaji Subhash Chandra Bose ki poorna pratima ka anaavaran — PRE-TERM + ceremonial, reject.
+// 4. lakhipuronline.in, Feb 2026: Ningthemkhun me Kargil shaheed Irom Nandachand Singha ki moorti ka anaavaran — PRE-TERM + ceremonial, reject.
+// 5. KRC Times, ~Jan 2026 (287 din purani report): Lakhipur DSA playground infrastructure (Rs 1 crore, Barak Valley Development Department) ka shilanyas — PRE-TERM; companion DSA-project report ka post-May 2026 se juda hona pusht nahi, reject.
+// 6. KRC Times, ~Jan 2026: Jirighat Colony Durga Mandap (Rs 10 lakh, MLA Development Fund 2025-26) ka shilanyas — purani sabha ke fund se, PRE-TERM, reject.
+// 7. Way2Barak, 2 Sep 2026: Silchar Municipal Corporation me PFC, GPS vehicle tracking, QR waste collection aur Meherpur FSTP (Rs 2 crore) ka udghatain mantri ke roop me — sthan Silchar LAC (Dr. Rajdeep Roy ka kshetra), SEAT-SE-BAHAR + mantri-bhoomika, reject.
+// 8. The Sentinel, ~Jul 2026: Upper/North Assam ke baadh-prabhavit jilon me raahat samagri aur aavashyak vastuon ki aapoorti ki video-conference samiksha — rajya-vyaapi vibhagiya kaam, seat-kaam nahi, reject.
+// 9. KRC Times (recent crawl): Lakhipur Sub-Division me Assam Mala/CM Pakipath sadkon, SDC office, 100-bed jila aspatal, mini stadium, law college aadi par samiksha baithak; Earl HS + PM Shri Nehru HS schools ka nirikshan — SIRF SAMIKSHA/NIRIKSHAN, reject.
+// 10. Way2Barak, ~Sep 2026: Governor ki Nasha Mukt Bharat padyatra (Pailapool) me mantri ke roop me upasthiti — SIRF MAUJOODGI, reject.
+// 11. KRC Times, Oct 2026: Zubeen Garg jayanti par BJP ke raktdaan shivir me maujoodgi — party karyakram, SIRF MAUJOODGI, reject.
+// 12. Lokmat Times/ANI, 4 Oct 2026: 'Viksit Assam' prastavon ki samiksha baithak — rajya-vyaapi mantri-bhoomika, reject.
+// 13. Chunav parinaam coverage (TOI/IndiaTodayNE/BusinessToday/KRC Times/Barak Bulletin) — kaam-khabar nahi, reject.
+// Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['rajdeep-goala'] = [];
+
+// REJECT-LOG (rajdeep-goala): profile KHAALI raha — May 2026 ke baad ka koi qualifying kaam nahi mila. Pehchan note: yeh Rajdeep Goala (BJP, Udharbond AC-115; pehle Congress se Lakhipur ke MLA 2011/2016, Dec 2020 me BJP me aaye) hain — Silchar ke Dr. Rajdeep Roy se alag vyakti, sabhi sources me seat+pehchan verify ki gayi.
+// 1. Northeast Live TV, 10 Jun 2026: Itkhola Sarbodaya High School (Malugram) ka achanak nirikshan — 11 me se 1 shikshak upasthit mila; School Inspector ko karvai ke nirdesh — SIRF NIRIKSHAN + NIRDESH, koi lokarpan/swikriti/shilanyas nahi, reject.
+// 2. Barak Bulletin/niaimt.in, 30 Jun 2026: NIAIMT-Silchar (Jaffirbond) ka daura — SIRF DAURA, reject.
+// 3. Way2Barak, 2 Sep 2026: SMC civic-tech karyakram me bhashan/upasthiti — mantri ke karyakram me SIRF MAUJOODGI, reject.
+// 4. Assam Assembly Unstarred Q 146 (jawab 08/07/2026): Rongpur Development Block ke naye karyalaya bhavan ki maang — SIRF MAANG (Assembly question), reject.
+// 5. Assam Assembly Unstarred Q 155 (jawab 09/07/2026): Udharbond constituency par sawal — SIRF MAANG, reject.
+// 6. Assam Assembly Unstarred Q 198 (jawab 09/07/2026): Udharbond DIET ke infrastructure upgradation/Centre of Excellence prastav ki maang — SIRF MAANG; DIET bhavan ka Rs 328.69 lakh ka kendriya anumodan 2023-24 ka purana hai, reject.
+// 7. udayanews/IANS, 22 May 2026: EV apnaane ka bayan (vyaktigat EV me Assembly aana) — SIRF BAYAN, reject.
+// 8. neindiabroadcast.com, 30 May 2026: Barak Valley me Gauhati High Court bench ki maang ka samarthan — SIRF SAMARTHAN/BAYAN (chhota portal bhi), reject.
+// 9. KRC Times e-paper, 30 Jul 2026: Pangram (Udharbond) factory blast (27 Jul, 4 majdooron ki maut) — CM dwara Rs 5 lakh ex gratia; Goala ne sthal ka daura karke shok-santapt parivaron se mulaqat ki — SIRF DAURA/SAMVEDANA; ex gratia CM ka faisla, reject.
+// 10. Barak Bulletin, ~Jun 2026: Udharbond-Lathigram sadak sankat par sthaniya logon ki CM + MLA se appeal — MLA ki taraf se koi action REPORT NAHI HUA, reject.
+// 11. Chunav-prachar coverage (Manipur CM ki rally; TOI pre-poll 8 BJP netaon ka istifa) + parinaam coverage (TOI/IndiaTodayNE/BusinessToday/Barak Bulletin) — PRE-TERM/chunavi khabar, reject.
+// 12. Telegraph 2020/nenow Dec 2020-era: Congress se BJP me aane ki political khabar — purani party-switch coverage, koi FIR/case/janch nahi; negative-entry criteria poora nahi hota.
+// Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+// Cachar district batch W2 (researched 2026-10-14) — Kamalakhya Dey Purkayastha (BJP, Katigorah AC-116), Kishor Nath (BJP, Borkhola AC-117)
+
+assamWorks['kamalakhya-dey-purkayastha'] = [
+  {
+    title: 'Jalalpur Block Primary Health Centre me sarkari aspatal parisar ke andar kathit taur par chal rahe private chamber par karvai karke do chamber seal karvaye',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Barak Bulletin, 18 Jun 2026',
+    sourceUrl: 'https://barakbulletin.com/mla-cracks-down-on-alleged-private-practice-inside-government-hospital/',
+    date: '2026-06-18',
+    note: 'Barak Bulletin ki 18 Jun 2026 ki post-event reporting ke mutabiq Katigorah ke vidhayak Kamalakhya Dey Purkayastha ne Jalalpur Block Primary Health Centre (Cachar) ka achanak nirikshan kiya, jisme sarkari aavaas parisar me do pharmacist dwara kathit taur par private chamber chalaye jaane ka khulasa hua; vidhayak ke nirdesh par saath gaye Circle Officer ne dono chamber seal kar diye aur sarkari dawaon aur upkaranon ko jabt kiya gaya. Vidhayak ne mamle ki soochana CM Himanta Biswa Sarma aur Joint Director of Health Services ko dekar sakht karvai ki maang ki. Stage: poorn (seal + jabti on-spot). Disclosure: aarop "kathit" sthiti me hain — reporting ke samay swasthya vibhag ki aage ki karvai awaited thi; yeh kisi MLALAD/nidhi ya sanction se judi pariyojna nahi hai, balki vidhayak ki vigilance-pahal par prashasan ki tatkal karvai hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (kamalakhya-dey-purkayastha): profile me sirf 1 qualifying entry mili. Reject kiye gaye najdeeki ummeedwar: (1) Barak Bulletin, 1 Jun 2026 — "Siddheshwar Dham Municipal Board" banane ka prastav CM Himanta Biswa Sarma ko bheja gaya — sirf prastav, sarkar ka koi faisla nahi aaya, reject; (2) Barak Bulletin, 6 May 2026 — Katigorah Mandal BJP office me "No votes, no development" wala bayan — sirf political bayan, koi kaam nahi, reject; (3) Barak Bulletin, 18 May 2026 — Badarpur me avaidh bamboo embankment hatane ki anti-encroachment drive me MLA ne swayam hissa liya — poora article khol nahi paya (tag-page link mapping unreliable), snippet se entry banane ki ijazat nahi isliye verification pending rakha gaya, reject (parent live-browser se verify karke entry bana sakta hai); (4) Assam Tribune, ~May 2026 — Katigorah me Rs 17.62-crore dyke ke kamzor hone par MLA ne "Thursday ko daura karke assessment ke baad kadam uthane" ka aashwasan diya — sirf daura/aashwasan, koi poorn kaam nahi, reject; (5) Chunav-parinaam/polling-day coverage (TOI/IndiaTodayNE/Oneindia, Apr-May 2026) — kaam-khabar nahi, reject; (6) BJP joining/BJP-attire coverage (IndiaTodayNE Feb 2026, Barak Bulletin Mar 2026) — karyakaal se pehle, reject; (7) Electoral-roll duplication (Barak Bulletin Feb 2026) — karyakaal se pehle ki prakriya-baat, reject; (8) CM vigilance cell dwara chaay-bagaan khareed par jaanch (Nov 2023, IndiaTodayNE me ullekh) — karyakaal se pehle + koi FIR/case outcome established media me nahi, negative-entry criteria poora nahi, reject; (9) Congress-era Karimganj ke kaam (2022-2024 rallies, hunger strike, cheque distribution Sep 2024) — sab karyakaal se pehle, reject. Koi qualifying negative reporting established media me nahi mili.
+
+assamWorks['kishor-nath'] = [];
+
+// REJECT-LOG (kishor-nath): profile KHAALI raha — qualifying entry koi nahi mili. (1) jubodarpan.com, 19 Sep 2026 — KGBV Tapang Part-II me BBBP ke tahat 3-divasiya self-defence training camp ka samapan samaroh, Kishor Nath mukhya atithi — sirf bhashan/maujoodgi, karyakram Mahila evam Bal Vikas vibhag ka tha, reject; (2) baraktaranga.com, 12 Oct 2026 — Borkhola PHC me 'Seva Sankalp Abhiyan' ke tahat ASHA workers/supervisors ka samman samaroh — sirf samman samaroh, koi lokarpan/swikriti/shilanyas nahi, reject; (3) baraktaranga.com, 25 Sep 2026 — Rampur cha-bagaan me 'Namami Bharatam' Vande Mataram karyakram me mukhya atithi ke roop me upasthiti — sirf maujoodgi, reject; (4) way2barak.com/krctimes.com, ~Jul 2026 — Barak Valley development roadmap interaction (mantri Krishnendu Paul) me MLA ki maujoodgi — mantri ke karyakram me sirf maujoodgi, reject; (5) gyanhigyan.com, 16 May 2026 — Jatinga nadi par RCC BUG pul (shilanyas 1 Mar 2024, karyakaal se pehle) ke hisse ka dhahna — MLA ne sirf jaanch karne ka aashwasan diya, sirf bayan + pre-term project, reject; (6) nenow.in/IndiaTodayNE/Pratidin Time, 22-23 Apr 2026 — West Bengal (Hingalganj) me cash-bantne ke aarop par Nath ko hirasat me lene ki khabar — karyakaal se pehle (chunav parinaam se bhi pehle), Nath ne aaropon se inkaar kiya, jaanch jari, koi FIR/case confirm nahi, negative-entry criteria poora nahi, reject; (7) dnaindia.com/The Hindu, 2018 — Foreigners Tribunal doubtful-citizen notices — karyakaal se pehle, reject; (8) ETV Bharat Assamese, 22 Mar 2026 — ticket milne par swagat coverage — karyakaal se pehle, reject; (9) Chunav parinaam coverage (TOI/Indian Express/IndiaTodayNE/Business Today, May 2026) — kaam-khabar nahi, reject; (10) 2016-21 karyakaal ke kaam (Katakhal anti-erosion scheme Jan 2021, police barracks Nov 2020, model schools, police-station upgrade bayan) — sab karyakaal se pehle, reject. Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+// Dr. Rajdeep Roy (Silchar AC-118, BJP) + Aminul Haque Laskar (Sonai AC-119, INC).
+
+// Dr. Rajdeep Roy (BJP) — Silchar AC-118. Pehchan verified: former Silchar MP (23 May 2019 – 3 June 2024),
+// won Silchar assembly seat 4 May 2026 (1,10,758 votes, margin 53,997 over Abhijit Paul, INC); assumed office 4 May 2026.
+// Udharbond ke BJP MLA Rajdeep Goala alag vyakti hain (seedha naam-trap; entry sirf Silchar AC-118 wale Dr. Roy ki).
+
+assamWorks['dr-rajdeep-roy'] = [];
+
+// REJECT-LOG (dr-rajdeep-roy): profile KHAALI raha — May 2026 ke baad Dr. Roy ka koi vyaktigat
+// lokarpan/shilanyas/swikriti/poorn-kaam established media me report nahi hua (sabha sirf ~5.5 mahine purani).
+// (1) Assam Tribune, 9 Jun 2026: 'No more patchwork — Silchar MLA raises road woes with Assam CM' — MLA ne CM
+// Himanta Biswa Sarma se milkar Silchar ki sadkon/drainage par proposals diye, CM ne 'immediate repair works' ke
+// nirdesh diye. YAHI sabse najdeeki ummeedwar tha, lekin REJECT — sirf maang/prastav (MLA ne maang rakhi, CM ne
+// aam nirdesh diye; koi specific sanction/GO/work-order/inauguration reported nahi; prashasan ka concrete faisla
+// dastavezi nahi hua; pipeline ka maang+aashwasan reject precedent lagoo). (2) way2barak.com, ~Aug 2026: online
+// Census self-enumeration launch event me MLA ki citizens se appeal — sanskaranik/samayojan bhoomika, koi sarkari
+// pariyojna-lokarpan/swikriti nahi, reject. (3) TOI, ~Aug 2026: maiden Silchar Municipal Corporation chunav ke liye
+// BJP ke panels me Roy member-secretary (manifesto committee head Kanad Purkayastha) — party-chunavi kaam,
+// kshetra-vikas nahi, reject. (4) Assam Tribune, 30 Sep 2026: CM ne Barak Valley projects ka review kiya, Silchar
+// me NHIDCL+PWD ke Rs 15,000 crore se zyada ke ongoing sadak karyon ka jikr — state projects (flyover test-piling
+// poori, elevated corridor); MLA ki koi dastavezi vyaktigat bhoomika/swikriti article me nahi, sirf sarkari review,
+// reject. (5) way2barak.com Jun-Aug 2026 (3 articles): mantri Kaushik Rai ke PDS/urban-development/road-project
+// review meetings me Roy ki upasthiti (ek me video-conference se) — mantri-karyakram me sirf maujoodgi, reject.
+// (6) India Today NE, 27 May 2026: UCC Bill par Roy ka bayan ('historic day') — sansadiya tippani, kaam nahi,
+// reject. (7) Barak Bulletin, Mar 2026: Event Decorators Welfare Association ka boycott (Jeevan Jyoti hospital
+// opening se 2018 se pending dues ka daava) — chunav-se-pehle + vyaparik vivad; koi FIR/case/janch-sthiti nahi,
+// negative-entry criteria poora nahi, reject. (8) MP-era kaam — MPLADS/RUSA/foundation-stones (way2barak
+// 2019-2024 stories: one-stop centre, Radhamadhab College RUSA, NH-54 MPLAD work Dholai) — sansad-nidhi ka kaam
+// vidhayak-profile me nahi judta + sab pre-term, reject. (9) Chunav coverage (ETV Bharat/IE/TOI/Zee/Sentinel,
+// Mar-May 2026) — kaam-khabar nahi, reject. Koi qualifying negative reporting established media me nahi mili.
+// Profile imaandari se khaali rahi.
+
+// Aminul Haque Laskar (INC) — Sonai AC-119. Pehchan verified: won Sonai 4 May 2026 (89,957 votes, margin 27,170
+// over Karim Uddin Barbhuiya, AGP); ex-BJP (2011–2024), Assam Assembly Deputy Speaker 30 Jul 2019 – 2 May 2021;
+// joined INC 20 Mar 2024. Pehle 2016 me Sonai se BJP MLA rahe hain — us karyakaal ke kaam bhi scope se bahar hain.
+
+assamWorks['aminul-haque-laskar'] = [];
+
+// REJECT-LOG (aminul-haque-laskar): profile KHAALI raha — May 2026 ke baad Sonai seat ke koi vyaktigat
+// lokarpan/shilanyas/swikriti/poorn-kaam established media me report nahi hua (sabha sirf ~5.5 mahine purani).
+// (1) Barak Bulletin, 6 Sep 2026: Paragon Senior Secondary School (Badarpur) hostel me Class X chhatra Gulshan Ahmed
+// Laskar ki maut par MLA ne 'fair and impartial investigation' ki maang ki — sirf maang/aashwasan, koi poorn
+// kaam nahi, reject. (2) way2barak.com, ~Aug 2026: Census self-enumeration launch event me Sonai MLA ki citizens se
+// appeal — samarohatmak/sanskarik bhoomika, vikas-kaam nahi, reject. (3) Sentinel + Barak Bulletin + TOI, 30 May–Jun
+// 2026: Hailakandi DCC review meeting me party workers ka 'BJP's dalal' virodh, MLA ko suraksha ke saath nikalna pada,
+// APCC ne 4 Hailakandi DCC netaon ko suspend kiya — party-andaruni vivad, kshetra-vikas nahi; koi FIR/case MLA ke
+// khilaf nahi, negative-entry criteria poora nahi, reject. (4) Sentinel, ~May 2026 (Qurbani Eid piece): MLA ne Assembly
+// me Sonai me police dwara Muslims ko pareshani ka mudda uthaya — sirf Assembly bayan, reject. (5) ETV Bharat Assamese,
+// 3 May 2026: chunav-se-pehle exit-poll/interview — pre-term, reject. (6) MP-era/deputy-speaker-era + 2016-21 MLA-era
+// ke kaam (flood barrier Sonabarighat Rs 2 crore, Bir Tikendrajit auditorium, PWD road Sonabarighat-NH54 — way2barak/
+// nenow purane stories) — sab pre-term karyakaal ke kaam, reject. (7) Chunav coverage (TOI/IE/IndiaTodayNE/Oneindia,
+// May 2026) + pre-poll party-vivad (ticket par 9 mandal presidents ka istifa, Barak Bulletin/TOI Mar 2026) —
+// kaam-khabar nahi, reject. (8) Naam-trap se bache: Muslim Mirror 3 Jul 2026, Gauhati HC 'foreigner' judgment wala
+// 'Aminul' ek citizenship petitioner hai, MLA nahi — galat vyakti, reject; Sentinel ka purana '14 MLAs criminal
+// record' leaked-document piece (1055 din purana) — unauthenticated leak + pre-term + koi janch-sthiti nahi, reject.
+// Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+// Cachar district batch W4 — researched 2026-10-14
+// MLA: Amiya Kanti Das (BJP), Dholai AC-120 (SC). Term began 4 May 2026.
+
+assamWorks['amiya-kanti-das'] = [];
+
+// REJECT-LOG (amiya-kanti-das): profile KHAALI raha — qualifying entry koi nahi mili (sabha ~5.5 mahine purani; naye MLA ki khabar lagbhag poori tarah chunav-coverage aur party-gatividhiyon tak seemit). (1) KRC Times ~May 2026, 'BJP's Record Win in Dholai': jeet ke turant baad Bhuvan Hills daura + rural-area night outreach — sirf daura/aashwasan (road/school connectivity par bhashan), koi lokarpan/swikriti/shilanyas nahi, reject. (2) KRC Times pre-poll campaign piece 'Amiya Kanti Das Builds Momentum in Dholai' (Narsingpur PWD Ground Prishtha Pramukh Sammelan, Moniyarkhal tea estate Vijoy Sankalp Sabha, Rajnagar minority outreach) — chunav-prachar, reject. (3) KRC Times 'Assam CM Promises Major Infrastructure Push in Dholai' — CM Himanta Biswa Sarma ke Palonghat rally me 100-bedded hospital, Silchar-Hailakandi via Dholai NH proposal, Amraghat Sonai bridge, land patta ki ghoshnaein — CM ki chunav-prachar ghoshna ('karenge' khabar), MLA ki apni concrete bhoomika nahi, reject. (4) Pratidin Time, Apr 2026: CM ka Dhalai rally me Orunodoi expansion + Silchar-Dhalai-Hailakandi NH upgradation ka vaada — pre-term chunav-prachar, reject. (5) Northeast Update, ~Aug 2026: BJYM ka Rahul Gandhi ke khilaf Silchar protest (Khudiram Bose statue) me Amiya Kanti Das ki upasthiti — party-dharna me sirf maujoodgi, reject. (6) KRC Times, ~Oct 2026: Barak Valley Development Department ka prominent citizens ke saath roadmap sammelan me MLA ki maujoodgi — sirf upasthiti, reject. (7) India Today NE, 9 Sep 2026: Minister Krishnendu Paul ki Barak Valley road projects review meeting me Amiya Kanti Das 'present' — mantri ki samiksha-meeting me sirf maujoodgi, reject. (8) KRC Times, 'Foundation Stone Laid for Bam Dholai Namashudra Unnayan Parishad Office Building' (Rs 10 lakh Untied Fund) — article khud kholkar padha: Nov 2025 ka hai aur 'Dholai MLA Nihar Ranjan Das' ko credit deta hai — pre-term + galat vyakti, reject. (9) KRC Times, 'Dholai Set to Host Grand Inauguration of Co-District Office' (Aug 12 meeting) — article kholkar padha: 79th Independence Day (Aug 2025) ka pre-event planning article, 'Dholai MLA Nihar Ranjan Das' ke chairmanship me — pre-term + galat vyakti + pre-event schedule, reject. (10) Barak Bulletin, 16 Jun 2026: Kabuganj-Amraghat road par PM Shri CCJC Palonghat HS School ke saamne sarkari community hall/waiting shed me drain par foundation + transparency ki kami par sthaniya logon ki aapatti — article poora kholkar padha: MLA ka naam kahi zikr nahi, koi sanction/lokarpan attribution nahi, reject. (11) voteecal.in (unke official website): 29 Aug 2026 'Mann Ki Baat' booth-1 program — party-sangathan karyakram, vikas-kaam nahi, reject. (12) YouTube 'Foundation stone laid by Dhalai MLA for govt projects' (NE24) — Dhalai = Tripura ka jila (galat jagah) + YouTube-only source, reject. (13) YouTube 'Dholai Shocker | MLA Amiya Kanti Das hears public grievances | Borjalenga' (Bharat A1 News, ~Aug 2026) — YouTube-only + sirf shikayat sunna/daura, koi poorn kaam nahi, reject. (14) Chunav-result/nomination coverage (TOI/Indian Express/Oneindia/Sentinel/Rediff/Business Today/News18/ABP, Apr-May 2026) — kaam-khabar nahi, reject. (15) Pre-poll ticket-vivad coverage (Syllad, Assam Tribune, Barak Bulletin, NationPress, ETV Bharat 2024 bypoll, Mar 2026) — chunav se pehle + party rajniti; Nihar Ranjan Das ke 'rasgolla' bhrashtachar aarop Silchar MP Parimal Suklabaidya par the, Amiya Kanti Das par nahi — negative-entry criteria (FIR/case/janch-sthiti) poora nahi hota, reject. Koi qualifying negative reporting established media me nahi mili; affidavit me 0 criminal cases. Profile imaandari se khaali rahi.
+
+// COORDINATOR QA NOTE (cachar): marker 1x; 7 slugs, har slug exactly once, sabhi pehle khaali the (grep verified) — koi overwrite nahi; 1 entry (kamalakhya-dey-purkayastha PHC vigilance-crackdown — Barak Bulletin post-event reporting, on-spot seal+jabti, 'kathit' disclosure + follow-up awaited — accountability-action class), 6 profiles imaandari se khaali; identities verify — Rajdeep Goala (Udharbond) vs Dr. Rajdeep Roy (Silchar) sakhti se alag rakhe; Kaushik Rai ke mantri-role wale coverage/Seilchar-seat items seat-se-bahar reject; Nihar Ranjan Das (pre-term Dholai MLA) items galat-vyakti par reject; Badarpur embankment item snippet-only tha — entry nahi banayi, verification-pending lead reject-log me darj.
