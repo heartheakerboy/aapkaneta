@@ -4167,3 +4167,132 @@ tamilNaduWorks['k-sindu'] = [];
 // 10. Naam-traps: actresses/sports ki Sindhu sab alag vyakti. Profile imaandari se khaali.
 
 // ---- Coordinator QA note (Vellore, 2026-10-15): 5/5 MLA researched. thenral-kumar-e par 1 NEGATIVE rakhi (The Hindu 3 Oct 2026 — bina HMV licence TNSTC bus chalane par Transport Department ki vibhagiya janch ghoshit, parinaam lambit, jawab uplabdh nahi — disclose; Sabari Iyngaran drone-probe precedent ke anuroop). m-m-vinoth-kannan ki Vellore Cantonment station plaque-unveiling entry REJECT ki gayi (PM ne lokarpan kiya, patt-anavaran doosre neta ke karyakram ki ceremonial maujoodgi hai — mukundhan joint udghatan precedent lagu nahi). Baaki 4/4 profiles imaandari se khaali. Hygiene: titles/notes me 0 Devanagari/Tamil script, 0 Rs-symbol (currency "Rs"); entry objects me 0 comments; sab slugs append se pehle file me 0 matches (koi overwrite nahi). ----
+
+
+// ---- Viluppuram district batch (researched 2026-10-15) ----
+
+// ---- Viluppuram district batch: ganeshkumar-a (AC order) ----
+
+tamilNaduWorks['ganeshkumar-a'] = [];// ---- Viluppuram district batch: shanmugam-c-ve (AC order) ----
+
+tamilNaduWorks['shanmugam-c-ve'] = [];// ---- Viluppuram district batch: vanni-arasu (AC order) ----
+
+tamilNaduWorks['vanni-arasu'] = [];// ---- Viluppuram district batch: gowtham-d (AC order) ----
+
+tamilNaduWorks['gowtham-d'] = [];// ---- Viluppuram district batch: lakshmanan-r (AC order) ----
+
+tamilNaduWorks['lakshmanan-r'] = [];// ---- Viluppuram district batch: sivakumar-c (AC order) ----
+
+tamilNaduWorks['sivakumar-c'] = [];// ---- Viluppuram REJECT-LOG: ganeshkumar-a (Ganeshkumar A, PMK, Gingee) ----
+// (koi reject-log fragment me nahi mila)
+
+// ---- Viluppuram REJECT-LOG: shanmugam-c-ve (Shanmugam C Ve, AIADMK, Mailam) ----
+// (koi reject-log fragment me nahi mila)
+
+// ---- Viluppuram REJECT-LOG: vanni-arasu (Vanni Arasu, VCK, Tindivanam) ----
+// (koi reject-log fragment me nahi mila)
+
+// ---- Viluppuram REJECT-LOG: gowtham-d (Gowtham D, DMK, Vanur) ----
+// REJECT-LOG (Roman Hinglish; srot + tarikh + kyun reject)
+// -----------------------------------------------------------------------------
+// 1. The Times of India, "2,993 tenders cancelled: MLAs accuse TVK govt of
+//    stopping DMK's projects" (Sep 2026) — https://timesofindia.indiatimes.com/city/chennai/2993-tenders-cancelled-mlas-accuse-tvk-govt-of-stopping-dmks-projects/articleshow/133329978.cms
+//    REJECT: sirf Assembly-mein-maang/prastav. DMK MLA D Gautham ne Vidhan Sabha
+//    me TVK sarkar par 2,993 tenders cancel karne aur Oragadam-Cheyyar 4-lane,
+//    Anna Salai flyover, Port-Maduravoyal corridor jaise Chennai projects rokne
+//    ka aarop lagaya. Ye vidhayak ka byaan/maang hai, koi satyapit kaam nahi —
+//    aur jo projects ginaye wo unki apni seat (Vanur) ke bhi nahi hain
+//    (kshetra-bahar). Rule: "sirf maang/prastav" + "kshetra-bahar" = reject.
+// 2. Election-result coverage (TOI, Indian Express, News18, India Today,
+//    Business Today, ABP Live — sab 4-7 May 2026) — jeet ki khabar, kaam ki nahi.
+//    REJECT: pre-term/karyakaal-se-pehle; koi kaam/reporting nahi.
+// 3. The Hindu + News Today Net MLACDS allocation stories (12 Aug 2026) — ye
+//    sarkar ki saamoohik nidhi ghoshna hai (234 seats x Rs 3.54 crore), kisi
+//    vishesh MLA ke Vanur kaam ki reporting nahi. REJECT: generic policy, no
+//    MLA-attributable work (rule: "MLACDS ki ghoshna-type press khabar bina
+//    sanction/work-order ke REJECT").
+// 4. Daijiworld/IANS "Mini-TIDEL park Villupuram" (Feb 2024) — Thiruchitrambalam,
+//    Vanur Taluk me hai lekin CM Stalin ne 2024 me inaugurate kiya tha.
+//    REJECT: pre-term kaam (2 saal karyakaal se pehle), neta se sambandh nahi.
+// 5. The Hindu 2022 "Stalin inaugurates Samathuvapuram in Villupuram district"
+//    (Ozhunthiyapattu near Vanur) — 2022 ka purana karyakram. REJECT: pre-term.
+// 6. Alag "Gowtham" matches (Mekapati Goutham Reddy — Andhra; K.V. Gowtham —
+//    Karnataka Kolar; P Gowtham AIADMK IT-wing Erode; Gautham Sigamani MP —
+//    Ponmudy ke bete). REJECT: galat-vyakti (sabhi hamare MLA se alag).
+// 7. Negative check: Oneindia Tamil Nadu MLAs criminal-cases list me
+//    "Gowtham Dravidamani | Vanur | DMK | 0 case". ADR report bhi sirf assets
+//    dikhata hai. Established sroton me koi FIR/case/aarop nahi mila.
+//    NO negative entry (no established reporting = no entry).
+
+// -----------------------------------------------------------------------------
+// PEHCHAN VERIFY
+// -----------------------------------------------------------------------------
+// Naam: D. Gowtham (alias: Gowtham D / Goutham Dravidamani / Gautham Dravidamani)
+// Party: DMK | Seat: Vanur (SC) — AC No. 73, Viluppuram jila, Tamil Nadu
+// 2026 result: 68,873 votes (35.85%), jeet ka antar 7,034 votes
+//   — runner-up P. Suresh (TVK) 61,839; 3rd P. Murugan (AIADMK) 54,193
+//   (srot: The Times of India / Indian Express / News18, 4 May 2026)
+// Matdan 23 Apr 2026, parinaam 4 May 2026, shapath 10 May 2026
+// Background: born 1994, son of Dravidamani; B.E. (Civil), Anna University 2017;
+//   halafnama me Rs 5 crore assets (srot: Wikipedia D._Gowtham, ADR via myneta)
+// Criminal cases: 0 (srot: Oneindia TN MLAs criminal-cases list)
+
+// ---- Viluppuram REJECT-LOG: lakshmanan-r (Lakshmanan R, DMK, Villupuram) ----
+// REJECT-LOG (Roman Hinglish):
+//
+// R1. The Hindu, 28 Sep 2025 — "WRD begins restoration of Thalavanur anicut
+//     across Thenpennai River" (Rs 84 crore). MLA sirf shilanyas me maujood the
+//     (foundation stone District Collector ne rakhi). REJECT: pre-term
+//     (Sept 2025, May 2026 term se pehle) + sirf maujoodgi, MLA-led kaam nahi.
+//     URL: https://www.thehindu.com/news/national/tamil-nadu/wrd-begins-restoration-of-thalavanur-anicut-across-thenpennai-river/article70105199.ece
+//
+// R2. The New Indian Express, 22 Apr 2026 — "Dalit voters of Villupuram share
+//     support across parties over lack of development and emanicpation".
+//     VCK jila sachiv ka dawa: MLA ne Valudareddy me anganwadi building, 2
+//     fair price shops, cremation shelter aur borewells diye (jo abhi
+//     operational nahi). REJECT: pre-term (2021-2026 karyakaal ke kaam,
+//     article khud chunav-se-pehle ka hai — pre-election reporting).
+//     URL: https://www.newindianexpress.com/states/tamil-nadu/2026/Apr/22/dalit-voters-of-villupuram-share-support-across-parties-over-lack-of-development-and-emanicpation
+//
+// R3. EdexLive, 1 Aug 2022 — Thiruvennainallur taluk me 2,506 Class XI students
+//     ko free bicycles; karyakram Higher Education Minister K. Ponmudy ne
+//     udghatan kiya, MLA sirf upasthit. REJECT: pre-term + mantri ke karyakram
+//     me sirf maujoodgi.
+//
+// R4. Afternoon News (2026, ~Jan, Pongal) — "Kottakuppam Municipal Chairman
+//     distributes prizes at sports meet"; MLA ne Kabaddi/Cricket tournament
+//     udghatan kiya. REJECT: pre-term + sirf karyakram udghatan, vikas-kaam
+//     nahi.
+//
+// R5. The Hindu / The Week, 14-15 Feb 2025 — DMK district rejig; R. Lakshmanan
+//     ko Villupuram Central district unit ka secretary banaya gaya. REJECT:
+//     pre-term party post — kaam-entry nahi, sirf sangathan pad.
+//
+// R6. DT Next, 9 Mar 2021 — "Constituency Watch - Villupuram" chunav profile.
+//     REJECT: pre-term (2021 chunav reporting), koi kaam nahi.
+//
+// R7. TOI / ABP Live / Oneindia / NDTV / Moneycontrol / Business Today — 2026
+//     chunav parinaam pages (jeet, votes 72,982, margin 4,119). REJECT: chunav
+//     reporting, kaam-entry nahi.
+//
+// R8. NEGATIVE screening — myneta 2021 affidavit (candidate_id=315): 2 pending
+//     cases — FIR 1774/2020 Villupuram Taluk PS (IPC 143,147,188,269 + ED Act +
+//     Disaster Management Act) aur FIR 1553/2020 Villupuram Town PS
+//     (IPC 341,269,188,143 + ED Act + DM Act). Dono 2020 ke COVID-era protest
+//     cases hain; koi conviction nahi. 2026 affidavit me 1 case declared hai
+//     (NDTV/Oneindia 2026: "Cases: Yes (1)"). REJECT as negative entry:
+//     pre-term cases jisme May 2026 ke baad koi nayi sthiti (naya FIR, charge
+//     sheet, faisla, adalaati janch-karyavahi) established reporting me nahi
+//     mili — niyam ke mutabik reject.
+//     URLs: https://myneta.info/tamilnadu2021/candidate.php?candidate_id=315
+//           https://www.myneta.info/TamilNadu2026/index.php?action=show_winners&sort=default
+//
+// NOTE: Sabha sirf ~5 mahine purani hai. post-May-2026 ka koi shilanyas,
+// lokarpan, MLACDS swikriti (GO/work-order sahit), ya established-media
+// reporting me satyapit kaam nahi mila. Agle mining cycle me phir check karna.
+// ---------------------------------------------------------------------------
+
+// ---- Viluppuram REJECT-LOG: sivakumar-c (Sivakumar C, PMK, Vikravandi) ----
+// (koi reject-log fragment me nahi mila)
+
+// ---- Coordinator QA note (Viluppuram, 2026-10-15): 6/6 MLA researched (6 parallel workers, sab completed). Sabhi 6 profiles imaandari se KHAALI (0 entries, 0 negatives). Vanni Arasu 22 May 2026 se Social Justice Minister hain — saari coverage portfolio-level/statewide, seat-level kuch nahi. Shanmugam C Ve par SC Rs 10 lakh costs order pre-term (as MP, Aug 2025) + koi nayi sthiti nahi → negative nahi; unki chunav-yachika kharij (Oct 2026) = yachika akeli, negative nahi. Lakshmanan R ke 2020 COVID-protest cases (affidavit me 1) par May 2026 ke baad koi nayi sthiti nahi → negative nahi. Sivakumar C purani sabha me Mailam ke MLA the (same person), Vikravandi nayi seat — purane-kaam pre-term. Hygiene: fragments me 0 Devanagari/Tamil script, 0 Rs-symbol; entry objects me 0 comments; sabhi 6 slugs append se pehle file me 0 matches the — koi overwrite nahi. Marker exactly 1x. ----
