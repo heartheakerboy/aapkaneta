@@ -2440,3 +2440,45 @@ tamilNaduWorks['m-raju'] = [];
 // 10. The Hindu (7 Apr 2026) — Nilgiris me 20 ummeedvaron ke namankan: Coonoor se DMK ke "K.M.Raju" ka naam — sirf pehchan-pushti (M. Raju = K.M. Raju); kaam nahi — REJECT as works. (sourceUrl: https://www.thehindu.com/elections/tamil-nadu-assembly/nominations-of-20-candidates-accepted-in-the-nilgiris/article70834643.ece)
 
 // COORDINATOR QA NOTE: 3/3 workers completed; sabhi profiles imaandari se khaali (0 entries, 0 negatives). Fragments me 0 Devanagari/Tamil script, 0 ₹. Sabhi slugs append se pehle file me 0 matches the — koi overwrite nahi. Reject-log ki be-comment lines ko // prefix diya gaya. Identity traps: Bhojarajan me 'C Bhojarajan' (PTI typo) M. Bhojarajan hi confirm; T. Velmurugan ki yachika khabar galat-vyakti; Dravidamani vs R. Veeramani POCSO galat-vyakti; M. Raju = K.M. Raju pehchan pakki.
+
+// ---- Perambalur district batch (researched 2026-10-15) ----
+tamilNaduWorks['sivakumar-k-tn'] = [];
+
+// REJECT-LOG (sivakumar-k-tn — research 15 Oct 2026):
+// 1. Vetrippayanam scheme inauguration, Perambalur (perambalur.nic.in, 01.10.2026) — CM ne Chennai se scheme launch kiya; district me Collector + MLA ne bus flag-off ki aur public ke saath safar kiya — REJECT: CM ke karyakram me sah-upasthiti; MLA ka apna kaam nahi.
+// 2. New Anganwadi buildings, Rs 30.45 lakh, ICDS (perambalur.nic.in, 09.10.2026) — District Collector ne inaugurate kiya, MLA "in presence of" — REJECT: sirf maujoodgi.
+// 3. Accident relief Rs 2.10 lakh order handover (perambalur.nic.in, 24.08.2026) — MLA ne cylinder explosion victim Vijayakumar ke parivar ko relief order saunpa — REJECT: raahat/welfare.
+// 4. Chief Minister's Trophy sports competitions (perambalur.nic.in, 19.09.2026) — CM ka trophy scheme; Collector + MLA ne inaugurate kiya aur prizes baante — REJECT: CM ke karyakram me sirf maujoodgi.
+// 5. Perunthalaivar Kamarajar Breakfast Scheme expansion (perambalur.nic.in, 22.09.2026) — CM ne video conference se inaugurate kiya; Collector + MLA ne dekha aur students ko nashta karaya — REJECT: sirf maujoodgi + welfare.
+// 6. Water Resources dept scheme review meeting (perambalur.nic.in, 08.07.2026) — Rural Development minister N. Anand ne chair kiya; Collector aur MLA present the — REJECT: mantri ke karyakram me sirf maujoodgi.
+// 7. Rural Development & Panchayat Raj progress review (perambalur.nic.in, 08.07.2026) — mantri ke adhyakshata me sameeting; MLA present — REJECT: mantri ke karyakram me sirf maujoodgi.
+// 8. MLA office inauguration + petitions liye (Kalaimalar, 20.05.2026) — MLA ne apna office khola — REJECT: koi public work nahi, routine administrative.
+// 9. Amma Unavagam aur Sub-Registrar office nirikshan (Kalaimalar, 19.05.2026) — CM ke directive par inspection — REJECT: sirf nirikshan/daura.
+// 10. Centre of Excellence workshop, Rs 6.25 crore (Kalaimalar, 04.08.2026) — CM ne video conference se inaugurate kiya (previous DMK admin ka project); Collector + MLA ne deep prajwalit kiya — REJECT: CM ke karyakram me sirf maujoodgi; purani yojana.
+// 11. District-level powerlifting competition (Kalaimalar, 02.08.2026) — MLA ne event inaugurate kiya — REJECT: event inauguration, koi infrastructure kaam nahi.
+// 12. E-service centre inauguration (Kalaimalar headline, 16.07.2026) — sirf ek-line headline snippet; poora article link category page par nahi mila; established English press me koi coverage nahi — REJECT: unverifiable, snippet se entry nahi ban sakti.
+// 13. Perambalur fire station, Rs 2.33 crore (ainvest.com, Oct 2025) — announcement purane DMK MLA M. Prabhakaran ki request par hua tha; pre-May 2026 — REJECT: purana karyakaal + galat vyakti (M. Prabhaharan, 2021-26 MLA).
+// 14. Perambur MLA office + grievance app (Daily Pioneer, Mathrubhumi, DT Next, Lokmat Times, Punjab Kesari, Prokerala, Jul-Oct 2026) — ye Perambur (Chennai) hai, CM C. Joseph Vijay ki apni seat; Perambalur se koi lena-dena nahi — REJECT: galat sthan/vyakti trap.
+// 15. Election result reporting (The Hindu 04.05.2026, TOI, Indian Express, NDTV, Oneindia, Business Today) — K. Sivakumar (TVK) ko 90,882 votes, 14,393 margin se jeet — REJECT: chunav reporting, kaam nahi.
+// 16. "TVK fields youth in central region" (The Hindu, 29.03.2026) — TVK ne K. Sivakumar ko Perambalur se candidate banaya — REJECT: pre-tenure announcement.
+// 17. Negatives: "TVK MLA moves Madras HC to quash FIR" (Saravanan ka case), "Case against TVK MLA for trespass in Puducherry" (A. K. Sai Saravanakumar), PMK MLA walkout (C. Sivakumar, PMK) — sab GALAT VYAKTI traps; hamare MLA par established press me koi FIR/case/allegation nahi. Background record me criminalCases: 0 — consistent.
+
+tamilNaduWorks['sivasankar-s-s'] = [
+];
+// REJECT-LOG (sivasankar-s-s — research 15 Oct 2026):
+// 1. The Hindu, "TVK wins Perambalur seat, DMK Kunnam" (04 May 2026) — chunav-jeet reporting hai, May 2026 se pehle ka karyakal nahi aur koi seat-work nahi; works entry ka aadhar nahi — REJECT.
+// 2. ETV Bharat, Kunnam election result (04 May 2026) — sirf chunav-parinaam coverage; koi vikas-kaam report nahi — REJECT.
+// 3. perambalur.nic.in press release, "Bus service introduced in 6 areas under Alathur Panchayat Union" (11 Feb 2026) — date May 2026 se pehle hai (pichhle karyakal ka) — REJECT: pre-term.
+// 4. perambalur.nic.in press release, "Foundation Stone Laying Event for Government Model School" (29 Jan 2026) — Rs 56 crore Periya Venmani model school ka shilanyas; May 2026 se pehle + CM ki Nov 2024 ghoshna ka event — REJECT: pre-term.
+// 5. The Hindu, "New TNPDCL division inaugurated in Perambalur" (26 Nov 2025) — Kunnam TNPDCL division ka udghatan mantri ke bijli-vibhag ke roop me; pre-term + mantri portfolio kaam, seat-kaam nahi — REJECT.
+// 6. DT Next, "Transport department to add 4,000 new buses soon" (10 Mar 2026) — 4000 buses state transport minister ka portfolio-vishay; Kunnam/Senthurai TNSTC depot ka dawa bhi pre-term interview me — REJECT: pre-term + minister role, seat-work nahi.
+// 7. DT Next, "TN Minister Sivasankar takes kids on fossil trip" (07 Feb 2026) — 232 Kunnam students ka Ariyalur fossil museum tour; pre-term + vyaktigat/shiksha-bhraman, poorn vikas-kaam nahi — REJECT.
+// 8. New Indian Express, "Mixed response to minister Sivasankar in TN's Kunnam" (25 Mar 2026) — constituency mood-analysis article, purane karyakal ke daavo/jawaab, koi May 2026+ ka kaam nahi — REJECT.
+// 9. DT Next, "Minister Sivasankar launches new portals for solar energy" (24 Jan 2026) — rooftop-solar portal launch state mantri (urja vibhag) ke roop me; seat-specific kaam nahi + pre-term — REJECT.
+// 10. DT Next, "Cuddalore court acquits minister Sivasankar, 26 others in 2015 rioting case" (23 Oct 2025) — 2015 sand-quarry protest case me bari; pichhle karyakal/purani ghatna, koi allegation/FIR pending nahi — REJECT: negative nahi (acquittal), aur pre-term.
+// 11. oneindia.com/politicians/ss-sivasankar page — poori page galat-vyakti trap hai: "Represents Madurai East", "Minister for Commercial Taxes and Registration" (ye P. Moorthy ka record hai) — S. S. Sivasankar (Kunnam) se milaan galat; avishvasniya — REJECT.
+// 12. newindianexpress Kerala gold-smuggling stories ("Sivasankar custody extended" etc.) — ye Kerala ke IAS M Sivasankar hain, Kunnam MLA nahi — REJECT: galat vyakti.
+// 13. perambalur.nic.in Press Release archive May/Jun/Jul/Sep/Oct 2026 — sabhi releases District Collector ya School Education minister (Rajmohan) ke naam par hain; Sivasankar ka koi udghatan/shilanyas entry nahi mili — REJECT: koi record nahi.
+// 14. The Hindu pre-election piece "Unemployment, poor rainfall major problems faced by Kunnam voters" (Apr 2026) — constituency samasya-analysis, chunav se pehle; koi kaam entry nahi — REJECT.
+
+// QA note (Perambalur — coordinator, 15 Oct 2026): 2/2 fragments QA — 0 entries, dono imaandari se khaali; identity traps (S.S. Sivasankar mantri vs Kunnam MLA; Sivasankar Kerala IAS vs mantri; R. Thamizhselvan vs K. Sivakumar) sab pakde gaye; Sivasankar ka 2015 Cuddalore case me 23 Oct 2025 bari (acquittal) pre-term hai — negative nahi. 0 Devanagari/Tamil/₹. Slugs append se pehle 0 matches.
