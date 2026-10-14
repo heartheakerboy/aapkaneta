@@ -2479,3 +2479,377 @@ mpWorks['murli-bhawara'] = [
 // - anokhateer.com (CM ghoshnaein: thana/awas/godam): MLA keval upasthit — maujoodgi, reject.
 // - Zee News ("Tejomahal" bayan): sirf rajnaitik bayan, reject.
 // NOTE: murli-bhawara ki CM-mulakat wali khabar (The Tribal Post, May 2025) me "swikriti" shabd tha, lekin GO/sanction-order number ke bina Chhindwara-precedent se stage GHOSHNA rakha gaya — swikriti nahi.
+
+// ---- Dhar district batch (researched 2026-10-14) ----
+// Dhar jile ke 7 MLA (karyakaal Dec 2023+), AC number order me:
+// pratap-grewal (Pratap Grewal (Sardarpur ST AC-196, INC))
+// umang-singhar (Umang Singhar (Gandhwani ST AC-197, INC, Leader of Opposition))
+// baghel-surendra-singh-honey (Baghel Surendra Singh Honey (Kukshi ST AC-198, INC))
+// dr-hiralal-alawa (Dr. Hiralal Alawa (Manawar ST AC-199, INC))
+// kalusingh-thakur (Kalusingh Thakur (Dharampuri ST AC-200, BJP))
+// neena-vikram-verma (Neena Vikram Verma (Dhar AC-201, BJP))
+// bhanwarsingh-shekhawat-babu-ji (Bhanwarsingh Shekhawat Babu Ji (Badnawar AC-202, INC))
+// Kul entries: Pratap Grewal 9, Kalusingh Thakur 6, Hiralal Alawa 6 (3 news + 3 dawa),
+// Bhanwarsingh Shekhawat 4, Umang Singhar 1, Surendra Singh Honey 0 (khaali), Neena Vikram Verma 0 (khaali).
+// Note: swikriti-stage sirf wahi jahan pakki sanction report mili (Singhar — Taraghati nahar Rs 1.52 cr prashasnik swikriti,
+// shasan-dwara-swikriti article me spasht; bina GO/order-number ke sab ghoshna rakha gaya — Chhindwara precedent).
+// Kisi bhi MLA ki vidhayak-nidhi press-ghoshna bina sanction/work-order saboot ke nahi jodi.
+// DO NOT export; appended to works_mp.ts
+
+mpWorks['pratap-grewal'] = [
+  {
+    title: 'Gram Nandlai me Rs 37.5 lakh ke naveen panchayat bhawan ka bhumi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, Jul 2025',
+    date: '2025-07',
+    sourceUrl: 'https://chetaktimes.com/news-in-hindi-sardarpur-dhar-mla-bhumi-pujan-2/',
+    note: 'Status: bhumi-pujan — MLA Pratap Grewal ne khud bhumi-pujan kiya; shasan se pehli kisht Rs 18.75 lakh gram panchayat ko mil chuki hai. Credit-pardarshita: yojna rajya-sarkar ki (panchayat bhawan) hai, par bhumi-pujan ki concrete bhoomika MLA ki apni hai. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Bandedi me Rs 37.5 lakh ke naveen panchayat bhawan ka bhumi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Dec 2025',
+    date: '2025-12',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dhar/news/a-new-panchayat-bhawan-will-be-built-in-bandedi-for-rs-3750-lakh-136668730.html',
+    note: 'Status: bhumi-pujan — MLA ne khud bhumi-pujan kiya; news me unka bayan hai ki unhone vidhan sabha me jarrar panchayat bhawano ka mudda uthaya tha jiske baad swikriti mili. Credit-pardarshita: Bandedi ka naam Aug 2025 ki 17 Atal Seva Sadan wali mantri-karyakram list me bhi tha — ye Dec 2025 ka alag reported event hai, isliye dobara bhumi-pujan ki sambhavna note ki ja rahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rajgarh ke Gram Piparani me goshala ke liye Rs 5.88 lakh ke 25 kVA transformer ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, Jan 2026',
+    date: '2026-01',
+    sourceUrl: 'https://chetaktimes.com/news-in-hindi-rajgarh-piparni-gaushala/',
+    note: 'Status: lokarpan (poora hua) — Shrimad Bhagwat Adivasi Bhagat Goshala, Piparani; ye vidhayak-nidhi (MLA fund) ka kaam hai, sansad-nidhi (MP fund) nahi. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sardarpur nagar me Rs 30 lakh ke sarv-suvidhayukt community hall ka bhumi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, Sep 2026',
+    date: '2026-09',
+    sourceUrl: 'https://chetaktimes.com/सरदारपुर-में-30-लाख-की-लागत-स/',
+    note: 'Status: bhumi-pujan — MLA Pratap Grewal ne any janpratinidhiyon ke saath bhumi-pujan kiya. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Khamaliya me Rs 12.97 lakh ke naveen anganwadi bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, Apr 2025',
+    date: '2025-04',
+    sourceUrl: 'https://chetaktimes.com/news-in-hindi-sardarpur-dhar-aangnwadi-lokarpan/',
+    note: 'Status: lokarpan (poora hua) — nirmaan poorn hone ke baad MLA ne lokarpan kiya; news me MLA ke prayason se swikriti milne ka zikr hai. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Labariya me Rs 51 lakh ke ekikrit madhyamik vidyalaya naveen bhawan ka bhumi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, Feb 2025',
+    date: '2025-02',
+    sourceUrl: 'https://chetaktimes.com/news-in-hindi-sardarpur-dhar-mla-bhumipujan/',
+    note: 'Status: bhumi-pujan — MLA ne khud neev rakhi; jarrar madhyamik bhawan ki jagah naya bhawan. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Labariya me Rs 15.86 lakh ke prathmik vidyalaya atirikt kakshon ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, Feb 2025',
+    date: '2025-02',
+    sourceUrl: 'https://chetaktimes.com/news-in-hindi-sardarpur-dhar-mla-bhumipujan/',
+    note: 'Status: lokarpan (poora hua) — usi karyakram me nirmit atirikt bhawan ka lokarpan. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sardarpur Model School me tube-well khanan ki ghoshna (peyjhal samasya ke samadhan ke liye)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Dec 2025',
+    date: '2025-12',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dhar/news/three-day-annual-sports-competition-inaugurated-at-model-school-dhar-136706231.html',
+    note: 'Status: ghoshna — khel pratiyogita karyakram me MLA ne March me naveen tube-well khanan ki ghoshna ki; poornata ki aage ki news nahi mili. Ye news-report hai, MLA ka swayam ka dawa nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rajgarh nagar ke wards 1,5,6,11,12,14 me Rs 1.18 crore ke sadak karyon ka bhumi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Chetak Times, May 2026',
+    date: '2026-05',
+    sourceUrl: 'https://chetaktimes.com/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%97%E0%A4%A2%E0%A4%BC-%E0%A4%A8%E0%A4%97%E0%A4%B0-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B7%E0%A4%A6-%E0%A4%B8%E0%A4%AD%E0%A4%BE%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7/',
+    note: 'Status: bhumi-pujan — MLA Pratap Grewal mukhya atithi ke roop me; pavers + damrikaran karya (ward-wise: 8L/9L/37L/25L/4.5L/32L). Credit-pardarshita: karya nagar parishad ka hai, MLA ki bhoomika karyakram ki adhyakshata/mukhya atithi ke roop me hai. Source chhota local portal hai (chetaktimes.com) — disclosure ke saath.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (pratap-grewal):
+// 1. Sardarpur civil hospital Rs 11 crore naya bhawan lokarpan (chetaktimes, Aug 2025) — REJECT: lokarpan prabhari mantri Kailash Vijayvargiya ne kiya, MLA sirf vishisht atithi/maujoodgi; state project me MLA ki concrete bhoomika nahi.
+// 2. Narmada micro-sinchai talab demand + Dhar ko sukhagrasht ghoshna maang (chetaktimes, Sep/Oct 2026) — REJECT: sirf maang/gyapan, koi kaam nahi.
+// 3. Kharif fasal bima Rs 5.5 crore (chetaktimes, ~Aug 2026) — REJECT: vidhan sabha prashn ki advocacy ka parinaam, nirmaan/vikas-kaam nahi; jaankari vidhayak karyalaya se.
+// 4. Sardarpur civil hospital me stree-rog visheshagya padsthapana (chetaktimes, Jun 2026) — REJECT: prashn ka advocacy outcome (staff posting), vikas-kaam nahi.
+// 5. Kachhla-Chaubara 4 km PMGSY sadak (ekhabartoday, ~May 2025) — REJECT: sirf prastav Delhi bheja gaya, swikriti nahi.
+// 6. Sardarpur hospital me Rs 35 lakh oxygen plant bhumi-pujan (veblr video, ~Jan 2025) — REJECT: video-only source; text coverage nahi mili.
+// 7. Budget 2026 me Bidpada-Chaukirunda + Mohankheda bypass Rs 7 crore swikriti (public.app-only, ~Feb 2026) — REJECT: source rule (public.app-only) + sirf MLA ka bayan, koi GO/order number nahi.
+// 8. Ganesh pratima vitaran, ward bhraman/daura, jansunwai me gyapan, safai-karmi hadtal me maujoodgi, football pratiyogita udghatan (YouTube/chetaktimes) — REJECT: nirikshan/daura/maujoodgi ya dharmik-social, vikas-kaam nahi.
+// 9. Civil hospital oxygen plant punah aarambh (chetaktimes, Jun 2026) — REJECT: BMO ke prayas ka shrey; MLA ka yogdan corona-kaal ka purana, is karyakaal ka nahi.
+// 10. Rajya-stariya shaleya football pratiyogita udghatan (chetaktimes, ~Sep 2026) — REJECT: sirf karyakram me maujoodgi.
+
+mpWorks['umang-singhar'] = [
+  {
+    title: 'Taraghati nahar (Indira Gandhi jalashay Amba-soti nahar yojana) west weir Ogee wall sudhaar-marammmat — Rs 1.52 crore prashasnik swikriti',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    date: '2026-10',
+    sourceUrl: 'https://www.amarujala.com/madhya-pradesh/dhar/approval-granted-following-the-initiative-of-leader-of-dhar-news-c-1-1-noi1504-4817296-2026-10-10',
+    note: 'Gandhwani AC ke Tanda anchal me Taraghati nahar ke west weir me Ogee wall ki marammat ke liye shasan ne Rs 1.52 crore ki prashasnik swikriti di (stage: swikriti — article me shasan-dwara-swikriti spasht). MLA Umang Singhar ki concrete bhoomika: Tanda daure me kisanon ke gyapan ke baad 22 May 2025 ko shasan ko patra likhkar rashi ki maang ki thi. Labh: Amba-soti, Kalidevi, Badda, Muhaja, Tanda ke kisan (hazaaron hectare sinchai). Credit-pardarshita: kaam sarkari fund se swikrit hua, vidhayak-nidhi nahi; swikriti shasan ne di, MLA ki bhoomika pahal/patra tak seemit — article me spasht.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (umang-singhar): (1) Naidunia Gandhwani report-card (~June 2023): pre-Dec 2023 karyakaal ke dawe (nal-jal Rs 134 cr, Man dam Rs 300 cr etc.) — sab MLA ke swayam-dawe, bina independent verification; REJECT (pre-term + dawa). (2) NDTV mud-funeral story (Vasli gaon): grameenon ke aarop + BJP ka sawal, lekin na FIR/case, na MLA ka jawab — negative-entry criteria fail; REJECT. (3) FreePressJournal birthday story (Jan 2026): Piplkheda anathashram dining hall ke liye Rs 2 lakh vyaktigat daan + laptop — personal charity, public work nahi; REJECT. (4) Bhaskar English Akhada power-grid plaque story: Akhada gaon Bagh block (Kukshi AC) me hai — Gandhwani kshetra se bahar + swikriti 2022 (pre-term); REJECT. (5) YouTube Ganesh-pratima video (Sep 2026): YouTube-only source + bachchon ki maangon par "manjur karne ki baat" = future promise; REJECT. (6) Punjab Kesari sookha article (Oct 2026): sirf CM se maang/survey ki demand; REJECT (sirf maang). (7) ETV Bharat salary/vikas-nidhi bhedbhaav (Dec 2024): rajnaitik bayan, koi thos kaam nahi; REJECT. (8) Monsoon-session virodh, Bhagirathpura press-conference, Maharashtra chunav paryavekshak, HC election petition, excise-case stay — sab LoP/state-level ya vyaktigat kaanuni mamle; REJECT. (9) Wikipedia "constituency work" (Gandhwani hospital mahila doctor, Garadi pulia): keval MLA ki khud ki website se sourced, koi tareekh/khabar nahi — self-publication; REJECT.
+
+mpWorks['baghel-surendra-singh-honey'] = [
+  // NO QUALIFYING ENTRIES — 2023-2028 period me is MLA ke koi thos vikas-kaam
+  // credible news me nahi mile jo sakht niyam pure karte hon.
+  // Khaali profile imaandari hai. Reject log neeche.
+];
+// REJECT-LOG (baghel-surendra-singh-honey):
+// 1. public.app (Dahi CHC transformer bhoomipujan, 18 Sep 2025) — REJECT: public.app-only source,
+//    aur follow-up me 4 mahine baad bhi kaam shuru nahi hua tha.
+// 2. FreePressJournal, 1 Oct 2026 — Dahi me rally (Tantya Mama/Dahi micro lift sinchai, bijli, college ki maang) — REJECT: sirf maang/protest.
+// 3. FreePressJournal — Kukshi thana protest (Shree Cement limestone, 2 yuva riha ki maang) — REJECT: vikas-kaam nahi.
+// 4. Rajwada Darpan, 6 Oct 2026 — Dahi micro lift sinchai pariyojna poori (Rs 1324 cr) — REJECT: rajya sarkari pariyojna (2019 me swikrit);
+//    article me MLA ki concrete bhoomika nahi (unhone sirf paani ki maang me rally nikali).
+// 5. bichhu.com interview (27 May 2023) — MLA ka dawa: 2018-20 me mantri ke roop me Kukshi micro lift (Rs 2191 cr)
+//    + Dahi micro lift (Rs 1085 cr) swikrit — REJECT: Dec 2023 se pehle ka kaam.
+// 6. Bhelpowernews/IndiaPrime24/Dainik Agnipath/Navbharat Times — pariwarik dahej pratadna FIR (bahu Kamya Singh ke aarop) — REJECT: parivar ka case kabhi nahi.
+// 7. Patrika (Oct 2025) — CM ke Bhilala samaj karyakram me MLA ki maujoodgi — REJECT: sirf maujoodgi.
+// 8. Zee News — bike se Narmada jal lekar Ayodhya yatra (Jan 2024) — REJECT: vikas-kaam nahi.
+// 9. G9News — 2023 baadh me rahat kary (Sep 2023) — REJECT: Dec 2023 se pehle.
+
+mpWorks['dr-hiralal-alawa'] = [
+  {
+    title: 'Manawar Civil Hospital (Rs 9.51 cr) — naya bhawan lokarpit, Semalda Road',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    date: '2026-05',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dhar/manawar/news/manawar-civil-hospital-inauguration-mla-hiralal-alawa-questions-credit-138264832.html',
+    note: 'State sarkar ki puri hui pariyojna ka lokarpan; MLA Dr. Hiralal Alawa ne khud ribbon-kaatkar aur puja karke aupcharik shubharambh kiya (~May 2026). Credit-pardarshita: BJP ki kendreey rajyamantri Savitri Thakur ne isse pehle ek Jan Kalyan shivir me hospital janata ko samarpit kiya tha; MLA ka dawa hai ki 2019 se maang uthayi aur Kamalnath/Shivraj/Mohan Yadav — teenon sarkaron ko patra + vidhansabha prashnon se prayas kiya. Hospital ki buniyad unke pehle karyakal (2018-23) me padi thi, lekin lokarpan Dec 2023 ke baad ka hai, isliye period-eligible. Hospital ke liye Rs 5 lakh vidhayak-nidhi ki ghoshna ka sanction saboot nahi mila (ghoshna reject); 100-bed vistar abhi sirf uthaya gaya mudda hai, kaam nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mandavada gram panchayat me vidyut DP (transformer) ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    date: '2025-11',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dhar/manawar/news/manawar-mla-inaugurated-the-electricity-dp-in-mandavada-136393547.html',
+    note: 'Puri hui chhoti pariyojna ka lokarpan — MLA ne swayam DP ka uddghatan kiya. Usi karyakram me mandir-nirman ke liye vidhayak-nidhi se Rs 50,000 ki ghoshna sirf press-ghoshna thi, sanction/work-order saboot nahi — isliye ghoshna entry me shaamil nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Utavat (Khedapura) me Rs 10 lakh ka Manglik Bhavan — bhoomi pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    date: '2026-04',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dhar/manawar/news/utavat-khedapura-manglik-bhavan-bhumi-pujan-dr-alawa-137595352.html',
+    note: 'Ye VIDHAYAK-NIDHI (MLA fund) ka kaam hai — sansad-nidhi (MP fund) nahi. Sarpanch Mohan Dawar ki maang par MLA ne apni nidhi se swikriti di aur khud bhoomi pujan kiya (~Apr 2026) — shilanyas stage.',
+    period: '2023-2028',
+  },
+  {
+    title: '1300 crore ki group nal-jal pradai yojana swikrit ka MLA ka dawa (Manawar+Umarban block)',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'Swaraj Vani',
+    date: '2026-08',
+    sourceUrl: 'https://swarajvani.com/manawar-mla-dr-hiralal-alawa-development-8-years/',
+    note: 'MLA ka swayam ka dawa jo news me report hua (27 Aug 2026) — article me koi GO/order number nahi, sanction swatantra roop se verify nahi hui. Dawe ke anusaar Manawar aur Umarban block ki har gram panchayat tak Narmada ka paani pahunchega. Dawa badge = bina independent saboot ka dawa, poora disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'SH-38 par Mangod-Manawar-Khalghat four-lane swikrit + Semalda/Man nadi pulon ka MLA ka dawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Swaraj Vani',
+    date: '2026-08',
+    sourceUrl: 'https://swarajvani.com/manawar-mla-dr-hiralal-alawa-development-8-years/',
+    note: 'MLA ka swayam ka dawa (27 Aug 2026), bina GO/order number — swatantra verification nahi. Credit-pardarshita: SH-38 ke Barwaha-Dhamnod section ka cabinet approval (Rs 2508.21 cr, July 2026) alag khabar me mila, lekin Mangod-Manawar-Khalghat section ki swikriti ka swatantra saboot nahi mila. Narmada par Semalda bridge (Rs 68 cr) aur Man nadi par Bakaner/Devra pulon ka kaam bhi dawe me shaamil — in par PWD/tender stage ki swatantra khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'College, CM Rise school, sports complex, Eklavya parisar, kanya chhatravas — shiksha bundle ka MLA ka dawa',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Swaraj Vani',
+    date: '2026-08',
+    sourceUrl: 'https://swarajvani.com/manawar-mla-dr-hiralal-alawa-development-8-years/',
+    note: 'MLA ke swayam ke dawe (27 Aug 2026 news report): Updi me Rs 5 cr college bhawan, Rs 40 cr kanya shiksha parisar, Updi+Bakaner me CM Rise school, Semalda Road par CM Rise school, Updi me Rs 5 cr sports complex, Devla me Rs 39 cr Eklavya aawasiya parisar, 100-seater kanya chhatravas. Kisi par GO/order number nahi; swatantra verification nahi — dawa badge. Note: Dec 2025 me Bhaskar ke nirikshan article se Umarban me college/Eklavya nirman-adhheen hona confirm hota hai, lekin wo article sirf nirikshan tha (entry nahi ban sakti).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (dr-hiralal-alawa): (1) medicalbuyer.co.in/FPJ — 50-bed hospital ka foundation-stone ~Nov 2022, Kamalnath-sarkar approval; Dec 2023 se pehle → REJECT. (2) vicharnewslivetv.com Mar 2020 — Man Dam group water scheme (257.67 cr) aur 108 ambulance (2019) — pehle karyakal → REJECT. (3) aajtak24.in Jan 2021 — bhoomi-pujan/lokarpan samaroh 2021 ka + mukhya atithi mantri Rajvardhan Singh, MLA sirf maujood → REJECT. (4) bhaskar.com Dec 2025 — Umarban college/Eklavya ka sirf nirikshan/daura → REJECT. (5) DP lokarpan article ki mandir Rs 50,000 ghoshna + hospital article ki Rs 5 lakh vidhayak-nidhi ghoshna — press-ghoshna, sanction/work-order saboot nahi → REJECT. (6) FPJ May 2025 — sharabandi bayan, koi thos kaam nahi → REJECT. (7) FIR May 2026 (IANS): aarop+sthiti hai lekin Alawa ka apna jawab nahi mila (sirf LoP ki pratikriya) aur ye works-related nahi, political protest case hai → negative entry REJECT. (8) YouTube-only videos (dharna, Semalda bridge, Bakaner CM Rise), public.app, FB/IG — source-type REJECT. (9) Future "karenge": medical/veterinary/engineering college (agar Congress sarkar aayi to), hospital 100-bed vistar ka mudda → REJECT. (10) swarajvani ke sabhi "swikriti" dawe me GO/order number nahi — sirf dawa badge par entry, sanction badge nahi.
+
+mpWorks['kalusingh-thakur'] = [
+  {
+    title: 'Nalchha block me 2 naye talabon ka bhumi-pujan: Nayapura (Bhadkia GP) Rs 9.25 crore aur Aakho (Amkho GP) Rs 4.94 crore — Jal Sansadhan Vibhag Dhar banayega',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'CNews Bharat',
+    date: '2026-10',
+    sourceUrl: 'https://cnewsbharat.com/hindi/news/nalchha-130870',
+    note: 'Stage: shilanyas/bhumi-pujan — kaam shuru hone se pehle ka charan. Credit-pardarshita: talab sarkari (Jal Sansadhan Vibhag, Dhar) banayega; vidhayak ne mukhya atithi ke roop me bhumi-pujan kiya; article ke mutabik graminon ki lambe samay se maang thi. Chhota local portal (cnewsbharat.com) — disclosure. Article me jaankari ka shrey vidhayak ke media pratinidhi Ashok Mirdwal ko diya gaya hai; article par prakashan tithi chhapi nahi — search-index crawl (~Oct 2026) se anumanit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nalchha me 2 nistar talabon ka bhumi-pujan: Bhadkia (Rs 39.82 lakh) aur Lunera (Rs 39.82 lakh)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'CNews Bharat',
+    date: '2026-08',
+    sourceUrl: 'https://cnewsbharat.com/hindi/news/dhar-128500',
+    note: 'Stage: shilanyas/bhumi-pujan. Credit-pardarshita: sarkari yojana ke tehat talab; vidhayak ne bhumi-pujan kiya; article me CM Dr Mohan Yadav ke netritva ka zikr — Dec 2023 ke baad ka kaam confirm. Chhota local portal (cnewsbharat.com) — disclosure. Jaankari vidhayak ke media pratinidhi Ashok Mirdwal dwara di gayi; prakashan tithi chhapi nahi — crawl (~Aug 2026) se anumanit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nalchha janpad me 3 barrage bhandhon ka bhumi-pujan: Banjaripura (Rs 4.21 crore), Awalipura (Rs 4.21 crore), Guljarjiri-Patalnagpur (lagat article me nahi)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'CNews Bharat',
+    date: '2025-11',
+    sourceUrl: 'https://cnewsbharat.com/hindi/news/nalcha-148089',
+    note: 'Stage: shilanyas/bhumi-pujan — uddeshya sinchai ke liye paani. Credit-pardarshita: vidhayak ne graminon ke saath bhumi-pujan kiya; article me CM Dr Mohan Yadav ke netritva ka zikr — Dec 2023 ke baad ka kaam confirm. Chhota local portal (cnewsbharat.com) — disclosure. Jaankari vidhayak ke media pratinidhi Ashok Mirdwal dwara di gayi; prakashan tithi chhapi nahi — crawl (~Nov 2025) se anumanit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nalchha ki Dhaal gram panchayat me Jogi Bhadak nale par bandh ka bhumi-pujan — Rs 4.25 crore',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'CNews Bharat',
+    date: '2026-09',
+    sourceUrl: 'https://cnewsbharat.com/hindi/news/nalchha-128301',
+    note: 'Stage: shilanyas/bhumi-pujan; vidhayak ka bayan: kshetra me paani ki kami nahi rehne denge. Credit-pardarshita: sarkari pariyojna ka bhumi-pujan vidhayak ne kiya. Chhota local portal (cnewsbharat.com) — disclosure. Jaankari vidhayak ke media pratinidhi Ashok Mirdwal dwara di gayi; prakashan tithi chhapi nahi — crawl (~Sep 2026) se anumanit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Naye Janpad Panchayat Nalchha karyalaya bhawan ka bhumi-pujan — MP shasan dwara Rs 5.25 crore+ swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Police Public News',
+    date: '2026-02',
+    sourceUrl: 'https://policepublicnews.com/public/bhoomi-pujan-of-construction-of-new-building-of-district-panchayat-nalchha-office-of-dharampuri-assembly-constituency-no-200-of-dhar-district-regional-mla-hon',
+    note: 'Stage: shilanyas/bhumi-pujan — 6 Feb 2026 (Shukrawar; tithi article par spasht chhapi hai). Credit-pardarshita: bhawan MP shasan dwara swikrit (article me RES vibhag ke engineer ka zikr); vidhayak mukhya atithi ke roop me bhumi-pujan me shamil hue. Chhota local portal (policepublicnews.com) — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dhamnod me MP ke pehle Sahakar Samriddhi Super Bazaar ka lokarpan (B-PACS campus)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    date: '2026-07',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dhar/dhamnod/news/dhamnod-sahakar-samriddhi-super-bazaar-inauguration-savithri-thakur-138353238.html',
+    note: 'Stage: lokarpan (poora hua kaam) — super bazaar khul gaya hai, rozmarra ka samaan saste daamon par milega. Credit-pardarshita: MP shasan ki "Sahkarita se Samriddhi" yojana ki pariyojna; lokarpan Kendriya Mantri Savitri Thakur, MP State Cooperative Bank prashasak Mahendra Singh Yadav aur vidhayak Kalu Singh Thakur ne sanyukt roop se kiya — vidhayak ki concrete bhoomika saha-udghatak (co-inaugurator) ke roop me. Dainik Bhaskar. Prakashan tithi article par chhapi nahi — search index se ~Jul 2026 anumanit.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (kalusingh-thakur):
+// 1. Hunger-strike vs Savitri Thakur + BJP show-cause notice (FPJ x3, Punjab Kesari, Amar Ujala, Vistaar News, ETV Bharat, Paliwalwani, PradeshLive, Nishaanebaz) — REJECT: raajnaitik vivaad/protest announcement; koi vikas-kaam nahi.
+// 2. Honey-trap/blackmail case (NDTV mpcg, lalluram) — REJECT: vyaktigat vivaad, kaam nahi; parivaar angle bhi (do patniyan) — family kabhi nahi.
+// 3. Assault/land-grab dispute, Jitu Patwari via Patrika — REJECT: vyaktigat vivaad; MLA ke khilaaf FIR/case nahi (FIR MLA ki shikayat par hamlaavaron ke khilaaf); negative-entry bar poora nahi karta; kaam nahi.
+// 4. YouTube "Nalchha me khel maidan ke liye 2 lakh dene ki ghoshna" — REJECT: YouTube-only source + sirf ghoshna (bina sanction saboot).
+// 5. YouTube bhoomi-pujan videos (peptech time, misc) — REJECT: YouTube-only.
+// 6. dainik.bhaskar short link "Vidhayak ne dhai crore ki vikas pariyojnaon ka..." — REJECT: kaun se MLA/kshetra clear nahi, verify nahi ho paya.
+// 7. Toll-booth manhandling 2014 (India.com) — REJECT: 2023 se pehle + vyaktigat ghatna, kaam nahi.
+// 8. Bhopal dharna (mpbreakingnews) — REJECT: 2018-23 karyakaal ki khabar (Congress MLA Panchilal Meda ke samay ki), Dec 2023 se pehle; kaam nahi.
+// 9. TopNews YouTube "gaali-baaz" video — REJECT: YouTube-only + kaam nahi.
+// 10. Biography/affidavit pages (npg.news, myneta.info) — not works, entry nahi banayi.
+
+mpWorks['neena-vikram-verma'] = [
+];
+// REJECT-LOG (neena-vikram-verma):
+// 1. mpbreakingnews.in "Vidhayak Neena Verma ne kiya vikas karyon ka bhoomipujan aur lokarpan" (vidhayak-nidhi Rs 50 lakh — Kailash Nagar sampwell Rs 9.15 lakh, Luniyapura/Banjara Basti CC road + sanskritik manch): canonical URL khud khola to 2020 ka COVID article khula (slug mismatch/stale search index); Wayback fetch bhi fail (500). Snippet se entry banane ka niyam nahi — unverifiable, isliye REJECT.
+// 2. Harit Vikas Udyan, Pithampur (freepressjournal.in, 2026-03-24; khud padha): Hyundai Mobis CSR + World Vision India + Pithampur nagarpalika ka project; MLA ne sirf udghatan/ribbon-cut kiya, article me koi concrete bhoomika nahi — REJECT (maujoodgi).
+// 3. Triveni Harit Setu: vidhayak nidhi se Rs 10 lakh ki GHOSHNA (Savitri Thakur ke karyakram me); YouTube-only source + sanction/work-order ka koi saboot nahi — REJECT (press-ghoshna bina sanction proof).
+// 4. Dhar medical college bhoomipujan (ntvtime.com, 2025-12-23; Rs 266 cr PPP; khud padha): article me MLA sirf "maujood rahengi", koi concrete bhoomika nahi; CM/state project — REJECT.
+// 5. Railway overbridge Dhar-Gunawad (FPJ): udghatan Savitri Thakur ne kiya, MLA sirf upasthit — REJECT.
+// 6. Swimming pool, Uday Ranjan Club Dhar (FPJ): MLA sirf upasthit, prashansa — REJECT.
+// 7. CM Rs 1869 cr irrigation project bhoomipujan (FPJ): MLA sirf upasthit — REJECT.
+// 8. Kailash Vijayvargiya press conference + DISHA review meeting (FPJ/dhar.nic.in): MLA sirf upasthit — REJECT.
+// 9. Student art exhibition, Govt College of Fine Arts (FPJ): Union Minister ke saath sirf udghatan — REJECT.
+// 10. Aajivika fresh mela udghatan (dhar.nic.in): event, thos vikas-kaam nahi — REJECT.
+// 11. BJP workers conference (FPJ): party event, kaam nahi — REJECT.
+// 12. YouTube "CM ne Dhar ko saugat, Neena Verma ki mehnat rang layi": YouTube-only source — source rules ke tahat REJECT.
+// 13. Pravesh Verma victory celebrations (Amar Ujala, Feb 2025): parivarik/personal khabar, vikas-kaam nahi — REJECT.
+// 14. Affidavit/election data (myneta.info, Business Standard, Wikipedia, DNA): profile info, kaam nahi — REJECT.
+// NOTE: Dec 2023+ ka koi bhi thos vikas-kaam aise source se verify NAHI hua jo sakht niyamon par khara utre. Khaali profile imaandari hai.
+
+mpWorks['bhanwarsingh-shekhawat-babu-ji'] = [
+  {
+    title: 'Sadalpur kshetra ke gramon (Sarvania sahit) me Rs 10 lakh ki CC sadak ka bhumi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Free Press Journal',
+    date: '2025-04',
+    sourceUrl: 'https://www.freepressjournal.in/indore/mla-shekhawat-performs-bhoomi-pujan-of-two-roads-in-badnawar',
+    note: 'Stage: shilanyas/bhumi-pujan — Sadalpur kshetra ke gramon me (Sarvania ka naam) Rs 10 lakh ki CC sadak ka bhumi-pujan; vidhayak ne daure me Sant Raidas ki pratima par malyarpan kiya. Article me fund source nahi bataya gaya; koi sanction order number nahi. Status: kaam shuru (bhumi-pujan stage).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khacharoda gaon me Rs 6 lakh ki CC sadak ka bhumi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Free Press Journal',
+    date: '2025-04',
+    sourceUrl: 'https://www.freepressjournal.in/indore/mla-shekhawat-performs-bhoomi-pujan-of-two-roads-in-badnawar',
+    note: 'Stage: shilanyas/bhumi-pujan — Badnawar kshetra ke Khacharoda gaon me Rs 6 lakh ki CC sadak ka bhumi-pujan. Article me fund source nahi bataya gaya; koi sanction order number nahi. Status: kaam shuru (bhumi-pujan stage).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mundla gaon me Rs 4 lakh ke vidyut transformer ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Free Press Journal',
+    date: '2025-04',
+    sourceUrl: 'https://www.freepressjournal.in/indore/mla-shekhawat-performs-bhoomi-pujan-of-two-roads-in-badnawar',
+    note: 'Stage: poora hua / lokarpan — Mundla gaon me Rs 4 lakh ka transformer lagakar vidhayak ne udghatan kiya. Article me fund source nahi bataya gaya. Status: poora aur lokarpit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak-nidhi se Badnawar chaupatiyon par yatri pratikshalaya ka nirman (poora)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Satya Grah Live',
+    date: '2024-11',
+    sourceUrl: 'https://www.satyagrahlive.com/main-news/%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a5%a4-%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%b6%e0%a5%87%e0%a4%96%e0%a4%be%e0%a4%b5%e0%a4%a4-%e0%a4%95%e0%a5%87-%e0%a4%ab%e0%a5%8b%e0%a4%9f/',
+    note: 'Stage: poora hua kaam — VIDHAYAK-NIDHI (MLA fund) se Badnawar ki Badi Chaupati par yatri pratikshalaya bana; article me Chhokla, Semlia, Kalora, Bhesola chaupatiyon par bhi pratikshalaya ka zikr hai. Ye khabar pratidvandiyon dwara in pratikshalayon par lagi vidhayak ki tasveer virupit karne ki report se saamne aayi (is ghatna me vidhayak peedit the, aaropi nahi). Chhota local portal (Satya Grah Live) — disclosure. Tithi lagbhag (~Nov 2024, page metadata ke anusaar).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (bhanwarsingh-shekhawat-babu-ji):
+// - FPJ usi article me: Satkui Dham (Babarda) Shiv mandir ke liye Rs 9.5 lakh shed fund + Rs 10 lakh dharmik karyon ki ghoshna — sirf ghoshna, sanction/work-order saboot nahi → reject.
+// - FPJ usi article me: Kandaria prastavit hospital ke liye tehsildar/housing board ko zameen-aawantan ke nirdesh — sirf nirikshan/nirdesh, kaam nahi → reject.
+// - Atulya Bharat Chetna (Oct 2026): collector-meeting ke vishay (sukha ghoshna, doctor posting, Sadalpur/Kesur/Bijur pani, sadak swikriti, tubewell, district court waiting room vidhayak-nidhi se) — sab sirf maang/prastav/vishay uthana, pakki swikriti nahi → reject.
+// - FPJ 'Shekhawat Raises Farmers And Tribal Land Issues' (~Jun 2026): khad + PM MITRA zameen-adhigrahan par sarkar ko patra — sirf patr-vyavahar → reject.
+// - YouTube (Satyam): Gondikheda talab sthal-nirikshan + Paikunda vidhayak-nidhi shed lokarpan — YouTube-only source, niyam par reject.
+// - Chunav/campaign pieces (The Hindu, newsdrum, IndiaTV, Amar Ujala Sep 2023, Patrika, newsd.in, thesootr): campaign vaade / pre-Dec 2023 → reject.
+// - hindi.news18.com Karam dam (Aug 2022): pre-2023 siyasat → reject.
+// - nationpress.com Beawar classrooms + firstindia.co.in Jodhpur waterlogging: Gajendra Singh Shekhawat — galat vyakti → reject.
+// - Zee News statue (Sikar ke shaheed Bhanwar Singh Shekhawat): galat vyakti → reject.
+// - public.app 'Babuji Premier League 2' cricket event: public.app-only source + khel event, vikas-kaam nahi → reject.
+// - Negative entries: koi nahi — 2013 Apex Bank loan-settlement case me current case status + vidhayak ka jawab record par nahi; satyagrahlive ghatna me vidhayak peedit the, aaropi nahi.
+
+// REJECT-LOG (Dhar district batch, researched 2026-10-14) — kul 55+ items; vistarit log har MLA block ke saath upar:
+// - Pratap Grewal: 10 (mantri-lokarpan me sirf maujoodgi, maang/gyapan, prastav, video-only, public.app-only bina GO)
+// - Umang Singhar: 9 (LoP state-level siyasat, pre-term dawe, personal charity, YouTube-only, bina FIR wala aarop)
+// - Surendra Singh Honey: 9 (public.app-only, sirf maang/protest, rajya pariyojna bina MLA bhoomika, pre-2023 dawa, parivar case, sirf maujoodgi)
+// - Hiralal Alawa: 10 (pre-Dec 2023 works, sirf nirikshan, press-ghoshna bina sanction saboot, bina-jawab wala FIR negative, YouTube-only, future promises)
+// - Kalusingh Thakur: 10 (raajnaitik vivaad, honey-trap, bina-FIR assault dispute, YouTube-only, pre-2023, verify na ho saka short-link)
+// - Neena Vikram Verma: 14 (sirf upasthiti x8, CSR ribbon-cut, YouTube-only, unverifiable broken-slug story, party/parivarik khabrein)
+// - Bhanwarsingh Shekhawat: 17 (ghoshna bina sanction, nirdesh/nirakshan, patr-vyavahar, YouTube-only, pre-2023, galat vyakti x2, public.app-only)
