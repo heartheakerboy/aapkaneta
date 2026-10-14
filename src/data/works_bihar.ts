@@ -1576,3 +1576,165 @@ biharWorks['babulal-shorya'] = [
 // 11. Election result stories (Jagran, NBT, Indian Express, FE, DNA) — chunav coverage, karya ki khabar nahi.
 
 // Coordinator QA note (Khagaria district batch, researched 2026-10-14): 4 parallel workers (1 per MLA); charon fragments coordinator ne khud padhkar QA kiya. COORDINATOR FIX 1 — babulal-shorya ki entry English me likhi thi (title + description); srot-tathya aparivartit rakhte hue Roman-Hinglish me convert ki. COORDINATOR FIX 2 — panna-lal-singh-patel entry-3 ki tithi article me saptah-day/crawl-date cross-check se est. thi — description me disclosure joda. COORDINATOR FIX 3 — bablu-kumar entries me Koshi Express News / News Bihar 18 / Live Khagaria ke liye "(sthaniya portal)" disclosure joda; entry-6 (BUIDCO drainage swikriti) me "Shrey sirf mudda uthane/pahal tak — swikriti BUIDCO ki" ka credit-pardarshita note joda. Panna entry-2 ka pre-term shilanyas (5 saal purana) + vartaman lokarpan wala disclosure birendra-singh-bihar precedent par rakha (son-bridge pattern). Bablu entry-3 (nijee kosh pipa pul) rahul-kumar-singh-buxar (personal-fund road repair) precedent par rakha. Sabhi 4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 73 -> 83 (+10).
+
+// ---- Kishanganj district batch (researched 2026-10-14) ----
+// Kishanganj batch A: Md Tauseef Alam (Bahadurganj AC-52, AIMIM) + Gopal Kumar Agarwal (Thakurganj AC-53, JD(U)).
+// Karyakaal: Nov 2025 ke baad ke kaam hi eligible; period har entry me '2025-2030'.
+// Research date: 14 Oct 2026. Dono profiles me qualifying entries mili:
+// Tauseef Alam: 4 entries (3 shilanyas + 1 lokarpan); Gopal Kumar Agarwal: 4 entries (2 shilanyas + 2 lokarpan).
+// Jin articles par print tithi nahi thi, date search-engine last-updated + article me likhe vaar ke aadhar par (est.) li hai — description me disclose hai.
+
+biharWorks['md-tauseef-alam'] = [
+  {
+    title: 'Jhunki aur Haribhasha Plus-Two school me ACS bhavan nirman ka shilanyas MLA Md Tauseef Alam ne kiya',
+    category: 'School',
+    stage: 'shilanyas',
+    date: '2026-09-14',
+    description: 'Bihar Shiksha Pariyojana Parishad ki yojna ke tahat Tedhagachh prakhand ke Matiyari panchayat ke Jhunki Plus-Two school aur Bahadurganj prakhand ke Durgapur panchayat ke Haribhasha Plus-Two school parisar me ACS bhavan nirman ka shilanyas Bahadurganj vidhayak Md Tauseef Alam ne kiya; vidhayak ne kaha ki grameen schools me bhavan, kaksha, shauchalay jaisi buniyadi suvidhaon ka vistaar sarkar ki prathamikta hai aur gunvattapoorn nirman samay par poora ho. Stage: shilanyas. Disclosure: article par print tithi nahi thi; search-engine last-updated ke aadhar par 2026-09-14 (est.) maani hai. Yeh Bihar Shiksha Pariyojana Parishad ki vibhagiya yojna hai — vidhayak ki swikriti-stariya bhoomika ka dastavezi saboot article me nahi hai; shilanyas ke charan me unki kendriya bhoomika ke karan entry rakhi hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/kishanganj/story-construction-of-acs-buildings-launched-in-bihar-schools-201789325125690.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Tedhagachh ke Bibiganj gaon me RRSMP yojna ke tahat sadak nirman ka shilanyas MLA Md Tauseef Alam ne kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-24',
+    description: 'Tedhagachh prakhand ki Kalpeer panchayat ke Bibiganj gaon me RRSMP yojna ke tahat Bibiganj Haat se Bibiganj Naya Tola tak sadak nirman karya ka shilanyas Bahadurganj vidhayak Md Tauseef Alam ne shilapatt ka anavaran karke kiya; grameenon ne bataya ki barish me keechad aur jaljamaav se aavaagaman mushkil hota tha aur sadak banne se school, bazaar aur swasthya sevaon tak pahunch aasaan hogi. Stage: shilanyas. Disclosure: article par print tithi nahi thi; article me "Shanivar ko" aur search-engine last-updated ke aadhar par 2026-01-24 (Shanivar) est. maani hai. Yeh sthaniya portal ki reporting hai.',
+    source: 'News Lemonchoose',
+    sourceUrl: 'https://newslemonchoose.com/archives/104666',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Tedhagachh me paanch grameen sadakon ka shilanyas MLA Md Tauseef Alam ne kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-18',
+    description: 'Bahadurganj vidhayak Md Tauseef Alam ne Tedhagachh me paanch grameen sadakon — Kuwadi se Kast Kharra, Kuwadi se Purandha, Bhagkajleta-Bharbhari Kuwadi marg aur Bharbhari se Fulwadi Harijan Tola tak — ka shilanyas kiya; grameenon ne bataya ki jareej sadakon ki wajah se barish me aavaagaman mushkil hota tha aur sadakon ke nirman ki swikriti par unhone vidhayak ka aabhaar jataya. Stage: shilanyas. Disclosure: article par print tithi nahi thi; article me "Ravivar ko" aur search-engine last-updated ke aadhar par 2026-01-18 (Ravivar) est. maani hai. Article me lagat ka aankda nahi diya gaya tha. Yeh sthaniya portal ki reporting hai.',
+    source: 'News Lemonchoose',
+    sourceUrl: 'https://newslemonchoose.com/archives/104422',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bahadurganj bus terminal par selfie point ka lokarpan MLA Md Tauseef Alam ne kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-01-26',
+    description: 'Nagar Panchayat Bahadurganj ke saundaryikaran ke tahat Swatantrata Senani Jahan Ali Mastan Bus Terminal ke LRPI Chowk par bane selfie point ka udghatan Gantantra Divas 2026 ki shaam ko sthaniya vidhayak Md Tauseef Alam ne kiya; "I love Bahadurganj" digital light display board, jagmagati light aur bahte jharne ke paani wale is selfie point par lakho rupaye ki lagat aayi hai. Stage: lokarpan. Disclosure: udghatan ki tithi article me "vigat Gantantra Divas ki shaam" likhi hai — 2026-01-26 maani hai; print tithi 2026-01-31 hai. Yeh nagar panchayat ki saundaryikaran yojna hai — vidhayak udghatan ke charan me kendriya bhoomika me the.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/kishanganj/story-bahadurganj-s-new-selfie-point-enhances-city-beauty-and-heritage-201769803480678.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (md-tauseef-alam):
+// 1. public.app (Jan 4, 2026) — Murmala Chowk RCC pul nirman shilanyas — public.app-only, reject.
+// 2. YouTube shorts (~Jan 2026) — "AIMIM vidhayak Tauseef Alam ne sabse pehle shilanyas ka kaam chalu" — YouTube-only, reject.
+// 3. YouTube shorts — Matiyari ghat par pul nirman ki maang (vidhansabha bayan) — YouTube-only + sirf maang, reject.
+// 4. LiveHindustan (~Jan 2026) — Bahadurganj sadak chaudaikaran (registry office/jhansi rani chowk) atikraman vivad — MLA ne sirf sangyan liya aur spot visit kiya, vidhansabha me uthane ka aashwasan diya — sirf sangyan/bayan, koi kaam nahi, reject.
+// 5. Zee News (~2012) — Congress MLA ke roop me chachari pul dhahne se nadi me girne ki khabar — karyakaal-se-pehle, reject.
+// 6. Patna Press (Oct 2025) — nomination me biryani/scuffle + "Rs 1.17 crore sadak fund misuse" ka aarop — election-coverage; virodhi-candidate ka political aarop, FIR/case nahi, reject.
+// 7. Amar Ujala (4 Nov 2025) — MCC ullanghan FIR 429/25 (Tejashwi par vivadit bayan) — pre-term campaign-period FIR, chunav-se-pehle ka maamla, karyakaal ka kaam nahi, reject.
+// 8. Amar Ujala (20 Nov 2025) — nomination affidavit me jankari chhipane ka aarop (Asif Akram ki shikayat, janch ki maang) — sirf shikayat, FIR/case nahi, virodhi ki shikayat-bina-karyavahi = reject.
+// 9. Koi qualifying negative reporting nahi mili.
+
+biharWorks['gopal-kumar-agarwal'] = [
+  {
+    title: 'Thakurganj me Rs 6.12 crore ki do sadak-pul pariyojnaon ka udghatan MLA Gopal Kumar Agarwal ne kiya',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-02-09',
+    description: 'Mukhyamantri Gram Sampark Yojna (Avashesh) ke tahat Gramin Karya Vibhag, Karya Pramandal-2 Kishanganj dwara taiyar do pariyojnaon ka udghatan Thakurganj vidhayak Gopal Kumar Agarwal ne kiya — Pateshari panchayat me PMGSY road Basnwadi se Nayavasti tak 1 km sadak (lagat Rs 1.12 crore, nirman poorn) aur Thakurganj-Kharudaha marg par Nankar se Adivasi Tola tak 1.50 km sadak ke saath high-level bridge (lagat Rs 5 crore), jisse barish me chachari pul bahne ki samasya khatm hogi. Stage: lokarpan (nirman poorn). Disclosure: yeh vibhagiya yojna hai — vidhayak ki swikriti-stariya bhoomika ka dastavezi saboot article me nahi hai; udghatan ke charan me unki kendriya bhoomika ke karan entry rakhi hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/kishanganj/story-inauguration-of-key-road-and-bridge-projects-in-thakurganj-for-improved-rural-connectivity-201770575565379.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Thakurganj ke Kukurbaghi panchayat me Rs 4.48 crore ki 3.47 km sadak ka shilanyas MLA Gopal Kumar Agarwal ne kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-25',
+    description: 'Mukhyamantri Gram Sadak Yojna ke tahat Thakurganj prakhand ke Kukurbaghi panchayat me Basandubi se Jhoragachh tak 3.47 km pakki sadak (kalvert sahit, lagat Rs 4.48 crore) ka shilanyas vidhayak Gopal Kumar Agarwal ne kiya; vidhayak ne kaha ki yeh unke karyakaal ki pehli pariyojna hai jo chunavi vaade ke anusaar sabse adhik matdaan wali panchayat se shuru hui. Stage: shilanyas. Disclosure: article ki print tithi 2026-01-26 hai, karyakram "Ravivar ko" hua tha — 2026-01-25 maani hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/kishanganj/story-groundbreaking-ceremony-for-3-47-km-road-under-chief-minister-s-village-road-scheme-201769447510897.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Thakurganj ke Pateshwari school me naye bhavan ka shilanyas MLA Gopal Kumar Agarwal ne kiya',
+    category: 'School',
+    stage: 'shilanyas',
+    date: '2026-01-15',
+    description: 'Thakurganj me Uchch Madhyamik Vidyalaya Pateshwari parisar me naye school bhavan ke nirman ka shilanyas vidhayak Gopal Kumar Agarwal ne kiya; samaroh me prakhand shiksha padadhikari, jila parishad sadasya pratinidhi, mukhiya pratinidhi aur sainkdon grameen maujood rahe. Stage: shilanyas. Disclosure: article ki print tithi 2026-01-16 hai, karyakram "Guruvar ko" hua tha — 2026-01-15 maani hai. Article me bhavan ki lagat ka aankda nahi diya gaya tha.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/kishanganj/story-mla-gopal-agrawal-lays-foundation-stone-for-new-school-building-in-thakurganj-201768503755198.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Thakurganj ki Bandarjhoola panchayat me Panchayat Sarkar Bhavan ka udghatan MLA Gopal Kumar Agarwal ne kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-08-05',
+    description: 'Thakurganj prakhand ki Bandarjhoola panchayat me karodon rupaye ki lagat se bane navnirmit Panchayat Sarkar Bhavan ka udghatan vidhayak Gopal Kumar Agarwal ne feeta katkar kiya; bhavan me RTPS counter, halka karmchari, lok shikayat nivaran jaise prashasanik kaam ek hi chhat ke neeche chalenge, jisse jaati, niwas, pension jaise kaamon ke liye prakhand mukhyalaya nahi jana padega. Stage: lokarpan. Disclosure: yeh sthaniya portal ki reporting hai; article me "Budhvar ko" likha hai aur publication tithi 2026-08-05 (Budhvar) hai. Usi samaroh ki doosre sthaniya portal (kewalsachlive.in) ne bhi pushti ki hai.',
+    source: 'Taza Patrika',
+    sourceUrl: 'https://tazapatrika.in/bandarjhula-panchayat-sarkar-bhawan-inaugurated-by-mla-gopal-kumar-agrawal/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (gopal-kumar-agarwal):
+// 1. LiveHindustan (27 Aug 2025) — Thakurganj Nagar Panchayat me 3+ crore yojnaon ka shilanyas (Samrat Ashok Bhavan vidhayak ne kiya) — pre-Nov 2025, karyakaal-se-pehle, reject.
+// 2. LiveHindustan (Dec 2025) — Thakurganj nagrik abhinandan samaroh me waade: medical college aur Palsa pul ka "shilanyas CM se karwa lunga" — sirf waada/maang, reject.
+// 3. cityhalchal.in (Jul 2026) — FB par aapattijanak tippani/dhamki par MLA ne khud FIR darj karayi (Thakurganj PS 231/26) — MLA khud shikayatkarta, unpar koi aarop nahi, reject.
+// 4. mybhagalpur.com (Sep 2026) — MA Azad National Degree College principal ko show-cause — college tadarth samiti ki prashasanik karyavahi, MLA par koi aarop nahi, reject.
+// 5. Zee News (16 May 2026) — Shershahbadi Muslimon ko "Bangladeshi" karne ka vivad: sangathanon ne DM ko gyapan diya, CM ko patra — sirf gyapan/maang, FIR/case nahi, virodhi ki shikayat-bina-karyavahi = reject.
+// 6. Koi qualifying negative reporting nahi mili.
+
+// Kishanganj district batch B (researched 2026-10-14) — Md. Qamrul Hoda (Kishanganj AC-54, INC) + Md Sarwar Alam (Kochadhaman AC-55, AIMIM)
+// Sirf Nov 2025+ karyakaal. Qamrul Hoda 2019-2020 me bhi MLA rahe the (AIMIM) — purane karyakaal ka kaam shaamil nahi.
+
+biharWorks['md-qamrul-hoda'] = [
+  {
+    title: 'Pothia block ki Raipur aur Chhatargachh panchayaton me do sadkon ke nirman ka shilanyas, MP Dr Javed Azad ke saath',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-25',
+    description: 'Pothia prakhand ki Raipur aur Chhatargachh panchayaton me alag-alag do sthanon par aayojit shilanyas samaroh me sansad Dr Javed Azad aur Kishanganj vidhayak Kamrul Hoda ne do sadkon ke nirman ka feeta katkar shilanyas kiya; Raipur panchayat me RCD ki 2.07 km lambi Dhomaniayan sadak (lagat Rs 2.19 crore) aur Chhatargachh panchayat me Nanhakudi se Singhimaari tak 2.50 km sadak ki aadhaarshila rakhi gayi — dusri sadak ki lagat article me Rs 2.84 lakh likhi hai jo 2.50 km ke liye asamanya roop se kam hai, sambhavit misprint, isliye yathavat ullekh hai. Pothia prakhand Kishanganj vidhansabha kshetra ka hissa hai; karyakram me vidhayak pratinidhi Idu Hussain sahit sthaniya janpratinidhi maujood the. (Live Hindustan ki khabar 26 Jan 2026 ko prakashit hui, karyakram Ravivar 25 Jan 2026 ko hua tha — date wahi maani gayi hai.)',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/kishanganj/story-foundation-stone-laid-for-new-roads-in-pothia-by-mp-dr-javed-azad-and-mla-kamrul-hoda-201769447521580.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (md-qamrul-hoda):
+// 1. Live Hindustan 14 Jan 2026 — Bhediadangi me Tauheed Driving Training School ka udghatan (DM Vishal Raj + MLA ne feeta kata) — niji Tauheed Educational Trust ka sansthan; sarkari yojana/kaam nahi; vidhayak sirf mukhya atithi, reject.
+// 2. Live Hindustan ~Mar 2026 — Pothia me aandhi-ola se fasal nuksan par vidhayak ka daura, muavza dilane ka aashwasan — sirf daura + aashwasan, koi kaam nahi, reject.
+// 3. Amar Ujala 21 Aug 2025 — RJD jila adhyaksh pad + party se istifa — pre-term political khabar, kaam nahi, reject.
+// 4. News18 Hindi 12 Jan 2026 — Congress dahi-chuda bhoj me 6 vidhayakon ka na pahunchna — political khabar, kaam nahi, reject.
+// 5. ZeeNews/DNA/TOI/ABP Nov 2025 — chunav parinam coverage — election news, kaam nahi, reject.
+// 6. Naam-savdhani: Qamrul Hoda 2019-2020 (AIMIM, upchunav) me bhi Kishanganj MLA the — us karyakaal ki koi khabar shaamil nahi ki gayi; hum-naam galat vyakti ki khabar nahi mili.
+
+
+biharWorks['md-sarwar-alam'] = [];
+
+// REJECT-LOG (md-sarwar-alam): profile KHAALI raha — qualifying entry koi nahi mili.
+// 1. newslemonchoose Sep 2026 — Purandaha panchayat ke Kochgarh uchch madhyamik vidyalaya me ACR bhavan nirman ka shilanyas (vidhayak ne feeta kata; Bihar Shiksha Pariyojana Parishad ke tahat) — page kholne par upstream fetch timeout aaya aur dobara kholna mana tha; snippet se entry banana niyam ke khilaf; koi dusra text source nahi mila — source padha nahi ja saka, reject. (Page baad me khule to dobara verify karke joda ja sakta hai.)
+// 2. newslemonchoose ~May 2026 — Dhanpura uchch madhyamik vidyalaya me ICT lab + computer kaksh ka udghatan — search result ka URL hi uplabdh nahi tha (live check me unavailable), kholna sambhav nahi, reject.
+// 3. YouTube — Haldikhoda panchayat bhavan ka udghatan 24 May 2026 (Sarwar Alam + Akhtarul Iman mukhya atithi) — YouTube-only source, reject.
+// 4. YouTube — Dhanpura degree college ka udghatan (vidhayak mukhya atithi) — YouTube-only source, reject.
+// 5. Live Hindustan ~Jul 2026 — Alta (Kochadhaman) me model school ka shubharambh — vidhayak ANUPASTHIT the (pratinidhi Shahbaz Alam gaye the); sarkari karyakram me vidhayak ki koi bhoomika nahi, reject.
+// 6. Patna Press 8 Dec 2025 — teen AIMIM vidhayakon (Akhtarul Iman, Murshid Alam, Sarwar Alam) ki CM Nitish Kumar se mulakat: Kochadhaman/Bahadurganj me Army base nirman par apatti + nadi katav ka mudda — sirf maang/virodh, reject.
+// 7. YouTube (AIMIM channel) — vidhansabha me Kochadhaman ke jarjar schoolon ki turant marammat ki maang — sirf maang + YouTube-only, reject.
+// 8. Live Hindustan Sep 2025 — Kochadhaman seat ka election-dynamics article — pre-term, kaam nahi, reject.
+// 9. Prabhat Khabar 1 Jun 2025 — Haldikhoda me PCC sadak udghatan + madrasa bhavan shilanyas — purane vidhayak Haji Izhar Asfi ka kaam, pre-term, reject. (Naam-savdhani: is khabar me "Sarwar Alam ke ghar tak" sirf landmark reference tha — galat attribution ka khatra tha.)
+// 10. Negative: current karyakaal me established media me vidhayak ke khilaf aarop-FIR-janch wali koi reporting nahi mili.
+
+// Coordinator QA note (Kishanganj district batch, researched 2026-10-14): 2 parallel workers (2 MLA each); fragments coordinator ne khud padhkar QA kiya. Tauseef Alam #4 (selfie point) lokarpan real sarkari-kaam udghatan hai (Live Hindustan post-event) — rakha gaya, NP-saundaryikaran fund disclosure ke saath. Tauseef #2/#3 aur Gopal #4 sthaniya portal disclosures description me hain. Qamrul Hoda entry sanyukt shilanyas (MP Javed Azad) — shreya sajha, rahul-kumar-bihar precedent; Rs 2.84 lakh wali lagat sambhavit misprint, yathavat ullekh + disclose. Sarwar Alam KHAALI — sabse majboot lead ka source page khul hi nahi saka (timeout), snippet-se-entry rule par reject; baad me khule to retry lead. Sabhi 4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 83 -> 92 (+9).
