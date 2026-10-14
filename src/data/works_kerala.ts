@@ -1185,3 +1185,151 @@ keralaWorks['b-b-gopakumar'] = [];
 // Negative screen: 11/11 par clean (May 2026+ me koi established FIR/case/adalaati-janch reporting nahi).
 // FOUNDATION-DATA FLAG (parent ke liye): Kollam jile ke 3 MLA vartaman Cabinet Ministers hain — shibu-baby-john (Forests & Wildlife, Skill Development, Employment, Cashew Industry), p-c-vishnunadh (Tourism, Cinema & Culture), adv-bindhu-krishna (Labour, Women & Child Development) — kerala.ts me inke minister roles/electionNotes verify karne chahiye.
 // Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; field order exact; period '2026-2031' kept entry me; reject-logs Roman Hinglish.
+// ---- Kottayam district batch (researched 2026-10-14) ----
+
+keralaWorks['mani-c-kappen'] = [
+  {
+    title: 'Mumbai court ne 1 Sep 2026 ko chaar cheque-bounce mamalon me Pala MLA Mani C Kappen ko doshi qarar diya — kul 3.5 saal ki sazaa aur Rs 5.30 crore ka jurmaana; Kerala High Court ne 2 Oct ko Speaker ko ayogyata par niyam-anusaar faisla lene ka nirdesh diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 02 Oct 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/hc-directs-assembly-speaker-to-decide-on-disqualification-of-mla-mani-c-kappan/article71533922.ece',
+    date: '2026-09-01',
+    note: 'Additional Metropolitan Magistrate, Borivali, Mumbai ne 1 Sep 2026 ko Negotiable Instruments Act ki dhara 138 ke tahat chaar cheque-bounce mamalon me Pala MLA Mani C Kappen ko doshi qarar diya: teen mamalon me 1-1 saal aur chauthe me 6 mahine ki sazaa — kul 3.5 saal — aur kul Rs 5.30 crore ka jurmaana/muavza; adalat ne sazaa ke execution ke liye non-bailable warrant bhi jaari karne ka nirdesh diya. Shikayat-karta Mumbai ke vyapari Dinesh Menon ka aarop hai ki Kappen ne 2019 me Kannur International Airport ke shares dilane ke naam par Rs 3.25-3.5 crore thage. Kappen ka jawab: case rajnetik rup se prerit hai, ve appeal karenge, aur har sazaa 2 saal se kam hone se RP Act 1951 ki ayogyata-threshold lagu nahi hoti (New Indian Express, 2 Sep 2026). Menon ne Kerala High Court me ayogyata-yachika dakhil ki (unka tark: kul sazaa 2-saal ki threshold se zyada hai, isliye automatic ayogyata); 2 Oct 2026 ko High Court ne Speaker ko niyam-anusaar faisla lene ka nirdesh diya, Speaker ne Advocate General se salah mangi — faisla lambit hai (The Hindu, 12 Sep 2026; Mathrubhumi English, 15 Sep 2026). Dhyan rahe: ye dosh-siddhi hai (sirf aarop nahi), lekin appeal aur ayogyata dono ke faisle lambit hain.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (mani-c-kappen, scope: May 2026+, Pala AC)
+// 1. Chunav jeet / matdaan reporting — entry nahi. Onmanorama (4 May 2026) aur ETV Bharat (4 May 2026): Independent ke roop me 2,991 maton se jeet, 50,799 votes. Chunav parinaam works criteria nahi milta.
+// 2. Feb 2026 me Kappen ka Rs 462 crore / Rs 80 crore vikas-daava (New Indian Express, 15 Feb 2021 archive; PTI, 7 Feb 2026) — pre-term (May 2026 se pehle) + rajnetik daava bina sanction/work-order saboot ke. Reject.
+// 3. KSRTC terminal, K.M. Mani bypass, Pala government school building credit-vivad (The Hindu, purani reporting, ~2021) — pre-term aur credit vivadit. Reject.
+// 4. K.M. Mani Memorial Government General Hospital Rs 25 crore budget allocation (The Hindu, pre-election budget 2026) — sarkari budget allocation hai, MLA ki bhoomika saaf nahi, pre-term context. Entry nahi.
+// 5. May-Oct 2026 avadhi me established English media (Onmanorama, Mathrubhumi English, The Hindu, New Indian Express, Times of India, The News Minute, ETV Bharat) me Kappen dwara Pala me kisi sarkari suvidha ke lokarpan/shilanyas/swikriti ki koi post-event reporting NAHI mili. Sabha ke bharosha ke khatam hone aur Sep 2026 cheque-case sazaa ke baad unki khabar rajnetik-qanooni roop me hai, vikas-karya roop me nahi.
+// 6. NEGATIVE SCREEN — CASE STATUS: 1 Sep 2026 ko Additional Metropolitan Magistrate, Borivali, Mumbai ne Negotiable Instruments Act Section 138 ke 4 cheque-bounce mamalon me Kappen ko doshi thehraya: kul 3.5 saal qaid (teen mamalon me 1-1 saal, chauthe me 6 mahine) + Rs 5.30 crore tak muavza (Rs 1.20cr + Rs 1.70cr + Rs 1.70cr + Rs 70 lakh). Shikayat-karta: Mumbai ke vyapari Dinesh Menon, jinka aarop hai Kappen ne 2019 me Kannur International Airport shares ke naam par Rs 3.25-3.5 crore thage. Sep 2026 me Menon ne Kerala High Court me ayogyata ki yachika (WP(C) 31188/2026) dakhil ki; 2 Oct 2026 ko High Court ne Speaker ko niyam-anusaar faisla lene ka nirdesh diya; Speaker ne Advocate General se salah mangi. Kappen ka jawab: case rajnetik rup se prerit, appeal karenge, har sazaa 2 saal se kam isliye RP Act 1951 ki ayogyata-threshold lagu nahi hoti. Faisla abhi Speaker/HC ke samne lambit hai. (Srot: The Hindu, The News Minute, LiveLaw, IANS)
+// 7. Pehla-term (2019-2026) ke kaam scope se bahar — sirf May 2026 ke baad ke kaam lene the.
+// (Coordinator note: item 6 — NEGATIVE SCREEN — isiliye entry me banaya gaya; details sourceUrl ke saath entry me darj.)
+
+keralaWorks['adv-mons-joseph'] = [];
+
+// REJECT-LOG (adv-mons-joseph, scope: May 2026+, Kaduthuruthy AC)
+// 1. AI-IKAM AI-literacy project launch, Kaduthuruthy, 7 Jun 2026 (UNI/uniindia.com; Kerala Kaumudi English, keralakaumudi.com; Metrovaartha English) - REJECT: Emmanuel Foundation (NGO) ka program tha; unhone minister ke roop me sirf udghatan kiya. Sarkari suvidha nahi, MLA fund/sanction ka saboot nahi, credit foundation ka.
+// 2. Kothanalloor railway overbridge (K-Rail), Kaduthuruthy AC, Onmanorama 24 Aug 2026 - REJECT: K-Rail + Centre/Railways ka joint project, kaam Centre ke agreement ke baad shuru; unki bhoomika sirf Water Resources Minister ke roop me ek review-direction quote ("K-Rail ko tez karne ka nirdesh"). Na lokarpan, na swikriti, na shilanyas.
+// 3. Kaduthuruthy town railway overbridge (Onmanorama 24 Aug 2026) - REJECT: sirf "approved", procedures progressing; unse joda koi sanction order/GO ya karyakram nahi.
+// 4. Kaduthuruthy town bypass YouTube videos - REJECT: established media nahi; project purana hai (LDF karyakaal me final phase), May 2026 ke baad ka koi event-report nahi.
+// 5. MLA-SDF tender listings (2021-22, 2024-25; tendersniper/tendershark/sigmatenders) - REJECT: pre-term + tender-aggregator listings.
+// 6. Kottayam barish-rahat review meeting, Mathrubhumi English 1 Aug 2026 - REJECT: aapda-raahat (explicitly excluded); district-in-charge ke roop me ministerial action, MLA work nahi.
+// 7. Kochi ke liye Rs 523 crore water treatment plant ki assembly me ghoshna, The Hindu 30 Jun 2026 - REJECT: Kaduthuruthy kshetra se bahar (Kochi/Ernakulam); ministerial portfolio statement.
+// 8. Election victory coverage (TOI/Indian Express/Oneindia/ABP, 4 May 2026) - REJECT: works nahi, sirf chunav parinaam.
+// 9. Negative screen: May 2026 ke baad unke khilaf koi FIR/case/adalaati janch ki established-media reporting NAHI mili. Note: 2026 chunav affidavit me 2 declared cases hain (2021 affidavit me bhi 2 the) - ye pre-term self-declared cases hain, post-May 2026 ka koi naya mamla nahi.
+
+keralaWorks['k-binimon'] = [];
+
+// REJECT-LOG (k-binimon, scope: May 2026+, Vaikom AC)
+// 1. AIIMS Kerala Velloor site possibility statement — Mathrubhumi English, 2 Oct 2026 (https://english.mathrubhumi.com/news/kerala/aiims-for-kerala-in-kottayam-velloor-could-be-a-possibility-says-mla-o48et1js): MLA ne sirf bayaan diya ki AIIMS Velloor (KPPL land) par aa sakta hai; land-use proposal Minister Anoop Jacob, MLA aur Peruva Janakeeya Prathikarana Vedi ne submit kiya tha — prastav/stage hai, koi sanction/GO/lokarpan nahi; antim faisla kendra sarkar ka. Reject: maang/bayaan, pakki swikriti nahi.
+// 2. Anti-drug half marathon flag-off — Onmanorama, 10 Oct 2026 (https://www.onmanorama.com/news/kerala/2026/10/10/visat-half-marathon-raises-voice-against-drug-abuse.html): Elanji VISAT College ki 'Thoofan' marathon ko MLA ne sirf hari jhandi dikhai; koi sarkari kaam/suvidha nahi. Reject: karyakram me maujoodgi.
+// 3. Election-result coverage (TOI 4 May 2026, Indian Express, Oneindia, Business Today, ABP Live 4 May 2026): chunav natija khabrein — koi kaam ki report nahi. Reject: chunav coverage.
+// 4. Pre-term check: affidavit (ADR/MyNeta) me 1 purana case darj hai — ye chunav ke pehle ka ghoshanapatra tathya hai, May 2026 ke baad ka koi FIR/case nahi. Negative screen: May 2026 ke baad unke khilaf koi FIR/case/adalaati janch ki established-media reporting nahi mili (News18 28 Nov 2025 wala sexual-assault case doosre Congress MLA ka hai — Nemom police station, Binimon se sambandh nahi).
+
+keralaWorks['nattakom-suresh'] = [];
+
+// REJECT-LOG (nattakom-suresh, scope: May 2026+, Ettumanoor AC)
+// 1. CFCICI Customer Facilitation Centre Reopening at Ettumanoor, 19-Aug-2026 (cfcici.co.in): MLA Nattakom Suresh ne reopening ceremony officiate ki — lekin CFCICI ek private financial institution ki branch hai, sarkari suvidha nahi. REJECT.
+// 2. Caritas Hospital mobile healthcare units launch, 06-Oct-2026 (apnades.in; khud khola gaya): Mobile Cardiology Unit, Bike Ambulance 2.0 aur Mobile Blood Donation Unit Caritas Hospital Trust aur South Indian Bank ki pahal thi; Suresh sirf function me maujood the, koi bhoomika nahi. REJECT (sirf maujoodgi, private initiative).
+// 3. The Hindu, 15-Sep-2026 (catering fraud): All Kerala Caterers Association ne licensed caterers ki suchi Ettumanur me Nattakom Suresh ko saunpi — sirf suchi ka handover, vikas kaam nahi. REJECT.
+// 4. Onmanorama "Key events", 06-Sep-2026: Nattakom Suresh MLA dwara "History and Epic Fundamental Research Foundation" ke public meeting/award presentation ka udghatan — pre-event listing, post-event reporting nahi; vikas kaam bhi nahi. REJECT.
+// 5. Mathrubhumi English, Kottayam skywalk article (~Jan 2024): Suresh DCC president ke roop me bayan de rahe the — karyakaal se pehle ka. REJECT (pre-term).
+// 6. The Hindu, Feb 2026 (Budget allocations, Kottayam): rice mill Ettumanoor Rs 10 crore, Kumarakom heliport Rs 5 crore — V. N. Vasavan ke prastav the, chunav se pehle ke. REJECT (pre-term, galat vyakti).
+// 7. Onmanorama school buildings article: Ettumanoor constituency me Rs 18.80 crore ke 10 school buildings — sanrakshan KIIFB/NABARD/plan fund se, CM Pinarayi Vijayan ne construction ka udghatan kiya; Nattakom Suresh ki bhoomika ka koi saboot nahi, aur khabar purani (article URL 2021 path wala) lagti hai. REJECT.
+// 8. Poojar bridge inauguration (The Print/PTI, 19-Sep-2026): Congress MLA Sebastian MJ ka karyakram — galat vyakti (Poojar, Nattakom Suresh nahi). REJECT.
+// 9. Eerayilkadavu bypass beautification (Onmanorama, Feb 2026): Thiruvanchoor Radhakrishnan (Kottayam AC) ka vishay, pre-term. REJECT.
+// 10. Makkekadavu-Nerekkadavu bridge inauguration (Onmanorama, Oct 2026): CM V. D. Satheesan dwara; Aroor/Vaikom kshetra — Ettumanoor AC ke bahar. REJECT.
+// 11. Chunav parinaam coverage (Onmanorama, TOI, Indian Express, The Hindu, May 2026): 64,077 votes se V. N. Vasavan ko 19,752 votes se haraya — election news, works nahi. REJECT.
+// NEGATIVE SCREEN: May 2026 ke baad Nattakom Suresh ke khilaf koi FIR/case/adalati janch ki established-media reporting nahi mili. "Suresh" naam wale case hits sab galat vyakti hain (Jambulingam Suresh Balaramapuram; Suresh Kallambalam; Pathanamthitta wala Suresh). ADR/MyNeta par chunavi halafname me 27 purane cases darj hain (2020-21 ke COVID/KEDO ullanghan, jurmana bhara gaya) — pre-term, disqualifying conviction nahi, naya mamla nahi. Profile imaandari se khaali.
+
+keralaWorks['thiruvanchoor-radhakrishnan'] = [
+  {
+    title: 'Kottayam skywalk ka punarnirmaan: 19 June 2026 ke Kerala budget me Rs 15 crore ki swikriti, Kottayam MLA Thiruvanchoor Radhakrishnan ka chunaav-vaada poora hua',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Hindu, 19 June 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/kerala-budget-kottayam-skywalk-returns-to-centre-stage-as-udf-clears-revival-plan/article71121731.ece',
+    date: '2026-06-19',
+    note: 'Kottayam ke Seematti roundabout par February 2016 me shuru hokar adhoora chhuta skywalk (45 metre span, six-metre-high pillars, lifts aur kiosks wala) dobara shuru karne ka faisla Kerala ke CM V. D. Satheesan ne 19 June 2026 ko Revised Budget me ghoshit kiya, jisme project ke liye Rs 15 crore earmarked hain (Speaker office ke bayan ke mutabik). The Hindu ne darj kiya ki ye ghoshna Kottayam MLA Thiruvanchoor Radhakrishnan ke chunaavi vaade ki poorti hai, jisme unhone UDF sarkar ki wapsi par project ko prathmikta dene ka vaada kiya tha. Credit-sachchai: fund Kerala sarkar ke budget (Road Safety Mission) se hai, unke vyaktigat MLA fund se nahi; September 2026 me unhone Speaker ke roop me nirmaan dobara shuru karne ki uchch-stariya baithak ki adhyakshata bhi ki thi, lekin unki vyaktigat MLA-bhoomika The Hindu ki reporting me chunaav-vaade ke roop me dastavezi hai. Stage ka sach: ye sirf budget swikriti hai, nirmaan poora hona ya lokarpan/shilanyas abhi nahi hua hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (thiruvanchoor-radhakrishnan, scope: May 2026+, Kottayam AC)
+// 1. Assembly ke Uralungal contracts scrap (Speaker ne Rs 7.5 crore dining hall modernisation sahit contracts cancel kiye) - Speaker ki sansthanik bhoomika, Kottayam seat se sambandhit kaam nahi - Onmanorama topic page, Oct 2026
+// 2. Vembanad lake flood project par assembly me Speaker ki query (CM V. D. Satheesan ka time-bound project ka aashwasan) - sirf sawal-aashwasan, 4 jilon ka bahu-jiliya mudda, koi swikriti/kaam nahi - PTI/The Print, 14 Oct 2026
+// 3. 'Gandhi Darshan 26' photo exhibition inauguration (Kottayam Baker Memorial Girls HSS, 1 Oct 2026) - Speaker ke roop me sanskritik karyakram ka udghatan, sarkari suvidha nahi - Onmanorama key events, 1 Oct 2026
+// 4. 'Bhavasudha' CBSE cultural festival valedictory (Vadavathoor, 1 Oct 2026) - Speaker ke roop me sanskritik karyakram me upasthiti - Onmanorama key events, 1 Oct 2026
+// 5. Pulse polio immunisation drive ka district-level inauguration (Kottayam District General Hospital, 28 June 2026) - Speaker ki sansthanik bhoomika se sarkari karyakram ka udghatan, kshetra-vikas kaam nahi - ACTP News/Onmanorama, 28 June 2026
+// 6. HPV vaccination campaign district inauguration (Feb 2026) - pre-term (Feb 2026) aur sansthanik bhoomika - Onmanorama key events, Feb 2026
+// 7. Tender aggregator listings: TenderShark (Civil Station-Union Club-Karapuzha road, LAC-ADS, bid deadline 29 Jan 2026) aur TendersOnTime (KM Varghese road, Ward 13, deadline 14 Oct 2025) - pre-term tender soochiyan, bina sanction/work-order/akhbari reporting - reject per rules
+// 8. Kottayam MCH ko Rs 283 crore ki suvidhayein (Feb 14, 2026) - pre-term; udghatan CM Pinarayi Vijayan ne kiya tha, unki vyaktigat bhoomika nahi - The Hindu, 14 Feb 2026
+// 9. Budget me anya Kottayam projects: Chingavanam Sports Complex revival, Kanjikuzhy flyover, Nehru Stadium renovation, road upgrades - Kottayam jile ke hain lekin Kottayam AC me hone ki pushti nahi aur unki vyaktigat MLA-bhoomika dastavezi nahi - The Hindu, 19 June 2026
+// 10. MLA fund se KSRTC buses kharidne ki rajya sarkar ki anumati (27 Sept 2026) - sabhi 140 MLAs ke liye aam yojna, unka vyaktigat udghatan/lokarpan nahi - Mathrubhumi English, 27 Sept 2026
+// 11. Poojar MLA Sebastian M J dwara Erumely-Amakunnu bridge udghatan (Sept 2026) - Kottayam jila lekin doosre MLA (Poojar AC) ka kaam - PTI/The Print, 19 Sept 2026
+// NEGATIVE SCREEN: 29 Jan 2026 ka 'digital arrest' scam call - wo khud peedit/shikayatkarta the (State Police Chief ko shikayat), unke khilaf koi FIR/case nahi; ADR ke mutabik unke khilaf zero criminal cases (May 2026 halafnama); May 2026 ke baad unke khilaf koi FIR/case/adalaati janch ki established-media reporting nahi mili.
+
+keralaWorks['adv-chandy-oommen'] = [];
+
+// REJECT-LOG (adv-chandy-oommen, scope: May 2026+, Puthuppally AC)
+// 1. Gramavandi village bus service inauguration (Onmanorama, 20 Aug 2026): report keval pre-event announcement hai — "will be officially inaugurated by Chandy Oommen MLA on 22 August" Njaliakuzhy me; 22 Aug ke baad ki koi post-event reporting nahi mili (do targeted searches, Onmanorama/Mathrubhumi/Hindu/Asianet). Niyam 2 (sirf post-event reporting) ke tahat entry nahi. Project bhi Kottayam District Panchayat ka tha (Rs 25 lakh unka fund, KSRTC ke saath), MLA ki bhoomika keval udghatak ki hoti — credit-transparency note ke liye bhi post-event saboot zaroori tha.
+// 2. Rs 79 lakh campaign savings charity ghoshna (Mathrubhumi English, 07 May 2026): Meet the Press me khud ghoshna — vyaktigat charity/housing ka vaada, pakki swikriti ya poora hua kaam nahi; ghoshna + aapda-raahat/vyaktigat welfare — reject.
+// 3. Sports hub, IT hub, international-standard stadium, second turf plans (Mathrubhumi English, 07 May 2026): "plans for sports and IT development", stadium "within two years" — keval "karenge" wali khabar, koi swikriti ya shilanyas nahi — reject.
+// 4. Chris Gayle ka Puthuppally daura (Onmanorama, 28 & 30 Aug 2026): MLA ne swagat kiya, Vennimala stadium-proposal site ka daura — sirf maujoodgi/welcome, proposed stadium bhi sirf vichar — reject.
+// 5. Mount Carmel HS Sports and Games Club inauguration (Onmanorama events listing, 29 June 2026): school ke club ka udghatan — sarkari suvidha nahi, aur ye events-listing hai, post-event report nahi — reject.
+// 6. Mini civil station memorial (Onmanorama, Jul 2025): 2017 me pita ke MLA-fund se Rs 1 crore ka kaam, pita ke naam par naamkaran — PITA KA TRAP + pre-term — reject.
+// 7. Oommen Chandy Health Insurance scheme (Mathrubhumi English, 19 Jun 2026): CM V. D. Satheesan ki budget ghoshna, pita ke naam par scheme — Chandy Oommen ka kaam nahi — reject.
+// 8. 48 houses (NIE/Mathrubhumi/PNI, Apr-May 2026): March/April 2026 tak poore hue (pre-term), Oommen Chandy Foundation ka charitable kaam — pre-term + vyaktigat welfare — reject.
+// 9. Rs 2 crore sports-development fund ka daava (Onmanorama interview, date unspecified): "about Rs 2 crore have been given to various institutions, but the government has not yet taken action" — sirf shikayat/maang, koi dastavezi swikriti saboot nahi — reject.
+// NEGATIVE SCREEN: May 2026 ke baad Chandy Oommen ke khilaf koi FIR/case/adalaati janch established media me NAHI mili. Sreekaryam police station case (The Hindu, July 2024, article68362699) pre-term hai — scope bahar. Solar-case reporting pita (Oommen Chandy) ke khilaf hai — trap, kabhi unpar nahi jodi. Negative screen SAAPH.
+
+keralaWorks['vinu-job-kuzhimannil'] = [];
+
+// REJECT-LOG (vinu-job-kuzhimannil, scope: May 2026+, Changanassery AC)
+// 1. Changanassery police station building inauguration — Onmanorama, 11 Aug 2025. REJECT: pre-term (Aug 2025, sarkar aur Vinu Job dono ka karyakaal 2026 se pehle); inauguration CM Pinarayi Vijayan ne ki, mukhya vakta tatkalin MLA Job Michael (KC-M) the; Vinu Job ki koi bhoomika nahi.
+// 2. KSRTC Changanassery depot Onam 2026 celebration — YouTube video description (~Aug 2026). REJECT: sanskritik samaroh ka udghatan; sarkari vikas karya nahi, koi suvidha ka lokarpan/shilanyas nahi, koi fund/sanction nahi.
+// 3. Thrikkodithanam district panchayat bypoll coverage — The Hindu (article71480910.ece) / Onmanorama, Sep 2026; TOI Kottayam byelections, Sep 2026. REJECT: Vinu Job ka sirf purva sadasya ke roop me zikr (seat khaali karne par); koi karya, sanotion ya udghatan nahi.
+// 4. Erumely-Amakunnu bridge inauguration, Poonjar — National Herald India, 18 Sep 2026. REJECT: galat-vyakti/galat-kshetra; ye Poonjar ke MLA Sebastian M.J. aur unke purvavarti Sebastian Kulathunkal ka maamla hai, Changanassery se bahar.
+// 5. Kerala Cong MLA M Vincent rape/stalking case — DNA India. REJECT: galat-vyakti; M Vincent Kovalam ke alag Kerala Congress MLA hain, Vinu Job Kuzhimannil se koi sambandh nahi; Vinu Job par aisa koi aarop reporting me nahi mila.
+// 6. Newly-elected MLA felicitation meeting, District Panchayat Hall Kottayam — Onmanorama "Key events", 8 May 2026. REJECT: sirf sammaan-samaroh; koi vikas karya nahi.
+// 7. Election win / exit poll / candidate affidavit coverage — TOI, Business Today, News18, India TV, The Hindu, May 2026. REJECT: pre-term election news; The Hindu/MyNeta affidavit ke mutabik Vinu Job par zero criminal cases (negative screen ke liye note, entry ke liye nahi).
+
+keralaWorks['rony-k-baby'] = [];
+
+// REJECT-LOG (rony-k-baby, scope: May 2026+, Kanjirappally AC)
+// 1. The Hindu, 27 Sep 2026 (khud khola) - "As Sabarimala season nears, agencies told to speed up key works": Rony K. Baby ne Kottayam jila vikas samiti me sirf Kanjirappally me sadak-marammat kaam poora karne ki MAANG uthayi. Koi swikriti, udghata ya poora hua kaam nahi - sirf maang/prastav, reject.
+// 2. Malayala Manorama (manoramaonline), 11 Oct 2026 (khud khola) - Kerala Federation of the Blind Kottayam jila 47vi sadharan-yog sammelan, Kanjirappally Petta Govt High School me; MLA ne sammelan ki public meeting ka udghata kiya. Ye sangathan/NGO ka karyakram hai, sarkari suvidha ka lokarpan nahi - reject.
+// 3. Kanjirappally Reporters, 25 Sep 2026 (khud khola, hyperlocal) - 11ve Rashtriya Ayurveda Diwas ke niyojak-mandal-stariya karyakram ka udghata Lourde Parish Hall Kanjirappally me. Din-manane ka karyakram-samarpan, koi suvidha ka lokarpan ya sarkari swikriti nahi - reject.
+// 4. Kanjirappally Reporters, 3 Oct 2026 (khud khola, hyperlocal) - "Shraddha" samagra swasthya dekhbhal karyakram ka udghata Chirakkadavu panchayat ward 7 me. Ye Kingdom of God Trust + St Dominic's College Economics Dept ka karyakram hai, panchayat ki sahmati ke saath - sarkari kaam/suvidha nahi, vyaktigat/community welfare by trust - reject.
+// 5. Kerala Kaumudi, 13 Oct 2026 (khud khola) - Manavodaya Pakalveedu ki 9vi varshik samaro ka udghata Thambalakkad me MLA ne kiya; nayi palliative care unit (Image Infosystems CSR, New Delhi) ka udghata Kanjirappally grama panchayat president Suni Joseph ne kiya. MLA ne suvidha ka lokarpan nahi kiya - sangathan karyakram, reject.
+// 6. Election-affidavit (The Hindu profile page + ADR via India TV, Mar 2026 chunav ghosna) - 13 lambit criminal cases ghoshit the, 0 gambheer prakriti ke. Ye sab karyakaal se pehle ke ghoshit cases hain; May 2026 ke baad unke khilaf koi FIR/case/adalaati janch ki established-media reporting nahi mili - negative screen CLEAN.
+
+
+keralaWorks['adv-sebastian-m-j'] = [
+  {
+    title: 'Erumely me Valiyathodu stream par naya Amakkunnu bridge poora hua — poorv MLA Sebastian Kulathunkal ke saath milkar lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Onmanorama, 19 Sep 2026',
+    sourceUrl: 'https://www.onmanorama.com/news/kerala/2026/09/19/erumely-amakkunnu-bridge-inauguration.html',
+    date: '2026-09-18',
+    note: '18 September 2026 ko Erumely (Poonjar) me Valiyathodu stream par naye Amakkunnu bridge ka sanyukt lokarpan hua — sitting MLA Adv. Sebastian M.J ne poorv MLA Sebastian Kulathunkal ko manch par bula kar unse udghatan karwaya. Bridge Vazhakkala aur Amakkunnu bastiyon ko jodta hai — 15.5-metre concrete structure, jisse 300 se zyada parivaron ka aana-jaana aur suraksha sudhri. Credit-transparency: bridge ka Rs 80 lakh Kulathunkal ke apne MLA Asset Development Fund se pehle swikrit hua tha (2018 ki baadh me purana bridge nasht ho gaya tha); nirmaan ka aakhri hissa aur lokarpan vartaman UDF karyakaal me hua. MLA ne apna naam smarak-pat se hatwa kar sirf "Poonjar MLA" likhwaya aur poora shre Kulathunkal ko diya.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (adv-sebastian-m-j, scope: May 2026+, Poonjar AC)
+// 1. Chunav-nateeja coverage (Mathrubhumi English, India TV, Indian Express, Oneindia, ETV Bharat — sab May 2026): sirf jeet aur profile story (56,900 vote, margin 6,693; 59 saal baad Congress ne seat jeeti) — kaam-khabar nahi, reject.
+// 2. CM ki taarif coverage (Deccan Chronicle, 20 Sep 2026 + TimelineDaily): CM V. D. Satheesan ne X post me bridge-inauguration gesture ki taarif ki — wahi bridge-khabar ka collateral, alag kaam nahi, reject.
+// 3. LSG Kerala tender notice (Kanjirappally subdivision, print 3 Jun 2026): MLA-SDF 2025-26, "Adv Sebastian Kulathunkal"-namit Koruthodu road concreting, Rs 5 lakh — poorv MLA ka project + tender-aggregator listing, reject.
+// 4. Halafnama criminal cases (The Hindu candidate profile, May 2026): 2 pending criminal cases (3 serious IPC counts) chunav se pehle ke declare — pre-term, reject.
+// NEGATIVE SCREEN (May 2026+): Kerala High Court me unki chunavi jeet ko chunoti dene wali DO election petitions hain — Abesh Alosious v Sebastian M.J Alias Saji Joseph (El.Pet 2/2026) aur Viji George v Adv. Sebastian M.J (El.Pet 9/2026) (filing no.), do constituency voters dwara dayar; Justice S. Manu ke samne ~3 Aug 2026 ko aayi, filing-defects door karne ka samay mila (Live Law, 3 Aug 2026; Bar & Bench). Ye adalaati chunavi-arji hai, FIR ya criminal case nahi; unka jawab established media me report nahi mila. Koi post-May-2026 FIR, giraftari ya jaanch ki reporting nahi mili.
+
+// COORDINATOR QA NOTE (Kottayam district batch, 2026-10-14): 9/9 workers completed, sabhi 9 fragments khud padhe — assignment format exact, har slug exactly once (append se pehle 0 matches — koi overwrite nahi), marker 1x; kul titles 8 -> 11 (+3). Kept: adv-sebastian-m-j (Poonjar) — Amakkunnu bridge lokarpan 18 Sep 2026, Onmanorama + PTI post-event reporting, full credit-disclosure (Rs 80 lakh poorv MLA Sebastian Kulathunkal ke MLA Asset Development Fund se swikrit; sitting MLA ne poora shre unhe diya); thiruvanchoor-radhakrishnan (Kottayam, Speaker) — 19 June 2026 Revised Budget me Rs 15 crore skywalk swikriti (The Hindu post-event reporting; swikriti standard met — established media me administrative sanction with specifics; full credit-disclosure: GoK budget/Road Safety Mission fund, sirf swikriti-stage); mani-c-kappen (Pala) — 1 NEGATIVE (coordinator ne khud verify kiya: The Hindu 2 Oct 2026 article kholkar + NIE/TNM/Marmathubhumi English corroboration): 1 Sep 2026 ko Borivali MM ne 4 NI Act 138 mamalon me dosh-siddhi — kul 3.5 saal + Rs 5.30 crore; Kappen ka jawab (rajnetik prerit, appeal) aur Menon ka ayogyata-tark dono darj; HC 2 Oct direction to Speaker, faisla lambit — stage: dosh-siddhi ho chuki, appeal/ayogyata lambit. 6 profiles imaandari se KHAALI: adv-mons-joseph (mantri-niyam sakht — Water Resources+Housing mantri ki coverage, Kaduthuruthy-specific MLA kaam nahi), adv-chandy-oommen (pita-trap sakht — Mini civil station memorial pita ka 2017 kaam, CM ki insurance ghoshna CM ka kaam; Gramavandi pre-event announcement me entry nahi bani — retry lead), nattakom-suresh (school buildings ka udghatan CM ne kiya tha, unki bhoomika ka saboot nahi), k-binimon (AIIMS statement sirf bayan/prastav-stage), vinu-job-kuzhimannil (M Vincent rape-case galat-vyakti trap pakda), rony-k-baby (Sabarimala road repair sirf maang). Speaker/Radhakrishnan ke 11 sansthanik rejects sahi; Sebastian ke election petitions (routine, FIR nahi) negative nahi bane. Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; entry objects me 0 comments; period '2026-2031' sabhi entries me; reject-logs Roman Hinglish.
