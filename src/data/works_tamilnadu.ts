@@ -2222,3 +2222,158 @@ tamilNaduWorks['manian-o-s'] = [
 // 18. 17th sabha ki karyavahi me Manian ki koi demand/bhashan/assurance ki post-May 2026 English news nahi mili; MLACDS sanction/work-order wali koi pakki khabar bhi nahi mili.
 
 // COORDINATOR QA NOTE (Nagapattinam, 15 Oct 2026): 3/3 MLA researched (3 parallel workers), teenon profiles imaandari se khaali (0 entries, 0 negatives — Jawahirullah 13 rejects incl. pre-term FCRA conviction isliye negative nahi, Latha T 7 rejects, Manian O.S 18 rejects minister-era/pre-term). Sabhi fragments Python-verified: 0 Devanagari/Tamil script, 0 Rs-symbol, 0 literal-\n; entry objects me 0 comments; teenon slugs append se pehle file me 0 matches the — koi overwrite nahi.
+
+// ---- Namakkal district batch (researched 2026-10-15) ----
+tamilNaduWorks['logesh-tamilselvan-d'] = [];
+
+// REJECT-LOG (Namakkal / Rasipuram — Logesh Tamilselvan D, TVK; karyakaal May 2026 se, ~5 mahine purana)
+// 1. TOI Namakkal — "Officials have been asked to do deed registrations with transparency: TN minister" — REJECT: sirf press statement + bhavishya ka vaada ("Many unsolvable problems of constituency will be resolved... Rasipuram will be developed as a prosperous constituency") — "karenge" khabar; koi concrete lokarpan/shilanyas/swikriti nahi; vibhagiya nirdesh minister ke roop me, kshetra-kaam nahi. (sourceUrl: https://timesofindia.indiatimes.com/city/coimbatore/officials-have-been-asked-to-do-deed-registrations-with-transparency-tn-minister/articleshow/131374706.cms — khud khola gaya)
+// 2. TOI Chennai — "Curbing corruption in Registration dept is first priority, says minister" — REJECT: state-level ministerial policy interview (online deed-registration system, corruption helpline); Rasipuram kshetra ka koi concrete kadam nahi; scope kshetra-kaam hai. (sourceUrl: https://timesofindia.indiatimes.com/city/chennai/curbing-corruption-in-registration-dept-is-first-priority-says-minister/articleshow/131662555.cms)
+// 3. New Indian Express — "Remarks on Veeramani only matter of 'stage courtesy': Minister D Lokesh Tamilselvan" (29 Sep 2026) — REJECT as NEGATIVE: isme minister ke khilaf koi aarop/FIR/case/janch nahi hai; sirf AIADMK (EPS) ki raajneetik aalochna unki Veeramani ke baare me stage-remarks par, aur minister ne stage courtesy ka jawab diya. Negative ki shart (aarop + case sthiti + jawab) poori nahi hoti. Saath hi Namakkal GHMC hospital me 'Thaaimaaman Thanga Mothiram' scheme launch — rajya-yojna ka ministerial launch, kshetra-bahar (Namakkal AC, Rasipuram nahi), MLA ki concrete kshetra-bhoomika darj nahi. (sourceUrl: https://www.newindianexpress.com/states/tamil-nadu/2026/Sep/29/remarks-on-veeramani-only-matter-of-stage-courtesy-minister-d-lokesh-tamilselvan)
+// 4. The Hindu / pre-term items (Mathiventhan-era Rasipuram works, 2023-2025) — REJECT: purane karyakaal ke kaam, current MLA ka nahi; galat vyakti ka kaam credit nahi hota.
+
+// May-Oct 2026 me English press me koi qualifying work-entry nahi mili.
+tamilNaduWorks['p-chandrasekar'] = [];
+
+// REJECT-LOG (p-chandrasekar — P Chandrasekar, TVK, Senthamangalam (ST) AC, Namakkal; scope: May 2026+; researched 15 Oct 2026)
+// 1. Election victory coverage (TOI/Indian Express/Oneindia/ABP Live/Business Today/Jagran Josh live blogs, Apr-May 2026; jeet 68,815 votes, AIADMK ke C Chandrasekaran ko 2,655 votes se haraya) — REJECT: chunav jeet ki khabar, vikas-kaam nahi. Sab khole/padhe, kaam ka koi zikr nahi.
+// 2. The Hindu "Tamil Nadu election 2026: New taluk, hospital upgrade, bus services key demands in Senthamangalam constituency" (Apr 2026) — REJECT: karyakaal-se-pehle (chunav-prachar season ka maangon wala piece); maang = kaam nahi, aur MLA tab elected hi nahi the.
+// 3. Deccan Chronicle "NCST Chairman Meets Vijay, Discusses Tribal Welfare Policies" (~24 Sep 2026; khud khola aur poora padha) — NCST chairman Antar Singh Arya ki delegation ne CM C Joseph Vijay se milne ke baad TVK MLA P Chandrasekar (Senthamangalam ST) aur AIADMK MLA P Usharani (Yercaud ST) se ST welfare/development ke muddon par charcha ki — REJECT as entry: sirf meeting/charcha, koi lokarpan, shilanyas, sanction ya ghoshna nahi; is se koi concrete kaam verify nahi hota.
+// 4. Negatives check (search: "P Chandrasekar" Senthamangalam FIR/case/court/arrest) — milne wale case-records sab GALAT VYAKTI: Sukesh Chandrashekhar (EC bribery middleman), R Chandrasekar (ex-AIADMK MLA Manapparai, 2021 sand-mining case), Dindigul ka Chandrasekar (murder conviction appeal 2026:MHC:2291), P Chandrasekaran (2019 card-gambling quash petition), S Chandrasekar (police-complaint order). Established English press me P Chandrasekar (Senthamangalam TVK MLA) ke khilaf koi FIR/case/janch/adalaati-karyavahi ki reporting nahi mili — koi NEGATIVE entry nahi banayi gayi.
+// 5. CM Joseph Vijay ka name "Chandrasekhar" (father S A Chandrasekhar) — naam-takarraav ka trap, dhyan rakha; sare hits ko P Chandrasekar (lawyer, born 1974, son of Ponnusamy, Senthamangalam) se match karke verify kiya.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me P Chandrasekar ki vyaktigat bhoomika wala koi qualifying kaam (lokarpan/shilanyas/GO-swikriti/ghoshna) nahi mila; karyakaal sirf ~5 mahine purana hai, isliye khaali profile imaandari hai.
+
+tamilNaduWorks['dilip-c-s'] = [];
+
+// REJECT-LOG (dilip-c-s — Dilip C S, TVK, Namakkal AC, Namakkal; research 15 Oct 2026)
+// 1. "Renovated Namakkal Railway Station Opened" (Deccan Chronicle, 12 Oct 2026, khud khola-padha) — REJECT: PM Modi ne Rs 17 crore Amrit Bharat renovation ka lokarpan video-conference se kiya (11 Oct 2026); article me "MLE Dilip" sirf karyakram me upasthit the — PM ke karyakram me sirf maujoodgi, koi concrete bhoomika nahi.
+// 2. "Tamil Nadu To Set Up 7 New Government Nursing Colleges In 6 Districts, Add 660 BSc Seats" (Free Press Journal, 19 Sep 2026, khud khola-padha) — REJECT: GO 16 Sep 2026, kharch Rs 270.26 crore (TN Dr MGR Medical University), CM ke Rule 110 announcement ko amal; Namakkal ek jila hai lekin MLA Dilip ka article me koi ullekh ya concrete kadam nahi — rajya-package ki aam swikriti.
+// 3. "Ministers inaugurate completed projects in Salem and Namakkal" (The Hindu, 21 Jul 2026) — REJECT: kshetra-bahar (Kumarapalayam AC, alag seat) + Dairy Development Minister C. Vijayalakshmi ka karyakram (Rs 1.08 crore inaugurate, Kaliyanur me water tank ka shilanyas); MLA ka koi ullekh nahi.
+// 4. "Minister inaugurates laboratory, classrooms in Namakkal" (The Hindu, 4 Jul 2026) — REJECT: kshetra-bahar (Tiruchengode AC) + Health Minister K.G. Arunraj ka karyakram; MLA ka koi ullekh nahi.
+// 5. "Minister lays foundation for scheme works in Namakkal" (The Hindu, 9 Mar 2026) — REJECT: pre-term (karyakaal 10 May 2026 se); Minister M. Mathiventhan ka karyakram.
+// 6. "Namakkal bypass roads inaugurated" (The Hindu, 7 Jan 2026) — REJECT: pre-term (pichle MLA P. Ramalingam ke daur ka); Minister E.V. Velu ne Rs 95.12 crore ke bypass inaugurate kiye.
+// 7. "Hi-tech dairy plant in Namakkal set to be operational by January 2026" (New Indian Express, 2 Aug 2025) — REJECT: pre-term; Rs 90-crore Aavin plant NDDB support ke saath.
+// 8. "CM Stalin inaugurates, lays foundation stone of major development projects" (webindia123, 2024) — REJECT: pre-term (pichli DMK sarkar ke daur ki khabar).
+// 9. "Upgraded Tiruchengode government hospital inaugurated in Namakkal" (The Hindu, 5 Nov 2025) — REJECT: pre-term + kshetra-bahar (Tiruchengode AC).
+// 10. "TN assembly passes 14 bills including one for creation of four corporations" (Times of India, 2024) — REJECT: pre-term; Namakkal municipality ko corporation banane ka sarkari kadam, MLA ki vyaktigat bhoomika nahi.
+// 11. Election coverage (Times of India, Zee News, Business Today, Oneindia, ABP Live, Bharat Horizon, NDTV, Indian Express live — sab May 2026) — REJECT: sirf jeet ki khabar (79,744 votes, AIADMK ki Sridevi Mohan par 11,008 ka margin); vikas-kaam nahi.
+// 12. The Hindu candidate profile/affidavit (Apr 2026) — REJECT: chunav profile hai (umr 33, B.Com, transport-business, koi criminal case nahi); works entry nahi.
+// 13. Kerala actor Dileep ke cases (The Statesman, The Hindu, Republic World, LiveLaw, Outlook, MetroVaartha, New Indian Express 2017 — Jul-Aug 2026 coverage) — REJECT: GALAT VYAKTI (Kerala ke Malayalam actor Dileep hain, Namakkal ke MLA Dilip C S se koi sambandh nahi).
+// 14. "Namakkal doctor, aide held in MLA poaching case" (DT Next, 11 Jul 2026) — REJECT: Rs 35-crore MLA-poaching case; complaint Uthangarai MLA ne ki, Dilip C S ka article me koi ullekh ya bhoomika nahi; aur ye vikas-kaam bhi nahi.
+// 15. SEAT-WORK NATIJA: May-Oct 2026 tak English press (The Hindu, Indian Express, Times of India, DT Next, The News Minute, South First, Deccan Herald, NDTV, Free Press Journal) me Namakkal AC seat par MLA Dilip C S ki vyaktigat bhoomika (lokarpan/shilanyas/swikriti — GO ya media me sanction-data ke saath) wali koi qualifying entry NAHI mili. Khaali profile imaandari hai.
+// NOTE (pehchaan/mantri check): Dilip C S, umr 33, B.Com (PSG Arts College Coimbatore, 2014), pesha transport aur business; Namakkal town ke rehne wale. Naam ke roop — "Dilip C S" (The Hindu/NDTV/TOI), "C. S. Dileep" (Wikipedia/Zee News), "Dilip CS", "T.s.dileep" (Oneindia) — sab EK HI VYAKTI hain (har source me Namakkal TVK jeet + 79,744 votes milte hain). Affidavit me koi criminal case nahi. MANTRI NAHI HAIN — sirf MLA; cabinet me TVK ke Transport Minister A. Vijay Tamilan Parthiban, Dairy Development Minister C. Vijayalakshmi, Health Minister K.G. Arunraj aadi hain, inme Dilip shamil nahi. Unke khilaf koi FIR/case/chunav-yachika ki credible reporting NAHI mili — koi negative entry nahi banti.
+
+tamilNaduWorks['sekar-s'] = [];
+
+// REJECT-LOG (sekar-s — Sekar S, AIADMK, Paramathivelur AC, Namakkal; research 15 Oct 2026)
+// 1. "Minister lays foundation for scheme works in Namakkal" (The Hindu, 9 Mar 2026) — REJECT: pre-term (March 2026, karyakaal 10 May 2026 se) + Minister M. Mathiventhan ka karyakram (Paramathi me roads/water tank/anganwadi foundation); MLA Sekar S ki koi dastavezi bhoomika nahi.
+// 2. "Road infra boost: Rs 1,800 crore projects launched" (DT Next, 14 Mar 2026) — REJECT: pre-term; CM Stalin ne Omalur-Sankari-Tiruchengode-Paramathi road (Rs 985.18cr) video-conference se inaugurate ki; MLA ki bhoomika nahi.
+// 3. "Ministers inaugurate completed projects in Salem and Namakkal" (The Hindu, 21 Jul 2026) — REJECT: kshetra-bahar (Kumarapalayam AC, alag seat) + Minister C. Vijayalakshmi ka karyakram; MLA Sekar S ki bhoomika nahi.
+// 4. Paramathivelur Govt Hospital 50-bed ICU block, Rs 23.75cr (medicalbuyer.co.in, ~2024) — REJECT: pre-term; District Collector S. Uma ne foundation stone rakha, CM ke announcement ka karyakram; MLA ki bhoomika nahi.
+// 5. "EPS inaugurates buildings, gives agricultural equipment" (New Indian Express, Oct 2020) — REJECT: pre-term (2020); electronic auction centres etc. CM Palaniswami ka karyakram.
+// 6. "MLA R D. Sekar" (DT Next topic page) — REJECT: GALAT VYAKTI (ye DMK MLA R.D. Sekar hain, Paramathivelur ke AIADMK MLA S. Sekar nahi).
+// 7. "Police case against DMK MP A Raja and MLA Sekarbabu" (DT Next breaking-news feed) — REJECT: GALAT VYAKTI (ye DMK minister P.K. Sekarbabu, Harbour MLA hain); aur ye vikas-kaam nahi, political khabar hai.
+// 8. Election petitions (Madras HC) — Lokmat Times / Indian Express / The Hindu (Sep-Oct 2026): REJECT as negative: koi bhi petition Paramathivelur/ Sekar S ke khilaf nahi (Tiruppattur TVK vs DMK, Gobichettipalayam, Thirumayam ke cases); waise bhi niyam hai — chunav-yachika akeli negative nahi banti.
+// 9. Election result coverage (Indian Express, Business Today, NDTV Profit, Oneindia, May 2026) — REJECT: sirf jeet ki khabar (308 votes ka margin); vikas-kaam nahi.
+// 10. The Hindu candidate profile/affidavit (Apr 2026) — REJECT: election profile hai, koi criminal case nahi; works entry nahi.
+// 11. SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, DT Next, Indian Express, TOI, News Minute, South First, Deccan Herald, NDTV) me Paramathivelur seat par MLA Sekar S ki vyaktigat bhoomika wali koi qualifying entry NAHI mili. MLA vipaksh (AIADMK) me hain, sabha sirf ~5 mahine purani hai — khaali profile imaandari hai.
+// NOTE (pehchaan check): S. Sekar, umr 55, pesha Politics/Civil Engineering/Agriculture, affidavit me koi criminal case nahi, Paramathivelur se 2021 aur 2026 dono me AIADMK se jeete (2026 me sirf 308 votes se). AIADMK-jo-TV K defection wale 6 MLA me ye shamil NAHI hain — ab bhi AIADMK me hain.
+
+tamilNaduWorks['arunraj-k-g'] = [
+  {
+    title: 'Tiruchengode Government Hospital me Rs 1 crore ki public health laboratory building ka lokarpan',
+    note: 'Health Minister K.G. Arunraj ne 4 July 2026 ko Tiruchengode me poori ho chuki scheme works ka lokarpan kiya, jisme Tiruchengode Government Hospital me Rs 1 crore ki do-manzila public health laboratory building (2,734 sq ft — laboratory, drug warehouse, technical expert room aur toilets) shaamil thi. Shrey-disclosure: ye health department ki scheme ka kaam hai jiska unhone minister ke roop me lokarpan kiya; report me ye nahi hai ki swikriti unhone di thi, na hi fund-srot MLA funds bataya gaya hai. Lokarpan ke waqt District Collector L. Madhubalan aur revenue/health/co-operative vibhagon ke adhikari maujood the. Kaam unke hi Tiruchengodu kshetra ke andar hai.',
+    period: '2026-2031',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/minister-inaugurates-laboratory-classrooms-in-namakkal/article71182499.ece',
+    date: '2026-07-04'
+  },
+  {
+    title: 'Pachampudhupalayam aur S. Iraiyamangalam ke sarkari schools me Rs 40.69 lakh ke classroom aur kitchen buildings ka lokarpan',
+    note: '4 July 2026 ko Tiruchengode me Health Minister K.G. Arunraj ne Pachampudhupalayam Panchayat Union Middle School me Rs 32.25 lakh ke do classroom buildings aur S. Iraiyamangalam ke sarkari higher secondary school me Rs 8.44 lakh ke kitchen building ka lokarpan kiya. Shrey-disclosure: ye sarkari scheme ke poore ho chuke kaam the jinka unhone minister ke roop me lokarpan kiya; report me swikriti ka srot ya MLA funds ka zikr nahi hai. Dono jagahen unke Tiruchengodu kshetra ke andar hain.',
+    period: '2026-2031',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/minister-inaugurates-laboratory-classrooms-in-namakkal/article71182499.ece',
+    date: '2026-07-04'
+  },
+  {
+    title: 'Nagarpalayam ke Ondi Muniappan Nagar me Rs 8.50 lakh ke 10,000-litre overhead water tank ka shilanyas',
+    note: '4 July 2026 ko Health Minister K.G. Arunraj ne Nagarpalayam ke Ondi Muniappan Nagar me 10,000-litre capacity wale overhead water tank (lagat Rs 8.50 lakh) ke nirmaan ka shilanyas kiya. Shrey-disclosure: report me is kaam ka fund-srot ya sanction order darj nahi hai, isliye stage sirf shilanyas hai. Sthan unke Tiruchengodu kshetra ke andar hai.',
+    period: '2026-2031',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/minister-inaugurates-laboratory-classrooms-in-namakkal/article71182499.ece',
+    date: '2026-07-04'
+  },
+  {
+    title: 'Tiruchengode Arthanareeswarar Arts and Science College ke permanent buildings ke liye Rs 15 crore ki ghoshna',
+    note: '6 September 2026 ko The Hindu ne Tiruchengode MLA aur Health Minister K.G. Arunraj ke hawale se report kiya ki Chief Minister C. Joseph Vijay ne Tiruchengode Arthanareeswarar Arts and Science College (Hindu Religious and Charitable Endowments Department dwara sanchalit, abhi sirf 4 courses) ke permanent buildings ke nirmaan ke liye Rs 15 crore aawantit kiye hain aur college me sarkari colleges wale sabhi UG courses laane ke kadam uthaye jayenge. Shrey-disclosure: ye MLA/minister ka bayaan hai, report me koi GO ya sanction order darj nahi hai, isliye stage ghoshna hai, swikriti nahi. Ye college unke Tiruchengodu kshetra me hai.',
+    period: '2026-2031',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/demand-for-government-arts-and-science-college-in-tiruchengode-grows-louder/article71435206.ece',
+    date: '2026-09-06'
+  }
+];
+
+// REJECT-LOG (Namakkal / Tiruchengodu — Arunraj K G, TVK; karyakaal May 2026 se, ~5 mahine purana)
+// 1. The Hindu 15 May 2026 — "TVK will never compromise on State rights: Minister Arunraj" — REJECT: Kootapalli Lake ka sirf nirikshan; desilting/renovation aur garbage biomining "will be done" — "karenge" khabar; koi sanction, shilanyas ya lokarpan nahi. (khud khola gaya)
+// 2. The Hindu 15 Jun 2026 — "Minister distributes welfare assistance in Namakkal" — REJECT: Rs 1.76 crore welfare assistance (loans, ration cards, scholarships) 497 beneficiaries ko Tiruchengode me — personal welfare distribution, excluded category; Mallasamudram PHC ka sirf nirikshan. (khud khola gaya)
+// 3. TOI (Oct 2026) — Tiruchengode municipality contract sanitation workers protest call-off — REJECT: minister ne phone par sirf ashwasan diya ("grievances will be brought to CM"), koi concrete kadam/kaam nahi; sirf maujoodgi/ashwasan. (khud khola gaya)
+// 4. The Hindu 31 May 2026 — World No Tobacco Day awareness programme, Tiruchengode GH — REJECT: awareness event/signature campaign, sthayi kshetra-kaam nahi. (khud khola gaya)
+// 5. Medical Buyer / talk4city — Maa Kauvery 120-bed women-children hospital inauguration, Chennai Radial Road — REJECT: kshetra-bahar (Chennai), Tiruchengodu se sambandh nahi. (khud khola gaya)
+// 6. TOI (Feb 2026) — "TVK functionary Arunraj slammed for threatening sanitation workers in Tiruchengode" — REJECT: pre-term (Feb 2026); DMK councillors ke aarop-maatra, koi FIR/case/adalaati sthiti report me nahi; negative ki shart (aarop + case sthiti + jawab) poori nahi hoti. (khud khola gaya)
+// 7. The Hindu 11 Apr 2026 — Tiruchengode election demands (auto nagar, IT park, temple rope car, ring road) — REJECT: pre-term (chunav se pehle ki maang-list), karyakaal ka kaam nahi. (khud khola gaya)
+// 8. TendersInfo — "Tender for Mla Fund 25-26" storm water drain, Tiruchengode Municipality (tender date 13 Jan 2026) — REJECT: pre-term (pichhle MLA E.R. Eswaran ka tenure); tender aggregator, established media nahi. (khud khola gaya)
+// 9. YouTube clips (banner-vivad, "30-40% commission" allegation — Sathiyam News) — REJECT: established/credible reporting nahi, bina pramaan aarop; negative entry layak nahi. (khud khola gaya)
+// 10. DT Next 21 Sep 2026 — dengue cases statement (Erode) — REJECT: state-level health minister statement, Tiruchengodu kshetra ka concrete kadam nahi. (khud khola gaya)
+// 11. TOI — shigellosis/food safety statement — REJECT: ministerial press statement, kshetra-kaam nahi. (khud khola gaya)
+// 12. webindia123/lokmattimes 10 May 2026 — swearing-in eve quote "we have to fulfil expectations" — REJECT: bhavishya ka vaada, koi kaam nahi. (khud khola gaya)
+// 13. July 4 article me Rs 37.35 lakh welfare assistance 171 beneficiaries ko — REJECT: welfare distribution, excluded. (khud khola gaya)
+// 14. July 4 article me monthly petition camps — REJECT: process/prakriya, koi concrete kshetra-kaam nahi. (khud khola gaya)
+
+tamilNaduWorks['c-vijayalakshmi'] = [
+  {
+    title: 'Kaliyanur panchayat me 1 lakh litre overhead water tank aur pipeline expansion ka shilanyas (Rs 42 lakh)',
+    note: '21 July 2026 ko Milk and Dairy Development Minister C. Vijayalakshmi ne Kumarapalayam (Namakkal) me hue karyakram me Kaliyanur panchayat me 1 lakh litre kshamta wale overhead water tank aur pipelines ke vistar (kul lagat Rs 42 lakh) ke nirmaan ka shilanyas kiya. Shrey-disclosure: unhone minister aur sthaniya MLA dono haisiyat se shilanyas kiya; report me fund-srot ya sanction order darj nahi hai, isliye stage sirf shilanyas hai. Kaliyanur (Kalaiyanur gram panchayat, Pallipalayam CD block) unke Kumarapalayam kshetra ke andar aata hai.',
+    period: '2026-2031',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/ministers-inaugurate-completed-projects-in-salem-and-namakkal/article71249220.ece',
+    date: '2026-07-21'
+  },
+  {
+    title: 'Avathipalayam me Sankari-Erode town bus ke extended route ka shubharambh',
+    note: '6 September 2026 ko C. Vijayalakshmi ne Kumarapalayam Assembly constituency ke Avathipalayam me Sankari (Salem) se Erode chalne wali sarkari town bus ke extended route ka shubharambh kiya; bus ab Ottamedu, Agraharam, Avathipalayam, Sillankadu, Thougoundampalayam, Kaliyanur government school, Vellaparai aur Mampalayam government school hote hue din me do baar chalegi. Shrey-disclosure: route ka vistar sthaniya nivaasiyon aur Kaliyanur/Mampalayam sarkari schools ke chhatron ki maang par transport vibhag ke nirdesh par hua; unhone uska flag-off kiya, bus me safar kiya aur yaatriyon ki shikaayaten suni. Ye unke Kumarapalayam kshetra ke andar ka sewa-vistar hai.',
+    period: '2026-2031',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/minister-flags-off-bus-service-inspects-gh-in-namakkal/article71435488.ece',
+    date: '2026-09-06'
+  }
+];
+
+// REJECT-LOG (Namakkal / Kumarapalayam — C. Vijayalakshmi, TVK; karyakaal May 2026 se, ~5 mahine purana)
+// 1. The Hindu 21 Jul 2026 — "Ministers inaugurate completed projects in Salem and Namakkal" me Rs 1.08 crore ki "completed projects" ka lokarpan — REJECT: article me ye nahi bataya gaya ki kaunsi pariyojnaen thi; Namakkal jile-bhar ke ministerial lokarpan ke roop me report hui, Kumarapalayam kshetra se sambandh sthapit nahi hota. (khud khola gaya)
+// 2. The Hindu 21 Jul 2026 — 347 labharthiyon ko Rs 1.73 crore ki welfare assistance ka vitran — REJECT: welfare distribution, excluded category; sthayi kshetra-kaam nahi. (khud khola gaya)
+// 3. The Hindu 6 Sep 2026 — Kumarapalayam me Rs 7.38 crore ke nirmanadheen bus stand ka nirikshan — REJECT: sirf nirikshan/daura; koi lokarpan, shilanyas ya swikriti report me nahi. (khud khola gaya)
+// 4. The Hindu 6 Sep 2026 — water treatment plant ka nirikshan aur chlorine level ki jaanch — REJECT: sirf nirikshan; koi kaam nahi. (khud khola gaya)
+// 5. The Hindu 6 Sep 2026 — Kumarapalayam Government Hospital ka daura aur mareezon se baatcheet — REJECT: sirf daura/mulaqat; koi kaam nahi. (khud khola gaya)
+// 6. The Hindu 6 Sep 2026 — Kumarapalayam daily market parisar ki safai ka nirdesh — REJECT: maintenance nirdesh; kshetra-kaam nahi. (khud khola gaya)
+// 7. TOI (Jun 2026) — Kumarapalayam me dyeing units ka midnight inspection, Ottamettai aur Aavathipalayam me do avaidh units seal — REJECT: minister ke roop me enforcement/nirikshan karvai; vikas-kaam nahi. (khud khola gaya)
+// 8. TOI (Jun 2026) — Pallipalayam bus stop ke paas voter-thanksgiving event se Salem-Chennai NH par traffic chaos — REJECT: rajnaitik/ceremonial event; koi kaam nahi; negative ki shart (aarop + FIR/case/adalaati sthiti) poori nahi hoti. (search snippet se)
+// 9. DT Next 19 Sep 2026 — Aavin milk shortage par review meeting — REJECT: state-level ministerial duty; seat-kaam nahi. (search snippet se)
+// 10. DT Next 3 Sep 2026 — Aavin white paper aur Assembly me dairy vibhag ki ghoshnaen — REJECT: state-level ghoshnaen ("karenge" star), Kumarapalayam kshetra ka concrete kadam nahi. (search snippet se)
+// 11. News Today 3 Sep 2026 — doodh utpadakon ke accident aid me vriddhi (Rs 4 lakh se Rs 5 lakh) — REJECT: state welfare scheme ghoshna; seat-kaam nahi. (search snippet se)
+// 12. The Hindu 7 Oct 2026 — CM ne Madhavaram dairy me Aavin annex laboratory ka udghatan kiya, Vijayalakshmi maujood thin — REJECT: sirf maujoodgi; kshetra-bahar (Chennai). (search snippet se)
+// 13. New Indian Express 3 Sep 2026 — Aavin ke Rs 20 crore ke do missions (cow fertility/milk yield) — REJECT: state-level ministerial announcement; seat-kaam nahi. (search snippet se)
+// 14. Deccan Chronicle 3 Sep 2026 — dairy schemes (bulk milk coolers, automation) ki ghoshna — REJECT: state-level ghoshna; seat-kaam nahi. (search snippet se)
+// 15. Negative check — C. Vijayalakshmi ke khilaf koi FIR/case/chunav-yachika established reporting me nahi mili; affidavit me criminal cases 0. Karur stampede / CBI probe / MCC violation ke cases CM C. Joseph Vijay ke khilaf hain — galat-vyakti trap se bache. Negative entries: 0.
