@@ -757,3 +757,74 @@ assamWorks['shiladitya-dev'] = [
 assamWorks['sibu-misra'] = [];
 
 // REJECT-LOG (sibu-misra): profile KHAALI raha — qualifying entry koi nahi mili. Ve teesri baar BJP ke Lumding MLA hain (parinaam 4 May 2026); purane karyakaal (2016-2026) ke kaam scope se bahar. (1) Assam Tribune, 8 May 2026: hat-trick jeet + mantrimandal me shamil hone ki maang — chunav-khabar, kshetra-vikas kaam nahi, reject. (2) Chunav parinaam/prachar coverage (Sentinel/TOI/Indian Express/News18/IndiaTodayNE/LatestLY-ANI, Mar-May 2026): matdaan 9 Apr, parinaam 4 May — kaam-khabar nahi, reject. (3) Piggyback video vivad (Zee News/HT/DNA/India TV/NDTV, sab 18-19 May 2022): Hojai me baadh-samiksha ke dauran rescue worker ki peeth par boat tak jaana — karyakaal se pehle + negative criteria me FIR/case/adhikarik jaanch ki sthiti report nahi, reject. (4) Twitter/X aggregator (instalker, RKGhoshBJP profile): National Higher Secondary School (Lumding AC) ke naye bhavan ki aadhaarshila Shiksha Mantri Ranoj Pegu ne rakhi, Sibu Misra sirf "joined" — dusre mantri ke shilanyas me sirf maujoodgi, reject; isi profile me Lanka Education Block (Hojai) me Barbhaha High School bhavan ki aadhaarshila RKGhoshBJP ne rakhi — doosre vyakti ka kaam, reject. (5) MyGov Assam X posts (xstalk aggregator): CM ne Hojai me kuch pariyojnaon ke udghatan/shilanyas ke saath Lumding AC ke 27,310 SHG sadasyon ko MMUA seed capital baanta — CM ka karyakram, Sibu Misra ki apni concrete bhoomika report nahi, reject (sirf maujoodgi ke bharose entry nahi). (6) Asomiya Pratidin digital, ~Sep 2025: Dakshin Lumding GP ke kuch mahilaon ka pradarshan — chunav-se-pehle + sirf aarop/protest (paani/sadak/schemes na milne ki shikayat), FIR/case/adhikarik jaanch ki sthiti report nahi — negative-entry criteria poora nahi, reject. (7) YouTube News Live Bangla (~May 2026): "Shibur swapno 5G, Lumdinger unnoyon 2G" — YouTube-only + sirf tippani/daava, koi FIR/case/sthiti nahi, reject. (8) News18 election page se "elected year 2026" Wikipedia listing — encyclopedia listing, kaam-khabar nahi, reject. Koi swikriti/lokarpan/shilanyas/khaali-profile layak post-May 2026 reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+// ---- Jorhat district batch (researched 2026-10-14) ----
+// Sabha sirf ~5.5 mahine purani hai (May 2026+) — 4/4 profiles honestly EMPTY.
+
+assamWorks['bikash-saikia'] = [];
+
+// REJECT-LOG (bikash-saikia, Teok AC-99, AGP) — 0 qualifying entries. PROFILE: honestly EMPTY.
+// Pehchan note: Bikash Saikia first-time MLA hain (2026 me Teok se 90,368 votes, 22,672 margin se jeete) — koi 2021-26 ka purana karyakaal nahi.
+// 1. Chunav-parinaam coverage — TOI constituency page, Indian Express, Business Today (4 May 2026), News18 live blog, ABP Live, Oneindia, Wikipedia — sabhi chunav-khabar, works nahi — reject. (Note: bharathorizon.com ne galti se unhe AJP ka bataya, jabki woh AGP se jeete — srot bhi unreliable.)
+// 2. YouTube video (NeTime24x7): vote-daale ke din ka clip (Apr 2026) — YouTube-only srot + chunav, works nahi — reject.
+// 3. The Sentinel Assam (15 Sep 2026): CM Himanta Biswa Sarma ka Teok/Jorhat daura — Auniati University ka naya academic building (Rs 5 crore state assistance) CM ne inaugurate kiya; Bikash Saikia ka naam tak khabar me nahi — CM ka karyakram, reject.
+// 4. Mukhya Mantri Mahila Udyamita Scheme ke Rs 10,000 cheques ka vitran Teok/Sotai me (36,319 mahilaon, CM maujood) — CM ka state-scheme karyakram, Saikia ki koi bhoomika report nahi — reject.
+// 5. Pratidin Time + Assam Tribune (30 Aug 2026): Akhil Gogoi ki flood-aid andolan ki khabar (Teok public meeting) — Akhil Gogoi ki khabar, Saikia ka kaam nahi — reject.
+// 6. TOI Guwahati (cabinet story, ~mid-2025): Teok sahit 10 naye co-districts ka anumodan — pre-May-2026 + rajya-sarkar ka policy faisla — reject.
+// 7. DevDiscourse (2024): Teok ke paas Kaliapani me Protap Saikia ka private school (Rs 5 crore) — galat vyakti + pre-term — reject.
+// 8. The Statesman: ek BJP MLA ke congratulatory post par vivad — dusre neta (Saikia surname, alag vyakti) + pre-term — reject.
+// 9. The Shillong Times (29 Jul 2026): former Congress MLA Debabrata Saikia ki flood-maang — alag vyakti (Nazira ke poorv MLA) — reject.
+// 10. Indiablooms: Mariani MLA Rupjyoti Kurmi raahat samagri baant-te — alag vyakti — reject.
+// 11. ETV Bharat (11 Mar 2024): Tingrai me Vikas Yatra — minister Sanjoy Kishan ka karyakram, Tinsukia jila — pre-term + dusre neta — reject.
+// 12. ETV Bharat (26 Feb 2026): Rangapara/Durung tea-garden voters ki khabar — pre-term + Saikia ka koi zikr nahi — reject.
+// 13. Organiser (16 Sep 2026): Bharatiya Kisan Sangh ne Teok me 100 kisano ko paddy seedlings diye — NGO raahat + baadh-raahat out-of-scope — reject.
+// 14. NewKerala (28 Jul 2026): flood relief par BJP MLA Chakradhar Gogoi / minister Rameswar Teli ke bayan — dusre netaon ki khabar — reject.
+// Koi qualifying negative reporting (established media me FIR/case/janch) nahi mili. PROFILE imaandari se KHAALI rahi.
+
+assamWorks['hitendra-nath-goswami'] = [];
+
+// REJECT-LOG (hitendra-nath-goswami, Jorhat AC-100, BJP) — profile KHAALI rahi — qualifying entry koi nahi mili. Poorv Speaker (2021-26) — sansthanik coverage hi coverage me raha.
+// 1. TheNewsMill (13 Sep 2026): CM Himanta Biswa Sarma ne Jorhat me Rs 122 crore ki 4 pariyojnaon (integrated DC office, Chinamara railway flyover Rs 65.20 crore, Luitporiya Mising HSS bhavan Rs 3.54 crore, purana DC office to museum) ka udghatain kiya — CM ka karyakram, Goswami sirf maujood/speech; Bhogdoi nadi kinare beautification CM ne unke prastav par announce kiya lekin bina sanction/GO ke ghoshna — dusre neta ke karyakram me maujoodgi + bina swikriti ki ghoshna, reject.
+// 2. Hindusthan Samachar (31 Aug 2026): CM ka 11-12 Sep ka Jorhat daura — Goswami ne sirf CM ka karyakram announce kiya; ROB ka shilanyas May 2024 me hua tha — pre-event announcement + CM ki pariyojna, reject.
+// 3. BureauGram (24 Sep 2026): Jorhat Tea Auction Centre inauguration (21-09-2026) — woh sirf "graced by" guest, koi concrete bhoomika nahi — reject.
+// 4. Sentinel post-result interview: Zubeen Garg memorial ke liye "Rs 15 lakh set aside" aur Brahmaputra se arsenic-free paani ka wada — bina GO/sanction-proof ki ghoshna, reject.
+// 5. IndiaTodayNE (1 Apr 2026): chunav-se-pehle interview — pre-term + sirf yojna-bayan, reject.
+// 6. ETV Bharat (4 Feb 2026): voter feedback — pre-term, reject.
+// 7-10. NE Now/Assam Tribune 2020-21: innovation hub shilanyas, blood separation unit lokarpan, Geeta Gaushala ko Rs 7 lakh cheque, "Speaker launches two projects" — sab pre-term, reject.
+// 11. gyanhigyan: super-specialty hospital/food street chunavi ghoshna — sirf chunavi ghoshna, reject.
+// 12. Assam Tribune (27 Jul 2026): baadh me anupasthiti par vivaad + unka khandan — rajnaitik bayanbazi, reject.
+// 13. Assam Tribune (~14 Oct 2026): BJP ka Jorhat rally — party karyakram, reject.
+// 14. themobiworld/Assam Tribune (Nov 2025): Bhupen Hazarika-Zubeen geet sankalan event — sirf maujoodgi + purana, reject.
+// 15. YouTube (News18 Assam nomination-day clip) — YouTube-only + pre-term, reject.
+// 16. Election-result coverage (May 2026, sab channels) — kaam-khabar nahi, reject.
+// Koi qualifying negative reporting (FIR/case/adalaati ya adhikarik janch) established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['rupjyoti-kurmi'] = [];
+
+// REJECT-LOG (rupjyoti-kurmi, Mariani AC-101, BJP) — profile KHAALI raha. Party-badalu (Congress 1999-2021, phir BJP) — naam-samanta se sakht savdhani rakhi; har item me Mariani AC-101 + BJP pehchan verify.
+// Naam-trap: "Pran Kurmi" (INC, Titabor ke 2026 ummidvar) aur WB ke Ajit Prasad Mahato (Kurmi-samuday neta) — dono alag vyakti, kuch joda nahi.
+// 1. Pratidin Time (Aug-Sep 2026): mantri Pijush Hazarika ne Mariani ke No. 2 Kawoimari Gohain Gaon me Janji River Embankment Road Improvement Project ka lokarpan kiya; Kurmi sirf maujood the — sirf maujoodgi, reject.
+// 2. ANI (1 Apr 2026): Naopam-Moran gaonon ke liye Soitai nadi par naya pul "6-8 mahine me" — chunav-parinaam se PEHLE + sirf vaada, completion-khabar nahi mili — pre-term + karenge-khabar, reject.
+// 3. Purabi Dairy Jorhat plant bhoomi-pujan (Mar 2026): shilanyas mantri Krishnendu Paul ne kiya; Kurmi sirf maujood; pre-term bhi — reject.
+// 4. BureauGram (21-09-2026): Jorhat Tea Auction Centre udghatan — mukhya atithi MP Kamakhya Prasad Tasa aur MLA Hitendra Nath Goswami; Kurmi sirf maujood — sirf maujoodgi + Tea Board pariyojna, reject.
+// 5. The Purbottar (21-05-2026): Kurmi ka vivadit bayan — "vote dene wale ilakon ko vikas me prathmikta" — koi nirdisht pariyojna/sanction/GO nahi, sirf bayan — reject.
+// 6. The Sentinel (22-09-2026): GMCH me ang-daan jagrukta karyakram me sahbhagita — samaroh, vikas-kaam nahi — reject.
+// 7. Assam Assembly Budget Session 2026: Starred Q 199 (23/07/2026, Mariani Birla Campus plywood factory par industry ki maang) aur Unstarred Q 282 (13/07/2026, pashu-chikitsa staff-kami) — sirf prashn/maang; mantri ne koi swikriti nahi di — reject.
+// 8. Pratidin Time (purani): "Will Discuss Assam Floods In Upcoming Assembly Session" aur "Mariani MLA Narrowly Escapes Gunshots" — purane karyakaal ki khabre — reject.
+// 9. Chunav-khabre (ETV Bharat, Indian Express, NE Now, India Today NE, Pratidin Time, Bharat Horizon, ABP Live, TOI — May 2026) — Mariani jeet ki reporting; kaam-khabar nahi — reject.
+// 10. Assam Tribune (May 2016) / New Indian Express (2017) purane karyakaal ki khabre — reject.
+// 11. Taj Mahal/Qutub Minar demolition demand (2023 vivad) — sirf bayan; naye karyakaal me koi FIR/case/adhikarik janch ki sthiti nahi — reject.
+// Naye karyakaal (May 2026 ke baad) ki koi established reporting jisme FIR/case/adalaati ya adhikarik janch ki sthiti + jawab ho, nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['dhiraj-gowala'] = [];
+
+// REJECT-LOG (dhiraj-gowala, Titabor AC-102, BJP) — profile KHAALI raha — qualifying entry koi nahi mili. Pehli-baari ke MLA (4 May 2026, 78,743 vote, INC ke Pran Kurmi se 23,315 margin, former AATSA president).
+// Pehchan-note: vishay = Dhiraj Gowala (single-l), BJP, Titabor AC-102 — Rajya Sabha MP Terash Gowalla alag vyakti hain (naaam-confusion se sakht savdhani).
+// 1. The Sentinel (14 Jul 2026): "Atul Bora, Dhiraj Gowala hold talks to resolve Kaziranga land dispute" — article galti se "Rajya Sabha Member of Parliament Dhiraj Gowala" kehta hai (Terash Gowalla se mix-up); sthan Ingle Pathar, Kaziranga, Bokakhat (Golaghat jila — Titabor AC-102 se bahar); sirf baatcheet/daura; rehab package (Rs 5 lakh CM Relief Fund, PMAY ghar, bhoomi-patta; 22 parivaron ko Rs 3 lakh kisht; Tea Tribe Cultural Centre + hotel) ki ghoshna mantri Atul Bora ne ki — pehchan-gol + bahar ki seat + sirf daura, reject.
+// 2. The Assam Tribune (30 May 2026): "Years of neglect: New Titabar MLA puts roads, drinking water on top agenda" — sadak/peyjal JJM par sirf yojna/aashwasan, model Anganwadi nirikshan, Municipal Board jaanch ka vaada — sirf nirikshan/daura/maang/karenge-khabar, reject.
+// 3. gyanhigyan.com — wahi khabar ka non-established mirror — reject.
+// 4. YouTube-only items: "Habichuk railway crossing band nahi hoga, vidhayak Dhiraj Gowala ne aashwasan diya" (sirf aashwasan), Assamese campaign song video — reject.
+// 5. Chunav-result coverage (Indian Express, TOI, Oneindia, ABP Live, Business Today, bharathorizon.com, NDTV) — kaam-khabar nahi — reject.
+// 6. Pre-term items: AATSA chief ka BJP me shamil hona (Dec 2025), mantriyon se mulaqat (Oct 2025), TOI election preview — sab 4 May 2026 se pehle — reject.
+// 7. Pratidin Time: "Assam CM Launches Projects Worth Rs 8.53 Crores in Jorhat" — purani (CM-era ~2023) + CM ki pariyojna — reject.
+// Koi qualifying negative reporting (FIR/case/jaanch) established media me nahi mili. Profile imaandari se khaali rahi.
