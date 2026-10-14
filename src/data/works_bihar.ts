@@ -76,3 +76,85 @@ biharWorks['pappu-kumar-verma'] = [
 // REJECT-LOG (pappu-kumar-verma): LiveHindustan Keyal gramin samasyayen (~Jun 2026) — sirf daura, "karenge" vaade, reject; LiveHindustan 14 Feb 2026 Belkhara degree college sthapna divas — sirf karyakram udghatan, reject; Bhaskar Jul 2026 CHC mudda — sirf maang, reject; Bhaskar Dec 2025 kisan mela udghatan — sirf maujoodgi, reject; LiveHindustan 20 Dec 2025 "vidhayak aapke dwar" — sirf daura/aashwasan, reject; LiveHindustan 8 Dec 2025 review meeting — sirf maujoodgi, reject; LiveHindustan 3 Feb 2026 budget bayan — sirf bayan, reject; public.app Sep 2026 Vishwakarma puja — public.app-only + dharmik maujoodgi, reject; public.app Feb 2026 Jagdev mela maang — sirf maang + public.app-only, reject; YouTube Blue Star restaurant udghatan — YouTube-only, reject; ISMA Times vetan-daan — vetan-daan vikas-kaam nahi, reject; radiancemediagroup Janaushadhi saptah — sirf maujoodgi, reject. Positive profile khaali rahi; sirf 1 negative entry rakhi gayi.
 
 // Coordinator QA note (Arwal district batch, researched 2026-10-14): 2/2 MLA researched by parallel workers; negative entry (pappu-kumar-verma) ka source maine khud kholkar verify kiya — Zee News 16 Jun 2026, aarop + thane me likhit shikayat + police janch + MLA ka inkaar sab article me maujud; worker ke note me "sarkit haus" typo ko "circuit house" theek kiya. Manoj Kumar par naam-savdhani lagayi gayi (Barhi-Jharkhand MLA, Begusarai DEO, shaheed Major — sab alag vyakti). Dono slugs pehle khaali the — koi overwrite nahi. Bihar works kul: 2 → 3 entries.
+
+// ---- Aurangabad (Bihar) district batch (researched 2026-10-14) ----
+
+biharWorks['amrendra-kumar'] = [];
+
+// REJECT-LOG (amrendra-kumar): LiveHindustan 26 Dec 2025, Fateganj community hall "announced" — ghoshna ("banega"), bina GO/sanction, reject; LiveHindustan 18 Nov 2025 welcome events — felicitation, "kaam kiya jayega" ghoshna-type, reject; VayamBharat Disha meeting ~Dec 2025 — sirf maangein (Amari school, Hasapura bypass, RWD sadken), reject; public.app snippet — reject; ismatimes Tejashwi Milan Samaroh — sirf party maujoodgi, reject; YouTube items — YouTube-only, reject. Profile imaandari se khaali rahi.
+
+biharWorks['prakash-chandra'] = [
+  {
+    title: 'Obra MLA Prakash Chandra ne apne naye sarkari bangal (Patna) ko Patna aane wale Obra ke niwasiyon ke liye muft rehne-khane ki suvidha ke roop me samarpit karne ki ghoshna ki',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Patna Press, 1 Mar 2026',
+    sourceUrl: 'https://patnapress.com/bihar-obra-mla-opens-patna-residence-for-public/',
+    date: '2026-03-01',
+    note: 'Ye entry MLA ka swayam-daava hai jo news me report hua hai, koi swatantra roop se satyapit pariyojna nahi. Patna Press (English) ne 1 Mar 2026 ko report kiya ki LJP-RV MLA ne apne naye Patna sarkari niwas ko sarvajanik seva kendra bataya jisme muft rehne aur bhojan ki suvidha hogi; aupcharik udghatan agle din 2 Mar 2026 ko scheduled tha. Report khud udghatan se pehle ki hai, aur 2 Mar ke udghatan ki koi post-event khabar khojne par nahi mili — isliye stage ghoshna/vaada-purti daava hi hai. Koi nirman-fund, tender, GO ya vidhayak-nidhi rashi shamil nahi hai — ye rajya sarkar dwara allot niwas ka upyog hai, koi swikrit yojna nahi. Disclosure: wahi ghoshna Patrika aur newzfatafat ne bhi 1 Mar 2026 ko cover ki thi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (prakash-chandra): LiveHindustan 7 Jan 2026, Obra community hall joint ribbon-cut (15th Finance panchayat fund — MLA sirf chief guest), reject; LiveHindustan 14 Jan 2026, Daudnagar children's park (nagar parishad project, 3 joint inaugurators me se ek), reject; Lokmat Times Samriddhi Yatra (CM Nitish event) — sirf maujoodgi, reject; Jagran 17 Nov 2025 profile — biography, reject; newzfatafat 1 Mar 2026 bungalow — dawa entry ka duplicate, reject. Post-2-Mar-inauguration coverage khoji — nahi mili.
+
+biharWorks['chetan-anand'] = [
+  {
+    title: 'Nabinagar me thane ke paas Rs 1.85 crore ke Samrat Ashok Bhawan ka shilanyas vidhayak Chetan Anand ne sanyukt roop me kiya',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, 23 Feb 2026',
+    sourceUrl: 'https://www.jagran.com/bihar/aurangabad-aurangabad-samrat-ashok-bhawan-nabinagar-development-projects-40151499.html',
+    date: '2026-02-23',
+    note: 'Stage: keval shilanyas. Dainik Jagran ki post-event report ke anusaar Ravivar 22 Feb 2026 ko vidhayak Chetan Anand ne Nagar Panchayat ke mukhya parshad pratinidhi Bipin Kumar Singh, PACS adhyaksh Anil Kumar Singh aur ward parshad Ritesh Kumar ke saath sanyukt roop se feeta katkar shilanyas kiya; Rs 1.85 crore ka Samrat Ashok Bhawan Nagar Awas evam Vikas Vibhag dwara thane ke paas banaya jayega. Credit-pardarshita: shilanyas MLA ne kiya, pariyojna khud nagar vibhag ka kaam hai, vidhayak-nidhi ka kaam nahi. Disclosure: usi article me poorv Nagar Panchayat adhyaksh Gunja Singh ki chetaavni uddhrit hai ki bina tender ke shilanyas samaroh ho rahe hain aur teen saal se koi tender nahi nikla, isliye poornata satyapit nahi hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Nabinagar me DNV School (Ward 13, Shiva Bigha Mor) se petrol pump hote hue Punpun nadi tak Rs 76 lakh ki naali-sadak ka shilanyas vidhayak Chetan Anand ne sanyukt roop me kiya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Dainik Jagran, 23 Feb 2026',
+    sourceUrl: 'https://www.jagran.com/bihar/aurangabad-aurangabad-samrat-ashok-bhawan-nabinagar-development-projects-40151499.html',
+    date: '2026-02-23',
+    note: 'Stage: keval shilanyas. Usi Dainik Jagran post-event report me Nagar Awas evam Vikas Vibhag dwara Ward 13 Shiva Bigha Mor me DNV School se petrol pump hote hue Punpun nadi tak Rs 76 lakh ki naali aur sadak ka nirman hona hai, aur uska shilanyas vidhayak Chetan Anand ne Nagar Panchayat pratinidhiyon ke saath sanyukt roop se kiya. Credit-pardarshita: ye nagar vibhag ka kaam hai; MLA ne keval shilanyas sanyukt roop se kiya, isliye ye unki swikrit ya vidhayak-nidhi ki pariyojna nahi batai gayi hai. Poornata satyapit nahi; article me bina tender shilanyas wali poorv adhyaksh Gunja Singh ki wahi aalochana hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (chetan-anand): LiveHindustan 20 Jan 2026 felicitation (NTPC CSR support + anumandal maang) — ghoshna/maang, reject; Jagran/ETV organ-donation pledge — social campaign, reject; Jagran election statement — political bayan, reject; patnapress Anand Mohan convoy incident — pita ka mamla, parivar-niyam, reject; YouTube items (private school opening, bypass promise) — YouTube-only, reject.
+
+biharWorks['lalan-ram'] = [
+  {
+    title: 'Kutumba me Deo block ke Rampur gaon me Rs 63.19 lakh ke jal-sanrakshan karyon — talab, kunwe aur check dam — ka lokarpan vidhayak Lalan Ram ne sanyukt roop me kiya',
+    category: 'Paani',
+    badge: 'sarkari',
+    sourceLabel: 'Prabhat Khabar, 22 Feb 2026 (est.)',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/aurangabad/inauguration-of-projects-worth-6-319-million',
+    date: '2026-02-22',
+    note: 'Stage: lokarpan (poore hue karyon ka anavaran), post-event report. Prabhat Khabar ke anusaar Kutumba AC ke Deo block ke Baranda Rampur panchayat ke Rampur gaon me Bihar Watershed Mahotsav 2026 me vidhayak Lalan Ram aur mukhiya Indrajeet Kumar ne sanyukt roop se jal-sanrakshan yojnaon — talab, kunwa aur check-dam karyon — ka lokarpan kiya, kul lagat Rs 63.19 lakh; ye kaam PM Krishi Sinchai Yojana 2.0 ke Jal Chhajan Vikas component ke tahat kendra aur Bihar sarkar ki agencies ne karwaye. Credit-pardarshita: ye sarkari yojna ke kaam hain; MLA ne lokarpan kiya, unhe swikrit karne ka daava nahi kiya gaya hai. Disclosure: article par print tithi nahi thi, 22 Feb 2026 ka anuman search-index se hai; Dainik Bhaskar me usi event ki identical report bhi mili.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (lalan-ram): LiveHindustan 2 sadak maang (recommendation patra) — sirf maang, reject; magadhexpress felicitation — "karenge" vaade, reject; newspointapp Surya Mahotsav (mantri event) — sirf maujoodgi + maang, reject; theeasternvoice Jiutiya Utsav — sirf maujoodgi, reject; public.app video — public.app-only, reject; YouTube Hadiyahi Dam promise — YouTube-only + karenge, reject.
+
+biharWorks['trivikram-narayan-singh'] = [];
+
+// REJECT-LOG (trivikram-narayan-singh): election-result coverage — kaam nahi, reject; LiveHindustan NDA samman samaroh — "vikas karenge" bayan, reject; LiveHindustan 14 Feb 2026 + Jagriti Times 15 Feb 2026 budget presser — medical college "banega" bayan, reject; Amar Ujala 11 Feb 2026 NH-139 vidhan sabha poorak prashn — sirf prashn, reject; LiveHindustan Jan 2026 Dev Surya Mahotsav — dharmik karyakram maujoodgi + CM ki "karenge" ghoshna, reject; news4nation Sep 2026 Pitripaksha Mahotsav — udghatan, vikas-kaam nahi, reject; LiveHindustan Jan 2026 zila sthapna divas + May 2026 Maharana Pratap Jayanti — sirf maujoodgi, reject; LiveHindustan 8 Apr 2026 foot-overbridge/adri-naala nirikshan — sirf nirikshan, reject; vayambharat Dec 2025 school abhiyan udghatan — school karyakram, reject; public.app Chamber baithak — public.app-only, reject; YouTube Holi Milan — YouTube-only, reject; Magadh Express Aug 2026 PMAY-G prasaran — CM/mantri event maujoodgi, reject; LiveHindustan 10 Jan 2026 G RAM G presser "19 km bypass swikriti" dawa — bina GO, ghoshna, reject; ismatimes Oct 2026 Deo medical college PPP aashwasan — dastavezi bhoomika nahi, reject; Dailyhunt CM-event — Dailyhunt + maujoodgi, reject; Bhaskar Sep 2025 sammelan hathapai — pre-term + beech-bachav, reject. Profile imaandari se khaali rahi.
+
+biharWorks['pramod-kumar-singh'] = [
+  {
+    title: 'Rafiganj me Uttari Koyal nahar ke kai sthanon par vibhagiya star par band kiye gaye pipe-nalon ko adhikariyon ki maujoodgi me khulwakar saat panchayaton ke kisanon tak sinchai ka paani dobara pahunchaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ISMA Times, 29 Jul 2026',
+    sourceUrl: 'https://ismatimes.com/rafiganj-mla-opened-north-koel-canal-pipes/',
+    date: '2026-07-29',
+    note: '29 July 2026 ko Rafiganj AC-224 ke JD(U) vidhayak Pramod Kumar Singh ne saat panchayaton (Baniya, Umanga, Mahuaawan, Ghatrain, Madanpur sahit) ke kisanon ki shikayat par vibhagiya adhikariyon ke saath mauke par jakar Uttari Koyal nahar par band kiye gaye pipe-nalon ko kisanon ki maujoodgi me khulwaya; uske baad nahar ka paani dobara kheton tak pahunchne laga aur kisanon ne rahat ki saans li. Stage: poorn prashasanik hastakshep (kaam sampann, outcome report hua) — koi nirmaan, swikriti ya shilanyas nahi; fund ka article me koi zikr nahi (paisa kharch wala kaam nahi). Disclosure: ekmatra srot chhota local portal ISMA Times hai (byline reporter Ajay Kumar Pandey, published 2026-07-29) — swatantra dusri khabar se pushti nahi mili, isliye single-source entry ke roop me rakhi hai. Credit-pardarshita: band nal vibhagiya star par kiye gaye the aur adhikari mauke par maujood the — MLA ki bhoomika hastakshep ki rahi, yojna ka shrey MLA ka nahi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (pramod-kumar-singh): ismatimes Nov 2025 chunav-prachar — pre-term, reject; LiveHindustan 17 Nov 2025 CM mulakat — sirf charcha, reject; party sangathan niyukti — party kaam, reject; athnews11 Oct 2026 pratima anavaran — sirf maujoodgi, reject; ismatimes Jeevika karyakram — party event, reject; Bhaskar Jan 2026 Super Bazar ghoshnaen — "karenge", reject; ismatimes Jul 2026 vidhan sabha mudde — sirf maang/prashn, reject; ismatimes Jun 2026 shok-mulaakat — sanvedna, reject; ismatimes Jul 2026 teen-divasiya karyakram — baithak/charcha, reject; LiveHindustan Jan 2026 janta darbar + public.app — sirf suni/nirdesh, reject; ismatimes May 2026 police-bayan — rajnaitik bayan, reject; ismatimes Jul 2026 patrakar samman — samman, reject; LiveHindustan Jan 2026 nagar panchayat baithak — sirf maujoodgi, reject; LiveHindustan Jan 2026 JD(U) sadasyata — party, reject; YouTube items — YouTube-only, reject; public.app nirikshan — reject; ismatimes 12 Dec 2025 Rafiganj golikand — RJD aarop par MLA ka khandan mila, lekin MLA ke viruddh FIR/case/janch ki reporting nahi — negative rule poora nahi, reject; pinewz Dec 2025 MLA ka CO-aarop — swayam-aarop, reject.
+
+// Coordinator QA note (Aurangabad-Bihar district batch, researched 2026-10-14): 3 parallel workers (A: amrendra+prakash, B: chetan+lalan, C: trivikram+pramod); maine teeno fragments khud padhkar QA kiya. Prakash Chandra ki dawa entry aur Chetan Anand/Lalan Ram ki titles+notes workers ne English me likhe the — sabko Roman-Hinglish me badla, disclosures poornatah preserve kiye; Pramod Kumar Singh ki entry workers ki hi rakhi (pehle se Hinglish, single-source disclosure + credit-pardarshita saaf). Prakash Chandra ki dawa-entry rakhne ka faisla: ye unka news-me-report hua swayam-daava hai (Patna Press + Patrika corroboration), pre-inauguration nature aur no-post-event-coverage note me disclose hai — dawa-badge ke sthapit pattern par rakhi. Pramod ki nahar-pipe entry accountability-action precedent (dastavezi parinam) par rakhi, single-source chhota-portal disclosure ke saath. Rafiganj golikand negative reject (koi FIR/case nahi), Chetan Anand par pita-Anand-Mohan ki koi khabar nahi jodi. Sabhi 6 slugs pehle khaali the — koi overwrite nahi. Bihar works kul: 3 → 8 entries.
