@@ -3019,3 +3019,89 @@ tamilNaduWorks['elangovan-d'] = [
 // - seenivasa-sethupathy-r: Madras HC ne DMK ki chunav-yachika reject kar di (28 Sep 2026) — akeli yachika negative nahi; galat Tiruppathur (north TN jila) trap pakda; naam-trap (Velmurugan alag vyakti) pakda.
 // - kulanthai-rani-a: Sivaganga hostel Mantri Prabhu ne lokarpit kiya — stage ka srot mantri ka, MLA ki entry nahi; The Hindu roadblock khabar madhyastha-matra thi.
 // - elangovan-d: EVKS/TKS Elangovan/DNC-chit-fund/D Thangapandi case — sab galat-vyakti/kshetra-bahar traps pakde.
+
+// ---- Tenkasi district batch (researched 2026-10-15) ----
+
+tamilNaduWorks['dr-dhilipan-jaishankar'] = [
+];
+// REJECT-LOG:
+// - ETV Bharat 2026-09-14 (Karivalamvandanallur railway station restoration): credit khud article me BJP district president Anandan Ayyasamy ko diya gaya hai, MLA ki koi bhoomika darj nahi — entry nahi bani.
+// - The Hindu 2025-07-25 (SIPCOT industrial estate inspection near Sankarankovil) aur 2025-08-20 (classrooms + boat jetty foundation stone by Minister Ramachandran): dono May 2026 karyakaal se pehle ke hain, purane MLA E. Raja karyakaal ke — reject.
+// - The Hindu 2024-09-03 (Assembly Estimates Committee inspection of Tenkasi works): karyakaal se bahut pehle, sirf nirikshan — reject.
+// - The Hindu April 2026 campaign piece (Sankarankovil lacks infrastructure): pre-poll reportage, koi vikas-kaam nahi — reject.
+// - Land-grab FIR khabar 2026-10-14 (Tenkasi Crime Branch case): galat-vyakti — aaropit DMK MLA T M Rajendran (Kadayanallur) hain, Dr. Dhilipan Jaishankar nahi — reject.
+// - The Hindu election affidavit/profile pages (April-May 2026): candidate biodata, koi karya-report nahi — reject.
+// - Established English media me May 2026 ke baad is MLA ke kisi lokarpan/shilanyas/swikriti ya vyaktigat karyakram ki post-event reporting nahi mili; chhote aggregator/YouTube-only items mila-bhugat attribution ke bina chhode diye.
+
+tamilNaduWorks['e-raja'] = [];
+
+// REJECT-LOG (e-raja, DMK, Vasudevanallur (SC) AC, Tenkasi — scope: May 2026+)
+// Identity: E. Raja, DMK, won Vasudevanallur (SC) 4 May 2026 — 63,045 votes, margin 6,583 over BJP's Ananthan Ayyasamy (56,462); previously Sankarankovil MLA 2021-2026 (same person, News18 Tamil + The Hindu confirm); also Tenkasi North DMK district secretary.
+// 1. The Hindu, "New schemes inaugurated; foundation stone laid for classrooms, boat jetty" (20 Aug 2025) — REJECT: pre-term; tab ve Sankarankovil (2021-26) ke MLA the, aur mantri ke karyakram me sirf maujood the; classroom shilanyas mantri ne kiya, MLA ki apni bhoomika nahi.
+// 2. The Hindu, "Minister flags off 8 new buses, lays foundation stone for additional workshop building" (18 Apr 2025) — REJECT: pre-term (Sankarankovil tenure); Transport Minister ka karyakram, sirf maujoodgi.
+// 3. The Hindu, "Health Walk Road inaugurated in four districts" (4 Nov 2023) — REJECT: pre-term (Sankarankovil tenure); zila-karyakram me sirf maujoodgi.
+// 4. lokmattimes (IANS), "CM Stalin's Tenkasi visit postponed due to heavy rains" (21 Oct 2025) — REJECT: pre-term; "North District Secretary and MLA Raja" ke roop me CM-visit sthal nirikshan me sirf maujoodgi, koi vikas-kaam nahi.
+// 5. lokmattimes (ANI), "Disabled man confronts TN minister over alleged nine-acre land encroachment; demands action against MLA" (14 Oct 2026) — REJECT as negative: GALAT VYAKTI — case DMK MLA T.M. Rajendran (Kadayanallur AC) ke khilaf hai, E. Raja ke khilaf nahi.
+// 6. The South First, "DMK MLA SR Raja booked for abusing management" — REJECT as negative: GALAT VYAKTI — ye Tambaram (Chennai) ke DMK MLA S.R. Raja hain, E. Raja alag vyakti hain.
+// 7. en.wikipedia "E. Raja" page — REJECT as source for works: minister-era (2016-21 AIADMK rule) details actually Sankarankovil ki purani V.M. Rajalakshmi se mishrit; pre-term weightlifter bio, koi Vasudevanallur karyakaal ka kaam nahi; Wikipedia fragment-source nahi ban sakta.
+// 8. Tamil media party meetings — dhinatamil (Tenkasi North INDIA-alliance consultative meeting, ~Jun 2025) aur maalaimalar (Tenkasi North DMK activists meeting, ~Mar 2026) — REJECT: party ki andaruni baithaken, ek bhi pre-election/vikas-kaam nahi.
+// 9. The Hindu, "Tenkasi Collector disburses welfare assistance worth Rs 59 lakh during Independence Day celebrations" (15 Aug 2026) — REJECT: Collector ka karyakram, E. Raja ka zikr bhi nahi.
+// 10. The Hindu, "Vasudevanallur constituency voters await reconstruction of Shenbhagavalli check-dam" (Apr 2026) — REJECT: pre-election feature, "karenge" khabar; karyakaal ke baad check-dam punarnirman par koi post-event reporting nahi mili.
+// 11. Election result coverage May 2026 (TOI, Indian Express, ETV Bharat, ABP Live, Business Today, Oneindia, NRI News India) — REJECT: chunav-parinaam, vikas-kaam nahi.
+// SEAT-WORK NATIJA: May 2026-Oct 2026 ke dauraan English press (The Hindu, IE, TOI, DT Next, TNM, South First, Deccan Herald, NDTV) aur Tamil press (ETV Bharat, News18 Tamil, Maalaimalar, Dhinatamil, Vikatan) me Vasudevanallur AC par E. Raja ki vyaktigat bhoomika wala koi qualifying vikas-kaam (lokarpan/shilanyas/swikriti/ghoshna) NAHI mila; profile imaandari se khaali rakhi gayi hai.
+
+tamilNaduWorks['rajendran-t-m'] = [
+  { title: 'Land grab FIR: MLA aur 5 anyon ke khilaf 9.7 acre pitr-paiti zameen farzi dastavezon se transfer karne ka aarop', note: 'Tenkasi jila crime branch ne 9 Oct 2026 ko Kadayanallur MLA T. M. Rajendran aur paanch anyon (unke bhai Chelladurai, ek VAO, zonal deputy tahsildar, land survey firka officer aur sub-registrar) ke khilaf FIR darj ki. Shikayatakarta Murugaiah (Coimbatore jile ke differently-abled vyakti) ka aarop hai ki Thirumalapuram gaon me unke parivar ki 9.7 acre ancestral zameen farzi dastavezon se bina legal-heir certificate ke transfer kar di gayi, baad me housing plots me convert karke bech di gayi, aur kuch hissa MLA ke 2026 chunav property-declaration me dikh raha hai. Kathit registrations 2008-2019 ke hain, MLA karyakaal se pehle ke — ye baat report me spasht darj hai. Police keh rahi hai janch chal rahi hai ki kya farzi lenden hue. Coverage (TOI) me MLA ka jawab report nahi hua, ye bhi disclose kar diya gaya hai.', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/madurai/kadayanallur-dmk-mla-five-others-booked-in-land-grabbing-case/articleshow/134925296.cms', date: '2026-10-14' },
+];
+
+// REJECT-LOG:
+// - The Hindu (breakfast scheme expansion launch, Tenkasi, ~Sep 2026): MLA T. M. Rajendran sirf Collector ke saath upasthit the; karyakram ki mejbani sarkar ne ki, MLA ki maujoodgi = kaam nahi.
+// - The Hindu (14 Jun 2026): Durai Vaiko ne MLA office ka udghatan kiya — office kholna vikas-kaam nahi.
+// - The Hindu election coverage (Apr-May 2026): matdaan/chunav khabar, May 2026 se pehle ki ghatnaen; karyakaal ke kaam nahi.
+// - Lokmat Times / ANI (14 Oct 2026, land grab story): TOI ke muqable kam detail; is case ke liye TOI entry hi kaafi, duplicate nahi banayi.
+// - dnaindia.com land-grab hit: purani (2011-12 era Jayalalithaa-era) khabar, galat Rajendran — reject.
+// - Ariyalur T. M. Rajendran FIR khabar: doosri district ka galat vyakti — reject (task warning confirmed).
+// - indiaherald.com / newslocker.com hits: CM-level school project news, is MLA ka koi zikr nahi; CM karyakram me maujoodgi bhi nahi darj — reject.
+// - constructionworld.in Mapilaiyoorani water project: Thoothukudi district ka MP-led kaam, Kadayanallur se bahar — reject.
+
+tamilNaduWorks['dr-kalai-kathiravan'] = [
+];
+// REJECT-LOG:
+// - The Hindu "Expanded breakfast scheme launched across four southern districts" (2026-09-22): MLA sirf karyakram me "in the presence of" maujood the, Collector Ranjeet Singh ne Ayikudi school me launch kiya — sirf maujoodgi entry nahi banti. URL: https://www.thehindu.com/news/cities/Madurai/expanded-breakfast-scheme-launched-across-four-southern-districts/article71495748.ece
+// - New Indian Express "Ahead of 2026 TN elections, MLA Kathiravan spices up ticket bid with outreach meet, hot biriyani" (2025-07-22): ye Manachanallur ke MLA S. Kathiravan hain, galat vyakti — naam-takarraav trap, reject.
+// - ThePrint/ABP Live/South First "CM Stalin inaugurates new projects in Tenkasi" (Dec 2022): purane karyakaal ki CM-level khabar, MLA ka koi role nahi — reject.
+// - The Hindu "Medical facilities worth Rs 10.91 crore inaugurated in Tenkasi district" (~Aug 2025): purane karyakaal me mantriyon (Health/Revenue) ka lokarpan — reject.
+// - Lokmattimes "CM Stalin's Tenkasi visit postponed" (Oct 2025): pre-term pre-event khabar — reject.
+// - Lokmattimes/The Hawk "CM Stalin to launch Rs 1,020 crore welfare projects in Tenkasi" (Oct 2025): pre-term pre-visit announcement, CM ka karyakram — reject.
+// - ABP Nadu/News18 Tamil/Polimer YouTube videos: YouTube-only coverage + chunav-prachar interviews (pre-MLA, election period) — source type aur time-period dono reject.
+// - Oneindia "Tamil Nadu MLAs With Criminal Cases" list me Dr. Kalai Kathiravan: 0 case — koi negative nahi mili.
+
+tamilNaduWorks['paul-manoj-pandian'] = [];
+
+// REJECT-LOG (paul-manoj-pandian, DMK, Alangulam AC — scope: May 2026+ seat-level kaam)
+// 1. New Indian Express, 7 Apr 2023: Kavalakurichi tank ke liye 4.6 km link canal ki PIL — HC ne dispose kiya, proposal sirf WRD priority list me tha — REJECT: 2023 ka purana karyakaal; swikriti/lokarpan bhi nahi.
+// 2. Daily Thanthi, 29 Jun 2023: Rs 20 lakh ka panchayat union school building ka lokarpan (Mudaliyarpatti, Kadayam) — REJECT: purana karyakaal (AIADMK term).
+// 3. Daily Thanthi, 5 Mar 2023: Rs 20 lakh ka bahu-uddeshiya bhavan ka lokarpan (Adaichani, Kadayam union) — REJECT: purana karyakaal.
+// 4. Maalai Malar, 4 Oct 2023: Rs 20 lakh ka 60,000-litre overhead water tank ka lokarpan (Muthukrishnaperi) — REJECT: purana karyakaal.
+// 5. Maalai Malar, 28 Aug 2023: Rs 15 lakh ka bahu-uddeshiya bhavan ka lokarpan (Kalloothu AD Colony) — REJECT: purana karyakaal.
+// 6. The Hindu / DT Next / ToI, 4 Nov 2025: AIADMK se DMK me shamil, usi din MLA pad se istifa — REJECT: rajnaitik ghatna, vikas kaam nahi.
+// 7. The Hindu, May 2026: Tenkasi jile me TVK ummidwaron ke votes par chunav-vishleshan (unke jeet ka ullekh) — REJECT: chunav khabar, kaam nahi.
+// 8. The Hindu, Apr 2026 (pre-poll): "Alangulam lacks job opportunities, vegetable storage" seat profile — REJECT: karyakaal-se-pehle ki chunavi khabar, kaam nahi.
+// 9. TNIE, 9 Oct 2026: Vadakku Kidarakulam me anganwadi building ke liye residents ne Alangulam MLA ko di thi maang — REJECT: sirf maang/gyapan, koi dastavezi karwai/kaam nahi.
+// 10. The Hindu, Oct 2026: Tenkasi me breakfast scheme ka vistar — Collector ne kiya udghatan, Pandian maujood bhi nahi; jila-stariya sarkari yojana — REJECT: unki koi dastavezi bhoomika nahi.
+// 11. webindia123 (ANI), Apr 2026: Kanimozhi ke Alangulam prachar me wade (drinking water, women's college) — REJECT: "karenge" khabar + chunav-se-pehle + unka kaam nahi.
+// 12. YouTube videos (DMK karyakarta jhagda, DMDK narazgi — 2026 chunav prachar) — REJECT: YouTube-only srot.
+// 13. Oneindia aggregate list ("Paul Manoj Pandian — 8 cases", DMK) — REJECT: aggregator halafnama suchi; May 2026+ me established media me koi FIR/case/janch ki qualifying reporting nahi, koi negative entry nahi.
+// 14. The Hindu, Aug 2022: AIADMK karyalaya hinsa (Jul 2022) me OPS, R. Vaithilingam aur P.H. Manoj Pandian par FIR — REJECT: 2022 ka purana maamla; May 2026+ me koi taza sthiti/adalaati reporting nahi.
+// 15. AAP ke Delhi MLA "Manoj Kumar" ki land-grabbing giraftari (Zee News) — REJECT: GALAT VYAKTI.
+// 16. indiankanoon me "P.H. Manoj Pandian" ke naam — REJECT: vakil ke roop me peshi (Ramya Devi case), aaropi nahi; koi negative nahi.
+// 17. SEAT-WORK NATIJA: May-Oct 2026 me established English/Tamil media me koi qualifying seat-level entry nahi; profile khaali.
+
+// COORDINATOR QA NOTE (Tenkasi, researched 2026-10-15):
+// - 5/5 MLA researched; pehchan sabhi ki verify. rajendran-t-m worker fragment English me tha — title/note Roman Hinglish me convert kiya.
+// - Kul titles: is batch se +1 (rajendran-t-m par NEGATIVE; 4 profiles imaandari se khaali).
+// - rajendran-t-m NEGATIVE: Tenkasi district crime branch ne 9 Oct 2026 ko FIR darj ki (TOI, khud khola); aarop 2008-2019 ke lenden par hai, karyakaal se pehle ke — stage-sach note me; MLA ka jawab reporting me nahi mila, disclose kiya gaya.
+// - dhilipan-jaishankar: "Thileepan Jayshankar" wahi vyakti; Kadayanallur land-grab wala Rajendran se alag — naam-trap saaf.
+// - e-raja: 2021-26 me Sankarankovil ke DMK MLA ab Vasudevanallur me; land-grab khabar T.M. Rajendran ki thi, inki nahi — naam-trap pakda.
+// - dr-kalai-kathiravan: Manachanallur ke S. Kathiravan alag vyakti; unke koi case nahi (0 criminal cases).
+// - paul-manoj-pandian: ex-AIADMK, 4 Nov 2025 ko DMK me; sab kaam purane karyakaal ke — khaali.
