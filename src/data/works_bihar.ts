@@ -1879,3 +1879,256 @@ biharWorks['chandra-shekhar'] = [
 // REJECT-LOG (chandra-shekhar): LiveHindustan 24 Nov 2025, drainage nirman me aniyamitta (press-varta) — swikriti swayam MLA ke shabdon me mahagathbandhan/Tejashwi Yadav era ki, pre-term; MLA sirf nirikshan/protest me the — sirf nirikshan, reject; LiveHindustan dusra article 24 Nov 2025 (drainage me gadbadi par bhadke) — wahi vivad, sirf nirikshan + press-varta, reject; Patrika + IndiaTV Nov 2025 thappad-video — nirikshan ke dauraan ki ghatna, kaam nahi; FIR maamla negative entry me darj, reject (as work); Amar Ujala 3 Oct 2025 Murho Durga Puja mele me grameenon ka virodh — pre-election + sirf virodh, kaam nahi, reject; YouTube (RJD MLA extortion case) — YouTube-only, reject; aas24news 14 Oct 2026 Janjaheli samiksha-baithak — galat vyakti (Dharampur, Himachal Pradesh ke MLA), reject; sanmarg.in 3 Oct 2026 Durgapur vikas-shubharambh — galat vyakti (Chandrashekhar Bandyopadhyay, Paschim Bengal), reject; YouTube shorts "sadak udghatan" (Doodh Ram ji) — galat vyakti + YouTube-only, reject; YouTube "PCC sadak udghatan" — YouTube-only + kshetra/MLA ki pushti nahi, reject; Zee News/Business Standard car-attack (Jhitkiya/Ghelar) — 28 Jan 2015, pre-term, reject; Business Standard/Zee News IGI airport goliyan maamla — Feb 2019, pre-term, reject; IndiaTV Jan 2024 "mandir-hospital" bayan — mantri-kaaryakaal ka vivadaspad bayan, works me nahi, reject; FinancialExpress/News18/DNA election-result coverage Nov 2025 — election news, kaam nahi, reject. Profile me koi positive entry nahi bani; negative entry sahit profile bhari maani gayi hai.
 
 // Coordinator QA note (Madhepura district batch, researched 2026-10-14): 4 parallel per-MLA workers; coordinator ne fragments kholkar QA kiya. Narendra Narayan Yadav ki 1 entry (School/lokarpan, Live Hindustan post-event, 28 Apr 2026 — "Mangalwar" weekday-verify; bhawan sarkari shiksha-vibhag yojana ka, vidhayak ka rol udghatan-charan me — credit-transparency disclosure joda). Niranjan Kumar Mehta KHAALI (14+ query rounds; unhi ke purane karyakaal ki sab sadak-khabren pre-term reject). Ramesh Rishi KHAALI (15 query rounds; 2010-2020 mantri-kal sab pre-term). Chandra Shekhar ki 1 NEGATIVE entry (News24 Hindi, 15 Dec 2025 — drainage-karyasthal par maarpeet/rangdari ke 2 FIR, thanadhyksha ne FIR ki pushti ki, vidhayak ka khandan darj, janch lambit — dosh-siddhi ka daava nahi; Bihar negative schema (sourceLabel/note, no stage) Pappu Verma/Rajesh Mandal precedent par. Sabhi 4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 94 -> 96 (+2).
+
+// ---- Madhubani district batch (researched 2026-10-14) ----
+
+biharWorks['sudhanshu-shekhar'] = [];
+
+// REJECT-LOG (sudhanshu-shekhar): profile KHAALI raha — qualifying entry koi nahi mili.
+// 1. LiveHindustan, 14 Jan 2026 — Harlakhi me Fullhar (Phulhar) tourism-development bhumi-pujan, mantri Arun Shankar Prasad aur vidhayak Sudhanshu Shekhar maujood; "Rs 32 crore ki saughat" — reject: project ka cabinet approval (Rs 31.55 crore) aur CM Nitish Kumar ka launch 26 Jul 2025 ko ho chuka tha (PTI se verify) — purane karyakaal ki swikriti; Jan 2026 ka karyakram repeat ceremony, vidhayak ki bhoomika sirf upasthiti + bayan, koi nayi swikriti/work-order nahi — pre-term reject.
+// 2. tennews.in, 27 Jan 2026 — CM Samriddhi Yatra Madhubani programme (Rs 391 crore package); Sudhanshu Shekhar sirf maujood MLAs ki suchi me — sirf maujoodgi, reject.
+// 3. YouTube (madhubaninews channel) — 20-sutri block office inauguration, Itharwa-Ranipatti bridge jayja, membership drive — YouTube-only + ~2024-25 vintage (pre-term), reject.
+// 4. LiveHindustan, 14 Nov 2025 — chunav jeet ki khabar (teesra karyakaal) — election coverage, kaam nahi, reject.
+// 5. Asianet News / Loksatta election profiles — biography, kaam nahi, reject.
+
+biharWorks['vinod-narayan-jha'] = [
+  {
+    title: 'Benipatti ke Balain Mahadalit tola me Rs 8 lakh ki PCC sadak ka udghatan (vidhayak aichhik kosh se)',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-04-11',
+    description: 'Live Hindustan ki post-event report ke anusaar 11 Apr 2026 ko Benipatti prakhand ke Balain Mahadalit tola me Rs 8 lakh ki PCC sadak ka udghatan vidhayak Vinod Narayan Jha ne kiya; gaonwale maujood the. Sadak vidhayak ke aichhik kosh se bani hai — fund-srot article me hi darj hai. Stage: lokarpan (poora hua kaam). Disclosure: isi article me vidhayak ke CM Nitish Kumar aur NDA netritva par siyasi bayan bhi hain, jo kaam nahi hain. AC-32 (Benipatti) ke andar ka kaam hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/madhubani/story-inauguration-of-pcc-road-by-mla-vinod-narayan-jha-in-benipatti-201775927928937.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (vinod-narayan-jha):
+// 1. Jagran, ~Aug 2025 — Bachhraja nadi, Damodarpur me Rs 8 lakh ghat (MKVY) udghatan; Rs 517 crore Benipatti-Punaura Dham sadak + Rs 216 crore Makiya-Sohan sadak "banega" dawa — pre-term (chunav se pehle) + "karenge" dawa, reject.
+// 2. Times of India, 18 Jun 2025 — Samsari Pokhar, Benipatti me Vidyapati tower + murti + park (Rs 20 lakh) udghatan — pre-term (purana karyakaal), reject.
+// 3. public.app (raushan360), Aug 2025 — Banakattha community hall, Baseth Mahadalit tola community hall — public.app-only + pre-term, reject.
+// 4. YouTube (BNN News Benipatti) — Akaur-Kesuli PCC road inauguration — YouTube-only, reject.
+// 5. inshorts — Amit Shah rally: "Madhubani me bada airport" wada — chunavi wada, koi karya nahi, reject.
+// 6. thejanpost/oneindia biography pages — stale bio (galat "PHED mantri" dawa), kaam nahi, reject.
+
+biharWorks['arun-shankar-prasad'] = [
+  {
+    title: 'Khajauli prakhand ke Theghha gaon (Beta Kakarghati) me sarkari pokhara par snan ghat ka udghatan (MKVY vidhayak kosh)',
+    category: 'Paani',
+    stage: 'lokarpan',
+    date: '2026-02-01',
+    description: 'Dainik Bhaskar ki post-event report ke anusaar vidhayak Arun Shankar Prasad ne Khajauli prakhand me lagbhag Rs 50 lakh ke teen poore ho chuke kaamon ka udghatan kiya — unme Theghha gaon (Beta Kakarghati) ke sarkari pokhara par snan ghat shamil hai, jo Mukhyamantri Kshetra Vikas Yojana (vidhayak kosh) se bana hai. Stage: lokarpan (poora hua kaam). Disclosure: Rs 50 lakh teeno kaamon ki kul lagat hai, sirf ghat ki nahi; Bhaskar page par print-tithi nahi thi — tithi search metadata se anumaanit hai, isliye 2026-02-01 (est.) maani hai. AC-33 (Khajauli) ke andar ka kaam hai.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/news/madhubani-projects-inaugurated-minister-arun-shankar-137085176.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khajauli prakhand ke Datwar gaon me MKVY se bani PCC sadak ka udghatan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-02-01',
+    description: 'Usi Dainik Bhaskar batch ka dusra kaam: Datwar gaon me Mukhyamantri Kshetra Vikas Yojana se bani PCC sadak ka udghatan vidhayak Arun Shankar Prasad ne kiya. Stage: lokarpan. Disclosure: tithi 2026-02-01 search metadata se anumaanit hai (print-tithi nahi thi); lagat teeno kaamon ki kul (~Rs 50 lakh).',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/news/madhubani-projects-inaugurated-minister-arun-shankar-137085176.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khajauli prakhand ke Mahua gaon me main road se Brahm sthan tak PCC sadak ka udghatan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-02-01',
+    description: 'Usi Dainik Bhaskar batch ka teesra kaam: Mahua gaon me main road se Brahm sthan aur Mithilesh Rai ke ghar tak PCC sadak ka udghatan. Stage: lokarpan. Disclosure: tithi 2026-02-01 anumaanit (search metadata se); lagat teeno kaamon ki kul (~Rs 50 lakh).',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/news/madhubani-projects-inaugurated-minister-arun-shankar-137085176.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khajauli prakhand ke Satedh gaon (Sarabe panchayat) me Barki Pokhar par snan ghat ka udghatan (MKVY vidhayak kosh)',
+    category: 'Paani',
+    stage: 'lokarpan',
+    date: '2026-05-25',
+    description: 'Dainik Bhaskar ki report ke anusaar vidhayak Arun Shankar Prasad ne lagbhag Rs 23 lakh ki teen yojnaon ka udghatan kiya — unme Satedh gaon (Sarabe panchayat) ke Barki Pokhar par snan ghat shamil hai, jo Mukhyamantri Kshetra Vikas Yojana (vidhayak kosh) se bana hai. Article ke anusaar ye pichhle vittiya varsh ki lambit yojnaen thi, jo ab poori hokar janta ko samarpit hui. Stage: lokarpan. Disclosure: Rs 23 lakh teeno yojnaon ki kul lagat; tithi print par nahi thi — search metadata se 2026-05-25 (est.) maani hai. AC-33 ke andar ka kaam hai.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/khajauli/news/three-schemes-worth-about-rs-23-lakh-inaugurated-in-different-villages-of-the-block-area-people-will-get-convenience-expressed-happiness-dbp-138020634.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khajauli prakhand ke Lakshmipur gaon (Datwar panchayat) me Salhesh sthan ke paas samudayik bhavan ka udghatan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-05-25',
+    description: 'Usi lagbhag Rs 23 lakh ke Dainik Bhaskar batch ka dusra kaam: Lakshmipur gaon (Datwar panchayat) me Salhesh sthan ke paas samudayik bhavan, vidhayak kosh (MKVY) se bana. Stage: lokarpan. Disclosure: tithi 2026-05-25 search metadata se anumaanit hai; lagat teeno yojnaon ki kul.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/khajauli/news/three-schemes-worth-about-rs-23-lakh-inaugurated-in-different-villages-of-the-block-area-people-will-get-convenience-expressed-happiness-dbp-138020634.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khajauli prakhand me Mangti Chowk purani hatia ke paas samudayik bhavan ka udghatan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-05-25',
+    description: 'Usi lagbhag Rs 23 lakh ke Dainik Bhaskar batch ka teesra kaam: Mangti Chowk me purani hatia ke paas samudayik bhavan, vidhayak kosh (MKVY) se bana. Stage: lokarpan. Disclosure: tithi 2026-05-25 anumaanit (search metadata se); lagat teeno yojnaon ki kul.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/khajauli/news/three-schemes-worth-about-rs-23-lakh-inaugurated-in-different-villages-of-the-block-area-people-will-get-convenience-expressed-happiness-dbp-138020634.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (arun-shankar-prasad):
+// 1. Jagran, 21 Nov 2025 — Khajauli jeetne par Arun Shankar Prasad ko Tourism + Art-Culture-Youth portfolio — mantri-niyukti ki khabar, seat-level kaam nahi, reject.
+// 2. Dainik Bhaskar, Nov 2025 — "first-time minister" biography — biography, kaam nahi, reject.
+// 3. LiveHindustan, 14 Jan 2026 — Fullhar tourism-development bhumi-pujan, tourism mantri ke roop me Arun Shankar Prasad ne kiya — mantri-bhoomika (state portfolio) ka karyakram, apni seat ke bahar; project purane karyakaal me swikrit/launched — reject.
+// 4. public.app — Datwar-Mahamaya sthan aur Dadha gaon me do Chhath ghat (Rs 15 lakh, MKVY) udghatan — public.app-only + ~Oct 2025 (pre-term), reject.
+// 5. Rediff, 8 Jun 2026 — Madhubani me shok-mulaakat ke dauraan mantri ke vahan par pathrav — incident news, kaam nahi, reject.
+
+biharWorks['mina-kumari'] = [];
+
+// REJECT-LOG (mina-kumari): profile KHAALI raha — qualifying entry koi nahi mili.
+// 1. biharhalchalnews, Oct 2026 — vikas karyon ki nigrani-teams + field daura — sirf nirikshan/daura, reject.
+// 2. LiveHindustan, Sep 2026 — 101 sarkari school ke bachchon ko Hindustan Olympiad me bhag dilane me aarthik madad — niji aarthik sahayta/samaj-seva, vikas-kaam nahi, reject.
+// 3. Jagran, Aug 2025 — seat profile — pre-election + purane karyakaal, reject.
+// 4. YouTube short — sadak me gadbadi par nirikshan — YouTube-only + sirf nirikshan, reject.
+// 5. election-result coverage — kaam nahi, reject.
+
+biharWorks['asif-ahmad'] = [
+  {
+    title: 'Bisfi ke Plus-Two Uchch Vidyalaya Nahas Khangraitha parisar me nav-sthapit degree college ka udghatan; satr 2026-30 ki kakshaen shuru',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-07-15',
+    description: 'Dainik Bhaskar ki post-event report ke anusaar Bisfi prakhand ke Plus-Two Uchch Vidyalaya Nahas Khangraitha parisar me nav-sthapit degree college ka udghatan vidhayak Asif Ahmad ne deep prajwalan karke kiya; college ke liye kul 44 pad swikrit hue hain aur shaikshanik satr 2026-30 me chhah vishayon me padhai shuru ho gayi hai. Stage: lokarpan (udghatan ke baad kakshaen shuru). Disclosure: yeh sarkari uchch-shiksha sansthan hai — swikriti vibhagiya hai; vidhayak ki kendriya bhoomika udghatan-karyakram me thi aur unhone ise chunav-waade ki poorti bataya. Article ke anusaar college ka abhi sthayi bhavan nahi hai (bhoomi ki talash jari), sirf 3 karmi karyarat hain aur 29 vidyarthiyon ne namankan karaya hai — purnata aanshik hai. Tithi article par print nahi thi — 2026-07-15 (est.) maani hai.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/madhubani/bisfi/news/bisphi-degree-college-inauguration-asif-ahmad-madhubani-education-138452135.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (asif-ahmad):
+// 1. mithilataknews, Apr 2026 — Bisfi me Plus Life Care Clinic ka udghatan vidhayak ne kiya — private clinic ka feeta-kaat, vikas-kaam nahi, reject.
+// 2. Times of India, Sep 2026 — Ram Sagar Tol New Primary School me 2 classroom ka shilanyas — shilanyas block pramukh Rita Kumari aur BDO Basant Kumar Singh ne kiya, vidhayak ki koi bhoomika nahi, reject.
+// 3. LiveHindustan/Jagran/ETV election coverage, Nov 2025 — kaam nahi, reject.
+
+biharWorks['madhaw-anand'] = [
+  {
+    title: 'Band Madhubani chini mil ke punaruddhar ko cabinet ki swikriti; vidhayak Madhaw Anand ka dawa — unki sakriyata ka natija',
+    category: 'Any',
+    stage: 'swikriti',
+    date: '2025-11-24',
+    description: 'Deshaj Times ki report ke anusaar lambe samay se band Madhubani chini mil ko dobara chalu karne ko state cabinet ne swikriti di; vidhayak Madhaw Anand ne circuit house me press conference karke dawa kiya ki chunav ke turant baad se ve lagatar sakriya rahe aur CM sahit bade netaon se kaee daur ki mulakaton me mil ke mahatva ki baat rakhi, aur pehli cabinet baithak me swikriti unhi prayason ka natija hai. Stage: swikriti (cabinet-level). Disclosure: swikriti state cabinet ki hai — article me vidhayak ki bhumika ka koi dastavezi saboot nahi hai, yeh unka press-conference dawa hai, isliye badge dawa hai. Srot chhota local portal (Deshaj Times) hai, established media nahi. Tithi 2025-11-24 (est.) maani hai.',
+    source: 'Deshaj Times',
+    sourceUrl: 'https://deshajtimes.com/news/bihar/madhubani/madhubani-sugar-mill-restart-approved-by-cabinet/166954/',
+    badge: 'dawa',
+    period: '2025-2030',
+  },
+  {
+    title: 'Do mahine ke karyakaal par press conference me shahri vikas ke dawe: Rs 19 crore mahila hostel, Rs 7 crore street lights, Rs 51 crore ki 1446 nagar-nigam yojanaen',
+    category: 'Any',
+    stage: 'ghoshna',
+    date: '2026-02-28',
+    description: 'Live Hindustan ki report ke anusaar vidhayak Madhaw Anand ne do mahine ke karyakaal ki press conference me dawa kiya: Sakri aur Raiyam chini mil ke liye agreement ki prakriya poori aur 2-2.5 varsh me kaam shuru hone ki ummeed; Rs 210 crore ring road ki prakriya aage badhi; Pandaul me Rs 19 crore se 200-bed mahila hostel banaya ja raha hai; Rs 7 crore se 5000 street light lagayi ja rahi hain; nagar nigam ke saath Rs 51 crore ki 1446 yojanaen prakriyadhin hain; Rs 5 crore nal jal yojna ki nivida prakriya jari hai; Rampatti me Rs 18 crore bus stand prastavit hai. Stage: ghoshna (kisi bhi item ka GO/work-order/shilanyas article me darj nahi hai). Disclosure: sab dawe vidhayak ke press-briefing ke hain — swatantra dastavezi saboot article me nahi hai, isliye badge dawa hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/madhubani/story-madhubani-mla-madhav-anand-promises-accelerated-development-initiatives-201772297436959.html',
+    badge: 'dawa',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (madhaw-anand):
+// 1. LiveHindustan, May 2026 — Nidhi Chowk se station tak sadak ke liye path nirman mantri se mulakat — sirf maang/anurodh, reject.
+// 2. Bhaskar, Jun 2026 — Kotwali Chowk se Pethghat sadak ke liye mantri-adhikariyon se sampark — sirf prayas/maang, koi swikriti nahi, reject.
+// 3. LiveAaryaavart, Sep 2026 — Madhubani natak mahotsav ka udghatan — sanskritik karyakram, vikas-kaam nahi, reject.
+// 4. YouTube — Pandaul me The Surya Foundation ka udghatan — YouTube-only + private sanstha, reject.
+// 5. newsdrum/PTI, Apr 2026 — sharabbandi sameeksha ki maang — siyasi bayan, kaam nahi, reject.
+// 6. theritanews — CM se gumti-13 ROB aur Mithila Haat DPR ki maang — sirf maang/prastav, reject.
+// 7. election-result coverage — kaam nahi, reject.
+
+biharWorks['sujeet-kumar'] = [];
+
+// REJECT-LOG (sujeet-kumar): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verify: Sujeet Kumar Paswan, Rajnagar (SC) AC-37 ke BJP MLA; MP Sujeet Kumar ya anya rajyon ke vyaktiyon se koi sambandh nahi.
+// 1. LiveHindustan (CM Samrat Chaudhary daura) — raj campus samadhan + krishi college + power grid ki ummeed — sirf maang/umeed, koi stage nahi, reject.
+// 2. LiveHindustan — Rajnagar me 57vaan Indra Puja mahotsav ka shubharambh — dharmik-sanskritik karyakram, vikas-kaam nahi, reject.
+// 3. LiveHindustan, Apr 2026 — Ranti-Rajnagar sadak me vilamb — shilanyas poorv vidhayak Ramprit Paswan ne chunav-se-pehle kiya tha, pre-term, reject.
+// 4. Jagran, Aug 2025 — seat-profile — pre-election + purane karyakaal ke kaam, reject.
+// 5. election-result coverage — kaam nahi, reject.
+
+biharWorks['nitish-mishra'] = [];
+
+// REJECT-LOG (nitish-mishra): profile KHAALI raha — vartaman karyakaal (Nov 2025+) me Jhanjharpur AC-38 ke andar koi qualifying kaam nahi mila. Nitish Mishra adhikansh samay mantri-padon (Industries, Mar 2024–Feb 2025; Urban Development & Housing, May 2026 se) me rahe — unke mantri-kal/rajya-stariya nirnayon ko kshetra-kaam nahi banaya.
+// 1. PTI/UNI/ThePrint, 27 Jan 2026 — Samriddhi Yatra me CM Nitish Kumar ne Madhubani jile ko Rs 391 crore ki 395 yojnaon ka package diya — CM ka state-package, Mishra sirf maujood, koi dastavezi concrete kadam nahi, reject.
+// 2. LiveHindustan, ~May 2026 — Jhanjharpur ki 17 sadkon ki quality ki janch; MLA ne 12 Jan 2026 ko Estimate Committee chairman ke roop me likhit shikayat ki thi — janch shuru hui, lekin kisi kaam ka stage nahi (sirf janch), reject.
+// 3. Bhaskar, Sep 2025 — Bhadawar-Khaira Rs 154 crore sadak-sah-pul shilanyas Path Nirman Mantri Nitin Naveen ne kiya — pre-term + minister ka karyakram, reject.
+// 4. YouTube Bihar24 — Jhanjharpur me model green industrial zone shilanyas (~Jun 2025) — pre-term + ministerial, reject.
+// 5. Punjab Kesari, Aug 2025 — Madhubani painting hastshilp prachar program shubharambh — pre-term + ministerial, reject.
+// 6. YouTube Bihar24 — Jhanjharpur me private "Maithil Cuisine" restaurant udghatan — YouTube-only + private, reject.
+// 7. patnapress, May 2026 — Urban Development & Housing mantri padbhar — ministerial, kaam nahi, reject.
+// 8. LiveHindustan, 14 Dec 2025 — estimate committee sabhapati niyukti — pad/niyukti, kaam nahi, reject.
+// 9. hindistanmedia, Mar 2025 — Bideshwarsthan-Jhanjharpur-Rampur-Mohna path ROB ghoshna — pre-term, reject. Naam-savdhani: CM Nitish Kumar ki khabron se alag rakha gaya.
+
+biharWorks['sheela-kumari'] = [
+  {
+    title: 'Ghoghardiha Nagar Panchayat Ward-1 me Rs 7.53 lakh ki sadak marammat ka lokarpan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-08-01',
+    description: 'Rajneeti Times ki post-event report ke anusaar Vigyan evam Praudyogiki Mantri sah Phulparas vidhayak Sheela Kumari (Sheela Mandal) ne Ghoghardiha Nagar Panchayat ke Ward-1 me Bhikhari Mandal ke ghar se Vishal ki dukaan tak sadak ki marammat (lagat Rs 7.53 lakh) ka lokarpan kiya; karyakram me JD(U) padadhikari aur sthaniya janpratinidhi maujood the. Stage: lokarpan (poora hua kaam). Disclosure: Ghoghardiha Phulparas AC-39 ke andar aata hai; article par print-tithi nahi thi — "Last Updated lagbhag 73 din pehle" aur "Shanivar" likha hai, 1 Aug 2026 ko Shanivar tha, isliye 2026-08-01 (est.) maani hai. Srot chhota local portal (Rajneeti Times) hai — bada national media nahi, isliye disclosure ke saath rakha hai.',
+    source: 'Rajneeti Times',
+    sourceUrl: 'https://rajneetitimes.in/3199',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Ghoghardiha Nagar Panchayat Ward-3 me Rs 24.44 lakh ki PCC sadak ka lokarpan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-08-01',
+    description: 'Usi udghatan samaroh ki report: Ward-3 me Ranjit Sadaay ke ghar se Googly Kamat ke ghar tak PCC sadak nirman (lagat Rs 24.44 lakh) ka lokarpan. Stage: lokarpan. Disclosure: tithi 2026-08-01 (est.) — print-tithi nahi thi, "Shanivar" se derive; srot chhota local portal hai.',
+    source: 'Rajneeti Times',
+    sourceUrl: 'https://rajneetitimes.in/3199',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sheela-kumari):
+// 1. LiveHindustan, ~Jun 2026 — Madhepur prakhand karyalaya me vikas yojnaon ki samiksha baithak — sirf samiksha/baithak, koi kaam ka stage nahi, reject.
+// 2. HT Syndication (Oct — likely 2025) — Madhepur me paanch sadkon ka shilanyas (~Rs 14.41 crore) — date aspasht (sambhavatah pre-term) + paywalled aggregator, reject.
+// 3. public.app, 18 Jun 2025 — Madhepur me teen sadkon ka shilanyas — pre-term + public.app-only, reject.
+// 4. LiveHindustan (Ram Navami, ~Apr 2026) — Lakshminarayan Mandir Tardiha me saptdivasiya Ram Navami sammelan sah mela ka udghatan — dharmik karyakram, kaam nahi, reject.
+// 5. YouTube, Jul 2026 — Singheshwar Sthan me Shravani mela udghatan — YouTube-only + mela, reject.
+// 6. bharatsurkhiya, Oct 2025 — Ghoghardiha me chunav karyalaya ka udghatan — pre-term political event, reject.
+// 7. Jagran, 14 Aug 2025 — Phulparas seat analysis — pre-term, kaam nahi, reject.
+// 8. Samriddhi Yatra Madhubani package, 27 Jan 2026 — CM ka program, MLA sirf maujood, reject.
+// 9. "Sah/Mandal" naam ke galat vyaktiyon wale results — galat vyakti, reject. Pehchan verify: Phulparas wali Sheela Kumari JD(U) MLA, "Sheela Mandal" unka parichit naam; Samrat sarkar me Vigyan-Praudyogiki mantri.
+
+biharWorks['satish-kumar-sah'] = [
+  {
+    title: 'Dudhaila super power grid se Laukaha railway station tak Rs 32 crore ki seedhi bijli aapoorti pariyojna ka shilanyas',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-04-05',
+    description: 'Live Hindustan ki post-event report ke anusaar Laukaha me Dudhaila super power grid se Laukaha railway station tak seedhi bijli aapoorti ki pariyojna — Rail Mantralaya dwara swikrit (Rs 32 crore), Dudhaila se Laukaha tak 25 km me kul 104 vidyut tower ka nirman, Kolkata ki agency ko jimma — ka shilanyas vidhayak Satish Kumar Sah ne Ravivar ko kiya; vidhayak ne nirdharit samay seema me poora karne ki baat kahi. Stage: shilanyas (swikriti ke baad karyarambh). Disclosure: yeh rail-vibhag ki yojna hai — swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai; vidhayak shilanyas-charan me kendriya bhoomika me the, isliye entry rakhi hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/madhubani/story-direct-power-supply-to-laukaha-railway-station-from-dudhaila-super-power-grid-approved-201775407311640.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (satish-kumar-sah):
+// 1. LiveHindustan, ~Aug 2026 — Laukahi TPC bhawan me shivir me 100 bhoomihinon ko parcha — sarkari shivir, MP Rampreet Mandal + vidhayak sirf maujood, vidhayak ki concrete bhumika ka saboot nahi, reject.
+// 2. prabhatkhabar, ~Mar 2026 — Nirmali (Supaul) me CM Samriddhi Yatra me Rs 569 crore ki 213 yojnaon ka shilanyas-udghatan — CM ka program + Supaul jila (kshetra-bahar), MLA sirf manch par, reject.
+// 3. prabhatkhabar, Sep 2026 — Ladania Mahtha me Ganesh puja sammelan me vishisht atithi — dharmik karyakram, kaam nahi, reject.
+// 4. election-result coverage, Nov 2025 — kaam nahi, reject.
+// 5. Zee News — Bulandshahr (UP) boxer Satish Yadav wali sadak khabar — galat vyakti, reject.
+// 6. "Sah" community wale generic results — galat vyakti, reject.
+
+// Coordinator QA note (Madhubani district batch, researched 2026-10-14): 3 parallel workers (A: Sudhanshu/Vinod/Arun, B: Mina/Asif/Madhaw/Sujeet, C: Nitish/Sheela/Satish); fragments coordinator ne kholkar QA kiya. Workers ne entry objects me note/sourceLabel bina stage ke likhe the — sab ko canonical positive-entry schema (title/category/stage/date/description/source/sourceUrl/badge/period) me normalize kiya. Arun Shankar Prasad aur Vinod Narayan Jha ke English titles ko Roman-Hinglish me convert kiya. Asif Ahmad ke Bhaskar URL se sharing-query params hatakar canonical article path rakha (article path aparivartit). Madhaw Anand ki 2 entries dawa badge par rakhi (Riti Pathak dawa precedent); chini mil wali swikriti-stage hai (cabinet swikriti Deshaj Times me darj, vidhayak ki bhoomika ka dastavezi saboot nahi — disclosure me), press-conference wali ghoshna-stage hai (GO/work-order saboot nahi). Nitish Mishra KHAALI (mantri-kal/rajya-stariya faisle exclude; 17-sadak janch sirf shikayat-janch thi, koi kaam-stage nahi). Sudhanshu Shekhar KHAALI (Fullhar bhumi-pujan purane karyakaal ki swikriti/launch ka repeat ceremony tha — Jan 2026 event reject; cabinet approval 26 Jul 2025 se pehle ka). Arun Shankar Prasad mantri hain lekin unki 6 entries seat-level MKVY lokarpan hain — mantri niyam ka samman. Sabhi 10 slugs pehle khaali the — koi overwrite nahi. Kul titles: 96 -> 109 (+13).
