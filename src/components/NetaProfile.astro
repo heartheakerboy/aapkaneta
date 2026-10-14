@@ -25,6 +25,8 @@ const cur = neta.tenures[neta.tenures.length - 1];
 const isRS = neta.house === 'Rajya Sabha';
 const reElected = neta.tenures.length > 1 || !!neta.prevAffidavit;
 const b = neta.background;
+const bgPending = (b.backgroundNote || '').startsWith('BACKGROUND_PENDING');
+const bgNoteShown = bgPending ? b.backgroundNote.replace(/^BACKGROUND_PENDING:\s*/, '') : b.backgroundNote;
 
 let bioParas: string[] = [];
 if (extra?.bio?.length) {
@@ -49,7 +51,8 @@ if (extra?.bio?.length) {
   if (ok(b.assets)) facts.push(`ghoshit kul sampatti ${b.assets}`);
   if (ok(b.liabilities)) facts.push(`deyta ${b.liabilities}`);
   if (facts.length) p2.push(`Chunav halafname ke anusaar unki ${facts.join(', ')} hai.`);
-  if (b.criminalCases === 0) p2.push('Halafname me unke khilaf koi aaparaadhik mamla darj nahi hai.');
+  if (bgPending) p2.push('Unka chunav halafnama abhi satyapit nahi ho saka hai (srot par page uplabdh nahi tha) — jankari poori hote hi yahan jod di jayegi.');
+  else if (b.criminalCases === 0) p2.push('Halafname me unke khilaf koi aaparaadhik mamla darj nahi hai.');
   else p2.push(`Halafname me unke khilaf ${b.criminalCases} aaparaadhik mamle darj hain — ye aankda neeche halafnama section me srot ke saath diya gaya hai. Dhyaan dein: mamla darj hona dosh-siddhi (conviction) nahi hai.`);
   if (neta.prevAffidavit) p2.push(`${neta.prevAffidavit.year} ke pichle halafname se tulna bhi is page par di gayi hai, taaki aap sampatti aur mamlo me badlav khud dekh sakein.`);
   if (p2.length) bioParas.push(p2.join(' '));
@@ -74,7 +77,7 @@ const supportPts: RaiPoint[] = extra?.support ? [...extra.support] : [];
 const critPts: RaiPoint[] = extra?.criticism ? [...extra.criticism] : [];
 if (!extra) {
   if (reElected) supportPts.push({ text: 'Matdataon ne unhe dobara chuna hai — pichle karyakaal ke baad bhi kshetra ne unpar bharosa banaye rakha.', sourceLabel: 'Chunav record' });
-  if (b.criminalCases === 0) supportPts.push({ text: 'Halafname me koi aaparaadhik mamla darj nahi — ye tathya unke sarvajanik record ka saaf paksh hai.', sourceLabel: 'ECI halafnama (myneta.info)', sourceUrl: b.mynetaUrl });
+  if (!bgPending && b.criminalCases === 0) supportPts.push({ text: 'Halafname me koi aaparaadhik mamla darj nahi — ye tathya unke sarvajanik record ka saaf paksh hai.', sourceLabel: 'ECI halafnama (myneta.info)', sourceUrl: b.mynetaUrl });
   if (verifiedCount > 0) supportPts.push({ text: `Is page par unke karyakaal ke ${verifiedCount} satyaapit kaam darj hain — har kaam srot ke saath janaacha gaya hai.`, sourceLabel: 'AapkaNeta record' });
   if (b.criminalCases > 0) critPts.push({ text: `Halafname me ${b.criminalCases} aaparaadhik mamle darj hain. Mamla darj hona dosh-siddhi nahi hai, lekin ye woh tathya hai jispar vipaksh aur media aksar sawal uthate hain — poora vivaran neeche halafnama section me hai.`, sourceLabel: 'ECI halafnama (myneta.info)', sourceUrl: b.mynetaUrl });
   if (neta.prevAffidavit) {
@@ -309,14 +312,14 @@ const districtMates = myDistrict
 
     <h2 class="section-title">Halafnama <span style="font-size:15px;font-weight:400;color:var(--ink-soft)">(ECI affidavit, myneta.info)</span></h2>
     <div class="card">
-      {neta.background.backgroundNote ? (
-        <p style="font-size:15.5px;color:var(--ink-soft)">{neta.background.backgroundNote}</p>
+      {bgNoteShown ? (
+        <p style="font-size:15.5px;color:var(--ink-soft)">{bgNoteShown}</p>
       ) : (
         <>
           <div class="bg-grid">
             <div class="bg-item"><span>Umar</span><b>{neta.background.age} varsh</b></div>
             <div class="bg-item"><span>Shiksha</span><b>{neta.background.education}</b></div>
-            <div class="bg-item"><span>Aaparaadhik mamle</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
+            <div class="bg-item"><span>Aaparaadhik mamle</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{bgPending ? '—' : neta.background.criminalCases}</b></div>
             <div class="bg-item"><span>Kul sampatti</span><b>{neta.background.assets}</b></div>
             <div class="bg-item"><span>Deyta (liabilities)</span><b>{neta.background.liabilities}</b></div>
           </div>
@@ -328,14 +331,14 @@ const districtMates = myDistrict
       <p style="font-size:15.5px;margin-top:14px">{neta.electionNote}</p>
     </div>
 
-    <h2 class="section-title">Halafnama{neta.prevAffidavit ? `: ${neta.prevAffidavit.year} vs ${neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'}` : (neta.state === 'Uttar Pradesh' || neta.state === 'Madhya Pradesh' ? '' : `: ${neta.state === 'Assam' ? '2021 vs 2026' : neta.state === 'Bihar' ? '2020 vs 2025' : neta.state === 'Gujarat' ? '2017 vs 2022' : neta.state === 'Rajasthan' ? '2018 vs 2023' : '2019 vs 2024'}`)}</h2>
+    <h2 class="section-title">Halafnama{neta.prevAffidavit ? `: ${neta.prevAffidavit.year} vs ${neta.state === 'Kerala' ? '2026' : neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'}` : (neta.state === 'Uttar Pradesh' || neta.state === 'Madhya Pradesh' ? '' : `: ${neta.state === 'Kerala' ? '2021 vs 2026' : neta.state === 'Assam' ? '2021 vs 2026' : neta.state === 'Bihar' ? '2020 vs 2025' : neta.state === 'Gujarat' ? '2017 vs 2022' : neta.state === 'Rajasthan' ? '2018 vs 2023' : '2019 vs 2024'}`)}</h2>
     <div class="card">
       {neta.prevAffidavit ? (
         <>
           <p style="font-size:14.5px;color:var(--ink-soft);margin-bottom:14px">Dono chunavon ke halafnamon ke aankde — aap khud tulna karein.</p>
           <div class="bg-grid">
             <div class="bg-item"><span>Kul sampatti ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.assets}</b></div>
-            <div class="bg-item"><span>Kul sampatti ({neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.background.assets}</b></div>
+            <div class="bg-item"><span>Kul sampatti ({neta.state === 'Kerala' ? '2026' : neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.background.assets}</b></div>
             {neta.prevAffidavit.assetsNum > 0 && (
               <div class="bg-item"><span>5 saal me badlav</span><b>{
                 (() => {
@@ -348,9 +351,9 @@ const districtMates = myDistrict
               }</b></div>
             )}
             <div class="bg-item"><span>Aaparaadhik mamle ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.criminalCases}</b></div>
-            <div class="bg-item"><span>Aaparaadhik mamle ({neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{neta.background.criminalCases}</b></div>
+            <div class="bg-item"><span>Aaparaadhik mamle ({neta.state === 'Kerala' ? '2026' : neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{bgPending ? '—' : neta.background.criminalCases}</b></div>
             <div class="bg-item"><span>Shiksha ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.education}</b></div>
-            <div class="bg-item"><span>Umar ({neta.prevAffidavit.year} → {neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.prevAffidavit.age} → {neta.background.age} varsh</b></div>
+            <div class="bg-item"><span>Umar ({neta.prevAffidavit.year} → {neta.state === 'Kerala' ? '2026' : neta.state === 'Assam' ? '2026' : neta.state === 'Gujarat' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.prevAffidavit.age} → {neta.background.age} varsh</b></div>
           </div>
           <p style="font-size:14px;color:var(--ink-soft);margin-top:8px">
             {neta.prevAffidavit.year} ka poora halafnama: <a href={neta.prevAffidavit.mynetaUrl} rel="noopener">myneta.info par dekhein</a>
