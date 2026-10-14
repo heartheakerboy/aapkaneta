@@ -2,8 +2,10 @@
 interface Props {
   title: string;
   description?: string;
+  jsonLd?: Record<string, unknown>;
 }
-const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verified neta work tracker.' } = Astro.props;
+const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verified neta work tracker.', jsonLd } = Astro.props;
+const canonical = new URL(Astro.url.pathname, 'https://aapkaneta.org').href;
 ---
 
 <!doctype html>
@@ -23,6 +25,16 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title} | AapkaNeta.org</title>
     <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="AapkaNeta.org" />
+    <meta property="og:title" content={`${title} | AapkaNeta.org`} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={`${title} | AapkaNeta.org`} />
+    <meta name="twitter:description" content={description} />
+    {jsonLd && <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />}
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <style is:global>
       :root {

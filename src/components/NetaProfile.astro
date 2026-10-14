@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { badgeMeta, allConstituencies } from '../data/all';
+import { badgeMeta, allConstituencies, allNetas } from '../data/all';
+import { districtSlug } from '../data/geo';
 import { profiles } from '../data/profiles';
 import type { Neta, RaiPoint, VerdictLine } from '../data/pilot';
 
@@ -89,9 +90,32 @@ if (!extra) {
 }
 const supportHead = extra ? '👍 Samarthak kya kehte hain' : '👍 Paksh me jane wale tathya (record se)';
 const critHead = extra ? '👎 Aalochak kya kehte hain' : '👎 Sawal uthne wale tathya (record se)';
+
+// ---------- SEO: samriddh meta description + Person schema + jile ke anya neta (interlinking) ----------
+const pageUrl = `https://aapkaneta.org${base}/neta/${neta.slug}/`;
+const descParts: string[] = [`${neta.name} (${neta.partyShort}, ${neta.post} — ${neta.constituency}, ${stateName}) ne apne karyakaal me kya kaam kiya?`];
+if (neta.works.length) descParts.push(`Karyakaal ke ${neta.works.length} satyaapit kaam darj hain.`);
+if (ok(b.assets)) descParts.push(`Chunav halafnama: ghoshit sampatti ${b.assets}${b.criminalCases === 0 ? ', koi aaparaadhik mamla nahi' : `, ${b.criminalCases} aaparaadhik mamle darj`}.`);
+descParts.push('Poora record — kaam ka hisaab, halafnama, sampatti aur janta ki rai — AapkaNeta par.');
+const metaDescription = descParts.join(' ');
+const personLd: Record<string, unknown> = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: neta.name,
+  jobTitle: neta.post === 'MLA' ? 'Member of Legislative Assembly (MLA)' : neta.post === 'MP' ? 'Member of Parliament (MP)' : neta.post,
+  affiliation: { '@type': 'Organization', name: neta.party },
+  homeLocation: { '@type': 'Place', name: `${neta.constituency}, ${stateName}` },
+  url: pageUrl,
+  mainEntityOfPage: pageUrl,
+};
+const myDistrict = constInfo?.district;
+const districtConsts = myDistrict ? new Set(allConstituencies.filter(c => (c.state ?? 'Maharashtra') === myState && c.district === myDistrict).map(c => c.slug)) : new Set<string>();
+const districtMates = myDistrict
+  ? allNetas.filter(n => n.slug !== neta.slug && (n.state ?? 'Maharashtra') === myState && districtConsts.has(n.constituencySlug)).slice(0, 12)
+  : [];
 ---
 
-<Layout title={`${neta.name} — ${neta.constituency} ka hisaab`} description={`${neta.name} (${neta.partyShort}, ${neta.post} — ${neta.constituency}) ne apne karyakaal me kya kaam kiya? RTI-verified record.`}>
+<Layout title={`${neta.name} — ${neta.constituency} ka hisaab`} description={metaDescription} jsonLd={personLd}>
   <style>
     .profile-hero { background: #fff; border-bottom: 1px solid var(--line); padding: 40px 0 30px; }
     .p-top { display: flex; gap: 22px; align-items: center; flex-wrap: wrap; }
@@ -153,6 +177,13 @@ const critHead = extra ? '👎 Aalochak kya kehte hain' : '👎 Sawal uthne wale
     .rai li:last-child { margin-bottom: 0; }
     .rai .src { font-size: 12.5px; color: var(--ink-soft); }
     .rai-disclaimer { border: 1px dashed var(--accent); background: var(--accent-soft); border-radius: 12px; padding: 14px 18px; font-size: 14px; color: #5b4326; margin-top: 14px; }
+    .rel-netas { margin-top: 8px; }
+    .rel-note { font-size: 14.5px; color: var(--ink-soft); margin-bottom: 14px; }
+    .rel-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+    .rel-card { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; text-decoration: none; }
+    .rel-card:hover { border-color: var(--accent); }
+    .rel-card b { display: block; color: var(--ink); font-size: 15px; margin-bottom: 3px; }
+    .rel-card span { font-size: 13px; color: var(--ink-soft); }
   </style>
 
   <div class="profile-hero">
@@ -329,6 +360,21 @@ const critHead = extra ? '👎 Aalochak kya kehte hain' : '👎 Sawal uthne wale
         <p style="font-size:15px;color:var(--ink-soft)">Pichhle chunav ka halafnama uplabdh nahi — us samay ye ummidwar nahi the, ya record nahi mila.</p>
       )}
     </div>
+
+    {districtMates.length > 0 && (
+      <div class="rel-netas">
+        <h2 class="section-title">{myDistrict} jile ke anya neta</h2>
+        <p class="rel-note">Isi jile ke anya jan-pratinidhiyon ka record bhi dekhein — <a href={`${base}/jila/${districtSlug(myDistrict!)}/`}>{myDistrict} jila page</a> par poori suchi hai.</p>
+        <div class="rel-grid">
+          {districtMates.map(m => (
+            <a class="rel-card" href={`${base}/neta/${m.slug}/`}>
+              <b>{m.name}</b>
+              <span>{m.post} • {m.constituency} • {m.partyShort}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
 
     <div class="cta-row" style="margin: 36px 0 8px">
       <a class="btn" href={`/rti/?seat=${neta.constituencySlug}${stateName && stateName !== 'Maharashtra' ? `&state=${stateName}` : ''}`}>Is neta par RTI lagao</a>
