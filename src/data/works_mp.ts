@@ -1865,3 +1865,187 @@ mpWorks['neelesh-pusaram-uikey'] = [
     period: '2023-2028',
   },
 ];
+
+// ---- Damoh district batch (researched 2026-10-14) ----
+// Damoh batch — lakhan-patel (Pathariya AC-54), jayant-malaiya (Damoh AC-55),
+// dharmendra-bhav-singh-lodhi (Jabera AC-56), umadevi-lalchand-khatik (Hatta SC AC-57).
+// DO NOT export; appended to works_mp.ts
+
+mpWorks['lakhan-patel'] = [
+  {
+    title: 'Bakaini (Pathariya) me Rs 354.50 lakh ki lagat se bana 33/11 kV (5 MVA) vidyut upkendra ka lokarpan — RDSS yojna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sahara Samachaar, 22 Nov 2025',
+    sourceUrl: 'https://saharasamachaar.com/new-strength-to-power-system-in-patharia-cabinet-minister-lakhan-patel/',
+    date: '2025-11-22',
+    note: 'Article ke mutabik unhone Pathariya vidhansabha ke gram Bakaini me RDSS yojna ke tahat Rs. 354.50 lakh ki lagat se bane 33/11 kV (5 MVA) vidyut upkendra ka lokarpan kiya; isse 21 gaon ko sthir bijli aapurti ka labh milne ka daava (voltage samasya aur bijli katauti se rahat). Status: lokarpan — upkendra chalu. Credit-pardarshita: ye rajya bijli vibhag (RDSS) ki pariyojna hai; unki concrete bhoomika lokarpan-karta ke roop me article me spasht hai (Damoh sansad Rahul Singh Lodhi, jila panchayat adhyaksh aadi karyakram me maujud the). Note: ye pashupalan-mantri (MoS, swatantra prabhar) ke roop me ki gayi Pathariya-kshetra-specific gatividhi hai; unke vibhag ke rajya-stariya faisle is list me nahi liye gaye.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['jayant-malaiya'] = [
+  {
+    title: 'Kankali Mata mandir aur Jata Shankar muktidham me Rs 44 lakh se adhik ke nirman karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Atal News 24, 26 Sep 2025',
+    sourceUrl: 'https://www.atalnews24.com/2025/09/44.html',
+    date: '2025-09-26',
+    note: 'Unhone Bajaria 05 sthit Kankali Mata mandir me Rs. 24 lakh ki lagat se boundary wall/shed aadi, aur Jata Shankar sthit muktidham me Rs. 20.04 lakh ki lagat se boundary wall, shed, guard room aadi ke nirman ka bhoomi-pujan kiya; CMO ke mutabik ye CM Monitor Yojna ke tahat hain. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Credit-pardarshita: ye nagar-palika/shasan ki pariyojnaen hain; unki bhoomika bhoomi-pujan-karta ke roop me spasht. Note: usi article me Jata Shankar–Dharampura ring road ke gaddhon ki samasya bhi uthayi gayi hai — ye nagar-palika ke jimme ka mudda hai, unpar vyaktigat aarop nahi hai; santulit jaankari ke liye ullekh kiya gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Datla me Rs 10 lakh ki lagat se bane samudayik bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Jan Jagran 24, 21 Mar 2026',
+    sourceUrl: 'http://www.janjagran24.com/2026/03/blog-post_21.html',
+    date: '2026-03-21',
+    note: 'Article ke mutabik unhone gram Datla me Rs. 10 lakh ki lagat se nirmit samudayik bhavan ka lokarpan kiya. Status: lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Semra Madia me shed ke neeche CC nirman karya ka shubharambh/lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jan Jagran 24, 21 Mar 2026',
+    sourceUrl: 'http://www.janjagran24.com/2026/03/blog-post_21.html',
+    date: '2026-03-21',
+    note: 'Article ke mutabik unhone gram Semra Madia me shed ke neeche CC (concrete) nirman karya ka shubharambh/lokarpan kiya. Status: shubharambh/lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Abhana me Rs 25 lakh ki lagat se bane samudayik bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Jan Jagran 24, 21 Mar 2026',
+    sourceUrl: 'http://www.janjagran24.com/2026/03/blog-post_21.html',
+    date: '2026-03-21',
+    note: 'Article ke mutabik unhone gram Abhana me Rs. 25 lakh ki lagat se bane samudayik bhavan ka lokarpan kar graminon ko samarpit kiya. Status: lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Damoh Medical College ke PPP-sanchalan ka virodh — CM se mulakat; sarkar ne PPP se inkar ka elan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'IANS (Lokmat Times), 24 Sep 2026',
+    sourceUrl: 'https://www.lokmattimes.com/national/mp-govt-rules-out-ppp-model-for-state-medical-colleges-amid-damoh-row/',
+    date: '2026-09-24',
+    note: 'Unhone CM Mohan Yadav se milkar maang rakhi ki lagbhag Rs. 350 crore sarkari kharch se ban rahe Damoh Medical College ka sanchalan sarkar khud kare, ise niji haathon (PPP) me na diya jaye — unka tark tha ki janta par adhik fees/mahange ilaaj ka bojh padega. Iske baad Deputy CM Rajendra Shukla ne bayan diya ki rajya-nidhi se bane/ban rahe medical college PPP me nahi diye jayenge, sarkar hi sanchalan karegi. Status: maang sweekrit (sarkari elan) — college ka nirman unka kaam nahi hai, ye rajya sarkar ki pariyojna hai; yahan sirf unki pahal aur uska parinam darj hai, nirman/sanchalan ka shrey unhe nahi diya ja raha. Sirf Dec 2023+ ke karyakaal ki ghatna hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Press conference me Damoh vidhansabha ke karya-account ka dawa (2024-25 aur 2025-26 ka hisaab)',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Atal News 24, 27 Aug 2026',
+    sourceUrl: 'https://www.atalnews24.com/2026/08/blog-post_27.html',
+    date: '2026-08-27',
+    note: 'DISCLOSURE: ye vidhayak ka swayam-daava hai jo press conference me news me report hua — aankde unke diye gaye hain, swatantra roop se satyapit nahi hain (badge: dawa). Article ke mutabik unhone daava kiya: nagariya kshetra me CM adhossanrachna mad se 2024-25 me 22 karyon par Rs. 4.76 crore aur 2025-26 me 26 karyon par Rs. 4.99 crore kharch; grameen me 109 karyon par Rs. 12.74 crore; vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund nahi) se nagariya me 129 karyon par Rs. 2.76 crore aur grameen me 159 karyon par Rs. 3.09 crore; kul 75 sadken swikrit; 50-bistar critical care health block ka lokarpan; 46 aanganbadi bhavan swikrit (Rs. 5.15 crore); Amrit 2.0 me 3 talabon ka saundaryikaran; 24-ghante peyjal ke liye second rising line aur sewer line yojna. Status: daava — swatantra verification ke bina vikas-karya ke roop me nahi gina gaya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dharmendra-bhav-singh-lodhi'] = [
+  {
+    title: 'Sunwaha (Jabera block) me Rs 314 lakh ki pakki sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Pi Newz, 18 Nov 2025',
+    sourceUrl: 'https://pinewz.com/hindi/video/madhya-pradesh/damoh-paved-road-inaugurated-in-sunwaha-development-path-worth-314-lakh-1763428785059',
+    date: '2025-11-18',
+    note: 'Unhone Jabera block ke Sunwaha me Rs. 314 lakh ki lagat se banne wali pakki sadak ka bhoomi-pujan kiya; ilaka barish me daldal-ban jata tha aur lambe samay se sadak ki maang thi. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Credit-pardarshita: shasan ki pariyojna; unki bhoomika bhoomi-pujan-karta ke roop me spasht. Note: ye sanskriti-paryatan mantri ke roop me ki gayi Jabera-kshetra-specific gatividhi hai; unke vibhag ke rajya-stariya faisle is list me nahi liye gaye. Disclosure: Pi Newz chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Lamtra (Gubarakalan) me Mangal Bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Atal News 24, 10 Jan 2025',
+    sourceUrl: 'https://www.atalnews24.com/2025/01/blog-post_10.html',
+    date: '2025-01-10',
+    note: 'Janpad Jabera ki gram panchayat Gubarakalan ke gram Lamtra me bane Mangal Bhavan ka unhone lokarpan kiya. Caveat: article me lagat "20 laagat rupaye" likhi hai — sankhya aspasht hai (sambhavatah Rs. 20 lakh), isliye lagat ko vahi rakha hai jo article me likha hai. Status: lokarpan. Note: mantri-rule disclosure — ye Jabera-kshetra-specific gatividhi hai; sanskriti-paryatan vibhag ke rajya-stariya faisle is list me nahi liye gaye.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Ramsalaiya me Rs 37.49 lakh ke Atal Gram Sushasan Bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Atal News 24, 10 Jan 2025',
+    sourceUrl: 'https://www.atalnews24.com/2025/01/blog-post_10.html',
+    date: '2025-01-10',
+    note: 'Unhone gram Ramsalaiya me Rs. 37.49 lakh ki lagat se banne wale Atal Gram Sushasan Bhavan ka bhoomi-pujan kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Note: mantri-rule disclosure jaise upar.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pauri Mangarh me saptahik haat bazaar ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Atal News 24, 10 Jan 2025',
+    sourceUrl: 'https://www.atalnews24.com/2025/01/blog-post_10.html',
+    date: '2025-01-10',
+    note: 'Gram Kodakala ke karyakram ke dauran unhone Pauri Mangarh me saptahik haat bazaar ka shubharambh kiya. Status: shubharambh. Note: mantri-rule disclosure jaise upar.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Patloni (Tejgarh mandal) me Rs 17.04 lakh ke naveen talab ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Jan Jagran 24, 21 Mar 2026',
+    sourceUrl: 'http://www.janjagran24.com/2026/03/blog-post_21.html',
+    date: '2026-03-21',
+    note: 'Mandal Tejgarh ke gram Patloni me Rs. 17.04 lakh ki lagat se bane naveen talab ka unhone (Damoh sansad Rahul Singh aur jiladhyaksh ke saath) lokarpan kiya; sinchai aur jal-sanrakshan ka labh bataya gaya. Status: lokarpan. Credit-pardarshita: shasan ki pariyojna; unki bhoomika lokarpan-karta ke roop me spasht. Note: mantri-rule disclosure jaise upar.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Tejgarh se tehsil marg tak Rs 6 lakh ki CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Jan Jagran 24, 21 Mar 2026',
+    sourceUrl: 'http://www.janjagran24.com/2026/03/blog-post_21.html',
+    date: '2026-03-21',
+    note: 'Unhone Tejgarh se tehsil marg tak Rs. 6 lakh ki lagat se banne wali CC sadak ka bhoomi-pujan kiya; barish me aavagaman ki samasya se rahat ka daava. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Note: mantri-rule disclosure jaise upar.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['umadevi-lalchand-khatik'] = [
+  {
+    title: 'Laltek (Hatta) me bina prashasanik aadesh ghar todne ka aarop — driver ne kaha vidhayak ke kehne par kiya; tehsildar ne machine zabt ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Zee News, Jun 2026 (est.)',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/damoh/damoh-house-demolished-without-government-order-tehsildar-seizes-machine-allegations-against-mla-uma-devi/3252769',
+    date: '2026-06',
+    note: 'Zee News ke mutabik Hatta me Central School ke paas Laltek me ek niji poclain machine ne dashakon se reh rahe ek garib adivasi parivar ka kaccha ghar gira diya; ye kisi prashasanik aadesh ke tahat nahi tha — tehsildar ne machine zabt kara di. Machine ke driver ne daava kiya ki usne vidhayak Uma Devi Khatik ke kehne par ye kiya; sthaniya mahilaon ne aarop lagaya ki vidhayak ne us kshetra me zameen li hai jise keemti banane ke liye ye karwaya gaya. Case sthiti: article me kisi FIR/mukadme ka ullekh nahi hai; tehsildar dwara machine zabt karne tak ki jaankari hai. Vidhayak ka jawab: article me unka paksh uplabdh nahi hai. Status: aarop (apramanit) — dosh siddh nahi hua hai; ye entry aarop ki reporting hai, faisla nahi. Date: search-index timing (~Jun 2026) se est.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (Damoh district batch, researched 2026-10-14):
+// KEPT: lakhan-patel = 1; jayant-malaiya = 6; dharmendra-bhav-singh-lodhi = 6; umadevi-lalchand-khatik = 1.
+// REJECTED — Lakhan Patel (Pathariya, MoS):
+// - public.app (Patharia News): Bakaini/Nandarai me Rs. 1161.96 lakh ke vikas karyon ka lokarpan/bhoomi-pujan — public.app-only source bilkul nahi; non-public.app source nahi mila (Bhaskar/Jagran search me nahi aaya), isliye reject.
+// - public.app: Semra Buzurg me Rs. 522.52 lakh sadak ka bhoomi-pujan (Nov 2025) — public.app-only, reject.
+// - public.app: Pathariya me Atal Vatika ka lokarpan (Amrit 2.0) — public.app-only, reject.
+// - atalnews24 (Dec 2023): Pathariya ki jal-samasya par swayam Sunar nadi par kaam karwana — nirikshan/nigrani, kaam (work) nahi; reject.
+// REJECTED — Jayant Malaiya (Damoh):
+// - janjagran24 (Mar 2026): gram Imlai me Rs. 15 lakh samudayik bhavan ka lokarpan "karenge" — bhavishya-tatkaal (future tense), hua nahi; announcement, reject.
+// - janjagran24 (Mar 2026): gram Bansa Tarkheda me stamp dam ka nirikshan — nirikshan, reject.
+// - atalnews24 (Aug 2026 press conference): TET pariksha ke khilaf gyapan — ghatna/maang, kaam nahi; reject.
+// - Bhumika Bhaskar (2020) aur atalnews24 (Feb 2023) ke purane lekh — karyakaal se pehle, reject.
+// REJECTED — Dharmendra Singh Lodhi (Jabera, mantri):
+// - atalnews24 (Jan 2025): gram Sahasna me CM Jan Kalyan shivir me shamil — karyakram me maujoodgi, kaam nahi; reject.
+// - atalnews24 (Jan 2025): Kodakala karyakram me haziri — maujoodgi, reject.
+// - janjagran24 (Mar 2026): Radheshyam petrol pump ka shubharambh — niji pratishthan, unka kaam nahi; reject.
+// - janjagran24 (Mar 2026): TET gyapan — ghatna/maang, reject.
+// - Bhumika Bhaskar (2020) model school hostels bhoomi-pujan — karyakaal se pehle, reject.
+// REJECTED — Umadevi Khatik (Hatta SC):
+// - public.app: gram panchayat Baleh me Rs. 98 lakh vikas karyon (samudayik bhavan, CC, nali) ka bhoomi-pujan — public.app-only, reject.
+// - navabharat.com: Hatta hospital parisar me swachhata abhiyan me shramdaan — ghatna, kaam nahi; reject.
+// - ETV Bharat: Sagar sambhag baithak me sujhav (adhikariyon ki upasthiti, hospital staff) — sujhav/maang, kaam nahi; reject.
+// - Patrika: prabhari mantri se do jila-mantriyon ki shikayat ("Hatta me karyalay khol lein, main istifa de deti hoon") — rajnitik ghatna, kaam nahi; reject.
+// - YouTube-only: Hatta-Patera marg par helmet appeal ka viral video — YouTube-only, reject.
+// NOTE: Umadevi Khatik ke paas is batch me koi positive vikas-karya entry nahi mili (saboot wale sources me); unki ekmatra entry Zee News wali aarop-reporting hai.
+
