@@ -691,3 +691,33 @@ assamWorks['biswajit-phukan'] = [];
 // 3. Northeast News/NE Now — "MLA Biswajit Phukan seeks drought-hit status for Sarupathar constituency" (Jul 2026) — sookhe ki maang, sirf maang/prastav, reject.
 // 4. Prag News — "Death threats issued to BJP MLA Biswajit Phukan" (9 Apr 2026): Phukan peedit hain (unhone khud FIR kiya), aaropit nahi; pre-election, reject.
 // NEGATIVE REJECTS: CrossCurrent — "Apex Bank Scam: Chairman Biswajit Phukan attempts to use senior journalists to cover up corruption" (2025-03-31, updated 2026-06-19): aarop 2023 ke transactions se, article me koi FIR/case/adalaati/adhikarik jaanch ki sthiti nahi — negative bar poora nahi, reject; Pratidin Time 2021 — ex-accountant parivaar ki DGP shikayat (Aug 2021) — pre-term, reject; Northeast Now Feb 2025 — patni ki college principal niyukti me prabhav ka aarop — pre-term, reject; Northeast Scoop Jan 2026 — BJP karyakarta Jiban Chutia ka harassment aarop — pre-term, reject. PROFILE: honestly EMPTY.
+
+// ---- Hailakandi district batch (researched 2026-10-14) ----
+
+assamWorks['milon-das'] = [];
+
+// REJECT-LOG (milon-das, Hailakandi AC-121)
+// 1. Seba Sankalp Abhiyan — Hailakandi Town Hall me saptah-vyapi seva-shivir ke doosre shivir ka Jila Commissioner ke saath sanyukt udghatan (Barak Taranga, 5 Oct 2026) — **coordinator QA par reject**: koi swikrit punjigat pariyojna, GO, rakam ya asset nahi; vidhayak ne sirf DC ke saath ribbon kaata — ceremonial-niyam par ribbon-kaatna entry nahi banti; note me disclosure ke bawajood sevabhari shivir welfare prakriti ka hai, vikas-kaam nahi. Imaandari se khaali rakhna behtar.
+// 2. newslivebangla.com, 9 Aug 2026 — Kuchila me Rs 72 crore paani-project sthal par sirf nirikshan — reject.
+// 3. Barak Bulletin, 19 Sep 2026 — Dhaleswar Point atikraman-hatane ka abhiyan + Bharatmala visthapiton ko asthayi aavas — prashasanik karvai/rahat, sarkari yojna ka lokarpan nahi — reject.
+// 4. Barak Taranga, 22 Sep 2026 — Rs 5.36 crore/2.853 km sadak ka udghatan sansad Kripanath Malah ne kiya; MLA sirf maujood — sansad ke karyakram me sirf maujoodgi, reject.
+// 5. Barak Taranga ~11 Oct 2026 — sahitya patrika modak-unmochan + 'Sanko Sammanana 1433' sweekar — saanskritik samaroh/sammaan, ceremonial — reject.
+// 6. YouTube, 16 Jul 2026 — Jagannath Rath Yatra me upasthiti — dharmik samudayik karyakram, reject.
+// 7. Barak Bulletin, 7 Oct 2026 — Mohanpur (Berakhal nadi) me Rs 3.6 crore ka nirmanadheen RCC pul dhaha — MLA ne sirf chinta jatayi; pul padosi constituency me — sirf bayan + kshetra se bahar, reject.
+// 8. 14 Mar 2026 CM ke ~Rs 340 crore projects (Barak Valley) — karyakaal se pehle, reject.
+// 9. lalabazar.com ~29 May 2026 — CM manjuri ki khabar ek chhote blog par, bina GO/rakam/corroboration; kuch maange padosi constituency me — reject (established source mile to ghoshna-stage par vichaar).
+// 10. Pre-term items + chunav-parinaam coverage — reject. Negative: established media me koi aarop/FIR/janch nahi — reject.
+
+assamWorks['zubair-anam-mazumder'] = [];
+
+// REJECT-LOG (zubair-anam-mazumder, Algapur-Katlicherra AC-122) — profile KHAALI rahi: pehli baar ke MLA (parinaam 4 May 2026), karyakaal sirf ~5 mahine; is avadhi me qualifying kshetra-kaam ki established reporting nahi mili.
+// 1. Barak Bulletin, 28 Sep 2026 — Silchar prachar me police ko dhamki-bhara bhashan — sirf virodhi bayan, reject.
+// 2. Barak Bulletin, 27 Aug 2026 — Cachar College hijab-vivad par NSUI pradarshan + SSP ko gyapan — virodh/dharna, reject.
+// 3. Barak Bulletin, 7 Oct 2026 — Bargul me nirmanadhin pul girna — lekh me sirf ullekh, koi dastavezi bhoomika nahi, reject.
+// 4. IndiaTodayNE, 1 Oct 2026 — 4 Congress MLAon ne CM ko sammaanit kiya — shishtachar-mulaqat, reject.
+// 5. IndiaTodayNE, 6 July 2026 — do Congress MLAon ka IYC se anushasanatmak karyavahi ki maang wala patra — bina FIR/case/janch ke sirf party-andaruni patra, negative-rule par reject.
+// 6. IndiaTodayNE, 30 May 2026 — zila Congress samiksha baithak me hanama — intra-party vivad, reject.
+// 7. ThePrint Hindi (PTI), 24 July 2026 — Assembly me niji sankalp se gig-workers welfare board ki maang — sirf maang, reject.
+// 8-10. Assembly Starred Q.No. 33 / Unstarred Q.No. 76 / Starred Q.No. 186 (July 2026) — sab sirf vidhansabha sawal, reject.
+// 11. Sentinel Assam ~Aug 2026 — ACLP baadh-daura team (Charaideo) — apne kshetra se bahar + rahat-kary, reject.
+// 12. Chunav-jeet coverage (May 2026) — jeet-khabar, reject. 13. Pre-term: Sentinel 19 Jan 2026 rift/padyatra — karyakaal-se-pehle, reject. Spelling variants aur Barak Bulletin site-search bhi janchi gayin.
