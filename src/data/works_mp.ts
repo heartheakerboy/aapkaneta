@@ -6066,3 +6066,96 @@ mpWorks['rajesh-kumar-verma'] = [
 // prahlad-lodhi (Pawai AC-58): 1 entry PASS (Simaria 132kV substation lokarpan). Rejects: YouTube-only 4.25cr road bhoomi-pujan; YouTube-only Maa Kalehi sanskritik bhavan + vishramgrah ghoshna; YouTube Rajdhanitak janpad karyalay bhavan; 2019 jail-saza case (pre-term, works-item nahi); SDM-shikayat patra (kaam nahi); Starsamachar CM Amanganj karyakram (maujoodgi); sharab-taskar peecha (law-and-order, works nahi); Bolero-durghatna aspatal visit (daura); Zee News zameen-hadpane aarop (shikayat matra, FIR/case nahi); birthday wish (irrelevant).
 // rajesh-kumar-verma (Gunnaor SC AC-59): 6 entries PASS. Rejects: RNI News Amanganj coaching (kshetra-bahar); CM-se 6-sadak swikriti anurodh (sirf maang); Gunnaor micro-sinchai maang (sirf maang); Midhasan nadi punruddhar maang (sirf maang); Devendranagar bypass/NH-39 maang (sirf maang); Barsobha pul nirikshan (sirf daura); samiksha baithak + ADIP tricycle (yojana-vitaran); public.app 79.09cr sadak swikriti (source reject); public.app Katakha items (source reject + kshetra-bahar); YouTube items x2; CM 24 Jul 2026 Gunnaor karyakram (maujoodgi); BhaskarHindi Telegram share 403 (use nahi).
 // brijendra-pratap-singh (Panna AC-60): 5 entries PASS. Rejects: 22 Mar 2026 doura-preview ghoshna (karenge khabar); CM 24 Jul 2026 184.83cr Panna karyakram (maujoodgi); Mukhyamantri Scooty vitaran (yojana, kaam nahi); CM Amanganj 106cr (maujoodgi + Gunnaor seat); Chhatrasal college aashwasan (sirf maang); Delhi Shivraj Chouhan bhet/PMGSY prastav (sirf maang); Salaiya sadak YouTube-only; Jila Vikas Salahkar baithak (nirikshan); Dharampur tehsil/Atal Sushasan Bhavan (rajya faisla, sirf udghatan-karta); Panna-Pahadikheda sadak 67.10cr (pre-term); Atal Nagar Vatika (sansad mukhya atithi); Buxwah daura 2021 (pre-term + doosri seat).
+
+// ---- Raisen district batch (researched 2026-10-14) ----
+
+mpWorks['narendra-shivaji-patel'] = [
+  {
+    title: 'Bareli me sanyukt SDM aur tehsil karyalaya ke rajaswa bhawan ka bhoomi-pujan vidhayak Narendra Shivaji Patel ne 12 March 2024 ko kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mruganchal Express, 12 Mar 2024',
+    sourceUrl: 'https://mruganchalexpress.com/%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0-%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80-%e0%a4%aa/',
+    date: '2024-03-12',
+    note: 'Bareli ke SDM karyalaya parisar me sanyukt anubhagiya adhikari aur tehsil karyalaya ke naye rajaswa bhawan ka bhoomi-pujan unhone 12 March 2024 ko kiya; article me prashasnik swikriti Rs 1606.80 lakh, 3630 sqm kshetra, thekedar M/s M A Construction aur 15 mahine me nirman poora karne ka lakshya bataya gaya hai, jisme 54 vibhagon ke karyalay ek saath chalenge. Stage: bhoomi-pujan sampann, nirman shuru hona tha, poora hone ki pushti is report me nahi. Fund-srot: sarkari yojana (rajaswa vibhag ki prashasnik swikriti, vidhayak-nidhi ya sansad-nidhi nahi). MLA ki bhoomika: unke dwara bhoomi-pujan; article ke anusaar unhone bina deri ke swikriti dilayi. Disclosure: Mruganchal Express ek chhota regional portal hai; swikriti-rakam aur karyakram ka vyora usi ki report par aadharit hai, koi sarkari GO kholkar nahi dekha gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bareli shahar me 7 points par 20 CCTV cameras aur 2 announcement systems ke liye vidhayak-nidhi se Rs 10 lakh ki swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Khabar India, 22 Jun 2026',
+    sourceUrl: 'https://livekhabarindia.com/archives/12011',
+    date: '2026-06-22',
+    note: 'Bareli shahar me 3 km ke dayre me 7 mukhya points (bus stand, talkies chauraha, Pipariya naka, aspatal approach road, Pipariya bridge sahit) par lagbhag 20 CCTV cameras (jinme 4 NPR cameras) aur 2 jagah announcement systems lagane ka kaam police vibhag ke sujhav par vidhayak-nidhi se shuru hua; Bareli thana prabhari Kapil Gupta ke uddhrit bayan ke anusaar kaam pragati par tha, control Bareli thana ke paas hai aur rakh-rakhav nagar parishad ko diya gaya. Stage: article ke samay kaam pragati par tha, poora hone ki pushti nahi. Fund-srot: spasht roop se vidhayak-nidhi, sansad-nidhi ya sarkari yojana nahi. MLA ki bhoomika: unhone khud nidhi swikrit ki (police vibhag ke sujhav par). Disclosure: Live Khabar India ek chhota regional portal hai; swikriti aur pragati ka dawa usi ki report aur thana prabhari ke uddhrit bayan par aadharit hai, GO kholkar nahi dekha gaya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['surendra-patwa'] = [
+  {
+    title: 'Bhojpur MLA Surendra Patwa ki anushansa par Amravad Kalan muktidham ki boundary wall ke liye Rs 16 lakh ki swikriti mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/raisen/news/16-lakh-approved-for-the-boundary-wall-of-amravad-kalan-muktidham-dbp-138533527.html',
+    date: '2026-07',
+    note: 'Amravad Kalan (Raisen) me muktidham ke vikas ke liye boundary wall nirman ki swikriti mili, jo Bhojpur ke vidhayak Surendra Patwa ki anushansa par aayi. Swikriti rajya shasan ki Mukhyamantri Gram Sadak evam Avsaan Adhosanrachana Yojana ke tahat Rs 16 lakh ki hai, isliye fund-srot sarkari yojana hai, vidhayak-nidhi ya sansad-nidhi nahi. MLA ki concrete bhoomika: unki anushansa par hi swikriti mili (credit-pardarshita). Disclosure: Bhaskar page par article ka vistrit vyora app paywall ke peeche tha; swikriti, rakam aur anushansa-bhoomika ke tathya khule page par spasht the.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dr-prabhuram-choudhary'] = [
+  {
+    title: 'Sanchi ke Hedgewar Colony ward 13 me Rs 10 lakh ki CC road ka bhoomi poojan MLA Dr Prabhuram Choudhary ne kiya, swikriti Nagar Parishad se mili thi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Khabar India, 12 Oct 2026',
+    sourceUrl: 'https://livekhabarindia.com/%e0%a4%b9%e0%a5%87%e0%a4%a1%e0%a4%97%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%b0-%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%8b%e0%a4%a8%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-10-%e0%a4%b2%e0%a4%be%e0%a4%96-%e0%a4%95/',
+    date: '2026-10-12',
+    note: 'Sanchi nagar ke Hedgewar Colony (ward 13) me lagbhag Rs 10 lakh ki lagat se banne wali CC road ka bhoomi poojan ravivaar (11 Oct 2026) ko kshetriya vidhayak Dr Prabhuram Choudhary ne kiya; khabar Live Khabar India par 12 Oct 2026 ko prakashit hui. Sadak nirman ki swikriti Nagar Parishad Sanchi dwara di gayi thi, isliye fund srot nagar parishad ka hai, vidhayak nidhi ya sansad nidhi nahi. MLA ki bhoomika: karyakram me bhoomi poojan karna. Disclosure: srot ek chhota sthaniya portal hai, lekin karyakram, rakam aur swikriti ka ullekh spasht hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sanchi vidhan sabha me PM Gram Sadak Yojana charan-4 ke tehat Rs 102.35 crore ki 46 nayi sadkon (120 km) ki swikriti; jaankari MLA Dr Prabhuram Choudhary ne karyakram me di',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 19 May 2026',
+    sourceUrl: 'https://www.amarujala.com/video/madhya-pradesh/raisen/pm-modis-appeal-shows-effect-sanchi-mla-dr-prabhuram-choudhary-arrives-at-the-event-on-an-e-rickshaw-raisen-news-c-1-1-noi1454-4300431-2026-05-19',
+    date: '2026-05-19',
+    note: 'Amar Ujala (19 May 2026) ke anusaar Sanchi vidhan sabha kshetra me Pradhan Mantri Gram Sadak Yojana ke chauthe charan ke tehat 46 naye margon ko swikriti mili hai, kul lambai lagbhag 120 km aur lagat Rs 10,235 lakh yani lagbhag Rs 102.35 crore; ye 2011 janganana ke aadhar par 500 se adhik aabadi wali un bastiyon ko jodenge jo ab tak sampark marg se vanchit thi. Karyakram me MLA Dr Prabhuram Choudhary ne iski vistrit jaankari di, tender prakriya usi mahine shuru hone aur barsat se pehle nirman shuru karne ka lakshya bataya, aur adhikariyon ko gunvatta aur samay-seema ka nirdesh diya. Fund srot kendriya PMGSY yojana hai, vidhayak nidhi ya sansad nidhi nahi; MLA ki bhoomika: swikriti ka vivaran dena aur adhikariyon ko nirdesh dena (credit-pardarshita). Is yojana se 24 hazaar se adhik graminon ko seedha labh milne ka anuman hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sanchi ke sabhi 15 wardon me Rs 2.5 crore ke CC road, sulabh complex aur nali nirman ka bhoomi poojan MLA Dr Prabhuram Choudhary ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'MP Today, 21 Nov 2024',
+    sourceUrl: 'https://mptoday.org.in/129466/',
+    date: '2024-11-21',
+    note: 'MP Today (21 Nov 2024) ke anusaar Sanchi ke sabhi 15 wardon me CC road, sulabh complex, nali nirman sahit lagbhag Rs 2.5 crore ke nirman karyon ka bhoomi poojan kshetriya vidhayak Dr Prabhuram Choudhary ne kiya; ward 15 me mukhya chaurahe ke paas lagbhag Rs 20 lakh se adhik lagat wale sulabh complex ka bhoomi poojan bhi shamil tha. Ye kary Nagar Parishad Sanchi ke madhyam se hone wale vikas kary hain, fund srot nagar parishad ya sarkari hai, vidhayak nidhi nahi. Disclosure: isi khabar me do pani tanker ki swikriti aur Rs 70 lakh ke atirikt aavantan ka ullekh hai, lekin article me aage unhe ghoshna aur aashwasan bataya gaya hai, isliye bina sanction saboot ke unhe entry me shamil nahi kiya gaya; ek ward parshad ne bhoomi poojan prakriya par sawal uthaye the, ye bhi darj hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA Dr Prabhuram Choudhary ka uddhrit dawa: Sanchi vidhan sabha kshetra me teen Sandipani aur teen PM Shri vidyalaya swikrit kiye gaye hain',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Live Khabar India, 28 Jul 2026',
+    sourceUrl: 'https://livekhabarindia.com/40-%e0%a4%95%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc-%e0%a4%b0%e0%a5%81%e0%a4%aa%e0%a4%af%e0%a5%87-%e0%a4%95%e0%a5%80-%e0%a4%b2%e0%a4%be%e0%a4%97%e0%a4%a4-%e0%a4%b8%e0%a5%87-%e0%a4%ac%e0%a4%a8%e0%a5%87/',
+    date: '2026-07-28',
+    note: 'Live Khabar India (28 Jul 2026) ke anusaar Sanchi me lagbhag Rs 40 crore ki lagat se nirmit shaskiya Sandipani uchchatar madhyamik vidyalaya bhavan ka lokarpan prabhari mantri Narayan Singh Panwar ne kiya tha; karyakram me MLA Dr Prabhuram Choudhary upasthit the aur unhone uddhrit hokar kaha ki Sanchi vidhan sabha kshetra me teen Sandipani tatha teen PM Shri vidyalaya swikrit kiye gaye hain aur door-daraz ke vidyarthiyon ke liye bus vyavastha uplabdh karayi gayi hai. Disclosure: ye MLA ka uddhrit dawa hai isliye badge dawa hai; khabar me sanction order ya vibhagiya data ka swatantra praman nahi hai, aur Rs 40 crore ke bhavan ka lokarpan mantri ne kiya tha isliye use is entry me shamil nahi kiya gaya; srot chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+// PARENT QA NOTE (2026-10-14, Raisen batch): choudhary ki 2 Badher entries HATA di — dono ka srot
+// Bhaskar ki PRE-EVENT schedule report thi ('lokarpan kiya jana tha'); karyakram hua iski koi
+// post-event pushti nahi. Nirdharit karyakram entry nahi banta; pushti mile to baad me jod sakte hain.
+
+
+// REJECT-LOG Raisen (2026-10-14):
+// narendra-shivaji-patel — Bhaskar Valmiki Bhawan shilanyas me nidhi sirf ghoshna thi (sanction bina), beta par assault case (parivar), public.app-only ×3 (sab reject), YouTube-only ×4, galat vyakti (Lakhan Patel/Damoh), PIP review me rajya-vibhag ke faisle (PRASADAM/Sanjeevani/PM-ABHIM), The Week Puaria boycott story me naam sirf pratinidhi ke roop me (koi aarop/FIR nahi).
+// surendra-patwa — Mandideep 13 Mar 2024 CM bhoomi-pujan (CM ne kiya, maang/upasthiti matra), Sultanpura lift irrigation Rs 115.99cr (CM ki saugaat, sirf aabhaar), bhashan-dawa (5 up-swasthya kendra + Chiklod PHC bina GO = ghoshna), pre-term Vikas Yatra, public.app items (PMGSY-IV launch — Shivraj Chouhan ne kiya), dharna (SDOP hatane ki maang), CBI bank-fraud/warrant/cheque-bounce (vyaktigat vittiya mamle, pre-term), election profiles.
+// dr-prabhuram-choudhary — CM/railway/textile karyakram maujoodgi ×3, rajnaitik bayan, Svamitva launch maujoodgi, MP Today tanker/Rs 70L (ghoshna/aashwasan, bina sanction), unreadable URLs ×4, Berkhedi Begumganj (kshetra-bahar), JJM vidhan-sabha prashn (maang), YouTube-only ×2, Naidunia epaper garbled, public.app-only, MP Today tanker-vitaran (URL nahi mili — baad me retry yogya lead), galat-vyakti ×4.
+// devendra-patel: profile KHAALI — vipakshi MLA, coverage sirf virodh/maang/inspection (Sultanganj-Haidargarh road inspection, civil hospital mudda, public.app tanker ghoshna, YouTube pani-tanker video, galat vyakti Devendra Singh Patel/Udaipura), parivar (pote ka apharan) — sab REJECT; credible Dec 2023+ kaam ka text-source nahi mila.
+
+// COORDINATOR QA NOTE (Raisen, 2026-10-14): PMGSY-4 entry ka badge 'sarkari' se 'news' kiya (Amar Ujala report hai, GO nahi); Badher/Badher-Jamunia entries ke titles/notes me pre-event schedule disclosure bana rakha hai — pushti mile to stage update yogya.
