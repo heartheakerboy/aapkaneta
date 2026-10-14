@@ -43,6 +43,7 @@ import { prevUp } from './prev_up';
 import { prevMp } from './prev_mp';
 import { prevBihar } from './prev_bihar';
 import { prevAssam } from './prev_assam';
+import { prevKerala } from './prev_kerala';
 import type { Neta, Constituency } from './pilot';
 
 export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas, ...upNetas, ...upMpNetas, ...upRsNetas, ...delhiNetas, ...delhiMpNetas, ...delhiRsNetas, ...madhyaPradeshNetas, ...mpMpNetas, ...mpRsNetas, ...biharNetas, ...biharMpNetas, ...biharRsNetas, ...assamNetas, ...assamMpNetas, ...assamRsNetas, ...keralaNetas, ...keralaMpNetas, ...keralaRsNetas];
@@ -56,7 +57,7 @@ for (const n of allNetas) {
 
 // Overlay previous-election affidavit comparison data (2018 vs 2023 for MP, 2017 vs 2022 for UP, etc.)
 for (const n of allNetas) {
-  n.prevAffidavit = ((n.state === 'Kerala' ? null : n.state === 'Assam' ? prevAssam : n.state === 'Delhi' ? null : n.state === 'Bihar' ? prevBihar : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : n.state === 'Gujarat' ? prevGuj : n.state === 'Madhya Pradesh' ? prevMp : prevMha) ?? {})[n.slug] ?? null;
+  n.prevAffidavit = ((n.state === 'Kerala' ? prevKerala : n.state === 'Assam' ? prevAssam : n.state === 'Delhi' ? null : n.state === 'Bihar' ? prevBihar : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : n.state === 'Gujarat' ? prevGuj : n.state === 'Madhya Pradesh' ? prevMp : prevMha) ?? {})[n.slug] ?? null;
 }
 
 // State helpers
