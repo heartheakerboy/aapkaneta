@@ -1808,3 +1808,74 @@ biharWorks['vijay-kumar-sinha'] = [
 // 21. patnapress, Nov 2025 — vijay juloos me hawai firing — kanoon-vyavastha khabar, kshetra-kaam nahi, reject.
 
 // Coordinator QA note (Lakhisarai district batch, researched 2026-10-14): 2 parallel workers (1 MLA each); fragments coordinator ne khud padhkar QA kiya. Vijay Kumar Sinha (Dy CM, 5vi jeet) ki 2 entries ek hi satyapit post-event Live Hindustan report (Barahia, 31 Mar 2026 — "Mangalwar" se weekday verify) se hain; credit-transparency disclosure dono descriptions me joda gaya (vibhagiya yojana, vidhayak ne shilanyas/udghatan ke charan me mukhya bhoomika nibhai). Dy CM ki rajya-stariya khabren sab sahi reject hui — sirf AC-168 ke andar ke kaam liye gaye. Ramanand Mandal KHAALI (13 rejects — swagat samaroh, gyapan, mantri-ke-karyakram me maujoodgi, pre-event, YouTube-only). Sabhi 2 slugs pehle khaali the — koi overwrite nahi. Kul titles: 92 -> 94 (+2).
+
+// ---- Madhepura district batch (researched 2026-10-14) ----
+
+biharWorks['narendra-narayan-yadav'] = [
+  {
+    title: 'Narendra Narayan Yadav ne Chausa ke Morsanda sthit Utkramit Uchch Madhyamik Vidyalaya ke naye bhawan ka udghatan kiya',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-04-28',
+    description: 'Live Hindustan ki post-event report ke anusaar 28 April 2026 ki der shaam (Mangalwar) ko Bihar Vidhan Sabha ke upadhyaksh sah kshetriya vidhayak Narendra Narayan Yadav ne Chausa block ke Morsanda sthit Utkramit Uchch Madhyamik Vidyalaya ke naye bhawan ka udghatan kiya. Samahroh me vidhayak ne Inter Science, Inter Arts aur Matric ke vidyalaya toppers (aadha darjan se adhik chhatra-chhatraon) ko sammanit kiya; jila parishad sadasya Aniket Kumar Mehta, bees-sutri adhyaksh Manoj Prasad aur sansad-vidhayak pratinidhiyon sahit sthaniya ganamanya maujood rahe. Stage: lokarpan. Disclosure: bhawan sarkari shiksha vibhag ki yojana ke tahat bana hai; vidhayak ne sthaniya vidhayak tatha Vidhan Sabha upadhyaksh ke roop me udghatan ke charan me mukhya bhoomika nibhai, isliye entry rakhi hai — nirman ki swikriti kab ki thi, iska ullekh article me nahi hai. Date-disclosure: article me "Mangalwar ki der shaam" likha hai aur prakashan tithi 29 Apr 2026 hai — 28 Apr 2026 ko Mangalwar tha, isliye 2026-04-28 maani hai. Sthan-disclosure: Morsanda panchayat Chausa CD block me hai, jo poora Alamnagar AC-70 ke andar aata hai; article me vidhayak ko "kshetriya vidhayak" kaha gaya hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bhagalpur/story-inauguration-of-new-building-at-morasanda-school-by-bihar-s-deputy-assembly-speaker-201777463990726.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (narendra-narayan-yadav):
+// 1. madhepurakhabar.in (blogger portal), Jul 2026 — Udakishunaganj (College Chowk-Bank Chowk) bypass sadak ke navinikaran-chaudikaran ke liye RWD mantri ko patra — sirf maang/patra; sthan Udakishunaganj AC-71 (kshetra-bahar) — reject.
+// 2. livehindustan.com, 23 Apr 2026 — CM se milkar baadh-samasyaon par charcha; pul-puliya nirman, sadak uncha karne aur Khagaria-Bhagalpur se Madhepura-Katihar seema tak ring bandh ki maang — sirf maang, koi swikriti nahi — reject.
+// 3. newskoshi24.blogspot.com, 11 Jul 2026 — Phulaut Kosi pul (Veerpur-Bihpur NH-106, ~7 km) ka nirikshan — sirf nirikshan/daura + blogspot-only — reject.
+// 4. biharcity.com, Aug 2025 — Madhepura circuit house press conference (RWD ki 18 sadkon ki prashasnik swikriti Rs 32 cr+, Kapsiya ghat pontoon bridge Rs 25.13 cr aadi ke daave) — pre-term (chunav se pehle) — reject.
+// 5. cityhalchal.in, Sep 2025 — Ghosi me Vishwakarma puja samiti ke sanskritik karyakram ka udghatan (fita kaatna) — pre-term + sirf sanskritik karyakram, kshetra-kaam nahi — reject.
+// 6. jagran.com, 24 Sep 2025 — NDA/LJPR rajniti: Chandan Singh ki badlav rally, Yadav ka chunavi bayan — chunavi rajniti + pre-term — reject.
+// 7. jagran.com (org374next mirror), ~Sep 2025 — Madhepura NDA karyakarta sammelan me Yadav maujood; mantriyon ke daave — pre-term + mantri-karyakram me sirf maujoodgi — reject.
+// 8. madhepuratimes.com, Feb 2024 — Dy Speaker banne par Alamnagar me bhavya swagat samaroh — pre-term + swagat, koi kaam nahi — reject.
+// 9. patnapress.com, ~early 2025 — CM Nitish ke Madhepura Rs 299 cr udghatan-shilanyas karyakram; Yadav manch par maujood — pre-term + sirf maujoodgi — reject.
+// 10. public.app video links (3) — Khopariya Tola sahkari samiti office udghatan; Kadama me Bhagwat katha udghatan; UBK College Kadama martial arts pratiyogita udghatan — public.app-only + karyakram/event, sarkari works-sanction nahi — reject.
+// 11. youtube.com/shorts — pre-election ground report (voters ki narazgi) — YouTube-only + chunavi content — reject.
+// 12. etvbharat/news18/financialexpress/deshajtimes/abplive/TOI/patnapress (Oct-Nov 2025) — chunav parinam, pro-tem speaker niyukti, Dy Speaker nirvachan — pad-niyukti/chunavi khabren, kshetra-kaam nahi — reject.
+// 13. Negative: NDTV/ADR affidavit "Cases: No" — viruddh me koi credible FIR/case/janch reporting nahi mili; YouTube shorts par chunav-kaleen aaropon ka koi FIR/case nahi — koi qualifying negative entry nahi.
+
+biharWorks['niranjan-kumar-mehta'] = [];
+
+// REJECT-LOG (niranjan-kumar-mehta): profile KHAALI raha — qualifying entry koi nahi mili.
+// 1. vardannews.com (published 2026-09-08, page khud khola) — Rampur panchayat (Murliganj) me "Janata Darshan" — sirf daura/samasya sunna + aashwasan, koi kaam nahi, reject.
+// 2. vardannews.com (4 Aug 2026) — Udakishunganj me shokakul parivar se samvedna-mulaakat (varadan news kosi prabhari ke pita ka nidhan) — kaam nahi, reject.
+// 3. kosilive.com (Feb 2026) — NH-31 par Parmanandpur ke paas MLA ki car tractor se takrayi (pair me chot, stable) — personal durghatna, kaam nahi, reject.
+// 4. kositak.in (9 Jan 2026, page khud khola) — Dinapatti-Nadhi PMGSY sadak (11.760 km) 4 saal baad bhi adhuri, grameen aakrosh — shilanyas 06 Mar 2023 (pre-term), kaam pura hi nahi; negative rule par FIR/case/janch ki sthiti nahi — reject.
+// 5. bhaskar.com (Jan 2026) — wahi Dinapatti-Nadhi road ka duplicate coverage — wahi wajah se reject.
+// 6. bhaskarenglish.in (~Nov 2025) — Bihar Vidhan Sabha paperless/tablet system par MLA Niranjan Mehta ka bayan — sadan-kaam, kshetra vikas-kaam nahi, reject.
+// 7. Amar Ujala (22 Oct 2025) — chunav-prachar me janata ka virodh ("vapas jao" naare) — pre-term campaign coverage; virodhi aarop, FIR/case nahi — reject.
+// 8. jagran.com (Oct 2025) — nomination affidavit: ~Rs 1.5-3.6 crore sampatti, koi aparadhik mukadma nahi — pre-term affidavit-report, kaam nahi, reject.
+// 9. patnapress (~Jan 2025) — CM Nitish Kumar ka Rs 299 crore Madhepura event, MLA Niranjan Mehta bas maujood — pre-term + sirf maujoodgi, reject.
+// 10. madhepuratimes.com (May 2025) — Madhepura Rs 34.47 crore model hospital udghatan (Swasthya Mantri Mangal Pandey dwara), MLA sirf atithi — pre-term + sirf maujoodgi, reject.
+// 11. YouTube (~Sep 2026) — "varshon purani sadak ki maang puri, vidhayak ne kiya PCC sadak ka udghatan" — YouTube-only (text me MLA ki pehchan nahi) — reject.
+// 12. Pre-term archives: madhepuratimes.com (2016/2017/2020 road shilanyas), madhepuraabtak.com (purana kabaddi championship), zeenews (2022, Bihariganj bypass CM lokarpan), divyarashmi (2020, mahasetu) — sab karyakaal-se-pehle, reject.
+// 13. Election coverage (Nov 2025 parinam: news18/indianexpress/TOI/india.com/theweek/financialexpress/beta.news18) — chunav khabar, kaam nahi, reject.
+// 14. Naam-savdhani: "Surendra Mehta" (Teghra MLA) galat vyakti — shaamil nahi; koi hum-naam Bihariganj entry nahi mili.
+// 15. Koi qualifying negative reporting nahi mili — halafname ke anusaar unpar koi aparadhik mukadma darj nahi.
+
+biharWorks['ramesh-rishi'] = [];
+
+// REJECT-LOG (ramesh-rishi): profile KHAALI raha — qualifying entry koi nahi mili. Prabhat Khabar ~Mar 2026 (CM Nitish Kumar ki Madhepura Samriddhi Yatra — 295 yojnaon ka Rs 302 crore udghatan/shilanyas) — khabar khud kholkar padhi: Ramesh Rishi sirf CM ke saath maujood janpratinidhiyon ki suchi me hain, koi concrete bhoomika nahi — sirf maujoodgi, reject; LiveHindustan 28 Nov 2025 (jeet ke baad Baba Singheshwar Nath mandir me puja-archana) — dharmik karyakram, kaam nahi, reject; LiveHindustan 28 Nov 2025 (Kumarkhand me aabhaar yatra ka pre-event elaan) — pre-event "karenge" khabar, reject; Madhepuratimes 21 Jan 2026 (DISHA baithak, MP Dinesh Chandra Yadav ki adhyakshata — MLA Ramesh Rishidev sahit sabhi janpratinidhi maujood; sadak/CCTV/shauchalay/pul ki samasyaon par charcha) — sirf baithak/maujoodgi, reject; LiveHindustan Sep 2026 (DISHA baithak ki samiksha — MP-led, MLA sahit sabhi maujood) — sirf maujoodgi/samiksha, reject; public.app x2 (Sep 2026 DISHA press release; Nov 2025 Kumarkhand pratham-aagaman) — public.app-only + maujoodgi/daura, reject; public.app Nov 2025 (Kumarkhand me santmat satsang ka udghatan) — public.app-only + dharmik karyakram, reject; Jagran 26 Jan 2026 (Gantantra Diwas jhandottolan, BN Mandal stadium — MLA maujood) — sirf maujoodgi, reject; Kosi Live Jan 2026 (farzi pramanpatra par Vikas Mitra niyukti — Ramesh Rishidev ki DM ko shikayat par janch, 2 giraftar) — shikayat-karyavahi, vikas-kaam nahi (aur shikayat patra non-MLA avadhi ka), reject; Madhepuratimes Jun 2018/Jun 2020/Sep 2020 (mantri-kal me sadak shilanyas, Singheshwar mahotsav) + Apr 2015 (aapda baithak) — karyakaal-se-pehle, reject; Muzaffarpurnow ~2020 (Gupteshwar Pandey chunav prachar) — pre-term, reject; galat-vyakti rejects: LiveHindustan Jan 2026 Mughalsarai (UP) MLA Ramesh Jaiswal ki Rs 2.74 crore sadak (UP ka vyakti), YouTube Shahganj-Jaunpur MLA Ramesh Singh ka pashu chikitsalay shilanyas (galat vyakti + YouTube-only); election-result coverage — kaam-khabar nahi, reject; koi qualifying negative reporting nahi mili. Profile imaandari se khaali rahi.
+
+biharWorks['chandra-shekhar'] = [
+  {
+    title: 'Madhepura me Rs 72 crore storm-water drainage karyasthal par majdoor se maarpeet aur nirman agency se rangdari ki maang ke aarop me MLA ke khilaf do FIR darj (vidhayak ka khandan)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News24 Hindi, 15 Dec 2025',
+    sourceUrl: 'https://hindi.news24online.com/latest-news/rjd-major-setback-bihar-second-fir-filed-against-rjd-mla-former-minister-chandrashekhar-who-also-slapped-a-laborer/1432800/',
+    date: '2025-12-15',
+    note: 'NEGATIVE entry — dosh-siddhi ka koi daava nahi. Nirman agency AA Patna (JV) ke proprietor Amit Kumar ne 9 Dec ko Madhepura thana me application di, jis par 15 Dec ko dusri FIR darj hui; thanadhyksha Vimlendu Kumar ne FIR ki pushti ki. Aarop: 23 Nov ki raat lagbhag 9:25 baje vidhayak lagbhag 10 samarthkon ke saath drainage karyasthal pahunche aur majdoor Sonu Nigam ke saath maarpeet v abhadr vyavhaar kiya; vidhayak ke pratinidhi Alok Kumar Munna par project manager Ashutosh Kumar ko WhatsApp call karke rangdari ki maang aur jaan se maarne tatha thekedari barbad karne ki dhamki ka aarop. Isse pehle 25 Nov ko majdoor Sonu Nigam ne pehli FIR darj karai thi. Vidhayak ka jawab: Rs 72 crore storm-water drainage ki swikriti mahagathbandhan sarkar dwara thi (unke shabdon me purv deputy CM Tejashwi Yadav ke prayas se), lekin nirman me ghor aniyamitta barti ja rahi hai; aaropon ko sire se kharij karte hue kaha ki unke khilaf lagatar dusri baar farzi mukadma darj karaya gaya hai aur bhrashtachar ke khilaf unka andolan jaari rahega. Status: FIR darj, janch lambit. Disclosure: drainage pariyojna ki swikriti isi karyakaal ki nahi hai, isliye ye entry kaam ke roop me nahi, keval negative reporting ke roop me rakhi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (chandra-shekhar): LiveHindustan 24 Nov 2025, drainage nirman me aniyamitta (press-varta) — swikriti swayam MLA ke shabdon me mahagathbandhan/Tejashwi Yadav era ki, pre-term; MLA sirf nirikshan/protest me the — sirf nirikshan, reject; LiveHindustan dusra article 24 Nov 2025 (drainage me gadbadi par bhadke) — wahi vivad, sirf nirikshan + press-varta, reject; Patrika + IndiaTV Nov 2025 thappad-video — nirikshan ke dauraan ki ghatna, kaam nahi; FIR maamla negative entry me darj, reject (as work); Amar Ujala 3 Oct 2025 Murho Durga Puja mele me grameenon ka virodh — pre-election + sirf virodh, kaam nahi, reject; YouTube (RJD MLA extortion case) — YouTube-only, reject; aas24news 14 Oct 2026 Janjaheli samiksha-baithak — galat vyakti (Dharampur, Himachal Pradesh ke MLA), reject; sanmarg.in 3 Oct 2026 Durgapur vikas-shubharambh — galat vyakti (Chandrashekhar Bandyopadhyay, Paschim Bengal), reject; YouTube shorts "sadak udghatan" (Doodh Ram ji) — galat vyakti + YouTube-only, reject; YouTube "PCC sadak udghatan" — YouTube-only + kshetra/MLA ki pushti nahi, reject; Zee News/Business Standard car-attack (Jhitkiya/Ghelar) — 28 Jan 2015, pre-term, reject; Business Standard/Zee News IGI airport goliyan maamla — Feb 2019, pre-term, reject; IndiaTV Jan 2024 "mandir-hospital" bayan — mantri-kaaryakaal ka vivadaspad bayan, works me nahi, reject; FinancialExpress/News18/DNA election-result coverage Nov 2025 — election news, kaam nahi, reject. Profile me koi positive entry nahi bani; negative entry sahit profile bhari maani gayi hai.
+
+// Coordinator QA note (Madhepura district batch, researched 2026-10-14): 4 parallel per-MLA workers; coordinator ne fragments kholkar QA kiya. Narendra Narayan Yadav ki 1 entry (School/lokarpan, Live Hindustan post-event, 28 Apr 2026 — "Mangalwar" weekday-verify; bhawan sarkari shiksha-vibhag yojana ka, vidhayak ka rol udghatan-charan me — credit-transparency disclosure joda). Niranjan Kumar Mehta KHAALI (14+ query rounds; unhi ke purane karyakaal ki sab sadak-khabren pre-term reject). Ramesh Rishi KHAALI (15 query rounds; 2010-2020 mantri-kal sab pre-term). Chandra Shekhar ki 1 NEGATIVE entry (News24 Hindi, 15 Dec 2025 — drainage-karyasthal par maarpeet/rangdari ke 2 FIR, thanadhyksha ne FIR ki pushti ki, vidhayak ka khandan darj, janch lambit — dosh-siddhi ka daava nahi; Bihar negative schema (sourceLabel/note, no stage) Pappu Verma/Rajesh Mandal precedent par. Sabhi 4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 94 -> 96 (+2).
