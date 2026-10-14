@@ -5400,3 +5400,264 @@ mpWorks['thakur-das-nagwanshi'] = [
 // 9. atulyabharatchetna.org.in (Sep-Oct 2026) — mantri Rao Udaypratap Singh se pratinidhimandal ki saujanya bhet: sirf charcha/baithak, koi concrete kaam nahi. REJECT.
 // 10. aajkakhulasa.com — commissioner ke saath baithak me CM Rise school me kami ka mudda: sirf mudda/mang, koi kaam nahi. REJECT.
 // 11. statenews.ai (Jul 2026) — kotwaron dwara tehsildar/MLA ko gyapan: sirf mang/gyapan. REJECT.
+
+
+// ---- Narsinghpur district batch (researched 2026-10-14) ----
+// Coordinator QA (2026-10-14): charon workers ki fragments sameen me; vishwanath empty (honest),
+// prahlad 10 entries me mantri-scope + ECI delimitation geography check verified; uday negative
+// (adalati kharij) poori karyavahi-status ke saath; koi scaffolding comment nahi, notes single-paragraph.
+
+// Narsinghpur district batch — Mahendra Nagesh (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['mahendra-nagesh'] = [
+  {
+    title: 'Gotegaon kshetra me kul Rs. 16.961 crore ke 20 vikas karyon ka lokarpan — mukhyataya grameen sadken (Viksit Bharat-Viksit MP program me local karyakram)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ananttvlive, 29 Feb 2024',
+    sourceUrl: 'https://ananttvlive.com/states/madhyapradesh/gotegaon-assembly-gets-crores-of-gifts/cid13703458.htm',
+    date: '2024-02-29',
+    note: 'Gotegaon janpad panchayat sabhagar me hue karyakram me vidhayak Mahendra Nagesh (mukhyatithi) ne kshetra ke 20 vikas karyon ka lokarpan kiya; kul lagat lagbhag Rs. 16.961 crore batayi gayi. Karya-suchi me Maa Narmada Kumargaon ghat par CD nirman aur grameen sadken shamil thi (OVI road se Belkhedi Tikari, Gochar se Poniya Tikari, Jamuniya road se Kamodi, Rehli se Kodiya, Jharakhurpa Tigadda Tapariya, NH-22 Gotegaon se Lurhata, Bahoripar se Salaiya, Lalpur se Piper Pani, Jamuniya se Jamuniya Tola, Katkahi se Silwani, Gram Tola se Pura Dafai, Kandhrapur se Chhoti Simari aadi). Status: lokarpan. Credit-pardarshita: ye "Viksit Bharat, Viksit Madhya Pradesh" rajya karyakram ka hissa tha jisme PM Narendra Modi virtual jude the; sthaniya lokarpan-karyakram me unki mukhyatithi ke roop me concrete bhoomika report hui hai, isliye entry rakhi gayi hai. Caveat: chhota sthaniya portal (ananttvlive); karya-wise alag-alag rakam ki suchi article me nahi di gayi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (mahendra-nagesh, researched 2026-10-14):
+// - mpbreakingnews.in (~11 Oct 2026, CM Mohan Yadav Narsinghpur event): CM ne jile ke 175 crore+ ke 31 karyon ka lokarpan/bhoomi-pujan kiya; Gotegaon AC ke 2 sadak-lokarpan (Simariya-Chargawan se Kuklah-Saliwara marg 3.49 cr, Bagaspur-Sahajpur se Bakauri marg 5.60 cr), 20 gaon me nal-jal (9.20 cr), 4 sadak-bhoomipujan (6.36+6.07+3.19+3.14 cr), 5 school bhawan (4.30 cr) aadi — lekin CM karyakram; MLA Mahendra Nagesh ki koi concrete bhoomika article me report nahi, sirf maujoodgi/sadharan upasthiti sambhav. REJECT (sirf maujoodgi / credit aspasht).
+// - The Hitavada, 14 May 2026 (Mungwani, Ladli Bahna event): MLA ne CM se Mungwani me naya college khulne ki maang rakhi; CM ne sakaratmak jawab diya aur ghoshna ki — sirf maang + bhavishya ki ghoshna, koi GO/sanction nahi; saath hi Mungwani Gotegaon AC ke bahar ka kshetra hai. REJECT (maang + bhavishya-ghoshna + kshetra-bahar).
+// - ncrsamacharlive.in (Gotegaonkheda 33/11 KV upkendra, 3 crore swikrit, FY 2024-25 budget): prastav kendriya mantri Prahlad Singh Patel ne energy mantri ko bheja, energy mantri Pradyumn Singh Tomar ne manzoori di; MLA ke "prayas" ka sirf aabhaar-vyakya, concrete dastavezi kadam report nahi. REJECT (credit aspasht — prastav/svikriti doosron ki).
+// - mpbignews.com/samacharnama.com, ~8 Oct 2026 (Gotegaon kshetra me 6.7 crore ki PMGSY sadak 18 mahine me kshatigrast — Sakal road se OB road Magardha-Belkhedi, Mahka-Gutauri ke beech Shedh nadi kataav): nagarigon ka bhrashtachar ka aarop adhikariyon/thekedaaron par; MLA ka naam article me nahi, koi FIR/janch-karyavahi ya adhikarik sthiti report nahi. Negative-entry niyam ke mutabik REJECT (aarop bina karyavahi ke).
+// - livevns.news / khabarbhoomi.com, ~1 Feb 2024 (Bagaspur me 55 lakh ke karyon ka lokarpan-bhoomipujan): mantri Prahlad Singh Patel ne kiya; MLA sirf maujood the. REJECT (sirf maujoodgi).
+// - ananttvlive.com, 1 Apr 2025 (School Chale Hum pravesh-utsav, CM Rise vidyalaya Gotegaon): MLA school program me gaye, bachchon se mile — karyakram me maujoodgi, koi vikas-karya nahi. REJECT.
+// - yashbharat.co.in, ~Jan 2024 (Viksit Bharat Sankalp Yatra, Gotegaon nagarpalika): Ujjwala 2.0 gas connection vitran; MLA ki adhyakshata me karyakram — yojana labh-vitran, koi naya kaam nahi. REJECT.
+// - atulyabharatchetna.org.in, ~8 Oct 2026 (Narmada tat par 1500 paudhon ka ropan): MLA maujood the; Sakal ghat nirman sirf prastav (mantri ko diya gaya), swikriti nahi. REJECT (maang/prastav).
+// - YouTube (KBS TV, ~Sep 2026): PM ke janmdin par svasthya kendra me phal-vitran — sirf sewa-karyakram, vikas-karya nahi; waise bhi YouTube-only source reject. REJECT.
+// - YouTube (Prime TV, ~Apr 2026): MLA ke saale par ANM dwara mansik-pratadna ka aarop — parivar ka mamla (un par KABHI nahi) + YouTube-only + FIR/janch ki pakki sthiti nahi. REJECT.
+// - theweek.in PTI, 15 May 2025 (Gotegaon Sainik school ka naam Maninagendra Singh par rakhne ka CPI(M) virodh): MLA ka isme koi sambandh report nahi. REJECT (aprāsangik).
+// - samanya note: profile khaali nahi — 1 entry mili; kamzor attribution wali khabrein (jaise mantri/CM karyakramon me maujoodgi) jodne se parhez kiya gaya.
+
+// Narsinghpur district batch — Prahlad Singh Patel (Narsingpur AC-119, BJP) (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+// Note: Cabinet Mantri (Panchayat evam Gramin Vikas) hain — mantri-niyam lagoo: sirf Narsingpur AC ke thos kshetra-kaam liye gaye hain,
+// rajya-stariya vibhagiya faisle/ghoshnaen/daure nahi. Geography check: ECI delimitation ke mutabik AC-119 = poori Kareli tehsil + Narsinghpur
+// tehsil ke kuchh hisse; neeche ke sabhi sthan (Tinsra, Amgaon, Kareli, Umaria, Tindni, Nayakheda, Richhai) Kareli tehsil me hain.
+mpWorks['prahlad-singh-patel'] = [
+  {
+    title: 'Tinsra me PMGSY ke tahat Amgaon se Dilheri marg par Rs. 1.21 crore ke pul ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveVNS (Hindushtan Samachar wire), 4 Jan 2024',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/objective-of-vikas-bharat-sankalp-yatra-is-to-providephp/cid13226983.htm',
+    date: '2024-01-04',
+    note: 'Vikasit Bharat Sankalp Yatra ke dauran unhone Narsinghpur jile ke gram Tinsra me Pradhan Mantri Gram Sadak Yojana me Amgaon se Dilheri marg par Rs. 1.21 crore ki lagat se banne wale pul ka shilanyas kiya. Status: shilanyas/bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: June 2026 ke daura-karyakram me Tinsra me ek pul ke lokarpan ka ullekh tha (sambhavatah yahi pul), lekin uska post-event report nahi mila.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Amgaon me 15th Finance Commission aur MNREGA se nirmit CC road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveVNS (Hindushtan Samachar wire), 4 Jan 2024',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/objective-of-vikas-bharat-sankalp-yatra-is-to-providephp/cid13226983.htm',
+    date: '2024-01-04',
+    note: 'Usi Tinsra karyakram me unhone Amgaon me 15th Finance Commission aur MNREGA se sanyukt roop se nirmit CC road ka lokarpan kiya. Status: lokarpan (sadak nirmit, janata ko samarpit).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kareli me Barman Chauraha se Imaliya tak 1.5 km CC sadak (Rs. 276.41 lakh) aur SDRF ki puliya (Rs. 78.05 lakh) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Newzfatafat (Hindushtan Samachar wire), 13 Jul 2024',
+    sourceUrl: 'https://newzfatafat.com/rajya/inaugurated-the-construction-of-road-and-culvertphp/cid14935929.htm',
+    date: '2024-07-13',
+    note: 'Swatantrata sangram senani Harivishnu Kamath ke janmdivas par unhone Kareli shahar ke Ganesh ward me Barman Chauraha Kareli se Imaliya tak Rs. 276.41 lakh ki lagat ki 1.50 km lambi CC sadak aur SDRF ke antargat Rs. 78.05 lakh ki lagat ki puliya ke nirman karya ka lokarpan kiya. Status: lokarpan (sadak-puliya nirmit, janata ko samarpit). Disclosure: article me poorv Rajya Sabha sansad Kailash Soni ke hawale se likha hai ki ye damar sadak poorv vidhayak Jalam Singh Patel ke karyakal me swikrit hui thi — swikriti pre-term hai, lokarpan inke karyakal me hua.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Umaria me Rs. 65 lakh ke up-swasthya kendra aur Rs. 3.3 lakh ki CC road ka bhoomi-pujan; naali nirman ka udghatan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Ujjwal Pradesh, 19 Nov 2024',
+    sourceUrl: 'https://www.ujjwalpradesh.com/minister-patel-inaugurated-various-construction-works-and-performed-bhoomi-pujan/',
+    date: '2024-11-19',
+    note: 'Janpad panchayat Kareli ki gram panchayat Umaria me Awas Pakhwada karyakram me unhone Rs. 65 lakh ki lagat se banne wale up-swasthya kendra aur Rs. 3.30 lakh ki CC road ka bhoomi-pujan kiya, saath hi naali nirman karya ka udghatan bhi kiya; PM Awas Yojana-Gramin ke swikriti patra bhi vitrit kiye. Status: bhoomi-pujan/udghatan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: tithi wire dateline (Bhopal, 19 November) se li hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nayakheda se Tapariya Tola pahunch marg (Rs. 21 lakh) ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ujjwal Pradesh, 19 Nov 2024',
+    sourceUrl: 'https://www.ujjwalpradesh.com/minister-patel-inaugurated-various-construction-works-and-performed-bhoomi-pujan/',
+    date: '2024-11-19',
+    note: 'Gram panchayat Nayakheda me unhone Rs. 21 lakh ki lagat se bane Nayakheda se Tapariya Tola pahunch marg ka lokarpan kiya. Status: lokarpan (marg nirmit, janata ko samarpit). Caveat: tithi wire dateline (Bhopal, 19 November) se li hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Tindni me Shed nadi par Narsinghpur-Simariya-Tindni marg ke 150-meter uchch-stariya pul ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ujjwal Pradesh, 19 Nov 2024',
+    sourceUrl: 'https://www.ujjwalpradesh.com/minister-patel-inaugurated-various-construction-works-and-performed-bhoomi-pujan/',
+    date: '2024-11-19',
+    note: 'Tindni me Shed nadi par nirmit Narsinghpur-Simariya-Tindni marg ke 150 meter lambe uchch-stariya pul ka lokarpan unhone kiya; report ke mutabik pul banne se Narsinghpur jila mukhyalaya ka fasla kam hua hai. Status: lokarpan (pul nirmit, yatayat hetu khula). Caveat: tithi wire dateline (Bhopal, 19 November) se li hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nayakheda-Imaliya-Gargata-Gararu marg par uchch-stariya pul ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ujjwal Pradesh, 19 Nov 2024',
+    sourceUrl: 'https://www.ujjwalpradesh.com/minister-patel-inaugurated-various-construction-works-and-performed-bhoomi-pujan/',
+    date: '2024-11-19',
+    note: 'Usi pravas me unhone Nayakheda-Imaliya-Gargata-Gararu marg par uchch-stariya pul ka bhi lokarpan kiya. Status: lokarpan (pul nirmit, yatayat hetu khula). Caveat: tithi wire dateline (Bhopal, 19 November) se li hai; pul ki lagat article me nahi di gayi thi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kareli basti me Rs. 50 lakh ke Unnati Samudayik Prashikshan Kendra ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yash Bharat, 9 Mar 2025',
+    sourceUrl: 'https://yashbharat.co.in/मंत्री-प्रहलाद-पटेल-ने-कि/',
+    date: '2025-03-08',
+    note: 'Antarashtriya Mahila Divas (8 March 2025) par aayojit karyakram me unhone vikas-khand Kareli ke antargat Kareli basti me Rs. 50 lakh ki lagat se nav-nirmit Unnati Samudayik Prashikshan Kendra ka feeta katkar lokarpan kiya. Status: lokarpan (kendra nirmit, janata ko samarpit). Note: usi karyakram me 1132 swasahayata samoohon ko Rs. 28.27 crore ke bank cheque vitrit hue — ye Aajeevika Mission ki rajya-yojana ka vitaran tha, alag entry nahi banayi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kareli basti me Rs. 5 lakh ke Bhagwan Birsa Munda Bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yash Bharat, 9 Mar 2025',
+    sourceUrl: 'https://yashbharat.co.in/मंत्री-प्रहलाद-पटेल-ने-कि/',
+    date: '2025-03-08',
+    note: 'Usi Mahila Divas karyakram me unhone Kareli basti me Rs. 5 lakh ki lagat se nirmit hone wale Bhagwan Birsa Munda Bhavan ka bhoomi-pujan kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Richhai me lagbhag Rs. 50 lakh ke karyon ka lokarpan-bhoomi-pujan — Ayushman Arogya Mandir UHC, sudur sadak, samudayik bhavan, anganwadi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Vocal TV (Hindushtan Samachar wire), 11 Apr 2025',
+    sourceUrl: 'https://vocaltv.in/madhya-pradesh/patel-inaugurated-various-works-and-performed-bhoophp/cid16549896.htm',
+    date: '2025-04-11',
+    note: 'Kareli janpad panchayat ke gram Richhai me unhone lagbhag Rs. 50 lakh ki lagat ke Ayushman Arogya Mandir up-swasthya kendra, Dane Dada se Mrigendranath dham ki ore sudur sadak, samudayik bhavan aur anganwadi kendra kramank-2 ka lokarpan, aur khel maidan samtalikaran, seedhi evam retaining wall nirman karya ka bhoomi-pujan kiya; UHC ke liye bhoomi daan dene wale Pramod Kumar Choudhary ka samman bhi kiya. Status: lokarpan + bhoomi-pujan — UHC/sadak/bhavan/anganwadi taiyar, khel-maidan karya shuru hona tha.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT LOG (prahlad-singh-patel, researched 2026-10-14) ----
+// Mantri-niyam note: ye Cabinet Mantri (Panchayat evam Gramin Vikas) hain — vibhag ke rajya-stariya faisle,
+// rajya-yojanaon ki ghoshnaen aur mantri-roop ke daure/bhashan entry me nahi liye gaye.
+// 1. khabarbhoomi.com (~Jan/Feb 2024) — Bagaspur gram panchayat me Rs. 55 lakh ke vikas karyon ka lokarpan/bhoomi-pujan.
+//    REJECT: kshetra-bahar — karyakram me "vidhayak Mahendra Nagesh" maujood the; Mahendra Nagesh Gotegaon AC (118) ke
+//    vidhayak hain (atulyabharatchetna, Oct 2026), isliye Bagaspur Narsingpur AC-119 se bahar ka kshetra hai.
+//    URL: https://khabarbhoomi.com/inauguration-and-bhoomi-pujan-of-development-works-worth-rs-55-lakh-done-in-gram-panchayat-bagaspur/
+// 2. CM Mohan Yadav ka Narsinghpur daura (Oct 2026; punjabkesari/indianmasterminds/mpbreakingnews) — Sandipani school lokarpan,
+//    Rs. 540 cr road, riverfront, Gita Bhawan aadi CM ghoshnaen.
+//    REJECT: CM ke karyakram me sirf maujoodgi + CM ki ghoshnaen — inki vyaktigat dastavezi bhoomika nahi.
+// 3. Sainik School, Gotegaon (IANS/newsnation, Apr 2025) — Patel ne Raksha Mantri se milkar PPP-mode school ki approval dilayi.
+//    REJECT: kshetra-bahar (Gotegaon AC-118, inka grih-nagar lekin Narsingpur AC nahi) + parivar-foundation ka PPP school.
+// 4. loknathnews.com (1 Oct 2026) — Imlai me Rs. 65 lakh swasthya kendra, lokarpan ke baad bhi tala.
+//    REJECT: kshetra-bahar — Imlai Damoh jile ka gram hai, Narsinghpur ka nahi (search snippet bhramak tha).
+// 5. polkholnewz.com (11 Jan 2026) — 12 Jan ko Suatla me PHC lokarpan + samudayik bhavan bhoomi-pujan ka daura-karyakram.
+//    REJECT: pre-event schedule — karyakram hone ka post-event report nahi mila.
+// 6. khabar24livetv.com (9 Jun 2026) — 10-11 June daura schedule: Tinsra pul lokarpan, Simariyakala pul bhoomi-pujan,
+//    Dilheri gaushala lokarpan, Naktua Atal Gram Seva Sadan bhoomi-pujan, Yashoda Garden me Rs. 346.75 lakh ki 6 sadkon ka lokarpan.
+//    REJECT: pre-event schedule — kisi bhi kaam ka post-event report nahi mila.
+// 7. khabar24livetv.com (1 Aug 2026) — 1-2 Aug daura schedule (swasthya/vikas saugaat).
+//    REJECT: pre-event schedule — post-event report nahi mila.
+// 8. aimamedia.org — 14 April ko One Stop Centre (jila aspatal) lokarpan ka daura-karyakram.
+//    REJECT: pre-event schedule — actual lokarpan ki khabar nahi mili.
+// 9. tarunmitra.in (~Mar 2026) — Devakachar nal-jal yojana lokarpan + Kapuri me Kheda nadi pul (Rs. 127.04 lakh) bhoomi-pujan ka schedule.
+//    REJECT: pre-event schedule — post-event report nahi mila.
+// 10. atulyabharatchetna.org.in (Oct 2026) — Narsinghpur nagarpalika seema vistar (13 gram panchayatein) — "mantri ki pahal".
+//     REJECT: sirf prastav (proposed) — antim nirnay prakriya poori nahi hui.
+// 11. shuru.co.in — jila aspatal me 2 dialysis machines ka shubharambh.
+//     REJECT: machines Rajya Sabha sansad Vivek Tankha ki SANSAD-nidhi se; Patel ne sirf shubharambh kiya — unka kaam/nidhi nahi.
+// 12. IANS via lokmattimes/prokerala (4-5 Jun 2026) — Singri nadi punaruddhhar, Jal Ganga Samvardhan Abhiyan par mantri-bayan.
+//     REJECT: mantri-niyam — rajya-stariya abhiyan par bayan, Narsingpur AC ka thos dastavezi kaam nahi.
+// 13. newzfatafat.com (~Dec 2024) — PMGSY green-technology workshop, Bhopal.
+//     REJECT: rajya-stariya vibhagiya karyakram — kshetra-kaam nahi.
+// 14. freepressjournal.in — shmashan-ghat approach-road/suraksha par vibhagiya circular.
+//     REJECT: rajya-stariya vibhagiya ghoshna — Narsingpur AC ka thos kaam nahi.
+// 15. etvbharat.com (1 Nov 2025) — nasha, Bagaspur sony-khadan, Gadarwara sadak par interview-bayan.
+//     REJECT: mantri-bhashan/bayan — koi thos kaam nahi.
+// 16. bansalnews.com — Khandwa me "naali-road ke paise mangne mat aana" bayan.
+//     REJECT: bayan — kaam nahi.
+// 17. YouTube-only videos (atal sushasan bhavan Khilchipur/Jirapur, Waraseoni j.p. bhavan aadi).
+//     REJECT: YouTube-only source-type; upar ke dono sthan waise bhi Narsingpur AC se bahar hain.
+// 18. Election profiles (ABP/FE/Statesman, Oct-Dec 2023) — jeet, background.
+//     REJECT: background info only — koi kaam ka zikr nahi.
+// 19. Accident news (Nov 2023, Amarwara) — pre-term + koi kaam nahi.
+//     REJECT: pre-Dec 2023.
+// 20. emsindia.com (31 Oct 2025 / 26 Dec 2025) — Sardar Patel jayanti, Veer Bal Diwas karyakram.
+//     REJECT: samaroh/maujoodgi — koi kaam nahi.
+// SARKARI CHECK: mpinfo.org (DPR) par inke naam se Narsingpur-AC-specific lokarpan/bhoomi-pujan ki koi alag press-vigyapti
+// trace nahi hui jo upar shamil na ho; isliye koi 'sarkari' badge entry nahi bani. Vidhayak-nidhi ki itemized
+// sanction-soochi bhi saarvajanik roop me nahi mili — vidhayak-nidhi ghoshna-type khabrein bina sanction saboot ke nahi li gayin.
+
+// Vishwanath Singh (Mulam Bhaiya) — BJP, Tendukheda AC-120, Narsinghpur jila (MP)
+// Karyakaal: Dec 2023 se (2023 me Sanjay Sharma ko 12,347 maton se harakar jeete)
+// researched 2026-10-14. Profile KHAALI rakhi gayi — 12+ targeted searches (Hindi +
+// English) ke baad Tendukheda kshetra me unki concrete bhoomika wali koi qualifying
+// entry (swikriti/bhoomi-pujan/lokarpan) kisi valid source par nahi mili.
+mpWorks['vishwanath-singh-mulam-bhaiya'] = [];
+// REJECT-LOG vishwanath-singh-mulam-bhaiya (2026-10-14):
+// 1. khabar24livetv.com/category/nation/tendukheda-vidhan-sabha-kothiya-narmada-ghat-sadak (24 Dec 2025) — gram Kothiya se Narmada ghat tak ~Rs 371.28 lakh ki CC sadak ka bhoomi-pujan; article me "क्षेत्रीय सांसद दर्शन सिंह क्षेत्रीय विधायक श्री विश्वनाथ सिंह पटेल ने ... भूमि पूजन किया" — MP + MLA dono ne milkar kiya; fund source/scheme/sanikriti ka koi zikr nahi. Kiska kaam, kiski nidhi — attribution adhoora. KAMZOR ATTRIBUTION → reject. (Note: agar fund source vidhayak-nidhi nikle to dobara vichar yogya.)
+// 2. khabar24livetv.com/category/nation/liga-bhaurijhar-se-narmadaji-tak-cc-road-poojan (24 Dec 2025) — Liga se Narmada ghat tak Rs 97.91 lakh CC sadak ka bhoomi-pujan; sirf 2-line ki khabar, MP pehle + MLA uske baad attendees list me; fund source nahi. KAMZOR ATTRIBUTION → reject.
+// 3. khabar24livetv.com/category/nation/ek-crore-se-adhik-vikas-karyon-ki-saugat (19 Jul 2026) — Kaudiya/Lilwani/Sadoomar me 1 crore+ ke bhoomi-pujan/lokarpan; article KHUD kehta hai "गाडरवारा विधानसभा क्षेत्र के ग्राम" — KSHETRA-BAHAR (Gadarwara AC); Tendukheda MLA sirf MP ke saath mukhya atithi → reject.
+// 4. khabar24livetv.com/category/nation/gram-lilwani-vikas-saugat-up-swasthya-kendra-cc-sadak (18 Jul 2026) — Lilwani me up-swasthya kendra + CC sadkon ka lokarpan; sthan "ग्राम पंचायत लिलवानी, जनपद पंचायत चावरपाठा" — KSHETRA-BAHAR (Chawarpatha = Gadarwara AC); MLA Tendukheda sirf MP ke saath mukhya atithi → reject.
+// 5. khabar24livetv.com/category/nation/tendukheda-kshetra-vikas-karyon-saugat (17 Jul 2026) — upar wale karyakramon ki ADVANCE GHOSHNA ("karenge bhoomi-pujan"); bhavishya ki khabar + MP-led → reject.
+// 6. public.app video sp_c5wm6rv53d9ih (13 Nov 2025) — Vohani me vidhayak-nidhi se Rs 10 lakh CC sadak ka bhoomi-pujan — public.app-ONLY source → reject.
+// 7. public.app video sp_kdu9zy9ov32yl (13 Nov 2025) — gram panchayat Chirachira ke gram Sujwara me Rs 10 lakh CC sadak bhoomi-pujan (vidhayak-nidhi) + Rs 6.67 lakh tin-shed/chabutara lokarpan — public.app-ONLY source → reject.
+// 8. public.app video sp_6gepjzaauc4x0 (Nov 2025) — Karhaiya aur Barha me Rs 15-15 lakh ke samudayik bhavanon ka bhoomi-pujan — public.app-ONLY source → reject.
+// 9. public.app video sp_109x4wwmmy16r — gram Nainwara me Rs 15 lakh samudayik bhavan ka bhoomi-pujan — public.app-ONLY source → reject.
+// 10. public.app video sp_psvz6sg6pc2el — Tendukheda nagar palika ward 9 me chaupati par Rs 12.59 lakh tin-shed — public.app-ONLY source (aur "Tendukheda, Damoh" tag bhi) → reject.
+// 11. public.app video sp_weo37yp9u2mc1 — shaskiya mahavidyalaya Sihora ka auchak nirikshan — SIRF NIRIKSHAN → reject.
+// 12. public.app video sp_68krcvsmccd2y — Harai shaskiya school me muft cycle vitran karyakram me shamil — SIRF KARYAKRAM me maujoodgi → reject.
+// 13. public.app video sp_h8c8nzgktr8n4 (Kareli News) — gram Reechha me pulse polio abhiyan me shamil — SIRF KARYAKRAM me maujoodgi → reject.
+// 14. public.app video sp_9pba8fckiw813 (Kareli News, 13 Nov 2025) — janjatiya gaurav yatra rath ko hari jhandi — KARYAKRAM, vikas-karya nahi → reject.
+// 15. public.app video sp_ordj2gyicflzv (Kareli News) — Khulri me seva-sankalp abhiyan chitrakala pratiyogita me shamil — KARYAKRAM → reject.
+// 16. bhaskar.com/local/mp/narsinghpur/news/bjp-mla-launched-cleanliness-drive-on-gandhi-jayanti-133737265.html (2 Oct 2024) — Gandhi Jayanti par swachhta abhiyan — KARYAKRAM, vikas-karya nahi → reject.
+// 17. jantaexpresslive.com/city-pride-day-... (Dec 2025) — Tendukheda Nagar Gaurav Diwas me mukhya atithi — KARYAKRAM me maujoodgi, vikas-karya nahi → reject.
+// 18. khabar24livetv.com/category/nation/ek-vriksh-shahid-aashish-sharma-nam-vriksharopan (9 Sep 2026) — shaheed Ashish Sharma ki smriti me vriksharopan — KARYAKRAM → reject.
+// 19. khabar24livetv.com/category/religion/gadarwara-thairi-ghat-shri-sitaram-mahayagya-2026 (12 Oct 2026) — Mahayagya ke bhoomi-pujan me upasthiti — DHARMIK KARYAKRAM → reject.
+// 20. khabar24livetv.com/category/education/tendukheda-vidhayak-vishwanath-singh-patel-praveshotsav (1 Apr 2026) — Bhaurjhir shaskiya school me "School Chale Hum" praveshotsav me shamil — KARYAKRAM me maujoodgi → reject.
+// 21. livevns.news / vocaltv.in (11 Apr 2025, hindusthan samachar) — mantri Prahlad Singh Patel ke Reechhai karyakram me MLA sirf upasthit ("इस अवसर पर विधायक विश्वनाथ सिंह पटेल ... मौजूद थे"); karyakram mantri ka tha → sirf maujoodgi → reject.
+// 22. thehitavada.com/Encyc/2026/1/1/minister-patel-performs-bhoomi-pujan-of-atal-good-governance-building.html (Jan 2026) — mantri ke Atal Sushasan Bhavan bhoomi-pujan me MLA ne sirf apne vichar vyakt kiye — MANTri ke karyakram me maujoodgi → reject.
+// 23. aditinews.com/madhya-pradesh/meeting-concluded-regarding-preliminary-preparations-for-barman-fair-2026 — Barman mela-2026 ki taiyari baithak (collector adhyaksh, MLA "vishesh maujoodgi"; shauchalay marammat ka SUJHAV diya) — sirf baithak/sujhav, koi concrete kaam nahi → reject.
+// 24. peoplesupdate.com (monsoon session 2026 report) — Tendukheda MLA ne sadan me Sihora ko janpad panchayat banane ki MAANG uthai — sirf maang → reject.
+// 25. youtube.com videos (Barman mela charcha; sadAN me vaktavya; Tendukheda Nagar Gaurav Diwas; Sant Ravidas mandir-park bhoomi-pujan short; aalha gayan) — YouTube-ONLY source → reject.
+// 26. election-result pages (NDTV/Business Standard/Times of India/Oneindia/ABP/Zee/IndiaTV) — Dec 2023 ke baad ke karyakaal ke vikas-kaam nahi → reject.
+// NOTE (naam-bhram se bachav): MP me DO Tendukheda hain — Narsinghpur ka AC-120 (in profile) aur Damoh jile ka kasba (Jabera AC). aanchaalikkhabre/jabalpurdarpan ke "nagar parishad Tendukheda me vidhayak Dharmendra Singh Lodhi" wale hits DAMOH ke Tendukheda ke hain — galat kshetra → reject. ncrsamacharlive ka Namo Upvan article bhi Damoh-sansad wala → reject.
+// Negative entry: affidavit me 0 criminal cases (myneta); searches me koi credible FIR/case/janch ki khabar nahi mili — isliye koi negative entry nahi jodi.
+
+// ---- Narsinghpur district batch — uday-pratap-singh (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+// Pehchan-note: MP ke Shiksha-Parivahan mantri (Rao) Uday Pratap Singh hi Gadarwara AC-121 ke MLA hain
+// (NDTV/OneIndia/Wikipedia — portfolio: Transport and School Education, constituency Gadarwara).
+// Mantri-niyam lagaya gaya: rajya-stariya vibhagiya faisle (NCERT/RTE/Sandipani nirnay) excluded;
+// sansad-kaal (2009-2023, Hoshangabad) ke kaam excluded. Qualifying kshetra-kaam koi nahi mila —
+// profile seedha kaam-ke-hisab se lagbhag khaali; sirf ek negative entry (adalati karyavahi kharij) mili.
+mpWorks['uday-pratap-singh'] = [
+  {
+    title: 'Tiranga Yatra 2024 me rashtriya jhande ke apman ke aarop par MP-MLA Court ne shikayat kharij ki (Gadarwara)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 17 Sep 2026',
+    sourceUrl: 'https://www.freepressjournal.in/bhopal/minister-rao-uday-pratap-singh-national-flag-case-no-sufficient-evidence-mp-mla-court-dismisses-complaint-over-insulting-tricolour-during-tiranga-yatra-in-2024',
+    date: '2026-09-17',
+    note: 'Negative entry: 11 Aug 2024 ko Gadarwara me Tiranga Yatra ke dauran khule jeep me sawar mantri ki gaadi ke bonnet par laga tiranga unke pairon ko chhu raha tha — isi aarop par Gotegaon (Narsinghpur) nivasi Kaushal Silawat ne Prevention of Insults to National Honour Act, 1971 ke tahat karyavahi ki maang ki; shikayatkarta ke anusar Gadarwara police ne FIR darj nahi ki, isliye March 2026 me MP-MLA Court ne mantri ko notice diya. 16 Sep 2026 ko Judicial Magistrate DP Sutrakar ne shikayat kharij kar di: sakshya aparyapt — tasveer me gaadi ka number saaf nahi, aur koi saboot nahi ki jhanda mantri ke nirdesh par lagaya gaya tha. Mantri ka jawab reporting me uplabdh nahi. Koi dosh-siddhi nahi; karyavahi kharij-star par poorn.',
+    period: '2023-2028',
+  },
+];
+
+/*
+REJECT-LOG (uday-pratap-singh — har lead jo kholkar check hui, pass nahi hui):
+1. Indian Masterminds + Indian Economic Observer (9 Jun 2025) — CM Mohan Yadav dwara Gadarwara me 135 karyon (Rs 80.46 crore: 67 lokarpan + 68 bhoomi-pujan) ka karyakram; Uday Pratap Singh ne CM ka aabhar jataya aur Gadarwara talab ke Rs 2 crore saundaryikaran ko CM ka uphaar bataya. Unki koi dastavezi bhoomika nahi — sirf maujoodgi + CM ka shrey. Reject (weak attribution/sirf maujoodgi).
+2. looknewsindia (15 Nov 2024) — Dangha-Chandankheda (Gadarwara kshetra) me Birsa Munda pratima ka bhoomi-pujan; Dangaha me vivah bhavan ke liye Rs 30 lakh 'daan' ki ghoshna + Rs 2.5 lakh ka chabutara swikrit. Site khud kholi to 'Account Suspended' mili; alternate source nahi mila — snippet se entry banana mana hai. Reject (unverifiable).
+3. Free Press Journal, Bhopal (2026) — CM dwara Rs 155 crore sewage bhoomi-pujan + Katara Barrai Sandipani school udghatan me mantri sirf upasthit. Bhopal ka karyakram — kshetra-bahar + sirf maujoodgi. Reject.
+4. Bhaskar English (Mar 2025) NCERT anivarya ghoshna + ET-Education (Oct 2026) RTE Rs 502 crore/Narsinghpur Sandipani udghatan + obnews (drinking-water galat jankari) — sab rajya-stariya vibhagiya nirnay/bayan. Reject (mantri-niyam: sirf Gadarwara seat ke thos kaam).
+5. YouTube — Balaghat BK 09 railway overbridge ka prabhari-mantri ke roop me udghatan: kshetra-bahar (Balaghat) + YouTube-only source. Reject.
+6. YouTube 'Bimb ek pratibimb anek' documentary — UP ke kavi Uday Pratap Singh (janm 1932, Mainpuri) — galat vyakti. Reject.
+7. YouTube 'Gadarwara vikas karyon ke liye karodon ki rashi', Maharana Pratap Ward gyapan, kisan shikayat, swatantrata divas bhashan — koi thos lokarpan/swikriti nahi + YouTube-only. Reject.
+8. Sansad TV (Mar 2022) — sansad-kaal ka karyakram. Reject (pre-term).
+9. obnews/drinking-water aur '1000 schools closed' stories — mantri ke rajya-stariya bayaan, koi Gadarwara-specific kaam nahi. Reject.
+10. DNA/Zee (2013) BJP joining stories — pre-term + kaam nahi. Reject.
+*/
