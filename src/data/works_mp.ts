@@ -9331,3 +9331,63 @@ mpWorks['jitendra-uday-singh-pandya'] = [
 // // npg.news biography — pre-term profile; zeenews/abplive election results — kaam nahi.
 // // Negative: dono MLAs ke viruddh koi established FIR/case/adalaati ya adhikarik janch reporting nahi mili;
 // // dono ke ADR me 'Criminal Cases: No' darj hai.
+
+// ---- Umaria district batch (researched 2026-10-14) ----
+mpWorks['meena-singh'] = [
+  {
+    title: 'Gram Chansura me Rs 30 lakh ki swikrit rashi se bane samudayik bhavan aur samudayik swasthya kendra ka lokarpan',
+    category: 'Aspataal',
+    badge: 'sarkari',
+    sourceLabel: 'BMP24News, 20 Sep 2025',
+    sourceUrl: 'https://bmp24news.com/3240',
+    date: '2025-09-19',
+    note: 'Manpur block ke gram Chansura me 19 Sep 2025 ko Rs 30 lakh ki swikrit rashi se bane naveen samudayik bhavan aur naveen samudayik swasthya kendra ka lokarpan hua, jismein vidhayak Meena Singh mukhya atithi ke roop me shamil thin; stage lokarpan hai aur dono nirman sarkari swikrit rashi par hue hain — article me vidhayak-nidhi ka zikr nahi hai, isliye iska shrey sarkari yojna-nidhi ko jata hai aur unki bhoomika mukhya atithi tak seemit thi; srot chhota kshetriya portal BMP24News hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Birsinghpur Pali me Rs 8 crore se adhik ki lagat se bane do naveen chhatravason ka lokarpan',
+    category: 'School',
+    badge: 'sarkari',
+    sourceLabel: 'Atulya Bharat Chetna, 27 Jun 2026',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/115221',
+    date: '2026-06-27',
+    note: 'Umaria jile ke Birsinghpur Pali nagar me Rs 8 crore se adhik ki lagat se bane do naveen chhatravason ka lokarpan June 2026 me vidhayak Meena Singh ke mukhya atithya me hua, karyakram ki adhyakshata jila panchayat adhyaksh ne ki; stage lokarpan hai aur dono chhatravas sarkari yojna-nidhi se bane hain — article me vidhayak-nidhi ka zikr nahi hai aur unki concrete bhoomika udghatan-samaroh ke mukhya atithi tak seemit thi (jila panchayat adhyaksh ne unke satat prayason ka shrey diya, lekin nidhi-srot article me nahi bataya gaya); srot chhota kshetriya portal Atulya Bharat Chetna hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Kudri No-2 me nava-nirmit Atal Seva Sadan panchayat bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Vistaar News, 6 Jul 2026',
+    sourceUrl: 'https://vistaarnews.com/madhya-pradesh/indore/mla-meena-singh-makes-controversial-statement-about-discontinuing-the-ladli-behna-yojana/',
+    date: '2026-07-06',
+    note: '6 July 2026 ko gram panchayat Kudri No-2 me nava-nirmit Atal Seva Sadan panchayat bhavan ka lokarpan vidhayak Meena Singh ke mukhya atithya me hua; stage lokarpan hai aur bhavan sarkari yojna (Atal Seva Sadan) ke tahat bana hai — article me vidhayak-nidhi ka zikr nahi hai aur unki bhoomika mukhya atithi tak seemit thi; dhyan rahe is khabar ka mukhya vishay lokarpan nahi, vidhayak ka wahan diya gaya vivadaspad bayan tha jiska Congress ne virodh kiya; srot kshetriya digital portal Vistaar News hai.',
+    period: '2023-2028',
+  },
+];
+mpWorks['shivnarayan-gyan-singh-lallu-bhaiya'] = [
+  {
+    title: 'Naorozabad me Rs 1.31 crore ke nagar-vikas karyon ka bhoomi-pujan — children park, Chhapra talab jiirnoddhar aur green space',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Raajdhani News, 05 Aug 2024',
+    sourceUrl: 'https://raajdhaninews.com/archives/18344',
+    date: '2024-08-05',
+    note: '5 Aug 2024 ko Naorozabad Nagar Parishad ke Sai mandir prangan me Bandhavgarh vidhayak Shivnarayan Singh ne mukhya atithi ke roop me bhoomi-pujan kiya: ward 12 me children park, boundary wall aur fencing (lagbhag Rs 51.64 lakh) tatha Amrit 2.0 ke antargat ward 15 me Chhapra talab ka jiirnoddhar aur ward 7 me green space development (lagbhag Rs 79 lakh). Shrey-pardarshita: ye kaam Nagar Parishad aur rajya yojana Amrit 2.0 ke fund se hain, vidhayak-nidhi ya sansad-nidhi se nahi; vidhayak ki bhoomika samaro me mukhya atithi ke roop me bhoomi-pujan ki thi. Raajdhani News kshetriya chhota portal hai, iska disclosure diya ja raha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Naorozabad ke Ghatwaiya tola me Rs 26.83 lakh ke minor bridge ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Raajdhani News, 05 Aug 2024',
+    sourceUrl: 'https://raajdhaninews.com/archives/18344',
+    date: '2024-08-05',
+    note: 'Usi karyakram me Naorozabad Nagar Parishad dwara ward 1 ke Ghatwaiya tola me Rs 26.83 lakh ki lagat se nirmit minor bridge ka lokarpan vidhayak Shivnarayan Singh ne kiya; portal ke anusar pull ka nirmaan pehle se pura ho chuka tha. Shrey-pardarshita: pull Nagar Parishad ne banwaya, fund vidhayak-nidhi ya sansad-nidhi nahi; vidhayak ki bhoomika lokarpan samaro me mukhya atithi ki thi. Raajdhani News kshetriya chhota portal hai, iska disclosure diya ja raha hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (Umaria district batch, researched 2026-10-14):
+// meena-singh — 8 rejects: dharna Bandhavgarh karyalaya (jipsi rozgar, koi kaam nahi); Padkhuri Vikas Yatra (pre-term, mantri-kal); Panchayati Samvad CC sadak (pre-term nidhi-daava); YouTube-only x3 (Barbasapur hostel shilanyas, 72 kanyadan, sadak-shikayat sirf maang); Dainik Bharti CM-taiyari (pre-event + sirf maujoodgi); Nationpress CM Rs 144.15 cr daura (koi concrete bhoomika nahi). Negative: koi qualifying FIR/case reporting nahi.
+// shivnarayan-gyan-singh-lallu-bhaiya — 12 rejects: Gadkari ko 3 NH patra (sirf maang); Ghulghuli visthapan gyapan (sirf maang); chidiyaghar sthal nirikshan (prastav, swikriti nahi); public.app-only x3; NN81 vidyutikaran bhoomi-pujan (rakam/fund agyat, kamzor attribution); school football udghatan (vikas-kaam nahi); vishwakarma visarjan maujoodgi; Krishak Jagat yojana launch (sirf upasthiti); CM PESA Mahasammelan maujoodgi; 14 Oct 2026 CM Guruwahi Rs 144 cr pre-event ghoshna (post-event reporting nahi). Negative: koi yogya reporting nahi mili.
+// Coordinator QA note: worker-2 ke titles English se Roman-Hinglish me normal kiye; dono fragments me Devanagari/₹/literal-\n/scaffolding comments zero; meena-singh entry-3 ka sourceLabel '08 Jul 2026' → '6 Jul 2026' date-field se milane ke liye fix kiya; Shivnarayan ki dono entries ek hi Raajdhani News article par aadharit hain — verified open source; dono slugs pehle khaali the, koi overwrite nahi.
