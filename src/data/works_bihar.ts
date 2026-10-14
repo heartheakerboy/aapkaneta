@@ -1182,3 +1182,84 @@ biharWorks['savitri-devi'] = [];
 // REJECT-LOG (savitri-devi): gidhaur.com 20/02/2018 teen sadak marammat shilanyas — 2015-2020 karyakaal, pre-term, reject; jamuitoday.com ~2019-2020 (Gander road Rs 1.25 cr, Sarebad kala manch, Bujhayat pul) — sab 2015-2020, pre-term, reject; voiceofbihar.in 3 Oct 2026 CM Samrat Choudhary ka Chakai ethanol plant nirikshan — Savitri Devi sirf "maojood janjpratinidhiyon" me, koi bhoomika nahi (IANS feed: bhaskarlive/asianetnews/hiindia/lokmattimes/thehansindia/punjabkesari), reject; livehindustan.com 6 Jan 2026 UCO Bank sthapna divas — bank samaroh, phita/keek, kaam nahi, reject; jagran.com 16 Dec 2025 "daavon ki pol" (Chakai referral hospital, 2-saal ki bachchi ko dawa nahi) — unpar koi vyaktigat aarop, FIR/case ya adhikarik janch nahi, unka jawab nahi — negative threshold fail, reject; livehindustan.com Mar 2026 Banka Sanskrit vidyalaya janch-maang — kshetra-bahar + sirf maang, reject; biharinfratales tarankit prashn 18/2/481 (vidyut bhandar) — sirf prashn, reject; citychanneljamui.blogspot.com Oct 2026 CM daura — blogspot-only + sirf maujoodgi, reject; ET/Indian Express/News18/NDTV/dnaindia Nov 2025 — sirf chunav parinaam coverage, reject. Profile imaandari se khaali rahi.
 
 // Coordinator QA note (Jamui, 2026-10-14): Is file me maujood unpushed Jamui batch purane coordinator-pass se aaya tha jisme schema violations the (entry objects me scaffolding comments, ek English title, ek credit detail galat) — use is sudhare hue batch se replace kiya gaya hai (push nahi hua tha, isliye koi shipped data overwrite nahi hua). 4 workers ke fresh research fragments AC order (Sikandra-240 -> Jamui-241 -> Jhajha-242 -> Chakai-243) me canonical schema {title, category, badge, sourceLabel, sourceUrl, date, note, period} me assemble kiye gaye; 4/4 slugs pehle batch me the lekin naya research + QA sudhaar ke saath badla gaya. Spot-QA: Sundaritand article khud kholkar verify kiya — ZP pratinidhi Rakesh Kumar Singh ka chunav-vaada tha (sadasya Deepika Kumari upasthit), note sudhara gaya; Kanya Pakri udghatan article khud khola — udghatan 6 Apr 2026 confirm. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal-\n, 0 entry-comments; badges/categories valid; period '2025-2030' sab me; titles pure Hinglish vakya, currency 'Rs'.
+
+// ---- Kaimur district batch (researched 2026-10-14) ----
+
+biharWorks['satish-kumar-singh-yadav'] = [
+];
+
+// REJECT-LOG (satish-kumar-singh-yadav): sab sources khud kholkar/padhe gaye; koi bhi entry criteria poori nahi kar saki.
+// 1. sudarshannews.in (HA Career inauguration, Bhabua) — private coaching institute ka phita katkar udghatan; sirf upasthiti/ribbon-cutting, koi sarkari kaam nahi, reject.
+// 2. Live Hindustan 15 Nov 2025 "Ramgarh ka sarvangin vikas hi meri prathamikta" — degree college/ITI/polytechnic/trauma centre sab "banwaenge/khulwayenge" future-tense vikas-vade, reject.
+// 3. Dainik Bhaskar ~Jul 2026 (article khud khola) — jharjar Durgawati power substation ka "jayaza liya" (inspection), vidhan sabha sawal, GM ko patra — sirf nirikshan + sawal + maang, reject.
+// 4. Dainik Bhaskar ~Aug 2026 — Larma/Vishwakarma pump canal ka nirikshan; "2 motor chaloo kara diye, teesra jaldi" — sirf nirikshan/daura + daawa, reject.
+// 5. public.app Mohania News 18 Apr 2026 — Durgawati prakhand/anchal karyalaya nirikshan — source reject-category + sirf nirikshan, reject.
+// 6. public.app Nuaon News 31 Dec 2025 — Godiyari sadak 3 din me ukhadna, nirikshan ke dauran gussa — public.app-only + sirf nirikshan, reject.
+// 7. public.app Bhabua News 9 Oct 2026 — Kanshi Ram parinirvan divas, vidhayak maojood — party event + sirf maujoodgi + public.app-only, reject.
+// 8. Chunav coverage — Jagran/Hindi News18/Indian Express/IndiaTV/PatnaPress/LiveHindustan (30 vote se jeet, counting-bawal, assembly first-session bayan) — sirf chunav/news coverage, reject.
+// 9. ZeeNews nomination (2024 by-election) + SudarshanNews nomination (Oct 2025) — chunav prachar/nomination coverage, reject.
+// 10. hindi.tennews.in 30 Nov 2025 — party-switch afwahon ka khandan — political rumor-denial bayan, reject.
+// 11. YouTube-only — ABP Ganga shapath ceremony, Rajpath Bharat "action mode", "sadan me 6 badi maang" — YouTube-only, reject.
+// 12. NAME COLLISIONS — (a) prakharnews/rgnews24 Sep-Oct 2026 Bijulia Talab road shilanyas, Patratu DMFT yojanayein: Ramgarh CANTONMENT JHARKHAND (Mamta Devi + Manish Jaiswal), reject; (b) zeenews Alwar: Ramgarh RAJASTHAN (BJP Sukhwant Singh), reject; (c) jagrititimes Ramgarh block "up pramukh Satish Singh" vs CO vivaad — ye block up-pramukh hai, MLA nahi, galat vyakti, reject.
+// 13. CM Samriddhi Yatra PTI/newsdrum 24 Mar 2026 (Kaimur Rs 209 crore: 161 udghatan + 43 shilanyas) aur Live Hindustan Rs 7.75 crore (Ramgarh nagar panchayat highmast light Rs 69.08 lakh, talab Rs 99.21 lakh) — CM/BUDCO sarkari yojanayein, MLA ki koi bhoomika report nahi, reject.
+// 14. ZeeNews 2021 Evti power substation (Sudhakar Singh/Ashok Singh credit-ladai) — pre-term + dusre neta, reject.
+// 15. vikashsingh.in 2024 by-election campaign page — chunav prachar, reject.
+// NEGATIVE-CHECK: koi eligible negative entry nahi — halafnama ke 2 purane mukadme (routine disclosure, current karyakaal me koi nayi FIR/janch reporting nahi); Nuaon Akhini murder case me vidhayak ne daroga ko fatkara — unpar koi aarop/janch nahi. Negative threshold fail.
+// PROFILE: imaandari se khaali — koi bhi kshetra-kaam established source se Nov 2025+ karyakaal me validate nahi ho saka.
+
+biharWorks['sangita-kumari'] = [
+];
+
+// REJECT-LOG (sangita-kumari): ~20 items — pre-term (Prabhat Khabar May 2025 Siyapokhar school bhavan udghatan; public.app Oct 2025 chhath ghat + Pipariya pul shilanyas — public.app-only bhi; janvichar.in Sep 2024 chikitsa shivir; Punjab Kesari Feb 2025 CM Nitish Kaimur daura sirf maujoodgi; ETV Bharat Jun 2025 Dadar khel maidan chahardiwari shilanyas); sirf maang (LiveHindustan article me mahila degree college ki maang — gyapan); sirf maujoodgi/prashansa (LiveHindustan Dec 2025 Yuva Sansad mukhya atithi; Zee News Kaimur Rs 196 crore — ghoshna CM ki, unki sirf tippani); samman samaroh (public.app Sep 2026 shikshak divas); negative threshold fail (Geeta Pasi "paise lekar BJP" aarop Amar Ujala/ETV Jun 2025 — koi FIR/janch nahi; Ravi Paswan "commission" daawa The Hindu chunavi — koi FIR/janch nahi; ABP Oct 2025 campaign protest pre-term; YouTube viral video unverified); political statement (Zee News Sasaram MP assault bayan); galat vyakti (currentkhabar Manju Kumari, Jharkhand); sirf chunav coverage (News18/ET/dnaindia/TOI/india.com/Jagran Nov 2025).
+// Coordinator QA removal: worker ki 1 vetan-daan entry (Live Hindustan, 13 Oct 2026 — CM baadh rahat kosh me apne ek mahine ka vetan) HATA di — vyaktigat vetan-daan vyaktigat sahayata hai, vikas-kaam nahi (Pappu Kumar Verma precedent: ISMA Times vetan-daan isi aadhaar par reject). Us article me ek khaas pushti mili hai: article ke anusaar Bihar ke vartamaan CM ka naam **Samrat Choudhary** hai — parent ki watch-list (Bihar CM change) ke liye corroboration.
+
+biharWorks['bharat-bind'] = [];
+
+// REJECT-LOG (bharat-bind):
+// 1. Dainik Bhaskar, 27 Sep 2025 — Rampur prakhand ke Sabar + Shivpur gaon me Durgavati nadi par 11-11 crore lagat ke 2 pulon (100m) ka shilanyas — Bharat Bind ne swayam kiya, established media. LEKIN tareekh 27 Sep 2025 = current karyakaal (Nov 2025+) se PEHLE; article khud kehta hai unhone 2020 me mudda uthaya tha — pichhle karyakaal ka kaam. Pre-term reject.
+// 2. Live Hindustan, 26 Feb 2026 — Rampur prakhand me Raja ke Akodhi nahar se Pusauli pul tak 18 km sadak ke chaudikaran ki MAANG vidhan sabha me uthai; mantri se sirf ashvasan — sirf maang, reject.
+// 3. Live Hindustan, ~12 Oct 2026 — PM Shri Plus Two High School Bhabua me pradhanadhyapakon ki baithak me vidyalayon ki pragati ki SAMIKSHA — sirf nirikshan/daura, reject.
+// 4. Live Hindustan, ~22 Sep 2026 — Ghavpokhar Mahadalit tola me sadak ki maang ko lekar bhook-hadtal; MLA ke letter pad par prastav + "pahal kar raha hoon" — bhavishya-ashvasan, reject.
+// 5. Live Hindustan, ~Jul 2026 — Nagar Parishad board baithak me 80 vikas yojanaon (Rs 12 crore) ko prashasnik swikriti — DI BOARD NE; Bind baithak me sirf "upasthit" the — sirf maujoodgi, reject.
+// 6. Live Hindustan, 22 Nov 2025 — Sardar@150 padyatra flag-off — event, vikas-kaam nahi, reject.
+// 7. CM Nitish ka Bhabua samvad program (Sep 2025) — Bind sirf upasthit MLAs ki soochi me — sirf maujoodgi + pre-term, reject.
+// 8. DNB Bharat, ~Sep 2025 — Maa Mundeshwari kala mahotsav deep-prajvalan (mantri Santosh Singh ke saath) — sanskritik event + pre-term, reject.
+// 9. Prabhat Khabar, ~Sep 2026 — swasthya shivir ka NIRIKSHAAN mantri Shreyasi Singh ne kiya; Bind sirf upasthit BJP netaon me — dusre ka program + sirf maujoodgi, reject.
+// 10. YouTube clips — YouTube-only source category reject.
+// 11. Patna Press (Oct/Nov 2025) — campaign me voter-sawal coverage; negative-entry threshold (established reporting + aarop + adhikarik FIR/janch) poora nahi, reject.
+// 12. Election coverage (Live Hindustan/News18/Indian Express/FE/News24) — sirf chunav parinaam, reject.
+// 13. ThePrint Hindi, 9 Oct 2025 — RJD se istifa + BJP me shamil — transition news + pre-term, reject.
+// 14. myneta 2025 halafnama: 2 aapradhik mamle declared — halafnama summary, koi established reporting + aarop + adhikarik karyavahi ka combo nahi; negative threshold fail, reject.
+// 15. Pehchan jaanchi gayi: "Bharat Bind" aam naam lekin Bhabua/Kaimur + BJP + umr 67 + EBC pehchan sabhi sroton me consistent — koi mixup nahi.
+// PROFILE: imaandari se khaali — kamzor attribution se behtar kuch na jodna.
+
+biharWorks['md-zama-khan'] = [
+  {
+    title: 'Chainpur ke Naughara gaon me lagbhag Rs 58 crore ki lagat se bane Bihar Rajya Alpsankhyak Awasiya Vidyalaya ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 10 Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/kaimur/minister-inaugurates-minority-residential-school-chainpur',
+    date: '2026-09-10',
+    note: 'Chainpur prakhand ke Naughara gaon me alpsankhyak kalyan vibhag ka 560-bed awasiya vidyalaya (kaksha 9-12, ladkon-ladkiyon ke alag hostel) bankar taiyaar hua; alpsankhyak kalyan mantri Md. Zama Khan ne 10 September 2026 (Guruvar) ko uska vidhivat udghatan kiya. Report ke samay 350 se adhik chhatra-chhatraon ka namankan ho chuka tha aur 14 shikshakon ke saath padhai shuru ho gayi thi. Karyakram me vibhag ke vishesh sachiv-sah-nideshak, Chenari vidhayak Murari Gautam sahit adhikari aur janpratinidhi maujood the. Credit-pardarshita: yeh vibhag ki rajya-stariya yojna ka project hai — mantri ke roop me unhone udghatan kiya; swikriti ya nirman me unki vyaktigat bhumika ka report me koi dastavezi saboot nahi hai. Stage: kaam poora + udghatan (post-event reporting, LiveHindustan ne bhi isi din ki khabar di). Follow-up caveat: Oct 2026 me Lalluram ne isi school me bhojan ki quality par chhatron ki shikayat report ki — adhikarik pushti ya janch ki khabar nahi mili, isliye negative entry nahi bani.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Chainpur prakhand ke Udayarampur me Rs 3.30 crore ki lagat se Lohra aur Isapur sadkon ke nirman ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 20 Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/bihar/kaimur/bhabua/news/bihar-minister-inaugurates-roads-in-kaimur-136989243.html',
+    date: '2026-01-19',
+    note: 'Alpsankhyak kalyan mantri Md. Zama Khan ne Chainpur prakhand ke Udayarampur me lagbhag Rs 3.30 crore ki lagat se Lohra road aur Isapur road ke nirman karya ka shilanyas kiya; dono sadkon ka nirman shubharambh ho gaya. Report ke anusaar in sadkon se darjanon gaon ko seedha labh milega; karyakram me JD(U) jiladhyaksh Ajay Patel sahit janpratinidhi aur badi sankhya me gramin maujood the. Stage: shilanyas (karyarambh) — nirman poornata ki alag khabar nahi mili. Credit-pardarshita: yeh sarkari sadak yojna hai — swikriti me vidhayak ki bhumika ka report me koi dastavezi saboot nahi hai; shilanyas ke charan me unki kendriya bhoomika ke karan entry rakhi hai. Date-disclosure: article par print tithi nahi thi; byline me "6 mahine pehle" aur article me "Somvar ko" likha hai — search metadata (~20 Jan 2026) aur crawl-time byline donon Jan 2026 ki or ishara karte hain, isliye 19 Jan 2026 (Somvar) (est.) maani hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (md-zama-khan):
+// Pre-term (2020-25 ya chunav-se-pehle): Zee News May 2022 pokhar-pine shilanyas (Rs 4.65 cr); Dastak7/Bhaskar Sep 2025 Chainpur thana-Bakhtiyar Khan road (Rs 1.59 cr) + Gurwat nadi pul shilanyas; Zee News Sep 2025 Suara nadi pul (Rs 5 cr); Ujjawal Prabhat Jul 2025 Adhaura Rs 294.4 cr peyjal (sirf khushi jatayi thi); Abhi Bharat Oct 2025 "kagzi chapakal" aarop (chhota portal + bina FIR/janch bhi).
+// Sirf bayan/future/upasthiti: LiveHindustan Jun 2026 CM Mundeshwari karyakram (general vikas-dawe, koi stage nahi); school article ke medical-college "2 mahine me", Adhaura tower/school/maidan ke dawe, Son-Kuhira paani — sab future/bina-stage; NBT namankan dawe; LiveHindustan Nov-Dec 2025 swagat-malyarpan; cabinet shapath/profiles.
+// Negative threshold fail / parivar: Zee News ~Oct 2026 sala Tayyab Khan dwara rajaswa karmchari pitai (FIR darj, dharna) — parivar ka mamla, kabhi nahi; Lalluram Oct 2026 school bhojan-shikayat — bina adhikarik pushti/janch; LiveHindustan Sep 2026 Chainpur-Basaunpur road-jam virodh — sirf maang/virodh.
+// Galat vyakti/sthan: LiveHindustan Chainpur-Uldanda road = Palamu, Jharkhand (MLA Alok Chaurasia); YouTube Bharat Samvad Lohara road = Dr. Anil Kumar Maurya + YouTube-only; muznews Nalanda school = kshetra-bahar (mantri ki state-level bhoomika).
+
+// Coordinator QA note: worker ke fragment me scaffolding-style header lines thi (sab remove ki gayi hain, entry-objects me koi comment nahi); zama entries ki hygiene verify — zero Devanagari, zero rupee-symbol, zero escaped-newline; sangita-kumari ki vetan-daan entry coordinator ne HATA di (Pappu Kumar Verma precedent); 4/4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 67 -> 69 (+2).
