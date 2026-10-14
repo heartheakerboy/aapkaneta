@@ -2828,3 +2828,239 @@ biharWorks['anita'] = [];
 // REJECT-LOG (anita): zeenews.india.com + newstak.in 29 Jan 2026, Warisaliganj PHC achanak nirikshan — sirf nirikshan, koi kaam nahi, reject; ABP Bihar YouTube, same inspection video — YouTube-only + inspection-only, reject; public.app ~Jan 2026, Warisaliganj block kriyanyan samiti meeting — public.app-only + maang, reject; public.app 16 Sep 2026, 6 gaon ka daura — public.app-only + daura/sunwai, reject; public.app, roadside stop WhatsApp request — public.app-only + sunwai, reject; public.app Feb 2026, sadan me maangen (cricket stadium, Budhauli paryatan, Sanjana muavza) — public.app-only + sirf maang, reject; lokmattimes.com/thehawk.in 1 Dec 2025, shapath-grhan vivad (pro-tem Speaker ne handwritten oath roka) — koi FIR/janch nahi, negative qualify nahi, reject; livehindustan/zee/news24/navbharattimes/dna/bhaskarenglish/TOI Nov 2025, chunav-jeet coverage — election news, reject; Hindi News18 photogallery 19 Oct 2025, halafnama assets — pre-term + affidavit only, reject; YouTube, "Anita Bhadel" shilanyas — galat vyakti (Ajmer South, Rajasthan MLA) + YouTube-only, reject; livehindustan, Arsali North Panchayat Garhwa (Jharkhand) PCC road shilanyas — galat vyakti (Jharkhand panchayat sadasya), reject; YouTube, "Vidhayika Kumari Anita" Republic Day song — YouTube-only + ceremonial, reject; TOI Nov 2025, Nawada women MLAs — election profile, reject. Pehchan verify: Anita Devi Mahto (RJD), Warsaliganj AC-239, pratham-karyakal vipakshi MLA — koi qualifying negative reporting nahi.
 
 // Coordinator QA note (Nawada batch, 2026-10-14): 5/5 MLA researched via 3 parallel workers; coordinator ne assembly khud ki. 1 entry rakhi gayi (binita-mehta, school lokarpan) — Manjeet Kumar Singh (Gopalganj) precedent par: rajya-yojna ka kaam, MLA ne vyaktigat roop se sthaniya udghatan kiya, credit-pardarshita note me (project ka poora credit rajya sarkar ko). Tithi weekday+metadata se anumaanit — description me disclosed. Baaki 4/5 profiles khaali: vimal-rajbanshi aur anil-singh ke sabse majboot items sirf maang/prastav thay; anil-singh ka sabse najdeeki entry (Hisua bypass Rs 35.19 cr) me article credit MP Vivek Thakur + prashasan ko deta hai — MLA-attributed kaam nahi, isliye reject; vibha-devi ke purane karyakal ke kaam pre-term; anita (pratham-karyakal vipakshi MLA) ka footprint sirf nirikshan/daure/maang. Galat-vyakti traps: Unnao Anil Singh, Ajmer South Anita Bhadel, Garhwa Anita Devi, Rajasthan Shravan Kumar pattern — sab alag rakhe gaye. Hygiene: 0 Devanagari, 0 ₹, 0 literal \n entry objects me; badge sirf news (1/1); category valid (School); period '2025-2030'; title pure Hinglish vakya, currency "Rs"; slug order AC 235→239; har slug exactly once.
+
+// ---- Paschim Champaran district batch (researched 2026-10-14) ----
+
+biharWorks['surendra-prasad'] = [];
+// REJECT-LOG (surendra-prasad):
+// 1. Zee News (Hindi), Dec 2025 — Bagaha-2 prakhand karyalayon ka achanak nirikshan; bichauliyon par narazgi, adhikariyon ko chetavni. OPENED + READ FULLY.
+//    URL: https://zeenews.india.com/hindi/india/bihar-jharkhand/west-champaran/bagaha-news-valmikinagar-mla-surendra-prasad-action-mode-surprise-inspection/3050419
+//    REJECT: sirf nirikshan/daura — koi kaam, swikriti ya shilanyas nahi.
+// 2. Dainik Bhaskar, 15 Jul 2026 — Bhitha prakhand ke Parsauna panchayat (Lakshmipur gaon) me nav-nirmit degree college ka MLA dwara udghatan. OPENED + READ FULLY.
+//    URL: https://www.bhaskar.com/local/bihar/bettiah/bhithan/news/valmikinagar-degree-college-inauguration-lakshmipur-bhitha-bihar-138450843.html
+//    REJECT: credit-pardarshita — college "rajkiya degree mahavidyalaya" hai (BRA Bihar University, Muzaffarpur se sambaddh), sarkari sthapana; MLA ka dastavezi yogdan
+//    (nidhi/sanction/prayas) article me nahi; sirf mukhya-atithi ribbon-cutting. (Prakash Chandra/Obra precedent jaisa.)
+// 3. r9tv.in, 15 Jul 2026 — wahi Bhitha degree college udghatan ki doosri report. OPENED + READ FULLY.
+//    URL: https://r9tv.in/news/bhitaha-government-degree-college-inauguration-west-champaran/
+//    REJECT: item 2 jaisa hi — sarkari college, MLA sirf udghatan-karta, koi dastavezi yogdan nahi.
+// 4. bagahalive.in, 6 Jul 2026 — Rampur-Harnatand aur Bansi sadkon ke chaudikaran ki maang; MLA ne path-nirman mantri ko patra likha. (Snippet-level)
+//    URL: https://bagahalive.in/news/36b85fa8-96ae-469b-a25a-24cd0228e66c/
+//    REJECT: sirf maang/gyapan — "swikriti ke baad aage ki karyavahi" tak hi baat; koi sanction/GO nahi.
+// 5. akhandindia.com, 29 Sep 2026 — Valmiki Nagar/Bagaha ko baadh-prabhavit ghoshit karne ki maang; CM se raahat ki appeal. (Snippet-level)
+//    URL: https://akhandindia.com/valmikinagar-flood-relief-demand-mla/
+//    REJECT: sirf maang/appeal — koi ghoshit raahat, fund ya scheme nahi.
+// 6. raftaarmedia.com, 26 Feb 2026 — Vidhan Sabha me nal-jal yojna me gadbadi ka sawal; mantri ne jaanch ka ashwasan diya. (Snippet-level)
+//    URL: https://raftaarmedia.com/post.php?title=%E0%A4%9C%E0%A4%B2-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%97%E0%A4%A1%E0%A4%BC%E0%A4%AC%E0%A4%A1%E0%A4%BC%E0%A5%80-%E0%A4%95%E0%A4%BE-%E0%A4%86%E0%A4%B0%E0%A5%8B%E0%A4%AA%2C-%E0%A4%9C%E0%A4%BE%E0%A4%82%E0%A4%9A-%E0%A4%95%E0%A5%87-%E0%A4%86%E0%A4%A6%E0%A5%87%E0%A4%B6&id=4999611116
+//    REJECT: sadan me sawal/uthana — development work nahi.
+// 7. raftaarmedia.com, 19 Feb 2026 — Bagaha me aadhunik bus stand nirman ki maang Vidhan Sabha me uthayi. (Snippet-level)
+//    REJECT: sirf maang — koi swikriti nahi.
+// 8. vyntime.in, 27 Sep 2026 — baadh-prabhavit kshetra ka daura; MLA ne sookha ration vitrit karne ka daava kiya. (Snippet-level; page khulne par HTTP 500, poori tarah padha nahi ja saka)
+//    URL: https://vyntime.in/2026/09/27/
+//    REJECT: sirf nirikshan + vyaktigat rahat-vitran ka daava — koi yojna/fund/sanction dastavezi nahi; works-schema ke stage me fit nahi.
+// 9. vyntime.in, ~18 Jul 2026 — Karmahwa Tola me mritak chhatra ke parivar se mulaqat, nyay ka bharosa. (Snippet-level)
+//    REJECT: samvedna-mulaqat — development work nahi.
+// 10. govserv.org ("Bagaha ki Awaaz", 02 Sep 2026) — Nepal trasadi ke baad Gandak nadi ki machhli na khane ki appeal (Bihar IPRD repost). (Snippet-level)
+//     URL: https://www.govserv.org/IN/Bagaha/104534238108822/
+//     REJECT: jan-appeal — koi kaam nahi.
+// 11. hindi.news24online.com, ~Mar 2026 — Rajya Sabha chunav me vote na dalne par MLA ki Facebook safai. (Snippet-level)
+//     URL: https://hindi.news24online.com/india/why-congress-mla-from-valmiki-nagar-surendra-prasad-kushwaha-not-vote-in-rajya-sabha-elections/1548235/
+//     REJECT: rajneetik khabar — development work nahi.
+// 12. public.app, 24 Nov 2025 — jeet ke baad vijay-juloos/dhanyavaad daura ka video. (Snippet-level; public.app-only)
+//     REJECT: public.app-only source + koi work content nahi.
+// Conclusion: NO qualifying entry. Profile khaali rahegi.
+
+biharWorks['nand-kishor-ram'] = [];
+// REJECT-LOG (nand-kishor-ram):
+// 1. hindi.news18.com, 7 May 2026 — profile: pehli baar MLA bane, seedha Samrat cabinet me mantri (Dairy, Fisheries & Animal Resources). (Snippet-level)
+//    URL: https://hindi.news18.com/news/bihar/west-champaran-who-is-nand-kishore-ram-bihar-minister-profile-ramnagar-mla-samrat-chaudhary-cabinet-expansion-local18-10452285.html
+//    REJECT: jeevani/appointment khabar — Ramnagar me koi development work nahi.
+// 2. etvbharat.com, 7 May 2026 — wahi mantri-niyukti profile. (Snippet-level)
+//    URL: https://www.etvbharat.com/hi/state/nand-kishore-ram-from-ramnagar-bacame-first-time-mla-and-now-cabinet-minister-brs26050703261
+//    REJECT: jeevani — koi work nahi.
+// 3. Zee News (Hindi), 7 May 2026 — mantri banne ki khabar. (Snippet-level)
+//    URL: https://zeenews.india.com/hindi/india/bihar-jharkhand/west-champaran/first-time-mla-straight-to-ministerial-seat-ramnagar-legislator-nandkishore-ram-makes-grand-entry/3208675
+//    REJECT: appointment khabar — koi work nahi.
+// 4. jagran.com, 15 May 2026 — mantri banne ke baad Ramnagar ka pehla daura; swagat (72 kg laddu se taula) + vikas ke vaade. (Snippet-level)
+//    URL: https://www.jagran.com/bihar/west-champaran-bihar-minister-nandkishore-ram-promises-development-in-ramnagar-40240211.html
+//    REJECT: swagat-samaroh + "karenge" vaade — koi shilanyas/lokarpan/swikriti nahi.
+// 5. thecsrjournal.in, ~29 Jul 2026 — Patna me matsya-sahkariya workshop ka mantri dwara udghatan; Siwan me Rs 195 crore wetland project (NABARD swikriti). (Snippet-level)
+//    URL: https://thecsrjournal.in/bihar-to-stop-migration-hindi/
+//    REJECT: rajya-stariya package — Ramnagar/kshetra se bahar (Siwan, Chhapra, Madhubani, Motihari); MLA ka dastavezi kadam nahi.
+// 6. livehindustan.com, ~02 Jun 2026 — Buxar ke Dumraon me "Sahyog Shivir" ka prabhari-mantri ke roop me udghatan. (Snippet-level)
+//    URL: https://www.livehindustan.com/bihar/buxar/story-community-support-camp-inaugurated-by-minister-in-dumraon-201780423354183.html
+//    REJECT: kshetra-bahar (Buxar jila) + prashasanik shivir — development work nahi.
+// 7. lokmattimes.com, ~13 Aug 2026 — CM Samrat Choudhary ki adhyakshata me "Vision 2030" fisheries review meeting; mantri maujood the. (Snippet-level)
+//    URL: https://www.lokmattimes.com/national/vision-2030-project-to-provide-momentum-towards-making-bihar-leading-inland-fisheries-state-says-cm-samrat-choudhary/
+//    REJECT: CM ke event me sirf maujoodgi — koi MLA-step nahi.
+// 8. YouTube items — mantri-niyukti video, "Rabri Awas se Shabri Seva Sadan" grihapravesh video, exclusive interview. (Snippet-level)
+//    REJECT: YouTube-only sources per rules; waise bhi koi development work content nahi.
+// 9. devbhoomimaya.com / prakritlok.com / webindia123 / dailyexcelsior (J&K) — "Ramnagar" naam wale sadak/pariyojna items.
+//    REJECT: galat jagah — Uttarakhand (Ranikhet/Nainital) aur J&K (Udhampur) ke Ramnagar; Bihar ke Ramnagar se sambandh nahi.
+// 10. Election-result coverage (TOI, Indian Express, Jagran, India TV, News18, Nov 2025) — jeet ka coverage. (Snippet-level)
+//     REJECT: chunav khabar — koi work content nahi.
+// Conclusion: NO qualifying entry. Profile khaali rahegi. (Mantri-level rajya-yojnaon ko bina Ramnagar-specific dastavezi kadam ke shamil nahi kiya gaya.)
+
+biharWorks['sanjay-kumar-pandey'] = [];
+// REJECT-LOG (sanjay-kumar-pandey):
+// 1. livehindustan.com, ~30 Jun 2026 — Noniya Tola (Narkatiaganj) me Sw. Singheshwar Prasad Verma stadium ka nirikshan; light lagane ka nirdesh; "sarkar ko patra likh chuke, kaam jald shuru hoga". OPENED + READ FULLY.
+//    URL: https://www.livehindustan.com/bihar/bagaha/story-local-mla-inspects-stadium-prioritizes-lighting-and-facility-improvements-201782835990904.html
+//    REJECT: sirf nirikshan + nirdesh + "karenge" vaada — koi shilanyas/swikriti/fund nahi.
+// 2. YouTube (BR_VLOG_05) — Narkatiaganj me dawa-dukaan ke udghatan me "neta Sanjay Pandey" shamil. (Snippet-level)
+//    URL: https://www.youtube.com/watch?v=3l_iEHWF6KQ
+//    REJECT: YouTube-only source per rules; waise bhi niji dukaan ka udghatan — development work nahi.
+// 3. Dainik Bhaskar, ~18 Dec 2025 — TP Verma College dwara antar-mahavidyalaya football match; MLA mukhya-atithi, khel aarambh karaya. (Snippet-level)
+//    URL: https://www.bhaskar.com/local/bihar/bettiah/narkatiaganj/news/inter-college-football-match-held-ms-college-beat-rls-college-3-0-136698687.html
+//    REJECT: khel-ayojan me sirf mukhya-atithi — development work nahi.
+// 4. kashishnews.com, 15 Nov 2025 — jeet ke baad press conference; "bichauliya-mukt kshetra, vikas ki kirnen" ke vaade. (Snippet-level)
+//    URL: https://kashishnews.com/news/bihar-news-915419
+//    REJECT: rajneetik press conference — koi work nahi.
+// 5. bagahalive.in, 27 Sep 2026 — PM janmdivas "seva" karyakram me Pokhra mandir park me paudharopan; kendriya mantri Satish Chandra Dubey ke saath MLA bhi shamil. (Snippet-level)
+//    URL: https://bagahalive.in/news/ded96ea1-0f59-4226-9608-c59110c710dc/
+//    REJECT: mantri ke event me sirf maujoodgi (sanyukt paudharopan) — koi MLA work nahi.
+// 6. Dainik Bhaskar, ~05 Aug 2026 — Narkatiaganj krishi market ki sadak/jaljamav par vyapariyon ka virodh; MLA se mile, koi ghoshna nahi. (Snippet-level)
+//    URL: http://bhaskar.com/local/bihar/bettiah/narkatiaganj/news/narkatiaganj-krishi-market-road-traders-protest-mla-assurance-138637100.html
+//    REJECT: vyapariyon ki maang + MLA ka aspasht bayaan — koi ghoshna/sanction/swikriti nahi.
+// 7. univarta.com, ~Jul 2026 — patrakar Sameer Vajpayee ki sadak-durghatna me maut par MLA ka shok-sandesh. (Snippet-level)
+//    REJECT: shok-sandesh — koi work nahi.
+// 8. livehindustan.com, ~30 Jun 2026 — retired teacher dwara patni ki smriti me banwaye mandir ki pran-pratishtha me MLA sahit kai neta shamil. (Snippet-level)
+//    URL: https://www.livehindustan.com/bihar/retired-teacher-of-bihar-built-a-temple-of-his-wife-got-idol-from-jaipur-for-her-loving-memory-201782884340623.html
+//    REJECT: niji dharmik ayojan me sirf maujoodgi.
+// 9. biharnewslive.com — Siwan (Maharajganj) me sadak shilanyas; "BJP jila adhyaksh Sanjay Pandey" maujood. (Snippet-level)
+//    URL: https://biharnewslive.com/news/the-foundation-stone-of-the-road-was-laid-in-the-presence-of-many-stalwarts-of-politics/
+//    REJECT: galat vyakti — Siwan ke BJP jila adhyaksh; Narkatiaganj MLA nahi. Kshetra bhi bahar.
+// 10. Election-result coverage (news24online, DNA, ABP Live, India.com, Nov 2025). (Snippet-level)
+//     REJECT: chunav khabar — koi work content nahi.
+// 11. indianmasterminds.com — Bombay HC ne ex-Mumbai Police Commissioner "Sanjay Pandey" ke khilaf FIR radd ki. (Snippet-level)
+//     REJECT: galat vyakti — Maharashtra ke ex-IPS; Narkatiaganj MLA se koi sambandh nahi. (Negative-entry mixup se bachne ke liye note.)
+// Conclusion: NO qualifying entry. Profile khaali rahegi.
+
+biharWorks['ram-singh-bihar'] = [
+  {
+    title: 'Bagaha-1 ke Patilar me Rs 4.80 crore ki lagat se bane 30-bed Samudayik Swasthya Kendra ka udghatan',
+    category: 'Aspataal',
+    stage: 'lokarpan',
+    date: '2026-07-25',
+    description: 'Bagaha-1 block ki Patilar panchayat me nav-nirmit 30-bed Samudayik Swasthya Kendra ka udghatan sthaniya vidhayak Ram Singh ne 25 Jul 2026 (Saturday) ko feeta kaatkar kiya; udghatan ke baad unhone naye bhawan ka nirikshan bhi kiya. Lagat Rs 4.80 crore; ab sabhi swasthya sevayein isi naye bhawan se chalengi. Dainik Bhaskar ki post-event ground report; fund yojna ka naam article me nahi diya gaya.',
+    source: 'Dainik Bhaskar, 25 Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/bettiah/sidhawbagha2/news/bagaha-patilar-community-health-center-inauguration-ram-singh-mla-138538019.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+// REJECT-LOG (ram-singh-bihar):
+// 1. VYN Time, 06 Oct 2025 - Rs 58.67 crore ke 3 pul + sadak chaudikaran ka shilanyas (Chhotki Patti-Badgaon-Kadamhwa 25.850 km, Parsauni-Bisunpurwa 40.5 m pul, Siarah nala 60.75 m pul). REJECT: pre-term (election 11 Nov 2025 se pehle).
+// 2. Dainik Bhaskar, ~Dec 2025 - "Work has not started even after 3 months of laying the foundation stone": Parsauni-Bisunpurwa path (Bagaha-1) par Rs 4.26 crore ka pul, shilanyas ~Sep 2025 (upar item 1 ka hi pul). REJECT: pre-term shilanyas; aur article khud kaam NA shuru hone ki status report hai, works entry nahi.
+// 3. VYN Time, 25 Jul 2026 - Bagaha-1 me 100-bed anumandaliya aspataal ka shilanyas. REJECT: shilanyas CM Samrat Choudhary ne kiya; vidhayak sirf karyakram me maujood the (CM event me sirf maujoodgi).
+// 4. Dainik Jagran, 23 Sep 2025 - Valmikinagar me CM Nitish Kumar dwara Rs 1198.86 crore ki 357 yojnaon ka udghatan/shilanyas; vidhayak Ram Singh manch par maujood. REJECT: CM event me sirf maujoodgi + pre-term.
+// 5. Times of India, ~Dec 2025 - Bagaha Buniyad Centre me staff shortage par vidhayak ne mantri se baat karne ki baat kahi. REJECT: sirf maang/ashwasan, koi documented kaam nahi.
+// 6. Prabhat Khabar, ~Sep 2026 - Bagaha me Asian Paints store ka udghatan (mantri Nand Kishor Ram + vidhayak Ram Singh dwara). REJECT: niji vyavasayik store ka udghatan, vikas-kaarya nahi.
+// 7. YouTube video - "Mission Public School" Bagaha ka udghatan vidhayak dwara. REJECT: YouTube-only source.
+// 8. janpakshaajkal.com - "Cabinet mantri Ram Singh Kaida" Uttarakhand (Ramgarh/Bhimtal). REJECT: galat vyakti (Bihar ke Bagaha vidhayak nahi).
+
+biharWorks['vinay-bihari'] = [
+  {
+    title: 'Yogapatti ke Sisawa Mangalpur me Gandak tat par lagbhag Rs 1.83 crore ke geo-bag kataw-rodhi kaam ka shubharambh',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-05-01',
+    description: 'Yogapatti block ke Sisawa Mangalpur me Gandak nadi tat par kataw-rodhi kaam ka vidhivat shubharambh Lauriya vidhayak Vinay Bihari ne 01 May 2026 (Friday) ko pooja-archana karke kiya. Samvedak ke anusar lagbhag Rs 1.83 crore kharch honge; barsat se pehle geo-bag takneek se tatbandh mazboot kiya jayega taaki aaspaas ke gaon surakshit rahen. Dainik Jagran ki post-event report; yojna ka naam article me nahi diya gaya.',
+    source: 'Dainik Jagran, 02 May 2026',
+    sourceUrl: 'https://www.jagran.com/bihar/west-champaran-gandak-river-erosion-control-begins-in-west-champaran-with-geo-bags-40225688.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Yogapatti ke Sisawa Bairagi me Rajkiya Prathamik Vidyalaya Chandrawal ke naye bhawan ka udghatan',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2025-12-22',
+    description: 'Yogapatti block ke Sisawa Bairagi panchayat me Rajkiya Prathamik Vidyalaya Chandrawal ke nav-nirmit bhawan ka udghatan sthaniya vidhayak Vinay Bihari ne 22 Dec 2025 (Monday) ko feeta kaatkar kiya. Bachche lagbhag 19 saalon se khule aasman ke neeche padhne ko majboor the; Hindustan ki khabar ke baad bhawan ka kaam tez hua. LiveHindustan ki post-event report; nirman lagat article me nahi di gayi.',
+    source: 'LiveHindustan, 22 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bagaha/story-inauguration-of-new-school-building-in-yogapatti-by-mla-vinay-bihari-201766427652434.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+// REJECT-LOG (vinay-bihari):
+// 1. LiveHindustan, 25 Jul 2026 - Vidhan Sabha me Nawalpur-Ratwal sadak (17 km adhuri) ka mudda; 14 saal se maang. REJECT: sirf maang; mantri ka ashwasan (Extra Lane yojna me swikriti hetu prastav) = bina GO ke ghoshna-stage bhi nahi, sirf ashwasan.
+// 2. Lokmat Times/Punjab Kesari/Rashtriya Ujala/LiveHindustan/Dainik Jagran, 28-29 Sep 2026 - Bettiah Samaharnalay me badh-rahat ko lekar vidhayak ka dharna. REJECT: rajnaitik virodh/pradarshan, vikas-kaarya nahi (maang/gyapan category).
+// 3. ETV Bharat, ~Sep 2026 - Buxar me sarkari karz/netaon ki pension par bayan. REJECT: kshetra-bahar (Buxar) rajnaitik bayan, kaam nahi.
+// 4. YouTube video - "Vinay Bihari ji road" ka udghatan, Rai Barwa Sathi. REJECT: YouTube-only source.
+// 5. apnibaat.org, Sep 2023 - Rajkiya Utkramit Uchch Vidyalaya Chamaniya Bazar (Pipra Naurangia) bhawan udghatan. REJECT: pre-term (2023).
+// 6. LiveHindustan, 29 Jan 2026 - Jawahar Navodaya Vidyalaya ka bhraman/nirikshan. REJECT: sirf nirikshan/daura.
+// 7. Zee News - Rohua nadi channel (UP sinchai vibhag) ke virodh me istife ki dhamki. REJECT: rajnaitik bayan, koi documented kaam nahi.
+
+biharWorks['narayan-prasad'] = [
+  {
+    title: 'Nautan prakhand ke Dhum Nagar me Rajkiya Utkramit Plus Two School ke naye bhawan ka udghatan',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2025-12-11',
+    description: 'Nautan block ke Dhum Nagar me Rajkiya Utkramit Plus Two Madhyamik Vidyalaya ke nav-nirmit bhawan ka udghatan aapda prabandhan mantri sah Nautan vidhayak Narayan Prasad ne 11 Dec 2025 (Thursday) ko feeta kaatkar kiya. Samroh me mantri ne parisar ka nirikshan karke nirman ki gunvatta ki jankari adhikariyon se li. Hindustan Samachar ki agency report (chhote local portal Dainik State Samachar par prakashit - source disclosure); nirman lagat report me nahi di gayi.',
+    source: 'Hindustan Samachar (via Dainik State Samachar), 11 Dec 2025',
+    sourceUrl: 'https://dainikstatesamachar.com/Home/DSSNews?link=Min-Narayan-Prasad-inaugu-',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+// REJECT-LOG (narayan-prasad):
+// 1. Dainik Bhaskar, 15 Sep 2025 - Nautan me 9 sadkon (Rs 10 crore) ka udghatan/shilanyas (sansad Sanjay Jaiswal + vidhayak). REJECT: pre-term (Sep 2025). public.app par usi event ka video - REJECT: public.app-only source.
+// 2. shankhnad.in, 2022 - Nautan me aadha darjan gramin sadkon ka udghatan/shilanyas. REJECT: pre-term (2022).
+// 3. insiderlive.in / firstbihar.com, Oct 2026 - "Champaran tatbandh ka pakkikaran na hua to agla chunav nahi ladenge" bayan. REJECT: rajnaitik bayan/ultimatum, koi documented kaam nahi.
+// 4. LiveHindustan, Nov 2025 - Aapda prabandhan mantri banne par "aasha" wala vishleshan. REJECT: news-analysis/aasha, kaam nahi.
+// 5. public.app, ~Dec 2025 - Bettiah-Pakhnaha marg (Sant Ghat-Singahi) nirikshan. REJECT: sirf nirikshan + public.app-only source.
+// 6. public.app, ~Jan 2026 - Patjirava mandir me kambal vitran. REJECT: kalyan-karyakram, vikas-kaarya nahi + public.app-only.
+// 7. public.app, ~Jan 2026 - Dabaria/Mangalpur/Shivrajpur jansamvad daura. REJECT: sirf daura + public.app-only.
+// 8. vsrsnews.in, ~Jan 2026 - Gopalganj me Narayani Mahotsav 2026 ka deep-prajwalan (mantri ke roop me). REJECT: sanskritik karyakram ka udghatan, infrastructure kaam nahi + kshetra-bahar (Gopalganj, Nautan AC nahi).
+// 9. YouTube video - "24 ghante janta ki seva" interview. REJECT: YouTube-only, koi kaam nahi.
+// NOTE: Narayan Prasad Nov 2025 se Bihar sarkar me Aapda Prabandhan mantri bhi hain (DNA India cabinet allocation report) - isiliye unki Dhum Nagar entry me "mantri sah vidhayak" credit diya gaya hai.
+
+biharWorks['abhishek-ranjan'] = [
+  {
+    title: 'Chanpatia prakhand ke teen gaon me lagbhag Rs 24.07 lakh ki lagat se bani PCC sadkon ka udghatan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-10-06',
+    description: 'Chanpatia MLA Abhishek Ranjan inaugurated three completed PCC road works — Rs 6.98 lakh in the Harijan basti of ward 10, Dakshini Ghogha; Rs 6.12 lakh in ward 13, Gidha; Rs 10.97 lakh in ward 2, Mahanakuli — and dedicated them to the public. Report states the MLA personally inaugurated the works and quoted his target of making Chanpatia an ideal constituency. Total of ~Rs 30 lakh including a chabutra shed reported in the same article. Date is estimated: the report described the event as Tuesday and the index showed it ~8 days before 14 Oct 2026 (6 Oct 2026 was a Tuesday); the fetched page showed no visible publish date.',
+    source: 'LiveHindustan, 06 Oct 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bagaha/story-local-mla-abhishek-ranjan-inaugurates-development-projects-worth-30-lakhs-in-chanpatia-201791309058414.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Chanpatia shahar ke Shukla Tola me Rs 5.30 lakh ki lagat se bane chabutra shed ka udghatan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-10-06',
+    description: 'Alongside the three PCC road works, Chanpatia MLA Abhishek Ranjan inaugurated the completed Rs 5.30 lakh chabutra shed construction at Shukla Tola in Chanpatia town and dedicated it to the public. Same LiveHindustan report as the PCC road inaugurations; the MLA was quoted saying his aim is an ideal Chanpatia constituency. Date estimated from the report crawl window as noted in the companion entry.',
+    source: 'LiveHindustan, 06 Oct 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bagaha/story-local-mla-abhishek-ranjan-inaugurates-development-projects-worth-30-lakhs-in-chanpatia-201791309058414.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+// REJECT-LOG (abhishek-ranjan):
+// - public.app video "kushti dangal udghatan, Kudiyan Kothi, Chanpatia" (14 Jan 2026): public.app-only source AND event inauguration, not a work — rejected.
+// - public.app video "cricket tournament udghatan, Gurvaliya panchayat" (17 Jan 2026): public.app-only source AND event inauguration, not a work — rejected.
+// - VYN Time article "Indian Restaurant and Cafe ka udghatan, Mahnaganni–Sariswa road" (16 Jan 2026): mere chief-guest presence at a private business opening — rejected.
+// - LiveHindustan "Chanpatia signature road" (28 days ago): Nagar Vikas department plan, no MLA-attributed action — rejected.
+// - Dainik Bhaskar "Chanpatia MLA meets DM" (~Jan 2026): only demands/issues raised with the DM, no work — rejected.
+// - YouTube "Ground reality of Chanpatia | MLA Abhishek Ranjan's first full podcast": interview, not a work — rejected.
+
+biharWorks['renu-devi'] = [];
+// REJECT-LOG (renu-devi):
+// - darsh.news "Bettiah railway station bhavan shilanyas, Rs 54 crore": dated ~Aug 2025 (pre-term; Renu Devi acting as minister then) — rejected per Nov-2025-cutoff rule.
+// - ZeeNews "Bettiah seat profile" (Jan 2026): election-time analysis profile, no new MLA-attributed Bettiah-seat work — rejected.
+// - ETV Bharat interview (14 Oct 2025): pre-poll promise to fix drainage system after winning — "karenge" news, no documented work — rejected.
+// - ZeeNews Bettiah kacchi sadak complaint piece (old): pre-term road-neglect story, not a work — rejected.
+// - No post-Nov-2025 Bettiah-seat work found in any openable source. Slug kept EMPTY (party-blind Delhi rule does not apply here; no qualifying 2025-30 seat work surfaced).
+
+biharWorks['sammridh-varma'] = [];
+// REJECT-LOG (sammridh-varma):
+// - LiveHindustan "Vidhayak ne Mahadalit basti me baanta copy-kalam" (28 Jan 2026, Pidari village, Inarwa): Republic-Day copy/pen distribution event — welfare gesture, not a work — rejected.
+// - YouTube video "Sikta vidhansabha vidhayak Samriddh Verma ne sarkari awas ka kiya grih pravesh": YouTube-only AND personal residence event — rejected.
+// - Election result reports (NDTV, ZeeNews, News18 Hindi): results coverage, not works — rejected.
+// - navrashtramedia campaign piece (Nov 2025): pre-term election campaign — rejected.
+// - No post-Nov-2025 Sikta work found in any openable source. Slug kept EMPTY.
+
+// Coordinator QA note (Paschim Champaran batch, 2026-10-14): 9/9 MLA researched via 3 parallel workers (A: surendra/nand/sanjay, B: ramsingh/vinay/narayan, C: abhishek/renu/sammridh); fragments coordinator ne kholkar QA kiya, fir assembly khud ki. Fixes: B-fragment ki 4 English titles ko Roman-Hinglish vakyon me convert kiya (entry content untouched); C-fragment ki 2 English titles ko Roman-Hinglish vakyon me convert kiya; narayan-prasad ka truncated-dikhne wala sourceUrl coordinator ne browser me khud khola — sahi canonical article khulta hai (Dhum Nagar school udghatan, Hindustan Samachar via Dainik State Samachar, 11 Dec 2025), isliye rakha; abhishek-ranjan ka LiveHindustan sourceUrl coordinator ne khud khola-verify kiya (content match: 3 PCC roads Rs 24.07 lakh + Shukla Tola chabutra shed Rs 5.30 lakh). Total 6 entries: vinay-bihari 2 (Gandak kataw shilanyas + school lokarpan), ram-singh-bihar 1 (CHC lokarpan), narayan-prasad 1 (school lokarpan, mantri sah vidhayak), abhishek-ranjan 2 (PCC sadak + chabutra lokarpan, date est. disclosed). 3/9 profiles khaali: surendra-prasad (degree college udghatan credit-pariksha par reject — sarkari sthapana, Prakash Chandra/Obra precedent), nand-kishor-ram (07 May 2026 se cabinet mantri — Rajya-stariya sab items exclude), sanjay-kumar-pandey, renu-devi (Bettiah railway station Rs 54cr pre-term Aug 2025), sammridh-varma (copy-kalam welfare gesture — kaam nahi). Koi qualifying negative nahi. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal escaped-newline entry objects me; badges sirf news (6/6); categories valid (Sadak/Aspataal/School/Any); stages lokarpan/shilanyas; period '2025-2030' 6/6; titles pure Hinglish vakya, currency "Rs"; slug order AC 1→9; har slug exactly once. Kul titles: 143 -> 149 (+6).
