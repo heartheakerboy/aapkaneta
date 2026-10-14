@@ -625,3 +625,188 @@ biharWorks['santosh-kumar-nirala'] = [
 // REJECT-LOG (santosh-kumar-nirala): ETV/TOI/NIE Sep 2025 CM ke Rs 325.13 cr Rajpur shilanyas (pre-term + CM ne kiya, sirf maujoodgi); Sainik Sangh gyapan (sirf maang); Chauna-Rajpur-Kochas sadak maang-patras (chhote portals, sirf maang); buxarkhabar cricket pratiyogita udghatan (khel event); blogspot Disneyland mela ribbon-cutting (blogspot-only + commercial); JDU chunav karyalaya udghatan (pre-term + party); YouTube Buxar Kila Maidan shorts (YouTube-only); Amar Ujala Ahiyapur triple-murder "Santosh Yadav" (galat vyakti); affidavit ka 1 pending case — is karyakaal me aarop+FIR/janch+jawab wali koi established reporting nahi — negative bar fail — sab reject. Mantri-kaal ke rajya-faisle kshetra-kaam nahi.
 
 // Coordinator QA note: 4/4 workers ki reports mili; titles/notes workers se liye gaye, Roman-Hinglish/vaky-bhasa + disclosures double-check kiye; anand-mishra entry Singhar-canal/Kol precedent par stage swikriti (dastavezi pahal → cabinet faisla, TOI+Jagran corroboration); rahul-kumar-singh entry-1 niji-fund marammat (Ajay-Arjun-Singh road precedent) aur entry-2 contractor-execution ke saath dono disclosures note me; 5/5 entries me period '2025-2030'; koi Devanagari/rupee-symbol/scaffolding comment nahi; 4/4 slugs pehle khaali the, koi overwrite nahi.
+
+
+// ---- Darbhanga district batch (researched 2026-10-14) ----
+
+biharWorks['atirek-kumar'] = [
+  {
+    title: 'Kusheshwar Asthan me divyango ko battery-chalit e-tricycle ka vitran — mukhya atithi ke roop me vidhayak ne saunpi chabiyan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 2 Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/darbhanga/kusheshwar-asthan/news/kushweshwarsthan-divyang-e-tricycle-vitran-vidhayak-atirek-kumar-138343673.html',
+    date: '2026-07-02',
+    note: 'Satighat block parishar, Kusheshwarsthan me divyangjan kalyan ke tahat battery-chalit tricycle ka vitran karyakram hua, jisme vidhayak Atirek Kumar mukhya atithi ke roop me upasthit hokar chinhit labharthiyon ko sahayak upkaranon ki chabiyan saunpin; unhone adhikariyon ko nirdesh diya ki kshetra ka koi jaruratmand divyang yojna ke labh se vanchit na rahe. Stage: vitran (poorna). Disclosure: article me yojna ke fund ka srot (vidhayak-nidhi ya vibhagiya) spasht nahi hai — vidhayak vitran ke charan me kendriya bhoomika me the, isliye entry rakhi hai; yeh sthayi buniyadi dhancha nahi, ek-divasiya kalyan vitran karyakram hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Uchhti me sarkari sahyog shivir ka udghatan — 19 avedan vibhagon ke stallon par nipte',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dastak 7, 5 Aug 2026',
+    sourceUrl: 'https://www.dastak7.com/?p=65916',
+    date: '2026-08-05',
+    note: 'Gram Panchayat Uchhti ke Madhya Vidyalaya parishar me bahu-vibhagiya sarkari sahyog shivir ka udghatan mukhya atithi vidhayak Atirek Kumar ne kiya; ADM (Aapda Prabandhan) Salim Akhtar ke nirikshan me vibhagon ke stallon se logon ki samasyao ka samadhan hua — kul 19 avedan prapt hue (rajaswa 9, panchayati raj 6, vidyut 1, khadya-upbhokta 1, anya 2). Stage: udghatan (seva-shivir ka aayojan). Disclosure: Dastak 7 chhota sthaniya portal hai; yeh ek-divasiya seva-shivir hai, sthayi buniyadi dhancha nahi; vidhayak ke udghatan-stariya kendriya kadam ke karan entry rakhi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (atirek-kumar): dastak7 10 Sep 2026, Sakri-Hasanpur rail line par CM ko patra (mool route par nirman ki maang) — sirf patra/maang, reject; dastak7 12 Oct 2026, Biraul Nagar Panchayat ko Nagar Parishad banane ki maang par mantri ko patra — sirf patra/maang, reject; YouTube aaryannewstoday ~Mar 2026, navvarsh par 60-sutri maang-patra saunpa — YouTube-only + sirf gyapan, reject; YouTube ~Oct 2026, Kusheshwar Asthan Purbi ke gaon me sadak na banne ki ground-report — YouTube-only + MLA ka koi kadam nahi, reject; livehindustan 1 Nov 2025, CM Nitish ka road-show — pre-term campaign, reject; financialexpress 2021, Atirek Kumar Congress ummidvar (2021 upchunav) — karyakaal-se-pehle, reject; election-result coverage — kaam-khabar nahi, reject; koi qualifying negative reporting nahi mili. Vyakti-pehchan: article dastak7 me "Kusheshwarsthan kshetra 78 ke vidhayak Atirek Kumar" spasht hai — sahi vyakti.
+
+
+biharWorks['sujit-kumar'] = [];
+
+// REJECT-LOG (sujit-kumar): livehindustan 15 Jul 2026, Gaura Bauram me do degree colleges ke udghatan samaroh me sambodhan + bhoomi-daataon ka samman — vidhayak ne khud udghatan nahi kiya, sirf maujoodgi/sambodhan, reject; usi article me "Kendriya Vidyalaya ki swikriti" ka dawa — bina GO/order ke ghoshna, reject; livehindustan 1 Aug 2026, Gaura Bauram block me vikas-karyon ki samiksha baithak — sirf samiksha/chetavni/nirdesh, reject; livehindustan 26 Aug 2026, 25,000 yuvaon ko naukri ki ghoshna — "denge" bhavishya, reject; YouTube Insight Desi News ~Apr 2026, Akhtawada me 50 bhoomiheen parivaron ko makan ka wada — YouTube-only + ghoshna, reject; YouTube ~May 2026, jirjar sadak par eentein girawai (quick action) — YouTube-only + sirf nirdesh, reject; dastak7 ~2 Oct 2026, Rasiyari me netradan par shok-santvana mulaakat — sankat-mulaakat, kaam nahi, reject; election coverage (orissapost Lightning Ascent, zee, dna, news18) — kaam-khabar nahi, reject; koi qualifying negative reporting nahi mili. Profile KHAALI rahi: imaandari se jodna nahi bana.
+
+
+biharWorks['binay-kumar-choudhary'] = [
+  {
+    title: 'Benipur me prakhand-sah-anchal karyalaya bhawan evam avasiya bhawan nirman ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 13 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/darbhanga/story-foundation-laid-for-benipur-block-and-residential-building-by-mla-vinay-kumar-chaudhary-201765644789726.html',
+    date: '2025-12-13',
+    note: 'Benipur me prakhand-sah-anchal karyalaya bhawan evam avasiya bhawan nirman karya ka shilanyas vidhayak Prof. Binay Kumar Choudhary ne kiya; vidhayak ne samay-seema ke andar gunvattapoorn karya poora karne par jor diya, BDO Praveen Kumar, JE Om Prakash sahit adhikari maujood the. Stage: shilanyas. Disclosure: sarkari bhawan yojna hai — article me swikriti me vidhayak ki bhumika ka dastavezi saboot nahi; shilanyas ke charan me vidhayak ne swayam adharshila rakhi, isliye entry rakhi hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Benipur ke Ramoli Chhathiyahi pokhar me navnirmit ghat ka lokarpan — vidhayak aichchhik kosh se nirmit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deshaj Times, 12 Aug 2026',
+    sourceUrl: 'https://deshajtimes.com/news/bihar/darbhanga/bihar-benipur-development-mla-vinay-chaudhary-inaugurates-ghat/304026/',
+    date: '2026-08-12',
+    note: 'Ramoli Chhathiyahi pokhar me Mukhyamantri Kshetra Vikas Yojana ke tahat vidhayak aichchhik kosh se nirmit navnirmit ghat ka lokarpan vidhayak Prof. Binay Kumar Choudhary ne swayam kiya. Stage: lokarpan (poorna). Disclosure: Deshaj Times chhota sthaniya Darbhanga portal hai; fund ka srot article me spasht hai (vidhayak-nidhi/MKVY aichchhik kosh); article me swasthya/shiksha/sadak sambandhi jo bade dawe hain unke liye alag stage-dastavezi saboot nahi, isliye sirf ghat ko entry banaya hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Benipur Nagar Parishad ward 22 Bhediyarahi Tola me navnirmit chabutre ka lokarpan — vidhayak aichchhik kosh se nirmit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 14 Sep 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/darbhanga/story-bihar-mla-vinay-kumar-chaudhary-inaugurates-community-construction-under-chief-minister-area-development-scheme-201789330848066.html',
+    date: '2026-09-14',
+    note: 'Benipur Nagar Parishad kshetra ke ward 22 sthit Bhediyarahi Tola me Mukhyamantri Kshetra Vikas Yojana ke tahat vidhayak aichchhik kosh se nirmit chabutre ka lokarpan vidhayak Prof. Binay Kumar Choudhary ne swayam kiya (karyakram ravivaar 13 Sep ko, reporting 14 Sep). Stage: lokarpan (poorna). Disclosure: fund ka srot article me spasht hai (vidhayak-nidhi/MKVY aichchhik kosh).',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (binay-kumar-choudhary): newswatch.co.in ~Feb 2025, Dubouli Hanuman Mandir se Lagopur/Salaha sadak shilanyas — karyakaal-se-pehle, reject; bhaskar.com 16 Jul 2026, jal-nal yojna samiksha baithak — sirf samiksha/nirdesh, reject; livehindustan 28 May 2026, teen sadakon ke maintenance me aniyamitta ki janch (vidhayak ki shikayat par) — sirf shikayat/monitoring, koi kaam-stage nahi, reject; deshajtimes ~Mar 2026, vidhayak ne RJD neta Nilambar Yadav par manhaani ka mukadma dayar kiya — case VIDHAYAK ke viruddh nahi (unhone dayar kiya), negative-entry rule lagu nahi, reject; zeenews 18 Sep 2026, JDU baithak ke baad Nishant Kumar par bayan — political bayan, reject; YouTube Bharat Uday Samachar ~May 2026, Majhauliya me swagat-samman — YouTube-only + sirf samman, reject; YouTube, vyavsayik sangh dwara sachetak banne par samman — YouTube-only + sirf samman, reject; election-result coverage — kaam-khabar nahi, reject; koi qualifying negative reporting (vidhayak ke viruddh FIR/case/janch) nahi mili. Vyakti-pehchan: chunav parinam me BINAY KUMAR CHOUDHARY (JD(U), 83,781 votes) — articles me "Prof. Vinay Kumar Choudhary", Benipur vidhayak, NDA sachetak — sahi vyakti.
+
+biharWorks['maithili-thakur'] = [
+  {
+    title: 'Alinagar me Andauli RCD path se PMGSY path Garhat tak 1.15 km uchch-stariya pul ke nirman ka shilanyas — Rs 4.33 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'News18 Hindi (Local18), 21 Dec 2025',
+    sourceUrl: 'https://hindi.news18.com/news/bihar/patna-coconut-incense-hands-bjp-mla-maithili-thakur-first-shilanyas-video-local18-ws-kl-9985719.html',
+    date: '2025-12-21',
+    note: 'Bihar sarkar Gramin Karya Vibhag ke antargat Mukhyamantri Gram Sampark Yojana (avshesh) ke tahat Andauli RCD path se PMGSY path Garhat tak 1.15 km uchch-stariya pul ke nirman karya ka vidhivat shilanyas vidhayak Maithili Thakur ne kiya; shilapattika ke anusar prakkalit lagat Rs 432.55 lakh hai aur shilapattika par sansad Gopal Ji Thakur sahit anya sthaniya pratinidhiyon ke naam ankit hain. Stage: shilanyas (karyarambh). Disclosure: yeh vibhagiya sadak-pul yojna hai — swikriti me vidhayak ki bhumika ka article me koi dastavezi saboot nahi hai; shilanyas ke charan me vidhayak ki kendriya bhoomika ke karan entry rakhi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (maithili-thakur): Free Press Journal/NDTV Feb 2026 (sadan me Alinagar aspatal ki jarrar halat par swasthya mantri se prashn) — sirf prashn, kaam nahi, reject; ABP News 29 Sep 2026 ("pehle hospital, phir Sitanagar") — bhavishya ka vada ("banvaengi"), reject; Navbharat Times Sep 2026 (Alinagar me apna ghar ban raha hai) — vyaktigat, reject; YouTube (sadak-gunvatta aarop par unka safai-video, ~May 2026) — YouTube-only + safai-bayan, reject; YouTube shorts (London video/school-roof viral charcha) — YouTube-only + charcha, reject; concert/manch/sangeet-sammelan — sanskritik/party event, kaam nahi, reject; chunav-result/interview coverage — kaam nahi, reject; The Hindu 14 Nov 2025 — pre-term, reject.
+
+biharWorks['rajesh-kumar-mandal'] = [
+  {
+    title: '12 saal purane Ramnavami jhanki vivad ke mamle me atmasamarpan; adalat ne Rs 5,000 ke band-patra par jamanat di',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 7 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/darbhanga/story-jd-u-leader-rajesh-kumar-mandal-surrenders-in-12-year-old-criminal-case-201767805191566.html',
+    date: '2026-01-07',
+    note: 'JDU jiladhyaksh sah Darbhanga Gramin vidhayak Rajesh Kumar Mandal urf Ishwar Mandal ne 12 varsh purane aapradhik mamle me Darbhanga vyavahar nyayalay ke apar mukhya nyayik dandadhikari shashtham ke samaksh atmasamarpan kiya; adalat ne sunvai ke baad unhe Rs 5,000 ke band-patra par jamanat par mukt karne ka aadesh diya. Mamla 1 April 2012 ko Darbhanga Tower kshetra me Ramnavami ke avsar par nikali gayi vivadit jhankiyon se juda hai — isi mamle me do darjan se adhik namzad va anya agyat logon ke viruddh prathamiki darj hui thi, jisme Ishwar Mandal bhi aaropit the. Disclosure (negative entry): adalaati karyavahi ki sthiti (atmasamarpan + jamanat aadesh) January 2026 me, arthat vartaman karyakal me hui hai; lekin mool FIR 2012 ki hai — karyakal-se-pehle ki. Article me vidhayak ka koi jawab/paksh darj nahi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rajesh-kumar-mandal): koi qualifying POSITIVE kaam nahi mila — profile is hisaab se khaali. Live Hindustan ~Mar 2026 (Manigachhi Bhandarism kabristan gherabandi nirikshan) — sirf nirikshan, reject; Live Hindustan ~May 2026 (Museum Gumti–Donar SH-56 sadak-nala nirman ki DM se maang/patra) — sirf maang, reject; deshajtimes Aug 2026 (Panchayati Raj samiksha baithak me har panchayat me khel-maidan/pustakalaya ka sujhav) — sirf sujhav, reject; lakshyatak Oct 2026 (NDA jansanvad sabha ki adhyakshata) — party karyakram, reject; public.app Sep 2026 (Sadar aspatal "chikitsa aapke dwar" abhiyan shubharambh) — public.app-only, reject; Live Hindustan 7 Jan 2026 (Louis Braille punyatithi: speed-breaker/+2 school ki manchiya ghoshna) — "hoga" bhavishya, reject; Bhaskar Nov 2025 (prathamiktaen: sadak-nala, jal-jamav mukti) — chunav-peechhe ke vade, reject.
+
+biharWorks['sanjay-saraogi'] = [
+  {
+    title: 'Darbhanga ke Sadar prakhand me Rs 2.67 crore se navnirmit APHC va Ayushman Arogya Mandir ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 2 Jun 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/darbhanga/story-bjp-s-sanjay-sarawagi-launches-cooperation-camps-in-darbhanga-to-address-public-issues-201780427993649.html',
+    date: '2026-06-02',
+    note: 'Sadar prakhand ke Shisho/Shahbazpur kshetra me aayojit sahyog shivir ke dauran vidhayak Sanjay Saraogi ne Rajya Sabha sansad Dharamshila Gupta ke saath navnirmit Panchayat Sarkar Bhawan aur Rs 267.43 lakh ki lagat se navnirmit APHC va Ayushman Arogya Mandir ka udghatan kiya; karyakram me DM Kaushal Kumar sahit jila adhikari upasthit the. Stage: lokarpan. Disclosure: yeh sarkari swasthya yojna hai — swikriti me vidhayak ki bhumika ka article me koi dastavezi saboot nahi hai; udghatan ke charan me vidhayak ki kendriya bhoomika ke karan entry rakhi hai. Date disclosure: article par print tithi nahi thi; article me "Mangalvar" likha hai aur search-engine last-updated June 2026 ke aaspaas hai — 2 June 2026 ko Mangalvar tha, isliye 2026-06-02 (est.) maani hai. Kshetra-pariksha: Shisho East/West va Sahbajpur gram panchayat parisiman-aadesh 2008 ke anusar Darbhanga AC-83 me hain, isliye yeh kshetra-bahar nahi hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Darbhanga shahar me Urja Ganga yojna ke tahat gharon tak PNG piped-gas aapurti ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Lakshya Tak, 24 Sep 2026',
+    sourceUrl: 'https://lakshyatak.in/the-good-news-for-the-people-of-darbhanga-will-now-reach-every-home-bjp-state-president-sanjay-saraogi-inaugurated-it/',
+    date: '2026-09-24',
+    note: 'BJP pradesh adhyaksh evam Darbhanga vidhayak Sanjay Saraogi ne sansad Gopal Ji Thakur va vidhan parishad sadasya Hari Sahni ke saath feeta katkar Darbhanga me Urja Ganga yojna ke tahat pipeline ke madhyam se ghar-ghar PNG (piped natural gas) pahunchane ki suvidha ka shubharambh kiya; BPCL Darbhanga City Gas Distribution Project ke adhikari bhi upasthit the. Stage: shubharambh (seva-arambh). Disclosure: yeh kendriya yojna (Urja Ganga, BPCL dwara karyanvit) hai — vidhayak shubharambh karyakram me kendriya bhoomika me the, isliye entry rakhi hai; srot chhota sthaniya portal hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sanjay-saraogi): Jagran ~2022 (Laheriasarai/Darbhanga Junction par 4 vikas karyon ka lokarpan, ROB ka DPR) — pre-term, reject; Rajaswa/Bhumi-Sudhar vibhag ke rajya-stariya faisle/nirnay — mantri-bhoomika, seat-kaam nahi, niyam-taha reject; sahyog shivir ke bhashan/vade ("30 din me nishpadan") — karyakram-bhashan, reject; YouTube (Darbhanga 152va sthapna diwas) — YouTube-only + sirf maujoodgi, reject; "soobe ke har jile me udyog" bayan — rajya-stariya ghoshna, seat-kaam nahi, reject; koi qualifying negative reporting nahi mili.
+
+biharWorks['ram-chandra-prasad'] = [
+  {
+    title: 'Hayaghat me Baliya Brahmasthan ke paas Rs 6.35 lakh ke chhatdar chabutre ka lokarpan (vidhayak aichhik kosh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 31 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/darbhanga/story-new-community-platform-inaugurated-by-mla-dr-ramchandra-prasad-in-hayaghat-201769801477659.html',
+    date: '2026-01-31',
+    note: 'Hayaghat prakhand me Baliya Brahmasthan ke paas vidhayak Dr Ramchandra Prasad ne apne aichhik kosh (vidhayak nidhi) se Rs 6 lakh 35 hazaar ki lagat se nirmit chhatdar chabutre ka vidhivat udghatan kiya; yeh nirman graminon ko samajik, dharmik evam sarvajanik aayojanon ke liye sulabh va surakshit sthan uplabdh karayega. Stage: lokarpan (purn nirman ka udghatan). Disclosure: aichhik kosh vidhayak ki vivekadhin nidhi hai — article me yahi shabd prayog hua hai. Pehchan-pariksha: Hayaghat kshetra + BJP (karyakram me BJP mandal neta upasthit), isliye naam-bhram ka jokhim nahi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (ram-chandra-prasad): Live Hindustan 1 Sep 2025 (Shrirampur chhatdar chabutra, Rs 6 lakh) — pre-term, reject; Live Hindustan 25 May 2025 (Madhuvan chabutra, Rs 7 lakh) — pre-term, reject; Live Hindustan 7 Jul 2025 (Sirniya PCC sadak, Rs 5.95 lakh) — pre-term, reject; dastak7 (Sidhouli PCC sadak, Rs 5.55 lakh) — pre-term (+ chhota portal), reject; YouTube Mission Sach (Harhacha udghatan) — YouTube-only, reject; YouTube sachtaknews (Baliya gaon udghatan) — YouTube-only, reject; news4nation ~2024 (Shambhavi Choudhary dwara NDA karyalaya udghatan — ve sirf maujood) — party karyakram + pre-term, reject; Live Hindustan Sep 2026 (paryavaran mantri ke roop me Hayaghat me paudharopan) — prateekatmak karyakram, kaam nahi (mantri-bhoomika ki pehchan bhi aspasht), reject; koi qualifying negative reporting nahi mili.
+
+biharWorks['madan-sahni'] = [];
+
+// REJECT-LOG (madan-sahni): Zee News Rs 170 crore shilanyas (Kushothar/Ughara, Sanjay Jha + Madan Sahni) — Prabhat Khabar parallel coverage (~18 Jul 2025, "aagaami vidhan sabha chunav" ka zikr) se pushti ki ye chunav-se-pehle ka event tha — pre-term, reject; LiveHindustan ~Apr 2025, Maniyari panchayat sarkar bhavan + Ganauli APHC lokarpan (Rs 4.30 crore) — pre-term, reject; YouTube Delahi sadak udghatan (~Aug 2025) — YouTube-only + pre-term, reject; Jagran 26 Sep 2025 CM Nitish 3976cr Darbhanga event — pre-term + sirf maujoodgi, reject; LiveHindustan 15 Dec 2025, Bahadurpur me 385-acre industrial area — samman samaroh me "banaya jayega" ghoshna, bina GO/sanction — ghoshna-type, reject; LiveHindustan 2 Jan 2026 Neelambar Chaudhary jayanti udghatan — sanskritik karyakram + Madhubani (kshetra-bahar), reject; election-result coverage — kaam-khabar nahi, reject. Khaali profile: imaandari se jodna nahi bana.
+
+biharWorks['murari-mohan-jha'] = [
+  {
+    title: 'Keoti evam Singhwara block me Seva Sankalp abhiyan ke Seva Setu karyakram me divyangjanon ko tricycle ka vitaran vidhayak Murari Mohan Jha ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 8 Oct 2026 (est.)',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/darbhanga/divyangjan-receive-tricycles-seva-sankalp',
+    date: '2026-10-08',
+    note: 'Seva Sankalp abhiyan ke Seva Setu karyakram ke tahat Keoti aur Singhwara block kshetron me aayojit karyakramon me vidhayak Dr. Murari Mohan Jha ne divyangjanon ke beech tricycle ka vitaran kiya; vidhayak ne kaha ki abhiyan ka uddeshya samaaj ke antim paaydaan par khade logon tak seedhi sahaayta pahunchana hai. Stage: poora hua kalyan-vitaran. Disclosure: article wale page par print tithi nahi thi — search-index last-updated 8 Oct 2026 ke aaspaas hai aur Dainik Jagran ne 9 Oct 2026 ko isi vitaran ko Thursday (8 Oct 2026) ka event batakar report kiya, isliye 2026-10-08 (est.) maani hai; labharthiyon ki sankhya article me nahi di gayi thi, isliye sankhya ka dawa nahi kiya gaya hai. Credit-pardarshita: yeh sarkari abhiyan (Seva Sankalp/Seva Setu) hai — vidhayak ne karyakram me vitaran/shubharambh kiya; dono block kshetra Keoti AC-86 me aate hain (Keoti block poora + Singhwara ke 13 panchayat).',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (murari-mohan-jha): LiveHindustan sahyog shivir (Pindaruch/Karjapatti panchayat) — shivir ka sirf nirikshan + adhikariyon ko nirdesh, reject; LiveHindustan 43-tricycle vitaran — page par tithi nahi, satyapit nahi ho saki (Oct 2026 wali pusht khabar upar entry me hai), reject; public.app Koylasthan/Khirma/Lahwar panchayat sarkar bhavan shilanyas (Rs 7.5 crore) — pre-term (~Jul 2025) + public.app-only, reject; public.app 6.50 crore teen sadak shilanyas (~Sep 2026) — public.app-only, established media coverage nahi mili, reject; Dainik Bhaskar Kevati Sadbhav Mandap punah-udghatan — page par keval "6 mahine pehle", exact tithi satyapit nahi + jeernoddhar panchayat-mad/shramdaan se, MLA ka keval punah-udghatan, reject; LiveHindustan PM Shri Navodaya speech competition — sirf karyakram udghatan, reject; Jagran/Amar Ujala seat-analysis + election-result coverage — kaam-khabar nahi, reject. 1 entry rakhi (tricycle vitaran).
+
+biharWorks['jibesh-kumar'] = [
+  {
+    title: 'Jale se Jogiyara hote hue Makiya tak SH-52 sampark sadak ka 7.793 km chaudikaran (Rs 23.10 crore) — vidhayak Jibesh Kumar ke prayason se swikriti, 12 June 2026 ko shilanyas, nirman karya shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 20 Jul 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/darbhanga/jale-jogiyara-makiya-road-widening-begins',
+    date: '2026-07-20',
+    note: 'Jale-Jogiyara-Makiya SH-52 sampark sadak (7.793 km, lagat Rs 23.10 crore) ke chaudikaran ka karya shuru ho gaya hai; article ke anusaar kshetriya vidhayak Jivesh Kumar ke prayason se unke teesre karyakal me is yojna ko swikriti mili thi aur 12 June 2026 ko Bihar sarkar ke Path Nirman Mantri Kumar Shailendra ne Jaleshwari Sthan parisar me iska shilanyas kiya tha. Stage: swikriti + shilanyas + karyarambh (20 July 2026 ki report ke samay nirman chal raha tha). Credit-pardarshita: shilanyas mantri ne kiya, swikriti ka shrey article vidhayak ke prayason ko deta hai; yeh Path Nirman Vibhag ki yojna hai, vidhayak-nidhi ka kaam article me nahi bataya gaya hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Doghra se Chandauna via Basant tak 12.55 km sadak sudridhikaran-chaudikaran (Rs 29.93 crore) ka shilanyas — vidhayak Jibesh Kumar ke aagrah par swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deshaj Times, 12 Jun 2026 (est.)',
+    sourceUrl: 'https://deshajtimes.com/news/bihar/darbhanga/darbhanga-road-news-jale-connectivity-projects/284642/',
+    date: '2026-06-12',
+    note: 'Jale AC me 12 June 2026 ko Path Nirman Mantri Kumar Shailendra ne Doghra-Chandauna via Basant 12.55 km sadak (anumanit lagat Rs 29.93 crore) ke sudridhikaran-chaudikaran ka shilanyas kiya; mantri ne swayam kaha ki sthaniya vidhayak Jivesh Kumar ke nirantar aagrah aur prayason par hi in pariyojnaon ko manzoori mili, aur vidhayak karyakram me maujood the. Stage: keval shilanyas — nirman poornata ki alag khabar nahi mili. Disclosure: Deshaj Times chhota sthaniya portal hai (Darbhanga/Mithila kshetra) — note me ullekh ke saath rakha gaya hai; article par print tithi nahi thi, lekin article me "shukravar ko" likha hai aur tasveeron ke filename me 20260612 hai — 12 June 2026 ko shukravar tha, isliye 2026-06-12 (est.) maani hai. Yeh vibhagiya yojna hai, vidhayak-nidhi ka kaam nahi bataya gaya hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (jibesh-kumar): Prabhat Khabar ~16 Sep 2026, Jale Nagar Parishad Ward-25 sadak-naala nirikshan — shikayaton par keval sthal-nirikshan + samvedak ko nirdesh — sirf nirikshan, reject; LiveHindustan Seva Sankalp swachhata shapath/padayatra + plantation — abhiyan karyakram, vikas-kaam nahi, reject; swarnimtimes (2019) Jogiara-Kamtaul shilanyas — pre-term, reject; LiveHindustan 23 Jun 2025, 25 sadak shilanyas (Rs 39.85 crore) — pre-term, reject; dastak7 Oct 2025 Singhwara 57 yojana + Bharwara 47 karya — pre-term, reject; bhaskarenglish Oct 2025 wahi event — pre-term, reject; YouTube KKTT News Rs 45 crore sadak shubharambh (~Jun 2026) — YouTube-only, lekin wahi pariyojnaen Prabhat Khabar + Deshaj Times me cover hain (upar entries), reject; mantri ke roop me vibhag-stariya faisle — niyam-taha seat-works me nahi liye. 2 entries rakhi (dono sadak).
+
+  // Coordinator QA note (Darbhanga district batch, researched 2026-10-14): 10/10 MLA researched by 3 parallel workers; fragments consolidated above in AC order. Corrections: jibesh-kumar is NOT currently a minister (PHE claim in brief was stale — Urban Development & Housing till Nov 2025, now only MLA; worker scoped seat-works correctly); madan-sahni IS currently a minister (Prohibition/Excise since May 2026 — seat-works only, scoped correctly). Titles/notes normalized to Roman-Hinglish; est. dates (saraogi 2 Jun 2026, murari-mohan 8 Oct 2026, jibesh entry-2 12 Jun 2026) disclosed in notes. Rajesh Mandal negative: 2012 FIR (pre-term, disclosed) with Jan 2026 surrender+bail (current-tenure court event), Live Hindustan, reply absent in article (disclosed). All 10 slugs were empty — no overwrite. Bihar works total: 34 -> 47 entries.
