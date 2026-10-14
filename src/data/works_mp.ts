@@ -8973,3 +8973,111 @@ mpWorks['riti-pathak'] = [
 // - Kedar Nath Shukla — poorv Sidhi vidhayak (2008-2023), 2023 me nirdaliya pratyashi; alag vyakti.
 // COORDINATOR QA NOTE (2026-10-14, Sidhi batch): ajay ki nidhi-anushansa entry hata di (upar); baaki
 // sabhi entries standard pass — titles Roman Hinglish, notes single-paragraph, Rs currency, chhote portal disclosure.
+// ---- Singrauli district batch (researched 2026-10-14) ----
+mpWorks['radha-singh'] = [
+  {
+    title: 'Sihawal-Khairpur se Bichhi-Bagdara tak 56.60 km sadak ke liye Rs 152.84 crore ki PWD prashasnik swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Polkhol Post, 3 Apr 2026',
+    sourceUrl: 'https://polkholpost.co.in/?p=13765',
+    date: '2026-04',
+    note: 'PWD ke 2 Apr 2026 ke order se Sihawal (Baghor Bichhi)-Khairpur se Bichhi-Bagdara tak 56.60 km lambi sadak ke nirmaan ki prashasnik swikriti di gayi; Vittiya Vyay Samiti ki 113vi baithak me Rs 15284.91 lakh (lagbhag Rs 152.84 crore) ki lagat manzoor hui. Portal ke mutabik ye swikriti Chitrangi vidhayak Radha Singh ke prayason se mili; ye sadak Chitrangi kshetra ke darjanon gaonon ko jodegi. Stage: swikriti (prashasnik order ki pakki report). Credit-pardarshita: fund sarkari yojana (PWD) ka hai, vidhayak-nidhi nahi; unki bhoomika portal ki reporting me prayas-karta ke roop me hai. Disclosure: ye chhota sthaniya portal hai, established media nahi.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (radha-singh):
+// 1. Janpad Panchayat Chitrangi naveen bhavan bhoomi-pujan (Rs 5.25 cr): coverage sirf YouTube (Samay Jagat) — YouTube-only reject.
+// 2. Seva Setu mega shivir shubharambh (Oct 2026): ek-divasiya sarkari campaign shivir ka shubharambh — koi thos asset/kaam/swikriti nahi — reject.
+// 3. Kharkata/Basahi/Agarhava/Bagdara/Parsohar/Dhani samudayik-bhavan lokarpan-bhoomi pujan items: sab public.app-only — reject.
+// 4. Viksit Bharat-G Ram G Yojana shubharambh Chitrangi: YouTube-only + rajya-stariya mantri-padav ka program — reject.
+// 5. Krishi rath hari jhandi (Jan 2026): public.app-only — reject.
+// 6. Janpad bhavan/aspatal bhoomi nirikshan (Jul 2025): public.app-only + sirf nirikshan — reject.
+// 7. ETV Bharat sadak protest (Oct 2026): sirf grameenon ki maang aur unka bayan — koi kaam/swikriti nahi — reject.
+// 8. Patharkatti/Godawar Collectorate gherav: sirf maang/aarop, YouTube-only — reject.
+// 9. Gopaldas bandh (Sidhi) bhoomi-pujan vivaad: kshetra se bahar ka kaam — reject.
+// 10. Noficker.in PCC road Rs 2.53 lakh ghotala aarop: blogspot-pattern source, bina FIR/karyavahi — negative-entry manak fail — reject.
+// 11. CM Mohan Yadav Rs 503 cr Singrauli package karyakram: sirf dignitary maujoodgi — reject.
+// 12. Bike yatra swagat, GST samvad, swachhata abhiyan: sirf maujoodgi/karyakram — reject.
+// 13. "2000 crore vikas karya" video (Sep 2025): YouTube-only aggregate dawa, itemized nahi — reject.
+mpWorks['ram-niwas-shah'] = [
+  {
+    title: 'Baichan me SC junior balak chhatravas bhawan (number 4 aur 5) ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Polkhol Post, Dec 2025 (est.)',
+    sourceUrl: 'https://polkholpost.co.in/?p=5411',
+    date: '2025-12',
+    note: 'Singrauli ke Baichan kshetra me anusuchit-jaati junior balak chhatravas bhawan sankhya 4 aur 5 (Devra) ka lokarpan vidhayak Ram Niwas Shah ne swayam kiya. 100-seater hostel project ki kul lagat Rs 6.52 crore rahi. Stage: lokarpan. Credit-pardarshita: kharcha sarkari yojana ka hai, vidhayak-nidhi nahi; unki bhoomika lokarpan-karta ki thi. Disclosure: chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bargawan-Baichan se Naugarh hote hue medical college tak 2.60 km sadak ka bhoomi-pujan (Rs 11.94 crore, DMF fund)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nai Taaqat, 7 Oct 2026',
+    sourceUrl: 'https://naitaaqat.in/singraulee-men-medikl-klej-marg-ka-intjar-khtm-1194-krod-kee-lagt-se-260-kimee-sdk-ka-nirma-shuroo/',
+    date: '2026-10-07',
+    note: 'Singrauli me Bargawan-Baichan marg se Naugarh hote hue medical college tak 2.60 km sadak ka vidhi-vidhan se bhoomi-pujan hua; vidhayak Ram Niwas Shah mukhya atithi ke roop me upasthit rahe aur poojan me shaamil hue. Lagat Rs 11.94 crore; fund Zila Khanij Pratishthan (DMF) Singrauli ka hai. Stage: bhoomi-pujan. Credit-pardarshita: paisa DMF ka sarkari khazana hai — unki bhoomika bhoomi-pujan me mukhya atithi ki thi; portal ke mutabik unhone lambe samay se is marg ki pahal ki thi. Disclosure: chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Collectorate parisar me Zila Khanij Pratishthan karyalaya aur 268-seat auditorium ka shilanyas (Rs 7.10 crore, DMF fund)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Online Bulletin, 29 Jul 2024',
+    sourceUrl: 'https://onlinebulletin.in/the-foundation-stone-of-the-district-mineral-establishment-office-and-auditorium-was-laid-in-the-collectorate-complex/',
+    date: '2024-07-29',
+    note: 'Singrauli Collectorate parisar me Rs 7.10 crore ki lagat se Zila Khanij Pratishthan karyalaya aur 268-seat auditorium ka shilanyas evam bhoomi-pujan hua, jisme vidhayak Ram Niwas Shah mukhya atithi rahe. Nirmaan agency Singrauli Vikas Pradhikaran hai aur fund DMF ka hai. Stage: shilanyas. Credit-pardarshita: ye vidhayak-nidhi ka kaam NAHI hai — DMF/sarkari yojana ka kaam hai jisme unhone mukhya atithi ke roop me shilanyas kiya. Disclosure: chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (ram-niwas-shah):
+// 1. Ward 43 (Rs 1.02 cr PCC naali/sadak/samudayik bhawan bhoomi-pujan, ~Dec 2024): currentnewstv.com ka page dono koshishon me khul nahi paya — bina source khole entry nahi — reject.
+// 2. NTPC Vindhyachal CSR samudayik bhawan (Navjeevan Vihar): lokarpan MP Rajesh Mishra ne kiya, MLA sirf vishisht atithi — CSR fund NTPC ka; koi dastavezi pahal nahi — reject.
+// 3. Medical college udghatan (ETV Bharat, 2025): udghatan Union Health Minister JP Nadda ne virtual kiya; Shah bheed me maujood — reject.
+// 4. CM ke Rs 257 cr lokarpan-shilanyas (Mar 2024): CM karyakram me sirf maujoodgi — reject.
+// 5. Fire-brigade se Innova dhulwane ka video controversy (Aug 2026): FIR/case/adhikarik jaanch ki karyavahi sthapit nahi; MLA ne maujudgi se inkaar kiya — negative-entry manak fail — reject.
+// 6. Jan Vishwas shivir me adhikariyon par bhadakna (Oct 2026): sirf bhashan/daura — reject.
+// 7. Nigariya vikas samiksha baithak + Sampurnata Abhiyan 2.0 launch: sirf samiksha/karyakram udghatan — reject.
+// 8. Starsofmp profile: promotional bio, concrete kaam nahi — reject.
+mpWorks['rajendra-kumar-mp'] = [
+  {
+    title: 'Obri se Kasaiya tak 8-km pucca sadak ke liye NCL ke Rs 11.71 crore CSR MoU — Devsar MLA ki sifarish par',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Indian Masterminds, 23 Jul 2026',
+    sourceUrl: 'https://indianmasterminds.com/news/ncl-rs-11-71-crore-csr-mou-8-km-road-singrauli-rural-connectivity-218864/',
+    date: '2026-07-23',
+    note: 'Devsar vidhayak Rajendra Kumar (Rajendra Meshram — naam match myneta vote-count se verify) ne Sidhi ke Sansad ke saath 8-km sadak project ki sifarish ki thi, jiske baad NCL ne 23 Jul 2026 ko MPRRDA Singrauli ke saath Rs 11.71 crore ke CSR MoU par sign kiye. Sadak Obri se Kasaiya tak Kanhaiya Dah hote hue banegi aur Devsar block ke gaonon ko saal-bhar chalne wala all-weather rasta degi. Stage: sifarish/pahal ka dastavezi parinam (CSR MoU). Credit-pardarshita: fund NCL ka CSR paisa hai, sarkari yojana ya vidhayak-nidhi nahi — unka credit sirf sifarish ki pahal tak seemit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sarai ke Godbahara me manch se sarpanch ko apshabd kehne par MP/MLA court me manhani case darj karne ka aadesh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 17 Jul 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/devsar-mla-rajendra-meshrams-troubles-increased-case-registered-in-mp-mla-court-jabalpur-madhya-pradesh-news-mps25071702453',
+    date: '2025-07-17',
+    note: 'Negative entry. 18 Jun 2024 ko Sarai tehsil ke Godbahara me School Chalo Abhiyan sabha me MLA ne Bandha panchayat ke sarpanch Devendra Pathak (urf Daroga Pathak) ko manch se chor aur 420 bataya tha; video social media par viral hua. Shikayat par Jabalpur MP/MLA court ke special magistrate D.P. Sutrakar ne unhe Bharatiya Nyaya Sanhita ki dhara 356(2) ke tahat pratham-drishtya aaropi mante hue manhani ka case register karne ka aadesh diya aur 4 Aug 2025 ko peshi par hazir hone ko kaha. MLA ka jawab publicly uplabdh nahi; case ki aage ki sthiti ki pushti nahi hui — koi nishkarsh na nikala jaye.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (rajendra-kumar-mp):
+// 1. CM Mohan Yadav Rs 503 cr event (Singrauli visit): MLA sirf dignitaries me maujood — reject.
+// 2. CM 513 cr bhoomi-pujan/lokarpan event (Bilauji): sirf maujoodgi ki soochi — reject.
+// 3. PMGSY Rs 145.84 lakh sadak bhoomi-pujan (Gaderia-Gullidad): public.app-only source + mukhya atithi MP the — reject.
+// 4. "Devsar ko sadak ki saugaat" / CM aashwasan (Mada News): public.app-only + sirf aashwasan, GO nahi — reject.
+// 5. Bargawan civil hospital nirikshan: sirf nirikshan/daura — reject.
+// 6. Accident victim parivaar ko Rs 40,000 vyaktigat sahayata: vyaktigat sahayata, vikas-kaam nahi — reject.
+// 7. Sampurnata Abhiyan 2.0 shubharambh: mukhya atithi Singrauli MLA the, sirf maujoodgi — reject.
+// 8. CM Shivraj Chouhan Jul 2023 Rs 693 cr Devsar works: pre-term — reject.
+// 9. 2013-2015 nirvachan radd / Supreme Court case: purana term ka election dispute — reject.
+// 10. YouTube-only clips (school fees, interview): YouTube-only + koi vikas-kaam nahi — reject.
+// COORDINATOR QA (2026-10-14): Kul 6 entries pass (radha-singh 1, ram-niwas-shah 3, rajendra-kumar-mp 2).
+// - radha-singh ki PWD Rs 152.84cr road swikriti rakhi hai: sanction dated PWD ORDER (2 Apr 2026) ke saath reported hai, established-portal nahi par credit-pardarshita note me poori hai — Vipin-Jain/Sakhlecha/Ken-bridge precedent par.
+// - ram-niwas-shah ke DMF karyon me fund-srot (DMF vs vidhayak-nidhi) teeno notes me spasht alag kiya gaya hai; lokarpan/bhoomi-pujan me unki karta/mukhya-atithi bhoomika article me spasht thi.
+// - rajendra-kumar-mp ka NCL CSR MoU: sifarish → MoU dastavezi parinam hai (Dodiyar/Singhar-pahal pattern); negative entry me unka jawab uplabdh nahi tha — disclosed.
+// - Worker ke bheje "attribution savdhani se dekhein" type ke vague disclosure shabd hataakar concrete disclosure likha gaya hai.
+// - Kisi slug ki pehle entries nahi thi — koi overwrite nahi hua.
+
