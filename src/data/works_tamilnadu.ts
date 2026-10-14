@@ -3340,3 +3340,67 @@ tamilNaduWorks['r-ramesh-kumar'] = [
 // - prakasam-r: Mar 2026 sexual-harassment FIR pre-term + bail bhi pre-term (Apr 2026), post-May 2026 koi nayi sthiti nahi — negative nahi.
 // - g-hari: AIADMK rebel-faction politics me party roles se hataaye gaye — FIR/case stage nahi, negative nahi.
 // - Galat-vyakti traps: K.S. Vijayakumar (AIADMK 2016 MLA), IAS Dr. S. Vijayakumar, K.S. Arunkumar (Kerala CPM), M. Arun Subramanian (DMDK), Tiruttani ke Dr. Ravi vs Thiruvallur ke Dr. T. Arunkumar (alag seats).
+
+
+// ---- Thiruvarur district batch (researched 2026-10-15) ----
+
+tamilNaduWorks['marimuthu-k'] = [];
+
+// REJECT-LOG (marimuthu-k):
+// 1. The Hindu, 30 Jun 2026, https://www.thehindu.com/news/cities/Coimbatore/conservancy-workers-stage-protest-in-salem/article71165189.ece — mila: Thiruthuraipoondi MLA K. Marimuthu ne Salem me conservancy workers ke protest me shirkat ki, waste-management privatization ke khilaf Assembly me baat uthane aur CM C. Joseph Vijay tak mudda pahunchane ka dawa; REJECT: protest me bhagidari / assembly demand — sirf "maang/prayas" hai, koi poora hua kaam / lokarpan / GO-sanction / shilanyas / ghoshna nahi.
+// 2. The Hindu, pre-poll Apr 2026, https://www.thehindu.com/elections/tamil-nadu-assembly/a-cpi-bastion-caught-between-ecological-fragility-and-agrarian-distress/article70889427.ece — mila: Kottur me arts & science college, zila agriculture college, drinking-water scheme expansion, permanent cyclone shelters ki maange; REJECT: chunav-purv demands, pre-term, koi May 2026+ administrative swikriti ya poornata report nahi.
+// 3. Deccan Chronicle, Sep 2026, https://www.deccanchronicle.com/southern-states/tamil-nadu/tn-environmentalists-desilt-60-canals-in-15-villages-of-thiruthuraipoondi-taluk-1985042 — mila: Exnora/Green Needa activists ne Hyundai Mobis+Posco ki madad se 15 gaon me 60 canals (207.5 km) desilt kiye; REJECT: NGO/corporate-CSR initiative, MLA ka dastavezi concrete kadam nahi.
+// 4. DT Next, 08 Oct 2026, https://www.dtnext.in/news/business/tiruvarur-farmers-block-traffic-seeking-water — mila: Muthupettai tail-end me samba ki pani ki kami par ECR road-block protest; REJECT: kisan protest coverage, Marimuthu ya MLA-ke-kaam ka koi dastavezi role nahi.
+// 5. The New Indian Express, 02 Sep 2026, https://www.newindianexpress.com/states/tamil-nadu/2026/Sep/02/government-remodelling-dmks-mini-stadium-scheme-minister-aadhav-arjuna — mila: mini-stadium scheme Rs 10-12 crore per facility par remodel (Rs 3 crore se badhakar, MLA fund contribution nahi); REJECT: rajya-level policy/ghoshna, Thiruthuraipoondi ke MLA ka dastavezi concrete kadam nahi.
+// 6. DT Next, 28 Aug 2026, https://www.dtnext.in/news/tamilnadu/cpi-stages-massive-protest-in-tiruvarur — mila: CPI ka drought-declare aur compensation ka Tiruvarur Collectorate protest (State Secretary M. Veerapandian, MP V. Selvaraj); REJECT: party protest, Marimuthu ka naam report me nahi — identity nahi milti; sirf maang.
+// 7. Tender aggregator (latesttenders.co.in), Oct 2026 — mila: "strengthening of middle street to saikanam road in chockkanavur panchayat km 0/0-0/468 under MLACDS 2026-2027" (Rs 17.75 lakh); REJECT: tender aggregator source-listed media me nahi (aggregators reject), aur kisi MLA se dastavezi attribution nahi.
+// 8. A. Marimuthu (Vanur, DMK) Wikipedia + disproportionate-assets case (2005/2015) — mila: galat-vyakti trap; REJECT: ye alag vyakti hain, Thiruthuraipoondi ke K. Marimuthu (CPI) nahi.
+// 9. New Indian Express / Times Now / Times of India, Mar 2021 — "Marimuthu lives in hut, cannot refill LPG" — mila: candidate background profile; REJECT: pre-term, vikas-kaam nahi.
+// 10. Election result coverage (May 2026, TOI/Indian Express/ABP/Business Today/Oneindia) — mila: Marimuthu CPI, 74,062 votes, 12,922 se jeete; REJECT: chunav-jeet khabar, development-kaam nahi.
+// TITLE COUNT (marimuthu-k): 0
+
+
+tamilNaduWorks['kamaraj-s'] = [];
+
+// REJECT-LOG (kamaraj-s):
+// 1. Expulsion news (12 May 2026, The Hindu BusinessLine / Free Press Journal / Deccan Chronicle, https://www.thehindubusinessline.com/news/national/lone-ammk-mla-s-kamaraj-expelled-for-backing-tvk-in-assembly/article70969219.ece) — mila: AMMK general secretary TTV Dhinakaran expelled lone MLA S Kamaraj after he supported the TVK government in the Assembly; REJECT: political event, vikas-kaam nahi.
+// 2. AMMK Speaker petition (Jul 2026, Times of India, https://timesofindia.indiatimes.com/city/chennai/ammk-seeks-speakers-action-against-mannargudi-mla-kamaraj/articleshow/132609309.cms) — mila: AMMK sought action under Tenth Schedule for defying whip in May 13 trust vote; REJECT: disqualification petition political proceeding hai, FIR/case/adalaati-janch stage nahi — negative entry ke rules me nahi aata.
+// 3. Affidavit criminal case (The Hindu candidate profile, https://www.thehindu.com/elections/candidates/Tamilnadu2026/kamaraj-s-1190/) — mila: 1 pending case, 1 serious IPC (2007 Mannargudi case Crime No. 690/2007, sections 147/148/323/294(b)/324/336/506(ii)/307); REJECT: pre-term matter, May 2026 ke baad koi nayi sthiti report nahi — negative entry ke rules me nahi.
+// 4. R Kamaraj (Nannilam, AIADMK) land-cheating matter (Supreme Court rap, Times of India 2017) — mila: galat-vyakti trap, ye Kamaraj. R / ex-minister R Kamaraj hain, Mannargudi ke Kamaraj. S nahi; REJECT: identity mismatch.
+// 5. Election-result and pre-poll stories (India TV, ETV Bharat, The Hindu, Apr-May 2026) — mila: win by 1,566 votes over TRB Rajaa; pre-poll demands/pitches; REJECT: chunav coverage/poll demands — May 2026+ ka koi poora hua kaam/lokarpan/swikriti/shilanyas/ghoshna established media me report nahi.
+// TITLE COUNT (kamaraj-s): 0
+
+
+tamilNaduWorks['kalaivanan-poondi-k'] = [];
+
+// REJECT-LOG (kalaivanan-poondi-k):
+// 1. The Times of India, 4 May 2026, https://timesofindia.indiatimes.com/india/thiruvarur-election-results-2026-dmk-holds-ground-as-kalaivanan-poondi-k-wins/articleshow/130605991.cms — mila: election result (Kalaivanan Poondi K, DMK, won Thiruvarur with 93,408 votes); REJECT: chunav-jeet entry development-kaam nahi, period ke bahar ki khabar.
+// 2. DT Next, 18 May 2024, https://www.dtnext.in/news/tamilnadu/tn-govt-school-student-who-studied-with-phone-flashlight-scores-492500-receives-free-electricity-connection-785548 — mila: MLA Poondi Kalaivanan ne Koradacheri ki student ko free electricity connection dilwaya; REJECT: May 2024, pre-term (karyakaal May 2026 se).
+// 3. projectsmonitor.com / newindianexpress.com (Oct 2026) — mila: PM Modi ne Thiruvarur Bypass (NH-83) ka foundation stone rakha; REJECT: kendriya NHAI project, MLA ka dastavezi concrete kadam nahi.
+// 4. DT Next, 10 Jul 2025, https://www.dtnext.in/news/tamilnadu/dmk-chief-touches-ground-in-tiruvarur-to-build-momentum-for-partys-oraniyil-drive-839710 — mila: Stalin ke saath Kalaivanan maujood, Oraniyil membership drive; REJECT: pre-term + sirf maujoodgi/party activity, vikas-kaam nahi.
+// 5. The Hindu, 26 Sep 2025, https://www.thehindu.com/news/cities/Tiruchirapalli/10-booked-for-social-media-post-against-dmk-mla-in-tiruvarur/article70098590.ece — mila: 10 logon par MLA ki defamation-post par case; REJECT: pre-term + shikayat-karta paksh, negative nahi; kaam-entry bhi nahi.
+// 6. ADR/Oneindia self-declared "1 criminal case" — REJECT: sirf affidavit declaration, established FIR/adjudication reporting nahi; negative entry ke liye reporting+aaroop+stage chahiye.
+// 7. Multiple 2026 campaign stories (Stalin rally, Stalin 2-day visit July 2025) — mila: campaign + CM-ke-event coverage; REJECT: chunav coverage ya CM ke kaam, Kalaivanan ka swayam ka vikas-kaam nahi.
+// TITLE COUNT (kalaivanan-poondi-k): 0
+
+
+tamilNaduWorks['kamaraj-r'] = [];
+
+// REJECT-LOG (kamaraj-r):
+// 1. New Indian Express, 2022-07-08, https://www.newindianexpress.com/amp/story/states/tamil-nadu/2022/Jul/08/dvac-raids-underway-at-49-locations-linked-to-former-minister-r-kamaraj-2474315.html — mila: DVAC raids at 49 locations, Rs 58.44 crore disproportionate-assets FIR against ex-Food Minister R Kamaraj (Nannilam), check period Apr 2015-Mar 2021, IPC 120B + Prevention of Corruption Act; REJECT: pre-term matter (FIR July 2022), May 2026 ke baad koi nayi sthiti (chargesheet/faisla) established media me nahi mili — negative entry ke rules me nahi aata.
+// 2. Times of India / Business Standard, May 2017, http://timesofindia.indiatimes.com/city/chennai/supreme-court-raps-tamil-nadu-government-over-kamaraj-case/articleshow/58508429.cms — mila: Supreme Court ke aadesh par R Kamaraj (then Food Minister, Nannilam) par Rs 30 lakh land-cheating FIR (IPC 420, 506(1)), complainant SVS Kumar, Mannargudi; REJECT: pre-term matter (2017), May 2026 ke baad koi nayi sthiti nahi — negative entry nahi.
+// 3. myneta.info affidavit, http://www.myneta.info/TamilNadu2021/candidate.php?candidate_id=228 — mila: 5 pending cases (Crime no 549/2017, Abiramapuram PS, IPC 448/183/186/189, non-serious); REJECT: pre-term minor cases, May 2026 ke baad koi nayi sthiti nahi, established-media allegation bhi nahi.
+// 4. Times of India, Sep 2026, https://timesofindia.indiatimes.com/city/chennai/hc-dismisses-ex-ministers-discharge-plea-in-corruption-case/articleshow/134418935.cms — mila: Madras HC ne ex-minister ki DA-case discharge plea kharij ki (check period 2006-2011, sections 13(2)/13(1)(e) PC Act); REJECT: galat vyakti — ye DMK ke ex-minister M R K Panneerselvam ka case hai, R Kamaraj (Nannilam, AIADMK) ka nahi.
+// 5. Election coverage (ToI, Indian Express, Business Today, OneIndia, ABP Live, May 2026), https://timesofindia.indiatimes.com/india/nannilam-election-results-2026-aiadmks-kamaraj-r-storms-to-victory/articleshow/130606349.cms — mila: Kamaraj. R (AIADMK) Nannilam se 1,03,462 votes (margin 41,724) se jeete; REJECT: sirf chunav coverage, May 2026+ ka koi poora kaam/lokarpan/swikriti/shilanyas/ghoshna nahi.
+// 6. Works searches (English, May-Oct 2026): inauguration, foundation stone, MLA fund/MLADS, road, school, hospital, water + "Kamaraj Nannilam MLA" — mila: chunav-khabron ke siwa kuch nahi; REJECT: established English media me Nannilam par uske naam ka koi documented vikas-kaam nahi mila.
+// TITLE COUNT (kamaraj-r): 0
+
+
+// ---- Thiruvarur district batch: coordinator QA note (2026-10-15) ----
+// 4/4 MLA researched, 4 parallel workers completed, sab fragments QA kiye.
+// TN works kul titles: 51 (badlaav nahi — Thiruvarur se +0; chaaron profiles imaandari se KHAALI).
+// Identity: do Kamaraj trap sakhti se laga — Kamaraj. S (AMMK, Mannargudi) vs Kamaraj. R (AIADMK, Nannilam); koi cross-attribution nahi.
+// Kamaraj. R ke dono pre-term mamle (DVAC DA FIR Jul 2022, SC-aadesh land-cheating FIR May 2017) me May 2026+ me koi nayi sthiti nahi — negative nahi.
+// M.R.K. Panneerselvam ka DA-case discharge kharij Kamaraj. R par nahi chadha — galat-vyakti trap pakda.
+// Marimuthu. K ke affidavit cases / protest coverage — kaam-negative layak kuch nahi.
+// Hygiene: 0 Devanagari/Tamil script, 0 rupee-symbol, 0 literal backslash-n; marker exactly 1x.
