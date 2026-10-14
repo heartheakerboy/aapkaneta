@@ -2259,3 +2259,358 @@ biharWorks['nachiketa'] = [
 // 15. dainikhindinews.com ~Dec 2025, manavadhikar sangathan ke jila adhyaksh ki shishtachar mulaqat — courtesy meeting, kaam nahi, reject.
 // 16. (Coordinator QA removal) Live Hindustan ~Oct 2026, Jamalpur ke Nayagaon me nasha mukti kendra ka udghatan (feeta katna) — reject: niji sanstha dwara sthapit kendra tha, article me sarkari fund ya vidhayak-nidhi ka koi zikr nahi, vidhayak ki bhoomika udghatan tak seemit — "niji trust school udghatan" (Qamrul Hoda) reject precedent par.
 
+
+// ---- Muzaffarpur district batch (researched 2026-10-14) ----
+
+biharWorks['komal-singh'] = [
+  {
+    title: 'Kanta Piraucha Dakshini panchayat (Gaighat) ke ward 5 me Mahila Mandal ke paas peyjal nirman yojna ka shilanyas, vidhayak Komal Singh ne buniyad rakhi',
+    category: 'Paani',
+    stage: 'shilanyas',
+    date: '2026-01-25',
+    description: 'Dastak7 ki report ke anusar Gaighat vidhayak Komal Singh ne Ravivar ko Kanta Piraucha Dakshini panchayat ke ward number 5 me Mahila Mandal ke sameep peyjal nirman yojna ka shilanyas kiya, jisse kshetra ki mahilaon aur graminon ko swachchh aur sulabh peyjal milne ki ummeed hai. Report me yojna ki lagat, fund ka srot ya sanction document ka koi ullekh nahi hai; wahi shilanyas muznews.in par bhi report hua tha. Report 2026-01-27 ko prakashit hui; karyakram usse pehle wale Ravivar ko hua tha.',
+    source: 'Dastak7, 27 Jan 2026',
+    sourceUrl: 'https://www.dastak7.com/?p=54882',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bakhri panchayat (Gaighat) ke ward 3 me PCC sadak evam nala nirman karya ka shilanyas, vidhayak Komal Singh ne shubharambh kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-25',
+    description: 'Dastak7 ki report ke anusar Gaighat vidhayak Komal Singh ne Bakhri panchayat ke ward number 3 me PCC sadak evam nala nirman karya ka shilanyas kiya, jisse aavagaman me suvidha ke saath jal-jamav ki samasya se rahat milne ki ummeed hai. Report me karya ki lagat, fund ka srot ya sanction document ka koi ullekh nahi hai; wahi karyakram muznews.in par bhi report hua tha. Report 2026-01-27 ko prakashit hui; karyakram usse pehle wale Ravivar ko hua tha.',
+    source: 'Dastak7, 27 Jan 2026',
+    sourceUrl: 'https://www.dastak7.com/?p=54882',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (komal-singh):
+// 1. muznews.net, 30 Sep 2026 — Bandra prakhand ke Piyar me up-dakghar ka udghatan; vidhayak Komal Singh,
+// Postmaster General aur SSP ne sanyukt feeta katkar udghatan kiya. OPENED + READ FULLY.
+// URL: https://muznews.net/state/bihar/muzaffarpur/Article/157728/
+// REJECT: Dak Vibhag ki pahal; vidhayak ki bhoomika sirf feeta-kaat atithi ki, dakghar dilane me koi
+// dastavezi yogdaan nahi (Obra community-hall precedent).
+// 2. LiveHindustan, 13 Dec 2025 — Kevatsa me abhinandan samaroh; MP Veena Devi aur vidhayak ke vaade
+// ("vikas ko gati milegi", bhrashtachar par zero tolerance). REJECT: "karenge"-type ghoshna, koi kaam nahi.
+// 3. dastak7, 27 Jan 2026 (wahi shilanyas karyakram) — Kanta-Mahuara ke beech pul ki maang par vidhayak ka
+// aashwasan. REJECT: sirf aashwasan, koi swikriti/karya nahi.
+// 4. Zee News, 13 Aug 2026 — Gaighat me baadh peediton ne vidhayak ki gaadi gherkar narebazi ki.
+// URL: https://zeenews.india.com/hindi/india/bihar-jharkhand/muzaffarpur/muzaffarpur-flood-victims-protest-jdu-mla-komal-singh-car-surrounded-sloganeering/3287651
+// REJECT as negative entry: janta ka virodh matra; vidhayak ke khilaf koi FIR/case/adalaati ya adhikarik
+// karyavahi nahi.
+// 5. Jagran, 12 Aug 2026 — Gaighat baadh peediton ka aakrosh (wahi ghatna). REJECT: koi adhikarik karyavahi nahi.
+// 6. Jagran, ~Feb 2026 — Vidhan Sabha me vidhayak ne apni hi sarkar ko ghera: Jarang aur Ratwara panchayat me
+// "kagaz me bane stadium" ka mudda, uchch-stariya janch ki maang; khel mantri ne jawab diya.
+// URL: https://www.jagran.com/bihar/muzaffarpur-jdu-mla-questions-own-government-over-paper-stadium-in-muzaffarpur-40131702.html
+// REJECT: sadan me prashn/aarop, koi vikas-karya nahi; negative entry nahi (vidhayak ka apna mudda, unke
+// khilaf koi karyavahi nahi).
+
+biharWorks['rama-nishad'] = [
+  {
+    title: 'Aurai ke Dharharwa gaon ke Fulwaria Ghat par pul ka shilanyas, mantri-vidhayak Rama Nishad ne buniyad rakhi',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-02-15',
+    description: 'LiveHindustan ki report ke anusar Ravivar ko mantri aur Aurai vidhayak Rama Nishad ne Dharharwa gaon sthit Fulwaria Ghat par pul ka shilanyas kiya aur kaha ki pul banne se aavagaman sugam hoga tatha aaspaas ke gaanvon ke samajik aur aarthik vikas ko nayi gati milegi; Fulwaria Ghat par lambe samay se pul ki maang ki ja rahi thi. Report me pul ki lagat, yojna ka naam ya fund ka srot nahi diya gaya hai aur koi sanction document cite nahi kiya gaya hai.',
+    source: 'Live Hindustan, 15 Feb 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-minister-rama-nishad-lays-foundation-stone-for-bridge-at-fulwaria-ghat-201771165165348.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rama-nishad):
+// 1. LiveHindustan, 7 Dec 2025 — Shahi Minapur me abhinandan samaroh; degree college sthapna, vidyalaya bhavan
+// nirman, chachri pul, Lakhndei bandh ki ghoshna ("karai jayegi / banaya jayega").
+// URL: https://www.livehindustan.com/bihar/muzaffarpur/story-degree-college-establishment-and-infrastructure-development-announced-by-minister-rama-nishad-in-aurai-201765119180407.html
+// REJECT: ghoshna matra, koi GO/sanction/rakam nahi.
+// 2. Amar Ujala, 22 Nov 2025 — mantri banne ke baad pehli jila yatra; vaade ("janta ke bharose ka karz vikas se
+// utarungi", Aurai ko model banana). REJECT: "karenge"-type.
+// 3. LiveHindustan, 23 Nov 2025 — Nishad Cottage me janta darshan; Kendriya Vidyalaya kholne ka "prayas kiya
+// jayega". REJECT: "karenge"-type.
+// 4. LiveHindustan, 28 Nov 2025 — DM se mulakat; sadak/bijli/pani par "prayas kiye jayenge". REJECT: "karenge"-type.
+// 5. LiveHindustan, 12 Sep 2026 — Seva Sankalp abhiyan ki baithak ki adhyakshata. REJECT: party baithak, koi kaam nahi.
+// 6. YouTube (Punjab Kesari Bihar) — Buxar me 520-bed Girls Residential School ka udghatan. REJECT: YouTube-only
+// source + kshetra se bahar (Buxar, Aurai nahi) + mantri-stariya karyakram.
+// 7. YouTube (@Achanakreporter) — Aurai me pehla Jan Aushadhi Kendra, mantri ne udghatan kiya. REJECT: YouTube-only
+// source; koi text coverage nahi mili.
+// 8. YouTube (@akarshanbihar) — Aurai sarkari aspataal me ultrasound/ECG suvidha ka shubharambh. REJECT:
+// YouTube-only source.
+// 9. YouTube — Aurai ke Basua gaon me pul nirman karya ka nirikshan. REJECT: YouTube-only + sirf nirikshan.
+// 10. Jagran, ~Feb 2026 — pehle janta darbar me PM Awas Yojana me bichauliyon dwara 10 hazar rupaye ki avaidh
+// vasooli ki shikayat; mantri ne vibhagon se samadhan ka aashwasan diya.
+// URL: https://www.jagran.com/bihar/muzaffarpur-aurai-pm-awas-yojana-bribery-complaint-rama-nishad-40127462.html
+// REJECT as negative entry: shikayat bichauliyon ke khilaf thi aur mantri ke paas layi gayi thi; Rama Nishad ke
+// khilaf koi FIR/case/adhikarik karyavahi nahi.
+
+biharWorks['ajay-kumar-bihar'] = [];
+
+// REJECT-LOG (ajay-kumar-bihar):
+// 1. LiveHindustan, ~Aug 2026 — Minapur me pansas ki baithak: 1.77 crore rupaye, 55 yojnaon ko manjuri; vidhayak
+// Ajay Kumar ne shikshakon ki bharti me deri par sawal uthaya.
+// URL: https://www.livehindustan.com/bihar/muzaffarpur/story-community-development-meeting-approves-1-77-crore-in-budgets-in-meenapur-201786717192254.html
+// REJECT: yojnaen prakhand panchayat samiti / 15th Finance Commission ki manjuriyan hain; vidhayak ka koi
+// dastavezi kadam nahi — sirf maujoodgi aur sawal.
+// 2. KKN Live, 16 Aug 2026 — Kranti Mahotsav-2026 me vidhayak ne Shaheed Smriti Park aur Rampurhari me bhavya toran
+// dwar banane ki ghoshna ki ("banaya jayega"). OPENED + READ FULLY.
+// URL: https://kknlive.com/bihar/muzaffarpur/independence-day-celebrations-in-meenapur-announcement-to-build-martyr-memorial-park-and-grand-archway/
+// REJECT: sanskritik karyakram me ghoshna matra; koi sanction/rakam/work-order nahi (Fateganj precedent).
+// 3. LiveHindustan (UP Saharanpur) — "vidhayak nidhi se banne wali sadkon ka shilanyas" — Dr Ajay Kumar Singh
+// (mahapaur) aur vidhayak Rajeev Gumber. REJECT: galat vyakti, UP ka mamla.
+// 4. Samastipur Express — Vibhutipur (Samastipur) vidhayak Ajay Kumar ne CM Kshetra Vikas Yojna ke tahat
+// shilanyas kiya. REJECT: galat vyakti (Vibhutipur, Minapur nahi).
+// 5. public.app — Vibhutipur vidhayak Ajay Kumar ka shilanyas/udghatan. REJECT: galat vyakti + public.app-only.
+// 6. LiveHindustan (UP Bagpat) — Chaprauli vidhayak Dr Ajay Kumar ka abhinandan samaroh. REJECT: galat vyakti, UP.
+// 7. Zee News — Atri (Gaya) RJD vidhayak Ajay Kumar par hatya ka mukadma, High Court ne appeal radd ki.
+// REJECT: galat vyakti (Atri, Minapur nahi) — isliye negative entry nahi.
+// 8. Zee News — Vibhutipur CPM vidhayak Ajay Kumar par "jaanleva hamle" ka aarop. REJECT: galat vyakti.
+// 9. LiveHindustan (Bhagalpur) — poorv ADM Ajay Kumar Singh par dakhil-kharij farziwade me vibhagiya karyavahi.
+// REJECT: galat vyakti (bureaucrat, vidhayak nahi).
+// 10. LiveHindustan, ~Jun 2026 — Minapur ke Banghara gaon me Nishad samaj ki baithak ne vidhayak Ajay Kumar par
+// Jansuraj neta Tejanarayan Sahni ko apmanit karne ka aarop lagaya; vidhayak ne inkar kiya.
+// URL: https://www.livehindustan.com/bihar/muzaffarpur/story-meeting-of-nishad-community-accuses-mla-ajay-kumar-of-insulting-tejanarayan-sahni-201782222532685.html
+// REJECT as negative entry: sirf samudayik baithak ka aarop, vidhayak ne inkar kiya; koi FIR/case/adalaati ya
+// adhikarik janch-karyavahi nahi.
+
+biharWorks['baby-kumari'] = [
+  {
+    title: 'Bada Jagannath panchayat me sadak nirman ka shilanyas', category: 'Sadak', stage: 'shilanyas', date: '2026-09-19', description: 'Mushahri prakhand ke Bada Jagannath panchayat ke ward-6 me Ashok Choudhary ke ghar se Nandlal Rai ki zameen ki taraf jaane wali sadak me mitti bharai aur soling kaam ka shilanyas Bochahan MLA Baby Kumari ne kiya. Khabar me fund source (vidhayak nidhi ya vibhagiya yojana) spasht nahi hai.', source: 'Live Hindustan', sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-road-construction-initiated-by-mla-baby-kumari-in-bachhawan-201789822522136.html', badge: 'news', period: '2025-2030',
+  },
+  {
+    title: 'Bajitpur Bhutane me Panchayat Sarkar Bhavan ka udghatan', category: 'Any', stage: 'lokarpan', date: '2026-08-05', description: 'Bochahan ke Bajitpur Bhutane me Panchayat Sarkar Bhavan ka udghatan MLA Baby Kumari ne feeta kaatkar kiya; saath me sahyog shivir lagakar kshetra ki samasyaon ka niptara bhi hua. Fund source khabar me spasht nahi hai.', source: 'Live Hindustan', sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-inauguration-of-panchayat-government-building-by-mla-baby-kumari-local-support-camp-held-201785950885108.html', badge: 'news', period: '2025-2030',
+  },
+  {
+    title: 'Bochahan-Mushahri ke 3 dharmik sthalon ko paryatan kendra banane ki prakriya shuru', category: 'Any', stage: 'ghoshna', date: '2026-09-26', description: 'Bochahan MLA Baby Kumari ke vidhansabha satr me uthaye gaye taarankit prashn ke baad Paryatan Vibhag ke sanyukt sachiv ne DM Muzaffarpur ko patra likhkar Mushahri ke Baba Dudhnath Mandir (Chhapra Megh), Baba Banwari Nath Mandir (Manika Vishunpur Chand) aur Bochahan ke Radha-Krishna Mandir ki bhoomi swamitva, nazri-naksha aur vikas yojana ki report sarvochch prathmikta par mangi. Dhyaan rahe: aupcharik GO/swikriti-aadesh ya rakam ki khabar abhi report nahi hui hai; dastavezi kadam sanyukt sachiv ka patra hai.', source: 'Prabhat Khabar', sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/muzaffarpur/mushahari-religious-sites-tourism-development', badge: 'news', period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (baby-kumari):
+// 1. Jagran seat-profile article (Oct 2025, pre-election): usme Baby Kumari ke purane karyakaal (2015-20) ke shilanyas-dawon ka zikr hai — pre-term rule se reject; Nov 2025+ ka koi concrete kaam nahi.
+// 2. ET 2016 extortion-threat story: 2016 ki hai (pre-term) aur usme Baby Kumari complainant hain, aaropi nahi — negative-entry rule bhi apply nahi hota.
+// 3. 2021 Bochahan bypoll se judi khabren: pre-term rule se reject.
+
+biharWorks['aditya-kumar'] = [
+  {
+    title: 'Sarmastpur me PCC sadak aur nala nirman ka shilanyas', category: 'Sadak', stage: 'shilanyas', date: '2026-01-18', description: 'Sakra ke Sarmastpur gaon me MLA Aditya Kumar aur mukhiya Ramesh Kumar ne PCC sadak aur nala nirman ka shilanyas kiya; lagat Rs 14.99 lakh report hui. Fund source (vidhayak nidhi ya vibhagiya yojana) khabar me spasht nahi hai.', source: 'Live Hindustan', sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-foundation-laid-for-pcc-road-and-drain-construction-in-sakar-bihar-201768741254160.html', badge: 'news', period: '2025-2030',
+  },
+  {
+    title: 'NH-28 Markan Chowk se Pachdahi tak RCD sadak nirman ka shilanyas', category: 'Sadak', stage: 'shilanyas', date: '2026-06-10', description: 'Muraul prakhand me NH-28 Markan Chowk se Pachdahi tak RCD sadak nirman ka shilanyas MLA Aditya Kumar ne kiya; Gramin Karya Vibhag ke SDO/JE karyakram me maujood the aur prakhand me 28 sadkon ka tender hua hai. Yeh rajya ke Gramin Karya Vibhag ki tender-yukt yojana hai, vidhayak nidhi nahi.', source: 'Live Hindustan', sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-aditya-kumar-lays-foundation-stone-for-nh-28-marakan-to-pachdahi-road-construction-201781096894994.html', badge: 'news', period: '2025-2030',
+  },
+  {
+    title: 'Sakra aur Muraul me Karpuri Park aur degree college kholne ki ghoshna', category: 'Any', stage: 'ghoshna', date: '2026-01-05', description: 'Sabha gaon sthit apne karyalaya me baithak me MLA Aditya Kumar ne ghoshna ki ki Sakra aur Muraul dono prakhand me Karpuri Park banega (swatantrata senaniyon aur shahidon ka smarak aur pratimayen) aur dono prakhand me ek-ek degree college khulega. Dhyaan rahe: yeh MLA ka apna dawa hai; swikriti-aadesh ya fund ki khabar abhi report nahi hui hai.', source: 'Live Hindustan', sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-aditya-kumar-announces-new-park-and-degree-colleges-in-sakra-constituency-201767617066736.html', badge: 'dawa', period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (aditya-kumar):
+// 1. 29 Dec 2025 panchayat samiti baithak: Sakra ko anumandal aur referral hospital ko anumandliya darja dene ka prastav panchayat samiti ne pass kiya; MLA ne sirf samanvay ki appeal ki — sirf maang/prastav, MLA ka koi dastavezi concrete kadam nahi.
+// 2. YouTube Viksit Bharat jagrukta karyakram (Sakra): YouTube-only source; kendra sarkar ke Sanchar Bureau ke karyakram ka sanyukt udghatan — sirf maujoodgi/aupcharik bhoomika, MLA ki apni pariyojana nahi.
+// 3. Nov 2025 election-win coverage: chunavi khabar hai, vikas-kaam nahi.
+
+biharWorks['kedar-prasad-gupta'] = [
+  {
+    title: 'Ramchandra Malang Sthan se RCD road tak 0.950 km sadak ka shilanyas', category: 'Sadak', stage: 'shilanyas', date: '2026-02-28', description: 'Mukhyamantri Gram Sampark Yojana (Avashesh SC) ke tahat Kurhani me Ramchandra Malang Sthan se RCD road tak 0.950 km sadak ka shilanyas MLA Kedar Prasad Gupta ne kiya; prakkalit lagat Rs 76.07 lakh. Yeh rajya sarkar ki yojana ka kaam hai, vidhayak nidhi nahi.', source: 'Dainik Jagran', sourceUrl: 'https://www.jagran.com/bihar/muzaffarpur-muzaffarpur-kudhani-road-construction-76-lakh-foundation-stone-40157541.html', badge: 'news', period: '2025-2030',
+  },
+  {
+    title: 'Rajla me shraddhaluon ke liye Tent City ka udghatan', category: 'Any', stage: 'lokarpan', date: '2026-08-07', description: 'Kurhani ke Rajla me Paryatan Vibhag ki Tent City ka udghatan Kedar Prasad Gupta ne rajya ke paryatan mantri ke roop me kiya; tent city me shraddhaluon ke liye snan, shauchalaya aur vishram ki vyavastha hai. Fund source: rajya Paryatan Vibhag.', source: 'Live Hindustan', sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-tent-city-inaugurated-by-tourism-minister-for-pilgrims-comfort-201786119662512.html', badge: 'news', period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (kedar-prasad-gupta):
+// 1. Chadhua aadhunik rasoighar (PM Poshan) udghatan (~Mar 2026): Gramin Karya mantri Ashok Choudhary, mantri Zama Khan aur MLC ke saath sanyukt feeta-kaatan; rajya yojana ka karyakram — Kedar ki bhoomika aupcharik thi, unka koi dastavezi concrete kadam nahi (sirf maujoodgi).
+// 2. YouTube-only khabren (6 sadkon ka shilanyas, Rajla cafeteria, computer training centre udghatan): YouTube-only source rule se reject.
+// 3. 11 Aug 2025 Shahpur Maricha 8 yojanaen aur 15 Sep 2025 PCC sadak udghatan: Nov 2025 chunav se pehle ke hain — pre-term reject.
+// 4. Sep 2025 Jhikti virodh video (navbharattimes): pre-term; virodh-pradarshan hai, FIR/case/adalaati karyavahi nahi — negative-entry rule se reject.
+// 5. Padmaul agnipiditon ko Rs 20-20 hazar ke cheque (15 Jan 2026): rahat-muaavza vitran hai, vikas-pariyojana nahi — stage schema me fit nahi.
+// 6. Panchayat samiti baithak me swasthya kendra ki maang: sirf maang/prastav; MLA sirf upasthit the.
+// 7. Dharmik sthalon ka nirikshan daura (Jun 2026): sirf nirikshan/daura — mantri ke roop me vibhagiya tour, concrete kaam nahi.
+
+biharWorks['ranjan-kumar'] = [
+  {
+    title: 'Muzaffarpur Ward-41 (Rambag-Noonfar) me sadak evam naala nirman ki 2 yojanaon ka shilanyas MLA Ranjan Kumar ne 19 Sep 2026 ko kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-09-19',
+    description: 'Muzaffarpur shahar ke Ward-41 ke Rambag aur Noonfar kshetro me varshon se jale-jamao ki samasya ke samadhan ke liye Mukhyamantri Kshetra Vikas Yojana ke antargat sadak evam naala nirman ki 2 alag yojanaon ka shilanyas vidhayak Ranjan Kumar ne kiya. Pehli yojana Rambag Noonfar me Anil Singh ke ghar se Nabbu Verma ke ghar tak, doosri Rambag Road sthit Chaudhary Campus culvert se 50 meter aage Rakesh Verma ke ghar tak sadak-naala nirman ki hai. Kriyanvayan Karyapalak Abhiyanta, Sthaniya Kshetra Abhiyantran Sangathan, Karya Pramandal-01, Muzaffarpur (LAEO) ke madhyam se hoga. Fund srot: Mukhyamantri Kshetra Vikas Yojana (vidhayak-nidhi nahi). Ramrajna jile ki pehchan: Rambag Chowk se Nakulwa Chowk, Bahan Khana hote hue Prabhat Cinema tak bade naale evam sadak ki prastavit yojana ka bhi ullekh kiya gaya, jo abhi sirf prastav hai.',
+    source: 'MuzNews Online (Muzaffarpur local news), 19 Sep 2026',
+    sourceUrl: 'https://muznews.online/archives/237779',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Muzaffarpur me BJP MLA Ranjan Kumar ke viruddh mukadma: 9-10 May 2026 ko dono pakshon se counter-FIR (Mithanpura thana kand 136/26 aur 137/26), SSP ne jaanch ki pushti ki',
+    category: 'Any',
+    date: '2026-05-10',
+    description: 'Social media post ko lekar vivaad me 9 May 2026 ko vidhayak Ranjan Kumar ne Mithanpura thane me aavedan dekar aarop lagaya ki Mukund Kumar urf Mukund Tiwari unki tasveer ka bina anumati social media par istemal kar aapattijanak post aur tippani kar raha tha; jab ve sahyogiyon ke saath aaropi ke ghar puchh-taachh ke liye pahunche to maarpeet aur jaan se maarne ki dhamki di gayi — is aadh par thana kand sankhya 136/26 darj hua. Doosre paksh se Mukund Tiwari ki patni Pinki Kumari ne aarop lagaya ki vidhayak 10 namjad aur 50-60 agyat logon ke saath unke ghar aaye aur hungama-maarpeet ki — kand sankhya 137/26 darj hua. SSP Kantesh Mishra ne bataya ki 10 May 2026 ko aaropi Mukund Kumar ko giraftar kiya gaya; us par pehle se 7 aaparadhik maamle darj the, baad me usse court se jamaanat mil gayi. Neta pratipaksh Tejashwi Yadav ne bhi is video-kand par sarkar se kaarwai ka sawal uthaya. Neta ka jawab (uplabdh): vidhayak ne aaropon ko khaarij karte hue daava kiya ki yuvak unhe badnaam karne ke liye aapattijanak content post kar raha tha aur samjhane jaane par usne badsulu ki; unke anusaar usne unhe AK-47 se bhoon dene ki dhamki di thi. Status: police jaanch jari hai.',
+    source: 'FirstBihar, 10 May 2026 (saath me News4Nation aur NPG News ne bhi report kiya)',
+    sourceUrl: 'https://firstbihar.com/crime/bjp-mla-ranjan-kumar-threat-mukund-tiwari-arrested-muzaffarpur-596725',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (ranjan-kumar):
+// 1. Dastak7, 17 Sep 2026 — Ghirni Pokhar jeernoddhaar shilanyas: shilanyas kendriya jal shakti rajya mantri Rajbhushan Chaudhary Nishad ki aguwai me hua, MLA Ranjan Kumar sirf maujood the (mantri ke karyakram me sirf maujoodgi), reject.
+// 2. YouTube video (gpFRVtRHvP8) — "jam-free bulldozer action": YouTube-only source, reject.
+// 3. LiveHindustan, Oct 2026 — Shilp Utsav Mela ka udghatan: mela ka udghatan development work nahi, reject.
+// 4. LiveHindustan, 1 Oct 2026 — Seva Sankalp abhiyan paudhropan: BJP campaign event me maujoodgi, development work nahi, reject.
+// 5. LiveHindustan, 2 Jan 2026 — Muzaffarpur sthapna divas: sanyukt udghatan samaroh me maujoodgi, reject.
+// 6. LiveHindustan, ~Jun 2026 — Vidhayak Aapke Dwaar (Chakkar Maidan): samasya-sunwai daura, koi concrete kaam nahi, reject.
+// 7. LiveHindustan, 8 Jan 2026 — path nirman mantri ko aabhaar-patra: sirf jaankari maangne ka patra, reject.
+// 8. public.app (sp_mhbrab3t0y2uq) — private fashion store ka udghatan: public.app-only source + niji dukaan, reject.
+
+biharWorks['ajit-kumar'] = [
+  {
+    title: 'Kanti Nagar Parishad ke Ward-1 aur 14 me Rs 38 lakh ki lagat se naala nirman karya ka shilanyas MLA Ajit Kumar ne 7 Feb 2026 ko kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-02-07',
+    description: 'Kanti Nagar Parishad ke Ward-1 aur 14 me Rs 38 lakh ki lagat se banne wale naala nirman karya ka shilanyas vidhayak Ajit Kumar aur sabhapati Dilip Kumar ne kiya. Vidhayak ne nagar parishad ke sarvangin vikas ko prathamikta bataya. Fund srot: report me spasht nahi (nagar parishad karya; vidhayak-nidhi ka daava nahi). Pehchan-savdhani: Kanti ke JD(U) vidhayak sah poorv mantri E. Ajit Kumar hi hain.',
+    source: 'LiveHindustan, 7 Feb 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-construction-of-drainage-system-launched-in-kanthi-with-38-lakh-investment-201770479706588.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Kanti Nagar Parishad ke Ward-6, 20 aur 23 me 2 sadak aur 1 naala nirman (Rs 50.39 lakh) ka shilanyas MLA Ajit Kumar ne 21 Jan 2026 ko kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-21',
+    description: 'Kanti Nagar Parishad ke Ward-6, 20 aur 23 me vidhayak Ajit Kumar ne 2 sadak aur 1 naala nirman ka shilanyas kiya; is par Rs 50 lakh 39 hazar kharch hoga. Fund srot: report me spasht nahi (nagar parishad karya; vidhayak-nidhi ka daava nahi).',
+    source: 'LiveHindustan, 21 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-ajit-kumar-lays-foundation-for-road-and-drain-construction-in-kanti-201769017505428.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Kanti kshetra ke 5 vidyalayon (Sain, Veerpur, Singar, Bathnaha Urdu, Asnagar uchch madhyamik vidyalaya) me Rs 1.5 crore se atirikt bhavan nirman ka shilanyas MLA Ajit Kumar ne 6 Sep 2026 ko kiya',
+    category: 'School',
+    stage: 'shilanyas',
+    date: '2026-09-06',
+    description: 'Vidhayak sah poorv mantri E. Ajit Kumar ne Kanti kshetra ke 5 uchch madhyamik vidyalayon — Sain, Veerpur, Singar, Bathnaha Urdu aur Asnagar — me atirikt vidyalaya bhavan nirman karya ka shilanyas kiya. Rs 1.5 crore ki lagat se naye bhavan banenge jisse kakshaon ki kami door hogi. Fund srot: report me spasht nahi (vidhayak-nidhi ka daava nahi).',
+    source: 'LiveHindustan, 6 Sep 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-foundation-stone-laid-for-five-school-buildings-by-mla-e-ajit-kumar-201788713823569.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Kanti Nagar Parishad ke Narsanda aur Kanti Kothiyan me naala nirman karya ka shilanyas MLA Ajit Kumar ne Aug 2026 me kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-08-10',
+    description: 'Kanti Nagar Parishad ke Narsanda aur Kanti Kothiyan me naala nirman karya ka shilanyas vidhayak Ajit Kumar ne kiya. Vidhayak ne jaljamav ki samasya se nijat ke liye lagatar naala nirman karane ki baat kahi aur kaam me gadbadi par sakht kaarwai ka aashwasan diya. Fund srot: report me spasht nahi (nagar parishad karya; vidhayak-nidhi ka daava nahi).',
+    source: 'LiveHindustan, ~10 Aug 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-ajit-kumar-inaugurates-drain-construction-in-kanty-for-flood-relief-201786376200439.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Muzaffarpur (Rautinia) me Rs 9.71 crore ke 50 TPD Material Recovery Facility (MRF) waste-processing plant ki prashasanik swikriti aur work order; vidhayak Ajit Kumar ke prayason se pariyojna aage badhi',
+    category: 'Any',
+    stage: 'swikriti',
+    date: '2026-09-20',
+    description: 'Muzaffarpur Nagar Nigam prashasan ne Rautinia me 50 ton pratidin (TPD) kshamta wale Material Recovery Facility (MRF) kendra ke nirman ke liye vidhivat work order jari kar diya hai; kendra ke nirman ke liye Rs 9 crore 71 lakh 33 hazar 440.84 ki prashasanik swikriti di gayi hai. Karyakari agency: M/s Harsh Engicon Pvt Ltd, Patna (anusuchit dar se 11.27 pratishat kam dar par kaam haasil); work order jari hone ki tithi se 6 mahine me nirman poora karna anivarya hai. Prabhat Khabar ki report ke anusaar Kanti vidhayak sah poorv mantri E. Ajit Kumar ke satat prayason se yeh pariyojna aage badhi aur 15 din ke bheetar iska shilanyas sampann hona tha. Disclosure: work order aur swikriti Nagar Nigam prashasan ki hai (vidhayak-nidhi nahi); MLA ki bhoomika ka daava report me hai, jisme concrete kadam (nirantar prayas, prashasan se sampark) ka ullekh hai.',
+    source: 'Prabhat Khabar, ~20 Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/muzaffarpur/muzaffarpur-to-get-50-tpd-waste-processing-plant-worth-971-crore',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Kanti ke Godai Phulkaha (Manpura) aur Sherukahi (Sotibhediyahi) panchayaton me Rs 6 crore ke 2 Panchayat Sarkar Bhavanon ka udghatan MLA Ajit Kumar ne 11 Jun 2026 ko kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-06-11',
+    description: 'Kanti vidhan sabha kshetra ke vidhayak sah poorv mantri E. Ajit Kumar ne Godai Phulkaha panchayat ke Manpura aur Sherukahi panchayat ke Sotibhediyahi me navnirmit 2 Panchayat Sarkar Bhavanon ka udghatan kar donon bhavanon ki chaabiyan sthaniya janta ko samarpit ki. Dono bhavanon ke nirman ke liye sarkar dwara kul Rs 6 crore swikrit kiye gaye the; bhavanon me prashasanik karmiyon ke liye aawasiya quarter bhi banaye gaye hain. Fund srot: sarkar dwara swikrit yojana (vidhayak-nidhi nahi).',
+    source: 'News4Nation, 11 Jun 2026',
+    sourceUrl: 'https://news4nation.com/bihar/muzaffarpur/mla-e-ajit-kumar-inaugurated-two-new-panchayat-sarkar-bhavans-stating-the-progress-of-kanti-is-my-identity-535987',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (ajit-kumar):
+// 1. LiveHindustan, ~May 2026 — Damodarpur me samman samaroh: vidhayak ka samman niji foundation (Nandkishore Pandey Seva Foundation) ke karyakram me, development work nahi, reject.
+// 2. public.app (sp_zlavka3653lki) — ROB nirman me aniyamitta ki jaanch ka patra: public.app-only source, reject (patra khud koi kaam nahi).
+// 3. Dainik Bhaskar, Kasturba Jayanti — school samaroh me udghatan: mukhya atithi ke roop me karyakram udghatan, nirman karya nahi, reject.
+// 4. Negative search: Sambhal (UP) ke Ajit Kumar Raju wale lekh galat vyakti hain, reject (pehchan-savdhani). Kanti MLA par koi FIR/jaanch wali vishvasniya reporting nahi mili.
+
+biharWorks['arun-kumar-singh'] = [
+  {
+    title: 'Motipur (Patti Aswari Panchayat) ke Jagannathpur gaon me Panchayat Sarkar Bhavan ka udghatan MLA Arun Kumar Singh ne 15 Sep 2026 ko kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-09-15',
+    description: 'Motipur (Baruraj vidhan sabha kshetra) ke Patti Aswari panchayat ke Jagannathpur gaon me vidhayak Arun Kumar Singh ne Panchayat Sarkar Bhavan ka udghatan kiya; unhone grameenon ki samasyaon ka ek hi chhat ke neeche samadhan hone ki baat kahi. Fund srot: report me spasht nahi (sarkari yojana ka bhavan; vidhayak-nidhi ka daava nahi).',
+    source: 'LiveHindustan, ~15 Sep 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-mla-arun-kumar-singh-inaugurates-panchayat-government-building-in-jagannathpur-village-201789475975785.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (arun-kumar-singh):
+// 1. 22Scope/Shankhnad — Amrit Bharat yojana Motipur station: ~960 din purani (2024, pre-term) khabar, sansad Veena Devi ki aguwai, MLA sirf maujood, reject.
+// 2. public.app videos (sp_7ch84o83dq7o1, sp_dhjrqxmciprqa) — public.app-only sources, reject.
+// 3. LiveHindustan, Oct 2026 — Mahwal leather park nirikshan: udyog mantri Shreyasi Singh ki aguwai, MLA sirf maujood, reject.
+// 4. Prabhat Khabar, Election Express (pre-election) — "82 sadken" wali netaon ki bayaanbaazi, bina sanction/GO, reject.
+// 5. YouTube video (cPB-IiOwt2Y) — sadak samasya par aarop video: YouTube-only, reject. Note: sirf virodhi-aarop, koi adhikarik kaarwai nahi, isliye negative entry bhi reject.
+// 6. Negative search (FIR/vivaad): upyukt naam par mile parinaam UP-Mainpuri, Mahoba, Siddharthnagar ke anya vyakti hain (galat vyakti), Baruraj MLA par koi vishvasniya negative reporting nahi mili.
+
+biharWorks['shankar-prasad'] = [
+  {
+    title: 'Saraiya nagar panchayat ke ward-3 aur ward-6 me Rs 1,86,17,174 ki laagat se do jarrar sadkon ke nirman ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-06-09',
+    description: 'Saraiya nagar panchayat ke ward-3 aur ward-6 me kul Rs 1,86,17,174 (ek karod 86 lakh 17 hazaar 174) ki laagat se banne wali do jarrar sadkon ke nirman kaary ka shilanyas MLA Shankar Prasad Yadav ne kiya. Is avsar par mukhya parshad Kumari Archana, up-mukhya parshad Dilip Rai, Rupesh Kumar Singh, Pushkar Gautam, Chhotan Chaudhary aadi maujud the. MLA ne kaha ki navgathit Saraiya nagar panchayat kshetra me aam janta ke hiton ko dhyan me rakhkar vikas kaary tezi se kiye ja rahe hain aur behtar sadak sampark kshetra ke vikas ki aadharshila hai. (Rashi ka srot article me nirdharit nahi hai.)',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-inauguration-of-road-construction-in-saraiya-ward-by-mla-shankar-prasad-yadav-201781028657383.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Saraiya thana parisar me bachchon ke liye Child Help Desk ka udghatan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-10-02',
+    description: 'Saraiya thana parisar me RJD vidhayak Shankar Prasad Yadav ne Child Help Desk ka shubharambh kiya; is desk se bachchon ko apni samasyaon ke liye surakshit sthan milega aur avashyaktanusar kanooni sahayata bhi uplabdh hogi. Help desk ki prabhari SI Nadia Naz ne kaha ki bachche apni pareshani lekar seedha help desk par aakar unse mil sakte hain; is avsar par bachchon ke beech upharon ka vitaran bhi kiya gaya. Saraiya nagar panchayat ke mukhya parshad pratinidhi Rupesh Kumar Singh, thanedar Devendra Kumar aadi maujud the. (Rashi ka srot article me nirdharit nahi hai.)',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/muzaffarpur/story-launch-of-child-help-desk-by-mla-shankar-prasad-yadav-in-saraiya-201790969853791.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (shankar-prasad):
+// 1) LiveHindustan ~Feb 2026 sadan me Saraiya-Paroo-Sahebganj ko milakar naya civil anumandal banane ki maang — sirf maang/prastav, reject; 2) Prabhat Khabar ~Sep 2026 Manikpur baithak me Saraiya anumandal aandolan ki ghoshna — sirf maang/aandolan, reject; 3) LiveHindustan ~Jul 2026 Paroo-Majhauliya me balika uchch madhyamik vidyalaya sthapna ki sadan me maang — sirf maang, reject; 4) LiveHindustan 12 Jan 2026 Paroo high school nirikshan me aniyamitta — sirf nirikshan, reject; 5) public.app 22 Sep 2026 Kamalpur-Fatehabad sadak nirikshan — sirf nirikshan + public.app-only source, reject; 6) LiveHindustan ~Sep 2026 Bajitpur school samman samaroh, "naye bhavanon ke liye maang patra saunpenge" — samman + bhavishya ka vaada, reject; 7) LiveHindustan 29 Oct 2025 Rajd chunav karyalaya udghatan Paroo — pre-term (chunav-purv), reject; 8) LiveHindustan ~Oct 2026 Tirhut snatak chunav super core committee baithak — party sangathan, vikas-kaary nahi, reject. Entries: 2 (Sadak shilanyas, Child Help Desk lokarpan).
+
+biharWorks['raju-kumar-singh'] = [
+  {
+    title: 'Delhi ki Rouse Avenue court ne 2018 New Year harsh-firing case me MLA Raju Kumar Singh ko 4 saal ki saja sunayi',
+    category: 'Any',
+    date: '2026-07-04',
+    description: 'Muzaffarpur ke Sahebganj se BJP vidhayak Raju Kumar Singh ko 31 December 2018 ki raat Fatehpur Beri (Delhi) ke farm house me New Year jashn ke dauran harsh firing me architect Archana Gupta ki maut ke mamle me Delhi ki Rouse Avenue vishesh adalat ne gair-iradatan hatya aur Arms Act ke tahat doshi karar dete hue 4 saal ke sashram karavas ki saja sunayi aur mritaka ke aashriton ko Rs 25 lakh muavza dene ka aadesh diya; patni Renu Singh aur do anya aaropi bari ho gaye. Saja ke baad MLA ne Delhi High Court me saja aur doshsiddhi dono par rok ki apeal dayar ki. RP Act 1951 ki dhara 8(3) ke tahat 2 saal ya adhik ki saja par vidhayak ki sadasyata samapt hone ka khatra report me darj hai.',
+    source: 'ETV Bharat',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/bjp-mla-raju-singh-sentenced-four-years-jail-in-archana-gupta-death-case-brs26070403856',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Delhi High Court ne Raju Kumar Singh ki doshsiddhi par turant rok lagane se inkar kiya',
+    category: 'Any',
+    date: '2026-09-29',
+    description: 'Delhi High Court ne BJP vidhayak Raju Kumar Singh ki yachika par nichli adalat ki doshsiddhi ke faisle par turant rok lagane se inkar kar diya; adalat ne doshsiddhi nilambit karne ki yachika par Delhi Police se aupcharik jawab talab kiya aur mritaka ke pidit parijanon ko bhi apna paksh rakhne ka nirdesh diya. Pehle High Court ne apeal ke lambit rehne aur tvarit antim sunwai sambhav na hone ke aadhar par 4 saal ki jail ki saja ko nilambit karke zamanat ki sharton par rahat di thi, lekin doshsiddhi bani rehne se vidhayak ki rajnaitik aur kanooni mushkilen badh gayi hain; sadasyata par kya prabhav padega ye aagami sunwai me court ke rukh par nirbhar karega.',
+    source: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/bihar/muzaffarpur/muzaffarpur-bihar-news-setback-for-bjp-mla-raju-singh-in-delhi-firing-case-high-court-refuses-immediately-stay-conviction-muzaffarpur-news-c-1-1-noi1376-4777537-2026-09-29',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (raju-kumar-singh):
+// 1) public.app 9 Sep 2025 paryatan mantri ke roop me "Rs 600 crore ki vikas yojanaon ka shilanyas" — pre-term (naya karyakaal Nov 2025 se) + public.app-only source, reject; 2) LiveHindustan ~Aug 2025 Sahebganj seat profile me Fatehabad me Gandak par pul nirman ki swikriti ka dawa — election-time purane karyakaal ka bayan, pre-term, reject; 3) LiveHindustan 24 Oct 2025 NDA chunav karyalaya udghatan — pre-term election, vikas-kaary nahi, reject; 4) Amar Ujala / Zee News Feb 2025 paryatan mantri padbhar ("yojanaon ko samay par poora karenge") — pre-term + sirf vaade, reject; 5) Dec 2025-Oct 2026 ke karyakaal me kisi concrete vikas-kaary (sadak/pani/school/aspataal) ki established media me reporting nahi mili — positive profile imaandari se khaali rahi; sirf 2 negative entries rakhi gayin.
+
+// COORDINATOR QA NOTE (muzaffarpur): 4 workers (W1-W4) ke fragments QA karke assemble kiya.
+// Fixes: (1) baby-kumari entry-3 (3 dharmik sthal paryatan kendra): stage 'swikriti' -> 'ghoshna' — GO/rakam report nahi hui hai, dastavezi kadam sirf sanyukt sachiv ka patra hai; (2) shankar-prasad entry-2 me 'Rajd' typo -> 'RJD'; (3) ranjan-kumar negative entry ka sourceUrl beta subdomain se canonical firstbihar.com par kiya (curl se 200 verify).
