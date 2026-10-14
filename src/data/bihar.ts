@@ -4757,7 +4757,7 @@ export const biharNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Bihar2025/candidate.php?candidate_id=335',
       backgroundNote: '',
     },
-    electionNote: '2025 me Tarapur se jeete.',
+    electionNote: '2025 me Tarapur se jeete. Nitish Kumar ke Rajya Sabha jaane par unke istife ke baad 15 Apr 2026 ko Bihar ke Mukhyamantri ke roop me shapath li — ve rajya ke pehle BJP Mukhyamantri hain.',
   },
   {
     slug: 'kumar-pranay',
