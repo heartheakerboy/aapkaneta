@@ -458,3 +458,97 @@ biharWorks['mithun-kumar'] = [
 
 // Coordinator QA note: workers ne saare sources khud khole; mere dwara qa — Kumar Shailendra ki entry 3 mantri-ban-ne (May 2026) se pehle ki hai, entry 4 mantri-padh par rehte hue kshetriya asset ka udghatan hai (disclosure diya); Rohit Pandey ki pehchan kshetra+party se pakki; Lalit Narayan Mandal ki entry me kul rashi article me spasht nahi — note me disclosed; Mithun Kumar negative: aarop (naamzad shikayat-karta) + ghatna me police janch (SSP aadesh) + jawab + no-FIR-against-MLA disclosed — do-paksh vivad hone par bhi negative bar pass; Murari Pasavan aur Shubhanand Mukesh khaali; 7/7 slugs pehle khaali the — koi overwrite nahi.
 
+
+// ---- Bhojpur district batch (researched 2026-10-14) ----
+biharWorks['radha-charan-sah'] = [];
+
+biharWorks['raghvendra-pratap-singh'] = [];
+
+biharWorks['sanjay-singh-tiger'] = [];
+
+biharWorks['mahesh-paswan'] = [];
+
+biharWorks['vishal-prashant'] = [
+  {
+    title: 'Tarari me Rs 14.68 crore ki laagat se banne wale Prakhand-sah-Anchal karyalaya bhawan ki aadhaarshila 28 January 2026 ko rakhi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News4Nation, 28 Jan 2026',
+    sourceUrl: 'https://news4nation.com/bihar/arrah/ara-tarari-political-program-nda-worker-felicitation-mla-vishal-prashant-inaugurated-projects-worth-14-crore-68-lakh-608863',
+    date: '2026-01-28',
+    note: 'Stage: shilanyas — NDA karyakarta samman samaroh me vidhayak ne swayam Rs 14.68 crore ke prashasnik bhawan (Tarari block-cum-anchal office) ki aadhaarshila rakhi; post-event reporting. Fund-srot: sarkari prashasnik-bhawan nirmaan. Credit disclosure: news4nation ki field reporting; tithi article ke Published stamp (28-01-2026 14:15 IST) se. Usi karyakram me Bis-Sutri karyalaya sah Jan Nivaran Kendra ka udghatan bhi hua, jo party-kaaryalaya prakriti ka hai isliye use alag entry nahi banaya gaya.',
+    period: '2025-2030',
+  },
+];
+
+biharWorks['sribhagwan-singh-kushwaha'] = [];
+
+biharWorks['rakesh-ranjan'] = [];
+
+// REJECT-LOG (Bhojpur district batch, researched 2026-10-14):
+// REJECT-LOG (radha-charan-sah): profile KHAALI raha — qualifying entry koi nahi mili. Live Hindustan ~31 Aug 2026 (est.) Udwantnagar Jeevika Sudha booth shubharambh — mainstream source ke mutabik DM Manesh Meena ne shubharambh kiya, vidhayak sirf maujood the; public.app version ne "vidhayak ne feeta kata" daava kiya jo contradicted hai — sirf maujoodgi, reject; public.app ~Sep 2026 Repura nala Rs 1.15 crore aadhaarshila — public.app-only, mainstream corroboration nahi, reject; public.app Feb 2026 "swasthya upakendra me chikitsak/charahdivari ka maamla sadan me uthaya" — public.app-only + sirf maang bina parinam, reject; public.app Sep 2026 interview/abhinandan — political, kaam nahi, reject; Live Hindustan 20 Dec 2025 abhinandan samaroh — sirf samaroah + "karenge" vaade, reject; niharikatimes Sep 2026 baadh-rahat vitran (94 cr DBT karyakram), bhaskar.com Panchayat Vikas Divas, rktvnews Solar Protsahan Yojna launch, nationalnewstoday.in DISHA baithak — mantri/CM karyakram me sirf maujoodgi, reject; chunav parinam/namankan/MLC-istifa coverage Nov 2025–Apr 2026 — kaam nahi, reject; ETV/News18 profile pieces — background, kaam nahi, reject. Negative note: 2023 ED money-laundering arrest (newkerala Apr 2026 MLC-bypoll article me background) — pre-term vyaktigat vyapar maamla, karyakaal me koi nayi karyavahi reported nahi — negative-entry rule ke andar nahi.
+
+// REJECT-LOG (raghvendra-pratap-singh): profile KHAALI raha — qualifying entry koi nahi mili. Karmakshetra TV 27 Apr 2025 Sunderpur Barja PCC road + akhada charhdivari shilanyas — datePublished 2025-04-27 (metadata se verify), purane 2020-25 karyakaal ka kaam, reject; Live Hindustan Sep 2026 baadh-daura reports (kaee) — sirf nirikshan/daura + nirdesh, koi documented adhikarik karyavahi-parinam nahi, reject; Live Hindustan ~Mar 2026 Chaiti Chhath drowning shok — sarkari anugrah rashi (4-4 lakh) ka routine vitran (BDO/CO maujood), MLA-initiated kaam nahi, reject; Live Hindustan Jun 2026 UP mantri Swatantra Dev Singh se Lucknow mulaqat — political mulaqat, kaam nahi, reject; public.app baadh-daura/shraddhanjali items (Sep 2026) — public.app-only, reject; namankan/chunav-parinam Oct-Nov 2025 (Amar Ujala, News18, Indian Express, Hindi News24) — kaam nahi, reject; YouTube CM India TV stadium interview (2021-era) — YouTube-only + pre-term, reject; POWERGRID Ara sub-station May 2023 — pre-term + Union mantri ke karyakram me sirf maujoodgi, reject; JP Nadda rally Prabhat Khabar Oct 2025 "Ara-Ballia pul swikriti" — Gadkari ki swikriti + chunavi bayan, MLA ki dastavezi pahal nahi, reject.
+
+// REJECT-LOG (sanjay-singh-tiger): profile KHAALI raha — qualifying entry koi nahi mili. Live Hindustan ~Mar 2026 ESIC Hospital Sikandarpur ICU/OT udghatan — mantri (state-level) bhoomika + Patna jila, Arrah seat ke bahar — scoping precedent, reject; news4social (2026) Girja Mod Arrah restaurant udghatan — private vyapar, vikas-kaam nahi, reject; YouTube NNM News Jan 2026 Banka Republic Day flag-hoisting — YouTube-only + karyakram, reject; YouTube Plus News CM Nitish Arrah medical college nirikshan — YouTube-only + CM karyakram me sirf maujoodgi, reject; public.app Sep 2026 "Arrah shehar ki samasyao par minister se sawal" — public.app-only + bayan, reject; rktvnews solar launch / nationalnewstoday.in DISHA baithak — sirf maujoodgi, reject; TOI/Live Hindustan Nov 2025 mantri-appointment + election-result coverage — kaam nahi, reject; Prabhat Khabar Sep 2026 Tej Pratap ko legal notice — doosre Sanjay Singh ka maamla (PHED mantri, Mahua MLA) — naam milta-julta galat vyakti, reject; Prabhat Khabar archive 2014 aachar-sanhita 1-month case — 2010-15 era, pre-term, reject.
+
+// ===================== REJECT-LOG: Mahesh Paswan (mahesh-paswan, Agiaon AC-195) =====================
+// 1. Prabhat Khabar, 15 Feb 2015 — Korha (Katihar) MLA Mahesh Paswan ne brick-soling road ka udghatan kiya.
+//    REJECT: naam milta-julta galat vyakti (KoDha ke MLA), Agiaon MLA nahi.
+// 2. YouTube Shorts, ~Mar 2026 — "MLA Mahesh Paswan ne Vidhan Sabha me Kusumi gaon ki sadak ka mudda uthaya".
+//    REJECT: YouTube-only source + sirf mudda uthana (maang/bayan), koi kaam nahi.
+// 3. LiveHindustan, 26 Nov 2025 — Charpokhari bazaar me nav-nirvachit vidhayak ka abhinandan samaroh. OPENED (snippet).
+//    URL: https://www.livehindustan.com/bihar/ara/story-mahesh-paswan-honored-at-charpokhari-market-promises-development-and-engagement-201764162129760.html
+//    REJECT: felicitation event + sirf vaade ("jald nidan ka ashwasan"), koi kaam nahi.
+// 4. Bhaskar, ~mid-Feb 2026 — Barap gaon (Garhani) Sadbhavna Cup cricket tournament ka udghatan vidhayak ne fita kaatkar kiya.
+//    URL: https://www.bhaskar.com/local/bihar/bhojpur/arrah/news/piro-defeated-ara-by-50-runs-and-gadhani-defeated-karisath-by-52-runs-137274699.html
+//    REJECT: khel tournament ka karyakram — sirf maujoodgi/mukhya-atithi, koi vikas-kaam nahi.
+// 5. JantaKiAawazSarkarTak, ~Jul 2026 — Garhani me "Soul Cyber Academy" + "Brother's Library" ka vidhayak ne udghatan kiya.
+//    REJECT: private sansthan ke udghatan me mukhya-atithi maujoodgi; vidhayak ka apna kaam/nidhi/sanction nahi.
+// 6. LiveHindustan, ~Jun 2026 — "Agami 22 June ko Charpokhari khel maidan ka udghatan vidhayak karenge". OPENED + READ FULLY.
+//    URL: https://www.livehindustan.com/bihar/ara/story-inauguration-of-charpokhari-sports-ground-in-piro-on-june-22-by-mla-mahesh-paswan-201781888851368.html
+//    REJECT: pre-event schedule/announcement khabar only; 22 June 2026 ke baad ki post-event reporting search me nahi mili.
+// 7. LiveHindustan, 11 Dec 2025 — Charpokhari block office me vidhayak ki jansunwai; khel maidan ki bhoomi par block bhawan nahi banega — vidhayak ka ashwasan.
+//    URL: https://www.livehindustan.com/bihar/ara/story-mahesh-paswan-holds-public-hearing-in-charpokhari-for-local-issues-201765461812867.html
+//    REJECT: sirf jansunwai + ashwasan, koi documented parinam/adhikarik karyavahi nahi (accountability-action ka saboot nahi).
+// 8. LiveHindustan, 25 Jan 2026 — Charpokhari khel maidan bachane ke dharne me sthaniya vidhayak pahunche, maang ka samarthan kiya.
+//    REJECT: dharna-samarthan = virodh/bayan, koi kaam nahi.
+// 9. LiveHindustan, 30 Apr 2026 — Bhojpur-Buxar MLC upchunav me NDA pratyashi ke samarthan me baithak, vidhayak ne sambodhit kiya.
+//    REJECT: rajnaitik prachar-baithak, koi vikas-kaam nahi.
+// 10. RKTV News, ~Dec 2025 — Bhojpur Hindu Jagran Manch ne nav-nirvachit vidhayak ka abhinandan kiya.
+//    REJECT: ceremonial abhinandan, koi kaam nahi.
+// 11. public.app video, ~Jun 2026 — Piro ke Amorja me khel maidan udghatan me "vidhayak Mahesh Paswan" (Piro, Tarari AC me hai — naam-pahchan bhi sandigdh).
+//    REJECT: public.app-only source per standing rules.
+// Conclusion: NO qualifying entry. Profile khaali rahegi.
+
+// ===================== REJECT-LOG: Vishal Prashant (vishal-prashant, Tarari AC-196) =====================
+// Pita Sunil Pandey se jude koi mamla is profile me nahi liya gaya (parivar-niyam).
+// 1. Jagran, 18 Jan 2025 — viral video: 15 Jan 2025 ko Jan Samasya Nivaran Kendra udghatan me "utha ke phenk denge" bayan.
+//    URL: https://www.jagran.com/bihar/bhojpur-a-circulated-video-of-bjp-mla-vishal-prashant-remains-a-topic-of-discussion-23868676.html
+//    REJECT: purana karyakaal (Nov 2025 se pehle) + bayan/vivad, koi vikas-kaam nahi. (ETV Bharat/IANS/suryaa ke same-video pieces bhi reject.)
+// 2. LiveHindustan, 17 Jan 2026 — CBSE ke do-divasiya Magh mele ka vidhayak ne fita kaatkar udghatan kiya.
+//    URL: https://www.livehindustan.com/bihar/ara/story-inauguration-of-cbse-makar-mela-inspiration-for-students-and-parents-by-mla-vishal-prashant-201768662316670.html
+//    REJECT: school ke apne mele me mukhya-atithi maujoodgi; vidhayak ka apna kaam/nidhi/sanction nahi.
+// 3. LiveHindustan Brand-posts (29 Oct 2025, Oct 2025) — chunav-prachar brand posts ("sampurna vikas hamra sankalp").
+//    REJECT: paid brand-post + chunavi prachar, koi kaam nahi.
+// 4. LiveHindustan, 20 Jan 2026 — Piro me Swadeshi jagrookta karyashala ka udghatan.
+//    REJECT: party karyakram, vikas-kaam nahi.
+// 5. News4Nation, 29 Jan 2026 — Sahar me BJP karyalaya sah Jan Nivaran Kendra ka udghatan. OPENED + READ FULLY.
+//    URL: https://news4nation.com/bihar/arrah/tarari-mla-vishal-prashant-inaugurated-the-bjp-office-in-sahar-544562
+//    REJECT: party office ka udghatan — party-kaam, vikas-kaam nahi.
+// 6. YouTube + News4Nation, ~Aug 2025 — Piro Bachri College maidan me mantri Ashok Choudhary ne Rs 190 crore ki 76 sadkon ka udghatan/shilanyas kiya; MLA maujood.
+//    URL: https://news4nation.com/bihar/arrah/bhojpur-s-tarari-assembly-constituency-gets-the-gift-of-development-577364
+//    REJECT: purana karyakaal (Nov 2025 se pehle) + mantri ke karyakram me sirf maujoodgi (shilanyas mantri ne kiya).
+// 7. Sonemattee — Sone Expressway ke liye MLA ne CM ko gyapan saunpa.
+//    REJECT: sirf maang/gyapan, koi outcome nahi.
+// 8. LiveHindustan, 17 Nov 2025 — nav-nirvachit vidhayak CM Nitish Kumar se mile.
+//    REJECT: shubhkamna/courtesy meeting, koi kaam nahi.
+// 9. News18 Hindi (Tarari traders article, Nov 2025) — ek vyapari ka dawa: "9 mahino me 900 crore ka fund laya".
+//    REJECT: unverified chunavi coverage ka dawa; koi GO/tender/nidhi-sanction saboot nahi (ghoshna-type daava).
+// Conclusion: 1 qualifying entry.
+
+// REJECT-LOG (sribhagwan-singh-kushwaha): LiveHindustan 23 Nov 2025, "Jagdishpur ki 91 sadkon ka hoga udghatan" — sirf "karenge" ghoshna (pre-event), post-event reporting nahi — pre-event vaada, reject; LiveHindustan ~Jun 2026, Dalippur abhinandan samaroh — "1 mahine me 100 nayi vikas yojnaon ka shilanyas kiya jayega" + Veer Kunwar Singh kila ka 72 crore kayakalp + 100 betiyon ko apni nidhi se 10-10 hazar — sab ghoshnaen ("kiya jayega"/"banega"/"denge"), koi post-event saboot nahi — ghoshna-type, reject; LiveHindustan 27/28 Jan 2026, Purvi Ayar shraddhanjali sabha — Mahadalit tola me Mata Sabri samudayik bhawan "banega" — future vaada, reject; LiveHindustan 28 Nov 2025, Jeevika CM corruption exposure — 21 CM ki shikayat-list Jeevika director ko, karravai ki maang — shikayat/maang, adhikarik karravai ka documented parinam nahi — accountability parinam ke bina, reject; Bhaskar ~Feb 2026, Kedar Multi Specialty Hospital Dumraon ka udghatan — private hospital (director ka apna project), MLA mukhya atithi ke roop me — private karyakram me maujoodgi, vikas-kaam nahi, reject; LiveHindustan (Buxar), Chhanvath gaon (Nawananagar block, Buxar) me Ashok Stambh shilanyas + Ashok Dwar udghatan — mantri ke roop me doosre jile ka daura, Jagdishpur kshetra ka kaam nahi — reject; LiveHindustan 30 Apr 2026, kila ko rashtriya smarak/DPR 55 crore ka CM ko patra — sirf maang/report, reject; YouTube-only — Sant Barahna Mahila College program par Bhai Dinesh ke "gaban" aarop + janch ki maang — YouTube-only + sirf aarop/maang, reject; Bhaskar ~Oct 2025, Dalippur PCC road ka udghatan — purane vidhayak Ram Vishun Singh ka kaam, karyakaal se pehle — pre-tenure/galat vyakti, reject. Khaali profile: imaandari se jodna nahi bana.
+
+// REJECT-LOG (rakesh-ranjan): LiveHindustan 4 Jan 2026, Shahpur NDA karyakarta samman samaroh — political event, kaam nahi, reject; LiveHindustan 19 Dec 2025, CM Nitish se milkar vikas gyapan (sadak/sinchai) — sirf maang/gyapan, reject; khabreapki.com ~Oct 2026, Nitin Gadkari se NH-922 underpass/service lane ki maang — sirf maang, reject; LiveHindustan 26 Dec 2025, Jawainiya visthapiton ko garam vastra vitran (Veer Vishweshwar Ojha Memorial Trust) — charity, sanction-backed vikas-kaam nahi, reject; LiveHindustan/Bhaskar ~Jul 2026, vidhan sabha shunyakal me Jawainiya Ganga katav-rodhi boulder pitching me vilamb ka mudda uthaya — sirf maang/sawal, reject; LiveHindustan 7 Aug 2026, Bhagalpur jail adhikshak par hatya ki sajish ka aarop, vidhayak ne swayam FIR darj karai — vidhayak complainant hain, unke khilaf aarop nahi — negative entry nahi banti, reject; Bhaskar ~May 2026, katav-rodhi karyasthal par jhadap, chacha Mukteshwar Ojha samet 10 par FIR — parivar ka mamla MLA par kabhi nahi, reject; YouTube-only — electric scooty showroom ka udghatan — YouTube-only + private commercial karyakram, reject; Bhaskar Jan 2026, Swami Vivekanand Jayanti samaroh me vishesh atithi — sirf maujoodgi, reject; LiveHindustan 15 Nov 2025, praman-patra ke baad puja-paath/shubharambh — dharmik karyakram, kaam nahi, reject. Khaali profile: imaandari se jodna nahi bana.
+
+// Coordinator QA note: worker-1/2/3 fragments assemble kiye; saare titles/notes Roman Hinglish, 0 Devanagari/₹; badges valid; vishal-prashant ki entry (28 Jan 2026, Tarari block-cum-anchal office aadhaarshila Rs 14.68 cr, News4Nation post-event) personally verify ki — party-office wala hissa alag entry nahi bana; 6/7 profiles khaali; sabhi slugs pehle khaali the, koi overwrite nahi.
