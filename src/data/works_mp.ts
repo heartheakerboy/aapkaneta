@@ -7522,3 +7522,136 @@ mpWorks['shalendra-kumar-jain'] = [
 // shalendra-kumar-jain — Jhalkari Bai nirikshan + 22 Nov 2026 future event, Seva Jyoti Yatra maujoodgi, Tili auditorium (Dy CM ne kiya), Bundelkhand Medical College review, Moti Nagar road nirikshan, railway overbridge (PWD mantri ne kiya), boat club (tourism mantri ne kiya), Tamrakar bhavan/Jain High School/Gaudham shed/Sanjeevani clinic bhavishya ghoshnaen, Vijayvargiya ko maang-patra (sirf maang), gau ambulance nirikshan. Negatives reject: Rajdar News blackmail (wo khud peedit), Sagar Vani mandir case (court unke paksh me), bhai Sunil Jain Delhi FIR (parivar ka mamla).
 // veerendra-singh-lodhi: PROFILE KHAALI — CM Banda daura 50.65cr (sab kaam CM ne kiye, MLA ki bhoomika report nahi), Shahgarh jahreeli-sharab tragedy (unke khilaf koi FIR/case/janch nahi — negative bar fail), election/profile coverage, UP Banda ki khabrein (kshetra-bahar), YouTube-only.
 // COORDINATOR QA NOTE (2026-10-14): (1) rajput ki Surkhi CC sadak (no-stage, no-amount) aur JCB-machine entries HATA di — press-note filler, kaam nahi; (2) Rahatgarh ke 23 items (pratyek ka alag stage khabar me specify nahi tha — worker ne khud admit kiya) ko 1 consolidated karyakram-entry me merge kiya — 23 over-confident entries banana imaandari se bahar hota; (3) lariya ki Rs 8.03cr "takneeki swikriti" entry HATA di — single chhota portal, bina GO pushti, Penchi-Kumbhraj/Panna-Lodhi precedent; (4) worker regex ne pichli assembly me 3 entries chhod di thi — is baar sab 65 worker entries parse-verify ki gayin.
+
+// ---- Satna district batch (researched 2026-10-14) ----
+
+// Coordinator QA (2026-10-14): 9 entries pass; 3 profiles honestly empty (Gahrwar, Kushwaha, Vicky).
+
+// Nagendra Singh = Nagod wala (Khajuraho ex-MP); Gurh (Rewa) wala alag vyakti — identity verify ki gayi.
+
+mpWorks['surendra-singh-gahrwar'] = [
+];
+
+mpWorks['pratima-bagri'] = [
+  {
+    title: 'Raigaon ki 5 gram panchayaton me kul Rs 3.52 crore ki Jal Jeevan Mission nal-jal yojnaon ka unke dwara lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'My Secret News, 12 Aug 2024',
+    sourceUrl: 'https://mysecretnews.com/inauguration-of-single-tap-water-scheme-of-5-gram-panchayats-in-satna/',
+    date: '2024-08-11',
+    note: 'Raigaon vidhan sabha kshetra ke bhraman ke dauran unhone khud 5 gram panchayaton ki ekal nal-jal yojnaon ka lokarpan kiya: Itma Rs 93 lakh, Dhaurahara Rs 95 lakh, Paikori Rs 84 lakh, Khadaura Rs 43 lakh aur Nachnaura Rs 37 lakh. Itma, Dhaurahara aur Paikori me 12 meter unchi 100 KL kshamta ki uchch-stariya tanki aur 20 KL sampwell bhi bane hain. Stage lokarpan hai kyonki kaam poora ho chuka tha aur unhone khud udghatan kiya. Fund srot Jal Jeevan Mission sarkari yojna hai (kendra-rajya sarkari, vidhayak-nidhi nahi). Credit-pardarshita: rajya-pariyojna ka shrey unhe isliye diya ja raha hai kyonki article me unke dwara vyaktigat lokarpan spasht hai. Disclosure: srot mysecretnews.com ek chhota portal hai. Bargi nahar se sinchai-jal laane ka bayan bhavishya ki ghoshna thi, entry nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Raigaon me ANM-Asha-Anganwadi karyakartaon ke liye unki pahal par 6 swasthya-jaanch shivir, Sohawal-Kothi me 427 jaanchein poori',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar (Vocal TV), 9 Oct 2024',
+    sourceUrl: 'https://vocaltv.in/madhya-pradesh/family-will-remain-strong-if-the-mother-power-is-hphp/cid15503404.htm',
+    date: '2024-10-09',
+    note: 'Article me spasht likha hai ki ye shivir unki pahal par lagaye ja rahe hain. Matri suraksha divas ke avsar par Sohawal PHC aur Kothi CHC me unhone swayam shivir ko sambodhit kiya aur Sohawal civil hospital ka nirikshan bhi kiya. Sohawal me 157 aur Kothi me 270 kul 427 maidaani karyakartaon ki BP, sugar, anaemia aur breast-cervical-oral cancer ki praarambhik jaanch hui; Kothi me 35 logon ko chashma diye gaye aur 3 motiyabind rogi surgery ke liye refer hue; cancer ke sabhi parikshan negative rahe. Kul 6 shivir lagne the (Sohawal, Kothi, Shivrajpur, Nagod, Raigaon, Singhpur); report ke samay 2 poore ho chuke the isliye stage poora hai. Caveat: wire agency ke daave anusaar sabhi 6 Raigaon vidhan sabha me hain, lekin Nagod vaastav me alag vidhan sabha seat hai; dono poore hue shivir Sohawal aur Kothi nishchit roop se Raigaon seat me hain. Fund srot sarkari swasthya vibhag ka niyamit matri-suraksha-divas karyakram hai, vidhayak-nidhi nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Raigaon ke Podi-Mankhari marg ki kharab gunvatta par unke nirikshan ke baad thekedar ka registration 1 saal ke liye radd',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'NDTV, Dec 2025',
+    sourceUrl: 'https://www.ndtv.com/india-news/video-madhya-pradesh-minister-finds-new-road-crumbling-under-her-feet-9901828/amp/1',
+    date: '2025-12-21',
+    note: 'Yeh nirmaan karya ki entry nahi, gunvatta-karyavahi ki entry hai. Kothi tehsil (Raigaon vidhan sabha) ke Podi-Mankhari marg ka navin-nirman poora ho chuka tha, lekin 21 Dec 2025 ko unke nirikshan me sadak pairon tale dhans gayi aur kaam jagah-jagah toota mila. Unhone mauke par turant thekedar ka kaam radd karne ke aadesh diye aur PWD Executive Engineer ko kadi phatkaar lagayi. Isi din PWD EE BR Singh ke aupcharik prastav par SE Rewa KK Lakshya ne thekedar Rajesh Kumar Kaila ka registration 1 saal ke liye radd kar diya aur sarkari thekon me bhag lene par bhi rok laga di. Karyavahi-chain dastavezi hai (nirikshan se aadesh se radd), isliye stage satyata: marg ka kaam poora tha (kharab gunvatta sahit) aur us par karyavahi sampann hui. Fund srot PWD sarkari karya hai. Neta ke viruddh koi aarop nahi, isliye ye negative entry nahi balki unki concrete bhoomika wali entry hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dabbu-siddharth-sukhlal-kushwaha'] = [
+];
+
+mpWorks['nagendra-singh'] = [
+  {
+    title: 'Nagod me kul Rs 6.88 crore ki 5 grameen sadakon ka bhoomi-pujan — vidhayak ne swayam kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bebak Shakti, 31 Oct 2024',
+    sourceUrl: 'https://bebakshakti.com/61414/',
+    date: '2024-10-31',
+    note: 'Article ke mutabik Nagod vidhayak Nagendra Singh ne 5 sadak margon ka swayam bhoomi-pujan kiya: mukhya marg Amsil-Dharampur se Jamunatur (Rs 50 lakh), Semri-Pawaiya road se Sahajni (Rs 1.25 crore), Katan road se Itaura (Rs 1.57 crore), Nagod-Saleha marg se Belhai hote hue Katan (Rs 1.57 crore), Rampura se Dhamnaha-Tighra mod (Rs 1.99 crore) — kul Rs 6.88 crore. Karyakram me BJP jila mantri, mandal prabhari aur karyakarta maujud the. Status: bhoomi-pujan/shilanyas — nirman shuru hona tha, purnata ki alag khabar nahi mili. Credit-pardarshita: ye sarkari grameen-sadak pariyojnaen hain (article me Atal Bihari Vajpayee ki gaon-jodne ki parikalpana ka ullekh; yojna/fund ka naam spasht nahi, sansad-nidhi ka daava nahi); unki concrete bhoomika bhoomi-pujan-karta ke roop me spasht hai. Swikriti ka daava nahi kiya gaya (koi GO/tareekh nahi). Disclosure: chhota sthaniya portal (byline Tulsi Das Bairagi); site par tithi display nahi hoti, tithi article ki embedded photo filename (img-20241031) aur search-index metadata se li gayi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shaskiya High School Kodar me Rs 4.13 lakh ki lagat se vidhayak nidhi se nirmit rangmanch ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Bebak Shakti, Mar 2025',
+    sourceUrl: 'https://bebakshakti.com/63342/',
+    date: '2025-03-31',
+    note: 'Article ke mutabik Nagod vidhayak Nagendra Singh Judeo ne shaskiya high school Kodar me kala-sanskriti gatividhiyon ke liye vidhayak nidhi se Rs 4.13 lakh ki lagat se nirmit rangmanch ka feeta kaat kar lokarpan kiya; karyakram me SDM, naib tehsildar, block shiksha adhikari, sarpanch aur school pracharya maujud the. Status: lokarpan — kaam poora. Credit-pardarshita: fund vidhayak nidhi (article me spasht ullekh) aur lokarpan swayam vidhayak ne kiya — concrete bhoomika. Disclosure: chhota sthaniya portal; site par tithi display nahi hoti, tithi search-index metadata ke mutabik ~Mar 2025 (anumaanit).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Panchayat Jaso (Raikara talab) me Rs 18 lakh ke Raja Anand Pratap Singh Judeo samudayik park ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bebak Shakti, Jan 2025',
+    sourceUrl: 'https://bebakshakti.com/62382/',
+    date: '2025-01-30',
+    note: 'Article ke mutabik Nagod vidhayak Nagendra Singh Judeo ne janpad panchayat Nagod ki gram panchayat Jaso me Raikara talab ke paas Rs 18 lakh se nirmit Raja Anand Pratap Singh Judeo samudayik park ka lokarpan kiya; unhone 6 mahine pehle iska bhoomi-pujan bhi kiya tha. Karyakram ki adhyakshata janpad panchayat adhyaksh ne ki; SDM, tehsildar, janpad CEO aur sarpanch maujud the. Status: lokarpan — park poora. Credit-pardarshita: bhoomi-pujan aur lokarpan dono swayam vidhayak ne kiye — concrete bhoomika; fund srot article me spasht nahi (vidhayak nidhi ka daava nahi kiya gaya). Disclosure: chhota sthaniya portal (byline Tulsi Das Bairagi); site par tithi display nahi hoti, tithi search-index metadata ke mutabik ~Jan 2025 (anumaanit).',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['shrikant-chaturvedi'] = [
+  {
+    title: 'Maihar collectorate office ke paas Namo Upvan ka lokarpan, neem-bargad-kadam-palas sahit 22 paudhon ka ropan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navbharat, 17 Sep 2025',
+    sourceUrl: 'https://navabharat.com/?p=295542',
+    date: '2025-09-17',
+    note: 'Rajya sarkar ke Seva Pakhwada abhiyan ke tahat Maihar collectorate office ke paas Namo Upvan ki sthapna hui; MLA Shrikant Chaturvedi aur Collector Rani Batad ne feeta kaatkar lokarpan kiya aur usi avsar par neem, bargad, kadam, palas sahit 22 aushadhi aur faldar paudhe lagaye gaye. Stage poora (lokarpan ho chuka). Fund srot rajya sarkar ka abhiyan hai, vidhayak-nidhi nahi. Credit-pardarshita: MLA ki bhoomika uddghatan/lokarpan tak seemit hai, ye unki apni nidhi-pahal ka parinam nahi; Navbharat ne swatantra roop se lokarpan report kiya, koi rakam prakashit nahi hui.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhan Sabha me school marammat ghotale ka dhyanaakarshan — Maihar me 17 adhikari-karmchari par karyavahi, poore pradesh me jaanch ka aashwasan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 26 Feb 2026',
+    sourceUrl: 'https://www.amarujala.com/madhya-pradesh/bhopal/mp-news-scam-in-the-name-of-school-repair-in-mahair-fir-against-17-now-the-officer-has-been-removed-and-inv-2026-02-26',
+    date: '2026-02-26',
+    note: 'MLA ne MP Vidhan Sabha me dhyanaakarshan ke zariye school bhavanon ki marammat-marammaat mad ki rashi ke durupyog ka mudda uthaya; Maihar zile ka udaharan dete hue daava kiya ki wahan 22 FIR darj hui hain aur ek block me karodon Rs ki aniyamitta samne aayi hai. School Shiksha Mantri Uday Pratap Singh ne sadan me sweekara ki Maihar me collector se jaanch karane par 17 adhikari-karmchari par karyavahi hui, sambandhit thekedaron par kadam uthaye ja rahe hain, aur poore pradesh me jaanch karane ka aashwasan diya. Stage poora — karyavahi ho chuki aur mantri ka jawab sadan me on-record hai. Fund srot sarkari yojna (school marammat mad). Credit-pardarshita: mudda uthana MLA ki dastavezi pahal thi, karyavahi prashasan aur mantri ki hai; Amar Ujala established media hai. MLA par koi aarop nahi — ye unki jagrookta-pahal ka parinam hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dr-rajendra-kumar-singh'] = [
+  {
+    title: 'Ramnagar Nagar Parishad ko vidhayak-nidhi se 4 pani ke tanker pradan (hastantaran samaroh)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Republic News Nation, 28 May 2025',
+    sourceUrl: 'http://www.republicnewsnation.com/2025/05/blog-post_667.html',
+    date: '2025-05-28',
+    note: 'Amarpatan ke vidhayak Dr. Rajendra Kumar Singh ne apni vidhayak-nidhi se Ramnagar Nagar Parishad ko 4 pani ke tanker dilaye. Nagar parishad parisar me 28 May 2025 ko aayojit samaroh me tankeron ki saumpne ki prakriya poori hui; parishad adhyaksha Deepa Deepu Mishra, parshadon, sthaniya nagrikon aur adhikariyon ki upasthiti me vidhayak ne bharosa dilaya ki garmi me nagrikon ko pani ki samasya na ho. Kaam poora ho chuka hai (tanker pradan) aur fund srot spasht roop se vidhayak-nidhi bataya gaya hai. Credit-pardarshita: unki apni nidhi se poora kharch. Chhota portal hai (disclosure) lekin samroh ki reporting post-event hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['vikram-singh-vicky'] = [
+];
+
+
+
+// REJECT-LOG surendra-singh-gahrwar: (none)
+
+// REJECT-LOG pratima-bagri: Satna nagar nigam ward 40-41 naliyon ka Rs 84.67 lakh bhoomi-pujan (navabharat, Sep 2026) aur Dhavari ward 32/31 fire station Rs 33.74 lakh + pavers road Rs 16.83 lakh (livevns, May 2025) — dono Satna shahar ke nagar-nigam kaam hain, Raigaon seat se bahar aur unke nagariya vikas vibhag ke mantri-bhoomika wale, kshetra-bahar + vibhag-stariya. Satna me Rs 146 crore sadak-pul bhoomi-pujan (PWD mantri Rakesh Singh ne kiya; vayambharat/yashbharat, ~Mar 2026) — unki sirf maujoodgi. Chitrakoot Swadesh Darshan 2.0 me PM ke shilanyas karyakram (banshidharnews, Mar 2024) — sirf vishesh upasthiti; Chitrakoot alag seat bhi hai. Matrishakti Sammelan Singhpur me CM Mohan Yadav dwara 232 karyon (Rs 93.18 cr) ka lokarpan/bhoomi-pujan (indiatv/indianmasterminds, 26 Jul 2025) — CM ne kiya, unki sirf maujoodgi/bhashan; unka Rs 503 crore ka daawa itemized nahi. Singhpur solar plant — CM ki bhavishya-ghoshna (karenge). Shyama Multispeciality Hospital Satna ka udghatan — private aspatal, sarkari vikas karya nahi. Sohawal ko nagar parishad banane ki maang (Patrika, ~Feb 2026) — ACS ko patra matra, feasibility stage, sirf maang. Goraiya-Rampura sadak ki shikayat (etvbharat, Jul 2026) — sadak na hone ki khabar, koi sampann karya ya karyavahi nahi. Jati-pramanpatra vivad (thesootr Mar 2025 / HT Jul 2025) — vyaktigat kaanuni mamla; jati jaanch samiti ne pramanpatra barkarar rakha, unke viruddh koi case/FIR nahi. Bhai Anil Bagri ki ganja-tasdkari giraftari (NDTV) — parivar ka mamla, MLA par entry kabhi nahi. Sandipani school Dindori ka online lokarpan (satyaprahar, Sep 2026) — Dindori jila, prabhari mantri ke roop me, kshetra-bahar + vibhag-stariya. Jalebi banana video (etvbharat, Nov 2024) — karya nahi. Seva mera yogdaan swachhata shramdaan (blogspot-only, Oct 2026) — karyakram matra, srot bhi reject.
+
+// REJECT-LOG dabbu-siddharth-sukhlal-kushwaha: INC, Satna AC-63 (karyakaal Dec 2023 se; 2018 se lagatar MLA, 2024 Lok Sabha haar). 6 search round (Hindi+English) me koi thos kshetra-kaam (unke dwara lokarpan/bhoomi-pujan, nidhi se swikrit kaam, dastavezi pahal jiska seedha parinam) nahi mila; coverage lagbhag poori tarah virodh-rajniti par kendrit. (1) Patrika (2020) 'Aapki Sarkar Aapke Dwar' me 5 karyon (panchayat bhavan, anganwadi, PHC bhavan Rs 1.31 crore aadi) ka bhoomi-pujan — REJECT pre-term (Dec 2023 se pehle; 2018-2023 karyakaal). (2) Amar Ujala 2024-09-07: Satna railway station punarvikas (Rs 265.32 crore) karyakram ki adhyakshata; shubharambh sansad Ganesh Singh ne kiya — REJECT sirf maujoodgi/adhyakshata, shrey sansad ka. (3) ETV Bharat / Bhaskar English 2025-09-11: Shivraj Singh Chouhan ka kafila rokar khad-sankat par narebazi — REJECT virodh/dharna. (4) Star Samachar: CM ke ISBT lokarpan karyakram me shamil lekin manch saajha nahi kiya; 'kale jhande' afwah — REJECT sirf maujoodgi + virodh. (5) Bhaskar Hindi 2025-05-08: DMF me Rs 51.64 crore ke 547 kary yojna me; MLA sirf baithak me maujood — REJECT sirf maujoodgi, koi concrete bhoomika nahi. (6) Newshunter/IndiaWebNews 2024: medical college budget katoti (Rs 550cr se 383cr) par 'gumshuda' poster, MLA ka virodh — REJECT virodh/bayan, shrey yogya kaam nahi. (7) News18 2025-08-29: jila adhyaksh banne par talwar se cake katna — REJECT kaam nahi. (8) Amar Ujala 2024-09-11: SDM se garba anumati par nok-jhonk — REJECT. (9) TimelineDaily: 2022 train me mahila chhedchhad ka aarop — REJECT: pre-term, koi FIR/case/janch-karyavahi ki pushti nahi, MLA ne khandan kiya. (10) Lok Sabha 2024 chunaav coverage, OBC adhyaksh niyukti, cake-video — REJECT, kaam nahi. NOTE: vidhayak-nidhi se koi swikriti/report established media me nahi mili; kamzor attribution se behtar khaali profile.
+
+// REJECT-LOG nagendra-singh: (1) ETV Bharat 4 Sep 2024 — tractor se vikas-karyon ka jayaza, Chandkui gaon — sirf nirikshan/daura, reject. (2) Sadhna Express — Gudh (Rewa) vidhayak Nagendra Singh ki Rs 17.82 crore sadak swikriti — GALAT-VYAKTI (Gudh, not Nagod), reject. (3) Zee News tunnel lokarpan article — Gudh vidhayak ka dard — galat-vyakti, reject. (4) LiveHindustan Farrukhabad + farrukhabaddarpan — Nagendra Singh Rathaur, Bhojpur (UP) — galat-vyakti, reject. (5) Amar Ujala — Bhojpur vidhayak ko 6 mahine ki saza — wahi Rathaur (UP), galat-vyakti, reject. (6) Hindimilap — Danam Nagendra (Telangana) — galat-vyakti, reject. (7) YouTube interviews (Aryan Sharma, Chakachaundh) — YouTube-only, koi work news nahi, reject. (8) public.app — Babupur gaon sadak bhoomi-pujan 29 Apr 2025 — public.app-only srot + sirf maujoodgi ka ullekh, reject. (9) public.app — Nagod railway station nirmaan ka avalokan — public.app-only + sirf nirikshan, reject. (10) YouTube — street-light udghatan video — YouTube-only, reject. (11) Vandebharatlivetvnews 17 Jul 2026 — patwari sangh ka gyapan — sirf maang/gyapan, reject. (12) NDTV — Nagod rajgharana golikand — parivar ka mamla (bhatije Baba Raja ki FIR), MLA par koi aarop/karyavahi nahi, reject. (13) Sansad-kaal (2014-2024 Khajuraho MP) ke kaam — scope se bahar; Dec 2023 se pehle ka koi kaam nahi liya.
+
+// REJECT-LOG shrikant-chaturvedi: BJP, Maihar AC-65, karyakaal Dec 2023 se. (1) public.app 2025-12-10: Gra.P. Devra me vidhayak-nidhi se Rs 15 lakh ki RCC sadak ka bhoomi-pujan, MLA mukhya atithi — REJECT: public.app-only srot. (2) public.app 2025-11-17: Pala gaon me RCC sadak ka bhoomi-pujan, MLA mukhya atithi — REJECT: public.app-only srot. (3) YouTube 'varshon purani sadak ki maang poori, PCC sadak ka udghatan' (PMTNEWS) — REJECT: YouTube-only, Maihar/Shrikant ki pushti bhi nahi. (4) rpkpindianews.com 'Do Saal Bemisal' (Dec 2025): MLA ke apne karyakram me khud ke daave (2000 crore swikriti, Dhanwahi micro irrigation Rs 54 crore, vidhayak-nidhi se Rs 34 crore, Berma school Rs 1.51 crore, Nagariya Vikas Rs 210 crore package aadi) — REJECT: swatantra verification nahi, itemized sarkari press-vigyapti bhi nahi. (5) Dhanwahi sookshm dabav sinchai (Rs 53.73 crore, Maihar+Katni) — REJECT: state cabinet swikriti, CM ne bhoomi-pujan kiya; MLA ki sirf maujoodgi. (6) ETV Bharat 2025-04-06: CM ka Maihar me Rs 71 crore karyon ka bhoomi-pujan (Sharda Lok phase-1 Rs 9 crore sahit) — REJECT: CM ka karyakram, MLA sirf maujood. (7) IBC24/Ladli Behna event: CM dwara bhoomi-pujan/lokarpan — REJECT: sirf maujoodgi. (8) Bhaskar model anganwadi lokarpan: CSR-funded, mantri Radha Singh ne lokarpan kiya, MLA sirf maujood — REJECT: sirf maujoodgi. (9) vandebharatlivetvnews: shasakiya aspatal me raktdan shivir ka shubharambh — REJECT: ek-divasiya shivir ka udghatan, durable kaam nahi. (10) narmadanchal.com 'vidhayak nidhi se CC road' — REJECT: galat vyakti (Sitasaran Sharma, Hoshangabad). (11) YouTube 'Vidhan Sabha me bhoomi-pujan' Vinod Chaturvedi — REJECT: galat vyakti. (12) starsamachar.com 2025-08-25: vidhayak-nidhi se Rs 20 lakh udyaniki nursery kaam na hone ka MLA ka aarop, krishi samiti ne 3-sadasya verification ka aadesh diya — REJECT: sirf shikayat + jaanch ka aadesh, antim parinam agyat; chhota portal. (13) Election profiles (News18, Business Standard, Wikipedia, Zee, TV9): pre-term/kaam nahi — REJECT. MLA ke viruddh koi controversy/FIR nahi mili (affidavit me 0 criminal cases).
+
+// REJECT-LOG dr-rajendra-kumar-singh: (1) khabardigital.com (Nov 2025) - 20-diniya anshan avaidh sharab/cough syrup ke khilaf - virodh/dharna, kaam nahi; (2) bhaskarenglish.in + zeenews (2024) - sadhus ko "saand" kahne wala bayan + Jitu Patwari ka bayan - sirf bayan/vivaad, kaam nahi; (3) etvbharat.com (Aug 2025) Mukundpur/Riwa merger + livehindustan (Aug 2025) - 6 panchayaton ke vilay ke khilaf virodh - virodh, kaam nahi; (4) Dainik Bhaskar + news4social (Mar 2026) - vidhayak-nidhi gates par Sonia/Rahul Gandhi ki photo lagane par Collector ko shikayat - negative entry rule: sirf shikayat, koi FIR/case/janch-karyavahi report nahi, isliye no entry; (5) etvbharat.com interview (Nov 2023, pre-term) - vachanpatra committee baatcheet - election-time baatcheet, kaam nahi; (6) youtube.com Vindhya Times (May 2025) - vidhan sabha me Maihar collectorate bhavan ka mudda uthaya - sirf sadan me sawal, kaam nahi; (7) NDTV MP CG (Feb 2026) - budget satra me Rewa-Amarpatan-Maihar-Katni-Ramnagar-Sidhi-Singrauli railway line ka ashaskiya sankalp - sirf prastav, kaam nahi; (8) zee assets photo gallery (2023) - sampatti/halafnama report - kaam nahi; (9) thesootr + zee (2022) - Mood-of-MP-CG election analysis pieces - pre-term, kaam nahi; (10) amarujala (Jan 2025) - Dy CM Rajendra Shukla ne Civil Hospital Amarpatan ko lift/blood bank ke saughaat diye - Rajendra Kumar Singh ki koi concrete bhoomika article me nahi - attribution nahi.
+
+// REJECT-LOG vikram-singh-vicky: YouTube-only report (Mukesh Tripathi, Jul 2026) — MLA ne 19 Jun 2026 ko CMHO Satna ko patra likhkar Rampur Baghelan CHC ki Rs 30 lakh digital X-ray machine ke liye technician manga; ye sirf-maang hai, koi sampann/shilanyas/swikriti ka kaam nahi, aur source bhi YouTube-only (reject). FB/IG posts (@vikramsinghbjpmp, 2026 ke jansunwai/janta-darbar reels) — sirf maujoodgi/sabha, koi concrete karya nahi; FB/IG links source ke roop me waise bhi reject. myneta.info affidavit ka 1 pending criminal case (Crime No.373/03, PS Rampur Baghelan, charges framed 06 Sep 2014, Special Judge MP/MLA Jabalpur) — pre-term mamla, current-term me established media reporting + karyavahi + neta ka jawab teenon nahi; negative-entry niyam anusaar no entry. Election-result/affidavit pages (News18, Business Standard, TOI, Oneindia) — karya-khabar nahi, reject. Bhaskar/Patrika/Jagran/naidunia/FreePress/etvbharat par karya se judi koi khabar mili hi nahi — lagbhag 12 alag-alag Hindi + English + news-vertical queries me sirf election aur affidavit result aaye.
