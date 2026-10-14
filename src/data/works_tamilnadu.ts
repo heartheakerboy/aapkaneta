@@ -2165,3 +2165,60 @@ tamilNaduWorks['nivedha-m-murugan'] = [
 // 14. fishery.news "Tamil Nadu CM Stalin unveils new fisheries infrastructure" (~2023) — pre-May 2026; MLA sirf maujood = reject.
 
 // COORDINATOR QA NOTE (Mayiladuthurai, 15 Oct 2026): 3/3 MLA researched (3 parallel workers), teeno profiles imaandari se khaali (0 entries). Sabhi reject-logs Roman Hinglish me; 0 Tamil/Devanagari script, 0 Rs-symbol issues, 0 literal-\n; entry objects me 0 comments. Teenon slugs append se pehle file me 0 matches the — koi overwrite nahi.
+
+
+// ---- Nagapattinam district batch (researched 2026-10-15) ----
+tamilNaduWorks['m-h-jawahirullah'] = [
+];
+
+// REJECT-LOG (m-h-jawahirullah):
+// 1. The Hindu, 2026-09-23 — Welfare distributed to 43 beneficiaries in Nagapattinam (MLA ne Collector ke saath Revenue/Disaster Management camp me Rs 13.91 lakh ki welfare assistance baanti). REJECT: rule me vyaktigat welfare/aapda-raahat type khabar par entry nahi banti; koi sarkari suvidha ka lokarpan/shilanyas nahi tha.
+// 2. DT Next, 2026-06-19 — Release White Paper on Muslims' welfare, urges MMK president Jawahirullah (Assembly me Governor ke address par dhanyavad prastav ki bahas me demands). REJECT: sadan me bhashan/maang; koi documented administrative outcome ya assurance nahi.
+// 3. Times of India (Trichy), 2026-10-08 — Declare Nagai dist as drought-hit: MLA (Cauvery paani ki kami par zila ko sukha-peedit ghoshit karne ki maang, crop-loan maafi ki maang). REJECT: sirf maang/prastav; sarkaar ki ghoshna ya survey sansthan ka aadesh srot me nahi.
+// 4. New Indian Express, 2026-09-08 — Police deny MLA's charge of harassing Muslims in TN's Tirunelveli (MLA ne Tirunelveli police par Muslimon ko pareshan karne ka aarop lagaya, police ne kharij kiya). REJECT: MLA aarop lagane wala tha, unpar koi negative nahi; mamla Nagapattinam kshetra se bahar (Tirunelveli) aur koi prashasanik kaam nahi.
+// 5. The Hindu, 2026-02-23 — Diesel outlets for fishermen inaugurated, foundation laid in Nagapattinam. REJECT: karyakaal se pehle (Feb 2026); report me MLA ka naam tak nahi.
+// 6. Times of India (Chennai), 2025-03 (FCRA case) — MMK president and MLA Jawahirullah gets one-year jail term in foreign funds case (Madras HC ne 2011 ke trial court order/CBI FCRA case me conviction uphold ki). REJECT: valid negative nahi kyunki May 2026 ke karyakaal se pehle ka mamla aur faisla hai; Papanasam wale purane karyakaal se juda hai.
+// 7. NDTV topic page (Madras High Court Upholds Conviction of Tamil Nadu MLA In Cheating Case, 2025) — REJECT: wahi FCRA conviction khabar, karyakaal se pehle.
+// 8. DNA India (Feb 2026) — Madras HC exempts TMMK leader from surrendering in FCRA case. REJECT: karyakaal se pehle; surrender se chhoot ka aadesh hai, naya negative nahi.
+// 9. Swarajya Mag (2023) — anti-Hindu poster Manipur violence FIR, Jawahirullah ne maafi maangi. REJECT: 2023 ka, karyakaal se pehle.
+// 10. TOI (Trichy), 2026-04-13/14 — People will lose benefits if AIADMK comes to power: Jawahirullah (chunav prachar, DMK welfare schemes ki taarif). REJECT: chunav-prachar, koi kshetra-kaam nahi.
+// 11. ANI/The Statesman/Lokmat Times, 2026-04-13 — We will win in Nagapattinam: MMK President MH Jawahirullah backs DMK's MK Stalin. REJECT: chunav-prachar, pre-term.
+// 12. New Indian Express, 2026-03-03 — DMK the only strong force that can defeat communal forces (interview). REJECT: pre-term interview; Papanasam karyakaal ke daave, Nagapattinam karyakaal ke kaam nahi.
+// 13. Election result coverage (NDTV candidates page, TOI/Indian Express result pages, May 2026) — REJECT: chunav parinaam, kshetra-kaam nahi.
+
+tamilNaduWorks['latha-t'] = [
+];
+
+// REJECT-LOG (latha-t):
+// 1. DT Next, 04 Sep 2026 (dtnext.in/news/tamilnadu/dont-link-chastity-to-sexual-violence-cpm-member) — Kilvelur CPM member Latha ka sadan me bhashan: "karpazhippu" shabd par aapatti, "sexual violence" istemal ki maang. Sadan me bhashan/maang category me aata hai, koi documented administrative outcome ya sanctioned work nahi — reject.
+// 2. The Hindu, 05 May 2026 (article70943419) — Chunav-profile story: jeet ka report + unki kahi future priorities (microfinance companies ke khilaf mahila mudda). Pre/post-election profile hai, koi kaam ka lokarpan/shilanyas ya poora hua kaam nahi — reject.
+// 3. DT Next, 30 Mar 2026 (2026-tn-elections-cpm-renominates-chinnadurai-fields-latha-in-kilvelur) — Chunav se pehle ummidwari ki ghoshna. May 2026 karyakaal se pehle ki khabar, koi kaam nahi — reject.
+// 4. Times of India / Oneindia / Business Today / News18 / ABP (May 2026) — Kilvelur chunav result coverage (56,108 votes, 2,278 se jeet). Chunav reporting hai, kshetra-kaam nahi — reject.
+// 5. Oneindia "Tamil Nadu MLAs with Criminal Cases" list (snippet) — "D Latha | Kilvelur | CPM | 1 cases" dikhata hai, lekin ye ECI affidavit-based aggregator listing hai; kisi established English news source me unke khilaf FIR/case ka koi detail, adalati sthiti ya unka jawab nahi mila. Negative entry ke criteria poore nahi hote — reject.
+// 6. Live Chennai / TOI / Business Standard ke purane (2013/2021) infrastructure inauguration snippets — ya to date May 2026 se pehle ki hai ya unme Latha ka zikr hi nahi, sirf generic search noise — reject.
+// 7. Searched variants: inaugurates/foundation-stone/school/hospital/road/water scheme + "Kilvelur MLA" + Sep/Oct 2026 news — koi bhi qualifying post-event English news report nahi mili. Sabha 5 mahine purani hai; kamzor attribution se khaali profile behtar hai.
+
+tamilNaduWorks['manian-o-s'] = [
+];
+
+// REJECT-LOG (manian-o-s):
+// 1. The Hindu, 2021-01-25 — Foundation stone laid for fishing harbour (Arcottuthurai, Vedaranyam taluk; Rs 150 cr ka machhi bandargah; O.S. Manian ne mantri ke roop me shilanyas kiya). REJECT: mantri-yug (Handlooms and Textiles minister, AIADMK sarkar) ka kaam; May 2026 se bahut pehle ka.
+// 2. New Indian Express, 2020-12-29 — Mayiladuthurai district comes into existence (nayee jile ke karyakram me mantri O.S. Manian maujood; Nagapattinam me Vedaranyam mukhyalay wala revenue division ka zikr). REJECT: Dec 2020 ka mantri-yug event, pre-term; Vedaranyam ke kisi kaam ka lokarpan/shilanyas nahi.
+// 3. DT Next, 2025-04-28 — Cut high input costs or Kalaignar Kanavu Illam will turn a mirage: AIADMK MLA OS Manian (16th sabha me housing scheme par sadan-bahhas, M-sand/gravel ke dam ghataane ki maang; mantri Duraimurugan ka jawab bhi). REJECT: 16th sabha (2021-26) ka sadan-bhashan/maang, May 2026 se pehle; koi documented administrative outcome ya assurance nahi.
+// 4. New Indian Express, 2026-03-31 — AIADMK leader Manian eyes hat-trick in TN's Vedaranyam as woes persist (chunav-purv profile; concrete sadken, Vedamirtham lake ki safai, pul, canal desilting, mandir rath utsav, makan — sab unke purane karyakaalon/mantri-yug ke shrey ke roop me). REJECT: polling se pehle ka chunav coverage; gine saare kaam May 2026 se pehle ke, naaye karyakaal ka koi kaam nahi.
+// 5. The Hindu, 2025-09 — Pleasure boating launched at Vedamirtha lake in Vedaranyam (Mantri Anbil Mahesh Poyyamozhi ne Vedaranyam Municipality ki boating facility ka lokarpan kiya, Collector P. Akash aur Fisheries Development Corporation chairman N. Gowthaman saath). REJECT: pre-term (Sep 2025); Manian ka naam khabar me hai hi nahi — mantri ka karyakram.
+// 6. DT Next, 2025-09-28 — Minister Anbil Mahesh Poyyamozhi launches aquatic sports as new tourist attraction at Vedaranyam (Vedamirtha lake par watercycling/pedal boats). REJECT: wahi mantri-karyakram, pre-term; MLA ki koi bhumika nahi.
+// 7. New Indian Express, 2026-09-23 — Tamil Nadu: Nagapattinam plans mangrove honey to give locals a sweet deal (Kallimedu, Thalainayar me beekeeping pilot; Vedaranyam sirf chhote mangrove patch ke zikr me). REJECT: post-May date hone ke bawajud MLA ka koi zikr/bhumika nahi — district administration/forest department ka pilot prastav, koi lokarpan/shilanyas nahi.
+// 8. Election coverage (Mar–May 2026): TOI result page, The Hindu district result piece, ET/India.com winners list, News18 candidate list (Mar 2026), livechennai constituency page, businesstoday result page, oneindia elections page, newsLocker, The Hindu nominations pages (2026-04-04 aur 2026-04-07 scrutiny). REJECT: chunav namankan/parinam coverage; kshetra-kaam ki khabar nahi.
+// 9. The South First PollSCAN (~Oct 2025) — Nagapattinam jile ka chunav-purv vishleshan (Vedaranyam me Manian ke purane chunavi itihas ka zikr). REJECT: chunav analysis, pre-term; koi kaam nahi.
+// 10. New Indian Express, 2022-02-23 — DMK-led front registers thumping win in coastal delta region (2022 ULB chunav parinam; Thalaignayiru panchayat Manian ka mool sthan bataya gaya). REJECT: 2022 ke nikay chunav, pre-term; kshetra-kaam nahi.
+// 11. DNA India (agency feed, 2017-era) — Caustic soda plant to come up in Vedaranyam: Minister (Manian ne 571 acre par Rs 10,000 cr nivesh wale plant ki ghoshna ki). REJECT: mantri-yug ki ghoshna ("karenge" wali khabar), pre-term; sthiti ka koi post-event saboot nahi.
+// 12. The Hindu, 2021-02 — Chief Minister inaugurates sub-stations, new buildings (CM Edappadi K. Palaniswami ne video conference se Vedaranyam substation samait kayi projects ka lokarpan kiya). REJECT: pre-term; CM ka karyakram, MLA ki vyaktigat bhumika ka koi saboot nahi.
+// 13. New Indian Express, 2021-03-22 — An evenly poised fight in Vedaranyam (2021 chunav-purv profile). REJECT: pre-term chunav coverage.
+// 14. The Hindu, 2021-03 — O.S. Manian may find it tough to weave a success story in Vedaranyam (2021 chunav-purv). REJECT: pre-term chunav coverage.
+// 15. New Indian Express, 2025-11-10 — Minister Anbil Mahesh lays foundation stone for Rs 32-crore harbour in Nagapattinam (Samanthapettai minor fishing harbour). REJECT: pre-term; maujood MLA Nagapattinam ke J Mohamed Shahnavas the, Manian nahi.
+// 16. PM Modi TN projects (Oct 2026; ANI via lokmattimes, NIE, republicworld) — Chennai Metro Phase-II, Thiruvarur bypass, Karaikal-Peralam rail samait Rs 13,000 cr projects; CM Vijay maujood. REJECT: PM/CM ke karyakram; Manian ka koi zikr nahi, Vedaranyam AC me unki koi bhumika nahi.
+// 17. Negative check — OneIndia Tamil Nadu MLAs With Criminal Cases database (ECI affidavit-based): O.S. Maniyan (Vedaranyam, AIADMK) par 0 criminal cases darj. REJECT (negative): kisi FIR/case/adalaati sthiti ki established English reporting nahi mili; sirf chunav-yachika ya purana mamla bhi nahi mila.
+// 18. 17th sabha ki karyavahi me Manian ki koi demand/bhashan/assurance ki post-May 2026 English news nahi mili; MLACDS sanction/work-order wali koi pakki khabar bhi nahi mili.
+
+// COORDINATOR QA NOTE (Nagapattinam, 15 Oct 2026): 3/3 MLA researched (3 parallel workers), teenon profiles imaandari se khaali (0 entries, 0 negatives — Jawahirullah 13 rejects incl. pre-term FCRA conviction isliye negative nahi, Latha T 7 rejects, Manian O.S 18 rejects minister-era/pre-term). Sabhi fragments Python-verified: 0 Devanagari/Tamil script, 0 Rs-symbol, 0 literal-\n; entry objects me 0 comments; teenon slugs append se pehle file me 0 matches the — koi overwrite nahi.
