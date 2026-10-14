@@ -939,3 +939,86 @@ biharWorks['birendra-singh-bihar'] = [
 
   // Coordinator QA note (Gaya district batch, researched 2026-10-14): 10/10 MLA researched by 3 parallel workers; fragments gaya_A/B/C consolidated above in AC order (225->234). Birendra entry-2: pichhle-karyakaal ki swikriti ka khula disclosure note me hai (sirf shilanyas vartaman karyakaal ka) — Son-bridge precedent ke pattern par consistent. Kumar Sarvjeet entry: article me patrachar→swikriti→tender ka dastavezi sequence darj hai, isliye rakhi gayi (credit sirf pahal tak). Prem Kumar entries: kshetra-bahar items (Sandeshwar Dham Fatehpur, Bodh Gaya dhyan-kendra) alag karke reject kiye gaye. Parivar-niyam: Deepa Kumari/Jyoti Devi par Manjhi-parivar ke kaam/mamle nahi jode. Sabhi 10 slugs pehle khaali the — koi overwrite nahi. Bihar works total: 47 -> 55 entries.
 
+
+// ---- Gopalganj district batch (researched 2026-10-14) ----
+
+biharWorks['mithilesh-tiwari'] = [
+  {
+    title: 'Ganga-Narayani pathway project ko cabinet se swikriti mili, Saran ke Darihara se Gopalganj ke Dumaria Ghat tak 73.51 km pathway banega — Baikunthpur vidhayak Mithilesh Tiwari ne assembly me maang uthayi thi',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Live Hindustan, 30 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/buxar/story-bihar-government-approves-ganga-and-narayani-pathway-projects-major-development-initiative-201777560601709.html',
+    date: '2026-04-30',
+    note: 'Baikunthpur ke BJP vidhayak Mithilesh Tiwari ne 18vi assembly ke dusre session me Patna se Dumaria aur Koilwar se Buxar tak nirbadh sampark marg ki maang zor-dar tareeke se uthayi thi; uske baad state cabinet ne Saran ke Darihara se Gopalganj ke Dumaria Ghat tak 73.51 km aur Bhojpur ke Koilwar se Buxar tak 90 km ke Ganga-Narayani pathway ko swikriti di. Ye sarkari faisla hai aur Hindustan ki pakki reporting hai; vidhayak ka role maang uthane tak ka hai, isliye credit usi hadd tak hai.',
+    period: '2025-2030',
+  },
+];
+
+biharWorks['manjeet-kumar-singh'] = [
+  {
+    title: 'Barauli CHC campus me Nagar Parishad ke 30-bed temporary night shelter ka udghatan vidhayak Manjeet Kumar Singh ne phita kaatkar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 18 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/gopalganj/story-jd-u-mla-manjit-kumar-singh-inaugurates-temporary-shelter-for-stray-and-passersby-in-barouli-201766079087062.html',
+    date: '2025-12-18',
+    note: 'Nagar Parishad ne besahara aur raahgeeron ke raat me thaharne ke liye CHC Barauli campus me 30 bed ka asthayi aashray sthal banaya tha, jisme kambal, takiya aur paani ka puchta intzaam hai; sthaniya JDU vidhayak Manjeet Kumar Singh ne 18 December 2025 ko phita kaatkar iska udghatan kiya. Nirman Nagar Parishad ka hai — vidhayak ka role udghatan tak ka hai, isliye credit usi hadd tak hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Barauli shahar ke liye feeder-2 ka shubharambh — vidhayak Manjeet Kumar Singh ne bijli aapurti shuru karke udghatan kiya, lagbhag 9000 upbhoktaon ko nirbadh bijli ka fayda',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 2 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/gopalganj/story-new-power-feeder-launched-in-barouli-benefits-9-000-consumers-201767371689103.html',
+    date: '2026-01-02',
+    note: 'Bijli company ne Barauli power sub-station par shahari feeder-2 ka nirmaan karke sanchalan shuru kiya; Barauli vidhayak Manjeet Kumar Singh ne bijli aapurti shuru karke udghatan kiya. Lagbhag 9000 upbhoktaon ko nirbadh bijli milegi aur purane feeder ka load kam hoga. Nirman bijli company ka hai — vidhayak ka role udghatan tak ka hai, isliye credit usi hadd tak hai.',
+    period: '2025-2030',
+  },
+];
+
+biharWorks['subhash-singh'] = [];
+
+biharWorks['amrendra-kumar-pandey'] = [
+  {
+    title: 'JD(U) MLA Amrendra Kumar Pandey urf Pappu Pandey par 2019 ke firing case me Gopalganj ki MP-MLA special court ne 20 Aug 2026 ko charges frame kiye, unpar janleva hamla aur apradhik sajish ke aarop tay kiye gaye; trial abhi baki hai, ye koi conviction nahi hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 20 Aug 2026',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/charges-framed-against-jdu-mla-pappu-pandey-in-firing-case-brs26082004793',
+    date: '2026-08-20',
+    note: '2019 me Mirganj thana me Phoolmati Kunwar ne FIR darj karai thi jisme aarop tha ki unke bete Abhimanyu Tiwari ko jan se marne ki niyat se firing ki gayi thi; Gopalganj civil court ke MP-MLA special court ke judge Rajendra Kumar Pandey ki adalat ne 20 Aug 2026 ko vidhayak, unke bade bhai Satish Pandey aur bhatije tatha poorv zila parishad adhyaksh Mukesh Pandey ke khilaf charges frame kiye; ab gawah-sakshyon ka trial hoga. Case 2019 ka hai lekin ye charge-framing vartaman karyakaal (2025-2030) me hui adalaati karyavahi hai; abhi aarop siddh nahi hue. Is specific charge-framing par vidhayak ka koi public jawab established media me nahi mila (talaash ki gayi), isliye unka paksh is entry me shamil nahi ho saka.',
+    period: '2025-2030',
+  },
+];
+
+biharWorks['sunil-kumar'] = [
+  {
+    title: 'Bhore (SC) ke JD(U) MLA aur Rural Works Minister Sunil Kumar ne 12 September 2026 ko Vijayipur block me Abhiyan Basera-2 ke vishesh camp me 72 bhoomihin parivaron ko apne haathon basgeet parcha saunpe.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 12 Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/gopalganj/vijayipur-landless-families-receive-land-deeds',
+    date: '2026-09-12',
+    note: 'Prabhat Khabar ki post-event report ke mutabik, Rural Works Minister Sunil Kumar (Bhore SC se JD(U) MLA) ne Vijayipur block karyalaya parisar me Abhiyan Basera-2 ke camp me pahunchkar 72 bhoomihin-nirdhan parivaron ko basgeet parcha diye, jisse unhe awas ke liye zameen par kanooni haq mila; FirstBihar aur Deshaj Times ne bhi isi karyakram ki reporting ki hai. Fund ka srot sarkari yojana (Abhiyan Basera-2, Revenue and Land Reforms Dept) hai, vidhayak-nidhi nahi. Vijayipur Bhore AC-103 ke teen blocks (Bhore, Kateya, Vijayipur) me se ek hai, isliye yah kshetra ke andar ka kaam hai. Disclosure: story ki exact publication date page par visible nahi thi; 12 Sep 2026 search-index recency (32 din purani) aur usse ek hafte pehle ke Bhore-block camp (5 Sep 2026) ke sequence se derive ki gayi hai.',
+    period: '2025-2030',
+  },
+];
+
+biharWorks['ramsewak-singh'] = [];
+
+// REJECT-LOG (mithilesh-tiwari): (1) 15 Nov 2025 post-election development promises (degree college, stadium, lift irrigation, trains) — Live Hindustan; future-tense promises, koi swikriti/GO nahi — reject. (2) Flood-area visit Banjarhia/Dumaria/Gamhari + community kitchen inspection — Patna Press, Oct 2026; sirf nirikshan/daura — reject. (3) Path Nirman Mantri se road-project meeting (Salemapur ghat pul, Hardia-Bhagwanpur road etc.) — insiderlive.in; sirf maang/prastav + non-established source — reject. (4) Delhi me Rail MoS V. Somanna se Vande Bharat/train demands — Prabhat Khabar/TOI, Sep 2026; sirf maang, koi swikriti nahi — reject. (5) Shankarpur me kushti dangal ka udghatan — Prabhat Khabar, Sep 2026; cultural event, development work nahi — reject. (6) Fake FB ID se Rs 25000 ki thagi, vidhayak ne cyber thane me FIR karayi — Jagran, Feb 2026; vidhayak peedit/complainant hai, us par koi aarop nahi, isliye negative entry nahi banti — reject. (7) Chhath ghaton ka udghatan — awaaztimes, 2017; karyakaal se pehle — reject. (8) Kuchaykot ke Vinod Khareya me Shiv mandir ka shilanyas — Live Hindustan, Apr 2026; kshetra se bahar (Kuchaykot AC) + mandir nirman samiti ka community-funded dharmik project — reject. (9) Safiyabad gas-cylinder aag ke baad sadar aspatal daura — News18, 14 Oct 2026; sirf daura/nirikshan — reject.
+
+// REJECT-LOG (manjeet-kumar-singh): (1) Batardesh/Deviganj me choupal, samasyaon ki sunvai — Live Hindustan, 23 Nov 2025; sirf sunvai/daura — reject. (2) CM Samriddhi Yatra me 316 crore ki 40 yojanaon ka shilanyas/udghatan — darsh.news, Jan 2026; CM ka karyakram, vidhayak sirf maujood — reject. (3) Manjhagarh aur Barauli me 2 rajkiya degree college ka virtual shubharambh — Live Hindustan, 15 Jul 2026; CM ne Patna se virtual shubharambh kiya, vidhayak ka phita kaatna usi karyakram me maujoodgi — reject. (4) Prashasan Janta Ke Dwaar karyakram ka udghatan — Dainik Bhaskar; DM-led shikayat-nivaran camp, koi bhotik kaam nahi — reject. (5) Makar Sankranti par Devapur awas par bhoj — Prabhat Khabar, 15 Jan 2026; personal bhoj, kaam nahi — reject. (6) NEET-UG safal chhatron ka samman samaroh — Dainik Bhaskar, Aug 2026; school-run event, kaam nahi — reject. (7) Barauli me medical college ki maang ko lekar mukhiyon ki baithak — Live Hindustan, 4 Jan 2026; sirf maang — reject. (8) CHC campus me eye camp me 166 marijon ko muft chashma — Live Hindustan, 8 Feb 2026; vidhayak sirf maujood, ayojan ka saboot nahi — reject. (9) 28 Dec 2025 ka mega medical camp (vidhayak ke saujanya se) — Live Hindustan, 24 Dec 2025; pre-event announcement, koi post-event reporting nahi mili — reject. (10) NH-28 par HPCL CNG refilling point ka udghatan — Prabhat Khabar automated feed, Dec 2025; private company ka commercial outlet, kamzor attribution — reject. (11) Fattepur naala shilanyas (19 Apr 2026, Rs ~1 crore) — article sirf preprod.livehindustan.com (staging mirror) par milta hai, canonical www.livehindustan.com par article maujood nahi (404/402) aur koi dusra srot nahi — coordinator ne hata di (preprod-source rule).
+
+// REJECT-LOG (subhash-singh): 7 items. (1) LiveHindustan road demand in Vidhan Sabha (Gopalganj-Jadopur + Jadopur-Barsila-Thawe-Line Bazar) - sirf maang, sarkar ka "tender prakriya chal rahi" swikriti nahi. (2) NH-27 Banajari Mod service-lane waterlogging letter to NHAI project director - sirf maang/patra. (3) Vidhan Sabha starred question on closed tube wells (266 me 97 band) and Daha river restoration - sirf prashna/maang. (4) Central Bank CSP ribbon-cutting at Bhusav Chowk, Thawe - private bank ki commercial CSP ka udghatan, koi public development work nahi, sirf maujoodgi. (5) Fruit distribution (51 kg seb, 51 dozen kele) at Sadar Hospital under Seva Sankalp Abhiyan - event only, koi lokarpan/shilanyas/swikriti nahi. (6) Medical college Chanave delegation to CM Nitish Kumar with Amrendra Pandey and Mithilesh Tiwari (29 Dec 2025) - delegation/maang; CM ka "swikriti prakriya jald poori karne ka nirdesh" koi actual swikriti nahi. (7) Thave market road Rs 7 crore shilanyas (gopalganj.org, ~2019) - purane MLA Subhash Singh (d. 2022) ka kaam, purana karyakaal + alag vyakti (current MLA is namesake parishad member per LiveHindustan result coverage).
+
+// REJECT-LOG (amrendra-kumar-pandey): 8 items. (1) Sasa Musa sugar mill reopening demand meeting with CM Nitish Kumar (ChiniMandi, 26 Dec 2025) - sirf maang/gyapan; CM ka "steps ka ashvasan" koi swikriti nahi. (2) Medical college Chanave delegation to CM (29 Dec 2025) - delegation/maang, koi sanction nahi. (3) Stadium shilanyas Rs 75.55 lakh (ETV Bharat, 11 Mar 2024) - pre-term. (4) 2020 triple murder case coverage - pre-term, adalaati karyavahi bhi purani. (5) Land-grab/arrest-warrant news (vsrsnews.in, ~Apr 2026) - single local e-paper source, established reporting nahi, MLA ka jawab nahi; kamzor attribution isliye reject. (6) Election campaign promises (Panchdevri stadium, university) - pre-election "karenge" future-tense, YouTube-only. (7) Samman samaroh distribution events - personal events + mostly pre-term. (8) Aurangabad (Bihar) ke RJD MLA Amrendra Kumar - alag vyakti, kabhi mix nahi kiya.
+
+// REJECT-LOG (sunil-kumar): public.app video (5 Sep 2026) me Bhore block me 55 bhoomihinon ko basgeet parcha vitran — public.app-only source, established-media corroboration nahi mili, isliye reject; LiveHindustan story (1 Jan 2026) me Biharsharif ke alag "Dr. Sunil Kumar" MLA ne 2 yojanaon ka shilanyas kiya — galat vyakti (Nalanda ke MLA), reject; LiveHindustan Sitamarhi story me "Sunil Kumar Pintu" MLA ne ring bandh sadak ka shilanyas kiya — galat vyakti, reject; Amar Ujala "Best Education Minister Award" (31 Dec 2025) — award hai, works entry nahi, reject; Amar Ujala/vsrsnews Nov 2025 me cabinet me wapasi/shapath stories — political khabar, works nahi, reject; ThePrint/PatnaPress Operation Sindoor paudha ropan (9 May 2025) — karyakaal se pehle ka aur works nahi, reject; News18 Hindi industrial hub story (10 Aug 2025) — pre-tenure CM ghoshna, reject; YouTube (Mahuaa News) Bhore-Mirganj bypass me aniyamitta ka aarop — YouTube-only + pre-tenure + bina adhikarik janch ka aarop, reject; vsrsnews Mirganj-Bhore main road "maut ka jaal" story — pre-tenure (chunav se pehle), naya kaam nahi, reject; swarajpost "Nitish Samvad" story (5 Oct 2026) me Sunil Kumar ki sirf upasthiti — sirf maujoodgi, reject.
+
+// REJECT-LOG (ramsewak-singh): vsrsnews "Prashasan Janta ke Dwar" story (Hathua block) me Ramsewak Singh ne DM ke saath stall ka sanyukt nirikshan kiya — sirf nirikshan, reject; vsrsnews "Mirganj Nagar Parishad board baithak" (14 Jan 2026) me "vidhayak Ramsewak Singh ki garimamayi upasthiti" — sirf maujoodgi, reject; public.app JDU sadasyata abhiyan story (10 Jan 2026, Siswaniya gaon) — party kaam + public.app-only, reject; public.app DISHA baithak story (2 Sep 2026) — public.app-only + sirf upasthiti, reject; YouTube video me Mirganj me RCM showroom ka ribbon-cutting — YouTube-only + private business, public work nahi, reject; vsrsnews PM Modi LPG bottling plant shilanyas story (Apr 2025) — karyakaal se pehle + Ramsewak sirf atithi ke roop me upasthit, reject; biharkatha 2020 story — pre-tenure + bina adhikarik karyavahi ka bayan, reject; Nov 2025 chunav-jeet ki saari stories (News18, IndianExpress, Hindustan, Jagran, NDTV) — political khabar, works nahi, reject. Result: karyakaal (Nov 2025+) ke andar established media me koi post-event works reporting nahi mili — profile imaandari se khaali rakhi gayi hai.
+
+// Coordinator QA note (Gopalganj district batch, researched 2026-10-14): 6/6 MLA researched by 3 parallel workers; fragments A (Tiwari+Manjeet), B (Subhash+Amrendra), C (Sunil+Ramsewak) assembled above in AC order (99->104). Coordinator ne Manjeet entry-3 (Fattepur naala) hatayi — article sirf preprod.livehindustan.com staging mirror par maujood tha, canonical domain par 404/402 aur koi dusra srot nahi (reject-log me darj). Mithilesh Tiwari entry (Ganga-Narayani pathway): vidhan-sabha maang -> cabinet swikriti ka dastavezi sequence, credit sirf maang tak (Kumar Shailendra thana precedent). Amrendra Pandey negative: 2019 firing FIR me 20 Aug 2026 charge-framing (ETV Bharat + News18), jawab na milne ka disclosure. Sabhi 6 slugs pehle khaali the — koi overwrite nahi. Bihar works total: 55 -> 60 entries.
+
