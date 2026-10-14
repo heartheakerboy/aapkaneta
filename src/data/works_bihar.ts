@@ -810,3 +810,132 @@ biharWorks['jibesh-kumar'] = [
 // REJECT-LOG (jibesh-kumar): Prabhat Khabar ~16 Sep 2026, Jale Nagar Parishad Ward-25 sadak-naala nirikshan — shikayaton par keval sthal-nirikshan + samvedak ko nirdesh — sirf nirikshan, reject; LiveHindustan Seva Sankalp swachhata shapath/padayatra + plantation — abhiyan karyakram, vikas-kaam nahi, reject; swarnimtimes (2019) Jogiara-Kamtaul shilanyas — pre-term, reject; LiveHindustan 23 Jun 2025, 25 sadak shilanyas (Rs 39.85 crore) — pre-term, reject; dastak7 Oct 2025 Singhwara 57 yojana + Bharwara 47 karya — pre-term, reject; bhaskarenglish Oct 2025 wahi event — pre-term, reject; YouTube KKTT News Rs 45 crore sadak shubharambh (~Jun 2026) — YouTube-only, lekin wahi pariyojnaen Prabhat Khabar + Deshaj Times me cover hain (upar entries), reject; mantri ke roop me vibhag-stariya faisle — niyam-taha seat-works me nahi liye. 2 entries rakhi (dono sadak).
 
   // Coordinator QA note (Darbhanga district batch, researched 2026-10-14): 10/10 MLA researched by 3 parallel workers; fragments consolidated above in AC order. Corrections: jibesh-kumar is NOT currently a minister (PHE claim in brief was stale — Urban Development & Housing till Nov 2025, now only MLA; worker scoped seat-works correctly); madan-sahni IS currently a minister (Prohibition/Excise since May 2026 — seat-works only, scoped correctly). Titles/notes normalized to Roman-Hinglish; est. dates (saraogi 2 Jun 2026, murari-mohan 8 Oct 2026, jibesh entry-2 12 Jun 2026) disclosed in notes. Rajesh Mandal negative: 2012 FIR (pre-term, disclosed) with Jan 2026 surrender+bail (current-tenure court event), Live Hindustan, reply absent in article (disclosed). All 10 slugs were empty — no overwrite. Bihar works total: 34 -> 47 entries.
+
+// ---- Gaya district batch (researched 2026-10-14) ----
+
+biharWorks['upendra-prasad'] = [];
+
+// REJECT-LOG (upendra-prasad): LiveHindustan 09 Jan 2026, Gurua ke Nadiyaan se Dariyora tak sadak nirman shuru — article me saaf: shilanyas poorv MLA Vinay Kumar (2020-25) ne ki thi, vartman MLA ki koi bhoomika nahi, reject (pre-term); LiveHindustan 13 Sep 2026, Guraru bazar BJP ek-divasiya karyashala — party sangathan event, reject; LiveHindustan ~Aug 2026, Dumka (Jharkhand) Hansdiha school daura+bhashan — kshetra-bahar + sirf daura, reject; LiveHindustan 30 Nov 2025, CHC Gurua ultrasound maang — logon ki maang, MLA ki karyavahi nahi, reject; LiveHindustan ~Mar 2026, Gosapur school sangoshthi — sirf maujoodgi/bhashan, reject; biharinfratales tarankit prashn 18/3/61 (urja vibhag maang) — sirf prashn, reject; YouTube "BJP karyakarta dwara MLA par aarop" — YouTube-only, reject; election coverage — reject. Profile imaandari se khaali rahi.
+
+biharWorks['uday-kumar-singh'] = [];
+
+// REJECT-LOG (uday-kumar-singh): biharinfratales tarankit prashn 18/2/3982 (Sherghati substation maang) — sirf prashn, reject; public.app Apr 2026 niji hospital udghatan — public.app-only, reject; public.app Feb 2026 path-nirman maang — sirf maang + public.app-only, reject; public.app Feb 2026 mandir paryatan-sthal maang — sirf maang + public.app-only, reject; public.app Feb 2026 aapurti samiti baithak — sirf baithak, reject; public.app Sep 2026 dharmapatni interview — parivar interview, reject; YouTube election shorts — election news, reject. Profile imaandari se khaali rahi.
+
+biharWorks['deepa-kumari'] = [];
+
+// REJECT-LOG (deepa-kumari): ETV Bharat 29 Nov 2025, Imamganj aabhaar yatra (pati-mantri ke saath samman + "karenge" ghoshnaen) — sirf samman, reject; LiveHindustan Oct 2025 pre-election profile — election news + purana karyakaal excluded, reject; LiveHindustan ~Sep 2026, Raniganj upar-bazar sadak marammat maang — logon ki maang, reject; Jagran Nov 2025 "Manjhi parivar ka uday" — parivar-niyam, reject; election-result coverage — reject; YouTube shorts — YouTube-only, reject. 2024 upchunav-karyakaal ke kaam niyam-taha excluded. Profile imaandari se khaali rahi.
+
+biharWorks['jyoti-devi'] = [];
+
+// REJECT-LOG (jyoti-devi): ETV Bharat Oct 2023, Bal Jyoti Foundation training — pre-term + parivar, reject; Bhaskar ~Aug 2026, jagrukta rath hari jhandi — campaign, vikas-kaam nahi, reject; ABP Live May 2026, kafila-rok law-and-order khabar — kaam nahi, reject; election-period (Nov 2025) hamla khabrein — election news, reject; khaskhabar Sep 2025 Kendriya Vidyalaya shilanyas — pre-term + sirf maujoodgi, reject; Prabhat Khabar Apr 2025 Netane pul shilanyas — pre-term, reject; Bhaskar Oct 2025 mandap+panchayat bhavan — pre-term + CM statewide program, reject; YouTube items — YouTube-only, reject. Profile imaandari se khaali rahi.
+
+biharWorks['kumar-sarvjeet'] = [
+  {
+    title: 'Bodh Gaya ke Tankuppa block me Andhar se Badal Bigha tak Rs 4.5 crore ki 5 km sadak ka shilanyas vidhayak Kumar Sarvjeet ne kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 26 Dec 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/gaya/fatehpur/news/foundation-stone-laid-for-a-road-worth-rs-45-crore-in-bodh-gaya-136778461.html',
+    date: '2025-12-26',
+    note: 'Bihar sarkar ke Gramin Sadak Sudridhikaran evam Prabandhan Karyakram ke tahet Bodh Gaya kshetra ke Tankuppa prakhand me Andhar, Trilokichak, Jiyanbigha, Mokamchak, Murachak hote hue Badal Bigha gaon tak kul 5 km sadak (lagat Rs 4.5 crore) ka shilanyas vidhayak Kumar Sarvjeet ne kiya. Article ke mutabik sthaniya graminon ke sampark ke baad vidhayak ne rajya sarkar ko patrachar kiya tha, jiske aalok me prashasanik swikriti mili aur phir tender ke baad nirman prakriya shuru hui. Stage: shilanyas (karyarambh). Disclosure: yeh vibhagiya sadak yojna hai — swikriti me vidhayak ki bhumika unke apne daave (patrachar) par aadharit hai, iska swatantra dastavezi saboot article me nahi hai; shilanyas ke charan me vidhayak kendriya bhoomika me the, isliye entry rakhi hai. Article par print tithi nahi thi; "Shukravar ko" aur search last-updated se 26 Dec 2025 (Shukravar) maani hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (kumar-sarvjeet): Jagran Feb 2026 vidhansabha sadak-nali prashn — sirf prashn, reject; ETV Bharat/Patna Press Feb 2026 Mahabodhi corridor meeting — sirf maang, reject; Amar Ujala Nov 2025 virodhi dal sachetak niyukti — pad, reject; ETV Bharat Feb 2026 budget bayan — vipaksh bayan, reject; Bhaskar Nov 2025 Sandeshwarnath Dham swagat — sirf samman + "karenge", reject; Bhaskar Jul 2026 JE hatane ki maang — sirf maang, reject; navrashtramedia Apr 2022 lokarpan maujoodgi — pre-term, reject; YouTube items — YouTube-only, reject; election-result coverage — reject.
+
+biharWorks['prem-kumar'] = [
+  {
+    title: 'Gaya Town me Mukhyamantri Kshetra Vikas Yojana ke tahet path-nali nirman karyon aur Mohan Nagar park ka udghatan Speaker Prem Kumar ne kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 17 Dec 2025 (est.)',
+    sourceUrl: 'https://www.jagran.com/bihar/gaya-bihar-assembly-speaker-prem-kumar-inaugurated-various-schemes-in-gaya-40077528.html',
+    date: '2025-12-17',
+    note: 'Apne vidhansabha kshetra Gayaji Town me vidhan sabha adhyaksh Dr. Prem Kumar ne Mukhyamantri Kshetra Vikas Yojana (vidhayak nidhi) ke tahet hue karyon ka udghatan kiya: Ward 6 Shivnagar me path-nali nirman; Ward 4 evam 5 me Gandhi Mod se Ravidas Tola hote hue Gaya mukhya path tak path-nali nirman; Ward 5 me NH-83 se Shiv Mandir tak nali nirman; Ward 33 Mohan Nagar me park. Stage: udghatan (lokarpan — nirman purn). Disclosure: yeh MLA-nidhi ke kaam hain; article me "Budhvar ko" likha hai aur published 19 Dec 2025 hai — 17 Dec 2025 Budhvar tha, isliye event date 2025-12-17 maani hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Gaya Town ke wardon me Mukhyamantri Samagra Shahari Vikas Yojana ke tahet lagbhag Rs 1.38 crore ke sadak-nali karyon ka udghatan-shilanyas Speaker Prem Kumar ne kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'News4Nation, 18 Aug 2026',
+    sourceUrl: 'https://news4nation.com/bihar/gaya/urban-development-projects-worth-crores-gain-momentum-in-gaya-ji-assembly-speaker-inaugurates-and-lays-foundation-stones-for-road-and-drain-construction-across-various-wards-113643',
+    date: '2026-08-18',
+    note: 'Mukhyamantri Samagra Shahari Vikas Yojana 2025-26 ke antargat Gayaji nagar kshetra me: Ward 34 Gewal Bigha Mahadalit Tola me Rs 24.28 lakh pahunch path ka udghatan; Ward 46 Ashok Bihar Colony me Rs 16.27 lakh nala nirman ka udghatan; Ward 45 Dandibagh me Rs 89.48 lakh RCC nala ka shilanyas; Ward 45 Mayur Bihar Colony road no. 5 me Rs 8.15 lakh PCC path-nali ka shilanyas — kul lagbhag Rs 1.38 crore. Stage: 2 udghatan (purn) + 2 shilanyas (karyarambh). Disclosure: yeh rajya sarkar ki shahari vikas yojna hai — swikriti me vidhayak ki bhumika ka dastavezi saboot article me nahi; udghatan-shilanyas ke charan me vidhayak kendriya bhoomika me the, isliye entry rakhi hai. Ward 34 wale item me article ki wording "nirmit hone wale ... ka udghatan" virodhabhasi hai (sambhavatah journalistic truti) — yahan udghatan maana gaya hai. Article 18 Aug 2026 (Mangalvar) ko published aur event bhi "Mangalvar ko" hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Gaya nagar kshetra me Rs 7.77 crore se adhik ke sadak-nali, footpath, parking, vending zone aur talab-saundaryikaran karyon ka shubharambh, shilanyas aur udghatan Speaker Prem Kumar ne kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 13 Sep 2026 (est.)',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/gaya/gaya-development-projects-boosted',
+    date: '2026-09-13',
+    note: 'Mukhyamantri Samagra Shahari Vikas Yojana aur Rashtriya Swachh Vayu Karyakram (NCAP) 2026-27 ke tahet Gaya nagar kshetra me: Diggi talab saundaryikaran-paudharopan Rs 3.20 crore (shubharambh); JP Jharna se Mirza Ghalib College hote hue Nazareth Academy tak footpath, vriksharopan, vending zone, parking Rs 1.47 crore (shuru); MMSVYY 2025-26 me Ward 14 sadak Rs 19.03 lakh, Ward 10 (KV ke peeche) nala Rs 16.33 lakh, Ward 32 (AP Colony) path-nali Rs 86.72 lakh, Ward 30 (Chandauti school pahunch path) Rs 6.20 lakh (shilanyas); Ward 44 (Khajuria samudayik bhawan-Karpuri bhawan) me nirmit path-nali Rs 102.75 lakh ka udghatan; MMSVYY 2024-25 ke bhi Ward 44 Madanpur Mahadev Nagar Rs 20.05 lakh, Ward 23 (SP office-Durgabari path) Rs 23.77 lakh, Ward 32 (GRDA store) Rs 7.55 lakh (shilanyas) aur Ward 24 (public library) nirmit path-nali Rs 28.33 lakh ka udghatan. Stage: mixed — shubharambh/shilanyas (karyarambh) + udghatan (purn). Disclosure: yeh rajya sarkar ki yojnayen hain — vidhayak ke swikriti-stariya kadam ka dastavezi saboot nahi; karyakram ke charan me vidhayak kendriya bhoomika me the. Article par print tithi nahi thi; "Ravivar ko" aur search last-updated se 13 Sep 2026 (Ravivar) maani hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Gaya ke Gandhi Maidan me talab-chaardiwari, ghaton, children park aur shauchalay ka udghatan Speaker Prem Kumar ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Kashish News, 13 Jul 2026',
+    sourceUrl: 'https://kashishnews.com/news/bihar-news-675772',
+    date: '2026-07-13',
+    note: 'Gaya ke Gandhi Maidan se vidhan sabha adhyaksh Dr. Prem Kumar ne kai yojnaon ka udghatan kiya, jinme Gandhi Maidan parisar me talab ki chaardiwari aur ghat, children park aur shauchalay shamil hain (article ke mutabik "croron ki lagat se bane" — exact rashi article me nahi di gayi). Stage: udghatan (lokarpan — nirman purn). Disclosure: article me Sandeshwar Dham (Fatehpur) me changing room-shauchalay-vishramalaya aur Bodh Gaya me dhyan-kendra ke udghatan bhi hain, jo Gaya Town kshetra se bahar hain — isliye profile me sirf Gandhi Maidan ke kaam liye gaye hain. Kashish News ek chhota regional portal hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (prem-kumar): Prabhat Khabar Oct 2026, Ward 27 sadak-nali nirikshan — sirf nirikshan, reject; Prabhat Khabar Oct 2026, rozgar mela udghatan — sarkari program, vikas-kaam nahi, reject; YouTube Jun 2026, Patna coaching udghatan — YouTube-only + kshetra-bahar, reject; rashtrapress Jun 2026, workshop udghatan-bhashan — event, reject.
+
+biharWorks['ajay-kumar-231'] = [];
+
+// REJECT-LOG (ajay-kumar-231): Live Hindustan Jan 2026, Ambedkar Park udghatan (niji paryavaran-premi ka nirman, MLA sirf 3 sanyukt udghatan-kartaon me ek) — private, reject; ismatimes Sep 2026, 20-sootri baithak — sirf baithak, reject; public.app Sep 2026 ANMMCH mulaakat — public.app-only, reject; public.app Sep 2026 talab jirnoddhar — public.app-only, reject; YouTube x5 — YouTube-only, reject; UP-Bagpat Dr. Ajay Kumar — galat vyakti, reject; news18 Nov 2025 profile — biography, reject; pinewz Janmashthami karyakram Imamganj — kshetra-bahar, reject; Prabhat Khabar Aug 2026, Gurua bazaar daura — kshetra-bahar + sirf daura, reject. Profile imaandari se khaali rahi.
+
+biharWorks['manorma-devi'] = [];
+
+// REJECT-LOG (manorma-devi): TOI/News4Nation Oct 2025, "71 sadken + 2 pul, Rs 133.2 crore" dawa — Nov 2024 upchunav-karyakaal ka, pre-term, reject; gayalivenews shilanyas/udghatan — upchunav-karyakaal + chhota portal, reject; darsh.news naala — pre-term, reject; YouTube x2 — YouTube-only, reject; ETV Bharat/FirstBihar Expo takraar — bayan, reject; public.app abhiyan udghatan — public.app-only, reject; YouTube JDU office udghatan — YouTube-only + party kaam, reject; Zee News/LiveHindustan vidhansabha prashn — sirf maang, reject; LiveHindustan Sep 2026 "Manorama Devi" Sasaram case — galat vyakti, reject; NIA chhapemari Sep 2024 (Rs 4 crore/hathiyar) — pre-term, vartaman me koi chargesheet/court development nahi, reject; News18 affidavit purane cases — pre-term vivran, reject; election coverage — reject. Profile imaandari se khaali rahi.
+
+biharWorks['romit-kumar'] = [
+  {
+    title: 'Khizarsarai ke Kutlupur me Rs 1.90 crore ki lagat se bane Panchayat Sarkar Bhavan ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Aryavart Vaani, 7 Jul 2026',
+    sourceUrl: 'https://aryavartvaani.com/khizarsarai-kutlupur-panchayat-sarkar-bhawan-inauguration-gaya-july-2026/',
+    date: '2026-07-07',
+    note: 'Khizarsarai prakhand ke Kutlupur gaon me lagbhag Rs 1.90 crore ki lagat se nirmit naye Panchayat Sarkar Bhavan ka vidhivat udghatan Atri vidhayak Romit Kumar ne feeta katkar kiya; karyakram me BPRO Amarendra Kumar Choudhary, JD(U) prakhand adhyaksh Pinki Devi, vidhayak pratinidhi Dayashankar sahit kai janpratinidhi aur adhikari maujood the. Stage: udghatan (lokarpan) — bhawan puri tarah nirmit hai; article me bhawan ki swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai, isliye credit sirf udghatan ke charan tak simit hai. Disclosure: source ek chhota kshetriya portal hai (aryavartvaani.com); kisi bade national/state outlet me is karyakram ki alag reporting nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (romit-kumar): aryavartvaani Jul 2026, niji vidyalaya shubharambh — private, reject; public.app Sep 2026, Korea aahar yojana udghatan — public.app-only, reject; YouTube degree-college ghoshna — YouTube-only + ghoshna, reject; YouTube MSME centre — YouTube-only, reject; YouTube adhikari chetavni — YouTube-only + fatkaar, reject; LiveHindustan Oct 2025 chunav office udghatan — pre-election + party, reject; YouTube coaching samman — YouTube-only, reject; public.app Nov 2025 swagat — public.app-only, reject.
+
+biharWorks['birendra-singh-bihar'] = [
+  {
+    title: 'Wazirganj me char gramin sadkon (~7.5 km, lagbhag Rs 7 crore) ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 7 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/gaya/story-virendra-singh-inaugurates-four-rural-roads-in-wazirganj-201765105617024.html',
+    date: '2025-12-07',
+    note: 'Wazirganj me vidhayak Birendra Singh ne char gramin sadkon ka shilanyas kiya: Bhindas-Chanandih road se Bodhchak mahadalit tola, Tarwan-Bara road se Bhangausa, Wazirganj-Fatehpur road se Ukhda mahadalit tola, aur Jamunapur pokhar se Jamunapur mahadalit tola. Kul lambai lagbhag 7.5 km, yojana rashi lagbhag Rs 7 crore; vidhayak ne kaha ki anya zaroori sadkon ka nirman aur marammat bhi karayi jayegi. Stage: shilanyas (karyarambh) — nirman purnata ki alag khabar nahi mili. Disclosure: yeh vibhagiya gramin sadak yojnaon ke tahat kaam hai — swikriti me vidhayak ki bhumika ka article me koi dastavezi saboot nahi hai; shilanyas ke charan me vidhayak ki kendriya bhoomika ke karan entry rakhi hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Wazirganj Nagar Panchayat ke ward 13, 14, 10 aur 07 me Rs 1 crore se adhik lagat ke PCC path aur naali nirman ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 13 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/gaya/story-chief-minister-urban-development-scheme-groundbreaking-for-drainage-and-pcc-construction-in-wazirganj-201776088084008.html',
+    date: '2026-04-13',
+    note: 'Mukhyamantri Samagra Shahri Vikas Yojna ke tahat Wazirganj Nagar Panchayat ke ward 13, 14, 10 aur 07 me naali sahit PCC path nirman karya ka shilanyas vidhayak Birendra Singh ne feeta katkar kiya; kul lagat Rs 1 crore se adhik hai. Stage: shilanyas (karyarambh, 13 Apr 2026 — vartaman karyakaal me). Disclosure (scope): article ke mutabik yeh yojanaen 2020-25 ke karyakaal me swikrit hui thi — wahi MLA dobara chuna gaya hai, lekin swikriti pichhle karyakaal ki hai; sirf shilanyas/karyarambh Nov 2025 ke baad hua hai, isliye entry rakhi hai. Article me swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (birendra-singh-bihar): Jagran Oct 2025 chunav-analysis — pre-term, reject; YouTube shilanyas — YouTube-only, reject; Bhaskar Jul 2026, Gaya shahar Ward 53 shilanyas — kshetra-bahar (Gaya Town AC), reject; ETV Bharat Jun 2026, manch par engineer ko gaali (viral video) — koi FIR/case/janch nahi, negative bar fail, reject; LiveHindustan Dec 2025, Ramgarh/Jharkhand mulaakat — kshetra-bahar, reject; YouTube shorts divyang cycle — YouTube-only, reject; election coverage — reject.
+
+  // Coordinator QA note (Gaya district batch, researched 2026-10-14): 10/10 MLA researched by 3 parallel workers; fragments gaya_A/B/C consolidated above in AC order (225->234). Birendra entry-2: pichhle-karyakaal ki swikriti ka khula disclosure note me hai (sirf shilanyas vartaman karyakaal ka) — Son-bridge precedent ke pattern par consistent. Kumar Sarvjeet entry: article me patrachar→swikriti→tender ka dastavezi sequence darj hai, isliye rakhi gayi (credit sirf pahal tak). Prem Kumar entries: kshetra-bahar items (Sandeshwar Dham Fatehpur, Bodh Gaya dhyan-kendra) alag karke reject kiye gaye. Parivar-niyam: Deepa Kumari/Jyoti Devi par Manjhi-parivar ke kaam/mamle nahi jode. Sabhi 10 slugs pehle khaali the — koi overwrite nahi. Bihar works total: 47 -> 55 entries.
+
