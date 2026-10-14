@@ -1749,3 +1749,100 @@ tamilNaduWorks['suriyanur-a-chandran'] = [
 // NOTE: The Hindu ki pre-poll report (Apr 2026) aur India Herald ki DMK candidate list unhe "S.A. Chandiran" likhte hain — yahi vyakti hai (DMK, Kulithalai), spelling variant confirm.
 // SEAT-WORK NATIJA: May-Oct 2026 me English press me Kulithalai seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry NAHI mili. DMK ab vipaksh me hai (TVK sarkar, CM C. Joseph Vijay), sabha sirf ~5.5 mahine purani — khaali profile imaandar hai.
 // COORDINATOR QA: 3/3 MLA researched (3 parallel workers), sab KHAALI (0 entries). May-Oct 2026 English press me teenon seat par koi qualifying seat-work (lokarpan/shilanyas/swikriti/poora) reporting nahi; koi qualifying negative bhi nahi. Naam-traps pakde: MP NR Elango (RS) vs R. Elango; Peravurani Govi.Elango vs Aravakurichi Elango; Karur-AC ke purane MLA (Vijayabhaskar/Sivagama Sundari) ki PRs vs Karur-jila ke naye MLA; R. Manickam (Kulithalai 2021-26) vs Suriyanur A. Chandran; Dharapuram 'Sathya Mama'/NTK Sathiya.V/TVK pravakta M. Sathya Kumar vs Sathya.M; CM Vijay/PM ke state-program vs MLA kaam.
+
+// ---- Krishnagiri district batch (researched 2026-10-15) ----
+
+// ---- Krishnagiri district batch: n-elaiyaraja — researched 15 Oct 2026 ----
+// ---- Krishnagiri district batch: n-elaiyaraja (TVK, Uthangarai AC) — researched 2026-10-15 ----
+tamilNaduWorks['n-elaiyaraja'] = [];
+
+// REJECT-LOG (n-elaiyaraja, TVK, Uthangarai AC, Krishnagiri — research 15 Oct 2026)
+// 1. Chunav jeet ki khabrein (TOI 5 May 2026, The Hindu, News18, ABP Live): N Elaiyaraja (TVK) ne Uthangarai se 70,201 vote se jeeta, T M Tamilselvam (AIADMK) ko 5,198 se haraya — REJECT: chunav parinaam, vikas-kaam nahi; pre-term event.
+// 2. Rs 35-crore bribery-attempt complaint / 'Project Meghalaya' (NIE 1 Jul 2026, NIE 18-19 Jul 2026, The Hindu, NDTV, DT Next 15 Jul 2026): Elaiyaraja ne 29 Jun 2026 ko Chennai Police Commissioner ko complaint di — speaker ke khilaf no-confidence motion me vote ke liye Rs 35 crore ka offer mila, reject kiya, parivar ko dhamki mili; Triplicane police ne FIR darj ki, kai giraftariyan hui — REJECT as works: ye political/crime khabar hai, kshetra-vikas kaam nahi. REJECT as negative: shikayat unke DWARA di gayi hai, unke KHILAF koi FIR/case nahi; ve complainant/whistleblower hain, aaropi nahi.
+// 3. Madras HC ne election petition kharij ki (BarandBench 18 Aug 2026, LiveLaw): C Geetha ki election petition (Geetha vs Elaiyaraja) Justice D Bharatha Chakravarthy ne kharij ki — voter-roll se naam hatne par nirasha, petition me substance nahi — REJECT as negative: chunav-yachika akeli negative nahi (rules); unke khilaf koi FIR/case/janch nahi.
+// 4. Uthangarai ke paas illegal water connections par action (NIE Sep 2026): rural development dept ne Bettamugilalam aur Uthangarai ke paas illegal connections hataye — REJECT: jila-prashasan ki karwai, MLA ki koi dastavezi bhoomika nahi.
+// 5. Pre-term Uthangarai items (The Hindu Aug 2021 CM projects, NIE Sep 2025 Stalin works, The Hindu Oct 2024 minister scheme works): purani sarkar/mantriyon ke karyakram — REJECT: karyakaal se pehle aur MLA ki seat-level bhoomika nahi.
+// 6. SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, NIE, TOI, DT Next, TNM, South First, Deccan Herald, NDTV) me Uthangarai seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry (lokarpan/swikriti/shilanyas/ghoshna/sampanna kaam) NAHI mili — sabha sirf ~5.5 mahine purani; profile imaandari se khaali.
+
+// ---- Krishnagiri district batch: e-c-govindarasan — researched 15 Oct 2026 ----
+tamilNaduWorks['e-c-govindarasan'] = [];
+
+// REJECT-LOG (E.C. Govindarasan, AIADMK, Bargur AC, Krishnagiri):
+// 1. Koi bhi English media (The Hindu, Indian Express, TOI, DT Next, The News Minute,
+// South First, Deccan Herald, NDTV) me May 2026 ke baad Govindarasan ke kshetra-kaam
+// (road, pani, school, aspataal — koi bhi category) ki koi post-event reporting nahi mili.
+// Unka karyakaal 11 May 2026 se shuru hua (pehli baar MLA) aur ve vipaksh (AIADMK) ke MLA
+// hain, isliye ~5.5 mahine me koi lokarpan/shilanyas/swikriti khabar publish nahi hui.
+// 2. Chhapi election-jeet khabrein (TOI, IE, Business Today, OneIndia, ABP) — sirf jeet ki
+// report, koi kaam nahi — REJECT (kshetra-kaam nahi).
+// 3. The Hindu pre-poll analysis (13 Apr 2026, Bargur drought-prone seat) — pre-term
+// chunaavi coverage, koi post-May-2026 kaam nahi — REJECT.
+// 4. 2025 ke Stalin/CM-initiated Krishnagiri projects (Rs 2,884 cr) — pre-term CM
+// karyakram, Govindarasan ki maujoodgi ya bhoomika ka koi zikr nahi — REJECT.
+// 5. MLACDS 2026-27 GO (The Hindu, 12 Aug 2026) — rajya-faisla, har 234 seats ke liye
+// aam niyam; Bargur ke liye MLA-vishesh work-order/sanction ka saboot nahi — REJECT
+// (MLACDS ghoshna bina sanction ke = sirf ghoshna; seat-level entry nahi).
+// 6. Krishnagiri district tender sites (Oct 2026, Bargur block borewell/CC road/storm
+// drain tenders) — tender notices me MLA ka naam ya bhoomika darj nahi — REJECT.
+// 7. Halafnama me 2 pending criminal cases (AIADMK C-7 disclosure, CR 487/2024 aur
+// CR 104/2021, Bargur PS) — dono pre-term; May 2026 ke baad koi FIR/case/janch ki
+// credible reporting nahi, aur neta ka jawab bhi nahi — REJECT (negative entry ke
+// niyam ke anusaar: FIR/case sthiti + jawab zaroori).
+// 8. Daijiworld story (Sep 2025, DMK MLA Mathiazhagan ke aide par case) — galat vyakti
+// aur pre-term — REJECT.
+
+// ---- Krishnagiri district batch: mukundhan-p — researched 15 Oct 2026 ----
+tamilNaduWorks['mukundhan-p'] = [
+  { title: 'Krishnagiri ke Government Girls Higher Secondary School me vistarit Perunthalaivar Kamarajar Breakfast Scheme ke jila-stariya launch ka Collector ke saath sanyukt udghatan kiya', note: 'The New Indian Express (23 Sep 2026) ke anusaar, 22 Sep 2026 ko rajya-vyapi vistar ke antargat Krishnagiri jile me 572 sarkari schools ke 51,413 kaksha 6-8 students ke liye Perunthalaivar Kamarajar Breakfast Scheme ka vistaar Collector C. Dinesh Kumar aur TVK MLA P. Mukundhan ne sanyukt roop se udghatan kiya. Note: ye rajya-sarkar ki yojna hai, usi din rajya-bhar me udghatan hua; MLA ki dastavezi bhoomika = jila-stariya launch ke sanyukt udghatan tak seemit hai, yojna ke design ya fund me unka yogdan darj nahi hai. Udghatan wali subah isi school me pehli batch ke baad khana khatm hone par lagbhag 250 students ko 30 min intezar karna pada, jis par Collector ne janch ke aadesh diye — ye bhi wahi report me darj hai.', period: '2026-2031', category: 'School', badge: 'news', sourceLabel: 'The New Indian Express', sourceUrl: 'https://www.newindianexpress.com/states/tamil-nadu/2026/Sep/23/tamil-nadu-breakfast-runs-out-children-at-krishnagiri-school-made-to-wait-for-30-minutes', date: '2026-09-22' }
+];
+
+// REJECT-LOG (mukundhan-p — TVK, Krishnagiri AC, Krishnagiri jila — research 15 Oct 2026)
+// 1. The Hindu, 25 May 2026 — weekly grievances redress meeting me MLA ki upasthiti/dais par baithna; koi kaam/lokarpan nahi — REJECT: sirf daura/upasthiti.
+// 2. TOI (Oct 2026) — samajik karyakarta M. Chandramohan ka band MLA karyalaya ke bahar virodh; MLA ke kaam ki khabar nahi — REJECT.
+// 3. CM/mantri ke karyakram (Dec 2025 libraries/classrooms udghatan; Udhayanidhi/Stalin ke Krishnagiri daure) — REJECT: MLA ka naam tak nahi.
+// 4. NEGATIVE: affidavit me 0 cases (NDTV/ADR) — koi FIR/case/janch ki credible reporting nahi — negative entry NAHI.
+// COORDINATOR OVERRIDE: NIE 23 Sep 2026 ke khud-khule article me Collector ke saath MLA P. Mukundhan ne vyaktigat sanyukt udghatan kiya tha — worker ka "sirf maujoodgi" verdict Erode sluice-opening precedent par badla; entry me poora credit-disclosure hai.
+
+// ---- Krishnagiri district batch: srinivasan-p-s — researched 15 Oct 2026 ----
+// ---- Krishnagiri district — P.S. Srinivasan (DMK, Veppanahalli AC), researched 2026-10-15 ----
+tamilNaduWorks['srinivasan-p-s'] = [];
+
+// REJECT-LOG (Srinivasan.P.S, DMK, Veppanahalli AC, Krishnagiri jila — research 15 Oct 2026)
+// Background: 17vi sabha ka karyakaal May 2026 se; jeet sirf 138 vote (74,691 vs K.P. Munusamy 74,553); DMK vipaksh me hai (TVK sarkaar, CM C. Joseph Vijay).
+// 1. The Hindu — "Two-cornered contest in Vepanahalli constituency" (Apr 2026): Ennekolputhur-Badethalavu aur Aliyalam canal sinchai-pariyojnayein — REJECT: chunav-se-pehle ki khabar; pariyojna AIADMK-pichle-term ki ghoshna/aminon par, Srinivasan ka karyakaal se koi sambandh nahi.
+// 2. The Hindu — "Krishnagiri apportions two seats each to TVK, two Dravidian majors" (May 2026): jeet ka parinaam — REJECT: chunav parinaam khabar, kshetra-kaam nahi.
+// 3. The Hindu — "TVK MLA's participation in grievances redress meeting in Krishnagiri" (25 May 2026): Collectorate jansunwai — REJECT: doosre MLA (P. Mukundan, TVK, Krishnagiri seat) ki maujoodgi ka mudda; Srinivasan ka zikr bhi nahi.
+// 4. Times of India — "Activist holds protest outside locked Krishnagiri MLA office" (Oct 2026): Taluk office wale MLA office me locked premises ka virodh — REJECT: ye Krishnagiri seat ke TVK MLA P. Mukundan ka karyalay-mamla lagta hai; Srinivasan (Veppanahalli) se joda koi saboot nahi.
+// 5. SEAT-WORK NATIJA: May-Oct 2026 ke dauran English press (The Hindu, Indian Express, Times of India, DT Next, The News Minute, South First, Deccan Herald, NDTV) me Veppanahalli seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry (sadak/paani/school/aspataal lokarpan, swikriti GO, shilanyas, ya vibhagiya data wali report) NAHI mili.
+// 6. NEGATIVE: naam se koi FIR/case/janch ya jawab-wali credible reporting NAHI mili — galat "Srinivasan" wale case-hits (Vellore kidnap revision, Krishnagiri loan-harassment, Gudiyatham) sab alag vyakti; ek bhi negative entry qualifying nahi.
+// NOTE: vipaksh ke pehli-baar MLA, sabha sirf ~5 mahine purani — khaali profile imaandar hai.
+
+// ---- Krishnagiri district batch: balakrishnareddy-p — researched 15 Oct 2026 ----
+// REJECT-LOG (Roman Hinglish):
+// 1. Chunav jeet ki khabrein (May 2026 - TOI, Indian Express, Zee News, The Hindu): Hosur seat par AIADMK ke Balakrishnareddy P ne 1,09,867 vote se jeeta, margin 27,803. Ye election result hai, kshetra-kaam nahi - REJECT (pre-term/political, works entry nahi).
+// 2. Hosur airport virodh (28 Aug 2026 - The Hindu, DT Next, Oneindia, News Today): Vidhan Sabha me Housing & Urban Development demand-par bahas ke dauran MLA ne sarkar se proposed Hosur greenfield airport ko Parandur ki tarah drop karne ki appeal ki, minister KA Sengottaiyan ne kharij kiya. Ye sirf MAANG/PRSTAV hai, koi kaam/lokarpan/swikriti nahi - REJECT.
+// 3. Collector ko petition (HosurUpdates Twitter aggregator): agriculture water supply + Hosur ring road ki maang wala gyapan. Source list me approved English media nahi (sirf social-media aggregator) aur petition = maang, kaam nahi - REJECT.
+// 4. Kairali Samajam Hosur sports meet (Sep 2026, community org ki apni site): MLA ne community ke sports event ka udghatan chief guest ki haisiyat se kiya. Sarkari yojana/kaam nahi, sirf karyakram me maujoodgi - REJECT.
+// 5. Negative check: May 2026 ke baad MLA ke khilaf koi nayi FIR/case/janch ki credible English news reporting nahi mili. Purana 2019 rioting conviction pre-term hai (suspended/acquitted, The Hindu profile me darj) - negative entry layak nahi.
+// Net: May 2026 ke baad ka koi qualifying kshetra-kaam established English media me post-event reporting ke roop me nahi mila, isliye array khaali hai.
+
+tamilNaduWorks['balakrishnareddy-p'] = [];
+
+// ---- Krishnagiri district batch: ramachandran-t — researched 15 Oct 2026 ----
+tamilNaduWorks['ramachandran-t'] = [];
+
+// REJECT-LOG (ramachandran-t — CPI, Thally AC, Krishnagiri — research 15 Oct 2026)
+// 1. The Hindu, "CPI protests against demolition threat in Krishnagiri" (8 Jun 2026 — article khud kholkar padha gaya) — REJECT: ye andolan/agitation hai, vikas-kaam nahi. Ramachandran ne CPI state secretary M. Veerapandian ke saath Kelamangalam town panchayat me HR&CE board ke eviction notices ke khilaf protest lead kiya; officials se talks ke baad "abhi koi action nahi hoga" ka assurance mila aur protest khatm hua. Koi udghatan, shilanyas, sanction, ya poora kaam nahi.
+// 2. The Hindu, "Tamil Nadu election 2026: Thally constituency awaits upliftment" (~Apr 2026) — REJECT: chunav-purva seat profile; koi kaam report nahi, maang/issues ki background khabar.
+// 3. TOI, "Thalli election results 2026: CPI wins against BJP by 5,240 votes" (May 2026) — REJECT: chunav-natija, vikas-kaam nahi.
+// 4. The Hindu, "Krishnagiri apportions two seats each to, TVK, two Dravidian majors" (May 2026) — REJECT: chunav-vishleshan, koi kaam nahi.
+// 5. DT Next, "2026 TN polls | CPI fields familiar faces, grassroots champions" (29 Mar 2026) — REJECT: candidate announcement, pre-term.
+// 6. The Hindu, "T. Ramachandran files nomination for Thally constituency" (2 Apr 2026) — REJECT: namankan, pre-term.
+// 7. TOI, "Assembly elections 2026: Will the Left retain its last bastion in Tamil Nadu?" (15 Apr 2026) — REJECT: chunav campaign coverage, pre-term.
+// 8. The Hindu, "Krishnagiri court acquits Thally MLA Ramachandran among 12 in 2013 murder case" (9 Jan 2026) — REJECT as negative: pre-term (karyakaal May 2026 se shuru); aur ye ACQUITTAL hai (prosecution case prove nahi kar payi) — conviction/FIR-sthiti nahi, isliye negative entry ka aadhar nahi.
+// 9. Purane legal cases (Wikipedia/TOI/Business Standard — 2012 temple-festival violence, Kelamangalam illegal quarry case, 2015 Goondas Act detention, PDK leader T. Palani murder case) — REJECT as negative: sab 2012-2015 ke purane mamle, pre-term, aur post-May 2026 me in par koi nayi prakriya-sthiti (naya FIR/charge/janch) report nahi hui.
+// 10. New Indian Express, "New Anchetty union tops Ramachandran's Agenda" (22 May 2011) — REJECT: 2011 ki purani khabar (Anchetty panchayat union ki maang), pre-term.
+// 11. onefivenine.com village directory pages (Thally block villages) — REJECT: directory listings, news source nahi.
+// 12. SEAT-WORK NATIJA: May 2026 se Oct 2026 tak English press (The Hindu, Indian Express, TOI, DT Next, The News Minute, South First, Deccan Herald, NDTV) me Thally seat par Ramachandran ki vyaktigat seat-level bhoomika wali koi qualifying works entry (udghatan / shilanyas / GO-sanction / poora kaam / RTI-adharit) NAHI mili. Karyakaal sirf ~5.5 mahine purana hai. Array khaali rakha gaya.
+
+// COORDINATOR QA NOTE (Krishnagiri, 15 Oct 2026): 6/6 MLA researched, sabhi slugs append se pehle 0 matches the; batch se +1 entry (mukundhan-p, breakfast scheme district launch — NIE article coordinator ne khud khola, poora credit-disclosure); baaki 5 imaandari se khaali; hygiene: 0 Devanagari/Tamil script, 0 Rs-symbol-issue, literal-\n nahi.
