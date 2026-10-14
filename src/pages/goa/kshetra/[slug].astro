@@ -1,0 +1,15 @@
+---
+import KshetraDetail from '../../../components/KshetraDetail.astro';
+import { goaConstsAll, goaNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return goaConstsAll.map(c => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const kshetra = goaConstsAll.find(c => c.slug === slug);
+if (!kshetra) throw new Error('Constituency not found: ' + slug);
+const leaders = goaNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
+---
+
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="/goa" stateName="Goa" districtHref={kshetra.district ? `/goa/jila/${kshetra.district.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/` : null} />
