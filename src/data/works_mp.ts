@@ -5927,3 +5927,142 @@ mpWorks['anil-jain'] = [
 // nahi; Tomar/Uikey precedents (maang par ailaan entry nahi banti).
 // nitendra-singh-rathore (Prithvipur AC-45): profile KHAALI — koi pass-worthy entry nahi. Rejects: Zee News CM food-processing-unit ailaan (maang par ailaan); todayindianewsmp bayan/palatwar (kaam nahi, dubious source); YouTube-only Keshavgarh lokarpan (source reject + detail nahi); public.app CHC shivir nirikshan + Tiranga Yatra maujoodgi (source + sirf daura); livehindustan galat vyakti (Nagendra Rathore, Farrukhabad UP); narmadanchal CC road (Sitasharan Sharma ka ilaka, inka kshetra nahi); Zee News Shishupal-audio (aarop doosre par, Nitendra ka bayan sirf); Business Standard ADR criminal-cases stat (koi khabar/karyavahi nahi); YouTube bayan-video.
 // anil-jain (Niwari AC-46): 6 entries PASS (86-road ghoshna QA me hati). Rejects: lalluram clean-chit story (bina FIR/case ke na negative, na kaam); indianmasterminds CM-visit (sirf maujoodgi); thehitavada Ram Raja Lok (CM ghoshnaen, bhoomika nahi; Orchha phase-2 kshetra-bahar); YouTube stadium videos (source reject); public.app Poha Khas shilanyas (source reject); Jal Arpan Divas (jagrukta karyakram, kaam nahi); Seva Jyoti Yatra (nirdesh bhar, swikriti nahi); medical college ichchha (bhavishya, reject); jila-8-years roundup (specific kaam nahi); myneta/oneindia/wiki/abplive profile pages (kaam nahi); YouTube samudayik-bhavan video (source reject); 26 Jul 2026 CM event 193cr/59 karya (CM-stariya, sirf maujoodgi).
+
+// ---- Panna district batch (researched 2026-10-14) ----
+mpWorks['prahlad-lodhi'] = [
+  {
+    title: 'Pawai ke Simaria me 132 kV power substation ka lokarpan vidhayak Prahlad Lodhi ne ribbon kaatkar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ITN National (indiantvnews.in), 26 Jun 2024',
+    sourceUrl: 'https://indiantvnews.in/archives/49128',
+    date: '2024-06-26',
+    note: 'Simaria (Pawai tehsil, Pawai AC-58 ke andar) me 132 kV power substation ka shubharambh vidhayak Prahlad Lodhi ne ribbon kaatkar kiya. Report ke mutabik station se hi 33 kV supply chalu kar di gayi, jis se Simaria kshetra ki low-voltage samasya ka samadhan aur Hinota-Damoh feeders se nirbaadh supply ka dawa kiya gaya. Karyapalak abhiyanta Pawai (Mukesh Chaure) ka bayan bhi darj hai. Stage: lokarpan (poora kaam). Credit-pardarshita: portal ne substation ko vidhayak ke vishesh prayas se bana bataya hai, lekin khud report ye bhi likhti hai ki station Adani Group ne Ludhani gram ke najdeek sthapit kiya — vishesh-prayas wala dawa reportar ka hai, GO ya prashasnik swikriti-doc se satyapit nahi. Fund-srot Adani Group ka nivesh lagta hai, vidhayak-nidhi ya rajya-yojana hone ka saboot report me nahi. Disclosure: ye chhota local portal (ITN National, Pawai-based reporter) hai, established media nahi.',
+    period: '2023-2028',
+  },
+];
+// COORDINATOR QA NOTE (2026-10-14, Panna batch): lodhi ki Rs 125 crore 4-sadak 'swikriti' entry HATA di —
+// swikriti CM/Lok Nirman Mantri ke star par mili thi; worker ne khud likha 'unke vyaktigat prayas ka
+// swatantra satyapan nahi hai' — sirf maang + aabhaar. Penchi-Kumbhraj precedent: rajya-pariyojna ki
+// swikriti MLA ki entry NAHI banti jab tak unka dastavezi concrete kadam na ho.
+
+mpWorks['brijendra-pratap-singh'] = [
+  {
+    title: 'Panna Janpad Panchayat parisar me Rs 525.67 lakh ke atyadhunik bahu-uddeshiya karyalaya bhavan ka bhoomi-pujan, Panna vidhayak Brijendra Pratap Singh mukhya atithi rahe',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskarhindi, 27 Mar 2026',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-a-state-of-the-art-janpad-panchayat-office-costing-over-five-crore-rupees-is-set-to-be-constructed-mla-brijendra-pratap-singh-performed-the-groundbreaking-ceremony-1271260',
+    date: '2026-03-27',
+    note: 'Panna shahar ke Janpad Panchayat parisar me lagbhag Rs 525.67 lakh ki lagat se banne wale naye karyalaya bhavan ka bhoomi-pujan 26 Mar 2026 ko sampann hua; vidhayak mukhya atithi the. Stage: shilanyas-bhoomi pujan; nirman shuru hona baki hai. Fund-srot sarkari yojana (departmental) hai, vidhayak-nidhi ka koi ullekh nahi; article me MLA ke swayam kisi rakam ke dawe ki reporting nahi hai, isliye badge news rakha hai. Source Bhaskarhindi ka sthaniya Panna page hai (established regional media). Status: nirmanadheen-apekshit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ajaygarh kshetra me Kathgaon se Makri tak 3 km sadak (Rs 362.23 lakh, Lok Nirman Vibhag) ka bhoomi-pujan 14 Mar 2026 ko Panna vidhayak ne mukhya atithi ke roop me kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskarhindi, 16 Mar 2026',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-former-minister-and-mla-brijendra-pratap-singh-performed-the-groundbreaking-ceremony-for-the-kathgaon-makri-road-1265782',
+    date: '2026-03-14',
+    note: 'Lok Nirman Vibhag dwara swikrit 3 km sadak pariyojna ke liye shasan se Rs 362.23 lakh ki swikriti mili aur 14 Mar 2026 ko bhoomi-pujan hua. ECI Delimitation Order 2008 ke anusar Panna AC-60 me poora Ajaigarh tehsil shamil hai, isliye ye seat ke andar ka kaam hai. Stage: shilanyas; fund-srot rajya sarkar (PWD) hai. Badge news hai kyunki article me swikriti aur rakam ki pakki reporting hai, MLA ke swayam dawe ka ullekh nahi. Status: nirmanadheen.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Panna shahar me Rs 125 lakh ki lagat se nirmit pul ka lokarpan 7 Oct 2025 ko Panna vidhayak ne phita katkar kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskarhindi, 7 Oct 2025',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-inauguration-of-bridge-constructed-at-a-cost-of-rs-125-lakh-panna-mla-brijendra-pratap-singh-emphasized-on-development-works-1195559',
+    date: '2025-10-07',
+    note: 'Panna shahar (Kilkilia nadi/Pran Nath mandir kshetra) me bana Rs 125 lakh lagat ka pul poorna hokar lokarpit hua; Nagar Palika adhyaksh Meena Pandey bhi upasthit thin. Stage: poora hua kaam/lokarpan. Article me vidhayak ke do bayan bhi hain — Jugal Kishore Lok lane ki ghoshna aur Kilkilia saundaryikaran ke prayas — lekin dono ke liye koi GO/rakam/swikriti nahi hai, isliye unhe entry nahi banaya, sirf lokarpit pul ko liya. Fund-srot ka spasht ullekh nahi (nagarpalika kshetra ka kaam). Status: poorna.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Panna Nagar Palika parisar ke renovation karyon aur mukhya dwar par lage sensor-gate ka lokarpan 6 Apr 2026 ko vidhayak ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskarhindi, 6 Apr 2026',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-mla-brajendra-pratap-singh-inaugurated-the-newly-constructed-entrance-gate-and-premises-of-the-panna-municipality-1276347',
+    date: '2026-04-06',
+    note: 'Nagar Palika Parishad Panna ke karyalaya parisar me hue renovation karyon ka lokarpan vidhayak ne shila-pattika ka anaavaran karke aur mukhya dwar ke sensor-gate ka phita katkar kiya; karyakram ki adhyakshata napa adhyaksh Meena Pandey ne ki. Stage: poora hua kaam/lokarpan. Article me lagat/rakam ya fund-srot (vidhayak-nidhi vs nagarpalika) ka koi ullekh nahi hai, isliye fund-srot agyaat rakha hai. Status: poorna.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bandha Bariyarpur bandh ke neeche Ken nadi par Rs 36 crore ki lagat se pul-nirman ki 2025-26 ke anupurak budget me swikriti mili; nirman Lok Nirman Vibhag karega',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Umh News India, 3 Dec 2025',
+    sourceUrl: 'https://umhnewsindia.in/gift-of-development-work-due-to-efforts-of-panna-mla/',
+    date: '2025-12-03',
+    note: 'Ajaygarh tehsil ke gramvasiyon ko Khajuraho (Chhatarpur) jaane ke liye 60 km ghoomkar jana padta tha; pul banne par 13 km ka seedha sampark milega. Article me 2025-26 ke anupurak budget me swikriti, Rs 36 crore ki lagat aur PWD se nirman ki pakki reporting hai (tareekh 3 Dec 2025), isliye stage swikriti liya hai. Location Ajaigarh tehsil = ECI delimitation ke anusar Panna AC-60 ke andar. Credit-pardarshita: article ise vidhayak ke prayason ka parinaam batata hai lekin isme MLA ka swayam ka uddhrit dawa nahi hai, isliye badge news hai. Disclosure: Umh News India chhota sthaniya portal hai; yahi khabar cnewsbharat par bhi chhapi hai lekin dono hi chhote portal hain — swikriti ke liye GO/sanction-order ki swatantra pushti nahi mili. Fund-srot rajya sarkar (PWD). Status: swikrit, nirman baki.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rajesh-kumar-verma'] = [
+  {
+    title: 'Vidhayak Dr. Rajesh Verma ne gram panchayat Harira mein Rs25 lakh ki lagat se bani CC road aur naali ka lokarpan kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'BhaskarHindi, 30 Dec 2025',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-mla-rajesh-verma-inaugurated-a-25-lakh-rupee-concrete-road-in-harira-village-1232690',
+    date: '2025-12-30',
+    note: 'Stage: poora hua kaam — CC road + naali nirman poora, vidhayak ne lokarpan kiya (Dec 2023+ tenure). Rakam Rs25 lakh. Fund-srot article me specified nahi (vidhayak-nidhi/sarkari yojana ka ullekh nahi), isliye credit-pardarshita: vidhayak mukhya atithi ke roop me lokarpan me shamil, fund-srot ajnaat. Event date article publication (30 Dec 2025) ke aas-paas hai. Note: isi article me vidhayak ka moukhik dawa ("100 sadakein swikrit, 28 ka kaam March-April me shuru") bina GO/tareekh ke tha — ghoshna mana gaya, alag entry nahi banayi. Source BhaskarHindi ka Panna city edition hai (established media).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak ne 21 Dec 2025 ko gram Makari Kuthar mein Rs40 lakh ke kaamon (puliya, CC sadak aur naali) ka lokarpan aur bhoomipujan kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'BhaskarHindi, 22 Dec 2025',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-in-makari-kuthar-village-the-gunnor-mla-inaugurated-and-laid-the-foundation-stone-for-construction-projects-worth-40-lakh-rupees-1229333',
+    date: '2025-12-21',
+    note: 'Stage: lokarpan + bhoomipujan — kuchh kaam poore (lokarpan) aur kuchh shuru (bhoomipujan), kul lagat Rs40 lakh. Panchayat-stariya sadak/puliya/naali. Fund-srot article me specified nahi; credit-pardarshita: vidhayak ne karyakram kiya, scheme/fund ajnaat. Event date 21 Dec 2025 (Ravivar), article 22 Dec 2025 ko publish. Mukhya karyapal adhikari Janpad Panna aur anya prashasanik adhikari maujood — sarkari nirman ki pushti hoti hai. Source BhaskarHindi Panna edition (established media).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak ne gram panchayat Kot Khamariya mein Rs20 lakh ki lagat ke CC road ka lokarpan kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'cnewsbharat (local portal, reporter Rafi Siddiqui)',
+    sourceUrl: 'https://cnewsbharat.com/hindi/news/panna-141784',
+    date: '2025-11',
+    note: 'Stage: poora hua kaam — Rs20 lakh ki CC road ka lokarpan, saath hi Rs11.20 lakh ke anganwadi bhavan ka bhoomipujan (alag entry dekhein). Fund-srot article me specified nahi; credit-pardarshita: vidhayak mukhya atithi, fund-srot ajnaat. IMPORTANT DATE DISCLOSURE: page par publication date maujood nahi thi; article kehta hai "Ravivar ko". Usi kahani ka coverage Nov 2025 me mila (public.app listing "Last Updated: 408 days ago", BhaskarHindi article slug me same title), isliye date ko "2025-11" anumanit maana gaya hai — pakki tareekh verify nahi. Source chhota local portal hai (cnewsbharat, reporter naam sahit) — disclosure ke saath include kiya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak ne gram panchayat Kot Khamariya mein Rs11.20 lakh ki lagat se banne wale anganwadi bhavan ka bhoomipujan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'cnewsbharat (local portal, reporter Rafi Siddiqui)',
+    sourceUrl: 'https://cnewsbharat.com/hindi/news/panna-141784',
+    date: '2025-11',
+    note: 'Stage: bhoomipujan — Rs11.20 lakh ke anganwadi bhavan nirman ka shubharambh; vidhayak ke anusaar bhavan se bachchon ke vikas aur sthaniya teeka-karan ki suvidha milegi. Fund-srot specified nahi. Date disclosure pichli entry jaisa: page par date nahi, "Ravivar" event, Nov 2025 coverage se anumanit "2025-11" — pakki tareekh verify nahi. Chhota local portal, reporter ke naam ke saath, disclosure sahit include. Anganwadi bhavan "School/Aspataal" categories me fit nahi hota, isliye category "Any" (bal-kalyan/samanya bhavan).',
+    period: '2023-2028',
+  },
+  {
+    title: '4 July ko vidhayak ne Saleha gram panchayat mein Rs37.49 lakh ke Atal Gram Sushasan Bhavan aur Rs12.50 lakh ke samudayik bhavan ka bhoomipujan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Aug 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/panna/news/encroachment-removed-from-in-front-of-atal-sushasan-bhawan-under-construction-135781438.html',
+    date: '2025-07-04',
+    note: 'Stage: bhoomipujan + swikriti — established media (Dainik Bhaskar) me rakam aur tareekh ke saath report: Sushasan Bhavan ke liye Rs37.49 lakh aur samudayik bhavan ke liye Rs12.50 lakh ki rashi swikrit; 4 July ko vidhayak ne bhoomipujan kiya. Year disclosure: article Aug 2025 ka hai aur "4 July" ko past event batata hai, isliye 4 July 2025 mana gaya. Fund-srot scheme ke naam ke saath specified nahi, lekin rakam swikrit ki established-media report hai. Vidhayak ke karyakram ke roop me shreya unhi ko jata hai, lekin yojana sarkari hai — yeh credit-pardarshita note me saaf hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Makar Sankranti (14 Jan 2026) ko vidhayak ne gram panchayat Sigaura (Pandvan–Sigaura) mein lagbhag Rs15 lakh ke samudayik bhavan ka bhoomipujan kiya; fund FY 2025-26 ke additional stamp duty head se.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'BhaskarHindi, 15 Jan 2026',
+    sourceUrl: 'https://www.bhaskarhindi.com/city/panna/panna-news-on-the-occasion-of-makar-sankranti-singaura-received-a-gift-of-development-mla-dr-rajesh-verma-performed-the-groundbreaking-ceremony-for-a-community-hall-worth-15-lakh-rupees-1239629',
+    date: '2026-01-14',
+    note: 'Stage: bhoomipujan + swikriti — established media me rakam (~Rs15 lakh) aur budget-head ke saath: additional stamp duty mad ke tahat FY 2025-26 ke budget se bhawan banega. Gunnaor vidhansabha ke andar Sigaura panchayat me sthit. Fund-srot rajya yojana (stamp duty head) — vidhayak-nidhi/sansad-nidhi nahi. Vidhayak ne shilapatt ka anaavaran karke bhoomipujan kiya; sarkari fund ki swikriti ke saath kaam shuru hua. Event Makar Sankranti 14 Jan 2026, article 15 Jan 2026 ko publish.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Panna district batch REJECT-LOG (2026-10-14) ----
+// prahlad-lodhi (Pawai AC-58): 1 entry PASS (Simaria 132kV substation lokarpan). Rejects: YouTube-only 4.25cr road bhoomi-pujan; YouTube-only Maa Kalehi sanskritik bhavan + vishramgrah ghoshna; YouTube Rajdhanitak janpad karyalay bhavan; 2019 jail-saza case (pre-term, works-item nahi); SDM-shikayat patra (kaam nahi); Starsamachar CM Amanganj karyakram (maujoodgi); sharab-taskar peecha (law-and-order, works nahi); Bolero-durghatna aspatal visit (daura); Zee News zameen-hadpane aarop (shikayat matra, FIR/case nahi); birthday wish (irrelevant).
+// rajesh-kumar-verma (Gunnaor SC AC-59): 6 entries PASS. Rejects: RNI News Amanganj coaching (kshetra-bahar); CM-se 6-sadak swikriti anurodh (sirf maang); Gunnaor micro-sinchai maang (sirf maang); Midhasan nadi punruddhar maang (sirf maang); Devendranagar bypass/NH-39 maang (sirf maang); Barsobha pul nirikshan (sirf daura); samiksha baithak + ADIP tricycle (yojana-vitaran); public.app 79.09cr sadak swikriti (source reject); public.app Katakha items (source reject + kshetra-bahar); YouTube items x2; CM 24 Jul 2026 Gunnaor karyakram (maujoodgi); BhaskarHindi Telegram share 403 (use nahi).
+// brijendra-pratap-singh (Panna AC-60): 5 entries PASS. Rejects: 22 Mar 2026 doura-preview ghoshna (karenge khabar); CM 24 Jul 2026 184.83cr Panna karyakram (maujoodgi); Mukhyamantri Scooty vitaran (yojana, kaam nahi); CM Amanganj 106cr (maujoodgi + Gunnaor seat); Chhatrasal college aashwasan (sirf maang); Delhi Shivraj Chouhan bhet/PMGSY prastav (sirf maang); Salaiya sadak YouTube-only; Jila Vikas Salahkar baithak (nirikshan); Dharampur tehsil/Atal Sushasan Bhavan (rajya faisla, sirf udghatan-karta); Panna-Pahadikheda sadak 67.10cr (pre-term); Atal Nagar Vatika (sansad mukhya atithi); Buxwah daura 2021 (pre-term + doosri seat).
