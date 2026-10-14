@@ -6159,3 +6159,288 @@ mpWorks['dr-prabhuram-choudhary'] = [
 // devendra-patel: profile KHAALI — vipakshi MLA, coverage sirf virodh/maang/inspection (Sultanganj-Haidargarh road inspection, civil hospital mudda, public.app tanker ghoshna, YouTube pani-tanker video, galat vyakti Devendra Singh Patel/Udaipura), parivar (pote ka apharan) — sab REJECT; credible Dec 2023+ kaam ka text-source nahi mila.
 
 // COORDINATOR QA NOTE (Raisen, 2026-10-14): PMGSY-4 entry ka badge 'sarkari' se 'news' kiya (Amar Ujala report hai, GO nahi); Badher/Badher-Jamunia entries ke titles/notes me pre-event schedule disclosure bana rakha hai — pushti mile to stage update yogya.
+
+// ---- Rajgarh district batch (researched 2026-10-14) ----
+
+mpWorks['mohan-sharma'] = [
+
+];
+
+mpWorks['narayan-singh-panwar'] = [
+  {
+    title: 'Khanota me talab jirnoddhar, Khedapati Hanuman mandir boundary wall, CC road aur samudayik bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'indiatv18.com, 12 Jun 2024 (est.)',
+    sourceUrl: 'https://indiatv18.com/news.php?id=Np-1-494841',
+    date: '2024-06-12',
+    note: 'Jal Ganga Samvardhan abhiyan ke tahat Biaora janpad ki gram panchayat Khanota me talab jirnoddhar, Khedapati Hanuman mandir ke paas boundary wall, CC road nirman karya aur samudayik bhavan sahit vibhinn nirman karyon ka bhoomi-pujan unhone kiya; avsar par shramdaan se vriksharopan bhi. Status: bhoomi-pujan — nirman purnata ki alag khabar nahi mili. Caveat: tithi article par print nahi thi; article image ke timestamp path (12 Jun 2024) se est.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khanota me Rs. 40 lakh ke nirmith vikas karyon ka lokarpan (do CC sadkein, samudayik bhavan sah boundary wall)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'indiatv18.com, 27 Mar 2025 (est.)',
+    sourceUrl: 'https://indiatv18.com/news.php?id=Nspm-1-544044',
+    date: '2025-03-27',
+    note: 'Biaora vidhan sabha kshetra ki gram panchayat Khanota me Rs. 40 lakh ki lagat se nirmith vikas karyon ka lokarpan unhone kiya — gram Khanota me Mukesh Sen ke ghar se Bane Singh Lodhi ke ghar tak CC sadak (Rs. 15 lakh), Hanuman mandir parisar me samudayik bhavan sah boundary wall (Rs. 15 lakh) aur gram Khanota se dev sthan ke raste par CC sadak (Rs. 10 lakh). Status: lokarpan (nirman poorn). Caveat: tithi article par print nahi thi; article image ke timestamp path (27 Mar 2025) se est.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Salariya Khedi aur Salehpur me Jal Ganga abhiyan ke antargat lagbhag Rs. 1.66 crore ke karyon ka bhoomi-pujan evam lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'indiatv18.com, 19 May 2025 (est.)',
+    sourceUrl: 'https://indiatv18.com/news.php?id=Mnsp-553496',
+    date: '2025-05-19',
+    note: 'Jal Ganga Samvardhan abhiyan ke antargat Biaora kshetra ki gram panchayat Salariya Khedi evam Salehpur me lagbhag Rs. 1 crore 66 lakh ke vibhinn nirman karyon ka bhoomi-pujan evam lokarpan unhone kiya. Status: bhoomi-pujan evam lokarpan — itemized karya-soochi article me nahi di gayi. Caveat: tithi article par print nahi thi; article image ke timestamp path (19 May 2025) se est.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Biaora nagar ke ward 17 me Amrut 2.0 ke tahat Rs. 47 lakh ke park nirman ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'indiatv18.com, 19 May 2025 (est.)',
+    sourceUrl: 'https://indiatv18.com/news.php?id=Mnsp-553496',
+    date: '2025-05-19',
+    note: 'Nagar palika Biaora ke ward 17 me Amrut 2.0 yojana ke antargat Rs. 47 lakh ki lagat se banne wale suvyavasthit park ke nirman karya ka bhoomi-pujan unhone kiya; unke mutabik 1 lakh ki aabadi wale Biaora me koi sthai park nahi tha. Status: bhoomi-pujan — nirman purnata ki alag khabar nahi mili. Caveat: tithi article par print nahi thi; article image ke timestamp path (19 May 2025) se est.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ekta padyatra karyakram me Rs. 15 lakh ki puliya, Punarkhedi ke liye Rs. 8 lakh aur Bhilwada me naye vidyut grid ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Navabharat, 13 Nov 2025',
+    sourceUrl: 'https://navabharat.com/?p=336114',
+    date: '2025-11-13',
+    note: 'Rajgarh/Biaora me Devalkheda se Karanwas tak nikli ekta padyatra ke dauran unhone Rs. 15 lakh ki puliya nirman ki ghoshna ki, gram Bhilwada me naye vidyut grid nirman ki ghoshna ki, aur Punarkhedi gram ke vikas hetu Rs. 8 lakh ki rashi swikrit kiye jane ki ghoshna ki. Status: ghoshna (dawa) — in ghoshnaon ke liye koi sarkari aadesh/GO ya swikriti-patra ki alag khabar nahi mili; ye unke karyakram-bhashan ki reporting hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ghurel pahadi par Pashupatinath Mahadev mandir ke naveen nirman ka bhoomi-pujan/shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/rajgarh/biaora/news/groundbreaking-ceremony-for-the-construction-of-pashupatinath-temple-on-ghurel-hill-in-biaora-136533805.html',
+    date: '2026-02',
+    note: 'Biaora vidhan sabha kshetra ki Ghurel pahadi par sthit prasiddh teerth sthal Bhagwan Pashupatinath Mahadev ke naveen mandir nirman karya ka bhoomi-pujan unhone badi sankhya me shraddhaluon ke saath vidhi-vidhan se kiya. Status: bhoomi-pujan. Caveat: ye sthaniya samiti/samajik sangathanon ki dharmik pariyojna hai — sarkari nidhi ka ullekh article me nahi hai; unki bhoomika bhoomi-pujan karne wale ke roop me hai. Tithi article par "8 mahine pehle" likhi thi (Feb 2026, est.).',
+    period: '2023-2028',
+  },
+  {
+    title: '6 gram panchayaton me lagbhag Rs. 3.65 crore ke vikas karyon ka bhoomi-pujan evam lokarpan (Shahpura, Kachnaria, Jepla, Niwania, Moya, Jamonia Ghata)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'emsindia (Express Media Service), 8 Feb 2026',
+    sourceUrl: 'https://www.emsindia.com/news/show/3174710/regional',
+    date: '2026-02-08',
+    note: 'Biaora vidhan sabha kshetra ki 6 gram panchayaton me lagbhag Rs. 3 crore 65 lakh ki lagat se nirmith evam prastavit vibhinn vikas karyon ka vidhivat bhoomi-pujan evam lokarpan unhone kiya — Shahpura (Rs. 27 lakh), Kachnaria (Rs. 47 lakh), Jepla (Rs. 49.29 lakh), Niwania (Rs. 1.02 crore), Moya (Rs. 62.5 lakh), Jamonia Ghata (Rs. 77.5 lakh). Status: bhoomi-pujan evam lokarpan — itemized karya-soochi nahi di gayi. Caveat: EMS ek news agency wire hai (chhota/regional srot); byline Nikhil Kumar (Biaora).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Lakhanwas se Dudhia Diwan (Narsinghgarh) tak 7.70 km marg ke unnayan-chaudikaran karya ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'eksatbulletin.in, Mar 2026 (est.)',
+    sourceUrl: 'https://eksatbulletin.in/?p=170212',
+    date: '2026-03',
+    note: 'Biaora vidhan sabha kshetra ke gram Lakhanwas me Rs. 26.79 crore ke vikas karyon ki shringkhala ke tahat Lakhanwas se Dudhia Diwan (Narsinghgarh) marg (7.70 km) ke unnayan evam chaudikaran karya ka shubharambh/bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman purnata ki alag khabar nahi mili. Caveat: eksatbulletin.in chhota local portal hai; tithi article par print nahi thi (image path 2026/03 se est.).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Lakhanwas me naveen Prathamik Swasthya Kendra bhavan ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'eksatbulletin.in, Mar 2026 (est.)',
+    sourceUrl: 'https://eksatbulletin.in/?p=170212',
+    date: '2026-03',
+    note: 'Usi Lakhanwas karyakram me gram Lakhanwas me naveen prathamik swasthya kendra bhavan ka lokarpan unhone kiya, jisse grameenon ko sthaniya star par swasthya suvidha milne ka dawa kiya gaya. Status: lokarpan (bhavan taiyar). Caveat: eksatbulletin.in chhota local portal hai; tithi article par print nahi thi (image path 2026/03 se est.).',
+    period: '2023-2028',
+  },
+  {
+    title: '5 gram panchayaton (Pipliya Bag, Padlya Bana, Gadiya, Charpura, Manpura Dev) me Rs. 2.11 crore ke vikas karyon ka bhoomi-pujan/shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Apr 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/rajgarh/biaora/news/narayan-singh-panwar-lays-foundation-stone-five-gram-panchayats-byawra-137086766.html',
+    date: '2026-04',
+    note: 'Biaora vidhan sabha kshetra ki paanch gram panchayaton — Pipliya Bag, Padlya Bana, Gadiya, Charpura aur Manpura Dev — me Rs. 2 crore 11 lakh se adhik ke vikas karyon ka bhoomi-pujan/shilanyas unhone kiya; karyon me samudayik bhavan, puliya, boundary wall aur check dam shamil hain. Status: bhoomi-pujan — nirman purnata ki alag khabar nahi mili. Caveat: tithi article par "6 mahine pehle" likhi thi (Apr 2026, est.).',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['amar-singh-yadav'] = [
+  {
+    title: 'Gram Sinduriya me samudayik bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nava Bharat, 21 Nov 2025',
+    sourceUrl: 'https://navabharat.com/?p=342021',
+    date: '2025-11-21',
+    note: 'Rajgarh vidhan sabha kshetra ke gram panchayat Sinduriya me vidhayak Amar Singh Yadav ne samudayik bhavan ka bhoomi-pujan kiya; karyakram me jila panchayat sadasya Ramesh Tanwar, janpad adhyaksh Phool Singh Tanwar, mandal adhyaksh Kailash Tanwar sahit gramin upasthit rahe. Status: bhoomi-pujan — nirman purnata ki alag khabar nahi mili. Lagat aur nidhi ka srot (vidhayak-nidhi ya sarkari yojana) report me ullekh nahi — isliye fund-source ka koi dawa nahi kiya gaya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['hajarilal-dangi'] = [
+  {
+    title: 'Gram Barkhedi Umth me Rs. 5 lakh ki puliya ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: "People's Update, 10 Oct 2026",
+    sourceUrl: 'https://peoplesupdate.com/khilchipur-mla-hazarilal-dangi-bridge-bhoomipujan-self-help-group-women-honoured-200530',
+    date: '2026-10-10',
+    note: "People's Update ke mutabik Khilchipur kshetra ke gram Barkhedi Umth me Rs. 5 lakh ki lagat se banne wali puliya ka vidhivat bhoomi-pujan vidhayak Hajarilal Dangi ne kiya; puliya banne par sthaniya graminon ko aavagaman me suvidha milegi. Status: bhoomi-pujan — nirman poora hone ki alag khabar nahi mili. Disclosure: People's Update chhota sthaniya Hindi portal hai; isi report me gram Nataram me mahila swa-sahayta samooho ke samman karyakram ka bhi zikr hai, jo keval sahbhagita thi isliye entry nahi banayi.",
+    period: '2023-2028',
+  },
+];
+
+mpWorks['gotam-tetwal'] = [
+  {
+    title: 'Sarangpur nagar me 7 wards me Rs 1.51 crore ke CC road-nali, samudayik bhavan aur boundary wall karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 13 Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/rajgarh/sarangpur/news/bhoomipujan-of-development-works-worth-rs-1151-crore-in-sarangpur-136659186.html',
+    date: '2025-12-13',
+    note: '13 Dec 2025 ko Jai Nagar purane rest house prangan me unhone (sansad Rodmal Nagar ke saath) nagar palika kshetra ke kul Rs 11.51 crore ke karyon ki aadharshila rakhi; isme se Rs 1.51 crore se saat wards me CC sadak aur naali nirman, chaar sthanon par samudayik bhavan aur ek sthan par boundary wall honi hai (Dainik Bhaskar, post-event). Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Note: pre-event Bhaskar report (niveda poori hone ka zikr) swikriti ka sanket deti hai, lekin entry bhoomi-pujan ki post-event khabar par aadharit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sarangpur me lagbhag Rs 5 crore ke naveen Janpad Panchayat bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 13 Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/rajgarh/sarangpur/news/bhoomipujan-of-development-works-worth-rs-1151-crore-in-sarangpur-136659186.html',
+    date: '2025-12-13',
+    note: 'Usi 13 Dec 2025 ke karyakram me Sarangpur me Rs 5 crore ki lagat se banne wale naveen Janpad Panchayat karyalaya bhavan ka bhoomi-pujan unhone kiya (Dainik Bhaskar, post-event). Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: Oneindia Hindi ne isi bhavan ki lagat Rs 5.25 crore likhi hai aur venue "purana AB Road, Gopalpura" bataya hai — donon alag reporting hain, isliye double-entry nahi ki gayi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sarangpur me lagbhag Rs 4.9 crore ke vishram-grih ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 13 Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/rajgarh/sarangpur/news/bhoomipujan-of-development-works-worth-rs-1151-crore-in-sarangpur-136659186.html',
+    date: '2025-12-13',
+    note: 'Usi karyakram me Rs 4.90 crore ki lagat se banne wale vishram-grih ka bhoomi-pujan bhi unhone kiya; Bhaskar ke mutabik isse prashasanik karyon ke sanchalan me suvidha hogi. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sarangpur krishi upaj mandi parisar me Rs 1.45 crore ke nirman karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Swaraj Vani, 14 May 2026',
+    sourceUrl: 'https://swarajvani.com/dr-gautam-tetwal-lays-foundation-for-infras/',
+    date: '2026-05-14',
+    note: 'Sarangpur krishi upaj mandi parisar me lagbhag Rs 1.45 crore ke karyon — trolley shed, damrikaran, pani ki tanki, CC road aur vidyutikaran — ka bhoomi-pujan unhone kiya aur gunvatta-samaybaddhta ke sakht nirdesh diye. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: Swaraj Vani chhota sthaniya portal hai; note me iska disclosure diya gaya hai.',
+    period: '2023-2028',
+  },
+];
+
+// COORDINATOR QA NOTE (2026-10-14): mohan-sharma ki bijli-bill chetavni entry HATA di (chetavni ke baad
+// prashasan ne shiviron ki ghoshna ki, par shivir lage ya nahi iski koi pushti nahi — chetavni->ghoshna
+// entry nahi banti; profile imaandari se khaali). hajarilal-dangi ki Badbeli/Badheli entry HATA di
+// (article me 'upasthiti me' passive tha — lokarpan/bhoomi-pujan unhone kiya ye spasht nahi; maujoodgi = reject).
+// gotam-tetwal ki Mau-gaon entry HATA di (sourceUrl vivaad-article par tha, karyon ke aankde doosre portal
+// se bina satyapit shringkhala ke; profile me 4 saaf entries hain).
+
+// ---- Rajgarh district batch REJECT-LOG (2026-10-14) ----
+// --- REJECT-LOG (mohan-sharma) ---
+// REJECT-LOG (mohan-sharma, researched 2026-10-14)
+// R1. YouTube (MP Darpan channel, crawl ~Feb 2026): gram panchayat Lasudlya Haji me Rs. 25 lakh ke shasakiya samudayik bhavan + puliya ka bhoomi-pujan — YouTube-only source, koi text article nahi mila → reject (YouTube-only).
+// R2. public.app: Boda nagar palika ko Rs. 12.72 crore ke karyon ka lokarpan/bhoomi-pujan — public.app-only, mainstream text coverage nahi mili → reject.
+// R3. Bhaskar English (khud khola): Sandipani Govt Excellence Hr Sec School (bus stand, Narsinghgarh) ka lokarpan — karyakram prabhari-mantri Chaitanya Kashyap ka tha, vidhayak sirf upasthit; vivaad unke bete se juda tha → reject (sirf maujoodgi + parivar ka mamla un par kabhi nahi; negative criteria bhi poori nahi — koi FIR/case/adalaati sthiti ya unka jawab report me nahi).
+// R4. Zee News video page (khud khola, 23 Aug 2024): load-shedding par adhikariyon ko "nithalla" fatkaar — video-only page, sirf fatkaar, koi dastavezi parinam nahi → reject.
+// R5. public.app: Deputy CM Jagdish Devda se Bhopal me mulakat, "kai vishayon par charcha" — sirf charcha/maang, koi parinam nahi + public.app-only → reject.
+// R6. Trilok News (Mar 2024): mantri Gotam Tetwal ka atirvrishti/ola prabhavit kshetron ka daura; vidhayak saath me upasthit, sarve ke nirdesh mantri ke the → reject (sirf maujoodgi).
+// R7. vandematram.in (29 Apr 2025): CM ka Jal Ganga karyakram, Sarangpur; vidhayak upasthit suchi me — rajya karyakram me sirf maujoodgi → reject.
+// R8. AajTak (2 Mar 2024): Pilukhedi me Jyolo Pack audyogik ikai ka bhoomi-pujan — CM virtual, vidhayak atithi vakta; unki bhoomika concrete nahi → reject (sirf maujoodgi). [Note: isi event ki bijli-bill wali chetavni R-pass me alag entry hai.]
+// R9. Dainik Bhaskar (Nov 2025): Sandipani school me shikshakon ki swayam-nidhi se 100 sweater vitran; vidhayak mukhya atithi — shikshakon ki pahal, unka nidhi/kadam nahi → reject (sirf maujoodgi).
+// R10. Dainik Bhaskar: Saraswati Shishu Mandir me gantantra diwas dhwaj-arohan — karyakram me upasthiti, vikas-karya nahi → reject.
+
+// --- REJECT-LOG (narayan-singh-panwar) ---
+// REJECT-LOG
+// 1. YouTube video (Punarkhedi Rs. 30 lakh bhoomi-pujan) — REJECT: YouTube-only source; rules me YouTube-only reject hai.
+// 2. YouTube video (Biaora Rajgarh road par Maharana Pratap moorti ka lokarpan, 25 Sep 2025) — REJECT: YouTube-only source.
+// 3. YouTube video (PM Shri girls school Biaora me nishulk cycle vitran) — REJECT: YouTube-only source.
+// 4. YouTube video ("Rajya mantri Narayan Singh Panwar ke prayason se Biaora aspatal road ka karya pragati par") — REJECT: YouTube-only source.
+// 5. YouTube video (Know Your Leader interview) — REJECT: YouTube-only, kaam ki khabar nahi.
+// 6. lokmattimes Mann Ki Baat story (Biaora eco-bricks/plastic campaign) — REJECT: unki bhoomika sirf tippani/maujoodgi; kaam sthaniya samiti ka hai.
+// 7. Jagran (Bankpura/Biaora zameen adhigrahan vivaad, biogas plant) — REJECT: ye kaam nahi, raajnaitik vivaad me unka paksh; negative-entry ke mapdand (FIR/case/janch + jawab) poore nahi hote.
+// 8. emsindia (10-Feb-2026, Biaora sarkari aspatal me trauma centre ki swikriti hetu Dy CM se mulakat) — REJECT: sirf prayas/maang + ashwasan; swikriti ki pakki khabar nahi.
+// 9. navabharat (13 Nov 2025) me Devalkheda se Kaudiya jod tak Rs. 2.61 crore sadak ka bhoomi-pujan — REJECT: kshetra nirdharan aspasht (Rajgarh vidhan sabha side sambhav) + sanyukt padyatra karyakram me vyaktigat bhoomika aspasht.
+// 10. navabharat me Punarkhedi-Napliyakhedi Rs. 4.71 crore sadak ka bhoomi-pujan — REJECT: sanyukt karyakram (sansad + Rajgarh vidhayak sahit) me vyaktigat bhoomika spasht nahi; sirf usi event ki unki ghoshnaon ko dawa-entry me rakha gaya hai.
+// 11. pradeshkagaurav.com article (ekta padyatra) — REJECT: URL live-check me unavailable mila, khud kholkar verify sambhav nahi; search snippet se entry nahi ban sakti.
+// 12. Zee News (Beawar/Bijainagar road, Rajasthan) — REJECT: galat vyakti/galat sthan (Shankar Singh Rawat, Rajasthan).
+// 13. indiatv.in / navbharattimes (Oct 2026, unke paitrik ghar me chori) — REJECT negative-entry ke roop me: ve swayam shikayatkarta/peedit hain, aaropi nahi.
+// 14. mpcgtimes.com (ADR aadharit: un par 1 lambit aapradhik mamla — dhara 147/188/341) — REJECT negative-entry ke roop me: sirf affidavit-aggregate reporting; FIR ki vistrit khabar, janch-karyavahi ki sthiti aur neta ka jawab spasht nahi.
+
+// --- REJECT-LOG (amar-singh-yadav) ---
+// REJECT-LOG (amar-singh-yadav, researched 2026-10-14)
+// 1. mpfirst.in Rajgarh (Mar 2025): Rs 13 cr nagar palika lokarpan/bhoomi-pujan karyakram — sansad Rodmal Nagar mukhya atithi, MLA sirf upasthit → sansad ke karyakram me sirf maujoodgi.
+// 2. Dainik Bhaskar Unity March (Nov 2025): Rs 4.71 cr + Rs 2.61 cr sadak bhoomi-pujan — mantri Narayan Singh Panwar ke netritva me, sthan Karnawad (Dewas/Khategaon), MLA sirf upasthit → kshetra se bahar + sirf maujoodgi.
+// 3. Pradesh Ka Gaurav — wahi Unity March story → same reject.
+// 4. public.app Sustani: Atal Gram Sushasan Bhavan (Rs 35 lakh) lokarpan + samudayik bhavan bhoomi-pujan → public.app-only source.
+// 5. public.app Semli (28 Jun 2025): samudayik bhavan bhoomi-pujan → public.app-only source.
+// 6. public.app Devnarayan mandir: samudayik bhavan bhoomi-pujan → public.app-only source.
+// 7. public.app Dubli Hanuman mandir: Rs 5 lakh samudayik bhavan bhoomi-pujan + Rs 1 lakh nirman → public.app-only source.
+// 8. public.app Sankat Mochan colony: Rs 61 lakh CC road + naali bhoomi-pujan → public.app-only source.
+// 9. public.app Gopalpura: tin shed + Rs 15 lakh puliya lokarpan → public.app-only source.
+// 10. public.app Khujner: Man ki Baat prasaran sunna → karyakram me maujoodgi, kaam nahi + public.app-only.
+// 11. News18 (15 Apr 2026): protocol vivaad — MLA ne shasakiya karyakramon ka bahishkar ghoshit kiya; CMHO/civil surgeon par unke bhrashtachar ke aarop → neta ke viruddh koi aarop/FIR/janch nahi; eligible negative entry nahi.
+// 12. Newstrack road accident (~Oct 2026): MLA ki car-bike takkar me 1 ki maut — unke viruddh FIR/case ki report nahi; ghaylon ko khud aspatal le gaye, shok jataya → eligible negative entry nahi.
+// 13. ETV Bharat jalebi story (Jan 2025): Makar Sankranti par jalebi banana → trivia, kaam nahi.
+// 14. Dainik Jagran budget session: vidhan sabha me bhumiheen garibon ko patte me deree par sawal → sirf maang/sawal.
+// 15. Tirandaj (Bhilai, Chhattisgarh): "vidhayak Yadav" = Devendra Yadav, CG → galat vyakti.
+// 16. English search hits on "Yadav": CM Mohan Yadav ki Rajgarh yatra (200-bed hospital lokarpan, Shaurya Memorial) → galat vyakti (CM, vidhayak nahi); uska documented concrete kadam nahi → entry nahi.
+
+// --- REJECT-LOG (hajarilal-dangi) ---
+// ---- REJECT LOG (hajarilal-dangi) ----
+// 1. public.app (Khilchipur News, 10 Aug 2025) — Gram Hinotiya me Rs. 5 lakh samudayik bhavan ka bhoomi-pujan.
+//    REJECT: public.app-only — task rules me allowed source nahi.
+//    URL: https://public.app/video/sp_6uop2xow4y1if
+// 2. public.app (Khilchipur News, ~Dec 2025) — Nagpuria gaon me vidhayak-nidhi se Rs. 10 lakh CC road ka bhoomi-pujan.
+//    REJECT: public.app-only — mainstream coverage nahi mili.
+//    URL: https://public.app/video/sp_wlt8klj739hj7
+// 3. public.app (Khilchipur News, 19 Jul 2026) — Khilchipur nagar me Rs. 695 lakh indoor-outdoor stadium ka bhoomi-pujan (sansad Rodmal Nagar + vidhayak Dangi).
+//    REJECT: public.app-only — mainstream/established-media coverage nahi mili.
+//    URL: https://public.app/video/sp_ynh7gdvrc1fm8
+// 4. public.app (Khilchipur News, Oct 2026) — Gram Abaavta me Kuankheda-Kachhotiya marg se Abaavta tak Rs. 20 lakh sudur sadak ka bhoomi-pujan.
+//    REJECT: public.app-only — mainstream coverage nahi mili.
+//    URL: https://public.app/video/sp_8ojcmxtd2vjo3
+// 5. Nai Dunia, 17 Jan 2026 — Atal Sushasan Bhavan / navin janpad panchayat bhavan (Rs. 10.50 crore) ka bhoomi-pujan mantri Prahlad Patel ne kiya;
+//    vidhayak Dangi ne sirf samudayik/panchayat bhavanon ki maang rakhi (mantri ne toka).
+//    REJECT: mantri ka karyakram — MLA ki sirf maang, koi concrete kadam nahi.
+//    URL: https://www.naidunia.com/madhya-pradesh/rajgarh-khilchipur-mla-demanded-community-halls-from-minister-prahlad-patel-8423292
+// 6. YouTube (Tejas Live, Rajgarh24, Rangeelo News waghera) — vidhayak aur unke bete par zameen-vivad ke aarop, manch par minister se tok, yuvaon ke sawal par bhadakna.
+//    REJECT: YouTube-only sources task rules me allowed hi nahi; aaropon ki established-media me koi FIR/case/adalaati janch ki khabar nahi.
+// 7. newsdrum.in (PTI, 15 Sep 2023) — Congress neta Priyavrat Singh ka aarop: MLA ki dono patniyon ke naam Teerth Darshan Yojana suchi me; MLA ne khandan kiya, prashasan ne bachav kiya.
+//    REJECT: tenure rule — Sep 2023 current tenure (Dec 2023–) se pehle ka hai; aarop + khandan, koi FIR/case/adalaati janch nahi.
+//    URL: https://www.newsdrum.in/national/both-wives-of-bjp-mla-included-in-madhya-pradesh-govts-pilgrimage-scheme-list-claims-cong-leader-10466902
+// 8. The Statesman / Telegraph India (May 2024) — MLA ke pote Vijay Dangi ki Indore me maut; MLA ki arzi par SIT janch.
+//    REJECT: parivar ka mamla — un par KABHI nahi; aur ve yahan shikayatkarta hain, aaropi nahi.
+// 9. Patrika, Sep 2026 — CM Janvishwas Abhiyan shivir me vidhayak Dangi tehsildar Sunil Verma par naraz (naamantaran prakaran rokne ka aarop).
+//    REJECT: shikayat/narazgi — koi kaam nahi; MLA ke viruddh koi FIR/case/janch nahi.
+//    URL: https://www.patrika.com/rajgarh-news/bjp-mla-hazari-lal-dangi-angry-at-tehsildar-20917860
+// 10. mpbreakingnews.in (Nov 2023) — chunav prachar ke dauran prachar vahan par pathrao.
+//     REJECT: tenure rule (chunav-prachar, Dec 2023 se pehle) + koi kaam nahi.
+//     URL: https://mpbreakingnews.in/rajgarh/pelted-stones-on-publicity-vehicle-of-bjp-candidate-hazarilal-dangi-in-rajgadh-40722
+// 11. News18/ABP/BS/TOI/Oneindia/myneta/Wikipedia election profiles — jeet, affidavit, 2013/2023 chunav itihas.
+//     REJECT: background info only — koi kaam ka zikr nahi.
+// SARKARI CHECK: MP Vidhan Sabha/Rajgarh jila site par vidhayak-nidhi ki koi saarvajanik itemized suchi is neta ke naam par trace nahi hui; isliye koi 'sarkari' badge entry nahi bani.
+
+// --- REJECT-LOG (gotam-tetwal) ---
+// REJECT-LOG
+// - Rs 11.51 crore post-event Dainik Bhaskar (dainik.bhaskar.com/rbr7i9j33Yb): page app-redirect par marta tha; wahi content amp URL se kholkar verify kiya — entry usi URL par.
+// - public.app Kankariya (Pachore) Rs 57 lakh panchayat-bhavan/pul-puliya lokarpan+bhoomi-pujan (19 Nov 2025): public.app-only source — reject.
+// - YouTube Ward 8-A Sarangpur road (25 saal purani RCC sadak poornata) aur 1.5 crore bhoomi-pujan video: YouTube-only — reject.
+// - Karkhanekasafar epaper (23 Sep 2025): Kundalia dam se Sarangpur / Mohanpura dam se Pachore pani supply — sirf "maang patra/prayas", koi sanction/lokarpan/bhoomi-pujan nahi — reject.
+// - Swaraj Vani "Angan Milan Seva" (poshan kit vitran) aur "Seva Jyoti Yatra": campaign events, koi kaam nahi — reject.
+// - Swaraj Vani (13 Oct 2026) 15 naveen chikitsakon se baithak: sirf baithak/nirdesh, koi kaam nahi — reject.
+// - News18 viral (Dec 2025) organic haat bazaar udghatan: viral clip event, kshetra-attribution aspasht — reject.
+// - CM 352-crore Rajgarh / 112-crore Rajgarh (Bhairawamata, Jal Ganga Abhiyan): CM ke kaam, Tetwal sirf maujood — reject.
+// - English Dainik Jagran PKC irrigation felicitation: CM ki pariyojana, Tetwal ne sirf CM ki taarif me bhashan diya — reject.
+// - Kalma/azaan viral speech controversies (Nov 2024, Dec 2025): kaam nahi, sirf vivaad — reject.
+// - Pre-event Bhaskar 1.51 crore report (bhoomi-pujan se pehle): sirf announcement — post-event report par entry banayi, ye reject.
+// - Shuru.co.in civil hospital "auchak nirikshan": sirf nirikshan — reject.
