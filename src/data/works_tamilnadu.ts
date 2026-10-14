@@ -1846,3 +1846,272 @@ tamilNaduWorks['ramachandran-t'] = [];
 // 12. SEAT-WORK NATIJA: May 2026 se Oct 2026 tak English press (The Hindu, Indian Express, TOI, DT Next, The News Minute, South First, Deccan Herald, NDTV) me Thally seat par Ramachandran ki vyaktigat seat-level bhoomika wali koi qualifying works entry (udghatan / shilanyas / GO-sanction / poora kaam / RTI-adharit) NAHI mili. Karyakaal sirf ~5.5 mahine purana hai. Array khaali rakha gaya.
 
 // COORDINATOR QA NOTE (Krishnagiri, 15 Oct 2026): 6/6 MLA researched, sabhi slugs append se pehle 0 matches the; batch se +1 entry (mukundhan-p, breakfast scheme district launch — NIE article coordinator ne khud khola, poora credit-disclosure); baaki 5 imaandari se khaali; hygiene: 0 Devanagari/Tamil script, 0 Rs-symbol-issue, literal-\n nahi.
+
+// ---- Madurai district batch (researched 2026-10-15) ----
+// ---- Madurai district batch: p-viswanathan — researched 15 Oct 2026 ----
+tamilNaduWorks['p-viswanathan'] = [
+  {
+    title: 'Melur municipality me Rs 90 lakh ki lagat se bane paanch naye anganwadi kendron ka lokarpan kiya.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 21 Sep 2026',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Madurai/minister-inaugurates-new-anganwadi-centres-in-melur/article71491528.ece',
+    date: '2026-09-21',
+    note: 'District Collector Nishant Krishna ke saath 21 Sep 2026 ko Melur municipal area me paanch naye anganwadi bhavanon ka udghatan kiya; kul lagat Rs 90 lakh (prati kendra Rs 18 lakh); poora kaam State Finance Commission Grant (Operation and Maintenance, Infrastructure) 2025-26 ke tahat Municipal Administration and Water Supply Department dwara karaya gaya tha, kendra Vellanathampatti, Market Road, Anna Colony, Malampatty aur Kalaignar Nagar me hain. Shrey sarkari yojana aur vibhag ka hai — MLA ne lokarpan kiya tha, isliye entry credit-transparency ke saath jodi gayi hai.',
+    period: '2026-2031',
+  },
+  {
+    title: '21 June 2026 ko Melur me anti-drug marathon me nabalik ladki athletes ke saath anuchit shaaririk sampark ke aarop par DMK legal wing ne DGP office me POCSO shikayat di; mantri ne saare aarop kharij kiye.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 25 Jun 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/tamil-nadu/complaint-lodged-against-tn-higher-education-minister-viswanathan-for-touching-girl-athletes-legs/article71143246.ece',
+    date: '2026-06-25',
+    note: 'The Hindu (25 Jun 2026) ke anusaar DMK ke legal wing ki lawyer Saranya Natarajan ne DGP office me shikayat di ki 21 June ko Melur me anti-drug awareness marathon me mantri ne school ki ladki athletes ke saath deliberate, uninvited aur inappropriate physical contact kiya, jisme thighs, feet aur shoulders chhune ka aarop tha; shikayat me POCSO Act aur BNS ke tahat FIR darj karne ki maang thi. New Indian Express (25 Jun 2026) ke anusaar mantri ne 24 June ko diye statement me saare aarop kharij kiye, ise DMK dwara rajnaitik roop se prerit bataya aur kaha ki unhone marathon ke baad behosh hui ladkiyon ko first aid me madad ki thi; reporting me FIR darj hone ki pushti nahi mili.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (p-viswanathan, Melur AC, Madurai)
+// 1. The Hindu, 15 Sep 2026 — Sellur (Madurai) me "Malligai Cooptex" showroom ka udghatan Viswanathan aur M. Vijay Balaji ne kiya; Sellur Madurai sheher me hai, Melur AC ke bahar — kshetra-bahar isliye reject.
+// 2. Meenakshi Mandir Kumbabhishekam, 17 Sep 2026 (New Indian Express/Oneindia) — Viswanathan sirf maujood the; dusre ke karyakram me maujoodgi = entry nahi.
+// 3. The Hindu, 25 May 2026 — Higher Education mantri ke roop me press ko bayan (Governor se cordial ties, NEET virodh); sirf bayan, koi kaam nahi — reject.
+// 4. Congress candidate ghoshna, April 2026 (The Hindu/New Indian Express) — pre-term news, entry nahi.
+// 5. TOI — CM mini stadium foundation Melur, Karuthampuliyankudi — mantri P. Moorthy ne kiya tha, Viswanathan ka koi sambandh nahi; upar se pre-term (2025) — reject.
+// 6. The Hindu, Oct 2026 — Aruvimalai ke paas illegal stone quarry band karne ki villagers ki maang (Kachirayanpatti); MLA ki taraf se koi kaam/report nahi — sirf maang, reject.
+// 7. Cabinet expansion coverage (May 2026) — political khabar, kaam nahi — reject.
+
+// ---- Madurai district batch: karthikeyan-s — researched 15 Oct 2026 ----
+tamilNaduWorks['karthikeyan-s'] = [];
+
+// REJECT-LOG (karthikeyan-s, Madurai East AC, TVK; term began May 2026; mining window May-Oct 2026)
+// 1. The Hindu, 17 Jul 2026 — "Madurai East MLA says widening Vandiyur Tank Road will ease traffic congestion near Mattuthavani" (opened and read in full). MLA S. Karthikeyan, while inaugurating the private United Build Expo at Tamukkam Convention Centre, said the new government "would take up the proposal" to widen Vandiyur Tank Road by at least 80 feet, and that Collector/Corporation officials had done a survey three days earlier. Rejected: only a demand/proposal and a future "karenge" statement — no sanction order, no GO, no completed work. Inaugurating a private build convention is not a government work (mere event presence).
+// 2. Zee News Tamil (crawled Sep 2026) — report of Karthikeyan speaking at a Saurashtra Chamber felicitation event at Teppakulam, saying he became MLA within 100 days of joining TVK and pledging anti-corruption. Rejected: event appearance and political speech only; no work, sanction, or inauguration.
+// 3. Election-result coverage (The Hindu 4-5 May 2026, Times of India, ETV Bharat, Oneindia, Business Today) confirming Karthikeyan S (TVK) won Madurai East with 1,18,777 votes, defeating P. Moorthy (DMK) by 16,547 votes. Not works — pre-term election news, used only for identity verification.
+// 4. Oneindia "Tamil Nadu MLAs with Criminal Cases" list showing S. Karthikeyan (Madurai East, TVK) with 3 cases. Rejected as negative: affidavit case-count without any credible reporting of FIR/case status, court stage, or the MLA's response is not a negative per the rules. No separate news reporting of any case against him was found.
+// 5. Multiple targeted English and Tamil searches (Jul-Oct 2026) for inaugurals, foundation stones, bhoomi pooja, sanctions, water/school/road works, assembly demands, inspections, and controversies involving Karthikeyan S / Madurai East — returned nothing attributable to him as an MLA. Profile honestly kept empty.
+
+// ---- Madurai district batch: karuppaiah-m-v — researched 15 Oct 2026 ----
+tamilNaduWorks['karuppaiah-m-v'] = [];
+
+// REJECT-LOG (karuppaiah-m-v, Sholavandan AC, Madurai jila; May 2026-Oct 2026):
+// 1. Job fair, Madurai (The Hindu, 10 Oct 2026): mantri CTR Nirmalkumar ne appointment orders baante, Karuppaiah sirf maujood the (sath me Madurai Central, West ke MLA aur mayor/commissioner bhi). MLA ne na lokarpan kiya, na koi swikriti di - reject: dusre neta ke karyakram me sirf maujoodgi.
+// 2. SIPCOT Industrial Innovation Centre, Pudur Madurai (Times of India, Aug 2026): CM C Joseph Vijay ne video-conferencing se renovated centre (Rs 1.65 crore) ka lokarpan kiya; Karuppaiah ne sirf collector aur adhikariyon ke sath facility ka nirikshan kiya. Asal shrey CM/sarkari fund ka - reject: sirf nirikshan/maujoodgi.
+// 3. Alanganallur sugar mill reopening demand (IANS via Lokmat Times/The Hans India/Punjab Kesari, 30 Aug 2026): MLA ne Vidhan Sabha me National Cooperative Sugar Mill (band padi, revival ke liye Rs 50 crore ki zaroorat) ko dobara kholne ki maang uthai aur jallikattu arena (Rs 63 crore) par kharch par sawal kiya. Koi GO/sanction/order/action nahi - reject: sirf maang/prastav, bina dastavez ke "swikriti" = ghoshna.
+// 4. Jallikattu arena vivaad (Aug 2026): MLA ki Assembly tippani par AIADMK/AMMK samat virodhi dalon ki aalochana hui; 30 Aug ko MLA ne khed vyakt kiya; 31 Aug ko Speaker ne tippaniyon ko proceedings se hata diya (expunged). Yeh rajnaitik vivaad hai - koi FIR, case, giraftari ya janch ka aarop nahi - reject: negative entry ke rules (aarop + FIR/case/adalaati sthiti) meet nahi hue, isliye negative entry bhi nahi.
+// 5. Pro-tem Speaker pad (10-12 May 2026, DT Next/News18/ANI): Governor ne shapath dilayi; yeh sansadiya bhoomika hai (MLAs ko shapath dilana), koi kshetra-vikas kaam nahi - reject: kaam nahi, pad/role.
+// 6. Election-result reporting (TOI, Indian Express, ABP Live, News18, May 2026): jeet ke samachar aur profile pieces - reject: chunaav coverage kaam nahi.
+// 7. Sulur TVK MLA NM Sukumar par patthar phenkne ki ghatna (New Indian Express, 26 Sep 2026): Sulur (Coimbatore) ke doosre TVK MLA par attack - reject: galat vyakti.
+// 8. "Pala Karuppiah" stone-pelting (Business Standard, 2016): Harbour constituency ke purane AIADMK functionary Pala Karuppiah ke khilaf - reject: galat vyakti (naam milta-julta).
+// 9. K Karuppiah RRPIA Karaikudi candidate (NDTV, 2026): Karaikudi ka RRPIA ummidwar - reject: galat vyakti.
+// 10. PM Modi Rs 4400 crore projects Madurai (DT Next, 1 Mar 2026): Sholavandan railway station Amrit Bharat ke tahat upgrade hui, lekin PM ka pre-term (chunaav se pehle) karyakram; MLA ka koi bhoomika nahi - reject: pre-term + kshetra-bahar nahi lekin MLA ka yogdaan shunya.
+// NOTE: Oneindia ADR-based criminal-cases list me M.V. Karuppaiah (Sholavandan, TVK) = 0 cases; affidavit case-count bina reporting ke negative nahi hota, isliye negative entry bhi shunya. Profile imaandari se khaali rakhi gayi.
+
+// ---- Madurai district batch: a-kallanai — researched 15 Oct 2026 ----
+tamilNaduWorks['a-kallanai'] = [];
+
+// REJECT-LOG (a-kallanai, Madurai North, TVK):
+// 1. Lotus Times, 26 May 2026 — Madurai North MLA to meet people on every Tuesday personally for public grievances. MLA ne Zone-2 office me pehli grievance meeting ki aur har Tuesday meeting ka vaada diya, dustbins, garbage trucks, UGD, road repair sab "will solve / will look into" assurances thi. Koi poora hua kaam, sanction order/GO, shilanyas ya lokarpan nahi — sirf assurance (REJECT: "karenge").
+// 2. The Times of India (city/Madurai, ~late May 2026) — AIADMK councillor protests outside TVK MLA's office over UGD connections, Vilangudi ward 20. MLA Anban Kallanai ne protesters se petition liya aur "issues would be addressed after discussions with officials" assure kiya. Sirf petition + assurance — koi kaam poora nahi, sanction nahi (REJECT: assurance only).
+// 3. The Times of India (city/Madurai, ~early Sept 2026) — MKU College faculty seek govt takeover as financial strain mounts. Faculty ne Anban Kallanai ke paas maang rakhi, unhone demands-for-grants session me takeover ki maang uthai. Sirf maang/prastav — koi swikriti, GO, ya lokarpan nahi (REJECT: sirf maang).
+// 4. Medium (Kanishkar V.J., Aug 2026) — Kulamangalam new bus service Route 25C launch claimed, MLA inaugurated. Medium self-published blog hai, established media nahi — established-media rule par reject (REJECT: srot naakaabil).
+// 5. LocalGymsAndFitness FB feed (17 Jun 2026) — CM birthday football tournament me MLA chief guest. Event presence hai, koi sarkari kaam nahi (REJECT: karyakram me maujoodgi).
+// 6. IllustratedDailyNews (Aug 2026) — TVK rift in Madurai: Gopichan vs Kallaanai district secretary posts. Khud article kehta hai "matter of internal discussion rather than confirmed party position" — koi aarop + FIR/case/janch sthiti nahi (REJECT: negative criteria nahi; works se sambandh nahi).
+// 7. voterslist.in — affidavit case list me "Public nuisance, IPC violations" — bina reporting ke affidavit case-count (REJECT: affidavit case-count alone = negative nahi).
+
+// ---- Madurai district batch: m-m-gopison — researched 15 Oct 2026 ----
+tamilNaduWorks['m-m-gopison'] = [];
+
+// REJECT-LOG (m-m-gopison, Madurai South AC, TVK)
+// Satyapit kaam (May 2026 ke baad) ke liye multiple search rounds kiye: The Hindu,
+// TOI, NDTV, DT Next, Indian Express, News18, Business Minutes, Lotus Times,
+// illustrateddailynews. Koi qualifying work nahi mila. Profile khaali rakhi ja rahi hai.
+//
+// 1. AYUSH 2026 expo, MADITSSIA Hall, Madurai (16-18 Oct 2026) ka udghatan — srot:
+//    Lotus Times (14 Oct 2026), The Hindu (14 Oct 2026). Reject: (a) pre-event
+//    announcement hai (expo abhi hua hi nahi, task date 15 Oct 2026 se pehle);
+//    (b) MADITSSIA ek private vyapari-sangathan ka trade expo hai, koi sarkari
+//    suvidha/kaam nahi — pass-rule "MLA ne sarkari suvidha ka lokarpan kiya" par qualify nahi karta.
+// 2. Business Minutes (May 2026) — Gopison ka matdataon ko dhanyavad-vaktavya jisme
+//    paani, sadak, rozgar par dhyan dene ke irade ginaaye gaye. Reject: sirf "karenge"
+//    wale vaade, koi poora kaam/swikriti/shilanyas nahi.
+// 3. The Hindu, 30 May 2026 ("Minister's assurance on infrastructure improvement in Madurai")
+//    — Gopison sirf event me sammanit hua (felicitation), koi kaam uske haath me nahi.
+//    Reject: dusre neta ke karyakram me sirf maujoodgi.
+// 4. illustrateddailynews ("TVK Rift in Madurai: MLA Gopichan Left Out as Kallaanai Keeps
+//    Two Seats") — party-internal sangathan-niyuktiyon par apusht "sources" wali gupshup,
+//    fringe outlet. Reject: development kaam nahi; negative bhi nahi (koi FIR/case/court
+//    reporting nahi, keval apusht daave).
+// 5. illustrateddailynews (Apr 2026) — chunav-prachar ke dauran campaign coverage.
+//    Reject: pre-term (May 2026 se pehle).
+// 6. TOI / The Hindu / NDTV / ABP Live chunav-result coverage (4-5 May 2026).
+//    Reject: chunav-khabar, kaam nahi; sab pre-term.
+// 7. NDTV candidate page aur News18 (2024 Lok Sabha affidavit, ADR data) — Gopison ke
+//    khilaaf 0 criminal cases darj. Rule "affidavit case-count bina reporting ke = negative
+//    nahi" ke mutabiq koi negative entry nahi. Credible media me koi FIR/case/aarop wali
+//    reporting nahi mili.
+
+// ---- Madurai district batch: madhar-badhurudeen-s — researched 15 Oct 2026 ----
+// Fragment: Madhar Badhurudeen S (madhar-badhurudeen-s), TVK — Madurai Central AC, Madurai jila
+// 17th Tamil Nadu Vidhan Sabha (shapath 10/11 May 2026). Sirf May 2026 ke baad ka satyapit kaam qualify karta.
+// Research 2026-10-15: established English media me koi qualifying work entry nahi mili — khaali profile imaandari se rakhi gayi.
+
+tamilNaduWorks['madhar-badhurudeen-s'] = [];
+
+// REJECT-LOG (madhar-badhurudeen-s, Madurai Central AC, Madurai jila)
+//
+// 1. Indian Express, 15 Jul 2026 ("Councillors spar with TVK MLAs over law minister's 'corrupt council' remark",
+//    https://www.newindianexpress.com/states/tamil-nadu/2026/Jul/15/councillors-spar-with-tvk-mlas-over-law-ministers-corrupt-council-remark):
+//    MLA Madhar Badhurudeen ne Madurai corporation council meeting me property-tax scam chargesheet ka swagat kiya
+//    aur monsoon preparedness ke liye additional fund ki MAANG rakhi. Kaaran reject: sirf maang/remarks — na koi
+//    kaam poora, na lokarpan, na GO/sanikriti. Ward development fund Rs 25 lakh badhana aur 8 canals ki desilting
+//    (Rs 81.24 lakh) ki GHOSHNA mayor (in-charge) T Nagarajan ne ki — MLA ka kaam nahi, attribution galat hota.
+//    Article khud padha gaya hai.
+//
+// 2. DT Next, 04 Sep 2026 ("TN Assembly: Mustafa flouts mobile rule, takes Speaker's chair minutes later",
+//    https://www.dtnext.in/news/tamilnadu/tn-assembly-mustafa-flouts-mobile-rule-takes-speakers-chair-minutes-later):
+//    S. Madhar Badhurudeen (alias Mustafa) ko Speaker JCD Prabhakar ne sadan me mobile se padhne par chetavni di;
+//    tea break me Speaker/Deputy Speaker ki anupasthiti me ve kuch der Speaker ki kursi par baithe. Kaaran reject:
+//    prakriyaagat (procedural) ghatna — koi development work, swikriti ya lokarpan nahi; aur koi FIR/case/janch nahi,
+//    isliye negative entry ke laayak bhi nahi.
+//
+// 3. Organiser, 02 Sep 2026 (Hindu Tamilar Katchi objection to MLA Mustafa's Kumbabhishekam invitation participation,
+//    https://organiser.org/2026/09/02/378266/bharat/tamil-nadu-hindu-tamilar-katchi-objects-to-tvk-mla-mustafas-name-in-madurai-temple-kumbabhishekam-invitation/):
+//    HTK leader Ravikumar ne MLA ke temple karyakram me bhag lene par aapatti jatayi (skull-cap pehankar pre-Kumbabhishekam
+//    works ka review karne ka daava). Kaaran reject: ek-pakshiya political aapatti — koi FIR, case, adalaati karyavahi
+//    ya janch ki report nahi; negative-entry rule (aarop + FIR/case/janch sthiti + jawab) poori nahi hoti.
+//
+// 4. The Hindu candidate affidavit page (https://www.thehindu.com/elections/candidates/Tamilnadu2026/madhar-badhurudeen-s-827/)
+//    aur myneta.info: criminal cases = nil/0, assets Rs 2.6 crore, profession meat shop, education 10th pass.
+//    Kaaran reject: affidavit case-count bina reporting ke negative nahi banta (rule). Case-count nahi hai to
+//    negative entry ka sawal hi nahi.
+//
+// 5. Moneycontrol (14 May 2026) — "Vijay's MLA Mustafa says 'Sanatana' will be abolished": political bayan.
+//    Kaaran reject: bhashan/bayan koi development work nahi.
+//
+// 6. NewsMeter fact-check (viral minister list): daava FALSE — Tamil Nadu sarkar ne debunk kiya; Mustafa HR&CE
+//    minister nahi bane. Kaaran reject: jhooti khabar; is par entry nahi; negative nahi (galat daava banaya gaya, us par nahi).
+//
+// 7. The Hindu, 30 May 2026 ("Minister's assurance on infrastructure improvement in Madurai") — is Madurai event me
+//    TVK MLA Madhar Badhurudeen aaye hi nahi ("unable to attend due to other commitments"). Kaaran reject: maujoodgi
+//    hi nahi; koi attribution nahi.
+//
+// 8. Generic searches ("Mustafa inspection", "Badhurudeen sanction/foundation stone", DT Next/The Hindu Madurai section,
+//    news vertical) me koi inaugurated work, road/water/school/hospital sanction, ya shilanyas ki established-media
+//    report nahi mili. Sabha ~5 mahine purani hai; khaali profile imaandari hai.
+
+// ---- Madurai district batch: thangapandi-sr — researched 15 Oct 2026 ----
+tamilNaduWorks['thangapandi-sr'] = [
+  {
+    title: 'Madurai West MLA S. R. Thangapandi dwara 25 June 2026 ko Vilangudi First Ward me baante gaye lagbhag 5 tonne chawal ko PDS ration chawal batakar diye jaane ka BJP ka aarop; jila prashasan ne rice samples ki lab-janch aur PDS vibhag se turant inquiry ke aadesh diye, lekin 15 Oct 2026 tak lab report, FIR ya aage ki kaarwai ki koi established-media report nahi mili.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express, 30 Jun 2026',
+    sourceUrl: 'https://www.newindianexpress.com/states/tamil-nadu/2026/Jun/30/lab-test-ordered-after-pds-rice-distribution-allegation-at-tvk-welfare-event-in-madurai',
+    date: '2026-06-30',
+    note: 'New Indian Express (30 Jun 2026, article khud khola aur poora padha) ke anusaar petitioner A. Sivaji ne shikayat ki thi ki 25 June ko Madurai West AC ke Vilangudi First Ward me TVK ke welfare assistance programme (CM C. Joseph Vijay ke janamdin aur party me shamil huye netaon ke sammaan me aayojit) me Thangapandi dwara lagbhag 5 tonne chawal 1,000 labharthiyon me baante gaye, har 5 kg bag par Vijay ki tasveer thi; kai labharthiyon ne chawal ko ration chawal jaisa bataya aur social media par videos faili. Shikayat ke baad District Revenue Officer K. Anbalagan ne PDS adhikariyon ko turant inquiry ka nirdesh diya, rice samples Joint Registrar ki nigrani me laboratory analysis ke liye bhejne aur vistrit inspection report dene ka aadesh diya. The Hindu (30 Jun 2026, article khud khola aur poora padha) ke anusaar BJP Tamil Nadu president Nainar Nagenthran ne is ghatna par enquiry aur doshi paaye jaane par police kaarwai ki maang ki. Lab report ya FIR darj hone ki koi established-media report 15 Oct 2026 tak nahi mili, aur article me MLA Thangapandi ka apna jawab bhi report nahi hua (sirf ek syndicated report me mantri V. Gandhiraj ne aaropon ko kharij karke janch jaari rehne ki baat kahi thi — ye MLA ka vyaktigat jawab nahi hai). Aarop + prashasnik janch ki pakki sthiti ke aadhar par negative entry jodi gayi hai; FIR/case/adalaati sthiti abhi confirm nahi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (thangapandi-sr, S. R. Thangapandi, Madurai West AC, Madurai jila, TVK; karyakaal May 2026 se)
+// 1. The Hindu, 4 May 2026 ("TVK wins big in Madurai..."), Indian Express, Times of India, Business Today, Oneindia, ABP Live, Zee News — 2026 chunav result coverage (Thangapandi Sr, TVK, 88,250 votes, 11,931 margin se Madurai West jeete). Reject: pre-term chunav khabar, kaam nahi; sirf pehchaan verify karne ke liye istemal.
+// 2. The Hindu, 30 May 2026 ("Minister's assurance on infrastructure improvement in Madurai") — Thangapandi ko ek trade-body karyakram me TVK MLAs ke saath sirf sammaanit kiya gaya; unki taraf se koi kaam, swikriti ya ghoshna nahi. Reject: dusre ke karyakram me maujoodgi.
+// 3. The Hindu, 21 Sep 2026 ("Education loans worth Rs 30.37 cr disbursed to 275 students at camp") — Thangapandi samarooh me sirf upasthit the; loan banks ne diye, MLA ka apna kaam nahi. Reject: maujoodgi matra.
+// 4. The Hindu, 15 Sep 2026 ("Ministers inaugurate new Cooptex showroom at Sellur") — udghatan mantriyon (P. Viswanathan, M. Vijay Balaji) ne kiya; Thangapandi sirf upasthit the. Reject: dusre ke udghatan me maujoodgi.
+// 5. New Indian Express, 3 Jun 2026 ("Contract of firm handling Madurai's waste will be terminated, says Madurai Mayor") — Thangapandi ne corporation council meeting me sanitation workers aur garbage bins ki kami ki shikayat uthai; mayor ne contract cancel karne ka aashwasan diya. MLA ki taraf se koi sanction/GO/poora hua kaam nahi. Reject: sirf maang/aashwasan.
+// 6. Scoopfeeds, 10 Oct 2026 ("Nirmalkumar hands over appointment orders") — Madurai job fair me Thangapandi sirf upasthit the; appointment orders mantri ne diye. Reject: maujoodgi matra.
+// 7. Oneindia ("Tamil Nadu MLAs With Criminal Cases") aur voterslist.in — S. R. Thangapandi ke 3 cases affidavit case-count me. Kisi case ki FIR/case/adalaati sthiti ya MLA ke jawab ki koi credible reporting nahi mili. Reject: bina reporting ke affidavit case-count = negative nahi.
+// 8. Devdiscourse (syndicated report) — mantri V. Gandhiraj ne ration-chawal aaropon ko kharij kiya aur janch jaari rehne ki baat kahi. Ye MLA Thangapandi ka vyaktigat jawab nahi aur koi kaam bhi nahi — entry me nahi, sirf negative entry ke note me prashasnik pariprekshya ke liye ullekh.
+// 9. English aur targeted searches (inauguration, foundation stone, bhoomi pujan, sanction, GO, road/water/school/hospital works, May-Oct 2026, S. R. Thangapandi / Thangapandi Sr / Madurai West) — Thangapandi ke apne kisi satyapit poore huye kaam / lokarpan / swikriti / shilanyas ki established-media report nahi mili. Profile me koi positive work entry nahi; khaali positive profile imaandari hai.
+// NOTE: CM C. Joseph Vijay (Vijay, TVK CM) aur Madurai West MLA S. R. Thangapandi alag-alag vyakti hain — CM ki saari scheme-khabrein (Thaimaaman Thanga Modhiram gold ring launch, PM ke saath projects, Rs 13,000 cr announcements) is profile se baahar rakhi gayi hain.
+
+// ---- Madurai district batch: nirmalkumar-r — researched 15 Oct 2026 ----
+// One verified entry found. Rest rejected with reasons in REJECT-LOG below.
+
+tamilNaduWorks['nirmalkumar-r'] = [
+  {
+    title: 'Drinking water pipeline work launched for more than 350 houses in Vengalamurthy Nagar of Thannakkankulam under the Cauvery combined drinking water scheme at an estimated cost of Rs 4 lakh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Times of India, 1 Jun 2026',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/madurai/minister-launches-work-for-water-pipelines-near-madurai/articleshow/131426346.cms',
+    date: '2026-06-01',
+    note: 'Minister C. T. R. Nirmal Kumar launched the pipeline-laying work in the presence of the Madurai district collector after an inspection found old pipelines damaged and groundwater below 1000 feet in the area; temporary drinking water supply through lorries was arranged in the meantime. Fund source and credit disclosure: the work is under the state Cauvery combined drinking water scheme, so the actual credit belongs to the state scheme and implementing departments; the entry records only that he flagged off the work in his constituency. Thannakkankulam falls inside the Thiruparankundram assembly constituency.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (nirmalkumar-r, Thiruparankundram, TVK) — har item reject kyun hua:
+// 1. The Hindu (Sep 2026, chamber of commerce speech): cancer centre ke liye "land and funds allocated" aur "school of excellence in law sanctioned" ka dawa — koi GO/sarkari dastavez reporting me nahi dikha, sirf mantri ka bhashan; cancer centre Madurai city me hai (kshetra-bahar) — reject (kamzor attribution + bahar).
+// 2. Wahi speech: Madurai Corporation ko Rs 2,000 crore drainage channels — New Indian Express (Oct 2026) ke mutabiq "fund allocation aur GO is saal ke andar chahiye" — abhi sirf maang/prastav stage, kshetra-bahar bhi — reject.
+// 3. The Hindu, 30 May 2026 ("Minister's assurance on infrastructure improvement"): Vaigai restoration, tanker supply, substation "planning in progress", illegal quarry closures — sab assurance/planning/routine prashasnik kadam, koi shilanyas/lokarpan/swikriti nahi — reject.
+// 4. NewsTodayNet, 2 Sep 2026: Assembly me "six new substations Chennai, six Madurai, 6,000 transformers replace" ki ghoshna — statewide announcement, Thiruparankundram me koi concrete kaam ya sthan nahi — reject.
+// 5. TOI (Sep 2026): PTR Palanivel Thiaga Rajan ka aarop ki Nirmalkumar ne Meenakshi Amman aur Thiruparankundram mandiron ke trustees par istifa ka dabav dala — credible reporting me aarop hai lekin koi FIR/case/janch ki sthiti nahi, neta ka inkaar bhi maujood (Lokmat Times, Sep 2026) — negative rule ke hisaab se FIR/case/janch ke bina negative entry nahi — reject.
+// 6. voterslist.in: affidavit me "culpable homicide, provocation, public mischief" pending cases ki list — affidavit case-count bina independent reporting ke negative nahi hota — reject.
+// 7. The Hindu, 21 May 2026: Madras HC ne poocha kya 15 May ko temple closure mantri ki visit ke liye delay hua — court ne sirf HR&CE se report mangi, koi finding ya case Nirmalkumar ke khilaf nahi — negative nahi — reject.
+// 8. Wahi TOI pipeline article ka doosra hissa: Thiruparankundram me bachchon ke liye cleanliness awareness run ka udghatan — awareness event hai, koi infrastructure/kaam nahi — reject.
+// 9. DT Next, 3 Jul 2026: district coordination meeting chair karna aur Governor par bayan — meeting/bayan, koi kaam nahi — reject.
+// 10. Deccan Chronicle (Oct 2026): transformers replace, solar policy, power procurement — statewide mantri-level announcements, Thiruparankundram-specific kaam nahi — reject.
+// 11. Dailyhunt/ANI (Sep 2026): CM Vijay ka 28 Sep ko Madurai visit "likely" — pre-event schedule/announcement, Nirmalkumar ka apna kaam bhi nahi — reject.
+// 12. News18 (Oct 2026) aur Organiser (Jun 2026): Thiruparankundram Deepam vivad par mantri ke raajnaitik bayan — bayan, koi vikas-kaam nahi — reject.
+// 13. Lokmat Times, 10 May 2026: shapath ke din "complete audit of all departments, white paper" ka vaada — day-one promise ("karenge" stage) — reject.
+// 14. News18 (Apr 2026, pre-chunav) aur PM Modi visit (Feb 2026) coverage: pre-term material — reject.
+// 15. BiopediaWorld biography aur Wikipedia background: sirf jeevan-parichay, koi kaam nahi — reject.
+
+// ---- Madurai district batch: manimaran-m — researched 15 Oct 2026 ----
+// 17vi Tamil Nadu Vidhan Sabha; assumed office 4-6 May 2026; period window May 2026 ke baad.
+// DT Next, New Indian Express, Dinamalar, ETV Bharat, Oneindia, Wikipedia, search news vertical.
+
+tamilNaduWorks['manimaran-m'] = [];
+
+// REJECT-LOG (manimaran-m, Thirumangalam, DMK)
+// Kul entries: 0. Profile imaandari se khaali — May 2026 ke baad koi satyapit
+// lokarpan / swikriti / shilanyas / ghoshna nahi mila. Sabha sirf ~5 mahine purani hai.
+// Neeche har reject ka kaaran (numbered):
+//
+// 1. Dinamalar, 21 Apr 2026 — "Thirumangalam thoguthi makkalodu vaazha aasaipadugiren: DMK candidate Manimaran pracharam"
+//    Campaign speech jisme Manimaran ne apne jila-sachiv ke roop me railway overbridge (Rs 34 crore) aur
+//    Vaigai drinking water scheme jaise Rs 800 crore ke projects ka dawa kiya. REJECT: pre-term chunav prachar,
+//    koi post-May-2026 sanrachna/sanction/lokarpan ka concrete kadam nahi.
+// 2. Thirumangalam Railway Flyover — March 2026 me khul gaya (YouTube/Tamil podcast coverage).
+//    REJECT: pre-term (shapath se pehle); Manimaran ki documented bhoomika nahi.
+// 3. New Indian Express, 12 Mar 2026 — Thirumangalam drinking water scheme (Rs 52.54 crore, launch 22 Jan 2024, May 2026 tak delay).
+//    REJECT: pre-term project; usme Manimaran ki koi documented bhoomika nahi.
+// 4. The Hindu, 12 Sep 2026 — "Chief Minister was making defamatory statements... DMK MLA Manimaran"
+//    Madurai me DMK virodh-pradarshan me TVK CM C. Joseph Vijay ke khilaaf bhashan.
+//    REJECT: rajnaitik pradarshan-bhashan; koi vikas-karya nahi.
+// 5. Dinamalar, 12 Oct 2026 — "DMK seyalveerargal koottam" Thirumangalam me, Manimaran MLA ki adhyakshata me.
+//    REJECT: party ki internal meeting; koi vikas-karya nahi.
+// 6. New Indian Express (2023 article) — Mantri P. Moorthy dwara Thirupalai veterinary hospital ka lokarpan.
+//    REJECT: doosre neta ka karya + pre-term.
+// 7. The Hindu / Statesman — PM Modi dwara Madurai elevated corridor (2023) aur NH-744 ka shilanyas (2023).
+//    REJECT: Centre/NHAI ke kaam, doosre neta ka lokarpan/shilanyas; Manimaran ki koi bhoomika nahi.
+// 8. The Hindu, 9 Jul 2025 — TN Assembly Assurance Committee ka Madurai jile me ongoing projects ka nirikshan.
+//    REJECT: pre-term nirikshan; committee me Manimaran member bhi nahi the.
+// 9. Indian Express / ADR affidavit data — Manimaran.M ke khilaaf 1 case (assets Rs 3.73 crore+).
+//    REJECT (negative ke roop me): affidavit case-count ke peeche koi reporting nahi — negative entry nahi.
+// 10. DT Next, The News Minute, South First, Deccan Herald, NDTV, India TV — Manimaran ke kisi vikas-karya
+//     par koi coverage nahi mili; in outlets me sirf election-result/candidate-profile pages.
+// 11. The Hindu pre-poll, 2026 — "Lack of infrastructure development plagues Tirumangalam constituency"
+//     Manimaran ne SIDCO industrial park (Sivarakottai) revive karne aur waterbodies rejuvenate karne ka
+//     chunavi vaada diya tha. REJECT: pre-term chunavi vaada ("karenge"); koi concrete kadam post-May-2026 report nahi.
+
+// ---- Madurai district batch: vijay-m — researched 15 Oct 2026 ----
+tamilNaduWorks['vijay-m'] = [];
+
+// REJECT-LOG (vijay-m, Usilampatti AC, Madurai jila, TVK)
+// Profile khaali rahi — May 2026 ke baad MLA Vijay Mahalingam ke koi satyapit poore huye kaam / lokarpan / swikriti / shilanyas ki established media report nahi mili. Sabha sirf ~5 mahine purani hai, isliye khaali profile imaandari hai.
+// Sabhi rejects neeche Roman Hinglish me:
+// 1. Samayam Tamil (01 Oct 2026): Kamarajar breakfast scheme Usilampatti me delay — aarop ki tender meddling hui (Vaiyaraaja Catering vs Karishma Trading case), MLA Vijay Mahalingam par quarry/nikay me dakhal ke aarop. FIR/case/adalaati sthiti MLA ke khilaaf confirm nahi (article khud kehta hai kanooni sthiti sirf court record se tay hogi) aur MLA ka jawab bhi report me nahi — negative criteria (aarop + FIR/case/janch sthiti + neta ka jawab) poori nahi hui. Entry reject.
+// 2. Asianet News Tamil (01 Oct 2026): wahi breakfast-scheme-tender vivad, wahi karan — koi FIR/case nahi, koi jawab nahi — negative criteria fail, reject.
+// 3. Dinakaran (22 Sep 2026): Thaimaman gold ring scheme ke 1,106 rings Usilampatti hospital ke safe me rakhne ke time MLA Vijay sirf maujood the — ye CM C. Joseph Vijay ki rajya sarkari scheme hai, MLA ne khud koi lokarpan/shilanyas nahi kiya, sirf maujoodgi — reject (dusre neta ke karyakram me sirf maujoodgi).
+// 4. Maalaimalar (21 Sep 2026): MLA Vijay ka bayan — CM ne gold ring scheme launch ke liye Usilampatti chuna, is par khushi. CM ki scheme ka shrey, MLA ka apna kaam nahi — reject.
+// 5. ETV Bharat: Thaimaman Gold Ring Scheme ki 15 Sep deadline miss — CM ki scheme ki khabar, MLA ki koi action nahi — reject.
+// 6. The Hindu (Apr 2026): Usilampatti constituency chunav profile (farmers livelihood) — pre-term (chunav se pehle) — reject.
+// 7. DT Next (25 Aug 2026): Assembly me "unusual demands" — is me featured MLA Madurai North ke Kallanai Vijay Anban hain, Usilampatti ke Vijay M nahi — galat vyakti, reject.
+// 8. CM C. Joseph Vijay ki khabrein (deccanchronicle/daijiworld/asianet/lokmattimes/news89 — 11 Oct 2026 Modi ke saath Rs 13,000 cr projects; thehawk.in 2 Sep 2026 Rs 4,800 cr desalination; nationpress.com ring main pipeline) — sab CM ki sarkari ghoshnayein, inhe MLA vijay-m se kabhi nahi jodna — reject.
+// 9. Wikipedia/Oneindia/BusinessToday/TOI/IndianExpress — sirf 2026 election result data (Vijay Mahalingam, TVK, 65,743 votes, 1,805 margin) — chunav result kaam nahi — reject.
+// NOTE: CM C. Joseph Vijay aur Usilampatti MLA Vijay Mahalingam (vijay-m) alag-alag vyakti hain — search-set ki saari CM khabrein isi profile se baahar rakhi gayi hain.
+
+// QA note (coordinator, 15 Oct 2026): 10/10 MLA researched; 4 entries (p-viswanathan 1 lokarpan + 1 negative POCSO-complaint, nirmalkumar-r 1 shilanyas pani-pipeline, thangapandi-sr 1 negative rice-diversion aarop+janch); 6/10 profiles imaandari se khaali; CM-C.-Joseph-Vijay vs vijay-m trap khaali me; har entry ka srot khud khola gaya; credit-transparency notes me darj hai; entry objects me koi comment nahi; titles/notes Roman Hinglish + Rs.
