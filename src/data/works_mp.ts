@@ -3164,3 +3164,204 @@ mpWorks['jaivardhan-singh'] = [];
 // 10. Aug 2025 se kai sources: Guna jila Congress adhyaksh niyukti par virodh/pragyaapan — sangathanik rajneeti, kshetra-kaam nahi — REJECT.
 // 11. Vidhan-sabha budget session Mar 2025 me schoolon me 7000 shikshakon ki kami ka sawal — sawal/mang, kaam nahi — REJECT.
 // 12. 2018-20 mantri-karyakaal ke kaam (metro MoU, e-rickshaw, shav-vahan nirdesh): task instructions ke hisab se current karyakaal (Dec 2023-) se pehle ka sab kuch REJECT — NOT TAKEN.
+
+// ---- Gwalior district batch (researched 2026-10-14) ----
+// Gwalior jila: 6 MLA. Sahab Singh Gurjar (INC, Gwalior Rural AC-14): 1 entry (negative: BNS FIR Jul 2024, ThePrint/PTI — teeno paksh spasht; karyakaal me koi verified vikas-kaam nahi). Pradhuman Singh Tomar (BJP, Gwalior AC-15, Urja Mantri): 2 entries (Hazira Civil Hospital ICU/CT/ultrasound lokarpan — personal pehal + Power Grid CSR, credit-transparency; Ward-15 park bhoomi-pujan) — sabhi urja-vibhag ke rajya-stariya kaam reject. Dr Satish Sikarwar (INC, Gwalior East AC-16): 4 entries (Ward 28/22 CC sadak, mandir jeernoddhar + nala, Parihar/Shiv Nagar galiyan — sab MLA dwara khud kiye gaye bhoomi-pujan, chhote local portal disclosure). Narayan Singh Kushwah (BJP, Gwalior South AC-17, mantri): 4 entries (Ward 37 Laxmiganj Rs 1.20cr + Jivajiganj Rs 45L kayakalp sadak bhoomi-pujan; Ward 38 Kalkavihar Rs 11L, Navgrah Colony Rs 15L CC sadak bhoomi-pujan — sab AC-17 ke kshetriya kaam, kayakalp state-scheme ka shrey note me disclose; 2 glitched URLs coordinator ne verify karke theek kiye). Mohan Singh Rathore (BJP, Bhitarwar AC-18): 3 entries (Bhitarwar mandi Rs 1.23cr vittiya swikriti — board-issued, small portal disclosure; Deendayal stadium bhoomi-pujan Rs 2.19cr vidhayak-nidhi — Scindia ne bhoomi-pujan kiya, nidhi MLA ki, baaki events reject; Bhitarwar bypass daawa — dawa badge/ghoshna). Suresh Raje (INC, Dabra SC AC-19): 4 entries (Salaiya + Bhaisnari CC sadak lokarpan; 5 + 6 panchayaton ko tanker vitran — alag-alag panchayat suchi, duplicate nahi). Coordinator audit: sabhi entries period 2023-2028, Dec 2023+ karyakaal; Scindia-events me sirf-maujoodgi wali sab entries reject (Needam ROB, CM/Scindia lokarpan events).
+
+mpWorks['sahab-singh-gurjar'] = [
+  {
+    title: 'Gwalior me Mau Pahari ki mahilaon se maar-peet ka aarop — BNS 115(2) aur 296 ke tahat MLA ke khilaf FIR darj, MLA ne aaropon se inkaar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI), 30 Jul 2024',
+    sourceUrl: 'https://theprint.in/india/congress-mla-booked-for-attacking-women-he-claims-political-conspiracy/2199288/',
+    date: '2024-07-30',
+    note: 'Aarop: Mau Pahari gaon ki mahilayein kharab bijli transformer ki samasya lekar MLA ke Ohadpur (Mahalgaon) niwas par gayi thi; unka dawa hai ki wahan maar-peet hui aur baal khinche gaye. SP Dharmveer Singh ke mutabik likhit shikayat par BNS ki dharaon 115(2) aur 296 me FIR darj hui, jaanch jaari. MLA ka jawab: aarop niradhar, unhone turant sambandhit adhikariyon se baat karke samasya suljhane ke nirdesh diye, poora mamla rajneetik saazish hai. Koi vikas-kaam nahi hai — karyakaal (2023-2028) ke dauran darj mamle ki PTI agency reporting hai; court me dosh-siddh hone ki khabar nahi mili.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['pradhuman-singh-tomar'] = [
+  {
+    title: 'Civil Hospital Hazira me ICU, 32-slice CT scan aur ultrasound suvidha ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Pradesh Times News, 4 Jan 2025',
+    sourceUrl: 'https://pradeshtimesnews.com/icu-ct-scan-and-ultrasonography-machines-were-inaugurated-in-civil-hospital-hazira-gwalior/',
+    date: '2025-01-04',
+    note: 'Khabar ke mutabiq ye suvidhayein Tomar ki vyaktigat pehal par, unke bade bhai Sw. Devendra Singh Tomar ki smriti me shuru hui; shubharambh unki mata Sudha Tomar ke kar-kamlon se hua. Power Grid Corporation ne CSR mad se Rs 3 crore diye, jinse CT scan aur ultrasound machine khareedi gayi; furniture, AC aur do kakshon ka navinikaran bhi hua. Mool site par tarikh print nahi thi; usee khabar ke republication (ctnewsweb, khud khola gaya) par 2025-01-04 darj hai, jo khabar ke shanivar ke zikr se mel khata hai. Cath lab ki sthapna bhavishya ki yojna hai, is entry me shamil nahi. Ye vidhayak-nidhi nahi, CSR fund hai, sansad-nidhi (MP fund) bhi nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Upnagar Gwalior ke Ward-15, Line No. 4 Birla Nagar me Rs 88.65 lakh ke park ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar, 7 Nov 2025',
+    sourceUrl: 'https://www.hindusthansamachar.in/Encyc/2025/11/7/All-round-development-of-Gwalior-is-our-goal-Energ.php',
+    date: '2025-11-07',
+    note: 'Tomar ne swayam bhoomi-pujan kiya; khabar me fund ka srot (vidhayak-nidhi ya anya) nahi bataya gaya, isliye nidhi ka koi dawa nahi kiya gaya. Usi khabar me JC mill shramikon ko bhu-khand adhikar wale sankhya-dawon ka swatantra satyapan nahi mila, isliye wo is entry me shamil nahi.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dr-satish-sikarwar'] = [
+  {
+    title: 'Ward 28 ke Adivasi Mohalla aur Bhimnagar me Rs 13 lakh ki CC sadkon ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nand Kesari, 21 Jan 2025',
+    sourceUrl: 'https://nandkesari.com/2025/01/21/%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%B0-%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%8D%E0%A4%B5-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%A1%E0%A5%89/',
+    date: '2025-01-21',
+    note: 'Vidhaayak ne khud kshetriya parshad aur MIC member Gayatri Sudhir Mandelia ke saath bhoomi-pujan kiya — ye sirf maujoodgi nahi, unki apni concrete bhoomika hai. Khabar me GO number ya work order ka zikr nahi hai, isliye stage sirf bhoomi-pujan likha gaya hai, swikriti nahi. Fund ka source khabar me spasht nahi hai, isliye vidhayak-nidhi ka dawa nahi kiya gaya; ye sansad-nidhi (MP fund) nahi hai. Chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 22 ke Siddheshwar Nagar gali no 4 me Rs 16.5 lakh ki CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Chambal Breaking, 24 Sep 2025',
+    sourceUrl: 'https://chambalbreaking.com/2025/09/gwalior-22/',
+    date: '2025-09-24',
+    note: 'Vidhaayak ne khud MIC member Gayatri Sudhir Mandelia aur parshad Pramod Khare ke saath bhoomi-pujan kiya — ye sirf maujoodgi nahi, unki apni concrete bhoomika hai. Kaam Siddheshwar Nagar gali no 4 se Gurjar Mohalla tak ki galiyon me hai. Khabar me GO number ya work order ka zikr nahi hai, isliye stage sirf bhoomi-pujan likha gaya hai, swikriti nahi. Fund ka source khabar me spasht nahi hai — ye sansad-nidhi (MP fund) nahi hai. Chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 28 me Rs 18 lakh se Shitala Mata mandir ke jeernoddhar aur nala-nirman ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Chambal Breaking, 24 Sep 2025',
+    sourceUrl: 'https://chambalbreaking.com/2025/09/gwalior-22/',
+    date: '2025-09-24',
+    note: 'Vidhaayak ne khud MIC member Gayatri Sudhir Mandelia aur parshad Pramod Khare ke saath bhoomi-pujan kiya — ye sirf maujoodgi nahi, unki apni concrete bhoomika hai. Rs 18 lakh ki lagat mandir jeernoddhar aur nala-nirman dono ke liye batayi gayi hai. Khabar me GO number ya work order ka zikr nahi hai, isliye stage sirf bhoomi-pujan likha gaya hai, swikriti nahi. Fund ka source khabar me spasht nahi hai — ye sansad-nidhi (MP fund) nahi hai. Chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Parihar Mohalla aur Shiv Nagar ki galiyon me CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Chambal Breaking, 24 Sep 2025',
+    sourceUrl: 'https://chambalbreaking.com/2025/09/gwalior-22/',
+    date: '2025-09-24',
+    note: 'Vidhaayak ne khud MIC member Gayatri Sudhir Mandelia aur parshad Pramod Khare ke saath bhoomi-pujan kiya — ye sirf maujoodgi nahi, unki apni concrete bhoomika hai. Lagat khabar me nahi batayi gayi. Khabar me GO number ya work order ka zikr nahi hai, isliye stage sirf bhoomi-pujan likha gaya hai, swikriti nahi. Fund ka source khabar me spasht nahi hai — ye sansad-nidhi (MP fund) nahi hai. Chhota local portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['narayan-singh-kushwah'] = [
+  {
+    title: 'Ward 37 Laxmiganj me Rs 1.20 crore ki sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live VNS (Hindustan Samachar), 28 Feb 2025',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/government-committed-to-expanding-basic-facilities.php/cid16297696.htm',
+    date: '2025-02-28',
+    note: 'Gwalior South ke ward 37 me Muladas ki Kho, Fuljhadi karkhane ke peeche Laxmiganj me kayakalp yojana ke tehat Rs 1.20 crore ki sadak ka bhoomi-pujan khud Narayan Singh Kushwah ne sthaniya kanyaon se karaya. Ye sarkari kayakalp yojana (shahari sadak karyakram) ka kaam hai, vidhayak-nidhi nahi. GO number khabar me nahi diya gaya. Source chhota local portal hai jo Hindustan Samachar wire ki khabar chhaapta hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 37 Jivajiganj me Rs 45 lakh ki sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live VNS (Hindustan Samachar), 28 Feb 2025',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/government-committed-to-expanding-basic-facilities.php/cid16297696.htm',
+    date: '2025-02-28',
+    note: 'Gwalior South ke ward 37 me Nimmaji ki Kho, Jivajiganj ki galiyon me kayakalp yojana ke tehat Rs 45 lakh ki sadak ka bhoomi-pujan khud Narayan Singh Kushwah ne sthaniya kanyaon se karaya. Ye sarkari kayakalp yojana ka kaam hai, vidhayak-nidhi nahi. GO number khabar me nahi diya gaya. Source chhota local portal hai jo Hindustan Samachar wire ki khabar chhaapta hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 38 Kalkavihar me Rs 11 lakh ki CC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live VNS (Hindustan Samachar), 1 Dec 2024',
+    sourceUrl: 'https://livevns.news/amp/state/madhyapradesh/minister-narayan-singh-kushwah.php/cid15806956.htm',
+    date: '2024-12-01',
+    note: 'Gwalior South ke ward 38 me Gali number 3, Kalkavihar Beldar ka Pura me Rs 11 lakh ki CC sadak ka bhoomi-pujan khud Narayan Singh Kushwah ne kiya, kshetriya janpratinidhiyon aur nagrikon ki upasthiti me. Nidhi ka srot khabar me nahi bataya gaya, GO number bhi nahi. Source chhota local portal hai jo Hindustan Samachar wire ki khabar chhaapta hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 38 Navgrah Colony Sector-1 me Rs 15 lakh ki CC sadak ka bhoomi-pujan — vidhayak-nidhi se',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Oneindia Hindi, 28 Apr 2025',
+    sourceUrl: 'https://hindi.oneindia.com/news/gwalior/mp-road-development-work-inauguration-gwalior-madhya-pradesh-news-1281191.html',
+    date: '2025-04-28',
+    note: 'Gwalior South ke ward 38 me Navgrah Colony Sector-1 ki galiyon me CC sadkon ka bhoomi-pujan khud Narayan Singh Kushwah ne sthaniya kanyaon se karaya. Khabar ke mutabik Rs 15 lakh unhone apni vidhayak-nidhi se manjur ki hai, par GO/adesh ka zikr nahi hai. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['mohan-singh-rathore'] = [
+  {
+    title: 'Bhitarwar me nayi krishi upaj mandi ke liye Rs 1.23 crore ki vittiya swikriti — vipanan board ne jaari ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Aam Sabha, 23 Jul 2026',
+    sourceUrl: 'https://dainikaamsabha.com/path-cleared-for-construction-of-new-agricultural-produce-market-in-bhitarwar/',
+    date: '2026-07-23',
+    note: 'MP Rajya Krishi Vipanan Board ne 13 July ko 24.339 hectare shaskiya bhoomi ke premium aur bhu-bhatak ke liye vittiya swikriti jaari ki. Khabar ke anusar vidhayak ne 10 July ko board ke ayukt se milkar maang rakhi thi, jis par board ne 4 din me swikriti di — vidhayak ki concrete bhoomika yahin hai. Ye swikriti vipanan board ki nidhi se hai, vidhayak-nidhi ya sansad-nidhi (MP fund) nahi. Source chhota sthaniya portal hai — disclosure ke saath.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bhitarwar me Pt. Deendayal Upadhyay stadium ka bhoomi-pujan — Rs 2.19 crore vidhayak-nidhi se',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Today MP, 24 Mar 2025',
+    sourceUrl: 'https://indiatodaymp.com/pandit-deendayal-upadhyay-stadium-to-be-built-in-bhitarwar-union-minister-scindia-inaugurated-the-development-work-of-crores-in-bhitarwar/',
+    date: '2025-03-24',
+    note: 'Karyakram me bhoomi-pujan kendriya mantri Jyotiraditya Scindia ne kiya, lekin stadium vidhayak-nidhi se ban raha hai — yahi vidhayak ki concrete bhoomika hai. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Karyakram ke baaki lokarpan aur bhoomi-pujan (SDO karyalay, nagar panchayat bhawan, jal pradaya, substation) Scindia ne kiye, jisme vidhayak sirf maujood the — ve profile me jode nahi gaye.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bhitarwar bypass sadak ko budget satra me manjuri — vidhayak ka daawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Hriday Stambha, 21 Feb 2026',
+    sourceUrl: 'https://hridaystambha.com/mla-pc-bhitarwar/',
+    date: '2026-02-21',
+    note: 'Vidhayak ne press-conference me daawa kiya ki Rs 20 crore lagat ki 6 km lambi bypass sadak ko budget satra me manjuri mili hai aur PWD ne prakriya shuru kar di hai. Khabar me koi GO ya sanction order number nahi diya gaya, isliye stage ghoshna maana gaya hai. Press-conference ke baad vidhayak ne PWD adhikariyon ke saath prastavit marg ka sthal nirikshan bhi kiya. Ye vidhayak ka swayam-daawa hai — swatantra pushti khabar me nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['suresh-raje'] = [
+  {
+    title: 'Gram Salaiya me Rs 7.5 lakh ki 250 meter CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 5 Apr 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/gwalior/dabra/news/dabbra-mla-inaugurates-cc-road-in-salaiya-village-137621279.html',
+    date: '2026-04-05',
+    note: 'Dabra vidhansabha ke gram panchayat Veermadhana ke gram Salaiya me 250 meter lambi CC sadak bankar taiyaar; vidhayak Suresh Raje ne khud lokarpan kiya, sarpanch Rajkumari Naresh aur up-sarpanch Bhupendra Yadav maujood rahe. Nirman vidhayak-nidhi ki Rs 7.5 lakh rashi se hua. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. GO/sanction order number khabar me nahi; sadak poori hui hai isliye stage lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Bhaisnari me Rs 10 lakh ki CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 25 Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/gwalior/dabra/news/dabra-mla-suresh-raje-inaugurates-10-lakh-cc-road-bhaisnari-village-137530752.html',
+    date: '2026-03-25',
+    note: 'Dabra ki gram panchayat Bhaisnari me main road se Rajoriya mohalla tak bani CC sadak ka lokarpan vidhayak Suresh Raje ne mukhya atithi ke roop me kiya. Grameenon ki maang par vidhayak ne apni nidhi se Rs 10 lakh swikrit kiye the; sadak bankar taiyaar ho gayi. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. GO number khabar me nahi; sadak poori hui hai isliye stage lokarpan (swikriti nahi) likhi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dabra ki 5 gram panchayaton ko firefighter-yukt paani ke tanker — vidhayak-nidhi se vitran',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 28 Sep 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/gwalior/dabra/news/5-panchayats-got-water-tankers-from-mla-fund-136037789.html',
+    date: '2025-09-28',
+    note: 'Varsh 2025-26 ki vidhayak-nidhi se banwaye gaye firefighter upkaran-yukt paani ke tanker vidhayak karyalaya par Khadbai, Chetupada, Arushi, Ajaygarh aur Putti gram panchayaton ke sarpanchon/sachivon ko saupe gaye; vidhayak ne tankeron ka poojan karke supurd kiya. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Kul rashi ka zikr khabar me nahi; stage poora hua/vitran.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dabra ki 6 gram panchayaton ko firefighter-yukt paani ke tanker — vidhayak-nidhi se vitran',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 26 Sep 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/gwalior/dabra/news/firefighter-equipment-given-to-6-panchayats-in-dabra-136021131.html',
+    date: '2025-09-26',
+    note: 'Varsh 2025-26 ki vidhayak-nidhi se nirmeet firefighter upkaran-yukt paani ke tanker vidhayak karyalaya me Nunhari, Devra, Bhaisnari, Bijakpur, Kariyavati aur Jhadoli gram panchayaton ko saupe gaye; vidhayak ne poojan ke baad supurd kiya. Ye vidhayak-nidhi hai, sansad-nidhi (MP fund) nahi. Kul rashi ka zikr khabar me nahi; stage poora hua/vitran.',
+    period: '2023-2028',
+  },
+];
