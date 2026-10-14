@@ -2132,3 +2132,130 @@ biharWorks['satish-kumar-sah'] = [
 // 6. "Sah" community wale generic results — galat vyakti, reject.
 
 // Coordinator QA note (Madhubani district batch, researched 2026-10-14): 3 parallel workers (A: Sudhanshu/Vinod/Arun, B: Mina/Asif/Madhaw/Sujeet, C: Nitish/Sheela/Satish); fragments coordinator ne kholkar QA kiya. Workers ne entry objects me note/sourceLabel bina stage ke likhe the — sab ko canonical positive-entry schema (title/category/stage/date/description/source/sourceUrl/badge/period) me normalize kiya. Arun Shankar Prasad aur Vinod Narayan Jha ke English titles ko Roman-Hinglish me convert kiya. Asif Ahmad ke Bhaskar URL se sharing-query params hatakar canonical article path rakha (article path aparivartit). Madhaw Anand ki 2 entries dawa badge par rakhi (Riti Pathak dawa precedent); chini mil wali swikriti-stage hai (cabinet swikriti Deshaj Times me darj, vidhayak ki bhoomika ka dastavezi saboot nahi — disclosure me), press-conference wali ghoshna-stage hai (GO/work-order saboot nahi). Nitish Mishra KHAALI (mantri-kal/rajya-stariya faisle exclude; 17-sadak janch sirf shikayat-janch thi, koi kaam-stage nahi). Sudhanshu Shekhar KHAALI (Fullhar bhumi-pujan purane karyakaal ki swikriti/launch ka repeat ceremony tha — Jan 2026 event reject; cabinet approval 26 Jul 2025 se pehle ka). Arun Shankar Prasad mantri hain lekin unki 6 entries seat-level MKVY lokarpan hain — mantri niyam ka samman. Sabhi 10 slugs pehle khaali the — koi overwrite nahi. Kul titles: 96 -> 109 (+13).
+
+// ---- Munger district batch (researched 2026-10-14) ----
+// Coordinator QA note: 3/3 workers complete. Nachiketa ki 4th entry (Nayagaon nasha mukti kendra udghatan) HATA di —
+// niji sanstha ka kendra tha, sarkari fund ka koi zikr nahi, vidhayak ki bhoomika sirf feeta katna tha; yeh
+// "niji trust school udghatan" (Qamrul Hoda reject precedent) ke samaan hai — reject-log item 16 me darj.
+// Nachiketa ke titles me "Nachiketa Mandal" ko "Nachiketa" kiya taaki pehchan se pare kuch na joda jaye.
+// Samrat entry ke source me sthaniya-portal disclosure joda.
+
+biharWorks['samrat-choudhary'] = [
+  {
+    title: 'Asarganj ke Jalalabad me navnirmit Government Degree College me academic activities ka lokarpan — Tarapur chunavi waada poora hone ki ghoshna ke saath',
+    category: 'School',
+    stage: 'complete',
+    date: '2026-07-28',
+    description: 'Newsyweb ki post-event report ke anusaar 28 July 2026 ko Samrat Choudhary ne Asarganj ke Jalalabad me Ramanand aur Parsi Ram High School parisar me sthapit naye Government Degree College me academic activities ka aupcharik lokarpan kiya; unhone Tarapur ki janta ko vidhayak chunne ke liye dhanyavaad dete hue kaha ki Asarganj Degree College sthapit karne ka unka vyaktigat chunavi waada ab poora hua hai. Stage-sach: lokarpan ho chuka, classes shuru (Saat Nischay-3 ke tahat rajya bhar me 211 naye colleges me padhai shuru hui). Fund-srot: sarkari (Saat Nischay-3 rajya yojna; article me vidhayak-nidhi/MKVY ka koi ullekh nahi). Bhoomika: CM ke roop me lokarpan, lekin article me college ko seedha unke chunavi waade se jodkar bataya gaya hai — is vyaktigat bhoomika ke aadhar par entry rakhi gayi hai; paisa poori tarah rajya-sarkar ka hai, iska khula ullekh hai. Disclosure: source ek sthaniya portal hai (Newsyweb).',
+    source: 'Newsyweb (sthaniya portal), 29 July 2026 (event: 28 July 2026)',
+    sourceUrl: 'https://newsyweb.com/bihar-cm-samrat-choudhary-inaugurates-model-schools-police-station-and-degree-college-in-tarapur/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (samrat-choudhary):
+// 1. Newsyweb 2026-07-29 / 5dariyanews 2026-07-28 — "CM inaugurates model schools, police station in Tarapur" (Saraswati Vidya Niketan ke tahat 10 model schools) — reject: CM-role me state-scheme ka lokarpan; article ise state-government ke prayas batata hai; unka koi vyaktigat waada/MLA-nidhi nahi — CM daura kaam.
+// 2. Newsyweb 2026-07-29 — "newly constructed model police station at Harpur (Tarapur block)" — reject: CM-role me police modernisation scheme ka lokarpan; article me "state government is continuously working" framing — vyaktigat bhoomika nahi.
+// 3. Newsyweb 2026-07-29 — "Tarapur me industries lagenge, international-standard airport banega, land acquisition shuru" — reject: "karenge" waade (announcement), koi sanction/shilanyas nahi.
+// 4. Patna Press 2025-12-28 — "Boating begins at Kharagpur Lake, CM inaugurates" — reject: Dy CM/minister-role me rajya tourism push ka lokarpan — mantri-daura kaam.
+// 5. Insaaf Times ~Dec 2025 / Patna Press 2025-12-28 — "100-bed subdivisional hospital (Rs 11.80 crore) Haveli Kharagpur ka udghatan" — reject: Dy CM-role me sarkari aspatal sevaon ka lokarpan; unki vyaktigat swikriti/MLA-nidhi ka koi saboot article me nahi.
+// 6. Patna Press 2025-12-28 — "Kharagpur Lake beautification works inauguration" — reject: mantri-role me state-scheme saundaryakaran — CM/minister daura kaam.
+// 7. Patna Press 2025-12-28 — "5 vegetable producer cooperative societies (Tarapur, Asarganj, Sangrampur, Tetia Bambar, Haveli Kharagpur) ke infra ka shilanyas" — reject: Bihar State Vegetable Processing and Marketing Cooperative Scheme (rajya yojna); mantri-role me shilanyas.
+// 8. Newsyweb / The Newsmill 2026-09-10 — "Rs 1,233.87 crore social security pension DBT, Gangta Mor (Haveli Kharagpur) karyakram (video conference se)" — reject: rajya kalyan yojna ka CM-role karyakram; Tarapur me sthan par maujoodgi bhi nahi (remote) — kshetriya vidhayak kaam nahi.
+// 9. The Newsmill / Newsyweb 2026-09-10 — "NH-333 widening (Gangta km 28.340 to Kohbarwa Mor km 38.340) ka remote shilanyas" — reject: NHAI/rajya pariyojna; CM-role remote shilanyas — vyaktigat bhoomika nahi.
+// 10. Times of India 2026-08-14 — "CM leads Tiranga Yatra in Haveli Kharagpur" — reject: abhiyan/event; vikas kaam nahi.
+// 11. 5dariyanews 2026-08-15 — "CM joins Tiranga Yatra in Haveli Kharagpur" — reject: upar wala hi event; abhiyan, kaam nahi.
+// 12. Rozana Spokesman 2026-08-14 — "CM hoists tricolour, Tiranga Yatra at Ambedkar Chowk Munger" — reject: abhiyan/event; kaam nahi.
+// 13. Prokerala 2026-04-26 — "CM Samrat Choudhary felicitation function at Tarapur" — reject: abhinandan/sanmaamaan karyakram; koi vikas kaam nahi.
+// 14. ANI/YouTube 2026-04 — "'Ang Pradesh' Township for Munger announcement (Vidhan Sabha)" — reject: rajya-stariya ghoshnayen exclude; YouTube-only source bhi.
+// 15. YouTube IND TALK ~Aug 2026 — "Binalpur (Haveli Kharagpur, AC-164) me sadak-pul nirman me gunvatta par sawal" — reject: YouTube-only source (barred) + shikayat-matr; koi FIR/case/adalaati-janch sthiti nahi — negative criteria poora nahi.
+// 16. News18 UP YouTube ~May 2026 — "CM ke Tarapur ghar par bulldozer action" — reject: YouTube-only; atikraman-hatrao abhiyan me unhone khud kaha "mere ghar ki seedhi bhi tootegi" (law equal for all) — unke viruddh koi aarop/case nahi.
+// 17. Indian Express / Nation Press / NewsX, Sep 2026 — "Jamui POCSO photo row: CMO staff par FIR" — reject (negative): FIR CMO ke stenographer ke khilaf darj, Samrat Choudhary ke khilaf NAHI; Tejashwi Yadav/Misa Bharti ki unke khilaf FIR ki maang virodhi-aarop hai aur police ne unke khilaf FIR darj nahi ki — "sirf virodhi ke aarop par kuch nahi" niyam.
+// 18. Grokipedia (Sep-Oct 2025 references) — "Prashant Kishor ke age/murder-case affidavit aarop; 2 pending criminal cases" — reject (negative): virodhi-aarop, pre-2024 mamle, koi conviction/trial nahi; koi qualifying FIR/case/adalaati-janch sthiti nahi.
+// 19. Patna Press ~Oct 2025 — "Nitish Kumar campaigns in Tarapur; 141 rural roads and bridges in Tarapur (sarkari upalabdhi)" — reject: pre-term chunavi prachar (Nov 2025 se pehle) + rajya-sarkar ke pichle kaamon ka daava; unki vyaktigat bhoomika nahi.
+// 20. LatestLY ~Nov 2025 — "BJP's Samrat Choudhary wins Tarapur by 45,843 votes" — reject: chunav parinaam khabar; vikas kaam nahi.
+
+biharWorks['kumar-pranay'] = [];
+
+// REJECT-LOG (kumar-pranay): profile KHAALI raha — qualifying entry koi nahi mili.
+// 2020-2025 ke vidhayak "Pranav Kumar Yadav" alag vyakti hain — unke naam ki purani khabren is profile me ginni nahi gayin.
+// 1. etvbharat.com, 7 Jun 2025, "shilapatt me naam nahi dekhkar bhadke BJP MLA, khel maidan ka udghatan karne pahunche the neta" — vidhayak = purv MLA Pranav Kumar (2020-25); galat vyakti + pre-Nov 2025; reject.
+// 2. livehindustan.com, 9 Jun 2025, "aarop-pratyaroop ke beech vidhayak ki maujoodgi me hua khel maidan ka udghatan" — wahi May panchayat khel maidan (Rs 9.59 lakh); vidhayak = Pranav Kumar Yadav; galat vyakti + pre-term; reject.
+// 3. youtube.com, ~10 Sep 2026 (est.), "Airtel fiber showroom ka udghatan, Munger ke vidhayak Pranay Kumar dwara" — YouTube-only; reject.
+// 4. prabhatkhabar.com, ~6 Oct 2026 (est.), "Tarapur me naya milk plant: shuddh dairy utpad aur rozgar" — vidhayak ne Telidih Road, Tarapur shahar me "Namaste Ji Milk Processing Plant" ka udghatan kiya, lekin Tarapur AC-164 hai (Samrat Choudhary ki seat), Munger AC-165 ke bahar; kshetra-bahar; reject.
+// 5. livehindustan.com, 26 Dec 2025, "Pensioner samaj ka adhiveshan 28 December ki jagah 11 January ko hoga" — "11 Jan 2026 ko udghatan Kumar Pranay karenge" — pre-event schedule/announcement; aur sammelan ka udghatan vikas-kaam nahi; post-event coverage nahi mili; reject.
+// 6. livehindustan.com, ~21 Sep 2026 (est.), "Durgapuja se poorv 5 mukhya sadkon ke kayakalp ka vidhayak ne diya bharosa" — Munger Sewa Manch baithak me sirf ashwasan ki 5 sadkon ka nirman Durga Puja se pehle "pura kara liya jayega"; "karenge" ashwasan, koi stage nahi; reject.
+// 7. livehindustan.com, ~22 Jul 2026 (est.), "Vidhansabha me vidhayak Kumar Pranay ne uthaye kshetriya vikas ke mudde" — swimming pool, badminton stadium, sadak chaudikaran, Karharia Dakshin fourlane link ki maang vidhansabha me; sarkar ne keval aashwasan diya; sirf maang/prastav; reject.
+// 8. bhaskar.com, ~22 Jul 2026 (est.), "MLA raised issues of education and bridge construction in Bihar Assembly" — +2 Gandhi Uchch Vidyalaya Kutlupur me 6 kaksh + chahardiwari, aur Harinmar (Bariyarpur) me Athasaia nadi pul ki maang; mantri ka aashwasan; sirf maang; reject.
+// 9. livehindustan.com, ~Mar 2026 (est.), "Ganga paar ke panchayaton me swasthya suvidhaon par sadan me goonja sawal" — Jhauba Bahiyar/Harinmar panchayat me PHC ki maang vidhansabha me; swasthya mantri ne bhumi par nirbhar hone ki baat kahi; sirf sawal/maang; reject.
+// 10. livehindustan.com, ~10 May 2026 (est.), "Muktidham ke samip jalbharao ki samasya door karne ko banegi 150 meter nahar" — "banegi"/"nirman prakriya shuru ki jayegi" future aashwasan; koi swikriti/shilanyas/lokarpan stage nahi; reject.
+// 11. livehindustan.com, 16 Jan 2026, "NDA ki prachand jeet ki khushi me Munger se Patna tak niklegi Dandi Yatra" — political yatra (18 Jan 2026); vikas-kaam nahi; reject.
+// 12. livehindustan.com, ~21 Sep 2026 (est.), "Loktantra ki majbooti me media ki bhoomika sabse aham" — antarrashtriya patrakar sammelan ka udghatan (MP sahit); event-inauguration, vikas-kaam nahi; reject.
+// 13. etvbharat.com, ~7 Oct 2026 (est.), "Bihar me ban raha Malaysia jaisa twin tower, Durga Puja me banega aakarshan ka kendra" — Kalyanpur Durga Puja pandal event; vidhayak ka bayan/appeal; koi kaam nahi; reject.
+// 14. public.app, 30 Oct 2025, "grih mantri Amit Shah ke do karyakram hue aur janta utsahit: Kumar Pranay" — public.app-only + pre-term + political bayan; reject.
+// 15. public.app, ~6-7 Sep 2026 (est.), baadh-sambandhi posts ("baadh prabhavit logon se satark rahne ki appeal") — public.app-only + koi qualifying stage nahi; reject.
+// 16. sunrisebihar.blogspot.com, ~11 Sep 2026 (est.), "vidhayak Kumar Pranay ke nirdesh par samudaayik rasoi ka nirikshan" — blogspot-only + sirf nirikshan; reject.
+// 17. vandebharatlivetvnews.com, 12 Feb 2026, "bhajpa ke rashtriya adhyaksh Nitin Naveen ke swagat ke liye bhajpa karyakarta Patna hue ravaana" — political event; vikas-kaam nahi; reject.
+// 18. navrashtramedia.com, ~Feb 2022, "mukhyamantri Nitish Kumar ne Munger pul ka kiya lokarpan" — CM ne lokarpan kiya; maujood "Munger vidhayak Pranav Yadav" = galat vyakti; mantri-karyakram me sirf maujoodgi + pre-term; reject.
+// 19. zeenews.india.com, ~Dec 2024, "Amrit Bharat station yojana ke tahat Munger railway station ka remodeling, PM ne kiya shilanyas" — PM ne shilanyas kiya; "Munger vidhayak Pranav Kumar" sirf maujood the = galat vyakti; mantri/sansad karyakram me sirf maujoodgi + pre-term; reject.
+// 20. 22scope.com, ~Aug 2023, "Amrit Bharat station yojana: Jamalpur junction ka kiya gaya punarvikas" — PM ne VC se shilanyas kiya; "Munger vidhayak Pranav Kumar" maujood = galat vyakti; pre-term; reject.
+// 21. livehindustan.com, ~Mar 2026 (est.), "Munger nagar nigam kshetra me sadkon ka shilanyas — purv vidhayak Pranav Kumar ke karyakaal ki swikriti" — galat vyakti + pre-term; reject.
+// 22. public.app, ~May 2026 (est.), "vidhayak Kumar Pranay ka janata darbar" — janata darbar; koi qualifying stage nahi; reject.
+// 23. youtube.com, ~Sep 2026 (est.), Munger vidhayak interview — YouTube-only; reject.
+// 24. livehindustan.com, ~18 Aug 2026 (est.), "baadh prabhavit kshetron ka vidhayak ne kiya daura" — sirf daura/nirikshan; reject.
+
+biharWorks['nachiketa'] = [
+  {
+    title: 'Chandanpura Plus-Two school me NHAI dwara banaye gaye 3 naye kamron ka udghatan MLA Nachiketa ne kiya',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-05-14',
+    description: 'Jamalpur me NH-80 ke chaudikaran me dhwast hue Chandanpura Plus-Two uchch vidyalaya ke 3 kamron ki bharpai ke roop me NHAI ne vidyalaya parisar me 3 naye kamre banakar saupe, jinka udghatan sthaniya vidhayak Nachiketa ne mukhya atithi ke roop me kiya; prabhari pradhanacharya Arvind Kumar ke anusar kamron ke dhwast hone se pathan-pathan prabhavit ho raha tha aur vidyalaya prabandhan ke aagrah par NHAI ne naye kamre banwaye. Stage: lokarpan (nirman poorn, NHAI dwara hastantaran). Disclosure: yeh NHAI (kendriya agency) ka muavza-nirman hai — article me vidhayak-nidhi/MKVY ya kisi sarkari yojana-rashi ka zikr nahi hai; vidhayak ki bhoomika udghatan tak seemit thi, isliye entry rakhi hai. Tithi note: article me "Guruvar ko" likha hai aur search-index last-updated May 2026 hai — 14 May 2026 ko Guruvar tha, isliye 2026-05-14 (est.) maani hai.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/munger/jamalpur/news/mla-inaugurated-3-newly-constructed-rooms-of-chandanpura-plus-two-school-dbp-137938417.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Jamalpur ke Ashikpur rail line par railway over-bridge (ROB) nirman ki ghoshna — vidhansabha satr me Path Nirman Mantri ne kaha, Purvi Railway ko prastav bheja gaya',
+    category: 'Sadak',
+    stage: 'ghoshna',
+    date: '2026-02-28',
+    description: 'Vidhansabha satr me Jamalpur vidhayak Nachiketa dwara Ashikpur rail line par ROB ki samasya uthaye jaane par Path Nirman Mantri ne sadan me spasht kiya ki rail line ke upar ROB ka nirman karaya jayega aur iske liye Purvi Railway ko prastav bhej diya gaya hai; Dainik Jagran ki report ke anusar Bihar sarkar ne yojana ko swikriti de di hai aur nivida prakriya ke baad kaam shuru hoga. Stage: ghoshna — GO/sanction-order ya lagat (rakam) ki pushti nahi mili, isliye niyam-anusar swikriti ka dawa ghoshna mana gaya hai. Disclosure: ghoshna mantri ne sadan me ki; vidhayak ki bhoomika mudda uthane (pahal) tak seemit — swikriti-stariya dastavez article me nahi hai.',
+    source: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/bihar/munger-jamalpur-gets-railway-over-bridge-twolane-road-approval-bihar-govt-40157381.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Safiyabad se Bhagichak Ramnagar hote hue East Colony tak sadak ke two-lane chaudikaran ki ghoshna — Path Nirman Mantri ne vidhansabha me kaha',
+    category: 'Sadak',
+    stage: 'ghoshna',
+    date: '2026-02-28',
+    description: 'Vidhayak Nachiketa dwara sadan me mudda uthaye jaane par Path Nirman Mantri ne ghoshna ki ki Safiyabad se Bhagichak Ramnagar hote hue East Colony tak sadak ki chaudai badhakar use two-lane banaya jayega; Dainik Jagran ki report ke anusar isse mukhya sadak par lagne wale jam se sthayi rahat milegi aur dakshini kshetra ke logon ko Munger aane-jaane me samay aur indhan ki bachat hogi. Stage: ghoshna — GO/sanction-order ya lagat ki pushti nahi mili, isliye swikriti ka dawa ghoshna mana gaya hai. Disclosure: ghoshna mantri ki; vidhayak ki bhoomika sadan me mudda uthane tak seemit.',
+    source: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/bihar/munger-jamalpur-gets-railway-over-bridge-twolane-road-approval-bihar-govt-40157381.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (nachiketa):
+// 1. Live Hindustan ~Nov 2025, "Naye vidhayak se aas: dairy-malik ki tarah Jamalpur me lage karkhane" — janta ki ummeeden/maangen (flyover, supermarket, jalapurti, sinchai), pre-term, koi kaam nahi, reject.
+// 2. Live Hindustan 18 Nov 2025, "JDU pratyashi Nachiketa Mandal ki aitihasik jeet par kshetra me utsah" (Haveli Kharagpur) — chunav-jeet ka jashn, kaam nahi, reject.
+// 3. Dainik Bhaskar ~Nov 2025, "Welcome to the newly elected MLA, development was declared the first goal" — swagat samaroh + "karenge" bayan, reject.
+// 4. Dainik Bhaskar ~Mar 2026, "Rs 250-crore Mother Dairy plant reaches land demarcation stage" — shilanyas 4 Oct 2025 (pre-term; CM Nitish Kumar + MP Lalan Singh ne kiya tha); March 2026 article sirf status update + MLA ka bayan hai, naya kaam nahi, reject.
+// 5. Dainik Bhaskar ~Jan 2026, "A drama was organised in Peru Mandal Tola of Bariyarpur" — sanskritik karyakram ka udghatan, vikas-kaam nahi, reject.
+// 6. Live Hindustan 10 Jan 2026, "71st Foundation Day of Anand Marg Pracarak Sangh" — sanstha ke ek-divasiya seva-karyakram (narayan bhoj, kambal vitaran, chikitsa shivir) ka udghatan, vikas-kaam nahi, reject.
+// 7. Live Hindustan 26 Dec 2025, "Pensioner samaj ka adhiveshan 28 December ki jagah 11 January ko hoga" — vishisht atithi ke roop me sirf maujoodgi, reject.
+// 8. Live Hindustan 30 Dec 2025, "Saraswati Vidya Mandir me vibhagiya aacharya sammelan ka samapan" — mukhya atithi, karyakram, kaam nahi, reject.
+// 9. Live Hindustan 1 Jan 2026, "Ek hazaar naye logon ko JDU me shamil karne ka lakshya" (membership drive) — party sangathan kaam, vikas-kaam nahi, reject.
+// 10. Prabhat Khabar ~Oct 2026, "Lalan Singh ne suni logon ki samasyaen" — (a) vidhayak-nidhi se pustakalaya nirman: MP ki ghoshna, bina sanction/work-order saboot → vidhayak-nidhi ghoshna-type press, reject; (b) Prasando me youth gym: sirf "baat kahi", ghoshna bhi nahi, reject.
+// 11. Live Hindustan ~Aug 2026, "Jamalpur Ashikpur slum basti me banega bahumanjila awas" (khud khola) — DM + MLA ka sanyukt sthaliya nirikshan; DM ne DPR aur Nagar Vikas vibhag ko prastav ke nirdesh diye; MLA ka sirf nirikshan + bayan; koi swikriti/shilanyas/ghoshna stage nahi, reject.
+// 12. Live Hindustan 18 Oct 2025, nomination affidavit report — "MCC ullanghan ka ek mamla Kotwali thana me vicharadhin" (self-declared halafnama) — pre-term campaign-period case, karyakaal ka kaam nahi, reject (negative rule: pre-term).
+// 13. Dainik Jagran 28 Feb 2026 article ke andar ullekh — sinchai, degree college, nal-jal ke mudde: MLA ne sadan me sirf uthaye, koi ghoshna/swikriti stage nahi, isliye entry nahi bani.
+// 14. Dainik Jagran/TheJBT 2025, Gopal Mandal (Gopalpur MLA) par FIR khabren — galat vyakti, reject.
+// 15. dainikhindinews.com ~Dec 2025, manavadhikar sangathan ke jila adhyaksh ki shishtachar mulaqat — courtesy meeting, kaam nahi, reject.
+// 16. (Coordinator QA removal) Live Hindustan ~Oct 2026, Jamalpur ke Nayagaon me nasha mukti kendra ka udghatan (feeta katna) — reject: niji sanstha dwara sthapit kendra tha, article me sarkari fund ya vidhayak-nidhi ka koi zikr nahi, vidhayak ki bhoomika udghatan tak seemit — "niji trust school udghatan" (Qamrul Hoda) reject precedent par.
+
