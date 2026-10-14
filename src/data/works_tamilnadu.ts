@@ -3709,3 +3709,66 @@ tamilNaduWorks['ravisankar-m'] = [];
 // 10. Naam-trap check: "Ravi Shankar hacked to death, Krishnagiri, Sep 2025" (DT Next/News Today) — REJECT: GALAT VYAKTI (Tamilaga Valvurimai Katchi functionary, Rayakottai); Sri Sri Ravi Shankar (Art of Living) se bhi bhram ka dhyan rakha gaya, dono alag.
 // N. SEAT-WORK NATIJA: May-Oct 2026 me English press me Thuraiyur seat par unki vyaktigat seat-level bhoomika (lokarpan/shilanyas/swikriti/poora hua sarkari kaam) wali koi qualifying entry NAHI mili. Ye imaandari se khaali profile hai — Deputy Speaker banne ke baad unki sabhi press-upasthiti rajya-stariya bayanon tak seemit rahi.
 // Coordinator QA (Tiruchirappalli): 8/8 workers researched; fragments QA kiye (k-n-nehru ka DVAC negative, leemarose-martin ka ED-appeal negative, ramesh-tn ka breakfast-lokarpan — teeno me stage-sach + credit-pardarshita darj); 5/5 khaali imaandari se; marker 1x; append se pehle sabhi 8 slugs 0 matches the — koi overwrite nahi.
+
+// ---- Tirunelveli district batch (researched 2026-10-15) ----
+// ---- Tirunelveli district batch: murughan-r-s — researched 2026-10-15 ----
+tamilNaduWorks['murughan-r-s'] = [];
+
+// REJECT-LOG (murughan-r-s — TVK, Tirunelveli AC):
+// 1. The Hindu, 2026-05-29, "Councillors raise drinking water shortage issue at Tirunelveli Corporation council meeting" (khud khola) — MLA attended as special invitee; only raised demands (relocate animal-waste feed units near Ramayanpatti dumping yard; reposition UGDS pumping stations). Reject: sirf maang/gyapan, no sanctioned or completed work with documented role.
+// 2. The Hindu, 2026-03-29, "TVK fields ex-MLA in Tirunelveli district" (khud khola) — pre-term candidate-profile background; reject: pre-May 2026, no works.
+// 3. The Hindu election results page, 2026-05, "TVK wrests 3 of 5 Assembly segments from DMK in Tirunelveli" — election result only; reject: no works.
+// 4. The Hindu candidate profile + affidavit (assets Rs 158.5 crore, 0 criminal cases) + Wikipedia + TOI/BusinessToday/Oneindia result pages — poll data only; reject: no works, no sanction.
+// 5. Thanthi TV YouTube interview uploaded 2026-04-19 (pre-poll campaign) — reject: YouTube-only + pre-term campaign, no post-May works.
+// 6. "TVK MLA moves Madras HC to quash FIR over unauthorised banners" (Oct 2026, IANS) — galat-vyakti: MLA named is Saravanan (Srivaikuntam), not Murughan.R.S.
+// 7. Negative angle swept (DVAC/raid/complaint/FIR + corruption-contractor conflict queries across English media) — koi allegation, FIR, ya janch MLA ke khilaf nahi mili; affidavit me 0 criminal cases. Reject: koi negative entry nahi banti.
+// 8. MLACDS/fund/inauguration/foundation-stone/relief queries me MLA se juda koi sanctioned ya completed kaam report nahi hua. Sabha 5 mahine purani — khaali profile expected.
+
+// ---- Tirunelveli district batch: m-abdul-wahab — researched 2026-10-15 ----
+tamilNaduWorks['m-abdul-wahab'] = [];
+
+// REJECT-LOG (m-abdul-wahab — DMK, Palayamkottai AC):
+// 1. Election result coverage (TOI, Indian Express, Oneindia — Apr/May 2026): sirf chunav-jeet ki khabar, koi kaam nahi — kaam ka record nahi, reject.
+// 2. The Hindu 15 Dec 2025: Porunai Museum inspection — MLA sirf inspection me maujood, pre-May 2026 bhi, kaam CM/PWD ka — reject.
+// 3. The Hindu 10 Feb 2026: 9th Porunai Book Fair me shirkat — karyakram me maujoodgi, kaam nahi, pre-May 2026 — reject.
+// 4. The Hindu 31 Mar 2025: DMK drinking water booth (party minorities wing dwara maintain) — party ka kaam, pre-May 2026 — reject.
+// 5. The Hindu 29 Jul 2025: Assembly panel inspection of development projects — MLA sirf inspection team ka sadasya, pre-May 2026 — reject.
+// 6. The Hindu 27 May 2025: Senior Citizens Home shilanyas (CM video conference) — CM ka kaam, pre-May 2026 — reject.
+// 7. The Hindu 3 Jul 2025: CM dwara health centres ka lokarpan — CM ka kaam, MLA sirf maujood, pre-May 2026 — reject.
+// 8. Dailyworld (Dec 2025, IANS): CM ne 33 works ka lokarpan kiya, MLA sirf maujood — doosre neta ka karyakram, pre-May 2026 — reject.
+// 9. The Hindu via wesearch (29 May 2026): Tirunelveli Corporation me paani ki kami ka mudda councillors ne uthaya — kaam nahi, maang/shikayat hai; MLA ka documented role nahi — reject.
+// 10. Oneindia criminal-cases list: affidavit me 2 cases dikh rahe hain, lekin established-media me May 2026 ke baad koi allegation + FIR/adalaati karyavahi + jawab ki reporting nahi mili — negative entry nahi ban sakti, reject.
+// 11. Madras HC (11 Nov 2021, CRL.O.P.(MD)/14421/2021): Cr.No.396 of 2017 (Tirunelveli Junction) ki FIR quash — pre-term case, nayi sthiti nahi — reject.
+// 12. tennews/lokmattimes (Nov 2025): DMK internal factionalism piece me Wahab ka zikr — intra-party politics, kaam ya verified allegation nahi, pre-May 2026 — reject.
+
+// ---- Tirunelveli district batch: reddiarpatti-v-narayanan — researched 2026-10-15 ----
+tamilNaduWorks['reddiarpatti-v-narayanan'] = [
+];
+
+// REJECT-LOG (reddiarpatti-v-narayanan — TVK, Nanguneri AC):
+// 1. Dinakaran, 26 Sep 2026 — Moolaikkaraipatti (Nellai) me Social Welfare & Women Rights Dept ke samuday valaikappu samaroh me MLA ne adhyakshata ki aur garbhavati mahilaon ko seer varisai samagri vitarit ki. REJECT: sarkari vibhag ki pehle se chal rahi yojana ka karyakram — MLA ki sirf maujoodgi/adhyakshata, unki koi dastavezi swikriti/sanction/bhoomika nahi; stage-sach banata nahi.
+// 2. The Hindu, 29 Aug 2026 — Tirunelveli me 28th sarkari pradarshani ka udghatan; MLA "participated in the inaugural function". REJECT: sirf maujoodgi (udghatan Collector Anand Mohan ne kiya).
+// 3. The Hindu, 1 Jun 2026 — Papanasam dam se kar-season paddy ke liye paani chhoda; MLA "were present" (Collector ne paani chhoda). REJECT: sirf maujoodgi; jil-prashasan ka nirnay.
+// 4. The Hindu, 13 Jun 2026 — Finance Minister Marie Wilson ki Tirunelveli me monsoon-preparedness/development review meeting. REJECT: MLA naam se mention hi nahi; mantri ki meeting, unki seat ke kaam ka koi record nahi.
+// 5. Daily Thanthi — Nambiyar nadi (Ittamozhi/Rajakkal Mangalam) par Rs 1.93 crore ke pull ka shilanyas. REJECT: pre-term (2026 se pehle ki khabar, unke 2019-2021 AIADMK karyakaal ke daur ki reporting).
+// 6. The Hindu, 26 Mar 2026 — AIADMK se istifa, TVK me shamil hone ki goshna. REJECT: chunav se pehle ki rajniti khabar; koi kaam nahi.
+// 7. TOI/Indian Express (May 2026) election-result stories. REJECT: chunav coverage, kaam nahi.
+// NEGATIVE: koi nahi. The Hindu candidate profile (myneta affidavit aadharit) ke anusar unke khilaf koi pending criminal case nahi; May-2026 ke baad ki koi FIR/case/adalaati janch ki credible reporting nahi mili.
+// NOTE: Cabinet list (C. Joseph Vijay ministry) me naam nahi — mantri nahi, isliye seat-ke-kaam rule hi lagu.
+
+// ---- Tirunelveli district batch: dr-sathish-christopher — researched 2026-10-15 ----
+tamilNaduWorks['dr-sathish-christopher'] = [];
+
+// REJECT-LOG (dr-sathish-christopher — TVK, Radhapuram AC):
+// 1. Fisheries Minister visits five coastal hamlets of Tirunelveli district (The Hindu, 18 Sep 2026) — REJECT: sirf maujoodgi. Minister A. Srinath ne Koottappuli/Idinthakarai/Koothenkuzhi/Uvari/Koottapanai ka daura kiya; article me Radhapuram MLA S. K. Christopher sirf "accompanied the Minister" ke roop me darj — unki koi dastavezi bhoomika/pahal nahi. Doosre neta ke karyakram me maujoodgi entry nahi banti.
+// 2. Chief Minister's Trophy sports meet commences (The Hindu, ~10 Sep 2026) — REJECT: sirf maujoodgi. Collector Anand Mohan ne Anna Stadium, Palayamkottai me udghatan kiya "in the presence of Radhapuram MLA S.K. Christopher" — MLA ki koi vyaktigat bhoomika darj nahi.
+// 3. Tirunelveli MP seeks funds for streamlining power, drinking water supply, a mini dam near Kalakad (The Hindu, ~20 Sep 2026) — REJECT: doosre neta ka kaam. Ye memorandum MP C. Robert Bruce ne Rural Development/Water Resources Minister ko diya (Radhapuram coastal hamlets ke liye); MLA Dr. Sathish Christopher ki koi dastavezi bhoomika nahi.
+// 4. Rs 605 crore drinking water project for Radhapuram, Nanguneri segments ready for inauguration (The Hindu, 29 Jan 2026) — REJECT: pre-term. Us samay Speaker M. Appavu (pichhle MLA) ne ghoshna ki thi; project pichhle karyakaal ka hai, vartaman MLA se jodna galat hoga.
+// 5. "Appavu tests his electoral fortune again in Radhapuram" (The Hindu, Apr 2026) — REJECT: pichhle karyakaal ke kaam. ITI Kuttam, Valliyoor hospital, Rs 605 crore paani yojna, bus stand, Alanthuraiyar check-dam sab 2021-26 me Appavu ke kaam — Dr. Sathish Christopher ne May 2026 me seat jeeti, ye unke kaam nahi.
+// 6. Drinking water project trial-run news (The Hindu, Sep 2025) aur "Radhapuram combined drinking water scheme" (early 2026) — REJECT: pre-term, pichhle MLA ke daur ki khabrein.
+// 7. Tamil Nadu Speaker's grand plan for drought-prone areas (NDTV, 2024) — REJECT: pre-term (M. Appavu ka river-interlinking project, chunav se ~2 saal pehle).
+// 8. Oneindia "Tamil Nadu MLAs with Criminal Cases" aggregate list — REJECT as negative: sirf affidavit case-count (K. Satheesh Christopher ke khilaf 0 cases); bina FIR/case-reporting ke affidavit number negative entry nahi banta. Chunav halafnama bhi 0 criminal cases dikhata hai.
+// 9. Chunav coverage (TOI, ABP Live, Indian Express, NDTV, The Hindu candidate profile; sab May 2026 ya usse pehle) — REJECT: chunav prachar/parinaam, vikas-kaam nahi.
+// 10. SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, Indian Express, TOI, DT Next, The News Minute, South First, Deccan Herald, NDTV) me Radhapuram seat par unki vyaktigat seat-level bhoomika wali koi qualifying positive entry NAHI mili. Wo mantri nahi hain (Health Minister K. G. Arunraj hain) — isliye minister-rule lagoo nahi hota. Sabha ~5 mahine purani hai; khaali profile imaandari hai.
+
+// COORDINATOR QA NOTE (Tirunelveli, 2026-10-15): 4/4 MLA researched by 4 parallel workers, all fragments individually QA-verified (0 Devanagari/Tamil script, 0 Rs-symbol, 0 zero-width chars; all reject-logs in Roman Hinglish; correct slugs; no entry objects contain comments). All four profiles are HONESTLY EMPTY: Murughan.R.S. (TVK, Tirunelveli) — 8 rejects; M.Abdul Wahab (DMK, Palayamkottai) — 12 rejects; Reddiarpatti V. Narayanan (TVK, Nanguneri) — 7 rejects; Dr.Sathish Christopher (TVK, Radhapuram) — 10 rejects. Consistent pattern: the assembly is ~5 months old and post-May-2026 English press coverage of seat-level work for these four MLAs is effectively absent. Negative checks: Wahab's affidavit-listed 2 cases have no post-May-2026 established-media allegation+FIR/court stage+reply; Murughan's banner-FIR news belongs to Saravanan (Srivaikuntam) — wrong-person trap caught; Christopher's affidavit has 0 cases. No overwrite: all 4 slugs had 0 matches in works_tamilnadu.ts before this batch.
