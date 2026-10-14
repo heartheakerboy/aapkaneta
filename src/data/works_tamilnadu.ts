@@ -3772,3 +3772,54 @@ tamilNaduWorks['dr-sathish-christopher'] = [];
 // 10. SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, Indian Express, TOI, DT Next, The News Minute, South First, Deccan Herald, NDTV) me Radhapuram seat par unki vyaktigat seat-level bhoomika wali koi qualifying positive entry NAHI mili. Wo mantri nahi hain (Health Minister K. G. Arunraj hain) — isliye minister-rule lagoo nahi hota. Sabha ~5 mahine purani hai; khaali profile imaandari hai.
 
 // COORDINATOR QA NOTE (Tirunelveli, 2026-10-15): 4/4 MLA researched by 4 parallel workers, all fragments individually QA-verified (0 Devanagari/Tamil script, 0 Rs-symbol, 0 zero-width chars; all reject-logs in Roman Hinglish; correct slugs; no entry objects contain comments). All four profiles are HONESTLY EMPTY: Murughan.R.S. (TVK, Tirunelveli) — 8 rejects; M.Abdul Wahab (DMK, Palayamkottai) — 12 rejects; Reddiarpatti V. Narayanan (TVK, Nanguneri) — 7 rejects; Dr.Sathish Christopher (TVK, Radhapuram) — 10 rejects. Consistent pattern: the assembly is ~5 months old and post-May-2026 English press coverage of seat-level work for these four MLAs is effectively absent. Negative checks: Wahab's affidavit-listed 2 cases have no post-May-2026 established-media allegation+FIR/court stage+reply; Murughan's banner-FIR news belongs to Saravanan (Srivaikuntam) — wrong-person trap caught; Christopher's affidavit has 0 cases. No overwrite: all 4 slugs had 0 matches in works_tamilnadu.ts before this batch.
+
+// ---- Tirupattur district batch (researched 2026-10-15) ----
+// ---- Tirupattur district batch: syed-farooq-basha-ssb — researched 2026-10-15 ----
+tamilNaduWorks['syed-farooq-basha-ssb'] = [];
+
+// REJECT-LOG (syed-farooq-basha-ssb — IUML, Vaniyambadi AC):
+// 1. The Hindu (23 Jun 2026) — "New ROB, fruit pulp factory, desilting of water bodies in Tirupattur required: IUML MLA": Assembly me maang/prastav tha (naya Rail Over Bridge LC 81, fruit pulp factory Kumarakuppu me, water bodies ka desilting, Azhagu Perumal temple ke liye talab) — stage = sirf maang, koi swikriti/GO/lokarpan nahi. REJECT: sirf maang/prastav.
+// 2. DT Next / The Hindu / TNIE (6-7 Sep 2026) — MLA ka dawa ki "crores of rupees aur cabinet berths" ki peshkash hui, DMK-TVK ke beech horse-trading aarop: ye vikas-kaam nahi, political claim hai; koi FIR/case/adalaati sthiti nahi, koi seat-level kaam nahi. REJECT: development work nahi (rajnaitik aarop).
+// 3. PTI (29 Jun 2022, via newsdrum) — CM M K Stalin ne Tirupattur collectorate sahit Rs 129.56 crore ke projects ka lokarpan kiya (Vaniyambadi RDO building Rs 2.12 crore bhi): pre-May 2026 period (2022) + CM ka karyakram, MLA ka kaam nahi. REJECT: pre-period + doosre neta ka karyakram.
+// 4. The Hindu (Aug/Sep 2026) — Vaniyambadi STP ko lekar Valayambattu ke villagers ka virodh: koi kaam shuru/nahi hua, MLA ka isme koi role nahi darj. REJECT: na kaam, na MLA ki bhoomika.
+// 5. Fibre2Fashion — Ambur/Vaniyambadi leather cluster RO plants (Rs 70 crore, IIUS scheme): Union Ministry of Commerce + stakeholders ka project, MLA ki bhoomika nahi, date unclear/pre-period era ka project. REJECT: kshetra ka kaam par MLA se direct judav nahi.
+// 6. Election-result coverage (TOI, Indian Express, Business Today, Oneindia, ABP Live, Times Now — May 2026): sirf jeet ki khabar, koi vikas-kaam nahi. REJECT: chunav coverage, kaam nahi.
+
+// ---- Tirupattur district batch: vilwanathan-a-c — researched 2026-10-15 ----
+tamilNaduWorks['vilwanathan-a-c'] = [];
+
+// REJECT-LOG (vilwanathan-a-c — DMK, Ambur AC):
+// 1. The Hindu 2026-03-10 — Rs 65.98 crore ROB foundation stone at Reddy Thoppu near Ambur railway station; MLA ne shilanyas kiya tha lekin khabar March 2026 ki hai (May 2026 se pehle ka karyakaal) isliye reject.
+// 2. The Hindu 2026-03-13 — Ambur town me 64 CCTV cameras + centralised control centre ka inauguration (Rs 18 lakh, civic-body funds); MLA ne inaugurate kiya lekin khabar March 2026 ki hai (pichle karyakaal ka kaam) isliye reject.
+// 3. Times of India, early Sep 2026 — vidhan sabha me MLA ne Madhanur ke Puratchi Thalaivar MGR Govt Arts and Science College ke liye sports stadium ki maang uthayi; mantri ne kaha proposal PWD se discuss hoga — sirf maang/prastav hai, koi poora hua kaam ya lokarpan nahi, isliye reject.
+// 4. Baaki sab coverage sirf 2026 vidhan sabha chunav (Apr 2026 matdan, 4-5 May parinaam, 10 May 2026 se nayi sarkaar) se jude results/profiles the — chunav koi "kaam" nahi, reject.
+// 5. Koi negative entry nahi mili (FIR/case/adalaati/janch ki sthiti wali established reporting me koi item nahi).
+
+// ---- Tirupattur district batch: veeramani-k-c — researched 2026-10-15 ----
+tamilNaduWorks['veeramani-k-c'] = [];
+
+// REJECT-LOG (veeramani-k-c — AIADMK, Jolarpet AC):
+// 1. REJECT — Election victory news (4 May 2026, sabhi outlets: Business Today, TOI, News18, Indian Express): chunav jeet koi development kaam nahi.
+// 2. REJECT — Rebel MLA politics (The Hindu / DT Next, 7 Jul 2026): Veeramani 25 dissident AIADMK MLAs me the jinhone May me TVK ke trust motion ka samarthan kiya, EPS ki review meeting skip ki — raajnaitik khabar, kshetra ka kaam nahi.
+// 3. REJECT — Nara Lokesh welcome at Sholingur temple (ETV Bharat, 29 May 2026): Ranipet jile me Andhra minister ke swagat me maujoodgi — kshetra (Jolarpet) se bahar + sirf maujoodgi.
+// 4. REJECT — Pre-May 2026 minister-era news (Smart City Vellore 2018, Tirupattur district creation 2019, CWSS water project inspection): purana karyakaal, rule: sirf May 2026+.
+// 5. REJECT — Galat vyakti (kaee outlets, Sep-Oct 2026): POCSO case accused "Veeramani" = R. Veeramani, Gem Granites chairman — ye MLA K.C. Veeramani NAHI. DK leader K. Veeramani bhi alag vyakti — dono bilkul nahi liye.
+// 6. REJECT — Nomination-scrutiny scuffle (The Hindu, April 2026): Natrampalli me AIADMK karyakartao ki maar-peet — chunav kaand, kaam nahi; term se pehle bhi.
+// 7. REJECT — Madras HC case dismissal with Rs 1 lakh fine (middayonline, 9 Jan 2026): pre-term matter + purana case; term ke dauraan koi FIR/case/janch ki established reporting nahi — negative entry layak kuch nahi.
+// 8. REJECT — Tiruppattur AC No. 185 floor-test case (LawStreet, Sep 2026): ye Tirupattur (Sivaganga jila) AC ka mamla hai, Jolarpet/MLA Veeramani se koi lena-dena nahi.
+// 9. Note: 4 rounds English news search me May 2026 ke baad Jolarpet me inke dwara udghatan / shilanyas / hastantaran / launch ki koi post-event established-media reporting nahi mili — opposition MLA, record imaandari se khaali rakha gaya.
+
+// ---- Tirupattur district batch: dr-thirupathi-n — researched 2026-10-15 ----
+tamilNaduWorks['dr-thirupathi-n'] = [];
+
+// REJECT-LOG (dr-thirupathi-n — TVK, Tirupattur AC No. 50, Tirupattur jila):
+// 1. Times of India / Indian Express / Business Today, May 2026 — 2026 vidhan sabha chunav me TVK ke Dr. Thirupathi. N ki 48,263 votes se jeet (1,05,098 votes vs DMK ke A. Nallathambi ke 56,835); The Hindu ka candidate affidavit/profile page bhi sirf chunav samagri hai — chunav koi "kaam" nahi, reject.
+// 2. Newsdrum/PTI 2026-06-29 — Jun 2026 me CM Stalin ne Tirupattur district ka naya Collectorate + Rs 129.56 crore ki pariyojnaon ka udghatan kiya; ye CM/rajya sarkaar ka kaam hai, MLA ki koi documented bhoomika khabar me nahi, isliye inke naam par entry reject.
+// 3. Sep 2025 ka Rs 2.12 crore fire-and-rescue station lokarpan — May 2026 se pehle ka (pre-term) kaam hai, reject.
+// 4. New Indian Express 2026-06-27 aur New Kerala Mar 2026 — CM Stalin/Udhayanidhi Stalin ke Tirupattur district welfare karyakram (SIPCOT park ghoshna, Rs 517 crore works, workers lounge/VKC); ye doosre netaon ke karyakram hain, is MLA ki documented bhoomika nahi, reject.
+// 5. The Hindu / Asianet / Statesman, Sep 2026 — Madras HC ka Tirupattur (Sivaganga, AC No. 185) ke TVK MLA R. Seenivasa Sethupathy ke 1-vote jeet par election petition kharij; ye GALAT VYAKTI hai (doosri Tirupattur, Sivaganga jila), is MLA se sambandh nahi, reject.
+// 6. Mathrubhumi/DT Next, Sep-Oct 2026 — Madurantakam/Dharapuram Oct 6 by-elections aur TVK sarkaar ka floor test political coverage; Tirupattur AC No. 50 ke is MLA par koi item nahi, reject.
+// 7. Tirupati (Andhra) mandir/naidu khabrein aur Wikipedia profile — ya to alag shahar ya encyclopedia samagri, kaam nahi, reject.
+// 8. Koi negative entry nahi mili (FIR/case/adalaati/janch ki sthiti wali established reporting me koi item nahi); chunav-yachika bhi inke khilaf koi nahi mili.
+
+// ---- Coordinator QA note (Tirupattur, 2026-10-15): 4/4 MLA researched, sabhi profiles imaandari se khaali (0 entries, 0 negatives). Pre-term items (Mar 2026 ROB/CCTV, Jun 2022 CM lokarpan, Sep 2025 fire station) aur doosre-netaon ke karyakram reject; Tirupattur (Sivaganga AC-185) vs Tirupattur (north TN AC-50) confusion carefully avoided; Veeramani K.C. ko K. Veeramani (DK) aur R. Veeramani (POCSO accused) se alag rakha gaya. Assembly-humour stadium maang (vilwanathan-a-c), trust-motion dissident politics (veeramani-k-c) aur horse-trading aarop (syed-farooq-basha-ssb) vikas-kaam nahi. Hygiene: 0 Devanagari/Tamil script, 0 Rs-symbol, sab slugs append se pehle 0 matches (koi overwrite nahi). tsc+build parent-level QA me dobara verify honge. ----
