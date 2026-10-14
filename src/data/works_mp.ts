@@ -8496,3 +8496,178 @@ mpWorks['mukesh-malhotra'] = [
 // ---- Sheopur district batch REJECT-LOG (2026-10-14) ----
 // mukesh-malhotra — profile KHAALI: zero qualifying entries. 23 Nov 2024 ke upchunav me jeete (parinam ghoshna; Ramnivas Rawat ne seat khaali ki thi). Dec 2023+ coverage lagbhag poori tarah adalaati ladai (HC voiding Mar 2026, SC stay 20 Mar 2026) par kendrit; koi lokarpan/shilanyas/vidhayak-nidhi sanction/dastavezi swikriti/sankhyaon wala shivir nahi mila. Reject: cricket tournament inauguration (event), BhopalSamachar work-record (17 vidhansabha prashn — sirf maang), Bhaskar workers-conference (maang list), Karahal dharna + 14-sutriya gyapan (protest), dhanyavaad-sabha bhashan (bayaan), post-win interview ("karenge"), NBT election-office inauguration (pre-tenure), sarpanch-pad istifa (prashasnik), saari HC/SC khabrein (task-brief ke anusaar adalaati prakriya par entry nahi). SC stay ke baad unki vidhayak-nidhi + vetan par antarim rok hai — Mar 2026 ke baad nidhi-entries sambhav nahi (future pass ke liye note).
 // babu-jandel — 2 NEGATIVE entries pass (upar). Reject: MLA Cup cricket chief-guest ribbon-cut (sirf maujoodgi), Chambal Expressway muavza dharna/shirshasana (protest), kisan muavza 11-din dharna + bhookh hadtal (maang), vidhansabha shirshasana "budget me kuch nahi" (bayaan), Disha baithak me sawal (sirf maang), Gandhi smriti dwar Rs 5 lakh ailaan Feb 2019 (pre-term), sinchai-vibhag engineer marpeet case 2019 conviction + jail (pre-term; mpbreakingnews ka page bina date), mahila police adhikari gaali FIR Mar 2023 (pre-term), tehsildar tu-tadak video (bina FIR/case — negative bar fail), CM Sheopur daura ghoshnaen Rs 37.67 cr (sarkar ka kaam — unpar nahi), auto nahar me girne par 4 yuvakon ka bachav ~Holi 2025 (one-off personal rescue, kaam nahi), bus durghatna ghayalon ka haal-chaal (daura), blood-donation camp maujoodgi (sirf maujoodgi).
+
+
+// ---- Shivpuri district batch (researched 2026-10-14) ----
+mpWorks['khatik-ramesh-prasad'] = [
+];
+// REJECT-LOG (khatik-ramesh-prasad):
+// profile KHAALI: zero qualifying entries. Dec 2023+ karyakaal me koi lokarpan/shilanyas/vidhayak-nidhi sanction/dastavezi swikriti/sankhyaon wala kaam established media me nahi mila; poori coverage controversies aur prashasnik khabron par kendrit hai.
+// "Not my voters" Jan Chaupal vivad 16 Jul 2026 (ETV Bharat/TOI/Times Now/Hindi News18, khud kholkar padha) — viral video me MLA ke bayan; MLA ka jawab khabar me uplabdh hai lekin unke viruddh koi FIR/case/adalaati ya adhikarik janch-karyavahi report nahi hui — negative entry bar fail.
+// Ghar-bahar hangama 21 Sep 2026 (Fast Samachar/ShivpuriSamachar, khud kholkar padha) — complaint MLA ke pratinidhiyon ne sarpanch Balkishan Jatav aadi ke KHILAF di; viral video me MLA par gaali-galauj ka aarop hai lekin unke viruddh koi FIR/case/janch nahi — negative bar fail.
+// Bhai Bhagchand Khatik (shikshak) ka police-checking vivad Jan 2026 (News18 Hindi) — parivar ka mamla, MLA par kabhi nahi.
+// NDTV.in "106 vidhayak pratinidhi appoint" 2026 — prashasnik niyukti, vikas-karya nahi.
+// Brandwaani sarkari-jameen statement — sirf SDM ko nirdesh/bayaan, sirf maang.
+// Amar Ujala Narwar nala Rs 2.14 cr quality prashn Sep 2025 — sirf vidhansabha prashn 358 + janch ka aashwasan, koi poora hua kaam nahi.
+// Indiatimes Hindi Narwar Rs 185 cr lokarpan-bhoomipujan Sep 2025 — CM Mohan Yadav ka karyakram; sirf maujoodgi; rajya-package bina dastavezi concrete kadam.
+// public.app rogi-kalyan-samiti baithak Karera CHC Jun 2026 — public.app-only source + sirf nirikshan/baithak.
+// MP Tak SDM-transfer virodh video — YouTube-only source, sirf slogan-bazi.
+// NDTV/DNA 2010 sting rishwat kaand — pre-tenure (2008-2013 karyakaal), karyakaal se pehle.
+
+mpWorks['kailash-kushwah'] = [
+];
+// REJECT-LOG (kailash-kushwah) — 2026-10-14; profile KHAALI (0 pass):
+// 1. Sarkula Dam nirikshan (voiceofmp.com; mamakadhamaka.com, Feb 2026): sirf NIRIKSHAN/daura — Rs 226 crore ka dam pehle se nirmanadheen; "maine nirman company se baithak ki" dawa par koi dastavezi parinam nahi — reject (nirikshan + bina parinam ki prayas-dawa).
+// 2. Pohari nagar parishad nirman-karyon ka nirikshan (voiceofmp.com 317619; shivpurikhabar.com Jun 2025): sirf NIRIKSHAN — nala-puliya Rs 87 lakh, Amrit Yojna talab Rs 89 lakh par SDM ne fatkaar lagayi; vidhayak ka koi lokarpan/shilanyas/nidhi-swikriti nahi — reject (sirf nirikshan).
+// 3. Shivpuri-Pohari-Sheopur road nirikshan (mamakadhamaka.com, Feb 2026): sirf NIRIKSHAN — reject.
+// 4. School nirikshan Segada (ETV Bharat, 20 Jan 2024) aur Bamra/Bhaisda school nirikshan (shivpurisamachar.com, 16 Sep 2026): sirf NIRIKSHAN + maang-patra — reject.
+// 5. Kailash Kushwah ka Janj Gir nahi — Jhiri upswasthya kendra lokarpan (shivpurikhabar.com, Jul 2025): SANSAD ka karyakram — MP Bharat Singh Kushwah (BJP) ke 2-divsiya daure ka mukhya atithi karyakram, Rs 3.06 crore ka kendra; Kailash sirf vishisht atithi — reject (sansad karyakram me sirf maujoodgi; fund attribution MLA par nahi).
+// 6. Charch road maang (shivpurikhabar.com, Jul 2025): sansad se manch se 40-50 gaon ki sadak ki MAANG — reject (sirf maang).
+// 7. Helmet-wala khad-godam nirikshan (Zee News/FPJ/Bhaskar English, Nov 2025): publicity episode — reject (sirf nirikshan/daura, koi kaam nahi).
+// 8. Nashe-milawat ke khilaf Rs 11000 inam ghoshna (ETV Bharat, Jul 2024): campaign ghoshna, thos kaam nahi — reject.
+// 9. Narwar top chori par collector/SP ko patra + janaandolan chetavni (shivpurisamachar.com, 18 Jul 2026): patra + andolan-dhamki — reject (sirf maang/gyapan).
+// 10. Jila vikas samnvay baithak walkout + bhashan (charchitsamachar.com, 13 Dec 2025): BAYAN — reject.
+// 11. BJP karyakartaon ka Congress me joining (ETV Bharat, 30 Jan 2026): rajnaitik event — reject (kaam nahi).
+// 12. Shraddhanjali visit Radheshyam Awasthi (shivpurisamachar.com, 11 Oct 2026): shok-bhet — reject.
+// 13. Death threat FIR (Bhaskar English/FPJ/NDTV, Dec 2025): MLA SWAYAM complainant — Prabhat Rawat par BNS+IT Act me FIR; inke VIRUDDH koi FIR/case nahi — reject (negative bar par nahi baithta, aur koi vikas-karya nahi).
+// 14. Sarkula dam par "nirman restart" ka swayam-dawa (mamakadhamaka, Feb 2026): dastavezi parinam nahi — reject.
+// 15. Dec 2023+ me vidhayak-nidhi swikriti, lokarpan, bhoomi-pujan ya dastavezi swikriti ki koi established-media post-event reporting nahi mili — 8 alag search rounds ke baad bhi koi qualifying entry nahi.
+
+mpWorks['devendra-kumar-jain'] = [
+  {
+    title: 'Shivpuri jila aspatal ke prasuti-grih pratikshalaya bhavan ka lokarpan — vidhayak Devendra Jain ne janta ko samarpit kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Raajdhani News, 2 Oct 2024',
+    sourceUrl: 'https://raajdhaninews.com/archives/19362',
+    date: '2024-10-02',
+    note: 'Shivpuri jila aspatal me prasuti grih ki pratikshalaya bhavan ka udghatan karke vidhayak Devendra Jain ne use janta ko samarpit kiya; mauke par collector Ravindra Kumar Choudhary, prabhari CMHO Dr Sanjay Risheshwar aur civil surgeon Dr V L Yadav upasthit the. Stage: poora bhavan ka lokarpan. Disclosure: report me bhavan ki nidhi ya fund ka srot nahi bataya gaya hai; sansad-nidhi ya Scindia-karyakram ka koi zikr nahi hai, isliye ise sansad fund se nahi joda gaya. Teen aur sthaniya portals (MP Today, Bharat Samachaar, Fast Samachar) ne bhi yahi post-event report prakashit ki thi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kakarwaya ki 18 bigha zameen par avaidh kabze ka aarop — jansunwai me vidhayak Devendra Jain aur unke putr par shikayat; vidhayak ka dawa: aarop jhoothe aur mangadhant',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Agniban, 29 Sep 2026',
+    sourceUrl: 'https://www.agniban.com/mp-mla-devendra-jain-and-his-son-face-serious-allegations-of-land-grabbing-in-shivpuri-mla-dismisses-the-charges-as-baseless/',
+    date: '2026-09-29',
+    note: 'NEGATIVE ENTRY: Shivpuri collectorate ki jansunwai me zameen vikreta Anand Goyal ne BJP vidhayak Devendra Jain aur unke putr Saksham Jain par aarop lagaya ki Kakarwaya sthit lagbhag 18 bigha zameen me se sirf 9 bigha bechi gayi thi, lekin satta ke prabhav se poori 18 bigha par avaidh kabza kar liya gaya; unhone kshetiya tehsildar Siddharth Sharma ki bhoomika par bhi gambheer sawaal uthaye. Prashasnik sthiti: prashasan ne shikayat darj karke jaanch shuru kar di hai. Neta ka jawab: Devendra Jain ne sabhi aaropon ko poori tarah jhootha, mangadhant aur niradhaar bataya aur kaha ki unke paas vaidhanik roop se keval wahi 9 bigha zameen hai jo kharidi gayi thi. Disclosure: Agniban (established Indore akhbaar) aur lalluram.com ne swatantra roop se yahi report prakashit ki; koi FIR ya adalati karyavahi abhi tak report nahi hui hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (devendra-kumar-jain):
+// Nawab Sahab Road chaadikaran — vidhayak ne paarshad ki maang par PWD ko sirf patra likha (Fast Samachar, Sep 2026) — sirf maang/patra, koi swikriti ya shilanyas nahi. Reject.
+// Vachan-patra viral, "36 mahine me 36 samasyaen, nahi to istifa" (shivpurisamachaar, Dec 2023) — chunaav-samay ke waade, pre-term ghoshna. Reject.
+// CM Shivraj ki Shivpuri me Nagar Nigam banane ki ghoshna (Bansalnews, chunaav se pehle) — CM ki ghoshna, pre-term. Reject.
+// Pulse polio abhiyan booth udghatan (shivpurikhabar, Jun 2024) — yojana event, bhoutik nirman nahi. Reject.
+// Picnic Bakery naye pratishthan ka shubharambh (shivpurikhabar, Dec 2025) — private dukaan, development work nahi. Reject.
+// Vriddhashram me 15 palang aur 15 almari ka dan (shivpurikhabar, Jul 2025) — dan karyakram, nirman karya nahi. Reject.
+// DI pipeline bhoomi pujan (shivpurisamachaar, Jan 2024) — nagar palika ka kaam, vidhayak aamantrit nahi; "har ward ko 10-10 lakh" vidhayak-nidhi ka dawa bina sanction saboot ke ghoshna-type. Reject.
+// Jila aspatal me RO sheetal jal pyaau ka shubharambh (goonjtabharat, Apr 2025) — pyaau ward-37 ke paarshad Gaurav Singhal ne sthapit ki; vidhayak sirf mukhya atithi. Reject (sirf maujoodgi).
+// Up-dakghar/VRC saundaryikaran lokarpan (mamakadhamaka, Apr 2025) — Jyotiraditya Scindia ka Project Arrow; sansad-kendriya project, vidhayak ne sirf lokarpan kiya. Reject (Scindia project + maujoodgi).
+// "Shivpuri ke vikas par sakht" bayaan, Nagar Palika ko chetawani (samaykhabar, Apr 2026) — sirf bayaan/nirdesh, koi kaam nahi. Reject.
+// SDM sahit sthaniya prashasan par bhrashtachar ka aarop, press conference (Economic Times, Jun 2025) — political aarop, development work nahi. Reject.
+// Morena Janpad CEO Devendra Jain ki patni-firm vivad (Bhaskar English, 2025) — GALAT VYAKTI: ye Morena ke adhikari hain, Shivpuri ke vidhayak nahi. Reject.
+// Zameen kabze ka viral video, Ankit Agarwal ki thana/collector shikayat (lalluram, Jan 2026) — peedit ke dawe par aadharit khabar; koi pushti adhikarik janch-karyavahi report nahi — negative bar fail. Reject.
+// Mahan Aryaman Scindia ke pair chhoone wala viral video (News18, Jan 2026) — political episode, kaam nahi. Reject.
+// Nagar palika parishad baithak me "har ward 10-10 lakh" ailaan (shivpurikhabar, Dec 2023) — vidhayak-nidhi ghoshna, bina sanction/work-order saboot. Reject.
+// Jal samiksha baithak, tanker se paani ke nirdesh (shivpurikhabar, Jun 2024) — samiksha/baithak, nirman nahi. Reject.
+// Postal Training Centre ka shilanyas (IndiaEducationDiary, Sep 2026) — Scindia ne kiya; vidhayak sirf upasthit. Reject.
+// Madhav Tiger Reserve MT-1 par vidhansabha me prashn (Free Press Journal) — sirf prashn, maang nahi kaam. Reject.
+// Baadh rahat daura, Pachawali (obnews, 2025) — CM Mohan Yadav + Scindia ka karyakram; vidhayak sirf saath. Reject.
+// "Jhadu lagane ko taiyaar" chunaav prachar video (ZeeNews, Apr 2024) — campaign bayaan. Reject.
+// Patrakar Jaikishan Sharma samman samaroh me upasthiti (shivpurikhabar, May 2025) — event, kaam nahi. Reject.
+// Har Ghar Tiranga yatra me hissa (samaykhabar, Aug 2026) — event, kaam nahi. Reject.
+// Shivpuri samachar me shivpurisamachaar/shivpurikhabar par 2024-2026 ke koi aur lokarpan/shilanyas/sanction report nahi mili — profile ke baaki hisse khaali hain.
+
+mpWorks['preetam-lodhi'] = [
+  {
+    title: 'Agra me Rs 1.09 crore ki paani tanki ka lokarpan — Jal Arpan Divas par MLA ne mukhya atithi ke roop me kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Atulya Bharat Chetna, 7 Feb 2026',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/57434',
+    date: '2026-02-06',
+    note: 'Janpad panchayat Pichhore ki gram panchayat Agra me Jal Jeevan Mission ke tahat Rs 1,09,63,000 ki lagat se bani paani tanki ka lokarpan kshetriya vidhayak Preetam Singh Lodhi ne mukhya atithi ke roop me kiya; mauke par jila panchayat sadasya Kamta Singh Lodhi, additional CEO jila panchayat Narendra Singh Narwaria aur PHE, sarpanch-panchayat-sachiv samet sthaniya adhikari maujood the; ye POORA stage hai. Credit-pardarshita: ye sarkari (Jal Jeevan Mission, kendra-rajya sarkari yojna) kaam hai — MLA ka yogdaan lokarpan tak hai, swikriti/fund unka nahi; sansad-nidhi se sambandhit nahi. Disclosure: srot chhota local portal (Atulya Bharat Chetna) hai, established media nahi; khabar me lokarpan event ki vishesh reporting hai. Tithi disclosure: article me event "shukrawar" likha tha; 2026-02-06 shukrawar thi, isliye event-tithi di gayi hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (preetam-lodhi):
+// 1. Bamorkalan nai up-tehsil bhavan Rs 1.24 crore lokarpan (31 Aug 2026) — SCINDIA RULE: lokarpan Jyotiraditya Scindia (sansad/kendriya mantri) ke karyakram me Scindia ne kiya, Lodhi sirf saha-lokarpan me maujood the (AajTak 18 Sep 2026, LNStar). Scindia ke karyakram par bane kaam kabhi nahi jodne. Alag dararon wali khabar (AajTak/LNStar Sep 2026) me Congress ke ghatiya nirman ke aarop hain lekin koi FIR/case/adalaati ya adhikarik janch-karyavahi nahi (tehsildar ne sirf PWD/contractor ko avagat karaya) — negative bar fail.
+// 2. Garhetha/Chamraua/Muhasa/Pipra 4 vidyut upkendra (Rs 2.19 cr + 2.19 cr + 2.67 cr + 1.46 cr) — SCINDIA RULE: 10 Sep 2025 ko Scindia ne lokarpan/bhoomi pujan kiye, Lodhi sirf mauke par upasthit (pinewz, shivpurifirst, ETV Bharat). Kabhi nahi jodne.
+// 3. 51 paani tankers vitaran vidhayak nidhi se (R Hindustan TV News, Sep 2026): YouTube-ONLY — srot bar fail; bina sanction/work-order saboot ke vidhayak-nidhi ghoshna-type press khabar bhi reject.
+// 4. public.app Khaniyadhana Gudra/Jha Launi bhoomi pujan-lokarpan (13 Jul 2025, samudayik bhavan + multipurpose prateekshalay): public.app-ONLY — srot bar fail.
+// 5. public.app 25 Mar 2026 pyaau (peyjala suvidha): public.app-ONLY — srot bar fail.
+// 6. Dainik Bhaskar (Jul 2025): Rajpura (Bhind jila) me vidhayak nidhi se Rs 5 lakh CC-road ki sifarish-patra — KSHETRA-BAHAR (Bhind Pichhore AC ke bahar) aur abhi sirf sifarish, sanction nahi.
+// 7. shivpurikhabar 7 Aug 2024: 5-varshiya karya yojna baithak (collector/CEO ke saath) — sirf prastav/charca, koi vishisht kaam nahi (blogspot-only portal).
+// 8. shivpurikhabar Jun 2025 press conference (Modi sarkar 11 saal): nal-jal/sadaken/swasthya shivir ke generic dawe — koi sthan/rakam/tithi nahi, kamzor attribution.
+// 9. Honeytrap aarop (Republic World/News18, 22 Aug 2026): MLA ka swayam ka dawa, koi FIR/case/janch nahi — negative bar fail (bina adhikarik karyavahi ke aarop).
+// 10. BJP notice SDOP Ayush Jakhar par tippani par (FPJ): BJP state president ka 3-din ka jawab-notice — party anushasanatmak karyavahi, koi FIR/case nahi; mool ghatna (16 Apr 2026 Thar haadsa) bete Dinesh Lodhi ki — parivar ka mamla MLA par kabhi nahi.
+// 11. SP Shivpuri par hatya-sazish ka aarop (Zee News, ~Apr 2025): sirf manch-bhashan ka aarop, koi karyavahi nahi — negative bar fail.
+// 12. NDTV/UNI (Jun 2026): mahilaon dwara pani-bijli par gherav aur paani ki bottle wala video — news episode, koi kaam nahi.
+// 13. Central Chronicle / Zee News: Pichhore ko jila banane ki maang — sirf maang.
+// 14. Amar Ujala (22 Jan 2025): thanon me 20 vidhayak pratinidhi niyukt — prashasnik innovation, development work nahi.
+// 15. vistaarnews (~Sep 2026): "dhai hazaar kilo ka haath" bayan — bayan, kaam nahi.
+// 16. Amar Ujala (6 Mar 2023): BJP se nishkasan ke baad wapsi — PRE-TERM.
+// 17. "galat vyakti" check: Sagar kshetra wale doosre Preetam Lodhi ki koi khabar iss research me entry ke liye nahi mili; saari coverage Pichhore AC wale par hai.
+
+mpWorks['mahendra-ramsingh-yadav-khatora'] = [
+  {
+    title: 'Bijaurauni gram (Badarwas janpad) me Rs 1 crore vidhayak-nidhi se ~1.5 km asphalt bypass sadak ki swikriti; kisanon ne zameen daan ki, PWD sadak banayega',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 14 Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/shivpuri/news/shivpuri-bijaurauni-bypass-farmers-land-donation-mahendra-yadav-138442414.html',
+    date: '2026-07-14',
+    note: 'STAGE: swikriti — Bhaskar ki report ke anusar vidhayak ne apni vidhayak-nidhi se ~Rs 1 crore ki rashi uplabdh karai hai; nirmaan shuru hona baki (work order ya nirmaan-shuru hone ki pushti report me nahi). Fund: Vidhayak-nidhi (sansad-nidhi nahi). Kisanon ne swecchha se zameen daan ki aur PWD ke paksh me notary kara li hai; center se dono taraf 12-12 meter zameen lekar mazboot damar sadak banegi. Tithi disclosure: article page par prakashan-tithi nahi dikhi; search index ke anusar khabar lagbhag 14 July 2026 ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rai gram (Kolaras tehsil) me Rs 24 lakh ki lagat se shasakiya Ayurvedic aushdhalaya ke naveen bhavan ka bhoomi pujan vidhayak ne kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Today Times, 24 Oct 2025',
+    sourceUrl: 'https://www.thetodaytimes.in/2025/10/24-kolaras.html',
+    date: '2025-10-24',
+    note: 'STAGE: shilanyas-bhoomi pujan — post-event report ke anusar Kolaras vidhayak Mahendra Singh Yadav ne swayam bhoomi pujan kiya; janpad adhyaksh Bharat Singh Chauhan samet janpratinidhi aur gramin upasthit the. Project: shasakiya (sarkari) Ayurvedic aushdhalaya ka naya bhavan. Fund-source disclosure: report me nidhi ka zikr nahi hai (vidhayak-nidhi, sansad-nidhi ya vibhagiya mad — kuch spasht nahi). Source disclosure: thetodaytimes.in chhota Shivpuri-based local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gilaganwa Chakk gram me Rs 25 lakh ki lagat se samudayik bhavan ka bhoomi pujan vidhayak ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Today Times, 31 Dec 2025',
+    sourceUrl: 'https://www.thetodaytimes.in/2025/12/25-kolaras.html',
+    date: '2025-12-31',
+    note: 'STAGE: shilanyas-bhoomi pujan — post-event report ke anusar Kolaras vidhayak Mahendra Singh Yadav ne budhwar ko bhavan ka vidhivat bhoomi pujan kiya; janpratinidhi, panchayat padadhikari aur gramin upasthit the. Fund-source disclosure: report me nidhi ka zikr nahi hai. Source disclosure: thetodaytimes.in chhota Shivpuri-based local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gudal Dang aur Bamour me Rashtriya Swasthya Mission ke tahat swikrit do up-swasthya kendraon (pratyek Rs 55.08 lakh) ka bhoomi pujan vidhayak ne kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Today Times, 28 Mar 2026',
+    sourceUrl: 'https://www.thetodaytimes.in/2026/03/kolaras_28.html',
+    date: '2026-03-28',
+    note: 'STAGE: shilanyas-bhoomi pujan — Ramapuri gram panchayat ke Gudal Dang me vidhayak ne MP shasan ke Rashtriya Swasthya Mission (NHM) ke antargat swikrit dono up-swasthya kendron ka bhoomi pujan kiya. Fund: sarkari yojana (NHM) — report me swikriti ki baat hai; ye vidhayak-nidhi ya sansad-nidhi ka kaam nahi hai. Source disclosure: thetodaytimes.in chhota Shivpuri-based local portal hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (mahendra-ramsingh-yadav-khatora):
+// 1. Patrika exclusive interview (23 Jan 2025): sarkar ke 1 saal ki uplabdhiyon par general charcha; koi vishisht kaam rakm/tareekh ke saath nahi, aur shreya kendra-rajya sarkar/Scindia ko — qualifying entry nahi.
+// 2. brandwaani (2 Sep 2026): Rs 33.15 crore ke bhoomi-pujan/lokarpan kendriya mantri-sansad Jyotiraditya Scindia ne kiye; vidhayak sirf manch par bole — KHAS NIYAM: Scindia karyakram/fund inpar kabhi nahi.
+// 3. bhopalsamachar (30 Jul 2025): school bus badh me utarne ka mamla — school vidhayak ki beti (jila panchayat adhyaksh Neha Yadav) ka hai; parivar ka mamla MLA par kabhi nahi; MLA par koi FIR/janch nahi — negative bar fail.
+// 4. public.app Badarwas ward-01 nala bhoomi pujan video — public.app-only (source bar fail).
+// 5. public.app Kolaras Public School annual day (Dec 2025) — public.app-only + sirf upasthiti.
+// 6. public.app CM Rise school auchak nirikshan (Jun 2025) — public.app-only + nirikshan/daura.
+// 7. thetodaytimes (Nov 2025): Badarwas block daura ka pre-event schedule (10 Nov 2025 bhoomi-pujan/lokarpan yatra) — pre-event schedule, post-event report nahi.
+// 8. agnichakra (2018): Rannod me kapdon ki dukaan ka udghatan — pre-term + vikas-kaam nahi.
+// 9. ZeeNews/DNA: AAP vidhayak Mahendra Yadav (Vikaspuri, Delhi) ka assault case — GALAT vyakti.
+// 10. News18: IND ummeedwar Mahendra Singh Yadav (27, Kolaras 2023) — GALAT vyakti.
+// 11. Bhaskar (Nov 2025): Shivpuri me Dhirendra Shastri Bhagwat-katha sthal bhoomi pujan — vidhayak sirf upasthit; dharmik karyakram, vikas-kaam nahi.
+// 12. YouTube "Kolaras me vikas ki raftaar tez, sadkon ka bicha jaal" (Sep 2026) — YouTube-only (source bar fail).
+// 13. newsckd (Sep 2026): CM Jan-Vishwas Abhiyan jansamvad shivir, Kolaras — vidhayak mukhya atithi; yojana shivir event, sirf upasthiti.
+// 14. thetodaytimes (Oct 2026): Rannod seva-setu shivir — vidhayak upasthit; event/upasthiti, kaam nahi.
+// 15. mpbreakingnews / Zee News / Business Standard 2018 (bypoll, seat-chhodne ki ghoshna) — pre-term.
+// 16. ABP Live / myneta candidate profiles, Wikipedia — keval profile, koi vishisht kaam nahi.
