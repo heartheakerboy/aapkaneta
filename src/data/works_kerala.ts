@@ -564,3 +564,75 @@ keralaWorks['shibu-theckumpuram'] = [];
 //    Shibu ka koi works attribution nahi. REJECT.
 
 // COORDINATOR QA NOTE (Ernakulam): 14/14 workers completed. 3 entries kept: v-p-sajeendran (Pariyathukavu Unnathi shilanyas — accountability-pahal chain: unka 2 Jun 2026 Calling Attention Motion -> CM assurance -> 13 Jun sulah-meeting -> 16 July shilanyas; mantri ne shilanyas kiya, MLA ne adhyakshata + contractor ko agrim cheque — poora credit-disclosure), t-j-vinod (Thammanam-Pullepady road Rs 100cr administrative sanction + KIIFB Rs 93.89cr — unke assembly submission ke jawab me, swikriti stage honestly staged), adv-v-d-satheesan (1 NEGATIVE — Chipsan Aviation chartered-flight Lok Ayukta complaint, preliminary inquiry ongoing, next hearing 3 Nov 2026; CM ka jawab + koi final finding nahi, dono paksh same prominence). 1 entry REMOVED by coordinator: mohammed-shiyas fishing nets (sirf sarkari order ki ghoshna, MLA ka dastavezi concrete kadam nahi — rajya-package rule). 11 profiles imaandari se khaali. Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n in entries; period 2026-2031 everywhere; slugs unique (no overwrites).
+
+// ---- Idukki district batch (researched 2026-10-14) ----
+
+keralaWorks['f-raja'] = [];
+
+// REJECT-LOG (f-raja, scope: May 2026+, Devikulam SC only)
+// 1. Onmanorama, 21 Feb 2026 — "Will 'beat & break' hands, legs; Devikulam MLA threatens Munnar Special Tehsildar" (https://www.onmanorama.com/news/kerala/2026/02/21/mla-a-raja-threat-munnar-eviction.html): ye A. Raja (CPI(M), 2021-26 ke MLA) ki khabar hai, galat vyakti; F. Raja ke karyakaal (May 2026+) se pehle ki bhi hai; REJECT. (The Hindu aur The News Minute ki bhi same A. Raja wali Feb 2026 khabrein mili — sabhi galat vyakti + pre-term, REJECT.)
+// 2. TOI, 26 Mar 2026 — "Kerala assembly election: Too many rajas, only one throne"; The Hindu, Mar 2026 pre-poll analyses; Business Today / Oneindia / Indian Express result pages — sabhi chunav parinaam (4 May 2026) se pehle ya pure chunav coverage; koi vikas-kaam nahi; karyakaal-bahar, REJECT.
+// 3. Onmanorama Devikulam-MLA topic page ke baaki items — "SC sets aside Kerala HC order, reinstates A Raja's MLA status" (A. Raja, purana mamla), "Estranged CPM leader S Rajendran joins BJP" / "Ex-MLA Rajendran announces exit from CPM" (S. Rajendran, dusre neta), "HC annuls Devikulam election result" (2021 election court case) — sab F. Raja ke vikas-kaam nahi; REJECT.
+// 4. Tenderfiles.com — Devikulam GP/Block 2025-26 annual plan ke paani aur drainage tenders (Chinnakanal, Devikulam GP wards): ye LSG Dept ke panchayat annual-plan kaam hain, 2025-26 fiscal year me; F. Raja ki koi dastavezi bhoomika darj nahi; credit attribution nahi ban sakta; REJECT.
+// 5. English + Malayalam me 8+ targeted searches (F. Raja inauguration/foundation/MLA fund/development/Munnar, Aug-Oct 2026; "Francis Raja (Malayalam spelling)" shilanyas/udghatan/vikasam/fund) — post-May 2026 ka koi established-media works-report nahi mila. F. Raja pehli baar MLA bane hain (sabha sirf ~5 mahine purani); press me unki abhi tak koi dastavezi inauguration/sanction/fund-sanction reporting uplabdh nahi.
+// Pehchan verified: Francis Raja (F. Raja), INC, Devikulam (SC), Idukki — 2026 me 50,590 vote se jeete, margin 5,233, CPI(M) ke A. Raja (2021-26 ke MLA, galat vyakti se alag) ko haraya. Tamil Nadu ke A. Raja wali confusion sakhti se khariz — yahan wala vyakti Kerala ka alag vyakti hai.
+
+keralaWorks['adv-senapathy-venu'] = [];
+
+// REJECT-LOG (adv-senapathy-venu, scope: May 2026+, Udumbanchola only)
+// Pehchan verified: Adv. Senapathy Venu, INC, Udumbanchola seat (no. 89, Idukki) — won 2026 Assembly election with 64,916 votes, margin 20,021 over CPI(M)'s K.K. Jayachandran (The Hindu, 4 May 2026; ECI results). Spelling variants media me "Senapathi Venu" / "Senapathy Venu" dono mile; Udumbanchola AC me "Senapathy" naam ka grama panchayat bhi hai — us naam ki khabren galat vyakti/kshetra hoti, yahan reject hain.
+// 1. The Hindu, 21 Aug 2026 (https://www.thehindu.com/news/national/kerala/mlas-mp-raise-demands-at-meet-on-idukkis-power-related-concerns/article71373846.ece) — Idukki Collectorate power review meeting: Udumbanchola MLA Senapathi Venu ne Anayirankal dam reservoir me boating facility phir se shuru karne ki maang rakhi ("called for"). REJECT: sirf maang, koi swikriti/GO/kaam ki khabar nahi. Source khud kholkar padha gaya.
+// 2. The Hindu, 24 Sep 2026 (https://www.thehindu.com/news/national/kerala/government-will-take-steps-to-lift-construction-ban-in-idukki-says-keralam-minister/article71504579.ece) — Cheruthoni title-deed distribution fest: Revenue Minister ne construction ban hatane aur title deeds ki baat kahi; MLA Senapathy Venu sirf maujood MLAs ki list me tha. REJECT: mantri ke karyakram me sirf maujoodgi; mantri ki ghoshna MLA ki entry nahi banti.
+// 3. Onmanorama, 27 Aug 2026 (https://www.onmanorama.com/news/kerala/2026/08/27/idukki-elephant-attack-protest-in-pooppara.html) — Pooppara (Thalakkulam) me haathi ke hamle me ek vyakti ki maut; CPM workers ne Kochi-Dhanushkodi NH block kiya; Kerala government ne Rs 10 lakh muavza sanction kiya (Revenue Rs 4 lakh + Forest dept), protest MLA se charcha ke baad vapas liya gaya. REJECT: aapda-raahat/vyaktigat welfare = vikas-kaam NAHI; muavza sarkaar ki sanction thi, MLA ki bhoomika sirf samjhauta/mediaton thi. Source khud kholkar padha gaya.
+// 4. The Hindu, 16 May 2025 (https://www.thehindu.com/news/national/kerala/five-new-roads-inaugurated-in-idukki/article69584204.ece) — Udumbanchola me Perinchamkutty-Ezhukumvayal road (Rs 5 crore) ka lokarpan "Udumbanchola MLA M.M. Mani" ne kiya. REJECT: karyakaal se pehle (May 2025) + galat vyakti (poorv MLA M.M. Mani).
+// 5. Onmanorama, 27 Oct 2025 (https://www.onmanorama.com/news/kerala/2025/10/27/nedumkandam-taluk-hospital-construction-deadline.html) — Rs 149 crore Nedumkandam Taluk Hospital project (KIIFB), "sanctioned during the tenure of MLA M.M. Mani as minister"; review meeting me purv MLA Mani ne adhyakshata ki. REJECT: karyakaal se pehle ki sanction; May 2026 ke baad is project me Venu ki koi concrete bhoomika kisi established media me report nahi hui.
+// 6. May 2026 election coverage (The Hindu/TOI/Indian Express/ECI) — jeet ki khabar, vikas-kaam nahi. Identity verification ke liye use hui.
+// 7. 7 search rounds (general + news vertical, June-Oct 2026 filters, naam variants Senapathy/Senapathi/Venu, localities Nedumkandam/Santhanpara/Vandanmedu/Karunapuram) me May 2026 ke baad Venu ke naam par koi sadak, paani, school, aspataal, shilanyas, lokarpan, vidhayak-nidhi sanction ya GO ki post-event reporting nahi mili. Profile imaandari se khaali.
+
+keralaWorks['apu-john-joseph'] = [];
+
+// REJECT-LOG (apu-john-joseph, scope: May 2026+, Thodupuzha only)
+// 1. Onmanorama, 6 Sep 2026 — "New KSRTC super deluxe bus service from Thodupuzha to Bengaluru" (https://www.onmanorama.com/travel/travel-news/2026/09/06/thodupuzha-bangalore-new-ksrtc-super-deluxe-bus.html): article khud kholkar padha; ye launch ceremony (same-day 3 pm) se pehle 10:57 AM ko prakashit pre-event announcement hai, isliye entry ka srot nahi ban sakta. Note: article ke mutabiq Transport Minister C P John ne route sanction kiya tha "Apu John Joseph ke active intervention" ke baad; sanction sarkaar ka tha, MLA ki bhoomika flag-off thi. Post-event reporting dhoondi gayi lekin search query fail hui (repeat nahi hua).
+// 2. The Hindu — "MLAs, MP raise demands at meet on Idukki's power-related concerns" (https://www.thehindu.com/news/national/kerala/mlas-mp-raise-demands-at-meet-on-idukkis-power-related-concerns/article71373846.ece): Apu John Joseph ne sirf maang uthayi (rooftop solar ke power grid transmission ke technical snags suljhane ki); sirf maang = REJECT.
+// 3. Mathrubhumi English, 31 Aug 2026 — "Talks of new Muvattupuzha district premature: Kerala Chief Whip Apu John Joseph": rajnaitik opinion/tippani hai, koi vikas-kaam nahi; entry nahi banti.
+// 4. Economic Times / ET Now / Bharat Affairs (May 2026) — Kerala Congress ke 2 cabinet berth ki maang, KC(M) merger invitation: cabinet-bargaining ki politics, vikas-kaam nahi; REJECT.
+// 5. Onmanorama 17 Mar 2026 + New Indian Express 19 Mar 2026 + Mathrubhumi 17 Mar 2026 — candidate announcement / campaign coverage: sabhi 4 May 2026 (chunav parinaam) se pehle ki khabrein hain, karyakaal-bahar; REJECT.
+// 6. The Hindu (7 Jan 2025) — party state coordinator niyukti: 2026 karyakaal se pehle, vikas-kaam nahi; REJECT.
+// Pehchan verified: Apu John Joseph, KEC (Kerala Congress-Joseph, UDF ghatak), Thodupuzha 2026 me 84,796 vote (44,291 margin) se jeete; P J Joseph ke putr; V D Satheesan sarkar me 18 May 2026 se Government Chief Whip.
+
+keralaWorks['roy-k-paulose'] = [
+  {
+    title: 'Idukki dam tourism corridor ke liye sarkar ne feasibility study ki ghoshna ki, MLA ne Vidhan Sabha me calling attention motion laya tha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Onmanorama, 13 Oct 2026',
+    sourceUrl: 'https://www.onmanorama.com/news/kerala/2026/10/13/sunny-joseph-announces-feasibility-study-idukki-dam-tourism-corridor.html',
+    date: '2026-10-13',
+    note: 'Vartaman Idukki MLA Roy K Paulose ne Kerala Vidhan Sabha me Idukki dam par tourism corridor ka calling attention motion rakha, jisme Anchuruli tunnel/vizhadom, Calvary Mount me drinking water, parking, restroom jaisi visitor amenities, daily dam public access aur Kudumbashree sthaniya rozgar jaise prastav the. Iske jawab me Electricity Minister Sunny Joseph ne sadan me ghoshna ki ki sarkar MLA ke sujhavon ko dhyan me rakhkar Idukki Dam Tourism Corridor ke liye feasibility study turant shuru karegi. Credit pardarshita: MLA ka dastavezi concrete kadam motion + vistrit prastav hai; study shuru karne ka faisla sarkar (mantri) ka hai, aur ye sirf feasibility study ki ghoshna hai, corridor project ki swikriti nahi. Disclosure: Onmanorama lekh me naam me sankshipt error hai (pehle Roshy Augustine likha gaya, turant Roy K Paulose clear kiya gaya) — Oct 2026 me Idukki ke sitting MLA Roy K Paulose hi hain, Roshy Augustine chunav haar chuke hain, isliye motion ka shrey unhi ko diya gaya hai. Fund srot: sarkari feasibility study (rajya sarkar).',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (roy-k-paulose, scope: May 2026+, Idukki AC only)
+// 1. The Hindu, 24 Sep 2026 (title deed distribution fest, Cheruthoni; construction ban township plan) — REJECT: MLA Roy K Paulose ka naam sirf Revenue Minister A.P. Anilkumar ke karyakram me "attended" list me aaya hai; koi apna kaam/prastav/bhoomika nahi — sirf maujoodgi.
+// 2. The Hindu, Aug 2026 (MLAs, MP raise demands at meet on Idukki's power-related concerns, Idukki Collectorate) — REJECT: MLA ne sarkar se sirf "urged" (Idukki aur Cheruthoni dam Onam ke baad bhi public ke liye khule rahen) — sirf maang, sarkari nirnay ya swikriti ka saboot nahi.
+// 3. The Hindu, Sep 2025 (Youth Congress march, Cheruthoni) — REJECT: karyakaal se pehle ka; virodh-pradarshan ka "inauguration" tha, vikas-kaam nahi; wahan unki DCC adhyaksh purv bhoomika me uplabdh the.
+// 4. Monsoon/flood 2026 reporting (New Indian Express, Statesman, TOI landslides Idukki) — REJECT: in khabron me MLA ki koi concrete bhoomika darj nahi; aapda-raahat waise bhi vikas-kaam nahi banta.
+// 5. Wikipedia profile, ADR affidavit, election results (The Hindu/TOI/IE/Onmanorama/Mathrubhumi May 2026) — pehchan verify ke liye use; vikas-kaam data nahi, isliye entry nahi.
+// 6. Mullaperiyar dam-safety angle — koi established reporting jisme Roy K Paulose ki apni dastavezi concrete bhoomika ho nahi mili; sirf mudda ullekh par shrey nahi diya gaya.
+// 7. Poonjar bridge story (CM Satheesan praising M.J. Sebastian, Sep 2026) — dusri seat ke neta ka kaam; scope se bahar.
+// 8. Purv MLA Roshy Augustine ke 2021-26 karyakaal ke kaam/bayaan (medical college master plan 2023, Kattappana road 2022) — galat vyakti; scope se bahar.
+
+keralaWorks['adv-cyriac-thomas'] = [];
+
+// REJECT-LOG (adv-cyriac-thomas, scope: May 2026+, Peerumade only)
+// Pehchan verified: Adv. Cyriac Thomas, INC, Peerumade seat — won 2026 by 27,634 votes (69,672 votes, 56.8%), defeated CPI's K. Salimkumar (The Hindu, 4 May 2026). Pehle 2016 aur 2021 me dono baar haare the. Note: Cyriac Thomas (MGU ke former VC, National Commission for Minority Educational Institutions) alag vyakti hain — unse confuse hone wali har khabar reject.
+// 1. The Hindu, 11 Sep 2026 — Sathram airstrip: Peerumade MLA Cyriac Thomas ne Collector aur Kottayam DFO ke saath 10 Sep 2026 ko Vandiperiyar ke paas Sathram airstrip ka inspection kiya; Forest department ne 6.5 acre forestland diversion ko "in principle" sehmati di. PARIVESH clearances, wildlife clearance aur EIA abhi pending hain — koi GO, sanction order ya actual work start nahi. REJECT: sirf nirikshan + siddhantik sehmati; sanction ka dawa nahi banta.
+// 2. The Hindu, 21 Aug 2026 — Power review meeting: MLA ne Wagamon me electricity substation ki maang uthayi ("urged authorities"). REJECT: sirf maang, koi swikriti/GO nahi.
+// 3. The Hindu, 11 Aug 2026 — State Wildlife Board / Oorunarvu interaction meeting, Bamboo Grove Thekkady: MLA sirf attendees ki list me tha. REJECT: karyakram me sirf maujoodgi.
+// 4. The Hindu, 24 Sep 2026 — Title deed distribution fest, Cheruthoni: Revenue Minister ne kaha construction ban hatane ki koshish hogi; MLA sirf maujood tha. REJECT: sirf maujoodgi + mantri ki ghoshna.
+// 5. The Hindu, ~May 2026 — Tea plantation sector crisis: MLA-elect ne kaha comprehensive package ki zaroorat hai aur sarkar jald hastakshep karegi. REJECT: "karenge" wali khabar / sirf ghoshna, koi concrete kadam nahi.
+// 6. ThePrint (PTI), ~Sep 2026 — Congress MLA ne poorv MLA ko bridge project ke inauguration par bulaya (Sebastian Kulathunkal). Ye Poonjar ki khabar hai, Peerumade/Cyriac Thomas se sambandhit nahi. REJECT: galat vyakti/kshetra.
+// 7. Sathram airstrip reconstruction (NCC, 2022 landslide damage) — 2021-22 se purana vivaad, MLA ka karyakaal May 2026 se shuru; ab tak ka post-May-2026 concrete kaam (sanction/lokarpan/shilanyas) kisi bhi established media me report nahi hua. Profile imaandari se khaali.
+
+// COORDINATOR QA NOTE (Idukki): 5/5 workers completed. 1 entry kept: roy-k-paulose (Idukki dam tourism corridor feasibility-study ghoshna — unka calling-attention motion + vistrit prastav -> mantri Sunny Joseph ka sadan me feasibility-study assurance; ghoshna-stage honestly staged; Onmanorama ka naam-bhram note me disclosed). 1 reject-log comment se Malayalam search-term ko Roman transliteration me badla (hygiene). 4 profiles imaandari se khaali (f-raja: A. Raja galat-vyakti confusion khariz; venu: maang/maujoodgi/muavza-mediation sab reject; apu: KSRTC bus khabar pre-event thi; cyriac: Sathram airstrip sirf inspection + in-principle sehmati). Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; period 2026-2031; slugs unique (no overwrites).
