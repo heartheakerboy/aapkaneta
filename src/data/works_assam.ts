@@ -608,3 +608,86 @@ assamWorks['tankeswar-rabha'] = [
 // R6: Times of India election coverage (Dudhnai result 2026) aur Wikipedia page — chunaav jaankaari, vikas-kaam nahi. REJECT.
 
 
+
+// ---- Golaghat district batch (researched 2026-10-14) ----
+
+assamWorks['ajanta-neog'] = [];
+
+// REJECT-LOG (ajanta-neog, Golaghat AC-103) — 10 candidates, all rejected
+// 1. Sentinel Assam — "Ajanta Neog inaugurates auditorium and classrooms in Golaghat" (Dandadhar Higher Secondary Girls' School; CM Assistance Fund + MLA Fund): ~Feb 2026 — pre-May-2026 karyakaal, reject.
+// 2. Sentinel Assam — "Ajanta Neog Opens ONGC CSR Buildings" (Doiyang Tea Tribe Primary School, Golaghat Nagar New Basic School, Amlapatti ME School): ~Feb/Mar 2026 — pre-May-2026, reject.
+// 3. TOI/UB Photos — "Ajanta Neog inaugurated Ray Saheb Gopika Ballav Goswami Udyan, Golaghat": 24 Feb 2026 — pre-May-2026, reject.
+// 4. Sentinel Assam — "Ajanta Neog inaugurates water supply scheme, roads in Golaghat" (Sakhi One Stop Centre, JJM water scheme, 2 PWD roads): ~Dec 2023 — pre-May-2026, reject.
+// 5. Guwahati Observer — "Ajanta Neog Reviews Golaghat Projects, Pushes for Faster Medical College Completion and Flood Control" (~late Jun 2026): DDC review meeting + officials ko nirdesh — sirf nirikshan/review, reject; CM Mahila Udyamita Scheme ke Rs 10,000 cheques 89 SHG mahilaon ko — scheme-benefit distribution, lokarpan nahi, reject.
+// 6. Pratidin Time — "Golaghat Triple Murder Case: Ajanta Neog Visits Residence of Bereaved Family" (~Aug 2026): parivaron se milna + speedy-trial ki maang — koi pariyojna nahi, reject.
+// 7. Times Now (29 Jul 2026) — flood relief Rs 16 crore flag-off — baadh-raahat explicitly reject.
+// 8. Assam Tribune/CM visit stories (Jun-Jul 2026) — CM Sarma ke Golaghat visits me maujoodgi — sirf karyakram me maujoodgi, reject.
+// 9. World Tourism Day (Dima Hasao, 28 Sep 2026) + Kokrajhar WCD review (Sep 2026) + Boko old-age home review (~Jul 2026) — mantri-bhoomika ke state-level karyakram, Golaghat seat se bahar — reject.
+// 10. Pratidin Time portfolio allocation story (Jun 2026): Neog ab WCD + Tourism mantri — political fact, works entry nahi. PROFILE: honestly EMPTY.
+
+assamWorks['mridul-kumar-dutta'] = [];
+
+// REJECT-LOG (mridul-kumar-dutta, Dergaon AC-104) — 2 candidates, all rejected
+// 1. Lachit Barphukan Police Academy, Dergaon — Phase 1 inauguration (Amit Shah, 15 Mar 2025) / SP conference (9 Oct 2025): pre-May-2026 + CM/Home Minister ke karyakram, MLA ki concrete bhoomika nahi — reject.
+// 2. ETV Bharat/TOI/ABP election-result stories (May 2026): chunav-parinaam coverage, works entry nahi — reject.
+// Dutta naya MLA hain; May 2026 ke baad unke kshetra-kaam ki koi media reporting nahi mili. PROFILE: honestly EMPTY.
+
+assamWorks['atul-bora'] = [
+  {
+    title: 'Atul Bora ne 21 June 2026 ko Bokakhat ke Golaghat West Development Block me Dusutimukh Gaon Panchayat ke naye office bhawan ka lokarpan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Today NE, 2026-06-21',
+    sourceUrl: 'https://www.indiatodayne.in/assam/story/assam-minister-atul-bora-inaugurates-reconstructed-dusutimukh-gaon-panchayat-office-in-bokakhat-1411767-2026-06-21',
+    date: '2026-06-21',
+    note: 'India Today NE ki report ke anusar 21 June 2026 ko Bora ne Bokakhat ke Golaghat West Development Block me Dusutimukh Gaon Panchayat ke punarnirmit office bhawan ka lokarpan kiya — article unhe "his home constituency, Bokakhat" ka MLA batata hai. Fund-srot: 15th Finance Commission scheme ke tahat bana bhawan (article me spasht). Stage: poorn / lokarpan. Credit-transparency: ye rajya sarkar ki grassroots-governance scheme ka punar-nirmit panchayat bhawan hai jiska Bora ne mantri/MLA ke roop me lokarpan kiya; sarkari yojna ka udghatan, unka vyaktigat nirmaan nahi.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Atul Bora ne 19 July 2026 ko Bokakhat Municipal Board ko aadhunik safai-vahanon ka beda samarpit kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Today NE, 2026-07-19',
+    sourceUrl: 'https://www.indiatodayne.in/assam/story/assam-minister-atul-bora-dedicates-modern-sanitation-vehicles-to-bokakhat-municipal-board-1426789-2026-07-19',
+    date: '2026-07-19',
+    note: 'India Today NE ki report ke anusar Bora ne 19 July 2026 ko Bokakhat Municipal Board ko kachra-uthaan/transport vahan, road sweeper, mini super sucker aur sprinkler vehicle samet modern sanitation fleet samarpit kiya — unhone khud X par jaankari di ki ye vahan sadkon ki safai aur sehatmand shahri mahaul me madad karenge. Stage: poorn / lokarpan (dedication). Fund-srot: article me fund-srot nahi bataya gaya — kharch ke rakam ka ullekh nahi, isliye imaandari se "source undisclosed" rakha gaya. Credit-transparency: Municipal Board ko mile ye sarkari/nagar-nigam safai-seva vahan Bora ne swayam samarpit kiye, media ne poorn-ghatna ke roop me report kiya.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (atul-bora, Bokakhat AC-105)
+// 1. Borpak Beel utkhanan shilanyas (Sentinel Assam, 10 Mar 2026) — pre-May-2026, reject.
+// 2. Jagannath Community & Skill Development Centre, Rongamati — lokarpan (~Oct 2025) — pre-May-2026, reject.
+// 3. CM ka Bokakhat me MMUA cheque distribution + 22 projects ka virtual udghatan (~6 Jan 2026) — pre-term + CM ka karyakram, Bora ki sirf maang/maajudgi, reject.
+// 4. Bridges ke shilanyas ki pre-announcement (~Jan 2026, Sentinel) — pre-event + pre-term + CM ka karyakram, reject.
+// 5. "Highlights development" article me hospital-stadium-pet hospital ke dawe (~Jan 2026) — sirf yojna/dawe ("will be", "planned"), pre-term, reject.
+// 6. Shaheed Beja Baishnav Hospital / Shaheed Kamala Miri Civil Hospital "renovate aur upgrade ki ghoshna" (May 2026 felicitation) — "karenge" khabar, koi lokarpan/shilanyas/swikriti nahi, reject.
+// 7. Zubeen Garg statue anaavaran, Bokakhat (1 Oct 2026, Sentinel) — statue MLA Development Fund se bani par anaavaran Garima Saikia Garg ne kiya, sarkari pariyojna nahi — sirf ceremonial anaavaran, reject.
+// 8. Birangana Sati Sadhani Kalakshetra site par Bora ka daura — sirf nirikshan/daura, reject.
+// 9. Land patta distribution tea workers ko (14-15 Mar 2026, wordpress blog) — pre-term + blogspot-type srot, reject.
+// 10. Drone Technology Demonstration ka udghatan — krishi-vibhag ka pradarshan-karyakram, purana (2022-23), reject.
+// 11. 1,412 meritorious students ka samman samaroh (18 Jul 2026, India Today NE) — ceremonial samman, reject.
+// 12. Bakuli Chapori bamboo bridge khabar (Oct 2026, Sentinel) — adhoore aashwasan ki shikayat, koi aarop/FIR/jaanch nahi — negative ke layak nahi, reject.
+// 13. KMSS ki police complaint — pashuon ko "avaydh" teeka lagane ka aarop (PTI, Jul 2024) — pre-term + FIR nahi hui, reject.
+// 14. TOI liveblog — "Bora carries one criminal case on record" (2026 affidavit ullekh) — bina case-detail ke negative entry nahi; coordinator note: affidavit me declared case, detail report mile to alag se verify karna.
+// Mantri-niyam lagaaya: Kaziranga/paryatan/van-vibhag ki pariyojnaayein, CM ke Bokakhat karyakram, aur party-sammelan Bora ke naam par nahi jode.
+
+assamWorks['mrinal-saikia'] = [];
+
+// REJECT-LOG (mrinal-saikia, Khumtai AC-106)
+// 1. Sentinel — "MLA Mrinal Saikia inaugurated key rural roads in Khumtai constituency" (10 gram sadkon ka lokarpan, 22 Feb 2026) — pre-May-2026, reject.
+// 2. Asomiya Pratidin — Dakshin Morongi Samabai Samiti swarn jayanti: smarika udvhatan + shobhayatra — sirf ceremonial anaavaran, reject.
+// 3. ANI/Lokmat Times — 7-MLA team to Himachal for monkey-menace study (14 Sep 2026): vidhayi/adhyayan karya, kshetra-kaam nahi, reject.
+// 4. ETV Bharat — shaheed Sarat Gogoi ki avaksh moorti anaavaran (May 2025) — pre-term + ceremonial, reject.
+// 5. Sentinel — "Chorai Bandhab Samman-2026" (Feb 2026) — samman/prashasti, pre-term, reject.
+// 6. Lokmat Times/WebIndia123 — "Green Khumtai" vriksharopan pratiyogita — vyaktigat community pahal, sarkari yojna nahi, reject.
+// NEGATIVE REJECTS (pre-May-2026 sab): Veer Lachit Sena ka FIR (Sarbhog, ~2024) + AAKRS ka FIR (Golakganj, Jun 2024) + Dec 2019 provocative speech par 3 FIRs + 2019 CAB virodhiyon par hamle ka aarop — sab pre-term, reject; NEEPCO ke viruddh 2018 ka FIR: ve shikayat-karta the, aaropit nahi. PROFILE: honestly EMPTY.
+
+assamWorks['biswajit-phukan'] = [];
+
+// REJECT-LOG (biswajit-phukan, Sarupathar AC-107)
+// 1. Pratidin Time — "Golaghat: CM Himanta Biswa Sarma Flags Off Key Projects in Sarupathar" (~Aug 2026): Lovlina Borgohain Sports Project, Barpathar HS School building, children park, Barpathar-Duwarani road ka udghatan + Assam Mala road (Phase I) ka shilanyas — CM ne kiya, Phukan sirf "attended" list me — sirf maujoodgi, reject.
+// 2. Naga Republic/Morung Express — "Two Assam-Nagaland MLAs for joint peace coordination committee in DAB" (20 Sep 2026): prastavit committee, border summit, "express road", 5 lakh bamboo saplings — sab "plans are afoot", koi kaam ka stage nahi — reject.
+// 3. Northeast News/NE Now — "MLA Biswajit Phukan seeks drought-hit status for Sarupathar constituency" (Jul 2026) — sookhe ki maang, sirf maang/prastav, reject.
+// 4. Prag News — "Death threats issued to BJP MLA Biswajit Phukan" (9 Apr 2026): Phukan peedit hain (unhone khud FIR kiya), aaropit nahi; pre-election, reject.
+// NEGATIVE REJECTS: CrossCurrent — "Apex Bank Scam: Chairman Biswajit Phukan attempts to use senior journalists to cover up corruption" (2025-03-31, updated 2026-06-19): aarop 2023 ke transactions se, article me koi FIR/case/adalaati/adhikarik jaanch ki sthiti nahi — negative bar poora nahi, reject; Pratidin Time 2021 — ex-accountant parivaar ki DGP shikayat (Aug 2021) — pre-term, reject; Northeast Now Feb 2025 — patni ki college principal niyukti me prabhav ka aarop — pre-term, reject; Northeast Scoop Jan 2026 — BJP karyakarta Jiban Chutia ka harassment aarop — pre-term, reject. PROFILE: honestly EMPTY.
