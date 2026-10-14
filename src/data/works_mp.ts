@@ -4396,3 +4396,215 @@ mpWorks['veersingh-bhuriya'] = [
 // - FPJ (Sep 2025): CM Mohan Yadav ka Jhabua me Rs 345 crore ka karyakram (Petlawad blast shraddhanjali + CM ghoshnaen) — wo sirf maujood thi; CM ki pariyojnaen, unki concrete bhoomika nahi, reject.
 // - mahikigunj e-paper: poorv-chunav vishleshan (~2023) — chunav coverage, kaam nahi, reject.
 // NOTED: Nirmala Bhuria Mahila evam Bal Vikas vibhag ki cabinet mantri hain — unki entries sirf Petlawad Vidhan Sabha kshetra-specific karyon par hain; article me unki bhoomika (prayas/bhoomi-pujan/lokarpan) dastavezi hai.
+
+// ---- Katni district batch (researched 2026-10-14) ----
+// ---- Dhirendra Bahadur Singh (Dhiru) — Barwara ST (AC-91), BJP, Katni district ----
+mpWorks['dhirendra-bahadur-singh-dhiru'] = [
+  {
+    title: 'Paharua gram panchayat me nava-nirmit up-swasthya kendra ka MLA Dhiru ne kiya lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Kalyug Ki Kalam, 9 Oct 2026',
+    sourceUrl: 'https://kalyugkikalam.com/new-gift-to-health-facilities-in-paharua-mla-dhirendra-bahadur-singh-inaugurated-the-newly-constructed-sub-health-center/',
+    date: '2026-10-09',
+    note: 'Dhimarkheda janpad panchayat ke gram panchayat Paharua me nava-nirmit up-swasthya kendra ka bhawan taiyar hone par vidhayak Dhirendra Bahadur Singh ne karyakram me shamil hokar lokarpan kiya; sarpanch Sharda Prasad Mahobia, Ajay Gupta sahit vibhagiya adhikari maujud the. Stage: lokarpan (purnata). Credit-transparency: article me kis nidhi se bhawan bana iska ullekh nahi hai — sirf MLA dwara lokarpan documented hai. Disclosure: source chhota local portal hai (Kalayug Ki Kalam, Dhimarkheda edition).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Simaria panchayat bhawan (Rs 20 lakh) ka sansad Himadri Singh ke saath MLA Dhiru ne kiya bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Kalyug Ki Kalam, 5 Oct 2026',
+    sourceUrl: 'https://kalyugkikalam.com/panchayat-building-will-be-built-in-simaria-at-a-cost-of-rs-20-lakh-mp-himadri-singh-and-mla-dhirendra-singh-performed-the-panchayat-under-the-bhoomi-pujan-seva-setu-campaign/',
+    date: '2026-10-05',
+    note: 'Dhimarkheda janpad ki gram panchayat Simaria me Rs 20 lakh ki lagat se banne wale panchayat bhawan ka Shahdol sansad Himadri Singh aur Barwara vidhayak Dhirendra Bahadur Singh ne Seva Setu abhiyan ke tahat vidhivat bhoomi-pujan kiya; panchayat parisar me vriksharopan bhi hua. Stage: bhoomi-pujan (nirman shuru). Credit-transparency: rashi SANSAD nidhi (MPLADS) se swikrit hai, vidhayak-nidhi nahi — MLA ki concrete bhoomika sansad ke saath bhoomi-pujan me upasthiti hai, fund ka shrey sansad nidhi ka hai. Disclosure: source chhota local portal hai (Kalayug Ki Kalam, Dhimarkheda edition).',
+    period: '2023-2028',
+  },
+];
+
+// ---- Sanjay Satyendra Pathak — Vijayraghavgarh (AC-92), BJP, Katni district ----
+// Note: sirf Dec 2023+ ka MLA-karya; poorv mantri-karyakaal (2016-2018) aur usse pehle ke kaam poori tarah baahar.
+mpWorks['sanjay-satyendra-pathak'] = [
+  {
+    title: 'Rs 17.5 crore ke vikas karyon ka MLA Sanjay Pathak ne kiya bhoomi-pujan (Vijayraghavgarh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yashbharat, 29 Feb 2024',
+    sourceUrl: 'https://www.yashbharat.com/bhoomipujan-of-development-works-worth-rs-17-crore-56-lakhs-done-in-vijayraghavgarh-assembly/',
+    date: '2024-02-29',
+    note: 'Vikasit Bharat Vikasit Madhya Pradesh karyakram ke dauran vidhan sabha kshetra ke lagbhag Rs 17.5 crore ke karyon ka bhoomi-pujan vidhayak ne kiya: 97 naveen krishi transformer (Rs 6.31 crore), 43 samudayik/mangal bhawan (Rs 11.2 crore), CC road aur saundaryikaran karya. Stage: bhoomi-pujan; kuch karyon ka virtual shilanyas PM Narendra Modi ne kiya. Credit-transparency: ye kendra-rajya pariyojnaon ka samoohik karyakram tha — MLA ki concrete bhoomika sthaniya bhoomi-pujan hai; unka dawa hai ki karyakaal ke pehle do mahine me unhone 97 krishi transformer swikrit karaye (swayam-dawa, full disclosure).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kaimor me water fountain saundaryikaran ka lokarpan aur 15 wardon me Rs 2 crore sadak karyon ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'RPKP India News, 14 Jul 2024',
+    sourceUrl: 'https://rpkpindianews.com/archives/36718',
+    date: '2024-07-13',
+    note: 'Kaimor nagar me rashtriya dhwaj stambh kshetra ke park me high-strength water fountain sahit anya sanrachnaon ke saundaryikaran karyon ka lokarpan aur Kaimor nagar ke 15 wardon me sadkon ke damarikaran va CC road paver block ke lagbhag Rs 2 crore ke nirman karyon ka bhoomi-pujan vidhayak Sanjay Satyendra Pathak ne 13 Jul 2024 ko kiya; nagar parishad adhyaksh Manisha Ajay Sharma sahit janpratinidhi maujud the (post-event report). Stage: lokarpan (saundaryikaran) + bhoomi-pujan (sadak karya). Disclosure: source chhota local portal hai (RPKP India News).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak-nidhi se 8 gram panchayaton ko 8 paani tanker vitrit',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Lokvaad, 5 Apr 2025',
+    sourceUrl: 'https://lokvaad.com/archives/696',
+    date: '2025-04-05',
+    note: 'Garmi se pehle vidhayak Sanjay Pathak ne apni vidhayak-nidhi (MLA fund, sansad-nidhi nahi) se 8 water tanker 8 gram panchayaton — Badari, Mehangaon, Amehta, Kalhara, Kuthiya Mahgawan, Baran Mahgawan, Itaura, Hadarhata — ke sarpanchon ko saupe; peyjal aapoorti ke saath dharmik/samajik karyakramon aur aagjani me bachav kary me upyog honge. Stage: vitran/purnata (tanker vastav me saunpe gaye, sirf ghoshna nahi). Disclosure: source chhota local portal hai (Lokvaad).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Janpad panchayat Vijayraghavgarh me video-conference hall ka lokarpan, baithak kaksh ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yashbharat, 27 Jan 2026',
+    sourceUrl: 'https://www.yashbharat.com/mla-sanjay-pathak-inaugurated-bhoomi-pujan-for-public-facilities-at-vijayraghavgarh-district-office/',
+    date: '2026-01-27',
+    note: 'Gantantra Diwas (26 Jan 2026) par janpad panchayat karyalaya me vidhayak ne video-conference hall ka lokarpan tatha baithak kaksh ka bhoomi-pujan, boundary wall-sah-dukanon aur mahila-purush shauchalay sahit kiya. Rs 25 lakh ke meeting hall ko bada banane ke liye vidhayak-nidhi (MLA fund, sansad-nidhi nahi) se Rs 15 lakh aur furniture ka paisa alag se dene ki ghoshna ki — ye unka commitment hai, sanction proof report me nahi. Stage: lokarpan (VC hall) + bhoomi-pujan (hall); Rs 15 lakh ka hissa ghoshna star par. Disclosure: karyakalap ki fund-sanction ya work-order report me documented nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Anupurak budget me Rs 40 crore ke do pul (Katni nadi, Mahanadi) va sampark sadken — bajatiya swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Yashbharat, 23 Jul 2026',
+    sourceUrl: 'https://www.yashbharat.com/in-the-supplementary-budget-vijayraghavgarh-assembly-got-the-gift-of-two-bridges-worth-rs-40-crores-after-the-efforts-of-mla-sanjay-pathak/',
+    date: '2026-07-23',
+    note: 'MP vidhan sabha ke mansoon satra me anupurak budget me Vijayraghavgarh ko lagbhag Rs 40 crore ki bajatiya swikriti mili: Katni nadi par gram Ghunsur–Mohas uchch-stariya pul + 3 km sadak (Bhenswahi/Ghunsur ko Kanti kshetra se jodega) aur Mahanadi par gram Bakeli–Gudeha/Pipra pul + 8.5 km sadak. Stage: swikriti (bajatiya swikriti — tareekh+rakam ke saath pakki media report; abhi bhoomi-pujan nahi). Credit-transparency: CM Mohan Yadav dwara swikrit rajya-bajat nirnay; MLA ki dastavezi pahal — May 2026 me CM se bhet karke patra se prastav (article me documented), jiska seedha parinam swikriti me dikha. Note: isi khabar ka madhyapradeshsamacharchannel wala URL dead (404) tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MP High Court me aapradhik avmanana karyavahi: Pathak ki bina-shart maafi swikar, kadak chetavani',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India TV Hindi, 22 Jul 2026',
+    sourceUrl: 'https://www.indiatv.in/madhya-pradesh/bjp-mla-sanjay-pathak-gets-relief-from-high-court-regarding-matter-of-calling-judge-gives-warning-apology-accepted-2026-07-22-1232807',
+    date: '2026-07-22',
+    note: 'Negative entry: Katni ke Ashutosh Dixit ki yachika (Pathak se sambandhit company ke khilaf lagbhag Rs 1200 crore ke avaidh utkhanan recovery ka aarop — disclosure: khanan ka aarop COMPANY par hai, Pathak khud us mamle me pakshkar nahi, isliye khanan ghotala Pathak par attribute nahi) ki sunvai me 1 Sep 2025 ko Pathak ne nyayamurti Vishal Mishra ko call/message karne ka prayas kiya; judge ne khud ko sunvai se alag kiya aur High Court ne swatah-sangyan aapradhik avmanana karyavahi (Contempt Petition Criminal No. 5/2026) chalai. Pathak ne vyaktigat roop se upasthit hokar bina-shart maafi mangi (dawa: galti se dial, shishtachar sandesh matra, badha ka irada nahi). High Court ne Contempt Act dhara 13 ke tahat maafi swikar ki aur bhavishya me dohrane par kadak chetavani di. Stage: adhikarik karwai poorn (nirnay 22 Jul 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: '1135 ekad adivasi zameen kharid me fariwade ka aarop: adivasi sangathanon ka Katni Collectorate par pradarshan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika, 19 Nov 2025',
+    sourceUrl: 'https://www.patrika.com/katni-news/strong-protest-against-mla-sanjay-pathak-in-katni-20113543',
+    date: '2025-11-19',
+    note: 'Negative entry: aarop hai ki Pathak ne apne chaar adivasi karmchariyon (Natthu Kol, Prahlad Kol, Rakesh Singh Gaud, Raghuraj Singh Gaud) ko mohra banakar Dindori, Jabalpur, Umaria, Katni aur Seoni me lagbhag 1135 ekad Baiga adivasi zameen farzi tareeke se kharidi; shikayat SP ko 9 Jun 2025 aur Collector ko 29 Sep 2025 ko di gayi; Youth Congress, GGP sahit adivasi sangathanon ne 19 Nov 2025 ko Katni Collectorate ka gherav kiya. Adhikarik karwai ki sthiti: police janch shuru (ASP ne shikayatkarta ke bayan darj kiye — chhote local portal rashtrarakshak ki report, disclosure), Rashtriya Adivasi Ayog ne 15 Sep ko 5 jilon ke collectorn se jawab manga (Bhaskar English; Dindori collector ke anusar SDM ke paryavekshan me janch). Abhi FIR ya chargesheet ki khabar nahi; Pathak ka jawab reporting me uplabdh nahi mila. Aarop seedha Pathak par hai (parivar/company nahi).',
+    period: '2023-2028',
+  },
+];
+
+/*
+REJECT-LOG (Katni batch 1 — har lead jo article kholkar check hui, pass nahi hui):
+1. [Dhiru] News18 Hindi (8 Aug 2026) — ITI Dhimarkheda ko lekar vidhayak ki samarthakon se bahas: sirf vivad/virodh ki khabar, koi lokarpan/swikriti/ghoshna nahi — entry-worthy kaam nahi.
+2. [Dhiru] Janlok Times — ITI Dhimarkheda (Umariyapan) ka aukaat nirikshan: sirf nirikshan/daura — REJECT.
+3. [Dhiru] Kalyug Ki Kalam — Dhimarkheda me 'Sarkar Aapke Dwar' shivir me upasthiti/jaiza: sirf karyakram me maujoodgi, koi concrete kaam nahi — REJECT.
+4. [Dhiru] YouTube (India Ahead) — 'Thakur Dhirendra Singh' Noida/UP ka vidhayak: galat vyakti + YouTube-only source — REJECT.
+5. [Dhiru] ABP/Oneindia/NDTV/Business Standard election profiles: keval chunaavi data, koi karya nahi — REJECT.
+6. [Pathak] Trilok News — Vijayraghavgarh me pravesh dwar, 100-ft tiranga, water cooler ka lokarpan: page open hi nahi hua (fetch fail), snippet-only — unverifiable — REJECT.
+7. [Pathak] Yashbharat pre-event (Kaimor, 13 Jul 2024) — 'karenge' wali future announcement; post-event report RPKP se entry li — REJECT (duplicate/future).
+8. [Pathak] Yashbharat (11 Mar 2026) — MP cabinet ne Kaimor ESIC aushadhalaya swikrit: CM ka rajya nirnay, MLA ki concrete bhoomika nahi (sirf aabhar vyakt) — REJECT.
+9. [Pathak] Wikipedia/Sarasjanvaad — Harihar Teerth Dham bhoomi-pujan Jun 2023: karyakaal (Dec 2023) se pehle — REJECT.
+10. [Pathak] The Tribune — Aadhaar card tampering: Pathak khud shikayatkarta (victim), un par koi aarop nahi, kshetra-kaam nahi — REJECT.
+11. [Pathak] CNBC TV18 / Oneindia contempt stories: India TV Hindi wala canonical article li gayi — REJECT (duplicate coverage).
+12. [Pathak] madhyapradeshsamacharchannel (40 crore pul): URL dead (404), snippet-only; wahi khabar Yashbharat se verify karke entry li — REJECT (dead source).
+*/
+
+// ---- Sandeep Shriprasad Jaiswal — Murwara (AC-93), BJP, Katni district ----
+mpWorks['sandeep-shriprasad-jaiswal'] = [
+  {
+    title: 'Vidhayak Sandeep Jaiswal ne Kanhwara-Dithwara bypass ka lokarpan kiya, ek schooli bachchi ne kaata feeta',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nidar Awaaz, Jun 2026 (est.)',
+    sourceUrl: 'https://nidarawaj.live/2026/06/bchchee-ke-hathon-huaa-knhvara-baypas-ka-lokarpan-vidhayk-sandeep-jaysval-ne-diya-naree-shkti-ka-sandesh/',
+    date: '2026-06-16',
+    note: 'Gram Kanhwara (Katni rural mandal, Murwara AC) me vidhayak ne bahupratikshit Kanhwara-Dithwara bypass sadak ka lokarpan karke janta ko samarpit kiya; parampra todkar ek schooli bachchi se feeta katwaya. Stage: lokarpan (work complete). Credit-transparency: sadak PWD/shasan mad se bani (yehi bypass unke Dec 2024 ke anupoorak-budget swikriti dawon ki suchi me bhi tha, ab ground par lokarpan ho gaya). Source chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pahadi Nivar govt high school me naye paver block ka bhoomi-pujan, vidhayak ne rakhi adhaarshila',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'MP Samachar Channel, 3 Oct 2026',
+    sourceUrl: 'https://www.madhyapradeshsamacharchannel.com/2026/10/blog-post_566.html',
+    date: '2026-10-03',
+    note: 'Shaskiya High School Pahadi Nivar me navin paver-block nirman kaary ka vidhivat bhoomi-pujan; vidhayak Sandeep Jaiswal ne chhatraon se pooja karakar adhaarshila rakhi; janpad CEO, sarpanch aur shikshak upasthit. Stage: bhoomi-pujan (work start). Lagat article me nahi di gayi. Source chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Supplementary budget me Murwara ke liye 16 yojnaon (lagbhag Rs 700-800 crore) ki swikriti ka dawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'MP Samachar Channel, Dec 2024 (est.)',
+    sourceUrl: 'https://www.madhyapradeshsamacharchannel.com/2024/12/800.html',
+    date: '2024-12-01',
+    note: 'Patrakar-varta me vidhayak ka dawa: MP shasan ke varsh 2024-25 anupoorak budget me Murwara AC ki 16 yojnaon ko swikriti mili — Mangal Nagar-Jharra Tikuriya aur Gayatri Nagar-Civil Line ROB, Takhla fatak aur Amirgany Padarwara fatak par ROB, ring road, Kanhwara bypass, Katayeghat-Kailwara Khurd pul-sadak sahit sadak-chaudikaran. Stage: swikriti (claimed). Full disclosure: ye vidhayak ke swayam ke press-conference ka dawa hai; article me alag-alag swikriti aadesh/GO number nahi diye gaye, isliye badge dawa rakha gaya hai. Source chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Pranay Prabhat Pandey (Guddu Bhaiya) — Bahoriband (AC-94), BJP, Katni district ----
+mpWorks['pranay-prabhat-pandey-guddu-bhaiya'] = [
+  {
+    title: 'Rampatan se Hathiyagarh tak Rs 5.72 crore ki 3.73 km sadak ka kaam shuru, 40 gaon ko 20 km ka chakkar khatm',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Naidunia, 24 Aug 2026',
+    sourceUrl: 'https://www.naidunia.com/madhya-pradesh/katni-a-road-is-being-carved-through-the-mountain-in-katnis-bahoriband-the-journey-will-be-shortened-by-20-km-8459333',
+    date: '2026-08-24',
+    note: 'Bahoriband AC ke dashakon purane pratikshit marg par vidhayak Pranay Pandey ki pahal par PWD ne Rs 5.72 crore ki lagat se 3.73 km sadak ko swikriti dekar kaam shuru karaya; Kaimur pahad ki 25 m unchi chattan katkar 22 m chaudai me rasta banaya ja raha hai; lagbhag 40 gaon ki 50,000+ abadi ko labh, 20 km ka lamba chakkar bachega. Stage: swikriti + kaam shuru (construction in progress). Credit-transparency: shasan ka PWD kaam hai; vidhayak ki concrete bhoomika (CM aur vibhagiya mantriyon ko prastav bhejna) article me spasht hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Badkheda Neem me Rs 25 lakh ke samudayik bhavan aur Rs 3 lakh ke rangmanch ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yashbharat.com, 15 Jan 2026',
+    sourceUrl: 'https://www.yashbharat.com/mla-pranay-pandey-performed-bhoomi-pujan-and-inaugurated-the-foundation-stone-of-development-works-in-badkheda-neem/',
+    date: '2026-01-15',
+    note: 'Gram panchayat Badkheda Neem (Bahoriband vikas-khand) me vidhayak ne mukhya atithi ke roop me state-level se prapt stamp-shulk mad se Rs 25 lakh lagat ke samudayik bhavan aur Rs 3 lakh lagat ke rangmanch ka vidhivat bhoomi-pujan kiya; sarparch, janpad sadasya aur BJP padadhikari upasthit. Stage: bhoomi-pujan (work start). Source chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Badkheda Neem me Hanuman mandir ke paas Rs 2.5 lakh ke navnirmit rangmanch ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yashbharat.com, 15 Jan 2026',
+    sourceUrl: 'https://www.yashbharat.com/mla-pranay-pandey-performed-bhoomi-pujan-and-inaugurated-the-foundation-stone-of-development-works-in-badkheda-neem/',
+    date: '2026-01-15',
+    note: 'Ussi karyakram me vidhayak ne Hanuman mandir ke sameep Rs 2.50 lakh ki lagat se bane navnirmit rangmanch ka lokarpan kiya. Stage: lokarpan (work complete). Source chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rs 2.72 crore ke swasthya karyon ka bhoomi-pujan — 2 up-swasthya kendra aur 3 Ayush aushadhalay',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'India Pol Khol, Aug 2024 (est.)',
+    sourceUrl: 'https://indiapolkhol.in/mla-pranay-pandey-performed-bhoomi-pujan-of-development-works-worth-rs-2-crore-72-lakh/',
+    date: '2024-08-09',
+    note: 'Vidhayak ne Imaliya aur Kooda gaon me 65-65 lakh ke do up-swasthya kendra (doctor clinic, labour room, 2-bed ward, ANM niwas sahit) aur Kooda, Kaudiya, Bilhari me 47.58-47.58 lakh ke teen Ayush aushadhalay bhavanon ka bhoomi-pujan kiya; BMO aur swasthya vibhag ke adhikari upasthit. Stage: bhoomi-pujan (work start). Source chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG (Katni batch2: Murwara + Bahoriband) ----
+// SANDEEP JAISWAL (Murwara):
+// 1. rpkpindianews vikas-yatra (30 lakh ke lokarpan/bhoomi-pujan) — REJECT: article 8 Feb 2023 ka, karyakaal (Dec 2023) se pehle.
+// 2. Tilak College 50-seater kanya chhatravas lokarpan (Rs 1.2 cr, mpnewscast) — REJECT: ~Aug 2023 (CM Shivraj era), pre-term.
+// 3. Kuthla high school bhavan ka bhoomi-pujan (Patrika, Jan 2026) — REJECT: bhoomi-pujan CM Mohan Yadav ne kiya; vidhayak ki concrete bhoomika nahi.
+// 4. Vidhan Sabha me PWD budget par bhashan / maang (YouTube) — REJECT: YouTube-only source + sirf maang/prastav, kaam nahi.
+// 5. Ghantaghar-Jagannath Chowk sadak sawal (news24you) — REJECT: sirf sawal/maang, swikriti/work-order proof nahi.
+// 6. Prabal Srishti blogspot (800-cr press conference ka dup) — REJECT: blogspot-only, swikriti ke liye; wahi dawa chhote local portal se liya gaya.
+// 7. mp samachar 2026/07 article (Sanjay Pathak, Vijayraghavgarh) — REJECT: doosre MLA ki AC.
+// PRANAY PANDEY (Bahoriband):
+// 8. mpnewscast 194.93 lakh prashasnik swikriti (26 July) — REJECT: ~July 2023, pre-term (karyakaal se pehle).
+// 9. Bhuta talab tourism nirikshan (India Pol Khol, ~Jul 2025) — REJECT: sirf nirikshan + collector ko maang-patra; swikriti/lokarpan nahi.
+// 10. graminkhabarmp profile puff-piece (Dec 2024) — REJECT: samanya prashansa, koi concrete kaam/stage nahi.
+// 11. thesootr (Sihora ke works par vidhan sabha sawal) — REJECT: doosri AC (Sihora) ka mudda, apna kaam nahi.
+// 12. News18 bus-driving viral video — REJECT: irrelevant (kaam se sambandh nahi).
+// 13. newsonair: CM dwara Bahoriband lift micro-irrigation project (May 2024, Rs 1011 cr) — REJECT: CM ki rajya-pariyojna; vidhayak ki concrete bhoomika article me nahi.
+// 14. Business Standard/ABP candidate profiles — REJECT: election data, works nahi.
