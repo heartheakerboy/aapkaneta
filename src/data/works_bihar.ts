@@ -342,3 +342,119 @@ biharWorks['sanjay-kumar-bihar'] = [
 // REJECT-LOG (sanjay-kumar-bihar): livehindustan 20 Nov 2025 (Bakhri se LJP-R ke pehli-baar vidhayak Sanjay Kumar mantri bane) — sirf mantri-ban-ne ki khabar, reject; livehindustan 24 Nov 2025 (Bakhri me swagat-sammaan samaroh, "beta bankar vikas karunga") — sirf sammaan + "karenge" vaade, reject; public.app Sep 2026 (Baba Garibnath mandir Ganesh mela udghatan) — public.app-only + mela udghatan vikas-kaam nahi, reject; public.app Feb 2026 (Bakhri anumandal aspataal shilanyas 22 Feb ko swasthya mantri karenge; Sanjay ne aabhaar jataya) — pre-event schedule + public.app-only + sirf aabhaar, reject; YouTube The Begusarai interview (25 chini mill khulne ka dawa) — YouTube-only + ghoshna, reject; deshajtimes/insiderlive Sep 2026 (Patna BAMETI me ganna kisan sangoshthi ka udghatan mantri ke roop me) — vibhagiya karyakram me sirf maujoodgi, kshetra ka vikas-kaam nahi, reject; galat-vyakti: Saharsa ke Simri Bakhtiyarpur vidhayak "Sanjay Kumar Singh" (dahi-chura bhoj, kalyan shivir) — alag jila/vyakti, reject; koi qualifying negative reporting nahi mili.
 
 // Coordinator QA note: fragments verified (0 Devanagari, 0 ₹, 0 literal \n, 0 scaffolding comments in entries); Sanjay Kumar ki teeno entries ek hi Prabhat Khabar itemized report se (tithi metadata-verified); dono vipaksh MLA (Bogo Singh, Sambuddha) ke purane shilanyas pre-term par reject; Abhishek Anand ki maa-pita Arms Act saja parivar-niyam par reject; 7/7 slugs pehle khaali the — koi overwrite nahi.
+// ---- Bhagalpur district batch (researched 2026-10-14) ----
+biharWorks['kumar-shailendra'] = [
+  {
+    title: 'Bihpur prakhand ke Hariyo me Kosi tatbandh par Satishnagar-Jayrampur se Hariyo Kosi Trimuhan NH106 tak kul paanch kilometre sadak ka shilanyas 28 December 2025 ko swayam kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar, 28 Dec 2025',
+    sourceUrl: 'https://www.hindusthansamachar.in//Encyc/2025/12/28/PLANS-0PENING-MLA-imigration-.php',
+    date: '2025-12-28',
+    note: 'Stage: shilanyas — Bihpur prakhand ke Hariyo ke paas Kosi tatbandh par paanch kilometre lambi sadak ka shilanyas vidhayak ne swayam kiya; isse Satishnagar se Bihpur tak NH31 ka ek prakar ka bypass bhi banega. Fund-srot: Mukhyamantri Gram Sadak Yojana mad, praakkalit rashi Rs 4,52,00,320 — sanction pehle se hui vibhagiya yojana ki thi, shilanyas vidhayak dwara. Credit disclosure: established wire service Hindusthan Samachar ki post-event reporting; entry unke Path Nirman Mantri banne (May 2026) se pehle ki hai, jab ve sirf MLA the.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Hariyo panchayat ke ward number 6 va 8 ke madhya lagbhag Rs 15 lakh ki lagat se bane samudayik bhawan ka lokarpan 28 December 2025 ko swayam kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar, 28 Dec 2025',
+    sourceUrl: 'https://www.hindusthansamachar.in//Encyc/2025/12/28/PLANS-0PENING-MLA-imigration-.php',
+    date: '2025-12-28',
+    note: 'Stage: lokarpan — Hariyo panchayat me ward 6 aur 8 ke beech bane samudayik bhawan ka udghatan vidhayak ne swayam kiya; lagat lagbhag Rs 15 lakh. Fund-srot: article me nirdisht nahi. Credit disclosure: wahi post-event report se; udghatan vidhayak dwara, nirman-fund ka srot reporting me nahi bataya gaya.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bihpur thana ke jarjar bhawan ke punarnirmaan ke liye vidhan sabha me mudda uthane par Grih Vibhag se Rs 8,57,75,300 ki prashasnik swikriti 7 February 2026 ko mili.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 10 Feb 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bhagalpur/story-bihpur-police-station-renovation-government-allocates-8-57-crores-for-infrastructure-201770665336158.html',
+    date: '2026-02-10',
+    note: 'Stage: swikriti — Bihar Vidhan Sabha ke dwitiya satra me vidhayak ne Bihpur thana ke jarjar bhawan ka mudda uthaya, jiske baad Grih Vibhag ke Sanyukt Sachiv ne 7 February 2026 ko jaankari di ki FY 2025-26 me thana bhawan, furniture va anya aadharbhut sanrachna ke liye Rs 8,57,75,300 ki prashasnik swikriti di gayi hai; nirmaan December 2027 tak poora karne ka lakshya hai. Fund-srot: sarkari (Grih Vibhag), vidhayak-nidhi nahi. Credit disclosure: swikriti sarkar ki hai, vidhayak ki bhoomika mudda uthane tak; established media ki tareekh-rakam report par adharit.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bihpur kshetra ki Lattipur Uttar panchayat me lagbhag Rs 3 crore ki lagat se bane Panchayat Sarkar Bhawan ka udghatan 27 September 2026 ko swayam kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'MyBhagalpur, 27 Sep 2026',
+    sourceUrl: 'https://mybhagalpur.com/bihar-minister-inaugurates-panchayat-sarkar-bhavan-1f41a7f89f4c/',
+    date: '2026-09-27',
+    note: 'Stage: lokarpan — Lattipur Uttar panchayat me bane Panchayat Sarkar Bhawan ka udghatan vidhayak ne swayam kiya. Fund-srot: article me nirdisht nahi. Credit disclosure: srot chhota sthaniya portal MyBhagalpur hai, established national media nahi; udghatan unhone apne vidhayak kshetra ke andar swayam kiya.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (kumar-shailendra): gs-news.in 26 Sep 2025 (Rs 25 crore ki 27 yojnaon ka udghatan-shilanyas) — purana karyakaal, reject; naugachia.com ~2021 (Rs 2.75 crore ki 9 sadakon ka shilanyas-lokarpan) — purana karyakaal, reject; gs-news.in Apr 2026 (Pandit Deendayal prashikshan mahabhiyan) — party karyakram, koi work asset nahi, reject; gs-news.in Apr 2026 (BJP 47vaan sthapna divas) — party karyakram, reject; akhandindia.com 9 Oct 2026 (NDA workshop) — party chunav baithak, reject; livehindustan 28 Jan 2026 (mantri ka abhinandan) — sirf vikas ke vaade, reject; hindusthansamachar.in 11 Jan 2026 (VB-G-RAM-G press conference) — party presser, reject; hindusthansamachar.in 1 Jan 2026 (janta darbar) — sirf maang-sunvai, "karenge" vaada, reject; livehindustan 11 Jan 2026 (Somnath temple tippani) — works se asambandhit, reject; livehindustan 13 Jun 2026 (mantri daure ka schedule) — pre-event announcement, reject; koi qualifying negative reporting nahi mili (criminal cases 0).
+
+biharWorks['shailesh-kumar-alias-bulo-mandal'] = [
+  {
+    title: 'Gopalpur ke Dimaha panchayat me nava-nirmit Panchayat Sarkar Bhawan ka lokarpan 77ve Ganatantra Diwas ke avsar par adhikariyon ke saath sanyukt roop se feeta kaatkar kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Naugachia News, 27 Jan 2026',
+    sourceUrl: 'https://www.naugachia.com/%E0%A4%A8%E0%A4%B5%E0%A4%97%E0%A4%9B%E0%A4%BF%E0%A4%AF%E0%A4%BE-77%E0%A4%B5%E0%A5%87%E0%A4%82-%E0%A4%97%E0%A4%A3%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0-%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%B8/',
+    date: '2026-01-27',
+    note: 'Stage: lokarpan — nava-nirmit Panchayat Sarkar Bhawan ka udghatan vidhayak ne BDO Nishant Kumar, CO Roshan Kumar aur PR Officer Satish Kumar Tiwari ke saath sanyukt roop se feeta kaatkar kiya. Fund-srot: sarkari panchayati-raj yojana se nirmaan; article me vidhayak-nidhi ya swikriti-srot ka zikr nahi, isliye swikriti ka daava nahi. Credit disclosure: ye Naugachia News ka sthaniya post-event report hai (chhota local portal), koi pre-event schedule nahi; bhawan me RTPS counter sahit sevaon ka praavdhaan.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (shailesh-kumar-alias-bulo-mandal): voiceofbihar.in 28 Nov 2025 (Grameen Karya Mantri se sadak pariyojnaon par mulakat+gyapan) — sirf maang/gyapan, reject; gs-news.in 28 Nov 2025 (vahi sadak-gyapan) — sirf maang, reject; naugachia.com Aug 2026 (Kadwa kshetra daura) — sirf daura aur vaade, reject; gs-news.in 18 Aug 2026 (vahi daura) — sirf daura, reject; naugachia.com Sep 2026 (SMC baithak) — sirf baithak, reject; naugachia.com archive 2017-2019 (PMGSY shilanyas) — sansad-kaal, pre-term, reject; patnapress.com/dailypioneer.com Sep 2026 (Energy Minister roop me Green Energy Corridor/solar) — mantri-portfolio statewide kaam, kshetra-specific nahi, reject; jagran/etvbharat/livehindustan May 2026 (mantri shapath) — appointment news, reject; appwritefunc mirror/reportwire.in Aug 2026 (Ganga kataav aapda) — aapda khabar, reject; gs-news.in 18 Sep 2026 (JD(U) orientation) — party karyakram, reject; koi qualifying negative reporting nahi mili (criminal cases 0).
+
+biharWorks['murari-pasavan'] = [];
+
+// REJECT-LOG (murari-pasavan): bhaskar.com ~Feb 2026 (Sampurnata Abhiyan 2.0 launch) — karyakram udghatan, koi work asset nahi, reject; public.app 6 Sep 2026 (baadh kshetra daura) — public.app-only + sirf daura, reject; angpublicplusnews.com 28 Jan 2026 (kirana-dukaan aag raahat) — aapat-raahat maujoodgi, reject; univarta.com 22 Feb 2026 (Adani Pirpainti project visit, gyapan) — sirf gyapan; plant PM ka Sep 2025 shilanyas (pre-term), reject; zeenews Sep 2025 (2400MW plant) — pre-term, reject; livehindustan 6 Oct 2026 (BJP mandal baithak) — party baithak, reject; livehindustan ~Jul 2026 (Bara mandal baithak) — party baithak, reject; livehindustan 17 Nov 2025 (assets profile) — profile feature, reject; patrika.com Nov 2025 (sabse gareeb vidhayak) — profile feature, reject; youtube Mobile Media (BRC nirikshan) — YouTube-only + sirf nirikshan, reject; timesofindia Jan 2026 (minister Republic Day event) — sirf maujoodgi, reject; biharinfratales PDF (vidhan sabha prashn) — koi swikriti/asset nahi, reject; saari controversy khabrein purv MLA Lalan Paswan ki hain — galat vyakti, reject; profile imaandari se khaali.
+
+biharWorks['shubhanand-mukesh'] = [];
+
+// REJECT-LOG (shubhanand-mukesh): livehindustan Jul 2026 (Panchmukhi Hanuman mandir udghatan) — mandir samuday-nirmit, vidhayak sirf atithi, reject; livehindustan Jun 2026 (jan-kalyan shivir) — sarkari shivir me sirf mukhya atithi, reject; livehindustan 26 Dec 2025 (NH-80 nirikshan) — sirf nirikshan, reject; livehindustan ~Jul 2026 (DM ko gyapan) — sirf maang, reject; silktvnews Dec 2025 (sameeksha baithak) — sirf baithak/nirdesh, reject; gramsamachar 2020 (Sanhola sadak shilanyas) — pita Sadanand Singh ka purana kaam, reject; livehindustan 4 Feb 2026 (budget satra maang) — sadan me maang, reject; livehindustan 18 Dec 2025 (ABVP bhet) — sirf bhet, reject; news4nation/kashishnews 22 Feb 2026 (CM ka atithishala shilanyas) — CM karyakram me sirf maujoodgi, reject; YouTube NTPC — company/CSR news, reject; 2021 PTI ticket-bechne FIR-aadesh case (Shubhanand naamzaad) — pre-term + taza status nahi, negative bar fail, reject; profile imaandari se khaali.
+
+biharWorks['rohit-pandey'] = [
+  {
+    title: 'Bhagalpur me Balti Karkhana Chowk se Karkhana Road tak Rs 1.91 crore ki lagat se PCC path aur nala nirman karya ka shubharambh 26 Apr 2026 ko swayam kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 27 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bhagalpur/story-rohit-pandey-launches-pcc-path-and-drain-construction-in-bhagalpur-201777231591875.html',
+    date: '2026-04-26',
+    note: 'Stage: shilanyas/shubharambh — Bhagalpur ke nagar vidhayak ne PCC path aur nala nirman karya ka shubharambh swayam kiya; kshetra+party se pehchan pakki (Bhagalpur AC-156 ke BJP MLA). Fund-srot: article me nahi diya gaya — isliye fund-srot ka daava nahi. Credit disclosure: shubharambh ki bhoomika unki hai; nirman poora hone ke baad lokarpan ki alag entry banegi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rohit-pandey): livehindustan 30 Jan 2026 (MSME trade fair udghatan) — karyakram udghatan, vikas-karya nahi, reject; tazapatrika ~Sep 2026 (baadh Rs 7000 aid) — sirf maang + CM nirdesh, reject; mybhagalpur 5 Sep 2026 (teachers meeting) — sirf maang, reject; jagran ~Jan 2026 (Bholanath ROB/drainage) — sirf nirikshan+maang, reject; patnapress (WJAI summit) — sirf maujoodgi, reject; TOI (minister program) — sirf maujoodgi, reject; prokerala 1 Nov 2025 (BJP office) — pre-term + party office, reject; indiatv (election result) — work nahi, reject; jagran (WB Kalchini strategy) — kshetra-bahar, reject; TOI (Nitish Pragati Yatra / CM 84 schemes) — CM program me sirf maujoodgi, reject; silktvnews (Rohit Pande giraftar) — galat vyakti, reject; hindusthansamachar 2 Nov 2025 (jansampark) — pre-term campaign, reject.
+
+biharWorks['lalit-narayan-mandal'] = [
+  {
+    title: 'Sultanganj me Krishnanand Stadium (manch, chardivari, street light) aur Narayanpur gaon me chhath ghat, sadak aur nala nirman sahit nirmit yojanaon ka udghatan 18 Jan 2026 ko swayam kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar, 18 Jan 2026',
+    sourceUrl: 'https://www.hindusthansamachar.in//Encyc/2026/1/18/OPENING-DIFFERENTPLAN-mla.php',
+    date: '2026-01-18',
+    note: 'Stage: udghatan — Sultanganj ke vidhayak ne nirmit yojanaon ka udghatan nariyal fodkar aur fita katkar swayam kiya. Fund-srot: article me nahi diya gaya — isliye fund-srot ka daava nahi. Credit disclosure: Hindusthan Samachar wire ki post-event reporting par adharit; kul rashi article me spasht nahi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (lalit-narayan-mandal): livehindustan 12 Jan 2026 (ring-dam demand) — sirf maang/gyapan, reject; YouTube (Shravani mela CM announcements) — YouTube-only + CM ghoshna, reject; livehindustan 2 Jan 2026 (MLA housing) — prashasanik, reject; ZeeBiz (Aguwani-Sultanganj bridge) — sirf bayan, reject; patnapress (Marine Drive alignment) — maang+aashwasan, reject; patnapress (riverfront resume) — kamzor attribution, reject; biltrax Mar 2024 (airport cabinet) — pre-term, reject; thenewslife/news4nation (Pragati Yatra/Shravani mela) — CM program me maujoodgi, reject; livehindustan 22 Sep 2026 (drowning condolence) — sahnaubhuti, reject; livehindustan 2 Sep 2026 (CHC inspection) — sirf nirikshan, reject; public.app (Rs 7 lakh PCC sadak) — public.app-only + pre-term, reject; prabhatkhabar (Ganesh mahayagna) — dharmik karyakram, reject; gs-news.in (tag page) — punarprakashan, alag entry nahi.
+
+biharWorks['mithun-kumar'] = [
+  {
+    title: 'Nathnagar me Kishunpur bypass Belsira mod par 16 kattha jameen ko lekar 29 Mar 2026 ko dono pakshon ke beech firing — vidhayak Mithun Kumar (media me Mithun Yadav) par jabran kabza aur marpit ka aarop, police janch jari.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 30 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/bhagalpur/story-land-dispute-erupts-in-madhusudanpur-mla-and-local-leaders-clash-gunfire-reported-201774813117060.html',
+    date: '2026-03-29',
+    note: 'Stage: negative/aarop — prakhand pramukh Durga Dayal aur Subodh Yadav ki patni Pinky Devi ne vidhayak par jameen kabza aur marpit ke gambhir aarop lagaye. Police sthiti: SSP ne nishpaksh janch ke aadesh diye; thanadhyaksh ne viral video me dikh rahe logon ki pehchan ke liye notice diya; Subodh alias Jhingal Yadav desi katta ke saath hirasat me liya gaya; jameen malik Ranjan Yadav ne dusre paksh ke 11 logon ke khilaf case darj karaya — matlab registered FIR dusre paksh ke khilaf hai, vidhayak ke khilaf koi FIR established reporting me nahi mili. Neta ka jawab: vidhayak ne aaropon ko bebuniyad bataya — unke anusar jameen kharidne ki baat tay thi, napi ke dauran Jhingal ne firing ki, aur unhone usey bheed se bachakar police ko saunpa. Mamla janchadhin hai; follow-up LiveHindustan 1 Apr 2026 par bhi. Pehchan: media reports me Mithun Yadav naam se, Hindustan ke 23 Nov 2025 ke article se wahi Nathnagar ke navnirvachit vidhayak Mithun Kumar hain (Rajendra Yadav ke bete, Kishunpur niwasi).',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (mithun-kumar): livehindustan 23 Nov 2025 (ZP 1.59 crore re-tender) — jila parishad adhyaksh-bhoomika, vidhayak-bhoomika nahi + sirf announcement, reject; livehindustan 23 Jan 2025 (body-warrant bank-loan) — pre-term vyaktigat, reject; livehindustan 2 Jan 2026 (MLA housing) — prashasanik, reject; election result articles — work nahi, reject; public.app (counting video) — public.app-only, reject; oneindia criminal-cases list — sirf affidavit count, established reporting nahi, reject; YouTube (TV9) — YouTube-only, reject; positive profile imaandari se khaali.
+
+// Coordinator QA note: workers ne saare sources khud khole; mere dwara qa — Kumar Shailendra ki entry 3 mantri-ban-ne (May 2026) se pehle ki hai, entry 4 mantri-padh par rehte hue kshetriya asset ka udghatan hai (disclosure diya); Rohit Pandey ki pehchan kshetra+party se pakki; Lalit Narayan Mandal ki entry me kul rashi article me spasht nahi — note me disclosed; Mithun Kumar negative: aarop (naamzad shikayat-karta) + ghatna me police janch (SSP aadesh) + jawab + no-FIR-against-MLA disclosed — do-paksh vivad hone par bhi negative bar pass; Murari Pasavan aur Shubhanand Mukesh khaali; 7/7 slugs pehle khaali the — koi overwrite nahi.
+
