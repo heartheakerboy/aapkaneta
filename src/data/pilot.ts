@@ -41,6 +41,31 @@ export interface Background {
   backgroundNote?: string;
 }
 
+export interface RaiPoint {
+  head?: string;
+  text: string;
+  sourceLabel: string;
+  sourceUrl?: string;
+}
+
+export interface VerdictLine {
+  label: string;
+  detail: string;
+  sourceLabel?: string;
+  sourceUrl?: string;
+}
+
+// Researched profile enrichment (bio + janta ki rai) — src/data/profiles.ts me slug se keyed.
+// Jahan researched profile nahi hai, wahan NetaProfile component halafnama/chunav/works
+// record se auto-bio aur record-based rai bindu banata hai (koi banawati rai kabhi nahi).
+export interface ProfileExtra {
+  bio: string[];
+  verdict?: VerdictLine[];
+  verdictNote?: string;
+  support?: RaiPoint[];
+  criticism?: RaiPoint[];
+}
+
 export interface PrevAffidavit {
   year: string;
   age: string;

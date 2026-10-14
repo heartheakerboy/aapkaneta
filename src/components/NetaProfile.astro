@@ -1,7 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { badgeMeta } from '../data/all';
-import type { Neta } from '../data/pilot';
+import { badgeMeta, allConstituencies } from '../data/all';
+import { profiles } from '../data/profiles';
+import type { Neta, RaiPoint, VerdictLine } from '../data/pilot';
 
 interface Props {
   neta: Neta;
@@ -13,6 +14,81 @@ interface Props {
 const { neta, base, stateName, homeLabel } = Astro.props;
 const initials = neta.name.split(' ').map(w => w[0]).slice(0, 2).join('');
 const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
+
+// ---------- Bio + Janta ki Rai (researched profile ho to woh, warna record se auto) ----------
+const extra = profiles[neta.slug];
+const ok = (v?: string | null) => !!v && v.trim() !== '' && v.trim() !== '—' && v.trim().toLowerCase() !== 'n/a' && v.trim().toLowerCase() !== 'nil';
+const myState = neta.state ?? 'Maharashtra';
+const constInfo = allConstituencies.find(c => c.slug === neta.constituencySlug && (c.state ?? 'Maharashtra') === myState);
+const cur = neta.tenures[neta.tenures.length - 1];
+const isRS = neta.house === 'Rajya Sabha';
+const reElected = neta.tenures.length > 1 || !!neta.prevAffidavit;
+const b = neta.background;
+
+let bioParas: string[] = [];
+if (extra?.bio?.length) {
+  bioParas = extra.bio;
+} else {
+  const p1: string[] = [];
+  if (isRS) {
+    p1.push(`${neta.name} ${stateName} se Rajya Sabha ke sansad hain aur ${neta.party} se jude hain.`);
+  } else {
+    p1.push(`${neta.name} ${stateName} ke ${neta.constituency} ${neta.post === 'MLA' ? 'Vidhan Sabha' : 'Lok Sabha'} kshetra se ${neta.party} ke ${neta.post === 'MLA' ? 'Vidhayak (MLA)' : 'Sansad (MP)'} hain.`);
+  }
+  if (constInfo?.district && constInfo.district !== neta.constituency && !isRS) p1.push(`Ye kshetra ${constInfo.district} jile me aata hai.`);
+  if (cur) p1.push(`Unka vartaman karyakaal ${cur.start} se ${cur.end} tak hai.`);
+  if (neta.tenures.length > 1) p1.push(`Ve ab tak kul ${neta.tenures.length} karyakaalon me jan-pratinidhi reh chuke hain — poori timeline neeche di gayi hai.`);
+  if (ok(neta.electionNote)) p1.push(neta.electionNote);
+  bioParas.push(p1.join(' '));
+
+  const p2: string[] = [];
+  const facts: string[] = [];
+  if (ok(b.age)) facts.push(`umar ${b.age} varsh`);
+  if (ok(b.education)) facts.push(`shiksha ${b.education}`);
+  if (ok(b.assets)) facts.push(`ghoshit kul sampatti ${b.assets}`);
+  if (ok(b.liabilities)) facts.push(`deyta ${b.liabilities}`);
+  if (facts.length) p2.push(`Chunav halafname ke anusaar unki ${facts.join(', ')} hai.`);
+  if (b.criminalCases === 0) p2.push('Halafname me unke khilaf koi aaparaadhik mamla darj nahi hai.');
+  else p2.push(`Halafname me unke khilaf ${b.criminalCases} aaparaadhik mamle darj hain — ye aankda neeche halafnama section me srot ke saath diya gaya hai. Dhyaan dein: mamla darj hona dosh-siddhi (conviction) nahi hai.`);
+  if (neta.prevAffidavit) p2.push(`${neta.prevAffidavit.year} ke pichle halafname se tulna bhi is page par di gayi hai, taaki aap sampatti aur mamlo me badlav khud dekh sakein.`);
+  if (p2.length) bioParas.push(p2.join(' '));
+
+  if (neta.works.length) {
+    const cats = [...new Set(neta.works.map(w => w.category))].join(', ');
+    bioParas.push(`AapkaNeta par unke karyakaal ke ${neta.works.length} satyaapit kaam darj ${neta.works.length === 1 ? 'hai' : 'hain'} (${cats}) — har kaam ke saath uska srot diya gaya hai.`);
+  } else {
+    bioParas.push('AapkaNeta par unke kaam ka satyaapit record abhi jama kiya ja raha hai. Bina pakke saboot ke hum koi "kaam" list nahi karte — RTI aur samachar sroton se satyapan hote hi record yahan jud jayega.');
+  }
+}
+
+const verdictLines: VerdictLine[] = extra?.verdict ?? [
+  { label: `${cur?.start ?? ''} chunav`, detail: neta.electionNote },
+  reElected
+    ? { label: 'Dobara bharosa', detail: 'Pichle karyakaal ya pichle halafname ka record bhi maujud hai — kshetra ke matdataon ne unhe ek se zyada baar chuna hai.' }
+    : { label: 'Is baar ka faisla', detail: 'Is chunav me kshetra ke matdataon ne unhe apna pratinidhi chuna — unke vartaman karyakaal ka poora record is page par rakha gaya hai.' },
+];
+const verdictNote = extra?.verdictNote ?? 'Chunav parinaam hi janta ki rai ka sabse pakka, napaa-tula saboot hota hai — isiliye hum survey, afwaah ya social-media ke shore ki jagah yahi aankde rakhte hain.';
+
+const supportPts: RaiPoint[] = extra?.support ? [...extra.support] : [];
+const critPts: RaiPoint[] = extra?.criticism ? [...extra.criticism] : [];
+if (!extra) {
+  if (reElected) supportPts.push({ text: 'Matdataon ne unhe dobara chuna hai — pichle karyakaal ke baad bhi kshetra ne unpar bharosa banaye rakha.', sourceLabel: 'Chunav record' });
+  if (b.criminalCases === 0) supportPts.push({ text: 'Halafname me koi aaparaadhik mamla darj nahi — ye tathya unke sarvajanik record ka saaf paksh hai.', sourceLabel: 'ECI halafnama (myneta.info)', sourceUrl: b.mynetaUrl });
+  if (verifiedCount > 0) supportPts.push({ text: `Is page par unke karyakaal ke ${verifiedCount} satyaapit kaam darj hain — har kaam srot ke saath janaacha gaya hai.`, sourceLabel: 'AapkaNeta record' });
+  if (b.criminalCases > 0) critPts.push({ text: `Halafname me ${b.criminalCases} aaparaadhik mamle darj hain. Mamla darj hona dosh-siddhi nahi hai, lekin ye woh tathya hai jispar vipaksh aur media aksar sawal uthate hain — poora vivaran neeche halafnama section me hai.`, sourceLabel: 'ECI halafnama (myneta.info)', sourceUrl: b.mynetaUrl });
+  if (neta.prevAffidavit) {
+    const curNum = parseInt((b.assets || '').replace(/[^0-9]/g, ''), 10) || 0;
+    const prevNum = neta.prevAffidavit.assetsNum || 0;
+    if (curNum && prevNum) {
+      const pct = Math.round(((curNum - prevNum) / prevNum) * 100);
+      if (Math.abs(pct) >= 50) critPts.push({ text: `Do chunavon ke beech unki ghoshit sampatti me lagbhag ${pct}% ka badlav aaya (${neta.prevAffidavit.assets} se ${b.assets}) — poori tulna neeche halafnama-tulna section me di gayi hai.`, sourceLabel: 'Halafnama tulna (myneta.info)' });
+    }
+  }
+  if (supportPts.length && !critPts.length) critPts.push({ text: 'Unke khilaf koi pramanit aalochna-bindu abhi hamare record me nahi hai — jaise hi kisi sthapit srot me koi bindu milega, woh srot ke saath yahan jod diya jayega.', sourceLabel: 'AapkaNeta record' });
+  if (!supportPts.length && critPts.length) supportPts.push({ text: 'Matdataon ne is chunav me unhe vijayi banaya — chunav jeetna hi kshetra ke bharose ka sabse bada praman hai, isiliye yah bindu yahan darj hai.', sourceLabel: 'Chunav record' });
+}
+const supportHead = extra ? '👍 Samarthak kya kehte hain' : '👍 Paksh me jane wale tathya (record se)';
+const critHead = extra ? '👎 Aalochak kya kehte hain' : '👎 Sawal uthne wale tathya (record se)';
 ---
 
 <Layout title={`${neta.name} — ${neta.constituency} ka hisaab`} description={`${neta.name} (${neta.partyShort}, ${neta.post} — ${neta.constituency}) ne apne karyakaal me kya kaam kiya? RTI-verified record.`}>
@@ -57,6 +133,26 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
     .bg-item span { display: block; font-size: 12.5px; color: var(--ink-soft); margin-bottom: 4px; }
     .bg-item b { font-size: 17px; }
     .bg-item b.warn { color: #b45309; }
+    .bio-card p { font-size: 16px; color: #24344d; margin-bottom: 12px; }
+    .bio-card p:last-child { margin-bottom: 0; }
+    .verdict { background: linear-gradient(135deg, #1b2a41, #3d5a80); color: #fff; border-radius: 14px; padding: 22px 24px; margin-bottom: 14px; }
+    .verdict h3 { font-size: 18px; margin-bottom: 12px; }
+    .verdict h3 span { font-size: 13.5px; font-weight: 400; opacity: .85; }
+    .vrow { display: flex; gap: 14px; flex-wrap: wrap; }
+    .vbox { background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.25); border-radius: 10px; padding: 12px 16px; flex: 1; min-width: 230px; }
+    .vbox b { font-size: 19px; display: block; }
+    .vbox span { font-size: 13.5px; opacity: .88; display: block; }
+    .vbox .vsrc { font-size: 12px; margin-top: 6px; opacity: .8; }
+    .vbox .vsrc a { color: #fcd9a8; }
+    .verdict p { font-size: 14.5px; margin-top: 12px; opacity: .95; }
+    .rai-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
+    .rai { background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 20px 22px; }
+    .rai h3 { font-size: 17.5px; margin-bottom: 10px; }
+    .rai ul { margin-left: 18px; }
+    .rai li { font-size: 15px; color: #24344d; margin-bottom: 10px; }
+    .rai li:last-child { margin-bottom: 0; }
+    .rai .src { font-size: 12.5px; color: var(--ink-soft); }
+    .rai-disclaimer { border: 1px dashed var(--accent); background: var(--accent-soft); border-radius: 12px; padding: 14px 18px; font-size: 14px; color: #5b4326; margin-top: 14px; }
   </style>
 
   <div class="profile-hero">
@@ -79,6 +175,52 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
   </div>
 
   <div class="wrap">
+    <h2 class="section-title">Neta ke baare me</h2>
+    <div class="card bio-card">
+      {bioParas.map(p => <p>{p}</p>)}
+      {!extra && <p style="font-size:13.5px;color:var(--ink-soft)">Ye parichay neta ke halafname, chunav record aur is page ke satyaapit kaam-record se banaya gaya hai.</p>}
+    </div>
+
+    <h2 class="section-title">Janta ki rai — log kya kehte hain</h2>
+    <div class="verdict">
+      <h3>🗳️ Chunav me janta ka faisla <span>(sabse pakka saboot — ECI parinaam)</span></h3>
+      <div class="vrow">
+        {verdictLines.map(v => (
+          <div class="vbox">
+            <b>{v.label}</b>
+            <span>{v.detail}</span>
+            {v.sourceLabel && <div class="vsrc">Srot: {v.sourceUrl ? <a href={v.sourceUrl} rel="noopener">{v.sourceLabel}</a> : v.sourceLabel}</div>}
+          </div>
+        ))}
+      </div>
+      <p>{verdictNote}</p>
+    </div>
+    {(supportPts.length > 0 || critPts.length > 0) && (
+      <div class="rai-grid">
+        {supportPts.length > 0 && (
+          <div class="rai">
+            <h3 style="color:var(--green)">{supportHead}</h3>
+            <ul>
+              {supportPts.map(pt => (
+                <li>{pt.head && <b>{pt.head}: </b>}{pt.text} <span class="src">({pt.sourceUrl ? <a href={pt.sourceUrl} rel="noopener">{pt.sourceLabel}</a> : pt.sourceLabel})</span></li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {critPts.length > 0 && (
+          <div class="rai">
+            <h3 style="color:#b91c1c">{critHead}</h3>
+            <ul>
+              {critPts.map(pt => (
+                <li>{pt.head && <b>{pt.head}: </b>}{pt.text} <span class="src">({pt.sourceUrl ? <a href={pt.sourceUrl} rel="noopener">{pt.sourceLabel}</a> : pt.sourceLabel})</span></li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    )}
+    <div class="rai-disclaimer">⚠️ <b>Note:</b> Ye section AapkaNeta ki apni rai nahi hai. Ye chunav parinaamon (ECI), halafname aur sthapit media reporting ka sankalan hai — har bindu ke saath uska srot diya gaya hai. Koi bindu galat ya ekpakshiya lage to <a href={`/correction/?neta=${encodeURIComponent(neta.name)}`}>correction bhejein</a>, hum srot ke saath sudhaar karenge.</div>
+
     <h2 class="section-title">Karyakaal timeline</h2>
     <div class="card">
       <div class="timeline">
