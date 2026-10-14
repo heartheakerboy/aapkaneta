@@ -227,3 +227,118 @@ biharWorks['manoj-yadav'] = [
 
 // Coordinator QA note: 5/5 fragments padhkar QA kiya — manish-kumar ki note me chhota-portal disclosure khud joda (worker ne chhoda tha); ram-narayan-mandal ka Navbharat Times reject-log me AC-162 likha tha jo AC-161 hona chahiye tha — fragment text me seedha nahi hai, assembly me theek hai; Devanagari/₹/literal-\n/extra comments zero; badges sirf news 4/4; period '2025-2030' 4/4; titles pure Hinglish vakya; currency "Rs"; sabhi 5 slugs pehle khaali the — koi overwrite nahi. Total titles 8 → 12 (+4).
 
+
+// ---- Begusarai district batch (researched 2026-10-14) ----
+
+biharWorks['abhishek-anand'] = [];
+
+// REJECT-LOG (abhishek-anand): profile KHAALI raha — qualifying entry koi nahi mili. aimamedia.org ~Sep 2026, Viyanshi Enterprises electric-scooter agency ka udghatan — private business, vikas-kaam nahi, reject; taja24news.live Feb 2026, Chhaurahi coaching farewell + degree college ke liye shiksha mantri se mulakat ki maang — sirf maang/maujoodgi, reject; taja24news.live Nov 2025, Khodavandpur daura — Ramghat road vidhayak-nidhi se banane ka aashwasan + agnipeediton ko Rs 1000 sahayta — daura/aashwasan/raahat, koi kaam nahi, reject; LiveHindustan 26 Nov 2025, Khodavandpur shaheed pratima malyarpan + agnipeedit sahayta — raahat, reject; LiveHindustan 24 Nov 2025, Navkothi daura, vikas-pratibaddhata bayan — sirf bayan, reject; LiveHindustan ~May 2026, JDU prakhand-adhyaksh baithak — party meeting, reject; LiveHindustan ~Jun 2026, Khodavandpur gramin sadkon ka nirikshan — sirf nirikshan, reject; news4nation ~Aug 2026, CM Samriddhi Yatra Rs 274 cr event — sirf maujoodgi, reject; jagrititimes Apr 2026, bailgadi baraat me shamil — niji karyakram, reject; Bhaskar ~Aug 2026, Manju Verma (maa) + pita Chandrashekhar Verma ko Arms Act me 7 saal ki saja — parivar ka mamla MLA par kabhi nahi, reject; news18 affidavit — MLA ne zero criminal cases ghoshit kiye — koi qualifying negative reporting nahi mili. Khaali profile: imaandari se jodna nahi bana.
+
+biharWorks['surendra-mehta'] = [
+  {
+    title: 'Mansurchak ke Ganpatoul panchayat me Rs 3.26 crore ke navnirmit Panchayat Sarkar Bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 1 Jun 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/begusarai/mansurchak/news/bihar-vidhayak-surendra-mehta-inaugurates-new-govt-building-in-ganpatoul-138084471.html',
+    date: '2026-06-01',
+    note: 'Bihar sarkar ke Yojana evam Vikas Vibhag dwara sanchalit pariyojna: Mansurchak prakhand ki Ganpatoul panchayat me Rs 3,25,69,456 (lagbhag Rs 3.26 crore) ki lagat se bane navnirmit Panchayat Sarkar Bhavan ka lokarpan vidhayak Surendra Mehta ne feeta katkar kiya; bhavan me RTPS counter sahit panchayat sachiv, rojgar sevak, lekhapal, takniki sahayak aur karyapalak sahayak ke baithne ki vyavastha hai taaki janm-mrityu, awasiya, jati, aay, ration card, pension, awas aur MNREGA jaise avedan-nishpadan panchayat star par hi ho saken. Stage: lokarpan (nirman purn). Disclosure: yeh sarkari vibhagiya pariyojna hai — article me swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai; lokarpan ke charan me vidhayak kendriya bhoomika me the, isliye entry rakhi hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bachhwara me Rajkiya Degree Mahavidyalaya ke shilapatt ka anavaran aur feeta katkar shubharambh',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 15 Jul 2026',
+    sourceUrl: 'https://www.livehindustan.com/national/story-bihar-cm-launches-degree-colleges-under-nischay-3-0-for-bright-future-201784112903786.html',
+    date: '2026-07-15',
+    note: 'Bihar sarkar ke Nishchay 3.0 (Unnat Shiksha, Ujjwal Bhavishya) karyakram ke tahat mukhyamantri dwara rajya ke 211 prakhandon me degree mahavidyalayon ka ek-saath udghatan kiya gaya; Bachhwara ke sthaniya samaroh me vidhayak Surendra Mehta ne Rajkiya Degree Mahavidyalaya, Bachhwara ke shilapatt ka anavaran kiya aur feeta katkar mahavidyalaya ka vidhivat shubharambh kiya. Stage: shubharambh (sanchalan arambh). Disclosure: yeh rajya-stariya sarkari yojna hai jiska mukhya udghatan mukhyamantri ne kiya — swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai; Bachhwara sthal par shilapatt-anavaran aur feeta-katne ki kendriya bhoomika vidhayak ne nibhayi, isliye entry rakhi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (surendra-mehta): dnbbharat + rashtrasamvad Feb 2023, Ganpatoul Simratla-Shivmandir PCC sadak vidhayak-nidhi shilanyas — 2020-25 karyakaal ka kaam, karyakaal-se-pehle, reject; dnbbharat Feb 2023, Baba Bankhandi Dham Shivratri mela udghatan — pre-term + mela (kaam nahi), reject; news4bihar ~Dec 2025, Kanu samaj prakhand sammelan udghatan — samajik sammelan, vikas-kaam nahi, reject; news4nation ~Aug 2026, CM Samriddhi Yatra Rs 274 cr Begusarai event — sirf maujoodgi (mantri ke roop me), reject; public.app 3 Oct 2026, Mansurchak thanadhyaksh par aarop — public.app-only + sirf bayan, reject; The Hindu/affidavit — koi pending criminal case ghoshit nahi — koi qualifying negative reporting nahi mili.
+
+biharWorks['rajnish-kumar'] = [
+  {
+    title: 'Teghra anumandal parisar me MKVY vidhayak-nidhi se adhivakta samudayik bhavan (pratham yojna) ka shilanyas',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'DNB Bharat, 17 Jul 2026',
+    sourceUrl: 'https://dnbbharat.com/?p=519002',
+    date: '2026-07-17',
+    note: 'Mukhyamantri Kshetra Vikas Yojana (MKVY) antargat vidhayak nidhi se vidhayak Rajnish Kumar ki pratham yojna ke roop me Teghra anumandal parisar me adhivaktaon ke liye samudayik bhavan ke nirman karya ka shilanyas vidhayak ne swayam kiya; vidhayak ne kaha ki MKVY rashi janta ki amanat hai aur uska upyog poori pardarshita evam jawabdehi ke saath kiya jayega. Stage: shilanyas (karyarambh). Disclosure: article me bhavan ki lagat ka ullekh nahi hai, isliye rashi note me nahi jodi gayi; nidhi-swikriti vidhayak dwara hi ki gayi hai (article me "vidhayak nidhi se pratham yojna" spasht hai), isliye credit vidhayak ko jata hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bihath nagar parishad ke ward 31 me BUIDCo dwara nirmit Rs 91 lakh ki PCC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 8 Jul 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/begusarai/story-inauguration-of-pcc-road-in-bihar-by-mla-rajneesh-kumar-201783519878812.html',
+    date: '2026-07-07',
+    note: 'Bihar Shahri Aadharbhut Sanrachna Vikas Nigam Limited (BUIDCo) dwara Bihath nagar parishad ke ward 31 me Refinery sadak se Ramlakhan Singh ke ghar tak Rs 91 lakh ki lagat se nirmit PCC sadak ka lokarpan vidhayak Rajnish Kumar ne kiya; mauke par poorv mukhya parshad sahit sthaniya neta maujood the. Stage: lokarpan (nirman purn). Disclosure: article par print tithi nahi thi; article me "Mangalvar ki der shaam" likha hai aur search-engine last-updated Jul 2026 hai — 7 Jul 2026 ko Mangalvar tha, isliye 2026-07-07 maani hai aur sourceLabel 8 Jul 2026 (est.) rakha hai. Yeh BUIDCo ki sarkari pariyojna hai — swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai; lokarpan ke charan me vidhayak kendriya bhoomika me the, isliye entry rakhi hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Teghra nagar parishad ke ward 23 me Rs 14.99 lakh se nirmit park ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 1 Jul 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/begusarai/story-inauguration-of-new-park-in-ward-23-by-mla-rajneesh-kumar-201782916165241.html',
+    date: '2026-07-01',
+    note: 'Nagar Vikas evam Awas Vibhag dwara anushansit kul Rs 14.99 lakh ki rashi se Teghra nagar parishad ke ward 23 me nirmit park ka udghatan vidhayak Rajnish Kumar ne kiya; mauke par mukhya parshad Sonali Bharti, up-mukhya parshad, ward parshad aur karyapalak adhikari maujood the. Stage: udghatan (nirman purn). Disclosure: yeh Nagar Vikas Vibhag ki anushansit sarkari yojna hai — swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai; udghatan ke charan me vidhayak kendriya bhoomika me the, isliye entry rakhi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rajnish-kumar): LiveHindustan ~Jun 2026, ward-14 Bajalpura Rs 12.36 lakh mitti-bharai/eet-soling/chahardivari — vidhayak + mukhya parshad ka SANYUKT udghatan, kaam ward parshad ki anushansa par (nagar parishad) — joint ribbon-cut, MLA ki bhumika aupcharik, reject; LiveHindustan ~Sep 2026, Yamchika Samiti ke madhyam se Begusarai pramandal ki samiksha — sirf samiksha/pahal, maang-type, reject; LiveHindustan 21 Dec 2025, Bihta jansamvad — samasyaen suni, aashwasan — sirf daura/aashwasan, reject; sbharatnews, Beltara (Chhattisgarh) ke Rajnish Kumar Singh ka Korbi school manch lokarpan — galat-vyakti, reject; Delhi AAP/MCD mamle me "Rajnish Kumar" — MCD shikayatkarta, galat-vyakti, reject; news18/TheHindu affidavit me 2 pending criminal cases — chunavi halafnama ghoshna, established negative reporting nahi — negative rule par entry nahi bani.
+
+biharWorks['narendra-kumar-singh-alias-bogo-singh'] = [];
+
+// REJECT-LOG (narendra-kumar-singh-alias-bogo-singh): profile KHAALI raha — qualifying entry koi nahi mili. ZeeNews Hindi 11 Aug 2026 + TimesNow Hindi 11 Aug 2026, MP-MLA special court Begusarai ne 2014 ke hatya-prayas mukadme (keshave gaon, Singhaul thana) me sakshya ke abhav me bari kiya; neta ka jawab ("nyay ki jeet") bhi reporting me hai — lekin yeh koi vikas-kaam nahi, isliye works-entry nahi bani (kaam nahi, faisla hai); vartaman karyakaal me unke khilaf koi taza FIR/case/janch ki established reporting nahi mili. Jagran (~2015) shilanyas: ward-17 PCC sadak Rs 20 lakh, Matihani-1/2, Badalpura, Ramdiri, Shankarpur Bakhadda PCC sadakein — karyakaal-se-pehle (purana 2010-2020 karyakaal), reject; Prabhat Khabar Feb 2015 ward-41 PCC path Rs 22 lakh shilanyas — karyakaal-se-pehle, reject; Prabhat Khabar Jan 2015 ward-18 PCC sadak Rs 59 lakh + Hanuman Gadhi Rs 87 lakh + Pahadi Gachhi Rs 89 lakh shilanyas — karyakaal-se-pehle, reject; Prabhat Khabar May 2015 Fatehpur/Maniappa/Bagdov PCC sadakein shilanyas — karyakaal-se-pehle, reject; Prabhat Khabar (~2016) Begusarai me medical college ki maang (CM samiksha baithak) — karyakaal-se-pehle + sirf maang, reject; livevns.news (Hindusthan Samachar, Aug 2023) Shamho-Matihani Ganga pul Rs 3000 crore maang — Rajya Sabha me Rakesh Sinha ne uthaya, Bogo ka yogdaan 2019 chunav-sabha ka "vaada" (karenge-type) + karya 2023 tak — karyakaal-se-pehle + sirf maang, reject; ZeeNews Hindi (Nov 2025) chunav se pehle DM par pakshpaat ka aarop — chunavi political bayan, kaam nahi, reject; Jagran 14 Nov 2025 election-result coverage — kaam nahi, reject; public.app (rajeshsuraj2011) 25 Nov 2025 Surajgarha me samarthako dwara swagat — public.app-only + sirf swagat, reject; YouTube MobileTV News (64 days ago) bari-case coverage — YouTube-only + koi kaam nahi, reject. Khaali profile: imaandari se jodna nahi bana.
+
+biharWorks['sattanand-sambuddha-alias-lalan-jee'] = [];
+
+// REJECT-LOG (sattanand-sambuddha-alias-lalan-jee): profile KHAALI raha — qualifying entry koi nahi mili. LiveHindustan 14 Nov 2025 (76,798 vote jeet) + 14 Nov 2025 (lagaatar doosri baar jeet, pita ki viraasat) + NDTV 14 Nov 2025 + Jansatta election-result coverage — sab election news, kaam nahi, reject; Jagran archive Dec 2022 + ajhindidaily (Dec 2022) Ahauk ghat Gandak pul Rs 13.43 crore gira — pul ka shilanyas 2016 me inke pita Shreenarayan Yadav (tatkalin vidhayak) ne kiya tha, yeh MLA nahi the tab; karyakaal-se-pehle + MLA ka koi dastavezi kadam nahi, reject; koi qualifying negative reporting nahi mili. Khaali profile: imaandari se jodna nahi bana.
+
+biharWorks['kundan-kumar'] = [];
+
+// REJECT-LOG (kundan-kumar): livehindustan 2 Sep 2025 (2.25 crore, nagar nigam ke 3 sadak-nala shilanyas) — datePublished 2025-08-02, karyakaal-se-pehle, reject; jagran 5 Dec 2024 (2.71 crore: Jinedpur school bhawan + Kaith health center shilanyas) — karyakaal-se-pehle, reject; livehindustan 19 Sep 2024 (4.14 crore: 6 sadak shilanyas/udghatan) — karyakaal-se-pehle, reject; dnbbharat Jun 2025 (Veerpur me 5 sadak, 6.73 crore shilanyas) — karyakaal-se-pehle, reject; dnbbharat Jul 2024 (Deehpar me 2 sadak shilanyas) — karyakaal-se-pehle, reject; samacharvichar Jul 2024 (Veerpur me 2 sadak, 76.73 lakh udghatan) — karyakaal-se-pehle, reject; dnbbharat 2022 (Parra PCC sadak + pustakalay shilanyas) — karyakaal-se-pehle, reject; livevns report-card 2022 — karyakaal-se-pehle, reject; nationalnewstoday 2022 (Shri Krishna Setu lokarpan) — sirf CM ko aabhaar, karyakaal-se-pehle, reject; Prabhat Khabar ~Sep 2026 (Begusarai chini mill pahal: CM Samrat Choudhary ko aabhaar) — sirf aabhaar-bayan, MLA ka koi shilanyas/lokarpan/nidhi-swikriti nahi, reject; YouTube (PCC sadak udghatan, ~Sep 2026) — YouTube-only + vyakti ki pehchan aspasht, reject; public.app (Veerpur MANREGA shilanyas; Feb 2026 PWD sadak maang) — public.app-only + sirf maang, reject; koi qualifying negative reporting nahi mili.
+
+biharWorks['sanjay-kumar-bihar'] = [
+  {
+    title: 'Bakhri prakhand ke Bagwan panchayat ke Lauche gaon me Mukhyamantri Kanya Vivah Mandap Yojana ke tahat vivah mandap ka bhoomi pujan 27 September 2026 ko swayam kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 27 Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/begusarai/sanjay-paswan-inaugurates-bakhri-development-projects',
+    date: '2026-09-27',
+    note: 'Stage: bhoomi pujan — kaam shuru hone ka pehla kadam; nirman abhi baki hai, lokarpan nahi hua. Fund-srot: Mukhyamantri Kanya Vivah Mandap Yojana (rajya sarkar ki yojana), article ke anusaar. Credit disclosure: Sanjay Kumar apne hi kshetra Bakhri me is karyakram me kendriya bhoomika me the (bhoomi pujan unhone swayam kiya, panchayat ke mukhiya Yogendra Rai ki adhyakshata me); sath hi ve Bihar sarkar me Ganna Udyog mantri hain, isliye ye unki mantri-bhoomika aur vidhayak-bhoomika dono ke daayre ka kaam hai.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bakhri ke Darha Harisingh gaon me 14 lakh rupaye ki lagat se banne wali PCC sadak ka shilanyas 27 September 2026 ko swayam kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 27 Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/begusarai/sanjay-paswan-inaugurates-bakhri-development-projects',
+    date: '2026-09-27',
+    note: 'Stage: shilanyas — sadak ka nirman shuru hua, poora hone ki khabar abhi nahi hai. Fund-srot: article ke anusaar "vidhayak nidhi" se Rs 14 lakh ki yojana; ye sansad-nidhi se alag hai. Dastavezi saboot: Prabhat Khabar ki reporting (swatantra GO ya swikriti-patra article me nahi dikhaya gaya, isliye swikriti ka dawa sirf news-reporting ke aadhar par hai). Credit disclosure: shilanyas Sanjay Kumar ne swayam kiya, isliye unki seedhi bhoomika hai; nirman poora hone ke baad lokarpan ki alag entry banegi.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bagwan panchayat me navnirmit WPO ki charhdivari aur mukhya gate ka udghatan 27 September 2026 ko swayam kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 27 Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/begusarai/sanjay-paswan-inaugurates-bakhri-development-projects',
+    date: '2026-09-27',
+    note: 'Stage: udghatan/lokarpan — charhdivari aur mukhya gate ka nirman poora ho chuka tha, jiska udghatan unke kar-kamlon se sampann hua. Credit disclosure: ye yojana panchayat-star ki nirman-yojana thi jiska udghatan Sanjay Kumar ne apne kshetra me swayam kiya; mool nirman-karya ka shrey sambandhit vibhag/panchayat ko bhi jata hai, udghatan ki bhoomika unki hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sanjay-kumar-bihar): livehindustan 20 Nov 2025 (Bakhri se LJP-R ke pehli-baar vidhayak Sanjay Kumar mantri bane) — sirf mantri-ban-ne ki khabar, reject; livehindustan 24 Nov 2025 (Bakhri me swagat-sammaan samaroh, "beta bankar vikas karunga") — sirf sammaan + "karenge" vaade, reject; public.app Sep 2026 (Baba Garibnath mandir Ganesh mela udghatan) — public.app-only + mela udghatan vikas-kaam nahi, reject; public.app Feb 2026 (Bakhri anumandal aspataal shilanyas 22 Feb ko swasthya mantri karenge; Sanjay ne aabhaar jataya) — pre-event schedule + public.app-only + sirf aabhaar, reject; YouTube The Begusarai interview (25 chini mill khulne ka dawa) — YouTube-only + ghoshna, reject; deshajtimes/insiderlive Sep 2026 (Patna BAMETI me ganna kisan sangoshthi ka udghatan mantri ke roop me) — vibhagiya karyakram me sirf maujoodgi, kshetra ka vikas-kaam nahi, reject; galat-vyakti: Saharsa ke Simri Bakhtiyarpur vidhayak "Sanjay Kumar Singh" (dahi-chura bhoj, kalyan shivir) — alag jila/vyakti, reject; koi qualifying negative reporting nahi mili.
+
+// Coordinator QA note: fragments verified (0 Devanagari, 0 ₹, 0 literal \n, 0 scaffolding comments in entries); Sanjay Kumar ki teeno entries ek hi Prabhat Khabar itemized report se (tithi metadata-verified); dono vipaksh MLA (Bogo Singh, Sambuddha) ke purane shilanyas pre-term par reject; Abhishek Anand ki maa-pita Arms Act saja parivar-niyam par reject; 7/7 slugs pehle khaali the — koi overwrite nahi.
