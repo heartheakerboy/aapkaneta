@@ -2614,3 +2614,181 @@ biharWorks['raju-kumar-singh'] = [
 
 // COORDINATOR QA NOTE (muzaffarpur): 4 workers (W1-W4) ke fragments QA karke assemble kiya.
 // Fixes: (1) baby-kumari entry-3 (3 dharmik sthal paryatan kendra): stage 'swikriti' -> 'ghoshna' — GO/rakam report nahi hui hai, dastavezi kadam sirf sanyukt sachiv ka patra hai; (2) shankar-prasad entry-2 me 'Rajd' typo -> 'RJD'; (3) ranjan-kumar negative entry ka sourceUrl beta subdomain se canonical firstbihar.com par kiya (curl se 200 verify).
+
+// ---- Nalanda district batch (researched 2026-10-14) ----
+
+biharWorks['jitendra-kumar'] = [
+  {
+    title: 'Asthawan me Mustafapur gaon ke paas NH-33 se Nepura gaon ko jodne wali sadak ka shilanyas, Mukhyamantri Gram Sampark Yojana ke tahat lagbhag Rs 3.04 crore ki lagat se banegi',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2025-12-14',
+    description: 'Live Hindustan ki post-event report ke anusar 14 Dec 2025 (Ravivar) ko Asthawan ke vidhayak Dr Jitendra Kumar ne chhathi jeet ke jashn ke dauran Mustafapur gaon ke paas NH-33 se Nepura gaon ko jodne wali sadak ka shilanyas kiya; sadak Mukhyamantri Gram Sampark Yojana ke tahat banegi aur iski lagat lagbhag Rs 3.04 crore hai. Credit-pardarshita: sadak rajya yojana (MGSY) ke tahat vitt-poshit hai — article me vidhayak ki anushansa ya swikriti dilane ki bhoomika ka koi zikr nahi hai, isliye swikriti-stariya daava satyapit nahi hai; entry shilanyas samaroh me unki kendriya bhoomika ke aadhar par rakhi gayi hai.',
+    source: 'LiveHindustan, 14 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/biharsharif/story-celebration-of-sixth-victory-mla-dr-jitendra-unveils-6-crore-development-projects-201765730911921.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Benar me Rs 2.90 crore ki lagat se bane navnirmit Panchayat Sarkar Bhavan ka udghatan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2025-12-14',
+    description: 'Live Hindustan ki post-event report ke anusar 14 Dec 2025 (Ravivar) ko vidhayak Dr Jitendra Kumar ne Benar me Rs 2.90 crore ki lagat se bane navnirmit Panchayat Sarkar Bhavan ka fita kaatkar udghatan kiya. Credit-pardarshita: article me bhavan ke nidhi-srot (vidhayak-nidhi/MKVY ya koi sarkari yojana) aur nirman-kaaryadesh ka zikr nahi hai — swikriti-stariya daava satyapit nahi hai; entry nirman-poorn bhavan ke lokarpan me vidhayak ki kendriya bhoomika ke aadhar par rakhi gayi hai.',
+    source: 'LiveHindustan, 14 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/biharsharif/story-celebration-of-sixth-victory-mla-dr-jitendra-unveils-6-crore-development-projects-201765730911921.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (jitendra-kumar): thehdnews.in ~2024 (954 din purana), Sarmera prakhand me 3.5 cr ki sadkon ka udghatan + 4 cr ki 4 sadkon ka shilanyas — pre-term (2024), reject; prabhatkhabar.com ~Jun 2025 (469 din purana), Asthawan me lagbhag Rs 1 cr ki yojnaon ka shilanyas/udghatan — pre-term, reject; YouTube shorts ~Oct 2025, Chirag Paswan ka chunavi sabha video — YouTube-only + election campaign, reject; ETV Bharat 17 Feb 2026, vidhan sabha me desk-bench kharid ka sawal uthaya — sadan-prashn, koi vikas-kaam nahi, reject. Negative: NDTV/ADR ke anusar koi criminal case nahi; naye karyakal me koi FIR/janch-karyavahi wali qualifying negative reporting nahi mili.
+
+biharWorks['dr-sunil-kumar'] = [
+  {
+    title: 'Biharsharif ke Ward-46 me Mukhyamantri Samagra Vikas Yojana ke tahat kul lagbhag Rs 1.36 crore ki do yojnaon ka shilanyas — Alinagar me samudaayik bhavan ke saamne zameen ki gherabandi aur paver block (Rs 63.45 lakh) tatha Mirganj me Bajrangbali mandir ke paas samudaayik bhavan ka nirman (Rs 73.27 lakh)',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-01-01',
+    description: 'Dainik Bhaskar ki post-event report ke anusar 1 Jan 2026 (Guruvar, saal ka pehla din) ko Biharsharif ke vidhayak Dr Sunil Kumar ne Ward-46 ke Alinagar aur Mirganj (Jhingnagar) me Mukhyamantri Samagra Vikas Yojana ke tahat do yojnaon ka shilanyas kiya — Alinagar me navnirmit samudaayik bhavan ke saamne sarkari zameen ki gherabandi aur paver block bichhane ka kaam (lagat Rs 63,44,946) aur Mirganj me Bajrangbali mandir ke paas Rs 73,26,508 ki lagat se samudaayik bhavan ka nirman. Credit-pardarshita: dono yojnaen rajya yojana ke tahat vitt-poshit hain; vidhayak ne khud kaha ki Mirganj bhavan chunav-poorv vaada tha jiska shilanyas ve chunav se pehle nahi kar paaye the — arthaat yojana ki jad unki pichhle-karyakal ki anushansa me hai, lekin shilanyas ka charan naye karyakal (1 Jan 2026) me poora hua, isliye entry shilanyas ke aadhar par rakhi gayi hai. Isi karyakram ki Live Hindustan report me lagat/srot ka vyora nahi tha, isliye Bhaskar ko srot banaya gaya hai.',
+    source: 'Dainik Bhaskar, 1 Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/nalanda/news/mlas-gift-on-new-year-in-bihar-sharif-136830651.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Rahui Nagar Panchayat ke Rahui High School me gate-yukt chahardiwari ke nirman ka shilanyas, lagbhag Rs 58 lakh ki lagat se',
+    category: 'School',
+    stage: 'shilanyas',
+    date: '2026-02-22',
+    description: 'khabretvnews ki post-event report ke anusar 22 Feb 2026 ko vidhayak Dr Sunil Kumar ne Rahui Nagar Panchayat ke Rahui High School me gate-yukt chahardiwari ke nirman ka shubharambh/shilanyas kiya; yojana Mukhyamantri Samagra Shahari Vikas Yojana ke tahat lagbhag Rs 58 lakh ki lagat se banegi. Credit-pardarshita: chhota local portal hai (note-disclosure); article ke anusar vidhayak ne yojana ki anushansa ki thi; Rahui CD Block Biharsharif AC-172 ka hissa hai (ECI delimitation), isliye yah kshetra ke andar ka kaam hai.',
+    source: 'khabretvnews.com, 22 Feb 2026',
+    sourceUrl: 'https://khabretvnews.com/construction-of-boundary-wall-with-gate-and-rcc-drain-from-pahadi-tiraha-to-kushwaha-dharamshala-started-at-rahui-high-school/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Biharsharif me Pahadi Tiraha se Kushwaha Dharamshala tak RCC naala ke nirman ka shilanyas, Rs 1.82 crore ki lagat se jaljamav ka sthaayi samadhan',
+    category: 'Paani',
+    stage: 'shilanyas',
+    date: '2026-02-22',
+    description: 'khabretvnews ki post-event report ke anusar 22 Feb 2026 ko vidhayak Dr Sunil Kumar ne Biharsharif Nagar Nigam kshetra me Pahadi Tiraha se Kushwaha Dharamshala tak RCC naala nirman ka shilanyas kiya; yojana Mukhyamantri Samagra Shahari Vikas Yojana ke tahat Rs 1,81,64,474 ki lagat se banegi aur Chhoti Pahadi, Badi Pahadi, Mansoon Nagar aur Kushwaha Dharamshala kshetra ke jaljamav ka samadhan karegi. Credit-pardarshita: chhota local portal hai (note-disclosure); vidhayak ke anusar chunav ke dauran logon ne jalnikasi ki samasya uthayi thi jiske baad unhone yojana ki anushansa ki; kaam sthaniya kshetra abhiyantran sangathan ke madhyam se hoga.',
+    source: 'khabretvnews.com, 22 Feb 2026',
+    sourceUrl: 'https://khabretvnews.com/construction-of-boundary-wall-with-gate-and-rcc-drain-from-pahadi-tiraha-to-kushwaha-dharamshala-started-at-rahui-high-school/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (dr-sunil-kumar): LiveHindustan ~Sep 2026, Sohsarai ke Budhwa Ganesh Sthan ke punarnirman ka bhoomi-pujan — samudaay-fund (Shri Ganesh society/aayojan samiti) ka dharmik karyakram, MLA ki bhoomika sirf ceremonial (bhoomi-pujan me shamil), reject; dnbbharat.com ~Oct 2026, 'Seva Jyoti Chowk' ka udghatan — nagar nigam ne banaya tha, PM ke 25-varsh wale party karyakram me sirf ribbon-cutting, koi concrete bhoomika nahi, reject; Patna Press ~May 2025 (528 din purana), Hiranya Parvat eco-tourism Rs 2.64 cr shilanyas — mantri-karyakaal, pre-term, reject; khabretvnews Feb 2026 article ke andar ke atirikt daave — Badi Pahadi fitness park marg ki anushansa (sirf anushansa, koi shilanyas/GO saboot nahi), pahad par mandir (samudaay-sahyog wala dharmik), 20-feet Ram pratima (sirf yojana), 11 smart city yojnaon ki anushansa (sirf anushansa), Mughal Kuan marg/paani (vague daave, stage specifics nahi) — sab reject; Khairabad samudaayik bhavan (Bhaskar article me zikr) — shilanyas chunav se pehle hua tha, pre-term, reject; muznews.online Sep 2026, Ward-41 Muzaffarpur me sadak-naala shilanyas — Muzaffarpur ke MLA Ranjan Kumar ke baare me hai, galat vyakti/scope se bahar, reject; Outlook/Mathrubhumi/FPJ Nov 2025, RJD MLC Sunil Kumar Singh par FIR — galat vyakti, reject; Zee News Oct 2012, BJP MLA par do FIR — 2012 ki prachin khabar, unrelated, reject. Negative: ADR me 6 purane criminal cases (chunav halafnama ghoshna) — naye karyakal me koi FIR/janch-karyavahi wali qualifying negative reporting nahi mili.
+
+biharWorks['kaushal-kishore'] = [];
+
+// ===================== REJECT-LOG: Kaushal Kishore (kaushal-kishore, Rajgir (SC) AC-173) =====================
+// (2020-25 karyakaal ke purane kaam + naam milta-julta galat vyakti par niyam sakhti se lagu)
+// 1. Desh News Bharat (dnbbharat.com/?p=493708) — Rajgir me Rs 10 crore ki 6 sadkon ka shilanyas (Papapuri/Chorsua/Pyarepur/Sakuchi/Sarai).
+//    REJECT: ~Aug 2025, purana karyakaal (pre-term, chunav se pehle). Note: ye 10-crore/6-sadak wala karyakram hai.
+// 2. Desh News Bharat (dnbbharat.com/?p=493234) — Silav prakhand Haldinagar me ~Rs 58 lakh ki sadak ka udghatan + Durgapur me ~Rs 98 lakh ki sadak ka shilanyas.
+//    REJECT: ~Aug 2025, pre-term.
+// 3. Lalluram, 28 Sep 2025 — OPENED + READ FULLY. Pavapuri nagar panchayat me ~Rs 27 lakh ki street-light yojana + Ranisarai me ~Rs 7.73 crore ki Sakri nadi pul ka shilanyas.
+//    URL: https://lalluram.com/jdu-mla-kaushal-kishore-gave-a-big-gift-to-rajgir-assembly-constituency/ (Published: 2025-09-28T19:21:13+05:30, metadata se verify)
+//    REJECT: pre-term (Nov 2025 chunav se pehle) — purane 2020-25 karyakaal ka kaam, nahi lena.
+// 4. ETV Bharat, 20 Feb 2025 — CM Nitish Kumar ne Nalanda me Rs 820 crore ki 250 yojnaon ka udghatan/shilanyas kiya; Rajgir vidhayak sirf bayaani maujoodgi.
+//    URL: https://www.etvbharat.com/hi/!state/bihar-cm-nitish-kumar-on-nalanda-visit-under-pragati-yatra-bihar-news-brs25022001360
+//    REJECT: pre-term + CM ke karyakram me sirf maujoodgi (MLA ka apna kaam nahi).
+// 5. Amar Ujala, 5 Aug 2025 — CM Nitish ne Salepur-Rajgir four-lane highway (Rs 862.63 crore) ka shilanyas + Hassanpur ROB (Rs 81.37 crore) ka udghatan kiya.
+//    URL: https://www.amarujala.com/bihar/patna/bihar-chief-minister-laid-the-foundation-stone-of-salepur-rajgir-four-lane-highway-2025-08-05
+//    REJECT: pre-term + CM ka karyakram; MLA ki concrete bhoomika nahi — shrey nahi.
+// 6. public.app video, pre-chunav — Silaw me JDU karyalaya ka udghatan (sansad Kaushalendra Kumar + vidhayak maujood).
+//    URL: https://public.app/video/sp_s2avq6wnj44ps
+//    REJECT: public.app-only + party karyalaya, vikas-kaam nahi.
+// 7. public.app video, 12 Dec 2025 — Deep Jyoti Kalyan Sansthan ne Mahuri (Silaw) me 25 chhatraon ko cycle baanti; vidhayak udghatan me shamil.
+//    URL: https://public.app/video/sp_8gd7eih67dpiu
+//    REJECT: public.app-only + NGO ka karyakram, MLA sirf mukhya-atithi maujoodgi; apna kaam/nidhi/sanction nahi.
+// 8. public.app video, 26 Sep 2026 — Patna snaatak chunav NDA maha-samvaad (Pawapuri Jal Mandir sabhagar), vidhayak ne deep jalkar shuruaat ki.
+//    URL: https://public.app/video/sp_ntrqwlz0t155u
+//    REJECT: public.app-only + raajnaitik karyakram, vikas-kaam nahi.
+// 9. YouTube, ~Sep 2025-era — "JDU vidhayak par Nal-Jal yojana rokne ka aarop, dalit parivar pyase" (Rajgir nagar parishad ward 22, Gandhi Tola).
+//    URL: https://www.youtube.com/watch?v=rJbCIsNDHqc
+//    REJECT: YouTube-only + negative-entry rule ke andar nahi — established/credible reporting nahi; aarop ke saath FIR/case/adalaati ya adhikarik janch-karyavahi ki koi sthiti reported nahi (video ke apne description me bhi vibhag ka jawab hai: TS No. 38/2001 zameen-vivad court me lambit). Violation nahi bana.
+// 10. Bhaskar, 5 Apr 2026 — Lucknow Sarojini Nagar me CC road shilanyas; "poorv kendriya rajya mantri Kaushal Kishore" ke sahyog se.
+//     URL: https://www.bhaskar.com/local/uttar-pradesh/lucknow/sarojini-nagar/news/sarojini-nagar-development-work-inauguration-badali-kheda-cc-road-137619768.html
+//     REJECT: galat vyakti (Lucknow ke poorv kendriya mantri Kaushal Kishore) + kshetra se bahar (UP).
+// 11. LiveHindustan, Nov 2025 — chunav-parinam coverage (55,428 maton se record jeet, doosri baar vidhayak).
+//     URL: https://www.livehindustan.com/bihar/biharsharif/story-kaushal-kishore-wins-rajgir-assembly-election-with-record-votes-defeats-harinarayan-singh-201763205168487.html
+//     REJECT: chunav coverage, koi vikas-kaam nahi. (Profile me karyakaal-bhoomika ka saboot ke roop me note zaroori nahi.)
+// Conclusion: NO qualifying entry. Profile KHAALI rahegi.
+
+biharWorks['ruhail-ranjan'] = [];
+
+// ===================== REJECT-LOG: Ruhail Ranjan (ruhail-ranjan, Islampur AC-174) =====================
+// (First-time MLA; 2020 me is seat par RJD ke Rakesh Raushan jeete the — purane karyakaal ka koi kaam applicable nahi.)
+// 1. LiveHindustan, ~mid-Aug 2026 — OPENED + READ FULLY. Vidhayak ne kendriya sadak mantri Nitin Gadkari ko patra saunpkar Fatuha-Ekangarsarai-Islampur-Jahanabad Hulasganj sadak (~50 km) ko four-lane me vikasit karne ki MAANG ki.
+//    URL: https://www.livehindustan.com/national/story-islamapur-mla-requests-four-lane-development-of-key-road-201786197589974.html
+//    REJECT: sirf maang/gyapan — "ummeed hai ki is sambandh me pahal ki jayegi", koi swikriti/order/GO ya parinam nahi. (YouTube Rashtriya Samachar ka same-maang wala video bhi YouTube-only + sirf maang, reject: https://www.youtube.com/watch?v=XQqjRAKXWjI)
+// 2. LiveHindustan, ~mid-Aug 2026 — kendriya krishi mantri Shivraj Singh Chouhan se milkar Islampur kshetra me krishi vishwavidyalaya sthapit karne ki MAANG (patra diya).
+//    URL: https://www.livehindustan.com/national/story-agricultural-development-mla-ruhail-ranjan-advocates-university-in-islamapur-201786375768597.html
+//    REJECT: sirf maang/charcha, koi swikriti ya adhikarik parinam nahi.
+// 3. Jagran, ~Feb 2026 — vidhan sabha me poorak prashn: SH-4 (Daniyawan-Hulasganj, ~44 km) aur SH-71 (Islampur-Rajgir, ~40 km) ko four-lane karne ki MAANG uthayi.
+//    URL: https://www.jagran.com/bihar/nalanda-demand-for-four-laning-sh-4-and-sh-71-in-bihar-assembly-40139643.html
+//    REJECT: sadan me sirf maang uthana — koi documented parinam/adhikarik karyavahi nahi.
+// 4. LiveHindustan, 30 Nov 2025 — Islampur shahar Kali Sthan mohalle me vidhayak ke Jan Sampark Karyalaya ka udghatan (nav-nirvachit vidhayak).
+//    URL: https://www.livehindustan.com/bihar/biharsharif/story-islampur-mla-launches-public-office-to-address-citizens-complaints-201764503786135.html
+//    REJECT: apna karyalaya — vikas-kaam nahi.
+// 5. LiveHindustan, 4 Dec 2025 — Dariyapur gaon (Islampur prakhand) me naya petrol pump khula; vidhayak karyakram me shamil, rozgar ka bayan diya.
+//    URL: https://www.livehindustan.com/bihar/biharsharif/story-local-youth-employment-boosted-with-new-petrol-pump-in-dariyapur-mla-ruhail-ranjan-201764866334088.html
+//    REJECT: private vyapar (sanchalak Ramkrishna Singh) ka udghatan me mukhya-atithi maujoodgi; vidhayak ka apna kaam/nidhi/sanction nahi.
+// 6. LiveHindustan, ~Feb 2026 — JDU neta Kaushal Yadav ne vidhayak ko gyapan saunpkar Kosiyawan panchayat me 1 km sadak banwane ki maang ki.
+//    URL: https://www.livehindustan.com/bihar/biharsharif/story-jdu-leader-kaushal-yadav-urges-local-mla-for-road-construction-to-alleviate-traffic-issues-201771950659947.html
+//    REJECT: doosre neta ne MLA se maang ki — maang uthana, koi kaam/outcome nahi.
+// 7. Bihar Bhawan Newsletter, Apr 2026 (biharbhawan.gov.in) — Apex Committee ki doosri baithak (11 Mar 2026, New Delhi) me vidhayak Ruhail Ranjan shamil hue (Bihar tech-hub roadmap charcha).
+//    URL: https://www.biharbhawan.gov.in/docs/eMagazine/Newsletter_Apr_2026.pdf
+//    REJECT: state-level neeti-baithak me sirf maujoodgi — kshetra ka koi concrete kaam nahi.
+// 8. YouTube — "Islampur ko industry hub banane ke liye jo karna padega wo karunga" (Ruhail Ranjan bayan).
+//    URL: https://www.youtube.com/watch?v=qWk4sd1lIXc
+//    REJECT: YouTube-only + "karenge" vaada, koi kaam nahi.
+// 9. News18/Financial Express/India.com, Nov 2025 — chunav-parinam + profile coverage (Stanford/San Jose State alumnus, businessman, 1,00,487 vote se jeet).
+//    REJECT: background/chunav coverage, koi vikas-kaam nahi.
+// Conclusion: NO qualifying entry. Profile KHAALI rahegi — 11 mahine ke karyakaal me sabootit shilanyas/lokarpan/swikriti ki khabar nahi mili.
+
+biharWorks['krishna-murari-sharan'] = [];
+
+// ===================== REJECT-LOG: Krishna Murari Sharan (krishna-murari-sharan, Hilsa AC-175) =====================
+// ("Prem Mukhiya" naam se bhi search kiya gaya; 2020-25 ke purane karyakaal ke kaam nahi liye.)
+// 1. LiveHindustan, ~May 2026 — Berthu Plus Two High School (Karayparsarai prakhand) me vidyalaya prabandh samiti ki baithak me vidhayak ne medhavi chhatron ko sammanit kiya; "vikas karyon par charcha" hui.
+//    URL: https://www.livehindustan.com/bihar/biharsharif/story-students-honored-by-mla-krishna-murari-sharan-school-development-meeting-held-201779795334927.html
+//    REJECT: samman-samaroh + charcha — koi documented kaam/swikriti/shilanyas nahi.
+// 2. LiveHindustan, 11 Jan 2026 — Rajwan gaon (Hilsa) me JDU sadasyata abhiyan me vidhayak ne sainkadon logon ko party ki sadasyata dilayi.
+//    URL: https://www.livehindustan.com/bihar/biharsharif/story-jd-u-membership-drive-in-hilsa-mla-krishna-murari-sharan-welcomes-hundreds-201768140411721.html
+//    REJECT: party karyakram, vikas-kaam nahi.
+// 3. Bhaskar — Hilsa Premier League ka udghatan (sansad Kaushalendra Kumar + vidhayak Prem Mukhiya + SDO sanyukt roop se).
+//    URL: https://www.bhaskar.com/amp/local/bihar/nalanda/hilsa/news/hilsa-premier-league-gets-off-to-a-great-start-136798981.html
+//    REJECT: khel tournament ke karyakram me mukhya-atithi maujoodgi; vidhayak ka apna kaam/nidhi/sanction nahi.
+// 4. kewalsachlive.in — Kidzee School Hilsa me food fest ka udghatan vidhayak ne deep prajwalit/feeta kaatkar kiya.
+//    URL: https://kewalsachlive.in/food-fest-was-organized-in-kidzie-school/
+//    REJECT: private school ke karyakram me ceremonial bhoomika; chhota local portal + koi vikas-kaam nahi.
+// 5. ajhindidaily.com, 2021-era — Nehru Yuva Kendra dwara aayojit Mahatma Gandhi swachhata abhiyan karyakram ka sansad+vidhayak ne deep prajwalit kar udghatan kiya.
+//    REJECT: pre-term (~5 saal purana) + sarkari karyakram me ceremonial maujoodgi.
+// 6. LiveHindustan, 5 Mar 2026 — CM awas (1 Anne Marg, Patna) ke paas bawaal: Nitish ke Rajya Sabha jane ki charcha par JDU karyakartaon ne vidhayak ki gadi ko gher liya, thappad mare.
+//    URL: https://www.livehindustan.com/bihar/chaos-near-cms-residence-jdu-workers-attack-hilsa-mlas-car-prem-mukhiya-returns-201772685851848.html
+//    REJECT: raajnaitik khabar, koi vikas-kaam nahi.
+// 7. LiveHindustan, 17 Oct 2025 — "Prem Mukhiya ki sampatti 5 saal me dhai guna badhi, 7.84 crore ke malik" (halafnama-based).
+//    URL: https://www.livehindustan.com/bihar/biharsharif/story-bihar-mla-prem-mukhiya-s-wealth-surges-2-5-times-to-7-84-crore-in-5-years-201760719829826.html
+//    REJECT: pre-chunav background piece; koi vikas-kaam nahi (aur koi aarop/FIR/janch ki sthiti reported nahi — negative entry ke liye bhi qualify nahi).
+// 8. public.app video — Parwalpur: "Hilsa ke vidhayak Prem Mukhiya ne vikas ko prathamikta bataya, baadh-sukhad samadhan par zor".
+//    URL: https://public.app/video/sp_k2m7j8g7a06ny
+//    REJECT: public.app-only + sirf agenda/"karenge" bayan (agami 5 saal ki prathamiktayein), koi kaam nahi.
+// 9. Prabhat Khabar, Oct 2025 — namankan coverage (Hilsa se JDU pratyashi ke roop me parcha); LiveHindustan Oct 2025 jan-sampark abhiyan coverage.
+//    URL: https://www.prabhatkhabar.com/state/bihar/biharsharif/six-people-including-ruhel-filed-nominations-from-islampur
+//    REJECT: chunav/namankan coverage, koi vikas-kaam nahi.
+// Conclusion: NO qualifying entry. Profile KHAALI rahegi — dobara jeete hue MLA hain lekin is 11-mahine ke karyakaal me sabootit kaam ki khabar nahi mili.
+
+biharWorks['shrawon-kumar'] = [];
+
+// REJECT-LOG (shrawon-kumar): Bhaskar + Prabhat Khabar 22 Sep 2025 (Somvar): Nalanda AC me Rs 7.06 crore ki 12 yojnaon (6 Gramin Karya Vibhag sadak + 6 vidhayak-mad: Akauna/Kutlupur/Nohsa/Laxmi Bigha me PCC/chhath-ghat/chabutra) ka karyarambh-shilanyas — PRE-TERM (chunav se pehle; article me Navratri 2025 me mahila kist ka zikr), reject; hindustanmanthan/impressivetimes Sep 2026: Mahabodhi College building ka udghatan poorv-CM Nitish Kumar dwara, Shrawon Kumar mehmaan ke roop me maujood — CM karyakram me sirf maujoodgi + khabar pre-event announcement thi, reject; impressivetimes 12 Aug 2026: Abhiyan Basera-2 ke tahat Ben block me 21 bhoomihin parivaron ko 3-decimal patta vitran — mantri ke roop me rajya-yojna ka vitran, seat-level kaam nahi, reject; dnbbharat ~Sep 2026: Biharsharif block HQ me rozgar mela ka udghatan — karyakram-udghatan, vikas-kaam nahi, reject; impressivetimes 12 Aug 2026: Silao (Nalanda heritage site) me Har Ghar Tiranga NCC pledge karyakram me chief guest — sirf karyakram, reject; insiderlive Oct 2026: Nalanda NDA sabha (MLC chunav) me maujoodgi — siyasi karyakram, reject; ETV Bharat 8 May 2026: mantri-priority interview ("Nitish ke sankalp poore karenge", 1 crore pakke makaan) — "karenge" bayan, koi stage nahi, reject; asiantimes/bhaskarhindi Apr 2026: JDU vidhayak-dal neta chayan + Y+ suraksha — political news, reject; public.app 18 Mar 2026: Ben block-cum-anchal karyalaya awasiya bhavan shilanyas Rs 123.57 lakh — public.app-only, reject; nayabihar.live 17 Jul 2026: Chandausi panchayat me Sardar Patel pravesh-dwar shilanyas (15vi Vitt Aayog Panchayati Raj yojna; Patna dateline) — mantri-bhoomika ka rajya-yojna event, kshetra se bahar, reject; bhaskar (Rajasthan): Singhana (Jhunjhunu) me Kumbharam nahar pariyojna tubewell shilanyas "vidhayak Shravan Kumar" dwara — alag vyakti (Rajasthan MLA), reject; prabhatkhabar/jagran Oct 2026: sipahi-bharti farziwade me giraftar "Shravan Kumar" (25) — alag vyakti (Patna ka aaropi, EOU case), reject; jansatta/news18 Nov 2025: Nalanda chunav parinam (1,05,432 vote, 33,008 se jeet) — election news, reject; koi qualifying negative reporting nahi mili.
+
+biharWorks['hari-narayan-singh'] = [];
+
+// REJECT-LOG (hari-narayan-singh): bhaskar 9 Sep 2025: Harnaut nagar panchayat ke Rupsapur gaon me shahri up-swasthya kendra ka udghatan (fita katkar; maang Aug me CM karyakram me hui thi) — PRE-TERM (chunav se pehle; public.app date-stamp 9 Sep 2025; Bhaskar search-meta ~400 din purana), reject; livehindustan Nov 2025 (3 articles: 10vi jeet, Kalyan Bigha jashn, vijayadashmi) — election news, reject; millenniumpost 8 Mar 2026: Nishant ko deputy CM banane ka dawa — political bayan, reject; indiatvnews Mar 2026: Nishant JDU join — political, reject; patnapress Nov 2025: pro-tem speaker race speculation — political, reject; livehindustan 4 Jan 2026: poorv-mantri Harinarayan Singh ki 4th punyatithi (Jagdishpur, Arrah) — alag vyakti (deceased poorv mantri), reject; jagran ~Oct 2025: Harnaut me JDU ticket-virodh (Sanjaykant Singh ka bayan) — pre-term siyasi khabar, reject; livehindustan ~Aug 2026: Chandi me block kriyanvayan samiti baithak (counter-case par bayan) — sirf baithak/bayan, reject; nalandalive.com ~2020: Kalyan Bigha ground report (vidhayak se narazgi) — pre-term (2020) + FIR/case ke bina aam shikayat, reject; pinewz Sep 2025: Harnaut seat chunavi analysis — pre-term election coverage, reject; public.app: Rupsapur udghatan ka public.app version — public.app-only + pre-term, reject; oneindia/thehindu bio-affidavit: 2020 halafname me zero criminal cases (2011 me 2000 ka Sec 144 case) — sirf affidavit record, koi qualifying negative reporting nahi; casemine: "Har Narayan Singh" land-dispute writ petitioner — alag vyakti + civil matter, reject; TOI: Hari Narayan Rajbhar (Ghosi ex-MP) fraud case — alag vyakti, reject.
+
+// Coordinator QA note (Nalanda batch, 2026-10-14): worker fragments self-syntax-checked; coordinator ne file A ko poora padha aur spot-verify kiya — schema exact (title pure Roman-Hinglish vakya, currency "Rs", categories/stages/badges valid, period '2025-2030'), Devanagari/₹/escaped-newline zero, sourceUrls canonical. Jitendra Kumar ke dono kaam (shilanyas + lokarpan) ek hi post-event report ke do alag kaam hain — Vijay Kumar Sinha Barahia precedent par rakhe. Dr Sunil Kumar entry-1 me pichhle-karyakal ki anushansa ki jad disclose hai, shilanyas 1 Jan 2026 (vartaman karyakal) — Birendra Singh Wazirganj precedent pattern par rakha. B aur C fragments me 6/6 profiles khaali (43 rejects, sab pre-term/maang/maujoodgi/ceremonial/galat-vyakti); reject-logs me har item ke saath URL + wajah.
