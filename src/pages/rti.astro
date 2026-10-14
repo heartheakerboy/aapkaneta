@@ -27,6 +27,10 @@ const mpAssembly = allConstituencies
   .filter(c => c.type === 'Vidhan Sabha' && (c as any).state === 'Madhya Pradesh')
   .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
 const mpDistricts = [...new Set(mpAssembly.map(c => c.district))].sort();
+const bihAssembly = allConstituencies
+  .filter(c => c.type === 'Vidhan Sabha' && (c as any).state === 'Bihar')
+  .sort((a, b) => a.district.localeCompare(b.district, 'en') || (a.number ?? 0) - (b.number ?? 0));
+const bihDistricts = [...new Set(bihAssembly.map(c => c.district))].sort();
 
 function netaFor(state: string, slug: string): string {
   const n = allNetas.find(n => ((n.state ?? 'Maharashtra') === state) && n.tenures.some(t => t.constituencySlug === slug));
@@ -78,13 +82,13 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
     <div class="wrap r-hero-grid">
       <div>
         <h1>File RTI</h1>
-        <p>Maharashtra, Gujarat, Rajasthan, Uttar Pradesh, Delhi aur Madhya Pradesh me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>1373 seaton</b> ke liye taiyaar template hai — apna rajya aur jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
+        <p>Maharashtra, Gujarat, Rajasthan, Uttar Pradesh, Delhi, Madhya Pradesh aur Bihar me MLA fund ka record online nahi milta — isliye RTI hi rasta hai. Neeche <b>1616 seaton</b> ke liye taiyaar template hai — apna rajya aur jila chunein, template copy karo, apna naam-pata bharke sambandhit adhikaari ko bhejo. Jawab aate hi humein bhejo — "RTI Verified" badge ke saath site par publish hoga.</p>
       </div>
       <div class="r-hero-card">
         <b>RTI Drive</b>
         <div class="r-hero-stats">
-          <div><strong>1373</strong><span>seats</span></div>
-          <div><strong>1373</strong><span>templates</span></div>
+          <div><strong>1616</strong><span>seats</span></div>
+          <div><strong>1616</strong><span>templates</span></div>
           <div><strong>₹10</strong><span>fees</span></div>
         </div>
         <p>Jawab 30 din me aata hai. Scan bhejo — verification ke baad neta ke profile par lagega.</p>
@@ -101,7 +105,7 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
       <div class="card"><b>4. Jawab humein bhejo</b><p style="font-size:14.5px;color:var(--ink-soft)">30 din me jawab aayega. Scan humein bhejo — verification ke baad neta ke profile par lagega.</p></div>
     </div>
 
-    <h2 class="section-title">1373 seaton ke taiyaar templates</h2>
+    <h2 class="section-title">1616 seaton ke taiyaar templates</h2>
     <div class="filter-bar">
       <select id="stateFilter" aria-label="Rajya chunein">
         <option value="Maharashtra">Maharashtra (288)</option>
@@ -110,6 +114,7 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
         <option value="Uttar Pradesh">Uttar Pradesh (403)</option>
         <option value="Delhi">Delhi (70)</option>
         <option value="Madhya Pradesh">Madhya Pradesh (230)</option>
+        <option value="Bihar">Bihar (243)</option>
       </select>
       <select id="distFilter" aria-label="Jila chunein">
         <option value="">Saare jile</option>
@@ -171,6 +176,15 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
         <pre class="tpl-body" id={`tpl-mp-${c.slug}`}>{templateFor('Madhya Pradesh', c)}</pre>
       </div>
     ))}
+    {bihAssembly.map(c => (
+      <div class="card tpl" data-state="Bihar" data-district={c.district} data-seat={'bih-' + c.slug} data-name={c.name.toLowerCase()} id={`tpl-card-bih-${c.slug}`}>
+        <div class="tpl-head">
+          <h3>{c.name} <span class="dist-tag">({c.district}{c.number ? ` — No. ${c.number}` : ''})</span></h3>
+          <button class="copy-btn" data-tpl={'bih-' + c.slug}>Copy karo</button>
+        </div>
+        <pre class="tpl-body" id={`tpl-bih-${c.slug}`}>{templateFor('Bihar', c)}</pre>
+      </div>
+    ))}
     <p style="font-size:14px;color:var(--ink-soft);margin:24px 0 8px">
       Note: Ye template nagrik-shiksha ke liye hai. RTI lagane se pehle <a href="https://www.instagram.com/rtibyfiroz/" rel="noopener">@rtibyfiroz</a> par RTI ki sahi prakriya samajh lein.
     </p>
@@ -178,6 +192,7 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
     <script type="application/json" id="upDistricts">{JSON.stringify(upDistricts)}</script>
     <script type="application/json" id="delhiDistricts">{JSON.stringify(delhiDistricts)}</script>
     <script type="application/json" id="mpDistricts">{JSON.stringify(mpDistricts)}</script>
+    <script type="application/json" id="bihDistricts">{JSON.stringify(bihDistricts)}</script>
   </div>
 
   <script is:inline>
@@ -193,7 +208,8 @@ function templateFor(state: string, c: { slug: string; name: string; district: s
         'Rajasthan': JSON.parse(document.getElementById('rajDistricts').textContent),
         'Uttar Pradesh': JSON.parse(document.getElementById('upDistricts').textContent),
         'Delhi': JSON.parse(document.getElementById('delhiDistricts').textContent),
-        'Madhya Pradesh': JSON.parse(document.getElementById('mpDistricts').textContent)
+        'Madhya Pradesh': JSON.parse(document.getElementById('mpDistricts').textContent),
+        'Bihar': JSON.parse(document.getElementById('bihDistricts').textContent)
       };
 
       function rebuildDistricts() {
