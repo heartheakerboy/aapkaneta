@@ -3960,3 +3960,132 @@ tamilNaduWorks['r-jayaramakrishnan'] = [];
 // 15. SEAT-WORK NATIJA: ~12 targeted search rounds (news + general; inauguration/foundation-stone/sanction/works/assembly angles; variant spellings Jeyaramakrishnan/Jayaramakrishna) ke baad May-Oct 2026 me English press me Madathukulam seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry NAHI mili — khaali profile imaandar hai (DMK vipaksh; sabha sirf ~5 mahine purani).
 
 // ---- Coordinator QA note (Tiruppur, 2026-10-15): 8/8 MLA researched, sabhi profiles imaandari se khaali (0 entries, 0 negatives). Naam-traps sakhti se pakde gaye: Sathyabama.P (Dharapuram) vs V.Sathyabama (Tiruppur North) — dono alag mahilayen; Sathyabama.P ka AIADMK karyakaal sirf ~2 hafte ka tha, TVK shapath 12 Oct 2026 ko hui; kamali-s = Animal Husbandry Minister (21 May 2026 se) — sab coverage portfolio-level; S. Jayakumar (AIADMK, Perundurai) ka election-petition M. Jayakumar (Udumalaipettai) par nahi chadha; "Balamurugan" naam ke sab hits galat-vyakti/pre-term nikle. Sabha ~5 mahine purani hai — English press me in aathon seats par satyapit seat-level kaam ki reporting practically absent hai. Hygiene: 0 Devanagari/Tamil script, 0 Rs-symbol, sab slugs append se pehle 0 matches (koi overwrite nahi); tsc+build parent-level QA me dobara verify honge. ----
+// ---- Tiruvannamalai district batch (researched 2026-10-15) ----
+
+// ---- Tiruvannamalai district batch: s-velu (AC order) ----
+
+tamilNaduWorks['s-velu'] = [];
+
+// REJECT-LOG (s-velu — Chengam SC, Tiruvannamalai; AIADMK; office 11 May 2026; 87,802 votes, margin 13,278 vs TVK K Bharathidhasan)
+// 1. Chunav coverage (TOI/Business Today/ABP/Oneindia/IndiaStats, May 2026) — S Velu (kabhi-kabhi "T S Velu"/"T.S. Velu" naam se) Chengam se jeete; pre-term, koi kshetra-kaam nahi. REJECT.
+// 2. Galat-vyakti trap — DVAC lake-bed excavation FIR (24 Sep 2026) E V Velu + bete E V Kumaran ke khilaf (Malappambadi lake, DMK conference Dec 2025; DT Next/New Indian Express/The Hindu/The Federal); HC ne interim relief bhi deny ki. Ye E V Velu (DMK MLA, Tiruvannamalai sheher, poorv PWD mantri, mukhya whip) hain — Chengam ke S Velu nahi. REJECT.
+// 3. Galat-vyakti trap — DVAC highways tender FIR (25 Jun 2026) aur disproportionate-assets raids E V Velu ke khilaf (DT Next/The News Minute, 2026) — wahi DMK E V Velu; Chengam MLA se koi sambandh nahi, negative nahi. REJECT.
+// 4. Galat-vyakti trap — Madras HC ne chunav-yachika notices bheje (7 Jul 2026, The Hindu) jisme "Tiruvannamalai DMK MLA E V Velu" ka naam — S Velu ka nahi; vaise bhi chunav-yachika akeli negative nahi. REJECT.
+// 5. Galat-vyakti trap — Minister Velu dwara Anaicut road-widening (Nov 2025, New Indian Express) aur interim-budget Assembly inspection (Feb 2026, Lokmat) — dono E V Velu (tab PWD mantri); wrong person + pre-term. REJECT.
+// 6. Galat-vyakti trap — SP Velumani DVAC raids (The News Minute, purana case) — bilkul alag AIADMK neta. REJECT.
+// 7. Galat-vyakti trap — Sulur pond desilting inauguration par stone hurled (New Indian Express, Sep 2026) — wo Sulur MLA ka karyakram, Velu ka nahi. REJECT.
+// 8. CM Stalin dwara 11 road projects ka lokarpan (Mar 2026, DT Next) — pre-term (office 11 May 2026 se); ministerial sarkari karya, MLA attribution nahi. REJECT.
+// 9. The Hindu "Chengam residents demand regular water supply for irrigation, job creation" (pre-poll Feb 2026) — sirf kshetra-mangein; S Velu tab MLA nahi the. REJECT.
+// 10. News-vertical + 9 round targeted searches (TOI, DT Next, The Hindu, New Indian Express, The News Minute, South First, Deccan Herald) me May 2026+ ke S Velu dwara lokarpan/shilanyas/swikriti/ghoshna/kshetra-kaam ki koi established English reporting nahi mili. AIADMK vipaksh me hai (TVK sarkar), 5 mahine purana karyakaal — imaandari se profile khaali rakhi jaa rahi hai.
+
+// ---- Tiruvannamalai district batch: velu-e-v (AC order) ----
+
+tamilNaduWorks['velu-e-v'] = [
+  { title: 'E.V. Velu par DVAC FIR (25 Jun 2026) - 2022 ke road-works me contractor ko adhoore kaam par Rs 3.23 crore payment ka aarop; HC ne giraftari par rok lagayi, janch jaari', note: 'Aarop (Arappor Iyakkam ki shikayat, 2022): Highways Department ne contractor Sankaranand Infra ko road works ke adhoore rehne par bhi payment kiya - March 2022 me Karur ke road works ka contract lagbhag Rs 7 crore ka diya gaya, lekin 25 aur 28 March ko Rs 3.23 crore release kar diye gaye jabki kaam adhoora tha; do NABARD-funded road projects me bhi lagbhag Rs 1.5 crore ka payment bina kaam poore kiye. FIR: DVAC Special Investigation Cell, Crime No. 3/2026, 25 Jun 2026; criminal conspiracy, cheating, breach of trust, forgery + Prevention of Corruption Act provisions; Velu (tab Lok Nirman, Highways aur Minor Ports ke mantri), 10 Highways officials aur contractor naamzad; State government ki sanction ke baad FIR; 14 jagah chhaape (Chennai, Tiruvannamalai, Karur, Dindigul, Coimbatore, Tirupur). Nayi sthiti: kathit kaam 2022 ke (pre-term mantri-kaal) lekin FIR, chhaape aur court proceedings sab May 2026 ke baad. HC (Justice G.K. Ilanthiraiyan): 9 Jul 2026 ko look-out circular par stay (shart: 15 Jul ko DVAC ke saamne enquiry ke liye pesh hon) aur giraftari par rok 28 Jul tak; 28 Jul 2026 ko LOC quash, DVAC ko janch jaari rakhne aur Velu ko summon karne ki chhoot, interim protection badhai gayi. Velu ka jawab (Sr Adv Siddharth Luthra): PC Act Section 17A ke tahat valid sanction nahi li gayi; sadak baad me ban gayi thi; shikayat 4 saal latki rahi aur sarkar badalte hi FIR hui - political timing ka tark.', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'DT Next', sourceUrl: 'https://www.dtnext.in/news/tamilnadu/dvac-carrying-out-raids-at-premises-linked-to-ev-velu-of-dmk', date: '2026-06-25' },
+  { title: 'Malappambadi lake-bed khudai case (DVAC FIR 24 Sep 2026; Rs 8.22 crore nuksaan ka aarop; anticipatory bail par sunvai)', note: 'Aarop (Arappor Iyakkam ki shikayat, Aug 2026): DMK ke Northern Zone Youth Wing Conference (14 Dec 2025, Kalaignar Thidal, Malappambadi gaon) ke liye venue level karne ko Malappambadi lake (70.65 acre) ke lagbhag 8-12 acre hisse me 10-23 feet gehri khudai ki gayi; Revenue, Corporation aur Geology and Mining se koi permission nahi thi; Collector ke June 2024 ke notification me ye lake shaamil nahi thi; lagbhag 45.72 lakh cubic feet lake-bed material excavator aur truck se nikaal kar venue par dala gaya; estimated sarkari nuksaan Rs 8.22 crore. Venue ki 124.56 acre zameen Arunai Products and Services Pvt Ltd ki hai jisme Velu ke bete E.V. Kumaran director hain. FIR: DVAC Tiruvannamalai, 24 Sep 2026; BNS sections + Prevention of Corruption Act; Velu, Kumaran, public servants, contractors aur private persons naamzad; prima facie criminal conspiracy aur public servants ki criminal misconduct. Nayi sthiti: kathit kaam Nov-Dec 2025 ke (pre-term mantri-kaal) lekin FIR aur court proceedings sab May 2026 ke baad. HC (Justice V. Lakshminarayanan): 9 Oct 2026 ko anticipatory bail applications par DVAC ko 15 Oct tak koi harassment na karne ka oral nirdesh; 14 Oct ko police ne HC ko bataya Velu ke khilaf koi look-out notice jaari nahi hua - unki petition dispose, Kumaran ki petition 15 Oct ko. Velu ka jawab (advocate Rahul Balaji): FIR me Velu ko khudai se jodne wala koi order, instruction, communication ya payment ka ullekh nahi; unhe sirf bete ke saath rishte ke aadhaar par mamle me ghaseeta gaya.', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'DT Next', sourceUrl: 'https://www.dtnext.in/news/tamilnadu/dvac-books-former-minister-ev-velu-son-over-lake-bed-excavation', date: '2026-09-27' },
+];
+
+// REJECT-LOG (velu-e-v - Tiruvannamalai AC, Tiruvannamalai; DMK; office ~11 May 2026; pehchan: TOI election page + Indian Express 16 Sep 2026 - Velu E.V (DMK) Tiruvannamalai se 88,273 votes jeete, margin 2,455)
+// REJECT-LOG (velu-e-v - Tiruvannamalai AC, Tiruvannamalai; DMK; office ~11 May 2026; pehchan: TOI election page + Indian Express 16 Sep 2026 - Velu E.V (DMK) Tiruvannamalai se 88,273 votes jeete, margin 2,455)
+// 1. Meyyur Govt Convention Centre Rs 4 cr shilanyas (The Hindu, 4 Jan 2026) - pre-term (minister-kaal). REJECT.
+// 2. Jamunamarathur-Amirthi 39 km road widening Rs 103 cr shilanyas (Afternoonnews, ~Feb 2026) - pre-term. REJECT.
+// 3. Polur-Chengam 4-lane Rs 60 cr launch (Afternoonnews, ~Dec 2025) - pre-term. REJECT.
+// 4. Chengam/Thandrampattu/Kilsirupakkam 3 bypass roads Rs 90 cr shilanyas (The Hindu, ~Feb 2026) - pre-term. REJECT.
+// 5. 2 NABARD high-level bridges Rs 12.87 cr lokarpan (Afternoonnews, ~Oct 2025) - pre-term. REJECT.
+// 6. Rs 34 cr bus terminus flag-off (The Hindu, ~Jan 2026; CM ne 27 Dec 2025 ko inaugurate kiya tha) - pre-term. REJECT.
+// 7. Rs 1,843 cr road projects incl. Tiruvannamalai 4-lane (DT Next, 14 Mar 2026) - pre-term; lokarpan CM ne kiya, Velu sirf maujood. REJECT.
+// 8. Agricultural exhibition taiyaari ka nirikshan (IndiaHerald) - sirf nirikshan/daura, koi kaam nahi. REJECT.
+// 9. "Stalin Reviews Development Works in Tiruvannamalai" (IndiaHerald) - CM ka karyakram, Velu ka koi bhumika/attribution nahi. REJECT.
+// 10. Hospital/PHC facilities lokarpan (medicalbuyer, ~2024) - lokarpan Health Minister ne kiya; Velu sirf saath maujood. REJECT (galat-vyakti trap bhi sambhav - Ma Subramanian).
+// 11. Cheyyar river 3 bridges shilanyas + I-T searches (webjosh, ~2023) - bahut purana pre-term. REJECT.
+// 12. Chunav-yachika kharij (Indian Express, 16 Sep 2026) - chunav-yachika akeli negative nahi banti, aur kharij bhi ho gayi. NO ENTRY.
+// 13. DVAC searches at MP C.N. Annadurai premises (The Hindu, 25 Sep 2026) - Tiruvannamalai MP ke khilaf alag case; Velu se seedha sambandh nahi. REJECT.
+// 14. Police deny lookout notice (News Today, 14 Oct 2026) - entry 2 ka status update, alag entry nahi. NO SEPARATE ENTRY.
+// 15. 5 round English news searches me May 2026 ke baad MLA ke koi lokarpan/shilanyas/swikriti ki established reporting nahi mili - DMK vipaksh me hai (TVK sarkar), isliye sarkari kaam unke naam par aane ki sambhavna kam; profile ke vikas-kaam wala hissa imaandari se khaali, sirf 2 negatives (dono me FIR/sthiti/jawab spasht).
+
+// ---- Tiruvannamalai district batch: ramachandran-s (AC order) ----
+
+tamilNaduWorks['ramachandran-s'] = [];
+
+// REJECT-LOG (ramachandran-s — Kilpennathur, AIADMK, Tiruvannamalai)
+// Profile empty — kaam ki koi post-May-2026 khabar established media me nahi mili.
+// 1. YouTube "AIADMK former minister S. Ramachandran files nomination" (nomination March 2026): pre-term election activity — works nahi; "former minister" label bhi verify nahi hua.
+// 2. The Hindu "Loyalties swing left and right in Tiruvannamalai" (pre-poll 2021): election coverage — pre-term.
+// 3. The Hindu "TVK, AIADMK make inroads into Vellore, nearby districts" (5 May 2026): sirf result coverage, kaam nahi.
+// 4. TOI / Oneindia / BusinessToday / livechennai result pages (May 2026): sirf vote data — entry nahi.
+// 5. livechennai "DRINKING WATER TO PEOPLE IS A PRIORITY: STALIN" (Kilpennathur water scheme): 2008-11 era purani sarkar ka kaam — pre-term.
+// 6. The Hindu "Kilpennathur to become 11th taluk" (2016): purani sarkar ki ghoshna — pre-term.
+// 7. ourneta "Sevoor S. Ramachandran, AIADMK MLA from Arani": GALAT VYAKTI — ye Arani ke purv MLA aur purv HR&CE mantri hain, hamare Kilpennathur MLA se alag; trap se bacha.
+// 8. V&AC FIR Crime No.7/2026 (4 Sep 2026, Chennai municipal scam, Vikatan PDF): accused list me ye MLA nahi — juda nahi.
+// 9. TOI Coimbatore "Burglar S Ramachandran" (2024): GALAT VYAKTI — Pollachi/Madurai ka history-sheeter.
+// 10. livechennai by-election oath story (12 Oct 2026): Sathiyabama/Maragatham alag MLAs hain.
+// 11. Oneindia "Tamil Nadu MLAs With Criminal Cases": S. Ramachandran (Kilpennathur) par 0 cases; NDTV candidate page bhi "Cases: No" (assets Rs 24.5 crore, age 65, Class X) — koi negative nahi banta.
+// 12. DTNext "TN Assembly to adopt resolution seeking due share from Union taxes" (18 Jun 2026) aur NewsBytes VB-G RAM G resolution: Assembly-level faisle, kisi MLA ka vyaktigat kaam nahi.
+// 13. firsttender "annual maintenance of WRD tanks in kilpennathur section 2026-2027": sarkari tender, MLA se attribution nahi.
+// 14. News-vertical searches (multiple queries: inauguration, foundation stone, development, dtnext/thenewsminute/southfirst): May 2026+ ka koi lokarpan/shilanyas/swikriti reporting nahi mili. MLA opposition (AIADMK) me hai, sabha sirf ~5 mahine purani hai — imaandari se khaali rakha.
+
+// ---- Tiruvannamalai district batch: agri-krishnamurthy-s-s (AC order) ----
+
+tamilNaduWorks['agri-krishnamurthy-s-s'] = [];
+
+// REJECT-LOG (agri-krishnamurthy-s-s — Kalasapakkam AC, Tiruvannamalai; AIADMK; office 11 May 2026)
+// 1. Chunav coverage (TOI/ABP/Business Today/Oneindia, sab 4-5 May 2026) — Agri S. S. Krishnamurthy ne Kalasapakkam se 89,629 votes se jeeta (margin 26,740); pre-term, koi kshetra-kaam nahi. REJECT.
+// 2. AIADMK whip ke roop me vidhayi/political news (ap7am 26 May 2026 "horse-trading" aarop vs TVK; The Hindu 3 Jul 2026 deserters challenge; NDTV/Deccan Herald 14 Oct 2026 Speaker ke faisle ke khilaf petition) — sab rajneetik/vidhayi bhumika, kshetra-kaam nahi. REJECT (non-works).
+// 3. Indiaherald "Rs 19.92 crore high-level flyover, Kalasapakkam" — CM M.K. Stalin ko dhanyavaad; pre-May 2026 era ki story, MLA ka bhumika/attribution nahi, aur indiaherald AI-generated content farm lagta hai. REJECT.
+// 4. Galat-vyakti trap: 2026 me TVK candidate Elumalai P ke 51,666 votes — ye alag vyakti hain, Agri Krishnamurthy se koi sambandh nahi. REJECT.
+// 5. Pre-term works: V. Panneerselvam (2016-2021 Kalasapakkam MLA) ke road/dam/bridge items (livechennai archive) — purana karyakaal. REJECT.
+// 6. The Hindu affidavit: "Criminal Cases: Yes (1), 0 serious" — declared purana case, May 2026+ me koi nayi sthiti/established reporting nahi; negative nahi. REJECT.
+// 7. Chunav-yachika: koi established reporting nahi mili; akeli yachika negative nahi banti. REJECT.
+// 8. News-vertical + site-specific (The Hindu/DT Next/Indian Express/News Minute) rounds me May 2026 ke baad MLA ke lokarpan/shilanyas/swikriti/daura ki koi established English reporting nahi mili. Profile imaandari se khaali.
+
+// ---- Tiruvannamalai district batch: abishek-r (AC order) ----
+
+tamilNaduWorks['abishek-r'] = [];
+
+// REJECT-LOG (abishek-r — R. Abishek, TVK, Polur AC, Tiruvannamalai; research 15 Oct 2026)
+// 1. The Hindu, ~28 Aug 2026 — Collector flags off six bus services at Polur bus terminus; Polur MLA R. Abishek (TVK) was "present on the occasion". REJECT: sirf maujoodgi — buses part of 250 flagged off by CM C. Joseph Vijay in Chennai; Collector ne flag-off kiya; MLA ki dastavezi pahal/bhoomika nahi (https://www.thehindu.com/news/national/tamil-nadu/collector-flags-off-six-bus-services-in-tiruvannamalai/article71392941.ece).
+// 2. The Hindu candidate affidavit profile (pre-election) — Abishek R, age 30, postgraduate, profession Sun San Steels, assets 50.8L, 1 pending criminal case (1 serious IPC). REJECT as negative: pre-term affidavit matter, May 2026+ me koi nayi sthiti/prosecution development established press me report nahi.
+// 3. TVK MLA horse-trading / Rs 35cr poaching case (DT Next, NIE, LiveLaw, Jul-Aug 2026) — REJECT as negative: GALAT VYAKTI — shikayat Uthangarai ke TVK MLA N. Elaiyaraja ki thi, R. Abishek isme involve nahi report hue.
+// 4. YouTube-only videos (Sathiyam News, Sun News, Puthiyathalaimurai shorts, ~Jun-Jul 2026) — quarry inspection video, "MLA vaakuvaadam" argument clip, Oneindia Tamil interview. REJECT: YouTube-only source; inspection = sirf nirikshan; interview = self-dawa, established press reporting nahi.
+// 5. The Hindu (18 Apr 2026) — Polur pre-election issues piece (river interlinking, GH staffing, Sampathgiri temple road). REJECT: karyakaal se pehle ki khabar, kaam ki report nahi.
+// 6. TVK poaching CBI-probe PIL (Madras HC dismissed, 17 Jul 2026) — REJECT as negative: Elaiyaraja matter, Abishek se sambandhit nahi; PIL kharij bhi ho gayi.
+// 7. SEAT-WORK NATIJA: May-Oct 2026 me English press me Polur seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry (lokarpan/shilanyas/swikriti-bhoomi pujan) NAHI mili. TVK ki apni sarkar hone ke bavjood English sanskaranon me unke naam par koi vikas-kaam report nahi; sabha sirf ~5 mahine purani — khaali profile imaandari hai.
+
+// ---- Tiruvannamalai district batch: jayasudha-l (AC order) ----
+
+tamilNaduWorks['jayasudha-l'] = [];
+
+// REJECT-LOG (jayasudha-l, scope: May 2026+, Arani (AC 67), Tiruvannamalai jila)
+// Pehchan (seat/vote se pakki): L. Jayasudha (aka L. Jaya Sudha, L. Jayasudha Lakshmikanthan), born 19 June 1975, Polur; AIADMK. Arani AC 67 me 2026 chunav: 76,735 votes (33.34%), Mahalakshmi Govarthanan (DMK, 71,104) ko 5,631 votes se haraya; shapath 6 May 2026. Pehle Polur se 2011-2016 ki MLA thi. 17vi sabha me AIADMK vipaksh me (TVK ki sarkar, CM C. Joseph Vijay).
+// 1. Chunav jeet ki reporting (TOI, ABP Live, Business Today, Business Standard, Oneindia, NDTV candidates page, Bharat Horizon; 4-8 May 2026) — REJECT: chunav-khabar (76,735 votes, 5,631 ka antar), koi vikas-kaam nahi.
+// 2. The Hindu candidate profile + affidavit (Apr 2026, pre-poll) — REJECT: karyakaal-se-pehle; background (12th Pass, silk trade industry, assets Rs 33.7 crore, liabilities Rs 9.1 crore) hai, kaam nahi.
+// 3. The Hindu "residents want separate Arani district for better civic amenities" (Apr 2026, pre-poll) — REJECT: pre-term + article me Jayasudha ka naam/bhoomika nahi; traders association ki maang hai.
+// 4. Mathrubhumi English interim-budget report: "Rs 24 crore silk park in Arani expected to generate 5,000 jobs" (Feb 2026 budget speech) — REJECT: pre-term (outgoing DMK sarkar ka budget), state-sarkar ki yojna; MLA ki vyaktigat bhoomika ka koi established reporting nahi; "karenge" = ghoshna, poora hua ka saboot nahi.
+// 5. The Hindu "Minister launches project to build three new bypass roads in Tiruvannamalai" (Chengam/Thandrampattu/Kilsirupakkam, ~Rs 90 crore) — REJECT: pre-term (Feb 2026) + mantri E.V. Velu ka kaam; Jayasudha ki bhoomika nahi.
+// 6. The Hindu "Minister flags off bus services at new terminus in Tiruvannamalai" (Rs 34 crore, CM M.K. Stalin ne Dec 2025 me udghatan kiya) — REJECT: pre-term + CM/mantri ka kaam; Jayasudha se sambandh nahi.
+// 7. DNA/Business Standard "Jaya ministry expanded; four more ministers sworn-in" (25 May 2016) — REJECT: Jayalalithaa sarkar 2016 ki khabar; Sevvoor S. Ramachandran (purv Arani MLA) ka shapath; Jayasudha se sambandh nahi.
+// 8. GALAT VYAKTI — LatestLY/nepalnews/Oneindia/Public TV "Actress, former MLA Jayasudha joins BJP" (Aug 2023): ye Telugu film actress Jayasudha hain (born Sujatha Nidudavolu, 1958; ex-Congress MLA Secunderabad, 2009) — REJECT: alag vyakti, L. Jayasudha (Polur, born 1975, AIADMK) se sambandh nahi.
+// 9. GALAT VYAKTI — "Lakshmikanthan murder case" (1944, Madras): film journalist C.N. Lakshmikanthan ka hatya-kand — REJECT: pati K. Lakshmikanthan se koi sambandh nahi.
+// 10. GALAT VYAKTI — Madras HC (Madurai Bench) 2023 CRL OP batch "Jeya Sudha vs Inspector of Police, Sindhupatti PS, Madurai" — REJECT: alag vyakti (Madurai jila, 2023, pre-term, writ petitioner — aropit nahi), L. Jayasudha se koi sambandh nahi.
+// 11. NEGATIVE check: Oneindia "Tamil Nadu MLAs With Criminal Cases" list me "L. Jayasudha | Arani | AIADMK | 0 cases" — The Hindu/NDTV affidavit me bhi "Criminal Cases: No" — REJECT as negative: koi FIR/case/adalaati karyavahi ki established reporting nahi; chunav-yachika ki bhi koi khabar nahi mili.
+// 12. SEAT-WORK NATIJA: May-Oct 2026 tak English press (The Hindu, Indian Express, Times of India, DT Next, The News Minute, South First, Deccan Herald, NDTV, ETV Bharat, news-vertical queries sahit) me Arani seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry (lokarpan/shilanyas/swikriti/ghoshna with documented role) NAHI mili. Sabha sirf ~5 mahine purani hai aur ve vipaksh ki MLA hain; profile imaandari se khaali hai.
+
+// ---- Tiruvannamalai district batch: mukkur-n-subramanian (AC order) ----
+
+tamilNaduWorks['mukkur-n-subramanian'] = [];
+
+// REJECT-LOG (mukkur-n-subramanian — Cheyyar, Tiruvannamalai; AIADMK; office 11 May 2026)
+// 1. Chunav coverage (TOI/Indian Express/ABP/NDTV/Business Today/ET Now, sab May 2026) — Mukkur N. Subramanian Cheyyar se 86,680 votes se jeete (margin 21,081); pre-term, koi kshetra-kaam nahi. REJECT.
+// 2. Galat-vyakti trap: Health Minister Ma Subramanian dwara Tiruvannamalai/Cheyyar me hospital facilities ka lokarpan (medicalbuyer, ~2024) — ye Ma Subramanian hain, Mukkur N. Subramanian nahi; saath me pre-term bhi. REJECT.
+// 3. Chennai–Tiruvannamalai Greenfield Expressway ghoshna (livechennai, 2026) — sarkari project announcement; MLA ka koi bhumika/attribution nahi. REJECT (sirf ghoshna, "karenge").
+// 4. DVAC raid on Tiruvannamalai MP CN Annadurai (New Indian Express, 26 Sep 2026) — DMK MP ke khilaf disproportionate-assets case; Mukkur N. Subramanian se koi sambandh nahi, negative nahi. REJECT.
+// 5. NDTV candidate page (ADR data): "Cases: Yes (2)" — bare ADR flag, bina FIR/case-sthiti/janch sthiti/neta ke jawab ke; negative niyam ke mutabik established reporting nahi. REJECT.
+// 6. The Hindu/DT Next site-search aur multiple news-vertical rounds me May 2026 ke baad MLA ke lokarpan/shilanyas/ghoshna/kshetra-daura ki koi established English reporting nahi mili. AIADMK vipaksh me hai (TVK sarkar), lekin imaandari se profile khaali rakhna sahi — kamzor attribution se behtar.
+
+// ---- Tiruvannamalai district batch: ambethkumar-s (AC order) ----
+
+tamilNaduWorks['ambethkumar-s'] = [];
+
+// REJECT-LOG (ambethkumar-s): PNI News / The CSR Journal / India Education Diary, published 2025-06-21 (Muthoot Kalaivani Nursery & Primary School, Theyyar Village, Vandavasi; Rs 5 crore CSR; udghatan MP M.S. Tharaniventhan ne kiya, Ambethkumar sirf special guest maujoodgi) — pre-term (Jun 2025) + sirf maujoodgi, CSR project, reject; New Indian Express 20 Feb 2025 (CM Stalin ne Cheyyur-Vandavasi-Polur 109-km road ka lokarpan kiya, Rs 1,141.23 crore) — pre-term + CM ka karyakram, MLA ki koi bhoomika nahi, reject; dtnext 14 Mar 2026 (CM Stalin ne 11 road projects Rs 1,843 crore ka lokarpan kiya, Tiruvannamalai four-lane sahit) — pre-term (Mar 2026) + CM ka kaam, reject; The Hindu 23 Feb 2026 (Mantri E.V. Velu ne Tiruvannamalai me 3 naye bypass roads launch kiye, CMRDP 2025-26) — pre-term + mantri ka kaam, reject; The Hindu 31 Aug 2025 (Tiruvannamalai me public grievance redressal building, Rs 12.17 crore) — pre-term, reject; livechennai Oct 2026 (Chennai-Tiruvannamalai greenfield expressway ghoshna, Vandavasi taluk ke 14 gaon land acquisition me) — sirf state sarkar ki ghoshna, land acquisition ka GO abhi nahi aaya, Ambethkumar ka koi dastavezi kadam nahi, reject; The Hindu Jan 2026 (Tiruvannamalai naya bus terminus Rs 34 crore, CM ne 27 Dec 2025 ko udghatan kiya) — pre-term + CM ka kaam, reject; indiaherald Sep 2026 (CM Stalin ne Tiruvannamalai me development works ki review ki; agricultural exhibition ka udghatan) — CM ke karyakram, sirf maujoodgi hoti to bhi qualify nahi karti, reject; TOI Apr 2026 (Tiruvannamalai temple town civic issues election story) — election-era reportage, koi karya nahi, reject; TOI / Indian Express / Oneindia / Business Today / ABP Live / Hindustan Times (Apr-May 2026 election results: Ambethkumar 63,805 votes se jeete, runner-up P. Rani AIADMK) — sirf chunav khabar, reject; The Hindu candidates page 2026 (affidavit: 2 pending criminal cases, non-serious) — pre-term cases, May 2026+ me koi nayi FIR/case/janch sthiti ki established reporting nahi, negative rule par negative nahi, reject; YouTube Short (candidate campaign clip) — YouTube-only + pre-term, reject; newspointapp (newspointapp TOI aggregator election result) — aggregator, reject.
+
+// ---- Coordinator QA note (Tiruvannamalai, 2026-10-15): 8/8 MLA researched. velu-e-v par 2 NEGATIVE entries rakhi gayin (donon current-tenure DVAC FIR: 25 Jun 2026 road-works contractor payment case + 24 Sep 2026 Malappambadi lake-bed excavation case; replies + HC sthiti sahit; title/note ko Roman Hinglish me rewrite kiya). Baaki 7/7 profiles imaandari se khaali. Naam-traps sakhti se pakde gaye: S Velu (Chengam, AIADMK) se E V Velu (Tiruvannamalai, DMK) ke DVAC cases bilkul alag rakhe; Abishek ka Elaiyaraja poaching case se sambandh nahi; mukkur-n-subramanian se Ma Subramanian alag. Hygiene: 0 Devanagari/Tamil script, 0 Rs-symbol, 0 literal-\n (sirf QA comment me descriptive text), entry objects me 0 comments; sab slugs append se pehle 0 matches (koi overwrite nahi). ----
