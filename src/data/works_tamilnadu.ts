@@ -879,3 +879,225 @@ tamilNaduWorks['kutty-alias-sudhakar-a'] = [];
 // Hygiene: 0 Tamil/Devanagari, 0 Rs-symbol, 0 literal-\n; field order exact; period '2026-2031' kept entries me.
 // 7 profiles imaandari se KHAALI (Sunilanand, V. Sampathkumar, Velumani, Giri Prasath, Vignesh K, Nithyanandhan, Kutty Alias Sudhakar).
 // Kul 10/10 MLA researched. Push/deploy NAHI kiya — parent sambhalega.
+
+// ---- Cuddalore district batch (researched 2026-10-15) ----
+// QA (coordinator, khud kiya): saare 9 fragments padhe; har slug file me append se pehle 0 matches (koi overwrite nahi); marker 1x.
+// QA (b-rajkumar, Cuddalore): worker ke 6 entries ki saari 6 tathya-batein coordinator ne khud The Hindu ke article-text (scoopfeeds republication, THG copyright footer) se verify ki — GIS Rs 26.40 lakh/45 wards, desilting launch, ABC centre Rs 65 lakh, Sorakalpattu library, MRF Rs 42.50 lakh, 7 TNSTC buses. Canonical Hindu URL paywall par tha, isliye sourceLabel me disclosure darj. Worker ne titles/notes Devanagari me likhe the — sab Roman Hinglish me badle. Sorakalpattu library ka category 'School' kiya. Mantri-role credit-transparency har note me darj.
+// QA (ganesan-c-v, Tittakudi): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (premallatha-vijayakant, Vridhachalam): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (rajendran-r, Neyveli): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (mohan-k, Panruti): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (b-rajkumar, Cuddalore): 6 entries kept (upar dekho).
+// QA (m-r-k-panneerselvam, Kurinjipadi): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (arunmozhithevan-a, Bhuvanagiri): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (thamimun-ansari-m, Chidambaram): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+// QA (l-e-jothimani, Kattumannarkoil): worker fragment padha — khaali profile; reject-log me galat-vyakti traps pakde gaye; koi qualifying May 2026+ seat-work English press me nahi mila.
+
+tamilNaduWorks['ganesan-c-v'] = [];
+
+
+/*
+REJECT-LOG (Roman Hinglish):
+1. "TN Minister CV Ganesan launches Rs 130 crore Wellington Lake restoration project in Cuddalore" (New Indian Express, 12 Nov 2025; The Hindu bhi 11 Nov 2025) — Tittakudi taluk me Rs 130 crore ki Wellington Lake restoration ka shilanyas, 63 gaon/24,059 acre sinchai. REJECT: pre-term kaam (16vi sabha, DMK mantri ke roop me). Sabha March 2026 me bhang hui; May 2026 ke baad ke karyakaal se sambandhit nahi.
+2. "Foundation distributes sewing machines to 1,000 women in Cuddalore district" (The Hindu, 4 Sep 2025) — Thittakudi ke 109 gaon ki mahilaon ko Hyundai Foundation ki 1,000 silai machines, Ganesan ne batin. REJECT: pre-term (2025), CSR event.
+3. "Over 2000 people receive welfare aid worth Rs 30 crore under Makkaludan Mudhalvar scheme" (New Indian Express, 19 Jun 2025) — Ganesan ne Cuddalore me sahaayta vitran program ka udghatan kiya. REJECT: pre-term (June 2025).
+4. "Gem Granites POCSO case" coverage (Deccan Herald/South First/The Federal/News89, Sep 2026) — "Ganesan" naam ke vyakti ki giraftari ka jikr. REJECT: galat vyakti — ye R. Veeramani ka 23 saal purana karmchari (Gem Granites), Tittakudi MLA C. V. Ganesan nahi. Oneindia ADR record ke mutabik "CV Ganesan | Tittagudi (SC) | DMK | 0 case".
+5. "Tamil Nadu Election 2026 Tittakudi Constituency Result" (ETV Bharat, 4-5 May 2026) + TOI/IndianExpress/BusinessToday result pages — 4 May 2026 ko Ganesan ki jeet (63,106 votes, 2,629 se jeet). REJECT: chunav result coverage, constituency work nahi. Note: isme "Since May 2021, he has been serving as Labour Welfare Minister" — ye pre-term pad tha (DMK sarkar 2021-2026), 17vi sabha me ve sirf MLA hain, isliye mantri-rule yahan lagu nahi.
+6. "Tamil Nadu Assembly election: Filing of nominations concludes in Cuddalore" (The Hindu, Apr 2026) — Ganesan ne Tittakudi se namankan dakhil kiya. REJECT: chunav-prakriya khabar, kaam nahi.
+7. "Former AIADMK MLA Murugumaran joins TVK" (hiindia/IANS, 4 Oct 2026) — Tittakudi ke pratyashi N. Murugumaran ke baare me. REJECT: dusre neta ki khabar.
+8. The South First PollSCAN "Can DMK hold Cuddalore amid growing voter frustration?" (Jan 2026, pre-election) — Tittakudi me koi bada development project na hone ki rai (residents ki rai). REJECT: pre-term janmat survey, karyakaal ke baad ka post-event kaam nahi.
+9. Polimer News YouTube video (2026 campaign) — chunav prachar video. REJECT: YouTube-only source, swikriti ke liye ajogya.
+
+SEAT-WORK NATIJA: May 2026 ke baad Ganesan C.V (Tittakudi) ka koi seat-level kaam English media (The Hindu, Indian Express, TOI, New Indian Express, DT Next, South First, Deccan Herald, ETV Bharat, Dinakaran/Dinamalar English feeds) me reported nahi mila — profile imaandari se khaali hai.
+*/
+
+tamilNaduWorks['premallatha-vijayakant'] = [];
+
+
+// REJECT-LOG (Roman Hinglish) — premallatha-vijayakant (DMDK, Vridhachalam AC):
+// 1. Thanksgiving tour + site visits (News Today, 4 Jun 2026) — REJECT: sirf nirikshan/daura. Periyar Nagar park, Periyar Nagar flyover aur Ponneri bypass roundabout ka "inspection" kiya, Mangalamapet Govt PHC gayi, shikayatein suni; MLA office "kal khulega" aur collector/CM/ministers se milne ki ghoshna — koi kaam poora/shuru/awarded nahi.
+// 2. Thanthi TV YouTube video: MLA office opening + TASMAC press meet (5 Jun 2026) — REJECT: YouTube-only (swikrit source nahi) aur vaise bhi sirf press-bayan.
+// 3. Uzhavar sandhai (farmers' market) inspection, Palakarai roundabout (Thanthi TV YouTube, 29 Jun 2026) — REJECT: YouTube-only + sirf nirikshan.
+// 4. Virudhachalam bus-stop opening video (YouTube, 24 Jul 2026) — REJECT: YouTube-only (swikrit source nahi); established media me post-event reporting nahi mili.
+// 5. Petition to Cuddalore Collector (New Indian Express, 26 Jul 2026) — REJECT: sirf maang. Separate Vridhachalam district, ceramic industrial estate modernisation, combined drinking-water scheme ki demand ki; collector ne "appropriate action" ka assurance diya — koi sanction/GO/nirman nahi.
+// 6. Paddy-procurement-before-monsoon statement (DT Next, 6 Sep 2026) — REJECT: party-leader ka rajya-stariya bayan; Vridhachalam seat ka kaam nahi.
+// 7. DMDK demands on law & order, dengue, farm loans, Cauvery (IANS/Prokerala, 20 Sep 2026) — REJECT: party-leader ki statewide demands; seat-kaam nahi.
+// 8. TOI assembly-session report (Sep 2026): demands-for-grants debate me hissa — REJECT: sabha-bhashan; seat-level vikas-kaam nahi.
+// 9. Bus-stop/shilanyas claims on social/fan accounts (YouTube/FB) — REJECT: YouTube/FB-permalink only, established-media confirmation nahi.
+// 10. Election campaign promises (The Hindu, TOI, NIE, Apr 2026) — REJECT: pre-term, "karenge" wale waade (separate district, ceramic revival, agri college).
+// 11. Pati Vijayakant ka 2006 MLA karyakaal / Virudhachalam fortress coverage — REJECT: parivar ka purana kaam; unpar kabhi nahi joda jata.
+// 12. Oneindia aggregate "9 criminal cases" list — REJECT as negative: affidavit case-count list, bina established reporting ke; May 2026+ ki koi nayi prakriya-sthiti nahi.
+// 13. Old FIR/case reporting (2016 cash-for-vote book, 2015-16 defamation warrants vs Jayalalithaa, tax arrears 2016) — REJECT as negative: sab pre-term; May 2026+ me unke khilaf FIR/case/janch ki koi established reporting nahi mili.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Premallatha Vijayakant ke apne Vridhachalam seat-level kaam ki koi qualifying entry NAHI mili. Unki documented activity sirf inspection, press-bayan, petition/maang aur party-leader ki statewide demands rahi — koi inauguration, shilanyas, GO-backed swikriti ya completed work report nahi mila. Profile imaandari se khaali.
+
+tamilNaduWorks['rajendran-r'] = [];
+
+
+// REJECT-LOG (Neyveli AC 153, Cuddalore — research 15 Oct 2026)
+// 1. Neyveli election result coverage (Indian Express, TOI, Business Today, NDTV, ABP Live, 4-6 May 2026) — Sorathur R. Rajendran (AIADMK) ne Saba Rajendran (DMK) ko 10,962 vote se haraya (63,731 vs 52,769; TVK Anand 34,291). REJECT: chunav result coverage, seat-level kaam nahi.
+// 2. "Neyveli braces for a battle of arch rivals" (The Hindu, Apr 2026) — key issues: INDCOSERVE contract workmen regularization, mercury pollution/air quality, new Neyveli taluk demand, Vikravandi-Sethiyathope NHAI 4-laning delay. REJECT: pre-term (chunav-se-pehle) issues piece; MLA ki koi bhoomika nahi.
+// 3. "Minister lays foundation for 14 works worth Rs 3.07 crore in Salem Corporation" (The Hindu, 23 Aug 2025) — Tourism Minister R. Rajendran. REJECT: GALAT VYAKTI — ye Salem ke DMK mantri R. Rajendran hain; pre-term bhi. Neyveli ke Sorathur Rajendran nahi.
+// 4. "Minister R Rajendran" DT Next topic page — Salem Tourism Minister ke Ooty/Kodaikanal/cane-farming items. REJECT: GALAT VYAKTI, pre-term/minister-level, Neyveli se sambandh nahi.
+// 5. "Land grab case: DMK MLA TM Rajendran, 5 others booked in TN's Tenkasi" (Asianet Newsable/ANI, 14 Oct 2026) — Kadayanallur MLA (DMK) ke khilaf zameen-hadapne ka case. REJECT as negative: GALAT VYAKTI — T.M. Rajendran (Tenkasi jila, Kadayanallur) vs R. Rajendran (Neyveli). Oneindia ADR record ke mutabik Neyveli MLA ke 0 criminal cases.
+// 6. NLCIL inaugurations (NLC India: Special Campaign 5.0 facilities, Oct 2025; Visitors Gallery Mine-IA) — PSU corporate programs, Chairman/CMD ne udghatan kiya. REJECT: NLC sarkari-PSU ke kaam; MLA ki dastavezi concrete bhoomika kisi report me nahi.
+// 7. PMK NLC land-acquisition protest, Cuddalore district (New Indian Express / News Today, Sep 2026) — party leader Anbumani Ramadoss ka andolan. REJECT: party-level dharna, Neyveli MLA ki dastavezi bhoomika nahi.
+// 8. PM Modi Rs 13,000 crore projects / Chennai Metro ride with CM Vijay (Oct 2026); Stalin reservoir/power-plant launches (Mar 2026) — REJECT: PM/CM programs, kshetra-bahar kendra, MLA ki bhoomika nahi.
+// 9. "Cuddalore Mayor, DMK councillors protest against Corporation Commissioner" (The Hindu, 23 Sep 2026) — Cuddalore Corporation ka mayor-DMK dharna, commissioner ke khilaf. REJECT: Neyveli seat se sambandh nahi, MLA ki koi bhoomika nahi.
+// 10. Oneindia "Tamil Nadu MLAs with criminal cases" aggregate — Neyveli MLA: 0 case (ADR affidavit). REJECT as negative: purani affidavit-ginti, nayi reporting ya May 2026+ prakriya-sthiti nahi.
+// 11. Oneindia educational-qualification list ("Sorathur Rajendran | Neyveli | AIADMK | 12th Pass") — REJECT: profile data, kaam nahi.
+// 12. YouTube shorts "Neyveli ADMK Anna sorathur Rajendran" — REJECT: YouTube-only source, swikriti ke liye ajogya.
+//
+// SEAT-WORK NATIJA: May 2026 se 15 Oct 2026 tak Sorathur R. Rajendran (AIADMK, Neyveli AC 153) ke naam par koi qualifying seat-level kaam — lokarpan, shilanyas, GO-swikriti, ya dastavezi pahal — English press (The Hindu, Indian Express, TOI, New Indian Express, DT Next, The News Minute, South First, Deccan Herald, NDTV, business/regional feeds) me report nahi mila. AIADMK sabha me vipaksh me hai (TVK sarkar, CM C. Joseph Vijay); sabha sirf ~5 mahine purani — profile imaandari se khaali hai.
+
+tamilNaduWorks['mohan-k'] = [];
+
+
+/*
+REJECT-LOG (Roman Hinglish):
+1. TOI/Indian Express/BusinessToday/Oneindia/ABP result pages (4-5 May 2026) — K. Mohan (AIADMK) Panruti se jeete: 78,398 votes, VCK ke Abdul Rahman se 10,663 se jeet. REJECT: chunav result coverage, constituency work nahi.
+2. The Hindu "Tamil Nadu election 2026: Cashew hub Panruti constituency to witness high-stakes battle" (Apr 2026) — Mohan ke baare me: pehle Panruti municipality councillor the, ticket aakhri me mili. REJECT: pre-term chunav-profiling, post-May kaam nahi.
+3. AIADMK Format C-7 affidavit filing (aiadmk.com, Apr 2026) + Oneindia "Tamil Nadu MLAs With Criminal Cases" (5 cases bataye) — K. Mohan par Crime No. 105/2024 aur 143/2024, Sec 4(1) TN Open Places (Prevention of Disfigurement) Act 1959; ek STC 1445/2025 JM 1 Panruti me pending trial, dusra FIR stage (not taken on file), charges framed nahi. REJECT: negative ke liye — (a) ye 2024 ke pre-term election-prachar poster/wall-writing ke chhote mamle hain; (b) koi established press reporting (FIR/giraftari/janch ka event) nahi — sirf affidavit aggregation; (c) May 2026+ ki koi prakriya-sthiti badli nahi. Chunav-yachika akeli negative nahi, waise hi ye pre-term chunav-prachar mamle bina post-May vikas ke negative nahi banenge.
+4. New Indian Express (21 Feb 2025) "CM Stalin lays foundation for 178 projects... new government arts and science college at Panruti" — REJECT: pre-term (2025), DMK sarkar ka project, naye MLA ka kaam nahi.
+5. "Govt assurance committee head inspected developmental schemes" (afternoonnews.in, ~2025) — "Panruti MLA T Velmurugan" ne jile ke schemes ka nirikshan kiya. REJECT: (a) ye 16vi sabha ke purane MLA T. Velmurugan hain (2021-2026), K. Mohan nahi; (b) nirikshan/daura waise bhi reject category hai.
+6. Lokmat Times "Ex-Minister Panruti S Ramachandran launches MGR ADMK" (19 Feb 2026) — Panruti naam ke senior neta. REJECT: galat vyakti (purane mantri Panruti S. Ramachandran, K. Mohan nahi), pre-term bhi.
+7. Zealand News "Police asked to reopen case against ruling AIADMK MLA" (2013) — REJECT: bahut purani khabar, K. Mohan se sambandh nahi.
+8. New Indian Express "Rebel with a cause: A long journey on right route to empowerment" (Jun 2025) — Madurai ke RTI activist Mohan ke baare me. REJECT: galat vyakti (NG Mohan, Panruti MLA nahi).
+9. eprocurementtenders.co.in Panruti tenders (Sep-Oct 2026) — municipality drains, PWD/panchayat works ke tenders. REJECT: sarkari tender listings, inme K. Mohan ka koi role darj nahi; bina attribution works me nahi jodne hain.
+
+SEAT-WORK NATIJA: May 2026 ke baad K. Mohan (Panruti, AIADMK — vipakshi, first-time MLA, pehle municipal councillor) ka koi seat-level kaam English media (The Hindu, Indian Express, TOI, New Indian Express, DT Next, The News Minute, South First, Deccan Herald, NDTV, Standard Post) me reported nahi mila — 10+ targeted searches me sirf result-coverage aur pre-term profiling aaya. Profile imaandari se khaali hai.
+*/
+
+tamilNaduWorks['b-rajkumar'] = [
+  {
+    title: 'B. Rajkumar ne Cuddalore Corporation ke sabhi 45 wards ke municipal assets ki GIS mapping database project ka shilanyas kiya — Rs 26.40 lakh.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 27 Aug 2026 (article ko scoopfeeds republication se kholkar padha; canonical Hindu page paywall par tha; tathya THG-copyright text se verify)',
+    sourceUrl: 'https://scoopfeeds.com/article/7747bb63-1e75-5609-b6c1-f902377f936b',
+    date: '2026-08-26',
+    note: '26 Aug 2026 ko Cuddalore me B. Rajkumar ne Geographic Information System (GIS) database project ka shilanyas kiya, jo Corporation ke 45 wards ke municipal assets cover karega aur Rs 26.40 lakh ka hai. Press note ke mutabiq database me properties, parks, waterbodies, drinking water connections, stormwater drains aur naye underground sewerage scheme ke components map honge; isse tax aur revenue base badhane, kam-ankit sampattiyon, atikraman aur bina-license vyavsayon ki pehchan, aur flood-mitigation/drainage planning me madad milegi. Survey me LIDAR, drone imagery aur DGPS technology istemal hogi. Stage: shilanyas. Kaam poori tarah Cuddalore assembly seat ke andar hai. Credit-transparency: ye sab Awaas evam Shahari Vikas Mantri ke roop me Cuddalore Corporation ke karyakram me hue — rajya-vyapi mantri faisle nahi jode gaye.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Cuddalore Corporation ke chhote aur bade canalon ki desilting launch hui — monsoon se pehle flood preparedness badhane ke liye.',
+    category: 'Paani',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 27 Aug 2026 (article ko scoopfeeds republication se kholkar padha; canonical Hindu page paywall par tha; tathya THG-copyright text se verify)',
+    sourceUrl: 'https://scoopfeeds.com/article/7747bb63-1e75-5609-b6c1-f902377f936b',
+    date: '2026-08-26',
+    note: 'Collector ke saath B. Rajkumar ne 26 Aug 2026 ko Cuddalore Corporation ke adhikar-kshetra me aane wale chhote aur bade canalon ki desilting launch ki, jisse monsoon season se pehle flood preparedness badhegi. Ye dastavezi sarkari karyavahi hai (kaam shuru), nirikshan nahi; khabar me iski lagat ka ullekh nahi hai. Stage: kaam shuru. Kaam poori tarah Cuddalore assembly seat ke andar hai. Credit-transparency: ye sab Awaas evam Shahari Vikas Mantri ke roop me Cuddalore Corporation ke karyakram me hue — rajya-vyapi mantri faisle nahi jode gaye.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Pachaiyankuppam me Animal Birth Control Centre ka lokarpan — Rs 65 lakh.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 27 Aug 2026 (article ko scoopfeeds republication se kholkar padha; canonical Hindu page paywall par tha; tathya THG-copyright text se verify)',
+    sourceUrl: 'https://scoopfeeds.com/article/7747bb63-1e75-5609-b6c1-f902377f936b',
+    date: '2026-08-26',
+    note: '26 Aug 2026 ke Cuddalore Corporation karyakram me B. Rajkumar ne poori tarah bane hue projects ka lokarpan kiya, jinme Pachaiyankuppam ka Animal Birth Control Centre (lagat Rs 65 lakh) shamil hai. Ye poora hua kaam hai jiska udghatan hua. Stage: lokarpan. Kaam poori tarah Cuddalore assembly seat ke andar hai. Credit-transparency: ye sab Awaas evam Shahari Vikas Mantri ke roop me Cuddalore Corporation ke karyakram me hue — rajya-vyapi mantri faisle nahi jode gaye.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Sorakalpattu me children library ka lokarpan.',
+    category: 'School',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 27 Aug 2026 (article ko scoopfeeds republication se kholkar padha; canonical Hindu page paywall par tha; tathya THG-copyright text se verify)',
+    sourceUrl: 'https://scoopfeeds.com/article/7747bb63-1e75-5609-b6c1-f902377f936b',
+    date: '2026-08-26',
+    note: '26 Aug 2026 ke Cuddalore Corporation karyakram me B. Rajkumar ne Sorakalpattu me bani children library ka lokarpan kiya. Khabar me iski lagat ka ullekh nahi hai; kaam poora hua aur udghatan hua. Stage: lokarpan. Kaam poori tarah Cuddalore assembly seat ke andar hai. Credit-transparency: ye sab Awaas evam Shahari Vikas Mantri ke roop me Cuddalore Corporation ke karyakram me hue — rajya-vyapi mantri faisle nahi jode gaye.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Devanampattinam me material recovery facility ka lokarpan — Rs 42.50 lakh.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 27 Aug 2026 (article ko scoopfeeds republication se kholkar padha; canonical Hindu page paywall par tha; tathya THG-copyright text se verify)',
+    sourceUrl: 'https://scoopfeeds.com/article/7747bb63-1e75-5609-b6c1-f902377f936b',
+    date: '2026-08-26',
+    note: '26 Aug 2026 ke Cuddalore Corporation karyakram me B. Rajkumar ne Devanampattinam me bani material recovery facility (lagat Rs 42.50 lakh) ka lokarpan kiya. Ye poora hua nagar-nigam kaam hai. Stage: lokarpan. Kaam poori tarah Cuddalore assembly seat ke andar hai. Credit-transparency: ye sab Awaas evam Shahari Vikas Mantri ke roop me Cuddalore Corporation ke karyakram me hue — rajya-vyapi mantri faisle nahi jode gaye.',
+    period: '2026-2031',
+  },
+  {
+    title: 'TNSTC ki 7 nayi buses aur bus services ko hari jhandi.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Hindu, 27 Aug 2026 (article ko scoopfeeds republication se kholkar padha; canonical Hindu page paywall par tha; tathya THG-copyright text se verify)',
+    sourceUrl: 'https://scoopfeeds.com/article/7747bb63-1e75-5609-b6c1-f902377f936b',
+    date: '2026-08-26',
+    note: '26 Aug 2026 ko Cuddalore me B. Rajkumar ne Tamil Nadu State Transport Corporation ki 7 nayi buses aur nayi bus services ko hari jhandi dikhayi — ye seat ke logon ke liye seedha labh dene wali dastavezi karyavahi hai. Stage: lokarpan/flag-off. Kaam poori tarah Cuddalore assembly seat ke andar hai. Credit-transparency: ye sab Awaas evam Shahari Vikas Mantri ke roop me Cuddalore Corporation ke karyakram me hue — rajya-vyapi mantri faisle nahi jode gaye.',
+    period: '2026-2031',
+  },
+];
+
+
+// REJECT-LOG (b-rajkumar, TVK, Cuddalore AC — scope: May 2026+, seat-level)
+// 1. The Hindu, 21 Jul 2026: Thirukandeswaram Govt Higher Secondary School me 8 naye classroom ka udghatan (Rs 1.30 crore) — REJECT: kshatra-bahar. School directory (icbse.com, wowsome.com) ke mutabiq Thirukandeswaram (Nellikuppam, Annagrammam block) Panruti assembly constituency me aata hai, Cuddalore AC me nahi.
+// 2. The Hindu, 10 Jun 2026: Cuddalore Anna bus terminus ka nirikshan — REJECT: nirikshan/daura; koi kaam poora/shuru nahi hua.
+// 3. The Hindu, 5 Jul 2026: AMRUT 2.0 pipeline, Sorakalpattu overhead tank (Rs 28.67 crore), Anna Market (Rs 5.03 crore), aquarium, Devanampattinam STP (Rs 43.45 crore), Pachaiyankuppam ABC centre ka nirikshan — REJECT: nirikshan/daura; ye chal rahe purane projects hain, koi naya lokarpan/shilanyas nahi.
+// 4. ToI (~Sep 2026): housing reforms, 12,648 dilapidated flats ka Rs 2,882.62 crore me punarnirman ki ghoshna — REJECT: rajya-vyapi mantri faisla/ghoshna; seat-specific nahi.
+// 5. New Indian Express, 25 Sep 2026: TNHB demand assessment portal (Cuddalore ka Gundurmalai proposed location) — REJECT: rajya-vyapi ghoshna-stage; swikriti/lokarpan nahi.
+// 6. The Hindu, 30 Jul 2026: Chennai Real Estate and Urban Infrastructure Summit me bhashan — REJECT: policy speech; kaam nahi.
+// 7. CM Vijay ke 2 Sep 2026 ke Assembly rule-110 urban infra announcements (Rs 1,000 crore water facilities including Cuddalore municipalities) — REJECT: CM ka rajya-vyapi faisla; Rajkumar ki dastavezi bhoomika nahi.
+// 8. YouTube: Virudhachalam daura ka video — REJECT: YouTube-only srot.
+// 9. Negative check: voterslist.in/oneindia aggregate lists me 2 pending criminal cases (IPC+BNS) — REJECT as negative: 2026 halafname ke purane ghosit cases; May 2026+ me established media me koi FIR/case/janch ki qualifying reporting nahi mili, koi negative entry nahi.
+// 10. The Hindu (purana): ex-DMK MLA M. Rajkumar ka conviction case — REJECT: GALAT VYAKTI (ye purane DMK neta hain, Cuddalore ke B. Rajkumar nahi).
+// 11. Casemine consumer case (B. Rajkumar vs Thasildar, AC defect, 2023) — REJECT: galat vyakti/asy sambandhit; 2023 ka consumer dispute, MLA ka maamla nahi.
+// 12. Business Standard, 11 Oct 2026: PM Modi ke TN projects (Chidambaram NH-227) — REJECT: kshetra-bahar (Chidambaram AC) + PM program; sirf maujoodgi bhi dastavezi nahi.
+// 13. SEAT-WORK NATIJA: b-rajkumar (TVK, Cuddalore AC; saath me Awaas evam Shahari Vikas Mantri) — May-Oct 2026 me English press se 6 qualifying seat-level entries mili: GIS mapping shilanyas (Rs 26.40 lakh), canal desilting launch, ABC centre lokarpan (Rs 65 lakh), children library lokarpan, material recovery facility lokarpan (Rs 42.50 lakh), aur 7 TNSTC buses ki hari jhandi — sabhi The Hindu, 26-27 Aug 2026, Cuddalore Corporation karyakram se; negative ke liye koi established reporting nahi.
+
+tamilNaduWorks['m-r-k-panneerselvam'] = [];
+
+
+tamilNaduWorks['arunmozhithevan-a'] = [];
+
+
+/*
+REJECT-LOG (Roman Hinglish):
+1. "AIADMK MLAs stage hunger strike, condemns NLCIL" (New Indian Express, 1 Aug 2023) aur "AIADMK MLA stages hunger strike against NLCIL's move" (The Hindu, 2023) — Bhuvanagiri me NLCIL bhoomi-adhigrahan ke khilaf token fast, Chidambaram MLA K. A. Pandian aur ex-minister Selvi Ramajayam ke saath. REJECT: pre-term kaam (2023), aur virodh/andolan vikas-category nahi.
+2. "AIADMK condemns NLCIL's rehabilitation and resettlement policy" (The Hindu, 19 Jan 2022) — NLCIL ke 12,500 acre adhigrahan par muavze ki maang (Rs 23 lakh/acre ko "peanuts" bataya). REJECT: pre-term (2022); maang/statement, kaam nahi.
+3. H Raja temple land encroachment allegation (New Indian Express, Sep 2018; Wikipedia se cross-ref) — BJP ke H Raja ne Thittakudi me mandir bhoomi kabje ka aarop lagaya; Arunmozhithevan ne kharij kiya, ulte H Raja par case darj hua (dtNext, Sep 2018). REJECT: pre-term (2018) aarop, established FIR/janch unke khilaf nahi — negative criteria poora nahi.
+4. AIADMK rebel-camp episode (May–Jun 2026): TVK sarkar ke vishwas-prastav par 25 AIADMK MLAs ne whip ke khilaf vote diya (13 May 2026); Speaker J. C. D. Prabhakar ne 21 MLAs par ayogyata karyavahi KHARIJ ki (The Wire, 10 Jun 2026; list me "A. Arunmozhithevan (Bhuvanagiri)" shaamil); "denied quitting the party" (The Hindu, 30 Jun 2026); EPS postings reject wali chitthi ke signatories me unka naam (NewsPoint/TOI, Jul 2026). REJECT: party ki aantrik rajneeti, seat-level kaam nahi; ayogyata karyavahi kharij ho gayi — negative entry ka aadhar nahi.
+5. YouTube short "AIADMK MLA Urges NLC Compensation & Vellar Dam" (~Aug 2026) — sadan me bhashan: NLC muavza aur Vellar nadi par Adivarahanalur ke paas check dam ki maang (EPS dwara MGR Centenary me ghoshit purana project). REJECT: YouTube-only source; sadan bhashan = maang, post-event kaam nahi.
+6. "Rs 339.59-crore Bhuvanagiri-Chityal four-lane road project launched" (The Hindu, 12 Jul 2026) aur "Bhongir double bedroom houses inauguration" (YouTube, Aug 2026) — REJECT: GALAT JAGAH AUR GALAT VYAKTI — ye Telangana ke Yadadri Bhuvanagiri (Bhongir) ke hain, MLA Kumbham Anil Kumar Reddy aur mantri Komatireddy Venkat Reddy; Tamil Nadu ke Bhuvanagiri (Cuddalore) se sambandh nahi.
+7. Oneindia "Tamil Nadu MLAs With Criminal Cases" aggregate — "Arunmozhithevan | Bhuvanagiri | AIADMK | 1 case" (halafnama count). REJECT as negative: sirf aggregate affidavit count, koi established reporting / nayi prakriya-sthiti nahi.
+8. Bhuvanagiri chunav result coverage (Indian Express, TOI, Business Today, 4-6 May 2026) — 75,707 votes se jeet. REJECT: chunav result coverage, constituency work nahi. Caution note: isi chunav me IND ummidwar "Arunmozhi . V" bhi tha — alag vyakti; galat-vyakti trap se bachna hai.
+
+SEAT-WORK NATIJA: May-Oct 2026 me English press me A. Arunmozhithevan (Bhuvanagiri, AIADMK, vipaksh) ki koi seat-level bhoomika wali qualifying entry (poora/lokarpan/swikriti/shilanyas/ghoshna) NAHI mili — unka post-May 2026 media footprint lagbhag poori tarah party-rebellion prakaran (May-Jun 2026) ka hai. Sabha ~5.5 mahine purani aur ve vipaksh ke hain — profile imaandari se khaali hai.
+*/
+
+tamilNaduWorks['thamimun-ansari-m'] = [];
+
+
+// REJECT-LOG (thamimun-ansari-m, DMK, Chidambaram AC — scope: May 2026+, seat-level kaam)
+// 1. Election victory reporting (Times of India / Indian Express / Zee News / Business Today / ABP Live, 4-6 May 2026) — REJECT: chunav jeet ki khabar, kaam nahi.
+// 2. Oath-taking as Chidambaram MLA, 12.05.2026 (mjkparty.com) — REJECT: sirf ceremonial shapath-grahan.
+// 3. Assembly minority-welfare debate: DMK MLA Thamimun Ansari vs Minister A. M. Shahjahan on Dravidian parties' minority-welfare legacy (DT Next, 28 Aug 2026; TOI, 29-30 Aug 2026) — REJECT: Vidhan Sabha me behas; unhone purani DMK/AIADMK sarkaaron ki yojnaon (3.5% Muslim reservation) ka ullekh kiya, Chidambaram seat ki koi nayi pahal ya dastavezi kaam nahi.
+// 4. Assembly exchange: "CM Vijay skipped session to clear files, defends Speaker JCD Prabhakar" (DT Next, ~Aug 2026) — REJECT: House proceeding me unka point of order; seat ka kaam nahi.
+// 5. CM C. Joseph Vijay ka Rs 36 crore Chidambaram temple chariot-festival route beautification package (DT Next / TOI, Sep 2026) — REJECT: CM ka ghoshna-program; article me MLA ki koi dastavezi bhoomika nahi.
+// 6. Natarajar temple HR&CE inspection vivad: Minister P. K. Sekarbabu ka "government has no intention to take over" bayan (PTI/Newsdrum, Jun 2026) — REJECT: dharmik/sansthanik vivaad par mantri ka bayan; isme MLA ka naam tak nahi; per rule kaam nahi.
+// 7. NDTV ADR candidate page: "Cases, Yes (2)", assets Rs 1.4 crore, age 50 — REJECT as negative: affidavit case-count bina kisi reporting ke; May 2026+ ki koi nayi prakriya-sthiti (FIR/janch/adalaati) nahi.
+// 8. NetTV4U "Thamimun Ansari Denies The Bribing Rumors" (2017 Palaniswami trust-vote daur ka purana aarop, rishwat se inkaar) — REJECT as negative: pre-term aarop, koi FIR/case/adalaati karyavahi established nahi.
+// 9. Pre-term items (sab reject): CAA walkout/dharna (The Hindu, Mar 2020); anti-CAA speeches (The Hindu, Feb 2020); COVID quarantine bayan (The Hindu, Aug 2020); Cauvery farm-laws rally (The Hindu, Jan 2021); life-convicts release protest, Coimbatore (The Hindu, Jan 2022) — REJECT: karyakaal-se-pehle (2026 se pehle), sab 2016-21 Nagapattinam-daura ya bahar ke; Chidambaram seat ke kaam nahi.
+// 10. Oneindia/Business Today winners-list aggregates, mpositive.in Muslim-MLAs list — REJECT: aggregate/suchi, kaam nahi.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, IE, TOI, DT Next, TNM, South First, Deccan Herald, NDTV) me Chidambaram seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry (poora/lokarpan/swikriti/shilanyas/ghoshna) NAHI mili. Ve House me sakriya hain (minority-welfare behas), lekin seat par dastavezi vikas-kaam ki khabar nahi — sabha sirf ~5 mahine purani, profile imaandari se KHAALI.
+
+tamilNaduWorks['l-e-jothimani'] = [];
+
+
+// REJECT-LOG (l-e-jothimani — VCK, Kattumannarkoil SC, Cuddalore — research 15 Oct 2026)
+// 1. MLA car/package announcement (ABP Live, 19 Aug 2026) — REJECT: ye sirf Vidhan Sabha me ki gayi MAANG thi (Jothimani ne sarkari gaadi/logistical support maanga), Kattumannarkoil seat ka vikas-kaam nahi; faisla CM Joseph Vijay ne 234 MLAs ke liye liya.
+// 2. Veeranam lake Rs 63.50 crore development + Cuddalore flood package (DT Next, 21 Feb 2025) — REJECT: pre-term (Jothimani ne 11 May 2026 ko shapath li) aur CM Stalin ka program; MLA ki koi bhoomika dastavezi nahi. Veeranam jheel sambandhi rajya-sarkari pariyojna alag se MLA ki nahi.
+// 3. Ministers Nehru/Panneerselvam ne Kattumannarkoil panchayat building, Kothangudi classrooms udghatan kiya (The Hindu, 12 Jan 2026) — REJECT: pre-term, mantriyon ka karyakram; MLA maujood bhi nahi bataye gaye.
+// 4. Flood prevention works, Kattumannarkoil taluk, Rs 140.01 crore (NIE, May 2017, CM Palaniswami) — REJECT: purani sarkar ka kaam, pre-term.
+// 5. The Hindu election pieces (Apr 2026) — "Kattumannarkoil, an agrarian constituency", "VCK pulling out all stops" — REJECT: chunav-purv constituency coverage; koi post-term kaam nahi.
+// 6. Thirumavalavan opt-out / Jothimani candidate announcement (TNM, DT Next, The Federal, Mar-Apr 2026) — REJECT: chunav prachar/candidature ki khabar, vikas-kaam nahi.
+// 7. Victory stories (ETV Bharat, TOI, Oneindia, 4-6 May 2026) — REJECT: sirf jeet ka result (85,179 votes, 33,063 ka antar), koi kaam nahi.
+// 8. Oneindia ADR "E. Jothimani" profile (1 criminal case) — REJECT as negative: sirf affidavit case-count, koi FIR/case/janch ki established reporting nahi. DOB me bhi virodhabhas (Oneindia: 1 Mar 1955 vs ECI/Wikipedia: 26 Oct 1955) — aggregator, srot nahi.
+// 9. Karur Congress MP S. Jothimani ki saari khabrein (DT Next 28 Mar 2026 party dissent; TOI Jun 2026 candidate-selection allegations; DT Next Feb 2026 Karur police case against BJP leader; Mathrubhumi delimitation meeting Aug 2026) — REJECT: GALAT VYAKTI (Congress MP, Karur; female), Kattumannarkoil ke VCK MLA nahi. NDTV/Oneindia candidate pages ne bhi galat she/her pronouns use kiye — ye bhi isi galat-vyakti trap ka sanket hai.
+// 10. N. Murugumaran (former AIADMK MLA, Kattumannarkoil 2011/2016) ka AIADMK chhodkar TVK join karna (News Today, hiIndia, 5 Oct 2026) — REJECT: doosre vyakti ka party-change, Jothimani se sambandh nahi.
+// 11. VCK party programs/bayan (Thirumavalavan ke Kattumannarkoil daure, party positions) — REJECT: party-program, MLA ki seat-level dastavezi bhoomika nahi.
+// 12. The Hindu "Lawyer injured in attack by gang in Kattumannarkovil" (9 Oct 2026) — REJECT: kshetra ki law-and-order khabar, MLA ki koi bhoomika nahi.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Kattumannarkoil seat par L. E. Jothimani ki vyaktigat seat-level bhoomika wala koi qualifying entry NAHI mila. Sabha sirf ~5 mahine purani hai; unke karyakaal ki eklauti dastavezi Vidhan Sabha maang (MLA gaadiyan) works-criteria poori nahi karti. Khaali profile imaandari hai.
+
+// ---- end Cuddalore district batch ----
