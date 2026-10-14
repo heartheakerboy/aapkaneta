@@ -3105,3 +3105,112 @@ tamilNaduWorks['paul-manoj-pandian'] = [];
 // - e-raja: 2021-26 me Sankarankovil ke DMK MLA ab Vasudevanallur me; land-grab khabar T.M. Rajendran ki thi, inki nahi — naam-trap pakda.
 // - dr-kalai-kathiravan: Manachanallur ke S. Kathiravan alag vyakti; unke koi case nahi (0 criminal cases).
 // - paul-manoj-pandian: ex-AIADMK, 4 Nov 2025 ko DMK me; sab kaam purane karyakaal ke — khaali.
+
+
+// ---- Thanjavur district batch (researched 2026-10-15) ----
+tamilNaduWorks['govi-chezhiaan'] = [];
+// REJECT-LOG (govi-chezhiaan):
+// 1. DT Next, 15 Aug 2026, "TVK undermining democracy, demotivating local bodies, says Govi Chezhiaan" (opened and read) — REJECT: political criticism of TVK govt at Tiruvidaimarudur press meet; no work (no lokarpan/swikriti/shilanyas/ghoshna).
+// 2. The Hindu, 19 Jan 2026, jallikattu protest case acquittal (Special Court, Thanjavur) — REJECT: pre-term (Jan 2026, before May 2026), verdict favorable to him, not a negative; outside karyakaal window anyway.
+// 3. The Hindu/New Indian Express, Jan 2025, Madras HC directs passport issuance (2018 Kathiramangalam protest FIR-stage case) — REJECT: pre-term, legal history, not a post-election negative.
+// 4. NDTV ADR data (2026 affidavit: 2 cases, assets Rs 1.4 cr) — REJECT: affidavit disclosure, not an established post-term FIR/case event.
+// 5. DT Next, 8 Dec 2025, "Minister Govi Chezhiaan appeals for higher admissions in government arts, science colleges" — REJECT: pre-term (Dec 2025), Chennai review meeting as minister; not seat-level, not Thiruvidaimarudur.
+// 6. DT Next, 29 Sep 2024, cabinet reshuffle / portfolio allocation — REJECT: pre-term background.
+// 7. The Hindu, 7 Apr 2026, "Farmers and weavers of Thiruvidaimarudur constituency seek sustainability" — REJECT: pre-election constituency profile, no MLA work reported.
+// 8. Multiple election-result pages (ETV Bharat, Times of India, Business Today, Indian Express, Oneindia, NDTV, Wion, BusinessStandard mirror) — REJECT: vote/margin data used only for pehchan; no works.
+// NOTE: Post-May-2026 English news coverage of Chezhiaan is limited to the single DT Next 15-Aug political-criticism piece; as an opposition MLA he has no reported seat-level lokarpan/shilanyas/swikriti in established English media. Profile honestly empty.
+
+tamilNaduWorks['vinoth'] = [
+  { title: 'Kalambaram gaon (Kumbakonam ke paas) me "C channel" sinchai channel ka udghatan — lagbhag 160 acre khet ko paani', note: 'Krishi evam Kisan Kalyan mantri aur Kumbakonam MLA R. Vinoth ne 6 Jun 2026 ko Kalambaram gaon me "C channels" ka udghatan kiya; ye channel lagbhag 160 acre khet ki sinchai karegi. Usi daure me unhone 26 km lambai me prastavit desilting karya (Rs 9 lakh lagat) ka nirikshan bhi kiya. Stage: lokarpan (udghatan).', period: '2026-2031', category: 'Paani', badge: 'news', sourceLabel: 'DT Next', sourceUrl: 'https://www.dtnext.in/news/tamilnadu/tvk-will-present-agricultural-budget-on-par-with-dmk-assures-tn-minister-vinoth', date: '2026-06-06' },
+];
+// REJECT-LOG (vinoth):
+// 1. The Hindu, 6 Jun 2026 — "Agriculture Minister inspects desilting operations in Kumbakonam" (Arasalar aur "C"/"D" irrigation channels ka nirikshan, Muzhalai me kisanon se baatcheet; desilting Agriculture Engineering dept ne liya tha) — REJECT: sirf nirikshan/daura, koi swikriti/udghatan darj nahi.
+// 2. The Hindu, 7 Jun 2026 — "Minister pays surprise visit to paddy procurement centres in Kumbakonam" (Patteeswaram storage, Kottaiyur regulated market, Solzan Malligai DPC ka achanak nirikshan; Krishnapuram me 50 acre atirikt storage aur Thandanthotam me sthayi godown ke liye mauke par nirdesh) — REJECT: sirf nirikshan/daura; nirdesh bina sanction order/GO ke — pass rules me prashasnik swikriti bina GO ke sirf ghoshna.
+// 3. DT Next, 27 Jun 2026 — "Farm sector White Paper soon, says Minister Vinoth" (26 Jun ko Kumbakonam me apne MLA karyalay ka udghatan; white paper "jald", Cauvery ka haq "karenge", Kumbakonam alag jile ki maang par "sambhavnaon ka adhyayan") — REJECT: vyaktigat MLA karyalay ka udghatan janta-ke-kaam ka lokarpan nahi; baaki "karenge" bayan aur sirf maang.
+// 4. The Hindu, Jul 2026 — "Suggestions of farmers will be considered in Agriculture Budget" (Thanjavur me pre-budget paramarsh baithak, kisanon ki maangen) — REJECT: sirf bayan/paramarsh, koi kaam nahi.
+// 5. ETV Bharat, 19 Jul 2026 — "IT Park Inaugurated In Thanjavur" (Hamly Towers, 69,000 sq ft, 7,000 jobs; Vinoth ne Labour Minister J. Mohammed Parvez ke saath udghatan kiya; Thanjavur MLA Vijay Saravanan maujood) — REJECT: kshetra-bahar (Thanjavur AC, Kumbakonam nahi); mantri ke roop me sirf maujoodgi.
+// 6. DT Next, 2 Jul 2026 — "CM Vijay will announce complete crop loan waiver soon" (Moongilthuraipattu Cooperative Sugar Mill, Kallakurichi me crushing season ka udghatan) — REJECT: kshetra-bahar (Kallakurichi); waiver "jald" = "karenge" khabar.
+// 7. YouTube "Chennai Views" (Jun 2026) — "Mambazha Mela 2026 Express Avenue Mall" (Vinoth ne udghatan kiya) — REJECT: YouTube-only coverage + kshetra-bahar (Chennai).
+// 8. scoopfeeds.com (The Hindu mirror), 1 Oct 2026 — "TNSTC's one-day tour to 11 Srivaishnava Divya Desam temples" (3 Oct ko Kumbakonam bus stand se TNSTC temple tour package ko Vinoth ne hari jhandi dikhai) — REJECT: aggregator (scoopfeeds); mantri ke roop me jhandi dikhana, seat-level vikas-kaam ka nirdharit pramaan nahi.
+// 9. DT Next / webindia123 / newkerala, 6 Aug 2026 — Agriculture Budget 2026-27 (Vinoth ne prastut kiya; Rs 600 crore Soil Conservation Mission, Kuruvai Special Package Rs 134.83 crore, Kumbakonam me Agricultural Engineering Extension and Training Centre Rs 4.6 crore me shamil) — REJECT: mantri ke roop me rajya-stariya budget; Kumbakonam centre sirf budget me ghoshna, bina GO/sanction ke pass rules me "bina GO ke sirf ghoshna".
+// 10. prokerala.com / TOI live updates (Aug 2026) — budget-purva anumaan khabren — REJECT: pre-event announcement sources.
+// 11. Wikipedia "R. Vinoth" — REJECT as source: established news reporting nahi; mantri pad ke liye Oneindia cabinet list + The Hindu use ki gayi.
+// 12. SEAT-WORK NATIJA: May-Oct 2026 me Vinoth ke liye sirf 1 qualifying seat-level entry mili (upar). Baaki seat-level khabren sirf nirikshan/daura, bayan, ya kshetra-bahar thin. Profile khaali NAHI rahi — 1 entry banked.
+
+tamilNaduWorks['a-m-shahjahan'] = [
+];
+// REJECT-LOG (a-m-shahjahan):
+// 1. DT Next, 2 Jun 2026 — "Insurance methods for horticulture crop to be simplified: Minister AM Shahjahan" — REJECT: sirf nirikshan + "karenge" khabar. Eachankudi mekele ke nuksan ka mauka-nirakshan, kshatipurti ka waada, damage-enumeration report CM ko bhejne ki baat — koi sanction order/GO/lokarpan nahi.
+// 2. DT Next, Jun 2026 — "Papanasam DMK seek apology from State Minister Shahjahan" — REJECT: raajneetik vivaad akela negative nahi. DMK karyakartaon ke poster/protest, minister ke bayan par maafi ki maang; koi FIR/case/janch sthiti nahi.
+// 3. The Hindu/ETV Bharat/News18/DT Next, 21-22 May 2026 — IUML ka TVK-sarkaar me shamil hona, Shahjahan ka mantri-padasapath — REJECT: mantri-banne ki raajneetik khabar; Papanasam seat-level kaam nahi.
+// 4. News18 (PTI)/DT Next, 27 Aug 2026 — "TN unveils major welfare measures for state's minority communities" — REJECT: mantri ke statewide ghoshna (Assembly me demand-for-grants par: Rs 20 cr scholarship, Rs 40 cr Waqf HQ, Rs 100 cr revolving fund, 5 jilon me community hall, mahila college). Mantri MLA ke liye sirf seat-level kaam maanya; halls wale jile me Thanjavur nahi; "will be" ghoshna, swikriti-lokarpan nahi.
+
+tamilNaduWorks['durai-chandrasekaran'] = [];
+// REJECT-LOG (durai-chandrasekaran):
+// 1. New Indian Express, Mar 2023 — "TN Minister Nehru lays foundation stone for integrated water supply scheme in Thanjavur" (Rs 249cr, Budalur/Tiruvaiyaru unions) — REJECT: karyakaal se pehle (March 2023) + MLA sirf maujood tha, karyakram mantri ka.
+// 2. The Hindu, 16 Dec 2025 — "Farmer killed after Tiruvaiyaru MLA's car hits two-wheeler near Orathanadu" — REJECT: karyakaal se pehle (Dec 2025) + works nahi (accident incident).
+// 3. The Week, 7 Sep 2026 — "CM Vijay's rare gesture in Assembly for DMK MLA Durai Chandrasekaran goes viral" — REJECT: assembly politics, koi kaam/scheme nahi.
+// 4. DT Next, 30 Mar 2026 — "2026 TN elections | DMK's stars rooted in seats of their own" (candidate profile, 8vi baar ticket) — REJECT: chunav se pehle ka profile, works nahi.
+// 5. Business Today/TOI/Indian Express/ABP/Oneindia, 4-6 May 2026 — election result live coverage — REJECT: sirf natija (80,425 votes, 8,555 margin), koi kaam nahi.
+// 6. The Hindu, 10 Apr 2026 — Thiruvaiyaru poll-preview (ring road, betelvine, water issues) — REJECT: chunav se pehle ki ground report, karya-kaary se sambandhit nahi.
+// 7. ourneta.com profile — personal/assets data, purane 2009 ke case ki entry — REJECT: established reporting nahi, purana mamla, koi naya FIR/case sthiti post-May 2026 nahi mili.
+
+tamilNaduWorks['r-vijaysaravanan'] = [];
+// REJECT-LOG (r-vijaysaravanan):
+// 1. The Hindu, 6 May 2026 — "TVK MLA's dance video goes viral" (viral clip of MLA-designate dancing with a bottle in hand during a private western-districts tour with friends; TVK cadre blamed political opponents for circulating it) — REJECT as negative: koi FIR/case/janch NAHI, koi established investigative reporting nahi — gossip-level coverage, qualifying negative ka adhara nahi.
+// 2. Rootcast YouTube (22 Sep 2026) — MLA stepped into Tamil Nadu Assembly Speaker's chair on 7 Sep 2026 after being nominated to the Panel of Chairpersons by Speaker J.C.D. Prabhakar — REJECT: YouTube-only coverage, established press me swatantra reporting NAHI.
+// 3. devdiscourse.com / newkerala.com (Apr 2026) — "'Real Rs 5 doctor, not a Rs 250 crore actor': Saravanan targets Vijay" — REJECT: GALAT VYAKTI (ye AIADMK ke Thanjavur city secretary Dr. N.S. Saravanan ka chunav-prachar bhashan hai, R. Vijaysaravanan nahi) + pre-event (Apr 2026 chunav prachar).
+// 4. tamil.zone (2026) — "N. Anand congratulated; the Thanjavur AIADMK figure in TVK" (N.S. Saravanan AIADMK se TVK me) — REJECT: party politics news, koi seat-level vikas-kaam nahi; naam milta-julta, R. Vijaysaravanan ki dastavezi bhoomika nahi.
+// 5. New Indian Express (Mar 2023) — Minister K.N. Nehru laid foundation stone for Rs 249 crore combined water supply scheme (214 habitations incl. Thanjavur panchayat union) — REJECT: karyakaal se PEHLE (2023), mantri ka karyakram; R. Vijaysaravanan us samay MLA nahi the; sirf maujoodgi bhi darj nahi.
+// 6. New Indian Express (17 Jun 2025) — CM Stalin announced Rs 558 crore Thanjavur infra projects (VVR head bridge Rs 42cr, paddy warehouse Rs 170cr etc.) — REJECT: karyakaal se pehle; CM ka karyakram, MLA ki koi dastavezi pahal/bhoomika nahi.
+// 7. english.mathrubhumi.com (Sep 2026) — "CM Vijay unveils major Tamil Nadu projects for water, roads, drainage and waste management" — REJECT: CM-level rule-110 announcements; Thanjavur AC par R. Vijaysaravanan ki koi seat-level dastavezi pahal nahi.
+// 8. voterslist.in — "89 TVK Candidates with Pending Criminal Cases... Thanjavur: R. Vijay Saravanan — BNS" — REJECT: aggregator, primary source nahi; bina established reporting / nayi prakriya-sthiti / jawab ke negative nahi ban sakta.
+// 9. projectsmonitor.com (2026) — PM Modi inaugurates/lays foundation for Rs 13,000 crore TN projects (NH-83 Thiruvarur bypass etc.) — REJECT: kshetra-bahar (Thiruvarur/Chennai/Madurai), CM/PM-level karyakram, MLA ki bhoomika nahi.
+// 10. Indian Express / Business Today / Times of India / Oneindia / Zee News / The News Minute / ET Now / ETV Bharat (Apr-May 2026) — Thanjavur election result 2026 coverage — REJECT: chunav-natija khabar, post-May-2026 ka koi vikas-kaam nahi.
+// 11. SEAT-WORK NATIJA: May-Oct 2026 me English press me R. Vijaysaravanan ki seat-level bhoomika wali koi qualifying entry NAHI mili (koi udghatan/shilanyas/swikriti, sadak/paani/school/aspatal kaam, ya nirikshan ke parinaam-swaroop kaam darj nahi). Profile imaandari se khaali rahegi.
+
+tamilNaduWorks['r-vaithilingam'] = [
+  { title: 'Rs 27.9 crore alleged rishwat case me DVAC ko Chennai court ne dobara janch ki anumati di', note: 'Chennai Principal Sessions Judge S Karthikeyan ne 28 July 2026 ko DVAC ko Rs 27.90 crore ke alleged rishwat mamle me further investigation ki anumati di aur teen mahine me final report dene ko kaha. Aarop hai ki Vaithilingam ne 2011-16 me Housing Minister aur CMDA ke ex-officio chairman ke roop me Shriram Properties ko Perungalathur me 1,453 atirikt awasiya units ki planning permission ke badle Rs 27.90 crore liye the; shikayat Arappor Iyakkam ne 2022 me di thi aur DVAC ne Sept 2024 me FIR darj ki thi. DVAC ne Vaithilingam ke Jan 2026 me DMK me shamil hone ke baad closure report file ki thi (Feb 25, 2026 ke sarkari aadesh par), jiska Sessions court me June 4, 2026 ko punah samarthan bhi hua tha. ED ne closure ko challenge karke protest petition di aur PMLA me prosecution complaint bhi file kar chuka hai; sarkaar badalne ke baad DVAC ne closure wapas lene ki anumati maangi thi. DMK pravakta R.S. Bharathi ne kaha ki isme rajneeti se kuch lena-dena nahi hai; DVAC ne tippani se inkar kiya; Vaithilingam ka vyaktigat jawab uplabdh nahi hai.', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'DT Next', sourceUrl: 'https://www.dtnext.in/news/tamilnadu/trouble-for-dmk-leader-vaithilingam-as-chennai-court-allows-dvac-to-reopen-bribery-probe', date: '2026-07-28' },
+];
+// REJECT-LOG (r-vaithilingam):
+// 1. FPJ Exclusive, 9 Jun 2026, "Bribery Case Against Former AIADMK Minister R Vaithilingam Closed Soon After His Switch To DMK" (opened and read) — REJECT: closure order itself was pre-term (Feb 25, 2026); current case status (court-ordered reopen, 28 July 2026) is covered in the main entry above.
+// 2. DT Next, 12 Jun 2026, "Tamil Nadu: DVAC to reopen bribery case against Vaithilingam" (opened and read) — REJECT: intermediate development (DVAC sought permission, matter adjourned to June 29); superseded by the 28 July 2026 court order in the main entry.
+// 3. The Hindu, 21 Jan 2026, "Former AIADMK Minister R. Vaithilingam joins DMK" (DVAC case mention) — REJECT: pre-term (Jan 2026); case history covered in main entry.
+// 4. TOI Trichy, ~Sept 2025, "99% cadres want AIADMK reunified: Vaithilingam" (foundation stone for govt knowledge & study centre, Rs 1.36 crore, MLACDS) — REJECT: pre-term (Sept 2025).
+// 5. New Indian Express, 20 Mar 2026, "Ex-AIADMK strongman Vaithilingam likely DMK pick for TN's Orathanadu" (MLACDS public facility opening) — REJECT: pre-term (March 2026), pre-election coverage.
+// 6. The Hindu, ~Apr 2026, Orathanadu election preview — REJECT: pre-term election coverage, no work.
+// 7. Thanthi TV YouTube, 21 Jan 2026, resignation video — REJECT: YouTube-only, pre-term.
+// 8. Oneindia biography page (May 2026) — REJECT: biography, no work.
+// 9. Deccan Chronicle, 7 May 2016, "R Vaithilingam banks on development schemes" — REJECT: 2016 election coverage, pre-term.
+// 10. Multiple election-result pages (TOI, Oneindia, Indian Express, Business Today, mapsofindia) — REJECT: vote/margin data used only for pehchan; no works.
+// 11. "G. Vaithilingam" (Jayankondam AC, PMK winner) — REJECT: wrong person, different constituency and party; name-similarity trap avoided.
+// NOTE: Post-May-2026 English news on Vaithilingam is dominated by the DVAC bribery-case developments (reopened 28 July 2026, further probe ordered within 3 months — status pending as of research date). As an opposition MLA (TVK govt from 10 May 2026) no seat-level lokarpan/shilanyas/swikriti by him was found in established English media. Profile otherwise honestly empty.
+
+tamilNaduWorks['annadurai-k'] = [];
+
+// REJECT-LOG (annadurai-k):
+// 1. The Hindu, 22 May 2026 — "DMK MLA assures voters of fulfilling election promises" (Madukkur town panchayat thanksgiving rally) — REJECT: sirf "karenge" vaade; koi lokarpan/swikriti/shilanyas/ghoshna nahi (stage ka sach = vaada).
+// 2. TOI / Wikipedia / Business Today / Indian Express / Oneindia — Pattukkottai 2026 chunav parinaam pages — REJECT: pehchan-verification source; vikas-kaam ki khabar nahi.
+// 3. The Hindu (Sep 25, 2026) + News Today + Deccan Chronicle — "DVAC searches premises linked to DMK MP C.N. Annadurai" — REJECT as negative: GALAT VYAKTI — ye C.N. Annadurai, Tiruvannamalai Lok Sabha MP hain; Pattukkottai ke K. Annadurai MLA nahi. Isi galat-vyakti ke DVAC raids ko unse jodna bilkul mana.
+// 4. The Hindu, Nov 25, 2025 — Thanjavur-Pattukkottai road 4-lane widening (Rs ~108 crore, Feb 2026 tak poora) — REJECT: karyakaal-se-pehle ka kaam + MLA ki bhoomika dastavezi nahi.
+// 5. The Hindu, Sep 30, 2026 — Pattukottai-Karaikudi rail electrification clearance — REJECT: railway (kendra) project; MLA se joda nahi.
+// 6. edexlive / sangritoday — Mylswamy Annadurai (ex-ISRO scientist, school syllabus panel) — REJECT: GALAT VYAKTI, koi lena-dena nahi.
+// 7. The Hindu candidate profile / myneta.info affidavit — 2 pending criminal cases (2021 profile) / purane protest-ke FIR (IPC 143/341/188/269/270, 2020) — REJECT as negative: halafnama akela + nayi FIR/janch sthiti ki established reporting May 2026 ke baad nahi; rule: "chunav-yachika akeli negative nahi".
+// 8. SEAT-WORK NATIJA: May-Oct 2026 ki English press me Pattukkottai seat par unke vyaktigat seat-level kaam (lokarpan/shilanyas/swikriti) wali koi qualifying entry NAHI mili. Opposition MLA + sabha sirf ~5 mahine purani — khaali profile imaandari hai.
+
+tamilNaduWorks['ashokkumar-n'] = [];
+// REJECT-LOG (ashokkumar-n):
+// 1. The Hindu, 2026-08-04, "Udhayanidhi's arrest: DMK and TVK cadres protest in central districts" — REJECT: article padha; Ashokkumar ne Udhayanidhi Stalin ki giraftari ke khilaf Peravurani me road-roko protest lead kiya aur police ne giraftar (detain) kiya. Ye political protest-detention hai — koi FIR/case/janch ka zikr nahi, isliye negative entry criteria (FIR/case + neta ka jawab) poori nahi hoti; aur ye vikas-kaam bhi nahi hai.
+// 2. dtnext, 2025-07-17, "Action sought against AIADMK worker for hindering desilt works in Thanjavur" — REJECT: July 2025 ki khabar (karyakaal May 2026 se pehle); Kadamangal lake desilt me MLA sirf MP ke saath upasthit tha.
+// 3. The Hindu, 2023-09-11, "Electric vehicles for clearing garbage handed over to village panchayats" — REJECT: 2023 ki khabar, karyakaal se pehle; 26 panchayaton ko EV handover ki post-event reporting thi lekin purani.
+// 4. New Indian Express, 2026-03-16, "DMK panchayat chief among seven booked by DVAC for financial fraud of Rs 65 lakh in Thanjavur" — REJECT: 16 March 2026 ki khabar (karyakaal se pehle); MLA par koi aarop nahi — aarop Peravurani town panchayat chairperson ke parivar par hai.
+// 5. The Hindu, 2026-07-06, "Farmers demand coconut industrial park on PPP model at Peravurani" — REJECT: sirf maang/prastav/gyapan (farmers association ka minister ko memorandum) — koi swikriti/ghoshna/kaam nahi; MLA ka zikr bhi nahi.
+// 6. YouTube Shorts, "Ditwah cyclone | Ashok Kumar Peravurani MLA | AK Thajudeen | Mallipatinam harbour" — REJECT: YouTube-only coverage; aggregator-style content, criteria me reject.
+// 7. TOI/The Hindu/Indian Express/Oneindia/BusinessToday/ABP Live/Times Now/NDTV (May 2026) election-result coverage — REJECT: sabhi chunav coverage, koi post-May-2026 vikas-kaam nahi.
+
+// COORDINATOR QA NOTE (Thanjavur, researched 2026-10-15):
+// - 8/8 MLA researched; pehchan sabhi ki verify. Kul titles: is batch se +2 (vinoth par 1 lokarpan; r-vaithilingam par 1 NEGATIVE; 6 profiles imaandari se khaali).
+// - vinoth (Krishi Mantri, TVK): Kalambaram me C channel sinchai ka udghatan (6 Jun 2026, DT Next khola gaya) — mantri hone ke bawajood seat-level Kumbakonam kaam, isliye rakha; title/note ke escapes saaf kiye.
+// - r-vaithilingam NEGATIVE: 28 July 2026 ka Chennai Sessions court order (DVAC further investigation, 3 mahine me final report); aarop 2011-16 ka hai, FIR Sep 2024, closure Feb 2026 — stage-sach note me; DMK pravakta ka jawab darj, vyaktigat jawab nahi mila (disclose). Identity: AIADMK purv-mantri aur Orathanadu DMK MLA ek hi vyakti hain (FPJ pehchan).
+// - galat-vyakti traps pakde: C.N. Annadurai DVAC raid (annadurai-k se alag MP); G. Vaithilingam (PMK, Jayankondam); Dr. N.S. Saravanan (vijaysaravanan se alag).
+// - a-m-shahjahan (Minorities Mantri) aur govi-chezhiaan (purv mantri, ab opposition) ke saare items rajya-stariya/pre-term — khaali. vijaysaravanan dance-video par koi FIR nahi — negative nahi.
