@@ -828,3 +828,47 @@ assamWorks['dhiraj-gowala'] = [];
 // 6. Pre-term items: AATSA chief ka BJP me shamil hona (Dec 2025), mantriyon se mulaqat (Oct 2025), TOI election preview — sab 4 May 2026 se pehle — reject.
 // 7. Pratidin Time: "Assam CM Launches Projects Worth Rs 8.53 Crores in Jorhat" — purani (CM-era ~2023) + CM ki pariyojna — reject.
 // Koi qualifying negative reporting (FIR/case/jaanch) established media me nahi mili. Profile imaandari se khaali rahi.
+// Kamrup district batch (researched 2026-10-14) — consolidated fragment
+// 6 MLAs: 2 entries (raju-mesh), 4 profiles honestly empty. Sabha May 2026 se (~5.5 mahine purani).
+
+// ---- Kamrup district batch (researched 2026-10-14) ----
+assamWorks['rekibuddin-ahmed'] = [];
+
+assamWorks['raju-mesh'] = [
+  {
+    title: 'Boko-Chaygaon me kul lagbhag Rs 6.19 crore ki paanch SOPD-G sadak pariyojnaon ka shilanyas Raju Mesh ne 10 Jun 2026 ko kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sentinel Assam, 11 Jun 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/mla-raju-mesh-flags-off-rs-619-crore-road-development-projects-in-boko-chaygaon',
+    date: '2026-06-10',
+    note: 'Stage: shilanyas (poornata ki khabar nahi): 10 Jun 2026 ko vidhayak ne State-Owned Priority Development Fund (SOPD-G) ke tehat swikrit kul lagbhag Rs 6.19 crore ki paanch sadak pariyojnaon ka shilanyas kiya — Samaria Satra se Ram Saraswati Academy (Rs 75 lakh), Cholapathar se Samaria Old Bus Stand (Rs 77.71 lakh), Daspara Adarsha Primary School se No. 2 Makeli Primary School (Rs 243.85 lakh), Trilochan ME School se Baralimara PWD Connecting via Karital (Rs 90.9 lakh), Dhekiajuli Power House se Nepali Para via Gorbandha aur Vehua Yuvak Sangha (Rs 132.43 lakh). Shilanyas ke baad kaam shuru hona tha; poornata abhi reported nahi. Fund-srot rajya ki SOPD-G yojna hai, vidhayak ki vyaktigat nidhi nahi. Post-event reporting researcher ne kholkar padhi.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Boko-Chaygaon ke Raipara, Athkupara aur Deochor me Rs 3.30 crore se adhik ki teen SOPD-G sadak pariyojnaon ka shilanyas Raju Mesh ne 12 Jun 2026 ko kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hub Network, 12 Jun 2026',
+    sourceUrl: 'https://hubnetwork.in/rs-3-3-crore-road-push-aims-to-boost-connectivity-in-boko-chhaygaon/',
+    date: '2026-06-12',
+    note: 'Stage: shilanyas (poornata ki khabar nahi): 12 Jun 2026 ko vidhayak ne Raipara, Athkupara aur Deochor me SOPD-G 2025-26 ke tehat swikrit Rs 3.30 crore se adhik ki teen sadak pariyojnaon ka shilanyas kiya — Boko-Chamaria Road se Raipara via Medhipara lakdi ke pul sahit (Rs 1.19 crore), Athkupara PWD Road se Ganya Cemetery Road (Rs 61.29 lakh), Agchiya Deochor se Basanta Kalita House via Uttar Bahjani LP School (Rs 1.50 crore). PWD Roads ke adhikari saath the. Disclosure: Hub Network ek chhota Northeast-kendrit portal hai; post-event reporting me pariyojnaon ke naam, laagat aur fund-srot diye gaye hain, researcher ne kholkar padha. Kaam jald shuru hona tha; poornata abhi reported nahi.',
+    period: '2026-2031',
+  },
+];
+
+assamWorks['himangshu-shekhar-baishya'] = [];
+
+assamWorks['prakash-chandra-das'] = [];
+
+assamWorks['bhabesh-kalita'] = [];
+
+assamWorks['diganta-kalita'] = [];
+
+// REJECT-LOG (rekibuddin-ahmed): Brahmaputra riverside road plan (indiatodayne.in, Nov 2025) — pre-tenure promise, construction "after elections", karyakaal se pehle. Flood-relief visit Goroimari (indiatodayne.in, Jun 2025) — pre-tenure + relief, not works. Chaygaon-Ukiam Rs 100 crore road highlight (indiatodayne.in, Dec 2025) — pre-tenure, old project. Campaign office inauguration, bike rally, welcome reception, ADR poll-spend (Mar 2026-May 2026) — election coverage, no works. Bamunigaon-Jambari road shilanyas (Assam Tribune epaper, undated old) — prior karyakaal. 5 targeted search rounds me May 2026 ke baad ka koi verifiable works-news nahi mila; profile imaandari se khaali.
+// REJECT-LOG (raju-mesh): CMAAA instalment distribution, Boko, 17 Sep 2026 (indiatodayne.in) — state welfare scheme; MLA sirf chief guest, sanction/facilitation me concrete bhoomika nahi. Singua Water Supply Pilot Project review, 20 Jun 2026 (indiatodayne.in) — minister Piyush Hazarika ka inspection; MLA sirf maujood, karyakram mantri ka. Assam-Meghalaya border areas tour, 14 May 2026 (sentinelassam.com) — sirf nirikshan/daura. Boko CHC Rs 47 lakh CSR equipment handover, Oct 2026 (indiatodayne.in) — Shipping Corporation of India CSR via AVA Foundation; MLA sirf karyakram me maujood, shrey ka concrete saboot nahi. "13-road-projects in six days" MLA-dawa (Hub Network) — alag-alag verifiable articles nahi mile, akela dawa entry nahi bana.
+// REJECT-LOG (himangshu-shekhar-baishya): Sentinel Assam, 6 Jul 2026 — "Palasbari MLA Unveils Development Roadmap" (khud khola): Dakhala Pahar tourism "would be developed" + hospital "proposed" — bina GO ke ghoshna, reject. Sentinel Assam, 16 Jun 2026 — Sanskriti Bikash Bhavan modernisation ka "all possible support" felicitation programme me — sirf ashwasan, reject (ceremonial). Sentinel Assam, ~22 Jun 2026 — Palli survey clarification, sirf bayan, reject. Kalahi River erosion inspection — title-explicit nirikshan, reject. Sentinel Assam + OpIndia, 29 Sep 2026 — CJP school controversy, political incident, koi vikas-kaam nahi, reject. Palasbari-Sualkuchi bridge bhumi pujan (Dec 2024) — pre-tenure + CM-level, reject. Pre-tenure viral-audio party feud — na kaam na negative-qualifying, reject.
+// REJECT-LOG (prakash-chandra-das): TheAssamRising, 28 Aug 2026 — Sankardeva birth-anniversary celebration me "distinguished guest" — dharmik karyakram, sarkari pariyojna nahi, reject (ceremonial). Baaki sab sirf election coverage; targeted searches (silk/road/school/bridge angles) me zero development-work hits.
+// REJECT-LOG (bhabesh-kalita): nenow.in Mar 2026 — Forest Dept office inauguration me sirf maujoodgi + pre-term, reject. pratidintime.com — Baralia River bridge foundation, event ~2024 ka = pre-term, reject. TOI Sep 2026 — JNV Rangia youth event me chief guest, ceremonial, reject. sentinelassam Sep 2026 — Alzheimer's Day event me sirf attendee, reject. Mar-Apr 2026 poll news + purane party-post news, reject. news18 Jan 2026 — Rangia highmast light ka adhaarshila (Dilip Saikia mukhya atithi, Bhabesh sirf local MLA upasthit) — pre-term + concrete bhoomika nahi, reject.
+// REJECT-LOG (diganta-kalita): pubkamrupcollege.co.in — Girls Hostel vertical extension foundation 13 Mar 2026 = pre-term, reject. nktv.in Sep 2026 — CM ka Amingaon inspection, sirf maujoodgi, reject. latestly.com (ANI) Dec 2025 — GTC Football Academy inauguration, sirf upasthit + pre-term, reject. nefocus.com 3 Oct 2026 — Bezera health camp visit = welfare camp (rules me excluded) + sirf visit, reject. latestly.com Aug 2022 — 1,000 Model Anganwadi centres, pre-term + sirf upasthit, reject. Dapoon Poripurika guidebook praise — private publisher promo, koi sarkari kaam nahi, reject. 2 YouTube shorts — YouTube-only + pre-election aarop bina FIR/janch ke, reject.
+// Coordinator QA: dono Raju Mesh entries ke title/note ko worker ke English se Roman-Hinglish me convert kiya (srot-tathya aparivartit); W2/W3 ke 0-title claims verify kiye; marker exactly 1x; har slug exactly once; sabhi 6 slugs pehle khaali the (overwrite nahi).
