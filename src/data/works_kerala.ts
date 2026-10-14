@@ -2975,3 +2975,86 @@ keralaWorks['adv-o-j-janeesh'] = [];
 // QA NOTE (adv-o-j-janeesh): Khaali profile (0 entries). Pehla-term MLA; 18 May 2026 se state mantri (Sports/Youth/Registration/Archaeology/Museums) — unki zyada tar media coverage ministerial portfolio aur state sports decisions ki hai, jo Kodungallur AC ke MLA-works scope se bahar hai. May 2026 ke baad Kodungallur AC me unke dwaara lokarpan/shilanyas/swikriti ka koi established-media report mila hi nahi. 10+ search rounds (English editions: The Hindu, Mathrubhumi, Onmanorama, NIE, TOI) ke baad imaandari se profile khaali chhodi ja rahi hai. Weak attribution se behtar kuch na jodna. Future runs me dobara check ho sakta hai.
 
 // COORDINATOR QA NOTE (Thrissur district batch, 2026-10-14): 7/7 workers completed, sabhi 7 fragments khud padhe — assignment format exact, har slug exactly once (append se pehle 0 matches — koi overwrite nahi), marker 1x. Kept entries (4, 3 slugs): a-c-moideen (Kunnamkulam) — 2 NEGATIVE (Karuvannur bank money-laundering case: ED supplementary chargesheet 6 Jun 2026 ko PMLA court ne swikar ki, Moideen named accused 67-70/83 + 4 Jul ko pesh hone ke samn; phir 4 Jul ko PMLA court se jamaanat — unka jawab/apatti darj; Kathit apradh pre-term, lekin adalati prakriya-sthiti May-2026+ ki hai — stage-accurate); adv-thomas-unniyadan (Irinjalakuda) — 1 lokarpan (2 Priyadarshini bus sewaon ka udghatan 11 Oct 2026, Malayalam Daily News — chhota local portal, note me disclosure); saneeshkumar-joseph (Chalakudy) — 1 NEGATIVE (Vigilance Court ne case darj + janch ka aadesh 2 Sep 2026, unka inkaar darj, Kerala HC ne 7 Oct ko antarim stay diya; vartaman sthiti: stay, nishkarsh pending). 10 profiles imaandari se KHAALI: u-r-pradeep, n-k-akbar, c-raveendranathan (FOLLOW-UP LEAD: Carbon Neutral Manalur fund-ghoshna 11 Sep 2026 — abhi ghoshna-stage, GO/work-order mile to entry; agle wave me check), xavier-chittilappilly (NIE Rs 7.77cr sanction pre-term 12 Jan 2026 — reject), k-rajan (mantri-kaal pre-term reject; 'purv mantri K Rajan' aur 'Ollur MLA K Rajan' ek hi vyakti — verified), rajan-j-pallan (budget debate me sirf maangen), geethagopi (payment-seat vivaad pre-term, nayi prakriya-sthiti nahi), k-k-valsaraj, k-k-ramachandran (naamtrap pakde: purv Congress minister / KSCSTE EVP / Thechikkottukavu haathi — sab alag vyakti), adv-o-j-janeesh (pehli-baar MLA + vartaman Sports/Youth mantri — sab coverage mantri-bhoomika ki, seat-bahar; DYFI attack me ve shikayat-karta/pidit, aaropi nahi). Hygiene: 0 Devanagari/Malayalam (thrissur_e ka Malayalam search-sweep string Roman me badla), 0 rupee-symbol, 0 literal-\n; entry objects me 0 comments; period '2026-2031' sabhi kept entries me; negative entries me stage field nahi; reject-logs Roman Hinglish.
+
+// ---- Wayanad district batch (researched 2026-10-14) ----
+
+// Kerala works-mining fragment: Usha Vijayan (usha-vijayan, INC) — Mananthavady (ST), Wayanad
+// Research date: 14 Oct 2026. Karyakaal scope: May 2026+; period '2026-2031'.
+// RESULT: zero entries — May 2026 ke baad established English news me unke naam par koi
+// concrete kshetra-kaam (lokarpan / sanction order-GO / shilanyas) nahi mila. Profile imaandari se khaali.
+
+keralaWorks['usha-vijayan'] = [
+];
+// REJECT-LOG (usha-vijayan):
+// 1. Healthy Wayanad project consultation (The Hindu, 10 Oct 2026) — District administration ke project par unhone sirf ek district-level consultation meeting ki adhyakshata ki; koi fund/sanction/kaam unke naam par nahi. REJECT (sirf maujoodgi/adhyakshata).
+// 2. Brand Wayanad tourism launch (Oct 2026) — Tourism Minister P. C. Vishnunadh ke launch karyakram me woh sirf ek attendee thiin; mantri ka karyakram. REJECT (maujoodgi only).
+// 3. Vilangad-Mananthavady road action committee (The Hindu, 5 Sep 2026) — unhe sirf "chief patron" (honorary, 2 MPs ke saath) banaya gaya; committee abhi sirf preliminary survey ke funds dhoondh rahi hai, koi sanction ya zameeni kadam nahi. REJECT (honorary role, no concrete step).
+// 4. Wayanad Medical College land proposal (New Indian Express + Onmanorama, 9 Oct 2026) — Mananthavady Municipality ne Parisons Estate ki 25-acre offer wali detailed proposal unke netritva me sarkar ko bhejne ka faisla kiya; sarkari faisla abhi pending, land par conditions bhi hain. REJECT (sirf prastav, koi swikriti/GO nahi).
+// 5. Wayanad coffee promotion seminar (29 Sep 2026) — unhone Mananthavady me International Coffee Day seminar ka uddhatan kiya, sirf bayan. REJECT (karyakram uddhatan/bayaan, kaam nahi).
+// 6. Shigella review meeting (Onmanorama, 21 Jul 2026) — Thavinhal engineering college me Shigella case par minister T. Siddique ki adhyakshata wali review meeting me woh sirf upasthit thiin. REJECT (maujoodgi).
+// 7. Election/politics stories (March-May 2026; local body bypoll analysis Sep-Oct 2026) — chunav se pehle ki khabrein ya unke purane block-panchayat ward (Pallikkal) ki bypoll charcha; kshetra-kaam nahi. REJECT (karyakaal-se-pehle / political, not works).
+// 8. 2024 Mundakkai-Chooralmala township rehab — rajya sarkar ka project; kisi bhi established article me Usha Vijayan ki apni concrete bhoomika nahi mili; credit nahi diya ja sakta. REJECT (no documented role).
+// QA NOTE (usha-vijayan): 8 targeted English-news searches (The Hindu, New Indian Express, Onmanorama, Mathrubhumi English, Times of India, Kerala Kaumudi; NIE ka medical-college article khud kholkar padha). Identity verified: Usha Vijayan, INC, Mananthavady (ST), Wayanad; 4 May 2026 ko 77,425 votes se jeet, O. R. Kelu ko 10,543 se haraya. Unpar koi negative reporting (FIR/case/aarop) nahi mili. 0 entries banked — profile khaali, imaandar.
+
+
+keralaWorks['i-c-balakrishnan'] = [
+  {
+    title: '25 May 2026 ko Sulthan Bathery MLA I.C. Balakrishnan ke asset development fund se Rs 1.80 crore ki sadak-works ki administrative sanction, Noolpuzha, Ambalavayal aur Pulpally grama panchayaton me 13 sadkon ke liye.',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Hindu, 25 May 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/administrative-sanction-granted-for-road-works-in-sulthan-bathery-constituency/article71021593.ece',
+    date: '2026-05-25',
+    note: 'The Hindu ne 25 May 2026 ko report kiya ki Sulthan Bathery MLA I.C. Balakrishnan ke asset development fund se kul Rs 1.80 crore ki sadak works ki administrative sanction di gayi hai, jisme Noolpuzha grama panchayat me teen sadke (Naikkatti-Mathamangalam-Pulimaram Kavala tarring Rs 20 lakh, Karyambadi Paniya Unnathi road Rs 15 lakh, Chithralakkara Vayal Varambu formation Rs 20 lakh), Ambalavayal grama panchayat me paanch sadke (Rs 15 lakh, Rs 15 lakh, Rs 10 lakh, Rs 15 lakh aur Rs 10 lakh) aur Pulpally grama panchayat me Shankunnikavala-Gandhinagar Unnathi sadak (Rs 10 lakh) shamil hain. Stage swikriti hai kyunki prashasnik swikriti ki khabar specifics ke saath established media me darj hai. Yeh chauthi baar ke MLA ka May 2026 ke chunav ke turant baad ka pehla documented kshetra-vikas kadam hai, poori tarah Sulthanbathery seat ke andar.',
+    period: '2026-2031',
+  },
+];
+// REJECT-LOG (i-c-balakrishnan):
+// 1. Onmanorama (18 Oct 2025): VACB ne Sulthan Bathery cooperative bank graft case me FIR darj ki (late DCC treasurer N.M. Vijayan ke suicide note ke baad preliminary inquiry) — ghatna/FIR dono karyakaal se pehle (Oct 2025); vartaman karyakaal me FIR/case/adalaati-karyavahi ki koi nayi established-media reporting nahi mili, isliye negative entry nahi bani.
+// 2. The Statesman/TOI (Jan 2025): N.M. Vijayan suicide case me abetment of suicide ke aarop par arrest aur Kalpetta District Sessions Court se anticipatory bail — karyakaal se pehle; reject.
+// 3. New Indian Express (31 Mar 2026): chunav-se-pehle allegations (graft/abetment of suicide) ka coverage — sirf chunav khabar, pre-term allegations; reject.
+// 4. Lokmat Times (3 Jul 2026): Health Minister K. Muralidharan ki Wayanad health package ghoshna (Sulthan Bathery Taluk Hospital ko district hospital banane ka ailaan sahit) — mantri ki ghoshna, MLA ki dastavezi bhoomika nahi; reject.
+// 5. Niyamasabha revised budget speech: Sulthan Bathery constituency me Government Arts and Science College ke liye Rs 2 crore ka budget item — aam budget ghoshna, MLA ki dastavezi concrete bhoomika nahi; reject.
+// 6. Chunav-result coverage (Indian Express, TOI, Business Today, Oneindia, India TV, May 2026): jeet ki khabrein (78,936 vote, 16,597 ka antar) — vikas-kaam nahi; reject.
+// 7. ETV Bharat (16 Jun 2026): Wayanad me DDMA/PWD ke 5 helipads — rajya-pariyojna, MLA ki bhoomika nahi; reject.
+// 8. New Indian Express (4 Aug 2026): Avocado Fest, Ambalavayal (WHFPCL, KERA, CFTRI collaboration) — agriculture event, MLA ki concrete bhoomika nahi; reject.
+// 9. Onmanorama (3 Jul 2026): Wayanad Medical College land issue par Health Minister ki ghoshna — mantri-role, Sulthan Bathery seat se bhi nahi; reject.
+// 10. syromalankara.church (19 Dec 2024): KCBC housing project inauguration me MLA ki maujoodgi — church event, sirf ceremonial attendance, pre-term; reject.
+// 11. New Indian Express (9 Oct 2026): Mananthavady municipality ka medical college land proposal — doosre MLA (Usha Vijayan, Mananthavady) ka mamla; kshetra-bahar + galat vyakti; reject.
+// 12. onefivenine.com village pages — directory listings, news nahi; reject.
+// QA NOTE (i-c-balakrishnan): Pehchan verified — I.C. Balakrishnan, INC, Sulthanbathery (ST), Wayanad; chautha lagatar karyakaal (2011/2016/2021/2026), 4 May 2026 ko 78,936 vote, 16,597 ke antar se jeet; janm 25 May 1975, Valad, Wayanad (Niyamasabha Who is Who profile se). Naam-trap check OK — Balakrishnan Edakkal (IND candidate) alag vyakti hai. ~8 search rounds (English: inauguration/foundation stone/sanction/asset development fund/MLA fund/cooperative bank case keywords x Onmanorama/Mathrubhumi/The Hindu/IE/NIE/Asianet/TOI + news vertical). May-Oct 2026 me sirf ek qualifying post-event item mila (25 May 2026 sadak swikriti, The Hindu). Mundakkai-Chooralmala punarvas me unki koi concrete documented bhoomika established media me nahi mili. Negative screen: pre-term FIR/cases ke baad karyakaal me koi nayi FIR/case/adalaati khabar nahi — negative entry nahi.
+
+
+keralaWorks['adv-t-siddique'] = [
+  {
+    title: 'Wayanad ke liye BHOOMI CSR platform ka 17 September 2026 ko udghatan: 59 pariyojnaon hetu Rs 15 crore pratibaddhata ka daava',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Onmanorama, 21 Sep 2026',
+    sourceUrl: 'https://www.onmanorama.com/news/kerala/2026/09/21/wayanad-s-csr-experiment-minister-siddique-takes-hill-district-s-needs-to-corporate-india.html',
+    date: '2026-09-21',
+    note: 'Onmanorama ki 21 Sep 2026 ki post-event reporting ke mutabiq Wayanad ki vikas-avashyaktaon ko CSR fund se jodne wale BHOOMI online platform ka udghatan CM V. D. Satheesan ne 17 September 2026 ko kiya. Ye Siddique ki apni pehel hai — vichaar 2024 landslide ke baad unke chhatra-sahayta prayas se nikla (tab ve keval MLA the), aur ve Delhi, Mumbai, Hyderabad jaakar foundation pramukhon se mil rahe hain. Unke bayaan ke hawale se: UDF sarkar ke pehle 100 din me 59 pariyojnaon ke liye lagbhag Rs 15 crore ki pratibaddhata mili, jisme se lagbhag Rs 7 crore kharch ho chuka hai; poorn bataye gaye kaam — chhatron ko laptop vitran aur Onam par 7,000 se adhik food kit/kapde vitran; Quest Global-vitthit 3 naye anganwadi + 17 navinikrit anganwadi ka udghatan 17 October ko ghoshit hai (research date 14 Oct tak ye pre-event hai, poorn nahi mana gaya). Credit/fund disclosure: ye CSR fund ka abhiyan hai — sarkari budget ya MLA-nidhi se nahi; poore Wayanad jile ka hai (Kalpetta sahit, lekin Sultan Bathery/Mananthavady bhi), isliye kadai se Kalpetta-kshetra ka kaam nahi; Siddique ki bhoomika CM ke karyakram me keval maujoodgi nahi, balki abhiyan ke sutradhar/chalak ki hai.',
+    period: '2026-2031'
+  },
+];
+// REJECT-LOG (adv-t-siddique):
+// 1. Township udghatan me booing vivad, 1-2 Mar 2026 (Kerala Kaumudi, Onmanorama, TOI, Rediff/PTI, Metrovaartha) — karyakaal se pehle + sirf maujoodgi; vikas-kaam nahi.
+// 2. Rahul Gandhi dwara 50 Congress-nirmit gharon ka shilanyas, 26 Feb 2026, Meppadi (The Statesman/UNI) — pre-term + Congress/LoP ka karyakram; Siddique ka ullekh keval Facebook post me.
+// 3. Shruti ghar vivaad, 4 Apr 2026 (Kerala Kaumudi) — pre-term + siyasi vivaad; ghar "Time News" YouTubers bana rahe hain, Siddique ne keval purane (2024) shilanyas samaroh me hissa liya tha.
+// 4. Shruti shilanyas, 26 Sep 2024 (Mathrubhumi English) — purana karyakaal.
+// 5. Uyirp/Malabar Group Rs 2 crore uchch-shiksha pehel, 2 Apr 2025 (Devdiscourse/NewsVoir) — pre-term; udghatan Wayanad MP Priyanka Gandhi ne kiya, Siddique ne keval adhyakshata ki.
+// 6. 2024-25 ka Rs 20 crore poorn-vitthit uchch-shiksha karyakram (421 chhatra) — Onmanorama 21 Sep 2026 article me ullekh; pre-term kaam ("then an MLA"), is scope me nahi — lekin yahi BHOOMI vichaar ka mool hai.
+// 7. Township sameeksha bayaan, 10 Sep 2026 (The Hindu, Metrovaartha) — sirf nirikshan/bayaan; township rajya sarkar ka kaam hai, Siddique mantri ke roop me sameeksha kar rahe hain — unhe shrey nahi.
+// 8. TOI township review, ~5 Oct 2026 (Rs 15 crore skill park tender, Kalpetta GLP School prastav, Vellarmala/Mundakkai school punarnirman tenders) — review-meeting ki "karenge" ghoshnaein; GO/sanction/work-order ka saboot nahi; township rajya-sarkar kaam.
+// 9. Rahul Gandhi dwara Siddique ke MLA karyalaya ka udghatan, 11 Oct 2026 (inc.in) — YouTube-only srot (reject-list) + siyasi karyakram, vikas-kaam nahi.
+// 10. 3 naye + 17 navinikrit anganwadi, udghatan 17 Oct 2026 ghoshit (Onmanorama 21 Sep 2026) — research date 14 Oct 2026 tak pre-event announcement; post-event reporting uplabdh nahi — agle wave me retry lead.
+// 11. Naam-trap: Malayalam film actor "Siddique" (AMMA) par rape case ki khabrein (2024-25) — ye alag vyakti hain, Adv. T Siddique (Kalpetta MLA) nahi; koi negative entry nahi bani. (Task me ullekhit Karnataka "Siddiq"/Bidar confusion is research me kahin nahi mila.)
+// 12. Chunav-parinaam coverage (TOI, Indian Express, Oneindia, India TV/ADR, May 2026) — jeet ki khabrein (97,379 votes, 45,031 margin); vikas-kaam nahi.
+// Negative check: karyakaal (May 2026+) me unke khilaf established media me koi FIR/case/adalaati/janch ki reporting nahi mili; halafname ke 39 cases pre-existing hain. Koi negative entry nahi.
+// 13. COORDINATOR-QA REJECT: e-waste abhiyan first-phase entry (worker ne rakhi thi) — Siddique ne ise Wayanad prabhari mantri ke roop me unveil kiya; kriyanvayan Suchitwa Mission + jila prashasan ne kiya, CSR fund se; unki bhoomika mantri-form udghatan/sammaan tak thi, koi dastavezi vyaktigat pahal nahi (BHOOMI entry se ulat jisme unki pahal 2024 se documented hai) — mantri-niyam ke tahat reject (mantri-bhoomika ka jila-karyakram, seat-specific kaam nahi).
+// QA NOTE (adv-t-siddique): ~10 search rounds (English; Onmanorama, Mathrubhumi English, The Hindu, Indian Express, Asianet News, New Indian Express, Times of India, Metrovaartha English). Dono entry-srot khud khole aur poore padhe (Metrovaartha 3 Oct 2026; Onmanorama 21 Sep 2026); pushti ke liye The Hindu e-waste post-event (4 Oct 2026) bhi khola. Pehchan verified: Adv. T Siddique, INC, Kalpetta (Wayanad) se 2026 me dobara jeete; 18 May 2026 se Kerala ke Krishi Mantri + Wayanad ke prabhari mantri hain — isliye May-Oct 2026 ki coverage lagbhag poori mantri-bhoomika (jila-star) ki hai; Kalpetta-kshetra-specific Sadak/Paani/School/Aspataal ka koi post-event report nahi mila. Dono entries Wayanad jila-star ki hain jinme Kalpetta shaamil hai — note me scope/fund disclosure poori di gayi hai; parent keep/drop decide kare. Profile KHAALI nahi: 1 entry (BHOOMI). E-waste entry coordinator-QA me reject (upar item 13).
+
+
+// COORDINATOR QA NOTE (Wayanad district batch, 2026-10-14): 3/3 workers completed, teenon fragments khud padhe. Kept entries (2, 2 slugs): i-c-balakrishnan (Sulthanbathery ST) — 1 swikriti (The Hindu 25 May 2026, MLA asset development fund se Rs 1.80 crore ki 13 sadkon ki administrative sanction, itemized specifics — swikriti standard met); adv-t-siddique (Kalpetta) — 1 lokarpan (BHOOMI CSR platform, unki documented vyaktigat pahal 2024 se, CM ne 17 Sep 2026 ko launch kiya; Rs 15cr pratibaddhata/Rs 7cr kharch unke daave — note me disclosure; scope district-wide, CSR fund, Kalpetta sahit — poora disclose). E-waste entry coordinator ne khud reject ki (mantri-form unveiling, Suchitwa Mission/jila prashasan ka kaam). 1 profile imaandari se KHAALI: usha-vijayan (8 targeted searches; sabse najdeeki item sirf prastav-stage tha). Hygiene: 0 Devanagari/Malayalam script, 0 rupee-symbol, 0 literal-\\n; entry objects me 0 comments; period '2026-2031' sabhi kept entries me; reject-logs Roman Hinglish.
