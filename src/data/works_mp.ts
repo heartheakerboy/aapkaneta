@@ -8271,3 +8271,199 @@ mpWorks['jai-singh-maravi'] = [
 // - youtube.com — Delhi ke Jaitpur ki 9 km road wali khabar; galat seat (Delhi).
 // - livegoodmorning.com / yesnews.co.in / seetimes.in — seva-sankalp sabha, BJP samiksha baithak, Keshwahi abhiyan; sab me MLA sirf upasthit; koi karya nahi.
 
+// ---- Shajapur district batch (researched 2026-10-14) ----
+mpWorks['arun-bhimawad'] = [
+  {
+    title: 'Baksukhedi me Rs 20.5 crore ki high-tech alu-pyaaz mandi ka bhoomi-pujan — vidhayak aur collector ne karyakram ka netritva kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 29 Aug 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/shajapur/news/a-new-agricultural-produce-market-will-be-built-in-shajapur-in-1-year-135790746.html',
+    date: '2025-08-29',
+    note: 'Shajapur jile ke gram Baksukhedi me alu aur pyaaz ki nayi krishi upaj mandi ka bhoomi-pujan hua jiska netritva vidhayak Arun Bhimawad aur collector Riju Bafna ne kiya; mandi lagbhag 20 hectare me banegi, nirman lagat Rs 20.5 crore, aadhunik suvidhaon aur food processing unit ke saath; collector ke anusar nirman ek varsh me poora karne ka lakshya tha. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Caveat: FUND SPASHT NAHI — report me ye mandi-board/rajya yojna ka karya hai ya vidhayak-nidhi ka, ye nahi likha; vidhayak ka dastavezi concrete kadam karyakram ka netritva aur is mandi ki pehle se ki ja rahi maang hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Neemwadi Shri Ram Mandir nirman ke liye vidhayak-nidhi se Rs 1 crore swikrit (78 lakh + 22 lakh) — rashi mandir samiti ko mili, nirman jaari',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 6 Oct 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/shajapur/news/shajapur-shops-of-shri-ram-temple-auctioned-for-rs-54-lakh-136104712.html',
+    date: '2025-10-06',
+    note: 'Shajapur ke Neemwadi sthit shaskiya Shri Ram Mandir parisar ke nirman ke liye vidhayak Arun Bhimawad ne vidhayak-nidhi se pehle Rs 78 lakh aur phir Rs 22 lakh swikrit kiye; report ke anusar ye poori rashi mandir samiti ko mil chuki hai aur nirman karya jaari hai; isi parisar ki 7 dukano ki nilami se Rs 54.42 lakh mandir samiti ke kosh me aaye. Status: swikriti (rashi vitrit, nirman-pragati par). FUND SPASHT: vidhayak-nidhi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Press conference me vidhayak ka dawa: 2025-26 budget me Shajapur vidhansabha ke liye Rs 155 crore ki sadken aur Rs 155.81 crore ki Lakhundar micro-irrigation pariyojna swikrit',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Navbharat, 18 Feb 2026',
+    sourceUrl: 'https://navabharat.com/?p=406688',
+    date: '2026-02-18',
+    note: 'Vidhayak karyalaya par aayojit press conference me Arun Bhimawad ne 2025-26 ke budget me Shajapur jile aur vishesh roop se Shajapur vidhansabha ko swikrit vikas karyon ki jaankari di: lagbhag 53 km sadkon ke nirman hetu Rs 155 crore (Dupada, Berchha, Jhonkar, Bijana bypass; Mohan Badodiya ring road hetu Rs 25 crore prastavit; Karodiya, Kalwa, Dhobi Pachor, Bijana marg hetu Rs 30 crore; Lakhundar nadi par pul sahit Sirolia, Kapaliya, Sihoda, Sajod se Bhumri marg hetu Rs 30 crore; Berchha, Jhonkar, Maxi marg hetu Rs 70 crore), Lakhundar uchch-daab micro-irrigation pariyojna hetu Rs 155.81 crore, shaskiya polytechnic college me renewable energy lab hetu Rs 1.25 crore, gram Satgaon me 3.15 MVA vidyut grid (lagbhag Rs 2 crore), nagar palika Shajapur aur nagar parishad Maxi ko vikas karyon hetu 10-10 crore, aur PPP model se Shajapur me medical college ki swikriti. Status: swikriti — budget-swikriti ka dawa vidhayak ki press conference par aadharit; GO/tender/nirman-prarambh ki alag khabar nahi mili. Caveat: (1) FUND rajya budget ka hai, vidhayak-nidhi ka nahi — credit-pardarshita. (2) Swikriti me vidhayak ki bhoomika unke "athak prayason" ke dawe par aadharit hai; press conference hi unka dastavezi concrete kadam hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Press conference me vidhayak ka dawa: Shajapur vidhansabha ke liye medical college, Shajapur-Maxi four-lane, civil hospital Maxi, Sandipani school swikrit',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'State 24 News, Aug 2025',
+    sourceUrl: 'https://www.state24news.com/2025/08/8-5.html',
+    date: '2025-08',
+    note: 'PWD vishramgrih Shajapur me press conference me vidhayak Arun Bhimawad ne vidhansabha kshetra me swikrit bataye anya vikas karya ginaye: Shajapur me medical college ka nirman, Shajapur shahar ka four-lane (10 km, Rs 85 crore), Maxi shahar ka four-lane (5.65 km, Rs 40 crore), civil hospital Maxi (Rs 17.10 crore), alu-pyaaz krishi mandi Shajapur (Rs 20 crore), sha. Sandipani uchchatar madhyamik vidyalaya (Rs 50 crore), shaskiya polytechnic college me atirikt kaksh (Rs 9.17 crore), Jal Jeevan Mission ke tahat 87 gramon me nal-jal yojna, Narmada ghati vikas vibhag ki ISP Kalisindh pariyojna (111 gram), Narmada-Shipra link pariyojna (16 gram), aur Lakhundar baandh se 207 gramon me peyjal yojna (Rs 426.18 crore). Status: swikriti — press-conference dawa; karyanwayan/purnata ki alag khabar nahi mili. Caveat: (1) FUND rajya yojnaon ka hai, vidhayak-nidhi ka nahi — credit-pardarshita. (2) Isi press conference me Jakson Group ke Rs 8000 crore ke niji solar nivesh ki ghoshna bhi hui thi jo niji company ka nivesh hai, vidhayak ka karya nahi — isliye alag entry nahi. (3) Article par exact tithi nahi thi; URL aur crawl timing ke aadhar par Aug 2025 maana hai.',
+    period: '2023-2028',
+  },
+];
+mpWorks['inder-singh-parmar'] = [
+  {
+    title: 'Shujalpur me Rs 1.07 crore ke Kaushal Vikas Utkrishtata Kendra ka lokarpan — baans kala prashikshan ka MP ka pehla kendra',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Goodreturns Hindi',
+    sourceUrl: 'https://hindi.goodreturns.in/govt-policy/mp-minister-inder-singh-parmar-gave-a-gift-worth-crores-to-shujalpur-044911.html',
+    date: '2024-03-12',
+    note: 'Mantri Inder Singh Parmar ne Shujalpur me Rs 1.07 crore se nirmit Kaushal Vikas Utkrishtata Kendra (baans vastu utpadan evam prashikshan kendra) ka lokarpan kiya; kendra MP ka pehla aisa kaushal kendra bataya gaya jahan baans ki kalatmak vastuon ka nirman aur prashikshan hoga; FUND SPASHT: sarkari yojana (kaushal vikas karyakram), vidhayak nidhi nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shujalpur nagar me Amrit 2.0 ke tehat Rs 11.29 crore ke jal pradaya karyon ka bhoomi pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Goodreturns Hindi',
+    sourceUrl: 'https://hindi.goodreturns.in/govt-policy/mp-minister-inder-singh-parmar-gave-a-gift-worth-crores-to-shujalpur-044911.html',
+    date: '2024-03-12',
+    note: 'Mantri Parmar ne Shujalpur nagar me Amrit 2.0 yojana ke antargat Rs 11.29 crore ki lagat se jal pradaya ke vibhinn ghatkon ke nirman karyon ka bhoomi pujan kiya; ye Rs 18.23 crore ke kul nirman package ka hissa tha; FUND SPASHT: sarkari yojana (Amrit 2.0), vidhayak nidhi nahi; ye bhoomi pujan hai, nirman poora nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jamdhad nadi kayakalp aur Rani Lakshmibai Park unnayan ka bhoomi pujan — Rs 1.70 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Goodreturns Hindi',
+    sourceUrl: 'https://hindi.goodreturns.in/govt-policy/mp-minister-inder-singh-parmar-gave-a-gift-worth-crores-to-shujalpur-044911.html',
+    date: '2024-03-12',
+    note: 'Mantri Parmar ne Shujalpur me Jamdhad nadi ke kayakalp aur Rani Lakshmibai Park ke unnayan karyon ka bhoomi pujan kiya; lagat Rs 1.70 crore; FUND SPASHT: Amrit 2.0 sarkari yojana, vidhayak nidhi nahi; ye bhoomi pujan hai, nirman poora nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'SDMF dwitiya charan me Rs 3.46 crore ke gabion wall ghat aur RCC nala nirman ka bhoomi pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Goodreturns Hindi',
+    sourceUrl: 'https://hindi.goodreturns.in/govt-policy/mp-minister-inder-singh-parmar-gave-a-gift-worth-crores-to-shujalpur-044911.html',
+    date: '2024-03-12',
+    note: 'Mantri Parmar ne SDMF dwitiya charan yojana ke tehat Rs 3.46 crore ki lagat se gabion wall ghat nirman aur Shujalpur ke vibhinn wardon me RCC nalon ke nirman ka bhoomi pujan kiya; FUND SPASHT: sarkari yojana (SDMF), vidhayak nidhi nahi; ye bhoomi pujan hai, nirman poora nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kayakalp yojana me Shujalpur ki sadkon ke sudridhikaran-damrikaran ka bhoomi pujan — Rs 1.76 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Goodreturns Hindi',
+    sourceUrl: 'https://hindi.goodreturns.in/govt-policy/mp-minister-inder-singh-parmar-gave-a-gift-worth-crores-to-shujalpur-044911.html',
+    date: '2024-03-12',
+    note: 'Mantri Parmar ne Kayakalp yojana ke antargat Shujalpur nagar ki sadkon ke sudridhikaran aur damrikaran karyon ka bhoomi pujan kiya; lagat Rs 1.76 crore; FUND SPASHT: sarkari yojana (Kayakalp), vidhayak nidhi nahi; ye bhoomi pujan hai, nirman poora nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shujalpur civil hospital mandi ke paas Rs 30 lakh ke Ayush hospital-panchakarma kendra bhavan ka bhoomi pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/shajapur/shujalpur/news/shujalpur-ayush-hospital-panchakarma-centre-bhumi-pujan-30-lakh-budget-137137271.html',
+    date: '2026-02',
+    note: 'Shujalpur me civil hospital mandi ke paas Ayush hospital aur panchakarma kendra ke bhavan nirman ka bhoomi pujan hua; lagat Rs 30 lakh; Mantri Inder Singh Parmar mukhya atithi the — sheershak me karyakram unke naam par darj hai lekin khabar passive vaani me hai, isliye credit-pardarshita note me rakhi gayi hai; FUND SPASHT: sarkari Ayush karyakram, vidhayak nidhi nahi; exact tareekh relative thi isliye mahine tak di gayi hai; ye bhoomi pujan hai, nirman poora nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Akodia Naka, Shujalpur me Rs 342.87 lakh ke 50-seat senior kanya chhatrawas ka bhoomi pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/shajapur/shujalpur/news/a-50-seater-senior-girls39-hostel-will-be-built-at-a-cost-of-rs-342-crore-136836476.html',
+    date: '2026-01',
+    note: 'Shujalpur ke Akodia Naka kshetra me 50-seat naveen senior kanya chhatrawas (kramank-2) bhavan ka bhoomi pujan hua; lagat Rs 342.87 lakh; Bhaskar ki pre-event report me Mantri Parmar mukhya atithi ghoshit the aur post-event report me ve karyakram me upasthit darj hain, khabar passive vaani me hai isliye credit-pardarshita note me rakhi gayi hai; FUND SPASHT: sarkari yojana (aadim jati kalyan vibhag), vidhayak nidhi nahi; exact tareekh relative thi isliye mahine tak di gayi hai; ye bhoomi pujan hai, nirman poora nahi.',
+    period: '2023-2028',
+  },
+];
+mpWorks['ghanshayam-singh-chandrawanshi'] = [
+  {
+    title: 'Tilavad me Ashta aur Kalapipal ke vidhayakon ne Rs 15.60 crore ke vikas karyon ka sanyukt bhoomi pujan kiya — 6 km Tilavad-Maina sadak (Rs 13.45 crore) mukhya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/ashta/news/people-will-get-the-facility-of-transportation-along-with-development-136628930.html',
+    date: '2025-12',
+    note: 'Tilavad gaon me Ashta vidhayak Gopal Singh Engineer aur Kalapipal vidhayak Ghanshyam Chandravanshi ne milkar lagbhag Rs 15.60 crore ke nirman karyon ka bhoomi pujan kiya; sabse bada kaam 6 km lamba Rs 13.45 crore ka Tilavad-Maina marg hai jo dono vidhansabha kshetron ko jodta hai; iske saath Rs 2 crore ki pani ki tanki (Paani kaam bhi isi shilanyas me) aur Dattatray Mathi ashram, Jamadar mohalla aur Deshwali mohalla me Rs 5-5 lakh ke teen tin-shedon ka bhoomi pujan bhi hua; credit-pardarshita: ye sanyukt karyakram tha, dono vidhayakon ne milkar kiya, fund ka srot (vidhayak nidhi vs sarkari yojana) report me spasht nahi; exact tareekh report me relative thi (crawl metadata se Dec 2025 ka anumaan) isliye mahine tak di gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Tilavad me Rs 48 lakh ke karyon ka lokarpan — Rs 38 lakh ki gaushala aur Rs 10 lakh ke Manas Bhavan tin-shed',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/ashta/news/people-will-get-the-facility-of-transportation-along-with-development-136628930.html',
+    date: '2025-12',
+    note: 'Tilavad me Rs 15.60 crore ke bhoomi pujan ke hi karyakram me Rs 48 lakh ke poora hue karyon ka lokarpan bhi dono vidhayakon (Ashta ke Gopal Singh Engineer aur Kalapipal ke Ghanshyam Chandravanshi) ne milkar kiya — Rs 38 lakh ki lagat se bani gaushala aur Rs 10 lakh se bane Manas Bhavan me tin-shed; ye POORA stage hai; credit-pardarshita: sanyukt lokarpan, fund ka srot report me spasht nahi; exact tareekh relative thi isliye mahine tak di gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pankhedi nagar parishad me Panchmukhi Chauraha se railway station tak Rs 38.27 lakh ke paver block aur damrikaran ka bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'MP News Cast',
+    sourceUrl: 'https://www.mpnewscast.com/archives/236528',
+    date: '2026-05-29',
+    note: 'Nagar parishad Pankhedi kshetra me vidhayak Ghanshyam Chandravanshi ne Panchmukhi Chauraha se railway station tak sadak par damrikaran aur kinare paver block ke kaam ka bhoomi pujan kiya; swikrit rashi Rs 38.27 lakh; mauke par nagar parishad adhyaksh Jayprakash Agrawal aur PWD SDO Shubham Maurya bhi maujood the; note: srot chhota local portal hai, established media nahi — lekin khabar me bhoomi pujan event ki vishesh reporting hai; fund ka srot (nagar parishad vs vidhayak nidhi) report me spasht nahi.',
+    period: '2023-2028',
+  },
+];
+// COORDINATOR QA NOTE (2026-10-14): arun-bhimawad ki 5vi entry (CM Maxi manch ~Rs 1000 crore ghoshna)
+// HATA di — CM ka maang-par-ailaan entry nahi banti (Tomar-Surjanpur/Uikey-tiger-safari/Narmadapuram precedent).
+// Bhimawad ki dono press-conference "swikriti" entries ka badge dawa par rakha (GO/sanction-order nahi —
+// Jaiswal/Rajendra-Pandey precedent); uska vidhayak-nidhi Rs 1 crore Mandir entry swikriti par rakhi.
+// ---- Shajapur district batch REJECT-LOG (2026-10-14) ----
+// REJECT-LOG — arun-bhimawad (Shajapur AC-167)
+// 1. Jakson Group Rs 8000 crore solar manufacturing project, Barandwa/Maxi (state24news Aug 2025; navabharat 16 Nov 2025): NIJI company ka nivesh — vidhayak ka koi dastavezi concrete kadam nahi, sirf press conference/manch se ghoshna. Reject.
+// 2. Bhaskar English + Andhernagari anonymous-letter aarop (land mafia, medical mafia, 10-20% commission, money laundering/Singapore shell companies, goon squad): BINA FIR/case/janch-karyavahi ke patra-based aarop; article khud ise Shajapur ki "letter war" parampara batata hai. Reject.
+// 3. TOI 2018 FIR (BJYM jila adhyaksh par hamla): PRE-Dec-2023. Reject.
+// 4. Bhaskar English me gine 18 purane cases (1995-2018; 4 me jurmana 1998/99/2001; 420/467/468 appeal Jabalpur HC me lambit): sab pre-tenure; vartaman karyakal se sambandhit koi nayi karyavahi nahi. Reject.
+// 5. pinewz.com Dec 2025 jila aspatal nirikshan (sonography vivad): NIRIKSHAN/daura. Reject.
+// 6. public.app videos (29 Aug 2025 mandi bhoomi-pujan video; hospital fhatkar video): public.app-ONLY. Reject.
+// 7. Amar Ujala 22 May 2025 Amrit Bharat station lokarpan (PM virtual, Rs 13 crore): kendra yojna; vidhayak ki keval MAUJUDGI. Reject.
+// 8. naidunia Kalapipal (Ghanshyam Chandravanshi ki sadak-shapath): GALAT vyakti + kshetra-bahar; Bhimawad sirf helipad swagat me the. Reject.
+// 9. FPJ/indiatimes Kalapipal/Shujalpur CM karyakram (6.79 cr road, 30.86 cr, 388 cr package): KSHETRA-BAHAR (Kalapipal/Shujalpur alag ACs). Reject.
+// 10. vistaarnews Dec 2024 CM Shajapur daura (50 cr ke 24 karya; vidhayak ki 5 maangen): CM karyakram-ghoshna; Nov 2025 wali ghoshna-entry se coverage overlap — double-count se bachne ke liye skip.
+// 11. navabharat 27 Nov 2025 "Shahar ko mili four-lane ki saugat, PWD mantri ne kiya bhoomi-pujan" snippet: URL galat article par khula; SNIPPET se entry banane ki manahi — srot khola nahi ja saka. Reject.
+// 12. narmadanchal.com CC-road bhoomi-pujan: GALAT vyakti (Sitasaran Sharma, Hoshangabad). Reject.
+// 13. jagran epaper PDF (30 Jul 2026): garbled OCR text, satyapan yogya nahi. Reject.
+// 14. ABP News YouTube (ex-MP ko dhamki/apshabd): YouTube-ONLY. Reject.
+// 15. starsofmp.com profile: keval profile, koi vishisht karya nahi. Reject.
+
+// REJECT-LOG (2026-10-14) ----
+// REJECT-LOG inder-singh-parmar (7 pass / ~16 reject):
+// Gulana me Rs 617.82 lakh mahavidyalaya bhavan bhoomi pujan (Bansalnews, Feb 2022) — PRE-TERM reject (Dec 2023 se pehle).
+// CM Shujalpur daura ~June 2026 (IndianMasterminds/FPJ): 388cr+350cr ke lokarpan-shilanyas CM Mohan Yadav ne kiye, Parmar sirf upasthit — reject (CM karyakram me maujoodgi).
+// CM ki Rs 5 crore ghoshna, Shujalpur Nagar Palika shatabdi (RNI News, March 2026) — CM ki ghoshna; Parmar ne sirf bus stand ke liye maang rakhi thi — reject (sirf maang + doosri ghoshna).
+// Shujalpur me naya sarkari law college ki swikriti (mediahousepress) — CM ne approve kiya; mantri-vibhag ka college-university rajya-yojna faisla — reject (state-level exclusion).
+// MP cabinet se 12 jilon me 50-bedded Ayush hospitals including Shujalpur (Lokmat Times Nov 2025) — cabinet-level rajya-stariya faisla — reject (state-level exclusion).
+// Rs 185.50 crore ke 25 Ayush bhavanon ka lokarpan (Asianet Sep 2026) — CM ne kiya — reject (CM ne kiya).
+// Shiksha Teerth Param Yatra/Shujalpur me CM 31 May karyakram (cnewsbharat) — CM karyakram ki pre-event taiyari, Parmar sirf padal bhraman prachar — reject (pre-event schedule + maujoodgi).
+// ITDC review meeting 8 May 2025 — samiksha baithak — reject (nirikshan/samiksha).
+// Vision 2047 samvad karyakram (ITDC) — dialogue event, kaam nahi — reject.
+// 4 chalit pustakalaya flag-off (Bansalnews, undated) — yojana event, thos nirman nahi — reject.
+// Mukhyamantri Kanya Vivah/Nikah samuhik vivah (Ommcomnews/Lokmattimes March 2026) — yojana karyakram, unki sirf upasthiti — reject.
+// Gehu khet me aag bujhane ki khabar (Bhaskar English, ~March 2025) — sewa ghatna, development work nahi — reject.
+// Tiranga yatra Shujalpur (YouTube) — karyakram, kaam nahi — reject.
+// Bhaskar ADR report (Sep 2025): 2001 me IPC 307 conviction (appeal me 2008 me 85 din ki kaid me ghatai) + 1987 me IPC 323 me Rs 50 jurmana — NEGATIVE BAR FAIL: dono pre-term, lambe samay se sulajhe hue mamle, koi vartaman FIR/janch-karyavahi nahi — reject.
+// Kanya chhatrawas Rs 342.87 lakh bhoomi pujan ka public.app video (1 Jan 2026) — post-event confirm tha lekin public.app-only — reject (source bar fail); Bhaskar ki post-event report mili isliye wahi srot entry me hai.
+
+// REJECT-LOG (2026-10-14) ----
+// ghanshayam-singh-chandrawanshi — mpnewscast "Rs 196.81 crore sadak swikriti" (anupurak budget, CM ne swikrit ki): swikriti ke liye GO/established-media me vibhagiya data nahi, aur Rajya-package me unka dastavezi concrete kadam nahi (portal ka "athak prayas" self-praise matra) — isliye swikriti entry nahi; is package ki Tilavad-Maina sadak ka bhoomi pujan Dainik Bhaskar entry me already covered hai.
+// CM Mohan Yadav ka July 2026 Kalapipal karyakram (Rs 29-30.86 crore: Shujalpur-Ashta-Avantipur Badodia four-lane sadak Rs 6.79 crore, Pipliya Nagar pul, Khardon Kala samet 4 swasthya kendra, railway overbridge ghoshna) — sab kaam CM ne kiye, vidhayak ki sirf helipad par maujoodgi/swagat — entry nahi.
+// Joota-tyag pratigya episode (FPJ, July 2026): 48 sadakon ka unnayan + 16 nayi sadaken + naya rajaswa karyalaya bhavan + Arniyakala me Arts and Science College ki maang sirf maang-patra thi; CM ka "16 nahi 17 sadaken denge" bhi mauke ki ghoshna/promise — koi entry nahi.
+// public.app Behrawal (Dec 2025): Ramdi-Behrawal via Agakhedi-Kohdi colony ~10 km pakki sadak Rs 16.06 crore ka bhoomi pujan + Ayush aushdhalaya lokarpan — public.app-only, srot bar fail.
+// public.app Nandni (Jun 2025): tin-shed, gravel road, up-swasthya kendra, manglik bhavan, pani tanki, AJA basti tin-shed ka lokarpan/bhoomi pujan — public.app-only, srot bar fail.
+// Bike-stunt video (Punjab Kesari/TimesNow, Sep-Oct 2026): khud thana jaakar Rs 1000 ka challan katwaya aur video maafi jaari ki — koi FIR/case/adalaati ya adhikarik jaanch nahi; virodhi ki shikayat par bina adhikarik karyavahi ke negative bar fail — negative entry nahi (political episode).
+// YouTube-only: Balaji Hospital nishulk jaanch shivir me maujoodgi, Yuva Morcha aabhaar, 4 lakh paudhe sankalp, abhibhashak sangh samman samaroh me upasthiti — YouTube-only, koi kaam nahi.
+// School/hospital/paani ke alag sthayi kaam (2023-2028): established media me koi qualifying post-event reporting nahi mili.
