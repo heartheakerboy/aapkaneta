@@ -1279,3 +1279,177 @@ tamilNaduWorks['saminathan-t'] = [];
 // QA (research 15 Oct 2026): 0 entries (profile khaali), 0 negative — established English press me T. Saminathan (DMK, Vedasandur) ka May 2026 ke baad koi satyapit seat-level kaam nahi mila. Purane karyakaal ka confusion-trap (S. Gandhirajan, 2021-2026 MLA) sab reject kiye gaye. Titles/notes ki zaroorat nahi padi (koi entry nahi). works_tamilnadu.ts me append/push/deploy NAHI kiya.
 
 // COORDINATOR QA NOTE (Dindigul district, 2026-10-15): 7/7 slugs append se pehle file me 0 matches (koi overwrite nahi); marker exactly 1x; assignments AC order me (Palani, Oddanchatram, Athoor, Nilakkottai, Natham, Dindigul, Vedasandur); 7/7 profiles imaandari se EMPTY — sabha ~5.5 mahine purani, DMK/AIADMK ab vipaksh me, established English press me koi qualifying seat-level works reporting nahi mili. Pakde gaye traps: (a) Senthilbalaji (Karur) banam I.P. Senthilkumar; (b) purane MLA S. Gandhirajan ke case Saminathan par jodne se bachav; (c) "R. Ayanar" (Puducherry) galat-vyakti banam Nilakkottai ke R. Ayyanar; (d) Periasamy ED-PMLA purana, koi nayi sthiti nahi; (e) mantri-era kaam (Sakkarapani/Periasamy/Natham) pre-term. Hygiene: 0 Tamil/Devanagari script, 0 rupee-symbol, 0 literal-backslash-n; reject-logs Roman Hinglish; entry objects me 0 comments (koi entry hi nahi). Koi push/deploy nahi hua.
+
+// ---- Erode district batch (researched 2026-10-15) ----
+tamilNaduWorks['m-vijay-balaji'] = [
+  {
+    title: 'Erode East MLA and Handlooms Minister M. Vijay Balaji inaugurated seven mothers’ feeding rooms set up with CSR funds at the Erode Corporation Central Bus Stand in central Erode city; during the same visit he inspected civic and transport infrastructure along with the Corporation commissioner.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 22 Aug 2026',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Coimbatore/dhoti-production-begins-at-weavers-cooperatives-says-minister-m-vijay-balaji/article71377337.ece',
+    date: '2026-08-22',
+    note: 'The Hindu reported that during an inspection of the Erode Corporation Central Bus Stand on 22 August 2026, seven breastfeeding rooms set up at the bus stand with CSR funds had been inaugurated. The central bus stand lies in central Erode city, within the Erode East constituency. Funding was corporate CSR, not government money, so no fund-credit claim is made here; his documented personal role was the inauguration of the completed facility.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (m-vijay-balaji, scope: May 2026+, Erode (East) AC, Erode)
+// 1. Election win coverage (TOI / Indian Express / Business Today / moneycontrol / Zee News / Oneindia, 4-6 May 2026) — REJECT: chunav jeet ki khabar, vikas-kaam nahi.
+// 2. Sworn-in as Handlooms, Textiles and Khadi Minister in cabinet expansion (The Hindu / The Federal, 21 May 2026) — REJECT: sirf ceremonial shapath-grahan.
+// 3. The Hindu candidate affidavit profile (pre-poll, Apr 2026; assets Rs 3.5cr, 1 criminal case) — REJECT: karyakaal-se-pehle ka profile.
+// 4. Free dhoti-sari Pongal scheme: yarn tender finalised, Rs 300 crore first instalment released by CM (The Hindu / DT Next / New Indian Express, 22-23 Aug 2026) — REJECT: mantri ka state-level faisla, seat-work nahi.
+// 5. Weavers’ wage-hike announcement "expected this week", linen dhotis for Diwali, Khadi sales targets (DT Next 1-2 Sep 2026, New Indian Express 13 Oct 2026) — REJECT: mantri ki state-level ghoshnaayein; koi poora hua kaam / swikriti nahi.
+// 6. Kancheepuram counterfeit-silk-saree crackdown action plan (DT Next, 7 Jul 2026) — REJECT: kshetra-bahar + mantri ka state-level faisla.
+// 7. Inauguration of school building, library buildings and Anganwadi centres in Vellore district (ANI via menafn / lokmattimes / newkerala, 4 Jul 2026) — REJECT: kshetra-bahar (Vellore jila); mantri ke roop me karyakram.
+// 8. Co-optex showroom inauguration at Kovilpatti + Bharathi Cooperative Spinning Mill inspection, Thoothukudi (Asianet Newsable, ~Sep 2026) — REJECT: kshetra-bahar; non-preferred aggregator-style srot.
+// 9. Serving breakfast to students at Kamarajar Govt Higher Secondary School, Karungalpalayam under the CM’s expanded breakfast scheme (The Hindu, 22 Sep 2026) — REJECT: CM ke scheme-launch par sirf ceremonial maujoodgi; koi seat-level kaam/swikriti nahi.
+// 10. Rs 45-crore drinking-water proposal around Perundurai SIPCOT + common effluent-treatment-plant inspection (The Hindu via scoopfeeds, 8 Oct 2026) — REJECT: kshetra-bahar (Perundurai AC, alag MLA); sirf meeting-level prastav, koi swikriti/GO nahi; nirikshan bhi mantri ke roop me.
+// 11. RO drinking-water facilities "would also be installed nearby" at the bus stand (The Hindu, 22 Aug 2026) — REJECT: "karenge" wali ghoshna, koi swikriti/kaam nahi.
+// 12. VOC Park vegetable market shifting + park improvement for recreation/walking (The Hindu, 22 Aug 2026) — REJECT: sirf bayaan/ghoshna, koi poora hua kaam ya swikriti nahi.
+// 13. Monsoon preparedness review at Erode Corporation: drinking-water, desilting, drain-clearing instructions + property-tax reduction talk (New Indian Express, 13 Oct 2026) — REJECT: review-meeting ke nirdesh, ghoshna-type; koi sanction/work-order ya poora hua kaam nahi.
+// 14. Assigned as minister in-charge of Ambattur, Anna Nagar and Teynampet zones of Greater Chennai Corporation (DT Next, 26 Aug 2026) — REJECT: mantri ka prashasnik prabhar, seat-work nahi.
+// 15. Floral tributes at Dheeran Chinnamalai memorial, Odanilai (DT Next, 3 Aug 2026) — REJECT: sirf ceremonial maujoodgi.
+// 16. Felicitation by Melmaruvathur Adhiparasakthi Weekly Worship Forum (businessminutes.in, 2 Jun 2026) — REJECT: sirf sammaan-samaroh, kaam nahi; non-preferred srot.
+// 17. Campaigning for TVK candidate V. Sathyabama in Dharapuram by-election (TOI, ~Sep 2026) — REJECT: chunav prachar, kshetra-bahar.
+// 18. Election affidavit me 1 criminal case (Karunkalpalayam PS Cr No 76/2026, U/s 189(2), 126(2) BNS) — REJECT as negative: affidavit-declared case-count bina kisi nayi FIR/court-reporting ke (TVK Format C-1/C-2 declarations ke alawa established media me koi nayi prakriya-sthiti nahi).
+// NOTE: Wo Handlooms, Textiles and Khadi Minister hain — isliye coverage zyadatar mantri ke state-level faislon ki hai; unhe sab scope se bahar rakha gaya (sirf apni seat ke kaam liye gaye, Brajesh Pathak/Lucknow Cantt precedent ke mutabik).
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Erode East seat par unki vyaktigat seat-level bhoomika wali sirf ek qualifying entry mili — Erode Corporation Central Bus Stand par saat mothers’ feeding rooms ka lokarpan.
+
+tamilNaduWorks['ananth-moghan-k-k'] = [
+  {
+    title: 'Erode West MLA Anand Mohan opened the sluices of the Kalingarayan dam at Bhavani on 14 Jul 2026, alongside Modakkurichi MLA D. Shanmugan, farmers and Water Resources Department officials, marking the start of the state government\'s special 15-day water release — up to 648 million cubic feet to save standing crops on 15,743 acres and meet livestock drinking water needs in the Kalingarayan canal zones.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Times of India (Coimbatore), Jul 2026',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/coimbatore/water-being-released-from-kalingarayan-dam-to-save-standing-crops/articleshow/132392597.cms',
+    date: '2026-07-14',
+    note: 'TOI reports the release as a state government order — a special 15-day supply (14 to 28 Jul 2026) sanctioned in response to farmers\' urgent appeals for "life-saving water" after the customary 16 June release was delayed by poor storage in Bhavanisagar dam; the article credits the government sanction, not any personal effort by the MLA, to bring about the release. The MLA\'s documented role was opening the sluices at the dam (Bhavani taluk) together with the Modakkurichi MLA, farmers and WRD officials. TOI renders his name "Anand Mohan" (The Hindu\'s nomination photo caption also calls the Erode West TVK candidate "K.K. Anand Mohan"), identifying him as the Erode West MLA. The 15,743-acre Kalingarayan canal ayacut spans Erode, Modakkurichi and Kodumudi taluks, and The Hindu\'s 18 Jul 2026 follow-up confirmed water was flowing in the canal during the release window.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (ananth-moghan-k-k — TVK, Erode (West) AC — research 15 Oct 2026)
+// 1. Election victory coverage (TOI/IE/NDTV/Business Today/live blogs, 4-6 May 2026) — REJECT: chunav jeet ki khabar, vikas-kaam nahi.
+// 2. Devdiscourse/ANI exit-poll story (30 Apr 2026, "KK Anand Mohan" on TVK winning 150+ seats) — REJECT: karyakaal-se-pehle (chunav-prachar), koi kaam nahi.
+// 3. The Hindu/IE/ETV Bharat nomination-filing and campaign pieces (Apr 2026, including The Hindu "K.K. Anand Mohan" nomination photo caption) — REJECT: pre-term.
+// 4. Bihar ex-MP Anand Mohan Singh stories (The Statesman/Latestly/HT/NDTV, release-from-jail matter) — REJECT as negative: GALAT VYAKTI (Bihar ke neta), Erode West MLA nahi.
+// 5. SooperKanoon Madras HC order (Crime No.2 of 2024, Erode All Women PS, FIR quashed 05 Jun 2026) — REJECT as negative: order me petitioner ka naam result me nahi dikha; Erode West MLA se jodne ka koi saboot ya established-media reporting nahi.
+// 6. Kalingarayan canal Rs 83.33-crore renovation (G.O. Ms No.39, Jul 2025; works started 11 Apr 2026) — REJECT as unki entry: sanction karyakaal-se-pehle; The Hindu ke Jun-Jul 2026 renovation articles (water release deferral, development works suspended) me unka naam tak nahi.
+// 7. The Hindu "Development works on Kalingarayan Canal suspended as water released for irrigation" (18 Jul 2026, khud khola) — REJECT as alag entry: MLA ka naam nahi; sirf TOI wali entry ka corroboration (release window me canal me paani beh raha tha).
+// 8. CM Stalin's Nov 2025 Erode visit projects (bus stand, welfare distribution, memorials) — REJECT: pre-term CM programs, MLA ki dastavezi bhoomika nahi.
+// 9. K.A. Sengottaiyan (Gobichettipalayam) / other TVK leaders' stories — REJECT: galat vyakti, unki entry nahi.
+// 10. NDTV ADR candidate page: Erode West MLA ke "Cases: No" darj hain — established English press me unke khilaf koi FIR/case/janch-karyavahi ki reporting nahi mili; koi NEGATIVE entry nahi banayi gayi.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Erode (West) seat par unki vyaktigat bhoomika wali sirf EK qualifying entry mili (Kalingarayan sluice opening, 14 Jul 2026).
+
+tamilNaduWorks['d-shanmugan'] = [
+  {
+    title: 'Modakkurichi MLA D. Shanmugan opened the sluices of the Kalingarayan dam at Bhavani on 14 Jul 2026, alongside Erode West MLA K.K. Anand Mohan, farmers and Water Resources Department officials, marking the start of the state government\'s special 15-day water release — up to 648 million cubic feet to save standing crops on 15,743 acres and meet livestock drinking water needs in the Kalingarayan canal zones.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Times of India (Coimbatore), Jul 2026',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/coimbatore/water-being-released-from-kalingarayan-dam-to-save-standing-crops/articleshow/132392597.cms',
+    date: '2026-07-14',
+    note: 'TOI reports the release as a state government order — a special 15-day supply (14 to 28 Jul 2026) sanctioned in response to farmers\' urgent appeals for "life-saving water" after the customary 16 June release was delayed by poor storage in Bhavanisagar dam; the article credits the government sanction, not any personal effort by the MLA, to bring about the release. The MLA\'s documented role was opening the sluices at the dam (Bhavani taluk) together with the Erode West MLA, farmers and WRD officials. The 15,743-acre Kalingarayan canal ayacut spans Erode, Modakkurichi and Kodumudi taluks, and The Hindu\'s 18 Jul 2026 follow-up confirmed water was flowing in the canal during the release window.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (d-shanmugan — D. Shanmugan, TVK, Modakkurichi AC, Erode; scope: May 2026+; researched 15 Oct 2026)
+// 1. Election victory reporting (The Hindu/TOI/IE/NIE/TNM/Oneindia/ABP Live, 4-6 May 2026) — REJECT: chunav jeet ki khabar, kaam nahi. (TVK, 60,715 votes; BJP ki S. Kirthika ko 2,430 votes se haraya.)
+// 2. The Hindu candidate profile & affidavit page (pre-poll, Apr 2026) — REJECT: karyakaal-se-pehle ka profile; criminal cases 0 ghoshit, koi kaam nahi.
+// 3. Times of India "Water being released from Kalingarayan dam to save standing crops" (~Jul 2026, khud khola) — KEPT: sluice-opening entry (upeer). TOI ne dono MLA (D. Shanmugan + K.K. Anand Mohan) ko dam par sluices kholte hue darj kiya; isliye dono ke pages par consistent entry rakhi gayi — disclosure ke saath ki release sarkari order se hui thi, unke vyaktigat prayas ka saboot nahi. (COORDINATOR OVERRIDE: worker ne ise "sirf ceremonial maujoodgi" kehkar reject kiya tha; niyam "MLA personally performing lokarpan of a govt work = entry WITH credit-transparency note" yahan lagu hota hai — Sengottaiyan fair-price-shop lokarpan precedent ke anuroop.)
+// 4. The Hindu pre-poll constituency profile (25 Mar 2026) — REJECT: karyakaal-se-pehle; maangein unki bhoomika nahi.
+// 5. "Modakkurichi MLA seeks Kendriya Vidyalaya School" (Nov 2022) — REJECT: galat vyakti (purani BJP MLA C. Saraswathi) + karyakaal-se-pehle.
+// 6. DT Next "Shanmugan" topic items (C.Ve. Shanmugam RS bypoll/security order; CPM ke P. Shanmugam) — REJECT: galat vyakti — D Shanmugan (Modakkurichi, TVK) se koi sambandh nahi.
+// 7. TN govt MLACDS allocation reports / rajya-vyapi packages (post-May 2026) — REJECT: aam swikriti, Modakkurichi ke liye Shanmugan ki dastavezi concrete bhoomika ya seat-specific sanction nahi.
+// 8. NEGATIVE: koi nahi — affidavit me 0 criminal cases ghoshit; established English press me unpar FIR/case/adalaati karyavahi ki koi reporting NAHI mili. (Namesake Shanmugan-kes cases AIADMK ke C.Ve. Shanmugam ke hain.)
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Modakkurichi seat par unki vyaktigat bhoomika wali ek qualifying entry mili — Kalingarayan sluice opening, 14 Jul 2026 (upeer).
+
+tamilNaduWorks['karuppanan-k-c'] = [];
+
+// REJECT-LOG (karuppanan-k-c, scope: May 2026+, Bhavani AC): profile KHAALI raha — qualifying seat-level entry koi nahi mili.
+// 1. Chunav-jeet reporting (The Hindu / Times of India / Indian Express / Business Today / Oneindia, 4-6 May 2026: AIADMK ke K.C. Karuppannan ne Bhavani me TVK ke Balakrishnan ko 7,396 voton se haraya) — REJECT: chunav reporting, koi kaam nahi.
+// 2. The Hindu "AIADMK will win 200 seats, says former Minister" (2 Apr 2026) — khud khola: Palaniswami ke yahan party-joining ke baad chunav-se-pehle ka bayaan; REJECT: karyakaal-se-pehle + siyasi dawa, vikas-kaam nahi.
+// 3. The Hindu "AIADMK ready to welcome back leaders who left the party: Karuppannan" (7 Jul 2026) — khud khola: party ki labour-wing baithak ke baad TVK me gaye netaon ki wapsi ka bayaan + TNSTC transferon par aarop; REJECT: party-siyasat, koi seat-level kaam/maang ka documented kadam nahi.
+// 4. The Hindu "AIADMK stages demonstration over crop loan waiver" (14 Aug 2026, Erode) — khud khola: Karuppannan ke netritva me fasl-rin maafi ki maang par dharna/pradarshan, tarifon aur Cauvery-Mekedatu par bayaan; REJECT: party-andolan/dharna/maang vikas-kaam nahi hai.
+// 5. Anna Trade Union consultation meeting (Business Minutes, 8 Jul 2026) — REJECT: party wing ki baithak (sirf adhyakshata); non-preferred srot bhi.
+// 6. The Hindu "Cases registered against 11 persons for road block during protest against eviction in Erode" (~Aug 2024) — MLA ne pradarshankariyon se baatcheet ki thi; REJECT: karyakaal se pehle ka (2024, pichhli sabha).
+// 7. The Hindu Kallakurichi hooch-tragedy protest (24 Jun 2024) — Karuppannan pradarshan me maujood the; REJECT: karyakaal se pehle + sirf maujoodgi.
+// 8. The Hindu "Work to widen a stretch of Erode-Bhavani road inaugurated" (6 Oct 2025) — REJECT: karyakaal se pehle; article me unka naam tak nahi.
+// 9. AIADMK candidate list announcement (The Hindu / Live Chennai, Mar 2026) — REJECT: chunav-se-pehle ki khabar.
+// 10. The Hindu "Monitoring officer inspects development works in Erode district" (15 Aug 2026) — Sathyamangalam/Gobichettipalayam ke kaam, Bhavani seat se bahar, unki bhoomika nahi; REJECT: kshetra-bahar + sirf nirikshan.
+// 11. NIE "Final call on Bhavani dyeing unit after expert panel's study" (8 Apr 2025) — REJECT: pre-term; call-attention motion K.A. Sengottaiyan ne uthaya tha, Karuppannan ki bhoomika nahi.
+// 12. PTI via Newsdrum "Govt studying feasibility of supplying Bhavani water from Kodiveri Dam" (purana DMK-yug, May 8) — REJECT: pre-term, mantri ka bayaan.
+// 13. K.K. Vimal Karuppannan (The Hindu, 10 Sep 2026: Erode Siragugal marriage-hall waste initiative) — REJECT as anything: GALAT VYAKTI (namesake activist).
+// 14. courtkutchehry.com "P. Kandaram vs N.A. Chinnadurai" (1993-1998 civil land suit me K.C. Karuppannan appellant) — REJECT as negative: purana deewani mamla, koi FIR/criminal case/adalaati janch-karyavahi nahi; affidavit me criminalCases 0.
+// 15. The Hindu "T.N. govt allocates Rs 828.36 crore for MLACDS" (12 Aug 2026) — REJECT: rajya-vyapi samanya package; Bhavani ke liye unki dastavezi concrete bhoomika ya seat-specific swikriti nahi.
+// 16. SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, IE, TOI, NIE, TNM, South First, Deccan Herald, NDTV, DT Next) me Bhavani seat par unki vyaktigat seat-level bhoomika wali koi poora-hua-kaam / lokarpan / swikriti (GO sahit) / shilanyas / ghoshna qualify karti hui entry NAHI mili. Sabha ~5 mahine purani hai aur ve vipaksh ke MLA hain — khaali profile imaandari hai.
+
+tamilNaduWorks['haribaskar-p'] = [];
+
+// REJECT-LOG (haribaskar-p, scope: May 2026+, Anthiyur AC, Erode jila)
+// 1. The Hindu "Anthiyur horse fair venue dispute resolved after talks" (1 Jul 2026, khud khola aur poora padha) — REJECT: sthaniya vivaad ki madhyasthata (Gurunathaswamy mandir car festival ke ghoda-mela venue par vishal, baithak ki adhyakshata ki); koi poora hua kaam / lokarpan / shilanyas / swikriti nahi — vikas-kaam nahi.
+// 2. The Hindu "T.N. Assembly Speaker drops action against 21 AIADMK MLAs after Palaniswami condones them" (9 Jun 2026, khud khola aur poora padha) — REJECT as negative: P. Haribaskar sahit 21 vidhayakon ke khilaf Tenth Schedule ki karyavahi Palaniswami ke maafi-patraon ke baad Speaker ne DROP kar di; koi dosh-siddhi/adverse finding nahi — negative nahi banta.
+// 3. The Hindu "AIADMK legislature party splits vertically during trust vote in TN Assembly" (13 May 2026, khula-snippet) — REJECT: vishwas-mat par party-whip ke viruddh matdan ka rajnaitik samachar; works entry nahi.
+// 4. Election victory reporting — TOI "AIADMK's Haribaskar P wins by margin of 1,260 votes" (4 May 2026), Indian Express live updates, NDTV candidate page, The Hindu Erode district results, New Indian Express "TVK makes strong debut in Erode district" — REJECT: chunav jeet ki khabar, karyakaal-se-pehle, vikas-kaam nahi.
+// 5. The Hindu "T.N. Assembly election: AIADMK fields new face in Sengottaiyan's stronghold of Gobichettipalayam" (28 Mar 2026) — REJECT: ummeedvaari-ghoshna ki khabar, karyakaal-se-pehle.
+// 6. Indian Express / NDTV election page affidavit data "Cases: Yes (2)" (Haribaskar.P, assets Rs 3.8 crore) — REJECT as negative: halafnama ka aggregate case-count bina kisi established reporting ke; koi FIR/case/adalaati karyavahi ki nayi prakriya-sthiti nahi.
+// 7. The Hindu "Monitoring officer inspects development works in Erode district" (15 Aug 2026) — REJECT: monitoring officer T.N. Venkatesh ne Sathyamangalam/Gobichettipalayam me works ka nirikshan kiya; Haribaskar ka naam kahin nahi, unki dastavezi bhoomika zero.
+// 8. The Hindu "Colour TV scam: High Court upholds acquittal of Jayalalithaa" — REJECT: GALAT VYAKTI (former Chief Secretary H. Haribaskar ka ullekh; Anthiyur ke MLA se koi sambandh nahi), naam-trap.
+// 9. The Hindu "Tamil Nadu Assembly election: Case against NTK candidate for MCC violation" (16 Mar 2026) — REJECT: pre-term (MCC matter, chunav-ke-pehle) + galat vyakti (NTK candidate K. Anandhi).
+// 10. DT Next / NIE site-scoped searches ("Haribaskar" Anthiyur — dtnext.in, newindianexpress.com, thenewsminute.com, thesouthfirst.com) aur Times of India / Deccan Herald / NDTV searches — May-Oct 2026 tak Anthiyur seat par unki vyaktigat seat-level bhoomika wala koi lokarpan / shilanyas / swikriti-order / MLACDS work-order / kaam-poornata ki reporting NAHI mili.
+// NOTE: ve vipaksh (AIADMK) ke MLA hain; sabha sirf ~5 mahine purani — khaali profile imaandari hai.
+
+tamilNaduWorks['sengottaiyan-k-a'] = [
+  {
+    title: 'Revenue and Disaster Management Minister and Gobichettipalayam MLA K.A. Sengottaiyan inaugurated a fair price shop at Semmandampalayam near Gobichettipalayam after its upgradation from a part-time to a full-time outlet; he also distributed essential commodities to ration card holders in Gobichettipalayam on the same visit.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 13 Oct 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-minister-sengottaiyan-claims-15-more-functionaries-may-quit-aiadmk/article71577952.ece',
+    date: '2026-10-13',
+    note: 'The Hindu reported the shop was upgraded from a part-time to a full-time outlet and inaugurated by the Minister during his Gobichettipalayam visit on 13 October 2026, when he also distributed essential commodities to ration card holders and asked officials to ensure people received their legitimate entitlements with written responses on service requests. The article does not state the fund source for the upgradation, so no fund-credit claim is made here; his documented personal role was the inauguration of the completed upgrade.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (sengottaiyan-k-a, scope: May 2026+, Gobichettipalayam AC, Erode)
+// 1. Election win coverage (TOI / The Hindu / chennaionline / tnverdict / newkerala / lokmattimes / jagran, 4-6 May 2026) — REJECT: chunav jeet ki khabar, vikas-kaam nahi.
+// 2. Nomination filing as TVK candidate, Gobichettipalayam (The Hindu, 30 Mar 2026) — REJECT: karyakaal-se-pehle ka chunavi karyakram.
+// 3. Madras HC dismisses election petition by AIADMK candidate V.B. Prabhu challenging his victory (TOI / DT Next / The Hindu / New Indian Express, 15-16 Sep 2026) — REJECT as negative: chunav-yachika akeli negative nahi banti.
+// 4. "MLA Sengottaiyan's name on bus shelter sparks row" (TOI, Feb 2026) — REJECT: pre-term (shelter pichle karyakaal me bana tha); raajnaitik vivad, kaam nahi.
+// 5. Kaliappampalayam Panchayat Union Primary School centenary celebrations, prize distribution by the Minister (The Hindu, 12 Sep 2026) — REJECT: sirf ceremonial maujoodgi; koi lokarpan/shilanyas/swikriti nahi.
+// 6. Puja kits distribution to 109 temples in Gobichettipalayam division (businessminutes.in, Jul 2026) — REJECT: HR&CE vibhag ka district-wide karyakram, unki seat-specific dastavezi pahal nahi; non-preferred srot.
+// 7. Rs 45-crore drinking-water proposal around Perundurai SIPCOT (scoopfeeds) — REJECT: kshetra-bahar (Perundurai AC, alag MLA); sirf meeting-level prastav, koi swikriti/GO nahi; aggregator srot.
+// 8. Anamalayar-Nallaru project talks with Kerala — ministerial delegation (thehawk.in, Oct 2026) — REJECT: mantri ka state-level faisla/daura, kshetra-bahar; pre-event announcement.
+// 9. "CM within rights on policy decision" — political comment at Gobichettipalayam press meet (DT Next, 28 Jun 2026) — REJECT: bayanbazi, koi kaam nahi.
+// 10. Gobichettipalayam ko alag jila banane ka vaada (TOI campaign report, Apr 2026) — REJECT: "karenge" wali chunavi ghoshna, karyakaal-se-pehle.
+// 11. Election affidavit me 3 criminal cases (The Hindu affidavit page, Apr 2026) — REJECT as negative: aggregate case-count bina reporting ke, nayi prakriya-sthiti nahi.
+// 12. Pre-poll campaign coverage — video message / sentimental campaign (The Hindu 21 Apr 2026, New Indian Express 22 Apr 2026), EPS tour stories (ianslive/lokmattimes/pune.news) — REJECT: chunav prachar, karyakaal-se-pehle.
+// NOTE: Wo abhi Revenue and Disaster Management Minister hain — mantri ke state-level faisle scope se bahar (sirf apni seat ke kaam); isliye Perundurai SIPCOT, Anamalayar-Nallaru jaise mamle nahi liye gaye.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me unki Gobichettipalayam seat par sirf ek qualifying entry mili — Semmandampalayam fair price shop ka lokarpan.
+
+tamilNaduWorks['v-p-tamilselvi'] = [];
+
+// REJECT-LOG (v-p-tamilselvi, scope: May 2026+, Bhavanisagar (SC) AC, Erode jila)
+// Pehchan: V. P. Tamilselvi (born 1969), TVK, pehli baar ki MLA — shapath 11 May 2026, chunav me 72,391 votes (A. Bannari/AIADMK ko 4,569 se haraya). Erode jila NIC ki elected-representatives list me darj: 39, Kongu Nagar, Athani Road, Sathyamangalam – 638401.
+// 1. Chunav jeet ki reporting (The Hindu/DT Next/New Indian Express/TOI/Indian Express/ABP Live/Business Today, 4-6 May 2026) — REJECT: chunav khabar (72,391 votes, 4,569 ka antar), koi vikas-kaam nahi.
+// 2. The Hindu candidate affidavit profile (pre-poll, Apr 2026) — REJECT: karyakaal-se-pehle; background (post graduate, VRS ke baad principal, Tamil Beauty Salon ki owner) hai, kaam nahi.
+// 3. DT Next "Slain techie Kavin's aunt romps home at Bhavanisagar seat" (5 May 2026) — REJECT: chunav-khabar; unka Kavin Selvaganesh (2025 Tirunelveli honour killing victim) se rishta parivarik tathya hai, kaam nahi, aur parivar ke mamle MLA par KABHI nahi.
+// 4. Shapath-grahan (11 May 2026, 17vi sabha) — REJECT: sirf ceremonial shapath.
+// 5. Indian Express Oct 2026 "Will take steps to challenge High Court order: Minister Nirmal Kumar tells Kavin's parents" — REJECT: Kavin ke mata-pita (Thoothukudi jila) ka mamla; ve galat vyakti hain (unke parivar ke log) + Erode seat se sambandh nahi.
+// 6. The Hindu "Farmers in Erode protest against alleged illegal water pumping from Bhavanisagar Dam" (~Aug 2026) — REJECT: article me V. P. Tamilselvi ka naam/bhoomika hi nahi; WRD/police ka administrative mamla.
+// 7. NEGATIVE check: voterslist.in "89 TVK Candidates with Pending Criminal Cases" me unke naam par "BNS" darj hai — REJECT as negative: aggregator ka affidavit-count bina FIR/case/adalaati sthiti ki established reporting ke; The Hindu ke apne affidavit page par "Criminal Cases: No" declared hai, jo primary srot ke roop me is daave ko kharij karta hai.
+// 8. NEGATIVE check: "Tamilselvi Bhavanisagar FIR/case" searches me unke khilaf koi FIR, police case ya adalaati karyavahi ki established reporting nahi mili; Kavin-case ki judicial reporting unke parivar (khatna ke rishtedaron) se judi hai, unse nahi — REJECT as negative: parivar ke mamle MLA par KABHI nahi.
+// 9. SEAT-WORK NATIJA: May-Oct 2026 tak English press (The Hindu, Indian Express, Times of India, DT Next, The News Minute, South First, Deccan Herald, NDTV, New Indian Express site-scoped queries sahit) me Bhavanisagar seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry (lokarpan/shilanyas/swikriti/ghoshna with documented role) NAHI mili. Sabha sirf ~5 mahine purani hai; profile imaandari se khaali hai.
+
+// COORDINATOR QA NOTE (Erode district batch, researched 15 Oct 2026)
+// - Kul 7 MLA research hue (Perundurai AC RIKT hai — koi block nahi).
+// - Kul kept entries: 4 (m-vijay-balaji 1, ananth-moghan-k-k 1, d-shanmugan 1, sengottaiyan-k-a 1); 3 profiles imaandari se khaali (karuppanan-k-c, haribaskar-p, v-p-tamilselvi).
+// - Consistency fix: Kalingarayan sluice-opening (TOI, 14 Jul 2026) me TOI ne dono MLA (D. Shanmugan + K.K. Anand Mohan) ko dam par sluices kholte hue darj kiya — isliye dono pages par ek hi event ki consistent entry rakhi (puri credit-transparency ke saath); Shanmugan worker ka item-3 reject override kiya gaya.
+// - Slug audit: saare 7 slugs append se pehle file me 0 matches the — koi overwrite nahi.
+// - Hygiene: 0 Tamil/Devanagari script, 0 rupee symbol, 0 literal-\n; entry objects me 0 comments; field order exact; period '2026-2031' sabhi kept entries me.
+// - Negative entries: koi nahi.
+// - Push/deploy NAHI kiya (parent sambhalega).
+
