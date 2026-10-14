@@ -1136,3 +1136,61 @@ assamWorks['niso-terangpi'] = [];
 
 // Coordinator QA (Karbi Anglong): 3/3 profiles KHAALI — chunav ke baad (~5.5 mahine) established media me in teenon ke kshetra-vikas kaam ki koi qualifying report nahi. KAAC-trap items correctly rejected (CEM/ex-EM-bhoomika). OPEN LEAD: surjya-rongphar ke liye Dilawjan (Kuch Gaon) me 12 Oct 2026 ka Sub-Health-Centre shilanyas (XV-FC/NHM, plaque par unka naam) — sirf Threads post par document hua, established media me follow-up aaye to entry ban sakti hai.
 // Karbi Anglong Assam ka 21va jila; Assam works kul: 19 titles (koi nayi entry nahi).
+
+// ---- Kokrajhar district batch (researched 2026-10-14) ----
+
+
+assamWorks['sabharam-basumatary'] = [];
+// REJECT-LOG (sabharam-basumatary):
+// 1) Asomiya Pratidin digital (~2026-10-09) — Gossaigaon College me ek-divasiya rashtriya alochna-chakra me MLA ne sirf deep-prajwalan karke karyakram ka anaavaran kiya; koi sarkari pariyojna/udghatan/shilanyas nahi; ceremonial lamp-lighting reject.
+// 2) instalker.org (@SDO_CGossaigaon Twitter mirror, June 2026 ke aaspaas) — Vishva Paryavaran Diwas par Forest vibhag ke vriksharopan karyakram me MLA Chief Guest ke roop me maujood; vibhagiya karyakram me sirf upasthiti; source bhi social-mirror category; reject.
+// 3) YouTube (BPF Vijay Utsav, May 2026) — nav-nirvachit MLAs ka samman samaroh; ceremonial + YouTube-only source; reject.
+// 4) Chunav/affidavit/result khabrein (indianexpress, timesofindia, thehindu, sentinelassam, assamtribune, nenow, indiatodayne — Mar-May 2026): chunav-parinaam/naamankan coverage; koi kshetra-kaam nahi; reject.
+// Profile khaali hai — May 2026 ke baad ka koi verifyable sarkari kaam (lokarpan/shilanyas/swikriti) mila nahi. Sabharam Basumatary first-time MLA hain (age 67), pad-grahan 4 May 2026.
+
+
+assamWorks['rabiram-narzary'] = [];
+// REJECT-LOG (rabiram-narzary):
+// 1) govserv.org school notice feed (khud khola; event date 2026-05-15) — Kaklabari Girls' Higher Secondary School, Simla (Baksa jila) ke upgraded school ke udghatan samaroh me Narzary Chief Guest ke roop me "EM of Education, BTC" ke roop me shamil; BTC trap + Dotma constituency ke bahar ka sthal + institutional program; MLA ke roop me vyaktigat bhoomika nahi; reject.
+// 2) newsmantra.in — NTPC Bongaigaon CSR ke 3 Education Space Labs (Chirang/Kokrajhar) ke udghatan me "EM, Education, BTC" ke roop me shamil; BTC-vyapi CSR pariyojna, BTC EM ki bhoomika; BTC trap; reject.
+// 3) dailyprabhat.com / newkerala.com / themobiworld.com (Mar 2026) — ABSU 57th Annual Conference, Dotma ke souvenir ka anaavaran; chunav se pehle + sangathan ke karyakram me ceremonial; reject.
+// 4) instalker.org (@SDO_CGossaigaon Twitter mirror, ~June 2026) — Ahmedpur me prastavit Railway Underbridge NN126 site ka spot verification unki upasthiti me; sirf nirikshan/daura; source bhi social-mirror; reject.
+// 5) assamtribune.com (Dec 2025) — BTC me 984 primary teacher posts ki bharti ki ghoshna EM Education ke roop me; period se pehle + BTC bhoomika; reject.
+// 6) pratidintime.com — MLA ki tabiyat bigadne par hospital me bharti ki khabar; ye kshetra-kaam nahi aur negative-entry ke criteria (FIR/case/janch) bhi poore nahi hote; reject.
+// 7) Chunav/affidavit/result khabrein (TOI, ABP Live, News18, ETV Bharat, Oneindia, Northeast Live, webindia123, assamtimes.org — Mar-May 2026): chunav-parinaam coverage; koi kshetra-kaam nahi; reject.
+// Profile khaali hai — May 2026 ke baad Dotma MLA ke roop me koi verifyable sarkari kaam (lokarpan/shilanyas/swikriti) mila nahi; unki dikhne wali sabhi gatividhiyan BTC EM (Education) ki bhoomika me hain, jo BTC trap ke kaaran credit nahi banti. Rabiram Narzary ne 4 May 2026 ko Dotma se pad-grahan kiya.
+
+
+assamWorks['sewli-mohilary'] = [];
+
+// REJECT-LOG (sewli-mohilary):
+// 1. Census 2027 self-enumeration, 2 Aug 2026 (India Today NE, indiatodayne.in/assam/story/btc-chief-hagrama-mohilary-mla-sewli-mohilary-complete-census-2027-self-enumeration-urge-assam-residents-to-participate-1432780-2026-08-02) — REJECT: koi sarkari pariyojna/lokarpan/shilanyas nahi; sirf pati BTC Chief ke saath census portal par self-enumeration + janta se appeal. Kaam nahi.
+// 2. Ministerial berth ki maang, May 2026 (Pratidin Time, pratidintime.com/.../sewli-mohilary-cabinet-berth-kokrajhar-11814193; Economic Times, economictimes.indiatimes.com/.../articleshow/130980363.cms) — REJECT: chunav-jeet ke turant baad ki maang; mantri bani hi nahi — BPF ka ekmatra berth Mazbat ke Charan Boro ko mila (Minister for Transport and Welfare of Bodoland).
+// 3. BPF Debargaon Block Committee ka mantri-prapti anurodh, 20 May 2026 (NorthEast Live, northeastlivetv.com/around-ne/assam/assam-around-ne/assam-bpfs-debargaon-block-committee-requests-ministerial-position-for-btc-chiefs-wife-sewli-mohilary/) — REJECT: party unit ki maang/appeal; koi sanction ya kaam nahi; vaastav me berth nahi mila.
+// 4. BTC Chief Hagrama Mohilary ke foundation-laying events, Kokrajhar (The Sentinel + India Today NE, Feb 2026) — REJECT: (a) karyakaal se pehle; (b) BTC trap — KMCH Critical Care Block, Kokrajhar University admin building, cultural auditorium sab BTC Chief ke faisle; MLA Sewli ki apni concrete bhoomika kahin spasht nahi.
+// 5. CM Himanta Sarma dwara BTC ke ek saal ka abhivadan, 5 Oct 2026 (India Today NE, indiatodayne.in/.../himanta-hails-hagrama-mohilary-led-btc-on-completing-one-year-1458993-2026-10-05) — REJECT: CM/BTC Chief ka karyakram; Sewli ka naam tak article me nahi — BTC faisla MLA ko jodne ka aadhar nahi.
+// 6. Chunav coverage (ETV Bharat, etvbharat.com/.../assam-assembly-elections-2026-kokrajhar-constituency-results-enn26050302215; India Today NE ticket-battle 6 Mar 2026; affidavit assets coverage Mar 2026) — REJECT: pre-term / chunavi khabar, kshetra-kaam nahi.
+// 7. Koi negative (FIR/case/adhikarik janch) news nahi mili. Sabha sirf ~5.5 mahine purani hai; chunav se pehle ka Rajneetik jeevan shunya (pehli baar MLA). Khaali profile sahi hai.
+
+
+assamWorks['rupam-chandra-roy'] = [];
+
+// REJECT-LOG (rupam-chandra-roy):
+// 1. CM Relief Fund me daan, 25 Jul 2026 (Nation Press, nationpress.com/national/assam-mla-donates-cm-flood-relief-fund — khud khola gaya) — REJECT: baadh-raahat daan; niyam me "baadh-raahat, vetan-daan" spasht reject hai.
+// 2. Haribhita gaon me dhan-ropai photo-op, 19 Jul 2026 (India Today NE, indiatodayne.in/assam/video/assams-bokakhat-mla-rupam-chandra-ray-joins-farmers-in-paddy-cultivation-promotes-self-reliance-among-youth-1426921-2026-07-19 — khud khola gaya) — REJECT: prateekatmak kheti-badi gesture; koi sarkari yojna/lokarpan/shilanyas nahi. (Title me "Bokakhat MLA" galti hai; body me Baokhungri MLA near Kokrajhar spasht — wahi vyakti.)
+// 3. Dholmara schoolgirl drowning case me shok-santvana daura, May 2026 (Asom Times, asomtimes.com/kokrajhar-police-uncover-possible-cause-behind-death-of-two-minor-girls/ — khud khola gaya; bodies 21 May 2026) — REJECT: shok-santvana daura ceremonial; "fencing work around the pond has already begun" MLA ki swikriti/pahal nahi, prashasanik kadam hai.
+// 4. "Rupam Roy is BJP's candidate, not BPF" aarop, 4 Apr 2026 (India Today NE, indiatodayne.in/assam/story/rupam-roy-is-bjps-candidate-not-bpf-1370419-2026-04-04 — Prithiraj Narayan Dev Mech ka press-conference aarop) — REJECT: (a) pre-term; (b) sirf aarop, koi FIR/case/adhikarik karyavahi nahi — negative-entry criteria poora nahi hota.
+// 5. Chunav coverage (India Today NE liveblog 4 May 2026, TOI/Indian Express result pages, BPF candidate list 19 Mar 2026) — REJECT: chunavi khabar, kshetra-kaam nahi.
+// 6. Koi qualifying kshetra-kaam (lokarpan/shilanyas/swikriti/ghoshna) May 2026 ke baad kisi sthapit ya sthaniya srot me report nahi hua. Khaali profile sahi hai.
+
+
+assamWorks['md-ashraful-islam-sheikh'] = [];
+
+// REJECT-LOG (md-ashraful-islam-sheikh):
+// 1. Sentinel Assam, "Hagrama Mohilary lays foundation stones of projects worth Rs 27 crore" (Jan 2026) — pre-May 2026; BTC trap: BTC Chief ke faisle, article me MLA ki koi concrete bhoomika nahi; reject.
+// 2. Pratidin Time, "PM Modi Virtually Launches Key Projects, Flags Off Train Services in Assam" (13 Mar 2026) — pre-May 2026; PM/CM/mantri karyakram, MLA ki concrete bhoomika nahi; reject.
+// 3. Assam Tribune, "Hagrama Mohilary lays foundation for critical care unit, university in Kokrajhar" (20 Feb 2026) — pre-May 2026; BTC trap, MLA ki bhoomika nahi; reject.
+// 4. Sentinel Assam, "16th Assam Assembly sees major infusion of 47 new MLAs" (May 2026) — sirf naam-ulakh, koi karya nahi; reject.
+// 5. Sentinel Assam, "Gaurav Gogoi backs Congress candidate, slams govt over development priorities" (Mar 2026) + Assam Times Gaurav Gogoi rally (Apr 2026) + Sentinel Assam nomination-filing coverage (Mar 2026) — chunav-prachar coverage, May 2026 se pehle; reject.
+// 6. Guwahati Times, "Student Leader to MLA: Ashraful Islam Sheikh's Remarkable Rise in Assam Politics" (May 2026) — profile feature, koi sarkari karya/lokarpan/shilanyas nahi; reject.
+// 7. Negative check: MLA ya unke kshetra-kaam se judi koi FIR/case/adhikarik janch-karyavahi ki established reporting nahi mili; koi negative entry nahi bani.
