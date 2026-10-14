@@ -2938,3 +2938,84 @@ tamilNaduWorks['palanivel-m-s'] = [
 // - Sabhi 11 profiles imaandari se KHAALI (0 entries, 0 negatives) — opposition MLAon (7 AIADMK) + naye TVK MLAs (4) ka ~5 mahine ka karyakaal; May 2026+ post-event English reporting me koi qualifying seat-work/negative nahi.
 // - Mantri-check: vijay-tamilan-parthiban-a = Transport Minister (21 May 2026 se) — unke saare state-level kaam reject, sirf seat-kaam ka koi saboot nahi mila.
 // - Key identity traps pakde (sab reject-logs me darj): sivakumar-k vs A.K. Sai J. Saravanakumar; palanivel-m-s vs DMK ex-minister Palanivel/M. Rajamuthu; jayasankaran-a-p — "Athoor"(Dindigul) vs "Attur"(Salem); venkatachalam-g — ABP galat headline/IND "Venkatasalam. G"; lakshmanan-s — Wikipedia DVAC-officer; mani-r — CD Mani gangster; nallathambi-a — 5 alag Nallathambi; edappadi-palaniswami-k — Dec 2025 Rs 3.75cr lokarpan pre-term; vetrivel-s — P Vetrivel(TTV disqualified)/E.V. Velu; vijay-tamilan-parthiban-a — S.R. Parthiban MP; p-usharani — 2 Amma canteen campaign promise pre-term.
+
+
+// ---- Sivaganga district batch (researched 2026-10-15) ----
+// Pehchan: Dr. T.K. Prabhu (TVK), Karaikudi AC MLA (jeet 1,01,358 votes, shapath 10 May 2026). MANTRI-CHECK POSITIVE: ye wahi Karaikudi MLA hain jo TVK cabinet me Mantri (Natural Resources, Minerals and Mines) bhi hain — The Hindu (14 May 2026) ne unhe "inducted in the TVK Cabinet headed by C. Joseph Vijay" bataya; Oct 2026 ki reports unhe "Minister for Natural Resources T.K. Prabhu" keh rahi hain (hostel-lokarpan 5 Oct 2026 The Hindu me wahi hain). Isliye saare minister-portfolio/state-level faisle REJECT — sirf Karaikudi AC ke seat-specific lokarpan/shilanyas niche rakhe gaye hain.
+tamilNaduWorks['dr-prabhu-tk'] = [
+  { title: 'Kazhanivasal, Karaikudi me Government Middle School ki 2 nayi classrooms ka lokarpan kiya', note: '24 Jul 2026 ko Mantri ke roop me Prabhu ne Karaikudi (unki apni AC) me Kazhanivasal ke Government Middle School ki 2 nayi classrooms ka lokarpan kiya (The Hindu, 24 Jul 2026 ki post-event report). Credit-disclosure: building ka nirmaan School Education vibhag/state sarkari fund se hua; Mantri ke roop me lokarpan unke mantri-pad ka sarkari kaam hai — ye vyaktigat MLA-fund ya unki apni swikriti nahi hai.', period: '2026-2031', category: 'School', badge: 'sarkari', sourceLabel: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/cities/Madurai/drone-surveys-mandatory-for-quarries-in-tn-to-curb-illegal-mining-minister-tk-prabhu/article71263258.ece', date: '2026-07-24' },
+];
+// REJECT-LOG (Roman Hinglish): ek-ek line, kya reject kiya aur kyun.
+// 1. Rs 9.34 crore ka social justice hostel (Kanchirangal, Sivaganga) ka Sep 2026 lokarpan — REJECT: unhone Mantri ke roop me lokarpan kiya, aur hostel Sivaganga AC (Kanchirangal) me hai, Karaikudi AC me NAHI; kshetra-bahar + mantri-pad ka sarkari kaam (The Hindu 5 Oct 2026).
+// 2. Drone survey/quarry crackdown policy (illegal mining par karwai, 60+ quarries band) — REJECT: poore rajya ka mantri-portfolio faisla, seat-specific nahi.
+// 3. Karaikudi ko alag jila banane ka ashwasan — REJECT: sirf "consultation chal rahi hai, formal announcement baad me" = ghoshna/karenge khabar, koi GO/swikriti nahi (The Hindu 24 Jul 2026).
+// 4. Cauvery-Vaigai-Gundar river interlinking project par briefing — REJECT: "official decision expected soon" = maang/charja stage, koi concrete kadam nahi.
+// 5. Bommai Kadhalan private museum (Karaikudi) ka reopening lokarpan (19 Sep 2026) — REJECT: private sangrahalaya ka ceremonial lokarpan; sarkari suvidha nahi, koi sarkari fund/swikriti nahi, sirf maujoodgi.
+// 6. Manamadurai me naye Sub-Registrar office building ka lokarpan (24 Jul 2026) — REJECT: Manamadurai AC, unki seat (Karaikudi) ke bahar; plus mantri-pad ka kaam.
+// 7. Sembanur me naye PHC building ka lokarpan (24 Jul 2026) — REJECT: Karaikudi AC me sthit hone ka saakshya nahi mila; kshetra-bahar/uncertain attribution.
+// 8. Mithiravayal (Karaikudi) me sharab-dukan virodh par phone par karwai ka ashwasan (8 Jun 2026) — REJECT: sirf ashwasan, koi concrete parinam reported nahi.
+// 9. 14 May 2026 ka Karaikudi swagat-samaroh bhashan ("corruption ke liye koi jagah nahi") — REJECT: chunav-ke-baad ki political rally, koi vikas-kaam nahi.
+// 10. Paramakudi me Immanuel Sekaran memorial par shraddhanjali + Rs 78.95 lakh kalyan-sahayata vitaran (9 Oct 2026) — REJECT: Ramanathapuram jile me ceremonial maujoodgi; kalyan-sahayata vibhagiya vitaran, MLA ki seat-specific swikriti nahi.
+// 11. Pudukottai jile (Kannangudi) me stone quarry nirikshan (18 Jul 2026) — REJECT: sirf nirikshan/daura, dusre jile me, mantri-pad ka kaam.
+// 12. Chennai Corporation zones ke Minister-in-charge niyukti me naam (Kodambakkam, Valasaravakkam) — REJECT: Chennai ka mantri-pad ka daayitva, seat se asambaddh.
+// 13. Monsoon preparedness review meeting me upasthiti — REJECT: statewide mantri-pad ka kaam, koi seat-specific kaam nahi.
+// 14. TIDEL Park, Government Law College, Agriculture College (Karaikudi) lokarpan (Jan 2026, CM Stalin) — REJECT: pre-term, unke karyakaal se pehle.
+// 15. Chunav-parinam ki khabaren (TOI, Indian Express, The Hindu May 2026) — REJECT: chunav reporting, vikas-kaam nahi.
+// 16. Kabinet-list articles (NDTV Profit, Mathrubhumi) — REJECT: pehchan ki pushti ke liye use kiya, kaam ki entry nahi.
+// 17. Hostel fund misuse par "former MLA Velmurugan" ki janch-maang (Punjab Kesari) — REJECT: Prabhu ke khilaf koi aarop/FIR/adalaati sthiti nahi; purane prashasan par aarop.
+// NEGATIVE: koi negative nahi mila — Prabhu ke khilaf koi established FIR/case/adalaati sthiti ya janch reported nahi hai.
+
+// Pehchan: R. Seenivasa Sethupathy (Srinivasa Sethupathi), TVK — Tiruppattur AC No. 185, Sivaganga district.
+// 2026 chunav me K.R. Periyakaruppan (DMK) ko sirf 1 vote se haraya (83,375 vs 83,374), karyakaal May 2026 se. Mantri nahi — pehli baar ke backbench MLA.
+// Imaandaar khaali profile: May 2026 ke baad priority English press me inke kisi vikas-kaam ki post-event reporting nahi mili; sab coverage chunav + court-mukadme tak seemit hai.
+tamilNaduWorks['seenivasa-sethupathy-r'] = [
+];
+
+// REJECT-LOG:
+// - Madras HC chunav-yachika: DMK ke K.R. Periyakaruppan ne ek-vote haar chunauti di; Justice G.K. Ilanthiraiyan ne 28 Sep 2026 ko yachika reject kar di. Ye chunav-mukadma hai, vikas-kaam nahi; niyam ke mutabik akeli chunav-yachika negative bhi nahi.
+// - HC ka interim order (MLA ko May 2026 floor test/voting se rokna) aur SC ka us order par stay ("atrocious", 13 May 2026) — chunav-mukadme ka hissa, vikas-kaam nahi.
+// - Udhayanidhi Stalin ka Nov 2025 me Sivaganga me 23 projects (Rs 17.86 crore) lokarpan — DMK-era, karyakaal se pehle, MLA ka koi zikr nahi.
+// - M.K. Stalin ka Jan me Sivaganga daura: Siravayal (Tirupattur taluk) me Gandhi-Jeeva Memorial Hall Rs 3.27 crore ka lokarpan — DMK-era pre-term, MLA involved nahi.
+// - New Indian Express Sep 2025: Tirupattur fire-and-rescue station building Rs 2.12 crore ka lokarpan — pre-term, MLA involved nahi.
+// - Newsdrum/PTI: CM ne Tirupattur DISTRICT ka naya Collectorate udghatan kiya — ye Tirupattur jila (AC No. 50, north TN) hai, hamara AC No. 185 Sivaganga hai — kshetra-bahar, galat Tirupattur.
+// - IANS 10 Oct 2026: Sivaganga me Adi Dravidar hostel-funds ke durupyog ki janch ki maang — T. Velmurugan (Tamilaga Vazhvurimai Katchi) ne ki; hamare MLA (Tamilaga Vettri Kazhagam) se alag vyakti — galat pehchan reject.
+// - ABP Live result page: data hi galat hai ("Seenivasa Sethupathy LOST" dikhata hai) — unreliable source; vaise bhi chunav coverage kaam nahi.
+// - Malaimurasu YouTube video (Tirupattur me MLA office opening) — YouTube-only source, niyam ke mutabik reject.
+// - Dinamalar jaise Tamil-press hits snippet-level mile lekin English priority-press me cross-check ke bina entry nahi banayi ja sakti thi — kamzor attribution se khaali profile behtar.
+
+tamilNaduWorks['kulanthai-rani-a'] = [
+];
+
+// REJECT-LOG (Roman Hinglish):
+// 1. REJECT — The Hindu 2026-10-05 "Alleging medical negligence, family of deceased woman stages roadblock in Sivaganga": MLA "Kuzhanthai Rani Nachiyar" ne hospital authorities aur police ke saath roadblock protesters se baatcheet ki aur sarkari naukri + ghar ka aashwasan diya, protesters ne shav lena maana. Ye madhyastha/aashwasan hai, koi poora hua kaam / swikriti / shilanyas / lokarpan nahi — "sirf nirikshan/daura" aur "karenge" category ke niyam se reject.
+// 2. REJECT — YouTube Times Now Seithi video "TVK MLA Kulanthairani Speech" (Aug 2026): assembly me unka bhashan jisme kshetra ke muddon/maangon par bola gaya. Dono wajah se reject: (a) YouTube-only srot sweekar nahi, (b) assembly me maang uthana = sirf maang/prastav, kaam nahi.
+// 3. REJECT — The Hindu 2026-04-07 / 2026-04-10 nomination/candidate list articles (105 nominations, final list): naam sirf ummidvaar-soochi me hai — pre-term, kaam se koi sambandh nahi.
+// 4. REJECT — The Hindu 2026-04-21 "Campaigning concludes in four ACs of Sivaganga district": chunav-prachar ka daura — pre-term, kaam nahi.
+// 5. REJECT — The Hindu 2026-05-05 "TVK topples decades of dominance...": jeet ki khabar, kaam nahi.
+// 6. REJECT — The Hindu 2026-10-05 "College students petition Collector over continued closure of newly inaugurated social justice hostel": Kanchirangal ka social justice hostel Sep 2026 me Mantri T. K. Prabhu ne lokarpit kiya — MLA ka koi kadam ya bhoomika report nahi, isliye entry nahi banti (stage ka srot mantri ka hai, MLA ka nahi).
+// 7. REJECT — TOI 2026-11 (cache se) / dailypioneer "Udhayanidhi Stalin inaugurates 23 completed projects in Sivaganga": pre-term karyakram (Udhayanidhi ke karyakram, 2025 end) — term se pehle ka, MLA ka koi role nahi.
+// 8. REJECT — Tamil YouTube/channels (dinathanthi/thanthi-type clips) me unke roadshow/virodh-marcho ki coverage mili to hoti, par English established sroton me koi post-event works report nahi mili. FB/IG permalinks bhi sweekar nahi.
+// 9. NOTE — Koi negative nahi: unke khilaaf koi FIR/case/adalaati janch ki established report nahi mili (affidavit me bhi 0 criminal cases).
+
+tamilNaduWorks['elangovan-d'] = [
+];
+
+// REJECT-LOG (Roman Hinglish):
+// 1. Election-result coverage (TOI, The Hindu, Indian Express, Business Today, ABP Live, May 2026) — chunav natija news, vikas-kaam nahi — reject.
+// 2. The Hindu "Final land survey for track doubling on Manamadurai-Rameswaram section" — railway DRM ka statement, MLA ki koi bhoomika ya kadam darj nahi — reject.
+// 3. DT Next "TN Budget 2025-26: Madurai and Ramanathapuram get a growth push" — purani budget khabar (Mar 2025, pre-term) aur MLA ka koi concrete kadam nahi — reject.
+// 4. The Hindu "TVK MLA inspects Thoothukudi GH" — dusre MLA (A. Srinath, Thoothukudi) ki sirf nirikshan khabar, Manamadurai se sambandh nahi — reject.
+// 5. Poor-quality rice distribution by TVK MLA (BJP demand, wesearch/Lokmat) — Madurai West MLA S.R. Thangapandi ka mamla, Manamadurai ka nahi — reject.
+// 6. WRONG PERSON: EVKS / E.V.K.S. Elangovan (Congress, Erode East) — 2023 swearing-in, hospitalisation, harassment allegations wali saari khabrein (TOI, DT Next, DNA India) alag vyakti ki hain — reject.
+// 7. WRONG PERSON: TKS Elangovan (DMK spokesperson) — Karur stampede aur Vijay/BJP comments wali saari khabrein alag vyakti ki hain — reject.
+// 8. WRONG PERSON: Elangovan, MD of DNC Chits Pvt Ltd (Covai Mail) — private showroom inauguration, politician nahi — reject.
+// 9. AIADMK protest over TVK MLA M.V. Karuppaiah's jallikattu comments (The Hindu) — dusre MLA ka mamla — reject.
+// 10. No FIR/case/adalaati janch wali negative khabar D. Elangovan (Manamadurai, TVK) ke khilaf established media me nahi mili — negative entry nahi banayi.
+// 11. Khaali profile imaandari se darj: May 2026 ke baad MLA ka poora hua ya shilanyas/lokarpan/swikriti wala koi development kaam English sroton me reporting ke saath nahi mila.
+// COORDINATOR QA NOTE (Sivaganga, researched 2026-10-15):
+// - 4/4 MLA researched, sabhi pehchan verified (chaaron TVK; seenivasa-sethupathy-r ne DMK ke K.R. Periyakaruppan ko 1 vote se haraya).
+// - Kul titles: is batch se +1 (dr-prabhu-tk ki 1 entry; 3 profiles imaandari se khaali).
+// - MANTRI-CHECK: dr-prabhu-tk (Karaikudi MLA) = TVK cabinet me Natural Resources, Minerals and Mines Minister (14 May 2026 se); saare minister-portfolio/state-level kaam reject, sirf Kazhanivasal classrooms ka Karaikudi seat-level lokarpan rakha gaya, credit-disclosure ke saath. Entry ka sourceUrl Hindu article jisme khud ye lokarpan darj hai (coordinator ne kholkar verify kiya: "two new classrooms at the Government Middle School in Kazhanivasal, Karaikudi").
+// - seenivasa-sethupathy-r: Madras HC ne DMK ki chunav-yachika reject kar di (28 Sep 2026) — akeli yachika negative nahi; galat Tiruppathur (north TN jila) trap pakda; naam-trap (Velmurugan alag vyakti) pakda.
+// - kulanthai-rani-a: Sivaganga hostel Mantri Prabhu ne lokarpit kiya — stage ka srot mantri ka, MLA ki entry nahi; The Hindu roadblock khabar madhyastha-matra thi.
+// - elangovan-d: EVKS/TKS Elangovan/DNC-chit-fund/D Thangapandi case — sab galat-vyakti/kshetra-bahar traps pakde.
