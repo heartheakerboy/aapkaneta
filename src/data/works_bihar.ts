@@ -3315,3 +3315,126 @@ biharWorks['vijay-kumar-khemka'] = [];
 // REJECT-LOG (vijay-kumar-khemka): Jagran 12 Oct 2026 (khadi mall nirikshan) -- sirf nirikshan + PM Gati Shakti vibhagiya yojna, reject; LiveHindustan 02 Apr 2026 (Gulabbagh Zero Mile golambar soundaryakaran swikriti) -- MLA ne sirf path-nirman mantri se mulakat/charcha ki, swikriti mantri ka faisla, koi work-order/tender saboot nahi, reject; LiveHindustan 16 Sep 2026 (BUIDCo samiksha) -- sirf samiksha/nirdesh, koi single kaam-stage nahi, reject; LiveHindustan Sep 2026 (sahayog shivir nirikshan) -- sirf nirikshan, reject; cityhalchal.in 06 Oct 2026 (seva setu shivir nirikshan) -- sirf nirikshan, reject; cityhalchal.in Aug 2026 (Ravidas vikas shivir nirikshan) -- sirf nirikshan, reject; LiveHindustan 01 Jan 2026 (Vishwa Hindu Yuva Vahini ka aabhar-patra) -- sangathan ka bayan, koi kaam-stage nahi, reject; public.app x2 (Sep 6, 2026: 'The Urban Taste' hotel udghatan; Sep 6, 2026: blood-donation banner udghatan) -- public.app-only + vikas-kaam nahi, reject; looknewsindia Oct 2024 (7 panchayat bhavan shilanyas, CM virtual) -- pre-term + CM karyakram, reject; LiveHindustan 10 Nov 2025 (chunavi road show) -- election news, reject; PM Modi Sep 2025 Purnia airport/40,000-cr event -- pre-term + PM karyakram, reject; koi qualifying negative reporting nahi mili. Imaandari se khaali profile rakhi gayi.
 
 // COORDINATOR QA (Purnia): Worker-A/B ne canonical schema (description field) ka istemal kiya; Worker-C ne entry-less fragment me header-comment me "note" field ka hawala diya tha lekin uske blocks khaali arrays hain -- koi schema mismatch merge me nahi aaya; saare fragments ke entry objects me zero Devanagari, zero rupee-symbol, zero scaffolding comment. Titles pure Roman-Hinglish vakya, currency "Rs", badges sirf 'news', categories valid (Any/Paani/School), stages valid (shilanyas/lokarpan), period '2025-2030' sabhi 4 entries me, slug order AC 56->62, har slug exactly once. 4 profiles khaali (ghulam-sarwar, kaladhar-prasad-mandal, leshi-singh, vijay-kumar-khemka) -- 11-mahine ke karyakaal me imaandari se justify.
+
+// ---- Purvi Champaran district batch (researched 2026-10-14) ----
+
+biharWorks['pramod-kumar-sinha'] = [];
+
+// REJECT-LOG (pramod-kumar-sinha): profile KHAALI raha — is karyakaal (Nov 2025-Oct 2026) me koi valid works entry nahi mili. LiveHindustan (25 Nov 2025): Bhelahi abhinandan samaroh me "vikas karya jald shuru hoga" — sirf vaada, reject; LiveHindustan (Jun 2026): Raxaul Chamber of Commerce samman samaroh ka udghatan — event ka udghatan, vikas karya nahi, reject; Voice of Raxaul (20 Dec 2025): Raxaul-Adapur ki 23 pariyojnaon (Rs 250 crore) ka shilanyas sansad Dr Sanjay Jaiswal ne remote button dabakar kiya, MLA ne keval yojanaon ka vivaran diya — sansad ke karyakram me sirf maujoodgi, reject; E-Dainik Jagran (3 Dec 2025): Raxaul railway station punarnirman (Amrit Bharat, PM ne Feb 2024 me virtual shilanyas kiya tha) — pre-term pariyojana, reject; Voice of Raxaul (Mar 2026): Bank Road nirman ka nirikshan — sirf nirikshan, reject; Prabhat Khabar (Jun 2025): MKVY yojanaon ka udghatan/shilanyas MP ne kiya, MLA keval maujood — karyakaal se pehle + sirf maujoodgi, reject; Dainik Bhaskar (Oct 2025): pichhle karyakaal ke kaamon ki soochi — sab pre-term, reject; Bihar Halchal News (17 Jan 2026): CM Samriddhi Yatra me maujoodgi — reject; Voice of Raxaul (2021) aur Deshvani (Jan 2025) khabren pre-term, reject. Koi qualifying negative reporting nahi mili.
+
+biharWorks['rajesh-kumar-alias-bablu-gupta'] = [
+  {
+    title: 'Sugauli me Rs 14.75 crore ki lagat se 3-manzila prakhand-sah-anchal karyalaya bhawan ka shilanyas',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-01-23',
+    description: 'Dainik Bhaskar ki report ke anusaar Sugauli prakhand karyalaya parisar me prakhand-sah-anchal karyalaya ke 3-manzila bhawan ki aadhaarshila rakhi gayi; kshetriya saansad Dr Sanjay Jaiswal aur vidhayak Rajesh Kumar urf Bablu Gupta ne sanyukt roop se shilanyas kiya. Bhawan lagbhag Rs 14.75 crore ki lagat se banega. Disclosure: vidhayak ne ise apne karyakaal ka pehla shilanyas bataya aur kaha ki bhawan ka tender lambe samay se lambit tha jo unke prayason se aage badha; saansad ne bhi kaha ki vidhayak ke prayason se yojana ka kaam shuru ho raha hai — ye dono ke apne bayan hain, swatantra roop se verify nahi hue. Date disclosure: article me "Shukravaar" ka zikr aur search metadata (264 din purani) se tithi 23 Jan 2026 estimated hai; article par tithi ki print nahi thi.',
+    sourceLabel: 'Dainik Bhaskar (bhaskar.com), 23 Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/motihari/sugauli/news/sugauli-three-story-building-inauguration-rs-1475-crore-137021486.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rajesh-kumar-alias-bablu-gupta): 1 qualifying entry mili (upar). Baaki sab reject: Dainik Bhaskar (Jan 2026): Sugauli Sandhi Sthal paryatan vikas — Rs 14.96 crore ki prashasnik swikriti aur Rs 3 crore ki pehli kist Sept 2025 me mili thi (pre-term); Bihar Rajya Paryatan Vikas Nigam ki pariyojana, MLA ka koi karya/daawa nahi — reject; Khabare Abtak (Feb 2026): Vidhan Sabha me maangen (Sugauli anumandal, nirikshan bhawan, Dhanauti nadi pul) — sirf maang/prashn, reject; Voice of Raxaul (Dec 2025): antyeshti me shraddhanjali, aspatal me mulakat — shok/mulakat, koi karya nahi, reject; Khabare Abtak/Bhaskar (Dec 2025-Aug 2026): Sansad Khel Mahotsav, Vanasapti Mai Mahotsav, school annual function, institution launch — event-udghatan, vikas karya nahi, reject. Koi qualifying negative reporting nahi mili.
+
+biharWorks['vishal-kumar'] = [];
+
+// REJECT-LOG (vishal-kumar): profile KHAALI raha — is karyakaal me koi valid works entry nahi mili. Note: khabron me inhe "Vishal Kumar Shah"/"Vishal Sah" bhi kaha gaya hai (JD(U), Narkatia, 1443 voton se jeet) — wahi vyakti. Khabare Abtak (Jan 2026): Chhauradano ke Baisakhwa school ka auchak nirikshan — sirf nirikshan, reject; Voice of Raxaul (20 Dec 2025): Raxaul ki 23 pariyojnaon ke shilanyas karyakram me maujoodgi — kshetra-bahar (Raxaul/Adapur Narkatia AC me nahi) + sirf maujoodgi, reject; Bhaskar/Khabare Abtak (Dec 2025): Sugauli me Sansad Khel Mahotsav ka shubharambh — event, reject; Hindusthan Samachar (21 Jan 2026): Bankatwa panchayat samiti baithak me mudde uthaye — baithak/charcha, reject; ETV Bharat (19 Feb 2026): Vidhan Sabha me khaad kala-bazaari par sawal — sawal/maang, reject; YouTube (Sep 2026): Teen Koni road par bayan — YouTube-only + keval bayan, reject; Zee News: Sheohar me SH-54 par bina sadak ke pul — Sheohar jila hai, "Narkatia" wahan gaon ka naam hai; koi FIR/case nahi — negative entry ke layak nahi, reject; Kashish News (May 2026): Buddha Purnima mahotsav me maujoodgi — reject. Koi qualifying negative reporting nahi mili.
+
+biharWorks['krishnanandan-paswan'] = [];
+
+// REJECT-LOG (krishnanandan-paswan): profile KHAALI raha — is karyakaal me koi valid works entry nahi mili. Dainik Bhaskar: English Chowk-Areraj se Ghiwadhar tak ~10 km sadak ka shilanyas (~Rs 13 crore) — article khud "4 mahine pehle shilanyas" batata hai (shilanyas ~Oct 2025, pre-term), reject; samacharnama.com (~974 din purani khabar, ~Rs 3.5 crore ki 2 sadkon ka shilanyas) — pre-term, reject; Zee News: sadak tender ke badle 5% commission ka aarop — aarop MLC Maheshwar Singh ke letterpad par contractor Kripakant ke dawe par aadharit, koi FIR/case/adalaati ya adhikarik janch-karyavahi nahi; aarop mukhya roop se mantri-putr Kundan par hai (parivar ka mamla — MLA par kabhi nahi); putr ne aaropon se inkaar karke legal notice bhej diya — negative criteria poore nahi, reject; LiveHindustan (29 Dec 2025): Atal Sammelan me Harsidhi chowk ka "Atal Chowk" naamkaran — party karyakram, koi vikas-kaam nahi, reject; deshvani.in (~Sep/Oct 2026): anganwadi kendron me Aangan Milan karyakram — daura, koi valid stage nahi, reject; Dainik Bhaskar (Nov 2025): jeet ke baad primarytayein — "karenge" ke waade, reject; YouTube-only: Motijheel saundaryikaran (~Rs 14 crore) shilanyas me MLA guest — YouTube-only, reject.
+
+biharWorks['raju-tiwari'] = [
+  {
+    title: 'Narayani baandh ke risav par vidhayak Raju Tiwari ne swayam favda chalaya, ret ki boriyan uthain aur baadh-peedit parivaron ko raahat samagri baanti',
+    category: 'Any',
+    stage: 'complete',
+    date: '2026-10-01',
+    description: 'Govindganj ke Nautan panchayat me Narayani baandh me risav ki suchna milte hi vidhayak Raju Tiwari swayam mauke par pahunche. Grameenon aur mazdooron ke saath milkar unhone khud favda chalaya aur ret se bhari boriyan uthakar risav wali jagah par rakhi, taaki baandh bach sake. Uske baad baadh-prabhavit nichle ilakon me jakar prabhavit parivaron ko bhojan ke packet, paani ki botalen aur sukha ration bantaya. Ye entry ETV Bharat ki post-event reporting par aadharit hai; isme koi sarkari order, yojna-sanction ya rakam ka zikr nahi hai.',
+    sourceLabel: 'ETV Bharat (etvbharat.com), 1 Oct 2026',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/ljpr-mla-raju-tiwari-carried-sacks-on-his-shoulders-on-embankment-during-flood-in-motihari-brs26100107404',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Raju Tiwari ne Motihari press conference me sarkari faisla sunaya: baadh rahat rashi Rs 6000 se badhkar Rs 7000 prati parivar',
+    category: 'Any',
+    stage: 'ghoshna',
+    date: '2026-10-03',
+    description: 'Disclosure: ye faisla Bihar sarkar ka hai — MLA ne Motihari me press conference me iski aupcharik jaankari di, khud sanction nahi kiya. Govindganj se LJP-RV vidhayak Raju Tiwari ne 3 Oct 2026 ko bataya ki baadh-peedit parivaron ko milne wali sahayata rashi Rs 6000 se badhakar Rs 7000 kar di gayi hai aur ye badhi hui rashi jaldi se seedhe peedit parivaron ke khaaton me transfer hogi. Unhone apne kshetra Govindganj me hazaaron parivaron ke prabhavit hone ka zikr karke rahat-karyon me tezi ka bharosa bhi dilaya. Press conference me diye gaye rajnaitik bayaan (Tejashwi Yadav par tippani) is entry ka hissa nahi.',
+    sourceLabel: 'Lalluram (lalluram.com), 3 Oct 2026',
+    sourceUrl: 'https://lalluram.com/bihar-flood-victims-financial-assistance-increased-ljpr-mla-raju-tiwari-criticizes-tejashwi-yadav/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (raju-tiwari): upar 2 qualifying entries mili. YouTube-only video (Paharpur prakhand daura, ~Sep 2026) — YouTube-only, reject; newsstump.com (~Oct 2026) opinion-analysis of flood photos — vishleshan, entry ka aadhar ETV Bharat ki post-event reporting hi bani, reject; Asianet/TOI/newkerala/hindi.news24online (Nov 2025) — chunaav-jeet ki khabar, reject; indiatvnews (Oct 2025) — ticket list, reject. Koi qualifying negative reporting nahi mili.
+
+biharWorks['shalini-mishra'] = [];
+
+// REJECT-LOG (shalini-mishra): profile KHAALI raha — is karyakaal me koi valid works entry nahi mili. BhaskarHindi/IANS (11 Dec 2025): CM Nitish Kumar ka Kesaria daura — Kesaria bauddh-stoop pariyojna (~Rs 22 crore) ka shilanyas 12 Dec 2023 ko hua tha (pre-term), reject; Khajuriya ko prakhand banane aur stoop ke saundaryikaran ki baatein — sirf maang/charcha, reject; LiveHindustan (13 Dec 2025): jeet par karyakarta-samman samaroh — event, reject; YouTube-only entries (baadh-peediton ke beech baatcheet, shivling pran-pratishtha, Vidhan Sabha budget charcha shorts) — YouTube-only, reject; navyugsandesh.com (Oct 2026): shikshak MLC chunav me Anand Pushkar ke samarthan me appeal — rajnaitik campaign, reject; Zee News tag page — rajnaitik bayaan, reject.
+
+biharWorks['sachindra-prasad-singh'] = [
+  {
+    title: 'Piprakothi-Chakia mukhya sadak par Hanuman mandir ke paas Atal Chowk ka lokarpan aur shilapatt ka anavaran',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2025-12-30',
+    description: 'Dainik Bhaskar ki post-event reporting ke mutabiq Kalyanpur ke vidhayak Sachindra Prasad Singh ne Piprakothi se Chakia ko jodne wali mukhya sadak par Hanuman mandir ke nikat Atal Chowk ka lokarpan kiya aur wahan sthapit shilapatt ka anavaran kiya. Karyakram me saikdon grameen aur janpratinidhi maujood the. Disclosure: smarak ke aage ke vikas (saundaryikaran, baithne ki vyavastha, shaheed smriti deewar) ko vidhayak ne bhavishya ki yojana ke roop me ghoshit kiya tha, woh is lokarpan ka hissa nahi tha. Date disclosure: article ki search metadata, "7 mahine pehle" aur "Mangalwar" ke sanketon se event date 30 Dec 2025 estimated hai; article me exact gaon/panchayat ka naam nahi tha.',
+    sourceLabel: 'Dainik Bhaskar (bhaskar.com), 31 Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/samastipur/kalyanpur/news/a-memorial-will-also-be-built-to-mark-the-inauguration-of-atal-chowk-136817907.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sachindra-prasad-singh): 1 qualifying entry mili (upar). Baaki reject: bhaskar.com — Fulwariya up-swasthya kendra udghatan (8 Aug 2026) — sirf PRE-EVENT schedule announcement ("udghatan hoga"), post-event reporting nahi, reject; livehindustan.com — 3 Jan 2026 Kalyanpur samiksha baithak: sirf samiksha/baithak, reject; bhaskar.com — Maharishi Valmiki Hospital (private) udghatan: MLA sirf mehmaan, private karyakram, reject; YouTube shorts — muft shivir: YouTube-only, reject; public.app — cheeni mill charcha, kisan mela panjikaran, sadak suraksha baithak, mantri se mulakat: public.app-only, reject; public.app — "ashleel video" aarop (2025): public.app-only, koi FIR/case/adalaati reporting nahi — negative layak nahi, reject.
+
+biharWorks['shyam-babu-prasad-yadav'] = [
+  {
+    title: 'Pipra kshetra me lagbhag Rs 12 crore ki lagat se 3 uchch-stariya pulon ke nirmaan ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-03-14',
+    description: 'Dainik Jagran ki post-event reporting ke mutabiq Pipra ke vidhayak Shyambabu Prasad Yadav ne Mukhyamantri Grameen Setu Yojana ke tahat 3 uchch-stariya pulon ke nirmaan ka shilanyas kiya: Pipra-Bhagwanpur REO path par Sagar gaon ke nala, Sahasi-Jagirha-Hasanpur path par Bangovina nala, aur Parsauni-Kishun-Hasanpur path par Hasanpur nala. Kul lagat lagbhag Rs 12 crore batayi gayi. Sahayak abhiyanta aur kaneey abhiyanta sahit sarkari adhikari maujood the; grameenon ki lambe samay se maang thi. Disclosure: Ram Janaki Marg aur Gorakhpur-Siliguri Expressway se kshetra ko hone wale labh ki baat vidhayak ka swayam ka dawa hai.',
+    sourceLabel: 'Dainik Jagran (jagran.com), 14 Mar 2026',
+    sourceUrl: 'https://www.jagran.com/bihar/east-champaran-pipra-east-champaran-three-high-level-bridges-foundation-stone-hindi-news-40171679.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (shyam-babu-prasad-yadav): 1 qualifying entry mili (upar). Baaki reject: livehindustan.com — Bhimapur panchayat sarkar bhavan udghatan + vivaah mandap shilanyas (5 Oct 2025) — pre-term, reject; bhaskar.com — Chakia me vividh yojnaon ka udghatan/shilanyas (bus stand Rs 2 crore, sadken, park, Sep 2025) — "aagat chunav" ka zikr, pre-term, reject; ThePrint (PTI, 11 Jul 2023) + bansalnews — Jitendra Prasad hatya mamle me FIR — Jul 2023, pre-term, negative layak nahi, reject; deshvani.in — jila sadak suraksha samiti baithak me grameen sadkon ki maang: sirf maang, reject; public.app — football/cricket tournament udghatan, Rajepur swasthya shivir, Mehsi me 23 sadkon ka shilanyas: public.app-only, reject; YouTube — mantri par aarop wala video: YouTube-only, reject.
+
+biharWorks['rana-randhir'] = [
+  {
+    title: 'Madhuban ke Banajariya gaon me up-dakghar ka lokarpan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-06-16',
+    description: 'Hindustan ki post-event reporting ke mutabiq Madhuban ke vidhayak Rana Randhir Singh aur Dak Mahadhyaksh (Uttari Kshetra, Muzaffarpur) Pawan Kumar Singh ne Madhuban ke Banajariya gaon me up-dakghar ka deep prajwalan karke lokarpan kiya. Isse grameen vittiya sevayen majboot hone ki ummeed jatayi gayi. SDO, BDO aur thanadhyaksh sahit prashasanik adhikari maujood the. Disclosure: vidhayak ne kaha ki up-dakghar unke sankalp ke tahat khula hai — yeh unka swayam ka dawa hai. Date disclosure: article metadata aur "Mangalwar" ke sanket se event date 16 Jun 2026 estimated hai.',
+    sourceLabel: 'Hindustan (livehindustan.com), 18 Jun 2026',
+    sourceUrl: 'https://www.livehindustan.com/national/story-inauguration-of-postal-suboffice-in-madhuban-enhances-financial-services-in-bihar-201781633458161.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rana-randhir): 1 qualifying entry mili (upar). Baaki reject: news4nation.com — Madhuban CHC achanak nirikshan: sirf nirikshan/daura; EOU shikayat "karenge" waada — reject; bhaskar.com — pensioner samaj dwara abhinandan samaroh: koi kaam nahi, reject; livehindustan.com — ITI college shilanyas board me aniyamitta (Oct 2024): pre-term + sirf nirikshan-shikayat, reject; prabhatkhabar.com — Dakbangla Chowk-Naurangiya sadak shilanyas (19 Sep 2025): pre-term, reject; prabhatkhabar.com — Bolbam kanwariya seva shivir udghatan (30 Aug 2025): pre-term, reject; deshajtimes.com — WhatsApp hack cyber fraud: vyaktigat ghatna (peedit), kaam nahi, reject; livehindustan.com — Madhuban-Doharighat sadak / 39 sadken swikriti: yeh Madhuban, MAU (UP) ki hain, vidhayak Ramvilas Chauhan — galat jagah/vyakti, reject.
+
+biharWorks['pramod-kumar'] = [];
+
+// REJECT-LOG (pramod-kumar): profile KHAALI raha — is karyakaal me koi valid works entry nahi mili. Prabhat Khabar (27 Aug 2025): gramin karya vibhag ki 14 sadkon ka shilanyas (Rs 15 crore) — karyakaal se pehle, reject; LiveHindustan (Sep 2024): Kachhari overbridge ka nirikshan — nirikshan + karyakaal se pehle, reject; TOI (Feb 2026): Question Hour me Rs 4 crore vidhayak-nidhi ke istemal ke adhikar ki maang — sirf maang, reject; sachchasamachar (29 Mar 2026): Champaran Expo 2026 — event me sirf maujoodgi, reject; deshvani (Oct 2026): Piprakothi me Seva Setu shivir ka udghatan — sarkari camp ka event udghatan, koi vikas-kaam nahi, reject; LiveHindustan (15 Nov 2025): jeet par press-varta — bayan, reject; Navbharat Times (Jan 2026): CM Nitish Kumar Samriddhi Yatra me Rs 200 crore ki yojnaon ka udghatan — CM karyakram me sirf maujoodgi, reject; etvbharat (Jul 2022) — purani khabar, reject; YouTube-only entries (Sugauli electric bike showroom udghatan) — YouTube-only, reject. Koi qualifying negative reporting nahi mili.
+
+biharWorks['lal-babu-prasad-gupta'] = [];
+
+// REJECT-LOG (lal-babu-prasad-gupta): profile KHAALI raha — is karyakaal me koi valid works entry nahi mili. Prabhat Khabar (27 Sep 2025): Patahi prakhand me Rs 6 crore ke RCC pul ka udghatan + Rs 10 crore ke do pulon ka shilanyas — karyakaal se pehle, reject; Maithili News Network (~2023): Gangapipar-Shikarganj marg par Rs 3.9 crore ke pul ka udghatan — pre-term, reject; public.app (Aug 2025): Bhakurhiya se Bhandar sadak chaodikaran Rs 19.14 crore ki ghoshna — public.app-only + pre-term, reject; Jagran Chiraia seat profile (Nov 2025 se pehle, election-time) — post-event reporting nahi, reject; ianslive (10 Nov 2025): cash-for-votes video par MCC FIR — karyakaal se pehle ka chunaav mamla, works se sambandhit nahi, reject; YouTube-only entries — YouTube-only, reject. Koi qualifying negative reporting nahi mili.
+
+biharWorks['faisal-rahman'] = [];
+
+// REJECT-LOG (faisal-rahman): profile KHAALI raha — is karyakaal me koi valid works entry nahi mili. Hindustan (Aug 2026): 101 chhatron ko Hindustan Olympiad ke liye sahayta-rashi + medical college kholne ki ichha — niji sahayta/charity, koi vikas-kaam nahi, reject; TOI (Apr 2026) + New Indian Express (May 2026): CM (pehle Nitish Kumar, phir Samrat Choudhary) se mulakat me vikas-prastav — sirf maang/ashwasan, reject; news4nation report-card (~2020 ke karyakaal ka) — pichla karyakaal, reject; LiveHindustan (15 Nov 2025): 178 voton se jeet ki khabar — chunaav, reject; YouTube-only entries (Sadar Hospital Motihari nirikshan; Jamua ghat pichle karyakaal ka) — YouTube-only + sirf nirikshan, reject. Koi qualifying negative reporting nahi mili.
+
+// COORDINATOR QA (Purvi Champaran): 4 workers ke fragments ko AC order 10->21 me canonical schema par merge kiya. Worker C ne stage 'udghatan' likha tha — file me valid stages (shilanyas/lokarpan/ghoshna/swikriti/complete) me nahi hai, isliye 2 entries me 'lokarpan' par normalize kiya (content unchanged). Worker A (bablu-gupta) aur Worker C (sachindra, rana-randhir) ki estimated dates ke description me date-derivation disclosure joda — worker report me basis tha lekin entry text me nahi. Bablu-gupta entry ka sanyukt shilanyas (sansad ke saath) already described hai. Har slug exactly once, marker 1x; 0 Devanagari, 0 rupee-symbol, 0 escaped-\n, 0 scaffolding comments entry objects me. Titles pure Roman-Hinglish vakya, currency "Rs", badges sirf 'news', categories valid (Sadak/Any), stages valid, period '2025-2030' sabhi entries me. 6/12 profiles khaali (imaandari se).
