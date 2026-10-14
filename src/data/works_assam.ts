@@ -1400,3 +1400,114 @@ assamWorks['mayur-borgohain'] = [{
 // REJECT-LOG (mayur-borgohain): Profile me sirf 1 qualifying negative entry mili (upar); baaki sab reject. (1) Sentinel Sep 2026, baadh-kshatigrast 517 dharmik sansthanon ko Rs 1.5 lakh aid ke cheques ka Mayur dwara udghatan — baadh-raahat/welfare vitaran, scheme sarkar ki thi. (2) Sentinel Sep 2026, CMAAA 1.0/2.0 ke tahat Nazira me 721 labharthiyon ko vittiya sahayata vitaran — Mayur sirf chief guest, vyaktigat welfare vitaran. (3) Sentinel 12 Oct 2026, Rangajan Tea Estate me atikraman-hatana drive (MLA ke hastakshep ke baad) — atikraman-hatana vikas-kaam nahi. (4) Sentinel Jul 2026, Assam State Primary Teachers Association conference ki subject-committee meeting ka udghatan — ceremonial. (5) Assam Times 4 Jul 2026, 1944 ke historic Nazira Subsidiary Health Centre merge ke khilaaf appeal — sirf appeal/maang, na upgrade na swikriti. (6) Assam Times Aug 2026, CM ka Nazira baadh-daura — mantri karyakram me maujoodgi + baadh-raahat. (7) Assam Times 25 Jul 2026, Mayur ka daawa ki raahat-karyon me unhe dhamki bhara call aaya — ye unpar aarop nahi, unka swayam ka daawa — na work na negative. (8) India CSR/Sentinel Aug 2026, ONGC ka Rs 20 crore CSR school-restoration MoA (ASDMA ke saath, 650-700 baadh-schools) — kisi article me Mayur ki koi pahal/anurodh/udghatan bhoomika nahi (ONGC rule). (9) Lokmat/India Today NE 17 Sep 2026, Akhil Gogoi ne Mayur ki giraftari ki MAANG ki (hunger strike) — vipakshi neta ki rajnaitik maang, FIR/case nahi — negative rule poora nahi. (10) Assam Rising 28 Aug 2026, wahi FIR story ka duplicate — sourceUrl Northeast Now banaya. (11) Northeast Now Aug 2026, Akhil Gogoi par 8 FIRs (BJP sangathanon ki shikayat) — doosri taraf ka case, Mayur ke khilaaf nahi. (12) Chunav results/nomination rally/poll predictions (May 2026 aur pehle) — pre-term. Mayur Borgohain pehli-baar MLA hain (4 May 2026 ko 46,701 votes se jeete; 2021 me 683 votes se haare the).
 
 // COORDINATOR QA NOTE (Sibsagar district batch): 3 workers ke schema-check pass — field order title/category/badge/sourceLabel/sourceUrl/date/note/period exact (Bajali batch se match); titles pure Roman-Hinglish vakya, 0 Devanagari, 0 ₹ symbol, 0 literal-\n; period '2026-2031' sab me; har slug exactly once (sabhi pehle khaali the); marker 1x; kul titles 27 -> 28 (+1 negative entry). mayur-borgohain negative ka sourceUrl curl se HTTP 200 verify kiya. Susanta Borgohain mantri-niyam (5 Jun 2026 se Cabinet: Water Resources + Judicial Affairs) aur Akhil Gogoi vipaksh-niyam dono workers ne sahi laagu kiye.
+
+// ---- Sonitpur district batch (researched 2026-10-14) ----
+
+assamWorks['ashok-singhal'] = [];
+
+// REJECT-LOG (ashok-singhal): 1. The Sentinel, 21 Aug 2026 — free NEET 'Super 30' coaching centre ghoshna (MLA Seva Kendra press conference, Parmananda Indumati Singhal Foundation ke tehat, "first week of September" se shuru hone ki ummeed; saath hi Bhotpara Stadium par 400 yuvaon ke police/armed-forces training ka dawa) — REJECT: pre-event announcement khabar (post-event reporting nahi mili), pariyojna sarkari nahi (private foundation), sirf ghoshna stage;
+// 2. The Assam Tribune, 30 Sep 2026 — 4 jilon (Sonitpur, Darrang, Biswanath, Udalguri) ke liye free residential NEET coaching entrance test (11 Oct) ki ghoshna, centres me LOKD College Dhekiajuli bhi — REJECT: mantri ke roop me rajya-stariya vibhagiya ghoshna + pre-event announcement, Dhekiajuli ke liye koi concrete kadam nahi;
+// 3. The Sentinel, 3 Feb 2026 — 67 school buildings lokarpan, Dhekiajuli Higher Secondary School sahit (CM ka state programme) — REJECT: purana karyakaal (May 2026 se pehle);
+// 4. India Today NE, 9 Feb 2025 — Garubandha Model Hospital (Sonitpur) lokarpan — REJECT: purana karyakaal;
+// 5. The Purbottar, ~Apr 2025 — Dhekiajuli CHC me dialysis centre lokarpan (PMNDP) — REJECT: purana karyakaal;
+// 6. The Sentinel, ~Sep 2025 — Dhekiajuli co-district SP office Bhotpara lokarpan — REJECT: purana karyakaal;
+// 7. Dailyhunt (publisher The Sentinel), ~Mar 2025 — Suryapur MRF + waste-to-compost plant, 2 model Anganwadi centres, Sapai Bhutiayali me Joseph Toppo memorial park lokarpan — REJECT: purana karyakaal + Dailyhunt-only;
+// 8. The Sentinel, ~Feb 2026 — AASAA dwara Dhekiajuli me land rights par putla-dahan virodh — REJECT: purana karyakaal + sirf virodh-pradarshan (koi kaam nahi), negative rule par FIR/case/adalaati sthiti nahi;
+// 9. The Assam Tribune, ~Feb 2026 — Dhekiajuli ke Bodo gaonon ki upeksha-shikayat reporting — REJECT: purana karyakaal + shikayat-reporting, koi FIR/case/janch sthiti nahi;
+// 10. ETV Bharat, 4-5 May 2026 — Dhekiajuli chunav jeet (1,11,880 vote, 48,169 antar) — REJECT: chunav khabar, kaam nahi;
+// 11. Pratidin Time, Mar 2026 — EC dwara nomination sveekar — REJECT: chunav khabar;
+// 12. Guwahati Times / The Week, Apr 2026 — "Lakhyadhik Jansampark" digital campaign ghoshna — REJECT: chunav-prachar, karyakaal se pehle;
+// 13. NE Now, ~Aug 2026 — Swahid Madan Rowta Civil Hospital Pathsala (Bajali) nayi building lokarpan — REJECT: mantri ke roop me vibhagiya faisla + Dhekiajuli kshetra se bahar;
+// 14. India Today NE / The Shillong Times, 14 Aug 2026 — Bongaigaon Medical College nirikshan + 100 admissions ghoshna — REJECT: mantri ke roop me vibhagiya faisla + Dhekiajuli kshetra se bahar;
+// 15. constructionworld, ~2024 — 48 municipalities me solid waste management (Dhekiajuli list me, >50% kaam) ki ghoshna — REJECT: mantri ke roop me rajya-stariya vibhagiya ghoshna, Dhekiajuli ke liye unki alag concrete bhoomika nahi;
+// 16. newsonair.gov.in, 4 Jan 2026 — Dhemaji (Jonai) me 3 PHC + 3 sub-centre shilanyas — REJECT: purana karyakaal + Dhekiajuli kshetra se bahar + vibhagiya;
+// 17. nationpress, 27 Sep 2026 — Ashok Singhal janm-shatabdi (VHP neta) — REJECT: galat vyakti (VHP neta Ashok Singhal 1926-2015, MLA se alag);
+// 18. webindia123 (ANI), 21 Sep 2024 — CM dwara Dhekiajuli me Convention Centre + shaheed pratima anaavaran, mantri maujood — REJECT: purana karyakaal + CM ka karyakram, sirf maujoodgi.
+
+// QA (2026-10-14): 9+ searches (English: inaugurates/foundation stone/road/water/school/hospital + May-Oct 2026 filters; Hindi: shilanyas/udghatan; Assamese: udbodhon/shilanyas); do sabse ummeedwar sources khud kholkar padhe (Super 30 article published 2026-08-21 — sirf ghoshna; school-lokarpan article published 2026-02-03 — purana karyakaal). May 2026 ke baad Dhekiajuli kshetra ka koi qualifying entry nahi mili; koi qualifying negative bhi nahi. Profile khaali rakhna sahi aur imaandar hai. src/data/works_assam.ts ko chhua nahi, push/deploy nahi kiya.
+
+assamWorks['ritu-baran-sarmah'] = [];
+
+// REJECT-LOG (ritu-baran-sarmah):
+// 1. Sentinel Assam, 25 Mar 2026 — "Barchalla BJP candidate Ritubaran Sharma refutes allegations" (Thelamara press meet);
+//    pre-election campaign piece, only poll promises (roads, agro-industry); REJECT: pre-term + sirf ghoshna, koi sanction/order nahi.
+// 2. The Assam Tribune, 15 Jun 2026 — "Barchala residents seek new MLA's intervention on roads, erosion & agriculture";
+//    poora article padha: residents ki maang hai (roads, Gabharu erosion, JJM, irrigation), MLA ka koi concrete kadam/kaam nahi;
+//    REJECT: sirf maang/appeal, uski taraf se kaam ka koi saboot nahi.
+// 3. NDTV + Times of India, 4-5 Oct 2026 — truck driver attack on MLA's office (dagger attack, driver arrested);
+//    established media, lekin neta ki koi misconduct ka aarop hi nahi — wo peedit paksh hai; koi FIR/case/janch unke khilaf nahi;
+//    REJECT: works bhi nahi, negative-entry criteria (FIR/case/adalaat unke khilaf) bhi poora nahi.
+// 4. India Today NE, 24 Feb 2026 — unpaved-road protest by "Barchala MLA"; galat vyakti (that was Ganesh Kumar Limbu, pre-term);
+//    REJECT: namesake/previous-MLA + pre-May-2026.
+// 5. TOI/indianexpress/indiatvnews/oneindia/businesstoday, 4-5 May 2026 — sirf election result coverage; REJECT: works nahi.
+// 6. India.com (Hindi), May 2026 — election result, NOT works; Zee News Jaipur (Ramlal Sharma) — galat vyakti; Business Standard 2024 (CM Sonitpur Vikas Yatra),
+//    The Week Sep 2025 (CM's community kitchen, Durrung TE), Sentinel school article (CM event), Lokmat Times, Moneycontrol —
+//    sab me Ritu Baran Sarmah ka koi concrete role nahi; REJECT: shrey nahi / pre-term / state-level without MLA role.
+// 7. Multiple English+Hindi query rounds (foundation stone / inauguration / MLALAD / bhumipujan / school / hospital / scheme,
+//    Northeast Now / Pratidin Time / Time8 / ETV Bharat / News18 Assam angles) — May-Oct 2026 me unke kshetra-kaam par koi
+//    established-media post-event reporting nahi mili.
+
+// QA: 2026-10-14 — profile honestly EMPTY (khaali profile imaandari hai). Sabhi reject candidates poore page kholkar padhe gaye;
+// search-snippet se koi entry nahi banayi gayi. Namesake checks pass (birth 1969/Tezpur affidavit line).
+
+assamWorks['prithiraj-rava'] = [];
+
+// REJECT-LOG (prithiraj-rava): profile KHAALI rahi.
+// 1. The Sentinel Assam, 8 June 2026, "Tezpur GI-tagged litchis enter global market with Dubai export" — worker ne entry banayi thi, COORDINATOR QA ne hatayi: Tezpur Litchi Festival ke doosre din MLA + Sonitpur DC ne ek tonne Dubai-bound khaep ka joint flag-off kiya; lekin ye ek-baar ki export-khaep ka festival-day ceremonial flag-off hai (pahal APEDA ne facilitate ki thi, DC ke saath joint ceremony), koi sthayi sarkari suvidha/asset ka lokarpan nahi, aur MLA ka koi dastavezi concrete kadam nahi. Precedents: Hailakandi Milon Das ka joint-DC ribbon-cutting REJECT; Patowary ka Tihu College hostel udghatan REJECT (ceremonial, koi documented bhoomika nahi). Kept analogues (Jan Aushadhi Kendra lokarpan Majuli, Aadhaar Kendra lokarpan Barpeta) sthayi sarkari suvidha ke vyaktigat lokarpan the — ye us line ke ceremonial taraf hai, isliye reject.
+// 2. ETV Bharat Assam interview, Apr 2026 — chunav-purve ghoshna/vaade (186 km road ka daava purane karyakaal ka), koi naya kaam nahi.
+// 3. PIB press release, 13 Mar 2026 — PMFME Food Processing Incubation Centre Tezpur University, MLA maujood the lekin May 2026 se pehle, term se bahar.
+// 4. The Sentinel Assam, Nagaon Lok Sabha bypoll rally, Oct 2026 — CM ke prachar karyakram me MLA ki maujoodgi, Tezpur ka kshetra-kaam nahi.
+// 5. newsonair.gov.in, Khel Maharan phase 2 Tezpur — khel-utsav ka udghatan, buniyadi-vikas kaam nahi (2024/25 ki tasveer, sambhavatah purana).
+// 6. ETV Bharat Assam, Feb 2024 — CM birthday celebration, pre-term + kaam nahi.
+// 7. ETV Bharat Assam, Apr 2026 voting-day report — vote dalne ki khabar, kaam nahi.
+// 8. The Hills Times, Sep 2024 — Bhupen Hazarika birth anniversary program, pre-term + kaam nahi.
+// 9. Lokmat Times/Times Now, Jul 2026 flood salary donation — sabhi MLAs ne ek mahine ki tankhwah di, vyaktigat/sarkari-nidhi ka kaam nahi, Tezpur-specific documented bhoomika nahi.
+// 10. Assam Tribune/Pratidin Time/Time8/News18 Assam/Northeast Now — 10+ targeted searches me May 2026 ke baad Tezpur MLA ke kisi road/school/hospital/MLALAD kaam ki koi established reporting nahi mili.
+// NEGATIVE-LOG (prithiraj-rava): May 2026 ke baad unke khilaf koi FIR/case/janch ki established reporting nahi mili — negative entry bhi nahi.
+
+// QA (coordinator): 0 entries, 10 rejects (+1 QA-removal litchi flag-off, upar #1 me darj). Titles/notes Roman Hinglish, koi Devanagari/₹/\\n nahi. Pehchan verified. Sabha ~5.5 mahine purani — patli profile swabhavik.
+
+assamWorks['krishna-kamal-tanti'] = [];
+
+// REJECT-LOG (krishna-kamal-tanti):
+// 1. The Sentinel, 2 Feb 2026 — PM Shri Rangapara Higher Secondary School building ka lokarpan Tanti ne kiya, Khanamukh Higher Secondary School (RIDF-XXXI) foundation-laying me maujood — May 2026 se pehle, purana karyakaal (2021-2026); reject.
+// 2. News Nation TV (ANI), 13 Aug 2025 — Rangapara Co-District Commissioner office ka lokarpan mantri Pijush Hazarika ne kiya, Tanti sirf maujood the; pre-term + sirf maujoodgi; reject.
+// 3. NE India Broadcast, 27 Jan 2022 — Rangapara railway overbridge (804.7m, Rs 90.27 crore, PWD Roads) ka lokarpan CM ne kiya; article me Tanti ki koi concrete bhoomika nahi, CM-sarkar ka kaam; reject.
+// 4. Daily Prabhat (ANI), June 2023 — Sonitpur me 6 tea garden model schools ka lokarpan CM ne kiya, Tanti maujood; pre-term + CM-karyakram me sirf maujoodgi; reject.
+// 5. Asianet Newsable (ANI), Oct 2026 — Sonitpur college me CM ke interaction programme me MLAs Padma Hazarika, Pallab Lochan Das aur Krishna Kamal Tanti maujood the; sirf maujoodgi, koi concrete bhoomika nahi; reject.
+// 6. The Sentinel, ~Jul 2026 — CM ne pehli Assamese woman Everester Rupamoni Gorh ka sammaan kiya; Tanti (Political Secretary to CM) sirf maujood; kshetra-kaam nahi; reject.
+// 7. The Sentinel, Dec 2025 — Ni-kshay Mitra ke tahat TB patients ko nutritional food baskets vitaran, Tanti maujood; welfare-yojna vitaran + pre-term; reject.
+// 8. The Sentinel, ~Aug 2025 — Mantri Rupesh Gowala ki tea-tribe welfare review meeting (Eti Koli Duti Pat, MGNREGA job cards, JJM review) me Tanti maujood; review meeting + pre-term; reject.
+// 9. The Sentinel, Jun 2025 — Mantri Pijush Hazarika ke Balipara anti-erosion/embankment works nirikshan me Tanti saath the; sirf nirikshan + pre-term; reject.
+// 10. The Sentinel, Dec 2025 — PMAY-G sanction letters ka ceremonial vitaran, Tanti maujood; yojna-vitaran khabar + pre-term; reject.
+// 11. Times of India, ~Sep 2026 — Tezpur ke paas sadak haadse me 5 yuvaon ki maut; Tanti ne shok-santapt parivaron se mulaqat ki; samvedana-mulaqat, kaam nahi; reject.
+// 12. ETV Bharat/Indian Express/TOI/ABP Live/Oneindia, May 2026 — chunav parinaam coverage (81,022 votes, 43,315 margin); kshetra-kaam nahi; reject.
+
+// QA: 8 targeted searches (English + Hindi; Sentinel site-specific sahit) me 13 sources khole/parikshan kiye. Sabhi May 2026 ke baad ke items sirf maujoodgi/samvedana/chunav hain; har ummidwar works ya to purane karyakaal ka hai ya usme Tanti ki concrete bhoomika nahi. Profile imaandari se KHAALI.
+
+assamWorks['padma-hazarika'] = [
+  {
+    title: 'Construction of RCC bridge connecting Shivpuri in Tengabasti with Hajong Gaon under Naduar constituency inaugurated, to be built at Rs 2.32 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sentinel, 11 Oct 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/assam-construction-of-rcc-bridge-in-tengabasti-inaugurated-by-mla-padma-hazarika',
+    date: '2026-10-10',
+    note: 'Naduar MLA formally inaugurated the construction work of the bridge on 10 Oct 2026. The bridge is funded under the Assam Government Assam Rural Road Bridge Programme (ARRBP) with World Bank funding, so this is a state scheme project, not MLA fund; the MLA inaugurated the start of construction. He stated that 22 RCC bridges have been sanctioned for Naduar constituency and construction of 12 is already underway.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Foundation stone laid for Rs 8 crore modern building at century-old Jamuguri Higher Secondary School',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Sentinel, 17 Sep 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/naduar-mla-padma-hazarika-lays-foundation-for-rs-8-crore-modern-building-at-century-old-jamuguri-higher-secondary-school',
+    date: '2026-09-16',
+    note: 'Naduar MLA laid the foundation stone on 16 Sep 2026 in the presence of dignitaries, with a public meeting organised on the school premises. The building will come up on the campus of the institution which has completed more than a century of its educational journey. The report does not name the funding scheme, so the fund source is undisclosed.',
+    period: '2026-2031',
+  },
+];
+// REJECT-LOG (padma-hazarika): 1. The Sentinel, 1 Dec 2025 (two school buildings, Gyan Bikash Academy Sootea + Balidonga Adarsha HSS) — pre-term, previous tenure; 2. The Sentinel, 19 Nov 2025 (kitchen house at Borbhagiya Majalia School) — pre-term; 3. The Sentinel, ~Mar 2026 (Rs 3 lakh Assam Darpan grant for Annanukhuwa Aata Than renovation) — pre-term; 4. The Sentinel, ~Mar 2026 (indoor stadium at Tyagbir Hem Baruah College) — pre-term, foundation laid by CM on 1 Apr 2025, CM-provided Rs 1.7 crore project; 5. The Sentinel, ~Feb 2026 (67 school buildings statewide, Panpur HSS building in Naduar) — pre-term state programme; 6. The Sentinel, Oct 2025 (mechanized boat donation to Sikam residents) — pre-term + personal welfare distribution; 7. The Sentinel, Jan 2026 (BJP wall painting drive inauguration at Jamugurihat) — party campaign, not development work; 8. The Sentinel/News Network TV, 8 Oct 2026 (CM inaugurated dairy plant, tile unit, Bhoomi Pujan of Limca factory at Jamugurihat) — CM projects, MLA only present, no documented concrete role; 9. Assam Tribune/Daily Prabhat, 2 Apr 2025 (co-district commissioner office foundation, Assam Mala road announcement) — pre-term CM announcements; 10. The Sentinel (traditional rituals to pacify rising Jiyabharali river) — ritual, not a development work.
+// QA: 2 entries, 10 rejects; verify dates 2026-10-10 and 2026-09-16 against published stamps (2026-10-11, 2026-09-17), URLs live, titles/notes Roman Hinglish, no Devanagari, no ₹ symbol.
+
+// COORDINATOR QA NOTE (Sonitpur district batch): 5 workers parallel; coordinator ne padma-hazarika ki 2 entries ke dono sources (The Sentinel) khud kholkar verify kiye — tathya, date, fund-srot aur credit-transparency sab match. prithiraj-rava ki litchi flag-off entry coordinator QA me REJECT kar di (ceremonial flag-off, APEDA pahal, DC joint ceremony — Milon Das/Patowary precedents); removal reject-log #1 me darj. ashok-singhal par mantri-niyam sakht laagu (18 rejects, VHP namesake trap bhi pakda). Slug order AC 65→66→67→68→69; har slug exactly once (append se pehle 0 matches the); marker 1x; kul titles 28 -> 30 (+2 padma-hazarika). Schema field-order title/category/badge/sourceLabel/sourceUrl/date/note/period exact (Bajali batch se match); 0 Devanagari, 0 ₹, 0 literal-\n entry objects me; period '2026-2031' sab me.
