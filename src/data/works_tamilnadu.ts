@@ -1158,3 +1158,124 @@ tamilNaduWorks['sampathkumar-v'] = [];
 // 7. The Hindu 2021 "Harur: Resentment" piece — purana, karyakaal-se-pehle. REJECT.
 
 // COORDINATOR QA NOTE (Dharmapuri district, 2026-10-15): 5/5 slugs append se pehle file me 0 matches (koi overwrite nahi); marker exactly 1x; sabhi assignments AC order me; sabhi profiles honestly EMPTY — sabha ~5.5 mahine purani hai, English press me seat-level works reporting zero. Hygiene: 0 Tamil/Devanagari script, 0 ₹, entry objects me 0 comments; reject-logs Roman Hinglish. Koi push/deploy nahi hua.
+
+// ---- Dindigul district batch (researched 2026-10-15) ----
+
+tamilNaduWorks['ravimanoharan-k'] = [];
+
+// Palani AC — 'ravimanoharan-k' (K. Ravimanoharan, AIADMK), research 15 Oct 2026
+// Karyakaal: 17vi Tamil Nadu Sabha, chunav Apr 2026, parinaam 4 May 2026, shapath 11 May 2026.
+// Jeet 693 votes se (AIADMK gain from DMK). Vipakshi MLA (TVK sarkaar, CM C. Joseph Vijay).
+// REJECT-LOG (ravimanoharan-k, AIADMK, Palani AC — scope: May 2026+)
+// 1. The Hindu, 8 Jun 2026 — "HR and CE Minister inspects works at Palani temple": mantri S. Ramesh ne decorative entrance gate (Rs 53.79 lakh) aur Nandavanam (Rs 51.55 lakh) ka lokarpan kiya; khabar me "Palani MLA K. Ravimanoharan ... were present" — REJECT: sirf maujoodgi; mantri ka karyakram; MLA ki koi dastavezi pahal/bhoomika nahi.
+// 2. The Hindu, 25 Jun 2026 — "Minister inspects river, tanks in Palani": mantri K. Vignesh ne Shanmuganadhi river, Vaiyapuri aur Idumban tanks ka nirikshan kiya "in the presence of ... Palani MLA K. Ravi Manoharan" — REJECT: sirf maujoodgi; pahal mantri + Dindigul Collector ki; khabar me kaam "will commence soon" — ghoshna/report, na swikriti na lokarpan.
+// 3. DT Next, 25 Jul 2026 — AIADMK protest on Palani temple land fraud (CB-CID eyewash, CBI probe demand), led by Dindigul Srinivasan; "Palani MLA Ravi Manoharan [was] present" — REJECT: party protest, vikas-kaam nahi; sirf maujoodgi.
+// 4. The Hindu, 6 Mar 2026 — "Additional building of Palani GH inaugurated": mantri R. Sakkarapani ne 137-bed wala Rs 70 crore ka additional building + Palani-Dharapuram flyover (Rs 69.10 crore) ka shilanyas kiya; maujood "Palani MLA I.P. Senthilkumar" — REJECT: pre-term (chunav se pehle); predecessor (DMK) ke karyakal ka kaam.
+// 5. TOI/The Hindu, May 2025 — Vellagavi (Kodaikanal) road foundation (Rs 21.74 crore, NABARD) by "Palani MLA I.P. Senthilkumar" — REJECT: pre-term + galat vyakti (purv MLA, DMK).
+// 6. The Hindu candidate profile (chunav 2026) — affidavit me 3 pending criminal cases (1 serious IPC) — REJECT as negative: aggregate affidavit count; established reporting me koi nayi FIR/janch/adalati prakriya-sthiti nahi; niyam: nayi prakriya-sthiti chahiye.
+// 7. New Indian Express, 10 Oct 2026 — PM Modi ne Chennai visit me 5 Amrit stations ka lokarpan kiya (Palani sahit) — REJECT: PM/railway ka karyakram; MLA ki bhoomika dastavezi nahi; kshetra-kaam unki pahal par nahi.
+// 8. YouTube/Tamil press — assembly me Palani me sharab ki dukano par MLA ka bayan — REJECT: vikas-kaam nahi; established English source nahi.
+// 9. "Ravimanoharan case FIR" search results — Coimbatore rape-murder case ka doshi "Manoharan" — REJECT as negative: GALAT VYAKTI (2010 ka purana aparadhi, Palani ke MLA se koi sambandh nahi).
+// 10. SEAT-WORK NATIJA: May-Oct 2026 me established English press me unki vyaktigat seat-level pahal wali koi qualifying entry NAHI mili. Sabha sirf ~5 mahine purani, ve vipaksh ke MLA hain — khaali profile imaandari hai.
+
+tamilNaduWorks['sakkarapani-r'] = [];
+
+// REJECT-LOG (sakkarapani-r, DMK, Oddanchatram AC — scope: May 2026+)
+// 1. The Hindu "CM inaugurates infrastructure projects at Oddanchatram" (Rs 41.12 cr: Gandhi Market commercial complex, Kulanthai Velappar temple girivalam path Rs 18.64 cr, Keeranur panchayat office Rs 1.23 cr) — ~May 2025, mantri-kaal; Sakkarapani Food & Civil Supplies Minister ke roop me sirf maujood the — pre-term + minister portfolio, REJECT.
+// 2. The Hindu "Health and Wellness centres inaugurated in Dindigul" (PHC Markampatti Rs 1.20 cr, Oddanchatram AC) — 3 Jul 2025; CM ne video conference se lokarpan kiya, mantri ke roop me Sakkarapani maujood — pre-term, REJECT.
+// 3. The Hindu "CM lays foundation stone for housing units in Dindigul" (Oddanchatram me 480 units Rs 66.23 cr; Keeranur 432 units Rs 57.04 cr) — 29 Jan 2025; CM ka shilanyas, mantri ke roop me Sakkarapani maujood — pre-term + state-level faisla, REJECT.
+// 4. The Hindu "First phase of Cauvery drinking water scheme inaugurated" (Rs 1368.05 cr, Oddanchatram municipality + 1422 settlements) — 13 Feb 2026 (election se pehle); Sakkarapani mantri ke roop me maujood — pre-term + minister portfolio, REJECT.
+// 5. The Hindu "Chief Minister Stalin announces new projects for Dindigul district" (Oddanchatram me sewage channel Rs 17 cr, Markampatti me moringa processing industry Rs 7 cr) — 7 Jan 2026; CM ki ghoshna-sabha, mantri panel me maujoodgi — pre-term + rajya-faisla, REJECT.
+// 6. The Hindu "Bring laurels to parents and teachers, students told" (Govt Arts & Science College Oddanchatram building Rs 15 cr) — 13 Sep 2022; mantri-kaal ka college event + "soon" wale vaade — pre-term + ghoshna ("karenge"), REJECT.
+// 7. The Hindu "Sub-Court inaugurated at Oddanchatram" — 2021; CM/high court ka karyakram, mantri ke roop me maujood — pre-term, REJECT.
+// 8. The Hindu "Public flock Ungaludan Stalin camps for grievance redress" — 15 Jul 2025; minister ne grievance camp launch kiya — pre-term + koi nirmaan/lokarpan nahi, REJECT.
+// 9. DT Next "Speaker election to trigger fresh furore; DMK might field Sakkarapani" — 11 May 2026, post-term lekin Speaker chunav ki rajneeti; kshetra-kaam nahi, REJECT.
+// 10. DT Next "R Sakkarapani refutes corruption in paddy transport, says Rs 1084 cr cost cut" — 1 Nov 2025; mantri-portfolio ka defence statement — pre-term + state-level, REJECT.
+// 11. DT Next "Pongal 2026: Gift hamper plan, samba procurement reviewed" — 23 Dec 2025; mantri-portfolio kaam — pre-term, REJECT.
+// 12. DT Next "TN Minister Sakkarapani cites 6,453 MT Ragi procurement" — 8 Nov 2025; mantri-portfolio — pre-term, REJECT.
+// 13. Election coverage (ETV Bharat, Indian Express live blog, BusinessToday, TOI constituency page, Oneindia) — chunav coverage, works nahi; "sirf chunav-yachika negative nahi" rule ke mutabik, REJECT.
+// 14. Negative check: post-May-2026 established reporting me R. Sakkarapani ke apne naam par koi FIR/case/adalaati ya adhikarik janch nahi mili (chunav halafnama me bhi criminal cases = 0). Anbil Mahesh Poyyamozhi (CCB FIR, Sep 2026) aur E.V. Velu (DVAC FIR, Sep 2026) wali khabren — galat-vyakti, REJECT.
+// 15. Post-May-2026 established English press me Oddanchatram AC me unke nirikshan/daura, lokarpan, shilanyas, ya MLACDS ghoshna — 9 searches + DT Next topic page check me KUCH nahi mila (wo ab vipakshi bench par hain; naya karyakaal abhi ~5 mahine purana hai).
+// Profile: KHALI (0 entries).
+// Sources searched: The Hindu, DT Next (topic page khud khola), Indian Express, Times of India, The News Minute, South First, Deccan Herald, NDTV — in sab par post-May-2026 works reporting zero.
+
+tamilNaduWorks['i-periasamy'] = [];
+
+// REJECT-LOG (i-periasamy, DMK, Athoor AC — scope: May 2026+)
+// 1. The Hindu, "Water from Vaigai to meet drinking water needs of Athoor, says I. Periyasamy" (1 Apr 2026) — REJECT: pre-term (chunav prachar ke samay ki mantri-era ki ghoshna "karenge"; vyaktigat seat-kaam ka post-event saboot nahi).
+// 2. The Hindu, "Chief Minister Stalin announces new projects for Dindigul district" (7 Jan 2026) — REJECT: pre-term, mantri-era; ve sirf Rural Development Minister ke roop me maujood the; CM-led event me sirf maujoodgi.
+// 3. The Hindu, "Minister lays foundation stone for overhead tanks (Cauvery Combined Drinking Water Scheme), Reddiarchatram" (29 Apr 2023) — REJECT: pre-term mantri-era (2021-26 sarkaar kaam).
+// 4. The Hindu, "Stone laid for panchayat union office building, Sempatti" (3 Aug 2022) — REJECT: pre-term mantri-era.
+// 5. The Hindu, "Implementation of drinking water, road projects given priority at gram sabha, Aalamarathupatti" (Apr 2025) — REJECT: pre-term mantri-era.
+// 6. The Hindu, "Deputy CM inaugurates Emergency and Trauma Care Centre at Vedasandur GH" (9 Oct 2025) — REJECT: pre-term; mantri ke roop me sirf maujoodgi.
+// 7. The Hindu, "Health Minister inaugurates healthcare facilities in Dindigul" (29 Jun 2025) — REJECT: pre-term; sirf maujoodgi.
+// 8. The Hindu, "Athoor constituency needs state-of-the-art textile park" (chunav preview, ~Apr 2026) — REJECT: pre-term constituency profile; unke vyaktigat kaam ki koi qualifying entry nahi.
+// 9. Chunav coverage (ETV Bharat 4 May 2026, TOI, The News Minute "15 of 32 DMK ministers lose") — REJECT: sirf parinaam reporting (Athoor me 22,368 vote se jeet), kshetra-kaam nahi.
+// 10. ED/PMLA money-laundering probe reporting (New Indian Express Dec 2025, DT Next 5 Jan 2026, LiveLaw Jan 2026) — REJECT as negative: pre-term; 2006-2011 mantri-kaal ke DA mamle se judi purani ED karyavahi; post-May 2026 koi nayi FIR/janch nahi.
+// 11. Madras High Court order, Crl.O.P.10758 of 2026 (28 Apr 2026) — REJECT as negative: pre-term; unki KHUD ki ECIR quash karne ki yaachika par prakriya-aadesh (ye unke khilaf nayi FIR/case nahi).
+// 12. "Madras High Court refuses discharge in DA case" reporting (Sep 2026) — REJECT as negative: GALAT VYAKTI (yeh MRK Panneerselvam ka Cuddalore court wala case tha, Dindigul ka Periasamy case nahi); aur non-allowed source.
+// 13. NDTV topic-page purani khabrein (discharge reversal Apr 2025, vigilance raids 2011) — REJECT as negative: purane mamle; post-May 2026 koi nayi prakriya-sthiti nahi.
+// 14. The Hindu, "Pledge against child marriage administered at gram sabha meetings" (2 Oct 2026) — REJECT: post-term khabar lekin unki koi bhoomika nahi (Collector Durgamoorthi ne adhyakshata ki); kshetra-bahar bhoomika.
+// 15. SEAT-WORK NATIJA: May-Oct 2026 me Athoor seat par unki vyaktigat bhoomika wali koi qualifying entry English established press (The Hindu, IE, TOI, DT Next, TNM, South First, Deccan Herald, NDTV) me NAHI mili. Context: DMK ab vipaksh me hai (sarkaar 10 May 2026 ko TVK ke haath gayi), isliye mantri-era jaise udghataan/sarkari program unse sambhav nahi; mantri-kaal ke saare kaam pre-term hain. Profile imaandari se KHAALI hai.
+
+tamilNaduWorks['r-ayyanar'] = [];
+
+// REJECT-LOG (r-ayyanar, TVK, Nilakkottai AC — scope: May 2026+)
+// 1. Election victory reporting (Indian Express, Times of India, NDTV, ABP Live, Business Today, 4 May 2026) — REJECT: sirf chunav jeet ki khabar; kshetra-kaam nahi.
+// 2. Oath-taking / assumed office 11 May 2026 (Wikipedia) — REJECT: sirf ceremonial shapath-grahan.
+// 3. The Hindu candidate affidavit / profile pages (pre-poll, 2026) — REJECT: karyakaal-se-pehle ka profile; koi kaam nahi.
+// 4. The Hindu "Tamil Nadu election 2026: Farmers in Nilakottai constituency want government perfume factory" (10 Apr 2026) — REJECT: karyakaal-se-pehle ki maang-based reporting; Ayyanar ka naam tak nahi.
+// 5. The Hindu "Minister reviews development projects in Dindigul district" (8 Jun 2026, khud khola) — REJECT: mantri ki jila-stariya samiksha baithak; Nilakkottai MLA R. Ayyanar sirf "were present" suchi me — sirf maujoodgi, dastavezi bhoomika nahi.
+// 6. The Hindu "'Thaimaaman Thanga Mothiram Thittam' launched in Dindigul, Theni" (28 Sep 2026, khud khola) — REJECT: mantri K. Vignesh ne launch kiya; jila-stariya rajya yojana; MLA sirf maujood suchi me — sirf maujoodgi.
+// 7. The Hindu "Vetri Payanam scheme launched in Dindigul, Theni" (2 Oct 2026, khud khola) — REJECT: CM ki rajya-vyapi yojana Collector ne launch ki; Ayyanar sirf "in the presence of" — sirf maujoodgi.
+// 8. YouTube short "Argument at TVK 100-day public meeting, Malliyampatti, Nilakottai taluk" — REJECT: YouTube-only srot; dal ke karyakram me bahas ki khabar, kshetra-kaam nahi; koi established reporting nahi.
+// 9. The Hindu "R. Ayanar, NETTAPAKKAM (SC), Puducherry" candidate page — REJECT: galat vyakti (Puducherry ke IND ummidvar, advocate, age 42) — spelling variant "Ayanar" ka dhokha, Nilakkottai ke R. Ayyanar nahi.
+// 10. State-level MLACDS Rs 828.36 crore allocation (The Hindu, 12 Aug 2026) aur drought drinking-water Rs 288.97 crore allocation (DT Next, 7 Aug 2026) — REJECT: rajya-vyapi samanya package; Nilakkottai-specific dastavezi bhoomika ya swikriti nahi.
+// 11. Negative check: Oneindia "Tamil Nadu MLAs With Criminal Cases" me R. Ayyanar (Nilakkottai, TVK) — 0 cases; NDTV ADR profile me "Cases: No" — koi FIR/case/adalaati karyavahi ki established reporting nahi; negative nahi banta, clean record.
+
+tamilNaduWorks['natham-viswanathan-r'] = [];
+
+// REJECT-LOG (natham-viswanathan-r, AIADMK, Natham AC — scope: May 2026+)
+// 1. Mantri-kaal ke kaam (2011-16 Bijli mantri, 2001-06 Transport mantri) — pre-term, scope se bahar.
+// 2. PM Modi Madurai projects (Rs 4,400 cr, 1 Mar 2026) — pre-election + CM event, MLA ki maujoodgi/kaam nahi.
+// 3. ABP "fall while inspecting work of General Council meet" — party venue, kshetra-kaam nahi.
+// 4. Trust-vote May 13, 2026 (TVK sarkaar samarthan), posts se hatna/vapsi, Oct 2026 dissident meetings — rajneeti, works nahi; koi FIR/janch nahi.
+// 5. Halafnama "2 criminal cases, 0 serious" (The Hindu profile) — purana declaration, established post-May reporting me koi case/FIR unke naam par nahi.
+// 6. Pre-poll items (mango processing unit demand, Natham Arts College building — CM Jan 2026) — pre-term / rajya-sarkaar faisle.
+// 7. Post-May-2026 established press me Natham AC me unke nirikshan/daura, lokarpan, shilanyas, MLACDS ghoshna — kuch nahi mila.
+// Profile: KHALI (0 entries).
+// Sources searched: The Hindu, Indian Express, Times of India, DT Next (no TNM/SouthFirst/DH/NDTV hits on this MLA).
+
+tamilNaduWorks['senthilkumar-i-p'] = [];
+
+// REJECT-LOG (senthilkumar-i-p, DMK, Dindigul AC — scope: May 2026+)
+// 1. businessminutes.in (15 Jun 2026) — "Dindigul MLA Office Inaugurated": non-established source (The Hindu/Indian Express/ToI/DT Next/TNM/South First/DH/NDTV ki list me nahi); MLACDS se Anganwadi (Palakrishnapuram) aur part-time ration shop ki sirf "approval" bina sanction order/work-order ke = ghoshna tak nahi — REJECT.
+// 2. The Hindu (7 Jan 2026) — CM Stalin ke Rs 1,595 crore Dindigul projects event me sirf maujoodgi; period se pehle (Jan 2026), tab ye Palani ke MLA the — REJECT.
+// 3. The Hindu (11 Nov 2025) — SIR ke khilaf DMK virodh-pradarshan Dindigul/Theni: protest hai, kshetra-kaam nahi; period se pehle; tab Palani ke MLA the — REJECT.
+// 4. The Hindu (9 Oct 2025) — Deputy CM ka Vedasandur GH Emergency/Trauma Centre inauguration: Palani MLA ke roop me sirf maujoodgi; period se pehle — REJECT.
+// 5. The Hindu (Jun 2025) — Health Minister ne Dindigul jile me Rs 21.64 crore health facilities inaugurate kiye: CM/mantri event, Senthilkumar sirf maujood (tab Palani MLA); period se pehle — REJECT.
+// 6. The Hindu (2022) — Estimates Committee ka Dindigul inspection: committee ka kaam; maujoodgi matra; purana karyakaal — REJECT.
+// 7. The Week / DT Next (16 Aug 2025) — ED raids I. Periyasamy + parivar ke thikanon par (Senthilkumar ke Seelapadi ghar par bhi search): period se pehle; mamla pita ke disproportionate-assets/money-laundering probe se juda — established reporting me Senthilkumar ke APNE naam par koi alag FIR/case nahi; negative-entry niyam par khara nahi — REJECT (negative nahi banata).
+// 8. The Hindu election affidavit profile — "2 pending criminal cases, 0 serious": sirf halafnama declaration, koi FIR/case reporting nahi; chunav-yachika/declaration negative NAHI banti — REJECT.
+// 9. Campaign pieces (The Hindu "intense battle", edexlive, webindia123, newsable, illustrateddailynews, scoopfeeds, lokmattimes, newkerala — sab Mar/Apr 2026): chunav-prachar ke bayan, post-result kshetra-kaam nahi — REJECT.
+// 10. The Hindu (25 Aug 2026) — Post Office Passport Seva Kendra Dindigul: Dindigul MP R. Sachithanantham ki koshish/mamla, MLA ka kaam nahi — REJECT.
+// 11. ANI via dailyprabhat.com / latestly.com (24 Sep 2024) — Kodaikanal Kilvara land-fissure site inspection: nirikshan-matray, kaam nahi; purana karyakaal, tab Palani MLA the — REJECT.
+// 12. Oneindia/elections profile pages, businesstoday/livechennai result pages (2026): sirf jeet/statistics, koi kshetra-kaam nahi — REJECT.
+
+tamilNaduWorks['saminathan-t'] = [];
+
+// REJECT-LOG (saminathan-t, DMK, Vedasandur AC — scope: May 2026+)
+// 1. The Hindu, 9 Oct 2025 — Deputy CM Udhayanidhi Stalin ne Vedasandur me 39 projects (Rs 28.14 crore) ka udghatan kiya, jisme Emergency and Trauma Care Centre at Vedasandur GH tha — REJECT: karyakaal-se-pehle (Oct 2025) + GALAT VYAKTI (us samay ke Vedasandur MLA S. Gandhirajan maujood the, T. Saminathan ka karyakaal May 2026 se) + sirf mantri-kaam me maujoodgi.
+// 2. The Hindu, 7 Jan 2026 — CM Stalin ne Dindigul jile ke liye 111 projects (Rs 337.84 crore) ka udghatan + 212 projects ka shilanyas kiya; S. Gandhirajan maujood — REJECT: pre-term + galat vyakti + sirf maujoodgi.
+// 3. The Hindu, 23 Apr 2026 — "Farmers want tomato, moringa processing units in Vedasandur constituency" chunav profile; kaha projects sirf kagaz par rahe — REJECT: pre-term campaign feature; kisaanon ki maangein (voters ki demand), MLA ka koi seat-kaam nahi.
+// 4. The Hindu, 4 May 2026 — "Vedasandur, a bellwether Assembly segment since 1957, bucks the trend" (T. Saminathan 10,063 votes se jeete, TVK teesri) — REJECT: chunav-parinaam reporting, kaam nahi.
+// 5. Times of India live blog, 4-6 May 2026 (T. Saminathan 84,948 votes se jeet) + ABP Live + NDTV candidate page + Indian Express constituency page — REJECT: chunav coverage/result data, post-May-2026 kaam nahi.
+// 6. The Hindu, 9 Oct 2026 — "Dindigul farmers a apprehensive lot as storage levels in dams dips" (Kodaganar dam near Vedasandur ka paani-sukha mudda) — REJECT: T. Saminathan ka naam tak nahi; MLA ki koi dastavezi bhoomika nahi.
+// 7. The Hindu, 8 Jun 2026 — "Minister reviews development projects in Dindigul district" (Minister K. Vignesh ki review meeting) — REJECT: T. Saminathan upasthiton me NAHI (Nilakottai MLA R. Ayyanar aur MPs maujood the); review meeting vaise bhi sirf maujoodgi hoti.
+// 8. DT Next, 6 May 2025 + The Hindu (Mar 2026, premium) — "Madras High Court quashes election bribery case booked against Vedasandur DMK MLA" — REJECT as negative: GALAT VYAKTI (2021-2026 ke MLA S. Gandhirajan; 2021 chunav ka Section 171E IPC case) + pre-term; T. Saminathan se sambandh nahi.
+// 9. Indian Express/NDTV candidate pages — "Cases: Yes (1)" affidavit aggregate — REJECT as negative: pre-term affidavit ka ek case; post-May-2026 koi nayi FIR/charge-framing/adalaati sthiti established English reporting me NAHI mili.
+// 10. SEAT-WORK NATIJA: May-Oct 2026 me The Hindu, Indian Express, Times of India, DT Next, The News Minute, South First, Deccan Herald, NDTV me Vedasandur seat par T. Saminathan ki vyaktigat seat-level bhoomika wali koi qualifying entry (poora/lokarpan/swikriti/shilanyas/ghoshna) NAHI mili. Sabha sirf ~5 mahine purani hai — khaali profile imaandar hai.
+//
+// QA (research 15 Oct 2026): 0 entries (profile khaali), 0 negative — established English press me T. Saminathan (DMK, Vedasandur) ka May 2026 ke baad koi satyapit seat-level kaam nahi mila. Purane karyakaal ka confusion-trap (S. Gandhirajan, 2021-2026 MLA) sab reject kiye gaye. Titles/notes ki zaroorat nahi padi (koi entry nahi). works_tamilnadu.ts me append/push/deploy NAHI kiya.
+
+// COORDINATOR QA NOTE (Dindigul district, 2026-10-15): 7/7 slugs append se pehle file me 0 matches (koi overwrite nahi); marker exactly 1x; assignments AC order me (Palani, Oddanchatram, Athoor, Nilakkottai, Natham, Dindigul, Vedasandur); 7/7 profiles imaandari se EMPTY — sabha ~5.5 mahine purani, DMK/AIADMK ab vipaksh me, established English press me koi qualifying seat-level works reporting nahi mili. Pakde gaye traps: (a) Senthilbalaji (Karur) banam I.P. Senthilkumar; (b) purane MLA S. Gandhirajan ke case Saminathan par jodne se bachav; (c) "R. Ayanar" (Puducherry) galat-vyakti banam Nilakkottai ke R. Ayyanar; (d) Periasamy ED-PMLA purana, koi nayi sthiti nahi; (e) mantri-era kaam (Sakkarapani/Periasamy/Natham) pre-term. Hygiene: 0 Tamil/Devanagari script, 0 rupee-symbol, 0 literal-backslash-n; reject-logs Roman Hinglish; entry objects me 0 comments (koi entry hi nahi). Koi push/deploy nahi hua.
