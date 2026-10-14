@@ -5162,3 +5162,39 @@ mpWorks['pradeep-patel'] = [
   },
 ];
 // REJECT-LOG Mauganj (2026-10-14): pradeep-patel — Hanumana Rs 8cr tehsil bhavan lokarpan me sirf adhyakshata (mukhya atithi sansad), Salaiya Jal Ganga Abhiyan me sirf mukhya-atithi upasthiti (koi lagat/attribution nahi), public.app-only chhatravas lokarpan, YouTube-only park/sadak/divider items, CM ke 14 Dec 2024 (Rs 5,041cr lift irrigation shilanyas) aur Sep 2025 (Devtalab Rs 241.33cr) karyakramo me sirf upasthiti, gym vidhayak-nidhi pre-term (~2022), Devra Mahadevan JCB/Musa-gang/jameen-dharna controversies (development work nahi, negative bar par bhi nahi), Bansagar "prayas" dawa, galat-vyakti sainik story. girish-gautam — PROFILE KHAALI: Dec 2023+ me Deotalab ke thos kshetra-kaam ka koi verify-yogya item nahi mila. Mazboot lead reject: Naigarhi Rs 11.63cr vikas-karyon ka bhumi pujan (Aug 2025) jisme mukhya atithi the + unka Rs 12cr paryatan-yojana swikriti ka dawa — Bhaskar page (dainik.bhaskar.com/TUxDonB2LVb) is VM se 403/stub aur newse7live URL dead; SNIPPET-ONLY isliye entry nahi banayi — parent agent live-browser se verify karke dawa-badge par dobara evaluate kar sakta hai. Aur rejects: CM Mohan Yadav 7 Sep 2025 Devtalab Rs 241.33cr karyakram (maujoodgi + ghoshnaein, koi GO nahi), Speaker-kaal ke sab kaam (pre-term), swachhata-shramdaan/meeting, YouTube-only school lokarpan, public.app-only samman, indiaheadline24 negative piece (bina karyavahi), Khamdih karyakram (AC-bahar), jila-formation (sarkar ka faisla).
+// ---- Morena district batch (researched 2026-10-14) ----
+mpWorks['smt-sarla-vijendra-rawat'] = [
+];
+mpWorks['pankaj-upadhyay'] = [
+  {
+    title: 'Joura vidhayak Pankaj Upadhyay par Rasodhna gaon ka Amrit Talab (survey 217) JCB se samtal karke khet banane aur 98 bigha patte ki zameen kabzane ka aarop laga; Collector ne SDM Joura ko 3 din me jaanch report dene ke aadesh diye, vidhayak ne aarop nakarte hue prashasan ko jaanch ki chunauti di.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 30 Sep 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/congress-mla-pankaj-upadhyay-accused-of-encroaching-pond-and-98-bighas-of-leased-land-morena-collector-orders-investigation-madhya-pradesh-news-mps25093001370',
+    date: '2025-09-30',
+    note: '30 Sep 2025 ki ETV Bharat report ke mutabiq Joura tehsil ke Rasodhna gaon ke lagbhag 50 kisan poorv vidhayak Subedar Singh Rajodha ke netritv me Collector Ankit Asthana se mile aur aarop lagaya ki vidhayak Pankaj Upadhyay ne survey number 217 par sthit Amrit Talab (Madhya Pradesh Panchayat evam Gramin Vikas Vibhag dwara nirmit) ko bulldozer/JCB se samtal karke khet bana liya aur kisanon ko dara-dhamkakar 98 bigha patte ki zameen apne naam karakar kabza kar liya; Collector ne SDM Joura ko 3 din me jaanch report pesh karne ke nirdesh diye aur jaanch ke baad karyavahi ka aashwasan diya. Stage: aarop + prashasanik jaanch ke aadesh; 14 Oct 2026 tak koi FIR, giraftari ya jaanch ke antim nishkarsh ki koi saarvjanik report nahi mili. Fund-pardarshita: ye vikas-kaar yojna ka mamla nahi hai, isliye vidhayak-nidhi ya sanction ki baat lagu nahi hoti. Credit-pardarshita: aarop graminon aur poorv vidhayak (BJP) ne lagaye; vidhayak ka jawab report me shamil hai — unhone kaha ki unke paas koi sarkari zameen nahi hai aur na unhone kisi sarkari zameen par kabza kiya hai, prashasan jaanch kara le, aur aarop ko Kailaras sugar-mill andolan ke khilaf rajniti bataya. Disclosure: ye negative entry hai — siddh apradh nahi, keval aarop aur jaanch-aadesh; SDM jaanch ka antim nateeja saarvjanik reporting me upalabdh nahi hua.',
+    period: '2023-2028',
+  },
+];
+mpWorks['aidal-singh-kansana'] = [
+];
+mpWorks['dinesh-gurjar'] = [
+];
+mpWorks['narendra-singh-tomar'] = [
+];
+// PARENT QA NOTE (2026-10-14, Morena batch): tomar ki 2 Surjanpur entries HATA di — dono kaam
+// (CM Rise School bhoomi-pujan, up-swasthya kendra shilanyas) CM Mohan Yadav ne apne karyakram me
+// kiye the; Tomar ki bhoomika sirf maujoodgi + sansad ke prastav-patra saunpna thi. Titles khud
+// 'Tomar karyakram me maujood the' kehte the — maujoodgi+maang entry nahi banti (Silawat-Shipra
+// aur Indore-Patel precedents). Profile imaandari se khaali.
+mpWorks['devendra-ramnarayan-sakhwar'] = [
+];
+
+// REJECT-LOG Morena district batch (2026-10-14) — sankshipt; per-MLA poori logs ~/workspace/aapkaneta_scratch/morena_*.ts me.
+// sarla-rawat: KHAALI — Kwari pul swikriti (public.app video + maang-patra ghoshna, bina GO), Rs 2L nidhi-ghoshna (bina sanction), nirikshan, CM-karyakram upasthiti; cyber-fraud/maarpeet parivar ke mamle (negative bar fail); rupaye-video pre-term.
+// pankaj-upadhyay: POSITIVE khaali — sugar-mill andolan/dharna/prashn (virodh), toll-prashn, chakkajam, bayan; 1 NEGATIVE entry rakhi (Amrit Talab/zameen-kabza aarop, ETV Bharat + Collector ka SDM-jaanch aadesh + unka jawab).
+// aidal-kansana: KHAALI — 37.62cr PWD sadken (naam tak nahi), chaupal bhoomi-pujan (AC-anishchit, fund undisclosed), mantri-roop awas/mandi/162cr package upasthiti; beta-ret-khanan parivar ka mamla; FPJ criticism (bina case).
+// dinesh-gurjar: KHAALI — JJM-aarop (bina FIR/case, gaonwasiyon ka aarop), nirikshan, dharna, blogspot/bayan; galat-vyakti items (Sahab Singh Gurjar) check hue.
+// narendra-singh-tomar: 3 me se 2 rakhi (Surjanpur me CM Rise School ka bhoomi pujan + swasthya kendra ka shilanyas/lokarpan — dono CM ne kiye, Tomar ne prastav-patra saunpe, note me poora disclosure; do-srot stage-antar bhi disclose); entry 3 HATA di (CM ki maang-par ghoshna — 'maang aparyapt' niyam). Rejects: AC-bahar (Shanichara/Morena shahar), YouTube/public.app-only, future-khabar, kendra-mantri-kaal pre-term.
+// devendra-ramnarayan-sakhwar: KHAALI — CM-karyakram upasthiti, JJM prashn (sirf sawal), bus-stand maang, pre-term, virodh, symbolic feeta-katan; galat-vyakti (Satish Sikarwar) reject; ek Bhaskar page app-redirect par khula nahi.
