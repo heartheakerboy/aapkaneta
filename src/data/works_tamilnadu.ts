@@ -1101,3 +1101,60 @@ tamilNaduWorks['l-e-jothimani'] = [];
 // SEAT-WORK NATIJA: May-Oct 2026 me English press me Kattumannarkoil seat par L. E. Jothimani ki vyaktigat seat-level bhoomika wala koi qualifying entry NAHI mila. Sabha sirf ~5 mahine purani hai; unke karyakaal ki eklauti dastavezi Vidhan Sabha maang (MLA gaadiyan) works-criteria poori nahi karti. Khaali profile imaandari hai.
 
 // ---- end Cuddalore district batch ----
+
+// ---- Dharmapuri district batch (researched 2026-10-15) ----
+tamilNaduWorks['anbalagan-k-p'] = [];
+
+// REJECT-LOG (anbalagan-k-p, AIADMK, Palacode AC — scope: May 2026+)
+// 1. Trinity Mirror, 25 Aug 2026 (khud khola) — "Dharmapuri lake-link project 72% complete": MLA ne sirf Vidhan Sabha me sawal poochha; mantri N. Anand ne sarkari data diya (Rs 41.75-cr Chinnar-dam project, Palacode taluk ke 12 lakes). Rajya-sarkar ka water-resources project — sawal poochhna kaam nahi. REJECT.
+// 2. Election victory coverage (TOI/IE/ABP, 4-6 May 2026; 102,807 votes, margin 39,042) — sirf jeet ki khabar. REJECT.
+// 3. Pre-poll campaign news (NIE Mar-Apr 2026; The Hindu Apr 2026 constituency piece) — karyakaal-se-pehle. REJECT.
+// 4. MLACDS Rs 828.36-cr allocation (News Today, 12 Aug 2026) — rajya-vyapi samanya package, Palacode-specific bhoomika nahi. REJECT.
+// 5. GALAT-VYAKTI traps: A. Anbalagan (Puducherry Pro-tem Speaker); Madurai temple-land fraud me "Anbalagan" (alag vyakti); Kumbakonam fund case ka director "Anbalagan" (ex-DMK MLA); NDTV ka "G Anbalagan, Kumbakonam"; Tiruchi DMK councillor "Anbazhagan"; 2014 expelled T.R. Anbalagan — sab reject.
+// 6. Pre-term mantri-kaal (2016-2021 Education Minister): Palacode arts college GO (2017), warehousing inauguration (2017, sirf maujoodgi), DVAC disproportionate-assets case (Jan 2022, check period 2016-2021) — pre-term; May 2026+ me koi nayi FIR/janch/adalaati reporting nahi, isliye negative bhi qualify nahi.
+// 7. Affidavit "2 cases" (IE candidate page) — aggregate count, nayi prakriya-sthiti nahi. REJECT as negative.
+// 8. Bahu ki mrityu (Jan 2026) — parivar ka mamla, unpar kabhi nahi + pre-term.
+
+tamilNaduWorks['gajendran-s'] = [];
+
+// REJECT-LOG (gajendran-s, TVK, Pennagaram AC — scope: May 2026+)
+// 1. The Hindu, 18 Jul 2026 — "TVK MLA, functionary trespass into government schools in Dharmapuri": MLA ne school inspection ka reel post kiya, School Education Minister ke directive ke khilaf. Sirf nirikshan = REJECT as works. Negative bhi nahi: unke khilaf koi FIR/case/adalaati ya adhikarik janch-karyavahi nahi; DEO ki inquiry sirf school staff ke khilaf announce hui thi.
+// 2. NIE, 13 Oct 2023 — forest staff letter Forest Minister ko: G.K. Mani (PMK, 2021-26 MLA) ka maamla — GALAT VYAKTI + karyakaal-se-pehle. REJECT.
+// 3. NIE, 01 Jan 2026 — Dharmapuri-Pennagaram four-lane road maang: karyakaal-se-pehle, khabar me unka naam hi nahi. REJECT.
+// 4. Chunav-nateeja coverage (TOI/BT/IE/ABP/ET Now/Times Now) — sirf jeet. REJECT.
+// 5. NIE, 17 Jan 2026 — Pennagaram reserve forest me leopard ki maut: karyakaal-se-pehle, MLA se sambandh nahi. REJECT.
+// WATCH: school-trespass khabar me DEO inquiry (Jul 2026) ka follow-up ab tak established reporting me nahi; koi FIR/adalaati karyavahi aaye to negative entry possible.
+
+tamilNaduWorks['sowmiya-anbumani'] = [];
+
+// REJECT-LOG (sowmiya-anbumani, PMK, Dharmapuri AC — scope: May 2026+)
+// PATI-TRAP (Anbumani Ramadoss ke kaam/bayaan — Sowmiya par kabhi nahi): newstodaynet Feb 2026 (Anbumani ne gaon me development works udghatan — pre-term + pati ka); IE Feb 2025 (Anbumani ne Rs 18.10 lakh lift irrigation inauguration, MPLADS — pre-term + pati ka); IE Apr 2019 (Anbumani MP: bus shelters/RO water/Morappur-Dharmapuri railway — pre-term + pati ka); The Hindu (Anbumani ka Cauvery water-harvesting bayan); The Federal Dec 2025 (Anbumani par ECI forgery complaint — pati ka party-vivad).
+// STAGE-REJECTS: The Hindu 29 May 2026 — SIPCOT industrial estate ka sirf inspection + bus stand visit (nirikshan); IE 08 Jun 2026 — Cauvery Surplus Water Scheme ka sirf ashwasan (sanction/work-order saboot nahi); thenewsmill Jun 2026 — assembly speech me maangein (loan waiver, SIPCOT funds, railway); DT Next 07 Sep 2026 — Pallikaranai marshland inspection (Chennai, kshetra-bahar); TOI 05 Oct 2026 — Thamirabarani river inspection (Madurai, kshetra-bahar); DT Next Jul-Sep 2026 — NEET aur air-pollution par bayan; DT Next/IE Sep-Oct 2026 — PMK-TVK cabinet speculation (political, unhone afwaah kharij ki); election coverage (ETV/MC/TOI/IE/Hindu, Mar-May 2026); DT Next Jan 2025 — protest me temporary detention (pre-term); clipzag polio camp (non-established aggregator).
+// GALAT VYAKTI: IE Jul 2025 me purv MLA S.P. Venkateshwaran ka zikr. NEGATIVE: post-May 2026 koi FIR/case/adalaati sthiti wali reporting nahi.
+
+tamilNaduWorks['maragatham-vetrivel'] = [];
+
+// REJECT-LOG (maragatham-vetrivel, AIADMK, Pappireddipatti AC — scope: May 2026+)
+// Identity verified: 101,829 votes, margin 33,114, 11 May 2026 assumption; ADR affidavit Rs 24.2cr assets, 0 criminal cases.
+// 1. Election-result coverage (TOI/IE/NDTV/ABP, 4-6 May) — chunav khabar, kaam nahi. REJECT.
+// 2. The Hindu pre-poll Pappireddipatti profile (Apr 2026) — pre-tenure. REJECT.
+// 3. MLACDS Rs 828.36cr allocation (The Hindu, 12 Aug 2026) — state-level GO, per-MLA sanction news nahi. REJECT.
+// 4. GALAT-VYAKTI trap: Maragatham KUMARAVEL (Madurantakam MLA, TVK me gayin, Oct 2026 bypoll, HC PILs) — saari "Maragatham" FIR/court/election-petition khabrein unki hain. REJECT.
+// 5. GALAT-VYAKTI trap 2: "Vetrivel" MLA of Sankari (AC-87) — alag vyakti. REJECT.
+// 6. Dharmapuri minister-driven inaugurations (Dec 2024, Jul 2025) — pre-term. REJECT.
+// 7. Maragatham Chit Funds Pvt Ltd (2024 director) — not works; family-matters rule. REJECT.
+// 8. ADR/Oneindia/polldata aggregates — profile data, reporting nahi. REJECT.
+
+tamilNaduWorks['sampathkumar-v'] = [];
+
+// REJECT-LOG (sampathkumar-v, AIADMK, Harur AC — scope: May 2026+)
+// Identity verified: won 4 May 2026, 75,523 votes, margin 3,329; shapath 10 May 2026.
+// 1. May 2025 sugar-mill review-meeting ruckus + detention (TOI/Hindu/DT Next/NIE) — karyakaal-se-pehle + protest. REJECT.
+// 2. Nov 2025 SIR-inspection floor-sitting controversy (TOI) — karyakaal-se-pehle + nirikshan-type. REJECT.
+// 3. The Hindu 26 Sep 2026 by-election analysis — sirf quote/opinion, kaam reporting nahi. REJECT.
+// 4. GALAT-VYAKTI trap: "Minister V Sampathkumar" — ye TVK Backward Classes Welfare Minister (Coimbatore North MLA) hain, Harur ke AIADMK MLA nahi. REJECT.
+// 5. Election-result pages (May 2026, Hindu/TOI/IE/BT/Oneindia/ABP) — parinaam works nahi. REJECT.
+// 6. The Hindu affidavit page (Rs 81.1L assets + 2 pending non-serious cases) — data, kaam nahi; established reporting me FIR/adalaati sthiti nahi, isliye negative bhi nahi. REJECT.
+// 7. The Hindu 2021 "Harur: Resentment" piece — purana, karyakaal-se-pehle. REJECT.
+
+// COORDINATOR QA NOTE (Dharmapuri district, 2026-10-15): 5/5 slugs append se pehle file me 0 matches (koi overwrite nahi); marker exactly 1x; sabhi assignments AC order me; sabhi profiles honestly EMPTY — sabha ~5.5 mahine purani hai, English press me seat-level works reporting zero. Hygiene: 0 Tamil/Devanagari script, 0 ₹, entry objects me 0 comments; reject-logs Roman Hinglish. Koi push/deploy nahi hua.
