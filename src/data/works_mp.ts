@@ -6667,3 +6667,186 @@ mpWorks['dr-chintamani-malviya'] = [
 //   Kayakalp-aarop bina FIR/case, vague dawa, admin postings.
 // Khaali profile: koi nahi — sabse patli malviya (1, blogspot-source, disclosure sahit).
 
+
+// ---- Rewa district batch (researched 2026-10-14) ----
+mpWorks['divyaraj-singh'] = [
+{
+    title: 'Koni Kala me lagbhag 400 meter PCC sadak aur nali ka nirman, jiska lokarpan Sirmour MLA Divyaraj Singh ne 14 December 2025 ko kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'NN World, 22 Sep 2026',
+    sourceUrl: 'https://newsnationalworld.com/2026/09/22/the-ugly-truth-of-koni-gram-panchayat-a-pcc-road-constructed-just-eight-months-ago-has-disintegrated-following-several-past-scams/',
+    date: '2025-12-14',
+    note: 'Jawa janpad ke Koni Kala gram me high school se Paipkhara ki taraf lagbhag 400 meter PCC sadak aur nali ka nirman poora hua; sweekrit rashi Rs 24.82 lakh; lokarpan MLA Divyaraj Singh ke kar-kamlon se hua, isliye stage lokarpan (poora hua) mana gaya. Source chhota local portal (newsnationalworld.com) hai. Caveat: isi portal ki 22 Sep 2026 ki report ke mutabik sadak kuch mahinon me ukhad gayi aur graminon ne sarpanch-sachiv tatha upyantri-SDO par gunvattavihin nirman ka aarop lagate hue takneeki aur vittiya janch ki mang ki; aarop MLA par nahi lagaya gaya aur janch ki sthiti ki pushti nahi hui.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rajendra-shukla'] = [
+{
+  title: 'Ratahara talab ke saundaryikaran karya ka Deputy CM Rajendra Shukla ne 9 March 2024 ko lokarpan kiya, talab me boating aur food zone jaisi suvidhaen milengi',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'ETV Bharat, 10 Mar 2024',
+  sourceUrl: 'https://www.etvbharat.com/hi/!state/rewa-deputy-cm-rajendra-shukla-inaugurated-pond-and-shivaji-maharj-statue-deputy-cm-gave-2-gifts-to-rewa-mps24031003307',
+  date: '2024-03-09',
+  note: 'Stage: poora hua / lokarpan (event 9 Mar 2024 shaam, post-event reporting 10 Mar). Rewa shahar ke Ratahara trirahe ke paas banzar pade talab ka punarghanatvikaran yojana ke tehat saundaryikaran hua - suddhikaran, boundary wall, parking, food zone, vriksharopan aur shauchalay shamil; technical report Housing Board ke EE ne di. Article ke anusar ye kaam unke prayason se hua aur unhone swayam lokarpan kiya. Fund sarkari punarghanatvikaran yojana ka hai, MLA nidhi ka zikr nahi.',
+  period: '2023-2028',
+},
+{
+  title: 'Rewa ke Ratahara trirahe par Shivaji Park aur 15 feet unchi Chhatrapati Shivaji pratima ka Deputy CM Rajendra Shukla ne 9 March 2024 ko anavaran kiya',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'ETV Bharat, 10 Mar 2024',
+  sourceUrl: 'https://www.etvbharat.com/hi/!state/rewa-deputy-cm-rajendra-shukla-inaugurated-pond-and-shivaji-maharj-statue-deputy-cm-gave-2-gifts-to-rewa-mps24031003307',
+  date: '2024-03-09',
+  note: 'Stage: poora hua / lokarpan (event 9 Mar 2024 shaam, post-event reporting 10 Mar). Nagar Nigam ne dhai ekad banzar zameen par park banaya aur lagbhag Rs 46 lakh ki lagat se 15 feet unchi, 5.5 feet chaudi pratima sthapit ki; unhone swayam pratima ka anavaran kiya. Article unke prayason ko credit deta hai. Fund Nagar Nigam / sarkari mad ka hai, MLA nidhi ka zikr nahi.',
+  period: '2023-2028',
+},
+{
+  title: 'Shyam Shah Medical College parisar Rewa me super-specialty hospital ke doctors ke liye 64 avasiya bhavanon ka Deputy CM Rajendra Shukla ne 5 March 2024 ko bhoomi pujan kiya',
+  category: 'Aspataal',
+  badge: 'news',
+  sourceLabel: 'Hindustan Samachar (via livevns.news), 5 Mar 2024',
+  sourceUrl: 'https://livevns.news/state/madhyapradesh/bhoomi-pujan-of-residential-buildings-of-doctorsphp/cid13746351.htm',
+  date: '2024-03-05',
+  note: 'Stage: bhoomi-pujan-shilanyas (post-event reporting, agency byline). Shasan ki punarghanatvikaran yojana ke tehat Rewa ke super-specialty hospital ke chikitsakon ke liye bahumanjila avasiya parisar ka unhone swayam bhoomi pujan kiya; karyakram me MP Janardan Mishra aur zila prashasan bhi maujood tha. Source chhota local portal hai (disclosure); lagat ka zikr article me nahi.',
+  period: '2023-2028',
+},
+{
+  title: 'Rewa me Rausar chauraha se Kuthulia marg par Beehar nadi par Rs 11.59 crore ke pul aur pahunch marg ka Deputy CM Rajendra Shukla ne 5 March 2024 ko bhoomi pujan kiya',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Hindustan Samachar (via livevns.news), 5 Mar 2024',
+  sourceUrl: 'https://livevns.news/state/madhyapradesh/bhoomi-pujan-of-residential-buildings-of-doctorsphp/cid13746351.htm',
+  date: '2024-03-05',
+  note: 'Stage: bhoomi-pujan-shilanyas (post-event reporting, agency byline). Unhone swayam bhoomi pujan kiya; article ke anusar pul banne se Rausar-Nipaniya kshetra aur aaspaas ke gaon ki 28,000 se adhik aabadi ko Rewa-Shahdol marg aur sambhagiya mukhyalaya se seedha sampark milega. Source chhota local portal hai (disclosure); fund srot ka ullekh nahi.',
+  period: '2023-2028',
+},
+{
+  title: 'Rewa shahar me Sirmour triraha se Bodabag marg tak bane flyover ka Deputy CM Rajendra Shukla ne 8 September 2024 ko udghatan kiya, kaam nirdharit samay se 8 mahine pehle poora hua',
+  category: 'Sadak',
+  badge: 'news',
+  sourceLabel: 'Free Press Journal, 9 Sep 2024',
+  sourceUrl: 'https://www.freepressjournal.in/bhopal/mp-updates-deputy-cm-rajendra-shukla-inaugurates-flyover-in-rewa-bjps-target-is-to-make-10-cr-new-members-mp-darshan-singh-choudhary',
+  date: '2024-09-08',
+  note: 'Stage: poora hua / lokarpan (event 8 Sep Sunday, post-event reporting). Unhone swayam flyover ka udghatan kiya; PWD ke executive engineer ke anusar kaam scheduled date se 8 mahine pehle poora hua aur MP Janardan Mishra ne Rewa ke vikas me Shukla ke kaam ka zikr kiya. Article me lagat ka zikr nahi; flyover Rewa shahar ke andar hai (AC-74).',
+  period: '2023-2028',
+},
+{
+  title: 'Rewa krishi upaj mandi me Rs 15.64 crore ke adharbhoot karyaon ka Deputy CM Rajendra Shukla ne 8 November 2024 ko bhoomi pujan kiya, mandi A-grade aadarsh mandi banegi',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Rewariyasat, 8 Nov 2024',
+  sourceUrl: 'https://www.rewariyasat.com/rewa/a-state-of-the-art-agricultural-produce-market-will-be-built-in-rewa-deputy-chief-minister-rajendra-shukla-performed-the-bhoomi-pujan-for-works-worth-rs-1564-crore-403754',
+  date: '2024-11-08',
+  note: 'Stage: bhoomi-pujan-shilanyas (post-event reporting). Bhoomi poojit karyaon me high-rise shed, jal nikasi, vehicle parking, concrete sadak, 2000 MT godam aur mukhya gate ka saundaryikaran shamil; unhone ek saal me kaam poora karne ka nirdesh diya. Source chhota local Vindhya portal hai (disclosure); unhone swayam bhoomi pujan kiya.',
+  period: '2023-2028',
+},
+{
+  title: 'Rewa ke PTS Chowk par Rs 2.63 crore ki lagat se bane 33/11 kV power substation ka Deputy CM Rajendra Shukla ne 30 May 2025 ko udghatan kiya',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Central Chronicle, 30 May 2025',
+  sourceUrl: 'https://www.centralchronicle.com/deputy-cm-inaugurates-rs-2-63-crore-power-substation-in-rewa/',
+  date: '2025-05-30',
+  note: 'Stage: poora hua / lokarpan. Unhone swayam udghatan samaroh me substation ka lokarpan kiya; vibhag ne kaam samay se pehle poora kiya. Free Press Journal (31 May 2025) ne bhi isi event ki post-event reporting ki hai, isliye established media corroboration hai. Bijli vitran ka kaam DISCOM ka hai; MLA nidhi ka zikr nahi.',
+  period: '2023-2028',
+},
+{
+  title: 'Rewa ke Sanjay Gandhi Hospital ke medicine vibhag ke 2 wardon me Rs 20 lakh ki lagat se lage duct cooling system ka Deputy CM Rajendra Shukla ne 12 September 2025 ko lokarpan kiya',
+  category: 'Aspataal',
+  badge: 'news',
+  sourceLabel: 'ETV Bharat, 13 Sep 2025',
+  sourceUrl: 'https://www.etvbharat.com/hi/!state/rewa-sanjay-gandhi-hospital-inauguration-duct-cooling-system-rajendra-shukla-appeals-doctors-behave-well-madhya-pradesh-news-mps25091306914',
+  date: '2025-09-12',
+  note: 'Stage: poora hua / lokarpan (event 12 Sep, post-event reporting 13 Sep; unke X post ne bhi 12 Sep ko lokarpan ki pushti ki). Unhone swayam system ka lokarpan kiya; marijon ko ward ki garmi se rahat milegi. Fund srot article me spasht nahi (MLA nidhi ka zikr nahi); ye unke swasthya mantri ke roop me rajya-stariya faisla nahi, Rewa hospital ka thos kaam hai. Cancer hospital aur 321 crore aadhunikikaran jaise ghoshna wale daave entry me nahi liye gaye.',
+  period: '2023-2028',
+}
+];
+
+// COORDINATOR QA NOTE (2026-10-14, Rewa batch): engineer-narendra-prajapati ki 2 entries HATA di —
+// (1) Jal Ganga talabon master-plan/Atal Sarovar 'ghoshna': rajya-yojana ka aam ghoshna-item tha, unka koi
+// dastavezi concrete kadam nahi tha, ETV ka shreya sirf 'prayaason se' tha (Indore-Patel four-lane precedent);
+// (2) News18 Nadna-road negative: grameenon ka RTI-adhaarit aarop, koi FIR/case/adhikarik jaanch nahi —
+// negative-entry manak fail (Dinesh Gurjar Karua JJM precedent). Profile imaandari se khaali.
+// abhay-mishra, siddharth-tiwari-raj, nagendra-singh-mp — profiles imaandari se khaali (koi qualified entry nahi).
+// CAVEAT parent ke liye: nagendra-singh-mp brief me 'poorv Sansad' tha — khoj me Khajuraho MP 2014 wala
+// Nagendra Singh Nagod (Satna) ka alag vyakti mila; foundation profile-note verify kar lein.
+// Retry leads (reject-log me darj): siddharth-tiwari-raj ki Vindhya Times Jan-2026 press conference (text source mil jaye to 1-2 entries nikal sakti hain).
+// ---- Rewa district batch REJECT-LOG (2026-10-14) ----
+// === rewa_divyaraj-singh ===
+// === rewa_abhay-mishra ===
+// === rewa_siddharth-tiwari-raj ===
+// Siddharth Tiwari (Raj) — Teonthar (AC-70), BJP, Rewa district, MP
+// Dec 2023 se vidhayak; divangat purva Assembly Speaker Srinivas Tiwari ke pote,
+// purva mantri/LoP late Sunderlal Tiwari ke bete. Oct 2023 me Congress ticket na
+// milne par BJP join ki aur 3 Dec 2023 ko Teonthar se jeete (61,082 votes).
+// REJECT LOG (Siddharth Tiwari (Raj), Teonthar AC-70):
+// 1. CM Mohan Yadav ka Teonthar daura, Rs. 162 crore pariyojnaen (Chillawala Bridge Rs. 28 crore + 39 pul, Rs. 125 crore biogas plant, 400-acre industrial complex, Tamas river corridor, Civil Hospital 50 se 100 bed, ITI) — khola aur padha (Indian Masterminds, 19 Sep 2025; isi par Lokmat Times bhi). SIFAR MAUJOODGI: MLA sirf manch par maujood the aur "11 mahine me Vindhya ka pehla plant" kahkar CM ki tareef ki; unka koi dastavezi kadam (maang-patra, bhoomi-pujan, nirikshan-report) nahi. Bhoomi-pujan/ghoshna CM ne ki. Reject.
+// 2. CM ka Devtalab/Mauganj karyakram, Rs. 241.33 crore bhoomi-pujan/lokarpan (Impressive Times / ANI, 7-8 Sep 2025) — MLA Siddharth Tiwari upasthiton me; kaam Devtalab (kshetra-BAHAR) ka, aur neta sirf maujood. Reject.
+// 3. "Tyonthar me hue vikas karyon ka lekhā-jokhā" — MLA ki apni press conference (Vindhya Times, Jan 2026) — YouTube-ONLY source; text news source nahi mila. Reject.
+// 4. "Tyonthar vidhayak bante hi bada ailaan, pure area me khushiyan" (Rewa Riyasat, 30 Dec 2023) — ghoshna-type press khabar, bina sanction/work-order saboot; article ka text (tag page se bahar) verify nahi ho paya. Reject.
+// 5. "Badlenge Tyonthar ka naksha, pehli baithak me adhikariyon ko bada nirdesh" (Rewa Riyasat, 3 Jan 2024) — sirf baithak + nirdesh (nirikshan/daura-type), koi thos karya/concrete step report nahi. Reject.
+// 6. MP Janardan Mishra dwara MLA par "gambhir aarop" / BJP netaon me jubani jang (Rewa Riyasat, 27 Sep 2024; YouTube reports bhi) — NEGATIVE-entry criteria fail: rajnaitik bayanatmak aarop, koi FIR/case/adalaati ya adhikarik janch sthiti report nahi. Reject.
+// 7. Amahiya mazaar hatane ki maang (Rewa Riyasat, 4 Oct 2024) — maang/dharma-rajnaitik vivad; vikas-karya nahi. Reject.
+// 8. Digvijaya Singh ko "Maulana" kahna (Lokmat Times/PTI-ANI, 19 Sep 2025) — rajnaitik bayaan, vikas-karya nahi. Reject.
+// 9. "Yuva MLA conference" me chunav, Deputy CM vs MLA gutbaazi, podcast, Congress-exit backgrounders (Oct 2023-Feb 2024) — sab politics; vikas-karya nahi. Reject.
+// 10. Dehi (Tyonthar tehsil) PMGSY sadak par atki hue, gaon walon ki pareshani (YouTube, Sep 2026) — YouTube-ONLY + vidhayak ka na to aarop se jodna jaye (sirf "jan-pratinidhiyon" ko plaint) aur na koi FIR/janch. Reject.
+// 11. Candidature/affidavit pages (Business Standard, News18, myneta.info) — profile-data, vikas-karya nahi. Reject.
+// Kul: 0 entry qualified, 11 leads reject. PROFILE KHALI — kamzor attribution se kuch jodna imaandari ke khilaf hoga; Teonthar me CM-level ghoshnaon ka shreya vidhayak ko nahi diya ja sakta.
+// === rewa_engineer-narendra-prajapati ===
+// ---- Rewa district (researched 2026-10-14) ----
+// Rewa — engineer-narendra-prajapati (Mangawan SC AC-73, BJP).
+// DO NOT export; appended to works_mp.ts
+// ---- REJECT-LOG (rewa_engineer-narendra-prajapati, 2026-10-14) ----
+// 1. Dainik Jagran MPCG English (04 May 2026) "Vindhya Development Authority Starts Without Office in Rewa" — REJECT: galat vyakti.
+//    Article me chairman "Panchulal Prajapati" (poorv vidhayak) hain, Engineer Narendra Prajapati nahi. Naam-ghultav ka live udaharan.
+// 2. Dainik Jagran MPCG English (06 Oct 2026) "Rewa Eye Camp: 267 Get Check-Ups Under Seva Abhiyan" — REJECT: sirf maujoodgi.
+//    Dy CM Rajendra Shukla ke karyakram me MLA keval upasthit suchi me the; unka apna koi kshetra-kaam nahi.
+// 3. livevns.news / Hindustan Samachar (01 May 2025) Hinauti Gaudham sameeksha — REJECT: MLA ka naam article me hai hi nahi (Dy CM ki baithak).
+// 4. YouTube-only videos (press-conference "2 saal ki uplabdhiyan", baadh-daura Kushaha/Sonvarsha/Moharia, vidhayak-parisar/rozgar model,
+//    Hinauti gaushala prashasanik bhavan udghatan, interview) — REJECT: YouTube-only sources niyam ke tehet srot nahi bante.
+//    Inme diye gaye daavon (127 km grameen sadak, Rs 33 cr pul-pulia/nali swikriti, Rs 20 cr Hinauti gaushala, Gangev 50-bistar aspatal,
+//    Rs 15 cr Malkupur talab, CM dwara Rs 8 cr baandh ghoshna) ka koi text-source (established ya local portal) nahi mila, isliye entry nahi banayi.
+// 5. Baadh-rahat daura (Aug-Sep 2025) — REJECT: keval YouTube coverage; sirf nirikshan/daura, koi thos rahat-vitran ya nirman ka dastavezi saboot nahi.
+// 6. Vidhayak-nidhi ghoshna-type press khabrein — REJECT: bina sanction/work-order saboot ke niyam ke tehet.
+// 7. CM (Mohan Yadav, Sep 2025, Rs 162 cr Rewa package) ke karyakram — REJECT: Tyonthar kshetra ka tha, Mangawan se bahar; MLA ki upasthiti ka bhi ullekh nahi.
+// 8. Parivar-sambandhi koi khabar nahi mili; koi FIR/case/adalaati mamla bhi established reporting me nahi mila.
+// === rewa_rajendra-shukla ===
+// REJECT-LOG (kya reject kiya aur kyun):
+// 1. Rewa airport inauguration by PM Modi (Oct 2024, ommcomnews/IANS) - PM ka karyakram, Shukla sirf maujood the; airport push 2014 se chal raha tha (pre-Dec-2023). REJECT.
+// 2. Bhaskarhindi 29 Dec 2025: Rewa bypass + Sleemanabad tunnel samiksha baithak - sirf samiksha/nirdesh, koi thos kaam nahi. REJECT.
+// 3. rewariyasat Chuhiya valley meeting (2024) - sirf samiksha + tunnel/fourlane ghoshna ("prastav turant prastut karen"). REJECT.
+// 4. rewariyasat NH-39/Sidhi-Singrauli/Rewa bypass 4-lane samiksha (Nov 2023) - sirf samiksha/nirdesh, pre-Dec-2023. REJECT.
+// 5. MCU Rewa campus (Sep 2023, rewariyasat) - CM Shivraj ka karyakram, pre-Dec-2023. REJECT.
+// 6. livevns: Jabalpur daura (3 May 2025) - kshetra-bahar (Patan/Nunser, Jabalpur). REJECT.
+// 7. Central Chronicle "medical hub" (Sep 2025): NCL Rs 6.4 cr contract + Rs 322 cr doctors colony plans - Bhopal dateline, swasthya vibhag ka RAJYA-STARIYA faisla ("all divisional headquarters"); plans = ghoshna. REJECT.
+// 8. rewariyasat cancer hospital ghoshna (200 bed, Mar 2025) + Rs 35 cr super-specialty extension nirikshan - ghoshna + sirf nirikshan. REJECT.
+// 9. rewariyasat kidney transplant (Dec 2024) - hospital ki uplabdhi; Shukla ne sirf marijon se mulaqat ki. REJECT.
+// 10. rewariyasat: Sudarshan Kumari Kanya school ke 10 kakshon ka lokarpan - sirf PRE-EVENT schedule mila (9 Mar 2024), post-event reporting nahi mili. REJECT.
+// 11. rewariyasat (10 Dec 2024): vidhayak nidhi se Rs 65 lakh furniture ki ghoshna (naya district court bhavan) - ghoshna-type press khabar, sanction/work-order saboot nahi. REJECT.
+// 12. Thomson News 17 May 2025 samiksha - sirf samiksha + "15 June ko lokarpan hoga" announcement. REJECT.
+// 13. ETV Shahdol roads (Aug 2024) - "kaam jaldi shuru hoga" ghoshna. REJECT.
+// 14. rewariyasat Bhairavbaba mandir nirikshan (Jul 2024) - sirf nirikshan. REJECT.
+// 15. Medhavi chhatra samman samaroh (bhaskarhindi/ETV, May 2025) - samman samaroh, vikas kaam nahi. REJECT.
+// 16. YouTube-only CM Mohan Yadav LIVE video (Shyam Shah Medical College expansion bhoomi pujan) - YouTube-only source reject list me; CM ka karyakram, Shukla ki bhumika secondary. REJECT.
+// NOTE: "Rajendra Shukla" naam ke BJP karyakarta ki identity-alag vyakti ka koi confusion nahi - sabhi entries me spasht roop se "Up-Mukhyamantri Rajendra Shukla" (Rewa MLA) ka zikr hai.
+// === rewa_nagendra-singh-mp ===
+  // NO QUALIFYING ENTRIES — 2023-2028 period me Gurh (AC-75, Rewa) ke is MLA ke
+  // koi thos kshetra-vikas kaam credible news me nahi mile jo sakht niyam pure karte hon.
+  // 10+ search rounds (Hindi + English, "Gurh"/"gudh" spellings, bhoomipujan/lokarpan/
+  // swikriti/vidhayak-nidhi angles, local outlets) — koi pass nahi.
+  // Khaali profile imaandari hai. Reject log neeche.
+// REJECT-LOG (nagendra-singh-mp):
+// 1. Free Press Journal, 27 May 2025 — "Hike In Pension, Medical Bill Limits In MLA Committee Memo To CM Mohan Yadav" — article KHUD KHOLA aur padha. Committee chairman MLA Nagendra Singh (Gudh) ne CM ko 8-point memorandum diya (pension, medical bill limits, protocol, vehicle loan subsidy) — REJECT: sirf maang/gyapan, kshetra-vikas ka kaam nahi.
+// 2. Vindhya Times YouTube (watch?v=y0DOUOa8tA0) — "Gurh MLA Nagendra Singh ka palatwar, Kapidhwaj Singh ke aaropon par jawab" — REJECT: YouTube-only source; 2023 election-campaign era; koi vikas-kaam nahi.
+// 3. Vindhya Times YouTube (watch?v=HmFnA8q9YB4) — Kapidhwaj Singh/Siddharth Tiwari par interview — REJECT: YouTube-only, political interview, vikas-kaam nahi.
+// 4. YouTube shorts (CWFnz6PA7j0) — "gaon Bukna me banega hospital (Rs 1.5 crore) — MLA ka bhashan" — REJECT: YouTube-only; "banega" = karenge-type ghoshna; koi sanction/work-order saboot nahi; date/kshetra verify nahi.
+// 5. YouTube (J4eMSET6Vhk, oCmvyM0wqCU) — road bhoomipujan/shilanyas aur "vibhinn vikas karyon" videos — REJECT: YouTube-only; kshetra Gurh verify nahi; post-event reporting nahi milti.
+// 6. Nagod wale Nagendra Singh items — REJECT (galat vyakti): Chakachaundh YouTube interview, ABP Nagod candidate profile, Business Standard Nagod candidate page — ye Nagod (Satna) ke Nagendra Singh hain (poorv mantri, Khajuraho MP 2014); Gurh wale se alag vyakti. Inki koi bhi khabar Gurh profile me nahi.
+// 7. newsarenaindia (Oct 2024) — PM Modi ne Rewa airport terminal ka udghatan kiya — REJECT: kendriya pariyojna (UDAN); Gurh MLA ki concrete bhoomika document nahi; zyada se zyada sambhav upasthiti.
+// 8. Lokmat Times / DevDiscourse, 19 Sep 2025 — CM Mohan Yadav ne Rewa me Rs 162 crore ki pariyojnaon ka lokarpan/bhoomipujan kiya (Chakghat/Tyonthar) — REJECT: Tyonthar kshetra (Gurh nahi); CM ka karyakram; MLA ki bhoomika nahi.
+// 9. News18/NDTV/Business Standard election profiles (2023) — REJECT: election profile, vikas-kaam nahi.
+// 10. TheWeek, 13 Nov 2023 — "BJP goes easy over age" (70+ candidates piece) — REJECT: pre-Dec-2023 election khabar; vikas-kaam nahi.
+// 11. Dainik Jagran e-paper Rewa PDFs / veerbhuminews PDFs — garbled OCR, Gurh-specific thos entry nahi mili; snippet se entry nahi ban sakti.
