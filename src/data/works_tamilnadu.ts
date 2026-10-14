@@ -2655,3 +2655,89 @@ tamilNaduWorks['r-s-rajakannappan'] = [];
 // 11. May-Oct 2026 me seat-level qualifying entry English press me NAHI mili — khaali imaandari hai.
 
 // COORDINATOR QA NOTE (Ramanathapuram, 2026-10-15): 4/4 fragments QA ho gaye. rajeev ka entry (dawa badge, Devipattinam cleanup dawa) title/note English me tha — Roman Hinglish me convert karke joda; entry valid hai (mantri ka apna dawa, The Hindu me report, poora disclosure ke saath; Devipattinam Tiruvadanai AC 210 ke andar hai). 3/4 profiles imaandari se khaali. Rajakannappan ka Arappor Rs 411cr aarop (Oct 2024) sahi reject hua — pre-term, koi nayi sthiti nahi. Kul titles: 43 → 44.
+// ---- Ranipet district batch (researched 2026-10-15) ----
+tamilNaduWorks['v-gandhiraj'] = [
+  {
+    title: 'Arakkonam shahar me jeernoddhar ki hui Amma canteen ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 5 Sep 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/tamil-nadu/restored-amma-canteen-in-arakkonam-inaugurated/article71431987.ece',
+    date: '2026-09-05',
+    note: 'Minister for Co-operation V. Gandhiraj (TVK, Arakkonam SC ke MLA) ne 5 Sep 2026 ko apne hi nirvachan kshetra me, Arakkonam shahar ke old bus stand ke paas sthit Amma canteen ke jeernoddhar ka udghatan kiya. The Hindu ki report (article khud khola aur poora padha) ke anusar canteen ka Rs 11 lakh ki lagat se pahli baar jeernoddhar Arakkonam nagarpalika ne karwaya tha (2015 me launch ke baad pahli marammat) — asli kaam municipality ka hai, Gandhiraj ne apne mantri-pada ke capacity me udghatan kiya, aur saath me Ranipet Collector N. Priya Ravichandran bhi maujood theen.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (v-gandhiraj, TVK, Arakkonam (SC) AC, Ranipet jila — scope: May 2026+)
+// 1. BusinessToday, 6 Sep 2026 — "Fact check fails: First time TVK MLA demands shutdown of non existent Ranipet tyre factory" (Assembly me JK Tyre band karne ki maang) — REJECT: GALAT VYAKTI; ye maang I. Thahira (Ranipet AC ki MLA) ne uthai thi, V. Gandhiraj ne nahi.
+// 2. lokmattimes.com / news.webindia123.com / devdiscourse.com, 7 Jul 2026 — Ranipet Collectorate me review meeting ("No corruption in DMK-era development projects") — REJECT: sirf review meeting/nirikshan + "karenge" ghoshna; koi udghatan/shilanyas/swikriti nahi.
+// 3. Usi 7 Jul 2026 wali report ka Madurai ration-rice hissa — REJECT: IDENTITY TRAP; Madurai/food-portfolio khabron wala "Minister Gandhiraj" alag vyakti hai, Arakkonam ke MLA se sambandh nahi.
+// 4. ainvest.com, 30 May 2026 — "Tamil Nadu Minister V. Gandhiraj inaugurates refurbished Katpadi MLA office in Vellore" — REJECT: kshetra-bahar (Katpadi AC Vellore jile me).
+// 5. DT Next, 27 Jun 2026 — Chennai me Cooperation Minister ka ration-shop employees ko aashwasan — REJECT: mantri-portfolio ka rajya-stariya karyakram; seat-link nahi.
+// 6. DT Next, 29 Jun 2026 — National Cooperative Week, Chennai — REJECT: mantri-portfolio ka rajya-stariya samaroh.
+// 7. Chunav parinaam coverage, May 2026 — REJECT: pre-term khabar; sirf pehchan verify ke liye.
+// 8. New Indian Express, 14 Mar 2021 — Arakkonam constituency profile — REJECT: pre-term (tab MLA S. Ravi the).
+// 9. New Indian Express, Apr 2024 — Lok Sabha campaign feature — REJECT: pre-term.
+// 10. The Hindu, 4 Aug 2023 — Amrit Bharat stations — REJECT: pre-term, PM ka karyakram.
+// 11. DT Next, 8 Oct 2026 — CMDA expansion me Arakkonam — REJECT: MLA ka naam tak nahi.
+// 12. DT Next, 24 Sep 2026 + TOI, 10 Sep 2026 — Arakkonam-Renigunta rail line Rs 1,936cr swikriti — REJECT: Railway Board ki swikriti; MLA ki bhoomika nahi.
+// 13. New Indian Express, 24 Dec 2025 — Puliyamangalam-Arakkonam rail line kaam — REJECT: pre-term.
+// 14. FB congratulatory post, 21 May 2026 — REJECT: social source; kaam nahi.
+// 15. thehawk.in, Oct 2026 — banner FIR quash yachika — REJECT: GALAT VYAKTI (FIR me naam "Saravanan").
+// 16. lokmattimes.com, 13 Sep 2026 — A Raja ke khilaf shikayat — REJECT: GALAT VYAKTI (Gummidipoondi ke MLA Vijayakumar ki shikayat).
+// 17. Affidavit case-count ("2 cases") — REJECT as negative: pre-term affidavit disclosure; nayi FIR/case/adalaati sthiti ki reporting nahi.
+// 18. DT Next, 12 Jul 2026 — Arakkonam junction train-info — REJECT: MLA ka naam tak nahi.
+// 19. DT Next, 3 Sep 2026 — Bengaluru-Chennai Expressway tender — REJECT: MLA ki bhoomika nahi.
+
+tamilNaduWorks['g-kapil'] = [
+  {
+    title: 'Sholinghur police ne 15 Aug 2026 ko TVK MLA G. Kapil aur unke bhai ke khilaf 27 July 2026 ko do patrakaron aur ek YouTuber ko hirasat me lekar pitne, phone cheenkar video delete karwane aur jaan se maarne ki dhamki ke aarop me BNS dharaon ke tehet case darj kiya; abhi tak giraftari ya adalaati faisle ki khabar nahi mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The South First, 20 Aug 2026',
+    sourceUrl: 'https://thesouthfirst.com/tamilnadu/tvk-mla-kapil-brother-booked-for-assaulting-journalists/',
+    date: '2026-08-20',
+    note: 'South First (article khud khola, 20 Aug 2026) ke anusar Sholinghur police ne 15 Aug 2026 ko BNS 296(b), 115(2), 351(2) ke tehet case darj kiya — shikayat patrakar T. Aranganathan ki thi, jinhone kaha ki 27 July 2026 ko Kapil, unke bhai G. Dhananjeyan aur 20+ samarthakon ne pehle YouTuber Siva ko ghar se pakadkar studio me pita, phir coverage karne aaye Dinakaran ke Aranganathan aur Dinamalar ke Kalyanasundaram ko bhi pita, unke phone cheenkar video delete karwaye aur jaan se maarne ki dhamki di; mamla Jana Nayagan film ki first-day screening ke baad ki takraar se juda tha. The News Minute (28 Jul 2026, khud khola) ne hirasat-pitai ki khabar ki pushti ki — dono ghayal pehle Sholinghur sarkari aspataal, phir Vellore ke private aspataal gaye, aur Ranipet Press Club ne SP se karyavahi ki maang ki. TOI (khud khola) ne bhi mamle ki pushti ki aur joda ki ek police sub-inspector par patrakaron ke phone cheenkar footage delete karne ka bhi aarop hai. FIR stage-sach hai; giraftari ya adalaati faisle ki koi khabar nahi mili; MLA ka jawab in khabron me nahi mila, isliye jawab-ke-bina darj hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (g-kapil, TVK, Sholinghur AC, Ranipet jila — scope: May 2026+)
+// 1. Chunav jeet ki reporting, 4-6 May 2026 — REJECT: kaam nahi.
+// 2. Wikipedia profile + MyNeta affidavit — REJECT: pre-term profile.
+// 3. TOI "TVK MLA-led group attacks journalists in Sholinghur" — REJECT as separate entry: wahi 27 July ka mamla, FIR entry me cover ho gaya.
+// 4. thehawknews.com — REJECT: non-established aggregator; wahi mamla established sroto se cover.
+// 5. Business Today / The Hindu / The Print, Sep 2026 — tyre factory shutdown demand — REJECT: GALAT VYAKTI; ye Ranipet AC MLA Thahira ka mamla hai.
+// 6. K. Vignesh (TVK minister, Coimbatore North) — REJECT: alag vyakti.
+// 7. Kapil Sibal (RS MP) — REJECT: alag vyakti.
+// 8. The Hindu, 11 Jun 2024 — Sholinghur piped water project — REJECT: pre-term.
+// 9. The Hindu, 25 Sep 2026 — sewage treatment plant virodh — REJECT: khabar me Kapil ka naam tak nahi.
+// 10. Sholinghur ropeway/temple articles (DT Next 2024, NIE 2022) — REJECT: pre-term.
+// 11. Tamil srot (Dinakaran/Dinamalar follow-up) — REJECT: English established reporting mil gaya; kaam ki khabar nahi.
+// 12. Extensive English searches — REJECT: koi lokarpan/shilanyas/swikriti/MLACDS work-order nahi mila; positive profile imaandari se khaali.
+
+tamilNaduWorks['thahira'] = [];
+
+// REJECT-LOG (thahira, TVK, Ranipet AC, Ranipet jila — scope: May 2026+)
+// 1. Assembly me JK Tyre plant band karne ki maang (The Hindu, 3 Sep 2026) — REJECT: sirf maang/prastav; negative bhi nahi (koi FIR/case nahi).
+// 2. Wahi item ki aur coverage (DT Next, Business Today, The Print, Oneindia) — REJECT: same maang.
+// 3. "Thozhil Valarchi" book release event — REJECT: YouTube-only srot + sirf maujoodgi, community ceremony.
+// 4. Ammoor water pipeline shilanyas — REJECT: karyakaal se pehle (R. Gandhi ne ki thi).
+// 5. Tata-JLR Panapakkam plant udghatan, Feb 2026 — REJECT: karyakaal se pehle + Thahira ki bhoomika nahi.
+// 6. Ranipet bypass/ROB projects — REJECT: pre-term ya highways vibhag ka kaam; MLA ki bhoomika nahi.
+// 7. YouTube shorts/Tamil reels — REJECT: YouTube-only; election-kahani.
+// 8. SEAT-WORK NATIJA: May-Oct 2026 me established English press me Ranipet seat par Thahira ki dastavezi bhoomika wali koi qualifying entry nahi mili.
+
+tamilNaduWorks['s-m-sukumar'] = [];
+
+// REJECT-LOG (s-m-sukumar, AIADMK, Arcot AC, Ranipet jila — scope: May 2026+)
+// 1. Chunav parinaam coverage, May 2026 — REJECT: kaam nahi.
+// 2. The Hindu candidate profile — REJECT: chunav-purv profile; affidavit ka 1 pending case (BNS 126(2)/189(2), Walajapet PS) established media me allegation/FIR-reporting ke bina — negative nahi.
+// 3. New Indian Express, 26 Sep 2026 — Sulur me pond-desilting me MLA par pathrao — REJECT: GALAT VYAKTI; wahan ke MLA N.M. Sukumar (TVK, Sulur, Coimbatore) hain.
+// 4. Mangalore Today, Nov 2022 — "Sukumar Shetty" Byndoor — REJECT: Karnataka ke vyakti.
+// 5. The Hindu, May 2022 — bus-services article me "Arcot MLA J.L. Eeswarappan" — REJECT: purane DMK MLA (2021-2026).
+// 6. lokmattimes Arcot corridor piece — REJECT: agency feed + Sukumar ka zikr nahi.
+// 7. Search natija: ~6 angles se May 2026 ke baad ka koi dastavezi kshetra-kaam nahi mila; profile imaandari se khaali.
+
+// COORDINATOR QA (Ranipet batch, 15 Oct 2026): 4/4 workers completed. Entries 2 (v-gandhiraj: Amma canteen udghatan, The Hindu khud khola, shrey-disclosure sahit; g-kapil: patrakar-pitai ka FIR-negative, South First/TNM/TOI teenon khud khole, stage-sach + jawab-na-mila disclose). Thahira/s-m-sukumar imaandari se khaali. QA fixes: g-kapil ka English-mishrit title poora Roman Hinglish me rewrite; thahira reject-log ka "MLADS-swkrti" typo sudhara. V. Gandhiraj IDENTITY TRAP se bache (Madurai/Food-portfolio wala "Minister Gandhiraj" alag vyakti). Hygiene: 0 Devanagari/Tamil script, 0 ₹ symbol, 0 literal-\n; entry objects me 0 comments; period '2026-2031' sab me; marker 1x; append se pehle sabhi 4 slugs file me 0 matches. Push/deploy nahi kiya (parent ke nirdesh).
