@@ -1263,3 +1263,125 @@ biharWorks['md-zama-khan'] = [
 // Galat vyakti/sthan: LiveHindustan Chainpur-Uldanda road = Palamu, Jharkhand (MLA Alok Chaurasia); YouTube Bharat Samvad Lohara road = Dr. Anil Kumar Maurya + YouTube-only; muznews Nalanda school = kshetra-bahar (mantri ki state-level bhoomika).
 
 // Coordinator QA note: worker ke fragment me scaffolding-style header lines thi (sab remove ki gayi hain, entry-objects me koi comment nahi); zama entries ki hygiene verify — zero Devanagari, zero rupee-symbol, zero escaped-newline; sangita-kumari ki vetan-daan entry coordinator ne HATA di (Pappu Kumar Verma precedent); 4/4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 67 -> 69 (+2).
+
+// ---- Katihar district batch (researched 2026-10-14) ----
+
+biharWorks['tarkishore-prasad'] = [
+  {
+    title: 'Sadar prakhand ke Sirniyan Purab panchayat ke Dhari ghat me Mukhyamantri Kshetra Vikas Yojana se Rs 11 lakh ki lagat se bane pakke Chhath ghat ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'GS News (Katihar), 10 Jun 2026',
+    sourceUrl: 'https://www.gs-news.in/11-lakh-ki-lagat-se-banaa-chhath-ghat-ka-lokaparn-shradhaluon-ko-mile-suvidha/',
+    date: '2026-06-10',
+    note: 'Sadar (Katihar) prakhand ki Sirniyan Purab panchayat ke Dhari ghat me Mukhyamantri Kshetra Vikas Yojana (MKVY, yani vidhayak nidhi — MP fund nahi) ke tahat Rs 11 lakh ki lagat se nirmit pakke Chhath ghat ka vidhayak Tarkishore Prasad ne shilapatt anavaran kar lokarpan kiya; isse Chhath vratiyon aur shradhaluon ko pukhta ghat ki suvidha milegi. Stage: lokarpan (nirman purn). Disclosure: GS News ek sthaniya Katihar portal hai; vidhayak ki bhumika lokarpan charan me rahi, swikriti/kaam vidhayak nidhi-MKVY se vibhag dwara karaya gaya.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Katihar prakhand me Chhitabadi-Sonali road se PMGSY road tak via Sarbasa, Naya Tola, Lohar Tola, Dighi Tola Rs 5.38 crore ki lagat se lagbhag 5 km path ke sudridhikaran karya ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 12 May 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/katihar/story-construction-launch-for-5-km-road-in-katihar-by-former-deputy-cm-tarkishore-prasad-201778602253159.html',
+    date: '2026-05-12',
+    note: 'Katihar vidhansabha kshetra ke Katihar prakhand me Chhitabadi-Sonali road se PMGSY road tak via Sarbasa, Naya Tola, Lohar Tola aur Dighi Tola lagbhag 5 km lambe path ke sudridhikaran karya (lagat lagbhag Rs 5.38 crore) ka shilanyas vidhayak Tarkishore Prasad ne nariyal phodkar aur shilapatt anavaran karke kiya. Stage: shilanyas (karyarambh) — nirman purnata ki alag khabar nahi mili. Disclosure: tithi search-engine publish timing se anumanit hai (12 May 2026 est.); article me yojna ka naam spasht nahi tha — yeh vibhagiya sadak karya hai, jiske shilanyas charan me vidhayak kendriya bhoomika me the.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bhawara panchayat me Dalan-Padampur PMGSY path par Hanuman Mandir se Naya Tola, Haveli Tola hote hue Rampur rail gumti tak Rs 1.36 crore ki lagat se lagbhag 2 km path ke sudridhikaran-kalikaran karya ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 14 May 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/katihar/story-strengthening-of-roads-in-katihar-former-deputy-cm-unveils-development-project-201778779756817.html',
+    date: '2026-05-14',
+    note: 'Katihar vidhansabha kshetra me Mukhyamantri Gramin Sadak Sudridhikaran evam Prabandhan Yojana ke tahat Bhawara panchayat ke Dalan-Padampur PMGSY path par Hanuman Mandir se Naya Tola, Haveli Tola hote hue Rampur rail gumti tak lagbhag 2 km vibhagiya path ke sudridhikaran-kalikaran karya (lagat Rs 1.36 crore) ka shilanyas vidhayak Tarkishore Prasad ne kiya. Stage: shilanyas (karyarambh) — nirman purnata ki alag khabar nahi mili. Disclosure: tithi search-engine publish timing se anumanit hai (14 May 2026 est.); yeh rajya-sarkar ki yojna ka vibhagiya karya hai — vidhayak ne shilanyas kiya, swikriti/kaam vibhag ka tha.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (tarkishore-prasad):
+// 1. Live Hindustan 29 Jan 2026, Sampoornata Abhiyan-2.0 ka Vikas Bhavan me shubharambh (DM ke saath) — sirf sarkari abhiyan ka udghatan, seat-work nahi, reject.
+// 2. Live Hindustan ~Jun 2026, Durga mandir ke peeche jarrar sadak-nala ka nirikshan + Viada MD ko phone-nirdesh — sirf nirikshan/nirdesh, koi stage nahi, reject.
+// 3. Amar Ujala 12 Mar 2026, CM Nitish Kumar ki Samriddhi Yatra: Katihar me 443 yojnaon (Rs 409 crore) ka udghatan-shilanyas — vidhayak sirf maujood the, CM event me maujoodgi, reject.
+// 4. Zee News (Dy-CM era, 2021), krtrim ang pratyropan shivir udghatan — karyakaal-se-pehle, reject.
+
+biharWorks['dulal-chandra-goswami'] = [];
+
+// REJECT-LOG (dulal-chandra-goswami):
+// 1. Bhaskar ~Aug 2026, Dandkhora ke Raipur panchayat me Panchayat Vikas Diwas me maujoodgi + vikas-yojnaon par charcha — sirf karyakram me maujoodgi, koi kaam-stage nahi, reject.
+// 2. Live Hindustan ~Apr 2026, Kadwa prakhand ke 3 uchch vidyalayon me vidyalay prabandh samiti gathan ki baithak (adhyakshata + manonayan) — sirf baithak, vikas-kaam nahi, reject.
+// 3. YouTube (Main Media shorts) ~Jul 2026, Kadwa me up-nibandhan karyalay ki sthapna ki maang — YouTube-only + sirf maang, reject.
+// 4. YouTube, Katihar MP ke roop me ~Rs 34.10 crore shilanyas — MP-era (2019-2024), karyakaal-se-pehle, reject.
+// 5. cityhalchal.in Oct 2026, janmadin samaroh — samajik karyakram, kaam nahi, reject.
+// 6. Election-result coverage Nov 2025 (ETV Bharat, News18, Live Hindustan, Indian Express) — kaam-khabar nahi, reject.
+// PROFILE: imaandari se khaali — Dulal Chandra Goswami (Kadwa AC-64) ke Nov 2025 ke baad ke karyakaal ka news me koi shilanyas/lokarpan/swikriti ya pramanik vikas-kaam nahi mila; sirf baithaken, maujoodgi aur maangen mili.
+
+biharWorks['sangita-devi'] = [
+  {
+    title: 'Barsoi me Bhag Barsoi PWD sadak se Upgraded Girls School Barsoi tak lagbhag 1350 meter PCC-pitching sadak ka shilanyas, anumaanit lagat Rs 1.51 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 8 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/katihar/story-construction-launched-for-new-road-in-barsoi-by-mla-sangeeta-devi-201772910847452.html',
+    date: '2026-03-08',
+    note: 'Hindustan Katihar correspondent ki post-event report: Balrampur vidhayak Sangita Devi ne Bhag Barsoi PWD sadak se Upgraded Girls School Barsoi tak lagbhag 1350 meter lambi, 12 foot 4 inch chaudi PCC-pitching sadak ka vidhivat shilanyas kiya; anumaanit lagat lagbhag Rs 1.51 crore. Thekedar Sunil Vishwas aur junior engineer Vikas Kumar ne akhbaar ko bataya ki nirman shuru ho gaya hai aur monsoon se pehle poora karne ka lakshya hai. Vidhayak ke anusaar is sadak se Barsoi bazaar, Abadpur aur Azamnagar ke Salmari-Nauranga ka aana-jaana aasaan hoga; sthaniya logon ne ise lambe samay ki maang bataya. Vyakti-pehchan: Katihar/Balrampur ki LJP-RV vidhayak — Barsoi unke kshetra ke do prakhandon me se ek hai — Mohania/Kaimur wali Sangita Kumari se alag vyakti. Stage: shilanyas (karyarambh) — nirman purnata ki alag khabar nahi mili.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sangita-devi):
+// 1. livehindustan.com, 11 Jan 2026 — CM Nitish Kumar se Patna me shishtachar bhet me vikas maangen (infra, shiksha, swasthya, pul) — sirf maang/prastav, reject.
+// 2. livehindustan.com, ~Jun 2026 — Path Nirman Mantri Kumar Shailendra se Gwaltoli Chowk-Kushida pul sadak aur Balrampur-Telta road widening ki maang — sirf maang, mantri ka keval aashwasan, reject.
+// 3. livehindustan.com, ~Sep 2026 — CM Samrat Choudhary se sadak/swasthya/bijli maangen — sirf aashwasan, reject.
+// 4. livehindustan.com, 17 Oct 2025 — CM ko maang-patra — karyakaal-se-pehle, reject.
+// 5. public.app video, Nov 2025 — chunav ke baad vidhan sabha pahunchna — public.app-only + kaam nahi, reject.
+// 6. YouTube videos (chunav jeet clip, PHC visit short) — YouTube-only, reject.
+// 7. khulasaindia.com, ~Oct 2026 — "Balrampur Rs 803 crore" — ye UTTAR PRADESH ka Balrampur jila (CM Yogi Adityanath), galat sthan, reject.
+// 8. amarujala.com, 12 Mar 2026 — CM Nitish Katihar Rs 409 crore event — sirf maujoodgi, reject.
+
+biharWorks['nisha-singh'] = [];
+
+// REJECT-LOG (nisha-singh):
+// 1. livehindustan.com, 8 Sep 2025 — Khuriyal Dakshin Tola-Khuriyal stand road shilanyas (Mukhyamantri Gram Sampark Yojana) — karyakaal-se-pehle (wahi MLA lekin purana tenure), reject.
+// 2. public.app video, ~Sep 2026 — Maniya-Kuretha road shilanyas — public.app-only source, reject.
+// 3. livehindustan.com, 19 Jan 2026 — Munshi Lal Mandal Uchch Vidyalaya Bastaul 65th foundation day, chief guest — sirf maujoodgi, reject.
+// 4. livehindustan.com, ~Sep 2026 — Azamnagar CHC me anemia-awareness program ka nirikshan — sirf nirikshan, reject.
+// 5. publicnews24.co.in, ~Dec 2023 — do schools me boundary wall+gate shilanyas, Rs 15 lakh each MKVY — purana tenure, reject.
+// 6. amarujala.com, 12 Mar 2026 — CM Nitish Katihar Rs 409 crore event — sirf maujoodgi, reject.
+// 7. navbharattimes, ~Sep 2026 — badh-peedit remark par RJD ka viral-video vivad — koi FIR/case nahi, negative threshold fail, reject.
+// 8. prabhatkhabar.com, ~Jul 2026 — Kuretha damaged-road story (contractor Trimurti Infracon) — MLA ki koi bhumika nahi, reject.
+// 9. COORDINATOR REJECT — Live Hindustan, ~2 Jun 2026 (est.): Salmari Somwari Hatiya ke paas Shiv mandir ka bhoomi-pujan/shilanyas; mandir lok-sahyog (community-funded) se ban raha hai, sarkari/vidhayak-nidhi paisa nahi, vidhayak ki bhoomika sirf ceremonial — sthapit precedent (shubhanand-mukesh: Panchmukhi Hanuman mandir udghatan — samuday-nirmit, vidhayak sirf atithi, reject; mithilesh-tiwari: community-funded Shiv mandir shilanyas, reject; devanti-yadav: shiv mandir puja — dharmik karyakram, kaam nahi, reject) par dharmik karyakram, vikas-kaam nahi — reject. Worker ki entry hata di gayi.
+// PROFILE: imaandari se khaali — Nisha Singh (Pranpur AC-66) ke Nov 2025 ke baad ke karyakaal ka news me koi pramanik vikas-kaam validate nahi ho saka; jo mila wo pre-tenure, sirf maang/nirikshan/maujoodgi, ya community-funded dharmik karyakram tha.
+
+biharWorks['manohar-prasad-singh'] = [];
+
+// REJECT-LOG (manohar-prasad-singh):
+// 1. Lokmat Times, 25 Mar 2026 — 2026 Rajya Sabha voting me absent rehne par Congress disciplinary notice ka jawab (AIMIM-Mahagathbandhan understanding par virodh) — party-politics/disciplinary matter, koi constituency work nahi, reject.
+// 2. 9 query rounds (Hindi + English, vidhayak-nidhi/MKVY keywords) — Manihari ST AC-67 me Nov 2025 ke baad koi udhghatan/shilanyas/swikriti ka news report nahi mila, reject.
+// PROFILE: imaandari se khaali — opposition INC MLA; current tenure me koi concrete constituency work ka news record nahi mila, sirf party-politics coverage mili.
+
+biharWorks['bijay-singh'] = [];
+
+// REJECT-LOG (bijay-singh):
+// 1. NewIndianExpress/ANI via LatestLY/WebIndia123/Daijiworld, 13 Sep 2026 — Mohna Chandpur me badh-peediton ka Barari MLA Bijay Singh aur minister ka gherao; sarpanch Mohd Irshad ka relief-vitran me bhedbhav/dhamki ka aarop, minister ne political motive bataya — koi FIR/case/court/inquiry status nahi, sirf complaint-level allegation, negative entry threshold fail, reject.
+// 2. YouTube videos (KBC News Katihar jaise channels) — YouTube-only / MLA-work attribution nahi, reject.
+// 3. Patna Press stories (CM Nitish Katihar projects, Rs 405.53 cr, ~2024) — CM event me sirf attendee + pre-tenure, reject.
+// 4. Election previews/affidavit coverage (Asianet Newsable, India TV, The Hindu) — campaign coverage, reject.
+// 5. 9 query rounds (Hindi + English, shilanyas/udhghatan/sadak/school/vidhayak-nidhi keywords) — Barari AC-68 me Nov 2025 ke baad koi qualifying work report nahi mila (identity verified: Katihar/Barari JD(U) MLA, kisi dusre state/MLC se confusion nahi), reject.
+// PROFILE: imaandari se khaali — current tenure me koi concrete constituency work ka news record nahi mila.
+
+biharWorks['kavita-devi'] = [];
+
+// REJECT-LOG (kavita-devi):
+// 1. LiveHindustan, Aug 2025 — Gedabadi (Korha Nagar Panchayat) me Mukhyamantri Shahri Samagra Vikas Yojana ke tahat BUIDCo dwara Rs 30,10,149 pul ka shubharambh — karyakaal-se-pehle (wahi MLA lekin purana tenure), reject.
+// 2. LiveHindustan, 22 Mar 2025 — Hijra Milik gaon me pul nirman ki maang vidhan sabha me — pre-tenure + sirf maang, reject.
+// 3. LiveHindustan, ~Jun 2026 — Basgadha panchayat me Panchayat Sahyog Shivir ka jayaza — sirf nirikshan, reject.
+// 4. Amar Ujala, 12 Mar 2026 — CM Nitish Samriddhi Yatra Katihar — sirf maujoodgi, reject.
+// 5. cityhalchal.in, Jun 2026 — Disha baithak me sadak/pani/shiksha mudde uthaye — sirf maang/sujhav, reject.
+// 6. YouTube shorts (MainMediaVideos) — mela udghatan x2 + sadak chaudikaran/nadi kataav maang — YouTube-only + maang/mela, reject.
+// 7. ETV Bharat, 4 Apr 2022 — MLC chunav aachar-sanhita FIR — pre-tenure + kaam nahi, reject.
+// 8. public.app, ~Aug 2026 — Shivpuri BJP workers meeting — public.app-only + party meeting, reject.
+// 9. Election-result reports (pinewz/Jagran/News18/NDTV, Nov 2025) — election coverage, reject.
+// PROFILE: imaandari se khaali — Nov 2025 ke baad ke tenure me koi lokarpan/shilanyas/swikriti ya poorn kaary ki pusht reporting nahi mili; jo mili wo pre-tenure, sirf maang/nirikshan, ya YouTube-only thi.
+
+// Coordinator QA note (Katihar district batch, researched 2026-10-14): 4 parallel workers (A: tarkishore+dulal, B: sangita+nisha, C: manohar+bijay, D: kavita); charon fragments coordinator ne khud padhkar QA kiya. Worker B ki sangita-devi entry English me thi — Roman-Hinglish me convert ki (srot-tathya aparivartit). Nisha Singh ki mandir-bhoomi-pujan entry coordinator ne HATA di: Live Hindustan (~2 Jun 2026 est.) ka Shiv mandir shilanyas lok-sahyog se ban rahe community-funded mandir ka dharmik karyakram tha, sarkari/vidhayak-nidhi paisa nahi, vidhayak ki bhoomika sirf ceremonial — sthapit precedent (shubhanand-mukesh: samuday-nirmit Panchmukhi Hanuman mandir udghatan reject; mithilesh-tiwari: community-funded Shiv mandir shilanyas reject; devanti-yadav: shiv mandir puja — dharmik karyakram reject) par vikas-kaam nahi; profile imaandari se khaali. Highest-risk sources coordinator ne khud khole: Live Hindustan sangita-devi road shilanyas (8 Mar 2026) aur tarkishore-prasad 5 km road shilanyas — dono ke tathya (lambai, lagat, thekedar/JE naam) worker reports se milte hain. Tarkishore entry-2/3 ki tithiyan search-timing se est. (note me disclosed); entry-1 ka GS News sthaniya-portal disclosure note me hai. Sabhi 7 slugs pehle khaali the — koi overwrite nahi. Kul titles: 69 -> 73 (+4).
