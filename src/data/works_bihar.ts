@@ -3761,3 +3761,33 @@ biharWorks['dr-kumar-puspanjay'] = [];
 
 
 // COORDINATOR QA (Sheikhpura): 2 workers (A: AC-169 Soni, B: AC-170 Puspanjay) ke fragments ko AC order 169->170 me merge kiya. Kul 0 entries — dono profiles imaandari se khaali. A-fragment: 16 reject-items (CM/MP karyakramon me sirf maujoodgi, public.app-only, pre-term items, galat-vyakti Sudarshan Kumar trap alag rakha, aspatal-bawaal me MLA par koi aarop/FIR nahi). B-fragment: 7 reject-items (Vishnudham Mahotsav ceremonial dharmik + future vaade, Disha-baithak sirf upasthiti, sadan me sirf maang). Dono slugs pehle maujood nahi the — koi overwrite nahi; marker 1x; 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; reject-logs Roman Hinglish; sourceUrls canonical.
+
+// ---- Sheohar district batch (researched 2026-10-14) ----
+
+biharWorks['shweta-gupta'] = [
+  {
+    title: 'Sitamarhi ring-baandh sadak chaudikaran ke dauran prashasan ne Samaj Kalyan mantri Shweta Gupta ke awas aur nursing home ki atikramit boundary wall ka hissa hataya; unke pati ne prashasnik karyavahi batakar poora sahyog diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 7 Jun 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/video-bulldozer-action-on-residence-hospital-of-samrat-minister-shweta-gupta-illegal-occupation-of-dam-land-201780845322288.html',
+    date: '2026-06-07',
+    note: 'Samaj Kalyan mantri Dr. Shweta Gupta (JD(U) vidhayak, Sheohar AC-22) tatha unke pati Dr. Varun Kumar ke awas aur nursing home ki boundary wall ka atikramit hissa (bhoomi-maapi me lagbhag 2 feet sadak ki jadd me paya gaya) Sitamarhi ring-baandh sadak chaudikaran pariyojna ke tahat atikraman-hatoo abhiyan me prashasan ne hataya; kul 91 chinhit sthalon par karyavahi hui. Koi FIR ya aapradhik mamla darj hone ki reporting nahi hai. Neta ka jawab darj hai: pati Dr. Varun Kumar ne ise prashasnik karyavahi bataya aur poora sahyog diya, aur kaha ki chinhit hissa hatakar nayi boundary wall banayi ja rahi hai. Stiti: prashasnik karyavahi poorn, dosh-siddhi ya muqadme ka daava nahi hai. Mantri hone ke baad bhi ye vyaktigat sampatti par prashasnik karyavahi ka mamla hai, isliye record me rakha gaya hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (Shweta Gupta, JD(U), Sheohar AC-22 — karyakaal 14 Nov 2025 se; 7 May 2026 se Samaj Kalyan mantri — mantri-niyam ke tahat sirf seat-vishisht kaam maanya, vibhag ke rajya-faisle bahar):
+// 1. CM Nitish Kumar se mulakat (Jan 2026, Live Hindustan) — sirf mulakat aur vikas-maangen, koi documented kadam nahi — REJECT: sirf maang.
+// 2. Shivhar Filaria Free Campaign appeal (Feb 2026, Bhaskar) — swasthya vibhag ki rajya-stariya yojna ka prachar, unka vyaktigat seat-kadam nahi — REJECT: state program.
+// 3. Jarrar sadak ka mudda (YouTube-only, Sitamarhi media) — YouTube-only srot — REJECT: rejected source; vaise bhi sirf maang.
+// 4. Sheohar Flood/Sukhad review meeting (YouTube-only) — sirf nirikshan/samisha, YouTube-only — REJECT.
+// 5. "62 gramin sadken sheeghra" (YouTube-only) — bhavishya vaada + YouTube-only — REJECT.
+// 6. Krishi mela udghatan (YouTube-only) — event udghatan, rejected source — REJECT.
+// 7. Bulldozer videos (newzindia24/Bihar Tak, YouTube) — Live Hindustan ka text version mila, wahi upar entry ka srot hai; YouTube versions srot-niyam se bahar.
+// 8. Chunav coverage (Amar Ujala, News18, Oneindia), assets photogallery (News18, Oct 2025) — kaam nahi — REJECT.
+// 9. Mantri niyukti coverage (Patna Press, Zee News, Tennews/IANS, Live Hindustan) — rajya-stariya niyukti, seat-kaam nahi — REJECT.
+// 10. Social Welfare vibhag ke faisle (pension vitaran, JEEViKA, Seven Resolves-3 — impressivetimes, indianmasterminds) — mantri-bhoomika ke rajya-faisle — REJECT.
+// 11. Positive works: established/local media me ab tak koi shilanyas/lokarpan/swikriti (GO ke saath)/complete report nahi mili — 0 positive entries.
+
+// COORDINATOR QA (Sheohar): 1 MLA ka research direct kiya (district chhota tha, workers nahi lagaye). Kul 1 entry (1 negative) — positive profile imaandari se khaali. Shweta Gupta Samaj Kalyan mantri hain (7 May 2026 se) isliye sabse sakht mantri-niyam lagaya: seat-vishisht satyapit kaam kuch nahi mila. Bulldozer entry Live Hindustan ki text-report par rakhi (YouTube-only versions ko nahi gina); article me "raviwar" likha tha aur 7 Jun 2026 Sunday hai, isliye date wahi rakhi. Slug pehle maujood nahi tha — koi overwrite nahi; marker 1x; 0 Devanagari, 0 rupee-symbol, 0 literal \n entry object me; title Roman-Hinglish vakya; currency "Rs"; period '2025-2030'; sourceUrl canonical livehindustan.com khud khola gaya.
