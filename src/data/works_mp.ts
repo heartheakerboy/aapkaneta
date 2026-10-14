@@ -4608,3 +4608,101 @@ mpWorks['pranay-prabhat-pandey-guddu-bhaiya'] = [
 // 12. News18 bus-driving viral video — REJECT: irrelevant (kaam se sambandh nahi).
 // 13. newsonair: CM dwara Bahoriband lift micro-irrigation project (May 2024, Rs 1011 cr) — REJECT: CM ki rajya-pariyojna; vidhayak ki concrete bhoomika article me nahi.
 // 14. Business Standard/ABP candidate profiles — REJECT: election data, works nahi.
+
+// ---- Khandwa district batch (researched 2026-10-14) ----
+// Khandwa batch — narayan-patel (Mandhata AC-175, BJP), kunwar-vijay-shah (Harsud ST AC-176, BJP, Janjatiya Karya cabinet mantri), kanchan-mukesh-tanve (Khandwa SC AC-177, BJP), chaya-more (Pandhana ST AC-178, BJP).
+// NOTE: narayan-patel ke liye koi pass hone wali entry nahi mili (profile imaandari se khaali rahegi) — unko koi empty array nahi diya gaya.
+
+mpWorks['kunwar-vijay-shah'] = [
+
+  {
+    title: 'Harsud ke Jamni Gurjar me Rs 2.20 crore ke senior kanya chhatravas bhawan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Pawan City (Khandwa local portal), 20 Sep 2025',
+    sourceUrl: 'https://pawancity.com/minister-shah-inaugurated-the-hostel-building-and-worshiped-the-land-for-the-construction-work-of-cc-road/',
+    date: '2025-09-20',
+    note: 'Lokarpan stage — naya senior kanya chhatravas bhawan (Jamni Gurjar, Harsud AC) Rs 2.20 crore lagat se poorn hokar bana; mantri ne swayam phita kaatkar lokarpan kiya. Fund-srot news me spasht nahi (shasakiya/janjatiya vibhaagiya yojana sambhav); vidhayak-nidhi hone ka dawa report me nahi. Mantri-role disclosure: ye inke apne kshetra aur inke vibhaag se juda kaam hai, lekin rajya-stariya vibhaagiya faisla nahi. Source chhota local portal hai, disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Harsud ke Jamni Gurjar me kanya shiksha parisar tak Rs 40 lakh ki CC pahunch-sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Pawan City (Khandwa local portal), 20 Sep 2025',
+    sourceUrl: 'https://pawancity.com/minister-shah-inaugurated-the-hostel-building-and-worshiped-the-land-for-the-construction-work-of-cc-road/',
+    date: '2025-09-20',
+    note: 'Shilanyas/bhoomi-pujan stage — Jamni Gurjar (Harsud AC) me mukhya marg se kanya shiksha parisar tak lagbhag Rs 40 lakh lagat ki cement-concrete pahunch sadak ka bhoomi-pujan mantri ne swayam kiya. Fund-srot report me spasht nahi; vidhayak-nidhi hone ka dawa nahi. Mantri-role disclosure: kshetra aur vibhaag dono se juda kaam, rajya-stariya faisla nahi. Source chhota local portal hai, disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Harsud ke Rajur me kanya shiksha parisar ke liye CC pahunch-sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Pawan City (Khandwa local portal), 20 Sep 2025',
+    sourceUrl: 'https://pawancity.com/minister-shah-inaugurated-the-hostel-building-and-worshiped-the-land-for-the-construction-work-of-cc-road/',
+    date: '2025-09-20',
+    note: 'Shilanyas/bhoomi-pujan stage — gram Rajur (Harsud AC) me kanya shiksha parisar ke liye cement-concrete pahunch sadak ka bhoomi-pujan mantri ne swayam kiya (SDM bhi maujood the). Lagat report me nahi di gayi; fund-srot vidhayak-nidhi hone ka dawa nahi. Mantri-role disclosure: kshetra se juda kaam. Source chhota local portal hai, disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Harsud ke Roshni gaon me Rs 1.36 crore ke integrated farming cluster ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Krishak Jagat, 6 Jan 2026',
+    sourceUrl: 'https://www.krishakjagat.org/news/the-lakhpati-didi-concept-is-becoming-a-reality-in-khandwa-district/',
+    date: '2026-01-06',
+    note: 'Shilanyas/bhoomi-pujan stage — Pradhan Mantri Matsya Sampada Yojana ke tahat swikrit lagbhag Rs 1.36 crore ke integrated farming cluster (pond biofloc, 7 biofloc tanks, cage culture) ka bhoomi-pujan gram Roshni, Khalwa block (Harsud AC) me mantri ne swayam kiya. Yojana ka naam aur vibhaag spasht hai; report me kendriya GO/adesh quoted nahi isliye stage bhoomi-pujan hi rakha. Mantri-role disclosure: kendriya/rajya yojana ka project hai, lekin karyakram inke Vidhan Sabha kshetra me inke dwara kiya gaya. Hindusthan Samachar ne bhi isi event ki report di thi (2 Jan 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Col Sofiya Qureshi par vivadit bayan ke mamle me FIR, SC-SIT jaanch aur maafi — abhiyojan-swikriti pending',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rediff, 31 Aug 2026',
+    sourceUrl: 'https://www.rediff.com/news/report/remarks-on-col-sofiya-sanction-awaited-to-prosecute-mp-minister-sc-told/20260831.htm',
+    date: '2026-08-31',
+    note: 'Negative entry. Aarop: Operation Sindoor ke baad 11 May 2025 ko Raikunda (Indore) me Col Sofiya Qureshi par vivadit tippani (video par). Karwai: MP High Court ne suo motu cognisance lekar FIR ka aadesh diya, FIR Manpur thana (Mhow) me darj hui; Supreme Court ne SIT gathit ki, SIT jaanch poorn, report sealed cover me. Neta ka jawab: Shah ne sarvajanik roop se khed vyakt kiya; lekin court ne July 2025 me maafi record par na hone par fatkaar lagayi. Status (31 Aug 2026): chargesheet ke liye competent authority se abhiyojan-swikriti pending; SC ne mamla sthagit kiya. Ye court-adhaarrit vivad hai, party-virodh nahi; nirdoosh/doshi koi nishkarsh na nikala jaye.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['kanchan-mukesh-tanve'] = [
+
+  {
+    title: 'Khandwa me Rs 8.43 crore ke 11 shahari vikas karyaon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 15 Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com:443/local/mp/khandwa/news/khandwa-mla-kanchan-tanve-bjp-controversy-development-inauguration-138452401.html',
+    date: '2026-07-15',
+    note: 'Stage bhoomi-pujan/shilanyas hai, kaam poore nahi hue. Bhaskar ke mutabik budget vidhayak ke liye reserve vishesh CM adhosanrachna mad se swikrit tha. Credit-spashtata: mahapaur ne CM ko shrey diya, vidhayak ne dawa kiya ki unki vishesh nidhi se swikrit karakar CM ne manzoori di; vibhagiya swikriti-dastavej ka independent saboot article me nahi. Karyaon me Ram eshwar kund aur Padamkund jeernoddhar, muktidham soundaryikaran, mandiron aur purane bus stand ka soundaryikaran, CC road, tin shade aur bagicha shamil. Isme koi sansad-nidhi nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khandwa me vidhayak-nidhi se Rs 5 lakh ke tin shed ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Trilok Drishti, 19 Sep 2026',
+    sourceUrl: 'https://trilokdrishti.com/?p=364817',
+    date: '2026-09-19',
+    note: 'Tin shed bankar taiyaar, lokarpan ho chuka — stage poora hai; chhote local portal ki report hai, disclosure. Vidhayak ne bataya ki Gurav Samaj ke vikas karyaon ke liye kul Rs 10 lakh swikrit kiye gaye hain (5 lakh tin shed, 3 lakh CC road, 2 lakh nali) — ye unka apna dawa hai; CC road aur nali ke kaam shuru ya poore hone ka saboot report me nahi. Isme koi sansad-nidhi shamil nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['chaya-more'] = [
+
+  {
+    title: 'Pandhana kshetra ki 20 gram panchayaton ko vidhayak-nidhi se 5500-litre GI paani tanker ka vitran',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jun 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com:443/local/mp/khandwa/pandhana/news/approval-certificates-were-presented-to-the-beneficiaries-and-tankers-were-presented-to-10-panchayats-dbp-138196011.html',
+    date: '2026-06-14',
+    note: '12-14 June 2026 ko janpad panchayat Pandhana ke jankalyan shivir ke samapan par vidhayak Chaya More ne janpad ki 10 gram panchayaton (Balrampur, Diwal, Makarla, Nankheda, Anjangaon, Rajgarh Diwal, Rajgarh Singot, Pabai Khurd, Jamli Kala, Piploud Khas) ko paani tanker saupe; Nai Dunia ke mutabik ye vidhayak kshetra vikas nidhi se 20 panchayaton ko diye gaye 5500-litre GI tanker ka hissa tha (Chhegaonmakhan janpad ki 10 panchayaton ko pehle vitrit, Pandhana ki 10 ko 14 June ko). Tankeron ka sanchalan-rakhrakhav gram panchayaton ke paas rahega. Status: vitran poora. Disclosure: kul rashi ka aankda article me nahi tha; tithi Nai Dunia ke usi event ke 14 Jun 2026 ank se cross-check karke li gayi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG Khandwa: narayan-patel — CM-karyakram maujoodgi (FPJ Oct 2026), public.app-only, sirf maang/gyapan, sirf bayaan (99 noto), temple-nidhi ghotala-aarop (Bhaskar 403 — khud verify nahi ho paya, imaandari se reject), pre-term, blogspot-only, YouTube-only, 14 PWD swikrit kaam (dastavezi bhoomika nahi); vijay-shah — CM 18-works maujoodgi, hospital lokarpan maujoodgi, PM Modi VC package maujoodgi, public.app-only, pre-term Vikas Parv, Khandwa-city ghoshna, bhashan-daave (roti-machines, college buses, aur chhatravas/fencing ghoshna), Vikas Yatra prachaar, panchayat-audit 2019-24, missing posters, Chhanera blogspot; kanchan-tanve — YouTube-only (Rs 432cr lift), ring road swikriti YouTube-only, CM Harsud karyakram maujoodgi, nirikshan/dauare, sirf maang (reject ho gayi), PM College ribbon-cut (bhoomika nahi), bina-case Pandhana-road shrey vivaad, MLA-mahapaur khinchtan, Trilok News tanker (fetch fail — verify nahi ho paya); chaya-more — maang/gyapan, self-reported report-card dawa (46 sadaken/52 pul/Rs 199cr — bina GO), CM ki Rs 301cr sinchai pariyojna (bhoomika nahi), bus stand aadhaarshila (CM), Sandipani shubharambh (CM), YouTube-only nirikshan, hospital visit, ICU health news, Praneet More (galat vyakti), CM-daure ki taiyari.
