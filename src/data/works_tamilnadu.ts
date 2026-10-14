@@ -2741,3 +2741,200 @@ tamilNaduWorks['s-m-sukumar'] = [];
 // 7. Search natija: ~6 angles se May 2026 ke baad ka koi dastavezi kshetra-kaam nahi mila; profile imaandari se khaali.
 
 // COORDINATOR QA (Ranipet batch, 15 Oct 2026): 4/4 workers completed. Entries 2 (v-gandhiraj: Amma canteen udghatan, The Hindu khud khola, shrey-disclosure sahit; g-kapil: patrakar-pitai ka FIR-negative, South First/TNM/TOI teenon khud khole, stage-sach + jawab-na-mila disclose). Thahira/s-m-sukumar imaandari se khaali. QA fixes: g-kapil ka English-mishrit title poora Roman Hinglish me rewrite; thahira reject-log ka "MLADS-swkrti" typo sudhara. V. Gandhiraj IDENTITY TRAP se bache (Madurai/Food-portfolio wala "Minister Gandhiraj" alag vyakti). Hygiene: 0 Devanagari/Tamil script, 0 ₹ symbol, 0 literal-\n; entry objects me 0 comments; period '2026-2031' sab me; marker 1x; append se pehle sabhi 4 slugs file me 0 matches. Push/deploy nahi kiya (parent ke nirdesh).
+
+// ---- Salem district batch (researched 2026-10-15) ----
+
+tamilNaduWorks['nallathambi-a'] = [
+];
+
+// REJECT-LOG (nallathambi-a, AIADMK, Gangavalli AC):
+// 1. The Hindu election profile (https://www.thehindu.com/elections/candidates/Tamilnadu2026/nallathambi-a-296/) — affidavit me 3 pending criminal cases (0 serious) — REJECT: affidavit case-count akela qualifying negative nahi.
+// 2. Organiser, 26 Sep 2026 — Thiruparankundram Deepam case me protester "Nallathambi" ke khilaf FIR quashed (Madras HC) — REJECT: galat vyakti (Madurai ka Hindu Munnani protester, Gangavalli MLA nahi).
+// 3. DT Next / New Indian Express, Jan 2022 — job scam me "K Vijaya Nallathambi" ki giraftari — REJECT: galat vyakti (AIADMK functionary, Virudhunagar) + pre-term.
+// 4. Times of India, Coimbatore — 24 saal se faraar "M Nallathambi" murder accused giraftar, Umblikkampatti, Salem — REJECT: galat vyakti (2000 ka extramarital affair murder case, MLA nahi).
+// 5. New Indian Express, Jul 2019 — Karur me "Vandu alias Nallathambi" ki hatya — REJECT: galat vyakti + pre-term.
+// 6. New Indian Express, 05 Mar 2026 — AMRUT 2.0 me Gangavalli drinking water project Rs 18.89 crore ka CM Stalin ne lokarpan kiya — REJECT: pre-term (May 2026 se pehle) + rajya sarkar ka karyakram, MLA ka koi concrete kadam nahi.
+// 7. The Hindu (scoopfeeds mirror), 13 Oct 2026 — Mangalam Falls tak 1.1 km nayi sadak, Rs 2.09 crore, Gangavalli Panchayat Union, CM Rural Road Scheme 2025-26 — REJECT: khabar me MLA Nallathambi ka naam/zikr nahi, MLA ki bhoomika ka saboot nahi.
+// 8. MENAFN, 12 Jul 2026 — Attur ke paas Ambedkar statue row par police deployment, Gangavalli Govt Hospital me injured bharti — REJECT: MLA ka naam ya bhoomika khabar me nahi.
+// 9. The Hindu, 13 May 2026 — AIADMK legislature party trust vote split: "A. Nallathambi (Gangavalli (SC))" 22 MLAs me jo TVK sarkar ke khilaf vote kar rahe the — REJECT: party-line assembly vote, kshetra-kaam ya negative nahi.
+// 10. Times of India / Indian Express / Business Today / Oneindia / NDTV / LiveChennai election result pages, May 2026 — sirf chunav parinaam data (73,167 votes, 14,404 margin) — REJECT: chunav-data works entry nahi.
+// 11. New Indian Express, 03 Apr 2026 — "No big projects in five years" Salem residents ki shikayat — REJECT: chunav-se-pehle ki analysis piece, MLA-specific satyapit kaam nahi.
+// 12. Local Report articles, May 2026 — AIADMK's Nallathambi defeats DMK's Chinnadurai — REJECT: election result summary, kshetra-kaam nahi.
+
+tamilNaduWorks['jayasankaran-a-p'] = [
+];
+
+// REJECT-LOG (jayasankaran-a-p, AIADMK, Attur AC):
+// 1. Times of India, city/Salem, ~13 Mar 2026 (216 days ago) — Attur municipality ne inauguration plaques par CM, deputy CM, local MLA aur deputy chairwoman ke naam nahi likhe — REJECT: pre-term (May 2026 se pehle) + MLA sirf zikr me, koi satyapit kaam nahi.
+// 2. The Hindu, 14 Oct 2022 — DMK karyakartao ne Pethanaickenpalayam me sarkari karyakram me Attur MLA A.P. Jayasankaran ko bolne se roka, MLA ne SC/ST Commission me shikayat ki baat kahi — REJECT: pre-term (2021-26 karyakaal ki khabar, is term ki nahi).
+// 3. The Hindu, 07 Sep 2023 — AIADMK ka Attur aur Narasingapuram municipality ke saamne basic amenities ki kami par pradarshan (R.B. Udhayakumar ne sambodhit kiya) — REJECT: pre-term, MLA Jayasankaran ka khabar me naam ya bhoomika nahi.
+// 4. New Indian Express, 18 Apr 2026 — Attur me AIADMK ke cheque-style pamphlet zabt (Suganya, Padmavathi), Jayasankaran ka sirf ummidwaar ke roop me zikr — REJECT: chunav-prachar ki khabar, pre-term (matdan 09/23 Apr 2026), kshetra-kaam nahi.
+// 5. NDTV election page / Oneindia criminal-cases list — affidavit me Jayasankaran ke 3 cases (Assets Rs 6.3 crore) — REJECT: affidavit case-count akela qualifying negative nahi, FIR/adalaati janch ki stage-sach reporting nahi mili.
+// 6. CourtKutchehry / judgments search — "Dr. A.K. Jayasankaran Nambiar, J." ke Kerala High Court faisle — REJECT: galat vyakti (Kerala High Court judge, Attur MLA nahi).
+// 7. Times of India Athoor constituency page / news — "Athoor" (Dindigul zila, DMK's I. Periasamy, 22,368 margin) aur MIDP ummidwaar R. Jeyasekaran — REJECT: galat vyakti/vidhan sabha kshetra (Athoor-Dindigul vs Attur-Salem spell-trap).
+// 8. South First Pollscan TN, ~Dec 2025 — Salem pre-poll analysis, Attur me kalvarayan hill villages ke basic amenities aur patta ki lambi shikayatein — REJECT: chunav-se-pehle ki analysis, kisi May-2026 ke baad ke satyapit kaam ki reporting nahi.
+// 9. Indian Express / ABP Live / WION / Business Standard / LiveChennai / Business Today, May 2026 — election result pages (80,843 votes, 15,318 margin, TVK's Selvabharathi runner-up) — REJECT: sirf chunav parinaam data, works entry nahi.
+// 10. Wikipedia Attur Assembly constituency / A.P. Jayasankaran pages — chunav itihaas aur MLA list — REJECT: works reporting nahi.
+// NOTE: English media me May 2026 ke baad Jayasankaran ke kshetra-kaam (inauguration/foundation/sanction) ya qualifying negative ki koi post-event reporting nahi mili. Viprati MLA (AIADMK, TVK sarkar) ke liye karyakram-bahut-kam coverage mili — imaandari se khaali rakha.
+
+tamilNaduWorks['p-usharani'] = [];
+
+// REJECT-LOG (p-usharani, AIADMK, Yercaud AC):
+// 1. The Hindu, 22 May 2026 — "Yercaud Summer Festival begins with floral attractions": khud khola — District Collector K. Elambahavath ne Anna Park me 49th Summer Festival and Flower Show ka udghatan kiya "in the presence of Yercaud MLA P. Usharani" — REJECT: sirf maujoodgi; udghatan Collector ne kiya; MLA ka koi vyaktigat vikas-kadam nahi.
+// 2. The Hindu, 21 Jul 2026 — "Ministers inaugurate completed projects in Salem and Namakkal": khud khola — Transport Minister A. Vijay Tamilan Parthiban ne Vazhapadi, Ayothiyapattinam, Pethanaickenpalayam aur Yercaud panchayat unions me 15 poorna projects (Rs 7.45 crore) ka lokarpan kiya — REJECT: mantri ka karyakram; khabar me MLA ka naam tak nahi; unki bhoomika dastavezi nahi.
+// 3. The Week (PTI), 7 Apr 2026 — "2026 TN polls will be last for Karunanidhi family says AIADMK chief Palaniswami": Vazhapadi me EPS ne AIADMK candidate P. Usha Rani ke samarthan me chunav prachar kiya — REJECT: pre-term (chunav 23 Apr 2026 se pehle).
+// 4. The Hindu, 13 May 2026 — "AIADMK legislature party splits vertically during trust vote in Tamil Nadu Assembly": P. Usharani (Yercaud ST) trust motion ke khilaf vote karne wale 22 AIADMK MLAs me thin — REJECT: sabha ki rajneeti; kshetra-kaam nahi.
+// 5. Election coverage — Bharat Horizon, 4 May 2026 ("AIADMK's Usharani P Wins Yercaud Seat by 2,189 Votes", 87,772 votes); Indian Express/ABP/BusinessToday/Oneindia/NDTV election result pages; Wikipedia (P. Usharani / Yercaud Assembly constituency); mapsofindia, voterlist.co.in candidate list — REJECT: sab sirf parinaam/ummeedvar-suchi reporting; koi works nahi.
+// 6. The Hindu candidate profile (Tamilnadu2026, P. Usharani) — halafnama: Criminal Cases = No; 8th pass; Assets Rs 16.9 crore — REJECT as negative: affidavit case-count akela; niyam ke mutabik koi nayi FIR/janch nahi.
+// 7. Economic Times (2014) — "DMK wants district officials to be replaced": Yercaud bypoll me AIADMK candidate "P Saroja" — REJECT: GALAT VYAKTI (2014 ki ummeedvar Saroja, 2026 ki Usharani nahi) + pre-term.
+// 8. The Hindu, 12 May 2026 — "Tamil Nadu Assembly snippets" (Speaker greetings, treasury-bench seating): AIADMK members EPS, Velumani, Manian zikr; Usharani ka koi bayan/role nahi — REJECT: kshetra-kaam nahi.
+// 9. Negative check: post-May-2026 established English press me unke naam par koi FIR/case/adalaati ya adhikarik janch NAHI mili (halafnama me bhi criminal cases zero). "Usharani" naam ke doosre vyakti (police officer/councillor jaise) wale naam-traps bhi NAHI mile.
+// 10. SEAT-WORK NATIJA: May-Oct 2026 me established English press (The Hindu, Indian Express, Times of India, DT Next, The News Minute, South First, Deccan Herald, NDTV) me Yercaud AC me unki vyaktigat pahal wala koi qualifying entry NAHI mila. Pehli baar ki MLA, vipakshi (AIADMK) bench, karyakaal ~5 mahine purana — profile imaandari se KHAALI hai.
+
+tamilNaduWorks['mani-r'] = [];
+
+// REJECT-LOG (mani-r, AIADMK, Omalur AC):
+// 1. The Hindu, 28 Jan 2026 — Tourism Minister R. Rajendran ne Salem North AC Development Fund (2025-26) se Rs 1.79cr ke kaam udghatit kiye — REJECT: pre-term (shapath 10 May 2026 se pehle), aur usme Mani R ki koi bhoomika darj nahi.
+// 2. The Hindu, 12 Jun 2025 — CM M.K. Stalin ke Salem jile ke liye 6 announcements (Rs 100cr road etc.) — REJECT: pre-term (pichli DMK sarkar ka package), bina MLA ke concrete kadam.
+// 3. The Hindu, 22 Feb 2025 — Salem ke urban local bodies me Rs 3,000cr schemes (Minister Rajendran/Nehru) — REJECT: pre-term, mantri-stariya karyakram, Mani R ki bhoomika nahi.
+// 4. New Indian Express, 05 Jun 2026 — TVK ke Omalur candidate R.V. Adhiyamaan ka cash-for-vote dawa (Salem West TVK candidate S. Lakshmanan par aarop) — REJECT: aarop Mani R par nahi, Salem West ke TVK candidate par; Mani R ke khilaf koi aarop nahi.
+// 5. The Hindu, 04 Jun 2026 — wahi cash-distribution vivad ka doosra version — REJECT: Mani R sambandhit nahi; negative ke liye yogya nahi.
+// 6. Times of India, Sep 2026 — Hosur-Omalur track doubling (Rs 1,948cr, Union Cabinet manzoori; Southern Railway survey/tender) — REJECT: Centre/railway pariyojana, MLA ka concrete kadam darj nahi (rajya-package rule).
+// 7. The Hindu candidate affidavit profile (2026) — Mani. R, "Yes (3)" pending criminal cases, 0 serious — REJECT as negative: affidavit case-count akela, koi nayi FIR/adalaati prakriya ki reporting nahi.
+// 8. Oneindia "Tamil Nadu MLAs with Criminal Cases" aggregate list — "R. Mani | Omalur | AIADMK | 3 cases" — REJECT as negative: wahi affidavit aggregate, reporting nahi.
+// 9. Daijiworld, Sep 2024 — gangster "Mani alias CD Mani" Salem se giraftar — REJECT: GALAT VYAKTI (Chennai gangster, MLA nahi).
+// 10. Rediff/PTI, Sep 2026 — granite baron R. Veeramani POCSO case — REJECT: GALAT VYAKTI (naam-trap; Omalur MLA se sambandh nahi).
+// 11. DT Next, Jun 2026 — Salem collectorate par kisano ka crop-loan-waiver virodh (C. Periyannan ke netritva me) — REJECT: Mani R ki upasthiti/bhoomika darj nahi; sirf maang-virodh.
+// 12. New Indian Express, 28 Mar 2026 — AIADMK ne Omalur se R. Mani ko dobara ticket diya — REJECT: pre-term chunav khabar, vikas-kaam nahi.
+// 13. The Hindu — Omalur me MV Inspector office ke liye public demand (pre-2025 sarkari faisla + court case) — REJECT: pre-term, MLA ki bhoomika darj nahi.
+// 14. New Indian Express, 2019 — Salem Expressway HC verdict (Anbumani Ramadoss) — REJECT: pre-term, PMK leader ka mudda, Mani R sambandhit nahi.
+// 15. The Week, 13 May 2025 — Pollachi sexual assault case me 9 doshi (expelled AIADMK functionary Arulanantham sahit) — REJECT: Mani R se koi sambandh nahi.
+// 16. SEAT-WORK NATIJA: May-Oct 2026 me English press (The Hindu, NIE, ToI, DT Next, TNM, South First, Deccan Herald, NDTV) me Omalur seat par Mani R ki vyaktigat seat-level bhoomika wala koi qualifying kaam ya qualifying negative NAHI mila; sabha sirf ~5 mahine purani aur ve vipaksh (AIADMK) ke hain — profile khaali rakhna imaandari hai.
+
+tamilNaduWorks['venkatachalam-g'] = [
+];
+
+// REJECT-LOG (venkatachalam-g, AIADMK, Mettur AC):
+// 1. news.abplive.com (Mettur election result 2026 live updates, 05 May 2026) — auto-generated headline claimed "TVK's Selvam. K wins, IND's Venkatasalam. G finishes second" — REJECT: erroneous headline contradicting the final tally reported by The Times of India, Business Today, Oneindia, Indian Express and ECI-based lists (AIADMK's G. Venkatachalam won Mettur with 86,498 votes, margin 19,105). Also a name-trap: independent "Venkatasalam. G" (471 votes) is a different person, not the AIADMK MLA.
+// 2. oneindia.com (Tamil Nadu MLAs with criminal cases) — lists "G Venkatachalam, Mettur, AIADMK, 5 cases" — REJECT: affidavit case-count alone; per standing rules affidavit case-count akela is not a qualifying negative (no FIR/adalaati janch ki stage-sach reporting found).
+// 3. deccanchronicle.com (Tamil Nadu: CM to open Mettur on Sep 1) + lokmattimes.com + english.mathrubhumi.com (Sep 2026, CM C. Joseph Vijay opened Stanley Reservoir gates at Mettur for Cauvery delta irrigation) — REJECT: CM ka karyakram; no concrete MLA step reported for venkatachalam-g, sirf maujoodgi bhi darj nahi hui.
+// 4. skyscrapercity.com (Salem discussions, quoting old The Hindu report on 12 e-service centres inaugurated by Minister Edappadi K. Palaniswami with "G. Venkatachalam MLA" present) — REJECT: pre-term (his 2011-2021 Salem West tenure), minister's function, MLA only present.
+// 5. business-standard.com / zeenews.com (2017, CM inaugurates desilting work at Mettur dam; Mettur MLA S. Semmalai) — REJECT: pre-term (2017) + galat vyakti (S. Semmalai, not G. Venkatachalam).
+// 6. thehindu.com (Tamil Nadu election 2026: demands in Mettur constituency, Apr 2026) — drinking water, road widening, Mettur taluk bifurcation demands by residents — REJECT: pre-term election-period demands, not verified works of the MLA.
+// 7. adrindia.org (2021 candidate analysis PDF) — "Venkatachalam. A. G, Anthiyur, DMK, 9 cases" — REJECT: galat vyakti (A.G. Venkatachalam of Anthiyur, not venkatachalam-g of Mettur).
+// 8. ainvest.com (Tamil Nadu Law Minister justifies MLA's arrest) — about DMK Vilathikulam MLA G.V. Markandayan — REJECT: galat vyakti.
+// 9. newsd.in (hoax bomb threat to Mettur dam, caller arrested) — accused is Mahalingam of Mecheri — REJECT: unrelated person, no MLA involvement.
+// 10. timesofindia.indiatimes.com / financialexpress.com / businesstoday.in (Mettur election result liveblogs, May 2026) — confirm G. Venkatachalam (AIADMK) won with 86,498 votes — REJECT as works source: election result only, no kshetra-kaam.
+// 11. dtnext.in topic pages (Salem / Mettur, Jun-Sep 2026) — dam water level, water release, turn system stories — REJECT: no mention of venkatachalam-g at all.
+// 12. Madras High Court orders / casestatus.in (Mettur court orders, 2025-2026) — land/bunk dispute cases from Mettur courts — REJECT: no link to venkatachalam-g, galat vyakti cases.
+
+tamilNaduWorks['edappadi-palaniswami-k'] = [
+];
+
+// REJECT-LOG (edappadi-palaniswami-k, AIADMK, Edappadi AC):
+// 1. PTI report, 22 Dec 2025 (ThePrint / The Week / NewsDrum / DevDiscourse / The Federal) — EPS ne Edappadi AC me Rs 3.75 crore ke vikas kaam lokarpit kiye aur Rs 5000 Pongal cash aid ki maang ki — REJECT: pre-term, May 2026 chunav se pehle ka event hai.
+// 2. Swadesi News (PTI photo), 22 Dec 2025 — wahi Dec 2025 ka Edappadi AC lokarpan/foundation event — REJECT: pre-term.
+// 3. Times Now Seithi (YouTube), early 2026 — EPS ne Salem-Edappadi me MLA project fund ke poora hue kaam lokarpit karke Pongal gift ke saath Rs 5000 ki maang ki — REJECT: pre-term (Jan 2026 ka event), chunav se pehle.
+// 4. DT Next, 8 Nov 2025 — EPS ne MLACDS fund ke GST-bharte ki maang ki — REJECT: pre-term + sirf maang, koi swikriti ya sanction saboot nahi.
+// 5. The Hindu, 13 Sep 2024 — EPS ne Edappadi AC me Rs 7.83 crore ke poora kaam lokarpit kiye aur naye kaam ka shilanyas rakha — REJECT: pre-term (2024).
+// 6. The Hindu, 30 Nov 2023 — EPS ne Edappadi me vikas kaam ka shilanyas rakha — REJECT: pre-term (2023).
+// 7. DT Next, 6 Apr 2026 — nomination file karne ke baad EPS ne "rukee hue kaam dobara chalu karenge, Mettur surplus water scheme aur Amma mini-clinics revive karenge" ka wada kiya — REJECT: chunav se pehle ka "karenge" wada, koi actual kaam nahi.
+// 8. New Indian Express, 22 Apr 2026 — Salem rally me EPS ke chunav daave ("Salem me AIADMK ke baad kuch naya nahi bana") — REJECT: chunav prachar, saboot-rahit daawa.
+// 9. DT Next, 26 Mar 2026 (Constituency Watch) — Edappadi seat profile, Mettur surplus water scheme aur flyover/college ke purane kaam ginae gaye — REJECT: pre-election feature, purane kaam.
+// 10. Newspointapp / TOI, May 2026 — chunav nateeja analysis (EPS jeete, margin 98,110) — REJECT: chunav reporting, kaam nahi.
+// 11. DT Next, 1 May 2026 — counting se pehle Salem me EPS ki party meeting — REJECT: rajneetik baithak, kaam nahi.
+// 12. The Statesman / Pune News / Republic World, mid-2026 — EPS ka "Tamizhagathai Kappom, Makkalai Meetpom / Ezhuchi Payanam" rajya-vyapi abhiyan (234 seats, 100+ seats 34 din me) — REJECT: rajya-stariya party prachar, seat-kaam nahi.
+// 13. DT Next, 14 Aug 2026 — Thangamani ne Fort Maidan Salem me AIADMK pradarshan led kiya (crop-loan waiver maang) — REJECT: party agitation, koi swikriti ya lokarpan nahi.
+// 14. New Indian Express, 20 Sep 2026 — EPS ne Salem me Anna jayanti public meeting me TVK sarkar par price-rise, power-cut, law-and-order aarop lagaye — REJECT: rajneetik bhashan, koi seat-kaam nahi.
+// 15. The Hindu, 19 Sep 2026 — EPS ne Salem meeting me daawa kiya PWD Minister Aadhav Arjuna AIADMK join karna chahte the — REJECT: rajneetik bayan, kaam nahi.
+// 16. The Hindu, 14 Oct 2026 — EPS ne Omalur (Salem) press meet me TVK sarkar par "mega corruption" (Rs 35/unit bijli khareed) ka aarop lagaya — REJECT: sarkar par aarop, EPS par koi negative nahi, kaam nahi.
+// 17. DT Next, 11 Oct 2026 + NDTV, 12 Oct 2026 — Chennai Metro Phase II credit war (EPS: DPR AIADMK ke time bana) — REJECT: rajya-stariya credit politics, seat-kaam nahi.
+// 18. Newstodaynet, 13 Oct 2026 — Velumani faction ne AIADMK foundation day meetings ka boycott kiya — REJECT: party andaruni kalah, kaam nahi.
+// 19. Deccan Chronicle, Oct 2026 — Madurantakam/Dharapuram by-elections me EPS ne TVK ke khilaf prachar kiya — REJECT: chunav prachar, seat-bahar.
+// 20. ABP Live (PTI), 14 Oct 2026 — AIADMK ne TVK Minister CTR Nirmal Kumar ko defamation ka legal notice bheja — REJECT: EPS/party ki taraf se bheja gaya notice, EPS par koi case nahi.
+// 21. Times of India, 3 Jun 2026 — Madras HC ne Edappadi ke voter Sakthivel Perumal ki I-T janch yachika (2026 affidavit me sampatti chhupane ka aarop) KHARIJ ki — REJECT: yachika kharij hui, EPS par koi FIR/case/janch nahi; kharij yachika negative nahi.
+// 22. News Today, 3 Sep 2026 — Madras HC ne EPS par Salem me 2021 aur 2022 ke virodh-pradarshan ke do cases QUASH kiye — REJECT: cases quash = raahat, EPS par koi chalti janch ya aarop stage-sach ke roop me report nahi.
+// 23. New Indian Express, 5 Jun 2026 — Madras HC ne OPS aur EPS ko party schism ke dauraan file kiye civil suits wapas lene diye — REJECT: party-antarvirodh ke civil suits, koi FIR/criminal case nahi.
+// 24. Live Law / The Hindu, Apr 2026 — Madras HC ne EPS ko chunav se debar karne ki pre-election plea kharij ki — REJECT: pre-election petition bhi, aur chunav-yachika akeli negative nahi.
+
+tamilNaduWorks['vetrivel-s'] = [
+];
+
+// REJECT-LOG (vetrivel-s, AIADMK, Sankari AC):
+// 1. Thanthi TV YouTube, 20 Apr 2026 — campaign speech: "Sankari me do Amma canteen khole jayenge" ka wada — REJECT: pre-term chunavi wada, "karenge" khabar (post-May 2026 amal ki koi khabar nahi).
+// 2. Dinamalar (Salem local, Apr 2026) — "Vidu illadorukku kattitharappadum" (ghar ke bina logon ke liye ghar banaye jayenge), candidate speech — REJECT: pre-term campaign promise, satyapit kaam nahi.
+// 3. Indian Express (2018) / Zee News / Maalaimalar (Sep 2017) — "P Vetrivel, MLA, TTV Dhinakaran samarthak" par HC petition — REJECT: galat vyakti naam-trap (2017 ke disqualified RK Nagar-era MLA, Sankari ke S. Vetrivel nahi) + pre-term.
+// 4. NDTV / ADR candidate page — "Cases, Yes (2)" (chunav affidavit) — REJECT: affidavit case-count akela qualifying negative nahi, stage-sach reporting nahi.
+// 5. Dinakaran / ETV Bharat / Nakkheeran, Sep-Oct 2026 — "E.V. Velu" (Tamil script me iska hawala — romanized) ke khilaf chunav-yachika kharij aur rai-mining case me antarim rahat se inkar — REJECT: galat vyakti naam-trap (Tiruvannamalai ke DMK MLA E.V. Velu, Sankari ke S. Vetrivel nahi).
+// 6. The Hindu, 13 May 2026 — trust vote: "S. Vetrivel (Sankari)" 22 AIADMK MLAs me jo TVK sarkar ke khilaf vote kar rahe the — REJECT: party-line assembly vote, kshetra-kaam ya negative nahi.
+// 7. TOI / Indian Express / News18 / NDTV / Business Today / Oneindia, May 2026 — sirf chunav parinaam data (87,342 votes, 9,517 margin) — REJECT: chunav-data works entry nahi.
+// 8. The Hindu, 05 Apr 2026 — "Sankari constituency demands auto nagar, solution to traffic congestion" — REJECT: pre-term analysis piece, maang/prastav ki khabar, MLA ka koi satyapit post-May kaam nahi.
+// 9. New Indian Express, 28 Mar 2026 — AIADMK candidate selection (Sankagiri me S Sundararajan ki jagah S Vetrivel, ex-Omalur MLA) — REJECT: candidate-selection news, kshetra-kaam nahi.
+// 10. DT Next, Mar 2026 — AIADMK second candidate list: "S Vetrivel (Sankagiri)" — REJECT: pre-term candidate list, kshetra-kaam nahi.
+// 11. Dinamalar, ~Oct 2026 — Mavelipalayam raaste par railway underpass congestion par Sankari ke kisano ka RDO ko gyapan — REJECT: khabar me MLA Vetrivel ka naam ya bhoomika nahi, MLA-link ka saboot nahi.
+
+tamilNaduWorks['lakshmanan-s'] = [];
+
+// REJECT-LOG (lakshmanan-s, TVK, Salem (West) AC):
+// 1. The Hindu, 4 Jun 2026 — Omalur TVK candidate R.V. Adhiyamaan ne May me internal party meeting me alleged kiya ki chunav me S. Lakshmanan ne Rs 2,000 per vote baante — REJECT: chunav-prachar (April 2026) ka aarop hai, karyakaal se pehle; koi FIR/case/adalaati karwai report nahi hui; 5 Jun 2026 ko New Indian Express ne bataya ki Adhiyamaan ne safai di ki clip selectively edited tha aur kisi vyakti par public aarop nahi lagaya tha; affidavit-count akela negative nahi.
+// 2. News Minimalist aggregation — wahi vote-buying aarop ka aggregation, koi nayi FIR/case stage nahi — REJECT: secondary aggregation, pre-term, case stage absent.
+// 3. TwStalker/TamilNaduInfra (TheSalemNews tweet) — dawa ki TVK Salem West MLA ne apne pehle media appearance me kaha ki Salem textile park ka poora kaam turant rokenge — REJECT: social media dawa, primary news source nahi; sirf maang/bayan, koi poora/lokarpan/swikriti nahi.
+// 4. The New Indian Express, 16 Nov 2025 — Jagir Ammapalayam textile park par "Salem West MLA R Arul" ka bayan — REJECT: galat vyakti; ye pichle karyakaal ke PMK MLA R. Arul hain, Lakshmanan.S karyakaal May 2026 se shuru; pre-term.
+// 5. The Hindu, 25 Jul 2026 ("No dyeing units at Integrated Textile Park, says District Collector") — 22 Jul 2026 ke G.O. se Salem Yarn Colouring Park ko Salem Integrated Textile Park Pvt Ltd me badla gaya, dyeing units par rok — REJECT: rajya-sarkar/collector ka faisla; report me Lakshmanan.S ki koi bhoomika, maujoodgi ya concrete kadam darj nahi.
+// 6. The Hindu, 1 Jul 2026 (TMC claims Centre declined approval for Salem textile park) — K.V. Suseendra Kumar ka dawa — REJECT: kshetra-package me MLA ka koi concrete kadam report nahi; Lakshmanan.S ka zikr hi nahi.
+// 7. The Hindu, 10 Jul 2026 — Salem 24x7 drinking water project, 19 Jun 2026 ko Salem Municipal Corporation aur SUEZ ke beech agreement, revised sanction Rs 1035.61 crore — REJECT: sarkari package; MLA ka koi role/concrete kadam report nahi hua.
+// 8. The Hindu, 21 Jul 2026 — Ministers inaugurate completed projects in Salem and Namakkal (Vazhapadi/Ayothiyapattinam/Pethanaickenpalayam/Yercaud) — REJECT: mantriyon ke karyakram; kshetra-bahar bhi (ye sab Salem West ke nagriya kshetra nahi); MLA ka zikr nahi.
+// 9. Wikipedia "S. Lakshmanan (politician, born 1968)" — 2011 land-grab case, Angammal Colony case me giraftari, July 2012 me DVAC raid (disproportionate assets) — REJECT: galat vyakti; ye sab 2011-2012 ke suspended police officer par hain, TVK MLA S. Lakshmanan se inka sambandh nahi; Wikipedia page pehchaan milata hai.
+// 10. voterslist.in — affidavit me S. Lakshmanan par 1 pending case (Corruption Act) — REJECT: affidavit case-count akela negative nahi; koi FIR/case stage-reporting nahi mili.
+// 11. The Times of India / Indian Express / Moneycontrol / Oneindia, May 2026 — chunav-parinaam coverage (1,20,407 votes, 74,867 margin se jeet) — REJECT: parinaam-reporting, kshetra-kaam nahi.
+// 12. Nakkheeran TV YouTube video (Salem textile park rokenge, TVK MLA ghoshna) — REJECT: video-title se aage satyapan nahi; maang/bayan star ki khabar, stage-sach nahi.
+// NOTA: Kayi ghanton ki khoj me May 2026+ ka koi satyapit kshetra-kaam (sadak/paani/school/aspataal poora, lokarpan, swikriti, shilanyas) ya qualifying negative S. Lakshmanan ke naam se English news me nahi mila; profile imaandari se khaali rakhi gayi hai.
+
+tamilNaduWorks['sivakumar-k'] = [
+];
+
+// REJECT-LOG (sivakumar-k, TVK, Salem (North) AC):
+// 1. The Hindu 2026-01-28 ("Tourism Minister inaugurates development works worth Rs 1.79 crore in Salem") — poora/shilanyas report, lekin vyakti R. Rajendran (DMK Tourism Minister, tab ke Salem North MLA), chunav se 3 mahine pehle — REJECT: pre-term, galat vyakti.
+// 2. The Hindu 2026-01-14 ("Kumaragiri lake park inaugurated in Salem") — inauguration R. Rajendran ne kiya, chunav se pehle — REJECT: pre-term, galat vyakti.
+// 3. The Hindu 2026-03-05 ("Ministers inaugurate mini handloom park in Salem") — chhota kaam aur minister-led, chunav se pehle — REJECT: pre-term.
+// 4. The New Indian Express 2026-05-06 ("Anti-incumbency, internal rifts: DMK loses sole seat in Salem district to TVK") — sirf chunav-analysis, koi kshetra-kaam nahi — REJECT: chunav coverage, kaam nahi.
+// 5. ETV Bharat 2026-05-04 / TOI / Business Today / India.com election results — sirf jeet ki reporting — REJECT: chunav coverage, kaam nahi.
+// 6. TOI 2026-08 ("TVK MLA booked for trespassing into an industrial unit in Puducherry") + NDTV 2026-08-23 — FIR wala vyakti A.K. Sai J. Saravanakumar (doosra TVK MLA), K. Sivakumar nahi — REJECT: naam-trap, galat vyakti.
+// 7. The Hindu 2026-07-21 ("Ministers inaugurate completed projects in Salem and Namakkal") — mantri A. Vijay Tamilan Parthiban (Salem South MLA, TVK) ka karyakram, Vazhapadi/Ayothiyapattinam me — REJECT: kshetra-bahar, galat vyakti.
+// 8. Madhyamam 2026-08 ("MK Stalin inaugurates projects worth Rs 1367 crore in Salem") — ye report 2021-26 karyakaal ki hai (Stalin CM thay); 2026-10-15 tak Stalin CM nahi — REJECT: pre-term/purani khabar.
+// 9. DT Next 2026-06 ("Salem ryots stage self flagellation protest over loan waiver") — kisaan aandolan, MLA shamil nahi — REJECT: MLA ka koi role nahi.
+// 10. ADR/Oneindia/NDTV affidavit data ("Sivakumar. K, Cases: No, assets Rs 9.5 crore") — sirf case-count — REJECT: affidavit case-count akela negative nahi.
+
+tamilNaduWorks['vijay-tamilan-parthiban-a'] = [
+];
+
+// REJECT-LOG (vijay-tamilan-parthiban-a, TVK, Salem (South) AC):
+// 1. The Hindu (21 Jul 2026) — Transport Minister ke roop me 15 completed projects worth Rs 7.45 crore ka lokarpan, Vazhapadi, Ayothiyapattinam, Pethanaickenpalayam aur Yercaud panchayat unions me — REJECT: kshetra-bahar (Salem South AC sirf Salem Corporation wards 37-60 hai; ye graameen panchayat unions doosre AC me aate hain) aur mantri-pad ki vibhagiya duty, MLA ki seat-level kshetra-kaam nahi. URL: https://www.thehindu.com/news/cities/Coimbatore/ministers-inaugurate-completed-projects-in-salem-and-namakkal/article71249220.ece
+// 2. The Hindu (24 Sep 2026) — 26 nayi BS-VI buses ka flag-off Salem Old Bus Stand par, TNSTC Salem division ke liye — REJECT: mantri ke roop me rajya-stariya TNSTC kaam; Salem South kshetra ka vishesh kaam nahi. URL: https://www.thehindu.com/news/cities/Coimbatore/minister-flags-off-26-new-bs-vi-buses-in-salem/article71503451.ece
+// 3. New Indian Express / hiindia / swadesi (13-14 Oct 2026) — Ayudha Pooja aur Diwali rush ke liye special buses aur temporary terminals — REJECT: rajya-package, department ki ghoshna, MLA ka concrete kadam nahi.
+// 4. DT Next / Oneindia / IndiaTV (2-3 Oct 2026) — Vettri Payanam scheme (women aur transgenders ke liye free bus travel), Transport Minister ka bayan — REJECT: rajya yojana, CM ke karyakram me mantri ka bayan, seat-specific kaam nahi.
+// 5. DT Next (9 Sep 2026) — Motor Vehicles Aggregator Rules aur autorickshaw fare revision par Assembly me bayan — REJECT: rajya policy ki "karenge" khabar, stage-sach nahi.
+// 6. Mathrubhumi English (Sep 2026) — CM Vijay ne statewide projects announce kiye, Salem Corporation me Rs 293 crore ka waste-to-energy project — REJECT: rajya-package, CM ki ghoshna, is MLA ka koi concrete kadam report nahi hua.
+// 7. TVK party-published Form C2 (ECI rule 4A disclosure, S3 PDF) — A. Vijay Tamilan Parthiban par Crime No. 0119/2026 Annadanapatti P.S. U/s 173-BNS, RP Act sections, Investigation Pending — REJECT: affidavit case-count akela negative nahi; koi independent news reporting (FIR/case/adalaati janch ki stage-sach) nahi mili.
+// 8. NAAM-TRAP — S.R. Parthiban (DMK MP Salem, ex-DMDK MLA Mettur): 2019 me forest land encroachment case (The Hindu, 12 Jul 2019) aur 2012 me prohibitory-orders violation arrest (Firstpost) — REJECT: galat vyakti, hamara target A. Vijay Tamilan Parthiban (TVK, Salem South) nahi.
+// 9. NAAM-TRAP — 2026 candidate list me "Parthiban V" (IND, 58 votes) aur "Parthiban A" (IND, 93 votes), Salem South me hi Independents the — REJECT: galat vyakti, same-ballot ke alag ummeedwar.
+// 10. TOI / Business Today / Oneindia / ABP / News18 (May 2026) — Salem South chunav parinaam coverage (91,371 votes, 33,369 se jeet) — REJECT: pre-term chunav khabar, kaam nahi.
+
+tamilNaduWorks['palanivel-m-s'] = [
+];
+
+// REJECT-LOG (palanivel-m-s, TVK, Veerapandi AC):
+// 1. The Hindu (opened and read, 2026-06-08, Salem) — 7 June 2026 ko Thippampatti (Veerapandi AC) me TVK office ke udghatan me Kuralnatham Govt Primary School ke lagbhag 50 bachche allegedly headmaster Deivanayagam dwara uniform me laye gaye; bachche MLA Palanivel ke aane ka 2pm-4pm tak 2 ghante intezar karte rahe; DMK karyakartaon ne social media par shikayat ki; 8 June ko Salem CEO P. Maheswari ne headmaster ke khilaf shiksha-vibhagiya janch ke aadesh diye — REJECT: MLA ke khilaf koi FIR/case/adalaati janch nahi, qualifying negative nahi (janch headmaster ke khilaf hai).
+// 2. @TheSalemNew Twitter/X timeline (search snippet) — Assembly me Veerapandi MLA M.S. Palanivel dwara Panaimarathupatti lake aur Thirumanimutharu ke rejuvenation ki maang uthayi gayi (Mettur surplus water se lake bharne ki maang) — REJECT: sirf maang/prastav, koi sanction/kaam nahi.
+// 3. NDTV candidate profile page (search snippet, ADR data) — affidavit me 1 case (Cases: Yes (1)) — REJECT: affidavit case-count akela negative nahi.
+// 4. Dinamalar (2026-02-24) — Namakkal me part-time ration shop opening; jisme ATMA committee chairman Palanivel aur Namakkal MLA Ramalingam hain — REJECT: galat vyakti (ATMA chairman) + kshetra-bahar (Namakkal, Veerapandi nahi) + pre-term (Feb 2026).
+// 5. Sabhi chunav-parinaam coverage (The Hindu, Indian Express, Times of India, News18, Business Today, India Today, ABP, ETV Bharat, Zee News Tamil) — Palanivel. M.S ne 79,907 votes se jeeta, AIADMK ke Sri Balaji Sugumar ko 4,071 votes se haraya — REJECT: chunav coverage, kshetra-kaam nahi.
+// 6. The Hindu (6 June 2026) + HT — former Veerapandi MLA M. Rajamuthu (AIADMK, 2021-2026 karyakaal) ke TVK me shamil hone ya na hone ki khabren — REJECT: purane MLA, pre-term, naye MLA ka kaam nahi; naam-trap note.
+// 7. The Hindu pre-poll Veerapandi constituency report (April 2026, effluent discharge into Thirumanimutharu) — REJECT: pre-term, chunav-se-pehle ka issue-reporting.
+// 8. Madhyamam (file, 2023) — M.K. Stalin ka Salem me Rs 1367cr ka udghatan; The Hindu 4 March 2026 CM Stalin Salem works; The Hindu 21 July 2026 Transport Minister A. Vijay Tamilan Parthiban dwara Salem me 15 projects ka udghatan (Vazhapadi/Ayothiyapattinam/Pethanaickenpalayam/Yercaud) — REJECT: pre-term (2023, March 2026) ya mantri/CM ke karyakram; MLA Palanivel ki koi concrete bhoomika report me nahi.
+
+// ---- Coordinator QA (Salem, 2026-10-15) ----
+// - 11/11 workers completed; sabhi fragments me assign-format sahi, entries me 0 comments, 0 Devanagari/Tamil script, 0 rupee-symbol, 0 literal-backslash-n.
+// - Sabhi 11 profiles imaandari se KHAALI (0 entries, 0 negatives) — opposition MLAon (7 AIADMK) + naye TVK MLAs (4) ka ~5 mahine ka karyakaal; May 2026+ post-event English reporting me koi qualifying seat-work/negative nahi.
+// - Mantri-check: vijay-tamilan-parthiban-a = Transport Minister (21 May 2026 se) — unke saare state-level kaam reject, sirf seat-kaam ka koi saboot nahi mila.
+// - Key identity traps pakde (sab reject-logs me darj): sivakumar-k vs A.K. Sai J. Saravanakumar; palanivel-m-s vs DMK ex-minister Palanivel/M. Rajamuthu; jayasankaran-a-p — "Athoor"(Dindigul) vs "Attur"(Salem); venkatachalam-g — ABP galat headline/IND "Venkatasalam. G"; lakshmanan-s — Wikipedia DVAC-officer; mani-r — CD Mani gangster; nallathambi-a — 5 alag Nallathambi; edappadi-palaniswami-k — Dec 2025 Rs 3.75cr lokarpan pre-term; vetrivel-s — P Vetrivel(TTV disqualified)/E.V. Velu; vijay-tamilan-parthiban-a — S.R. Parthiban MP; p-usharani — 2 Amma canteen campaign promise pre-term.
