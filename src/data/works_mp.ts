@@ -9391,3 +9391,118 @@ mpWorks['shivnarayan-gyan-singh-lallu-bhaiya'] = [
 // meena-singh — 8 rejects: dharna Bandhavgarh karyalaya (jipsi rozgar, koi kaam nahi); Padkhuri Vikas Yatra (pre-term, mantri-kal); Panchayati Samvad CC sadak (pre-term nidhi-daava); YouTube-only x3 (Barbasapur hostel shilanyas, 72 kanyadan, sadak-shikayat sirf maang); Dainik Bharti CM-taiyari (pre-event + sirf maujoodgi); Nationpress CM Rs 144.15 cr daura (koi concrete bhoomika nahi). Negative: koi qualifying FIR/case reporting nahi.
 // shivnarayan-gyan-singh-lallu-bhaiya — 12 rejects: Gadkari ko 3 NH patra (sirf maang); Ghulghuli visthapan gyapan (sirf maang); chidiyaghar sthal nirikshan (prastav, swikriti nahi); public.app-only x3; NN81 vidyutikaran bhoomi-pujan (rakam/fund agyat, kamzor attribution); school football udghatan (vikas-kaam nahi); vishwakarma visarjan maujoodgi; Krishak Jagat yojana launch (sirf upasthiti); CM PESA Mahasammelan maujoodgi; 14 Oct 2026 CM Guruwahi Rs 144 cr pre-event ghoshna (post-event reporting nahi). Negative: koi yogya reporting nahi mili.
 // Coordinator QA note: worker-2 ke titles English se Roman-Hinglish me normal kiye; dono fragments me Devanagari/₹/literal-\n/scaffolding comments zero; meena-singh entry-3 ka sourceLabel '08 Jul 2026' → '6 Jul 2026' date-field se milane ke liye fix kiya; Shivnarayan ki dono entries ek hi Raajdhani News article par aadharit hain — verified open source; dono slugs pehle khaali the, koi overwrite nahi.
+// ---- Vidisha district batch (researched 2026-10-14) ----
+mpWorks['mukesh-tandan'] = [];
+
+// REJECT-LOG (mukesh-tandan): koi qualifying entry nahi mili. Reject: (1) ETV Bharat/Zee News, 9 Dec 2025 — nagar-palika protest me Rs 50 lakh vidhayak-nidhi ghoshna, sanction/work-order saboot nahi (ghoshna-type). (2) Gadkari/Shivraj NH event, Rs 4400 cr — MLA ne sirf sambodhit kiya, sansad Shivraj Singh Chouhan ka kendriya karyakram (chetaavni wala mamla). (3) Free Press Journal, Dec 2025 — train-stoppages inauguration, Shivraj ka karyakram, MLA sirf maujood. (4) graminkhabarmp.com, 20 Jan 2025 — CM Jan Kalyan Abhiyan shiviron me sahbhagita; "lakhs" ka shilanyas, koi itemized list/raqam nahi (vague + sarkari abhiyan). (5) camera24.in Krishna Colony gate — 2018, karyakaal se pehle. (6) newsbytesapp bus accident Dec 2025 — sirf MLA ka bayan, kaam nahi. (7) DISHA meeting Dec 2024 — Shivraj adhyaksh, MLA sirf upasthit.
+
+mpWorks['hari-singh-raghuwanshi-badda'] = [
+  {
+    title: 'Basoda MLA ne Ganjbasoda ke wardon me Rs 1.82 crore ke CC sadak aur RCC nali karyon ka bhoomi-pujan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 20 Jul 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/vidisha/ganjbasoda/news/bhoomi-pujan-for-development-works-worth-rs-182-crore-to-be-held-in-two-days-cc-road-drain-construction-to-gain-momentum-dbp-138486839.html',
+    date: '2026-07-20',
+    note: 'Ganjbasoda me 18-19 July ko hue do-divasiya bhoomi pujan karyakram ki post-event reporting: Basoda MLA Hari Singh Raghuwanshi ne Nagar Palika Adhyaksh Shashi Anil Yadav ke saath milkar alag-alag wardon me lagbhag Rs 1.82 crore ke vikas karyon ka bhoomi pujan kiya — CC sadak, RCC nali, renewal coat aur paver block kaam; stage: shilanyas. Ye works Nagar Palika ke hain, vidhayak-nidhi ke nahi (spasht disclosure). Article par print-tithi nahi thi, isliye tithi crawl timing se estimate hai — disclosed.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (hari-singh-raghuwanshi-badda): public.app (Basoda News) Faridpur Dayala bhoomi-pujan — public.app-only, reject; 2 YouTube videos — YouTube-only, reject; News18/NDTV/Business Standard/OneIndia/Wikipedia election profiles — works reporting nahi, reject; npg.news biography — works reporting nahi, reject.
+
+mpWorks['hari-singh-sapre'] = [];
+
+// REJECT-LOG (hari-singh-sapre): tvindialive Kotha Barrage inspection — Jal Sansadhan Mantri Tulsi Silawat ka karyakram, Sapre sirf maujood, reject; Bhaskar (Kurwai nagar-parishad budget) Rs 2 lakh vidhayak-nidhi ghoshna — bina sanction/work-order saboot ke ghoshna-type, reject; Bhaskar (Mandi Bamora) free water booth — NGO Manav Seva Samiti ka kaam, MLA sirf upasthit, reject; Bhaskar + ETV Bharat (28 Sep 2025) CM ka Kurwai daura, Rs 258 crore rajya-package — Sapre ne sirf maang-patra diya, koi dastavezi kadam nahi, rajya-package rule se reject; public.app Mehua-Malthaun 4-lane + CM-se-mulakat maang — public.app-only/maang, reject; ganjbasoda.net 2021 baadh-daura — karyakaal se pehle + sirf daura, reject; newsupdate24x7.in bhrashtachar aarop — Nov 2023 election-time blog, bina FIR/janch, negative bar nahi cross, reject; Bhaskar Pathari speech — siyasi bhashan, reject; election profiles — works reporting nahi, reject.
+
+mpWorks['umakant-sharma'] = [
+  {
+    title: 'Sironj ke Mugalsarai me Rs 1.23 crore ke school bhavan aur Rs 1.38 crore ke shasakiya chhatrawas ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'MP Media 24, 02 Mar 2025',
+    sourceUrl: 'https://mpmedia24.in/%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%89%e0%a4%ae%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a8%e0%a5%8d%e0%a4%a4-%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be-%e0%a4%a8/',
+    date: '2025-03-01',
+    note: 'Sironj vidhayak Umakant Sharma ne 1 March 2025 ko Mugalsarai panchayat me 3 labs aur 4 classrooms wale school bhavan (Rs 1.23 crore) aur shasakiya chhatrawas (Rs 1.38 crore) ka swayam lokarpan kiya; poora karyakram Rs 3.96 crore ka tha; report chhote local portal MP Media 24 ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mugalsarai me Rs 43.88 lakh ke up-swasthya kendra bhavan ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'MP Media 24, 02 Mar 2025',
+    sourceUrl: 'https://mpmedia24.in/%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%89%e0%a4%ae%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a8%e0%a5%8d%e0%a4%a4-%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be-%e0%a4%a8/',
+    date: '2025-03-01',
+    note: 'Umakant Sharma ne 1 March 2025 ke Mugalsarai karyakram me Rs 43.88 lakh ki lagat se bane up-swasthya kendra bhavan ka lokarpan kiya; report chhote local portal MP Media 24 ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mugalsarai kshetra me CC sadkon, puliyon aur gravel marg ka lokarpan aur bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'MP Media 24, 02 Mar 2025',
+    sourceUrl: 'https://mpmedia24.in/%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%89%e0%a4%ae%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a8%e0%a5%8d%e0%a4%a4-%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be-%e0%a4%a8/',
+    date: '2025-03-01',
+    note: 'Sironj vidhayak ne Mugalsarai me high-school parisar CC road (Rs 3.5 lakh), Paliwal mohalla/Sirswas CC road (Rs 15 lakh), Gopalpur aur Dharmau Khedi me puliyon (15ve vitt ayog) tatha Pyasi aur Vaman Khedi me CC sadkon ka lokarpan/bhoomi-pujan aur vidhayak-nidhi se Rs 10 lakh ke gravel marg ka shilanyas kiya; fund vidhayak-nidhi hai, sansad-nidhi nahi; report chhote local portal MP Media 24 ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mugalsarai me Rs 8 lakh ke vidhayak-nidhi samudayik bhavan aur Rs 15 lakh ke Siddh Ashram ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'MP Media 24, 02 Mar 2025',
+    sourceUrl: 'https://mpmedia24.in/%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%89%e0%a4%ae%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a8%e0%a5%8d%e0%a4%a4-%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be-%e0%a4%a8/',
+    date: '2025-03-01',
+    note: 'Umakant Sharma ne Mugalsarai panchayat me vidhayak-nidhi se bane Rs 8 lakh ke samudayik bhavan aur Rs 15 lakh ke Siddh Ashram ka lokarpan kiya; fund vidhayak-nidhi hai, sansad-nidhi nahi; report chhote local portal MP Media 24 ki hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (umakant-sharma): india.com "juto se swagat" bayan, Dec 2022 — karyakaal se pehle, reject; 2 YouTube videos (samudayik-bhavan swikriti dawa; Lateri ~Rs 7 crore lokarpan/bhoomi-pujan + nal-jal) — YouTube-only, reject; ganjbasoda.net LBS college event — uchch-shiksha mantri ka karyakram, MLA sirf upasthit, reject; public.app "aitihasik budget" — public.app-only, reject; YouTube "Sironj zila" ghoshna — ghoshna-type + YouTube-only, reject; business-standard IPC-186 Kanyadan obstruction case — ghatna June 2019 ki, karyakaal se pehle, negative nahi bani; amarujala Sironj fake-marriages/EOW — ghatna/janch 2020-22 ki, karyakaal se pehle, reject.
+
+mpWorks['surya-prakash-meena'] = [
+  {
+    title: 'Mohi gram panchayat me Rs 25 lakh ke samudayik bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/vidisha/shamshabad/news/bhoomipujan-of-community-building-worth-rs-25-lakh-137025584.html',
+    date: '2026-01-15',
+    note: 'Shamshabad tehsil ki gram panchayat Mohi me Rs 25 lakh se banne wale samudaayik bhavan ka bhoomi-pujan swayam vidhayak ne kiya; karyakram me sarpanch Jyoti Pehalwan Meena aur janpad adhyaksh pratinidhi Yashpal Raghuvanshi maujood the. Stage: bhoomi-pujan (shilanyas); nirman ki prashasnik swikriti ya fund-srot ka vivaran report me nahi hai. Disclosure: article par print-tithi nahi thi (sirf 6 mahine pehle darj tha), tithi crawl timing se ~Jan 2026 estimate hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Digooni me Rs 25 lakh ke samudayik bhavan ka bhoomi-pujan, Rs 10 lakh ke ghat aur Rs 5 lakh se adhik ki CC sadak ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Atulya Bharat Chetna, 01 Feb 2026',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/56144',
+    date: '2026-02-01',
+    note: 'Digooni gram panchayat me vidhayak ne Rs 25 lakh ke samudayik bhavan ka bhoomi-pujan kiya, saath hi Rs 10 lakh ke ghat nirman aur Rs 5 lakh se adhik lagat ki CC sadak ka lokarpan bhi kiya; karyakram me janpad adhyaksh pratinidhi Yashpal Raghuvanshi bhi the. Stage: bhoomi-pujan + lokarpan (poora kaam). Disclosure: srot chhota sthaniya portal hai, established media nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Narakheda Khadaiya aur Guraud ke Madiya me Rs 25-25 lakh ke do samudayik bhavanon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Atulya Bharat Chetna, 29 Mar 2026',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/71548',
+    date: '2026-03-29',
+    note: 'Nateran kshetra ki do gram panchayaton — Narakheda Khadaiya aur Guraud ke Madiya — me Rs 25-25 lakh lagat wale do samudaayik bhavanon ka bhoomi-pujan vidhayak ne kiya; sarpanch Veerendra Singh Raghuvanshi, janpad adhyaksh pratinidhi Yashpal Raghuvanshi sahit sthaniya neta aur gramin upasthit the. Stage: bhoomi-pujan (shilanyas). Event 28 Mar 2026 (Shanivaar) ko hua, article ki publish ~29 Mar 2026. Disclosure: srot chhota sthaniya portal hai, established media nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa: Madiya Kheda me pakki damar sadak ki maang poori hui',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Atulya Bharat Chetna, 29 Mar 2026',
+    sourceUrl: 'https://atulyabharatchetna.org.in/archives/71548',
+    date: '2026-03-29',
+    note: 'Upar ke bhoomi-pujan karyakram me vidhayak ne swayam kaha ki Madiya Kheda ki pakki damar sadak ki lambe samay se chali aa rahi maang ab poori ho chuki hai. Sadak ki lambai, lagat ya swikriti order ka koi vivaran report me nahi hai — ye news me report hua MLA ka swayam ka dawa hai, independent verification nahi, isliye stage sirf poori hone ka dawa. Disclosure: srot chhota sthaniya portal hai, established media nahi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (surya-prakash-meena): 2 YouTube videos (Rusalli PM Sadak Yojana poojan, Sadaiy mangalik bhavan bhoomipujan; 7 March CM karyakram sthal nirikshan) — YouTube-only/sirf nirikshan, reject; public.app Aamakheda Sukha bhoomipujan + Mahaneem Chauraha private school lokarpan — public.app-only, reject; atulyabharatchetna Seva Sankalp Abhiyan — MLA sirf maujood, reject; Mohi community bhavan duplicate, reject; mediahousepress Rs 116 crore ki 9 sadken — rajya-package ki aam swikriti, MLA ka dastavezi kadam nahi, reject; Hitavada CM dwara Vidisha me Rs 163 crore ghoshna — CM ghoshna, MLA sirf maujoodgi, reject; webindia123 Shivraj DISHA baithak — sirf upasthiti, reject; pinewz kisan-agitation dhamki — political bayan, reject; koi qualifying negative reporting nahi mili.
+
+// Coordinator QA note: Meena worker ke 4 titles English-headline style me the — sabko pure Roman-Hinglish vakyon me badal diya, currency "Rs" style me normal kiya ("25 Lakh" → "Rs 25 lakh"), entry-2 ke title se Johad ka zikr hata diya (article me vivaran sirf Digooni karyakram ka hai), entry-1 ki tithi ko month-level estimate (2026-01-15, disclosure note me) rakha; Raghuwanshi title ka "drain works" ko "RCC nali karyon" kiya; Umakant Sharma ki 4 entries ek hi chhote portal (MP Media 24) se hain — har note me disclosure; Hari Singh Raghuwanshi vs Hari Singh Sapre pehchan alag-alag verified (Bina ki Nirmala Sapre alag); Shivraj Singh Chouhan ke sabhi karyakram MLAon par nahi jode gaye (Tandan reject-log me 2 cases); sabhi 5 slugs pehle khaali the — koi overwrite nahi.
