@@ -7655,3 +7655,286 @@ mpWorks['vikram-singh-vicky'] = [
 // REJECT-LOG dr-rajendra-kumar-singh: (1) khabardigital.com (Nov 2025) - 20-diniya anshan avaidh sharab/cough syrup ke khilaf - virodh/dharna, kaam nahi; (2) bhaskarenglish.in + zeenews (2024) - sadhus ko "saand" kahne wala bayan + Jitu Patwari ka bayan - sirf bayan/vivaad, kaam nahi; (3) etvbharat.com (Aug 2025) Mukundpur/Riwa merger + livehindustan (Aug 2025) - 6 panchayaton ke vilay ke khilaf virodh - virodh, kaam nahi; (4) Dainik Bhaskar + news4social (Mar 2026) - vidhayak-nidhi gates par Sonia/Rahul Gandhi ki photo lagane par Collector ko shikayat - negative entry rule: sirf shikayat, koi FIR/case/janch-karyavahi report nahi, isliye no entry; (5) etvbharat.com interview (Nov 2023, pre-term) - vachanpatra committee baatcheet - election-time baatcheet, kaam nahi; (6) youtube.com Vindhya Times (May 2025) - vidhan sabha me Maihar collectorate bhavan ka mudda uthaya - sirf sadan me sawal, kaam nahi; (7) NDTV MP CG (Feb 2026) - budget satra me Rewa-Amarpatan-Maihar-Katni-Ramnagar-Sidhi-Singrauli railway line ka ashaskiya sankalp - sirf prastav, kaam nahi; (8) zee assets photo gallery (2023) - sampatti/halafnama report - kaam nahi; (9) thesootr + zee (2022) - Mood-of-MP-CG election analysis pieces - pre-term, kaam nahi; (10) amarujala (Jan 2025) - Dy CM Rajendra Shukla ne Civil Hospital Amarpatan ko lift/blood bank ke saughaat diye - Rajendra Kumar Singh ki koi concrete bhoomika article me nahi - attribution nahi.
 
 // REJECT-LOG vikram-singh-vicky: YouTube-only report (Mukesh Tripathi, Jul 2026) — MLA ne 19 Jun 2026 ko CMHO Satna ko patra likhkar Rampur Baghelan CHC ki Rs 30 lakh digital X-ray machine ke liye technician manga; ye sirf-maang hai, koi sampann/shilanyas/swikriti ka kaam nahi, aur source bhi YouTube-only (reject). FB/IG posts (@vikramsinghbjpmp, 2026 ke jansunwai/janta-darbar reels) — sirf maujoodgi/sabha, koi concrete karya nahi; FB/IG links source ke roop me waise bhi reject. myneta.info affidavit ka 1 pending criminal case (Crime No.373/03, PS Rampur Baghelan, charges framed 06 Sep 2014, Special Judge MP/MLA Jabalpur) — pre-term mamla, current-term me established media reporting + karyavahi + neta ka jawab teenon nahi; negative-entry niyam anusaar no entry. Election-result/affidavit pages (News18, Business Standard, TOI, Oneindia) — karya-khabar nahi, reject. Bhaskar/Patrika/Jagran/naidunia/FreePress/etvbharat par karya se judi koi khabar mili hi nahi — lagbhag 12 alag-alag Hindi + English + news-vertical queries me sirf election aur affidavit result aaye.
+
+// ---- Sehore district batch (researched 2026-10-14) ----
+
+mpWorks['ramakant-bhargava'] = [
+  {
+    title: 'Budhni ke naye vidhayak Ramakant Bhargava ne Pandagaon nadi par Rs 9.48 crore ki lagat se bane pul ka fita katkar lokarpan kiya; pul Bherunda-Sandalpur national highway par Dolly Construction ne banaya tha.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Sehore Hulchal, 30 Nov 2024',
+    sourceUrl: 'https://sehorehulchal.com/news/mla-ramakant-bhargava-inaugurated-the-bridge-in-the-light-of-mobile/',
+    date: '2024-11-30',
+    note: 'Poora hua kaam ka lokarpan: Bhargava ne upchunav jeetne ke 7 din baad swayam pooja karke fita kata; karyakram me kendriya mantri Shivraj Singh Chouhan virtual jode. Rachna lagat Rs 9 crore 48 lakh; vidhayak-nidhi ka ullekh nahi hai, fund srot spasht nahi. Chhota local portal hai (Sehore Hulchal), isliye rakam sthaliya report par aadharit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhan Sabha Budhni ke Ladkui mandal ke gram Panchour me MLA Ramakant Bhargava dwara vidhayak-nidhi se swikrit swagat dwar ka vidhivat bhoomi-pujan hua.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News Mirchi, 4 Feb 2026',
+    sourceUrl: 'https://newsmirchii.com/?p=13379',
+    date: '2026-02-04',
+    note: 'Shilanyas-bhoomi-pujan stage: swagat dwar Bhargava ki vidhayak-nidhi se swikrit hai, ye sthaliya report me spasht likha hai. Bhoomi-pujan karyakram me Bhargava ki swayam upasthiti ka ullekh nahi, mandal adhyaksh aur sarpanch upasthit the. Chhota local portal hai (News Mirchi), disclosure ke saath liya gaya. Karyakram Budhni AC ke andar hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram panchayat Basantpur Parangi me vidhayak-nidhi se Rs 10 lakh ki lagat se banne wale mangalik bhavan ka bhoomi-pujan hua; sthaliya netaon ke anusar vidhayak Ramakant Bhargava ke netritva me kshetr me vikas karya ho rahe hain.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News Mirchi, 28 Mar 2026',
+    sourceUrl: 'https://newsmirchii.com/?p=13607',
+    date: '2026-03-28',
+    note: 'Shilanyas-bhoomi-pujan stage: Rs 10 lakh ka mangalik bhavan vidhayak-nidhi se banega, ye report me spasht hai. Bhoomi-pujan me mandal adhyaksh Pawan Meena sahit janpratinidhi aur gramin upasthit the; Bhargava ki swayam upasthiti ka ullekh nahi. Chhota local portal hai (News Mirchi), disclosure ke saath liya gaya. Karyakram Ladkui mandal, Budhni AC ke andar hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rehti kshetra ke Bhuriteki me pani ki tanki ke nirman ka bhoomi-pujan MLA Ramakant Bhargava ki maujoodgi me hua.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Sehore Hulchal, 2 Apr 2026',
+    sourceUrl: 'https://sehorehulchal.com/news/the-road-that-used-to-take-40-minutes-during-the-congress-rule-now-takes-5-minutes-to-reach-ramakant-bhargava/',
+    date: '2026-04-02',
+    note: 'Shilanyas-bhoomi-pujan stage: report ke anusar Budhni vidhansabha ko kai vikas karyon ki saugat mili, jisme Bhuriteki me pani ki tanki ka bhoomi-pujan shamil hai. Bhargava aur Kartikey Singh Chouhan dono karyakram me maujood the; kisne bhoomi-pujan kiya, ye report passive voice me kehti hai, isliye credit sanyukt maana gaya hai. Lagat ya fund srot ka ullekh nahi. Chhota local portal hai, disclosure ke saath liya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram panchayat Bordi me naveen shasakiya high school bhavan ka lokarpan MLA Ramakant Bhargava ne kiya.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Sehore Hulchal, 2 Apr 2026',
+    sourceUrl: 'https://sehorehulchal.com/news/the-road-that-used-to-take-40-minutes-during-the-congress-rule-now-takes-5-minutes-to-reach-ramakant-bhargava/',
+    date: '2026-04-02',
+    note: 'Lokarpan stage: taiyaar school bhavan ka lokarpan Budhni AC ke Rehti kshetra me hua, Bhargava maujood the. Karyakram me Kartikey Singh Chouhan bhi maujood the, isliye credit sanyukt maana gaya hai. Lagat ya fund srot ka ullekh nahi. Chhota local portal hai, disclosure ke saath liya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram panchayat Mardanpur me prathmik swasthya kendra, mangalik bhavan aur machhuara bhavan ka lokarpan MLA Ramakant Bhargava ne kiya.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Sehore Hulchal, 2 Apr 2026',
+    sourceUrl: 'https://sehorehulchal.com/news/the-road-that-used-to-take-40-minutes-during-the-congress-rule-now-takes-5-minutes-to-reach-ramakant-bhargava/',
+    date: '2026-04-02',
+    note: 'Lokarpan stage: taiyaar PHC aur do bhavan ka lokarpan Budhni AC ke Rehti kshetra me hua, Bhargava maujood the. Karyakram me Kartikey Singh Chouhan bhi maujood the, isliye credit sanyukt maana gaya hai. Lagat ya fund srot ka ullekh nahi. Chhota local portal hai, disclosure ke saath liya gaya.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG ramakant-bhargava: (1) Piplani samuhik vivah event (10 May 2025, Rs 195.65 crore bhoomi-pujan/lokarpan): CM Mohan Yadav aur Union Minister Shivraj Singh Chouhan ne kiye, Bhargava sirf maujood the - sirf maujoodgi reject. (2) Bhairaunda event me Rs 101+ crore ke lokarpan/shilanyas Shivraj Chouhan ne kiye - Bhargava sirf swagat me, entry nahi. (3) 'CM ne Budhni ko 59.21 crore ki saugat' (Shivraj CM kaal, 2022 Gaurav Diwas) - pre-term reject; wahan 'sansad Ramakant Bhargava' sirf upasthit the. (4) ganjbasoda.net 2021 sansad-nidhi swikriti - sansad kaal, pre-term reject. (5) ETV Bharat flood-relief 2021 (Somalwada, 426 makaan): sansad kaal, pre-term reject. (6) Ramakant Bilgaiya (Bina nagar palika upadhyaksh) - galat vyakti reject. (7) Ramakant Upadhyay ganjbasoda byline - galat vyakti reject. (8) News Mirchi Panchour/Basantpur me rakam-ya-sanction ke bina 'karenge' wale generic vikas-dave - thos kaam nahi. (9) Sabhi chunaav-jeet/result stories (News18/TOI/Daijiworld) - kaam nahi. Note: task me karyakaal Dec 2023 likha hai par Bhargava upchunav Nov 2024 me jeete aur 23 Nov 2024 ko pad sambhala; Dec 2023-Nov 2024 ki koi entry unpar nahi jodi gayi kyunki wo Shivraj Singh Chouhan ka karyakaal tha.
+
+mpWorks['gopal-singh-engineer'] = [
+  {
+    title: 'Tilavad-Maina 6 km sadak (Rs 13.45 crore) aur pani tanki (Rs 2 crore) ka bhoomi-pujan; gaushala (Rs 38 lakh) aur Manas Bhavan tin shed (Rs 10 lakh) ka lokarpan Ashta aur Kalapipal ke vidhayakon ne sanyukt roop se kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 9 Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/ashta/news/ashta-kalapipal-mlas-performed-bhoomi-pujan-136624789.html',
+    date: '2025-12-09',
+    note: 'Shilanyas-bhoomi-pujan stage (plus lokarpan): 9 Dec 2025 (Mangalvar) ko Tilavad me Ashta vidhayak Gopal Singh Engineer aur Kalapipal vidhayak Ghanshyam Chandravanshi ne sanyukt roop se Rs 15.6 crore se adhik ke karyon ka bhoomi-pujan kiya — Tilavad-Maina 6 km marg (Rs 13.45 crore), pani ki tanki (Rs 2 crore), Dattatreya mathi ashram, Jamadar mohalla aur Deshwali mohalla me tin shed (Rs 5-5-5 lakh); saath hi gaushala (Rs 38 lakh) aur Manas Bhavan tin shed (Rs 10 lakh) ka lokarpan hua. Fund srot article me spasht nahi (vidhayak-nidhi ka ullekh nahi) — sarkari yojanaon ke kaam lagte hain. Credit sanyukt hai, dono vidhayakon ki maujoodgi thi. Tareekh Bhaskar ke article metadata (datePublished) se pusht.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak-nidhi 2025-26 se 16 gram panchayaton ko pani ke tanker saunpe; vidhayak ke anusar ab tak kul 79 tanker (Rs 1.25 crore) vitrit.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 14 Dec 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/ashta/news/16-panchayats-received-water-tankers-136663611.html',
+    date: '2025-12-14',
+    note: 'Poora hua kaam stage: sarkar ke 2 saal poore hone par hue karyakram me vidhayak ne vidhayak-nidhi 2025-26 se swikrit 16 gram panchayaton ko pani ke tanker swayam saunpe; unke anusar ab tak kul 79 panchayaton ko Rs 1 crore 25 lakh 77 hazar ke 79 tanker diye ja chuke hain. Fund srot spasht hai: vidhayak-nidhi 2025-26. Bhashan me boli anya sankhyayen (Rs 250 crore ke vikas karya, 16000 PM awas) vidhayak ke dawe hain, alag se satyapit nahi. Tareekh Bhaskar ke article metadata se pusht.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Atraliya ke Bagwai Mata mandir parisar me Rs 5 lakh ke tin shed ka bhoomi-pujan vidhayak ne kiya; rashi unhone swikrit ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 22 Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/sehore/ashta/news/a-tin-shed-worth-rs-5-lakh-will-be-built-at-bagwai-mata-temple-137016217.html',
+    date: '2026-01-22',
+    note: 'Shilanyas-bhoomi-pujan stage: 22 Jan 2026 (Guruvar) ko vidhayak Atraliya pahunche aur Bagwai Mata mandir prangan me Rs 5 lakh ke tin shed nirman ka bhoomi-pujan kiya; Bhaskar ke anusar graminon ki maang par rashi swikrit karne ka shrey vidhayak ko diya gaya hai. Fund srot article me spasht nahi (vidhayak-nidhi ka ullekh nahi). Kaam abhi shuru hona tha. Tareekh article ke Guruvar ullekh aur datePublished (23 Jan 2026) se mili hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Anandipura me Nirmal Neer kup se shamshan tak Rs 20 lakh ki CC sadak ka bhoomi-pujan vidhayak ne kiya; rashi graminon ki maang par unhone swikrit ki.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 8 May 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/ashta/news/cc-road-from-nirmal-neer-kup-to-crematorium-rs-20-lakh-approved-dbp-137889197.html',
+    date: '2026-05-08',
+    note: 'Shilanyas-bhoomi-pujan stage: Ashta janpad panchayat ki gram panchayat Anandipura me graminon ki maang par vidhayak ne Nirmal Neer kup se shamshan tak CC sadak ke liye Rs 20 lakh swikrit kiye aur 8 May 2026 (Shukravar) ko sarpanch Sajjan Singh Mewada ki maujoodgi me vidhi-vidhan se bhoomi-pujan kiya. Fund srot article me spasht nahi (vidhayak-nidhi ka ullekh nahi). Tareekh article ke Shukravar ullekh aur datePublished (9 May 2026) se mili hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Loras Kala me Rs 65.5 lakh ke vikas karyon (samudayik bhavan, CC sadak, tin shed, chabutra) ka bhoomi-pujan vidhayak ne kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 22 Apr 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/ashta/news/bhoomipujan-for-development-works-worth-rs-6550-lakh-in-loras-kala-dbp-137764213.html',
+    date: '2026-04-22',
+    note: 'Shilanyas-bhoomi-pujan stage: Maina mandal ki gram panchayat Loras Kala me 22 Apr 2026 (Budhvar) ko vidhayak ne chaar karyon ka bhoomi-pujan kiya — samudayik bhavan (Rs 25 lakh), CC sadak (Rs 20 lakh), gram Chapri me tin shed (Rs 20 lakh) aur chabutra (Rs 50 hazar), kul Rs 65.5 lakh. Karyakram me janpratinidhi aur gramin maujood the. Fund srot article me spasht nahi. Tareekh article ke Budhvar ullekh aur datePublished (23 Apr 2026) se mili hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Javar me Rs 2.79 crore ke karyon ka lokarpan vidhayak ne kiya — Nevaj nadi pul (ab Shri Ram Setu), nadi pitching, Ram mandir ghat aur naya mukti dham.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'UpdateNews247, 1 Jun 2026',
+    sourceUrl: 'https://updatenews247.com/%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a4%b0-%e0%a4%95%e0%a5%8b-%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a5%80-%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80-%e0%a4%b8%e0%a5%8c%e0%a4%97%e0%a4%be%e0%a4%a4-%e0%a4%b5%e0%a4%bf/',
+    date: '2026-06-01',
+    note: 'Lokarpan stage: 1 Jun 2026 ko Javar nagar me vidhayak ne Rs 2.79 crore ke karyon ka fita katkar lokarpan kiya — Nevaj nadi par Rs 83 lakh ka naya pul (ab Shri Ram Setu), nadi pitching evam saundaryikaran (Rs 1.88 crore), Ram mandir ghat (Rs 50 lakh) aur naya mukti dham (Rs 58 lakh). Portal ke anusar karya vidhayak ke sarthak prayason se swikrit hue; fund srot nirdisht nahi. Chhota local portal hai (UpdateNews247), rakam aur swikriti ka dawa sthaliya report par aadharit — disclosure ke saath liya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jaffrabad me Rs 139.29 lakh ki lagat se bane sarkari high school bhavan ka lokarpan vidhayak ne kiya.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'People\u2019s Update, 21 Aug 2026',
+    sourceUrl: 'https://peoplesupdate.com/sehore-jaffrabad-government-high-school-building-inauguration-mla-gopal-singh-engineer-170326',
+    date: '2026-08-21',
+    note: 'Lokarpan stage: Ashta vikas khand ke gram Jaffrabad me Rs 139.29 lakh ki lagat se bane shaskiya high school bhavan ka 21 Aug 2026 ko vidhayak ne fita katkar lokarpan kiya; nirman Gramin Yantriki Seva (RES) Sehore ne karaya tha. Vidhayak-nidhi ka ullekh nahi — sarkari nirman ka lokarpan, isliye credit lokarpan ki bhoomika tak seemit hai. People\u2019s Update (Peoples Samachar, Bhopal ka kshetriya dainik) me Sehore bureau ki report.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Javar me Sendhva Kshatriya Rajput samaj dharmshala ke chhatravas nirman ke liye vidhayak-nidhi se Rs 16 lakh ki ghoshna; vidhayak ne nagar parishad se estimate banane ko kaha.',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Bhaskar, 21 Jun 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/jawar/news/met-mla-for-dharamshala-discussed-rs-16-lakh-dbp-138247666.html',
+    date: '2026-06-21',
+    note: 'Ghoshna stage: chhatravas nirman samiti ke pratinidhimandal ki maang par vidhayak ne pehle ke karyakram me vidhayak-nidhi se Rs 16 lakh dene ki ghoshna ki thi; 21 Jun 2026 ko mulaqat me vidhayak ne nagar parishad Javar ko turant estimate banane ke liye kaha aur jald kaam karane ki baat kahi. Swikriti ki koi dastavezi pushti (GO ya itemized report) nahi mili — isliye ghoshna ke roop me darj. Fund srot ghoshna ke anusar vidhayak-nidhi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shaheed Bhagat Singh mahavidyalaya me pratima sthal ke saundaryikaran ke liye vidhayak-nidhi se Rs 1.5 lakh swikrit hone ka portal ka dawa; karya pragati par.',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'OnlineBulletin, 30 May 2025',
+    sourceUrl: 'https://onlinebulletin.in/meeting-of-shaheed-bhagat-singh-mahavidyalaya-concluded-mla-gave-for-beautification-of-bhagat-singh-jis-statue-site/',
+    date: '2025-05-30',
+    note: 'Ghoshna stage (sanction-dawa): chhota local portal hai (OnlineBulletin), disclosure ke saath liya gaya. Portal ke anusar Ashta ke Shaheed Bhagat Singh shaskiya snatak mahavidyalaya ki janbhagidari samiti ki baithak me vidhayak ne pratima sthal par railing nirman evam saundaryikaran karya ki pragati ki samiksha ki aur bataya gaya ki vidhayak-nidhi se Rs 1.5 lakh swikrit hain, jisse karya chal raha hai. GO ya sthapit media me itemized swikriti report nahi dekhi — niyam anusar bina GO ke swikriti-dawa ghoshna ke roop me darj. Tareekh portal ke mool prakashan (30 May 2025) ke anusar.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG gopal-singh-engineer: (1) ITDC India — Divisional Commissioner/SDM ke Ashta janpad nirikshan aur CM welfare camp me MLA ki keval maujoodgi; kisi kaam me unki thos bhoomika nahi (sirf maujoodgi). (2) YouTube/Shrey TV — Seva Sankalp Abhiyan 2026 ka shubharambh: YouTube-only + jagrukta abhiyan ka udghatan, vikas karya nahi. (3) YouTube/Shrey TV — Sai colony Baba Ramdev mandir tin shed Rs 1 lakh ki ghoshna (Holi utsav): YouTube-only. (4) YouTube/Shrey TV — Gram Gwawli me vidhayak-nidhi se Rs 5 lakh ke tin shed ka lokarpan: YouTube-only. (5) YouTube/Shrey TV — Prem Mohan Vatika lokarpan: YouTube-only. (6) cnewsbharat — Mahila Morcha Rameshwaram yatra ko vidhayak dwara rawaana karna: party gatividhi, kshetra-vikas karya nahi. (7) Bhaskar/Punjab Kesari/Hriday Stambha — MLA ke bete Mahendra Singh aur poorv parshad ke beech vivad/FIR: parivar ka mamla, niyam anusar MLA par kabhi nahi (negative entry ke liye vidhayak swayam par koi aarop/FIR reporting nahi mili). (8) ABP/Zee/Oneindia/Wikipedia chunav parinam profile: pre-term/campaign, vikas karya nahi. (9) mpbreakingnews — mandir/dargah darshan aur Siddiganj chunav prachar (Nov 2023): pre-term campaign. (10) Bhaskar tanker article me Rs 250 crore karyon ka dawa: itemized nahi, vidhayak ke bhashan ka samanya dawa — alag entry nahi.
+
+// Karan Singh Verma — Ichhawar (AC-158), BJP, Sehore district, MP
+// Dec 2023 se vidhayak + Mohan Yadav sarkar me RAJASVA MANTri hain.
+// Isliye mantri-hone ka niyam apply: sirf Ichhawar seat ke kaam liye gaye;
+// rajya-stariya vibhagi faisle/budget/policy entries nahi banayi gayi.
+// Har source khud khola aur padha gaya; snippet se koi entry nahi.
+mpWorks['karan-singh-verma'] = [
+  {
+    title: 'Karan Singh Verma ne Ichhawar me Rs 1 crore ki lagat se banne wale muktidham ka bhoomi-pujan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 28 Mar 2025',
+    sourceUrl: 'https://www.etvbharat.com/hi/!state/sehore-karan-singh-verma-declare-not-contest-next-election-muktidham-bhoomi-pujan-ichhawar-madhya-pradesh-news-mps25032802382',
+    date: '2025-03-28',
+    note: 'Revenue Minister aur Ichhawar MLA Karan Singh Verma ne Ichhawar me Rs 1 crore ki lagat se banne wale muktidham ka bhoomi-pujan kiya; unhone manch se yeh bhi kaha ki ve agla vidhansabha chunav nahi ladenge. Stage: shilanyas-bhoomi-pujan (kaam shuru hone wala, purn nahi). Fund source article me specified nahi hai (vidhayak-nidhi hone ka daawa nahi). ETV Bharat established media hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Karan Singh Verma ne Ichhawar tehsil me Kundikhal se Bhanvra tak Rs 3.96 crore ki 5 km sadak ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Newz Fatafat (Hindustan Samachar wire), 11 Jan 2025',
+    sourceUrl: 'https://newzfatafat.com/amp/rajya/inaugurated-the-road-built-at-a-cost-of-rs-3-96-crphp/cid16039413.htm',
+    date: '2025-01-11',
+    note: 'Unhone Ichhawar tehsil ke gram Kundikhal me aayojit karyakram me Kundikhal se Bhanvra tak nirmit 5 km lambi, Rs 3.96 crore lagat ki sadak ka lokarpan kiya. Stage: lokarpan (kaam purn). Fund source article me specified nahi hai. Caveat: newzfatafat.com chhota portal hai, lekin report Hindustan Samachar wire (byline Mukesh Tomar) ki hai, jo portal ki khud ki reporting nahi — isliye disclose kiya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Karan Singh Verma ne Ichhawar ke Netaji Subhash Chandra Bose sarkari mahavidyalaya me Rs 3.30 crore ke pustakalaya aur sanskritik bhavan ka bhoomi-pujan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 18 Mar 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/sehore/icchawar/news/the-building-which-had-been-inaugurated-by-the-chief-minister-was-again-inaugurated-by-minister-verma-who-performed-the-bhoomi-pujan-and-cut-the-ribbon-dbp-137472259.html',
+    date: '2026-03-18',
+    note: 'Unhone mahavidyalaya parisar me Rs 3.30 crore se banne wale sarv-suvidhayukt pustakalaya aur sanskritik bhavan ka bhoomi-pujan kiya. Dono bhavano ki aadhaarshila kendriya mantri Shivraj Singh Chouhan ko rakhni thi, lekin ve karyakram me nahi pahunche, isliye Verma ne bhoomi-pujan kiya. Stage: shilanyas-bhoomi-pujan. Fund source specified nahi (vidhayak-nidhi hone ka daawa nahi). Caveat: Bhaskar page fetch me article ka text adhoora dikha, lekin event, rakam, sthal aur unki bhoomika ke core facts verify ho gaye.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Karan Singh Verma ne Dhabla Kelwadi me Rs 2.32 crore ki lagat se bane 33/11 kV bijli upkendra ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'IND24, 24 Sep 2026',
+    sourceUrl: 'https://www.ind24.tv/madhya-pradesh/sehore-minister-karan-singh-verma-naag-statement-next-birth',
+    date: '2026-09-24',
+    note: 'Unhone Sehore jile ke Dhabla Kelwadi gaon (Bilkisganj vitaran kendra) me Rs 2.32 crore ki lagat se nirmit 33/11 kV bijli upkendra ka lokarpan kiya; upkendra 24 Sep 2026 ko urjikit hua, teen 11 kV feeders (ek gharelu, do krishi pump) se Dhabla Kelwadi, Ramakhedi, Heerapur, Piplner, Kishanpura, Napli, Chainpura aur Sikandarganj samet aath gaon labhanvit. Stage: lokarpan (kaam purn aur urjikit). Constituency check: Dhabla (Bilkisganj post office) Ichhawar AC me aata hai aur sthaniya report ne unhe "kshetriya vidhayak" kaha — isliye Ichhawar seat ka kaam mana gaya. Yeh energy department ki asset hai, vidhayak-nidhi nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Karan Singh Verma ne Ichhawar block ke Dhamanda aur Ramnagar me kul Rs 2.24 crore ke do swasthya kendron ka bhoomi-pujan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'NNSP, Jul 2024',
+    sourceUrl: 'https://nnsp.in/revenue-minister-verma-performed-bhoomi-pujan-of-health-centers-in-ichhawar/',
+    date: '2024-07-29',
+    note: 'Unhone Ichhawar vikas-khand ke gram Dhamanda me Rs 65 lakh ki lagat se up-swasthya kendra aur gram Ramnagar me Rs 1.59 crore ki lagat se prathmik swasthya kendra banane ka bhoomi-pujan kiya. Stage: shilanyas-bhoomi-pujan. Fund source article me specified nahi hai. Caveat: NNSP chhota local portal hai aur article page par tareekh printed nahi thi; event late July 2024 ka hai (blog archive index aur report me "Revenue Maha Abhiyan 2.0" ke ullekh ke aadhar par date di gayi hai).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG karan-singh-verma:
+// 1. Jawar me 9 km sadak ka bhoomi-pujan, Rs 20 crore (public.app, Oct 2026) — SOURCE FAIL: sirf public.app video/post, koi canonical news source nahi mila. Reject.
+// 2. Mahavidyalaya pustakalaya bhavan bhoomi-pujan video (YouTube-only, "mp news yadav" channel) — YouTube-ONLY source; wahi event Dainik Bhaskar me cover hua, wahan se entry banayi. Reject.
+// 3. Zee News muktidham kahani (Mar 2025) — DUPLICATE: ETV Bharat wali kahani ka hi doosra version, alag entry nahi. Reject.
+// 4. "Ek crore 06 lakh se adhik ke nirman/vikas karyon" ka bhoomi-pujan, Ichhawar (mpvishwasnews.com, 27 Mar 2025) — LIKELY DUPLICATE: tareekh, rakam (~Rs 1 crore) aur sthal muktidham event se match; double-counting se bachne ke liye alag entry nahi banayi. Reject.
+// 5. Ichhawar me PM Gram Sadak Yojana-4 ke 36 sadakon ka bhoomi-pujan (sehorehulchal.com, pre-event, 27 Sep 2026) — SIRF MAUJOODGI: bhoomi-pujan kendriya mantri Shivraj Singh Chouhan ne kiya; Verma sirf upasthit mantriyon me ek. Free Press Journal (Jun 2026 update) me bhi unki bhoomika sirf swikriti-patra vitran me upasthiti tak. Reject.
+// 6. Muskara me Rs 1.84 crore aspatal ka bhoomi-pujan (agniban.com, Vikas Yatra) — TENURE FAIL: Feb 2023 (Dec 2023 se pehle). Reject.
+// 7. Bhaukhedi Kanhaiya gaushala + MGNREGA park lokarpan (Naidunia, 15 Feb 2022) — TENURE FAIL: 2022. Reject.
+// 8. Kheri-Jamli sadak virodh (The Week/PTI, Bhaskar English, Jun 2025) — NO WORK: virodh-pradarshan, kaam bana hi nahi; maang/protest entry nahi banti. Reject.
+// 9. Ichhawar me jal sankat lekh (lakshyatoday.com, mpbreakingnews.in, 2024-25) — NO WORK: shikayat/reportage, koi thos kaam ya unki dastavezi bhoomika nahi. Reject.
+// 10. NIMHR Sehore blocks udhghatan (medicalbuyer/indiaeducationdiary, Jan 2025) — KSHTRA-BAHAR + SIRF MAUJOODGI: Sehore shahar ka kendriya karyakram, udhghatan kendriya mantri ne kiya. Reject.
+// 11. Naidunia substation story preprod mirror (org496gtr7prepod.naidunia.com) — STAGING/PREPROD mirror; isi event ki IND24 wali kahani istemal ki. Reject.
+// 12. Viral paisa-baantne wala video (mpbreakingnews.in, Oct 2023 chunaav) — NO WORK + UNVERIFIED: koi vikas kaam nahi, video ki pushti nahi. Reject.
+// 13. Money-video ke baad "agla chunav nahi ladenge" waale election announcements — ghoshna hai, kaam nahi. Reject.
+// Kul: 5 entries qualified, 13 leads reject. Profile KHAALI NAHI hai.
+
+mpWorks['sudesh-rai'] = [
+  {
+    title: 'Shyampur, Shekhpura aur Waheedganj me Rs 50 lakh ke naye nirman karyon ka bhoomi-pujan aur Rs 45 lakh ke poore hue karyon ka lokarpan, gaon ke bujurgon ke madhyam se.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sehore Hulchal, 20 Aug 2025',
+    sourceUrl: 'https://sehorehulchal.com/news/mla-rai-got-the-elderly-to-perform-bhoomi-pujan-for-construction-work-worth-rs-50-lakh/',
+    date: '2025-08-20',
+    note: '20 Aug 2025 ko vidhayak Sudesh Rai ne Shyampur, Shekhpura aur Waheedganj ka daura karke gaon ke bujurgon se Rs 50 lakh ke naye nirman karyon ka bhoomi-pujan sampann karaya: Shyampur me Chaupda Hanuman mandir me Rs 20 lakh ka tin shed, Shekhpura me Rs 24.90 lakh ka manglik bhavan, Rs 5 lakh ka tin shed, Rs 1.5 lakh ki puliya, Rs 1.5 lakh ka devsthal chabutra-chhat nirman, aur Waheedganj me Rs 1.5 lakh ka shamshan shed. Saath hi unhone poore hue karyon ka lokarpan bhi kiya: Shyampur me Rs 15 lakh ki shamshan ghat boundary wall, Rs 10 lakh ki Chaupda Hanuman mandir boundary wall, Rs 10 lakh ki sarvjanik dharmshala boundary wall aur Rs 9.5 lakh ka anganwadi bhavan. Fund srot article me spasht nahi hai, vidhayak-nidhi ka ullekh nahi. Stage: naye karyon ke liye shilanyas-bhoomi-pujan, poore karyon ke liye lokarpan. Source chhota local Sehore portal hai (Sehore Hulchal), isliye rakam aur karyon ki adhikarik pushti nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhan sabha kshetra ke chaar gaonon me kul Rs 5.62 crore ki chaar damar sadakon ka bhoomi-pujan, gaon ke bujurgon se sampann karaya gaya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Prime24, 30 Jan 2025',
+    sourceUrl: 'https://www.prime24.in/2025/01/Gaonko.html',
+    date: '2025-01-30',
+    note: '30 Jan 2025 ko vidhayak Sudesh Rai ne apne vidhan sabha kshetra ke chaar gaonon me kul Rs 5.62 crore ki chaar damar sadakon ka bhoomi-pujan gaon ke bujurgon se sampann karaya: Katpon crusher se Haliyabheel tak 1.40 km (Rs 1.11 crore), Motipura se Magarda tak 2 km (Rs 1.21 crore), Sounthi se Sonthipura tak 1.50 km (Rs 1.60 crore) aur Ghatplasi se Sonda tak 2.20 km (Rs 1.68 crore). Unhone khud pujan na karke kanyapujan ke baad vidhivat roop se bujurgon se pujan karaya aur karyakramon me jan-samuh ko sambodhit kiya. Fund srot article me spasht nahi hai, vidhayak-nidhi ka ullekh nahi. Stage: shilanyas-bhoomi-pujan, karyakram ho chuka hai. Source chhota local portal hai (Prime24), disclosure ke saath liya gaya, adhikarik pushti nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sehore shahar ke ward 9 me Vaishali Nagar se Chanakypuri tak 1500 meter CC sadak ke nirman ka bhoomi-pujan, mukhya atithi ke roop me shirkat.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Navbharat, 3 Nov 2025',
+    sourceUrl: 'https://navabharat.com/?p=327976',
+    date: '2025-11-03',
+    note: 'Sehore nagar palika kshetra ke ward 9 me Vaishali Nagar se Chanakypuri tak 1500 meter lambi CC sadak ke nirman ka bhoomi-pujan vidhayak Sudesh Rai ke mukhya atithya me sampann hua; karyakram me nagar palika adhyaksh Prince Rathore bhi upasthit the aur bhoomi-pujan nagrikon ke madhyam se karaya gaya. Sadak se Narmadeshwar Shiv mandir aur Godhan Sarkar mandir jaane wale shraddhaluon ko rahat milegi. Rakam aur fund srot article me nahi diye gaye. Stage: shilanyas-bhoomi-pujan, karyakram ho chuka hai, pre-event ghoshna nahi. Source Navbharat ka digital sanskaran hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Murali under-bridge ke paas nirmanadheen Vishwakarma mandir aur dharmshala ke shesh karya vidhayak-nidhi se poora karane ki ghoshna.',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Live Aaryaavart, Feb 2026',
+    sourceUrl: 'https://www.liveaaryaavart.com/2026/02/Visheakarma-temple-sehore.html',
+    date: '2026-02-01',
+    note: 'Feb 2026 me Sehore ke Murali under-bridge ke paas Jangid Brahmin samaj ke nirmanadheen Vishwakarma mandir aur dharmshala sthal par hue aarti-karyakram me vidhayak Sudesh Rai ne ghoshna ki ki mandir-dharmshala ke shesh nirman karya vidhayak-nidhi se poore karaye jayenge, samaj ke pratinidhiyon ke agrah par. Rakam aur samay-seema ki ghoshna nahi hui aur swikriti-aadesh ya GO ka koi saboot article me nahi hai, isliye stage ghoshna hai, swikriti nahi. Source chhota local portal hai (Live Aaryaavart) aur page par exact prakashan-tareekh nahi dikhi, URL pattern Feb 2026 ka hai. Badge dawa isliye kyunki ye neta ki apni ghoshna ka media-report hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG sudesh-rai: (1) sehorehulchal 16 Dec 2022, Sehore-Shyampur 30.72cr MPRDC sadak: pre-term + pre-event "karenge" announcement + CM swikriti sirf unki "maang" par, GO nahi. (2) liveaaryaavart Sep 2023, 9.33cr gramin lokarpan/bhoomi-pujan: pre-term (chunavi-saal 2023). (3) liveaaryaavart Sep 2021, BSI khel maidan 5 lakh: pre-term. (4) CM 113.45cr Sehore event Jun 2025 (FPJ/indianmasterminds/indiaeducationdiary/amarujala): Sudesh Rai sirf maujood/sambodhan, unka dastavezi kadam = college-Gita Bhavan ki maang, karyon me concrete bhoomika nahi. (5) amarujala 6 Jun 2025, 51cr pre-event: pre-event announcement, CM karyakram me sirf maujoodgi. (6) sehorehulchal 13 Jan 2025 MP-MLA tour: lokarpan/bhoomi-pujan ka generic ullekh, koi itemized karya/rakam nahi. (7) liveaaryaavart Oct 2026 Activa inspection: sirf nirikshan-nirdesh. (8) liveaaryaavart Sep 2026 Yuva Samvad: bhavishya ke vaade ("karenge" - rozgar portal, coaching, library); Shyampur four-lane work-order rajya/MPRDC karya, unka kadam sirf ullekh. (9) patrika Jan 2024, Kubereshwar Dham 2.63cr PMGSY sadak: bhoomi-pujan Pandit Pradeep Mishra ke mukhya atithya me, Sudesh Rai sirf chaar saha-adhyakshon me ek; unka dastavezi concrete kadam nahi. (10) YouTube budget video, 8cr 4 sadaken: YouTube-only. (11) lakshyatoday vidhayak-nidhi 83.5 lakh profile: opinion piece, koi itemized karya nahi; ginaye gaye bade karya 2013-2023 karyakaalon ke. (12) Pragya Thakur sharab-theka aarop Mar 2024 (PTI/ThePrint/ET): established reporting + aarop + neta ka jawab maujood, lekin koi FIR/case/adalaati ya adhikarik janch-karyavahi nahi - negative-entry criteria poore nahi. (13) patrika Oct 2026 garba aarop (Umang Singhar): aarop hai, FIR/janch/jawab nahi - negative criteria poore nahi. (14) nationpress PMGSY-IV 36 sadaken: Shivraj Chouhan ne Bordi/Ichhawar me shilanyas kiya, Sudesh Rai ki bhoomika nahi, kshetra-bahar.
+
+// COORDINATOR QA NOTE (2026-10-14, Sehore): gopal-singh-engineer ki Khedapati Hanuman mandir
+// Rs 11L manch-ghoshna entry HATA di (sirf manch se ghoshna, bina swikriti/GO/fund-srot — Uikey-tiger-safari
+// aur Mohan Sharma precedents). Javar dharmshala Rs 16L ghoshna aur Bhagat Singh college Rs 1.5L sanction-dawa
+// entries badge dawa par downgrade karke rakhi hain (MLA ke apne daawe, news me report, poora disclosure).

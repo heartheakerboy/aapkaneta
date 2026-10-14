@@ -4508,7 +4508,7 @@ export const madhyaPradeshNetas: Neta[] = [
     constituency: 'Budhni',
     constituencySlug: 'budhni',
     tenures: [
-      { post: 'MLA', constituency: 'Budhni', constituencySlug: 'budhni', party: 'Bharatiya Janata Party', start: '2023', end: '2028' },
+      { post: 'MLA', constituency: 'Budhni', constituencySlug: 'budhni', party: 'Bharatiya Janata Party', start: '2024', end: '2028' },
     ],
     works: [],
     fund: {
