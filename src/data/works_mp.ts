@@ -3437,3 +3437,520 @@ mpWorks['dr-ram-kishore-dogne'] = [
 // 4. Pokharni-Harda sadak ko lekar 35 km padyatra + gyapan (Sep 2026, MP Breaking News / Anokha Teer) — dharna/yatra/maang, kaam nahi; sadak ke dikhai dene wale bhoomi pujan ka shrey BJP ke poorv mantri Kamal Patel ko (article me credit-war) — MLA ke "Rs 17 crore manzoor karaya" counter-dave ka koi sanction saboot nahi, reject.
 // 5. Gandhi kutiya (ETV Bharat, Oct 2019) — 2013-18 wale pichle karyakaal ka kaam, current tenure se bahar, reject.
 // Koi negative entry nahi mili. Donon profiles me entries hain — koi khaali profile nahi rahi.
+
+// ---- Indore district batch (researched 2026-10-14) ----
+// Indore (MP ka 21va jila): 9/9 MLA (sab BJP, karyakaal Dec 2023+). Coordinator QA notes:
+// - Golu Shukla ki Ward-64 entry (madhyapradeshdarshan.com, gambling-spam se polluted domain) coordinator ne hatayi.
+// - Mahendra Hardia ki NBT Urdu-school entry (attached URL sambandhit nahi) hatayi.
+// - Usha Thakur ki Nai Dunia Hasalpur entry (khabar verify nahi hui; attached URL galat) hatayi; AMRUT-2 wali entry ka badge dawa (MLA ka swayam ka "we have approved" dawa, GO nahi).
+// - Silawat ki Shipra Rs. 61cr sadak entry (lokarpan PWD mantri ne kiya, Silawat sirf sah-mejban) hatayi.
+// - Vijayvargiya entries 1-3 ke URLs par shaq hua tha — coordinator ne teeno articles khud kholkar verify kiye: FPJ sewer (solar-city headline wala article), FPJ kafir-remark event, ETV Malharganj — content sahi, rakhi gayi. Sirf Malharganj wali rashi (Rs. 7cr) verify nahi hui, hatayi.
+// - Manoj Patel ki cabinet-sanction entry ka badge sarkari->news (Patrika report = news, sarkari record nahi).
+// - Silawat fragment me galti se dohra 'const mpWorks' declaration tha — coordinator ne strip kiya (warna TS duplicate-declaration error aata).
+// Works research: Manoj Nirbhay Singh Patel, Depalpur AC-203 (Indore, MP), BJP, Dec 2023-
+// Sources opened and read directly. 2 entries pass; rest in REJECT-LOG.
+
+mpWorks['manoj-nirbhay-singh-patel'] = [
+  {
+    title: 'Gautampura station par Indore-Jodhpur Express ka stoppage shuru — sansad ke saath sanyukt hari jhandi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Lalluram, 6 Sep 2025',
+    sourceUrl: 'https://lalluram.com/mp-news-the-wait-is-over-indore-jodhpur-express-train-stops-at-gautampura-mp-and-mla-flagged-off/',
+    date: '2025-09-05',
+    note: 'Gautampura railway station par 5 Sep 2025 ko pehli baar Indore-Jodhpur Express ka stoppage hua; railway ne Sansad Shankar Lalwani aur Vidhayak Manoj Patel ko aamantrit karke train ko hari jhandi dikhwai. Stage: lokarpan (pehli train stoppage se seva shuru; MP ne aur platform + footbridge ki ghoshna ki — wo alag future ghoshna hai). Credit-pardarshita: 11 saal purani jan-maang thi; article ke mutabik Sansad ne Rail Mantri ko patra likha tha (maang ka netritva MP ka); MLA ki concrete bhoomika railway ke aamantran par sanyukt hari jhandi thi. Disclosure: source chhota regional portal (Lalluram, Raipur-based) hai, established media nahi.\nStatus: lokarpan/poora (stoppage 5 Sep 2025 se shuru).',
+    period: '2023-2028',
+  },
+];
+// PARENT QA NOTE (2026-10-14): manoj-patel ki Indore-Depalpur four-lane 'cabinet swikriti' entry HATA di —
+// ye 12-sadak rajya package tha, MLA ki bhoomika sirf 'lambe samay se prayas' thi; koi dastavezi
+// concrete kadam article me nahi (Guna/Penchi Kumbhraj precedent — rajya-pariyojna + prayas-dawa = entry nahi).
+// Gautampura train entry rakhi hai: lokarpan-bhoomika unki thi, MP ke netritva ka disclosure note me hai.
+
+
+// REJECT-LOG
+// 1. EMS-India report (CM Mohan Yadav Depalpur visit, 26 Nov 2025): Rs. 1538 crore Chambal-Maan lift irrigation sanction + Indore-Depalpur 4-lane ghoshna + Gautampura college + PHC->CHC upgrade. REJECT as MLA entry: MLA sirf maujooda tha (maujoodgi rule); ye CM ki sarkari ghoshnaen hain, unki concrete bhoomika article me nahi.
+// 2. Agnialok (Rs. 1.12 crore Resham Kendra-Birgoda road damrikaran, Shivraj era): REJECT — pre-Dec 2023 ("poorv vidhayak" + Shivraj CM), karyakaal se pehle ka kaam.
+// 3. HinduismNow Global Press (Depalpur Rs. 100 crore Vishnu temple, trust chaired by MLA): REJECT — private religious trust ka project hai, vidhayak-nidhi/sarkari karya nahi; 1968-69 se chali aa rahi parampara ka trust nirmaan.
+// 4. Rangeelapradesh (Depalpur-Sanwer Rs. 78.66 crore road cracks; MLA ki chuppi ka aarop): REJECT — negative-entry rule fail (chhota portal, bina case/FIR/adhikarik karwai, neta ka jawab bhi nahi); 2018 ka bhoomi-pujan bhi current tenure se pehle ka hai.
+// 5. TOI + FPJ (Depalpur 100-day Swachh campaign; MLA ne sabse saaf ward ko Rs. 11 lakh personal award ghoshit): REJECT — bhavishya-ki ghoshna-type khabar (award promise, bina poorn karyanvayan saboot), campaign khud IMC ka tha.
+// 6. public.app video (Nandbag ward 16 lokarpan): REJECT — banned source (public.app-only).
+// 7. DNA India (election-time "koi vikas nahi" candidate speech, 2013-era story): REJECT — pre-election statement, current karyakaal ka karya nahi.
+// 8. Amar Ujala (ticket protest rallies, Sep 2023): REJECT — election-time political khabar, karya nahi.
+// 9. Times Now (Kailas Vijayvargiya effigy burn, Dec 2023): REJECT — political news, kshetra-kaam nahi.
+
+// Kailash Vijayvargiya (BJP) — Indore-1 AC-204, term Dec 2023+; CABINET MANTRI (Nagriya Vikas)
+// Mantri-niyam sakhti se: unke vibhag ke rajya-stariya faisle liye HI NAHI — sirf Indore-1 seat ke
+// thos kaam jisme unki constituency-bhoomika (swayam shilanyas/lokarpan, ward corporator ke saath
+// kshetra-karyakram) article me spasht ho. Researched 2026-10-14. Har entry khud khole gaye
+// canonical article se; snippet se koi entry nahi bani.
+
+mpWorks['kailash-vijayvargiya'] = [
+  {
+    title: 'Indore-1 (wards 13-17) me Rs. 53 crore ke sewer works ka bhoomi-pujan (AMRUT 2.0 + nigam nidhi)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 20 Nov 2025',
+    sourceUrl: 'https://www.freepressjournal.in/indore/indore-news-city-to-become-solar-city-says-urban-development-minister-kailash-vijayvargiya',
+    date: '2025-11-18',
+    note: 'FPJ ke mutabik Vijayvargiya aur mahapaur Pushyamitra Bhargav ne milkar assembly constituency-1 me Rs. 53 crore ke vikas karyon ka bhoomi-pujan kiya: (1) AMRUT 2.0 package-02 — Rs. 40 crore, 30 km sewer network (250-900 mm), Ward 16-17, ~42,000 labharthi, Kanh nadi/nalon ki safai me sahayak; (2) nagar-nigam nidhi — Rs. 13 crore, 3.5 km primary sewer line (300-1200 mm) Laxmibai Statue se RR City tak, Chhota Bangarda Road par, Wards 13, 14, 16, ~32,000 labharthi. Stage: shilanyas-bhoomi pujan (karya hone wala tha; poora hone ki report nahi). Credit-paradarshita: AMRUT 2.0 kendra/rajya yojna aur nigam nidhi hai — unki Indore-1 ke MLA ke naate concrete bhoomika article me spasht hai (unhone swayam apne kshetra me mahapaur ke saath bhoomi-pujan kiya). Mantri-niyam ke mutabik ye seat-kaam hai, statewide ghoshna nahi. Article me event "Tuesday" bataya aur publish 2025-11-20 hua — event date 2025-11-18 maani gayi.\nStatus: bhoomi-pujan ho chuka; karya pragati par (poorna hone ki alag report nahi mili).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 1 aur 5 (Indore-1) me Rs. 2.39 crore ke 10 vikas karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 23 Jun 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/cabinet-minister-kailash-vijayvargiya-rows-over-kafir-remark-on-roads-welfare-benefits',
+    date: '2026-06-21',
+    note: 'FPJ ke mutabik Indore-1 vidhansabha kshetra ke ek karyakram me Vijayvargiya ne Ward 1 aur Ward 5 ke kul 10 vikas karyon (kul lagat Rs. 2.39 crore) ki ghoshna ki aur unke shilanyas kiye. Karyaon ke prakar (sadak/paani aadi) article me specify nahi. Stage: shilanyas — article me "announced and laid the foundation stones". Credit-paradarshita: unhone swayam apne kshetra me shilanyas kiya; yojna/nidhi ka strot article me specify nahi, isliye vidhayak-nidhi ka dawa nahi. Event "Sunday" ko hua, article publish 2026-06-23 — event date 2026-06-21 maani gayi.\nStatus: shilanyas/ghoshna (poorna hone ki alag report nahi mili).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 6 (Malharganj, Indore-1) me vikas karyon ka lokarpan aur bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, 21 Sep 2026 (FPJ corroboration, 22 Sep 2026)',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/indore-kailash-vijayvargiya-controversy-remark-bjp-female-councilor-regarding-physical-build-mps26092102263',
+    date: '2026-09-20',
+    note: 'ETV Bharat ke mutabik 20 September 2026 (Ravivar) ko Vijayvargiya ne sansad Shankar Lalwani ke saath Ward 6 (Malharganj) me vikas karyon ka lokarpan aur bhoomi-pujan kiya. FPJ ne iski pushti ki: "development works foundation ceremony" Ward 6, Assembly Constituency No. 1 me aayojit hui, karyon ki lagat (researcher ne Rs. 7 crore se adhik likhi thi, lekin khole gaye sources me rashi verify nahi hui — isliye rashi hatayi gayi). Karyaon ke prakar article me specify nahi. Stage: lokarpan + shilanyas (ETV ne dono shabdon ka prayog kiya). Credit-paradarshita: unhone apne kshetra (Indore-1) me swayam lokarpan/bhoomi-pujan kiya — seat-kaam; CM/PM ke karyakram me sirf maujoodgi wala mamla nahi. Isi karyakram ka vivad wala hissa (mahila parshad par tipni, baad me khed vyakt) negative entry ke yogya nahi — bayan-vivad hai, koi case/FIR/adhikarik karwai nahi.\nStatus: lokarpan + shilanyas sampann (20 Sep 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward-15 (Bijasan, Indore-1) me Rs. 1.65 crore ki sadak works ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 28 Jul 2025',
+    sourceUrl: 'https://www.freepressjournal.in/indore/3-crore-development-works-in-indores-ward-15',
+    date: '2025-07-27',
+    note: 'FPJ ke mutabik Vijayvargiya ne Ward-15 me Rs. 3 crore ke vikas karyon ka udghatan/shilanyas kiya: Rs. 1.65 crore ki sadak works ka lokarpan aur Rs. 1.35 crore ke anya vikas karyon ka shilanyas (ward parshad Mamta Sunere ke saath). Is entry me sadak wala hissa. Stage: lokarpan — article me "inaugurated"; poora hone ki independent pushti article me nahi. Credit-paradarshita: unhone swayam udghatan kiya. Ward-mapping disclosure: article me "assembly constituency-1" ka explicit zikr nahi; lekin current ward-numbering me Indore-2 = wards 18-34 (Wikipedia Indore-2 page), aur FPJ/Naidunia/Webdunia ki reports wards 1, 5, 6, 7, 13, 14, 16, 17 ko AC-1 batati hain — is aadhar par Ward-15 (Bijasan) Indore-1 block (wards 1-17) me aata hai. Event "Sunday" ko hua, article publish 2025-07-28 — event date 2025-07-27 maani gayi.\nStatus: lokarpan sampann (Jul 2025).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward-15 (Bijasan, Indore-1) me Rs. 1.35 crore ke vikas karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 28 Jul 2025',
+    sourceUrl: 'https://www.freepressjournal.in/indore/3-crore-development-works-in-indores-ward-15',
+    date: '2025-07-27',
+    note: 'FPJ ke mutabik Vijayvargiya ne Ward-15 me Rs. 1.65 crore sadak-lokarpan ke saath Rs. 1.35 crore ke anya vikas karyon (prakar specify nahi) ka shilanyas kiya. Stage: shilanyas — article me "laid the foundation". Credit-paradarshita aur ward-mapping disclosure: pichhli entry jaisa — unhone swayam shilanyas kiya; Ward-15 Indore-1 block me aata hai (disclosure note pichhli entry me).\nStatus: shilanyas sampann (Jul 2025).',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (mantri-niyam sakhti se lagaya gaya):
+// 1. Naidunia epaper 05/04/2026 (Ward 7, Rs. 10 crore bhoomi-pujan + lokarpan) — PDF browser.open par
+//    fetch timeout; source khud khola nahi ja saka, isliye snippet se entry nahi bani. Corroborating
+//    web article nahi mila. (SKIP — verify nahi ho saka)
+// 2. CM Mohan Yadav ka Rs. 1000 crore bhoomi-pujan/lokarpan (20 Dec 2024, FPJ/paliwalwani) — CM ne kiya,
+//    Vijayvargiya karyakram me sirf maujood the. REJECT: CM ke karyakram me sirf maujoodgi.
+// 3. Mukhyamantri Jan Kalyan Parv Rs. 1249 crore (FPJ, Dec 2024) — CM ne inaugurate kiya,
+//    Vijayvargiya attendees me. REJECT: sirf maujoodgi.
+// 4. Bhaskar English: Rau seat me Rs. 8 crore sadak ka bhoomi-pujan (2025) — REJECT: kshetra se bahar (Rau).
+// 5. thesootr: Indore ke liye Rs. 3000 crore vikas baithak (Jan 2025) — REJECT: mantri ke naate shahar-stariya
+//    baithak/ghoshna + CM se bhoomi-pujan "future me" (future-khabar); seat-kaam nahi.
+// 6. Ujjain Simhastha Rs. 2312 crore cabinet swikriti (mpfirst, Dec 2024) — REJECT: kshetra se bahar +
+//    mantri-stariya rajya faisla.
+// 7. Patrika: aajeevan sahyog nidhi Rs. 48 lakh (Indore-1 sabse kam) — REJECT: party fund collection,
+//    vikas karya nahi.
+// 8. FPJ 'Chhatron ki Goonj' (Sep 2026) me Narmada pipeline se paani-sudhaar aur Sanjeevani Clinic ka zikr —
+//    REJECT: koi naya thos karya nahi; article me unhone clinic ka udghatan kiya aisa dawa nahi.
+// 9. Sandhya Yadav remark controversy (FPJ/ETV Bharat/ABP, Sep 2026) — REJECT negative entry:
+//    bayan-vivad, unhone khed vyakt kiya; koi case/FIR/adhikarik karwai nahi.
+// 10. Patrika/Amar Ujala: Indore-1 me avaidh nasha karobar, BJP netaon ka DCP ko gyapan (Oct 2026) —
+//    REJECT negative entry: kshetra ka law-order mudda hai, unpar koi aarop/case/jawab ka sawal nahi.
+// 11. YouTube-only (MP News TV): "Akash Vijayvargiya ne Narmada line ka bhoomi-pujan kiya" —
+//    REJECT: YouTube-only source + galat vyakti (Akash, Kailash nahi).
+// 12. Amar Ujala: Sehore me Rs. 51 crore vikas karya — REJECT: kshetra se bahar.
+// 13. ANN News: Manesar me ULB sammelan me bhashan — REJECT: sirf bayan, koi seat-karya nahi.
+// 14. Vidhayak-nidhi ke naam par koi established-media report me thos karya nahi mila — ghoshna-type
+//    press khabar bina sanction/work-order ke REJECT niyam ke tahat shaamil nahi ki gayi.
+
+// Ramesh Mendola (BJP) — Indore-2 AC-205, term Dec 2023+
+// Researched 2026-10-14. Established sources preferred; every entry from a page read directly.
+
+mpWorks['ramesh-mendola'] = [
+  {
+    title: 'Sahastrarjun Dham ki chardeewari ka bhoomi-pujan, vidhayak nidhi se Rs. 1.14 crore (Indore, MR-10)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Shivhare Vaani, 11 Mar 2024',
+    sourceUrl: 'https://shivharevaani.com/thank-you-dada-dayalu-mla-mendola-gave-rs-1-14-crore-for-the-boundary-wall-of-sahastrarjun-dham-in-indore/',
+    date: '2024-03-10',
+    note: 'MR-10 toll bridge ke paas ek-acre bhukhand par prastavit Bhagwan Rajrajeshwar Sahastrarjun Dham ki chardeewari (boundary wall) ka 10 Mar 2024 ko bhoomi-pujan hua, mukhya atithi Ramesh Mendola — unhone apni vidhayak nidhi se Rs. 1.14 crore ki dhanrashi di. Bhoomi-pujan ke saath hi nirman karya shuru ho gaya. Credit-pardarshita: Khajrana crossing se metro ke liye hatayi gayi Sahastrabahu pratima ke punarsthapna-hetu bhukhand bhi Mendola ke prayason se Kalchuri samaj ko prashasan ne aavantit kiya tha; is entry ka Rs. 1.14 crore VIDHAYAK NIDHI hai (sansad nidhi/MP fund nahi). Source chhota community portal hai (Shivhare Vaani — Kalchuri samaj portal) — disclosure sahit include. Source me sanction/work-order document nahi, lekin ye ghoshna-matra nahi: bhoomi-pujan event vaastav me hua aur karya shuru hua.\nStatus: bhoomi-pujan ho gaya, nirman shuru (Mar 2024).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Janjirwala Chowraha–Atal Dwar road ka 60-ft chaudikaran — bhoomi-pujan (Indore-2)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 2 Mar 2026',
+    sourceUrl: 'https://www.patrika.com/bhopal-news/mp-news-road-to-be-widened-to-60-feet-obstructing-constructions-to-be-removed-20394870',
+    date: '2025-09',
+    note: 'Janjirwala Chowraha se Laxmi Memorial Hospital, Nehru Nagar Road No. 9 se hote hue Atal Dwar tak road ko 60 ft chauda karne ka bhoomi-pujan vidhayak Ramesh Mendola, mayor Pushyamitra Bhargav aur jankarya prabhari Rajendra Rathore ne ~Sep 2025 (article se 6 mahine pehle) kiya tha. Lagat article me nahi likhi. Patrika (2 Mar 2026) ke anusaar nagar nigam ne kaam shuru kar diya hai (Narmada line shift, storm-water line). Credit-pardarshita: nagar-nigam ka master-plan karya; article me MLA ki concrete bhoomika = bhoomi-pujan ke 3 karton me se ek (kshetriya vidhayak ke roop me). thesootr ke ek alag report me is road ke liye sarkar dwara Rs. 10 crore ka budget manzoor hone ka dawa hai, lekin wo stalled/delayed par focus karti hai — isliye usse entry nahi banaya.\nStatus: bhoomi-pujan Sep 2025; karya shuru (Mar 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nandanagar aur Kabitkhedi me sports complexes ka bhoomi-pujan (Rs. 15.30 crore + Rs. 10.10 crore)',
+    category: 'Any',
+    badge: 'news',
+    sourceUrl: 'https://www.agniban.com/25-crore-sports-complexes-to-be-built-in-nandanagar-and-kabitkhedi/',
+    sourceLabel: 'Agniban, 27 Oct 2025',
+    date: '2025-10-27',
+    note: 'Nagar nigam dwara Rs. 25 crore se zyada ke 2 sports complexes: Nandanagar (Road 11 aur 30 ke beech sarkari zameen, Rs. 15.30 crore) aur Kabitkhedi (quarters ke paas, Rs. 10.10 crore). Article ke anusaar "pehle se prastav taiyaar kar rashi manzoor kar di gayi thi" — dono jagah 27 Oct 2025 ko CM Mohan Yadav ne mantri Kailash Vijayvargiya aur vidhayak Ramesh Mendola ki maujoodgi me bhoomi-pujan kiya. Credit-pardarshita: nagar-nigam pariyojna; MLA ki concrete bhoomika article me spasht hai — Vidhan Sabha-2 me sports complex na hone ki shikayat khiladiyon ne unse ki thi, jiske chalte unhone prastav karakar Rs. 15.30 crore ki rashi manzoor karayi. Rashi manzoori ki reporting established media (Agniban Hindi daily) par hai.\nStatus: bhoomi-pujan ho gaya (Oct 2025); swikriti/rashi manzoor, nirman baki.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MR-10 me Chandragupta Maurya Chowraha ka redevelopment — bhoomi-pujan (Rs. 1 crore se adhik)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, ~Aug 2026',
+    sourceUrl: 'https://www.bhaskar.com/g/local/mp/indore/news/indore-chandragupta-maurya-square-redevelopment-kailash-vijayvargiya-138621647.html',
+    date: '2026-08',
+    note: 'MR-10 kshetra me Chandragupta Maurya Chowraha ke aadhunikikaran (metro corridor ke neeche service road, rotary/junction vikas, footpath, LED street light, green belt, drainage) ka bhoomi-pujan mantri Kailash Vijayvargiya aur KSHETRIYA VIDHAYAK Ramesh Mendola ne milkar kiya; lagat "kareeb Rs. 1 crore se adhik". Credit-pardarshita: sarkari/nagar-nigam pariyojna (Simhastha-2028 ki taiyaari ka hissa); MLA ki concrete bhoomika = kshetriya vidhayak ke roop me sah-bhoomi-pujan-karta. Lagat ka exact aankda article me nahi.\nStatus: bhoomi-pujan ho gaya; nirman baki.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG:
+// 1. Zee News (Feb 2020) — Scindia ko patra — REJECT: karyakaal se pehle ka siyasi patra, koi kshetra-kaam nahi.
+// 2. Webdunia (Jun 2026) — CM Yadav ne Indore vikas karyon ki samiksha ki; Mendola meeting me maujood — REJECT: sirf maujoodgi, koi concrete kaam nahi.
+// 3. FPJ "Corporators Express Anger Over Incomplete Works" — Indore-2 ward corporators ki shikayat meeting (Mendola maujood) — REJECT: shikayat-baithak; Mendola ka koi udgat/shilanyas/swikriti wala karya nahi.
+// 4. Constructionworld — Banganga railway crossing–MR-10 ISBT road ka bhoomi-pujan MP Shankar Lalwani ne kiya; Mendola sirf upasthit — REJECT: dusre neta ka karya, sirf maujoodgi.
+// 5. FPJ "State Setting New Dimensions Of Development" (MP State Foundation Day) — Mendola manch par upasthit — REJECT: sirf maujoodgi.
+// 6. onlinebulletin.in — Malwa Mill–Patnipura pul ka bhoomi-pujan (~6 crore), Mendola upasthit — REJECT: sirf upasthiti; article me unki koi concrete bhoomika (nidhi/shilanyas/anushansa) nahi.
+// 7. mpnewstv.com (Mar 2024) — PM Modi ne video-conference se Pardesipura ready-made park (186 crore) ka bhoomi-pujan kiya; Mendola maujood — REJECT: PM ka karya, sirf maujoodgi.
+// 8. Grokipedia — "Rs. 9.3 crore ke infra works ka inauguration" ka dawa — REJECT: wiki aggregation, established media ka traceable source nahi mila; blog/wiki se entry nahi banti.
+// 9. Bhaskar — Bhikshuk Punarvas Kendra inauguration (social justice dept) — Mendola ne bas sambodhit kiya — REJECT: vibhagiya karya, unka kaam/shilanyas nahi.
+// 10. Bhaskar "Ward 33 Talk: Councillor Manoj Mishra" — Narmada pani supply ki charcha — REJECT: sirf charcha/interview, koi kaam nahi.
+// 11. Patrika "Gen-Z followers" (Jul 2026) — social media stat — REJECT: vikas karya nahi.
+// 12. thesootr (24 Jan 2025) — Mendola ne road chaudikaran par atikraman-muavza ki maang ki — REJECT: sirf maang/bahas, koi kaam/swikriti nahi.
+// 13. Amar Ujala (Nov 2025) — 100-ft road par jan-virodh — REJECT: protest story; Mendola ki koi concrete bhoomika nahi (ilake ke vidhayak ke roop me ullekh-matra).
+// 14. Nai Dunia / Patrika (30 Jun 2025) — Mendola MP Olympic Association adhyaksh chune gaye — REJECT: sports prashasan ka pad, kshetra-vikas karya nahi.
+// 15. Nai Dunia — India–New Zealand softball MoU (softball federation adhyaksh ke roop me) — REJECT: rashtriya sports-bhoomika, kshetra-kaam nahi.
+// 16. ETV Bharat (Jul 2024) — Mendola ka CM ko patra: dukaano par dukandaar ka naam likhne ki maang — REJECT: policy-patra/maang, koi vikas karya nahi.
+// 17. archyde.com — MLA Trophy night cricket tournament me Mendola upasthit — REJECT: event attendance, vikas karya nahi.
+// 18. FPJ — CM Mohan Yadav ke mayor mega employment fair inauguration me Mendola upasthit — REJECT: CM ka karyakram, sirf maujoodgi.
+// 19. thesootr — Janjirwala–Atal Dwar road ka Rs. 10 crore budget manzoor lekin kaam atka — context entry Patrika entry me note ki gayi; alag entry nahi (stalled report, swikriti dawa single chhote portal ka).
+
+// Golu Shukla alias Rakesh Shukla (BJP) — Indore-3 AC-206 (Indore jila, MP), karyakaal Dec 2023+
+// Researched 2026-10-14. Established media preferred; har entry ka page khud khola gaya.
+// Note: stablished media (Bhaskar/Patrika/Nai Dunia/FPJ/ETV) me inke NAAM PAR apna koi vikas karya (shilanyas/lokarpan/swikriti) report nahi mila —
+// zyadatar coverage nirikshan/daura, CM-karyakram me upasthiti, ya vivaad/bayan ki hai.
+
+mpWorks['golu-shukla-alias-rakesh-shukla'] = [
+  {
+    title: 'Hathipala pul ka lokarpan (lagat Rs. 4.97 crore)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ghamasan, 15 Jul 2024',
+    sourceUrl: 'https://ghamasan.com/india/madhya-pradesh/indore-news/the-mayor-inaugurated-the-hathi-pala-bridge-constructed-at-a-cost-of-5-crores-383020',
+    date: '2024-07-15',
+    note: 'AC-3 ke madhyakshetra me ~70 saal purane 20-ft chaude jirna Hathipala pul ki jagah 4-lane naya pul (125 ft lamba, 60 ft chauda, footpath + central median + 180 ft approach road) — Rs. 4.97 crore (lagbhag Rs. 5 crore) ki lagat se nirmit — ka 15 Jul 2024 ko lokarpan mahapaur Pushyamitra Bhargav, sansad Shankar Lalwani AUR KSHETRIYA VIDHAYAK Rakesh Golu Shukla ne milkar kiya. Juni Indore, Sarwate bus stand, Chandrabhaga, Jawahar Marg, Champabag, South Toda kshetraon ko suvidha. Credit-pardarshita: ye NAGAR NIGAM (IMC) pariyojna hai; iska bhoomi-pujan 2023 me hua tha (karyakaal se pehle) — MLA ki concrete bhoomika = sanyukt lokarpan-karta (mahapaur + sansad ke saath), unki nidhi/anushansa ka ullekh article me nahi. Source chhota local portal (Ghamasan) hai — disclosure sahit include.\nStatus: karya poora, lokarpan 15 Jul 2024.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG:
+// 1. thesootr.com (27 Oct 2025) — CM Mohan Yadav ne AC-3 me vikas karyon ka bhoomi-pujan kiya, Golu Shukla samarthak narebazi — REJECT: karyon ka koi thos vivaran (kya/lagat) nahi; MLA sirf upasthit.
+// 2. FPJ (Jul 2026) — Mayor + MLA ne Madhumilan–Chhawani master-plan road ka NIRIKSHAN kiya — REJECT: sirf nirikshan/daura.
+// 3. navabharat.com — Chandrabhaga–Kalalkui masjid road (Rs. 10.26 crore) ka nirikshan, MLA maujood — REJECT: sirf nirikshan.
+// 4. mpnewstv.com — Madhu Milan chowraha vikas/saundaryikaran ka nirikshan — REJECT: sirf nirikshan.
+// 5. indianmasterminds.com (23 Jul 2026) — CM ne Rs. 175 crore double-layer flyover ka udghatan kiya; Golu Shukla upasthit — REJECT: CM ka karyakram, sirf maujoodgi.
+// 6. FPJ (Oct 2025) — CM ne Rs. 80 crore (Amrit 2.0/Kayakalp) karyon ka bhoomi-pujan kiya; MLA upasthit — REJECT: CM ka karya, sirf maujoodgi.
+// 7. FPJ (Dec 2024) — CM ne Rs. 1249 crore Jan Kalyan Parv karyon ka udghatan/bhoomi-pujan kiya; MLA upasthit — REJECT: sirf maujoodgi.
+// 8. globalmirror/dailyaawaz/shabdsangram/hindusthansamachar — wahi CM bhoomi-pujan (riverfront Rs. 19.25 crore, paani tanki Rs. 12 crore, stadium Rs. 5 crore); MLA sirf "upasthit" — REJECT: sirf maujoodgi.
+// 9. morningstiffnesspodcast.org / obnews.co — Ward-64 Rs. 4.25 crore karyon ka bhoomi-pujan; article me MLA sirf "attended" — REJECT: concrete bhoomika nahi + scraper/mirror domains.
+// 10. Amar Ujala — BJP sahyog nidhi me Golu Shukla ne Rs. 51 lakh dene ki ghoshna — REJECT: party fund, vikas karya nahi.
+// 11. bhaskar.com — Bhopal adhikariyon ke samne MLAs ki baithak; Golu Shukla ne tanker badhane/60-crore sports hub ki MAANG ki — REJECT: sirf maang.
+// 12. ETV Bharat — Golu Shukla ne mayor ko colony-renaming ka patra/prastav bheja — REJECT: sirf prastav/patra.
+// 13. Amar Ujala (Dec 2024) — Muslim bastiyon ke naam badalne ki maang — REJECT: sirf maang/prastav.
+// 14. Amar Ujala (Oct 2025) — Dussehra manch se "jihadi" vivadit bayan — REJECT: bina case/FIR wala vivaad/bayan, negative entry nahi banti.
+// 15. Patrika — vidhayak-putra Rudraksh Shukla par Dewas mandir pujari se marpeet ka aarop — REJECT: parivar ka mamla, MLA par kabhi nahi.
+// 16. TOI / Economic Times (Sep 2025/2026) — Malhar Ashram akhada decay; MLA ke prayas se bana toilet abhi functional nahi — REJECT: kaam adhoora/standalone detail nahi.
+// 17. emsindia.com (22 Nov 2025) — MLA ki anushansa par Malhar Ashram me naye kushti hall + changing rooms SWIKRIT, bhoomi-pujan hua — REJECT (technical): page JS-rendered, article text khud padha nahi ja saka; snippet se entry banana mana hai. (Virodhabhas: ETV Bharat Sep 2026 me akhada abhi bhi jarjar — swikrit karya ka execution sandigdh.)
+// 18. madhyabharat.net — "Rakesh Shukla ko Sheopur-Ashoknagar ka prabhar" — REJECT: koi anya Rakesh Shukla (Indore-3 ke MLA nahi), galat vyakti.
+// 19. Patrika — Indore-1 me school bulldozer mamla — REJECT: anya kshetra/vyakti, Golu Shukla ka koi sambandh nahi.
+// 20. gdcindore.com — Dental College ke 2 naye block ka CM ne udghatan kiya; Golu Shukla upasthit — REJECT: sirf maujoodgi.
+// 21. samacharnama.com — CM ne 4 flyover (Rs. 222.25 crore) ka lokarpan kiya; MLA upasthit — REJECT: sirf maujoodgi.
+// 22. mavericknews30.com — naye hospital building (Rs. 528 crore) karyakram; Golu Shukla ne swagat bhashan diya — REJECT: vibhagiya karya, unka shilanyas/lokarpan nahi.
+
+// Malini Laxmansingh Gaur — BJP — Indore-4 AC-207 (Indore jila, MP) — karyakaal Dec 2023 se
+// Research date: 2026-10-14. Search coverage: Dainik Bhaskar, Nai Dunia, Free Press Journal,
+// ETV Bharat, navabharat.com, loktantranews, paliwalwani, thesootr (Hindi + English).
+// Pass hui entries: 2 (dono June 2025, dono ward-level nagar-nigam karyon ke bhoomi-pujan jisme
+// MLA khud maujood rehkar bhoomi-pujan me shamil hui). Profile khaali nahi hai.
+
+mpWorks['malini-laxmansingh-gaur'] = [
+  {
+    title: 'Indore-4 (Ward 71) me Rs 4.50 crore ke vikas karyon ka bhoomi-pujan (Sanjeevani clinic, udyaan, sadak-paani/drainage line)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, 4 Jun 2025',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/indore/news/ward-71-will-be-developed-with-rs-450-crore-135166565.html',
+    date: '2025-06-04', // article me "budhwar" likha tha; search-index ki date 2025-06-04 (budhwar) se match karti hai,
+    note: 'Kya hua: Nagar nigam ke Rs 4.50 crore ke karyon — Sanjeevani clinic, udyaan, sadak-paani ki line, drainage line aur storm-water line — ka bhoomi-pujan mahapaur Pushyamitra Bhargav aur vidhayak Malini Gaur ne kiya. Stage: shilanyas-bhoomi pujan. Credit-pardarshita: ye karya nagar-nigam ke hain (vidhayak-nidhi ka zikr nahi); MLA ki concrete bhoomika — kshetriya vidhayak ke roop me bhoomi-pujan me mahapaur ke saath shamil hona — article me spasht likhi hai. Status: bhoomi-pujan ho chuka; nirman progress par report nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Indore-4 (Ward 72) me Rs 6.50 crore ke 14 vikas karyon ka bhoomi-pujan (school bhawan, drainage, udyaan, sadak ka cementikaran)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navbharat.com, Jun 2025 (chhota local portal — disclosure)',
+    sourceUrl: 'https://navabharat.com/?p=223506',
+    date: '2025-06', // article me exact date print nahi; photo-filename aur contemporaneous reporting se June 2025 pakka,
+    note: 'Kya hua: Nagar nigam dwara Ward 72 me Rs 6.50 crore lagat ke 14 vikas karyon — school bhawan nirman, drainage line, udyaanon ka jeernoddhar, sadkon ka cementikaran — ka bhoomi-pujan mahapaur Pushyamitra Bhargav evam vidhayak Malini Gaur ne kiya. Article me hi ye bhi report hai ki zone-15 ke antargat Ward 72 me Rs 6.60 crore ki 13 pariyojnaon ko nagar nigam ne swikriti di hai. Stage: shilanyas-bhoomi pujan. Credit-pardarshita: karya aur swikriti dono nagar-nigam ki hain; MLA ki concrete bhoomika — kshetriya vidhayak ke roop me bhoomi-pujan karna — article me spasht hai. Disclosure: navabharat.com chhota local portal hai; isi event ki reporting paliwalwani.com par bhi milti hai (cross-confirmation). Ward 72 ka Indore-4 (AC-207) me hona Dainik Bhaskar ki report se verify hai. Status: bhoomi-pujan ho chuka; nirman progress par report nahi mili.',
+    period: '2023-2028',
+  },
+];
+
+// ============================================================================
+// REJECT-LOG (1-line kaaran har rejected candidate ke liye)
+// ============================================================================
+// 1. loktantranews.co.in Ward 71 Rs 4.50cr lokarpan/bhoomi-pujan — REJECT: diya gaya URL
+//    ab koi aur article serve karta hai (Datia/Bankipur/Manjalpur bypoll, 2026) — original
+//    content replace ho chuka, verify impossible (Dainik Bhaskar se event verify ho gaya, isliye loss nahi).
+// 2. Amar Ujala "Bataiye Vidhayakji" interview (Jun 2023) — REJECT: karyakaal (Dec 2023) se pehle ki khabar; daawe purane karyakaal ke.
+// 3. thesootr.com Ward 82 me Rs 2 crore+ bhoomi-pujan — REJECT: MLA ko bulaya hi nahi gaya,
+//    ve maujood nahi thi; nagar-nigam event me unki koi concrete bhoomika nahi.
+// 4. Airport Terminal-1 inauguration (IANS syndicated, Mar 2025) — REJECT: CM ke karyakram me
+//    sirf upasthit dignitaries me naam; koi concrete MLA bhoomika nahi.
+// 5. Free Press Journal — Estimates Committee study-tour meeting (2025) — REJECT: committee
+//    meeting me sadasya ke roop me upasthiti; kshetra-kaam se sambandhit nahi.
+// 6. business-standard / TOI / newsbytes swachhta-era stories (2015-2018) — REJECT: mahapaur
+//    karyakaal ki khabaren; Dec 2023 se pehle.
+// 7. dainikdopahar.in vidhayak-nidhi kharcha stats (116 karya, Rs 239.79 lakh) — REJECT:
+//    2018-tenure ki khabar (pehli-baar MLA Akash Vijayvargiya ka zikr), pre-Dec-2023; aggregate
+//    stat bhi hai, koi specific kaam nahi.
+// 8. indoredilse.com dialysis center udghatan — REJECT: unhone MAHAPAUR ke roop me udghatan
+//    kiya tha (pre-2020); karyakaal se pehle.
+// 9. Naidunia Ghazwa-e-Hind poster story (Nov 2024) — REJECT: MLA ke bete (Eklavya Gaur) par
+//    khabar; parivar ka maamla MLA par kabhi nahi.
+// 10. Dainik Bhaskar Ward 72 jan-samvad (Mayor) — REJECT: sirf mahapaur ka karyakram; MLA ka
+//    zikr tak nahi. (Iska istemaal sirf Ward 72 ke AC-4 me hone ki pushti ke liye hua.)
+// 11. bhaskarenglish.in — BJP ke IMC me 25 saal jashn — REJECT: aam rajnaitik karyakram,
+//     sirf upasthiti; koi thos kaam nahi.
+// 12. ghamasan.com karyakarta sammelan (Ward 72, LS-chunav 2024) — REJECT: chunavi meeting me
+//     upasthiti; koi kaam nahi.
+
+// Mahendra Hardia (BJP) — Indore-5 AC-208, term Dec 2023+
+// Researched 2026-10-14. Established sources preferred; every entry from a page read directly.
+
+mpWorks['mahendra-hardia'] = [
+  {
+    title: 'Ward 48 me Narmada pipeline ka lokarpan (lagat Rs. 1.25 crore)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 23 Mar 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/indore-news-infrastructure-development-projects-worth-225-crore-launched-in-ward-48',
+    date: '2026-03-23',
+    note: 'Ward 48 (Indore-5) me Rs. 2.25 crore ke infra works launch kiye gaye; usme se Rs. 1.25 crore ki Narmada pipeline — Krishi Nagar water tank se Barah Patthar Square tak, 25-30 saal purani line badli jayegi (Lalaram Nagar, Padmavati Colony, Geeta Nagar, Greater Tirupati Colony ko fayda). Stage: lokarpan (launch/inauguration Sunday, Mayor Pushyamitra Bhargav ke saath MLA Mahendra Hardia ne udghatit kiye). Credit-paradarshita: ye nagar-nigam ka project hai; article me MLA ki concrete bhoomika = launch event me co-inaugurator aur paani ke dabav/dushit-pani ki samasya uthana. MLA fund ka zikr article me nahi hai.\nStatus: udghatit/launched (Mar 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Barah Patthar se Ward Vihar tak cement road ka lokarpan (lagat Rs. 80 lakh)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 23 Mar 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/indore-news-infrastructure-development-projects-worth-225-crore-launched-in-ward-48',
+    date: '2026-03-23',
+    note: 'Ward 48 (Indore-5) ke Rs. 2.25 crore works me se Barah Patthar se Ward Vihar tak Rs. 80 lakh ki cement-concrete road — launch Mayor Pushyamitra Bhargav aur MLA Mahendra Hardia ne milkar kiya, Barah Patthar Square (St Paul School ke paas). Stage: lokarpan. Credit-paradarshita: nagar-nigam karya; MLA ki bhoomika launch me sah-udghatak ki, article me koi alag fund/nidhi ka dawa nahi.\nStatus: udghatit/launched (Mar 2026).',
+    period: '2023-2028',
+  },
+];
+
+// Usha Babu Singh Thakur (BJP) — Dr. Ambedkar Nagar-Mhow AC-209 (Indore jila), term Dec 2023+
+// NOTE: ye pehle mantri reh chuki hain (2018-Dec 2023 karyakaal) — us purane karyakaal ke kaam yahan nahi liye gaye.
+// Researched 2026-10-14. Established sources preferred; har entry ko page kholkar khud padha gaya.
+
+mpWorks['usha-babu-singh-thakur'] = [
+  {
+    title: 'Mhow me AMRUT 2 ke tahat Rs. 38 crore ki nayi paani-pipeline aur tanki ki ghoshna',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'ANI (via Lokmat Times), 24 Jan 2026',
+    sourceUrl: 'https://www.lokmattimes.com/national/proper-treatment-is-being-provided-to-all-says-mhow-mla-usha-thakur-as-several-people-detected-with-jaundice-symptoms/',
+    date: '2026-01-23',
+    note: 'Mhow ke Chander Marg/Moti Mahal ilakon me jaundice prakop (20+ bachche prabhavit) ke baad MLA Usha Thakur ne ANI ko bataya ki AMRUT 2 yojna ke tahat Rs. 38 crore ki pariyojna swikrit ki gayi hai — isme nayi paani ki tanki ka nirman jald shuru hoga aur Mhow ka poora paani-pipeline network (lagbhag 50 saal purana) badla jayega. Credit-pardarshita: AMRUT 2 kendra sarkar ki yojna hai; "swikrit ki gayi hai" MLA ka ANI ko diya gaya dawa hai, GO/work-order ya vibhagiya swikriti ki pakki report nahi mili — isliye niyamanusaar stage ghoshna likha gaya, swikriti nahi.\nStatus: ghoshna (Jan 2026); karyanvayan ki sthiti pata nahi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG:
+// 1. YouTube (Vande Bharat News): "Gangliya Khedi me 44 lakh ke vikas karyon ka lokarpan" — REJECT: YouTube-only source, niyam anusaar reject.
+// 2. Free Press Journal, 24 Jan 2026: "Jaundice cases under control in Mhow" — REJECT: MLA sirf collector ke saath prabhavit ilakon ka daura/nirikshan karti hain; koi kaam, swikriti ya udghat nahi — sirf nirikshan/daura.
+// 3. hbtvnews + indianmasterminds, Feb 2026: CM Mohan Yadav dwara Mhow me 85 crore ke karyon ka lokarpan/bhoomi-pujan (Sandeepani school 38 crore, Nanaji Deshmukh tourist site 4.50 crore, Azad Sarovar park 1 crore) — REJECT: CM ka karyakram; lokarpan/bhoomi-pujan CM ne kiye. MLA ki documented bhoomika sirf karyakram aayojan/hosting thi (chhota portal); unki nidhi, swikriti ya anushansa ka saboot nahi — niyam anusaar CM-ke-karyakram ki maujoodgi/hosting par credit nahi banta.
+// 4. Free Press Journal, Sep 2026: Janapav me CM dwara Parshuram Lok/Shri Krishna Lok ka bhoomi-pujan (Rs. 17 crore) — REJECT: CM ka karyakram, MLA sirf maujood thin; unki koi concrete bhoomika (nidhi/shilanyas/anushansa) article me nahi.
+// 5. thesootr: "CM swecchhanudan rashi apne samarthakon ko baanti" — REJECT: case/FIR ke bina vyaktigat aarop wali negative khabar; plus ye niji sansthaon ko vivekadhheen anudan ki baat hai, thos vikas-karya nahi.
+// 6. thesootr (purana): Kailash Vijayvargiya ke kshetra me nigam ki karwai rukwana + rasuka ki maang — REJECT: purani khabar, bina case ke aarop; koi official karwai ki sthiti nahi.
+// 7. bansalnews: Van vibhag karmchari ka JCB/tractor zabt maamle me "dakaiti" ki shikayat (minister-era, ve "Paryatan Mantri" thin) — REJECT: Dec 2023 se pehle ka karyakaal; plus sirf shikayat, FIR/case ki pushti nahi.
+// 8. hindi.oneindia, Feb 2023: Vikas Yatra me bhoomi-pujan/lokarpan ("mantri Usha Thakur") — REJECT: Dec 2023 se pehle (mantri karyakaal) ka kaam.
+// 9. medicalbuyer.co.in (~2022): Madhya Bharat Hospital me ICU/PICU ka lokarpan — REJECT: mantri-karyakaal ka kaam (Dec 2023 se pehle).
+// 10. ghamasan.com (~2021): Oxygen plant ke liye vidhayak-nidhi se Rs. 60 lakh — REJECT: purana karyakaal (Dec 2023 se pehle).
+// 11. inhnews.in: Himaleshwar Dham (Shajapur) bhoomi-pujan me shirkat — REJECT: kshetra se bahar (Kalapipal, Shajapur jila), sirf guest ki maujoodgi.
+// 12. ETV Bharat/naidunia, Apr 2025: "vote bechne wale agle janm me bhed-bakri" wala bayan — REJECT: bayan/vivad, koi vikas-karya nahi.
+// 13. latestly.com (2019): Godse ko "rashtrawadi" kahna — REJECT: purana bayan-vivad, bina case ke; koi works context nahi.
+// 14. webdunia/naidunia, Sep 2026: Garba me gair-Hindoo entry par bayan — REJECT: bayan/vivad, koi vikas-karya nahi.
+// 15. newsonair.gov.in, Jun 2024: 12th Vishwa Hindi Samman — REJECT: puraskar, kshetra-kaam nahi.
+// 16. lokmattimes, Apr 2026: BJP media team me pravakta niyukti — REJECT: party bhoomika, vikas-karya nahi.
+
+// WORKS RESEARCH FRAGMENT — Madhu Verma (Rau AC-210, Indore, BJP, Dec 2023 se)
+// Identity check: Rau, Indore ke MLA Madhu Verma ki hi khabrein li gayi hain;
+// anya sheharon/rajyon ke milte-julte naam wale vyaktiyon ki khabrein reject ki gayi hain.
+// Research date: 2026-10-14. Profile khaali NAHI hai — 2 entries pass.
+
+mpWorks['madhu-verma'] = [
+  {
+    title: 'Rau (Ward 79) me Rs. 17.35 crore sewer line ka bhoomi-pujan (AMRUT 2.0, 27 km line)',
+    category: 'Any', // sewerage infrastructure,
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 30 Nov 2025',
+    sourceUrl: 'https://www.freepressjournal.in/indore/indore-news-bhoomi-pujan-of-17-crore-sewer-line-project-in-rau',
+    date: '2025-11-30',
+    note: 'Ward 79, Rau Assembly me 27 km lambi sewer line (250-700 mm dia) ka bhoomi-pujan — lagat Rs. 17.35 crore, AMRUT 2.0 ke Package-04 ke tahat. Bhoomi-pujan Indore ke Mayor Pushyamitra Bhargav aur MLA Madhu Verma ne milkar kiya. Funding: Centre + State + Indore Municipal Corporation (joint). Completion target: 15 mahine. ~19,000 nagrikon ko fayda (Sukh Niwas, Ahirkhedi, Kundan Nagar, Vidur Nagar, Akash Nagar, Chitrakoot Nagar). Credit-pardarshita: yeh kendra/rajya/IMC ki AMRUT 2.0 pariyojna hai, MLA ki nidhi nahi; article ke mutabik MLA ne bhoomi-pujan kiya aur kaha ki sewer line kshetra ke nagrikon ki badi maang thi — yahi unki concrete bhoomika hai. Status: shilanyas/bhoomi-pujan (kaam shuru hua, poora nahi).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rau ke 14 gaon me Rs. 11 crore ke vikas kaam swikrit (Aashray Nidhi, Panchayat vibhag)',
+    category: 'Any', // mixed: drainage, peya-jal pipeline, aajeevika bhawan, vyayamshala,
+    badge: 'news',
+    sourceLabel: 'Patrika, 11 Oct 2026',
+    sourceUrl: 'https://www.patrika.com/indore-news/development-flow-indore-villages-via-aashray-nidhi-11-crore-approved-works-20976375',
+    date: '2026-10-11',
+    note: 'Rau Vidhan Sabha ke 14 gaon (Badiya Keema, Bihadriya, Devguradia, Dudhiya, Nainod, Sinhasa, Navda Panth, Bak, Sanavadiya, Rangwasa, Tillour Khurd, Sindoda, Bisnavda aadi) me drainage, peya-jal pipeline, aajeevika bhawan/sahayata kendra, vyayamshala, khel maidan, shmashan ghat bhawan jaise kaam — kul Rs. 11 crore swikrit. Stage: SWIKRITI — Panchayat vibhag ne 11 crore ki rashi swikrit ki, kaam jald shuru honge (poora/lokarpan nahi). Fund-pardarshita: yeh VIDHAYAK-NIDHI NAHI hai — Aashray Nidhi hai (MP Gram Panchayat (Coloniyon ka Vikas) Niyam 2014 ke tahat colonizeron se li gayi fee, jo Indore jila panchayat ke khate me jama thi). Credit-pardarshita: Patrika ke mutabik MLA Madhu Verma ke lambe prayason ke baad Panchayat vibhag ne rashi swikrit ki; Patrika ke mudde uthane (12 Sep 2025 article) ke baad Gramin Vikas Mantri Prahlad Patel ne disha-nirdesh jaari kiye the, uske baad MLA lagatar prayas kar rahe the. Status: swikriti (established media me vibhagiya swikriti ki pakki report).',
+    period: '2023-2028',
+  },
+];
+
+/*
+REJECT-LOG (Madhu Verma, Rau — identity confirmed in every check):
+1. YouTube video "Rau vidhan sabha me vikas ki raftar tez, Rs. 500 crore kary pragati par" — REJECT: YouTube-only source allowed nahi; 500 crore ka dawa bhi bina article-saboot.
+2. YouTube video "Rs. 1.43 crore sadak-puliya ka bhoomi-pujan" (Satya ko Samarpit news channel) — REJECT: YouTube-only; kab ki khabar, date verify nahi.
+3. YouTube "Mp Darpan News Live — Tillor bujurg/Muhadi gaon jal, Jhanjhar basti bijli bhoomi-pujan" — REJECT: YouTube-only; established print/portal article nahi mila.
+4. YouTube "Rau me MLA Madhu Verma ka action — high-tension line hataayi" (MP News TV) — REJECT: YouTube-only; nirikshan/action khabar, thos kaam (fund/stage) ka saboot nahi.
+5. MPBreakingNews — "Vidhayak Neena Verma" (Dhar, 50 lakh works, garden upgradation) — REJECT: galat vyakti (Neena Vikram Verma, Dhar ki vidhayak), Rau ke Madhu Verma nahi.
+6. ETV Bharat — "Delhi me RO water cooler, Mantri Pravesh Verma" — REJECT: galat vyakti (Delhi ke jal-mantri Parvesh Verma), Rau ke Madhu Verma nahi.
+7. Wikipedia "Madhu Verma (economist)" — REJECT: galat vyakti (environmental economist).
+8. Loktantranews.co.in — "Hotel Pride se City Forest link road, Rs. 29.52 crore bhoomi-pujan (Mayor + Madhu Verma)" — REJECT: khola hua canonical URL ab unrelated article (cancer-patient story) khol raha hai — verify nahi ho paya, isliye source nahi li.
+9. FPJ "State Foundation Day" (Kailash Vijayvargiya event, MLA maujood) — REJECT: mantri ke karyakram me sirf maujoodgi, MLA ki concrete bhoomika nahi.
+10. BhaskarEnglish "BJP 25 years in Indore Municipal Corporation" — REJECT: sirf maujoodgi, koi vikas-kaam nahi.
+11. IndianMasterminds "CM Mohan Yadav Rs. 15.9 crore road project Indore" — REJECT: CM ka karyakram; MLA Madhu Verma sirf upasthit dignitaries ki list me, concrete bhoomika nahi.
+12. Zee News (Sep 2023) — "Rau me bhoomi-pujan par munch-munch, Jitu Patwari vs Madhu Verma" — REJECT: karyakaal se pehle (chunav se pehle, Sep 2023) ki chunavi khabar; thos kaam nahi.
+13. TheSootr — "JP Nadda ka Madhu Verma ke liye roadshow, Indore" — REJECT: chunav-prachar khabar, karyakaal se pehle; vikas-kaam nahi.
+14. LiveHindustan (Sep 2024) — "CPR dekar vidhayak ki jaan bachi" — REJECT: health incident, vikas-kaam nahi.
+15. ANT/YouTube — "Shahid Major Hamza ke ghar Kailash Vijayvargiya aur Madhu Verma" — REJECT: YouTube-only; shok-santapna visit, vikas-kaam nahi.
+*/
+
+// WORKS FRAGMENT — Tulsiram Silawat, Sanwer (SC) AC-211, Indore — BJP — Water Resources cabinet minister
+// MLA tenure: Dec 2023 onwards. MANTRI-NIYAM APPLIED: Jal Sansadhan ministry ke rajya-stariya faisle
+// (statewide sinchai/pariyojna-ghoshnaen, Narmada-Shipra link, Sevarkhedi-Silarkhedi jaise CM programs me maujoodgi)
+// sab REJECT — sirf Sanwer SEAT ke thos kaam liye gaye jisme constituency-bhoomika spasht thi.
+// Profile khaali NAHI hai — 8 entries pass.
+
+
+mpWorks['tulsiram-silawat'] = [
+  {
+    title: 'Sanwer me 100+ infrastructure projects ka lokarpan + shilanyas (lagat Rs. 12 crore)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Construction World, 20 May 2025',
+    sourceUrl: 'https://www.constructionworld.in/policy-updates-and-economic-news/silawat-launches-projects-worth-rs-120-million-in-sanwer/73804',
+    date: '2025-05-18',
+    note: 'Sanwer me 18 May 2025 ko badey sarvajanik karyakram me Silawat ne swayam 100 se zyada civic projects (CC sadak, drainage, stormwater line, pul-puliya, anganwadi kendra, community hall, shamshan ghat, playground, public garden) ka lokarpan aur shilanyas kiya. Kul lagat Rs. 12 crore se zyada (Rs 120 million). Stage: mixed — kuch lokarpan (poora), kuch shilanyas. Metro rail/six-lane bypass/court building jaise 2028 ke "plans" ghoshna the, is entry me nahi. Status: lokarpan + shilanyas poorn.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sanwer Ward-7 me barrage aur water filtration plant (lagat Rs. 5 crore)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Construction World, 20 May 2025',
+    sourceUrl: 'https://www.constructionworld.in/policy-updates-and-economic-news/silawat-launches-projects-worth-rs-120-million-in-sanwer/73804',
+    date: '2025-05-18',
+    note: 'Upar wale Sanwer karyakram me sabse badi yojna: Ward-7 me barrage + water filtration plant (Rs 50 million = Rs. 5 crore) launch ki gayi; Ward-3 me Khandelwal Pump se rest house tak paver block road (Rs. 1 crore) bhi launch. Stage: launch/shilanyas. Credit-pardarshita: ye nagar-parishad/seat-level civic works hain, Silawat ne swayam Sanwer me launch kiye — unke vibhag (Jal Sansadhan) ki rajya-stariya policy se alag. Status: launch/shilanyas poorn.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dharampuri (Sanwer) sub-health centre ka 6-bed PHC me upgrade — Cabinet swikriti (lagat Rs. 3.25 crore)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 21 Jul 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/mp-govt-approves-325-crore-to-upgrade-dharampuri-health-centre-in-sanwer',
+    date: '2026-07-20',
+    note: 'MP Cabinet ne 20 Jul 2026 ki Jagdishpur meeting me Sanwer vidhansabha ke gram Dharampuri ke sub-health centre ko 6-bed Primary Health Centre me upgrade karne ki Rs. 3.25 crore ki swikriti di. Silawat (Sanwer MLA + mantri) ne prastav rakhne ki jaankari di. Building, medical equipment, furniture, MBBS officer, pathology lab, institutional delivery suvidhaen shamil. Stage: swikriti (cabinet decision — established media FPJ ki pakki report). Credit-pardarshita: health dept/cabinet ka faisla hai, lekin Silawat ne apni seat ke liye prastav ke roop me isko seat-kaam ke taur par push kiya. Status: cabinet swikriti poorn.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sanwer me Ratnatalai talab ke punarutthan kaaryaon ka lokarpan (lagat Rs. 71.57 lakh)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 23 Jun 2025',
+    sourceUrl: 'https://www.freepressjournal.in/indore/indore-efforts-to-revive-ratnatalai-pond-get-financial-wings-tulsiram-silawat-inaugurates-revitalisation-works',
+    date: '2025-06-22',
+    note: 'Sanwer seat me 1972 ke Ratnatalai talab ke revitalisation kaarya Silawat ne swayam 22 Jun 2025 ko inaugurate kiye. Latest phase me Rs. 71.57 lakh (2024 me swikrit) — 1100m upstream pitching, 1000m paver block, pedaropan, CC steps; talab Sanwer nagar parishad ko maintenance ke liye handover ghoshit. Stage: lokarpan (kaarya poore). Credit-pardarshita (mantri-niyam): talab mool roop se unke vibhag (Jal Sansadhan) ka tha aur Jal Ganga Samvardhan Abhiyan ke antargat hai — lekin ye seat-level project hai jiska lokarpan unhone Sanwer me swayam kiya, isliye seat-kaam ke roop me liya gaya; rajya-stariya policy-faisla alag rakha gaya. Status: lokarpan poorn.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mangliya (Sanwer) me 50-bed AYUSH aspatal — civil work poora (lagat lagbhag Rs. 6 crore)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Times of India, Apr 2025',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/indore/indore-to-get-largest-ayush-hospital-in-division-in-may/articleshow/120595334.cms',
+    date: '2025-04',
+    note: 'Sanwer seat ke Mangliya me Indore division ka sabse bada 50-bed AYUSH aspatal — civil work poora (~Rs. 6 crore); medical equipment installation baaki thi. Silawat ne AYUSH mantri se lagbhag Rs. 10.26 crore ke allocation (ramp, retaining wall, equipment, herbal garden, fire system) ka anurodh kiya. Stage: civil work poora / near-completion. Credit-pardarshita: aspatal AYUSH vibhag ka hai; Silawat ki bhoomika — allocation ke liye mantri-stariya anurodh aur seat me hospital ki push — TOI me spasht hai. Rs. 10.26 crore sirf anurodh (maang) tha, swikriti ka dawa nahi — isliye ghoshna nahi, sirf near-completion entry. Status: civil work poora.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sanwer nagar parishad me Rs. 3.72 crore ke vikas karyaon ka shilanyas + lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindusthan Samachar wire via livevns.news (chhota portal — disclosure), 19 Jan 2024',
+    sourceUrl: 'https://livevns.news/state/madhyapradesh/bhoomi-pujan-and-inaugurated-development-worksphp/cid13367450.htm',
+    date: '2024-01-19',
+    note: 'Silawat ne Sanwer nagar parishad me Rs. 3.72 crore ke kaarya kiye: naye nagar parishad bhavan ka shilanyas (Rs. 1.2471 crore), 5 anganwadi kendron ka lokarpan (Rs. 37.5 lakh), ghar-ghar kachra sangrahan ke liye 5 kachra vaahan (Rs. 37.5 lakh), plus CC road, nali nirmaan, paver block saundaryakaran (6 sthanon par). Stage: mixed — shilanyas + lokarpan. Nagar parishad ke seat-level kaarya hain, Silawat ne swayam kiye. Source chhota portal par Hindusthan Samachar wire — disclosure. Status: shilanyas + lokarpan poorn.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sanwer ke Ward-36 me Rs. 2.5 crore ke kaarya — 6 garden lokarpan + peyjal pipeline bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Live News 24 (chhota portal — disclosure), 12 Apr 2026',
+    sourceUrl: 'https://indialivenews24.co.in/a-big-gift-of-development-in-indore-ward-36-minister-tulsiram-silavat-inaugurated-works-worth-rs-2-5-crore-and-performed-bhoomi-pujan/',
+    date: '2026-04-12',
+    note: 'Sanwer vidhansabha ke antargat nagariya Ward-36 me Silawat ne lagbhag Rs. 2.5 crore ke kaaryaon ka lokarpan + bhoomi-pujan kiya: 6 adhunik garden (lighting, gazebo, fountain, open gym, yog kendra, bachchon ke jhule) ka lokarpan; Tirumala Greens/Tirumala/Dhanlaxmi sectors ke liye nayi peyjal pipeline ka bhoomi-pujan. Stage: mixed — lokarpan + shilanyas. Unke "100 crore ke kaarya poore" wale dawe ko entry me nahi liya (neta ka dawa, saboot nahi). Source chhota portal — disclosure. Status: lokarpan + shilanyas poorn.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (sab candidates jo screen hue par nahi pass):
+// 1. Imlikheda (Sanwer) 33/11 KV power grid lokarpan (Bansal News article) — REJECT: Drishti IAS record se
+//    cross-check par pata chala grid ka bhoomi-pujan Feb 2023 aur lokarpan Aug 2023 me ho chuka tha;
+//    Bansal piece recycled/purani khabar hai — Dec 2023 karyakaal se pehle ka kaam.
+// 2. Shipra se Paned sadak bhoomi-pujan (Bansal News, "Shivraj sarkar") — REJECT: Shivraj-era (2023 se pehle) khabar.
+// 3. DNA India "MLA's fund used to develop infrastructure" — REJECT: purane karyakaal (2013-18) ki report.
+// 4. CM Mohan Yadav ka Indore me Rs. 1000 crore vikas karya lokarpan-bhoomi-pujan (Dec 2024, Paliwalwani) —
+//    REJECT: CM ka program; Silawat ki maujoodgi mantri ke naate thi, seat-kaam me unki concrete bhoomika nahi.
+// 5. Sevarkhedi-Silarkhedi Rs. 614 crore pariyojna bhoomi-pujan (Amar Ujala, Jan 2025) — REJECT: CM + unke
+//    vibhag (Jal Sansadhan) ka rajya-stariya project; Sanwer seat ka kaam nahi; Silawat sirf upasthit the.
+// 6. Mangliya me 7 Sep 2026 ko Rs. 43 crore+ ka lokarpan-bhoomi-pujan (Atulya Bharat Chetna) — REJECT: publish
+//    ke samay future-khabar thi ("aayojit kiya jayega"); karyakram hua ya nahi, established media se verify nahi
+//    ho saka. Chhota portal.
+// 7. Nai Dunia preprod mirror (org496gtr7prepod.naidunia.com) — REJECT: preprod/staging URL; canonical URL nahi mili.
+// 8. FPJ "Sanjivani Clinics, Yoga Sheds, Roads Inaugurated In Indore" (Ward-72) — REJECT: Indore shahar ka kaam,
+//    Sanwer seat ke bahar; Silawat ki bhoomika nagar-nigam karyakram me atithi ki.
+// 9. "Simhastha 2028 plans" (metro rail, six-lane bypass, court building Rs. 36 crore, ITI, college library,
+//    railway station upgrade, Krishi Mandi Rs. 9 crore — Construction World me Silawat ke statements) — REJECT:
+//    sirf "karenge" future-yojnaen, DPR stage; thos kaam nahi.
+// 10. Vidhayak-nidhi ghoshna-type press khabar bina sanction/work-order saboot ke — aisi koi entry li hi nahi gayi.
+// 11. Negative entry — koi credible reporting me case/FIR/adhikarik karwai ke saath neta-par-aarop nahi mila; skip.
+
+
+// ---- Indore district batch REJECT-LOG (2026-10-14) ----
+// Manoj Patel: 9 reject — CM ki Depalpur ghoshnaen (sirf maujoodgi), Shivraj-era damrikaran (pre-term), private temple trust, bina-case road-crack allegation, future award ghoshna, public.app video, election speeches.
+// Vijayvargiya: 14 reject — CM ke Rs. 1000cr/1249cr programs (maujoodgi), Rau/Sehore/Ujjain (kshetra-bahar/mantri-faisla), Rs. 3000cr baithak (future), party fund, bayan-vivad (bina case), YouTube-only galat vyakti.
+// Ramesh Mendola: 19 reject — CM/PM events (maujoodgi), maang-patra/vivad, MP Olympic/federation bhoomika, Grokipedia wiki-dawa.
+// Golu Shukla: 22 reject — CM events (maujoodgi), nirikshan, maang-patra, bina-case vivad, parivar ka mamla, galat vyakti, mirror domain, party fund, minor karya; + coordinator ne 1 pass entry (Ward-64, polluted domain) hatayi.
+// Malini Gaur: 12 reject — replaced URL, pre-tenure interview, bin-bulaye event, CM events, mayor-era (pre-term), vidhayak-nidhi stats purane tenure ke, parivar (beta) khabar.
+// Mahendra Hardia: 7 reject — pre-term Vikas Parv, bina-proof vidhayak-nidhi dawa, petition appeal, CM event maujoodgi, vivad/maang khabrein; + coordinator ne 1 pass entry (NBT URL mismatch) hatayi.
+// Usha Thakur: 16 reject — YouTube-only, nirikshan, CM events (maujoodgi), bina-case aarop, purana mantri-karyakaal, kshetra-bahar, bayan/vivad; + coordinator ne 1 pass entry (Nai Dunia story unverified) hatayi — profile 1 entry.
+// Madhu Verma: 15 reject — 5 YouTube-only, 3 galat vyakti, 1 broken URL, 6 sirf-maujoodgi/pre-term/non-work.
+// Silawat: 11 reject — recycled pre-tenure khabar, Shivraj-era, purana MLA-fund article, CM program maujoodgi, kshetra-bahar, future announcement, preprod mirror, Simhastha plans, bina-proof nidhi ghoshna; + coordinator ne 1 pass entry (Shipra, PWD mantri ka lokarpan) hatayi.
