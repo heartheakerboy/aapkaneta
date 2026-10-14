@@ -61,12 +61,12 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
 
   <div class="profile-hero">
     <div class="wrap">
-      <a class="back" href={base || '/'}>← {homeLabel}</a>
+      <a class="back" href={base ? `${base}/` : '/'}>← {homeLabel}</a>
       <div class="p-top">
         <div class="avatar-big">{initials}</div>
         <div>
           <h1>{neta.name}</h1>
-          <div class="p-sub">{neta.post} • <a href={`${base}/kshetra/${neta.constituencySlug}`}>{neta.constituency}</a> • {neta.party} • {stateName}</div>
+          <div class="p-sub">{neta.post} • <a href={`${base}/kshetra/${neta.constituencySlug}/`}>{neta.constituency}</a> • {neta.party} • {stateName}</div>
         </div>
       </div>
       <div class="stats">
@@ -101,8 +101,8 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
         <h3 style="color:var(--ink);margin-top:8px">Record jama kiya ja raha hai</h3>
         <p>Is neta ke kaam ka satyaapit record abhi taiyaar ho raha hai. Bina saboot ke hum koi "kaam" list nahi karte — yehi AapkaNeta ka usool hai. RTI ke jawab aate hi yahan dikhega.</p>
         <div class="cta-row" style="justify-content:center">
-          <a class="btn" href="/rti">RTI Drive me hissa lein</a>
-          <a class="btn-ghost" href="/methodology">Hamari methodology</a>
+          <a class="btn" href="/rti/">RTI Drive me hissa lein</a>
+          <a class="btn-ghost" href="/methodology/">Hamari methodology</a>
         </div>
       </div>
     ) : (
@@ -189,8 +189,8 @@ const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
     </div>
 
     <div class="cta-row" style="margin: 36px 0 8px">
-      <a class="btn" href={`/rti?seat=${neta.constituencySlug}${stateName && stateName !== 'Maharashtra' ? `&state=${stateName}` : ''}`}>Is neta par RTI lagao</a>
-      <a class="btn-ghost" href={`/correction?neta=${encodeURIComponent(neta.name)}`}>Galat info? Correction bhejo</a>
+      <a class="btn" href={`/rti/?seat=${neta.constituencySlug}${stateName && stateName !== 'Maharashtra' ? `&state=${stateName}` : ''}`}>Is neta par RTI lagao</a>
+      <a class="btn-ghost" href={`/correction/?neta=${encodeURIComponent(neta.name)}`}>Galat info? Correction bhejo</a>
     </div>
   </div>
 </Layout>

@@ -29,7 +29,7 @@ const { kshetra, leaders, base, stateName, talukas = [], districtHref = null } =
 
   <div class="k-hero">
     <div class="wrap">
-      <a class="back" href={base || '/'}>← {base ? 'Gujarat home' : 'Home'}</a>
+      <a class="back" href={base ? `${base}/` : '/'}>← {base ? 'Gujarat home' : 'Home'}</a>
       <h1>{kshetra.name} <span style="font-weight:400;color:var(--ink-soft)">({kshetra.type}{kshetra.number ? ` • No. ${kshetra.number}` : ''})</span></h1>
       <div class="k-meta">{kshetra.district ? <span>Jila {districtHref ? <a href={districtHref}>{kshetra.district}</a> : kshetra.district}, {stateName}</span> : stateName} • Arakshan: {kshetra.reservation}</div>
       {talukas.length > 0 && (
@@ -42,7 +42,7 @@ const { kshetra, leaders, base, stateName, talukas = [], districtHref = null } =
     <h2 class="section-title">Is kshetra ke neta</h2>
     <div class="card">
       {leaders.map(n => (
-        <a class="leader" href={`${base}/neta/${n.slug}`}>
+        <a class="leader" href={`${base}/neta/${n.slug}/`}>
           <div class="avatar">{n.name.split(' ').map(w=>w[0]).slice(0,2).join('')}</div>
           <div>
             <h3>{n.name}</h3>
@@ -57,7 +57,7 @@ const { kshetra, leaders, base, stateName, talukas = [], districtHref = null } =
       <h3>Is kshetra ka kaam</h3>
       <p style="color:var(--ink-soft);font-size:15px;margin-top:8px">
         Kshetra-wise kaam ki list RTI ke jawab aane ke baad yahan dikhegi.
-        <a href="/rti">RTI template</a> se aap bhi hisaab mang sakte hain.
+        <a href="/rti/">RTI template</a> se aap bhi hisaab mang sakte hain.
       </p>
     </div>
   </div>

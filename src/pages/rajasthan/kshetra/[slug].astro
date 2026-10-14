@@ -12,4 +12,4 @@ if (!kshetra) throw new Error('Constituency not found: ' + slug);
 const leaders = rajNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
 ---
 
-<KshetraDetail kshetra={kshetra} leaders={leaders} base="/rajasthan" stateName="Rajasthan" districtHref={kshetra.district ? `/rajasthan/jila/${kshetra.district.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}` : null} />
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="/rajasthan" stateName="Rajasthan" districtHref={kshetra.district ? `/rajasthan/jila/${kshetra.district.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/` : null} />

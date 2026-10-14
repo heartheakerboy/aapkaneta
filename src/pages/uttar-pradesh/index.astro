@@ -61,10 +61,10 @@ for (const [, arr] of districts) {
     <div class="wrap">
       <div class="state-switch">
         <a href="/">Maharashtra</a>
-        <a href="/gujarat">Gujarat</a>
-        <a href="/rajasthan">Rajasthan</a>
-        <a href="/uttar-pradesh" class="active">Uttar Pradesh</a>
-        <a href="/delhi">Delhi</a>
+        <a href="/gujarat/">Gujarat</a>
+        <a href="/rajasthan/">Rajasthan</a>
+        <a href="/uttar-pradesh/" class="active">Uttar Pradesh</a>
+        <a href="/delhi/">Delhi</a>
       </div>
       <h1 style="margin-top:16px">Uttar Pradesh ke neta — <span>kaam ka hisaab</span></h1>
       <p>403 Vidhan Sabha MLA, 80 Lok Sabha MP aur 31 Rajya Sabha MP — sabke chunav halafname ke saath. Kaam ka satyaapit record jald joda jayega.</p>
@@ -81,7 +81,7 @@ for (const [, arr] of districts) {
     <h2 class="section-title">Sansad — Lok Sabha MP <span>({mps.length})</span></h2>
     <div class="grid">
       {mps.map(n => (
-        <a class="neta-card card" href={`/uttar-pradesh/neta/${n.slug}`}>
+        <a class="neta-card card" href={`/uttar-pradesh/neta/${n.slug}/`}>
           <div class="neta-top">
             <div class="avatar">{initials(n.name)}</div>
             <div>
@@ -101,7 +101,7 @@ for (const [, arr] of districts) {
     <h2 class="section-title">Sansad — Rajya Sabha MP <span>({rsMps.length})</span></h2>
     <div class="grid">
       {rsMps.map(n => (
-        <a class="neta-card card" href={`/uttar-pradesh/neta/${n.slug}`}>
+        <a class="neta-card card" href={`/uttar-pradesh/neta/${n.slug}/`}>
           <div class="neta-top">
             <div class="avatar">{initials(n.name)}</div>
             <div>
@@ -121,10 +121,10 @@ for (const [, arr] of districts) {
     <h2 class="section-title">Vidhan Sabha — Jile ke anusaar <span>({mlas.length} MLA)</span></h2>
     {districts.map(([d, arr]) => (
       <section class="dist-group">
-        <h3 class="dist-title"><a href={`/uttar-pradesh/jila/${districtSlug(d)}`}>{d}</a> <span>({arr.length} seats)</span></h3>
+        <h3 class="dist-title"><a href={`/uttar-pradesh/jila/${districtSlug(d)}/`}>{d}</a> <span>({arr.length} seats)</span></h3>
         <div class="grid">
           {arr.map(n => (
-            <a class="neta-card card" href={`/uttar-pradesh/neta/${n.slug}`}>
+            <a class="neta-card card" href={`/uttar-pradesh/neta/${n.slug}/`}>
               <div class="neta-top">
                 <div class="avatar">{initials(n.name)}</div>
                 <div>

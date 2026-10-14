@@ -915,4 +915,4 @@ export const talukaPath = (district: string, taluka: string) =>
 // AC page se link: taluka apne home jile ke path par hota hai
 export const talukaLink = (district: string, taluka: string) =>
   talukaPath(talukaHomeOverride[taluka] ?? district, taluka);
-export const districtPath = (district: string) => `/jila/${slugify(district)}`;
+export const districtPath = (district: string) => `/jila/${slugify(district)}/`;

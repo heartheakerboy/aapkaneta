@@ -41,7 +41,7 @@ const withWorks = acs.filter(a => (netaByConst[a.slug]?.works.length ?? 0) > 0).
 
   <div class="k-hero">
     <div class="wrap">
-      <a class="back" href={base || '/'}>← {base ? 'Gujarat home' : 'Home'}</a>
+      <a class="back" href={base ? `${base}/` : '/'}>← {base ? 'Gujarat home' : 'Home'}</a>
       <h1>Jila {district}</h1>
       <div class="k-meta">{acs.length} Vidhan Sabha kshetra{talukas.length ? ` • ${talukas.length} taluke` : ''} • {stateName}</div>
     </div>
@@ -63,7 +63,7 @@ const withWorks = acs.filter(a => (netaByConst[a.slug]?.works.length ?? 0) > 0).
       <>
         <h2 class="section-title">Lok Sabha kshetra <span>({mps.length})</span></h2>
         <div class="chips">
-          {mps.map(m => <a class="chip" href={`${base}/neta/${m.slug}`}>{m.constituency.replace(' (Lok Sabha)', '')} — {m.name}</a>)}
+          {mps.map(m => <a class="chip" href={`${base}/neta/${m.slug}/`}>{m.constituency.replace(' (Lok Sabha)', '')} — {m.name}</a>)}
         </div>
       </>
     )}
@@ -73,7 +73,7 @@ const withWorks = acs.filter(a => (netaByConst[a.slug]?.works.length ?? 0) > 0).
       {acs.map(a => {
         const n = netaByConst[a.slug];
         return (
-          <a class="ac-row" href={`${base}/kshetra/${a.slug}`}>
+          <a class="ac-row" href={`${base}/kshetra/${a.slug}/`}>
             <span class="ac-num">{a.number}</span>
             <span class="ac-name">{a.name}{a.reservation && a.reservation !== '—' ? ` (${a.reservation})` : ''}</span>
             <span class="ac-mla">{n ? n.name : '—'}</span>

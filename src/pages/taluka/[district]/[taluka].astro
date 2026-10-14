@@ -37,7 +37,7 @@ const netaByConst = Object.fromEntries(mhaNetasAll.filter(n => n.post === 'MLA')
         if (!c) return null;
         const n = netaByConst[c.slug];
         return (
-          <a class="ac-row" href={`/kshetra/${c.slug}`}>
+          <a class="ac-row" href={`/kshetra/${c.slug}/`}>
             <span class="ac-num">{c.number}</span>
             <span class="ac-name">{c.name} <span class="ac-dist">({acDistrict[num]})</span></span>
             <span class="ac-mla">{n ? n.name : '—'}</span>

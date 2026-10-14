@@ -156,16 +156,16 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         <button id="hamburger" class="hamburger" aria-label="Menu kholein" aria-expanded="false" aria-controls="siteNav">☰</button>
         <nav class="site" id="siteNav">
           <a href="/">Home</a>
-          <a href="/gujarat">Gujarat</a>
-          <a href="/rajasthan">Rajasthan</a>
-          <a href="/uttar-pradesh">Uttar Pradesh</a>
+          <a href="/gujarat/">Gujarat</a>
+          <a href="/rajasthan/">Rajasthan</a>
+          <a href="/uttar-pradesh/">Uttar Pradesh</a>
           <div class="nav-drop">
             <button id="kshetraBtn" aria-expanded="false" aria-controls="kshetraPanel">Kshetra ▾</button>
           </div>
-          <a href="/tulna">Comparison</a>
-          <a href="/methodology">Methodology</a>
-          <a href="/rti">File RTI</a>
-          <a href="/about">About Us</a>
+          <a href="/tulna/">Comparison</a>
+          <a href="/methodology/">Methodology</a>
+          <a href="/rti/">File RTI</a>
+          <a href="/about/">About Us</a>
         </nav>
       </div>
       <div id="kshetraPanel" class="nav-panel" hidden>
@@ -208,19 +208,19 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
           <div>
             <h4>Pages</h4>
             <ul>
-              <li><a href="/tulna">Comparison</a></li>
-              <li><a href="/methodology">Methodology</a></li>
-              <li><a href="/rti">File RTI</a></li>
-              <li><a href="/about">About Us</a></li>
-              <li><a href="/contact">Contact Us</a></li>
+              <li><a href="/tulna/">Comparison</a></li>
+              <li><a href="/methodology/">Methodology</a></li>
+              <li><a href="/rti/">File RTI</a></li>
+              <li><a href="/about/">About Us</a></li>
+              <li><a href="/contact/">Contact Us</a></li>
             </ul>
           </div>
           <div>
             <h4>Legal</h4>
             <ul>
-              <li><a href="/privacy">Privacy Policy</a></li>
-              <li><a href="/terms">Terms of Use</a></li>
-              <li><a href="/disclaimer">Disclaimer</a></li>
+              <li><a href="/privacy/">Privacy Policy</a></li>
+              <li><a href="/terms/">Terms of Use</a></li>
+              <li><a href="/disclaimer/">Disclaimer</a></li>
             </ul>
           </div>
           <div>
@@ -231,7 +231,7 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
           </div>
         </div>
         <div class="fine">
-          Ye site nagrik-shiksha ke liye hai. Sabhi tathya uplabdh sarkari record, RTI jawab ya news sroton par aadharit hain. Galti dikhe to <a href="/methodology#correction">correction bhejein</a>.
+          Ye site nagrik-shiksha ke liye hai. Sabhi tathya uplabdh sarkari record, RTI jawab ya news sroton par aadharit hain. Galti dikhe to <a href="/methodology/#correction">correction bhejein</a>.
         </div>
       </div>
     </footer>
@@ -314,9 +314,9 @@ const { title, description = 'Har neta ka hisaab, har nagrik ke haath. RTI-verif
         if (!curD) return null;
         var p = PREFIX[curState()];
         var a = selA.value !== '' ? JSON.parse(selA.value) : null;
-        if (a) return p + '/kshetra/' + a.slug;
-        if (curT) return p + '/taluka/' + curD.slug + '/' + curT.slug;
-        return p + '/jila/' + curD.slug;
+        if (a) return p + '/kshetra/' + a.slug + '/';
+        if (curT) return p + '/taluka/' + curD.slug + '/' + curT.slug + '/';
+        return p + '/jila/' + curD.slug + '/';
       }
       function refreshGo() { go.disabled = !target(); }
 

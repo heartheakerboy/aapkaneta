@@ -68,10 +68,10 @@ export function statePrefix(n: Neta | Constituency): string {
 }
 
 export function netaUrl(n: Neta): string {
-  return `${statePrefix(n)}/neta/${n.slug}`;
+  return `${statePrefix(n)}/neta/${n.slug}/`;
 }
 export function kshetraUrl(c: Constituency): string {
-  return `${statePrefix(c)}/kshetra/${c.slug}`;
+  return `${statePrefix(c)}/kshetra/${c.slug}/`;
 }
 
 export function getNeta(slug: string): Neta | undefined {
