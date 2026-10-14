@@ -3954,3 +3954,361 @@ mpWorks['tulsiram-silawat'] = [
 // Usha Thakur: 16 reject — YouTube-only, nirikshan, CM events (maujoodgi), bina-case aarop, purana mantri-karyakaal, kshetra-bahar, bayan/vivad; + coordinator ne 1 pass entry (Nai Dunia story unverified) hatayi — profile 1 entry.
 // Madhu Verma: 15 reject — 5 YouTube-only, 3 galat vyakti, 1 broken URL, 6 sirf-maujoodgi/pre-term/non-work.
 // Silawat: 11 reject — recycled pre-tenure khabar, Shivraj-era, purana MLA-fund article, CM program maujoodgi, kshetra-bahar, future announcement, preprod mirror, Simhastha plans, bina-proof nidhi ghoshna; + coordinator ne 1 pass entry (Shipra, PWD mantri ka lokarpan) hatayi.
+
+// ---- Jabalpur district batch (researched 2026-10-14) ----
+// Jabalpur batch — ajay-vishnoi (Patan AC-95, BJP, poorv mantri), neeraj-singh-lodhi (Bargi AC-96, BJP), lakhan-ghanghoria (Jabalpur Purba SC AC-97, INC, poorv mantri), abhilash-pandey (Jabalpur Uttar AC-98, BJP), ashok-ishwardas-rohani (Jabalpur Cantt. AC-99, BJP), rakesh-singh (Jabalpur Paschim AC-100, BJP, cabinet mantri PWD), sushil-kumar-tiwari-indu-bhaiya (Panagar AC-101, BJP), santosh-varkade (Sihora ST AC-102, BJP).
+// DO NOT export; appended to works_mp.ts
+
+mpWorks['ajay-vishnoi'] = [
+
+  {
+    title: 'Nagar Parishad Patan me Rs 88.12 lakh ke vikas karyon ka lokarpan v bhoomi-pujan — Vidhayak Ajay Vishnoi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News24.net.in, 7 Oct 2024',
+    sourceUrl: 'https://news24.net.in/2024/10/07/15860/',
+    date: '2024-10-07',
+    note: 'Article ke mutabik Patan Vidhayak Ajay Vishnoi ne 7 Oct 2024 ko Nagar Parishad Patan me Rs 88.12 lakh ki lagat se banne wale vividh vikas karyon ka lokarpan v bhoomi-pujan kiya; karyakram me Nagar Parishad adhyaksh, samast parshad aur mukhya nagar palika adhikari maujood the. Credit-pardarshita: ye nikay ke vikas karyon ka lokarpan/bhoomi-pujan hai jisme vidhayak ki bhoomika lokarpan-karta v bhoomi-pujan-karta ke roop me article me spasht hai; vidhayak-nidhi ka ullekh article me nahi hai. Disclosure: ye chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kayakalp abhiyan ke tahat Patan me Rs 90 lakh ki cement-concrete sadkon aur Nag talab me pedal boat ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Majholi Darpan, 7 Oct 2024',
+    sourceUrl: 'https://majholidarpan.com/paddle-boat-was-also-inaugurated-in-nag-talab/',
+    date: '2024-10-07',
+    note: 'Article ke mutabik Nagar Parishad Patan ne Kayakalp abhiyan ke antargat lagbhag Rs 90 lakh ki lagat se bani cement-concrete sadkon ka tatha Nag talab par pedal boat ka lokarpan Vidhayak Ajay Vishnoi ke mukhya atithya me hua; sadkein poori ban chuki hain (lokarpan stage). Credit-pardarshita: sadak aur boat nagar nikay ki pariyojna hain, vidhayak ne lokarpan-karta ke roop me unka lokarpan kiya, article me ye bhoomika spasht hai. Disclosure: ye chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Majhauli me Rs 10 crore ke samudayik swasthya kendra ke naveen bhavan ka bhoomi-pujan — Up-Mukhyamantri v Sansad ke saath Vidhayak Ajay Vishnoi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Majholi Darpan, 6 Oct 2024',
+    sourceUrl: 'https://majholidarpan.com/madhya-pradesh-will-become-the-countrys-top-state-in-the-field-of-health-deputy-chief-minister-shri-shukla/',
+    date: '2024-10-06',
+    note: 'Article ke mutabik Majhauli me Rs 10 crore ki lagat se banne wale samudayik swasthya kendra ke naveen bhavan ka bhoomi-pujan Up-Mukhyamantri Rajendra Shukla, Sansad Ashish Dube aur Vidhayak Ajay Vishnoi ne sanyukt roop se vidhivat pooja-archna karke kiya; stage bhoomi-pujan hai, kaam abhi shuru hua hai. Credit-pardarshita: ye rajya-sarkar ki pariyojna hai, lekin article me vidhayak ki concrete bhoomika spasht hai (sanyukt bhoomi-pujan-karta) aur Sansad ne bhavan ki swikriti ko unke sakriya prayason ka nateej bataya. Disclosure: ye chhota sthaniya portal hai; date article ki hai, karyakram pichhle din hua tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Janpad Panchayat Majhauli ke naveen bhavan ka bhoomi-pujan — Vidhayak Ajay Vishnoi ki adhyakshata me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Majholi Darpan, 28 Nov 2024',
+    sourceUrl: 'https://majholidarpan.com/the-new-building-of-janpad-panchayat-majhauli-was-inaugurated/',
+    date: '2024-11-28',
+    note: 'Article ke mutabik Janpad Panchayat Majhauli ke naveen bhavan ka bhoomi-pujan Patan vidhayak Ajay Vishnoi aur Janpad adhyaksha Vidya Dinesh Chaurasia ki adhyakshata me hua; article kehta hai ki vidhayak ne ye bhavan Janpad Panchayat Majhauli ko pradan kiya; lagat ka ullekh article me nahi hai; stage bhoomi-pujan hai. Credit-pardarshita: vidhayak ki bhoomika bhoomi-pujan-adhyaksh ke roop me article me spasht hai, lekin lagat aur nidh-srot article me diye gaye nahi. Disclosure: ye chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['neeraj-singh-lodhi'] = [
+
+  {
+    title: 'Charagwan ke Raghav warehouse ka aakasmik nirikshan karke sada gehun ka ghotala ujagar, kayee adhikari nilambit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'World Swaraj News, 15 May 2024',
+    sourceUrl: 'https://worldswarajnews.com/rotten-wheat-found-in-a-warehouse-during-inspection-many-officers-suspended/',
+    date: '2024-05-15',
+    note: 'Article ke mutabik Bargi vidhayak Neeraj Singh Lodhi aur tehsildar Ravindra Patel ne Charagwan ke paas Shahpura sthit Raghav warehouse ka aakasmik nirikshan kiya, jahan samarthan-mulya par kharide gaye 212 kisanon ke 25800 quintal gehun me purana, ghuna hua aur Non-FAQ gehun paya gaya (kul kharidi Rs 6.19 crore, jisme se Rs 4.56 crore ka bhugtan ho chuka tha). Iske baad nodal adhikari Raghunath Kudouliya, JSO Bhavna Tiwari aur Kunjam Singh Rajput tatkal prabhav se nilambit kiye gaye, MPWLC shaka-prabandhak Priyanka Patharia ke nilamban ka prastav bheja gaya, aur ADM/DSC/SDM dwara janch jaari rahi. Status: karyavai poorn (nirikshan ke seedhe parinam me adhikariyon par nilamban). Credit-pardarshita: ye sirf nirikshan-daura nahi tha; unke nirikshan se ghotala ujagar hua aur prashasan ne dastavezi karyavai ki. Disclosure: ye chhota sthaniya portal hai; yahi khabar lokraag.com par bhi chhapi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['lakhan-ghanghoria'] = [
+
+  {
+    title: 'Jabalpur Purba ke Thakkar Gram ward me Haddi Godam se Ghatiya Colony tak sadak nirman ka bhoomi-pujan — vidhayak-nidhi + parshad-nidhi se rashi swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'SeaTimes.in, 15 Feb 2026',
+    sourceUrl: 'http://seetimes.in/345565/',
+    date: '2026-02-15',
+    note: 'Article ke mutabik Jabalpur Purba ke Thakkar Gram ward me Haddi Godam se Ghatiya Colony jaane wali jirjit sadak ke nirman ka bhoomi-pujan hua; ye antim shesh maarg tha jo baaki tha. Vidhayak Lakhan Ghanghoria aur parshad Ghulam Hussain ke prayason se vidhayak-nidhi aur parshad-nidhi dono mad se rashi swikrit karke karya shuru karaya gaya. Status: bhoomi-pujan — nirman karya shuru. Credit-pardarshita: kaam nagar-nigam ke antargat vidhayak/parshad-nidhi ka hai; unki bhoomika prayas + bhoomi-pujan-karta ke roop me article me spasht hai. Note: ye vidhayak-nidhi (MLA fund) se pass sadak hai, sansad-nidhi (MP fund) nahi. Disclosure: ye chhota sthaniya Jabalpur portal hai, isliye is entry ko savdhaani se lein.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jabalpur Purba ke Motilal Nehru ward me vidhayak-nidhi se sadak ka sang-e-buniyad aur 60 parivaron ko swecchha-nidhi se rashi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'BAZ Media, 24 Jan 2025',
+    sourceUrl: 'https://bazmedia.in/news/national/madhya-pradesh/jabalpur/2025/01/24/motilal-nehru-ward-sange-buniyad/',
+    date: '2025-01-24',
+    note: 'Article ke mutabik purv parshad Syed Tahir ke anurodh par vidhayak Lakhan Ghanghoria ne Motilal Nehru ward me Shera Bori wale se Taj Kirana tak aur Masjid Noore Madina wali sadak ke nirman ka sang-e-buniyad rakha; ye sadak vidhayak-nidhi (MLA fund) se pass karai gayi thi, sansad-nidhi nahi. Status: sang-e-buniyad/bhoomi-pujan — nirman karya shuru hona tha. Isi karyakram me unhone lagbhag 60 jaruratmand parivaron ko apni swecchha-nidhi se bachchon ki padhai aadi ke liye rashi bhi pradaan ki. Credit-pardarshita: sadak vidhayak-nidhi ki hai, yehi uska strot hai. Disclosure: ye chhota sthaniya Jabalpur portal hai, isliye is entry ko savdhaani se lein.',
+    period: '2023-2028',
+  },
+  {
+    title: 'NHM adhikari ke maan-hani maamle me Jabalpur MP-MLA court ne vidhayak ko notice jari kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ABP Live (IANS), 4 Dec 2025',
+    sourceUrl: 'https://news.abplive.com/cities/madhya-pradesh-court-issues-notice-to-congress-leaders-defamation-case-1815163',
+    date: '2025-12-04',
+    note: 'ABP Live (IANS feed) ke mutabik Jabalpur MP-MLA court ne Congress vidhayakon Umang Singhar, Ajay Singh aur Lakhan Ghanghoria ko National Health Mission ke DPM Vijay Pandey ke maan-hani maamle me jawab dene ka notice jari kiya; sabko 26 Jan 2026 ko adalat me hazir hone ko kaha gaya. Prishthabhoomi: Ghanghoria ne Aug 2025 me Vidhan Sabha me dhyanakarshan prastav ke jariye Pandey par fake marksheet aur bhrashtachar ka aarop lagaya tha; Dy CM Rajendra Shukla dwara gathit janch-committee ne aaropon ko incorrect/baseless paya, jiske baad Pandey ne defamation case dayer kiya. Neta ka jawab article me nahi diya gaya hai. Ye negative entry hai aur case pending hai; isse nirdoosh/doshi koi bhi nishkarsh na nikala jaye.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['abhilash-pandey'] = [
+
+  {
+    title: 'Rajiv Gandhi ward me Rs 1.49 crore ki 3 sadkon ka bhoomi-pujan — vidhayak ne mahapaur ke saath shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hind Ekta Times, 6 Oct 2026',
+    sourceUrl: 'https://www.hindektatimes.com/251638/',
+    date: '2026-10-06',
+    note: 'Article ke mutabik vidhayak Dr. Abhilash Pandey ne mahapaur Jagat Bahadur Singh Annu aur parshad Madhubala Rajput ke saath Rajiv Gandhi ward me teen sadak-karyon ka bhoomi-pujan kiya: flyover se Ram Janaki mandir tak Rs 41 lakh ki sadak, GT parisar me Rs 51 lakh ki M-30 CC sadak, aur Nasha Mukti Kendra Sulabh Shauchalaya se JDA Garden tak Rs 57 lakh ki sadak. Status: bhoomi-pujan — nirman karya shuru hona tha. Credit-pardarshita: ye nagar-nigam ki pariyojnaen hain; unki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai, vidhayak-nidhi ka paisa hone ka koi dawa nahi hai. Note: ye chhota sthaniya portal hai, tathyon ka swatantra satyapan nahi ho saka.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Char wardon me Rs 2.25 crore ke sadak-naali-paver block karyon ka bhoomi-pujan — mahapaur ke saath vidhayak ne shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Crime Bhaskar News (Bhaskar Crime), Feb 2026',
+    sourceUrl: 'https://www.crimebhaskarnews.com/2026/02/225.html',
+    date: '2026-02-01',
+    note: 'Article ke mutabik mahapaur Jagat Bahadur Singh Annu aur vidhayak Dr. Abhilash Pandey ne Mahatma Gandhi, Swami Dayanand Saraswati, Pt. Bhawani Prasad Tiwari aur Subhadra Kumari Chauhan wardon me Rs 2.25 crore ki lagat se damrikrit sadken, nala-naliyan aur sadak kinare paver block lagane ke karyon ka bhoomi-pujan kiya; Kamla Nehru Nagar ward me covered naali aur Gol Bazar kshetra me sadak-naali bhi shamil hain. Status: bhoomi-pujan — karya shuru hona tha. Credit-pardarshita: ye nagar-nigam ke karyakram hain; unki bhoomika bhoomi-pujan-karta ke roop me spasht hai. Note: ye chhota sthaniya portal hai aur page par sateek tithi prakashit nahi hai — portal ke /2026/02/ archive se February 2026 pakka hai, isliye mahine ka pehla din placeholder ke roop me diya gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Press conference me vidhayak ka dawa: Rs 52 crore ki sadak-naali, Rs 70 lakh ki paani tanki aur flyover approach road sahit kai kaam pragati par',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Hitavada, 10 Dec 2025',
+    sourceUrl: 'https://www.thehitavada.com/Encyc/2025/12/10/focus-remains-on-improving-roads-drinking-water-edn-jobs-agriculture.html',
+    date: '2025-12-10',
+    note: 'Established media me report unke apne dawe: vidhayak ne press conference me kaha ki Rs 52 crore ki sadak-naali ka karya tez gati se chal raha hai, Rs 70 lakh ka overhead water tank aur sewer line ka vistaar pragati par hai, Rs 234 crore ki flyover approach road aur Rs 3 crore ka garden project aage badh raha hai, Rs 181 crore ka Sanjeevani Nagar flyover traffic dabav kam karega, aur Rs 481 crore ki lagat se naya ITI bhawan aur krishi mandi ban rahe hain. Status: dawa — ye unke swayam ke dawe hain; GO ya swatantra satyapan ke bina swikriti/poornata ka dawa nahi kiya ja sakta. Credit-pardarshita: ye rajya/nagar-nigam ki pariyojnaen hain, article me vidhayak-nidhi ka paisa hone ka koi dawa nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['ashok-ishwardas-rohani'] = [
+
+  {
+    title: 'Ranjhi me Rs 640 lakh ki lagat se bane sanyukt anuvibhagiya rajaswa v tehsil bhavan ka lokarpan — adhyakshata me MLA Rohani',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Agniban, 7 Oct 2024',
+    sourceUrl: 'https://www.agniban.com/tehsil-building-built-at-rs-640-lakh-inaugurated-in-ranjhi/',
+    date: '2024-10-06',
+    note: 'Article ke mutabik Ranjhi me Rs 640 lakh ki lagat se bane naye sanyukt anuvibhagiya rajaswa v tehsil bhavan ka lokarpan Shardiya Navratri ke avsar par hua; mukhya atithi sansad Ashish Dubey the aur vidhayak Ashok Rohani ne adhyakshata ki. Status: lokarpan — bhavan nirmit aur karyarambh ho chuka tha. Credit-pardarshita: ye shasan ki pariyojna hai; feita mukhya atithi (sansad) ne kata, vidhayak ki bhoomika adhyakshata ke roop me article me spasht hai. Collector ne Shanti Nagar kshetra me awasiya patta kaam shuru hone me unke yogdan ka bhi jikr kiya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shaheed Chandrashekhar Azad Ward me Rs 80 lakh ki smart sadak ka bhoomi-pujan — Kumar Kirana se St. Gabriel School hote Ghoshal Complex tak',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Arya Samay, 8 Dec 2025',
+    sourceUrl: 'https://aryasamay.com/jabalpur-news-कैंट-विधानसभा-के-शहीद-चन्द्रशेखर-आजाद-वार्ड-में-बनेगी-स्मार्ट-सड़क-विधायक-रोहाणी-ने-किया-भूमिपूजन',
+    date: '2025-12-08',
+    note: 'Article ke mutabik Shaheed Chandrashekhar Azad Ward me lagbhag Rs 80 lakh ki lagat se Kumar Kirana se St. Gabriel School hote Ghoshal Complex tak sadak ka chaudi karan hona tha, sadak ke dono taraf paver block, sundar lamp post aur vidyut pol lagne the; is karya ka bhoomi-pujan vidhayak Ashok Rohani ne somvar ko kiya. Status: bhoomi-pujan — nirman karya shuru hona tha. Credit-pardarshita: ye nagar-palika/shasan ki pariyojna hai; unki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai. Source-disclosure: Arya Samay ek chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Amanala (Shaheed Chandrashekhar Azad Ward) me Rs 30 lakh ke vikas karyon ka bhoomi-pujan — community hall, CC sadak, naali',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hitavada, 22 Dec 2025',
+    sourceUrl: 'https://www.thehitavada.com/Encyc/2025/12/22/mla-rohani-performs-bhoomipujan-of-devpt-works-in-amanala-area.html',
+    date: '2025-12-21',
+    note: 'Article ke mutabik Cantt kshetra ke Amanala kshetra (Shaheed Chandrashekhar Azad Ward) me Rs 30 lakh ke vikas karyon — ek community hall, CC sadak aur naali (drainage) vyavastha — ka bhoomi-pujan vidhayak Ashok Rohani ne ravivaar ko kiya. Status: bhoomi-pujan — nirman karya shuru hona tha. Credit-pardarshita: ye nagar-palika/shasan ki pariyojna hai; unki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Lala Lajpat Rai Ward me lagbhag Rs 80 lakh ki CC sadkon ka bhoomi-pujan — Jaggi Building se Champa Nagar, Adarsh Nagar se Kshirsagar',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 7 Sep 2026',
+    sourceUrl: 'https://navabharat.com/?p=564055',
+    date: '2026-09-07',
+    note: 'Article ke mutabik Cantt kshetra ke Lala Lajpat Rai Ward me lagbhag Rs 80 lakh ki lagat se vibhinn CC sadkon — Jaggi Building se Champa Nagar tak, Adarsh Nagar se Kshirsagar tak, Vishwakarma mohalle ki sadkon aur ward ki anya sadkon — ke nirman ka bhoomi-pujan vidhayak Ashok Ishwardas Rohani ne vidhi-vidhan se kiya. Status: bhoomi-pujan — nirman karya shuru hona tha. Credit-pardarshita: ye nagar-palika/shasan ki pariyojna hai; unki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ranjhi kshetra me lagbhag Rs 52 lakh ke adhunik fire station ka bhoomi-pujan — mahapaur ke saath MLA Rohani',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nai Dunia e-paper, 5 Jun 2026',
+    sourceUrl: 'https://epaperapi.jagran.com/naiduniaEpaper/05062026/jabalpur/04jab-pg11-0015752510.pdf',
+    date: '2026-06-04',
+    note: 'E-paper (5 Jun 2026, page 11) ke mutabik Ranjhi aur aas-paas ke kshetra me lambe samay se mahsoos ki ja rahi aavashyakta ke baad lagbhag Rs 52 lakh ki lagat se adhunik suvidhaon se lais naye fire station ke nirman karya ka bhoomi-pujan guruvar ko mahapaur Jagat Bahadur Singh aur Cantt vidhayak Ashok Rohani ne kiya. Status: bhoomi-pujan — nirman karya shuru hona tha. Credit-pardarshita: ye nagar-nigam/shasan ki pariyojna hai; unki bhoomika mahapaur ke saath bhoomi-pujan-karta ke roop me spasht hai. Note: e-paper ka OCR text kuch jagah garbad tha, lekin photo-caption aur mukhya tathya spasht hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ranjhi me lagbhag Rs 75 lakh ke 10 MVA power transformer ka lokarpan — low-voltage se lagbhag 15,000 abadi ko rahat',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Arya Samay, 27 Aug 2026',
+    sourceUrl: 'https://aryasamay.com/jabalpur-news/jabalpur-ranjhi-low-voltage-issue-resolved-10mva-transformer-inauguration',
+    date: '2026-08-27',
+    note: 'Article ke mutabik Ranjhi kshetra me lagbhag Rs 75 lakh ki lagat se sthapit 10 MVA kshamta wale naye power transformer ka vidhivat lokarpan/udghatan Cantt vidhayak Ashok Rohani ne kiya; isse Gokalpur, Bajrang Nagar, Sharda Nagar, Shanti Nagar, Ramnagar aadi kshetron ko low-voltage aur overloading se mukti milegi aur lagbhag 15,000 abadi ko bijli katauti aur voltage ki pareshani se rahat milegi. Status: lokarpan — transformer sthapit aur chalu. Credit-pardarshita: ye vidyut vibhag (shasan) ki pariyojna hai; unki bhoomika lokarpan-karta ke roop me article me spasht hai. Source-disclosure: Arya Samay ek chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rakesh-singh'] = [
+
+  {
+    title: 'Jabalpur Paschim ke 8 wardon me Rs 24 crore ke vikas karyon ka bhoomi-pujan evam lokarpan — sadak, nali, talab saundaryikaran, paani tanki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hitavada, 15 Mar 2026',
+    sourceUrl: 'https://www.thehitavada.com/Encyc/2026/3/15/rakesh-singh-lays-foundation-stone-for-works-worth-rs-24-crore-in-8-wards-of-west-assembly-constituency-.html',
+    date: '2026-03-13',
+    note: 'Article ke mutabik unhone svayam Paschim Vidhan Sabha ke 8 wardon me lagbhag Rs 24 crore ke vikas karyon ka lokarpan evam bhoomi-pujan kiya — sadak, nali, rangmanch, talab saundaryikaran, tin shed, paver block aur paani ki tanki shamil. Karyakram 13 Mar 2026 ko hua (Hindusthan Samachar ki dated dateline se). Status: bhoomi-pujan + lokarpan — nirman karya shuru ya poora ho chuka. Credit-pardarshita: ye nagar-palika/shasan ki pariyojnaen hain; unki bhoomika bhoomi-pujan evam lokarpan-karta ke roop me article me spasht hai. Vidhayak-nidhi ka dawa nahi hai, isliye vidhayak-nidhi nahi likha. Note: ye unki Jabalpur Paschim seat-specific gatividhi hai; unke PWD vibhag ke rajya-stariya faisle is list me nahi liye gaye. Isi karyakram me unhone flyover, ropeway, Narmada ghat vikas, Thakurtal zoo (Rs 300 crore) jaise shehar-stariya vishayon ka zikr kiya — ye sabhi keval zikr/yojnaen thi, alag entry nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jabalpur Paschim me Rs 22 crore ke vikas karyon ka bhoomi-pujan — Bandarariya Tiraha se Mahanadda flyover bridge tak Rs 11 crore ki white-topping sadak sahit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Arya Samay, 26 Mar 2025',
+    sourceUrl: 'https://aryasamay.com/Jabalpur-News:-Minister-Singh-performed-the-Bhoomi-Pujan-of-various-development-works-to-be-built-at-a-cost-of-22-crores,-announced-undergrounding-of-electricity-cables-from-Katanga-Tiraha-to-Chhoti-Line,-road-widening',
+    date: '2025-03-26',
+    note: 'Article ke mutabik unhone svayam Paschim Vidhan Sabha kshetra ke Rs 22 crore ke vikas karyon ka bhoomi-pujan kiya — isme lagbhag Rs 11 crore ki lagat se Bandarariya Tiraha se Mahanadda flyover bridge tak white-topping, Tara Singh Mahanadda se Gupteshwar Paan Shop tak sadak, aur Gupteshwar Bandarariya Tiraha se MGM School railway crossing tak marg nirman shamil. Status: bhoomi-pujan — nirman karya shuru hona tha. Credit-pardarshita: ye shasan/nagar-kshetra ki pariyojnaen hain; unki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai. Vidhayak-nidhi ka dawa nahi hai. Disclosure: Arya Samay chhota sthaniya portal hai; tithi (26 Mar 2025) Jai Lok ki usi din ki report se pusht hai. Isi karyakram me Katanga Tiraha se Chhoti Line tak bijli ke taaron ko underground karne ki keval ghoshna hui thi — ghoshna par koi entry nahi. Unke PWD vibhag ke rajya-stariya faisle is list me nahi liye gaye.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['sushil-kumar-tiwari-indu-bhaiya'] = [
+
+  {
+    title: 'Panagar ke Padwar gaon me Rs 65 lakh ki lagat se swasthya kendra ka bhoomi-pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Yash Bharat, 2 Sep 2024',
+    sourceUrl: 'https://yashbharat.co.in/विधायक-इंदु-तिवारी-ने-दी-प/',
+    date: '2024-09-02',
+    note: 'Article ke mutabik Panagar vidhan sabha ke Bareala ke paas Padwar gaon me Rs 65 lakh ki lagat se banne wale swasthya kendra ka bhoomi-pujan vidhayak Sushil Kumar Tiwari Indu ne kiya, karyakram me sarpanch aur hazaaron graamin maujood the aur gaonwasiyon ne varshon se lambit swaasthya-suvidha ki maang par abhaar jataya. Status: bhoomi-pujan — nirman karya shuru hona tha; lokarpan ki report article me nahi hai. Credit-pardarshita: unki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai; pariyojna ka fund-srot article me ullekh nahi hai isliye vidhayak-nidhi ka dawa nahi kiya gaya. Yash Bharat ek sthaniya Jabalpur portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Panagar nagar ke Bhagat Singh ward me Rs 15 lakh ke bhawan/rangmanch ka sansad ke saath bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'SeeTimes, 8 Jan 2026',
+    sourceUrl: 'http://seetimes.in/338486/',
+    date: '2026-01-08',
+    note: 'Article ke mutabik Panagar nagar ke Bhagat Singh ward me sansad-nidhi (MPLAD) se swikrit Rs 15 lakh ki lagat se banne wale bhawan/rangmanch ka bhoomi-pujan sansad Ashish Dubey aur sthaniya vidhayak Sushil Kumar Tiwari Indu ke dwara sanyukt roop se sampann hua. Status: bhoomi-pujan — nirman shuru hona tha; lokarpan ki report article me nahi hai. Credit-pardarshita: ye sansad-nidhi (MP fund) ki pariyojna hai, vidhayak-nidhi nahi; MLA ki bhoomika saha-bhoomi-pujan-karta ke roop me article me spasht hai. SeeTimes ek chhota sthaniya Jabalpur portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['santosh-varkade'] = [
+
+  {
+    title: 'Kundam ke Padhariya gaon me aspatal ke liye Rs 50 lakh ki 1 acre zameen ka daan, nirman karya shuru',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'The CSR Journal, 5 Jul 2024',
+    sourceUrl: 'https://thecsrjournal.in/jabalpur-mla-santosh-barkade-donated-land-50-lakh-rupees-for-hospital-hindi',
+    date: '2024-07-05',
+    note: 'Article ke mutabik Sihora (ST) ke BJP vidhayak Santosh Barkade ne Kundam tehsil ke Padhariya gaon ke bahar Rs 50 lakh bazaar keemat ki ek acre zameen loan lekar kharidi aur aspatal banane ke liye daan kar di. Madhya Pradesh sarkar ne unke prayason ke baad ilaake me prathmik swasthya kendra (PHC) banane ka faisla karke rashi de di thi, lekin aspatal ke liye zameen nahi mil rahi thi — unke daan se ye rukawat door hui. Unhone portal ko bataya ki is zameen par aspatal ka kaam shuru bhi ho gaya hai aur isse aaspaas ke lagbhag 60 gaonon ke hazaron grameenon ko sehat suvidha milegi. Status: zameen ka daan poora (completed), nirman shuru — ye unke khud ke bayan par aadharit dawa hai. Credit-pardarshita: ye shasan ki swikrit pariyojna (PHC) hai, rashi sarkar ne di thi; unki bhoomika zameen uplabdh karane wale daata ke roop me article me spasht hai; ye vidhayak-nidhi ka paisa nahi hai. Disclosure: ye chhota web portal hai aur story mukhya roop se vidhayak ke khud ke interview par aadharit hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (Jabalpur district batch, researched 2026-10-14):
+// KEPT: ajay-vishnoi = 4; neeraj-singh-lodhi = 1; lakhan-ghanghoria = 3; abhilash-pandey = 3; ashok-ishwardas-rohani = 6.; rakesh-singh = 2; sushil-kumar-tiwari-indu-bhaiya = 2; santosh-varkade = 1.
+// REJECTED — Ajay Vishnoi (Patan, ex-mantri):
+// - palpalindia, 23 Mar 2021 — purana karyakaal (Dec 2023 se pehle), reject.
+// - ETV Bharat, 26 Feb 2024 (Rs 15 crore vidhayak-nidhi ka "hisab") — vidhayak-nidhi ki ghoshna-type press khabar, bina sanction/work-order saboot ke sirf MLA ka dawa, reject.
+// - Amar Ujala, Oct 2024 (fake BJP membership ke liye paise maangne ka phone) — MLA ne khud thane me complaint ki; unpar koi case/FIR nahi, works khabar nahi, reject.
+// - Bhaskar English / thesootr, Feb 2025 (dhaan khareed ghotala — CM ko 3-page shikayat, collector ne jaanch team banai) — shikayat/maang, poora kaam nahi; jaanch parinam unknown, reject.
+// - ETV Bharat, 21 Aug 2026 (khastahal sadkon par apni hi sarkar par aarop) — alochna/bayan, koi poora kaam nahi, reject.
+// - Navbharat Times / Free Press Journal, Jul 2026 (Jabalpur-Patan road widening me deri par narazgi) — maang/patra, kaam shuru nahi, reject.
+// - delhibulletin, 3 May 2025 (Patan me ~Rs 12 crore 100-bed civil hospital bhavan + Nunser me ~Rs 2.9 crore PHC ka shubharambh) — lokarpan Up-Mukhyamantri ne kiya, MLA sirf maujood the; concrete bhoomika nahi, reject.
+// - Majholi Darpan (Majhauli anganwadi bhavan jirna — 28 Feb 2022 ka lokarpan) — purana karyakaal, reject.
+// - Bundeli Khabar (Tanya Convent school sports samapan — mashal daud) — sirf mukhya atithi ke roop me maujoodgi, koi kaam nahi, reject.
+// - mplive24, Jun 2026 (Gond sammelan preview) — karyakram announcement, kaam nahi, reject.
+// - thesootr (Aniruddhacharya gurukul bhoomi-pujan) — MLA sirf upasthit, doosre vidhayak (Bahoriband) ke kshetra ka karyakram, reject.
+// - Majholi Darpan, 25 Feb 2026 (Jharia samaj dharmshala, Ranital — MLA ke karakamalon se lokarpan) — samaj ka apna nirman, lagat/nidh-srot ka ullekh nahi, kamzor attribution, reject.
+// REJECTED — Neeraj Singh Lodhi (Bargi):
+// - mpnewscast.com: 2.21 crore road bhoomi-pujan with mayor (snippet: "pahal") — article fetch timeout, khola nahi ja saka; snippet-se-entry mana, reject.
+// - Zee News Hindi / palpalindia: sword-cake birthday video (Sep 2025) — viral video controversy, bina case/FIR/action; negative-entry bar poora nahi, reject.
+// - latestly/ANI: Bargi dam cruise tragedy (30 Apr 2026) — sirf rescue quotes; disaster-response statement, kaam nahi, reject.
+// - The Hitavada (May 2026): BJP spokesperson ke roop me Congress par hamla — shuddh rajnitik bayan, reject.
+// - khabarkesri: Sewa Sankalp deepotsav, Bhedaghat (Sep 2026) — dharmik/campaign event, reject.
+// - palpalindia/bazmedia: Jabalpur–Pune/Bandra train flag-off (24 May 2026) — PWD mantri ke karyakram me sirf maujoodgi, reject.
+// - ETV Bharat: CM's Sandipani School bhoomi-pujan, Bargi Hills (13 May 2025) — CM ka karyakram, unki concrete bhoomika nahi, reject.
+// - Identity traps (naama-rashi): Amar Ujala Lucknow "Neeraj Singh" 74 roads; Punjab Kesari Himachal "Neeraj Nayyar" stadium; "RTI activist Neeraj Mishra" (Bargi tunnel scam); Hitavada Dec 2025 roads article = Abhilash Pandey (Jabalpur North); "Neeraj Lodhi" Fatehpur UP candidate; Pradyuman Singh Lodhi (Bada Malhera); Virendra Singh Lodhi (Banda); Pritam Lodhi (Shivpuri); MP Tourism Minister "Lodhi" (Dharmendra Singh Lodhi); Damoh truck driver "Neeraj Singh Lodhi" (22) — sab galat vyakti, reject.
+// - YouTube-only videos (Chargawan arrival; 25-lakh MLA-fund bhoomi-pujan — wo bhi Jabalpur Purba, Bargi nahi) — YouTube-only, reject.
+// - Election/affidavit pages (news18/ndtv/myneta/business-standard/wikipedia) — chunav record, works nahi, reject.
+// REJECTED — Lakhan Ghanghoria (Jabalpur Purba SC, INC):
+// - newsinvestigation.tv (30 Dec 2022): 3 wardon me 3 sadak, Rs 43.64 lakh — publish date pre-term (Dec 2023 se pehle), reject.
+// - Patrika (Sihora article): mantri roop me Sihora me lokarpan/bhoomi-pujan (Rs 5.85 cr + Rs 5.58 cr) — purane mantri-karyakaal (2018-2020) ka kaam + kshetra bhi Jabalpur Purba nahi, reject.
+// - agniban.com: Chitranjan ward me Rs 67 lakh CC sadak/nali bhoomi-pujan — article ~2022 ka (pre-term), reject.
+// - public.app: Seth Govinddas ward, Rs 27 lakh, 4 sadkon ka bhoomi-pujan (22 Sep 2026) — public.app-only, reject.
+// - public.app: Kheramai ward, Rs 25 lakh vidhayak-nidhi sadak bhoomi-pujan (22 Dec 2025) — public.app-only, reject.
+// - public.app: Sanjay Gandhi ward, Rs 46 lakh nirman bhoomi-pujan (2 Jan 2026) — public.app-only, reject.
+// - YouTube (Shrey TV): Subhash ward, Rs 30 lakh vidhayak-nidhi sadak bhoomi-pujan + borewell — YouTube-only, reject.
+// - YouTube: Sanjay Gandhi ward me anek nirman karyon ka lokarpan — YouTube-only, reject.
+// - YouTube (India Khabar 24 / GRAMIN TRUTH): Sanjay Gandhi ward me vikas karyon ki aadharshila — YouTube-only, reject.
+// - ETV Bharat (4 Dec 2024): 4-km flyover ka route-badlav ki maang + aandolan ki chetavani — sirf maang/prastav, reject.
+// - TOI (May 2025): Ambedkar Chowk–Abdul Hamid Chowk flyover ke liye High Court me petition — sirf maang (court petition), reject.
+// - ETV Bharat (6 Dec 2025): Vidhan Sabha me Rani Durgavati Vishwavidyalaya ke B.Tech course par sawal — Assembly question, works nahi, reject.
+// - khabardigital.com: police prashasan ko law & order par gyapan — sirf maang/gyapan, reject.
+// REJECTED — Abhilash Pandey (Jabalpur Uttar):
+// - Shrey TV / Saral News Jabalpur YouTube videos (JP Narayan ward Rs 11.70 lakh bhoomi-pujan; Shanti Nagar/Trimurti Nagar transformer bhoomi-pujan; Rs 17 crore sadak + Rs 8.5 crore DPR + 5000 parivaron ko free leasehold ki ghoshnaen) — YouTube-only, reject.
+// - ETV Bharat: MPEB office todphod me BJP karyakartaon par FIR; vidhayak ne thane me dharna diya — case/FIR karyakartaon par hai, vidhayak par nahi; negative-entry ka bar poora nahi, reject.
+// - NBT MP-Chhattisgarh YouTube (wahi MPEB kissa) — YouTube-only, reject.
+// - The Print (30 Jul 2025): Sanskrit me sawal — vidhansabha charcha, kshetra-kaam nahi, reject.
+// - The Print (Mar 2025): junk food par bahas — vidhansabha charcha, reject.
+// - The Hitavada (Aug 2025): Gadkari + CM dwara MP ke sabse lambe flyover ka lokarpan — CM/Union mantri ka karyakram, vidhayak sirf maujood, reject.
+// - NationPress: CM dwara janmadin ki badhai (13 Jun 2026) — koi kaam nahi, reject.
+// - webindia123 (Jan 2024): Gadkari/CM dwara 9 sadak pariyojnaon (Rs 2367 crore) ka bhoomi-pujan/lokarpan — mantri-stariya karyakram, vidhayak ki concrete bhoomika nahi, reject.
+// - thesootr.com (MP Budget 2026): budget-bahas me vidhayak ke dawe (Mehta petrol pump–Agrasen Chowk Rs 17 crore CC road, ITI–Deendayal overbridge Rs 371 crore swikrit) — Entry 3 (Hitavada dawa) me samaan prakriti ke dawe cover hain; alag GO/saboot nahi, duplicate-dawa reject.
+// - Sandhyabandhu: Gohalpur thane me vakilon ka hungama — kaun Pandey aspasht + koi kshetra-kaam nahi, reject.
+// - Sunday Guardian (2023): ticket-virodh — karyakaal se pehle, reject.
+// - Oneindia/ABP/Business Standard election profiles — sirf background, koi kaam nahi.
+// REJECTED — Ashok Ishwardas Rohani (Jabalpur Cantt.):
+// - public.app (8 Sep 2026): 80 lakh bhoomi-pujan, Lala Lajpat Rai Ward — public.app-only, reject.
+// - Crime Bhaskar News (Jun 2023): CC sadak bhoomi-pujan Cantt — pre-term, reject.
+// - Crime Bhaskar News (2020): corona warriors samman — purana + samman samaroh, reject.
+// - The Hitavada (May 2026): Furniture Cluster ke liye CM ko gyapan — sirf maang/prastav, reject.
+// - The Hitavada (Sep 2026): CM se mulakat, industry appeal + Manegaon-Mohania police outpost demand — sirf maang, reject.
+// - Arya Samay: Bhainsasur Baba Road oxygen park, sena adhikariyon ke saath sthal nirikshan — sirf nirikshan/"karenge" khabar, reject.
+// - Navabharat / Seetimes: Brigadier ke samne 12 maangen (Cantt board baithak) — sirf maang, reject.
+// - Arya Samay (May 2025): Khandari naale ka nirikshan — sirf nirikshan, reject.
+// - The Hitavada (15 Dec 2025): Gorabazar thana bhavan bhoomi-pujan — bhoomi-pujan Dy CM ne kiya, MLA sirf maujood, reject.
+// - The Hitavada (20 Apr 2026): PWD mantri ka bhoomi-pujan/lokarpan karyakram — sirf maujoodgi, reject.
+// - Hindusthan Samachar (23 Sep 2026): Seva Sankalp Yatra swagat — sirf maujoodgi, reject.
+// - Seetimes (Mar 2026): British Fort School (Ranjhi) ka udghatan — private school, reject.
+// - Pratham Today (Jun 2025): pitaji ki jayanti par swasthya shivir — asthayi event, durable kaam nahi, reject.
+// - Patrika: heart attack khabar — personal health news, reject.
+// REJECTED — Rakesh Singh (Jabalpur Paschim, PWD mantri):
+// - The Hitavada (20 Apr 2026): "Rs 250 crore across the city" — PWD mantri ke roop me vibhagiya bhoomi-pujan (Ayurvedic College Gaurighat, Ranjhi-Pipariya-Umaria road, airport-ring road, cantt white-topping) + rajya-stariya yojnaen (Lok Path app, Lok Kalyan Sarovars) — seat-specific nahi, reject.
+// - ETV Bharat (2 Jul 2026): Vivek Tankha se rajnitik bayaan-baazi; PWD se Jabalpur ko "saade teen hazaar crore" ka dawa — sirf daawa/bayaan, koi seat-specific kaam nahi, reject.
+// - Arya Samay (Rs 22 crore article ke andar): Katanga Tiraha–Chhoti Line bijli-taar undergrounding aur sadak-choudikaran ki keval ghoshna — bhoomi-pujan nahi hua, reject.
+// - Free Press Journal: CM Rise School (IT Park Bargi Hills) ka bhoomi-pujan CM Mohan Yadav ne kiya; Rakesh Singh sirf upasthit; sthal West seat nahi — reject.
+// - The Hitavada (2 Apr 2025): West Assembly me "chaupal" — sirf nirikshan/shikayat-sunvai, reject.
+// - Arya Samay (2025): Katanga Tiraha–Gaurighat sewer/Amrit 2.0 restoration par narazgi — sirf nirikshan/fatkaar, reject.
+// - Hindusthan Samachar (24 Dec 2025): Rs 40 crore ka lokarpan/bhoomi-pujan Panagar Vidhan Sabha me — West seat se bahar, reject.
+// - Rashtra Chandika: Gaurighat/Tilwara ghat vikas ka chunavi-abhiyaan (Nov 2023) vaada — pre-tenure ghoshna, reject.
+// - Free Press Journal: Durgawati Memorial — shilanyas PM Modi ne kiya (2023), kaam shuru hi nahi; Rakesh Singh sirf committee me — reject.
+// - Business Standard/IndiaTV candidate profiles — sirf election data, reject.
+// - Arya Samay: 57-saal upeksha, Rs 11,000 crore flyover, 117 km ring road, airport/railway station, Rs 3,200 crore budget jaise shehar-stariya bade daave — bina GO/data ke swikriti = sirf ghoshna, reject.
+// REJECTED — Sushil Kumar Tiwari "Indu Bhaiya" (Panagar):
+// - mpnewscast.com: ward-73 M-30 CC road Rs 1.48 crore ka bhoomi-pujan — snippet mila lekin article page fetch timeout; snippet-se-entry mana, reject.
+// - hindusthansamachar.in (24 Dec 2025): mantri Rakesh Singh ke Rs 40 crore Panagar kaam — MLA ki concrete bhoomika nahi, mantri ka kaam, reject.
+// - public.app video: Pariyat nadi par Rs 7.99–8 crore pul ka bhoomi-pujan — public.app-only + bhoomi-pujan mantri Prahlad Patel ne kiya, MLA sirf maujood, reject.
+// - rashtrabaan.in (Aug 2024): patwari pitai ka aarop — ek chhote portal ki single report, bina established-media coverage aur bina FIR/case status ke, reject.
+// - zeenews.india.com: jan se maarne ki dhamki wali khabar — COVID-kaalin (pre-Dec 2023), reject.
+// - janmatnews.co.in / seetimes.in: Bawdi Utsav me mukhya-atithi ke roop me maujoodgi — sirf maujoodgi, reject.
+// - crimebhaskarnews.com: 5 school bhavanon ka CM dwara virtual lokarpan — Oct 2020, pre-term, reject.
+// - haribhoomi.com (28 Jan 2025): Timri hatya virodh me chakka-jam me maujoodgi — sirf maujoodgi, reject.
+// - Nai Dunia e-paper (31 July 2026): Panagar "report card" — garbled OCR, concrete kaam extract nahi, reject.
+// - mpbreakingnews.in (Oct 2026): Sandipani vidyalaya works — Narsinghpur/Gadarwara kshetra, Panagar se bahar, reject.
+// - aditinews.com: Mahakumbh bhandare me maujoodgi — sirf maujoodgi, reject.
+// REJECTED — Santosh Varkade (Sihora ST):
+// - News24 YouTube story (santosh barkade ne loan lekar hospital ke liye daan di zameen) — YouTube-only, reject.
+// - Bhaskar English (three-day-old baby airlift): CM air-ambulance (RBSK) sarkari yojana — sirf maujoodgi, reject.
+// - Bhaskar English (bus-Durga-pandal accident): hadsa-sthal par sirf maujoodgi, reject.
+// - obnews.co / themobiworld.com (Sihora stone-pelting): shanti ki appeal, kaam nahi, reject.
+// - YouTube (Chain Singh Varkade bhoomi-pujan): galat vyakti (Maharashtra) + YouTube-only, reject.
+// - Free Press Journal (Sihora district-status protest): andolan/vivaad reporting; neta ke khilaf nahi — koi works entry nahi, reject.
+// - nationpress.com (CM birthday wish): ceremonial, reject.
+// - Election records (myneta/News18/NDTV/Oneindia/Wikipedia/Business Standard/Indian Express/ABP Live): chunav-halafnama/profile, kshetra-kaam nahi, reject.
