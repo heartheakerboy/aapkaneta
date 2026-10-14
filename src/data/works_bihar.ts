@@ -3237,3 +3237,81 @@ biharWorks['siddharth-saurav'] = [];
 
 // ---- QA NOTE (coordinator, 2026-10-14) ----
 // Sources: 4/4 workers ke fragments padhe aur QA kiye. WB ki 2 English titles ko Roman-Hinglish vakyon me convert kiya (content untouched). Sabhi entries me: period '2025-2030', badges valid (news x8, dawa x1), categories valid, titles pure Hinglish vakya, currency "Rs", 0 Devanagari/₹/escaped-\n entry objects me, sourceUrls canonical aur khud khole gaye. 14/14 slugs exactly once, AC order 178→191. Negative entries: anant-kumar-singh (Patna HC bail, HT), bhai-birendra (election-day FIR, Mint), sandeep-saurav (NEET protest arrest, Live Hindustan) — sab me FIR/case/adalaati sthiti + neta ka jawab/absence disclosed. Dawa entry: prashant-kishor (IANS). 6 profiles khaali: siyaram-singh, ratnesh-kumar, dr-ramanand-yadav, ram-kripal-yadav, arun-manjhi, siddharth-saurav. Kul 10 entries: anant-kumar-singh 1, arun-kumar-s-o-satrughan-sao 1, sanjiv-chaurasia 3, prashant-kishor 1, sanjay-kumar-183 1, bhai-birendra 1, shyam-rajak 1, sandeep-saurav 1.
+// ---- Purnia district batch (researched 2026-10-14) ----
+
+biharWorks['akhtarul-iman'] = [
+  {
+    title: 'Amour prakhand me naye block-cum-zonal karyalaya bhawan, Jhovari High School me vigyan prayogshala aur Bangra Mehdipur panchayat me panchayat sarkar bhawan ka shilanyas kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-09-23',
+    description: 'Amour block parisar me aayojit samaroh me MLA Akhtarul Iman ne prakhand kshetra ki teen yojnaon ke nirman karya ka shilanyas kiya: prakhand-sah-zonal karyalaya ka naya aadhunik bhawan, Jhovari High School me science laboratory aur Bangra Mehdipur panchayat me panchayat sarkar bhawan. MLA ke anusar block office bhawan ka nirmaan ek saal ke andar poora karne ka lakshya hai aur is par crores of rupees ki lagat aayegi; source me exact rashi ya sanction number nahi diya gaya hai. MLA ki bhoomika shilanyas samaroh ki aur samiti roop se site ka jaiza lene ki thi; yeh sarkari yojanaon ka kaam hai, jiska shreya sirf MLA ko nahi diya ja sakta. Date disclosure: source article me sirf Wednesday likha tha aur yeh Sep 2026 ke aakhir me publish hua tha, isliye 23 Sep 2026 estimated date hai.',
+    sourceLabel: 'Hindustan (livehindustan.com), 23 Sep 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/purnia/story-amour-mla-akhtarul-iman-launches-construction-of-modern-building-and-key-development-projects-201790190332777.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (akhtarul-iman): (1) Bhaskar, ~Jul 2026: Purnia ke 6 degree colleges ka udghatan CM Samrat Choudhary ne video conferencing se kiya; Amour/Baisa me MLA ne sirf ribbon kaata -- CM ke karyakram me maujoodgi, reject. (2) LiveHindustan, 22 Jan 2026: degree college sthal ke liye DEO ke saath sirf nirikshan -- sirf nirikshan/daura, reject. (3) angindianews.in PCC road shilanyas Aamgachi panchayat: article 1y7m purana (~Mar 2025) -- pre-term, reject. (4) Prabhat Khabar Nandaniya panchayat road shilanyas: 654 days purana -- pre-term, reject. (5) cityhalchal.in Baisa teen yojna shilanyas: Sep 2025 -- pre-term (chunav aachar sanhita ke samay ka), reject. (6) TikTok clips: officials ko fatkar / inspection -- social-media source, sirf daura/inspection, reject. (7) YouTube items (Haldikhoda panchayat bhawan -- Kochadhaman, kshetra-bahar + YouTube-only; assembly speeches on private universities bill, B.Ed college demand -- maang/bayan; call recording allegation -- bina karyavahi ke aarop) -- sab reject. (8) AIMIM Bihar adhyaksh ki party-bhoomika wale bayan/event -- scope se bahar, reject. Koi negative entry nahi -- kisi credible reporting me FIR/case/janch-karyavahi ki sthiti nahi mili.
+
+biharWorks['ghulam-sarwar'] = [];
+
+// REJECT-LOG (ghulam-sarwar): Profile KHAALI rahi -- Nov 2025+ karyakaal me shilanyas/lokarpan/swikriti ki post-event credible reporting nahi mili. (1) LiveHindustan, ~Sep 2026: NH-27 overbridge/traffic signal ke liye Nitin Gadkari ko application -- sirf maang/prastav, reject. (2) Bhaskar, ~Jul 2026: monsoon session protest -- nadi katav, sadak, swasthya par maang hi maang, koi stage nahi, reject. (3) YouTube: budget session me sadak ki maang, Arrabari-Khutia sadak "inauguration" video -- YouTube-only, reject. (4) LiveHindustan Tarabadi road: prashasan ki pahal, poorv MLA -- neta ka kaam nahi, reject. (5) newslemonchoose ACR bhawan: Sarwar Alam, Kochadhaman MLA (Kishanganj) -- GALAT VYAKTI (Ghulam Sarwar se alag), reject. (6) YouTube shorts me AIMIM Gadkari meeting (27 days ago): sirf maujoodgi/demand -- reject. (7) ADR election-expenditure PDF, news24/News18 election results -- kaam nahi, election records, reject. Koi negative entry nahi -- koi FIR/case/adalaati ya adhikarik janch-karyavahi ki credible reporting nahi mili.
+
+biharWorks['nitesh-kumar-singh'] = [
+  {
+    title: 'Kasba nagar parishad ke Ward 14 me Madarsa Chowk se Mahila College Kasba ke bandh tak nala nirman yojana ka shilanyas kiya',
+    category: 'Paani',
+    stage: 'shilanyas',
+    date: '2026-03-30',
+    description: 'Mukhyamantri Shahri Vikas Yojana ke tahat Kasba nagar parishad ke Ward 14 me Madarsa Chowk se Mahila College Kasba ke bandh tak nala nirman yojana ka shilanyas hua, jiski lagat lagbhag Rs 2.27 crore hai aur jisse ward me jal-jamav ki samasya se rahat milne ki ummeed hai. Shuruaat vidhayak Nitesh Kumar Singh ne mukhya parshad Chhaya Kumari, up-mukhya parshad Subhash Kumar Sah aur ward parshad Sushma Devi ke saath sanyukt roop se nariyal phodkar ki. Vidhayak ki bhoomika chaaron sanyukt shilanyas-kartaaon me se ek ki thi; yeh rajya sarkaar ki yojana ka kaam hai, jiska shreya sirf vidhayak ko nahi diya ja sakta. Date disclosure: khabar 31 Mar 2026 ko subah 01:37 baje publish hui thi, isliye ayojan ki tithi 30 Mar 2026 estimated maani gayi hai.',
+    sourceLabel: 'Hindustan (livehindustan.com), 31 Mar 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/purnia/story-groundbreaking-ceremony-for-drain-construction-in-kasba-ward-14-under-urban-development-scheme-201774901243092.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (nitesh-kumar-singh): (1) YouTube video (~21 Jan 2026): Kasba panchayat samiti ki baithak me vidhayak ki maujoodgi aur vikas-charcha -- YouTube-only + sirf baithak/charcha, koi kaam nahi, reject. (2) thenewsscan.com, Oct 2026: vidhayak Nitesh Kumar Singh ki Dharmendra Pradhan se shiksha/skill development par mulakat -- sirf charcha/maang, koi sanction ya kaam nahi, reject. (3) livehindustan.com: Bhola Paswan Shastri Krishi Mahavidyalaya me 15-diniya diksharambh karyakram ka vidhayak ke haathon udghatan -- orientation karyakram ka event, koi bhavan/yojana kaam nahi, reject. Koi negative entry nahi -- halafnama me 5 pending criminal cases zaroor hain, lekin Nov 2025+ karyakaal me FIR/case/janch-karyavahi ki koi credible post-event reporting nahi mili.
+
+biharWorks['krishna-kumar-rishi'] = [
+  {
+    title: 'Banmankhi prakhand ke Jankinagar me Uchch Madhyamik Vidyalaya Madhuvan ke navnirmit bhavan ka lokarpan kiya',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-07-07',
+    description: 'Banmankhi prakhand ke nagar panchayat Jankinagar sthit Uchch Madhyamik Vidyalaya Madhuvan ke navnirmit bhavan ka lokarpan vidhayak Krishna Kumar Rishi ne feeta katkar kiya; samaroh me zila shiksha padadhikari, anumandal padadhikari, nagar panchayat adhyaksh aur karya palak padadhikari sahit kayi adhikari aur jan-pratinidhi upasthit the. Vidhayak ne vidyalaya tak pakki sadak aur charhadiwari ke nirman ka ashwasan diya, par yeh ashwasan hi tha -- sanction ya work-order khabar me nahi hai, isliye alag entry nahi. Credit disclosure: khabar me hi ullekhit hai ki is vidyalaya ki neenv 2020 me rakhi gayi thi, isliye bhavan ka aarambh pichhle karyakaal ka hai aur vartaman karyakaal me sirf lokarpan hua. Date disclosure: khabar lagbhag 8 Jul 2026 ko publish hui thi aur usme likha tha ki udghatan mangalwar ko hua tha; 7 Jul 2026 mangalwar padta hai, isliye tithi estimated hai.',
+    sourceLabel: 'Hindustan (livehindustan.com), 8 Jul 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/purnia/story-inauguration-of-new-school-building-at-madhuwan-high-school-by-mla-krishna-kumar-rishi-201783528220801.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Banmankhi prakhand ke Maharajganj-1 panchayat me Utkramit Uchch Vidyalaya Chakamka ke navnirmit bhavan ka Shikshak Diwas par lokarpan kiya',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-09-05',
+    description: 'Shikshak Diwas ke avsar par Banmankhi prakhand ke Maharajganj-1 panchayat sthit Utkramit Uchch Vidyalaya Chakamka ke navnirmit bhavan ka lokarpan vidhayak Krishna Kumar Rishi ne mukhya atithi ke roop me kiya; unke saath zila shiksha padadhikari Purnia, anumandal padadhikari Banmankhi, BDO aur anya adhikariyon ne sanyukt roop se deep prajwalan aur feeta katkar udghatan kiya. Vidhayak ne kaha ki naya bhavan kshetra ke chhatra-chhatraon ke liye saugaat hai aur shikshakon ki kami jald door hogi. Credit disclosure: udghatan adhikariyon ke saath sanyukt roop se hua tha aur nirmaan ka fund-srot khabar me nahi diya gaya hai, isliye yeh sirf udghatan ki entry hai, nirmaan ke shreya ki nahi.',
+    sourceLabel: 'Hindustan (livehindustan.com), 7 Sep 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/purnia/story-inauguration-of-new-school-building-in-janakinar-bihar-a-milestone-for-local-education-201788722868814.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (krishna-kumar-rishi): (1) sampurnbharat.com: Banmankhi thana parisar me 15 lakh ki sadak ka shilanyas -- 1178 din purani khabar (~2023), prior-term, reject. (2) thejanpost bio: "chaar baar BJP MLA" jaankari, criminal cases ki purani sankhya -- profile info hai, kaam nahi, reject. Naam-savdhani rahi -- Banmankhi ke Krishna Kumar Rishi ko kisi anya Rishi/neta se nahi milaya. Koi negative entry nahi -- halafnama (ADR/Bihar 2025) me koi criminal case nahi; purane Railway Act ke cases (2012/2014, charges framed 2016/2017) pichhle karyakaal ke purane hain aur vartaman karyakaal me koi FIR/janch-karyavahi ki credible reporting nahi mili.
+
+biharWorks['kaladhar-prasad-mandal'] = [];
+
+// REJECT-LOG (kaladhar-prasad-mandal): Profile KHAALI rahi -- Nov 2025+ karyakaal me shilanyas/lokarpan/swikriti ki post-event credible reporting nahi mili. (1) YouTube: Vijay Mohanpur panchayat me Chhath Ghat ka shilanyas vidhayak ne kiya -- YouTube-only, reject. (2) hindusthansamachar.in, 18 Dec 2025: vidhayak ki jal-sansadhan mantri Vijay Kumar Chaudhary se shishtachar mulakat, vikas-charcha -- sirf mulakat/charcha, koi sanction/kaam nahi, reject. (3) livehindustan.com, ~Jul 2026: Rupauli me Bol Bam Seva Samiti dwara aayojit nishulk kanwariya seva shivir ka vidhayak ne feeta katkar udghatan kiya -- sewa samiti ka temporary dharmik seva shivir, vidhayak sirf udghatan-karta, vikas kaam nahi, reject. (4) livehindustan.com, 16 Dec 2025: Rupauli me footpath vikretaon ne vidhayak ko avedan saunpa -- sirf maang/prastav, reject. (5) livehindustan.com, ~Oct 2026: Bhawanipur ke PDS labhukon ne vidhayak ko aavedan diya, dealeron par aarop -- sirf maang/shikayat, reject. Koi negative entry nahi -- halafnama (ADR/Bihar 2025) me zero criminal cases; koi FIR/case/janch-karyavahi ki credible reporting nahi mili.
+
+biharWorks['leshi-singh'] = [];
+
+// REJECT-LOG (leshi-singh): Mantri-trap double-hit: Prabhat Khabar ~24 May 2026 (Kasba block-office model bhavan Rs 16.62 cr shilanyas) -- Building Construction MANTRI ke roop me shilanyas + Kasba seat (Dhamdaha ke bahar), double reject; Jagran 07 Oct 2025 (Rs 50.51 crore ST residential school + Dhamdaha-Kuari road + Kajha Kothi park shilanyas) -- Oct 2025 ka mantri-kaaryakaal, pre-Nov 2025, reject; LiveHindustan (benefit distribution samaroh: 57 ration card, agnikand-check, PM Awas chaabi, MGNREGA job card) -- mantri-bhoomika me yojna-vitran samaroh, koi kaam-stage nahi, reject; drishyabharatnews.blogspot Sep 2026 (Fatuha Foulard Foods udghatan) -- mantri-bhoomika + blogspot-only + kshetra-bahar (Patna), reject; YouTube LiveCities ("kai yojnaon ka shilanyas") -- YouTube-only, reject; Jagran Apr 2026 (SH-65 four-lane encroachment drive, "MLA-mantri ke prayason ka parinam" credit) -- sarkari path-pariyojna, koi MLA work-stage nahi, reject; Patna Press Jun 2026 (Building Construction dept review) -- mantri-role state-level samiksha, reject; LiveHindustan 06 Jan 2026 (janmadin samaroh) -- sirf dawa, koi vishisht kaam nahi, reject; HB Star24 YouTube (MeerGanj PCC sadak shilanyas) -- ~2020 ka purana video + YouTube-only, reject. Negative: Nov 2021 Rintu Singh hatya FIR (patni ne FIR me minister + bhatije ko naamzad kiya) -- 5 saal purani pre-term, reject; Aug 2022 Bima Bharti extortion aarop (IANS/TimesNow) -- pre-term + sirf bayan, koi FIR/janch nahi, reject. Imaandari se khaali profile rakhi gayi.
+
+biharWorks['vijay-kumar-khemka'] = [];
+
+// REJECT-LOG (vijay-kumar-khemka): Jagran 12 Oct 2026 (khadi mall nirikshan) -- sirf nirikshan + PM Gati Shakti vibhagiya yojna, reject; LiveHindustan 02 Apr 2026 (Gulabbagh Zero Mile golambar soundaryakaran swikriti) -- MLA ne sirf path-nirman mantri se mulakat/charcha ki, swikriti mantri ka faisla, koi work-order/tender saboot nahi, reject; LiveHindustan 16 Sep 2026 (BUIDCo samiksha) -- sirf samiksha/nirdesh, koi single kaam-stage nahi, reject; LiveHindustan Sep 2026 (sahayog shivir nirikshan) -- sirf nirikshan, reject; cityhalchal.in 06 Oct 2026 (seva setu shivir nirikshan) -- sirf nirikshan, reject; cityhalchal.in Aug 2026 (Ravidas vikas shivir nirikshan) -- sirf nirikshan, reject; LiveHindustan 01 Jan 2026 (Vishwa Hindu Yuva Vahini ka aabhar-patra) -- sangathan ka bayan, koi kaam-stage nahi, reject; public.app x2 (Sep 6, 2026: 'The Urban Taste' hotel udghatan; Sep 6, 2026: blood-donation banner udghatan) -- public.app-only + vikas-kaam nahi, reject; looknewsindia Oct 2024 (7 panchayat bhavan shilanyas, CM virtual) -- pre-term + CM karyakram, reject; LiveHindustan 10 Nov 2025 (chunavi road show) -- election news, reject; PM Modi Sep 2025 Purnia airport/40,000-cr event -- pre-term + PM karyakram, reject; koi qualifying negative reporting nahi mili. Imaandari se khaali profile rakhi gayi.
+
+// COORDINATOR QA (Purnia): Worker-A/B ne canonical schema (description field) ka istemal kiya; Worker-C ne entry-less fragment me header-comment me "note" field ka hawala diya tha lekin uske blocks khaali arrays hain -- koi schema mismatch merge me nahi aaya; saare fragments ke entry objects me zero Devanagari, zero rupee-symbol, zero scaffolding comment. Titles pure Roman-Hinglish vakya, currency "Rs", badges sirf 'news', categories valid (Any/Paani/School), stages valid (shilanyas/lokarpan), period '2025-2030' sabhi 4 entries me, slug order AC 56->62, har slug exactly once. 4 profiles khaali (ghulam-sarwar, kaladhar-prasad-mandal, leshi-singh, vijay-kumar-khemka) -- 11-mahine ke karyakaal me imaandari se justify.
