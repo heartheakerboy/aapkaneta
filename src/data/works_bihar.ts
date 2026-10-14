@@ -51,3 +51,28 @@ biharWorks['mohammad-murshid-alam'] = [];
 biharWorks['vijay-kumar-mandal'] = [];
 
 // REJECT-LOG (vijay-kumar-mandal): livehindustan 15 Nov 2025 (jeet ki khabar) — election news, reject; livehindustan 16 Dec 2025 + 17 Dec 2025 (Sikti me nagrik abhinandan sammelan) — sirf samman samaroh, reject; livehindustan 1 Dec 2025 (vidhansabha shapath-grahan) — sirf shapath, reject; livehindustan 4 Feb 2026 (Bihar budget par bayan) — political bayan, reject; Khaskhabar ~Sep 2026 + royalbulletin (Bakra nadi Pararia ghat Rs 12 crore pul udhghatan se pehle gira; Mandal ne bhrashtachar ka aarop lagaya, mauke par pahunche) — kaam pura hi nahi hua, sirf pratikriya; negative rule par FIR/case/adalaati janch ki sthiti nahi, reject; AajTak Jun 2024 + swarajya Jun 2024 (wahi pul dhahna, Jun 2024) — karyakaal-se-pehle, reject; Jagran seat-analysis ~Jul 2025 (purane karyakal ke kaam/dave: ABM Sikti path, 260 km sadak chaudikaran, Tira ghat pul) — karyakaal-se-pehle, reject; public.app (Tira ghat 536m pul shilanyas ~Sep 2025: MP + mantri sahit) — pre-Nov 2025 + public.app-only, reject; public.app ~Oct 2026 (Sikti RRMP sadak L031 vilamb ground-report) — MLA ka koi dastavezi kadam nahi, FIR/case nahi, public.app-only, reject; koi qualifying negative reporting nahi mili.
+
+
+// ---- Arwal district batch (researched 2026-10-14) ----
+
+biharWorks['manoj-kumar-bihar'] = [];
+
+// REJECT-LOG (manoj-kumar-bihar): patnapress Jan 2026 Aurangabad-Arwal highway four-laning — sirf gyapan/maang, reject; thevoiceofbihar wahi maamla — sirf maang, reject; LiveHindustan Jun 2026 Kinjar Surya Mandir tourism patra — sirf maang, reject; LiveHindustan 28 Jan 2026 Viksit Bharat karyakram — pre-event "karenge" ghoshna, reject; LiveHindustan 31 Jan 2026 Rampur-Vaina sadak janta-darbar — sirf nirdesh, reject; TOI Mar 2026 CM Rs 405 cr event — sirf maujoodgi, reject; YouTube Feb 2026 BJP karyalaya udghatan — YouTube-only + party kaam, reject; Bhaskar Nov 2025 felicitation — "karenge" bayan, reject; Bhaskar Feb 2026 budget bayan — sirf bayan, reject; public.app Sep 2026 Krishna mahotsav — public.app-only + dharmik maujoodgi, reject; patnapress Feb 2026 medical college event — sirf maujoodgi, reject; patnapress Jun 2026 sangathan zimma — party bhoomika, kaam nahi, reject; Oct 2026 Nityanand Rai event — sirf maujoodgi, reject; galat-vyakti rejects: Barhi (Jharkhand) ke Manoj Kumar Yadav x2, Begusarai DEO Manoj Kumar, shaheed Major Manoj Kumar, Kharsawan (Jharkhand) ke Dashrath Gagrai, MP ka narmadanchal nidhi item; election-result coverage — kaam-khabar nahi; Arwal ke Manoj Kumar par koi established negative reporting nahi. Profile imaandari se khaali rahi.
+
+
+biharWorks['pappu-kumar-verma'] = [
+  {
+    title: 'Bijli vibhag ke junior engineer ne Kurtha MLA Pappu Kumar Verma par gaali-galauj, dhamki aur circuit house me maarpeet ka aarop lagaya; sadar thane ki likhit shikayat par police janch jaari hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Zee News, 16 Jun 2026',
+    sourceUrl: 'https://zeenews.india.com/hindi/india/bihar-jharkhand/arwal/junior-engineer-of-electricity-department-has-accused-jdu-mla-of-assault/3247710',
+    date: '2026-06-16',
+    note: 'Aarop ke star par hai, FIR ki pushti article me nahi hai: bijli vibhag ke kaniya abhiyanta Nitesh Kumar ne sadar thana Arwal me likhit shikayat dekar aarop lagaya ki MLA Pappu Kumar Verma ne 13 June 2026 ko phone aur WhatsApp call par gaali-galauj ki, naukri na karne dene ki dhamki di aur paise ki maang ki, phir 16 June ko circuit house bulaakar maarpeet ki; article ke mutabik police ne shikayat prapt kar janch shuru kar di hai aur ek kathit audio clip ki aadhikarik pushti nahi hui hai. MLA ne sabhi aaropon ko niradhar bataya aur kaha ki kshetra me bijli vyavastha ki lagatar shikayaton par unhone abhiyanta ko kaam me sudhar ke liye sirf daant-phatkar lagayi thi. Report byline reporter (Sanjay Ranjan) ki hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (pappu-kumar-verma): LiveHindustan Keyal gramin samasyayen (~Jun 2026) — sirf daura, "karenge" vaade, reject; LiveHindustan 14 Feb 2026 Belkhara degree college sthapna divas — sirf karyakram udghatan, reject; Bhaskar Jul 2026 CHC mudda — sirf maang, reject; Bhaskar Dec 2025 kisan mela udghatan — sirf maujoodgi, reject; LiveHindustan 20 Dec 2025 "vidhayak aapke dwar" — sirf daura/aashwasan, reject; LiveHindustan 8 Dec 2025 review meeting — sirf maujoodgi, reject; LiveHindustan 3 Feb 2026 budget bayan — sirf bayan, reject; public.app Sep 2026 Vishwakarma puja — public.app-only + dharmik maujoodgi, reject; public.app Feb 2026 Jagdev mela maang — sirf maang + public.app-only, reject; YouTube Blue Star restaurant udghatan — YouTube-only, reject; ISMA Times vetan-daan — vetan-daan vikas-kaam nahi, reject; radiancemediagroup Janaushadhi saptah — sirf maujoodgi, reject. Positive profile khaali rahi; sirf 1 negative entry rakhi gayi.
+
+// Coordinator QA note (Arwal district batch, researched 2026-10-14): 2/2 MLA researched by parallel workers; negative entry (pappu-kumar-verma) ka source maine khud kholkar verify kiya — Zee News 16 Jun 2026, aarop + thane me likhit shikayat + police janch + MLA ka inkaar sab article me maujud; worker ke note me "sarkit haus" typo ko "circuit house" theek kiya. Manoj Kumar par naam-savdhani lagayi gayi (Barhi-Jharkhand MLA, Begusarai DEO, shaheed Major — sab alag vyakti). Dono slugs pehle khaali the — koi overwrite nahi. Bihar works kul: 2 → 3 entries.
