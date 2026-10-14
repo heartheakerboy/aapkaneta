@@ -161,3 +161,406 @@ keralaWorks['saji-cherian'] = [];
 // QA: 12 candidates screened, 0 qualifying. Sab mantri-era/kshetra-bahar/assembly-politics/allegation. Khaali profile imaandar hai; kamzor attribution nahi jodi gayi.
 
 // COORDINATOR QA NOTE (Alappuzha district batch, 2026-10-14): 9 parallel workers, sabhi 9 fragments padhe — sabhi me khaali-assignment exact schema me hai, har slug exactly once (append se pehle 0 matches the), marker 1x; kul titles 0 -> 0 (+0 — sabhi 9 profiles imaandari se KHAALI). Khaali rehne ke mukhya kaaran: Chennithala (Haripad) aur M. Liju (Kayamkulam) 18 May 2026 se Home Minister / Excise & Cooperation Minister hain — unki saari post-May coverage mantri-role ya ceremonial hai (mantri-niyam sakht laagu); Shanimol Osman Deputy Speaker hain (sansthanik bhoomika, kshetra-kaam nahi); Saji Cherian 17 May 2026 tak mantri rahe (2021-26 ke mantri-kaam sakhti se reject); P. Prasad aur Saji Cherian ab vipaksh (LDF) ke MLA hain — established-media coverage swabhavik roop se patli; Reji Cheriyan ke sabse najdeeki bund/embankment items sirf nirikshan/maujoodgi ya "karenge" stage the; A.D Thomas ke sabse najdeeki items ceremonial (sunset cruise adhyakshata, khel-mela, seminar) the; Sudhakaran ka sab kuch political jhagda ya pre-term mantri-era tha. Namesake traps pakde gaye: Arun Kumar ke liye MP Kodikunnil Suresh + C.A. Arunkumar + K.S. Arunkumar (sab alag vyakti); A.D Thomas ke liye Thomas K. Thomas (NCP) + Thomas Isaac; Shanimol ke liye Charummoodu (Aroor kshetra me nahi). Negative screen sabhi 9 par clean (karyakaal me koi established FIR/case/janch reporting nahi). Hygiene: entry objects 0 (khaali arrays), 0 Devanagari, 0 rupee symbol, 0 literal-\n; reject-logs me Roman Hinglish; period '2026-2031' blocks me consistent.
+
+// ---- Ernakulam district batch (researched 2026-10-14) ----
+keralaWorks['manoj-moothedan'] = [];
+
+/* REJECT-LOG (Manoj Moothedan, Perumbavoor AC, Ernakulam; researched 2026-10-14; term May 2026+):
+1. Happiness Park, Para (Kuruppampady), inaugurated by Manoj Moothedan (Onmanorama, 8 Jun 2026) — REJECT: Rs 6-crore park is a PRIVATE project of US citizen David E Johnson and UK citizen Elizabeth Chiraykkal (no sarkari funding); MLA sirf inaugurate kiya — ceremonial presence at non-government project. Article khud khola.
+2. Vimukthi anti-tobacco campaign, 31 May 2026 (Perumbavoor Nagarasabha ward 11 + Kerala State Excise + NSS, Mar Thoma College NSS report) — REJECT: campaign event inauguration, vikas-kaam nahi.
+3. Operation Toofan anti-drug rally/function, Perumbavoor, Jul 2026 (New Indian Express/TOI) — REJECT: police campaign event (Home Minister Chennithala-led); MLA presided/attended — ceremonial, vikas-kaam nahi.
+4. Embakod drinking water project, Koovapady panchayat (Onmanorama, 21 Sep 2025) — REJECT: pre-term; unki bhoomika Panchayat President ki thi, MLA ki nahi.
+5. Okkal seed production centre solar project (Onmanorama, 1 Oct 2025) — REJECT: pre-term, district-panchayat presidency work.
+6. Perumbavoor municipality budget 2026-27 (The Hindu, 10 Mar 2026): Rs 2 crore MLA fund Taluk Hospital ke liye earmarked — REJECT: pre-term budget proposal (March 2026); completion proof nahi; aur us waqt ke MLA Eldhose Kunnappilly the.
+7. Kerala HC notice on election petition against his victory (LiveLaw, Aug 2026, El. Pet. No. 5 of 2026, petitioner Adv. Shaji Chirayath) — REJECT: works se sambandhit nahi; chunav-vivad hai, criminal aarop nahi.
+8. KSRTC Gramavandi service, Mudakkuzha (Onmanorama, Oct 2025) — REJECT: pre-term; MLA sirf function me the.
+Profile khaali rahi — May 2026+ ka koi established-media-documented vikas-kaam (lokarpan/swikriti/shilanyas) nahi mila.
+*/
+keralaWorks['roji-m-john'] = [];
+
+/*
+REJECT-LOG (roji-m-john, INC, Angamaly, Ernakulam; karyakaal May 2026+):
+
+1. KSRTC bus donation (Jose, Mookkannoor Angamaly; Mathrubhumi English/Asianet Newsable, 23 Sep 2026) — REJECT: Rs 40 lakh PRIVATE vyakti ka daan tha, MLA ne sirf Transport Minister ko prastav relay kiya; na sarkari pariyojna, na MLA-nidhi/state scheme ka kharch — vikas-kaam ka stage poora nahi hota.
+
+2. Kalady parallel bridge review meeting (Onmanorama, 7 Aug 2026) — REJECT: sirf sameeksha baithak me 15 Jan 2027 ki deadline ka nirdesh; pull 2 saal se nirmanadhin (allocation purane Oommen Chandy sarkar ka) — na lokarpan, na nayi swikriti, na shilanyas.
+
+3. Kochi Metro Phase III / MC Road widening memorandum (ET Infra/TOI Kochi, 13 Oct 2026) — REJECT: citizen group 'Kochi First' ne memorandum saunpa; sirf maang/gyapan, koi sanction ya GO nahi.
+
+4. Knowledge Valley aur Research Park ghoshna (IANS/Lokmat Times, 18 Sep 2026) — REJECT: state-level mantri ki prastavit yojna, Angamaly kshetra ka kaam nahi; keval ghoshna, koi sanction/GO nahi.
+
+5. Aster Medcity Advanced Neurorehab Centre udghatan (Metro Vaartha, 25 Sep 2026) — REJECT: Kochi ka PRIVATE hospital project, kshetra se bahar, ceremonial udghatan mantri ke roop me.
+
+6. Bake Expo 2026 valedictory udghatan, Angamaly (Society Today News, Oct 2026) — REJECT: sangathan karyakram me ceremonial maujoodgi, koi sarkari pariyojna nahi.
+
+7. Avigna Logistics Park, Parakkadavu (channeliam, Nov 2025) — REJECT: karyakaal se pehle ka; udghatan Industries Minister ne kiya, Roji sirf upasthit the.
+
+8. Catholicate/Mar Thoma college platinum jubilee (The Hindu, 28 Sep 2026) — REJECT: Pathanamthitta ke colleges, kshetra se bahar, ceremonial karyakram.
+
+9. COVID WISK handover, Angamaly Taluk Hospital (Unique Times, ~2020) — REJECT: karyakaal se pehle ka purana karyakram.
+
+Koi bhi positive/negative entry qualify nahi karti; profile imaandari se khaali rakhi gayi.
+*/
+// anwar-sadath | INC | Aluva AC | Ernakulam district | karyakaal 2026-2031
+// Research date: 14 Oct 2026. Searched: Onmanorama, The Hindu, New Indian Express,
+// Indian Express, Times of India, Mathrubhumi English, Asianet Newsable, South First.
+// Result: koi qualifying entry nahi mili — profile imaandari se khaali.
+
+keralaWorks['anwar-sadath'] = [];
+
+// REJECT-LOG (Anwar Sadath, Aluva — 2026-2031 karyakaal; cutoff May 2026)
+// 1. NDR Warehousing Rs 250-crore logistics park, Chunungamveli, Aluva — inaugurated by Industries Minister P. Rajeeve; Sadath sirf "participation" ke saath maujood (rprealtyplus.com); shilanyas Nov 2025 me hua (pre-karyakaal, Invest Kerala summit project). REJECT: sirf maujoodgi + karyakaal se pehle.
+// 2. 190 MLD water treatment plant, Aluva — Rs 523 crore ADB-funded project; Kerala sarkaar/CM ka faisla (sanction ~July 2026); Sadath sirf review meeting me maujood kayi MLAs me se ek (TOI). REJECT: unki dastavezi concrete bhoomika nahi — sarkari yojana ka shrey nahi.
+// 3. Aluva KSRTC bus terminal renovation (Rs 6 crore, vidhayak-nidhi se) — New Indian Express, July 2019. REJECT: karyakaal se bahut pehle.
+// 4. MLA-SDF 2025-2026 toilet block, Morning Star Home Science College, Nedumbassery GP — PWD tender dated 07-11-2025; estimate Sadath ke nirdesh par bana. REJECT: pre-karyakaal (2025-26 fund, tender Nov 2025).
+// 5. Mane Kancor–FemiSafe menstrual cup distribution, Nedumbassery Panchayat — event ka udghatan Sadath ne kiya (company CSR). REJECT: corporate CSR community welfare = vikas-kaam nahi.
+// 6. Edathala Grama Panchayat 2026 vikasana seminar inauguration — sirf YouTube video. REJECT: srot-ayogya (YouTube-only) + sirf seminar, kaam nahi.
+// 7. Aluva purani market todkar naya shopping complex — Onmanorama; CM Pinarayi Vijayan ne launch kiya (LDF sarkaar, chunav se pehle). REJECT: pre-karyakaal.
+// 8. "Kunnathunad MLA Anwar Sadath lashes out at top cop" (Deccan Chronicle, ~2017) — doosra vyakti (2011-16 ke Kunnathunad MLA). REJECT: galat vyakti + purana.
+// 9. "Self-styled godman Anwar Sadath" giraftari, Puthuppadi (The Hindu, 23 Sep 2026) — naam milta-julta galat vyakti. REJECT: galat vyakti.
+// 10. Aluva-Alangad road land-acquisition hearing (The Hindu, Feb 2026) — Industries Minister P. Rajeeve ke netritva me; Sadath sirf maujood. REJECT: pre-karyakaal + sirf maujoodgi.
+// 11. Aluva-Munnar road 13.8m width memorandum (New Indian Express, 2023) — nivasiyon ne CM ko gyapan diya, copy Sadath ko. REJECT: pre-karyakaal + sirf maang.
+// 12. Summit of Future 2026 speech (Jan 2026) — bhashan, kaam nahi. REJECT: pre-karyakaal + speech.
+// Negative entries: is karyakaal me Sadath ke khilaf FIR/janch/adalaati karyavahi ki koi established reporting nahi mili; halafnama-ke purane cases (17, ADR) 2026 chunav se pehle ke hain, naye nahi.
+/* keralaWorks fragment — adv-v-e-abdul-gafoor (IUML, Kalamassery AC, Ernakulam dist)
+   period: 2026-2031 | Research date: 2026-10-14 | Karyakaal: May 2026+
+   Searched: Onmanorama, Mathrubhumi English, The Hindu, Times of India, New Indian Express, Indian Express, Asianet Newsable, The Hindu BusinessLine, Metro Vaartha, The Statesman, Newsdrum (PTI), Economic Times, ETV Bharat.
+   PERSON VERIFIED: Adv V E Abdul Gafoor, IUML, Kalamassery MLA (80,606 votes, defeated
+   P Rajeeve 64,294; result 4 May 2026; oath as MLA 21 May 2026; age 49, advocate,
+   son of late V K Ebrahim Kunju). Sworn in as Kerala Fisheries & Social Justice
+   minister 18 May 2026 (V D Satheesan cabinet) — mantri-portfolio ke bahar-kshetra
+   ke inaugurations reject (Kalamassery AC ke bahar ka kaam nahi jod sakte).
+   RESULT: profile khaali rahi — karyakaal (May 2026+) me uske naam par Kalamassery AC
+   ke andar koi poora-hua kaam, lokarpan, GO/sanction, shilanyas ya dastavezi
+   concrete bhoomika wali khabar established English media me NAHI mili.
+   REJECT-LOG:
+   1. "Govt. working on comprehensive development plan for fisheries sector: Minister"
+      (The Hindu, ~Oct 2026) — Gafoor ne Eravipuram South (Kollam) me multipurpose
+      fisheries centre (Rs 41.30 lakh, PMMSY) ka lokarpan kiya + mobile auto kiosk ki
+      keys di. REJECT: Kollam Kalamassery AC ke bahar — kshetra se bahar ka kaam.
+   2. "Adopt a welfare-oriented approach, Fisheries department told" (The Hindu, 8 Sep
+      2026) — live fish vending centre / RAS / biofloc units (Veliyankode) + 5-tonne
+      cold storage (Ponnani Harbour, Rs 30 lakh, PMMSY), Malappuram. REJECT:
+      Kalamassery AC ke bahar.
+   3. "KUFOS to host Blue India 2026 conference" (The Hindu BusinessLine, 2 Jun 2026) —
+      valedictory inaugurated by Gafoor at KUFOS Panangad campus. REJECT: Panangad
+      Kochi me hai (Kalamassery AC ke bahar) + conference event, sirf ceremonial
+      maujoodgi; koi sarkari vikas-pariyojna nahi.
+   4. "Weeklong Onam celebrations begin in Ernakulam" (TOI, 24 Aug 2026) — Gafoor ne
+      Durbar Hall Ground (Kochi) par Lavanyam 2026 ki illumination launch ki. REJECT:
+      sanskritik/uttsav karyakram, sirf ceremonial; koi sarkari pariyojna-kaam nahi.
+   5. "Fisheries minister visits Muthalapozhi" (Newsdrum PTI, 11 Jun 2026) — harbour
+      visit + fishermen ko aashwasan (Thiruvananthapuram). REJECT: kshetra se bahar +
+      sirf nirikshan/daura aur aashwasan, koi swikriti/kaam nahi.
+   6. "Kerala to prepare SOP to enhance safety of fishermen" (NIE, 8 Aug 2026) — missing
+      fishermen ke baad SOP banane ka ELAN + marine ambulance ka planning. REJECT:
+      sirf policy intention/ghoshna; koi sanction order/GO/work-order nahi.
+   7. "Amid coastal protests over missing fishermen, Kerala CM promises new safety SOP"
+      (The Statesman, ~Aug 2026) — machhwaaron ke parivaron ki aalochana (Gafoor ne 10
+      din baad daura kiya). REJECT negative-entry: koi FIR/adalaati ya adhikarik
+      janch-karyavahi nahi — raajnitik aalochana se aage ka mamla nahi.
+   8. "Kerala Assembly: LDF walks out after uproar over fisherfolk aid" (Asianet
+      Newsable / Mathrubhumi English, 30 Jun 2026) — lean-season relief par adjournment
+      motion + Pinarayi ki "incompetent" wali tippani par hungama. REJECT: assembly
+      karyavahi/raajnitik bayanbaazi; koi FIR/janch nahi — negative entry ke liye
+      ayogya; vikas-kaam bhi nahi.
+   9. "CM Vijayan to inaugurate new Cancer Research Centre facility in Kochi"
+      (Metro Vaartha, 8 Feb 2026) — Cochin Cancer Research Centre, Kalamassery (Rs 449
+      crore). REJECT: karyakaal se pehle (Feb 2026); Gafoor ka koi documented role nahi.
+   10. "RO plants installed in 41 schools at Kalamassery" (The Hindu, 22 Sep 2025) —
+      P Rajeeve era, karyakaal se pehle. REJECT.
+   11. "Adani Logistics Park in Kalamassery" groundbreaking (Aug 2025) — karyakaal se
+      pehle. REJECT.
+   12. "Kerala Cabinet approves new Judicial City in Kalamassery" (Lokmat Times, Sep
+      2025) — Rajeeve ne elan kiya tha; karyakaal se pehle. REJECT.
+   13. "Kochi Region Sees Uneven Plan Fund Spending" (urbanacres.in, ~Apr 2026) —
+      Kalamassery ne Rs 16.87 crore me se sirf Rs 8.01 crore kharch kiya. REJECT:
+      pre-term data + article me Gafoor ki koi dastavezi bhoomika nahi.
+   14. Indian Express candidate list (2026): Gafoor ke naam 2 cases (affidavit me
+      declared). REJECT negative-entry: election affidavit disclosure hai; term ke
+      dauraan koi FIR/case/adalaati karyavahi ki established reporting nahi mili.
+      Parivar-mamla nahi.
+   15. "Former Bihar Minister and RJD MLA Abdul Gafoor dies at 60" (GKToday headline,
+      2020) — galat vyakti (Bihar), naam-milta. REJECT.
+   16. Election-win/swearing-in news (ET, ETV Bharat, Metro Vaartha, Newkerala, May
+      2026) — chunav result, MLA oath, cabinet induction. REJECT: administrative/
+      election event, vikas-kaam nahi.
+   17. "Pro-tem Speaker administers oath ... starting with V E Abdul Gafoor"
+      (Devdiscourse, 21 May 2026) — REJECT: vikas-kaam nahi (upar #16 ka hi hissa).
+   NOTE: 2026-term me unke khilaaf koi FIR/adalaati-janch karyavahi ki established
+   report nahi mili — isliye koi negative entry bhi nahi bani. Search me koi
+   vidhayak-nidhi/SDF ghoshna-press khabar bhi nahi mili (bina sanction ke hoti to
+   waise bhi reject hoti).
+*/
+keralaWorks['adv-v-e-abdul-gafoor'] = [];
+keralaWorks['adv-v-d-satheesan'] = [
+  {
+    title: 'Chartered-flight travel par Lok Ayukta me shikayat: Chipsan Aviation dwara CM ke Malappuram safar ka Rs 19.88 lakh kharcha, preliminary inquiry chal rahi hai (agli sunvai 3 Nov 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mathrubhumi English, 06 Oct 2026',
+    sourceUrl: 'https://english.mathrubhumi.com/news/kerala/chipsan-helicopter-contract-not-renewed-kerala-govt-lokayukta-satheesan-flight-row-nfv5k5jj',
+    date: '2026-10-06',
+    note: 'Social activist KM Shajahan ki shikayat par Kerala Lok Ayukta me chartered-flight travel ka mamla chal raha hai — aarop hai ki Chipsan Aviation ne CM ke official chartered flight (Bengaluru-Kozhikode-Malappuram, flash-flood daura) ka Rs 19.88 lakh ka kharcha uthaya, jabki us waqt company ka sarkari helicopter rental contract ka renewal proposal sarkar ke paas pending tha; shikayat me Prevention of Corruption Act ke tahat undue advantage, nepotism aur abuse of power ka aarop lagaya gaya hai. Lok Ayukta ne is par documents mangwaye; sarkar ne forum ke saamne kaha ki Chipsan ke saath helicopter contract renew nahi hoga, Chipsan ka invoice pesh kiya gaya aur CM ka Malappuram daura niji karyakram nahi tha; case ko November 3 tak adjourn kar diya gaya hai aur abhi tak koi final finding ya admission nahi hua hai. CM ka jawab hai ki is travel me sarkari khazane se koi kharcha nahi hua. Dhyan rahe: ye unke CM-pad ke aacharan se juda preliminary proceeding hai, Paravur seat ke kisi vikas-kaam se nahi, aur stage sirf shikayat-par-preliminary-inquiry ka hai — FIR ya case darj nahi hua hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (adv-v-d-satheesan, Ernakulam/Paravur — research 14 Oct 2026)
+// 1. KSRTC North Paravur stand + 7 nayi bus services (TOI/The Hindu, 4-5 Oct 2026) — REJECT: rajya-bhar ka KSRTC modernization program (agency = KSRTC/state govt), CM ke roop me inauguration; Paravur me event hua lekin unki seat-level vyaktigat bhoomika dastavezi nahi, statewide services.
+// 2. Muziris water taxis/kayaks launch, Thattukadavu Jetty (The Hindu, 3-5 Oct 2026) — REJECT: state govt project (Muziris Projects Ltd), Tourism Minister P.C. Vishnunadh chaired, govt 100-day programmes ka hissa; sirf CM maujoodgi.
+// 3. Makkekadavu-Nerekkadavu bridge inauguration 18 Oct (Onmanorama) — REJECT: Alappuzha/Kottayam me, Paravur AC ke bahar; pre-event schedule.
+// 4. CyberShelter Global Delivery Centre inauguration, SmartCity Kakkanad (HinduBusinessLine) — REJECT: Paravur AC ke bahar (Thrikkakara), private company event, ceremonial.
+// 5. Vizhinjam EXIM operations launch 18 Aug (lokmattimes) — REJECT: Thiruvananthapuram, CM program, Paravur se bahar.
+// 6. Kerala Heart Care Society jubilee inauguration, Kochi (Onmanorama 3 Oct events) — REJECT: ceremonial community event, vikas-kaam nahi.
+// 7. Accident victim ko pilot vehicle se hospital pahunchana (Onmanorama, 21 Sep 2026) — REJECT: niji gesture, vikas-kaam nahi.
+// 8. Poonjar MLA ki tarif wala CM bayan (Deccan Chronicle) — REJECT: doosre MLA ka kaam, unka nahi.
+// 9. CMRL diary me naam hone ka BJP ka aarop (Mathrubhumi, 25 Sep 2026) — REJECT as negative: sirf political aarop, unke khilaf koi FIR/case/janch nahi; HC ne FIR Vijayan parivaar par ki.
+// 10. Punarjani FCRA case (Indian Express/The Hindu, 30 Jul 2026) — REJECT as negative: VACB ne probe DROP ki (clearance); pre-period (2018 flood) project; Pinarayi Vijayan ki reopen maang political bayan hai, koi active case nahi.
+// 11. DYFI march, Paravur taluk hospital mortuary (metrovaartha, 26 Sep 2026) — REJECT as negative: opposition protest, unke khilaf koi formal proceeding nahi.
+// 12. Paravur drinking-water project 2000-05 (NDTV profile) — REJECT: karyakaal se pehle ka kaam.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Paravur seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry NAHI mili (positive side khaali).
+// Kerala works-mining fragment — Tony Chammany (tony-chammany, INC, Vypin AC, Ernakulam)
+// Worker research date: 14 Oct 2026. Karyakaal scope: May 2026+ (assumed office 21 May 2026).
+// RESULT: Koi qualifying entry NAHI mili — profile imaandari se KHAALI rahi.
+// Srot-sweeps: Onmanorama, The Hindu, New Indian Express, Times of India, India TV,
+// Oneindia, TimelineDaily, Malayalam-lang search ("Tony Chammany udghatan Vypin 2026" (Malayalam query)).
+// Sab post-May 2026 maujoodgi sirf ceremonial thi (neeche REJECT-LOG dekho).
+keralaWorks['tony-chammany'] = [];
+
+// REJECT-LOG (tony-chammany):
+// 1. Onmanorama, 29 Aug 2026: kayak/yacht launch event (MKEL, private Kochi firm) me "Vypeen MLA Tony Chammany ... were also present" — REJECT: private company ke launch me sirf ceremonial maujoodgi; sarkari pariyojna/fund se koi sambandh nahi.
+// 2. Onmanorama, 4 Sep 2026: Manorama Hortus 2026 logo unveiling (Subhash Park, Ernakulam) me MLAs ki maujoodgi — REJECT: sanskritik/samachar-media karyakram, vikas-kaam nahi; constituency se bahar.
+// 3. The Hindu, Apr 2026: "Theeraraksha Yatra" coastal foot march + mini-harbour ki maang par "I will keep it in mind" — REJECT: chunav-prachar (pre-May 2026); mini-harbour sirf chunavi aashvasan, "karenge" wali khabar.
+// 4. The Hindu/ToI/Oneindia, May 2026: chunav parinaam reporting (66,112 votes, 15,648 margin) — REJECT: ye vikas-kaam nahi, sirf result coverage.
+// 5. New Indian Express, Mar 2026: Vypeen chunavi ladai preview — REJECT: pre-event/election coverage.
+// 6. New Indian Express, 2014: "Chammany's Foreign Trips Come under the Scanner" (mayor-karyakaal par BJP aarop) — REJECT: mayor-era (2010-2015) se pehle ka mamla, purana; karyakaal-bahar.
+// 7. New Indian Express, Mar 2015: "Mayor on a Signing Spree" (Plan fund kharch) — REJECT: mayor-era karyakaal-bahar.
+// 8. The Hindu, Mar 2023: Brahmapuram fire court-monitored probe ki maang — REJECT: maang/mang-demand; karyakaal (2023) bahar bhi.
+// 9. Onmanorama, Oct 2025: Kochi Corporation office building lokarpan — unki maujoodgi "former mayors" ki fehrist me thi — REJECT: mayor-era pichhade-karyakram me ex-mayor ke roop me maujoodgi; karyakaal-bahar + ceremonial.
+// 10. India TV (ADR/MyNeta): 15 cases wali affidavit jankari — REJECT: chunavi affidavit ke cases; koi post-2026 FIR/case/adalaati janch ki established reporting nahi mili (negative entry ka aadhaar nahi).
+// mohammed-shiyas — INC, Kochi AC, Ernakulam. Period: 2026-2031 (assumed office 21 May 2026)
+// Qualifying entries: 1. Research date: 2026-10-14.
+
+keralaWorks['mohammed-shiyas'] = [];
+
+// REJECT-LOG (mohammed-shiyas research, 2026-10-14):
+// 0. COORDINATOR QA REMOVED — worker ne Fort Kochi Chinese fishing nets pariyojna (NIE, 12 Oct 2026, Rs 2.44cr) ki entry banayi thi: state sarkar ne Kitco ko implementation agency se hatakar kaam association ko saunpa; Shiyas ne faisle ki press me ghoshna ki. Lekin faisla rajya-sarkar ka order hai, mool swikriti 2014 ki (pichli sarkar), aur Shiyas ki bhoomika sirf ghoshna ki thi — unka koi dastavezi concrete kadam article me nahi tha (push-bhoomika worker ka anumaan thi). Rajya-package swikriti jisme MLA ka dastavezi concrete kadam na ho = reject (standing precedent). Profile imaandari se khaali.
+// 1. Chellanam seawall phase II "demand" (The Hindu, 30 May 2026) — sirf maang/review-meeting statement; technical sanction pending; koi poora hua kaam ya sanction nahi. REJECT.
+// 2. Chellanam seawall extension gyapan (Onmanorama, 27 Jun 2026) — 919 residents ka CM ko memorandum; CM ne sirf "favourably consider" ka wada kiya; Shiyas ki bhoomika maang tak. REJECT.
+// 3. IAP House inauguration (The Hindu, 12 Oct 2026) — CM V.D. Satheesan ne inaugurate kiya; Shiyas sirf maujood the (mere presence). REJECT.
+// 4. GIDA islands plans (New Indian Express, 1 Sep 2026) — sirf "plans to"/"would be" wali yojana-khabar; koi sanction/poora hua kaam nahi; Vypeen/Kadamakkudy Kochi AC se bahar bhi. REJECT.
+// 5. P&T apartments/Mundamveli flats vigilance probe (TOI + The Hindu, Sep 2026) — Shiyas ne mudda uthaya, "probe would be done" ghoshna; notification pending; vikas-kaam nahi. REJECT.
+// 6. 190 MLD Aluva water treatment plant (TOI) — Shiyas meeting me 4 MLAs me se ek the; "kaam jald shuru hoga" pre-work khabar. REJECT.
+// 7. Janmashtami shobhayatra participation (Organiser, 8 Sep 2026) — community karyakram me ceremonial maujoodgi. REJECT.
+// 8. MLA Merit Award event with Joju George (Kerala Kaumudi) — apna ceremonial samman-samaroh; vikas-pariyojna nahi. REJECT.
+// 9. Revised budget 2026-27 reaction (Jun 2026) — budget par sirf tipanni; koi kaam nahi. REJECT.
+// 10. "Should not spare anyone" political speech (Newsdrum, 8 May 2026) — rajnaitik bayan; vikas-kaam nahi. REJECT.
+// 11. Defamation arrest case (TOI) — Shiyas complainant/victim hain; unke khilaf negative entry layak kuch nahi. REJECT (negative-check).
+// 12. GCDA stadium trespass complaint (The Hindu, Oct 2025) — karyakaal se pehle; vikas-kaam nahi. REJECT.
+// 13. Pre-tenure items (canal manifesto Dec 2025, KINFRA water protest 2024, Congress seat-calculus Mar 2026, election coverage Mar-May 2026) — karyakaal May 2026 se pehle. REJECT.
+// Negative check: karyakaal me Shiyas ke khilaf established reporting me koi FIR/case/official janch nahi mili — affidavit ke 52 pending cases mostly pre-tenure political agitation ke hain. No negative entry.
+// Works-mining fragment: Deepak Joy (INC), Thripunithura AC, Ernakulam
+// Researched 2026-10-14. Karyakaal: May 2026+. Sources: English outlets searched
+// (Onmanorama, Malayala Manorama English, Mathrubhumi English, The Hindu,
+// Indian Express/New Indian Express, Asianet News, Times of India).
+// First-time MLA, assumed office 21 May 2026; ~5 months in office at research time.
+// No post-event reporting of any completed work, lokarpan, sanction (with GO /
+// dept data), shilanyas, or documented concrete role in a constituency project
+// found in established media. Profile stays honestly empty.
+
+keralaWorks['deepak-joy'] = [];
+
+// REJECT-LOG (Deepak Joy, Thripunithura):
+// 1. Athachamayam 2026 (16 Aug 2026) — Joy presided over the state Onam
+//    inauguration function (CM V D Satheesan inaugurated; Joy only presided).
+//    Reject: community/cultural ceremony, sirf ceremonial maujoodgi, koi
+//    sarkari pariyojna kaam nahi. Sources: NIE 14 Aug 2026; Kerala Kaumudi
+//    16 Aug 2026 (post-event, opened).
+// 2. "Tripunithura fight too close to call" (NIE, Apr 2026) — Joy ke campaign
+//    statements ("Kochi Metro layenge", development priorities). Reject:
+//    karyakaal se pehle ki chunavi ghoshna/maang, post-event reporting nahi.
+// 3. Kochi Metro Phase 1B/SN Junction-Vadakkekotta (Mar 2024; earlier phases) —
+//    Reject: karyakaal se pehle ka kaam; article me Joy ki dastavezi concrete
+//    bhoomika spasht nahi (badi shehri pariyojna credit rule).
+// 4. Deputy-mayor resignation (NIE, 14 May 2026) — Reject: administrative
+//    personal matter, vikas-kaam nahi.
+// 5. Ayyappankavu bypoll coverage (The Hindu, Aug-Sep 2026) — Joy ka ward
+//    committee meeting me maujoodgi. Reject: sirf party/election meeting,
+//    kshetra-kaam nahi.
+// 6. Onmanorama pollmeter pieces (Apr 2026) — Mukkathumuri island water: K Babu
+//    ke Rs 24 lakh MLA-fund ka kaam. Reject: poorv MLA ka kaam, Joy se
+//    sambandhit nahi.
+// 7. India TV candidate profile "14 cases" (ADR/MyNeta affidavit data) —
+//    Reject: negative-entry rule (aarop + FIR/adalaati sthiti + established
+//    reporting) poora nahi hota; affidavit disclosure par koi specific
+//    established news-reporting nahi mili. Parivar-mamla nahi tha.
+// 8. Malayalam-language generic searches (roads/water/inauguration 2026) — koi
+//    bhi established-media article Joy ke kshetra-kaam par nahi mila; FB/IG
+//    self-posts srot-ban rule ke tahat vaise bhi reject.
+keralaWorks['t-j-vinod'] = [
+  {
+    title: 'Teen dashak se atki 3.6-km Thammanam-Pullepady sadak pariyojna ke liye PWD mantri ne Rs 100 crore ki administrative sanction aur technical approval ki ghoshna ki; isme se Rs 93.89 crore KIIFB se milenge',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'New Indian Express, 28 Jun 2026',
+    sourceUrl: 'https://www.newindianexpress.com/cities/kochi/2026/Jun/28/long-delayed-thammanam-pullepady-road-project-stirs-to-life',
+    date: '2026-06-28',
+    note: 'PWD Minister P K Basheer ne Kerala Assembly me Ernakulam MLA T J Vinod ke submission ke jawab me bataya ki Thammanam-Pullepady road project ke liye Rs 100 crore ki administrative sanction aur technical approval aa gayi hai, jisme se Rs 93.89 crore KIIFB se allocate hoga; Kerala Road Fund Board ne project takeover kar liya hai aur zameen ke liye preliminary acquisition notification ki prakriya chal rahi hai. Vinod ki dastavezi bhoomika assembly me submission uthakar land acquisition tez karne ka agrah thi; swikriti vidhayak-nidhi se nahi balki state sarkar aur KIIFB fund se hai. 3.6 km ka ye road Padma Junction (MG Road) ko Thammanam/Chakkaraparambu (national highway) se jodega, lekin lagbhag 9 acre zameen ka adhigrahan abhi baki hai, isliye ye swikriti stage ka kaam hai, poora hua lokarpan nahi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (T.J. Vinod, Ernakulam — post-May-2026 window; sabhi sources khud padhe gaye)
+// 1. The Hindu, 14 Oct 2026 — "T.J. Vinod, MLA, raises Kochi's water scarcity issue in Assembly": sirf assembly me maang/prashn; Rs 523 crore plant ki sanction minister ka bayan hai, MLA ki documented bhoomika nahi. REJECT (maang only, kamzor attribution).
+// 2. New Indian Express, 8 Jun 2026 — "Take steps to ensure uninterrupted water supply, MLA directs officials": sirf review meeting aur nirdesh; koi poora hua kaam/sanction nahi. REJECT (nirikshan only).
+// 3. New Indian Express, 6 Mar 2026 — renovated Ernakulam KSRTC terminal (Rs 77.7 lakh MLA fund): lokarpan karyakaal se pehle (6 Mar 2026). REJECT (pre-period).
+// 4. Onmanorama, 6 Mar 2026 — KSRTC terminal renovation inaugurated by Transport Minister; Vinod sirf presiding. REJECT (pre-period + mantri ka event, sirf maujoodgi).
+// 5. Times of India, Dec 2024 — Vaduthala ROB technical approval. REJECT (pre-period).
+// 6. Onmanorama, Oct 2025 — Kochi corporation new office complex: Vinod sirf attendees list me. REJECT (pre-period + ceremonial presence).
+// 7. PNI News/Business Briefing Today, 13 Oct 2026 — Aster Medcity OneDi feeder service flag-off by Vinod: private hospital ki initiative, ceremonial flag-off, press-release style source. REJECT (private enterprise, sarkari pariyojna nahi).
+// 8. PNI News, ~10 Oct 2026 — Prayatna mental-health installation at Subhash Park inaugurated by Vinod: NGO+corporation awareness installation; fund/role me Vinod ka documented hissa nahi, sirf udghatan. REJECT (ceremonial, kamzor attribution).
+// 9. Times of India, ~10 Oct 2026 — CBL-6 boat race: Vinod ne function preside kiya. REJECT (sanskruti karyakram, ceremonial).
+// 10. Onmanorama event listings, 26 Apr 2026 / 24 Aug 2026 — career guidance class / Onam celebrations inaugurated by Vinod. REJECT (community karyakram me sirf anaavaran).
+// 11. The Hindu, 8 Sep 2026 — SHRC order on Cheranalloor water: Vinod ka sirf bayan ki "minister se baat ki". REJECT (advocacy only, koi kaam nahi).
+// 12. The Hindu, 30 Jun 2026 — Rs 523 crore water project approved (minister's announcement on Vinod's calling-attention motion): city-wide scheme (corporation + 5 municipalities + 13 panchayats, zyadatar kshetra ke bahar); MLA ki bhoomika sirf motion raiser. REJECT (scope/attribution kamzor).
+// 13. Times of India, 28 Sep 2026 — DDC meeting: Vinod ne water scarcity mudda uthaya. REJECT (sirf maang).
+// 14. Wikipedia/news experts campaign listings (Apr 2026) — Rs 4.5 crore roads / mini park / Cheranelloor claims: chunavi dawa, established-media post-event verification nahi. REJECT (campaign claim, bina saboot).
+// 15. YouTube, 9-10 May 2026 — Kerala Handball Clinic inauguration by Vinod. REJECT (YouTube-only source + ceremonial).
+// 16. Times of India, Nov 2025 — Vinod's poll-code complaint against mayor. REJECT (shikayat, vikas-kaam nahi; pre-period bhi).
+// 17. National Herald, Sep 2026 — Poojar bridge inaugurated via predecessor: galat vyakti/kshetra (Sebastian M.J., Poojar). REJECT (wrong person).
+// 18. The Hindu, 1 Aug 2025 — "MLA seeks time to set up STPs": apartment complex maang, pre-period. REJECT.
+// Kerala works-mining fragment: Uma Thomas (uma-thomas, INC) — Thrikkakara, Ernakulam
+// Vartaman sabha: 2026 chunav (parinaam 4 May 2026), karyakaal May 2026 se; period '2026-2031'.
+// NOTE: Background MyNeta me pending hai (task directive) — background ka koi anuman nahi lagaya.
+
+keralaWorks['uma-thomas'] = [];
+
+// REJECT-LOG (uma-thomas):
+// 1. 10 Oct 2026, Times of India (khud khola): 'Free breakfast scheme launched for students in Thrikkakara' — 'Subhiksham Thrikkakara' ka dobara launch (9 Oct 2026 ko actor Jayasurya ne St Augustine's LP School, Thykoodam me uddghatan kiya; 5,071 vidyarthi, 28 school, Rs 1 crore, CSR support, PT Thomas Foundation) — muft-breakfast WELFARE scheme hai, vikas-kaam nahi; uddghatan bhi actor ne kiya, vidhayak ne nahi. REJECT (welfare, not vikas-kaam).
+// 2. 4 Aug 2025, The Hindu (khud khola): isi scheme ka pehla launch (7,081 vidyarthi, Rs 98 lakh, BPCL CSR; Kunchacko Boban ne inaugurate kiya) — karyakaal se PEHLE + welfare. REJECT.
+// 3. 16 Aug 2026, Onmanorama: Ernakulam Collectorate (Kakkanad) ke 5 gates ka naamkaran — inauguration Minister Roji M John ne kiya; Uma Thomas sirf photo/frame me maujood. REJECT (sirf maujoodgi).
+// 4. Sep 2026, Hindu BusinessLine: CM V. D. Satheesan ne CyberShelter ka Global Delivery Centre/CoE (SmartCity, Kakkanad) inaugurate kiya; Uma Thomas sirf 'also seen' — koi dastavezi bhoomika nahi. REJECT (sirf maujoodgi).
+// 5. 23 May 2026, mcvintda.com (builder ki apni site): 'Hamlet' private real-estate project ka foundation-stone event, Kakkanad — Uma Thomas chief-guest maujoodgi; sarkari pariyojana nahi. REJECT (private venture, ceremonial).
+// 6. ~2023, assethomes.in (builder site): Asset Alpine Oaks (76th project, Kakkanad) ka inauguration — private builder ka apna project; karyakaal se pehle bhi. REJECT.
+// 7. 18 Jun 2024, Onmanorama: Kochi DLF flat water-contamination par unka apartment daura + health department par statement — karyakaal se pehle; sirf daura/nirakshan, koi sanction/nirnaayak bhoomika nahi. REJECT (pre-karyakaal + sirf daura).
+// 8. Feb 2026-ish, TOI: Ernakulam District Development Committee meeting me unhone Edachira pradushan jaanch aur Thengode anganwadi land-acquisition me vilamb uthaya — karyakaal se pehle; meeting me uthaaye mudde SIRF MAANG. REJECT (sirf maang/prastav).
+// 9. 31 Dec 2025, Mathrubhumi English: GCDA ko unka Rs 2 crore compensation legal notice (Dec 2024 stadium girne ki chot) — karyakaal se pehle; personal legal notice, kshetra-kaam nahi; parivar ka mamla bhi nahi lekin sakht scope me nahi aata. REJECT.
+// 10. 1 Oct 2026, Onmanorama (key-events): Kadavanthra Rally Labs me National Pickleball Championship ka inauguration (Hibi Eden MP + Uma Thomas) — pre-event schedule listing + non-government sports event ki ceremonial maujoodgi. REJECT (pre-event + ceremonial).
+// 11. 9 Dec 2023, New Indian Express: Infopark me GTECH anti-drug awareness campaign launch — karyakaal se pehle; awareness campaign, vikas-kaam nahi. REJECT.
+// 12. Sep 2026, TOI: 'Saphalyam flat project' (Thrikkakara municipality, Vanachira, Kakkanad; 78 EWS families) DPR approval — municipal chairman Rashid Ullampilly ki pariyojana; article me Uma Thomas ka naam/bhoomika kahin nahi. REJECT (attribution absent).
+// 13. 2026 chunav coverage (NIE 21 Mar 2026, The Hindu 203 din pehle, Mathrubhumi, moneycontrol): jeet ki khabar, margin 50,211, 83,375 votes — campaign quotes sirf vade ('development focus'), poore hue kaam ka koi record nahi. REJECT (karenge wali khabar / election coverage).
+// 14. Onmanorama key-events listings (14 Jun 2026, 1 Oct 2026): Anchumana Devi temple paduka installation jaisi community/religious items — pre-event schedule; community karyakram me ceremonial maujoodgi, sarkari pariyojana nahi. REJECT.
+// 15. 2021 Onmanorama ground-report (P. T. Thomas ke 20 school hi-tech / Edappally canal / Kakkanad Cooperative Hospital claims): ye pati ke karyakaal ki khabar hai, Uma Thomas ke May 2026+ karyakaal ki nahi. REJECT (wrong-period/wrong-person attribution).
+//
+// QA: May 2026 ke baad established English media me Thrikkakara kshetra ke liye Uma Thomas ka koi poora hua kaam, lokarpan, shilanyas, ya GO/prashasnik swikriti wali post-event report nahi mili. Mili saari khabaren: chunav coverage, doosron ke inauguration me maujoodgi, pre-term welfare/maang, aur ek CSR breakfast scheme (welfare, actor ne launch kiya). Khaali profile imaandari se rakhi gayi hai.
+keralaWorks['v-p-sajeendran'] = [
+  {
+    title: 'Pariyathukavu me 7 Dalit parivaron ke gharo ka shilanyas: mantri Roji M. John ne sarkari Pariyathukavu Unnathi project ke tehat shilanyas kiya, MLA V. P. Sajeendran ne samaro ki adhyakshata ki aur nirman contractor ko agrim cheque saumpa',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 16 Jul 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/foundation-stones-laid-for-dalit-families-homes-at-pariyathukavu/article71229900.ece',
+    date: '2026-07-16',
+    note: 'Pariyathukavu (Malayidamthuruth, Kizhakkambalam, Kunnathunad AC) me 7 SC parivaron ke gharo ka shilanyas 16 July 2026 ko hua; funds poori tarah sarkari hain aur Pariyathukavu Unnathi project ke tehat har parivar ko 5 cent zameen road-access ke saath aur 1,000 sq-ft ka ghar sarkari nigrani me contractor banayega. Shilanyas Higher Education Minister Roji M. John ne kiya; MLA V. P. Sajeendran ne samaro ki adhyakshata ki aur contractor ko agrim rashi ka cheque saumpa. Ye prakriya unke 2 June 2026 ke Calling Attention Motion se shuru hui thi, jis par CM ne sarkari samadhan ka bharosa diya tha, aur 13 June ko mantri ki adhyakshata wali sulah-meeting me zameen-vivad suljha tha. Note: ye sarkari punarwas pariyojna hai, vidhayak-nidhi ya vyaktigat madad nahi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (v-p-sajeendran, scope: May 2026+, Kunnathunad AC only)
+// 1. Isolation-wards janch (New Indian Express / PTI, 13 Oct 2026) — vidhan-sabha submission par statewide probe ka aadesh; vidhayak ki legislative oversight hai, kshetra-vikas-kaam nahi.
+// 2. Pariyathukavu Calling Attention Motion (PTI/Swadesi, 2 Jun 2026) — upar wali entry ki chain ka pre-event trigger; alag entry nahi, assurance-stage khabar.
+// 3. Pariyathukavu vivad-sulah meeting (New Indian Express, 13 Jun 2026) — meeting-resolution, kaam shuru nahi hua tha; shilanyas entry me covered.
+// 4. NDA Rs 5,000-cr Kunnathunad package (UNI, 5 Apr 2026) — karyakaal se pehle; ghoshna Sabu M. Jacob/Amit Shah ne ki, Sajeendran ki nahi; "karenge" wali khabar.
+// 5. TOI triangular-contest article (Mar 2026) — chunav-prachar; Rs 2,500 cr ke dawe poord-varti MLA Sreenijin ke, Sajeendran ke nahi.
+// 6. TOI plan-fund review meeting (Jan 2026) — karyakaal se pehle; tab P. V. Sreenijin MLA the.
+// 7. Delhi-protest jeet ka Congress samaro (The Hindu, 25 Jul 2026) — rajnaitik utsav; Kochi me, kshetra se bahar; vikas-kaam nahi.
+// 8. Kochi Water Metro terminals (Mathrubhumi English, 17 Mar 2026) — CM ka karyakram, karyakaal se pehle, Sajeendran ki koi dastavezi bhoomika nahi.
+// 9. Onmanorama poll-meter campaign stories (Mar-Apr 2026) — karyakaal se pehle ki chunav khabar.
+// 10. Election result pages (Indian Express/Oneindia/TOI, 4 May 2026) — chunav parinaam, vikas-kaam nahi.
+// 11. MLA fund se KSRTC buses ka sarkari aadesh (Mathrubhumi English, 27 Sep 2026) — statewide niti ki khabar; Sajeendran ka koi specific kaam/bhoomika report nahi.
+// 12. 2019 paddy-field protest march (The Hindu, 6 May 2019) — karyakaal se pehle; virodh-march, vikas-kaam nahi.
+// Negative entry: koi qualifying negative khabar nahi mili (aarop + FIR/adalaati janch ki established reporting absent).
+// Kerala works-mining fragment — Anoop Jacob (anoop-jacob), Piravom AC, Ernakulam.
+// Verified: son of T.M. Jacob; took oath 18 May 2026 as Minister for Food & Civil Supplies
+// (V.D. Satheesan govt). Minister rule applied: only Piravom seat-level works considered,
+// no department/state-level decisions.
+// Result: NO qualifying entry found in established English media (May 2026–Oct 2026).
+// Honest empty profile.
+
+keralaWorks['anoop-jacob'] = [];
+
+// REJECT-LOG:
+// 1. Onmanorama (23 Aug 2026) "KSRTC to launch new services from Piravom" — pre-event announcement
+//    of 24 Aug inauguration; no post-event reporting found; KSRTC routes are transport-dept
+//    operational decisions, Jacob's documented role only announcer/inaugurator. REJECT.
+// 2. Metro Vaartha (8 Sep 2026) "strict action on theatres overchanging" — state-level ministerial
+//    (Food & Civil Supplies/Legal Metrology) portfolio action + certificate distribution event in
+//    Piravom municipality; not constituency development work. REJECT.
+// 3. TOI (~7 Oct 2026) "Congested Thiruvankulam Junction to be developed" — NHAI/Union ministry
+//    project; Jacob only gave suggestions in a review meeting; land acquisition still planned.
+//    No completed/sanctioned work, no concrete documented MLA role. REJECT.
+// 4. Kerala Tourism press release / NewsExperts (Oct 2026) CBL Piravom boat race — Jacob only
+//    attended as MLA; Tourism Minister's event; ceremonial presence only. REJECT.
+// 5. The Hindu BusinessLine (21 Sep 2026) "NH soil excavation... in Idukki" — Idukki district,
+//    where Jacob is district-in-charge; outside Piravom constituency. REJECT.
+// 6. New Indian Express (Jul 2014) Piravom/Koothattukulam Magistrate Courts inauguration — pre-tenure
+//    (karyakaal se pehle ka kaam). REJECT.
+// 7. TOI/Hindu/Indian Express 2026 election-result coverage — elections, not development works. REJECT.
+// 8. Deshabhimani (Sep 2026) Sabu K Jacob resigns from Congress in Piravom — party politics,
+//    not development work. REJECT.
+// 9. Oneindia (18 May 2026) cabinet return — oath-taking news, not works. REJECT.
+/* keralaWorks fragment — dr-mathew-kuzhalnadan (INC, Muvattupuzha AC, Ernakulam dist)
+   period: 2026-2031 | Research date: 2026-10-14 | Searched: Onmanorama, Mathrubhumi English, The Hindu, Times of India, New Indian Express, News18(PTI), Indian Express, Kerala Kaumudi, The Hindu BusinessLine, ETV Bharat.
+   RESULT: profile khaali rahi — koi qualifying kshetra-kaam entry established English media me nahi mili (May 2026+ karyakaal).
+   REJECT-LOG:
+   1. "Kuzhalnadan proposes UDF discussion on forming Muvattupuzha district" (TOI, 28 Aug 2026) — sirf prastav/maujooda maang; koi GO/sanction nahi; "swikriti" bina sarkari aadesh ke = ghoshna. REJECT.
+   2. "Kerala govt mulls formation of Muvattupuzha district, says CM Satheesan" (Onmanorama, 23 Aug 2026) — CM ne sirf "vichaar kiya jayega" kaha + delimitation commission ka jikr; koi formal decision/sanction nahi. REJECT (sirf ghoshna/vichaar).
+   3. "Kerala Cong (Joseph) opposes proposal for new Muvattupuzha district" (News18 PTI / The Hindu, 29 Aug 2026) — party-level opposition report, koi vikas-kaam nahi. REJECT.
+   4. "Talks of new Muvattupuzha district premature: Kerala Chief Whip Apu John Joseph" (Mathrubhumi English, 31 Aug 2026) — kahin koi formal charcha nahi hui (Chief Whip ka bayaan) — prastav ka karyakaal se aage ka raasta bhi nahi. REJECT.
+   5. "Congress's Muvattupuzha push faces opposition in UDF" (New Indian Express, 1 Sep 2026) — raajnitik vishleshan, koi vikas-kaam nahi. REJECT.
+   6. "Incás Fujairah confers Oommen Chandy Excellence Awards 2026; MLA Mathew Kuzhalnadan inaugurates" (UAE Vartha English, ~Jul 2026) — UAE me NRI community/sangathan karyakram me ceremonial "inauguration"; kshetra se bahar (Muvattupuzha AC ke bahar) + koi sarkari pariyojna nahi. REJECT.
+   7. TenderShark/TendersOnTime "MLA SDF 2025-26 scheme proposed by Dr. Mathew Kuzhalnadan" road tenders (Ayavana, Avoly, Paipra grama panchayats) — tenders 2025-26 scheme ke hain, bid start Nov 2025/Jan 2026 = pichhle karyakaal (2021-2026) ke; ye sirf tender notices hain, poore-hue kaam ya sanction ki khabar nahi; aggregator srot bhi. REJECT (karyakaal se pehle + tender = kaam ka saboot nahi).
+   8. CMRL-Exalogic monthly-payoff case updates (Sep-Oct 2026): TOI (9 Sep 2026) — Kuzhalnadan ne Vijayan par "main accused" hone ka aarop lagaya; The Hindu BusinessLine (12 Oct 2026) — VACB ne Pinarayi Vijayan + parivar par 2 FIRs darj ki; Kerala Kaumudi (10 Oct 2026) — HC ne ED report par sarkar ki dalilain khaarij ki. YE SAB neta ke KHILAAF nahi — Kuzhalnadan swayam complainant/petitioner rahe hain (unke 2023-24 ke petitions SC/Vigilance court se kharij ho chuke the). State-level kanooni/bhrashtachar-virodhi ladai hai, Muvattupuzha kshetra ka vikas-kaam nahi; negative entry ka criteria bhi poora nahi (neta par koi FIR/case/adalaati karyavahi nahi). REJECT (kshetra-vikas se sambandhit nahi; negative entry ke liye ayogya).
+   9. Purani khabrein: "Veena's IT firm got Rs 1.72 crore without rendering services: MLA Mathew Kuzhalnadan" (NIE, Jul 2024), "Will fight vigilance case legally" (Sep 2023), Exalogic-related SC petition updates (Oct 2025) — sab karyakaal (May 2026) se pehle ke. REJECT.
+   10. "Development of Muvattupuzha town to get under way soon" (The Hindu, ~2018) — Eldho Abraham (tatkalin CPI MLA) ka karyakram; galat vyakti + karyakaal se bahar. REJECT.
+   11. "Muvattupuzha municipality presents five-year development report" (TOI, ~Sep 2025) — municipality council ka 2020-25 report; Kuzhalnadan ka documented role nahi + pichhla karyakaal. REJECT.
+   NOTE: 2026-term me unke khilaaf koi FIR/adalaati/adalaati-janch karyavahi ki established report nahi mili — isliye koi negative entry bhi nahi. "Kuzhalnadan to go for appeal against Vigilance court verdict" (May 2024) purana hai.
+*/
+keralaWorks['dr-mathew-kuzhalnadan'] = [];
+// Kerala works-mining fragment: shibu-theckumpuram (Kothamangalam, Ernakulam)
+// Karyakaal: May 2026+ (parinaam 4 May 2026). Period: 2026-2031.
+// Vyakti verify: Shibu Theckumpuram (spelling varyant: Thekkumpuram), Kerala Congress
+// (P. J. Joseph faction, KEC), Kothamangalam MLA, won by 16,859 votes vs Antony John.
+
+keralaWorks['shibu-theckumpuram'] = [];
+
+// REJECT-LOG (karyakaal May 2026+; sirf post-event English established-media reporting):
+// 1. TNIE "Hope sprouts for revival of decade-old Bhoothathankettu hydro power project"
+//    (2026-09-04, opened + read): Shibu sirf quote me hain ki "KSEB chairman ne tez
+//    karne ka ashwasan diya" - revival ka faisla poora KSEB ka; article me MLA ki
+//    koi dastavezi concrete bhoomika nahi. Badi pariyojna shrey bina concrete
+//    bhoomika = REJECT.
+// 2. Poonjar Erumely-Amakunnu bridge udghatan (M.J. Sebastian ne predecessor
+//    Sebastian Kulathunkal ko bulaya; TOI/National Herald/Deccan Chronicle, Sep 2026):
+//    galat vyakti - ye Shibu Theckumpuram se sambandhit nahi, aur Poonjar
+//    Kothamangalam AC ke bahar hai (Kottayam). REJECT.
+// 3. Onmanorama "Bypass project stalled due to dispute over 80-m stretch"
+//    (2026-02-26): pre-karyakaal (chunav se pehle), Antony John LDF-era ka mamla;
+//    Shibu ka koi role nahi. REJECT.
+// 4. NIE "Kothamangalam bus stand set for refurb" (2026-07-21): municipality ke
+//    annual plan/budget ki khabar; Shibu Theckumpuram ka naam ya MLA ki bhoomika
+//    ka zikr hi nahi. REJECT.
+// 5. The Hindu campaign piece (2026-04-06) - "priorities include completing pending
+//    projects (Thankalam-Kakkanad road, Chelad stadium, Bhoothathankettu)":
+//    chunav-se-pehle ki "karenge" wali ghoshna, post-event reporting nahi. REJECT.
+// 6. Chunav coverage (The Hindu, TOI, Indian Express, ABP Live, Onmanorama,
+//    oneindia, businesstoday, Economic Times): sab sirf chunav/natije ki khabar,
+//    koi vikas-kaam reporting nahi. REJECT.
+// 7. YouTube Shorts "Kothamangalam MLA Shri Shibu Thekkumpuram speaking":
+//    YouTube-only source, reject-list me. REJECT.
+// 8. The Hindu 2021 "Triangular contest in the Gateway to Munnar": pre-karyakaal
+//    (2021 chunav), development figures Antony John (pichhle MLA) ke dawe hain;
+//    Shibu ka koi works attribution nahi. REJECT.
+
+// COORDINATOR QA NOTE (Ernakulam): 14/14 workers completed. 3 entries kept: v-p-sajeendran (Pariyathukavu Unnathi shilanyas — accountability-pahal chain: unka 2 Jun 2026 Calling Attention Motion -> CM assurance -> 13 Jun sulah-meeting -> 16 July shilanyas; mantri ne shilanyas kiya, MLA ne adhyakshata + contractor ko agrim cheque — poora credit-disclosure), t-j-vinod (Thammanam-Pullepady road Rs 100cr administrative sanction + KIIFB Rs 93.89cr — unke assembly submission ke jawab me, swikriti stage honestly staged), adv-v-d-satheesan (1 NEGATIVE — Chipsan Aviation chartered-flight Lok Ayukta complaint, preliminary inquiry ongoing, next hearing 3 Nov 2026; CM ka jawab + koi final finding nahi, dono paksh same prominence). 1 entry REMOVED by coordinator: mohammed-shiyas fishing nets (sirf sarkari order ki ghoshna, MLA ka dastavezi concrete kadam nahi — rajya-package rule). 11 profiles imaandari se khaali. Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n in entries; period 2026-2031 everywhere; slugs unique (no overwrites).
