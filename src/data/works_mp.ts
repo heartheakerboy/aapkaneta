@@ -9081,3 +9081,119 @@ mpWorks['rajendra-kumar-mp'] = [
 // - Worker ke bheje "attribution savdhani se dekhein" type ke vague disclosure shabd hataakar concrete disclosure likha gaya hai.
 // - Kisi slug ki pehle entries nahi thi — koi overwrite nahi hua.
 
+// ---- Tikamgarh district batch (researched 2026-10-14) ----
+mpWorks['yadvendra-singh-jaggu-bhaiya'] = [
+  {
+    title: 'Gram Papavni me Rs 10 lakh ki vidhayak-nidhi se Sant Ravidas dharmshala-samudayik bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Narmada Samay, 18 Oct 2024',
+    sourceUrl: 'https://narmadasamay.com/?p=67632',
+    date: '2024-10-18',
+    note: 'Narmada Samay ke mutabik Tikamgarh janpad ki gram panchayat Papavni me vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund ya sarkari yojana nahi) se Rs 10 lakh ki lagat se banne wali Sant Ravidas dharmshala-samudayik bhavan ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman poora hone ya lokarpan ki alag khabar nahi mili. Credit-pardarshita: nidhi unki vidhayak-nidhi se swikrit hai; karyanvayan panchayat/vibhag ka hoga. Disclosure: Narmada Samay chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Amarpur ki adivasi basti me Rs 5 lakh ki vidhayak-nidhi se samudayik bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Shubh News, 5 Feb 2025',
+    sourceUrl: 'https://www.shubhnews.in/2025/02/05.html',
+    date: '2025-02-05',
+    note: 'Shubh News ke mutabik 5 Feb 2025 ko Tikamgarh janpad ki gram panchayat Amarpur ki adivasi basti me vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund nahi) se swikrit Rs 5 lakh lagat ke navin samudayik bhavan ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman shuru hona tha, poorti ki alag khabar nahi mili. Credit-pardarshita: nidhi swikriti unki hai; nirman ka shrey vibhag ka hoga. Disclosure: Shubh News blogspot-adharit chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Police line Tikamgarh me Rs 9.93 lakh ki vidhayak-nidhi se bane tin-shed ka lokarpan — SP ke saath',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Shubh News, 1 May 2025 (karyakram 30 Apr 2025)',
+    sourceUrl: 'https://www.shubhnews.in/2025/05/993.html',
+    date: '2025-04-30',
+    note: 'Shubh News ke mutabik 30 Apr 2025 ko unhone police adhikshak ke saath police line Tikamgarh me nirdharit tin-shed ka lokarpan kiya; iska nirman unhone vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund ya sarkari yojana nahi) se Rs 9.93 lakh swikrit karke karwaya tha, aur shed ka upyog police adhikariyon/karmachariyon ke prashikshan, karyakramon aur kanoon-vyavastha duty ke liye hoga. Status: poora/lokarpan. Credit-pardarshita: nidhi unki, lokarpan unke aur SP ke sanyukt mukhyatithya me hua. Disclosure: Shubh News blogspot-adharit chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Mamoun me Rs 10 lakh ki vidhayak-nidhi se Prajapati samaj ke samudayik bhavan aur boundary wall ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Narmada Samay, 8 Aug 2025',
+    sourceUrl: 'https://narmadasamay.com/?p=85553',
+    date: '2025-08-08',
+    note: 'Narmada Samay ke mutabik 8 Aug 2025 ko jila mukhyalay se lagi gram panchayat Mamoun me vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund nahi) se Prajapati samaj ke liye swikrit sarvajanik samudayik bhavan aur boundary wall (kul Rs 10 lakh lagat) ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — poorti ki alag khabar nahi mili. Credit-pardarshita: nidhi swikriti unki hai; nirman ka shrey vibhag/panchayat ka hoga. Disclosure: Narmada Samay chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Mamoun ki Harijan basti me Rs 4 lakh ki vidhayak-nidhi se CC road ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Narmada Samay, 8 Aug 2025',
+    sourceUrl: 'https://narmadasamay.com/?p=85553',
+    date: '2025-08-08',
+    note: 'Narmada Samay ke mutabik usi din gram panchayat Mamoun ki Harijan basti me vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund nahi) se swikrit Rs 4 lakh lagat ki CC road ke nirman karya ka bhoomi-pujan bhi unhone kiya. Status: bhoomi-pujan — sadak poori hone ki alag khabar nahi mili. Credit-pardarshita: nidhi swikriti unki hai; nirman ka shrey vibhag ka hoga. Disclosure: Narmada Samay chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Pahadi Khurd majra me Rs 5 lakh ki vidhayak-nidhi se boundary wall ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Narmada Samay, 10 Aug 2025',
+    sourceUrl: 'https://narmadasamay.com/?p=85654',
+    date: '2025-08-10',
+    note: 'Narmada Samay ke mutabik 10 Aug 2025 ko janpad Tikamgarh ki gram panchayat Pahadi Khurd majra me vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund nahi) se Rs 5 lakh lagat se banne wali boundary wall ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — poorti ki alag khabar nahi mili. Credit-pardarshita: nidhi swikriti unki hai; nirman ka shrey vibhag ka hoga. Disclosure: Narmada Samay chhota local portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['khatik-harishankar'] = [
+  {
+    title: 'Bamhauri Kalan (Jatara) me Rs 1.35 crore ke naye semi-urban thana bhawan ka shilanyas — SP ke saath',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bundeli Varta, 12 June 2025',
+    sourceUrl: 'https://www.bundelivarta.com/2025/06/bamhauri-kalan-thana-naya-bhavan-shilanyas-2025.html',
+    date: '2025-06-12',
+    note: 'Stage shilanyas/bhoomi pujan hai. MLA ne SP ke saath sanyukt roop se shilanyas kiya. Fund Madhya Pradesh Police Housing evam Infrastructure Development Corporation (sarkari) ka hai, vidhayak nidhi nahi. MLA ki swikriti me koi dastavezi bhoomika ka saboot nahi hai. Bamhauri Kalan Palera tehsil, Tikamgarh me hai aur Jatara AC-44 me Palera tehsil ka hissa aata hai (geocode se pushti). Source chhota portal hai (bundelivarta.com, Blogger-hosted), isliye credit ki seema spasht rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Lidhaura bypass (Jatara) me Rs 6.71 crore ke Shaskiya Mahavidyalaya bhawan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Atulya Bharat Chetna, 10 Dec 2025',
+    sourceUrl: 'http://atulyabharatchetna.org.in/archives/41322',
+    date: '2025-12-10',
+    note: 'Stage poora/lokarpan hai. Building ka nirmaan sarkari paisa (higher education dept) se hua hai, vidhayak nidhi se nahi. Karyakram me MLA ne boundary wall ke liye Rs 20 lakh, pani ke bore aur furniture ke liye Rs 10 lakh ki maukik swikriti ghoshit ki, lekin bina GO/sanction-order/work-order saboot ke ye keval ghoshna hai, isliye alag entry nahi banai gayi. Source chhota portal hai (atulyabharatchetna.org.in), isliye attribution seemit rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jatara me van parikshetra karyalaya aur 3 vanrakshak aawason ka lokarpan (CAMPA fund, Rs 22 lakh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'CG Impact, 13 April 2025',
+    sourceUrl: 'https://cgimpact.org/jatara-forest-range-office-was-inaugurated-by-mla-harishankar-khatik/13/04/2025/',
+    date: '2025-04-11',
+    note: 'Stage poora/lokarpan hai. Nirmaan van vibhag ne (van parikshetra adhikari Shishupal Ahirwar ki team dwara) CAMPA yojana fund se karaya hai, vidhayak nidhi se nahi. MLA ne van adhikari ke vishesh anurodh par lokarpan kiya. MLA ki swikriti me koi dastavezi bhoomika ka saboot nahi hai. Source chhota portal hai (cgimpact.org), isliye credit ki seema spasht rakhi gayi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['chanda-surendra-singh-gour'] = [
+];
+
+// COORDINATOR QA (2026-10-14, Tikamgarh batch): teeno workers ke blocks khud padhe; sirf Harishankar
+// ki 3 titles ko batch-standard concise Hinglish style me tight kiya (arth/facts unchanged). Sabhi
+// notes me stage + credit-pardarshita + fund-disclosure + chhote-portal-disclosure maujood hain.
+// REJECT-LOG (Tikamgarh district batch, researched 2026-10-14):
+// yadvendra-singh-jaggu-bhaiya — 14 rejects: Assam-police chhapa (bete Shashwat par case — parivar ka mamla, MLA par nahi);
+// 3 vidhan-sabha 'yachikaen swikrit' (bina GO = ghoshna); Dailyhunt aggregator; public.app-only; YouTube-only x4;
+// rajnaitik ghatnayein (parshad ghar-wapsi, avishwas prastav); virodh/bayan x4; CM karyakram maujoodgi;
+// karyakaal se pehle ward bhoomi-pujan (Oct 2023); Zee CC-road tooti (MLA-link nahi); galat-vyakti (anya-jile vidhayak).
+// khatik-harishankar — 18 rejects: hospital nirikshan + nidhi-ghoshna (bina sanction); CM/MP/mantri events maujoodgi x4;
+// public.app-only thana shilanyas (bundelivarta se verify karke entry ban gayi); Dailyhunt; YouTube-only;
+// CM ko maang-patra x2; chhatravas swikriti-daava (noficker.in, source khula hi nahi);
+// karyakaal se pehle 2012/2017 cases; galat-vyakti (Shakuntala/Ramesh Khatik); MLA peedit-paksh social-media case;
+// pre-term mantri-daavedari; Bansal News interview 'karenge' daave.
+// chanda-surendra-singh-gour — profile KHAALI; 3 rejects: '37 PMGSY sadak swikriti' (chhota portal rpkpindianews,
+// koi GO/established media/corroboration nahi); Taprian vidhayak-nidhi ghoshnaen (bina sanction saboot);
+// YouTube-only x2. Negative: koi established FIR/case reporting nahi mili.
