@@ -488,3 +488,20 @@ assamWorks['taranga-gogoi'] = [];
 // Profile imaandari se khaali rahi.
 
 // Coordinator QA (dibrugarh): 6/6 MLA researched, teeno worker fragments ka schema/hygiene check OK (0 Devanagari, 0 ₹, 0 literal-\n, periods '2026-2031'); Rameswar Teli ki Madhabpur ROB entry me shilanyas pre-term (Dec 2022, CM) hone ka disclosure darj — lokarpan June 2026 me unhone sthaniya MLA + rajya mantri ke roop me kiya (lokarpan-pattern); Binod Hazarika MP kabhi nahi rahe — worker ne verify kiya, koi MP-era attribution nahi. Marker exactly 1x, har slug exactly once.
+// ---- Dima Hasao district batch (researched 2026-10-14) ----
+
+assamWorks['rupali-langthasa'] = [];
+
+// REJECT-LOG (rupali-langthasa): profile KHAALI raha — qualifying entry koi nahi mili (sabha sirf ~5.5 mahine purani; pehli-baar ki MLA, NCHAC/DHAC ki samantar bhoomika ke kaaran zyadatar pariyojnaayein Council/vibhag ke naam par report hoti hain).
+// 1. Sentinel May 2026 (chunav ke baad interview): graameen connectivity + uchch shiksha ki praathmiktaayein ginayin — sirf lakshya/bayaan (priorities), koi poorn kaam/lokarpan/swikriti/shilanyas nahi, reject.
+// 2. Sentinel ~Jun 2026: Haflong me vikas pariyojnaon ki NCHAC samiksha-baithak me MLA Rupali Langthasa ki upasthiti (CEM Debolal Gorlosa ki adhyakshata) — sirf maujoodgi/review, koi apna kadam nahi, reject.
+// 3. Sentinel ~Jun 2026: DMFT Governing Council (DC Gayatri Devidas Hyalinge adhyaksh) me MLA ki upasthiti; 'commitment' bayan — sirf maujoodgi + aashwasan, reject.
+// 4. Nagaland Post, 3 Sep 2026: 4th Mithun Day (ICAR + DHAC pashupalan vibhag) me MLA sirf vishisht atithi — mantri/CEM ki mehmaani; stalls ka udghatan/input-vitran unke haath nahi, reject.
+// 5. InsideNE (India Today NE bhi), 27 Sep 2026: Umrangso me rajya-star World Tourism Day — Tourism Minister Ajanta Neog mukhya atithi, CEM guest of honour; MLA Rupali sirf upasthit — sirf maujoodgi, reject.
+// 6. InsideNE, 26 Aug 2026: 6th MLA Cup Mahila Football Tournament (Maibang) opening ceremony me MLA ki upasthiti — samaroh-mehmaani, vikas-kaam nahi, reject.
+// 7. InsideNE, 25 Jun 2026: 'Modi sarkar ke 12 saal' par BJP Dima Hasao Intellectual Meet me MLA ne pradarshani ka udghatan kiya — party karyakram ki pradarshani, sarkari pariyojna ka lokarpan nahi; ceremonial-niyam par reject.
+// 8. Guwahati Times / India Today NE, 14 May 2026: UCC par tribal-samudaayon ko asar na hone ka bayan + Pawan Khera vivad par tippani — political statement, kshetra-kaam nahi, reject.
+// 9. Pre-term items: thehillstimes 2024 MMNM scheme launch (launched by CEM + minister Nandita Gorlosa; Rupali DHAC EM ke roop me sirf upasthit) — karyakaal se pehle, reject. Sentinel 533 din pehle: Bakhorma Hading Orchid Park ka shilanyas CEM ne kiya; Rupali MAC ke roop me saath thi — pre-term + Council faisla, reject. Sentinel ~246 din pehle (Feb 2026): Haflong Civil Hospital me 10-bedded cabin ka udghatan + AMRUT 2.0 water supply ka shilanyas — MLA banne se pehle; udghatan DHAC Chairman/EMs ne kiya, Rupali ka dastavezi role nahi — reject.
+// 10. Election coverage (Sentinel/ETV/Indian Express/India TV, May 2026): jeet ka margin 50,306 — chunav khabar, kaam nahi, reject. BJP manifesto launch (nenow, Apr 2026) — chunav-se-pehle + manifesto, reject.
+// 11. Negative check: Syllad Jul 2025 contractor ko dhamki ka aarop CEM Debolal Gorlosa par hai (Rupali par nahi) — galat vyakti + pre-term, reject. Sentinel ~Oct 2025: Congress ka Kalachand DIET B.Ed admission-list vivad me Rupali Langthasa (tab BJP councillor/BEd student) ke naam ka zikr — sirf virodhi aarop/bayaan, koi FIR/case/janch-karyavahi established reporting me nahi — negative-entry criteria poora nahi, reject. Koi qualifying negative reporting is karyakaal me nahi mili. Profile imaandari se khaali rahi.
+
