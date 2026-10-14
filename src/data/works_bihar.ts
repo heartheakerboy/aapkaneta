@@ -1738,3 +1738,73 @@ biharWorks['md-sarwar-alam'] = [];
 // 10. Negative: current karyakaal me established media me vidhayak ke khilaf aarop-FIR-janch wali koi reporting nahi mili.
 
 // Coordinator QA note (Kishanganj district batch, researched 2026-10-14): 2 parallel workers (2 MLA each); fragments coordinator ne khud padhkar QA kiya. Tauseef Alam #4 (selfie point) lokarpan real sarkari-kaam udghatan hai (Live Hindustan post-event) — rakha gaya, NP-saundaryikaran fund disclosure ke saath. Tauseef #2/#3 aur Gopal #4 sthaniya portal disclosures description me hain. Qamrul Hoda entry sanyukt shilanyas (MP Javed Azad) — shreya sajha, rahul-kumar-bihar precedent; Rs 2.84 lakh wali lagat sambhavit misprint, yathavat ullekh + disclose. Sarwar Alam KHAALI — sabse majboot lead ka source page khul hi nahi saka (timeout), snippet-se-entry rule par reject; baad me khule to retry lead. Sabhi 4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 83 -> 92 (+9).
+
+// ---- Lakhisarai district batch (researched 2026-10-14) ----
+
+biharWorks['ramanand-mandal'] = [];
+
+// REJECT-LOG (ramanand-mandal): profile KHAALI rahi — Nov 2025+ karyakaal me koi qualifying entry nahi mili.
+// 1. livehindustan.com, Dec 08, 2025 — nav-nirvachit MLA ka NDA workers dwara swagat/abhinandan samaroh, hotel Parisar, Suryagarha — sirf swagat karyakram, koi kshetra-kaam nahi, reject.
+// 2. livehindustan.com, Nov 22, 2025 — nav nirvachit vidhayak ka samarthako dwara mala-swagat — sirf swagat/aashwasan, koi concrete kaam nahi, reject.
+// 3. livehindustan.com, Dec 07, 2025 — abhinandan samaroh ki suchna (pre-event announcement) — pre-event source rule + sirf karyakram, reject.
+// 4. livehindustan.com, Dec 10, 2025 — students ne degree college sthapna ki maang ka gyapan MLA ko diya — sirf maang/gyapan, MLA ka koi kadam nahi, reject.
+// 5. livehindustan.com, ~Oct 2026 — vyapariyon ne atikraman-virodh me MLA ko gyapan diya; MLA ne DM ko aavedan-patra forward kiya — koi documented kadam/swikriti nahi, reject.
+// 6. livehindustan.com, Dec 26, 2025 — JD(U) karyakarta abhaar samaroh, Lakhisarai — sirf party karyakram, reject.
+// 7. bhaskar.com, ~Jan 2026 — mantri Lalan Singh ne Suman Chowk se Ramchandrapur tak sadak ka shilanyas + CHC/pashu-aspataal ka udghatan kiya; MLA sirf upasthit — mantri-karyakram me maujoodgi, reject.
+// 8. livehindustan.com, Mar 2026 — Bihar Diwas Vikas Mela, KRK school ground; MLA + DM ne meela ka udghatan kiya — jila-prashasan ka event, koi vyakti-vishesh works-sanction nahi, reject.
+// 9. bhaskar.com, ~Jul 2026 — Saidpura (Pipariya) Sahyog Shivir ka udghatan — sarkari camp ka udghatan (event), MLA ka koi works-sanction nahi, reject.
+// 10. bhaskar.com, Nov 2025 (chunav-se-pehle) — JD(U) candidate ka chunavi daura — campaign + vaade, koi concrete kaam nahi, reject.
+// 11. youngbharatnews.com, Sep 2026 — JD(U) Patna meeting me MLAon ki narazgi — party-andruni vishay, koi kshetra-kaam nahi, reject.
+// 12. youngbharatnews.com — NDA analysis (Sansar Pokhar saundaryikaran; Suryagarha me sadak-pul shilanyas by mantri/sansad — chunav-se-pehle) — pre-term + mantri/sansad kaam, reject.
+// 13. YouTube — "Suryagarha vidhayak Ramanand Mandal se vikas par baat-cheet" interview clips — YouTube-only, reject.
+// 14. Koi qualifying negative reporting nahi mili.
+
+biharWorks['vijay-kumar-sinha'] = [
+  {
+    title: 'Barahia Nagar Parishad ke vibhinn wardon me Mukhyamantri Shahri Vikas Yojana ke tahat sadak, nala aur puliya nirman karyon ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-03-31',
+    description: 'Dy CM sah sthaniya vidhayak Vijay Kumar Sinha ne Barahia nagar kshetra ke vibhinn wardon me Mukhyamantri Shahri Vikas Yojana ke antargat prastavit yojanaon ka shilanyas kiya: Ward 7 me banne wali puliya; Ward 21 me Jugul Singh ke gohal se Bachchan Singh ke ghar tak sadak evam nala nirman; Ward 24 me Vijay Singh ke gohal se road tak sadak evam nala nirman; UCO Bank se Masjid Gali tak sadak nirman. DM Mithilesh Mishra aur nagar parishad sabhapati Daisy Kumari maujood rahe. Stage: shilanyas. Disclosure: Mukhyamantri Shahri Vikas Yojana sarkari vibhagiya yojana hai; vidhayak ne shilanyas ke charan me mukhya bhoomika nibhai, isliye entry rakhi hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/lakhisarai/story-deputy-chief-minister-vijay-kumar-sinha-launches-urban-development-projects-in-barahia-201774979537345.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Barahia me Ganesh Mandir se petrol pump tak aur Pakad Tar se Nimiya tak bani sadkon ka udghatan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-03-31',
+    description: 'Usi daure me Vijay Kumar Sinha ne Mukhyamantri Shahri Vikas Yojana ke tahat poori ho chuki yojanaon ka udghatan kiya: Ganesh Mandir se petrol pump tak bani sadak aur Pakad Tar se Nimiya tak sadak; report ke anusar nagar ke anya wardon me bhi kai vikas yojanaon ka udghatan evam shilanyas hua. Stage: lokarpan. Disclosure: event ki tithi article me "Mangalwar" likhi hai — 31 Mar 2026 ko Mangalwar tha, isliye wahi tithi maani hai; donon entries usi ek satyapit post-event report se hain.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/lakhisarai/story-deputy-chief-minister-vijay-kumar-sinha-launches-urban-development-projects-in-barahia-201774979537345.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (vijay-kumar-sinha):
+// 1. Zee News, 05 Oct 2025 — krishi utpadan bazaar samiti jirnoddhar (~Rs 42 cr), Barahia ITI college, swasthya upkendron ka udghatan-shilanyas — pre-term (chunav-se-pehle), reject.
+// 2. news4nation, 11 Jan 2025 — NH-80 se Kiul railway station path par nala evam cross-drain (~Rs 2.85 cr) ka shilanyas — pre-term, reject.
+// 3. patnapress, Oct 2025 — Barahia dalhan vikas kendra, Halsi nursery/tissue culture lab/adarsh horticulture centre ka udghatan-shilanyas — pre-term, reject.
+// 4. news4nation, ~Apr 2025 — Barahia-Mokama 14 km greenfield road: CM Nitish ki ghoshna, pre-term; Sinha ka dastavezi kadam nahi, reject.
+// 5. Zee News, 11 Sep 2024 — Kiul nadi par pul (~Rs 100 cr) ki ghoshna — pre-term ghoshna, reject.
+// 6. bjmirrors.com (bina tithi/lekhak) — Kiul bridge Rs 100 cr "announcement" — aggregator-style mirror, wahi 2024 ghoshna ka recycled dawa, koi GO/sanction data nahi, reject.
+// 7. prabhatkhabar (~Jul 2024) — Lakhisarai purvi bypass (Hasanpur-Ghosikundi pul, Rs 350 cr prastav) — pre-term; "swikriti milti hai to" shart — sirf prastav, reject.
+// 8. news4nation (pre-election schedule) — "karenge" prakar ki pre-event ghoshna — pre-event source rule se reject.
+// 9. PTI/newsdrum, 19 Mar 2026 — Samriddhi Yatra me CM Nitish ne Munger-Lakhisarai me Rs 445 cr pariyojnaon ka udghatan-shilanyas kiya; Sinha sirf manch par maujood — sirf maujoodgi, reject.
+// 10. ANI, 22 Aug 2025 — PM Modi ne Gaya se Barahia (Lakhisarai) STP-sewerage ka shilanyas kiya; Sinha sirf maujood + pre-term, reject.
+// 11. newslahar, 19 Mar 2026 — marine drive, Kajra solar plant: Dy CM Samrat Chaudhary ki ghoshnayen — galat vyakti / Sinha ka koi concrete kadam nahi, reject.
+// 12. livehindustan, ~Sep 2026 — baadh prabhavit kshetron ka nirikshan — sirf nirikshan/daura, koi yojana nahi, reject.
+// 13. apnabiharjharkhand, 31 Mar 2026 — wahi Barahia daura par vague reporting ("kai vikas yojanaon") — detail wali livehindustan report use ki, reject.
+// 14. jagran (~Jul 2025) — vidhayak-nidhi me handpump anushansa — pre-term + sirf anushansa, reject.
+// 15. livehindustan, ~Sep 2026 — Chittaranjan Road me aniyamitta ki shikayat: shilanyas ~Sep 2025 (pre-term); koi adhikarik janch ki khabar nahi, reject.
+// 16. livehindustan, 01 Jan 2026 — Ashok Dham ke paas 630-seat auditorium (~Rs 16 cr): shilanyas pichhle karyakaal me; is term me lokarpan ki confirmed khabar nahi, reject.
+// 17. sudamanews (tithi aspasht) — Dhira panchayat Jan Kalyan Samvad: bhashan me daave bina sanction/work-order data ke — sirf dawa, reject.
+// 18. lokmattimes/ANI, 02 Feb 2026 — Bihar budget par Sinha ka bayan — rajya-stariya bayan, kshetra-kaam nahi, reject.
+// 19. bhaskardigital (SIR dauran) — do voter card/EPIC ka aarop (Tejashwi Yadav ka counter-aarop) — virodhi ka aarop, koi FIR/case/janch nahi, reject.
+// 20. etvbharat, 17 Aug 2026 — Ashok Dham bhagdad: trasdi par mantri ke roop me bayan/janch-aashwasan; Sinha par koi aarop nahi — works entry nahi, reject.
+// 21. patnapress, Nov 2025 — vijay juloos me hawai firing — kanoon-vyavastha khabar, kshetra-kaam nahi, reject.
+
+// Coordinator QA note (Lakhisarai district batch, researched 2026-10-14): 2 parallel workers (1 MLA each); fragments coordinator ne khud padhkar QA kiya. Vijay Kumar Sinha (Dy CM, 5vi jeet) ki 2 entries ek hi satyapit post-event Live Hindustan report (Barahia, 31 Mar 2026 — "Mangalwar" se weekday verify) se hain; credit-transparency disclosure dono descriptions me joda gaya (vibhagiya yojana, vidhayak ne shilanyas/udghatan ke charan me mukhya bhoomika nibhai). Dy CM ki rajya-stariya khabren sab sahi reject hui — sirf AC-168 ke andar ke kaam liye gaye. Ramanand Mandal KHAALI (13 rejects — swagat samaroh, gyapan, mantri-ke-karyakram me maujoodgi, pre-event, YouTube-only). Sabhi 2 slugs pehle khaali the — koi overwrite nahi. Kul titles: 92 -> 94 (+2).
