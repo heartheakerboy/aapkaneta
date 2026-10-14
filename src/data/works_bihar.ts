@@ -1385,3 +1385,194 @@ biharWorks['kavita-devi'] = [];
 // PROFILE: imaandari se khaali — Nov 2025 ke baad ke tenure me koi lokarpan/shilanyas/swikriti ya poorn kaary ki pusht reporting nahi mili; jo mili wo pre-tenure, sirf maang/nirikshan, ya YouTube-only thi.
 
 // Coordinator QA note (Katihar district batch, researched 2026-10-14): 4 parallel workers (A: tarkishore+dulal, B: sangita+nisha, C: manohar+bijay, D: kavita); charon fragments coordinator ne khud padhkar QA kiya. Worker B ki sangita-devi entry English me thi — Roman-Hinglish me convert ki (srot-tathya aparivartit). Nisha Singh ki mandir-bhoomi-pujan entry coordinator ne HATA di: Live Hindustan (~2 Jun 2026 est.) ka Shiv mandir shilanyas lok-sahyog se ban rahe community-funded mandir ka dharmik karyakram tha, sarkari/vidhayak-nidhi paisa nahi, vidhayak ki bhoomika sirf ceremonial — sthapit precedent (shubhanand-mukesh: samuday-nirmit Panchmukhi Hanuman mandir udghatan reject; mithilesh-tiwari: community-funded Shiv mandir shilanyas reject; devanti-yadav: shiv mandir puja — dharmik karyakram reject) par vikas-kaam nahi; profile imaandari se khaali. Highest-risk sources coordinator ne khud khole: Live Hindustan sangita-devi road shilanyas (8 Mar 2026) aur tarkishore-prasad 5 km road shilanyas — dono ke tathya (lambai, lagat, thekedar/JE naam) worker reports se milte hain. Tarkishore entry-2/3 ki tithiyan search-timing se est. (note me disclosed); entry-1 ka GS News sthaniya-portal disclosure note me hai. Sabhi 7 slugs pehle khaali the — koi overwrite nahi. Kul titles: 69 -> 73 (+4).
+
+
+// ---- Khagaria district batch (researched 2026-10-14) ----
+
+biharWorks['ram-chandra-sada'] = [];
+
+// PROFILE (ram-chandra-sada): imaandari se khaali — Nov 2025 ke baad ke karyakaal (JD(U), Alauli SC, Khagaria) me established media me koi poorn / lokarpan / swikriti / shilanyas / ghoshna-level vikas kaam report nahi hua; 2010-2015 wale purane karyakaal ke works pre-tenure rule se alag rakhe gaye.
+
+// REJECT-LOG (ram-chandra-sada):
+// 1. Prabhat Khabar 7 Apr 2015 — 4 yojnaon me ~Rs 50 lakh ki PCC sadak ka udghatan (MKVY) — pre-tenure (2010-2015 karyakaal), reject.
+// 2. Prabhat Khabar Mar 2015 — Alauli prakhand MGNREGA karyalaya ka udghatan — pre-tenure, reject.
+// 3. Prabhat Khabar 15 Apr 2015 — Meghauna-Laxmipur aur Bhikhari Ghat Harizan Tola sadak ka udghatan (MMGSY) — pre-tenure, reject.
+// 4. Prabhat Khabar 21 Mar 2015 — Mahavishnu yagya shubharambh — pre-tenure + dharmik maujoodgi, reject.
+// 5. Prabhat Khabar ~Feb 2015 — Chaiti Durga mela (Derha, Bakhri) udghatan — pre-tenure + maujoodgi, reject.
+// 6. Prabhat Khabar ~2013 — Sonihar (Bahadurpur) MP-fund samudayik bhavan par kabze ka aarop — pre-tenure (2011-12 ka maamla) + purani khabar bina follow-up, reject (negative entry layak nahi).
+// 7. public.app 21 Dec 2025 — Haripur cricket tournament udghatan — public.app-only, reject.
+// 8. public.app Dec 2025 — vidhansabha shapath article — election coverage, kaam-khabar nahi, reject.
+// 9. SDF Live India (~2026) — Koshi Science Classes me swagat samaroh — sirf samman/bhaashan, koi kaam nahi, reject.
+// 10. Prabhat Khabar 2 Oct 2026 — "Nitish Samvad — Jeevika 20 saal bemisaal" karyakram — sirf bhashan/maujoodgi, reject (poora article khud khola).
+// 11. Dainik Bhaskar ~Jan 2026 — MP Rajesh Verma ki Disha samiksha baithak — bhoomihin parcha vitran ki sirf maang, reject.
+// 12. Jagran 20 Jan 2026 — 54 bhoomihin schools ko zameen (Alauli block me 12) — DM/DEO ki pahal, MLA ka koi role nahi, reject.
+// 13. LiveHindustan (~Mar 2026) — CM ki Pragati Yatra: Alauli me 720-bed Dr. Ambedkar SC/ST aawasiya vidyalaya ka udghatan CM ne kiya — CM ka event, pre-tenure period, reject.
+// 14. YouTube — Shivratri mela (Chhoti Rani Sakarpura) me maujoodgi — YouTube-only + maujoodgi, reject.
+// 15. Election coverage (Jagran, NBT, Indian Express, News18, Zee News, Oneindia, DNA, Wikipedia) — kaam-khabar nahi, reject.
+// 16. Jagran Oct 2025 — JDU ummidwar ghoshna — election news, reject.
+// 17. Naam-savdhani: hum-naam galat vyakti nahi mila; purane (2010-2015) works rule-2 ke tahat alag rakhe gaye.
+// 18. Negative: current karyakaal me established media me koi aarop-FIR-janch wali reporting nahi mili.
+
+biharWorks['bablu-kumar'] = [
+  {
+    title: 'Morkahi Plus-Two vidyalaya ke naye bhavan ka udghatan MLA Bablu Kumar Mandal ne kiya',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2025-12-17',
+    description: 'Sadar prakhand ki Uttar Maarad panchayat ke Morkahi me Bihar Rajya Shaikshanik Aadharbhoot Sanrachna Yojana ke tahat bane 10+2/Grade 2 school ke naye bhavan ka udghatan 17 December 2025 ko Sadar vidhayak Bablu Kumar Mandal ne feeta katkar aur shilapatt ka anavaran karke kiya; karyakram me vidyalaya prabandhan samiti ki baithak bhi hui jisme vidhayak ne mitti bharaai, chahardewari aur prakash vyavastha jaise kaam karane ki ghoshna bhi ki. (Koshi Express News — sthaniya portal, post-event report)',
+    source: 'Koshi Express News',
+    sourceUrl: 'https://koshiexpressnews.com/22589/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khagaria ward 31 me Mahavir Mandir parisar ke paas Rs 11.31 lakh ke chabutre ka shilanyas MLA ne kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-06-10',
+    description: 'Khagaria shahar ke ward 31 me Mahavir Mandir parisar ke sameep 11.31 lakh rupaye ki lagat se banne wale chabutre ke nirman ka shilanyas 10 June 2026 ko Sadar vidhayak Bablu Kumar Mandal ne kiya; Live Hindustan ki report ke mutabik is karyakram me vidhayak ne medical college, 433 crore ki drainage yojana aur veterinary college jaise vishayon par bhi apni baat rakhi.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/khagaria/story-khagaria-mla-bablu-mandal-commits-to-development-with-new-projects-201781112253034.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Belour gaon ke jareej pipa pul ke punarnirman ka shubharambh MLA ne apne nijee kosh se kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-07-16',
+    description: 'Sadar prakhand ki Uttar Maarad panchayat ke Belour gaon me varson se jareej pade pipa pul ke punarnirman ka kaam 16 July 2026 ko Sadar vidhayak Bablu Kumar Mandal ne shuru karaya; news report ke mutabik ye pul vidhayak ke nijee kosh (sarkari fund nahi) se ban raha hai aur isse Belour-Morkahi aur aaspaas ke hazaron logon ko avagaman me rahat milegi. (News Bihar 18 — sthaniya portal, post-event report)',
+    source: 'News Bihar 18',
+    sourceUrl: 'https://newsbihar18.com/2026/07/16/mla/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khagaria shahar ki SDO Road ka naam badalkar Alakhiya Baba Marg ka lokarpan MLA ne nagar sabhapati ke saath kiya',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-07-31',
+    description: 'Nagar Parishad Khagaria ke nirnay par shahar ki SDO Road ka naam badalkar Alakhiya Baba Marg karne ka samaroh 31 July 2026 ko Sadar vidhayak Bablu Kumar Mandal aur nagar sabhapati Archana Kumari ne sanyukt roop se feeta katkar aur naampatt ka anavaran karke sampann kiya; ye sadak Alakhiya Baba Shiv Mandir ke liye prasiddh hai. (Koshi Express News — sthaniya portal, post-event report)',
+    source: 'Koshi Express News',
+    sourceUrl: 'https://koshiexpressnews.com/25573/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khagaria shahar ke goshala parisar me Rs 14.99 lakh ke chhatdar chabutre ka shilanyas MLA ne kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-08-05',
+    description: 'Khagaria shahar ke goshala parisar me 14.99 lakh rupaye ki lagat se banne wale chhatdar chabutre ke nirman ka shilanyas 5 August 2026 ko Sadar vidhayak Bablu Kumar Mandal ne Vedic mantrochchar ke beech kiya; Koshi Express News (sthaniya portal) aur Dainik Bhaskar (bhaskar.com) dono ne is shilanyas samaroh ki post-event khabar di.',
+    source: 'Koshi Express News',
+    sourceUrl: 'https://koshiexpressnews.com/25676/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Khagaria shahar ke Rs 433.73 crore ke storm water drainage project ko BUIDCO se takniki swikriti mili',
+    category: 'Any',
+    stage: 'swikriti',
+    date: '2026-03-31',
+    description: 'Bihar Shahari Aadharbhoot Sanrachna Vikas Nigam (BUIDCO) ne Khagaria shahar me lagbhag Rs 433.73 crore ki lagat wali aadhunik storm water drainage system yojana ko takniki swikriti de di; 31 March 2026 ke video bayan me Sadar vidhayak Bablu Kumar Mandal ne bataya ki unhone is mudde ko vidhansabha satra me aur mukhyamantri se milkar uthaya tha, aur ab tender prakriya ke baad nirman shuru hoga; Live Hindustan ne bhi June 2026 ki report me is takniki swikriti ki pushti ki. (Shrey sirf mudda uthane/pahal tak — swikriti BUIDCO ki, disclosed; Live Khagaria — sthaniya portal, video bayan)',
+    source: 'Live Khagaria',
+    sourceUrl: 'https://livekhagaria.in/37094/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (bablu-kumar):
+// 1. 18-sutri maang patra (Live Hindustan, ~June 2026) — CM ko saunpa gaya sirf maang-patra, koi swikriti/GO nahi; sirf maang reject.
+// 2. Koshi Express 23727 — CM se mulakat me pul, college, stadium, drainage jaise mudde uthaye, sirf maang/sujhav; koi swikriti nahi.
+// 3. Purvi Thatha uchch madhyamik vidyalaya (Live Hindustan) — 'jald apna bhavan banega', sirf vidhayak ka vaada, shiksha vibhag se swikriti abhi pending; 'karenge' waada reject.
+// 4. Mathurapur samudayik bhavan (Live Hindustan, Dec 2025) — 'yadi bhoomi mili to banega' sharthik ghoshna, koi swikriti nahi.
+// 5. Sadar aspataal drainage DPR Rs 16.76 crore (SDF Live) — sirf DPR taiyar, takniki swikriti pending, tender nahi; sanction-order stage nahi aaya.
+// 6. Dumariya BUJURG APHC bhavan me dararein (Jagran, 7 Oct 2026) — Parbatta AC ka mamla, Khagaria AC-149 ke bahar; kshetra-bahar reject.
+// 7. Kasariya Dhar eco-tourism Rs 29.20 crore prashasnik swikriti (Koshi Express 25231) — vidhayak ke prayas ka claim hai par project Mansi block me hai, AC-149 ke bahar; kshetra-bahar reject.
+// 8. Baluahi bus stand Rs 6.5 crore sanyukt shubharambh (Koshi Express 24526) — Nagar Parishad project, sansad-led event; MLA sirf sahbhagi, project ka attribution kamzor; sirf maujoodgi reject.
+// 9. TOI bypass road delay article — pre-tenure (Nov 2025 se pehle ka review) + sirf kaam tez karne ki appeal, koi kaam nahi.
+// 10. CM Nitish ke Khagaria daure wali khabar — vidhayak ne sirf karyakram ki jankari di, koi swikrit kaam nahi.
+// 11. Medical college 'shilanyas karane ka prayas karenge' (Jagran, 24 Nov 2025) — future promise, 'karenge' waada reject.
+// 12. Morkahi udghatan me Khonma ghat pul, health & wellness centre, pustakalaya, vivah bhavan ki ghoshnaein — sabhi 'karaya jayega' waade, koi GO/swikriti nahi.
+// 13. Goshala shilanyas article me Rajendra Sarovar/Kasariya/drainage/hospital ke liye 'swikriti mili' ka MLA dawa (SDF Live) — bina tareekh/rakam/GO ke self-claim, kamzor attribution.
+// 14. NDA karyakarta sammaan samaroh bhashan (Koshi Express 22040) — keval vikas ke vaade, koi concrete kaam nahi.
+// 15. Panchayat samiti baithak me adhikariyon ko nirdesh (News Bihar 18, Aug 2026) — sirf baithak/nirdesh, koi kaam nahi.
+// 16. Bansbitti daura me Malti Dhar pul 'banega' ka bharosa (Aug 2026) — promise only, no sanction.
+
+biharWorks['panna-lal-singh-patel'] = [
+  {
+    title: 'Chautham prakhand me Grameen Karya Vibhag ki teen sadkon ka shilanyas MLA ne kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-03-08',
+    description: 'Beldaur MLA Panna Lal Singh Patel ne Chautham prakhand me Grameen Karya Vibhag ki teen sadkon ke nirman ka shilanyas kiya: Agrahan me 1212 meter, Agrahan se Kalyanpur tak 2725 meter, aur Tegachhi me BN tatbandh se Tegachhi gaon tak 2253 meter. MLA ne kaha in ilakon me aazadi ke baad pehli baar sadak ka nirman karaya ja raha hai, jisse sthaniya logon ke aavagaman me suvidha hogi. Mauke par vibhagiya abhiyanta Rajeev, Madhya Bourne panchayat ke mukhiya Shashibhushan Kumar aur JD(U) neta maujood the. (Live Hindustan, 9 Mar 2026 ki post-event report)',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/khagaria/story-pannalal-singh-patel-inaugurates-road-construction-projects-in-chautham-201772996455856.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bobbil panchayat ke Phulwariya gaon me Panchayat Sarkar Bhavan ka udghatan MLA ne kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-09-04',
+    description: 'MLA Panna Lal Singh Patel ne Beldaur prakhand ke Bobbil panchayat ke Phulwariya gaon me navnirmit Panchayat Sarkar Bhavan ka udghatan kiya. Bhavan ka nirman lagbhag Rs 1.30 crore ki lagat se hua tha aur iska shilanyas lagbhag paanch saal pehle (karyakaal se pehle) kiya gaya tha; karyakaal me poorn bhavan ka lokarpan MLA ne kiya — swikriti-shrey purane karyakaal ka, udghatan vartaman karyakaal ka, disclosed. Udghatan ke mauke par CO Amit Kumar, BPRO Pramod Kumar Paswan, mukhiya Sangeeta Devi sahit prashasnik adhikari aur sthaniya pratinidhi maujood the. (Prabhat Khabar, post-event report)',
+    source: 'Prabhat Khabar',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/khagaria/mla-inaugurated-the-panchayat-bhawan',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Bobbil panchayat ke Kumharaili gaon me Kanya Vivah Mandap ka shilanyas MLA ne kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-08-31',
+    description: 'MLA Panna Lal Singh Patel ne Beldaur ke Bobbil panchayat ke Kumharaili gaon me Kanya Vivah Mandap ka shilanyas kiya. Mandap ki lagat lagbhag Rs 50 lakh batayi gayi hai. Shilanyas ke mauke par poorv mukhiya Jaikishore Yadav, vartman mukhiya Sangeeta Devi, JD(U) prakhand adhyaksh Sanjay Singh sahit darjanon ganmanya log maujood the. (Live Hindustan report; tithi article me diye saptah-day aur crawl-date cross-check se tay ki gayi event-day hai)',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/khagaria/story-foundation-laid-for-girls-marriage-pavilion-in-kumharaili-village-by-jd-u-mla-201788204795316.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (panna-lal-singh-patel):
+// 1. livehindustan 29 Jan 2026 (Thuthi Mohanpur uchchatar madhyamik vidyalaya bhavan) — sirf sthal-nirikshan, "aagami 29 Jan ko shubharambh" sirf ghoshna/plan, reject.
+// 2. koshiexpressnews.com/1796 (Chautham me 7 sadkon ka shilanyas) — published 2019-12-20, pre-tenure, reject.
+// 3. YouTube shorts (Sahraun se Dhadhi sadak "udghatan") — YouTube-only, koi established media srot nahi, reject.
+// 4. bhaskarenglish Sep 2025 (CM Nitish Kumar ka Pansalwa daura, 256 pariyojanaen) — pre-election/pre-tenure; MLA sirf taiyari me present, reject.
+// 5. prabhatkhabar Sep 2025 (25 Sep ko Pansalwa me CM daura, Beldaur stadium shilanyas ghoshna) — pre-tenure + pre-event announcement, reject.
+// 6. livehindustan (Corteva AgroSciences drone urvarak chhidkav workshop, Sakrohar) — commercial workshop; MLA ne sirf demo ka "udghatan" kiya, koi sarkari kaam/swikriti nahi, reject.
+// 7. TOI (Rs 1.75 crore Beldaur master plan, Zila Parishad chairperson Krishna Kumari Yadav) — ZP ka plan; MLA ka koi dastavezi kadam nahi, reject.
+// 8. firstindia.co.in + lokmattimes (MLA ke nephew Kaushal Singh ki Chautham me goli markar hatya, family dispute) — parivar ka mamla MLA par kabhi nahi; negative rule (MLA par aarop nahi, FIR/case MLA ke khilaf nahi) par bhi reject.
+// 9. Jagran/TV9/NDTV/india.com election-result coverage Nov 2025 — sirf election news, reject.
+// 10. Koi qualifying vidhayak-nidhi/MKVY/school/aspataal swikriti ya GO nahi mili; profile me koi negative entry nahi.
+
+biharWorks['babulal-shorya'] = [
+  {
+    title: 'Gogri ke Bhagwan High School maidan me Rs 7.05 crore ke stadium ka shilanyas MLA Babulal Shorya ne kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-08-29',
+    description: 'National Sports Day, 29 August 2026 (Saturday) ko Parbatta MLA Babulal Shorya ne Gogri anumandal mukhyalay ke Bhagwan High School maidan me Rs 7.05 crore (7 crore 5 lakh 41 thousand) ke stadium ka feeta katkar shilanyas kiya. Samaroh ko sambodhit karte hue unhone kaha ki stadium se Gogri ke yuvaon ki khel pratibha nikharayegi aur sthaniya khiladi rajya aur rashtriya star par apni pehchaan banayenge; unhone kaha ve Parbatta ke matdataon ki ummeedon par khara utarne ke liye kaam kar rahe hain. Sthal par gyarah mahilaon ne nariyal fode, aur karyakram me BJP neta Binod Jha, Nagar Parishad up-sabhapati Rajesh Pandit aur LJP jila adhyaksh Manish Kumar Singh sahit NDA karyakarta aur sthaniya neta maujood the. (Live Hindustan, post-event report)',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/khagaria/story-groundbreaking-ceremony-of-stadium-in-gogari-costing-7-crores-led-by-mla-baboolal-shaurya-201788025974922.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (babulal-shorya):
+// 1. Ramdhun yagna inauguration, Pansalwa (Dainik Bhaskar) — sirf dharmik karyakram me feeta katna/upasthiti, vikas karya nahi.
+// 2. Indoor badminton stadium, Parbatta (Live Hindustan) — sirf MLA ka SDO Gogri ko patra (maang/prastav) aur bhoomi-chihnikaran; koi swikriti, shilanyas ya GO nahi.
+// 3. Dumariya Buzurg PHC bhawan dararein (Live Hindustan) — MLA ne DM ko uchchastariya takniki jaanch ki maang wala patra bheja; koi nirmaan/lokarpan ka karya nahi, MLA ke khilaf koi aarop nahi.
+// 4. Gogri kshetra bhraman, 10 Dec 2025 (Live Hindustan) — sirf nirikshan/daura aur "karenge" aashvasan; koi poorn/swikrit/shilanyas kaam nahi.
+// 5. Aabhaar sah jansampark yatra (Dainik Bhaskar) — chunav ke baad outreach yatra; vikas karya se sambandh nahi.
+// 6. Vidhayak-nidhi sadak, Halua, Chandauli (NewsTrack) — galat zila/vyakti (Chandauli, UP).
+// 7. "Vidhayak Chaudhary Babulal" sadak lokarpan/shilanyas (SEA News, YouTube) — UP ke Fatehpur Sikri MLA; hum-naam galat vyakti, plus YouTube-only reject.
+// 8. Bablu Kumar Mandal (Khagaria Sadar, JD-U) ka CM ko 18-sutri maang patra (Live Hindustan) — padosi kshetra ke alag MLA ki maangein; babulal-shorya se sambandh nahi.
+// 9. Babulal Sharma/Babulal Shrma (2020 Parbatta independent) — alag vyakti; pre-tenure bhi.
+// 10. public.app Gogri stadium video snippet — public.app-only srot, isliye reject; usi ghatna ki Live Hindustan report ko srot banaya gaya.
+// 11. Election result stories (Jagran, NBT, Indian Express, FE, DNA) — chunav coverage, karya ki khabar nahi.
+
+// Coordinator QA note (Khagaria district batch, researched 2026-10-14): 4 parallel workers (1 per MLA); charon fragments coordinator ne khud padhkar QA kiya. COORDINATOR FIX 1 — babulal-shorya ki entry English me likhi thi (title + description); srot-tathya aparivartit rakhte hue Roman-Hinglish me convert ki. COORDINATOR FIX 2 — panna-lal-singh-patel entry-3 ki tithi article me saptah-day/crawl-date cross-check se est. thi — description me disclosure joda. COORDINATOR FIX 3 — bablu-kumar entries me Koshi Express News / News Bihar 18 / Live Khagaria ke liye "(sthaniya portal)" disclosure joda; entry-6 (BUIDCO drainage swikriti) me "Shrey sirf mudda uthane/pahal tak — swikriti BUIDCO ki" ka credit-pardarshita note joda. Panna entry-2 ka pre-term shilanyas (5 saal purana) + vartaman lokarpan wala disclosure birendra-singh-bihar precedent par rakha (son-bridge pattern). Bablu entry-3 (nijee kosh pipa pul) rahul-kumar-singh-buxar (personal-fund road repair) precedent par rakha. Sabhi 4 slugs pehle khaali the — koi overwrite nahi. Kul titles: 73 -> 83 (+10).
