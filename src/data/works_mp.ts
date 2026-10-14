@@ -6444,3 +6444,226 @@ mpWorks['gotam-tetwal'] = [
 // - Kalma/azaan viral speech controversies (Nov 2024, Dec 2025): kaam nahi, sirf vivaad — reject.
 // - Pre-event Bhaskar 1.51 crore report (bhoomi-pujan se pehle): sirf announcement — post-event report par entry banayi, ye reject.
 // - Shuru.co.in civil hospital "auchak nirikshan": sirf nirikshan — reject.
+
+// ---- Ratlam district batch (researched 2026-10-14) ----
+
+mpWorks['mathura-lal-damar'] = [
+  {
+    title: 'Bambori sinchai talab yojana (Rs 12.29 crore) ka bhoomi-pujan cabinet minister Chetanya Kashyap ke saath milkar kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Sanskar Darshan, 24 Feb 2024',
+    sourceUrl: 'https://sanskardarshan.com/2024/02/24/news-madhya-pradesh-ratlam-25-february-2024/',
+    date: '2024-02-24',
+    note: 'Ratlam Rural ke gram Bambori me Rs 12.29 crore ki sinchai talab yojana ka bhoomi-pujan (stage: shuruaat) vidhayak Mathuralal Damar ne cabinet minister Chetanya Kashyap ke saath milkar kiya; talab se 440 hectare atirikt sinchai kshamta banegi aur Bambori, Sandla, Jhar tatha Lunera ke lagbhag 500 kisan parivar labhanvit honge. Credit-pardarshita: yah jal sansadhan vibhag ki sarkari yojana hai — vidhayak nidhi nahi; vidhayak ki bhoomika saha-bhoomi-pujan karta ki hai, akele shrey ka dawa nahi. Disclosure: chhota local portal (Sanskar Darshan) ki report.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rattagarh Kheda me Rs 10 lakh vidhayak nidhi se banne wali CC road ka bhoomi-pujan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Cover Story 24, 22 Nov 2024',
+    sourceUrl: 'https://coverstory24.in/breakingnews-latestnews-localnews-bjp-mathuralal-mla-road-bhumi-rural-ratlam',
+    date: '2024-11-22',
+    note: 'Ratlam Rural vidhansabha ke gram Rattagarh Kheda me Rs 10 lakh vidhayak nidhi se banne wali CC road ka bhoomi-pujan (stage: shuruaat) vidhayak Mathuralal Damar ne kiya; karyakram me sarpanch, janpad sadasya aur gramvasi maujood rahe. Fund vidhayak nidhi ka hai. Disclosure: chhota local portal (Cover Story 24) ki report.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Namli ke shaskiya mahavidyalaya ko Rs 10 lakh vidhayak nidhi se 50 bench (100 chhatron ke liye furniture) diye gaye',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Patrika, 15 Aug 2025',
+    sourceUrl: 'https://www.patrika.com/ratlam-news/mp-news-bjp-mla-had-his-photo-placed-on-every-college-bench-19866751',
+    date: '2025-08-15',
+    note: 'Namli ke shaskiya mahavidyalaya ko vidhayak Mathuralal Damar ne Rs 10 lakh vidhayak nidhi se 50 bench (100 chhatron ke baithne hetu furniture) uplabdh karaye (stage: poora — saman pohoch chuka hai; Patrika ke alawa ETV Bharat 13 Aug 2025 aur TheSootr ne bhi isi tathya ki pushti ki). Vivad ka khulasa: bencho par vidhayak ki tasveer aur slogan print karvaye gaye the jise chhatron aur poorv Congress vidhayak Paras Saklecha ne alochit kiya aur jaanch ki maang ki, lekin koi FIR/case/kaaryavahi hone ki report nahi mili isliye alag negative entry nahi banayi gayi.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['chetanya-kasyap'] = [
+  {
+    title: 'Food Plaza MP-43 bhavan ka bhoomi-pujan — Ladli Lakshmi Path, Ratlam (lagat Rs 3.52 crore)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sanskardarshan, 21 Jan 2024',
+    sourceUrl: 'https://sanskardarshan.com/2024/01/21/news-madhya-pradesh-ratalam-21-january/',
+    date: '2024-01-20',
+    note: 'MSME mantri Chetanya Kasyap ne 20 Jan 2024 ko Ladli Lakshmi Path, Lokendra Bhavan ke saamne 43 dukano wale Food Plaza bhavan MP-43 ke nirman ka bhoomi-pujan kiya; Nagar Nigam iska nirman kara raha hai. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Credit-paradarshita: ye Nagar Nigam pariyojna hai, Kasyap ne bhumi-pujan karta ke roop me bhag liya; us samay ve mantri the, ye unke vibhag ki rajya-pariyojna nahi balki Ratlam shahar ki sthaniya pariyojna hai. Caveat: source chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhayak Samudayik Bhavan ka lokarpan — Vinoba Nagar, Ratlam (lagat Rs 45 lakh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'E-Khabar Today, 22 Jun 2024',
+    sourceUrl: 'https://ekhabartoday.com/main/cabinet-minister-shri-chetanya-kashyap-inaugurated-mla/cid16433145.htm',
+    date: '2024-06-22',
+    note: 'Ratlam shahar ke Vinoba Nagar kshetra me Rs 45 lakh ki lagat se nirmit Vidhayak Samudayik Bhavan ka lokarpan Kasyap ne 22 Jun 2024 ko kiya; article ke mutabik yahan kuch samay ke liye CM Rise School bhi sanchalit hona tha. Status: lokarpan (nirman purn, janata ko samarpit). Caveat: bhavan ke naam se vidhayak-nidhi se nirman sambhavit lagta hai, lekin article me funding source spasht nahi hai; source chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Amrit Sagar Udyan me amusement park ka lokarpan — Ratlam (15 Dec 2024)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'MP Ki Khabar, 15 Dec 2024',
+    sourceUrl: 'https://mpkikhabar.com/15-dec-2024-3/',
+    date: '2024-12-15',
+    note: 'Kasyap ne mukhya atithi ke roop me 15 Dec 2024 ko Ratlam ke Amrit Sagar Udyan me amusement park ka feeta kaatkar lokarpan kiya; article ke mutabik ye yojana pichli parishad me bani thi aur vartaman Nigam parishad ne ise poora kiya. Status: lokarpan (nirman purn, janata ko samarpit). Credit-paradarshita: ye Nagar Nigam parishad ki pariyojna hai, Kasyap ne lokarpan karta ke roop me bhag liya — unki vyaktigat nidhi/pahal ka dawa article me nahi hai. Caveat: source chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'PM Modi dwara Ratlam shahar ke lagbhag Rs 30.30 crore ke sadak karyon ka virtual bhoomi-pujan — Kasyap ki pahal par',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Diwakar Deepti, 29 Feb 2024',
+    sourceUrl: 'https://diwakardeepti.com/?p=49089',
+    date: '2024-02-29',
+    note: 'Viksit Bharat-Viksit Madhya Pradesh karyakram me PM Narendra Modi ne 29 Feb 2024 ko Ratlam shahar ke lagbhag Rs 30.30 crore ke nirman karyon ka virtual bhoomi-pujan kiya; article me spasht hai ye karye MSME mantri Chetanya Kasyap ki pahal par kiye ja rahe hain — isme Unkala Road Ganesh mandir se Salakhedi tak fourlane (Rs 6.40 crore), Mahu-Neemuch Marg bus stand se bypass tak fourlane (Rs 16.90 crore) aur Kayakalp 2.0 ke tahat ward 9, 16, 22, 27, 29, 33, 41 me CC sadak/paver block/culvert karye shamil hain. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Credit-paradarshita: bhoomi-pujan PM ne kiya, Kasyap sthaniya karyakram me maujood the aur article unki pahal ko shrey deta hai. Caveat: source chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ratlam audyogik kshetra me Rs 14.79 crore ke sadak-naali-puliya nirman ka lokarpan; Rs 8.95 crore ke karyon ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Sanskardarshan, 18 Aug 2025',
+    sourceUrl: 'https://sanskardarshan.com/2025/08/18/news-madhya-pradesh-ratlam-18-august/',
+    date: '2025-08-16',
+    note: 'Kasyap ne 16 Aug 2025 ko Ratlam audyogik kshetra me Rs 14.79 crore ki lagat se bani sadak, naali aur puliya nirman ka feeta kaatkar lokarpan kiya (article ke mutabik ye karye ek varsh me purn hue), saath hi alcohol plant ki bhoomi par Rs 8.95 crore ke sadak-naali-adhosarrachna karyon ka shubharambh kiya. Status: lokarpan (Rs 14.79 crore wale karye purn); Rs 8.95 crore wale karye shuru hue, purnata ki alag khabar nahi mili. Credit-paradarshita: ye rajya MSME vibhag ki audyogik pariyojna hai, Kasyap ne mantri ke roop me lokarpan/shubharambh karta ki bhoomika nibhai; Ratlam shahar (unke kshetra) ka sthaniya kaam hai isliye rakha hai. Caveat: source chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ratlam Medical College aspataal ke liye CT scan aur MRI machine lagwane ki ghoshna — Kasyap ke agrah par Dy CM ne adhikariyon ko nirdesh diye',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'E-Khabar Today, 31 Jul 2025',
+    sourceUrl: 'https://ekhabartoday.com/ratlam/ct-scan-and-mri-machine-approved-for-ratlam-medical-college/cid17175259.htm',
+    date: '2025-07-31',
+    note: '31 Jul 2025 ko Vidhan Sabha me Kasyap ne Dy CM aur lok swasthya/chikitsa shiksha mantri Rajendra Shukla se milkar Ratlam Medical College aspataal me CT scan aur MRI machine lagwane ka agrah kiya; Shukla ne turant sweekar kar adhikariyon ko dono machinein sthapit karne ke nirdesh diye. Status: ghoshna — nirdesh to diye gaye lekin sanction order/GO ya rakam ki koi pakki report nahi mili, aur machinein lagne ki purnata-khabar bhi nahi mili. Caveat: source chhota sthaniya portal hai (bharat24x7news ne bhi same khabar chhaapi).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Amrit 2.0 yojana ke tahat Ratlam shahar me lagbhag Rs 57 crore ki jal-praday pariyojna swikrit — Kasyap ki pahal',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Guru Express, Jan 2026',
+    sourceUrl: 'https://guruexpress.live/first-floating-pontoon-mp-installed-in-ratlam-district/',
+    date: '2026-01-24',
+    note: 'Article ke mutabik cabinet mantri Chetanya Kasyap ne Amrit 2.0 yojana swikrit karai, jiske tahat Ratlam shahar me lagbhag Rs 57 crore ki lagat se 9 nayi paani tankiyan (Dongre Nagar 10 lakh litre, Viriyakhdi/Sivic Centre/Polo Ground/Silver Inn Colony/Thavariya Bazaar 5-5 lakh litre, Arjun Nagar/Mid Town 10-10 lakh litre, Deendayal Colony 22 lakh litre) aur 273 km supply pipeline (lagbhag 145 km dal chuki) ka nirman chal raha hai; Dholawad Dam me MP ka pehla floating pontoon lagne se jal-praday kshamta 40.7 MLD tak badhegi. Status: swikriti — pariyojna swikrit aur nirman pragati par hai, purnata ki alag khabar nahi mili. Credit-paradarshita: Amrit 2.0 kendra-rajya yojana hai; article Kasyap ko Ratlam ke liye swikriti dilane ka shrey deta hai. Caveat: source chhota sthaniya portal hai, GO number article me nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['kamleshwar-dodiyar'] = [
+  {
+    title: 'Kelda panchayat ke Punapada gaon me Rs. 86 lakh ke naye talab ka bhoomi-pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'MP Headlines, 20 Nov 2024',
+    sourceUrl: 'https://mpheadlines.in/2024/11/20/%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%a1%e0%a5%8b%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0-%e0%a4%a8%e0%a5%87-%e0%a4%9a%e0%a5%87%e0%a4%a4%e0%a4%be%e0%a4%af%e0%a4%be/',
+    date: '2024-11-20',
+    note: 'Sailana janpad ki Kelda panchayat ke Punapada gaon me Rs. 86 lakh ki lagat se banne wale naye talab ka bhoomi-pujan unhone kiya; mauke par ghatiya nirman par thekedaar/engineer ke khilaf karyavahi ki chetavni bhi di. Report ke mutabik talab se sinchai suvidha ke saath kuwa-tubewell recharge aur peyjal samasya door hogi. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: MP Headlines chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kuajhagar gaon me Bijoriya nale par Rs. 90 lakh ke talab ka bhoomi-pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'MP Headlines, 29 Nov 2024',
+    sourceUrl: 'https://mpheadlines.in/2024/11/29/कुआझागर-के-बिजोरिया-नाले/',
+    date: '2024-11-29',
+    note: 'Sailana janpad ke Kuajhagar gaon me Bijoriya nale par Rs. 90 lakh ki lagat se banne wale talab ka bhoomi-pujan unhone kiya; karyakram me unke pratinidhi, janpad sadasya aur gramjan maujood the. Report ke mutabik talab se aaspaas ke gaon ke kisanon ko sinchai ke liye paryapt jal milega aur kuwa, tubewell, handpump jaise jal-srot recharge honge. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: MP Headlines chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Narayangarh panchayat ke Nayapada gaon me vidhayak-nidhi se Rs. 5 lakh ki gravel sadak — swikriti aur bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'MP Headlines, 4 Dec 2024',
+    sourceUrl: 'https://mpheadlines.in/2024/12/04/%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a4%97%e0%a4%a2%e0%a4%bc-%e0%a4%95%e0%a5%87-%e0%a4%a8%e0%a4%af%e0%a4%be%e0%a4%aa%e0%a4%be%e0%a4%a1%e0%a4%be-%e0%a4%97%e0%a4%be%e0%a4%81/',
+    date: '2024-12-04',
+    note: 'Sailana janpad ki Narayangarh panchayat ke Nayapada gaon me logon ki maang par unhone vidhayak-nidhi se Rs. 5 lakh swikrit karvaye; is lagat se banne wali gravel sadak ka bhoomi-pujan unke pratinidhi Bunty Rana ne JAYS karyakartao aur gramjanon ki maujudgi me kiya. Status: swikriti + bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: MP Headlines chhota sthaniya portal hai; bhoomi-pujan vidhayak swayam nahi, unke pratinidhi ne kiya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rawti anchal ke Selaj-Meda gaon me talab nirman ka bhoomi-pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'MPKiKhabar, 16 Jan 2025',
+    sourceUrl: 'https://mpkikhabar.com/16-jan-2025-3/',
+    date: '2025-01-16',
+    note: 'Sailana kshetra ke Rawti anchal ke Selaj-Meda gaon me talab nirman shuru karne se pehle unhone bhoomi-pujan kiya; report ke mutabik is Magra-Mal kshetra me nadi ka pani nahi pahunchta aur kuwa-tubewell safal nahi hote, isliye talab se sinchai ke saath peyjal-sroton (kuwa, handpump, tubewell) ke recharge se aaspaas ke gaon ke peyjal sankat se nijat milegi. Status: bhoomi-pujan — lagat ka aankda aur nirman-purnata ki alag khabar nahi mili. Caveat: MPKiKhabar chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bajna janpad me Rs. 21.24 crore ki teen sinchai pariyojnao (Dhavadia barrage, Borpada barrage, Ruparel talab) ko aupcharik swikriti',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'MP Headlines, 24 Dec 2025',
+    sourceUrl: 'https://mpheadlines.in/2025/12/24/सैलाना-विधानसभा-के-किसान/',
+    date: '2025-12-24',
+    note: 'Bajna janpad ki Ghatalia panchayat ke Dhavadia, Kundiyapada ke Borpada aur Devli ke Ruparel gaon me kul Rs. 21.24 crore ki teen sinchai pariyojnaon — Dhavadia barrage (Rs. 9.55 crore, 570 hectare), Borpada barrage (Rs. 8.10 crore, 467 hectare) aur Ruparel talab (Rs. 3.59 crore, 122 hectare) — ko aupcharik swikriti mili, jinse 1,159 hectare krishi bhumi ko sinchai suvidha milegi. Status: swikriti — vibhag ke mutabik nirman teen mahinon me shuru ho sakta tha; nirman-purnata ki alag khabar nahi mili. Credit-pardarshita: report ke mutabik Dodiyar ne do varshon tak vidhan sabha satron me lagatar maang uthayi aur jal-sansadhan mantri Tulsi Ram Silawat ne maang swikar kar unhen adhikarik patra likhkar soochit kiya; swikriti rajya sarkar/vibhag ki hai, mantri ke patra sahit. Caveat: MP Headlines chhota sthaniya portal hai; swikriti-adhyadesh (GO) ki alag prati nahi mili, isliye date/rakam minister-ke-patra aadharit report par tikki hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rajendra-pandey-alias-raju-bhaiya'] = [
+  {
+    title: 'Jaora-Sitamau marg par 3 adhure bridges ke kaam ko lagbhag Rs 10 crore ki PWD punah-swikriti, Rola, Bhadka aur Asawati me kaam dobara shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Khabarbaba, 27 Feb 2025',
+    sourceUrl: 'https://khabarbaba.com/2025/02/10-crore-gift-for-incomplete-bridge-construction-work-javra-mla-dr-rajendra-pandeys-efforts-will-bring-color/',
+    date: '2025-02-27',
+    note: 'Portal ke mutabik lagbhag 56 km lambe Jaora-Sitamau sadak marg par thekedaar dwara adhure chhode gaye 3 bridge (gram Rola me Rupniya khal, gram Bhadka me Kamla nadi, gram Asawati me Mahadev khal par) ke nirman ke liye Lok Nirman Vibhag ne lagbhag Rs 10 crore 9 lakh ki punah swikriti dekar aadesh jaari kiye; karyaadesh ke baad agency ne kaam shuru karne ki taiyari shuru kar di thi. Status: swikriti — portal ke report me vibhagiya aadesh ka dawa hai. Credit-pardarshita: vidhayak Dr. Rajendra Pandey ke prayas is portal ke framing me bataaye gaye hain. Caveat: khabarbaba.com chhota Ratlam local portal hai, established media nahi — isliye is entry ko dawe ke roop me hi padha jaye.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MP Budget 2024 me Jaora kshetra ke liye lagbhag Rs 26.73 crore ki swikriti ka vidhayak ka dawa — 4 pul, CM adhoshrachna aur 90 gram panchayaton ke grameen karyon ke liye provision',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Khabarbaba, 3 Jul 2024',
+    sourceUrl: 'https://khabarbaba.com/2024/07/ratlam-javra-mp-budget-2024-an-amount-of-rs-26-5-crores-approved-for-various-development-works-in-javra-assembly-mla-dr-rajendra-pandey-said-the-budget-was-for-public-welfare/',
+    date: '2024-07-03',
+    note: 'Vidhayak Dr. Rajendra Pandey ke apne bayan ke mutabik pradesh ke budget me Jaora kshetra ke liye lagbhag Rs 26 crore 72 lakh 97 hazaar ki provision hui, jisme 4 pul (Mahu-Neemuch road Jaora se Bhimakhedi marg, Mandsaur road se audyogik kshetra police thana pahunch marg, Ringnod-Kalaliya marg me Kalaliya ke naale par, Piploda me naye bus stand ke paas Rojad nadi), Jaora aur Piploda nagar me CM adhoshrachna ke Rs 4 crore 90 lakh, aur 90 gram panchayaton ke grameen karyon ke liye Rs 18 crore se adhik shamil hain. Status: ghoshna — GO ya vibhagiya aadesh ka swatantra saboot nahi mila; ye vidhayak ka swayam ka dawa hai. Caveat: chhota local portal, sthal-jaanch ya sarkari dastavezi pushti nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Budget 2025 me Jaora kshetra ko lagbhag Rs 17.48 crore ki swikriti ka vidhayak ka dawa — 3 sadak marg, naliyaan aur samudayik bhavan; pichle hafte 7 pulon ki Rs 16.09 crore swikriti ka bhi dawa',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'MPKiKhabar, 12 Mar 2025',
+    sourceUrl: 'https://mpkikhabar.com/12-mar-2025-8/',
+    date: '2025-03-12',
+    note: 'Vidhayak Dr. Rajendra Pandey ke apne bayan ke mutabik budget me Jaora kshetra ko 3 mahatvapurna sadak marg (Rani gaon se Jhantla lagbhag Rs 3.12 crore, Bahadurpur Khalsa se Moka Kheda Rs 2.30 crore, Bani Khedi se Ramdev mandir Tal road Rs 4.28 crore), Ratlam-Mandsaur mukhya marg me naliyaan (Rs 2.30 crore) aur Jaora me purane Dussehra maidan ke paas samudayik bhavan (Rs 5.48 crore) ki swikriti mili; saath hi unhone dawa kiya ki usse pichle hafte Rs 16 crore 9 lakh ki lagat se 7 sthanon ke bridge-nirman ki swikriti mili thi jinki tender-prakriya shuru ho gayi. Status: ghoshna — GO ya vibhagiya aadesh ka swatantra saboot nahi mila; ye vidhayak ka swayam ka dawa hai. Caveat: mpkikhabar.com chhota Ratlam local portal hai, sthal-jaanch ya sarkari dastavezi pushti nahi mili.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['dr-chintamani-malviya'] = [
+  {
+    title: 'Tal Nagar Parishad ke Rs 84.42 lakh lagat wale vyavsayik dukaan-nirman ka bhoomipujan, kshetriya vidhayak Dr. Chintamani Malviya ke kar-kamalon se',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India-Time24News (blogspot local news blog), 06 Nov 2025',
+    sourceUrl: 'http://india-time24news.blogspot.com/2025/11/84-42.html',
+    date: '2025-11-06',
+    note: '6 Nov 2025 ko Tal Nagar Parishad karyalaya ke samne Jawra-Alot Road par Rs 84.42 lakh lagat se banne wali dukaano ke nirman ka bhoomipujan hua; mukhya atithi ke roop me kshetriya vidhayak Dr. Chintamani Malviya ne bhoomipujan kiya aur shilalekh ka anaavaran kiya — stage shilanyas-bhoomi-pujan hai. Fund-pardarshita: ye Nagar Parishad Tal ka apna project hai (parishad ki aarthik sthiti majboot karne hetu), vidhayak-nidhi ka kaam nahi. Credit-pardarshita: article me MLA ki concrete bhoomika bhoomipujan-karta ke roop me spasht hai, lekin swikriti/fund Nagar Parishad ka hai. Disclosure: source ek chhota blogspot local news blog hai (Tal bureau chief Shivshakti Sharma ki naam-dari report); ye khabar kisi mukhyadhara outlet me nahi mili, isliye entry sirf isi single source par aadharit hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Ratlam district batch REJECT-LOG (2026-10-14) ----
+// mathura-lal-damar: CM-event Kundal maujoodgi, SDRF nala/Kayakalp maujoodgi, Mazdoor mahasangh walkout,
+//   pre-term/galat-vyakti, Disha/baithak items, Narmada-paani maang, YouTube-only; bench-furniture vivad
+//   (sirf jaanch-ki-maang, no FIR/case) -> disclosure, negative nahi.
+// chetanya-kasyap: pre-term x7, sirf-maujoodgi x4 (PM nursing college virtual, CM events),
+//   sirf-maang (Narmada paani 113cr), rajya-stariya mantri items, Kalika Mata samiksha-baithak, non-work.
+// kamleshwar-dodiyar: andolan/virodh items (kaam nahi), maang-patra ashwasan, pre-term bhoomi-pujan,
+//   bina-role sadak vivad, radd talab dawa (kaam hue hi nahi), Dholavad patra/andolan-chetavni, YouTube-only.
+// rajendra-pandey: galat-kshetra/vyakti, pre-term events, pre-event announcement, sirf-prastav items,
+//   parivarik karyakram; coordinator QA me entry 4 (CM ka maang-par stadium ghoshna) HATA di —
+//   maang-par-ailaan entry nahi banti (Tomar/Uikey/Narmadapuram precedent).
+// dr-chintamani-malviya: sansad-kaal pre-term, CM-lokarpan maujoodgi, public.app-only, YouTube-only,
+//   Kayakalp-aarop bina FIR/case, vague dawa, admin postings.
+// Khaali profile: koi nahi — sabse patli malviya (1, blogspot-source, disclosure sahit).
+
