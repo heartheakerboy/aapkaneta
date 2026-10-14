@@ -8122,3 +8122,152 @@ mpWorks['yogendra-singh-baba'] = [];
 // - navrashtramedia Kalchuri samman (10 Mar 2024): samman samaroh, vikas-kaam nahi → reject.
 // - Galat vyakti check: sabhi entries me seat Seoni AC-115 ke vidhayak 'Dinesh Rai Munmun' verify kiya gaya; Lakhnadaun waale alag vidhayak Yogendra Singh hain — koi bhram nahi.
 // // REJECT-LOG rajneesh-harvansh-singh:  (1) Keolari-Chhinda 16 km sadak 'manjuri' (Dainik Yashonnati, 27 Feb 2026) - swikriti ka dawa bina rakam aur bina GO/sanction-order ke; PWD mantri ke nirdesh ka dawa vidhayak ke swayam ke bayan par aadharit; sakht niyam 'bina GO ke dawa = ghoshna' par REJECT. (2) Bheemgarh pul (Rs 8 crore, Naidunia, Jun 2026): 2023 ka bhoomi-pujan tatkalin BJP vidhayak Rakesh Pal Singh ka tha (pre-term); Rajneesh ki bhoomika sirf poorv vidhayak ke anadhikrit fita-katne par virodh/bayan thi - virodh-bayan reject. (3) Gauli samaj karyakram, Bhoma (Samvaddoot, Aug 2025) - samajik-sanskritik karyakram me sirf upasthiti; unka kaam nahi. (4) Gram Sukri raatri karyakram vivad (Dainik Yashonnati, 15 Dec 2025) - ek vikas karya ke bhoomi-pujan karyakram me sarpanch-janpad sadasya vivaad; koi thos kaam, rakam ya stage nahi. (5) Bhatkekhari pratima sthal Rs 2.5 lakh + samajik gate ke liye Rs 2 lakh ki ghoshna - public.app-only report; source REJECT aur ghoshna bina sanction saboot ke REJECT. (6) Samadhi sthal lokarpan, Jhoteshwar (Dec 2024, Jitu Patwari ke saath) - dharmik karyakram me sirf sahbhagita. (7) Sant Ravidas murti anavaran, Chhapara - dharmik karyakram me sirf upasthiti. (8) Khursipar dangal (14 Sep 2025) - khel karyakram me sahbhagita. (9) Madai mela/Govardhan puja, Chhapara (Oct 2025) - utsav me s-parivar upasthiti. (10) Mataji ka shraaddh pujan, Barra (Sep 2024, Central News India) - parivarik-niji mamla; parivar ke mamle kabhi nahi. (11) Svamitva Yojna sampatti-card vitaran, Seoni (18 Jan 2025) - CM karyakram me sirf upasthiti; unhone prastav rakhe, koi thos kaam unhe aaropit nahi. (12) CM Mohan Yadav Seoni karyakram (indianmasterminds) - CM karyakram me sirf maujoodgi. (13) Ola prabhavit kshetron ka daura (20 Mar 2024) - sirf nirikshan/daura; survey-muaavja nirdesh bhi maang ki shreni me. (14) Makka fasal nuksan ka jayza (Bhaskar Hindi, Sep 2026) - sirf nirikshan/daura; sarkari sarveksan ka ashvasan. (15) Kisan andolan chakkajam, Bandol (Bhaskar, 2026) - virodh pradarshan; kaam nahi. (16) TathyaWani YouTube report (Aug 2026) 'vikas ki kami' - YouTube-only source REJECT; vaise bhi keval shikayaten, established reporting nahi. (17) Vanshkar samaj bhavan ke liye Rs 5 lakh ki ghoshna (YouTube/HK News Seoni, 211 days ago) - YouTube-only REJECT + vidhayak-nidhi ghoshna bina sanction saboot ke REJECT. (18) Behnatola sadak me bhrashtachar (YouTube) - YouTube-only REJECT. (19) 'Leadership under question' vishlesh (Dainik Yashonnati, 12 Ju
+
+// ---- Shahdol district batch (researched 2026-10-14) ----
+// Coordinator QA note: manisha-singh worker ki 4 aur kol worker ki 3 entries ke titles English me the —
+// Roman Hinglish me kar diye gaye. Kol ki ring-road entry ka badge 'sarkari' se 'news' kiya (media-reported
+// sanction hai, sarkari record nahi); swikriti rakhi gayi kyunki Amar Ujala established media hai aur unka
+// CM ko diya gaya prastav dastavezi hai (Singhar/Nirmala-Bhuria precedent). Koi profile khaali nahi rahi.
+
+// Shahdol district batch — SHARAD JUGLAL KOL (worker 2/3, coordinator-edited: badge sarkari->news, titles Roman Hinglish)
+mpWorks['sharad-juglal-kol'] = [
+  {
+    title: 'Beohari me 14 km ring road ke Rs 81 crore nirman ko cabinet ki swikriti — MLA Sharad Kol ne CM se prastav rakha tha aur maang jaari rakhi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 5 Mar 2024',
+    sourceUrl: 'https://www.amarujala.com/madhya-pradesh/shahdol/cm-mohan-yadav-cabinet-approved-beohari-ring-road-2024-03-05',
+    date: '2024-03-05',
+    note: 'Stage: swikriti. Established media ne tareekh aur rakam ke saath cabinet approval ki report di. MLA ne Beohari daure me tatkalin CM ko ring road ka prastav diya tha aur nai sarkar me bhi maang jaari rakhi, uske baad cabinet ne Rs 81 crore ki swikriti di. Ye sarkari pariyojna hai, vidhayak-nidhi ka kaam nahi; credit sirf dastavezi pahal tak seemit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gandhiya ke Sitamari Ram Path Gaman dham me Rs 25 lakh ke bhavan aur Rs 15.78 lakh ke peya-jal/solar karyaon ka bhoomi-pujan — Sansad ke saath sanyukt',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Kalyug Ka Ghotala, 18 Jul 2025',
+    sourceUrl: 'https://www.kalyugkaghotala.in/2025/07/blog-post_18.html',
+    date: '2025-07-18',
+    note: 'Stage: bhoomi-pujan. Srot chhota Shahdol blog-portal hai — disclosure. Sansad ke saath sanyukt karya tha, isliye shrey sanyukt hai, keval MLA ka nahi. Fund rajya sarkar ki Lok Parisampatti Prabandhan yojana se, vidhayak-nidhi se nahi. Gandhiya-Sitamari Beohari vidhan sabha kshetra me hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gandhiya me Rs 22 lakh ki anganwadi boundary wall aur Rs 19 lakh ke Meethi prathmik vidyalaya ka lokarpan — Sansad ke saath sanyukt',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Kalyug Ka Ghotala, 18 Jul 2025',
+    sourceUrl: 'https://www.kalyugkaghotala.in/2025/07/blog-post_18.html',
+    date: '2025-07-18',
+    note: 'Stage: lokarpan. Wahi chhota Shahdol blog-portal — disclosure. Sansad ke saath sanyukt udghatan, shrey sanyukt. Kaam rajya yojana ke fund se poore hue, vidhayak-nidhi se nahi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (sharad-juglal-kol):
+// - CM Mohan Yadav Kol convention / Sitamari dham event (747.91 cr, hospital/tehsil announcements, 30-bed Beohari hospital) — CM event, MLA sirf maujood, concrete bhoomika nahi.
+// - Vidhayak-nidhi Rs 33 lakh (ambulance/COVID) — pre-term (2021) kaam.
+// - Gausala nirikshan (livegoodmorning) — sirf nirikshan, koi kaam nahi.
+// - CM Rise school 9 buses hari jhandi (public.app) — public.app-only source + sirf jhandi, fund/kaam nahi.
+// - Sand mafia attack on family (ZeeNews) — parivar ka mamla, KABHI nahi.
+// - Kamal Nath government support statements (2019) — pre-term rajneeti, kaam nahi.
+// - Sarsi Island CM inauguration, RIC Shahdol, Birsa Munda convention announcements — CM/rajya pariyojna, MLA ki concrete bhoomika absent.
+// - Balram Krishi Mahotsav (Sep 2026) statement on 4 micro-irrigation projects — "swikriti shighra milne wali" = bhavishya ghoshna, koi swikriti saboot nahi.
+// - Dainik Bhaskar "dhai crore" snippet — kaunsa vidhayak confirm nahi, khula bhi nahi (redirect), source verify nahi hua.
+// - Sura tunnel/Gadkari program (Beohari-New Sapta 87 cr road) — central mantri ka karyakram, MLA sirf maujood.
+// - Sansad-kaal ke koi bhi kaam — term Dec 2023 se pehle, deliberately excluded.
+
+// Shahdol district batch — MANISHA SINGH (worker 1/3, coordinator-edited: titles Roman Hinglish me)
+mpWorks['manisha-singh'] = [
+  {
+    title: 'Katira (Jaisinghnagar) me Siddhbaba nala par Rs 14.91 lakh ke Jal Ganga Sanvardhan catchment aur treatment karya ka bhoomi-pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Indian TV News (ITN National), 23 Jun 2024',
+    sourceUrl: 'https://indiantvnews.in/archives/48792',
+    date: '2024-06',
+    note: 'Stage: bhoomi-pujan (work begun). Ye sarkari yojana ka kaam hai — MGNREGA ke antargat aur pradesh sarkar ki Jal Ganga Sanvardhan yojana ke tahat; swikriti mukhya karyapalan adhikari Janpad Panchayat Jaisinghnagar dwara di gayi thi, ye vidhayak-nidhi ka kaam nahi hai. Vidhayak ki dastavezi bhoomika bhoomi-pujan karne tak seemit thi, isliye poore shrey ki pushti nahi hoti. Srot ek chhota regional portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khannaudhi (Gohparu) me Rs 46 lakh ke naye Panchayat Bhavan ka bhoomi-pujan (Sushasan Diwas ke avsar par)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhagya Vidhata, Dec 2024',
+    sourceUrl: 'https://www.bhagyavidhata.in/madhya-pradesh/shahdol/gohparu/bhoomi-pujan-for-construction-of-new-panchayat-building-in-khannaudhi/',
+    date: '2024-12',
+    note: 'Stage: bhoomi-pujan (work begun). Khannaudhi gaon ki seat-pushti alag se ki gayi — ye Jaisinghnagar (ST) AC-84 ke antargat aata hai. Nirman sarkari mad se swikrit hai, vidhayak-nidhi se nahi; vidhayak ki bhoomika bhoomi-pujan tak seemit thi. Srot ek chhota local portal hai. Article me tithi chhapi nahi hai, karyakram Sushasan Diwas (25 Dec) ke avsar par hua isliye sirf maah diya gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jaisinghnagar me Rs 25 lakh ke green-area (park) vikas karya ka bhoomi-pujan — Amrit 2.0 ke tahat swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, 20 Dec 2025',
+    sourceUrl: 'https://voiceofmp.com/user/description/Description_control/news_description/334230',
+    date: '2025-12-20',
+    note: 'Stage: bhoomi-pujan (work begun). Ye Amrit 2.0 ke antargat swikrit sarkari yojana ka kaam hai, vidhayak-nidhi ka nahi; Nagar Parishad Jaisinghnagar karyanvayan agency hai aur vidhayak ki bhoomika karyakram me mukhya-atithi ke roop me bhoomi-pujan tak seemit thi. Srot ek chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jaisinghnagar me Rs 2.32 crore ke sewage treatment plant (STP) ka bhoomi-pujan — Swachh Bharat Mission 2.0 ke tahat swikrit',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, 20 Dec 2025',
+    sourceUrl: 'https://voiceofmp.com/user/description/Description_control/news_description/334230',
+    date: '2025-12-20',
+    note: 'Stage: bhoomi-pujan (work begun). Ye Swachh Bharat Mission 2.0 ke antargat swikrit sarkari yojana ka kaam hai, vidhayak-nidhi ka nahi; Nagar Parishad Jaisinghnagar karyanvayan agency hai aur vidhayak ki bhoomika karyakram me mukhya-atithi ke roop me bhoomi-pujan tak seemit thi. Srot ek chhota local portal hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (manisha-singh):
+// - public.app (ward 13 bhoomi-pujan) — pre-event ghoshna ("ayojit kiya jayega") + public.app-only source — double reject.
+// - drmsnews.in (Adi Karmayogi orientation workshop) — sirf bhashan/maargdarshan, koi kaam nahi.
+// - yesnews.co.in (Seva Sankalp chitrakala/bhashan pratiyogita) — mukhya-atithi upasthiti, koi vikas-kaarj nahi.
+// - bebakshakti.com / seetimes.in (7 Mar 2026 media vartalap) — sirf bhashan, koi kaam nahi.
+// - naradweb.com (Sep 2026 raktdaan shivir, medical college Shahdol) — ek-divasiya shivir ka shubharambh, "work" nahi.
+// - dainikbharti.in (14 Aug 2026 raktdaan shivir, Civil Hospital Jaisinghnagar) — ceremonial mukhya-atithi.
+// - seetimes.in (27 Jan 2026 suruchi bhoj, PMShri school Kotma) — karyakram me upasthiti, koi kaam nahi.
+// - livegoodmorning.com (Viksit Bharat sankalp sabha) — sirf bhashan/upasthiti.
+// - amarujala.com (Jais/Amethi Manisha Singh nagar palika adhyaksh) — galat vyakti (UP ki Manisha Singh), seat mismatch.
+
+// Shahdol district batch — JAI SINGH MARAVI (worker 3/3, coordinator-edited: titles Roman Hinglish)
+mpWorks['jai-singh-maravi'] = [
+  {
+    title: 'Devari (Jaitpur) me gram panchayat ke naye office bhavan ka bhoomi-pujan — lagat lagbhag Rs 34 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, 27 Aug 2025',
+    sourceUrl: 'https://voiceofmp.com/userap/dashboard/newsDesc/325590',
+    date: '2025-08-26',
+    note: 'Article ki headline lokarpan kehti hai lekin body me saaf hai ki abhi banne wale bhavan ki pooja-archana hui thi — stage ka sach bhoomi-pujan (nirmaan shuru) hai, poorna nahi. MLA Jaisingh Maravi ne swayam Devari gram panchayat (apni Jaitpur seat) me karyakram kiya, attribution concrete hai. Voice of MP chhota local portal hai — disclosure. Article me fund (vidhayak-nidhi ya panchayat/vibhag) ka ullekh nahi, isliye fund ka dawa nahi kiya gaya. Ek vichitra baat: article me "Vidhayak Rakesh Kalia" ko uddhrit kiya gaya hai jo Shahdol ke kisi vidhayak se match nahi hota — portal ki typo sambhav hai; bhoomi-pujan ka shrey spasht roop se Jaisingh Maravi ko diya gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Devari (Jaitpur) me nayi gravel sadak ka bhoomi-pujan — lagat lakhon me, itemized rakam nahi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, 27 Aug 2025',
+    sourceUrl: 'https://voiceofmp.com/userap/dashboard/newsDesc/325590',
+    date: '2025-08-26',
+    note: 'Devari panchayat office wali post-event article me hi report hui dusri work — MLA Jaisingh Maravi ne swayam apni Jaitpur seat me karyakram kiya. Stage bhoomi-pujan (kaam shuru), poorna nahi. Sadak ki lagat itemized nahi hai, sirf "lakhon rupaye" likha hai aur fund-srot ka ullekh nahi — isliye na rakam na fund-srot ka dawa. Voice of MP chhota local portal hai — disclosure.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (jai-singh-maravi):
+// - indiakhabar24.co.in (11 Aug 2024) / bpknew.com — mukhyamantri course-launch karyakram me MLA sirf maujood the; koi unke dwara karya nahi.
+// - onlinebulletin.in / khabar24news.com (18 Aug 2024) — Keshwahi shaskiya gaushala ka sirf nirikshan; nirikshan/daura = reject.
+// - drmsnews.in (July 2023) — Dadra school boundary wall (~Rs 25 lakh) bhoomi pujan, lekin Dec 2023 karyakaal se pehle aur tab ve Jaisingnagar ke vidhayak the.
+// - mpayushnews.com — Mohani (Khariha nala) stop dam shilanyas, March 2023, Jaisingnagar seat; pre-tenure.
+// - atulyabharatchetna.org.in — District Mineral Foundation nyas-mandal baithak 2025-26; sirf upasthiti/baithak, koi karya nahi.
+// - indianmasterminds.com — CM Shahdol visit: MLA ne maang rakhi aur dhanyavad diya; CM karyakram me sirf maujoodgi + maang = reject.
+// - newsmakhani.com (Jan 2024, CM Jan Abhar yatra Shahdol) — MLA ka naam sirf upasthit logon me; sirf maujoodgi.
+// - bebakshakti.com (June 2025) — "Ek ped maa ke naam" paudharopan Arjhula; pratikik karyakram, koi vikas-nirman karya nahi.
+// - Naidunia e-paper (5 Jun 2026) — World Environment Day tree planting, Gohparu; koi karya nahi.
+// - naradweb.com (Jan 2024) — MLA ke vahan ka accident; khabar vikas-karya se sambandhit nahi.
+// - livehindustan.com — Bulandshahar ke "Jaitpur" me library bhoomi pujan vidhayak Lakshmiraj Singh ne ki; galat seat/vyakti (UP).
+// - youtube.com (ai24news) — Moradabad Kundarki MLA ka Jaitpur-Visahat road shilanyas; galat Jaitpur (UP Moradabad).
+// - youtube.com — Delhi ke Jaitpur ki 9 km road wali khabar; galat seat (Delhi).
+// - livegoodmorning.com / yesnews.co.in / seetimes.in — seva-sankalp sabha, BJP samiksha baithak, Keshwahi abhiyan; sab me MLA sirf upasthit; koi karya nahi.
+
