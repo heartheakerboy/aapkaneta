@@ -94,7 +94,7 @@ const critHead = extra ? '👎 Aalochak kya kehte hain' : '👎 Sawal uthne wale
 // ---------- SEO: samriddh meta description + Person schema + jile ke anya neta (interlinking) ----------
 const pageUrl = `https://aapkaneta.org${base}/neta/${neta.slug}/`;
 const descParts: string[] = [`${neta.name} (${neta.partyShort}, ${neta.post} — ${neta.constituency}, ${stateName}) ne apne karyakaal me kya kaam kiya?`];
-if (neta.works.length) descParts.push(`Karyakaal ke ${neta.works.length} satyaapit kaam darj hain.`);
+if (neta.works.length) descParts.push(`Karyakaal ke ${neta.works.length} satyaapit kaam darj ${neta.works.length === 1 ? 'hai' : 'hain'}.`);
 if (ok(b.assets)) descParts.push(`Chunav halafnama: ghoshit sampatti ${b.assets}${b.criminalCases === 0 ? ', koi aaparaadhik mamla nahi' : `, ${b.criminalCases} aaparaadhik mamle darj`}.`);
 descParts.push('Poora record — kaam ka hisaab, halafnama, sampatti aur janta ki rai — AapkaNeta par.');
 const metaDescription = descParts.join(' ');
