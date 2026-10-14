@@ -8467,3 +8467,32 @@ mpWorks['ghanshayam-singh-chandrawanshi'] = [
 // Bike-stunt video (Punjab Kesari/TimesNow, Sep-Oct 2026): khud thana jaakar Rs 1000 ka challan katwaya aur video maafi jaari ki — koi FIR/case/adalaati ya adhikarik jaanch nahi; virodhi ki shikayat par bina adhikarik karyavahi ke negative bar fail — negative entry nahi (political episode).
 // YouTube-only: Balaji Hospital nishulk jaanch shivir me maujoodgi, Yuva Morcha aabhaar, 4 lakh paudhe sankalp, abhibhashak sangh samman samaroh me upasthiti — YouTube-only, koi kaam nahi.
 // School/hospital/paani ke alag sthayi kaam (2023-2028): established media me koi qualifying post-event reporting nahi mili.
+
+// ---- Sheopur district batch (researched 2026-10-14) ----
+mpWorks['babu-jandel'] = [
+  {
+    title: 'Bhagwan Shiv par aapattijanak tippani ke aarop me MLA Babu Jandel par FIR — Jandel ka dawa: video edit karke failaya gaya, ve khud Shiv bhakt hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Republic World, 19 Oct 2024',
+    sourceUrl: 'https://www.republicworld.com/india/case-against-congress-mla-babu-jandel-in-mp-for-using-derogatory-language-against-lord-shiva',
+    date: '2024-10-19',
+    note: 'NEGATIVE ENTRY: Vishva Hindu Parishad legal cell convener Anil Naidu ki shikayat par Indore ke Tukoganj thane me BNS sections 299 aur 302 ke tahat FIR darj; DCP Hansraj Singh ne confirm kiya ki Sheopur me bhi isi mamle me pehle se FIR thi aur Indore wali usi se attach hogi. Neta ka jawab: Jandel ne kaha video unhe badnaam karne ke liye edit karke failaya gaya hai aur ve swayam Shiv bhakt hain. Dhyan rahe: video ke purane ya doctored hone ka dawa Jandel ka apna hai; adalati sthiti is report me nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shiv Barat juloos me ghode se harsh firing ke aarop me MLA Babu Jandel par case darj; Jandel ne FIR ko rajnaitik batakar vidhan sabha me shirshasan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 28 Feb 2026',
+    sourceUrl: 'https://www.freepressjournal.in/bhopal/mp-news-congress-mla-babulal-jandel-performs-shirshasan-at-assembly-premises-sheopur-legislator-demands-withdrawal-of-fir',
+    date: '2026-02-27',
+    note: 'NEGATIVE ENTRY: Mahashivratri par Shiv Barat juloos me ghode par baithkar kathit harsh firing ka video viral hone par police ne sangyaan liya aur case darj kiya. Neta ka jawab: Jandel ne kaha unhone keval dharmik karyakram me hissa liya tha, FIR vipakshi hone ki wajah se rajnaitik hai, aur Gandhi pratima ke saamne shirshasana karke FIR wapas lene ki maang ki; Congress ne Zero Hour me hangama karke walkout bhi kiya. Tithi disclosure: virodh shukrawar 2026-02-27 ko hua, khabar 2026-02-28 ko prakashit.',
+    period: '2023-2028',
+  },
+];
+mpWorks['mukesh-malhotra'] = [
+];
+// ---- Sheopur district batch REJECT-LOG (2026-10-14) ----
+// mukesh-malhotra — profile KHAALI: zero qualifying entries. 23 Nov 2024 ke upchunav me jeete (parinam ghoshna; Ramnivas Rawat ne seat khaali ki thi). Dec 2023+ coverage lagbhag poori tarah adalaati ladai (HC voiding Mar 2026, SC stay 20 Mar 2026) par kendrit; koi lokarpan/shilanyas/vidhayak-nidhi sanction/dastavezi swikriti/sankhyaon wala shivir nahi mila. Reject: cricket tournament inauguration (event), BhopalSamachar work-record (17 vidhansabha prashn — sirf maang), Bhaskar workers-conference (maang list), Karahal dharna + 14-sutriya gyapan (protest), dhanyavaad-sabha bhashan (bayaan), post-win interview ("karenge"), NBT election-office inauguration (pre-tenure), sarpanch-pad istifa (prashasnik), saari HC/SC khabrein (task-brief ke anusaar adalaati prakriya par entry nahi). SC stay ke baad unki vidhayak-nidhi + vetan par antarim rok hai — Mar 2026 ke baad nidhi-entries sambhav nahi (future pass ke liye note).
+// babu-jandel — 2 NEGATIVE entries pass (upar). Reject: MLA Cup cricket chief-guest ribbon-cut (sirf maujoodgi), Chambal Expressway muavza dharna/shirshasana (protest), kisan muavza 11-din dharna + bhookh hadtal (maang), vidhansabha shirshasana "budget me kuch nahi" (bayaan), Disha baithak me sawal (sirf maang), Gandhi smriti dwar Rs 5 lakh ailaan Feb 2019 (pre-term), sinchai-vibhag engineer marpeet case 2019 conviction + jail (pre-term; mpbreakingnews ka page bina date), mahila police adhikari gaali FIR Mar 2023 (pre-term), tehsildar tu-tadak video (bina FIR/case — negative bar fail), CM Sheopur daura ghoshnaen Rs 37.67 cr (sarkar ka kaam — unpar nahi), auto nahar me girne par 4 yuvakon ka bachav ~Holi 2025 (one-off personal rescue, kaam nahi), bus durghatna ghayalon ka haal-chaal (daura), blood-donation camp maujoodgi (sirf maujoodgi).
