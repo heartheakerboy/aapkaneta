@@ -2115,3 +2115,53 @@ tamilNaduWorks['vijay-m'] = [];
 // NOTE: CM C. Joseph Vijay aur Usilampatti MLA Vijay Mahalingam (vijay-m) alag-alag vyakti hain — search-set ki saari CM khabrein isi profile se baahar rakhi gayi hain.
 
 // QA note (coordinator, 15 Oct 2026): 10/10 MLA researched; 4 entries (p-viswanathan 1 lokarpan + 1 negative POCSO-complaint, nirmalkumar-r 1 shilanyas pani-pipeline, thangapandi-sr 1 negative rice-diversion aarop+janch); 6/10 profiles imaandari se khaali; CM-C.-Joseph-Vijay vs vijay-m trap khaali me; har entry ka srot khud khola gaya; credit-transparency notes me darj hai; entry objects me koi comment nahi; titles/notes Roman Hinglish + Rs.
+
+// ---- Mayiladuthurai district batch (researched 2026-10-15) ----
+tamilNaduWorks['senthilselvan-r'] = [];
+
+// REJECT-LOG (senthilselvan-r, Sirkazhi AC, Mayiladuthurai):
+// 1. The Hindu, Jun 2026: "Mayiladuthurai MP reviews implementation of Central schemes" — Senthilselvan sirf DISHA meeting me upasthit MLAs ki soochi me tha, koi lokarpan/shilanyas/swikriti nahi — sirf maujoodgi, REJECT.
+// 2. news.webindia123.com, 2 Jul 2026: Tamil Nadu Agriculture Department awareness programme me maujoodgi; reporters se MDMK speculation par baat ki, "focused on public service" — maujoodgi + politics, koi kaam nahi, REJECT.
+// 3. lokmattimes.com, 27 Jun 2026: "MDMK ends nine year alliance with DMK" — Senthilselvan ke DMK me jaane ki atkalen — politics, work nahi, REJECT.
+// 4. rediff.com, 6 Aug 2026: T.M. Rajendran aur R. Senthil Selvan ne Vaiko ke istife ke aadesh ko mana kiya, DMK legislators ke roop me kaam jaari — party politics, work nahi, REJECT.
+// 5. nationalheraldindia.com, Jun 2026: "MDMK snaps ties with DMK" — MLA switch speculation — politics, REJECT.
+// 6. DT Next topic page (Sirkazhi): "Poll plea against Sirkazhi MLA dismissed" — chunav-yachika dismissed; niyam ke anusaar chunav-yachika akeli negative NAHI, aur kaam bhi nahi — REJECT.
+// 7. May 2026 election coverage (TOI/Indian Express/Business Today/India TV/Oneindia) — jeet ki reporting (71,449 votes, 11,417 margin) — chunav, koi kaam nahi, REJECT.
+// 8. "Senthil Balaji" flood-relief reporting (The Hindu, Nov 2022) — alag vyakti (ex-minister V. Senthil Balaji) — naam-trap, REJECT.
+// 9. CM Stalin ke Jul 2025 ke Mayiladuthurai announcements (South First/The Hindu) — purane karyakaal + mukhyamantri ka kaam, is MLA ka nahi — REJECT.
+// 10. May 2026 se Oct 2026 tak kisi bhi established English source me is MLA ke kisi lokarpan, shilanyas, MLACDS swikriti ya inauguration ka post-event report nahi mila — 6 search round ke baad profile imaandari se khaali.
+
+// QA: profile empty rakhi gayi — mile saare hits ya to election/politics/presence coverage the, ya galat vyakti ke; kamzor attribution se khaali behtar.
+
+// ---- Mayiladuthurai district batch: jamal-mohamed-younoos-y-n — researched 15 Oct 2026 ----
+tamilNaduWorks['jamal-mohamed-younoos-y-n'] = [];
+
+// REJECT-LOG (jamal-mohamed-younoos-y-n, Mayiladuthurai AC, Mayiladuthurai)
+// 1. "Mayiladuthurai MLA moves resolution condemning alleged caste discrimination against Kharge" — DT Next, 16 Aug 2026 (https://www.dtnext.in/news/tamilnadu/mayiladuthurai-mla-moves-resolution-condemning-alleged-caste-discrimination-against-kharge). Article khola aur padha gaya. MLA Jamal Mohamed Younoos Y N ne Independence Day ki Gram Sabha me AICC adhyaksh Mallikarjun Kharge ke khilaaf alleged jaati-bhedbhaav ki ninda ka prastav rakha. Yeh vikas-kaam nahi — rajneetik prastav/ninda, isliye REJECT (sirf maujoodgi/maang/prastav = reject).
+// 2. "Mayiladuthurai MLA booked for assaulting cop in Chennai" — The New Indian Express / DT Next, 20 Oct 2025 (pre-election, purana MLA S. Rajakumar ke khilaaf). Naam-trap: yeh Jamal Mohamed Younoos ke khilaaf nahi; karyakaal se pehle ka. REJECT.
+// 3. "Tamil Nadu Elections 2026: Slow progress of infrastructure, unemployment frustrate Mayiladuthurai constituency voters" — The Hindu (chunav-se-pehle, ~Apr 2026). Yeh chunavi coverage hai, karyakaal ka kaam nahi. REJECT.
+// 4. Election-result coverage (TOI, Business Today, Oneindia, LiveChennai, Wionews, ABP Live) — sabhi sirf 4-6 May 2026 ke parinaam report karte hain, koi vikas-kaam nahi. REJECT.
+// 5. Old articles (Ziegenbalg memorial foundation stone — S. Rajakumar ka karyakaal; district formation 2020; building collapse Nov 2024; collectorate 2022-23; auditorium 2024; medical-college land donation 2019) — sab May 2026 se pehle ya Younoos se asambandhit. REJECT.
+// 6. Negative check: Oneindia "Tamil Nadu MLAs With Criminal Cases" list me "Jamal Yunus Mohammed — Mayiladuthurai — INC — 0 case". Koi FIR/case/adalaati sthiti ke credible report nahi mile. Chunav-yachika ke koi saboot nahi. Koi negative entry nahi.
+
+// ---- Mayiladuthurai district batch: nivedha-m-murugan — researched 15 Oct 2026 ----
+tamilNaduWorks['nivedha-m-murugan'] = [
+];
+
+// REJECT-LOG (nivedha-m-murugan, Poompuhar AC, Mayiladuthurai)
+// 1. TOI "Poompuhar Assembly Results 2026: DMK's Nivedha M. Murugan wins" (4 May 2026) — chunav parinaam, vikas-kaam nahi; works-mining ke daiyre se bahar.
+// 2. The Hindu "Chief Minister inaugurates new bus stand in Mayiladuthurai" (~Mar 2026) — pre-May 2026 bhi hai aur article me MLA sirf maujood the (udaroghan CM ne video-conference se kiya); sirf maujoodgi = reject.
+// 3. The Hindu "Chief Minister Stalin inaugurates renovated Poompuhar tourism complex" (~Feb 2026) — pre-May 2026; MLA ki sirf maujoodgi, kaam Tourism Department ka = reject.
+// 4. TOI "Renovated Poompuhar tourism centre opened" (~Feb 2026) — pre-May 2026; MLA maujood bhi nahi darj = reject.
+// 5. DT Next "Poompuhar tourist spot gets Rs 23 cr upgrade" (Apr 2023) — pre-May 2026 (teen saal purana); MLA sirf maujood = reject.
+// 6. The Hindu "Tourism infrastructure work begins at Poompuhar under Rs 23.60-crore heritage project" (~Jun 2026) — post-May 2026 hai lekin departmental project hai; article me MLA ka naam tak nahi; MLA-credit ki koi reporting nahi = reject.
+// 7. The Hindu "Mayiladuthurai MP reviews implementation of Central schemes" (~Jun 2026) — DISHA meeting MP R. Sudha ki adhyakshata me hui; MLA Nivedha M. Murugan sirf maujood the; sirf nirikshan/maujoodgi = reject.
+// 8. Indian Express "Poompuhar: Two kilometres off Tamil Nadu coast, a lost world emerges from sea" (Sep 2026) — underwater archaeology story; MLA se koi jod nahi = reject.
+// 9. The Hindu "Minister inaugurates desilting project in Mayiladuthurai" (Apr 2025) — pre-May 2026; mantri ka udaroghan, MLA sirf maujood = reject.
+// 10. webjosh "Ministers inaugurate third phase of 'Makkaludan Mudhalvar' camp at Sembanarkoil" (Jan 2025) — pre-May 2026; mantriyon ka kaam = reject.
+// 11. The Hindu "Viral video of DMK functionary speaking on Cauvery issue" (Oct 2023) — pre-term; kathan DMK up-jila sachiv Gnanavelan ka tha, MLA ka nahi = reject.
+// 12. godubai Malabar Gold & Diamonds showroom press release (~2023) — niji showroom ka event; MLA ki maujoodgi vyavasayik samaroh me, vikas-kaam nahi = reject.
+// 13. The Hindu candidate profile 2026 affidavit — MLA ne 1 pending criminal case declare kiya (0 serious). Koi credible news reporting, FIR detail, ya court-status nahi; sirf affidavit declaration hai — negative ke niyam (credible reporting + stage + jawab) poore nahi = negative ke roop me reject.
+// 14. fishery.news "Tamil Nadu CM Stalin unveils new fisheries infrastructure" (~2023) — pre-May 2026; MLA sirf maujood = reject.
+
+// COORDINATOR QA NOTE (Mayiladuthurai, 15 Oct 2026): 3/3 MLA researched (3 parallel workers), teeno profiles imaandari se khaali (0 entries). Sabhi reject-logs Roman Hinglish me; 0 Tamil/Devanagari script, 0 Rs-symbol issues, 0 literal-\n; entry objects me 0 comments. Teenon slugs append se pehle file me 0 matches the — koi overwrite nahi.
