@@ -3617,3 +3617,109 @@ biharWorks['raj-kumar-ray'] = [];
 
 
 // COORDINATOR QA (Samastipur): 3 workers (A/B/C) ke fragments ko AC order 131->140 me canonical schema par merge kiya. Kul 3 entries: alok-kumar-mehta (Ujiarpur library lokarpan, MKVY, Rs 13 lakh, ujjarpurnews — entry lokarpan tak seemit, vidhayak ke 22-library dawe ka disclosure), ranvijay-sahu (Morwa 2 model school bhavan lokarpan, Prabhat Khabar — est. date disclosed, fund-srot article me nahi), birendra-kumar (Singhiya Ghat samanantar pul FY 2026-27 karyayojana me shamil — stage imaandari se ghoshna, chhota-portal disclosure, sanction/GO nahi mila). 7 profiles imaandari se khaali: maheshwar-hazari, manjarik-mrinal, ashwamedh-devi, vijay-kumar-choudhary (Dy CM — mantri-niyam sakhti se, pre-event item bhi reject), rajesh-kumar-singh, ajay-kumar-138, raj-kumar-ray. Sabhi 10 slugs pehle maujood nahi the — koi overwrite nahi; marker 1x; 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; titles pure Roman-Hinglish vakya; currency "Rs"; badges news (3/3); categories Sadak/School; stages lokarpan/ghoshna; period '2025-2030' sabhi me; sourceUrls canonical (ujjarpurnews.com, prabhatkhabar.com, samastipurtown.com).
+
+
+// ---- Saran district batch (researched 2026-10-14) ----
+
+
+biharWorks['manoranjan-singh'] = [
+  {
+    title: 'Nawada Higher Secondary School Rasulpur me Plus Two bhawan ka lokarpan',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2025-12-23',
+    description: 'Live Hindustan ki 23 Dec 2025 ki report ke anusar Ekma ke JD(U) MLA Manoranjan Singh urf Dhumal Singh ne Rasulpur ke Nawada Higher Secondary School me naye Plus Two bhawan ka lokarpan kiya, jisme shiksha ke mahatva par charcha hui aur Bihar Vidhan Sabha ki paryatan udyog sambandhi samiti ke sabhapati hone ke nate unhone Nitish sarkar ke education karyon ki sarahna ki. Note: khabar me bhawan ke fund source, yojana ka naam ya swikriti rakam ka koi disclosure nahi hai — established media me report hua lokarpan event ke roop me liya gaya hai.',
+    source: 'Hindustan, 23 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/chapra/story-inauguration-of-plus-two-building-at-nawada-school-by-mla-manohar-singh-dhumal-201766507293707.html',
+    badge: 'news',
+    period: '2025-2030'
+  }
+];
+
+// REJECT-LOG (manoranjan-singh): 1. CHC Ekma inspection (Live Hindustan, May 2026) aur jagatdarshannews CHC warning (15 May 2026) — sirf nirikshan/chetawani, koi kaam shilanyas/lokarpan/swikriti nahi — wajah: nirikshan-only. 2. Shiv Shakti Dham tourism committee visit (jagatdarshannews, 23 Sep 2026) — sirf nirikshan + aashwasan (sifarish bhejne ki baat), koi sanctioned kaam nahi — wajah: nirikshan/aashwasan-only. 3. Baba Dhodhnath temple tourism inspection (Live Hindustan) — sirf nirikshan — wajah: nirikshan-only. 4. news4nation/jagatdarshannews victory/aawas stories (Nov 2025) — election news, koi vikas kaam nahi — wajah: non-work. 5. newstrack.com land-grab allegation (Jan 2026) — negative check: sirf peedit ka aarop, established reporting me FIR/case status ya MLA ka jawab nahi — wajah: negative qualify nahi hua.
+
+
+biharWorks['randhir-kumar-singh'] = [
+  {
+    title: 'Manjhi ki Kaurudhauru panchayat me nav-nirmit grameen sadak ka lokarpan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-08-08',
+    description: 'Ambika News ki August 2026 ki post-event report ke anusar Manjhi ke JD(U) MLA Randhir Kumar Singh ne Manjhi prakhand ki Kaurudhauru panchayat ke Kaurudhauru gaon me nav-nirmit grameen sadak ka fita kaatkar lokarpan kiya; isse pehle unhone Dumduma me janta darbar lagakar samsyaon ke niwaran ke nirdesh diye the. Note: exact date page par nahi dikhi — article me shanivar ka ullekh aur search metadata ke aadhar par 8 Aug 2026 est; khabar me sadak ke fund source, yojana ya rakam ka disclosure nahi hai. Disclosure: Ambika News ek chhota sthaniya portal hai — established media se corroboration nahi mila, isliye entry lokarpan ki post-event reporting tak seemit rakhi hai.',
+    source: 'Ambika News, Aug 2026',
+    sourceUrl: 'https://ambalikanews.in/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A6%E0%A5%87%E0%A4%B6/%E0%A4%AE%E0%A4%BE%E0%A4%82%E0%A4%9D%E0%A5%80-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%9C%E0%A4%A6%E0%A4%AF%E0%A5%82-%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4/',
+    badge: 'news',
+    period: '2025-2030'
+  },
+  {
+    title: 'Jalalpur me truck se kshatigrast Pt Mahendra Mishra smarak ki marammat ki ghoshna',
+    category: 'Any',
+    stage: 'ghoshna',
+    date: '2026-08-09',
+    description: 'Live Hindustan ki report ke anusar Jalalpur me janta darbar ke dauran Manjhi ke JD(U) MLA Randhir Kumar Singh ne bataya ki aniyantrit truck ki takkar se Bhojpuri ke prasiddh kavi Pt Mahendra Mishra ka smarak kshatigrast ho gaya tha; jankari milte hi unhone vyaktigat pahal par use thik karane ka nirdesh apne ek karyakarta ko diya aur marammat ka kaam chal raha hai. Note: exact date page par nahi dikhi — search metadata aur August Kranti Diwas sandarbh ke aadhar par 9 Aug 2026 est; khabar me kisi sarkari yojana, vibhagiya swikriti ya rashi ka ullekh nahi hai, ye vidhayak ki apni pahal ke roop me report hui hai, fund source disclosed nahi hua.',
+    source: 'Hindustan, Aug 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/chapra/story-restoration-of-pandit-mahendra-mishra-s-memorial-after-truck-accident-201786291818111.html',
+    badge: 'news',
+    period: '2025-2030'
+  }
+];
+
+// REJECT-LOG (randhir-kumar-singh): 1. Maa Vindhyavasini Automobile showroom inauguration Ekma (jagatdarshannews, 18 Jan 2026) — private business ka udghathan, public development work nahi — wajah: non-work. 2. Manjhi panchayat samiti meeting (jagatdarshannews, 9 Dec 2025) — sirf baithak/aashwasan — wajah: non-work. 3. Flood/tatbandh stories (Hindustan Samachar/Live Hindustan, Oct 2026) — baadh rahat/appeal/janch-maang, koi development kaam nahi — wajah: non-work. 4. Manjhi crematorium 4.5 crore story (Live Hindustan, Mar 2026) — Sansad Janardan Singh Sigriwal ki pahal, MLA ki koi documented bhoomika nahi — wajah: MLA ka kadam nahi. 5. YouTube-only Kauru Dhauru sadak udghathan (Aug 2026) — wajah: YouTube-only source reject rule (Ambika News report use hui hai).
+
+
+biharWorks['kedar-nath-singh'] = [];
+
+// REJECT-LOG (kedar-nath-singh): 1. Welcome ceremonies (Live Hindustan, 21/26 Dec 2025) — sirf samman samaroah, koi kaam nahi — wajah: non-work. 2. Suraudha panchayat 2-sadak udghathan (public.app, ~Sep 2025) — wajah: public.app-only source reject rule + purana karyakaal. 3. Janta darbar stories (public.app, Jan 2026) — wajah: public.app-only + sirf samasya-sunwai, koi kaam nahi. 4. YouTube-only land-grab allegation videos (Jun 2026) — sirf aarop, established reporting me FIR/case status + MLA ka jawab nahi — wajah: negative qualify nahi hua. 5. Wikipedia chargesheet reference (2022 bodyguard case) — wajah: purana karyakaal + Wikipedia-only, established news nahi.
+
+
+biharWorks['janak-singh'] = [];
+
+// REJECT-LOG (janak-singh): 1. 200-yojna shilanyas story (prabhatkhabar) — article ~Oct 5, 2025 ka (election Nov 2025 se pehle, 2020-2025 karyakaal) — wajah: purana karyakaal. 2. Maa Bhagwati Sthan meeting (prabhatkhabar, Sep 2026) — sirf charcha/baithak, koi kaam nahi — wajah: non-work. 3. Flood relief visit (prabhatkhabar, Oct 2026) — baadh rahat/nirakshan, development kaam nahi — wajah: non-work. 4. Musahar basti visit (prabhatkhabar, Sep 2026) — sirf daura/nirdesh, koi kaam nahi — wajah: non-work. 5. BJP election office inauguration (Live Hindustan, 24 Oct 2025) — chunavi karyalay + election se pehle — wajah: purana karyakaal/non-work.
+
+
+
+biharWorks['jitendra-kumar-rai'] = [
+  {
+    title: 'Marhaura subdivisional hospital me 3-bed dialysis unit ka udghatan',
+    category: 'Aspataal',
+    stage: 'lokarpan',
+    date: '2026-04-07',
+    description: '7 April 2026 ko vidhayak Jitendra Kumar Rai ne Marhaura subdivisional hospital me 3-bed dialysis unit ka feeta kaatkar udghatan kiya — sthaniya logon ki lambe samay se chali aa rahi maang poori hui; isse pehle marizon ko dialysis ke liye 26 km door Chapra ya 80 km door Patna jana padta tha. Unit me muft dialysis milega aur iska sanchalan Nephro Care sanstha ke sahyog se ho raha hai, zaroorat par 2 bed aur badhane ki gunjaish bhi rakhi gayi hai. Note: khabar me unit ke fund-srot ka naam nahi diya gaya hai — isliye fund par koi daava nahi kiya gaya; vidhayak ki dastavezi bhoomika 2025-2030 karyakaal me sarkari hospital ki is suvidha ka udghatan karna rahi, isliye entry lokarpan tak seemit rakhi hai.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/chapra/story-inauguration-of-dialysis-unit-at-madhura-hospital-by-mla-jeetendra-rai-201775578909819.html',
+    badge: 'news',
+    period: '2025-2030'
+  }
+];
+
+// REJECT-LOG (jitendra-kumar-rai): public.app 18 Sep 2025 (Marhaura railway station chowk se Assoiya dhala tak PCC sadak nirman ka shubharambh/shilanyas) — Sep 2025 = chunaav se pehle, purane karyakaal ka kaam + public.app-only, reject; LiveHindustan 02 Dec 2025 (Marhaura station road punarnirman kaam shuru, lagat Rs 1.43 crore, BUDCO dwara) — shilanyas chunaav se pehle purane karyakaal me hua tha; Dec 2025 ki khabar me vidhayak ka naya dastavezi kadam nahi, sirf thekedaar ne kaam shuru kiya, reject; LiveHindustan ~Feb 2026 (Marhaura anumandal hospital me visheshagya doctor ki kami + anti-rabies vaccine ki kami par vidhansabha me likhit prashn/maang) — sirf maang/prashn, koi swikriti/shilanyas/lokarpan nahi, reject; Amar Ujala 01 Sep 2024 (Chhapra me RJD ka jati-janganna aarakshan dharna, Jitendra Rai + Surendra Ram shamil) — purane karyakaal ka political dharna, reject; koi qualifying negative reporting nahi mili.
+
+
+biharWorks['chhoti-kumari'] = [];
+
+// REJECT-LOG (chhoti-kumari): public.app 22 Jan 2026 (Chapra ke Bajrang Nagar me sadak nirman aur Veer Kunwar Singh colony me PCC sadak + nala nirman ka shilanyas) — khabar Jan 2026 karyakaal me hai, lekin public.app-only source reject-list par hai; dusre outlet par yahi khabar nahi mili, reject; jagatdarshannews + chandratimes 05 Oct 2026 (Rajendra Stadium Chapra me swadeshi/khadi mela ka feeta-kaat udghatan) — niji ayojak ke asthayi mele ka ceremonial udghatan, koi vikas-kaam nahi, reject; jagatdarshannews ~Aug 2026 (DM se mulaakat: Prabhunath Nagar jaljamav, Sitabdiyara kisan lagan, Bara Telpa bhumi adhigrahan muavza par charcha) — sirf maang/charcha, reject; jagatdarshannews 13 Oct 2026 (BUDCO MD Animesh Parashar se mulaakat: Khatua nala, storm-water drainage, footpath gunvatta ki samiksha ki maang) — sirf maang/samiksha, reject; jagatdarshannews ~Sep 2026 (Bhojpuri chitrakala karyashala me mukhya atithi, kalakaron ko samagri vitaran) — samaroh me maujoodgi, vikas-kaam nahi, reject; jagatdarshannews 09 Oct 2026 (Durga Puja se pehle Brahmapur-Bishunpura path marammat ki pahal, mantri ne nirdesh diya) — vidhayak ka kadam sirf maang; marammat ka aadesh mantri ka, koi vidhayak-nidhi sanction/work-order ka dastavezi saboot nahi, reject; koi qualifying negative reporting nahi mili. Khaali profile: imaandari se jodna nahi bana.
+
+
+biharWorks['surendra-ram'] = [];
+
+// REJECT-LOG (surendra-ram): public.app 25 Nov 2025 (Garkha ke Chirand me jarjar sadak ka auchak nirikshan) — sirf nirikshan + public.app-only, reject; Dainik Bhaskar ~Jun-Jul 2026 (Sargatti uchch madhyamik vidyalaya Pratibha samman samaroh; Pirauna upgraded high school Pratibha samman samaroh — mukhya atithi ke roop me medhavi chhatron ka samman) — school samaroh me ceremonial maujoodgi, vikas-kaam nahi, reject; pinewz Oct 2025 (chunaav prachar ke dauran Rustampur me viral video, grameenon ke sawal par gali ka aarop) — chunaav-kampani ka ghatna, purane karyakaal se pehle ki tithi; koi FIR/case/adalaati janch ki sthiti ki established reporting nahi, negative-rule par reject; Amar Ujala 01 Sep 2024 (RJD dharna, Surendra Ram shamil) — purane karyakaal ka political dharna, reject; koi qualifying negative reporting nahi mili. Khaali profile: imaandari se jodna nahi bana.
+
+
+
+biharWorks['krishan-kumar-mantoo'] = [];
+
+// REJECT-LOG (krishan-kumar-mantoo): LiveHindustan 12 Dec 2025 "Newly elected MLA Mantu Singh welcomed in Amanour" — school building ka sirf nirikshan + vikas-ke "karenge" vaade, reject; LiveHindustan Jun 2026 43rd district athletics — Parsa stadium unnayan "aashwasan" + Eklavya girls hostel NOC dilane ka "prayas" — "karenge" vaade, reject; Bhaskar Mar 2026 Shaheed Rajendra Singh jayanti — sirf maujoodgi, reject; dnbbharat Sep 2026 Patel Chhatrawas sangoshthi Nalanda — sirf appeal, kaam nahi, reject; Jagran 21 Sep 2024 Arna-Bariyarpur sadak — purana karyakaal (2024), reject; news4bihar chhath ghat/sadak shilanyas — bahut purana (~2022), reject; LiveHindustan 18 nagar nikay baithak Sep 2026 — Deputy CM ke karyakram me sirf maujoodgi, reject; YouTube-only hits (PCC sadak udghatan, sadak shilanyas) — YouTube-only, reject; election-result coverage — kaam-khabar nahi; Mantoo ke 5 cases purane affidavit data hain, is karyakaal me FIR/adalaati janch wali koi established reporting nahi — negative entry nahi. Profile imaandari se khaali rahi.
+
+
+biharWorks['karishma'] = [];
+
+// REJECT-LOG (karishma): LiveHindustan Jan 2026 Gandak Diyara Parsadi Mahotsav — kushti udghatan Jitendra Rai ne kiya, Karishma sirf upasthit — sirf maujoodgi, reject; OpIndia via dailyhunt Pattishital minor death case — dailyhunt aggregator = reject; waise bhi crime unse juda nahi, sirf unka bayan — negative entry nahi; YouTube-only hits (samaan samaroh, medhavi chhatra samman) — YouTube-only, reject; election coverage (Jagran Oct 2025, TOI, TheWeek, Zee News Hindi, Aaj Tak, Vandematram) — sab chunavi khabar, kaam-khabar nahi; naam-savdhani: "Karishma Rai" se naam nahi milta galat "Karishma" wali khabrein — chandrika-rai/tej-pratap related political stories me bhi koi vikas-kaam nahi. Is karyakaal me unke kisi vikas-kaam ki koi established reporting nahi mili; Karishma ke khilaf koi established negative reporting nahi. Profile imaandari se khaali rahi.
+
+
+biharWorks['vinay-kumar-singh'] = [];
+
+// REJECT-LOG (vinay-kumar-singh): Chhapra Today Sep 2026 U-19 chess pratiyogita udghatan — sirf karyakram udghatan, reject; Bhaskar Dec 2025 Shahpur Jaitia night cricket tournament udghatan — sirf karyakram udghatan, reject; Bhaskar Mar 2026 Shaheed Rajendra Singh jayanti Nayagaon — sirf maujoodgi, reject; Hulchal News24/Jagat Darshan News 16 Sep 2026 Sonpur Master Plan-2045 review meeting — sarkari yojna-baithak me sirf maujoodgi; draft ka anumodan aayukt ne kiya, MLA ka dastavezi concrete kadam nahi, reject; Prabhat Khabar Jan 2026 Dighwara monthly janta-sunwai — "karenge" ghoshna, reject; Jagat Prahari Sep 2026 kisan goshthi — sirf karyakram maujoodgi, reject; Navyug Sandesh Oct 2026 shikshak-nirvachan campaigning — party/sangathan kaam, reject; YouTube-only Dhanpalpur JCB road — YouTube-only + alag vyakti ("social worker Sareni") ka sandesh, reject; LiveHindustan 18 nagar nikay baithak — sirf maujoodgi, reject; election coverage — kaam-khabar nahi; unke khilaf is karyakaal me koi established negative reporting nahi. Profile imaandari se khaali rahi.
+
+
+
+// COORDINATOR QA (Saran): 3 workers (A: 113-116, B: 117-119, C: 120-122) ke fragments ko AC order 113->122 me canonical schema par merge kiya. Kul 4 entries: manoranjan-singh (Ekma school Plus Two bhawan lokarpan, Live Hindustan), randhir-kumar-singh (Kaurudhauru sadak lokarpan, Ambika News — chhota-portal disclosure joda; Pt Mahendra Mishra smarak marammat ghoshna — vyaktigat pahal, stage ghoshna, fund disclosure nahi), jitendra-kumar-rai (Marhaura dialysis unit lokarpan, Live Hindustan — worker ki English entry ko Roman-Hinglish me convert kiya). 6 profiles imaandari se khaali: kedar-nath-singh, janak-singh, chhoti-kumari, surendra-ram, krishan-kumar-mantoo, karishma, vinay-kumar-singh. Sabhi 10 slugs pehle maujood nahi the — koi overwrite nahi; marker 1x; 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; titles pure Roman-Hinglish vakya; currency "Rs"; badges news (4/4); categories School/Sadak/Any/Aspataal; period '2025-2030' sabhi me; sourceUrls canonical.
