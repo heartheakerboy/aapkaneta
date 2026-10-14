@@ -3064,3 +3064,176 @@ biharWorks['sammridh-varma'] = [];
 // - No post-Nov-2025 Sikta work found in any openable source. Slug kept EMPTY.
 
 // Coordinator QA note (Paschim Champaran batch, 2026-10-14): 9/9 MLA researched via 3 parallel workers (A: surendra/nand/sanjay, B: ramsingh/vinay/narayan, C: abhishek/renu/sammridh); fragments coordinator ne kholkar QA kiya, fir assembly khud ki. Fixes: B-fragment ki 4 English titles ko Roman-Hinglish vakyon me convert kiya (entry content untouched); C-fragment ki 2 English titles ko Roman-Hinglish vakyon me convert kiya; narayan-prasad ka truncated-dikhne wala sourceUrl coordinator ne browser me khud khola — sahi canonical article khulta hai (Dhum Nagar school udghatan, Hindustan Samachar via Dainik State Samachar, 11 Dec 2025), isliye rakha; abhishek-ranjan ka LiveHindustan sourceUrl coordinator ne khud khola-verify kiya (content match: 3 PCC roads Rs 24.07 lakh + Shukla Tola chabutra shed Rs 5.30 lakh). Total 6 entries: vinay-bihari 2 (Gandak kataw shilanyas + school lokarpan), ram-singh-bihar 1 (CHC lokarpan), narayan-prasad 1 (school lokarpan, mantri sah vidhayak), abhishek-ranjan 2 (PCC sadak + chabutra lokarpan, date est. disclosed). 3/9 profiles khaali: surendra-prasad (degree college udghatan credit-pariksha par reject — sarkari sthapana, Prakash Chandra/Obra precedent), nand-kishor-ram (07 May 2026 se cabinet mantri — Rajya-stariya sab items exclude), sanjay-kumar-pandey, renu-devi (Bettiah railway station Rs 54cr pre-term Aug 2025), sammridh-varma (copy-kalam welfare gesture — kaam nahi). Koi qualifying negative nahi. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal escaped-newline entry objects me; badges sirf news (6/6); categories valid (Sadak/Aspataal/School/Any); stages lokarpan/shilanyas; period '2025-2030' 6/6; titles pure Hinglish vakya, currency "Rs"; slug order AC 1→9; har slug exactly once. Kul titles: 143 -> 149 (+6).
+// ---- Patna district batch (researched 2026-10-14) ----
+
+biharWorks['anant-kumar-singh'] = [
+  {
+    title: 'Patna High Court ne Dularchand Yadav hatya mamle me MLA Anant Singh ko bail di',
+    category: 'Any',
+    date: '2026-03-19',
+    description: 'Hindustan Times (19 Mar 2026) ki report ke mutabiq Patna High Court (Justice Rudra Prakash Mishra) ne JD(U) MLA Anant Singh ko Dularchand Yadav ki hatya ke mamle me Rs 15,000 ke bond par bail de di; adesh me 4 sharten lagayi gayin — trial ki har tithi par upasthit hona aur gawahon ko prabhavit na karna/sakshya se chhedchhad na karna, ullanghan par bail radd ho sakti hai. Yadav (75) ki 30 Oct 2025 ko Mokama ke Tartar gaon (Bhadaur thana kshetra) me chunav prachar ke dauran goli marne aur vahan se kuchalne ka aarop laga tha; post-mortem me maut ka karan hriday-fefdon me gambhir chot se cardiorespiratory failure bataya gaya. Singh ko 1 Nov 2025 ko giraftar kiya gaya tha aur unhone jail se hi chunav jeeta tha; mamle me unke bhatije Rajbir aur Karmvir Singh bhi aaropi hain. Neta ka jawab: Singh ne apne ko nirdosh bataya hai aur mamle ko rajnaitik sajish kaha hai (Dec 2025 me MP-MLA court me bail yachika kharij hote samay); unke vakeel ka tark tha ki kisi gawah ne unke khilaf bayan nahi diya aur ghatnasthal se koi khokha baramad nahi hua, jabki sarkari vakeel ne 27 aapradhik mamle hone ka hawala dekar virodh kiya tha. Trial lambit hai; dosh-siddhi nahi hui hai.',
+    sourceLabel: 'Hindustan Times, 19 Mar 2026',
+    sourceUrl: 'https://www.hindustantimes.com/cities/patna-news/anant-singh-gets-bail-in-mokama-poll-murder-of-rival-muscleman-101773929241408.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (anant-kumar-singh): The Bihar Now YouTube Ghoswari degree college inauguration (ribbon-cut) — YouTube-only + sarkari yojana, reject; YouTube "jail se review" Munger-Mokama fourlane — YouTube-only + NHAI Rs 4,447 cr project, MLA ki koi bhoomika nahi, reject; News18 Hindi 5 Sep 2026 baadh daura + 'baandh banega' vaada — ghoshna, reject; VoiceofBihar Oct 2026 Jan Suraaj roadshow — party event, reject; ZeeNews Mokama firing surrender ('poorv vidhayak') — pre-term purana mamla, reject; NDTV hospital smoking video — no FIR/proceeding, reject. Purane criminal mamle bina is karyakaal ki nayi adalati pragati ke negative entry nahi bane.
+
+biharWorks['siyaram-singh'] = [];
+
+// REJECT-LOG (siyaram-singh): Dainik Bhaskar Ramnagar diyara raahat-vitran (saujanya se) — vyaktigat sahayata, reject; public.app Belchhi kanya-vivah-mandap mudda sadan me — public.app-only + sirf maang, reject; ETV Bharat sadan me 'khobi lai' GI-tag sawal — sirf sawal, reject; BN24Live pre-election NDA sammelan — pre-term, reject; ZeeNews CM ka Barh samudayik-bhavan udghatan (COVID-era, attendees me poorv vidhayak) — pre-term + CM ne kiya, reject; election profiles — no work. Profile khaali rahi.
+
+biharWorks['arun-kumar-s-o-satrughan-sao'] = [
+  {
+    title: 'Bakhtiarpur diyara kshetra ke pipa pul ki hatayi gayi plates dobara lagwakar lagbhag 50,000 logon ki aawajahi bahaal',
+    category: 'Sadak',
+    stage: 'complete',
+    date: '2026-06-21',
+    description: 'Dainik Bhaskar ki report ke mutabiq Bakhtiarpur (Barh anumandal, Patna) ke diyara kshetra me pipa pul ke dono chhor se hatayi gayi plates ko dobara laga diya gaya hai, jisse lagbhag 10 gaon ki 50,000 aabadi ki Bakhtiarpur shahar tak aawajahi phir shuru ho gayi; pul ke aanshik hatne se log jaan jokhim me dalkar toote hisson se aawajahi kar rahe the. MLA Arun Kumar Shah ne bataya ki unhone DM aur sambandhit adhikariyon se baat ki thi aur unki maang thi ki surakshit naav sanchalan shuru hone tak pipa pul na hataya jaye; unke shabdon me unki pahal par do din pehle hatayi gayi plates dobara lagayi gayin. Disclosure: pahal ka dawa vidhayak ka swayam-kathan hai — prashasan ki swatantra pushti khabar me nahi hai. Sthayi pakke pul ke liye unhone kendriya mantri Nitin Gadkari ko patra likha hai (maang, swikriti nahi). Date: article me tithi print nahi thi; search last-updated se 2026-06-21 (est.) li gayi hai.',
+    sourceLabel: 'Dainik Bhaskar, 21 Jun 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/patna/barh/news/bakhtiyarpur-pipa-bridge-reopens-relief-50000-population-138248872.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (arun-kumar-s-o-satrughan-sao): public.app Gyaspur pipa-pul nirikshan (nirnarazgi) — public.app-only + sirf nirikshan, reject; public.app Ekangarsarai visit — public.app-only, reject; Newshaat football tournament (Chirag Paswan event) — sirf maujoodgi, reject; YouTube atikraman bayan/POP maang — YouTube-only + sirf bayan/maang, reject; Dainik Bhaskar ward-24 shilanyas — source khul nahi saka (app-redirect wall; snippet se entry mana hai) + date sandigdh, reject; Patna Press CM ka pre-term Bakhtiarpur daura — CM ka kaam, reject.
+
+biharWorks['sanjiv-chaurasia'] = [
+  {
+    title: 'Anisabad police colony me 3.80 km sadkon ka kalikaran aur Jaiprakash Nagar me nala-sadak nirman ka karyarambh',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2025-12-09',
+    description: 'Digha MLA Dr Sanjiv Chaurasia ne Anisabad police colony (ward 10, sector A-D) ki 3.80 km pramukh aur aantrik sadkon tatha NH-139 se jude sampark pathon ke kalikaran (Rs 7.26 crore, Path Nirman Vibhag/RCD) aur Jaiprakash Nagar road no. 3 (Ganga Rai Path se Rajiv Nagar road 24-P) me nala-sadak nirman (lagbhag Rs 46 lakh, Mukhyamantri Samagra Shahri Vikas Yojana) ka nariyal phodkar aur JCB chalakar karyarambh kiya; kul Rs 7.72 crore ki do yojanaen. Disclosure: dono sarkari vibhagiya yojanaen hain — swikriti me vidhayak ki bhumika ka koi dastavezi saboot khabar me nahi hai; karyarambh samaroh me vidhayak kendriya bhoomika me the, isliye entry rakhi hai.',
+    sourceLabel: 'Live Hindustan, 9 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/patna/story-road-construction-in-patna-major-projects-launched-by-mla-sanjeev-chaurasia-201765290406005.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Mukhyamantri Samagra Shahri Vikas Yojana ke dusre charan me Digha kshetra ki 56 yojanaon ko lagbhag Rs 31 crore ki manzoori, nivida jaari',
+    category: 'Any',
+    stage: 'swikriti',
+    date: '2025-12-09',
+    description: 'Live Hindustan ki report ke mutabiq Mukhyamantri Samagra Shahri Vikas Yojana ke dusre charan me Digha vidhansabha kshetra ki lagbhag Rs 31 crore ki 56 anya yojanaon ko manzoori mil gayi hai aur inki nivida bhi nikal chuki hai; ye yojanaen jald shuru hongi. Isi yojana ke pehle charan me lagbhag Rs 39 crore ki 70 yojanaon ko manzoori mili thi, jinme se kai kaam chunav ke karan shuru nahi ho paye the. Disclosure: manzoori ki jankari vidhayak ke briefing ke hawale se report hui hai — GO sankhya ya aadesh ki prati ka ullekh khabar me nahi hai.',
+    sourceLabel: 'Live Hindustan, 9 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/patna/story-road-construction-in-patna-major-projects-launched-by-mla-sanjeev-chaurasia-201765290406005.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Sharda Nagar (ward 3) me PCC sadak aur bhu-garbh nala ka lokarpan',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    date: '2026-05-27',
+    description: 'Digha MLA Dr Sanjiv Chaurasia ne ward-3 ke Sharda Nagar me lagbhag Rs 10 lakh ki lagat se bani navnirmit PCC sadak aur bhu-garbh nala ka udghatan kiya (Shanti Sharma ke ghar se Ajay Pandit ke ghar hote hue Suresh Lal ke ghar tak). Khabar ke mutabiq sadak-nirman vidhayak ki anushansa par Mukhyamantri Kshetra Vikas Yojana ke antargat karaya gaya; pehle sadak jarjar thi jisse mohallewasiyon ko aawagaman me pareshani hoti thi. Disclosure: fund-srot MMKVY hai; anushansa vidhayak ki thi (khabar me spasht) — swikriti-aadesh me uski bhumika ka isse adhik dastavezi saboot nahi hai. Date: article me tithi print nahi thi; khabar me Budhwar likha hai aur search last-updated 27 May 2026 (Budhwar) se mel khata hai, isliye 2026-05-27 (est.) li gayi hai.',
+    sourceLabel: 'Live Hindustan, 27 May 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/patna/story-inauguration-of-new-road-and-drainage-in-digha-by-mla-sanjeev-chaurasia-201779892307724.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sanjiv-chaurasia): LiveHindustan 2 Jan 2026 Baba Chowk–Rajapur pul sadak nirikshan (Rs 92 cr, shilanyas CM ne kiya tha) — sirf nirikshan, reject; SwadeshToday/iNextLive wahi karyarambh story ke duplicates, alag entry nahi.
+
+biharWorks['prashant-kishor'] = [
+  {
+    title: 'Bankipur MLA Prashant Kishor ne ghoshna ki ki ve apna avasthit Vidhan Sabha awas (Residence No. 182) Bankipur ke nivaasiyon ke liye saarvajanik karyalaya me badlenge, jisme yuva rozgar-sahayta pranali bhi hogi',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Punjab Kesari (IANS), 12 Aug 2026',
+    sourceUrl: 'https://english.punjabkesari.com/india/prashant-kishor-to-turn-bankipur-mla-residence-into-public-office-after-by-election-victory/',
+    date: '2026-08-12',
+    note: 'This entry is the MLA ka swayam-daava reported in news, not an independently verified works project. IANS reported on 12 Aug 2026 that the Jan Suraaj founder, newly elected Bankipur MLA after the 30 Jul 2026 by-election (results 3 Aug, oath 17 Aug), had decided not to use his allotted two-storey duplex (Residence No. 182, VIP MLA housing complex, Patna) as a private home and would convert it into a public office where Bankipur residents could raise grievances and development issues, with a resume-collection and job-matching system for youth. No construction fund, tender, GO or vidhayak-nidhi amount is involved — this is the use of a state government allotted residence, not a sanctioned scheme. The linked target of 10,000 private-sector jobs is a future promise (reported as within two years), not completed work. Disclosure: the same announcement was also covered by Patna Press and hiindia.com on 12 Aug 2026.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (prashant-kishor): Bankipur upchunav 30 Jul 2026 me jeete (results 3 Aug, oath 17 Aug) — sirf Aug 2026+ items valid. ET 10,000 jobs promise — karenge, reject; NBT flood bayan — bayan, reject; Jagran 7th pay commission vow (West Champaran) — kshetra-bahar + ghoshna, reject; oath coverage — procedural, reject; MLC polls/TOI — politics, reject; YouTube office-opening claim — YouTube-only, reject.
+
+biharWorks['sanjay-kumar-183'] = [
+  {
+    title: 'Kumhrar ke Bahadurpur Housing Colony me Rs 17 lakh se adhik lagat wali sadak ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-05-29',
+    description: 'Bihar 24 Live reported that Kumhrar MLA Sanjay Kumar Gupta performed the shilanyas of a road costing over Rs 17 lakh at Bahadurpur Housing Colony in Patna. The MLA personally warned the contractor and engineers that no laxity in construction quality would be tolerated, said he would himself inspect the work, and directed officials to build so that waterlogging does not occur and to remove roadside encroachments including khatals; ward councillor Poonam Sharma and local residents were present. Est. disclosed: cost over Rs 17 lakh. Credit transparency: the report does not disclose the fund source (vidhayak nidhi, ward fund or departmental) — only the cost is stated; the MLA personal role in the shilanyas event is documented but his role in the sanction is not evidenced. Date transparency: the article page shows no publication date; the date is derived from the search-index lastmod metadata (approx 29 May 2026).',
+    sourceLabel: 'Bihar 24 Live, ~29 May 2026',
+    sourceUrl: 'https://www.bihar24live.in.net/?p=2888',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sanjay-kumar-183): identity verify — ye Kumhrar wale Sanjay Kumar Gupta hain (Banmankhi/Khagaria/UP wale nahi). CNBC/Jagran/Oneindia/Wikipedia election coverage — no work, reject; TOI Panchamrit interview — karenge, reject; TOI generational-shift Oct 2025 — pre-tenure, reject; ABP Live Apr 2026 road accident (woh victim the) — personal news, negative nahi.
+
+biharWorks['ratnesh-kumar'] = [];
+
+// REJECT-LOG (ratnesh-kumar): News18 Hindi Mangal Talab Rs 23 cr — tourism+urban dev vibhagon ka project, MLA sirf nirikshan + bayan, reject; blogspot Mangal Talab — blogspot-only + nirikshan, reject; newscrime24 Singhania shok-mulakat — condolence, reject; "model assembly" vaada — karenge, reject; G-Ram-G party meeting — bayan, reject; YouTube cricket udghatan — YouTube-only, reject; TOI CM event maujoodgi — maujoodgi, reject; NDA office udghatan (Oct 2025) — pre-term + party office, reject; election coverage — no work. Profile khaali rahi.
+
+biharWorks['dr-ramanand-yadav'] = [];
+
+// REJECT-LOG (dr-ramanand-yadav): YouTube Sonaru 27L PCC+nalla shilanyas — YouTube-only, reject; public.app Rs 61.20 cr schemes — public.app-only, reject; badhtabihar 36.5L shilanyas (2020-era) — pre-term, reject; bhaskar grand alliance office (Oct 2025) — pre-tenure + party event, reject; Patna Press Fatuha PNG/Bapu Tower — sarkari projects, MLA role nahi, reject; election coverage — no work. Profile khaali rahi.
+
+biharWorks['ram-kripal-yadav'] = [];
+
+// REJECT-LOG (ram-kripal-yadav): YouTube 36-crore Danapur shilanyas (Jun 2026) — YouTube-only, reject; public.app wahi event — public.app-only, reject; LiveHindustan 13 Jan 2026 samiksha-baithak — sirf nirikshan, reject; ETV Bharat Mar 2024 rail underpass — pre-term MP-kal, reject; Lokmat Times Son pact bayan — state-level statement, reject; Patna Press CM Mandiri drain-road udghatan — sirf maujoodgi, reject; Patna Press Vande Bharat flag-off — sirf maujoodgi, reject; TOI CM school PTM — sirf maujoodgi, reject; LiveHindustan khad-taskari aarop (RJD) — vipaksh aarop, koi FIR nahi, reject; samdhi ke ghar firing — parivar ka mamla, kabhi nahi, reject; insiderlive Congress funding bayan — political, reject. Profile khaali rahi.
+
+biharWorks['bhai-birendra'] = [
+  {
+    title: 'Maner me matdaan ke din police adhikari ko jalane ki dhamki aur jaatisuchak tippani ke aarop me FIR',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mint (Hindi), Nov 2025',
+    sourceUrl: 'https://www.livemint.com/hindi/election/bihar-election-rjd-mla-bhai-virendra-booked-for-model-code-violation-in-bihar-maner-constituency-241762486338486.html',
+    description: 'Established reporting (Mint/HT Media): 6 Nov 2025 (matdaan, guruvaar) ko Maner ke booth 79-81 par tainat sahayak police avar nirikshak se behas ke baad MLA Bhai Virendra par aarop — duty par tainat police adhikari ko jala dene ki dhamki, jaatisuchak shabd, aur ek rajnaitik dal ke paksh me kaam karne ka aarop; aadarsh aachaar sanhita ullanghan sahit sangyeya apradh. Police adhikari ke likhit aavedan par Maner thane me FIR darj; prashasan ne janch shuru ki (Danapur SDPO Amarendra Kumar Jha ke bayan par). Neta ka jawab: report ke anusar RJD ki taraf se ab tak koi aadhikarik pratikriya nahi aayi. Disclosure: Mint page par prakashan-tithi display nahi thi; ghatna matdaan-divas (6 Nov 2025) ki hai, isliye window ke andar.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (bhai-birendra): ZeeNews Sep 2025 Samrat Ashok Bhawan shilanyas — pre-term, reject; public.app Bihta PCC shilanyas (Sep 2026) — public.app-only, reject; YouTube Gultera road vivad — YouTube-only, reject; YouTube underpass interview — YouTube-only, reject; news4nation 2020 ticket-virodh — purana/party matter, reject; viral-audio FIR (28 Jul 2025, SC-ST thana) — pre-term, window me nayi pragati nahi, reject; galat-vyakti (Wazirganj ke Virendra Singh), reject.
+
+biharWorks['shyam-rajak'] = [
+  {
+    title: 'Phulwari Sharif ward 11-12 me Rs 1.27 crore ki PCC sadak aur RCC naala ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-05-08',
+    description: 'Post-event reporting: 8 May 2026 (shukravaar) ko MLA Shyam Rajak ne Nagar Parishad Phulwari Sharif ke ward 11 aur 12 me PCC sadak evam RCC naala nirman ka shilanyas kiya. Ward 11: Saket Bihar mod se Gyan Jyoti School hote hue Shivnarayan Chowk se Ramsevak Sharma ke makan tak — 61 lakh. Ward 12: Pethiya bazar sthit Ishwari Singh ke godam se Ranipur pul tak — 66 lakh. Kul 1.27 crore. Credit-transparency: fund srot Mukhyamantri Samagra Vikas Yojana (rajya sarkar ki yojana); swikriti me MLA ki vyaktigat bhoomika ka saboot report me nahi hai — unhone shilanyas kiya aur kaha ki chunav se pehle ka wada poora ho raha hai. Karyakram ki adhyakshata nagar parishad chairman Aftab Alam ne ki. Saket Bihar mod par high-mast light ka wada ("jaldi lagegi") — bhavishya-vada, entry ka hissa nahi.',
+    sourceLabel: 'Yes Channel24, 8 May 2026',
+    sourceUrl: 'https://yeschannel24.com/1-27-%E0%A4%95%E0%A4%B0%E0%A5%8B%E0%A4%A1-%E0%A4%BC-%E0%A4%95%E0%A5%80-%E0%A4%B8%E0%A4%A1%E0%A4%BC%E0%A4%95-%E0%A4%8F%E0%A4%B5%E0%A4%82-%E0%A4%A8%E0%A4%BE%E0%A4%B2%E0%A4%BE-%E0%A4%A8%E0%A4%BF%E0%A4%B0/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (shyam-rajak): The Hans India CM flyover udghatan — sirf maujoodgi, reject; YouTube Isa Nagar madarsa library/PCC lokarpan — YouTube-only, reject; YouTube Alam Pharma shop — YouTube-only + niji, reject; ZeeNews Begusarai case (6 Sep 2018) — purana, koi nayi pragati nahi, reject; webjosh 2020 Tej Pratap aarop — koi FIR nahi, reject.
+
+biharWorks['arun-manjhi'] = [];
+
+// REJECT-LOG (arun-manjhi): Bhaskar Zila Parishad baithak — sirf sujhav, kaam ZP ka, reject; public.app Pataliputra Township gyapan (Jun 2026) — gyapan + public.app-only, reject; News18 WhatsApp hack FIR — woh khud shikayat-karta hain, reject; public.app "Rekha Devi" shilanyas — galat vyakti + pre-term, reject; Oneindia case-count (0) — halafnama count, reject; Mussoorie (UK) results — galat jagah, reject. Profile khaali rahi.
+
+biharWorks['sandeep-saurav'] = [
+  {
+    title: '22 July 2026 ko Patna me NEET paper-leak virodh ke dauran hui hinsa ke aarop me Paliganj MLA Sandeep Saurav giraftar, Kotwali thane me FIR — nyayik hirasat me bheje gaye',
+    category: 'Any',
+    date: '2026-07-24',
+    description: 'Live Hindustan (25 Jul 2026) ki post-event reporting: 22 July 2026 ko Patna me NEET paper-leak ke khilaf AISA ke Lok Bhavan march ke dauran hui hinsa (todd-fodd, sarkari/niji vahanon ko nuksan, police par hamla) ke mamle me Kotwali thane me 23 July 2026 ko Paliganj (CPI(ML)L) MLA Sandeep Saurav (sources me vartani "Saurabh") ke khilaf FIR darj hui; 24 July ki shaam unhe unke sarkari aawas se giraftar kiya gaya (kul 19 giraftar, 4 AISA neta sahit; 43 hirasat me liye gaye, 24 chhode gaye). City SP (Madhya) Mamta Kalyani ke netritva me Gandhi Maidan, Dakbungla, Hartali Mor aur Sachivalay ke CCTV footage ke aadhar par karrawai; police ka dawa — MLA andolan ka netritva kar rahe the aur chhatron dwara vahan-todd ke waqt maujood the, rokne ka prayas tak nahi kiya. PTI (ABP Live, 24 Jul 2026) ke anusar Patna SSP Kartikeya K Sharma ne pushti ki ki unhe nyayik hirasat (judicial custody) me bheja gaya. Neta ka jawab: giraftari se pehle unhone kaha — "Ab mujhe bhi pakadne aa gayi police" (Zee News, 24 Jul 2026, Bihar bandh se pehle detention ki khabar); CPI(ML) Liberation ne mamle ko "farzi case" batakar sabhi giraftaron ki turant rihai ki maang ki (party statement, 25 Jul 2026). Stithi-spashtikaran: Oct 2026 tak rihai/jamanat ya aage ki adalati pragati ki koi established reporting nahi mili — ye entry FIR + giraftari + nyayik hirasat tak seemit hai. Period: 2025-2030.',
+    sourceLabel: 'Live Hindustan, 25 Jul 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/mla-sandeep-saurabh-and-19-others-including-aisa-leaders-arrested-after-violence-in-patna-201784937547136.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sandeep-saurav): news4nation Samda Pul shilanyas (12 Jul 2025) + public.app — pre-term, reject; prabhatkhabar pul-swikriti dawa (~Jan 2025) — pre-term + sirf dawa, reject; khud ki website Bharatpura CHC udghatan — swatantra reporting nahi, reject; prasidhyadavviews blogspot RLSY College nirikshan (Sep 2026) — blogspot-only + sirf daura, reject; livehindustan Nagarnausa visit (Jun 2026) — kshetra-bahar + sirf daura, reject; YouTube x8 — YouTube-only +/ya maang/daura/bayan, reject; Jagran pre-election analysis — pre-term, reject.
+
+biharWorks['siddharth-saurav'] = [];
+
+// REJECT-LOG (siddharth-saurav): news4nation trauma center (12 Jul 2026) — shilanyas 29 Jul 2025 (tatkalin health minister) = pre-term + MLA sirf maang, reject; darsh.news 6 sadak Rs 7.5 cr (mid-2025) — pre-term, reject; prabhatkhabar 2 sadak Rs 11 cr (Dec 2024) — pre-term, reject; mithlahindinews trauma center (Sep 2025) — pre-term + blogspot-type, reject; livehindustan Dy CM trauma-center ghoshna (Aug 2024) — pre-term + Dy CM ka karyakram, reject; Jagran/AajTak affidavit case-count (7-8 mamle) — halafnama count, reject; Economic Times 2016 kidnapping FIR — purana, koi nayi pragati nahi, reject; YouTube clips — YouTube-only, reject; election pages — no work. Note: 2015/2020 me INC se jeete the, 28 Feb 2024 ko BJP me aaye — 2024-25 ke kaam bhi pre-term. Profile khaali rahi.
+
+// ---- QA NOTE (coordinator, 2026-10-14) ----
+// Sources: 4/4 workers ke fragments padhe aur QA kiye. WB ki 2 English titles ko Roman-Hinglish vakyon me convert kiya (content untouched). Sabhi entries me: period '2025-2030', badges valid (news x8, dawa x1), categories valid, titles pure Hinglish vakya, currency "Rs", 0 Devanagari/₹/escaped-\n entry objects me, sourceUrls canonical aur khud khole gaye. 14/14 slugs exactly once, AC order 178→191. Negative entries: anant-kumar-singh (Patna HC bail, HT), bhai-birendra (election-day FIR, Mint), sandeep-saurav (NEET protest arrest, Live Hindustan) — sab me FIR/case/adalaati sthiti + neta ka jawab/absence disclosed. Dawa entry: prashant-kishor (IANS). 6 profiles khaali: siyaram-singh, ratnesh-kumar, dr-ramanand-yadav, ram-kripal-yadav, arun-manjhi, siddharth-saurav. Kul 10 entries: anant-kumar-singh 1, arun-kumar-s-o-satrughan-sao 1, sanjiv-chaurasia 3, prashant-kishor 1, sanjay-kumar-183 1, bhai-birendra 1, shyam-rajak 1, sandeep-saurav 1.
