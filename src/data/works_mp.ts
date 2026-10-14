@@ -7938,3 +7938,187 @@ mpWorks['sudesh-rai'] = [
 // Rs 11L manch-ghoshna entry HATA di (sirf manch se ghoshna, bina swikriti/GO/fund-srot — Uikey-tiger-safari
 // aur Mohan Sharma precedents). Javar dharmshala Rs 16L ghoshna aur Bhagat Singh college Rs 1.5L sanction-dawa
 // entries badge dawa par downgrade karke rakhi hain (MLA ke apne daawe, news me report, poora disclosure).
+
+// ---- Seoni district batch (researched 2026-10-14) ----
+mpWorks['kamal-marskole'] = [];
+// PROFILE KHAALI (imaandari se): Barghat ST ke BJP vidhayak Kamal Marskole ki Dec 2023+ ki koi thos kshetra-kaam ki satyapit khabar nahi mili; coverage chunav-profile aur karyakram-upasthiti tak seemit (reject-log: pre-term Shaskiya Mahavidyalaya, CM 494cr package me maujoodgi, YouTube-only ghoshna, galat-vyakti Dr Ashok Marskole).
+
+mpWorks['dinesh-rai-munmun'] = [
+  {
+    title: 'Harharpur gram me Rs 10 lakh ke samudayik bhavan ka bhoomi-pujan vidhayak ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nav Rashtra Media, 13 Dec 2024',
+    sourceUrl: 'https://navrashtramedia.com/mp-news-community-building-mla-dinesh-rai-munmun-performed-bhoomi-pujan/',
+    date: '2024-12-13',
+    note: 'Stage: bhoomi-pujan/shilanyas — Seoni vikas khand ke gram panchayat Bamhn ke gram Harharpur me vidhayak-nidhi se Rs 10 lakh ke samudayik bhavan ka bhoomi-pujan swayam vidhayak ne kiya. Chhota local portal (Nav Rashtra Media) — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Maharani Lakshmibai shasakiya kanya uchchatar madhyamik vidyalaya Seoni me Rs 5 lakh ke repair karyon ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Abhaywani, 27 Nov 2025',
+    sourceUrl: 'https://www.abhaywani.in/2025/11/5.html',
+    date: '2025-11-27',
+    note: 'Stage: poora/lokarpan — vidhayak-nidhi se swikrit Rs 5 lakh se school me chhat marammat, bhavan rangai evam anya karya poore; sabhi ka lokarpan swayam vidhayak ne kiya. Source blogspot-based chhota local portal hai (swikriti ka dawa nahi, poora hua lokarpan ka report) — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bijadevri me nav-nirmit shasakiya uchchatar madhyamik vidyalaya bhavan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 11 Oct 2025',
+    sourceUrl: 'https://dainikyashonnati.com/government-is-continuously-striving-for-the-development-of-education-resources-dinesh-rai-munmun/',
+    date: '2025-10-11',
+    note: 'Stage: poora/lokarpan — gram Bijadevri me nav-nirmit shasakiya uchchatar madhyamik vidyalaya bhavan ka lokarpan swayam vidhayak ne kiya. Fund source article me ullikhit nahi (shasan ne banvaya, vidhayak ne lokarpit kiya). Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Seoni PG College (PM College of Excellence) me khel maidan jirnoddhar aur darshak deergha tin shed ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dabang Kesari, Aug 2025',
+    sourceUrl: 'https://dabangkesari.com/2578/',
+    date: '2025-08',
+    note: 'Stage: bhoomi-pujan/shilanyas — Seoni jila mukhyalaya ke shasakiya snatakottar mahavidyalaya me khel maidan jirnoddhar aur darshak deergha tin shed ka bhoomi-pujan swayam vidhayak ne kiya. Article me fund/lagat ullikhit nahi. Rashtriya Khel Divas (29 Aug) ke avsar par hua karyakram; page metadata me 2025/08 milta hai, isliye YYYY-MM. Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mundrai gram me navnirmit samudayik bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dabang Kesari, Aug 2025',
+    sourceUrl: 'https://dabangkesari.com/2578/',
+    date: '2025-08',
+    note: 'Stage: poora/lokarpan — gram Mundrai me navnirmit samudayik bhavan ka phita kaatkar lokarpan swayam vidhayak ne kiya. Fund source article me ullikhit nahi. Upar ke PG college karyakram ke baad usi din ka daura; tithi YYYY-MM. Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Seoni nagar ke Shastri ward me 300 meter damarikaran marg ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 29 Dec 2024',
+    sourceUrl: 'https://dainikyashonnati.com/bhoomipujan-was-done-in-the-hospitality-of-mla-dinesh-rai-munmun/',
+    date: '2024-12-28',
+    note: 'Stage: bhoomi-pujan/shilanyas — nagar palika ki Kayakalp-2 yojna ke antargat Shastri ward (Akash Pandey ke makan se Om Kirana tak) 300 meter marg ke damarikaran ka bhoomi-pujan vidhayak ke mukhya aatithya me hua. Fund: sarkari yojna (nagar palika); credit: mukhya atithi ke roop me upasthit/shilanyas, dastavezi pahal ka dawa nahi. Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shukrawari sthit teen mandiron me vidhayak-nidhi se swikrit bhavya pravesh dwaron ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 22 Jan 2024',
+    sourceUrl: 'https://dainikyashonnati.com/bhoomi-pujan-was-done-at-the-entry-gates-of-mla-dinesh-rai-munmun-with-the-lotus-flowers/',
+    date: '2024-01-22',
+    note: 'Stage: bhoomi-pujan/shilanyas — Seoni nagar Shukrawari ke Sri Balroop Hanuman Mandir, Siddh Peeth Mata Raj Rajeshwari aur Sri Siddh Shanidham Trust ke Bhagwan Surya Mandir me vidhayak-nidhi se swikrit bhavya pravesh dwaron ka bhoomi-pujan swayam vidhayak ne kiya. Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jheel Pipariya me shasakiya high school ke naveen bhavan ka bhoomi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 02 Sep 2025',
+    sourceUrl: 'https://dainikyashonnati.com/bhoomipujan-of-new-high-school-building-from-mla-dinesh-rai-munmuns-karkamal/',
+    date: '2025-09-02',
+    note: 'Stage: bhoomi-pujan/shilanyas — gram Jheel Pipariya me shasakiya high school ke naveen bhavan nirman ka bhoomi-pujan swayam vidhayak ne kiya. Fund source article me ullikhit nahi. Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Seoni me vidhayak ke netritva me seva mera yogdan karyakram: 2300+ ka swasthya parikshan aur 50 mahilaon ko silai machine',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 08 Oct 2026',
+    sourceUrl: 'https://dainikyashonnati.com/seva-mera-yogdan-seoni-health-camp/',
+    date: '2026-10-08',
+    note: 'Stage: poora (karyakram sampann) — vidhayak ke netritva me Bahubali Lawn Seoni me nihshulk swasthya shivir: 2300+ nagrikon ka swasthya parikshan, 450 nihshulk chashme, 75 Ayushman card, 35 divyangjan praman-patra; Omkala kendra ki 50 prashikshit mahilaon ko silai machine aur beauty parlour kit, 450 prashikshanarthiyon ko praman-patra. Sankhyayein post-event local portal report ki; fund source ullikhit nahi. Chhota local portal — disclosure.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (dinesh-rai-munmun):
+// - dainikyashonnati 08 Oct 2026 pre-event article (seva mahaaayojan ghoshna 05 Oct) — pre-event schedule/announcement; post-event coverage mili isliye entry bani.
+// - YouTube 'dharmshala ka lokarpan' Lakhnwada (Apr 2025): YouTube-only source — niyam par reject; koi text news srot nahi mila.
+// - dainikyashonnati 'punraviksit railway station udghatan' (22 May 2025): PM ke Amrit Bharat program me sirf maujoodgi — reject.
+// - dainikyashonnati 'Rs 6.56 crore ke vikas karyon ka bhoomi-pujan' (04 Oct 2023): karyakaal se pehle (Dec 2023 se pehle) — reject.
+// - sbharatt24news.blogspot.com Feb 2026 daura (Bakhari/gram samudayik bhavan bhoomi-pujan 'karenge') — pre-event announcement + blogspot — reject.
+// - public.app Jan 2026 'Indawadi samajik bhavan bhoomi-pujan' — public.app-only source — reject.
+// - ETV Bharat Pench canal marpeet aarop (05 Dec 2024): WRD ke adhikariyon ke aarop; vidhayak ne inkar kiya, janch ki maang ki. Koi pakki FIR/case ya adalaati sthiti record par nahi — sirf aarop → negative entry nahi bani. Bansal News: BJP state president 'jaankari le rahe hain'; WRD karmiyon ka Chhindwara me narebazi (virodh pradarshan) — wahi vivaad, naya tathya nahi.
+// - Khabar Satta Chhapara 33 crore 'shilanyas-lokarpan ki pol' (21 Jun): MLA sansad-led karyakram me sirf vishisht atithi — unka dastavezi kadam nahi; band shauchalaya ka aarop nagar parishad par, un par vyaktigat aarop nahi → reject.
+// - dainikyashonnati Tribal Pride Day 6600 crore program (15 Nov 2024): PM/CM ke rajya-star karyakram me sirf maujoodgi — reject.
+// - findglocal.com Facebook mirror: 17 Oct 2025 Erpa-Fulara sadak (Rs 16 lakh) + sabha manch + puliya bhoomi-pujan — MLA ke Facebook page ka mirror (FB/IG self-post) — reject.
+// - dainikyashonnati 'seva mahaaayojan' ghoshna ke alawa: fasal nuksan daura (26 Sep 2026) — sirf nirikshan/daura → reject.
+// - ETV Bharat heavy rain rescue (Sep 2024) — rahat/daura, vikas-kaam nahi → reject.
+// - Zee News: Ayodhya ke liye poori train (Aug 2025) — kshetra-vaasiyon ke liye pahal, lekin sthaayi vikas-kaam nahi → reject.
+// - Bhaskar Hindi/TheSootr jila aspataal shishu mrityu (Oct 2026): vidhayak dwara achanak nirikshan + CM ko patra — sirf nirikshan/patr-vyavahar, aspataal me unka nirman-kaam nahi → reject.
+// - YouTube shorts (bhoomi-pujan video, nagar palika bhavan Rs 11 crore): YouTube-only — reject.
+// - TOI 2017 BJP police complaint case: pre-term (2017) → reject.
+// - Amar Ujala Ramkatha (Sep 2023): pre-term + dharmik karyakram, vikas-kaam nahi → reject.
+// - Campaign/election pieces (Patrika, Zee News, OneIndia, NDTV, Business Standard): chunav coverage, vikas-kaam nahi → reject.
+// - Amar Ujala May 2018 BJP joining news: pre-term → reject.
+// - navrashtramedia Kalchuri samman (10 Mar 2024): samman samaroh, vikas-kaam nahi → reject.
+// - Galat vyakti check: sabhi entries me seat Seoni AC-115 ke vidhayak 'Dinesh Rai Munmun' verify kiya gaya; Lakhnadaun waale alag vidhayak Yogendra Singh hain — koi bhram nahi.
+
+mpWorks['rajneesh-harvansh-singh'] = [
+  {
+    title: 'Chhapara nagar me Wainganga nadi tat par vishram grih ke kinare do shasakiya samudayik satsang bhavano ka bhoomi-pujan karke unhone lagbhag do saal se ruka nirman karya dobara shuru karaya; bhavano ki takneeki swikriti purani thi aur Corona kaal me kaam thap pada tha.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 23 Jan 2024',
+    sourceUrl: 'https://dainikyashonnati.com/newly-elected-mla-thakur-rajneesh-singh-performed-bhoomi-pujan-of-the-building/',
+    date: '2024-01-23',
+    note: 'Shilanyas-bhoomi-pujan stage: chunav jeetne ke turant baad (nava-nirvachit) Rajneesh Harvansh Singh ne swayam bhoomi-pujan kiya; do shasakiya samudayik bhavano ki takneeki swikriti pehle se thi, kaam 2022 se ruka hua tha. Report me Congress neta Shrichand Awadhiya ka aarop bhi hai ki poorv BJP vidhayak ne kaam rokwaya tha aur High Court se rasta saaf hua - ye ek-pakshiya dawa hai, karyakram me Congress netaon ki hi upasthiti thi. Unhone adhure patrakar bhavan ko poora karane ka ashvasan bhi diya, jo abhi sirf ashvasan hai. Chhota local portal hai (Dainik Yashonnati), disclosure ke saath liya gaya. Lagat aur fund srot ka ullekh nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chhapara nagar parishad me Rs 30.32 crore ki swikrit vikas pariyojnaon ka sanyukt bhoomi-pujan aur lokarpan; inme Amrut 2.0 yojana ke tahat Bheemgarh dam se Chhapara tak Rs 22 crore ki pipeline, gram Vilakta aur Bheemgarh me snan ghat, Sukri me shasakiya parisar ki boundary wall, STP, Devrikalan ward 15 me puliya, visarjan kund, park, sauchalay, gate, chain fencing, lighting aur CC road shamil hain.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Yashonnati, 21 Jun 2025',
+    sourceUrl: 'https://dainikyashonnati.com/bhoomi-pujan-and-location-of-30-32-crore-development-works-in-chhapara/',
+    date: '2025-06-21',
+    note: 'Shilanyas-bhoomi-pujan plus lokarpan stage: 20 Jun 2025 (Shukravar) dopahar ko Chhapara me Mandla-Seoni sansad Faggan Singh Kulaste, Keolari vidhayak Rajneesh Harvansh Singh aur Seoni vidhayak Dinesh Rai Munmun ne sanyukt roop se karyakram kiya, isliye credit sanyukt hai. Sabse badi mad Amrut 2.0 ke tahat Rs 22 crore ki pani pipeline hai (bhoomi-pujan); STP Swachh Bharat Mission 2.0 ke tahat; vidhayak-nidhi ka ullekh nahi hai, fund sarkari yojnaon ka hai. Karyakram Chhapara nagar parishad me hua, jo Keolari AC ke andar hai. Chhota local portal hai (Dainik Yashonnati), disclosure ke saath liya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vishwa Adivasi Divas par Kanhiwada block ke gram Bhatkekhari me swatantrata sangram senani Raja Raghunath Shah aur Raja Shankar Shah ki pratima sthapana ke liye swikrit sabha manch ka bhoomi-pujan unhone swayam kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceUrl: 'https://dainikyashonnati.com/participation-of-mla-rajneesh-harvansh-singh-in-village-bhatkhari-on-world-tribal-day/',
+    sourceLabel: 'Dainik Yashonnati, 9 Aug 2025',
+    date: '2025-08-09',
+    note: 'Shilanyas-bhoomi-pujan stage: 9 Aug 2025 ko Vishwa Adivasi Divas ke samaro me unhone swayam swikrit sabha manch ka bhoomi-pujan kiya; samaro Kanhivada block ke Bhatkekhari gram me hua, jo Keolari AC ke andar hai. Lagat aur fund srot (vidhayak-nidhi vs sarkari yojna) ka ullekh report me nahi hai. Chhota local portal hai (Dainik Yashonnati), disclosure ke saath liya gaya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['yogendra-singh-baba'] = [];
+// PROFILE KHAALI (imaandari se): Lakhnadon ST ke INC vidhayak Yogendra Singh Baba ki Dec 2023+ ki koi thos kshetra-kaam ki satyapit khabar nahi mili (reject-log: sirf survey 'karenge' khabar, Scorpio durghatna, NHAI/NHL khabrein — kshetra-bahar, bina-FIR aarop rejected).
+
+// COORDINATOR QA NOTE (2026-10-14, Seoni batch): munmun ki Rs 15 crore 'CM swikriti' entry HATA di —
+// swikriti to itemized sahi thi, par MLA ki bhoomika sirf chhote portal ka 'prayason se' dawa tha, dastavezi
+// concrete kadam nahi (Penchi-Kumbhraj/Indore-Patel/Panna-Lodhi precedent). Baaki 12 entries sahi hain.
+// Galat-vyakti check poore batch me: Nagendra Singh (Nagod, Satna) yahan koi entry nahi; Marskole/Munmun pehchan verified.
+
+// REJECT-LOG (dinesh-rai-munmun):
+// - dainikyashonnati 08 Oct 2026 pre-event article (seva mahaaayojan ghoshna 05 Oct) — pre-event schedule/announcement; post-event coverage mili isliye entry bani.
+// - YouTube 'dharmshala ka lokarpan' Lakhnwada (Apr 2025): YouTube-only source — niyam par reject; koi text news srot nahi mila.
+// - dainikyashonnati 'punraviksit railway station udghatan' (22 May 2025): PM ke Amrit Bharat program me sirf maujoodgi — reject.
+// - dainikyashonnati 'Rs 6.56 crore ke vikas karyon ka bhoomi-pujan' (04 Oct 2023): karyakaal se pehle (Dec 2023 se pehle) — reject.
+// - sbharatt24news.blogspot.com Feb 2026 daura (Bakhari/gram samudayik bhavan bhoomi-pujan 'karenge') — pre-event announcement + blogspot — reject.
+// - public.app Jan 2026 'Indawadi samajik bhavan bhoomi-pujan' — public.app-only source — reject.
+// - ETV Bharat Pench canal marpeet aarop (05 Dec 2024): WRD ke adhikariyon ke aarop; vidhayak ne inkar kiya, janch ki maang ki. Koi pakki FIR/case ya adalaati sthiti record par nahi — sirf aarop → negative entry nahi bani. Bansal News: BJP state president 'jaankari le rahe hain'; WRD karmiyon ka Chhindwara me narebazi (virodh pradarshan) — wahi vivaad, naya tathya nahi.
+// - Khabar Satta Chhapara 33 crore 'shilanyas-lokarpan ki pol' (21 Jun): MLA sansad-led karyakram me sirf vishisht atithi — unka dastavezi kadam nahi; band shauchalaya ka aarop nagar parishad par, un par vyaktigat aarop nahi → reject.
+// - dainikyashonnati Tribal Pride Day 6600 crore program (15 Nov 2024): PM/CM ke rajya-star karyakram me sirf maujoodgi — reject.
+// - findglocal.com Facebook mirror: 17 Oct 2025 Erpa-Fulara sadak (Rs 16 lakh) + sabha manch + puliya bhoomi-pujan — MLA ke Facebook page ka mirror (FB/IG self-post) — reject.
+// - dainikyashonnati 'seva mahaaayojan' ghoshna ke alawa: fasal nuksan daura (26 Sep 2026) — sirf nirikshan/daura → reject.
+// - ETV Bharat heavy rain rescue (Sep 2024) — rahat/daura, vikas-kaam nahi → reject.
+// - Zee News: Ayodhya ke liye poori train (Aug 2025) — kshetra-vaasiyon ke liye pahal, lekin sthaayi vikas-kaam nahi → reject.
+// - Bhaskar Hindi/TheSootr jila aspataal shishu mrityu (Oct 2026): vidhayak dwara achanak nirikshan + CM ko patra — sirf nirikshan/patr-vyavahar, aspataal me unka nirman-kaam nahi → reject.
+// - YouTube shorts (bhoomi-pujan video, nagar palika bhavan Rs 11 crore): YouTube-only — reject.
+// - TOI 2017 BJP police complaint case: pre-term (2017) → reject.
+// - Amar Ujala Ramkatha (Sep 2023): pre-term + dharmik karyakram, vikas-kaam nahi → reject.
+// - Campaign/election pieces (Patrika, Zee News, OneIndia, NDTV, Business Standard): chunav coverage, vikas-kaam nahi → reject.
+// - Amar Ujala May 2018 BJP joining news: pre-term → reject.
+// - navrashtramedia Kalchuri samman (10 Mar 2024): samman samaroh, vikas-kaam nahi → reject.
+// - Galat vyakti check: sabhi entries me seat Seoni AC-115 ke vidhayak 'Dinesh Rai Munmun' verify kiya gaya; Lakhnadaun waale alag vidhayak Yogendra Singh hain — koi bhram nahi.
+// // REJECT-LOG rajneesh-harvansh-singh:  (1) Keolari-Chhinda 16 km sadak 'manjuri' (Dainik Yashonnati, 27 Feb 2026) - swikriti ka dawa bina rakam aur bina GO/sanction-order ke; PWD mantri ke nirdesh ka dawa vidhayak ke swayam ke bayan par aadharit; sakht niyam 'bina GO ke dawa = ghoshna' par REJECT. (2) Bheemgarh pul (Rs 8 crore, Naidunia, Jun 2026): 2023 ka bhoomi-pujan tatkalin BJP vidhayak Rakesh Pal Singh ka tha (pre-term); Rajneesh ki bhoomika sirf poorv vidhayak ke anadhikrit fita-katne par virodh/bayan thi - virodh-bayan reject. (3) Gauli samaj karyakram, Bhoma (Samvaddoot, Aug 2025) - samajik-sanskritik karyakram me sirf upasthiti; unka kaam nahi. (4) Gram Sukri raatri karyakram vivad (Dainik Yashonnati, 15 Dec 2025) - ek vikas karya ke bhoomi-pujan karyakram me sarpanch-janpad sadasya vivaad; koi thos kaam, rakam ya stage nahi. (5) Bhatkekhari pratima sthal Rs 2.5 lakh + samajik gate ke liye Rs 2 lakh ki ghoshna - public.app-only report; source REJECT aur ghoshna bina sanction saboot ke REJECT. (6) Samadhi sthal lokarpan, Jhoteshwar (Dec 2024, Jitu Patwari ke saath) - dharmik karyakram me sirf sahbhagita. (7) Sant Ravidas murti anavaran, Chhapara - dharmik karyakram me sirf upasthiti. (8) Khursipar dangal (14 Sep 2025) - khel karyakram me sahbhagita. (9) Madai mela/Govardhan puja, Chhapara (Oct 2025) - utsav me s-parivar upasthiti. (10) Mataji ka shraaddh pujan, Barra (Sep 2024, Central News India) - parivarik-niji mamla; parivar ke mamle kabhi nahi. (11) Svamitva Yojna sampatti-card vitaran, Seoni (18 Jan 2025) - CM karyakram me sirf upasthiti; unhone prastav rakhe, koi thos kaam unhe aaropit nahi. (12) CM Mohan Yadav Seoni karyakram (indianmasterminds) - CM karyakram me sirf maujoodgi. (13) Ola prabhavit kshetron ka daura (20 Mar 2024) - sirf nirikshan/daura; survey-muaavja nirdesh bhi maang ki shreni me. (14) Makka fasal nuksan ka jayza (Bhaskar Hindi, Sep 2026) - sirf nirikshan/daura; sarkari sarveksan ka ashvasan. (15) Kisan andolan chakkajam, Bandol (Bhaskar, 2026) - virodh pradarshan; kaam nahi. (16) TathyaWani YouTube report (Aug 2026) 'vikas ki kami' - YouTube-only source REJECT; vaise bhi keval shikayaten, established reporting nahi. (17) Vanshkar samaj bhavan ke liye Rs 5 lakh ki ghoshna (YouTube/HK News Seoni, 211 days ago) - YouTube-only REJECT + vidhayak-nidhi ghoshna bina sanction saboot ke REJECT. (18) Behnatola sadak me bhrashtachar (YouTube) - YouTube-only REJECT. (19) 'Leadership under question' vishlesh (Dainik Yashonnati, 12 Ju
