@@ -4706,3 +4706,101 @@ mpWorks['chaya-more'] = [
 ];
 
 // REJECT-LOG Khandwa: narayan-patel — CM-karyakram maujoodgi (FPJ Oct 2026), public.app-only, sirf maang/gyapan, sirf bayaan (99 noto), temple-nidhi ghotala-aarop (Bhaskar 403 — khud verify nahi ho paya, imaandari se reject), pre-term, blogspot-only, YouTube-only, 14 PWD swikrit kaam (dastavezi bhoomika nahi); vijay-shah — CM 18-works maujoodgi, hospital lokarpan maujoodgi, PM Modi VC package maujoodgi, public.app-only, pre-term Vikas Parv, Khandwa-city ghoshna, bhashan-daave (roti-machines, college buses, aur chhatravas/fencing ghoshna), Vikas Yatra prachaar, panchayat-audit 2019-24, missing posters, Chhanera blogspot; kanchan-tanve — YouTube-only (Rs 432cr lift), ring road swikriti YouTube-only, CM Harsud karyakram maujoodgi, nirikshan/dauare, sirf maang (reject ho gayi), PM College ribbon-cut (bhoomika nahi), bina-case Pandhana-road shrey vivaad, MLA-mahapaur khinchtan, Trilok News tanker (fetch fail — verify nahi ho paya); chaya-more — maang/gyapan, self-reported report-card dawa (46 sadaken/52 pul/Rs 199cr — bina GO), CM ki Rs 301cr sinchai pariyojna (bhoomika nahi), bus stand aadhaarshila (CM), Sandipani shubharambh (CM), YouTube-only nirikshan, hospital visit, ICU health news, Praneet More (galat vyakti), CM-daure ki taiyari.
+
+// ---- Khargone district batch (researched 2026-10-14) ----
+// Khargone (MP) — 6 MLA, karyakaal Dec 2023 se. Do-Sachin identity check: Sachin Birla = Badwaha (BJP), Sachin Subhashchandra Yadav = Kasrawad (INC, ex-krishi mantri) — har khabar me seat/slug verify kiya; javelin khiladi Sachin Yadav galat vyakti ke roop me reject. Har source khud kholkar padha gaya.
+
+mpWorks['smt-jhuma-solanki'] = [
+  {
+    title: 'Dhar me kisan andolan ke dauran NH-blockade ke aarop me FIR — 26 Congress netaon me vidhayak ka naam bhi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'IANS via Lokmat Times, 9 May 2026',
+    sourceUrl: 'https://www.lokmattimes.com/national/fir-against-congress-mlas-workers-over-nh-blockade-during-farmers-stir-in-mps-dhar/',
+    date: '2026-05-09',
+    note: 'NEGATIVE entry. IANS ke mutabik Dhar police ne 7 May 2026 ko Khalghat (Indore-Ahmedabad NH four-lane) par statewide Congress kisan andolan ke dauran National Highway block karne ke aarop me lagbhag 26 Congress netaon aur saikdon karyakartao par FIR darj ki; FIR me Bhikangaon ki vidhayak Jhuma Solanki ka naam bhi hai. BNS ki dharaon — gairkanuni jamawda, galat tareeke se rokna, sarvajanik marg avaruddh karna — ke tahat prakaran darj; janch jaari, aage ki karwai lambit. Article me vidhayak ka vyaktigat paksh nahi hai; LoP Umang Singhar (jo khud aaropi hain) ne FIR ko kisanon ki aawaz dabane ka aarop bataya aur andolan jaari rakhne ki baat kahi. Status: FIR darj — dosh-siddhi ka koi daava nahi. Caveat: ye vikas-karya nahi, virodh-pradarshan se juda case hai — negative entry ke roop me darj.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['sachin-birla'] = [
+  {
+    title: 'Barwaha ko agri-hub banane ki ghoshna — lagbhag Rs 50 crore ke mandi upgrade, Baidia mirchi mandi vistar ke liye 9 hectare adhigrahan notification',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Free Press Journal, 28 Apr 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/khargones-barwaha-to-be-developed-as-agricultural-hub-50-crore-upgrade-planned',
+    date: '2026-04-28',
+    note: 'FPJ me vidhayak ke bayan ke mutabik Barwaha vidhan sabha ko agri-hub banaya jayega; unhone Bhopal me State Agricultural Marketing Board ke MD Kumar Purushottam se Baidia, Barwaha aur Sanawad ki krishi upaj mandiyon ke upgrade par vistrit charcha ki aur kaha ki CM Dr Mohan Yadav ki ghoshnaon ka kriyanvayan hoga — lagbhag Rs 50 crore ki suvidhaen (shed, sadak, bijli, paani, safai). Baidia mirchi mandi ko lagbhag 43 acre tak vistar ke liye 9 hectare atirikt zameen ke adhigrahan ka notification jaari hua hai; cold storage bhi banega. Status: GHOSHNA — swikriti ka koi GO/sanction order article me nahi; kriyanvayan shuru hone ki alag khabar nahi mili. Credit-pardarshita: Rs 50 crore/CM ghoshna rajya package hai; MLA ki dastavezi bhoomika Mandi Board MD se charcha aur ghoshna tak hai. Poori khabar MLA ke swayam ke bayan par based hai — isliye dawa badge.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['rajkumar-mev'] = [
+  {
+    title: 'Maheshwar me 5 gram panchayaton me Rs 2.18 crore ke vikas karyon ka bhoomi-pujan/shilanyas aur Rs 11.22 lakh ki anganwadi ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/khargone/maheshwar/news/bhumi-pujan-of-development-works-worth-rs-218-crore-in-maheshwar-136893864.html',
+    date: '2026-01',
+    note: 'Maheshwar vidhan sabha ke vidhayak Rajkumar Mev ne Mandleshwar mandal ki 5 gram panchayaton (Jalud, Chhoti Khargone, Sulgaon, Jhapdi, Nandra) me kul Rs 2.18 crore ki lagat ke vikas karyon ka bhoomi-pujan, shilanyas aur lokarpan kiya — Jalud me Rs 5 lakh ka samudayik bhavan, Chhoti Khargone me Rs 23 lakh ki CC road aur Rs 13 lakh ki naali, Sulgaon me Rs 25 lakh ki puliya aur Rs 25 lakh ka naala, Nandra me Rs 25 lakh ki retaining wall aur Rs 24 lakh ki puliya ka bhoomi-pujan; Jhapdi Harsgaon me Rs 11.22 lakh ki bani hui anganwadi ka lokarpan (plus Rs 25 lakh retaining wall, Rs 18 lakh CC road, Rs 24 lakh boundary wall ka bhoomi-pujan). Status: bhoomi-pujan/shilanyas + lokarpan (nirman purnata ki alag khabar nahi mili). Caveat: tithi Bhaskar search-index timing (~Jan 2026) se est. — article text me exact date print me nahi dikhi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Maheshwar me Rs 82.50 lakh ke kaam — Balwada me CC road ka bhoomi-pujan, Rupala me gram panchayat bhavan ka lokarpan, Machalpurkhurd me CC road ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jun 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/khargone/maheshwar/news/balwada-cc-road-rupala-village-panchayat-bhavan-inauguration-138286490.html',
+    date: '2026-06',
+    note: 'Maheshwar vidhan sabha me lagbhag Rs 82.50 lakh ke vikas karyon ka bhoomi-pujan aur lokarpan — vidhayak Rajkumar Mev mukhya atithi rahe. Gram panchayat Balwada me Rs 20 lakh ki lagat se bazaar chowk me CC road ka bhoomi-pujan, gram Rupala me Rs 37.50 lakh se navnirmit gram panchayat bhavan ka lokarpan, aur gram Machalpurkhurd me Rs 25 lakh ki lagat wali CC road ka bhoomi-pujan. Status: bhoomi-pujan + lokarpan (nirman purnata ki alag khabar nahi mili). Caveat: tithi search-index timing (~Jun 2026) se est.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mandleshwar me Badwah-Dhamnod marg par Rs 29.34 lakh ke divider ka bhoomi-pujan — kaam shuru hokar 8 din me prashasan ne roka',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Swarajvani (Dainik Swaraj Vani), 10 Oct 2026',
+    sourceUrl: 'https://swarajvani.com/rs-29-34-lakh-divider-construction-on-badwah/',
+    date: '2026-06-16',
+    note: 'Mandleshwar kshetr me Badwah-Dhamnod marg par sadak-suraksha mad se Rs 29.34 lakh ki lagat wale divider ka bhoomi-pujan kshetriya vidhayak Rajkumar Mev ne 16 June ko kiya tha; 30 September se kaam shuru hua aur 8 din chala, phir BJP parshadon ke virodh ke baad SDM ke maukhik nirdesh par nayab tehsildar ne kaam rukwa diya (parshad ne sirf aanshik sanshodhan ki maang ki thi, phir bhi poora kaam ruka — prashasanik vivaad jaari). Status: bhoomi-pujan (kaam adhoora — vivaad ke kaaran ruka; dobara shuru hone ki khabar nahi mili). Caveat: Swarajvani chhota sthaniya portal hai — kaam-rukne ka vivaran usi ke mutabik. Credit-pardarshita: ye sadak-suraksha mad ka sarkari kaam hai, MLA ne bhoomi-pujan kiya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['sachin-subhashchandra-yadav'] = [
+  {
+    title: 'Dhar me kisan andolan ke dauran NH-blockade ke aarop me FIR — aaropiyon me poorv mantri Sachin Yadav ka naam bhi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'IANS via Lokmat Times, 9 May 2026',
+    sourceUrl: 'https://www.lokmattimes.com/national/fir-against-congress-mlas-workers-over-nh-blockade-during-farmers-stir-in-mps-dhar/',
+    date: '2026-05-09',
+    note: 'NEGATIVE entry. IANS ke mutabik Dhar police ne 7 May 2026 ko Khalghat (Indore-Ahmedabad NH four-lane) par statewide Congress kisan andolan ke dauran National Highway block karne ke aarop me lagbhag 26 Congress netaon aur saikdon karyakartao par FIR darj ki; FIR me "poorv mantri Sachin Yadav" ka naam bhi hai — pehchaan Kasrawad ke vidhayak Sachin Yadav se verify (Kamal Nath sarkar me krishi mantri, 2018-2020). BNS ki dharaon — gairkanuni jamawda, galat tareeke se rokna, sarvajanik marg avaruddh karna — ke tahat prakaran darj; janch jaari, aage ki karwai lambit. Article me vidhayak ka vyaktigat paksh nahi hai; LoP Umang Singhar (jo khud aaropi hain) ne FIR ko kisanon ki aawaz dabane ka aarop bataya. Status: FIR darj — dosh-siddhi ka koi daava nahi. Caveat: ye vikas-karya nahi, virodh-pradarshan se juda case hai — negative entry ke roop me darj. Mantri-karyakaal (2018-2020) ke kaam is batch me shaamil nahi kiye gaye.',
+    period: '2023-2028',
+  },
+];
+
+// balkrishn-patidar: profile KHAALI — pass hone layak koi thos kshetra-kaam credible source se verify nahi hua (sirf CM-karyakram maujoodgi, maang/bhashan, sansad-nidhi karyakram me maujoodgi mili; sab REJECT-LOG me).
+
+mpWorks['kedar-chidabhai-dawar'] = [
+  {
+    title: 'Dhar me kisan andolan ke dauran NH-blockade ke aarop me FIR — 26 Congress netaon me vidhayak ka naam bhi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'IANS via Lokmat Times, 9 May 2026',
+    sourceUrl: 'https://www.lokmattimes.com/national/fir-against-congress-mlas-workers-over-nh-blockade-during-farmers-stir-in-mps-dhar/',
+    date: '2026-05-09',
+    note: 'NEGATIVE entry. IANS ke mutabik Dhar police ne 7 May 2026 ko Khalghat (Indore-Ahmedabad NH four-lane) par statewide Congress kisan andolan ke dauran National Highway block karne ke aarop me lagbhag 26 Congress netaon aur saikdon karyakartao par FIR darj ki; FIR me Bhagwanpura ke vidhayak Kedar Dawar ka naam bhi hai. BNS ki dharaon — gairkanuni jamawda, galat tareeke se rokna, sarvajanik marg avaruddh karna — ke tahat prakaran darj; janch jaari, aage ki karwai lambit. Article me vidhayak ka vyaktigat paksh nahi hai; LoP Umang Singhar (jo khud aaropi hain) ne FIR ko kisanon ki aawaz dabane ka aarop bataya aur andolan jaari rakhne ki baat kahi. Status: FIR darj — dosh-siddhi ka koi daava nahi. Caveat: ye vikas-karya nahi, virodh-pradarshan se juda case hai — negative entry ke roop me darj.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Khargone district batch REJECT-LOG (2026-10-14) ----
+// smt-jhuma-solanki: Bhaskar (Aug 2026) vidhan-sabha me khaad/moong/sinchai maang (sirf maang/bayan, vipaksh — kaam nahi); Bhagoriya utsav me shirkat (sanskritik karyakram, kaam nahi); navabharat seat-analysis (rajnaitik vishleshan, kaam nahi).
+// sachin-birla: FPJ Sanawad Amba-Rodia nirikshan (sirf nirikshan/ashwasan, thos kaam nahi); YouTube Bediya 65-lakh bhoomi-pujan + "mini-Indore" yojana (YouTube-only); dal-badal sadasyata vivaad (2021-22, pre-term + rajnaitik); public.app Radha-Krishna mandir bhoomi-pujan (public.app-only).
+// rajkumar-mev: YouTube 82.50-lakh works (YouTube-only — wahi story Bhaskar se verified, isliye Bhaskar entry rakhi); FPJ CM-mulaqat (sirf maang/prastav — stadium/bagicha).
+// sachin-subhashchandra-yadav: YouTube ICU/lab shubharambh 2021 (pre-term + YouTube-only); Ram-mandir chanda abhiyan (daan abhiyan, kaam nahi); YouTube tanker "pichhle varshon" (YouTube-only + pre-term); Kasrawad kisan paidal-march (andolan/maang); javelin khiladi Sachin Yadav (GALAT VYAKTI).
+// balkrishn-patidar: CM Jan-Abhaar Yatra bhashan + nimad-sambhag/krishi-college maang (maujoodgi + maang); FPJ CM bonanza (sirf maujoodgi); Bhaskar Yadav Samaj Bhavan (Rs 10 lakh sansad-nidhi — MLA sirf maujood); Bhujaria parv shaurya-pradarshan (sanskritik, kaam nahi); 2023 virodh-video (pre-term). PROFILE KHAALI.
+// kedar-chidabhai-dawar: YouTube Segav + Bistan up-tehsil (Rs 85 lakh) bhoomi-pujan (YouTube-only); World Tribal Day avkash-patra (sirf maang); Dagadkhedi dharna (andolan, YouTube-only); soybean MSP pradarshan (andolan); 2021 "gumshuda" poster virodh (pre-term); 2020 BJP-samarthan (pre-term).
