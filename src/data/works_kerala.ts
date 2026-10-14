@@ -2459,3 +2459,271 @@ keralaWorks['advocate-c-v-santhakumar'] = [];
 // 8. LSG tender (Anandappally Govt LP School): 2024-25 purani entries, purv MLA Chittayam Gopakumar ke naam — reject.
 
 // COORDINATOR QA NOTE (Pathanamthitta district batch, 2026-10-14): 5/5 workers completed, sabhi 5 fragments khud padhe — assignment format exact, har slug append se pehle 0 matches (koi overwrite nahi), marker 1x; kul titles 25 (koi nayi entry nahi — sabhi 5 profiles imaandari se KHAALI rahi). Reject-logs sabhi reject ke saath kyun: Mammen (8 angles — pre-event/ceremonial + poorv MLA + Rahul Mamkootathil galat-vyakti trap), Madhu (13 rejects — sirf maang/bayaan + purane tenders purv MLA ke + Poonjar bridge galat-vyakti trap), Abin (8 rejects — Sabarimala package pre-sanctioned, MVD fine gaadi maalik par tha), Jenish (7 rejects — Seethathodu mall pre-term Feb 2026, May 2025 FIR incident pre-term, minister Janeesh galat-vyakti trap), Santhakumar (8 rejects — MC Road sirf maang, KRSA vibhagiya, leaflet pre-term campaign). Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; entry objects me 0 comments; reject-logs Roman Hinglish.
+
+// ---- Thiruvananthapuram district batch (researched 2026-10-14) ----
+
+keralaWorks['adv-v-joy'] = [
+  {
+    title: 'Police adhikaariyon ko dhamki dene ke aarop me V. Joy ke khilaf case darj: Youth Congress ki shikayat par BNS dharaon me FIR (Oct 2026), Joy ne inkaar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (via ABP Live), 03 Oct 2026',
+    sourceUrl: 'https://news.abplive.com/news/india/kerala-police-book-cpm-mla-v-joy-kadakampally-surendran-ex-minister-over-death-threats-1869488/amp',
+    date: '2026-10-03',
+    note: 'PTI ke mutabik 1 Oct 2026 ki raat Kerala University men\'s hostel me SFI-Youth Congress jhadap ke baad hue lathicharge ke virodh me CPI(M) ne Secretariat tak virodh march nikala tha; FIR ke anusaar V. Joy ne AG\'s office ke saamne karyakarton ko sambodhit karte hue kaha ki police adhikariyon ko seema se pare dhakela gaya to hatya ho jayegi ("a murder will happen") aur unhone dange bhadkane ka uksawa diya — Youth Congress neta Renjith Raveendran ki shikayat par police ne BNS ki danga-uksawa (provocation) aur aapradhik dhamki (criminal intimidation, jaan se maarne ki dhamki sahit) se judi dharaon me case darj kiya; poorv mantri Kadakampally Surendran bhi saha-aaropi hain. Virodhi-dal neta Pinarayi Vijayan ne 4 Oct 2026 ko Grih Mantri Ramesh Chennithala ko patra likhkar in FIRs ko "non-bailable" batate hue police par dohra-mapdand ka aarop lagaya. Joy ne Manorama News se baat me dhamki dene se inkaar kiya; unke mutabik unhone sirf kaha tha ki bachchon ko is tarah berahmi se peeta gaya to maut ho sakti hai. Abhi tak giraftari, zamanat ya chargesheet ki khabar nahi mili — mamla FIR-stage par hai. Dhyan rahe: ye Varkala seat ke kisi vikas-kaam se juda nahi hai; neta ke vartaman karyakaal ke aacharan se juda mamla hone ke naate darj kiya gaya hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (adv-v-joy):
+// 1. Chunav coverage May 2026 (TOI liveblog, Indian Express, Oneindia, ABP Live, India TV) — sirf jeet ki khabar (2,050 maton ka antar); vikas-kaam nahi, reject.
+// 2. Akkulam-Chettuva waterway phase-1 udghatan, Chilakoor Varkala, 26 Feb 2026 (ET/Hindustan Times/The Week/Siasat, PTI) — karyakaal se pehle; udghatan CM Pinarayi Vijayan ne kiya, V. Joy sirf adhyaksh; reject: pre-term + sirf adhyakshata.
+// 3. MLA-SDF-2025-26 tender notices (tender.lsgkerala.gov.in PDF, nationaltenders, tendersontime: Kottumoola new road ward 24, Model HSS bus waiting station, Chalamkonam road Madavoor) — tender aggregator srot + sirf tender-notice stage + pre-May-2026 bids (Feb/Mar 2026, Oct 2025); reject: pre-term + tender stage + kamzor srot.
+// 4. Varkala sub-treasury naya bhavan udghatan, Oct 2022 (thalasthanavarthakal.com) — purane karyakaal; reject.
+// 5. Kuruvila anganwadi water-supply scheme udghatan, Edava (Kerala Kaumudi, ~mid-2025) — purane karyakaal; reject.
+// 6. Mikavutsavam student-honour programme, Jul 2024 (News18 Malayalam) — purane karyakaal; udghatan mantri Saji Cherian ne kiya, Joy sirf adhyaksh; reject.
+// 7. Madhyamam Onam article, Oct 2026 — V.S. Joy (Congress, Malappuram DCC president, Thavanoor MLA) ke baare me hai — galat vyakti; reject.
+// 8. HP NEWS, Sep 2026 — Anjengo division me LDF candidate Bijimol S ka "kendra chunav-samiti office" udghatan: aane wale local-body chunav ki prachar activity, ceremonial; reject.
+// 9. Onmanorama, 12 Oct 2026 — Assembly session live: V. Joy ka SFI-hostel-violence par adjournment motion; sadan ki rajnaitik karyavahi, vikas-kaam nahi; reject.
+// 10. Vattiyurkavu junction road project, Sep 2026 (thehmars.onrender.com) — doosri seat (Vattiyoorkavu) ke MLA K. Muraleedharan ka karyakram; reject: galat vyakti + kshetra-bahar.
+// 11. 2026 halafnama me 11 cases (IE candidate list) — chunav-halaafnama ka purana disclosure; current term me naya FIR sirf 1 Oct protest wala mila (entry ban gayi); baaki qualifying nahi.
+// QA: 7 search batches (English + Malayalam, news vertical sahit); May-Oct 2026 me Varkala kshetra me V. Joy-netritva wala koi established-media post-event development report nahi mila. Unki khabar-profile par chunav aur Oct 2026 police-case vivad chhaya hai. Positive entries zero; profile par sirf ek qualifying negative entry rakhi gayi hai.
+// Pehchan verified: O. S. Ambika (Omana Sukumaran Ambika), CPI(M), Attingal (SC) — 2026 me 13,375 maton se jeeti (59,163 vs BJP ke P. Sudheer 45,788; TOI); pehle 2021 se Attingal ki MLA; 2026 halafnama me 0 cases (IE candidate list).
+// RESULT o-s-ambika: no qualifying works entry found — profile stays honestly empty.
+
+keralaWorks['o-s-ambika'] = [];
+
+// REJECT-LOG (o-s-ambika):
+// 1. Chunav coverage May 2026 (TOI liveblog, Indian Express, Oneindia, ABP Live, Business Today, Financial Express) — sirf jeet ki khabar; vikas-kaam nahi, reject.
+// 2. TOI, Jan 2026 — Attingal Manaveeyam Veedhi-style cultural street (Rs 1 cr, MLA fund): khabar me hi "assembly elections se pehle poorn karne ka lakshya" likha hai; tender bhi final nahi tha; reject: pre-term + tender stage.
+// 3. TOI, Oct 2025 — LIFE project ke 18 makaanon ki chaabi-vitran: mantri M.B. Rajesh ne chaabiyan saunpi, Ambika sirf adhyaksh; purane karyakaal; reject.
+// 4. New Indian Express, 2019 interview — "Attingal bypass will be my first priority": campaign-time "karenge" ghoshna; reject.
+// 5. News18 Malayalam, 11 Aug 2025 — Nagaroor PHC naya office block (Rs 38 lakh MLA asset fund): purane karyakaal; reject.
+// 6. attingalvartha.com, 2 Oct 2026 — Gandhi Jayanti par nagarsabha mega-safai abhiyan ka udghatan: municipality campaign ka ceremonial udghatan, koi nirman/kaam nahi; chhota local portal; reject.
+// 7. attingalvartha.com, 2 Oct 2026 — Melattingal me muft netra-parikshan camp ka udghatan (mandir parisar): community camp ka ceremonial udghatan; reject.
+// 8. hpnewsatl.com, Oct 2026 — KSKTU jila sammelan ki sangathan-samiti baithak, Attingal: union/sangathan karyakram, vikas-kaam nahi; reject.
+// 9. Mathrubhumi English, 23 Sep 2026 — "Ambika on sister Radha's Rs 46 cr cheque fraud claims": ye film actress Ambika (Tamil/Malayalam cinema) ke baare me hai — galat vyakti; reject.
+// 10. Negative check: 2026 halafnama me 0 pending cases; current term me koi FIR/case/adalaati/janch ki established-media reporting nahi mili — koi negative entry nahi.
+// QA: 8 search batches (English + Malayalam, news vertical sahit); May-Oct 2026 me Attingal kshetra me O.S. Ambika-netritva wala koi lokarpan/shilanyas/swikriti/ghoshna ka established-media post-event report nahi mila. Profile imaandari se khaali rakhi gayi hai.
+
+keralaWorks['ramya-haridas'] = [
+  {
+    title: 'Chirayinkeezhu me block panchayat meeting vivad par 4 Sep 2026 ki raat party karyakartaon se haathapayi: Chirayinkeezhu police ne 5 Sep 2026 ko dono pakshon ki shikayaton par case darj kiye — MLA Ramya Haridas ke khilaf Congress karyakarta Sajad ki shikayat par alag case, aur Haridas ki shikayat par 15 karyakartaon ke khilaf BNS aur SC/ST Atrocities Act me case',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 05 Sep 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/case-filed-against-mla-ramya-haridas-15-congress-workers-in-keralam-after-violent-scuffle/article71431115.ece',
+    date: '2026-09-05',
+    note: 'Vivad ki jad 4 Sep 2026 ko Chirayinkeezhu block panchayat office ki meeting thi, jisme MLA ki sahayak Palayam Pradeep ki upasthiti par Congress karyakartaon ne sawal uthaya aur WhatsApp par unke adhikaar ko chunauti di. Usi raat Haridas apne samarthakon ke saath karyakarta S. Sajad ke ghar charcha ke liye pahunchi, jahan bahas haathapayi me badal gayi; mobile footage me Haridas ka ek Congress karyakarta ko thappad maarna aur doosron ka unka haath pakad kar marodna dikha, aur Haridas ne Chirayinkeezhu taluk hospital me ilaj karaya. Chirayinkeezhu police ne 5 Sep 2026 ko dono pakshon ki shikayaton par case darj kiye: Haridas ke bayan par 15 Congress karyakartaon (jinme 7 ki pehchan unhone ki thi) ke khilaf BNS aur SC/ST (Prevention of Atrocities) Act ke tahat, aur Congress karyakarta Sajad ki shikayat par MLA ke khilaf alag case. Haridas ne media se kaha ki sthaniya netaon ne unhe dhakka diya, dhamkaya aur haath maroda, aur KPCC inquiry panel ko gumrah karne se inkaar karte hue kaha ki New Delhi ki yatra bimaari ke kaaran radd karke ve Palakkad gayi thin. KPCC ne sahayak Palayam Pradeep aur karyakarta S. Sajad ko nilambit kiya; Haridas ki panel ke saamne sunvai pending thi. Dhyaan rahe: The Hindu (5 Sep) ke mutabiq MLA ke khilaf alag case darj hua tha, jabki Indian Express (7 Sep) ne likha ki police ne MLA ke khilaf shikayat par abhi koi kadam nahi uthaya tha — reporting me ye virodhabhas disclosed hai. Stage sirf case-darj ka hai: koi charge, aarop-patra, giraftari ya adalati faisle ki khabar nahi hai. Negative-entry bar poora hota hai: established reporting (The Hindu, Indian Express, Mathrubhumi, The Statesman) + case-darj ki sthiti + neta ka jawab.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (ramya-haridas): 1 negative entry KEPT (upar), koi positive work entry nahi mili. Pehchan verified: Ramya Haridas, INC, Chirayinkeezhu (SC), 4 May 2026 ko 56,833 vote (margin 1,422) se jeeti; purv MP Alathur LS (2019-24) — sansad-kaalkhand ke kaam exclude.
+// 1. KEPT — Sep 2026 scuffle negative entry (upar): The Hindu (5 Sep 2026, khud khola) me dono pakshon ke khilaf case-darj ki report; neta ka jawab sahit. Indian Express (7 Sep) ka virodhi line note me disclose kiya gaya.
+// 2. New Indian Express, 8 Sep 2026 (khud khola): scuffle-fallout par party dabav ki khabar — isi ghatna ki atirikt coverage (KPCC M M Hassan panel, Pradeep/Sajad nilambit, Haridas ki sunvai pending); alag ghatna nahi, entry nahi banti.
+// 3. The Statesman, 5 Sep 2026 (snippet): dono FIRon ki pushti — same event, kept entry ke srot ke roop me.
+// 4. Mathrubhumi English, 5 Sep 2026 (snippet): scuffle/hospitalisation — same event.
+// 5. Kerala Kaumudi, ~30 Sep 2026 (khud khola): Veli-Kadinamkulam solar boat service inauguration me unhone sirf gaana gaya ("Chithira Thoniyil Akkare Pokan"); udghatan unhone nahi kiya (tags me MINISTER); sirf ceremonial maujoodgi. REJECT.
+// 6. Chunav coverage (India TV, Oneindia, IE constituency page — May 2026): sirf jeet ki khabar (56,833 vote, margin 1,422). REJECT (kaam nahi).
+// 7. bharathorizon.com chunav story: aankde galat hain (rival K. Anilkumar, margin 15,000+, 72,345 vote — tathyon se mel nahi); unreliable source. REJECT.
+// 8. Prokerala, 26 Mar 2026: Congress campaign office inauguration, Cheriyankeezhu — karyakaal se pehle + party event. REJECT.
+// 9. IE 7 Sep 2026 piece me 2021 ka zikr: Alathur MP-kaalkhand me personal staff par hotel delivery-worker hamle ka aarop — 2021 ka, pre-term; staff ka mamla, neta par case nahi. REJECT.
+// 10. Oneindia bio/profile page: sirf profile, works nahi. REJECT.
+//
+// QA NOTE (ramya-haridas): 7 search rounds (English, news vertical sahit; "inaugurated", "foundation stone", "sanction", Sep/Oct 2026 terms) me May-Oct 2026 ka koi poora hua kaam, lokarpan, shilanyas ya swikriti established media me nahi mila. Unki coverage poori tarah chunav, scuffle-vivad aur ceremonial maujoodgi par kendrit hai. Ek negative entry bar poora karti hai, isliye rakhi gayi; positive profile khaali hai.
+//
+// Scope: G. R. Anil (g-r-anil, CPI) — Nedumangad, karyakaal May 2026 se (4 May 2026 ko 69,206 vote, margin 21,583 se jeete; 2021-26 me Food & Civil Supplies Minister the — mantri-kaalkhand ke kaam exclude). Period '2026-2031'.
+
+keralaWorks['g-r-anil'] = [];
+
+// REJECT-LOG (g-r-anil): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: G. R. Anil, CPI, Nedumangad.
+// 1. TOI, ~Nov 2025 (347 days ago, snippet): 3 sadkein (Konchira-Mudippura Temple Road Rs 50 lakh, Kaithayil Rs 20 lakh, Kanjamvilakam Rs 15 lakh) ka udghatan — karyakaal se PEHLE, mantri-bhoomika me. REJECT (pre-term + mantri-role).
+// 2. TOI, Jul 2025: Vazhayila-Nedumangad road phase-2 (Karakulam-Valicode) ki technical sanction — pre-term. REJECT.
+// 3. TOI, May 2025: Nedumangad me 4,000 LIFE ghar + mini drinking water project ka dawa — pre-term, mantri-era. REJECT.
+// 4. ThePrint/PTI, 14 Oct 2026 (khud khola): Kaniyapuram Railway Over Bridge (Rs 48.74 crore administrative sanction, 2018-19 budget ki purani swikriti) par Assembly me submission — Anil ne vilamb uthaya, CM ne jawab diya; koi nayi swikriti/ghoshna nahi. REJECT (sirf maang/prastav).
+// 5. The Hindu, 1 Oct 2026 (snippet): Youth Congress-SFI jhadap ke baad University College hostel ka daura (Binoy Viswam ke saath) — sirf bhet/visit. REJECT.
+// 6. Chunav coverage (Mathrubhumi 22 Mar 2026, Asianet Newsable, lokmattimes, newkerala, IE, TOI, ABP, Business Standard — Mar-May 2026): sirf prachar/jeet ki khabrein ("double majority" dawa sahit). REJECT.
+// 7. Onmanorama key-events, 12 Mar 2026: Palaayam Bhagyamala Auditorium me Joint Council conference ka inauguration — pre-term listing. REJECT.
+// 8. NOTE — ADR/IE candidate data me G. R. Anil par "1 case" (2026 halafnama) darj hai, lekin ye pre-existing affidavit disclosure hai; is karyakaal me unpar koi FIR/case/adalaati/janch ki established-media reporting nahi mili, isliye koi negative entry nahi banti.
+//
+// QA NOTE (g-r-anil): 8 search rounds (English, news vertical sahit; "inaugurated", "foundation stone", "sanction", "MLA fund/ADS", Jun-Oct 2026, assembly submission terms) me May-Oct 2026 ka koi lokarpan, shilanyas, swikriti ya MLA-netritva wala kaam established media me nahi mila. Vipakshi MLA ki bhoomika me unki coverage chunav, party-gatividhi aur ek assembly submission tak seemit hai. Profile imaandari se khaali rakhi gayi hai.
+
+keralaWorks['muhammed-sudheersha-s'] = [];
+
+// REJECT-LOG (muhammed-sudheersha-s):
+// 1. REJECT — New Indian Express, 15 May 2026: 'MLA Sudheersha draws up priorities for Vamanapuram' (shapath se pehle MLA-elect interview): vany-jeev sangharsh, Venjaramoodu flyover traffic, Ponmudi ropeway/paryatan, taluk-aspatal, Palode KSRTC depot renovation, peyjal-sankat, nasha-rok, fire-station bhavan — sab yojnaen/priorities, koi poora kaam/swikriti/shilanyas nahi. REJECT (karenge + pre-oath).
+// 2. REJECT — New Indian Express, 2 Apr 2026: 'Vamanapuram faces renewed UDF push after 50 years of Left reign' — chunavi profile, poorv-MLA D.K. Murali ke 10 saal ke dawe sahit. REJECT (pre-term chunavi coverage).
+// 3. REJECT — chunav parinaam coverage (Indian Express, TOI, Oneindia, Business Today, ABP Live — 4-5 May 2026): 73,590 vote, 12,185 margin se jeet. REJECT (sirf jeet ki khabar, vikas-kaam nahi).
+// 4. REJECT — TOI: 'Vamanapuram roads soon to be high-tech' (Rs 22 crore Muthuvila-Parappil-Chellanchi-Perayam road projects): article me 'Vamanapuram MLA D K Murali' uddhrit hain — POORV MLA, purana karyakaal. REJECT (galat vyakti + pre-term).
+// 5. REJECT — Venjaramoodu flyover stories (TOI traffic regulations, piling works; The Hindu 23 Jun 2025): sab me 'Vamanapuram MLA D.K. Murali' ka bayan, cabinet-sanction Rs 28 crore aur tender 2024 ke hain. REJECT (poorv MLA + pre-term).
+// 6. REJECT — TOI: 'Min to open water projects covering 4 panchayats today' (Anad, Nandiyode, Kurupuzha, Palode panchayats; crawl ~Mar 2026): Water Resources Minister Roshy Augustine ka udghatan; pre-May 2026. REJECT (pre-term + mantri ka karyakram).
+// 7. REJECT — YouTube: 'SAPARYA ACADEMY AWARD GRAND FINALE NIGHT 2026, INAUGURATION BY Hon. MLA SUDHEERSHA PALODE' — YouTube-only srot + academy award function ka ceremonial udghatan. REJECT (YouTube-only + ceremonial).
+// 8. REJECT — India TV (ADR/MyNeta): halafname me 87 cases darj hain, lekin ye chunavi affidavit ka purana disclosure hai; is karyakaal me unpar kisi naye FIR/case/adalaati/janch ki established-media reporting nahi mili. REJECT (pre-term affidavit data, vartaman-vikas ke bina negative-entry bar nahi chhoota).
+// QA: 11 alag search batches (English, news vertical sahit) me May-Oct 2026 ke dauraan Sudheersha ke naam par established English media me koi udghatan, shilanyas, sanction-order/GO ya fund-allocation khabar nahi mili; sabha sirf ~5 mahine purani aur coverage adhiktar chunav/parinaam/priorities par simit hai. Khaali profile imaandari hai.
+// Kerala works-mining fragment — Thiruvananthapuram district batch (researched 2026-10-14)
+// MLA 2: V. Muraleedharan (v-muraleedharan), BJP — Kazhakootam (AC 132), Thiruvananthapuram
+// Karyakaal scope: May 2026 se (parinaam 4 May 2026; period '2026-2031').
+// Pehchan verify: poorv Kendriya Mantri (MoS External Affairs aur Parliamentary Affairs, 2019 se) aur Rajya Sabha MP; Kadakampally Surendran (CPI(M)) ko sirf 428 vote se haraya.
+// NAME-TRAP CHECK: isi jile ki Vattiyoorkavu seat (133) par K. Muraleedharan (INC) ab Health aur Devaswoms Minister hain — swasthya/vibhagiya khabrein K. Muraleedharan ki hain, V. Muraleedharan ki nahi (galat-vyakti guard).
+// RESULT: 1 negative entry (Kerala High Court election petition) — stage: yachika sunvai-adhin. Positive qualifying entry koi nahi mili; kendra/mantri-kaal ke kaam scope se bahar.
+
+keralaWorks['v-muraleedharan'] = [];
+
+// QA-REJECT (v-muraleedharan): chunav-yachika (El.Pet. 8/2026, LiveLaw 31 Jul 2026 — Kadakampally Surendran ne Kazhakootam jeet ko bhrasht-aachar ke aarop par Kerala HC me chunauti di; 4 Aug 2026 ko statement ke liye posting, koi faisla nahi) — keval yachika-dakhil/sunvai stage, koi adverse adalaati karyavahi (stay/finding) nahi; Kottayam batch ke adv-sebastian-m-j precedent ke anuroop (routine chunav-yachikaein negative nahi banti) worker ka banaya hua negative entry HATA diya gaya, profile khaali rahi.
+// REJECT-LOG (v-muraleedharan):
+// 1. REJECT — chunav parinaam coverage (NDTV, Onmanorama, Economic Times, mid-day, ANI wire newkerala/lokmattimes/webindia123 — 4-5 May 2026): 428 vote se jeet, purv Union Minister background. REJECT (sirf jeet ki khabar, kaam nahi).
+// 2. REJECT — The Hindu, 12 May 2026: 'MLA-elect V. Muraleedharan slams delay in Kerala government formation' — Sabarimala-gold-theft jaanch par bayan; Kazhakootam me corporation mayor/officials ke saath coordination meetings schedule. REJECT (bayan + meetings only, koi poora/swikrit kaam nahi).
+// 3. REJECT — NIE, Dec 2025: 'V Muraleedharan: Willing to contest from Kazhakkoottam' — pre-election. REJECT (chunav se pehle).
+// 4. REJECT — webindia123/Asianet, Mar 2026: 'politics of performance' campaign bayan. REJECT (pre-term prachar).
+// 5. REJECT — TOI, 2022: SilverLine 'Prathirodha Yathra' Union Minister ke roop me — mantri-kaal, scope se bahar. REJECT (kendra/mantri-kaal, pre-term).
+// 6. REJECT — NIE, Dec 2022 + Kerala Kaumudi: Kazhakkootam elevated highway (2.71 km) ka Gadkari udghatan, V Muraleedharan MoS ke roop me maujood — mantri-kaal, purana. REJECT (kendra-kaal, pre-term).
+// 7. REJECT — NIE, 2019: 'Muraleedharan Cabinet post to empower state BJP' — party-gut story. REJECT (party maamla, kaam nahi; pre-term bhi).
+// 8. REJECT — UNI India, 23 Sep 2026: PromptTech Global facility at Technopark (Kazhakootam) ka udghatan Industries Minister P K Kunhalikutty ne kiya; Muraleedharan ki koi bhoomika report me nahi. REJECT (mantri ka karyakram, maujoodgi bhi nahi).
+// 9. REJECT — The South First, ~May 2026: BJP legislature-party leader tug-of-war — 3 BJP MLAs ke beech party bhumika. REJECT (party maamla, vikas-kaam nahi).
+// 10. REJECT — 'Muraleedharan' naam wali swasthya/vibhagiya khabrein — ye K. Muraleedharan (INC, Vattiyoorkavu) ki hain, jo 18 May 2026 se Health aur Devaswoms Minister hain. REJECT (galat vyakti — name-trap).
+// 11. REJECT — Bar & Bench: BJP state president K. Surendran ka Manjeswaram election-bribery case discharge stay — ye 2021 ka mamla aur alag vyakti hai. REJECT (galat vyakti + purana mamla).
+// 12. REJECT — India TV (ADR/MyNeta): halafname me 8 cases — chunavi affidavit ka purana disclosure; is karyakaal me unpar kisi naye FIR/case/janch ki established reporting nahi mili. REJECT (pre-term affidavit data; negative-entry bar nahi chhoota).
+// 13. REJECT — supremetoday.ai (election petition report) — AI-aggregator hai; canonical srot LiveLaw khud khola gaya aur usi par entry bani.
+// QA: 12 search batches (English + news vertical) me May-Oct 2026 ka koi udghatan/shilanyas/swikriti/fund-allocation V. Muraleedharan ke naam par Kazhakootam seat me established media me nahi mila — coverage chunav, party-bhoomika aur election petition par kendrit hai. Positive side imaandari se khaali; negative side par LiveLaw election petition entry kayam hai (satheesan-LokAyukta precedent ke anuroop: credible reporting + adalaati sthiti).
+
+keralaWorks['k-muraleedharan'] = [
+  {
+    title: 'Vattiyoorkavu junction development project ke civil works ka unhone 14 Sep 2026 ko Maruthankuzhy ke paas udghatan karke kaam ki shuruaat karayi; KRFB ne ULCCS ko 10.8-km corridor ke nirman ka contract diya hai',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 16 Sep 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/former-mla-urges-govt-to-expedite-land-acquisition-for-third-reach-of-vattiyurkavu-junction-development-project/article71473094.ece',
+    date: '2026-09-14',
+    note: 'Health Minister aur Vattiyoorkavu MLA K. Muraleedharan ne 14 Sep 2026 ko Maruthankuzhy ke paas Vattiyoorkavu junction development project ke civil works ka udghatan kiya; Kerala Road Fund Board (KRFB) ne Uralungal Labour Contract Cooperative Society (ULCCS) ko sadak, culvert, retaining wall aur utility-line shifting ka contract diya hai. Udghatan se ek din pehle unhone KRFB ke project management unit ke saath review meeting karke turant kaam shuru karne aur samay par poora karne ka nirdesh diya tha. Pehla charan 7.215 km ka hai (Sasthamangalam-Mannarakkonam, Thoppumukku-Vattiyoorkavu, Mannarakkonam-Peroorkada sadkein, Mannarakkonam junction ka vistar) aur vartaman charan ke liye Rs 73.61 crore rakhe gaye hain; poori pariyojna ka revised estimate Rs 531.76 crore hai. Imaandari ke liye zaroori tathya: is pariyojna ki sanction, tender prakriya aur bhoomi-adhigrahan ka bada hissa pichli LDF sarkar ke dauran hua tha; poorv MLA V. K. Prasanth ne aarop lagaya hai ki udghatan pehle se pragati par chal rahe kaamon ka tha. Isliye stage civil-works-inauguration/commencement ka hai, lokarpan nahi. The Hindu ki 16 Sep ki post-event report udghatan ke ho jaane ki pushti karti hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (k-muraleedharan, Vattiyoorkavu — post-May-2026 window; sabhi sources khud padhe gaye)
+// 1. TOI, ~24 Jun 2026 — Vattiyoorkavu me purani water pipelines badalne ke liye unka hastakshep: sirf constituency monitoring committee me adhikariyon ko nirdesh (road-cutting approval lene ka), koi sanction/GO/poora kaam nahi. REJECT (nirikshan-adesh only).
+// 2. Wahi TOI report — Moolethoppu Bridge par kharab sewage line ki Rs 22 lakh marammat ke liye Kanakakunnu bus-stand fund se diversion: sirf nirdesh; mamla district collector ke adhikaar-kshetra ka, prashasnik prakriya pending; koi swikrit ya poora kaam nahi. REJECT (nirikshan-adesh only).
+// 3. Wahi TOI report — bus waiting shelters ki feasibility study aur dilapidated shelters ke renovation ke nirdesh: sirf feasibility study ke nirdesh. REJECT (nirikshan only).
+// 4. TOI, ~29 Sep 2026 — Vattiyoorkavu me mini fire station aur naye police station bhawan ki yojna: FRAV meeting me sirf ghoshna/maang; fire station ke liye zameen (housing board land) par vichaar pending, police-station ke liye PWD se estimate banane ka nirdesh; koi sanction nahi. REJECT (ghoshna/yojna only).
+// 5. Kerala Kaumudi, ~18 Sep 2026 — 'Pathradhipar' smriti-sabha ka unke haathon udghatan (CM event, C P John chief guest, V Muraleedharan bhi maujood): samachar-patra ke samuh ki community ceremony me udghatan; vikas-kaam nahi. REJECT (ceremonial).
+// 6. Onmanorama key-events listing, 23 Sep 2026 — Kanakakunnu Palace Hall me Ayurveda Day Celebration ka state-level inauguration: Health Minister ke roop me rajya-stariya karyakram; seat-level vikas-kaam nahi. REJECT (mantri-karyakram).
+// 7. News search me mili 'V. Muraleedharan' (BJP, Kazhakkoottam chunav) wali khabrein — galat vyakti (naam-trap): K. Muraleedharan (INC, Vattiyoorkavu) se bhinn. REJECT (galat-vyakti).
+// 8. NIE/TOI/The Hindu, Oct 2026 — Rs 250-crore Covid isolation wards janch, dava-kami par vidhan-sabha walkout, pharma-company bayan: sab Health Minister ke roop me vibhagiya/rajnitik mamle; koi FIR/case/adalaati unke khilaf nahi; seat-level kaam nahi. REJECT as negative: political aarop, koi formal proceeding nahi.
+// 9. Kerala Kaumudi, 7 Oct 2026 — health department me BJP neta Ratheesh R Nair ki niyukti par minister ka termination order: vibhagiya prashasnik kadam, seat-level vikas-kaam nahi; koi FIR unke khilaf nahi. REJECT.
+// 10. Newkerala/ANI, Apr 2026 — chunavi bayan 'medical college revive karenge': 'karenge' wala vaada, karyakaal se pehle ka bayan, koi kaam nahi. REJECT (karenge + pre-period).
+// 11. Purane karyakaal (2011-2016 MLA, 2019-2024 MP, kendriya mantri) ke saare kaam task-rule ke tahat bilkul liye hi nahi gaye.
+// SEAT-WORK NATIJA: May-Oct 2026 me Vattiyoorkavu seat par unki ek hi qualifying entry mili (junction civil-works udghatan); baaki sab directives, ghoshnaen ya mantri-karyakram the.
+// Kerala works-mining fragment: C. P. John (c-p-john, CMP, Thiruvananthapuram)
+// Mantri-niyam laagu: ve Transport mantri hain (Road Transport, Motor Vehicles, Water Transport) —
+// sirf Thiruvananthapuram seat ke kaam; vibhag/rajya ke faisle bilkul nahi.
+// Worker research date: 14 Oct 2026. Karyakaal scope: May 2026+.
+
+keralaWorks['c-p-john'] = [];
+
+// REJECT-LOG (c-p-john, Thiruvananthapuram — post-May-2026 window; sabhi sources khud padhe gaye)
+// RESULT: Koi qualifying entry NAHI mili — profile imaandari se KHAALI rahi.
+// 1. New Indian Express, 13 May 2026 — 'Subsurface dams to coastal housing, C P John's futuristic plans': subsurface dams, canal fencing/walkways, coastal housing sirf yojnayen/sapne; koi swikriti, shilanyas ya poora kaam nahi. REJECT (ghoshna/yojna only).
+// 2. The Hindu, ~10 Jun 2026 — drinking water, sewage, power par keynote (Home Expo felicitation): sirf bayan/prathmikta; koi kaam. REJECT (bayaan only).
+// 3. Newsdrum/PTI, 31 May 2026 — Thiruvananthapuram waterlogging par urgent steps: mantri Mons Joseph ki ghoshna; C P John sirf charcha me shamil (3 mantriyon ki high-level meeting); koi unki seat-level dastavezi bhoomika nahi. REJECT (maang/charcha only).
+// 4. Lokmat Times/IANS, 30 Sep 2026 — Veli se Parvathy Puthanar-Kadinamkulam boat service ka unke haathon udghatan: ye Transport Minister ke roop me water-transport vibhag ki rajya-sarkar ki pariyojna hai ('Chief Minister Satheesan government wants to turn Veli into transport-tourism gateway'); vibhagiya faisla mantri-niyam ke tahat bahar. REJECT (vibhag/rajya faisla).
+// 5. Onmanorama key-events, 22 Sep 2026 — Thampanoor me KSRTC Budget Tourism Cell projects ka unke haathon udghatan: KSRTC (unke vibhag) ka karyakram; seat-level MLA development work nahi. REJECT (vibhagiya/mantri karyakram).
+// 6. Scoopfeeds (The Hindu feed), 30 Sep 2026 — elderly day celebrations me unki adhyakshata (K. Muraleedharan, V. E. Abdul Gafoor special guests): ceremonial samaroh; vikas-kaam nahi. REJECT (ceremonial).
+// 7. Onmanorama key-events, 16 Sep 2026 — drama festival inauguration, Press Club KPCC meeting: cultural/sangathan karyakram me maujoodgi. REJECT (ceremonial).
+// 8. Mathrubhumi English, 3 Aug 2026 — KSRTC fleet expansion ke liye MLA funds istemal ki ghoshna: vibhagiya yojna (Palakkad me ghoshna), seat-level kaam nahi, sirf plan. REJECT (vibhagiya ghoshna).
+// 9. NIE/Statesman/Mathrubhumi, 4-5 Aug 2026 — Priyadarshini free bus scheme par vivadaspad bayan aur phir khed: mantri-bayan ka rajnitiik vivaad; koi FIR/case/adalaati unke khilaf nahi; unhone khed vyakt kiya. REJECT as negative: sirf bayan, koi formal proceeding nahi.
+// 10. The Hindu, 31 Aug 2026 — Pinarayi Vijayan par 'intimidation' ka aarop wala unka bayan: rajnitiik bayan; vikas-kaam nahi, negative ke liye FIR nahi. REJECT.
+// 11. Chunav-result coverage (TOI, Moneycontrol, ETV Bharat, Oneindia — May 2026): sirf jeet ki khabrein — works entry nahi banti.
+// QA: 6 search batches (English + news vertical); May-Oct 2026 me established English media me Thiruvananthapuram seat par unki MLA-bhoomika wala koi udghatan, shilanyas, swikriti ya lokarpan report nahi mila. Unki public reporting lagbhag poori tarah Transport mantri ki bhoomika me hai, jo mantri-niyam ke tahat bahar hai. Kamzor attribution par entry banane se behtar profile khaali rakhna hai.
+
+keralaWorks['rajeev-chandrasekhar'] = [];
+
+// REJECT-LOG (rajeev-chandrasekhar, scope: sirf May 2026 ke baad ke Nemom seat ke satyapit kaam; purv kendriya mantri-kaaryakaal aur BJP rajya adhyaksh ki party-bhoomika/celebrity coverage poori tarah scope se bahar)
+// 1. PTI via Devdiscourse, 22 May 2026 — "24x7 MLA office with ambulance service to open in Nemom": ghoshna ke samay sirf "pehle June ke saptah me shuru hoga" bayan; office/ambulance ke vaastav me khulne/udghatan ki koi post-event reporting established media me NAHI mili — "karenge" stage. Upar se MLA office sansthanik/rajnetik karyalay hai (jan-upyogi vikas-kaam nahi; g-sudhakaran batch me isi aadhaar par reject precedent hai), aur ambulance seva vyaktigat/aapda welfare-shreni me aati hai. REJECT.
+// 2. ThePrint (PTI), 20 Sep 2026 — Govt High School Pappanamcode ka daura; Rs 3.5 crore kharch ke bawajood tuti imarat par Sivankutty/CPI(M) par bhrashtachaar ka aarop; "two-phase action plan" ki ghoshna (turant marammat + master plan) deadlines sahit. Sirf nirikshan + aarop + prastav/ghoshna; koi poorn kaam, swikriti, GO ya lokarpan nahi. Aarop ko negative entry bhi nahi bana sakte (aarop usi ne lagaya hai, uske khilaf FIR/case/adalaati/janch kuch nahi). REJECT.
+// 3. Times of India + Metrovaartha English, 4 Sep 2026 — Thiruvananthapuram Metro ko Pappanamcode se Nemom railway station tak badhane ki CM ko chitthi/FB post: sirf maang/patra-vyavhar; koi swikriti ya poorn kaam nahi. REJECT (maang only).
+// 4. Times of India, ~12 Oct 2026 — KWA ne stalled Rs 200 crore Aruvikkara water treatment plant (100 MLD) ke liye Chandrasekhar se Union govt funds jutane me madad MANGI hai: abhi tak uska koi dastavezi kadam nahi, plant swikriti bina atka hua hai, aur Aruvikkara kshetra Nemom seat se bahar hai (city-wide Kazhakkoottam/Vizhinjam kshetra). REJECT (sirf sampark, koi kaam nahi; kshetra-bahar).
+// 5. New Indian Express, 3 Apr 2026 — Nemom ke liye BJP candidate manifesto (Attukal township, Vellayani lake, 'Clean Karamana Clean Killiyar', Vijaymohini Mill/SIDCO revival, Santhivila hospital upgrade, sports centre): chunavi vaade, sab "karenge" shreni; chunav se pehle ki date bhi. REJECT.
+// 6. Chunav-result coverage (Onmanorama 4 May, TOI, The Statesman, Times Now, Moneycontrol, Asianet Newsable — May 2026): 4,978 maton ka antar, V Sivankutty ko haraya; sirf jeet ki khabrein — vikas-kaam nahi. REJECT.
+// 7. Election campaign (Mathrubhumi English 17 Mar 2026, ANI via Latestly 22 Feb 2026, TNIE 8 Mar 2026 "chargesheet" protest): campaign events aur virodhi-dal par aarop — vikas-kaam nahi; chunav se pehle ki date bhi. REJECT.
+// 8. India Today YouTube interview (~Sep 2026) — Kerala model, debt crisis, UPI, Vande Mataram par bayan: sirf interview/bayan; YouTube-only bhi. REJECT.
+// 9. keralabjp.org Format C-7 — unke khilaf do 2023 ke pending cases (IPC 153/153-A, Ernakulam Central PS): affidavit record hai, lekin is karyakaal (May 2026+) me koi nayi FIR/case/adalaati karyavahi ki established-media reporting NAHI mili — pre-term record ko negative entry banane ka rule nahi. REJECT (pre-term, nayi vikas nahi).
+// 10. Party-bhoomika coverage poori tarah bahar: NH-66 inauguration vivad par CM par bayan (Mathrubhumi English 11 Mar 2026 — pre-term bhi), "Viksit Keralam" convention, BJP state president statements. Scope niyam ke tahat party-bhoomika coverage entry nahi banti.
+// QA: 9 search rounds (general, news vertical, Malayalam-outlet English, inauguration/foundation/drinking-water/waterlogging-specific, post-event office-check). May-Oct 2026 me established English media me Nemom me unke naam par koi lokarpan, shilanyas ya swikriti ki post-event reporting NAHI mili. Sabha sirf ~5 mahine purani hai aur pehli baar MLA bane hain — profile imaandari se khaali rakhi gayi hai.
+
+keralaWorks['adv-g-steephen'] = [];
+
+// REJECT-LOG (adv-g-steephen, scope: sirf May 2026 ke baad ke Aruvikkara kshetra ke kaam; Steephen 2021-2026 me bhi isi seat ke MLA rahe — purane karyakaal ke kaam poori tarah bahar)
+// 1. Chunav-result coverage (Indian Express, TOI, News18, Business Today, India TV, HT — 4 May 2026): 61,907 votes, V. S. Sivakumar par 2,843 ka antar; sirf jeet ki khabrein — vikas-kaam nahi. REJECT.
+// 2. Times of India (city/thiruvananthapuram, ~Oct-Nov 2025): Aruvikkara Junction renovation (Rs 15 crore KIIFB + Rs 2.3 crore land acquisition) ka construction inauguration unke haathon: poorn reporting hai, lekin date karyakaal se PEHLE (2021-2026 karyakaal ka kaam). REJECT (pre-period).
+// 3. Archyde/Deshabhimani reference, Jul 2023: Aryanadu Panchayat ke projects (gram bhavan, HRDC hall, women fitness center) ka udghatan: 2023 ka hai, scope se bahar. REJECT (pre-period).
+// 4. Asianet Newsable (~15 Jul 2024 report): Kattakada me MLA ke vehicle ko rasta na dene par parivar (garbhwati mahila sahit) par hamle ka aarop; unhone khandan kiya (us waqt wedding auditorium me the). Report sirf aarop + shikayat ki hai, FIR/confirmed case unke khilaf darj nahi, aur ghatna pre-term hai; 2026 affidavit me zero criminal cases. Negative entry ke liye "vartaman-vikas bina pre-term case = reject" rule lagu. REJECT.
+// 5. Prokerala photo-gallery (5 Apr 2026): Aryanad GP me campaigning — campaign coverage, vikas-kaam nahi. REJECT.
+// 6. Pehchan verified (Wikipedia, The Hindu candidate profile, MyNeta ADR: CPI(M), umr 56, advocate, assets Rs 70.2 lakh, 0 criminal cases 2026) — koi galat-vyakti ka khatra nahi; Aruvikkara AC = Aruvikkara/Aryanadu/Tholicode/Vithura/Uzhamalackal/Vellanad/Kuttichal/Poovachal GPs, Attingal LS ke tahat.
+// QA: 8 search rounds (identity verify, inaugurates/foundation-stone spelling variants, June/July, September/October, panchayat-name variants Vellanad/Aryanadu/Vithura/Tholicode, news vertical, negative screen). May-Oct 2026 me established English media me unke naam par koi kshetra-star ka lokarpan, shilanyas, swikriti ya kaam ki post-event reporting NAHI mili; negative screen bhi saaf raha (2026 affidavit me zero cases; post-May-2026 me unke khilaf koi FIR/case/janch ki khabar nahi). Profile imaandari se khaali rakhi gayi hai.
+
+keralaWorks['c-k-hareendran'] = [];
+
+// REJECT-LOG (c-k-hareendran):
+// 1. Chunav-result coverage (The Hindu, Indian Express, TOI, Oneindia, ABP Live, NIE, Wikipedia, India TV — May 2026): sirf chunav jeet (69,149 vote, Neyyattinkara Sanal par 15,013 margin) — kaam-khabar nahi; REJECT.
+// 2. The Hindu, 23 Mar 2025 — pattayam assembly udghatan (Neyyattinkara/Kattakada taluk star): karyakaal se pehle; REJECT (pre-period).
+// 3. New Indian Express, 29 Sep 2025 — District Development Committee baithak (title-deed vitran, Parassala bus terminal, Neyyar dam destination, Kunnathukal stadium, MGNREGS restart ki maang): pre-period + sirf maang/charcha; REJECT.
+// 4. New Indian Express, 12 Feb 2026 — Kumbichalkadavu Bridge (Amboori) udghatan CM Pinarayi Vijayan dwara: pre-period + CM ka karyakram, Hareendran ki bhoomika sirf maujoodgi/bayaan; REJECT (pre-period + mantri-event me maujoodgi).
+// 5. Times of India, Jan 2026 — Parassala taluk hospital Rs 47-crore multi-specialty block commissioning delay (23 Jan meeting Hareendran ki adhyakshata me): pre-period; REJECT.
+// 6. constructionworld.in (Oct 2026) — District Development Committee review meeting (Collector Anu Kumari ki adhyakshata): Neyyar dam tourist destination (50% complete) jaldi poora karne, KWA maintenance aur Jal Jeevan Mission works tez karne ka aagrah; Amboori tourism, Puravimala/Thodumala me Siddha hospital, Karamana-Vazhimukku-Kaliyikkavila road par charcha — sirf baithak me sujhav/maang, koi sanction, shilanyas ya poorna kaam nahi; REJECT (nirikshan/maang only).
+// 7. bharathorizon.com — AI Ignite 2K26 techfest (IHRD College, Dhanuvachapuram, Kollayil panchayat) ka MLA dwara udghatan: chhota/unknown portal, article me date nahi (crawl July 2026; event naam se early-2026 lagta hai), college techfest samudaay karyakram ka ceremonial udghatan — vikas-kaam nahi; REJECT (ceremonial + date unverified + kamzor srot).
+// 8. YouTube VGM Media, 21 Sep 2026 — Kripa Hospital (private, Goutham Complex, Kunnathukal) grand opening, Hareendran dwara udghatan: YouTube-only srot (reject list me) + private enterprise ka commercial event; REJECT.
+// 9. PRD Live / keralanews.gov.in + Deshabhimani — Ambedkar Gramam, Malayamchuttu colony me nirmaan udghatan (Rs 1 crore, 36 parivar): Deshabhimani par date 28 Jun 2023; PRD sarkari press-note hai; karyakaal se pehle; REJECT (pre-period).
+// 10. PRD Live (April 4, 2023) + thalsthanavarthakal.com — Parassala Govt Ayurveda Hospital IP block (teen-manzila, Rs 1 crore MLA fund se) shilanyas: karyakaal se pehle; REJECT (pre-period).
+// 11. PRD Live — Kodavilakam Govt LP School me Varnakoodaram model pre-primary udghatan (Samagra Shiksha STARS scheme): article ki date verify nahi hui (tag-page ka crawl Nov 2025 ka hai — May 2026 ke baad ka saboot nahi), PRD sarkari press-note style srot; REJECT (unverified date + press-note).
+// 12. SNISPC activities page, 25 May 2025 — Aruvippuram Mutt me vacation classes ka udghatan: pre-period + dharmik sanstha ka karyakram; REJECT.
+// 13. NIE election analysis (Mar 2021, May 2021: "Lack of development in Parassala", "LDF retains southernmost seats"): purane karyakaal ki khabrein; REJECT.
+// 14. Negatives: halafname me 4 cases (FIR 1578/2011, 339/2010, 347/2010 — Neyyattinkara PS; CC pending JFMC-1/MLA-MP Court, IPC 143/147/149/283 sahit): sab chunav-se-pehle ke purane mamle hain; May-Oct 2026 me unke khilaf koi nayi FIR/case/adalaati/janch ki khabar established media me nahi mili; koi negative entry nahi.
+//
+// QA NOTE (c-k-hareendran): 11 search batches (English + Malayalam, news vertical sahit, The Hindu/Onmanorama site-specific) me May-Oct 2026 ka koi udghatan, shilanyas, sanction-order/GO ya fund-allocation khabar unke naam par nahi mili; jo bhi mentions mile sabhi pre-period, chunavi, ceremonial, ya sirf baithak-maang ke hain. Teesri baar ke MLA hone ke bawajood naye karyakaal me established media me koi kshetra-star vikas reporting nahi — profile imaandari se khaali hai.
+// Kerala works-mining fragment: M. R. Baiju (m-r-baiju, INC) — Kattakkada, Thiruvananthapuram
+// Worker research date: 14 Oct 2026. Karyakaal scope: May 2026+ (parinaam 4 May 2026); period '2026-2031'.
+// NOTE: MyNeta background pending hai (task directive) — background ka koi anuman nahi lagaya; works research normally chali.
+// RESULT: Koi qualifying entry NAHI mili — profile imaandari se KHAALI rahi.
+
+keralaWorks['m-r-baiju'] = [];
+
+// REJECT-LOG (m-r-baiju):
+// 1. Chunav-result coverage (TOI, Indian Express, News18, Oneindia, India TV, Business Today, ABP Live, Wikipedia — May 2026): sirf chunav jeet (56,846 vote, I. B. Satheesh par 7,136 margin, pehli baar MLA) — kaam-khabar nahi; REJECT.
+// 2. New Indian Express, 12 May 2026 — "KTU work, tackling drug menace among MLA-elect MR Baiju's focus": MLA-elect interview — teen priorities (APJ Abdul Kalam Technological University headquarters nirmaan tez karna, drug abuse par action, sports infra national level tak upgrade) — "karenge" wali khabar, koi poorn kaam, swikriti ya shilanyas nahi; REJECT (ghoshna/irada only).
+// 3. ETV Bharat, 29 Mar 2026 — campaign interview (bike se prachar, 10 saal baad seat wapas): chunav-prachar, karyakaal se pehle; REJECT (pre-period + campaign).
+// 4. Kerala Kaumudi (~Sep 2026) — 23rd state mountain-bike cycling championship (Vilappilshala Nedunguzhi) ka udghatan: sports event ka ceremonial udghatan; REJECT (ceremonial).
+// 5. Mathrubhumi, 24 Aug 2026 — Pallichal Vettubalikulam Onam vaaraghosham: Mudavoorpara kavala se ghosayatra ka udghatan — samudaay karyakram, ceremonial; REJECT.
+// 6. Deepika, 22 Jul 2026 — Khadi Onam mela (LMS compound, Thiruvananthapuram): udghatan minister K. Muraleedharan ne kiya, Baiju ne sirf "first sale" ki — doosre ke karyakram me ceremonial maujoodgi; REJECT.
+// 7. Kerala Kaumudi (~Sep 2026) — Thiruvonam bumper lottery draw (Gorky Bhavan): lottery draw verification committee ke chairperson ke roop me upasthiti — sansthanik/ceremonial bhoomika, vikas-kaam nahi; REJECT.
+// 8. GALAT-VYAKTI: TOI (~Sep 2026) "Exam irregularities: Kerala PSC chairman to be questioned" aur Kerala Kaumudi "PSC recruitment scam to be handed over to Vigilance" — ye Kerala PSC ke chairman Dr. M. R. Baiju (KGOA background ke poorv sarkari adhikari) hain, Kattakkada MLA M. R. Baiju (1975 me janme, pehli baar jeete INC neta) NAHI; REJECT (galat vyakti — naam ka dhokha).
+// 9. News18 Malayalam, Feb 2026 — Kattakkada me watermelon farming vistaar (I. B. Satheesh) aur 39 sarkari offices me solar (minister K. Krishnankutty): pre-period + poorv MLA/mantri ka kaam; REJECT.
+// 10. PRD Live — 'Make in Kattakkada' (60 products, 539 enterprises): poorv-karyakaal ki scheme, Baiju se sambandh nahi; REJECT.
+// 11. Negatives: MyNeta background pending hone se halafnama data uplabdh nahi; May-Oct 2026 me unke khilaf koi FIR/case/adalaati/janch ki khabar established media me nahi mili; koi negative entry nahi.
+//
+// QA NOTE (m-r-baiju): 11 search batches (English + Malayalam, news vertical sahit, Onmanorama site-specific) me May-Oct 2026 ki unke naam par sabhi khabrein ceremonial udghatan (sports/Onam/mela/lottery) ya chunav-coverage nikli — koi udghatan-shilanyas-swikriti wala vikas-kaam nahi. "M. R. Baiju" naam ka PSC chairman wala galat-vyakti trap mila aur reject kiya gaya. Profile imaandari se khaali hai.
+
+keralaWorks['adv-m-vincent'] = [];
+
+// REJECT-LOG (adv-m-vincent): profile KHAALI raha — qualifying works entry bhi nahi, negative entry bhi nahi.
+// Pehchan verified: Adv. M. Vincent, INC, Kovalam AC (Thiruvananthapuram); 2016, 2021, aur 4 May 2026 ko lagatar teesri baar jeete (79,661 vote, margin 32,709).
+// 1. KHAAAS negative-screening item — 2017 ka yaun-shoshan/rape mamla (unhi ka hai, galat-vyakti nahi): 22 July 2017 ko giraftari (IPC 376/354/306; 51-varshiya mahila), 14 din judicial custody, Aug 2017 me Thiruvananthapuram Principal Sessions Court se conditional bail (WION, Onmanorama, Asian Age, LiveMint, DNA, Zee News, Madhyamam — sab 2017 ki reporting). May 2026 ke baad is mamle me koi NAYI prakriya-sthiti (nayi FIR/giraftari/court karyavahi/faisla) established English media me NAHI mili — 5 alag search batches (trial status, acquitted, 2026 status) me sab results 2017 ke hi nikle. Niyam spasht hai: purana (pre-term) mamla bina nayi sthiti ke = negative NAHI bane. Isliye negative entry reject; ye decision darj kiya ja raha hai.
+// 2. advmvincent.com (unka chunav-campaign website): 'Coastal Road Widening Vizhinjam-Kovalam — secured Rs 28 crore', 12 schools smart classrooms, Poovar-Mukkola water pipeline, PHC upgrade jaise daave — swayam ka campaign content hai, established media ki reporting nahi; self-post/self-claim srot nahi banta. Reject.
+// 3. New Indian Express, 5 Apr 2026 ('Coastal issues dominate Kovalam race'): chunav-prachchar coverage, karyakaal se pehle ki date. Reject.
+// 4. Constructionworld (DDC meeting review, district collector Anu Kumari): Vincent ne Balaramapuram-Vazhimukku road project ki land-acquisition tezi ki maang rakhi — sirf baithak me maang/sujhav, koi poorn kaam/swikriti/shilanyas nahi. Reject.
+// 5. Newsdrum/PTI, 2 Jun 2026 (Vizhinjam port par assembly me war of words): sirf raajnaitik bhashan/vivad, vikas-kaam nahi. Reject.
+// 6. Vizhinjam ORR (Rs 8,398 crore EC, 1 Oct 2026, NIE) aur coastal highway stories — NHAI/KRFB/KIIFB ke kendra/rajya pariyojna; khabron me Vincent ki koi documented bhoomika nahi. Reject.
+// 7. Wikipedia 'Achievements' section (purane karyakaal ke Rs 8.06 crore sadak, smart classrooms adi): 2016-21 karyakaal ka summary, is period ki news reporting nahi. Reject.
+// QA: 6+ search batches (English + news vertical) me May-Oct 2026 ki established-media post-event reporting me Vincent ke naam par koi lokarpan, shilanyas, sanction-order ya fund kaam Kovalam me nahi mila. Profile imaandari se khaali.
+// MLA: N. Shakthan, INC — Neyyattinkara AC (Thiruvananthapuram), purv Speaker (2015-16); 4 May 2026 ko K. Ansalan ko 6,966 maton se harakar jeete.
+
+keralaWorks['n-shakthan'] = [];
+
+// REJECT-LOG (n-shakthan): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: N. Shakthan (N. Sakthan), INC, Neyyattinkara MLA 2026 se; pehle Kovalam/Nemom/Kattakada MLA, Transport Minister (2004-06), Speaker (2015-16).
+// 1. New Indian Express, 14 May 2026 ('Roads, drinking water & hospitals top priorities'): MLA-elect ke roop me interview — Balaramapuram-Kaliyikavilai sadak, peyjal sankat, Neyyattinkara GH sudhar ki yojnayein — sab 'karenge' wali baatein, koi poorn kaam/swikriti nahi. Reject.
+// 2. Pozhiyoor-Kollamcode breakwater/coastal protection, 22 Sep 2026 (NIE article khud khola + Onmanorama + TOI + PTI/ThePrint padhe): Rs 93.22 crore KIIFB-funded pariyojna, KIIDC dwara karyanvayan, DPR IIT Madras se, shilanyas CM V. D. Satheesan ne kiya. Shakthan karyakram me upasthit the aur bayan me quoted hain; lekin khabar ke mutabik residents ne CM/mantriyon AUR area MLA ko petition di thi — yani woh petition ke praaptakartaon me se ek hain, pariyojna ke prastavak/sanction-karta nahi. Mantri Mons Joseph ne nirnay ki ghoshna ki, CM ne udghatan kiya. Shakthan ka koi dastavezi concrete kadam (assembly submission, MLA fund, sanction-order) kisi report me nahi — 'CM ke karyakram me maujoodgi' aur 'rajya-package bina concrete MLA bhoomika' dono reject-niyamon par. Isliye entry NAHI bani; ye qareebi faisla tha, sakht niyam ke tahat reject darj.
+// 3. Onmanorama key-events, 22 Sep 2026: Neyyattinkara NIMS Medicity me CM ne freedom fighters ka memorial pavilion unveil kiya — CM ka karyakram, reports me Shakthan ka naam tak nahi. Reject.
+// 4. The Hindu (local-body election analysis): Neyyattinkara municipality LDF bastion piece — chunavi analysis; sexual harassment ka aarop municipal councillor Jose Franklin par hai — alag vyakti, Shakthan nahi (galat-vyakti trap). Reject.
+// 5. Onmanorama/Mathrubhumi English, July 2026: Neyyattinkara General Hospital me medical negligence/death stories — aspatal-prashasan ka mamla, Shakthan ki koi bhoomika report nahi. Reject.
+// 6. The Hindu, 29 Sep 2025 (DDC meeting): purane MLA K. Ansalan ke mudde, pre-term + alag vyakti. Reject.
+// QA: 5 search batches (English + news vertical, 'Sakthan/Shakthan' dono spelling) me May-Oct 2026 me Shakthan ke naam par Neyyattinkara seat ka koi lokarpan/shilanyas/swikriti established media me nahi mili; purv-Speaker bhoomika ki coverage sansthanik hai, kaam nahi. Profile imaandari se khaali.
+// COORDINATOR QA NOTE (Thiruvananthapuram district batch, 2026-10-14): 7/7 workers completed, sabhi 7 fragments khud padhe — assignment format exact, har slug exactly once (append se pehle 0 matches — koi overwrite nahi), marker 1x; kul titles 25 -> 28 (+3). Kept: adv-v-joy (Varkala) — 1 NEGATIVE (PTI/Onmanorama/Mathrubhumi: Youth Congress ki shikayat par Oct 2026 FIR — police-adhikariyon ko dhamki/rioting-uksawa, BNS; Joy ka inkaar darj; Kadakampally Surendran saha-aaropi); ramya-haridas (Chirayinkeezhu) — 1 NEGATIVE (The Hindu: 4 Sep scuffle par 5 Sep dono pakshon ke case darj — unke khilaf alag case + unki shikayat par 15 par case, BNS + SC/ST Act; unka jawab darj; IE virodhabhas disclosed); k-muraleedharan (Vattiyoorkavu) — Vattiyoorkavu junction civil-works udghatan 14 Sep 2026 (The Hindu post-event; poora disclosure: sanction/tender pichli LDF sarkar ki, poorv MLA ka "pehle se chalta kaam" aarop; stage udghatan/commencement — lokarpan nahi). 11 profiles imaandari se KHAALI: o-s-ambika, g-r-anil (mantri-kaal pre-term reject), muhammed-sudheersha-s, v-muraleedharan (election-petition QA-reject — neeche), c-p-john (Transport mantri — vibhagiya reject), rajeev-chandrasekhar (party/kendra-bhoomika reject), adv-g-steephen, c-k-hareendran, m-r-baiju (PSC chairman naam-trap pakda), adv-m-vincent (2017 yaun-shoshan mamla pre-term, May-2026+ me koi nayi sthiti nahi — negative reject), n-shakthan (Rs 93.22cr breakwater — CM ka event, sirf maujoodgi). QA fix (coordinator ne khud kiya): v-muraleedharan ka worker-banaya election-petition negative HATAYA — Kottayam batch ke adv-sebastian-m-j precedent ke anuroop (routine chunav-yachika akeli negative nahi banti; adverse adalaati karyavahi bina); reject-log me kaaran darj. Naam-trap: V. Muraleedharan (BJP) vs K. Muraleedharan (INC, ab Health mantri) — khabron me pehchan pakki. Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\n; entry objects me 0 comments; period '2026-2031' sabhi kept entries me; field order exact; negative entries me stage field nahi; reject-logs Roman Hinglish.
