@@ -9197,3 +9197,137 @@ mpWorks['chanda-surendra-singh-gour'] = [
 // chanda-surendra-singh-gour — profile KHAALI; 3 rejects: '37 PMGSY sadak swikriti' (chhota portal rpkpindianews,
 // koi GO/established media/corroboration nahi); Taprian vidhayak-nidhi ghoshnaen (bina sanction saboot);
 // YouTube-only x2. Negative: koi established FIR/case reporting nahi mili.
+
+// ---- Ujjain district batch (researched 2026-10-14) ----
+mpWorks['dr-tejbahadur-singh-chauhan'] = [
+  {
+    title: 'Khachrod me kul Rs 1.20 crore ke vikas karyon ka shubharambh — do anganwadi bhavan, Rs 81.86 lakh ka shopping complex aur CC sadken, mukhya atithi ke roop me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, 9 Sep 2026 (karyakram 8 Sep 2026)',
+    sourceUrl: 'https://www.freepressjournal.in/indore/120-crore-development-works-launched-in-mps-khachrod-anganwadis-shopping-complex-roads-planned',
+    date: '2026-09-08',
+    note: 'Free Press Journal ke mutabik Khachrod me kul lagbhag Rs 1.20 crore ke vikas karyon ka shubharambh hua, jisme vidhayak mukhya atithi aur nagar palika adhyaksh karyakram ke adhyaksh the. Pariyojnaon me ward 1 aur 2 me Rs 11.22 lakh prati bhavan ki dar se do anganwadi bhavan, Nagda Road par Rs 81.86 lakh ka shopping complex, aur Shri Ram Colony tatha Tatwale Baba ki jhopdi ke paas Rs 16.58 lakh ki CC sadkon ka bhoomi-pujan shaamil hai — CC sadkon me Rs 10 lakh vidhayak-nidhi se hai. Status: bhoomi-pujan/shubharambh — poorti ya lokarpan ki alag khabar nahi mili. Credit-pardarshita: vidhayak karyakram ke mukhya atithi the; Rs 10 lakh vidhayak-nidhi se swikrit hai, baaki raashi ka srot (nagar palika/sarkari) khabar me spasht nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khachrod me Rs 148.93 lakh ke swimming pool ka lokarpan aur Rs 94.53 lakh ke samudayik bhavan ka bhoomi-pujan — mukhya atithi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Janswaraaj, 4 Oct 2026',
+    sourceUrl: 'https://janswaraaj.com/khachraud-ko-milee-2-43-kroad-kee-saugat-sviming-pool-ka-lokarpan-aur-samudayik-bhvn-ka-bhoomipoojn/',
+    date: '2026-10-04',
+    note: 'Janswaraaj ke mutabik Khachrod me Nagda Road par kul Rs 2.43 crore ke do karyon ka karyakram hua: CM goshna ke tahat bane Rs 148.93 lakh lagat ke swimming pool ka lokarpan aur Mukhyamantri Nagriya Kshetra Adhosanrachana Nirman Yojana ke tahat Rs 94.53 lakh lagat se banne wale samudayik bhavan ka bhoomi-pujan; vidhayak karyakram ke mukhya atithi aur nagar palika adhyaksh adhyaksh the. Status: pool ka lokarpan poora, bhavan ka bhoomi-pujan — nirman poorti ki khabar nahi mili. Credit-pardarshita: dono ka fund sarkari/CM yojana ka hai, vidhayak-nidhi se nahi; vidhayak ki bhoomika mukhya-atithi tak seemit rahi. Disclosure: Janswaraaj chhota local portal hai.',
+    period: '2023-2028',
+  },
+];
+mpWorks['dinesh-jain-boss'] = [];
+mpWorks['mahesh-parmar'] = [];
+mpWorks['satish-malviya'] = [
+];
+mpWorks['anil-jain-kaluheda'] = [
+  {
+    title: 'MR-5 se Panchkroshi bridge tak Rs 5 crore ki sadak chaudikaran (cement concrete) ka bhoomi-pujan — ward 4, Ujjain',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Avantika Mail, July 2025 (est.)',
+    sourceUrl: 'https://avantikamail.com/?p=45283',
+    date: '2025-07',
+    note: 'Avantika Mail ke mutabik Ujjain Uttar vidhayak Anil Jain Kaluheda ke prayason se ward 4 me MR-5 se Hotel Nakshatra hote hue Panchkroshi bridge tak Rs 5 crore ki lagat se cement-concrete sadak chaudikaran karya ka bhoomi-pujan sampann hua; karyakram me sansad Anil Firojiya, sabhapati Kalavati Yadav aur sthaniya janpratinidhi bhi maujood the. Status: bhoomi-pujan — nirman shuru hona tha, poorti ki alag khabar nahi mili. Credit-pardarshita: nirman Nagar Nigam/vishesh nidhi se hoga, vidhayak-nidhi se swikriti ka koi daava article me nahi hai; MLA ki bhoomika prayasak/upasthit ke roop me darj hai. Caveat: article par print tithi nahi thi; tasveer folder (July 2025) ke aadhar par tithi est. hai. Disclosure: Avantika Mail chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 3 (Khilchipur Mangalnagar) me lagbhag Rs 25 lakh ki Mukhyamantri Sanjeevani Clinic ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Avantika Mail, April 2025 (est.)',
+    sourceUrl: 'https://avantikamail.com/?p=43634',
+    date: '2025-04',
+    note: 'Avantika Mail ke mutabik Ujjain ke ward 3 me kshetriya parshad Pankaj Choudhary ke prayason se Nagar Nigam dwara Khilchipur Mangalnagar kshetra me lagbhag Rs 25 lakh ki lagat se nirmit Mukhyamantri Sanjeevani Clinic ka lokarpan vidhayak Anil Jain Kaluheda ne mahapour Mukesh Tatwal aur nigam adhyaksh Kalavati Yadav ke saath kiya. Status: lokarpan (clinic taiyar, janata ko samarpit). Credit-pardarshita: nirman ka shrey Nagar Nigam aur parshad ke prayason ka hai; vidhayak-nidhi se swikriti ka daava nahi hai — MLA ki bhoomika lokarpan-karta ke roop me hai. Caveat: article par print tithi nahi thi; tasveer folder (April 2025) ke aadhar par tithi est. hai. Disclosure: Avantika Mail chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward 51 Pragatinagar Udyan ko Namo Park ke roop me vikasit karke lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Oct 2025 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/ujjain/news/mla-mayor-and-chairman-inaugurated-namo-park-136226242.html',
+    date: '2025-10',
+    note: 'Dainik Bhaskar ke mutabik Nagar Nigam dwara ward 51 ke Pragatinagar Udyan ko Namo Park ke roop me vikasit kiya gaya (bachchon ke khel upkaran, gym, fountain, baithne ki vyavastha); iska lokarpan vidhayak Anil Jain Kaluheda, mahapour Mukesh Tatwal, nigam adhyaksh Kalavati Yadav aur nagar BJP adhyaksh Sanjay Agrawal dwara kiya gaya, aur park ka sandharan Nagar Nigam janbhagidari sahyog se karega. Status: lokarpan (park taiyar). Credit-pardarshita: vikas Nagar Nigam dwara karaya gaya hai; MLA ki bhoomika lokarpan-karta ke roop me hai, nidhi-swikriti ka daava nahi. Caveat: article par print tithi nahi thi; crawl timing ke aadhar par Oct 2025 (est.) maani hai.',
+    period: '2023-2028',
+  },
+];
+mpWorks['dr-mohan-yadav'] = [];
+mpWorks['jitendra-uday-singh-pandya'] = [
+];
+
+// Coordinator QA (Ujjain batch): schema verified against Tikamgarh batch; no pre-existing entries on any of the 7 slugs (no overwrite); entry-object code free of Devanagari/rupee-symbol/scaffolding comments; titles pure Roman-Hinglish sentences; currency 'Rs'; notes single-paragraph; dates with '(est.)' caveat disclosed in note (Anil Jain entries 1-3 — article print-dates absent, month estimated from image-folder/crawl timing); CM Mohan Yadav profile kept EMPTY per mantri-rule (all CM-role/state items rejected); Anil Jain Kaluheda identity verified as Ujjain Uttar (Niwari ke Anil Jain se alag).
+
+// REJECT-LOGS per MLA (Ujjain district batch, researched 2026-10-14):
+// [dr-tejbahadur-singh-chauhan] // REJECT-LOG (Ujjain district batch, researched 2026-10-14):
+// // dr-tejbahadur-singh-chauhan — 8 rejects: swarajvani.com Rs 92 lakh bhoomi-pujan (Mokdi/Ghinoda/Akyajagir) —
+// // page par khud 'Vigyapan lekh' (advertisement) tag = paid advertorial, swikriti unverifiable; usi site ka ambulance
+// // article bhi '—Advertisement—' tag ke saath; public.app-only x2 (Luhari shanti-dham boundary Rs 9 lakh, Narsinghgarh
+// // shed Rs 8 lakh); pre-term (bansalnews Shivraj-era Nagda-jila goshna, 2023); 'karenge' daave (two-lane sadken, Chambal
+// // dam — swarajvani piece ke andar hi); Sanawad Rs 13 crore road — Barwah MLA Sachin Birla ka kshetra (galat-vyakti).
+// // jitendra-uday-singh-pandya — profile KHAALI; 10 rejects: FPJ 'development vision' media-interaction — sirf daave/ghoshna
+// // (Sainik School/girls college/nadi-jod 'karenge'; '5 pul Rs 42 crore swikrit' bina GO = ghoshna); public.app-only x3
+// // (Bhadva Mata corridor shilanyas Sep 2026; ward-16 pravesh-dwar bhoomi-pujan Oct 2025; e-scooter showroom shubharambh);
+// // YouTube-only (MP News Indore media-interaction video); Ingoriya–Unhel Rs 127 crore bhoomi-pujan — CM karyakram me
+// // sirf maujoodgi + public.app; emsindia Gadkari road-event — kendriya mantri karyakram me maujoodgi; omshantimedia
+// // rakhi-samaroh — non-work; indianmasterminds Nayikhedi–Nagda–Ratlam Rs 150 crore — CM goshna, galat-kshetra;
+// // npg.news biography — pre-term profile; zeenews/abplive election results — kaam nahi.
+// // Negative: dono MLAs ke viruddh koi established FIR/case/adalaati ya adhikarik janch reporting nahi mili;
+// // dono ke ADR me 'Criminal Cases: No' darj hai.
+// [dinesh-jain-boss] 
+// [mahesh-parmar] 
+// [satish-malviya] // REJECT-LOG (Ujjain district batch, researched 2026-10-14):
+// // anil-jain-kaluheda — 11 rejects: public.app-only road bhoomi-pujan video (ward 44, Rs 35 lakh — MR-5 entry se alag event); LiveHindustan land-pooling virodh (Dec 2025, rajnaitik virodh, vikas karya nahi); FPJ MPHB Indira Nagar virodh (Oct 2026, virodh); Bansal News + Vishleshan + ETV Bharat CM House samjhaish/fhatkar khabren (rajnaitik); Asianet/Khabar Digital Jain Shwetambar mandir upashray bhavan bhoomi-pujan (CM ka karyakram, MLA sirf maujood); Khash Khabar police-welfare petrol pump (CM ne lokarpan kiya, MLA sirf upasthit); Bhaskar Narsingh Ghat 13 guest-room/auditorium (Mahamandaleshwar ne lokarpan kiya, MLA 'vishesh atithi' — sirf maujoodgi); Ujjainlive CM-event site nirikshan (13 Oct 2024, nirikshan); Ujjainlive Dhanvantari Arogya Rath (Madhav Seva Nyas yojana, MLA sirf atithi); Ujjainlive Rojgar Parv-2 (CM ka program, MLA sirf upasthit). Pehchan-verify: sabhi sources me 'Ujjain Uttar' ke saath Anil Jain Kaluheda; Niwari ke Anil Jain ki koi khabar nahi jodi. Negative: unke viruddh koi established FIR/case/adalaati janch reporting nahi mili — koi negative entry nahi.
+// // satish-malviya — profile KHAALI; 11 rejects: State Varta (18 Jan 2026) Ghatiya Atal Sushasan Bhavan bhoomi-pujan (mantri Prahlad Patel ka karyakram, MLA sirf maujood); YouTube-only Satya Ki Aawaz News (wahi event); public.app Dhulmahu 'vividh vikas karyon' bhoomi-pujan (Dec 2025, public.app-only); public.app Rs 369.11 crore vikas karyon ka bhoomi-pujan (Sep 2025, public.app-only + CM ke mukhya atithya ka karyakram); public.app Jayrampura daura/swagat (Sep 2026, public.app-only + daura); public.app CM ke saath Vikram Utsav (Feb 2026, CM event maujoodgi); ETV Bharat hailstorm (Feb 2026, prabhavit gaon ka daura/nirikshan); FPJ effigy-burning (Aug 2023, pre-term rajnaitik khabar); Jagran car-accident (Oct 2025, durghatna khabar, vikas karya nahi); Spashtkhabar Ujjain-Jaora highway (CM project, MLA sirf abhinandan); Betul Update (Betul sadak bhoomi-pujan me 'Satish Malviya' upasthit — kshetra-bahar + sirf maujoodgi). Negative: unke viruddh koi established FIR/case/adalaati janch reporting nahi mili — koi negative entry nahi.
+// [anil-jain-kaluheda] // REJECT-LOG (Ujjain district batch, researched 2026-10-14):
+// // anil-jain-kaluheda — 11 rejects: public.app-only road bhoomi-pujan video (ward 44, Rs 35 lakh — MR-5 entry se alag event); LiveHindustan land-pooling virodh (Dec 2025, rajnaitik virodh, vikas karya nahi); FPJ MPHB Indira Nagar virodh (Oct 2026, virodh); Bansal News + Vishleshan + ETV Bharat CM House samjhaish/fhatkar khabren (rajnaitik); Asianet/Khabar Digital Jain Shwetambar mandir upashray bhavan bhoomi-pujan (CM ka karyakram, MLA sirf maujood); Khash Khabar police-welfare petrol pump (CM ne lokarpan kiya, MLA sirf upasthit); Bhaskar Narsingh Ghat 13 guest-room/auditorium (Mahamandaleshwar ne lokarpan kiya, MLA 'vishesh atithi' — sirf maujoodgi); Ujjainlive CM-event site nirikshan (13 Oct 2024, nirikshan); Ujjainlive Dhanvantari Arogya Rath (Madhav Seva Nyas yojana, MLA sirf atithi); Ujjainlive Rojgar Parv-2 (CM ka program, MLA sirf upasthit). Pehchan-verify: sabhi sources me 'Ujjain Uttar' ke saath Anil Jain Kaluheda; Niwari ke Anil Jain ki koi khabar nahi jodi. Negative: unke viruddh koi established FIR/case/adalaati janch reporting nahi mili — koi negative entry nahi.
+// // satish-malviya — profile KHAALI; 11 rejects: State Varta (18 Jan 2026) Ghatiya Atal Sushasan Bhavan bhoomi-pujan (mantri Prahlad Patel ka karyakram, MLA sirf maujood); YouTube-only Satya Ki Aawaz News (wahi event); public.app Dhulmahu 'vividh vikas karyon' bhoomi-pujan (Dec 2025, public.app-only); public.app Rs 369.11 crore vikas karyon ka bhoomi-pujan (Sep 2025, public.app-only + CM ke mukhya atithya ka karyakram); public.app Jayrampura daura/swagat (Sep 2026, public.app-only + daura); public.app CM ke saath Vikram Utsav (Feb 2026, CM event maujoodgi); ETV Bharat hailstorm (Feb 2026, prabhavit gaon ka daura/nirikshan); FPJ effigy-burning (Aug 2023, pre-term rajnaitik khabar); Jagran car-accident (Oct 2025, durghatna khabar, vikas karya nahi); Spashtkhabar Ujjain-Jaora highway (CM project, MLA sirf abhinandan); Betul Update (Betul sadak bhoomi-pujan me 'Satish Malviya' upasthit — kshetra-bahar + sirf maujoodgi). Negative: unke viruddh koi established FIR/case/adalaati janch reporting nahi mili — koi negative entry nahi.
+// [dr-mohan-yadav] // REJECT-LOG:
+// // 1. Vikramaditya Vedic Clock, Jiwaji Vedhshala Parisar (Ujjain Dakshin seat) — bharatexpress article (29 Apr 2026, khud khola) ke mutabik unhone vidhayak rehte 2022 me ghoshna ki aur vidhayak-nidhi se Rs 1.68 crore aavantit kiye; lokarpan PM Modi ne 29 Feb 2024 ko kiya. Tenure rule (sirf Dec 2023+) ke tahat REJECT — swikriti pichhle karyakal (2018-2023) ki hai; lokarpan unhone nahi kiya. Note: doosre sthaniya report (jaiswatantrabharat) ne tower-lagat Rs 1.47 crore (nagar nigam) likhi — raashi-vivaran bhi asangat. Source: https://bharatexpress.com/india/ujjain-vikramaditya-vedic-clock-pm-modi-inaugurated-know-features-639632
+// // 2. Home Guard/SDRF karyalaya Parisar, Dewas Road (Ujjain) me Yoga Bhavan aur Open Gym — Rs 20 lakh vidhayak-nidhi, bhoomi-pujan unhone kiya (newsprawah; snippet-level). Article me ve "uchch shiksha mantri" ke roop me hain (~June 2023) — Dec 2023 se pehle → tenure rule ke tahat reject. Source: https://newsprawah.com/higher-education-minister-dr-yadav-performed-bhumi-pujan-of-yog-bhavan-and-open-gym-with-the-launch-of-the-second-phase-of-aapda-mitra-yojana/
+// // 3. Ujjain Dakshin ke Ward 48 (Balaji Parisar, Nanakheda) me Rs 10.5 lakh ki CC sadak ka bhoomi-pujan, Vikas Yatra ke dauran (budhnitimes; snippet-level). Vikas Yatra Feb 2023 ki aur ve tab uchch shiksha mantri the — pre-term → reject. Source: https://budhnitimes.com/news_detail.php?detail=211
+// // 4. Shri Jain Shwetambar Mandir, Madhavnagar me Upashray bhavan ka bhoomi-pujan (FPJ, ~Sep 2026; snippet-level) — bhawan Jain trust ka; ve karyakram-atithi ke roop me the; unki nidhi ya swikriti me koi dastavezi bhoomika nahi → weak attribution, reject. Source: https://www.freepressjournal.in/indore/chief-minister-mohan-yadav-performs-bhoomi-pujan-for-jain-upashray-in-ujjain
+// // 5. Samakota Barrage, Chhoti Kalisindh nadi — Rs 200 crore, lokarpan (FPJ) — state project; Mahidpur kshetra me (Ujjain Dakshin seat nahi); CM role → kshetra-bahar + state-level, reject. Source: https://www.freepressjournal.in/indore/mp-chief-minister-mohan-yadav-inaugurated-the-200-crore-samakota-barrage-boosting-irrigation-in-ujjain
+// // 6. UDA/Higher Education/Panini Sanskrit University pariyojnaein — Rs 360 crore se zyada ke bhoomi-pujan/lokarpan, Shipra Vihar/Nanakheda (FPJ, ~July 2025) — UDA aur sarkari yojnaon ke kaam, CM role → state-level, reject. Source: https://www.freepressjournal.in/indore/cm-mohan-yadav-lays-foundation-stones-of-various-developmental-works-in-ujjain
+// // 7. Nanakheda Stadium karyakram — 12 pariyojnaon ka bhoomi-pujan/lokarpan, ~Rs 129 crore (UNI, 29 Dec 2025; indianmasterminds) — nagar nigam/sarkari pariyojnaein (hockey stadium AstroTurf aadi), CM role → state-level, reject. Source: http://www.uniindia.com/~/mp-cm-inaugurates-development-works-in-his-hometown-ujjain/states/news/3689559.html
+// // 8. Simhastha 2028 ki taiyari ke 15 projects — Rs 760.78 crore (Shani Lok, Harifatak 6-lane ROB, police housing, sports complex) (eGov, Sep 2026) — state project, CM role → reject. Source: https://egov.eletsonline.com/2026/01/mp-cm-mohan-yadav-unveils-760-78-crore-development-project-for-ujjain-ahead-of-simhasth-2028/
+// // 9. Rs 587.23 crore ka package (Shri Kal Bhairav/Mangalnath/Sandipani Ashram vikas + UDA TDS) (indianmasterminds, ~Aug 2026) — CM ke roop me state/religious pariyojnaein → reject. Source: https://indianmasterminds.com/news/cm-mohan-yadav-launches-rs587-23-crore-projects-ujjain-dhanwantri-medical-university-mission-buniyad-220394/
+// // 10. AMRUT 2.0 ke tahat Rs 478 crore ke sewerage karyon ka bhoomi-pujan (Amar Ujala, Mar 2025) — nagar nigam/sarkari, CM role → reject. Source: https://www.amarujala.com/madhya-pradesh/ujjain/after-performing-the-ground-breaking-ceremony-for-development-works-worth-rs-478-crores-cm-said-ujjain-will-get-the-gift-of-a-zoo-and-a-rescue-centre-ujjain-news-c-1-1-noi1228-2726264-2025-03-15
+// // 11. Kothi Road–Vikram Nagar 2.1 km road widening, Rs 18 crore ka lokarpan (indianmasterminds, ~Apr 2026) — municipal corporation, CM role → reject. Source: https://indianmasterminds.com/news/ujjain-road-project-mohan-yadav-simhastha-2028-infrastructure-199034/
+// // 12. Nyayadhish Atithi Grih (Rs 18.66 crore) ka bhoomi-pujan, CJI ke saath (ETV Bharat, 8 Aug 2026) — nyayik adhosaarrachna, sarkari project → CM role, reject. Source: https://www.etvbharat.com/hi/state/ujjain-cji-justice-surya-kant-and-cm-dr-mohan-yadav-performed-bhoomi-pujan-of-the-judges-guest-house-worth-rs-18-dot-66-crore-mps26080800338
+// // 13. Gopal Mandir/Chhatri Chowk kshetra me Rs 79+ crore ke vikas karyon ka bhoomi-pujan (Akashvani, 28 Aug 2025) — sarkari/Simhastha pariyojnaein, CM role → reject. Source: https://newsonair.gov.in/hi/chief-minister-dr-mohan-yadav-performed-the-bhoomi-pujan-of-development-works-worth-more-than-rs-79-crore-at-gopal-mandir-in-ujjain/
+// // 14. Mahakal Mahalok par Rs 173 crore ke 15 projects (12 bhoomi-pujan + 3 lokarpan) (ctnewj, Sep 2026) — UMC/Smart City/police/tourism dept., CM role → state-level, reject. Source: https://www.ctnewj.com/news/28814
+// // 15. Atal Parisar shopping + sports complex lokarpan, PM e-bus depot bhoomi-pujan — ~Rs 44 crore (indianmasterminds, ~Jan 2026) — Ujjain Smart City Mission, CM role → reject. Source: https://indianmasterminds.com/news/mp-cm-mohan-yadav-inaugurates-atal-parisar-ujjain-infrastructure-projects-179912/
+// // 16. Hariyakhedi water augmentation scheme, Rs 1,133+ crore (IANS/Lokmat Times, 11 Feb 2026) — jal vibhag/sarkari, CM role → reject. Source: https://www.lokmattimes.com/national/cm-mohan-yadav-launches-lays-foundation-for-projects-worth-over-rs-1133cr-in-ujjain/
+// // 17. Naivedya Lok food facility, Rs 18 crore ka lokarpan (indianmasterminds, ~Mar 2026) — sarkari pariyojna, CM role → reject. Source: https://indianmasterminds.com/news/mohan-yadav-naivedya-lok-ujjain-inauguration-192582/
+// // 18. Rs 155 crore ke projects (8 pul + 2 sadak) ka unveiling (editorji, Aug 2025) — sarkari ghoshna, CM role → reject. Source: https://www.editorji.com/india-news/madhya-pradesh/mp-cm-mohan-yadav-unveils-rs-155-crore-development-projects-in-ujjain-1754291659189
+// // 19. Khajur Wali Masjid–Ganesh Chowk road widening (Rs 9.80 crore) ke liye apne paitrik ghar par gainti chalana (Sep 2026, PTI/IANS/Indian Express) — symbolic gesture; road project UMC/sarkari ka hai; koi "kaam" nahi → reject. Source: https://indianexpress.com/article/india/madhya-pradesh-cm-wields-pickaxe-in-ujjain-to-pull-down-own-home-for-simhastha-preparation-10895939/
+// // 20. Rs 172.87 crore ke vikas karyon ka bhoomi-pujan/lokarpan + PM e-bus service launch (Akashvani, 27 Sep 2026) — sarkari pariyojnaein, CM role → reject. Source: https://newsonair.gov.in/madhya-pradesh-cm-mohan-yadav-launches-development-initiatives-in-ujjain/
+// // 21. "India ka pehla high-tech anganwadi" ka lokarpan (FPJ, ~Jul 2026) — CSR funds se nirmit, IIM-B support; unka kaam nahi → reject. Source: https://www.freepressjournal.in/indore/madhya-pradesh-cm-mohan-yadav-inaugurates-indias-first-high-tech-anganwadi-in-ujjain-video
+// // 22. Gram Ninora me Rs 355 crore nivesh wali garment factory ka shubharambh (Akashvani, Oct 2024) — private nivesh; unka kaam nahi → reject. Source: https://newsonair.gov.in/hi/%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%a1%e0%a5%89-%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8-%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5-76/
+// // 23. Ujjain-Jaora greenfield 4-lane (Rs 5,017 crore, 98.73 km, 5 ACs se guzarti) ka bhoomi-pujan (Patrika, Jul 2026) — MP Road Dev Corp state project, CM announcement → reject. Source: https://www.patrika.com/bhopal-news/ujjain-jaora-greenfield-four-lane-project-bhoomi-pujan-cm-mohan-yadav-20734918
+// // 24. Ujjain-Dakshin me proposed 127 karyon ka bhoomi-pujan + vedic ghadi lokarpan (jaiswatantrabharat, 28 Feb 2024) — PRE-EVENT schedule/announcement ("prastavit hai") → invalid source rule, reject. Source: https://jaiswatantrabharat.com/prime-minister-will-inaugurate-vedic-clock-tomorrow-worlds-first-vedic-clock-is-installed-in-ujjain/
+// // NEGATIVE (evaluated, sab reject):
+// // N1. 2013 chunav me cash-baanṭne ka aarop par Ujjain police case (DNA/Economic Times) — 2013 ka mamla (pre-term); adesh/dosh-siddhi ka record nahi → tenure + established-status ke abhav me reject.
+// // N2. Indian Express (June 2026) ke Ujjain zameen-kharid reporting par Congress ke "land scam" aarop — parivar ke mamle unpar kabhi nahi; koi FIR/case/adalaati ya adhikarik janch-karyavahi established nahi; opposition aarop bina adhikarik karyavahi ke → negative rule ke tahat reject. Unka jawab: BJP ne aarop "baseless" kaha (moneycontrol/rediff, 23-24 June 2026).
+// // NOTE (coordinator ke liye): Dr. Mohan Yadav MP ke Mukhyamantri hone ke naate Dec 2023 ke baad unka poora public vikas-record CM-ke-roop me hai; Ujjain Dakshin ke vidhayak ke roop me unki vidhayak-nidhi swikritiyon ya seat-sthaniya bhoomi-pujan/lokarpan ki established news reporting nahi mili. Khaali profile imaandari hai. Bhavishya me Ujjain Dakshin vidhayak-nidhi swikriti-soochi (RTI/nagar-nigam records) mile to entries jud sakti hain.
+// [jitendra-uday-singh-pandya] // REJECT-LOG (Ujjain district batch, researched 2026-10-14):
+// // dr-tejbahadur-singh-chauhan — 8 rejects: swarajvani.com Rs 92 lakh bhoomi-pujan (Mokdi/Ghinoda/Akyajagir) —
+// // page par khud 'Vigyapan lekh' (advertisement) tag = paid advertorial, swikriti unverifiable; usi site ka ambulance
+// // article bhi '—Advertisement—' tag ke saath; public.app-only x2 (Luhari shanti-dham boundary Rs 9 lakh, Narsinghgarh
+// // shed Rs 8 lakh); pre-term (bansalnews Shivraj-era Nagda-jila goshna, 2023); 'karenge' daave (two-lane sadken, Chambal
+// // dam — swarajvani piece ke andar hi); Sanawad Rs 13 crore road — Barwah MLA Sachin Birla ka kshetra (galat-vyakti).
+// // jitendra-uday-singh-pandya — profile KHAALI; 10 rejects: FPJ 'development vision' media-interaction — sirf daave/ghoshna
+// // (Sainik School/girls college/nadi-jod 'karenge'; '5 pul Rs 42 crore swikrit' bina GO = ghoshna); public.app-only x3
+// // (Bhadva Mata corridor shilanyas Sep 2026; ward-16 pravesh-dwar bhoomi-pujan Oct 2025; e-scooter showroom shubharambh);
+// // YouTube-only (MP News Indore media-interaction video); Ingoriya–Unhel Rs 127 crore bhoomi-pujan — CM karyakram me
+// // sirf maujoodgi + public.app; emsindia Gadkari road-event — kendriya mantri karyakram me maujoodgi; omshantimedia
+// // rakhi-samaroh — non-work; indianmasterminds Nayikhedi–Nagda–Ratlam Rs 150 crore — CM goshna, galat-kshetra;
+// // npg.news biography — pre-term profile; zeenews/abplive election results — kaam nahi.
+// // Negative: dono MLAs ke viruddh koi established FIR/case/adalaati ya adhikarik janch reporting nahi mili;
+// // dono ke ADR me 'Criminal Cases: No' darj hai.
