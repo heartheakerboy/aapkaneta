@@ -1022,3 +1022,89 @@ biharWorks['ramsewak-singh'] = [];
 
 // Coordinator QA note (Gopalganj district batch, researched 2026-10-14): 6/6 MLA researched by 3 parallel workers; fragments A (Tiwari+Manjeet), B (Subhash+Amrendra), C (Sunil+Ramsewak) assembled above in AC order (99->104). Coordinator ne Manjeet entry-3 (Fattepur naala) hatayi — article sirf preprod.livehindustan.com staging mirror par maujood tha, canonical domain par 404/402 aur koi dusra srot nahi (reject-log me darj). Mithilesh Tiwari entry (Ganga-Narayani pathway): vidhan-sabha maang -> cabinet swikriti ka dastavezi sequence, credit sirf maang tak (Kumar Shailendra thana precedent). Amrendra Pandey negative: 2019 firing FIR me 20 Aug 2026 charge-framing (ETV Bharat + News18), jawab na milne ka disclosure. Sabhi 6 slugs pehle khaali the — koi overwrite nahi. Bihar works total: 55 -> 60 entries.
 
+
+// ---- Jahanabad district batch (researched 2026-10-14) ----
+biharWorks['rahul-kumar'] = [
+  {
+    title: 'RJD sansad Surendra Prasad Yadav ke saath sanyukt roop se Ratni Faridpur prakhand me Shakurabad-Ghejan mukhya path se Galimapur bhaya Saraiya 4.16 km lambi sadak ka shilanyas, lagbhag Rs 3.86 crore ki lagat se PM Gram Sadak Yojana se nirman hoga',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 24 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/jahanabad/story-construction-launched-for-long-awaited-sakurabad-ghejan-road-in-bihar-201769270865591.html',
+    date: '2026-01-24',
+    note: 'Live Hindustan ki post-event report ke anusaar 24 January 2026 (Shanivar) ko Jehanabad ke vidhayak Rahul Kumar ne Jehanabad Lok Sabha ke sansad Surendra Prasad Yadav ke saath milkar Ratni Faridpur prakhand ki Shakurabad-Ghejan mukhya path se Galimapur bhaya Saraiya sadak ka shilanyas kiya; Pradhan Mantri Gram Sadak Yojana ke tahat lagbhag Rs 3.86 crore ki lagat se 4.16 km lambi is sadak ka nirman karaya jayega. Vidhayak ki asal bhoomika: karyakram me unhone kaha ki yah sadak prakhand ki mahatvapurna sampark sadakon me se ek hai aur iske do baar tender ho chuke the lekin zameen uplabdh na hone se nirman atka raha tha, is baar sabhi aadchanein door karke nirman shuru karaya gaya hai; vibhag ke executive engineer, SDO aur kaniya abhiyanta sahit sthaniya janpratinidhi aur badi sankhya me gramin upasthit the. Stage-disclosure: yah shilanyas-charan ki entry hai, nirman poorn hone ki pushti abhi kisi srot se nahi mili hai. Kshetra-parakash: AC-216 Jehanabad ke antargat Jehanabad aur Ratni Faridpur CD blocks aate hain, isliye yah kaam kshetra ke andar ka hai. Credit-pardarshita: shilanyas sanyukt tha — sansad Surendra Prasad Yadav bhi sharike the, isliye is kaam ka shreya vidhayak ka vyaktigat nahi hai. Fund-srot: PMGSY (kendriya sarkari yojana), vidhayak-nidhi/MKVY ka ullekh report me nahi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rahul-kumar): LiveHindustan 29 Dec 2025, patrakaron ke saath baithak — sirf wade/ghoshnaen (jal-jamav mitayenge, sinchai pariyojnaen utarenge), koi kaam nahi, reject; YouTube, Brilliant Public School Jehanabad me science exhibition + food fair ka udghatan (~Feb-Mar 2026) — YouTube-only + school mela (kaam nahi), reject; YouTube, Matri Hospital (private aspatal) ka udghatan (Sep 2026) — YouTube-only + niji vyavsayik udghatan, reject; YouTube, Ayesha Technical Institute ka udghatan — YouTube-only + niji sanstha, reject; Zee News 17 Mar 2026, Dawat-e-Iftar ka aayojan — dharmik/samajik karyakram, vikas-kaam nahi, reject; YouTube shorts, Vidhan Sabha me anudaanit school-college ka mudda uthaya — sirf maang/prastav, kaam nahi, reject; LiveHindustan ~29 Sep 2026, Amit Kumar hatya-kand me parijanon se mulaqat — samvedna-yatra + vipakshi law-and-order bayan, kaam nahi, reject; Hindi News18 21 Mar 2026, Jehanabad sheher me 5 nayi sadakon ka prastav — Nagar Parishad ka PWD ko bheja prastav, vidhayak ki bhoomika nahi + sirf prastav, reject; Patna Press, Jehanabad-Arwal sadakon par Rs 82 crore ka upgrade prastav — proposal stage + vidhayak ka zikr nahi, reject; PTI/newsdrum 23 Sep 2025, CM Nitish Kumar dwara Jehanabad me Rs 123 crore ki yojnaon ka udghatan/shilanyas — karyakaal se pehle (tah Rahul Kumar vidhayak nahi the) + CM ka karyakram, reject; TOI ~Aug 2024, CM dwara Rs 57 crore ki yojnaon ka udghatan — purana + CM ka karyakram, reject; LiveHindustan 4 Nov 2025, chunavi prachar sabha me vikas ke vade — pre-election campaign, kaam nahi, reject; News18/TOI/CNBCTV18/IndiaTV/NDTV Profit/DNA/Financial Express Nov 2025 election-result pages — chunavi coverage, reject; Zee News + Amar Ujala Oct 2025, namankan-vaidhata afwah khabaren — chunavi vivad, kaam nahi, reject; Zee News car-attack piece (purani, 2023-era) — parivar par hamle ki ghatna, works profiling me reject (parivar ke mamle MLA par kabhi nahi), reject; Jagran 23 Sep 2026, 36 sadakon ke liye Rs 225 crore ka re-tender — vibhagiya prakriya, vidhayak ki bhoomika nahi, reject; LiveHindustan (Buxar desk) "Rahul Kumar Singh" bypass-road story — Dumraon (JD(U)) ke Rahul Kumar Singh, galat vyakti, reject. Negative: vidhayak ke viruddh koi qualifying negative reporting nahi mili (aarop + FIR/adalaati karyavahi ka koi credible combo nahi); koi negative entry nahi banai.
+
+biharWorks['rituraj-kumar'] = [
+  {
+    title: 'Ghosi MLA Rituraj Kumar ne Hulasganj block me Kokarsa panchayat ke Rostampur aur Khudauri panchayat ke Narama gaon ke do utkramit (upgraded) plus-two high schoolon ke naye bhawanon ka vidhivat udhghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 09 Feb 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/jahanabad/story-inauguration-of-upgraded-plus-two-high-school-in-narama-village-a-step-towards-better-education-201770652266270.html',
+    date: '2026-02-09',
+    note: 'Ghosi ke nava-nirvachit vidhayak Rituraj Kumar ne 9 February 2026 ko Hulasganj prakhand ke Kokarsa panchayat ke Rostampur aur Khudauri panchayat ke Narama gaon me utkramit high school plus-two ke naye bhawanon ka lokarpan kiya; karyakram Narama me hua jisme prakhand shiksha padadhikari, pradhanadhyapak, mukhiya aur badi sankhya me chhatr, abhibhavak aur gramin maujood the. Bhawan rajya sarkar ki utkramit-school yojana ke tahat bane hain aur MLA ne svayam kaha ki nirvachan ke baad pehli baar unhe do school bhawanon ke udhghatan ka avsar mila; report me swikriti ki tithi ya laagat ka zikr nahi hai isliye fund-srot sirf sarkari shiksha yojana ke roop me darj hai. Narama school tak pahunchne wale raste ki samasya door karne ka bhi MLA ne aswasan diya. Dono gaon Ghosi vidhan sabha (AC-217) ke Hulasganj block me aate hain.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rituraj-kumar):
+// 1. Mandai weir "agle saal sinchai ka paani" plan (Live Hindustan, 11 Dec 2025): sirf mukhya sachiv se charcha aur action-plan ki ghoshna; koi GO/swikriti ya shilanyas nahi, project purana (pita Arun Kumar ka dream project) — ghoshna = reject.
+// 2. Godsar me nagrik abhinandan (Live Hindustan, 18 Dec 2025): sirf samman samaroah aur shiksha-sinchai dream project ka elaan; koi concrete kaam nahi — reject.
+// 3. Kakko daura (Live Hindustan, 16 Nov 2025): mandir-dargah daura + "vikas karenge" sankalp; sirf waade, koi kaam nahi — reject.
+// 4. Ghosi me janta darbar (Live Hindustan, 1 Sep 2026): fariyaadein sunna; koi udhghatan/swikriti/kaam nahi — reject.
+// 5. Vidhan Sabha me tarankit prashn — Falgu baadh-pratirodhi deewar aur Algna pain atikraman (Live Hindustan, ~Feb 2026): sirf maang/prastav; kaam hua ya nahi, koi report nahi — reject.
+// 6. CM Samriddhi Yatra, Jehanabad me maujoodgi (thesuncitynews.com): sirf CM ke karyakram me maujoodgi; site bhi aggregator jaisi — reject.
+// 7. Kakko me Paniha safai ke yuvaon ko samman (Live Hindustan, Oct 2026): doosron ke shramdaan ko angvastra samman; MLA ka apna koi kaam nahi — reject.
+// 8. Bihar Diwas, Town Hall Jehanabad (Zee News Hindi, 22 Mar 2026): DM/SP ke saath sirf karyakram ka shubharambh; koi kaam nahi — reject.
+// 9. Lakshya Academy, Hulasganj samman samaroah (YouTube-only, SK Live News): YouTube-only source + sirf mukhya-atithi maujoodgi — reject.
+// 10. Chunav-natije wali sabhi khabren (Jagran/News18/NBT/India.com/DNA/IE, Nov 2025): 80,740 vote jeet ki khabar; kaam se sambandhit nahi — reject.
+// 11. Pakribarwa PS Case No. 351/2020 (MCC ullanghan, Form C-7, jdu.org.in): karyakaal se pehle ka chunav-aacharsanhita mamla; 2025+ karyakaal me koi credible aarop/FIR/janch report nahi mili — negative entry qualify nahi.
+// 12. UP Ghosi items (HT/Sudhakar Singh, newsdrum): UP ke Mau jile ke Ghosi MP/MLA — Bihar Ghosi nahi, galat vyakti/kshetra — reject.
+// 13. Rituraj Jha (Kirari, Delhi) aur Ramgarh ke DC Rituraj: alag naam ke alag vyakti — reject.
+// 14. Fertilizer rack point maang (kesari.tv video clip): sirf maang wala TV clip; koi karyavahi ka saboot nahi — reject.
+// 15. public.app items (Modanganj daura, janta darbar): public.app-only source + sirf daura/janta darbar — reject.
+
+biharWorks['subedar-das'] = [];
+
+// REJECT-LOG (subedar-das):
+// 1. Prabhat Khabar (Dec 2025) - Vanavar Mahotsav inauguration at Patal Ganga, Vanavar pahad:
+//    MLA merely attended/inaugurated the festival with minister Dr Pramod Chandravanshi;
+//    his only statement was a DEMAND (maang) that the ~10-year-old sanctioned ropeway be completed.
+//    Reject: sirf maujoodgi + sirf maang. URL: https://www.prabhatkhabar.com/state/bihar/jehanabad/green-corridor-to-be-built-from-patna-to-dobhi-minister
+// 2. Bhaskar.com (June 2026) - District programme implementation committee review meeting chaired by
+//    minister Mohammad Zama Khan; Subedar Das only present and welcomed. Reject: sirf maujoodgi.
+//    URL: https://www.bhaskar.com/local/bihar/jehanabad/news/seriously-execute-matters-related-to-complaints-and-suggestions-minister-dbp-138085675.html
+// 3. rnnews.co.in (Feb 2026) - 13th Rashtriya Prayas Natya Mela, Gandhi Maidan Makhdumpur:
+//    MLA was felicitated (abhinandan) and promised cooperation for theatre development.
+//    Reject: event/felicitation + "karenge" (promise) khabar, no work.
+// 4. LiveHindustan (10 Dec 2025) - Cultural programme after sant punyatithi at Bhimpura; MLA only
+//    inaugurated the cultural event. Reject: event presence, no development work.
+//    URL: https://www.livehindustan.com/bihar/jahanabad/story-cultural-celebration-marks-sant-heera-das-s-death-anniversary-in-makhdumpur-201765386820048.html
+// 5. LiveHindustan (22 Mar 2026) - Superstar cricket tournament final at Sagarpur High School ground;
+//    MLA only inaugurated the final match. Reject: sports event presence, no development work.
+//    URL: https://www.livehindustan.com/bihar/jahanabad/story-danu-bigaha-wins-final-match-of-superstar-cricket-tournament-by-10-runs-201774198499337.html
+// 6. public.app (Oct 2026) - 'Aangan ka Milan' POSHAN programme at anganwadi Kendra Dharni, Makhdumpur:
+//    MLA merely among guests present. Reject: sirf maujoodgi + public.app-only source.
+//    URL: https://public.app/video/sp_j0jjscz5bovig
+// 7. public.app (7 Dec 2025) - Abhinandan samaroh by Sant Shiromani Raidas Samiti for newly elected MLA.
+//    Reject: felicitation ceremony, public.app-only, no work.
+// 8. khelbihar.com - Jehanabad senior division cricket league "udghatan kal hoga" article:
+//    Reject: pre-event schedule/announcement; also event, not development work.
+//    URL: https://khelbihar.com/jehanabad-district-cricket-league-start-tomorrow/
+// 9. YouTube (DW Samachar, dwsamachar) - post-victory interview where he stated his priorities
+//    ("apni prathmikta batai"): Reject: YouTube-only + "karenge" priorities khabar, no executed work.
+// 10. Zeenews Hindi (pre-Nov 2025) - RJD workers' rebellion against MLA Satish Kumar Das (predecessor)
+//     in Makhdumpur meeting: Reject: about the PREVIOUS MLA, pre-current-term; also virodh/dharna-type
+//     politics, not a work. URL: https://zeenews.india.com/hindi/india/bihar-jharkhand/jehanabad/rjd-workers-open-rebellion-against-mla-displeasure-seen-in-the-meeting-in-makhdumpur/2829083
+// 11. All 2015-2020 tenure items (Subedar Das was MLA 2015-2020): excluded by rule - purane karyakaal
+//     ke kaam nahi. Name check done: Makhdumpur/RJD identity confirmed via ADR/myneta affidavits and
+//     multiple election results; no name-mixup with any army-officer "Subedar" found.
+// 12. No negative entries: myneta 2025 affidavit shows no criminal cases; no FIR/adalaati karyavahi
+//     reporting found in established media for this term.
+
+// Coordinator QA note (Jahanabad, 2026-10-14): 3 fragments assemble kiye — Rahul Kumar (1 entry, PMGSY joint-shilanyas, credit disclosed), Rituraj Kumar (1 entry, school udghatan), Subedar Das (khaali); koi overwrite nahi (3/3 slugs pehle khaali the); hygiene clean.
