@@ -1526,3 +1526,68 @@ assamWorks['mohibur-rohman-bappy'] = [];
 // 8. ETV Bharat/Assam Tribune/Time8/Northeast Now — 10+ targeted searches (English + Hindi, name-variants "Mohibur Rahman" sahit) me May 2026 ke baad Mankachar MLA ke kisi road/school/hospital/embankment lokarpan ya shilanyas ki koi post-event reporting nahi mili.
 // NEGATIVE-LOG (mohibur-rohman-bappy): May 2026 ke baad unke khilaf koi FIR/case/janch ki established reporting nahi mili; halafname me bhi 0 aaparaadhik mamle hain — negative entry bhi nahi.
 // QA (coordinator): 0 entries, 8 rejects; identity verify (INC, Mankachar AC-11, May 2026 se); 5 assembly questions ke PDFs khud check kiye — saare sirf sawal-jawab, koi outcome nahi. Sabha ~5.5 mahine purani, vipakshi MLA — patli profile swabhavik.
+
+// ---- Sribhumi district batch (researched 2026-10-14) ----
+assamWorks['jakaria-ahmed'] = [];
+
+// REJECT-LOG (jakaria-ahmed, INC, Karimganj North AC-123, Sribhumi; term from 4 May 2026):
+// 1. Barak Bani Dainik, 27 Aug 2026 — NH-37 repair bhoomipujan (Malua-Kandigram to Karimganj Bypass, Rs 32.69 crore NHIDCL sanction, inside his seat) EXCLUDED him from the ceremony; his Block Congress protested his non-invitation. Rejected: zero documented role for the MLA in the sanction or event — his exclusion, not his work. Congress's claim that he had demanded the road is a party claim, not a documented work.
+// 2. ALA starred question No. 40, Budget Session 7 July 2026 (aladigitallibrary.in PDF) — he asked about the Karimganj town water supply project and Jal Jeevan Mission progress in Sribhumi. Rejected: an assembly question is not a work (no lokarpan, sanction, or outcome documented).
+// 3. YouTube-only videos (~May 2026) of his Karimganj Civil Hospital inspection expressing concern over conditions. Rejected: YouTube-only source AND inspection-only with no documented admin outcome.
+// 4. The Sentinel "47 new MLAs" and "Congress first list" articles — election/political news, no works. Rejected.
+// 5. News Time Barak banner-tearing incident report (28 Sept 2025) — pre-term political incident. Rejected.
+// 6. Hindi search hits for "Panna MLA bhoomipujan" — all refer to Panna district in Madhya Pradesh, wrong person. Rejected.
+// 7. PM Modi projects (Karimganj Medical College, Agriculture College at Patharkandi, Shillong-Silchar corridor) — no documented MLA role. Rejected.
+// 8. Screened negative: APCC Format C-7 (Mar 2026) discloses pre-term criminal complaint cases from a private property dispute, stayed by court order since 14 July 2023; party's stated reply is that they are non-serious with no moral turpitude. No current-tenure FIR/case/inquiry found in established reporting. No negative entry made.
+// Profile empty: 5-month-old term as opposition MLA in a BJP-ruled state; no documented works found.
+
+assamWorks['aminur-rashid-choudhury'] = [];
+// REJECT-LOG (aminur-rashid-choudhury):
+// 1. Barak Taranga, 11 Aug 2026 (https://baraktaranga.com/mla-aminur-rashid-chowdhury-in-fakirabazar-road-inspection/) — inspected ongoing road construction at Fakirabazar, Prasharpur GP Ward 9, and directed the project manager to clear debris obstructing the road; inspection-only with on-the-spot directive, no documented admin outcome or officer action — REJECT per "only inspection/tour" rule.
+// 2. Barak Taranga, 13 Jun 2026 (https://baraktaranga.com/mla-aminur-rashid-visited-nilambazar-hospital/) — visited Nilambazar hospital, heard complaints, promised action on parking and cleanliness; inspection-only, no sanctioned work or completed work — REJECT.
+// 3. Barak Taranga, 26 Sep 2026 (https://baraktaranga.com/aminur-rashids-solidarity-with-the-dharna-movement-of-college-students-at-nilambazar-to-protest-against-the-poor-national-highway/) — joined student protest demanding NH repair at Nilambazar; solidarity at a protest, no work/sanction with his role — REJECT.
+// 4. Barak Taranga, 8 Oct 2026 (https://baraktaranga.com/aminur-rashid-chowdhury-on-the-way-to-mecca-to-perform-umrah-with-his-family/) — family Umrah travel news; not a development work — REJECT.
+// 5. India Today NE, 1 Oct 2026 (https://www.indiatodayne.in/assam/video/rahu-borali-to-barak-secretariat-four-congress-mlas-felicitate-himanta-biswa-sarma-1457719-2026-10-01) — he was one of four Congress MLAs who felicitated CM Sarma; political/courtesy event, not a work — REJECT.
+// 6. India Today NE, 21 May 2025 (https://www.indiatodayne.in/amp/assam/story/assam-congresss-aminur-rashid-breaks-silence-on-bribe-claim-it-was-business-deal-1217115-2025-05-21) — panchayat-ticket bribery allegation rebuttal ("it was business deal"); pre-term (May 2025), not current tenure, and no FIR/case/inquiry status — REJECT for negative screening.
+// 7. Newstime Barak (https://newstimebarak.com/foundation-stone-laid-for-two-road-projects-in-karimganj/) — two road foundation stones laid by former MLA Kamalakhya Dey Purkayastha; old (pre-2026) and wrong person — REJECT (trap).
+// 8. PM Modi Silchar projects / Karimganj Medical College / agriculture college at Patharkandi stories (Mar 2026, pre-term or outside his seat/role; e.g. https://boroktimes.com/prime-minister-modi-lays-foundation-stone-for-karimganj-medical-college/) — no concrete role by Aminur Rashid Choudhury — REJECT.
+// 9. YouTube Shorts (https://www.youtube.com/shorts/5gevLuh9IQE, "people crying after voting for Aminur Rashid Chowdhury") — YouTube-only source, political content — REJECT.
+
+assamWorks['krishnendu-paul'] = [];
+// REJECT-LOG (krishnendu-paul):
+// 1. Lowairpoa Adarsha Vidyalaya foundation (school science lab/library/computer room, lafznews.com) — PRE-TERM, ~Aug 2025; belongs to 2021-2026 term, not 2026-2031.
+// 2. Pranabananda Vidya Mandir visit + Rs 15 lakh grant announcement (07/11/2025) — PRE-TERM; announcement of grant without sanction order = ghoshna anyway.
+// 3. CM Himanta Sarma Rs 340 crore projects in Sribhumi/Patharkandi (March 2026, multiple outlets) — PRE-TERM and Paul merely present at CM's event; presence at CM events is excluded.
+// 4. PM Modi bhoomi-pujan, College of Agriculture at Patharkandi (14 March 2026) — PRE-TERM (election was 9 Apr 2026) and PM's act, not Paul's role.
+// 5. BJP Patharkandi Mandal office inauguration by CM (lafznews, ~Sep 2025) — PRE-TERM and party event.
+// 6. Barak Bulletin NIAIMT skill-hub discussion (24 Aug 2026) — in-term but meeting-only, no work inaugurated/sanctioned; Paul attended as minister in Barak Valley Development role, discussion stage only.
+// 7. PHE/Jal Jeevan Mission review, Lower Assam (18 June 2026, IANS/lokmattimes) — MINISTER-RULE: portfolio review meeting, not Patharkandi-specific.
+// 8. Sentinel Barak Valley road/highway review, Dispur (Sep 2026) — MINISTER-RULE: portfolio review across 3 districts, no Patharkandi seat-specific work with his concrete role.
+// 9. TOI Barak Valley Secretariat road review (Sep 2026, guardian minister) — MINISTER-RULE: Barak Valley-wide; works cited are in Cachar (not his seat) or general directions.
+// 10. IndiaTodayNE Barak Valley roads expedited (09 Sep 2026) — MINISTER-RULE: review meeting, roads cited (Silchar-Churaibari, Kalain-Silchar, Lawaipara bypass) are outside Patharkandi.
+// 11. Dimasa language 2-member ministerial panel (24 Sep 2026) — MINISTER-RULE: portfolio decision as Hill Areas Minister, not constituency works.
+// 12. Jorhat flood relief review (07 Aug 2026) — flood RELIEF + outside seat (Jorhat); relief is not works.
+// 13. KRC Times AIIMS-model institution, land offered by Paul in Patharkandi (~Sep 2026) — preliminary proposal, CM said "nothing concrete yet, very initial stage"; no sanction/GO/foundation; karenge-tier, rejected. Note: only a land offer for a still-unapproved project.
+// 14. MMUA seed-capital distribution cheques in Hailakandi/Dholai — welfare distribution, not works; outside seat.
+// 15. EVM-in-jeep controversy (April 2021) — PRE-TERM, not current tenure; no FIR/case outcome attributable. 2026 affidavit shows 0 criminal cases. Negative screen: CLEAN for 2026-2031 term.
+
+assamWorks['bijoy-malakar'] = [];
+// REJECT-LOG (bijoy-malakar):
+// 1. newstimebarak.com "MLA Bijoy Malakar lays foundation stone for Road in Ratabari" (West Krishnanagar to Bishnupur road) — pre-term trap (~2023, 1244 days old); reject.
+// 2. newstimebarak.com "MLA Bijoy Malakar inaugurates new building of Karimganj school" (Bodhan HS School, Nivia) — pre-term trap (~2024, 763 days old); reject.
+// 3. newstimebarak.com "Ramkrishna Nagar Municipal Board breaks ground for new office building" — event dated 06 Aug 2025 (pre-term), MLA laid stone; reject.
+// 4. way2barak.com "Himanta lays foundation stone of 2 roads in Karimganj & auditorium at RK Nagar" — 2020-era (minister-led, MLA only present); pre-term; reject.
+// 5. dailypioneer.com "Pijush Hazarika lays stone for Ramkrishna Nagar Co-District Commissioner Office" — ~Jan 2026 (pre-term), MLA only attended; reject.
+// 6. ANI/latestly/dailyprabhat/indianeconomicobserver CM Sribhumi MMUA event listing Ramkrishna Nagar sanctions (Rs 100 crore Asom Mala roads, stadium, girls college, schools, Rs 600 crore medical college) — event dated 24 Oct 2025 (pre-term); MLA's role only "proactive role in facilitating" per CM; reject.
+// 7. thenewsmill.com "Assam CM launches women entrepreneurship cheque distribution in Sribhumi and Cachar" — Jan 2026 (pre-term), MLA only attended; reject.
+// 8. indiatodayne.in (29 Jul 2025) Rs 3.25 crore Jal Jeevan project Mokamchara No.2 taps-in-paddy-fields story — pre-term (Jul 2025) + MLA only inaugurated; negative angle pre-dates current term; reject.
+// 9. indiatodayne.in (28 Feb 2026) "Newly rebuilt health centre opens once a month" Mokamchhara PHC — pre-term (Feb 2026); reject.
+// 10. jagarantripura.com (04 Dec 2022) grand reception of MLA in Ramkrishnanagar — party reception event, pre-term; reject.
+// 11. Bridge collapse Anipur/Ramkrishna Nagar–Sribhumi PWD road (thischarmlessgirl.com/MSN, 11 Feb 2026) — pre-term; MLA only visited site (inspection only); reject.
+// 12. baraktaranga.com (7 Oct 2026) SSP Sribhumi office new gate inaugurated by minister Krishnaendu Paul, MLA only present — presence at minister's event; reject.
+// 13. way2barak.com (8 Oct 2026) Seva Jyoti Kalas Yatra Sribhumi, MLA present among BJP leaders — party/religious event, no development work; reject.
+// 14. YouTube (News Live Bangla shorts, ~Sep 2026) MLA facilitated Ayachak Ashram's Rs 21 lakh flood-relief donation to CM — flood RELIEF not works + YouTube-only source; reject.
+// 15. YouTube-only "Veterband o Singlachharay unnayan prokolper suchona, 4ti kajer shilanyas" (crawled ~Jun 2026) — YouTube-only source rejected; no verifiable text article with date found; reject.
+// 16. Citizenship writ petition (Gauhati High Court, filed Dec 2025 by Braja Gopal Sinha and Bijoy Kumar Kanu; reported by The Hindu/NENow/Bharat Horizon, MLA's reply on record: allegations politically motivated, matter in court) — pre-term filing, NOT development-related (political identity case, no FIR/development link); does not meet negative-entry criteria; reject.
+
+// COORDINATOR QA NOTE (Sribhumi district batch): 4 workers parallel, sabhi 4 fragments QA-clean (0 Devanagari, 0 rupee-symbol, assignment format exact, reject-logs maujud, koi overwrite nahi — sabhi slug pehle 0 matches the). Kul titles 30 -> 30 (+0; sabhi 4 profiles imaandari se KHAALI). Barak valley ke 4 me se 3 MLA pichle karyakaal ke bhi the, isliye pre-term traps sabse zyada isi batch me mile (CM ke Oct 2025 Sribhumi event, March 2026 CM projects, PM ka 14 Mar 2026 Patharkandi agriculture college bhoomi-pujan). Krishnendu Paul par mantri-niyam sakht laagu — PHE/JJM reviews aur AIIMS-model ghoshna (CM ne "nothing concrete yet" kaha) reject. Sabha ~5.5 mahine purani; 2 INC vipakshi MLAs.
