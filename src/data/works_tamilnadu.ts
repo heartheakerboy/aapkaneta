@@ -1453,3 +1453,125 @@ tamilNaduWorks['v-p-tamilselvi'] = [];
 // - Negative entries: koi nahi.
 // - Push/deploy NAHI kiya (parent sambhalega).
 
+// ---- Kallakurichi district batch (researched 2026-10-15) ----
+tamilNaduWorks['palanisamy-s'] = [];
+
+// REJECT-LOG (palanisamy-s, Tirukkoyilur AC, Kallakurichi jila, AIADMK, office 11 May 2026; 8 search rounds: English general/targeted/alt-spelling, news vertical, Tamil media, DT Next/NIE; identity cross-checked against TOI/Indian Express/Wikipedia results list — Palanisamy S, AIADMK, 73,033 votes, 285 margin)
+// 1. Dinamalar, Oct 2026 — "Tirukkoyilur district government headquarters hospital opening" (https://www.dinamalar.com/amp/news/tamil-nadu-district-news-kallakurichi/waiting-for-planning-approval-at-the-temple-when-will-the-district-government-headquarters-hospital-open/4348067): khabar padhi; MLA ne budget session me hospital kholne par sirf sawal uthaya (maang/prayas) — koi lokarpan, swikriti ya shilanyas nahi; aur hospital khud Nov 2022 ka tender (DMK sarkar, pre-term), isliye shrey bhi uska nahi.
+// 2. Dinamalar, 11 Jun 2026 — "MLA inspects Arunapuram anganwadi centre, Mugaiyur union, Tirukkoyilur" (https://www.dinamalar.com/news/tamil-nadu-district-news-kallakurichi/-mla-inspects-arunapuram-anganwadi-center-/4243872): sirf nirikshan-daura — bachchon ke khaane ki quality check; koi swikrit/lokarpit/shilanyasit kaam nahi (sirf maujoodgi = reject).
+// 3. Dinakaran, campaign period (Apr 2026) — "Case filed against AIADMK candidate Palanisamy and 100 others for unauthorized road campaign during vote-seeking" (https://www.dinakaran.com/news/tirukkovilur-aiadmk-palaniswami/): pre-term chunav-prachaar FIR — period se bahar; aur chunav-avadhi ka mamla akela negative nahi banta.
+// 4. The Hindu, 31 Mar 2026 — "Disappointed over confusion post bifurcation, Tirukkoyilur constituency electors feel neglected" (https://www.thehindu.com/elections/tamil-nadu-assembly/disappointed-over-confusion-post-bifurcation-tirukkoyilur-constituency-electors-feel-neglected/article70805924.ece): chunav se pehle ki khabar, usme Palanisamy ka koi kaam nahi, sirf purani shikaayatein — pre-term.
+// 5. Vikatan — "AIADMK ex-MLA NS Palaniswami mani-mandapa inauguration": galat vyakti (N.S. Palaniswami, purv MLA) — naam-trap reject.
+// 6. Saare Edappadi K. Palaniswami hits (The Hindu, New Indian Express, DT Next, 2019-2022): galat vyakti (purv CM) — naam-trap reject.
+// 7. New Indian Express, Nov 2019 — "CM Palaniswami inaugurates newly-created Kallakurichi district": pre-term (2019) aur galat vyakti — naam-trap + pre-term reject.
+// 8. The Hindu, Dec 2025 / Feb 2026 — Stalin ke Kallakurichi project inaugurations (Rs 1,773.67 crore, hospital upgrades): pre-term (DMK sarkar ke aakhri mahine) aur unme Tirukkoyilur MLA Palanisamy ki koi bhoomika nahi — reject.
+// 9. The Hindu pre-election piece (search round 1) me Palanisamy ke naam par sirf ummeedwari ka zikr, koi kshetra-kaam nahi.
+// 10. Jun 2024 Kallakurichi hooch-tragedy coverage: pre-term purani khabar, Palanisamy MLA tab the hi nahi — reject.
+
+// SEAT-WORK NATIJA: Palanisamy S (AIADMK, Tirukkoyilur AC, Kallakurichi jila) ke May 2026 ke baad ke kshetra-kaam ki koi qualifying media reporting nahi mili — sirf ek assembly sawal (district hospital, Oct 2026 Dinamalar) aur ek anganwadi nirikshan-daura (11 Jun 2026 Dinamalar) mile, dono works entry nahi bante; profile imaandari se KHAALI rakha gaya (0 entries).
+
+tamilNaduWorks['vasanthavel-g-r'] = [];
+
+// REJECT-LOG (vasanthavel-g-r, Ulundurpettai AC / Kallakurichi, seat research 2026-10-15)
+// 1. TOI "Ulundurpettai election results 2026: DMK's Vasanthavel G R wins" (May 2026) — sirf chunav-jeet ki khabar, vikas-kaam nahi.
+// 2. Indian Express "Ulundurpettai Election Result 2026 LIVE" — sirf result/candidate-list, vikas-kaam nahi.
+// 3. Business Today "Ulundurpettai Election Results 2026 Highlights Updates" — sirf counting updates, vikas-kaam nahi.
+// 4. ABP Live Ulundurpettai result page — sirf result tally, vikas-kaam nahi.
+// 5. Oneindia "Ulundurpettai Election Result 2026 LIVE" — sirf result, vikas-kaam nahi.
+// 6. Bharat Horizon "DMK's Vasanthavel Wins Ulundurpettai Seat by 2,277 Votes" — sirf jeet-report, vikas-kaam nahi.
+// 7. The Hindu "Tamil Nadu election 2026: Ulundurpet constituency set to witness a direct battle between Dravidian majors" (Apr 2026) — pre-term pre-poll profile, vikas-kaam nahi.
+// 8. The Hindu candidate profile "Vasanthavel G R, ULUNDURPETTAI constituency, DMK, Tamilnadu Assembly Election 2026: Profile & Affidavit" — sirf affidavit data, works nahi.
+// 9. Frontline "Hot and heavy" (Apr 2016) — 2016 campaign-trail piece; Thirunavalur Panchayat Union chairman ke kaam (sadak, paani tanki) pre-term aur pre-MLA, reject.
+// 10. Economic Times / Business Standard "DMK announces candidate for Ulunthoorpet" (Apr 2016) — 2016 ki candidate-ghoshna, pre-term, reject.
+// 11. ET "AIADMK MLA donates Rs 3.16 crore to TTD for temple in Tamil Nadu" (Jan 2021) — purane MLA R. Kumaraguru ka kaam, pre-term, galat vyakti, reject.
+// 12. The Hindu "Tamil Nadu CM lays foundation stone for Sri Venkateswara Swamy Temple" (Feb 2021) — pre-term + CM-level, is MLA ka koi role nahi, reject.
+// 13. The Hindu "CM Stalin inaugurates new projects worth Rs 1,773.67 crore" (Dec 2025) — pre-term + CM ke jila-pariyojna; article me is MLA ki koi concrete bhoomika nahi, reject.
+// 14. DT Next "Transport minister inaugurates Omni bus association's motel at Ulundurpet" (Dec 2024) — pre-term + mantri ka kaam, MLA ki bhoomika nahi, reject.
+// 15. New Indian Express "TN govt ignored Kallakurichi AIADMK MLA's repeated appeal for action against illicit liquor" (Jun 2024) — hooch-tragedy purani khabar, pre-term, reject.
+// 16. kallakurichi.tamilagakural.com "DMK candidate G.R. Vasanthavel files nomination" (Apr 2026) — pre-term nomination activity, works nahi, reject.
+// 17. Murasoli e-paper via mrsfsnew.avahan.net (Apr 2026) — party newspaper pre-election coverage, works nahi, reject.
+// 18. Instagram/Threads reels (Sep-Oct 2026) — Madurantakam upchunav me party-prachar, seat ke vikas-kaam nahi + social-only source, reject.
+// 19. YouTube Red News Tamil campaign videos (Apr 2026) — YouTube-only + pre-term campaign, reject.
+// 20. livechennai.com / newsin.co.in / indiaelectionpolls.com / indiastats.org constituency pages — sirf election stats, works nahi, reject.
+// 21. Wikipedia (en/ta) pages "G. R. Vasanthavel" / "Ulundurpet Assembly constituency" — sirf election record, works nahi, reject.
+// 22. myneta.info 2016 affidavit — aggregate purana affidavit data, works nahi; bina nayi reporting ke negative bhi nahi, reject.
+// 23. Mantri-check: TVK sarkaar ki 2026 cabinet list (TOI/Republic/Oneindia/Economic Times) me Vasanthavel ka naam NAHI — ve mantri nahi, keval vipakshi DMK MLA; mantri-scoping niyam lagu nahi.
+// 24. Dinamani/Daily Thanthi/Tamil credible press me May 2026 ke baad ke Ulundurpettai-kaam ki koi English/Tamil news-reporting nahi mili (search me sirf 6-MLA-istikafi HC faisla jaisi unrelated khabarein aayi).
+
+// SEAT-WORK NATIJA: Ulundurpettai (Vasanthavel G R, DMK) — 0 qualifying entries; profile khaali, koi May 2026 ke baad ka kshetra-kaam credible media me reported nahi mila.
+
+tamilNaduWorks['karthikeyan-k'] = [
+  {
+    title: 'Kallakurichi police registered a case against Rishivandiyam DMK MLA Vasantham Karthikeyan for allegedly making defamatory remarks against Chief Minister C. Joseph Vijay',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rediff, 15 Sep 2026',
+    sourceUrl: 'https://www.rediff.com/news/report/a-raja-among-3-top-dmk-leaders-booked-over-remarks-against-cm-vijay/20260915.htm',
+    date: '2026-09-15',
+    note: 'Rediff reported that the Kallakurichi police registered a case against Rishivandiyam MLA Vasantham Karthikeyan over allegedly defamatory remarks against Chief Minister C. Joseph Vijay made during the DMK\u2019s statewide protest on 12 September 2026; the protest was against the CM\u2019s assembly remarks and gestures on M.K. Stalin\u2019s MISA arrest. The matter is at the FIR-registration stage only \u2014 no arrest or court conviction has been reported. DMK spokesperson TKS Elangovan called it political vendetta by the TVK government; the DMK\u2019s position is that critical remarks are the opposition\u2019s right. This is not a development-work entry \u2014 it is recorded as stage-accurate information on the case against the MLA, with no conclusion drawn.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (karthikeyan-k, DMK, Rishivandiyam AC, Kallakurichi, Tamil Nadu; scope: May 2026+; researched 2026-10-15)
+// 1. TOI / Rishivandiyam election result 2026 (5 May 2026) — chunav-jeet ki khabar, vikas-kaam nahi; reject.
+// 2. DT Next, 8 Aug 2026 — "Aadhav helped me secure ticket, says DMK MLA K Karthikeyan" — Vidhan Sabha me ticket se judi tippani, kshetra-kaam nahi; reject.
+// 3. The Hindu, 12 Mar 2026 — Dy CM Udhayanidhi Stalin ka Kallakurichi welfare event; Karthikeyan sirf maujood thay, term se pehle; reject.
+// 4. The Hindu/others — Dec 2025 Stalin Kallakurichi tour (Rs 1700 crore yojanaein) — purani sarkaar, Karthikeyan ki koi concrete bhoomika nahi, period bahar; reject.
+// 5. Asianet Newsable mirror "Stalin unveils Rs 1,700 crore schemes" — Dec 2025 ka event, TVK sarkaar se pehle; reject.
+// 6. Indian Express, 22 Jun 2020 — Covid positive purani khabar; reject.
+// 7. CM Palaniswami Nov 2019 announcements (NIE) — Rishivandiyam college ka vaada AIADMK daur ka, period bahar; reject.
+// 8. News89 aggregator copy of the FIR story — primary Rediff use kiya; aggregator copy reject.
+// 9. Telangana Today, 15 Sep 2026 — same FIR story ki copy; primary Rediff use kiya; reject.
+// 10. India Today/HT credit wali copies — original access nahi, secondary copies; primary ke roop me reject.
+// 11. Oneindia / LiveChennai / Business Today election-data pages — sirf jeet ke aankde, kaam nahi; reject.
+// Naam-trap jaanch: S. Karthikeyan (Madurai East MLA) aur Kai Karthikeyan — alag vyakti, unse judi koi khabar shamil nahi. Karthikeyan K TVK-led cabinet me mantri NAHI hain (sabhi reports "DMK MLA" kehte hain) — mantri-scoping niyam lagu nahi.
+// Negative screening: sirf ek qualifying negative — Sep 2026 FIR (uper entry); koi adalaati dosh-siddhi, giraftari ya nayi aggravation reporting nahi; affidavit aggregate case-count ka sahara nahi liya; parivar se jude mamle — koi nahi mile.
+// SEAT-WORK NATIJA: Profile khaali nahi — 1 negative entry (Sep 2026 FIR, news); May 2026 ke baad koi qualifying vikas-kaam English media me nahi mila.
+
+tamilNaduWorks['rakesh-r'] = [];
+
+// REJECT-LOG (rakesh-r, 2026-10-15 research)
+// 1. Deccan Chronicle, ~Sep 2026 — "Villagers Seek Tar Road to End 50-Km Detour in Kalvarayan Hills" — Kalvarayan Hills (Sankarapuram AC) ke gaon-wale Vilaanelli-Puthupalapattu tar road ki MAANG CM aur Collector se kar rahe hain; vidhayak Rakesh R ka naam/zikr/report me koi kaam ya bhoomika nahi — sirf maang, entry reject.
+// 2. The South First, Feb 2026 — "PollSCAN TN: Will AIADMK check DMK juggernaut in Kallakurichi?" — chunav-se-pehle ka analysis piece (bus stand, taluk hospital, college ki maang, Vellimalai ki sadak ki kami); term se pehle ki reporting, koi kaam nahi — reject.
+// 3. Chunav-parinaam pages (Indian Express, Times of India, ABP Live, Business Today, Oneindia, tnupdates.com, May 2026) — sirf 4 May 2026 jeet ki khabar; vikas-kaam nahi — reject.
+// 4. Kallakurichi hooch-tragedy khabrein (Jun 2024, The Statesman/LatestLY/India.com/FirstIndia) — purani, pre-term; usme bhi Rakesh R ka seedha jod nahi — reject.
+// 5. New Indian Express, Nov 2019 — "CM Palaniswami promises amenities for Kallakurichi district" — purana (2019), us samay ke CM ka vaada — reject.
+// 6. DT Next/Express "CM Vijay inaugurates infra projects 2026" (Aug 2026), PM Modi 13,000-crore projects (Oct 2026, Chennai), Tirupattur Collectorate (Jun 2026) — rajya-star pariyojnayein jisme Rakesh R ki koi concrete bhoomika ya Sankarapuram-seat attribution article me nahi — sirf maujoodgi se shrey nahi — reject.
+// 7. Tamil Nadu tenders (tamilnadu-tenders.co.in) — SASCI road tenders Kallakurichi me hain lekin kisi article/srot ne inhe Rakesh R ya unki vidhayak-nidhi se nahi joda; bina established media reporting ke jodna kalpana hogi — reject.
+// 8. YouTube/social/FB/IG permalinks aur public.app-type aggregators — koi qualifying link mila hi nahi; milne par bhi disallowed source hote — N/A.
+// Negative: koi credible post-May-2026 reporting (FIR/case/adalaati janch) Rakesh R ke khilaaf is research me nahi mili.
+
+// SEAT-WORK NATIJA: Sankarapuram (Kallakurichi) ke vidhayak Rakesh R ke May 2026 ke baad ke kshetra-kaam ki koi qualifying English-media reporting (lokarpan, GO-swikriti, shilanyas, ya vibhagiya data wali swikriti) NAHI mili — 7 round ki searches me sirf chunav coverage, purani khabrein aur ek gaon-walon ki maang wali report mili, isliye profile KHAALI (0 entries).
+
+tamilNaduWorks['arul-vignesh'] = [];
+
+// REJECT-LOG (arul-vignesh, TVK, Kallakurichi AC, Kallakurichi jila — researched 2026-10-15; 9 alag search angles chalaye)
+//
+// 1. Election coverage (The Hindu, Indian Express, TOI, News18, NDTV, Business Today, ABP Live, The Economic Times, tnexplorer.com, Oneindia — sab May 2026 ya usse pehle): reject — ye sab chunav-reporting hai (jeet, vote-margin 798, candidate lists), karyakaal (10 May 2026 ke baad) ka kshetra-kaam nahi.
+// 2. Chennaivision + chennaionline + kirakposter.com: "Jos Alukkas Launches Signature Store in Kallakurichi", 16 May 2026 (khud khola): reject — private jewelry showroom ki commercial opening hai; MLA sirf upasthit the ("in the presence of C. Arul Vignesh"). Sirf maujoodgi = vikas-kaam nahi.
+// 3. The New Indian Express: "Minister visits Amudhan's kin, offers Rs 6 lakhs aid", 17 Aug 2026 (khud khola): reject — MLA sirf upasthit the jab Social Justice Minister Vanni Arasu aur Minister Sampath Kumar ne Rs 6 lakh ki SC/ST (PoA) Act sahayata ka order diya. Kaam mantriyon/vibhag ka hai, MLA ki koi concrete bhoomika nahi; sirf maujoodgi.
+// 4. The New Indian Express: "MLA Arul joins stir against school closure", 24 Dec 2024: reject — ye PMK MLA R. Arul (Salem West) hain, Arul Vignesh nahi (naam-trap); plus pre-term.
+// 5. Hooch tragedy coverage (Business Standard, Times Now, The Statesman, webindia123 — Jun 2024): reject — pre-term (tragedy May 2026 se pehle hui) aur unki koi bhoomika report nahi hui; us par comment ya maujoodgi kaam nahi banta.
+// 6. The Times of India (Coimbatore): "Minister Vignesh urges visitors to gift educational stationery", 2026: reject — ye TVK state minister K Vignesh hain, MLA Arul Vignesh nahi (naam-trap; "Arul" se shuru hone wale kai TVK neta hain).
+// 7. DT Next: "Narrow escape for TVK MLA Navalpattu Viji as lorry hits car near Perambalur", 21 Jun 2026: reject — alag TVK MLA hain (Thiruverumbur, Tiruchy), Arul Vignesh nahi.
+// 8. indiaherald.com: "Chief Minister M.K. Stalin Distributes Welfare Assistance to ... in Kallakurichi": reject — content-farm/aggregator style site hai; article me Arul Vignesh ki koi bhoomika darj nahi, aur purani/stale political claims hain.
+// 9. The Week wire, Oct 2025: TN prison reforms / PMK MLA R Arul Assembly question: reject — pre-term aur doosre MLA.
+// 10. Wikipedia pages (Arul Vignesh, Arul Vignesh C, Kallakurichi Assembly constituency): reject — news source nahi, sirf chunav-background.
+// 11. morningstiffnesspodcast.org / thelocalreport.in TVK candidate-list mirrors: reject — aggregator, sirf candidate list, kaam-reporting nahi.
+//
+// NOTE: NDTV candidate page (ADR data, Rs 1.2 crore assets) sirf affidavit-info hai — negative ke liye nayi reporting nahi, isliye negative entry bhi reject.
+
+// SEAT-WORK NATIJA: 0 entries rakhi (koi qualifying kshetra-kaam reporting nahi mili); 11 categories ke items reject (maujoodgi/naam-trap/election/aggregator/pre-term); profile khaali raha.
+
+// COORDINATOR QA NOTE (Kallakurichi district batch, researched 15 Oct 2026)
+// - Kul 5 MLA research hue (Tirukkoyilur, Ulundurpettai, Rishivandiyam, Sankarapuram, Kallakurichi AC).
+// - Kul kept entries: 1 (karthikeyan-k — 1 NEGATIVE: CM Vijay ke khilaf apmaanjanak tipanniyon par Kallakurichi police me case darj, 12 Sep 2026 protest; Rediff, 15 Sep 2026; stage = FIR-darj, koi giraftari/dosh-siddhi nahi; DMK pravakta TKS Elangovan ka jawab "raajneetik jawabi kaarvaai" darj; koi nishkarsh nahi nikala gaya).
+// - 4 profiles imaandari se KHAALI (palanisamy-s, vasanthavel-g-r, rakesh-r, arul-vignesh); dono opposition MLAs (AIADMK/DMK) ke seat-level works English media me practically absent.
+// - COORDINATOR REWRITE: karthikeyan-k worker fragment Devanagari me tha — poora block (title + note + reject-log) Roman Hinglish me rewrite kiya (rules: titles/notes Roman hi).
+// - Naam-trap audit: Palanisamy S != Edappadi K. Palaniswami != N.S. Palaniswami; Karthikeyan K != S. Karthikeyan (Madurai East) != Kai Karthikeyan; Arul Vignesh != PMK MLA R. Arul (Salem West) != TVK minister K. Vignesh; "Vasantham Karthikeyan" wali Rediff story worker ne Rishivandiyam DMK MLA se verify ki — wahi karthikeyan-k slug se pair hui.
+// - Mantri-check: Vasanthavel G R aur Karthikeyan K dono mantri NAHI hain (TVK cabinet lists me naam nahi) — mantri-scoping niyam lagu nahi hua.
+// - Slug audit: 5/5 slugs append se pehle file me 0 matches — koi overwrite nahi.
+// - Hygiene: 0 Tamil/Devanagari script, 0 rupee symbol, 0 literal-\n; entry objects me 0 comments; field order exact; period '2026-2031' kept entry me.
+// - Negative entries: 1 (karthikeyan-k). Push/deploy NAHI kiya (parent sambhalega).
+
