@@ -2049,3 +2049,73 @@ mpWorks['umadevi-lalchand-khatik'] = [
 // - YouTube-only: Hatta-Patera marg par helmet appeal ka viral video — YouTube-only, reject.
 // NOTE: Umadevi Khatik ke paas is batch me koi positive vikas-karya entry nahi mili (saboot wale sources me); unki ekmatra entry Zee News wali aarop-reporting hai.
 
+
+// ---- Datia district batch (researched 2026-10-14) ----
+// Datia batch — pradeep-agrawal (Sewda AC-20, BJP, karyakaal Dec 2023+),
+// phool-singh-baraiya (Bhander SC AC-21, INC, karyakaal Dec 2023+),
+// ghanshyam-singh (Datia AC-22, INC, karyakaal Jul 2026+ — upchunav vijeta; Rajendra Bharti
+// ki Apr 2026 ayogyata ke baad; data me Rajendra Bharti ka koi profile nahi — unke naam par
+// koi entry nahi banayi gayi).
+// DO NOT export; appended to works_mp.ts
+
+mpWorks['pradeep-agrawal'] = [
+  {
+    title: 'Indergarh ke Ward 2 me vidhayak-nidhi se Rs 4-4 lakh ke do samudayik bhavanon ka bhoomi-pujan — Koteshwar/Hanuman mandir ke paas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Feb 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/mp/datia/indergarh/news/instead-of-30-beds-the-hospital-will-have-50-beds-mla-136504919.html',
+    date: '2026-02',
+    note: 'Dainik Bhaskar ke mutabik Indergarh nagar ke basti Ward 2 me Koteshwar mandir aur Hanuman ji mandir ke paas vidhayak-nidhi (MLA fund — ye vidhayak-nidhi hai, sansad-nidhi/MP fund nahi) se Rs. 4-4 lakh ki lagat ke do samudayik bhavanon ka nirman hoga; bhoomi-pujan unhone mukhya atithi ke roop me kiya, jisse sadhu-santon ke baithne aur dharmik ayojanon ki vyavastha ho sakegi. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Note: usi karyakram me unhone 30-bistar aspatal ko 50-bistar karne ke liye shasan ko patra bhejne ki baat kahi — ye maang/patra hai, kaam nahi, isliye entry me nahi liya gaya; ring road aur kheton tak sadak ki baat prastav thi, kaam nahi. Date: page par "8 mahine pehle" — Feb 2026 est.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Indergarh me asthayi bus stand ka shubharambh — mukhya atithi ke roop me shamil',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NCR Samachar Live, Sep 2026 (est.)',
+    sourceUrl: 'https://ncrsamacharlive.in/latest/madhya-pradesh-inauguration-of-temporary-bus-stand-in-indargarh-town-relief-from-traffic-congestion-expected',
+    date: '2026-09',
+    note: 'NCR Samachar Live ke mutabik Indergarh nagar me Datia Road (State Bank ke saamne) khaali zameen par asthayi bus stand ka shubharambh unke mukhyatithya me hua; yatriyon ke liye tin-shed aur sulabh shauchalay ki vyavastha batayi gayi; shahar me ghusne wale charon raston ko jald ring road se jodne ka kaam shuru hone ki baat kahi gayi. Status: shubharambh. Credit-pardarshita: ye nagar parishad ka kaam hai; unki bhoomika mukhya-atithi ke roop me shubharambh-karta ki hai — nirman ka shrey unhe nahi diya ja raha. Disclosure: NCR Samachar Live chhota local portal hai. Date: page par tithi nahi di gayi; crawl timing se Sep 2026 est.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['ghanshyam-singh'] = [
+  {
+    title: 'Nirvachan ko Jabalpur High Court me chunauti — 1991 ke case ki jaankari chhupane ka aarop; yachika sunvai ke liye lambit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News18 Hindi, 22 Sep 2026',
+    sourceUrl: 'https://hindi.news18.com/news/madhya-pradesh/datia-petition-against-ghanshyam-singh-of-congress-in-jabalpur-highcourt-local18-10856114.html',
+    date: '2026-09-22',
+    note: 'News18 Hindi ke mutabik BJP neta/advocate Deepak Belpatri ne advocate Shivam Gautam ke madhyam se 17 Sep 2026 ko Jabalpur High Court me chunav yachika dayar ki; aarop hai ki unhone Datia upchunav ke halafname me 1991 me Rajiv Gandhi ki hatya ke baad Datia me virodh-pradarshan/chakka-jam ke dauran darj FIR ki jaankari chhupayi. Case sthiti: yachika dayar, sunvai lambit; yachika dayar hone matra se sadasyata samapt nahi hui hai. Vidhayak ka jawab: unhone aaropon ko sire se kharij kiya — kehna hai ki 1991 ke mamle ki jaankari unke sangyan me nahi thi, halafname me unhi mamlo ka ullekh hota hai jo kanooni prakriya ke dayre me aate hain, aur ye rajnaitik sajish hai. Status: aarop (apramanit) — dosh siddh nahi hua hai; ye entry aarop ki reporting hai, faisla nahi. Note: ye unke Jul 2026 ke baad ke karyakaal ki ghatna hai (shapath 6 Sep 2026); is avadhi ka koi vikas-karya saboot wale sources me nahi mila — profile me vikas-karya entry nahi hai. (Swadesh News, 22 Sep 2026 me bhi yahi yachika report hui hai.)',
+    period: '2023-2028',
+  },
+];
+
+// NOTE: phool-singh-baraiya (Bhander SC) — is batch me saboot wale sources me koi vikas-karya nahi mila;
+// unki khabrein keval rajnaitik bayan/vivadon (controversial statements) par hain — koi entry nahi banayi gayi.
+// Profile khaali rehna imaandari hai.
+
+// REJECT-LOG (Datia district batch, researched 2026-10-14):
+// KEPT: pradeep-agrawal = 2; phool-singh-baraiya = 0 (profile khaali); ghanshyam-singh = 1 (aarop-reporting).
+// REJECTED — Pradeep Agrawal (Sewda, BJP):
+// - public.app (Indergarh News, Sep 2026): gram Bara (Siddh Baba mandir) me Rs 42 lakh ke karyon (ghat 35L, pravesh dwar 3L, CC road 4.5L) ka bhoomi-pujan/lokarpan — public.app-only source bilkul nahi; non-public.app source nahi mila, reject.
+// - public.app (Seondha News, Nov 2025): Bhaguapura thane ki Rs 3 lakh boundary wall ka SP ke saath lokarpan — public.app-only, reject.
+// - FPJ/navabharat/indianmasterminds (Feb 2026): CM Mohan Yadav ka Datia daura — Rs 550 cr pariyojnaon ka lokarpan/bhoomi-pujan, Sindh pul (Rs 47 cr) — Agrawal manch par keval maujud (maujoodgi); CM ke karyakram me maujoodgi kaam nahi, reject.
+// - Dainik Bhaskar (~May 2026): Khairona Ghat tak PWD sadak ka nirikshan, SDO/thekedar ko nirdesh, nidhi se rashi ka ashwasan — nirikshan/nirdesh/ashwasan, kaam nahi; reject.
+// - Bhaskar lekh ke andar ke hisse: 50-bistar aspatal ke liye shasan ko patra (maang), ring road/khet-sadak (prastav) — maang/prastav, reject.
+// - YouTube-only: sant ka "ashirwad" video, paudharopan, kanoon-vyavastha par bayan, shapath samaroh — YouTube-only/ghatna, reject.
+// REJECTED — Phool Singh Baraiya (Bhander SC, INC):
+// - Deccan Chronicle/FPJ (Jan/Sep 2026): "rape theory" wale vivadit bayan — rajnaitik bhashan, aarop/case ka structure nahi; kaam nahi, reject.
+// - Bhaskar English (Jan 2026): SC/ST MLAs ko "dogs" kehne wala bayan — bhashan; reject.
+// - Zee News: Imarti Devi ke samarthan me bayan — rajnaitik bayan; reject.
+// - ETV Bharat (May 2025): Morena Jatav Mahapanchayat me bhashan — rajnaitik karyakram; reject.
+// - Rewariyasat (Dec 2023): muh kala karne ka chunav-stunt — rajnaitik stunt; reject.
+// - YouTube: putla dahan, "bhusa bhar denge" clips — YouTube-only/bhashan; reject.
+// REJECTED — Ghanshyam Singh (Datia, INC, Jul 2026+):
+// - ThePrint/FPJ/kashmirreader (Aug 2026): upchunav jeet ki khabrein — ghatna (jeet), kaam nahi; reject.
+// - UNI Varta (Sep 2026): Vidhan Sabha adhyaksh se shapath — ghatna; reject.
+// - Rajendra Bharti (poorv Datia MLA, Apr 2026 me ayogya ghoshit): data me unka koi profile nahi hai — unke naam par koi entry nahi banayi gayi.
+// - Unke poorv karyakaal (Datia 1993/2003, Sewda 2018) ki koi khabar — karyakaal se pehle, niyam se bahar.
