@@ -5855,3 +5855,75 @@ mpWorks['omprakash-sakhlecha'] = [
 ];
 // REJECT-LOG omprakash-sakhlecha: July 2023 ke Madawda (Rs 17 lakh), Dhamnia (Rs 13 lakh) bhoomipujan — pre-Dec 2023 mantri-kaal; July 2023 biotech park/udyog-kshetra (Rs 6.5 cr swikriti) — pre-Dec 2023 mantri-kaal; Amar Ujala Sep 2025 — PM janmdin par 14000 students ko Rs 50 lakh sewa-fund — one-time charity event, koi vikas-kaam nahi; Bhaskar Jul 2026 — CM Mohan Yadav ki Bhadva Mata mandir ke liye Rs 17 cr ghoshna — CM ki ghoshna, MLA sirf manch par; VocalTV Apr 2025 — CM Rise School Jawad lokarpan ki taiyari ka nirikshan — sirf nirikshan + CM karyakram me maujoodgi; Sanskardarshan Dec 2023 — Viksit Bharat Yatra me Kishanpura sadak-sudhar/samudayik bhavan ke nirdesh — sirf daura/nirdesh, koi stage nahi; Bangred sadak-virodh ka chunavi-vaade ka aarop — koi FIR/jaanch nahi, negative-entry niyam fail; YouTube videos (Politics Wala, MalwanchalMitra) — YouTube-only source; Divyabhaskar Bhalvav pul — Gujarat ke alag MLA (Janak Talaviya), galat vyakti.
 // ---- Neemuch district batch REJECT-LOG (2026-10-14): per-MLA reject-logs upar unke blocks me hain ----
+
+// ---- Niwari district batch (researched 2026-10-14) ----
+// Niwari district — Anil Jain, BJP, Niwari AC-46 (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['anil-jain'] = [
+  {
+    title: 'Niwari me lagbhag Rs 3 crore ki lagat se bane Swami Vivekananda Auditorium ka vidhayak Anil Jain ne kiya lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV MP-Chhattisgarh, Oct 2025',
+    sourceUrl: 'https://mpcg.ndtv.in/madhya-pradesh-news/niwari-mla-anil-jain-spoke-this-at-inauguration-program-of-swami-vivekananda-auditorium-of-niwari-8089012/amp/1',
+    date: '2025-10',
+    note: 'NDTV MP-Chhattisgarh ki report ke anusaar Niwari me lagbhag Rs 3 crore ki lagat se nirmit Swami Vivekananda Auditorium ka lokarpan Niwari vidhayak Anil Jain ne kiya; isi karyakram me unhone jila parisiman ko lekar bayan bhi diya; report me fund ka srot (vidhayak nidhi ya vibhagiya budget) spasht nahi hai isliye fund-disclosure sambhav nahi; report par sahi prakashan tareekh uplabdh nahi hai, isliye mahina lagbhag October 2025 mana gaya hai; isi khabar me medical college kholne ki unhone keval ichchha jatayi thi, koi swikriti ya pariyojna ghoshit nahi hui.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Prithvipur janpad ki Sunoniya Khas aur Sunoniya Paschimi gram panchayaton me CC sadak nirmaan karyon ka vidhayak Anil Jain ne kiya bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Today India News MP, 28 May 2026',
+    sourceUrl: 'https://todayindianewsmp.live/2026/05/nivaadee-ko-milee-vikas-karyon-kee-saugat-vidhayk-anil-jain-ne-kiya-bhoomipoojn-aur-lokarpan/',
+    date: '2026-05-28',
+    note: 'Today India News MP (sthaniya portal, disclosure) ki report ke anusaar Niwari vidhayak Anil Jain ne janpad panchayat Prithvipur ki Sunoniya Khas aur Sunoniya Paschimi gram panchayaton me CC sadak nirmaan karyon ka vidhi-vidhan se bhoomi-pujan kiya; report me lagat aur fund ka srot nahi bataya gaya hai isliye rakam aur vidhayak-nidhi ya sarkari-yojana ka daava nahi kiya ja sakta; stage shilanyas-bhoomi pujan hai, poornata ki pushti nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sunoniya Khas aur Sunoniya Paschimi me naveen anganwadi bhavan aur navnirmit panchayat bhavan ka vidhayak Anil Jain ne kiya lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Today India News MP, 28 May 2026',
+    sourceUrl: 'https://todayindianewsmp.live/2026/05/nivaadee-ko-milee-vikas-karyon-kee-saugat-vidhayk-anil-jain-ne-kiya-bhoomipoojn-aur-lokarpan/',
+    date: '2026-05-28',
+    note: 'Usi karyakram ki report ke anusaar vidhayak Anil Jain ne Sunoniya Khas aur Sunoniya Paschimi me naveen anganwadi bhavan tatha navnirmit panchayat bhavan ka lokarpan kiya; lagat aur fund-srot ki jaankari report me nahi hai; stage lokarpan (poora) hai; sthaniya portal ki khabar hone ke kaaran swatantra pushti uplabdh nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Asati Khas gram panchayat me lagbhag Rs 40 lakh se adhik ki lagat wale CC road aur naali nirmaan karyon ka vidhayak Anil Jain ne kiya bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Today India News MP, 29 May 2026',
+    sourceUrl: 'https://todayindianewsmp.live/2026/05/nivaadee-ko-milee-vikas-kee-saugat-vidhayk-anil-jain-ne-asatee-khas-men-kiya-40-lakh-ke-karyon-ka-bhoomipoojn/',
+    date: '2026-05-29',
+    note: 'Today India News MP (sthaniya portal, disclosure) ki report ke anusaar 29 May 2026 ko janpad panchayat Niwari ki gram panchayat Asati Khas me Niwari vidhayak Anil Jain ne lagbhag Rs 40 lakh se adhik ki lagat se hone wale CC road aur naali nirmaan karyon ka bhoomi-pujan karke shubharambh kiya; fund ka srot report me spasht nahi hai, vidhayak nidhi ka daava nahi hai; stage shilanyas-bhoomi pujan hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Teharka gram me lagbhag Rs 1.5 crore ki lagat se banne wale aadhunik stadium ka vidhayak Anil Jain ne Vishva Paryavaran Divas par kiya bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'RNI News, 5 Jun 2026',
+    sourceUrl: 'https://www.rninews.co.in/tehrka-in-niwari-received-the-gift-of-a-stadium-worth-one-and-a-half-crore-rupees-mla-anil-jain-performed-the-foundation-stone-ceremony/',
+    date: '2026-06-05',
+    note: 'RNI News (sthaniya portal, disclosure) ki report ke anusaar 5 June 2026 ko Niwari vidhayak Anil Jain ne Teharka gram me lagbhag Rs 1.5 crore ki lagat se banne wale aadhunik stadium ka bhoomi-pujan kiya; report ke anusaar yuvaon ki lambe samay se chali aa rahi maang ko manzoori mili hai, lekin manzoori aadesh ya GO ka ullekh nahi hai aur fund-srot spasht nahi hai isliye vidhayak nidhi ka daava nahi hai; stage bhoomi-pujan hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dainik Bhaskar ki ground investigation me vidhayak nidhi ke kayi karyon ke kagazon par poora par sthal par gayab hone ka aarop; jila prashasan ki jaanch samiti ne October 2025 me karya maujood hone ka daava kiya, Bhaskar ne punah jaanch me us daave ko kharij kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar English (Dainik Bhaskar), Oct 2025',
+    sourceUrl: 'https://www.bhaskarenglish.in/amp/local/mp/news/niwari-administrations-false-claim-to-hide-temple-theft-report-stated-mla-fund-works-were-present-on-site-ground-reality-revealed-nothing-actually-built-or-visible-136288876.html',
+    date: '2025-10',
+    note: 'NEGATIVE entry. Dainik Bhaskar ki Sunday Big Story investigation (26 Oct 2025) me aarop lagaya gaya ki Niwari me vidhayak nidhi se swikrit kayi karya — Taricharkalan ke Badi Mata mandir parisar me Rs 4 lakh ka hall (rashi 9 August 2023 ko jaari, vartamaan karyakaal se pehle), Teharka me 2019 me Rs 3.06 lakh ka yatri prateekshalaya aur Ramgarh Churara me 2018 me Rs 2 lakh ki boundary wall — sarkari kagazon me poorna dikhaye gaye jabki sthal par kuch bana hi nahi, saath hi swechchha nidhi ke durupyog ke aarop bhi lage; is par jila prashasan ne tehsildar Jagdish Randhawa aur sahayak yantri Ram Milan Patel ki do-sadasyiya jaanch samiti gathit ki jisne 28 October 2025 ki report me sabhi karya sthal par maujood hone ka daava kiya, jise Bhaskar ne dobara sthal-jaanch karke galat bataya; vidhayak Anil Jain ne likhit jawab me swechchha nidhi ka aavantan apna adhikaar bataya aur durupyog se inkaar kiya, lekin fund-diversion ya galat dastavejon ke aaropon ka jawab nahi diya; poorv sarpanch Geeta Ahirwar ne farji hastakshar ka aarop lagakar police me shikayat ki jisme koi karyavahi nahi hui; koi FIR ya adalati mamla darj hone ki soochna nahi hai — dhyaan rahe ki aaropit karyon ki rashi mukhyatah December 2023 se pehle ke karyakaal ki hai, jabki jaanch-vivaad vartamaan karyakaal (October 2025) ka hai; koi nishkarsh na nikala jaye.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Niwari district batch REJECT-LOG (2026-10-14) ----
+// PARENT QA NOTE (2026-10-14): worker ki 86-sadak (CM Majra-Tola Yojana ghoshna, Nishaanebaz) entry HATA di —
+// rajya yojana ki ghoshna thi jisme MLA ki 'pahal' chhote portal ki reporting par aadharit thi; koi GO/sanction
+// nahi; Tomar/Uikey precedents (maang par ailaan entry nahi banti).
+// nitendra-singh-rathore (Prithvipur AC-45): profile KHAALI — koi pass-worthy entry nahi. Rejects: Zee News CM food-processing-unit ailaan (maang par ailaan); todayindianewsmp bayan/palatwar (kaam nahi, dubious source); YouTube-only Keshavgarh lokarpan (source reject + detail nahi); public.app CHC shivir nirikshan + Tiranga Yatra maujoodgi (source + sirf daura); livehindustan galat vyakti (Nagendra Rathore, Farrukhabad UP); narmadanchal CC road (Sitasharan Sharma ka ilaka, inka kshetra nahi); Zee News Shishupal-audio (aarop doosre par, Nitendra ka bayan sirf); Business Standard ADR criminal-cases stat (koi khabar/karyavahi nahi); YouTube bayan-video.
+// anil-jain (Niwari AC-46): 6 entries PASS (86-road ghoshna QA me hati). Rejects: lalluram clean-chit story (bina FIR/case ke na negative, na kaam); indianmasterminds CM-visit (sirf maujoodgi); thehitavada Ram Raja Lok (CM ghoshnaen, bhoomika nahi; Orchha phase-2 kshetra-bahar); YouTube stadium videos (source reject); public.app Poha Khas shilanyas (source reject); Jal Arpan Divas (jagrukta karyakram, kaam nahi); Seva Jyoti Yatra (nirdesh bhar, swikriti nahi); medical college ichchha (bhavishya, reject); jila-8-years roundup (specific kaam nahi); myneta/oneindia/wiki/abplive profile pages (kaam nahi); YouTube samudayik-bhavan video (source reject); 26 Jul 2026 CM event 193cr/59 karya (CM-stariya, sirf maujoodgi).
