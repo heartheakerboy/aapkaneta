@@ -2569,3 +2569,89 @@ tamilNaduWorks['mohamed-farvas-j'] = [];
 // 13. Chunav coverage (4 May 2026 jeet — 73,244 votes, INC ke T. Ramachandran ko 10,062 se haraya; 21 May 2026 cabinet expansion me shapath — The Hindu, TOI, The Week, NDTV Profit). REJECT: chunav/mantri-shapath = karya nahi.
 // NOTE: J. Mohamed Farvas 31-varshiya pehli-baar MLA hain (TVK, Aranthangi), aur 21 May 2026 se Labour Welfare and Skill Development mantri bhi — isliye zyadatar news unki mantri-bhoomika ki hai, jo seat-level works-mining ke dayre se bahar hai.
 // QA note (Pudukkottai — coordinator, 15 Oct 2026): 5/5 workers completed; sabhi profiles imaandari se khaali (0 entries, 0 negatives). Fragments me 0 Devanagari/Tamil script, 0 ₹, 0 literal-\n. Sabhi 5 slugs append se pehle file me 0 matches the — koi overwrite nahi. Pehchan-traps: Regupathy ke mantri-kaal ke kaam + Regupathy-namesake traps; Meyyanathan mantri-kaal pre-term; Muthuraja G. Muthuraj (IND) se alag; Subramanian ke 4 namesake traps (Mukkur, Ma. Subramanian, Puducherry SP, Peravurani DMK); Farvas = 21 May 2026 se Labour Welfare & Skill Development mantri (portfolio coverage seat-works nahi).
+
+// ---- Ramanathapuram district batch (researched 2026-10-15) ----
+
+tamilNaduWorks['advocate-kathiravan-k-k'] = [
+];
+
+// REJECT-LOG (advocate-kathiravan-k-k, Roman Hinglish):
+// 1. The Hindu, 2026-10-11, PM Narendra Modi ne Paramakudi railway station (Rs 13.96 crore, Amrit Bharat) ka virtual udghatan kiya; Kathiravan "among others participated" — REJECT: sirf maujoodgi; kendriya railway yojana, MLA ka udghatan/shrey nahi.
+// 2. The Hindu, 2026-05-04, jeet ki khabar (59,161 votes, 3,548 antar) — REJECT: chunav-parinaam, kaam nahi.
+// 3. The Hindu, 2026-04-21, prachar juloos ki khabar — REJECT: pre-term prachar.
+// 4. The Hindu, 2026-04-04, namankan — REJECT: pre-term prakriya.
+// 5. The Hindu, 2026-09-12, Ramanathapuram/Sivaganga DMK virodh — Kathiravan ka naam tak nahi; Muthuramalingam aur Rajakannappan ke bhashan — REJECT: koi zikr nahi.
+// 6. Awaz The Voice/ANI, 16 Apr 2026, "Kathiravan seeks fresh mandate" — GALAT-VYAKTI: S. Kathiravan (Manachanallur) hain, Paramakudi wale nahi — REJECT.
+// 7. Kidney racket aarop/denial, "don't need votes" video, biriyani outreach — sab Manachanallur ke S. Kathiravan ke — REJECT: galat-vyakti.
+// 8. DT Next, Dec 2025: pichle Paramakudi MLA S. Murugesan ka case kharij — GALAT-VYAKTI + pre-term — REJECT.
+// 9. The Hindu, 2023: BJP Ramanathapuram jila adhyaksh "Kathiravan" — alag vyakti, pre-term — REJECT.
+// 10. NDTV/India.com/ET candidate lists — REJECT: background data, works source nahi.
+// 11. Negative check: May 2026 ke baad koi FIR/case/janch/chunav-yachika nahi; myneta ka 1 case pre-term affidavit ka — REJECT as negative.
+// 12. May 2026 ke baad English press me koi udghatan/shilanyas/daura report nahi — pehli-baar MLA + vipaksh — khaali profile imaandari hai.
+
+tamilNaduWorks['rajeev'] = [
+  { title: 'Paryavaran Mantri V.K. Rajeev ne kaha ki mantri-pad sambhalne ke kuch din baad unhone Devipattinam (Tiruvadanai seat) me pichle do din se coastal kachra-safai abhiyan chalaane ka dawa kiya', note: 'Poora disclosure: ye unka swayam ka dawa hai, jo The Hindu ne 23 May 2026 ko report kiya — Paryavaran aur Jalvayu Parivartan portfolio sambhalne ke do din baad; Devipattinam coastal safai ki koi swatantra pushti ya poorna report English press me nahi mili. Usi baatchit me rajya-star ke vaade the (plastic-ban sakhti se, pratibandhit plastic banane wali factories band, Kongu dyeing pradushan par jagrukta) aur jila-star ke coastal tourism, peeya jal, sthaniya udyog ke vaade — ye sab ghoshnaein hain, kaam nahi, isliye count nahi hui. Devipattinam ECI delimitation order me Tiruvadanai AC (210) ke andar hai.', period: '2026-2031', category: 'Any', badge: 'dawa', sourceLabel: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/cities/Madurai/ban-on-plastic-bags-to-be-strictly-enforced-says-tamil-nadu-minister-for-environment/article71015145.ece', date: '2026-05-23' },
+];
+
+// REJECT-LOG (rajeev, TVK, Tiruvadanai AC 210, Ramanathapuram — research 15 Oct 2026, scope: May 2026+; Roman Hinglish):
+// 1. Chunav jeet ki khabar (Hindu/Express/TOI, 4-6 May 2026; 69,551 votes, 2,513 antar) — REJECT: jeet ki khabar, kaam nahi.
+// 2. MLA shapath (4 May 2026) aur mantri shapath (21 May 2026, Paryavaran) — REJECT: ceremonial.
+// 3. The Hindu pre-poll profile/affidavit (Apr 2026) — REJECT: pre-term; clean affidavit negative layak nahi.
+// 4. The Hindu (20 Jun 2026): Periyapattinam se South Puthukudiyiruppu bus extension flag-off — REJECT: Periyapattinam Ramanathapuram AC (211) me hai, Tiruvadanai me nahi = kshetra-bahar.
+// 5. NIE "Nilgiri tahr survey report" (6 Jun 2026) — REJECT: rajya-vyapi mantri karya.
+// 6. The Hindu Sustainability Summit udghatan (23 Sep 2026, Chennai) — REJECT: ceremonial.
+// 7. Rs 3,000 crore climate budget ka bhashan — REJECT: sirf vaada.
+// 8. NIE Ennore fish-kill bayaan (22 Aug 2026) — REJECT: Chennai kshetra ka mantri-bayaan; unpar koi aarop/FIR nahi = negative nahi.
+// 9. "Ramanathapuram ko booming district" vaada — REJECT: sirf ghoshna; non-preferred srot.
+// 10. Immanuel Sekaran memorial shradhanjali (11 Sep 2026) — REJECT: sirf maujoodgi.
+// 11. Courtallam Saral Thiruvizha (Tenkasi) — REJECT: kshetra-bahar + ceremonial.
+// 12. YouTube (Maridhas Answers) bribery aarop video — REJECT as negative: credible press me koi FIR/case/inquiry nahi.
+// 13. Aadhav Arjuna FIR-quash — REJECT: GALAT-VYAKTI.
+// 14. ECR Saravanan banner FIR — REJECT: GALAT-VYAKTI.
+// 15. Uthangarai MLA N. Elaiyaraja ka Rs 35-crore bribery case — REJECT: GALAT-VYAKTI.
+// 16. TVK MLA Sethupathi ke khilaf chunav-yachika — REJECT: galat-vyakti + yachika akeli negative nahi.
+// 17. Ramanathapuram drinking water review (30 Sep 2026) — REJECT: article me naam tak nahi.
+// 18. Rs 828.36 crore MLACDS package — REJECT: rajya-vyapi, Tiruvadanai-specific nahi.
+// 19. Ex-CM Stalin ka Oct 2025 Ramanathapuram daura — REJECT: pre-term.
+// 20. Thiruvadanai election boycott khabar (23 Apr 2026) — REJECT: pre-term; Collector ka vaada.
+// 21. Thiruvadanai water scarcity pre-poll feature (4 Apr 2026) — REJECT: pre-term.
+// 22. Plastic-ban article ke baaki vaade (factory sealing, coastal tourism, drinking water, industry) — REJECT: sab ghoshna, koi poora kaam nahi.
+
+tamilNaduWorks['katharbatcha-muthuramalingam'] = [];
+
+// REJECT-LOG (katharbatcha-muthuramalingam, DMK, Ramanathapuram AC — research 15 Oct 2026, scope: May 2026+; Roman Hinglish):
+// 1. Chunav jeet ki reporting (Hindu/TOI/Express/NDTV, 4 May 2026) — REJECT: parinaam, kaam nahi; affidavit case-count bina reporting ke negative nahi.
+// 2. Namankan + campaign vaade (Apr 2026; mini TIDEL Park, fish cold-storage, Rs 25 crore sadak) — REJECT: pre-term chunavi vaade.
+// 3. The Hindu: Rs 12.35 crore athletic track (7 Jan 2026) — REJECT: pre-term.
+// 4. The Hindu: Rameswaram me Rs 59.35 crore temple works (3 Jan 2026) — REJECT: pre-term; CM ka program.
+// 5. The Hindu: 8th book festival (25 Jan 2026) — REJECT: pre-term; Forest Minister ka karyakram.
+// 6. Law College building udghatan (Aug 2024, Rs 76.608 crore) — REJECT: pre-term; CM ka program.
+// 7. The Hindu: SHG bank loans Rs 56.76 crore (16 Sep 2025) — REJECT: pre-term (event adhyakshata scope se bahar).
+// 8. The Hindu: Mantri ke 27 projects Rs 41 crore (Sep 2025) — REJECT: pre-term.
+// 9. Deccan Chronicle: Katchatheevu sadan-bahas (Sep 2026) — REJECT: vidhaayi bahas, seat ka kaam nahi; non-preferred srot.
+// 10. The Hindu: MSME Minister inspection (Jun 2026) + welfare vitaran (25 Jul 2026) — REJECT: mantri ke karyakram; article me MLA ka naam nahi.
+// 11. The Hindu: drinking water project review (30 Sep 2026) — REJECT: Collector ki sameeksha; naam tak nahi.
+// 12. Corporation-status maang (19 Sep 2026) — REJECT: nagrikon ki maang, naam nahi.
+// 13. PM Modi Paramakudi station udghatan (11 Oct 2026) — REJECT: PM ka karyakram; dusra AC.
+// 14. NIE topic items (road fatalities, coral gallery) — REJECT: bhoomika nahi; coral gallery pre-term.
+// 15. Grokipedia development efforts — REJECT: non-preferred srot; zyadatar pre-term.
+// 16. 2024 interviews (fishermen strike, roads) — REJECT: pre-term PR.
+// 17. Purane affidavit cases (2019-2020) — REJECT as negative: chunav-yachika/aggregate akela negative nahi; nayi sthiti nahi.
+// SEAT-WORK NATIJA: May-Oct 2026 me koi qualifying entry nahi — khaali imaandari hai.
+
+tamilNaduWorks['r-s-rajakannappan'] = [];
+
+// REJECT-LOG (r-s-rajakannappan, DMK, Mudukulathur AC — research 15 Oct 2026, scope: May 2026+; Roman Hinglish):
+// 1. Chunav-jeet khabrein (4 May 2026, sab sources) — REJECT: parinaam, kaam nahi; pre-term event.
+// 2. The Hindu pre-poll seat profile (Apr 2026; Vaigai paani, Narippayur plant) — REJECT: pre-term; maang-background.
+// 3. DT Next topic entries (2022-2025) — REJECT: sab pre-term.
+// 4. Arappor Iyakkam Rs 411 crore land-grab aarop (Oct 2024; TNM/DT Next/ThePrint; inkaar maujood) — REJECT as negative: pre-term; May-Oct 2026 me koi nayi FIR/case/janch-sthiti nahi.
+// 5. Caste-abuse aarop, BDO Mudukulathur (Mar 2022) — REJECT as negative: pre-term; nayi sthiti nahi.
+// 6. DA case (2005 charge, 2015 dismiss) — REJECT: pre-term + acquittal/dismissal.
+// 7. Feb 2026 "170 seats" bayaan — REJECT: pre-term political bayaan.
+// 8. MSME Mantri ka 25 Jul 2026 Ramanathapuram event (Mudukulathur rehab centre) — REJECT: TVK mantri ka kaam; MLA ki bhoomika nahi.
+// 9. PWD tender: Mudukulathur hospital building — REJECT: tender listing, news source nahi.
+// 10. Mantri-kaal ke saare kaam (2021-5 May 2026) — REJECT: pre-term.
+// 11. May-Oct 2026 me seat-level qualifying entry English press me NAHI mili — khaali imaandari hai.
+
+// COORDINATOR QA NOTE (Ramanathapuram, 2026-10-15): 4/4 fragments QA ho gaye. rajeev ka entry (dawa badge, Devipattinam cleanup dawa) title/note English me tha — Roman Hinglish me convert karke joda; entry valid hai (mantri ka apna dawa, The Hindu me report, poora disclosure ke saath; Devipattinam Tiruvadanai AC 210 ke andar hai). 3/4 profiles imaandari se khaali. Rajakannappan ka Arappor Rs 411cr aarop (Oct 2024) sahi reject hua — pre-term, koi nayi sthiti nahi. Kul titles: 43 → 44.
