@@ -1691,3 +1691,61 @@ tamilNaduWorks['rajesh-kumar-s'] = [
 // 8. Killiyoor election petition (The Week, 10 Jun 2026) — REJECT: akeli yachika negative nahi.
 // 9. Pre-election interview plans (19 Apr 2026) — REJECT: pre-term.
 // COORDINATOR QA: 6 fragments padhe — format exact, koi overwrite nahi, 0 Devanagari/Tamil script, 0 Rs-symbol issue, entry objects me 0 comments; sabhi 6 blocks empty arrays — sabha ~5 mahine purani, 2 vipaksh + 1 CPI(M) MLA, khaali imaandar hai.
+
+// ---- Karur district batch (researched 2026-10-15) ----
+tamilNaduWorks['elango-r'] = [
+];
+tamilNaduWorks['sathya-m'] = [
+];
+tamilNaduWorks['suriyanur-a-chandran'] = [
+];
+
+// REJECT-LOG (Karur district — research 15 Oct 2026)
+// elango-r (DMK):
+// ---- Karur district: Elango R (elango-r), DMK, Aravakurichi AC (researched 2026-10-15) ----
+// REJECT-LOG (Elango R / Aravakurichi — research 15 Oct 2026)
+// 1. The Hindu, 20 May 2025 — CM Stalin ne Velambadi (Aravakurichi taluk) me TNUHDB ka 32-unit apartment lokarpit kiya (Rs 2.95 crore); Elango maujood the — REJECT: karyakaal se pehle; lokarpan CM ne kiya, MLA ki sirf maujoodgi.
+// 2. The Hindu, 17 Sep 2026 — Karur me EVR murti malyarpan par DMK karyakarton ka police se vivaad; Aravakurichi MLA R. Ilango ne shraddhanjali di — REJECT: rajneetik khabar, sirf maujoodgi; koi vikas-kaam nahi.
+// 3. Times of India (Trichy), pre-chunav 2026 — Pappanaickenpatti ke JJ Nagar me matdataon ne Elango se paani/sadak/drainage par sawal kiye — REJECT: chunav-se-pehle ki khabar; negative bhi nahi (koi FIR/case/adalaati sthiti + jawab ka angle nahi).
+// 4. The Hindu, Apr 2026 — Aravakurichi me industrial apathy/drumstick unit ka adhura wada — REJECT: chunav-se-pehle ki analysis; maang hai, kaam nahi.
+// 5. DT Next, 29 Mar 2026 — Karur jile me charon seat par DMK-AIADMK seedhi takkar (candidate list sahit) — REJECT: chunav khabar, vikas-kaam nahi.
+// 6. DT Next, 18 Apr 2026 — Madras HC ne Elango ke pratinidhi ki asthayi party-karyalaya ki anumati-yachika kharij ki — REJECT as negative: chunav-prakriya ka kram; MLA par koi aarop/FIR/case nahi, sirf anurodh kharij.
+// 7. Sarkari PR PDFs (Jan/Feb/Mar 2026, cdn.s3waas.gov.in) — "KARUR MLA inaugurates new development projects" — REJECT: pre-term; aur ye Karur AC ke MLA (M.R. Vijayabhaskar, AIADMK) hain, Aravakurichi ke Elango nahi.
+// 8. The News Minute, 10 Mar 2022 — "DMK MP NR Elango's son Rakesh dies in car accident" — REJECT as negative: GALAT VYAKTI (Rajya Sabha MP NR Elango), Aravakurichi MLA R. Elango nahi; waise bhi pre-term.
+// 9. The Hindu candidate profile — "Govi.Elango, PERAVURANI, AIADMK" — REJECT: GALAT VYAKTI (Peravurani, Thanjavur ke AIADMK ummidwar), Aravakurichi ke Elango nahi. (EVKS Elangovan / Erode East bhi alag vyakti.)
+// 10. ETV Bharat/Rediff/Businessline, Sep-Oct 2026 — CM Vijay ka Karur daura, stampede smarak shilanyas; PM Modi ke Rs 13,000 crore ke TN projects — REJECT: CM/PM ke sarkari program; Elango ki koi dastavezi seat-level bhoomika nahi; kshetra-bahar bhi.
+// 11. SEAT-WORK NATIJA: May-Oct 2026 me English press me Aravakurichi seat par Elango ki vyaktigat seat-level bhoomika wali koi qualifying entry NAHI mili; unke khilaf koi qualifying negative (FIR/case/adalaati sthiti) bhi nahi. NOTE: DMK ab vipaksh me hai (CM C. Joseph Vijay, TVK sarkaar); sabha ~5.5 mahine purani — khaali profile imaandari hai.
+// sathya-m (TVK):
+// Karur district — Sathya. M (TVK, Krishnarayapuram AC-136), researched 2026-10-15
+// Koi qualifying works-entry nahi mili; block khaali rakha gaya hai.
+// REJECT-LOG (Roman Hinglish):
+// 1. TOI "Krishnarayapuram TVK MLA to introduce QR code system to hear grievances" (Jun 2026, khud khola) — REJECT: sirf bhavishya ki ghoshna ("will soon", "would be displayed/set up", "would also be set up"); na lokarpan, na shilanyas, na GO-sanction, na poora kaam; ghoshna-stage ke liye bhi fund-srot ya saksham aadesh ka zikr nahi. Ghoshna pre-event announcement jaisi hai.
+// 2. Wikipedia "Sathya M." page — REJECT: sirf chunav parichay (TVK, school principal, 62,378 votes, margin 3,503); post-May 2026 koi kaam darj nahi.
+// 3. The Hindu "TVK's robust performance in urban areas surprises the DMK, the AIADMK in Karur" (5 May 2026) — REJECT: chunav-vishleshan khabar, works ka zikr nahi.
+// 4. TOI/Oneindia/ABP Live/Business Standard/Business Today chunav-parinaam articles (May 2026) — REJECT: sab chunav khabar, karyakaal ke kaam nahi.
+// 5. The Hindu candidate profile & affidavit (Sathya. M, Krishnarayapuram) — REJECT: chunav se pehle ki profile, works nahi.
+// 6. Thanthi TV YouTube video (25 Aug 2026, "Krishnarayapuram MLA Sathya" Assembly me) — REJECT: sadan me bhashan/statement ki video clip; koi suvidha ka lokarpan/shilanyas/swikriti nahi, aur English-article criterion par bhi nahi.
+// 7. Madras HC election-petition khabarein (lokmattimes, The Statesman, Sep 2026) — REJECT: ye Tiruppattur ke TVK MLA R. Seenivasa Sethupathi ki chunav-yachika ke baare me hain, Sathya. M se sambandh nahi; waise bhi chunav-yachika akeli negative-entry nahi banti.
+// 8. Dharapuram by-election "Sathya Mama" vivaad (News89, Oct 2026) — REJECT: alag TVK ummidvar Sathiya (Dharapuram), Krishnarayapuram ki Sathya. M nahi; naam-trap.
+// 9. Karur stampede relief stories (ETV Bharat, lokmattimes, Oct 2025) — REJECT: TVK party ki peedit-parivaar sahayata, MLA Sathya ka seat-level kaam nahi; aur karyakaal se pehle.
+// 10. CM C. Joseph Vijay ka 10 Jul 2026 Karur daura aur Krishnarayapuram me Rs 1,700 crore factory ka shilanyas (lokmattimes, BusinessLine) — REJECT: mukhyamantri ka state-level karyakram; MLA Sathya ke haathon shilanyas nahi hua, kshetra-level shrey usko nahi.
+// 11. Tamil Nadu sarkaar ke Karur press releases (cdn.s3waas.gov.in: PR 26 Mar 2026, PR 29 Jan 2026, PR 42 Aug 2025) — REJECT: sab May 2026 se pehle ke (pre-term), aur unmein MLA K. Sivagama Sundari/M.R. Vijayabhaskar ke daur ke kaam.
+// 12. "CM Stalin inaugurates projects worth Rs 737.88 crore" (LatestLY, pre-2026) — REJECT: karyakaal se pehle, sambandh nahi.
+// suriyanur-a-chandran (DMK):
+// ---- Karur district batch: suriyanur-a-chandran (DMK, Kulithalai AC) — researched 15 Oct 2026 ----
+// REJECT-LOG (Karur jila, suriyanur-a-chandran — research 15 Oct 2026)
+// 1. TOI "Kulithalai election results 2026: DMK's Suriyanur. A. Chandran wins by slim margin" (May 2026) — REJECT: chunav khabar (579 vote margin), vikas-kaam nahi.
+// 2. News18 / ABP Live / Oneindia / ETNowNews election live result pages (May 2026) — REJECT: sirf chunav nateeje, koi seat-work nahi.
+// 3. The Hindu "Nominations of prominent candidates accepted in central districts" (Apr 2026) — REJECT: chunav-se-pehle ki khabar; "S.A. Chandiran of the DMK" isi report me unhi ka naam hai (alternate spelling confirm), lekin nomination scrutiny vikas-kaam nahi.
+// 4. The Hindu "Drinking water scarcity, accidents on highway the burning problems of Kulithalai constituency" (Apr 2026) — REJECT: pre-term samasya-report; MLA banne se pehle ka report, unki koi bhoomika darj nahi.
+// 5. The Hindu "New buildings at Kulithalai GH to be opened soon, says Health Minister" (Sep 2025) — REJECT: pre-term; us waqt Kulithalai MLA R. Manickam the (ye Chandran nahi) — GALAT VYAKTI. Inauguration CM ne karna tha.
+// 6. The Hindu "Kulithalai sub-registrar office gets a new building" (Mar 2025) — REJECT: pre-term (CM ne video-conference se inaugurate kiya), Chandran ka naam nahi.
+// 7. The Hindu "WRD prepares fresh estimates for barrage across Cauvery between Marudhur and Umayalpuram" (30 Sep 2026) — REJECT: MLA ka naam hi nahi hai article me; WRD ke naye estimate + kisan-sangh ke Dr. Jeyaraman ki CM C. Joseph Vijay se appeal hai — sirf maang/sujhav, koi sanction ya inauguration nahi.
+// 8. The Hindu "Undue delay in starting RoB work at Kulithalai irks commuters" (Jun 2026) — REJECT: samasya-report (34-cr RoB shuru nahi hua); Chandran ka naam nahi, unki bhoomika nahi.
+// 9. DT Next "Karur Assembly seat declared vacant, TN set for bypolls in 7 constituencies" (30 Jun 2026) — REJECT: jile ki siyasi khabar (Vijayabhaskar istifa, TVK floor test); Kulithalai seat ya Chandran se sambandh nahi.
+// 10. The Commune "Dravidian Model Anganwadi" spelling-mistake story (Oct 2024) — REJECT: pre-term; anganwadi ka inauguration us waqt ke Kulithalai MLA Manickam ne kiya tha — Chandran nahi, GALAT VYAKTI.
+// 11. ADR 2021 report me 6 cases (IPC 143/188/341/269, Kulithalai PS 2018-2020) — REJECT as negative: ye 2021 ke DMK candidate (R. Manickam) ka affidavit data hai; NDTV ADR 2026 me Suriyanur A. Chandran ke khilaf "Cases: No" hai — GALAT VYAKTI + pre-term. Koi post-May-2026 established FIR/case reporting unke khilaf NAHI mili.
+// 12. News-vertical items (Karur stampede anniversary, bypoll PIL, Singanallur MLA dharna) — REJECT: sab Kulithalai seat ke bahar ki khabrein, Chandran ka naam nahi.
+// NOTE: The Hindu ki pre-poll report (Apr 2026) aur India Herald ki DMK candidate list unhe "S.A. Chandiran" likhte hain — yahi vyakti hai (DMK, Kulithalai), spelling variant confirm.
+// SEAT-WORK NATIJA: May-Oct 2026 me English press me Kulithalai seat par unki vyaktigat seat-level bhoomika wali koi qualifying entry NAHI mili. DMK ab vipaksh me hai (TVK sarkar, CM C. Joseph Vijay), sabha sirf ~5.5 mahine purani — khaali profile imaandar hai.
+// COORDINATOR QA: 3/3 MLA researched (3 parallel workers), sab KHAALI (0 entries). May-Oct 2026 English press me teenon seat par koi qualifying seat-work (lokarpan/shilanyas/swikriti/poora) reporting nahi; koi qualifying negative bhi nahi. Naam-traps pakde: MP NR Elango (RS) vs R. Elango; Peravurani Govi.Elango vs Aravakurichi Elango; Karur-AC ke purane MLA (Vijayabhaskar/Sivagama Sundari) ki PRs vs Karur-jila ke naye MLA; R. Manickam (Kulithalai 2021-26) vs Suriyanur A. Chandran; Dharapuram 'Sathya Mama'/NTK Sathiya.V/TVK pravakta M. Sathya Kumar vs Sathya.M; CM Vijay/PM ke state-program vs MLA kaam.
