@@ -8671,3 +8671,305 @@ mpWorks['mahendra-ramsingh-yadav-khatora'] = [
 // 14. thetodaytimes (Oct 2026): Rannod seva-setu shivir — vidhayak upasthit; event/upasthiti, kaam nahi.
 // 15. mpbreakingnews / Zee News / Business Standard 2018 (bypoll, seat-chhodne ki ghoshna) — pre-term.
 // 16. ABP Live / myneta candidate profiles, Wikipedia — keval profile, koi vishisht kaam nahi.
+
+// ---- Sidhi district batch (researched 2026-10-14) ----
+mpWorks['ajay-arjun-singh'] = [
+  {
+    title: 'Khaddi Khurd (Baghaiya tola) se Gajri tak kachchi sadak ka nirmaan — vidhayak ke niji kharch aur jan-sahyog se',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 21 Jul 2025',
+    sourceUrl: 'https://www.amarujala.com/amp/video/madhya-pradesh/sidhi/on-the-request-of-a-pregnant-woman-mla-rahul-singh-started-road-construction-at-his-own-expense-questions-raised-on-the-administration-sidhi-news-c-1-1-noi1337-3191093-2025-07-21',
+    date: '2025-07',
+    note: 'Amar Ujala ke mutabik Churhat vidhayak Ajay Singh "Rahul" ne garbhvati mahila Leela Sahu ke viral video ke baad Khaddi se Bagheha marg (Khaddi Khurd ke Baghaiya tola se Gajri, Rampur Naikin block, jila Sidhi) par kachchi sadak ka nirmaan apne niji kharch se shuru karaya; do se teen din me poora hona tha taaki ambulance gaon tak pahunch sake. News18 Hindi (24 Jul 2025) aur Patrika (22 Jul 2025) ne unke bayan ki pushti ki hai ki unhone "apni niji kharch samet logon ke jan-sahyog se kachchi sadak banwa di hai"; Leela Sahu ne khud apne video me JCB-roller se hota kaam dikhaya. Status: nirmaan shuru (kachchi sadak, tatkal rahat). Caveats: ye vidhayak-nidhi ka kaam NAHI hai — niji kharch + jan-sahyog; sadak kachchi hai aur sthayi pakki sadak ki grameenon ki maang abhi baki hai; is sadak par BJP-Congress ke beech shreya ko lekar vivaad bhi chala.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sidhi me nishulk peyjal tanker ka lokarpan — hari jhandi dikhakar jan-seva me samarpit',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 6 Mar 2025',
+    sourceUrl: 'https://navabharat.com/?p=177196',
+    date: '2025-03-06',
+    note: 'Navabharat ke mutabik poorv neta pratipaksh evam Churhat vidhayak Ajay Singh Rahul ne 6 Mar 2025 ko Sidhi me janata ko nishulk peyjal uplabdh karane hetu praday paani tanker ko hari jhandi dikhakar lokarpit kiya. Status: lokarpan — tanker jan-seva me uplabdh. Credit-spashtata: tanker vidhayak-nidhi se NAHI aaya; ye jila Congress adhyaksh Gyan Singh ka vyaktigat yogdan tha aur vidhayak ne mukhya atithi ke roop me uska lokarpan kiya. Sandarbh: Gyan Singh pehle se aarthik roop se asaksham logon ke liye do asthi-visarjan vahan bhi nishulk chala rahe hain (ye unka alag yogdan hai, vidhayak ka kaam nahi).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (ajay-arjun-singh):
+// 1. public.app video (upendramishrachurhat, 22 Jul 2025): Leela Sahu wali sadak par "10 lakh niji kharch" ka dawa — public.app-only source hai, rule ke mutabik reject. (Saman content Amar Ujala/News18/Patrika me established hai — wahi entry me use hua.)
+// 2. pridekadam.co.in (Aug 2025): "Mahanad Sonbhadra ke jal se poojan kar Ajay Singh Rahul ne Shiv Abhishek Yatra ka shubharambh" — dharmik yatra/shubharambh hai, vikas-kaam nahi — reject.
+// 3. pridekadam.co.in / sidhi24news.in (17 Jul 2025): "Jan Adhikar Andolan" dharna-pradarshan — virodh/dharna kaam nahi hai — reject.
+// 4. thesootr.com (23 Oct 2024): Rewa Regional Industry Conclave me aamantran na milne par bayan — political bayan, kaam nahi — reject.
+// 5. prabhatlahar.com (2022): Churhat sadak ka bhoomi-pujan — tatkalin BJP vidhayak Sharadendu Tiwari ka karyakram; pre-term aur alag vyakti — reject.
+// 6. patrika.com (2018): Sharadendu Tiwari ka interview ("Ajay Singh ko haraya") — pre-term, alag vyakti ka bayan — reject.
+// 7. rajneeti24news.com (6 Mar 2024): Ajay Singh dwara BJP netaon par Rs. 10 crore ka manhaani mukadma nirast — unke dwara dayar mukadma tha jo kharij hua; kshetra-kaam nahi; aarop parivar-zameen se juda (parivar ke mamle kabhi nahi) — reject.
+// 8. dnaindia.com (2013): Prabhat Jha dwara Kol janjati zameen par kabze ka aarop — purana, parivar-zameen ka mamla — reject.
+// 9. YouTube (wDl1ARXhSG0, Dec 2025): Rampur Naikin Majhigwan-Kushwaha basti sadak shikayat video — YouTube-only source aur vidhayak ke khilaf shikayat (kaam nahi) — reject.
+// 10. bansalnews.com (2024): "Ajay Singh Lok Sabha chunav nahi ladenge" — political khabar, kaam nahi — reject.
+// 11. tribuneindia.com (Jan 2026): CM Mohan Yadav dwara Bahri/Sidhi me 209 pariyojnaon (Rs. 201.64 crore) ka lokarpan/shilanyas — rajya-sarkar ka package; unka koi dastavezi kadam nahi — reject.
+// 12. latestly.com Raebareli article (Nov 2024): Rahul Gandhi ke Raebareli karyakram ki khabar — alag vyakti, Churhat se sambandh nahi — reject.
+
+// GALAT-VYAKTI CHECKS (ajay-arjun-singh):
+// A. livehindustan.com (Dec 2025): "Dhanapur block pramukh Ajay Singh" — Chandauli, UP ke block pramukh; Churhat MLA se alag vyakti.
+// B. YouTube (8wsIv3wSep8): "Singariya Mandir, Karnailganj, Gonda" wale MLA Ajay Singh — UP ke vidhayak; alag vyakti.
+// C. anuraglakshya.in: "Harraiya (Basti, UP) ke BJP vidhayak Ajay Singh" dwara sadak shilanyas — UP ke alag vyakti.
+// D. latestly.com Raebareli: UP Congress adhyaksh "Ajay Rai" ka zikr — naam milta-julta lekin alag vyakti.
+// COORDINATOR QA (2026-10-14): FY 2025-26 Rampur Naikin 12-karya entry HATA di — ye sirf vidhayak-nidhi
+// ANUSHANSA (recommendation) thi, prashasnik swikriti nahi; swatantra dastavej nahi; wahi portal 1 saal
+// baad kaam adhoore bata raha tha. Nidhi-swikriti standard par fail.
+// COORDINATOR QA (2026-10-14): FY 2025-26 Rampur Naikin 12-karya entry HATA di — ye sirf vidhayak-nidhi
+// ANUSHANSA (recommendation) thi, prashasnik swikriti nahi; swatantra dastavej nahi; wahi portal 1 saal
+// baad kaam adhoore bata raha tha. Nidhi-swikriti standard par fail.
+mpWorks['vishwamitra-pathak'] = [
+  {
+    title: 'Bahri me CLF karyalaya bhavan ka lokarpan aur Janpad Panchayat Sihawal ke karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pride Kadam, 10 Mar 2024 (est.)',
+    sourceUrl: 'https://www.pridekadam.co.in/2024/03/34687/',
+    date: '2024-03-10',
+    note: 'Bahri me aayojit karyakram me unhone mukhya atithi ke roop me CLF karyalaya bhavan ka lokarpan kiya aur Janpad Panchayat Sihawal ke karyon ka bhoomi-pujan kiya. Caveat: report ne bhoomi-pujan wale karyon ko itemize nahi kiya — kaun-kaun se kaam the, yeh spasht nahi. 5 CLF bhavano ki boundary wall ke liye 5-5 lakh rupaye dilane ki unki ghoshna sirf ghoshna thi (sanction ka praman report me nahi), isliye usse swikriti ke roop me dawa nahi kiya gaya. Status: CLF bhavan ka lokarpan (purn); bhoomi-pujan wale karya shuru hone the.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Khonchipur me 50-seater adivasi junior balak chhatravas ka bhoomi-pujan (Janjatiya Karya Vibhag se swikrit)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Pride Kadam, Jul 2025 (est.)',
+    sourceUrl: 'https://www.pridekadam.co.in/2025/07/58185/',
+    date: '2025-07',
+    note: 'Sihawal ke gram Khonchipur me Janjatiya Karya Vibhag se swikrit 50-seater adivasi junior balak chhatravas ka bhoomi-pujan unhone mukhya atithi ke roop me kiya. Report ke mutabik unhone karyakram me kaha ki kshetra ki lambe samay se maang par unke prayas se swikriti mili — yeh unka swayam ka dawa hai, swikriti ka independent sarkari praman nahi mila. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Caveat: isi karyakram me Khonchipur me pakki sadak aur mobile tower ke unke aashwasan bhavishya ke vaade the (karenge), isliye unhe entry me shamil nahi kiya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Son nadi par Bahri-Amiliya (Hanumana marg) pul (lagat Rs. 30 crore) ka lokarpan — sansad ke saath',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'NDTV MP-Chhattisgarh, 23 Oct 2025 (est.)',
+    sourceUrl: 'https://mpcg.ndtv.in/madhya-pradesh-news/sidhi-son-nadi-pul-inauguration-of-new-bridge-on-son-river-amelia-bahri-hanumana-road-dr-rajesh-mishra-a-long-standing-demand-fulfilled-9505083',
+    date: '2025-10-23',
+    note: 'NDTV ke mutabik Sidhi jile me Bahri se Amiliya (Hanumana marg) ke beech Son nadi par bane pul (lagat lagbhag Rs. 30 crore, lambai lagbhag 1 km) ka lokarpan sansad Dr. Rajesh Mishra aur Sihawal MLA Vishwamitra Pathak ne sanyukt roop se feeta kaatkar kiya; pul 5 saalon se nirmanadhin tha aur bhari vahanon ka avagman 5 saalon se band tha. Credit-transparency: pul ka nirman unke karyakal se pehle shuru hua tha — credit sirf lokarpan ka hai. Disclosure: CM Mohan Yadav dwara hone wala lokarpan karyakram usse ek din pehle hue sadak hadse me 4 logon ki maut ke baad sthagit hua tha, isliye dobara karyakram nahi bana. Status: lokarpan — avagman shuru ho gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sihawal upkhand karyalaya ke naveen bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pride Kadam, Apr 2026 (est.)',
+    sourceUrl: 'https://www.pridekadam.co.in/2026/04/80463/',
+    date: '2026-04',
+    note: 'Sihawal upkhand karyalaya ke naveen bhavan ka lokarpan unhone mukhya atithi ke roop me kiya; karyakram me CEO Sidhi, SDM sahit prashasanik adhikari maujood rahe. Report me bhavan ki lagat ka ullekh nahi hai. Status: lokarpan (bhavan purn, sewayen prarambh). Caveat: sthaniya portal ki report hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Patulkhi me navnirmit panchayat bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 14 Jul 2026',
+    sourceUrl: 'https://navabharat.com/?p=519364',
+    date: '2026-07-14',
+    note: 'Gram panchayat Patulkhi me navnirmit panchayat bhavan ka lokarpan unhone mukhya atithi ke roop me kiya; karyakram me Janpad CEO ne nirman karyon ki lagat ki jankari di (report me rashi ka ullekh nahi). Status: lokarpan (bhavan purn).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Khuteli me Hanuman mandir parisar me chabutra aur shed nirman kary ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 14 Jul 2026',
+    sourceUrl: 'https://navabharat.com/?p=519364',
+    date: '2026-07-14',
+    note: 'Gram Khuteli me Hanuman mandir parisar me chabutra aur shed nirman kary ka lokarpan unhone kiya. Status: lokarpan (nirman purn).',
+    period: '2023-2028',
+  },
+  {
+    title: 'PM Shri Vidyalaya Khuteli me PCC aur shesh bhag me boundary wall kary ka bhoomi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 14 Jul 2026',
+    sourceUrl: 'https://navabharat.com/?p=519364',
+    date: '2026-07-14',
+    note: 'PM Shri Vidyalaya Khuteli me PCC aur shesh bhag me boundary wall kary ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khuteli me Shivlal Vishwakarma ke ghar se kuaan hote hue Basaur Basti tak PCC sadak ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Navabharat, 14 Jul 2026',
+    sourceUrl: 'https://navabharat.com/?p=519364',
+    date: '2026-07-14',
+    note: 'Khuteli me Shivlal Vishwakarma ke ghar se kuaan hote hue Basaur Basti tak PCC sadak nirman kary ka bhoomi-pujan unhone kiya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Kadiyar me talab ki med par navnirmit CC sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Pride Kadam, 26 Sep 2026',
+    sourceUrl: 'https://www.pridekadam.co.in/2026/09/86896/',
+    date: '2026-09-26',
+    note: 'Seva Sankalp Abhiyan ke tahat Gram Kadiyar me talab ki med par bani navnirmit CC sadak ka lokarpan unhone mukhya atithi ke roop me kiya. Status: lokarpan (sadak purn). Caveat: sthaniya portal ki report hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Kadiyar me talab med par chabutra, vastra parivartan kaksh, chhayadar shed aur saundaryikaran karyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pride Kadam, 26 Sep 2026',
+    sourceUrl: 'https://www.pridekadam.co.in/2026/09/86896/',
+    date: '2026-09-26',
+    note: 'Usi karyakram me unhone talab med par chabutra, vastra parivartan kaksh, chhayadar shed aur saundaryikaran karyon ka lokarpan kiya. Status: lokarpan (karya purn). Caveat: sthaniya portal ki report hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (vishwamitra-pathak):
+// 1. Patrika (Sep 2025, est.) — bhatije Jainendra Pathak ka Sharik Machhli se kathit link: parivar ka mamla, un par kabhi nahi; MLA ke khilaf koi FIR/case/adhikarik jaanch ka praman nahi (Congress neta Kamleshwar Patel ke rajnaitik aarop bina karyavahi ke). URL: https://www.patrika.com/bhopal-news/bjp-mla-vishwamitra-nephew-jainendra-connection-with-bhopal-sharik-machhli-big-revelation-made-19922973
+// 2. UD News (14 Sep 2026) — Deosar me swikrit civil hospital bhavan ke proposed site ka nirikshan + contractor ko nirdesh: sirf nirikshan/daura. URL: https://udnews.in/news/192555/
+// 3. Pride Kadam (13 Oct 2026) — Deosar me vibhagiya samiksha baithak (nirman karyon ki samiksha, nirdesh): samiksha/nirdesh, koi thos kaam nahi. URL: https://www.pridekadam.co.in/2026/10/87472/
+// 4. Pride Kadam (17 Sep 2026) — Sihawal me swachhta shapath karyakram: karyakram, koi kaam nahi. URL: https://www.pridekadam.co.in/2026/09/86463/
+// 5. Dainik Jagran English MP-CG (Oct 2026) — Pahadi Seva Setu me adhikariyon ko fatkar: prashasanik ghatna, koi kaam nahi. URL: https://english.dainikjagranmpcg.com/states/madhya-pradesh/vindhya-rewa/sidhi-seva-setu-mla-rebukes-officials-in-pahadi/article-36774
+// 6. MP Dastak (Jan 2026, est.) — SDM/patwari ko fatkar ka viral video: koi kaam nahi; unke khilaf koi aarop-karyavahi nahi. URL: https://mpdastak.com/video-of-mla-angry-at-sdm-goes-viral-on-social-media/
+// 7. CM Mohan Yadav ke Sidhi karyakram (Jan 2026) — 209/714 projects ka lokarpan/bhoomi-pujan (Bhaskar English/New Kerala/Tribune reports): CM ke karyakram me sirf maujoodgi; credit CM/sarkar ka.
+// 8. Pride Kadam (Jan 2026) — Murdadhi–Sontir Patehra Son pul (Rs. 27.63 crore) ki swikriti: rajya swikriti jisme unka dastavezi concrete kadam report me nahi (sirf badhai/shubhkamnayen) — reject. URL: https://www.pridekadam.co.in/2026/01/75383/
+// 9. Khonchipur karyakram (Jul 2025) — pakki sadak aur mobile tower ke aashwasan: bhavishya "karenge" — reject.
+// 10. Bahri karyakram (Mar 2024) — 5 CLF bhavano ki boundary wall ke liye 5-5 lakh ki ghoshna: vidhayak-nidhi ghoshna bina sanction-proof ke — reject.
+// 11. Navabharat (14 Jul 2026) — Khuteli/Nakjharakala schoolon me cycle vitran: routine scheme vitran, thos kaam nahi; "Ek ped maa ke naam" paudharopan: karyakram — reject.
+// 12. YouTube-only (PRATHAM NYAY NEWS) — Son pul "kab banegi" wala video: YouTube-only source; vaise bhi uska mudda NDTV lokarpan report se supersede.
+// 13. Saralnama.in bridge summary — aggregator; primary source NDTV istemal hua.
+mpWorks['kunwar-singh-tekam'] = [
+  {
+    title: 'Kusmi janpad panchayat me Rs. 159.39 lakh ke vikas karyon (9 sadak + 3 talab) ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sidhi 24 News, 30 Mar 2025',
+    sourceUrl: 'https://sidhi24news.in/archives/25388',
+    date: '2025-03-30',
+    note: 'Janpad panchayat Kusmi prangan me Jal Sanvardhan karyakram me Shankarpur se Gotra (Rs. 10 lakh), Rampur Bajwai se Raksadol (Rs. 14 lakh) sahit 9 sampark sadkon aur Rauhal (Kotma Rs. 24.91 lakh), Rauhal (Kharhanadol Rs. 24.94 lakh) me Amrit Sarovar evam Dubri Kala me naye talab (Rs. 19.54 lakh) — kul Rs. 159.39 lakh — ki aadharshila rakhi gayi; Sidhi 24 News ke mutabik sansad Dr. Rajesh Mishra aur vidhayak Kunwar Singh Tekam dono ne bhoomi-pujan kiya. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Caveat: Dainik Bhaskar ki isi karyakram par report karyakram ko sansad-pradhan batati hai aur vidhayak ko "maujood" likhti hai — credit saanjha hai, isliye entry me dono sources ka stance spasht rakha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'CM Rise Utkarsh Vidyalaya Majhauli ko mili 3 bason ki saughat — vidhayak dwara udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Primes TV, 20 Apr 2025',
+    sourceUrl: 'https://primestv.in/485066/',
+    date: '2025-04-19',
+    note: 'Report ke mutabik vidhayak ke nirantar prayas se shasakiy star se CM Rise Utkarsh Vidyalaya Majhauli ko 3 badi basen mili; 19 April 2025 ko unhone mukhy atithi ke roop me baso ka udghatan kiya aur bachchon ko baithakar hari jhandi dikhakar ravaana kiya. Status: udghatan/lokarpan (basen school ko saunp di gayi). Caveat: Primes TV sthaniya portal hai — swikriti ka sarkari aadesh alag se nahi mila, "prayas se mili" ka dawa report par aadharit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Majhauli ke gram Gajri me Mahua utpadan ikai ka udghatan — mahila samoohon ke liye food-processing unit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Good Morning, 18 Jul 2025',
+    sourceUrl: 'https://livegoodmorning.com/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A5%8D%E0%A4%AF/%E0%A4%B8%E0%A5%80%E0%A4%A7%E0%A5%80/sidhi-news-mla-inaugurated-mahua-production-unit-in-sidhi/cid17106120.htm',
+    date: '2025-07-18',
+    note: 'Majhauli ke gram Gajri me Mahua utpadan ikai ka udghatan vidhayak ne kiya; karyakram Harit Bharat Fund Institute of Livelihood Research and Training (ILRT) aur MP Rajya Gramin Aajivika Mission (Jila Panchayat Sidhi) ke sanyukt tatvavadhan me hua, jisme mahila samoohon ke mahua-kathal biscuit, laddu aur chips ke stall lage the. Status: udghatan — ikai kaam kar rahi thi. Credit-pardarshita: ikai ka nirman/sthapna ILRT-Aajivika Mission ka tha; vidhayak ne udghatan kiya, nirman karwaya nahi. Caveat: Live Good Morning sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kusmi ke Juri me Higher Secondary School ke naye bhavan (lagat Rs. 310 lakh) ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Pol Khol Post, 19 Nov 2025',
+    sourceUrl: 'https://polkholpost.co.in/?p=4167',
+    date: '2025-11-19',
+    note: 'Sidhi jile ke Kusmi vikas khand ke gram Juri me Rs. 310 lakh ki lagat se bane Higher Secondary School ke naveen bhavan ka lokarpan vidhayak ne mukhy atithi ke roop me fee ta katkar kiya; karyakram me jila panchayat sadasya, janpad sadasya aur sarpanch bhi the. Status: lokarpan (nirman purn, janata ko samarpit). Caveat: Pol Khol Post chhota sthaniya portal hai — lagat aur bhavan vivaran isi report par aadharit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kusmi ke Kundaur Sarasai me prathmik vidyalaya bhavan (lagat Rs. 18.25 lakh) ka shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Primes TV, 28 Dec 2025',
+    sourceUrl: 'https://primestv.in/500573/',
+    date: '2025-12-28',
+    note: 'Kusmi ke adivasi-bahul kshetra me shasakiy prathmik vidyalaya Sarasai Kundaur ke Rs. 18.25 lakh ke bhavan ka shilanyas vidhayak ne pujan-archan ke saath kiya; avsar par shiksha vibhag ke adhikari aur sarpanch upasthit the. Status: shilanyas — nirman shuru hona tha, purnata ki alag khabar nahi mili. Caveat: Primes TV sthaniya portal hai; report ke background me purane karyakaal ke school-bhavanon ke dawe bhi hain, lekin ye shilanyas-event swayam Dec 2025 (vartaman karyakaal) ka hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kusmi me Rs. 5.25 crore ke naye Janpad Panchayat bhavan ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yes News, 30 Apr 2026',
+    sourceUrl: 'https://yesnews.co.in/archives/5854',
+    date: '2026-04-30',
+    note: 'Kusmi mukhyalay me lagbhag Rs. 5.25 crore ki lagat se banne wale naveen Janpad Panchayat bhavan ka bhoomi-pujan vidhayak ne mukhy atithi ke roop me kiya. Bhoomi-pujan avsar par vidhayak ne kaha ki unhone is samasya ko mantrigon tak pahunchaya tha; Janpad CEO ne bhi kaha ki bhavan ki swikriti vidhayak ke prayas se hui. Status: bhoomi-pujan — nirman shuru hona tha, purnata ki alag khabar nahi mili. Caveat: Yes News sthaniya portal hai; report me swikriti ko lekar do alag aankde hain (vidhayak ke hawale se "Janpad bhavan hetu Rs. 20 crore ki swikriti" vs bhavan lagat Rs. 5.25 crore) — antar report ka hai, suljhaya nahi gaya; "prayas se swikriti" ka dawa report/CEO-kathan par aadharit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kusmi me Rs. 131 lakh ke naye SDM karyalay bhavan ka lokarpan — 129 gaon ke nagrikon ko seva',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Yes News, 14 May 2026',
+    sourceUrl: 'https://yesnews.co.in/archives/6517',
+    date: '2026-05-14',
+    note: 'Kusmi upkhand me Rs. 131 lakh ki lagat se nirmit sarv-suvidhayukt naveen SDM karyalay bhavan ka lokarpan vidhayak ne fee ta katkar kiya; report ke mutabik ye bhavan lagbhag 129 gaon ke nagrikon ko behtar prashasanik sevayen dega aur lokarpan ke din se hi SDM court ka sanchalan naye bhavan me prarambh ho gaya. Status: lokarpan (nirman purn, sanchalan shuru). Caveat: Yes News sthaniya portal hai; karyakram me vidhayak dwara RO system uplabdh karane ki ghoshna bhi hui — ye ghoshna-stage ki hai, poornata ki khabar nahi mili, isliye ise alag entry nahi banaya.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (kunwar-singh-tekam):
+// 1. vindhyafirst.com interview (Dec 2023, chauthi jeet ke baad) — REJECT: interview me dawa/vaade; Gaud sinchai pariyojna "swikrit mil gayi, ab lagu karwana hai" = bhavishya "karenge", thos kaam nahi.
+// 2. indiasnews24.com "chautha karyakaal: vikas karyon ki lambi fehrist" (Sep 2026) — REJECT: chaar karyakaalon ka aggregated retrospective dawa-list; pre-term kaam mix, koi dated individual concrete event nahi.
+// 3. yesnews.co.in — Bari nadi me boori bandhan (Jal Ganga Sanvardhan Abhiyan) — REJECT: symbolic shramdaan event; concrete vikas-nirman nahi.
+// 4. ntvindianews.com — toofan prabhavit gaonon ka daura, 3-3 hazaar vidhayak-nidhi ghoshna — REJECT: pre-term (Nisarg toofan, 2020); ghoshna stage par bhi term se bahar.
+// 5. enewsmp.com — "50 lakh ke vikas karyon ki aadharshila" — REJECT: pre-term evidence (karyakram me "corona kaal" ke prashasti patra).
+// 6. rewariyasat.com — Nagar Parishad adhyaksh Majhauli se badsaluki ka aarop (2021) — REJECT: pre-term; bina FIR/case/adhikarik jaanch ke aarop.
+// 7. centralchronicle.com — CM tribal convention, Rs. 68 crore package — REJECT: CM ke karyakram me sirf maujoodgi/dhanyavad; bhoomi-pujan CM ne kiya.
+// 8. amarujala.com / stpv.live / akhandbharatlivenews.com — CM Mohan Yadav dwara 714 pariyojnaon ka shilanyas/lokarpan, Bahri (9 Jan 2026) — REJECT: CM ke karyakram me sirf maujoodgi.
+// 9. primestv.in — Mohan Mart (Majhauli) shubharambh (21 Sep 2026) — REJECT: pre-event announcement; niji pratishthan ka udghatan.
+// 10. indiasnews24.com — Gujarat me mritak shramik ke parijanon ko 4 lakh CM swechhanudan (Sep 2025) — REJECT: individual relief case; kshetra-kaam nahi.
+// 11. pridekadam.co.in — gram Samda me talab me doobne se 3 bachchon ki mrityu; 12 lakh sahayata ka swikrit-patra (10 Apr 2025) — REJECT: individual relief/condolence; kshetra-kaam nahi.
+// 12. naidunia.com — baghin case: vidhayak ne Rs. 5000 swayam kharch se diye + 8 lakh ka check (21 Jul 2024) — REJECT: individual relief; "baghin shift karenge" = bhavishya.
+// 13. bhaskar.com — Khokhara (Kusmi) sadak — REJECT: vidhayak ka sirf patra/anushansa; parinam nahi aaya ("prashasan ne ab tak koi thos kadam nahi uthaya").
+// 14. etvbharat.com — CM Rise school Majhauli ka sansad-vidhayak dwara auchak nirikshan (3 Sep 2026) — REJECT: sirf nirikshan/daura.
+// 15. jagran epaper PDF (31 May 2026) — Majhauli Nagar Parishad me ~125 lakh karyon ka bhoomi-pujan — REJECT: PDF ka text garbled/verify nahi ho sakta; sansad-pradhan karyakram.
+// 16. YouTube — Kotma nivas par Holi milan samaroh — REJECT: social event; YouTube-only bhi reject source.
+// GALAT-VYAKTI CHECKS (in par entry nahi bani):
+// - dailychhattisgarh.com (7 Jul): "Vidhayak Tekam ne adivasi veer nayakon ki pratima sthapna ke liye bhoomi-pujan" — ye KONDAGAON (Chhattisgarh) ke vidhayak NEELKANTH TEKAM hain, Kunwar Singh Tekam (Dhauhani, MP) NAHI.
+// - YouTube video "Vidhayak Neelkanth Tekam ne kiya 30 lakh ke Mahatari Sadan ka bhoomi-pujan" (Farsgaon, Keshkal) — wahi Neelkanth Tekam (CG), galat vyakti.
+// - dailychhattisgarh.com: "Vidhayak Ambika Markam ne panchayaton me paani tanker vitrit" — ye Sihawa (CG) ki vidhayak AMBIKA MARKAM hain, galat vyakti.
+mpWorks['riti-pathak'] = [
+  {
+    title: 'Gopaldas Mandir (Sidhi) parisar me gate, parking aur lights ke liye Rs 1.5 crore ke karyon ka bhoomi-pujan — Mukhyamantri Adhosanrachna Mad se manjoor',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'MP Breaking News (local portal), 25 Nov 2024',
+    sourceUrl: 'https://www.mpbreakingnews.in/sidhi/rejuvenation-work-will-be-done-of-sidhi-gopalda-temple-mla-reeti-pathak-did-bhoomi-pujan-34-692277',
+    date: '2024-11-24',
+    note: 'Sidhi ke Gopaldas Mandir parisar me gate, parking aur lights ke Rs 1.5 crore (150 lakh) ke karyon ka bhoomi-pujan vidhayak Riti Pathak ne 24 Nov 2024 ko kiya; karya Mukhyamantri Adhosanrachna Mad ke tahat manjoor hue the. Unke apne X post (article me uddhrit) aur jila panchayat CEO Anshuman Raj ne kaam aur lagat ki pushti ki. Status: bhoomi-pujan — nirman karyanwayan ya purnata ki alag khabar nahi mili. Caveat: source chhota sthaniya portal hai; ye Gopaldas BANDH (dam) ke jeernoddhar ke alag karyakram (Dec 2024, jisme ve sirf maujood thin) se bhinn mandir-parisar ka karya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sidhi jila aspatal ke liye Rs 7 crore (unke dawe par CM dwara swikrit) aur Rs 17.85 lakh ke 20 chikitsa upkaran — rashi ka hisab na milne par jaanch-samiti ki maang',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'Aaj Tak, 21 Jan 2025',
+    sourceUrl: 'https://www.aajtak.in/madhya-pradesh/story/bjp-mla-reeti-pathak-asked-health-minister-rajendra-shukla-where-did-my-7-crore-rupees-of-funds-go-in-sidhi-lcln-rptc-2147856-2025-01-21',
+    date: '2025-01-18',
+    note: '18 Jan 2025 ko Sidhi me ek karyakram me unhone khud dawa kiya ki unke maangne par CM ne jila aspatal (doctor, upkaran, infrastructure) ke liye Rs 7 crore swikrit kiye the, lekin rashi swasthya vibhag me "gayab" ho gayi; isse pehle ve Dy CM/Swasthya Mantri ko 6-7 patra likh chuki thin jinka jawab nahi aaya. Dy CM Rajendra Shukla ne kaha ki ve mudde ki jaanch karayenge. Oct 2025 me swasthya mantri ke jila aspatal nirikshan par unhone bataya ki commissioner ne unhe kaha tha ki Rs 7 crore aspatal aur PWD ke khate me transfer kar diye gaye, lekin kharch ka hisab nahi mil raha; unhone vidhayak+sansad ko shamil karke jaanch-samiti banane ki maang ki. Sthaaniya report ke mutabik Rs 17.85 lakh ke 20 upkaran bhi unhone aspatal ko diye the (vidhayak-nidhi se hain ya nahi, iski jaanch ki maang unhone khud ki). Stage: ghoshna/dawa — koi sarkari aadesh (GO) sarvajanik roop se nahi mila; rashi ki release/kharch ki sthiti apusht hai; Oct 2025 wala hissa chhote sthaniya portal (Pride Kadam) se hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (riti-pathak):
+// 1. Gopaldas BANDH (dam) ke jeernoddhar ka bhoomi-pujan (Dec 2024, rewariyasat) — ve karyakram me sirf maujood thin (Panchayat vibhag ki yojana); bhoomi-pujan unhone nahi kiya; mantri Radha Singh ko na bulane ka vivaad. Niyam: sirf maujoodgi = REJECT.
+// 2. Sidhi ring road (Rs 85.70 crore budget) par "jald pahal" ka ashwasan (Zee News, Jul 2026) — bhavishya "karenge" = REJECT.
+// 3. Bhatha gram panchayat ke nale par pul/dam ka chunavi vaada yaad dilana (ETV Bharat, Aug 2026) — chunav-se-pehle ka vaada, poora hone ka koi praman nahi = REJECT.
+// 4. Pahadi me Seva Setu karyakram me adhikariyon ko fatkar (Dainik Jagran MP-CG, Oct 2026) — sirf nirikshan/daura = REJECT.
+// 5. Vidhan Sabha budget satr me doctoron ki kami par bhashan (The Statesman) — sirf maang = REJECT.
+// 6. Smart City me tezi ke liye CM ko patra + budget me 200-bed aspatal ki maang (Dainik Bhaskar, Mar 2025) — sirf maang/patra = REJECT.
+// 7. Bahri (Sidhi) me CM ke 714 pariyojnaon ke lokarpan/shilanyas karyakram me maujoodgi (Bhaskar English, Jan 2026) — CM ke karyakram me sirf maujoodgi = REJECT.
+// 8. Gopaldas bandh par Chhath puja me bhagidari (News18, Oct 2025) — dharmik karyakram, koi kaam nahi = REJECT.
+// 9. BJP Mahila Morcha adhyaksh banne ki atkalein (Free Press Journal) — koi kshetra-kaam nahi = REJECT.
+// 10. Sahkari bank CEO ke nilamban ko HC ne radd kiya — "mahila vidhayak ke dabav" wala mamla (cgimpact/tandavnews, Aug 2025) — court order me unka naam NAHI hai (yachika me naam na hone par court ne "mahila vidhayak" shabd istemal kiya); sirf chhote portalon ka anumaan; unke khilaf koi FIR/case nahi; unka jawab uplabdh nahi. Niyam: established reporting ke bina negative entry = REJECT.
+// 11. Vindhya News ka aalochanaatmak lekh (Dy CM ke karyakram me "vyavadhan" ka aarop, Jan 2025) — opinion/commentary piece, koi sthapit tathya ya kaam nahi = REJECT.
+// 12. Sansad-kaam: 2014-2024 ke dauran ke sabhi vikas karya (MPLAD/sansad-nidhi) — pre-term = scope se bahar, research hi nahi kiya gaya.
+
+// GALAT-VYAKTI CHECKS (riti-pathak):
+// - "Riti Pathak" / "Reeti Pathak" (spelling variants) — ek hi vyakti: Sidhi AC-77 ki BJP vidhayak, poorv Sidhi sansad.
+// - Radha Singh / Radha Ravindra Singh — Chitrangi (Sidhi jila) ki BJP vidhayak + rajya mantri; Gopaldas dam vivaad me unka naam aaya; hamari subject NAHI hain.
+// - Vishwamitra Pathak — Sihawal (Sidhi jila) ke BJP vidhayak; alag vyakti.
+// - Dr. Rajesh Mishra — vartaman Sidhi Lok Sabha sansad; alag vyakti.
+// - Kedar Nath Shukla — poorv Sidhi vidhayak (2008-2023), 2023 me nirdaliya pratyashi; alag vyakti.
+// COORDINATOR QA NOTE (2026-10-14, Sidhi batch): ajay ki nidhi-anushansa entry hata di (upar); baaki
+// sabhi entries standard pass — titles Roman Hinglish, notes single-paragraph, Rs currency, chhote portal disclosure.
