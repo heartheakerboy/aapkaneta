@@ -4215,3 +4215,98 @@ biharWorks['niraj-kumar-singh'] = [
 // 11. YouTube-only sadak shilanyas videos = REJECT. 22Scope News, Oct 2025 (nomination) = REJECT (chunav).
 
 // COORDINATOR QA (Supaul): 3 workers (A: AC-41/42, B: AC-43/44, C: AC-45) ke fragments ko AC order 41->45 me merge kiya. Kul 2 entries (1 positive + 1 dawa): bijendra-prasad-yadav 1 (Rs 1.73 crore vidhayak-nidhi school bhawan lokarpan, Marauna AC-43 ke andar, mantri-caveat disclose), niraj-kumar-singh 1 (dawa/ghoshna — 7 pulon ke tender ka swayam-daava, bina GO ke ghoshna stage par rakha); aniruddha-prasad-yadav, rambilash-kamat, sonam-rani khaali. QA fix: worker C ki entry ka English title Roman-Hinglish vakya me convert kiya (srot-tathya aparivartit). Sabhi 5 slugs pehle khaali the — koi overwrite nahi; marker 1x. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; badges valid (news/dawa); categories valid; stages valid (ghoshna/lokarpan); period '2025-2030' sabhi me; titles pure Hinglish vakya, currency "Rs"; sourceUrls canonical, khud khole gaye.
+
+// ---- Vaishali district batch (researched 2026-10-14) ----
+// Bihar ka 38va aur aakhri jila: 8/8 MLA researched (4 parallel workers: W1=Awadhesh Singh + Sanjay Kumar Singh-Bihar (Lalganj), W2=Siddharth Patel + Sanjay Kumar Singh-126 (Mahua), W3=Mahendra Ram + Tejashwi Yadav, W4=Umesh Singh Kushwaha + Lakhendra Kumar Raushan). Kul 5 entries (4 positive + 1 negative); 4 profiles imaandari se khaali. Sabhi 8 slugs pehle khaali the — koi overwrite nahi.
+
+biharWorks['awadhesh-singh'] = [
+  {
+    title: 'Hajipur me Chaurasia Chowk se Paswan Tola aur Jagdamba Sthan hote hue Chauhata-Jadhua tak Rs 4.45 crore ki sadak chaudaikaran-majbutikaran ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-01-20',
+    description: 'Path Nirman Vibhag ki yojna: Hajipur shahar me Chaurasia Chowk se Paswan Tola, Jagdamba Sthan hote hue Chauhata-Jadhua tak sadak ke nirman-chaudaikaran karya (kul lagat Rs 4.45 crore) ka shilanyas vidhayak Awadhesh Singh ne kiya; karyakram me Nagar sabhapati Dr Sangita Kumari sahit sainkdon sthaniya nagrik, vyapari maujood the. Disclosure: yeh vibhagiya sadak yojna hai — article me swikriti me vidhayak ki bhumika ka koi dastavezi saboot nahi hai; shilanyas charan me vidhayak ki kendriya bhoomika ke karan entry rakhi hai. SGNews ke mutabik shilanyas karyakram shukrawar (16 Jan 2026) ko hua tha; Live Hindustan ne 20 Jan 2026 ko report kiya.',
+    source: 'Live Hindustan, 20 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/hajipur/story-bjp-mla-awadhesh-singh-launched-major-road-project-in-hajipur-201768925877527.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (awadhesh-singh): 1. SGNews Sep 2025 — Nagar Parishad ki 4 sadkon ka shilanyas, MLA mukhya atithi — REJECT (pre-term). 2. LiveHindustan Sep 2026 — Nagar Parishad board me ~450 yojnaon ki swikriti; MLA sirf maujood + charcha-bindu — REJECT (sirf maujoodgi). 3. LiveHindustan Sep 2026 — krishi prashikshan karyakram me sanyukt deep-prajwalan — REJECT (ceremonial). 4. TOI Nov 2025 (chunav prachar) — Dayalpur me graminon ka virodh — REJECT (pre-term; negative nahi — FIR/case saboot nahi). 5. The Hindu/News18 Jul 2026 — Hajipur digital land registration shubharambh — REJECT (CM Samrat Choudhary ka event; sirf maujoodgi). 6. "Awadhesh Narayan Singh resigns as Bihar Legislative Council Chairman" — REJECT (alag vyakti — Vidhan Parishad adhyaksh). 7. YouTube podcast — REJECT (YouTube-only).
+
+biharWorks['sanjay-kumar-singh-bihar'] = [
+  {
+    title: 'Lalganj me Shri Sharda Sadan Pustakalaya se Pakri ki taraf jane wali Rs 3 crore ki PCC sadak aur naala ka shilanyas',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-05-20',
+    description: 'Lalganj me vidhayak Sanjay Singh ne Shri Sharda Sadan Pustakalaya se Pakri ki taraf jane wali sadak nirman karya ka vidhivat shilanyas kiya; karib Rs 3 crore ki lagat se PCC sadak aur majboot naala banega, aur pustakalaya parisar me paver block lagaya jayega. Vidhayak ne gunvatta se koi samjhauta na hone aur janata se nigrani rakhne ki baat kahi. Disclosure: fund srot article me specify nahi hai (vibhagiya yojna ya vidhayak-nidhi — pata nahi). Shilanyas karyakram mangalwar (19 May 2026) ko hua; report 20 May 2026 ki. Pehchan: Lalganj AC-124 ke BJP vidhayak (Mahua wale Sanjay Kumar Singh nahi).',
+    source: 'Dainik Bhaskar, 20 May 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/vaishali/lalganj/news/development-gains-momentum-in-lalganj-mla-dbp-137979978.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Lalganj me Shringi Rishi ashram ke paas Mukhyamantri Kshetra Vikas Yojna ke tahat chabutara nirman ka shilanyas',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2026-01-09',
+    description: 'Yojna evam Vikas Vibhag ki Mukhyamantri Kshetra Vikas Yojna (Lalganj Nagar Parishad) ke tahat Lalganj block ke paas Chakshale sthit Shringi Rishi ji ke ashram ke sameep chabutara nirman karya ka shilanyas vidhayak Sanjay Kumar Singh ke kar-kamlon dwara sampann hua. Disclosure: isi shilapat ko galti se dedh km door Jahanabad Vishahar Chowk ke Mankameshwar Shiv Mandir ki deewar par laga diya gaya tha, jispar graminon ne hangama kiya; BJP jila mahamantri Ghanshyam Kumar ke mutabik yeh mazdoor ki laparwahi thi aur board hatwaya ja raha tha — MLA ke khilaf koi aarop, FIR ya janch nahi hai.',
+    source: 'Prabhat Khabar, 9 Jan 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/hajipur/villagers-create-ruckus-over-installation-of-board',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sanjay-kumar-singh-bihar): 1. public.app — Repura-Sarai Rs 27.15 crore sadak shilanyas — REJECT (public.app-only + pre-term). 2. public.app — Gandak ghat bandh sadak Rs 4 crore — REJECT (public.app-only + pre-term). 3. Amar Ujala 5 Jul 2025 — gaali-galauj viral video — REJECT (pre-term; FIR/janch saboot nahi; safai article me). 4. "BJP vidhayak ki pitai" viral video — REJECT (Vishvas News fact-check me galat paaya gaya; video me JDU neta the). 5. YouTube — private gym udghatan / Ramnavmi yatra / prachar virodh — REJECT (YouTube-only + private/dharmik/pre-term). 6. npg.news Oct 2025 — CM ka Vaishali Rs 744.85 crore event — REJECT (pre-term + CM event). 7. LiveHindustan Oct 2026 — Gurudwara baithak + paryatan bhavan nirikshan — REJECT (sirf baithak/nirikshan). 8. need24.digital Sep 2026 — journalism conference me maujoodgi — REJECT. 9. khabareabtak Oct 2026 — Saraiya patrakar karyakram — REJECT (sirf bharosa; kshetra-bahar). 10. Bhaskar me "Repura se Ghaghra Chowk sadak" sanket — REJECT (sirf ummeed, sanction saboot nahi).
+
+biharWorks['siddharth-patel'] = [];
+
+// REJECT-LOG (siddharth-patel): profile KHAALI rahi. 1. Jagran 25 Sep 2025 — Patepur-Belsar me Rs 10 crore 3-pul shilanyas — REJECT (pre-term). 2. public.app ~Sep 2025 — Goraul shilanyas — REJECT (pre-term + public.app-only). 3. Bhaskar English Sep 2025 — CM Nitish ke Harser karyakram me 'Go Back' naare — REJECT (pre-term virodh; negative nahi — FIR/case nahi). 4. YouTube ~May 2025 — Rahimpur pattal udyog udghatan — REJECT (YouTube-only + pre-term). 5. YouTube ~Jan 2026 — Goraul railway crossing 'swikriti mili' dawa — REJECT (YouTube-only, koi concrete work event nahi). 6. LiveHindustan ~Sep 2026 — MLA-pratinidhi manonayan — REJECT (prashasanik manonayan, kaam nahi). 7. LiveHindustan ~Jun 2026 — Bhagwatpur shivir me degree college aashwasan — REJECT (karenge khabar). 8. Bhaskar ~Jul 2026 — CM report prasaran deep-prajvalan — REJECT (ceremonial). 9. Prabhat Khabar — chunavi samarthan — REJECT (election news). 10. Jagran 2020 — CM ko patra — REJECT (pre-term). Negative: NDTV ADR 'Cases: No'; koi established negative reporting nahi. (Vrishan Patel uncle — parivarik chunav-khabar, kaam nahi.)
+
+biharWorks['sanjay-kumar-singh-126'] = [
+  {
+    title: 'Mahua aur Chehrakala ke 36 panchayaton ke 493 wards ke liye Rs 506.71 crore ki Ganga-jal aadharit bahu-grameen jalapurti yojna ko Bihar cabinet ki manzoori',
+    category: 'Paani',
+    stage: 'swikriti',
+    date: '2026-10-13',
+    description: 'Bihar cabinet ne Mahua vidhansabha kshetra (Mahua aur Chehrakala prakhand) me Rs 506.71 crore ki bahu-grameen jalapurti yojna ko manzoori di; Ganga nadi ke satahi jal par aadharit 72 MLD kshamta ki yojna se 36 panchayaton ke 493 wards me gharon tak niyamit peyjal pahunchane ka lakshya hai. Shrey-pardarshita: manzoori cabinet ka collective faisla hai aur fund-srot rajya sarkar/PHED vibhagiya yojna hai (vidhayak-nidhi nahi); lekin vidhayak svayam PHED mantri hain, unhone ise apne chunavi vaade ka parinam bataya, aur Jan 2026 me unhone Mahua ke liye ~Rs 400 crore surface-water plant ka prastav sarkar ke samaksh rakhne ki baat khud kahi thi (Amar Ujala, 22 Jan 2026) — isliye seat-specific bhoomika ke aadhar par entry rakhi hai. Mantri ke state-level faisle nahi gine jaate, lekin ye yojna poori tarah Mahua AC-126 ke andar hai (Mahua + Chehrakala prakhand = AC-126). Pehchan-savdhani: ye Mahua ke LJP-RV vidhayak hain, Lalganj ke BJP vidhayak Sanjay Kumar Singh se milan nahi kiya gaya.',
+    source: 'Jagran, 13 Oct 2026',
+    sourceUrl: 'https://www.jagran.com/bihar/vaishali-bihar-cabinet-approves-506-cr-mahua-drinking-water-project-40404095.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sanjay-kumar-singh-126): 1. ETV Bharat 27 May 2026 — PHED mantri dwara nal-jal supply izafa — REJECT (mantri ka state-level faisla; seat-specific nahi). 2. Jagran 22 Jan 2026 — Mahua Medical College (Rs 463 cr) CM udghatan — REJECT (shilanyas 2021 pre-term; shrey CM ko). 3. Amar Ujala 22 Jan 2026 — ~Rs 400 cr plant ka prastav — REJECT as separate entry (Oct 2026 ki Rs 506.71 cr manzoori hi swikriti entry bani). 4. YouTube items (orientation/dharna/maang/mahotsav) — REJECT (YouTube-only). 5. LiveHindustan 19 Jan 2026 — Saharsa cricket tournament 'Simri Bakhtiarpur ke LJP vidhayak Sanjay Kumar Singh' — REJECT (GALAT VYAKTI). 6. Negative rule — Tej Pratap Yadav ke 29 Aug 2026 X-aarop (Delhi hotel/Rs 25 lakh settlement dawa): LiveHindustan/News18/Patna Press coverage, lekin koi FIR/shikayat/janch nahi; Sanjay Singh ka khandan + 31 Aug 2026 ko Rs 50 crore defamation legal notice — REJECT (sirf virodhi-aarop bina karyavahi ke; reject-log me poora darj). 7. newspr.live ka bhavaatmak sandesh — REJECT (chhota local portal, Jagran ke saath redundant). 8. election-result coverage — REJECT (kaam-khabar nahi). 9. patnapress halafname ke pending cases — REJECT (affidavit disclosure, koi case-sthiti reporting nahi). Note: news18 Hindi portfolio mix-up (Mahua/Bakhri) cross-verify: Sanjay Singh (Mahua, LJP-RV) hi PHED mantri hain.
+
+biharWorks['mahendra-ram'] = [];
+
+// REJECT-LOG (mahendra-ram): profile KHAALI rahi. 1. Dainik Bhaskar ~Feb 2026 — Kushwaha Gate shilanyas — REJECT (community-funded; sirf ceremonial aadharshila). 2. Usi article me samudayik bhavan aashwasan — REJECT (sirf maang + karenge khabar). 3. LiveHindustan ~Jun 2026 — Narayanpur Buzurg jan-kalyan shivir (MLA mukhya atithi) — REJECT (sirf maujoodgi). 4. LiveHindustan 31 Jan 2026 — panchayat samiti baithak — REJECT (sirf upasthiti). 5. LiveHindustan ~Jun 2026 — Bikhanpura jansunwai — REJECT (sirf jansunwai, koi sanction nahi). 6. IANS 24 Jan 2026 — Samriddhi Yatra Vaishali (CM ne Rs 152 cr ki 128 yojnaon ka shilanyas/udghatan) — REJECT (CM event me maujoodgi). 7. YouTube-only videos — REJECT (source rule). 8. public.app items (bhagwat katha/felicitation) — REJECT (public.app-only + ceremonial). 9. Koi qualifying negative nahi (affidavit: 0 criminal cases).
+
+biharWorks['tejashwi-prasad-yadav'] = [
+  {
+    title: 'IRCTC-LARA money laundering case me Tejashwi Yadav ke khilaf charges ki formal framing Delhi court ne 30 Oct 2026 tak tali',
+    category: 'Any',
+    date: '2026-10-03',
+    description: 'On 3 Oct 2026, Tejashwi Yadav appeared before Special Judge Prashant Kumar (MP-MLA cases), Rouse Avenue court, New Delhi, in the Enforcement Directorate money laundering case linked to the alleged IRCTC hotel tender scam. On 10 Sep 2026, the predecessor court had ordered framing of money laundering charges against 9 of the 16 ED-accused, including Tejashwi Yadav, while discharging 7, and had fixed 3 Oct for formal framing; the 3 Oct hearing was adjourned with the court directing the ED to take instructions and listing the matter for 30 Oct 2026. ED alleges that during 2005-2014, when Lalu Prasad was Union Railway Minister, the IRCTC hotel tender for Ranchi and Puri was manipulated in favour of Sujata Hotels, and as quid pro quo prime land in Patna was routed through DMCPL, a company controlled by associates P C Gupta and Sarla Gupta, to Rabri Devi and Tejashwi Yadav at a pittance, the entity later renamed Lara Projects LLP, which ED describes as proceeds of crime. Outside the court Tejashwi Yadav said the family is fully cooperating with the court and alleged political targeting by the ED, CBI and Income Tax, saying that had they been in the BJP they would have been seen as paragons of honesty. Status: charges not yet formally framed; next hearing 30 Oct 2026. Disclosure: ye Tejashwi Yadav ka apna case hai (woh khud aaropi hain); mata-pita saha-aaropi hain lekin entry unpar nahi jodi gayi — parivar-niyam ka palan.',
+    source: 'Lokmat Times (ANI feed), corroborated by PTI (Deccan Herald/dtnext/millenniumpost)',
+    sourceUrl: 'https://www.lokmattimes.com/politics/if-we-were-in-bjp-wed-be-like-king-harishchandra-tejashwi-yadav-after-appearing-in-court-in-lara-money-laundering-case/',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (tejashwi-prasad-yadav): 1. ETV Bharat 23 Aug 2026 — Raghopur Ganga-kataav jayza — REJECT (sirf nirikshan + maang). 2. Boat capsize, Raghopur Diara, 13-14 Oct 2026 — rescue coordination — REJECT (aapda response, vikas-kaam nahi). 3. News18/Bhaskar Nov 2025 pre-poll ground reports — REJECT (pre-term). 4. LoP bayan/sadak/dharna/SIR-EC tipanni — REJECT (political activity, works nahi). 5. Land-for-jobs CBI case — REJECT (is karyakaal me koi nayi adalaati pragati established reporting me nahi; parents ke mamle unpar nahi jode).
+
+biharWorks['umesh-singh-kushwaha'] = [];
+
+// REJECT-LOG (umesh-singh-kushwaha): profile KHAALI rahi. LiveHindustan ~Sep 2026 — Baba Ganinath Dham sahyog shivir (card vitran/daura) — REJECT (sirf shivir). LiveHindustan ~Jun 2026 — Mehmdapur/Sarmastpur sahyog shivir — REJECT (sirf card vitran). newshaat ~Sep 2026 — Farakka bayan — REJECT (sirf bayan). kewalsachlive Jan 2025 — Pragati Yatra Rs 318 cr dave — REJECT (pre-term + CM event par bayan). navrashtramedia Jan 2025 — Mahnar ITI udghatan — REJECT (pre-term + CM event). jagran/bhaskar Sep 2020 — Mahua medical college shilanyas (CM video conference) — REJECT (pre-term + CM event). public.app Nov 2025–Sep 2026 (julus/shaadi/mulakat) — REJECT (public.app-only). zeenews 2018 — Manish Sahani hatya FIR — REJECT (pre-term; 2025 affidavit me zero cases; current-term me koi nayi FIR nahi — negative nahi). samacharnama Sep 2026 — Jamui case 'chhitput' bayan — REJECT (political bayan). navbharattimes Mar 2026 — JDU pradesh adhyaksh teesri baar nirvirodh — REJECT (party news). (ve JDU Bihar pradesh adhyaksh hain; zyadatar khabren party-stariya.)
+
+biharWorks['lakhendra-kumar-raushan'] = [];
+
+// REJECT-LOG (lakhendra-kumar-raushan): profile KHAALI rahi. LiveHindustan 29 Dec 2025 — Patepur swatantrata-senani shilapatt lokarpan — REJECT (smarak stambh block-pramukh fund se; sirf ceremonial mukhya atithi). LiveHindustan 11 Jan 2026 — Patepur janata darbar — REJECT (pre-event schedule + daura). LiveHindustan 1 Jan 2026 — navvarsh shubhkamna — REJECT. prabhatkhabar ~Sep 2026 — Bherokhara sadak (Rs 98.762 lakh MKVY, adhoori, thekedaar gayab) — REJECT (shilanyas pre-term Aug 2025; koi FIR/janch nahi — negative nahi). public.app ~Oct 2025 — sadak shrey vivad — REJECT (pre-term + public.app-only). prokerala/ETV Bharat 1 Aug 2026 — Sitamarhi rishwat case (aarop operator par; mantri ne khud suspend karwaya) — REJECT (aarop operator par tha; kshetra-bahar; negative nahi banta). zeenews Mar 2023 — vidhansabha mic-todne suspension — REJECT (pre-term). jagran Nov 2025/May 2026 — mantri banne ki khabar — REJECT (appointment news). hindi.news18 Oct 2025 — purane karyakal ke dave — REJECT (pre-term). (ve SC & ST welfare mantri hain; khabren zyadatar mantri-stariya.)
+
+// COORDINATOR QA (Vaishali, 2026-10-14): 4 workers (W1: AC-123/124, W2: AC-125/126, W3: AC-127/128, W4: AC-129/130) ke fragments ko AC order 123->130 me merge kiya. QA fixes: (1) W2 ki Sanjay-126 entry ko non-canonical schema (sourceLabel/note, stage-inside-note) se canonical schema (title/category/stage/date/description/source/sourceUrl/badge/period) me normalize kiya — stage 'swikriti' (Bihar cabinet manzoori, Jagran 13 Oct 2026), credit-transparency note srot-tathyatmak roop se aparivartit; (2) W3 ki Tejashwi entry ka English title Roman-Hinglish vakya me convert kiya (srot-tathya aparivartit); (3) saare 5 sourceUrls (LiveHindustan, Bhaskar, Prabhat Khabar, Jagran, Lokmat Times) curl se 200 verify kiye. Kul 5 entries (4 positive + 1 negative): awadhesh-singh 1, sanjay-kumar-singh-bihar 2, sanjay-kumar-singh-126 1, tejashwi-prasad-yadav 1 negative (LARA case — 10 Sep 2026 charges-frame order, 3 Oct 2026 adjournment, 30 Oct 2026 agli sunvai; ANI + PTI corroboration; neta ka jawab darj; unka apna case, parents ke mamle nahi jode — family rule); siddharth-patel, mahendra-ram, umesh-singh-kushwaha, lakhendra-kumar-raushan imaandari se khaali. Pehchan-savdhani: dono Sanjay Kumar Singh (Lalganj BJP vs Mahua LJP-RV) alag rakhe gaye; Sanjay-126 ke X-aarop negative-rule par reject. Sabhi 8 slugs pehle khaali the — koi overwrite nahi; marker 1x.
