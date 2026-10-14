@@ -2119,3 +2119,363 @@ mpWorks['ghanshyam-singh'] = [
 // - UNI Varta (Sep 2026): Vidhan Sabha adhyaksh se shapath — ghatna; reject.
 // - Rajendra Bharti (poorv Datia MLA, Apr 2026 me ayogya ghoshit): data me unka koi profile nahi hai — unke naam par koi entry nahi banayi gayi.
 // - Unke poorv karyakaal (Datia 1993/2003, Sewda 2018) ki koi khabar — karyakaal se pehle, niyam se bahar.
+// ---- Dewas district batch (researched 2026-10-14) ----
+// Dewas batch — Dewas jile ke 5 MLA (sabhi BJP, karyakaal Dec 2023+):
+// dr-rajesh-sonkar (Sonkatch SC AC-170), gayatri-raje-puar (Dewas AC-171),
+// manoj-narayansingh-choudhari (Hatpipliya AC-172), aashish-govind-sharma
+// (Khategaon AC-173), murli-bhawara (Bagli ST AC-174).
+// Note: kisi bhi MLA ke liye swikriti-stage ki entry nahi hai — GO/sanction-order
+// number wali pakki swikriti report kisi article me nahi mili (ghoshna-type
+// dave ghoshna stage par rakhe gaye hain). murli-bhawara ki CM-mulakat wali
+// "swikriti" khabar bhi isi niyam se ghoshna rakhi gayi (Chhindwara precedent).
+// DO NOT export; appended to works_mp.ts
+
+mpWorks['dr-rajesh-sonkar'] = [
+  {
+    title: 'Gram Panchayat Budhanagaon me Rs 4 lakh ki CC sadak ka bhumi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar News, Aug 2024',
+    date: '2024-08',
+    sourceUrl: 'https://www.bharatsagar.page/2024/08/4.html',
+    note: 'Portal ke mutabik vidhayak Dr. Rajesh Sonkar ne swayam bhumi-pujan kiya (poojan-archa Pandit Rohit Sharma ne karwaya); sarpanch aur janpad pratinidhi upasthit the. Status: bhumi-pujan — nirman poora hone ki pushti article me nahi. Chhota local blog-portal (bharatsagar.page) — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Piplrawan me Rs 10.96 crore ke karyon ka bhumi-pujan aur Rs 3.82 crore ke karyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Samaachar24, Apr 2026',
+    date: '2026-04',
+    sourceUrl: 'https://samaachar24.com/peepalrawa-vikas-karya-23-crore-sonkatch/',
+    note: 'Portal ke mutabik Nagar Parishad Piplrawan me vidhayak ne bhumi-pujan kiya: Amrit 2.0 ke tehat jalpraday pariyojana, STP, Mukti Dham, talab saundaryikaran, MRF centre, composting plant, fish parlour, nali, gumti (lagbhag 10.96 crore); aur lokarpan kiya: Mukhyamantri Adhosanrachna Yojana ke tehat CC road-nali, Ward 15 me park, purane kuen ka jirnodhar, bus stand complex (lagbhag 3.82 crore). Credit-pardarshita: ye sab rajya/kendra yojanaon ke kaam hain; vidhayak ki concrete bhoomika = unhone swayam bhumi-pujan/lokarpan kiya. Vidhayak-nidhi ka ullekh nahi. Status: bhumi-pujan + lokarpan. Chhota local portal (samaachar24.com) — disclosure.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Piplrawan bypass (lagbhag Rs 9 crore) ki ghoshna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Samaachar24, Apr 2026',
+    date: '2026-04',
+    sourceUrl: 'https://samaachar24.com/peepalrawa-vikas-karya-23-crore-sonkatch/',
+    note: 'Usi Piplrawan karyakram me portal ne bypass ko "sabse badi saughat" bataya, lekin article me bypass ka bhumi-pujan ya swikriti ka koi saboot nahi — bhasha bhavishya-kalin ("banne wala") hai, isliye stage ghoshna rakha gaya hai, swikriti nahi. Chhota local portal (samaachar24.com) — disclosure. Status: ghoshna.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Budget 2026 me Sonkatch ke 13 margon aur pul ke pravdhan ki ghoshna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Truth24, Feb 2026',
+    date: '2026-02',
+    sourceUrl: 'https://truth24.co.in/2026/02/vidhayk-sonkr-ke-pryas-se-sonkchchh-ko-vikas-kee-aitihasik-saugat/',
+    note: 'Truth24 ke mutabik MP Budget 2026 me Sonkatch ke liye margon ka pravdhan hua: Old Tonkkhurd bypass (0.90 km), Pagrawat-Lakumadhi, Chidawad-Dhota (14 km), Tonkkala-Tonkkhurd-Deoli-Patadiya-Iklera-Piplrawan-Balon-Berchha (63 km) sahit 13 marg, plus Sonkatch-Gandharvapuri marg par pul. Portal ne ise "vidhayak ke prayason se swikrit" bataya, lekin article me GO/work-order number nahi — isliye stage ghoshna (swikriti nahi). Kaam shuru ya poore hone ki pushti nahi. Chhota local portal (truth24.co.in) — disclosure. Status: ghoshna.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Shedu me Rs 25 lakh ke tin shed karyon ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Aaj Tak24x7, Sep 2026',
+    date: '2026-09',
+    sourceUrl: 'https://aajtak24x7.in/archives/53531',
+    note: 'Devanarayan Jayanti karyakram me graminon ki maang par vidhayak ne ghoshna ki: Ramdevji mandir ke samne 15 lakh ka sarvajanik tin shed, Dev Kawaja mandir me 5 lakh ka tin shed, gram me 5 lakh ki rashi, aur peene ke pani ke liye tanker. "Jitni maang utni ghoshna" — kaam shuru hone ki pushti nahi, isliye stage ghoshna. Vidhayak-nidhi (MLA fund) ka ullekh article me nahi hai. Chhota local portal (aajtak24x7.in — asli Aaj Tak/aajtak.in se sambandhit nahi) — disclosure. Status: ghoshna.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Gagarnia (Bhilkhedi) me Devanarayan mandir par Rs 12 lakh ke tin shed ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Aaj Tak24x7, Sep 2026',
+    date: '2026-09',
+    sourceUrl: 'https://aajtak24x7.in/archives/53531',
+    note: 'Portal ke mutabik 12 lakh se bane bhavya tin shed ka lokarpan Devanarayan Jayanti ke din vidhayak Dr. Rajesh Sonkar ke sannidhya me hua. Status: lokarpan. Chhota local portal (aajtak24x7.in — asli Aaj Tak se sambandhit nahi) — disclosure.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['gayatri-raje-puar'] = [
+  {
+    title: '18 crore ke sadak karyon ka bhoomi-pujan: Gajra Gears-BNP Gate (7.80 cr) aur Beema-Karmdeep (11.17 cr) CC road + 4 ward works',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar News, Sep 2026',
+    date: '2026-09-01',
+    sourceUrl: 'https://www.bharatsagar.page/2026/09/18.html',
+    note: 'Stage: shilanyas/bhoomi-pujan — 1 Sep 2026 (Mangalwar) ko MLA ne khud kiya, mahapaur/sabhapati/jiladhyaksh maujood. Mukhyamantri Shahari Adhosanrachna Vikas Yojana (state scheme) ke tahat: 7.80 cr me Gajra Gears chaurahe se BNP Gate tak CC road + service road + widening + divider + stormwater drain + street light + pathway + greenery; 11.17 cr me Beema tirahe se Karmdeep chauraha tak sadak nirman. Isi event me Ward 28 (10.61 lakh), Ward 13 Sitaraam Nagar (10.65 lakh), Ward 11 Alkapuri (24.80 lakh white topping) aur Beema Road-Mukherjee Nagar (39.30 lakh) ke CC road/pavers works ka bhi bhoomi-pujan. Credit-pardarshita: ye vidhayak-nidhi nahi — rajya yojana + nagar nigam ke kaam hain, MLA ne bhoomi-pujan kiya. Status: kaam shuru (bhoomi-pujan stage). Source chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Naveen tehsil karyalaya bhawan (Ujjain Road, Dewas) ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar News, Jan 2024',
+    date: '2024-01-26',
+    sourceUrl: 'https://www.bharatsagar.page/2024/01/blog-post_276.html',
+    note: 'Stage: lokarpan (inauguration) — 26 Jan 2024 (Shukrawar) ko MLA ne udghatan kiya; 29 Jan 2024 se tehsil karyalaya ne naye bhawan me kaam shuru kiya. Bhawan Ujjain Road par Nagar Nigam depot ke paas bana; purana tehsil office purane collector bhawan ke saath toda gaya tha. Credit-pardarshita: sarkari nirman, MLA ne udghatan kiya. Status: poora hua kaam, karyalaya shift ho gaya. Source chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: '2.42 crore ke ward-level karyon ka bhoomi-pujan (11 wards: CC road, pavers, garden, boundary wall, high-mast)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Samacharline, Nov 2024',
+    date: '2024-11-26',
+    sourceUrl: 'https://samacharline.in/%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%82%e0%a4%a4-%e0%a4%97%e0%a4%be%e0%a4%af%e0%a4%a4%e0%b0%80%e0%a4%b0%e0%a5%80-%e0%a4%b0/',
+    note: 'Stage: bhoomi-pujan — 26 Nov 2024 ko MLA ne khud kiya (mahapaur, sabhapati, parshad maujood). Ward 3, 7, 10, 12, 13, 16, 24, 35, 39, 41, 43 me CC road, pavers block, garden vikas, boundary wall, high-mast light aadi. Credit-pardarshita: nagar nigam ke kaam, MLA ne bhoomi-pujan kiya; ye vidhayak-nidhi ki ghoshna-type khabar nahi, bhoomi-pujan event ki reporting hai. Status: kaam shuru (bhoomi-pujan stage). Source chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Balgarh talab (Ward 43) ka 1.5 crore se kayakalp — lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hamara Dewas, Mar 2025',
+    date: '2025-03-21',
+    sourceUrl: 'https://www.hamaradewas.com/2025/03/1-50.html',
+    note: 'Stage: lokarpan (poora hua kaam) — 21 Mar 2025 ko MLA ne udghatan kiya. Nagar Nigam Dewas ne talab jeernoddhar/saundaryikaran karwaya: pathway, lighting, fencing aadi, 1.5 crore lagat. Credit-pardarshita: kaam nagar nigam ka; MLA ne lokarpan kiya. Status: poora aur lokarpit. Source chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: '80 lakh ke 5 ward karyon ka bhoomi-pujan (Ward 4 CC road, Ward 15-16 pavers, Ward 19 Sheetla Mata garden, Ward 42 samajik bhawan)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, Sep 2026 (est.)',
+    date: '2026-09',
+    sourceUrl: 'https://voiceofmp.com/news/338827',
+    note: 'Stage: bhoomi-pujan — MLA mukhya atithi; Ward 4 me CC road, Ward 15-16 me pavers block (20-20 lakh), Ward 19 Gautam Nagar Sheetla Mata mandir garden me boundary wall + pavers (20 lakh), Ward 42 Balaji Nagar me samajik-sanskritik bhawan (10 lakh). Credit-pardarshita: nagar nigam ke kaam, MLA ne bhoomi-pujan kiya. Status: kaam shuru (bhoomi-pujan stage). Article par date nahi thi — crawl recency aur naye jiladhyaksh (Raisingh Sendhav) ke aadhar par Sep 2026 anumanit, isliye sourceLabel me (est.) joda. Source chhota local portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: '125 crore ke Dewas road package ki ghoshna (Ujjain Road-Nagukhedi four-lane, MG Marg, ward works)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dewas Live, Nov 2024',
+    date: '2024-11-15',
+    sourceUrl: 'https://dewaslive.com/mla-shrimant-pawar-development-projects-dewas-5036.html',
+    note: 'Stage: ghoshna — bina GO/order-number ke swikriti ka dawa nahi mana ja sakta, isliye swikriti stage nahi di. Ghoshna mahapaur/vidhayak pratinidhi Durgesh Agrawal ne "vidhayak ke netritva me" di. Article me 92.53 cr (Ujjain Road-Nagukhedi four-lane) ki DPR swikrit aur 6 cr MG Marg ki swikriti+tender ka dawa hai, par koi GO/order number nahi. Ward works (7.5 cr) me 2.5 cr vidhayak-nidhi (ye vidhayak-nidhi/MLA fund hai, sansad-nidhi/MP fund nahi) + 5 cr nigam nidhi. Credit-pardarshita: ye rajya (Mukhyamantri Adhosanrachna) aur nagar-nigam yojnaon ke kaam; MLA ki seedhi bhoomika article me sirf "netritva" ke roop me report hui. Status: ghoshna stage; inhi me se Gajra Gears-BNP Gate aur Beema-Karmdeep ke revised-scope works ka bhoomi-pujan Sep 2026 me hua (alag entry dekhen).',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['manoj-narayansingh-choudhari'] = [
+  {
+    title: 'Hatpipliya town: Rs 1.6 cr Chapra-Indore road entrance to Bajrang Chowraha widening + Rs 50 lakh Bajrang Chowraha to old bus stand road — lokarpan/bhoomi-pujan by MLA',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar, Oct 2024',
+    date: '2024-10',
+    sourceUrl: 'https://www.bharatsagar.page/2024/10/blog-post_52.html',
+    note: 'Navratri 2024: ~Rs 3.15 cr ke Hatpipliya Nagar Parishad works package ka lokarpan aur bhoomi-pujan vidhayak Manoj Choudhari ke mukhya atithya me hua. Status: poora hua kaam ka lokarpan + naye kaam ka bhoomi-pujan, dono ek hi karyakram me. Credit-pardarshita: vidhayak ki bhoomika karyakram (mukhya atithi) tak; kaam Nagar Parishad ke. GO/order number article me nahi. Chhota local portal.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Hatpipliya town: Rs 50 lakh Narmada pani tanki nirmaan — lokarpan/bhoomi-pujan by MLA',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar, Oct 2024',
+    date: '2024-10',
+    sourceUrl: 'https://www.bharatsagar.page/2024/10/blog-post_52.html',
+    note: 'Usi Rs 3.15 cr package me Rs 50 lakh ki Narmada pani tanki ka nirmaan (Nagar Parishad dwara); lokarpan/bhoomi-pujan vidhayak ke mukhya atithya me. Status: poora hua kaam ka lokarpan + naye kaam ka bhoomi-pujan. Credit-pardarshita: karyakram-bhoomika tak hi; GO/order number article me nahi. Chhota local portal.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khajuriya Bina: Narmada peyjal tank-to-tap water supply ka shubharambh by MLA',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar, Jan 2026',
+    date: '2026-01',
+    sourceUrl: 'https://www.bharatsagar.page/2026/01/blog-post_2.html',
+    note: 'Rajya sarkar ki Narmada peyjal yojana (Rs 247 cr) ka sthaniya shubharambh — vidhayak mukhya atithi, unhone pani chalu karaya. Status: poora hua kaam ka shubharambh (launched/completed). Credit-pardarshita: yojana rajya sarkar ki hai; vidhayak ki bhoomika shubharambh-karyakram tak seemit. Chhota local portal.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khajuriya Bina: Rs 25 lakh samuhik bhavan + Rs 4 lakh mandir chadar set — bhoomi-pujan by MLA',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bharat Sagar, Jan 2026',
+    date: '2026-01',
+    sourceUrl: 'https://www.bharatsagar.page/2026/01/blog-post_2.html',
+    note: 'Usi shubharambh-karyakram me Rs 25 lakh ke samuhik bhavan aur Rs 4 lakh ke mandir chadar set ka bhoomi-pujan sampann hua. Status: shilanyas/bhoomi-pujan (kaam shuru hone wala). Nidhi ka srot (vidhayak-nidhi ya anya) article me spasht nahi. Chhota local portal.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shivpur Mundla: Rs 10 lakh main puliya nirmaan — bhoomi-pujan by MLA',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, Jan 2026 (est.)',
+    date: '2026-01',
+    sourceUrl: 'https://voiceofmp.com/user/description/Description_control/news_description/336153',
+    note: 'Nevri kshetra ke gram Shivpur Mundla me Rs 10 lakh ki mukhya puliya ke nirmaan ka bhoomi-pujan vidhayak ke mukhya atithya me sampann hua. Status: shilanyas/bhoomi-pujan (kaam shuru hone wala). Date article par nahi thi — image filename timestamp (2026-01-10) se anumaanit. Chhota local portal.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shivpur Mundla: baal vatika — lokarpan by MLA',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Voice of MP, Jan 2026 (est.)',
+    date: '2026-01',
+    sourceUrl: 'https://voiceofmp.com/user/description/Description_control/news_description/336153',
+    note: 'Usi karyakram me Shivpur Mundla ki baal vatika ka lokarpan hua. Status: poora hua kaam ka lokarpan. Date article par nahi thi — image filename timestamp (2026-01-10) se anumaanit. Chhota local portal.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['aashish-govind-sharma'] = [
+  {
+    title: 'Harangaon me lagbhag Rs 1 crore lagat se naya bus stand bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar (est. Apr 2026)',
+    date: '2026-04',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dewas/khategaon/news/ashish-sharma-inaugurates-bus-stand-harangaon-vikas-ghoshna-137654800.html',
+    note: 'Khategaon janpad ke Harangaon gaon me naya bus stand bhavan (lagbhag Rs 1 crore) ka lokarpan swayam MLA Aashish Sharma ne kiya, Dainik Bhaskar ki report ke anusar. Credit-pardarshita: ye sarkari bus stand pariyojna thi, MLA ki concrete bhoomika lokarpan thi. Status: poora hua kaam / lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khategaon me Rs 37.34 crore lagat se CM Rise school bhavan ka bhoomi-pujan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar (est. Mar 2024)',
+    date: '2024-03',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dewas/khategaon/news/cm-rise-school-building-will-be-built-with-rs-3734-crores-132729934.html',
+    note: 'Lok Sabha chunav ki aachar sanhita lagne se pehle MLA Aashish Sharma ne Khategaon me CM Rise school bhavan (Rs 37.34 crore, 86 kamre) ka bhoomi-pujan kiya. Credit-pardarshita: ye rajya sarkar ki CM Rise yojana ka bhavan hai, MLA ki concrete bhoomika bhoomi-pujan thi. Status: shilanyas-bhoomi pujan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khategaon nagar me Rs 1.32 crore RCC nala ka bhoomi-pujan aur Rs 4 lakh CC road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'rashtiyaekta.com, Jan 2025 (chhota local portal)',
+    date: '2025-01-12',
+    sourceUrl: 'https://rashtiyaekta.com/a-gift-of-crores-to-khategaon-mla-ashish-sharma-performed-bhoomi-pujan/',
+    note: 'Khategaon nagar parishad me SDRF ke tahat wards 3, 4, 9, 11 me Rs 1.32 crore RCC nala nirman ka bhoomi-pujan aur ward 4 me Rs 4 lakh CC road ka lokarpan MLA Aashish Sharma ke mukhya atithya me hua. Credit-pardarshita: SDRF rajya sarkar ka fund, karyanvayan nagar parishad ka; MLA ki concrete bhoomika bhoomi-pujan/lokarpan karyakram thi. Disclosure: rashtiyaekta.com chhota local portal hai. Status: shilanyas-bhoomi pujan + poora hua kaam / lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khategaon ward 3 me CC road aur RCC nala ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'bhoomiindianews.in, Mar 2025 (chhota local portal)',
+    date: '2025-03-23',
+    sourceUrl: 'https://bhoomiindianews.in/17164/',
+    note: '23.3.2025 ko Khategaon ward 3 me CC road aur RCC nala ka lokarpan MLA Aashish Sharma ke mukhya atithya me hua. MLA ne apne sambodhan me dawa kiya ki PWD ke adhin jameen hone ke karan badha thi, jise unhone PWD minister se baat karke prashast karaya — ye MLA ka swayam ka dawa hai, swatantra pushti nahi. Disclosure: bhoomiindianews.in chhota local portal hai. Status: poora hua kaam / lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Panigaon me Rs 1 crore lagat se naye prathmik swasthya kendra bhavan ka bhoomi-pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'rashtiyaekta.com, Dec 2024 (chhota local portal)',
+    date: '2024-12-31',
+    sourceUrl: 'https://rashtiyaekta.com/new-building-of-primary-health-center-worth-rs-1-crore-will-be-constructed-in-this-village-of-khategaon-assembly/',
+    note: 'Khategaon vidhan sabha ke Panigaon gaon me naye prathmik swasthya kendra bhavan (lagbhag Rs 1 crore) ka bhoomi-pujan MLA Aashish Sharma ne kiya. Credit-pardarshita: ye sarkari health-infra pariyojna hai, MLA ki concrete bhoomika bhoomi-pujan thi. Disclosure: rashtiyaekta.com chhota local portal hai. Status: shilanyas-bhoomi pujan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Harangaon me samudayik bhavan, nadi par puliya, transformer aur college/CM Rise school ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar (est. Apr 2026)',
+    date: '2026-04',
+    sourceUrl: 'https://www.bhaskar.com/local/mp/dewas/khategaon/news/ashish-sharma-inaugurates-bus-stand-harangaon-vikas-ghoshna-137654800.html',
+    note: 'Bus stand lokarpan manch se MLA ne Harangaon ke liye samudayik bhavan, purane Ameli marg par nadi par puliya, naya bijli transformer, badi bus sewa, aur bhavishya me college/CM Rise school khulne ki ghoshnaein ki. Article me inke liye koi GO/swikriti order ka zikr nahi — isliye ye ghoshna stage par hai, swikriti nahi. Status: ghoshna.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['murli-bhawara'] = [
+  {
+    title: 'Ranjit Bridge (Kalisindh nadi) ka bhoomi pujan — Ranjit Dam se Jatashankar Lok, ~100 gaon judenge, Rs 1.09 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Free Press Journal, May 2026',
+    date: '2026-05',
+    sourceUrl: 'https://www.freepressjournal.in/topnews/mla-murli-bhanwra-performs-bhoomi-pujan-for-ranjit-bridge-in-mps-bagli-over-100-villages-to-benefit',
+    note: 'MLA Murli Bhanwra ne Kalisindh nadi par proposed Ranjit Bridge ka bhoomi pujan kiya; PWD officer (Santosh Gupta) ke anusar lagat Rs 1.09 crore, 6 mahine me poorn hone ka lakshya; pull Ranjit Dam ko Jatashankar Lok se jodta hai aur ghati ke neeche ke ~100 gaon ko Bagli shahar se jodega — ilake ki lambe samay se pending maang. Credit-pardarshita: ye PWD/raajya-sarkaar ka project hai, MLA ki bhoomika bhoomi pujan karna (article unki commitment ko project se jodta hai, PWD officer ne lagat/timeline di). Status: shilanyas-bhoomi pujan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bhamori Gram Panchayat me 240m CC road ka bhoomi pujan (Imli Chauraha se Gaushala tak), Rs 10 lakh — vidhayak nidhi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, Dec 2025',
+    date: '2025-12',
+    sourceUrl: 'https://www.patrika.com/dewas-news/240-meter-long-cc-road-will-be-constructed-at-a-cost-of-10-lakh-rupees-20199305',
+    note: 'Bhamori Gram Panchayat me Imli Chauraha se Gaushala tak ~240m CC road ka MLA ne bhoomi pujan kiya; lagat Rs 10 lakh. Ye vidhayak-nidhi (MLA fund) hai, sansad-nidhi (MP fund) nahi. Article ke infobox ke anusar nirman karya shuru ho gaya hai (bhoomi pujan sampann). Status: shilanyas-bhoomi pujan, kaam shuru.',
+    period: '2023-2028',
+  },
+  {
+    title: 'CM se Loharda nagar parishad vikas karyon hetu Rs 1 crore aur Karneshwar Mandir saundaryikaran hetu Rs 20 lakh ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribal Post, May 2025',
+    date: '2025-05',
+    sourceUrl: 'https://www.thetribalpost.com/2025/05/blog-post_94.html',
+    note: 'Bagli MLA ke saath Loharda aur Karnawad nagar parishad ke pratinidhiyon ne CM Dr. Mohan Yadav se saunjanya bhent ki; CM ne Loharda nagar parishad ke vikas karyon hetu Rs 1 crore aur Karnawad ke Karneshwar Mahadev mandir ke saundaryikaran hetu Rs 20 lakh dene ki ghoshna ki. Credit-pardarshita: ye CM/raajya-sarkaar ki ghoshna hai — MLA ki concrete bhoomika maang uthana aur pratinidhimandal CM tak le jana (article title "vidhayak ke prayason se" ka dawa karta hai). Note: chhota local portal hai; article me GO/sanction-order number nahi — isliye stage ghoshna, swikriti nahi. Status: ghoshna.',
+    period: '2023-2028',
+  },
+];
+
+// PARENT QA NOTE (2026-10-14): murli-bhawara ki Glibs (chhota local portal, ekmatra source) wali
+// 'antarjateeya vivah virodh' negative entry HATA di gayi — negative entry ke liye hamara star
+// credible (rashtriya/established) reporting + case/FIR/adhikarik karwai ki sthiti hai; isme na
+// koi case tha, na MLA ka paksh; sirf samudaik virodh tha. Kamzor attribution se khaali behtar.
+
+// REJECT-LOG (Dewas district batch, researched 2026-10-14):
+// KEPT: dr-rajesh-sonkar = 6; gayatri-raje-puar = 6; manoj-narayansingh-choudhari = 6; aashish-govind-sharma = 6; murli-bhawara = 3 (ek negative entry parent QA me hati). Total 27.
+// REJECTED — Dr. Rajesh Sonkar (Sonkatch SC, BJP):
+// - Truth24 (Oct 2026): Narmada-Kalisindh link pariyojna ka pumping-house nirikshan — sirf nirikshan/daura, reject.
+// - Truth24 (Oct 2026): "182 gaon ko Narmada jal milega" — bhavishya-khabar ("milegi"), reject.
+// - Truth24.live (Jul 2025): collector se vikas karyon par charcha/baithak — maang/prastav level, reject.
+// - ETV Bharat (Dec 2025): helicopter se school bachchon ki sair (niji kharch ka karyakram) — vikas karya nahi, reject.
+// - Mantri Vijayvargiya ka Sonkatch Rs 17.54 cr bhoomi-pujan/lokarpan event (29 Oct 2025): bhumi-pujan/lokarpan mantri ne kiya; MLA keval maujood — keval maujoodgi, reject.
+// - stgrevamp.news18.com election pages — staging/preprod mirror, reject.
+// - YouTube Shorts (Raebareli Report): galat vyakti (Shatrohan Sonkar) + YouTube-only, reject.
+// - epaperapi.jagran.com Naiduniya PDF OCR snippet: poora article kholkar padhna sambhav nahi — snippet se entry banana mana hai, reject.
+// REJECTED — Gayatri Raje Puar (Dewas, BJP):
+// - dewastimes.com (~2021): 4.34 cr lokarpan event — Dec 2023 se pehle, reject.
+// - constructionworld.in: CM Shivraj ko CM bataya = pre-Dec 2023, reject.
+// - dewastimes.com (~2018): nagar nigam prashasanik bhawan lokarpan — pre-term, reject.
+// - npg.news (7 Aug 2024): CM Mohan Yadav ke 172 cr event me MLA ki keval maujoodgi, reject.
+// - maabhagwatitimes.in (Sep 2024): mahapaur sammelan sambodhan — keval maujoodgi, reject.
+// - maabhagwatitimes.in (Oct 2023): pre-term + keval rajnaitik bayan, reject.
+// - public.app (Dec 2025): bhandare me shamil hona — maujoodgi + public.app-only, reject.
+// - Kosar Express YouTube (Dec 2023): vijay julus — YouTube-only, reject.
+// - devdiscourse.com: cricket celebration par jaanch ki maang — rajnaitik bayan, reject.
+// - patrika.com: royal family property dispute — parivar ka case MLA par kabhi nahi, reject.
+// - pinewz.com (9 Jul 2025): video-only page, kamzor attribution, reject.
+// - voiceofmp.com news/338824: duplicate URL (canonical news/338827 liya), reject.
+// REJECTED — Manoj Narayansingh Choudhari (Hatpipliya, BJP):
+// - Rajouda-Kelod-Doublechowki road ~Rs 97.62-98 cr (Amar Ujala/ABP Live/aadi, Sep 2026): CM ne virtually bhoomi-pujan kiya; MLA sirf karyakram me maujood — keval maujoodgi, reject.
+// - Sukhaliya-Tigariya road ~Rs 11.4 cr (Sep 2026): sirf CM-ki-ghoshna, MLA ka role nahi, reject.
+// - Shivpur Mundla mandir chadar Rs 5 lakh (voiceofmp): ghoshna-type khabar, sanction saboot nahi, reject.
+// - Hatpipliya civil hospital nirikshan (bharatsagar, Jul 2025): sirf nirikshan, reject.
+// - Bhaunrasa toll plaza par bhatije Nikhil Chaudhary ka hungama (Patrika/Amar Ujala, Aug 2025): parivar ka case MLA par kabhi nahi, reject.
+// - TOI video (Feb 2023): sahayak par hamla — pre-term + sahayak ka case, reject.
+// - Zee News (~2018): MLA ka road accident — pre-term vyaktigat durghatna, reject.
+// - News18 (Mar 2020): bhai ki habeas corpus yachika — pre-term siyasi mamla, reject.
+// - bharatsagar 2019/2022 articles: pre-term, reject.
+// - public.app videos (panchayat bhavan lokarpan, Borkheda-Dabri marg, CM-mulakat): public.app-only, reject.
+// - YouTube "Vikas Purush Manoj Chaudhary" (Sep 2026): YouTube-only promo, reject.
+// REJECTED — Aashish Govind Sharma (Khategaon, BJP):
+// - indiancrimenews.com (Nemawar, ~Oct 2023): pre-term, reject.
+// - public.app video (18 Sep 2026, blood storage unit): public.app-only, reject.
+// - YouTube videos (blood storage, raincoat, tubewell, interview, mandal karyakram, chia beej): YouTube-only, reject.
+// - pradeshvistar.com (8 Jan 2025, samiksha baithak): sirf samiksha/daura, reject.
+// - hamaradewas.com (20 Jun 2025, Indore Index hospital "Kilkari" kendra): kshetra se bahar + keval upasthiti, reject.
+// - seetimes/thebharatnow/eksatbulletin (Rajoda-Kelod road): Hatpipliya ka kaam; Khategaon MLA keval manch par — keval maujoodgi, reject.
+// - bharathorizon.com (DISHA meeting): keval upasthiti, reject.
+// - dainikjagranmpcg English (budget session): vidhan sabha mudda — kshetra ka kaam nahi, reject.
+// - bhoomiindianews volleyball association: pad, vikas kaam nahi, reject.
+// - etvbharat/divyahimachal/ujjwalhimachal: galat vyakti (HP Hamirpur ke Ashish Sharma), reject.
+// - Business Standard/Wikipedia/News18/TOI/Oneindia: keval chunav data, reject.
+// REJECTED — Murli Bhawara (Bagli ST, BJP):
+// - public.app video (Karneshwar mandir Annapurna Kaksh lokarpan, MLA nidhi Rs 12L): public.app-only — non-public.app source nahi mila, reject.
+// - public.app video (Satwas CM-bhent, Mar 2024): public.app-only + koi concrete kaam nahi, reject.
+// - malwaabhitak.com: nirman karyon ki sameeksha baithak — sirf nirikshan, reject.
+// - YouTube ("3 crore vikas karyon ka bhoomi pujan"): YouTube-only, reject.
+// - YouTube (Tiranga yatra, Satwas): YouTube-only + publicity event, reject.
+// - pratahkal.com (Radheshyam Bairwa, Baran): galat vyakti/galat kshetra, reject.
+// - FPJ (Rs 10 crore grant): rajya-sarkaar grant, MLA ki concrete bhoomika nahi — kamzor attribution, reject.
+// - anokhateer.com (CM ghoshnaein: thana/awas/godam): MLA keval upasthit — maujoodgi, reject.
+// - Zee News ("Tejomahal" bayan): sirf rajnaitik bayan, reject.
+// NOTE: murli-bhawara ki CM-mulakat wali khabar (The Tribal Post, May 2025) me "swikriti" shabd tha, lekin GO/sanction-order number ke bina Chhindwara-precedent se stage GHOSHNA rakha gaya — swikriti nahi.
