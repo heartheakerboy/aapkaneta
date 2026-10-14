@@ -1627,3 +1627,67 @@ tamilNaduWorks['r-v-ranjithkumar'] = [];
 // 8. SEAT-WORK NATIJA: May-Oct 2026 me English press me Kancheepuram AC seat par unki vyaktigat seat-level bhoomika wala koi qualifying entry (sadak/paani/school/aspatal/any, poora/lokarpan/swikriti/shilanyas/ghoshna stage) NAHI mila. Pehli baar ke MLA jo turant mantri bane; karkaal sirf ~5 mahine purana — khaali profile imaandari hai.
 
 // COORDINATOR QA NOTE (Kancheepuram, 15 Oct 2026): 3/3 fragments khud padhe; sabhi assignment-style, marker 1x, koi overwrite nahi (sabhi slugs append se pehle 0 matches); 0 Devanagari/Tamil script, 0 rupee symbol, 0 literal-\n; entry objects me 0 comments; period field N/A (koi entry nahi). Munirathinam fragment ki worker-level batch-marker line hata di. 3/3 profiles imaandari se khaali: Thennarasu.K aur R.V. Ranjithkumar dono 21 May 2026 ko cabinet mantri bane (NRT Welfare/Refugees & Evacuees; Forests) — unki saari coverage state-level portfolio/ceremonial; Munirathinam.J backbencher — English press me May-Oct 2026 me koi qualifying seat-level kaam nahi mila.
+
+
+// ---- Kanniyakumari district batch (researched 2026-10-15) ----
+// Sabha ~5.5 mahine purani (parinaam 4 May 2026) — 6/6 profiles imaandari se khaali; reject-logs audit trail ke liye neeche.
+tamilNaduWorks['thalavai-sundaram-n'] = [
+];
+tamilNaduWorks['austin'] = [
+];
+tamilNaduWorks['tharahai-cuthbert'] = [
+];
+tamilNaduWorks['chellaswamy-r'] = [];
+tamilNaduWorks['praveen-t-t'] = [
+];
+tamilNaduWorks['rajesh-kumar-s'] = [
+];
+
+// REJECT-LOG (Kanniyakumari district — research 15 Oct 2026)
+// thalavai-sundaram-n (AIADMK, Kanniyakumari AC):
+// 1. DMK ke R. Mahesh ki chunav-yachika (Madras HC, June 2026, DT Next/Indian Express) — REJECT: chunav-yachika akeli negative nahi (214 vote ke antar par jeet).
+// 2-5. Pre-May 2026 kaam (revenue division memorandum Apr 2025, Thirukkural Express maang Apr 2025, Oman machhuara patra Nov 2023, coconut centre 2020-21) — REJECT: purana karyakaal.
+// 6. Chunav prachaar khabrein (Mar-Apr 2026) — REJECT: chunav khabar, kaam nahi.
+// 7. Shapath-samaroh party khabar (Mathrubhumi, 11 May 2026) — REJECT: prakriya khabar, kaam nahi.
+// 8. MP V. Vijay Vasanth ka samudra-kshay mudda — REJECT: MP ka kaam, MLA par nahi.
+// 9. YouTube-only/aggregator listings — REJECT: srot nahi.
+// austin (DMK, Nagercoil AC):
+// 1. Udhayanidhi ke 131 projects foundation (Mar 2026), CM ke Rs 1785.37cr projects (Feb 2026) — REJECT: pre-term, Austin ka role nahi.
+// 2. Independence Day welfare Rs 14.12cr (15 Aug 2026) — REJECT: Collector ne baanta; welfare daan waise bhi nahi.
+// 3. Minorities Welfare mantri review (Sep 2026) — REJECT: mantri karyakram, seat-level role nahi.
+// 4. CM Vijay ke state projects (Aug 2026) — REJECT: rajya faisla, seat ka kaam nahi.
+// 5. Coastal discontent story (Apr 2026) — REJECT: sirf maang, stage nahi.
+// 6-7. Election reporting — REJECT: kaam nahi.
+// 8. Nagercoil railway yard (Tamil Samayam, Oct 2026) — REJECT: Railways project, role nahi.
+// tharahai-cuthbert (INC, Colachal AC):
+// 1. Dinamani 10 Oct 2026: school education minister ko petition (Colachel school upgrade + 10 schools fund maang) — REJECT: sirf maang, swikriti nahi.
+// 2. Madras HC ne CPI(ML) ki election petition kharij (~Aug 2026, Bar & Bench) — REJECT: chunav-yachika akeli negative nahi (unke favour me bhi gayi).
+// 3. CLP leader appointment (DT Next, 14 Aug 2026) — REJECT: raajneetik post, kaam nahi.
+// 4. Assembly front-row seat allotment (The Hindu, 31 Aug 2026) — REJECT: kaam nahi.
+// 5. Pre-election vaade (Apr 2026) — REJECT: term se pehle, stage ka saboot nahi.
+// 6. Colachel/Vaniyakudi harbour projects — REJECT: bandargah trap (2021 se state projects, unki dastavezi bhoomika nahi).
+// 7. Vilavancode purana term (2024-26) — REJECT: alag seat + purana karyakaal.
+// chellaswamy-r (CPI(M), Padmanabhapuram AC):
+// 1. Chunav-jeet reporting (May 2026) — REJECT: kaam nahi.
+// 2. Pre-poll pieces (Apr-Mar 2026) — REJECT: pre-term.
+// 3. Kaladi Mammudu stadium dheemi gati (Chenab Times, Apr 2026) — REJECT: pre-term + purane MLA Mano Thangaraj ka kaam.
+// 4. Quarrying articles (2024) — REJECT: period bahar / doosra AC.
+// 5. IREL mining-permit condemnation (Jul 2026) — REJECT: CPI state secretary ka party statement.
+// 6. Affidavit 1 purana case — REJECT: bina nayi sthiti ke negative nahi.
+// praveen-t-t (INC, Vilavancode AC):
+// 1. Sadan me pehla bhashan (ABP Nadu, 11 Aug 2026) — REJECT: sirf maang/prayas, stage nahi.
+// 2. Minorities Welfare mantri baithak (The Hindu, 12 Sep 2026) — REJECT: sirf maujoodgi; Rs 2cr church ghoshna mantri ki.
+// 3. Pre-chunav ummidvaari khabar (ETV Bharat, Apr 2026) — REJECT: pre-term.
+// 4. "ED case sahit 7 cases" daava — REJECT negative: FIR/adalaati sthiti ki tasdeeq nahi.
+// 5. Vijayadharani ke purane kaam — REJECT: naam-trap, alag neta.
+// rajesh-kumar-s (INC, Killiyoor AC; 21 May 2026 se Tourism mantri):
+// 1. Road inspection Mangaadu-Munsirai (The Hindu, 30 Aug 2026) — REJECT: sirf nirikshan, stage nahi.
+// 2. Rs 6.73cr welfare vitaran (The Hindu, 25 Jul 2026) — REJECT: welfare.
+// 3. Baby shower gifts (The Hindu, 6 Oct 2026) — REJECT: charity.
+// 4. Nanjil Naadu food festival — REJECT: tourism event.
+// 5. DRDA review meeting (16 Jul 2026) — REJECT: sirf samiksha/maujoodgi.
+// 6. 436 tourism projects plan (26 Jun 2026) — REJECT: rajya plan, AC-specific nahi.
+// 7. Bete ka durghatna — REJECT: parivar ka mamla.
+// 8. Killiyoor election petition (The Week, 10 Jun 2026) — REJECT: akeli yachika negative nahi.
+// 9. Pre-election interview plans (19 Apr 2026) — REJECT: pre-term.
+// COORDINATOR QA: 6 fragments padhe — format exact, koi overwrite nahi, 0 Devanagari/Tamil script, 0 Rs-symbol issue, entry objects me 0 comments; sabhi 6 blocks empty arrays — sabha ~5 mahine purani, 2 vipaksh + 1 CPI(M) MLA, khaali imaandar hai.
