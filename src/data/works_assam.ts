@@ -50,3 +50,53 @@ assamWorks['thaneswar-basumatary'] = [];
 assamWorks['maneswar-brahma'] = [];
 
 // REJECT-LOG (maneswar-brahma): profile KHAALI raha — qualifying entry koi nahi mili. Reject kiye gaye najdeeki ummeedwar: (1) India Today NE, 18 Jun 2026 — Jan Kalyan Shivir Baksa me Brahma ki upasthiti — sirf maujoodgi, reject; (2) India Today NE, 10 Jun 2026 — Guardian Minister Charan Boro ki review meeting me Brahma maujood — sirf maujoodgi, reject; (3) India Today NE, 1 Jul 2026 — BTC Chief Hagrama Mohilary ki Baksa development projects review me Brahma maujood — sirf maujoodgi, reject; (4) India Today NE, 29 Aug 2026 — August DDC meeting me Brahma maujood — sirf maujoodgi, reject; (5) India Today NE, 4 Jul 2026 — DDMA flood-readiness assessment meeting me Brahma ke remarks (relief camps me paani/machchhardani ki maang) — samiksha-meeting me sirf nirikshan+maang, koi poorn kaam/lokarpan/swikriti/shilanyas nahi, reject; (6) Hagrama Mohilary ka X post — Asom Mala 3.0 ke tahat Baksa ke teen sadak projects ka shilanyas Hagrama ne kiya, Brahma ko 'former MLA' ke roop me mention kiya gaya — karyakaal se pehle + BTC faisla jisme MLA ki apni concrete bhoomika nahi, reject; (7) Sentinel/E-India TV NE May 2026 — chunav parinaam coverage — chunav khabar, kshetra-kaam nahi, reject; (8) New Indian Express/Assam Tribune Mar 2026 — BPF candidate list ghoshna — chunav se pehle, reject. Koi negative (aarop/FIR/janch) news bhi nahi mili.
+
+
+// ---- Barpeta district batch (researched 2026-10-14) ----
+
+assamWorks['sherman-ali-ahmed'] = [];
+
+// REJECT-LOG (sherman-ali-ahmed): profile KHAALI raha — qualifying entry koi nahi mili. (1) ALA Digital Library, Unstarred Question No. 77 (reply date 07/07/2026, Budget Session 2026): Mandia LAC me JJM schemes defunct hone aur Tapajuli Pathar/Balikuri NC me iron-content zyada hone par sarkar se jawab/karvai ki maang — sirf maang (Assembly question), koi poorn kaam/lokarpan/swikriti/shilanyas nahi, reject. (2) newsdeskreport.com, 19 Sep 2026: Nagaon Lok Sabha bypoll se Assam TMC candidate ki wapasi par Sherman Ali (Assam TMC state convenor) ka EC ke khilaf bayan — party-political activity, kshetra-vikas nahi, reject. (3) Pratidin Time (pre-poll, Apr 2026): chunav prachar me cash-distribution ki complaint Congress agent dwara RO ko — karyakaal-se-pehle ka chunavi vivad; koi FIR/case/outcome established media me report nahi, negative criteria poora nahi, reject. (4) IndiaTodayNE/TMC second list (Mar 2026) aur party-switch coverage — chunav-se-pehle, reject. (5) IndiaTodayNE video, 12 Nov 2025: Zubeen Garg memorial bridge plaque me laprvahi par contractor ko dant — karyakaal se pehle + sirf sthal-nirakshan/dant, reject. (6) Guwahati Times ~May 2026: jeet ke baad community ko shiksha par dhyan dene ka sandesh — sirf bayan, kaam nahi, reject. (7) Maktoob Media profile (May 2026) me Baghbar karyakaal ke dauran Government Model School + Model Degree College ki sthapna aur 100+ chhatron ki shiksha me vyaktigat madad — sab 2011-2026 purane karyakaal ka kaam, reject (karyakaal se pehle). (8) Chunav parinaam coverage (TOI/IndiaTodayNE/Indian Express/The Hindu/Wikipedia) — kaam-khabar nahi, reject. Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['abdur-rahim-ahmed'] = [];
+
+// REJECT-LOG (abdur-rahim-ahmed): profile KHAALI raha — qualifying entry koi nahi mili. (1) The Sentinel, ~Aug 2026: Assam Congress MLAs ki flood-hit districts (Sivasagar/Jorhat/Charaideo) ke daure wali teams me Abdur Rahim Ahmed Jorhat team me — sirf team-daura/samiksha, koi poorn kaam/lokarpan/swikriti/shilanyas nahi, reject. (2) delhinews.net (ANI), 6 May 2026: EVM aur chunav parinaam par 'doubt' wala bayan — political statement, kshetra-kaam nahi, reject. (3) 2021-26 Barpeta (AC-43) ke karyakaal ke kaam scope se bahar — karyakaal se pehle, reject. (4) Chunav parinaam/candidate-list coverage (TOI/Indian Express/The Hindu/Pratidin Time/The Sentinel) — kaam-khabar nahi, reject. (5) Pre-poll prachar coverage (prokerala, Mar 2026) — chunav se pehle, reject. Koi qualifying negative reporting established media me nahi mili. Profile imaandari se khaali rahi.
+
+assamWorks['dipak-kumar-das'] = [
+  {
+    title: 'Barpeta ke Rangghar sanskritik sangathan ke naye greenroom ka udghatain kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sentinel, 1 Jun 2026',
+    sourceUrl: 'https://www.sentinelassam.com/north-east-india-news/assam-news/rangghar-inaugurates-new-greenroom-prepares-for-national-drama-festival-in-barpeta',
+    date: '2026-05-31',
+    note: 'The Sentinel ki 1 Jun 2026 ki reporting ke mutabiq Barpeta ke pramukh samaajik-sanskritik sangathan Rangghar ke naye greenroom ka udghatain vidhayak Dipak Kumar Das ne 31 May 2026 (Ravivar) ko kiya; usi din sangathan ne 32ve Rashtriya Natak Mahotsav ki taiyariyon par charcha ke liye samiti bhi gathit ki. Stage: poorn (lokarpan). Disclosure: greenroom Rs 5 lakh ki laagat se Rajya Sabha sansad Kamakhya Prasad Tasa ke MPLAD fund se bana hai — fund sansad ka hai, vidhayak ne poorn bhavan ka udghatain karke use janta ko samarpit kiya.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Barpeta me Mukhyamantri ki shahri paki-sadak yojna ke tahat Rs 8.6 crore ki laagat se 17 sadkon ke nirman ki aadhaarshila ek hi din me rakhi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat Assamese, 15 Jun 2026',
+    sourceUrl: 'https://www.etvbharat.com/as/state/mla-deepak-kumar-das-lays-the-foundation-stone-for-the-construction-of-17-roads-in-barpeta-ass26061503377',
+    date: '2026-06-15',
+    note: 'ETV Bharat Assamese ki 15 Jun 2026 ki reporting ke mutabiq vidhayak Dipak Kumar Das ne Barpeta me ek hi din me 17 sadkon ke nirman karyon ki aadhaarshila rakhi; kul lagbhag Rs 8.6 crore ka fund dhairyit hai aur December 2026 tak nirman poora hone ka lakshya rakha gaya hai. Inme Assam sarkar ke PWD ke jarye Barpeta shahar ke Rakhal Than aur Ramrai Stadium ko jodne wali do sadkein bhi shaamil hain. Stage: shilanyas (kaam shuru, lokarpan baaki). Disclosure: yeh sadkein Mukhyamantri ki shahri paki-sadak yojna ke tahat Assam sarkar ke PWD dwara banayi ja rahi hain — swikriti/fund rajya sarkar ka hai, vidhayak ne apni samasti me shilanyas karke karyon ka shubhaarambh kiya.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Barpeta me UIDAI ke Aadhaar Seva Kendra ka udghatain karke sevaon ka shubhaarambh karvaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Guwahati Observer, 4 Sep 2026',
+    sourceUrl: 'https://guwahatiobserver.com/barpeta-aadhaar-seva-kendra-offers-enrolment-biometric-updates-and-grievance-services/',
+    date: '2026-09-04',
+    note: 'Guwahati Observer ki reporting ke mutabiq UIDAI ne Barpeta me (Sarbananda Road, Muslimpatty, purane bus-stand ke paas) apna Aadhaar Seva Kendra khola, jiska udghatain vidhayak Dipak Kumar Das ne 4 Sep 2026 ko kiya; kendra me paanch operational kit ke saath Aadhaar namankan, demographic/biometric update aur shikayat-nivaran ki suvidhaein uplabdh hain. Vidhayak ne kendra ki suvidhaon ka jayza liya aur aaspaas ke logon se iska upyog karne ki appeal ki. Stage: poorn (lokarpan). Disclosure: kendra UIDAI (Kendra sarkar) ki pariyojna hai — swikriti aur sanchalan UIDAI ka hai, vidhayak ne apni samasti me iska udghatain karke sevaon ka shubhaarambh kiya.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (dipak-kumar-das): (1) Sentinel, ~Oct 2026 — SSA Seva Sankalp health camp, Bahari High School (Chenga Development Block) me 716 labharthi; MLA ne labharthiyon se baatcheet ki — sirf maujoodgi/bhaagidaari, lokarpan/shilanyas nahi; plus sthan alag LAC (Chenga) — reject; (2) IndiaTodayNE, 26 Sep 2026 — Governor ki Nasha Mukt Bharat padayatra me MLA ne hissa liya — sirf maujoodgi, reject; (3) X post (@DipakDasBarpeta) — Barpeta Town water supply project ke shilanyas me 'attended' — PHE/rajya project me sirf maujoodgi, reject; (4) Headline8, 23 May 2026 — Speaker Ranjeet Kumar Dass ka bayan 'Dipak Kumar Das ke saath milkar Barpeta ke vikas ko prathmikta' — sirf aashwasan/bayan, reject; (5) Assembly Starred Question No. 32 (jawab 07/07/2026) — Barpeta me prastavit 100-bed aspatal ke liye vishesh budget maang — sirf Assembly maang, reject; (6) Eastern Mirror Nagaland, 28 Jul 2026 — sabhi MLAs ka ek mahine ka vetan CM Relief Fund (baadh) me daan — rajya-vyaapi saamoohik daan, vyaktigat concrete kaam nahi, reject; (7) TOI/IE/Oneindia/ZeeNews/ET/BusinessToday, May 2026 — election-result coverage — kaam-khabar nahi, reject. Koi qualifying negative reporting sthapit media me nahi mili. (8) Parent QA removal: Zubeen Garg moorti-anaavaran entry (ETV Bharat, 19 Sep 2026) batch se hatayi gayi — Kalaguru Artiste Foundation/Press Club ka community karyakram tha, MLA ki bhoomika sirf ceremonial anaavaran; Kushwaha Gate/mandir-bhoomi-pujan precedent par reject.
+
+assamWorks['jakir-hussain-sikdar'] = [];
+
+// REJECT-LOG (jakir-hussain-sikdar): profile KHAALI raha — qualifying entry koi nahi mili. Vipakshi (INC) MLA hain; May 2026 ke baad ke karyakaal me koi lokarpan/swikriti/shilanyas/poorn-kaam report nahi hua. (1) govern1.com, 03/07/2026 — Urmimala Model CLF (ASRLM, Pakabetbari Development Block) ke Community Managed Training Centre ka 2 Jul 2026 ko udghatain, MLA chief guest ke roop me — business-directory listing, sthapit media ki khabar nahi, reject; (2) guwahatitimes.com, 8 Jul 2026 — Assembly Budget Session me Beki nadi me avaidh pathar-balu khanan par MLA ka prashn — sirf Assembly prashn/maang, koi poorn kaam nahi, reject; (3) pratidintime.com, 31 Aug 2020 — BJP adhyaksh Ranjit Dass par syndicate ka aarop lagane par MLA ke khilaf Kamrup Civil Court me Rs 10 crore ka defamation suit (case 240/2020) — karyakaal se pehle + civil suit, negative-entry criteria poora nahi, reject; (4) NDTV 2023 — delimitation par MLA ke sawal — karyakaal se pehle + sirf bayan, reject; (5) ThePrint, 30 Sep 2022 — Kayakuchi PWD inspection bungalow udghatain — karyakaal se pehle + CM ka karyakram, reject; (6) ETV Bharat/TOI/IE/ABP/Wio/HT, May 2026 — election-result coverage — kaam-khabar nahi, reject. Koi qualifying negative reporting sthapit media me nahi mili.
