@@ -4312,3 +4312,87 @@ mpWorks['santosh-varkade'] = [
 // - Free Press Journal (Sihora district-status protest): andolan/vivaad reporting; neta ke khilaf nahi — koi works entry nahi, reject.
 // - nationpress.com (CM birthday wish): ceremonial, reject.
 // - Election records (myneta/News18/NDTV/Oneindia/Wikipedia/Business Standard/Indian Express/ABP Live): chunav-halafnama/profile, kshetra-kaam nahi, reject.
+
+// ---- Jhabua district batch (researched 2026-10-14) ----
+// Jhabua batch — dr-vikrant-bhuria (Jhabua ST AC-193, INC), veersingh-bhuriya (Thandla ST AC-194, INC), nirmala-dileepsingh-bhuria (Petlawad ST AC-195, BJP, Mahila evam Bal Vikas cabinet mantri).
+// NOTE: veersingh-bhuriya ko empty array nahi diya gaya — unke liye ek entry mili hai. dr-vikrant-bhuria ke liye koi pass hone wali entry nahi mili (profile khaali rahegi).
+
+mpWorks['nirmala-dileepsingh-bhuria'] = [
+
+  {
+    title: 'Jhabua jile me 12 nai sadkon (70.08 km) ke Rs 25.74 crore nirman ki PWD dwara manzoori — Vidhayak Nirmala Bhuria ke prayason se',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 5 Dec 2025',
+    sourceUrl: 'https://www.patrika.com/jhabua-news/road-construction-sanctioned-nirmala-bhuriya-jhabua-mp-news-20150151',
+    date: '2025-12-05',
+    note: 'Patrika ke mutabik Lok Nirman Vibhag ne Jhabua jile me 12 nai sadkon (kul lambai 70.08 km, lagat Rs 25.74 crore) ke nirman ko manzoori di hai; pariyojna vittiya varsh 2025-26 ke anupoorak budget me shamil hai aur tender-prakriya ke baad nirmaan shuru hoga — stage swikriti hai, nirmaan abhi shuru nahi hua. Credit-pardarshita: article kehta hai ki Nirmala Bhuria ne kshetra-bhraman me sthaniya logon se jarjar sadkon ki samasya suni, swayam sadak-prastav taiyaar karke PWD mantri Rakesh Singh ko bheje aur vyaktigat mulakat me manzoori ka aagrah kiya; wo Mahila evam Bal Vikas vibhag ki cabinet mantri hain, lekin article me in sadkon ke liye unki bhoomika unke dastavezi prayason ke roop me spasht hai. 12 sadkon ki poori soochi article me di gayi hai (Moor-Ityaveli Petlawad marg, Jhiri-Umarkot–Deoli Mansiva marg, Jamli-Samli marg aadi).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Petlawad me Bamania road overbridge (railway LC-72) ke Rs 21.59 crore nirman ki prashasanik swikriti — Vidhayak Nirmala Bhuria ke prayason se',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Patrika, 21 Jan 2026',
+    sourceUrl: 'https://www.patrika.com/jhabua-news/new-overbridge-will-be-built-in-madhya-pradesh-at-a-cost-of-rs-21-59-crore-20280579',
+    date: '2026-01-21',
+    note: 'Patrika ke mutabik Lok Nirman Vibhag ne Petlawad Vidhan Sabha kshetra ke tahat Ratlam-Bamania bypass rajya marg par Dahod-Ratlam section ke railway level crossing-72 (km 609/10-12) par road overbridge ke nirman ki prashasanik swikriti jaari ki hai; anumaanit lagat Rs 21.59 crore, vittiya varsh 2025-26 ke budget pravdhanon ke tahat manzoori, aur Patrika ke swikriti-box me swikriti-tithi 3 Jan 2026 darj hai — stage swikriti hai, nirmaan shuru nahi hua. Credit-pardarshita: article kehta hai ki kshetriya vidhayak evam Mahila evam Bal Vikas mantri Nirmala Bhuria ne is overbridge ke liye nirantar prayas kiye aur CM Dr Mohan Yadav v PWD mantri Rakesh Singh ne prastav ko manzoori di; wo cabinet mantri hain lekin article me vidhayak ke prayason ka dastavezi ullekh hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Petlawad ke Khardu Chhoti gaon me Rs 4.65 crore ke sinchai barrage ka bhoomi-pujan — Vidhayak Nirmala Bhuria',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran (English), 5 Apr 2026',
+    sourceUrl: 'https://english.dainikjagranmpcg.com/states/madhya-pradesh/rs-465-crore-barrage-to-irrigate-280-hectares-in-jhabua/article-16553',
+    date: '2026-04-04',
+    note: 'Dainik Jagran ke mutabik Cabinet Mantri Nirmala Bhuria ne 4 Apr 2026 ko Jhabua jile ke Petlawad Vidhan Sabha kshetra ke gaon Khardu Chhoti me Rs 4.65 crore ki lagat se banne wale sinchai barrage ka bhoomi-pujan kiya; barrage se lagbhag 280 hectare krishi bhumi ko sinchai milegi. Jal Sansadhan Vibhag ke executive engineer Vipin Patidar samet vibhagiya adhikari karyakram me maujood the aur vibhag nirmaan ki nigrani karega — stage bhoomi-pujan hai, nirmaan abhi shuru hona hai. Credit-pardarshita: ye rajya-sarkar (Jal Sansadhan Vibhag) ki pariyojna hai, lekin article me vidhayak ki bhoomika bhoomi-pujan-karta ke roop me spasht hai aur karyakram unke Vidhan Sabha kshetra me hua.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nagar Parishad Petlawad me lagbhag Rs 8 crore ke vikas karyon ka lokarpan v bhoomi-pujan — Vidhayak Nirmala Bhuria',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Free Press Journal, 13 Jul 2026',
+    sourceUrl: 'https://www.freepressjournal.in/indore/cabinet-minister-nirmala-bhuria-inaugurates-development-works-worth-7994-crore-in-mps-petlawad',
+    date: '2026-07-13',
+    note: 'FPJ ke mutabik Cabinet Mantri Nirmala Bhuria ne 13 Jul 2026 ko Nagar Parishad Petlawad me vikas karyon ka lokarpan v bhoomi-pujan kiya: Pampavati nadi par Tejaji Mandir se Phuta Mandir tak sadak nirman (Rs 481.49 lakh), Amrit 2.0 yojana ke tahat Muktidham me bagicha (Rs 14.54 lakh), ward-8 me samudayik bhavan (Rs 28.86 lakh) aur angrezi-madhyam chhatrawas (Rs 275.43 lakh) — kul lagbhag Rs 8 crore; stage sanyukt lokarpan v bhoomi-pujan. Ankdon me pardarshita: FPJ ki headline me "Rs 799.4 crore" likha hai, lekin article ke andar diye gaye item-wise aankde (481.49+14.54+28.86+275.43 lakh) kul lagbhag Rs 8 crore hote hain; do Hindi sthaniya portalon (samachar20.online, todayliveindia.in) ne bhi lagbhag Rs 8 crore hi likha hai, isliye title me Rs 8 crore rakha gaya hai. Credit-pardarshita: ye nagar parishad/vibhagiya pariyojnaen hain, vidhayak (jo cabinet mantri bhi hain) ne apne Vidhan Sabha kshetra me inka lokarpan v bhoomi-pujan kiya, article me ye bhoomika spasht hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['veersingh-bhuriya'] = [
+
+  {
+    title: 'Meghnagar block ki gram panchayat Vadli Pada me Janpad-nidhi (15th Finance Commission) ke pullia v check-dam karyon ka bhoomi-pujan — Vidhayak Veersingh Bhuriya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'New India Times (Jhabua), 3 Mar 2025',
+    sourceUrl: 'https://www.newindiatimes.net/?p=148799',
+    date: '2025-03-03',
+    note: 'Article ke mutabik Thandla vidhayak Veersingh Bhuriya aur Janpad adhyaksha Lalita Mukesh Muniya ne Jhabua jile ke Meghnagar vikas-khand ki gram panchayat Vadli Pada me Janpad-nidhi se 15th Finance Commission ke tahat hone wale lakhon rupaye ke pullia-nirman v check-dam karyon ka pooja-archna karke bhoomi-pujan kiya; article me lagat ka nirdisht aankda nahi diya gaya hai — stage bhoomi-pujan hai. Credit-pardarshita: vidhayak ki bhoomika bhoomi-pujan-karta ke roop me article me spasht hai; ye Janpad-nidhi ke kaam hain, vidhayak-nidhi (MLA fund) ka ullekh article me nahi hai. Disclosure: ye chhota sthaniya portal hai (New India Times, Jhabua bureau).',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (Jhabua district batch, researched 2026-10-14):
+// REJECTED — Dr. Vikrant Bhuria (Jhabua ST, INC):
+// - TOI/Zee News (Feb 2025): All India Adivasi Congress ke rashtriya adhyaksh ki niyukti — party post, kshetra-kaam nahi, reject.
+// - Zee News (Apr 2024): mantri Nagar Singh Chauhan par vivadit bayan par Alirajpur thane me dhara 188 me FIR — chunavi-prachar ka bayan-vivad; office ke durupayog/bhrashtachar ka mamla nahi, negative-entry ke manak (case + arop ke bawjood) par bhi sirf bayan-vivad hone se reject.
+// - Zee News: Petlawad ke Para gaon me nal-jal yojana par dharne me PHE adhikariyon ko thappad marne ki dhamki — virodh/dharna/maang, reject.
+// - TheSootr (Mar 2025): vidhayak swecchhanudan nidhi ke durupayog ka arop (Mathias Bhuria ki Rajyapal ko shikayat, Vikrant v unke pita Kantilal dono par) — sirf shikayat, koi FIR/case ki sthiti nahi; pita ke maamle attribution-wirodh niyam se waise bhi kabhi nahi, reject.
+// - ETV Bharat (12 Feb 2024): PM Modi ke Jhabua daure par tipanni, adivasi anchal ke liye maangein — sirf bayan/maang, reject.
+// - Telegraph/ThePrint/TOI (Nov 2023): palayan par chunav-kaleen features — chunav data/sandarbh, kaam nahi, reject.
+// REJECTED — Veersingh Bhuriya (Thandla ST, INC):
+// - Zee News (Jan 2021): Thandla block me nal-jal yojanaon ka bhoomi-pujan — pre-tenure (Dec 2023 se pehle), reject.
+// - Zee News/NewsArenaIndia (Apr 2024): Madrani rally me "haath kaat do" bayan par EC dwara dhara 188 me FIR — chunavi bayan-vivad; sirf bayan hone se negative entry nahi banti, reject.
+// - samachar20.online (9 Oct 2026): Seva Sankalp abhiyan me Badi Dhamni jungle me paudharopan, SDM ke saath — ceremonial maujoodgi, durable kaam nahi, reject.
+// - YouTube/Public Voice News (~Jun 2026): Thandla me Rs 1.05 crore ke samudayik bhavan ka bhoomi-pujan — YouTube-only, canonical news nahi mili, reject.
+// - newindiatimes.net (Sep 2026): kshatigrast pullia marammat aur chhatrawas seat-vriddhi ke liye collector/sahayak aayukt ko patra — sirf maang/patra, reject.
+// - Business Standard video (Jun 2019): triple-riding challan par police se behas — pre-term, kaam nahi, reject.
+// REJECTED — Nirmala Dileepsingh Bhuria (Petlawad ST, BJP):
+// - public.app (19 Dec 2025): Petlawad me Rs 4.08 crore ke circuit house ka bhoomi-pujan — public.app-only, canonical coverage nahi mili, reject.
+// - YouTube (~Mar 2026): Ramgarh me Rs 3.79 crore ke stop-dam ka bhoomi-pujan — YouTube-only, canonical news nahi mili, reject.
+// - FPJ (Sep 2025): CM Mohan Yadav ka Jhabua me Rs 345 crore ka karyakram (Petlawad blast shraddhanjali + CM ghoshnaen) — wo sirf maujood thi; CM ki pariyojnaen, unki concrete bhoomika nahi, reject.
+// - mahikigunj e-paper: poorv-chunav vishleshan (~2023) — chunav coverage, kaam nahi, reject.
+// NOTED: Nirmala Bhuria Mahila evam Bal Vikas vibhag ki cabinet mantri hain — unki entries sirf Petlawad Vidhan Sabha kshetra-specific karyon par hain; article me unki bhoomika (prayas/bhoomi-pujan/lokarpan) dastavezi hai.
