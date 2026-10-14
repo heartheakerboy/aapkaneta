@@ -3791,3 +3791,160 @@ biharWorks['shweta-gupta'] = [
 // 11. Positive works: established/local media me ab tak koi shilanyas/lokarpan/swikriti (GO ke saath)/complete report nahi mili — 0 positive entries.
 
 // COORDINATOR QA (Sheohar): 1 MLA ka research direct kiya (district chhota tha, workers nahi lagaye). Kul 1 entry (1 negative) — positive profile imaandari se khaali. Shweta Gupta Samaj Kalyan mantri hain (7 May 2026 se) isliye sabse sakht mantri-niyam lagaya: seat-vishisht satyapit kaam kuch nahi mila. Bulldozer entry Live Hindustan ki text-report par rakhi (YouTube-only versions ko nahi gina); article me "raviwar" likha tha aur 7 Jun 2026 Sunday hai, isliye date wahi rakhi. Slug pehle maujood nahi tha — koi overwrite nahi; marker 1x; 0 Devanagari, 0 rupee-symbol, 0 literal \n entry object me; title Roman-Hinglish vakya; currency "Rs"; period '2025-2030'; sourceUrl canonical livehindustan.com khud khola gaya.
+
+// ---- Sitamarhi district batch (researched 2026-10-14) ----
+
+biharWorks['baidyanath-prasad'] = [];
+
+// REJECT-LOG (baidyanath-prasad, BJP, Riga AC-23):
+// 1. ETV Bharat, 26 Jan 2026 — Suppi prakhand ke Jamla me avaidh mitti-katai ke aarop par MLA Baidyanath Prasad aur graminon ne jal sansadhan vibhag ke karyapalak abhiyanta ko "bandhak" banaya. REJECT: virodh-pradarshan hai, kshetra-kaam nahi; article me MLA ke khilaf koi FIR/case/karyavahi reported nahi — negative criteria bhi fail. https://www.etvbharat.com/hi/state/bjp-mla-baidyanath-prasad-and-villagers-hostage-water-resources-department-engineer-in-sitamarhi-bihar-news-brs26012605746
+// 2. LiveHindustan, 12 Dec 2025 — jila sthapana divas samaroh me sirf maujoodgi. REJECT: sirf maujoodgi. https://www.livehindustan.com/bihar/sitamarhi/story-inauguration-of-foundation-day-ceremony-with-dignitaries-present-201765479224697.html
+// 3. Dainik Bhaskar, ~Mar 2026 — AES/chamki jagrukta program me sahbhagita. REJECT: sirf maujoodgi. https://www.bhaskar.com/local/bihar/sitamarhi/news/the-administration-is-fully-prepared-to-prevent-aes-and-appeals-for-cooperation-from-the-public-dbp-137516932.html
+// 4. medioq.com aggregator, 25 Aug 2026 — private shop udghatan me maujoodgi. REJECT: aggregator source + sirf maujoodgi.
+// 5. YouTube-only videos (press varta, chunav-vada reels) — REJECT: YouTube-only sources.
+// 6. biharinfratales.com — sadan me tarankit prashn. REJECT: sirf prashn, koi kaam nahi. Name caution: Baidyanath Prasad Mahto (JD-U MP) alag vyakti — mix nahi kiya.
+
+biharWorks['anil-kumar-bihar'] = [
+  {
+    title: 'Belahi Jayaram Gajharwa gaon me naya swasthya upkendra ka udghatan',
+    category: 'Aspataal',
+    stage: 'lokarpan',
+    date: '2026-05-29',
+    description: 'Bathnaha prakhand ke Maudah panchayat antargat Belahi Jayaram Gajharwa gaon me karodon rupaye ki lagat se bana naya do-manzila swasthya upkendra, jiska udghatan BJP vidhayak Anil Kumar ne 29 May 2026 ko feeta kaatkar kiya; prabhari chikitsa padadhikari Dr Mahima Mohan bhi maujud theen. Live Hindustan ke mutabik upkendra se Maudah, Pokharbhinda, Orlahia aur Mejarganj prakhand ke Chakarghatta, Helampur sahit darjanon gaon ke logon ko prathmik upchar, tikakaran aur matri-shishu swasthya sewayein sthaniya star par milne ki baat kahi gayi. Credit-transparency: fund source ya sanction order article me darj nahi hai — ye swasthya vibhag ka navsthapit upkendra hai, vidhayak ne iska udghatan kiya. Imaandari se disclose: Dainik Bhaskar (Aug 2026) ne report kiya ki udghatan ke lagbhag 2 mahine baad hi bhawan ki chhat tapakne lagi aur graminon ne nirman agency/sanvedak ke khilaf uchch-stariya janch ki maang ki; koi aarop vidhayak par nahi lagaya gaya.',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/sitamarhi/story-inauguration-of-new-health-sub-center-in-belahi-jayaram-gajharwa-by-bjp-mla-anil-kumar-201780079788130.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (anil-kumar-bihar, BJP, Bathnaha (SC) AC-24):
+// 1. Jagran, ~Jul 2025 — Sonbarsa me do sadkon ka shilanyas. REJECT: pre-term. https://www.jagran.com/bihar/sitamarhi-road-construction-in-sonbarsa-mla-inaugurates-development-projects-23988835.html
+// 2. LiveHindustan, 2 Mar 2024 — Mejarganj sadak shilanyas. REJECT: pre-term. https://www.livehindustan.com/bihar/sitamarhi/story-mla-laid-the-foundation-stone-of-the-road-9445824.html
+// 3. public.app items (newsriga5 channel) — political programs. REJECT: public.app-only sources. Name caution: Tikari/Bibhutipur/Minapur wale Anil Kumar MLAs alag vyakti.
+
+biharWorks['gayetri-devi'] = [
+  {
+    title: 'Baburban panchayat me saat naye paani tanki ke nirman ka shilanyas',
+    category: 'Paani',
+    stage: 'shilanyas',
+    date: '2026-01-02',
+    description: 'Parihar prakhand ke Baburban panchayat me saat naye paani tanki ke nirman ka shilanyas BJP vidhayak Gayetri Devi ne 2 Jan 2026 ko kiya; karyakram me unke pati purv vidhayak Ram Naresh Yadav, mukhiya Meenu Yadav aur sthaniya janpratinidhi maujud rahe. Live Hindustan ke mutabik poore kshetra me badi sankhya me aur paani tanki ka nirman jaldi shuru karane ki baat kahi gayi. Credit-transparency: fund source, yojana ya sanction order article me darj nahi hai — shilanyas tak ki khabar hai, isliye stage shilanyas rakha gaya hai (swikriti ke liye GO/adhyadesh ka saboot nahi mila).',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/sitamarhi/story-construction-of-seven-new-water-tanks-launched-in-baburban-panchayat-201767378470478.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (gayetri-devi, BJP, Parihar AC-25):
+// 1. public.app, 18 Sep 2026 — vidhayak-mad se Rs 20.79 lakh pul ka udghatan (details mazboot). REJECT: public.app-only source per standing rule — agar established media me mile to retry lead.
+// 2. public.app, 4 Sep 2026 — Khushnagri me school bhawan udghatan. REJECT: public.app-only source.
+// 3. LiveHindustan + ETV Bharat, 1 Sep 2025 — Ganpati pandal firing me MLA khud hamle ki shikar. REJECT: pre-term; unke khilaf koi FIR nahi — negative criteria fail.
+// 4. LiveHindustan, 12 Dec 2025 — sthapana divas samaroh me sirf maujoodgi. REJECT: sirf maujoodgi.
+// 5. medioq.com aggregator, 25 Aug 2026 — private shop me maujoodgi. REJECT: aggregator + sirf maujoodgi. Name caution: pati Ram Naresh Yadav (purv vidhayak) ke mamle MLA par nahi.
+
+biharWorks['prof-nagendra-raut'] = [
+  {
+    title: 'Pupri Nagar Parishad ki Rs 12 crore lagat wali 8 yojnaon ka shilanyas',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2025-12-24',
+    description: 'MLA Prof. Nagendra Raut ne MP Devesh Chandra Thakur ke saath sanyukt roop se Pupri Nagar Parishad ki kul Rs 12 crore lagat wali aath yojnaon ka shilanyas feeta katkar kiya; karyakram Nagar Parishad ke Janakpur Road karyalay parisar me hua aur Nagar Parishad dwara donon netaon ka samman bhi kiya gaya. Credit-transparency: ye Nagar Parishad Pupri ki nagrik-nikay yojnaen hain aur shilanyas MLA aur MP donon ne sanyukt roop se kiya, isliye shreya sajha hai; fund-source nagrik nikay ya rajya sarkar ka hai, MLA-nidhi ya vidhayak ki alag se swikriti ka koi dawa article me nahi hai. Date article ke weekday (Wednesday) se nikali gayi hai, 24 Dec 2025 (est.). Pupri Sursand AC-26 ke andar aata hai — kshetra-bahar nahi.',
+    source: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/sitamarhi/runni-saidpur/news/new-beginning-of-development-in-pupri-136759370.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (prof-nagendra-raut, JD(U), Sursand AC-26):
+// 1. LiveHindustan, 23 Dec 2025 — Pupri jansamvad me sirf vaade. REJECT: sirf vaade. https://www.livehindustan.com/bihar/sitamarhi/story-pupuri-community-welcomes-new-mla-nagendra-raut-with-development-promises-201766431441664.html
+// 2. Bhaskar, ~Jan 2026 — cricket tournament udghatan. REJECT: sirf event.
+// 3. YouTube — Sah Automobiles showroom feeta-kat. REJECT: niji vyavsay + YouTube-only.
+// 4. Bhaskar, ~Feb 2026 — Central School annual function. REJECT: sirf function.
+// 5. LiveHindustan, ~Jun 2026 — welfare camp nirikshan. REJECT: sirf nirikshan. Koi qualifying negative reporting nahi (myneta affidavit me zero cases).
+
+biharWorks['rameshwar-kumar-mehto'] = [];
+
+// REJECT-LOG (rameshwar-kumar-mehto, RLM, Bajpatti AC-27):
+// 1. Bhaskar, ~Jan 2026 — cricket tournament + "teenon prakhandon me stadium" bayan. REJECT: event + "karenge" khabar, bina swikriti.
+// 2. Bhaskar, ~Jul 2026 — Chakauti degree college ka CM Samrat Chaudhary dwara virtual udghatan. REJECT: CM karyakram me sirf maujoodgi; MLA ka "athak prayason se" dawa bina saboot ke reject.
+// 3. nbc24, ~Jan 2026 — CM Samriddhi Yatra. REJECT: CM karyakram me sirf maujoodgi.
+// 4. YouTube — Bajpatti vidyalay udghatan (purane MLA Mukesh Yadav ka karyakram). REJECT: pre-term + YouTube-only.
+// 5. biharinfratales — vidhan sabha tarankit prashn (bijli). REJECT: sirf prashn-uttar. Koi qualifying negative (affidavit me zero cases).
+
+biharWorks['sunil-kumar-pintu'] = [
+  {
+    title: 'Sitamarhi Ring Bandh sadak ke kalikaran ka shilanyas - 2.81 km, Rs 14.85 crore',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    date: '2026-03-13',
+    description: 'MLA Sunil Kumar Pintu ne DM Richi Pandey ki maujoodgi me Sitamarhi Ring Bandh sadak ke kalikaran karya ka shilanyas feeta katkar aur nariyal phodkar kiya. Ye sadak Punaura se Postmortem House hote hue Paswan Chowk aur Ambedkar Chowk tak kul 2.81 km banegi, revised estimate ke mutabiq lagat Rs 14.85 crore (1485.069 lakh), karyanvayan agency BUDCO. Credit-transparency: article ke mutabiq sadak ka karya pehle se hi swikrit tha lekin vibhinn karano se deri hui aur estimate revise hua (pehle Rs 13.95 crore), yani swikriti MLA ke shilanyas se pehle ki hai; MLA ne nirman-shubharambh ka shilanyas kiya hai. Date article ke weekday (Friday) se nikali gayi hai, 13 March 2026 (est.).',
+    source: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/bihar/sitamarhi/story-construction-of-ring-bandh-road-begins-in-sitamarhi-enhancing-city-infrastructure-201773428436427.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (sunil-kumar-pintu, BJP, Sitamarhi AC-28):
+// 1. YouTube (We News 24) — Ring Bandh wahi event. REJECT: YouTube-only.
+// 2. public.app, 21 Dec 2025 — Chitragupt mandir health camp. REJECT: public.app-only.
+// 3. LiveHindustan, 1 Jan 2026 — Biharsharif me 2 yojnaon ka shilanyas. REJECT: galat vyakti (Dr. Sunil Kumar, Biharsharif).
+// 4. univarta, 25 Apr 2026 — Sitamarhi Mahotsav me CM karyakram. REJECT: sirf maujoodgi.
+// 5. Oct 2025 MMS controversy — pre-term; FIR unki apni shikayat par darj (wo shikayatkarta, aaropi nahi); unke viruddh koi FIR nahi — negative criteria fail.
+
+biharWorks['pankaj-kumar'] = [];
+
+// REJECT-LOG (pankaj-kumar, JD(U), Runnisaidpur AC-29):
+// 1. LiveHindustan, 9 Sep 2024 — jarrar sadkon ka shilanyas. REJECT: pre-term.
+// 2. Dainik Bhaskar, ~29 Sep 2025 — RCC pul shilanyas + sadak udghatan. REJECT: pre-term (chunav se pehle).
+// 3. Amar Ujala, 16 Aug 2023 — Garha thana udghatan. REJECT: pre-term.
+// 4. LiveHindustan, 8 Oct 2026 — CHC nirikshan. REJECT: sirf nirikshan/daura.
+// 5. LiveHindustan, ~Jul 2026 — Bees-Sutri baithak chetawani. REJECT: baithak/bhashan, koi karya nahi.
+// 6. LiveHindustan — Farakka sandhi press-varta (party maang). REJECT: party campaign/maang.
+// 7. Prabhat Khabar, ~19 Sep 2026 — ADM nirikshan me maujoodgi. REJECT: sirf maujoodgi.
+// 8. LiveHindustan, ~Sep 2026 — Runni Bazar ko Rs 22 lakh swikriti DDC dwara gram panchayat ko. REJECT: MLA ka ullekh/credit nahi.
+
+biharWorks['amit-kumar'] = [
+  {
+    title: 'Bairiya land-dispute case me Ahiyapur thana ki FIR ke baad court ke search warrant par police ne Belsand MLA Amit Kumar Ranu ke Muzaffarpur aawas par 23 Aug 2026 ko lagbhag 4 ghante talashi li, jabki unki bhumika ki janch jaari hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India, 24 Aug 2026 (est)',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/patna/police-search-belsand-mlas-residence-in-land-dispute-case/articleshow/133442735.cms',
+    date: '2026-08-24',
+    note: 'Aarop: 20 Aug 2026 ko Bairiya me MLA ke bhai Sonu Singh aur unke sahyogiyon par earthmover se ghar/jhopdi todne, virodh karne walon ko gaali-galauj, maarpeet aur zameen khaali karane ki dhamki ka aarop; Prahlad Kumar ki likhit shikayat par 21 Aug ko Ahiyapur thana me 2 naamzad + lagbhag 50 agyaat ke khilaf FIR darj; 24 ghante me 2 aaropi giraftar aur nyayik hirasat me; baad me 12 aur aavedanon par Sonu Singh ko naamzad karke alag FIRs. Adhikarik karyavahi: court se 22 Aug ko mile search warrant par 23 Aug ko subah lagbhag 6 baje MLA ke aawas par 4 ghante talashi; partnership kagaz, bank khaata dastavez aur 2017 ka signed blank stamp paper baramad; Muzaffarpur SSP Kantesh Kumar Mishra ne kaha ki MLA ki bhumika bhi janch me sandigdh ubhri hai aur video sabooton ki padtaal ho rahi hai. Neta ka jawab: Ranu ne kaha ki police warrant lekar aayi thi, lekin yah karyavahi atikraman/avadh nirmaan ki unki aur parivar ki shikayaton par prashasan ki nishkriyata ko darshati hai. Update: ABP Live (26 Aug 2026) ke mutabik SSP ne pushti ki ki MLA ko bhi Ahiyapur thana case 1323/26 me naamzad aaropi banaya gaya aur police adalat se giraftari warrant ke anumodan ka intezaar kar rahi thi. Sthiti: janch jaari; dosh-siddhi ka koi daava nahi.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Belsand MLA Amit Kumar Ranu ke khilaf do alag zameen-vivad mamlo me tazi FIR darj, aath purane mamlo ki sunvai vishesh MP-MLA court ko transfer',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India, 30 Aug 2026 (est)',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/patna/fresh-firs-add-to-belsand-mlas-legal-troubles/amp_articleshow/133633098.cms',
+    date: '2026-08-30',
+    note: 'Aarop: (1) Shahbazpur Salem — retired adhikari Vijay Kumar ki paitrik zameen (lagbhag Rs 15 crore) ko jaali dastavez aur farzi sale deed/mutation se hadapne ki koshish; Ranu, bhai Abhinav Kumar, Mushahari CO Mahendra Shukla aur 5 anyon ke khilaf FIR. (2) Brahmpura — Asha Devi ne aarop lagaya ki 2022 me unki 7 decimal zameen (Rs 35 lakh) ka sauda hua lekin unhe sirf Rs 4 lakh mile, baaki Rs 31 lakh rok liye gaye; Ranu, bhai Sonu Singh aur 3 anyon ke khilaf FIR. Adhikarik karyavahi: Jhaphan Udandih/Bairiya tod-fod se jude kul 25 mamle darj, jinme se aath me Ranu aaropi — sab vishesh MP-MLA court ko transfer; SSP ke mutabik tod-fod mamlo ke 3 shikayatkartaon ke bayan court me darj karke seal kiye gaye. Update: News18 Hindi (10 Oct 2026) ke mutabik Ahiyapur police ne nilambit CO Mahendra Kumar Shukla aur rajaswa adhikari Karun Karan ko giraftar karke nyayik hirasat me bheja. TOI report me neta ka jawab uddhrit nahi. Sthiti: janch jaari; dosh-siddhi ka koi daava nahi.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Brahmpura zameen-hadapne ke mamle me Belsand MLA Amit Kumar Ranu aur unke bhai ne adalat se apni agrim zamaanat yachika wapas li',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 1 Oct 2026 (est)',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/muzaffarpur/bihar-mla-brother-withdraw-bail-plea-in-land-grabbing-case',
+    date: '2026-10-01',
+    note: 'Aarop: Krishnatoli (Brahmpura thana kshetra) niwasi peedita Asha Devi ne thana me FIR darj karai — aarop hai ki pati ki 7 decimal keemti zameen ko 26 Aug 2022 ko suniyojit shadyantra se farzi dastavez taiyaar karke bina malik ki sahmati ke hadap liya gaya; Rs 35 lakh ka cheque diya gaya jo kabhi bhuna hi nahi; aarop hai ki MLA Amit Kumar Ranu ne parde ke peeche se zameen benaami tareeke se apne aur sahyogiyon ke naam kara li; bhai Sonu Kumar ne makaan ke chhah kamron me tod-fod karke zameen par kabza jama liya; aarthik tangi me ilaaj ke abhaav me 13 Feb 2026 ko peedita ke pati ka nidhan ho gaya; FIR me MLA, bhai Sonu Kumar, Kartik Kumar, Rahul Thakur aur Ujjwal Kumar Pandey naamzad. Adhikarik karyavahi: dono ne pehle agrim zamaanat yachika dayar ki thi, ab use wapas le liya — isse unki kanooni mushkilen badhne ki sambhavna jatai gayi; police janch jaari. Note: yah wahi Brahmpura mamla hai jiski FIR ki khabar TOI me aa chuki thi; yah uska naya vikas-kram hai. Report me neta ka jawab uddhrit nahi. Sthiti: janch jaari; dosh-siddhi ka koi daava nahi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (amit-kumar, LJP-RV, Belsand AC-30):
+// 1. YouTube, ~Jul 2026 — Sheohar me Genexo Cafe udghatan. REJECT: YouTube-only + private business.
+// 2. Dainik Bhaskar, ~24 Feb 2026 — bijli vibhag ko chetawani. REJECT: bhashan/chetawani; koi FIR/case nahi — negative bhi fail.
+// 3. LiveHindustan, 20 Jan 2026 — CM Samriddhi Yatra (Rs 554.12 crore). REJECT: CM karyakram me sirf maujoodgi.
+// 4. Republican News, 30 Sep 2026 — Muzaffarpur ADJ-8 dwara apradhik itihas chhupane par Rs 1.20 lakh jurmana + agrim zamaanat manzoor. COORDINATOR QA REJECT (negative-source bar): jurmana ek adalaati aadesh hai lekin iski reporting SIRF is chhote portal par mili; dusre established source se corroboration nahi mili (coordinator ne khud search ki). Niyam: negatives ko established/credible reporting chahiye. RETRY LEAD: agar TOI/Hindustan/News18 jaise established source par mile to dobara vichar. https://www.republicannews.in/belsand-mla-amit-ranu-fined-for-concealing-criminal-history-muzaffarpur-court-bihar-news/
+// 5. Positive entries: established/local media me is karyakaal ka koi shilanyas/lokarpan/swikriti (GO ke saath)/complete report nahi mila — 0 positive. Identity check: "Amit Kumar" aam naam — Jharkhand/Delhi wale alag vyakti alag rakhe; sirf LJP-RV Belsand MLA Amit Kumar Ranu / Amit Ranu wali reports.
+
+// COORDINATOR QA (Sitamarhi): 3 workers (A: AC-23/24/25, B: AC-26/27/28, C: AC-29/30) ke fragments ko AC order 23->30 me merge kiya. Kul 7 entries (4 positive + 3 negative). QA fixes: (1) anil-kumar-bihar ki entry ka stage 'complete' se 'lokarpan' par normalize kiya (file me udghatan-type entries ka consistent stage); (2) amit-kumar ki 4th negative (Rs 1.20 lakh jurmana, Republican News-only source) coordinator ne khud corroboration search ki — koi dusra established source nahi mila, isliye negative-source bar par reject karke reject-log me retry-lead darj kiya; (3) N1 ke note me ABP Live (26 Aug 2026) ka update joda — SSP ne pushti ki MLA ko FIR 1323/26 me naamzad aaropi banaya gaya aur police giraftari warrant ke anumodan ka intezaar kar rahi thi; (4) sabhi 8 slugs pehle khaali the — koi overwrite nahi; marker 1x. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; badges valid (news); categories valid; stages valid (positives me lokarpan/shilanyas); period '2025-2030' sabhi me; titles pure Hinglish vakya, currency "Rs"; sourceUrls canonical, khud khole gaye.
