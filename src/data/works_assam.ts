@@ -872,3 +872,243 @@ assamWorks['diganta-kalita'] = [];
 // REJECT-LOG (bhabesh-kalita): nenow.in Mar 2026 — Forest Dept office inauguration me sirf maujoodgi + pre-term, reject. pratidintime.com — Baralia River bridge foundation, event ~2024 ka = pre-term, reject. TOI Sep 2026 — JNV Rangia youth event me chief guest, ceremonial, reject. sentinelassam Sep 2026 — Alzheimer's Day event me sirf attendee, reject. Mar-Apr 2026 poll news + purane party-post news, reject. news18 Jan 2026 — Rangia highmast light ka adhaarshila (Dilip Saikia mukhya atithi, Bhabesh sirf local MLA upasthit) — pre-term + concrete bhoomika nahi, reject.
 // REJECT-LOG (diganta-kalita): pubkamrupcollege.co.in — Girls Hostel vertical extension foundation 13 Mar 2026 = pre-term, reject. nktv.in Sep 2026 — CM ka Amingaon inspection, sirf maujoodgi, reject. latestly.com (ANI) Dec 2025 — GTC Football Academy inauguration, sirf upasthit + pre-term, reject. nefocus.com 3 Oct 2026 — Bezera health camp visit = welfare camp (rules me excluded) + sirf visit, reject. latestly.com Aug 2022 — 1,000 Model Anganwadi centres, pre-term + sirf upasthit, reject. Dapoon Poripurika guidebook praise — private publisher promo, koi sarkari kaam nahi, reject. 2 YouTube shorts — YouTube-only + pre-election aarop bina FIR/janch ke, reject.
 // Coordinator QA: dono Raju Mesh entries ke title/note ko worker ke English se Roman-Hinglish me convert kiya (srot-tathya aparivartit); W2/W3 ke 0-title claims verify kiye; marker exactly 1x; har slug exactly once; sabhi 6 slugs pehle khaali the (overwrite nahi).
+
+
+
+// ---- Kamrup Metro district batch (researched 2026-10-14) ----
+
+assamWorks['pradyut-bordoloi'] = [];
+
+/* REJECT-LOG (Pradyut Bordoloi, Dispur AC-33, Kamrup Metro; sabha 2026-2031, sirf ~5.5 mahine purani)
+   Search: English + Hindi + Assamese; Assam Tribune, The Sentinel, Pratidin Time, Time8, News18 Assam, ETV Bharat, Northeast Now, TOI Guwahati, newkerala, ANI copies. Har candidate ko khoj/asan khaam se khola ya snippet-record se reject kiya. Koi entry criteria par khari nahi utri.
+
+1. "Purple City" plantation vision (The Sentinel, 4 Jun 2026, khud khola gaya) — REJECT: sirf ghoshna ("announced a plan"), koi sanction/GO/work-order/dates rakam nahi; "karenge" wali khabar.
+2. "Dispur: My Visionary Journey" vision document (The News Source, 4 Apr 2026) — REJECT: chunav se pehle ki yojana-ghoshna; karyakaal se bahar (May 2026 se pehle).
+3. Assembly starred question 253 on drinking water (28 Jul 2026; TOI/Assam Tribune, 29 Jul 2026) — REJECT: sirf prashn/maang; SEGWSP rajya-pariyojna hai (NTP L&T ko 13 May 2026, NDB funding) jisme Bordoloi ka koi dastavezi swikriti-kadam nahi.
+4. Flood remarks + ward 60 nirikshan (Assam Tribune, 24 Jul 2026) — REJECT: sirf nirikshan/bayaan; "SDRF ke saath bachaya" ka dawa kisi sarkari work-order se juda nahi.
+5. Kamrup Metro DC office inauguration me maujoodgi (newkerala/ANI, ~Aug 2026) — REJECT: CM ke karyakram me sirf maujoodgi; Bordoloi ka lokarpan nahi.
+6. Assembly questions: excise, Assam-Meghalaya border, ST population, anganwadi (newsdeskreport.com) — REJECT: sabhi prashn/maang, koi kaam nahi.
+7. Nagaon Lok Sabha upchunav committee/campaign role — REJECT: kshetra se bahar + rajneetik, karyakaal-kshetra ka kaam nahi; MP-era ke kaam bilkul scope se bahar.
+8. Cabinet expansion story (Assam Tribune, 6 Jun 2026: mantri-mandal me naam nahi) — REJECT: kaam nahi, rajneetik khabar.
+9. Negatives: koi FIR/case/adhikarik janch wali credible report nahi mili; sirf virodhi bayaan/narazgi (Atul Bora, Jayanta Das, March 2026) — REJECT: bina adhikarik karyavahi ke aarop.
+10. YouTube-only clips, Dailyhunt aggregator copies — REJECT: source-type, waise bhi koi inme work-report nahi tha.
+
+NATEEJA: period 2026-2031 me seat-level kaam ka koi entry-yogya dastavez nahi. Profile KHAALI — sabha ki umr (~5.5 mahine) ke hisaab se apekshit aur imaandari se sahi.
+*/
+
+
+
+// ============================================================
+// Dr. Tapan Das — AGP, Dimoria AC-34, Kamrup Metro
+// 2026-2031 karyakaal (16th Assam Assembly, elected 4 May 2026)
+// Research date: 14 Oct 2026
+// ============================================================
+
+// May 2026+ ke kshetra-kaamon ki search me koi qualifying entry nahi mili.
+// Assembly me uthaye prashn = maang/prastav; health camp = ek-dinee rajya
+// abhiyan ka ceremonial udghatan; baaki me sirf maujoodgi ya chunavi vaade.
+// Sabha ~5.5 mahine purani, pehli baar ke MLA — khaali profile sahi hai.
+assamWorks['dr-tapan-das'] = [];
+
+/*
+REJECT-LOG — Dr. Tapan Das (Dimoria AC-34, AGP)
+
+1. Seva Sankalp Abhiyan health camp, Chandrapur Development Block Office
+   (Asianet Newsable/ANI feed, published 2026-10-09; khud khola-gaya canonical URL:
+   https://newsable.asianetnews.com/india/kamrup-health-and-wellness-camps-organised-under-seva-sankalp-abhiyan-articleshow-21ecy8p)
+   — Tapan Das ne camp ka "inauguration" kiya, 493 beneficiaries ko specialist
+   seva mili. REJECT: ek-dinee rajya abhiyan ka ceremonial udghatan — koi
+   sanctioned pariyojna/suvidha nahi, fund-srot MLA se juda nahi, stage
+   sirf event-level.
+
+2. Assembly demands (News Desk Report, Budget session 2026 coverage; khola:
+   https://newsdeskreport.com/from-floods-to-traffic-what-guwahatis-new-mlas-are-taking-up-in-the-assembly/)
+   — Jorabat NH-27 flooding (Zero Hour, 10 July 2026), drinking water supply
+   (25 July), handloom/weaving revolution, orange farming revival + cold
+   storage/pack houses, market sheds, tourism proposals (Khamrenga Beel,
+   Jagannath Mandir Tetelia, Bogibari Satra, etc.). REJECT: sirf maang/prastav
+   — koi sanction order/GO/work order nahi.
+
+3. ISRO ISTRAC Advanced Radar Research Facility bhumi pujan, Chandrapur
+   (nktv.in, ~21 Sep 2026; khola:
+   https://www.nktv.in/cm-performs-bhumi-pujan-and-lays-foundation-stone-of-isros-istrac-advanced-radar-research-facility-at-chandrapur/)
+   — shilanyas CM ne kiya; Tapan Das sirf upasthit. REJECT: CM ke karyakram
+   me sirf maujoodgi.
+
+4. Kamrup Metropolitan DC office inauguration (newkerala.com/ANI, ~Aug 2026;
+   https://www.newkerala.com/news/a/assam-cm-inaugurates-district-commissioners-office-building-kamrup-563.htm)
+   — CM ne udghatan kiya; Tapan Das upasthit MLAs me. REJECT: sirf maujoodgi.
+
+5. Chunavi vaade (ETV Bharat Assamese, Mar 2026 — pre-election):
+   https://www.etvbharat.com/as/politics/nda-candidate-dr-tapan-das-campaigning-in-dimoria-constituency-ass26033002586
+   https://www.etvbharat.com/as/politics/assam-assembly-election-2026-know-about-dimoria-nda-candidate-dr-tapan-das-ass26032501620
+   https://www.etvbharat.com/amp/as/politics/warm-welcome-to-agps-winning-candidate-tapan-das-of-dimoria-assembly-constituency-ass26050501070
+   — medical college, football academy, stadium, orange export ka sapna.
+   REJECT: "karenge" wali khabar, May 2026 se pehle ka period.
+
+6. AGP me 100 logon ka induction, Sonapur Dimoria Legislative Council
+   (Assam Tribune, 16 Dec 2024):
+   https://assamtribune.com/assam/over-100-join-asom-gana-parishad-ahead-of-panchayat-elections-1561264
+   — AGP general secretary ke roop me Dr Tapan Das ne certificate diye.
+   REJECT: period se bahar + party program, koi sarkari kaam nahi.
+
+7. NEGATIVE: koi FIR/case/adhikarik janch ya virodhi aarop ki credible
+   reporting nahi mili. Khaali negative profile sahi hai.
+
+8. Naam-takraar savdhani: "Tapan Das" naam ke any vyaktiyon (e.g., BJP
+   Guwahati Metropolitan District president, 2024 ki khabar) ka koi kaam
+   Dimoria MLA ke naam par nahi joda gaya.
+*/
+
+
+
+// ============================================================
+// Diplu Ranjan Sarmah — BJP, New Guwahati AC-35, Kamrup Metro
+// 2026-2031 karyakaal (16th Assam Assembly, elected 4 May 2026,
+// 9 Apr 2026 matdaan; nayi seat, pehle 89,636 vote se jeete)
+// Research date: 14 Oct 2026
+// ============================================================
+
+// May 2026+ ke kshetra-kaamon ki search (English + Hindi + Assamese,
+// 9 search rounds: Assam Tribune, TOI Guwahati, ETV Bharat, Pratidin
+// Time, Northeast Now, Time8/News18 angles, guwahatiplus, news
+// vertical) me koi qualifying entry nahi mili. Jo mila wo sirf
+// nirikshan, karyakramon me maujoodgi, pre-event reports, chunavi
+// vaade, aur purani (Samaguri 2024-2026) karyakaal ki khabaren hain.
+// Sabha ~5.5 mahine purani, is seat ke liye pehla karyakaal —
+// khaali profile sahi aur imaandaar hai.
+assamWorks['diplu-ranjan-sarmah'] = [];
+
+/*
+REJECT-LOG — Diplu Ranjan Sarmah (New Guwahati AC-35, BJP)
+
+(NOTE: koi qualifying entry na milne par ye log search-snippet review
+par based hai; fragment me koi entry snippet se nahi banayi gayi.)
+
+1. Guwahati flood joint inspection — Housing & Urban Affairs Minister
+   Kaushik Rai ke saath Diplu Ranjan ne Anil Nagar, Tarun Nagar, ABC
+   area ka "extensive inspection" kiya (Sudarshan News, ~early Jul 2026;
+   search me dekha, khola-nahi-gaya URL:
+   https://www.sudarshannews.in/Guwahati-Flood-Fight-Gains-Momentum-Minister-MLA-Lead-Ground-Survey-for-Long-Term-Solution-141303-newsdetails.aspx)
+   REJECT: sirf nirikshan/daura — koi sanctioned pariyojna, work order ya
+   fund-srot nahi; khabaren me "assessment" ka zikr, koi kaam shuru hone
+   ki report nahi.
+
+2. Geetanagar Police Station shift to new premises (Pratidin Time,
+   14 Oct 2026; https://www.pratidintime.com/guwahati-news-breaking-latest/guwahati-geetanagar-police-station-to-shift-to-new-location-12674776)
+   REJECT: (a) pre-event report — inauguration ki tareekh bhi "awaited"
+   thi; (b) udghatan Police Commissioner Partha Sarathi Mahanta ko
+   karna tha, MLA "also expected to attend" — sirf maujoodgi.
+
+3. ETV Bharat campaign coverage (31 Mar 2026 aur 4 Apr 2026):
+   (a) https://www.etvbharat.com/as/politics/what-election-issues-has-diplu-ranjan-sharma-been-campaigning-on-ass26033102465
+   (b) https://www.etvbharat.com/as/politics/bjp-candidate-diplu-ranjan-sarma-has-carried-out-election-campaign-on-five-main-issues-ass26040404000
+   — khula paani, kritrim baan niyantran, swachh/harit Guwahati,
+   pahari janta ko bhumi-patta, aadi chunavi vaade.
+   REJECT: pre-term "karenge" wali khabar — karyakaal shuru hone se
+   pehle ke vaade, koi poora kaam nahi.
+
+4. Budget session 2026 interventions (newsdeskreport.com, ~Sep 2026:
+   https://newsdeskreport.com/from-floods-to-traffic-what-guwahatis-new-mlas-are-taking-up-in-the-assembly/)
+   — Assembly me Budget 2026-27 aur UCC Bill par 2 interventions;
+   koi written question nahi.
+   REJECT: vidhan-sabha me bahas = kshetra-kaam nahi; koi
+   sanction/lokarpan/shilanyas nahi.
+
+5. Integrated District Commissioner's Office inauguration, Guwahati
+   (themileage.in, ~Aug 2026; https://themileage.in/cm-inaugurates-new-integrated-district-commissioners-office-building-in-guwahati/)
+   — udghatan CM ne kiya; Diplu Ranjan kai upasthit MLAs me se ek.
+   REJECT: CM ke karyakram me sirf maujoodgi.
+
+6. Samaguri me Ayushman Arogya Mandir ka aadharshila sthapan
+   (public.app, 4 Aug 2025; https://public.app/video/sp_k845lxkdkhp1o)
+   REJECT: do wajah — (a) purana karyakaal (Samaguri bypoll 2024-2026)
+   aur purani seat, May 2026+ New Guwahati karyakaal se asambandhit;
+   (b) public.app-only source = reject list par hai.
+*/
+
+
+
+// Guwahati Central (AC-36), Kamrup Metro — Vijay Kumar Gupta (BJP)
+// Research date: 2026-10-14. Term began 4 May 2026 (~5.5 months old).
+// Searches in English, Hindi, Bengali, Assamese across Assam Tribune, The Sentinel,
+// Pratidin Time, News18 Assam, ETV Bharat, Northeast Now, TOI Guwahati turned up
+// NO qualifying seat-level works (no sanction/GO, no lokarpan/shilanyas of a govt
+// project by the MLA, no documented MLALAD/vidhayak-nidhi work). Honest empty profile.
+
+assamWorks['vijay-kumar-gupta'] = [
+];
+
+// REJECT-LOG
+// 1. Rs 376 crore flyover (Cycle Factory–Lal Ganesh) inauguration, Guwahati — nenews.in
+//    (opened via search snippet). Article lists "Vijay Kumar Gupta, MLA Guwahati
+//    Central" only among dignitaries PRESENT; inauguration was by the CM. Sirf
+//    maujoodgi CM ke karyakram me = REJECT (rule: CM/PM/mantri ke karyakram me sirf
+//    maujoodgi). https://nenews.in/assam/new-flyover-linking-cycle-factory-to-lal-ganesh-inaugurated-in-guwahati/51668/
+// 2. Assembly question on hill-area roads + drinking water (Assam Tribune, 28 Jul 2026;
+//    newsdeskreport Budget-session analysis). Gupta raised the issue in the House;
+//    minister replied listing projects. Sirf maang/gyapan, koi sanction ya kaam
+//    MLA dwara nahi = REJECT. https://assamtribune.com/guwahati/central-guwahati-residents-put-land-pattas-ahead-of-roads-water-civic-amenities-1614869
+// 3. Ambubachi Mela free food service at Kamakhya — Pratidin Time. Gupta attended as
+//    chief guest of an NGO's own initiative (Guwahati Sahani Kawariya NGO), not a
+//    government scheme/project. Community/sangathan event me ceremonial role,
+//    sarkari pariyojna nahi = REJECT. https://www.pratidintime.com/guwahati-news-breaking-latest/ambubachi-mela-free-food-service-kamakhya-12065341
+// 4. Rotary Club of Guwahati West 48th Foundation Day (nenews.in, ~24 Sep 2026).
+//    Gupta was chief guest of a community organisation event; no government
+//    project = REJECT (ceremonial).
+// 5. Mini-stadium in every ward + water/roads/street-light promises — all election
+//    campaign statements (Apr 2026, NDTV / Northeast Today / medium campaign PR).
+//    "Karenge" wali khabar, chunav se pehle = REJECT. Post-May 2026 progress koi
+//    reporting nahi mili.
+// 6. Arya Nagar communal clash remarks (Pratidin Time). Political statement only,
+//    no work, no official action by MLA = not a works entry.
+// 7. "I never said Switzerland" media backtrack (Pratidin Time, May 2026). Campaign
+//    controversy, no work content = REJECT.
+
+
+
+// unke apne haath ka lokarpan/shilanyas ya apni MLALAD ka kaam; CM-role ke saare
+// rajya-stariya faisle/ghoshnaayein/anya-jile ke karyakram/cabinet nirnay — koi bhi nahi.
+
+assamWorks['himanta-biswa-sarma'] = [
+  {
+    title: 'Himanta Biswa Sarma ne 14 August 2026 ko apni Jalukbari seat me Bamunorjan Road aur Forest School Road ko jodne wale 32.40-metre lambe naye RCC pul ka khud lokarpan kiya, jo purane jarrar lakdi ke pul ki jagah banaya gaya hai',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'India Today NE, 14 Aug 2026',
+    sourceUrl: 'https://www.indiatodayne.in/assam/story/assam-cm-inaugurates-new-rcc-bridge-in-jalukbari-1437797-2026-08-14',
+    date: '2026-08-14',
+    note: '14 Aug 2026 ko India Today NE ki reporting ke mutabiq Himanta Biswa Sarma ne khud Jalukbari Vidhan Sabha kshetra me Bamunorjan Road se Forest School Road ko jodne wale naye RCC pul ka lokarpan kiya; 32.40 metre lambe is pul ki lagat Rs 2.56 crore se adhik hai aur yeh purane jarrar lakdi ke pul ki jagah bana hai, jisse Garigaon, Baripara, Bhakunda, Jeutipara aur Noapara ke hazaron yatriyon ko labh hoga. Stage: poorn/lokarpit. Disclosure: pariyojna rajya sarkar ki Mukhyamantrir Unnata Pakipoth Aachoni ke tehat bani hai — vidhayak-nidhi (MLALAD) ka kaam nahi; karyakari vibhag lok-nirman sadak vibhag ke dayre me report hua hai. Note: pul Jalukbari seat ke andar hai aur lokarpan unhone vyaktigat roop se kiya, isliye CM-ke-sakht-mayaar ke tehat qualifying hai.',
+    period: '2026-2031',
+  },
+  {
+    title: 'Usi daure me unhone Azara me Kalmani stream par Kalitapara se Hatkhowapara tak bane 19 single-cell RCC box culverts ka bhi khud lokarpan kiya, jo Azara ki andaruni sadkon ko National Highway-37 se jodte hain',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Asianet Newsable (ANI), 14 Aug 2026',
+    sourceUrl: 'https://newsable.asianetnews.com/india/assam-cm-inaugurates-new-rcc-bridge-culverts-in-jalukbari-constituency-articleshow-k7g1252',
+    date: '2026-08-14',
+    note: '14 Aug 2026 ko ANI/Asianet Newsable ki reporting ke mutabiq Himanta Biswa Sarma ne Jalukbari kshetra ke Azara me Kalmani stream par Kalitapara se Hatkhowapara tak bane 19 single-cell RCC box culverts ka khud lokarpan kiya; kul lagat Rs 3.41 crore hai aur yeh culverts Azara ki andaruni sadkon ko NH-37 se jodte hain, jisse pahle purane jarrar lakdi ke pulon par nirbhar rahne wale school-chhatron, ambulance/aapatkaleen sevaon aur rozana yatriyon ko surakshit aavaagaman milega. Stage: poorn/lokarpit. Disclosure: pul ki tarah yeh bhi Mukhyamantrir Unnata Paki Path Nirman Achoni (2024-25) ke tehat aur Lok Nirman Sadak Vibhag dwara karyanvit — rajya yojna, MLALAD nahi. Culverts Jalukbari seat ke andar Azara me hain aur lokarpan unhone vyaktigat roop se kiya, isliye CM-ke-sakht-mayaar ke tehat qualifying hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (himanta-biswa-sarma) — CM-ke-sakht-mayaar par reject:
+// (A) CM-role rejects (seat-specific lekin unka vyaktigat act nahi / rajya-sarkar karyakram):
+//  (1) Asom Times + Guwahati Observer + The Mileage, ~6-8 Oct 2026: Jalukbari ke Ward 1 aur 2 me dharmik/saarvajanik sansthano me 14 drinking water schemes (SOPD-G yojna, GMDA dwara nirman, 'Jalukbari MLA Himanta Biswa Sarma ki special initiative') — lekin lokarpan unke OSD Hemanta Choudhury ne kiya, unhone khud nahi — vyaktigat act anupasthit, REJECT.
+//  (2) Latestly/ANI 5 Mar 2024: Kamrup jile me Rs 1,208 crore pariyojnaon ka karyakram — Azara District Hospital (Rs 116 crore, World Bank ASSIST) ka shilanyas, LGBI Airport VIP Junction-Dharapur 4-lane (Rs 358 crore) bhoomi-pujan, Gauripur T-Junction trumpet interchange (Rs 408 crore), South Bank corridor (Rs 326.01 crore) — tenure May 2026 se PEHLE + bade rajya-sarkari shahri karyakram (CM-role), REJECT.
+//  (3) Pratidin Time (~Nov-Dec 2025, Bihar chunav tippani se pehchana): Garal me naya Ramcharani Development Block Office ka udghatain (nayi Jalukbari seat ke gathan ke baad) — tenure se pehle, REJECT.
+//  (4) Syllad/Rising Meghalaya, 5 Oct 2024: Jalukbari co-district headquarters ka udghatain — tenure se pehle + rajya-prashasanik (co-district rollout) karyakram, REJECT.
+//  (5) Lokmat Times/Webindia123/New Kerala, 12 Mar 2026: Jalukbari LAC me 5,155 mahilaon ko MMUA (Mukhya Mantri Mahila Udyamita Abhiyan) seed capital cheques vitran (Swahid Smarak Kshetra, Boragaon) — tenure May 2026 se PEHLE + rajya-stariya mahila-udyamita yojna (CM-role), REJECT.
+//  (6) ThePrint/Assam Tribune, Jun 2026: MLALAD badhotri (Rs 1.5 crore FY27, Rs 2 crore FY28) — sirf cabinet nirnay, koi seat-kaam nahi, REJECT.
+//  (7) Webindia123 (Facebook Live), ~Jun 2026: Guwahati Ring Road, Kaziranga Elevated Corridor, Numaligarh-Gohpur tunnel (Rs 18,000 crore), airport-Jalukbari elevated corridor, Dibrugarh second capital (Rs 500 crore) — sab CM-role rajya-stariya ghoshnaayein, 'karenge' wali khabar, seat-specific personal act nahi, REJECT.
+//  (8) Sentinel Assam, 16 Jul 2026: Assembly me Jorabat flood par Ring Road/Digaru-Narengi vikalp ka sujhav — sirf niti-bayan, REJECT.
+//  (9) Tribune India/Lokmat Times, 25 Aug 2026: Delhi me Nitin Gadkari se NH restoration/Jorabat flood meeting — CM-role kendra-sarkar samiksha, REJECT.
+//  (10) Times Now/EdexLive/The Week/Lokmat Times, ~Feb 2026: 67 schools udghatain + 61 ke shilanyas (Rs 760 crore, PM-DevINE/RIDF) — tenure se PEHLE + rajya-stariya shiksha karyakram, REJECT.
+//  (11) OpIndia, 20 Sep 2026: Adani Power 3,200 MW plant shilanyas — audyogik rajya-pariyojna, seat ke bahar, REJECT; NDTV Exclusive Adani interview — bayan, REJECT.
+//  (12) Medical Buyer (Devdiscourse), ~Nov 2025: Silchar Medical College 208-bed super-speciality hospital shilanyas — alag jila + purana tenure, REJECT.
+// (B) Chunav/prachar coverage (kaam-khabar nahi): ThePrint/Mathrubhumi/Moneycontrol/New Kerala 4 May 2026 — Jalukbari me 6th term jeet (~89,500 vote margin); Asianet/Menafn/The News Mill 21 May 2026 — MLA shapath; India Today NE 12 May 2026 — CM shapath; The Hindu political timeline — background, REJECT.
+// (C) Sanskriti/anya: webindia123 14 Jun 2026 FB-live 'Assam development vision' — sirf ghoshna, REJECT.
+// Koi qualifying negative reporting (FIR/case/adalaati ya adhikarik janch + neta ka jawab) established media me nahi mili — is profile me negative section nahi. Parivar-mamle search scope se bahar.
+// FINAL: 2 qualifying entries (dono 14 Aug 2026, dono Sadak, dono news badge, dono rajya-yojna disclosure ke saath vyaktigat lokarpan) — profile khaali NAHI, lekin CM ke liye sakht-mayaar par nyuntam hai.
+
