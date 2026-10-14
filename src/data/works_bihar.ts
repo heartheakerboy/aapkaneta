@@ -1108,3 +1108,77 @@ biharWorks['subedar-das'] = [];
 //     reporting found in established media for this term.
 
 // Coordinator QA note (Jahanabad, 2026-10-14): 3 fragments assemble kiye — Rahul Kumar (1 entry, PMGSY joint-shilanyas, credit disclosed), Rituraj Kumar (1 entry, school udghatan), Subedar Das (khaali); koi overwrite nahi (3/3 slugs pehle khaali the); hygiene clean.
+
+
+// ---- Jamui district batch (researched 2026-10-14) ----
+
+biharWorks['praphull-kumar-manjhi'] = [
+  {
+    title: 'Sikandra MLA Praphull Kumar Manjhi ne Kanya Pakri upgraded high school ke 2 naye bhavano aur Dashrath Manjhi sabhagar ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 7 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/jamui/story-inauguration-of-schools-and-library-in-jamui-celebration-of-bjp-s-47th-foundation-day-201775507564630.html',
+    date: '2026-04-07',
+    note: 'Live Hindustan ki post-event report ke anusaar Sikandra MLA Praphull Kumar Manjhi ne 6 April 2026 ko Jamui ke Utkramit Uchch Vidyalaya Kanya Pakri ke 2 naye bhavano aur vidyalaya parisar ke Dashrath Manjhi sabhagar ka udghatan kiya. Karyakram me jila shiksha padadhikari Dayashankar (mukhya atithi), pracharya Samudragupt, poorv vidhayak Ajay Pratap aur poorv mantri Sumit Kumar Singh upasthit the; class 9-12 ke toppers ko prashasti patra aur medal diye gaye. Stage-disclosure: ye lokarpan hai — bhavano ka nirmaan pehle ho chuka tha, MLA ne shilanyas nahi kiya. Fund-srot ya lagat report me ullekh nahi hai, isliye koi fund-srot ka dawa nahi kiya gaya.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (praphull-kumar-manjhi): LiveHindustan 23 Nov 2025 NDA karyakarta samman (Sikandra) — sirf samman + vikas-vade, koi kaam nahi, reject; LiveHindustan 25 Nov 2025 Aliganj NDA karyakarta samman — wahi, reject; Jagran 9 Sep 2026 press conference (Chirag Paswan/MP Arun Bharati par bayan) — political bayan, negative criteria bhi nahi (koi FIR/janch nahi), reject; News18 Local18 17 Oct 2025 affidavit (sampatti 15 guna) — chunavi halafnama, karyakaal se pehle, reject; allrightsmagazine Feb 2026 jila sthapna divas — sirf maujoodgi (deep-prajvalan), reject; Dainik Bhaskar Khaira nagrik abhinandan (parivahan mantri Rawat + Manjhi) — samman samaroh, koi kaam nahi, reject; biharpatrika.in 14 Apr 2026 Ambedkar jayanti (Patna) — sirf upasthiti, kshetra-bahar, reject; public.app vikas-vade — source reject-category + future tense, reject; jagatdarshannews Sep 2026 (Saran, Manjhi nagar panchayat road) — galat sthan/vyakti, reject; jantakiaawaz Sep 2026 (Korba, Chhattisgarh) — sthan galat, reject; gnews24 Sep 2026 Bilauni bijli vivad — dusra MLA (Ramesh Prasad Khatik), reject; kewalsachlive Oct 2026 (Jitan Ram Manjhi ka janmdin) — sirf upasthiti, reject; Dainik Bhaskar HAM karyakarta sammelan (Sikandra) — party event, Manjhi sirf upasthit, reject; biharnewslive 7 Mar 2024 Islamnagar Aliganj PHC chardiwari (Rs 27 lakh, MLA nidhi) — purane karyakaal (2020-2025) ka kaam, pre-term reject; YouTube clips (Bihar Tak, RP Bharat, PCC sadak) — YouTube-only, reject; hindi.theprint/lokmattimes/organiser (PM/CM ke Jamui projects, Samriddhi Yatra Rs 914 crore) — CM/PM karyakram, Manjhi ka naam bhi nahi, reject; oneindia/india.com/dnaindia/TOI/News18/Financial Express/IndiaTV — sirf chunav parinaam ya jeevan-parichay, reject.
+
+biharWorks['shreyasi-singh'] = [
+  {
+    title: 'Jamui ke Shri Krishna Singh Stadium ke jeernoddhar ke liye Rs 14.99 crore ki prashasnik swikriti mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 27 Sep 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/jamui/story-bihar-government-approves-renovation-of-historic-shri-krishna-singh-stadium-with-14-99-crore-funding-201790448336414.html',
+    date: '2026-09-21',
+    note: 'Bihar khel vibhag ne Jamui ke aitihasik Shri Krishna Singh Stadium ke jeernoddhar ke liye Rs 14,99,38,000 ki prashasnik swikriti di. Vitt vibhag ki sthaayi vitt samiti aur khel mantri (Shreyasi Singh) ka anumodan 21 Sep 2026 ko mila, aur sanyukt sachiv Niranjan Kumar ne aadesh jaari kiya. Nirman ki zimmedari Bihar Rajya Bhavan Nirman Nigam ko di gayi, paisa FY 2026-27 ke demand no. 03 se kharch hoga. Credit-pardarshita: swikriti me unka seedha anumodan hai kyunki wo swayam khel mantri hain, lekin kaam vibhagiya prakriya (vitt samiti + nigam) ke zariye hoga. Stage disclosure: sirf swikriti ka charan hai, article ke samay tak nirman shuru nahi hua tha.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Jamui ke Plus Two school parisar me jeernoddhar ke baad aitihasik Ravaneshwar Hall ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 4 Jun 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/jamui/story-jamui-s-cultural-heritage-has-been-revived-minister-201780595444404.html',
+    date: '2026-06-04',
+    note: 'Varsh 1939 me sthapit Jamui ke aitihasik Ravaneshwar Hall ka jeernoddhar jila prashasan ne poora kiya, aur sthaniya vidhayak tatha khel sah udyog mantri Shreyasi Singh ne uska udghatan kiya. Unhone DM Naveen ke netritva aur prayason ki sarahna ki. Credit-pardarshita: jeernoddhar ka asli kaam jila prashasan ka tha, unki bhoomika udghatan aur protsahan ki rahi; fund-srot article me ullekh nahi hai. Stage disclosure: kaam poora ho chuka tha aur udghatan ho gaya, lekin parisar ka saundaryikaran aur stadium marammat ki unhone jo ghoshna ki wo us samay tak sirf bhavishya ki yojana thi.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (shreyasi-singh): ETV Bharat 13 Apr 2022 Malaypur 50-bed prefab hospital shilanyas — pre-term (2020-25), reject; public.app Rs 12 crore office bhavan shilanyas — platform-only + pre-term, reject; YouTube (Jamui Star News) Yoga Day 2026, water tower udghatan — YouTube-only, reject; biharjharkhandnewsnetwork Oct 2026 Adityapur (Jharkhand) Durga puja pandal — kshetra-bahar, reject; TOI Nov 2025 AI-CoE pledge — sirf maang, reject; Live Hindustan 27 Nov 2025 IT CoE "poora prayas" — future/maang; Rs 3 crore sports complex swikriti CM Nitish ne di thi (unhone sirf ghoshna ki, credit CM ka), reject; Amarujala Feb 2026 "Mati Ka Bal dangal" — event, udghatan Deputy CM Samrat Choudhary ne kiya, reject; Jagran 8 May 2026 cabinet expansion — appointment news, reject; avnnews.in drainage critical piece — kaam nahi, koi FIR/janch nahi, reject; lalluram hospital-deaths fatkaar — nirikshan/daura, reject; lokmattimes Mar 2026 CM Nitish ka Jamui Rs 914 crore visit — sirf maujoodgi, reject; suncitynews Jun 2026 Gaya Rs 170 crore MSME centre — kshetra-bahar + sirf upasthiti, reject; ETV Bharat 22 Nov 2025 blueprint interview — "karenge" future, reject; Wikipedia/dynamitenews/patnapress/ET/Mathrubhumi — profile pieces, reject.
+
+biharWorks['damodar-rawat'] = [
+  {
+    title: 'Jhajha ke Hathia panchayat ke Sundaritand school me Zila Parishad fund se bane library-cum-kala manch aur PCC beautification ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 21 Dec 2025',
+    sourceUrl: 'https://www.livehindustan.com/bihar/jamui/story-new-library-and-arts-center-inaugurated-in-jhajha-to-boost-education-201766257517303.html',
+    date: '2025-12-20',
+    note: 'Utkramit Uchch Vidyalaya Sundaritand (Hathia panchayat, Jhajha block) me Zila Parishad fund se lagbhag Rs 8.9 lakh ki lagat se bana library-cum-kala manch aur PCC beautification ka karya poora hua, aur Damodar Rawat ne 20 December 2025 ko uska udghatan kiya. Credit-pardarshita: article ke anusaar chunav ke dauran graminon ki pustakalaya-maang par Zila Parishad pratinidhi Rakesh Kumar Singh ne sankalp liya tha aur vaada poora hua — fund aur project ownership Zila Parishad ki hai (sadasya Deepika Kumari karyakram me upasthit thi); MLA ki concrete role udghatan aur sambodhan tak seemit hai. Stage: kaam poora + udghatan (post-event reporting, 21 Dec 2025).',
+    period: '2025-2030',
+  },
+  {
+    title: 'Giddhaur prakhand ke Bandhaura gaon me jeernoddhar ke baad samudayik bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'AVN News, 25 Sep 2026',
+    sourceUrl: 'https://avnnews.in/state/community-c/',
+    date: '2026-09-25',
+    note: 'Bandhaura sthit samudayik bhavan ka jeernoddhar aur marammti-karan karake use graminon ke upyog ke liye dobara uplabdh karaya gaya; Damodar Rawat ne 25 September 2026 ko udghatan kiya. Fund-srot/rakam: article me ullekh nahi hai. Credit-pardarshita: Rawat ne udghatan samaroh me khud kaha ki bhavan ka mool nirmaan unke bhawan nirman mantri ke pichhle karyakaal me hua tha — is karyakaal ka kaam keval renovation + lokarpan hai, naya nirmaan nahi. Stage: renovation poora + lokarpan (post-event reporting, 25 Sep 2026). Disclosure: AVN News chhota Jamui-based local portal hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (damodar-rawat): news4nation Jul 2025 Baramasiya pul shilanyas (Rs 6.25 crore, PWD) — pre-event announcement + pre-term (Jagran Sep 2026 ne slow construction ki shikayat confirm ki, koi naya kaam nahi), reject; gidhaur.com Jul 2025 3 naye APHC (Rs 1.30 crore pratyek, State Health Society, 15th Finance Commission) — pre-term, reject; gidhaur.com Aug 2025 Karhara samudayik bhavan shilanyas (Rs 7.5 lakh, CM Kshetra Vikas Yojana) — pre-term, reject; gidhaur.com Jul 2025 Gidhaur 3 sadak shilanyas (Rs 1.46 + 1.14 + 4.59 crore) — pre-term, reject; LiveHindustan 2024 Gidhaur MNREGA khel maidan (Rs 38.5 lakh) — pre-term, reject; Prabhat Khabar Oct 2026 Ganesi Ghat-station sadak — "banayi jayegi" future assurance, zameen ki pehchan tak nahi, reject; Prabhat Khabar ~Sep 2026 Gidhaur janata darbar — sirf sunvai, nirikshan/daura, reject; YouTube (CHC Jhajha "double udghatan" critical video) — YouTube-only, reject; LiveHindustan Dec 2025 article me daawa ("16 panchayat me Plus-Two bhavan swikriti dilwayi") — bina sanction saboot ke ghoshna-type daawa, reject; newsmaati.com Damodar nadi pul (Ramgarh, Jharkhand, Rs 17.48 crore) — galat vyakti (nadi ka naam; MLA Raushan Lal Chaudhary), reject; Odisha "Damodar Rout" statue — alag vyakti, reject; PatnaPress transport-dept/EV-policy — state-level mantri kaam, kshetra-bahar, reject; Kiul-Jhajha railway third line — kendra project, MLA role reported nahi, reject; Dainik Bhaskar Oct 2025 nomination coverage — election news, reject; purani CBI/Muzaffarpur shelter-home khabrein (2018-2020) — pre-karyakaal, current term me koi nayi FIR/janch development nahi, reject.
+
+biharWorks['savitri-devi'] = [];
+
+// REJECT-LOG (savitri-devi): gidhaur.com 20/02/2018 teen sadak marammat shilanyas — 2015-2020 karyakaal, pre-term, reject; jamuitoday.com ~2019-2020 (Gander road Rs 1.25 cr, Sarebad kala manch, Bujhayat pul) — sab 2015-2020, pre-term, reject; voiceofbihar.in 3 Oct 2026 CM Samrat Choudhary ka Chakai ethanol plant nirikshan — Savitri Devi sirf "maojood janjpratinidhiyon" me, koi bhoomika nahi (IANS feed: bhaskarlive/asianetnews/hiindia/lokmattimes/thehansindia/punjabkesari), reject; livehindustan.com 6 Jan 2026 UCO Bank sthapna divas — bank samaroh, phita/keek, kaam nahi, reject; jagran.com 16 Dec 2025 "daavon ki pol" (Chakai referral hospital, 2-saal ki bachchi ko dawa nahi) — unpar koi vyaktigat aarop, FIR/case ya adhikarik janch nahi, unka jawab nahi — negative threshold fail, reject; livehindustan.com Mar 2026 Banka Sanskrit vidyalaya janch-maang — kshetra-bahar + sirf maang, reject; biharinfratales tarankit prashn 18/2/481 (vidyut bhandar) — sirf prashn, reject; citychanneljamui.blogspot.com Oct 2026 CM daura — blogspot-only + sirf maujoodgi, reject; ET/Indian Express/News18/NDTV/dnaindia Nov 2025 — sirf chunav parinaam coverage, reject. Profile imaandari se khaali rahi.
+
+// Coordinator QA note (Jamui, 2026-10-14): Is file me maujood unpushed Jamui batch purane coordinator-pass se aaya tha jisme schema violations the (entry objects me scaffolding comments, ek English title, ek credit detail galat) — use is sudhare hue batch se replace kiya gaya hai (push nahi hua tha, isliye koi shipped data overwrite nahi hua). 4 workers ke fresh research fragments AC order (Sikandra-240 -> Jamui-241 -> Jhajha-242 -> Chakai-243) me canonical schema {title, category, badge, sourceLabel, sourceUrl, date, note, period} me assemble kiye gaye; 4/4 slugs pehle batch me the lekin naya research + QA sudhaar ke saath badla gaya. Spot-QA: Sundaritand article khud kholkar verify kiya — ZP pratinidhi Rakesh Kumar Singh ka chunav-vaada tha (sadasya Deepika Kumari upasthit), note sudhara gaya; Kanya Pakri udghatan article khud khola — udghatan 6 Apr 2026 confirm. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal-\n, 0 entry-comments; badges/categories valid; period '2025-2030' sab me; titles pure Hinglish vakya, currency 'Rs'.
