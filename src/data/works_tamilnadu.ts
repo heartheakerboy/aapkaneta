@@ -4296,3 +4296,93 @@ tamilNaduWorks['sivakumar-c'] = [];// ---- Viluppuram REJECT-LOG: ganeshkumar-a 
 // (koi reject-log fragment me nahi mila)
 
 // ---- Coordinator QA note (Viluppuram, 2026-10-15): 6/6 MLA researched (6 parallel workers, sab completed). Sabhi 6 profiles imaandari se KHAALI (0 entries, 0 negatives). Vanni Arasu 22 May 2026 se Social Justice Minister hain — saari coverage portfolio-level/statewide, seat-level kuch nahi. Shanmugam C Ve par SC Rs 10 lakh costs order pre-term (as MP, Aug 2025) + koi nayi sthiti nahi → negative nahi; unki chunav-yachika kharij (Oct 2026) = yachika akeli, negative nahi. Lakshmanan R ke 2020 COVID-protest cases (affidavit me 1) par May 2026 ke baad koi nayi sthiti nahi → negative nahi. Sivakumar C purani sabha me Mailam ke MLA the (same person), Vikravandi nayi seat — purane-kaam pre-term. Hygiene: fragments me 0 Devanagari/Tamil script, 0 Rs-symbol; entry objects me 0 comments; sabhi 6 slugs append se pehle file me 0 matches the — koi overwrite nahi. Marker exactly 1x. ----
+// ---- Virudhunagar district batch (researched 2026-10-15) ----
+tamilNaduWorks['jegadeshwari-k'] = [
+];
+
+// REJECT-LOG (jegadeshwari-k, TVK, Rajapalayam AC): pehchan verified (65,548 votes, margin 10,605; pesha News Editor; 21 May 2026 se Minister for Social Welfare and Women Empowerment — isliye "Social Welfare Minister K. Jegadeshwari" wali sab khabrein inhi ki hain).
+// 1. Audio clip controversy (The Hindu, 27 Jul 2026): TVK functionary ko dhamkane ka viral audio — REJECT: MLA par koi FIR/case/janch nahi, sirf party-functionary ka bayan.
+// 2. Weavers protest (The Hindu, 27 Sep 2026): bunker ka misleading-post aarop — REJECT: koi FIR/case/janch nahi.
+// 3. Car accident (The Hindu/NIE, 7 Sep 2026): unki registered car se Chennai me ek ki maut; wo car me nahi thi, case sirf driver par — REJECT: MLA par koi aarop nahi + Chennai kshetra me hui ghatna + parivar-angle (member gaadi me the).
+// 4. Corruption review meeting (The Hindu, 3 Jul 2026): Virudhunagar me adhikariyon ki samiksha — REJECT: sirf nirikshan/samiksha.
+// 5. District in-charge appointment (Jun 2026) — REJECT: prashasanik niyukti, kaam nahi.
+// 6. Thoothukudi scheme review (The Hindu, 11 Sep 2026): welfare vitran — REJECT: kshetra-bahar + charity.
+// 7. Gold-ring distribution Virudhunagar (Sep 2026) — REJECT: kshetra-bahar (Virudhunagar AC) + welfare.
+// 8. Polio camp Pullalakottai (The Hindu, 28 Jun 2026) — REJECT: Virudhunagar AC ka hissa + charity.
+// 9. Silambam event protocol vivad (The Hindu, 26 Jun 2026) — REJECT: protocol vivad, koi aarop/case/janch nahi.
+// 10. PM Modi NH-744 lokarpan (TOI, 11 Oct 2026) — REJECT: central NHAI project, MLA ki dastavezi bhoomika nahi.
+// 11. Thisai mentorship sambodhan (27 May 2026) — REJECT: event address, kaam nahi.
+// 12. Minister profile/oath stories — REJECT: background/ceremonial.
+// 13. Rajapalayam GH building + link road (Feb 2026) — REJECT: pre-term, Jegadeshwari ki bhoomika nahi.
+// 14. Election coverage — REJECT: chunav khabar.
+// 15. Women's scheme Rs 2,500 hike statement — REJECT: "karenge" stage, koi GO/reporting nahi.
+
+tamilNaduWorks['karthik-a'] = [
+];
+
+// REJECT-LOG (karthik-a, TVK, Srivilliputhur AC): 5 search rounds; sab results chunav coverage ya pre-term.
+// 1. Illegal sand mining confrontation Mamsapuram (The Hindu, 28 Jun 2026): DMK functionary par MLA ko dhamkane ka case — Karthik complainant/victim hain — REJECT: na unke khilaf negative, na work entry (sirf inspection, koi lokarpan/swikriti nahi).
+// 2. PM Modi highways lokarpan incl. Srivilliputhur-Rajapalayam bypass (TOI, Oct 2026) — REJECT: central NHAI project, MLA ki bhoomika nahi.
+// 3. Paracheri→North Achamthavilthan rename (NIE, 27 Sep 2026): revenue dept order + HC faisla; article me MLA ka naam tak nahi — REJECT.
+// 4. Naam-trap: K. Karthik Kumar (Aruppukottai TVK haare candidate) — alag vyakti, reject.
+
+tamilNaduWorks['kadarkarairaj-a'] = [
+];
+
+// REJECT-LOG (kadarkarairaj-a, DMK, Sattur AC): 8+ search rounds — sab chunav coverage ya pre-term.
+// 1. "Kadarkarairaj inauguration" hits — sirf Wikipedia/election pages, reject.
+// 2. Gold theft news (The Hindu, 14 Apr 2026) — pre-term; MLA crime-victim the, reject.
+// 3. "DMK MLA land-grab booked" (NIE, Oct 2026) — GALAT VYAKTI: T.M. Rajendran (Kadayanallur) ka mamla.
+// 4. Sattur bus-stand renovation / Rs 48cr UGD — Udhayanidhi ke Apr 2026 campaign speech ke claims, pre-term, reject.
+
+tamilNaduWorks['keerthana-s'] = [
+  { title: 'Sivakasi Pyrotechnics Common Facility Centre ki ghoshna (Vidhan Sabha, 25 Aug 2026)', note: 'The Hindu (25 Aug 2026) ke anusaar, Industries Minister S. Keerthana ne Vidhan Sabha me Sivakasi ke liye ek dedicated Sivakasi Pyrotechnics Common Facility Centre ki ghoshna ki — Sivakasi unki apni chunav seat hai. Credit-transparency: ye ghoshna unhone mantri ke roop me ki thi; article me koi sanction rashi ya GO darj nahi hai; abhi tak kaam ghoshna stage par hai (Oct 2026 me TIDCO ne DPR consultant ke liye tender nikala — alag entry me darj).', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/tamil-nadu/keerthanaannounces-new-industrial-parks-and-accommodation-for-over-2500sipcotworkers/article71389853.ece', date: '2026-08-25' },
+  { title: 'Sivakasi Pyrotechnic Common Facility Centre ka DPR tender aage badha (Oct 2026)', note: 'The New Indian Express ke anusaar, TIDCO ne Virudhunagar me lagbhag 35 acre par proposed Sivakasi Pyrotechnic Common Facility Centre ke liye DPR aur financial analysis taiyar karne wale consultant ki tender nikali. Centre me testing, certification, research, automation, skills training aur technology commercialisation ke 7 integrated modules honge; TANFAMA adhyaksh ne CM Vijay aur Industries Minister S. Keerthana ka shukriya kiya. Credit-transparency: ye Aug 2026 ki Keerthana ki Vidhan Sabha ghoshna ka prashasanik follow-through hai; site abhi final nahi hui, DPR stage par hai.', period: '2026-2031', category: 'Any', badge: 'news', sourceLabel: 'The New Indian Express', sourceUrl: 'https://www.newindianexpress.com/amp/story/states/tamil-nadu/2026/Oct/14/dpr-planned-to-give-indias-fireworks-capital-a-defence-makeover', date: '2026-10-14' },
+];
+
+// REJECT-LOG (keerthana-s, TVK, Sivakasi AC): Keerthana 21 May 2026 se Industries Minister hain — saari statewide coverage portfolio-level.
+// 1. Sivakasi-Thiruthangal flyover review (The Hindu, 6 Oct 2026) — REJECT: sirf samiksha, kaam pehle se sanctioned.
+// 2. Cracker global export policy (DT Next, 14 Jun 2026) — REJECT: "karenge" stage.
+// 3. 50-container order readiness (Jul 2026) — REJECT: private business order.
+// 4. Factory blast shok/madad — REJECT: charity/raahat, kaam nahi.
+// 5. Sivakasi convention centre — REJECT: pre-term + doosre mantri ne shilanyas kiya.
+// 6. Oath-skip certificate chook — koi negative nahi (prashasanik chook, aarop nahi).
+
+tamilNaduWorks['selvam-p'] = [
+];
+
+// REJECT-LOG (selvam-p, TVK, Virudhunagar AC): pehchan verified (S.P. Selvam; 63,653 votes, margin 9,391; 31 saal; 3 pending cases — established case-level reporting nahi).
+// 1. Thaimaman scheme gold-ring event Virudhunagar — sirf maujoodgi, reject.
+// 2-3. Chunav prachar/parinaam coverage — pre-term ya kaam nahi, reject.
+// 4-7. Naam-traps pakde: P. Periyapullan alias Selvam (Melur AIADMK), Selvam D (Chepauk TVK candidate), K Varichur Selvam (history-sheeter), K Selvam (Kancheepuram MP) — sab alag vyakti, reject.
+// 8. Negative check: halafname ke 3 pending cases par established FIR/case/janch reporting + jawab nahi — negative nahi.
+
+tamilNaduWorks['ramachandran-k-k-s-s-r'] = [
+];
+
+// REJECT-LOG (ramachandran-k-k-s-s-r, DMK, Aruppukottai AC): purv mantri — saari mantri-kaal coverage pre-term.
+// 1-7. West Bypass road (Rs 154.99cr), Aruppukottai GH building (Rs 30.35cr), Taluk office (Rs 4.49cr), Tamirabharani water scheme + UGD shilanyas, Sub-Registrar office, Bus Stand redevelopment, 4 hospital buildings — SAB pre-term mantri-kaam, reject.
+// 8. Medical camps 2023 — charity, reject.
+// 9. Powerloom weavers "common ETP" — "karenge", pre-poll, reject.
+// 10-11. Chunav coverage/dharna — kaam nahi, inpar koi aarop nahi, reject.
+// 12. Madras HC bhrashtachar-case restoration (legalit.ai, Aug 2024) — pre-term + non-established source, reject.
+// 13. Vikatan FIR (V&AC 7/2026, Sep 2026) — aaropi hone ki pushti nahi, reject.
+
+tamilNaduWorks['thangam-thenarasu'] = [
+];
+
+// REJECT-LOG (thangam-thenarasu, DMK, Tiruchuli AC): purv Vitt Mantri (May 2023–May 2026) — mantri-kaal ke saare kaam pre-term; 2026 me opposition MLA. Kancheepuram ke TVK MLA "Thennarasu.K" BILKUL ALAG vyakti — unki koi khabar inpar nahi.
+// 1. Chunav jeet/parinaam coverage — chunav khabar, reject.
+// 2. Affidavit "1 criminal case" — sirf affidavit line; case ki poori reporting neeche (item 12) me cover.
+// 3. The Hindu pre-poll Tiruchuli report (Apr 2026) — pre-poll "karenge" khabar, reject.
+// 4. NIE "Trial of twin hurdles" (Apr 2026) — pre-poll; mantri-kaal ke kaam pre-term, reject.
+// 5. Affidavit page — background, reject.
+// 6. Shapath-grahan — ceremonial, reject.
+// 7. Indoor Sports Complex inauguration (Union FM, Jul 2026) — article me unka naam hi nahi; kendriya mantri ka karyakram, reject.
+// 8. Hospital buildings handover (Feb 2026) — pre-term, reject.
+// 9. Town buses flag-off (2021-era) — bahut purana, reject.
+// 10. Tiruchuli college/ITI/bus stand (2021-26) — mantri-kaal pre-term, reject.
+// 11. COORDINATOR OVERRIDE — DA case (DVAC FIR 3/2012, charge sheet 2012, Spl Case 20/2019 Srivilliputhur; Dec 2022 discharge, HC Aug 2024 ne trial ka order diya, SC Sep 2024 me stay, transfer petition Jan 2026 pending) ko worker ne NEGATIVE banaya tha — REJECT: saari documented prakriya-sthiti karyakaal se pehle ki hai; May 2026 ke baad ka koi established naya vikas (nayi FIR/chargesheet/faisla/adalaati karyavahi) reporting me nahi mila. Judges-recusal wali khabar ka poora article nahi khul paya (sirf archive snippet), isliye us par entry nahi. (M. Vincent precedent.) Wife Manimegalai A2 hain lekin case A1 (Thenarasu) par hai — parivarik nahi, phir bhi negative banane layak current-tenure vikas nahi.
+// 12. SEAT-WORK NATIJA: May-Oct 2026 tak established English press me Tiruchuli seat par unki vyaktigat bhoomika wali koi qualifying entry NAHI mili — profile imaandari se khaali.
+
+// ---- Coordinator QA note (Virudhunagar, 2026-10-15): 7/7 MLA researched (7 parallel workers, sab completed). Sabhi 7 slugs append se pehle file me 0 matches the — koi overwrite nahi. TN works kul titles: 61 → 63 (+2, dono keerthana-s ki ghoshna/DPR-tender entries, file me title: grep karke verified). Coordinator edits: (1) keerthana-s entry 1 ka note saaf kiya — Hindu article me "Rs 2 crore/Industrial Economist" detail nahi thi, usi ko hata kar coordinator ne article khud padha (L21-22 me CFC ghoshna confirm) aur note ko padhe-gaye source tak seemit kiya; (2) thangam-thenarasu ki DA negative KO coordinator ne OVERRIDE karke REJECT kiya — sabhi documented prakriya-sthiti pre-term hain (latest Jan 2026 transfer petition), May 2026+ ka koi established naya vikas nahi; (3) worker fragments ke alag batch-markers nahi liye gaye (sirf heading comment rakha). tsc PASS, build PASS, render check PASS. Push/deploy NAHI kiya (nirdesh anusaar — parent sambhalega). ----
