@@ -158,3 +158,72 @@ biharWorks['pramod-kumar-singh'] = [
 // REJECT-LOG (pramod-kumar-singh): ismatimes Nov 2025 chunav-prachar — pre-term, reject; LiveHindustan 17 Nov 2025 CM mulakat — sirf charcha, reject; party sangathan niyukti — party kaam, reject; athnews11 Oct 2026 pratima anavaran — sirf maujoodgi, reject; ismatimes Jeevika karyakram — party event, reject; Bhaskar Jan 2026 Super Bazar ghoshnaen — "karenge", reject; ismatimes Jul 2026 vidhan sabha mudde — sirf maang/prashn, reject; ismatimes Jun 2026 shok-mulaakat — sanvedna, reject; ismatimes Jul 2026 teen-divasiya karyakram — baithak/charcha, reject; LiveHindustan Jan 2026 janta darbar + public.app — sirf suni/nirdesh, reject; ismatimes May 2026 police-bayan — rajnaitik bayan, reject; ismatimes Jul 2026 patrakar samman — samman, reject; LiveHindustan Jan 2026 nagar panchayat baithak — sirf maujoodgi, reject; LiveHindustan Jan 2026 JD(U) sadasyata — party, reject; YouTube items — YouTube-only, reject; public.app nirikshan — reject; ismatimes 12 Dec 2025 Rafiganj golikand — RJD aarop par MLA ka khandan mila, lekin MLA ke viruddh FIR/case/janch ki reporting nahi — negative rule poora nahi, reject; pinewz Dec 2025 MLA ka CO-aarop — swayam-aarop, reject.
 
 // Coordinator QA note (Aurangabad-Bihar district batch, researched 2026-10-14): 3 parallel workers (A: amrendra+prakash, B: chetan+lalan, C: trivikram+pramod); maine teeno fragments khud padhkar QA kiya. Prakash Chandra ki dawa entry aur Chetan Anand/Lalan Ram ki titles+notes workers ne English me likhe the — sabko Roman-Hinglish me badla, disclosures poornatah preserve kiye; Pramod Kumar Singh ki entry workers ki hi rakhi (pehle se Hinglish, single-source disclosure + credit-pardarshita saaf). Prakash Chandra ki dawa-entry rakhne ka faisla: ye unka news-me-report hua swayam-daava hai (Patna Press + Patrika corroboration), pre-inauguration nature aur no-post-event-coverage note me disclose hai — dawa-badge ke sthapit pattern par rakhi. Pramod ki nahar-pipe entry accountability-action precedent (dastavezi parinam) par rakhi, single-source chhota-portal disclosure ke saath. Rafiganj golikand negative reject (koi FIR/case nahi), Chetan Anand par pita-Anand-Mohan ki koi khabar nahi jodi. Sabhi 6 slugs pehle khaali the — koi overwrite nahi. Bihar works kul: 3 → 8 entries.
+
+// ---- Banka district batch (researched 2026-10-14) ----
+
+biharWorks['jayant-raj'] = [
+  {
+    title: 'Salempur panchayat ke Khemichak gaon me Rs 8 lakh ki lagat se bane navnirmit Ambedkar Bhavan ka lokarpan aur Baba Saheb Ambedkar ki pratima ka anavaran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 8 Jun 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/banka/story-inauguration-of-ambedkar-bhavan-in-khemichak-village-by-mla-jayant-raj-201780947804960.html',
+    date: '2026-06-08',
+    note: 'Live Hindustan ki post-event report ke anusaar Somvar 8 June 2026 ki shaam ko sthaniya vidhayak Jayant Raj ne Amarpur ke Salempur panchayat antargat Khemichak gaon me navnirmit Ambedkar Bhavan ka lokarpan kiya aur Baba Saheb Dr Bhimrao Ambedkar ki bhavya pratima ka anavaran kiya; unhone kaha ki graminon tatha kshetra ke logon ki maang par unhone bhavan nirman ki anushansa ki thi aur lagbhag Rs 8 lakh ki rashi se bhavan ka nirman karaya gaya. Stage: lokarpan (nirman poorn). Credit-pardarshita: article me yeh spasht nahi hai ki anushansa kab di gayi thi aur nidhi ka srot (vidhayak-nidhi/MKVY ya koi sarkari yojna) kya tha — isliye swikriti-stariya daave ko satyapit nahi maana gaya hai; entry lokarpan ke charan me vidhayak ki kendriya bhoomika ke aadhar par rakhi gayi hai. Date-disclosure: article ke fetched text me print tithi nahi dikhi; search-engine last-updated ~9 Jun 2026 hai aur article me "Somvar ki shaam" likha hai — 8 Jun 2026 ko Somvar tha, isliye 2026-06-08 (est.) maani hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (jayant-raj): mantri-kaaryakaal shilanyas/udghatan (nationalexpress, ~Oct 2025) — pre-Nov 2025 + mantri bhoomika, reject; Amarpur-Salempur road shilanyas Jun 2023 (news4nation) — pre-term, reject; Paphari Jharna mela Jan 2026 — YouTube-only + mela udghatan, reject; LiveHindustan 27 Jan 2026 "aaj shilanyas/udghatan hoga" — pre-event schedule, post-event coverage nahi, reject; Amarpur bypass nirikshan Feb 2026 — sirf nirikshan, reject; 3 APHC swikriti Jun 2025 — pre-term, reject; bijli taar/sub-station maang-patra Aug 2026 (bankadarshan) — sirf maang, reject; Saraswati puja daura Jan 2026 — dharmik daura + ghoshna, reject; 30-bed referral aspatal shilanyas Oct 2025 (pinewz) — pre-election mantri-kaaryakaal, reject; chunavi sabha Sep 2025 — pre-term + chunavi bayan, reject; CM daura sthal nirikshan Feb 2025 (deshbandhu) — pre-term + sirf nirikshan, reject; CM Rs 363 cr event Feb 2025 (illustrateddailynews) — pre-term + sirf maujoodgi, reject; purane karyakal ke kaam (Jagran seat analysis Jul 2025, apnabiharjharkhand smart-gaon Jun 2025) — pre-term, reject; jeet-jashn/namankan news Nov 2025/Oct 2025 — election news, reject. Negative: dhamki-giraftari case Sep-Oct 2025 me vidhayak SHIKAR tha, aaropi nahi — koi qualifying negative reporting nahi.
+
+biharWorks['manish-kumar'] = [
+  {
+    title: 'Rajoun ke Barauni gaon ke paas Katriya nadi par Rs 29.04 crore ki lagat se weir aur cross-regulator ke nirman kaary ka shubharambh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'India Frontline News, 8 Jan 2026',
+    sourceUrl: 'https://indiafrontlinenews.in/farmer-welfare-agricultural-development-is-the-top-priority-mla-%e0%a4%95%e0%a4%bf%e0%a4%b8%e0%a4%be%e0%a4%a8-%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a3-%e0%a4%95%e0%a5%83%e0%a4%b7/',
+    date: '2026-01-08',
+    note: 'Jal Sansadhan Vibhag ki yojna (Rajoun block, Barauni gaon ke paas Katriya nadi par weir aur Rajdand par cross-regulator; kul lagat Rs 29.04 crore) ke nirman kaary ka vidhivat shubharambh vidhayak Manish Kumar ne kiya; article me 84 mauzaon ke kisano ki sichai samasya ke sthayi samadhan, bhu-jal star me sudhar aur 18 mahine me poora karne ka nirdesh (thekedaar: Birampur Construction) darj hai. Stage: shubharambh (karyarambh). Disclosure: yeh vibhagiya sichai yojna hai — article me vidhayak-nidhi ya MKVY se sambandhit hone ka koi zikr nahi hai; vidhayak shubharambh ke charan me kendriya bhoomika me the, isliye entry rakhi hai. Srot India Frontline News kshetriya chhota portal hai, iska disclosure diya ja raha hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (manish-kumar): 4 PCC sadak udghatan ~2014 (Prabhat Khabar) — pre-Nov 2025 purana karyakaal, reject; Logai gaon samasya-sunwai Jun 2025 (LiveHindustan) — pre-election + sirf aashwashan, reject; aabhar yatra Nov 2025 / nagrik abhinandan Dec 2025 — karyakram, kaam nahi, reject; CDPO ke khilaf DM ko patra Dec 2025 — sirf patra/maang, reject; kshetriya daura Sep 2026 — sirf daura, reject; Bhagalpur-Hansdiha sadak Jul 2026 — pehal ke baad bhi marammat shuru nahi, reject; Mandar Mahotsav manch-vivad Jan 2026 — siyasi khabar, reject; CM Samriddhi Yatra Mar 2026 (aliyesha) — CM karyakram me sirf maujoodgi, reject; YouTube dainikloksamvad series (sadak-hari-jhandi, degree college maang, 20-sutri karyalaya, Ambedkar chhatravas pehal, railway manjuri, CHC nirikshan, dahi-chura bhoj, Mandar bhashan) — sab YouTube-only (+ pehal/maang/nirakshan/bayan), reject; public.app Dec 2025 items (sabhagar jirnoddhar, Patwa/Beligachh Rs 12.55 cr weir) — public.app-only, reject; 2009 aachar sanhita case me court ne ~Mar 2026 bari kiya — doshmukti, negative entry nahi; JPSC Manish Kumar (DSP, Jharkhand) — galat vyakti, reject.
+
+biharWorks['ram-narayan-mandal'] = [];
+
+// REJECT-LOG (ram-narayan-mandal): samiksha baithak 30 Dec 2025 (LiveHindustan) — sirf samiksha/nirdesh, reject; Vikasit Bharat exhibition udghatan 15 Jan 2026 — kendriya karyakram udghatan, kaam nahi, reject; Seva Setu shivir ~Oct 2026 me mukhya atithi — sirf maujoodgi, reject; 36va Banka jila sthapna divas Feb 2026 — sirf sambodhan, reject; medical college maang Jun 2026 — sirf maang/gyapan, reject; Panjwara bijli sankat Aug 2026 — sirf aashwasan, reject; Rs 160 crore Banka bypass bayan Jan 2026 (Jagran) — sirf bayan, reject; Bhagalpur-Bhaljor four-lane CM shilanyas (pre-event) — pre-event + CM karyakram, reject; Chapra samudayik bhavan Jul 2025 / 2016 shilanyas / aspatal articles — pre-term, reject; Amarpur items (alga seat — Jayant Raj), Kaitha bhavan (Manoj Yadav, Belhar), Dhoraiya CHC nirikshan (Manish Kumar), Sultanganj udghatan (Lalit Narayan Mandal) — galat vyakti/kshetra, reject; YouTube-only items (haat udghatan, Bihar Diwas, Maharudra yajna, press-conference ghoshna) — reject; election coverage — kaam-khabar nahi. Koi established negative reporting nahi. Profile imaandari se khaali rahi.
+
+biharWorks['puran-lal-tudu'] = [
+  {
+    title: 'Bounsi ke Mandar Tarai kshetra me adivasi samaj ke saamuhik Jaher Thaan ka shilanyas vidhayak Puranlal Tudu aur Guru Mata Rekha Hembram ne sanyukt roop se kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Bhaskar, 13 May 2026 (est.)',
+    sourceUrl: 'https://www.bhaskar.com/local/bihar/banka/bounsi/news/committed-to-preserving-cultural-heritage-dbp-137930263.html',
+    date: '2026-05-13',
+    note: 'Mandar Tarai kshetra (Bounsi block, Katoria AC-162) me adivasi samaj ke saamuhik Jaher Thaan ka shilanyas vidhayak Puranlal Tudu ne Guru Mata Rekha Hembram ke saath sanyukt roop se kiya; vidhi-vidhan se pooja-archana ke saath dharmik-sthal nirman karya ka shubharambh hua. Stage: shilanyas (karyarambh). Disclosure: yeh samudaayik adivasi dharmik-sthal ka nirman hai — article me kisi sarkari nidhi, vidhayak-nidhi ya yojana (MKVY aadi) ka zikr nahi hai; tithi par print date nahi thi — article me "Budhvar ko" likha hai aur search-engine last-updated May 2026 hai — 13 May 2026 ko Budhvar tha, isliye 2026-05-13 (est.) maani hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (puran-lal-tudu): Shravani Mela kanwariya-path nirikshan (Zee News, ~Sep 2026) — sirf nirikshan/nirdesh, reject; Ganinath mandir sadak/peyjal "karenge" ghoshna (Prabhat Khabar, Sep 2026) — bina saboot, reject; Banka sadar aspatal auchak nirikshan (LiveHindustan, Oct 2026) — sirf nirikshan, reject; Bounsi referral aspatal nirikshan (blogspot) — nirikshan + blogspot-only, reject; PM birthday tricycle vitran (Jagran, Sep 2026) — prashasanik karyakram me sanyukt maujoodgi, reject; Viksit Bharat pradarshani udghatan (Jan 2026) — karyakram, kaam nahi, reject; topper felicitation (Prabhat Khabar) — sirf maujoodgi, reject; "Katoria CHC me doctor" maang — poorv vidhayak ki maang, alag vyakti + sirf maang, reject; jeet ke baad "karenge" bayan (Nov 2025) — ghoshna-type, reject; Amarpur ke shilanyas — alag seat/alag vyakti, reject; YouTube-only/public.app-only hits — reject; election coverage — kaam nahi. Koi qualifying negative reporting nahi mili. 1 entry bani.
+
+biharWorks['manoj-yadav'] = [
+  {
+    title: 'Chandan block me Horilwatand-Jerua aur Chatrahan Nich Tola se Fatoia samet aadhe darjan gramin sadkon ka vidhivat shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 13 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/banka/story-manoj-yadav-initiates-rural-road-development-in-chandam-bihar-201768247252559.html',
+    date: '2026-01-12',
+    note: 'Chandan (Banka) me 12 January 2026 (Somvar) ko shilanyas karyakram: bhoomi-pujan ke baad vidhayak Manoj Yadav ne Gramin Karya Vibhag ke sahayak abhiyanta Shankar Prasad Yadav aur kaniya abhiyanta Ajit Kumar ki upasthiti me aadhe darjan gramin sadkon ka narial phodkar vidhivat shilanyas kiya; sadkon me Horilwatand-Jerua, Chatrahan Nich Tola se Fatoia, Bhadaria Boda se Sugarcoal, Dhavakol-Deemakhand (anganwadi kendra) sadak aur Hanumana Dam se Kailashpahadi gaon sadak shamil hain. Stage: shilanyas (karyarambh); nirman purnata ki alag khabar nahi mili. Disclosure: article me kul rashi ka exact aankda nahi hai (sirf "karoron ki lagat" likha hai) aur nidhi (vidhayak-nidhi/MKVY) ka koi zikr nahi hai; yeh Gramin Karya Vibhag ki yojna hai — swikriti me vidhayak ki bhumika ka article me dastavezi saboot nahi hai; shilanyas charan me vidhayak ki kendriya bhoomika ke karan entry rakhi hai.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (manoj-yadav): Suiya market Rs 10 cr PHED nal-jal shilanyas (LiveHindustan, 8 Mar 2026) — pre-event schedule khabar ("hoga shilanyas", future tense), post-event follow-up nahi, reject; zila parishad meeting 14 Dec 2025 — vidhayak-nidhi ghoshna bina sanction saboot, reject; vidhansabha prashn-kal Feb 2026 (Asnatari sadak) — sirf prashn/maang, reject; path-nirman mantri mulakat Jun 2026 — sirf mulakat/maang, reject; Mandar Mahotsav walkout Jan 2026 — virodh, reject; Hanumana Dam samman Dec 2025 — pre-event + samman, reject; CM swagat May 2026 (Prabhat Khabar) — maujoodgi + ghoshna, reject; solar mela (Vimeo/blogspot, Aug 2026) — event + non-news source, reject; MMGSY sadak shilanyas Sep 2025 (patnanews24live) — pre-term, reject; samudayik bhavan/anganwadi udghatan Jul 2025 — pre-term, reject; 2021-22 items (gramsamachar, samajjagran) — pre-term, reject; football tournament udghatan — khel event, reject; YouTube shorts jan-sampark — YouTube-only + daura, reject; public.app Oct 2026 — aggregator-only, reject; laghu-sinchai samiksha Sep 2024 — pre-term, reject. Galat-vyakti: Barhi/Chandwara BJP MLA Manoj Kumar Yadav (Jharkhand) x2, Kalyanpur RJD MLA Manoj Yadav (TOI FIR), Bihar MLC Manoj Yadav (DNA), casestatus accused (Kushidol) — sab alag vyakti, reject. 2009 purana criminal case sirf affidavit record — is karyakaal ki koi qualifying negative reporting nahi. 1 entry rakhi.
+
+// Coordinator QA note: 5/5 fragments padhkar QA kiya — manish-kumar ki note me chhota-portal disclosure khud joda (worker ne chhoda tha); ram-narayan-mandal ka Navbharat Times reject-log me AC-162 likha tha jo AC-161 hona chahiye tha — fragment text me seedha nahi hai, assembly me theek hai; Devanagari/₹/literal-\n/extra comments zero; badges sirf news 4/4; period '2025-2030' 4/4; titles pure Hinglish vakya; currency "Rs"; sabhi 5 slugs pehle khaali the — koi overwrite nahi. Total titles 8 → 12 (+4).
+
