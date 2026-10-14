@@ -3948,3 +3948,173 @@ biharWorks['amit-kumar'] = [
 // 5. Positive entries: established/local media me is karyakaal ka koi shilanyas/lokarpan/swikriti (GO ke saath)/complete report nahi mila — 0 positive. Identity check: "Amit Kumar" aam naam — Jharkhand/Delhi wale alag vyakti alag rakhe; sirf LJP-RV Belsand MLA Amit Kumar Ranu / Amit Ranu wali reports.
 
 // COORDINATOR QA (Sitamarhi): 3 workers (A: AC-23/24/25, B: AC-26/27/28, C: AC-29/30) ke fragments ko AC order 23->30 me merge kiya. Kul 7 entries (4 positive + 3 negative). QA fixes: (1) anil-kumar-bihar ki entry ka stage 'complete' se 'lokarpan' par normalize kiya (file me udghatan-type entries ka consistent stage); (2) amit-kumar ki 4th negative (Rs 1.20 lakh jurmana, Republican News-only source) coordinator ne khud corroboration search ki — koi dusra established source nahi mila, isliye negative-source bar par reject karke reject-log me retry-lead darj kiya; (3) N1 ke note me ABP Live (26 Aug 2026) ka update joda — SSP ne pushti ki MLA ko FIR 1323/26 me naamzad aaropi banaya gaya aur police giraftari warrant ke anumodan ka intezaar kar rahi thi; (4) sabhi 8 slugs pehle khaali the — koi overwrite nahi; marker 1x. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; badges valid (news); categories valid; stages valid (positives me lokarpan/shilanyas); period '2025-2030' sabhi me; titles pure Hinglish vakya, currency "Rs"; sourceUrls canonical, khud khole gaye.
+
+// ---- Siwan district batch (researched 2026-10-14) ----
+// ---- Siwan district (Bihar): mangal-pandey (BJP, Siwan AC-105) — researched 2026-10-14 ----
+// Sourcing rule: sirf khud khole gaye canonical article URLs. Election result Nov 14, 2025 ke
+// baad ka naya karyakaal (2025-2030); purane karyakaal ke kaam exclude hain. Mangal Pandey
+// rajya ke varishth mantri hain — isliye sirf Siwan AC-105 SEAT ke kaam rakhe gaye hain,
+// vibhag/rajya-star ke faisle bilkul NAHI.
+
+biharWorks['mangal-pandey'] = [
+  {
+    title: 'Siwan ke Sadar Aspataal parisar me Rs 23.75 crore ki lagat se 50 bed wale Critical Care Block bhavan ka shilanyas',
+    category: 'Aspataal',
+    stage: 'shilanyas',
+    date: '2025-12-18',
+    description: 'Siwan ke Sadar Aspataal parisar me 50 bed wale Critical Care Block (ICU, HDU, operation theatre, dialysis unit, trauma care sahit do-manzila bhavan) ka vidhivat shilanyas swasthya evam vidhi mantri tatha Siwan Sadar ke vidhayak Mangal Pandey ne 18 Dec 2025 ko kiya; kul lagat Rs 23.75 crore batayi gayi aur 15 Jan tak 24 yojnaen poori karne ki baat bhi kahi gayi. Disclosure: yeh swasthya vibhag ki vibhagiya yojna hai — article me vidhayak-nidhi ya MKVY se sambandhit hone ka koi zikr nahi hai; vidhayak ne khud ise apne vidhan sabha kshetra ka kaam batate hue kaha ki nirvachan ke 15 din ke andar lagbhag Rs 24 crore ki is yojna ka shilanyas ho raha hai, isliye seat-level entry rakhi hai. Sadar Aspataal Siwan shahar me hai jo Siwan AC-105 me aata hai.',
+    source: 'LiveHindustan (Hindustan, Siwan)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/siwan/story-new-critical-care-block-launched-in-siwan-to-enhance-health-services-201766051272836.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Siwan Sadar prakhand ki Karnapura panchayat me Panchayat Sarkar Bhavan ka udghatan',
+    category: 'Any',
+    stage: 'lokarpan',
+    date: '2026-01-07',
+    description: 'Siwan Sadar prakhand ki Karnapura panchayat (Siwan AC-105) ke Panchayat Sarkar Bhavan ka udghatan sthaniya vidhayak evam mantri Mangal Pandey aur sansad Vijay Lakshmi Devi ne 7 Jan 2026 ko kiya; mukhiya Rumana Khatoon, samvedak aur sthaniya neta upasthit the. Disclosure: bhavan ke fund srot (vidhayak-nidhi/MKVY ya vibhagiya yojna) ka article me koi zikr nahi hai; udghatan me vidhayak kendriya bhoomika me the, isliye entry rakhi hai.',
+    source: 'LiveHindustan (Hindustan, Siwan)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/siwan/story-inauguration-of-panchayat-government-building-in-siwan-by-local-leaders-201767781769431.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    title: 'Siwan Junction ke paas Kachhari Dhala rail gumti par Road Over Bridge ke nirman ki swikriti ki ghoshna',
+    category: 'Sadak',
+    stage: 'ghoshna',
+    date: '2026-03-26',
+    description: 'Siwan Sadar vidhan sabha kshetra ke Kachhari Dhala (Siwan Junction ke paas rail gumti) par Road Over Bridge (ROB) ke nirman ki swikriti milne ki ghoshna vidhayak Mangal Pandey ne 26 Mar 2026 ko ki; unhone ise lambe samay se chali aa rahi sthaniya maang ka samadhan bataya aur is nirnay ke liye PM tatha kendriya rail mantri ko dhanyavad diya. Disclosure: article me swikriti ke GO/sanction-order number ya lagat ka koi vibhagiya data nahi hai — isliye swikriti stage nahi, ghoshna stage rakha hai; swikriti kendriya railway se sambandhit hai, rajya swasthya vibhag se nahi.',
+    source: 'LiveHindustan (Hindustan, Siwan)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/siwan/story-construction-approval-of-road-over-bridge-in-siwan-a-historic-step-towards-development-201774513320193.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+  {
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'LiveHindustan, 2 Sep 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/former-bjp-mp-omprakash-yadav-show-cause-notice-attacking-mangal-pandey-dustbin-scam-201788363809692.html',
+    date: '2026-09-02',
+    note: 'Aarop: RTI ke hawale se daava ki Bihar ke aspataalon me Rs 15,490 prati unit ki dar se dustbin khareede gaye; RJD ne aarop lagaya ki yeh kathit khareed Mangal Pandey ke swasthya-mantri karyakaal (Feb 2025-Apr 2026) ke dauran hui; Jan Suraaj ke Prashant Kishor ne Pandey ke saath-saath us dauran swasthya mantri rahe Tejashwi Yadav ki bhoomika ki bhi janch ki maang ki. Janch sthiti: vartaman swasthya mantri Nishant Kumar ne is mamle ki janch ke aadesh diye hain; article me FIR darj hone ki koi soochna nahi hai. Neta ka jawab: Pandey ki or se ab tak koi sarvajanik safai saamne nahi aayi; unhi ki party ke poorv sansad Omprakash Yadav ne unse sarvajanik safai ki maang ki to BJP ne Yadav ko show-cause notice bhej diya (6 din me jawab). Sthiti: janch lambit; dosh-siddhi ka koi daava nahi kiya ja raha.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (mangal-pandey): news4nation 16 Jun 2026 — CM Samrat Choudhary ne Siwan me Rs 415.18 crore ki 44 yojnaon ka shilanyas/udghatan kiya, Pandey ne sirf harsh vyakt kiya aur appeal ki — CM ke event me sirf maujoodgi + bayan, reject; LiveHindustan 4 Nov 2025 — "Sundar Siwan ke liye nau sankalp" (NDA pratyashi ke roop me chunavi vaade) — pre-term (result Nov 14, 2025 se pehle) + "karenge" khabar, reject; Jagran — CM Nitish Kumar ki Samriddhi Yatra (Rajendra Stadium, Siwan; Rs 201.83 crore ki 71 yojnaen) me Pandey sirf manch par maujood — CM event me maujoodgi, reject; thedailyjagran ~Apr 2025 — Mairwa me 30-bed community hospital ka udghatan (tatkalin swasthya mantri ke roop me) — pre-term + Mairwa Ziradei block me hai (Siwan AC-105 se bahar), reject; YouTube (siwanexpressonline) "मंगल पांडेय पर आरोप" video — YouTube-only, reject; Prabhat Khabar ~1 Oct 2026 — Siwan Sadar Aspataal ke Rs 36.47 crore wale model hospital bhavan me barish ke baad dararen/gunvatta par sawal — shilanyas May 2022 aur udghatan Dec 2024 dono pre-term, aur article me koi FIR ya janch-aadesh nahi — negative threshold poora nahi, reject; thedailyjagran/economictimes election-affidavit/result profiles — chunavi jankari, vikas-kaam nahi, reject.
+
+// ---- Siwan district (Bihar): bhism-pratap-singh (JD(U), Ziradei AC-106) — researched 2026-10-14 ----
+// Sourcing rule: sirf khud khole gaye canonical article URLs. Election result Nov 14, 2025 ke
+// baad ka naya karyakaal (2025-2030); purane karyakaal ke kaam exclude hain.
+
+biharWorks['bhism-pratap-singh'] = [
+  {
+    title: 'Mairwa ke ANM Training School (referral hospital parisar) me computer lab aur library ka udghatan',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-01-24',
+    description: 'Mairwa me referral hospital parisar me sthit ANM Training School me computer lab aur library ka udghatan Ziradei ke vidhayak Bhism Pratap Singh Kushwaha ne 24 Jan 2026 ko kiya; pracharya Sangam Tripathi ne swagat kiya aur college ki chhatraen tatha staff upasthit the. Disclosure: computer lab/library ke fund srot (vidhayak-nidhi/MKVY ya vibhagiya yojna) ka article me koi zikr nahi hai; Mairwa Ziradei prakhand me hai jo Ziradei AC-106 me aata hai.',
+    source: 'LiveHindustan (Hindustan, Siwan)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/siwan/story-inauguration-of-computer-lab-and-library-at-anm-training-school-by-mla-bhishma-pratap-kushwaha-201769244393086.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (bhism-pratap-singh): LiveHindustan 16 Nov 2025 — dhanyavaad yatra (Mairwa) — karyakram, vikas-kaam nahi, reject; LiveHindustan ~May 2026 — DISHA baithak me Mairwa interstate bus-adda, ration, bijli, helmet ko lekar maangen — sirf maang, reject; YouTube "THE VOICE OF BHARAT SHOW" podcast interview — YouTube-only, reject; LiveHindustan 7 Jan 2026 — Ziradei-Bhantapokhar sadak chaodikaran (Rs 13.5 crore, 4.9 km, path nirman vibhag) — article me vidhayak ka koi zikr nahi, reject; ABP Live 11 Sep 2026 — JD(U) vidhayak Hem Narayan Sah ki press conference (Farakka sandhi) me sirf maujoodgi — bayan/maujoodgi, reject; Jagran — CM Nitish Kumar ki Samriddhi Yatra (Rajendra Stadium, Siwan) me sirf maujoodgi — CM event, reject; Bhaskar (~6 saal purana) — poorv vidhayak Ramesh Singh Kushwaha dwara 2 sadkon ka udghatan — pre-term + galat vyakti, reject; Amar Ujala "जीरा (Punjab) me stadium shilanyas" — Punjab ka Jira, galat sthan/vyakti, reject; NDTV/IndianExpress/News18/Oneindia/india.com/navbharattimes election result + candidate profile pages — chunavi jankari, vikas-kaam nahi, reject. Negative check: Bhism Pratap Singh ke khilaf koi FIR/vivad ki established reporting nahi mili.
+
+// Siwan district batch B — Vishnu Deo Paswan (Darauli SC AC-107, LJP-RV) + Osama Shahab (Raghunathpur AC-108, RJD)
+// Researched 2026-10-14. Fragment — DO NOT export; coordinator appends to src/data/works_bihar.ts
+// Tenure check: Bihar chunav Nov 2025 (matdan 6 Nov 2025, parinam 14 Nov 2025) — sirf Nov 2025 ke baad ke kaam liye gaye. period: '2025-2030'.
+// Parivar-niyam (osama-shahab): pita Mohammad Shahabuddin ke mamle/jail/reporting — kuch bhi Osama par nahi joda; sirf Osama ke swayam ke vartaman-karyakaal ke mamle liye gaye.
+// Dono profiles me qualifying POSITIVE entry nahi mili — dono ke arrays khaali; sirf established-reporting wali negative entries rakhi gayi hain.
+
+biharWorks['vishnu-deo-paswan'] = [
+  {
+    title: 'Andar model block bhawan nirman me Rs 50 lakh rangdari maangne aur 3% commission ka dabav banane ke aarop me darj FIR (Andar Thana Kand Sankhya 291/26)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 7 Oct 2026 (Times Now Hindi, 6 Oct 2026 se corroborated)',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/bihar/siwan/mla-booked-extortion-case-model-block-quality',
+    date: '2026-10-07',
+    note: 'Aarop: Andar prakhand me nirmanadhin model block bhawan ke thekedaar Vivek Kumar Singh (Guthni thana kshetra, Belour) ne 5 Oct 2026 ko police aavedan diya ki vidhayak ke pratinidhi Amit Kumar Paswan aur Sahab Hussain nirman sthal par pahunchkar Rs 50 lakh rangdari maange, na dene par nirman band karane aur jaan se marne ki dhamki di; Niyaz Ahmad ne shikayatkarta ke pita ko phone par dhamkaya (recording ka dawa); vidhayak ke ghar bulakar nirman rashi ke 3% bhugtan ka dabav banane ka bhi aarop. FIR/case/janch sthiti: Andar thane me kand sankhya 291/26 darj — vidhayak Vishnu Deo Paswan, Amit Paswan, Sahab Hussain aur Niyaz Ahmad, kul chaar namzad aaropi; SP Bharat Soni ke anusar janch shuru; giraftar dono vyaktiyon ko jail bhej diya gaya. Neta ka jawab: vidhayak ne aaropon ko galat/niradhar bataya; unke anusar unhone 16 Sep 2026 ko Bhawan Nirman Vibhag ke sachiv ko patra likhkar thekedaar ke pichhle 5 varshon ke karyon ki gunvatta-janch ki maang ki thi aur thekedaar ke "manage" karne ke prayas ko thukra diya tha. Sthiti: dosh-siddhi nahi hui hai; mamla janchadhin hai. Dosh-siddhi ka koi daava nahi kiya ja raha.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (vishnu-deo-paswan): profile me POSITIVE qualifying entry koi nahi mili — profile khaali. Live Hindustan 24 Jan 2026 (CM Nitish Kumar ko patra: Baba Hansnath mandir paryatan sthal + corridor, Guthni degree college, Darauli stadium, antarrashtriya hawai adda) — sirf maang/prastav, reject; Live Hindustan Nov 2025 (jeet ke baad bayan: swasthya/shiksha/rozgar pehli prathmikta) — "karenge" khabar, reject; Live Hindustan 18 Jan 2026 (CM Samriddhi Yatra: Siwan me Rs 121 crore yojnaon ka shilanyas/udghatan CM ne kiya, Darauli block-sah-anchal bhawan sahit) — CM event me sirf maujoodgi, reject; YouTube (Shaurya Hospital udghatan MLA Vyas Singh ne kiya; Anant Enterprises udghatan "vidhayak ji" ne kiya) — doosre MLA + YouTube-only, reject; Live Hindustan Nov 2025 jeet/analyisis coverage — election news, kaam nahi, reject; pre-term (2025-chunav se pehle) koi vidhayak-nidhi/swikriti dastavez nahi mila.
+
+biharWorks['osama-shahab'] = [
+  {
+    title: 'Jhunapur (Mahadeva thana) zameen vivaad me nirman rokne, maarpeet aur zameen-kabze ke aarop: 4 May 2026 ko Siwan police ne MLA ke Nawalpur aur Pratappur thikaanon par chhapa maara',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'News18 (IANS feed), 4 May 2026',
+    sourceUrl: 'https://www.news18.com/india/bihar-police-raid-rjd-mla-osama-shahab-residence-in-land-grab-case-ws-l-10073337.html',
+    date: '2026-05-04',
+    note: 'Aarop: Siwan ke Jhunapur gaon (Mahadeva thana kshetra) me vivaadit zameen par nirman rokne ko lekar shikayatkarta Sudha Singh (Gopalganj) aur unke pati Vinay Kumar Singh ne 15 Apr 2026 ko FIR darj karai — aarop hai ki Osama Shahab ne phone par nirman rokne ko kaha, phir 30-40 log nirman sthal par pahunchkar mazdooron se maarpeet ki, CCTV cameras tode aur mobile phones/cutter machine chheen liye. FIR/case/janch sthiti: Mahadeva thane me mamla darj; DIG Nilesh Kumar ke netritva me 4 May 2026 ko MLA ke Nawalpur sthit sarkari aawas aur Pratappur sthit paitrik ghar par court warrant ke baad chhapa; chhape ke samay MLA dono jagah maujood nahi the; Siwan ki jila adalat ne 28 Apr 2026 ko agrim zamanat yachika kharij kar di thi. Neta ka jawab: bail-sunvai me bachav paksh (Senior Advocate Naresh Dixit) ka tark — zameen ka title vivaad Siwan ki civil court me lambit hai, yachikakarta ne zameen kanooni roop se kharidi aur shikayatkarta farzi dastavez par dawa kar raha hai; FIR me MLA par koi seedha aapradhik kritya ya dhamki ka aarop nahi, sirf phone conversation ka zikr hai. Sthiti: dosh-siddhi nahi hui hai. Pita se sambandhit reporting is entry me nahi jodi gayi hai (parivar-niyam).',
+    period: '2025-2030',
+  },
+  {
+    title: 'Patna High Court ne Osama Shahab ko zameen vivaad case me 21 July 2026 ko agrim zamanat di (Justice Khatim Reza ki single-judge bench)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patna Press, 21 July 2026',
+    sourceUrl: 'https://patnapress.com/patna-high-court-grants-anticipatory-bail-osama-shahab-land-dispute-case/',
+    date: '2026-07-21',
+    note: 'Justice Khatim Reza ki single-judge bench ne dono pakshon ki sunvai ke baad agrim zamanat yachika manzoor ki; pehle ki sunvai me High Court ne case diary mangkar MLA ke khilaf koi coercive action na lene ka nirdesh diya tha. Bachav paksh ka tark: vivaadit zameen ka swamitva title suit me civil court (Siwan) hi tay kar sakti hai; nirman par aapradhik deeyta swamitva tay hone se pehle nahi tay ho sakti. Sthiti: agrim zamanat milne se giraftari ka tatkal khatra tala; mamla lambit hai, dosh-siddhi nahi hui. Dosh-siddhi ka koi daava nahi kiya ja raha.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (osama-shahab): profile me POSITIVE qualifying entry koi nahi mili — profile khaali. YouTube shorts/videos (Gaighat me petrol pump udghatan; Muzaffarpur Moti Jheel me AJ Shoes udghatan; SBS Sports store udghatan; Abroad Technical Institute udghatan; "Raghunathpur me PCC sadak ka udghatan" dawa) — YouTube-only, reject; ThePrint Hindi / Devdiscourse / Times Now / Live Hindustan Nov 2025 (election result coverage) — chunavi khabar, kaam nahi, reject; Times Now 16 Nov 2025 me pre-term Arms Act cases ka zikr — karyakaal-se-pehle, current-term nahi, reject; pita Mohammad Shahabuddin se judi reporting (jail, nidhan, barsaat) — parivar-niyam ke tahat MLA par kabhi nahi joda, reject. IANS story ke chhote mirror (hiindia.com, bhaskarlive.in, ommcomnews.com, jacksonvilleindian.com) — aggregator/mirror, primary established source (News18/Patna Press) use kiya.
+
+// Siwan batch C: Karnjeet Singh Alias Vyas Singh (Daraunda AC-109, BJP) + Indradev Singh (Barharia AC-110, JD(U)).
+// Karyakaal: Nov 2025 ke baad ke kaam hi eligible; period har entry me '2025-2030'.
+// Research date: 14 Oct 2026.
+
+biharWorks['karnjeet-singh-alias-vyas-singh'] = [];
+
+// REJECT-LOG (karnjeet-singh-alias-vyas-singh): livehindustan 16 Nov 2025 (jeet ki khabar) — election news, reject; livehindustan 2 Dec 2025 (teesri baar shapath-grahan, vikas ke vade) — sirf shapath + "karenge" khabar, reject; hindi.news24online Nov 2025 (election result) — election news, reject; livehindustan 5 Nov 2024 (Karsoot 2.72 km road udghatan Rs 2.23 crore + Karsoot-Bodhachhapra road shilanyas) — pre-Nov 2025, reject; livehindustan 7 Jan 2025 (3 sadak shilanyas: Maharajganj-Daraunda path-Ramapali, NH-531 Daraunda bazaar-Kargil path, Lilasaah pokhra-Semri Part-1) — pre-Nov 2025, reject; livehindustan 30 Dec 2024 (Raini village PMGSY road shilanyas) — pre-Nov 2025, reject; abhibharat (aadha darjan PCC sadak shilanyas, Hasanpura/Rafipur/Bhagar/Ghurghat/Siswa Kala) — pre-term, reject; motherlandvoice.org (5 sadak shilanyas) — pre-term, reject; biharkatha.com Sep 2020 (PCC sadak shilanyas/udghatan) — pre-term, reject; ashakhabar (Siswa Kala/Ghurghat chhath ghat udghatan + 8 km road shilanyas) — pre-term, reject; YouTube (BT News India, Matchboxbihar, News India Tak — sadak shilanyas/hospital visit/private dental clinic udghatan) — YouTube-only, reject; lokatantranews.com ~Jul 2026 (Anant Enterprises trophy/momento shop ka udghatan) — niji pratishthan, public work nahi, reject; hindusthansamachar.in 5 Apr 2026 (Smash Point Badminton Academy 10 April launch ghoshna) — pre-event announcement/schedule hi source, reject; Prabhat Khabar ~Dec 2025 (Siwan 50-bed critical care unit Rs 23.75 crore shilanyas) — mantri ka event, MLA sirf maujood, reject; myneta affidavit (5 pending cases, 2011-2020 ke purane) — pre-term + Nov 2025 ke baad koi nayi established negative reporting nahi, negative entry nahi banti; koi qualifying swikriti/shilanyas/lokarpan nahi mila.
+
+biharWorks['indradev-singh'] = [
+  { title: 'Indradev Singh Patel ne Barharia ke Jammo Road par GM High School sah Inter College (Saraswati Vidya Niketan) ko model school ke roop me udghatan kiya', category: 'School', stage: 'lokarpan', date: '2026-07-20', description: 'Barharia block ke Jammo Road par sthit GM High School sah Inter College, Saraswati Vidya Niketan ko model school ke roop me vikasit karne ke baad sthaniya vidhayak Indradev Singh Patel ne vidyalaya parisar me aayojit karyakram me iska udghatan kiya (livehindustan reporting). Disclosure: ye Mukhyamantri ki rajya-stariya yojana hai — CM ne 19 July 2026 ko Begusarai se 551 Saraswati Vidya Niketan model schools ka virtual udghatan kiya tha; vidhayak ne keval sthaniya star par udghatan kiya, swikriti ya vidhayak-nidhi ka dawa article me nahi hai. Date article ke "Somvaar" ullekh + rajya karyakram timeline (19-20 July 2026) se cross-verified.', source: 'livehindustan', sourceUrl: 'https://www.livehindustan.com/national/story-model-school-initiative-in-bihar-promises-modern-education-facilities-201784626329713.html', badge: 'news', period: '2025-2030' },
+];
+
+// REJECT-LOG (indradev-singh): livehindustan ~Jul 2026 (Vidhan Sabha me jharjar sadako ki maang: Parma mod-Bahadurpur, Bibi ke Bangra-Hanuman mod, Barharia-Khodipakar) — sirf maang, reject; livehindustan ~May 2026 (Barharia bypass road inspection/survey, land acquisition ki baat) — sirf nirikshan/survey, koi swikriti/shilanyas nahi, reject; livehindustan 22 Dec 2025 (Pacharukhi daura, samasyaon ka aashwasan) — sirf daura + aashwasan, reject; livehindustan 21 Dec 2025 (JDU sadasyata abhiyan shubharambh) — party event, reject; livehindustan ~May 2026 (Jamunagarh mandir jagran/sanskritik karyakram) — sanskritik ayojan, kaam nahi, reject; bhaskar Dec 2025 (praman patra Yamunagarh mandir me arpit) — vyaktigat dharmik karya, reject; YouTube (Tarwara hospital udghatan, swasthya shivir sambodhan, Lahar News interview) — YouTube-only, reject; abhibharat (chunav-prachar me ladoo/rasgulla se tolna) — pre-election, reject; Prabhat Khabar ~Dec 2025 (Siwan critical care unit shilanyas) — mantri ka event, MLA sirf maujood, reject; bhaskarenglish + TOI Dec 2025 (MLA + MP ko Rs 10 lakh vasuli/jan se marne ki dhamki, caller giraftar Bengal se; MLA ne khud GB Nagar thane me complaint ki, FIR 6 Dec 2025) — MLA yahan PEEDIT hai, uske khilaf koi aarop nahi; negative-entry rule (aarop + FIR sthiti + neta ka jawab) me negative nahi banti, reject; oneindia (0 criminal cases declared) — negative saboot nahi, koi entry nahi; koi qualifying negative reporting nahi mili.
+
+// AapkaNeta Bihar works-mining — Siwan district, batch D
+// Researched: 2026-10-14 | Tenure window: Nov 2025+ (period 2025-2030)
+// MLA 1: Devesh Kant Singh (devesh-kant-singh, BJP) — Goriakothi AC-111
+// MLA 2: Hem Narayan Sah (hem-narayan-sah, JD(U)) — Maharajganj AC-112
+
+// ===================== REJECT-LOG: Devesh Kant Singh (devesh-kant-singh, Goriakothi AC-111) =====================
+// Name caution applied: only Goriakothi (Siwan, Bihar) BJP MLA taken; out-of-state "Devesh Kant Singh" items ignored.
+// Spelling variants checked: "Devesh Kant Singh", "Deveshkant Singh", "देवेश कांत सिंह", "देवेशकांत सिंह".
+// 1. All election-result coverage (Zee News, Indian Express, News18, Financial Express, Oneindia, india.com, dnaindia, LatestLY, NDTV, PRS, myneta, The Hindu bio) — election results/biography, no development work. REJECT.
+// 2. YouTube "सिवान में चुनाव के दौरान बवाल — MLA का लोगों ने किया घोर विरोध!" (VPS News, Nov 2025, polling day) — pre-term + YouTube-only. REJECT.
+// 3. instalker.org Riya Sen INC retweets (election-time claims about Deveshkant Singh) — social-media claim, pre-term. REJECT.
+// 4. siwan.nic.in "DEVESH KANT SINGH | Who's Who" page — official directory listing only (email/phone/address), no work. REJECT: no work content.
+// 5. YouTube "डबल इंजन की सरकार में विधायक ने किया करोड़ों की लागत से बनने वाली सड़क का शिल्यासन" — YouTube-only, MLA identity unverifiable from snippet. REJECT.
+// 6. Bihar Cabinet fisheries mega-plan (CM Samrat Choudhary decision, covers Basantpur/Bhagwanpur Haat/Goreyakothi blocks, FY 2026-27 to 2028-29) — CM-government decision, no documented MLA role. REJECT.
+// 7. PM Modi Siwan projects (Rs 5,900+ crore, June 2025) — pre-term, PM-led, MLA sirf maujoodgi bhi documented nahi. REJECT.
+// 8. CM Sahayog Shivir Siwan (Rs 180 crore projects, 2026) — CM-led event, MLA role documented nahi. REJECT.
+// 9. Negative check (FIR/vivad 2026 searches) — koi post-term FIR/case/janch reporting nahi mili. No negative entry.
+// Conclusion: NO qualifying entry. Profile stays empty.
+
+biharWorks['devesh-kant-singh'] = [];
+
+// ===================== REJECT-LOG: Hem Narayan Sah (hem-narayan-sah, Maharajganj AC-112) =====================
+// Name caution applied: only Maharajganj (Siwan, Bihar) JD(U) MLA taken; "Hem Narayan Singh"/"Harinarayan Singh" (Harnaut, Nalanda) items galat vyakti — ignored.
+// Spelling variants checked: "Hem Narayan Sah", "Hemnarayan Sah", "हेम नारायण साह", "हेमनारायण साह".
+// 1. Patna Press, 30 Jun 2025 — Kendriya Vidyalaya opening at Gorakh Singh Mahavidyalaya, Maharajganj. OPENED + READ FULLY.
+//    URL: https://patnapress.com/kendriya-vidyalaya-opens-in-maharajganjsiwan-after-decade-long-wait-excerpt/
+//    REJECT: PRE-TERM (published 2025-06-30, before Nov 2025 result). Article calls him "former MLA Hemnarayan Sah"; MP Janardan Singh Sigriwal led the effort; MLA sirf maujoodgi.
+// 2. YouTube "Siwan: मंत्री मंगल पांडेय के दावत में MLA हेमनारायण साह का सबसे बड़ा बयान" (ATNLIVE, ~Jan 2026) — YouTube-only + bayan, virodh/dharna/bayan = kaam nahi. REJECT.
+// 3. YouTube "Siwan के Maharajganj से RJD प्रत्याशी पर FIR" (A1NEWS, election time) — RJD candidate Vishal Jaiswal par, galat vyakti. REJECT.
+// 4. All election-result coverage (Zee News, News18, Financial Express, Oneindia, india.com, LatestLY, Wikipedia, myneta/The Hindu bio) — results/biography, no work. REJECT.
+// 5. Negative check (FIR/vivad 2026 searches) — koi post-term FIR/case/janch reporting nahi mili; affidavit ka 1 pending case pre-term hai. No negative entry.
+// Conclusion: NO qualifying entry. Profile stays empty.
+
+biharWorks['hem-narayan-sah'] = [];
+// COORDINATOR QA (Siwan): 4 workers (A: AC-105/106, B: AC-107/108, C: AC-109/110, D: AC-111/112) ke fragments ko AC order 105->112 me merge kiya. Kul 9 entries (5 positive + 4 negative): mangal-pandey 4 (3 positive + 1 negative dustbin-ghotala - RTI daava + swasthya mantri dwara janch-aadesh, Devendra Jain precedent par), bhism-pratap-singh 1, vishnu-deo-paswan 1 negative (rangdari FIR, Prabhat Khabar + Times Now Hindi), osama-shahab 2 negative (uske swayam ke vartaman-karyakaal ke mamle - pita se judi koi reporting nahi jodi, parivar-niyam), indradev-singh 1 (CM 551-school yojana ka sthaniya udghatan, Manjeet pattern), karnjeet/devesh/hem khaali. Mangal Pandey ke vibhag/rajya-star ke faisle jaanboojhkar exclude (mantri-niyam). Sabhi 8 slugs pehle khaali the - koi overwrite nahi; marker 1x. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; badges valid (news); categories valid; stages valid (negatives me stage nahi); period '2025-2030' sabhi me; titles pure Hinglish vakya, currency "Rs"; sourceUrls canonical, khud khole gaye.
