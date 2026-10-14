@@ -1806,3 +1806,229 @@ keralaWorks['c-k-kasim'] = [];
 // Result: profile stays EMPTY — no verifiable post-May 2026 development work (lokarpan/swikriti/shilanyas/poorn)
 //   attributable to C K Kasim in established media. Tenure is only ~5.5 months old, so this is plausible.
 // COORDINATOR QA NOTE (Kozhikode district batch, 2026-10-14): 13/13 workers completed, sabhi 13 fragments khud padhe — assignment format exact, har slug exactly once (append se pehle 0 matches the — koi overwrite nahi), marker 1x; kul titles 11 -> 14 (+3). Kept: adv-k-jayanth (Kozhikode North) — Vengeri agricultural wholesale market adhunikikaran, stage swikriti (The Hindu 17 Sep 2026 post-event reporting, MLA-adhyakshata wali KABCO baithak me nirnay + tender jaari/nirikshan shuru; full credit-disclosure: KABCO/rajya-PSU ki yojna, MLA ki bhoomika baithak-adhyakshata + MLA fund se drain ka prastav); m-a-razak-master (Kunnamangalam) — "Healthy Kunnamangalam" needs-mapping project, stage ghoshna (The Hindu 9 Oct 2026, MLA-led planning meeting post-event report; disclosure: na fund rashi na GO — imaandari se ghoshna, swikriti nahi); p-a-mohamed-riyas (Beypore) — 1 NEGATIVE: CMRL-Exalogic case me HC aadesh 9 Oct 2026 par VACB ne 12 Oct 2026 ko 2 FIR darj kiye, doosri FIR me Riyas pehle aaropi (hawala angle); teenon shartein pakki (apna naam aaropi roop me — Mathrubhumi English; FIR-darj sthiti; Riyas ka apna inkaar "I have not done anything wrong" + ED-dawon ko "well-crafted script"/media trial — Asianet Newsable/Onmanorama); entry sirf unke apne aarop tak seemit, Pinarayi/Veena ke mamle nahi jode (Pinarayi-pattern ke anuroop stage field nahi). 10 profiles imaandari se KHAALI: k-k-rema (Vadakara — sab maang/ceremonial/pre-term; TP-murder convicts parivaar-rule se reject), parakkal-abdulla (Kuttiadi — regulator/bypass sirf maang, coconut park sirf maang), k-m-abhijith (Nadapuram — camp office udghatan ceremonial, Dubai diaspora event kshetra-bahar; 4 namesake traps pakde), adv-k-praveen-kumar (Quilandy — Rs 40 lakh KSRTC vidhayak-nidhi prastav bina GO ke sakht reject; 3 namesake traps pakde; "56 cases" IndiaTV template-glitch reject), adv-fathima-thahiliya (Perambra — blueprint interview sirf "karenge"; lamp-lighting vivaad koi legal case nahi), v-t-sooraj (Balusseri — Pravesanotsavam me sirf adhyakshata; AIIMS deputation sirf maang; V.T. Balram namesake pakda), adv-vidya-balakrishnan (Elathur — pre-term road sanctions LDF mantriyon ke; WhatsApp extortion me woh complainant thi, aaropi nahi; I.C. Balakrishnan/Kodiyeri namesakes pakde), adv-fyzal-babu (Kozhikode South — HiLITE event sirf maujoodgi; Mohammed Faizal Lakshadweep namesake pakda), p-k-firos (Koduvally — poultry-plant protest solidarity kaam nahi; "Koduvally Railway Flyover" Kannur wala hai; Firose namesakes alag candidates), c-k-kasim (Thiruvambady — tunnel-road pre-election, Rs 206cr package pre-term Riyas-mantri era; Muhammed Kasim/P.K. Kasim namesakes alag). Riyas ke mantri-era (2021-26 PWD/Tourism) ke saare items pre-term+vibhagiya — sakht reject. Hygiene: entry objects me 0 comments, 0 Devanagari/Malayalam script, 0 rupee symbol, 0 literal-\n (2 workers ki Malayalam-script search-sweeps coordinator ne Roman transliteration me badli); field order exact; period '2026-2031' sabhi kept entries me; reject-logs Roman Hinglish.
+
+// ---- Malappuram district batch (researched 2026-10-14) ----
+
+// Kondotty — t-p-ashrafali
+keralaWorks['t-p-ashrafali'] = [];
+
+// Ernad — p-k-basheer
+keralaWorks['p-k-basheer'] = [];
+
+// Nilambur — aryadan-shoukath
+keralaWorks['aryadan-shoukath'] = [
+  {
+    title: 'Rs 1 crore state-budget allocation for rebuilding the flood-damaged Punchakolli bridge in Nilambur after the MLA took up the issue with the CM',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Onmanorama, 19 Jun 2026',
+    sourceUrl: 'https://www.onmanorama.com/news/kerala/2026/06/19/hope-crosses-punnappuzha-long-awaited-bridge-to-end-isolation-of-tribal-hamlets-in-nilambur.html',
+    date: '2026-06-19',
+    note: 'Rajya budget me Punchakolli bridge ke punarnirman ke liye Rs 1 crore earmark kiya gaya hai — ye bridge 2019 ki badh me Punnappuzha par bah gaya tha aur tab se Vazhikkadavu grama panchayat ke Punchakolli aur Alakkal ke lagbhag 300 adivasi parivaron ko barsaat me baans ki naav par khatarnaak safar karna padta hai. Onmanorama ki reporting ke mutabik MLA Aryadan Shoukath ne chunav jeetne ke baad mukhyamantri se milkar is mudde ko uthaya aur pariyojna me tezi lane ki maang ki, jiske baad budget me rashi ka pravdhan hua. Credit-pardarshita: swikriti rajya sarkar ki hai (CM V. D. Satheesan dwara prastut finance budget), MLA ki dastavezi bhoomika mudda uthana aur anuvarti karna rahi hai; kaam abhi shuru nahi hua hai, isliye stage swikriti hai, poorna nahi.',
+    period: '2026-2031',
+  },
+];
+
+// Wandoor — a-p-anilkumar
+keralaWorks['a-p-anilkumar'] = [];
+
+// Manjeri — adv-m-rahmathulla
+keralaWorks['adv-m-rahmathulla'] = [
+  {
+    title: 'Manjeri ke Kacherippadi IGBT par KSRTC station master office phir se shuru; MLA M. Rahmathulla ne udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Onmanorama, 4 Aug 2026',
+    sourceUrl: 'https://www.onmanorama.com/news/kerala/2026/08/04/kacherippadi-ksrtc-station-master-office-reopens.html',
+    date: '2026-08-04',
+    note: 'Onmanorama ki post-event reporting ke mutabiq Manjeri me yatriyon ki lambe samay se chali aa rahi maang par KSRTC ka station master office Kacherippadi (Manjeri IGBT) par phir se shuru ho gaya; udghatan M. Rahmathulla MLA ne kiya jabki Manjeri nagar-palika adhyaksh Vallanchira Abdul Majeed ne samaroh ki adhyakshata ki. Ab shahar se guzarne wali sabhi KSRTC bason ka samanway isi karyalay se hoga; shuru me karyalay subah 9 se shaam 5 baje tak chalega aur abhi ke liye 6 track aavantit hue hain. Yeh sarkari suvidha (KSRTC, rajya-sarkar ka upkram) ka vyaktigat lokarpan hai; report me fund-srot ka koi vishesh ullekh nahi hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (adv-m-rahmathulla): 1 entry.
+// 1. Election coverage (Indian Express, Times Now, India TV, Business Today — May 2026): Adv. M. Rahmathulla ne Manjeri jeeta (57,887 vote margin) — sirf chunav jeet ki khabar, kaam-khabar nahi, reject.
+// 2. mpositive.in Muslim-MLAs list, Wikipedia bio: sirf pehchan/pad ki jankari, koi kaam nahi.
+// 3. Onmanorama 2020 school-mapping piece (Elambra school) me naam 'M. Ummer' — purane MLA, galat vyakti + pre-term, reject.
+
+// Perinthalmanna — najeeb-kanthapuram
+keralaWorks['najeeb-kanthapuram'] = [
+  {
+    title: 'Advocate commissioner ko dhamkane aur sarkari kaam me badha dalne ke aarop me CJM Manjeri ne Melattur police ko FIR darj kar janch ke aadesh diye; contempt mamle me MLA ne maafi maangi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu, 13 Oct 2026',
+    sourceUrl: 'https://www.thehindu.com/news/national/kerala/court-orders-fir-against-mla-najeeb-kanthapuram/article71580040.ece',
+    date: '2026-10-13',
+    note: 'NEGATIVE entry. The Hindu ki 13 Oct 2026 ki reporting ke mutabiq Chief Judicial Magistrate, Manjeri ne Melattur police ko Perinthalmanna MLA Najeeb Kanthapuram ke khilaf FIR darj karne aur janch karne ka nirdesh diya. Ye aadesh advocate commissioner K.P. Krishnakumar ki shikayat par aaya, jisme aarop hai ki MLA ne court ke aadesh par Perinthalmanna ke paas Vengoor me ek ghar me attachment ki karyavahi karne aaye commissioner aur unki team ke saath anuchit vyavahar kiya aur unhe wapas bhej diya. Police ne court ko bataya ki MLA ne bhavuk hokar pratikriya di thi kyunki parivar ne kaha tha ki ghar se nikalne par ve aatmahatya kar lenge; lekin police report me ye nahi tha ki MLA ke khilaf FIR darj hui ya janch hui, isliye court ne case darj kar vidhi-anusar janch ka nirdesh diya. Isi ghatna par contempt proceedings bhi chali; MLA ne 9 Oct ko counsel ke zariye court ke samne unconditional apology di, aur maafi-yachika par court ka faisla 16 Oct ko aana tha. Status: FIR ka nirdesh + janch + contempt karyavahi lambit; adalati faisla ya dosh-siddhi ki koi khabar nahi mili — koi nishkarsh na nikala jaye. Corroboration: Onmanorama (10 Oct 2026, maafi par) aur Live Law (9 Oct 2026, contempt notice) ne bhi report kiya.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (najeeb-kanthapuram): 1 entry (negative). Koi positive qualifying work nahi mila.
+// 1. Positive sweep — election coverage (Business Today, Indian Express, India TV, TOI — May 2026): sirf chunav jeet ki khabar, reject.
+// 2. Pre-term: 2022 Ayyappa mandir udghatan (TOI, Nov 2022) — karyakaal se pehle, reject; CSR fund scam case (Onmanorama, Mathrubhumi, The Hindu — Feb 2025): FIR bhi Feb 2025 me, karyakaal se pehle + shikayat baad me wapas, reject; banners-vivad (Onmanorama, Mar 2026): chunav se pehle ka ghatna-kram, koi FIR/case/janch nahi, reject.
+// 3. Tender listings (firsttender.com, tendersontime.com, kerala-tenders.co.in): LAC-ADS 2024-25/2025-26 Perinthalmanna ke sadak works 'work proposed by Hon MLA' — pre-term tender (Jan-Mar 2026 bid dates) + tender notice koi established-media sanction/report nahi, reject.
+// 4. The Hindu, 3 Aug 2026 — CUSAT Syndicate me nomination: sansthanik manonayan, kshetra-kaam nahi, reject (Kriya education programme purva-karyakaal ka hai).
+// 5. Mathrubhumi English, 13 Sep 2026 — Kanthapuram AP Aboobacker Musliyar ki dharmik tippani: naam milta-julta galat vyakti, reject.
+
+// Mankada — manjalamkuzhi-ali
+keralaWorks['manjalamkuzhi-ali'] = [
+  {
+    title: 'Mankada ke Peechanipparambu me jeernoddhar ke baad Thiruthil talab ka udghatan; MLA Manjalamkuzhi Ali ne ribbon katkar lokarpan kiya',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'poorna',
+    sourceLabel: 'Kerala Kaumudi, 5 Oct 2026',
+    sourceUrl: 'https://keralakaumudi.com/en/kerala/general/mla-pushes-ward-member-into-pond-at-unusual-inauguration-1811394',
+    date: '2026-10-04',
+    note: 'Kerala Kaumudi ki post-event reporting ke mutabiq Mankada MLA Manjalamkuzhi Ali ne Mankada ke Peechanipparambu (Angadippuram grama panchayat) me navinikrit Thiruthil talab ka ribbon katkar udghatan kiya; karyakram me Perinthalmanna block panchayat adhyaksh Adv. Najma Tabshira aur Angadippuram ward 4 ke sadasya Shabeer Manjambra bhi maujood the. Jeernoddhar poora ho chuka tha — ye poorn hue kaam ka lokarpan hai. Fund-srot ka report me koi ullekh nahi hai (navinikaran ka vyay kis mad se hua, ye spasht nahi); sthaniya nikay karyakram ke roop me MLA ki dastavezi bhoomika udghatankarta ke roop me hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (manjalamkuzhi-ali): 1 entry.
+// 1. Election coverage (TOI, Indian Express, Oneindia, bharathorizon, TimelineDaily — May 2026): Mankada jeet ki khabrein, kaam-khabar nahi, reject.
+// 2. Tender listings (firsttender.com 2025-26 LAC-ADS Mankada, tendershark 2023-24, kerala-tenders 2024): 'work proposed by Hon MLA' sadak/pul tenders — pre-term bid dates + tender notice ko established-media sanction/report nahi mana ja sakta, reject.
+// 3. YouTube videos (pond udghatan): YouTube-only source, canonical nahi, reject.
+// 4. The Hindu 2015 Muttathara sewage treatment plant vivad: minister-kal ka purana maamla, karyakaal se pehle, reject.
+
+// Malappuram — p-k-kunhalikutty
+keralaWorks['p-k-kunhalikutty'] = [];
+
+// REJECT-LOG (p-k-kunhalikutty): profile KHAALI rahi — Malappuram seat ke kisi dastavezi kaam ki qualifying reporting nahi mili. Sabha sirf ~5 mahine purani, khaali hona aam hai.
+// 1. Election coverage (The Hindu 4-5 May 2026 record margin, ETV Bharat, madhyamamonline, Oneindia bio): sirf chunav jeet ki khabrein, reject.
+// 2. Candidate list (Mathrubhumi English, 17 Mar 2026; Kerala9): chunav se pehle ki ghoshna, reject.
+// 3. IUML housing project Wayanad landslide survivors (TOI): party ka crowdfunded housing project Meppadi, Wayanad me — Malappuram seat se bahar + aapda-raahat, vikas-kaam nahi, reject.
+// 4. Asia's largest waste-to-art Pookalam, Kottakkunnu (daijiworld, 27 Aug 2026): pre-event announcement + Onam ka asthayi kala-installation, koi sthayi vikas-kaam nahi, reject.
+// 5. Nammude Keralam 2.0 / CX Index / WhatsApp services / AI Chatbot / K-AI launch (Hindu BusinessLine, Sep-Oct 2026): IT mantri ke roop me rajya-star ke digital-governance karyakram — Malappuram seat ka koi dastavezi kaam nahi, reject.
+// 6. Operation Toofan Thaddesham (punjabkesari/indianconventions, Oct 2026): rajya ka nasha-virodhi abhiyan; mantri ke roop me adhyakshata/maojoodgi — seat-level kaam nahi, reject.
+// 7. IndiaAI Centre of Excellence launch Thiruvananthapuram (inshorts/Newsbytes, Sep 2026): mantri ke roop me udghatan, seat se bahar, reject.
+// 8. Kerala Young Entrepreneurs Conclave Kozhikode (NIE, 24 Sep 2026): conclave ka udghatan, koi seat-level kaam nahi, reject.
+// 9. LATN Academy logo unveiling (TimelineDaily): niji shikshan-sansthan ke logo ka anaavaran, sarkari pariyojna nahi + MLA ki dastavezi bhoomika nahi, reject.
+// 10. Jaleel ka AR Nagar Cooperative Bank aarop (Onmanorama, Aug 2021): karyakaal se pehle ka siyasi aarop, koi FIR/case/janch ki established reporting nahi — negative-test fail, reject.
+// 11. Malappuram free Wi-Fi towers dismantling (Onmanorama, 13 Aug 2026): 2015 ki pariyojna ka ant, pre-term, reject; Malappuram LP school AC building (Mathrubhumi, Oct 2025): pre-term, reject.
+// 12. BeTA Conference 2026 (YouTube-only): YouTube-only source + conference, kaam nahi, reject.
+// QA: 6 targeted searches (English: inaugurates/foundation stone/seat works, Aug-Oct 2026) — sab coverage chunav, mantri-bhoomika ya party-level nikla; Malappuram seat par koi sadak/paani/school/aspataal ka lokarpan, shilanyas ya GO-backed swikriti ki pakki khabar nahi mili. Profile imaandari se khaali.
+
+// Vengara — k-m-shaji
+keralaWorks['k-m-shaji'] = [
+  {
+    title: 'Vengara me Oorakam Kuttaloor se Kacherippadi tak Rs 250 crore ki 2.5 km elevated highway — mapping aur topographic survey chaloo, prashasnik swikriti abhi pending',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'ghoshna',
+    sourceLabel: 'Onmanorama, 01 Sep 2026',
+    sourceUrl: 'https://www.onmanorama.com/news/kerala/2026/09/01/vengara-skyway-project.html',
+    date: '2026-09-01',
+    note: 'Onmanorama ki 1 Sep 2026 ki khabar ke mutabiq Vengara shahar ke traffic jam se rahat ke liye Oorakam Kuttaloor se Kacherippadi tak 2.5 km, 11 meter unchi, single-pillar design wali two-lane elevated highway ka Rs 250 crore ka proposal hai, jiski mapping aur topographic survey shuru ho chuki hai aur flyover ke neeche dono taraf 6 meter service roads plus parking zones banengi. Credit-pardarshita: ye rajya PWD Bridges Division ka project hai; K M Shaji ne LSGD mantri hone ke naate apne Vengara camp office me PWD ke Assistant Executive Engineer samit team se alignment drawings aur revenue records liye, fir varishth adhikariyon aur sthaniya janpratinidhiyon ke saath prastavit route ke pramukh sthalon ka nirikshan kiya aur bharosa diya ki prashasnik swikriti milte hi execution ke agle charan tez honge. Lekin Onmanorama spasht likhta hai ki aupcharik prashasnik swikriti ABHI PENDING hai — bina swikriti ke koi work order ya construction shuru nahi hua, isliye stage ghoshna hai, swikriti nahi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (k-m-shaji): profile me 1 entry (ghoshna).
+// 1. UNI India, 07 Oct 2026 — BPCL ka MSW-based CBG plant, Njeliyanparamba (Kozhikode) me foundation stone Minister K M Shaji ne rakha (Mayor O. Sadashivan ki adhyakshata me) — reject: Vengara constituency se bahar (Kozhikode jila) ka kaam, mantri-hesiyat ka karyakram.
+// 2. Operation Toofan 'Toofan Thaddesham' anti-drug abhiyan launch (Malabar College, Vengara; Oct 2026; Punjab Kesari English / Times of Bengal) — Shaji ne sirf welcome address diya, launch Home Minister Ramesh Chennithala ne kiya — reject: rajya-stariya abhiyan me mantri ke roop me maujoodgi, kshetriya vikas-kaam nahi.
+// 3. K M Shaji ke ghar se 2021 me jabt Rs 47.35 lakh wapas karne ka Kerala High Court aadesh (Bar & Bench) — reject: khabar 11 Oct 2023 ki hai (karyakaal se PEHLE), aur ye court-relief hai, nayi negative sthiti nahi.
+// 4. Yuva Morcha karyakartaon ne 1 Oct 2026 ko Vanross Junction, Thiruvananthapuram par minister ki gaadi roki; police ne suo motu case darj kiya (Kerala Kaumudi, 1 Oct 2026 / ThePrint, PTI) — reject: ye Shaji ke khilaf koi FIR/charge-framing/nayi adalaati karyavahi nahi, unke khilaf virodh-pradarshan hai.
+// 5. Kozhikode Corporation ne Shaji ke house plan regularise ka aavedan kharij kiya (Mathrubhumi English, Nov 2020) — reject: karyakaal se PEHLE ka mamla (2020).
+// 6. ED/Plus-Two bribery case coverage (Onmanorama, Nov 2020; LiveLaw tag items — SC ne bribery/PMLA cases revive karne wali yachikayen kharij ki, Kerala HC ne PMLA proceedings quash ki) — sab purane cases ke favourable outcomes ya pre-term reporting; May 2026 ke baad koi NAYI FIR/saman/charge-framing/bail-order established media me nahi mila — negative entry nahi banti.
+
+// Vallikkunnu — t-v-ibrahim
+keralaWorks['t-v-ibrahim'] = [];
+
+// REJECT-LOG (t-v-ibrahim): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: T V Ibrahim, IUML, Vallikkunnu se May 2026 me jeete (1,00,718 vote, margin 51,289; runner-up Independent Adv. Musthafa, 49,429). Note: 2021 ke abhilekhon me isi naam se Kondotty seat dikhti hai — purani seat se atke purane abhilekhon ki galti se bachna zaroori hai.
+// 1. Chunav-result coverage (TOI liveblog, Indian Express, Business Today, Oneindia, New Indian Express, Sunday Guardian Live, Lokmat Times, myneta/ADR — sab May 2026): sirf jeet/margin/profile — kaam-khabar nahi, reject.
+// 2. National Herald / Deccan Chronicle (18 Sep 2026) wala Poojar bridge courtesy story — usme 'Sebastian M.J.' (INC, Poonjar seat) aur purv-MLA Sebastian Kulathunkal hain — galat vyakti/galat seat, T V Ibrahim se koi lena-dena nahi, reject.
+// 3. Multiple English queries (inaugurated/foundation stone/sanctioned + Vallikkunnu, Moonniyur, Tenhipalam) me koi May 2026+ ka lokarpan/shilanyas/swikriti/ghoshna nahi mila — sirf chunavi khabren.
+// Koi qualifying negative reporting established media me nahi mili (halafname ka 1 criminal case chunav-se-pehle ka recorded hai). Sabha sirf ~5 mahine purani — khaali profile imaandar hai.
+
+// Tirurangadi — p-m-a-sameer
+keralaWorks['p-m-a-sameer'] = [];
+
+// REJECT-LOG (p-m-a-sameer): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: P M A Sameer, IUML, Tirurangadi se May 2026 me jeete (1,11,869 vote, margin 63,387; runner-up CPI ke Ajith Koladi, 48,482).
+// 1. 'Scale Up Your Business' conclave, Kozhichena Live Convention Center, Tirurangadi (Press Network of India / pninews.com, Oct 2026): Sameer ne udghatan bhashan diya aur apne business-anubhav share kiye — reject: vyapar-samudaay ka karyakram, koi sarkari vikas-pariyojna/fund/swikriti nahi; sirf ceremonial bhashan/maujoodgi.
+// 2. HiLITE Cyber Tower groundbreaking, Calicut (english.metrovaartha.com, Oct 2026): Chief Minister V D Satheesan ne groundbreaking kiya; Sameer sirf upasthit MLAs ki suchi me — reject: CM ke karyakram me sirf maujoodgi; kshetra (Kozhikode) bhi Tirurangadi se bahar.
+// 3. Chunav-result coverage (Oneindia, Indian Express, Business Today, India TV News, Wikipedia — May 2026): sirf jeet/margin/profile — kaam-khabar nahi, reject.
+// Koi qualifying negative reporting established media me nahi mili. Sabha sirf ~5 mahine purani — khaali profile imaandar hai.
+
+// Tanur — p-k-navas
+keralaWorks['p-k-navas'] = [];
+
+// REJECT-LOG (p-k-navas): profile KHAALI raha — qualifying entry koi nahi mili. Pehchan verified: P K Navas (born 1991, MSF Kerala State President), IUML, Tanur se May 2026 me jeete (91,992 vote, margin 27,131; runner-up Independent Mohamed Sameer T, 64,861).
+// 1. Tanur me naya minority youth training centre (english.metrovaartha.com, 17 Sep 2026): 'Vision-2031' ke tahat 5 naye centres (Edava, Tanur, Guruvayur, Vellamunda, Changanassery) — reject: rajya sarkar ka faisla, ghoshna Minority Welfare Minister N Samsudheen ne ki; article me MLA Navas ki koi dastavezi bhoomika nahi — credit-pardarshita me entry nahi banti.
+// 2. Malappuram bifurcation / naye jilon ki maang (Onmanorama, 23 Aug 2026): Navas ne Facebook post me Malappuram ki jansankhya/ghanatva ke aadhar par naye jilon ki maang rakhi — reject: sirf maang/prastav, vikas-kaam nahi.
+// 3. Chunav-result coverage (TOI, Indian Express, Business Today, India TV News, TimelineDaily, ABP Live, Wikipedia — May 2026): sirf jeet/margin/profile — kaam-khabar nahi, reject.
+// 4. fun.gulfinterview.com analysis ('Fathima Thahiliya and PK Navas Enter IUML Assembly Spotlight') — party-antar rajnaitik vishleshan, koi kaam-khabar nahi, reject.
+// Koi qualifying negative reporting established media me nahi mili. Sabha sirf ~5 mahine purani — khaali profile imaandar hai.
+
+// Tirur — kurukkoli-moideen
+keralaWorks['kurukkoli-moideen'] = [];
+
+// REJECT-LOG (kurukkoli-moideen): profile KHAALI raha — qualifying entry koi nahi mili.
+// 1. Thejas News, 14 Oct 2026 — Tirur-kendrit medical college ki maang; Health Minister K. Muralidharan ne niyamasabha me MLA ke dhyanakarshan par maang kharij ki — sirf maang aur kharij hui maang; koi swikriti/kaam nahi, reject.
+// 2. Janayugom Online, 25 Aug 2026 — Tirur-kendrit naye jile ki maang (MLA + Muslim League, Tirur/Tirurangadi/Ponnani taluk jodkar) — sirf maang/prastav; koi sanction/ghoshna/GO nahi, reject.
+// 3. whiteswantvnews.com, ~Feb 2026 — Ezhur Govt HSS KIFB (Rs 3.9 crore) building udghatan ki swagat-samiti ka udghatan — karyakaal se pehle (Feb 2026) aur sirf swagat-samiti gathan, koi sarkari pariyojna-lokarpan nahi, reject.
+// 4. Mathrubhumi newspaper, ~Oct 2025 — Police Line-Ponmundam bypass link-road (600m) nirmaan ka udghatan PWD Minister ne kiya, MLA sirf adhyaksh — karyakaal se pehle; mantri-karyakram me sirf adhyakshata, reject.
+// 5. MTN News Channel, ~Apr 2025 — sarkari nasha-virodhi sandesh yatra ki jila-swagat-samiti ka udghatan — ceremonial + karyakaal se pehle, reject.
+// 6. TikTok clips (ma_razak_68) — "247 crore ke vikas" ka dawa — social-media self-post, credible srot nahi, reject.
+// 7. Election-result coverage, May 2026 (TOI, Indian Express, Moneycontrol, ETV Bharat, Business Today) — sirf jeet ki khabar (24,137 vote margin), vikas-kaam nahi, reject.
+
+// Kottakkal — prof-abid-hussain-thangal
+keralaWorks['prof-abid-hussain-thangal'] = [
+  {
+    title: 'Kottakkal MLA Prof. Abid Hussain Thangal ne 9 October 2026 ko Kadampuzha me 110 kV substation ka udghatan kiya.',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Malappuram Life, 9 Oct 2026',
+    sourceUrl: 'https://malappuramlife.com/2026/10/09/53661/',
+    date: '2026-10-09',
+    note: 'Chhote local portal Malappuram Life ki post-event report ke anusar ye sarkari bijli pariyojna (KSEB) MLA ki sarkar ko di gayi sifarish ke aadhar par Rs 19.80 crore ki lagat se bani — yehi MLA ka dastavezi concrete kadam hai. Marakkara panchayat ke Melmuri village me Maravattam Grace Valley College ke paas 115 cent zameen adhigrahit ki gayi aur Edayur se 5 km lambi 110 kV double-circuit line bichhayi gayi. Isse Marakkara, Edayur, Kuruva, Ponmala panchayaton aur Kottakkal nagarsabha ke 50,000 se adhik bijli upbhoktaon ko fayda hoga. MLA ne udghatan kiya aur Edayur panchayat tatha Kottakkal town me naye substationon ke liye zameen khojne ke prayason ki baat kahi. Fund sarkari (KSEB/vibhagiya) hai, vidhayak-nidhi ka dawa nahi hai.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (prof-abid-hussain-thangal): 1 entry.
+// 1. vengaralive.com, ~Mar 2026 — Ponmala panchayat me MLA fund + rural-road fund se bane 4 kaam (Rs 52 lakh, sadak navikaran + mini-mast light) ka udghatan — chunav (4 May 2026) se pehle ki khabar, karyakaal se pehle, reject.
+// 2. aksharanadu.com, Jan 2026 — Darul Quran me Republic Day samaroh ka udghatan — ceremonial + karyakaal se pehle, reject.
+// 3. mediavisionlive.in, 20 May 2022 — Edayur Poovathumthara SC colony ke liye Rs 1 crore (Ambedkar Swayam Sahaya Gramam) — 2021-26 karyakaal ki purani khabar, reject.
+// 4. Mathrubhumi newspaper, ~Oct 2025 — Kottakkal mandal rural roads ke liye Rs 71 lakh (flood-relief fund se order) — karyakaal se pehle + sirf fund-order ghoshna khabar, reject.
+// 5. Election-result coverage, May 2026 — sirf jeet ki khabar (62,638 vote margin), vikas-kaam nahi, reject.
+
+// Thavanur — adv-v-s-joy
+keralaWorks['adv-v-s-joy'] = [
+  {
+    title: 'Thavanur MLA Adv. V S Joy ke netritva me kshetra ke students ke liye samagra shiksha-kariyar guidance program TRACE Thavanur 14 September 2026 ko launch hua, jiska udghatan General Education Minister ne kiya.',
+    category: 'School',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Malayalam Daily News, 14 Sep 2026',
+    sourceUrl: 'https://www.malayalamdailynews.com/774653/',
+    date: '2026-09-14',
+    note: 'Chhote local portal Malayalam Daily News ki PRD (Kerala sarkar jansampark vibhag) release par aadharit post-event khabar ke anusar ye karyakram MLA Adv. V S Joy ki apni pahal hai — TRACE Thavanur (Thavanur Resource for Academic and Career Excellence), jiska uddeshya kshetra ke vidyarthiyon ko school shiksha ke saath-saath uchch shiksha, pratiyogi parikshaon, professional courses aur kariyar chayan me margdarshan dena hai. Edappal Golden Tower me hue karyakram ka udghatan General Education Minister N. Shamsudheen ne kiya aur logo launch bhi hua; samapan me students ke liye career class bhi hui. Lekh me fund-srot (sarkari/vidhayak-nidhi/niji) ka ullekh nahi hai, isliye ise MLA ki pahal ke roop me hi darj kiya gaya hai, kisi sarkari yojna ke shrey ka dawa nahi.',
+    period: '2026-2031',
+  },
+];
+
+// REJECT-LOG (adv-v-s-joy): 1 entry.
+// 1. malappurammedia.com, 14 Jun 2026 — Kadakassery Ideal Institutions ka toppers meet udghatan — niji school sanstha ka ceremonial karyakram; sarkari pariyojna nahi, MLA ki koi dastavezi vikas-bhoomika nahi, reject.
+// 2. edappalnews.com, ~Jun 2026 — Naripparambu Taj Palace me MLA Excellence Award samaroh — udghatan MP Shafi Parambil ne kiya, Joy sirf adhyaksh; sirf adhyakshata, reject.
+// 3. Mathrubhumi English, 3 Oct 2026 — Malappuram "fundamentalists nest" bayan par Joy ka social-media jawab — rajnaitik bayan, vikas-kaam nahi, reject.
+// 4. Election-result coverage, May 2026 (TOI, Indian Express, News18, ETV Bharat) — sirf jeet ki khabar (14,647 vote margin; Malappuram me 1995 ke baad pehle Christian MLA), vikas-kaam nahi, reject.
+
+// Ponnani — k-p-noushad-ali
+keralaWorks['k-p-noushad-ali'] = [];
+
+// REJECT-LOG (k-p-noushad-ali): profile KHAALI raha — qualifying entry koi nahi mili.
+// 1. New Indian Express, 10 Aug 2026 + Onmanorama, 2 Aug 2026 — Rs 1,000 crore Ponnani shipyard PPP project (Kerala Maritime Board + Travancore Precision Components; agreement 18 May 2026): MLA project ka virodh kar raha hai (machhuaron ki jeevika ka tark, Maritime Board CEO se baithak) — virodh koi vikas-kaam entry nahi banti; unka koi inauguration/launch/sanction kadam nahi, reject.
+// 2. Samakalika Malayalam / News18 Malayalam, 26-27 Sep 2026 — Punnayur (Guruvayoor seat, Thrissur jila) me school breakfast program udghatan par CPM ka kaala-jhanda virodh — apne kshetra (Ponnani) se bahar ka karyakram, kshetra-se-bahar niyam se reject.
+// 3. edappalnews.com, ~Jul 2026 — Kerala State Retail Ration Dealers Association Ponnani taluk sammelan ka udghatan — sangathan ka ceremonial karyakram; sarkari pariyojna nahi, reject.
+// 4. Thejas News, 20 Jun 2026 — Indian Acupuncture Practitioners Association ka swagat/sanman — ceremonial, reject.
+// 5. Gulf Pathram, ~Oct 2026 — Priyadarshini Janakeeya Vedi 2026 puraskar (31 Oct ko sammelan me milega) — vyaktigat samman + pre-event khabar; vikas-kaam nahi, reject.
+// 6. Election-result coverage, May 2026 (TOI, Indian Express, Moneycontrol, Business Today) — sirf jeet ki khabar (13,267 vote margin; CPM se seat chheeni), vikas-kaam nahi, reject.
+// NOTE: The Hindu (May 2026) ka "social engineering" profile piece — chunav se pehle ke outreach (resting centre, Ramzan relief) ka vishleshan hai; karyakaal ke baad ka koi vikas-kaam nahi, reject.
+
+// COORDINATOR QA NOTE (Malappuram district batch, 2026-10-14): 4/4 workers completed, sabhi 4 fragments khud padhe — assignment format exact, har slug exactly once (append se pehle 0 matches — koi overwrite nahi), marker 1x; kul titles 14 -> 21 (+7). Kept: aryadan-shoukath (Nilambur) — Punchakolli bridge punarnirman ke liye June 2026 state budget me Rs 1 crore earmark (Onmanorama, post-event; swikriti standard met — established media me financial sanction with specifics + MLA ka dastavezi kadam: jeetne ke baad CM se milkar mudda uthaya; full credit-disclosure, Kottayam-Radhakrishnan precedent anuroop); adv-m-rahmathulla (Manjeri) — KSRTC station master office phir se shuru, MLA ne udghatan kiya 4 Aug 2026 (Onmanorama post-event; fund-srot report me stated nahi — disclosed); najeeb-kanthapuram (Perinthalmanna) — 1 NEGATIVE (coordinator ne khud verify kiya: The Hindu 13 Oct 2026 khola + Live Law/Onmanorama corroboration): CJM Manjeri ne Melattur police ko FIR darj + janch ka nirdesh (advocate commissioner K.P. Krishnakumar ki shikayat — dhamkana/badha ka aarop, Vengoor attachment case); police ka jawab (parivar ki aatmahatya-chetaavni) aur MLA ki unconditional apology (9 Oct) bhi darj; maafi-yachika par faisla 16 Oct ko lambit — nishkarsh na nikala jaye; k-m-shaji (Vengara) — Rs 250 crore elevated highway ghoshna (Onmanorama 1 Sep 2026; imaandari se swikriti nahi — prashasnik swikriti pending; PWD Bridges Division ka project, MLA ne drawings liye + nirikshan kiya — full credit-disclosure); manjalamkuzhi-ali (Mankada) — Thiruthil talab jeernoddhar poorna + lokarpan 4 Oct 2026 (Kerala Kaumudi; fund-srot undisclosed — noted); prof-abid-hussain-thangal (Kottakkal) — Kadampuzha 110 kV substation lokarpan 9 Oct 2026, Rs 19.80 crore KSEB pariyojna, MLA ki sarkar ko sifarish = dastavezi kadam (Malappuram Life chhota portal — disclosed); adv-v-s-joy (Thavanur) — TRACE Thavanur program launch 14 Sep 2026, MLA ki apni pahal (PRD release via Malayalam Daily News; minister ne udghatan kiya — disclosed). 9 profiles imaandari se KHAALI: t-p-ashrafali, p-k-basheer (PWD mantri — state-level kaam seat-bahar, sakht reject), a-p-anilkumar (mantri — seat-level kaam nahi), t-v-ibrahim, p-m-a-sameer, p-k-navas, kurukkoli-moideen, p-k-kunhalikutty (party/rajya-star khabrein reject), k-p-noushad-ali. Negative screen: sirf Kanthapuram wali (karyakaal); K.M. Shaji ke purane vigilance/ED mamle — May 2026 ke baad koi nayi prakriya-sthiti nahi mili → negative nahi. Hygiene: 0 Devanagari/Malayalam, 0 rupee-symbol, 0 literal-\\n; entry objects me 0 comments; period '2026-2031' sabhi kept entries me; field order exact; negative entry me stage field nahi (Kappen-precedent).
