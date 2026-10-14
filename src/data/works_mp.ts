@@ -4804,3 +4804,84 @@ mpWorks['kedar-chidabhai-dawar'] = [
 // sachin-subhashchandra-yadav: YouTube ICU/lab shubharambh 2021 (pre-term + YouTube-only); Ram-mandir chanda abhiyan (daan abhiyan, kaam nahi); YouTube tanker "pichhle varshon" (YouTube-only + pre-term); Kasrawad kisan paidal-march (andolan/maang); javelin khiladi Sachin Yadav (GALAT VYAKTI).
 // balkrishn-patidar: CM Jan-Abhaar Yatra bhashan + nimad-sambhag/krishi-college maang (maujoodgi + maang); FPJ CM bonanza (sirf maujoodgi); Bhaskar Yadav Samaj Bhavan (Rs 10 lakh sansad-nidhi — MLA sirf maujood); Bhujaria parv shaurya-pradarshan (sanskritik, kaam nahi); 2023 virodh-video (pre-term). PROFILE KHAALI.
 // kedar-chidabhai-dawar: YouTube Segav + Bistan up-tehsil (Rs 85 lakh) bhoomi-pujan (YouTube-only); World Tribal Day avkash-patra (sirf maang); Dagadkhedi dharna (andolan, YouTube-only); soybean MSP pradarshan (andolan); 2021 "gumshuda" poster virodh (pre-term); 2020 BJP-samarthan (pre-term).
+
+// ---- Mandla district batch (researched 2026-10-14) ----
+
+mpWorks['narayan-singh-patta'] = [
+  {
+    title: 'Bhua-Bichhiya me NH-30 par Rs 76.21 lakh ke decorative pole aur LED light ka lokarpan — vishesh nidhi ka 2-charan kaam, mantri ke saath sanyukt feeta katkar',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mahaveer News 29, 2 Aug 2026',
+    sourceUrl: 'https://mahaveernews29.in/49509/',
+    date: '2026-08-02',
+    note: 'Nagar parishad Bhua-Bichhiya kshetr me vishesh nidhi se Rs 76.21 lakh ki lagat se hue saundaryikaran karya ka lokarpan — PHE cabinet mantri Sampatiya Uikey aur Bichhiya vidhayak Narayan Singh Patta ne sanyukt roop se feeta katkar NH-30 par lage decorative pole evam LED light ka shubharambh kiya. Nagar parishad ne kaam 2 charanon me poora kiya: pehla charan Danitola tiraha se shaskiya prathmik shala Bhua tak divider ke madhya, doosra charan prathmik shala Bhua se Banjari Mata mandir tak. Status: lokarpan (nirman poorn). Credit-pardarshita: ye sarkari vishesh-nidhi ka nagar-parishad ka kaam hai; MLA ki concrete bhoomika kshetr ke vidhayak ke roop me sanyukt lokarpan hai. Caveat: Mahaveer News 29 chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ghughri ke samudayik swasthya kendra me vidhayak nidhi se water purifier-cum-cold unit ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Mahaveer News 29, 7 Feb 2026',
+    sourceUrl: 'https://mahaveernews29.in/41129/',
+    date: '2026-02-07',
+    note: 'Bichhiya vidhan sabha ke vidhayak Narayan Singh Patta ne apni vidhayak nidhi se shaskiya samudayik swasthya kendra Ghughri ko water purifier sahit cold unit samarpit ki — vidhivat poojan ke saath lokarpan; khand chikitsa adhikari, takniki visheshagya evam aspatal staff upasthit. Hospital me lambe samay se shuddh peyjal ki samasya thi, vishesh roop se garmi me teemardaron ko bahar jana padta tha; ye vidhayak-nidhi ka kaam hai, sansad-nidhi (MP fund) nahi. Status: lokarpan (machine sthapit, chalu). Caveat: Mahaveer News 29 chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ghughri me vidhayak nidhi se bani Rani Durgavati aur Tyagi ji Maharaj ki 2 pratimayen gram panchayat ko saunpi — sthapna manch taiyaar, bhavya unavaran baki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mahaveer News 29, 22 Feb 2026',
+    sourceUrl: 'https://mahaveernews29.in/41875/',
+    date: '2026-02-22',
+    note: 'Bichhiya vidhayak Narayan Singh Patta ne vidhayak nidhi ke madhyam se taiyaar ki gayi Veerangana Rani Durgavati aur Param Poojya Tyagi ji Maharaj ki bhavya pratimayen Ghughri me vidhivat roop se gram panchayat evam sthaniya nagrikon ko saunp di — do pramukh sthanon par sthapna ka nirnay, sthapna sthal par bhavya manch taiyaar; shubh muhurat me jan-samaroh ke saath unavaran ki ghoshna. Ye vidhayak-nidhi ka kaam hai, sansad-nidhi nahi. Status: nirman poorn + saunpa (unavaran samaroh baki). Caveat: Mahaveer News 29 chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['chainsingh-warkade'] = [
+  {
+    title: 'Narayanganj ke Kumbheshwar ghat (Kumha) par vidhayak nidhi se Rs 10 lakh ki navnirmit seedhiyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mahaveer News 29, 27 May 2026',
+    sourceUrl: 'https://mahaveernews29.in/45844/',
+    date: '2026-05-27',
+    note: 'Nivas vidhan sabha ke vidhayak Chainsingh Warkade ke mukhya atithya me vikas khand Narayanganj ki gram panchayat Kumha me Maa Narmada ke pavan tat par sthit aitihasik Kumbheshwar ghat ki navnirmit seedhiyon ka lokarpan hua — Jal Ganga Samvardhan Abhiyan evam Ganga Dussehra ke uplakshya me karyakram; shraddhaluon ki varshon purani maang par vidhayak nidhi se Rs 10 lakh ki lagat se seedhi nirman karaya gaya. Ye vidhayak-nidhi ka kaam hai, sansad-nidhi (MP fund) nahi. Status: lokarpan (nirman poorn). Caveat: Mahaveer News 29 chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Padriya se Narayanganj pahunch marg ka pakka nirman — vidhayak nidhi se Rs 10 lakh, bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Mahaveer News 29, 10 Mar 2025',
+    sourceUrl: 'https://mahaveernews29.in/27840/',
+    date: '2025-03-10',
+    note: 'Janpad panchayat Narayanganj ki gram panchayat Padriya me varshon se jarjar-kachche Padriya se Narayanganj pahunch marg ke pakke nirman ke liye Nivas vidhayak Chainsingh Warkade ne apni vidhayak nidhi se Rs 10 lakh ki rashi di aur swayam bhoomi-pujan kiya; sarpanch, sachiv evam sthaniya prashasan upasthit. Ye vidhayak-nidhi ka kaam hai, sansad-nidhi nahi. Status: bhoomi-pujan (nirman shuru hone wala tha; poornata ki alag khabar nahi mili). Caveat: Mahaveer News 29 chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['sampatiya-uikey'] = [
+  {
+    title: 'Jarga-Jargi me samudayik bhavan (parikrama ashram) aur Rs 12 lakh ke haat-bazaar shed ka bhoomi-pujan; Raja Shankar Shah-Raghunath Shah pratimaon ka anavaran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Samachar via Vocal TV, 29 Aug 2025',
+    sourceUrl: 'https://vocaltv.in/madhya-pradesh/unveiled-the-statue-of-raja-shankar-shah-and-raghuphp/cid17334189.htm',
+    date: '2025-08-29',
+    note: 'Lok swasthya yantriki mantri Sampatiya Uikey ne Mandla jile ke Jarga-Jargi gaon me amar shaheed Raja Shankar Shah aur Raghunath Shah ki pratimaon ka anavaran kiya aur gaon ke vikas ke liye samudayik bhavan (parikrama ashram) evam Rs 12 lakh ki lagat se banne wale haat-bazaar shed ka bhoomi-pujan kiya. Isi karyakram me unki vidhayak nidhi se Rs 50 lakh (bijli vyavastha) aur gram panchayat Khursipar me rangmanch ke liye Rs 2 lakh ki ghoshnaen hui — ye ghoshnaen bina sanction/work-order saboot ke entry me nahi li gayi (ghoshna-type press khabar rule). Status: bhoomi-pujan + anavaran. Credit-pardarshita: article me wo mantri ke roop me karyakram kar rahi thin; karya Mandla jile me hai. Source Hindustan Samachar news agency hai.',
+    period: '2023-2028',
+  },
+];
+// PARENT QA NOTE (2026-10-14, Mandla batch): uikey ki 2 entries HATA di — (1) tiger safari zoo ghoshna:
+// CM ka ailaan unki maang par tha, maang+ghoshna entry nahi banti; (2) JJM Rs 1000cr 'commission' negative:
+// aarop ekmatra poorv-vidhayak ki PM ko shikayat par tha — koi FIR/case/janch unke viruddh pakshkar ke
+// roop me nahi, sirf vibhagiya report-maang; negative-entry manak par nahi utri (Dewas/Vikrant precedent).
+
+
+// ---- Mandla district batch REJECT-LOG (2026-10-14) ----
+// narayan-singh-patta: News18 Hindi (20 Sep 2026) ghurgwara marg — graminon ne chanda karke khud sadak banai; MLA ne sirf bayan diya (vidhan sabha yachika me maang uthai, sanction nahi hui) — thos kaam nahi; Amar Ujala (25 Feb 2026) vidhan-sabha budget charcha me sadak-gunvatta par bayan — sirf bayan/vipakshi aalochna; mahaveernews29 CM event (4 Oct 2026) 74 works (Rs 460+ crore) ka bhoomi-pujan/lokarpan — CM-karyakram, Patta ka naam tak article me nahi, sirf maujoodgi hoti to bhi reject; sansad sadak-suraksha samiti baithak me maujoodgi — sirf maujoodgi; YouTube Shiv Mahapuran dance video — sanskritik karyakram, kaam nahi.
+// chainsingh-warkade: mahaveernews29 Maa Karma Devi mandir Pipariya — Warkade ne sirf vidhayak nidhi se Rs 10 lakh dene ki GHOSHNA ki (sanction/work-order saboot nahi), bhoomi-pujan doosron ne kiya, mandir Sahu samaj banwa raha hai — ghoshna-type reject; YouTube "vividh nirman karyon ka bhoomi-pujan v lokarpan" video — YouTube-only; public.app Narayanganj Shankarganj-Babliya pul nirikshan — public.app-only + sirf nirikshan; YouTube "sarkar par nishana" — virodh/bayan, kaam nahi.
+// sampatiya-uikey: Zee News Mandla 45 gaon paani-sankat — mantri ne sirf bijli vibhag/PHE adhikariyon ko sudhar ke nirdesh diye, thos kaam nahi — nirdesh/ashwasan reject; udaipurkiran.org bal mela — vidhayak nidhi se Rs 5 lakh kaksh-nirman ki GHOSHNA — ghoshna-type reject; vocaltv Jarga-Jargi karyakram me Rs 50 lakh (bijli) + Rs 2 lakh (rangmanch) ghoshnaen — bina sanction saboot, ghoshna-type reject (bhoomi-pujan wali entry rakhi); mahaveernews29 CM event me maujoodgi/bhashan — CM-karyakram, sirf maujoodgi; ghughri/mohgaon college + MSME processing unit ghoshnaen — CM ki ghoshnaen, Uikey ki concrete bhoomika article me spasht nahi.
