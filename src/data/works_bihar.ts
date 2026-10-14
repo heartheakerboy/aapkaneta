@@ -4118,3 +4118,100 @@ biharWorks['devesh-kant-singh'] = [];
 
 biharWorks['hem-narayan-sah'] = [];
 // COORDINATOR QA (Siwan): 4 workers (A: AC-105/106, B: AC-107/108, C: AC-109/110, D: AC-111/112) ke fragments ko AC order 105->112 me merge kiya. Kul 9 entries (5 positive + 4 negative): mangal-pandey 4 (3 positive + 1 negative dustbin-ghotala - RTI daava + swasthya mantri dwara janch-aadesh, Devendra Jain precedent par), bhism-pratap-singh 1, vishnu-deo-paswan 1 negative (rangdari FIR, Prabhat Khabar + Times Now Hindi), osama-shahab 2 negative (uske swayam ke vartaman-karyakaal ke mamle - pita se judi koi reporting nahi jodi, parivar-niyam), indradev-singh 1 (CM 551-school yojana ka sthaniya udghatan, Manjeet pattern), karnjeet/devesh/hem khaali. Mangal Pandey ke vibhag/rajya-star ke faisle jaanboojhkar exclude (mantri-niyam). Sabhi 8 slugs pehle khaali the - koi overwrite nahi; marker 1x. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; badges valid (news); categories valid; stages valid (negatives me stage nahi); period '2025-2030' sabhi me; titles pure Hinglish vakya, currency "Rs"; sourceUrls canonical, khud khole gaye.
+
+// ---- Supaul district batch (researched 2026-10-14) ----
+
+// Supaul jila — Worker A: Aniruddha Prasad Yadav (Nirmali AC-41, JD(U)), Rambilash Kamat (Pipra AC-42, JD(U)).
+// Researched 2026-10-14. Har source khud khola gaya; snippet se koi entry nahi bani.
+
+biharWorks['aniruddha-prasad-yadav'] = [];
+
+// REJECT-LOG (aniruddha-prasad-yadav):
+// 1. SupaulTimes: Kalyanpur primary school building shilanyas (Rs 32,68,849) + Bhaptiyahi upgraded middle school shilanyas (Rs 31.14 lakh) — dono Feb 2025 ke, purane karyakaal ke (Nov 2025 se pehle) = REJECT (period rule).
+// 2. SupaulTimes: Kunauli-Kamalpur marg par Mariya/Jita dhar par RCC pul shilanyas — Jan 2025 ka, purana karyakaal = REJECT (period rule).
+// 3. SupaulTimes: Raghopur Baysi panchayat me vidhayak-nidhi se PCC road shubharambh — Dec 2023 ka = REJECT (purana karyakaal; plus bina sanction/work-order saboot ki ghoshna-type khabar).
+// 4. NewsExpressBihar: Raghopur referral hospital ka 50-bed building lokarpan — ~Sep 2024 ka = REJECT (purana karyakaal; mukhya karyakram central health minister/CM ka virtual tha, MLA kewal shilapatt anavaran me maujood).
+// 5. CM Nitish Kumar Samriddhi Yatra, Nirmali (Mar 2026, news24online + prabhatkhabar): 569 crore ki 213 yojanaon ka shilanyas-udhghatan CM ne kiya, MLA kewal manch par maujood = REJECT (CM ke karyakram me maujoodgi).
+// 6. Himalini: NUJ jila patrakar sammelan 2026, Saraigarh-Bhaptiyahi — MLA ne deep-prajwalan se event ka udhghatan kiya = REJECT (sammelan/event udhghatan, kshetra-kaam nahi).
+// 7. PrabhatKhabar: Disha meeting May 2026 — MLA ne kshetra ki samasyaon se awgat karaya = REJECT (baithak me upasthiti, koi kaam nahi).
+// 8. PrabhatKhabar election-analysis (Nov 2025) + LiveHindustan results — kewal jeet ki khabar = REJECT (entry rule ke bahar).
+// 9. Jagriti Times (9 Jun 2026): Nirmali MLA ko dhamki bhare phone par bodyguard ki shikayat par RO Sandeep Kumar ke khilaf Sadder thana me FIR darj; RO ne counter me aarop lagaya ki MLA ne court-stay wale bhoomi mamlo me dakhil-kharij ka dabav banaya (MLA ne inkar kiya). MLA ke khilaf KOI FIR/case/janch nahi — FIR RO ke khilaf hai, MLA complainant-paksh hai. RO ka counter-aarop bina karyavahi ka hai = REJECT as negative entry (rule: sirf virodhi ki shikayat bina karyavahi ke = reject).
+// 10. Telegraph India 'Sadhu Yadav' warrant — galat vyakti (Anirudh Prasad Yadav alias Sadhu Yadav, Lalu Prasad ke rishtedar) = REJECT (naam milta-julta galat vyakti).
+
+biharWorks['rambilash-kamat'] = [];
+
+// REJECT-LOG (rambilash-kamat):
+// 1. News4Nation (10 Jun 2026, khud khola gaya): Pipra prakhand-sah-anchal karyalaya bhavan (Rs 13.25 crore, Bihar sarkar Bhavan Nirman Vibhag ka kaam, 15 Apr 2026 se shuru, Apr 2027 tak lakshya) — MLA ne kewal nirikshan kiya aur gunvatta/tezi ke nirdesh diye = REJECT (sirf nirikshan/daura; unka koi shilanyas/lokarpan nahi mila).
+// 2. Satyarath (khud khola gaya): Kailashpuri mela (Pathra Uttar, Pipra) ka udhghatan — MP Dileshwar Kamait, MLA, purv MLA sahit sanyukt ribbon-cutting; dharmik/sanskritik mela, kshetra-kaam nahi; MLA ka bayan ki 'mandir char diwari poori, rangmanch jald' — weak dawa, koi date/fund-source nahi = REJECT (event me maujoodgi + kamzor attribution).
+// 3. KDNLive: Bihar Diwas + Supaul jila sthapana diwas 2026 — MLA kewal chief-guest soochi me = REJECT (event me maujoodgi).
+// 4. News4Nation + LiveHindustan (Sep-Oct 2026): Rashtriya Lokgatha Bhagait Mahasangam-2026 — kala-sanskriti mantri + purv kendriya mantri ke saath deep-prajwalan, MLA joint udhghatan me = REJECT (sanskritik event me maujoodgi, kshetra-kaam nahi).
+// 5. LiveHindustan (Sep 2026, khud snippet padha): Farakka jal sandhi par press-bayan — kendra se punarvichar ki MAANG = REJECT (sirf maang/press statement, koi kaam nahi).
+// 6. LiveHindustan (26 Oct 2024): Pipra me smart prepaid meter ka udhghatan — purana karyakaal = REJECT (period rule).
+// 7. SupaulTimes (2024/2023): dangal pratiyogita udhghatan, NDA karyalaya udhghatan, RSM school varshikotsav — sab purana karyakaal = REJECT (period rule).
+// 8. Satyarath: CM Nitish Kumar dwara Lohiya Medical College shilanyas — ~2.5 saal purana + CM ka karyakram, MLA kewal maujood = REJECT.
+// 9. ADR/myneta: purane affidavit cases (1994, 2014, 2019) — Nov 2025 ke baad in par koi established reporting (aarop + FIR/janch sthiti) nahi mili = REJECT as negative entry.
+
+// Supaul jila — Worker B: Bijendra Prasad Yadav (Supaul AC-43, JD(U)), Sonam Rani (Triveniganj SC AC-44, JD(U)).
+// Researched 2026-10-14. Mantri-caveat lagoo: Bijendra Yadav ke liye sirf AC-43 ke andar vyaktigat bhoomika wale kaam.
+
+biharWorks['bijendra-prasad-yadav'] = [
+  {
+    title: 'Marauna block ke Lalmaniya panchayat me Madhya Vidyalaya Rasuaar ke Rs 1.73 crore vidhayak-nidhi se bane navnirmit bhavan ka lokarpan',
+    category: 'School',
+    stage: 'lokarpan',
+    date: '2026-03-12',
+    description: '12 March 2026 ko Bijendra Prasad Yadav ne Marauna block ke Lalmaniya panchayat me Madhya Vidyalaya Rasuaar ke navnirmit bhavan ka udghatan kiya. Hindustan ki report ke mutabik unhone swayam DM se kaha tha ki sarkari prakriya me samay lag sakta hai, isliye bhavan vidhayak nidhi se lagbhag Rs 1.73 crore ki lagat par banvaya gaya. Fund source keval Bihar vidhayak-nidhi hai, MPLADS (sansad nidhi) nahi. Marauna CD block delimitation ke mutabik Supaul AC-43 ke andar aata hai, isliye ye kshetra-stariya kaam hai. Udghatan ke samay ve urja vibhag ke mantri ke roop me bhi maujood the, lekin article me unki vyaktigat bhoomika (nidhi dilana + lokarpan) spasht hai; ye koi CM/PM karyakram nahi tha.',
+    source: 'LiveHindustan (Hindustan, Supaul)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/supaul/story-bihar-minister-inaugurates-new-school-building-in-marouna-emphasizes-education-and-development-201773338392346.html',
+    badge: 'news',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (bijendra-prasad-yadav):
+// 1. Kashish News, 10 Mar 2026 — CM Nitish Kumar ne Samriddhi Yatra me Supaul me 569 crore ki 213 yojnaon ka shilanyas/udghatan kiya; Bijendra Yadav manch par maujood = REJECT (CM-level karyakram; sirf maujoodgi).
+// 2. LiveHindustan, ~Nov-Dec 2025 — Supaul ROB (rail overbridge) ka ruka kaam NHAI ne dobara shuru kiya; article me Bijendra ke "athak prayas" ka shreya = REJECT (NHAI project; is karyakaal me unka koi shilanyas/lokarpan event nahi, na apni nidhi — mantri-stariya hastakshep ki progress report).
+// 3. LiveHindustan, ~Dec 2025 — "Bairiya Manch se Marauna tak pul ka kaam jald shuru hoga": Supaul ke MP Dileshwar Kamait ka bayaan = REJECT (sansad ka bayaan; MLA-stariya kaam nahi; "karenge"-type).
+// 4. YouTube (dhopap media), ~2020 — Supaul ROB ka shilanyas urja mantri ke roop me = REJECT (purana karyakaal + YouTube-only).
+// 5. LiveHindustan / Patna Press, Jun 2026 — parcel/OTP cyber-fraud dhamki call; Patna Cyber PS me FIR = NO NEGATIVE ENTRY (ve khud dhamki ke shikar hain; FIR unke karyalaya ki shikayat par darj; MLA ke viruddh koi aarop/case nahi).
+// 6. YouTube video "Supaul me mantri Bijendra Yadav ke karyalaya ke bahar bawal" — REJECT (YouTube-only; established media me post-event reporting nahi).
+
+biharWorks['sonam-rani'] = [];
+
+// REJECT-LOG (sonam-rani):
+// 1. LiveHindustan, 28 Jan 2026 — Triveniganj me block-stariya khel pratiyogita ka samaapan; vidhayak ne stadium nirman ki "ghoshna" ki = REJECT (article ke shabd: "sarkar dwara ... stadium nirman ki ghoshna ki gayi hai" — sarkari ghoshna ka zikr, apni nidhi/swikriti ka koi dawa nahi; weak attribution).
+// 2. LiveHindustan, ~Dec 2025 — Govindpur high school me vidyalaya prabandh samiti ka gathan; vidhayak ne chahardiwari ka "samadhan ka ashwasan" diya = REJECT (administrative role + sirf ashwasan).
+// 3. Election-coverage items (LiveHindustan 15 Nov 2025, Indian Express, DNA, NDTV, Loksatta, Oneindia) = REJECT (chunav jeet ki khabrein, koi vikas-kaam nahi).
+// 4. Negative-news search — koi established reporting nahi mili; negative entry nahi.
+
+// Supaul jila — Worker C: Niraj Kumar Singh (niraj-kumar-singh, BJP), Chhatapur AC-45.
+// Researched 2026-10-14. Identity: "Niraj Kumar Singh Bablu" — ex-PHED mantri (Mar 2024 - Nov 2025); purane karyakaal ke kaam exclude.
+
+biharWorks['niraj-kumar-singh'] = [
+  {
+    title: 'Chhatapur MLA Niraj Kumar Singh Bablu ne daava kiya ki saat pulon aur kai sadkon ke tender antim charan me hain aur 2026 ke ant tak block ki pul-sadak samasyaen samapt ho jayengi',
+    category: 'Sadak',
+    stage: 'ghoshna',
+    date: '2026-02-08',
+    description: 'Hindustan (Supaul) ne 8 Feb 2026 ko report kiya ki Chhatapur vidhayak Niraj Kumar Singh Bablu ne ek grih-pravesh karyakram me daava kiya ki Jhakhadgarh panchayat me Sursar nadi par Shivni ghat aur Dhobiyahi ghat, Madhubani, Pariyahi ghat, Bilainiya nadi, Balua aur Chhatapur panchayat me kul saat pulon ke tender final prakriya me hain, aur kai sadkon ke tender bhi antim stage me hain. DISCLOSURE: yeh poori tarah vidhayak ka swayam-daava (dawa) hai; khabar me kisi GO, sanction-order, tender number ya vibhagiya document ka ullekh nahi hai aur tender ki koi swatantra pushti article me nahi di gayi, isliye stage imaandari se ghoshna likha gaya hai, swikriti nahi. Fund ka srot (vidhayak-nidhi/MKVY, MPLADS ya vibhagiya yojana) article me spasht nahi hai. 2026 ke andar sab kaam poore hone ka vaada bhi unhi ka daava hai, koi vibhagiya timeline nahi.',
+    source: 'LiveHindustan (Hindustan, Supaul)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/supaul/story-infrastructure-development-seven-bridges-and-roads-tender-finalized-in-chhatapur-201770572674528.html',
+    badge: 'dawa',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (niraj-kumar-singh):
+// 1. LiveHindustan, 2 Jan 2026 — Thuthi me North Bihar ka pehla surface water treatment plant (Rs 320.01 crore) = REJECT (article khud credit deta hai Aug 2025 ke mantri-era ki pahal ko — purana karyakaal; naya nirmaan PHED ka departmental execution hai).
+// 2. LiveHindustan, 8 Jul 2026 — Chhatapur circuit house par "todkar naya banayenge" aashwasan = REJECT (sirf "karenge" aashwasan; koi sanction/shilanyas nahi).
+// 3. darbhangaNews24 — niji school ke udghatan me "pahuchenge" = REJECT (pre-event announcement + sirf maujoodgi).
+// 4. LiveHindustan, Dec 2025 — abhar yatra/daura = REJECT (koi kaam nahi).
+// 5. thehawabaaz, Oct 2020 (gherav); Economic Times 2015 (suspension) = REJECT (purana karyakaal).
+// 6. webindia123, Feb 2025 + Amar Ujala, Sep 2025 (chunavi bayan) = REJECT (pre-term; koi kaam nahi).
+// 7. Amar Ujala, 30 Sep 2025 — mantri ko jaan se maarne ki dhamki (FIR 489/25) = NO NEGATIVE (pre-term; vidhayak swayam peedit/shikayatkarta hain).
+// 8. ABP Live + Jagran, 16 Sep 2026 — Sushant/Disha case par bayan = REJECT (political commentary + parivar-mamla; kshetra-kaam nahi; unke viruddh koi FIR/case nahi).
+// 9. LiveHindustan (Jharkhand/Palamu) — "Chhatarpur me vidhayak nidhi se 13 yojnaon ka shilanyas" (Radhakrishna Kishor) = REJECT (galat vyakti + galat sthan: Chhatarpur, Jharkhand, Chhatapur Bihar nahi).
+// 10. Patna Press — CM Nitish Kumar ke Supaul karyakram (Rs 298/570 crore) = REJECT (CM-stariya karyakram me sirf maujoodgi).
+// 11. YouTube-only sadak shilanyas videos = REJECT. 22Scope News, Oct 2025 (nomination) = REJECT (chunav).
+
+// COORDINATOR QA (Supaul): 3 workers (A: AC-41/42, B: AC-43/44, C: AC-45) ke fragments ko AC order 41->45 me merge kiya. Kul 2 entries (1 positive + 1 dawa): bijendra-prasad-yadav 1 (Rs 1.73 crore vidhayak-nidhi school bhawan lokarpan, Marauna AC-43 ke andar, mantri-caveat disclose), niraj-kumar-singh 1 (dawa/ghoshna — 7 pulon ke tender ka swayam-daava, bina GO ke ghoshna stage par rakha); aniruddha-prasad-yadav, rambilash-kamat, sonam-rani khaali. QA fix: worker C ki entry ka English title Roman-Hinglish vakya me convert kiya (srot-tathya aparivartit). Sabhi 5 slugs pehle khaali the — koi overwrite nahi; marker 1x. Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal \n entry objects me; badges valid (news/dawa); categories valid; stages valid (ghoshna/lokarpan); period '2025-2030' sabhi me; titles pure Hinglish vakya, currency "Rs"; sourceUrls canonical, khud khole gaye.
