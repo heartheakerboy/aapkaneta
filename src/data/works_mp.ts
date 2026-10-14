@@ -2853,3 +2853,114 @@ mpWorks['bhanwarsingh-shekhawat-babu-ji'] = [
 // - Kalusingh Thakur: 10 (raajnaitik vivaad, honey-trap, bina-FIR assault dispute, YouTube-only, pre-2023, verify na ho saka short-link)
 // - Neena Vikram Verma: 14 (sirf upasthiti x8, CSR ribbon-cut, YouTube-only, unverifiable broken-slug story, party/parivarik khabrein)
 // - Bhanwarsingh Shekhawat: 17 (ghoshna bina sanction, nirdesh/nirakshan, patr-vyavahar, YouTube-only, pre-2023, galat vyakti x2, public.app-only)
+
+// ---- Dindori district batch (researched 2026-10-14) ----
+// Dindori jile ke 2 MLA (karyakaal Dec 2023+), AC number order me:
+// omprakash-dhurwey (Omprakash Dhurwey (Shahpura (ST) AC-103, BJP))
+// omkar-singh-markam (Omkar Singh Markam (Dindori (ST) AC-104, INC; 2018-2020 mantri the — mantri-karyakaal ke kaam bilkul nahi liye)
+// Kul entries: Omprakash Dhurwey 8, Omkar Singh Markam 1.
+// Note: swikriti-stage sirf wahi jahan pakki sanction report mili — is batch me koi swikriti entry nahi; sab lokarpan/shilanyas/vitaran (poora hua) stage par.
+// Kisi bhi MLA ki vidhayak-nidhi press-ghoshna bina sanction/work-order saboot ke nahi jodi (Markam ki table-kursi entry me actual distribution ki ground-report hai, isliye li gayi).
+// Dhurve batch ka kshetra-verification coordinator ne ECI delimitation se kiya: Shahpura AC-103 = Shahpura tehsil + Shahpur aur Amarpur RI Circles (Dindori tehsil).
+// DO NOT export; appended to works_mp.ts
+
+mpWorks['omprakash-dhurwey'] = [
+  {
+    title: 'Kanchanpur Raiyat (Shahpura) me khel maidan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sewa Johar MPCG, Jan 2025',
+    date: '2025-01',
+    sourceUrl: 'https://sewajoharmpcg.com/?p=12588',
+    note: 'Status: lokarpan — kaam poora, vidhayak ne lokarpan kiya. Credit-pardarshita: Mukhyamantri Jan Kalyan Abhiyan ke shivir me mukhya atithi ke roop me lokarpan; kaam shasakiya yojna/prashasan ka hai, MLA ki vyaktigat nidhi ka ullekh nahi. Source chhota local portal (Sewa Johar MPCG) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kanchanpur Raiyat me CC road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Sewa Johar MPCG, Jan 2025',
+    date: '2025-01',
+    sourceUrl: 'https://sewajoharmpcg.com/?p=12588',
+    note: 'Status: lokarpan — CC road ka kaam poora, vidhayak ne lokarpan kiya. Credit-pardarshita: shivir me mukhya atithi ke roop me lokarpan; shasakiya kaam, vyaktigat swikriti ka dawa report nahi. Source chhota local portal (Sewa Johar MPCG) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kanchanpur me ek anya CC road ka bhumi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Sewa Johar MPCG, Jan 2025',
+    date: '2025-01',
+    sourceUrl: 'https://sewajoharmpcg.com/?p=12588',
+    note: 'Status: shilanyas/bhumi-pujan — nirman shuru hona baki, laagat report nahi. Credit-pardarshita: shivir me mukhya atithi ke roop me bhumi-pujan; shasakiya kaam. Source chhota local portal (Sewa Johar MPCG) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Banki me Rs 14.48 lakh (MGNREGA) ke checkdam aur rangmanch ka bhumi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Sewa Johar MPCG, Jan 2025',
+    date: '2025-01',
+    sourceUrl: 'https://sewajoharmpcg.com/?p=12588',
+    note: 'Status: shilanyas/bhumi-pujan — MGNREGA ke tahat checkdam aur rangmanch, kul laagat Rs 14.48 lakh (dono kaam sanyukt report). Credit-pardarshita: MLA ne bhumi-pujan kiya; fund MGNREGA (shasakiya yojna) ka hai — ye vidhayak-nidhi nahi hai, aur sansad-nidhi (MP fund) to bilkul nahi. Source chhota local portal (Sewa Johar MPCG) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Banki me CC road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Sewa Johar MPCG, Jan 2025',
+    date: '2025-01',
+    sourceUrl: 'https://sewajoharmpcg.com/?p=12588',
+    note: 'Status: lokarpan — CC road ka kaam poora, vidhayak ne lokarpan kiya. Credit-pardarshita: shivir me mukhya atithi ke roop me lokarpan; shasakiya kaam. Source chhota local portal (Sewa Johar MPCG) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Lalpur (Raypura, Shahpura) me Rs 10 lakh vidhayak-nidhi CC road — nirman poora, gunvatta par vivaad',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Narmada Express, Mar 2026',
+    date: '2026-03',
+    sourceUrl: 'https://thenarmadaexpress.com/road-cracks-in-lalpur-just-two-hours-after-construction-villagers-complain-to-sdm-shahpura-mla-performed-groundbreaking-ceremony/',
+    note: 'Status: nirman poora lekin gunvatta vivaad — sadak banne ke 2 ghante me kayi jagah dararein; graminon ne bhrashtachar/gunvatta ke aarop lagaye, SDM ko shikayat, SDM ne janch ka aashwasan diya; koi FIR/case ya vidhayak ka jawab report nahi — isliye negative entry ke maapdand poore nahi hote, ye normal works entry hai. Ye vidhayak-nidhi (MLA fund) hai, sansad-nidhi (MP fund) nahi. Bhumi-pujan vidhayak ne kiya tha. Source chhota local portal (The Narmada Express) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kui aur Ramguda me sadak, samudayik bhavan aur buniyadi suvidhaon ka bhumi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, Feb 2026',
+    date: '2026-02',
+    sourceUrl: 'https://www.amarujala.com/video/madhya-pradesh/dindori/development-works-launched-in-kui-and-ramguda-dindori-news-c-1-1-noi1225-3924739-2026-02-07',
+    note: 'Status: shilanyas/bhumi-pujan — sadak nirman, samudayik bhavan aur buniyadi suvidhaon se jude kayi kaam; vyaktigat laagat report nahi; MLA ne kaha dono panchayaton me kai nayi yojnayen swikrit hain. Credit-pardarshita: shasakiya yojnaon ke kaam, MLA ne bhumi-pujan kiya aur adhikariyon ko samay-seema me gunvatta ke saath poora karne ke nirdesh diye. Attribution-pardarshita: article swayam ise Shahpura vidhayak ka karyakram batata hai; Ramguda GP Shahpura AC factbook me suchit hai aur Kui Mal village directory me Shahpura AC ke antargat — kshetra ke andar ki pushti.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Shahpur me Ghunsi nadi ghat nirman ka bhumi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pride Kadam, Jan 2025',
+    date: '2025-01',
+    sourceUrl: 'https://www.pridekadam.co.in/2025/01/47264/',
+    note: 'Status: shilanyas/bhumi-pujan — Ghunsi nadi par ghat nirman; laagat report nahi. Credit-pardarshita: Dindori-cluster shivir (Dindori janpad) me MLA mukhya atithi ke roop me bhumi-pujan; Shahpur RI circle Shahpura AC (103) ke andar aata hai isliye kshetra ke andar mana gaya; kaam shasakiya yojna ka. Source chhota local portal (Pride Kadam) — disclosure ke saath joda gaya.',
+    period: '2023-2028',
+  },
+];
+
+mpWorks['omkar-singh-markam'] = [
+  {
+    title: 'Dindori ke school-college me Rs 2.5 crore vidhayak-nidhi se 1000+ table-kursi vitarit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'ETV Bharat, May 2026',
+    date: '2026-05',
+    sourceUrl: 'https://www.etvbharat.com/hi/state/dhindori-school-furniture-fund-mla-omkar-singh-markam-distributes-chair-table-written-personal-name-mps26051600950',
+    note: 'Status: vitarit (poora) — ETV Bharat ki ground-report ke mutabik vidhayak ne apni vidhan sabha ke school-college me lagbhag Rs 2.5 crore ki lagat se 1000 se adhik table-kursi kharidi aur baanti; sarkari college ke pradhyapak ne milna pushti kiya. Ye vidhayak-nidhi (MLA fund) hai, sansad-nidhi (MP fund) nahi. Credit-pardarshita: har table-kursi par vidhayak ka naam bada sticker lagaya gaya, jilaa prashasan se shikayat + collector ne jaanch samiti banayi + prabhari mantri Pratima Bagri ne jaanch ke aadesh diye (article ke anusaar). Vidhayak ka jawab: "janheet ka kaam kiya hai, bachche zameen par baithte the; vidhayak-nidhi ke kaam me naam likhwane me kuch galat nahi". FIR ya case ka zikr report me nahi — jaanch ki sthiti ke baare me aage ki khabar nahi mili, isliye negative entry nahi banayi, sirf kaam ki entry poore disclosure ke saath.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (Dindori district batch, researched 2026-10-14):
+// - Omprakash Dhurwey: 13 (YouTube-only x2, public.app-only x3, Dec-2023-se-pehle ka x1 (saath me doosre MLA par aarop), MLA-vs-Collector vivaad bina case, kamzor AC-attribution x2 (Dindori-cluster works jahan AC verify nahi hua), vague Trilok News x1, election profiles, PM-Modi projects, galat-vyakti Bhilwara x3)
+// - Omkar Singh Markam: 16 (sirf maang/prastav x2 (rail corridor patra, MGNREGA chetawani), mantri-karyakaal ki khabar x1, galat vyakti x4 (sab Dhurve ke kaam), Dec-2023-se-pehle x1, rajya-stariya ghoshna bina MLA bhoomika x2, sirf maujoodgi x2, YouTube-only x1, profile/biography/party-sangathan news x3)
+// Vistarit reject-log dono worker fragments me: ~/workspace/aapkaneta_scratch/dindori_dhurwey.ts, ~/workspace/aapkaneta_scratch/dindori_markam.ts
