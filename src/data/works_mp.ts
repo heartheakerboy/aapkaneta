@@ -1777,13 +1777,13 @@ mpWorks['sunil-uikey'] = [
 
 mpWorks['kamlesh-pratap-shah'] = [
   {
-    title: 'Amarwara me 17.62 crore ke 4 shala bhavan aur 2 senior girls hostel ki swikriti',
+    title: 'Amarwara me 17.62 crore ke 4 shala bhavan aur 2 senior girls hostel ke nirman ki ghoshna',
     category: 'School',
     badge: 'news',
     sourceLabel: 'Satpura Express, 7 Aug 2025',
     sourceUrl: 'https://satpudaexpress.com/?p=19479',
     date: '2025-08-07',
-    note: 'Satpura Express ke mutabik vidhayak Kamlesh Pratap Shah ne vidhansabha satra ke dauran CM Dr. Mohan Yadav se milkar Amarwara kshetra me schoolon/chhatravason ke nirman ki maang rakhi thi, jise rajya shasan ne swikar kar Rs. 17.62 crore ki adhikarik swikriti de di: shaskiya kanya HSS Amarwara (Rs. 2.18 cr), shaskiya HSS Paunar (Rs. 2.18 cr), shaskiya high school gram Hirri (Rs. 2.18 cr), shaskiya HSS Khireti (Rs. 2.18 cr), senior girls hostel Partapur (Rs. 4.44 cr) aur senior girls hostel Gourpani (Rs. 4.44 cr). Status: swikriti — nirman karya shuru/lokarpan ki alag khabar nahi mili. Caveat: swikriti ka shreya outlet vidhayak ki maang ko deta hai (CM/siksha mantri ko bhi vidhayak ne dhanyavad diya hai).',
+    note: 'Satpura Express ke mutabik vidhayak Kamlesh Pratap Shah ne vidhansabha satra ke dauran CM Dr. Mohan Yadav se milkar Amarwara kshetra me schoolon/chhatravason ke nirman ki maang rakhi thi; outlet ke mutabik shasan ne maang swikar kar Rs. 17.62 crore ki swikriti ki ghoshna ki: shaskiya kanya HSS Amarwara (Rs. 2.18 cr), shaskiya HSS Paunar (Rs. 2.18 cr), shaskiya high school gram Hirri (Rs. 2.18 cr), shaskiya HSS Khireti (Rs. 2.18 cr), senior girls hostel Partapur (Rs. 4.44 cr) aur senior girls hostel Gourpani (Rs. 4.44 cr). Status: GHOSHNA — khabar me koi sanction order number ya sarkari GO ka ullekh nahi hai, isliye ise dastavezi swikriti ke roop me darj nahi kiya gaya; nirman karya shuru/lokarpan ki alag khabar bhi nahi mili. Caveat: shreya outlet vidhayak ki maang ko deta hai (vidhayak ne CM/siksha mantri ko dhanyavad diya hai).',
     period: '2023-2028',
   },
   {
@@ -1824,38 +1824,11 @@ mpWorks['vijay-revnath-chore'] = [
   },
 ];
 
-mpWorks['kamal-nath'] = [
-  {
-    title: 'Chhindwara shahar me Rs. 85 lakh vidhayak-nidhi se 41 nirman karyon ki swikriti',
-    category: 'Any',
-    badge: 'news',
-    sourceLabel: 'Dainik Yashonnati, 23 Nov 2024',
-    sourceUrl: 'https://dainikyashonnati.com/mla-kamal-nath-many-development-works-will-be-done-from-the-development-fund-of-mla-kamal-nath/',
-    date: '2024-11-23',
-    note: 'Dainik Yashonnati ke mutabik Chhindwara vidhayak Kamal Nath ne apne vidhansabha kshetra ke liye apni vidhayak-nidhi se Rs. 85 lakh ki rashi swikrit ki, jisse Chhindwara shahar ke vibhinn wardon me 41 nirman karya hone hain — CC sadak, naali, samudayik bhavan, tin shed, chabutra, kalamanch, farshikaran aadi (ward-war suchi article me darj). Status: swikriti — karya \'sheeghra poorn\' hone the, purnata ki alag khabar nahi mili. Caveat: ye press-release style ki ghoshna-khabar hai; Satpuda Express ne bhi isi Nov 2024 round ki do aur alag swikritiyan (Rs. 50 lakh/33 karya, Rs. 80 lakh/52 karya) darj ki hain — teeno alag-alag allocation hain, isliye teeno entries rakhi hain.',
-    period: '2023-2028',
-  },
-  {
-    title: 'Nagar Palik Nigam ke graameen kshetron me Rs. 50 lakh vidhayak-nidhi se 33 nirman karyon ki swikriti',
-    category: 'Any',
-    badge: 'news',
-    sourceLabel: 'Satpuda Express, 27 Nov 2024',
-    sourceUrl: 'https://satpudaexpress.com/?p=15400',
-    date: '2024-11-27',
-    note: 'Satpuda Express ke mutabik Kamal Nath ne Nagar Palik Nigam ke antargat aane wale gaon/kasbon/wardon me Rs. 50 lakh ki vidhayak-nidhi se 33 nirman karyon ki swikriti di — school me projector+computer set, pakki naali, CC sadak, mokshadham saundaryikaran, chabutra, tin shed, mandiron ke paas sarvajanik nirman aur park (ward-war suchi article me darj). Status: swikriti — karya \'sheeghra poorn\' hone the, purnata ki alag khabar nahi mili. Credit-pardarshita: ye unhi ke vidhayak-nidhi ke Nov 2024 round ki doosri allocation hai (pehli: Rs. 85 lakh/41 karya shahar me) — double-counting nahi hai.',
-    period: '2023-2028',
-  },
-  {
-    title: 'Chhindwara Graameen 01 aur 02 me Rs. 80 lakh vidhayak-nidhi se 52 nirman karyon ki swikriti',
-    category: 'Any',
-    badge: 'news',
-    sourceLabel: 'Satpuda Express, 27 Nov 2024',
-    sourceUrl: 'https://satpudaexpress.com/?p=15400',
-    date: '2024-11-27',
-    note: 'Satpuda Express ke mutabik Kamal Nath ne Chhindwara Graameen 01 aur 02 me Rs. 80 lakh ki vidhayak-nidhi se 52 nirman karyon ki swikriti di — kalamanch/rangmanch, boundary wall, CC sadak, naali, school me desk-table aur farshikaran, mokshadham me atirikt karya, stop dam marammat (gaon-war suchi article me darj). Status: swikriti — karya \'avilamb poorn\' hone the, purnata ki alag khabar nahi mili. Credit-pardarshita: ye Nov 2024 round ki teesri allocation hai — teenon ko alag entries me darj kiya gaya hai, koi double-count nahi.',
-    period: '2023-2028',
-  },
-];
+// kamal-nath (Chhindwara, INC): RE-VERIFY (2026-10-14) par profile defensibly EMPTY rakha hai.
+// Nov 2024 ke vidhayak-nidhi wale 3 daave (Rs.85L/41 karya — Dainik Yashonnati; Rs.50L/33 karya aur Rs.80L/52 karya — Satpuda Express)
+// dono lekh kholkar padhe gaye: dono press-note style ki ghoshna-khabrein hain — koi sanction order number, work-order ya GO reference nahi;
+// sakht niyam (press-release se aage ka saboot lazmi) par teeno entries HATA di gayin. Note: ye daave vidhayak-nidhi (MLA fund) ke the,
+// sansad-nidhi (MP fund) ke nahi — lekin saboot ki kasauti par pure na utarne se entry nahi rakhi gayi.
 
 mpWorks['sohanlal-balmik'] = [
   {

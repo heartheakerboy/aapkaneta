@@ -51,8 +51,8 @@ for (const [, arr] of districts) {
     .neta-meta { font-size: 14px; color: var(--ink-soft); margin-top: 4px; }
     .party-pill { display: inline-block; font-size: 12.5px; font-weight: 700; background: var(--accent-soft); color: var(--accent); padding: 2px 10px; border-radius: 999px; margin-top: 8px; }
     .neta-foot { margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--line); font-size: 14px; color: var(--ink-soft); display: flex; justify-content: space-between; align-items: center; }
-    .state-switch { display: flex; gap: 10px; margin-top: 18px; }
-    .state-switch a { padding: 8px 18px; border-radius: 999px; text-decoration: none; font-weight: 700; font-size: 14px; border: 1px solid rgba(255,255,255,.3); color: #cbd5e1; }
+    .state-switch { display: flex; gap: 10px; margin-top: 18px; flex-wrap: wrap; }
+    .state-switch a { padding: 8px 18px; border-radius: 999px; white-space: nowrap; text-decoration: none; font-weight: 700; font-size: 14px; border: 1px solid rgba(255,255,255,.3); color: #cbd5e1; }
     .state-switch a.active { background: #fbbf24; color: #1b2a41; border-color: #fbbf24; }
     @media (max-width: 720px) { .hero h1 { font-size: 28px; } }
   </style>
@@ -63,6 +63,8 @@ for (const [, arr] of districts) {
         <a href="/">Maharashtra</a>
         <a href="/gujarat">Gujarat</a>
         <a href="/rajasthan" class="active">Rajasthan</a>
+        <a href="/uttar-pradesh">Uttar Pradesh</a>
+        <a href="/delhi">Delhi</a>
       </div>
       <h1 style="margin-top:16px">Rajasthan ke neta — <span>kaam ka hisaab</span></h1>
       <p>200 Vidhan Sabha MLA, 25 Lok Sabha MP aur 10 Rajya Sabha MP — sabke chunav halafname ke saath. Kaam ka satyaapit record jald joda jayega.</p>
