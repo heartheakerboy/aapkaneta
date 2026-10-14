@@ -5198,3 +5198,205 @@ mpWorks['devendra-ramnarayan-sakhwar'] = [
 // dinesh-gurjar: KHAALI — JJM-aarop (bina FIR/case, gaonwasiyon ka aarop), nirikshan, dharna, blogspot/bayan; galat-vyakti items (Sahab Singh Gurjar) check hue.
 // narendra-singh-tomar: 3 me se 2 rakhi (Surjanpur me CM Rise School ka bhoomi pujan + swasthya kendra ka shilanyas/lokarpan — dono CM ne kiye, Tomar ne prastav-patra saunpe, note me poora disclosure; do-srot stage-antar bhi disclose); entry 3 HATA di (CM ki maang-par ghoshna — 'maang aparyapt' niyam). Rejects: AC-bahar (Shanichara/Morena shahar), YouTube/public.app-only, future-khabar, kendra-mantri-kaal pre-term.
 // devendra-ramnarayan-sakhwar: KHAALI — CM-karyakram upasthiti, JJM prashn (sirf sawal), bus-stand maang, pre-term, virodh, symbolic feeta-katan; galat-vyakti (Satish Sikarwar) reject; ek Bhaskar page app-redirect par khula nahi.
+
+// ---- Narmadapuram district batch (researched 2026-10-14) ----
+// Narmadapuram district batch fragment (researched 2026-10-14) — DO NOT export; appended to works_mp.ts
+mpWorks['premshankar-verma'] = [
+  {
+    title: '8 gramon me yatri-pratikshalaya (Rs. 2,59,942 prati) ke liye vidhayak-nidhi se swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Khabar Par Nazar, 16 July 2024',
+    sourceUrl: 'https://khabarparnajar.com/rs-51-lakh-30-thousand-190-approved-for-25-works-from-mla-fund%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a5%87-25-%e0%a4%95%e0%a4%be/',
+    date: '2024-07-16',
+    note: 'Seoni-Malwa vidhansabha ke 8 gramon (Bhilakhedi, Daudijhunkar, Saheli, Bhilatdev, Bharlay, Ravanpipal, Babadiyabhau, Hirankheda) me men-road par yatri-pratikshalaya banane ke liye vidhayak Premshankar Verma ki vidhayak-nidhi se Rs. 2,59,942 prati-gram ke hisab se kul lagbhag Rs. 20.8 lakh swikrit hue (jila-star ki suchi, jisme 3 vidhansabhaon ke 25 karya shamil the). Status: swikriti — karyanwayan/purnata ki alag khabar nahi mili. Caveat: Khabar Par Nazar chhota sthaniya portal hai — disclosure.',
+    period: '2023-2028',
+  },
+];
+// Dr. Sita Saran Sharma (BJP) — Hoshangabad AC-137, Narmadapuram jila (MP). Researched 2026-10-14.
+// Karyakaal Dec 2023 se; poorv-Vidhan Sabha Adhyaksh-kaal (2014-2018 sahit) ke saare kaam reject.
+// Constituency = Narmadapuram nagar palika + Itarsi nagar palika.
+mpWorks['dr-sita-saran-sharma'] = [
+  {
+    title: 'Itarsi ke ward 31 aur 32 me vidhayak-nidhi swikriti se mukhya CC road ka bhoomi-pujan hua',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Narmadanchal News, Oct 2026 (tithi est.)',
+    sourceUrl: 'https://narmadanchal.com/cc-road-to-be-constructed-using-mla-funds-groundbreaking-ceremony-held/',
+    date: '2026-10-02',
+    note: 'Itarsi ke bazaar kshetra ke ward 31 aur 32 ki mukhya CC road ka bhoomi-pujan vidhayak-nidhi ki swikriti se hua; karyakram ke mukhya atithi swayam vidhayak Dr. Sita Saran Sharma the aur npa adhyaksh Pankaj Choure vishesh atithi. Stage: shilanyas (bhoomi-pujan) — nirman poora hone ki khabar abhi nahi mili. Credit-paradarshita: fund vidhayak-nidhi hai, rajya yojana nahi. Disclosure: Narmadanchal News chhota kshetriya portal hai (lekhak Rohit Nage — Dainik Bhaskar, Dainik Jagran sahit 30+ saal ke patrakarita anubhav ke saath).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Itarsi ke ward 1 me vidhayak-nidhi se lagbhag Rs 10 lakh ki 195 meter CC road ka bhoomi-pujan hua',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Narmadanchal News, Oct 2026 (tithi est.)',
+    sourceUrl: 'https://narmadanchal.com/ground-breaking-ceremony-held-for-a-195-meter-cc-road-in-ward-1-at-a-cost-of-10-lakh-development-gains-momentum/',
+    date: '2026-10-02',
+    note: 'Ward 1 me Gulbi Chacha ke makaan se Jyoti School tak banne wali 195 meter lambi CC road (lagbhag Rs 10 lakh) ka bhoomi-pujan npa adhyaksh Pankaj Choure aur ward parshad Dilip Goswami ne kiya. Stage: shilanyas — nirman poora hone ki khabar abhi nahi mili. Credit-paradarshita: vidhayak Dr. Sita Saran Sharma swayam karyakram me upasthit nahi the, lekin fund unhi ki vidhayak-nidhi hai aur kshetrawasiyon ne unhe iske liye aabhaar vyakt kiya. Disclosure: Narmadanchal News chhota kshetriya portal hai.',
+    period: '2023-2028',
+  },
+];
+// COORDINATOR QA NOTE (2026-10-14): is file ki 3rd entry (CM se Rs 15 crore ki 'ghoshna',
+// vidhayak ke vishesh aagrah par) HATA di — sirf maang par CM ka ailaan entry nahi banta
+// (Tomar-Surjanpur / Uikey-tiger-safari precedents); GO/vibhagiya pramanik data bhi nahi tha.
+// Narmadapuram district batch — researched 2026-10-14
+// MLA: Vijaypal Singh (BJP), Sohagpur AC-138. Term: Dec 2023 onwards.
+// Fragment for appending into works_mp.ts — DO NOT export.
+mpWorks['vijaypal-singh'] = [
+  {
+    title: 'Gram Sausarkheda me Rs. 65 lakh ke up-swasthya kendra bhavan ka bhoomi-pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Ink Press News, 9 Mar 2025',
+    sourceUrl: 'https://www.inkpressnews.in.net/65-लाख-से-ग्राम-सौसारखेड़ा-म/',
+    date: '2025-03-09',
+    note: 'Sohagpur tahsil ke gram Sausarkheda me Lok Swasthya evam Parivar Kalyan Vibhag, MP ke 15ve Vitt Aayog me swikrit National Health Mission karya-yojna ke antargat Rs. 65 lakh se swikrit up-swasthya kendra bhavan ke nirman karya ka bhoomi-pujan hua; mukhya atithi kshetriya sansad Darshan Singh Choudhary the aur karyakram ki adhyakshta vidhayak Vijaypal Singh ne ki. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Fund: 15th Finance Commission/NHM (rajya/kendra yojna), vidhayak-nidhi nahi. Credit-paradarshita: ye sarkari yojna ka kaam hai jisme unhone adhyakshta ki; manch se unhone dawa kiya ki 65-65 lakh ke chaar aur up-swasthya kendra bhi swikrit ho gaye hain — un chaaron ke sthan/naam report me nahi hain, isliye wo dawa yahan entry nahi bana. Caveat: Ink Press News Sohagpur ka chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sohagpur me Rs. 9.19 crore ke 50-bistariya samudayik swasthya kendra aur Sonpur me Rs. 65 lakh ke up-swasthya kendra ka bhoomi-pujan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'AKN News India, 22 Mar 2025 (est.)',
+    sourceUrl: 'https://www.aknnewsindia.com/2025/03/9-19-50-65.html',
+    date: '2025-03-22',
+    note: 'Lok Swasthya evam Parivar Kalyan Vibhag ke antargat shaskiya samudayik swasthya kendra Sohagpur ke unnayan (50 bistariya, lagat Rs. 9.19 crore) aur 15ve Vitt Aayog/NHM me swikrit gram Sonpur ke up-swasthya kendra bhavan (lagat Rs. 65 lakh) ke nirman karyon ka bhoomi-pujan ek hi karyakram me hua; mukhya atithi swasthya mantri Narendra Shivaji Patel the, vishesh atithi sansad Darshan Singh Choudhary aur Rajya Sabha sansad Maya Naroliya the, aur adhyakshta vidhayak Vijaypal Singh ne ki. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Fund: swasthya vibhag (rajya yojna) + 15th FC/NHM, vidhayak-nidhi nahi. Credit-paradarshita: ye sarkari yojnaon ke kaam hain jisme unhone adhyakshta ki; swikriti/vibhagiya nirdesh ka shrey mantri aur vibhag ka hai. Caveat: AKN News India chhota sthaniya portal hai; tithi article me nahi thi — photo file-naam (IMG-20250322) ke aadhar par 22 Mar 2025 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Sangakheda Kalan me lagbhag Rs. 9 crore ke vibhinn vikas karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Janta Express Live, 4 Sep 2025',
+    sourceUrl: 'https://jantaexpresslive.com/सोहागपुर-में-विकास-कार्य/',
+    date: '2025-09-04',
+    note: 'Sohagpur vidhansabha kshetra ke gram Sangakheda Kalan me lagbhag Rs. 9 crore ki lagat ke vibhinn vikas karyon ka bhoomi-pujan Lok Sabha sansad Darshan Singh Choudhary, Rajya Sabha sansad Maya Naroliya aur vidhayak Vijaypal Singh ne sanyukt roop se vidhivat kiya. Status: bhoomi-pujan — karyon ka vivaran aur purnata ki alag khabar report me nahi hai. Fund: article me yojna/fund spasht nahi — sansadon aur vidhayak ka sanyukt karyakram hone se ye sarkari yojnaon (rajya yojna) ke kaam lagte hain, vidhayak-nidhi nahi. Credit-paradarshita: unhone bhoomi-pujan me bhag liya; karyakram me sansad mukhya atithi the. Caveat: Janta Express Live Narmadapuram ka chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Sangakheda me Prem Nagar sadak-naali aur nav-nirmit Ayurvedic dispensary bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Janta Express Live, 4 Sep 2025',
+    sourceUrl: 'https://jantaexpresslive.com/सोहागपुर-में-विकास-कार्य/',
+    date: '2025-09-04',
+    note: 'Usi karyakram me gram Sangakheda me Prem Nagar Sangakheda road-naali aur nav-nirmit Ayurvedic dispensary bhavan ka lokarpan bhi hua; karyakram me sansad Darshan Singh Choudhary, Rajya Sabha sansad Maya Naroliya aur vidhayak Vijaypal Singh maujood the. Status: lokarpan (nirman purn, janata ko samarpit). Fund: article me yojna/fund spasht nahi — sarkari yojna ka kaam lagta hai, vidhayak-nidhi nahi. Credit-paradarshita: lokarpan me unhone bhag liya; sansad ne kaha ki unke "kushal netritva" me kshetra me lagatar lokarpan ho rahe hain (ye sansad ka dawa hai, vibhagiya record nahi). Caveat: Janta Express Live Narmadapuram ka chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Tamcharu, Khargawali Dhana aur Mudiyakheda me 5.40 km sadak (lagat Rs. 675.03 lakh) ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceUrl: 'https://satyakiawaaz.com/?p=7107',
+    sourceLabel: 'Satya Ki Awaaz, 28 Nov 2025',
+    date: '2025-11-28',
+    note: 'Vikaskhand Makhannagar ke gram Tamcharu, Khargawali Dhana (saade teen gaon) aur Mudiyakheda me Lok Nirman Vibhag, Narmadapuram dwara 5.40 km lambai ki sadak nirman yojna (kul lagat Rs. 675.03 lakh) ka bhoomi-pujan vidhayak Vijaypal Singh dwara kiya gaya. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Fund: Lok Nirman Vibhag (rajya yojna), vidhayak-nidhi nahi. Credit-paradarshita: bhoomi-pujan unhone kiya; sadak PWD ki swikrit yojna hai, unki vyaktigat swikriti ka dawa report me nahi hai. Caveat: Satya Ki Awaaz Narmadapuram ka chhota sthaniya portal hai (tathya WhatsApp-tasveeron ke aadhar par).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gram Sukri se Mankwada tak sadak evam pul nirman (lagat Rs. 254 lakh) ka bhoomi-pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ink Press News, Aug 2026 (est.)',
+    sourceUrl: 'https://www.inkpressnews.in.net/%E0%A4%B8%E0%A5%8B%E0%A4%B9%E0%A4%BE%E0%A4%97%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A4%BE%E0%A4%B2-5/',
+    date: '2026-08',
+    note: 'Sohagpur vidhansabha kshetra me gram Sukri se Mankwada tak prastavit sadak evam pul nirman karya (kul lagat Rs. 254 lakh) ka bhoomi-pujan vidhayak Vijaypal Singh dwara vidhivat kiya gaya; isse Sukri, Mankwada sahit aaspaas ke grameen anchalon me aavaagaman sugam hone ki apeksha hai. Status: bhoomi-pujan — nirman karya shuru hona tha, purnata ki alag khabar nahi mili. Fund: article me yojna/fund spasht nahi — "pradesh sarkar" ke hawaale se sarkari yojna ka kaam lagta hai, vidhayak-nidhi nahi. Credit-paradarshita: bhoomi-pujan unhone kiya; swikriti ka vibhagiya aadesh report me nahi hai. Caveat: Ink Press News Sohagpur ka chhota sthaniya portal hai; article me tithi nahi thi — crawl timing (Aug 2026) aur "guruvaar" ke hawaale par Aug 2026 (est.) maani hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pawarkheda Khurd aur Madhawan me kul Rs. 42 lakh ke nirman karyon ka bhoomi-pujan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Ink Press News, Aug 2026 (est.)',
+    sourceUrl: 'https://www.inkpressnews.in.net/%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%AF%E0%A4%95-%E0%A4%A0%E0%A4%BE-%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A4%BE%E0%A4%B2-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-%E0%A4%A8%E0%A5%87/',
+    date: '2026-08',
+    note: 'Vikaskhand Makhannagar ki do gram panchayaton me kul Rs. 42 lakh ki lagat se nirman karyon ka bhoomi-pujan hua; karyakramon ki adhyakshta vidhayak Vijaypal Singh ne ki. Pawarkheda Khurd me ekikrit shaskiya madhyamik shala parisar me Rs. 19 lakh ka samudayik mangal bhavan, aur gram Madhawan me Rs. 19 lakh ka samudayik mangal bhavan tatha Rs. 4 lakh ka mata mandir parisar me atirikt kaksh — in sabka bhoomi-pujan ek hi dauran hua; karyakram me kaksha 1-5 ke vidyarthiyon ko school bag bhi vitrit kiye gaye. Status: bhoomi-pujan — nirman karya shuru hone the, purnata ki alag khabar nahi mili. Fund: article me yojna/fund spasht nahi — "shasan" ke hawaale se sarkari yojna ke kaam lagte hain, vidhayak-nidhi nahi. Credit-paradarshita: unhone adhyakshta/bhoomi-pujan kiya; swikriti ka vibhagiya aadesh report me nahi hai. Caveat: Ink Press News Sohagpur ka chhota sthaniya portal hai; article me tithi nahi thi — crawl timing (Aug 2026) ke aadhar par Aug 2026 (est.) maani hai.',
+    period: '2023-2028',
+  },
+];
+// Thakur Das Nagwanshi (BJP) — Pipariya (SC) AC-139, Narmadapuram (MP). Karyakaal Dec 2023 se.
+mpWorks['thakur-das-nagwanshi'] = [
+  {
+    title: 'Pipariya kshetra ke 14 gaon ke liye vidhayak-nidhi se 14 GI water tanker (5500 litre, 9x16 naye tyre) ki prashasnik swikriti, har tanker Rs. 1,60,761 ka',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Khabar Par Najar, 16 Jul 2024',
+    sourceUrl: 'https://khabarparnajar.com/rs-51-lakh-30-thousand-190-approved-for-25-works-from-mla-fund%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%af%e0%a4%95-%e0%a4%a8%e0%a4%bf%e0%a4%a7%e0%a4%bf-%e0%a4%b8%e0%a5%87-25-%e0%a4%95%e0%a4%be/',
+    date: '2024-07-16',
+    note: 'Collector karyalaya (Jila Yojana evam Sankhyiki, Narmadapuram) ki press-vijnyapti ke anusaar vidhayak Thakurdas Nagwanshi ki anushansa par vidhayak-nidhi se gram Sighodi (2 tanker), Khidiya, Matkuli (2), Tekapar, Kanhwar, Singanama, Nandiya, Gadaghat, Nayagaon, Nibhaura, Purenarandhir aur Malhanwada me kul 14 GI water tanker (5500 litre kshamta, 9x16 naye tyre sahit) ki prashasnik swikriti jari hui; pratyek tanker Rs. 1,60,761 ka. Status: swikriti — tanker vitaran ya karyanvayan ki alag khabar nahi mili. Caveat: Khabar Par Najar chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pipariya aur Bankhedi janpad ke 10 gaon me yatri pratikshalaya (Model-3) ke liye kul Rs. 25,99,420 ki prashasnik swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Khabar Par Najar, Jan 2026 (est.)',
+    sourceUrl: 'https://khabarparnajar.com/administrative-approval-issued-for-construction-works-in-pipariya-and-seoni-malwa-assembly-constituencies-%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be-%e0%a4%95%e0%a5%8d/',
+    date: '2026-01',
+    note: 'Collector karyalaya (Jila Yojana evam Sankhyiki, Narmadapuram) ke anusaar Vidhayak Nirvachan Kshetra Vikas Yojana ke tahat vidhayak Thakurdas Nagwanshi ki anushansa par 10 nirman karyon ke liye kul Rs. 25,99,420 ki prashasnik swikriti jari hui — janpad Pipariya ke gram Kajrota, Jamada (Khedapati Mata mandir ke paas), Pachua (talab ke paas), Semrirandhir (mukhya marg), Ghana Tola Katiyadhana, aur janpad Bankhedi ke gram Maharajganj (Mata mandir ke paas), Banwari (Puraina road), Samanapur (Khaira road), Anhai (Jamunia road), Tinsri (main road) me yatri pratikshalaya Model-3, pratyek Rs. 2,59,942 ka. Status: swikriti — nirman poornata ki alag khabar nahi mili. Caveat: article par prakashan-tithi nahi dikhi; search-index crawl timing ke aadhar par Jan 2026 anumaanit hai (isse pehle ki bhi ho sakti hai); Khabar Par Najar chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Surelakalan me poshan vatika ke liye nalakuup khanan (Rs. 2,24,000) aur Pipariya ke shasakiya vidyalaya pustakalaya ke liye pustak-kray (Rs. 2,00,000) ki prashasnik swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Khabar Par Najar, Jan 2026 (est.)',
+    sourceUrl: 'https://khabarparnajar.com/administrative-approval-of-rs-04-lakh-24-thousand-issued-for-02-works-recommended-by-mla-pipariya-shri-nagvanshi/',
+    date: '2026-01',
+    note: 'Vidhayak Thakurdas Nagwanshi ki anushansa par Collector Sania Meena dwara 2 karyon ke liye kul Rs. 4,24,000 ki prashasnik swikriti jari hui: janpad Pipariya ki gram panchayat Surelakalan me poshan vatika me peyjal ke liye nalakuup khanan (Rs. 2,24,000), aur nagar panchayat Pipariya ke shasakiya Ramnarayan Agrawal uchch madhyamik vidyalaya ke pustakalaya me mahapurusho, kala, sanskriti, gyan-vigyan aadi vishayon ki pustak-kray (Rs. 2,00,000). Fund: swikriti me vidhayak-nidhi aur panchayat-nidhi dono ki rashi shamil hai — kis kaam me kitna hissa vidhayak-nidhi ka hai, article me spasht nahi. Status: swikriti — karyanvayan ki alag khabar nahi mili. Caveat: article par prakashan-tithi nahi dikhi; search-index crawl timing ke aadhar par Jan 2026 anumaanit hai (isse pehle ki bhi ho sakti hai); Khabar Par Najar chhota sthaniya portal hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Narmadapuram district batch REJECT-LOG (2026-10-14) ----
+// NOTE: sharma ki CM Rs 15cr ghoshna entry coordinator-QA me hata di gayi (maang+ghoshna rule).
+// REJECT-LOG premshankar-verma:
+// 1. narmadasamay.com/?p=34637 (Ward 9 CC road, bhoomi-pujan) — 11 July 2023: PRE-TERM.
+// 2. regionalvoicenews.com/?p=408 (Rs. 10 lakh vidhayak-nidhi ghoshna, Kurmi Kshatriya Gaur Samaj bhawan) — sirf ghoshna, sanction/work-order saboot nahi.
+// 3. narmadanchal.com/mla-verma-performed-bhoomi-pujan-and-inauguration-of-8-and-a-half-lakhs — ~Nov 2021: PRE-TERM.
+// 4. mediawala.in CM visit (Apr 2026, 1000-crore works) — MLA sirf upasthit/bolega; karta CM; rajya-pariyojna me unki concrete bhoomika nahi.
+// 5. aknnewsindia.com 2025/05 CM visit — MLA ne CM se MAANG ki (sinchai/college/saundaryikaran); sirf maang.
+// 6. regionalvoicenews.com/?p=371 (Rs. 33 cr Sonasaavari-Saanwalkheda road, ADB) — karta MLA Sitasaran Sharma; Premshankar sirf maujood.
+// 7. narmadasamay.com/?p=20223 (Vikas Yatra, Babadiyabhau) — sansad/CM yojna; MLA sirf maujoodgi.
+// 8. hindsantri.com (Sep 2026 swachhata abhiyan, bus stand) — karyakram me maujoodgi; vikas-karya nahi.
+// 9. public.app/video (PWD minister se mulakat) — maang/charcha; public.app-only source bhi.
+// 10. narmadanchal.com CC road (Itarsi ward 31-32) — Dr. Sitasaran Sharma ki nidhi, kshetra se bahar/galat vyakti.
+// 11. narmadasamay.com/?p=8749 (MP sthapna divas, MP gaan) — program; vikas-karya nahi.
+// 12. YouTube videos (samiksha baithak; 2021 daura) — YouTube-only source; ek pre-term bhi.
+// 13. dailyprabhat.com MCC case (Oct 2023) — PRE-TERM + sirf election-time shikayat; FIR/case sthiti uplabdh nahi.
+// REJECT-LOG dr-sita-saran-sharma:
+// 1. Vivekanand Ghat 41.75 lakh bhoomi-pujan + 4 wardon me 128 lakh ke karyon ka bhoomi-pujan/lokarpan (27 May 2025, AKN News India/mpnewscast) — karyakram ke mukhya atithi sansad Darshan Singh Choudhary the, karyanvayan nagar palika ka; vidhayak sirf saha-mukhya atithi → sirf maujoodgi.
+// 2. Pandit Bhawani Prasad Mishra Chowk 46.78 lakh saundaryikaran-choudikaran ka lokarpan + 19.96 lakh sulabh complex + ward 16/17/18/28 me 433.47 lakh ke bhoomi-pujan/lokarpan (5 June 2025, newsindia24x7) — npa ka karyakram; vidhayak sirf kai mukhya atithiyon me se ek → sirf maujoodgi.
+// 3. Tawa nadi par naya pul (~Rs 150 crore) ka double bhoomi-pujan (Oct 2023, Zee News/swatantrasamay) — pre-term (Dec 2023 se pehle ka aachar-sanhita-kaalin karyakram).
+// 4. CM Mohan Yadav ka Narmadapuram karyakram (May 2025, INH News) — vidhayak sirf upasthit janpratinidhiyon me se ek → sirf maujoodgi.
+// 5. Itarsi ward 9 me Rs 40 lakh (4 RCC naliyan + 3 CC sadken) ka bhoomi-pujan (Oct 2026, narmadanchal) — fund source unclear, vidhayak ki concrete bhoomika unclear (sirf saha-mukhya atithi) → kamzor attribution.
+// 6. Itarsi ward 26/11/12 me CC road ka npa adhyaksh/EE dwara nirikshan (narmadanchal) — sirf nirikshan.
+// 7. Narmada ke liye Rs 500 crore (Amarkantak se Bharuch) swikriti ka sansad ka bayan (May 2025) — sansad ka Lok Sabha-level dawa, vidhayak ka kshetra-kaam nahi.
+// 8. Narmada Lok corridor "jaldi bhoomi-pujan karenge" (May 2025) — bhavishya ghoshna, koi kaam shuru nahi hua.
+// 9. Ma Rajrajeshwari mandir me murti sthanantaran/pran-pratishtha (5 June 2025) — dharmik karyakram, vikas-kaam nahi.
+// 10. FreePressJournal chief-whip niyukti ki charcha — afwah/atkalen, kshetra-kaam nahi.
+// REJECT-LOG vijaypal-singh:
+// 1. aditinews.com (16 Feb 2023) / mpnewscast.com / narmadasamay.com (Feb 2023): Vikas Yatra me 6+ crore / 3+ crore ke lokarpan-bhoomi pujan — pre-term (Dec 2023 se pehle), isliye reject.
+// 2. narmadanchal.com (nal-jal yojnaon ka bhoomi-pujan/lokarpan, sansad Rao Udaypratap Singh ke saath): ~2021 ka purana article, pre-term — reject.
+// 3. Zee News Hindi (2 Oct 2023): Tawa nadi par Rs. ~150 crore pul ka bhoomi-pujan (sansad ke saath; Narmadapuram vidhayak ne 3 din baad dobara kiya) — pre-term — reject.
+// 4. ETV Bharat (2 Nov 2023): chunav-purv interview me 2008-2023 ke karyon ka dawa — pre-term dawa, term ke baad ka koi concrete kaam nahi — reject.
+// 5. public.app (7 Jun 2026): "103.53 km sadak nirman/sudridhikaran ko swikriti, vidhayak ke prayason se" — sirf public.app par (video post); public.app-only source niyam se reject; swikriti ka GO/vibhagiya aadesh bhi nahi dikha.
+// 6. YouTube-only videos (Vikas Yatra sambandhi) — YouTube-only source niyam se reject.
+// 7. "Vijaypal Mirdha" (Degana, Rajasthan) se jude vivaad/charge ke hits — galat vyakti; AC-138 Sohagpur ke Vijaypal Singh se sambandhit nahi — reject.
+// 8. bansalnews.com (Ashoknagar vidhayak par HC) — dusre vidhayak ka mamla — reject.
+// 9. Ink Press News article me vidhayak ka manch-dawa ("65-65 lakh ke chaar aur up-swasthya kendra swikrit") — sthan/naam bina sirf dawa; swikriti ka saboot nahi — entry nahi bani, entry 1 ke note me darj.
+// Negative entry: koi credible FIR/case/janch ki khabar nahi mili (affidavit me 0 criminal cases); negative entry nahi jodi.
+// REJECT-LOG thakur-das-nagwanshi:
+// 1. satyakiawaaz.com (Oct 2026) — 'Anantganga Aankh Jaanch Kendra evam Optical' ka udghatan: Shankaracharya Netralaya, Jhoteshwar dwara sanchalit NIJI kendra; MLA ne sirf feeta kaatkar udghatan kiya — koi nidhi, fund ya bhoomika nahi; sirf karyakram me maujoodgi. REJECT.
+// 2. bhaskar.com (Jul 2026 est.) — Pipariya janpad sabhagar me vikas karyon ki samiksha baithak: CM Rise school bhavan poora karne ke nirdesh, shikshak-kami par ashwasan aadi — koi concrete kaam ya charan nahi; sirf samiksha/nirdesh. REJECT.
+// 3. bhaskar.com (Aug 2026 est.) — Bankhedi me Ol nadi pul ka lokarpan: udghatan mantri Rao Udaypratap Singh ne kiya; MLA sirf upasthit; rajya pariyojna me MLA ki concrete bhoomika spasht nahi; mantri ke karyakram me sirf maujoodgi. REJECT.
+// 4. jantaexpresslive.com — gram panchayat Bijanwada ke karyon ki MLA dwara sarahna: panchayat ka kaam hai, MLA ka apna koi kaam nahi. REJECT.
+// 5. makdaiexpress24.com — vidhayak-nidhi se 5.65 lakh (Khairua me CC road/nali, 2021): pre-term. REJECT.
+// 6. bhaskarhindi.com (19 Nov 2020) — 47 logon ko vidhayak svechchhanudan se 2.09 lakh aarthik sahayata: pre-term. REJECT.
+// 7. narmadakiran.blogspot.com (Dec 2024) — Dokri Kheda vikas ke liye 'vidhayak-nidhi se rashi dene ki baat kahi': blogspot-only source + sirf ghoshna-type baat, koi swikriti-aadesh saboot nahi. REJECT.
+// 8. zeenews.india.com / sabkikhabar.com — talwar-bana kartab aur 'sher dance' viral videos: kshetra-kaam nahi. REJECT.
+// 9. atulyabharatchetna.org.in (Sep-Oct 2026) — mantri Rao Udaypratap Singh se pratinidhimandal ki saujanya bhet: sirf charcha/baithak, koi concrete kaam nahi. REJECT.
+// 10. aajkakhulasa.com — commissioner ke saath baithak me CM Rise school me kami ka mudda: sirf mudda/mang, koi kaam nahi. REJECT.
+// 11. statenews.ai (Jul 2026) — kotwaron dwara tehsildar/MLA ko gyapan: sirf mang/gyapan. REJECT.
