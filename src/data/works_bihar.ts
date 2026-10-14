@@ -552,3 +552,76 @@ biharWorks['rakesh-ranjan'] = [];
 // REJECT-LOG (rakesh-ranjan): LiveHindustan 4 Jan 2026, Shahpur NDA karyakarta samman samaroh — political event, kaam nahi, reject; LiveHindustan 19 Dec 2025, CM Nitish se milkar vikas gyapan (sadak/sinchai) — sirf maang/gyapan, reject; khabreapki.com ~Oct 2026, Nitin Gadkari se NH-922 underpass/service lane ki maang — sirf maang, reject; LiveHindustan 26 Dec 2025, Jawainiya visthapiton ko garam vastra vitran (Veer Vishweshwar Ojha Memorial Trust) — charity, sanction-backed vikas-kaam nahi, reject; LiveHindustan/Bhaskar ~Jul 2026, vidhan sabha shunyakal me Jawainiya Ganga katav-rodhi boulder pitching me vilamb ka mudda uthaya — sirf maang/sawal, reject; LiveHindustan 7 Aug 2026, Bhagalpur jail adhikshak par hatya ki sajish ka aarop, vidhayak ne swayam FIR darj karai — vidhayak complainant hain, unke khilaf aarop nahi — negative entry nahi banti, reject; Bhaskar ~May 2026, katav-rodhi karyasthal par jhadap, chacha Mukteshwar Ojha samet 10 par FIR — parivar ka mamla MLA par kabhi nahi, reject; YouTube-only — electric scooty showroom ka udghatan — YouTube-only + private commercial karyakram, reject; Bhaskar Jan 2026, Swami Vivekanand Jayanti samaroh me vishesh atithi — sirf maujoodgi, reject; LiveHindustan 15 Nov 2025, praman-patra ke baad puja-paath/shubharambh — dharmik karyakram, kaam nahi, reject. Khaali profile: imaandari se jodna nahi bana.
 
 // Coordinator QA note: worker-1/2/3 fragments assemble kiye; saare titles/notes Roman Hinglish, 0 Devanagari/₹; badges valid; vishal-prashant ki entry (28 Jan 2026, Tarari block-cum-anchal office aadhaarshila Rs 14.68 cr, News4Nation post-event) personally verify ki — party-office wala hissa alag entry nahi bana; 6/7 profiles khaali; sabhi slugs pehle khaali the, koi overwrite nahi.
+
+// ---- Buxar district batch (researched 2026-10-14) ----
+
+biharWorks['shambhu-nath-yadav'] = [];
+
+// REJECT-LOG (shambhu-nath-yadav): LiveHindustan 07 Apr 2026, Jawhi diyar me sadak-nirman ko lekar graminon se bhiddant — MLA sirf vivaad suljhane spot par pahunche the — sirf daura/nirakshan, reject; YouTube-only x3 (sadak udghatan clips, stadium ka "banega" vaada, kambal vitran, gaadi ka sarak me fasna) — sab YouTube-only +/ya vaade, reject; IndiaTV Apr 2025 petrol-pump/saree stampede (pre-term + niji business), ETV Jul 2020 lockdown cricket FIR (pre-term), ETV Mar 2024 ED raid (pre-term, koi resolution reporting nahi), public.app x2 (shok-mulaakat) — sab reject; viral video "rifle ke bal par road" aarop par koi established FIR/janch reporting nahi — negative bar fail; JK Cement industrial unit udghatan (Dy CM ka karyakram, MLA ka naam bhi nahi) — maujoodgi reject; wordpress blog, Facebook links — reject. Khaali profile: imaandari se jodna nahi bana.
+
+biharWorks['anand-mishra'] = [
+  {
+    title: 'State cabinet ne Buxar Central Jail se Bhagwan Vaman Dev temple ko alag karne ke liye 1.90 acre zameen ke seemankan ka faisla manzoor kiya — MLA Anand Mishra ki dastavezi pahal ke baad',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Times of India, 22 Sep 2026 (est.)',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/patna/cm-to-join-vaman-dwadashi-celebrations-in-buxar-tomorrow/articleshow/134390227.cms',
+    date: '2026-09-22',
+    note: 'MLA Anand Mishra ne Feb 2026 me Bhagwan Vaman Dev temple (Buxar Central Jail parisar ke andar sthit, jahan aam shraddhalu aaram se darshan nahi kar sakte the) ko jail-seema se bahar karne ki likhit maang uthai — DISHA meeting me mudda, Vidhan Sabha me tarankit prashn, aur DG (Karagar) ko patra (pratilipi: Grih Mantri, Paryatan Mantri, Mukhya Sachiv, DM, Karadhikshak; Dainik Jagran ki reporting). Is dastavezi pahal ke ~7 mahine baad Sept 2026 me state cabinet ne temple ke liye 1.90 acre zameen ka alag-seemankan manzoor kiya, alag boundary wall ke nirman aur shraddhaluon ki pahunch-vyavastha ke nirdesh diye (TOI ki reporting). Credit-pardarshita: antim faisla state cabinet ka hai, fund-srot sarkari (grih/karagar + paryatan vibhag ke dayre me); isme vidhayak-nidhi ka koi dawa nahi — unka yogdaan pahal aur dabav tak seemit tha. TOI article par byline-tithi nahi thi, 22 Sep 2026 (est.) crawl recency se maani hai. Period: 2025-2030.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (anand-mishra): LiveHindustan "Mrit nahar kayakalp" (CM se prastav, sirf maang+aashvasan); LiveHindustan Chausa jan-sunwai road-overbridge vaada ("karenge"); Giriraj Singh mulaakat (sirf charcha); shauchalay mudda (future prashn); News18 FIR-naukri mudda (sadan me maang); TOI CM Rs 1058 cr Buxar-Ara projects (CM ka karyakram, sirf maujoodgi); Mann ki Baat karyakram maujoodgi; Jan Suraaj sadak virodh (virodhi dharna, bina FIR); school science exhibition deep-prajwalan (event, kaam nahi); Prof. S.K. Mishra Path vachan (vaada, koi aadesh nahi); Zee encounter shok-daura; YouTube kila-maidan shorts (YouTube-only); utvnewsbxr blogspot (blogspot-only + bayan); public.app isteefa-maang (public.app-only + virodhi-maang); indiansnews Muzaffarpur samiksha (kshetra-bahar); lalluram Bengal jashn bayan (political); khud ki website Buxar Dham Vision/STP ullekh (vision dawa, koi poorn kaam ka saboot nahi — sab reject). "Anand Mishra" naam-savdhani: sab items wahi Buxar BJP MLA (poorv IPS) ke hain, verify kiya.
+
+biharWorks['rahul-kumar-singh'] = [
+  {
+    title: 'Dumraon station road ke gaddho ki bharai ka kaam Vidhayak ke niji fund se shuru hua, JCB se samtalikaran',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 13 Aug 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/buxar/story-relief-for-residents-as-mla-initiates-repairs-on-deteriorated-station-road-201786640212057.html',
+    date: '2026-08-13',
+    note: 'Vidhayak Rahul Kumar Singh ne APNE NIJI FUND se Dumraon station road ke gaddhe bharwaye — kaam JCB se bali-gitti mishran bichhakar samtalikaran karte hue photo-sahit report hua; sthaniya janta ko rahat mili. Stage: shubharambh (karyarambh). Disclosure: ye sarkari vidhayak-nidhi yojana ya permanent sadak pariyojna nahi hai — sirf asthaayi marammat hai, isliye stage sirf karyarambh ka hai; article me Vidhayak ka "Rs 19 crore swikrit" wala daawa bhi darj hai lekin uska koi sanction saboot article me nahi hai, isliye woh entry nahi, sirf unke bayaan ke roop me note kiya gaya hai. Article par print-tithi nahi thi; 13 Aug 2026 (est.) search-metadata + photo-caption ke "Guruvar" se maani hai. Period: 2025-2030.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Dumrejani Mandir se Purana Bhojpur tak jarjar NH-120 ko motorable banane ka kaam Vidhayak ke nirdesh par shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan, 4 Sep 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/buxar/story-road-improvement-initiated-by-bihar-mla-for-motorable-nh-120-201788539574488.html',
+    date: '2026-09-04',
+    note: 'Kaam Vidhayak Rahul Kumar Singh KE Nirdesh par shuru hua — unhone swayam nirikshan karke ROB-nirman me lagi contractor company (Lakho Infratech) ko kaam thos karne ka nirdesh diya; Live Hindustan ki post-event photo-report ke anusaar kaam shuru ho gaya tha. Credit-pardarshita: credit Vidhayak ki pahal/nirdesh ko jaata hai, lekin fund aur execution sarkari/contractor company ka hai — vidhayak-nidhi ka koi dawa nahi. Satark note: TOI (Sep 2026) ne baad me report kiya ki Dumraon ke ye raste ab bhi jarjar hain aur DM ne Rural Works Dept ko motorable banane ka nirdesh diya — isliye ye entry shuru hue kaam ki hai, sthayi parinam ki pushti nahi hai. Article par print-tithi nahi thi; 4 Sep 2026 (est.) article ke "Shukravar se kaam shuru" + metadata se maani hai. Period: 2025-2030.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (rahul-kumar-singh): LiveHindustan Nov 2025 press-conference "karenge" vaade (bypass, barrage); YouTube Maharaja Kamal Singh pratima (YouTube-only); TOI statue-unveiling (sadan me prashn, pratima 2022 ki); stadium maang (sirf maang); hospital-parisar deep-prajwalan (event, kaam nahi); Nagar Parishad bhrashtachar aarop + janch-maang (MLA par aarop nahi — negative nahi); JDU office jansunwai (sirf daura/nirdesh); firstnewsbihar Nitish Samvad (party event); buxaronline Jun 2025 shilanyas (pichhle MLA Ajit Kumar Singh — galat vyakti + pre-term); TOI Jan Suraaj/Swayam Shakti virodh (vi-paksh dharna); Rediff Manoj Tiwari convoy (pre-term); TOI bureaucratic-backgrounds profile (kaam nahi — sab reject). Pichhle MLA (Ajit Kumar Singh) ki khabrein naam-savdhani se alag rakhi gayi.
+
+biharWorks['santosh-kumar-nirala'] = [
+  {
+    title: 'Rajpur block ke Tiyara gaon ke Raghuvanshi Kunwari Uchch Vidyalaya parisar me navnirmit library bhavan ka udghatan Rajpur ke vidhayak Santosh Kumar Nirala ne swayam kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hindustan (Live Hindustan, Buxar), 31 Jan 2026',
+    sourceUrl: 'https://www.livehindustan.com/bihar/buxar/story-inauguration-of-library-at-raghuvanshi-kunwari-high-school-by-mla-santosh-nirala-201769876799931.html',
+    date: '2026-01-31',
+    note: '31 January 2026 ko Rajpur block ke Tiyara gaon sthit Raghuvanshi Kunwari High School me naye library bhavan ka udghatan vidhayak Santosh Kumar Nirala ne swayam kiya — Hindustan ki post-event report me ye photo ke saath darj hai; isi karyakram me Raghuvanshi Kunwari ki jayanti bhi manayi gayi. Credit-pardarshita: fund-srot (vidhayak-nidhi ya sarkari) article me nirdisht nahi hai, isliye koi fund-daava nahi — entry vidhayak dwara kiye gaye lokarpan (post-event reporting) ke aadhar par hai. Period: 2025-2030.',
+    period: '2025-2030',
+  },
+  {
+    title: 'Rajpur block ke Hethua gaon me New Bazar Samiti dwara banayi gayi nayi saptahik sabzi mandi ka udghatan vidhayak Santosh Kumar Nirala ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan (Live Hindustan, Buxar), 12 Sep 2026 (est.)',
+    sourceUrl: 'https://www.livehindustan.com/bihar/buxar/story-new-weekly-vegetable-market-inaugurated-in-hetua-by-mla-santosh-kumar-nirala-201789234920012.html',
+    date: '2026-09-12',
+    note: 'Rajpur block ke Hethua gaon me New Bazar Samiti dwara nirmit nayi saptahik sabzi mandi ka udghatan vidhayak Santosh Kumar Nirala ne kiya; udghatan ke baad unhone swayam dukano se khariddari karke mandi ki shuruaat ki — mandi har Somvaar aur Shukravaar lagti hai aur aaspaas ke gaon ke sabzi-utpadak kisaano ke liye hai. Credit-pardarshita: mandi ka nirmaan New Bazar Samiti (samudaay) ne karwaya — ye sarkari yojana ya vidhayak-nidhi ka kaam nahi dikhta; entry vidhayak dwara kiye gaye udghatan (post-event reporting) ke aadhar par hai. Article par print-tithi nahi thi; 12 Sep 2026 (est.) "Shanivaar" ullekh + crawl recency se maani hai. Period: 2025-2030.',
+    period: '2025-2030',
+  },
+];
+
+// REJECT-LOG (santosh-kumar-nirala): ETV/TOI/NIE Sep 2025 CM ke Rs 325.13 cr Rajpur shilanyas (pre-term + CM ne kiya, sirf maujoodgi); Sainik Sangh gyapan (sirf maang); Chauna-Rajpur-Kochas sadak maang-patras (chhote portals, sirf maang); buxarkhabar cricket pratiyogita udghatan (khel event); blogspot Disneyland mela ribbon-cutting (blogspot-only + commercial); JDU chunav karyalaya udghatan (pre-term + party); YouTube Buxar Kila Maidan shorts (YouTube-only); Amar Ujala Ahiyapur triple-murder "Santosh Yadav" (galat vyakti); affidavit ka 1 pending case — is karyakaal me aarop+FIR/janch+jawab wali koi established reporting nahi — negative bar fail — sab reject. Mantri-kaal ke rajya-faisle kshetra-kaam nahi.
+
+// Coordinator QA note: 4/4 workers ki reports mili; titles/notes workers se liye gaye, Roman-Hinglish/vaky-bhasa + disclosures double-check kiye; anand-mishra entry Singhar-canal/Kol precedent par stage swikriti (dastavezi pahal → cabinet faisla, TOI+Jagran corroboration); rahul-kumar-singh entry-1 niji-fund marammat (Ajay-Arjun-Singh road precedent) aur entry-2 contractor-execution ke saath dono disclosures note me; 5/5 entries me period '2025-2030'; koi Devanagari/rupee-symbol/scaffolding comment nahi; 4/4 slugs pehle khaali the, koi overwrite nahi.
