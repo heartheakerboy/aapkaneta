@@ -29,40 +29,133 @@ const bgPending = (b.backgroundNote || '').startsWith('BACKGROUND_PENDING');
 const bgNoteShown = bgPending ? b.backgroundNote.replace(/^BACKGROUND_PENDING:\s*/, '') : b.backgroundNote;
 
 let bioParas: string[] = [];
+let bioSourceNote = '';
 if (extra?.bio?.length) {
   bioParas = extra.bio;
 } else {
+  // slug-hash se har neta ke liye jumla-banaavat ka alag mishran — tathya wahi (record se), andaaz alag
+  const hv = [...neta.slug].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7);
+  const pick = (arr: string[], salt: number): string => arr[(hv + salt * 13) % arr.length];
+  const postWord = neta.post === 'MLA' ? 'Vidhayak (MLA)' : 'Sansad (MP)';
+  const houseWord = neta.post === 'MLA' ? 'Vidhan Sabha' : 'Lok Sabha';
+
   const p1: string[] = [];
   if (isRS) {
-    p1.push(`${neta.name} ${stateName} se Rajya Sabha ke sansad hain aur ${neta.party} se jude hain.`);
+    p1.push(pick([
+      `${neta.name} ${stateName} se Rajya Sabha ke sansad hain aur ${neta.party} se jude hain.`,
+      `${neta.name} Rajya Sabha me ${stateName} ka pratinidhitva karte hain — ve ${neta.party} se jude hain.`,
+      `${stateName} se Rajya Sabha ke liye chune gaye ${neta.name} ${neta.party} ke sansad hain.`,
+    ], 1));
   } else {
-    p1.push(`${neta.name} ${stateName} ke ${neta.constituency} ${neta.post === 'MLA' ? 'Vidhan Sabha' : 'Lok Sabha'} kshetra se ${neta.party} ke ${neta.post === 'MLA' ? 'Vidhayak (MLA)' : 'Sansad (MP)'} hain.`);
+    p1.push(pick([
+      `${neta.name} ${stateName} ke ${neta.constituency} ${houseWord} kshetra se ${neta.party} ke ${postWord} hain.`,
+      `${neta.constituency} ${houseWord} kshetra (${stateName}) ke pratinidhi hain ${neta.name} — ve ${neta.party} ke ${postWord} hain.`,
+      `${neta.name} ${neta.party} ke ${postWord} hain aur ${stateName} ke ${neta.constituency} ${houseWord} kshetra ka pratinidhitva karte hain.`,
+    ], 1));
   }
-  if (constInfo?.district && constInfo.district !== neta.constituency && !isRS) p1.push(`Ye kshetra ${constInfo.district} jile me aata hai.`);
-  if (cur) p1.push(`Unka vartaman karyakaal ${cur.start} se ${cur.end} tak hai.`);
-  if (neta.tenures.length > 1) p1.push(`Ve ab tak kul ${neta.tenures.length} karyakaalon me jan-pratinidhi reh chuke hain — poori timeline neeche di gayi hai.`);
+  if (constInfo?.district && constInfo.district !== neta.constituency && !isRS) p1.push(pick([
+    `Ye kshetra ${constInfo.district} jile me aata hai.`,
+    `Unka kshetra ${constInfo.district} jile ke antargat aata hai.`,
+    `${neta.constituency} kshetra ${constInfo.district} jile me sthit hai.`,
+  ], 2));
+  if (cur) p1.push(pick([
+    `Unka vartaman karyakaal ${cur.start} se ${cur.end} tak hai.`,
+    `Vartaman karyakaal ${cur.start} se ${cur.end} tak ka hai.`,
+    `Ve is samay ${cur.start}–${cur.end} wala karyakaal poora kar rahe hain.`,
+  ], 3));
+  if (neta.tenures.length > 1) p1.push(pick([
+    `Ve ab tak kul ${neta.tenures.length} karyakaalon me jan-pratinidhi reh chuke hain — poori timeline neeche di gayi hai.`,
+    `Jan-pratinidhi ke roop me ye unka karyakaal number ${neta.tenures.length} hai — purane karyakaalon ki timeline neeche di gayi hai.`,
+    `Isse pehle bhi ve jan-pratinidhi reh chuke hain — kul ${neta.tenures.length} karyakaalon ka record neeche timeline me hai.`,
+  ], 4));
   if (ok(neta.electionNote)) p1.push(neta.electionNote);
   bioParas.push(p1.join(' '));
 
   const p2: string[] = [];
-  const facts: string[] = [];
-  if (ok(b.age)) facts.push(`umar ${b.age} varsh`);
-  if (ok(b.education)) facts.push(`shiksha ${b.education}`);
-  if (ok(b.assets)) facts.push(`ghoshit kul sampatti ${b.assets}`);
-  if (ok(b.liabilities)) facts.push(`deyta ${b.liabilities}`);
-  if (facts.length) p2.push(`Chunav halafname ke anusaar unki ${facts.join(', ')} hai.`);
+  const factBits: string[] = [];
+  if (ok(b.age)) factBits.push(`umar ${b.age} varsh`);
+  if (ok(b.education)) factBits.push(`shiksha ${b.education}`);
+  if (ok(b.assets)) factBits.push(`ghoshit kul sampatti ${b.assets}`);
+  if (ok(b.liabilities)) factBits.push(`deyta ${b.liabilities}`);
+  if (factBits.length) {
+    const rot = factBits.length > 1 ? hv % factBits.length : 0;
+    const ordered = [...factBits.slice(rot), ...factBits.slice(0, rot)];
+    p2.push(pick([
+      `Chunav halafname ke anusaar unki ${ordered.join(', ')} hai.`,
+      `Unke chunav halafname me ye jankari darj hai: ${ordered.join(', ')}.`,
+      `Halafname ke aankde batate hain — ${ordered.join(', ')}.`,
+    ], 5));
+  }
   if (bgPending) p2.push('Unka chunav halafnama abhi satyapit nahi ho saka hai (srot par page uplabdh nahi tha) — jankari poori hote hi yahan jod di jayegi.');
-  else if (b.criminalCases === 0) p2.push('Halafname me unke khilaf koi aaparaadhik mamla darj nahi hai.');
-  else p2.push(`Halafname me unke khilaf ${b.criminalCases} aaparaadhik mamle darj hain — ye aankda neeche halafnama section me srot ke saath diya gaya hai. Dhyaan dein: mamla darj hona dosh-siddhi (conviction) nahi hai.`);
-  if (neta.prevAffidavit) p2.push(`${neta.prevAffidavit.year} ke pichle halafname se tulna bhi is page par di gayi hai, taaki aap sampatti aur mamlo me badlav khud dekh sakein.`);
+  else if (b.criminalCases === 0) p2.push(pick([
+    'Halafname me unke khilaf koi aaparaadhik mamla darj nahi hai.',
+    'Unke khilaf halafname me ek bhi aaparaadhik mamla darj nahi hai.',
+    'Aaparaadhik mamlo ke hisaab se unka halafnama saaf hai — koi mamla darj nahi hai.',
+  ], 6));
+  else p2.push(pick([
+    `Halafname me unke khilaf ${b.criminalCases} aaparaadhik mamle darj hain — ye aankda neeche halafnama section me srot ke saath diya gaya hai. Dhyaan dein: mamla darj hona dosh-siddhi (conviction) nahi hai.`,
+    `Unke halafname me ${b.criminalCases} aaparaadhik mamle darj dikhai dete hain (vivaran neeche halafnama section me, srot sahit). Dhyaan dein: mamla darj hona dosh-siddhi (conviction) nahi hai.`,
+  ], 6));
+  if (neta.prevAffidavit) {
+    const pv = neta.prevAffidavit;
+    const curNum = parseInt((b.assets || '').replace(/[^0-9]/g, ''), 10) || 0;
+    if (curNum && pv.assetsNum) {
+      const pct = Math.round(((curNum - pv.assetsNum) / pv.assetsNum) * 100);
+      const dir = pct > 2 ? `lagbhag ${pct}% zyada` : pct < -2 ? `lagbhag ${Math.abs(pct)}% kam` : 'lagbhag utni hi';
+      p2.push(pick([
+        `${pv.year} ke pichle halafname me unki ghoshit sampatti ${pv.assets} thi — is baar ${dir} hai. Do chunavon ki poori tulna neeche halafnama section me di gayi hai.`,
+        `Sampatti ka badlav bhi darj hai: ${pv.year} me ${pv.assets}, is halafname me ${b.assets} — poori tulna neeche dekhein.`,
+      ], 7));
+    } else {
+      p2.push(pick([
+        `${pv.year} ke pichle halafname se tulna bhi is page par di gayi hai, taaki aap sampatti aur mamlo me badlav khud dekh sakein.`,
+        `Unka ${pv.year} ka halafnama bhi record me hai — sampatti aur mamlo ki chunav-dar-chunav tulna neeche di gayi hai.`,
+      ], 7));
+    }
+    if (typeof pv.criminalCases === 'number' && pv.criminalCases !== b.criminalCases && !bgPending) {
+      p2.push(`${pv.year} ke halafname me darj mamle ${pv.criminalCases} the, is halafname me ${b.criminalCases} hain.`);
+    }
+  }
   if (p2.length) bioParas.push(p2.join(' '));
 
-  if (neta.works.length) {
-    const cats = [...new Set(neta.works.map(w => w.category))].join(', ');
-    bioParas.push(`AapkaNeta par unke karyakaal ke ${neta.works.length} satyaapit kaam darj ${neta.works.length === 1 ? 'hai' : 'hain'} (${cats}) — har kaam ke saath uska srot diya gaya hai.`);
+  const negRe = /NEGATIVE|FIR|aarop|janch|giraftari|bail|chargesheet|mamla|vivad|shikayat|PIL|DVAC|raid|chhaap/i;
+  const posWorks = neta.works.filter(w => !negRe.test(w.title));
+  const totalWorks = posWorks.length;
+  if (totalWorks) {
+    const cats = [...new Set(posWorks.map(w => w.category))].join(', ');
+    const examples = posWorks
+      .filter(w => w.title.length <= 130 && !negRe.test(w.title))
+      .slice(0, 2)
+      .map(w => w.title.replace(/\s*\([^)]*\)\s*$/, ''));
+    if (examples.length === 2) {
+      bioParas.push(pick([
+        `AapkaNeta par unke karyakaal ke ${totalWorks} satyaapit kaam darj hain (${cats}) — har kaam ke saath uska srot diya gaya hai.`,
+        `Unke karyakaal ke ${totalWorks} kaam AapkaNeta par srot sahit darj hain. Inme pramukh hain — "${examples[0]}" aur "${examples[1]}".`,
+        `Is page par unke ${totalWorks} satyaapit kaam (${cats}) ka hisaab hai, jinme "${examples[0]}" jaisa kaam shamil hai — har entry ke saath srot diya gaya hai.`,
+      ], 8));
+    } else if (examples.length === 1) {
+      bioParas.push(pick([
+        `AapkaNeta par unke karyakaal ke ${totalWorks} satyaapit kaam darj ${totalWorks === 1 ? 'hai' : 'hain'} (${cats}) — har kaam ke saath uska srot diya gaya hai.`,
+        `Unke karyakaal ke ${totalWorks} kaam AapkaNeta par srot sahit darj ${totalWorks === 1 ? 'hai' : 'hain'} — jaise "${examples[0]}".`,
+      ], 8));
+    } else {
+      bioParas.push(`AapkaNeta par unke karyakaal ke ${totalWorks} satyaapit kaam darj ${totalWorks === 1 ? 'hai' : 'hain'} (${cats}) — har kaam ke saath uska srot diya gaya hai.`);
+    }
+  } else if (neta.works.length) {
+    bioParas.push('AapkaNeta par unke karyakaal se juda record darj hai — poora vivaran neeche record wale section me srot sahit diya gaya hai.');
   } else {
-    bioParas.push('AapkaNeta par unke kaam ka satyaapit record abhi jama kiya ja raha hai. Bina pakke saboot ke hum koi "kaam" list nahi karte — RTI aur samachar sroton se satyapan hote hi record yahan jud jayega.');
+    bioParas.push(pick([
+      'AapkaNeta par unke kaam ka satyaapit record abhi jama kiya ja raha hai. Bina pakke saboot ke hum koi "kaam" list nahi karte — RTI aur samachar sroton se satyapan hote hi record yahan jud jayega.',
+      'Abhi tak is page par unke karyakaal ka koi satyaapit kaam darj nahi ho paya hai. Hum bina pakke srot ke koi kaam nahi jodte — RTI aur samachar sroton se satyapit hote hi record yahan aayega.',
+      'Unke kaam ka satyaapit record abhi taiyaar kiya ja raha hai. AapkaNeta sirf wahi kaam darj karta hai jiska pakka srot ho — isiliye kuch profiles shuruaat me khaali dikhte hain.',
+    ], 8));
   }
+
+  bioSourceNote = pick([
+    'Ye parichay neta ke halafname, chunav record aur is page ke satyaapit kaam-record se banaya gaya hai.',
+    'Upar ki jankari neta ke chunav halafname, chunav record aur AapkaNeta ke satyaapit kaam-record par aadhaarit hai.',
+    'Ye parichay koi rai nahi hai — sirf halafname, chunav record aur satyaapit kaamon ke tathya hain.',
+  ], 9);
 }
 
 const verdictLines: VerdictLine[] = extra?.verdict ?? [
@@ -212,7 +305,7 @@ const districtMates = myDistrict
     <h2 class="section-title">Neta ke baare me</h2>
     <div class="card bio-card">
       {bioParas.map(p => <p>{p}</p>)}
-      {!extra && <p style="font-size:13.5px;color:var(--ink-soft)">Ye parichay neta ke halafname, chunav record aur is page ke satyaapit kaam-record se banaya gaya hai.</p>}
+      {!extra && bioSourceNote && <p style="font-size:13.5px;color:var(--ink-soft)">{bioSourceNote}</p>}
     </div>
 
     <h2 class="section-title">Janta ki rai — log kya kehte hain</h2>
@@ -331,14 +424,14 @@ const districtMates = myDistrict
       <p style="font-size:15.5px;margin-top:14px">{neta.electionNote}</p>
     </div>
 
-    <h2 class="section-title">Halafnama{neta.prevAffidavit ? `: ${neta.prevAffidavit.year} vs ${(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'}` : (neta.state === 'Uttar Pradesh' || neta.state === 'Madhya Pradesh' ? '' : `: ${(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2021 vs 2026' : neta.state === 'Bihar' ? '2020 vs 2025' : neta.state === 'Gujarat' || neta.state === 'Goa' ? '2017 vs 2022' : neta.state === 'Rajasthan' ? '2018 vs 2023' : '2019 vs 2024'}`)}</h2>
+    <h2 class="section-title">Halafnama{neta.prevAffidavit ? `: ${neta.prevAffidavit.year} vs ${(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' || neta.state === 'Manipur' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'}` : (neta.state === 'Uttar Pradesh' || neta.state === 'Madhya Pradesh' ? '' : `: ${(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2021 vs 2026' : neta.state === 'Bihar' ? '2020 vs 2025' : neta.state === 'Gujarat' || neta.state === 'Goa' || neta.state === 'Manipur' ? '2017 vs 2022' : neta.state === 'Rajasthan' ? '2018 vs 2023' : '2019 vs 2024'}`)}</h2>
     <div class="card">
       {neta.prevAffidavit ? (
         <>
           <p style="font-size:14.5px;color:var(--ink-soft);margin-bottom:14px">Dono chunavon ke halafnamon ke aankde — aap khud tulna karein.</p>
           <div class="bg-grid">
             <div class="bg-item"><span>Kul sampatti ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.assets}</b></div>
-            <div class="bg-item"><span>Kul sampatti ({(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.background.assets}</b></div>
+            <div class="bg-item"><span>Kul sampatti ({(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' || neta.state === 'Manipur' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.background.assets}</b></div>
             {neta.prevAffidavit.assetsNum > 0 && (
               <div class="bg-item"><span>5 saal me badlav</span><b>{
                 (() => {
@@ -351,9 +444,9 @@ const districtMates = myDistrict
               }</b></div>
             )}
             <div class="bg-item"><span>Aaparaadhik mamle ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.criminalCases}</b></div>
-            <div class="bg-item"><span>Aaparaadhik mamle ({(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{bgPending ? '—' : neta.background.criminalCases}</b></div>
+            <div class="bg-item"><span>Aaparaadhik mamle ({(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' || neta.state === 'Manipur' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b class={neta.background.criminalCases > 0 ? 'warn' : ''}>{bgPending ? '—' : neta.background.criminalCases}</b></div>
             <div class="bg-item"><span>Shiksha ({neta.prevAffidavit.year})</span><b>{neta.prevAffidavit.education}</b></div>
-            <div class="bg-item"><span>Umar ({neta.prevAffidavit.year} → {(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.prevAffidavit.age} → {neta.background.age} varsh</b></div>
+            <div class="bg-item"><span>Umar ({neta.prevAffidavit.year} → {(neta.state === 'Kerala' || neta.state === 'Assam' || neta.state === 'Tamil Nadu') ? '2026' : neta.state === 'Gujarat' || neta.state === 'Goa' || neta.state === 'Manipur' ? '2022' : neta.state === 'Rajasthan' ? '2023' : neta.state === 'Uttar Pradesh' ? '2022' : neta.state === 'Madhya Pradesh' ? '2023' : neta.state === 'Bihar' ? '2025' : '2024'})</span><b>{neta.prevAffidavit.age} → {neta.background.age} varsh</b></div>
           </div>
           <p style="font-size:14px;color:var(--ink-soft);margin-top:8px">
             {neta.prevAffidavit.year} ka poora halafnama: <a href={neta.prevAffidavit.mynetaUrl} rel="noopener">myneta.info par dekhein</a>

@@ -1,0 +1,15 @@
+---
+import KshetraDetail from '../../../components/KshetraDetail.astro';
+import { manipurConstsAll, manipurNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return manipurConstsAll.map(c => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const kshetra = manipurConstsAll.find(c => c.slug === slug);
+if (!kshetra) throw new Error('Constituency not found: ' + slug);
+const leaders = manipurNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
+---
+
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="/manipur" stateName="Manipur" districtHref={kshetra.district ? `/manipur/jila/${kshetra.district.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/` : null} />

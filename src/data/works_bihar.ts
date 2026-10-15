@@ -3991,6 +3991,7 @@ biharWorks['mangal-pandey'] = [
     period: '2025-2030',
   },
   {
+    title: 'Dustbin khareed me ghotaale ka aarop — swasthya-mantri karyakaal (Feb 2025-Apr 2026) me Rs 15,490 prati unit khareed ka daava; janch ke aadesh, FIR darj nahi; Pandey ka sarvajanik jawab uplabdh nahi',
     category: 'Any',
     badge: 'news',
     sourceLabel: 'LiveHindustan, 2 Sep 2026',
