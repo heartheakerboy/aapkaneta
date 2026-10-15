@@ -77,6 +77,7 @@ import { prevTamilNadu } from './prev_tamilnadu';
 import { prevManipur } from './prev_manipur';
 import { prevMizoram } from './prev_mizoram';
 import { prevNagaland } from './prev_nagaland';
+import { prevSikkim } from './prev_sikkim';
 import type { Neta, Constituency } from './pilot';
 
 export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas, ...upNetas, ...upMpNetas, ...upRsNetas, ...delhiNetas, ...delhiMpNetas, ...delhiRsNetas, ...madhyaPradeshNetas, ...mpMpNetas, ...mpRsNetas, ...biharNetas, ...biharMpNetas, ...biharRsNetas, ...assamNetas, ...assamMpNetas, ...assamRsNetas, ...keralaNetas, ...keralaMpNetas, ...keralaRsNetas, ...goaNetas, ...goaMpNetas, ...goaRsNetas, ...tamilNaduNetas, ...tamilNaduMpNetas, ...tamilNaduRsNetas, ...manipurNetas, ...manipurMpNetas, ...manipurRsNetas, ...mizoramNetas, ...mizoramMpNetas, ...mizoramRsNetas, ...nagalandNetas, ...nagalandMpNetas, ...nagalandRsNetas, ...jammuKashmirNetas, ...jammuKashmirMpNetas, ...jammuKashmirRsNetas, ...sikkimNetas, ...sikkimMpNetas, ...sikkimRsNetas];
@@ -90,7 +91,7 @@ for (const n of allNetas) {
 
 // Overlay previous-election affidavit comparison data (2018 vs 2023 for MP, 2017 vs 2022 for UP, etc.)
 for (const n of allNetas) {
-  n.prevAffidavit = ((n.state === 'Sikkim' ? null : n.state === 'Jammu & Kashmir' ? null : n.state === 'Nagaland' ? prevNagaland : n.state === 'Mizoram' ? prevMizoram : n.state === 'Manipur' ? prevManipur : n.state === 'Tamil Nadu' ? prevTamilNadu : n.state === 'Goa' ? prevGoa : n.state === 'Kerala' ? prevKerala : n.state === 'Assam' ? prevAssam : n.state === 'Delhi' ? null : n.state === 'Bihar' ? prevBihar : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : n.state === 'Gujarat' ? prevGuj : n.state === 'Madhya Pradesh' ? prevMp : prevMha) ?? {})[n.slug] ?? null;
+  n.prevAffidavit = ((n.state === 'Sikkim' ? prevSikkim : n.state === 'Jammu & Kashmir' ? null : n.state === 'Nagaland' ? prevNagaland : n.state === 'Mizoram' ? prevMizoram : n.state === 'Manipur' ? prevManipur : n.state === 'Tamil Nadu' ? prevTamilNadu : n.state === 'Goa' ? prevGoa : n.state === 'Kerala' ? prevKerala : n.state === 'Assam' ? prevAssam : n.state === 'Delhi' ? null : n.state === 'Bihar' ? prevBihar : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : n.state === 'Gujarat' ? prevGuj : n.state === 'Madhya Pradesh' ? prevMp : prevMha) ?? {})[n.slug] ?? null;
 }
 
 // State helpers
