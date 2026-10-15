@@ -19,7 +19,11 @@ export const sikkimRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Sikkim (Rajya Sabha)', constituencySlug: 'sikkim-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹15.02 crore', utilized: '₹14.75 crore (sifarish)', utilizationPct: 98,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 119 kaam sifarish, 106 manzoor, 85 poora; kharch ₹11.06 crore. Sifarish ke hisaab se utilization ~98%, kharch ke hisaab se ~74%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: '10th Pass — Passed 10th Class from Boys Regiment Higher Secondary School, Jabalpur in 1974',

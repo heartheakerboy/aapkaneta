@@ -19,7 +19,11 @@ export const nagalandRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Nagaland (Rajya Sabha)', constituencySlug: 'nagaland-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹20.66 crore', utilized: '₹20.66 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 80 kaam sifarish, 78 manzoor, 68 poora; kharch ₹20.26 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~98%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '44',
       education: 'Master of Arts (English) from Daulat Ram College, University of Delhi in 2002',

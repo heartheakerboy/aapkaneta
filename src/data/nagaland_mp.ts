@@ -21,8 +21,8 @@ export const nagalandMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.70 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 56 kaam sifarish, 54 manzoor, 44 poora; kharch ₹13.82 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~94%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '61',

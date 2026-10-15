@@ -19,8 +19,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.75 crore', utilized: '₹6.30 crore (sifarish)', utilizationPct: 43,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 68 kaam sifarish, 64 manzoor, 38 poora; kharch ₹2.91 crore. Sifarish ke hisaab se utilization ~43%, kharch ke hisaab se ~20%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '64',
@@ -49,8 +49,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹22.58 crore', utilized: '₹12.91 crore (sifarish)', utilizationPct: 57,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 24 kaam sifarish, 16 manzoor, 7 poora; kharch ₹2.97 crore. Sifarish ke hisaab se utilization ~57%, kharch ke hisaab se ~13%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '53',
@@ -79,8 +79,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.71 crore', utilized: '₹7.76 crore (sifarish)', utilizationPct: 53,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 115 kaam sifarish, 109 manzoor, 65 poora; kharch ₹3.19 crore. Sifarish ke hisaab se utilization ~53%, kharch ke hisaab se ~22%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '60',
@@ -109,8 +109,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹15.43 crore', utilized: '₹6.90 crore (sifarish)', utilizationPct: 45,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 111 kaam sifarish, 79 manzoor, 47 poora; kharch ₹2.72 crore. Sifarish ke hisaab se utilization ~45%, kharch ke hisaab se ~18%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '40',
@@ -139,8 +139,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.79 crore', utilized: '₹8.65 crore (sifarish)', utilizationPct: 58,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 116 kaam sifarish, 69 manzoor, 11 poora; kharch ₹1.25 crore. Sifarish ke hisaab se utilization ~58%, kharch ke hisaab se ~8%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '61',
@@ -169,8 +169,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.07 crore (sifarish)', utilizationPct: 62,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 68 kaam sifarish, 60 manzoor, 32 poora; kharch ₹1.55 crore. Sifarish ke hisaab se utilization ~62%, kharch ke hisaab se ~11%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '51',
@@ -199,8 +199,8 @@ export const delhiMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.76 crore', utilized: '₹13.00 crore (sifarish)', utilizationPct: 88,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 137 kaam sifarish, 123 manzoor, 43 poora; kharch ₹3.40 crore. Sifarish ke hisaab se utilization ~88%, kharch ke hisaab se ~23%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '71',

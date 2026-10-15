@@ -19,7 +19,11 @@ export const manipurRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Manipur (Rajya Sabha)', constituencySlug: 'manipur-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹4.66 crore (sifarish)', utilizationPct: 95,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 34 kaam sifarish, 21 manzoor, 0 poora; kharch ₹2.55 crore. Sifarish ke hisaab se utilization ~95%, kharch ke hisaab se ~52%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '59',
       education: 'Graduate',

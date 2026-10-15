@@ -14,7 +14,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '63',
       education: 'Others',
@@ -38,7 +42,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹1.20 crore (sifarish)', utilizationPct: 24,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 22 kaam sifarish, 19 manzoor, 0 poora; kharch ₹0.95 crore. Sifarish ke hisaab se utilization ~24%, kharch ke hisaab se ~19%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '57',
       education: '5th Pass',
@@ -62,7 +70,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '72',
       education: 'Graduate',
@@ -86,7 +98,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹10.19 crore (sifarish)', utilizationPct: 69,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 105 kaam sifarish, 48 manzoor, 31 poora; kharch ₹4.47 crore. Sifarish ke hisaab se utilization ~69%, kharch ke hisaab se ~30%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '55',
       education: 'Doctorate',
@@ -110,7 +126,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹4.30 crore (sifarish)', utilizationPct: 29,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 33 kaam sifarish, 10 manzoor, 2 poora; kharch ₹1.29 crore. Sifarish ke hisaab se utilization ~29%, kharch ke hisaab se ~9%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '65',
       education: 'Post Graduate',
@@ -134,7 +154,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹10.98 crore (sifarish)', utilizationPct: 75,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 91 kaam sifarish, 52 manzoor, 45 poora; kharch ₹5.55 crore. Sifarish ke hisaab se utilization ~75%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '53',
       education: 'Post Graduate',
@@ -158,7 +182,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.04 crore', utilized: '₹11.81 crore (sifarish)', utilizationPct: 54,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 150 kaam sifarish, 51 manzoor, 39 poora; kharch ₹4.98 crore. Sifarish ke hisaab se utilization ~54%, kharch ke hisaab se ~23%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '50',
       education: 'Graduate',
@@ -182,7 +210,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹19.49 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 185 kaam sifarish, 120 manzoor, 50 poora; kharch ₹9.22 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~47%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Post Graduate',
@@ -206,7 +238,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Nationalist Congress Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '35',
       education: 'Post Graduate',
@@ -230,7 +266,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Nationalist Congress Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹8.27 crore (sifarish)', utilizationPct: 56,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 122 kaam sifarish, 59 manzoor, 22 poora; kharch ₹2.84 crore. Sifarish ke hisaab se utilization ~56%, kharch ke hisaab se ~19%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: 'Graduate',
@@ -254,7 +294,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Nationalist Congress Party', start: '2024', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹12.25 crore', utilized: '₹7.40 crore (sifarish)', utilizationPct: 60,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 62 kaam sifarish, 52 manzoor, 4 poora; kharch ₹0.70 crore. Sifarish ke hisaab se utilization ~60%, kharch ke hisaab se ~6%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '56',
       education: 'Others',
@@ -278,7 +322,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Nationalist Congress Party', start: '2026', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹0.00 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): is MP ke liye dashboard par koi MPLADS data uplabdh nahi (allocation 0). Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: '12th Pass',
@@ -302,7 +350,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Shiv Sena', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '62',
       education: 'Doctorate',
@@ -326,7 +378,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Shiv Sena', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹3.63 crore (sifarish)', utilizationPct: 25,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 27 kaam sifarish, 5 manzoor, 0 poora; kharch ₹0.10 crore. Sifarish ke hisaab se utilization ~25%, kharch ke hisaab se ~1%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '47',
       education: 'Graduate',
@@ -350,7 +406,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Republican Party of India (Athawale)', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹6.92 crore', utilized: '₹4.57 crore (sifarish)', utilizationPct: 66,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 31 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~66%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: '12th Pass',
@@ -374,7 +434,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Indian National Congress', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹13.24 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 40 kaam sifarish, 27 manzoor, 13 poora; kharch ₹9.20 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~63%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: '12th Pass',
@@ -398,7 +462,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Shiv Sena (Uddhav Balasaheb Thackeray)', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹19.46 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 81 kaam sifarish, 56 manzoor, 8 poora; kharch ₹7.39 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Graduate',
@@ -446,7 +514,11 @@ export const rsNetas: Neta[] = [
       { post: 'MP', constituency: 'Maharashtra (Rajya Sabha)', constituencySlug: 'maharashtra-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.60 crore', utilized: '₹17.60 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 134 kaam sifarish, 84 manzoor, 54 poora; kharch ₹10.37 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~53%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: 'Uplabdh nahi',
       education: 'Uplabdh nahi',

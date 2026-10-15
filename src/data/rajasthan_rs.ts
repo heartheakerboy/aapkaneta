@@ -17,7 +17,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹10.35 crore (sifarish)', utilizationPct: 53,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 99 kaam sifarish, 78 manzoor, 35 poora; kharch ₹4.82 crore. Sifarish ke hisaab se utilization ~53%, kharch ke hisaab se ~25%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '75',
       education: 'Graduate Professional - LLB from Rajasthan University in 1971',
@@ -43,7 +47,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹13.59 crore (sifarish)', utilizationPct: 69,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 150 kaam sifarish, 133 manzoor, 58 poora; kharch ₹6.39 crore. Sifarish ke hisaab se utilization ~69%, kharch ke hisaab se ~33%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '54',
       education: 'Post Graduate - M.A. (Political Science) from Punjab University In 1996',
@@ -69,7 +77,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹16.12 crore (sifarish)', utilizationPct: 82,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 170 kaam sifarish, 164 manzoor, 101 poora; kharch ₹12.18 crore. Sifarish ke hisaab se utilization ~82%, kharch ke hisaab se ~62%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '62',
       education: 'Post Graduate - Master of Business Administration (MBA) from Nagpur University in 1983',
@@ -95,7 +107,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹13.88 crore (sifarish)', utilizationPct: 71,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 131 kaam sifarish, 123 manzoor, 68 poora; kharch ₹10.73 crore. Sifarish ke hisaab se utilization ~71%, kharch ke hisaab se ~55%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '71',
       education: 'Graduate Professional - Law Graduation (LLB) In 1974 from Allahabad University, Allahabad',
@@ -121,7 +137,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹10.85 crore (sifarish)', utilizationPct: 74,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 132 kaam sifarish, 96 manzoor, 28 poora; kharch ₹4.10 crore. Sifarish ke hisaab se utilization ~74%, kharch ke hisaab se ~28%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '69',
       education: 'Graduate - B.Sc (Maths) From Govt. Bangar College Rajasthan University Year 1974',
@@ -147,7 +167,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹14.05 crore (sifarish)', utilizationPct: 96,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 175 kaam sifarish, 162 manzoor, 26 poora; kharch ₹8.29 crore. Sifarish ke hisaab se utilization ~96%, kharch ke hisaab se ~56%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '70',
       education: 'Post Graduate - MA From Kailoraks Teachers University Gujarat Year 2011',
@@ -173,7 +197,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Indian National Congress', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹12.54 crore (sifarish)', utilizationPct: 85,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 128 kaam sifarish, 113 manzoor, 48 poora; kharch ₹8.68 crore. Sifarish ke hisaab se utilization ~85%, kharch ke hisaab se ~59%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '77',
       education: 'Others - Three Year Courses in Foreign Language (English and French) Completed in 1964 at Istituto Santa Teresa Via Santa Teresa 10 Turim, Certificate in English From Lennox Cook School, Cambridge Completed in 1965',
@@ -199,7 +227,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Doctorate - Ph.D from Rajasthan University Jaipur in 2016',
@@ -225,7 +257,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '65',
       education: 'Doctorate - Ph.D in Merchantile Law in Year 2010 Low tribals and panchayti raj in Rajasthan with special reference to rajasthan panchayat (entention to scheduled area) Act 1999) University of Rajasthan',
@@ -251,7 +287,11 @@ export const rajRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Rajasthan (Rajya Sabha)', constituencySlug: 'rajasthan-rajya-sabha', party: 'Indian National Congress', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹2.75 crore (sifarish)', utilizationPct: 56,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 12 kaam sifarish, 4 manzoor, 0 poora; kharch ₹0.50 crore. Sifarish ke hisaab se utilization ~56%, kharch ke hisaab se ~10%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '56',
       education: 'Graduate Professional - B.E. (Civil Eng.) from Karnataka Regional Engineering College, Suratkal Mangalore University, Karnataka in 1993',

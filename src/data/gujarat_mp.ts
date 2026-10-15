@@ -19,8 +19,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹13.13 crore (sifarish)', utilizationPct: 89,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 231 kaam sifarish, 171 manzoor, 21 poora; kharch ₹3.45 crore. Sifarish ke hisaab se utilization ~89%, kharch ke hisaab se ~23%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '63',
@@ -49,8 +49,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹16.04 crore', utilized: '₹11.97 crore (sifarish)', utilizationPct: 75,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 208 kaam sifarish, 179 manzoor, 2 poora; kharch ₹3.41 crore. Sifarish ke hisaab se utilization ~75%, kharch ke hisaab se ~21%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -79,8 +79,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.76 crore (sifarish)', utilizationPct: 87,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 359 kaam sifarish, 325 manzoor, 192 poora; kharch ₹6.64 crore. Sifarish ke hisaab se utilization ~87%, kharch ke hisaab se ~45%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -109,8 +109,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.23 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 554 kaam sifarish, 512 manzoor, 265 poora; kharch ₹6.62 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~45%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '59',
@@ -139,8 +139,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.43 crore (sifarish)', utilizationPct: 57,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 179 kaam sifarish, 137 manzoor, 42 poora; kharch ₹3.09 crore. Sifarish ke hisaab se utilization ~57%, kharch ke hisaab se ~21%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '48',
@@ -169,8 +169,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.55 crore (sifarish)', utilizationPct: 85,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 391 kaam sifarish, 291 manzoor, 77 poora; kharch ₹3.30 crore. Sifarish ke hisaab se utilization ~85%, kharch ke hisaab se ~22%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -199,8 +199,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.67 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 426 kaam sifarish, 380 manzoor, 226 poora; kharch ₹7.38 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~50%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '66',
@@ -229,8 +229,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.27 crore (sifarish)', utilizationPct: 56,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 85 kaam sifarish, 50 manzoor, 29 poora; kharch ₹4.56 crore. Sifarish ke hisaab se utilization ~56%, kharch ke hisaab se ~31%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '57',
@@ -259,8 +259,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹13.02 crore (sifarish)', utilizationPct: 89,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 452 kaam sifarish, 355 manzoor, 112 poora; kharch ₹4.56 crore. Sifarish ke hisaab se utilization ~89%, kharch ke hisaab se ~31%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',
@@ -289,8 +289,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹16.37 crore', utilized: '₹14.66 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 466 kaam sifarish, 287 manzoor, 98 poora; kharch ₹3.17 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~19%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '57',
@@ -349,8 +349,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹8.40 crore (sifarish)', utilizationPct: 57,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 178 kaam sifarish, 143 manzoor, 62 poora; kharch ₹2.87 crore. Sifarish ke hisaab se utilization ~57%, kharch ke hisaab se ~20%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '49',
@@ -379,8 +379,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.24 crore (sifarish)', utilizationPct: 97,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 436 kaam sifarish, 281 manzoor, 157 poora; kharch ₹5.77 crore. Sifarish ke hisaab se utilization ~97%, kharch ke hisaab se ~39%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '42',
@@ -409,8 +409,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.63 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 365 kaam sifarish, 311 manzoor, 101 poora; kharch ₹5.62 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '45',
@@ -439,8 +439,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.32 crore (sifarish)', utilizationPct: 97,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 787 kaam sifarish, 448 manzoor, 265 poora; kharch ₹5.90 crore. Sifarish ke hisaab se utilization ~97%, kharch ke hisaab se ~40%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '59',
@@ -469,8 +469,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹15.39 crore', utilized: '₹12.08 crore (sifarish)', utilizationPct: 78,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 631 kaam sifarish, 506 manzoor, 150 poora; kharch ₹5.56 crore. Sifarish ke hisaab se utilization ~78%, kharch ke hisaab se ~36%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '62',
@@ -499,8 +499,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹15.85 crore', utilized: '₹13.16 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 412 kaam sifarish, 399 manzoor, 278 poora; kharch ₹7.33 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~46%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '69',
@@ -529,8 +529,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹11.02 crore (sifarish)', utilizationPct: 75,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 539 kaam sifarish, 461 manzoor, 118 poora; kharch ₹3.52 crore. Sifarish ke hisaab se utilization ~75%, kharch ke hisaab se ~24%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '43',
@@ -559,8 +559,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.78 crore (sifarish)', utilizationPct: 87,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 344 kaam sifarish, 299 manzoor, 162 poora; kharch ₹7.86 crore. Sifarish ke hisaab se utilization ~87%, kharch ke hisaab se ~53%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '69',
@@ -589,8 +589,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.00 crore (sifarish)', utilizationPct: 95,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 305 kaam sifarish, 240 manzoor, 79 poora; kharch ₹3.96 crore. Sifarish ke hisaab se utilization ~95%, kharch ke hisaab se ~27%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '51',
@@ -619,8 +619,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹16.72 crore', utilized: '₹15.06 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 328 kaam sifarish, 287 manzoor, 105 poora; kharch ₹4.59 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~27%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '69',
@@ -649,8 +649,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹10.39 crore (sifarish)', utilizationPct: 71,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 287 kaam sifarish, 271 manzoor, 130 poora; kharch ₹5.87 crore. Sifarish ke hisaab se utilization ~71%, kharch ke hisaab se ~40%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '50',
@@ -679,8 +679,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.26 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 237 kaam sifarish, 177 manzoor, 107 poora; kharch ₹4.20 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~29%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '62',
@@ -709,8 +709,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹15.77 crore', utilized: '₹12.58 crore (sifarish)', utilizationPct: 80,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 215 kaam sifarish, 198 manzoor, 78 poora; kharch ₹7.48 crore. Sifarish ke hisaab se utilization ~80%, kharch ke hisaab se ~47%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '33',
@@ -739,8 +739,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.40 crore (sifarish)', utilizationPct: 64,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 180 kaam sifarish, 157 manzoor, 75 poora; kharch ₹4.21 crore. Sifarish ke hisaab se utilization ~64%, kharch ke hisaab se ~29%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '37',
@@ -769,8 +769,8 @@ export const gujMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹9.14 crore (sifarish)', utilizationPct: 62,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 210 kaam sifarish, 202 manzoor, 105 poora; kharch ₹6.24 crore. Sifarish ke hisaab se utilization ~62%, kharch ke hisaab se ~42%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '61',

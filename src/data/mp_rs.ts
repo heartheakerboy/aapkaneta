@@ -18,7 +18,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹18.81 crore (sifarish)', utilizationPct: 85,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 511 kaam sifarish, 397 manzoor, 126 poora; kharch ₹11.76 crore. Sifarish ke hisaab se utilization ~85%, kharch ke hisaab se ~53%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '65',
       education: 'Graduate Professional - LLB from Delhi University in 1979',
@@ -44,7 +48,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹18.66 crore (sifarish)', utilizationPct: 95,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 178 kaam sifarish, 176 manzoor, 62 poora; kharch ₹16.99 crore. Sifarish ke hisaab se utilization ~95%, kharch ke hisaab se ~87%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '67',
       education: 'Graduate - Bachelor of Arts, Final year 2012, M.P Bhoj(Open) University Bhopal MP',
@@ -70,7 +78,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.71 crore', utilized: '₹14.89 crore (sifarish)', utilizationPct: 76,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 217 kaam sifarish, 214 manzoor, 145 poora; kharch ₹13.43 crore. Sifarish ke hisaab se utilization ~76%, kharch ke hisaab se ~68%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '47',
       education: 'Post Graduate - Master of Arts in 2005 from Devi Ahilya University Indore',
@@ -96,7 +108,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹8.34 crore (sifarish)', utilizationPct: 57,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 38 kaam sifarish, 30 manzoor, 6 poora; kharch ₹4.19 crore. Sifarish ke hisaab se utilization ~57%, kharch ke hisaab se ~29%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '46',
       education: 'Doctorate - Doctor of Philosophy (Law) from University of Madras in 2019',
@@ -122,7 +138,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹6.22 crore (sifarish)', utilizationPct: 42,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 85 kaam sifarish, 70 manzoor, 10 poora; kharch ₹4.70 crore. Sifarish ke hisaab se utilization ~42%, kharch ke hisaab se ~32%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '63',
       education: 'Post Graduate - M.A. (Pol.) from Vikram University Ujjain in 1983',
@@ -148,7 +168,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹8.45 crore (sifarish)', utilizationPct: 57,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 80 kaam sifarish, 66 manzoor, 12 poora; kharch ₹4.65 crore. Sifarish ke hisaab se utilization ~57%, kharch ke hisaab se ~32%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '60',
       education: 'Literate - Literate',
@@ -174,7 +198,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹10.94 crore (sifarish)', utilizationPct: 74,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 159 kaam sifarish, 135 manzoor, 16 poora; kharch ₹7.55 crore. Sifarish ke hisaab se utilization ~74%, kharch ke hisaab se ~51%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '63',
       education: '12th Pass - Higher Secondary Pass',
@@ -200,7 +228,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Indian National Congress', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹5.27 crore (sifarish)', utilizationPct: 36,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 112 kaam sifarish, 54 manzoor, 12 poora; kharch ₹1.87 crore. Sifarish ke hisaab se utilization ~36%, kharch ke hisaab se ~13%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '60',
       education: 'Graduate - B.Com. From Jivaji University, Gwalior, M.P. Year-1981',
@@ -226,7 +258,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '55',
       education: 'Post Graduate - Masters in Business Administration from Mahatma Gandhi University, Meghalaya in 2012',
@@ -252,7 +288,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.88 crore (sifarish)', utilizationPct: 18,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 4 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~18%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '50',
       education: 'Post Graduate - M.B.J. (Master of Broadcast Journalism) From Makhanlal Chaturvedi Rashtriya Patrakarita Evam Sanchar Vishwavidyalaya, Bhopal (M.P.), Year-2000',
@@ -278,7 +318,11 @@ export const mpRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Madhya Pradesh (Rajya Sabha)', constituencySlug: 'madhya-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '52',
       education: '12th Pass - B.Sc 2nd Year From Awadesh Pratap Singh University Rewa MP Year 1995',

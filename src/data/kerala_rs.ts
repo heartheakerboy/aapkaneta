@@ -17,7 +17,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Communist Party of India (Marxist)', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹11.55 crore (sifarish)', utilizationPct: 52,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 76 kaam sifarish, 67 manzoor, 27 poora; kharch ₹6.44 crore. Sifarish ke hisaab se utilization ~52%, kharch ke hisaab se ~29%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '41',
       education: 'Post Graduate',
@@ -43,7 +47,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Indian Union Muslim League', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹12.25 crore', utilized: '₹10.76 crore (sifarish)', utilizationPct: 88,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 224 kaam sifarish, 98 manzoor, 18 poora; kharch ₹2.11 crore. Sifarish ke hisaab se utilization ~88%, kharch ke hisaab se ~17%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '48',
       education: 'Graduate Professional',
@@ -69,7 +77,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹15.45 crore (sifarish)', utilizationPct: 70,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 121 kaam sifarish, 94 manzoor, 51 poora; kharch ₹5.58 crore. Sifarish ke hisaab se utilization ~70%, kharch ke hisaab se ~25%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '43',
       education: 'Post Graduate',
@@ -95,7 +107,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Communist Party of India (Marxist)', start: '2021', end: '2027' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹24.51 crore', utilized: '₹22.87 crore (sifarish)', utilizationPct: 93,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 154 kaam sifarish, 67 manzoor, 38 poora; kharch ₹7.05 crore. Sifarish ke hisaab se utilization ~93%, kharch ke hisaab se ~29%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '54',
       education: 'Post Graduate',
@@ -121,7 +137,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Kerala Congress (M)', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹12.25 crore', utilized: '₹9.63 crore (sifarish)', utilizationPct: 79,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 190 kaam sifarish, 104 manzoor, 41 poora; kharch ₹2.20 crore. Sifarish ke hisaab se utilization ~79%, kharch ke hisaab se ~18%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Post Graduate',
@@ -147,7 +167,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Communist Party of India', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹12.25 crore', utilized: '₹8.70 crore (sifarish)', utilizationPct: 71,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 93 kaam sifarish, 57 manzoor, 22 poora; kharch ₹2.09 crore. Sifarish ke hisaab se utilization ~71%, kharch ke hisaab se ~17%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '56',
       education: 'Post Graduate',
@@ -173,7 +197,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Indian Union Muslim League', start: '2021', end: '2027' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹31.09 crore', utilized: '₹26.62 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 367 kaam sifarish, 240 manzoor, 131 poora; kharch ₹9.82 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~32%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '70',
       education: '12th Pass',
@@ -199,7 +227,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Communist Party of India', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹14.97 crore (sifarish)', utilizationPct: 68,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 109 kaam sifarish, 79 manzoor, 40 poora; kharch ₹5.68 crore. Sifarish ke hisaab se utilization ~68%, kharch ke hisaab se ~26%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '51',
       education: 'Graduate Professional',
@@ -225,7 +257,11 @@ export const keralaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Kerala (Rajya Sabha)', constituencySlug: 'kerala-rajya-sabha', party: 'Communist Party of India (Marxist)', start: '2021', end: '2027' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹27.67 crore', utilized: '₹24.87 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 91 kaam sifarish, 54 manzoor, 34 poora; kharch ₹3.35 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~12%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '41',
       education: 'Doctorate',

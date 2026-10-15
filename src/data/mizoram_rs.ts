@@ -19,7 +19,11 @@ export const mizoramRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Mizoram (Rajya Sabha)', constituencySlug: 'mizoram-rajya-sabha', party: 'Zoram People\'s Movement', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹2.45 crore', utilized: '₹1.50 crore (sifarish)', utilizationPct: 61,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 15 kaam sifarish, 2 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~61%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '—',
       education: '—',

@@ -22,8 +22,8 @@ export const sikkimMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹15.20 crore', utilized: '₹15.11 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 129 kaam sifarish, 85 manzoor, 38 poora; kharch ₹11.89 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~78%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '35',

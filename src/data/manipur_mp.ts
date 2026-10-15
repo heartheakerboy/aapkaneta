@@ -21,8 +21,8 @@ export const manipurMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹10.71 crore (sifarish)', utilizationPct: 73,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 47 kaam sifarish, 45 manzoor, 21 poora; kharch ₹9.48 crore. Sifarish ke hisaab se utilization ~73%, kharch ke hisaab se ~64%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '57',
@@ -51,8 +51,8 @@ export const manipurMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.27 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 39 kaam sifarish, 36 manzoor, 15 poora; kharch ₹8.83 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~60%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '50',

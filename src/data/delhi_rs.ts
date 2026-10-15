@@ -18,7 +18,11 @@ export const delhiRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Delhi (Rajya Sabha)', constituencySlug: 'delhi-rajya-sabha', party: 'Aam Aadmi Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹16.08 crore', utilized: '₹7.74 crore (sifarish)', utilizationPct: 48,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 52 kaam sifarish, 43 manzoor, 15 poora; kharch ₹2.81 crore. Sifarish ke hisaab se utilization ~48%, kharch ke hisaab se ~17%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '78',
       education: 'Graduate Professional - B.Com from Sri Ram College of Commerce, University of Delhi in 1966, Chartered Accountant from Institute of Chartered Accountants of India, Delhi in 1970',
@@ -44,7 +48,11 @@ export const delhiRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Delhi (Rajya Sabha)', constituencySlug: 'delhi-rajya-sabha', party: 'Aam Aadmi Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹18.45 crore', utilized: '₹15.36 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 110 kaam sifarish, 83 manzoor, 18 poora; kharch ₹2.04 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~11%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '52',
       education: 'Others - Diploma in Mining Engineering from Orrisa School of Mining Engineering, Keonjhar in 1993',
@@ -70,7 +78,11 @@ export const delhiRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Delhi (Rajya Sabha)', constituencySlug: 'delhi-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹1.06 crore (sifarish)', utilizationPct: 7,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 3 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~7%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '39',
       education: 'Graduate Professional - Bachelor of Technology (Information Technology) from JSS Academy of Technical Education Noida Uttar Pradesh Technical University in 2006',

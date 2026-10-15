@@ -18,7 +18,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Rashtriya Janata Dal', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.53 crore', utilized: '₹23.45 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 206 kaam sifarish, 183 manzoor, 138 poora; kharch ₹20.22 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~86%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '58',
       education: 'Doctorate - Ph.D., L.N.M. University Darbhanga 2004; M.A. L.N.M. University 1987',
@@ -44,7 +48,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Janata Dal (United)', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.58 crore', utilized: '₹18.59 crore (sifarish)', utilizationPct: 79,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 177 kaam sifarish, 177 manzoor, 171 poora; kharch ₹18.46 crore. Sifarish ke hisaab se utilization ~79%, kharch ke hisaab se ~78%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '68',
       education: '10th Pass - Matriculation, Hindi Vidyapeeth Deoghar 1978',
@@ -70,7 +78,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.53 crore', utilized: '₹22.56 crore (sifarish)', utilizationPct: 96,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 254 kaam sifarish, 240 manzoor, 186 poora; kharch ₹17.10 crore. Sifarish ke hisaab se utilization ~96%, kharch ke hisaab se ~73%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '47',
       education: '12th Pass - Intermediate from T.P. Verma College, Narkatiganj 1993',
@@ -96,7 +108,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.72 crore', utilized: '₹22.76 crore (sifarish)', utilizationPct: 96,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 308 kaam sifarish, 284 manzoor, 202 poora; kharch ₹18.44 crore. Sifarish ke hisaab se utilization ~96%, kharch ke hisaab se ~78%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '40',
       education: 'Graduate - Graduate from Sir Ganesh Dutt College Patna (M.U.) in 2012; Inter 1999 N.S. College',
@@ -122,7 +138,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Janata Dal (United)', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹18.62 crore', utilized: '₹0.63 crore (sifarish)', utilizationPct: 3,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 6 kaam sifarish, 5 manzoor, 4 poora; kharch ₹0.51 crore. Sifarish ke hisaab se utilization ~3%, kharch ke hisaab se ~3%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '56',
       education: 'Post Graduate - M.A. from Jawaharlal Nehru University, New Delhi',
@@ -148,7 +168,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹18.62 crore', utilized: '₹18.19 crore (sifarish)', utilizationPct: 98,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 323 kaam sifarish, 317 manzoor, 251 poora; kharch ₹15.45 crore. Sifarish ke hisaab se utilization ~98%, kharch ke hisaab se ~83%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Doctorate - Ph.D. Patna University 2002; M.A. (L.S.W.) Patna University 1994/2003',
@@ -174,7 +198,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹18.62 crore', utilized: '₹18.54 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 150 kaam sifarish, 127 manzoor, 96 poora; kharch ₹15.21 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~82%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '55',
       education: 'Doctorate - Ph.D. LNM University Darbhanga 2012; M.A. Biology LNMU 1992',
@@ -200,7 +228,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Indian National Congress', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹18.62 crore', utilized: '₹7.97 crore (sifarish)', utilizationPct: 43,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 61 kaam sifarish, 51 manzoor, 47 poora; kharch ₹6.37 crore. Sifarish ke hisaab se utilization ~43%, kharch ke hisaab se ~34%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '54',
       education: 'Doctorate - Ph.D. from Patna University',
@@ -226,7 +258,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Rashtriya Janata Dal', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.16 crore', utilized: '₹18.04 crore (sifarish)', utilizationPct: 94,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 200 kaam sifarish, 122 manzoor, 110 poora; kharch ₹9.16 crore. Sifarish ke hisaab se utilization ~94%, kharch ke hisaab se ~48%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '56',
       education: 'Doctorate - Ph.D. (Social Work) 2000, M.A. (Social Work) 1992, Delhi University',
@@ -252,7 +288,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Rashtriya Janata Dal', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹18.62 crore', utilized: '₹8.04 crore (sifarish)', utilizationPct: 43,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 54 kaam sifarish, 26 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~43%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '38',
       education: 'Post Graduate - M.Sc. Computer Science from Makhanlal Chaturvedi National University of Journalism & Communication, Bhopal 2007',
@@ -278,7 +318,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.53 crore', utilized: '₹8.48 crore (sifarish)', utilizationPct: 36,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 85 kaam sifarish, 68 manzoor, 31 poora; kharch ₹4.12 crore. Sifarish ke hisaab se utilization ~36%, kharch ke hisaab se ~18%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '67',
       education: 'Graduate Professional - LLB from Patna Law College, Patna University (1977-1980); B.Sc. (Hon.) from Bihar University, Rajendra College Chapra (1973-1976)',
@@ -304,7 +348,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '45',
       education: '12th Pass - Inter, CBSE New Delhi, C.S.K.M. Public School New Delhi 1998',
@@ -356,7 +404,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Janata Dal (United)', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹6.57 crore', utilized: '₹5.40 crore (sifarish)', utilizationPct: 82,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 36 kaam sifarish, 10 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~82%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '76',
       education: '12th Pass - Intermediate (Arts), G.K.P. College Samastipur, L.N.M. University Darbhanga 1995',
@@ -382,7 +434,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '58',
       education: 'Graduate - B.A. from Ranchi University, Ranchi 1986',
@@ -408,7 +464,11 @@ export const biharRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Bihar (Rajya Sabha)', constituencySlug: 'bihar-rajya-sabha', party: 'RLM', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹1.79 crore (sifarish)', utilizationPct: 37,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 15 kaam sifarish, 2 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~37%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: 'Post Graduate - M.A. (Political Science) from B.R. Ambedkar Bihar University, Muzaffarpur 1981; B.A. Patna Science College',

@@ -17,7 +17,11 @@ export const goaRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Goa (Rajya Sabha)', constituencySlug: 'goa-rajya-sabha', party: 'Bharatiya Janata Party', start: '2023', end: '2029' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹17.15 crore', utilized: '₹11.07 crore (sifarish)', utilizationPct: 65,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 41 kaam sifarish, 21 manzoor, 10 poora; kharch ₹5.15 crore. Sifarish ke hisaab se utilization ~65%, kharch ke hisaab se ~30%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '59',
       education: 'Post Graduate',

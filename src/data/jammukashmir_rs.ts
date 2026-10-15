@@ -23,8 +23,8 @@ export const jammuKashmirRsNetas: Neta[] = [
       works: [],
       fund: {
         scheme: 'MPLADS',
-        allocated: null, utilized: null, utilizationPct: null,
-        note: 'Sansad Nidhi (MPLADS) ka neta-war kharch record online uplabdh nahi hai (verified 2026-10-15).',
+        allocated: '₹7.35 crore', utilized: '₹4.28 crore (sifarish)', utilizationPct: 58,
+        note: 'e-SAKSHI dashboard (15 Oct 2026): 33 kaam sifarish, 3 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~58%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
       },
       background: {
         age: '',
@@ -53,8 +53,8 @@ export const jammuKashmirRsNetas: Neta[] = [
       works: [],
       fund: {
         scheme: 'MPLADS',
-        allocated: null, utilized: null, utilizationPct: null,
-        note: 'Sansad Nidhi (MPLADS) ka neta-war kharch record online uplabdh nahi hai (verified 2026-10-15).',
+        allocated: '₹7.35 crore', utilized: '₹4.79 crore (sifarish)', utilizationPct: 65,
+        note: 'e-SAKSHI dashboard (15 Oct 2026): 43 kaam sifarish, 4 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~65%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
       },
       background: {
         age: '',
@@ -83,8 +83,8 @@ export const jammuKashmirRsNetas: Neta[] = [
       works: [],
       fund: {
         scheme: 'MPLADS',
-        allocated: null, utilized: null, utilizationPct: null,
-        note: 'Sansad Nidhi (MPLADS) ka neta-war kharch record online uplabdh nahi hai (verified 2026-10-15).',
+        allocated: '₹7.35 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+        note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
       },
       background: {
         age: '',
@@ -113,8 +113,8 @@ export const jammuKashmirRsNetas: Neta[] = [
       works: [],
       fund: {
         scheme: 'MPLADS',
-        allocated: null, utilized: null, utilizationPct: null,
-        note: 'Sansad Nidhi (MPLADS) ka neta-war kharch record online uplabdh nahi hai (verified 2026-10-15).',
+        allocated: '₹7.35 crore', utilized: '₹2.01 crore (sifarish)', utilizationPct: 27,
+        note: 'e-SAKSHI dashboard (15 Oct 2026): 20 kaam sifarish, 17 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~27%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
       },
       background: {
         age: '',

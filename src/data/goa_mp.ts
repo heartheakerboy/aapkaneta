@@ -19,8 +19,8 @@ export const goaMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹14.60 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 117 kaam sifarish, 29 manzoor, 1 poora; kharch ₹1.79 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~12%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '71',
@@ -49,8 +49,8 @@ export const goaMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹11.80 crore (sifarish)', utilizationPct: 80,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 134 kaam sifarish, 60 manzoor, 47 poora; kharch ₹5.08 crore. Sifarish ke hisaab se utilization ~80%, kharch ke hisaab se ~35%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '54',

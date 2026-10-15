@@ -19,8 +19,8 @@ export const mizoramMpNetas: Neta[] = [
     works: [],
     fund: {
       scheme: 'MPLADS',
-      allocated: null, utilized: null, utilizationPct: null,
-      note: 'MPLADS fund ka record e-SAKSHI portal par uplabdh hai; jald joda jayega.',
+      allocated: '₹14.70 crore', utilized: '₹12.70 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 270 kaam sifarish, 189 manzoor, 134 poora; kharch ₹9.90 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~67%. Source: mplads.mospi.gov.in',
     },
     background: {
       age: '46',

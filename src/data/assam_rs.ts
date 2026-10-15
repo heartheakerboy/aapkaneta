@@ -18,7 +18,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'Asom Gana Parishad', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.80 crore', utilized: '₹7.85 crore (sifarish)', utilizationPct: 80,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 47 kaam sifarish, 28 manzoor, 1 poora; kharch ₹3.53 crore. Sifarish ke hisaab se utilization ~80%, kharch ke hisaab se ~36%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '67',
       education: 'Post Graduate',
@@ -44,7 +48,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹3.99 crore (sifarish)', utilizationPct: 81,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 32 kaam sifarish, 7 manzoor, 0 poora; kharch ₹0.38 crore. Sifarish ke hisaab se utilization ~81%, kharch ke hisaab se ~8%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '63',
       education: '12th Pass',
@@ -70,7 +78,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'Bharatiya Janata Party', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.80 crore', utilized: '₹6.50 crore (sifarish)', utilizationPct: 66,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 50 kaam sifarish, 33 manzoor, 0 poora; kharch ₹3.74 crore. Sifarish ke hisaab se utilization ~66%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '57',
       education: 'Graduate',
@@ -96,7 +108,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹17.69 crore (sifarish)', utilizationPct: 80,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 213 kaam sifarish, 105 manzoor, 5 poora; kharch ₹7.26 crore. Sifarish ke hisaab se utilization ~80%, kharch ke hisaab se ~33%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '47',
       education: 'Others',
@@ -122,7 +138,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'United People\'s Party Liberal', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹3.15 crore (sifarish)', utilizationPct: 64,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 25 kaam sifarish, 2 manzoor, 0 poora; kharch ₹0.04 crore. Sifarish ke hisaab se utilization ~64%, kharch ke hisaab se ~1%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '50',
       education: '12th Pass',
@@ -148,7 +168,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'United People\'s Party Liberal', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹20.44 crore (sifarish)', utilizationPct: 93,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 166 kaam sifarish, 128 manzoor, 17 poora; kharch ₹12.86 crore. Sifarish ke hisaab se utilization ~93%, kharch ke hisaab se ~58%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '52',
       education: 'Graduate',
@@ -174,7 +198,11 @@ export const assamRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Assam (Rajya Sabha)', constituencySlug: 'assam-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '51',
       education: 'Graduate',

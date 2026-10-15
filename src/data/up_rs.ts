@@ -18,7 +18,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.60 crore', utilized: '₹9.89 crore (sifarish)', utilizationPct: 50,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 76 kaam sifarish, 50 manzoor, 5 poora; kharch ₹4.81 crore. Sifarish ke hisaab se utilization ~50%, kharch ke hisaab se ~25%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '70',
       education: 'Graduate Professional - B.Sc. From Meerut College, Meerut University, Year-1969 & B.A.M.S. From Rishikul Govt. Ayurvedic College Haridwar, Sambadh Kanpur University, Year-1975',
@@ -44,7 +48,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.70 crore', utilized: '₹18.22 crore (sifarish)', utilizationPct: 92,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 51 kaam sifarish, 46 manzoor, 31 poora; kharch ₹17.53 crore. Sifarish ke hisaab se utilization ~92%, kharch ke hisaab se ~89%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '47',
       education: 'Post Graduate - MA From DAV P.G College Azamgarh Purvanchal University Jaunpur in Year 1996',
@@ -70,7 +78,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹20.36 crore', utilized: '₹13.84 crore (sifarish)', utilizationPct: 68,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 45 kaam sifarish, 45 manzoor, 16 poora; kharch ₹7.65 crore. Sifarish ke hisaab se utilization ~68%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '67',
       education: 'Post Graduate - MD (Pediatrics) in 1981, MBBS in 1976 from IMS, BHU Varanasi',
@@ -96,7 +108,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹19.37 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 121 kaam sifarish, 61 manzoor, 44 poora; kharch ₹17.09 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~87%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '40',
       education: 'Graduate Professional - LL.B Year 2004 From M.M.H. College Gaziabad Chaudhary Charan Singh University Meerut UP',
@@ -122,7 +138,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.06 crore', utilized: '₹21.83 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 299 kaam sifarish, 270 manzoor, 99 poora; kharch ₹12.78 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~58%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '56',
       education: 'Graduate - B.Com. From Ch.Charan Singh University Meerut  1984',
@@ -148,7 +168,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹18.75 crore (sifarish)', utilizationPct: 96,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 649 kaam sifarish, 564 manzoor, 437 poora; kharch ₹13.71 crore. Sifarish ke hisaab se utilization ~96%, kharch ke hisaab se ~70%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '53',
       education: 'Graduate Professional - LLB in 1999, BA in 1992 from Bundelkhand University Jhansi',
@@ -174,7 +198,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.76 crore', utilized: '₹15.55 crore (sifarish)', utilizationPct: 79,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 331 kaam sifarish, 309 manzoor, 275 poora; kharch ₹12.46 crore. Sifarish ke hisaab se utilization ~79%, kharch ke hisaab se ~63%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: 'Doctorate - Ph.D from Department of Geology, Osmania University in 1986, M.sc from P.G.Centre, Osmania University in 1980',
@@ -200,7 +228,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹19.49 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 204 kaam sifarish, 201 manzoor, 197 poora; kharch ₹18.27 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~93%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '57',
       education: 'Graduate - B.Sc From MJP Rohilkhand University in Year 1987',
@@ -226,7 +258,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Samajwadi Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹19.59 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 193 kaam sifarish, 182 manzoor, 126 poora; kharch ₹16.50 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~84%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '55',
       education: 'Post Graduate - M.A. From Usmaniya University Hyderabad Year 1993, Diploma in Civil Engineering  From Jamia Millia Islamia Year 1986',
@@ -252,7 +288,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Rashtriya Lok Dal', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹21.41 crore', utilized: '₹18.35 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 25 kaam sifarish, 20 manzoor, 8 poora; kharch ₹4.31 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~20%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '43',
       education: 'Post Graduate - M.Sc. From M.Sc Accounting & Finance London School of Economics & Political Science, Year-2002 & B.Com (Hons.) From Shri Venketeshwar College Delhi University, Year-1999',
@@ -278,7 +318,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Independent', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹19.61 crore', utilized: '₹18.36 crore (sifarish)', utilizationPct: 94,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 240 kaam sifarish, 198 manzoor, 64 poora; kharch ₹9.75 crore. Sifarish ke hisaab se utilization ~94%, kharch ke hisaab se ~50%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '73',
       education: 'Post Graduate - M.A.(History) From St. Stephen College, University of Delhi, Year-1969 & LLM From Harvard Law School, Cambridge, MA USA, Year-1977',
@@ -304,7 +348,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹7.40 crore (sifarish)', utilizationPct: 50,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 53 kaam sifarish, 35 manzoor, 14 poora; kharch ₹3.57 crore. Sifarish ke hisaab se utilization ~50%, kharch ke hisaab se ~24%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '53',
       education: 'Doctorate - Ph.D from Mechanical Engineering from Dr. APJ Abdul Kalam Technical University UP, Lucknow Formerly UP Technical University, Lucknow In 2006',
@@ -330,7 +378,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹12.14 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 19 kaam sifarish, 17 manzoor, 5 poora; kharch ₹10.34 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~70%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '49',
       education: 'Graduate - Graduate from Varanasi Shri Chand Sanskrit College Krim Kund Shivala Varanasi, Sanbandh Sampurnanand Sanskrit University Varanasi In 1997',
@@ -356,7 +408,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹8.55 crore (sifarish)', utilizationPct: 58,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 59 kaam sifarish, 50 manzoor, 19 poora; kharch ₹5.64 crore. Sifarish ke hisaab se utilization ~58%, kharch ke hisaab se ~38%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '63',
       education: 'Graduate - Bachelor of Commerce from University of Lucknow In 1979',
@@ -382,7 +438,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹13.56 crore (sifarish)', utilizationPct: 92,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 168 kaam sifarish, 166 manzoor, 10 poora; kharch ₹8.83 crore. Sifarish ke hisaab se utilization ~92%, kharch ke hisaab se ~60%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Graduate - Graduate from Dr. B.R. Ambedkar University Agra In 2007',
@@ -408,7 +468,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹9.79 crore (sifarish)', utilizationPct: 67,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 86 kaam sifarish, 85 manzoor, 55 poora; kharch ₹9.03 crore. Sifarish ke hisaab se utilization ~67%, kharch ke hisaab se ~61%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '64',
       education: '12th Pass - Intermediate from Subhash Inter College, Mathura In 1977',
@@ -434,7 +498,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹11.59 crore (sifarish)', utilizationPct: 79,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 146 kaam sifarish, 118 manzoor, 88 poora; kharch ₹9.08 crore. Sifarish ke hisaab se utilization ~79%, kharch ke hisaab se ~62%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '59',
       education: 'Graduate - BA Honors From Delhi University in year 1985',
@@ -460,7 +528,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹9.38 crore (sifarish)', utilizationPct: 64,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 136 kaam sifarish, 63 manzoor, 24 poora; kharch ₹3.15 crore. Sifarish ke hisaab se utilization ~64%, kharch ke hisaab se ~21%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '43',
       education: 'Post Graduate - Post Graduate From Jain Vishwa Bharati Institute Laadnu Rajasthan in year 2003',
@@ -486,7 +558,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹13.94 crore (sifarish)', utilizationPct: 95,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 385 kaam sifarish, 307 manzoor, 5 poora; kharch ₹7.02 crore. Sifarish ke hisaab se utilization ~95%, kharch ke hisaab se ~48%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '45',
       education: 'Doctorate - Ph.D. from Veer Bahadur Singh Purvanchal University In 2012',
@@ -512,7 +588,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Samajwadi Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹14.64 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 93 kaam sifarish, 64 manzoor, 45 poora; kharch ₹9.30 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~63%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '73',
       education: 'Graduate Professional - LLB In 1980-81 from Agra University Agra & B.A. From Agra University, Year-1972',
@@ -538,7 +618,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Samajwadi Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹4.21 crore (sifarish)', utilizationPct: 29,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 23 kaam sifarish, 21 manzoor, 11 poora; kharch ₹2.63 crore. Sifarish ke hisaab se utilization ~29%, kharch ke hisaab se ~18%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '75',
       education: 'Graduate - FTII Graduate,  Pune Gold Medalist, 1970,',
@@ -772,7 +856,11 @@ export const upRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Uttar Pradesh (Rajya Sabha)', constituencySlug: 'uttar-pradesh-rajya-sabha', party: 'Samajwadi Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹22.13 crore', utilized: '₹22.12 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 90 kaam sifarish, 78 manzoor, 25 poora; kharch ₹17.93 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~81%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '80',
       education: 'Doctorate - Ph.D from Kanpur University, Kanpur in 1994',

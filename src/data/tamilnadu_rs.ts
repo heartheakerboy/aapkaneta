@@ -18,7 +18,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '70',
       education: 'Post Graduate',
@@ -44,7 +48,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹3.74 crore (sifarish)', utilizationPct: 71,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 32 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~71%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '58',
       education: 'Doctorate',
@@ -70,7 +78,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'All India Anna Dravida Munnetra Kazhagam', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹0.49 crore (sifarish)', utilizationPct: 9,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 6 kaam sifarish, 2 manzoor, 2 poora; kharch ₹0.14 crore. Sifarish ke hisaab se utilization ~9%, kharch ke hisaab se ~3%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '78',
       education: 'Doctorate',
@@ -96,7 +108,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Indian National Congress', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹2.21 crore (sifarish)', utilizationPct: 42,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 4 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~42%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '53',
       education: 'Post Graduate',
@@ -122,7 +138,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Pattali Makkal Katchi', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹2.34 crore (sifarish)', utilizationPct: 44,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 14 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~44%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '57',
       education: 'Graduate Professional',
@@ -148,7 +168,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Desiya Murpokku Dravida Kazhagam', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '58',
       education: 'Graduate',
@@ -174,7 +198,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.28 crore', utilized: '₹7.94 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 35 kaam sifarish, 21 manzoor, 1 poora; kharch ₹1.00 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~11%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '59',
       education: 'Graduate Professional',
@@ -200,7 +228,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.28 crore', utilized: '₹6.40 crore (sifarish)', utilizationPct: 69,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 56 kaam sifarish, 34 manzoor, 16 poora; kharch ₹2.40 crore. Sifarish ke hisaab se utilization ~69%, kharch ke hisaab se ~26%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '59',
       education: 'Graduate',
@@ -226,7 +258,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.28 crore', utilized: '₹5.33 crore (sifarish)', utilizationPct: 57,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 54 kaam sifarish, 45 manzoor, 24 poora; kharch ₹3.24 crore. Sifarish ke hisaab se utilization ~57%, kharch ke hisaab se ~35%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '75',
       education: '10th Pass',
@@ -252,7 +288,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Makkal Needhi Maiam', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.28 crore', utilized: '₹2.12 crore (sifarish)', utilizationPct: 23,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 4 kaam sifarish, 1 manzoor, 0 poora; kharch ₹0.76 crore. Sifarish ke hisaab se utilization ~23%, kharch ke hisaab se ~8%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '70',
       education: '8th Pass',
@@ -278,7 +318,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'All India Anna Dravida Munnetra Kazhagam', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.28 crore', utilized: '₹7.42 crore (sifarish)', utilizationPct: 80,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 98 kaam sifarish, 45 manzoor, 25 poora; kharch ₹2.10 crore. Sifarish ke hisaab se utilization ~80%, kharch ke hisaab se ~23%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '59',
       education: 'Graduate Professional',
@@ -304,7 +348,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'All India Anna Dravida Munnetra Kazhagam', start: '2025', end: '2031' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹9.28 crore', utilized: '₹5.41 crore (sifarish)', utilizationPct: 58,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 62 kaam sifarish, 39 manzoor, 27 poora; kharch ₹2.42 crore. Sifarish ke hisaab se utilization ~58%, kharch ke hisaab se ~26%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '66',
       education: 'Doctorate',
@@ -330,7 +378,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹24.21 crore', utilized: '₹18.64 crore (sifarish)', utilizationPct: 77,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 102 kaam sifarish, 102 manzoor, 85 poora; kharch ₹15.49 crore. Sifarish ke hisaab se utilization ~77%, kharch ke hisaab se ~64%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '45',
       education: 'Post Graduate',
@@ -356,7 +408,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.99 crore', utilized: '₹22.99 crore (sifarish)', utilizationPct: 96,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 300 kaam sifarish, 204 manzoor, 155 poora; kharch ₹16.92 crore. Sifarish ke hisaab se utilization ~96%, kharch ke hisaab se ~71%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '61',
       education: 'Post Graduate',
@@ -382,7 +438,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Dravida Munnetra Kazhagam', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹24.34 crore', utilized: '₹24.04 crore (sifarish)', utilizationPct: 99,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 191 kaam sifarish, 181 manzoor, 166 poora; kharch ₹20.65 crore. Sifarish ke hisaab se utilization ~99%, kharch ke hisaab se ~85%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '81',
       education: '8th Pass',
@@ -408,7 +468,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'All India Anna Dravida Munnetra Kazhagam', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹26.44 crore', utilized: '₹21.92 crore (sifarish)', utilizationPct: 83,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 200 kaam sifarish, 194 manzoor, 193 poora; kharch ₹20.79 crore. Sifarish ke hisaab se utilization ~83%, kharch ke hisaab se ~79%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '52',
       education: 'Graduate',
@@ -434,7 +498,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Indian National Congress', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹23.99 crore', utilized: '₹19.34 crore (sifarish)', utilizationPct: 81,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 151 kaam sifarish, 141 manzoor, 76 poora; kharch ₹14.01 crore. Sifarish ke hisaab se utilization ~81%, kharch ke hisaab se ~58%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '76',
       education: 'Post Graduate',
@@ -460,7 +528,11 @@ export const tamilNaduRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Tamil Nadu (Rajya Sabha)', constituencySlug: 'tamil-nadu-rajya-sabha', party: 'Indian National Congress', start: '2026', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹5.30 crore', utilized: '₹1.23 crore (sifarish)', utilizationPct: 23,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 9 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~23%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '53',
       education: 'Post Graduate',

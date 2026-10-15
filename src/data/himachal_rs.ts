@@ -22,7 +22,11 @@ export const himachalRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Himachal Pradesh (Rajya Sabha)', constituencySlug: 'himachal-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2022', end: '2028' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹20.79 crore', utilized: '₹17.83 crore (sifarish)', utilizationPct: 86,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 408 kaam sifarish, 379 manzoor, 193 poora; kharch ₹13.58 crore. Sifarish ke hisaab se utilization ~86%, kharch ke hisaab se ~65%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '',
       education: '',
@@ -48,7 +52,11 @@ export const himachalRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Himachal Pradesh (Rajya Sabha)', constituencySlug: 'himachal-pradesh-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹12.78 crore (sifarish)', utilizationPct: 87,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 508 kaam sifarish, 449 manzoor, 161 poora; kharch ₹8.12 crore. Sifarish ke hisaab se utilization ~87%, kharch ke hisaab se ~55%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '',
       education: '',
@@ -74,7 +82,11 @@ export const himachalRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Himachal Pradesh (Rajya Sabha)', constituencySlug: 'himachal-pradesh-rajya-sabha', party: 'Indian National Congress', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.01 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 1 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '',
       education: 'Graduate',

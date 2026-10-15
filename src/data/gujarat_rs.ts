@@ -17,7 +17,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2023', end: '2029' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹17.15 crore', utilized: '₹17.11 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 163 kaam sifarish, 163 manzoor, 51 poora; kharch ₹3.16 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~18%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '68',
       education: 'Doctorate',
@@ -43,7 +47,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2023', end: '2029' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹17.15 crore', utilized: '₹11.78 crore (sifarish)', utilizationPct: 69,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 143 kaam sifarish, 115 manzoor, 22 poora; kharch ₹2.71 crore. Sifarish ke hisaab se utilization ~69%, kharch ke hisaab se ~16%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '40',
       education: '12th Pass',
@@ -69,7 +77,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2023', end: '2029' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹17.15 crore', utilized: '₹15.46 crore (sifarish)', utilizationPct: 90,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 288 kaam sifarish, 258 manzoor, 138 poora; kharch ₹8.99 crore. Sifarish ke hisaab se utilization ~90%, kharch ke hisaab se ~52%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '65',
       education: '10th Pass',
@@ -95,7 +107,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹4.93 crore (sifarish)', utilizationPct: 34,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 74 kaam sifarish, 44 manzoor, 0 poora; kharch ₹0.47 crore. Sifarish ke hisaab se utilization ~34%, kharch ke hisaab se ~3%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '63',
       education: 'Graduate Professional',
@@ -121,7 +137,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹14.65 crore (sifarish)', utilizationPct: 100,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 124 kaam sifarish, 116 manzoor, 49 poora; kharch ₹3.07 crore. Sifarish ke hisaab se utilization ~100%, kharch ke hisaab se ~21%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '76',
       education: '5th Pass',
@@ -147,7 +167,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹10.88 crore (sifarish)', utilizationPct: 74,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 374 kaam sifarish, 338 manzoor, 75 poora; kharch ₹4.15 crore. Sifarish ke hisaab se utilization ~74%, kharch ke hisaab se ~28%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '48',
       education: 'Post Graduate',
@@ -173,7 +197,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2024', end: '2030' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹14.70 crore', utilized: '₹8.59 crore (sifarish)', utilizationPct: 58,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 166 kaam sifarish, 131 manzoor, 21 poora; kharch ₹2.12 crore. Sifarish ke hisaab se utilization ~58%, kharch ke hisaab se ~14%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '52',
       education: '12th Pass',
@@ -199,7 +227,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '62',
       education: 'Graduate',
@@ -225,7 +257,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '40',
       education: 'Post Graduate',
@@ -277,7 +313,11 @@ export const gujRsNetas: Neta[] = [
       { post: 'MP', constituency: 'Gujarat (Rajya Sabha)', constituencySlug: 'gujarat-rajya-sabha', party: 'Bharatiya Janata Party', start: '2026', end: '2032' },
     ],
     works: [],
-    fund: null,
+    fund: {
+      scheme: 'MPLADS',
+      allocated: '₹4.90 crore', utilized: '₹0.00 crore (sifarish)', utilizationPct: 0,
+      note: 'e-SAKSHI dashboard (15 Oct 2026): 0 kaam sifarish, 0 manzoor, 0 poora; kharch ₹0.00 crore. Sifarish ke hisaab se utilization ~0%, kharch ke hisaab se ~0%. Source: mplads.mospi.gov.in',
+    },
     background: {
       age: '39',
       education: 'Graduate',
