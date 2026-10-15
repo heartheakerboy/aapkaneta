@@ -894,6 +894,28 @@ nagalandWorks['kudecho-khamo'] = [
     note: '11 July 2026 ko MLA Kudecho Khamo ne Phek jile ke Chetheba me naya futsal court ka lokarpan kiya; CEO Nagaland ke polling-station record ke mutabik Chetheba 18-Chozuba Assembly Constituency me aata hai. Shrey ka poora disclosure: fund-srot MLA Local Area Development Programme (LADP) Iconic Project hai, zameen sthaniya bhuswamiyon ne daan ki, MLA ne lokarpan kiya.',
     period: '2023-2028',
   },
+  {
+    title: 'GHS Japan Riba me Samagra Shiksha se bani nayi kakshaon ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/advisor-khamo-inaugurates-the-new-classrooms-at-ghs-japan-riba-chozuba/',
+    date: '2024-03-12',
+    stage: 'lokarpan',
+    note: '12 March 2024 ko MLA aur Advisor Kudecho Khamo ne GHS Japan Riba (Chozuba seat) me Samagra Shiksha Nagaland ke tahat bani atirikt kakshaon ka lokarpan kiya; school ke paanch feeding gaon — Chozuba, Runguzu, Runguzu Nasa, Khusomi aur Chozu Basa — ke neta aur church leadership upasthit the. Shrey ka poora disclosure: kakshaen Samagra Shiksha yojna ke fund se bani hain (thekedaar Kuduve Keyho), MLA ki bhoomika lokarpan-karta tak seemit; chapel aur community hostel samudaay ke yogdaan se ban rahe hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'GPS Phusachodu me naye school bhavan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/advisor-khamo-inaugurates-gps-new-school-building-at-phusachodu-village/',
+    date: '2024-08-03',
+    stage: 'lokarpan',
+    note: '3 August 2024 ko MLA aur Advisor Kudecho Khamo ne Phusachodu gaon me Government Primary School (Main) ke naye bhavan ka lokarpan kiya; gaon council adhyaksh ne school ki pahal ke liye MLA ki saraahna ki. Shrey ka poora disclosure: Khamo ne swayam CM Neiphiu Rio ko bhavan ke liye fund dene ka shrey diya, zameen samudaay ne daan ki, MLA ki bhoomika lokarpan-karta tak seemit; CEO Nagaland ke polling-station record ke mutabik Phusachodu 18-Chozuba Assembly Constituency me aata hai.',
+    period: '2023-2028',
+  },
 ];
 
 nagalandWorks['kuzholuzo-nienu'] = [
