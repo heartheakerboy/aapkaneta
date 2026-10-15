@@ -3,6 +3,7 @@ import Layout from '../layouts/Layout.astro';
 import { badgeMeta, allConstituencies, allNetas } from '../data/all';
 import { districtSlug } from '../data/geo';
 import { profiles } from '../data/profiles';
+import { photos } from '../data/photos';
 import type { Neta, RaiPoint, VerdictLine } from '../data/pilot';
 
 interface Props {
@@ -13,7 +14,22 @@ interface Props {
 }
 
 const { neta, base, stateName, homeLabel } = Astro.props;
-const initials = neta.name.split(' ').map(w => w[0]).slice(0, 2).join('');
+const nameWords = neta.name.split(' ').filter(Boolean);
+const initials = nameWords.length > 1
+  ? (nameWords[0][0] + nameWords[nameWords.length - 1][0]).toUpperCase()
+  : nameWords[0].slice(0, 2).toUpperCase();
+const photo = photos[neta.slug];
+// slug-hash se deterministic avatar-rang (bio generator wali tarz) — photo na hone par
+const avatarHv = [...neta.slug].reduce((a, c) => (a * 31 + c.charCodeAt(0)) >>> 0, 7);
+const avatarPalettes = [
+  'linear-gradient(135deg, #1b2a41, #3d5a80)',
+  'linear-gradient(135deg, #7c2d12, #c2410c)',
+  'linear-gradient(135deg, #14532d, #16a34a)',
+  'linear-gradient(135deg, #4c1d95, #7c3aed)',
+  'linear-gradient(135deg, #831843, #be185d)',
+  'linear-gradient(135deg, #0c4a6e, #0284c7)',
+];
+const avatarBg = avatarPalettes[avatarHv % avatarPalettes.length];
 const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
 
 // ---------- Bio + Janta ki Rai (researched profile ho to woh, warna record se auto) ----------
@@ -204,6 +220,7 @@ const personLd: Record<string, unknown> = {
   url: pageUrl,
   mainEntityOfPage: pageUrl,
 };
+if (photo) personLd.image = `https://aapkaneta.org${photo.file}`;
 const myDistrict = constInfo?.district;
 const districtConsts = myDistrict ? new Set(allConstituencies.filter(c => (c.state ?? 'Maharashtra') === myState && c.district === myDistrict).map(c => c.slug)) : new Set<string>();
 const districtMates = myDistrict
@@ -217,9 +234,13 @@ const districtMates = myDistrict
     .p-top { display: flex; gap: 22px; align-items: center; flex-wrap: wrap; }
     .avatar-big {
       width: 96px; height: 96px; border-radius: 50%;
-      background: linear-gradient(135deg, #1b2a41, #3d5a80); color: #fff;
+      color: #fff;
       display: grid; place-items: center; font-weight: 800; font-size: 34px; flex-shrink: 0;
     }
+    .photo-wrap { flex-shrink: 0; width: 96px; text-align: center; }
+    .photo-big { width: 96px; height: 96px; border-radius: 50%; object-fit: cover; border: 2px solid var(--line); background: var(--paper); }
+    .photo-credit { font-size: 10.5px; color: var(--ink-soft); margin-top: 4px; line-height: 1.35; }
+    .photo-credit a { color: inherit; }
     .p-top h1 { font-size: 32px; line-height: 1.25; }
     .p-sub { color: var(--ink-soft); font-size: 17px; margin-top: 6px; }
     .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-top: 26px; }
@@ -286,7 +307,14 @@ const districtMates = myDistrict
     <div class="wrap">
       <a class="back" href={base ? `${base}/` : '/'}>← {homeLabel}</a>
       <div class="p-top">
-        <div class="avatar-big">{initials}</div>
+        {photo ? (
+          <div class="photo-wrap">
+            <img class="photo-big" src={photo.file} alt={`${neta.name} ki tasveer`} width="96" height="96" loading="lazy" />
+            <div class="photo-credit">Photo: <a href={photo.sourceUrl} rel="noopener">{photo.credit}</a> ({photo.license})</div>
+          </div>
+        ) : (
+          <div class="avatar-big" style={`background:${avatarBg}`}>{initials}</div>
+        )}
         <div>
           <h1>{neta.name}</h1>
           <div class="p-sub">{neta.post} • <a href={`${base}/kshetra/${neta.constituencySlug}/`}>{neta.constituency}</a> • {neta.party} • {stateName}</div>
