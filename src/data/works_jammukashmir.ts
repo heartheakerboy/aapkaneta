@@ -922,3 +922,68 @@ jammuKashmirWorks['altaf-ahmad-wani'] = [
     period: '2024-2029',
   },
 ];
+
+// ---- Kishtwar district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - payare-lal-sharma (IND, Inderwal): 0 entries. REJECT — public outreach camp (sirf baithak); Inderwal doctor-vacancy starred question (sarkari jawab, documented outcome nahi); Rs 80cr electricity infrastructure daawa (GO nahi); pre-budget consultations (maujoodgi); Jitendra Singh ke 110 road projects (Union Minister ka karyakram); Sakeena Itoo ka Chatroo daura (mantri ka karyakram, MLA sirf saath); Dy CM ka Chatroo outreach + Industrial Estate ghoshna (mantri ka, sirf ghoshna); mantri se mulakat rahat-kaam (YouTube-only); "do darjan vikas kaam" two-year report card (sirf apna daawa, koi documented reporting nahi); KNS/Chatro school-upgrade maang (non-whitelist). NEGATIVE: koi nahi (0 cases).
+// - shagun-parihar (BJP, Kishtwar): 2 entries rakhi. REJECT — PMGSY-IV sadak maang (Shivraj Singh Chouhan se mulaqat, sirf maang + ashwasan); Dachhan daura (nirikshan); Raghunath Ji Temple Rs 2.47cr AA (non-whitelist srot + MLA ki koi dastavezi bhoomika nahi); opinion article; Yoga Olympiad maujoodgi; Shakti Raj Parihar (galat vyakti); Pakal Dul/Kiru/Kwar (NHPC/kendra, shrey nahi). NEGATIVE: koi nahi.
+// - padder-nagseni (Sunil Kumar Sharma, BJP, Padder–Nagseni — LoP): 3 entries rakhi. REJECT — blood donation camp (samajik karyakram); 2-din daura (nirikshan); Machail Mata Yatra baithak (non-whitelist + sirf baithak); Dy CM sameeksha baithak maujoodgi; cloudburst site visit (rahat + nirikshan); Chishoti Bailey bridge "inauguration" (BRO ne banaya, MLA sirf maujood); KV temporary accommodation inauguration (non-whitelist); 2018 link road (pre-term); "ex-MLA" 2014-18 charcha (pre-period); pre-budget paramarsh (maang, outcome nahi); LoP-roop ke sarkar-par hamle/bayaan (rajnaitik); 2015-17 mantri-kaleen karyakram (pre-term); RM briefing ki baaki maangein (sadak-chaudikaran/BRO/PMNRF — swikriti documented nahi). NEGATIVE: koi nahi (2008 Kishtwar clashes FIR No. 133/08 pre-term, koi nayi sthiti nahi).
+// Coordinator QA note (2026-10-15): teeno worker fragments kholkar padhe; koi entry drop/flip nahi karna pada — badge/stage-disclosure niyam ke anusaar sahi the. KV Nagseni entry ka badge dawa rakha (sirf MLA ka daawa hi saboot hai — Union Cabinet ki swikriti ka shrey sarkar ka). Chisoti entry accountability/pahal hai (swikriti RM ki, credit capped). Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal-\n; har entry me 8 fields; sabhi dates Oct 2024–Oct 2026 window me; teeno slugs append se pehle absent the — koi overwrite nahi.
+
+jammuKashmirWorks['payare-lal-sharma'] = [];
+
+jammuKashmirWorks['shagun-parihar'] = [
+  {
+    title: 'District Hospital Kishtwar me pehli Phacoemulsification (Phaco) Unit ka lokarpan — Shagun Parihar',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/kishtwar-gets-first-ever-phaco-unit/',
+    date: '2025-06-28',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 28 June 2025 ko MLA Shagun Parihar ne District Hospital Kishtwar me advanced cataract surgery ke liye pehli Phacoemulsification Unit ka vyaktigat lokarpan kiya, DC Pankaj Kumar Sharma ki maujoodgi me — UT ke kisi bhi district hospital me sthapit pehli Phaco unit hai. Credit-transparency: unit ki sthapna KWAR Hydro Electric Power Project ke Environment Management Plan ke tahat Rs 50 lakh ki lagat se hui — fund MLA ke CDF ka nahi hai; MLA ki bhoomika lokarpan tak. Stage ka sach: poora hua kaam ka lokarpan.',
+    period: '2024-2029',
+  },
+  {
+    title: 'GHSS Boys Kishtwar me Kishtwar ke pehle Indoor Shooting Range ka lokarpan — Shagun Parihar',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-inaugurates-kishtwars-first-indoor-shooting-range/',
+    date: '2025-06-19',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 19 June 2025 ko MLA Shagun Parihar ne GHSS Boys Kishtwar me district ke pehle Indoor Shooting Range ka vyaktigat lokarpan kiya. Credit-transparency: suvidha Mechanical and Hospital Sub-Division aur Department of Youth Services and Sports (YS&S) ke sahyog se sthapit hui; article me MLA ke apne fund ya CDF ka ullekh nahi hai. Ussi din YS&S ne U/14 aur U/17 ladke-ladkiyon ke liye inter-zonal district-level tournament bhi launch kiya. Stage ka sach: poora hua kaam ka lokarpan.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['padder-nagseni'] = [
+  {
+    title: 'Padder–Nagseni me KP Galhar se Chingnana tak (Lower aur Upper Bronan hote hue) sadak ka shilanyas — Rs 17 crore pariyojna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/sunil-lays-foundation-stone-of-prestigious-connectivity-project-for-paddar-nagseni/',
+    date: '2025-12-05',
+    note: 'Daily Excelsior (Rising Kashmir aur Greater Kashmir ne bhi report kiya) ki post-event reporting ke anusaar 5 Dec 2025 ko MLA Sunil Kumar Sharma ne apni Padder–Nagseni seat me KP Galhar se Chingnana tak Lower aur Upper Bronan hote hue sadak ka shilanyas kiya — lagbhag Rs 17 crore ki pariyojna, logon ki lambe samay se chali aa rahi maang. Credit-transparency: lekhon me fund ka srot (CDF ya vibhagiya yojana) nahi bataya gaya, isliye fund-srot aur asal shrey ki pushti nahi hai. Stage ka sach: shilanyas — kaam ka poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Nagseni (Kishtwar) me Kendriya Vidyalaya ki sthapana ko Union Cabinet ki manzoori — MLA ne apne prayason ka daawa kiya',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/jammu/lop-sunil-sharma-extends-gratitude-to-pm-modi-others-for-sanctioning-kendriya-vidyalaya-at-nagseni-kishtwar/',
+    date: '2025-10-01',
+    note: 'Greater Kashmir ki reporting ke anusaar 1 Oct 2025 ko Kendriya Vidyalaya Nagseni ki sthapana ko Union Cabinet ne manzoori di. MLA Sunil Kumar Sharma ne faisle ka swagat karte hue PM, Grih Mantri, Shiksha Mantri, Jitendra Singh, LG aur poori Cabinet ka dhanyavad diya aur apne lagataar prayason ko iska shrey diya — lekin ye unka apna daawa hai, vyaktigat yogdaan ki swatantra pushti report me nahi hai, isliye badge dawa hai. Stage ka sach: ghoshna — swikriti ka asal shrey Union Cabinet aur sarkar ka hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chisoti cloudburst ke baad MLA Sunil Kumar Sharma ne Raksha Mantri ke saamne maange uthayi — Bailey bridge, Army Goodwill School aur petrol pump ki on-spot swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://m.greaterkashmir.com/article/lop-sunil-sharma-briefs-defence-minister/426879',
+    date: '2025-08-24',
+    note: '14 Aug 2025 ke Chisoti cloudburst ke baad 24 Aug 2025 ko MLA Sunil Kumar Sharma ne video conference par Raksha Mantri Rajnath Singh ko Padder ki sthiti se avgat karaya aur Chisoti me motorable Bailey bridge, Padder me Army Goodwill School, petrol pump, mobile towers aur rahat sahayata ki maang rakhi — Greater Kashmir ne report kiya. Raksha Mantri ne on-spot Chisoti Bailey bridge ke nirman ki swikriti di, mobile connectivity ke turant kadam ke nirdesh diye, Army Goodwill School manzoor ki aur Padder me petrol pump ke nirdesh diye. Credit-transparency: ye accountability/pahal entry hai — swikriti ka poora shrey Raksha Mantri ka hai, MLA ki bhoomika maange uthane tak (credit capped); sadak-chaudikaran/BRO takeover/PMNRF/rehabilitation package jaise baki maangon ki swikriti report me darj nahi hai.',
+    period: '2024-2029',
+  },
+];
