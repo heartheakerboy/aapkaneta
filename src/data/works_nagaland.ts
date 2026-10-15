@@ -968,3 +968,35 @@ nagalandWorks['s-keoshu-yimchunger'] = [
 // ---- REJECT-LOG: Shamator district batch ----
 // s-keoshu-yimchunger (NPF — 2023 me NDPP ticket par jeete, Oct 2025 vilay se NPF; Shamator-Chessore) — 2 entries. REJECTS (8): Y. Thsankiu Road lokarpan (15 Apr 2023, Nagaland Tribune) — Yimkhiung Tribal Council ne janta-ke-yogdaan se banwayi, MLA sirf udghatan — community-ceremonial reject (Arok Kilem/Muluo Rezu precedent); Sangphur Morung House lokarpan (5 Mar 2024, Nagaland Tribune) — khel ki paramparik morung, sarkari fund ka ullekh nahi — community-ceremonial reject; Kenuwong/Lunthur gaon udghatan (Dec 2022) — pre-karyakaal; 36th CASA football tournament udghatan (Oct 2025) — event; NPF Shamator division office karyakram — party kaam; Independence Day 2024 Shamator — ceremonial; GA Flat Shamator udghatan (DIPR caption-only, tareekh apusht) — weak attribution/date reject; Tening Jadonang hostel (Mar 2025) — Governor ne udghatan kiya, MLA sirf upasthit + seat bahar. Negative: koi nahi (halafname me 0 criminal cases; koi FIR/case reporting nahi mili).
 // Coordinator QA note: batch khud kiya (1 MLA, child agent ki zaroorat nahi); Eastern Mirror article khola-padha, DIPR cross-check kiya; hygiene Python-verified (sirf ASCII + established em-dash style, 0 Devanagari/Meitei Mayek, 0 ₹-symbol, 0 literal-\n; entry objects me 0 comments); marker exactly 1x; slug append se pehle file me absent tha — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
+
+// ---- Tseminyu district batch (researched 2026-10-15) ----
+nagalandWorks['jwenga-seb'] = [
+  {
+    title: 'Thongsunyu gaon me District De-addiction and Rehabilitation Centre ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/jwenga-seb-inaugurates-district-de-addiction-and-rehabilitation-centre-in-thongsunyu-village',
+    date: '2025-07-19',
+    stage: 'lokarpan',
+    note: '19 Jul 2025 ko MLA Ar. Jwenga Seb ne Tseminyu jile ke Thongsunyu gaon me District De-addiction and Rehabilitation Centre ka lokarpan kiya (vishesh atithi ke roop me). Poora disclosure: kendra Kendriya Samajik Nyay evam Adhikarita Mantralay dwara prayojit hai; MLA ki dastavezi bhoomika lokarpan-karta tak seemit hai — nirmaan kendriya yojna ke tehet hua, unki vyaktigat den nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Tseminyu me Superintendent of Police ke naye karyalay bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/sp-office-inaugurated-in-tseminyu',
+    date: '2026-04-17',
+    stage: 'lokarpan',
+    note: '17 Apr 2026 ko MLA Ar. Jwenga Seb ne Tseminyu ke Superintendent of Police ke naye karyalay bhavan ka lokarpan kiya (DPDB Tseminyu adhyaksh ke roop me, vishesh atithi). Poora disclosure: bhavan ka nirmaan Police vibhag ne karaya — udghatan ke avsar par Seb ne swayam nirmaan ke liye CM Neiphiu Rio aur Dy CM (Grih) Y. Patton ka dhanyavaad diya; MLA ki dastavezi bhoomika lokarpan-karta tak seemit hai.',
+    period: '2023-2028',
+  },
+];
+// ---- Tseminyu reject log (J. Seb, 1 MLA; researched 2026-10-15) ----
+// REJECT: 1st Wokha Winter Fiesta udghatan (Dec 2023, Nagaland Tribune) — karyakram Wokha jile me (seat bahar) + aayojan Team Metamorphosis/Paryatan vibhag ka = ceremonial reject.
+// REJECT: Tseminyu DPDB baithak me police-upgrade prastav aur LADP 2026-27 swikriti (Jul 2026, Eastern Mirror) — sansthaagat DPDB-adhyaksh bhoomika; prastav sarkar ko bheja gaya = prastav-matra reject.
+// REJECT: Governor ka Tseminyu daura (Nagaland Post) — upasthiti/sambodhan = ceremonial reject.
+// REJECT: GHSS Tseminyu Lighthouse School Complex ka shilanyas — CM Rio ne virtual rakha (DIPR); MLA ki vyaktigat bhoomika nahi = reject.
+// Negative: koi nahi (2023 halafname me 0 criminal cases; koi FIR/case/adalaati janch ki reporting nahi mili).
