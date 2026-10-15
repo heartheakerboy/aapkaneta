@@ -446,3 +446,18 @@ manipurWorks['kongkham-robindro-singh'] = [];
 // REJECT-LOG (Imphal West district — research 15 Oct 2026)
 // (per-MLA reject logs fragment files me darj hain: ~/workspace/aapkaneta_scratch/imphalwest_<slug>.ts)
 // Coordinator QA note: 13/13 fragments QA pass (script-check, category/badge/period sets, no literal-\n, full assignment re-extract — Imo ki 10 entries me se koi note-truncation nahi). Heikham Dingo 2022-2025 tak Biren cabinet me mantri the (task premise sudhara gaya) — unki 2 entries Feb 2026+ seat-level isliye pass. President's Rule (Feb 2025-Feb 2026) daur ki 3 entries (Joykisan UPHC shilanyas Jan 2026, Loken open-gym Oct 2025, Imo UPHC lokarpan Dec 2025) sirf Sangai Express post-event reporting ke aadhar par caveat-note ke saath rakhi gayi (Kumbi precedent). Keba ki Patsoi road entry stage dawa (badge dawa, poornata ki pushti nahi). Retry leads: manipurtoday.in MLALAD hall (Robindro), Imphal Times Meira Shanglen (Imo), 2022-23 Nishikant projects, X-post 3 shilanyas (Ranjan), AMRUT commissioning khabar (Imo). ECI par Wangoi = 22-Wangoi AC (task me 39 likha tha).
+
+// ---- Jiribam district batch (researched 2026-10-15) ----
+manipurWorks['md-achab-uddin'] = [];
+
+// REJECT-LOG (Jiribam district — research 15 Oct 2026)
+// md-achab-uddin (BJP, Jiribam; 2022 me JD(U) se jeete, Sep 2022 me 5 JD(U) MLAon ke saath BJP me merge; Congress ki disqualification yachika par Speaker ne merger ko 10th Schedule ke tahat sweekar kiya, koi disqualification order nahi hua): 0 entries — profile imaandari se khaali.
+// 1. 2017-2022 karyakaal ke kaam (Kashimpur Junior High School building lokarpan Apr 2018, Lalpani aur Netaji High School library rooms lokarpan Mar 2018, Mahabir Ghat Jakuradhor lokarpan Oct 2018, HSA dwara Jiri-Tipaimukh road repair ki prashansa Feb 2018) — sab pre-term; vartaman karyakaal Mar 2022 se.
+// 2. 50-bedded Jiribam hospital (Ningshingkhul) ka nirikshan, 7 Sep 2022 (e-pao/Sangai) — sirf nirikshan aur asantosh; koi dastavezi prashasnik parinaam nahi → reject.
+// 3. Mar 2025 me Jiri Apunba Lup (JAL) ki press-vijnaapti me MLA par "miscreants ko hathiyar/monetri madad dene" ka aarop (PTI, 21 Mar 2025, khud khola) — NEGATIVE NAHI BANA: koi FIR/police-record/adalaati ya adhikarik janch-karyavahi nahi; JAL ne usi din spasht kiya ki vijnaapti uski "executive bodies" se sambandhit nahi; MLA ne "false and unfortunate" kahkar inkaar kiya aur DGP ko shikayat di. Aarop hinsa se juda hone par bhi adalaati/janch-record se jura nahi hone se niyam anusaar reject.
+// 4. Nov 2024 me India Today NE par CM Biren Singh ke khilaf "sankat me samarthan na dene" ki aalochana — raajnaitik bayan, vikas-kaam nahi → reject.
+// 5. Sep 2026 me MLA ke bhai Sahab Uddin ke voter-list sambandhi social-media bayan par mahila sangathanon ka virodh (e-pao) — parivar ka bayan, MLA ka swayam ka kaam/aarop nahi; koi FIR nahi → reject.
+// 6. Apr 2026 me CM Yumnam Khemchand ki Jiribam yatra (CM ne IRB barracks ka shilanyas, Inter-State Truck Terminal ki ghoshna, hospital nirikshan kiya) — MLA sirf swaagat-aayojan aur dal me maujood the; unki dastavezi bhoomika nahi → reject.
+// 7. Feb 2026 me CM ke saath IDP shivir daura — sirf maujoodgi; raahat-shivir manaviya raahat hai, vikas-kaam nahi → reject.
+// 8. Oct 2024 ki disqualification charcha (Congress ki yachika) — yachika akeli negative nahi; koi adverse order nahi → reject.
+// Coordinator QA note: 4 search rounds (English, dono naam-variants "Ashab"/"Achab"); post-Mar-2022 ka koi satyapit vikas-kaam (lokarpan/shilanyas/swikriti) established media me nahi mila. Karyakaal ka bada hissa (May 2023 se) jaatiya hinsa aur President's Rule (13 Feb 2025 – 4 Feb 2026) se prabhavit raha — coverage ka patla hona swabhavik hai.
