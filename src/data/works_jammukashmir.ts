@@ -273,3 +273,48 @@ jammuKashmirWorks['pirzada-farooq-ahmed-shah'] = [
 jammuKashmirWorks['irfan-hafiz-lone'] = [];
 
 jammuKashmirWorks['javaid-riyaz'] = [];
+
+// ---- Bandipora district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - hilal-akbar-lone (JKNC, Sonawari): 2 entries rakhi (SDM office shilanyas + 1 NEGATIVE: FIR 02/2021 UAPA, bail ke saath pending). 12 REJECT — NTPHC Odina shilanyas (Rs 240.08 lakh, Kashmir Convener/News Zone: non-whitelist); Ajas me motorable bridge (Rs 48.89 lakh) + Tehsil/Niabat office shilanyas (dailysach.in: non-whitelist); irrigation modernisation (sarkari yojna, MLA sirf sawal-karta, mantri ka jawab); review meetings/public darbar; Dy CM tour maujoodgi; "karenge" vaade; Sadnha Tunnel dhanyavad (Karnah seat bahar); 2014 mantri-kaalin items (pre-term).
+// - nizam-uddin-bhat (INC, Bandipora): 1 entry rakhi (DH Bandipora ICU lokarpan, Daily Excelsior). 14 REJECT — HKM College aashwasan (Rs 1 crore girls rest room + Rs 30 lakh CDF bus: agle FY ke vaade, ghoshna star); CDF review meeting (nirikshan); Daily Excelsior "Bandipora remains backward" (purana karyakaal, Coalition-govt era); Chunttimulla-Kudara + C.A. Khan-Gamroo sadak approval (Srinagar Mail: non-whitelist); Rs 2.07 cr PMJVK school projects (KNS: non-whitelist); Gulshan Chowk nirikshan; Veterinary Hospital shilanyas (Mantri Dar ka karyakram, sirf maujoodgi); Forest Park udghatan (mantri ka kaam); Udhyam Yuva Fest (ceremonial, non-whitelist); Dy CM tour maujoodgi; CM ka Rs 100 cr package karyakram (sirf maujoodgi); Consumer Forum aashwasan (maang); Udhyam Yuva Fest JKNS. NEGATIVE: koi nahi (affidavit 0 cases, koi FIR/case reporting nahi).
+// - gurez (JKNC, Gurez ST — Nazir Ahmad Khan Gurezi): KHAALI (0 entries). 15 REJECT — sab review meetings (sansthaagat + MoS bhoomika); "Dy Speaker Gurezi" power-projects coverage purane karyakaal ki (2015-2018); Gurez report card (Mar 2019, pre-term); Kanzalwan Bridge (BRO/Rajnath Singh ka kaam, sena pariyojna); Army tourism prashansa (sena ka kaam, MLA ka nahi); PMGSY forest-clearance (Assembly sawal, sarkari jawab); chopper service (2018, Mehbooba-era); 3-day tour (2013); CM tourism event maujoodgi; Calling Attention Jawdara-Barni road (maang); Minister Sakeena Gurez visit (colleague, maujoodgi); minister-ke-kaam reviews. NOTE (parent ke liye): Daily Excelsior "CM changes portfolios of 2 MoS" (July 24) ke mutabik Gurezi MoS hain (Animal & Sheep Husbandry independent charge + MoS PHE/I&FC/Agriculture/Health & Medical Education) — foundation minister-role cleanup me jodna; vibhagiya faisle seat-kaam nahi. NEGATIVE: koi nahi (affidavit 0 cases, koi FIR/case reporting nahi).
+// Coordinator QA note (2026-10-15): titles/notes Roman-Hinglish only (Python-verified), koi Devanagari/Meitei Mayek/rupee-symbol nahi; har entry me 8-9 fields; dates calendar-valid aur Oct 2024-Oct 2026 window me; sabhi 3 slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['hilal-akbar-lone'] = [
+  {
+    title: 'Sumbal me SDM office ke naye bhavan ka shilanyas MLA Hilal Akbar Lone ne rakha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-sonawari-lays-foundation-for-sdm-office-building-at-sumbal/',
+    date: '2025-12-04',
+    note: 'Rising Kashmir ki post-event reporting ke anusaar Sonawari ke MLA Hilal Akbar Lone ne Sumbal me SDM office ke naye bhavan ka shilanyas rakha; karyakram me SDM Sumbal, Tehsildar Sumbal, Executive Engineer R&B Sumbal aur sthaniya nivaasi maujood the. Credit-transparency: MLA ne swayam swikara ki approval SDM Sumbal aur Executive Engineer R&B ke prayason se mili; nirmaan R&B vibhag karega — MLA ki dastavezi bhoomika shilanyas-karta tak seemit hai. Fund-srot article me stated nahi hai, isliye is entry me fund par koi daawa nahi kiya gaya. Stage: shilanyas hua hai; bhavan-nirmaan abhi poora nahi hua hai. Note: article ki text-copy me saal darj nahi tha; doosre portals (jknewslive, kashmirdotcom) par same-event 2025/12/04 ki dateline aur "Thursday" milakar date 2025-12-04 (Guruvar) maani gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Hilal Akbar Lone ke khilaf Hajin thane me FIR 02/2021 — UAPA samhit kathit bhadkaau bhashan ka mamla; bail mil chuki hai, halafname me pending darj hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/front-page-2/mp-akbar-lones-son-booked-under-uapa-for-bdc-poll-speech/',
+    date: '2021-02-16',
+    note: 'Greater Kashmir ki established reporting ke anusaar Hilal Akbar Lone (us samay MP Akbar Lone ke putra, baad me 2024 me Sonawari se MLA chune gaye) ke khilaf Police Station Hajin me 9 Jan 2021 ko FIR 02/2021 darj hui — IPC ki dhara 153A, 188, 505, Section 125 PR Act aur Section 13 ULA(P) Act (UAPA). Aarop: Dec 2020 me DDC chunavon ke dauraan Gund Jahangeer (Hajin) me ek railiyon me kathit bhadkaau bhashan dena; police ke mutabik bhashan ka video social media par phaila tha. Lone ko Feb 2021 me giraftar kiya gaya aur Mar 2021 me Additional Sessions Judge Baramulla ne bail de di (Greater Kashmir + LiveLaw ki reporting). Stage ka sach: mamla 2024 ke halafname me aaj bhi pending darj hai (1 case), dosh-siddhi nahi hui hai — dosh-siddhi se pehle nirdosh maane jaane ka niyam laagu hota hai. Lone ka jawab: unhone giraftari ko "bina kanooni aadhar" aur mamle ko "jhuta aur behuda" bataya tha (LiveLaw). Yahan sirf FIR/bail/mukadme ki sthiti darj hai, koi dosh nahi lagaya gaya hai.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['nizam-uddin-bhat'] = [
+  {
+    title: 'District Hospital Bandipora me naye Intensive Care Unit (ICU) ka udghatan MLA Nizam Uddin Bhat ne kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/bhat-inaugurates-icu-at-dh-bandipora/',
+    date: '2025-05-05',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar Bandipora ke MLA Nizam Uddin Bhat ne District Hospital Bandipora me naye sthapit Intensive Care Unit (ICU) ka udghatan kiya; Medical Superintendent Dr. Masrat Iqbal Wani bhi saath the aur MLA ne aspatal ke vibhinn hisson ka daura karke sewaon ki gunvatta ka jayaza liya. Credit-transparency: ICU ki sthapna aspatal prashasan ki hai; article me fund-srot (CDF ya swasthya vibhag budget) stated nahi hai, isliye fund par koi daawa nahi kiya gaya — MLA ki dastavezi bhoomika udghatan-karta tak seemit hai. Stage: lokarpan ho chuka hai (poora). Note: article 6 May 2025 ko publish hua ("today" = 5 May 2025), isliye date 2025-05-05 rakhi gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['gurez'] = [];
