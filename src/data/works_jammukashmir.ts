@@ -987,3 +987,130 @@ jammuKashmirWorks['padder-nagseni'] = [
     period: '2024-2029',
   },
 ];
+
+// ---- Doda district batch (researched 2026-10-15) ----
+
+jammuKashmirWorks['daleep-singh'] = [
+  {
+    title: 'Ghurraka Road se Sharora via Sango 7 km PMGSY-IV sadak kaam ka shubharambh — Rs 19.19 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/construction-of-rs-19-19-cr-pmgsy-road-project-inaugurated-at-bhaderwah/',
+    date: '2025-12-22',
+    note: 'Rising Kashmir ki post-event reporting ke anusaar 22 Dec 2025 ko Bhaderwah me PMGSY-IV ke tehet Ghurraka Road se Sharora via Sango 7 km sadak pariyojna ke kaam ka shubharambh MLA Bhadarwah Daleep Singh ne DDC Chairman Doda Dhananter Singh Kotwal ke saath kiya. Kul lagat Rs 1919.04 lakh hai, routine maintenance aur 5 saal baad periodic renewal ka pravdhan bhi hai. Credit-transparency: ye kendra-prayojit PMGSY pariyojna hai, MLA ka apna CDF fund nahi; MLA ki bhoomika kaam-shubharambh tak. Stage ka sach: kaam-shuru — poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Bhaderwah-Chamba SRTC bus sewa dobara shuru — MLA Daleep Singh ne hari jhandi dikhai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/bhaderwah-chamba-srtc-bus-service-resumes/',
+    date: '2026-08-25',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 25 Aug 2026 ko MLA Bhadarwah Daleep Singh ne ruki hui J&K SRTC Bhaderwah-Chamba bus sewa ko prashasan se baat karke phir se shuru karaya aur New Bus Stand Doda se bus ko hari jhandi dikhai — sthaniya logon aur Manimahesh yatriyon ki lambe samay se chali aa rahi maang thi. Credit-transparency: bus sewa J&K SRTC ki hai; MLA ki bhoomika sewa bahal karane aur flag-off tak (credit capped). Stage ka sach: accountability/pahal entry — dastavezi parinaam (sewa phir se chalu) darj hai.',
+    period: '2024-2029',
+  },
+];
+// Doda REJECT-LOG — Daleep Singh (Bhadarwah): 3 entries rakhi. REJECT — Court/Masjid Mohalla black topping (pre-term 2016); 4 PHC + foot bridge (pre-term 2017); Rs 4 lakh CDF fire-relief (pre-term + rahat); "no stone left unturned" (pre-term bayaan); IHAMP shilanyas 2018 (pre-term, mantriyon ne kiya); Maternity Waiting Home SDH (non-whitelist); PMEGP flour mill (non-whitelist + private udyam); Winter Carnival/Lavender Festival (utsav, kaam nahi); Shaheedi Samarak (whitelist-bahar, MPLAD+CDF announcement); Dialysis+X-Ray SDH (DHS ne kiya, MLA nahi); Dangal T20 (khel-karyakram/daan, kaam nahi); Zero Hour maangein (sirf maang); minister review meeting (whitelist-bahar); water crisis protest (MLA ke khilaf virodh, FIR/case nahi); Bangladesh protest/Kailash Yatra (bayaan/maujoodgi); Beopar Mandal (sirf maangein). COORDINATOR QA-DROP: solar light kits vitran (Daily Excelsior ne khud ise "relief" bataya — personal welfare/charity distribution vikas-kaam nahi). NEGATIVE: koi nahi (ADR/India TV ke anusaar zero cases; "Dalip Singh" ACB mamla galat vyakti — ex-Patwari).
+
+jammuKashmirWorks['mehraj-malik'] = [
+  {
+    title: 'PSA ke tahat hirasat aur High Court se rihaayi — Doda MLA Mehraj Malik',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/will-continue-to-fight-for-people-jk-aap-mla-detained-under-psa-released-after-8-months/',
+    date: '2026-04-28',
+    note: 'Daily Excelsior ki reporting ke anusaar Doda ke AAP MLA Mehraj Malik ko Sep 2025 me PSA ke tahat hirasat me liya gaya aur Kathua jail me rakha gaya. Unhone 24 Sep 2025 ko High Court me habeas corpus yachika dayar ki; 27 Apr 2026 ko J&K and Ladakh High Court ne detention aadesh ko kanooni roop se asthir thahraate hue radd kar diya aur 28 Apr 2026 ko ve riha ho gaye. Malik ne kaha ve janta ke mudde uthana jaari rakhenge aur rihaayi ko janta ki jeet bataya; AAP ne ise satya ki jeet kaha. Note: PSA prashasnik hirasat hai — saza ya dosh-siddhi nahi.',
+    period: '2024-2029',
+  },
+];
+// Doda REJECT-LOG — Mehraj Malik (Doda): 1 negative entry rakhi (upar). REJECT — GEM CDF proposals (whitelist-bahar procurement prastav, swikriti nahi); CDF kharch X-post (self-claim, media report nahi); CDF allocation letterpad khabar (non-whitelist + sirf prastav); GIS master plan meeting (non-whitelist + baithak); Kencha health centre vivad+FIR (vivad hai, vikas-kaam nahi); Assembly sawal (non-whitelist + maang); NBW court production (legal matter, kaam nahi); LG mulakat (sirf mulakat); free power/security bayaan (sirf maang); homecoming rally (bayaan); chunav-jeet khabar (election result). POSITIVE: koi nahi — whitelist media me karyakaal ka koi poorn/lokarpan/shilanyas/swikriti kaam report nahi hua (zyada samay PSA hirasat me gaya).
+
+jammuKashmirWorks['doda-west'] = [
+  {
+    title: 'Manjmi se Shinkhly tak 13.4 km sadak ka shilanyas — Rs 34 crore (Dessa Mandal)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/after-decades-of-isolation-dessa-villages-set-to-get-roads/',
+    date: '2025-12-18',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 18 Dec 2025 ko MLA Doda West Shakti Raj Parihar ne Dessa Mandal me Manjmi se Shinkhly tak 13.4 km sadak ka shilanyas kiya — azadi ke baad se bina-sadak wale gaon judege. Credit-transparency: ye PMGSY Phase-IV ki kendra-prayojit pariyojna hai (anumaanit lagat Rs 34 crore); MLA ki pusht bhoomika shilanyas karyakram tak. Stage ka sach: shilanyas — poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Manjmi se Laloor tak 6.5 km sadak ka shilanyas — Rs 9 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/after-decades-of-isolation-dessa-villages-set-to-get-roads/',
+    date: '2025-12-18',
+    note: 'Usi 18 Dec 2025 ke karyakram me MLA Doda West Shakti Raj Parihar ne Manjmi se Laloor tak 6.5 km sadak ka shilanyas bhi kiya. Credit-transparency: ye PMGSY Phase-IV ki kendra-prayojit pariyojna hai (lagat Rs 9 crore); MLA ki bhoomika shilanyas tak. Stage ka sach: shilanyas — poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Assar-Dhansal se Patta (via Haliya Hirni) 15.3 km sadak ka shilanyas — Rs 73 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/shakti-parihar-lays-foundation-stone-of-rs-73-cr-assar-dhansal-to-patta-road/',
+    date: '2025-12-21',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 21 Dec 2025 ko MLA Doda West Shakti Raj Parihar ne Assar-Dhansal se Patta via Haliya Hirni tak 15.3 km sadak ka shilanyas kiya — anumaanit lagat Rs 73 crore. Credit-transparency: report me fund ka srot (CDF ya vibhagiya yojna) nahi bataya gaya, isliye shrey ki pushti nahi hai; bhoomika shilanyas tak. Stage ka sach: shilanyas — poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Bari se Sewat (via Kamlari) PMGSY sadak ka shilanyas — Rs 21 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/shakti-raj-parihar-lays-foundation-stone-for-rs-21-cr-pmgsy-road-project/',
+    date: '2026-01-06',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 6 Jan 2026 ko MLA Doda West Shakti Raj Parihar ne Marmat Mandal ke Bari gaon me Bari se Sewat via Kamlari PMGSY sadak ka shilanyas kiya — swikrit lagat Rs 21 crore. Credit-transparency: ye kendra-prayojit PMGSY yojna hai; MLA ki bhoomika shilanyas/event tak. Stage ka sach: shilanyas — poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Suli se Zadahan 5.5 km sadak ka lokarpan — Rs 16.5 crore (Saraz Mandal)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-shakti-parihar-inaugurates-road-worth-rs-16-5-crore-at-saraz-mandal/',
+    date: '2026-01-08',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 8 Jan 2026 ko Saraz Mandal me 5.5 km lambi Suli-Zadahan sadak ka lokarpan MLA Doda West Shakti Raj Parihar ne DDC chairman aur vice-chairman ki maujoodgi me kiya — swikrit lagat Rs 16.5 crore. Credit-transparency: ye PMGSY pariyojna hai; bhoomika lokarpan tak. Stage ka sach: poora hua kaam ka lokarpan.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chilli-Dhandal se Barchan-Harilag 7.7 km sadak kaam ka shubharambh (udghatan) — Rs 23.6 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/shakti-parihar-lays-foundation-of-chilli-dhandal-to-barchan-harilag-road/',
+    date: '2026-09-03',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 3 Sep 2026 ko MLA Doda West Shakti Raj Parihar ne Zangla Morh par Chilli-Dhandal se Barchan-Harilag tak 7.7 km sadak ka udghatan (kaam-shubharambh) kiya — PMGSY ke tahat swikrit pariyojna, anumaanit lagat Rs 23.6 crore; Chilli, Dhandal, Barchan, Harilag ke logon ki lambe arse ki maang thi. Credit-transparency: ye kendra-prayojit PMGSY pariyojna hai; bhoomika udghatan tak. Stage ka sach: kaam-shuru — poora hua sadak ka lokarpan nahi, poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Paryote se Pull Doda tak purani NH ke 9 km hisse par blacktopping kaam ka shubharambh — Rs 14 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/parihar-inaugurates-rs-14-crore-blacktopping-work-in-doda/',
+    date: '2026-09-14',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 14 Sep 2026 ko MLA Doda West Shakti Raj Parihar ne Paryote se Pull Doda tak purani National Highway ke 9 km hisse par blacktopping kaam ka shubharambh (udghatan) kiya — swikrit lagat Rs 14 crore. Stage ka sach: kaam-shuru — blacktopping ka poora hona abhi darj nahi, udghatan kaam-shubharambh ka hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'KM 6th Gangalwar se Sarsi Part-I se Gigrota 5 km sadak ka shilanyas — Rs 13.77 crore (Khellani)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/shakti-raj-parihar-lays-foundation-stone-for-rs-13-77-cr-road-project-in-khellani/',
+    date: '2026-10-08',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 8 Oct 2026 ko Khellani block me MLA Doda West Shakti Raj Parihar ne KM 6th Gangalwar se Sarsi Part-I se Gigrota tak 5 km sadak ka shilanyas kiya — PMGSY-IV Batch-I ki pariyojna, swikrit lagat Rs 13.77 crore. Credit-transparency: ye kendra-prayojit PMGSY pariyojna hai; bhoomika shilanyas tak. Stage ka sach: shilanyas — poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+];
+// Doda REJECT-LOG — Shakti Raj Parihar (`doda-west`, Doda West): 8 entries rakhi. REJECT — NH-Seja link road shilanyas 2015 (pre-term); VB-G RAM G press conference (policy bayaan, kaam nahi); Town Hall mega awareness programme (whitelist-bahar + sirf maujoodgi); DC Doda reservoir (whitelist-bahar, kaam DC ka); Thatri-Kahaljugasar highway (MP Jitendra Singh ka project, MLA bhoomika nahi); Dinore–Chamote NABARD road (whitelist-bahar scrape); YouTube Rs 72cr Majmi roads (YouTube-only; sahi aankde Daily Excelsior me entries me); Suli-Zadan jhagda (whitelist-bahar, MLA par FIR/case nahi — negative nahi); election/working committee coverage (baithak, kaam nahi); jan-sunwai (sirf mulaqat). COORDINATOR QA: Chilli-Dhandal aur Paryote entries ka stage sudhara — dono "kaam ka udghatan/shubharambh" the, poore hue kaam ka lokarpan nahi. NEGATIVE: koi nahi (FIR/case/janch ki koi established reporting nahi).
+
+// Coordinator QA note (2026-10-15): teeno worker fragments padhe aur 3 key sources (Malik PSA Daily Excelsior article, solar-kit article, Paryote blacktopping article) khud kholkar verify kiye. Decisions: (1) solar-kit entry DROP — article khud ise "relief" batata hai, fund-srot darj nahi: personal welfare/charity distribution vikas-kaam nahi; (2) worker ka "Daleep Singh Parihar" suffix hataya — foundation record me naam sirf 'Daleep Singh' hai, namesake bhram se bachne ke liye; (3) 2 Parihar entries ka stage lokarpan se kaam-shuru me sudhara; (4) Malik negative ki teeno sharten (PSA order sthiti + habeas yachika + jawab) Daily Excelsior me verify — entry me koi stage field nahi. Hygiene: 0 Devanagari, 0 rupee-symbol, entry strings me koi escaped-newline nahi; har entry me 8 fields (negative me 7, stage ke bina); sabhi dates Oct 2024–Oct 2026 window me; marker exactly 1x; teeno slugs append se pehle absent the — koi overwrite nahi.
+
