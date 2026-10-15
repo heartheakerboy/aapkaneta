@@ -44,3 +44,17 @@ manipurWorks['sanasam-premchandra-singh'] = [
 // thongam-shanti-singh (NPP, Moirang AC) — KHAALI. Sudhaar: inke paas koi mantri-portfolio nahi tha (Thongam Biswajit Singh se confusion). Moirang me College Fagathansi Mission CM-ne kiya, INA events = commemorative, YouTube-only UYDA, handloom village FB self-post. Moirang IDP relief-fund Congress-aarop (Sep 2025, PTI) = koi FIR/janch/case nahi, relief-category — negative nahi.
 // tongbram-robindro-singh (BJP, Thanga AC) — KHAALI. Relief-camp gas-stove vitaran = raahat (excluded). UNACCO school speech = bahar + maujoodgi. Thanga landslide = sirf nirikshan. 2011 ephedrine aarop = pre-tenure, no case-status. 4 affidavit cases = bina reporting aggregate — negative nahi.
 // sanasam-premchandra-singh (BJP, Kumbi AC) — 2 entries. CM-event me maujoodgi, Seva Sankalp, election petition (chunav-yachika akeli negative nahi) sab reject.
+// ---- Chandel district batch (researched 2026-10-15) ----
+manipurWorks['ss-olish'] = [];
+
+// REJECT-LOG (Chandel district — research 15 Oct 2026)
+// Ss. Olish (BJP, 41-Chandel ST) — 0 entries; profile imaandari se khaali.
+// - CNPO ne Naga Heritage monolith ka anavaran (Dec 2024, Ukhrul Times): community-samudayik sammelan jahan MLA ne sirf anavaran/mukhya-atithi ki bhoomika nibhayi — ceremonial maujoodgi, koi sarkari kaam nahi. REJECT.
+// - Anal feature film 'Kainkhol' release (Ukhrul Times, Dec 2024): MLA ne film release ki — film production samudayik hai, sarkari suvidha ka lokarpan nahi. REJECT.
+// - Chothe Students' Union conference cum sports meet (manipur-update, Feb 2026): mukhya-atithi ke roop me upasthiti + bhashan — sirf maujoodgi. REJECT.
+// - Chandel District Olympic Association ki 1st executive meeting (Ukhrul Times, 2022): MLA association ki adhyaksh ke roop me mili — association ka internal meeting, vikas-kaam nahi. REJECT.
+// - River Ranching programme, Chakpi river (KRC Times): Fisheries Department ka PMMSY scheme ke tahat vibhagiya karyakram; MLA ne supervision me upasthiti darj ki aur adhikariyon ko salah di — unki vyaktigat pahal/kaam nahi, department-form maujoodgi. REJECT.
+// - Seva Jyoti Yatra flag-off, Chandel (Imphal Times/e-pao, Oct 2026): party-abhiyan (Seva Sankalp Abhiyan 2026) ki rally ko jhandi — party karyakram, vikas-kaam nahi. REJECT.
+// - FELICITATION (Ukhrul Times, 2022) — chunav-jeet par samman samaroh. REJECT.
+// Khaas dhyaan: 13 Feb 2025 – 4 Feb 2026 tak Manipur me President's Rule raha, is daur me MLAon ki karyakari bhoomika seemit thi; us samay ke daawon ke liye pakka dastavezi srot chahiye — aisa kuch nahi mila. ADC Chandel ke kaam bhi MLA par attribute nahi kiye gaye. Chunav-yachika ya FIR/negative ki koi credible khabar nahi mili.
+// Coordinator QA note: 12 independent searches (imphal free press / sangai express / ukhrultimes / nenow angles); har srot ka headline khola aur padha gaya; koi post-event developmental reporting Ss. Olish ke naam par nahi mili. Profile khaali rehna sahi hai.
