@@ -98,7 +98,6 @@ jammuKashmirWorks['mir-mohammad-fayaz'] = [
 
 // District batch 3: Bandipora — pending
 // District batch 4: Ganderbal — pending
-// District batch 5: Srinagar — pending
 // District batch 6: Budgam — pending
 // District batch 7: Pulwama — pending
 // District batch 8: Shopian — pending
@@ -390,3 +389,257 @@ jammuKashmirWorks['omar-abdullah'] = [
     period: '2024-2029',
   },
 ];
+
+// ---- Srinagar district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - salman-sagar (JKNC, Hazratbal — Salman Sagar): 2 entries rakhi (Rs 1.35cr Hazratbal shilanyas, Rs 1.20cr Jenab Sahib Soura chashma punaruddhar). 12 REJECT — Khanyar seat ka kaam (galat seat), non-whitelist, sirf maujoodgi/baithak, pita Ali Sagar ka kaam, political speculation. NEGATIVE: nahi (affidavit 0 cases).
+// - ali-mohammad-sagar (JKNC, Khanyar — Ali Mohammad Sagar): 4 entries rakhi (Rs 2.78cr package lokarpan, Rs 1.5cr 6 kaam shilanyas, GHSS Nishat Rs 1.78cr block lokarpan, Rs 6cr paani ghoshna [dawa]). 11 REJECT — non-whitelist, sirf nirikshan, pre-term, bete Salman ke kaam alag rakhe. NEGATIVE: nahi.
+// - shamim-firdous (JKNC, Habba Kadal — Shamim Firdous): 3 entries rakhi (HSS bhawan lokarpan, Rs 70 lakh water pipeline lokarpan, 2 drainage shilanyas). COORDINATOR QA-DROP: Rs 13.70 lakh fire-affected families CDF vitran entry hata di — relief work vikas-kaam nahi hai (niyam). 13 REJECT — non-whitelist, ghoshna-matara, sirf nirikshan, pre-term case. NEGATIVE: nahi.
+// - sheikh-ahsan-ahmed (JKNC, Lal Chowk — Sheikh Ahsan Ahmed 'Ahsan Pardesi'): 6 entries rakhi (Rs 2.45cr indoor stadium shilanyas, Khonmoh PHC ghoshna [dawa], Tulsi Bagh tank lokarpan, Ayesha Colony water supply kaam-shuru, 4 health centers lokarpan, Padshahi Bagh road ghoshna [dawa]). 14 REJECT — non-whitelist, CM-karyakram maujoodgi, pre-term, sarkari bayan, doosri seat ka kaam. NEGATIVE: nahi.
+// - mushtaq-guroo (JKNC, Chanapora — Mushtaq Guroo): KHAALI (0). 14 REJECT — non-whitelist (Twitter/YouTube daave, KNT, Kashmir Reader), sirf baithak/nirikshan, maang, CM karyakram maujoodgi, pre-term. NEGATIVE: nahi (affidavit 0 cases).
+// - tanvir-sadiq (JKNC, Zadibal — Tanvir Sadiq): 7 entries rakhi (Rs 76 lakh drainage shilanyas, Rs 21.52 lakh landmark shilanyas, 2 MGD filter lokarpan, Rs 3.45cr CDF release swikriti, JLNM hospital EEG/oncology lokarpan [health minister ke saath, disclosed], calligraphic landmark lokarpan, Rs 82.97 lakh chowk shilanyas). 9 REJECT — non-whitelist, karyakram-udghatan, ghoshna, sirf nirikshan. NEGATIVE: nahi.
+// - mubarik-gul (JKNC, Eidgah — Mubarik Gul): KHAALI (0). 9 REJECT — CDF kaam sirf non-whitelist me, sirf maujoodgi, pre-term, sarkari jawab. NEGATIVE: nahi (CDF misuse aarop non-whitelist complaint, FIR nahi — entry nahi).
+// - tariq-hameed-karra (INC, Central Shalteng — Tariq Hameed Karra): KHAALI (0). 10 REJECT — sirf nirikshan/daura, non-whitelist, maang, CM karyakram maujoodgi, pre-term LG scheme; party-bhoomika bayan seat-kaam nahi. Beigh Mohalla drainage YouTube-only (live-browser verify ka lead). NEGATIVE: nahi.
+// Coordinator QA note (2026-10-15): sabhi 8 worker fragments kholkar padhe; 1 entry drop (Shamim fire-relief); titles/notes Roman-Hinglish only, koi Devanagari/rupee-symbol nahi; har entry me 8 fields; dates Oct 2024-Oct 2026 window me; sabhi slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['salman-sagar'] = [
+  {
+    title: 'MLA Salman Sagar ne Hazratbal me Rs 1.35 crore ke vikas-kamon ka shilanyas kiya, jinme Ahmednagar kabristan ka vikas, Buchpora drainage aur Shah Mohalla ki sadak shamil hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/hazratbal-gets-1-35-cr-development-push-12526011',
+    date: '2026-09-12',
+    note: 'Stage: shilanyas — 12 Sep 2026 ko Hazratbal MLA Salman Sagar ne seat ke alag-alag ilakon me Rs 1.35 crore ke karyon ke shilanyas rakhe, jinme Old Ahmednagar kabristan ka vikas, Firdous Colony (Buchpora) me drainage network ka sudhar aur Ahmednagar ke Shah Mohalla stretch ki macadamisation shamil hai. Rising Kashmir ki post-event reporting ke mutabik ye MLA ka apna karyakram tha, kisi mantri ya mantri-samiti ke karyakram ka hissa nahi. Fund-srot article me spasht nahi bataya gaya (CDF ya CAPEX ka zikr nahi) aur executing agency ka naam bhi nahi. Caveat: ye ghoshna/shilanyas stage hai — in karyon ke poora hone ya prashasnik swikriti ke baare me alag pushti nahi mili.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Anchar me Rs 1.20 crore se Jenab Sahib Soura chashme ke punaruddhar ka shilanyas rakha gaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/salman-sagar-lays-foundation-stone-for-rs-120-cr-restoration-of-jenab-sahib-soura-in-anchar-12629540',
+    date: '2026-10-06',
+    note: 'Stage: shilanyas — 6 Oct 2026 ko Hazratbal MLA Salman Sagar ne Anchar sthit aitihasik Jenab Sahib Soura (chashma) ki restoration aur preservation pariyojna ka shilanyas rakha. Rising Kashmir ke anusar pariyojna Rs 1.20 crore ki hai aur ise R&B Soura execute kar raha hai. Anchar parisiman-2022 ke anusar Hazratbal vidhansabha kshetra ka hissa hai, isliye seat ke andar ka kaam hai. Fund-srot article me spasht nahi. Credit-disclosure: karyakram MLA ne aayojit kiya lekin nishpadan vibhag (R&B) ke haath me hai — MLA ka shrey shilanyas/karyakram tak seemit. Caveat: ye shilanyas stage hai — poornata ki pushti abhi alag reporting se nahi mili.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['ali-mohammad-sagar'] = [
+  {
+    title: 'Khanyar me 13 Oct 2026 ko Rs 2.78 crore ke vikas-kaamon ka lokarpan: Dalgate-Brein-Nishat stretch par sadak-upgradation, puliya, nali aur footpath; Theed me NTPHC ka naya block aur Theed-Mulnar-Harwan me pul-sadak kaam shamil',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ali-mohd-sagar-inaugurates-development-works-worth-rs-2-78-crore-in-khanyar/',
+    date: '2026-10-13',
+    note: 'Daily Excelsior ki report ke anusaar Ali Mohammad Sagar ne 13 Oct 2026 ko apni Khanyar seat me Rs 2.78 crore ke package ka lokarpan kiya; isme Dalgate-Brein-Nishat stretch par lagbhag Rs 1.68 crore ki sadak-upgradation, puliyon-nalion ka nirman aur footpath, Theed me Rs 40 lakh ka NTPHC ka naya block aur Theed-Mulnar-Harwan me Rs 70 lakh ke pul-sadak kaam shamil hain. Fund-srot article me darj nahi hai (CDF ya capex ka ullekh nahi), isliye MLA-fund ka dawa nahi kiya ja sakta. Caveat: article me NTPHC block ko nirmanadhin bataya gaya hai, matlab poora package us din poora nahi hua tha; aur Rising Kashmir ki ek report ne isi package ko 14 Oct ko shilanyas ke roop me chhapa tha, isliye stage ko lokarpan/dedication mana gaya hai, poornata ka pakka saboot nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Dalgate me 3 Oct 2026 ko Rs 1.5 crore ke chhah vikas-kaamon ka shilanyas: do lane, footpath, Dal lakefront ka sudhaar aur ek puliya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/sagar-lays-foundation-of-six-development-projects-worth-rs-1-5-cr/',
+    date: '2026-10-03',
+    note: 'Daily Excelsior ke anusaar Sagar ne 3 Oct 2026 ko Dalgate (Khanyar seat) me chhah kaamon ka shilanyas kiya: do 350-feet lane, footpath, Dal lakefront ka renovation aur ek puliya, lagat lagbhag Rs 1.5 crore; stage shilanyas hai, kaam poora hone ka dawa nahi. Fund-srot article me darj nahi hai, isliye CDF ka dawa nahi. Karyakram Mamta Road par jan-sampark programme ke dauran hua; usi khabar ke party-political hisson ko entry se bahar rakha gaya hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'GHSS Nishat me Rs 1.78 crore ke naye school block ka lokarpan (11 Mar 2026) aur smart-classroom ke liye Rs 10 lakh ki ghoshna',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/sagar-inaugurates-rs-1-78-cr-worth-new-school-block-at-ghss-nishat/',
+    date: '2026-03-11',
+    note: 'Greater Kashmir ke anusaar Sagar ne 11 Mar 2026 (Budhwar) ko GHSS Nishat me Rs 1.78 crore se bane naye school block ka lokarpan kiya; stage lokarpan hai. Usi avsar par smart-classroom ke upkaran aur student utility store ke liye Rs 10 lakh ki atirikt ghoshna hui — ye ghoshna hai, swikriti ka GO ya fund-srot article me darj nahi, isliye us hisse ko pakki swikriti nahi mana gaya. Caveat: delimitation ke anusaar Nishat Khanyar seat ka hissa hai (Harwan/Gupt Ganga/Shalimar PCs), aur Hazratbal ke MLA Salman Ali Sagar karyakram me upasthit the lekin lokarpan Khanyar ke MLA ne kiya, isliye ye entry Salman Sagar ke kaam se alag hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Dalgate jan-sampark me Rs 6 crore ki paani-pariyojnaon ki ghoshna (24 Aug 2026): Nishat water treatment 3.5 crore, Dalgate reservoir 1.5 crore',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/sagar-announces-rs-6-crore-water-projects-12429277',
+    date: '2026-08-24',
+    note: 'Rising Kashmir ki report sirf NC ki party-statement par aadharit hai, isliye badge dawa rakha gaya hai; stage ghoshna hai, GO ya swikriti ka saboot nahi. Ghoshna me Rs 3.5 crore ki Nishat water treatment pariyojna (Dec 2026 tak poora karne ka lakshya, 3.5 lakh logon ko fayda), Rs 1.5 crore ka Dalgate me naya water reservoir aur Buchwara me UPHC centre ka kaam saal ke ant tak shuru karne ki baat shamil hai. Fund-srot (CDF, capex ya sarkari yojna) article me darj nahi hai.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['shamim-firdous'] = [
+  {
+    title: 'Zaindar Mohalla Habba Kadal me Rs 1.4 crore ki lagat se bana Higher Secondary School bhawan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/shameema-firdous-inaugurates-hss-in-habba-kadal/',
+    date: '2025-08-21',
+    note: 'Post-event reporting ke mutabik school bhawan ka kaam poora hokar lokarpan ho chuka hai, isliye stage ka sach poora hua kaam hai; ek dashak se atka kaam unke pichle karyakaalon ke prabhav se bhi juda ho sakta hai isliye stage sach ke saath yah caveat darj hai ki karyakaal Oct 2024 se poora hone ka sara shreya MLA ko nahi; article me fund-srot spasht nahi diya gaya isliye CDF ya sarkari srot ka dawa nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Gund Hailmar Gadood Bagh aur Wazir Kocha me Rs 70 lakh ki drinking water pipeline ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/shameema-firdous-felicitates-students-inaugurates-rs-70-lakh-water-pipeline-supply-project-12009852',
+    date: '2026-06-06',
+    note: 'Rising Kashmir aur Greater Kashmir dono ki post-event reporting ke mutabik pipeline ka kaam poora hokar lokarpan ho chuka hai, isliye stage ka sach poora hua kaam hai; project me Rangil se teeno bastiyon tak potable pani pahunchta hai aur yah ilake ki lambe samay ki maang thi; article me fund-srot spasht nahi diya gaya isliye CDF ya sarkari srot ka dawa nahi, credit ka sara shreya ek party press note se aaya hai jisme MLA ke prayason ka jikr hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Khanqah-e-Moula se Zaina Kadal aur Gawkadal se Basant Bagh tak do drainage pariyojnaon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-firdous-launches-drainage-projects-visits-khanqah-e-moula/',
+    date: '2025-12-02',
+    note: 'Rising Kashmir ki post-event reporting ke mutabik dono drainage pariyojnaon ki buniyad patthar rakh di gayi hai, isliye stage ka sach shilanyas hai; pehli pariyojna Khanqah-e-Moula se Zaina Kadal tak lagbhag Rs 47 lakh ki swikrit hai aur doosri Gawkadal se Basant Bagh tak lagbhag Rs 49 lakh ki, purane shahar me waterlogging ki samasya ko door karne ke liye; fund-srot article me spasht nahi hai aur kaam poora hone ki abhi koi report nahi mili.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['sheikh-ahsan-ahmed'] = [
+  {
+    title: 'MLA Ahsan Pardesi ne Lasjan me Rs 2.45 crore ke indoor stadium ka shilanyas kiya (15 Feb 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/sports/nc-mla-ahsan-pardesi-lays-foundation-of-rs-2-45-cr-indoor-stadium-in-lasjan/',
+    date: '2026-02-15',
+    note: 'Stage ka sach: shilanyas — MLA ne khud buniyad pathar rakha, jo Greater Kashmir me post-event report hua. Fund-srot article me spasht nahi bataya gaya (MLA ne CM Omar Abdullah ka shukriya ada kiya, CDF ya vibhag ka zikr nahi). Credit disclosure: ye unka chunavi wada tha, lekin khabar MLA ke apne press-bayaan par adharit hai. Caveat: shilanyas ke baad kaam shuru hua ya poora hua, iski koi follow-up report nahi mili; usi bayan me constituency ke do aur sports grounds ke shilanyas ka bhi zikr hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ahsan Pardesi ne Khonmoh me naye PHC bhawan ki swikriti ki ghoshna ki (24 Jun 2026)',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/politics/ahsan-pardesi-announces-approval-of-new-phc-building-in-khonmoh-12070027',
+    date: '2026-06-24',
+    note: 'Stage ka sach: ghoshna — swikriti ka dawa sirf MLA ke apne bayaan par adharit hai; koi GO/adesh ya swasthya vibhag ki swatantra pushti nahi mili, isliye badge dawa rakha gaya hai. Fund-srot aur lagat ka zikr nahi (KNS me Rs 3500.36 crore ki lagat chhapi jo spasht typo hai, isliye lagat note me shamil nahi ki gayi). Credit disclosure: ye MLA ka chunavi wada tha aur unhone CM aur swasthya mantri ka shukriya kiya. Caveat: shilanyas ya nirmaan ki koi khabar ab tak nahi mili.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ahsan Pardesi ne Tulsi Bagh me Rs 178.16 lakh ke overhead water tank ka lokarpan kiya (24 Mar 2026)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/shameema-firdous-ahsan-pardesi-inaugurate-development-projects-in-srinagar/',
+    date: '2026-03-24',
+    note: 'Stage ka sach: poora hua kaam ka lokarpan — 70,000 gallon kshamta ka tank taiyaar hokar chalu hua, lagbhag 2,000 nivaasiyon ko peene ka paani milega. Fund-srot article me spasht nahi (Jal Shakti vibhag ki pariyojna lagti hai; CDF ka zikr nahi). Credit disclosure: pariyojna 2024 me shuru hui thi jabki MLA Oct 2024 me chune gaye — nirmaan ki shuruaat unke karyakaal se pehle ki hai, unki bhoomika lokarpan tak seemit dikhti hai. Caveat: lagat ka aankda press-bayaan se aaya hai, vibhagiya audit nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ahsan Pardesi ne Ayesha Colony, Padshahi Bagh me Rs 57.87 lakh ki water supply pariyojna ka kaam shuru karwaya (30 Sep 2026)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/strengthening-basic-amenities-addressing-genuine-public-concerns-a-priority-mla-ahsan-pardesi-12611126',
+    date: '2026-09-30',
+    note: 'Stage ka sach: kaam ki shuruaat — MLA ne Jal Shakti vibhag ke SE aur EE ki maujoodgi me main, sub-main aur distribution system ki laying/fitting ka kaam kick-start kiya, jo ilake ki lambi maang thi. Fund-srot article me spasht nahi bataya gaya (CDF ka zikr nahi). Credit disclosure: kaam MLA ki pehal par shuru hua aur sthaaniya nivaasiyon ne MLA aur vibhag dono ka aabhaar jataaya. Caveat: kaam ki purnata ki koi follow-up khabar nahi mili; khabar MLA ke bayaan par adharit hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ahsan Pardesi ne Lal Chowk seat ke chaar ilakon me naye health centers ka lokarpan kiya (2 May 2025)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'http://greaterkashmir.com/kashmir/mla-inaugurates-health-centers-in-lal-chowk-constituency/',
+    date: '2025-05-02',
+    note: 'Stage ka sach: lokarpan — MLA ne Shivpora, Zaffron Colony, Padshahi Bagh aur Aramwari me health centers ka udghatan kiya; Director Health Services Kashmir aur CMO Srinagar maujood the, jo NHM/swasthya vibhag ke sahyog ki taraf ishara karta hai. Fund-srot article me spasht nahi. Credit disclosure: khabar press release par adharit hai; ye naye bhavan hain ya maujooda suvidhaon ka naya roop — article spasht nahi karta. Caveat: centeron ke chalu rehne ya patient flow ki koi swatantra pushti nahi mili.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ahsan Pardesi ne Padshahi Bagh road ke Rs 2.78 crore ke revised estimate ki swikriti ki ghoshna ki (30 Oct 2025)',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-pardesi-thanks-cm-for-approving-padshahi-bagh-road-project/',
+    date: '2025-10-30',
+    note: 'Stage ka sach: ghoshna — swikriti CM Omar Abdullah ne di (MLA ka dawa), lekin koi GO/adesh ya PWD/R&B vibhag ki swatantra pushti khabar me nahi hai, isliye badge dawa rakha gaya hai. Fund-srot article me spasht nahi (revised estimate Rs 2.78 crore ka aankda bhi MLA ke bayaan se aaya). Credit disclosure: MLA ne khud is ghoshna ka shreya CM ke hastakshep ko diya aur khabar MLA ke press-bayaan par adharit hai. Caveat: kaam shuru hone ya tender ki koi khabar nahi mili.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['mushtaq-guroo'] = [];
+
+jammuKashmirWorks['tanvir-sadiq'] = [
+  {
+    title: 'Tanvir Sadiq ne Alamgiri Bazar me Rs 76 lakh ke drainage network ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-tanvir-lays-foundation-stone-for-major-drainage-project-in-zadibal/',
+    date: '2025-11-18',
+    note: 'Shilanyas ki stage hai — drainage network ki buniyaad rakhi gayi, poora hone ki abhi koi report nahi hai. Karyakram me UEED ke Executive Engineer aur AEE maujood the, isliye execution UEED ke zariye hone ki sambhavna hai, lekin fund-srot article me bataya nahi gaya. Credit-disclosure: isi article ke anusar ye ek hafte me doosra aisa project tha (Vicharnag me bhi Rs 76 lakh ka), lekin Vicharnag ke liye alag se whitelisted post-event report nahi mili isliye wo alag entry nahi banayi gayi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Tanvir Sadiq ne Alamgari Bazar me Rs 21.52 lakh ke illuminated landmark project ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/tanvir-sadiq-lays-foundation-stone-for-rs-21-52-lakh-illuminated-landmark-at-alamgari-bazar/',
+    date: '2025-12-04',
+    note: 'Shilanyas ki stage hai — project swikrit (sanctioned) aur buniyaad rakhi gayi, abhi poora hone ki report nahi hai. Article me fund ka naam CDF/R&B vagera nahi bataya, sirf "sanctioned at Rs 21.52 lakh" likha hai, isliye fund-srot ki pushti nahi ki ja sakti. Credit-disclosure: MLA ne khud shilanyas kiya aur ye unki peshkash ke roop me report hua. Article press release par aadharit hai, isliye shabdawali MLA office ki ho sakti hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Tanvir Sadiq ne Zadibal ke Pokhribal Badamwari me 2 MGD advanced activated carbon filter ka udghatan kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-zadibal-inaugurates-advanced-activated-carbon-filter/',
+    date: '2025-12-30',
+    note: 'Poora hua kaam (commissioning) + lokarpan — filter chalu kar diya gaya aur udghatan ho gaya. Kaam Public Health Engineering (PHE) vibhag ne poora kiya (MLA ne vibhag ki tareef ki), isliye ye sarkari pariyojna hai, MLA ke CDF ka daawa article me nahi hai. Credit-disclosure: udghatan MLA ne kiya. Badamwari ka ye filter pehla aur iklauta 2 MGD advanced activated carbon filter bataya gaya hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Tanvir Sadiq ne Zadibal ke vikas kaamon ke liye Rs 3.45 crore CDF ki pehli kist jari ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/tanvir-sadiq-releases-rs-3-45-cr-cdf-for-zadibal-works/',
+    date: '2026-05-24',
+    note: 'Swikriti/fund-release ki stage hai — CDF ki pehli kist jari hui, lekin alag-alag kaamon (parks, sports facilities, libraries, bus stops, culverts, transformers, roads, drains, calligraphic gates) ke poora hone ki pushti alag se nahi hai; kuch kaam "under progress" aur kuch "will be taken up soon" bataye gaye. Fund-srot CDF hai — ye MLA fund hi hai. Credit-disclosure: jari MLA ne kiya aur faisla halqa-level baithkon ke baad liya gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Tanvir Sadiq ne Health Minister ke saath JLNM Hospital Rainawari me EEG lab, oncology aur histopathology suvidhaon ka udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/city/health-minister-mla-zadibal-inaugurate-key-facilities-at-jlnm-hospital/',
+    date: '2026-05-26',
+    note: 'Poora hua kaam + lokarpan — teenon suvidhaen chalu karke udghatan kiya gaya; JLNM pehla district hospital bana jahan in-house histopathology uplabdh hai. Credit-disclosure: udghatan Health Minister Sakina Itoo ke saath sanyukt roop se hua — ye sirf MLA ki pariyojna nahi hai. Caveat: fund-srot article me nahi bataya gaya, isliye funding me MLA ki vyaktigat bhoomika spasht nahi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Tanvir Sadiq ne Alamgari Bazar me Islamic calligraphic landmark logon ko samarpit kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/tanvir-sadiq-unveils-iconic-islamic-calligraphic-landmark-at-alamgari-bazar-12063771',
+    date: '2026-06-22',
+    note: 'Poora hua kaam + lokarpan — installation taiyaar hokar samarpit ki gayi. Article ke anusar ye MLA ki apni ichha/peskash thi (unhone kaha tha ki constituency ke pramukh landmark ki shuruaat Allah ke naam se ho). Credit-disclosure: samarpan MLA ne khud kiya. Caveat: fund-srot article me nahi bataya gaya; ye Dec 2025 me swikrit hue Rs 21.52 lakh ke landmark project ka hi poora roop ho sakta hai, lekin article me ye pushti nahi hai isliye alag entry rakhi gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Tanvir Sadiq ne Bamk Mill Stop par Rs 82.97 lakh ke Alipora Chowk upgradation project ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/city/tanvirsadiqfoundationstone-12671823',
+    date: '2026-10-13',
+    note: 'Shilanyas ki stage hai — kaam ki buniyaad rakhi gayi, poora hone ki report abhi nahi hai. Karyakram me XEN R&B Srinagar Core maujood the, isliye execution R&B vibhag ke zariye hone ki sambhavna hai, lekin fund-srot article me bataya nahi gaya. Caveat: isi article me zikr hue Mirza Kamil Sahib–Madeen Sahib–Akmal Road wale prastav ki funding CRF se maangi gayi hai — wo alag prastav hai, is chowk project ka hissa nahi.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['mubarik-gul'] = [];
+
+jammuKashmirWorks['tariq-hameed-karra'] = [];
+
