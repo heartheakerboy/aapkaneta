@@ -1,0 +1,27 @@
+---
+import JilaDetail from '../../../components/JilaDetail.astro';
+import { nagalandConstsAll, nagalandNetasAll } from '../../../data/all';
+
+const dslug = (d: string): string => d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+export function getStaticPaths() {
+  const districts = [...new Set(nagalandConstsAll.filter(c => c.type === 'Vidhan Sabha').map(c => c.district))];
+  // Niuland: naya jila (Dec 2021), koi poori AC nahi — khaali jila page ke liye
+  if (!districts.includes('Niuland')) districts.push('Niuland');
+  return districts.map(d => ({ params: { slug: d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') }, props: { district: d } }));
+}
+
+const { district } = Astro.props;
+const acs = nagalandConstsAll
+  .filter(c => c.type === 'Vidhan Sabha' && c.district === district)
+  .sort((a, b) => (a.number ?? 999) - (b.number ?? 999));
+const netaByConst: Record<string, (typeof nagalandNetasAll)[number]> = Object.fromEntries(nagalandNetasAll.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
+// Lok Sabha mapping: PC naam me jila ka naam ho
+const dLow = district.toLowerCase();
+const mps = nagalandNetasAll.filter(n =>
+  n.post === 'MP' && n.house !== 'Rajya Sabha' &&
+  (n.constituency.toLowerCase().includes(dLow) || dLow.includes(n.constituency.toLowerCase().replace(' (lok sabha)', '')))
+);
+---
+
+<JilaDetail district={district} districtSlugStr={dslug(district)} acs={acs} netaByConst={netaByConst} mps={mps} talukas={[]} base="/nagaland" stateName="Nagaland" />

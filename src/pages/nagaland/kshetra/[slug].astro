@@ -1,0 +1,15 @@
+---
+import KshetraDetail from '../../../components/KshetraDetail.astro';
+import { nagalandConstsAll, nagalandNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return nagalandConstsAll.map(c => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const kshetra = nagalandConstsAll.find(c => c.slug === slug);
+if (!kshetra) throw new Error('Constituency not found: ' + slug);
+const leaders = nagalandNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
+---
+
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="/nagaland" stateName="Nagaland" districtHref={kshetra.district ? `/nagaland/jila/${kshetra.district.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/` : null} />

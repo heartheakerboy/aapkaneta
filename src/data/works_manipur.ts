@@ -767,3 +767,332 @@ manipurWorks['janghemlung-panmei'] = [
 // 2. Hill Areas Committee (HAC) ki joint baithak me upasthiti (Sep 2026, NE Live/India Today NE/Northeast Now — search results padhe): committee baithak, sansthaagat bhoomika; kshetra-kaam nahi — reject.
 // 3. 9 Naga MLAon ka Assembly boycott, Leilon Vaiphei killings virodh (e-pao, Sep 2026): protest/walkout — kaam nahi, negative bhi nahi (unke khilaf koi FIR/case nahi).
 // Coordinator QA note: shilanyas article coordinator ne khud kholkar padha (The Sangai Express/DIO via e-pao, dateline Tamenglong May 04 2026) — MLA ne swayam shilanyas kiya; fund (NHPC CSR) aur implementing agency (DRDA) ka poora disclosure note me hai; ADC Tamenglong ke faisle entry me shaamil nahi.
+// ---- Tengnoupal district batch (researched 2026-10-15) ----
+manipurWorks['letpao-haokip'] = [
+  {
+    title: 'Moreh shahar me sadak blacktopping aur rigid pavement ka nirman — 2023 me shuru kaam hinsa ke baad dobara shuru, MLA ke vaade ke tahat poora',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Virthli',
+    sourceUrl: 'https://www.virthli.in/2025/05/minister-letpao-haokip-fulfills-road.html',
+    date: '2025-05-21',
+    note: '21 May 2025 (Moreh dateline) ki report ke anusaar Moreh shahar ke kai ilakon (Hospital approach road, Turel Wangma road, Lhangkichoi Veng se ICP bypass, Muslim Nagar, Ngamkhai Veng se KCC bypass, Home Guard Veng) ki sadkon ka blacktopping aur IMB Gate No. 2 galli, Moreh Police Station se IMB Gate No. 2 aur IMB Gate No. 2 se Tamil Mandir tak rigid pavement ka nirman hua — report ke anusaar kaam lagbhag poora ho chuka tha, Nepali Basti aur New Moreh me kaam pragati par tha; 2023 me shuru hua yahi kaam jaatiya hinsa ke kaaran ruk gaya tha aur baad me dobara shuru hua. Report Letpao Haokip ko iske peeche ke lambe vaade aur nigrani ka shrey deti hai; sthaniya nikaayon (Manipuri Muslim Council Moreh, New Moreh Administrative Committee aadi) ne unke yogdaan ki sarahna ki. Credit-pardarshita: yeh Moreh shahar (Tengnoupal AC) ka seat-stariya kaam hai; report me fund-srot/sarkari swikriti/GO ka koi ullekh nahi; article unhe "Minister" kehta hai jabki May 2025 me (President Rule) ve keval MLA the; unka "niji sansadhanon se fund karne ki taiyari" wala bayan unka dawa hai (khabar me darj), swatantra pushti nahi; ek-matra srot Virthli (community portal, field dateline ke saath) hai — koi swatantra doosra srot nahi mila.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (Tengnoupal district — research 15 Oct 2026)
+// letpao-haokip (BJP, Tengnoupal ST; 2017 me 41-Chandel se NPP MLA + IFCD/YAS mantri; 2022 se Tengnoupal BJP MLA + Feb 2025 tak TA&Hills mantri) — 1 entry. Rejects: (1) DIPR press note: Machi (Tengnoupal) me Bank of Baroda bhawan ka udghatan (June 30; karyakram me D. Korungthang "MLA Tengnoupal AC" — 2017-2022 karyakaal) — pre-term + IFCD/YAS mantri-bhoomika; (2) Kwatha gaon sadak blacktopping shuru (manipur.org, Dec 2021) — pre-term + "YAS minister ki pahal" mantri-bhoomika; (3) Moreh me 100 din me har sadak blacktopping + nal ka paani ka ashwasan (Chronicle/manipur.org, May 2022) — TA&Hills mantri-framed, mantri-bhoomika; (4) Kwatha Festival 2022 udghatan (Sangai Express, Nov 2022) — community festival, ceremonial; (5) Khujailok/Lailok nadi safai abhiyan launch (NENow, Dec 2022) — mantri-form sarkari abhiyan ka launch, pre-event; (6) Asian Highway No.1 + IVR sadkon par "barsaat ke baad kaam shuru hoga" (Frontier Manipur, Jul 2022) — bhavishya-ghoshna + mantri-bhoomika; (7) Governor ko patra — Tengnoupal DC karyalaya nahi aate (Imphal Times, Jul 2025) — maang/prastav, koi dastavezi parinaam nahi; (8) Maring Welfare Committee ka jawab-patra — Maring kshetron me vikas upeksha ka aarop (Imphal Times, 2025) — samudaayik aarop, koi FIR/case/janch nahi → negative nahi; (9) 10 Naga MLAs ka CM ko patra — 10 mahine ki anupasthiti par mantri badalne ki maang (NDTV, Feb 2024) — rajnaitik patra, mantri-pradarshan ka mamla, koi FIR/case nahi → negative nahi; (10) Kuki-Zo CSO gyapan Governor ko (indiatodayne, Jun 2025) — rajnaitik advocacy, kaam nahi; (11) HAC meeting Sep 2026 (NortheastLive TV) — sansthaagat samiti bhoomika; (12) Moreh/Tengnoupal drug seizure khabrein — Letpao se koi vyaktigat link nahi → negative nahi; (13) Feb 2026 me Henglep-Churachandpur sadak nirikshan (ANI/Devdiscourse) — LETZAMANG Haokip (Henglep MLA, Churachandpur) hain, galat vyakti → naam-trap reject; (14) Go to Hills 2.0 Chandel/Tengnoupal (Ukhrul Times, 2021) — pre-term + CM ka karyakram. Traps: Letzamang Haokip (Henglep/Churachandpur) aur Paolienlal Haokip (Saikot) alag vyakti; D. Korungthang 2017-2022 me Tengnoupal ke MLA the (2022 me NPF se haare).
+// Coordinator QA note: Moreh sadak entry ka source coordinator ne khud kholkar padha (Virthli, 21 May 2025, Moreh dateline + photos): kaam "nearly complete" post-event reporting; fund-srot/GO ka ullekh nahi — note me disclose; article ka "Minister" title President Rule-kaleen MLA ke liye outdated hai — disclose; single community-portal source — disclose. Slug 'letpao-haokip' pehle file me nahi tha — koi overwrite nahi. Sabhi titles/notes Roman Hinglish, 0 anya script, 0 Rs-sign, 0 literal-\n.
+
+// ---- Thoubal district batch (researched 2026-10-15) ----
+
+manipurWorks['mohd-abdul-nasir'] = [];
+
+// REJECT-LOG (thoubal, mohd-abdul-nasir — 2026-10-15)
+// Identity: Mohd Abdul Nasir = lone JD(U) MLA, Lilong AC, 12th Manipur VS (Mar 2022+). Same man who was Congress MLA/MoS Agriculture 2012-2020 and contested Nov 2020 Lilong by-poll as Independent (lost to Y. Antas Khan). Won 2022 as JD(U). Manipur WAQF Board Chairperson (post-2022).
+// 1. REJECT (sirf maujoodgi): Imphal Times 18 Dec 2023 — CM Biren laid foundation stones at Lilong (Ushoipokpi Market, Skill Development Hub, Rehab Centre; inaugurated WAQF Board floors/hostel). Nasir present only as WAQF Board Chairperson; works are CM/state govt's, not MLA's. Source: https://www.imphaltimes.com/news/cm-biren-lays-foundation-stones-for-development-projects-in-lilong/
+// 2. REJECT (kamzor attribution — established media nahi): "We Support Alhaj Abdul Nasir" Facebook supporter page posts (aggregated by findglocal.com/govserv.org, Jun-Jul 2025/2026) claiming Lilong Haoreibi Loumanga Road, Leihaokhong IVR black topping, Lilong Chingkham Makha Idgah Road paver work, bridge inspection under Nasir's supervision. No independent established-media confirmation found; self-published claims cannot be entered.
+// 3. REJECT (rajnaitik bayaanbaazi, kaam nahi): ThePrint/PTI Nov 18 2024 — Nasir wrote to PM Modi urging terrorists label for Jiribam killers. Political statement, not a development work. Source: https://theprint.in/india/declare-those-who-killed-women-children-in-jiribam-as-terrorists-manipurs-jdu-mla-urges-pm/2361903/
+// 4. REJECT (kaam nahi — law & order/shanti prakriya): Jan 2024 Lilong Chingjao killings — Nasir held inter-faith meeting with civil society after 4 villagers killed (reported PTI/Business Standard/New Indian Express). Crisis response, not development work. No negative either — Nasir ka koi FIR/case/janch is ghatna me nahi.
+// 5. REJECT (pre-Mar-2022): His minister-era works as Congress MoS Agriculture (2012-2020), e.g. MSAL Lilong allegation reports Oct 2015, earlier foundation stones — before current term.
+// 6. REJECT (galat vyakti, pehchan-trap): Y. Antas Khan (Lilong MLA Nov 2020–Mar 2022, by-poll winner, later BJP) — 2021-22 ke kaam uske hain, Nasir ke nahi. Also trap: Md Achab Uddin (JD(U) MLA, Jiribam — 5 JD(U) MLAs jo 2022 me BJP me mil gaye, unme se ek) — alag vyakti, galti se Nasir se na jodo.
+// 7. REJECT (party-pad ka kaam): Jan 2025 JD(U) Manipur unit support-withdrawal episode (TOI, The Hindu) and Apr 2025 Waqf Amendment meetings at Nasir's residence — party/board activity, not constituency works.
+// 8. REJECT (chunav-ghatna): Oct 2020 Laiphrakpam stone-pelting during by-poll campaign (Devdiscourse) — pre-term, not a work, and no negative qualification (no FIR/case against Nasir).
+// Searched: The Hindu, Indian Express/IE, NDTV, TOI, Imphal Free Press, Sangai Express, Ukhrul Times, People's Chronicle, Northeast Now, DIPR, e-pao — multiple query rounds for inaugurates/foundation stone/road/school/water/LAD/relief 2022-2026. Koi qualifying entry established srot me nahi mili. NEGATIVE: koi nahi (koi FIR/case/janch established media me nahi; 2022 affidavit: 0 criminal cases).
+
+manipurWorks['okram-ibobi-singh'] = [
+  {
+    title: 'Thoubal Athokpam me LADF se bane 4 civic projects ka udghatan — Athokpam Awang Leikai community hall, AIGA office building, Athokpam Keithel public toilet aur Athokpam Keithel multipurpose hall.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Sangai Express (via e-pao.net)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=10..101125.nov25',
+    date: '2025-11-09',
+    note: 'Chaaron kaam poore ho chuke the aur 9 November 2025 ko udghatit hue. Fund Thoubal AC ke MLA Okram Ibobi Singh ke Local Area Development Fund (LADF) se aaya, isliye seat-star ke dastavezi kaam ke roop me yahan darj hain. Credit-disclosure: udghatan Ibobi Singh ne khud nahi kiya — unke bhatije aur Khangabok AC ke MLA Okram Surjakumar ne Thoubal Municipal Council chairperson Kh Bishworjit aur AMPAL advisor L Leiren Devi ke saath presidium me kiya. Athokpam Thoubal AC ka hissa hai. Ye President\'s Rule ke daur (13 Feb 2025 – 4 Feb 2026) me udghatit hue, lekin kaam LADF se nirmit aur poorn the — raahat ya dawa nahi, poorn stage-sach.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (thoubal, okram-ibobi-singh — 2026-10-15)
+// 1. CM-kaal (2002-2017) ki saari khabrein — Sanjenthong bridge, 7 naye jile, ITI foundation, Kakching community centre, Sports University bhoomi, Kuraopokpi industrial estate, state budget works: sab pre-Mar-2022, rajya-faisle, Thoubal AC kaam nahi. REJECT.
+// 2. Rajnaitik bayaan/party-pad ke kaam — AFSPA hataane ki chunauti (Oct 2026), "only Congress can bring harmony" (Nov 2024), NH-2 trust-building bayan (Apr 2026), Manmohan Singh shok-sabha (Dec 2024), Boong/civic-sense talk (Mar 2026): sirf bayan, koi seat-kaam nahi. REJECT.
+// 3. 21st Nepra Menjor memorial function, Khangabok (Jan 2026): sirf maujoodgi + Khangabok dusri AC, Thoubal AC nahi. REJECT.
+// 4. PM Modi dwara Thoubal district hospital critical care block ka foundation stone (Oct 2024, Rs 16 cr, PM-ABHIM): kendra/rajya sarkar ka kaam, Ibobi ki koi bhumika nahi, mantri/CM ke karyakram me maujoodgi bhi nahi. REJECT.
+// 5. CM Biren Singh dwara Thoubal court annex ka udghatan (Rs 8.8 cr): dusri sarkar ka kaam, credit Ibobi ko nahi. REJECT.
+// 6. Loktak MDS FIR (Sep 2017, Telegraph): pre-Mar-2022, CM-kaal ka mamla, period ke bahar — negative bhi isi wajah se nahi. REJECT.
+// 7. 2022 chunav coverage (jeet 2,543 votes, prachar, campaign bayan): chunav-khabar, kaam nahi. REJECT.
+// 8. Galat-vyakti traps: Okram Surjakumar (Khangabok MLA, bhatija — udghatan unhone kiya, fund Ibobi ka, isliye entry me credit-disclosure ke saath darj); Okram Landhoni Devi (patni, ex-Khangabok MLA); Leitanthem Basanta Singh (2022 BJP pratyashi). "Okram" upadnaam dekhkar bhatije ke kaam ko Ibobi ka mat mano.
+// 9. Khaas note: Ibobi 2017-2022 tak LoP rahe; 2022 ke baad vipaksh me — isliye 2022-2027 me unke naam par sarkari udghatan lagbhag nahi; sirf unke LADF se hue kaam hi qualifying the, aur wahi 1 entry mili. Profile khaali nahi, lekin patli hai — imaandari se yahi tathya.
+
+manipurWorks['keisham-meghachandra-singh'] = [
+  {
+    title: 'Yairipok Kekru Gwarok Hills par naye tourist destination ka udghatan hua — community hall, kitchen, alag-alag washrooms aur open-air theater ke saath kul Rs 50 lakh ka project poora hua.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Manipur Update',
+    sourceUrl: 'https://manipur-update.com/new-tourist-destination-inaugurated-at-yairipok-kekru-gwarok-hills/',
+    date: '2025-02-03',
+    note: 'Stage: udghatan/poora kaam — 3 Feb 2025 ko udghatan karyakram hua. Fund-srot: kul Rs 50 lakh me se Rs 30 lakh Tourism Department grant aur Rs 20 lakh vidhayak kshetra vikas nidhi (MLA LADF). Credit-disclosure: pariyojana ka 60% sarkari grant tha — unka pratyaksh yogdaan unke MLA fund ke Rs 20 lakh tak seemit hai; udghatan karyakram me ve Wangkhem MLA ke roop me maujood rahe.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kakching police station me K Meghachandra ke khilaf FIR darj hui — lok sevak ke kaam me badha aur criminal trespass (IPC 186/447/34) ke aarop lage.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Northeast Now',
+    sourceUrl: 'https://nenow.in/north-east-news/manipur/manipur-case-lodged-against-state-congress-chief-for-criminal-tresspass.html',
+    date: '2023-01-27',
+    note: 'Stage-sach: FIR ki sthiti (27 Jan 2023 ki report) — mamla ASI Kh Govinda ki shikayat par Kakching police station me darj hua; aarop tha ki SP office jakar 5 policekarmiyon ki drugs-tashkari giraftari par media se baat karke janch me badha dali. Neta ka jawab: unhone kaha ve sirf police ki drug-jabt uplabdhi ki sarahna ke liye gaye the, sarkar ki war-on-drugs ke samarthak hain, SP office me koi press briefing aayojit nahi ki thi — sirf maujood patrakaron ke sawalon ke jawab diye.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Enforcement Directorate ne PMLA money-laundering janch me K Meghachandra ko 7 Oct 2024 ko New Delhi me pesh hone ka summons bheja.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Economic Times',
+    sourceUrl: 'https://economictimes.indiatimes.com/news/politics-and-nation/manipur-pradesh-congress-committee-president-gets-ed-summons-in-money-laundering-case/articleshow/114032116.cms',
+    date: '2024-10-07',
+    note: 'Stage-sach: sirf summons ki sthiti — PMLA dhara 50 ke tahat saboot aur records ke saath peshi; is report me koi chargesheet ya giraftari ki khabar nahi. Neta ka paksh: unke vakeel ne kaha summons usi din (7 Oct) mila isliye usi din peshi asambhav thi; Congress neta Jairam Ramesh ne ise rajnaitik badle ki karrawai bataya.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (thoubal, keisham-meghachandra-singh — 2026-10-15)
+// R1 Arong River dredging (DredgeWire/Imphal Free Press, 19 Dec 2022): "will soon be taken up" — sirf ghoshna/karenge; kaam poora hone ka koi dastavez nahi mila.
+// R2 CHC Yairipok nirikshan (Sangai Express, 9 Nov 2025): DC ke saath sirf nirikshan/daura, koi naya kaam nahi.
+// R3 Water supply schemes foundation stone (Jan 2022): karyakaal se pehle (Mar 2022 se pehle).
+// R4 Eco Park Gwarok foundation stone (Sep 2021): karyakaal se pehle.
+// R5 YTSMCL library building udghatan (Sangai Express, 31 Aug 2023): unhone udghatan kiya lekin funding ka vishisht dastavez nahi — "local MLA, members aur well-wishers ne yogdaan diya" kamzor attribution hai.
+// R6 School bags vitaran (Sangai Express, 8 Mar 2025): 120 chhatron ko bags — vitaran/raahat, vikas-kaam nahi.
+// R7 MGNREGA bahali ki maang (Jan 2026): sirf maang/bayaan, vikas kaam nahi.
+// R8 Imphal Ring Road par calling attention motion (Sep 2026): vidhan sabha me sawal/motion matra.
+// R9 PM Modi visit par aalochna (Sep 2025, Business Standard): rajnaitik bayaanbaazi.
+// R10 CM Khemchand ke Thoubal projects (Mar-Apr 2026): CM ke karyakram; dastavez me Meghachandra ki maujoodgi/bhoomika nahi.
+// R11 Unke nivas par grenade hamla (Sep 2026): ve khud peedit — neta par koi aarop nahi, negative nahi.
+// R12 Soibam Subhaschandra wala 2020 ka mamla (The Hindu, Jul 2020): pre-Mar-2022.
+// R13 FIR 3(4) 2019, TBL Dam PS wala mamla (the-laws.com): pre-Mar-2022.
+// R14 Oneindia "MLAs with criminal cases" suchi: secondary list, case detail nahi — entry ka aadhar nahi.
+// R15 UNLF ED chargesheet (ThePrint): unka naam "extortion/donation" dene walon ki suchi me hai — unke khilaf koi FIR/case nahi, ve peedit-paksh me aate hain; aarop nahi.
+// GALAT-VYAKTI TRAPS: Y Khemchand Singh (CM, Yumnam Khemchand) vs K Meghachandra — "Khemchand" naam se bhram na ho; "Keirao Wangkhem" Imphal East ka sthan-naam hai, MLA nahi; Th. Shyamkumar (Andro MLA), Khongbantabam Ibomcha (Lamlai MLA), Okram Ibobi Singh (Thoubal MLA, ex-CM), N Loken Singh (poorv MPCC adhyaksh), Thokchom Lokeshwar Singh — sab alag vyakti hain.
+
+manipurWorks['thokchom-radheshyam-singh'] = [
+  {
+    title: 'Heirok ke Salungpham me MLA Local Area Development Fund (2024-25) se bane do community halls ka udghatan kiya — Salungpham Kang-Thokchao Sapam Leirak aur Salungpham Kang Yambem Awang Leikai.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Manipur Update',
+    sourceUrl: 'https://manipur-update.com/mla-radheshyam-inaugurates-two-community-halls-at-salungpham/',
+    date: '2025-10-21',
+    note: 'Dono halls ka nirmaan MLA Local Area Development Fund (2024-25) se hua aur 21 October 2025 ko MLA Dr Thokchom Radheshyam ne swayam udghatan kiya; report ke mutabiq mukhya samaroh Salungpham Kang Yambem Awang Leikai me hua aur doosra hall Kang-Thokchao Sapam Leirak me hai. Hall sthaniya samajik-sanskritik karyakramon ke liye janta ko saunpe gaye. Stage: poorn aur udghatan-ho-chuka. Udghatan President\'s Rule (13 Feb 2025 - 4 Feb 2026) ki avadhi me hua, lekin media report me dastavezi hai. MLA ne isi din apne Facebook par Salungpham Sarangthem Leikai ke ek hall ka bhi zikr kiya, lekin uske liye koi swatantra media report nahi mili isliye use shamil nahi kiya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pechi me MLA Local Area Development Fund se lagbhag Rs 38 lakh ki lagat par bana community hall janta ko samarpit kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Manipur Update',
+    sourceUrl: 'https://manipur-update.com/mla-handed-over-the-newly-constructed-community-hall-at-pechi-to-the-public/',
+    date: '2026-01-13',
+    note: 'Hall ka nirmaan MLA Local Area Development Fund se lagbhag Rs 38 lakh ke anumaanit kharch par hua aur 13 January 2026 ko udghatan karke janta ko saunpa gaya. Fund-varsh ko lekar sroton me antar hai — The Sangai Express (E-Pao ke madhyam se) 2023-24 batata hai jabki Manipur Update 2022-23, isliye fund-varsh nishchit roop se darj nahi kiya ja sakta. Stage: poorn, udghatan-ho-chuka. Credit: sampoorn nirmaan MLA ke LADF se hua, kisi sarkari yojana ka alag credit nahi. Udghatan President\'s Rule (13 Feb 2025 - 4 Feb 2026) ki avadhi me hua, lekin do swatantra media reports (Manipur Update aur The Sangai Express) me dastavezi hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (thoubal, thokchom-radheshyam-singh — 2026-10-15)
+// Qualify nahi hue (search + source padhne par):
+// 1. Jal Jeevan Mission ke tahat 9 water supply projects ka shilanyas, Heirok AC (Apr 2021, The Sangai Express/manipur.org) — Mar 2022 se PEHLE (pichhle karyakaal ka), reject.
+// 2. Kakching Higher Secondary School ki nayi building ka udghatan (nenow.in, ~2018-19) — mantri-kaul me Shiksha Mantri ke roop me, Kakching (Heirok se BAHAR kshetra) + pre-term, reject.
+// 3. School Phagat-Hansi Mission (Jan 2019 launch) — mantri-kaul ka vibhagiya/rajya-faisla, mantri/kshetra-kaam rule se reject.
+// 4. Loubuk Maikei Panglashi 2nd phase, Nongpok Sekmai (Nov 2021, The Sangai Express) — unka apna mission lekin pre-Mar-2022 term ka, reject.
+// 5. Nongpok Organic Sintha Lup Producer Company units ka udghatan, Heirok Part II Chingdongpok (poknapham.in, ~2026) — units Horticulture Dept/Manipur Organic Mission Agency ne MOVCDNER (kendriya yojana) ke tahat banaye; MLA sirf chief guest; saath me "agle term me LADF dunga" = "karenge" vaada, reject.
+// 6. CM Yumnam Khemchand Singh ke Heirok daure: JNV Salungpham (~Rs 100 crore), PHC renovation, Heirok Municipal Council civic works, MTU extension campus nirikshan (May 2026, indiatodayne.in + economictimes.indiatimes.com) — CM ke karyakram me MLA ki sirf maujoodgi; JNV kendra sarkar ka project; CM ke vaade = "karenge", reject.
+// 7. Teachers' Day par "Mission Education" ki ghoshna, Heirok Higher Secondary School (manipur-update.com, ~Sep 2026) — sirf ghoshna/bhavishya-vaada, reject.
+// 8. Soybean (hawaijar) 4-divasiya prashikshan karyakram ka udghatan, Heirok Part II (Mar 2026, manipurtoday.in/expressnewschannel.com) — CAU Imphal + NGO Prem Dhara ka karyakram, MLA sirf udghatak, reject.
+// 9. Pristine H2O packaged drinking water unit ka udghatan, Manipur University Northern Gate ke paas, Imphal West (imphaltimes.com, ~Aug 2025) — private venture + Heirok se BAHAR + sirf chief guest, reject.
+// 10. Sekmai Khumbi Higher Secondary School ke sanskritik samaroh me bhashan + "agle saal school hall banwayenge" vaada (manipur-update.com, Oct 2026) — sirf bhashan + "karenge", reject.
+// 11. "BJP 2027 me sarkar banayegi" bayaan, Heirok residence (PTI via siasat.com/newsdrum, Dec 2025) — rajnaitik bayaanbaazi, reject.
+// 12. NIT Manipur campus relocation par sarkari pravakta ke roop me press conference (Aug 2026, ukhrultimes.com/indiatodayne.in) — pravakta/party-pad ka kaam, Heirok ka kaam nahi, reject.
+// 13. Sarkari pravakta niyukti (14 Jul 2026) par Congress ka samvidhanik sawal (economictimes.indiatimes.com) — party-pad ka mamla, reject.
+// 14. CM ke advisor pad se istifa (Apr 2023, Indian Express/ukhrultimes.com) — pad ka mamla, kaam nahi, reject.
+// 15. Heirok HYVA Association dwara sadak marammat, Heirok Part III se Waba Hill (Jan 2024, Imphal Free Press) — drivers' association ka apna kaam, MLA ka yogdaan nahi, reject.
+// Negative check: MLA ke khilaf koi FIR/case/adalaati janch nahi mili — 2022 aur 2017 dono halafnamon me "No criminal cases" (myneta.info, oneindia.com). Dec 2021 me unke CHHOTE BHAI Thokchom Bishworjit aka Putro ka naam student Ningthoujam Rohit hatya-kand ki FIR me aaropi ke roop me aaya (imphalreviews.in, manipur.org) — niyam ke mutabiq PARIVAR ke mamle kabhi negative nahi, isliye reject; waise bhi pre-Mar-2022 hai. Hinsa-yug (May 2023 se) me MLA se jude kisi aarop ki FIR/case/adalaati janch wali established reporting nahi mili.
+// GALAT-VYAKTI TRAPS (kabhi mat milana): (a) Dr Yumnam Radheshyam Singh — Hiyanglam AC, Kakching jila ke BJP MLA, bilkul alag vyakti; kuch headlines me "Radheshyam Yumnam" likha milta hai lekin body me Heirok wale Thokchom Radheshyam Singh hote hain — har source me seat "Heirok" verify ki gayi. (b) CM Yumnam Khemchand Singh — "Yumnam" upadnaam milta hai, lekin ye Manipur ke CM hain, Heirok MLA nahi. (c) 2021 se pehle ke "Shiksha Mantri" wale kaam sab mantri-kaul ke vibhagiya faisle hain — unhe kshetra-kaam me nahi gina.
+
+manipurWorks['paonam-brojen-singh'] = [
+  {
+    title: 'Wangjing Lamding Municipal Council complex me naya garage aur solid waste management facility ka udghatan MLA Paonam Brojen Singh ne 19 September 2022 ko kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express',
+    sourceUrl: 'https://www.manipur.org/news/2022/09/19/paonam-brojen-inaugurates-solid-waste-management-facility/',
+    date: '2022-09-19',
+    note: 'Inauguration-stage ka kaam hai — facility nirman poora ho chuka tha aur 19 September 2022 ko udghatit hui. Report me fund-srot ya lagat ka zikr nahi hai, isliye nirman kis yojana ya fund se hua ye spasht nahi. Udghatan Paonam Brojen ne Manipur Development Society ke Chairman aur Wangjing Tentha AC ke MLA ki haisiyat se kiya; report nirman ka shreya seedha unhe nahi deti, sirf udghatan unhone kiya. The Sangai Express ki report khud mirror page par kholkar padhi gayi hai (e-pao ka original link upstream error par nahi khula). Wangjing unke apne Wangjing Tentha kshetra me hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (thoubal, paonam-brojen-singh — 2026-10-15)
+// 1. MDS Chairman pad se istifa (ThePrint/ANI, 20 Apr 2023) — party/prashasanik pad ka mamla, vikas-kaam nahi; 'personal grounds' par istifa.
+// 2. Keirao AC me CM ke Rs 32 crore pariyojanaon ka udghatan (22 Sep 2026, hubnetwork/nenow/manipurarticles) — Brojen sirf upasthit the; CM ka karyakram + doosre kshetra (Keirao, Imphal East) ka kaam.
+// 3. Wangjing-Tentha naya block office udghatan (CM, Apr 2026, nenews/eastmojo) — CM ne udghatan kiya, Brojen sirf upasthit; 3.5 km approach road sirf 'assured at the earliest' = vaada/'karenge'.
+// 4. Satjal Academy ki nayi branch, Wangjing (29 Jun 2026, e-pao/Sangai Express) — Brojen ne sirf jhanda fehraya/upasthit rahe; sanstha ka apna kaam.
+// 5. Seva Setu Abhiyan, Salungpham (8 Oct 2026, e-pao) — sirf upasthiti; sarkari karyakram.
+// 6. Khorilol Sandok Lup 49va sthapna divas (8 Jun 2026, e-pao/Sangai Express) — mukhya atithi ke roop me upasthiti; mata-pita ki smriti me sahitya puraskar 'agle saal' ka vaada = announcement.
+// 7. Feb 2022 chunav vision (drinking water, self-employment, sports) — pre-term (Mar 2022 se pehle) + sab 'karenge' vaade.
+// 8. Mairenkhul public ground udghatan (Aug 2016, Sangai Express) — pre-2022.
+// 9. Teen Health and Wellness Centre udghatan (Aug 2018, IFP) — pre-2022.
+// 10. National Sports University foundation stone 'soon' bayan (Sep 2016) — pre-2022 + sirf bayan.
+// 11. 2012 me food grain vitaran — pre-2022; waise bhi raahat, vikas nahi.
+// 12. Tentha hinsa 2016 (Impact TV) — pre-term; parivar ke sadasya (Paonam Khelen/Thambou) jude — parivar ke mamle kabhi nahi.
+// 13. Oct 2026 'boycott' vivaad (NEWire.in citizen journalism + IndiaTodayNE opinion) — rajnaitik bayanbaazi par aadharit; koi FIR/case/adalaati janch sthapit media me nahi; negative ke yogya nahi.
+// 14. Mar 2022 chunav malpractice/repoll maang (Sangai Express) — chunavi aarop, koi case outcome nahi; chunav-yachika akeli negative nahi.
+// 15. govserv.org 'WE Support Paonam Brojen' supporter page (school block, road black-topping, bridge ke daave) — sthapit media nahi, supporter-run page, Meitei script; source ke roop me reject.
+// GALAT-VYAKTI TRAPS: Moirangthem Hemanta Singh (INC pratidvandi, poorv MLA) — alag vyakti; Paonam Daneshwar (Khurai bandh mamla, Oct 2026) — sirf upnaam milta hai, alag vyakti; Lourembam Rameshwor Meetei (Keirao MLA) — Keirao pariyojanaen unki nahi; Karam Shyam / Thokchom Radheshyam (Apr 2023 me alag padon se istife) — unke pad Brojen ke MDS pad se na milayen.
+
+manipurWorks['surjakumar-okram'] = [
+  {
+    title: 'United Development Committee ka naya office building Sangaiyumpham me inauguration — nirman Khangabok AC MLA ke Local Area Development Fund se',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'The Sangai Express (via E-Pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=27..110526.may26',
+    date: '2026-05-10',
+    note: 'United Development Committee (Sangaiyumpham Part I aur II ke clubs, associations aur organisations ka apex body) ka office building poora ban chuka hai; 10 May 2026 ko Khangabok AC MLA Okram Surjakumar ne uska inauguration kiya. Nirman ka fund-srot khud Khangabok AC MLA ka Local Area Development Fund hai (article me "constructed under the Local Area Development Fund of the Khangabok AC MLA" darj hai), isliye credit Surjakumar Okram ko jata hai. Sangaiyumpham Khangabok AC, Thoubal jila ka hi hissa hai. Article me building ki laagat ya project ka sanction year darj nahi hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (thoubal, surjakumar-okram — 2026-10-15)
+// 1. Thoubal Athokpam projects (community hall Athokpam Awang Leikai, AIGA office, Athokpam Keithel public toilet, multipurpose hall) — Sangai Express, 9 Nov 2025: REJECT. Fund-srot Thoubal AC MLA Okram Ibobi Singh (pita) ka LADF tha, aur Thoubal Athokpam Thoubal AC me hai (Khangabok AC se bahar); Surjakumar sirf inauguration me mehmaan the. GALAT-VYAKTI TRAP: credit Ibobi Singh ko jata hai, Surjakumar ko kabhi nahi.
+// 2. Royal Gym inauguration, Lamding Laishram Leikai (dailyimphalnews, 2026): REJECT — private gym (proprietor retired Prof. Sorokhaibam Hari) ka ribbon-cutting; Surjakumar sirf chief guest the, koi sarkari fund ya MLA ki bhoomika nahi.
+// 3. IDP Ningol Chakkouba, Lamding Higher Secondary Relief Camp (Sangai Express, 22 Oct 2025): REJECT — raahat-shivir me tohaare + bayaan ("IDPs ghar laute tabhi shanti"); raahat = vikas-kaam nahi, aur Surjakumar sirf presidium me the.
+// 4. Vidhan Sabha query — PWD/PMGSY/CRF projects par CM se sawal (Sangai Express, 7 Sep 2026): REJECT — sirf maang/prastav (assembly question), koi poora ya chalu kaam nahi.
+// 5. Manipur Technical University Board of Management me nomination (manipur-update, May 2025): REJECT — vidhayak-pad ka assignment, kshetra-vikas kaam nahi.
+// 6. AVBD Thoubal 15th Foundation Day me chief guest (manipur-update): REJECT — sirf maujoodgi/bhashan.
+// 7. 21st Nepra Menjor Memorial Function, Khangabok (E-Pao, 23 Jan 2026): REJECT — sirf upasthiti.
+// 8. Leimapokpam Muhindro High School foundation day, Thoubal Athokpam (Sangai Express archive): REJECT — sirf upasthiti.
+// 9. Imphal Times canal/drain cleaning, Khangabok Part III/Sangaiyumpham (31 July 2019): REJECT — pre-Mar-2022.
+// 10. Manipur Rural Bank branch opening, Sangaiyumpham (Imphal Times, Nov 2017): REJECT — pre-Mar-2022 + sirf maujoodgi (bank ne khud kholi).
+// 11. Chunav campaign 2017/2022, Times of India candidate profile, Hindu/Business Standard interviews: REJECT — pre-Mar-2022 aur kaam nahi.
+// GALAT-VYAKTI TRAPS: (a) Okram Ibobi Singh (pita, Thoubal AC MLA) — unke LADF ke kaam (Athokpam projects) kabhi Surjakumar par nahi; (b) Okram Landhoni Devi (mata, ex-Khangabok MLA) — 2017 se pehle ke Khangabok kaam unke hain; (c) Okram Henry Singh (Ibobi ke bhatije, Wangkhei) — 2017 election null-and-void case unka hai, Surjakumar ka nahi.
+// NEGATIVE CHECK: oneindia criminal-record list me affidavit par "1 case" dikhta hai, lekin Surjakumar ke khilaaf kisi FIR/case/adalaati janch ki koi established-media reporting nahi mili; CBI/MDS case pita (Ibobi Singh) ka hai — parivar ke mamle excluded. Supreme Court ka "State of Manipur v. Surjakumar Okram" (2021) unki filed PIL thi (Parliamentary Secretaries Act), aarop nahi. Negative entries: 0.
+
+// Coordinator QA note (Thoubal district — 15 Oct 2026): 6/6 workers ne fragments diye; sabhi me entries hain ya imaandari se khaali blocks + REJECT-LOG; Roman-script Hinglish check (zero Devanagari/Meitei Mayek/Rs-symbol), zero literal-\n, entry objects me zero comments — sab pass. Paonam-Brojen entry ka Sangai Express srot manipur.org mirror par khola (e-pao original 520 par nahi khula) — note me disclosed. Keisham ke 2 negatives me FIR/summons ki sthiti + neta ka jawab darj. Gwarok tourist spot ka 60% fund sarkari grant tha — Rs 20 lakh LADF tak seemit, disclose. Radheshyam vs Yumnam Radheshyam naam-trap saaf. Ibobi entry (purv CM) ke liye CM-kaal ke sab kaam pre-term reject. Meghachandra ke liye party-pad (MPCC) ka kaam reject.
+
+// ---- Ukhrul district batch (researched 2026-10-15) ----
+
+// ---- Ukhrul district batch: ram-muivah ----
+manipurWorks['ram-muivah'] = [
+  {
+    title: 'Ukhrul MLA Ram Muivah ki pahal par AAI CSR se paanch Advanced Life Support ambulances — Talui PHC, Kamjong District Hospital aur Ukhrul District Hospital ko',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'EastMojo',
+    sourceUrl: 'http://eastmojo.com/manipur/2026/10/01/manipur-ukhrul-mla-launches-5-ambulances-500-solar-street-lights/',
+    date: '2026-09-30',
+    note: '30 Sep 2026 ko Imphal ke AAI community hall me Ukhrul MLA Ram Muivah ne paanch Advanced Life Support ambulances ka launch kiya — ye project unki pahal par Airports Authority of India (AAI) ke CSR fund se aaya, sanctioned cost Rs 2.20 crore, aur Ukhrul Football Club (UFC) ne North East Power Infra ke saath implement kiya (EastMojo; Ukhrul Times aur India Today NE ne bhi report kiya). Vitaran: ek ambulance Talui Primary Health Centre, ek Kamjong District Hospital aur teen Ukhrul District Hospital ko. MLA ne kaha ki kshetra me emergency transport ki kami aur Rs 7,000 se Rs 15,000 tak ke kharch ko dekhkar unhone AAI se madad maangi thi. Stage: lokarpan — post-event reporting, teeno established media ne launch confirm kiya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ukhrul constituency ke sabhi 52 gaon me 500 solar street lights — AAI CSR project, MLA Ram Muivah ki pahal par launch',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Ukhrul Times',
+    sourceUrl: 'https://ukhrultimes.com/ukhrul-mla-ram-muivah-unveils-ambulances-500-solar-street-lights/',
+    date: '2026-09-30',
+    note: '30 Sep 2026 ko launch hue isi AAI CSR project (Rs 2.20 crore, MLA Ram Muivah ki pahal) ke tahat 500 solar-powered street lights Ukhrul Assembly constituency ke sabhi 52 gaon me baante jayenge, khaas taur par seema-kshetra ke Khayang, Phungtha, Roni, Ronshak jaise bina-bijli wale gaon (Ukhrul Times; EastMojo; Ekhon). MLA ne kaha ki gaon-wale sooraj doobne ke baad "andhe" mehsoos karte hain, isliye unhone AAI chairman se CSR madad maangi thi; 2022 me power minister se Sahamphung 33KV substation ka vaada bhi mila tha jo ab tak poora nahi hua. Stage: lokarpan — launch program post-event report me darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 40.55 crore Ukhrul town road sudhaar — NH-102A par 9 km rigid pavement (Thin White Topping), NHIDCL tender jari',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Imphal Times',
+    sourceUrl: 'https://www.imphaltimes.com/news/rs-40-55-crore-road-boost-for-ukhrul-muivahs-push-for-durable-town-road-moves-into-execution/',
+    date: '2026-09-03',
+    note: 'NHIDCL ne 3 Sep 2026 ko "One Time Improvement of Existing Ukhrul Town Road" ke liye tender nikala — Dungrei Junction (Km 0+000) se Toloi Junction (Km 9+000) tak 9 km NH-102A stretch par Thin White Topping (rigid pavement) technology, EPC mode, anumaanit lagat Rs 40.55 crore, 12 mahine me poora hona + 3 saal maintenance (Imphal Times, 9 Sep 2026). Ukhrul MLA Ram Muivah ne Delhi me Union Mantri Nitin Gadkari se milkar tikau sadak-samadhan ki maang rakhi thi; unki "drain-to-drain" pavement aur footpath wali salah project scope me hai. Stage: swikriti — NHIDCL ka official tender notice jari ho chuka hai. Dhyaan: ye kendriya (NHIDCL) project hai; MLA ki dastavezi bhoomika sustained advocacy ki hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ukhrul town me Subji Mandi/Marketing Complex Block A, B, C ke nirman ka shilanyas — MLA Ram Muivah ne Rs 4.5 crore sanction kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Ekhon',
+    sourceUrl: 'https://ekhon.in/mla-ram-inaugurates-multiple-projects-in-ukhrul/',
+    date: '2023-08-17',
+    note: '17 Aug 2023 ko Ukhrul MLA Ram Muivah ne Ukhrul town me Subji Mandi/Marketing Complex ke Block A, B aur C ke nirman ka shilanyas kiya (Wino Bazar, TNL office ke paas aur Jessami Junction) — project retd IAS Ameising Luikham ke samay approve hua tha aur Ekhon ke anusaar MLA Ram Muivah ne isey Rs 4.5 crore par formally sanction kiya; NEC Shillong se funded hai. Complex yuva udyamiyon, kisaano, self-help groups aur value-added products ke liye marketplace banega jisse seedha-paroksh rozgaar milega. Stage: shilanyas — nirman-shuru ka udghatan; note me credit-pardarshita: sanction/proposal Luikham ke samay se, fund NEC ka, shilanyas MLA ka.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (ukhrul, ram-muivah — 2026-10-15)
+// 1. Synthetic football turf + Recreation Centre, Langdang (Ekhon, 17 Aug 2023) — lokarpan MLA ne kiya, lekin project "Sir Ram ke NEC Secretary rehte" initiate hua tha (2019 UDCRMS proposal, AAI sanction) — poori sanction-pahal PRE-Mar-2022 — REJECT (pre-term rule).
+// 2. NH-102A/NH-202 marammat ki maang (nenow, Aug 2026; imphaltimes, Sep 2026) — Gadkari ko chitthi, Union Secretary se mulaqat, NH-202 inspection — sirf maang/prastav/nirakshan, koi sanction nahi — REJECT.
+// 3. The Hindu interview (Aug 2026) — economy aur power-sharing par raajnaitik interview, koi kaam nahi — REJECT.
+// 4. CM N. Biren Singh ke Rs 70.21 crore Ukhrul projects (nenow/ukhrultimes, Oct 2023) — CM ka karyakram, MLA sirf maujood — REJECT.
+// 5. Kongva multipurpose dam prastav (ukhrultimes, Sep 2026) — Union Mantri C.R. Patil ko chitthi, sirf prastav/maang — REJECT.
+// 6. Governor se funds ki maang (imphaltimes, Jan 2026) — "assures funds" = maang/ashwasan, "karenge" wali khabar — REJECT.
+// 7. Ekhon "seeks Centre's intervention" water crisis (Oct 2026) — sirf maang — REJECT.
+// 8. Shirui Heritage Project allegations (ruralpost/ukhrultimes, Jun-Jul 2026) — Lunghar Village Authority ka daava ki MLA ne tender cancel karne ki DO chitthi likhi; MLA ne khandan kiya; MLA ke khilaf koi FIR/case/adalaati ya adhikarik janch nahi — rajnaitik bayaanbaazi, negative entry nahi; project ka shilanyas CM ne kiya tha (MLA maujoodgi) — kaam entry bhi nahi.
+// 9. CKPYF post-silver-jubilee conference inauguration (ukhrultimes, Jan 2023) — dharmik yuva sammelan ka udghatan, vikas-kaam nahi — REJECT.
+// 10. Assam Rifles/New Haven/Finch Corner par CM ko chitthi (ukhrultimes, ~Jun 2026) — suraksha-vishayak raajnaitik patra, vikas-kaam nahi — REJECT.
+// 11. 33KV substation Sahamphung ka vaada (2022) — khud MLA ne kaha (EastMojo, Sep 2026) ki project "materialise nahi hua" — bina saboot ghoshna, kaam hua hi nahi — REJECT.
+// 12. Ukhrul Declaration consultation (ukhrultimes, Sep 2026) — Mission Ukhrul ki salah-mashwara baithak me concluding remarks — REJECT.
+// 13. NEC Secretary/IAS karyakaal ka saara kaam — pre-Mar-2022 — REJECT (standing rule).
+// 14. Ukhrul ADC ke kaam — is research me koi ADC kaam MLA par attribute nahi kiya gaya; MPLADS (Rajya Sabha MP ka clarification) bhi MLA se asambandhit.
+// 15. Sangai Express editorial (Sep 2026) — NH-202 inspection with Phungyar MLA — sirf nirikshan, editorial tippani — REJECT.
+// 16. Rs 23 crore NDB-funded Ukhrul town water supply project (EastMojo, 4 Mar 2026) — COORDINATOR OVERRIDE: project 2021 me award hua (pre-term), mukadmebazi ke baad HC stay wapas par dobara shuru; MLA ki dastavezi bhoomika sirf site-inspection/review (President's Rule daur me) — nirikshan/daura alone = reject, standing rule.
+// 17. Pehla Ram Muivah Entrepreneurship Awards 2023 (Ekhon, 12 Dec 2023) — COORDINATOR OVERRIDE: 8 yuvaon ko vyaktigat cash prize (Rs 30,000 each) — vyaktigat welfare/charity = vikas-kaam nahi, standing rule (Goa/TN charity-removal precedent).
+// NAAM-TRAP: Th. Muivah / Thuingaleng Muivah (NSCN-IM general secretary) alag vyakti hain — unki khabrein (jaise Oct 2025 homecoming) Ram Muivah se nahi jodi gayin.
+// NEGATIVE: koi nahi — Ram Muivah ke khilaf koi FIR/case/adalaati ya adhikarik janch ki established-media reporting nahi mili.
+
+// ---- Ukhrul district batch: khashim-vashum ----
+manipurWorks['khashim-vashum'] = [
+  {
+    title: 'Halang circular road lokarpan (gao ki pehli black-topped sadak)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Poknapham',
+    sourceUrl: 'https://story.poknapham.in/posts/6799d24ba05264133850a4b8',
+    date: '2025-01-28',
+    note: 'Khashim Vashum ne 28 Jan 2025 ko Halang gaon (Chingai subdivision, Ukhrul jila) ki all-weather circular road ka lokarpan kiya — ye gaon walon ke jeevan ki pehli black-topped sadak hai. Sadak RIDF/PWD, Government of Manipur ke tahat bani; mool 3.25 km ki work order thi, lekin gaon walon ki maang par 4 km se zyada lambi banayi gayi, NH-102A se Halang tak, church aur pastor quarter tak pahunch ke saath. Stage: lokarpan (post-event reporting). Credit-pardarshita: sadak ka fund sarkari (RIDF/PWD) hai aur udghatan unhone mantri (Transport/V&AH) ke roop me kiya — udghataa mantri-karya tha, sadak PWD vibhag ki; sadak unke apne Chingai kshetra me hai. Poknapham ka article coordinator ne khud kholkar padha hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Halang Ato Tang community hall (500 kshamata) lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Poknapham',
+    sourceUrl: 'https://story.poknapham.in/posts/6799d24ba05264133850a4b8',
+    date: '2025-01-28',
+    note: 'Usi din MLA (mantri) ne Halang Ato Tang ke naye community hall ka bhi lokarpan kiya, jisme 500 logon ke baithne ki kshamata hai; sthaniya HADC samiti ke adhyaksh ne ise lambe samay se dekha sapna poora hona bataya aur mantri ka aabhar jataya (Poknapham). Article me hall ke fund-srot ka zikr nahi hai — sirf udghatan dastavezi hai. Stage: lokarpan. Chingai AC me hi hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (ukhrul, khashim-vashum — 2026-10-15)
+// 1. Raphei Gate No.2 inauguration, Halang (Dec 2021, Ukhrul Times / Frontier Manipur) — pre-Mar 2022.
+// 2. Miphai Tang inauguration + Koirer Anyee eco-tourism foundation, Phalee (Oct 2021, Ukhrul Times) — pre-Mar 2022.
+// 3. 500 capacity PSG oxygen plant inauguration, CHC Somdal (Oct 2021, Ukhrul Times) — pre-Mar 2022; PM CARES project waise bhi.
+// 4. Barrack-type teacher's quarter inauguration, Kachai Shimphungrim (Jan 2021, Ukhrul Times / Frontier Manipur) — pre-Mar 2022; ADC ke kaam bhi.
+// 5. Van Dhan Vikas Kendra launch, Chingai Block (Aug 2021, Ukhrul Times / Frontier Manipur) — pre-Mar 2022; kendriya yojana ka launch program.
+// 6. UADC projects inauguration (Luira 2020 Memorial Gate + teacher's quarter), Teinem/Phalee (Dec 2020, Ukhrul Times) — pre-Mar 2022; Ukhrul ADC ke faisle.
+// 7. PMGSY sadak prastav + NEC se Rs 25cr paani yojana ghoshna, Paorei Luita festival (Dec 2021, Ukhrul Times) — sirf prastav, "karenge" wali khabar.
+// 8. "Water for all" scheme ghoshna (Sep 2017, manipur.org) — pre-Mar 2022; sirf ghoshna.
+// 9. Talui police station foundation stone (2018, Sangai Express) — pre-Mar 2022.
+// 10. Challou river bridge inauguration (Mar 2018, nenow) — pre-Mar 2022; shilanyas mantri Biswajit ne kiya, MLA sirf maujood the.
+// 11. Shar Phanit festival speech, Chingai (Apr 2026, Poknapham) — sirf bhashan; koi lokarpan/shilanyas/ghoshna nahi.
+// 12. 6th State-level EduFest inauguration (2023, Ekhon) — karyakram udghatan, vikas kaam nahi.
+// 13. Mobile internet bahali bayaan (2023, Ukhrul Times) — mantri-kaal ka rajya-stariya vibhagiya faisla, seat-kaam nahi.
+// 14. PHSC Phungcham foundation stone, PM ABHIM (18 Oct 2023, Ukhrul Times) — shilanyas CM ne kiya; mantri ke roop me maujoodgi, seat-kaam attribution kamzor.
+// 15. HAC joint meeting attendance (Sep 2026, IndiaTodayNE/nenow) — samiti baithak me maujoodgi, kaam nahi.
+// 16. CM Khemchand ke Ukhrul daure me saath (Oct 2026, Tangkhul Express) — CM ke karyakram me sirf maujoodgi.
+// 17. Sep 2024 me Ukhrul niwas par grenade hamla (TOI aadi) — neta khud pidit, FIR darj, koi giraftari/dawa nahi; neta par koi aarop nahi, negative entry nahi bani. Oneindia/ourneta: un par 0 criminal cases.
+// 18. Office-of-profit se rahat (Dec 2021, Ukhrul Times) — rajnaitik khabar, vikas kaam nahi.
+// 19. Sirarakhong muft chikitsa swasthya shivir (RuralPost, 2 Sep 2025) — COORDINATOR OVERRIDE: muft shivir (charity) — vyaktigat welfare/charity = vikas-kaam nahi, standing rule.
+// 20. HSLC 2026 abhyarthiyon ke liye muft crash course coaching (RuralPost, 5 Feb 2026) — COORDINATOR OVERRIDE: muft coaching (charity) — vyaktigat welfare = vikas-kaam nahi, standing rule.
+// NAAM-TRAP: "Minister Khashim" wali khabrein unke hi mantri-kaal (2022-Feb 2025) ki hain — Halang road PWD/RIDF ki thi, Transport/V&AH vibhag ki nahi, isliye seat-lokarpan mana; "Khashim Ruivah" (purane MLA) alag vyakti — unki khabrein nahi jodi gayin.
+// NEGATIVE: koi nahi — Khashim Vashum ke khilaf koi FIR/case/adalaati ya adhikarik janch ki established-media reporting nahi mili; Sep 2024 grenade hamle me wo khud pidit the.
+
+// Coordinator QA note (Ukhrul district — 15 Oct 2026): 2/2 workers ne fragments diye; coordinator ne har fragment ka individual QA kiya — do sources (Poknapham Halang article; Ekhon Subji Mandi article) khud kholkar padhe. Vashum ki 2 charity entries (muft shivir, muft coaching) reject — vyaktigat welfare vikas-kaam nahi (Goa/TN charity-removal precedent). Muivah ki NDB water-project entry reject — sirf nirikshan/review (President's Rule daur ka site-visit), nirikshan alone = reject. Entrepreneurship Awards (cash prize) reject — personal charity. Shilanyas entry (Subji Mandi) rakhi gayi — MLA ne khud shilanyas kiya, Ekhon me sanction ka ullekh bhi hai, credit-transparency note me. Ram Muivah ki AAI CSR entries (ambulance + solar lights) unki documented vyaktigat pahal par hain — BHOOMI CSR precedent ke tahat rakhin. NHIDCL tender entry rakhi gayi — official tender + MLA ki dastavezi advocacy (Gadkari mulaqat), credit capped. Th. Muivah naam-trap saaf. Hygiene: Roman-script Hinglish (zero Devanagari/Meitei Mayek), currency sirf "Rs" (koi script-symbol nahi), koi escaped-newline nahi, entry objects me zero comments.

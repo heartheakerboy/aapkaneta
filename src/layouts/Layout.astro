@@ -196,6 +196,8 @@ const canonical = new URL(Astro.url.pathname, 'https://aapkaneta.org').href;
               <option value="goa">Goa</option>
               <option value="tn">Tamil Nadu</option>
               <option value="mn">Manipur</option>
+              <option value="mz">Mizoram</option>
+              <option value="nl">Nagaland</option>
             </select>
           </label>
           <label>Jila
@@ -282,8 +284,8 @@ const canonical = new URL(Astro.url.pathname, 'https://aapkaneta.org').href;
       var selA = document.getElementById('selAc');
       var go = document.getElementById('goBtn');
       if (!btn || !panel) return;
-      var HIER = { mha: '/hierarchy.json', guj: '/hierarchy-gujarat.json', raj: '/hierarchy-rajasthan.json', up: '/hierarchy-uttar-pradesh.json', del: '/hierarchy-delhi.json', mpst: '/hierarchy-madhya-pradesh.json', bih: '/hierarchy-bihar.json', asm: '/hierarchy-assam.json', ker: '/hierarchy-kerala.json', goa: '/hierarchy-goa.json', tn: '/hierarchy-tamilnadu.json', mn: '/hierarchy-manipur.json' };
-      var PREFIX = { mha: '', guj: '/gujarat', raj: '/rajasthan', up: '/uttar-pradesh', del: '/delhi', mpst: '/madhya-pradesh', bih: '/bihar', asm: '/assam', ker: '/kerala', goa: '/goa', tn: '/tamil-nadu', mn: '/manipur' };
+      var HIER = { mha: '/hierarchy.json', guj: '/hierarchy-gujarat.json', raj: '/hierarchy-rajasthan.json', up: '/hierarchy-uttar-pradesh.json', del: '/hierarchy-delhi.json', mpst: '/hierarchy-madhya-pradesh.json', bih: '/hierarchy-bihar.json', asm: '/hierarchy-assam.json', ker: '/hierarchy-kerala.json', goa: '/hierarchy-goa.json', tn: '/hierarchy-tamilnadu.json', mn: '/hierarchy-manipur.json', mz: '/hierarchy-mizoram.json', nl: '/hierarchy-nagaland.json' };
+      var PREFIX = { mha: '', guj: '/gujarat', raj: '/rajasthan', up: '/uttar-pradesh', del: '/delhi', mpst: '/madhya-pradesh', bih: '/bihar', asm: '/assam', ker: '/kerala', goa: '/goa', tn: '/tamil-nadu', mn: '/manipur', mz: '/mizoram', nl: '/nagaland' };
       var cache = {}, data = null, curD = null, curT = null;
       function curState() { return selS ? selS.value : 'mha'; }
 
