@@ -273,7 +273,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://www.MyNeta.info/Sikkim2024/candidate.php?candidate_id=19',
       backgroundNote: '',
     },
-    electionNote: '2024 me SKM ke ticket par Barfung se jeete (8,358 votes; SDF ke Bhaichung Bhutia ko 4,346 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Barfung se jeete (8,358 votes; SDF ke Bhaichung Bhutia ko 4,346 votes se haraya). Ab MLA-cum-Advisor, Buildings and Housing Department (sikkim.gov.in IPR press release, 12-Jun-2025).',
   },
   {
     slug: 'bhoj-raj-rai',
@@ -360,7 +360,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Sikkim2024/candidate.php?candidate_id=64',
       backgroundNote: '',
     },
-    electionNote: '2024 me SKM ke ticket par Melli se jeete (7,904 votes; CAP ke Ganesh Kumar Rai ko 4,283 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Melli se jeete (7,904 votes; CAP ke Ganesh Kumar Rai ko 4,283 votes se haraya). Ab MLA-cum-Advisor, Agriculture, Horticulture, AH&VS aur Fisheries vibhag (sikkim.gov.in IPR press release, 12-Jun-2025).',
   },
   {
     slug: 'sanjeet-kharel',
@@ -389,7 +389,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://MyNeta.info/Sikkim2024/candidate.php?candidate_id=76',
       backgroundNote: '',
     },
-    electionNote: '2024 me SKM ke ticket par Namthang-Rateypani se jeete (8,949 votes; SDF ke Suman Pradhan ko 5,605 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Namthang-Rateypani se jeete (8,949 votes; SDF ke Suman Pradhan ko 5,605 votes se haraya). Ab MLA-cum-Advisor, Power Department (Sikkim Express; Sikkim Chronicle; sikkim.gov.in IPR). Pahle mantri (Social Welfare, Buildings & Housing, WCD — 27 May 2019 se 10 Jun 2024); ab mantri nahi hain.',
   },
   {
     slug: 'bedu-singh-panth',
@@ -418,7 +418,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://MyNeta.info/Sikkim2024/candidate.php?candidate_id=116',
       backgroundNote: '',
     },
-    electionNote: '2024 me SKM ke ticket par Temi-Namphing se jeete (6,759 votes; SDF ke Suman Kumar Tewari ko 3,558 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Temi-Namphing se jeete (6,759 votes; SDF ke Suman Kumar Tewari ko 3,558 votes se haraya). Ab MLA-cum-Advisor, Excise Department aur Directorate of Sikkim State Lotteries (ipr.sikkim.gov.in ki Legislative Assembly suchi ke anusar).',
   },
   {
     slug: 'raj-kumari-thapa',
@@ -476,7 +476,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://MyNeta.info/Sikkim2024/candidate.php?candidate_id=122',
       backgroundNote: '',
     },
-    electionNote: '2024 me SKM ke ticket par Tumin-Lingee se jeete (8,265 votes; SDF ke Norzong Lepcha ko 4,088 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Tumin-Lingee se jeete (8,265 votes; SDF ke Norzong Lepcha ko 4,088 votes se haraya). Ab State Trading Corporation of Sikkim (STCS) ke Chairman bhi hain (Sikkim Express; Sikkim Chronicle; ipr.sikkim.gov.in ki Legislative Assembly suchi).',
   },
   {
     slug: 'nar-bahadur-dahal',
