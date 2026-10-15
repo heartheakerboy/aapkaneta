@@ -1,0 +1,418 @@
+{
+  "state": "Himachal Pradesh",
+  "stateSlug": "himachal",
+  "districts": [
+    {
+      "name": "Bilaspur",
+      "slug": "bilaspur",
+      "acs": [
+        {
+          "n": 46,
+          "name": "Jhanduta (SC)",
+          "slug": "jhanduta"
+        },
+        {
+          "n": 47,
+          "name": "Ghumarwin",
+          "slug": "ghumarwin"
+        },
+        {
+          "n": 48,
+          "name": "Bilaspur",
+          "slug": "bilaspur"
+        },
+        {
+          "n": 49,
+          "name": "Sri Naina Deviji",
+          "slug": "sri-naina-deviji"
+        }
+      ]
+    },
+    {
+      "name": "Chamba",
+      "slug": "chamba",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Churah (SC)",
+          "slug": "churah"
+        },
+        {
+          "n": 2,
+          "name": "Bharmour (ST)",
+          "slug": "bharmour"
+        },
+        {
+          "n": 3,
+          "name": "Chamba",
+          "slug": "chamba"
+        },
+        {
+          "n": 4,
+          "name": "Dalhousie",
+          "slug": "dalhousie"
+        },
+        {
+          "n": 5,
+          "name": "Bhattiyat",
+          "slug": "bhattiyat"
+        }
+      ]
+    },
+    {
+      "name": "Hamirpur",
+      "slug": "hamirpur",
+      "acs": [
+        {
+          "n": 36,
+          "name": "Bhoranj (SC)",
+          "slug": "bhoranj"
+        },
+        {
+          "n": 37,
+          "name": "Sujanpur",
+          "slug": "sujanpur"
+        },
+        {
+          "n": 38,
+          "name": "Hamirpur",
+          "slug": "hamirpur"
+        },
+        {
+          "n": 39,
+          "name": "Barsar",
+          "slug": "barsar"
+        },
+        {
+          "n": 40,
+          "name": "Nadaun",
+          "slug": "nadaun"
+        }
+      ]
+    },
+    {
+      "name": "Kangra",
+      "slug": "kangra",
+      "acs": [
+        {
+          "n": 6,
+          "name": "Nurpur",
+          "slug": "nurpur"
+        },
+        {
+          "n": 7,
+          "name": "Indora (SC)",
+          "slug": "indora"
+        },
+        {
+          "n": 8,
+          "name": "Fatehpur",
+          "slug": "fatehpur"
+        },
+        {
+          "n": 9,
+          "name": "Jawali",
+          "slug": "jawali"
+        },
+        {
+          "n": 10,
+          "name": "Dehra",
+          "slug": "dehra"
+        },
+        {
+          "n": 11,
+          "name": "Jaswan-Paragpur",
+          "slug": "jaswan-paragpur"
+        },
+        {
+          "n": 12,
+          "name": "Jawalamukhi",
+          "slug": "jawalamukhi"
+        },
+        {
+          "n": 13,
+          "name": "Jaisinghpur (SC)",
+          "slug": "jaisinghpur"
+        },
+        {
+          "n": 14,
+          "name": "Sullah",
+          "slug": "sullah"
+        },
+        {
+          "n": 15,
+          "name": "Nagrota",
+          "slug": "nagrota"
+        },
+        {
+          "n": 16,
+          "name": "Kangra",
+          "slug": "kangra"
+        },
+        {
+          "n": 17,
+          "name": "Shahpur",
+          "slug": "shahpur"
+        },
+        {
+          "n": 18,
+          "name": "Dharamshala",
+          "slug": "dharamshala"
+        },
+        {
+          "n": 19,
+          "name": "Palampur",
+          "slug": "palampur"
+        },
+        {
+          "n": 20,
+          "name": "Baijnath (SC)",
+          "slug": "baijnath"
+        }
+      ]
+    },
+    {
+      "name": "Kinnaur",
+      "slug": "kinnaur",
+      "acs": [
+        {
+          "n": 68,
+          "name": "Kinnaur (ST)",
+          "slug": "kinnaur"
+        }
+      ]
+    },
+    {
+      "name": "Kullu",
+      "slug": "kullu",
+      "acs": [
+        {
+          "n": 22,
+          "name": "Manali",
+          "slug": "manali"
+        },
+        {
+          "n": 23,
+          "name": "Kullu",
+          "slug": "kullu"
+        },
+        {
+          "n": 24,
+          "name": "Banjar",
+          "slug": "banjar"
+        },
+        {
+          "n": 25,
+          "name": "Anni (SC)",
+          "slug": "anni"
+        }
+      ]
+    },
+    {
+      "name": "Lahaul-Spiti",
+      "slug": "lahaul-spiti",
+      "acs": [
+        {
+          "n": 21,
+          "name": "Lahaul-Spiti (ST)",
+          "slug": "lahaul-spiti"
+        }
+      ]
+    },
+    {
+      "name": "Mandi",
+      "slug": "mandi",
+      "acs": [
+        {
+          "n": 26,
+          "name": "Karsog (SC)",
+          "slug": "karsog"
+        },
+        {
+          "n": 27,
+          "name": "Sundernagar",
+          "slug": "sundernagar"
+        },
+        {
+          "n": 28,
+          "name": "Nachan (SC)",
+          "slug": "nachan"
+        },
+        {
+          "n": 29,
+          "name": "Seraj",
+          "slug": "seraj"
+        },
+        {
+          "n": 30,
+          "name": "Drang",
+          "slug": "drang"
+        },
+        {
+          "n": 31,
+          "name": "Jogindernagar",
+          "slug": "jogindernagar"
+        },
+        {
+          "n": 32,
+          "name": "Dharampur",
+          "slug": "dharampur"
+        },
+        {
+          "n": 33,
+          "name": "Mandi",
+          "slug": "mandi"
+        },
+        {
+          "n": 34,
+          "name": "Balh (SC)",
+          "slug": "balh"
+        },
+        {
+          "n": 35,
+          "name": "Sarkaghat",
+          "slug": "sarkaghat"
+        }
+      ]
+    },
+    {
+      "name": "Shimla",
+      "slug": "shimla",
+      "acs": [
+        {
+          "n": 60,
+          "name": "Theog",
+          "slug": "theog"
+        },
+        {
+          "n": 61,
+          "name": "Kasumpti",
+          "slug": "kasumpti"
+        },
+        {
+          "n": 62,
+          "name": "Shimla Urban",
+          "slug": "shimla-urban"
+        },
+        {
+          "n": 63,
+          "name": "Shimla Rural",
+          "slug": "shimla-rural"
+        },
+        {
+          "n": 64,
+          "name": "Jubbal-Kotkhai",
+          "slug": "jubbal-kotkhai"
+        },
+        {
+          "n": 65,
+          "name": "Rohru (SC)",
+          "slug": "rohru"
+        },
+        {
+          "n": 66,
+          "name": "Chopal",
+          "slug": "chopal"
+        },
+        {
+          "n": 67,
+          "name": "Rampur (SC)",
+          "slug": "rampur"
+        }
+      ]
+    },
+    {
+      "name": "Sirmaur",
+      "slug": "sirmaur",
+      "acs": [
+        {
+          "n": 55,
+          "name": "Pachhad (SC)",
+          "slug": "pachhad"
+        },
+        {
+          "n": 56,
+          "name": "Nahan",
+          "slug": "nahan"
+        },
+        {
+          "n": 57,
+          "name": "Sri Renukaji (SC)",
+          "slug": "sri-renukaji"
+        },
+        {
+          "n": 58,
+          "name": "Shillai",
+          "slug": "shillai"
+        },
+        {
+          "n": 59,
+          "name": "Paonta Sahib",
+          "slug": "paonta-sahib"
+        }
+      ]
+    },
+    {
+      "name": "Solan",
+      "slug": "solan",
+      "acs": [
+        {
+          "n": 50,
+          "name": "Arki",
+          "slug": "arki"
+        },
+        {
+          "n": 51,
+          "name": "Nalagarh",
+          "slug": "nalagarh"
+        },
+        {
+          "n": 52,
+          "name": "Doon",
+          "slug": "doon"
+        },
+        {
+          "n": 53,
+          "name": "Solan (SC)",
+          "slug": "solan"
+        },
+        {
+          "n": 54,
+          "name": "Kasauli (SC)",
+          "slug": "kasauli"
+        }
+      ]
+    },
+    {
+      "name": "Una",
+      "slug": "una",
+      "acs": [
+        {
+          "n": 41,
+          "name": "Chintpurni (SC)",
+          "slug": "chintpurni"
+        },
+        {
+          "n": 42,
+          "name": "Gagret",
+          "slug": "gagret"
+        },
+        {
+          "n": 43,
+          "name": "Haroli",
+          "slug": "haroli"
+        },
+        {
+          "n": 44,
+          "name": "Una",
+          "slug": "una"
+        },
+        {
+          "n": 45,
+          "name": "Kutlehar",
+          "slug": "kutlehar"
+        }
+      ]
+    }
+  ]
+}
