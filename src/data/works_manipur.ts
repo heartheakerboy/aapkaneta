@@ -682,3 +682,55 @@ manipurWorks['ngursanglur-sanate'] = [
 // REJECT-LOG (Pherzawl district — research 15 Oct 2026)
 // ngursanglur-sanate (BJP, Tipaimukh ST; 2022 me JD(U) se jeete, Sep 2022 me BJP me vilay) — 2 entries. Rejects: (1) SBI Parbung branch ka udghatan (Northeast Today/UNI, 27 Feb 2026) — SBI Chairman ne Guwahati se virtual udghatan kiya, MLA ki koi bhoomika nahi → maujoodgi-credit reject; (2) 30 Sep 2026 ko CM Yumnam Khemchand se CSO pratinidhi-mandal ki mulaqat (Ukhrul Times/EastMojo/NEPS) — Jiribam-Tipaimukh road ka NH upgrade, Sipuikaun-Parbung power line, bank, Pherzawl ADC ki sirf maang; CM ne sirf janch ka ashwasan diya, koi parinaam nahi → maang-only reject; (3) Feb 2026 me mantriyon ki shapath-samaroh me upasthiti aur sarkaar me shamil hone ka bachav (Poknapham/Indian Express via) — rajnaitik maujoodgi/bayaanbaazi, kaam nahi → reject; (4) Kuki Human Rights Council dwara CM-meeting ki ninda (Northeast Today) — CSO ki rajnaitik ninda, koi FIR/case/adalaati link nahi → negative nahi; (5) Ngurdinglien Sanate Meritorious Awards samaroh (Virthli, 5 Apr 2025) — pita ke naam par community board ka puraskar samaroh, MLA mukhya atithi → ceremonial reject; (6) JD(U) ke 5 MLAs ka BJP me vilay (ThePrint/Statesman, Sep 2022) — rajnaitik ghatna, kaam nahi → reject; (7) Delhi courts PWDVA appeal matters (Ngursanglur Sanate vs D.F. Emelin Lalringzual, 2021-22, IndianKanoon) — civil/matrimonial matter, pre-term; 2022 halafname me 0 criminal cases; koi established media coverage nahi → negative nahi; (8) Thanlon (ST) seat rikt hai (purv MLA Vungzagin Valte nidhan) — unka koi record nahi banaya gaya.
 // Coordinator QA note: dono entries ke sources coordinator ne khud kholkar padhe — (1) PNB Senvon branch udghatan (The Hills Journal, 17 Apr 2026, article metadata me date verify): Imphal Times ne bhi usi din MLA dwara udghatan ki pushti ki; MLA dwara branch-sthapana ka shrey daawa khabar me darj hai — dawa badge + credit-disclosure; (2) Parvachawm-Daido sadak (Virthli, 20 Jun 2025, field dateline + photos): nirman pragati par; fund-srot/GO ka ullekh nahi — note me disclose. Slug 'ngursanglur-sanate' pehle file me nahi tha — koi overwrite nahi. Sabhi titles/notes Roman Hinglish, 0 anya script, 0 Rs-sign, 0 literal-\n.
+
+// ---- Senapati district batch (researched 2026-10-15) ----
+manipurWorks['j-kumo-sha'] = [
+];
+// REJECT-LOG (J Kumo Sha, Karong ST — research 15 Oct 2026)
+// 1. Barak Bailey Bridge collapse at Koide Biisho, inspection + CM/Works Minister se maang (Ukhrul Times, 22 Nov 2022 — khud khola): sirf nirikshan aur permanent RCC bridge ki appeal; koi lokarpan/shilanyas nahi, reject.
+// 2. Eat Right Mela inauguration, Multipurpose Hall Senapati (The Sangai Express via manipur.org, 25 Jun 2022): event ka udghatan, sarkari suvidha ka lokarpan nahi, vikas-kaam nahi; reject (ceremonial).
+// 3. PNNM 35th foundation day chief guest (Chronicle News Service via manipur.org, Aug 2022): community event, sirf mukhya atithi; reject (ceremonial).
+// 4. Poumai Naga areas drug-free zone declaration (Times of India, 8 May 2022): community resolution, vikas-kaam nahi; reject.
+// 5. "MLA elect Kumo Sha assures upliftment of Karong AC" (e-pao, May 2022): pre-term ashwasan, "karenge" wali khabar; reject.
+// 6. Poumai Naga Union dwara CM felicitation, Sanyi Dahrii Complex Khabung Karong (Ukhrul Times, Jun 2022): CM ke karyakram me sirf maujoodgi/bhashan; reject.
+// 7. "CM Biren lays foundation stones for various projects in Senapati" (thenortheastaffairs, Jan 2025) + DIPR Senapati press release: Kumo Sha sirf attendee list me; reject (CM ke karyakram me sirf maujoodgi).
+// 8. Mt Pisgah College 15th Annual College Week inauguration (The Sangai Express, 10 Oct 2023): college event chief guest; reject (ceremonial).
+// 9. Solid waste management vehicles flag-off, Senapati (nenow, Jun 2026): Dy CM ne flag off kiya, Kumo Sha sirf attendee; kaam ADC Senapati ka (ADC kaam MLA par attribute nahi); reject.
+// 10. 10 Naga MLAs ka joint letter — Tribal Affairs minister appoint karne ki maang (IANS/daijiworld, 29 Feb 2024): maang/prastav, vikas-kaam nahi; reject.
+// 11. Poumai Union cultural meet chief guest, Senapati DHQ (The Sangai Express via e-pao, 13 Feb 2026 — khud khola): sirf mukhya atithi, koi vikas ghoshna nahi; reject (ceremonial).
+// 12. Naga Legislature Forum ka Kotlen killings condemnation statement (e-pao, 14 May 2026): hinsa se juda rajnaitik bayan, vikas-kaam nahi; reject.
+// 13. Hill Areas Committee meetings me attendance (The Hills Journal, Sep 2026): committee baithak, kshetra-kaam nahi; reject.
+// 14. CM Khemchand Singh ka Senapati daura (EastMojo/hubnetwork, Apr 2026): Kumo Sha sirf saath me, CM ke karyakram me maujoodgi; reject.
+// 15. Koide Biisho Barak RCC bridge "under construction but stalled" (e-pao/Sangai Express, 27 Feb 2026): MLA ka isme koi lokarpan/shilanyas credit nahi, kaam atka pada hai; weak attribution se behtar kuch na jodna — reject.
+// Note: koi FIR/case/controversy J Kumo Sha ke khilaf established media me nahi mila — negative entry bhi nahi banti. Profile imaandari se khaali hai.
+manipurWorks['losii-dikho'] = [
+  {
+    title: 'Mao-Chakhabama vaikalpik marg ki marammat: NH-2 bandh hone par MLA ne CS ko patra likha, Nagaland CM se baat ki, sthal par marammat ki nigrani ki; bhaari vahanon ki aawajahi dobara shuru hui',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Ukhrul Times',
+    sourceUrl: 'https://ukhrultimes.com/mao-mla-losii-dikho/',
+    date: '2025-06-06',
+    note: 'Barish aur bhoo-skhalan se NH-2 (Kohima-Mao) Phesama ke paas bandh hone par Mao AC ke MLA Losii Dikho ne vyaktigat pehal ki: unhone Mao-Chakhabama via Kedima vaikalpik marg ka survey kiya, Kedima aur Chakhabama ke sthaniya netaon se mile, Manipur ke Mukhya Sachiv ko patra likhkar turant marammat ki maang ki aur Nagaland ke CM Neiphiu Rio se baat karke marg kholne ka samarthan liya. Mukhya Sachiv ke nirdesh par 9 km sadak par turant marammat hui aur MLA swayam sthal par do porclain, do JCB, roller, paanch dumper aur mazdooron ke saath kaam ki nigrani karte dikhe. Iske baad Manipur jaane wale bhaari truckon ki aawajahi dobara shuru hui. Credit disclosure: article me is pehal me Nagaland CM aur Manipur Speaker ke yogdaan ka bhi ullekh hai; ye sankat-avastha ki sadak-marammat thi, naya nirman nahi.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (Losii Dikho, Mao ST — research 15 Oct 2026)
+// 1. Vishal Mega Mart udghatan, Senapati (Sangai Express, 11 Mar 2025) — niji vyavsayik pratishthan ka sirf udghatan; sarkari suvidha nahi, koi fund-srot ya vikas-bhoomika nahi; ceremonial.
+// 2. Mao-Imphal temporary market shed, Kabo Leikai Nongchup, Imphal West (Sangai Express/DIPR, 8 Apr 2022) — sthal Mao AC se bahar (Imphal West); asthayi shed, CSOs ki vyavastha; MLA ne sirf udghatan kiya.
+// 3. Mayophung tribal market udghatan, Ukhrul jila (Aug 2026, Northeast Now/Ukhrul Times) — kshetra se bahar (Ukhrul); ADC Ukhrul ka 4th State Finance Commission kaam; Dy CM ke roop me sirf mukhya atithi; ADC ke kaam MLA par attribute nahi.
+// 4. Lairouching gaon peyjal yojana udghatan (Ukhrul Times, 5 Mar 2025) — Lairouching Tadubi AC (49-Tadubi) me hai, Mao AC se bahar; yojana MLA ke 2017-2022 PHE-mantri-kaal me shuru hui thi (pre-term mantri-kaam).
+// 5. Rikhruri Multipurpose Dam swikriti ghoshna, Senapati (Jul 2026, PTI/IANS) — CM Yumnam Khemchand Singh ka faisla/ghoshna; Dikho sirf saath me maujood Dy CM; MLA ki seat-astar ki dastavezi bhoomika nahi.
+// 6. Solid waste management vahan flag-off, ADC Senapati (Jun 2026, Northeast Now) — ADC Senapati ka 4th SFC/15th FC (Rs 2.90 crore) kaam; ADC ke faisle/kaam MLA par kabhi attribute nahi.
+// 7. NH-02 Senapati-Mao Gate sadak sthiti NHIDCL MD ke saamne uthana (Sangai Express, 24 Mar 2026) — sirf maang/discussion; koi swikriti, kaam ya parinam nahi.
+// 8. MSU Cultural Regale udghatan, Punanamei Mao (e-pao, 27 Dec 2024) — sanskritik karyakram ka mukhya atithi; vikas-kaam nahi, ceremonial.
+// 9. SDWA office-cum-shopping complex udghatan, Senapati (Chronicle News Service, 12 May 2022) — mahila sangathan ka niji bhavan; sarkari suvidha nahi; MLA ne sirf udghatan kiya, fund-srot gyaat nahi.
+// 10. XXth Hill Districts Badminton Championship chief guest, Senapati (Ukhrul Times, 2022) — khel samaroh me sirf mukhya atithi; ceremonial.
+// 11. Mao Council samman samaroh, Tadubi (India Today NE, 14 Mar 2026) — abhinandan karyakram; kaam nahi.
+// 12. Kavanam gaon piped water connection shilanyas (Chronicle News Service, Nov 2021) — pre-term (Mar 2022 se pehle) aur PHE-mantri-kaal ka kaam.
+// 13. Koberi waiting shed udghatan + Maje hanging bridge marammat nirikshan, Barak (Sangai Express, Jun 2022) — yuvaon ki pahal se nirmit; MLA ne sirf udghatan/daura kiya; sarkari suvidha nahi aur source article kholkar padha nahi ja saka (e-pao link dead, manipur.org timeout) — kamzor attribution par reject.
+// 14. JICA watershed project meeting, Imphal (Jul 2026, Northeast Now) — Dy CM ke roop me rajya-star discussion; prastavit project, Mao seat ka kaam nahi.
+// 15. CM Khemchand ka Senapati daura — parking hub, PHSC, anganwadi aadi udghatan/shilanyas (Apr 2026, HT/EastMojo) — sab CM ke karyakram; Dikho sirf maujood; mantri ke roop me PHE DPR nirdesh bhi rajya-star kaam.
+// 16. Delhi me Jal Shakti Mantri RC Patil se mulakat (Sangai Express, Mar 2026) — sirf discussion; koi swikriti ya seat-kaam nahi.
+// NOTE: Positive entry (6 Jun 2025, NH-2 vaikalpik marg) President's Rule daur ki hai — Ukhrul Times ki post-event reporting me survey-patra, CS-nirdesh, sthal-par nigrani aur parinam (truck movement) sab dastavezi hain, isliye swikrit.
+// Coordinator QA note: dono fragments padhe; Losii Dikho ki entry ka source (Ukhrul Times, 6 Jun 2025) coordinator ne khud kholkar padha — survey, CS-patra, Nagaland CM se baat, sthal-par nigrani aur trucks-resumed sab article me documented hai; badge news + credit-disclosure sahi; President's Rule daur ki post-event reporting hone ke bawajood dastavezi kadam + parinam ke kaaran li gayi. J Kumo Sha profile imaandari se khaali. Dono slugs file me pehle nahi the — koi overwrite nahi. Roman Hinglish hygiene python se verify (0 Devanagari, 0 Rs-sign, 0 literal-\n, 0 zero-width). Tadubi (ST) seat rikt hai — koi record nahi banaya gaya.
