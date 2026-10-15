@@ -108,7 +108,7 @@ jammuKashmirWorks['mir-mohammad-fayaz'] = [
 // District batch 14: Reasi — pending
 // District batch 15: Udhampur — pending
 // District batch 16: Kathua — DONE (researched 2026-10-15)
-// District batch 17: Samba — pending
+
 // District batch 18: Jammu — pending
 // District batch 19: Rajouri — pending
 // District batch 20: Poonch — pending
@@ -1685,3 +1685,111 @@ jammuKashmirWorks['vijay-kumar'] = [
 
 // Kathua REJECT-LOG (district): Rameshwar Singh 16+ rejects (whitelist-bahar khabrein, sirf nirikshan/maang); Satish Sharma 8 rejects (mantri-Satish Sharma ke kaam galat-vyakti, KV Ramkot/Hiranagar Court maujoodgi, blood donation rahat, Earth News non-whitelist 'karenge' daawa); Darshan Kumar 12 rejects (Tirdi blacktopping me MLA sirf maujood, Basohli Utsav/LG mulaqat maujoodgi-maang, CM Rs 11.58cr event maujoodgi, free ration/tents rahat, State Times non-whitelist); Rajiv Jasrotia 11 rejects (purane-mantri-era kaam 2014-18, jkmonitor/crosstownnews non-whitelist, 2018 tiranga FIR pre-tenure + agyaat vyaktiyon par — negative rule fail); Bharat Bhushan 20 rejects (R1-R20: ceremonial/maujoodgi, rahat, 'karenge' ghoshna, Ashu/KAS/Sharma namesake, non-whitelist); Vijay Kumar 18 rejects (patra/maang, rahat, karyakaal-se-pehle, parivar ka mamla — kabhi nahi). NEGATIVE: koi nahi (kisi MLA ke khilaf strict standard par koi FIR/court+jawab sthiti nahi mili).
 // Coordinator QA note (2026-10-15): 6/6 worker fragments khud kholkar padhe — sabhi ke source URL opened-and-read darj; pehchan-guards verified (Satish Sharma vs JKNC mantri; Bharat Bhushan Ashu/KAS/Sharma triple namesake; Darshan Kumar/Singh Excelsior naam-bhed note me disclosed; Rajiv Jasrotia vs Rajiv Sharma; Rameshwar Singh vs Bihar namesake; Vijay Kumar Hiranagar context). No drop/flip needed; sabhi badges/stage-disclosure niyam ke anusaar.
+
+// ---- Samba district batch (researched 2026-10-15) ----
+
+jammuKashmirWorks['ramgarh'] = [
+{ title: 'Channi Fatwal me Jal Shakti vibhag ke overhead tank ka shilanyas', category: 'Paani', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/manyal-lays-foundation-of-oht-at-channi-fatwal/', date: '2024-12-10', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne DDC Chairman Samba Keshav Dutt Sharma ke saath Channi Fatwal me Jal Shakti Department dwara banne wale overhead tank ke nirmaan ka shubharambh kiya; uddeshya ilake me peene ke paani ki vitaran vyavastha sudharna hai aur Channi Fatwal ke saath aaspaas ke gaon ke logon ko fayda hoga. Nirman-karta Jal Shakti Department hai, MLA ne karyakram ka netritva kiya. Stage: shilanyas.', period: '2024-2029' },
+  { title: 'Abtal se SM Pura tak Rs 2.70 crore ki sadak ka nirmaan shuru', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/mla-kick-starts-construction-work-on-abtal-to-s-m-pura-road/', date: '2025-04-16', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne Abtal se S M Pura tak sadak nirmaan kaam ka shilanyas kiya; pariyojna ki anumaanit lagat Rs 2.70 crore hai aur ye ilake ki lambe samay se pending maang thi. Karyakram me DDC member Ramgarh Anita Choudhary sahit sthaniya janpratinidhi maujood the. Stage: shilanyas (nirmaan shuru).', period: '2024-2029' },
+  { title: 'NABARD se Rs 2.56 crore ki Ramloo-Chak Salaria sadak ki blacktopping shuru', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/manyal-inaugurates-blacktopping-work-of-ramloo-chak-salaria-road/', date: '2025-06-08', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne NABARD-funded Ramloo se Chak Salaria tak sadak ki blacktopping kaam ka udghatan kiya; sanctioned lagat Rs 2.56 crore hai. Ye sadak Ramgarh kshetra ke 4-5 panchayaton ko seedhi connectivity degi aur Vijaypur, Swankha Mandir aur Baba Chamlyal shrine tak pahunch aasan hogi. Fund-srot NABARD hai, nirman PWD dwara. Stage: shilanyas (blacktopping kaam shuru).', period: '2024-2029' },
+  { title: 'Ramgarh me Rs 50 lakh ke lane-drain aur krishi karyalaya kaam shuru', category: 'Any', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/dr-manyal-kick-starts-development-works-worth-rs-50-lakh-in-ramgarh/', date: '2025-10-01', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne kai vikas karyon ka shilanyas kiya: Ramgarh Municipal Committee kshetra me lanes aur drains (Rs 20 lakh), Agriculture Extension Office Ramgarh ka upgradation (Rs 22 lakh) aur Bajwati Kajyal me lane-drain (Rs 8 lakh); kul anumaanit lagat Rs 50 lakh. Mauke par Chief Agriculture Officer Samba aur MC Ramgarh ke adhikari maujood the. Stage: shilanyas.', period: '2024-2029' },
+  { title: 'Rajpura-Sanoora road par Rs 25 lakh ki blacktopping ka udghatan', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/mla-inaugurates-road-blacktopping-work-3/', date: '2025-10-08', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne Rajpura-Sanoora Road par blacktopping kaam ka udghatan kiya; City and Town Scheme ke tahat pariyojna ki anumaanit lagat Rs 25 lakh hai. Karyakram me Executive Engineer PWD Samba Vijay Kumar Thappa sahit adhikari aur sthaniya log maujood the. Stage: shilanyas (blacktopping kaam shuru).', period: '2024-2029' },
+  { title: 'Rajpura kshetra me City & Town aur District CAPEX se teen sadak pariyojnaon ka shilanyas', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/manyal-inaugurates-macadamization-construction-of-roads-in-rajpura/', date: '2025-11-13', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne teen sadak pariyojnaon ka udghatan kiya: OSK se Ayushman Arogya Mandir Mawa aur Panchayat Ghar Mawa tak link road ki macadamization (Rs 12 lakh, CITY & TOWN 2025-26), Rajpura se Sarthian tak link road ki macadamization (Rs 18 lakh, CITY & TOWN 2025-26) aur Main Chowk Rajpura se Ditch tak sadak ka nirmaan (Rs 12 lakh, District CAPEX 2025-26). AEE R&B Samba aur prashasan ke adhikari maujood the. Stage: shilanyas.', period: '2024-2029' },
+  { title: 'Abtal-SM Pura sadak par Rs 2.70 crore ki blacktopping shuru', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/mla-starts-road-blacktopping-work-3/', date: '2025-12-01', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne Abtal se SM Pura tak sadak par Rs 2.70 crore ki blacktopping kaam shuru karwaya; ye April 2025 me shuru hue isi sadak nirmaan ka agla charan hai aur sthaniya logon ki lambe samay se pending maang thi. Sadak se aavagaman, sthaniya vyapar aur emergency sewaon me sudhar hoga. Stage: kaam shuru (blacktopping charan).', period: '2024-2029' },
+  { title: 'Ramgarh me PMGSY sadkon ka lokarpan, steel truss shed udghatan; Trindi community hall ka nirmaan shuru', category: 'Any', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/manyal-inaugurates-developmental-works/', date: '2025-12-12', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne ek hi din kai kaam kiye: PMGSY ke tahat grameen sadkon ke upgradation aur blacktopping (Rs 42 lakh) ka lokarpan, naye nirmit Steel Truss Shed sahit tile work (Rs 6 lakh) ka udghatan, gaon Abtal me lane (Rs 3 lakh) aur gaon Dug me drain (Rs 3.5 lakh) ka kaam shuru, aur gaon Trindi me community hall (Rs 30 lakh) ke nirmaan ka shilanyas. Fund-srot PMGSY sadkon ke liye kendriya PMGSY yojna hai. Stage: poorn (sadak + shed) aur shilanyas (lane, drain, hall) — dono ek saath.', period: '2024-2029' },
+  { title: 'Ramgarh me volleyball ground, passenger shed aur Sanoora me shed-lane-drain kaam shuru', category: 'Any', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/public-centric-development-right-of-every-citizen-dr-manyal/', date: '2025-12-13', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne Ramgarh me volleyball ground ke nirmaan (Rs 9 lakh) ka shilanyas kiya, Municipal Committee Ramgarh ke tahat selfie point aur passenger shed (Rs 4 lakh) ka nirmaan shuru karwaya, aur gaon Sanoora (Rajpura block) me do shed (Rs 5 lakh) ka shilanyas aur lane-drain (Rs 2.5 lakh) ka udghatan kiya. Mauke par DDC Rajpura, DDC Ramgarh aur MC Ramgarh ke adhikari maujood the. Stage: shilanyas.', period: '2024-2029' },
+  { title: 'Ramgarh me badh prabhavit ilakon me Rs 1 crore ke marammat kaam shuru', category: 'Any', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/dr-manyal-kick-starts-rs-one-crore-flood-repair-works-in-ramgarh/', date: '2025-12-25', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne Ramgarh ke badh prabhavit ilakon me Rs 1 crore ke marammat aur punarsthapna karyon ka shilanyas kiya; ye kaam flash floods se toote bandhon, sinchai aur badh-niyantran sanrachnaon ko mazboot karne ke liye hai. Nirman-karta Flood Control Department Samba hai; Executive Engineer Varinder Billowria ne takneeki vyora diya. Stage: shilanyas.', period: '2024-2029' },
+  { title: 'NABARD se Rs 1.97 crore ki Raipur Camp-OSK aur Bain Camp-Sordi sadkon ka nirmaan shuru', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/mla-starts-work-on-vital-roads/', date: '2026-04-30', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne Raipur Camp se OSK Road tak aur Bain Camp se Sordi tak sadkon ke nirmaan kaam shuru karwaya; NABARD ke tahat pariyojna ki anumaanit lagat Rs 1.97 crore hai aur ye seemavarti aur door-daraz ilakon ki connectivity badhayegi. Fund-srot NABARD hai, sarkari handout ke mutabiq kaam shuru hua. Stage: shilanyas.', period: '2024-2029' },
+  { title: 'Gaon Nanga me City and Town Scheme se Rs 30 lakh ki road blacktopping ka udghatan', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/dr-manyal-inaugurates-blacktopping-work/', date: '2026-10-04', note: 'MLA Ramgarh Dr Devinder Kumar Manyal ne gaon Nanga, Ramgarh me sadak ki blacktopping kaam ka udghatan kiya; City and Town Scheme ke tahat lagat Rs 30 lakh hai. MLA ke mutabiq sadak buniyadi dhanche ki prathmikta hai aur ye graameen samudaayon ki aavagaman suvidha badhayegi; sthaniya logon ne aabhaar vyakt kiya. Stage: shilanyas (blacktopping kaam shuru).', period: '2024-2029' },
+];
+
+jammuKashmirWorks['surjeet-singh-slathia'] = [
+{ title: 'Shilanyas: Higher Secondary School Goran (Block Sumb) me 10-kamron wali do-manzila imarat (Rs 1.85 crore)', category: 'School', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/slathia-reviews-health-sector-lays-foundation-of-school-building/', date: '2024-10-28', note: 'UT Capex budget se Rs 1.85 crore ki lagat wali 10 kamron ki do-manzila imarat ka shilanyas; report me school ka naam Higher Secondary School Goran, Block Sumb darj hai; MLA ne gunvatta aur tay samay me kaam poora karne par jor diya.', period: '2024-2029' },
+  { title: 'Shilanyas: Samba shahar Water Supply Scheme ka sudhaar aur vistar (Rs 213.7 lakh)', category: 'Paani', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/bjp-for-consolidating-peace-in-jk-isolating-divisive-forces-slathia/', date: '2024-11-12', note: 'UT Capex budget ke tahat kul Rs 213.7 lakh ki yojna ka shilanyas; isme Sangwali me 10000-gallon kshamta ka sump tank, Sangwali Mandi me do tube well pump room building aur filtration plant, tube well cum pump room building, chaar compound wall aur rising main va distribution system shamil hai; MLA ne gunvatta aur tay samay me kaam poora karne ka nirdesh diya.', period: '2024-2029' },
+  { title: 'Shilanyas: Sangwali me Water Supply Scheme ka balance work (Rs 100.22 lakh)', category: 'Paani', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/nc-cong-exposed-for-disempowering-marginalized-people-of-jk-slathia/', date: '2024-11-14', note: 'Sangwali me WSS ke balance work ke nirmaan ka shilanyas; aavantit lagat Rs 100.22 lakh; Block Ghagwal me Vijay rally ke dauraan karyakram hua.', period: '2024-2029' },
+  { title: 'Shilanyas: gaon Chann Matloni Tapyal me causeway ka nirmaan (Rs 94 lakh)', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/nc-cong-exposed-for-disempowering-marginalized-people-of-jk-slathia/', date: '2024-11-14', note: 'Gaon Chann Matloni Tapyal me causeway ke nirmaan ka shilanyas; anumaanit lagat Rs 94 lakh; Block Ghagwal me Vijay rally ke dauraan karyakram hua.', period: '2024-2029' },
+  { title: 'Kaam shuru: gaon Sagel se Shamshan Ghat tak link road ki macadamization, Block Ghagwal (Rs 15 lakh)', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/pm-modis-strong-leadership-brought-turnaround-in-jk-slathia/', date: '2024-11-21', note: 'Block Ghagwal me vikas karyon ke dauraan MLA ne macadamization ka kaam shuru kiya; report me anumaanit lagat Rs 15 lakh darj hai; fund-srot report me nirdisht nahi hai.', period: '2024-2029' },
+  { title: 'Kaam shuru: Sumb se SC Mohalla Katli tak link road (Rs 85 lakh)', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/pm-modis-strong-leadership-brought-turnaround-in-jk-slathia/', date: '2024-11-21', note: 'Sumb kshetr me MLA ne link road ka kaam shuru kiya; report me anumaanit lagat Rs 85 lakh darj hai; fund-srot report me nirdisht nahi hai.', period: '2024-2029' },
+  { title: 'Kaam shuru: gaon Taloor me Mohalla Ram Lal va anyon tak approach road (Rs 58 lakh)', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/pm-modis-strong-leadership-brought-turnaround-in-jk-slathia/', date: '2024-11-21', note: 'Gaon Taloor me approach road ka kaam shuru; report me anumaanit lagat Rs 58 lakh darj hai; fund-srot report me nirdisht nahi hai.', period: '2024-2029' },
+  { title: 'Kaam shuru: Govt Higher Secondary School Sumb me lab block ka nirmaan (Rs 133 lakh)', category: 'School', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/pm-modis-strong-leadership-brought-turnaround-in-jk-slathia/', date: '2024-11-21', note: 'Govt Higher Secondary School Sumb me lab block ke nirmaan ka kaam shuru; report me anumaanit lagat Rs 133 lakh darj hai; fund-srot report me nirdisht nahi hai.', period: '2024-2029' },
+  { title: 'Kaam shuru: ACR aur examination hall ka nirmaan (Rs 197 lakh)', category: 'School', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/pm-modis-strong-leadership-brought-turnaround-in-jk-slathia/', date: '2024-11-21', note: 'ACR va examination hall ke nirmaan ka kaam shuru; report me anumaanit lagat Rs 197 lakh darj hai; school ka naam report me nirdisht nahi hai isliye sthan nahi joda gaya.', period: '2024-2029' },
+  { title: 'Kaam shuru: Smotha me Basenter nadi par 100-meter foot suspension bridge (Rs 195 lakh)', category: 'Any', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/pm-modis-strong-leadership-brought-turnaround-in-jk-slathia/', date: '2024-11-21', note: 'Smotha me Basenter nadi par 100-meter span ke foot suspension bridge ke nirmaan ka kaam shuru; report me anumaanit lagat Rs 195 lakh darj hai; fund-srot report me nirdisht nahi hai.', period: '2024-2029' },
+  { title: 'Lokarpan: Govt Accidental Hospital Ghagwal me aadhunik X-ray diagnostic plant (Rs 50 lakh)', category: 'Aspataal', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/slathia-inaugurates-x-ray-plant-at-ghagwal-hospital/', date: '2025-05-01', note: 'Sun Pharma ke sahyog se Rs 50 lakh ki lagat se sthapit aadhunik X-ray suvidha ka lokarpan; karyakram me Director Health Services Jammu va Sun Pharma ke adhikari maujood the. Akhbaar ne MLA ko galti se former MLA likha hai, lekin karyakram 1 May 2025 ka hai jo unke vartaman karyakaal me padta hai; Ghagwal Samba seat me hi hai.', period: '2024-2029' },
+  { title: 'Kaam shuru: gaon Sarian se Bupneragarh tak 8.5 km PMGSY sadak (Rs 21 crore)', category: 'Sadak', badge: 'news', sourceLabel: 'Daily Excelsior', sourceUrl: 'https://www.dailyexcelsior.com/jugal-salathia-kick-start-rs-21-cr-sarian-bupneragarh-road/', date: '2026-01-08', note: 'Kendriya PMGSY yojna ke tahat 8.50 km sadak ke nirmaan va rakh-rakhav ka kaam sansad Jugal Kishore Sharma ke saath sanyukt roop se shuru; anumaanit lagat lagbhag Rs 21 crore; Block Nud, Samba seat; shrey kendr ki PMGSY yojna aur dono netaon ke sanyukt prayas ka hai.', period: '2024-2029' },
+];
+
+jammuKashmirWorks['chander-parkash'] = [
+{
+    title: 'MLA Chander Parkash Ganga ne Pekhari (Panchayat Salmeri) me Rs 94 lakh ki sadak ka kaam shuru karwaya — Pekhari ko Thandi Khui National Highway se jodegi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/will-fulfill-promises-made-to-public-during-elections-ganga/',
+    date: '2024-11-11',
+    note: 'Stage kaam-shuru (kick-start) hai, poorn nahi. MLA ne DDC Chairman Samba Keshav Dutt Sharma ke saath gaon Pekhari (Panchayat Salmeri) me Rs 94 lakh ki sadak ka kaam shuru karwaya; sadak Pekhari ko Thandi Khui National Highway se jodegi. Kaam PWD dwara ho raha hai; MLA ne quality par samjhota nahi ka nirdesh diya. Ye gaon ki chunav-samay ki maang thi. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Purmandal me Devak (Shiv Mandir) se Nabha Dass Mandir tak Rs 1.23 crore ki link road ka nirmaan shuru karwaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ganga-kick-starts-construction-of-road-in-purmandal/',
+    date: '2024-12-15',
+    note: 'Stage kaam-shuru (kick-start), poorn nahi. MLA ne Purmandal me Devak (Shiv Mandir ke paas) se Nabha Dass Mandir tak link road ka nirmaan shuru karwaya; lagat Rs 1.23 crore; kaam PWD ne liya hai. Kshetra ki lambe samay se pending maang thi. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Gagore se Channi Manhasan (Panchayat Gadwal-B) aur Reor ke Chouhan Mohalla (Panchayat Meen Sarkar) me do sadkon ki macadamization shuru karwai — kul lagat Rs 23 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ganga-kick-starts-macadamization-of-roads-in-vijaypur/',
+    date: '2024-12-17',
+    note: 'Stage kaam-shuru (kick-start), poorn nahi. MLA ne do alag sadkon ki macadamization shuru karwai — Gagore se gaon Channi Manhasan (Panchayat Gadwal-B, lagat Rs 15 lakh) aur Chouhan Mohalla, gaon Reor (Panchayat Meen Sarkar, lagat Rs 8 lakh). MLA ke anusaar dono sadken unke pichhle karyakaal me macadam hui thi aur dobara blacktopping ki zaroorat thi. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne DDC Chairman Samba ke saath Vijaypur Panchayat ke naye Panchayat Ghar (lagat Rs 29 lakh) ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ganga-inaugurates-newly-built-panchayat-ghar/',
+    date: '2025-02-21',
+    note: 'Stage poorn/lokarpan. MLA ne DDC Chairman Samba ke saath Vijaypur Panchayat ke naye bane Panchayat Ghar ka lokarpan kiya; pariyojana lagbhag Rs 29 lakh ki lagat par poori hui, jisse Gram Sabha aur panchayat ke kaam ho sakenge. Fund-srot report me nirdisht nahi, lekin PRI infrastructure par sarkari zor ka sandarbh diya gaya. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Vijaypur me teen link sadkon ki blacktopping shuru karwai — Nagrota (Utterbehni-Vijaypur link), Suchani aur Utterbehni Panchayat ke mohalle; kul lagat Rs 50 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ganga-kick-starts-blacktopping-of-3-roads-in-vijaypur-constituency/',
+    date: '2025-10-17',
+    note: 'Stage kaam-shuru (kick-start), poorn nahi. MLA ne Vijaypur seat me teen link sadkon ki blacktopping shuru karwai — gaon Nagrota ko Utterbehni-Vijaypur link road se jodne wali sadak (Rs 15 lakh), Suchani road (Rs 10 lakh) aur Panchayat Utterbehni ke Mohalla Samrala, Mohalla Shadpal aur Mohalla Nohad (Rs 25 lakh); kul lagat Rs 50 lakh; City Town Plan ke tahat PWD dwara nirmaan. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne apne CDF se bani Ward 4 aur 5 (MC Bari Brahmana) ki lane-drain (lagat Rs 10 lakh) ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ganga-inaugurates-lane-drain-work-in-ward-4-5-bari-bahmana/',
+    date: '2026-02-23',
+    note: 'Stage poorn/lokarpan. MLA ne Municipal Committee Bari Brahmana ke Ward 4 aur 5 me bani lane-drain (lagat Rs 10 lakh) ka lokarpan kiya; kaam MLA ke Constituency Development Fund (CDF) se hua. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Purmandal-Paddal 2.5 km sadak ka shilanyas kiya — NABARD yojana se PWD dwara, lagat Rs 4.58 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/ganga-lays-foundation-stone-for-2-5-km-purmandal-paddal-road/',
+    date: '2026-10-06',
+    note: 'Stage shilanyas (foundation stone), poorn nahi. MLA ne bhoomipujan ke baad 2.5 km lambi Purmandal-Paddal sadak ka shilanyas kiya; lagat Rs 4.58 crore; NABARD yojana ke tahat PWD dwara nirmaan. Report ke anusaar Paddal gaon ko azaadi ke baad pehli baar pakki sadak connectivity milegi. Post-event reporting: Daily Excelsior.',
+    period: '2024-2029',
+  },
+];
+
+// Samba REJECT-LOG (district consolidated): Manyal 15 rejects (MPLAD/LG maujoodgi, SASCI/RDSS/tubewell/HSS/Medicare/Dabuj Kaka/Chamliyal/Chann Protian/Karalia sab non-whitelist, Kisan Mela/maangein/purane-Samba-era, stone-throwing attack me MLA khud victim — negative nahi); Slathia 11 rejects (jkmonitor/earlytimes/statetimes Green Strip/Tapyal Mandi/Chak Medu/Gurha Slathia — whitelist-bahar; purane 2013-14/2018 kaam; LG auditorium; assembly prashn/maang; NDPS/Sourav-Slathia galat-vyakti); Parkash 22 rejects (purane 2016-19 karyakaal ki 12 items; AIIMS/MP-Rs18cr purane-era; CSR sewing centre Early Times; jammulinksnews duplicate; Bazigar Basti video-only; medical camps/relief; LG Devak Bridge maujoodgi; LG mulaqat; Haryana Chander Prakash galat-vyakti; patni-nidhan parivar-mamla; HT land-encroachment FIR pre-term + affidavit me 0 cases; chunav rally/feature). NEGATIVE: teeno me koi nahi (strict standard par koi FIR/court+jawab sthiti nahi mili; Chander Parkash Ganga = Chander Parkash identity assemble_jk rename map se pushti).
+// Coordinator QA note (2026-10-15): 3/3 worker fragments khud kholkar padhe; koi drop/flip nahi — badge/stage/fund-disclosure niyam ke anusaar (Manyal flood-repair shilanyas infrastructure restoration = valid; Slathia 'former MLA' typo note me disclosed; Parkash Purmandal-Paddal NABARD Rs 4.58cr shilanyas sahit sabhi post-event whitelisted reporting).
