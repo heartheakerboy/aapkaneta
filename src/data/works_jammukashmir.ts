@@ -98,7 +98,6 @@ jammuKashmirWorks['mir-mohammad-fayaz'] = [
 
 // District batch 3: Bandipora — pending
 // District batch 4: Ganderbal — pending
-// District batch 6: Budgam — pending
 // District batch 7: Pulwama — pending
 // District batch 8: Shopian — pending
 // District batch 9: Kulgam — pending
@@ -642,4 +641,125 @@ jammuKashmirWorks['tanvir-sadiq'] = [
 jammuKashmirWorks['mubarik-gul'] = [];
 
 jammuKashmirWorks['tariq-hameed-karra'] = [];
+
+// ---- Budgam district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - aga-syed-muntazir-mehdi (PDP, Budgam): 12 REJECT (0 entries) — karyakaal sirf Nov 2025 se (upchunav vijeta, ~11 mahine); CM Omar ka Rs 100cr Budgam projects event (Mehdi sirf saath me, sirf maujoodgi); Bemina grievance tour (sirf nirikshan/daura, DPR bina GO swikriti nahi); Assembly Zero Hour maang (Soibug sadak, Reshipora hospital); Jal Shakti mantri se mulaqat (sirf maang); Gadkari/Vaishnaw ko chitthi (sirf patra-maang); KNS college bus CDF ghoshna (whitelist-bahar + post-event reporting nahi); X-post road daave; vidhayi kaam (bills); EC show-cause (pre-tenure, FIR/court nahi — negative nahi). NEGATIVE: koi nahi (Aga Syed Ruhullah Mehdi MP + Aga Syed Mehmood pratidwandi se pehchan alag rakhi).
+// - shafi-ahmad-wani (JKNC, Beerwah): 3 entries. 9 REJECT — Rising Kashmir Rs 8.5cr DPR (prastav stage); Kashmir Life NH-701A (vivaad, seat-kaam nahi); Gadyal Kashmir items (whitelist-bahar); Tribune mantri Sakeena Itoo Beerwah karyakram (sirf maujoodgi); galat vyakti (Surankote/Poonch ke mantri Wani); SDRF relief (rahat); pre-tenure 2008-14 daave. NEGATIVE: koi nahi (ADR 0 cases).
+// - saif-ud-din-bhat (JKNC, Khan Sahib): 12 REJECT (0 entries) — road macadamisation inauguration (jkupdatenews, whitelist-bahar); NABARD roads Rs 2.10cr+Rs 1.07cr (gadyalkashmir, whitelist-bahar); HSS Khag building Rs 361.76L + Samagra Rs 96.40L (asiannewsservices/gadyalkashmir, whitelist-bahar); satellite dental centre (non-whitelist + MLA sirf guest); Rs 2cr road (YouTube-only); Zero Hour maang (degree college, Doodhpathri, escort); CM delegation + CM Rs 100cr projects (maujoodgi); mantri Javed Rana vibhagiya jawab; Tribune Doodhpathri amenities (departmental announcement, tender stage). NEGATIVE: koi nahi.
+// - abdul-rahim-rather (JKNC, Charari Sharief — Speaker): 7 entries (sab vyaktigat lokarpan, credit-transparency notes sahit). ~12 REJECT — Tangnar Sheikhpura roads/bridge shilanyas (article khud location "Chadoora" batata hai, galat seat); SDH Charar laparoscopy (whitelist-bahar); Hayatpora Rs 80L bridge (YouTube-only); review meetings (sirf nirikshan); LG Sinha Rs 40cr projects (CM/LG ka kaam); Urs/baithaken + "karenge" ashwasan. NEGATIVE: koi nahi (BJP removal-motion sirf procedural/rajnaitik, FIR/court nahi).
+// - ali-mohammad-dar (JKNC, Chadoora): 11 REJECT (0 entries) — GDC Chadoora shilanyas (mantri Sakeena Itoo ne kiya, sirf maujoodgi); CM Rs 100cr projects + Chewdara bridge + Seerbagh-Sempora bridge (sirf maujoodgi/vibhagiya); Chadoora main bridge Rs 999.54L (PWD vibhagiya); Hanjigund-NABARD bridge (vibhagiya); waterlogging DPR Rs 443.85L (sirf prastav); Yusmarg four-laning maang; cricket final (ceremonial); outreach/ashwasan ("karenge"). Kareeb thi: SDH Chadoora dialysis centre lokarpan (Rs ~45L) — sirf KNO/YouTube, whitelist-bahar → REJECT. NEGATIVE: koi nahi (Javid Ahmad Dar mantri alag vyakti; "Ali Mohammad Dar" Hizbul militant alag vyakti — pehchan pakki rakhi).
+// Coordinator QA note (2026-10-15): saare 5 fragments kholkar padhe; koi drop/flip nahi karna pada — badge/stage niyam ke anusaar sahi the (Rather ke 7 lokarpan me credit-transparency poori, Wani ke Rs 2.50cr stadium par dawa badge sahi); titles/notes Roman-Hinglish only (Python-verified); har entry me 8 fields; sabhi dates calendar-valid aur Oct 2024–Oct 2026 window me; sabhi 5 slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['aga-syed-muntazir-mehdi'] = [];
+
+jammuKashmirWorks['shafi-ahmad-wani'] = [
+  {
+    title: 'Beerwah vidhan sabha kshetra me 2025-26 me kul lagbhag 30 sadak nirman kaam execution par',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/rs-9-78-cr-road-constructions-under-execution-in-beerwah-dy-chief-minister/',
+    date: '2026-04-01',
+    note: 'Stage ka sach: nirmanadhin (under execution). MLA Dr Shafi Ahmad Wani ke vidhan sabha prashna ke uttar me Dy CM ne sadan me vibhagiya aankde diye — Pothole programme ke tahat Rs 519.34 lakh ke kaam aur Cities and Towns programme ke tahat Rs 459 lakh ke 12 kaam, kul lagbhag Rs 9.78 crore. Fund-srot: sarkari (R&B vibhag ke Pothole aur C&T programmes), MLA fund nahi. Credit-transparency: MLA ki bhoomika sirf prashna uthana thi; kaam ka execution vibhag ka hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Beerwah ke Watalpora me bahuuddeshiya khel maidan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/sports/multipurpose-playfield-inaugurated-at-watalpora-in-budgam-11878146',
+    date: '2026-05-14',
+    note: 'Stage ka sach: lokarpan (poora hua kaam ka udghatan). MLA Dr Shafi Ahmad Wani ne DC Budgam ke saath Beerwah upkhand ke Watalpora me bahuuddeshiya khel maidan ka vyaktigat roop se lokarpan kiya. Credit-transparency: project Grameen Vikas (Rural Development) aur Panchayati Raj vibhag ka tha, fund rakam article me nahi di gayi; MLA ki asal bhoomika lokarpan samaroh me sahbhagita hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Beerwah ke Rathsun gaon me khel stadium ke liye Rs 2.50 crore ke allocation ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/8-5-cr-dpr-submitted-for-beerwah-road-works-mla-wani-12416955',
+    date: '2026-08-23',
+    note: 'Stage ka sach: ghoshna. MLA ne press se baatcheet me kaha ki Rathsun gaon me prastavit khel stadium ke liye sarkar ne Rs 2.50 crore allocate kiye hain. Credit-transparency: allocation ka daawa sirf MLA ke apne press-bayan par adharit hai, kisi sanction order ya GO ki pakki report nahi mili, isliye badge dawa hai. Usi bayan me Rs 8.50 crore ke DPR jama karne ki baat bhi thi jo prastav stage ki hai aur isliye entry me nahi li gayi.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['saif-ud-din-bhat'] = [];
+
+jammuKashmirWorks['abdul-rahim-rather'] = [
+  {
+    title: 'GDC Chrar-i-Sharief me Rs 2.28 crore ke Indoor Sports Complex aur Rs 97 lakh ke Library Block extension ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/speaker-assembly-education-minister-conduct-extensive-tour-of-chrar-i-sharief/',
+    date: '2024-12-14',
+    note: 'Rather ne 14 December 2024 ko Shiksha Mantri Sakina Itoo ke saath milkar Government Degree College Chrar-i-Sharief me Indoor Sports Complex (lagat Rs 2.28 crore) aur Library Block ke extension (lagat Rs 97 lakh) ka lokarpan kiya. Dono suvidhaen sarkari (Higher Education) fund se bani hain aur lokarpan mantri ke saath sanyukt tha — MLA ka vyaktigat yogdaan lokarpan tak seemit hai, isliye credit sarkari machinary aur mantri ke saath shared hai. Usi daure ke SDH nirikshan ko kaam me nahi gina gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'GHSS Pakarpora me Rs 1.60 crore ki additional accommodation block ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/abdul-rahim-rather-inaugurates-additional-block-of-ghss-pakarpora/',
+    date: '2025-06-24',
+    note: 'Rather ne 24 June 2025 ko Government Higher Secondary School Pakarpora ki additional accommodation block ka lokarpan kiya; lagat Rs 1.60 crore aur kaam R&B Division Charar-i-Sharif ne poora kiya. Fund sarkari hai; MLA ne vyaktigat lokarpan kiya. Usi mauke par library aur play field ke diye gaye ashwasan (karenge) ko kaam me nahi gina gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'PHC Hayatpora me nayi Dental aur Digital X-Ray units ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/speaker-legislative-assembly-visits-charar-e-sharief-constituency/',
+    date: '2025-12-11',
+    note: 'Rather ne 11 December 2025 ko apne constituency daure me PHC Hayatpora me nayi sthapit Dental aur Digital X-Ray units ka lokarpan kiya. Suvidha sarkari swasthya vibhag ki hai; fund-srot article me specified nahi hai. MLA ne vyaktigat lokarpan kiya. Usi daure ki SDH Nagam aur PHC Kremshore ki keval mulaqat aur Sursyaar PHC ke 24x7 hone ke ashwasan (karenge) ko kaam me nahi gina gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'PHC Sursyaar me digital X-ray plant ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/speaker-legislative-assembly-visits-charar-e-sharief-constituency/',
+    date: '2025-12-11',
+    note: 'Usi 11 December 2025 ke daure me Rather ne PHC Sursyaar ka nirikshan karke wahan lage digital X-ray plant ka lokarpan kiya. Suvidha sarkari swasthya vibhag ki hai; fund-srot article me specified nahi hai. MLA ne vyaktigat lokarpan kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Charar-e-Sharief seat me Jal Jeevan Mission ke tehat Rs 20 crore ki water supply schemes ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Kashmir Life',
+    sourceUrl: 'https://kashmirlife.net/rs-20-crore-water-supply-schemes-inaugurated-in-central-kashmir-417967/',
+    date: '2025-12-20',
+    note: 'Rather ne 20 December 2025 ko Charar-e-Sharief constituency me Jal Jeevan Mission ke tehat bani water supply schemes ka lokarpan kiya; lagat Rs 20 crore aur lagbhag 21,000 logon ko Functional Household Tap Connections ka fayda, Kaisermulla, Kadipora, Kulmach Objipathri, Hakhpora Haptnar aur Sheer Check jaise ilakon me. Fund-srot kendra sarkar ka Jal Jeevan Mission hai; mauke par PHE ke SE aur Executive Engineer maujood the. MLA ne vyaktigat lokarpan kiya, kaam sarkari machinary ka hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Nowgam se Kanidajan tak 9 km sadak ke Rs 1.72 crore macadamisation kaam ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/j-k/speaker-opens-repair-work-on-nowgam-road/amp/',
+    date: '2026-09-23',
+    note: 'Rather ne 23 September 2026 ko Nowgam se Kanidajan tak 9 km lambi sadak ke macadamisation kaam ka lokarpan kiya; article me lagat Rs 1.72 crore batayi gayi hai. Article me fund-srot specified nahi hai aur ye saaf nahi hai ki kaam poora hua tha ya usi din shuru hua tha, isliye stage lokarpan darj hai. MLA ne vyaktigat lokarpan kiya, lekin sadak sarkari (PWD/R&B) project hai, isliye credit sarkari machinary ke saath shared hai. Usi din Darekanjan aur Braripathri ki keval jan-mulaqat ko kaam me nahi gina gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Watkaloo me naye Primary Health Centre ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/j-k/speaker-opens-repair-work-on-nowgam-road/amp/',
+    date: '2026-09-23',
+    note: 'Usi 23 September 2026 ke daure me Rather ne Watkaloo me ek naye Primary Health Centre ka lokarpan kiya, jisse aas-paas ke gaonon ko buniyadi swasthya suvidha paas me milegi. Article me fund-srot specified nahi hai; sarkari swasthya vibhag ki suvidha hai jiska MLA ne vyaktigat lokarpan kiya.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['ali-mohammad-dar'] = [];
 
