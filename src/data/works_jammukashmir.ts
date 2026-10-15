@@ -789,3 +789,35 @@ jammuKashmirWorks['waheed-ur-rehman-para'] = [
 ];
 
 jammuKashmirWorks['ghulam-mohi-uddin-mir'] = [];
+
+// ---- Shopian district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - showkat-hussain-ganie (JKNC, Zainapora): 1 entry. 8 REJECT — Daarbag Rs 3.7cr bridge shilanyas (YouTube-only, whitelist me nahi); seb MIS Zero Hour maang (sirf maang); hailstorm KCC loan waiver maang (sirf maang + non-whitelist); district/sectoral officers review meeting (sirf baithak); Ayush anti-drug camp udghatan (keval maujoodgi + non-whitelist); Sakeena Itoo Kokernag daure me saath (mantri karyakram + seat-bahar); Allowpora land party daura (rajnaitik mudda). NEGATIVE: nahi (affidavit ka pre-term case, koi nayi sthiti nahi — rule ke tahat reject).
+// - shabir-ahmad-kullay (IND, Shopian): 1 entry. 10 REJECT — youth convention khud-daave (pesticide lab/marriage hall/AYUSH hospital: bina GO ghoshna); Rs 4.98cr MC Shopian shilanyas (Kashmir Horizon non-whitelist); tourism review meeting (sirf baithak); eviction-notice bill vaada (sirf bayan); Army handover bayan (rajnaitik); CM Rs 76cr package (sirf maujoodgi); Assembly pesticide sawal (koi outcome nahi); hail/fire daure (relief/daura); CDF bore well + GHSS Heerpora sirf social-media daave. NEGATIVE: nahi (ACB-complaint reports me koi FIR/case sthiti nahi).
+// Coordinator QA note (2026-10-15): ganie ki Vidhansabha sawal wali entry DROP ki — sub-centre upgrade ki maang ka mantri ne likhit jawab me saaf inkaar kiya (consolidation policy + austerity GO); inkaar-shuda maang me koi administrative outcome/assurance nahi, isliye maang/prastav wale reject-niyam par bahar. kullay ki RKS swikriti entry KEPT — Daily Excelsior me prashasnik nikay ke itemized faisle (fund-srot sahit) ki established reporting, MLA ki bhoomika sanyukt adhyaksh tak seemit (note me capped). Batch me 0 Devanagari, 0 rupee-symbol, 0 literal-\n; har entry me 8 fields; dono dates tenure-window me; dono slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['showkat-hussain-ganie'] = [
+  {
+    title: 'Zainapora ke paanch blocks me swachhata ke liye 6 sanitation gaadiyon (Hooper aur Dumper) ka flag-off; BDOs ko saunpa gaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://www.risingkashmir.com/index.php/shopian-mla-flags-off-sanitation-vehicles-to-boost-rural-hygiene-efforts',
+    date: '2025-05-17',
+    note: '17 May 2025 ko MLA Zainapora Showkat Hussain Ganie ne Chitragam, Zainapora, Imamsahib, Herman aur Kaprin blocks ke BDOs ko 6 sanitation gaadiyan (Hoopers aur Dumpers) saunpi; flag-off samaroh me ACD Shopian Manzoor Ahmad bhi maujood the. Fund-srot: Swachh Bharat Mission (sarkari yojna) — gaadiyan prashasan ne uplabdh karayi thi; MLA ka credit sirf flag-off/launch tak hai, kharid me unka vyaktigat ya CDF yogdaan darj nahi hai. Gaadiyan graameen kachra sangrah, alagav aur niptaan ke liye hain. Stage ka sach: lokarpan ho gaya, gaadiyan BDOs ke paas hain.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['shabir-ahmad-kullay'] = [
+  {
+    title: 'Zila Aspataal Shopian ke upgradation prastavon ki RKS baithak me swikriti — MLA Shopian ne sanyukt adhyakshata ki',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/rks-meeting-held-at-shopian/',
+    date: '2024-11-18',
+    note: 'Rogi Kalyan Samiti ki baithak (Mini Secretariat Shopian) ki sanyukt adhyakshata DDC Chairperson, MLA Shopian Shabir Ahmad Kullay aur Deputy Commissioner ne ki; baithak me Zila Aspataal Shopian ke liye Laboratory, MRD, Dentistry, Radiology, ENT, Physiotherapy, dialysis aur Ophthalmology vibhagon me machine upgradation ke prastav, washroom renovation, CCTV, heating aur safai-quality sambandhi kaam Hospital Development Fund aur Ayushman Bharat bachat nidhi se swikrit hue. Stage ka sach: approval-stage ka kaam hai, swikriti prashasnik nikay ki hai — shrey sarkari nikay ka hai, MLA ki bhoomika sanyukt adhyaksh ke roop me seemit.',
+    period: '2024-2029',
+  },
+];
