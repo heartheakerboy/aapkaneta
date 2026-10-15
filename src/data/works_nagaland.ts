@@ -359,3 +359,223 @@ nagalandWorks['z-nyusietho-nyuthe'] = [
     period: '2023-2028',
   },
 ];
+// ---- Mokokchung district batch (researched 2026-10-15) ----
+// Coordinator QA note: 5 parallel research workers (2-2 MLA), har source khud khola-padha gaya.
+// QA-faisle: (1) Ozukum ki Arok Kilem building entry DROP — poora samudaay crowd-funding se bana, MLA ki dastavezi bhoomika sirf udghatan (community-ceremonial reject). (2) Imna Along ki Longtho Multi Utility Building entry DROP — ekmatra srot Northeast Today (list-bahar aggregator), doosri independent reporting nahi. (3) Longkumer ki badminton court entry DROP — vyaktigat daan (personal donation = not works). (4) Longkumer ki cold-storage entry DROP — 10 MLAon ka sanyukt kaam, apne roadmap-bhashan ka dawa, aupcharik lokarpan baki — attribution kamzor. (5) Pangjung Jamir ka negative KEEP — NIA giraftari 2017 established reporting + 2023 halafname me pending; stage-accurate framing, jawab na milne ka disclosure.
+nagalandWorks['a-pangjung-jamir'] = [
+  {
+    title: 'NEGATIVE: 2017 me NIA ne pratibandhit NSCN-K ke liye sarkari fund dene ke aarop me giraftar kiya; case RC-01/2016 unke 2023 halafname me bhi pending darj',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times, Apr 2017; Business Standard (ANI), Apr 2017',
+    sourceUrl: 'https://theshillongtimes.com/2017/04/28/nia-arrests-three-naga-govt-officials-for-terror-funding/',
+    date: '2017-04-26',
+    note: '26 April 2017 ko National Investigation Agency ne tatkalin Joint Director/DDO (Land Resources Department) A. Pangjung Jamir (NIA report me Alienba Pangjung Jamir) ko do aur adhikariyon ke saath giraftar kiya — aarop tha ki pratibandhit sangathan NSCN-Khaplang ke liye sarkari fund se badi matra me vasuli/illegal tax collection me unki kathit bhoomika rahi (case RC-01/2016/NIA-GUW). Dimapur ke NIA Special Court ne unhe 5 din ki police remand par bheja. Ye ghatna unke MLA banne se pehle ki hai, lekin unke 2023 chunav halafname (myneta.info) me yehi mamla IPC Section-384 ke tehet pending darj hai. Kisi reporting me unka paksh/jawab nahi mila — isliye ye entry sirf aarop ki sthiti darj karti hai; dosh-siddhi nahi hui hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['nuklutoshi'] = [
+  {
+    title: 'Akhoya gaon me do nayi sadkon ka lokarpan — L. Pangersowa Road aur Longchara Junction se R.C. Chiten Jamir Memorial GHS tak ki sadak',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/nuklutoshi-inaugurates-newly-constructed-roads-at-akhoya/',
+    date: '2026-06-27',
+    stage: 'lokarpan',
+    note: '27 June 2026 ko MLA Nuklutoshi ne Akhoya gaon (Changtongya kshetra, Arkakong seat) me do nayi bani sadkon — L. Pangersowa Road aur Longchara Junction se R.C. Chiten Jamir Memorial GHS tak ki sadak — ka lokarpan kiya. Dono sadken SASCI 2025-26 programme ke tahat bani hain. Credit-transparency: fund-srot SASCI 2025-26 (sarkari yojana) hai; article me MLA ne karyakram me CM aur Urban Development Minister ko smooth implementation me madad ke liye dhanyavaad diya — asal shrey unhi ko gaya; MLA ki bhoomika lokarpan aur sthaniya samanvay tak seemit rahi. L. Pangersowa Road se Changtongya town tak kisaanon ki sabzi-ananas-santra mandi pahunch aasan hogi; doosri sadak se aas-paas ke gaonon ke vidyarthiyon ko school ke liye all-weather connectivity milegi.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['t-n-mannen'] = [
+  {
+    title: 'Impur seat me community piggery project ka shubharambh — LADF se Rs 25 lakh ke nivesh par 169 piglets 105 labharthiyon me bante',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/mla-tn-mannen-launches-community-piggery-project-in-mokokchung',
+    date: '2026-04-29',
+    stage: 'poora',
+    note: '23 Impur seat ke Asetkong range me 29 April 2026 ko Senden Salang, Kobulong me community piggery project launch hua, jo MLA T N Mannen ke margdarshan me shuru hua aur poori tarah Local Area Development Fund se funded hai. Kul lagbhag Rs 25 lakh ke nivesh par 169 piglets gaon parishadon dwara chune gaye 105 labharthiyon me baante gaye; Think Tank team aur Animal Husbandry and Veterinary Services vibhag ke sahyog se bane niyamon ke tahat sahkari model par breeding, marketing aur feed compounding unit ki yojana bhi shamil hai. Morung Express ne bhi is pilot livelihood pahal ki post-event report ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Longjang me Khutak Valley Organic Processing Plant ka shilanyas MLA T N Mannen ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/advisor-mannen-lays-fountain-stone-for-khutak-valley-organic-processing-plant',
+    date: '2025-05-03',
+    stage: 'shilanyas',
+    note: '3 May 2025 ko Khanimu-Longjang gaon ke antargat Khutak ghati me Khutak Valley Organic Processing Plant ki neenv ka pathar MLA T N Mannen ne rakha. Disclosure: ye plant Longjang gaon ke retired adhikariyon ki pahal par bani Khutak Valley Organic Producer Company Limited ki pariyojana hai, jise district horticulture officer ke anusaar MOVCDNER ke tahat horticulture vibhag ka samarthan mil raha hai; MLA ki dastavezi bhoomika shilanyas tak seemit hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['tongpang-ozukum'] = [
+  {
+    title: 'Alempang Ward me fitness center ka udghatan — MLA Tongpang Ozukum ke Iconic Project ke tahat bana',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mokokchung Times',
+    sourceUrl: 'https://mokokchungtimes.com/mokokchung-alempang-fitness-center-inaugurated/',
+    date: '2024-04-22',
+    stage: 'poora',
+    note: '22 April 2024 ko 24 Angetyongpang seat ke Alempang Ward, Mokokchung me fitness center ka udghatan hua, jo MLA Tongpang Ozukum ke netritva wali Iconic Project pahal ka hissa hai. Udghatan ward chairman ne kiya aur center ki chabiyan Alempang Youth Association ko saunpi gayin, jise prabandh ki zimmedari mili hai. Nagaland Tribune ne bhi isi karyakram ki post-event report ki hai. Disclosure: article me kendre ka nirman sarkar, rajnaitik sangathanon aur sthaniya samuday ke sahyog se hua bataya gaya hai — kisi ek srot ka poora shrey nahi diya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Angetyongpang Development Board ne pashu-teekakaran karyakram launch kiya — MLA Tongpang Ozukum ne board ka gathan kiya tha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/angetyongpang-development-board-launches-livestock-vaccination-program/',
+    date: '2023-11-17',
+    stage: 'poora',
+    note: '17 November 2023 ko Sungkomen Ward Community Hall, Mokokchung me MLA Tongpang Ozukum ke chunavi vaade ke anusaar gathit Angetyongpang Development Board ne pashudhan teekakaran karyakram aur seminar launch kiya, jisme 30 vyaktiyon ko Vaccination Service Provider ka prashikshan dene ki ghoshna hui. Disclosure: karyakram board ke convener ke netritva me hua aur pashupalan vibhag ne takneeki sahayata di; MLA ki dastavezi bhoomika board ka gathan aur karyakram me livelihood schemes par sambodhan hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['imkongmar'] = [
+  {
+    title: 'Khensa gaon me Seri-Tourism Model Farming Centre ka lokarpan — Imkongmar ne inaugurated stone ka anavaran kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/advisor-imkongmar-inaugurates-seri-tourism-model-farming-centre-at-khensa-village/',
+    date: '2024-08-10',
+    stage: 'lokarpan',
+    note: '10 August 2024 ko Imkongmar ne Khensa gaon (25 Mongoya seat) me Seri-Tourism Model Farming Centre ka udghatan kiya aur shilanyas-shila ka anavaran kar parisar ka nirikshan bhi kiya. Disclosure: ye kendra North Eastern Council (NEC) ki 2023-24 schemes ke tahat funded hai aur Sericulture Vibhag ne ise kriyanvit kiya hai — ye Imkongmar ke salahkar-vibhag ki hi yojana hai jise unhone apni seat ke gaon me lokarpit kiya; isse paryatan ke saath sericulture gatividhiyon se rozgaar bhi milega.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['sharingain-longkumer'] = [
+  {
+    title: 'Ungma gaon me Small Cluster Development Programme ka shubharambh — handloom-sericulture cluster yojana launch ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/speaker-sharingain-launches-small-cluster-development-programme-in-ungma',
+    date: '2025-08-15',
+    stage: 'lokarpan',
+    note: '15 August 2025 ko Sharingain Longkumer ne Ungma ke Rural Assembly Hall me Small Cluster Development Programme (SCDP) ka shubharambh kiya. Disclosure: ye karyakram National Handloom Development Programme (NHDP) 2024-25 ke tehat Bharat Sarkar ke Kapda Mantralaya se funded hai aur Nagaland ke Industries and Commerce Directorate ne ise kriyanvit kiya hai; yojana ka uddeshya Ungma me handloom aur sericulture (eri-muga resham) ko punarjivit karke bunkaaron-karigaron ko aarthik roop se saksham banana hai. Longkumer ne ise apne pita ke Ungma weaving-centre sapne ko aage badhane wala kadam bataya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ungma Old ke GPS school me smart classroom ka lokarpan — Speaker Sharingain Longkumer ne udghatan kiya',
+    category: 'School',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/NLA-SPEAKER-SHARINGAIN-LONGKUMER-INAUGURATES-SMART-CLASSROOM-AT-GPS-UNGMA-OLD-MOKOKCHUNG',
+    date: '2026-01-13',
+    stage: 'lokarpan',
+    note: '13 January 2026 ko NLA Speaker Sharingain Longkumer ne Mokokchung ke GPS Ungma Old school me smart classroom ka udghatan kiya, jisme DC Mokokchung bhi maujood the. Disclosure: DIPR report me fund ka srot (LADP ya koi anya yojana) bataya nahi gaya hai, isliye fund-source ka dawa nahi kiya ja raha. Ye unki apni seat 26 Aonglenden ke Ungma gaon me sthit sarkari school ki suvidha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ungma me police outpost ki sthapna — Sharingain Longkumer ne sarkari anumati dilayi aur zameen-bhavan uplabdh karaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/temporary-police-outpost-inaugurated-at-ungma/',
+    date: '2025-08-06',
+    stage: 'lokarpan',
+    note: '6 August 2025 ko Mokokchung-Kohima highway par Ungma me police outpost ka udghatan hua. Disclosure: ye Police Vibhag/Zila Prashasan ki pariyojana hai, lekin Nagaland Tribune ke anusaar Speaker Sharingain Longkumer ne iske liye sarkari anumati dilane me suvidha ki aur outpost ke liye zaroori zameen aur bhavan uplabdh karaya — unki vyaktigat dastavezi bhoomika spasht hai. Outpost ka uddeshya aparaadh-roktham aur aapaat-pratikriya sudharna hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['metsubo-jamir'] = [
+  {
+    title: 'Metsubo Jamir ne Kumlong ward me Community Hall cum Amenity Centre ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/metsubo-inaugurates-kumlong-community-hall/',
+    date: '2026-08-14',
+    stage: 'lokarpan',
+    note: '14 August 2026 ko Metsubo Jamir ne Mokokchung shahar ke Kumlong ward me Community Hall cum Amenity Centre ka lokarpan kiya. Nagaland Post ke mutabiq ye hall 27 Mokokchung Town AC ke 2025-26 ke iconic project ke tahat banaya gaya tha, jo unki apni seat ke projects me se ek hai. Karyakram me ward chairman aur MMC councillor maujood the. Ye poore bane hue hall ka lokarpan hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Metsubo Jamir ne Mokokchung me muft coaching sansthan Shisalen Riju ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Nokinketer',
+    sourceUrl: 'https://nokinketer.in/2024/02/19/metsubo-inaugurates-shisalen-riju-in-mokokchung/',
+    date: '2024-02-19',
+    stage: 'lokarpan',
+    note: '19 February 2024 ko Metsubo Jamir ne Mokokchung ke Tzusapang me Shisalen Riju coaching sansthan ka lokarpan vishesh atithi ke roop me kiya. Ye sansthan NPSC aur NSSB parikshaon ke liye muft coaching deta hai. Disclosure: ye sansthan District Planning and Development Board (DPDB), Mokokchung ki pehal par banaya gaya tha aur iska vitt LADP ke common pool se aaya tha — ye Metsubo Jamir ki vyaktigat vidhayak-nidhi se bana hua nahi hai; unhone vyaktigat roop se iska lokarpan kiya tha isliye entry di ja rahi hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['daochier-i-imchen'] = [
+  {
+    title: 'Daochier Imchen ne Koridang ke 40 yuvon ke kaushal vikas ke liye Rs 20 lakh LADP nidhi ki ghoshna ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/mangmetong-village-council-hosts-thanksgiving-for-daochir-imchen/',
+    date: '2026-06-06',
+    stage: 'ghoshna',
+    note: '6 June 2026 ko Mangmetong gaon parishad ke dhanyavaad karyakram me upchunav jeetne ke baad apne pehle bhashan me Daochier Imchen ne District Planning Department (LADP) se Rs 20 lakh ki rashi 40 yuvon ke kaushal vikas pariyojnaon ke liye aavantit karne ki ghoshna ki. Ye rashi unki vidhayak-nidhi LADP ke tahat hai, kisi vibhagiya mantri yojana ke tahat nahi. Ye sirf ghoshna ki khabar hai; pariyojna ke shuru hone ya poore hone ki koi dastavezi reporting abhi tak nahi mili hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['temjenmenba'] = [
+  {
+    title: '29 Jangpetkong ke kisaano ke liye ek saal tak bilkul muft pashu-dhan beema yojana shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/farmers-in-jangpetkong-to-get-free-livestock-insurance-for-one-year',
+    date: '2026-05-09',
+    stage: 'ghoshna',
+    note: '9 May 2026 ko Khar gaon me Temjenmenba ne 29 Jangpetkong kshetra ke kisaano ke liye ek saal ki muft pashu-dhan beema yojana shuru ki. Ye yojana National Livestock Mission ke tehet chalti hai aur Nagaland ka Pashupalan evam Pashuchikitsa vibhag ise lagoo karta hai; kendra sarkar 85 pratishat premium par subsidy deti hai aur kisaanon ko 15 pratishat premium dena hota hai — wohi 15 pratishat hissa Temjenmenba ne apne Local Area Development Fund se ek saal ke liye chukaane ka elaan kiya, jisse kisaano ke liye yojana poori tarah muft ho gayi. Khar gaon ko yojana ka kendriya kendra banaya gaya; coverage gay aur chhote pashuon ke liye hai. Morung Express ne bhi launch ki post-event report ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chungliyimsen me LADP se bane Odangba Memorial Ki samuday bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/temjenmenba-inaugurates-odangba-memorial-ki-at-chungliyimsen-village',
+    date: '2025-08-23',
+    stage: 'poora',
+    note: '23 August 2025 ko Temjenmenba ne 29 Jangpetkong kshetra ke Chungliyimsen gaon me naye samuday bhavan ka lokarpan kiya jo karyalay-sah-atithi grih ke roop me kaam karega. Bhavan LADP ke fund se bana hai aur ise Odangba Memorial Ki naam diya gaya hai. Disclosure: swargiya Odangba (Chungliyimsen Baptist Church ke 1903-1905 ke pehle pastor) Temjenmenba ke par-dada the, isliye bhavan ka naamkaran unki smriti me kiya gaya hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['temjen-imna-along'] = [
+  {
+    title: 'Japukong aur Tsurangkong ke PHC Mangkolemba ke liye do life-support ambulance ka flag-off',
+    category: 'Aspataal',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/node/14039',
+    date: '2024-07-19',
+    stage: 'poora',
+    note: '19 July 2024 ko Temjen Imna Along ne Mangkolemba up-mandal (30 Alongtaki kshetra) ke Japukong range aur Tsurangkong range ke Primary Health Centre ke liye do life-support ambulance ka flag-off kiya, jo 35 se zyada gaon ko aapatkaaleen swasthya seva dengi. Disclosure: dono ambulance Kendriya Janjati Karya Mantralaya ke fund se Nagaland ke Janjati Karya vibhag ne lagoo karke kharidi hain — Along ne mantri ke roop me inhe jhandi dikhai aur drivers ke vetan ke liye LADP fund se rashi chukaane ka elaan kiya taaki gaon star par ambulance seva chali rahe.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Mokokchung district batch ----
+// a-pangjung-jamir (BJP, Tuli) — KHAALI (0 positive). REJECTS: Fish Festival udghatan Tuli (Nov 2024) = community-ceremonial + Fisheries Advisor-form; Integrated Aqua Park Tzudikong shilanyas = PM ne virtual kiya, maujoodgi; Financial literacy camp Tuli = event; CM Rio Tuli daura (Mar 2025) = maujoodgi; Budget 2026-27 charcha = sadan-charcha; Tuli Paper Mill charcha = maang. NEGATIVE: 1 (upar darj — 2017 NIA giraftari, case pending per 2023 affidavit).
+// nuklutoshi (NPF, Arkakong) — 1 entry. REJECTS: Dikhu bridge sanyukt aarambh = Pongshi ke khaate me, kshetra-bahar; IMDH water filter (May 2026) = Mokokchung town, Arkakong se bahar (borderline — DPDB Chairman bhoomika dastavezi lekin niyam sakht: reject); DPDB baithaken = sansthaagat; Changtongya coordination meeting = nirikshan; Tuli Paper Mill/NH-2 sawal = vidhansabha sawal; NPP vilay = party-kaam; YouTube-only = reject. NEGATIVE: koi nahi (0 affidavit cases).
+// t-n-mannen (NPF, Impur) — 2 entries. REJECTS: Thanksgiving programme Longjang = ceremonial; Asetkong seminar = vichar-goshthi; Assam minister encroachment khandan = bayaan; law students sambodhan = event; DPDB biodiversity bayaan = sambodhan; Khanimu Panchayat Hall = maujoodgi (udghatan-karta darj nahi); 6 water dispenser donation = galat vyakti (Nuklutoshi ne diye). NEGATIVE: koi nahi (0 affidavit cases).
+// tongpang-ozukum (NPF, Angetyongpang) — 2 entries. REJECTS: Excavator/ambulance dedication = party-kaam + welfare; Longmisa Rs 25 lakh playground vaada = karenge, follow-up nahi; Development Board vaada = vaada, poorti Entry 2 me; civil service hostel vaada = karenge; Moatsu festival = ceremonial; CMHIS drive sponsorship = kamzor attribution; Farmers Award = party event; People's College shilanyas = sirf maujoodgi; PWD hall/power substation = dusre ka kaam; Jal Shakti Summit = vibhagiya maang; Longkong-Longmisa road = Imchen ne udghatan kiya. QA-DROP: Arok Kilem community building lokarpan = samudaay crowd-funding se bana, MLA sirf udghatan (community-ceremonial reject). NEGATIVE: koi nahi (0 affidavit cases).
+// imkongmar (NPF, Mongoya) — 1 entry. REJECTS: NPF flag hoisting/treasurer nivas = party-kaam; Dr. T. Ao Trophy = maujoodgi; Repjenyuba Memorial = maujoodgi + kshetra-bahar; Tsungremmung = ceremonial; Zunheboto/Shamator flag-hoisting = ceremonial; sericulture farm daure = nirikshan; directorate welcome/dedication = ceremonial; Chungtia Rs 18cr Centre of Excellence teaser = URL/verify nahi hua. Naam-bhram warning: Imkong L. Imchen (Koridang, nidhan 2025; 2013 cash case) alag vyakti — joda nahi gaya. NEGATIVE: koi nahi (0 affidavit cases).
+// sharingain-longkumer (NPF, Aonglenden — Speaker) — 3 entries. REJECTS: Rempukong astroturf phase-2 ghoshna = karenge + attribution virodhabhasi; Dr. T. Ao Trophy = maujoodgi; roadmap bhashan ghoshnaen = karenge; Banana Model Village = Kruse ka vibhagiya faisla; speaker-faisle (disqualification yachikaen) = sansthaagat; Tatar Kilem hall = May 2022 pre-2023; heliport survey = Civil Aviation vibhag. QA-DROP: badminton court (vyaktigat daan = not works); cold storage (10 MLAon ka sanyukt, apne roadmap-bhashan ka dawa, lokarpan baki — kamzor attribution). NEGATIVE: koi nahi.
+// metsubo-jamir (NPF, Mokokchung Town) — 2 entries. REJECTS: People's College dusra campus = Imkong L Imchen ne shilanyas rakha, maujoodgi; OKM office building = community-ceremonial; Kumlong borewell (Aug 2022) = pre-2023; football tournament = event; medical camp = welfare; IOC-Rotary road repair = kamzor attribution; 15th Finance Commission bayaan = vibhagiya; YAAW/UCC bayaan = rajnaitik. NEGATIVE: koi nahi.
+// daochier-i-imchen (BJP, Koridang — Apr 2026+ karyakaal) — 1 entry. REJECTS: upchunav/shapath khabren = chunavi; IPR/Soil salahkar padbhar = vibhagiya (pita ke projects tez karne ki baat pita ke khaate me); NIIS daura = salahkar vibhag; dhanyavaad karyakram = ceremonial (usi ki ghoshna entry bani). NEGATIVE: koi nahi. Note: pita Imkong L. Imchen ke saare kaam (People's College shilanyas, DPRO office) inke khaate me nahi aaye.
+// temjenmenba (NPF, Jangpetkong) — 2 entries. REJECTS: CMHIS registration drive = party unit + kamzor attribution; JKTM conference = ceremonial; Senso Mungdang = ceremonial; NDPP consultative meet = party-kaam; NPF unit formation = party-kaam; LS campaign = chunav prachar. NEGATIVE: koi nahi.
+// temjen-imna-along (BJP, Alongtaki — mantri) — 1 entry. REJECTS: Khelo India hall (Rs 2.71cr, CM ne virtual udghatan) = kendriya yojana, CM ka kaam; Khelo India vivad (Eastern Mirror Sep 2026 — CM ne report maangi, ACCC ne inquiry maangi) = na FIR na adalaati karyavahi na jawab — watch-item, na entry na negative; NPCC/ACCC press-release aarop = bina FIR; mantri-vibhag ke kaam (PM-USHA, NCMFA, exhibition, college) = seat-bahar + vibhagiya; CSO ultimatum = rajnaitik maang; GHS Longchem/Lirmen = Grokipedia AI dawa, verify nahi. QA-DROP: Longtho Multi Utility Building (Northeast Today ekmatra srot, list-bahar aggregator). NEGATIVE: koi nahi.
+// Imna Along Khelo India vivad WATCH: Eastern Mirror 17 Sep 2026 — CM ne vibhag se report maangi, ACCC ne impartial inquiry maangi; abhi na FIR na adalaati karyavahi — isliye na entry na negative; aage koi FIR/janch hogi to entry banegi.
