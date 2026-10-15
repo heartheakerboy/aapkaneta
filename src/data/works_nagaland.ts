@@ -267,3 +267,66 @@ nagalandWorks['kropol-vitsu'] = [
     period: '2023-2028',
   },
 ];
+
+// ---- Longleng district batch (researched 2026-10-15) ----
+// Tamlu (49): b-bangtick-phom | Longleng (50): a-pongshi-phom
+// Nagaland works kul titles is batch se pehle: 20
+
+nagalandWorks['b-bangtick-phom'] = [
+  {
+    title: 'Tamlu thane me CCTV suraksha suvidha ka udghatan — Swatantrata Diwas samaroh me MLA dwara lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/independence-day-celebrated-tamlu',
+    date: '2023-08-15',
+    stage: 'poora',
+    note: '15 August 2023 ko Tamlu up-khand ke Swatantrata Diwas samaroh me MLA B. Bangtick Phom ne Tamlu thane me lage CCTV ka udghatan kiya (DIPR ki post-event report). Credit-transparency: fund-srot aur CCTV sthapna karne wali agency article me darj nahi hai; MLA ki dastavezi bhoomika udghatan-karta tak seemit hai; ye koi badi pariyojna nahi, thane ki ek suraksha suvidha hai — imaandari se darj hai. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['a-pongshi-phom'] = [
+  {
+    title: 'Yaongyimchen Mongti-Amlung meeting arena ka lokarpan — DUDA ki UDAP yojana ka iconic project, MLA ki pehal se swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/yaongyimchen-mongti-amlung-inaugurated-at-longleng/',
+    date: '2025-07-08',
+    stage: 'poora',
+    note: '8 July 2025 ko Longleng me Yaongyimchen Mongti-Amlung (meeting arena) ka udghatan MLA A. Pongshi Phom ne kiya; ye Department of Under Developed Areas (DUDA) ki Under Developed Areas Programme (UDAP) yojana ka iconic project hai. DUDA Director ne khud kaha ki is project ko swikrit dilane me MLA ki "pivotal role" rahi. Credit-transparency: fund-srot DUDA/UDAP (rajya yojana) hai, MLA ki vyaktigat den nahi; gaon walon aur land donors ke yogdaan ko bhi article me saraha gaya hai; Morung Express ne bhi iski post-event report ki. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Dikhu nadi par RCC pul ke nirman ka aarambh — Longleng-Chuchuyimlang sadak par Mongtikang gaon me nirman shuru karwaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'http://ipr.nagaland.gov.in/node/15250',
+    date: '2024-11-08',
+    stage: 'shilanyas',
+    note: '8 November 2024 ko Longleng jile ke Mongtikang gaon me Dikhu nadi par RCC pul ke nirman ka aarambh-karyakram hua; MLA A. Pongshi Phom ne Mokokchung ke MLA Nuklutoshi ke saath milkar nirman ka aarambh kiya — ye pul Longleng-Chuchuyimlang (Mokokchung) sadak par hai. Credit-transparency: ye ek-sutra DIPR release hai; fund-srot/GO article me darj nahi hai; nirman ki poorti ki pushti nahi mili; isliye stage shilanyas-nirman-aarambh ke roop me darj hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Longleng district batch ----
+// B. Bangtick Phom (Tamlu) — REJECTS:
+// 1. Tamlu me naye SDO/SDAO karyalaya bhavan ka udghatan (12 Mar 2025, Nagaland Post) — Advisor (Agriculture) Mhathung Yanthan ne udghatan kiya; Bangtick ne sirf bhashan diya → maujoodgi-credit reject.
+// 2. 73rd Phom Day samapan (6 June 2025, Eastern Mirror) — special guest ke roop me shanti-samarooh me sambodhan → community ceremony reject.
+// 3. DPDB Longleng ki baithaken (Nov 2024, Jul 2025, Jul 2026, Oct 2026 — DIPR/Nagaland Post/Morung Express) — sansthaagat DPDB adhyaksh-bhoomika → reject.
+// 4. Yonglok me naye EAC mukhyalaya hetu site nirikshan (Nov 2025, Nagaland Post) — nirikshan + prastav, koi kaam nahi → reject.
+// 5. DPDB dwara LADP 2026-27 scheme/astro-turf/Horticulture office ki swikriti (Oct 2026) — board-star ki samanya swikriti, MLA ka dastavezi concrete kadam nahi → reject.
+// 6. Swatantrata Diwas jhanda-phahrana/salami (15 Aug 2023) — ceremonial → reject.
+// NEGATIVE: koi nahi (koi FIR/case/adalaati janch ki reporting nahi mili).
+// A. Pongshi Phom (Longleng) — REJECTS:
+// 1. Shamakok Fuel Station ka udghatan (5 Jul 2024, DIPR) — niji (proprietor S. Yanger Angh) fuel station ka udghatan → private business, sarkari kaam nahi → reject.
+// 2. General Administration Guest House, Longleng (18 Jul 2025, Nagaland Tribune) — special guest Advisor (CAWD) Kudecho Khamo the; Pongshi guest of honour → dusre ke karyakram me maujoodgi → reject.
+// 3. 72nd PLP General Conference (13 Jan 2025, DIPR) — special guest, samudaayik sammelan → ceremonial reject.
+// 4. Phom Lempong HSS building upgradation program (3 Jun 2023, DIPR) — niji (PBCA mission) school ka apna karyakram, special guest + alumnus → ceremonial reject.
+// 5. Multi Skill Development Production Unit launch (30 Aug 2024, DIPR) — special guest DC; CM ki pehal ki yojana → dusre ki pahal me maujoodgi → reject.
+// 6. DPDB Longleng adhyaksh ke roop me baithaken (2024–2026 tak, 2026 me Pongshi adhyaksh nahi rahe) — sansthaagat bhoomika → reject.
+// 7. CM ke salahkar (Airways & Railways) ki niyukti (Jul 2026) — pad, kaam nahi → reject.
+// NEGATIVE: koi nahi (koi FIR/case/adalaati janch ki reporting nahi mili).
+// Party-record dhyaan dene yogya (foundation cleanup ke liye): b-bangtick-phom ki nagaland.ts party 'Independent' hai lekin electionNote kehta hai 2023 me NPP ticket par jeete aur Oct 2026 NPP→NPF vilay ke baad vartaman party NPF; Wikipedia Tamlu page bhi 2023 Independent jeet dikhata hai — virodhabhas verify karne layak. A. Pongshi Phom ke liye ek media report (hubnetwork) kehti hai 2023 me NCP ticket par jeete phir NDPP→NPF gaye; foundation record me party 'Independent' hai — virodhabhas verify karne layak.
