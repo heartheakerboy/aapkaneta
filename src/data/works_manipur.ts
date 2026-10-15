@@ -734,3 +734,36 @@ manipurWorks['losii-dikho'] = [
 // 16. Delhi me Jal Shakti Mantri RC Patil se mulakat (Sangai Express, Mar 2026) — sirf discussion; koi swikriti ya seat-kaam nahi.
 // NOTE: Positive entry (6 Jun 2025, NH-2 vaikalpik marg) President's Rule daur ki hai — Ukhrul Times ki post-event reporting me survey-patra, CS-nirdesh, sthal-par nigrani aur parinam (truck movement) sab dastavezi hain, isliye swikrit.
 // Coordinator QA note: dono fragments padhe; Losii Dikho ki entry ka source (Ukhrul Times, 6 Jun 2025) coordinator ne khud kholkar padha — survey, CS-patra, Nagaland CM se baat, sthal-par nigrani aur trucks-resumed sab article me documented hai; badge news + credit-disclosure sahi; President's Rule daur ki post-event reporting hone ke bawajood dastavezi kadam + parinam ke kaaran li gayi. J Kumo Sha profile imaandari se khaali. Dono slugs file me pehle nahi the — koi overwrite nahi. Roman Hinglish hygiene python se verify (0 Devanagari, 0 Rs-sign, 0 literal-\n, 0 zero-width). Tadubi (ST) seat rikt hai — koi record nahi banaya gaya.
+
+// ---- Tamenglong district batch (researched 2026-10-15) ----
+manipurWorks['awangbow-newmai'] = [
+];
+// REJECT-LOG (Awangbow Newmai, Tamei ST — research 15 Oct 2026; 2022 halafname me 0 aaparaadhik mamle)
+// 1. Mantri-kaal (Water Resources + Relief & Disaster Management 2022-2025; Environment, Forest, Climate Change, Sericulture 2020-2022) ke saare vibhagiya/rajya-faisle — seat-kaam nahi (mantri-niyam).
+// 2. NLSO dwara Tamei-Kuilong sadak rakh-rakhav ki sarahna (Ukhrul Times, 3 Sep 2024 — khud khola): mantri (Water Resources) ke roop me sarahna, community-body ka prashansa-lekh; MLA-stariya dastavezi pehal nahi — reject.
+// 3. RTI Week Celebration 2023 ka udghatan, Imphal (Akashvani, Oct 2023 — khud khola): mantri ke roop me karyakram-udghatan; vikas-kaam nahi, ceremonial — reject.
+// 4. CM Biren Singh ka Tamei daura (DIPR/manipur.org, Jan 2022): Awangbow sirf swagat me maujood; projects CM ne ghoshit/lokarpit kiye — maujoodgi reject; plus pre-term (Jan 2022).
+// 5. SBI Tamei shakha ka udghatan (Sangai Express/manipur.org, Jan 2022): CM ne udghatan kiya, Awangbow sirf saath me — reject (CM ke karyakram me maujoodgi + pre-term).
+// 6. Tamei Tribal Music, Dance & Craft Research Centre foundation day (Ukhrul Times, Mar 2023 — khud khola): sanskritik karyakram me mukhya atithi — ceremonial reject.
+// 7. Handloom awareness programme, Tamei community hall (manipur.org, Oct 2017): chief guest — pre-term + ceremonial reject.
+// 8. Civilian killings ki ninda wale bayaan (Ukhrul Times Sep 2026, India Today NE Sep 2026 — search results padhe): rajnaitik bayaan/ninda, unke khilaf koi FIR/case/adalaati janch nahi — negative NAHI.
+// 9. 9 Naga MLAon ka Assembly boycott, Leilon Vaiphei killings virodh (e-pao/Northeast Now, Sep 2026): protest/walkout — kaam nahi, negative bhi nahi.
+// 10. Naga peace process par Amit Shah se joint delegation me shamil hona (Northeast Now, Jun 2026): rajya-star rajnaitik bhoomika, kshetra-kaam nahi — reject.
+// Coordinator QA note: poori search me koi seat-stariya lokarpan/shilanyas/swikriti established reporting me nahi mili — mantri-kaal (2022-25) ke vibhagiya kaamon ka shrey MLA seat par nahi lagaya. Profile imaandari se khaali hai.
+manipurWorks['janghemlung-panmei'] = [
+  {
+    title: 'Tamenglong Mini-Stadium Complex me international-size synthetic football turf ka shilanyas (4 May 2026) — Rs 6 crore ki pariyojna, NHPC CSR se, DRDA Tamenglong dwara nirman',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=Sport2..050526.may26',
+    date: '2026-05-04',
+    note: '4 May 2026 ko Janghemlung Panmei (Tamenglong AC ke MLA) ne swayam Mini-Stadium Complex, Tamenglong district headquarters me international-size synthetic football turf ka shilanyas kiya. District Administration ke anusaar pariyojna District Rural Development Agency (DRDA), Tamenglong dwara kriyanvit hogi, anumaanit lagat Rs 6 crore; Sports Authority of India aur FIFA ke pratinidhi oversight me shaamil honge; pariyojna NHPC Ltd ki CSR initiative ke tahat hai. Karyakram me Tamenglong ADC ke CEO Kachangthai F Gangmei sahit prashasanik adhikari upasthit the. Credit-pardarshita: fund-srot NHPC CSR hai aur implementing agency DRDA hai — MLA ki dastavezi bhoomika shilanyas-karta (mukhya atithi) aur pariyojna dilane wale adhikariyon/karyakartaon ko dhanyavad dene ki hai; unke bhashan me ring roads, 133 kV Nrailong substation, street lights aur DPR wale daawon ka vyaktigat yogdaan dastavezi nahi hai, isliye note me shaamil nahi kiye gaye.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (Janghemlung Panmei, Tamenglong ST — research 15 Oct 2026)
+// 1. Usi shilanyas-bhashan me ring roads (rigid pavement), 133 kV Nrailong substation, street lights, alternative ground DPR aur CM ke drainage covers ke vaade (e-pao, 4 May 2026 — khud khola): sarkari pariyojnaen, MLA ki vyaktigat dastavezi bhoomika nahi — sirf daawa/maang level, reject.
+// 2. Hill Areas Committee (HAC) ki joint baithak me upasthiti (Sep 2026, NE Live/India Today NE/Northeast Now — search results padhe): committee baithak, sansthaagat bhoomika; kshetra-kaam nahi — reject.
+// 3. 9 Naga MLAon ka Assembly boycott, Leilon Vaiphei killings virodh (e-pao, Sep 2026): protest/walkout — kaam nahi, negative bhi nahi (unke khilaf koi FIR/case nahi).
+// Coordinator QA note: shilanyas article coordinator ne khud kholkar padha (The Sangai Express/DIO via e-pao, dateline Tamenglong May 04 2026) — MLA ne swayam shilanyas kiya; fund (NHPC CSR) aur implementing agency (DRDA) ka poora disclosure note me hai; ADC Tamenglong ke faisle entry me shaamil nahi.
