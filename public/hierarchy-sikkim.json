@@ -1,0 +1,208 @@
+{
+  "state": "Sikkim",
+  "stateSlug": "sikkim",
+  "districts": [
+    {
+      "name": "Gangtok",
+      "slug": "gangtok",
+      "acs": [
+        {
+          "n": 17,
+          "name": "Khamdong-Singtam",
+          "slug": "khamdong-singtam"
+        },
+        {
+          "n": 23,
+          "name": "Shyari (BL)",
+          "slug": "shyari"
+        },
+        {
+          "n": 24,
+          "name": "Martam-Rumtek (BL)",
+          "slug": "martam-rumtek"
+        },
+        {
+          "n": 25,
+          "name": "Upper Tadong",
+          "slug": "upper-tadong"
+        },
+        {
+          "n": 26,
+          "name": "Arithang",
+          "slug": "arithang"
+        },
+        {
+          "n": 27,
+          "name": "Gangtok (BL)",
+          "slug": "gangtok"
+        },
+        {
+          "n": 28,
+          "name": "Upper Burtuk",
+          "slug": "upper-burtuk"
+        },
+        {
+          "n": 32,
+          "name": "Sangha (BM)",
+          "slug": "sangha"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Pakyong",
+      "slug": "pakyong",
+      "acs": [
+        {
+          "n": 18,
+          "name": "West Pendam (SC)",
+          "slug": "west-pendam"
+        },
+        {
+          "n": 19,
+          "name": "Rhenock",
+          "slug": "rhenock"
+        },
+        {
+          "n": 20,
+          "name": "Chujachen",
+          "slug": "chujachen"
+        },
+        {
+          "n": 21,
+          "name": "Gnathang-Machong (BL)",
+          "slug": "gnathang-machong"
+        },
+        {
+          "n": 22,
+          "name": "Namcheybung",
+          "slug": "namcheybung"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Mangan",
+      "slug": "mangan",
+      "acs": [
+        {
+          "n": 29,
+          "name": "Kabi-Lungchok (BL)",
+          "slug": "kabi-lungchok"
+        },
+        {
+          "n": 30,
+          "name": "Djongu (BL)",
+          "slug": "djongu"
+        },
+        {
+          "n": 31,
+          "name": "Lachen-Mangan (BL)",
+          "slug": "lachen-mangan"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Gyalshing",
+      "slug": "gyalshing",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Yoksam-Tashiding (BL)",
+          "slug": "yoksam-tashiding"
+        },
+        {
+          "n": 2,
+          "name": "Yangthang",
+          "slug": "yangthang"
+        },
+        {
+          "n": 3,
+          "name": "Maneybong-Dentam",
+          "slug": "maneybong-dentam"
+        },
+        {
+          "n": 4,
+          "name": "Gyalshing-Barnyak",
+          "slug": "gyalshing-barnyak"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Namchi",
+      "slug": "namchi",
+      "acs": [
+        {
+          "n": 9,
+          "name": "Barfung (BL)",
+          "slug": "barfung"
+        },
+        {
+          "n": 10,
+          "name": "Poklok-Kamrang",
+          "slug": "poklok-kamrang"
+        },
+        {
+          "n": 11,
+          "name": "Namchi-Singhithang",
+          "slug": "namchi-singhithang"
+        },
+        {
+          "n": 12,
+          "name": "Melli",
+          "slug": "melli"
+        },
+        {
+          "n": 13,
+          "name": "Namthang-Rateypani",
+          "slug": "namthang-rateypani"
+        },
+        {
+          "n": 14,
+          "name": "Temi-Namphing",
+          "slug": "temi-namphing"
+        },
+        {
+          "n": 15,
+          "name": "Rangang-Yangang",
+          "slug": "rangang-yangang"
+        },
+        {
+          "n": 16,
+          "name": "Tumin-Lingee (BL)",
+          "slug": "tumin-lingee"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Soreng",
+      "slug": "soreng",
+      "acs": [
+        {
+          "n": 5,
+          "name": "Rinchenpong (BL)",
+          "slug": "rinchenpong"
+        },
+        {
+          "n": 6,
+          "name": "Daramdin (BL)",
+          "slug": "daramdin"
+        },
+        {
+          "n": 7,
+          "name": "Soreng-Chakung",
+          "slug": "soreng-chakung"
+        },
+        {
+          "n": 8,
+          "name": "Salghari-Zoom (SC)",
+          "slug": "salghari-zoom"
+        }
+      ],
+      "talukas": []
+    }
+  ]
+}

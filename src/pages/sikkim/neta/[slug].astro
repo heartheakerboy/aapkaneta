@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { sikkimNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return sikkimNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = sikkimNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/sikkim" stateName="Sikkim" homeLabel="Sikkim home" />
