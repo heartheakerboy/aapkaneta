@@ -96,7 +96,6 @@ jammuKashmirWorks['mir-mohammad-fayaz'] = [
   },
 ];
 
-// District batch 2: Baramulla — pending
 // District batch 3: Bandipora — pending
 // District batch 4: Ganderbal — pending
 // District batch 5: Srinagar — pending
@@ -115,3 +114,162 @@ jammuKashmirWorks['mir-mohammad-fayaz'] = [
 // District batch 18: Jammu — pending
 // District batch 19: Rajouri — pending
 // District batch 20: Poonch — pending
+
+// ---- Baramulla district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - irshad-rasool-kar (JKNC, Sopore): 1 entry (Ningli Nallah crossing shilanyas). 13 REJECT — KNS non-whitelist daave (Rs 17 cr roads), eco park plan, de-congestion plan (pre-event), gaon daure, "karenge" khabrein, budget bayaan, Rs 10 cr degree colleges sirf bayan (bina GO ke ghoshna), Sewa Parv bhashan, AMRUT Rs 73.38 cr (whitelist-bahar; sarkari swikriti, MLA ki bhoomika nahi), playfield (Mantri Satish Sharma ne shilanyas kiya, Kar sirf maujood), SDH Sopore CT Scan (Union Minister ne kiya), maang-maatra items. NEGATIVE: koi nahi.
+// - javid-ahmad-dar (JKNC, Rafiabad — mantri): 9 entries (sab Rafiabad seat ke vyaktigat shilanyas/lokarpan, credit-disclosure sahit). 11 REJECT — Ladwa-Siterwan shilanyas (Daily Excelsior fetch timeout, snippet se entry mana), review meetings, Rs 66 cr aur Rs 29.29 cr items (sab non-whitelist), GDC Hadipora building (non-whitelist), macadamization roads (non-whitelist), Model Panchayat Ghars (JK Monitor), raajnaitik bayaan, Nadihal items (seat-attribution doubt), pre-event announcements. NEGATIVE: koi nahi ("Javaid Ahmad Dar" 2013 Jaish operative — galat vyakti, alag shakhs).
+// - sajjad-shafi (JKNC, Uri): 2 entries (SNCU + gazebo huts lokarpan). 12 REJECT — assembly sawal (maang), officers ko daant (bayaan), ceasefire rehabilitation demand (relief + non-whitelist), Dy CM ka Handwara bridge (kshetra-bahar + dusre ka kaam), LG event maujoodgi, Indoor Stadium shilanyas (Mantri Satish Sharma, non-whitelist), Kalgi Indoor Stadium (non-whitelist, mantri ka kaam), GHSS Boniyar (non-whitelist, mantri Sakeena Itoo ka kaam), CM fruit-mandi (non-whitelist, maujoodgi), blood donation camp (relief, non-whitelist), snowfall inspection (nirikshan), NS Bridge (pre-event). NEGATIVE: koi nahi.
+// - javid-hassan-baig (JKNC, Baramulla): 0 entries — KHAALI. 12 REJECT — review meetings, quarrying bayaan, GDC Women Science Block (Minister Sakeena Itoo ne kiya), "CDF library culture" (bhavishya ghoshna), Master Plan (prastav), GMC expansion bayan (sarkari "soon"), nirikshan (YouTube), generic daave, 14 projects Rs 24.62 cr (sarkari, non-whitelist), Aspirational Districts (maang, non-whitelist), 2018-era (pre-tenure), BPS Delina (Minister Javid Ahmad Dar ne kiya — galat-vyakti guard: dono alag vyakti). NEGATIVE: koi nahi.
+// - pirzada-farooq-ahmed-shah (JKNC, Gulmarg): 1 entry (Chichlora-Lalpora playgrounds shilanyas). 8 REJECT — Daily Excelsior interview (fetch timeout + kamzor attribution), "modern lines" vision (karenge), skill initiative (press ghoshna, bhavishya), fruit mandi (CM ne kiya, KNS non-whitelist), shawl showroom (private), kashmirimages/horizon items (whitelist-bahar), Zero Hour maang, nirikshan. NEGATIVE: koi nahi.
+// - irfan-hafiz-lone (INC, Wagoora–Kreeri): 0 entries — KHAALI. 8 REJECT — CDF ghoshna (KNS, whitelist-bahar, bina sanction), RO purifiers/CCTV (whitelist-bahar, tender stage), GMS Kohlin (DDC Chairperson ne kiya, whitelist-bahar), Watershed Yatra (ceremonial, whitelist-bahar), YouTube daava (unverifiable), Wavoora-Khumriyal (galat vyakti — Lolab ke Qaysar Lone ka kaam), virodh-pradarshan (raajnaitik), school daura (bayaan). NEGATIVE: koi nahi.
+// - javaid-riyaz (JKNC, Pattan): 0 entries — KHAALI. REJECT — Muharram daura (non-whitelist, review), pani/AMRUT/CHC maang (maang-maatra), industrial estates (Dy CM ka announcement, non-whitelist), Zero Hour maang (non-whitelist), school felicitation (ceremonial), smart classroom (YouTube-only), JJM inspection (nirikshan + dusra jila), rail bridge opinion (MLA se sambandh nahi), CDF tenders (tender listing news nahi). NOTE: CDF tenders se kharch dikh raha hai par whitelisted press me post-event reporting nahi — kamzor attribution se behtar khaali profile. NEGATIVE: koi nahi.
+// Coordinator QA note (2026-10-15): 4 worker reports ka QA kiya; Javid Hassan Baig vs Javid Ahmad Dar namesake guard verify; Dar ki entries me mantri-bhoomika ka credit-disclosure darj; saari dates Oct 2024–Oct 2026 window me; titles/notes Roman-Hinglish only (Python-verified), koi Devanagari/Urdu script/rupee-symbol nahi; har entry me 8 fields (file format ke anusaar); sabhi 7 slugs file me pehle se absent the — koi overwrite nahi.
+
+jammuKashmirWorks['irshad-rasool-kar'] = [
+  {
+    title: 'Ningli Bala me Ningli Nallah crossing ka shilanyas, Amberpora ka Aak Bab Bridge bhi poora hoga',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/mla-sopore-lays-foundation-for-key-flood-control-crossing/',
+    date: '2025-12-27',
+    note: '27 Dec 2025 ko MLA ne khud Ningli Bala (Sopore) me Ningli Nallah par nallah crossing ka shilanyas kiya; lagat lagbhag Rs 50 lakh; kaam I&FC Division, Sopore karega; isi initiative me Amberpora ka Aak Bab Bridge bhi poora hoga. Credit-transparency: fund ka srot article me specified nahi — sirf executing agency (I&FC Division) di gayi hai. Stage ka sach: shilanyas (kaam abhi poora nahi hua).',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['javid-ahmad-dar'] = [
+  {
+    title: 'Doabgah me Nallah Vijibal par RCC pul ka shilanyas, Rafiabad',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/javid-dar-reaffirms-grassroots-development-push-12113070',
+    date: '2026-06-27',
+    note: 'Doabgah me Nallah Vijibal par 1x30-metre RCC plate girder pul ka shilanyas; NABARD RIDF se lagbhag Rs 629.41 lakh, PW(R&B) banayega. Credit-transparency: sarkari yojana ka pariyojna hai; Dar ne mantri ke roop me vyaktigat roop se shilanyas kiya, unki bhoomika udghatan tak seemit hai. Stage: shilanyas (kaam abhi poora nahi).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Ladoora me 6 km inner link sadkon ke sudhar ka shilanyas, Rafiabad',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/javid-dar-reaffirms-grassroots-development-push-12113070',
+    date: '2026-06-27',
+    note: 'Ladoora ki 6 kilometre inner link sadkon ke majbootikaran/sudhar ka shilanyas, lagbhag Rs 507.24 lakh; all-weather connectivity ka lakshya. Credit-transparency: sarkari pariyojna hai; Dar ne mantri ke roop me shilanyas kiya. Stage: shilanyas (poora nahi).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Rohama Chowk Clock Tower ka lokarpan, Rafiabad',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/javid-dar-reaffirms-grassroots-development-push-12113070',
+    date: '2026-06-27',
+    note: 'Rohama Chowk par Clock Tower ka lokarpan — Dar ne vyaktigat roop se udhghatan kiya. Credit-transparency: sarkari pariyojna ka lokarpan hai; fund-srot article me nahi diya gaya. Stage: lokarpan (poora).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chijhama Dak Bungalow me atirikt aawas block ka shilanyas, Rafiabad',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/javid-dar-reaffirms-grassroots-development-push-12113070',
+    date: '2026-06-27',
+    note: 'Dak Bungalow Chijhama me additional accommodation block ka shilanyas, Dar ne kiya. Credit-transparency: article me is pariyojna ki lagat ya fund-srot nahi diya gaya. Stage: shilanyas.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Humdub Panzalla me Community Hall-cum-Multipurpose Centre ka shilanyas, Rohama',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Kashmir Life',
+    sourceUrl: 'https://kashmirlife.net/minister-javid-dar-launches-rs-4-5-crore-development-projects-in-baramulla-412941/',
+    date: '2025-11-11',
+    note: 'Rohama block ke Humdub Panzalla me Community Hall-cum-Multipurpose Centre ka shilanyas, Rs 65 lakh (District Capex/BDC Grants). Credit-transparency: sarkari yojana hai; Dar ne mantri ke roop me vyaktigat roop se shilanyas kiya. Stage: shilanyas.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Budden Saripara me RCC box-type culvert ka shilanyas, Rafiabad',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Kashmir Life',
+    sourceUrl: 'https://kashmirlife.net/minister-javid-dar-launches-rs-4-5-crore-development-projects-in-baramulla-412941/',
+    date: '2025-11-11',
+    note: 'Rafiabad block ke Budden Saripara me RCC box-type culvert ka shilanyas, Rs 32.90 lakh (UT Capex). Credit-transparency: sarkari yojana hai; Dar ne mantri ke roop me shilanyas kiya. Stage: shilanyas.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kangroosa me Community Hall ka shilanyas, Kandi Rafiabad',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Kashmir Life',
+    sourceUrl: 'https://kashmirlife.net/minister-javid-dar-launches-rs-4-5-crore-development-projects-in-baramulla-412941/',
+    date: '2025-11-11',
+    note: 'Kandi Rafiabad ke Kangroosa me Community Hall ka shilanyas, Rs 80 lakh (District Capex/PRI Grants). Credit-transparency: sarkari yojana hai; Dar ne mantri ke roop me shilanyas kiya. Stage: shilanyas.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kangroosa me BDC office building ka shilanyas, Kandi Rafiabad',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Kashmir Life',
+    sourceUrl: 'https://kashmirlife.net/minister-javid-dar-launches-rs-4-5-crore-development-projects-in-baramulla-412941/',
+    date: '2025-11-11',
+    note: 'Kandi Rafiabad ke Kangroosa me Block Development Council office building ka shilanyas, Rs 125.16 lakh (UT Capex). Credit-transparency: sarkari yojana hai; Dar ne mantri ke roop me shilanyas kiya. Stage: shilanyas.',
+    period: '2024-2029',
+  },
+  {
+    title: 'GDC Hadipora me Fashion Designing Centre ka lokarpan, Rafiabad',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/javid-dar-inaugurates-fashion-designing-centre-baramulla-12526014',
+    date: '2026-09-12',
+    note: 'Government Degree College Hadipora (Rafiabad) me Fashion Designing Centre (cutting, tailoring, sozni kaam) ka lokarpan — Dar ne udhghatan kiya. Credit-transparency: centre college prashasan ne sthapit kiya tha; Dar ki bhoomika udhghatan tak seemit; fund-srot article me nahi. Stage: lokarpan (poora).',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['sajjad-shafi'] = [
+  {
+    title: 'SDH Uri me pehli Sick Newborn Care Unit ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/sick-newborn-care-unit-inaugurated-at-sdh-uri/',
+    date: '2024-11-16',
+    note: 'MLA ne vyaktigat roop se SDH Uri me 8-bed wali Sick Newborn Care Unit ka lokarpan kiya — ye SDH Uri ki pehli SNCU hai, jisse navjaat shishu ab Baramulla ya Srinagar shift kiye bina vishesh dekhbhaal pa sakenge. Credit-transparency: article ke mutabik lagat lagbhag Rs 48 lakh hai; fund-srot article me bataya nahi gaya. Suvidha Health Department ki hai, isliye poora shrey sarkari hai; MLA ki bhoomika sirf lokarpan tak seemit rahi. Stage: lokarpan (poora).',
+    period: '2024-2029',
+  },
+  {
+    title: 'GDC Uri me gazebo huts ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/mla-secy-higher-education-inaugurates-gazebo-huts-at-gdc-uri-12630587',
+    date: '2026-10-06',
+    note: 'MLA ne Secretary Higher Education ke saath milkar Government Degree College Uri me naye gazebo huts ka lokarpan kiya; saath me college ki official website aur magazine bhi launch hui. Credit-transparency: suvidha Higher Education Department ki hai, fund-srot article me stated nahi; MLA ne department ke saath milkar lokarpan kiya. Stage: lokarpan (poora).',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['javid-hassan-baig'] = [];
+
+jammuKashmirWorks['pirzada-farooq-ahmed-shah'] = [
+  {
+    title: 'Chichlora aur Lalpora playgrounds ke vikas ka shilanyas, Gulmarg',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/gk-top-news/farooq-shah-lays-foundation-stone-of-playgrounds/',
+    date: '2024-12-03',
+    note: 'MLA ne Gulmarg kshetra ke Chichlora aur Lalpora playgrounds ke vikas ka shilanyas rakha; Chichlora playground lagbhag Rs 1.19 crore ki lagat se J&K Sports Council se banwaya ja raha hai; shilanyas ke avsar par SDM Gulmarg, Kunzer-Karhama ke tehsildar aur BDO Lalpora maujood the. Credit-transparency: kaam J&K Sports Council execute kar raha hai — MLA ne shilanyas rakha; yahi unki dastavezi bhoomika hai. Stage: shilanyas (kaam abhi poora nahi).',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['irfan-hafiz-lone'] = [];
+
+jammuKashmirWorks['javaid-riyaz'] = [];
