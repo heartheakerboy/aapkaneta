@@ -669,3 +669,104 @@ nagalandWorks['naiba-konyak'] = [
 // a-nyamnyei-konyak (NPF, Moka) — KHAALI (0). REJECTS: NPP→NPF vilay (party rajneeti); NPP disqualification petitions (anti-defection — chunav-yachika akeli negative nahi, precedent); NST bus hadsa bayan (maang); Horticulture/foothills questions (sawal); FNTA/ENPO bayan (rajneeti); SDPDB/Privileges pad (pad-bhar); MHSU/Newman HSS/I-Day Satakha (maujoodgi). Naam-bhram: Dr. Nyamnyei Konyak (medical officer) aur Dr. N Leamnyei Konyak (CMO Kohima) alag vyakti — nahi jode gaye. Negative: koi nahi (0 affidavit cases).
 // naiba-konyak (LJP-RV, Tobu) — 2 entries. REJECTS: Yongphang road launching (maujoodgi); Newman HSS jubilee (maujoodgi); Students Union meet (event); Horti-Link Road question (maang); 15th FC question (maang); SDPDB baithak (charcha); pad handover (prashasanik); I-Day (ceremonial); LJP press note (party bayan); Konyak Heritage Complex (CM ka, kshetra-bahar); Konyak Union appeal (sangathan maang). Negative: koi nahi (0 affidavit cases).
 // Coordinator QA note: 5 researcher reports; Chingang source khud verify kiya (Morung Express); Wangpang entry ka DIPR mool release khud kholkar verify kiya (ipr.nagaland.gov.in/node/15602) — badge news se sarkari kiya; Mankhao Pathkind entry QA-DROP (niji commercial lab); Manpon dono morung QA-DROP (community-ceremonial, Arok Kilem/Muluo Rezu precedent); marker exactly 1x; sab 9 slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
+
+// ---- Noklak district batch (researched 2026-10-15) ----
+
+nagalandWorks['puthai-longon'] = [
+  {
+    title: 'Noklak me helipad aur sambandhit suvidhaon ka lokarpan (ICONIC Project 2024-25)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/mla-longon-inaugurates-helipad-in-noklak',
+    date: '2026-01-19',
+    stage: 'lokarpan',
+    note: '19 January 2026 ko Noklak me ICONIC Project 2024-25 ke tehet naye helipad (rest room, approach road, mahila-purush shauchalay, fencing-gate, paani aur bijli sahit) ka lokarpan 56 Noklak ke MLA va DPDB adhyaksh Puthai Longon ne kiya; DC aur SP Noklak karyakram me upasthit the. Shrey ka poora disclosure: ye sarkari iconic-pariyojna ka kaam hai — MLA ki dastavezi bhoomika udghatan-karta tak seemit, nirmaan agency ka naam khabar me nahi likha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Noklak Town me traffic island aur marketing sheds sahit anya pariyojnaon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-longon-inaugurates-traffic-island-marketing-shed-in-noklak-town/',
+    date: '2024-10-25',
+    stage: 'lokarpan',
+    note: '25 October 2024 ko Noklak Town Council ke tehet traffic island, marketing sheds aur anya pariyojnaon ka lokarpan Puthai Longon ne khud kiya; Town Council prashasak, ward adhyaksh aur GB karyakram me the. Shrey ka poora disclosure: ye Town Council ke nirdesh me bane kaam hain — MLA ki dastavezi bhoomika udghatan-karta tak seemit, fund-srot khabar me spasht nahi likha.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['benei-m-lamthiu'] = [
+  {
+    title: 'Yokao gaon me Public Ground ka lokarpan (PMAY ke tehet)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-benei-lamthiu-inaugurates-public-ground-and-new-building-of-gms-yokao-in-noklak/',
+    date: '2023-12-04',
+    stage: 'lokarpan',
+    note: '4 December 2023 ko 57 Thonoknyu ke MLA Benei M. Lamthiu ne Noklak jile ke Yokao gaon me Public Ground ka lokarpan kiya; unhone swayam spasht kiya ki ground Pradhan Mantri Awas Yojana (PMAY) ke tehet aata hai, aur Yokao Village Council ne zameen uplabdh karayi. Gaon parishad ne ground me shauchalay aur fencing ka memorandum diya jise MLA ne 2024 tak poora karne ka aashvasan diya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Yokao me Government Middle School ke naye bhavan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-benei-lamthiu-inaugurates-public-ground-and-new-building-of-gms-yokao-in-noklak/',
+    date: '2023-12-04',
+    stage: 'lokarpan',
+    note: '4 December 2023 ko Yokao me Government Middle School ke naye bhavan ka lokarpan 57 Thonoknyu ke MLA Benei M. Lamthiu ne kiya; School Education vibhag ke adhikari karyakram me the. Shrey ka poora disclosure: bhavan School Education vibhag dwara nirmit hai — MLA ki dastavezi bhoomika udghatan-karta tak seemit, aur unhone udghatan ke baad vibhag se bhavan ki dekhbhal ki maang bhi rakhi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kingniu gaon me Jal Jeevan Mission ke mukhya jalashay tank ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-lamthiu-inaugurates-construction-projects-of-3-departments-at-kingniu-village/',
+    date: '2024-11-08',
+    stage: 'lokarpan',
+    note: '8 November 2024 ko Kingniu gaon (Noklak jila) me Jal Jeevan Mission ke mukhya jalashay tank ka lokarpan 57 Thonoknyu ke MLA va DPDB adhyaksh Benei M. Lamthiu ne kiya; Kingniu Village Council dwara aayojit karyakram me PHED aur Education vibhag ke adhikari the. PHED surveyor ke mutabik tank ka kaam 2022-23 me poora ho chuka tha. Shrey ka poora disclosure: ye PHED/JJM ka kaam hai — MLA ki dastavezi bhoomika udghatan-karta tak seemit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kingniu me Government Primary School ke do kamron ke nirmaan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-lamthiu-inaugurates-construction-projects-of-3-departments-at-kingniu-village/',
+    date: '2024-11-08',
+    stage: 'lokarpan',
+    note: '8 November 2024 ko Kingniu gaon me Government Primary School ke do naye kamron ka lokarpan MLA Benei M. Lamthiu ne kiya; School Education vibhag ke adhikari karyakram me the. Shrey ka poora disclosure: ye Education vibhag ka kaam hai — MLA ki dastavezi bhoomika udghatan-karta tak seemit, aur unhone gaon-walon ko vidyalay me bachchon ka namankan badhane ki salaah di.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kingniu gaon me Village Guard barrack ke nirmaan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-lamthiu-inaugurates-construction-projects-of-3-departments-at-kingniu-village/',
+    date: '2024-11-08',
+    stage: 'lokarpan',
+    note: '8 November 2024 ko Kingniu gaon me Village Guard barrack ke nirmaan ka lokarpan MLA Benei M. Lamthiu ne kiya; Village Guard ke adhikari karyakram me the. Shrey ka poora disclosure: ye sarkari vibhag ka kaam hai — MLA ki dastavezi bhoomika udghatan-karta tak seemit.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Peshu gaon se Thonoknyu shahar tak 15 km sadak ki marammat me sahyog/vittposhan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/noklak-peshu-range-students-union-restores-road-that-is-lifeline-of-thonoknyu-area/',
+    date: '2023-07-28',
+    stage: 'poora',
+    note: '21-27 July 2023 ko Peshu Range Students Union ne Peshu gaon se Thonoknyu shahar tak lagbhag 15 km ki sadak ki saat din ki marammat ki; Nagaland Tribune ke mutabik is pahal ko Noklak jila prashasan aur 57 Thonoknyu ke MLA Benei M. Lamthiu ne samarthan aur vitt-poshan diya, aur students union ne MLA ka dhanyavad kiya. Shrey ka poora disclosure: kaam students union ne kiya — MLA ki bhoomika sahyog/finance tak seemit, jila prashasan ke saath sanyukt.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Noklak district batch ----
+// puthai-longon (NPF, Noklak) — 2 entries. REJECTS: SP Office Noklak udghatan (10 Feb 2026) — caption-only maujoodgi, unhone udghatan nahi kiya; DPDB baithaken (11 Feb 2026, 2025-26 LADP swikriti) — sansthaagat adhyaksh-bhoomika; Frontier Football Trophy (5 May 2025) — event maujoodgi; KSU session bhashan (Jan 2026) — sambodhan; Independence Day pradarshani stalls (2023) — ceremonial; State Cooperative Bank branch (11 May 2023) — bank ka kaam, maujoodgi. Negative: koi nahi (koi FIR/case reporting nahi mili).
+// benei-m-lamthiu (NPF, Thonoknyu) — 6 entries. REJECTS: Panso futsal turf (24 Feb 2026) — udghatan Advisor Mhathung Yanthan ne kiya, Lamthiu sirf upasthit; vision-interview me Yokao-Pathso road aur Thonoknyu circular road "swikrit" dawa — rajya-fund swikriti, MLA ka dastavezi concrete kadam nahi, karenge/ghoshna star; Kingniu-Panso pul "jaldi shuru hoga" — karenge wali khabar; Khaozaosie-Hok-Ah festival (Jan 2024) — festival maujoodgi; MDFA Trophy 2023 — event; thanksgiving karyakram (Apr 2023) — ceremonial. Negative: koi nahi (koi FIR/case reporting nahi mili).
+// Coordinator QA note: dono reports khud research kiye; saare 5 sources khole-pade (Morung Express x1, Nagaland Tribune x4) — snippet se koi entry nahi; marker exactly 1x; dono slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
