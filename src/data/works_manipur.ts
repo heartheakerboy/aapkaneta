@@ -603,3 +603,27 @@ manipurWorks['leishiyo-keishing'] = [];
 // Mantri-bhoomika ki jaanch: Leishiyo Keishing koi mantri nahi hain (Feb 2024 NDTV report me ve 10 Naga MLA dastakhat-kartaon me the — Tribal Affairs mantri koi aur tha). Isliye mantri-mla niyam ka ullekh nahi banta.
 // Khaas dhyaan: 13 Feb 2025 – 4 Feb 2026 tak Manipur me President's Rule raha, is daur me MLAon ki karyakari bhoomika seemit thi; us samay ke daawon ke liye pakka dastavezi srot chahiye — aisa kuch nahi mila. Kamjong ADC ke kaam MLA par attribute nahi kiye gaye. Koi chunav-yachika, FIR ya adalat/police-record-adharit negative ki credible khabar nahi mili.
 // Coordinator QA note: 8 independent searches (inauguration / foundation stone / lokarpan / MLALAD angles); 2 poorne articles khole-padhe gaye; Kamjong me unke naam par koi post-event developmental reporting nahi mili. Profile khaali rehna sahi hai.
+
+// ---- Kangpokpi district batch (researched 2026-10-15) ----
+manipurWorks['kimneo-haokip-hangshing'] = [
+  {
+    title: 'Saikul Block Ground par Mobile Medical Unit ambulance ka lokarpan',
+    category: 'Aspataal',
+    badge: 'sarkari',
+    sourceLabel: 'Ukhrul Times',
+    sourceUrl: 'https://ukhrultimes.com/mobile-medical-unit-ambulance-launched-in-saikul-to-improve-healthcare-access/',
+    date: '2026-09-17',
+    note: '17 September 2026 ko Saikul Block Ground par Swasthya Vibhag, Manipur sarkar dwara uplabdh karayi gayi Mobile Medical Unit ambulance ka MLA Kimneo Hangshing (46-Saikul) ne ribbon kaatkar lokarpan kiya; gaadi sarkari swasthya vibhag ki hai, MLA ka yogdaan udghatan tak seemit raha; karyakram me CM Yumnam Khemchand Singh ke samarthan ke liye aabhaar bhi vyakt hua; unit ka uddeshya door-daraaz bastiyon tak buniyadi swasthya seva pahunchana hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['nemcha-kipgen'] = [];
+
+manipurWorks['haokholet-kipgen'] = [];
+
+// REJECT-LOG (Kangpokpi district — research 15 Oct 2026)
+// kimneo-haokip-hangshing (KPA, 46-Saikul ST — note: brief me galat seat number 47 likha tha, teenon independent sources + ECI affidavit + Ukhrul Times se 46-Saikul confirm; slug sahi hai) — 1 entry. 14+ rejects: (1) Gunlei bridge udghatan REJECT (coordinator override) — pull community (Reconstruction Committee/church/Kuki Inpi/svayamsevak) ne banwaya, MLA ne sirf ribbon kaata + permanent bridge ka waada; sarkari kaam nahi, sirf ceremonial + ghoshna; (2) May Road udghatan (The Hills Journal, gair-anumodit srot); (3) skill-tools vitaran (gair-anumodit srot); (4) SHADC stationery/dustbin vitaran — ADC kaam attribute nahi; (5) sadan maangein (exam centre/IDP suvidha) — koi saboot nahi; (6) private clinic udghatan; (7) private petrol pump udghatan — ceremonial; (8) IDP relief-camp visits — raahat; (9) hatya-ninda bayaan; (10) 3 saal baad sadan me upasthiti — rajnaitik ghatna; (11) chunav-yachika (Kenn Raikhan vs Kimneo) — yachika akeli negative nahi; (12) Privilege Committee show-cause (Jun 2023) — koi FIR/case/parinaam nahi; (13) pati par Naga sangathan ka aarop — parivar ka mamla; (14) pati KRA-firing khabar — parivar ka mamla; (15) PHC->CHC 2020 — pre-tenure. Affidavit me 0 criminal cases — negative nahi.
+// nemcha-kipgen (BJP, 50-Kangpokpi ST; Dy CM 4 Feb 2026 se, usse pehle Commerce & Industry/Textiles/Cooperation mantri) — KHAALI. Poori profile mantri/Dy-CM bhoomika ki — seat-star par sabhi khabrein mantri-kaal/dept/vitran/ceremonial: JNV Senapati-II (PM lokarpan, gair-anumodit srot), niji factory/clinic udghatan, CM ke Kangpokpi kaam (dialysis unit etc. — sirf maujoodgi), Dy-CM karyalaya ki ghoshnaen, kalyan/raahat vitran, IDP sahayata Rs 20 lakh (raahat), pichhle karyakaal ke kaam. Negative reject: Lamphel sarkari aawas jala — ve SWAYAM peedit; UNC patra (21 Jul 2026) — barkhastagi maang pati ST Thangboi Kipgen ke sangathan par UAPA FIR par aadharit — pati-kendrit parivarik mamla, in par koi case nahi; Naga MLAs ka "colluding" aarop — rajnaitik bayaanbaazi, koi likhit saboot nahi. Traps: pati ST Thangboi Kipgen (KNF-President/UPF chairman) alag; Haokholet Kipgen (Saitu MLA) alag vyakti; Losii Dikho (dusre Dy CM, NPF) aarop lagane wale.
+// haokholet-kipgen (IND, 51-Saitu ST) — KHAALI. Hinsa ke baad ~3.5 saal Imphal sadan me physically aa nahi paye (Sep 2026 me pehli baar wapas), President's Rule me karyakari bhoomika seemit; koi dastavezi lokarpan/shilanyas/swikriti nahi mili; Sadar Hills ADC ke kaam attribute nahi. 13 rejects: goodwill luncheon (ceremonial), NAKSAM monolith (sports body ka smarak), CM se mulakaat (courtesy call), NH-2 reopening (CM initiative, sirf maujoodgi), JNV Kangpokpi PM virtual lokarpan (sirf maujoodgi), hospital/PHC ghoshnaen (CM ne announce kiya), Sadar Hills Congress statement / TIM "dhokha" aarop / KHRC ninda (koi FIR/case nahi — rajnaitik bayaanbaazi), hatyaon ki ninda (MLA peedit samuday ki awaaz, aaropi nahi), chunav stories, assembly me wapasi (vidhayi gatividhi, kshetra-kaam nahi). Traps: Nemcha Kipgen (Kangpokpi AC, BJP) alag seat — unke dialysis/100-bed/JNV projects ka shrey galat na lage; spelling variants "Haokholhet"/"Hao-kholet" ek hi vyakti.
+// Coordinator QA note: ambulance lokarpan ka srot coordinator ne khud kholkar verify kiya (Ukhrul Times: Department of Health Services ki gaadi, MLA 46-Saikul ne ribbon kaatkar udghatan kiya); Gunlei bridge ko coordinator ne reject kiya (community-built, sarkari kaam nahi, sirf ribbon + waada). 3/3 slugs pehle file me nahi the — koi overwrite nahi. Sabhi titles/notes Roman Hinglish, 0 script, 0 Rs-sign, 0 literal-\n.
