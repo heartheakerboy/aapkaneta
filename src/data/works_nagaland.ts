@@ -938,3 +938,33 @@ nagalandWorks['kuzholuzo-nienu'] = [
 // kudecho-khamo (NPF, Chozuba — Advisor) — 2 entries (Chetheba seat-identity CEO Nagaland polling list se pakki). REJECTS (14): Akuluto ADC complex / Dimapur DC office / Kohima Thipuzumi building / GHS Rukizu — seat bahar ya state-role; Chozuba Khuhu — dusre ne banwaya, MLA bhoomika nahi; SBI Chetheba — bank kaam; LADP vitran baithak — ghoshna; DPDB sifarishein — maang; Village Fair — event; Khutsami monolith — dharmik; DPDB/thanksgiving appeals — maujoodgi/bayan; sadak-janch maang — maang. NOTED: 2 Nagaland Tribune school lokarpan (GHS Japan Riba Mar 2024, GPS Phusachodu Aug 2024) source-list ke bahar hone se reject — parent chahe to baad me jod sakta hai (dusre batches me Nagaland Tribune entries live hain, policy-spashtata ke liye parent dekhe). Negative: koi nahi (affidavit 0 cases).
 // kuzholuzo-nienu (NPF, Phek) — 3 entries (boundary stone: asal samjhauta 2021 pre-term — entry sirf 2026 ke lokarpan ki bhoomika par). REJECTS (16): Soil Testing Lab 2022 / monolith 2021 / Republic Day 2022 / oxygen plant — pre-term; Phek College block (mantri ne lokarpan kiya); Observation Home (Commissioner ne kiya); GHSS Lighthouse shilanyas (CM ne rakha) — sab maujoodgi/bhoomika-nahi; Town Council kaam / residents sadak — kamzor attribution; ceasefire/Naga issue/ILP bayan — rajnaitik; tournament udghatan — event; NPF oath — party; YouTube-only rahat — source+parivar; samman-samaroh; DPDB; Foothill Road bayan — karenge.
 // Coordinator QA note: charon worker fragments kholkar padhe; ek invalid stage ('vitaran') 'lokarpan' kiya; hygiene Python-verified (sirf ASCII + established em-dash style, 0 Devanagari/Meitei Mayek, 0 ₹-symbol, 0 literal-\n; entry objects me 0 comments); marker exactly 1x; charon slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
+
+// ---- Shamator district batch (researched 2026-10-15) ----
+nagalandWorks['s-keoshu-yimchunger'] = [
+  {
+    title: 'Shamator Town Road sudhar pariyojna ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/town-road-toshi-wungtung-memorial-clock-tower-inaugurated-in-shamator',
+    date: '2026-04-07',
+    stage: 'lokarpan',
+    note: '7 Apr 2026 ko MLA S. Keoshu Yimchunger ne Shamator town me town road sudhar pariyojna (sadak ka blacktopping) ka lokarpan kiya. Poora disclosure: udghatan unhone Youth Resources & Sports salahkar evam DPDB Shamator adhyaksh ke roop me kiya; pariyojna ka fund-srot khabar me spasht nahi hai — Shamator Town Public Forum, jila prashasan, aam janta aur shubhchintakon ke yogdaan ka dhanyavaad darj hai; MLA ki dastavezi bhoomika lokarpan-karta ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Toshi Wungtung Memorial Clock Tower ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/town-road-toshi-wungtung-memorial-clock-tower-inaugurated-in-shamator',
+    date: '2026-04-07',
+    stage: 'lokarpan',
+    note: '7 Apr 2026 ko MLA S. Keoshu Yimchunger ne Shamator me Toshi Wungtung Memorial Clock Tower ka lokarpan kiya (sadak pariyojna ke saath hi). Poora disclosure: tower ki pehal divangat mantri Toshi Wungtung ne ki thi (pichhle karyakaal) aur tower unhi ki smriti me naamankit hai; Eastern Mirror ke anusaar udghatan ke samay tower me ghadi lagana abhi baki tha — Shamator Town Public Forum ke sachiv ne ise poora karne ka aagrah kiya tha.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Shamator district batch ----
+// s-keoshu-yimchunger (NPF — 2023 me NDPP ticket par jeete, Oct 2025 vilay se NPF; Shamator-Chessore) — 2 entries. REJECTS (8): Y. Thsankiu Road lokarpan (15 Apr 2023, Nagaland Tribune) — Yimkhiung Tribal Council ne janta-ke-yogdaan se banwayi, MLA sirf udghatan — community-ceremonial reject (Arok Kilem/Muluo Rezu precedent); Sangphur Morung House lokarpan (5 Mar 2024, Nagaland Tribune) — khel ki paramparik morung, sarkari fund ka ullekh nahi — community-ceremonial reject; Kenuwong/Lunthur gaon udghatan (Dec 2022) — pre-karyakaal; 36th CASA football tournament udghatan (Oct 2025) — event; NPF Shamator division office karyakram — party kaam; Independence Day 2024 Shamator — ceremonial; GA Flat Shamator udghatan (DIPR caption-only, tareekh apusht) — weak attribution/date reject; Tening Jadonang hostel (Mar 2025) — Governor ne udghatan kiya, MLA sirf upasthit + seat bahar. Negative: koi nahi (halafname me 0 criminal cases; koi FIR/case reporting nahi mili).
+// Coordinator QA note: batch khud kiya (1 MLA, child agent ki zaroorat nahi); Eastern Mirror article khola-padha, DIPR cross-check kiya; hygiene Python-verified (sirf ASCII + established em-dash style, 0 Devanagari/Meitei Mayek, 0 ₹-symbol, 0 literal-\n; entry objects me 0 comments); marker exactly 1x; slug append se pehle file me absent tha — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
