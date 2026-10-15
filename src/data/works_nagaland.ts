@@ -579,3 +579,93 @@ nagalandWorks['temjen-imna-along'] = [
 // temjenmenba (NPF, Jangpetkong) — 2 entries. REJECTS: CMHIS registration drive = party unit + kamzor attribution; JKTM conference = ceremonial; Senso Mungdang = ceremonial; NDPP consultative meet = party-kaam; NPF unit formation = party-kaam; LS campaign = chunav prachar. NEGATIVE: koi nahi.
 // temjen-imna-along (BJP, Alongtaki — mantri) — 1 entry. REJECTS: Khelo India hall (Rs 2.71cr, CM ne virtual udghatan) = kendriya yojana, CM ka kaam; Khelo India vivad (Eastern Mirror Sep 2026 — CM ne report maangi, ACCC ne inquiry maangi) = na FIR na adalaati karyavahi na jawab — watch-item, na entry na negative; NPCC/ACCC press-release aarop = bina FIR; mantri-vibhag ke kaam (PM-USHA, NCMFA, exhibition, college) = seat-bahar + vibhagiya; CSO ultimatum = rajnaitik maang; GHS Longchem/Lirmen = Grokipedia AI dawa, verify nahi. QA-DROP: Longtho Multi Utility Building (Northeast Today ekmatra srot, list-bahar aggregator). NEGATIVE: koi nahi.
 // Imna Along Khelo India vivad WATCH: Eastern Mirror 17 Sep 2026 — CM ne vibhag se report maangi, ACCC ne impartial inquiry maangi; abhi na FIR na adalaati karyavahi — isliye na entry na negative; aage koi FIR/janch hogi to entry banegi.
+
+// ---- Mon district batch (researched 2026-10-15) ----
+nagalandWorks['p-paiwang-konyak'] = [];
+
+nagalandWorks['w-chingang-konyak'] = [
+  {
+    title: 'Lampong Wakching Church sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/lampong-wakching-church-road-inaugurated-in-mon',
+    date: '2026-02-07',
+    stage: 'poora',
+    note: 'W. Chingang Konyak ne 7 Feb 2026 ko Lampong Wakching gaon me church sadak ka lokarpan kiya, ye sadak Wakching gaon tak bhi jati hai. Disclosure: article ke mutabik blacktopping IKON Infratech Firm aur Lampong Wakching gaon walon ne milkar ki thi, MLA LADP fund se nahi bani; MLA ne bataya ki sadak ka kaam unhone swargiya Y. M. Yollow Konyak (poorv Van Mantri) ke saath shuru kiya tha, isliye pehal ka hissa poorv-karyakaal ka hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['wangpang-konyak'] = [
+  {
+    title: 'Tammong gaon me Awaho Reservoir Tank ka lokarpan — Jal Jeevan Mission ke tahat gaon ko paani supply connection',
+    category: 'Paani',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/node/15602',
+    date: '2024-12-19',
+    stage: 'lokarpan',
+    note: 'Tammong gaon (43 Tapi AC) me Awaho Reservoir Tank ka lokarpan MLA va Advisor (Samaj Kalyan) Wangpang Konyak ne 19 December 2024 ko kiya, jisse Jal Jeevan Mission ke tahat gaon ko paani supply connection mila. Disclosure: ye kendra sarkar ki Jal Jeevan Mission yojana ka kaam tha jise PHED Mon ne banaya — MLA ki vyaktigat nidhi ka kaam nahi; unhone vyaktigat roop se lokarpan kiya aur gaonwalon se paani sanrakshan ki appeal ki. Tank ko Tammong Baptist Fellowship ke pastor ne dedicate kiya. (Sarkari press vigyapti; DIPR ka mool release khud kholkar verify kiya.)',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['k-konngam-konyak'] = [];
+
+nagalandWorks['c-l-john'] = [];
+
+nagalandWorks['y-mankhao-konyak'] = [
+  {
+    title: 'Totok Chingha me Ayushman Bharat Health and Wellness Sub-Centre ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/health-and-wellness-center-inaugurated-at-totok-chingha/',
+    date: '2023-08-14',
+    stage: 'lokarpan',
+    note: 'Ayushman Bharat ke tehet Health and Wellness Sub-Centre (Totok Chingha aur Totok Omlen, kul lagbhag 1900 log) ka lokarpan 14 August 2023 ko Y Mankhao Konyak ne khud kiya; NHM Mon ki press release ke mutabik ise Health and Family Welfare vibhag ne commission kiya aur Mon ke CMO ne project ki commissioning me Mankhao ke sahyog ke liye unhe dhanyavad diya.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['c-manpon-konyak'] = [];
+
+nagalandWorks['a-nyamnyei-konyak'] = [];
+
+nagalandWorks['naiba-konyak'] = [
+  {
+    title: 'Bumei gaon me swasthya upkendra ka lokarpan',
+    category: 'Aspataal',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/naiba-konyak-inaugurates-sub-centre-bumei-mon',
+    date: '2025-07-07',
+    stage: 'lokarpan',
+    note: '7 July 2025 ko Monyakshu circle ke Bumei gaon (Tobu Vidhan Sabha kshetra) me swasthya upkendra ka lokarpan 55 Tobu ke MLA va SDPDB Tobu ke adhyaksh Naiba Konyak ne kiya; chikitsa adhikari aur NGO pratinidhi karyakram me upasthit the. Sarkari press vigyapti me karyakram ki post-event tasdeek hai, lekin fund-srot ya nirmaan ka shrey khabar me spasht nahi likha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Changlangshu me Community Health Centre ka lokarpan (PHC se CHC unnayan)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/naiba-konyak-inaugurates-chc-changlangshu/',
+    date: '2025-07-08',
+    stage: 'lokarpan',
+    note: '8 July 2025 ko Tobu ke Changlangshu me Community Health Centre ka lokarpan 55 Tobu ke MLA Naiba Konyak ne kiya; Mon ke CMO, Dy CMO aur swasthya vibhag ke adhikari upasthit the. Shrey ka poora disclosure: ye unka shuru kiya project nahi — PHC se CHC unnayan ki pehel poorv swasthya mantri S. Pangnyu Phom ne ki thi, vartaman swasthya mantri P. Paiwang Konyak ne CHC ko majboot karne me sahyog diya, aur project poora karne me samudaay ki bhoomika rahi; fund-srot khabar me spasht nahi likha.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Mon district batch ----
+// p-paiwang-konyak (BJP, Tizit — mantri) — KHAALI (0). REJECTS: Zunheboto health ghoshna (kshetra-bahar + ghoshna); Mon Medical College inspection (nirikshan + vibhagiya); Dimapur-Tizit railway assurance (ghoshna, 2013 approval pre-2023); Tizit flood visit + donation (salary-daan/welfare); M. Jon School upgradation (DC ne lokarpan kiya); Nadda mulakat (ministry-level). Negative: koi nahi (0 affidavit cases).
+// w-chingang-konyak (NPF, Wakching) — 1 entry. REJECTS: Nagaland Rural Bank branch dedication (maujoodgi); Farm Machinery Bank (DIPR-only, approved source nahi); Kongan-Naginimora road foundation (Kaito Aye ne kiya); Panchayat Bhawan (stage unclear); Baptist Fellowship building (church ka kaam); 371A bayan (vibhagiya). Negative: koi nahi (0 affidavit cases).
+// wangpang-konyak (NPF, Tapi — Nov 2023+ karyakaal) — 1 entry. REJECTS: DPO ICDS offices Noklak/Kiphire (kshetra-bahar + vibhag); ICDS building Social Welfare Complex Mon (vibhag, Mon HQ); Experiential Learning Centre GHSS Mon (kendriya funded, kshetra-bahar); Gender Resource Centre Kohima (vibhag, seat-bahar); PwDs camp bayan (bayaan); NDPP Tapi meeting (party bayan); shapath/upchunav khabren (chunav). Noke Wangnao ka kuch inke khaate me nahi dala gaya. Negative: koi nahi.
+// k-konngam-konyak (BJP, Phomching) — KHAALI (0). REJECTS: Peren Treasury Office lokarpan (kshetra-bahar + vibhag); Heritage Gallery/1979 exhibition/Cultural Resource Centre Kohima (vibhag); Republic/Independence Day Mon (sarkari duty); Hornbill Mon edition (maujoodgi); Mobile Skill Morung (vibhag training); Longwa Lailo GPS (prastav); trade fair (maujoodgi). Purana CBI mamla (RC 1(A)/1998DLI, 2016 HC stay) — pre-2023, 2023 affidavit me 0 cases, negative ka bar poora nahi karta. Negative: koi nahi.
+// c-l-john (NPF, Tehok — mantri) — KHAALI (0). REJECTS: Namsa Range office/Chen Beat office/Khezhakeno (apne Forest vibhag + kshetra-bahar); NFMP Batch IV (vibhagiya); Earth Keepers launch (maujoodgi); PDS store (prastav); Tehok Hydro/Chenloisho/Chenmoho (pre-2023); Wildlife Week/Naga Solidarity/FNTA-ENPO (bayaan). Negative: koi nahi (0 affidavit cases).
+// y-mankhao-konyak (NPF, Mon Town) — 1 entry. QA-DROP: Pathkind diagnostic lab lokarpan (niji commercial lab, koi sarkari fund/vikas-kaam nahi — ceremonial reject). REJECTS: dumping site nirikshan; DPDB prastav; Konyak Aoleang Monyu chief host (ceremonial); Konyak Heritage Complex (CM ka kaam); A. Ponglih ko Rs 1 lakh (vyakti-welfare); disqualification petition (kharij — chunav-yachika negative nahi). Negative: koi nahi.
+// c-manpon-konyak (IND, Aboi) — KHAALI (0). QA-DROP: Changlehong Khel Morung + Nganching Union Office-cum-Morung lokarpan (gaon-committee nirmit, sarkari fund ullekh nahi — community-ceremonial reject, Arok Kilem precedent). REJECTS: GHSS Aboi jubilee (maujoodgi); Pathkind lab (Mankhao ne kiya); CM-MOT surgical camp (CM ka); NH-702 meeting (Zeliang ka faisla); sports closing (maujoodgi); I-Day (ceremonial); dengue review (nirikshan); DPDB LADP approval (board); JNV proposal (prastav). Negative: koi nahi (0 affidavit cases).
+// a-nyamnyei-konyak (NPF, Moka) — KHAALI (0). REJECTS: NPP→NPF vilay (party rajneeti); NPP disqualification petitions (anti-defection — chunav-yachika akeli negative nahi, precedent); NST bus hadsa bayan (maang); Horticulture/foothills questions (sawal); FNTA/ENPO bayan (rajneeti); SDPDB/Privileges pad (pad-bhar); MHSU/Newman HSS/I-Day Satakha (maujoodgi). Naam-bhram: Dr. Nyamnyei Konyak (medical officer) aur Dr. N Leamnyei Konyak (CMO Kohima) alag vyakti — nahi jode gaye. Negative: koi nahi (0 affidavit cases).
+// naiba-konyak (LJP-RV, Tobu) — 2 entries. REJECTS: Yongphang road launching (maujoodgi); Newman HSS jubilee (maujoodgi); Students Union meet (event); Horti-Link Road question (maang); 15th FC question (maang); SDPDB baithak (charcha); pad handover (prashasanik); I-Day (ceremonial); LJP press note (party bayan); Konyak Heritage Complex (CM ka, kshetra-bahar); Konyak Union appeal (sangathan maang). Negative: koi nahi (0 affidavit cases).
+// Coordinator QA note: 5 researcher reports; Chingang source khud verify kiya (Morung Express); Wangpang entry ka DIPR mool release khud kholkar verify kiya (ipr.nagaland.gov.in/node/15602) — badge news se sarkari kiya; Mankhao Pathkind entry QA-DROP (niji commercial lab); Manpon dono morung QA-DROP (community-ceremonial, Arok Kilem/Muluo Rezu precedent); marker exactly 1x; sab 9 slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
