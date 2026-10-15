@@ -42,6 +42,9 @@ import { mizoramRsNetas } from './mizoram_rs';
 import { nagalandNetas, nagalandConstituencies } from './nagaland';
 import { nagalandMpNetas, nagalandMpConstituencies } from './nagaland_mp';
 import { nagalandRsNetas } from './nagaland_rs';
+import { jammuKashmirNetas, jammuKashmirConstituencies } from './jammukashmir';
+import { jammuKashmirMpNetas, jammuKashmirMpConstituencies } from './jammukashmir_mp';
+import { jammuKashmirRsNetas } from './jammukashmir_rs';
 import { mhaWorks } from './works_mha';
 import { gujWorks } from './works_guj';
 import { rajWorks } from './works_raj';
@@ -56,6 +59,7 @@ import { tamilNaduWorks } from './works_tamilnadu';
 import { manipurWorks } from './works_manipur';
 import { mizoramWorks } from './works_mizoram';
 import { nagalandWorks } from './works_nagaland';
+import { jammuKashmirWorks } from './works_jammukashmir';
 import { prevMha } from './prev_mha';
 import { prevGuj } from './prev_guj';
 import { prevRaj } from './prev_raj';
@@ -71,18 +75,18 @@ import { prevMizoram } from './prev_mizoram';
 import { prevNagaland } from './prev_nagaland';
 import type { Neta, Constituency } from './pilot';
 
-export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas, ...upNetas, ...upMpNetas, ...upRsNetas, ...delhiNetas, ...delhiMpNetas, ...delhiRsNetas, ...madhyaPradeshNetas, ...mpMpNetas, ...mpRsNetas, ...biharNetas, ...biharMpNetas, ...biharRsNetas, ...assamNetas, ...assamMpNetas, ...assamRsNetas, ...keralaNetas, ...keralaMpNetas, ...keralaRsNetas, ...goaNetas, ...goaMpNetas, ...goaRsNetas, ...tamilNaduNetas, ...tamilNaduMpNetas, ...tamilNaduRsNetas, ...manipurNetas, ...manipurMpNetas, ...manipurRsNetas, ...mizoramNetas, ...mizoramMpNetas, ...mizoramRsNetas, ...nagalandNetas, ...nagalandMpNetas, ...nagalandRsNetas];
-export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies, ...rsConstituencies, ...gujConstituencies, ...gujMpConstituencies, ...gujRsConstituencies, ...rajConstituencies, ...rajMpConstituencies, ...rajRsConstituencies, ...upConstituencies, ...upMpConstituencies, ...upRsConstituencies, ...delhiConstituencies, ...delhiMpConstituencies, ...delhiRsConstituencies, ...madhyaPradeshConstituencies, ...mpMpConstituencies, ...mpRsConstituencies, ...biharConstituencies, ...biharMpConstituencies, ...biharRsConstituencies, ...assamConstituencies, ...assamMpConstituencies, ...assamRsConstituencies, ...keralaConstituencies, ...keralaMpConstituencies, ...goaConstituencies, ...goaMpConstituencies, ...tamilNaduConstituencies, ...tamilNaduMpConstituencies, ...manipurConstituencies, ...manipurMpConstituencies, ...mizoramConstituencies, ...mizoramMpConstituencies, ...nagalandConstituencies, ...nagalandMpConstituencies];
+export const allNetas: Neta[] = [...pilotNetas, ...mhaNetas, ...mpNetas, ...rsNetas, ...gujNetas, ...gujMpNetas, ...gujRsNetas, ...rajNetas, ...rajMpNetas, ...rajRsNetas, ...upNetas, ...upMpNetas, ...upRsNetas, ...delhiNetas, ...delhiMpNetas, ...delhiRsNetas, ...madhyaPradeshNetas, ...mpMpNetas, ...mpRsNetas, ...biharNetas, ...biharMpNetas, ...biharRsNetas, ...assamNetas, ...assamMpNetas, ...assamRsNetas, ...keralaNetas, ...keralaMpNetas, ...keralaRsNetas, ...goaNetas, ...goaMpNetas, ...goaRsNetas, ...tamilNaduNetas, ...tamilNaduMpNetas, ...tamilNaduRsNetas, ...manipurNetas, ...manipurMpNetas, ...manipurRsNetas, ...mizoramNetas, ...mizoramMpNetas, ...mizoramRsNetas, ...nagalandNetas, ...nagalandMpNetas, ...nagalandRsNetas, ...jammuKashmirNetas, ...jammuKashmirMpNetas, ...jammuKashmirRsNetas];
+export const allConstituencies: Constituency[] = [...pilotConsts, ...mhaConstituencies, ...mpConstituencies, ...rsConstituencies, ...gujConstituencies, ...gujMpConstituencies, ...gujRsConstituencies, ...rajConstituencies, ...rajMpConstituencies, ...rajRsConstituencies, ...upConstituencies, ...upMpConstituencies, ...upRsConstituencies, ...delhiConstituencies, ...delhiMpConstituencies, ...delhiRsConstituencies, ...madhyaPradeshConstituencies, ...mpMpConstituencies, ...mpRsConstituencies, ...biharConstituencies, ...biharMpConstituencies, ...biharRsConstituencies, ...assamConstituencies, ...assamMpConstituencies, ...assamRsConstituencies, ...keralaConstituencies, ...keralaMpConstituencies, ...goaConstituencies, ...goaMpConstituencies, ...tamilNaduConstituencies, ...tamilNaduMpConstituencies, ...manipurConstituencies, ...manipurMpConstituencies, ...mizoramConstituencies, ...mizoramMpConstituencies, ...nagalandConstituencies, ...nagalandMpConstituencies, ...jammuKashmirConstituencies, ...jammuKashmirMpConstituencies];
 
 // Overlay verified work entries (district batches) onto generated profiles
 for (const n of allNetas) {
-  const w = (n.state === 'Nagaland' ? nagalandWorks : n.state === 'Mizoram' ? mizoramWorks : n.state === 'Manipur' ? manipurWorks : n.state === 'Tamil Nadu' ? tamilNaduWorks : n.state === 'Goa' ? goaWorks : n.state === 'Kerala' ? keralaWorks : n.state === 'Assam' ? assamWorks : n.state === 'Bihar' ? biharWorks : n.state === 'Madhya Pradesh' ? mpWorks : n.state === 'Delhi' ? delhiWorks : n.state === 'Uttar Pradesh' ? upWorks : n.state === 'Rajasthan' ? rajWorks : n.state === 'Gujarat' ? gujWorks : mhaWorks)[n.slug];
+  const w = (n.state === 'Jammu & Kashmir' ? jammuKashmirWorks : n.state === 'Nagaland' ? nagalandWorks : n.state === 'Mizoram' ? mizoramWorks : n.state === 'Manipur' ? manipurWorks : n.state === 'Tamil Nadu' ? tamilNaduWorks : n.state === 'Goa' ? goaWorks : n.state === 'Kerala' ? keralaWorks : n.state === 'Assam' ? assamWorks : n.state === 'Bihar' ? biharWorks : n.state === 'Madhya Pradesh' ? mpWorks : n.state === 'Delhi' ? delhiWorks : n.state === 'Uttar Pradesh' ? upWorks : n.state === 'Rajasthan' ? rajWorks : n.state === 'Gujarat' ? gujWorks : mhaWorks)[n.slug];
   if (w && w.length) n.works = [...n.works, ...w];
 }
 
 // Overlay previous-election affidavit comparison data (2018 vs 2023 for MP, 2017 vs 2022 for UP, etc.)
 for (const n of allNetas) {
-  n.prevAffidavit = ((n.state === 'Nagaland' ? prevNagaland : n.state === 'Mizoram' ? prevMizoram : n.state === 'Manipur' ? prevManipur : n.state === 'Tamil Nadu' ? prevTamilNadu : n.state === 'Goa' ? prevGoa : n.state === 'Kerala' ? prevKerala : n.state === 'Assam' ? prevAssam : n.state === 'Delhi' ? null : n.state === 'Bihar' ? prevBihar : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : n.state === 'Gujarat' ? prevGuj : n.state === 'Madhya Pradesh' ? prevMp : prevMha) ?? {})[n.slug] ?? null;
+  n.prevAffidavit = ((n.state === 'Jammu & Kashmir' ? null : n.state === 'Nagaland' ? prevNagaland : n.state === 'Mizoram' ? prevMizoram : n.state === 'Manipur' ? prevManipur : n.state === 'Tamil Nadu' ? prevTamilNadu : n.state === 'Goa' ? prevGoa : n.state === 'Kerala' ? prevKerala : n.state === 'Assam' ? prevAssam : n.state === 'Delhi' ? null : n.state === 'Bihar' ? prevBihar : n.state === 'Uttar Pradesh' ? prevUp : n.state === 'Rajasthan' ? prevRaj : n.state === 'Gujarat' ? prevGuj : n.state === 'Madhya Pradesh' ? prevMp : prevMha) ?? {})[n.slug] ?? null;
 }
 
 // State helpers
@@ -99,7 +103,8 @@ export const isTamilNadu = (n: Neta | Constituency): boolean => (n as Neta).stat
 export const isManipur = (n: Neta | Constituency): boolean => (n as Neta).state === 'Manipur';
 export const isMizoram = (n: Neta | Constituency): boolean => (n as Neta).state === 'Mizoram';
 export const isNagaland = (n: Neta | Constituency): boolean => (n as Neta).state === 'Nagaland';
-export const mhaNetasAll: Neta[] = allNetas.filter(n => !isGujarat(n) && !isRajasthan(n) && !isUttarPradesh(n) && !isDelhi(n) && !isMadhyaPradesh(n) && !isBihar(n) && !isAssam(n) && !isKerala(n) && !isGoa(n) && !isTamilNadu(n) && !isManipur(n) && !isMizoram(n) && !isNagaland(n));
+export const isJammuKashmir = (n: Neta | Constituency): boolean => (n as Neta).state === 'Jammu & Kashmir';
+export const mhaNetasAll: Neta[] = allNetas.filter(n => !isGujarat(n) && !isRajasthan(n) && !isUttarPradesh(n) && !isDelhi(n) && !isMadhyaPradesh(n) && !isBihar(n) && !isAssam(n) && !isKerala(n) && !isGoa(n) && !isTamilNadu(n) && !isManipur(n) && !isMizoram(n) && !isNagaland(n) && !isJammuKashmir(n));
 export const gujNetasAll: Neta[] = allNetas.filter(isGujarat);
 export const rajNetasAll: Neta[] = allNetas.filter(isRajasthan);
 export const upNetasAll: Neta[] = allNetas.filter(isUttarPradesh);
@@ -113,6 +118,7 @@ export const tamilNaduNetasAll: Neta[] = allNetas.filter(isTamilNadu);
 export const manipurNetasAll: Neta[] = allNetas.filter(isManipur);
 export const mizoramNetasAll: Neta[] = allNetas.filter(isMizoram);
 export const nagalandNetasAll: Neta[] = allNetas.filter(isNagaland);
+export const jammuKashmirNetasAll: Neta[] = allNetas.filter(isJammuKashmir);
 export const mhaConstsAll: Constituency[] = allConstituencies.filter(c => !isGujarat(c) && !isRajasthan(c) && !isUttarPradesh(c) && !isDelhi(c) && !isMadhyaPradesh(c) && !isBihar(c) && !isAssam(c) && !isKerala(c) && !isGoa(c) && !isTamilNadu(c) && !isManipur(c) && !isMizoram(c) && !isNagaland(c));
 export const gujConstsAll: Constituency[] = allConstituencies.filter(isGujarat);
 export const rajConstsAll: Constituency[] = allConstituencies.filter(isRajasthan);
@@ -127,9 +133,10 @@ export const tamilNaduConstsAll: Constituency[] = allConstituencies.filter(isTam
 export const manipurConstsAll: Constituency[] = allConstituencies.filter(isManipur);
 export const mizoramConstsAll: Constituency[] = allConstituencies.filter(isMizoram);
 export const nagalandConstsAll: Constituency[] = allConstituencies.filter(isNagaland);
+export const jammuKashmirConstsAll: Constituency[] = allConstituencies.filter(isJammuKashmir);
 
 export function statePrefix(n: Neta | Constituency): string {
-  return isNagaland(n) ? '/nagaland' : isMizoram(n) ? '/mizoram' : isManipur(n) ? '/manipur' : isTamilNadu(n) ? '/tamil-nadu' : isGoa(n) ? '/goa' : isKerala(n) ? '/kerala' : isAssam(n) ? '/assam' : isDelhi(n) ? '/delhi' : isMadhyaPradesh(n) ? '/madhya-pradesh' : isBihar(n) ? '/bihar' : isUttarPradesh(n) ? '/uttar-pradesh' : isRajasthan(n) ? '/rajasthan' : isGujarat(n) ? '/gujarat' : '';
+  return isJammuKashmir(n) ? '/jammu-kashmir' : isNagaland(n) ? '/nagaland' : isMizoram(n) ? '/mizoram' : isManipur(n) ? '/manipur' : isTamilNadu(n) ? '/tamil-nadu' : isGoa(n) ? '/goa' : isKerala(n) ? '/kerala' : isAssam(n) ? '/assam' : isDelhi(n) ? '/delhi' : isMadhyaPradesh(n) ? '/madhya-pradesh' : isBihar(n) ? '/bihar' : isUttarPradesh(n) ? '/uttar-pradesh' : isRajasthan(n) ? '/rajasthan' : isGujarat(n) ? '/gujarat' : '';
 }
 
 export function netaUrl(n: Neta): string {

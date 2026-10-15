@@ -1,0 +1,596 @@
+{
+  "state": "Jammu & Kashmir",
+  "stateSlug": "jammu-kashmir",
+  "districts": [
+    {
+      "name": "Kupwara",
+      "slug": "kupwara",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Karnah",
+          "slug": "karnah"
+        },
+        {
+          "n": 2,
+          "name": "Trehgam",
+          "slug": "trehgam"
+        },
+        {
+          "n": 3,
+          "name": "Kupwara",
+          "slug": "kupwara"
+        },
+        {
+          "n": 4,
+          "name": "Lolab",
+          "slug": "lolab"
+        },
+        {
+          "n": 5,
+          "name": "Handwara",
+          "slug": "handwara"
+        },
+        {
+          "n": 6,
+          "name": "Langate",
+          "slug": "langate"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Baramulla",
+      "slug": "baramulla",
+      "acs": [
+        {
+          "n": 7,
+          "name": "Sopore",
+          "slug": "sopore"
+        },
+        {
+          "n": 8,
+          "name": "Rafiabad",
+          "slug": "rafiabad"
+        },
+        {
+          "n": 9,
+          "name": "Uri",
+          "slug": "uri"
+        },
+        {
+          "n": 10,
+          "name": "Baramulla",
+          "slug": "baramulla"
+        },
+        {
+          "n": 11,
+          "name": "Gulmarg",
+          "slug": "gulmarg"
+        },
+        {
+          "n": 12,
+          "name": "Wagoora–Kreeri",
+          "slug": "wagoora-kreeri"
+        },
+        {
+          "n": 13,
+          "name": "Pattan",
+          "slug": "pattan"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Bandipora",
+      "slug": "bandipora",
+      "acs": [
+        {
+          "n": 14,
+          "name": "Sonawari",
+          "slug": "sonawari"
+        },
+        {
+          "n": 15,
+          "name": "Bandipora",
+          "slug": "bandipora"
+        },
+        {
+          "n": 16,
+          "name": "Gurez (ST)",
+          "slug": "gurez"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Ganderbal",
+      "slug": "ganderbal",
+      "acs": [
+        {
+          "n": 17,
+          "name": "Kangan (ST)",
+          "slug": "kangan"
+        },
+        {
+          "n": 18,
+          "name": "Ganderbal",
+          "slug": "ganderbal"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Srinagar",
+      "slug": "srinagar",
+      "acs": [
+        {
+          "n": 19,
+          "name": "Hazratbal",
+          "slug": "hazratbal"
+        },
+        {
+          "n": 20,
+          "name": "Khanyar",
+          "slug": "khanyar"
+        },
+        {
+          "n": 21,
+          "name": "Habba Kadal",
+          "slug": "habba-kadal"
+        },
+        {
+          "n": 22,
+          "name": "Lal Chowk",
+          "slug": "lal-chowk"
+        },
+        {
+          "n": 23,
+          "name": "Chanapora",
+          "slug": "chanapora"
+        },
+        {
+          "n": 24,
+          "name": "Zadibal",
+          "slug": "zadibal"
+        },
+        {
+          "n": 25,
+          "name": "Eidgah",
+          "slug": "eidgah"
+        },
+        {
+          "n": 26,
+          "name": "Central Shalteng",
+          "slug": "central-shalteng"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Budgam",
+      "slug": "budgam",
+      "acs": [
+        {
+          "n": 27,
+          "name": "Budgam",
+          "slug": "budgam"
+        },
+        {
+          "n": 28,
+          "name": "Beerwah",
+          "slug": "beerwah"
+        },
+        {
+          "n": 29,
+          "name": "Khan Sahib",
+          "slug": "khan-sahib"
+        },
+        {
+          "n": 30,
+          "name": "Charari Sharief",
+          "slug": "charari-sharief"
+        },
+        {
+          "n": 31,
+          "name": "Chadoora",
+          "slug": "chadoora"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Pulwama",
+      "slug": "pulwama",
+      "acs": [
+        {
+          "n": 32,
+          "name": "Pampore",
+          "slug": "pampore"
+        },
+        {
+          "n": 33,
+          "name": "Tral",
+          "slug": "tral"
+        },
+        {
+          "n": 34,
+          "name": "Pulwama",
+          "slug": "pulwama"
+        },
+        {
+          "n": 35,
+          "name": "Rajpora",
+          "slug": "rajpora"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Shopian",
+      "slug": "shopian",
+      "acs": [
+        {
+          "n": 36,
+          "name": "Zainapora",
+          "slug": "zainapora"
+        },
+        {
+          "n": 37,
+          "name": "Shopian",
+          "slug": "shopian"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Kulgam",
+      "slug": "kulgam",
+      "acs": [
+        {
+          "n": 38,
+          "name": "DH Pora",
+          "slug": "dh-pora"
+        },
+        {
+          "n": 39,
+          "name": "Kulgam",
+          "slug": "kulgam"
+        },
+        {
+          "n": 40,
+          "name": "Devsar",
+          "slug": "devsar"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Anantnag",
+      "slug": "anantnag",
+      "acs": [
+        {
+          "n": 41,
+          "name": "Dooru",
+          "slug": "dooru"
+        },
+        {
+          "n": 42,
+          "name": "Kokernag (ST)",
+          "slug": "kokernag"
+        },
+        {
+          "n": 43,
+          "name": "Anantnag West",
+          "slug": "anantnag-west"
+        },
+        {
+          "n": 44,
+          "name": "Anantnag",
+          "slug": "anantnag"
+        },
+        {
+          "n": 45,
+          "name": "Srigufwara–Bijbehara",
+          "slug": "srigufwara-bijbehara"
+        },
+        {
+          "n": 46,
+          "name": "Shangus–Anantnag East",
+          "slug": "shangus-anantnag-east"
+        },
+        {
+          "n": 47,
+          "name": "Pahalgam",
+          "slug": "pahalgam"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Kishtwar",
+      "slug": "kishtwar",
+      "acs": [
+        {
+          "n": 48,
+          "name": "Inderwal",
+          "slug": "inderwal"
+        },
+        {
+          "n": 49,
+          "name": "Kishtwar",
+          "slug": "kishtwar"
+        },
+        {
+          "n": 50,
+          "name": "Padder–Nagseni",
+          "slug": "padder-nagseni"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Doda",
+      "slug": "doda",
+      "acs": [
+        {
+          "n": 51,
+          "name": "Bhadarwah",
+          "slug": "bhadarwah"
+        },
+        {
+          "n": 52,
+          "name": "Doda",
+          "slug": "doda"
+        },
+        {
+          "n": 53,
+          "name": "Doda West",
+          "slug": "doda-west"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Ramban",
+      "slug": "ramban",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Ramban",
+          "slug": "ramban"
+        },
+        {
+          "n": 55,
+          "name": "Banihal",
+          "slug": "banihal"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Reasi",
+      "slug": "reasi",
+      "acs": [
+        {
+          "n": 56,
+          "name": "Gulabgarh (ST)",
+          "slug": "gulabgarh"
+        },
+        {
+          "n": 57,
+          "name": "Reasi",
+          "slug": "reasi"
+        },
+        {
+          "n": 58,
+          "name": "Shri Mata Vaishno Devi",
+          "slug": "shri-mata-vaishno-devi"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Udhampur",
+      "slug": "udhampur",
+      "acs": [
+        {
+          "n": 59,
+          "name": "Udhampur West",
+          "slug": "udhampur-west"
+        },
+        {
+          "n": 60,
+          "name": "Udhampur East",
+          "slug": "udhampur-east"
+        },
+        {
+          "n": 61,
+          "name": "Chenani",
+          "slug": "chenani"
+        },
+        {
+          "n": 62,
+          "name": "Ramnagar (SC)",
+          "slug": "ramnagar"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Kathua",
+      "slug": "kathua",
+      "acs": [
+        {
+          "n": 63,
+          "name": "Bani",
+          "slug": "bani"
+        },
+        {
+          "n": 64,
+          "name": "Billawar",
+          "slug": "billawar"
+        },
+        {
+          "n": 65,
+          "name": "Basohli",
+          "slug": "basohli"
+        },
+        {
+          "n": 66,
+          "name": "Jasrota",
+          "slug": "jasrota"
+        },
+        {
+          "n": 67,
+          "name": "Kathua (SC)",
+          "slug": "kathua"
+        },
+        {
+          "n": 68,
+          "name": "Hiranagar",
+          "slug": "hiranagar"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Samba",
+      "slug": "samba",
+      "acs": [
+        {
+          "n": 69,
+          "name": "Ramgarh (SC)",
+          "slug": "ramgarh"
+        },
+        {
+          "n": 70,
+          "name": "Samba",
+          "slug": "samba"
+        },
+        {
+          "n": 71,
+          "name": "Vijaypur",
+          "slug": "vijaypur"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Jammu",
+      "slug": "jammu",
+      "acs": [
+        {
+          "n": 72,
+          "name": "Bishnah (SC)",
+          "slug": "bishnah"
+        },
+        {
+          "n": 73,
+          "name": "Suchetgarh (SC)",
+          "slug": "suchetgarh"
+        },
+        {
+          "n": 74,
+          "name": "R. S. Pora–Jammu South",
+          "slug": "rs-pora-jammu-south"
+        },
+        {
+          "n": 75,
+          "name": "Bahu",
+          "slug": "bahu"
+        },
+        {
+          "n": 76,
+          "name": "Jammu East",
+          "slug": "jammu-east"
+        },
+        {
+          "n": 77,
+          "name": "Nagrota",
+          "slug": "nagrota"
+        },
+        {
+          "n": 78,
+          "name": "Jammu West",
+          "slug": "jammu-west"
+        },
+        {
+          "n": 79,
+          "name": "Jammu North",
+          "slug": "jammu-north"
+        },
+        {
+          "n": 80,
+          "name": "Marh (SC)",
+          "slug": "marh"
+        },
+        {
+          "n": 81,
+          "name": "Akhnoor (SC)",
+          "slug": "akhnoor"
+        },
+        {
+          "n": 82,
+          "name": "Chhamb",
+          "slug": "chhamb"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Rajouri",
+      "slug": "rajouri",
+      "acs": [
+        {
+          "n": 83,
+          "name": "Kalakote–Sunderbani",
+          "slug": "kalakote-sunderbani"
+        },
+        {
+          "n": 84,
+          "name": "Nowshera",
+          "slug": "nowshera"
+        },
+        {
+          "n": 85,
+          "name": "Rajouri (ST)",
+          "slug": "rajouri"
+        },
+        {
+          "n": 86,
+          "name": "Budhal (ST)",
+          "slug": "budhal"
+        },
+        {
+          "n": 87,
+          "name": "Thanamandi (ST)",
+          "slug": "thanamandi"
+        }
+      ],
+      "talukas": []
+    },
+    {
+      "name": "Poonch",
+      "slug": "poonch",
+      "acs": [
+        {
+          "n": 88,
+          "name": "Surankote (ST)",
+          "slug": "surankote"
+        },
+        {
+          "n": 89,
+          "name": "Poonch Haveli",
+          "slug": "poonch-haveli"
+        },
+        {
+          "n": 90,
+          "name": "Mendhar (ST)",
+          "slug": "mendhar"
+        }
+      ],
+      "talukas": []
+    }
+  ]
+}
