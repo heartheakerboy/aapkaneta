@@ -770,3 +770,37 @@ nagalandWorks['benei-m-lamthiu'] = [
 // puthai-longon (NPF, Noklak) — 2 entries. REJECTS: SP Office Noklak udghatan (10 Feb 2026) — caption-only maujoodgi, unhone udghatan nahi kiya; DPDB baithaken (11 Feb 2026, 2025-26 LADP swikriti) — sansthaagat adhyaksh-bhoomika; Frontier Football Trophy (5 May 2025) — event maujoodgi; KSU session bhashan (Jan 2026) — sambodhan; Independence Day pradarshani stalls (2023) — ceremonial; State Cooperative Bank branch (11 May 2023) — bank ka kaam, maujoodgi. Negative: koi nahi (koi FIR/case reporting nahi mili).
 // benei-m-lamthiu (NPF, Thonoknyu) — 6 entries. REJECTS: Panso futsal turf (24 Feb 2026) — udghatan Advisor Mhathung Yanthan ne kiya, Lamthiu sirf upasthit; vision-interview me Yokao-Pathso road aur Thonoknyu circular road "swikrit" dawa — rajya-fund swikriti, MLA ka dastavezi concrete kadam nahi, karenge/ghoshna star; Kingniu-Panso pul "jaldi shuru hoga" — karenge wali khabar; Khaozaosie-Hok-Ah festival (Jan 2024) — festival maujoodgi; MDFA Trophy 2023 — event; thanksgiving karyakram (Apr 2023) — ceremonial. Negative: koi nahi (koi FIR/case reporting nahi mili).
 // Coordinator QA note: dono reports khud research kiye; saare 5 sources khole-pade (Morung Express x1, Nagaland Tribune x4) — snippet se koi entry nahi; marker exactly 1x; dono slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
+
+
+// ---- Peren district batch (researched 2026-10-15) ----
+
+nagalandWorks['t-r-zeliang'] = [
+  {
+    title: 'Peren me District Planning Office ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/tr-zeliang-inaugurates-district-planning-office-at-peren/',
+    date: '2026-06-08',
+    stage: 'lokarpan',
+    note: 'T. R. Zeliang ne 8 June 2026 ko Peren me naye District Planning Office bhavan ka lokarpan kiya; bhavan Planning & Transformation vibhag ne banaya jo unka apna Dy CM portfolio hai, isliye ye vibhagiya nirmaan ka vyaktigat lokarpan hai aur Peren AC me sthit sarkari suvidha ke roop me darj kiya gaya hai. Lokarpan karyakram me DC Peren Hiazu Meru bhi maujood the.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kejanglwa me Village Council Hall ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/village-council-court-both-lowest-and-highest-says-tr-zeliang',
+    date: '2025-05-17',
+    stage: 'lokarpan',
+    note: 'T. R. Zeliang ne 17 May 2025 ko Peren jile ke Kejanglwa gaon me Village Council Hall ka lokarpan kiya; hall Department of Under Developed Areas (DUDA) ke tahat bana tha aur lokarpan karyakram me unhone swayam hissa liya, DC Peren Hiazu Meru bhi maujood the.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['namri-nchang'] = [];
+
+// ---- REJECT-LOG: Peren district batch (researched 2026-10-15) ----
+// t-r-zeliang (NPF, Peren — Dy CM 7 Mar 2023 se) — 2 entries (District Planning Office lokarpan 8 Jun 2026 + Kejanglwa Village Council Hall lokarpan 17 May 2025; dono me vyaktigat lokarpan + vibhag/srot ka poora disclosure). REJECTS (17): Axis Bank Jalukie (niji bank, sirf maujoodgi); ZBCC Baptist School Ngwalwa (niji church school + vision-ghoshna); Kohima-Pedi-Peren sadak BRTF review (Dy CM portfolio); Diunaki Foothills Road bridge (sirf maujoodgi); Inter-Dept Tournament (ceremonial); Vet College Jalukie block (Chouhan ne lokarpan kiya); Integrated Health Campaign (vibhag ka programme); NIMSR Kohima (Mandaviya; kshetra-bahar); NIoT Kohima (kshetra-bahar + vibhag-kaam); Tening Namsan school prastav (Zeliang ki seat nahi + sirf prastav); New Tesen 75th anniversary; ANCSU conference; Peren Treasury Office (Advisor ne lokarpan kiya); DPRO Peren office (Commissioner ne kiya); 50-bed hospital + GHSS Lighthouse shilanyas (Scindia/CM ne kiye); Naga rajnaitik bayan (niyamanusaar skip). Negative: koi nahi (Mar 2023 ke baad koi FIR/case/adalaati janch ki reporting nahi mili).
+// namri-nchang (NPF, Tening) — KHAALI (0). REJECTS: Yettrang KBAN school second-floor lokarpan (niji school, MLA ki vyaktigat bhoomika nahi); ADC Office + GHSS Tening block lokarpan (Advisor Khamo ne kiya, Namri guest of honour); Jadonang Boys Hostel (Governor ne lokarpan kiya); Forest Range Office shilanyas (mantri C.M. Chang ne rakha); Lighthouse School Complexes (CM ne shilanyas rakha); Peren Junction-Tening road meet (sirf prastav, MLA ka naam bhi nahi); DPDB baithaken (sansthaagat); sab pre-Mar-2023 kaam (GHSS 2021, CHC 2021, Town Hall 2022, ambulance 2020). Negative: koi nahi (affidavit me 0 cases; NCP anti-defection court-dhamki party-level, MLA par koi karyavahi nahi).
