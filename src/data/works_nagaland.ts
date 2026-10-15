@@ -1417,3 +1417,179 @@ nagalandWorks['achumbemo-kikon'] = [
 // achumbemo-kikon (NPF — Bhandari): 10 entries. REJECTS (11): Tongti gaon inauguration (Nov 2024) — ghoshna, koi kaam nahi; Foothill Road launch Feb 2025 — wahi pariyojna, double-count reject; SDPDB Bhandari board launch (Oct 2023) — board ka udghatan; Merapani-Mekirang jeepable road — survey stage + Rs 1 lakh vyaktigat yogdaan; 11-33 kV Yanmhon upgrade — sirf sahmati; election-office/college/CHC-staff maangein — maang; CM Mobile OT daura (Jul 2025) — purva-ghoshna; POCSO case "Peter Chumbemo Kikon" (Jul 2026) — naam milta-julta galat vyakti (affidavit 0 cases), negative ke roop me reject; YAA jubilee bayan (Jan 2026) — speech; Foothill Phase-II maang (May 2026) — sirf maang. Negative: koi nahi.
 // Coordinator QA note (2026-10-15): 4 parallel workers, sab completed; fragment files kholkar padhe. QA sudhaar: (1) y-patton ki 4 entries me stage field missing tha — sab lokarpan the, stage joda; (2) y-mhonbemo-humtsoe ki Tesophenyu-Shaki entry me stage 'swikriti' tha — bina GO ke swikriti-dawa = ghoshna, stage sudhara; (3) mhathung-yanthan ki Sunglup HWC entry DROP ki (FB/IG self-post mirror ekmatra srot — source niyam); GoEmploy entry me stage missing tha — pehal ka shubharambh (karyakram sampann) ko lokarpan stage diya, note me spasht; (4) achumbemo-kikon me koi sudhaar nahi chahiye tha. Hygiene Python-verified: batch me 0 Devanagari/Meitei Mayek, 0 rupee-symbol, 0 literal-backslash-n; entry objects me 0 comments; marker exactly 1x; chaaron slugs append se pehle file me absent the — koi overwrite nahi. Kul titles: 78 se 104 (+26: 4 Patton + 5 Humtsoe + 7 Yanthan + 10 Kikon). Push/deploy nahi kiya (parent karega).
 
+
+// ---- Zunheboto district batch (researched 2026-10-15) ----
+nagalandWorks['sukhato-a-sema'] = [
+  {
+    title: 'Ghatashi me PMAAGY ke tahat bani concrete road aur drainage system ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/pughoboto-sdpdb-holds-monthly-meeting-at-ghatashi/',
+    date: '2025-09-09',
+    stage: 'lokarpan',
+    note: 'Nagaland Tribune (DIPR aadhar) ke anusaar MLA Dr. Sukhato A. Sema ne 9 September 2025 ko Ghatashi me Ministry of Tribal Affairs ki PMAAGY scheme ke tahat bani concrete road aur drainage system ka vyaktigat roop se lokarpan kiya. Fund kendra-sarkari scheme ka tha, MLA ke LADF ka nahi — asal shrey Tribal Affairs Ministry/vibhag ko hai, MLA ki bhoomika lokarpan tak seemit. Stage: lokarpan (kaam poora).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kitami me Asukiqa-Aphuthemi ko jodne wali CC road ka lokarpan (LADPF 2023-24 Iconic Project)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-dr-sukhato-a-sema-inaugurates-cc-road-and-agri-link-road-at-pughoboto/',
+    date: '2024-05-18',
+    stage: 'lokarpan',
+    note: 'DIPR/Nagaland Tribune ke anusaar 18 May 2024 ko MLA ne Kitami gaon me Asukiqa se Aphuthemi ko jodne wali cement concrete road ka lokarpan kiya; ye sadak LADPF 2023-24 ke Iconic Project ke tahat (MLA-nidhi) bani thi. Stage: lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ghokimi me VDB fund se bani Agri Link Road ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-dr-sukhato-a-sema-inaugurates-cc-road-and-agri-link-road-at-pughoboto/',
+    date: '2024-05-18',
+    stage: 'lokarpan',
+    note: 'Usi karyakram me MLA ne Ghokimi gaon ki Agri Link Road ka bhi lokarpan kiya, jo RD Block Ghathashi ke tahat VDB (Village Development Board) fund se bani thi; iska shrey VDB ko hai, MLA ne vyaktigat lokarpan kiya. Stage: lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ighanumi me RKVY power tiller path aur LADPF waiting shed ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-dr-sukhato-inaugurates-agri-link-road-rkvy-power-tiller-path-and-waiting-shed-projects-at-ighanumi/',
+    date: '2024-06-06',
+    stage: 'lokarpan',
+    note: '6 June 2024 ko MLA ne Ighanumi me teen pariyojnaon ka lokarpan kiya; is entry me RKVY 2023-24 ke tahat Krishi Vibhag fund se bana Ghu Nadi tak ka power tiller path aur LADPF 2023-24 fund se bana waiting shed gine gaye hain. Teesri pariyojna (agri-link road) MLA ke vyaktigat daan se bani thi, isliye vetan-daan/welfare niyam ke tahat use kaam nahi mana gaya. Stage: lokarpan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kitami me PMKSY-PDMC 2024-25 ke tahat Secondary Storage Structure ka lokarpan',
+    category: 'Paani',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/index.php/node/15635',
+    date: '2025-01-07',
+    stage: 'lokarpan',
+    note: 'DIPR ke anusaar 7 January 2025 ko MLA ne Kitami gaon me Pradhan Mantri Krishi Sinchayee Yojana (PMKSY-PDMC 2024-25) ke tahat bane Secondary Storage Structure (sinchai ke liye) ka lokarpan kiya; fund kendriya PMKSY scheme ka tha, MLA ki bhoomika vyaktigat lokarpan tak seemit. Stage: lokarpan.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['kazheto'] = [];
+nagalandWorks['picto'] = [];
+nagalandWorks['s-toiho-yeptho'] = [
+  {
+    title: 'Naltoqa town (Suruhuto) me Article 275(1) yojana se bana multipurpose hall — Deputy Speaker S Toiho Yeptho ne 30 Dec 2025 ko vyaktigat roop se lokarpan kiya',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/deputy-speaker-inaugurates-crif-road-multipurpose-hall-in-suruhuto',
+    date: '2025-12-30',
+    stage: 'lokarpan',
+    note: 'Post-event report ke mutabik S Toiho Yeptho ne Suruhuto ke Naltoqa town me bane multipurpose hall ka swayam lokarpan kiya. Project Article 275(1) 2023-24 ke tahat Ministry of Tribal Affairs ki funding se bana — ye kendra-yojana ka sarkari paisa hai, MLA ki vyaktigat nidhi nahi; shrey usi anusaar padhein. Deputy Speaker ki sansthaagat bhoomika ka isme koi bhaag nahi; entry sirf kshetra-stariy sarkari suvidha ke vyaktigat lokarpan par hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Naltoqa Junction se CRIF Phuye Junction tak CRIF road ka lokarpan — Deputy Speaker S Toiho Yeptho ne 30 Dec 2025 ko vyaktigat roop se lokarpan kiya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/deputy-speaker-inaugurates-crif-road-multipurpose-hall-in-suruhuto',
+    date: '2025-12-30',
+    stage: 'lokarpan',
+    note: 'Post-event report ke mutabik Yeptho ne Suruhuto Assembly Constituency me Naltoqa Junction se CRIF Phuye Junction tak ki road ka swayam lokarpan kiya. Road SASCI 2023-24 aur Development (State) Fund 2024-25 se funded hai — poori tarah sarkari-nidhi ka project; MLA ne isme fund saunpa nahi, sirf nirmit road ka lokarpan kiya. Entry sirf is vyaktigat lokarpan tak seemit hai; Deputy Speaker pad ki sansthaagat bhoomika shamil nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Surumi gaon tak 3.25 km inter-block road (Sürümi Jubilee Road) ka lokarpan — Deputy Speaker S Toiho Yeptho ne 18 Nov 2025 ko vyaktigat roop se udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/nagaland-s-toiho-inaugurates-surumi-jubilee-road/',
+    date: '2025-11-18',
+    stage: 'lokarpan',
+    note: 'Post-event report ke mutabik Yeptho ne CRIF Road se Surumi gaon ko jodne wali 3.25 km ki nayi bani inter-block road ka swayam lokarpan kiya; sadak ka adhikarik naam "Sürümi Jubilee Road" rakha gaya. Surumi, Suruhuto circle me unke apne Suruhoto kshetra ka gaon hai. Spasht disclosure: khabar me road ke fund-srot ya swikriti ka koi zikr nahi hai — isliye ye sirf nirmit sadak ke vyaktigat lokarpan ki entry hai, fund-dene ke dawe ke saath nahi padhein.',
+    period: '2023-2028',
+  },
+];
+nagalandWorks['g-ikuto-zhimomi'] = [
+  {
+    title: 'Hoshepu EAC mukhyalay me naye GA rest house ka lokarpan',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/GA-REST-HOUSE-INAUGURATED-AT-HOSHEPU',
+    date: '2025-01-08',
+    stage: 'lokarpan',
+    note: 'DIPR Nagaland ki sarkari press release ke anusaar G. Ikuto Zhimomi ne 8 Jan 2025 ko Hoshepu EAC mukhyalay (Aghunato AC ke andar) me GA rest house ka vyaktigat roop se lokarpan kiya; ADC Aghunato aur adhikari maujood the. Nirmaan ka fund-srot khabar me nahi bataya gaya — MLA ke vyaktigat lokarpan ke aadhar par entry hai, nirmaan-shrey ka dawa nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Aghunato ADC mukhyalay me naye GA rest house ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/advisor-ikuto-inaugurates-ga-rest-house-at-aghunato',
+    date: '2026-01-09',
+    stage: 'lokarpan',
+    note: 'Eastern Mirror ke anusaar Zhimomi ne 9 Jan 2026 ko Aghunato ADC mukhyalay me naye bane GA rest house (do imarat) ka vyaktigat roop se lokarpan karke prashasan ko saunpa. Nirmaan ka fund-srot khabar me nahi bataya gaya; MLA ne CM Neiphiu Rio ke sahyog ka aabhaar jataya. Vyaktigat lokarpan ke aadhar par entry — nirmaan-shrey ka dawa nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'CHC Aghunato me nayi ambulance ki commissioning',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/advisor-ikuto-inaugurates-ga-rest-house-at-aghunato',
+    date: '2026-01-09',
+    stage: 'lokarpan',
+    note: 'Usi karyakram me Zhimomi ne CHC Aghunato me nayi ambulance vyaktigat roop se commission ki; khabar ke anusaar gadi Nagaland ke Medical Department ne uplabdh karayi thi, jiska unhone aabhaar jataya. Asal shrey Medical Department ko hai — MLA ne commissioning ki.',
+    period: '2023-2028',
+  },
+];
+nagalandWorks['k-tokugha-sukhalu'] = [
+  {
+    title: 'Natha New gaon me Village Council Panchayat Bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/unity-and-clean-election-deliver-development-for-natha-new',
+    date: '2026-04-27',
+    stage: 'lokarpan',
+    note: 'Morung Express ke anusaar K. Tokugha Sukhalu ne 27 Apr 2026 ko Natha New gaon (35 Zunheboto AC) me Village Council Panchayat Bhavan ka vyaktigat roop se lokarpan kiya. Asal nirmaan-shrey Rural Development Department ko hai — bhavan RGSA/SASCI yojana ke tehat RD vibhag se bana, jiska RD ke Project Director ne karyakram me khud ullekh kiya aur MLA ne Mantri Metsubo Jamir aur RD vibhag ke yogdaan ko sweekara. MLA ne nirmaan nahi karwaya, sirf lokarpan kiya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Natha New me church compound ki retaining wall LADPF se bani',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/unity-and-clean-election-deliver-development-for-natha-new',
+    date: '2026-04-27',
+    stage: 'poora',
+    note: 'Usi karyakram me gaonsardar Hetoho S. Zhimomi ke swagat-bhashan me report hua ki gaon ko LADPF 2023-24 se church compound ki retaining wall mili (prapt vikas-karyon ki suchi me). LADPF vidhayak ka apna kshetriya vikas fund hai, isliye kaam ka shrey MLA fund se juda hai. GO/sanction-order ya sahi purnata-tithi khabar me nahi hai — ye bhashan-aadharit reporting hai, isliye date reporting-karyakram ki di gayi hai.',
+    period: '2023-2028',
+  },
+];
+nagalandWorks['g-kaito-aye'] = [
+  {
+    title: 'Sukhai gaon ka naya Village Council Panchayat Bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Mokokchung Times',
+    sourceUrl: 'https://mokokchungtimes.com/kaito-aye-inaugurates-sukhai-village-council-panchayat-bhavan-under-rgsa-scheme/',
+    date: '2024-12-16',
+    stage: 'lokarpan',
+    note: 'G Kaito Aye ne 16 Dec 2024 ko Satakha ke Sukhai gaon me naye bane Village Council Panchayat Bhavan ka vyaktigat roop se lokarpan kiya. Khabar ke anusaar ye bhavan kendra prayojit Revamped Rashtriya Gram Swaraj Abhiyan (RGSA) 2023-24 ke tahat bana aur RD Block Satakha ne ise implement kiya; isliye iska shrey Nagaland Rural Development vibhag aur kendra yojana ko jata hai, MLA ke mantri pad se nahi. Sukhai unhi sat gaonon me se ek hai jahan seat ke kaam ka report mila hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG workerA: sukhato — (1) Pughoboto New Administrative Complex + SBI branch + GB's Customary Court, 16 Oct 2024 (DIPR/Nagaland Tribune) — CM Neiphiu Rio ne inaugurated; MLA sirf upasthit the, ceremonial reject. (2) Kisanon ko 5 automatic sprayer machines ka vitran, Sep 2025 (Nagaland Tribune) — welfare/vetan-daan rule se reject. (3) Class 11-12 students sponsorship, Oct 2024 SDPDB (Nagaland Tribune) — welfare, reject. (4) Ghatashi PHC nirikshan, Sep 2025 (Nagaland Tribune) — sirf nirikshan/daura, reject. (5) blogspot 'bestofindiarestofindia' (Feb 2025) ke dawe — Asukiqa multipurpose building (SASCI), Tsaphimi/Ghokimi CC roads LADF 2024-25, Pughoboto town blacktopping (MLA ke apne source se) — blog hai, established media me koi post-event pushti nahi, kamzor attribution. (6) 'The Image' booklet — swayam-prakashit, reject. (7) EI Road Project par contractors ko fatkaar — bayaan hi, kaam nahi. (8) Ighanumi agri-link road, June 2024 — MLA ke vyaktigat daan se bani, vetan-daan rule se reject. // kazheto — (1) ADC Office Complex Akuluto, 27 Nov 2025 (Nagaland Post/Morung Express/Mokokchung Times) — Kudecho Khamo (Advisor CAWD & Taxes) ne inaugurated; Kazheto sirf Guest of Honour, maujoodgi reject. (2) GHSS Akuluto new building, 16 May 2025 (Eastern Mirror/DIPR) — Dr. Kekhrielhoulie Yhome (Advisor School Education) ne inaugurated; Kazheto sirf upasthit. (3) SDPO office Akuluto foundation stone, ~Jan 2024 (Nagaland Tribune) — Dy CM Y. Patton ne rakha; Kazheto upasthit. (4) Mapulumi council hall + medical sub-center, 5 Jan 2023 (DIPR) — karyakaal se bahar (14vi Sabha March 2023 se shuru; ye 13vi Sabha ke karyakal ka kaam). (5) PPE kits donation, Akuluto PHC (DIPR, COVID-era) — vetan-daan/welfare + karyakaal se bahar. (6) Akuluto PHC/landslide nirikshan (DIPR) — sirf nirikshan, reject. (7) GHSS Akuluto upgradation, 16 Sep 2021 (DIPR) — karyakaal se bahar. (8) Animal Husbandry & Veterinary Sciences advisor ke vibhagiya faisle — mantri/salahkar niyam ke tahat seat-kaam nahi; vaise bhi seat se juda koi dastavezi vyaktigat kaam established media me nahi mila.
+// REJECT-LOG workerB: picto — (1) Atoizu police station lokarpan (Nagaland Post, Sep 2022) — karyakaal se bahar (14vi Sabha Mar 2023 se), REJECT; (2) Zunheboto DPDB baithak Feb 2025 (DIPR/Nagaland Tribune) — DPDB chairman ki sansthaagat bhoomika + AHO office creation/road maintenance sirf "forwarded for further procedures" = maang/prastav, REJECT; (3) DPDB baithak Sep 2024 — school upgradation/SBI creation agendas sirf forward kiye gaye = maang/prastav, REJECT; (4) NITI Aayog visits Akuhaito/Atoizu (DIPR, May 2025) — sirf daura aur bayan, REJECT; (5) Independence Day Chiephobozou Aug 2023 (DIPR) — flag unfurling + exhibition stall = ceremonial + Chiephobozou kshetra se bahar, REJECT; (6) Town councils installation Jul 2024 (DIPR) — sirf maujoodgi, REJECT; (7) Sampoornata Samman Samaroh Jan 2026 (Nagaland Post) — special guest bayan, koi vikas-kaam nahi, REJECT; (8) Advisor Tripura daura Jun 2026 (Morung/DIPR) + Niuland-Peren solar/hydro review Jun 2026 — salahkar ke vibhagiya/rajya faisle + seat se bahar, REJECT; (9) Minister/Advisor verify: Picto 1 Jun 2026 se CM ke Advisor (New & Renewable Energy) bane — mantri nahi, lekin salahkar ke vibhagiya kaam seat-kaam nahi (isi liye (8) reject); (10) Profile imaandari se khaali rakhi gayi — Mar 2023+ ke Atoizu kshetra-kaam ki koi dastavezi post-event report nahi mili.
+// s-toiho-yeptho — (1) Dy Speaker chunav Feb 2024 (The Naga Republic/Morung) — sansthaagat pad ki niyukti, kaam nahi, REJECT; (2) Presiding Officers Conference Lucknow Jan 2026 (Nagaland Post) + NLA library committee meeting + CPC Barbados — speaker-ya sansthaagat bhoomika, REJECT; (3) Census coordination meetings Apr 2026 (Eastern Mirror) — "kai vikas-kaam" ka aam dawa, koi specific project naam nahi = vague, REJECT; (4) Nivishe village inauguration Apr 2023 (Nagaland Tribune) — gaon-parishad karyakram, MLA ki dastavezi vyaktigat vikas-bhoomika nahi, REJECT; (5) NCP→NDPP merger May 2025 + baad me NPF — rajniti, kaam nahi, REJECT; (6) 3 entries pass: Naltoqa multipurpose hall + CRIF road (Morung Express, 30 Dec 2025, dono lokarpan, sarkari fund disclosure sahit) aur Sürümi Jubilee Road (Nagaland Post, 18 Nov 2025 lokarpan; fund-srot na hone ka poora disclosure note me).
+// REJECT-LOG workerC: g-ikuto-zhimomi — (1) NPF 34 Aghunato AC party meeting, 30 Apr 2026 (Eastern Mirror) — party karyakram, sarkari kaam nahi. (2) Aghunato GBs ke saath paramarsh baithak, 27 May 2026 (Eastern Mirror) — sirf baithak/charcha, koi kaam nahi. (3) Swatantrata Diwas samaroh, Aghunato (DIPR) — mukhya atithi ke roop me maujoodgi; thane me CCTV ki "installation launch" keval aupcharik ishara, kisi suvidha ka lokarpan nahi. (4) Civil service coaching 2nd batch, 34 A/C Aghunato (Nagaland Post) — shiksha sponsorship/kalyan-karya, kaam nahi. (5) Watershed Yatra rajya-stariya launch, 5 Feb 2025 (DIPR) — mukhya atithi bhashan/maujoodgi. (6) Town councils installation programme, Zunheboto, 12 Jul 2024 (DIPR) — bhashan/maujoodgi. (7) 2016 ka NIA/UAPA case (ADR/myneta affidavit) — established media me FIR/case ki sthiti par koi reporting nahi mili; karyakaal se pehle ka mamla — negative nahi banaya. // k-tokugha-sukhalu — (1) NPF 35 Zunheboto AC office udghatan, 27 Apr 2026 (Morung Express) — party karyalaya. (2) HSLC achievers sammaan, 27 Apr 2026 (Morung Express) — sammaan/kalyan, kaam nahi. (3) Memorial Stone of Legislators unveiling, 27 Apr 2026 (Morung Express) — smarak/aupcharik. (4) 13th Inter-Departmental Tournament udghatan, 17 Sep 2026 (DIPR) — khel karyakram. (5) DPDB baithaken (Sep 2025, Sep 2026; Nagaland Post) — baithak; GHSS auditorium "wapas saunpane ka nirdesh" prashasanik nirdesh hai, bana hua kaam nahi. (6) "Sukhalu reviews development works", 19 Mar 2026 (Morung Express) — sirf nirikshan-daura; guest house "jaldi udghatan hoga" aur sadken "poori hongi" = karenge-khabar; Urban Development vibhag ke kaam, MLA ka vyaktigat lokarpan/shilanyas nahi. (7) Yezami road restoration (Morung Express, Sep 2026) — MLA ka Rs 1 lakh vyaktigat yogdaan rahat-daan hai (kaam nahi); sadak Aghunato-Suruhoto jodti hai, seat bhi aspasht. (8) Natha New circular road marammat (SRDP) — rajya yojana ka kaam, MLA ki dastavezi bhoomika nahi. (9) RKYY krishi, horticulture link road prastav, World Bank 5-year plan (Morung Express, Natha New) — yojana/prastav. (10) Asukhomi Village Gate udghatan, Dec 2022 (Nagaland Tribune) — karyakaal (Mar 2023) se bahar. (11) Zunheboto public ground rostrum udghatan, Jan 2021 (DIPR) — karyakaal se bahar. (12) SKK monolith unveiling, Satoi, Jan 2026 (Eastern Mirror) — aupcharik; seat se bahar bhi. (13) Zunheboto Golden Jubilee monolith — Mantri Kaito Aye ne unveil kiya, Sukhalu ne sirf bhashan diya. (14) Zunheboto Govt College academic building udghatan — Mantri Temjen Imna ne kiya (PM-USHA yojana), Sukhalu ka kaam nahi.
+// REJECT-LOG workerD: g-kaito-aye — (1) Gen K Zuheto Swu Memorial Hall lokarpan, Satakha, 20 Oct 2022 — karyakaal se bahar (14vi Sabha Mar 2023 se; ye 13vi Sabha ke karyakal ka kaam). (2) SRSU Golden Jubilee monolith unveil, Satakha, 13 Jan 2021 — karyakaal se bahar. (3) Mishilimi approach road lokarpan, 3 Mar 2021 — karyakaal se bahar. (4) 36 NDPP Satakha netaon ko vahan vitran, 7 Oct 2025 (Eastern Mirror) — party karyakram/vyaktigat uphaar, sarkari suvidha ya kaam nahi. (5) Satakha sub-division tree plantation drive, 16 June 2025 (Nagaland Tribune) — vyaktigat sponsor, beautification, sarkari suvidha nahi. (6) SUD-WSRPU sports meet, Dimapur — sirf vishesh atithi ke roop me maujoodgi, dusron ka karyakram. (7) Zunheboto District Golden Jubilee monolith unveil — Satakha seat ka kaam nahi, sirf smarak, suvidha nahi. (8) Sukhai bhavan khabar me mantri ke road-byaan (Satakha-Vishepu blacktopping 8 mahine me, Vishepu-Phek sadak priority) — mantri-paddhat vibhagiya "karenge" dawe, seat-kaam nahi. (9) Bhandari sadak par Vidhan Sabha jawab, 29 Aug 2024 (DIPR) — dusri seat + mantri vibhagiya jawab. (10) PMGSY-III Vidhan Sabha byaan aur Feb 2026 nirikshan — mantri-dept reporting + nirikshan, kaam nahi. (11) GHSS Satakha Lighthouse School Complex foundation stone, 4 June 2025 — CM Neiphiu Rio ne virtual kiya, MLA ki vyaktigat bhoomika nahi. (12) 'I Love Satakha' landmark, NH-702A — STYO ka community project, mantri ke PA ne lokarpit kiya, MLA swayam maujood nahi. (13) Satakha-Zhekiye landslide road reopen — NHIDCL contractor ka maintenance kaam, MLA ki bhoomika nahi. (14) CHC Satakha par Health Minister Paiwang Konyak ka daura, June 2025 — dusre mantri ka nirikshan, Kaito ki bhoomika nahi. (15) Phir se dhyan: PMGSY-III me mantri ne khud kaha state me abhi koi sadak poori nahi hui (Sep 2026) — bina poore/inaugurate kaam ke koi road entry nahi ban sakti.
+// Coordinator QA note (2026-10-15): 4 parallel workers (A: sukhato-a-sema/kazheto; B: picto/s-toiho-yeptho; C: g-ikuto-zhimomi/k-tokugha-sukhalu; D: g-kaito-aye), sab completed; fragment files kholkar padhe. QA sudhaar: (1) workerB (s-toiho-yeptho) ki 3 entries me `stage` field missing tha — sab vyaktigat lokarpan, `lokarpan` stage joda; (2) workerB ke sourceLabel me date embedded thi — house style ke anusaar 'Morung Express'/'Nagaland Post' normalize kiya; (3) workerB ki teesri entry me 'CIRF' typo tha — asal scheme ka naam CRIF (Central Road and Infrastructure Fund) hai, 3 entries me normalize kiya (Morung URL slug me bhi 'crif-road' hai); (4) workerD ke title me 'lokarpit' — house style 'lokarpan' kiya. Koi overwrite nahi (saaton slugs append se pehle absent). Kul titles: 104 se 118 (+14: 5 Sema + 0 Kazheto + 0 Picto + 3 Yeptho + 3 Ikuto + 2 Sukhalu + 1 Kaito). Push/deploy nahi kiya (parent karega).
