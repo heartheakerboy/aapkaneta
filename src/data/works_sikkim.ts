@@ -12,7 +12,7 @@ export const sikkimWorks: Record<string, any[]> = {};
 
 // ---- Mangan district batch (researched: abhi nahi hua) ----
 
-// ---- Gyalshing district batch (researched: abhi nahi hua) ----
+// ---- Gyalshing district batch (researched 2026-10-15 — entries neeche "Gyalshing district batch" marker me hain) ----
 
 // ---- Namchi district batch (researched: abhi nahi hua) ----
 
@@ -196,3 +196,33 @@ sikkimWorks['samdup-lepcha'] = [
 // - pintso-namgyal-lepcha (SKM, Djongu BL — mantri: Forest & Environment, Mines & Geology, Science & Technology, 11 Jun 2024 se): 3 entries (upar). 16 REJECTS — karyakram (butterfly journal/report, Tingvong school jubilee, Aadhar centre, river rafting, Clean Dzongu campaigns, Administration at Doorstep); baithak (UNESCO Ru-Soam); CM ke kaam (Healing Garden shilanyas, Model School ghoshna); karenge-khabar (Kayum bridge restart Mar 2027); mantri-roop maujoodgi; kamzor attribution (cardamom ropan); apda-sandarbh bayan; raajnaitik khabrein. NEGATIVE: koi nahi (0 cases).
 // - samdup-lepcha (SKM, Lachen-Mangan BL — mantri: Social Welfare, WCD, Printing & Stationery, 11 Jun 2024 se): 1 entry (upar — Taramchu Lachen sadak lokarpan). 15 REJECTS — Taram Chu Steel Bridge lokarpan kendriya mantri Sanjay Seth ne kiya (sirf maujoodgi); relief review/evacuation (rahat kaam); bamboo plantation chief guest; Pang Lhabsol (dharmik); red panda adoption (vyaktigat daan); Healing Garden shilanyas (CM ka); Rijiju visit (maujoodgi); pre-karyakaal (Oct 2023 GLOF quotes). Galat vyakti: "Samdup Lepcha INC Tumen-Lingi" (Hindu page) + ED case Dorjee Tshering Lepcha — alag vyakti. NEGATIVE: koi nahi (0 cases).
 // QA note: Pintso/Samdup ke entry-blocks worker fragments se verbatim liye gaye; dono mantri-records ka mantri-role foundation (sikkim.ts) me bhi darj kar diya gaya (The Hindu/PTI/Akashvani se verified). Kul batch: 4 entries, 49 reject, 1 profile imaandari se khaali.
+
+// ---- Gyalshing district batch (researched 2026-10-15) ----
+
+sikkimWorks['tshering-thendup-bhutia'] = [];
+
+sikkimWorks['bhim-hang-limboo'] = [
+  {
+    title: 'Pelling Chumpong Secondary School me naye futsal arena ka lokarpan — MLA Bhim Hang Limboo ne kiya udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/sikkim/story/sikkims-gyalshing-school-gets-futsal-arena-empowering-youth-sports-1222450-2025-06-01',
+    date: '2025-06-01',
+    stage: 'lokarpan',
+    note: '1 June 2025 ko Pelling Chumpong Secondary School (Gyalshing jila, 02-Yangthang seat ke andar — polling-station suchi me Govt Jr. High School Pelling Chumbong isi seat ka booth hai) me naye futsal arena ka udghatan Mantri-cum-Area MLA Bhim Hang Limboo ne kiya; unke saath MP Lok Sabha Indra Hang Subba aur Rinchenpong ke MLA Erung Tenzing Lepcha maujood the aur article me udghatan ka netritva (lead) unka bataya gaya hai. Credit-pardarshita: arena 17vi Lok Sabha ke MPLADS fund se bani thi aur MP ne ise school ke sabhi chhatron aur kshetra ke yuvaon ko samarpit kaha — matlab nirmaan ka shrey MP fund aur karyanvayan tantra ko jata hai, MLA ki vyaktigat bhoomika kshetra-pratinidhi ke roop me vyaktigat lokarpan tak seemit rahi. Sikkim me MLALAD jaisa vidhayak-nidhi fund hai hi nahi, isliye isme koi vidhayak-nidhi yogdan nahi tha. School ke headmaster-in-charge N.T. Bhutia ne ise school ki ab tak ki sabse achhi sports infrastructure bataya; udghatan ke avsar par teeno netaon ne chhatron ke protsahan ke liye ek pradarshan futsal match bhi khela.',
+    period: '2024-2029',
+  },
+];
+
+sikkimWorks['sudesh-kumar-subba'] = [];
+
+sikkimWorks['lok-nath-sharma'] = [];
+
+// ---- REJECT-LOG: Gyalshing district batch (researched 2026-10-15) ----
+// - tshering-thendup-bhutia (SKM, Yoksam-Tashiding BL — mantri: Tourism & Civil Aviation, Commerce & Industries, 11 Jun 2024 se): KHAALI (0). ~28 REJECTS — poori coverage mantri-roop ki (Telegraph/EastMojo/India Today NE/HT — fair, portal, policy, yatra — rajya-star, seat-kaam nahi); seat-gatividhi sirf non-whitelist sroton me (sikkim.gov.in IPR — Lamathang daura, SGAY makaan lokarpan, Lethang-Tofrok road, Governor-Yuksam visit; swatantraaawaj.in — Mangder/Rimbi; thepurbottar.in; northeasttoday.in) — whitelist-bahar, jaanboojhkar reject. Galat vyakti: Horticulture ke SCS officer "Tshering Thendup Bhutia" (sarkari adhikari) aur Thenlay Tshering Bhutia (Kabi-Lungchok) — seat se cross-check karke alag rakha. NEGATIVE: koi nahi (halafnama: 0 cases).
+// - bhim-hang-limboo (SKM, Yangthang — mantri: Buildings & Housing, Labour, 11 Jun 2024 se): 1 entry (upar — futsal arena lokarpan; arena MP ke MPLADS fund se bani thi, shrey note me poora disclosed). 20 REJECTS — relief kaam (Upper Rimbi landslide rescue, NDTV whitelist — rahat kaam vikas-kaam nahi); sirf maujoodgi + seat-bahar (CM/CJ ke Court Complex shilanyas, Law University, Jorethang SDAC, Pema Choling Monastery, Sainik Board Office); event/karyakram (village tourism festival, foundation day, ITI samaroh, football tournament, winter festival); dharmik samaroh (Pang-Lhabsol Yuksam chief guest); sirf nirikshan (Kyongsha turf); whitelist-bahar (Nambu-Sindrabung Panchayat Kendra lokarpan — sikkimsamachar.com); pre-karyakaal (Thungwamukma Library 2021, Capital University shilanyas 2023). Galat vyakti: SDF spokesperson Arun Limboo ki giraftari. NEGATIVE: koi nahi (halafnama: 0 cases).
+// - sudesh-kumar-subba (SKM, Maneybong-Dentam): KHAALI (0). 14 REJECTS — whitelist-bahar srot (Community Sanitary Complex Dentam, Sub-TIC Dentam, tourism portal, thenortheastpost/ET TravelWorld/northeasttoday); relief (Sardong landslide shok-mulaqat); sirf baithak (alumni/SMC meeting); sirf maujoodgi (Bailey Bridge Dentam Khola mantri ne kiya, Dentam school centenary CM mukhya atithi, SDM office Dentam CM ne kiya, Kolkata TTF fair); CM ki ghoshnaein (Dentam-Uttarey blacktopping, Uttarey Lake, Singshore skywalk — non-whitelist); pre-karyakaal (Uttarey-Chiwabhanjyang road 2018); PM Modi Apr 2026 projects (PM ka karyakram). Galat vyakti: TLM exhibition ke "Mr. Subba" Lok Sabha MP Indra Hang Subba hain. NEGATIVE: koi nahi (halafnama: 0 cases).
+// - lok-nath-sharma (SKM, Gyalshing-Barnyak — MLA-cum-Advisor PHE & Water Resources, poorv mantri 2019–Jun 2024): KHAALI (0). 11 REJECTS — whitelist-bahar srot (3D Dental Spoke lokarpan northeasttoday.in; Lower Bermiok school repair kitchen bizlaza.com aggregator); sirf maujoodgi (karate championship chief guest, Dil Kumari Bhandari samaroh); relief (gorge accident rescue, India Today NE/PTI); sirf nirikshan (school surprise inspection, aggregator); ceremonial + non-whitelist (Omchung Thanksgiving, Ek Ped Maa Ke Naam — sikkim.gov.in IPR); vidhansabha-stariy (ST-report samarthan EastMojo); CM/PM ke karyakram (Dentam SDM office, Rs 4,000cr projects). Galat vyakti: "Lok Nath Sharma v. State of Sikkim" 2013 case alag vyakti ka hai. NEGATIVE: koi nahi (halafnama: 0 cases).
+// RETRY LEAD (bina verify hue srot — entry NAHI bani): Singshore Bridge, Uttarey par Sikkim ki pehli bungee jumping facility ka flag-off (22 Mar 2025, Rural Tourism Meet 2025 ki shuruaat) — MLA Sudesh Kumar Subba ki vyaktigat bhoomika ke dawe ke saath Sikkim Express ka article (search excerpt me date/dateline/flag-off role saaf) — lekin Sikkim Express ka page live-browser/both fetches me timeout par khul hi nahi paya; srot bina khole entry nahi ban sakti, isliye DROP. Live-browser se verify karke kabhi bhi joda ja sakta hai. (URL: https://www.sikkimexpress.com/news-details/sikkim-unveils-first-ever-bungee-jumping-facility-at-singshore-bridge)
+// QA note: Limboo ki entry worker fragment se verbatim li gayi; usi fragment se mantri-portfolio (Buildings & Housing, Labour) ka disclosure foundation (sikkim.ts) me jod diya gaya; lok-nath-sharma record me MLA-cum-Advisor (PHE & Water Resources) ka disclosure bhi jod diya gaya (unke X profile ke anusar). Kul batch: 1 entry, 73+ reject, 3 profiles imaandari se khaali.

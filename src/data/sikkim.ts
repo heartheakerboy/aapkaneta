@@ -70,7 +70,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Sikkim2024/candidate.php?candidate_id=142',
       backgroundNote: 'Sikkim sarkar me mantri (11 Jun 2024 se) — Buildings & Housing, Labour.',
     },
-    electionNote: '2024 me SKM ke ticket par Yangthang se jeete (6,621 votes; SDF ke Kesham Limboo ko 2,556 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Yangthang se jeete (6,621 votes; SDF ke Kesham Limboo ko 2,556 votes se haraya). 11 Jun 2024 se cabinet mantri — Buildings & Housing aur Labour (The Hindu, portfolio allocation report).',
   },
   {
     slug: 'sudesh-kumar-subba',
@@ -128,7 +128,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'http://mail.myneta.info/Sikkim2024/candidate.php?candidate_id=45',
       backgroundNote: '',
     },
-    electionNote: '2024 me SKM ke ticket par Gyalshing-Barnyak se jeete (5,612 votes; IND ke Khusandra Prasad Sharma ko 963 votes se haraya).',
+    electionNote: '2024 me SKM ke ticket par Gyalshing-Barnyak se jeete (5,612 votes; IND ke Khusandra Prasad Sharma ko 963 votes se haraya). Pahle mantri (2019–10 Jun 2024); ab MLA-cum-Advisor, PHE and Water Resources (unke X profile @LNSharmaSikkim ke anusar).',
   },
   {
     slug: 'erung-tenzing-lepcha',
