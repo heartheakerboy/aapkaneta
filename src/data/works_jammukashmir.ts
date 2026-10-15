@@ -1431,3 +1431,86 @@ jammuKashmirWorks['sajad-shaheen'] = [
 
 // Ramban REJECT-LOG (consolidated 2026-10-15): Arjun Singh Raju — 20 rejects (CDF relief ghoshna rahat-kaam, Lot-I tender sirf bayan, Zero Hour maangein bina outcome, DyCM-ke-shilanyas me maujoodgi, non-whitelist sources: Crosstown/KNO/JK Monitor/Jammu Links/Kashmir Digest/thenewsnow, private studio udghatan, Ganote Road FB dawa, YouTube-only video); Shaheen — 17 rejects (ambulance ghoshna, rahat bhaagon ka nishedh, 'karenge' dialysis, Tatapani/micro-hydel/Rs31cr/16 PMGSY sirf bayanbazi, Assembly maangein bina outcome, PSA debate sirf charcha, BPL tournament maujoodgi, barish daura rahat, Shagan school non-whitelist, RKS meeting no outcome, Khari station 'in progress', NH-44/USBRL no MLA-shrey). NEGATIVE: dono par koi nahi (Raju: affidavit 0 cases; Shaheen: 0 cases, 2017 CDF-probe pre-term).
 // Coordinator QA note (2026-10-15): dono worker fragments kholkar padhe. Raju ke 3 entries rakhe — WSS Batote accountability/pahal (mantri ka documented jawab, credit capped), Sanasar Tulip Garden mausami udghatan aur Sunaseri PWD tourism infra lokarpan — dono me poori credit-transparency (department ka kaam, CDF nahi). Shaheen ke 23 entries rakhe — #3 CDF sanction-ghoshna badge dawa par (GO article me nahi), date-inference wali entries (#7 Dec 26 2025, #8 Jan 8 2026, #23 Nov 30 2025) notes me disclosed reasoning ke saath, PMGSY/NABARD/UT Capex fund-shrey har relevant note me disclosed. Hygiene: 0 Devanagari, 0 rupee-symbol, entry strings me 0 escaped-newline; har entry me 8 fields; sabhi dates calendar-valid aur Oct 2024-Oct 2026 window me; marker exactly 1x; dono slugs append se pehle absent the — koi overwrite nahi.
+
+// ---- Reasi district batch (researched 2026-10-15) ----
+jammuKashmirWorks['gulabgarh'] = [];
+
+jammuKashmirWorks['kuldeep-raj-dubey'] = [];
+
+jammuKashmirWorks['shri-mata-vaishno-devi'] = [
+  {
+    title: 'Buttan se Kundd tak sadak ka kaam shuru (Katra)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/baldev-sharma-kick-starts-development-works-in-katra/',
+    date: '2026-02-26',
+    note: 'MLA ne khud teeno sadak-kaam shuru karwaye — Buttan-Kundd 2.6 km sadak ka blacktopping/nirman (Rs 5.77 crore), Aghar Jitto-Temple road par retaining wall (Rs 9.77 lakh) aur Aghar Jitto-Kyoon road par protection wall (Rs 12 lakh); PWD ke adhikari maujood the. Fund srot ka ullekh article me nahi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Sujandhar-Ratnote sadak ka lokarpan (NABARD)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-katra-ddc-chairman-reasi-inaugurate-road/',
+    date: '2025-12-31',
+    note: 'MLA Baldev Raj Sharma aur DDC Chairman Saraf Singh Nag ne 13.10 km lambi Sujandhar-Ratnote sadak (Gabbar Sarote hote hue) ka formal lokarpan kiya. Sadak NABARD loan assistance (RIDF-XXIX) ke tehat swikrit hai, lagat Rs 2758.80 lakh — ye MLA ka CDF fund nahi hai. 10,000 se zyada logon ko fayda, Reasi-Udhampur circular link.',
+    period: '2024-2029',
+  },
+  {
+    title: 'PM SHRI GHS Sersundwan me Rs 8 lakh ke kaam ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/jugal-baldev-inaugurate-development-works-at-ghs-sersundwan/',
+    date: '2026-09-16',
+    note: 'MP Jugal Kishore Sharma aur MLA Baldev Raj Sharma ne milkar school me Rs 8 lakh ke buniyadi-dhanche ke kaam ka lokarpan kiya; MLA ne school ko official roop se god liya (adopted) hai. Fund srot ka ullekh article me nahi hai — MP ki bhagidari ke saath sanyukt karyakram tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'DMFT se school kaam swikrit — Suketar, Dera Baba Banda',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/rs-32-72-lakh-approved-for-mata-vaishno-devi-constituency-mla/',
+    date: '2026-08-26',
+    note: 'DMFT Governing Council (Reasi, DC ki adhyakshata) ne MLA ki sifarish par FY 2026-27 ke liye kul Rs 32.72 lakh ke kaam approve kiye — Primary School Suketar me atirikt classroom aur Middle School Dera Baba Banda me boundary wall. Fund srot District Mineral Foundation Trust.',
+    period: '2024-2029',
+  },
+  {
+    title: 'DMFT se Sub Centre Kanjli aur Dera Baba Banda ki marammat swikrit',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/rs-32-72-lakh-approved-for-mata-vaishno-devi-constituency-mla/',
+    date: '2026-08-26',
+    note: 'Usi DMFT meeting me MLA ki sifarish par Sub Centre Kanjli aur Sub Centre Dera Baba Banda ki repair/upgradation bhi swikrit hui. Fund srot District Mineral Foundation Trust.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Sula Park toilet complex ki marammat swikrit (DMFT)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/rs-32-72-lakh-approved-for-mata-vaishno-devi-constituency-mla/',
+    date: '2026-08-26',
+    note: 'Usi DMFT swikriti package me Sula Park ke toilet complex ki repair/upgradation bhi shaamil hai. Fund srot District Mineral Foundation Trust.',
+    period: '2024-2029',
+  },
+  {
+    title: 'CHC Katra ke liye Rs 26.39 lakh ke kaam ki swikriti',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-announces-critical-care-ambulance-for-chc-katra/',
+    date: '2026-01-12',
+    note: 'MLA ne CHC Katra ke Rogi Kalyan Samiti ke chairman ke roop me meeting me Rs 26.39 lakh ke vibhinn vikas kaamon ki swikriti di. Kaamon ki suchi aur fund srot ka ullekh article me nahi hai.',
+    period: '2024-2029',
+  },
+];
+
+// Reasi REJECT-LOG — Khurshied Ahmed (gulabgarh): 14 REJECT (0 entries) — GDC Sarh Bagga shilanyas (jkexpresstv non-whitelist), Dak Bungalow Mahore review meeting (jkmonitor + sirf nirikshan), Sub Division Dharmari introductory meeting (sirf baithak), Balmatkote public meeting (sirf aashwasan), 7-day tour/Sarsote survey launch (thekashmirhorizon non-whitelist), Mantri Javid Dar ke event me maujoodgi (inauguration mantri ne kiya), CM Omar flood visit Mahore (relief + CM-led), Gool Mela inauguration (MLA Banihal ne kiya, ceremonial), privilege notice against Jal Shakti Minister (rajnaitik vivad, negative rule fail), Assembly Zero Hour (sirf maang), NC Gen Secy meeting (party + relief), Dy CM tribal statement (sarkari jawab, MLA ka kaam nahi), Reasi admin consultative meeting (sirf prastav-maang), Motion of Thanks debate (non-whitelist anyway). NEGATIVE: koi nahi.
+// Reasi REJECT-LOG — Kuldeep Raj Dubey (kuldeep-raj-dubey): 20 REJECT (0 entries) — Jij-Narkote road shilanyas (newspostreasi non-whitelist), DH Reasi NICU kaam (thereasitimes non-whitelist), Bhimgarh Fort review meeting (sirf baithak), CM ka Rs 16.33cr STP shilanyas (CM ka faisla, sirf maujoodgi), public darbar (sirf aashwasan), Railway Minister ko maang-patra (sirf gyapan), Kousar Nag Yatra flag-off (ceremonial), NEP Utsav udghatan (ceremonial chief-guest), LG dwara Shiv Khori shrine lokarpan (Shrine Board ka kaam), Make in India bhashan (sirf bhashan), school annual day chief-guest (ceremonial), MP Parikrama Yatra (MP ka karyakram), LG/CM se mulaqat (sirf maang), monkey menace Assembly sawal (sirf sawal), defamation complaint (HC ne MLA ke paksh me quash kiya — negative nahi), Committee on Subordinate Legislation sadasya (pad, kaam nahi), NHPC CMD mulaqat (sirf maang), Maha Shivaratri Mela udghatan (ceremonial), DDC Capex meeting upasthiti (sirf baithak), 'MLA Hiranagar Kuldeep Raj' (alag vyakti). NEGATIVE: koi nahi.
+// Reasi REJECT-LOG — Baldev Raj Sharma (shri-mata-vaishno-devi): 11 REJECT (7 entries rakhi) — Early Times ke saare items (non-whitelist), Rs 5cr Municipal Committee ghoshna (sirf ghoshna, sanction nahi), critical care ambulance ailaan (sirf daan-ghoshna), DMFT Rs 80 lakh atirikt prastav (sirf prastav, swikriti nahi), PMGSY Kanjli shilanyas (MP ne kiya, sirf maujoodgi), Railway Minister memorandum (sirf gyapan), Aug 2024 campaign (pre-tenure), Vaishno Devi ropeway vivad (rajnaitik bayaan, negative nahi), 2013 expo (pre-tenure), JK Monitor/Kashmir Horizon items (non-whitelist), YouTube heated-exchange (non-whitelist). NEGATIVE: koi nahi (0 criminal cases).
+// Coordinator QA note (2026-10-15): teeno worker fragments kholkar padhe. Khurshied Ahmed aur Kuldeep Raj Dubey imaandari se khaali — unke asal kaam sirf non-whitelist portals par hain. Baldev Raj Sharma ki 7 entries rakhi — Buttan-Kundd vyaktigat kaam-shuru, Sujandhar-Ratnote NABARD lokarpan (poora fund-disclosure), Sersundwan joint lokarpan (MP ke saath, MLA ne school god liya — sanyukt-udghatan precedent), DMFT Rs 32.72 lakh itemized swikriti (DC-led Governing Council, MLA ki sifarish documented — swikriti-standard fit), CHC Katra RKS swikriti (Kullay RKS precedent). QA-drop: Rs 5cr municipal ghoshna (sanction nahi), ambulance ailaan (daan-ghoshna), DMFT Rs 80 lakh prastav (swikriti nahi mili). Hygiene: 0 Devanagari, 0 rupee-symbol, entry strings me 0 escaped-newline; har entry me 8 fields; sabhi dates calendar-valid aur Oct 2024-Oct 2026 window me; marker exactly 1x; teeno slugs append se pehle absent the — koi overwrite nahi.
