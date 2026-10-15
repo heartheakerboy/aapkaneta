@@ -101,7 +101,7 @@ jammuKashmirWorks['mir-mohammad-fayaz'] = [
 // District batch 7: Pulwama — pending
 // District batch 8: Shopian — pending
 // District batch 9: Kulgam — pending
-// District batch 10: Anantnag — pending
+// District batch 10: Anantnag — done
 // District batch 11: Kishtwar — pending
 // District batch 12: Doda — pending
 // District batch 13: Ramban — pending
@@ -876,3 +876,49 @@ jammuKashmirWorks['dh-pora'] = [
 jammuKashmirWorks['mohamad-yousuf-tarigami'] = [];
 
 jammuKashmirWorks['peerzada-feroze-ahamad'] = [];
+
+// ---- Anantnag district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - gulam-ahmad-mir (INC, Dooru): 0 entries. REJECT — ADV road Rs 249cr upgrade (Mir+2 MLA joint representation, Greater Kashmir; govt "under consideration", koi GO nahi — sirf prastav); Trangtrajan-Manzmoh sadak shilanyas (topnewsjk.in, whitelist-bahar); Tulip Garden SKUAST-K Sagam udghatan (mantri Javid Dar ne kiya, Mir sirf saath); Dooru playfield/Rapid Sand Filtration Plant/Dy CM review meeting (mantri-event maujoodgi); Hazratbal/snowfall bayaan (rajnaitik maang); purane Daily Excelsior archive (pre-tenure). NEGATIVE: koi nahi (established FIR/court sthiti nahi).
+// - kokernag (Zafar Ali Khatana, JKNC, Kokernag ST): 0 entries. REJECT — Trout Feed Plant lokarpan (mantri ne kiya, Khatana sirf saath); CM ki 15 WSS lokarpan me maujoodgi; mantri Itoo ka Kokernag daura; Zero Hour maangein (22 pending schemes); Singhpora-Vailoo tunnel sawal (project annul, koi kaam nahi); MP Gulam Ali Khatana ki khabrein (galat vyakti). NEGATIVE: koi nahi (affidavit ke 2 purane cases par established reporting nahi).
+// - anantnag-west (Abdul Majeed Bhat/Larmi, JKNC, Anantnag West): 0 entries. REJECT — Damjan-Sandran bridge shilanyas (whitelist coverage nahi, sirf thekashmirhorizon/kashmirdigest); Shampora/Lalan road items (sirf chhote portals); Doctors Bill proposal (vidhayi, UT-wide); Kadipora fire relief (rahat, sirf site visit); GMC Anantnag/GDC Mattan udghatan (mantri ne kiya, MLA sirf upasthit; Mattan seat-bahar); Wanpoh Labour Sarai shilanyas (Dy CM ne kiya); plantation drive/book launch (ceremonial). NEGATIVE: koi nahi (namesake traps: Kupwara NDPS "Abdul Majid Bhat", Baramulla patwari case — alag vyakti; 2024 affidavit 0 cases).
+// - anantnag (Peerzada Mohammad Syed, INC, Anantnag): 0 entries. REJECT — Chitaar boundary wall (Daily Excelsior; sirf PWD ko estimate nirdesh, sanction nahi — CDF ghoshna-type); ADV road proposal (sirf maang); Rani Bagh/SRTC yard/Mini Secretariat Assembly sawal (Kashmir Reader, non-whitelist); CM review meeting maujoodgi; 15 WSS lokarpan maujoodgi; Vande Bharat dhanyavaad (KNS, credit Railway Minister); snow-clearance nirdesh; Achabal-Chittergul nirikshan; Mattan Chowk fire visit (rahat + seat-bahar); 2008 FIR (pre-tenure, MLA khud aaropi nahi); 2010/2015 purane items (pre-term/galat vyakti). NEGATIVE: koi nahi.
+// - srigufwara-bijbehara (Bashir Ahmad Shah Veeri, JKNC, Srigufwara–Bijbehara): 0 entries. REJECT — Nilandrus Stadium 2 sports shilanyas (whitelist coverage nahi, sirf KNS/Srinagar Mail); CDF Rs 90 lakh PDD ghoshna (non-whitelist, bina sanction); Dachigam/Poshkreeri WSS sirf nirikshan; purane 2017/2019 "Veeri" items (Abdul Rehman Veeri, galat vyakti + pre-term); hospital/reservation maangein (sirf prastav). NOTE: "MLA assaults AE" (Daily Excelsior, 29 Aug 2026) negative niyam poora nahi karta — FIR/court sthiti ya neta ka jawab khabar me nahi, isliye reject. Retry lead: Nilandrus shilanyas whitelist me coverage mile to entry banegi. NEGATIVE: koi nahi.
+// - shangus-anantnag-east (Reyaz Ahmad Khan, JKNC, Shangus–Anantnag East): 0 entries. REJECT — SDH Shangus/PHC Rainipora health facilities udghatan (sirf YouTube description); GHSS Shangus smart classroom (schoolandcollegelistings.com, whitelist-bahar); Rs 5 lakh ghoshna (non-whitelist); CM/Dy CM/mantri events maujoodgi (Tehsil office, 15 WSS, Rs 9cr shilanyas, Itoo daura); Zero Hour maangein; rajnaitik bayaan; Shangus fire protest video (video-only, koi FIR/court nahi); Dairy dev (sarkari yojana); LAHDC Kargil "Reyaz" (galat vyakti). NEGATIVE: koi nahi.
+// - altaf-ahmad-wani (Altaf Ahmad Wani/Kaloo, JKNC, Pahalgam): 2 entries rakhi. QA-DROP 1 (worker ki ambulance entry: PTI wire sirf newsdrum.in + News18 YouTube par — whitelist outlet par coverage nahi, srot-niyam se drop). REJECT — 50-bedded hospital (GO 2020 pre-term); Zero Hour maangein; CM ke 15 WSS me maujoodgi; Kathsoo trout shilanyas (mantri ne kiya); Movera road (sirf YouTube snippet); wildlife ex-gratia (rahat); paryatan tippani (hamle ke baad, na kaam na negative); 2015-era/Zee News items (pre-term); Mian Altaf Ahmad MP ki khabrein (galat vyakti); cable-car "in pipeline" (vaada). NEGATIVE: 1 (PSO maarpeet FIR — upar).
+// Coordinator QA note (2026-10-15): saare 7 fragments kholkar padhe; worker ki ambulance entry (newsdrum.in/PTI wire, whitelist-bahar) drop — sakht srot-niyam; Tribune URL ka truncated slug poora kiya (full canonical URL lagaya). Baaki 6 profiles imaandari se khaali — whitelist MLA-star coverage is jile me sabse patli rahi (Pulwama jaisi). Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal-\n; har entry me 8 fields; sabhi dates Oct 2024–Oct 2026 window me; saato slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['gulam-ahmad-mir'] = [];
+
+jammuKashmirWorks['kokernag'] = [];
+
+jammuKashmirWorks['anantnag-west'] = [];
+
+jammuKashmirWorks['anantnag'] = [];
+
+jammuKashmirWorks['srigufwara-bijbehara'] = [];
+
+jammuKashmirWorks['shangus-anantnag-east'] = [];
+
+jammuKashmirWorks['altaf-ahmad-wani'] = [
+  {
+    title: 'MLA Altaf Kaloo ne Pahalgam me Baisaran meadow tak 4 km se zyada lambi motorable road ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/baisaran-meadows-to-get-motorable-road-12266232',
+    date: '2026-08-16',
+    note: 'Shilanyas MLA ne vyaktigat roop se kiya; project lagat Rs 6.09 crore, funding NABARD se, execution PWD Roads and Buildings Division Pahalgam dwara, kaam 2-3 saal me poora hone ka anumaan. Credit-transparency: MLA ne khud kaha ki CM Omar Abdullah ne project facilitate kiya aur unhone ise sarvochch prathmikta di — shrey sarkar ki suvidha aur MLA ke shilanyas tak seemit hai. Date-caveat: Greater Kashmir ki dateline "Srinagar, Aug 16" hai; India TV ne 17 Aug 2026 ko isi shilanyas ki pushti ki, isliye varsh 2026 maana gaya. Hamle ke baad ki suraksha-framing sandarbh matra hai; sadak swayam dastavezi seat-kaam hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'PSO ki shikayat par Pahalgam MLA Altaf Kaloo ke khilaf Sadar Anantnag thane me maarpeet ka case darj hua, MLA ne aaropon ko be-buniyad bataya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/j-k/national-conference-mla-kaloo-party-spokesperson-booked-for-assaulting-pso-after-altercation/',
+    date: '2026-10-02',
+    note: 'Negative (stage ka sach): J&K Police ne Sadar Anantnag police station me BNS ki dhaara 121 aur 351 ke tahat FIR darj ki — shikayatkarta MLA ke PSO hain, jinka dawa hai ki maarpeet hui; jaanch jaari hai, adalat ka koi nishkarsh nahi. Neta ka jawab darj: Kaloo ne aaropon ko "completely baseless" bataya, kaha PSO teen din duty se gayab tha, usne unki gardan pakdi thi, aur unhone counter-FIR karne ki baat kahi. FIR number outlets me alag-alag (332/334) darj hai, isliye number note me nahi diya gaya.',
+    period: '2024-2029',
+  },
+];
