@@ -763,3 +763,29 @@ jammuKashmirWorks['abdul-rahim-rather'] = [
 
 jammuKashmirWorks['ali-mohammad-dar'] = [];
 
+// ---- Pulwama district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - hasnain-masoodi (JKNC, Pampore): 0 entries. 15+ REJECT — Ramshoo Nallah bridge udghatan (Sep 2026) + Rs 9.07 cr JJM WSS lokarpan + beautification/shopping complex shilanyas (Oct 2025): kashmirconvener.com par, non-whitelist; Automated Testing Station shilanyas: CM ne kiya, MLA sirf maujood; DIET Pulwama: mantri Sakeena Itoo ka event, MLA sirf saath; cabinet sewerage swikriti (Kathua+Pampore): cabinet faisla, MLA ka koi documented concrete kadam nahi; SDH Pampore daura (MP ke saath): keval nirikshan; mantri se mulaqat (Javid Dar): sirf maang; CM meeting: sirf maang; private members resolutions: vidhayi karyavahi. NEGATIVE: koi nahi (affidavit 0 cases).
+// - rafiq-ahmad-naik (PDP, Tral): 0 entries. 14 REJECT — manifesto/election rally (pre-Oct-2024), Kashmir Life assembly discussions (CM tareef/bill support/security-cover bayan: sirf bayan), Zero Hour maang (cold storage), AIIMS Awantipora row (party-bhoomika), Daily Excelsior KP return speech (aashwasan/vaade), flood-relief debate (sawal + relief), Tral Chowk flag-hoisting (keval maujoodgi), Lariyar Bridge CDF offer (KNO non-whitelist + bina-sanction ghoshna), transformer fund (KNS non-whitelist), sectoral-officers meeting (JK Monitor non-whitelist + nirikshan), purane-MLA-era neglect story (pre-tenure). NEGATIVE: koi nahi (The Hindu candidate-bio: declared cases 0).
+// - waheed-ur-rehman-para (PDP, Pulwama): 1 entry. 8 REJECT — Maa-Beti bill admit (vidhayi), District Hospital daura (nirikshan), LA hospital sawal (bina outcome), AIIMS fast-tracking demand (maang), constituency tour (daura), Barsoo stadium shilanyas (jknewspoint non-whitelist + seat Awantipora seat-bahar), CM Rs 86 cr Pulwama projects (CM ka shrey). NEGATIVE: koi nahi — NIA purana mamla: is karyakaal me koi nayi FIR/court sthiti established reporting me nahi (bina nayi sthiti ke reject).
+// - ghulam-mohi-uddin-mir (JKNC, Rajpora): 0 entries. 16 REJECT — Greater Kashmir video-only page (text nahi, padhkar verify asambhav), review meeting Shadimarg/Achgoze/Litter (nirikshan), mantri se mulaqat (kashmirreader non-whitelist + sirf maang), Zero Hour sawal (bina outcome), GHSS Rahmoo classrooms (newspop.in non-whitelist), health-camp (non-whitelist + relief-type), Sakeena Itoo Pampore event (mantri ka shrey), Javed Rana tribal convention (non-whitelist + mantri ghoshna), CM Pulwama review meeting (keval maujoodgi), floating trout-feed plant (Kokernag, mantri + seat-bahar), pre-term election coverage, galat "Mir" (Ghulam Hassan Mir/Ahmad Mir/Aijaz Mir). NEGATIVE: koi nahi.
+// Coordinator QA note (2026-10-15): waheed-ur-rehman-para ki WSS entry — accountability/pahal entry hai (MLA ki bhoomika sirf advocacy/follow-ups, swikriti sarkar ki GO se; credit note me capped); batch me 0 Devanagari, 0 rupee-symbol, 0 literal-\n; entry me 8 fields; date tenure-window me; sabhi 4 slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['hasnain-masoodi'] = [];
+
+jammuKashmirWorks['rafiq-ahmad-naik'] = [];
+
+jammuKashmirWorks['waheed-ur-rehman-para'] = [
+  {
+    title: 'Pulwama town ke liye Rs 18.96 crore ki Water Supply Scheme ko Housing and Urban Development Department ne administrative approval di',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/mla-pulwama-waheed-para-thanks-housing-ministry-for-approving-rs-1896-crore-water-supply-scheme-for-pulwama-town-12211988',
+    date: '2026-07-30',
+    note: 'Greater Kashmir ke mutabiq Pulwama town ke liye Rs 18.96 crore ki Water Supply Scheme ko GO No. 61-JK (HUD) of 2026 ke tahat Urban Development Sector ke DULBK Capex Budget me administrative approval mili, jise MLA Waheed Ur Rehman Para ne CM aur Commissioner Secretary H&UDD ka shukriya ada karte hue apne do saal ke lagatar follow-ups ka natija bataya. Credit-transparency: swikriti sarkar ne jaari ki, MLA ki bhoomika advocacy aur demand ki rahi, isliye ye accountability-action hai na ki unka khud ka kaam; stage swikriti hai kyunki GO number established media me darj hai.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['ghulam-mohi-uddin-mir'] = [];
