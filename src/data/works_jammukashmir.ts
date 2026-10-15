@@ -318,3 +318,75 @@ jammuKashmirWorks['nizam-uddin-bhat'] = [
 ];
 
 jammuKashmirWorks['gurez'] = [];
+
+// ---- Ganderbal district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - kangan (JKNC, Kangan ST — Mian Mehar Ali): 5 entries rakhi (Sumbal Bala R&B sadak shilanyas, GHS Hayan 6-room bhavan shilanyas Rs 53 lakh, Road Sector Capex 2026-27 Rs 6 crore order-based swikriti, sehat-bijli-connectivity package ghoshna [dawa], Arigoripora Rs 5 crore indoor stadium ghoshna [dawa]). 18 REJECT — non-whitelist (KNO, Valley Online, thekashmirhorizon); CM ke karyakram me maujoodgi; PMGSY kendriya swikriti (sirf ghoshna); pre-term items; galat vyakti (Mian Altaf ka Dar-ul-Uloom shilanyas, pita ka kaam); Assembly sawal/maang matr; "karenge" vaade; pre-event ghoshna (MCCH lokarpan kabhi hua nahi); shikayat-khabrein. NEGATIVE: koi nahi (whitelist me koi FIR/case reporting nahi; affidavit-only list whitelist me nahi).
+// - omar-abdullah (JKNC, Ganderbal — CM Omar Abdullah): 1 entry rakhi (Ganderbal seat ke liye CDF se Rs 377.10 lakh swikriti, Greater Kashmir, 23 Sep 2025 — CDF MLA ka apna fund hai, isliye MLA-bhoomika ka kaam; CM-bhoomika caveat note me disclosed). 13 REJECT — sab CM-role ke sarkari inauguration tours (Rs 84.41cr/36.50cr/42.38cr tours, bridges, WSS, stadiums — sarkari kaam, MLA-bhoomika nahi); pre-event schedule (15 Oct 2026, post-event reporting nahi); Kangan ka kaam (seat bahar); rajya-star vishay (statehood, Pahalgam relief, e-SEHAT). NEGATIVE: koi nahi (whitelist me is karyakaal ki koi FIR/case/inquiry reporting nahi).
+// Coordinator QA note (2026-10-15): titles/notes Roman-Hinglish only (Python-verified), koi Devanagari/rupee-symbol nahi; har entry me 8 fields; dates calendar-valid aur Oct 2024-Oct 2026 window me; dono slugs append se pehle file me absent — koi overwrite nahi. Omar CDF entry: CDF MLA ka apna discretionary fund hai — seat-vishesh swikriti MLA-role me rakhi gayi (Sajad Lone CDF precedent), CM-bhoomika caveat disclosed.
+
+jammuKashmirWorks['kangan'] = [
+  {
+    title: 'MLA Kangan Mian Mehar Ali ne Sumbal Bala me lok nirman vibhag (R&B) ki ek zaroori sadak pariyojana ka shilanyas kiya, jo door-daraaz gaon ko all-weather connectivity degi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/90-road-connectivity-achieved-in-kangan-mla-mian-mehar/',
+    date: '2026-01-20',
+    note: 'Greater Kashmir ne 20 Jan 2026 ko report kiya ki MLA ne Kangan ke Sumbal Bala ilake me ek lambi-lambit sadak pariyojana ka shilanyas kiya, jise PWD (R&B) banayega; poori hone par sehat, shiksha aur bazaar tak pahunch sudhregi. Fund-srot ka zikr article me nahi hai. Stage ka sach: shilanyas (kaam shuru hone ki avastha). Disclosure: isi bayan me MLA ne Sumbal bridge sahit kai sadak-pulon ki swikriti ka daawa bhi kiya, par us daawe ke liye koi GO/order ka hawala article me nahi — isliye entry ka aadhar sirf shilanyas wali post-event reporting hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Mian Mehar Ali ne Kangan ke Government High School Hayan ke naye 6-kamre wale permanent bhavan ka shilanyas kiya, anumaanit lagat Rs 53 lakh',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/decade-on-government-school-in-kangan-gets-its-building/',
+    date: '2025-10-14',
+    note: 'Greater Kashmir ne 14 Oct 2025 ko report kiya ki MLA ne High School Hayan (Kangan, Ganderbal) ke naye bhavan ka shilanyas kiya aur kaam shuru ho chuka tha; school ek dashak se tin-shed me chal raha tha (2012 me High School bana tha par permanent building kabhi nahi bani). EE R&B division Kangan ke mutabiq 6-room building Rs 53 lakh me banegi aur agle May tak poori hone ki ummeed thi. MLA ne iske liye DC Ganderbal, SDM Kangan aur R&B adhikariyon ka sahyog bataya; sthaniya logon ne maang poori hone par MLA ka shukriya ada kiya. Stage ka sach: shilanyas, kaam shuru.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Mian Mehar Ali ne Kangan ke liye Road Sector (New Works) Capex Action Plan 2026-27 ke tahat Rs 6 crore ki sadak pariyojanaon ki swikriti dilayi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/mian-mehar-ali-secures-rs-6-crore-for-kangan-roads-12409356',
+    date: '2026-08-22',
+    note: 'Rising Kashmir ne 22 Aug 2026 ko Road Sector (New Works) Capex Budget 2026-27 ke tahat jaari authorization/order ke hawale se report kiya ki Kangan constituency me Rs 6 crore ki sadak-nirman/sudhaar/unnayan pariyojanaon ki swikriti mili hai; sambandhit adhikariyon ko Administrative Approval/Technical Sanction (AA/TS) aur tendering shuru karne ke nirdesh diye gaye, kaam annexure-listed pariyojanaon tak seemit rahega. MLA ki bhoomika: article ke mutabiq unhone ye swikriti "secure" ki. Stage ka sach: swikriti (order-based; AA/TS aur tendering abhi baki, kaam shuru nahi). Disclosure: ye ghoshna-matr nahi hai kyunki srot ne asal authorization/order ka hawala diya hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Mian Mehar Ali ne Kangan me sehat, bijli aur connectivity ke kayi kaamon — ambulance, X-ray machine, transformer, library, playground aur canal fencing — ki swikriti ka daawa kiya',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/health-power-connectivity-top-our-agenda-mla-kangan-12245677',
+    date: '2026-08-10',
+    note: 'Rising Kashmir ne 10 Aug 2026 ko report kiya, jo poori tarah MLA ke apne bayan par aadharit hai ("MLA says"): package me SDH Kangan me video endoscope system (Rs 16.50 lakh) aur ticket counter (Rs 6.50 lakh), MMC Watlar aur PHC Wussan me digital X-ray (Rs 25 lakh each), Hari Ganiwan ke liye BLS ambulance (Rs 30 lakh), Anderwan ke liye ECO ambulance (Rs 9.30 lakh), Nallah Shutain Gagangair/Satrina/Doga Wangath par pul, kai transformers, Kangan me Rs 35 lakh ki library, Burnbugh/Pethpora Chattergul/Prang me playgrounds, Bonpora Haripora me public park aur Kullan-Sumbal-BR-Ganiwan/Mammar-Thune me canal fencing shamil hone ka daawa. Koi GO/order ya vibhagiya dastavez ka hawala article me nahi hai. Stage ka sach: ghoshna — saboot sirf MLA ka daawa, isliye badge dawa.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Mian Mehar Ali ne Arigoripora (Kangan) me Rs 5 crore ke indoor stadium ki swikriti ka daawa kiya aur kaha ki kaam jald shuru hoga',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/jammu-and-kashmir/kashmir/5-cr-indoor-stadium-approved-for-kangan-mla-mian-mehar-ali-12113336',
+    date: '2026-06-28',
+    note: 'Rising Kashmir ne 28 Jun 2026 ko report kiya ki MLA ne Gagangeer Sonamarg me cricket tournament ke dauraan kaha ki Arigoripora me Rs 5 crore ka indoor stadium swikrit hua hai aur kaam jald shuru hoga; saath me kayi playgrounds ke vikas ke liye fund aur clubs/yuva samoohon ko sports kits, roller, mat dene ki baat bhi kahi. Poori khabar "According to the MLA" par tiki hai — kisi GO/order ya vibhagiya dastavez ka hawala nahi. Stage ka sach: ghoshna — saboot sirf MLA ka daawa, isliye badge dawa. Disclosure: isi bayan me Gagangeer playground ko swargiya Irfan Ahmad Raina ki yaad me samarpit karne ki ghoshna bhi thi, par us maidan ke lokarpan ki swatantra post-event reporting article me nahi hai.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['omar-abdullah'] = [
+  {
+    title: 'Omar Abdullah ne Ganderbal seat ke liye Constituency Development Fund se Rs 377.10 lakh ke vikas kaam manzoor kiye, jisme District Hospital Ganderbal ke liye Rs 67 lakh ka high-end ultrasound system bhi shamil hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/cm-omar-sanctions-rs-377-10-lakh-for-development-works-in-ganderbal-constituency/',
+    date: '2025-09-23',
+    note: 'Greater Kashmir ki post-event reporting (Srinagar, 23 Sep 2025) ke mutabik Omar Abdullah ne "Chief Minister and MLA Ganderbal" ke roop me Constituency Development Fund (CDF) se kul Rs 377.10 lakh ke kaam manzoor kiye, jo poori tarah Ganderbal seat ke liye hain. CDF MLA ka apna fund hota hai, isliye ye MLA-bhoomika ka kaam mana gaya. Isme Rs 67 lakh District Hospital Ganderbal ke liye high-end ultrasound system, school buildings ka navinikaran aur lab/digital learning suvidhaen, sadak-drainage-street light, aur parks/community suvidhaen shamil hain. Stage ka sach: ye swikriti (approved funds) hai, sirf ghoshna nahi. Disclosure: report me unhe Chief Minister ke roop me bhi pehchana gaya hai (woh CM hain), lekin CDF approval MLA ke naam par hoti hai.',
+    period: '2024-2029',
+  },
+];
