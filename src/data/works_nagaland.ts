@@ -1000,3 +1000,109 @@ nagalandWorks['jwenga-seb'] = [
 // REJECT: Governor ka Tseminyu daura (Nagaland Post) — upasthiti/sambodhan = ceremonial reject.
 // REJECT: GHSS Tseminyu Lighthouse School Complex ka shilanyas — CM Rio ne virtual rakha (DIPR); MLA ki vyaktigat bhoomika nahi = reject.
 // Negative: koi nahi (2023 halafname me 0 criminal cases; koi FIR/case/adalaati janch ki reporting nahi mili).
+
+// ---- Tuensang district batch (researched 2026-10-15) ----
+nagalandWorks['y-lima-onen-chang'] = [
+  {
+    title: 'Yali aur Noksen gaonon ko jodne wali SASCI yojana se bani sadak ka MLA Y. Lima Onen Chang ne 3 February 2025 ko udghatan kiya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/node/15885',
+    date: '2025-02-03',
+    stage: 'lokarpan',
+    note: 'Yeh sadak SASCI (Special Assistance to State for Capital Investment) yojana ke tahat bani hai, jo rajya sarkar ko milne wali kendriya sahayata se chalti hai — khabar me MLA ne swayam kaha ki CM ki sahayata se Noksen kshetra me SASCI project se sadak nirman hua. Matlab asal fund sarkari yojana ka hai aur sadak banane ka shrey MLA ne CM ko diya; MLA ki vyaktigat bhoomika udghatan tak hi darj hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kongkhum Range Road ke zero point ka MLA Y. Lima Onen Chang ne 1 February 2025 ko Warakok (Bhumji River) par udghatan kiya, jo Mokokchung aur Tuensang ko jodti hai',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-lima-onen-inaugurates-kongkhum-range-road-connecting-mokokchung-and-tuensang/',
+    date: '2025-02-01',
+    stage: 'lokarpan',
+    note: 'Khabar me is sadak ke fund ka ullekh nahi hai; karyakram me R and B vibhag ke Executive Engineer Tuensang maujood the, isliye yeh sarkari sadak yojana ka kaam lagta hai. Sadak Kongkhum Range (Noksen sub-division) ke Yonyu aur Alisopur gaon se hoti hui Mokokchung aur Tuensang ko jodti hai, aur Alisopur Village Council ne iske liye zameen di thi. MLA ne udghatan karke unity ki appeal ki — unki darj bhoomika udghatan tak hi hai, fund ya nirman ka shrey khabar me MLA ko nahi diya gaya.',
+    period: '2023-2028',
+  },
+];
+nagalandWorks['sethronkyu'] = [
+  {
+    title: 'Longkhim town me PHED ke Sub-Divisional Office (SDO) ka udghatan 19 September 2023 ko MLA ne kiya — lekin ye kaaryalay PHED minister Jacob Zhimomi ki pahal par bana, asal shrey PHED vibhag ko.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/sdo-phe-office-inaugurated-at-longkhim-town-in-tuensang/',
+    date: '2023-09-19',
+    stage: 'lokarpan',
+    note: 'Longkhim town (Tuensang) me Public Health Engineering Department ka Sub-Divisional Office bana aur 19 September 2023 ko MLA Sethrongkyu Sangtam ne uska udghatan kiya. Khabar ke mutabik MLA ne apne udghatan-bhaashan me khud PHED minister Jacob Zhimomi ki mehnat aur pahal ki tareef ki — isliye asal shrey vibhag aur minister ko jata hai; MLA ki bhoomika udghatan tak seemit rahi. Fund-srot (LADP ya vibhagiya budget) ki report me pushti nahi hui.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chare town me rostrum ka udghatan 16 August 2024 ko MLA ne adhikariyon ke saath kiya — fund-srot ki khabar me pushti nahi.',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/index.php/node/14310',
+    date: '2024-08-16',
+    stage: 'lokarpan',
+    note: 'Chare town, Tuensang me bana rostrum 16 August 2024 ko poora dikhakar MLA Sethrongkyu Sangtam ne adhikariyon ke saath udghatan kiya. Sarkari DIPR report sirf udghatan ki tasdeek karti hai — nirmaan agency, fund-srot (LADP ya anya) ya udghatan ke pehle MLA ki bhoomika ka ullekh report me nahi hai, isliye ye entry sirf vyaktigat lokarpan ke taur par darj hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Longkhim town me PHSNS Range Hall ka udghatan 22 November 2025 ko MLA ne kiya — fund-srot ki khabar me pushti nahi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/nagaland-free-assistive-devices-distributed-at-longkhim-chare/',
+    date: '2025-11-22',
+    stage: 'lokarpan',
+    note: 'Longkhim town me PHSNS Range Hall ka udghatan MLA Sethrongkyu Sangtam ne kiya (22 November 2025 ko Town Hall, Longkhim me assistive-device vitaran karyakram ke dauran ki khabar me iska ullekh mila). Khabar me fund-srot (LADP ya anya) ka ullekh nahi hai, aur udghatan ke pehle nirmaan me MLA ki bhoomika ka koi dawa report nahi hua — isliye ye entry sirf vyaktigat lokarpan ke taur par darj hai.',
+    period: '2023-2028',
+  },
+];
+nagalandWorks['p-bashangmongba-chang'] = [
+  {
+    title: 'Tuensang me naye Superintendent of Police (SP) Office bhavan ka lokarpan — 28 August 2026 ko Housing aur Mechanical Engineering mantri P. Bashangmongba Chang ne udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/minister-bashangmongba-inaugurates-new-sp-office-in-tuensang',
+    date: '2026-08-28',
+    stage: 'lokarpan',
+    note: 'Credit-transparency: ye bhavan Police Department ka project hai (Police Engineering Project ke SDO Chonbenthung Ezung ne technical report di; nirmaan-rashi article me darj nahi) — MLA ne iska nirmaan nahi karwaya, unhone mantri ke taur par sirf udghatan kiya aur police infrastructure ke liye CM Dr. Neiphiu Rio aur Dy CM Y. Patton ko dhanyavad diya. Bhavan Tuensang town me hai jo unki seat (53 Tuensang Sadar-I) me aata hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Hakushang ke Government Higher Secondary School (GHSS) upgradation ka lokarpan — 13 August 2024 ko P. Bashangmongba Chang ne udghatan karyakram ki shobha badhai',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/minister-beshangmongba-graces-upgradation-programme-of-ghss-hakushang-in-tuensang/',
+    date: '2024-08-13',
+    stage: 'lokarpan',
+    note: 'Credit-transparency: GHS se GHSS tak ka upgradation School Education vibhag ka kaam tha — MLA ne khud CM Dr. Neiphiu Rio, School Education ke Adviser Dr. Kekhrielhoulie Yhome aur Chang Wedoshi Setshang (CWS, jinki pahal par ye hua) ko dhanyavad diya; unki bhoomika mukhya atithi/udghatankarta ki rahi. School 53 Tuensang Sadar-I seat me sthit hai (CEO Nagaland polling list aur school directory se pusht). Nirmaan-rashi article me darj nahi.',
+    period: '2023-2028',
+  },
+];
+nagalandWorks['imtichoba'] = [
+  {
+    title: 'Tuensang Gaon ke Government Middle School ka High School me upgradation poora, MLA Imtichoba ne 4 February 2026 ko udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/nagaland-imtichoba-inaugurates-ghs-tsg-village/',
+    date: '2026-02-04',
+    stage: 'lokarpan',
+    note: 'School ka Middle se High level upgradation ka faisla School Education Vibhag (CM Dr. Neiphiu Rio, Advisor School Education, Commissioner and Secretary) ka tha; Imtichoba ne udghatan-samaroh me in sab ka khud aabhar vyakt kiya aur kaha ki 57 saal purane school ki upgradation ki logon ki lambi maang poori hui. Asal shrey sarkari vibhag ka; MLA ki bhoomika udghatan-karta aur samarthak ki. Fund srot: Rajya sarkar (School Education Dept), LADP nahi.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Tuensang district batch (researched 2026-10-15) ----
+// y-lima-onen-chang (RPI(A) — Noksen): 2 entries. REJECTS (8): Kongkhum Range Union silver jubilee memorial road (2023, Nagaland Tribune) — samuday-yogdaan se bani sadak, MLA sirf guest — community-ceremonial reject; assistive devices vitran (25 Nov 2025, Eastern Mirror/Post/Morung) — welfare vitaran, MLA special guest — reject; Noksen Area Teachers Union silver jubilee (6 Nov 2025) — sirf maujoodgi; cyclone rahat daura (1 Jun 2024) — aapda rahat/welfare, works nahi; Noksen BDO Block coordinate meeting (12 Apr 2025, DIPR) — bayaan matra; YouTube video "LIMA ONEN CHANG ROAD inauguration 11 Apr 2026" — verify nahi hua, source apusht — reject (retry lead: live-browser me verify ho to entry ban sakti hai); CM ke Viksit Bharat karyakram me RPI(A) bhashan — maujoodgi; 2023 chunav-jeet khabrein — result report. Negative: koi nahi (halafname me 0 criminal cases).
+// sethronkyu (BJP — Longkhim Chare; sources me naam Sethrongkyu Sangtam, slug task ke mutabik sethronkyu rakha): 3 entries. REJECTS (7): free assistive devices vitaran (22 Nov 2025) — ADIP/RVY welfare vitaran, MLA sirf guest; labour registration drive (DIPR, 4 Sep 2024) — NBOCWWB abhiyan, maujoodgi; Longkhim SDPDB LADP approvals (30 Jun 2025, 17 Jul 2026) — board-star samanya swikriti; PHC/JNV nirikshan (DIPR, 16 Aug 2024) — nirikshan + "karenge"; New Sangsomong village community hall (16 Aug 2024, Nagaland Tribune tag) — canonical URL na milne se weak-attribution reject (retry lead); ENWO conference/Mumgmung utsav/Lirise village 50th anniversary/Independence Day — ceremonial; Delhi me Union mantriyon se mulakat, MeitY sachiv se IT-baithak (May 2023, Dec 2025), IT Ministers Round Table (Oct 2025) — Advisor-IT portfolio ke vibhagiya faisle, seat-kaam nahi. Negative: koi nahi (affidavit "No criminal cases"; Oneindia list me 0 case).
+// p-bashangmongba-chang (BJP — Tuensang Sadar-I; mantri): 2 entries. REJECTS (12): PWD Mechanical Division udghatan (1 May 2023, DIPR) — apne vibhag ka faisla; PWD Office Complex Tongdentsuyong (13 Mar 2025, NET) — Mokokchung me, seat bahar; DPDB Tuensang LADP/Iconic swikriti (Jul 2025) — board samanya swikriti; Tuensang-Mon BRO road charcha (Jul 2025) — maang matra; NH-202 landslide daura (12 Aug 2026) — nirikshan; Hok-Ah festival (Jan 2025) — ceremonial; Dr. T. Ao Trophy monolith (Oct 2026) — event guest; Longleng-Tuensang road NEC project (2019) — pre-term; GHS Tuensang Village udghatan (4 Feb 2026) — ye Imtichoba (Tuensang Sadar-II) ka kaam, naam-bhram reject; SEWA Shakti Kendra (Aug 2026, Eastern Mirror) — NGO kendra, bhoomika ka saboot nahi; CM Rio ka Lighthouse School Complex shilanyas (Dec 2024, DIPR) — CM ka karyakram; Sao Chang College samman-samaroh (Jul 2026) — event. Negative: koi nahi.
+// imtichoba (RPI(A) — Tuensang Sadar-II): 1 entry. REJECTS (9): Palak Sangpayou Road (17 Aug 2024, DIPR) — ek-line ullekh, attribution kamzor; Tuensang DPDB LADP 2026-27 swikriti (Jul 2026) — board samanya swikriti; NH-202/Tuensang-Longleng sadak maang (Jul 2026) — prastav matra; Sao Chang College renovation adi DPDB prastav (Dec 2023) — swikriti ka saboot nahi; Eastern Mirror interview (9 Apr 2023) — profile interview; ailing ENSF official ko sahyog (Aug 2025, Nagaland Tribune) — vyaktigat kalyan; TVSU session hosting (Jan 2026) — event; 2023 result reports — result report; Tuensang DPDB July 2025 meeting — P. Bashangmongba Chang (Sadar-I) ki khabar, galat seat. Negative: koi nahi (affidavit 0 criminal cases). QA-DROP: school bus (17 Aug 2024, Nagaland Post — "MLA ka vyaktigat yogdaan") — vyaktigat daan/welfare, works nahi (personal-welfare niyam).
+// Coordinator QA note: 4 parallel workers, sab completed. Entries verify ki: (1) bus entry ko worker se alag QA-DROP kiya — worker ne khud disclose kiya tha fund vyaktigat tha; personal-donation niyam ke tahat works nahi banta. (2) sethronkyu slug foundation me task-brief ke mutabik hai (sources me spelling Sethrongkyu Sangtam). (3) Hygiene Python-verified: batch me sirf ASCII + established em-dash style, 0 Devanagari/Meitei Mayek, 0 rupee-symbol, 0 escaped-newline; entry objects me 0 comments; marker exactly 1x; chaaron slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
+
