@@ -1114,3 +1114,320 @@ jammuKashmirWorks['doda-west'] = [
 
 // Coordinator QA note (2026-10-15): teeno worker fragments padhe aur 3 key sources (Malik PSA Daily Excelsior article, solar-kit article, Paryote blacktopping article) khud kholkar verify kiye. Decisions: (1) solar-kit entry DROP — article khud ise "relief" batata hai, fund-srot darj nahi: personal welfare/charity distribution vikas-kaam nahi; (2) worker ka "Daleep Singh Parihar" suffix hataya — foundation record me naam sirf 'Daleep Singh' hai, namesake bhram se bachne ke liye; (3) 2 Parihar entries ka stage lokarpan se kaam-shuru me sudhara; (4) Malik negative ki teeno sharten (PSA order sthiti + habeas yachika + jawab) Daily Excelsior me verify — entry me koi stage field nahi. Hygiene: 0 Devanagari, 0 rupee-symbol, entry strings me koi escaped-newline nahi; har entry me 8 fields (negative me 7, stage ke bina); sabhi dates Oct 2024–Oct 2026 window me; marker exactly 1x; teeno slugs append se pehle absent the — koi overwrite nahi.
 
+
+// ---- Ramban district batch (researched 2026-10-15) ----
+jammuKashmirWorks['arjun-singh-raju'] = [
+  {
+    title: 'Raju ke Assembly sawal par sarkar ne Batote Town water supply scheme (AMRUT 2.0) ki sthiti batayi — Rs 2.387 crore ka kaam jari, Rs 1.85 crore kharch, distribution system bichh gaya aur ghar-tap connections lag rahe hain.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/augmentation-of-wss-batote-town-underway-govt/',
+    date: '2026-02-10',
+    note: 'Daily Excelsior ki 10 Feb 2026 ki khabar ke mutabiq, Vidhan Sabha ke budget session me Arjun Singh Raju ke sawal ka jawab dete hue Mantri Sakeena Itoo ne bataya ki WSS Batote Town ki augmentation AMRUT 2.0 ke tehat Rs 2.387 crore ki lagat par chal rahi hai, ab tak Rs 1.85 crore kharch ho chuke hain, distribution system bichh gaya hai aur functional household tap connections (FHTCs) lagane ka kaam jari hai. Stage ka sach: ye sarkari yojana ka sarkari jawab hai — MLA ka yogdan sawal uthakar sthiti sarvajanik karana hai (accountability/pahal entry, credit capped); is kaam ka shrey MLA ke CDF ya unke niji prayas ka nahi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Raju ne Sanasar me sarkari Tulip Garden ka mausami udghatan kiya — 35 kanal me 2 lakh se zyada tulip, Floriculture Department ka project.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-ramban-inaugurates-sanasar-tulip-garden/',
+    date: '2026-03-26',
+    note: 'Daily Excelsior ki 26 Mar 2026 ki khabar ke mutabiq, Ramban MLA Arjun Singh Raju ne 25 Mar ko Sanasar me Tulip Garden ka udghatan karke usse season ke liye khol diya; unke saath Director Floriculture Jammu aur anya vibhagiya adhikari the. Stage ka sach: ye Floriculture Department ka pehle se sthapit sarkari project hai (35 kanal, 25 prakar ke 2 lakh se adhik tulip) — MLA ne uska mausami lokarpan kiya, isliye entry valid hai lekin poori credit-transparency ke saath: garden ka nirman/vikas MLA ke CDF ya unke fund se nahi, department ke khate me hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Raju ne Sunaseri (Guglidhar, Pogal Paristan) me PWD dwara taiyaar Rs 2.17 crore ki tourism suvidhaon ka lokarpan kiya — eco log huts, viewpoints, benches, drainage aur pathways.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/2-day-folk-festival-culminates-at-sunaseri/',
+    date: '2026-09-07',
+    note: 'Daily Excelsior ki 7 Sep 2026 ki khabar ke mutabiq, do-divasiya Pahari lok utsav ke samaapan par MLA Arjun Singh Raju ne Sunaseri (Guglidhar) me naye tourism infrastructure ka udghatan kiya — ye kaam Public Works (R&B) Department ne Rs 2.17 crore ki lagat par poora kiya, jisme eco log huts, viewpoints, benches, sudhara drainage aur connected pathways shaamil hain. Stage ka sach: kaam sarkari vibhag ka hai aur suvidhaen poori tarah taiyaar hokar lokarpit hui hain — MLA ne lokarpan kiya, isliye entry valid hai lekin poori credit-transparency ke saath: nirman/vikas PWD ke khate me hai, MLA ke CDF se nahi.',
+    period: '2024-2029',
+  },
+];
+
+// Ramban worker REJECT-LOG — Arjun Singh Raju:
+// 1. Daily Excelsior (27 Apr 2025) + Greater Kashmir — Rs 1 crore CDF relief package ki ghoshna (20 Apr 2025 ki baadh/bhuslan ke liye link roads, paths, drains, protection walls ka punarnirman). REJECT: rahat/rahat-karya vikas-kaam nahi; ye ghoshna thi, poore hone ki report nahi.
+// 2. Greater Kashmir — Lot-I tender par press bayan (Rs 35,000 crore ki NHPC project ke baare me patrakaron ko jaankari). REJECT: sirf bayan/maujoodgi; MLA ki koi karyavahi, fund ya outcome nahi; project kendra sarkar/PSU ka hai.
+// 3. Crosstown News (Feb 2025) — Patnitop Master Plan par likhit sawal. REJECT: srot whitelist me nahi + mantri ka jawab nakaratmak (koi timeline nahi, "kaam nahi ruka" ka dawa) — koi documented outcome nahi.
+// 4. Rising Kashmir / Kashmir Life — Zero Hour me PHE Sub-Division Ramban me AEE posting ki maang. REJECT: sirf maang; koi mantri-jawab ya posting ka praman nahi.
+// 5. Budget Session 2025 — Zero Hour me 10 hilly panchayaton ke liye ration depots badhane ki maang. REJECT: sirf maang; koi outcome nahi.
+// 6. Crosstown News / JK Monitor — NCSL Legislative Summit Boston (Aug 2025) aur Chicago (Jul 2026) me bhaagidaari. REJECT: srot whitelist me nahi + vikas-kaam nahi.
+// 7. Daily Excelsior (22 Jan 2025) — Galli-to-Kateri road ka foundation stone DyCM Surinder Choudhary ne rakha; MLA sirf upasthit. REJECT: sirf maujoodgi; shrey DyCM ka.
+// 8. Jammu Links News (Jul 2026) — Cooperative Week samapan + Maitra me food packaging unit ka udghatan. REJECT: srot whitelist me nahi.
+// 9. Kashmir Digest / Kashmir Ahead — "Pahari Saga Studio" private music studio ka udghatan (Jan 2026). REJECT: srot whitelist me nahi + niji (private) facility, sarkari suvidha nahi.
+// 10. JK Monitor (May 2025) — Mini-Super Bazar M-PACS Maitra ka udghatan (Rs 95.42 lakh, Cooperative Dept). REJECT: sirf JK Monitor + Kashmir Digest ne cover kiya; koi whitelisted srot nahi.
+// 11. Crosstown News (Jun 2026) — Shah-i-Asrar Memorial School Building ka shilanyas Mantri Javid Ahmad Dar ne kiya. REJECT: srot whitelist me nahi + mantri ka vibhagiya faisla, MLA ka nahi.
+// 12. Excelsior News YouTube video — "MLA lays foundation stone of several development works in Ramban". REJECT: YouTube whitelist me nahi; koi whitelisted text article nahi mila, content verify nahi ho saka.
+// 13. globgov.com (JKNC Facebook repost, Nov 2025) — Ganote Road kaam shuru hone ka dawa. REJECT: srot whitelist me nahi; kisi established media me coverage nahi mili.
+// 14. thehiddennews.in — Chenab Bridge Maitra par Assembly sawal/jawab (CRIF ke tehat, Aug 2026 tak poora hone ka ashwasan). REJECT: srot whitelist me nahi (werna valid accountability entry hoti).
+// 15. Daily Excelsior — Dr Jitendra Singh dwara 110 PMGSY roads ka e-foundation (Rs 1,503 crore). REJECT: MLA sirf upasthit; kendra/MP scheme; MLA ka shrey nahi.
+// 16. thenewsnow.co.in (Sep 2026) — Batote/Ramban me pani ki kami par Calling Attention (schedule). REJECT: srot whitelist me nahi + pre-event schedule item.
+// 17. Rising Kashmir — Motion of Thanks debate me Raju ka bhashan (power/roads/education pragati). REJECT: sirf bhashan; koi outcome nahi.
+// 18. The Tribune / Kashmir Life (Apr 2026) — Magarkote cow-vigilante mamle me Raju ne jaanch ki maang ki. REJECT: ye Raju ke khilaf negative nahi hai; myneta/oneindia ke mutabiq unpar koi criminal case nahi hai. Koi negative entry nahi mili.
+// 19. Kashmir Life (Jun 2026) — CM Omar Abdullah se mulaqat me kshetra ke mudde. REJECT: sirf mulaqat/ashwasan; koi documented outcome nahi.
+// 20. globgov.com (Oct 2025) — Cooperative Societies Act sanshodhan par Assembly charcha; Zero Hour me sadak/swasthya/bijli ke mudde. REJECT: srot whitelist me nahi + sirf charcha/maang, outcome nahi.
+// Negative: koi FIR/case/janch Raju ke khilaf established reporting me nahi mili — myneta.info (2024 affidavit) aur Oneindia ADR list dono me zero criminal cases darj.
+
+// Sajad Shaheen (JKNC, Banihal seat) — Oct 2024+ kshetra-kaam research
+// Period: 2024-2029 | Profile: BHARI (23 entries) | Negative: koi nahi mila
+// Sab entries whitelist sources (Daily Excelsior, Greater Kashmir, Rising Kashmir) se,
+// har source KHUD khola gaya. Date-inference wali entries ke note me saaf likha hai.
+
+jammuKashmirWorks['sajad-shaheen'] = [
+  {
+    title: '12 September 2025 ko MLA Sajjad Shaheen ne Banihal-Lamber aur Banihal-Dooligam sadkon ke macadamisation ka aarambh kiya — 9 approved sadkon wali Banihal-Gool yojana ka hissa',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-banihal-kickstarts-macadamisation-of-roads/',
+    date: '2025-09-12',
+    note: 'Daily Excelsior ke correspondent ne post-event report ki: karyakram me Banihal-Lamber aur Banihal-Dooligam sadken shuru hui, kul nau approved sadken Banihal-Gool constituency plan me hain. Fund-srot article me specified nahi — yojana sarkari hai, MLA ka vyaktigat shrey sirf kickstart tak; CM Omar Abdullah aur Dy CM ke samarthan ka shukriya MLA ne khud ada kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: '21 September 2025 ko MLA Sajjad Shaheen ne Neel-Gagoni aur Chamalwas-Neel sadkon ke macadamisation ka aarambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-kick-starts-black-topping-of-neel-chamalwas-road/',
+    date: '2025-09-21',
+    note: 'Daily Excelsior ne post-event report ki: Neel-Gagoni road aur Chamalwas-Neel road par macadamisation shuru — sthaniya logon ki lambe arse se maang poori. Fund-srot article me specified nahi; article me school upgrades, PHC staff aur sports infra ki pragati ke daave sirf bayanbazi hain, un par alag entry nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '2 October 2025 ko MLA Sajjad Shaheen ne Banihal-Gool ke liye Rs 3.21 crore CDF aur Rs 4.41 crore anya yojanaon ke kaamon ki swikriti ki ghoshna ki — kul Rs 7.62 crore',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-sanctions-rs-3-21-cr-cdf-for-banihal-gool-works/',
+    date: '2025-10-02',
+    note: 'Daily Excelsior ne MLA ke bayaan par report ki — sanction order/GO article me dikhaya nahi gaya, isliye badge dawa. CDF me Rs 58 lakh 45 High aur Higher Secondary schools me digital smart boards ke liye; health infra, hand pumps, high-mast lights, sadak-drainage bhi. Rs 10 lakh Moila aur Gobli Chunna me land subsidence se prabhavit parivaron ko rahat ke liye — rahat vikas-kaam nahi, isliye us bhag ko entry ke bahar rakha.',
+    period: '2024-2029',
+  },
+  {
+    title: '3 November 2025 ko MLA Sajjad Shaheen ne Gool me do sadak projects ke macadamisation ka aarambh kiya — Gool Bus Stand-Salbala Road (2 km, Rs 1.40 crore) aur Grathmorh-Moila via Shamti Road (4 km, Rs 9 crore, NABARD)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-sajjad-shaheen-flags-off-road-projects-in-gool/',
+    date: '2025-11-03',
+    note: 'Rising Kashmir ne post-event report ki (article me Nov 03; CDF Rs 7.6 crore wali Oct 2025 ghoshna se mail karke 2025 tay). Grathmorh-Moila via Shamti Road NABARD se bana — kendra-prayojit fund ka poora disclosure. Isi article me 8 micro-hydel projects, 16 PMGSY projects aur Tatapani Rs 2.86 crore ke daave sirf bayanbazi hain — bina sanction-document ke entry nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '29 November 2025 ko MLA Sajjad Shaheen ne Banihal me teen Jal Shakti suraksha kaam launch kiye — kul lagat Rs 104 lakh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/nc-mla-shaheen-launches-3-jal-shakti-projects-in-banihal/',
+    date: '2025-11-29',
+    note: 'Daily Excelsior ne post-event report ki: Banihal town ke Vegetable aur Fruit Market ke gird protection wall (Rs 50 lakh, lagbhag 250 vendors ki aajivika ki baadh se raksha) ka lokarpan aur Bishlari River par Malikpora (old toll post) aur Ganaipora ward 5 me do protection works (kul Rs 55 lakh) ke shilanyas. Fund-srot article me specified nahi — Jal Shakti/Flood Control vibhag ka kaam, MLA ne vyaktigat roop se launch kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: '28 December 2025 ko MLA Sajjad Shaheen ne Banihal-Gool me sinchai aur baadh-suraksha kaamon ke shilanyas kiye — 1.2 km Bankoot irrigation kool (Rs 12 lakh) aur Darpora, Malwath, Naikpora me flood protection works (Rs 35 lakh)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/shaheen-launches-irrigation-flood-protection-works-in-banihal/',
+    date: '2025-12-28',
+    note: 'Daily Excelsior ne post-event report ki: Bankoot Nallah par 1.2 km lamba irrigation kool aur Darpora, Malawath, Naikpora, Chanjloo me baadh-suraksha kaam — kisaanon ki zameen aur sinchai ke liye. MLA ne vyaktigat shilanyas kiya; fund-srot article me specified nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '26 December 2025 ko MLA Sajjad Shaheen ne Banihal me Rs 40 lakh ke CDF kaamon ka aarambh kiya — Eid Gah aur Radhey Krishan Temple beautification, Ward 4 footpaths, Bishleri Nallah suraksha kaam, SDH Banihal kaam, Madrasa Faizul Islam suraksha kaam',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/mla-sajjad-shaheen-kickstarts-multiple-developmental-projects-under-cdf-in-banihal/',
+    date: '2025-12-26',
+    note: 'Rising Kashmir page par saal nahi likha tha; tag-archive ke reverse-chron order (March 2026 ke baad Dec 26) aur Oct 2025 CDF sanction timeline se 2025 maana gaya. MLA ne vyaktigat roop se CDF kaam kickstart kiye. Article me ECG machines, high-mast lights, hand pumps ki earmarking bhi bayanbazi hai — un par alag entry nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '8 January 2026 ko MLA Sajjad Shaheen ne Banihal-Gool ke 30 sarkari Higher Secondary aur High Schools me digital smart boards vitrit kiye — CDF 2025-26, lagat Rs 57 lakh',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/jammu/mla-sajjad-shaheen-distributes-digital-smart-boards-to-30-educational-institutions-in-banihal/',
+    date: '2026-01-08',
+    note: 'Greater Kashmir ne delivery event ki report ki (page par saal nahi tha; CDF 2025-26 — Oct 2025 me sanction-ghoshit — ke baad vitran se 2026 maana gaya). Govt Boys Model HSS Banihal me CEO Ramban aadi ki maujoodgi me vitran; CDF fund ka poora disclosure. Isi article me Rs 31 crore school-infra ke secured hone ka daawa sirf bayanbazi hai — bina document ke entry nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '25 March 2026 ko MLA Sajjad Shaheen ne MC Banihal me tile work aur drainage system kaam ka aarambh kiya — lagat Rs 43 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-banihal-kickstarts-construction-works-of-tiles-drains/',
+    date: '2026-03-25',
+    note: 'Daily Excelsior ne post-event report ki: MC Banihal town me tile work aur drainage — sanitation, drainage aur pedestrian pathways ke liye. PWD ke Executive Engineer aur MC Banihal ke EO maujood the. MLA ne vyaktigat roop se kickstart kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: '1 April 2026 ko J&K Assembly me MLA Sajjad Shaheen ka Private Member Bill — Establishment of University Campus at Banihal — pass hua',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/jammu/private-members-bill-for-establishment-of-university-campus-at-banihal-passed-in-assembly/',
+    date: '2026-04-01',
+    note: 'Greater Kashmir ne documented outcome report kiya: bill sarv-sammati se pass hua — accountability/pahal entry, lekin shrey capped: CM Omar Abdullah aur Higher Education Minister Sakina Itoo ke samarthan se hua, sirf MLA ka nahi. Stage-sach: bill pass hona campus chalu hone ke barabar nahi; classes GDC Banihal se shuru hone ke liye university approval ka intezaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: '9 May 2026 ko MLA Sajjad Shaheen ne Khari me do pulon aur Higher Secondary School Khari ke modernization ke shilanyas kiye — kul Rs 5.4 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-banihal-lays-foundation-stones-for-rs-5-4-crore-projects/',
+    date: '2026-05-09',
+    note: 'Daily Excelsior ne post-event report ki: Nachalana-Khari-Mandakbass road par motorable bridge, doosra bridge aur Higher Secondary School Khari ka modernization/upgradation. MLA ne vyaktigat roop se shilanyas kiya; article me fund-srot (CDF/R&B/NABARD me se kaun) specified nahi — shrey ki poori tasdeek pending. Isi article me dialysis facilities ke jald chalu hone ka daawa sirf ghoshna hai.',
+    period: '2024-2029',
+  },
+  {
+    title: '11 May 2026 ko MLA Sajjad Shaheen ne Tata Pani Bath Ghat (health aur wellness tourism) ka shilanyas kiya — lagat Rs 2.5 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/chenab-valley/tata-pani-to-be-developed-as-health-wellness-tourism-destination-sajjad-shaheen-11824959',
+    date: '2026-05-11',
+    note: 'Greater Kashmir ne press-release based post-event report ki: Tata Pani ke garam paani ke chashmon par Bath Ghat — wellness tourism destination ke roop me vikas. MLA ne vyaktigat shilanyas kiya; fund-srot article me specified nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '11 May 2026 ko MLA Sajjad Shaheen ne Sumar me Rs 3.52 crore ki nayi High School building ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/chenab-valley/tata-pani-to-be-developed-as-health-wellness-tourism-destination-sajjad-shaheen-11824959',
+    date: '2026-05-11',
+    note: 'Greater Kashmir ne post-event report ki: Sumar me nayi High School building (Rs 3.52 crore) ka lokarpan — door-daraz pahadi kshetra me shiksha infrastructure. MLA ne vyaktigat lokarpan kiya; nirmaan ka fund-srot article me specified nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '25 June 2026 ko MLA Sajjad Shaheen ne Banihal me CDF se bane 20-foot BANIHAL landmark signboard ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/mla-banihal-inaugurates-banihal-landmark-signboard-12107547',
+    date: '2026-06-25',
+    note: 'Rising Kashmir ne post-event report ki: Banihal town ke upar pahadi par 20-foot steel fabrication signboard — Constituency Development Fund (CDF) se nirmaan, poora fund-disclosure. MLA ne vyaktigat lokarpan kiya; J&K me is tarah ka pehla installation MLA ke bayaan ke anusar.',
+    period: '2024-2029',
+  },
+  {
+    title: '6 July 2026 ko MLA Sajjad Shaheen ne Banihal me Rs 1 crore Central Park Beautification Project ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/shaheen-launches-1-crore-banihal-park-project-12140286',
+    date: '2026-07-06',
+    note: 'Rising Kashmir ne post-event report ki: Central Park ko modern recreational space banane ka project — landscaped gardens, walking tracks, bachchon ke play areas, lighting. MLA ne vyaktigat shilanyas kiya; fund-srot article me specified nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '20 August 2026 ko MLA Sajjad Shaheen ne augmented Banihal Receiving Station ka lokarpan kiya — Rs 1.25 crore, UT Capex, capacity 6.3 se 10.6 MVA',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/mla-inaugurates-augmented-receiving-station/',
+    date: '2026-08-20',
+    note: 'Daily Excelsior ne post-event report ki: power vibhag ka kaam UT Capex se (Rs 1.25 crore) — poora fund-disclosure, MLA ka vyaktigat lokarpan. Sangaldan station pehle se augmented tha aur Khari par kaam chal raha tha — ye daave MLA ke bayaan ke hain.',
+    period: '2024-2029',
+  },
+  {
+    title: '23 August 2026 ko MLA Sajjad Shaheen ne 4 km Nachlana-Talab road ka shilanyas kiya — lagat Rs 7.33 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/chenab-valley/around-5-dozen-road-projects-approved-in-banihal-gool-mla-sajjad-shaheen-12424924/amp',
+    date: '2026-08-23',
+    note: 'Greater Kashmir ne statement-based post-event report ki. MLA ne PMGSY, NABARD, UT Sector yojanaon ke tahat lagbhag 5 dozen approved sadkon ka daawa kiya — ye sankhya unka daawa hai, tasdeek pending; asal fund-shrey yojanaon/sarkar ka, MLA ka nahi. Shilanyas MLA ne vyaktigat roop se kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: '1 September 2026 ko MLA Sajjad Shaheen ne Hinjhal me chaar sadak projects ke shilanyas kiye — kul lagat Rs 18.66 crore, PMGSY aur R&B vibhag ki yojanaon se',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/shaheen-lays-foundation-stones-of-4-road-projects-worth-rs-19-cr/',
+    date: '2026-09-01',
+    note: 'Daily Excelsior ne post-event report ki: Link Road Hinjhal-Bajar Basti Thandishaw via Gila Basti (1.70 km, Rs 448.53 lakh), Link Road Budgam-Khoura (1.75 km, Rs 410.41 lakh), Link Road Hinjhal-Gujjar Basti (3.50 km, Rs 938.30 lakh) aur Hinjhal Eidgah footbridge (Rs 69.26 lakh) — sab PMGSY aur R&B vibhag ke madhyam se; poora fund-disclosure, asal shrey kendra-prayojit PMGSY aur UT R&B ka hai. PMGSY aur R&B ke Executive Engineers maujood the.',
+    period: '2024-2029',
+  },
+  {
+    title: '15 September 2026 ko MLA Sajjad Shaheen ne Sangaldan ka augmented Receiving Station (3.15 se 6.30 MVA) janta ko samarpit kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/gool-power-network-gets-a-boost-12537744',
+    date: '2026-09-15',
+    note: 'Rising Kashmir ne post-event report ki: Gool kshetra ki bijli supply sudharne ke liye receiving station ki capacity doguni; MLA ne vyaktigat roop se samarpit kiya aur CM Omar Abdullah tatha vibhagon ke samarthan ka shukriya ada kiya. Power vibhag ka kaam — MLA ka shrey samarpan tak.',
+    period: '2024-2029',
+  },
+  {
+    title: '15 September 2026 ko MLA Sajjad Shaheen ne Sangaldan me BDO Office-cum-BDC Building (Rs 45 lakh) ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Rising Kashmir',
+    sourceUrl: 'https://risingkashmir.com/politics/gool-power-network-gets-a-boost-12537744',
+    date: '2026-09-15',
+    note: 'Rising Kashmir ne report ki: Gool daure me MLA ne BDO Office-cum-BDC Building Sangaldan (Rs 45 lakh) ka lokarpan kiya; isi daure me Dharam me BDO Office Building ka bhi lokarpan hua. Fund-srot article me specified nahi — Rural Development vibhag ka nirmaan, MLA ne vyaktigat lokarpan kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: '16 September 2026 ko MLA Sajjad Shaheen ne Goda Gali Park (Gool) ke beautification aur upgradation ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/politics/banihal-gool-emerging-hub-of-development-tourism-heritage-mla-sajjad-shaheen-12542553',
+    date: '2026-09-16',
+    note: 'Greater Kashmir ne statement-based post-event report ki: prachin Goda Gali site ke park ka beautification — heritage aur tourism potential ke liye. MLA ne vyaktigat shilanyas kiya; fund-srot article me specified nahi. Isi din Dheeda me public darbar aur SDH Gool me RKS meeting hui — review baithak me koi documented outcome nahi, isliye entry nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '5 October 2026 ko MLA Sajjad Shaheen ne Chamalwas-Neel me do sadak projects (Krachihal-Tabela Road, Sinigam-Kawansool Road) ke shilanyas kiye — kul Rs 4.61 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/politics/mla-sajjad-shaheen-lays-foundation-stones-for-rs-461-crore-road-projects-in-banihal-12627277',
+    date: '2026-10-05',
+    note: 'Greater Kashmir ne statement-based post-event report ki. Isi avsar par Neel ke liye ambulance ki ghoshna bhi hui — ghoshna hai, delivery ka koi document nahi, isliye us par entry nahi. Fund-srot article me specified nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: '30 November 2025 ko MLA Sajjad Shaheen ne teen sadak projects ka lokarpan kiya — Ramsoo-Dardahi, Makerkote-Dardahi, Livra-Gagarnag, PMGSY-IV se kul Rs 64.74 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/gk-top-news/mla-sajjad-shaheen-inaugurates-3-vital-road-projects-in-banihal/',
+    date: '2025-11-30',
+    note: 'Greater Kashmir page par saal nahi likha tha; PMGSY-IV sanction timeline (Nov 3, 2025 ke article me 16 naye PMGSY projects approved darj) se 2025 maana gaya. Teeno sadken PMGSY-IV se — kendra-prayojit fund ka poora disclosure, asal shrey scheme ka; MLA ne vyaktigat roop se lokarpan kiya.',
+    period: '2024-2029',
+  },
+];
+
+// Ramban worker REJECT-LOG — Sajad Shaheen:
+// 1. Ambulance for Neel ki ghoshna (5 Oct 2026, Chamalwas-Neel event) — ghoshna hai, delivery ka koi document nahi — reject.
+// 2. Rs 10 lakh rahat Moila/Gobli Chunna land-subsidence prabhavit parivaron ko (CDF ghoshna, Oct 2025) — rahat/rahat kaam vikas-kaam nahi — reject.
+// 3. Dialysis facilities SDH Banihal aur SDH Gool me "will soon become operational" (May 9, 2026 article) — "karenge" — reject.
+// 4. Tatapani phase-1 me Rs 2.86 crore UT Capex sanction ka daawa (Nov 3, 2025 article) — sirf bayanbazi, sanction document/event nahi — reject.
+// 5. 8 micro-hydel projects sanctioned (Buzla, Trigam, Pogal, Paristan, Ukharhal, Banihal-II) ka daawa — sirf bayanbazi — reject.
+// 6. Rs 31 crore school infrastructure "secured" ka daawa (Jan 2026 smart-boards article) — sirf bayanbazi — reject.
+// 7. 16 naye PMGSY road projects approved ka daawa (Nov 2025) — sirf bayanbazi — reject.
+// 8. "Lagbhag 5 dozen sadken approved" ka daawa (Aug 2026) — sirf bayanbazi; event-based sadak entries alag se li gayi — reject.
+// 9. Assembly intervention 29 Sep 2026 (Chenab Valley ke liye alag admin division, Khari me Degree College, school upgradation, CT scan, trauma hospital, patwar halqa demands) — sirf maang, koi documented prashasnik outcome/assurance nahi — reject.
+// 10. Assembly debate 27 Oct 2025 (Mehraj Malik PSA detention par) — intervention, koi documented outcome nahi — reject.
+// 11. BPL Season-11 inauguration (31 May 2026) — tournament ka udghatan sirf maujoodgi; Rs 4.5 crore sports infra ki ghoshna — ghoshna, koi sanction nahi — reject.
+// 12. Rain-affected areas tour Banihal/Khari (25 Jul 2026) — rahat daura, vikas-kaam nahi — reject.
+// 13. Shagan me school infrastructure ka shilanyas (15 Jun 2026) — whitelist source coverage nahi mili (sirf KNS/JK News Today) — reject.
+// 14. RKS meeting SDH Gool (16 Sep 2026) — review baithak, koi documented outcome nahi — reject.
+// 15. Khari Receiving Station augmentation "in progress" aur Grid Station Tethar par 50 MVA transformer "being installed" — adhura/bhavishya ka kaam — reject.
+// 16. NH-44/NHAI tunnel/rail (USBRL) — is worker ki research me in par MLA ko shrey dene wali koi khabar nahi mili — reject.
+// 17. NEGATIVE: koi negative entry nahi. Oneindia MLAs-criminal-cases list me Sajad Shaheen (Banihal, JKNC) par 0 case; PSA assembly debate doosre MLA (Mehraj Malik, Doda) par tha; 2017 ki CDF-probe khabren karyakaal se pehle ki opposition-era hain.
+
+// Ramban REJECT-LOG (consolidated 2026-10-15): Arjun Singh Raju — 20 rejects (CDF relief ghoshna rahat-kaam, Lot-I tender sirf bayan, Zero Hour maangein bina outcome, DyCM-ke-shilanyas me maujoodgi, non-whitelist sources: Crosstown/KNO/JK Monitor/Jammu Links/Kashmir Digest/thenewsnow, private studio udghatan, Ganote Road FB dawa, YouTube-only video); Shaheen — 17 rejects (ambulance ghoshna, rahat bhaagon ka nishedh, 'karenge' dialysis, Tatapani/micro-hydel/Rs31cr/16 PMGSY sirf bayanbazi, Assembly maangein bina outcome, PSA debate sirf charcha, BPL tournament maujoodgi, barish daura rahat, Shagan school non-whitelist, RKS meeting no outcome, Khari station 'in progress', NH-44/USBRL no MLA-shrey). NEGATIVE: dono par koi nahi (Raju: affidavit 0 cases; Shaheen: 0 cases, 2017 CDF-probe pre-term).
+// Coordinator QA note (2026-10-15): dono worker fragments kholkar padhe. Raju ke 3 entries rakhe — WSS Batote accountability/pahal (mantri ka documented jawab, credit capped), Sanasar Tulip Garden mausami udghatan aur Sunaseri PWD tourism infra lokarpan — dono me poori credit-transparency (department ka kaam, CDF nahi). Shaheen ke 23 entries rakhe — #3 CDF sanction-ghoshna badge dawa par (GO article me nahi), date-inference wali entries (#7 Dec 26 2025, #8 Jan 8 2026, #23 Nov 30 2025) notes me disclosed reasoning ke saath, PMGSY/NABARD/UT Capex fund-shrey har relevant note me disclosed. Hygiene: 0 Devanagari, 0 rupee-symbol, entry strings me 0 escaped-newline; har entry me 8 fields; sabhi dates calendar-valid aur Oct 2024-Oct 2026 window me; marker exactly 1x; dono slugs append se pehle absent the — koi overwrite nahi.
