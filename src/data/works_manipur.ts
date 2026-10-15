@@ -461,3 +461,127 @@ manipurWorks['md-achab-uddin'] = [];
 // 7. Feb 2026 me CM ke saath IDP shivir daura — sirf maujoodgi; raahat-shivir manaviya raahat hai, vikas-kaam nahi → reject.
 // 8. Oct 2024 ki disqualification charcha (Congress ki yachika) — yachika akeli negative nahi; koi adverse order nahi → reject.
 // Coordinator QA note: 4 search rounds (English, dono naam-variants "Ashab"/"Achab"); post-Mar-2022 ka koi satyapit vikas-kaam (lokarpan/shilanyas/swikriti) established media me nahi mila. Karyakaal ka bada hissa (May 2023 se) jaatiya hinsa aur President's Rule (13 Feb 2025 – 4 Feb 2026) se prabhavit raha — coverage ka patla hona swabhavik hai.
+
+// ---- Kakching district batch (researched 2026-10-15) ----
+manipurWorks['dr-usham-deben-singh'] = [];
+
+// REJECT-LOG (dr-usham-deben-singh)
+// 1. "MLA Deben assures fair distribution of urea" (Chronicle News Service via manipur.org, Jul 2022) — sirf bayan/aashwaasan, koi dastavezi kadam nahi; vikas-kaam nahi. REJECT (sirf dawa).
+// 2. Financial assistance to 97 IDPs, Yangbi Girls School Wabagai / Sanatombi Keirak / Indoor Stadium Kakching relief camps (E-Pao!, 20 Feb 2026) — raahat-shivir welfare vitaran; vikas-kaam nahi; President's Rule ke daur me bhi dastavezi vikas-kaam nahi. REJECT (raahat/vikas-kaam nahi).
+// 3. Seva Jyoti Yatra foot march, Keirak (E-Pao!, 08 Oct 2026) — MLA ne sirf shobhayatra me hissa liya; ceremonial maujoodgi. REJECT (sirf maujoodgi).
+// 4. Jan Kalyan Shivir, DC Office Kakching (Imphal Times, ~Jun 2026) — DC-organized sarkari yojna camp me scheme cards ka vitaran; raahat/yojna-labhaarthi vitaran vikas-kaam nahi. REJECT.
+// 5. BSF Civic Action Programme, Keirak (Imphal Times, ~Dec 2025) — BSF ka karyakram, MLA sirf atithi ke roop me maujood; BSF ka vitaran. REJECT (sirf maujoodgi).
+// 6. Panthoi Chanu goalkeeper felicitation, Keirak (Imphal Times, 2025) — khel-sammaan samaroh me chief guest; ceremonial. REJECT (sirf maujoodgi).
+// 7. Kakching Night Plaza 2nd edition (The Sangai Express via E-Pao!, 21 Oct 2025) — bazaar mela me chief guest; ceremonial. REJECT (sirf maujoodgi).
+// 8. SoO samapti maang, 34 MLAs memorandum (Ukhrul Times, 2023) — raajnaitik bayan/maang; vikas-kaam nahi. REJECT (sirf maang/prastav).
+// 9. Delhi yatra, 8+ BJP MLAs (Ukhrul Times, 05 Oct 2025) — raajnaitik daura; vikas-kaam nahi. REJECT.
+// 10. Election Petition No.23/2022 (Usham Deben Singh vs Md Fajur Rahim, Manipur HC order 14 Jun 2024) — chunav-yachika akeli NEGATIVE nahi; task-niyam ke anusaar ignore. REJECT (chunav-yachika).
+// 11. Mid-day NSA story (May 2021, BJP state VP Usham Deban Singh complaint) — pre-term (Mar 2022 se pehle), party-pad ki bhoomika, MLA-karyakaal se bahar. REJECT (pre-term).
+// 12. "Retaining wall repaired" (E-Pao, 2017; Wikipedia citation) — pre-term, 2007-2012 karyakaal se juda. REJECT (pre-term).
+// 13. Ex-MLA donation Rs 1.20 lakh to SWC Wabagai (The Sangai Express, Dec 2020) — pre-term, vyaktigat daan, vikas-kaam nahi. REJECT (pre-term + vyaktigat daan).
+
+manipurWorks['mayanglambam-rameshwar-singh'] = [
+  {
+    title: 'Pallel me asthayi Ima Keithel market shed ka lokarpan — CM ki Rs 10 crore swikriti ke baad MLA ne swayam lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express',
+    sourceUrl: 'https://www.thesangaiexpress.com/Encyc/2022/5/28/Our-CorrespondentKAKCHING-May-27-MLA-Rameshwar-inaugurated-a-newly-constructed-temporary-Ima-Ke.amp.html',
+    date: '2022-05-27',
+    note: 'MLA Mayanglambam Rameshwar ne 27 May 2022 ko Pallel me naya bana asthayi Ima Keithel market shed lokarpan kiya (mukhya atithi, Pallel Bazar Board Action Committee karyakram). MLA ne khud bataya ki CM N Biren Singh ne Pallel Ima Keithel nirman ke liye Rs 10 crore ki swikriti di hai, aur asthayi shed isliye banaya gaya taaki vendors ka dhanda nirman-daur me band na ho; shed Manipur Police Housing Corporation Ltd ke sahaare bana. Pallel Kakching jile me hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kakching me paver-block sadak nirman shuru — Moirangthem Leikai ke 3 tukdon par MLA ki pahal par kaam, nirikshan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=10..010226.feb26',
+    date: '2026-01-31',
+    note: 'The Sangai Express (e-pao par, 1 Feb 2026) ke mutabiq Kakching Moirangthem Leikai me Sekmainingthou Pareng, Langjingba Maning Pareng aur LP School Opposite Pareng ke 3 sadak-tukdon par paver-block nirman shuru hua, jo report me MLA ki pahal par chal raha hai. MLA ne 30 Jan 2026 ko sthal ka nirikshan kiya. Disclosure: fund-srot report me nahi diya gaya (sirf "MLA ki pahal par" likha hai), aur ye President Rule daur (13 Feb 2025 - 4 Feb 2026) ka samachar hai, lekin post-event reporting solid dastavezi srot hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (mayanglambam-rameshwar-singh)
+// 1. Excellent Academy inauguration, Kakching (Daily Imphal News/manipur-update) — private school ka karyakram, MLA sirf upasthit/atithi; sarkari lokarpan nahi.
+// 2. Wairi Ibudhou Khamlangba shrine shed inspection (Chronicle News Service, Jul 2021) — pre-term kaam, dharmik project.
+// 3. MoS Rural Development (Dr. Pemmasani) visit: Kakching Post Office inauguration (Northeast Today) — lokarpan mantri ne kiya, MLA sirf saath tha; presence-only.
+// 4. Union MoS Housing Tokhan Sahu visit PMAY-U houses, Kakching (e-pao, Jan 2026) — MLA saath me tha, apna lokarpan nahi.
+// 5. NRC updation demand press conference (indiatodayne, Aug 2026) — neetigat bayan, koi vikas-kaam nahi.
+// 6. New Year peace call (e-pao, Jan 2026) — bayan, kaam nahi.
+// 7. "Prepared to stake claim with Speaker as leader" (e-pao, Nov 2025) — rajnaitik bayan, vikas-kaam nahi.
+// 8. Keirao AC Imphal Ring Road compensation remark (Poknapham) — kshetra se bahar (Keirao), apne AC ka kaam nahi.
+// 9. NH-137A Rs 74.22 crore flagged off by CM Y. Khemchand (Northeast Now) — CM ka karyakram, Imphal West ka section; MLA ka vyaktigat lokarpan nahi.
+// Note: koi negative entry nahi — MLA ke khilaf FIR/case/adalaati-janch ki established reporting nahi mili (2017 chunav-yachika to unki apni jeet ki hai, akeli negative nahi).
+
+manipurWorks['dr-yumnam-radheshyam-singh'] = [
+  {
+    title: 'Tejpur me naya Community Hall ka lokarpan — do charano me MLALAD se bana, seat Hiyanglam ka kaam',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Imphal Times',
+    sourceUrl: 'https://www.imphaltimes.com/news/bjp-mla-yumnam-radheshyam-calls-for-formation-of-new-govt/',
+    date: '2025-11-01',
+    note: 'Tejpur me naya Community Hall, do charano me MLA Local Area Development Fund se banaya gaya, Dr Yumnam Radheshyam ne Hiyanglam AC ke MLA ke roop me khud lokarpan kiya. Imphal Times ki post-event report. Dr Radheshyam purane Shiksha Mantri hain (2017-2020), lekin ye kaam unhone MLA ke taur par apne MLALAD fund se karwaya — mantri-bhoomika se sambandhit nahi. Hiyanglam AC me Tejpur seat ke andar hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Elangkhangpokpi Government Aided High School me nayi Room-5 school building ka lokarpan — MLALAD se nirman',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Imphal Times',
+    sourceUrl: 'https://www.imphaltimes.com/news/mla-dr-y-radheshyam-inaugurates-school-building/',
+    date: '2025-06-07',
+    note: 'Elangkhangpokpi Government Aided High School me nayi bani Room-5 school building ka lokarpan Dr Radheshyam Yumnam ne Hiyanglam AC ke MLA ke roop me kiya. Nirman MLA Local Area Development Fund ke tahat hua tha, maksad chhatron ke liye behtar buniyaadi dhancha dena. Imphal Times ki post-event report. Dr Radheshyam purane Shiksha Mantri hain (2017-2020), lekin ye kaam unhone MLA ke taur par apne MLALAD fund se karwaya — mantri-bhoomika se sambandhit nahi. Seat ke andar ka kaam hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Lamjao Mayai Leikai me Public Library and Information Centre ke naye karyalaya ka lokarpan — MLALAD 2020-21 se nirman',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Manipur.org (Chronicle News Service)',
+    sourceUrl: 'http://www.manipur.org/news/2022/03/28/hiyanglam-mla-inaugurates-library-centre-2/',
+    date: '2022-03-28',
+    note: 'Lamjao Mayai Leikai me Public Library and Information Centre ke naye karyalaya ka lokarpan 28 Mar 2022 ko Dr Yumnam Radheshyam ne Hiyanglam MLA ke roop me kiya. Nirman unke MLALAD 2020-21 fund se hua tha — ye swayam unhi ka pichhle karyakaal ka MLA fund tha, is karyakaal (Mar 2022 se) me uska lokarpan hua. Chronicle News Service ki post-event report (manipur.org par uplabdh). Lokarpan isi karyakaal me hua, isliye entry li gayi. Dr Radheshyam purane Shiksha Mantri hain, lekin ye kaam MLA ke taur par hua — mantri-bhoomika se sambandhit nahi.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (dr-yumnam-radheshyam-singh)
+// 1. E-Pao "MLA Dr Th Radheshyam inaugurates community hall at Pechi" (14 Jan 2026, Sangai Express) — galat vyakti: ye Heirok AC ke MLA Dr Thokchom Radheshyam hain, Hiyanglam wale Dr Yumnam Radheshyam nahi.
+// 2. Poknapham "MLA vows fund aid to farmers, women, youth" — galat vyakti (Heirok ke Th Radheshyam) + sirf bhavishya ka wada "karenge", koi kaam nahi.
+// 3. Northeast Now "Manipur minister worried about educational stress on kids" (2019-era) — galat vyakti (Thokchom Radheshyam, Heirok) aur unki mantri-bhoomika wala article; Kakching Higher Secondary School ka uddhatan shiksha vibhag ke fund se hua tha — seat-se-bahar aur mantri-role, dono reject.
+// 4. New Indian Express "Decorated ex-cop quits as advisor to Manipur CM" — galat vyakti (Thokchom Radheshyam, Heirok), vikas-kaam nahi.
+// 5. Imphal Times "Head rolls among BJP legislators over new government formation" — sirf rajnaitik baithak, koi vikas-kaam nahi; vyakti bhi galat darj hua (Y. Radhesyam likha lekin Hiyanglam context wala article).
+// 6. Ukhrul Times (manipur.org) Christmas/New Year message — sirf bayan/shubhkamna, vikas-kaam nahi.
+// 7. CM Yumnam Khemchand ke Langthabal/Moirangpurel uddhatan — galat vyakti aur kshetra-se-bahar (Langthabal, Moirangpurel), MLA ki bhoomika nahi.
+// 8. E-Pao "Foundation stone for water supply project laid" (Jun 2026, Sagolband) — Sagolband ke MLA RK Imo ka kaam, dusre kshetra ka.
+// 9. ToI Gadkari 16 NH projects, Eastern Mirror CM Andro foundation stones — kendra/mantri/CM ke kaam, Hiyanglam seat ke MLA se sambandh nahi; sirf maujoodgi bhi na thi.
+// 10. Thangmeiband, Kh Joykisan road repairs — dusre MLA/dusra kshetra.
+// 11. Election-result pages (Oneindia, ABP) — sirf chunav natija, kaam nahi.
+// 12. Myneta affidavit pages — chunaav-halafnama data, vikas-kaam nahi.
+// 13. Onefivenine Hiyanglam page — constituency jankari, satyapit kaam ki report nahi.
+
+manipurWorks['kangujam-ranjit-singh'] = [
+  {
+    title: 'Wangoo Laipham Chithek Leikai me MLALAD se bane multipurpose hall ka udghatan MLA ne khud kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: "People's Chronicle",
+    sourceUrl: 'https://story.poknapham.in/posts/685f77e3836ac3deb7bd4258',
+    date: '2025-05-09',
+    note: 'Kangujam Ranjit Singh ne Sugnu AC ke Wangoo Laipham Chithek Leikai me naya multipurpose hall lokarpan kiya, jiska nirman unke MLA Local Area Development Fund (MLALAD) se hua tha; udghatan-samaroh me Wangoo Development Committee, Sugnu aur Kakching Khunou ke nagar-palika padadhikari aur sthaniya sangathan shamil hue. Khabar me seedhi tareekh nahi chhapi thi, lekin udghatan shukravaar ka bataya gaya hai aur story record 13 May 2025 ka hai, isliye tareekh 9 May 2025 li gayi hai. Disclosure: hall ka kharcha MLALAD ka hai, isliye ye MLA ke vyaktigat kaam ke roop me darj hai, rajya yojana ka nahin.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (kangujam-ranjit-singh)
+// 1. Serou me Chakpi nadi par Kacha Dam ka nirikshan (Feb 2024) — sirf nirikshan/daura tha, koi lokarpan, shilanyas ya swikriti nahi; niyam se reject.
+// 2. Teen water supply scheme sites ka nirikshan (May 2022) — sirf nirikshan, kaam ka koi stage (lokarpan/shilanyas/swikriti) report nahi hua; reject.
+// 3. Sugnu public ground me 9-a-side football tournament 'Eyumna Koure' ka opening ceremony (Apr 2025) — MLA event ke adhyaksh ke roop me maujood the; khel-samaroh ki maujoodgi vikas-kaam nahi; reject.
+// 4. Toofan-prabhavit parivaron ko Rs 3 lakh daan (Apr 2022) — vyaktigat rahat-daan hai, salary-daan/rahat-shivir ki tarah vyaktigat welfare vikas-kaam nahi; reject.
+// 5. IDP punarvas ki maang, sarkar par hinsa ko lekar aalochana, Deputy CLP pad se istifa (2025-26) — sab raajnaitik bayanbaazi ya pad-sambandhi mamla; vikas-kaam nahi; reject.
+// 6. Ghar jalaya jaana (May-Jun 2023, Serou Bazar) — MLA hinsa ke shikaar hue, unke khilaf koi aarop/FIR/adalaati sthiti report nahi hui; victim-hona negative entry nahi banti; koi negative entry nahi jodi.
+// 7. Chhatron ki shiksha-fees uthane ka aashvaasan (Apr 2025) — vyaktigat welfare-aashvaasan, vikas-kaam nahi; reject.
+
+// Coordinator QA note (Kakching, 15 Oct 2026): 4/4 fragments QA pass. Titles/notes 100% Roman-script Hinglish, 0 Devanagari/Meitei-Mayek, 0 Rs-symbol, 0 literal-\\n, entry objects me 0 comments (ranjit fragment se 3 inline scaffolding comments hataye; rameshwar entries me 'inaugurate' -> 'lokarpan' shabd sudhara). Radheshyam entry-1 ka sourceUrl coordinator ne khud kholkar verify kiya (Imphal Times 1 Nov 2025 — article ka headline 'new govt' par hai lekin body me Tejpur community hall lokarpan post-event report hai; URL sahi). Khaali: dr-usham-deben-singh. Negatives: 0. Pre-term/maang/maaujoodgi/raahat rejects sab reject-logs me.
