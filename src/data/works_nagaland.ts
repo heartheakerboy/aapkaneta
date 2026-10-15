@@ -804,3 +804,137 @@ nagalandWorks['namri-nchang'] = [];
 // ---- REJECT-LOG: Peren district batch (researched 2026-10-15) ----
 // t-r-zeliang (NPF, Peren — Dy CM 7 Mar 2023 se) — 2 entries (District Planning Office lokarpan 8 Jun 2026 + Kejanglwa Village Council Hall lokarpan 17 May 2025; dono me vyaktigat lokarpan + vibhag/srot ka poora disclosure). REJECTS (17): Axis Bank Jalukie (niji bank, sirf maujoodgi); ZBCC Baptist School Ngwalwa (niji church school + vision-ghoshna); Kohima-Pedi-Peren sadak BRTF review (Dy CM portfolio); Diunaki Foothills Road bridge (sirf maujoodgi); Inter-Dept Tournament (ceremonial); Vet College Jalukie block (Chouhan ne lokarpan kiya); Integrated Health Campaign (vibhag ka programme); NIMSR Kohima (Mandaviya; kshetra-bahar); NIoT Kohima (kshetra-bahar + vibhag-kaam); Tening Namsan school prastav (Zeliang ki seat nahi + sirf prastav); New Tesen 75th anniversary; ANCSU conference; Peren Treasury Office (Advisor ne lokarpan kiya); DPRO Peren office (Commissioner ne kiya); 50-bed hospital + GHSS Lighthouse shilanyas (Scindia/CM ne kiye); Naga rajnaitik bayan (niyamanusaar skip). Negative: koi nahi (Mar 2023 ke baad koi FIR/case/adalaati janch ki reporting nahi mili).
 // namri-nchang (NPF, Tening) — KHAALI (0). REJECTS: Yettrang KBAN school second-floor lokarpan (niji school, MLA ki vyaktigat bhoomika nahi); ADC Office + GHSS Tening block lokarpan (Advisor Khamo ne kiya, Namri guest of honour); Jadonang Boys Hostel (Governor ne lokarpan kiya); Forest Range Office shilanyas (mantri C.M. Chang ne rakha); Lighthouse School Complexes (CM ne shilanyas rakha); Peren Junction-Tening road meet (sirf prastav, MLA ka naam bhi nahi); DPDB baithaken (sansthaagat); sab pre-Mar-2023 kaam (GHSS 2021, CHC 2021, Town Hall 2022, ambulance 2020). Negative: koi nahi (affidavit me 0 cases; NCP anti-defection court-dhamki party-level, MLA par koi karyavahi nahi).
+
+
+
+
+// ---- Phek district batch (researched 2026-10-15) ----
+
+nagalandWorks['neisatuo-mero'] = [
+  {
+    title: 'DIET Pfutsero me Lurhu Girls Hostel ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/dr-neisatuo-inaugurates-girls-hostel-at-diet-pfutsero/',
+    date: '2023-08-31',
+    stage: 'lokarpan',
+    note: '31 August 2023 ko MLA Dr Neisatuo Mero ne DIET Pfutsero me Lurhu Girls Hostel ka lokarpan kiya. Shrey ka poora disclosure: article ke mutabik hostel ka vikas state sarkar ne kiya — MLA ne khud CM Neiphiu Rio ka dhanyavaad kiya ki unhone Pfutsero Assembly Constituency aur DIET ke vikas me ruchi li, aur Advisor School Education & SCERT ke keen interest ka bhi zikr kiya; zameen sthaniya zameen-malikon ne Government of Nagaland ko daan di thi. Fund-srot article me darj nahi; MLA ki dastavezi bhoomika lokarpan aur advocacy ki hai, nirmaan ka shrey unka nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'GHSS Pfutsero me Science Stream ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/mla-dr-neisatuo-mero-inaugurates-science-stream-61st-annual-sports-week-at-ghss-pfutsero/',
+    date: '2023-09-02',
+    stage: 'lokarpan',
+    note: '2 September 2023 ko MLA Dr Neisatuo Mero ne Government Higher Secondary School Pfutsero me Science Stream ka lokarpan kiya. Shrey ka poora disclosure: MLA ne khud kaha ki Science Stream Advisor School Education Dr Kekhrielhoulie Yhome ne shuru ki aur poorv mantri Neiba Kronu ne is disha me pehle pehal ki thi; CM Neiphiu Rio ka bhi shiksha ke prati commitment ke liye dhanyavaad diya. MLA ki dastavezi bhoomika lokarpan ki hai; stream ki shuruaat ka shrey article ke mutabik Advisor aur poorv mantri ko jata hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pfutsero me banana fibre skill training program ka shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/pfutsero-dr-mero-inaugurates-training-program-on-banana-fiber-extraction-and-handicrafts/',
+    date: '2023-11-16',
+    stage: 'lokarpan',
+    note: '16 November 2023 ko MLA Dr Neisatuo Mero ne Pfutsero me banana fibre extraction aur handicrafts par 15-din ke Entrepreneurship Skill Development Program ka shubharambh kiya. Shrey ka poora disclosure: program Ministry of Micro, Small and Medium Enterprises (Government of India) ne sponsor kiya tha, Chakhesang Mothers Association ne District Industries Centre Chozuba ke sahyog se aayojit kiya aur Nagaland Tools and Training Centre Dimapur partner tha; MLA ki dastavezi bhoomika program ke shubharambh aur trainees ko protsahan dene ki hai, fund ya aayojan ka shrey unka nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pfutsero me GA Rest House ka lokarpan',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/ADVISOR-KUDECHO-KHAMO-AND-MLA-DR-NEISATUO-MERO-INAUGURATE-GA-REST-HOUSE-IN-PFUTSERO',
+    date: '2024-11-19',
+    stage: 'lokarpan',
+    note: '19 November 2024 ko Pfutsero me GA Rest House ka lokarpan Advisor CAWD & Taxes Kudecho Khamo aur MLA Dr Neisatuo Mero ne sanyukt roop se kiya; poorv mantri Neiba Kronu bhi maujood the. Shrey ka poora disclosure: DIPR ka page sirf ek tasveer-caption hai — fund-srot, nirmaan agency aur MLA ki nirdeshit bhoomika usme darj nahi; lokarpan Advisor ke saath sanyukt tha, akela MLA ka karyakram nahi.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['k-g-kenye'] = [
+  {
+    title: 'Chizami me Pradhan Mantri Vandhan Yojana ka launch aur 4 VDVK clusters ko tools/upkaran ka vitaran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/rural-economy-key-to-nagalands-future-says-kg-kenye',
+    date: '2025-11-17',
+    stage: 'lokarpan',
+    note: '17 Nov 2025 ko Chizami gaon me Mantri aur Chizami MLA K. G. Kenye ne Pradhan Mantri Vandhan Yojana (PMVDY) launch ki aur Kezuwe, Letshe, Kepolu aur Khomi Vandhan Vikas Kendra (VDVK) clusters ke labharthiyon ko tools aur upkaran vitarit kiye. Shrey ka poora disclosure: yeh kendriya yojana hai — sponser TRIFED, Union Ministry of Tribal Affairs; ayojan Nagaland Beekeeping and Honey Mission (NBHM) ne kiya; Kenye ki asal bhoomika sthaniya star par launch aur vitaran thi, fund-srot MLA-nidhi nahi thi.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['kudecho-khamo'] = [
+  {
+    title: 'Chozu Basa me mukhya water reservoir aur water supply ka lokarpan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/index.php/2023/11/17/kudecho-khamo-inaugurates-water-supply-project-at-chozu-basa-village/',
+    date: '2023-11-16',
+    stage: 'lokarpan',
+    note: '16 November 2023 ko MLA Kudecho Khamo ne Phek jile ke Chozu Basa gaon me mukhya water reservoir aur water supply ka lokarpan kiya; karyakram me WATSAN chairman ne JJM project par briefing di. Shrey ka poora disclosure: ye Jal Jeevan Mission (JJM) yojna ka kaam hai, water tank aur supply system gaon ne khud banwaya, MLA ki bhoomika lokarpan-atithi ki thi; article me MLALADS/LADP ka koi jikr nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chetheba me LADP Iconic Project futsal court ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'http://easternmirrornagaland.com/kudecho-khamo-inaugurates-ladp-iconic-futsal-court-in-chetheba',
+    date: '2026-07-11',
+    stage: 'lokarpan',
+    note: '11 July 2026 ko MLA Kudecho Khamo ne Phek jile ke Chetheba me naya futsal court ka lokarpan kiya; CEO Nagaland ke polling-station record ke mutabik Chetheba 18-Chozuba Assembly Constituency me aata hai. Shrey ka poora disclosure: fund-srot MLA Local Area Development Programme (LADP) Iconic Project hai, zameen sthaniya bhuswamiyon ne daan ki, MLA ne lokarpan kiya.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['kuzholuzo-nienu'] = [
+  {
+    title: 'Phek gaon ke community cemetery ka lokarpan (Kalozi)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/phek-village-community-cemetery-inaugurated',
+    date: '2026-06-12',
+    stage: 'lokarpan',
+    note: '12 June 2026 ko MLA Kuzholuzo (Azo) Nienu ne Phek gaon ke community cemetery ka Kalozi me lokarpan kiya. Morung Express ke anusaar ye cemetery MLA ki pahal par Phek Village Council aur anya samajik sangathanon ke sahyog se bani thi. Shrey ka poora disclosure: MLA ki bhoomika pahal aur lokarpan me darj hai, lekin nirmaan kharch ka srot report me spasht nahi bataya gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khuza-Mutsale gaonon ke beech boundary stone ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/mla-kuzholuzo-nienu-inaugurates-boundary-stone-between-khuza-mutsale-villages',
+    date: '2026-02-26',
+    stage: 'lokarpan',
+    note: '26 Feb 2026 ko MLA Kuzholuzo (Azo) Nienu ne Phek jile me Khuza aur Mutsale gaonon ke beech boundary stone ka lokarpan kiya, jo 96 saal purane zameen-vivaad ke samadhan ka prateek hai. Shrey ka poora disclosure: vivaad ka asal samjhauta 29 Apr 2021 ko hua tha (pichhle karyakaal), jisme stone par unki goodwill initiatives ka ullekh hai; is karyakaal (2023-2028) me unki darj bhoomika 2026 me stone ke lokarpan ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Phek HQ ke Bethany-II Ward me welcome gate ka lokarpan',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'DIPR Nagaland',
+    sourceUrl: 'https://ipr.nagaland.gov.in/index.php/MLA-KUZHOLUZHU-NIENU-INAUGURATES-WELCOME-GATE-AT-BETHANY-II-WARD%2C-PHEK-HQ',
+    date: '2026-01-07',
+    stage: 'lokarpan',
+    note: '7 Jan 2026 ko MLA Kuzholuzo (Azo) Nienu ne Phek HQ ke Bethany-II Ward ke welcome gate ka lokarpan kiya. Sarkari press release ke anusaar gate LADF 2025-2026 scheme ke tahat bana tha. Poora disclosure: srot Nagaland sarkaar ka apna press release (DIPR) hai, isliye swatantra media coverage uplabdh nahi; article me MLA ki bhoomika lokarpan-karta ke roop me darj hai aur fund-srot LADF 2025-26 bataya gaya.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG: Phek district batch ----
+// neisatuo-mero (IND, Pfutsero) — 4 entries. REJECTS (11): Pfutsero Govt College blocks lokarpan (4 Jun 2026) — mantri ne kiya, MLA sirf "in presence"; Swachhata Hi Seva 2025 — safai abhiyan, koi physical kaam nahi; Pfutseromi community hall (24 Apr 2026) — Tribal Affairs ka bana, Advisor ne lokarpan kiya; PGC advisory board — maujoodgi matra; Phek DPDB town road schemes "submit" — sirf maang; Assembly speeches (ILP, Governor's address) — bhashan; KTSA sports meet / PTC chunav / CSU conference — maujoodgi/bhashan; Independence Day 2023 police-station CCTV — DIPR page fetch fail, snippet se entry nahi. Negative: koi nahi (affidavit 0 cases).
+// k-g-kenye (NPF, Chizami — mantri) — 1 entry (QA: stage 'vitaran' -> 'lokarpan' sudhara). REJECTS (15): Ponglefo 1MW SHP (Kiphire) + Duilumroi 2.4MW HEP (Peren) — mantri-vibhag rajya-kaam; CPO building Phek town — seat bahar; NPF event/FNTA bayan — rajnaitik; DPDB prastav; Tsiikhenye/CYF maujoodgi; cabinet-appointment badhai; Assembly LADF bhashan; Pfutsero-Chilo PMGSY road press-statement "supporting the project" — kamzor attribution; CHC Chizami 2021/mini-hydro pre-period; chief-whip pad. Negative: koi nahi.
+// kudecho-khamo (NPF, Chozuba — Advisor) — 2 entries (Chetheba seat-identity CEO Nagaland polling list se pakki). REJECTS (14): Akuluto ADC complex / Dimapur DC office / Kohima Thipuzumi building / GHS Rukizu — seat bahar ya state-role; Chozuba Khuhu — dusre ne banwaya, MLA bhoomika nahi; SBI Chetheba — bank kaam; LADP vitran baithak — ghoshna; DPDB sifarishein — maang; Village Fair — event; Khutsami monolith — dharmik; DPDB/thanksgiving appeals — maujoodgi/bayan; sadak-janch maang — maang. NOTED: 2 Nagaland Tribune school lokarpan (GHS Japan Riba Mar 2024, GPS Phusachodu Aug 2024) source-list ke bahar hone se reject — parent chahe to baad me jod sakta hai (dusre batches me Nagaland Tribune entries live hain, policy-spashtata ke liye parent dekhe). Negative: koi nahi (affidavit 0 cases).
+// kuzholuzo-nienu (NPF, Phek) — 3 entries (boundary stone: asal samjhauta 2021 pre-term — entry sirf 2026 ke lokarpan ki bhoomika par). REJECTS (16): Soil Testing Lab 2022 / monolith 2021 / Republic Day 2022 / oxygen plant — pre-term; Phek College block (mantri ne lokarpan kiya); Observation Home (Commissioner ne kiya); GHSS Lighthouse shilanyas (CM ne rakha) — sab maujoodgi/bhoomika-nahi; Town Council kaam / residents sadak — kamzor attribution; ceasefire/Naga issue/ILP bayan — rajnaitik; tournament udghatan — event; NPF oath — party; YouTube-only rahat — source+parivar; samman-samaroh; DPDB; Foothill Road bayan — karenge.
+// Coordinator QA note: charon worker fragments kholkar padhe; ek invalid stage ('vitaran') 'lokarpan' kiya; hygiene Python-verified (sirf ASCII + established em-dash style, 0 Devanagari/Meitei Mayek, 0 ₹-symbol, 0 literal-\n; entry objects me 0 comments); marker exactly 1x; charon slugs append se pehle file me absent the — koi overwrite nahi. Push/deploy nahi kiya (parent karega).
