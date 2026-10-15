@@ -202,3 +202,247 @@ manipurWorks['thangjam-arunkumar'] = [
 // thokchom-satyabrata-singh (BJP, Yaiskul AC-14) — 1 entry (sadak rigid-pavement orders dawa, badge dawa). COORDINATOR OVERRIDE: mandav lokarpan (Hiruhanba Leikai, Jun 2025) REJECT — dharmik/community ceremonial structure (Govindas mandir precedent), MLALAD-hone se ceremonial niyam nahi badalta. Speaker-form items (YAC building, fertility clinic, UNACCO school) sab reject — Speaker sansthaagat bhoomika. 2021-2022 ADR 'no criminal cases' — negative nahi.
 // thangjam-arunkumar (BJP, Wangkhei AC-15; 2022 me JD(U), baad me BJP) — 4 entries (7 jalashay dawa; School Fagathansi pahal dawa; rigid pavement ongoing Feb 2026; retaining walls Feb 2026). COORDINATOR OVERRIDE: worker ki 2 entries REJECT — Khurai Ahongei hanging bridge + Eastern Educational Club varanda Khurai AC me hain (Wangkhei-bahar; unke hi fellow-fragment ne Rameshwor ke liye yehi pattern reject kiya tha). Baaki rejects theek: CM Eye Hospital udghatan me maujoodgi, election petition akeli negative nahi, detox camp doosri sanstha ka.
 // Coordinator QA note: 9 worker fragments + 1 coordinator-researched MLA (Lokeshwar); 8 entries worker-overrides se reject (Biren negative; Rameshwor x5; Shyamkumar x5; Satyabrata mandav; Arunkumar x2; Ibomcha community-hall; Susindro Cheng-Card dawa). Sab entries Roman Hinglish, koi English title/note nahi. President's Rule (13 Feb 2025 – 4 Feb 2026) ke daur ki koi entry bina dastavezi srot ke nahi rakhi; Biren ke hinsa-kaale ke rajnaitik aaropon par FIR/court-record rule sakhti se lagaya gaya. Sabhi 10 slugs append se pehle file me absent the (koi overwrite nahi).
+
+// ---- Imphal West district batch (researched 2026-10-15) ----
+
+manipurWorks['khumukcham-joykisan-singh'] = [
+  {
+    title: 'Langol Tarung Urban Primary Health Centre ke naye bhawan ka shilanyas MLA Kh Joykisan ne kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=12..260126.jan26',
+    date: '2026-01-25',
+    note: 'Langol Tarung Urban Primary Health Centre ke naye bhawan ke shilanyas 25 Jan 2026 ko Thangmeiband MLA Kh Joykisan ne kiye (The Sangai Express reporting, e-pao par punah-prakashit); isi samaroh me Nagamapal Youth Development Club ke karyalaya bhawan (Ground+1) ka bhi shilanyas hua. UPHC ek sarkari swasthya suvidha hai aur report ke mutabik wahan roz 100 se zyada marij aate hain. Report me spasht hai ki nirman tender prakriya poori hone ke BAAD shuru hona tha, yaani shilanyas ke samay kaam shuru nahi hua tha. Nirman ke fund ka srot report me nahi diya gaya — MLALAD ya koi sarkari yojna, iski pushti nahi hui. Savdhani: shilanyas President Rule ke daur (Feb 2025 - Feb 2026) me hua, jab MLAon ki karyakari bhoomika seemit thi; ye entry ghatna ke baad ki established-media reporting par aadharit hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['khwairakpam-raghumani-singh'] = [
+  {
+    title: 'Wangdei Primary School, Langol ka lokarpan MLA Khwairakpam Raghumani Singh ne kiya (SSA-nirman, Uripok AC)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express',
+    sourceUrl: 'https://www.thesangaiexpress.com/Encyc/2022/5/30/By-Our-Staff-ReporterIMPHAL-May-29-MLA-of-Uripok-Assembly-Constituency-Khwairakpam-Raghumani-ap.amp.html',
+    date: '2022-05-29',
+    note: '29 May 2022 ko Uripok AC ke MLA Khwairakpam Raghumani Singh Wangdei Primary School (Wangdei Meetei Leikai, Langol) ke udghatan samaroh me mukhya atithi ke roop me shamil hue aur poori bani school ka lokarpan kiya; school ka nirman Samagra Shiksha Abhiyan (SSA) ke tahat samudayik sangathon (CSOs) ke sahyog se hua tha aur ZEO Zone-I bhi karyakram ke sanyukt aayojakon me tha (The Sangai Express, 30 May 2022). Fund ka srot SSA sarkari yojna hai, MLA nidhi nahi; report ne nirmaan ka asal shrey CSOs ko diya hai — MLA ki dastavezi bhoomika taiyaar suvidha ka lokarpan hai. Karyakaal 2022-2027 ke shuruati daur ka post-event udghatan.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['rajkumar-imo-singh'] = [
+  {
+    title: 'Wahengbam Leikai Multipurpose Hall aur Govt Junior High School ki nayi building ka lokarpan MLA RK Imo Singh ne kiya (22 Mar 2026)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=17..230326.mar26',
+    date: '2026-03-22',
+    note: 'Wahengbam Leikai ka naya Multipurpose Hall aur Government Junior High School ki nayi imarat — kul Rs 1.40 crore ki lagat par bani — ka lokarpan 22 Mar 2026 ko Sagolband AC ke MLA RK Imo Singh ne kiya (The Sangai Express reporting). Fund ka srot: Sarkari grant Rs 60 lakh + MLA Local Area Development Fund (MLALAD) Rs 80 lakh; neeche community hall aur upar classrooms hain, jo purani jharjhar imarat ki jagah bani hai. MLA ki dastavezi bhoomika poori imarat ka lokarpan hai; fund ka mishran (sarkari + MLALAD) report me darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Keishamthong Khul Community Hall ke renovation ka completion samaroh — MLALAD Rs 5.5 lakh (21 Mar 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=17..230326.mar26',
+    date: '2026-03-21',
+    note: 'Keishamthong Khul Community Hall ki marammat — purani CGI sheets ki jagah naye durable roofing sheets lagana — ka completion samaroh 21 Mar 2026 ko MLA RK Imo Singh ne kiya, lagat lagbhag Rs 5.5 lakh MLALAD ke tahat (The Sangai Express reporting). Kaam poora hua aur lokarpan ki report maujud hai, isliye poorn-kaam ke roop me darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Shree Shree Radha Govinda Pao, Sega Road Takhellambam Leikai ka lokarpan (20 Mar 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=17..230326.mar26',
+    date: '2026-03-20',
+    note: 'Sega Road Takhellambam Leikai me Shree Shree Radha Govinda Pao (mandir) — lagbhag Rs 4.3 lakh ki lagat par poora — ka lokarpan 20 Mar 2026 ko MLA RK Imo Singh ne kiya (The Sangai Express reporting). Fund ka srot report me darj nahi hai, isliye fund-disclosure ek savdhani ke saath di ja rahi hai; lokarpan ki ghatna aur lagat darj hain.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Lainingthou Khamlangba Complex, Moirang Leirak ka renovation/beautification lokarpan — LAD Rs 35 lakh (30 Aug 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=22..310826.aug26',
+    date: '2026-08-30',
+    note: 'Moirang Leirak sthit Lainingthou Khamlangba Complex me poore hue beautification aur renovation kaam — lagbhag Rs 35 lakh ki lagat Local Area Development Fund (MLALAD) ke tahat — ka lokarpan 30 Aug 2026 ko MLA RK Imo Singh ne kiya (The Sangai Express reporting). Kaam me Dyna roofing lagana, Community Hall ka flooring aur toilet shed ka nirman shamil hai; isi parisar me pehle Sagolband United Club ke liye G+2 building bhi ban chuki hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Panjikhanbam Kollup Pukhri ki retaining wall aur beautification ka lokarpan — Wahengbam Leikai (27 Aug 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'E-Pao',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=20..280826.aug26',
+    date: '2026-08-27',
+    note: 'Panjikhanbam Kollup, Wahengbam Yumjao Lairembi Awang (Wahengbam Leikai) me Panjikhanbam Kollup Pukhri ki retaining wall, Uraobam Sagei ke Luwang Apokpa Laishang ka beautification aur cemented sadak ka hissa — poora kaam — ka aupcharik lokarpan 27 Aug 2026 ko MLA RK Imo Singh ne kiya, local elders aur corporators ki maujudgi me. Fund ka srot report me darj nahi hai, isliye fund-disclosure ek savdhani ke saath di ja rahi hai; kaam ilake ki maang par liya gaya tha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kwakeithel Thounaojam Leikai me naya Mandop (hall) ka lokarpan — LAD Rs 29 lakh (4 Sep 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express',
+    sourceUrl: 'https://www.thesangaiexpress.com/Encyc/2026/9/4/imphal-sep-4-on-the-occasion-of-janmashtami-sagolband-ac-mla-rk-imo-singh-inaugurated-a-newly-constructed-mand.html',
+    date: '2026-09-04',
+    note: 'Kwakeithel Thounaojam Leikai me naya Mandop (community hall) — lagbhag Rs 29 lakh ki lagat Local Area Development Fund ke tahat — ka lokarpan 4 Sep 2026 (Janmashtami) ko MLA RK Imo Singh ne kiya (The Sangai Express reporting). Report ke anusar Amudon, Salam Leikai aur Thangjam Leirak me aise hi Mandop pehle banaye gaye the; is karyakram me pehle baney hua Mandops ka poora hona report me darj hai, lekin unke alag lokarpan ki report nahi mili, isliye unhe alag entry nahi banaya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Leirenjam Leirak Keli Makhong Community Hall ke renovation/extension ka lokarpan (4 Oct 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'E-Pao',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=21..051026.oct26',
+    date: '2026-10-04',
+    note: 'Sagolband Leirenjam Leirak Keli Makhong ke Community Hall — lagbhag ek dashak pehle ilake ko saupa gaya tha — ke naye roop (vistaar, kitchen shed, floor tiles) ka lokarpan 4 Oct 2026 ko MLA RK Imo Singh ne kiya; hall me pehle se lagaya gaya solar power system local club aur street lamps ko bhi bijli deta hai. Fund ka srot report me darj nahi hai, isliye fund-disclosure ek savdhani ke saath di ja rahi hai. Isi samaroh me MLA ne kaha ki Sagolband Tera me naya overhead water reservoir commission ho chuka hai aur Leirenjam Leirak, Keli Makhong, Amudon, Bijoy Govinda me sadkon ka blacktopping aur Bijoy Govinda Thangapat ka beautification poora ho gaya hai — ye MLA ke bayan par aadharit daave hain, inke alag dastavej nahi mile, isliye inhe alag entries nahi banaya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bijoy Govinda me AMRUT 2.0 ke tahat overhead tank aur emergency service reservoir ka shilanyas (2 Jun 2026)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=21..030626.jun26',
+    date: '2026-06-02',
+    note: 'Bijoy Govinda (Sagolband AC) me 24 ghante peene ka paani dene ke liye overhead tank aur emergency service reservoir ka shilanyas 2 Jun 2026 ko MLA RK Imo Singh ne rakha (The Sangai Express reporting). Fund-yojna: AMRUT 2.0 ka water supply pilot project — Manipur me is yojna ke 2 sthal chune gaye, jinme Bijoy Govinda ek hai; kriyanvayan PHE Department karega. Isliye shrey mukhya roop se AMRUT 2.0 (kendra sarkari yojna) aur PHE Department ka hai; MLA ki dastavezi bhoomika shilanyas karna hai. Isi report me ye bhi darj hai ki Water ATM project ke tahat Manipur ko 20 units swikrit hui, jinme Sagolband AC ko 2 mili (Sagolband Meino Leirak aur Kwakeithel Leimakhujam Leikai).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sagolband Thangjam Leirak me naye Radha Mandap (hall) ka shilanyas (20 Feb 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=21..210226.feb26',
+    date: '2026-02-20',
+    note: 'Sagolband Thangjam Leirak me naye Radha Mandap (community hall) ka shilanyas 20 Feb 2026 ko MLA RK Imo Singh ne rakha (The Sangai Express reporting; MLA karyalaya ki release ke anusar). Purana hall jharjhar ho chuka tha; naya hall dharmik karyakramon, sanskritik pradarshanon aur samudayik baithkon ke liye hai. Fund ka srot report me darj nahi hai. Report ke anusar ye Imo ke tahat teesra Radha Mandap hai; Amudon aur Salam Leikai ke Mandop pichle saal (2025, President Rule daur) lokarpit hue bataye gaye, lekin unki inauguration ki independent report nahi mili, isliye unhe alag entry nahi banaya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sagolband Nepra Menjor Leikai me naye Urban Primary Health Centre ka lokarpan (27 Dec 2025)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=5..281225.dec25',
+    date: '2025-12-27',
+    note: 'Sagolband Nepra Menjor Leikai me naya Urban Primary Health Centre (UPHC) ka lokarpan 27 Dec 2025 ko MLA RK Imo Singh ne kiya (The Sangai Express reporting). UPHC sarkari swasthya-suvidha hai — nirman aur funding vibhagiya/sarkari hai, MLA fund nahi; MLA ki dastavezi bhoomika poori suvidha ka lokarpan hai. Savdhani: lokarpan President Rule ke daur (Feb 2025 - Feb 2026) me hua, lekin lokarpan ki ghatna report me darj hai; nirman ka karyakal report me nahi diya gaya.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['sapam-nishikant-singh'] = [
+  {
+    title: 'Kwakeithel Akham Leikai Singlup community hall ke navikarno ka MLA Nishikant Singh Sapam ne lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=3..170626.jun26',
+    date: '2026-06-16',
+    note: '16 Jun 2026 ko Keishamthong AC MLA Nishikant Singh Sapam ne Kwakeithel Akham Leikai Singlup Community Hall ke poori tarah navikaran-kaam ko localite ko saunpa; navikarno me tile flooring, nayi diwaron ka nirman, painting, waiting shed aur ceiling fans lagaye gaye (Sangai Express reporting, e-pao ne asal lekh kholkar padha). Report me fund-srot "Local Area Development Fund" bataya gaya hai. Dhyaan dein: MLA ne 2022 chunav ke daur me LAD fund na lene ki ghoshna ki thi, lekin is report me fund-srot aise hi darj hai — article jaisa hai waisa note kiya gaya hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['yumnam-khemchand-singh'] = [
+  {
+    title: 'Singjamei Chingamakha me Chinga Keithel (street vendor market shed) ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Chronicle News Service (via story.poknapham.in)',
+    sourceUrl: 'https://story.poknapham.in/posts/670a9726bf9701df71a9fb5b',
+    date: '2023-12-29',
+    note: 'Singjamei Chingamakha me Chinga Keithel — 100x20 feet ka market shed jisme 56 street vendors ko vending jagah milegi — ka lokarpan MAHUD mantri Y Khemchand Singh ne kiya, jo us samay Singjamei ke MLA bhi the (Chronicle News Service reporting). MAHUD Commissioner M Joy ke anusar ye shed Deen Dayal Antyodaya Yojana-National Urban Livelihood Mission (NULM) ke Support to Urban Street Vendors Programme ke tahat bana; plan 13 Dec 2023 ko shuru hua, anumaanit laagat Rs 1 crore se zyada aur fund do baar swikrit hua. Commissioner ne ise MAHUD mantri aur local MLA dono ki keen initiate ka parinaam bataya — dono bhoomikayen swayam Khemchand ki hain, isliye shrey MAHUD vibhag (sarkari NULM fund, MLA nidhi nahi) aur unki vyaktigat pahal ke beech saajha hai. Savdhani: story me inauguration sirf Friday bataya gaya hai aur page ka last-updated lagbhag Dec 2023 ke aas-paas hai, isliye date 29 Dec 2023 anumaanit hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['heikham-dingo-singh'] = [
+  {
+    title: 'Khurkhul Lamkhai me Luwanglei nadi par naya RCC pul ka lokarpan MLA Heikham Dingo Singh ne kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=23..150526.may26',
+    date: '2026-05-14',
+    note: 'Luwanglei nadi par Khurkhul Lamkhai me bana 22 feet chauda RCC pul 70 din me poora hua aur 14 May 2026 ko Sekmai MLA Heikham Dingo Singh ne uska lokarpan kiya (The Sangai Express reporting). Pul Lamsang-Uripok ko National Sports University kshetra se jodta hai. Lokarpan samaroh me Khurkhul Nupi Lup, PWD ke Executive Engineer aur adhikari, thekedar aur Khurkhul GP prashasnik samiti ke sadasya maujud the. Disclosure: nirman PWD ke madhyam se hua (vibhagiya adhikari/thekedar maujud the), lekin report me fund-yojna ka naam nahi diya gaya; MLA ki dastavezi bhoomika bane hue pul ka lokarpan hai. Lokarpan President Rule samapt hone (4 Feb 2026) aur mantri-karyakaal samapt hone (Feb 2025) ke baad ka hai, isliye ye seat-stariya kaam ke roop me yogya hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Phumlou Keiroi Maning Leikai me naye samudayik bhavan (community hall) ka lokarpan MLA Heikham Dingo Singh ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=27..100326.mar26',
+    date: '2026-03-09',
+    note: 'Phumlou Keiroi Maning Leikai me naye community hall ka lokarpan 9 March 2026 ko Sekmai MLA H Dingo Singh ne kiya (The Sangai Express reporting). MLA ne hall ke nirman ka shrey gaonvasiyon ki ekta ko diya; report me koi sarkari fund-yojna ya MLALAD ka ullekh nahi hai, isliye fund-srot spasht roop se ghoshit nahi hai. Lokarpan President Rule samapt hone (4 Feb 2026) aur mantri-karyakaal samapt hone (Feb 2025) ke baad ka hai, isliye ye seat-stariya kaam ke roop me yogya hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['sorokhaibam-rajen-singh'] = [
+  {
+    title: 'Salam me DIET bhawan ka lokarpan — CM ne Imphal West ke sabhi kshetron me se Lamsang me kendra lane ke liye MLA Sorokhaibam Rajen Singh ke prayason ko sweekara',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The People\u2019s Chronicle (Poknapham)',
+    sourceUrl: 'https://story.poknapham.in/posts/6a64639951895235cc789a14',
+    date: '2026-07-24',
+    note: 'Salam gaon, Imphal West (Lamsang AC) me District Institute of Education and Training (DIET) ka naya bhawan 24 July 2026 ko Mukhyamantri Yumnam Khemchand Singh ne lokarpit kiya (Chronicle News Service reporting). CM ne khud sweekara ki Imphal West ke sabhi kshetron me se DIET kendra Salam me sthapit karane me sthaniya MLA Sorokhaibam Rajen Singh ke prayas the, aur Lamsang me chal rahe vikas-karyon ki pragati ka shrey bhi unhi ke prayason ko diya. Fund ka srot: Kendriya Shiksha Mantralaya dwara Samagra Shiksha (Teacher Education) yojna ke tahat swikrit Rs 4.47 crore, nishpadan Shiksha Engineering Wing ne kiya; MLALAD fund ka koi ullekh report me nahi hai. Stage-sach: lokarpan CM ne kiya, MLA ki dastavezi bhoomika Salam me kendra lane ke prayas aur karyakram me upasthiti hai. MLA ne yeh bhi bataya ki Salam Mamang Leikai me paanch acre par bana sansthan aur Maning Leikai me lagbhag 90 pratishat poora hostel 2026-27 academic session se kendra ko chalane ki taiyari me hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['dr-sapam-ranjan-singh'] = [
+  { title: 'Konthoujam AC me 14 Anganwadi kendron ka lokarpan (15 May 2022)', category: 'Any', badge: 'news', sourceLabel: 'The Sangai Express (via E-Pao)', sourceUrl: 'https://e-pao.net/ge.asp?heading=14&src=160522', date: '2022-05-15', note: 'Konthoujam Kangjeibung community hall me hue karyakram me Social Welfare mantri Heikham Dingo Singh ne Health aur IPR mantri Dr Sapam Ranjan Singh ke saath milkar Konthoujam AC ke 14 navy-nirmit Anganwadi kendron ka lokarpan kiya. Kendron ka nirmaan Social Welfare Department ke tahat hua tha — fund-srot article me darj nahi; asal shrey vibhag ko hai, aur MLA ne apni seat ke vidhayak (tatha us samay swasthya mantri) ke roop me saha-udghatan kiya. Stage: lokarpan poora.', period: '2022-2027' },
+];
+
+manipurWorks['sapam-kunjakeswor-keba-singh'] = [
+  {
+    title: 'Patsoi ki sab sadken blacktop karne ka dawa (March 2026) — MLA ne kaha 80 percent kaam ho chuka hai',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=5..020326.mar26',
+    date: '2026-03-01',
+    note: 'Patsoi AC ke MLA Sapam Kunjakeswor (Keba) Singh ne 1 March 2026 ko ghoshna ki ki unke kshetra ki sab sadken isi mahine blacktop ho jayengi; ye bayan unhone Tera Lukram Leirak se Tiddim Road tak 2.6 km wale road development project ke nirikshan ke dauran media se baat karte hue diya, jo project Keystone Private Limited bana rahi hai. MLA ka dawa tha ki Patsoi ki lagbhag 80 percent sadken pehle hi blacktop ho chuki hain aur baaki kaam Mukhyamantri Y. Khemchand ki nayi sarkar ke tahat jaari hai. Stage-sach: ye sirf ghoshna/dawa hai — kaam poora hone ya kisi GO/sanction order ki swatantra pushti nahi mili, isliye badge dawa. Ye President Rule (13 Feb 2025 - 4 Feb 2026) ke khatam hone ke baad ka bayan hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['karam-shyam'] = [
+  {
+    title: 'Langthabal Kunja Moirang Subedar Lampak me MLALAD se bani community hall ka lokarpan MLA Karam Shyam ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express (via e-pao)',
+    sourceUrl: 'https://e-pao.net/GP.asp?src=26..150326.mar26',
+    date: '2026-03-13',
+    note: 'Langthabal Kunja Moirang Subedar Lampak ke Lai Haraobung me bani nayi community hall ka lokarpan 13 March 2026 ko Langthabal MLA Karam Shyam ne mukhya atithi ke roop me kiya (The Sangai Express reporting, 14 Mar 2026). Disclosure: hall MLA ke Local Area Development Fund se bana hai; MLA ne bataya ki ye lagbhag 40 vikas-structures (community halls, youth clubs) me se ek hai jo unhone poore karke janta ko saunpe, aur nirman ka kaam thekedari se nahi balki sambandhit polling station committees ko saunpa gaya tha. Lokarpan President Rule samapt hone (4 Feb 2026) ke baad ka hai, isliye ye seat-stariya kaam ke roop me yogya hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['sagolshem-kebi-devi'] = [];
+
+manipurWorks['khuraijam-loken-singh'] = [
+  {
+    title: 'Irom Meijrao Mamang Leikai me Irom Meijrao Apunba Open Gym ka lokarpan Wangoi MLA Khuraijam Loken ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Sangai Express',
+    sourceUrl: 'https://www.thesangaiexpress.com/Encyc/2025/10/28/by-our-staff-reporter-imphal-oct-27-highlighting-the-states-appalling-economic-condition-and-the-failure-of-th.html',
+    date: '2025-10-27',
+    note: 'Irom Meijrao Mamang Leikai (Wangoi AC) me Irom Meijrao Apunba Open Gym ka lokarpan 27 Oct 2025 ko Wangoi MLA Khuraijam Loken ne kiya (The Sangai Express, staff-reporter reporting, 28 Oct 2025; tithi MLA ke swayam-prakashit karyakram-sandesh se bhi pusht). Karyakram Ibudhou Meijrao Lakpa Seva Committee ne aayojit kiya tha aur SDO Wangoi Maibam Suranjoy Singh bhi maujood the. MLA ne usi samaroh me kaha ki Wangoi AC me kul 17 open gym nirmanadheen hain. Fund ka srot report me nahi diya gaya; MLA ki dastavezi bhoomika poori bani suvidha ka lokarpan hai, builder-committee samudayik hai. Dhyaan dein: lokarpan President Rule ke daur (Feb 2025 - Feb 2026) me hua, jab MLAon ki karyakari bhoomika seemit thi; lekin Sangai Express ki post-event reporting pakka dastavezi srot hai, isliye entry bani hai.',
+    period: '2022-2027',
+  },
+];
+
+manipurWorks['kongkham-robindro-singh'] = [];
+
+// REJECT-LOG (Imphal West district — research 15 Oct 2026)
+// (per-MLA reject logs fragment files me darj hain: ~/workspace/aapkaneta_scratch/imphalwest_<slug>.ts)
+// Coordinator QA note: 13/13 fragments QA pass (script-check, category/badge/period sets, no literal-\n, full assignment re-extract — Imo ki 10 entries me se koi note-truncation nahi). Heikham Dingo 2022-2025 tak Biren cabinet me mantri the (task premise sudhara gaya) — unki 2 entries Feb 2026+ seat-level isliye pass. President's Rule (Feb 2025-Feb 2026) daur ki 3 entries (Joykisan UPHC shilanyas Jan 2026, Loken open-gym Oct 2025, Imo UPHC lokarpan Dec 2025) sirf Sangai Express post-event reporting ke aadhar par caveat-note ke saath rakhi gayi (Kumbi precedent). Keba ki Patsoi road entry stage dawa (badge dawa, poornata ki pushti nahi). Retry leads: manipurtoday.in MLALAD hall (Robindro), Imphal Times Meira Shanglen (Imo), 2022-23 Nishikant projects, X-post 3 shilanyas (Ranjan), AMRUT commissioning khabar (Imo). ECI par Wangoi = 22-Wangoi AC (task me 39 likha tha).
