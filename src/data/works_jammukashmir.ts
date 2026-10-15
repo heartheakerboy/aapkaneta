@@ -821,3 +821,58 @@ jammuKashmirWorks['shabir-ahmad-kullay'] = [
     period: '2024-2029',
   },
 ];
+
+
+// ---- Kulgam district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - dh-pora (Sakeena Masood/Itoo, JKNC — cabinet mantri): 4 entries rakhi (mantri-framing wale seat-vishesh vyaktigat lokarpan/shilanyas — Baramulla ke Dar-precedent par, credit-transparency notes sahit). REJECT — SDH D.H. Pora Rs 11cr + PHC Pahloo shilanyas Rs 492.20 lakh (swasthya-vibhag, non-whitelist); AYUSH Khaloora (Rs 30 lakh)/Wovri Khull, HSS Khull (vibhagiya, non-whitelist); macadamization/sadak dauron wale karyakram (mantri-daura, non-whitelist; Banimullah Devsar seat-bahar); GDC D.H. Pora sports hall Rs 1.70cr (non-whitelist); health camp/prosthetic vitaran/public darbar (relief/daura); library DK Marg, Josh TB Mukti launch, Veshow flood mitigation (non-whitelist/rajya-karyakram). NEGATIVE: nahi (karyakaal me koi FIR/court sthiti nahi; PSA-bayaan Assembly statement tha; book-row/reservation affidavit vibhagiya mudde the).
+// - mohamad-yousuf-tarigami (CPI(M), Kulgam): 0 entries. REJECT — GHSS Hanger academic block (Rs 1.43cr) + Mohipora playfield (Rs 63 lakh): dono post-event lekin sirf jkmonitor.org/thekashmirimages.com (whitelist-bahar); U-19 baseball tournament (event, infra nahi); mantri Itoo ke Kulgam events (sirf maujoodgi); Brazloo Jagir road (DDC member ne kiya, non-whitelist); "karenge" vaada; review meetings; CDF/vichardhara bayan. NEGATIVE: nahi (koi FIR/court sthiti/chunav-yachika nahi).
+// - peerzada-feroze-ahamad (JKNC, Devsar): 0 entries. REJECT — Naib Tehsil Office Nowbugh Kund + CDF library, PHC Devsar ambulance, Memorial Library, drainage+beautification: sab post-event lekin sirf non-whitelist portals; mantri events me sirf maujoodgi (SDH Qaimoh, PHC Devsar, GDC Frisal); review baithaken; Assembly sawal; galat vyakti (Feroz Ahmad Khan, Peerzada Mohammad Syed). NEGATIVE: nahi (FIR 16/1993 pre-term, koi nayi sthiti nahi).
+// Coordinator QA note (2026-10-15): Itoo worker ki 0-entry padhai ko mantri-precedent (Baramulla: mantri Javid Ahmad Dar ki Rafiabad seat ke 9 vyaktigat lokarpan/shilanyas) par phir se parikha gaya — D.H. Pora seat me 3 whitelisted post-event karyakram (Aadigen pul, Zambalnard school, Khull NTPHC) unke vyaktigat lokarpan/shilanyas the, isliye 4 entries mantri-framing + fund/nirmaan-credit disclosure ke saath rakhi. Tarigami/Feroze ke reject-sahi stands hain (whitelist barrier). Hygiene: 0 Devanagari, 0 rupee-symbol, 0 literal-\n; har entry me 8 fields; dates Oct 2024–Oct 2026 window me; teeno slugs file me pehle se absent — koi overwrite nahi.
+
+jammuKashmirWorks['dh-pora'] = [
+  {
+    title: 'D.H. Pora ke Aadigen me Shaheed Wali Mohd Itoo Memorial Bridge (Rs 1.43 crore) ka udghatan — Sakeena Masood ne vyaktigat roop se lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Greater Kashmir',
+    sourceUrl: 'https://www.greaterkashmir.com/kashmir/sakeena-masood-inaugurates-shaheed-wali-mohd-itoo-memorial-bridge-in-kulgam/',
+    date: '2024-11-15',
+    note: 'Greater Kashmir ki post-event reporting ke anusaar 15 Nov 2024 ko Sakeena Masood (Itoo) ne Aadigen (D.H. Pora, Kulgam) me Rs 1.43 crore ke truss girder pul ka udghatan kiya. Credit-transparency: article me unhe Swasthya-Shiksha-Samaj Kalyan Mantri ke roop me dikhaya gaya hai — ye mantri-framing hai; lekin pul unki apni D.H. Pora seat me hai aur lokarpan unhone vyaktigat roop se kiya, isliye ye seat-vishesh lokarpan entry hai (Baramulla batch ke mantri-precedent par). Nirmaan-karta PWD (R&B Kulgam) hai; MLA ka vyaktigat ya CDF yogdaan darj nahi. Pul ka naam unke pita Shaheed Wali Mohd Itoo ke samman me rakha gaya hai. Stage ka sach: poora hua kaam ka lokarpan.',
+    period: '2024-2029',
+  },
+  {
+    title: 'D.H. Pora ke Zambalnard me naye primary school bhavan ka udghatan — Sakeena Masood ne vyaktigat roop se lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/govt-committed-to-bridge-developmental-gaps-sakeena-itoo/',
+    date: '2026-05-02',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 2 May 2026 ko Sakeena Masood ne Zambalnard (D.H. Pora, Kulgam) me naye primary school bhavan ka udghatan kiya. Credit-transparency: article me mantri-framing (Shiksha Mantri ke roop me) hai — lekin karyakram unki apni seat me tha aur lokarpan vyaktigat tha, isliye seat-vishesh entry hai (mantri-precedent par). Nirmaan-vivaran article me nahi hai. Stage ka sach: poora hua kaam ka lokarpan.',
+    period: '2024-2029',
+  },
+  {
+    title: 'D.H. Pora me Zumbalnad–Baidjahalan sadak ka shilanyas — Sakeena Masood',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Daily Excelsior',
+    sourceUrl: 'https://www.dailyexcelsior.com/govt-committed-to-bridge-developmental-gaps-sakeena-itoo/',
+    date: '2026-05-02',
+    note: 'Daily Excelsior ki post-event reporting ke anusaar 2 May 2026 ko Sakeena Masood ne D.H. Pora me Zumbalnad–Baidjahalan sadak ka shilanyas kiya (Zambalnard school udghatan ke isi daure me). Credit-transparency: mantri-framing; nirmaan aur fund-srot article me nahi hai. Stage ka sach: shilanyas — kaam ka poora hona abhi darj nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'D.H. Pora ke Khull gaon me NTPHC (Rs 1.88 crore) aur Sheep Extension Centre (Rs 40.62 lakh) ka udghatan — Sakeena Masood',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Kashmir Life',
+    sourceUrl: 'https://kashmirlife.net/sakeena-itoo-inaugurates-rs-2-29-cr-health-livestock-facilities-in-south-kashmir-397768/',
+    date: '2025-07-19',
+    note: 'Kashmir Life ki post-event reporting ke anusaar 19 Jul 2025 ko Sakeena Masood ne Khull gaon (D.H. Pora, Kulgam) me Rs 1.88 crore ke New Type Primary Health Centre aur R&B vibhag dwara nirmit Rs 40.62 lakh ke Sheep Extension Centre ka udghatan kiya. Credit-transparency: mantri-framing — pariyojna swasthya vibhag ki hai aur nirmaan sarkari tha; lekin unki apni seat me vyaktigat lokarpan tha, isliye seat-vishesh entry hai (mantri-precedent par). Stage ka sach: poora hua kaam ka lokarpan.',
+    period: '2024-2029',
+  },
+];
+
+jammuKashmirWorks['mohamad-yousuf-tarigami'] = [];
+
+jammuKashmirWorks['peerzada-feroze-ahamad'] = [];
