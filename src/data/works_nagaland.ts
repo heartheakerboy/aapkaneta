@@ -330,3 +330,32 @@ nagalandWorks['a-pongshi-phom'] = [
 // 7. CM ke salahkar (Airways & Railways) ki niyukti (Jul 2026) — pad, kaam nahi → reject.
 // NEGATIVE: koi nahi (koi FIR/case/adalaati janch ki reporting nahi mili).
 // Party-record dhyaan dene yogya (foundation cleanup ke liye): b-bangtick-phom ki nagaland.ts party 'Independent' hai lekin electionNote kehta hai 2023 me NPP ticket par jeete aur Oct 2026 NPP→NPF vilay ke baad vartaman party NPF; Wikipedia Tamlu page bhi 2023 Independent jeet dikhata hai — virodhabhas verify karne layak. A. Pongshi Phom ke liye ek media report (hubnetwork) kehti hai 2023 me NCP ticket par jeete phir NDPP→NPF gaye; foundation record me party 'Independent' hai — virodhabhas verify karne layak.
+
+// ---- Meluri district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - z-nyusietho-nyuthe (NPF, Meluri — Advisor, New & Renewable Energy + NSDMA & Inland Waterways; 2023 me NDPP ticket par jeete, Oct 2025 NDPP->NPF vilay): 2 entries (neeche). REJECT 1 — Meluri Community Building "Müluo Rezü" udghatan, Meluri Town (1 Jun 2026, Rs 2.5cr): samudaay ne har ghar ke yogdaan se banwaya; MLA sirf mukhya-atithi ke roop me udghatan → community-funded ceremonial reject. REJECT 2 — Unity Stone Monolith unveiling, Tsütuo Kharu Kohima (26 Aug 2026): Tsütuonuomia Khel Council ne banwaya, Kohima me (seat bahar), sirf unveiling → community + kshetra-bahar reject. REJECT 3 — DDMA inauguration, DC Office Meluri (25 Mar 2025): NSDMA unka salahkar-vibhag → vibhagiya/advisor-form reject. REJECT 4 — Meluri as 17th district (Oct 2024 cabinet faisla; CM ne 21 Feb 2025 ko udghatan kiya): cabinet/CM ka faisla; MLA ne sirf swagat kiya, koi dastavezi concrete kadam nahi → reject. REJECT 5 — Akhegwo–Avakhung two-lane road nirikshan (NHIDCL project): sirf nirikshan + daura, bhoomika nahi → reject. REJECT 6-9 — Meluri DPDB baithaken (27 May 2025 1st meeting; Jun 2025; Sep 2026; Oct 2026): sansthaagat DPDB adhyaksh-bhoomika, prastav/sifarishen matra, koi GO/parinaam nahi → reject. REJECT 10 — Phek DPDB Feb 2025 adhyakshata: prastav matra → reject. REJECT 11 — NBHM PMVDY tools vitran, Meluri (24 Jun 2025): NBHM ka karyakram, special guest → reject. REJECT 12 — NPF Meluri Division coordination meeting (26 Sep 2026): party kaam → reject. REJECT 13 — Quality Stock Bee Multiplication Centre, Lozaphuhü (24 Jun 2025): NBHM chairman ne udghatan kiya, MLA guest of honour; Phek jila (seat bahar) → reject. REJECT 14 — Green Village Link launch, Phusachodu Phek (Oct 2025): Kudecho Khamo ki pehal, seat bahar → reject. REJECT 15 — Phek 50th anniversary bhashan (Dec 2023): ceremonial → reject. REJECT 16 — Riehuope naye gaon ka udghatan (DIPR photo-caption matra, 22 Apr 2023): koi detail nahi → weak-attribution reject. REJECT 17 — Meluri Town Council office udghatan (DIPR photo-caption matra, 3 Oct 2024): koi detail nahi → weak-attribution reject. REJECT 18 — Meluri Town Council oath ceremony (Jul 2024): sirf upasthiti → reject. NEGATIVE: koi nahi (2023 halafname me 0 criminal cases; koi FIR/adalaati janch ki reporting nahi mili).
+// QA note: Mollen council hall entry Eastern Mirror ki post-event report (DIPR report par aadharit) par hai — LADF iconic project 2025-26, kaam poora + lokarpan; Sakhi One Stop Centre kendra ki Mission Shakti yojna ki suvidha hai — credit note me ye disclose hai ki centre Mission Shakti ke tahat jila prashasan dwara sthapit hai aur MLA ki dastavezi bhoomika udghatan tak seemit hai (Gangmei CFC / Mukundhan health-mela precedent).
+nagalandWorks['z-nyusietho-nyuthe'] = [
+  {
+    title: 'Mollen gaon me naya village council hall ka lokarpan — LADF iconic project 2025-26 ke tahat nirmit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/z-nyusietho-nyuthe-inaugurates-mollen-village-council-hall',
+    date: '2026-09-09',
+    stage: 'lokarpan',
+    note: 'Eastern Mirror ki post-event report (DIPR report par aadharit) ke mutabik, Z. Nyusietho Nyuthe ne 9 September 2026 ko Meluri ke Mollen gaon me naye nirmit village council hall ka lokarpan kiya; kaam samay par poora hua tha. Credit-transparency: council hall ka nirmaan Local Area Development Fund (LADF) ke iconic project 2025-26 ke tahat hua — sarkari fund se, MLA ki vyaktigat den nahi; MLA ki dastavezi bhoomika udghatan-karta ki hai. Stage ka sach: kaam poora + lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Meluri me Sakhi One Stop Centre ka lokarpan — sankatgrast mahilayon ke liye kanooni aur manovaigyanik sahayata kendra janta ko samarpit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/sakhi-one-stop-centre-inaugurated-at-meluri/',
+    date: '2025-10-13',
+    stage: 'poora',
+    note: 'Nagaland Post ki post-event report (DIPR report par aadharit) ke mutabik, Z. Nyusietho Nyuthe ne 13 October 2025 ko Meluri me Sakhi One Stop Centre ka udghatan kiya — ye kendra hinsa se peedit mahilayon ko kanooni aur manovaigyanik sahayata deta hai. Credit-transparency: Sakhi One Stop Centre kendra sarkar ki Mission Shakti yojna ke tahat jila prashasan dwara sthapit suvidha hai — Meluri me DC K. Mhathung Tsanglao Mission Shakti ke District Level Committee ke adhyaksh hain; MLA ki dastavezi bhoomika udghatan-karta tak seemit hai. Stage ka sach: kendra sthapit ho chuka hai aur lokarpan ho gaya hai.',
+    period: '2023-2028',
+  },
+];
