@@ -121,3 +121,149 @@ nagalandWorks['c-kipili-sangtam'] = [
 ];
 
 nagalandWorks['s-kiusumew-yimchunger'] = [];
+// ---- Kohima district batch (researched 2026-10-15) ----
+// Per-MLA reject-logs (sankshipt):
+// - salhoutuonuo-kruse (NPF, Western Angami — WRD & Horticulture mantri Mar 2023 se): 4 entries (neeche). REJECT 1 — PMGSY Khonoma-Peducha 28.12 km sadak (May 2026): sirf bani hui sadak ka daura, bhoomika nahi. REJECT 2 — multi-purpose hall Chalietsüdi, Sechü-Zubza (Jul 2025): udghatan Abu Metha ne kiya, Kruse sirf maujood. REJECT 3 — Seed Bank + Community Learning Centre, Khonoma (May 2026): Kevi Organic Society ka project, Kruse ne sirf monolith unveil kiya. REJECT 4 — NDPP 8th Western Angami AC office udghatan: party office. REJECT 5-6 — NPF consultative meet + NDPP induction: party baithak/karyakram. REJECT 7 — Naga Traditional Cuisine lab, Japfü Christian College: seat bahar + mantri-role. REJECT 8-9 — "PMJSY se sab gaon judenge" + "projects soon": karenge-ghoshna. REJECT 10 — doosre middle school ka naam hi nahi: entry nahi ban sakti. REJECT 11 — YouTube-only video reports. NEGATIVE: koi nahi.
+// - tseilhoutuo-rhutso (NPF, Kohima Town): 3 entries (neeche). REJECT 1 — health sub-centre building, Tsiepfütsiepfe/AG Colony (Nov 2025): sirf special guest, concrete bhoomika nahi. REJECT 2 — free health camps (Sep 2026): relief/charity + CM ki pahal. REJECT 3 — NPP Kohima district office: party office. REJECT 4 — "one rupee project for change": karenge-ghoshna. REJECT 5 — cleanliness drive: ek-din activity. REJECT 6 — umbrella vitran: charity. REJECT 7 — college/sports events: maujoodgi. REJECT 8 — pension audit maang: sadan me maang. REJECT 9 — Merhülietsa Colony gate: non-approved source + maujoodgi. REJECT 10 — CM ka 24-gaon water project: CM karyakram. REJECT 11 — Kohima Peace Memorial: CM/Japan project. REJECT 12 — YouTube-only video. NEGATIVE: koi nahi (2018 + 2023 dono halafname me 0 cases).
+// - kekhrielhoulie-yhome (NPF, Northern Angami-I — School Education salahkar): 1 entry (neeche). REJECT 1 — N Block Council Hall, Kezieke: Smart City Mission se bana, Yhome sirf atithi. REJECT 2 — GPS building, T. Khel: samudaay ke sansadhan se bana, sirf lokarpan. REJECT 3 — krishi yantra vitaran, D. Khel: Krishi Vibhag ki yojna, sirf vitaran. REJECT 4 — 6 school bhavan lokarpan: salahkar ke vibhagiya kaam. REJECT 5 — Kohima Village multipurpose building: CM ne lokarpan kiya. REJECT 6 — Sedekevi Peli resting shed: Peli ne khud banaya. REJECT 7 — monolith Chiechama: seat bahar. REJECT 8 — DPDB baithak nirdesh: prashasanik. REJECT 9 — 'Common Platform' prachar: chunav-purva vaade. REJECT 10-11 — bayan-vivad + bharti committee: koi FIR/karyavahi nahi. REJECT 12 — Badze Leshüki learning centre: niji samudaayik prakalp. NEGATIVE: koi nahi.
+// - neiphiu-rio (NPF, Northern Angami-II — CM Mar 2023 se): KHAALI (0). Sab dastavezi coverage CM-bhoomika ki — seat-specific kaam jisme Northern Angami-II seat ka zikr + MLA ki concrete bhoomika ho, kuch nahi mila. REJECT — Nerhema multi-utility hall (Sep 2025): seat ka zikr nahi, CM-role udghatan. REJECT — Chiephobozou water supply Rs 26.26cr (Apr 2025): CM commissioning. REJECT — Tuophema tourist village Rs 23.13cr: CM udghatan. REJECT — Elders' Forum building: CM udghatan. REJECT — AGOK centre, Meriema: CM udghatan. REJECT — Kohima Village multipurpose building Rs 5cr: CM udghatan + seat me nahi. REJECT — Mengujuma ke 4 kaam: Western Angami kshetra, seat bahar. REJECT — DPDB Village Adoption Kijumetouma: koi thos kaam nahi. REJECT — Chiechama amphitheater + Nerhema school bhavan: pre-2023. REJECT — Botsa PHC: Rajyapal ne kiya. REJECT — 51 school infra + 16 Lighthouse complexes: CM karyakram. NEGATIVE: koi nahi (is karyakaal me koi FIR/adalaati karyavahi reporting nahi).
+// - kevipodi-sophie (IND, Southern Angami-I): 2 entries (neeche). REJECT 1 — Kohima-Kigwema sadak par sadan sawal: maang. REJECT 2 — Kisama landslide nirikshan: daura. REJECT 3 — Kohima DPDB baithkein: karya. REJECT 4 — Mima playground shilanyas: non-approved source + maujoodgi. REJECT 5 — KDFA jersey anavaran: khel-karyakram. REJECT 6 — Jakhama sustainable village: mantri ne ghoshna ki. REJECT 7 — Kezoltsa vivad appeal: bayan. REJECT 8 — Naga Indigenous Inn: vibhag/NEC project, bhoomika nahi. REJECT 9 — samiti ke paani-tank/library/computer vitran: samiti ka kaam. REJECT 10 — Kigwema landslide daura: daura. REJECT 11 — V&V Club jubilee: maujoodgi. NEGATIVE: koi nahi (NDTV/ADR record: Cases No).
+// - kropol-vitsu (BJP, Southern Angami-II): 1 entry (neeche). REJECT 1 — Kisama/Phesama NH-2 landslide nirikshan: daura. REJECT 2 — Kohima DPDB Jan 2024 BDO/SDAO maang: sifarish. REJECT 3 — NLA me NH-29/tunnel charcha: bayan. REJECT 4 — AIFFSO office lokarpan: seat-kaam nahi. REJECT 5 — GMS Kezoma nayi building (Apr 2026): sirf special guest, concrete bhoomika nahi. REJECT 6 — LADP swikriti charcha: prakriyaatmak. REJECT 7-8 — BJP party karyakram. REJECT 9 — chunav reporting/myneta: kaam nahi. NEGATIVE: koi nahi (2013/2018/2023 halafname: 0 cases).
+// QA note: Sechüma approach road wala sourceUrl coordinator ne khud kholkar verify kiya (article me "Kruse also inaugurated the Sechüma approach road under MGNREGA" darj, published 4 Feb 2024); teenon CHC/school entries me credit-disclosure ki gayi (nirmaan/yojana vibhag/sarkar ki, lokarpan MLA ka); Sophie ki dono entries me army ka nirmaan + MLA ki pehal (CO ke bayaan par) disclose.
+nagalandWorks['salhoutuonuo-kruse'] = [
+  {
+    title: 'LAPD 2025 ke tahat 8th Western Angami ke shehri ilake ke liye water tanker Officers’ Hill Colony me samarpit, Kruse ne WUPU ko chaabi saunpi',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/water-tanker-for-8th-western-angami-ac-urban-area-dedicated/',
+    date: '2025-02-06',
+    stage: 'lokarpan',
+    note: '8th Western Angami AC ke shehri ilake ka water project LAPD 2025 ke fund se bana; 6 February ko Officers’ Hill Colony me samarpan karyakram hua jisme Kruse ne 8 Western Urban Panchayat Union (WUPU) ke chairman Rokobeizo Nyusou ko chaabi saunpi aur tanker ka udghatan hua. MLA ki asal bhoomika dastavezi hai — khabar ke mutabik Hospital colony road par paani baant-te logon ko dekhkar unhone khud is saal ke liye tanker ka vichar rakha tha, aur WUPU ko vitaran, rakh-rakhav aur mamuli shulk ki zimmedari saunpi. Kaam poora aur lokarpan dono ki pushti hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MGNREGA ke tahat bani Sechüma approach road ka Kruse ne lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/rio-for-unified-efforts-to-naga-solution/',
+    date: '2024-02-04',
+    stage: 'lokarpan',
+    note: '4 February 2024 ko Sechü (Zubza) me CM Neiphiu Rio ke mukhya-atithi wale karyakram me — jahan CM ne playground ka monolith unveil aur Mera-Sechü-Rau Seyie Complex ka shilanyas kiya — Kruse ne Sechüma approach road (MGNREGA ke tahat bani) ka udghatan kiya. Credit-transparency: asal kaam MGNREGA ke tahat hua; Kruse ki dastavezi bhoomika udghatan ki hai, jo ilaake ki MLA ke taur par ki gayi. Playground aur complex CM ke kaam hain, is entry me shamil nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sechu-Zubza PHC ka CHC me unnayan, ilaake ki MLA ke taur par Kruse ne udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/minister-salhoutuonuo-kruse-inaugurates-upgraded-chc-at-sechu-zubza',
+    date: '2025-11-28',
+    stage: 'lokarpan',
+    note: '28 November 2025 ko Sechu-Zubza (Kohima, 8th Western Angami seat) me PHC se CHC tak ke unnayan ka udghatan Kruse ne kiya. Credit-transparency: unnayan ka kaam swasthya vibhag ka tha — article ke mutabik Kruse ne vibhag ka aabhar vyakt kiya — lekin udghatan ilaake ki pratinidhi MLA ke taur par unhone kiya, aur centre chalu hone ki pushti hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Daklane ke sarkari middle school ka high school me unnayan, 8th Western Angami ki MLA Kruse ne udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/govt-middle-school-daklane-upgraded-to-high-school',
+    date: '2026-02-27',
+    stage: 'lokarpan',
+    note: '27 February 2026 ko Kohima ke Daklane Government School (1954 me sthapit, 2002 me middle school bana) ka Government High School me unnayan hua — State Level Education Committee ne 19 December 2025 ko manzoori di thi; Class IX me 22 chhatra dakhil hue. Credit-transparency: asal unnayan school-shiksha vibhag/School Education Advisor ka kaam; Kruse ki dastavezi bhoomika udghatan ki hai, jo unki 8th Western Angami seat ke andar hue.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['tseilhoutuo-rhutso'] = [
+  {
+    title: 'Kohima me LADP 2024-25 ke Iconic Project ke tahat outdoor gymnasium ka lokarpan, saath me Aradura mental hospital me chhota gym',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Mirror',
+    sourceUrl: 'https://www.easternmirrornagaland.com/mla-dr-rhutso-inaugurates-gymnasium-in-kohima',
+    date: '2025-05-07',
+    stage: 'lokarpan',
+    note: 'Outdoor gymnasium ka lokarpan 7 May 2025 ko khud MLA Dr. Tseilhoutuo Rhutso ne kiya; DIPR report ke hawale se khabar me fund-srot spasht LAPD 2024-25 (Local Area Development Programme, yaani MLALADS/vidhyak-nidhi) ka Iconic Project bataya gaya hai. MLA ke paas koi vibhagiya portfolio nahi hai, isliye unka Iconic Project unke LADP fund se seedha unke seat-kshetra ka kaam hai. Isi Iconic Project ke tahat Aradura ke mental hospital me bhi chhota gym lagaya gaya aur outdoor gym par pay-and-use toilet ki yojana thi. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ward No. 11 PWD Colony Gate ka nirman aur lokarpan — Iconic Project 2025-26 ke tahat',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/pwd-colony-gate-inaugurated-in-kohima/',
+    date: '2026-07-03',
+    stage: 'lokarpan',
+    note: 'Ward No. 11, Kohima me naya bana PWD Colony Gate ka lokarpan 3 July 2026 ko MLA Dr. Tseilhoutuo (Ato) Rhutso ne kiya. Khabar me gate ka nirman "Dr. Ato of 9th Kohima Town Assembly under Iconic Project 2025-26" bataya gaya hai, aur ye project 9th Kohima Town A/C me buniyadi dhacha banane ke liye hai. Credit-transparency: article me fund-srot keval "Iconic Project 2025-26" likha hai; pichhle saal ke isi Iconic Project (outdoor gym) ko LAPD 2024-25 bataya gaya tha, isliye Iconic Project ka fund vidhyak-nidhi se judta dikhta hai — poori pushti article se nahi milti, isliye note me yahi spasht kiya gaya hai. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Forest Colony, Kohima me antarrashtriya-manak ka basketball court — nirman me MLA ke yogdaan ke saath lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Post',
+    sourceUrl: 'https://nagalandpost.com/nagalands-1st-international-standard-basketball-court-inaugurated-in-kohima/',
+    date: '2026-06-17',
+    stage: 'lokarpan',
+    note: 'Forest Colony, Kohima me Nagaland ka pehla international-standard basketball court ka lokarpan 17 June 2026 ko hua. Credit-transparency: project ki visionary pehel ka sehra FCYO adhyaksh ne poorv MLA Dr. Neikiesalie Kire ko diya aur foundation me forest vibhag ke adhikariyon ka sahyog bataya — matlab pehel poorv MLA ki thi; lekin khabar me vartaman MLA Dr. Tseilhoutuo (Ato) Rhutso ki concrete bhoomika dastavezi hai: Advisor ne kaha court ka nirman "local MLA ke margdarshan" me hua, aur Forest Colony Council chairman ne MLA ka court ke nirman me yogdaan ke liye aabhar vyakt kiya. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['kekhrielhoulie-yhome'] = [
+  {
+    title: 'Kohima Village ke D. Khel Ground me LADP ke Iconic Project 2025-26 ke tahat bana futsal court 20 June 2026 ko lokarpit hua',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Morung Express',
+    sourceUrl: 'https://morungexpress.com/advisor-dr-yhome-inaugurates-futsal-court-in-kohima',
+    date: '2026-06-20',
+    stage: 'lokarpan',
+    note: 'Dapfütsumia Khel (D. Khel), Kohima Village me futsal court ka nirmaan poora hokar 20 June 2026 ko Dr. Kekhrielhoulie Yhome ne lokarpit kiya. Fund-srot: Local Area Development Programme (LADP) ka Iconic Project 2025-26 — vidhayak-nidhi, prati-seat Rs 2.20 crore ka pravdhan; matlab ye rajya ka aam package nahi, unhi ki 10th Northern Angami-I seat ke liye khaas fund hai. MLA ki asal bhoomika: nirmaan ki suvidha (D. Khel Council ke chairman Keneizezo Yiese ne saarvajanik roop se nirmaan me unki sahayata ke liye dhanyavad diya) aur khud lokarpan. Credit-transparency: paisa sarkari LADP ka hai, Yhome ki vyaktigat den nahi; unki bhoomika suvidha-pradayak aur lokarpan-karta ki hai. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['neiphiu-rio'] = [];
+
+nagalandWorks['kevipodi-sophie'] = [
+  {
+    title: 'Jakhama me futsal ground ka lokarpan — MLA ki pehal par Sena ki Project Sadbhavana yojana se bana maidan janta ko samarpit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/futsal-ground-and-community-toilets-inaugurated-under-project-sadbhavana-in-southern-angami-region/',
+    date: '2025-05-07',
+    stage: 'poora',
+    note: 'Khabar ke mutabik 7 May 2025 ko Jakhama me ye futsal ground Bhartiya Sena ki Civic Action yojana Project Sadbhavana ke tahat 164 Naga Regiment dwara banaya gaya aur Sena ke adhikari ne iska udghatan kiya. Credit-transparency: lagat aur nirmaan poori tarah Bhartiya Sena ka hai; MLA Kevipodi ki asal bhoomika ye rahi ki Sena ke adhikari ne khud kaha ki iski pehal MLA ne ki thi, jise Sena ne aage badhakar poora kiya; udghatan ke avsar par MLA ne maidan ko aupcharik roop se Jakhama gaon aur poore Southern Angami kshetra ki janta ko samarpit kiya. Kaam poori tarah poora ho chuka hai aur lokarpan ho gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Phesama me sarvajanik sauchalaya ka lokarpan — MLA ki pehal par Sena ki Project Sadbhavana yojana se bane sauchalaya janta ko samarpit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/futsal-ground-and-community-toilets-inaugurated-under-project-sadbhavana-in-southern-angami-region/',
+    date: '2025-05-07',
+    stage: 'poora',
+    note: 'Khabar ke mutabik 7 May 2025 ko Phesama me ye sarvajanik sauchalaya Bhartiya Sena ki Civic Action yojana Project Sadbhavana ke tahat 164 Naga Regiment dwara banaye gaye; Sena ke adhikari ne udghatan kiya aur MLA ne inhe aupcharik roop se gaon walon ko samarpit kiya. Credit-transparency: lagat aur nirmaan poori tarah Bhartiya Sena ka hai; Sena adhikari ke bayaan ke anusar iski pehal MLA Kevipodi ne ki thi, jise Sena ne poora kiya. Kaam poori tarah poora ho chuka hai aur lokarpan ho gaya hai.',
+    period: '2023-2028',
+  },
+];
+
+nagalandWorks['kropol-vitsu'] = [
+  {
+    title: 'Kezoma gaon me Elozwu Sakri Tsukhwe stone sit-out ka lokarpan, LADP Iconic Project 2023-24 ke tahat bana pilot project',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Nagaland Tribune',
+    sourceUrl: 'https://nagalandtribune.in/advisor-vitsu-inaugurates-elozwu-sakri-tsukhwe-in-kezoma/',
+    date: '2024-08-24',
+    stage: 'lokarpan',
+    note: 'Southern Angami-II kshetra ke Kezoma gaon me ye pathar ka samudaik baithak sthal Kropol Vitsu ne swayam 24 August 2024 ko lokarpit kiya. Khabar me ye pilot project Nagaland sarkar ke LADP Iconic Project 2023-24 ke tahat bana bataya gaya hai, yaani fund-srot rajya sarkar ki LADP Iconic yojana hai — us yojana ke saare chune kaam gaon ke liye hote hain. Credit-transparency: Kezoma Village Council ke chairman Kikrosa Naki ne saarvajanik taur par MLA ka dhanyavaad kiya ki unhone LADP ke tahat is iconic project ko aage badhaya; kaam ban chuka tha aur use gaon ko saump diya gaya. Asal bhoomika: MLA ne apne kshetr ke gaon ke liye LADP-iconic kaam ko push kiya aur swayam lokarpan kiya. Kaam poora aur lokarpan ho chuka hai.',
+    period: '2023-2028',
+  },
+];
