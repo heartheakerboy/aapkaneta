@@ -135,3 +135,64 @@ sikkimWorks['raju-basnet'] = [];
 // - pamin-lepcha (SKM, Gnathang-Machong BL): 1 entry (upar — Changu STP lokarpan). REJECTS: Yakten Digital Nomad Village lokarpan (Sikkim Express page fetch-timeout, Hindu/India Today NE sirf maujoodgi kehte — kamzor attribution); District Court Complex shilanyas (CM ne kiya, sirf maujoodgi); breastfeeding pod Pakyong Bazaar (whitelist me MLA-bhoomika nahi); yak health camp Kupup (mantri special guest, sirf upasthiti); Nathula Vijay Diwas (non-whitelist + maujoodgi); Thek gaon bhuskhalan nirikshan (blogspot + relief); PMGSY sadak nirikshan Tokchi (non-whitelist + maujoodgi); SKM party office Pachey (non-whitelist + party office, lokarpan doosre ne kiya); ED/Sikkim Bank fraud me "Lepcha" (galat vyakti — bank ex-GM); MP D.T. Lepcha kshetra-daura (non-whitelist nenews.in + nirikshan). NEGATIVE: koi nahi (0 cases).
 // - raju-basnet (SKM, Namcheybung — cabinet mantri Education/Sports & Youth Affairs/Law): KHAALI (0). REJECTS: Aho Shanti Sec School 8-room lokarpan (northeasttoday.in whitelist-bahar); Anime & Manga Academy Namcheybong (private academy, sirf maujoodgi); Sikkim National Law University Assam Lingzey (CM + Chief Justice ne kiya, sirf upasthit); District Court Complex shilanyas (CM ne kiya, sirf upasthit); CMMS Assam Lingzey STEAM lab (CM ne kiya, sirf maujood); Sukumbasi land parcha vitran Namcheybong (non-whitelist + kalyan vitran); Sumin cluster-tourism recce (daura + non-whitelist IPR); NH-717A extension baithak (baithak + non-whitelist IPR); Ranipool-Pakyong road nirikshan (nirikshan + non-whitelist); Assam Lingzey ex-servicemen hall shilanyas (non-whitelist, kisne rakha aspasht); sports karyakram (Futsal/Badminton/Jhoom/Table Tennis — mantri-roop rajya-star); mantri-roop rajya-star faisle (Google AI SOI, CBSE results, Airtel MoU, Sikkim Univ bayan, Lokayukta Amendment Bill); Manav Dharma Mandir lokarpan Mar 2024 (pre-tenure + CM ne kiya); "Chogyal to Babur" video controversy Apr 2024 (pre-tenure, non-whitelist, koi FIR/case nahi); CM "Pakyong model district" pitch (Basnet sirf upasthit); sirf upasthiti/daura items (Constitution Day, Rorathang football, CM Mentorship, ATTC convocation). Galat vyakti baahar: Raju Bista (Darjeeling MP) — alag vyakti. NEGATIVE: koi nahi (0 cases).
 // QA note: Pamin Lepcha ki Changu STP entry Gangtok batch ke Delay Barfungpa (Sikkim Milk outlet sah-lokarpan) precedent par rakhi gayi — sena ki pariyojana me MLA ne kshetra-pratinidhi roop me vyaktigat lokarpan kiya, poora credit Trishakti Corps/BARC ko note me disclosed. Kul batch: 1 entry, 68 reject, 4 profiles imaandari se khaali.
+
+
+// ---- Mangan district batch (researched 2026-10-15) ----
+
+sikkimWorks['thenlay-tshering-bhutia'] = [];
+
+sikkimWorks['pintso-namgyal-lepcha'] = [
+  {
+    title: 'Sangkhalang me Teesta par 230-feet modular bridge khula — Oct 2023 GLOF me bahe pull ki jagah naya pull, MLA ne kiya lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Telegraph',
+    sourceUrl: 'https://www.telegraphindia.com/west-bengal/bro-rebuilds-sangkalang-bridge-in-5-months-restores-key-link-to-north-sikkim-prnt/cid/2117903',
+    date: '2025-08-13',
+    stage: 'lokarpan',
+    note: '13 August 2025 (Budhwar) ko Sangkhalang, Dzongu me Teesta nadi par naye 230-feet modular bridge ka lokarpan P.N. Lepcha ne mantri-cum-Area MLA ki haisiyat se kiya. Credit-pardarshita: pull BRO ki 107 Road Construction Company (758 BRTF, Project Swastik — Union defence ministry ke adhin) ne lagbhag paanch mahine me banaya tha; Oct 2023 ke South Lhonak GLOF me purana pull beh gaya tha. MLA ki vyaktigat bhoomika nirdhan/lokarpan tak seemit rahi — nirmaan ka shrey BRO ka hai. Mangan jila prashasan aur BRO ke varishth adhikari maujood the. Pull Mangan-Chungthang corridor par Dzongu, Chungthang, Lachen, Lachung ke liye 24x7 lifeline hai. Northeast Now ne bhi isi lokarpan ki post-event reporting ki hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Upper Dzongu me Kanaka nadi par Bailey bridge khula — Lingzya, Tingvong, Sakyong Pentong ko jodne wala pull, MLA ne kiya lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/sikkim/story/bailey-bridge-inauguration-sikkim-upper-dzongu-connectivity-kayum-bridge-construction-1267757-2025-08-26',
+    date: '2025-08-26',
+    stage: 'lokarpan',
+    note: '26 August 2025 ko Mangan jile me Kanaka nadi par Bailey bridge ka lokarpan Pintso Namgyal Lepcha ne Dzongu ke MLA ki haisiyat se kiya. Credit-pardarshita: srot ke anusar pull Upper Dzongu ke Lingzya, Tingvong aur Sakyong Pentong samudayon ko jodta hai aur unke liye mahatvapurna hai; nirmaan sarkari/BRO tantra ka kaam tha, MLA ki vyaktigat bhoomika vyaktigat lokarpan aur iske mahatva ko ujagar karne tak seemit rahi. Isi avsar par unhone 255-meter lambe Kayum arch steel bridge ke nirmaan ko phir shuru karne ki ghoshna ki — wo hissa "karenge" wali khabar hai isliye entry me nahi liya gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Phidang me Phee Chu (Phee Khola) par BRO ne 5 din me Bailey bridge bahal kiya — Lower Dzongu ka sadak-sampark juda, MLA ne kiya lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'EastMojo',
+    sourceUrl: 'http://eastmojo.com/sikkim/2026/07/04/sikkim-bro-restores-phee-chu-bailey-bridge-in-five-days/',
+    date: '2026-07-04',
+    stage: 'lokarpan',
+    note: '4 July 2026 (Shanivar) ko Phidang, Lower Dzongu me Phee Chu par Bailey bridge ka lokarpan Forest mantri-cum-Dzongu MLA Pintso Namgyal Lepcha ne kiya. Credit-pardarshita: 28 June 2026 ko bhuskhalan/boulder collapse se pull beh gaya tha; BRO ne paanch din me ise bahal kiya (permanent bridge ka substructure pehle se bana tha, uska launching Oct se yojit) — bahali ka shrey BRO aur jila prashasan ka hai, MLA ki vyaktigat bhoomika aupcharik lokarpan tak seemit rahi. Pull lagbhag 7 Gram Panchayat Units ko jodta hai aur Phidang-Sangkalang-Dzongu se Chungthang, Lachen, Lachung tak ka DSM Road vikalp marg hai. Sikkim Express ne bhi isi lokarpan ki post-event reporting ki hai.',
+    period: '2024-2029',
+  },
+];
+
+sikkimWorks['samdup-lepcha'] = [
+  {
+    title: 'Taramchu ke paas punarnirmit Lachen sadak ka lokarpan — 4 mahine baad Lachen ki connectivity bahal',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Telegraph',
+    sourceUrl: 'https://www.telegraphindia.com/west-bengal/lachen-lifeline-reopens-after-april-brings-relief-to-residents-and-tourism-sector-prnt/cid/2177567',
+    date: '2026-08-29',
+    stage: 'lokarpan',
+    note: '29 August 2026 ko Social Welfare mantri aur Lachen-Mangan ke kshetra MLA Samdup Lepcha ne Taramchu Bridge ke paas punarnirmit sadak ka vyaktigat lokarpan kiya aur use janata ke liye khola; 5 April 2026 ko formation failure ke baad Lachen 4 mahine se rajya se kata hua tha. Credit-pardarshita: punarnirman ka asal kaam GREF (BRO ke Project Swastik, Chief Engineer Brigadier Amit Sakhre) ne 18 April se lagatar 4 mahine me kiya — bina kisi casualty ke; Lepcha ki bhoomika sirf vyaktigat lokarpan ki thi, kaam ki nahi. Is par India Today NE (29 Aug 2026) aur NDTV par bhi post-event reporting hai; yeh entry Telegraph ke post-event report par aadharit hai.',
+    period: '2024-2029',
+  },
+];
+
+// ---- REJECT-LOG: Mangan district batch (researched 2026-10-15) ----
+// - thenlay-tshering-bhutia (SKM, Kabi-Lungchok BL — MLA-cum-Advisor Health & Family Welfare + Culture): KHAALI (0). 18 REJECTS — sirf maujoodgi (Telegraph plantation drive chief guest; Sikkim Chronicle transplant centre/Kailash samaroh/FLFS; Sikkim Express Sikkim Utsav; sikkim.gov.in Mangan District Hospital lokarpan CM ne kiya); sirf nirikshan/bayaan (Nathu La centres inspection; Hindu/India Today NE yatra bayan — karenge wali khabar); whitelist-bahar (sikkimreview.in Shotak Monastery shilanyas + JN Road restroom project — coverage whitelist me nahi; sikkim.gov.in MSME/indianooperative); pre-karyakaal (Zee News 2012 SDF-era maafi); committees nomination. Galat vyakti: Tourism mantri Tshering Thendup Bhutia — alag vyakti. NEGATIVE: koi nahi (0 cases).
+// - pintso-namgyal-lepcha (SKM, Djongu BL — mantri: Forest & Environment, Mines & Geology, Science & Technology, 11 Jun 2024 se): 3 entries (upar). 16 REJECTS — karyakram (butterfly journal/report, Tingvong school jubilee, Aadhar centre, river rafting, Clean Dzongu campaigns, Administration at Doorstep); baithak (UNESCO Ru-Soam); CM ke kaam (Healing Garden shilanyas, Model School ghoshna); karenge-khabar (Kayum bridge restart Mar 2027); mantri-roop maujoodgi; kamzor attribution (cardamom ropan); apda-sandarbh bayan; raajnaitik khabrein. NEGATIVE: koi nahi (0 cases).
+// - samdup-lepcha (SKM, Lachen-Mangan BL — mantri: Social Welfare, WCD, Printing & Stationery, 11 Jun 2024 se): 1 entry (upar — Taramchu Lachen sadak lokarpan). 15 REJECTS — Taram Chu Steel Bridge lokarpan kendriya mantri Sanjay Seth ne kiya (sirf maujoodgi); relief review/evacuation (rahat kaam); bamboo plantation chief guest; Pang Lhabsol (dharmik); red panda adoption (vyaktigat daan); Healing Garden shilanyas (CM ka); Rijiju visit (maujoodgi); pre-karyakaal (Oct 2023 GLOF quotes). Galat vyakti: "Samdup Lepcha INC Tumen-Lingi" (Hindu page) + ED case Dorjee Tshering Lepcha — alag vyakti. NEGATIVE: koi nahi (0 cases).
+// QA note: Pintso/Samdup ke entry-blocks worker fragments se verbatim liye gaye; dono mantri-records ka mantri-role foundation (sikkim.ts) me bhi darj kar diya gaya (The Hindu/PTI/Akashvani se verified). Kul batch: 4 entries, 49 reject, 1 profile imaandari se khaali.

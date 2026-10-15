@@ -882,7 +882,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Sikkim2024/candidate.php?candidate_id=32',
       backgroundNote: 'Sikkim sarkar me mantri (11 Jun 2024 se) — Forest & Environment, Mines & Geology, Science & Technology.',
     },
-    electionNote: '2024 me SKM ke ticket par Djongu se jeete (6,402 votes; SDF ke Sonam Gyatso Lepcha ko 5,007 votes se haraya).',
+    electionNote: 'Sikkim sarkar me mantri (11 Jun 2024 se) — Forest & Environment, Mines & Geology, Science & Technology. 2024 me SKM ke ticket par Djongu se jeete (6,402 votes; SDF ke Sonam Gyatso Lepcha ko 5,007 votes se haraya).',
   },
   {
     slug: 'samdup-lepcha',
@@ -911,7 +911,7 @@ export const sikkimNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Sikkim2024/candidate.php?candidate_id=53',
       backgroundNote: 'Sikkim sarkar me mantri (11 Jun 2024 se) — Social Welfare, Women & Child Development, Printing & Stationery.',
     },
-    electionNote: '2024 me SKM ke ticket par Lachen-Mangan se jeete (3,929 votes; SDF ke Hishey Lachungpa ko 851 votes se haraya).',
+    electionNote: 'Sikkim sarkar me mantri (11 Jun 2024 se) — Social Welfare, Women & Child Development, Printing & Stationery. 2024 me SKM ke ticket par Lachen-Mangan se jeete (3,929 votes; SDF ke Hishey Lachungpa ko 851 votes se haraya).',
   },
   {
     slug: 'sonam-lama',
