@@ -585,3 +585,21 @@ manipurWorks['kangujam-ranjit-singh'] = [
 // 7. Chhatron ki shiksha-fees uthane ka aashvaasan (Apr 2025) — vyaktigat welfare-aashvaasan, vikas-kaam nahi; reject.
 
 // Coordinator QA note (Kakching, 15 Oct 2026): 4/4 fragments QA pass. Titles/notes 100% Roman-script Hinglish, 0 Devanagari/Meitei-Mayek, 0 Rs-symbol, 0 literal-\\n, entry objects me 0 comments (ranjit fragment se 3 inline scaffolding comments hataye; rameshwar entries me 'inaugurate' -> 'lokarpan' shabd sudhara). Radheshyam entry-1 ka sourceUrl coordinator ne khud kholkar verify kiya (Imphal Times 1 Nov 2025 — article ka headline 'new govt' par hai lekin body me Tejpur community hall lokarpan post-event report hai; URL sahi). Khaali: dr-usham-deben-singh. Negatives: 0. Pre-term/maang/maaujoodgi/raahat rejects sab reject-logs me.
+// ---- Kamjong district batch (researched 2026-10-15) ----
+manipurWorks['leishiyo-keishing'] = [];
+
+// REJECT-LOG (Kamjong district — research 15 Oct 2026)
+// Leishiyo Keishing (NPF, 43-Phungyar ST) — 0 entries; profile imaandari se khaali.
+// - Apr 2025 Kamjong inspection tour (Imphal Times, khud khola-padha): thekedaron ki aalochna + Sadbhavana Mandap/Ava Market, sadak, District Hospital, Nursing College, 50-bedded hospital ki haalat par bayaan — sirf nirikshan/daura + bayan, koi dastavezi prashasnik parinaam (FIR/karravai/janch) report me nahi. REJECT. Marizon ko vyaktigat aarthik sahayata = vyaktigat welfare. REJECT.
+// - Model Town + ICP-2 at K Ashang Khullen Aze (KAKA), Rs 4,460 crore preliminary estimate (Ukhrul Times, Dec 2025, khud khola-padha): Amit Shah ko diya gaya prastav — sirf maang/prastav, koi swikriti/GO nahi. REJECT.
+// - Oct 2026 / Sep 2026 / May 2026 border-hinsa patra (EastMojo, IndiaTodayNE, Assam Tribune, e-pao, NENow): Home Minister/CM ko suraksha-tainati ke liye patra = maang; Pilong killings aur border-fencing par bayaan = rajnaitik bayaan — koi adalat/police-record/janch sthiti nahi, isliye negative bhi nahi. REJECT.
+// - Feb 2024 10 Naga MLAs ka Tribal Affairs mantri-niyukti patra (NDTV): sanyukt maang, dastakhat-karta ke roop me — sirf maang. REJECT.
+// - Mar 2026 CM karyakram, Imphal East (NENow/e-pao): Napet Palli–Ashang Khullen road NH-upgrade sujhav = maang; upasthiti = maujoodgi. REJECT.
+// - Shirui Heritage Village shilanyas (ruralpost.in): CM ke saath "accompanied" — maujoodgi. REJECT.
+// - PMGSY road JAC (assamtimes.org, ~2019): karyakaal se pehle. REJECT.
+// - MLALAD 2018-2019 clarification press (Ukhrul Times, 2021): karyakaal se pehle. REJECT.
+// - 2021 CM-Kamjong daura (Ukhrul Times): HAC Chairman ke roop me maujoodgi, CM ka lokarpan — karyakaal se pehle + ceremonial. REJECT.
+// - Clipzag video = video-only srot. REJECT.
+// Mantri-bhoomika ki jaanch: Leishiyo Keishing koi mantri nahi hain (Feb 2024 NDTV report me ve 10 Naga MLA dastakhat-kartaon me the — Tribal Affairs mantri koi aur tha). Isliye mantri-mla niyam ka ullekh nahi banta.
+// Khaas dhyaan: 13 Feb 2025 – 4 Feb 2026 tak Manipur me President's Rule raha, is daur me MLAon ki karyakari bhoomika seemit thi; us samay ke daawon ke liye pakka dastavezi srot chahiye — aisa kuch nahi mila. Kamjong ADC ke kaam MLA par attribute nahi kiye gaye. Koi chunav-yachika, FIR ya adalat/police-record-adharit negative ki credible khabar nahi mili.
+// Coordinator QA note: 8 independent searches (inauguration / foundation stone / lokarpan / MLALAD angles); 2 poorne articles khole-padhe gaye; Kamjong me unke naam par koi post-event developmental reporting nahi mili. Profile khaali rehna sahi hai.
