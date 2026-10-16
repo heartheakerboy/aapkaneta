@@ -4246,7 +4246,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Odisha2024/candidate.php?candidate_id=128',
       backgroundNote: 'Narasinga Madkami Bharatiya Janata Party ke MLA hain, Malkangiri se 2024 me jeete. Halafname me koi aapradhik mamla darj nahi hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Malkangiri se jeete: 78679 votes. Runner-up Mala Madhi (INC) 63789 votes. Margin 14890.',
+    electionNote: '2024 Vidhan Sabha chunav me Malkangiri se jeete: 78679 votes. Runner-up Mala Madhi (INC) 63789 votes. Margin 14890. Apr 2026 me Odisha sarkar ne Narasinga Madkami ko Malkangiri jile ki District Planning Committee (DPC) ka adhyaksh niyukt kiya (sarkari suchi; odishabytes/prameyanews/ommcomnews — sansthaagat pad, vikas-kaam nahi).',
   },
   {
     slug: 'mangu-khilla',
