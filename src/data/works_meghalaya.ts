@@ -868,3 +868,250 @@ meghalayaWorks['ian-botham-k-sangma'] = [];   // koi whitelist-post-event entry 
 // NEGATIVE-CHECK: koi chunav-yachika, dal-badal, rishwat/janch-shikayat, FIR, ya aapradhik mamla nahi mila (myneta.info affidavit: 0 criminal cases; ADR criminal cases 'No'). MLA khud kisi mamle me shikayat-karta/peedit nahi mile. Parivar se juda koi mamla nahi uthaya gaya. Isliye negative entries: ZERO.
 // RETRY-LEADS: (a) The Shillong Times Salantini Janera 2026-09-14 — headline: Salmanpara MLA ne Purakhasia aur Zikzak C&RD blocks ke SHGs ko mini incubator machines aur AECs ko computers diye; lekin article body login wall ke peeche rahi, headline-se-entry niyam ke khilaf, isliye verify nahi hua — encoded URL ya English version se dobara kholo; (b) Choto Bollongra cashew unit (2025-08) ka whitelist-media coverage dhoondo; (c) Highland Post solar-cooker story me gaon ka naam/constituency verify karo.
 // NOTE: 12 alag search attempts kiye gaye (seat-tagged phrases, variant spellings "Botham Sangma"/"Lanbotham", site-specific site:theshillongtimes.com, source-specific EastMojo/Northeast Now/Highland Post, sector-specific road/water/school, aur adviser-role check); har shortlisted source ko kholkar padha gaya; snippet-se koi entry nahi banai gayi; jo page login wall ya 400 par atka usko retry lead me darj kiya gaya. MLA ki pehchan har source me seat (Salmanpara) se pakki ki gayi — cricketer wale bhram se bache. Kul milakar whitelist post-event reporting me March 2023 ke baad ka koi MLA-seat kaam (poora/lokarpan/swikriti/shilanyas) established media me nahi mila, isliye entries khaali hain.
+
+// ---- East Garo Hills district batch (researched 2026-10-16) ----
+// 3 seats: Williamnagar (ST) — Marcuise N. Marak, NPP, PHE Minister (Soil & Water Conservation + Housing ke prabhaar sahit; mantri-niyam laga — rajya-star vibhagiya faisle seat-kaam nahi); Rongjeng (ST) — Jim M. Sangma, NPP (pehli jeet 2018, 2023 me re-elected; koi mantri-pad nahi); Songsak (ST) — Dr. Mukul Sangma, AITC, Leader of Opposition since 28 Aug 2024 (LoP sansthaagat pad + 2010-2018 poorv-CM karyakaal ke kaam pre-term — entry nahi). Scope: sirf Mar 2023+ kaam (period 2023-2028). QA: 2/3 sources khud kholkar parent ne independently verify kiye (library + market entries); 0 Devanagari chars, 0 ₹, 0 literal-\n (Python-verified). Batch kul: 2 entries (dono marcuise-n-marak); jim-m-sangma aur dr-mukul-sangma imaandari se khaali.
+//
+
+meghalayaWorks['marcuise-n-marak'] = [
+{
+    title: 'PHE Minister ke roop me Marcuise N. Marak ne apni seat Williamnagar me District Planning Office ke Science Centre me library-cum-career guidance centre ka lokarpan kiya (10 Feb 2025)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/02/11/phe-min-inaugurates-library-in-williamnagar/',
+    date: '2025-02-10',
+    stage: 'lokarpan',
+    note: 'PHE Minister Marcuise N. Marak ne 10 Feb 2025 (somvar) ko apni seat Williamnagar me District Planning Office ke Science Centre me library-cum-career guidance centre ka lokarpan kiya; tarikh ka aadhaar ye hai ki srot ne article (11 Feb 2025 ko prakashit) me event ko "on Monday" bataya aur 10 Feb 2025 somvar hi tha. Karyakram me East Garo Hills ke Deputy Commissioner Vibhor Aggarwal, SP S.A. Rynjah, schools-colleges ke principals aur students maujood the. Mantri-disclosure: srot ne unhe "PHE Minister Marcuise N Marak" ke roop me pehchana aur unhone khud DC ki pahal ki sarahna ki. Fund-source disclosure: srot ne kendra ki funding ka srot nahi bataya — srot ke mutabiq ye DC Vibhor Aggarwal ki pahal thi, jise mantri ne apni seat me lokarpit kiya. Kendra multi-purpose hai: local yuvaon ko competitive examinations ki career guidance milegi. Stage lokarpan hai kyunki srot me poora bana hua kendra "inaugurated" hua hai.',
+    period: '2023-2028',
+},
+{
+    title: 'Cabinet minister aur local MLA Marcuise N. Marak ne Williamnagar me naye meat and fish market aur Williamnagar Municipal Board ke vistrit office bhawan ka lokarpan kiya (21 Nov 2025)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/marcuise-opens-new-williamnagar-market-more-facilities-in-offing/',
+    date: '2025-11-21',
+    stage: 'lokarpan',
+    note: 'Cabinet minister aur local MLA Marcuise N. Marak ne 21 Nov 2025 (shukrawar) ko Williamnagar me naya meat and fish market aur Williamnagar Municipal Board (WMB) ke extended office building ka lokarpan kiya; tarikh srot me "Nov 21" event-date aur "Published: 2025-11-21" dono se pakki hui. Karyakram me East Garo Hills ke DC R.P. Marak, SP Stephen Rynjah aur sarkari adhikari maujood the. Mantri-disclosure: srot ne unhe "Cabinet minister and local MLA" ke roop me pehchana; unhone bazaar ke poorn hone ka shreya WMB ke CEO Ripamchi N. Sangma aur Chairman Benedick K. Sangma ko diya. Fund-source disclosure: srot ne market ke funding source ka naam nahi diya. Bazaar se meat-fish vendors ko saaf-suthra aur vyavasthit sthan milega; DC ne bataya ki High Court ne roadside bikri par pratibandh lagaya hai isliye designated sthan zaroori tha. Credit-capping: isi event me mantri ne Williamnagar me dedicated vegetable market banane aur slaughterhouse ke liye zameen chihnit hone ki GHOSHNA ki thi — ye "karenge" wali baatein hain, alag entries nahi.',
+    period: '2023-2028',
+},
+];
+
+// REJECT-LOG (marcuise-n-marak / Williamnagar, NPP; period 2023-2028):
+// 1. Rongranggre Govt Higher Secondary School synthetic football turf (Rs 11.56 crore, FIFA-standard, VIP rostrum, changing rooms) —
+//    Marcuise ne July 2024 ke aaspaas shilanyas rakha (nenews.in, 23 Jul 2024, https://nenews.in/meghalaya/meghalayas-rongranggre-school-to-get-rs-11-56-crore-synthetic-football-turf/12092/):
+//    REJECT as entry — source whitelist me NAHI hai. RETRY LEAD: whitelisted srot (Shillong Times/Highland Post/EastMojo/Northeast Now) me is shilanyas ki
+//    coverage mile to stage "shilanyas" entry banao (mantri + fund-source disclosure ke saath). Note: ye wahi turf hai jise CM Conrad K. Sangma ne
+//    27 May 2025 ko "Rongrenggre Playground" par lokarpit kiya (sarkari press release https://www.meghalaya.gov.in/sites/default/files/press_release/Press_Release_611.pdf; project 2023-24 me sanctioned) — us lokarpan me Marcuise sirf upasthit the, maujoodgi entry NAHI.
+// 2. Ampangdamgre Urban Health and Wellness Centre lokarpan, 3 Mar 2026 — Marcuise ne khud kiya (hubnetwork.in
+//    https://hubnetwork.in/marcuise-inaugurates-urban-health-and-wellness-centre-at-ampangdamgre/; themeghalayanexpress.com bhi):
+//    REJECT as entry — saari coverage non-whitelisted portals par hai. RETRY LEAD: whitelisted srot me post-event reporting mile to Aspataal category me
+//    "lokarpan" entry banao (mantri + fund-source disclosure ke saath; kendra 12 sewaon ke saath, 1 doctor + staff posted).
+// 3. "Neng-takram" resting arena (SP Office ke paas, Williamnagar) lokarpan, 21 Dec 2025 — Marcuise ne khud kiya (hubnetwork.in
+//    https://hubnetwork.in/neng%C2%B7takram-resting-arena-inaugurated-near-sp-office-williamnagar-ahead-of-christmas/):
+//    REJECT as entry — coverage sirf non-whitelisted. RETRY LEAD: whitelisted coverage mile to Any category me "lokarpan" entry evaluate karo
+//    (Police department ka initiative, Police Infrastructure and Renovation Scheme se sambandh ho sakta hai — fund-source disclosure zaroori).
+// 4. District Emporium, Williamnagar lokarpan, Feb 2026 — CM Conrad K. Sangma ne kiya, Marcuise sirf Guest of Honour ke roop me upasthit (hubnetwork.in;
+//    nenow.in confirm karta hai CM ne kiya): REJECT — dusre neta ke karyakram me maujoodgi.
+// 5. Williamnagar Municipal Office cum Market Complex (Soil Bazar) lokarpan, 21 Aug 2023 — CM ne kiya, Marcuise upasthit (syllad.com, non-whitelist bhi):
+//    REJECT — dusre neta ke karyakram me maujoodgi.
+// 6. Williamnagar Urban Water Supply Project Phase-I shilanyas, 1 Sep 2022 (Rs 121 crore, AMRUT 2.0, 90:10 funding) — CM + Union MoS Kaushal Kishore ne rakha,
+//    Marcuise sirf upasthit; tab PHE Minister Renikton Lyngdoh Tongkhar the (theshillongtimes.com/2022/09/02/williamnagar-water-project-base-laid/):
+//    REJECT — pre-term (2022) + dusre netaon ka karyakram.
+// 7. Nengmandalgre PHC lokarpan, 23 Feb 2021 — CM ne kiya, Marcuise upasthit (theshillongtimes.com/2021/02/24/developmental-projects-are-not-political-gimmicks-cm/;
+//    sarkari press release https://www.meghalaya.gov.in/sites/default/files/press_release/CM_inaugurate_Nengmandalgre_PHC.pdf):
+//    REJECT — pre-term (2021) + CM ka karyakram, double reason.
+// 8. Nengmandalgre-Daribokre (35 km) road aur Cherangre-Sisobibra (7.82 km) road shilanyas, 23 Feb 2021 — CM ne rakha (wahi ST article):
+//    REJECT — pre-term + CM ka karyakram.
+// 9. Williamnagar Government College new building + mini stadium lokarpan, 8 Feb 2024 — CM ne kiya, Marcuise Education Minister Rakkam Sangma ke saath
+//    accompanying the (theshillongtimes.com/2024/02/08/cm-inaugurates-williamnagar-government-college-new-building/):
+//    REJECT — dusre neta ke karyakram me maujoodgi (in-term hai lekin vyaktigat bhoomika nahi).
+// 10. Soil Lake, Williamnagar lokarpan, 12 Dec 2025 — CM ne kiya, Marcuise (Soil & Water Conservation Minister) upasthit (syllad.com, meghalayatimes.in;
+//    dono non-whitelist): REJECT — dusre neta ke karyakram me maujoodgi.
+// 11. JJM aur key water supply projects review meeting, 25 May 2025 (Highland Post; themeghalayanexpress.com) — PHE Minister ke roop me raajya-star sameeksha
+//    baithak (Greater Shillong, New Shillong, Williamnagar Phase-II, Tura, Baghmara schemes + Jal Boards): REJECT — vibhagiya mantri-kaam, seat-kaam NAHI.
+// 12. Vegetable market + slaughterhouse (Williamnagar) ghoshnaen, 21 Nov 2025 — meat-fish market ke lokarpan event me mantri ne kaha "planning to construct"
+//    aur "land identified": REJECT — "karenge" khabar, ghoshna akeli entry nahi (whitelist source me bhi ghoshna ke roop me hi hai).
+// 13. Rongrenggre Govt Higher Secondary School renovation ghoshna, Aug 2023 — CM ne kaha "Government will renovate" (syllad.com municipal office article):
+//    REJECT — CM ki ghoshna, "karenge" khabar, Marcuise ki vyaktigat bhoomika nahi.
+// 14. Loyola Secondary School science exhibition inauguration, 22 May 2026 (hubnetwork.in, non-whitelist): REJECT — ceremonial event, koi vikas-kaam nahi.
+// 15. Simsang Festival 2025 inauguration, 18 Dec 2025 (hubnetwork.in, non-whitelist) — Marcuise Chief Guest: REJECT — cultural festival, ceremonial, koi kaam nahi.
+// 16. Greenyard Higher Secondary School new building lokarpan, 12 Feb 2021 (theshillongtimes.com/2021/02/12/new-school-building-inaugurated-by-local-mla-in-williamnagar/,
+//    ADB-funded): REJECT — whitelist coverage thi lekin PRE-TERM (2018-2023 karyakaal) — is record me kabhi nahi jodegi.
+// 17. Basketball court (Rs 5 lakh) at Rongrenggre Govt HSS lokarpan, 3 Aug 2019 (theshillongtimes.com/2019/08/04/basketball-court-inaugurated-2/):
+//    REJECT — whitelist coverage thi lekin PRE-TERM (2019).
+// 18. 10th Meghalaya Assembly me oath-taking (nenow.in, ~May 2018, adjourned poll): REJECT — ceremonial, pre-term (2018 term).
+// 19. Tennydard M. Marak ki complaints: (a) ECI petition — Williamnagar chunav null-and-void ki maang (theshillongtimes.com/2023/03/27/no-violation-of-model-code-of-conduct-williamnagar-mla/):
+//    NOT NEGATIVE — chunav-yachika akeli negative NAHI (niyamanusar). (b) Police complaint, 6 Apr 2023 ("Report Card 2018-22" MCC violation aarop,
+//    theshillongtimes.com/2023/04/07/after-cec-plaint-now-lodged-with-police-against-marcuise/): NOT NEGATIVE — bina-pusht-jaanch complaint;
+//    srot me sirf complaint darj hone ki khabar hai, FIR register hone ya jaanch ki pushti nahi; MLA ka jawab dono articles me hai (political vendetta ka daava).
+// 20. "FIR against social media page for 'killing' Marcuise" (theshillongtimes.com/2025/02/15/fir-against-social-media-page-for-killing-marcuise/): NOT NEGATIVE —
+//    MLA khud shikayat-karta/peedit hain (jhoothi assassination khabar par unhone khud FIR karayi); niyam: MLA peedit ho to negative NAHI.
+// 21. Kartush R. Marak (Baghmara, Independent) ke khilaaf disqualification plea, 23 Mar 2023 (theshillongtimes.com/2023/03/23/meghalaya-hc-takes-up-plea-seeking-disqualification-of-mla/):
+//    REJECT — alag vyakti (naam-ka-jaal; Baghmara seat).
+// 22. Stevie Marak (NPP MDC, Boldamgre) ke khilaaf FIR, Nov 2024 (nenow.in): REJECT — alag vyakti (MDC, MLA nahi).
+// 23. Bernard R. Marak (BJP vice-president) case (thewire.in): REJECT — alag vyakti.
+// 24. Dama Chiring bridge inspection, Masa Akong, 27 May 2025 (indiatodayne.in) — CM ka nirikshan; Marcuise ne concern uthaya tha: REJECT — nirikshan/daura,
+//    dusre neta (CM) ka karyakram.
+// 25. Williamnagar Civil Hospital inspection by CM, 27 May 2025 (indiatodayne.in): REJECT — CM ka nirikshan/daura, Marcuise ki vyaktigat bhoomika nahi.
+// 26. Rongjeng stadium foundation stone, 13 Oct 2023 (theshillongtimes.com/2023/10/14/rs-1000-cr-for-sports-infra-in-state/) — CM ne rakha; Rongjeng alag seat
+//    (MLA Jim Sangma): REJECT — kshetra-bahar + CM ka karyakram.
+//
+// RETRY LEADS (whitelisted coverage milne par evaluate karo — mantri-disclosure + fund-source disclosure lazmi):
+// A. Rongranggre Govt HSS synthetic football turf (Rs 11.56 cr) shilanyas, ~July 2024 — nenews report (23 Jul 2024) ke mutabiq Marcuise ne rakha tha;
+//    (https://nenews.in/meghalaya/meghalayas-rongranggre-school-to-get-rs-11-56-crore-synthetic-football-turf/12092/). Shillong Times/Highland Post/EastMojo/Northeast Now me coverage dhundo → "shilanyas" entry.
+// B. Ampangdamgre Urban Health and Wellness Centre lokarpan, 3 Mar 2026 — Marcuise ne kiya (hubnetwork + themeghalayanexpress coverage);
+//    (https://hubnetwork.in/marcuise-inaugurates-urban-health-and-wellness-centre-at-ampangdamgre/). Whitelisted coverage mile to "lokarpan"/Aspataal entry.
+// C. "Neng-takram" resting arena (SP Office ke paas) lokarpan, 21 Dec 2025 — Marcuise ne kiya;
+//    (https://hubnetwork.in/neng%C2%B7takram-resting-arena-inaugurated-near-sp-office-williamnagar-ahead-of-christmas/). Whitelisted coverage mile to "lokarpan"/Any entry.
+
+meghalayaWorks['jim-m-sangma'] = [];
+
+// ============================================================================
+// REJECT-LOG (numbered; har reject: headline + source + date + URL + kaaran)
+// ============================================================================
+// 1. "Rongjeng-Mangsang-Adokgre road 97pc done, Assembly told" — Highland Post —
+//    2026-08-26 — https://highlandpost.com/rongjeng-mangsang-adokgre-road-97pc-done-assembly-told/
+//    Kaaran: REJECT. Page khud padha. Jim M Sangma ne Assembly me sirf sawal uthaya tha
+//    (maang/prastav akele); project 2018 me sanction hua tha (pre-term). MLA ka apna koi kaam nahi.
+// 2. "Opp leader slams Centre's 'U-turn' on scope of GH road project" — The Shillong Times —
+//    2026-08-27 — https://theshillongtimes.com/2026/08/27/opp-leader-slams-centres-u-turn-on-scope-of-gh-road-project/
+//    Kaaran: REJECT. Wahi RMA road kahani; Jim M Sangma ne Question Hour me mudda uthaya.
+//    Sawal/maang akele entry nahi banta.
+// 3. "Rs 1,000 cr for sports infra in state" — The Shillong Times — 2023-10-13 —
+//    https://theshillongtimes.com/2023/10/14/rs-1000-cr-for-sports-infra-in-state/
+//    Kaaran: REJECT. CM Conrad Sangma ne Rongjeng Football Stadium (Rs 9.25 cr) ka shilanyas
+//    kiya; Jim Sangma sirf upasthit the. Dusre neta (CM) ke karyakram me maujoodgi.
+//    (meghalaya.gov.in press release bhi CM ka event confirm karta hai.)
+// 4. "Rongjeng violin teacher dies in Dubai, body repatriated" — Highland Post — 2026-05-24 —
+//    https://highlandpost.com/rongjeng-violin-teacher-dies-in-dubai-body-repatriated/
+//    Kaaran: REJECT. Page khud padha. Parivar ne sampark kiya, MLA ne CM ke zariye madad
+//    dilwayi — vyaktigat manavtavaadi sahayata hai, vikas-kaam nahi. Koi stage
+//    (poora/lokarpan/swikriti/shilanyas/ghoshna) lagu nahi hota.
+// 5. "Congress revival will not impact NPP in GHADC elections: MLA" — The Shillong Times —
+//    2025-11-18 — https://theshillongtimes.com/2025/11/19/congress-revival-will-not-impact-npp-in-ghadc-elections-mla/
+//    Kaaran: REJECT. GHADC chunavon par rajnaitik bayan; kshetra-kaam nahi.
+// 6. "Conrad reminded of Civil Sub-Division demand for Rongjeng" — The Shillong Times —
+//    2021-09-01 — https://theshillongtimes.com/2021/09/01/conrad-reminded-of-civil-sub-division-demand-for-rongjeng/
+//    Kaaran: REJECT. Pre-term (Sep 2021; karyakaal Mar 2023 se shuru) + maang/prastav akele.
+// 7. "Rongjeng MLA Jim Sangma, mejalo Rongjeng CHC-ona re-ange sagipa-ding-giparangko
+//    nirokangenga" — The Shillong Times (Garo sanskaran) — 2026-09-15 —
+//    https://theshillongtimes.com/2026/09/15/rongjeng-mla-jim-sangma-mejalo-rongjeng-chc-ona-re%c2%b7ange-sagipa-ding%c2%b7giparangko-nirokangenga/
+//    Kaaran: REJECT. Sheershak se Rongjeng CHC ka nirikshan/daura lagta hai (nirikshan akele
+//    entry nahi banta); saath hi page login-wall ke peeche tha, body khud padhi nahi ja saki.
+//    RETRY LEADS me bhi darj hai.
+// 8. "Rongjeng gets first mineral water plant; MLA Jim M. Sangma inaugurates facility" —
+//    Hub Network (hubnetwork.in) — 2026-02-09 (crawl-delta se anumanit) —
+//    https://hubnetwork.in/rongjeng-gets-first-mineral-water-plant-mla-jim-m-sangma-inaugurates-facility/
+//    Kaaran: REJECT. Srot whitelist me nahi (chhota portal). Upar se niji udyam (J.J. Mineral
+//    Water Plant "Chimik", proprietor Janseng R. Marak) — MLA ne mukhya atithi ke roop me
+//    udghatan kiya; sarkari ya MLA-nidhi ka kaam nahi.
+// 9. "Construction painter & decorator training program concludes at Rongjeng" — Hub Network —
+//    2025-11-11 — https://hubnetwork.in/construction-painter-decorator-training-program-concludes-at-rongjeng/
+//    Kaaran: REJECT. Srot whitelist me nahi. MSSDS-funded prashikshan (Rongjeng Rongsil,
+//    Dambo Rongjeng C&RD Block); MLA sirf praman-patra vitran me mukhya atithi — upasthiti matra.
+// 10. "Meghalaya CM inaugurates Rongjeng Model Degree College" — news.careers360.com /
+//    syllad.com — 2024-08-19/20 —
+//    https://news.careers360.com/meghalaya-chief-minister-conrad-k-sangma-inaugurates-rongjeng-model-degree-college
+//    Kaaran: REJECT. CM ka karyakram (CM ne college ka udghatan kiya; RUSA 2.0, Rs 12 cr);
+//    Jim Sangma sirf upasthit/vakta — dusre neta ke karyakram me maujoodgi + srot whitelist me nahi.
+// 11. "CM inaugurates new Block Development Integrated Complexes in East Garo Hills" — Syllad —
+//    2025-05-28 — https://www.syllad.com/cm-inaugurates-new-block-development-integrated-complexes-in-east-garo-hills/
+//    Kaaran: REJECT. CM ne Songsak aur Dambo Rongjeng ke complexes ka udghatan kiya; Jim Sangma
+//    sirf upasthit — CM ke karyakram me maujoodgi + srot whitelist me nahi.
+// 12. "CM inaugurates Williamnagar Government College new building" — The Shillong Times —
+//    2024-02-08 — https://theshillongtimes.com/2024/02/08/cm-inaugurates-williamnagar-government-college-new-building/
+//    Kaaran: REJECT. CM ka karyakram; Jim M Sangma vishesh atithi ke roop me bole — dusre neta ke
+//    karyakram me maujoodgi + Williamnagar, Marcuise Marak ki seat hai (kshetra-bahar).
+// 13. "Meghalaya CM launches Rs 7.71 Cr stadium upgrade, PHC revamp at Mansang on PA Sangma's
+//    10 anniversary" — Syllad — 2026-03-04 (anumanit) —
+//    https://www.syllad.com/meghalaya-cm-launches-rs-7-71-cr-stadium-upgrade-phc-revamp-at-mansang-on-pa-sangmas-10-anniversary/
+//    Kaaran: REJECT. CM ne Mangsang PHC navinikaran (Rs 2.98 cr) ka shilanyas kiya; Jim M Sangma
+//    sirf upasthit — CM ke karyakram me maujoodgi + srot whitelist me nahi.
+// 14. "Rongjeng MLA thanks Meghalaya CM, govt officials for repatriating mortal remains of
+//    Dubai-based violin teacher" — Hub Network — 2026-05-27 —
+//    https://hubnetwork.in/rongjeng-mla-thanks-meghalaya-cm-govt-officials-for-repatriating-mortal-remains-of-dubai-based-violin-teacher/
+//    Kaaran: REJECT. Srot whitelist me nahi; vishay wahi manavtavaadi sahayata (reject #4) —
+//    vikas-kaam nahi.
+//
+// NAMESAKE JAAL — safai: "James P.K. Sangma" (Dadenggre, ex-mantri, ab Rajya Sabha MP) ki
+//   Rajya Sabha se judi saari khabrein alag vyakti ki hain; Rongjeng record me kuch nahi joda gaya.
+//   "Jimmy D. Sangma" (Tikrikilla) ki koi khabar nahi mili. "Jim Sangma" naam wali har khabar
+//   me seat = Rongjeng verify ki gayi.
+//
+// NEGATIVE: koi nahi mila. Whitelisted media me Jim M. Sangma ke khilaf koi FIR, jaanch ya
+//   established-media reporting wali nakaratmak khabar nahi mili.
+//
+// ============================================================================
+// RETRY LEADS
+// ============================================================================
+// R1. Shillong Times Garo article (2026-09-15) — Rongjeng CHC nirikshan — login-wall ke peeche;
+//     Garo edition access ya archive se body nikal kar confirm karo (sambhavatah nirikshan akele
+//     hi niklega, phir bhi reject hi rahega).
+// R2. Whitelisted sroton me Jim M Sangma ke APNE shilanyas/udghatan/vitran ki koi khabar 6 passes
+//     me nahi mili — sirf upasthiti aur Assembly-sawal wali khabrein mili. Agla pass: Highland Post
+//     / Shillong Times ke archive me "Rongjeng" + "Dambo Rongjeng" block-level khoj.
+// R3. hubnetwork.in wali mineral water plant kahani (2026-02-09) agar kabhi whitelisted srot me
+//     dikhe to dobara aanka ja sakta hai — lekin niji udyam hone se entry ki sambhavna kam hai.
+
+meghalayaWorks['dr-mukul-sangma'] = [];
+
+// REJECT-LOG (dr-mukul-sangma — Songsak (ST), AITC, karyakaal Mar 2023–2028, East Garo Hills):
+// 1. "Mukul inaugurates community hall" — The Shillong Times — 2022-12-05 — https://theshillongtimes.com/2022/12/05/mukul-inaugurates-community-hall/ — pre-term: karyakaal Mar 2023 se shuru hua, ye Songsak/Megapgre community hall ka lokarpan usse pehle ka hai (page khud kholkar verify kiya; TMC election bandwagon campaign ke dauran).
+// 2. "PCI in North East was higher than India before Independence: Mukul Sangma" — The Shillong Times — 2022-12-06 — https://theshillongtimes.com/2022/12/06/pci-in-north-east-was-higher-than-india-before-independence-mukul-sangma/ — pre-term + sirf bayan, koi kaam nahi.
+// 3. "Mukul slams illegal stone mining, infrastructure neglect in Songsak" — The Shillong Times — 2026-05-28 — https://theshillongtimes.com/2026/05/28/mukul-slams-illegal-stone-mining-infrastructure-neglect-in-songsak/ — nirikshan/daura akele + aarop/maang akele: Songsak-Mendipathar sadak, Songkama Rongdal pul, NH-127B widening, Songsak-Barikgre PMGSY sadak ka nirikshan; koi poora kaam, lokarpan ya prashasnik nateeja nahi, sirf on-the-spot nirdesh (page khud kholkar verify kiya).
+// 4. "Meghalaya's East Garo Hills gets integrated development complex for quality public service" — India Today NE — 2025-05-28 — https://www.indiatodayne.in/meghalaya/story/meghalayas-east-garo-hills-gets-integrated-development-complex-for-quality-public-service-1220679-2025-05-28 — galat vyakti: CM Conrad K. Sangma ne Songsak Block Integrated Development Complex ka lokarpan kiya; Dr. Mukul ka karyakram nahi, wo maujood bhi nahi the.
+// 5. "CM inaugurates new Block Development Integrated Complexes in East Garo Hills" — syllad.com — 2025-05-29 — https://www.syllad.com/cm-inaugurates-new-block-development-integrated-complexes-in-east-garo-hills/ — non-whitelist srot + galat vyakti (Conrad Sangma; Jim Sangma, Rupert Momin maujood the).
+// 6. "Meghalaya CM Inaugurates Block Development Complex In East Garo Hills" — northeasttoday.in — 2025-05-28 — https://northeasttoday.in/northeast/meghalaya-cm-inaugurates-block-development-complex-in-east-garo-hills/ — galat vyakti (Conrad Sangma); note: ye Northeast Today hai, whitelist ka Northeast Now (nenow.in) nahi.
+// 7. "Mukul lays base for Rural Entrepreneurship Centre" — The Shillong Times — 2017-07-29 — https://theshillongtimes.com/2017/07/29/mukul-lays-base-for-rural-entrepreneurship-centre/ — pre-term: poorv-CM karyakaal (2010-2018) ka kaam; Nangapa (Songsak C&RD Block) ka shilanyas 2017 me hua tha.
+// 8. "CM lays foundation of first Rural Entrepreneurship Centre at Nangapa" — The Shillong Times — 2017-07-28 — https://theshillongtimes.com/2017/07/28/cm-lays-foundation-of-first-rural-entrepreneurship-centre-at-nangapa/ — pre-term (wahi 2017 ka shilanyas, duplicate report).
+// 9. "Mukul lays foundation stone for road constructions" — The Shillong Times — 2017-12-03 — https://theshillongtimes.com/2017/12/03/mukul-lays-foundation-stone-for-road-constructions/ — pre-term: NH127B-Jamge aur Songsak Agal-Napak sadakon ke shilanyas 2017 me hue.
+// 10. "Mukul skips bridge inauguration" / "Mukul to make second attempt" (Simsang suspension bridge, Williamnagar) — The Shillong Times — 2014-08 — https://theshillongtimes.com/2014/08/10/mukul-skips-bridge-inauguration/ — pre-term + kshetra-bahar (Williamnagar, doosra district).
+// 11. "Mukul inaugurates Sohiong C&RD Block" — The Shillong Times — 2017-02-04 — https://theshillongtimes.com/2017/02/04/mukul-inaugurates-sohiong-c-rd-block/ — pre-term + kshetra-bahar (Sohiong, East Khasi Hills).
+// 12. "Mukul inaugurates multi-facility centre" (Nirghini, Betasing C&RD Block) — The Shillong Times — 2013-08-10 — https://theshillongtimes.com/2013/08/10/mukul-inaugurates-multi-facility-centre/ — pre-term + kshetra-bahar (South West Garo Hills).
+// 13. "Mukul inaugurates Shillong Passport Seva Kendra" — The Shillong Times — 2014-11-15 — https://theshillongtimes.com/2014/11/15/mukul-inaugurates-shillong-passport-seva-kendra/ — pre-term + kshetra-bahar (Shillong).
+// 14. "Mukul inaugurates North Garo Hills district" (Resubelpara) — The Shillong Times — 2012-07-28 — https://theshillongtimes.com/2012/07/28/mukul-inaugurates-north-garo-hills-district/ — pre-term + kshetra-bahar.
+// 15. "CM lays foundation stone for Integrated market complex" (Ampati) — The Shillong Times — 2013-06-11 — https://theshillongtimes.com/2013/06/11/cm-lays-foundation-stone-for-integrated-market-complex/ — pre-term + kshetra-bahar (South West Garo Hills).
+// 16. "Shillong Bypass inauguration before Christmas: Mukul" — The Shillong Times — 2012-11-09 — https://theshillongtimes.com/2012/11/09/shillong-bypass-inauguration-before-christmas-mukul/ — pre-term, ghoshna-khabar.
+// 17. "'Rare that a CM gets to lay foundation, inaugurate project'" (Mawkhar Multi Facility Utility Centre) — The Shillong Times — 2017-08-10 — https://theshillongtimes.com/2017/08/10/rare-that-a-cm-gets-to-lay-foundation-inaugurate-project/ — pre-term + kshetra-bahar (Shillong).
+// 18. "Mukul eager to contest twin seats in time of adversities" — The Shillong Times — 2017-07-16 — https://theshillongtimes.com/2017/07/16/mukul-eager-to-contest-twin-seats-in-time-of-adversities/ — pre-term rajnaitik khabar, koi kaam nahi.
+// 19. "CM 'focuses' on NPP bastion" — The Shillong Times — 2017-07-30 — https://theshillongtimes.com/2017/07/30/cm-focuses-on-npp-bastion/ — pre-term rajnaitik khabar.
+// 20. "CM on pre-poll inauguration spree in State" — The Shillong Times — 2017-05-11 — https://theshillongtimes.com/2017/05/11/cm-on-pre-poll-inauguration-spree-in-state/ — pre-term rajnaitik analysis, koi kaam nahi.
+// 21. "Mukul takes oath as 26th CM" — The Shillong Times — 2013-03-06 — https://theshillongtimes.com/2013/03/06/mukul-takes-oath-as-26th-cm/ — pre-term sansthaagat gatividhi.
+// 22. "Meghalaya CM lays foundation stone for medical college" (Shillong) — Express Healthcare — 2017 — https://www.expresshealthcare.in/amp/news/meghalaya-chief-minister-lays-foundation-stone-for-medical-college/394813/ — non-whitelist srot + pre-term + kshetra-bahar.
+// 23. "Mukul lays MPSC office base" — The Shillong Times — 2011-08-27 — https://theshillongtimes.com/2011/08/27/mukul-lays-mpsc-office-base/ — pre-term + kshetra-bahar (Shillong).
+// 24. "Externally aided projects in Meghalaya rise nearly 10 times to Rs 11,324 crore: CM" — The Week — 2025-09-11 — https://www.theweek.in/wire-updates/national/2025/09/11/ces47-mg-eap.amp.html — non-whitelist srot; andar ka Mukul sandarbh 2022 ke ek bridge-lokarpan se na-bulaye-jane ki shikayat ka hai (pre-term ghatna + shikayat akeli, koi kaam nahi).
+// 25. "Mukul takes up illegal extraction of stones for road project" — meghalayamonitor.com — 2026-05-14 — https://meghalayamonitor.com/mukul-takes-up-illegal-extraction-of-stones-for-road-project/ — non-whitelist srot; DC ko patra/maang akele, koi prashasnik nateeja report nahi hua.
+// 26. "Mukul flags illegal stone extraction, road damage in NH-127B work; seeks immediate action from DC" — syllad.com — 2026-05-15 — https://www.syllad.com/mukul-flags-illegal-stone-extraction-road-damage-in-nh-127b-work-seeks-immediate-action-from-dc/ — non-whitelist srot; maang akele.
+// 27. "Minor's death exposes selective priorities in road connectivity: Mukul" — syllad.com — 2026-10-09 — https://www.syllad.com/minors-death-exposes-selective-priorities-in-road-connectivity-mukul/ — non-whitelist srot; LoP sansthaagat bayan, West Khasi Hills ka mamla, kshetra-bahar.
+// 28. "Child's death reflects govt's misplaced priorities: Mukul" — The Shillong Times — 2026-10-08 — https://theshillongtimes.com/2026/10/09/childs-death-reflects-govts-misplaced-priorities-mukul/ — LoP sansthaagat bayan, koi kaam nahi, kshetra-bahar.
+// 29. "State vulnerable to resurgence of militancy: Mukul" — The Shillong Times — 2026-09-02 — https://theshillongtimes.com/2026/09/03/state-vulnerable-to-resurgence-of-militancy-mukul/ — LoP sansthaagat statement (Songsak firing par tippani), koi vikas-kaam nahi.
+// 30. "Mukul rules out joining BJP, says he's with 'original TMC'" — The Shillong Times — 2026-10-08 — https://theshillongtimes.com/2026/10/09/mukul-rules-out-joining-bjp-says-hes-with-original-tmc/ — rajnaitik bayan, koi kaam nahi.
+// 31. "Speculations run rife over Mukul's Delhi visit: Where's he heading?" — The Shillong Times — 2025-12-14 — https://theshillongtimes.com/2025/12/14/speculations-run-rife-over-mukuls-delhi-visit-wheres-he-heading/ — rajnaitik speculation, koi kaam nahi.
+// 32. "Mukul rubbishes speculation of his entry into ruling party" — The Shillong Times — 2025-12-15 — https://theshillongtimes.com/2025/12/15/mukul-rubbishes-speculation-of-his-entry-into-ruling-party/ — rajnaitik bayan, koi kaam nahi.
+// 33. "Mukul decries poaching of TMC parliamentarians" — Highland Post — 2026-10-08 — https://highlandpost.com/mukul-decries-poaching-of-tmc-parliamentarians/ — LoP sansthaagat/rajnaitik bayan, koi kaam nahi.
+// 34. "Mukul Sangma Says No To BJP In Meghalaya, Says Trinamool Won't Break" — NDTV — 2026-10-08 — https://www.ndtv.com/india-news/mukul-sangma-says-no-to-bjp-in-meghalaya-says-trinamool-wont-break-12159889/amp/1 — rajnaitik bayan, koi kaam nahi.
+// 35. "Mukul Sangma urges all MLAs, MPs to contribute towards school revival" — sentinelassam.com — 2025-07-21 — https://www.sentinelassam.com/north-east-india-news/meghalaya-news/meghalaya-mukul-sangma-urges-all-mlas-mps-to-contribute-towards-school-revival — non-whitelist srot; generic bayan, Songsak ka koi specific project nahi.
+// 36. "Education minister asks LO to renovate dilapidated schools from MLA scheme" — syllad.com — 2025-07-21 — https://www.syllad.com/education-minister-asks-lo-to-renovate-dilapidated-schools-from-mla-scheme/ — non-whitelist srot; generic MLA-scheme (SRWP) entitlement par charcha, Songsak ka koi specific recommended project nahi.
+// 37. "Meghalaya CM promises special study on high anaemia among pregnant women in East Garo Hills" — hubnetwork.in — 2026-08-25 — https://hubnetwork.in/meghalaya-cm-promises-special-study-on-high-anaemia-among-pregnant-women-in-east-garo-hills/ — non-whitelist srot; "karenge" khabar (CM ka assurance matra, GO/sanction nahi); Assembly sawal ka promise-star ka jawab; jila-star ka mudda, seat-specific pahal nahi.
+// 38. "Mukul Sangma kicks off Congress campaign from NPP stronghold" — Northeast Now (nenow.in) — 2018 — https://nenow.in/north-east-news/mukul-kicks-off-congress-campaign-npp-stronghold.html — pre-term (2018 chunav prachar); srot whitelist me hai lekin ghatna scope se bahar.
+// 39. "Meghalaya Election Results 2023: Ex-CM Mukul Sangma Bags Songsak, Loses Tikrilla Seat" — thedailyjagran.com — 2023-03-02 — https://www.thedailyjagran.com/india/meghalaya-election-results-2023-excm-mukul-sangma-bags-songsak-loses-tikrilla-seat-10067425 — non-whitelist srot; chunav result, koi kaam nahi.
+// 40. "LO to flag politician-police nexus at state security commission meet" — The Shillong Times — 2026-10-08 — https://theshillongtimes.com/2026/10/09/lo-to-flag-politician-police-nexus-at-state-security-commission-meet/ — LoP sansthaagat gatividhi, koi kaam nahi.
+// 41. "BJP's expansion: Real breakthrough or just a larger Assembly footprint?" — The Shillong Times — 2026-10-05 — https://theshillongtimes.com/2026/10/05/bjps-expansion-real-breakthrough-or-just-a-larger-assembly-footprint/ — analysis piece, koi kaam nahi.
+// 42. "Sports, health boost for East Garo Hills as CM launches key infrastructure projects" (Mangsang mini stadium + PHC renovation) — hubnetwork.in — 2026-03-05 — https://hubnetwork.in/sports-health-boost-for-east-garo-hills-as-cm-launches-key-infrastructure-projects/ — non-whitelist srot + galat vyakti (shilanyas CM Conrad K. Sangma ne kiya).
+// 43. "Meghalaya strengthens tribal education network with new EMRS in East Garo Hills" (EMRS Samanda) — hubnetwork.in — 2026-02 — https://hubnetwork.in/meghalaya-strengthens-tribal-education-network-with-new-emrs-in-east-garo-hills/ — non-whitelist srot + galat vyakti (CM Conrad Sangma, minister Marcuise Marak).
+// 44. "On statehood day, Meghalaya CM lays foundation stone for new secretariat building" — theprint.in — 2025-01-21 — https://theprint.in/india/on-statehood-day-meghalaya-cm-lays-foundation-stone-for-new-secretariat-building/2455868/?amp — non-whitelist srot + galat vyakti (Conrad K. Sangma).
+// 45. "West Garo hills get D&S judge court" (Tura) — ohmeghalaya.com — 2013 — https://ohmeghalaya.com/west-garo-hills-get-ds-judge-court/ — non-whitelist srot + pre-term + kshetra-bahar (West Garo Hills).
+// 46. "Mukul lay foundation for first LP school in remote Garo hills village" (Damdiloka, SWGH) — ohmeghalaya.com — 2016 — https://ohmeghalaya.com/mukul-lay-foundation-for-first-lp-school-in-remote-garo-hills-village/ — non-whitelist srot + pre-term + kshetra-bahar (South West Garo Hills).
+// 47. "Songsak firing 'tip of iceberg', Mukul warns of militancy revival" — syllad.com — 2026-09-02 — https://www.syllad.com/songsak-firing-tip-of-iceberg-mukul-warns-of-militancy-revival/ — non-whitelist srot; LoP statement, koi kaam nahi.
+// 48. "No room for politics in public money, says Mukul Sangma" — syllad.com — 2026-02-26 — https://www.syllad.com/no-room-for-politics-in-public-money-says-mukul-sangma/ — non-whitelist srot; Assembly cut-motion (LoP sansthaagat gatividhi).
+// 49. "Meghalaya House in Delhi to expand as CM lays foundation stone for annexe" — syllad.com — 2025-12-16 — https://www.syllad.com/meghalaya-house-in-delhi-to-expand-as-cm-lays-foundation-stone-for-annexe/ — non-whitelist srot + galat vyakti (Conrad Sangma).
+// 50. "Mukul Sangma says major reforms needed to make Justice Affordable" — meghalayatimes.in — 2026-10-10 — https://meghalayatimes.in/mukul-sangma-says-major-reforms-needed-to-make-justice-affordable/ — non-whitelist srot; LoP statement.
+// 51. "Dr Mukul alleges 'anti-people conspiracy' to block MRSSA implementation" — meghalayanews24.in — 2026-10-08 — https://meghalayanews24.in/dr-mukul-alleges-anti-people-conspiracy-to-block-mrssa-implementation/ — non-whitelist srot; LoP statement.
+// 52. "Songsak-Mendipathar road: 40 km of agony" — The Shillong Times — 2026-07-21 — https://theshillongtimes.com/2026/07/21/songsak-mendipathar-road-40-km-of-agony/ — condition-reporting; sadak poorv-CM-karyakaal me "German technology" se bani thi (pre-term), Mukul ka isme Mar 2023+ ka personal role nahi.
+// 53. Negative check: allowed established media me Mar 2023+ ki FIR/charge-sheet/jaanch se judi koi reporting nahi mili; LoP ke bayan (militancy chetavni, GHADC extension virodh, MRSSA) sansthaagat rajnaitik gatividhi hain, aarop-niradhar nahi; poorv-karyakaal (2010-2018) se jude purane aaropon par Mar 2023+ me koi nayi karyavahi (FIR/charge/janch ka current development) ki khabar nahi — koi negative entry nahi banti.
+// 54. Pehchan verified: Dr. Mukul Sangma, AITC, Songsak (ST), East Garo Hills — 2023 me Songsak jeete (Nihim D. Shira/NPP ko haraya) aur Tikrikilla se haare (Jimmy D. Sangma/NPP se); Leader of Opposition since 28 Aug 2024; Conrad K. Sangma (CM, South Tura), James P.K. Sangma (Dadenggre), Jimmy D. Sangma (Tikrikilla), Thomas A. Sangma (Speaker, North Tura) sab alag vyakti — koi record-milan nahi hua.
+// 55. RETRY LEADS: (a) theshillongtimes.com ka internal archive search ("Songsak" + Mukul, 2023-2026) — search-engine coverage se bahar ka qualifying post-event lokarpan/shilanyas mil sakta hai; (b) eastmojo.com archive me "Mukul Sangma" Songsak; (c) highlandpost.com archive me Mukul + Songsak 2023-2026; (d) nenow.in (Northeast Now) archive me Mukul + Songsak 2023-2026; (e) Indian Express/TOI/HT/The Hindu ke archives me "Mukul Sangma" Songsak development. Note: May 2026 me TMC ka split hua (Oct 2026 ki reporting ke anusar ~5 mahine pehle), Mukul "original TMC" (Mamata Banerjee-led) ke saath hain — ye rajnaitik context hai, LoP pad par iska asar reporting me nahi dikha.
+
+// QA: 7 search passes (general + Songsak-specific + foundation-laying + national-source + Meghalaya-source specific + 2023-inauguration + MLA-scheme) + 2 whitelist pages khud kholkar padhe (May 2026 ka nirikshan-report, Dec 2022 ka community hall); har result pre-term, LoP-sansthaagat, galat-vyakti, kshetra-bahar, ya non-whitelist nikla; qualifying entries 0 — khaali profile imaandari se.
