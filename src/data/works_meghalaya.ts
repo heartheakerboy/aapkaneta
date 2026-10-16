@@ -1595,3 +1595,88 @@ meghalayaWorks['kartush-r-marak'] = [];   // koi whitelist-post-event works entr
 // gaya (GSU-PIL page khud padha — sirf PIL-dhamki, koi pusht jaanch nahi); snippet se koi entry nahi banai.
 // Mar 2023 ke baad ka koi bhi MLA-attributable poora/lokarpan/swikriti/shilanyas/ghoshna wala seat-level kaam
 // whitelisted post-event reporting me nahi mila — isliye entries khaali hain; khaali profile imaandari hai.
+
+// ---- West Khasi Hills district batch (researched 2026-10-16) ----
+
+meghalayaWorks['gabriel-wahlang'] = [
+  {
+    title: 'Pyndengrei Gaon Ke Naye Dorbar Hall Ka Lokarpan — MLA Gabriel Wahlang Ne Kiya Udghatan', category: 'Any', badge: 'news', stage: 'lokarpan',
+    sourceLabel: 'Highland Post', sourceUrl: 'https://highlandpost.com/nongstoin-mla-to-set-up-coaching-centres-in-constituency/',
+    date: '2025-11-08',
+    note: 'Highland Post ne 10 November 2025 ko report kiya ki Nongstoin MLA Gabriel Wahlang ne Pyndengrei gaon ke naye Dorbar Hall ka udghatan kiya. Hall ki lagat Rs 1.28 crore batayi gayi aur iska kaam 2 October 2024 ko shuru hua tha. Udghatan karyakram me Pyndengrei ke Sordar M Marwein, sthaniya dorbar ke padadhikari aur nivasi maujood the. Report me fund ka srot (MLA Scheme/SRWP ya koi aur sarkari yojana) specify nahi kiya gaya — isliye fund-credit MLA ko nahi diya gaya; darj bhoomika udghatan-karta ki hai. Usi karyakram me unhone gaon ke yuvaon ke liye MCS/IAS/IPS jaise competitive exams ke coaching centres kholne ki yojana ki ghoshna ki — wo abhi keval ghoshna hai.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['remington-gabil-momin'] = [];
+
+meghalayaWorks['methodius-dkhar'] = [
+  {
+    title: 'Mawthengkut me Government Model Degree College ko PM-USHA se Rs 15 crore ki swikriti', category: 'School', badge: 'news', stage: 'swikriti',
+    sourceLabel: 'Highland Post', sourceUrl: 'https://highlandpost.com/model-degree-college-for-mawshynrut-area/',
+    date: '2025-12-30',
+    note: 'Highland Post ki 30 December 2025 ki reporting ke mutabiq kendra sarkar ne PM-USHA (RUSA) scheme ke tahat Mawshynrut ke Mawthengkut gaon me ek Government Model Degree College ke liye Rs 15 crore ke fund swikrit kiye hain; ye Mawshynrut area ke liye pehla degree college hoga. Mawshynrut MLA aur cabinet mantri Methodius Dkhar ne proposed site ka nirikshan kiya aur swikriti ke liye PM, CM aur Shiksha Mantri ka dhanyavaad diya. Disclosure: swikriti kendra sarkar ki PM-USHA scheme ki hai, rajya sarkar ya MLA nidhi ki nahi; MLA ki darj bhoomika site nirikshan aur sarvajanik samarthan tak seemit rahi — nirman ya udghatan unhone nahi kiya, isliye shrey simit hai. Mantri-framing lagu hai kyunki swikriti ke samay ve cabinet me the.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (gabriel-wahlang / Nongstoin ST, NPP):
+// 1. Nongstoin MCH Hospital operationalisation (15 Oct 2026, CM Conrad Sangma-led) — Wahlang sirf "present" the (Highland Post/hubnetwork/nenews); sirf maujoodgi. Reject.
+// 2. Synod College building inauguration (15 Oct 2026, CM-led) — presence only. Reject.
+// 3. PRIME Hub inauguration, Pyndenglawar (15 Apr 2026, CM-led, Rs 5.92 cr) — presence only. Reject.
+// 4. Sohpian-Nongstoin road / Golden Jubilee Garden / DIET building foundation stones (15 Oct 2026, CM-led) — presence only. Reject.
+// 5. New Nongstoin Durbar Hall inauguration (15 Apr 2026, CM-led) — meghalaya.gov.in DIPR press release bhi CM ko udghatan-karta batata hai, MLA present. Reject.
+// 6. FM transmitter dedication Nongstoin (28 Apr 2023, PM Modi-led) — The Shillong Times; MLA local celebration me attendee. Reject.
+// 7. Nongkynjang PHC status enquiry (Vidhan Sabha, Mar 2023) — The Shillong Times; pooch-taach maatra. Reject.
+// 8. Squash Mission demand / Nongstoin Urban Supply Scheme sawal / Smart Town demand (Vidhan Sabha) — The Shillong Times; maang/prastav akele. Reject.
+// 9. Coaching centres kholne ki ghoshna (Highland Post, Nov 2025) — sirf "plan" announcement, poora kaam nahi. Reject as standalone.
+// 10. SC/ST Committee EMRS inspection, Pahamsyiem (The Shillong Times, Mar 2026) — nirikshan akele; Committee Chairman ke roop me gaye the. Reject.
+// 11. Rice distribution 600 quintals (The Shillong Times, Apr 2020) — pre-term (2020 me woh MDC the), KHADC funds. Reject.
+// 12. Cash-for-job row police complaint (Highland Post, 1 Oct 2026) — MLA khud shikayat-karta; political matter; MLA-as-complainant negative nahi. Reject.
+// 13. Umpling Sports Club felicitation (The Shillong Times, Jan 2026) — ceremony me maujoodgi + support ka vaada. Reject.
+// 14. INC-to-NPP merger stories (Aug 2024) — dal-badal akela negative nahi (niyam), works entry bhi nahi. Reject.
+// 15. KHADC/MDC-era purani khabrein (2023 se pehle) — pre-term + ADC kaam. Reject.
+// 16. Adviser appointment (Mining and Geology + PHE, Aug 2024, The Shillong Times) — niyukti hai, kaam nahi; electionNote disclosure jud gaya.
+// Kul: 20 search-prayas, 1 whitelisted page khud khola; BATCH KUL: 1 entry.
+
+// REJECT-LOG (remington-gabil-momin / Rambrai-Jyrngam ST, IND):
+// 1. Rambrai C&RD Block inauguration (Shillong Times, 9 Nov 2022) — pre-term (tab local MLA Kimfa Marbaniang the), CM Conrad Sangma ka program. Reject.
+// 2. Nongstoin Durbar Hall inauguration (15 Apr 2026, CM-led) — Momin "also present". Reject: sirf maujoodgi.
+// 3. Synod College new building inauguration, Nongstoin (15 Oct 2026) — Momin sirf "attended/present"; srot whitelisted bhi nahi. Reject.
+// 4. Rs 31.05 crore MCH Hospital Nongstoin operational (15 Oct 2026) — Momin sirf "in the presence of"; CM ka program. Reject.
+// 5. Nongkharai Presbyterian Hr Sec School inauguration (~Oct 2025) — Momin "other dignitary present" at CM's event; non-whitelist. Reject.
+// 6. "MLAs seek upgrades in healthcare facilities" (Shillong Times, 24 Mar 2023) — Momin ne Landongdai me naya health sub-centre aur Siminaguri Mallangkona ko PHC banane ki MAANG uthayi; minister ne sirf "noted" kaha. Reject: maang akeli.
+// 7. 45-day animal-feed skill training inauguration (Highland Post, 24 Jun 2026, khud khola) — KPADO (NGO) ne MSSDS support se chalaya; Momin ne sirf udghatan kiya. Reject: ceremonial maujoodgi, MLA ki apni scheme/suvidha nahi.
+// 8. Estimates Committee interactive session (Shillong Times, 24 Apr 2025) — committee meeting me haziri. Reject.
+// 9. Petition Committee meeting, Mendipathar (Shillong Times, 13 Sep 2024) — committee kaam. Reject.
+// 10. Petitions Committee awareness prog, Nongpoh (Shillong Times, 30 Jun 2025) — committee member ke roop me haziri. Reject.
+// 11. Langpih border-dispute Regional Committee (Shillong Times, 8 Jul 2023) — regional committee membership. Reject.
+// 12. SWKH ITI inspection tour (Shillong Times, 8 Sep 2023) — Estimates committee daura, kshetra-bahar. Reject: nirikshan akele.
+// 13. Ri-Bhoi projects inspection (Shillong Times, 19 Aug 2025) — Estimates committee, kshetra-bahar. Reject.
+// 14. Ind MDC from Rambrai align with NPP-MDA (Shillong Times, 25 Feb 2025) — raajnaitik khabar, vikas-kaam nahi. Reject.
+// 15. Ri Muliang block office relocation protest (Highland Post, 14 Jun + 8 Sep 2026, dono khud khole) — graamvasiyon ka "political reasons" ka aarop; koi FIR, jaanch ya MLA ka jawab nahi; shift ki ghoshna DyCM Prestone Tynsong ne ki (sarkari/DyCM faisla). Reject: na kaam, na negative (bina-pusht-jaanch complaint).
+// 16. C&RD blocks non-functional story (northeastlivetv, Sep 2024) — whitelisted nahi; Momin ne sirf chinta jatayi (maang). Reject.
+// 17. Rambrai Rs 25 crore road / infant death row (hubnetwork/syllad, 5 Oct 2026) — sanction aur shilanyas DyCM Tynsong ne kiya; Momin ka naam hi nahi. Reject: dusre neta ka kaam.
+// 18. "Shillong is Not Meghalaya" column (Shillong Times, 10 Oct 2026) — opinion me constituency ki kami ka zikr; Momin ke naam par koi kaam nahi. Reject.
+// 19. NPP-joining stories (sentinelassam/northeastlivetv) — whitelisted nahi; dal-badal-irada akela kaam nahi (Oct 2026 tak nirdaliya). Reject.
+// 20. "Retired govt official in fray" (Shillong Times, 7 Aug 2022) — pre-term election coverage. Reject.
+// 21. GALAT VYAKTI: Rupert Momin (Kharkutta), S.G. Esmatur Mominin (Phulbari), Estamur Momin surrender, Gene Kelly G Momin (DTO), Numal Momin — seat-tag se alag kiye gaye.
+// Kul: 16 search-prayas, 3 whitelisted pages khud khole; BATCH KUL: 0 entries.
+
+// REJECT-LOG (methodius-dkhar / Mawshynrut ST, HSPDP, mantri 16 Sep 2025 se):
+// 1. Nongsleh Mawsaw 500-MT warehouse (Highland Post, 2026-09-22, khud khola) — udghatan Nongsleh Mawsaw IVCS ne khud kiya; Dkhar ne sirf sabha sambodhit ki. Reject: sirf maujoodgi + mantri-niyam.
+// 2. Nongstoin MCH Hospital + Synod College udghatan (Highland Post, 15 Oct 2026) — CM ne kiya; Dkhar upasthit; kshetra-bahar. Reject.
+// 3. Muga/Eri sericulture consultation, Riangdo (India Today NE, Aug 2026) — chief guest; yojana ki ghoshna (roadmap), poora kaam nahi. Reject.
+// 4. Riangdo artificial football turf shilanyas (Feb 2024, syllad) — CM ne kiya; non-whitelist + sirf maujoodgi. Reject.
+// 5. Mawshynrut-Hahim (Athiabari) road, Rs 99.76 cr (DoNER/NERSDS) — Union Minister Scindia/CM ne udghatit kiya. Reject: dusre netaon ka kaam.
+// 6. Maweit-Nongjri road, Rs 383.91 cr (CM ki Nongstoin ghoshna, Oct 2026) — CM ka dawa; Dkhar upasthit. Reject.
+// 7. Mawlieh RMSA school udghatan (Apr 2026) — CM ne kiya; Dkhar ka naam tak nahi. Reject.
+// 8. Seinduli LP School salary-daan (Theshillong Times, 2019) — Gigur Myrthong (tatkalin MLA) ka kaam. Reject: pre-term + galat vyakti + daan.
+// 9. MDC scheme se Rs 1 crore release (Theshillong Times, Dec 2019) — Gigur Myrthong (tatkalin MLA/MDC). Reject: pre-term + galat vyakti.
+// 10. Mantri-vibhagiya kaam — Labour dept review (Sep 2025), price monitoring workshop (Sep 2026), PIB media workshop (Aug 2026), FCI depot row (Sep 2026), Aadhaar/Ujjwala launch chair (Oct 2025). Reject: mantri-niyam.
+// 11. 21 gaon Mawshynrut se jodne ki maang (Theshillong Times, Sep 2024) — JAC ki KHADC se maang. Reject: ADC mamla + maang akeli.
+// 12. MDA sthirta par bayan (Sep 2026) — raajnaitik bayan. Reject.
+// 13. I-Day jhanda-rohan, Mawthengkut (Theshillong Times, Aug 2026) — samarohik. Reject.
+// 14. Nongshyiap 65m motorable bridge (Theshillong Times, Jan 2021) — BDO dwara udghatit, MGNREGA; pre-term. Reject.
+// Kul: 19 search-prayas, 2 whitelisted pages khud khole; BATCH KUL: 1 entry.
+// RETRY LEADS (sabhi): MLALADS portal nahi hai; SRWP/MLA-scheme ki neta-war sanction suchi meghalaya.gov.in/C&RD par online nahi — khulne par 3 seats ki sarkari-badge sweep.

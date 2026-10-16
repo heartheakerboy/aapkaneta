@@ -946,7 +946,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=6807',
       backgroundNote: 'Halafname par naam \'Gabriel Wahlang\', seat Nongstoin (ST) aur party INC (2023 ki party) assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 45 saal; M.A. (Anthropology) NEHU se 2003 me. Pesha: MDC. 2023 me INC se jeete the; 19 Aug 2024 ko INC legislature party ke NPP me vilay ke baad NPP me hain (Speaker ne vilay ko manyata di).',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Nongstoin (ST) se jeete: 13,847 votes. Runner-up Macmillan Byrsat (NPP) 11,223 votes. Margin 2,624. 2023 me INC se jeete the; 19 Aug 2024 ko INC legislature party ka NPP me vilay hua (Speaker ne manyata di) — tab se NPP me hain.',
+    electionNote: '2023 Vidhan Sabha chunav me Nongstoin (ST) se jeete: 13,847 votes. Runner-up Macmillan Byrsat (NPP) 11,223 votes. Margin 2,624. 2023 me INC se jeete the; 19 Aug 2024 ko INC legislature party ka NPP me vilay hua (Speaker ne manyata di) — tab se NPP me hain. 31 Aug 2024 se Meghalaya sarkar ke salahkar (Adviser) hain — Mining and Geology Department aur Public Health Engineering Department (The Shillong Times) — salahkar-pad sansthaagat hai, vikas-kaam nahi maana jata.',
   },
   {
     slug: 'remington-gabil-momin',
