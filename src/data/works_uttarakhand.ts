@@ -1920,3 +1920,310 @@ uttarakhandWorks['suresh-gariya'] = [
 // 13. Garhwal Post: CM Dhami event — non-whitelisted + dusre neta ke karyakram me maujoodgi.
 // 14. janjwar.com 2022 ticket-resignation story — non-whitelisted + pre-term politics; 'Sher Singh Garhia' alag vyakti — naam-bhram se bacha.
 // PARENT QA (2026-10-17): Gariya worker ke 6 English titles ko Roman-Hinglish vaakyon me rewrite kiya (file standard ke mutabiq); Parwati Dass ke 2 titles me naam ki spelling foundation se match karke sudhari ('Parwati Das' -> 'Parwati Dass'). Bageshwar batch kul = 8 entries. State total ab 133.
+
+// ---- Almora district batch (researched 2026-10-17) ----
+
+uttarakhandWorks['madan-singh-bisht'] = [
+  {
+    title: 'Dwarahat ke Bipin Tripathi Kumaon Institute of Technology ke nideshak ke ghar par hangama karne ke aarop me Congress MLA Madan Singh Bisht ke khilaf IPC ki dhara 452, 427, 504 aur 506 ke tahat FIR darj hui',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV',
+    sourceUrl: 'https://www.ndtv.com/india-news/case-against-uttarakhand-congress-mla-madan-singh-bisht-for-creating-chaos-at-college-directors-house-4400294',
+    date: '2023-09-18',
+    note: 'Nideshak KKS Mer ki shikayat par Dwarahat police ne FIR darj ki (CO Tilak Raj Verma ne pushti ki); MLA par ghar me ghuskar hangama, gaali-galauj aur dhamki ka aarop; nideshak ne apne aur parivar ke liye suraksha bhi maangi. MLA ka jawab: unhone bhi nideshak ke khilaf jawabdi shikayat di (baat-chit me protocol ullanghan ka aarop), press conference me karwai na hone par aamaran anshan aur Vidhansabha me visheshadhikar hanan prastav ki chetavani di. Stage-accurate: ye sirf FIR/booked ka charan hai, doshi sabit hona nahi. 17 Oct 2026 tak is mamle me chargesheet, giraftari, zamaanat ya bari ki koi whitelisted media reporting nahi mili. Pehchan Dwarahat seat se verified (BJP Lalkuan MLA Dr. Mohan Singh Bisht namesake se bacho).',
+    period: '2022-2027',
+  },
+];
+// ---- REJECT-LOG (madan-singh-bisht, Dwarahat) ----
+// 1. LiveHindustan (~Sep 2026) peyaajal baithak: Rs 1.50 lakh + Rs 50 hazaar dene ki ghoshna — ghoshna-class reject.
+// 2. thesundaypost.in interview (~Jan 2026): Rs 4.80cr/saal dawa — non-whitelisted.
+// 3. YouTube (Jul 2026): Dhanari gaon road udghatan 2 videos — YouTube-only; RETRY-LEAD: whitelisted coverage.
+// 4. ETV Bharat (Jun 2026): protocol bayan, hospital upgradation maang — non-whitelisted + maang.
+// 5. Dainik Jagran (Jun 2026): bahuuddeshiya shivir hangama — aarop/maang only.
+// 6. Amar Ujala (Nov 2025): Vidhansabha me Chaukhutia up-zila hospital sawal — maang only.
+// 7. LiveHindustan (Jan 2026): NHM outsourcing karmiyon ka pratinidhimandal — ashwasan only.
+// 8. LiveHindustan (Oct 2025): Chaukhutia andolan FB-post bayan — bayan only.
+// 9. LiveHindustan (Nov 2025): 'Dr. Mohan Singh Bisht ne Lalkuan me Rs 3.36 crore ke kaam ka shilanyas/lokarpan kiya' — NAMESAKE (BJP Lalkuan MLA), Dwarahat wale nahi.
+// 10. Amar Ujala (2014): 'pachas lakh swikrit' — pre-term (2012-17 karyakaal).
+// 11. garhwalikumauniwarta.com: up-nibandhak camp karyalaya udghatan Dwarahat (~Jul 2022) — non-whitelisted; RETRY-LEAD: whitelisted archive.
+// 12. ETV Bharat (Feb 2025): Mantri Premchand Agarwal se nokjhok — non-whitelisted + siyasi.
+// 13. ETV Bharat (Sep 2023): FIR par BJP ka pradesh-bhar virodh — political fallout, naya legal development nahi.
+// 14. uttarakhandlive.news (2021): 'poorv vidhayak' gaon-daura — pre-term + non-whitelisted.
+// 15. oneindia.com criminal-cases: '0 case' — 2022 halafname ka purana data, FIR se pehle ka.
+// 16. ETV Bharat/raibaartv (Jun 2026): 'apne star par kaam karwaye' dawa — non-whitelisted + aspecific.
+// RETRY-LEADS: (a) up-nibandhak camp karyalaya udghatan (Jul 2022) ka whitelisted coverage; (b) Dhanari road udghatan (Jul 2026) ka whitelisted coverage; (c) FIR case ka follow-up (chargesheet/zamaanat/bari); (d) Vidhayak Nidhi 2022-26 itemized suchi.
+
+uttarakhandWorks['mahesh-jeena'] = [
+  {
+    title: 'MLA Mahesh Jeena ne Bhikiyasain me Bhavani Devi Gram Samuh Pumping Yojana ke punargathan ka shilanyas kiya, swikrit lagat Rs 17.43 crore',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/almora/drinking-water-scheme-one-two-mlas-laid-the-foundation-stone-almora-news-c-8-1-93346-2023-03-26',
+    date: '2023-03-26',
+    note: 'Fund: rajya sarkar dwara swikrit Rs 17.43 crore, Bhavani Devi Gram Samuh Pumping Yojana punargathan, 34 gaon labhanvit. Shrey vivad disclosed: isi yojana ka shilanyas Ranikhet ke MLA Pramod Nainwal pehle kar chuke the, phir 23 Mar 2023 ko Mahesh Jeena ne Shiv Mandir Bhikiyasain me doosra shilanyas kiya. Shrey double-count nahi; MLA ki vyaktigat bhoomika sirf shilanyas tak.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Vidhayak Nidhi se Jhimar-Bhitakot motor marg se Bhatt Bakhli tak sampark sadak ka nirmaan shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/almora/road-construction-work-started-from-mla-fund-almora-news-c-232-1-ksp1005-121789-2024-12-21',
+    date: '2024-12-21',
+    note: 'Fund: Vidhayak Nidhi (Amar Ujala reporting ke anusaar is nidhi se kaam shuru). Bhoomika disclosure: shubharambh khud MLA ne nahi, unke pratinidhi aur BJP mandal adhyaksh Sujeet Chaudhary ne karaya. Rashi Amar Ujala ne nahi chhapi. Borderline: vyaktigat shilanyas nahi, lekin Vidhayak Nidhi ka asal vitaran hai isliye shamil.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA Mahesh Jeena ne Champanagar-Dotiyal se Jaspur gaon tak 600 meter sadak ke damarikaran ka shubharambh kiya, lagat Rs 41 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-inauguration-of-road-asphalt-work-in-champanagar-by-mla-mahesh-jeena-201764766010507.html',
+    date: '2025-12-03',
+    note: 'Fund: PWD (Lonivi Pranteey Khand Ranikhet, sahayak abhiyanta Hem Joshi ne lagat batayi). MLA ne vyaktigat shubharambh kiya; yojana/fund rajya sarkar ka hai, vyaktigat shrey sirf udghatan tak.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Dehradun Municipal Commissioner Gaurav Kumar se durvyavhaar ke aarop me MLA Mahesh Jeena par FIR darj',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV',
+    sourceUrl: 'https://www.ndtv.com/india-news/case-against-uttarakhand-bjp-mla-for-misbehaving-with-civic-body-official-5199793',
+    date: '2024-03-08',
+    note: 'Negative. Aaropi pehchaan verify: Salt (Almora) se BJP MLA Mahesh Jeena, seat match. Kotwali police station me FIR, IPC 147/186/504/506; CM Pushkar Singh Dhami ne Garhwal Commissioner Vinay Shankar Pandey ko 15 din me janch-report ka aadesh diya; IAS association ne ninda ki; 5 March 2024 ka viral video (Dehradun nagar nigam karyalaya me tender ko lekar han-gaama). MLA ka jawab report me shamil: unhone nagar ayukt ko gaali dene se inkaar kiya, kaha Haryana ki company ko tender se rokne ke dastavej maange the, adhikariyon ne unse durvyavhaar kiya. Outcome: janch report, zamaanat, bari ya stay ki khabar whitelisted media me aaj tak nahi mili — anupasthiti disclosed. The Hindu ne bhi 8 Mar 2024 ko wahi khabar chhapi (article67925239).',
+    period: '2022-2027',
+  },
+];
+// ---- REJECT-LOG (mahesh-jeena, Salt) ----
+// 1. Dainik Bhaskar (~Jul 2026): Guru Gorakhnath mandir anudan ghoshna — Vidhayak Nidhi grant-ghoshna reject (rashi/vivaran article ne khud nahi diya).
+// 2. prakritlok.com: Hinaula-Kane Khalpati PMGSY shilanyas (~Aug 2026, 12.4 km, Rs 147.21 lakh) — non-whitelisted; RETRY-LEAD.
+// 3. public.app: CHC Salt BPHU bhavan shilanyas (Rs 50 lakh, 2 Jan 2026) — non-whitelisted; RETRY-LEAD.
+// 4. allindiatvnews.in: GIC Jhipa nava-nirmit bhavan lokarpan (~Jan 2025) — non-whitelisted; RETRY-LEAD.
+// 5. news.webindia123/business-standard/theprint/newsdrum/zeeNews: Dehradun FIR coverage — non-whitelisted (NDTV + The Hindu se entry bani).
+// 6. COORDINATOR-DROP: Hindustan Sakarkhola JJM karyakram shubharambh (~Oct 2026) — karyakram-launch ceremonial (EJH-MACS precedent); sirf udghatan, kaam kendriya.
+// 7. arunodaytimes.com: 'BJP's Big Bet on Salt' — non-whitelisted + chunaav-atkal.
+// 8. newstrack.com: CM ko pahadi utpad bhent — non-whitelisted + shishtachar.
+// 9. dainikshubharambhnews.com: adhikari samiksha baithak — non-whitelisted + daura.
+// 10. dailynewsuk.in: MLA par hamla (Bhakuja, ~2021) — non-whitelisted + MLA peedit + pre-term.
+// 11. YouTube viral video — non-whitelisted; ghatna negative entry me cover.
+// 12. TOI oath (2021 by-election) — pre-term.
+// 13. bdnindia.com/Hindustan Badaun/Amar Ujala Budaun: Mahesh Chandra Gupta (UP Badaun) — NAMESAKE, alag vyakti.
+// COORDINATOR FIX: worker ke NDTV sourceUrl me 'bjp-mmla' typo tha — sahi URL 'bjp-mla' lagaya gaya; worker ke stage 'kaam shuru' ko 'shilanyas' normalize kiya.
+
+uttarakhandWorks['pramod-nainwal'] = [
+  {
+    title: 'Vidhayak Pramod Nainwal ne apni Vidhayak Nidhi se Ranikhet ke Phaldakot me purva-sainik sangathan ka bhawan banwakar uska udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-ex-servicemen-organization-gets-new-office-building-in-ranikhet-201767266529348.html',
+    date: '2026-01-01',
+    note: 'Fund: Vidhayak Nidhi (article me rashi nahi di gayi). Bhoomika: MLA ne apni nidhi se bhawan banwaya aur vyaktigat roop se udghatan kiya — seedha Vidhayak Nidhi ka asal vitaran. Post-event reporting, page khola aur padha gaya.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Ranikhet ke up-jila aspataal me blood separation unit ka lokarpan Vidhayak Nainwal ne kiya, saath hi aspataal parisar me suraksha deewar aur sampark marg ka shilanyas',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-blood-separation-unit-launched-in-ranikhet-hospital-to-save-multiple-lives-201782129664819.html',
+    date: '2026-06-22',
+    note: 'Fund-srot: article me spasht nahi (sarkari aspataal ki suvidha; Vidhayak Nidhi ka ullekh nahi). Bhoomika: MLA ne vyaktigat roop se blood separation unit ka lokarpan kiya; suraksha deewar/sampark marg ka shilanyas hua (article me kartaa spasht nahi). Date caveat: page par koi date stamp nahi hai; search-index age (~116 din, 2026-10-17 se) se anumaanit. Parent date confirm kare.',
+    period: '2022-2027',
+    stage: 'shilanyas-evam-lokarpan',
+  },
+  {
+    title: 'Ranikhet me Rs 14 crore ki do PMGSY sadkon (Sauni-Titalikhet Rs 5 crore, Pantkotuli-Gagas Rs 9 crore) ke sudharikaran karyon ka kendriya mantri aur MLA ne milkar shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/almora/road-construction-starts-ranikhet-news-c-232-1-alm1005-124871-2025-03-01',
+    date: '2025-03-01',
+    note: 'Fund: kendriya yojana PMGSY (Rs 5cr + Rs 9cr); kriyanvayan agency PMGSY. Bhoomika capped: shilanyas kendriya mantri Ajay Tamta ne kiya; MLA sanyukt shubharambh me the aur unka dawa hai ki sadkon ka prastav unhone sarkar ko saunpa tha aur CM se varta ki thi — credit yahin tak seemit. Date = article date (2025-03-01), event usi din ya thik pehle.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+];
+// ---- REJECT-LOG (pramod-nainwal, Ranikhet) ----
+// 1. livehindustan (~Oct 2026): 'Das crore se sanvregi Ranikhet sadken' — shilanyas kendriya mantri Ajay Tamta ne kiya; MLA maujood-matra.
+// 2. livehindustan (~Apr 2026): media centre maang + nidhi ashwasan — maang/ghoshna.
+// 3. livehindustan (Dec 2025): CM ghoshnaon par press-conference — ghoshna.
+// 4. jagran (2025): Bhikiyasain visheshagya doctor ashwasan — daura + ashwasan.
+// 5. ETV Bharat: (a) prashasanik bhawan + labour room lokarpan (Mar 2024, Rs 80L); (b) 4.76cr sadak shilanyas (Sep 2023); (c) hospital nirikshan (Sep 2024); (d) kuteer udyog ghoshna (Dec 2022) — non-whitelisted; (a)-(b) RETRY-LEAD.
+// 6. devbhoomimaya/prakritlok/nainitalnews24/vaishnavinews/livenainital/ranikhetnews — non-whitelisted; events: dialysis unit (Oct 2026), sadak shilanyas (Sep 2023), shilapatt vivad (Oct 2026), Karchuli school reopening (Apr 2025) — RETRY-LEADS.
+// 7. garhwalpost: CM karyakram maujoodgi — dusre neta ka karyakram.
+// 8. newscubic/refersms: janta-darbar/birthday — kaam nahi.
+// 9. Amar Ujala viral-audio (Apr 2024): Rs 30L thagi audio — MLA peedit paksh, audio apusht, koi FIR/janch nahi; NOT negative.
+// 10. jagran (~Apr 2026): bhai ki maut par tahreer, 4 ke khilaf FIR — MLA complainant, parivarik; NOT negative.
+// 11. Brother cartridge case (Sep 2024): bhai Satish Nainwal ki giraftari — family matter; NOT negative.
+// 12. Horticulture scam/CBI janch — non-whitelisted, MLA aaropi nahi; NOT negative.
+// 13. Land-grab aarop (ETV Bharat May 2024) — non-whitelisted, koi FIR nahi; NOT negative.
+// COORDINATOR: entry 1 me stage 'lokarpan' joda (purn bhawan ka udghatan); entry 2 me stage 'shilanyas-evam-lokarpan' (sanyukt karyakram, purani precedent).
+
+uttarakhandWorks['rekha-arya'] = [
+  {
+    title: 'Someshwar seat me Chautia-Nagpani-Deholi Sivali road ka lokarpan kiya — Mantri Rekha Arya ne apni Someshwar seat me district plan ke kaam ka uddghatan kiya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Akashvani News',
+    sourceUrl: 'https://newsonair.gov.in/hi/%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be-%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a8%e0%a5%87-%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%ae/',
+    date: '2025-04-25',
+    note: 'Fund-srot: jila yojana 2024-25, Almora (Vidhayak Nidhi se nahi — strot me ullekh nahi); lagat Rs 8.00 lakh (itemized aankda chhote portal coverage rashtrakilalkar.com ke anusar; Akashvani ne kul "Rs 8 crore se adhik" ke chaar kaam bataye). Asal bhoomika disclosure: Cabinet mantri (Dhami mantrimandal, Mahila evam Bal Vikas portfolio) ne Someshwar vidhayak ke roop me apni seat me vyaktigat lokarpan kiya — mantri-framing disclosed, rajya-stariya vibhagiya faisla nahi. Akashvani report 25 April 2025 ki; karyakram guruvar 24 April 2025 ko hua tha — post-event reporting.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Someshwar seat me Ida-Jairasi motor marg ke setu tak vistaar kaarya ka lokarpan kiya — Mantri Rekha Arya ne apni Someshwar seat me district plan ke kaam ka uddghatan kiya',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Akashvani News',
+    sourceUrl: 'https://newsonair.gov.in/hi/%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be-%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a8%e0%a5%87-%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%ae/',
+    date: '2025-04-25',
+    note: 'Fund-srot: jila yojana 2024-25, Almora (Vidhayak Nidhi se nahi); lagat Rs 10.60 lakh (itemized aankda chhote portal coverage ke anusar). Asal bhoomika disclosure: Cabinet mantri (Mahila evam Bal Vikas portfolio) ne Someshwar vidhayak ke roop me apni seat me vyaktigat lokarpan kiya — mantri-framing disclosed.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Someshwar seat me Chautia-Kunlakhet-Bamsyun motor marg ke 5 km punarnirmaan ka shilanyas kiya — Mantri Rekha Arya ne lagbhag Rs 3 crore ki sadak pariyojna ki aadhaarshila rakhi',
+    category: 'Sadak',
+    badge: 'sarkari',
+    sourceLabel: 'Akashvani News',
+    sourceUrl: 'https://newsonair.gov.in/hi/%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be-%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a8%e0%a5%87-%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%ae/',
+    date: '2025-04-25',
+    note: 'Fund-srot: rajya yojana (lagbhag Rs 3 crore; itemized Rs 309.16 lakh chhote portal coverage ke anusar); Vidhayak Nidhi se nahi. Asal bhoomika disclosure: Cabinet mantri ne Someshwar vidhayak ke roop me apni seat me vyaktigat shilanyas kiya — mantri-framing disclosed, rajya-stariya vibhagiya faisla nahi. Kuch coverage me yah kaam Ranikhet/Someshwar seema kshetra ka bataya gaya hai; Akashvani ne ise Someshwar seat ke kaamon ki suchi me gina.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Someshwar seat me Sher Vidyapeeth pumping peyjal yojna ke sudridhikaran ka shilanyas kiya — Mantri Rekha Arya ne Rs 4.89 crore ki paani pariyojna ki aadhaarshila rakhi',
+    category: 'Paani',
+    badge: 'sarkari',
+    sourceLabel: 'Akashvani News',
+    sourceUrl: 'https://newsonair.gov.in/hi/%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be-%e0%a4%86%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be-%e0%a4%a8%e0%a5%87-%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%ae/',
+    date: '2025-04-25',
+    note: 'Fund-srot: sarkari yojana (lagat Rs 489.93 lakh — Akashvani: "chaar crore navasi lakh"); Vidhayak Nidhi se nahi. Asal bhoomika disclosure: Cabinet mantri ne Someshwar vidhayak ke roop me apni seat me vyaktigat shilanyas kiya aur adhikariyon ko samay par kaam poora karne ke nirdesh diye — mantri-framing disclosed.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Someshwar seat ke Rait me Rs 97.89 lakh ke mini stadium ka shilanyas kiya — Khel mantri ke roop me Rekha Arya ne apni seat me khel suvidha ki neenv rakhi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-cabinet-minister-rekha-arya-inaugurates-mini-stadium-and-x-ray-machine-in-rait-201765983367970.html',
+    date: '2025-12-17',
+    note: 'Fund-srot: sarkari kharcha, lagat Rs 97.89 lakh (strot: Hindustan). Asal bhoomika disclosure (mantri-niyam): Cabinet mantri ne khel mantri ke roop me apni Someshwar seat ("grih vidhansabha") me vyaktigat shilanyas kiya — seat-kaam hone se valid, rajya-stariya vibhagiya ghoshna nahi; portfolio disclosed. Post-event reporting (budhvar 17 Dec 2025).',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Someshwar up jila aspatal me X-ray machine ka lokarpan kiya — Mantri Rekha Arya ne apni seat ke aspatal me navnirmit suvidha ka uddghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-cabinet-minister-rekha-arya-inaugurates-mini-stadium-and-x-ray-machine-in-rait-201765983367970.html',
+    date: '2025-12-17',
+    note: 'Fund-srot: sarkari kharcha (navnirmit up jila aspatal, Someshwar); lagat strot me alag se ullekhit nahi. Asal bhoomika disclosure: Cabinet mantri ne Someshwar vidhayak ke roop me apni seat me vyaktigat lokarpan kiya — mantri-framing disclosed. Post-event reporting (17 Dec 2025).',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Someshwar seat ke Kuwali gaon me Aadi Badrinath mandir ke saundaryikaran ka bhoomi-poojan aur shilanyas kiya — Mantri Rekha Arya ne Mandir Mala Mission ke Rs 89.80 lakh ke kaam ki neenv rakhi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-rekha-arya-initiates-beautification-of-badrinath-and-pipleshwar-temples-in-kuwali-village-201775909288480.html',
+    date: '2026-04-11',
+    note: 'Fund-srot: Manaskhand Mandir Mala Mission yojana, swikrit dhanrashi Rs 89.80 lakh (sarkari yojana); Vidhayak Nidhi se nahi. Asal bhoomika disclosure: Cabinet mantri ("Someshwar vidhayak aur mantri") ne apni seat ke Majkhali mandal ke Kuwali gaon me mukhya atithi ke roop me vidhivat bhoomi-poojan/shilanyas kiya — seat-kaam valid, mantri-framing disclosed. Kuwali ka Someshwar seat me hona shakti samachar coverage ("Someshwar vidhansabha kshetra ke Majkhali mandal antargat Kuwali gaon") se confirm. Dainik Bhaskar ne bhi isi karyakram ko "Rs 1.41 crore schemes" ke roop me cover kiya — post-event reporting (shanivar 11 April 2026).',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Someshwar seat ke Kuwali gaon me Pipleshwar Mahadev mandir ke saundaryikaran ka bhoomi-poojan aur shilanyas kiya — Mantri Rekha Arya ne Mandir Mala Mission ke Rs 51.41 lakh ke kaam ki neenv rakhi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-rekha-arya-initiates-beautification-of-badrinath-and-pipleshwar-temples-in-kuwali-village-201775909288480.html',
+    date: '2026-04-11',
+    note: 'Fund-srot: Manaskhand Mandir Mala Mission yojana, swikrit dhanrashi Rs 51.41 lakh (sarkari yojana); Vidhayak Nidhi se nahi. Asal bhoomika disclosure: Cabinet mantri ne Someshwar vidhayak ke roop me apni seat me vyaktigat bhoomi-poojan/shilanyas kiya — mantri-framing disclosed. Post-event reporting (11 April 2026).',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+];
+// ---- REJECT-LOG (rekha-arya, Someshwar SC) ----
+// 1. Garhwal Post (Feb 2025): GIC Silor Mahadev mini stadium + Dwarson-Kakdighat road (Rs 403.19L) + Kakdighat-Shitalakhet road (Rs 321.81L) udghatan — non-whitelisted; RETRY-LEAD.
+// 2-6. janswar/garhwalkavikas/aakhriaankh/bharat-kesari/khabaruttarakhand (Dec 2025): Rait stadium + X-ray — non-whitelisted; event Hindustan se entry me.
+// 7. rashtrakilalkar.com/uttarakhand.news/uttarakhand24.in (Apr 2025): 8-crore kaamon ka itemized vivaran — non-whitelisted; event Akashvani se grounded, aankde note me attributed.
+// 8. uttarakhandjagran.in (Aug 2026): Jan Milan Vidhayak Nidhi sahyog GHOSHNA — non-whitelisted + ghoshna.
+// 9. gauravnews.in (Nov 2025): sinchai Rs 90L 'swikriti' + Nidhi GHOSHNA — non-whitelisted + ghoshna.
+// 10. mukhyadhara.in (~Aug 2026): kul Rs 25.5L Nidhi elaan — non-whitelisted + ghoshna.
+// 11. Outlook/thenewsmill/uknationnews (Oct 2026): pati Girdhari Lal Sahu ke khilaf FIR — MLA SHIKAYATKARTA (aaropi nahi) + parivarik; negative reject.
+// 12. YouTube: 'kya Rekha Arya dilayengi hat-trick' — non-whitelisted + electoral commentary.
+// COORDINATOR: 4 Akashvani entries ka sourceUrl browser.open se verify kiya (25 Apr 2025 article, chaaron kaam cover); 2 mandir entries ka stage 'shilanyas-bhoomi pujan' se 'shilanyas' normalize kiya.
+
+uttarakhandWorks['manoj-tewari'] = [];
+// ---- REJECT-LOG (manoj-tewari, Almora) ----
+// 1. nayaadhyay/uttranews/himshikharexpress: Rs 8.10cr PMGSY sadak shilanyas (Oct 2026) — non-whitelisted + shilanyas kendriya mantri Ajay Tamta ne kiya, MLA maujood-matra.
+// 2. ncsm.gov.in (Mar 2024): Manaskhand Science Centre virtual lokarpan — CM ne kiya; MLA 'august presence' maujood-matra.
+// 3. Hindustan (Dec 2025): Salla gaon Rs 4L peyjal tank ghoshna — Vidhayak Nidhi grant-ghoshna reject.
+// 4. Hindustan (Dec 2025): sadak nidhi swikriti ghoshna (Rs 65.85L/116.13L/76.69L) — shasanadesh-info + ghoshna.
+// 5. livehindustan (Dec 2024): NTD-Dhar Tooni sadak PIL + avmaanna yachika — advocacy, poora kaam nahi.
+// 6. Amar Ujala (Oct 2026): Ankita Bhandari mombatti march — political protest.
+// 7. Amar Ujala (Oct 2026): Sanskrit pratiyogita mukhya atithi — samaroh.
+// 8. Garhwal Post (Jan 2026): AICC UP Sangathan Srijan Abhiyan nirikshak — party kaam.
+// 9. ETV Bharat (Sep 2024): PWD dharna — andolan + non-whitelisted.
+// 10. New Indian Express (Feb 2025): 'Hills vs Plains' Rule 58 bahas — maang, nateeja nahi.
+// 11. Amar Ujala (2012-13): purane Vidhayak Nidhi items — pre-term.
+// 12. Tribune (2009/2012/2017) — pre-term.
+// 13. uttranews/nayaadhyay (Oct 2025/26): Dussehra mukhya atithi — samaroh + non-whitelisted.
+// 14. khabribox — non-whitelisted.
+// Namesake-guard: Dynamite News '3 SC/ST FIRs against Manoj Tiwari' — UP ka namesake; Deoghar airport FIR — Delhi BJP MP namesake. Almora INC MLA ke khilaf koi whitelisted FIR/janch nahi — negatives zero.
+
+uttarakhandWorks['mohan-singh'] = [
+  {
+    title: 'Jalna-Tuledi aur Petshal-Bamanswal-Kapkot motor margon ka shilanyas — 4.025 km Jalna-Tuledi marg (Rs 72.85 lakh) aur 15.175 km Petshal-Bamanswal-Kapkot marg (Rs 309.66 lakh) ka bhoomi-poojan sahit shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/almora/story-mohin-singh-mahra-inaugurates-two-road-projects-in-almora-for-better-connectivity-201790316426154.html',
+    date: '2026-09-24',
+    note: 'Nidhi srot: article me fund ka srot (Vidhayak Nidhi ya rajya yojana) nahi bataya gaya — karyadayi sanstha Lok Nirman Vibhag (PWD); vidhayak ne swayam bhoomi-poojan sahit shilanyas kiya aur PWD adhikariyon ko gunvatta ke saath samay par kaam poora karne ke nirdesh diye. Tithi caveat: page par prakashan-tithi nahi dikhi; article me "Guruvaar" ka ullekh aur search-index crawl timing (~26 Sep 2026) se 24 Sep 2026 anumaanit hai — parent verify karein. Shrey seemit: kaam PWD ka, shilanyas vidhayak ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Do motor margon ke damrikaran aur sudharikaran ka shilanyas — Chitai-Petshal-Bamswal-Suvakhan marg par damrikaran (Rs 466.27 lakh) aur Bartoli-Banthok marg par punarnirman-sudharikaran (Rs 283.07 lakh), kul lagat Rs 7.49 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/almora/foundation-stone-laid-for-asphalting-and-improvement-of-two-roads-in-jageshwar-vidhansabha-almora-news-c-232-1-shld1002-137269-2025-12-06',
+    date: '2025-12-06',
+    note: 'Nidhi srot: article me fund ka srot (Vidhayak Nidhi ya rajya yojana) nahi bataya gaya — karyadayi sanstha PWD; vidhayak ne swayam shilanyas kiya aur PWD adhikariyon ko gunvatta-samay-seema ke nirdesh diye. Hindustan (livehindustan) ne bhi 6 Dec 2025 ko isi karyakram ki report ki (kul lagat Rs 7.49 crore) — donon ke aankde mel khate hain (466.27 + 283.07 = 749.34 lakh). Shrey seemit: kaam PWD ka, shilanyas vidhayak ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+];
+// ---- REJECT-LOG (mohan-singh, Jageshwar) ----
+// 1. Amar Ujala (Apr 2025): Foota me Rs 5L ghoshna — ghoshna-class reject.
+// 2. Hindustan (Dec 2025): school bhavan marammat chanda maang — nirikshan + ashwasan.
+// 3. Hindustan (~Apr 2026): Khodi BJP karyakram yojana-ginana — party karyakram.
+// 4. khabarsatyvartaa/satyapathnews/shreekedardarshan (~Apr 2025): Kheti-Malan-Jateshwar marg shilanyas (Rs 372.92L) — non-whitelisted; RETRY-LEAD.
+// 5. devbhoomikhabar (2022): CM Shravani Mela maujoodgi — non-whitelisted + dusre neta ka karyakram.
+// 6. Amar Ujala (Jul 2025): Shravani Mela shubharambh — dhaarmik samaroh.
+// 7. Hindustan (Dec 2025): swikriti par CM-aabhar — ghoshna-type.
+// 8. Hindustan (Nov 2025): PWD/van vibhag baithak-nirdesh — koi dastaveji nateeja nahi.
+// 9. Amar Ujala (Nov 2025): Kheti-Jateshwar-Naini-Seraghat jodne ki kavaayad — maang/report stage.
+// 10. YouTube: Bhagwat katha — platform + dhaarmik.
+// 11. abitfar/binsartimes (Sep 2023): Congress aarop (SC-bahulya gaon vikas rukwaye) — non-whitelisted, koi FIR/pusht janch nahi; negative reject.
+// 12. news100live (Sep 2026): Pitna tok shikayat — non-whitelisted; shikayat, FIR nahi.
+// 13. uttranews (Mar 2022): Dhami ke liye seat chhodne ki peshkash — raajnaitik khabar.
+// 14. findglocal: FB page mirror — FB platform.
+// 15. nayaadhyay: Dec 2025 shilanyas duplicate — non-whitelisted.
+// COORDINATOR NOTE: entry 1 ka sourceUrl Hindustan ka apna slug hai ('mohin-singh-mahra' — unki spelling); verbatim rakha gaya; entry 1 ki date (2026-09-24) anumaanit hai — note me disclosed, parent verify kare.
+// PARENT QA (2026-10-17): Almora batch kul = 18 entries (Bisht 0+1neg, Jeena 3+1neg, Nainwal 3, Rekha Arya 8, Tewari 0, Mohan Singh 2). State total ab 151.
