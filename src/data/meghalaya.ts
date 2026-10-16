@@ -1091,7 +1091,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=6959',
       backgroundNote: 'Halafname par naam \'Rupert Momin\', seat Kharkutta (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 48 saal; MLIS (NEHU Shillong, 1998), LLB (Tura Law College, 2011). Pesha: Member of Legislative Assembly. NPP me hi hain.',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Kharkutta (ST) se jeete: 17,426 votes. Runner-up Cherak Watre Momin (AITC) 15,896 votes. Margin 1,530. NPP me hi hain.',
+    electionNote: '2023 Vidhan Sabha chunav me Kharkutta (ST) se jeete: 17,426 votes. Runner-up Cherak Watre Momin (AITC) 15,896 votes. Margin 1,530. NPP me hi hain. Ve Meghalaya New and Renewable Energy Development Agency (MNREDA) ke chairman bhi hain (reporting: The Shillong Times, Sep 2025) — sansthaagat pad hai; iski rajya-star gatividhi unke seat-record ke vikas-kaam nahi maani jati.',
   },
   {
     slug: 'marthon-j-sangma',
@@ -1120,7 +1120,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=6979',
       backgroundNote: 'Halafname par naam \'Marthon J Sangma\', seat Mendipathar (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 58 saal; B.Sc. (Agriculture) College of Agriculture NEHU se 1986 me. Pesha: Former BDO and Member of Legislative Assembly. NPP me hi hain.',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Mendipathar (ST) se jeete: 9,363 votes. Runner-up Timjim K. Momin (INC) 5,538 votes. Margin 3,825. NPP me hi hain.',
+    electionNote: '2023 Vidhan Sabha chunav me Mendipathar (ST) se jeete: 9,363 votes. Runner-up Timjim K. Momin (INC) 5,538 votes. Margin 3,825. NPP me hi hain. Reporting ke anusar (The Shillong Times, Jun 2026) ve Meghalaya Tourism Development Corporation (MTDC) ke chairman bhi hain — ye sansthaagat pad hai; iski gatividhi unke seat-record ke vikas-kaam nahi maani jati.',
   },
   {
     slug: 'timothy-dalbot-shira',

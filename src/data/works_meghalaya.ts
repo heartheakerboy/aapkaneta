@@ -1115,3 +1115,147 @@ meghalayaWorks['dr-mukul-sangma'] = [];
 // 55. RETRY LEADS: (a) theshillongtimes.com ka internal archive search ("Songsak" + Mukul, 2023-2026) — search-engine coverage se bahar ka qualifying post-event lokarpan/shilanyas mil sakta hai; (b) eastmojo.com archive me "Mukul Sangma" Songsak; (c) highlandpost.com archive me Mukul + Songsak 2023-2026; (d) nenow.in (Northeast Now) archive me Mukul + Songsak 2023-2026; (e) Indian Express/TOI/HT/The Hindu ke archives me "Mukul Sangma" Songsak development. Note: May 2026 me TMC ka split hua (Oct 2026 ki reporting ke anusar ~5 mahine pehle), Mukul "original TMC" (Mamata Banerjee-led) ke saath hain — ye rajnaitik context hai, LoP pad par iska asar reporting me nahi dikha.
 
 // QA: 7 search passes (general + Songsak-specific + foundation-laying + national-source + Meghalaya-source specific + 2023-inauguration + MLA-scheme) + 2 whitelist pages khud kholkar padhe (May 2026 ka nirikshan-report, Dec 2022 ka community hall); har result pre-term, LoP-sansthaagat, galat-vyakti, kshetra-bahar, ya non-whitelist nikla; qualifying entries 0 — khaali profile imaandari se.
+
+// ---- North Garo Hills district batch (researched 2026-10-16) ----
+// 4 seats: Kharkutta (ST) — Rupert Momin, NPP (MNREDA chairman — sansthaagat pad, state-role coverage reject); Mendipathar (ST) — Marthon J Sangma, NPP (MTDC chairman — sansthaagat pad); Resubelpara (ST) — Timothy Dalbot Shira, NPP (Deputy Speaker Mar 2023–Sep 2025, Cabinet Minister 16 Sep 2025 se — mantri-niyam sakhti se lagaya); Bajengdoba (ST) — Pongseng Marak, NPP. Scope: sirf Mar 2023+ kaam (period 2023-2028). QA: 4/4 fragments khud padhe; Marthon ka MTDC aur Rupert ka MNREDA chairman-pad khud verify karke meghalaya.ts electionNotes me disclosure joda; Rupert ki zero-hour entry accountability precedent par accountability-outcome ke saath, sthan-caveat note me darj; Marthon ki Godapara DPRO sarkari-source claim sirf suni hui thi (page khola nahi gaya) isliye badge news hi rakha; kul batch: 5 entries (rupert-momin 2, marthon-j-sangma 3); timothy-dalbot-shira aur pongseng-marak imaandari se khaali, negatives 0.
+// Hygiene: 0 Devanagari chars, 0 ₹-symbol, 0 literal-\n (Python-verified).
+
+// ---- Kharkutta (ST): Rupert Momin (NPP) ----
+meghalayaWorks['rupert-momin'] = [
+{
+  title: 'Dilma Adap (Adokgre) me Ayushman Bharat Health & Wellness Centre ka udghatan',
+  category: 'Aspataal',
+  badge: 'news',
+  sourceLabel: 'The Shillong Times',
+  sourceUrl: 'https://theshillongtimes.com/2026/01/14/health-centre-comes-up-in-ngh-village/',
+  date: '2026-01-13',
+  stage: 'lokarpan',
+  note: '13 Jan 2026 ko Kharkutta MLA Rupert Momin ne Adokgre C&RD Block ke Dilma Adap gaon me Ayushman Bharat Health & Wellness Centre ka udghatan mukhya atithi ke roop me kiya. Ye kshetra ka naya primary-healthcare kendra hai jahan maternal aur child health services, non-communicable disease screening, basic diagnostics aur tele-consultation milegi. Karyakram me North Garo Hills DC Dr Abhishek Saini, Adokgre BDO Diganto Hajong aur DM&HO Dr Priya Sengse R Sangma bhi maujood the. Stage ka sach: nayi facility ka lokarpan hua hai; kendra Ayushman Bharat (kendra sarkar) yojana ke tahat Health department ne sthapit kiya hai — nirmaan ka shrey vibhag ka hai, MLA ne udghatan kiya. Seat-verification: Dilma Adap Adokgre block me hai aur ECI delimitation ke mutabik Kharkutta (ST) seat Kharkutta C&RD Block par bani hai (Adokgre block 2022 me isi me se bana), aur srot ne Momin ko seedhe Kharkutta MLA likha hai.',
+  period: '2023-2028',
+},
+{
+  title: 'Driver hatya par zero-hour notice — Home Minister ne 3 giraftariyon ki pushti ki',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'The Shillong Times',
+  sourceUrl: 'https://theshillongtimes.com/2024/02/22/three-held-over-drivers-murder-in-rongjeng/',
+  date: '2024-02-21',
+  stage: 'poora',
+  note: '21 Feb 2024 ko budget session me Kharkutta MLA Rupert Momin ne driver Udoy M Sangma (Rongjeng) ki hatya par zero-hour notice uthaya tha — driver ka shav Mendima Forest Reserve me mila tha. Home Minister Prestone Tynsong ne sadan me jawab diya ki North Garo Hills police ne 3 aaropiyon ko giraftar kar liya hai aur ve nyayik hirasat me hain; Momin ne us corridor par sakriya asamajik tatvon ke khilaf karvai ki maang bhi ki. Ye accountability entry hai, vikas-kaam nahi — credit capped: giraftariyan police ki karvai hain, MLA ka yogdaan sadan me mudda uthana tha. Sthan-caveat: srot se ye pusht nahi hota ki ghatna-sthal Kharkutta seat ke andar tha (victim Rongjeng ka tha), lekin mamla North Garo Hills police ke adhikar-kshetra ka tha aur MLA ne ise jile ke law-and-order mudde ke roop me uthaya.',
+  period: '2023-2028',
+},
+];
+
+// REJECT-LOG (rupert-momin — Kharkutta (ST), NPP, karyakaal Mar 2023–2028):
+// 1. Highland Post (26 Sep 2026): Block-level CM Youth Engagement Programme, Kharkutta me MLA mukhya atithi ke roop me bhashan — CM ke karyakram me maujoodgi/bhashan, koi kaam nahi, REJECT.
+// 2. The Shillong Times Garo edition (6 Sep 2026): MLA ne Kharkutta block ke Baksalpara gaon me aag-peedit parivaron ko rahat-samagri baanti — relief/rahat, REJECT.
+// 3. meghalaya.gov.in press release (12 Nov 2025): Padyatra Unity March (Mendipathar College se Resubelpara Mini Stadium, 8 km) me MLA ne netritva kiya — karyakram me bhagidari, kaam nahi, REJECT.
+// 4. The Shillong Times (27 Aug 2026, ground report): Upper Rongbu Govt LP School (Kharkutta seat) ki nayi building Nov 2023 me bani, 2 saal se pehle tootne lagi; MLA ne school ki sifarish ki thi — scheme-quality ki khabar hai, contractor par activist ka aarop hai, MLA par koi aarop/FIR/jaanch nahi aur koi prashasnik nateeja darj nahi — na work entry, na negative (criteria fail), REJECT. Negative-check me darj hai.
+// 5. The Shillong Times (19 Aug 2026): Bolkrokgre gaon ki pehchan/school ki samasya par graminon ne MLA ko suchit kiya, MLA "helpful" rahe — koi kaam ya nateeja nahi, REJECT.
+// 6. The Shillong Times (28 Jul 2026): Dilma Adap seema-tanav par NGH aur Goalpara (Assam) ke DCs ka daura, MLA ka bayan — prashasnik mamla, koi kaam nahi, REJECT.
+// 7. The Shillong Times + Highland Post (24 Sep 2025): AHAM ne CM ko chitthi likhkar kaha ki MLA ka RMA (Rongjeng-Mangsang-Adokgre) road poora hone ka dawa galat/bhramak hai — sirf civil-society complaint, koi FIR/jaanch nahi, CM ki karvai ka zikr nahi — negative criteria fail; dawa entry bhi nahi ban sakti kyunki dawa disputed hai aur srot me MLA ka apna bayan nahi — REJECT. Negative-check me darj hai.
+// 8. The Shillong Times (10 Oct 2023): Kharkutta me Jal Jeevan Mission ki viphalta, MLA se sampark ke baad bhi "no relief" — scheme-failure ki khabar, koi kaam nahi, REJECT.
+// 9. The Shillong Times (14 Nov 2022): MLA schemes me "anomaly" ke aarop, MLA ne jawab diya — PRE-TERM (Mar 2023 se pehle), REJECT.
+// 10. The Shillong Times (4 Jan 2023): CGI sheets na milne par labharthiyon ne DC se shikayat ki (MLA scheme) — PRE-TERM, REJECT.
+// 11. The Shillong Times (27 Jan 2023): GSU/GSMC/AHAM ne DC ko 2018-2022 ke missing SRWP projects ki shikayat di — PRE-TERM, REJECT.
+// 12. The Shillong Times (14 Feb 2023): Adokgre ki mahila ne MLA aur MePDCL par dhokhe ka aarop lagaya (2018 ka zameen-daan mamla) — PRE-TERM; vaise bhi complaint me FIR/case number ka zikr nahi — REJECT.
+// 13. The Shillong Times (14 Mar 2018): Kharkutta MLA ne CM ko kshetra-vikas ke liye fund ki chitthi likhi (pul, sadak, college, PHC-CHC maangein) — PRE-TERM + maang/prastav akele, REJECT.
+// 14. The Shillong Times (22-23 Oct 2018): Adokgre-Dhupdhara road repair ke liye MLA ne NEC ko memorandum diya — PRE-TERM + maang akele, REJECT.
+// 15. The Shillong Times (19 Oct 2022): Health Minister James P K Sangma ne Kharkutta PHC se CHC upgradation ka shilanyas kiya — PRE-TERM + mantri ka karyakram, MLA sirf maujood, REJECT.
+// 16. The Shillong Times (23 Feb 2021): CM ne United Kharkutta Higher Secondary School upgradation (Rs 4 crore) ka shilanyas kiya — PRE-TERM + CM ka kaam + MLA maujoodgi, REJECT.
+// 17. The Shillong Times (13 Jul 2019): MNREDA solar meeting me MLA ki maujoodgi — PRE-TERM, REJECT.
+// 18. Highland Post (28 Aug 2026): Meghalaya Mandi app launch — MNREDA chairman (rajya-stariya pad) ke roop me Momin ka 5-mahine ka NGH pilot (330 MT upaj, 800 kisan, Rs 1.5 crore vyapar) — poore North Garo Hills jile ka kaam, Kharkutta seat-specific nahi — kshetra-bahar/state-role, REJECT.
+// 19. Highland Post (13 Jan 2026): MNREDA ne Garo Hills ke kisanon ke liye adrak-haldi khareed shuru ki — chairman ke roop me bayan, state-role, seat-specific kaam nahi, REJECT.
+// 20. Highland Post (Jan 2026): A-we Festival me MLA ka bhashan — ceremonial, REJECT.
+// 21. Highland Post (21 Jan 2026): Meghalaya Day samaroh me MLA ki maujoodgi — ceremonial, REJECT.
+// 22. Highland Post (~2024): NFSA camp Resubelpara me MLA ne FPS dealers se pardarshita ki appeal ki — bhashan, koi kaam nahi, REJECT.
+// 23. EastMojo (22 Sep 2025): NEHU Tura campus par "Momin" ka bayan — ye social activist Cherian Momin hain, Rupert Momin NAHI — namesake jaal, REJECT.
+// 24. Srot-whitelist se bahar hone ke kaaran in par entry nahi banai: syllad.com (Shira induction Sep 2025; CM climate initiatives Mendipathar May 2025; assembly expunge Feb 2024), meghalayatimes.in, hubnetwork.in (HWC story ka duplicate + Shira induction), themeghalayanexpress.com, nationpress.com, uniindia.com, tripuranet.com, wyrta.com (Omed Memorial school, 2021), southasiaviews.com (Bajengdoba HSS, 2020), thehillstimes.in (PWD office Dec 2022), northeasttoday.in/thenortheasttoday.com, zoomnews.in.
+// 25. meghalaya.gov.in press releases (HWC 13 Jan 2026; Padyatra 12 Nov 2025) — HWC wali khabar par whitelist media (The Shillong Times) ki post-event report uplabdh hai, isliye entry ST par banai gayi; sarkari PR par alag entry nahi (duplicate avoid). Padyatra wala karyakram tha, kaam nahi.
+// 26. Pehchan verified: Rupert Momin (Rupert M. Momin), NPP, Kharkutta (ST) North Garo Hills — 2023 me 17,426 votes se jeet; runner-up Cherak Watre Momin (AITC) 15,896 votes, margin 1,530 — alag vyakti, koi namesake uljhan nahi. Koi mantri-pad nahi; MNREDA chairman (rajya-stariya pad) hain.
+
+// NEGATIVE-CHECK (rupert-momin):
+// - Halafnama: criminal-records suchi me Rupert M. Momin (Kharkutta, NPP) ke khilaf 0 cases darj hain — clean.
+// - Karyakaal (Mar 2023–2028) me established media me MLA ke khilaf koi FIR, charge-sheet, giraftari ya pusht aadhikarik jaanch ki reporting NAHI mili.
+// - AHAM ki RMA road complaint (Sep 2025, ST+HP): sirf CM ko chitthi, koi FIR/jaanch nahi — negative criteria (FIR/charge-sheet/pusht jaanch + MLA ka jawab) fail.
+// - Upper Rongbu school dilapidation (Aug 2026, ST ground report): contractor par activist ka aarop, MLA par koi aarop nahi, koi jaanch aadeshit nahi — negative nahi.
+// - Pre-term shikayatein (2022-23 SRWP anomaly, CGI-sheet bungling Jan 2023, MePDCL cheating complaint Feb 2023): karyakaal se pehle ki hain; inme bhi FIR/case number ka zikr nahi.
+// - Koi chunav-yachika, anti-defection yachika, dal-badal ya parivar-sambandhi mamla nahi mila.
+// - Natija: koi negative entry nahi. Khaali negative imaandari hai.
+
+// RETRY-LEADS (rupert-momin):
+// - Koi nahi: sabhi whitelist srot (The Shillong Times, Highland Post, EastMojo) ke pages seedhe khul gaye; koi dead-link ya retry-worthy page nahi mila.
+// - Agle pass ke liye sujhav: site:meghalaya.gov.in par "Kharkutta" + "SRWP"/"MLA Scheme" sanction-order/GO khojo — sarkari dastavej mile to sarkari badge wali entry ban sakti hai. Is pass me sarkari GO nahi mila.
+
+// QA: 15 news searches + 4 full page reads (ST HWC, ST school-dilapidation, ST driver-murder, EastMojo NEHU); har mention seat-verified; namesake (Cherian Momin, Cherak Watre Momin) alag kiye gaye; entries 2, rejects 26, negative 0.
+// HYGIENE: Roman-script Hinglish only; koi Devanagari nahi; Rs symbol ki jagah "Rs"; koi newline-escape sequence nahi.
+
+// ---- Mendipathar (ST): Marthon J Sangma (NPP) ----
+// Context: 2023 me Mendipathar (ST) se NPP ticket par jeete — 9,363 votes; runner-up Timjim K. Momin (INC) 5,538; margin 3,825. Koi mantri-pad nahi. MLA Scheme (SRWP): Rs 2.5 crore/kshetra/saal.
+// Research date: 2026-10-16. 15 English news searches + 6 pages khud khole gaye. Whitelist ke bahar ke srot (hubnetwork, syllad, themeghalayanexpress, indiatodayne, grokipedia, KRC Times) se koi entry nahi banayi.
+// Namesake check: har entry me seat Mendipathar + vyakti Marthon J Sangma verify kiya gaya. Marcuise N. Marak (PHE mantri), Conrad K. Sangma (CM), Dr. Mukul Sangma (LoP, Songsak) alag vyakti hain — unke events ko entry nahi banaya gaya.
+meghalayaWorks['marthon-j-sangma'] = [
+{ title: 'Dilma Urban Health and Wellness Centre ka lokarpan', category: 'Aspataal', badge: 'news', sourceLabel: 'The Shillong Times', sourceUrl: 'https://theshillongtimes.com/2023/07/28/dilma-urban-health-wellness-centre-inaugurated-in-mendipathar/', date: '2023-07-28', stage: 'lokarpan', note: '28 July 2023 ko MLA Marthon J Sangma ne North Garo Hills ke Dilma, Mendipathar me Dilma Urban Health and Wellness Centre ka lokarpan kiya. Ye Ayushman Bharat scheme ke tahat bani facility hai aur ilake ki maujuda medical institutions ka vistaar hai. Sangma ne kaha ki log ab emergencies aur treatment ke liye yahan aa sakenge aur muft essential medicine milegi, aur centre ko janta ki sampatti bataya. Additional Deputy Commissioner Kapil Koch ne kaha ki ye centre community ko comprehensive primary healthcare unke kareeb pahunchane ke uddeshya se bana hai. Lokarpan ke baad maternal aur infant mortality kam karne par bhi charcha hui.', period: '2023-2028', },
+{ title: 'Godapara (Dainadubi) me Ayushman Bharat Health and Wellness Centre ka lokarpan', category: 'Aspataal', badge: 'news', sourceLabel: 'The Shillong Times', sourceUrl: 'https://theshillongtimes.com/2024/10/09/new-health-centre-inaugurated-in-ngh-mla-assures-better-services/', date: '2024-10-08', stage: 'lokarpan', note: '8 October 2024 ko MLA Marthon J Sangma ne North Garo Hills ke Godapara, Dainadubi me naye Ayushman Bharat Health and Wellness Centre (sub-centre) ka lokarpan kiya. Centre me OPD, antenatal care aur non-communicable diseases ki screening jaisi sevaen milengi. Sangma ne kaha ki isse Godapara ke logon ko healthcare suvidhaen unke kareeb milengi aur Dainadubi ke main Primary Health Centre tak ka safar kam hoga. North Garo Hills ke Deputy Commissioner AK Singh ne Health department ke is pahal ki sarahna ki aur logon se sevaon ka poora upyog karne ki appeal ki.', period: '2023-2028', },
+{ title: 'Dome Anti Urban Health and Wellness Centre ka lokarpan', category: 'Aspataal', badge: 'news', sourceLabel: 'Highland Post', sourceUrl: 'https://highlandpost.com/health-wellness-centre-opens-in-ngh/', date: '2026-01-27', stage: 'lokarpan', note: '27 January 2026 ko MLA Marthon J Sangma ne North Garo Hills ke Dome Anti me Urban Health and Wellness Centre ka lokarpan kiya aur use Dome Anti aur aas-paas ke gaon ke logon ko samarpit kiya. Sangma ne community se appeal ki ki centre ka poora upyog karein, khaas taur par garbhavati mahilayen, kyunki samay par maternal care healthy pregnancy aur safe delivery ke liye zaroori hai. District Immunisation Officer Dr Rezia K Sangma ne bataya ki ye centre Dome Anti ke saath-saath teen padosi gaonon ko bhi serve karega aur har mahine ek poly clinic hogi jahan specialist doctor maaon aur bachchon ke health ki nigrani karenge.', period: '2023-2028', },
+];
+// REJECT-LOG (marthon-j-sangma):
+// 1. CM Conrad K Sangma ka Daming nadi par bridge (Songsak-Mendipathar aur Rongrong-Resudekachang sadkein jodne wala), Resubelpara Govt Higher Secondary School aur mini stadium ka shilanyas (Feb 2021, HT/PTI) — pre-term (Mar 2023 se pehle) aur CM ka kaam; MLA ki vyaktigat bhoomika nahi. REJECT.
+// 2. 26 May 2025 ko Mendipathar me CM dwara Climate Adaptive Community-Based Water Harvesting Project (Rs 500 crore se zyada), Megh Adapt Pay (Rs 47.19 crore), Koknal Water Harvesting Structure (Rs 51.82 lakh) ka shilanyas aur Mendipathar College Girls Hostel (Rs 3 crore) + Resubelpara Tribal Girls Hostel (Rs 2.5 crore) ka lokarpan — CM ka karyakram; Marthon sirf maujood the. REJECT (dusre neta ke karyakram me maujoodgi).
+// 3. Songsak-Mendipathar road ka LoP Dr Mukul Sangma (Songsak MLA) dwara May 2026 me nirikshan — seats-overlap; Mukul ka event, Marthon ka kaam nahi. REJECT.
+// 4. TB Mukt Bharat Abhiyan awareness karyakram (7 Feb 2025, TST; Phase II 4 June 2026) me Marthon chief guest ke taur par — awareness event, koi documented prashasnik nateeja ya delivery nahi. REJECT. TB patients "adopt" karne ka elaan (June 2026) — vyaktigat charity/pledge. REJECT.
+// 5. Mendipathar railway station se first-ever coal freight rake flag-off (28 Dec 2025, TST) — Marthon ne flag off kiya lekin ye railway/logistics ka kaam tha, unki vyaktigat bhoomika documented nahi. REJECT.
+// 6. A•we Festival 2025 ke udghatan par Marthon ka bhashan (Dec 2025) — cultural festival me speech, koi kaam nahi. REJECT.
+// 7. Mendipathar se rail network extension ki maang (Aug 2025, grokipedia) — maang/prastav akele; srot bhi whitelist me nahi. REJECT.
+// 8. 2021 me 12 Congress MLAs ka TMC me dal-badal (TOI/Express) — dal-badal, kaam nahi. REJECT.
+// 9. 2023 election coverage (NDTV) — chunav data, kaam nahi. REJECT.
+// 10. Mendipathar College ke assistant lecturer ki qualification par activist Nilbath Marak ka complaint (Northeast Now, khud khola) — complaint DHTE ko; MLA ismein aaropi nahi; koi FIR/charge-sheet nahi. REJECT (bina-pusht-jaanch complaint).
+// NEGATIVE-CHECK (marthon-j-sangma): The Shillong Times (8 Sep 2025, khud khola) me PGSU + CoMSO adviser Cherian Momin ne Governor ko petition bheji — MLA Marthon J Sangma ko Mendipathar College ke Governing Body ki chairmanship se hatane ki maang; aarop: beti ko 22 Aug 2023 ke plain-paper letter se part-time lecturer ki niyukti bina due process ke, Jan 2024 me khud ko president rakhte hue GB ka punargathan, aur SBI account operations me gadbadi. RTI reply (24 July 2025) ka hawala diya gaya. MLA ka jawab bhi report hua hai (TST 29 June 2025: MLA office ne representations ko speculative/politically motivated bataya). TST (4 Dec 2025, khud khola) me Meghalaya Lokayukta ne Mendipathar College ki aniyamittaon par police preliminary inquiry ka order diya — lekin respondents PRINCIPAL (Mothis M Sangma) aur VICE PRINCIPAL (SK Chaudhary) hain, MLA respondents me NAHI. Natija: (a) established media reporting maujood, (c) MLA ka jawab bhi report hua, lekin (b) MLA ke khilaf koi FIR/charge-sheet/pusht aadhikarik jaanch NAHI mili — Lokayukta police inquiry principal/vice-principal ke khilaf hai. Isliye negative entry NAHI bani. Pending aarop ke baare me imaandari se kuch bhi dawa nahi kiya gaya.
+// RETRY-LEADS (marthon-j-sangma): (1) Marthon ab MTDC (Meghalaya Tourism Development Corporation) ke chairman hain (TST Oct 2025 se) — unke chairman banne ke baad koi tourism project ka shilanyas/lokarpan whitelisted media me mile to naya entry banega; abhi kuch nahi mila. (2) hubnetwork/syllad/themeghalayanexpress par kai Marthon reports hain lekin whitelist me nahi — khud khole bina bhi entry nahi banayi ja sakti; agar ye srot kabhi whitelist me aaye to dobara check karna. (3) Meghalaya government press release (meghalaya.gov.in) par Godapara lokarpan ka DPRO release hai — badge niyam ke hisaab se sarkari srot par upgrade possible, parent decide kare.
+
+// ---- Resubelpara (ST): Timothy Dalbot Shira (NPP) ----
+meghalayaWorks['timothy-dalbot-shira'] = [
+];
+// REJECT-LOG (timothy-dalbot-shira): numbered list — har reject ka tathya + wajah
+// 1. The Shillong Times, 25 Sep 2025, "Road connectivity in Resubelpara to get push" — Resu Dekachang-Anogre road aur Songsak-Mendipathar road par sirf CM ka ashwasan aur "set to receive/expected/once taken up" bhasha; koi poora/lokarpan/shilanyas kaam nahi. Wajah: maang-ashwasan akele.
+// 2. The Shillong Times, 26 Sep 2025, "Tourism minister eyes stronger sector that generates more jobs" — Resubelpara civil hospital "slated for inauguration by December"; sirf aane-wale event ki ghoshna. Wajah: "karenge" khabar.
+// 3. sentinelassam.com, 8 Jan 2026, "TD Shira to Propose Key Road Upgrades in Resubelpara" — CM ko prastav submit karne ka iraada matra; source bhi whitelist me nahi. Wajah: prastav akele.
+// 4. Highland Post, 18 Dec 2023, "17 food processing units inaugurated in Garo Hills" — CM Conrad Sangma ne Resubelpara me units ka lokarpan kiya; Shira sirf "also present". Wajah: CM karyakram me sirf maujoodgi.
+// 5. Highland Post, 31 Jul 2025, "CM inaugurates school & office buildings in NGH" — CM ne Resubelpara Govt Higher Secondary School ki nayi building aur PWD (R) Resubelpara Division office building ka lokarpan kiya; Shira sirf attendee. Wajah: CM karyakram me sirf maujoodgi.
+// 6. The Shillong Times (Garo edition), 7 Dec 2025, Fisheries Minister ne Katongre me "Mountain Lake" Recreational Fisheries Project (PMMSY, Rs 50 lakh, 60% sarkari/40% beneficiary) ka udghatan kiya — lekin Katongre Bajengdoba C&RD Block me hai (Resubelpara seat ke bahar; Bajengdoba MLA Pongseng Marak maujood the), aur Shira Fisheries Mantri ki haisiyat se the. Wajah: kshetra-bahar + rajya-star mantri-karya, seat-kaam nahi.
+// 7. Pre-term items — ST 2 Dec 2022 (PWD offices), ST 3 Dec 2022 (road connectivity), ST Jan 2020 (Resubelpara Girls HSS building), ST May 2018 (development assurance), CM Feb 2021 Damring bridge/school/mini-stadium foundation — sab Mar 2023 se pehle. Wajah: pre-term.
+// 8. meghalaya.gov.in, 21 Mar 2025, "Deputy Speaker flags off Watershed Yatra at Raja Apal, NGH" — PMKSY-WDC rajya-star jagrukta van ka flag-off; koi constituency infrastructure kaam nahi. Wajah: event, works nahi.
+// 9. agritimes.co.in / nenews.in / meghalayatimes.in, 15 Jul 2025, CM FARM+ inputs distribution at Bakrapara, Resubelpara — Shira chief guest, vanilla/black pepper saplings baante; teeno sources whitelist me nahi. Wajah: non-whitelist + muft inputs distribution.
+// 10. nenews.in, "Vision 2032" CM programme at Resubelpara Mini Stadium — source whitelist me nahi aur CM karyakram me Shira sirf vakta. Wajah: non-whitelist + maujoodgi.
+// 11. southasiaviews.com, Rs 5 crore extra for Resubelpara stadium (kul Rs 8.50 crore) — CM ki ghoshna, source whitelist me nahi. Wajah: non-whitelist + ghoshna.
+// 12. indiatodayne.in, 28 Aug 2026, tourism allocation story — Assembly me mantri ka disclosure ("Resubelpara convention centre already tendered"), lekin rajya-star statement; seat-level koi lokarpan/shilanyas nahi. Wajah: mantri-sadan disclosure, seat-kaam nahi.
+// 13. Highland Post / ST nuggets (Oct 2025, Oct 2026) railway statements, GHADC non-tribal voters, Mumbai spice festival — mantri ke rajnaitik bayan. Wajah: bayan, works nahi.
+// 14. meghalaya.gov.in, 24 Apr 2026, "Free Distribution of Assistive Devices Held in North Garo Hills" — IOCL CSR ke tahat 584 beneficiaries ko muft devices; Shira ne mantri roop me baante. Wajah: muft camp.
+// 15. meghalaya.gov.in, 21 Jan 2026, 54th Meghalaya Statehood Day at Mini Secretariat Resubelpara — Shira chief guest. Wajah: sansthaagat samaroh, works nahi.
+// 16. Times of India / Hindustan Times / EastMojo, Sep 2025, Dy Speaker isteefa + cabinet reshuffle reports (TOI 8 Sep, HT 8 Sep, ST 16 Sep, TOI 16-17 Sep) — sansthaagat khabar. Wajah: works nahi.
+// 17. syllad.com / hubnetwork.in, 28 Jul 2025, CM ne Chidaret-Thapa Bazar aur Bajengdoba-Resubelpara road ke do bridge ka udghatan kiya — CM karyakram, sources whitelist me nahi. Wajah: CM karyakram me maujoodgi.
+// NEGATIVE-CHECK: Whitelisted established media me Timothy D. Shira ke khilaf koi FIR/charge-sheet/pusht jaanch ki reporting nahi mili; Sep 2025 ka Dy Speaker isteefa aur cabinet induction dal-badal nahi; koi chunaavi yachika ki report nahi; GHADC mamle rajnaitik bayan the. Isliye koi negative entry nahi — khaali profile imaandari hai.
+// RETRY-LEADS: sabhi key pages (ST road Sep 2025, ST tourism Sep 2025, Highland Post food-processing Dec 2023, ST Garo fisheries Dec 2025, meghalaya.gov.in assistive-devices Apr 2026) seedhe kholkar padhe gaye — koi page khulne me fail nahi hua. gov.in ki watershed-yatra (Mar 2025) aur statehood-day (Jan 2026) press releases snippet se confirm hue; ye dono reject-category ke hain, retry ki zaroorat nahi.
+
+// ---- Bajengdoba (ST): Pongseng Marak (NPP) ----
+meghalayaWorks['pongseng-marak'] = [
+];
+// REJECT-LOG (pongseng-marak):
+// 1. Bajengdoba Block Development Office inauguration, May 26 2025 (CM Conrad Sangma inaugurated; Pongseng Marak listed among MLAs "present"; India Today NE whitelisted source) — REJECT: dusre neta (CM) ke karyakram me sirf maujoodgi.
+// 2. Two bridges inaugurated by CM at Resubelpara, Jul 2025 (Chidaret-Thapa Bazar + Bajengdoba-Resubelpara bridge; PTI via The Week/The Print; MLA not named as driver) — REJECT: CM ka karyakram, MLA credit documented nahi.
+// 3. Damra-Bajengdoba 36 km road completion, Aug 2024 (The Shillong Times whitelisted) — REJECT: MLA ka naam report me hai hi nahi; credit thopna mana hai.
+// 4. FOCUS+ Phase II launch, NGH, Mar 2026 (The Shillong Times whitelisted; MLAs including Pongseng Marak "attended") — REJECT: sirf upasthiti, koi MLA-led work nahi.
+// 5. Mountain Lake recreational fisheries project at Katongre, Dec 2025 (inaugurated by Minister T.D. Shira; Pongseng Marak ne sirf project ki tareef ki) — REJECT: (a) hubnetwork.in whitelist me nahi, (b) mantri ka karyakram + sirf maujoodgi.
+// 6. Bajengdoba CHC foundation stone by Health Minister James P.K. Sangma, Nov 2022 — REJECT: pre-term (Mar 2023 se pehle); MLA ka "urging" dawa bhi isi purani period ka hai.
+// 7. Damring river bridge + Rajasimla school + mini stadium foundation/inauguration day, Feb 2021 (The Shillong Times + Hindustan Times, whitelisted) — REJECT: pre-term; CM ka karyakram, MLA sirf saath.
+// 8. Bajengdoba mini stadium foundation stone, Mar 2021 (CM laid it; Pongseng Marak present) — REJECT: pre-term + CM ka karyakram.
+// 9. Adokgre C&RD Block inauguration, Nov 2022 (CM; Pongseng Marak present) — REJECT: pre-term + sirf maujoodgi.
+// 10. Meghalaya Legislative Assembly Petition Committee meeting, Mendipathar, Sep 13 2024 (The Shillong Times whitelisted; Pongseng Marak as Chairman) — REJECT: committee meeting, development work nahi; koi documented prashasnik nateeja nahi.
+// 11. State Level Public Grievance Committee (SLPGC) first meeting, Sep 2023 (The Shillong Times whitelisted; Pongseng Marak as Chairman) — REJECT: committee role, work-category entry nahi.
+// 12. Jan 2023 video statement (The Shillong Times whitelisted): "15 new roads built", "schools restored", "stadiums built", "sub-centres restored" — REJECT: pre-election dawe, post-event reporting ke saath koi documented natija nahi; period '2023-2028' se bahar ke kaam.
+// 13. NPP Boko-Chaygaon Assam rally prep, Apr 2026 (syllad — whitelist me nahi anyway): Assam me party prachar — REJECT: kshetra-bahar + party kaam, vikas kaam nahi.
+// 14. meghalaya.gov.in press releases: PWD (R) Kharkutta/Resubelpara offices inauguration Dec 2022, Kharkutta PHC-to-CHC foundation — REJECT: pre-term (Dec 2022); sarkari source hone ke bawajud period se bahar.
+// 15. Namesake trap avoided: Brigady Napak Marak (runner-up INC candidate) vs Pongseng Marak — alag vyakti; Bernard Marak (BJP MDC, GHADC matter) vs Pongseng — alag vyakti; Panseng B Marak (betel-nut farmer, NGH Vigilance Forum adviser) — alag vyakti. Koi khabar inme se Pongseng par thopi nahi.
+// NEGATIVE-CHECK: Clean. 2023-2028 period me established media me Pongseng Marak ke khilaf koi FIR/charge-sheet/pusht jaanch nahi mili. Ekmatra negative-adjacent khabar (PSO ne help par goli chalayi, Nov 2018, The Shillong Times) pre-term hai aur MLA khud aaropi nahi tha (PSO giraftaar hua). Chunav-yachika/anti-defection/parivar ke mamle — kuch nahi mila. Khaali profile imaandari se darj hai.
+// RETRY-LEADS: koi nahi — sare whitelisted srot ke relevant page khul gaye; jo pages blacklist (syllad, hubnetwork, ohmeghalaya) ya aprasangik the, unpar entry banani hi nahi thi.
+
