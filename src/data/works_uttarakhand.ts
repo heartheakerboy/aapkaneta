@@ -1703,3 +1703,95 @@ uttarakhandWorks['anupama-rawat'] = [];
 // shahzad: Paithal Bujurg Rs 60L + Mohammadpur Bujurg + Bhikampur-Jeetpur Rs 22L + Sultanpur-Bhuwapur Rs 55L + Niranjanpur-Kankar Khata (sab non-whitelist, retry leads); NH-334A bypass patra (sirf maang); OBC scholarship patra (sirf maang); dargahpur Vidhayak Nidhi janch (show-cause adhikariyon par — MLA aaropi nahi, negative bar fail).
 // anupama-rawat: Ravasan bridge janjagaran yatra (sirf maang, YouTube); smart-city/assembly prashn (koi nateeja nahi); district plan baithak (dusre neta ka karyakram); 2022 election coverage (pre-term era news).
 // madan-kaushik: Jwalapur college solar handpump (seat-boundary risk — retry lead); Mukhiya Gali/ward drains/Kadachh (non-whitelist, retry leads); corridor/heritage-city ashwasan (whitelist coverage nahi); UG cabling 2021 (pre-term + maujoodgi); panchayat secretariats (mantri-vibhagiya); NDTV fraud case (aaropi nahi); land-grab aarop (sirf aarop, non-whitelist); library PIL (paksh me faisla).
+
+// ---- Pithoragarh district batch (researched 2026-10-17) ----
+
+uttarakhandWorks['vishan-singh'] = [
+  {
+    title: 'Vidhayak Vishan Singh ne Didihat CHC ko vidhayak nidhi se ambulance pradan ki (Jan 2026)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pithoragarh/chc-got-ambulance-from-mla-fund-pithoragarh-news-c-230-1-pth1019-137349-2026-01-21',
+    date: '2026-01-21',
+    stage: 'poora-kaam',
+    note: 'Amar Ujala ki 21 Jan 2026 ki post-event report ke mutabik Didihat ke MLA Vishan Singh ne apni Vidhayak Nidhi se Community Health Centre, Didihat ko ek ambulance saunpi; ab higher-center referral wale mareezon ko intezaar nahi karna padega. Disclosure: Amar Ujala ki 8 Feb 2026 ki follow-up report me block pramukh Narendra Singh Dhami ne aarop lagaya ki isi ambulance ka kiraya vasool ja raha hai; vidhayak ne sarkari niyamon ke anusaar istemaal ka dawa kiya — bina FIR/adhikarik janch ke, isliye ispar negative entry nahi banayi, sirf disclosure. (Media me naam Vishan/Bishan Singh Chufal/Chuphal bhi likha milta hai — Didihat seat se pehchan pakki hai.)',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['harish-singh-dhami'] = [];
+
+uttarakhandWorks['fakeer-ram'] = [];
+
+uttarakhandWorks['mayukh-mahar'] = [
+  {
+    title: 'Saat din ke dharne ke baad prashasan ne Kwarban tak nayi sadak kaatne ka nirnay liya, PMGSY ne nirmaan shuru kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pithoragarh/construction-of-a-new-road-to-kwarban-begins-mla-and-villagers-lift-the-protest-pithoragarh-news-c-230-1-alm1001-135974-2025-12-16',
+    date: '2025-12-16',
+    stage: 'swikriti',
+    note: 'Amar Ujala ki 16 Dec 2025 ki post-event report ke mutabik Beltadi-Kwarban sadak par pul na ban paane ke virodh me Pithoragarh ke MLA Mayukh Mahar ke netritva me saat din tak dharna hua; ADM aur PMGSY ke Executive Engineer dharnsthal pahunche aur Kwarban tak nayi sadak kaatne ka nirnay diya, 6 mahine me sadak poori karne ka lakshya bataya. Credit capped: sadak kaatne ka nirnay aur nirmaan prashasan/PMGSY ka hai — vidhayak ki asal bhoomika dharne ke netritva aur maang uthane tak hai, lekin maang ka dastaveji prashasnik nateeja mila hai. Disclosure: vidhayak ne isi mudde par apni Vidhayak Nidhi se Rs 10 lakh ki ghoshna bhi ki thi — wo bina swikriti-suchi ke ghoshna-class me reject hai.',
+    period: '2022-2027',
+  },
+];
+
+// ---- REJECT-LOG (vishan-singh — Didihat, BJP; researched 2026-10-17) ----
+// 1. "Mera gaon meri sadak" lokarpan, Bhaishyudi — 69 lakh MGNREGA CC sadak ka lokarpan. Srot whitelist me nahi (newshomelive.co.in). URL: https://www.newshomelive.co.in/mla-inaugurated-mera-gav-meri-sadak/
+// 2. Gairsain budget session maangein (Amar Ujala, 13 Mar 2026) — Didihat jila, Raotis nadi jhulapul, Munakot college maang. Sirf maang/prastav, koi dastaveji nateeja nahi.
+// 3. CM Dhami swikritiyan Didihat kshetra me (Sep-Oct 2026) — Bhumidhara-Kumalgaon Rs 74.24L, Bhugaon link road Rs 49.85L, Tapri Ghat-Golmanu Rs 72.63L, Bhautadri CC road Rs 80L aadi. CM ki swikritiyan; MLA ki vyaktigat bhoomika nahi — ghoshna-class reject.
+// 4. Chalmodi aapda daura (ETV Bharat, Sep 2025) — srot whitelist me nahi + sirf nirikshan/daura.
+// 5. Didihat mini stadium survey (Amar Ujala, 19 Dec 2025) — sirf survey/ghoshna; MLA ki bhoomika report me nahi.
+// 6. CM sahakarita mela Pithoragarh (Amar Ujala, 29 Oct 2025) — dusre neta ke karyakram me maujoodgi.
+// 7. BJP chunav karyalaya shubharambh Didihat (livehindustan, 15 Mar 2024) — party karyakram, sarkari kaam nahi.
+// 8. Ramasa Rs 1.36cr school funds (Amar Ujala, ~Feb 2021) — pre-term + shasanadesh-jaankari class.
+// 9. Cricket final puraskar (Amar Ujala, ~2016) — pre-term + samaroh mukhya-atithi.
+// 10. India-Nepal Kali nadi pul udghatan (2019) — pre-term.
+// 11. Shaheed pratima anavaran Askot (samacharuttarakhandlive.com) — srot whitelist me nahi + samaroh class.
+// 12. Nagar palika board meeting (livehindustan, Oct 2026) — palika meeting, MLA kaam nahi.
+// NEGATIVE-CHECK: chay-bagan ceiling-land ADC notice (Jun 2023) — sirf chhote portals par; whitelisted coverage mile to negative (retry lead). Block pramukh ke sadak-quality + ambulance-kiraya aarop — bina FIR/janch, jawab record par, reject. Halafname ke 2 purane mamle — Mar 2022+ me koi legal development nahi.
+
+// ---- REJECT-LOG (harish-singh-dhami — Dharchula, INC; researched 2026-10-17) ----
+// 1. Jauljibi mele (Nov 2025) me CM ke saamne aarop — 50-60 CM-ghoshna yojnaon ka Rs 10L me nipatara; sirf aarop/maang, koi nateeja nahi (Amar Ujala video).
+// 2. 34 karyon (2012-2025) ki CBI janch ki maang (Nov 2025) — sirf janch-maang, koi swikriti/vitaran-list nahi.
+// 3. Assembly winter session me disaster compensation ki maang (Nov 2022) — sirf maang; aapda-package par shrey banned (HT).
+// 4. Baluakot-Tawaghat seema-sadak par visfotak-aarop (Jan 2023) — aarop/maang, kendriya seema-sadak class (latestly).
+// 5. Vishesh satra me teacher/PHC mudde + Gunji zameen virodh — sirf prashn/maang, koi mantri-ashwasan/nateeja nahi.
+// 6. Jauljibi Mela 2024 — CM ne Rs 64.47cr ki 18 yojnaon ka lokarpan/shilanyas kiya; MLA sirf manch par upasthit (dusre neta ka karyakram).
+// 7. Kali nadi motor pul shilanyas — CM ne kiya; kendriya seema-pul; MLA maujoodgi matra.
+// 8. Samkot mobile tower (2019 Vidhayak Nidhi, Rs 30L) — non-whitelist + pre-term.
+// 9. Rs 65.10cr yojnaon ka shilanyas (Amar Ujala, ~2013-era) — pre-term.
+// 10. Vidhayak Nidhi payment par CDO takraar (2017-era) — pre-term + vivad, kaam nahi.
+// 11. Covid-2nd wave me Rs 2cr Vidhayak Nidhi elaan (May 2021) — pre-term + daan/rahat class.
+// 12. Aapda-kshetra ke liye Rs 10L Vidhayak Nidhi (Sep 2021) — pre-term + aapda class.
+// 13. 2027 independent ladne ki dhamki / BJP-join rumors (Apr 2022) — rajneeti khabar, kaam nahi.
+// 14. Adi Kailash sewerline aalochna (Nov 2025) — sirf aarop/maang, non-whitelist.
+// 15. Dharchula communal tension (Mar 2024) — MLA khud aaropi nahi (shanti ki maang ki); Garhwal Post bhi non-whitelist.
+// 16. Purva sainikon ka dharna-samarthan (2026) — samarthan matra; non-whitelist.
+// NEGATIVE-CHECK: halafname ka purana IPC 332/504 (2007 Munisyari clash) — Mar 2022+ me koi legal development nahi; Mar 2024 tension me aaropi nahi. Koi negative nahi bana.
+
+// ---- REJECT-LOG (fakeer-ram — Gangolihat (SC), BJP; researched 2026-10-17) ----
+// 1. TOI "Migration crisis deepens in Pithoragarh village" — Pabhya gaon PMGSY road approved ka MLA bayan. Sirf dawa/statement, koi lokarpan/swikriti-suchi nahi.
+// 2. CM Dhami Rs 61.98cr works lokarpan Pithoragarh + Chandak-Gangolihat motor bridge Rs 15.30cr swikriti — garhwalpost (non-whitelist) + CM ghoshna-class; MLA ka vyaktigat lokarpan nahi.
+// 3. CM ki PMGSY review meeting me virtual maujoodgi — sirf maujoodgi (garhwalpost, non-whitelist).
+// 4. YouTube videos (ex-MLA aarop, Chaukori bhoomi-haq, 2027 chunavi interview) — aggregator class; sarkar ka paksh-rakhna kaam nahi.
+// 5. ETV Bharat profile — bete puncture shop; vyaktitv-profile, kaam nahi; non-whitelist.
+// 6. DNA headline "BJP MLA booked for thrashing Dalit women" — aaropi ki pehchan verify nahi (headline me naam nahi); DNA non-whitelist; negative rules fail — reject.
+// NEGATIVE-CHECK: koi FIR/na am-daar-adhikari-pusht janch Mar 2022+ me nahi mili. Retry-leads: outlet-internal search (Amar Ujala/Jagran/Hindustan site-search), TOI Pabhya-road follow-up, Vidhayak Nidhi itemized lists.
+
+// ---- REJECT-LOG (mayukh-mahar — Pithoragarh, INC; researched 2026-10-17) ----
+// 1. Kwarban pul-maang par Vidhayak Nidhi se Rs 10L ghoshna (Dec 2025) — sirf ghoshna, swikriti-suchi nahi.
+// 2. Jhaulakhet mele me Bunkot-Baltadi shamshan marg ke liye Rs 5L ghoshna (Dec 2025) — sirf ghoshna.
+// 3. Upartola daura — nirikshan + dhan-awantan ki moukhik baat; itemized swikriti nahi.
+// 4. Nov 2023 dharna (6-sutri maangein) — sirf maang; CM-phone-ashwasan wala tukda non-whitelist.
+// 5. Panchreshwar me naav + 6 life jacket daan (Feb 2026) — vyaktigat daan class.
+// 6. Dyudi-Bhanar motor marg Rs 1.51cr swikriti — pre-term (~2016).
+// 7. 2012-13 tenure ki teen kahaniyan (Rs 65.10cr shilanyas aadi) — sab pre-term.
+// 8. PM Modi dwara Rs 4200cr pariyojnaon ka lokarpan (Oct 2023, PIB) — kendriya pariyojnaen, dusre neta ka karyakram.
+// 9. CM Dhami Rs 165cr pariyojnaen (May 2026) — CM ke kaam; srot bhi non-whitelist (ETV Bharat).
+// 10. BJP mahila morcha putla dahan (May 2026) — bina FIR bayan-bazi; non-whitelist.
+// 11. Shaheed dwar udghatan samaroh — non-whitelist srot + samaroh class.
+// 12. Whatsapp gali-galauj message jaanch (Amar Ujala, ~2015) — vidhayak shikayatkar paksh (aaropi nahi) + pre-term.
+// NEGATIVE-CHECK: "Shamsher Singh Mahar" giraftari — namesake, vidhayak nahi. Party-anushasan notice — non-whitelist + bina FIR. Jan 2025 mayoral vivaad — party-vivad, negative class nahi. Koi negative nahi bana.

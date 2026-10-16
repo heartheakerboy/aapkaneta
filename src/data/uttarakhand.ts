@@ -1241,7 +1241,7 @@ export const uttarakhandNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=32',
       backgroundNote: 'Halafnama verify: HARISH SINGH DHAMI (Winner), DHARCHULA, party INC — naam, seat aur party match. Umr 46 saal; shiksha 12th Pass; pesha: MLA aay (patni: Jai Mata Construction Company). Halafname me 1 aapradhik mamla (IPC 332, 504) darj.',
     },
-    electionNote: '2022 Vidhan Sabha chunav me Dharchula se INC ke ticket par jeete: 27,007 votes. Runner-up Dhan Singh Dhami (BJP) — 25,889 votes. Margin 1,118. 2022 me INC ticket par jeete; BJP ke Dhan Singh Dhami ko 1,118 voton se haraya.',
+    electionNote: '2022 Vidhan Sabha chunav me Dharchula se INC ke ticket par jeete: 27,007 votes. Runner-up Dhan Singh Dhami (BJP) — 25,889 votes. Margin 1,118. 2022 me INC ticket par jeete; BJP ke Dhan Singh Dhami ko 1,118 voton se haraya. Pehchan-note: ye purva CM Harish Rawat NAHI hain — 2014 me inhone Dharchula seat tatkalin CM Harish Rawat ke liye khali ki thi (Jul 2014 upchunav, Rawat jeete; Business Standard). 2017 se Dharchula ke MLA hain.',
   },
   {
     slug: 'vishan-singh',
