@@ -1700,7 +1700,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/meghalaya2023/candidate.php?candidate_id=6810',
       backgroundNote: "Halafname par naam 'Rakkam A. Sangma', seat Rongara Siju (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 39 saal, Post Graduate — M.Sc. Physics, North Eastern Hill University (NEHU), Shillong, 2008. Pesha: Social Worker. 7 March 2023 se 16 September 2025 tak Meghalaya cabinet me mantri rahe (Education, General Administration, Border Areas Development sahit); September 2025 ke cabinet ferbadal se pehle unhone istifa de diya tha.",
     },
-    electionNote: '2023 Vidhan Sabha chunav me Rongara Siju (ST) se jeete: 11,569 votes. Runner-up Rophul S. Marak (INC) 8,311 votes. Margin 3,258. 7 March 2023 se 16 September 2025 tak Meghalaya cabinet me mantri rahe (Education, General Administration, Border Areas Development); September 2025 ke cabinet ferbadal me pad chhoda.',
+    electionNote: '2023 Vidhan Sabha chunav me Rongara Siju (ST) se jeete: 11,569 votes. Runner-up Rophul S. Marak (INC) 8,311 votes. Margin 3,258. 7 March 2023 se 16 September 2025 tak Meghalaya cabinet me mantri rahe (Education, General Administration, Border Areas Development); September 2025 ke cabinet ferbadal me pad chhoda. Aug 2026 me unhe Meghalaya Resource and Employment Generation Council ka Chairman niyukt kiya gaya (sansthaagat pad — vikas-kaam nahi).',
   },
   {
     slug: 'sengchim-n-sangma',

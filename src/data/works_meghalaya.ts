@@ -1259,3 +1259,339 @@ meghalayaWorks['pongseng-marak'] = [
 // NEGATIVE-CHECK: Clean. 2023-2028 period me established media me Pongseng Marak ke khilaf koi FIR/charge-sheet/pusht jaanch nahi mili. Ekmatra negative-adjacent khabar (PSO ne help par goli chalayi, Nov 2018, The Shillong Times) pre-term hai aur MLA khud aaropi nahi tha (PSO giraftaar hua). Chunav-yachika/anti-defection/parivar ke mamle — kuch nahi mila. Khaali profile imaandari se darj hai.
 // RETRY-LEADS: koi nahi — sare whitelisted srot ke relevant page khul gaye; jo pages blacklist (syllad, hubnetwork, ohmeghalaya) ya aprasangik the, unpar entry banani hi nahi thi.
 
+
+// ---- South Garo Hills district batch (researched 2026-10-16) ----
+
+// Meghalaya works-mining — Rakkam A. Sangma (slug: rakkam-a-sangma), Rongara Siju (ST), NPP, South Garo Hills.
+// Foundation: Rongara Siju seat (AC 58), South Garo Hills, ST reserved; 2023 me NPP ticket par jeete
+// (11,569 votes; runner-up Rophul S. Marak INC 8,311; margin 3,258). Umr 39, M.Sc. Physics (NEHU, 2008),
+// pesha Social Worker, koi aapradhik mamla ghoshit nahi. Tenure 2023-2028.
+// Mantri-record (verify kiya gaya): 7 March 2023 se 16 September 2025 tak Meghalaya cabinet me mantri
+// (Education, General Administration, Border Areas Development); 16 Sep 2025 ke cabinet ferbadal me
+// 8 mantriyon ke saath istifa (The Hindu + India Today NE, 16 Sep 2025; portfolios: education + cooperation).
+// Uske baad backbencher; Aug 2026 me Meghalaya Resource and Employment Generation Council ke Chairman.
+// Naam-ka-jaal check: har source me "Rongara-Siju MLA / Rakkam A Sangma" seat-pehchaan ke saath pakka kiya
+// gaya hai — Conrad K. Sangma (CM, South Tura), Brening A. Sangma (Dalu, mantri), Marcuise N. Marak (mantri,
+// Williamnagar), James Sangma (ex-minister), Kartush R. Marak (Baghmara), Sengchim N. Sangma (Chokpot),
+// Samuel M. Sangma (ex-Baghmara MLA) se alag. Period: Mar 2023+ only (2023-2028).
+// Mantri-niyam apply: mantri-karyakaal (Mar 2023–Sep 2025) ke RAJYA-STAR faisle/bayan (PGI rank vivaad,
+// college affiliation proposal, university consecration vivaad, LP teacher recruitment, school-infra appeal,
+// Mawphlang College delay — sab Education portfolio ke) seat-kaam NAHI. Seat ke andar mantri ke roop me
+// unka koi VYAKTIGAT lokarpan/shilanyas whitelisted post-event reporting me NAHI mila — Baghmara wala
+// ekmatra vyaktigat lokarpan seat-bahar tha (neeche reject #1).
+// Entries: 0 (khaali profile imaandari) — 17 English news searches, whitelisted srot (ST/HP/EastMojo/NEN)
+// me koi seat-level vyaktigat lokarpan/shilanyas/swikriti/ghoshna post-event report NAHI mili.
+
+meghalayaWorks['rakkam-a-sangma'] = [];
+
+// REJECT-LOG (rakkam-a-sangma / Rongara Siju, NPP; period 2023-2028; 17 searches):
+// 1. Experiential Learning Centre, Baghmara lokarpan, 21 Aug 2024 — Education Minister Rakkam A. Sangma ne
+//    KHUD kiya (The Shillong Times, whitelisted: https://theshillongtimes.com/2024/08/21/rakkam-inaugurates-learning-centre-at-baghmara/;
+//    Digital Lab + Computer Lab + Gaming Zone; Ministry of Information and Broadcasting, Govt of India se funded;
+//    ex-DC S. Awasthi ki pahal; Society for Empowerment and Development of Youth chalayegi). REJECT —
+//    KSHETRA-BAHAR: Baghmara AC 60 hai, Rongara Siju AC 58 nahi (Baghmara MLA Kartush R. Marak bhi upasthit the,
+//    ye seat-bahar pakka karta hai). Mantri-disclosure/fund-source hote hue bhi seat-niyam sakht hai.
+//    RETRY LEAD: koi nahi — seat-bahar personal kaam seat-record me kabhi nahi jodega.
+// 2. Rongara C&RD Block Integrated Development Complex lokarpan, 10 Sep 2026 — CM Conrad K. Sangma ne kiya;
+//    Rakkam sirf upasthit (India Today NE, whitelisted:
+//    https://www.indiatodayne.in/meghalaya/story/meghalaya-cm-inaugurates-block-integrated-development-complex-in-rongara-1449081-2026-09-10).
+//    REJECT — dusre neta ke karyakram me maujoodgi (CM ne credit bhi khud ke sarkari programme ko diya; MLA ko
+//    "efforts and vision" ki taarif maujoodgi ko lokarpan nahi banati).
+// 3. Jackfruit Processing Unit, Gulpani Nokat (Rongara) lokarpan, 8 Feb 2024 — CM ne kiya; Education Minister +
+//    local MLA Rakkam upasthit (ST whitelisted: https://theshillongtimes.com/2024/02/08/meghalaya-cm-inaugurates-jackfruit-processing-unit-at-rongara/;
+//    ~Rs 2 crore, 100 KW solar). REJECT — CM ka karyakram, maujoodgi entry NAHI.
+// 4. Chitmang Chaiwat nature-based glamping resort, Badri Rongdong lokarpan, 17 Jun 2025 — CM ne kiya (Rs 1.66
+//    crore + Rs 93 lakh aur; Soil & Water Conservation Baghmara Division/MBDA); Education Minister Rakkam
+//    sirf "attendees" me (India Today NE, whitelisted:
+//    https://www.indiatodayne.in/meghalaya/story/meghalaya-chitmang-chaiwat-eco-tourism-glamping-project-local-jobs-1230625-2025-06-17).
+//    REJECT — maujoodgi.
+// 5. Capt. Williamson Memorial Govt HSS new building + synthetic athletic track, Baghmara shilanyas, 18 Jun
+//    2025 — CM ne rakha; Education Minister Rakkam "also spoke" (Northeast Today whitelisted; Highland Post
+//    whitelisted: https://highlandpost.com/project-worth-rs-1400-cr-spent-on-south-garo-hills-since-2018/).
+//    REJECT — CM ka karyakram, maujoodgi (Baghmara location seat-bahar bhi hai).
+// 6. Siju tourism project (Swadesh Darshan, ~Rs 9 crore) shilanyas + Siju tourist lodge (NEC/DoNER) lokarpan — CM
+//    ne kiya; Siju-Rongara MLA Rakkam upasthit (nenow.in = Northeast Now, whitelisted:
+//    https://nenow.in/north-east-news/meghalaya/meghalaya-cm-lays-foundation-stone-for-tourism-project-at-siju.html).
+//    REJECT — CM ka karyakram, maujoodgi; article ~Oct 2021 ka hai (pre-term bhi).
+// 7. Greater Baghmara Water Supply Scheme lokarpan, 9 Jan 2023 — CM ne kiya, Rakkam upasthit (ohmeghalaya,
+//    non-whitelist; ST 2021 foundation report bhi). REJECT — PRE-TERM (Mar 2023 se pehle) + CM ka karyakram.
+// 8. New DC office complex, South Garo Hills (Baghmara) shilanyas, 24 Oct 2024 — Governor C.H. Vijayashankar ne
+//    virtual rakha (Rs 14,98,59,577 sanctioned); Education Minister Rakkam upasthit aur bole
+//    (themeghalayanexpress.com, non-whitelist: https://themeghalayanexpress.com/base-laid-for-new-dc-office-complex-for-south-garo-hills/).
+//    REJECT — Governor ka karyakram, maujoodgi + non-whitelisted srot.
+// 9. Karukol Higher Secondary School new building lokarpan, Dec 2021 — Cabinet Minister James Sangma ne kiya
+//    (ADB funded); Rongara-Siju MLA Rakkam upasthit (ST whitelisted: https://theshillongtimes.com/2021/12/05/school-building-inaugurated-6/).
+//    REJECT — PRE-TERM + dusre neta ka karyakram (double reason).
+// 10. SSLC achievers cash prizes — 38 students, St. Francis De Sales Secondary School Nongalbibra, Rs 5,000 per
+//    letter subject, 29 Apr 2025 (hubnetwork.in, non-whitelist); Aug 2026 me 200+ students (Rs 25+ lakh) + 4
+//    schools ko Rs 5 lakh each annually teacher salaries ke liye (meghalayanews24.in, non-whitelist; funds "salary
+//    + DG Fund" se). REJECT — vyaktigat charity / salary-daan vikas-kaam NAHI (sakht niyam) + non-whitelisted.
+//    RETRY: whitelisted coverage mile to bhi charity-niyam se reject rahega — retry lead NAHI.
+// 11. "45 schools renovated in Rongara-Siju, Rs 2 lakh per school from MLA scheme funds" — Education Minister ka
+//    dawa, 22 Jul 2025 PTI story (The Week, The Print, Editorji, mynewsne, assamtalks, careers360 — SAB
+//    non-whitelisted). REJECT — whitelisted srot (ST/HP/EastMojo/NEN) me coverage NAHI mili; sirf MLA ke dawe par
+//    non-whitelist srot entry nahi banta. RETRY LEAD: whitelisted srot me post-event/verified coverage mile to
+//    'dawa' badge entry evaluate karo (mantri-disclosure + fund-source = MLA scheme funds saaf likhna).
+// 12. Chokpot–Siju–Karukol road, ~Rs 130 crore sanction — Rakkam ne CM ko dhanyavad diya, May 2026
+//    (news-nest.com, non-whitelist: https://news-nest.com/2026/05/05/rakkam-sangma-thanks-cm-conrad-for-%E2%82%B9130-crore-chokpot-siju-karukol-road-project/).
+//    REJECT — dhanyavad-statement entry nahi; unki vyaktigat bhoomika nahi (sanction sarkar/CM ka) + non-whitelist.
+//    RETRY LEAD: Rakkam khud shilanyas/lokarpan karein to whitelisted post-event coverage par evaluate karo.
+// 13. Mawphlang College science/commerce buildings delay — KSU Mawphlang Unit protest, Aug 2024 (ST whitelisted:
+//    https://theshillongtimes.com/2024/08/28/rakkam-under-fire-over-delays-in-mawphlang-college-work/). REJECT —
+//    vibhagiya mantri-kaam (Education portfolio, state-level) + seat-bahar (Mawphlang, East Khasi Hills).
+//    Negative bhi NAHI — bina-pusht-jaanch aarop, mantri-bhoomika ka vivaad seat-record me negative nahi banta.
+// 14. SGH health facilities me "severe staff shortage" — Rakkam (Chairman, Meghalaya Resource and Employment
+//    Generation Council) ne Health Minister Wailadmiki Shylla ko memorandum diya, 13 Aug 2026 (ST whitelisted:
+//    https://theshillongtimes.com/2026/08/14/mla-rakkam-flags-severe-staff-shortage-in-sgh-health-facilities/).
+//    REJECT — maang/prastav akele (post-minister era; petition kaam nahi).
+// 15. Letterhead row — DSC jobs ke liye "recommended" naamon wala letterhead social media par, Jan 2022 (ST
+//    whitelisted: https://theshillongtimes.com/2022/01/04/letterhead-of-siju-mla-with-recommended-names-surface-legislator-dismisses-it-as-fake/ aur
+//    https://theshillongtimes.com/2022/01/05/mlas-name-entangled-in-letterhead-row/; Highland Post 5-6 Jan 2022).
+//    REJECT — PRE-TERM (Mar 2023 se pehle). Negative bhi NAHI: koi pusht FIR/jaanch nahi (MLA ne khud FIR file
+//    karne se mana kiya; activist Greneth Sangma ke aarop par koi sarkari jaanch confirm nahi).
+// 16. Nirikshan/daura/bayan akela — GBWSS site nirikshan Jan 2023, CM-Connect Rongara Sep 2026 (CM ne kiya),
+//    Gasuapara highway protest (unfulfilled assurance ka aarop, hubnetwork non-whitelist), border-fencing bayan
+//    (2018), Assembly sawal (electrification 2022; PGI blame 2025; yoga 2025), fossil-theft bayan Jan 2025,
+//    nun-incident par CM ko patr Feb 2024, college-affiliation proposal, university consecration vivaad, GHADC
+//    salary protest par bayan: REJECT — koi bhi vikas-kaam nahi (bayan/daura/patr/maujoodgi).
+// 17. Rongjeng Model Degree College lokarpan (~Aug 2024) — CM ne kiya; Education Minister Rakkam bole (syllad,
+//    non-whitelist; East Garo Hills = seat-bahar bhi). REJECT — CM ka karyakram + maujoodgi + non-whitelist.
+// 18. Dalu GHS building / Dalu immigration checkpost / Dalu bridge (Rs 11 crore) lokarpan, Jun 2025 — CM ne kiya;
+//    Rakkam upasthit (Highland Post reject #5 wala article). REJECT — CM ka karyakram + Dalu AC seat-bahar.
+// 19. Cabinet reshuffle Sep 2025 — 8 mantriyon ka istifa (The Hindu whitelisted:
+//    https://www.thehindu.com/news/national/meghalaya/meghalaya-cabinet-reshuffle-eight-meghalaya-ministers-resign-new-ministers-to-cabinet/article70055860.ece/amp/;
+//    India Today NE). Kaam nahi — sirf mantri-tenure (7 Mar 2023–16 Sep 2025) confirm karta hai; foundation ka
+//    electionNote/mantri-record pehle se sahi hai, koi correction nahi.
+// 20. Negative check — koi pusht FIR/jaanch/adalati mamla nahi mila; rat-hole mining vivaad me unka naam kisi
+//    pusht jaanch me nahi; chunav-yachika / anti-defection / dal-badal applicable nahi; MLA khud
+//    shikayat-karta/peedit wali koi ghatna nahi; parivar ke mamle koi nahi. Isliye NEGATIVE entries: 0.
+
+// RETRY LEADS (whitelisted post-event reporting mile to):
+// (a) 45-schools renovation dawa (reject #11) — ST/HP/EastMojo/NEN me verified coverage par 'dawa' badge evaluate karo.
+// (b) Chokpot–Siju–Karukol road (reject #12) — Rakkam ke vyaktigat shilanyas/lokarpan ki whitelisted reporting par.
+// (c) Sep 2025 ke baad backbencher ke roop me seat-level lokarpan — abhi tak whitelisted me koi nahi; aage nazar rakho.
+// (d) Baghmara Experiential Learning Centre (reject #1) — seat-bahar hone se kabhi eligible nahi; retry mat karo.
+
+
+meghalayaWorks['sengchim-n-sangma'] = [];
+
+// REJECT-LOG (sengchim-n-sangma / Chokpot (ST), NPP, South Garo Hills; MLA since Mar 2023, NOT a minister):
+// 1. "Meghalaya targets 95 pc institutional deliveries in 3 yrs" — The Shillong Times, 29 Aug 2026
+//    (https://theshillongtimes.com/2026/08/29/meghalaya-targets-95-pc-institutional-deliveries-in-3-yrs/):
+//    REJECT — sirf Assembly me prashn/maang (PHC me doctors, ambulance, referral facilities ki maang Chokpot
+//    ke liye). Maang/prastav akele entry NAHI.
+// 2. EastMojo ka isi Assembly prashn par report, 28 Aug 2026
+//    (http://eastmojo.com/meghalaya/2026/08/28/meghalaya-institutional-delivery-rate-rises-to-81/):
+//    REJECT — wahi #1 wala Assembly-question; maang akele entry NAHI.
+// 3. CM-Connect Rongara (Sep 2026) — menafn.com / themeghalayanexpress.com / indiaeducationdiary.in:
+//    REJECT — CM Conrad K. Sangma ne Rongara C&RD Block infrastructure ka lokarpan kiya; Sengchim sirf
+//    "thanked the Chief Minister" + attendance list me. Dusre neta ke karyakram me maujoodgi akeli entry NAHI;
+//    menafn/themeghalayanexpress/indiaeducationdiary whitelist me NAHI bhi hain.
+// 4. "South Garo Hills gets 3 Eklavya schools" — themeghalayanexpress.com (Oct 2024):
+//    REJECT — PM Modi ne digital shilanyas kiya (central scheme); Sengchim sirf virtual-launch programme me
+//    upasthit the + bayan diya. Dusre neta ka karyakram + whitelist me nahi.
+// 5. "CM inaugurates new school building at Mibonpara" — hubnetwork.in, Aug 2025:
+//    REJECT — CM ne lokarpan kiya; Sengchim sirf "attended by Chokpot MLA Sengchim Sangma" list me.
+//    Dusre neta ke karyakram me maujoodgi + source whitelist me NAHI.
+// 6. "GHADC launches digital initiatives, opens help desk booth" — hubnetwork.in, Sep 2026:
+//    REJECT (do wajah) — (a) CM ka karyakram; Sengchim ne "Help Desk Booth" ka lokarpan GHADC Chairman ke
+//    roop me kiya, MLA ke roop me NAHI — GHADC ke kaam MLA ko NAHI jodte; (b) source whitelist me NAHI.
+// 7. "Capt Williamson Memorial College-ni gital building-na pangchakaniko songa" — The Shillong Times (Garo ed.),
+//    Oct 2024 (https://theshillongtimes.com/2024/10/26/capt-williamson-memorial-college-ni-gital-building-na-pangchakaniko-songa/):
+//    REJECT — Speaker Thomas A. Sangma ne Rs 5 crore RUSA academic building ka shilanyas kiya; "Chokpot-ni MLA
+//    SN Sangma" sirf upasthit-gan me. Dusre neta ke karyakram me maujoodgi.
+// 8. "Chokpot roads: Decades of neglect leave residents in perpetual pain" — The Shillong Times, 26 Sep 2024
+//    (https://theshillongtimes.com/2024/09/26/chokpot-roads-decades-of-neglect-leave-residents-in-perpetual-pain/):
+//    REJECT — reportage me sirf residents ki ummeed ("hope that Chokpot will see development... depends on
+//    whether the MLA pushes for it") aur Chokpot-Jetra road ki chhoti marammat; koi lokarpan/shilanyas/swikriti
+//    ki post-event report nahi.
+// 9. "Rakkam welcomes tender for Rs 130-crore GH road project" — The Shillong Times, 6 May 2026
+//    (https://theshillongtimes.com/2025/05/06/rakkam-welcomes-tender-for-rs-130-crore-gh-road-project/):
+//    REJECT — Chokpot-Siju-Karukol road tender par Rakkam A. Sangma ka bayan; Sengchim isme dikhe hi nahi.
+// 10. "Chokpot groups hold rally to oppose stone quarry" — The Shillong Times, 18 Oct 2023
+//     (https://theshillongtimes.com/2023/10/18/chokpot-groups-hold-rally-to-oppose-stone-quarry/):
+//     REJECT — residents ne CM, Tura MP aur local MLA ko memorandum diya; koi swikriti/kaam nahi, aur ye
+//     Sengchim ke khilaf ya unki taraf se koi shikayat-prakriya bhi nahi (sirf memorandum-receipt).
+// 11. R-Day / I-Day 2024-26 dignitaries lists — The Shillong Times + Highland Post:
+//     REJECT — ceremonial flag-hoisting lists (Chokpot me unfurl karna tha); vikas-kaam NAHI.
+// 12. "15-day Viksit Krishi Sankalp Abhiyan launched in Meghalaya" — Highland Post (May 2025):
+//     REJECT — KVK ka central campaign; Sengchim sirf Warima Training Centre, Chokpot me launch function me
+//     "attended" list me. Maujoodgi akele entry NAHI.
+// 13. "Inter-Mahari football tourney begins in Garo Hills" — Highland Post, Aug 2025:
+//     REJECT — sports tournament ka udghatan (PHE Minister ke saath); ceremonial event, vikas-kaam NAHI.
+// 14. Pre-term items (sab Mar 2023 se pehle — period '2023-2028' ke bahar):
+//     - "GHADC Chairman launches handicrafts training in SGH" — The Shillong Times, 13 Jul 2022
+//       (https://theshillongtimes.com/2022/07/13/ghadc-chairman-launches-handicrafts-training-in-sgh/):
+//       bamboo handicrafts training ka lokarpan — pre-term + GHADC Chairman bhoomika.
+//     - "NPP's Sengchim becomes new GHADC Chairman" — The Shillong Times / Highland Post, Mar 2022:
+//       sansthaagat pad-chunav; vikas-kaam NAHI + pre-term.
+//     - "Development should reach remotest areas of M'laya: CM" — The Shillong Times, 24 Sep 2022
+//       (https://theshillongtimes.com/2022/09/25/development-should-reach-remotest-areas-of-mlaya-cm/):
+//       CM ne 12-Mile-Chokpot road + Chokpot Sub-Division office ka shilanyas kiya (Rs 50cr + Rs 4cr) — pre-term
+//       aur dusre neta (CM) ka karyakram.
+//     - "Meghalaya CM inaugurates new office building of Chokpot C&RD block" — syllad.com, 10 Jan 2023:
+//       CM ne Chokpot C&RD Block office + Degree College building ka shilanyas kiya — pre-term + CM ka karyakram.
+// 15. "Group warns action as MGNREGA road project in SGH sits incomplete" — The Shillong Times, 1 Sep 2025
+//     (https://theshillongtimes.com/2025/09/01/group-warns-action-as-mgnrega-road-project-in-sgh-sits-incomplete-2/):
+//     REJECT — Chokpotgre me adhoori MGNREGA CC road par group ki chetawani; isme Sengchim ka koi role/report nahi.
+// 16. Ambulance handover (SRWP 2023-24, Bolero Neo, Ruga Welfare Committee ko) — sirf Facebook-page mirror
+//     (findglocal.com) par mila: REJECT — chhote portals/FB-IG valid NAHI; whitelist me koi post-event report nahi.
+// 17. Facebook mirror ke 25/02/2025 aur 30/03/2025 items (road-inspection + toofan-rahat tin-sheet vitaran):
+//     REJECT — inspection/daura akele entry NAHI; rahat/vitaran vikas-kaam NAHI; source bhi whitelist-bahar.
+// 18. Negative-check: "Sengchim Sangma" + FIR/complaint/case/arrested par whitelist sources me Mar 2023 se ab tak
+//     koi FIR, jaanch ya case ki reporting NAHI mili (search hits me Thomas Sangma/Champion Sangma mile — galat
+//     vyakti, Chokpot/NPP se koi sambandh nahi). Dal-badal, chunav-yachika ya family-mamle ki koi khabar nahi —
+//     koi negative entry nahi banti.
+// 19. Disambiguation note: "Sengchim Sangma" naam Garo Hills me kayi jagah aata hai (Chokpot MLA vs Gasuapara
+//     GHADC-MDC wahi vyakti hain — pehchan pakki: affidavit + meghalaya.gov.in members page par naam 'SENGCHIM N.
+//     SANGMA', seat Chokpot (ST), district South Garo Hills, party NPP match karte hain). Kisi alag 'Sangma' se
+//     related item is profile me kabhi NAHI judna chahiye.
+//
+// RETRY LEADS:
+// - meghalaya.gov.in ya South Garo Hills DC portal par SRWP/"MLA Scheme" sanction-order lists
+//   (2023-24 / 2024-25 / 2025-26) me "Chokpot"/"Sengchim" ke liye specific search — is pass me aisa koi sarkari
+//   portal/GO page khulkar verify NAHI hua (badge 'sarkari' isi se mil sakta hai).
+// - Chokpot C&RD Block office / Chokpot Degree College / Sub-Division building ki completion par koi post-event
+//   whitelist reporting aaye (ye CM ke shilanyas wale projects hain) to tab maujoodgi-naam se entry banane se
+//   bachna — sirf tab entry jab Sengchim khud lokarpan/shilanyas karein.
+// - The Shillong Times / Highland Post archives me "Sengchim" + "Chokpot" + "inaugurat"/"handed over" keyword
+//   sweep agli baar bhi karna — is pass me sirf maujoodgi/marammata-khabrein mili.
+//
+// QA: 14 search passes (name variants "Sengchim N Sangma"/"Sengchim Sangma"/"SN Sangma", seat Chokpot,
+// inauguration/foundation/scheme/sanctioned/ambulance, site:theshillongtimes.com, site:eastmojo.com,
+// site:highlandpost.com, site:northeastnow.in, negative FIR/complaint sweep) + snippets me har lead ki stage
+// verify ki. Mar 2023+ me Sengchim N. Sangma dwara khud kiye gaye lokarpan/shilanyas/swikriti/hand-over ki
+// koi whitelist post-event reporting NAHI mili. Har mention ya to (a) dusre neta (CM/PM/Speaker) ke karyakram me
+// maujoodgi, (b) Assembly me maang/prashn, (c) ceremonial lists/events, (d) pre-term (GHADC/MDC bhoomika), ya
+// (e) whitelist-bahar srot (FB mirror/hubnetwork) ka tha. Entries: 0 (khaali profile imaandari), rejects: 19 +
+// 3 retry leads.
+//
+// Foundation check (koi correction NAHI): naam 'Sengchim N. Sangma', seat Chokpot (ST), party NPP, tenure
+// 2023-2028, mantri NAHI — sab assignment/foundation se match. Wikipedia + meghalaya.gov.in members page
+// (designation MLA, 59-CHOKPOT (ST), district South Garo Hills) se cross-verified.
+
+// Meghalaya works-mining — Kartush R. Marak (slug: kartush-r-marak), Baghmara (ST), Independent.
+// Foundation: Baghmara seat no. 60, South Garo Hills, ST reserved; elected March 2023 as
+// Independent (9,013 votes; defeated BJP ke Samuel M. Sangma ko 2,225 votes se). From Gasuapara
+// village, South Garo Hills. Born 1977; Class X (Dalu Govt High School, 1996); 0 criminal cases.
+// Party-note (verify kiya gaya): Shillong Times 21 Mar 2024 me "who later joined the NPP" wali line
+// thi, lekin Shillong Times 15 Sep 2026 ("Nine MLAs, no common prog"), meghalaya.gov.in MLA page aur
+// current MLA lists unhe aaj bhi Independent batate hain (ruling MDA-2.0 ke samarthak). Isliye foundation
+// "Independent" sahi hai — koi correction nahi.
+// Naam-ka-jaal check: har source me "Baghmara MLA / Kartush R. Marak" seat-pehchaan ke saath pakka kiya
+// gaya hai — Samuel M. Sangma (2023 runner-up, BJP), Satto R. Marak (ex-MLA), Rakkam A. Sangma
+// (Rongara-Siju), Marcuise N. Marak (mantri) se alag. Period: Mar 2023+ only (2023-2028).
+// Whitelisted sroton me Kartush R. Marak ke khud ke kiye hue koi lokarpan/shilanyas/swikriti/goshna
+// wale seat-level kaam Mar 2023 ke baad nahi mile — coverage sirf maujoodgi, nirikshan, prastav,
+// chunav-yachika, ya non-whitelisted portals ki hai.
+
+meghalayaWorks['kartush-r-marak'] = [];   // koi whitelist-post-event works entry nahi mili
+
+// REJECT-LOG (kartush-r-marak / Baghmara, Independent):
+// 1. "Meghalaya CM inaugurates Jackfruit Processing Unit at Rongara" — The Shillong Times, 8 Feb 2024
+//    (https://theshillongtimes.com/2024/02/08/meghalaya-cm-inaugurates-jackfruit-processing-unit-at-rongara/):
+//    REJECT — CM Conrad Sangma ka karyakram tha (Rs 2 crore unit, Gulpani Nokat, Rongara); Kartush Marak
+//    sirf "in the presence of" maujood the — dusre neta (CM) ke karyakram me maujoodgi akeli entry NAHI.
+//    Bonus: Rongara Siju-Rongara seat me hai (Rakkam A. Sangma ki), Baghmara se bahar bhi.
+// 2. "Baghmara MLA inspects different project sites" — Highland Post, ~June 2023
+//    (https://highlandpost.com/baghmara-mla-inspects-different-project-sites/):
+//    REJECT — nirikshan/daura akele; police reserve, Captain Williamson Sangma Memorial College,
+//    Baghmara Govt School, Dabram PWD road/check dam, Dabit hanging bridge ka daura karke quality par
+//    asantosh jataya — koi sanction/lokarpan report nahi. Inspection akeli entry NAHI.
+// 3. "Meghalaya HC takes up plea seeking disqualification of MLA" / "Baghmara MLA faces disqualification
+//    charge" — The Shillong Times, 23-24 Mar 2023
+//    (https://theshillongtimes.com/2023/03/23/meghalaya-hc-takes-up-plea-seeking-disqualification-of-mla/,
+//     https://theshillongtimes.com/2023/03/24/baghmara-mla-faces-disqualification-charge/):
+//    REJECT (negative-check) — Election Petition 1 of 2023 (yachika-karta: John Marak, Baghmara; vakil:
+//    Sujit Dey); aadhaar: nomination me declared "Class I government contractor" ka subsisting contract
+//    (Art 191(1)(e), RP Act s.9A). Niyam: chunav-yachika akeli NEGATIVE nahi — isliye valid negative entry
+//    NAHI. Outcome (kharij/withdraw) ka koi whitelisted update search me nahi mila.
+// 4. "GSU threatens PIL over Siju tourism amenities going missing" — The Shillong Times, 24 Mar 2025
+//    (https://theshillongtimes.com/2025/03/24/gsu-threatens-pil-over-siju-tourism-amenities-going-missing/ —
+//    page khud kholkar padha gaya): REJECT (negative-check) — Garo Students' Union (Siju unit) ne 2021 ke
+//    Swadesh Darshan package (Rs 9.3 crore) me kharab maintenance ka aarop lagaya aur PIL ki DHAMKI di;
+//    "approach road and parking at Siju... given to Kartush Marak is missing the approach road". Lekin
+//    (a) sirf PIL ki dhamki hai — koi pusht FIR ya sarkari jaanch report me nahi; (b) contract 2021 ka
+//    hai, MLA-banane (Mar 2023) se pehle ka, aur thekedaar ki haisiyat me tha. Niyam: bina-pusht complaint
+//    akeli valid NEGATIVE nahi. RETRY LEAD: agar is par koi pusht sarkari jaanch/FIR aaye to re-evaluate.
+// 5. "Rakkam inaugurates learning centre at Baghmara" — The Shillong Times, 21 Aug 2024
+//    (https://theshillongtimes.com/2024/08/21/rakkam-inaugurates-learning-centre-at-baghmara/):
+//    REJECT — Experiential Learning Centre ka udghatan Education Minister Rakkam A. Sangma ne kiya;
+//    "Baghmara MLA K R Marak" sirf maujood the — mantri ke karyakram me maujoodgi akeli entry NAHI.
+//    (Centre I&B Ministry-funded tha, pichhle DC ke initiative par.)
+// 6. "Capt Williamson Memorial College-ni gital building-na pangchakaniko songa" (Garo edition) — The
+//    Shillong Times, 26 Oct 2024
+//    (https://theshillongtimes.com/2024/10/26/capt-williamson-memorial-college-ni-gital-building-na-pangchakaniko-songa/):
+//    REJECT — RUSA ke tahat Rs 5 crore ke academic building ka shilanyas Speaker Thomas A. Sangma ne kiya;
+//    Baghmara MLA Kartush R. Marak sirf maujood the — dusre neta ke karyakram me maujoodgi.
+// 7. Garo Hills flood/landslide (Hatisia Songmong, Gasuapara) Oct 2024 — Highland Post
+//    (https://highlandpost.com/garo-hills-flood-death-toll-rises-to-17/), Northeast Now, The Meghalayan
+//    Express: REJECT — Education Minister Rakkam A. Sangma ke saath landslide site ka daura/sthiti-jayza;
+//    rahat/relief aur nirikshan vikas-kaam NAHI.
+// 8. "Baghmara's Tyisam Festival begins on Simsang Beach" — Highland Post, Jan 2026
+//    (https://highlandpost.com/baghmaras-tyisam-festival-begins-on-simsang-beach/) aur Shillong Times
+//    (https://theshillongtimes.com/2026/01/29/keen-on-developing-tourism-across-meghalaya-says-shira/):
+//    REJECT — Tourism Minister T.D. Shira ne do-divasiya sanskritik utsav ka udghatan kiya; Kartush Marak
+//    "accompanied" the — maujoodgi; bhotik karya nahi.
+// 9. "Garo MLAs push for Dhaka rail link" — Assam Tribune, Mar 2025 (aur shillongtoday.com):
+//    REJECT — teen SGH MLAs (Rakkam, Kartush, Sengchim) ne CM ko Guwahati-Mendipathar-Baghmara-Dhaka
+//    railway proposal ka letter diya — maang/prastav akele, "karenge" nahi lekin sanction ghoshna nahi;
+//    aisa prastav entry NAHI banta.
+// 10. "Conrad outlines Rs 1800 Cr development plan for South Garo Hills" — hubnetwork.in, June 2025
+//     (https://hubnetwork.in/conrad-outlines-%E2%82%B91800-cr-development-plan-for-south-garo-hills-promises-economic-prosperity/):
+//     REJECT — CM ka Baghmara daura (33rd Foundation Day, synthetic athletic track + Williamson Govt Hr Sec
+//     School building ka shilanyas, PRIME Hub udghatan, Baghmara Police Station nirikshan); "Kartus Marak"
+//     sirf upasthit the; source bhi whitelist me NAHI.
+// 11. "Meghalaya CM inaugurates Academic Block and Girls' & Boys' Hostel of Baghmara Government College"
+//     — syllad.com, 4 Mar 2024
+//     (https://www.syllad.com/chief-minister-conrad-sangma-inaugurates-academic-block-and-girls-boys-hostel-of-baghmara-government-college/):
+//     REJECT — CM ka udghatan; Kartush sirf maujood ("in the presence of"); syllad whitelist me NAHI.
+// 12. "Meghalaya marks 54th Statehood Day in Baghmara for first time" — hubnetwork.in, Jan 2026:
+//     REJECT — CM ka karyakram (Rs 140 crore Baghmara Water Supply Phase-II ki ghoshna CM ne ki);
+//     Kartush ki bhoomika sirf athiti; source bhi whitelist me nahi.
+// 13. MBMA Weekly Highlights, 20 June 2025 — "PRIME Hub Inaugurated at Baghmara" (CM, 18 June 2025):
+//     REJECT — CM ne udghatan kiya; Kartush ka koi bhoomika-zikr nahi; non-whitelisted source.
+// 14. Shillong Times Feb 2020: "Meghalaya CM lays foundation stone for new building of Baghmara civil
+//     hospital" — REJECT — pre-term (Feb 2020; tab Baghmara MLA Samuel M. Sangma the) + CM ka karyakram.
+// 15. Shillong Times 10 Jan 2023: "Conrad inaugurates Greater Baghmara Water Supply Scheme" (Rs 63.50
+//     crore, GBWSS) — REJECT — pre-term (Jan 2023, chunav se pehle) + CM ka karyakram.
+// 16. Shillong Times 2 May 2017: "Inquiry ordered into pollution caused by brick factory" (Gasuapara brick
+//     factory "belonging to Kartush Marak", AIGU complaint, PCCF/SPCB inquiry order) — REJECT — pre-term
+//     (2017) + complaint-aadharit mamla; MLA-role se sambandh nahi.
+// 17. "Pressure groups set deadline for HSPDP MLAs to pull out" — Highland Post, Mar 2023:
+//     REJECT — Kartush ne sirf NPP-BJP gathbandhan ko samarthan-patra diya tha; rajnitik khabar, kaam nahi.
+// 18. "Nine MLAs, no common prog: M'laya Opposition's problem" — The Shillong Times, 15 Sep 2026
+//     (https://theshillongtimes.com/2026/09/15/nine-mlas-no-common-prog-mlaya-oppositions-problem/):
+//     Sirf party-status confirm karne ke liye istemal — Kartush R. Marak (Baghmara) 51-member ruling side
+//     ke do independents me se ek ke roop me list hain. Yehi foundation (Independent) ki pushti hai; is
+//     khabar me koi kaam-report nahi, entry NAHI.
+// 19. NDTV candidate page / Wikipedia / myneta.info / YouTube nomination video — REJECT: profile/candidate
+//     data hi hai, post-event karya-reporting nahi; YouTube whitelist me bhi nahi.
+// 20. "Rongara groups seek Border Haat, CHC and administrative reforms" — Highland Post, Sep 2026:
+//     REJECT — Rongara (Rakkam A. Sangma ki Siju-Rongara seat) ke groups ki maangen; seat-bahar + maang.
+// 21. Syllad Jan 2026 Republic-Day dignitaries list (Baghmara me Minister Brening A. Sangma flag unfurl
+//     karenge) — REJECT: protocol list, kaam nahi.
+// NEGATIVE-CHECK (kartush-r-marak): (a) Election Petition 1 of 2023 (disqualification charge, Mar 2023) —
+//     chunav-yachika akeli valid NEGATIVE nahi; outcome ka whitelisted update nahi mila; (b) GSU Siju
+//     tourism PIL-dhamki (Mar 2025) — bina-pusht complaint (koi FIR/jaanch report nahi) + pre-term (2021)
+//     contractor-role; valid NEGATIVE nahi; (c) Gasuapara brick factory inquiry (2017) — pre-term complaint;
+//     valid nahi; (d) illegal/rat-hole coal mining — Kartush ka naam kisi pusht FIR/jaanch me MLA ke roop me
+//     nahi mila (koila-vivaad coverage Minister Marcuise N. Marak se judi hai, Kartush se nahi); (e) koi
+//     anti-defection/dal-badal mamla nahi (Independent hi hain); MLA khud kisi mamle me shikayat-karta/peedit
+//     nahi mile; (f) BSF/seema-bayan — Kartush ke koi bayan nahi mile; (g) myneta.info affidavit: 0 criminal
+//     cases. Isliye negative entries: ZERO.
+// RETRY-LEADS: (1) GSU Siju tourism amenities mamla — agar Meghalaya Tourism Dept ya DC South Garo Hills ki
+//     pusht jaanch/FIR ya sarkari audit report whitelisted media me aaye to re-evaluate (approach road
+//     project Kartush ke naam par tha); (2) Highland Post "Baghmara MLA inspects project sites" ke baad ke
+//     Dabram check dam / Dabit hanging bridge / Jongkol-Dabram road ki poora/lokarpan coverage dhoondo —
+//     abhi sirf nirikshan hai; (3) MLA Scheme (SRWP) ke tahat Baghmara me swikrit kaamon ki whitelisted
+//     coverage ya meghalaya.gov.in/C&RD portal par saal-vaar suchi mile to entry banao — is run me koi nahi
+//     mili; (4) Election Petition 1 of 2023 ka outcome (kharij/withdraw/chaloo) whitelisted me mile to reject-log
+//     update karo — negative entry phir bhi nahi banegi (niyamon ke mutabiq).
+// NATEEJA: 18 alag search-prayas kiye gaye (name variants "Kartush Marak"/"Kartush R Marak"/"Kartus Marak"/"K R
+// Marak", seat-tagged phrases, site-specific site:theshillongtimes.com/site:highlandpost.com/site:eastmojo.com+site:nenow.in,
+// sector-specific road/water/school/hospital, MLA-scheme/SRWP angle, inauguration/foundation/lays/distributes/launches,
+// 2024/2025/2026 time-boxing, coal-mining aur party-status checks); har shortlisted source khud kholkar padha
+// gaya (GSU-PIL page khud padha — sirf PIL-dhamki, koi pusht jaanch nahi); snippet se koi entry nahi banai.
+// Mar 2023 ke baad ka koi bhi MLA-attributable poora/lokarpan/swikriti/shilanyas/ghoshna wala seat-level kaam
+// whitelisted post-event reporting me nahi mila — isliye entries khaali hain; khaali profile imaandari hai.
