@@ -990,6 +990,17 @@ odishaWorks['prithviraj-harichandan'] = [];
 
 // ---- Nayagarh district batch ----
 
+odishaWorks['arun-kumar-sahoo'] = [];
+odishaWorks['surama-padhy'] = [];
+odishaWorks['dusmanta-kumar-swain'] = [];
+odishaWorks['ramesh-chandra-behera'] = [];
+
+// REJECT-LOG (Nayagarh district, researched 2026-10-16 — 4/4 profile imaandari se khaali, 0 negatives):
+// - Arun Kumar Sahoo (Nayagarh, BJD, poorv mantri): poorv-mantri-era (2019-24) ke saare kaam rule-ban; chunav-yachika (negative rule-ban); Pari-mamle par BJP isteefa-maang aandolan (bina-pusht-jaanch raajnitik aarop); CMSA sanction suchi me MLA ka apna prastav nahi; sab coverage Assembly-bayan/virodh.
+// - Surama Padhy (Ranpur, BJP, Speaker 20 Jun 2024 se): Speaker ki poori coverage sansthaagat (sadan chalan, ayogyata-yachika faisle, 12 MLA suspension, CPC/CPA foreign tours, OLA website/bhavan, Capital Foundation Day, House Committee) — kaam nahi; MLA-quarters narazgi Bhubaneswar ka bhavan (seat-bahar); Kusumi irrigation me PM/President ke karyakram me koi seat-bhoomika nahi; Har Ghar Tiranga Ranpur me tha lekin party-abhiyan + non-whitelist srot; Ranpur seat-level lokarpan/shilanyas ki English mainstream coverage shunya (retry lead: OTV/Sambad re-check + MLALADS portal).
+// - Dusmanta Kumar Swain (Khandapada, BJP): coverage poori maujoodgi/maang; shikayat-mamle me MLA na aaropi na shikayat-karta (negative rule-ban).
+// - Ramesh Chandra Behera (Daspalla SC, BJD): Nuagaon block meeting me filein phaadna (nirikshan/maang; atke projects ka poora/lokarpan par retry lead); Daspalla Kalyan mandap shilanyas MLA ne kiya hi nahi (NAC chief ne pehle kar diya); Daspalla railway udghatan pre-term + Railway Minister ne kiya; Mission Shakti Bhawan pre-term + MP ne kiya; PMAY/TNIE Assembly sawal (maang); health camp/mahotsav charity + non-whitelist; MCC/Covid 2022 complaint pre-term + bina-pusht-jaanch; 'Ramesh Chandra Behera' naam ka DA case galat vyakti (sarkari adhikari); halafname me 0 criminal cases; Jun 2024+ me koi nayi FIR nahi.
+
 // ---- Ganjam district batch ----
 
 // ---- Gajapati district batch ----
