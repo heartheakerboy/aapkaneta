@@ -1350,7 +1350,7 @@ export const meghalayaNetas: Neta[] = [
       assets: 'Rs 2,59,16,852',
       liabilities: 'Rs 20,18,928',
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=7055',
-      backgroundNote: 'Halafname par naam \'Abu Taher Mondal\', seat Phulbari (West Garo Hills, samanya seat) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 56 saal; A.M.I.E. (I) Civil Engineering 1991 me The Institution of Engineers (India), Kolkata se. Pesha: samaj sevi. 7 Mar 2023 se MDA-2 sarkar me cabinet mantri.',
+      backgroundNote: 'Halafname par naam \'Abu Taher Mondal\', seat Phulbari (West Garo Hills, samanya seat) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 56 saal; A.M.I.E. (I) Civil Engineering 1991 me The Institution of Engineers (India), Kolkata se. Pesha: samaj sevi. 7 Mar 2023 se 16 Sep 2025 tak MDA-2 sarkar me cabinet mantri rahe (Power, Community and Rural Development, Taxation); Oct 2025 se Meghalaya State Planning Board ke Chairman hain.',
     },
     electionNote: '2023 Vidhan Sabha chunav me Phulbari se jeete: 14,969 votes. Runner-up S. G. Esmatur Mominin (AITC) 11,729 votes. Margin 3,240.',
   },
