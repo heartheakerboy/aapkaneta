@@ -598,7 +598,183 @@ odishaWorks['adhiraj-mohan-panigrahi'] = [
 // RETRY LEADS (state-wide): mlalads.odisha.gov.in is network se unreachable (connection reset) — khulne par 147 seats ki sarkari-badge sanction-suchi sweep; Sambad English site-search 403; OTV tag pages.
 
 
-// ---- Kalahandi district batch ----
+
+// ---- Kalahandi district batch (researched 2026-10-16) ----
+// 5/5 MLA honestly empty (0 entries): works coverage in Kalahandi is thin in whitelisted English media; all leads reject-logged below.
+// ---- Kalahandi district batch — Dibya Shankar Mishra (researched 2026-10-16) ----
+// MLA: Dibya Shankar Mishra (BJD, vipaksh), seat Junagarh, period 2024-2029.
+// 10 alag search prayason ke baad: whitelist (The Hindu/IE/TOI/HT/NDTV/India Today/
+// TNIE/OTV/Sambad English/Orissa POST/Kalinga TV/Pragativadi/Dharitri English) par
+// Jun 2024–Oct 2026 ke beech is MLA ke kshetra-kaam ki KOI post-event reporting
+// nahi mili jisme lokarpan/shilanyas/swikriti/ghoshna/poora-hua-kaam Mishra ki
+// vyaktigat documented bhoomika ke saath report hua ho. Whitelisted media me Mishra
+// keval virodh-pradarshan, shaadi, Mamita Meher mamle aur CM-karyakramon ke hawale
+// se report hue hain — koi constituency works nahi. Poorv-mantri-karyakaal
+// (2019–2024, Naveen Patnaik sarkar) ke saare kaam task-niyam se reject.
+// Isliye profile imaandari se KHAALI hai.
+odishaWorks['dibya-shankar-mishra'] = [];
+
+// REJECT-LOG (Kalahandi — Dibya Shankar Mishra, Junagarh, researched 2026-10-16):
+// Orissa POST — "In a first, an MLA visits this village" (Lakhnapada, Junagarh block, MLALAD se Rs 10 lakh): report ~2018 ki hai (2848 din purani) — karyakaal se pehle ka kaam, task-niyam se REJECT.
+// OTV — "Eggs hurled at Junagarh MLA Dibya Shankar Mishra's van": Golamunda Sarbamangala College ke naye bhavan ke lokarpan me Mishra KEVAL shamil hone ja rahe the (inaugurator nahi, MP Malavika Deo ke saath guest) — sirf maujoodgi/upasthiti, kaam ki post-event report nahi; khabar virodh ki hai, works entry nahi. REJECT.
+// odishabytes — "Eggs Hurled At MLA Dibya Shankar Mishra In Odisha's Kalahandi": upar wali ghatna ka hi coverage — whitelist me nahi, aur kaam ka srot nahi. REJECT.
+// Orissa POST (19 Jan 2026) — CM Mohan Majhi ne Kalahandi Ghumura Mahotsav me 3,612 projects (Rs 891.39cr) ka lokarpan/shilanyas: ye CM ka karyakram hai, Mishra report me mentioned hi nahi — BJD MLA ki CM-karyakram me maujoodgi niyam se bhi REJECT.
+// odishabytes — "Unfazed Odisha Minister Dibya Shankar Mishra Back In Public" (Nov 2021): pre-term, mantri-karyakaal ki khabar; Junagarh me park ka shilanyas mantri ke roop me — karyakaal se pehle. REJECT.
+// OTV/others — CM Naveen Patnaik ke Kalahandi Junagarh daure (mega irrigation shilanyas, etc.): purani sarkar ke CM-karyakram, Mishra ki vyaktigat bhoomika nahi. REJECT.
+// TNIE (6 Mar 2026) — Kalahandi ki 6 drinking-water pariyojanaon (Junagarh block sahit) me deri: government project ki status-report hai, MLA ka naam/bhoomika report me nahi; negative entry ke yogya nahi. REJECT.
+// Sambad English — "Odisha MLA Dibya Shankar Mishra gets engaged / ties knot": vyaktigat shaadi ki khabar (Puri, 2024-25), kshetra-kaam nahi. REJECT.
+// OTV (Mamita Meher case, parivar ki CBI-jaanch maang): bina-pusht-jaanch complaint/aarop — Mishra ke khilaf koi FIR/charge/janch-report nahi; task-niyam se akeli complaint NEGATIVE nahi banti. REJECT.
+// Sambad English (2021) — "BJP workers hurl eggs at Minister Dibya Shankar Mishra's car": pre-term mantri-karyakaal ka virodh, works nahi. REJECT.
+// Orissa POST (1 Nov 2023) / business-standard — CM Naveen Patnaik ka Kalahandi Rs 1,200cr package (Saheed Rendo Majhi Medical College lokarpan): pre-term CM-karyakram, aur seat Bhawanipatna (Junagarh-bahar). REJECT.
+// Orissa POST (28 Mar 2026) — "Min directs to accelerate development works at block level": departmental CDO/BDO samiksha-baithak, MLA ki koi bhoomika nahi. REJECT.
+// Kalinga TV (2022) / Orissa POST (2022) — KISS-Kalahandi Residential School (Bhawanipatna block) lokarpan: pre-term CM-karyakram; Bhawanipatna block Junagarh seat-bahar bhi hai. REJECT.
+// Tender-aggregator pages (govttenders/latesttenders/firsttender — Junagarh canal/GMAPV tenders): whitelist srot nahi; tender post-event report nahi banti. REJECT.
+// MLALAD portal (mlalads.odisha.gov.in) network se unreachable tha — task-niyam ke mutabik us par samay nahi lagaya; RETRY LEAD darj: portal khulne par Mishra ke MLALAD kaam dobara check.
+// RETRY LEADS: (A) Sarva Mangala College Golamunda naye bhavan lokarpan ki kisi whitelisted post-event report me Mishra ki exact bhoomika (inaugurator vs guest) verify; (B) Junagarh NAC/Golamunda me 2025-26 ke lokarpan/shilanyas par whitelist cover aaye to dobara search.
+// Dibya Shankar Mishra profile imaandari se khaali hai — works me entry nahi jodi gayi.
+
+odishaWorks['sudhir-ranjan-pattjoshi'] = [];
+
+// REJECT-LOG (sudhir-ranjan-pattjoshi — Dharmagarh, Kalahandi, BJP; karyakaal 4 Jun 2024–2029; 12 alag search prayas):
+// 1. TNIE (26 Aug 2025, whitelisted): Lanjigarh bauxite-mine kholne ki maang par MLA ne "take up with state government" ka ashvasan diya — sirf maang/ashvasan, na swikriti na kaam, REJECT.
+// 2. hellokotpad.com / odishabiznewz.com (Sep 2026): Bar Association ke saath Second ADJ Court + POCSO/Family Court jurisdiction par "discussions" aur memorandum — sirf charcha/maang, koi swikriti nahi; srot bhi whitelist me nahi, REJECT.
+// 3. newkerala/ANI (Mar 2025): Antyodaya Gruha Yojana launch event (CM ka karyakram) — MLA sirf press-release me quote me maujood; dusre neta ke karyakram me sirf maujoodgi, REJECT.
+// 4. TNIE/OTV (Jan 2026): Kalahandi Utsav me CM ke 3,612 projects Rs 891.39 crore ka lokarpan/shilanyas — MLA sirf upasthit MLAs ki suchi me; CM ke karyakram me maujoodgi matra, REJECT.
+// 5. adani.news: Indravati Left Main Canal renovation (Rs 560 crore DPR) — MLA ne assembly me mudda uthaya, abhi sirf DPR/planning stage; srot whitelist me nahi; sirf maang/prastav, REJECT.
+// 6. yadunewsnation.in: Dharamgarh block Pravesh Utsav me MLA chief guest, awareness ratha ko hari jhandi — srot whitelist me nahi; karyakram me maujoodgi matra, kaam nahi, REJECT.
+// 7. OMMCom News (Mar 2025): CM Majhi ka Kalahandi daura, Rs 617.51 crore projects — MLA sirf upasthit, REJECT.
+// 8. OrissaPOST (whitelisted): "ITI Dharmagarh yet to get permanent campus" — foundation stone 2019 (Naveen Patnaik), nirmaan Nov 2021 me poorv MLA Mousadhi Bag ke bhoomi-poojan ke saath shuru; karyakaal se PEHLE ka kaam, REJECT. (Sambandhit: ye ITI abhi tak adhoora hai — is karyakaal me uske pura hone ki koi post-event reporting nahi mili.)
+// 9. Facebook/YouTube podcast clips — whitelist me nahi, post-event reporting nahi, REJECT.
+// 10. Nuapada bypoll (TNIE, Oct 2025): MLA BJP candidate ke nomination julus me upasthit — chunavi maujoodgi, kshetra-bahar kaam bhi hai, REJECT.
+// 11. YouTube/News18 Odia "Operation Lotus" clips — party-politics, video matra, kaam nahi, REJECT.
+// 12. Negative check: 2 purane criminal cases halafname me hain (News18/ADR, chunav 2024 se pehle ki recording) — is karyakaal (Jun 2024–Oct 2026) me Pattjoshi ke khilaf kisi FIR/case/jaanch ki established reporting (whitelist sources) nahi mili; chunav-yachika akeli negative nahi, koi valid negative nahi. Parivar ke mamle — koi entry nahi.
+// 13. RETRY LEADS: (a) MLALADS portal (mlalads.odisha.gov.in) network se unreachable tha — MLALADS fund use ka koi verification nahi ho paya; agle pass me retry karo. (b) Odisha Assembly session records (starred/unstarred questions) me Pattjoshi ke sawal — sarkari srot par check karo. (c) OTV/Orissa POST site search "Dharamgarh" + inaugurated.
+
+// IMAANDARI STATEMENT: Sudhir Ranjan Pattjoshi Jun 2024 me BJP se Dharmagarh ke pehle BJP MLA bane. 12 alag search prayason ke baad bhi unke karyakaal ke kisi kshetra-kaam ka whitelist-anukool post-event pramaan (sarkari swikriti, sarkari suchi, ya established media ki prashasnik swikriti-report) Jun 2024–Oct 2026 ke liye nahi mila — sirf maangen/ashvasan, CM-karyakramon me maujoodgi, aur poorv-karyakaal ki pariyojanaon ki khabren mili, sab reject. isliye odishaWorks['sudhir-ranjan-pattjoshi'] imaandari se khaali hai.
+
+// ---- Kalahandi district batch: Sagar Charan Das (sagar-charan-das, Bhawanipatna (SC), INC — vipaksh MLA) — researched 2026-10-16 ----
+// Bhasha niyam: har title/note Roman-script Hinglish me hoga ("Rs", koi Devanagari/Odia script ya Rs-symbol nahi).
+// PROFILE KHAALI (0 entries): 12 search rounds + 4 whitelist sources khud kholkar padhe — Jun 2024–Oct 2026 me
+// Sagar Charan Das ke vyaktigat lokarpan/shilanyas/swikriti ki koi post-event reporting whitelist English media me nahi mili.
+// Coverage lagbhag poori tarah raajnaitik hai (chunav 2024, death-threat complaint, Vidhan Sabha nilamban, mandi-bayan).
+odishaWorks['sagar-charan-das'] = [
+];
+
+// REJECT-LOG (das) — researched 2026-10-16:
+// R1. TOI, 21 Nov 2025: "Bhawanipatna MLA claims his aide threatened by miscreants" — Das ne Kalahandi SP + Bhawanipatna Town PS me complaint darj karayi; police ne case register karke janch shuru ki; pita Bhakta Charan Das ka sand-mafia shak. NEGATIVE NAHI — MLA khud shikayat-karta/peedit hai (niyam: MLA khud complainant ho to negative nahi); vikas-kaam bhi nahi.
+// R2. Kalinga TV English, 21 Nov 2025: same death-threat story — sirf Das ke X-post par based; FIR/janch-sthiti ka sthapan nahi; MLA ke khilaf koi aarop nahi. NEGATIVE NAHI + kaam nahi.
+// R3. Sambad English: 12 Congress MLAs (Das sahit) 7 din ke liye Vidhan Sabha se nilambit — sadan me ghanta/flute bajakar virodh par Speaker ka anushasanatmak kadam. NEGATIVE NAHI — koi FIR/case/janch nahi, sadan-karyavahi hai (protest-discipline category).
+// R4. TNIE, 19 Jan 2026: CM Mohan Charan Majhi ne Bhawanipatna (Kalahandi Utsav-Ghumura) me 3,612 projects (Rs 891 crore) ka lokarpan/shilanyas kiya — CM ka kaam; upasthit MLAs: Dibya Shankar Mishra (Junagarh), Sudhir Pattjoshi (Dharmagarh), Manorama Mohanty (Narla); Bhawanipatna MLA Das maujoodgi me bhi ullikhit nahi. Maujoodgi/CM-karyakram reject.
+// R5. TOI (wahi 19 Jan 2026 event): wahi CM package — CM ka kaam; reject (R4 jaisa).
+// R6. Orissa POST, Jun 2024: "Bhakta Das loses, son Sagar wins" — chunav-nateeja khabar; kaam nahi. Reject.
+// R7. OTV (purana): Naveen Patnaik Kalahandi projects shilanyas (2017-era) — pre-term + CM ka kaam. Reject.
+// R8. Kalinga TV: Naveen Patnaik KISS residential school lokarpan Bhawanipatna (17 Jun 2022) — pre-term + CM ka kaam. Reject.
+// R9. YouTube (SangharsaTV): Dharmasala (Jajpur) MLA Himanshu Sekhar Sahoo ke 2 road shilanyas — NAAM-JAAL: "Sagar Das" reporter ka naam hai, MLA ka nahi; kshetra-bahar + YouTube non-whitelist. Reject.
+// R10. aajtakodisha (non-whitelist): Sarian High School silver jubilee (Dec 2025) — Narla MLA Manorama Mohanty chief guest (alag seat); non-whitelist. Reject.
+// R11. enewsinsight (non-whitelist): Das ne President ko MMDR Amendment Bill 2026 par patr likha (Aug 2026) — raajnaitik patr, vikas-kaam nahi; non-whitelist. Reject.
+// R12. YouTube (RajRini Vlog): Khel Mela 2026 closing ceremony "Organized by Shri Sagar Charan Das" (20 May 2026, Bhawanipatna) — sanskritik karyakram, vikas-kaam nahi; YouTube non-whitelist. Reject.
+// R13. yadunewsnation (non-whitelist): Lanjigarh bauxite Gram Sabha maang-gyapan Das + 2 MLAs ko diya gaya (May 2025) — sirf maang/gyapan (MLA ko mili), kaam nahi; non-whitelist. Reject.
+// R14. OdishaBytes (non-whitelist): Congress ka 12-ghante Bhawanipatna bandh (Dec 2024, paddy procurement) — Das ka virodh-aahwan; virodh/maang, kaam nahi; non-whitelist. Reject.
+// R15. Orissa POST: Junagarh Road-Bhubaneswar Express flag-off — "Pradeepta Kumar Nayak" = Pradipta Kumar Naik (BJP, poorv MLA 2019-2024). GALAT VYAKTI + pre-term. Reject.
+// R16. OTV/business-standard: Bhawanipatna railway station + Link Express flag-off — Bhakta Charan Das (pita, tatkalin MoS Railways, 2012/2013). GALAT VYAKTI (pita) + pre-term. Reject.
+// R17. OdishaBytes: Lanjigarh MLA Pradip Disari ko grameenon ne roka (Nov 2023) — alag seat (Lanjigarh) + pre-term. Reject.
+// R18. hellokotpad (non-whitelist): CM Antyodaya Gruha Yojana launch Bhawanipatna (Mar 2025) — CM ka kaam; non-whitelist. Reject.
+// R19. webindia123 (non-whitelist): Das ne BJD ke Rajya Sabha ummidwar Datteswar Hota ka samarthan kiya (Mar 2026) — raajnaitik; non-whitelist. Reject.
+// R20. webindia123 (non-whitelist): Ram Navami (Titlagarh) par BJP MLA ki firing par Das ki tippani — raajnaitik bayan; non-whitelist. Reject.
+// R21. Halafnama: Town PS FIR 376/2022 (IPC 143, 283, 186, 149) — pre-term (2022), koi current-tenure development-judav nahi. NEGATIVE KABHI NAHI (precedent: Dhenkanal/Sambalpur batches).
+// NAAM-JAAL NOTE: Bhakta Charan Das (pita, poorv kendriya mantri, Narla 2024 Congress ummidwar) aur Pradipta Kumar Naik (BJP, poorv Bhawanipatna MLA 2019-2024) — dono ke kaam/khabren is profile me kabhi nahi lagani.
+// FOUNDATION CORRECTION: koi nahi (Sagar Charan Das, INC, Bhawanipatna (SC), 2024-2029 — odisha.ts se mail khata hai; koi mantri-pad nahi; myneta candidate_id=164 confirm).
+// RETRY LEADS: (1) mlalads.odisha.gov.in — is network se unreachable; khulne par Bhawanipatna seat ki MLALADS swikriti-suchi (sarkari-badge ka sabse sambhavit srot); (2) @sagarcharandas (X) par lokarpan/shilanyas posts ki whitelist post-event coverage mile to entry banegi; (3) OTV/OdishaTV "Bhawanipatna" tag archive ka periodic scan; (4) Sambad English / Dharitri English site-search par "Bhawanipatna MLA" ka ek aur pass.
+// QA: 12 alag search rounds; 4 whitelist pages khud kholkar padhe (TOI, Kalinga TV, TNIE, Sambad English); snippet se koi entry nahi banayi. Entries: 0 (profile imaandari se khaali); rejects: 21 + 1 naam-jaal note + 4 retry leads.
+// ---- Kalahandi district batch (Sagar Charan Das) END ----
+
+odishaWorks['manorama-mohanty'] = [];
+
+// REJECT-LOG (manorama-mohanty — Narla, Biju Janata Dal, karyakaal Jun 2024–2029; researched 2026-10-16):
+// Pehchan verified: Manorama Mohanty, BJD, Narla (Constituency No. 81, Kalahandi, unreserved); 2024 me 67,532 votes se jeet, Bhakta Charan Das (INC) ko 5,205 votes se haraya; poorvavarti Bhupinder Singh (BJD). Seat me Narla + Karlamunda + Madanpur-Rampur blocks aur Kesinga block ke 9 GPs.
+// 1. PTI/Orissa POST (29 Mar 2026) — Narla police ne MLA ke pati (Durga Prasad Mohanty, Narla Block chairman/BJD Narla block president) par tehsildar ko dhamkane ke aarop me case darj karne ke baad MLA ke Bhubaneswar sarkari nivas par notice dene gaye; pati pharar, High Court se interim protection. PARIVAR KA MAMLA — kabhi negative nahi; REJECT. (Orissa POST whitelisted par bhi rule sakht hai.)
+// 2. Sambad English / Pragativadi / TNI (Jul 2026) — MLA ne Kesinga SDPO aur police team par 29 Mar 2026 ke nivas-pravesh ko lekar breach-of-privilege notice diya; Assembly ne Home Department se 15 din me report maangi. MLA yahan SHIKAYAT-KARTA hai, prakriyaatmak vishay hai, koi vikas-kaam nahi; negative nahi banta. REJECT.
+// 3. Dinalipi/odishabytes (Apr 2026) — OPCC president Bhakta Charan Das ne Narla chunav-yachika Orissa High Court se wapas li (Justice Sashikanta Mishra ne 30 Mar ko allow kiya). CHUNAV-YACHIKA AKELI NEGATIVE NAHI; REJECT.
+// 4. TNIE (23 Aug 2026) — BJP ke Aniruddha Pradhan ne wapas-li-yachika me substitute-petitioner banne ki arji di (notice jari). Chunav-yachika ka prakaran hi hai, negative nahi; REJECT.
+// 5. OTV (Jan 2026) — CM Mohan Majhi ne Kalahandi me 3,612 projects (Rs 891.39 crore) ka lokarpan/shilanyas kiya (Kalahandi Utsav Ghumura 2026). Page kholkar padha: article me Manorama Mohanty ka naam ya koi documented bhoomika nahi — CM ka karyakram; sirf maujoodgi bhi confirm nahi. REJECT.
+// 6. TNIE (5 Sep 2025) — Odisha sarkar ne 16 naye NACs + 7 municipalities notify kiye; poora article kholkar padha — Narla NAC suchi me hai (Kalinga TV English 31 Aug 2025 ne bhi confirm kiya) lekin article me Manorama Mohanty ka koi zikr nahi, unki koi documented bhoomika (maang, samman, bayan) whitelisted media me nahi mili. Sirf sarkari faisle ko MLA ke khate me jodna bina saboot ke galat hoga; REJECT. (Sohela wali entry ka precedent — wahan MLA ki bhoomika documented thi — yahan nahi.)
+// 7. aajtakodisha (21 Dec 2025) — Sarian Panchayat High School (Narla block) ka Silver Jubilee samaroh, MLA mukhya atithi ke roop me "inaugurated the ceremony" — sirf samarohik karyakram, koi vikas-kaam ka lokarpan/shilanyas nahi; srot bhi non-whitelisted. REJECT.
+// 8. yadunewsnation (Sep 2025) — Rupra Road me Nuakhai samaroh me MLA ne "naye Yadav Bhawan ke nirmaan ke liye support ka pledge" kiya — "karenge" pratibaddhata, srot non-whitelisted. REJECT.
+// 9. papermanindia (Aug 2026) — Naveen Patnaik ne Narla ke BJD netaon/MLAs se "developmental activities and organisational matters" par feedback liya; meeting led by Manorama Mohanty — sangathanatmak charcha, koi kaam ka post-event report nahi; srot non-whitelisted. REJECT.
+// 10. yadunewsnation (Jun 2024) — Narla Primary Teachers Association ne nav-nirvachit MLA ka samman kiya; shiksha-infrastructure par "100% yogdaan" ka aashwasan — sirf aashwasan/samaroh, srot non-whitelisted. REJECT.
+// 11. dumanimail (pre-term, Nov 2023) — "Ama Odisha Nabin Odisha" karyakram me tatkalin "block chairman Manorama Mohanty" ka zikr — tenure se pehle + dhyan rahe ye alag naam-mel khabar bhi ho sakti hai (verify nahi hua); srot non-whitelisted. REJECT.
+// 12. Negative sweep: whitelisted media me MLA ke khilaf koi personal FIR/case/janch ki reporting Jun 2024–Oct 2026 me nahi mili. webindia123 ke "Manorama Mohanty, Director of IMD Bhubaneswar" wale lekh DHYAN SE REJECT kiye gaye — ye naam-milti-julti DOOSRI vyakti hain, Narla MLA nahi.
+// 13. ppms.odisha.gov.in (sarkari, Oct 2026 crawl) — Narla block ke SFC-fund order sheets (Tulapada CC road, Rupra Road facility centre) — panchayat samiti yojanaen, MLA ki koi documented bhoomika nahi. REJECT.
+// RETRY LEADS: (A) mlalads.odisha.gov.in portal network se unreachable tha — MLA LAD (Rs 5cr/seat FY 2025-26: Rs 4cr general + Rs 50L education + Rs 50L road; guidelines search-indexed hain) ki Narla-list portal khulne par dobara check; (B) Pragativadi/Sambad English/Odisha TV par "Narla MLA" + inaugurates/foundation par periodic spot-search — vikas-karyakram coverage abhi tak whitelisted media me indexed nahi; (C) Narla NAC ke gathan-notification par MLA ki bhoomika wala koi whitelisted report mile to swikriti-entry par vichaar.
+// QA: 14 alag news searches + 3 page kholkar padhe (Pragativadi tag archive, OTV CM-Kalahandi, TNIE NAC suchi); har qualifying mention sirf sangathanatmak/samarohik tha ya parivar/kanuni-prakriya se juda; entries 0 — profile imaandari se khaali.
+
+// ---- Kalahandi district batch — pradip-kumar-dishari (researched 2026-10-16) ----
+// MLA: Pradip Kumar Dishari (Biju Janata Dal — vipaksh MLA), seat Lanjigarh (ST), Kalahandi jila, Odisha.
+// Identity verified: 17vi Odisha Vidhan Sabha, Lanjigarh (ST) se 2024 me jeete (News18 result page + NDTV ADR candidates page).
+// Period: 2024-2029. Sirf Jun 2024 se Oct 2026 tak ke kaam dekhe gaye.
+odishaWorks['pradip-kumar-dishari'] = [];
+
+// REJECT-LOG (Kalahandi district — pradip-kumar-dishari, Lanjigarh (ST), BJD, researched 2026-10-16):
+// Pradip Kumar Dishari — 0 entries, profile imaandari se khaali hai.
+// 11 alag search prayason me whitelisted English media par Jun 2024–Oct 2026 ke beech MLA ki
+// vyaktigat documented bhoomika wala koi lokarpan / shilanyas / swikriti / poora hua kaam /
+// established-media ghoshna ki post-event reporting nahi mili. Saara coverage maang/virodh,
+// chunav, party-khabar ya pre-term hai. Har whitelist srot snippet me dekhkar ya kholkar verify kiya.
+// (1) OTV (whitelist, khud kholkar padha) — "Upset Over Unfulfilled Promises, Odisha Villagers Invite MLA
+//     To Inaugurate Fake Telecom Tower" (https://odishatv.in/news/miscellaneous/upset-over-unfulfilled-promises-odisha-villagers-invite-mla-to-inaugurate-fake-telecom-tower-167681):
+//     Bandhapari Panchayat (Kalahandi) ke logon ne Dishari ke daure par bans ka symbolic mobile tower
+//     banakar fake-lokarpan ka banner lagaya — BSNL tower ki maang poori na hone ka virodh.
+//     Dishari ka jawab: Collector ko likh diya, Centre ki clearance ka intezar hai.
+//     REJECT: virodh/maang hai, koi kaam ka stage nahi. NEGATIVE NAHI: MLA ke khilaf koi FIR/case/janch
+//     ki established reporting nahi (niyam: negative ke liye aarop + FIR/case/janch + jawab chahiye).
+// (2) Orissa POST (whitelist) — "Lanjigarh MLA bats for opening bauxite mines in Kalahandi"
+//     (25 Aug 2025; https://www.orissapost.com/lanjigarh-mla-bats-for-opening-bauxite-mines-in-kalahandi/):
+//     Dishari ne LAVP ke Lanjigarh dharne ka samarthan kiya, CM se mudda uthane ka ashwasan diya.
+//     REJECT: sirf maang ka samarthan; Vedanta bauxite mining company-sarkar ka vishay, MLA ka apna
+//     kaam nahi; koi lokarpan/shilanyas/swikriti stage nahi.
+// (3) TNIE (whitelist) — "MLAs to take up Lanjigarh mine issue with Odisha government"
+//     (26 Aug 2025; https://www.newindianexpress.com/states/odisha/2025/Aug/26/mlas-to-take-up-lanjigarh-mine-issue-with-odisha-government):
+//     Dharmagarh/Bissamcuttack MLAs ke ashwasan wali report me Dishari ka "similar assurance".
+//     REJECT: sirf maang/ashwasan, kaam ka koi stage nahi.
+// (4) Orissa POST (whitelist) — "Helpless widow guards husband's body after being abandoned"
+//     (~Jun 2026; https://www.orissapost.com/helpless-widow-guards-husbands-body-after-being-abandoned/):
+//     Thuamul Rampur ke paas jungle me driver ne mareez ki dead body chhod di; Dishari ne turant
+//     apne block representative ko bolkar BJD karyakarta bheje aur CHC se Mahaprayan hearse dilwayi.
+//     REJECT: manaviyata-sewa/gesture hai, works-category (Sadak/Paani/School/Aspataal/Any) me
+//     koi lokarpan/shilanyas/swikriti/ghoshna stage nahi — entry-yogya kaam nahi.
+// (5) Orissa POST — "Eggs hurled at BJD MLAs in Kalahandi district" (~Sep 2023, 1136 days ago):
+//     Narla me Teachers' Day karyakram me Dishari samet 3 BJD MLAs par Youth Congress ne ande feke.
+//     REJECT: pre-term (Jun 2024 se pehle).
+// (6) Orissa POST — "House panel reviews paddy procurement in Kalahandi" (~2019, 2533 days ago):
+//     OLA standing committee-6 ki sub-committee Dishari ke netritva me samiksha baithak.
+//     REJECT: pre-term (2019-24 tenure); sirf samiksha/daura.
+// (7) Kalinga TV (whitelist) — "Congress leader from Lanjigarh Pradip Disari joins BJD" (~2019, 2775 days ago):
+//     Dishari (2014 me Congress ticket par Lanjigarh se lade) Naveen Patnaik ki upasthiti me BJD me shamil.
+//     REJECT: pre-term party-khabar, kaam nahi.
+// (8) NDTV ADR candidates page (https://www.ndtv.com/elections/odisha/assembly-election-candidates-list-2024/pradip-kumar-dishari-18077-6):
+//     "Cases: No" — halafname me 0 criminal cases. Negative screening ke liye dekha; koi FIR/case/janch
+//     ki established reporting nahi mili. REJECT: chunav data, kaam nahi.
+// (9) Hindustan Samachar/ommcomnews (non-whitelisted) — migrant worker licences story (Mar 2026):
+//     Dishari ke Assembly sawal par mantri ne jawab diya. REJECT: sirf prashn/uttar, prashasnik swikriti nahi.
+// (10) newsstreetlive (non-whitelisted) — Jul 2026 me Dishari ne school textbook galtiyon par shiksha mantri
+//     ke istife ki maang doharayi. REJECT: non-whitelisted + vipakshi bayan/maang, kaam nahi.
+// (11) OTV — "Odisha CM launches over 3,600 projects worth Rs 891.39 crore in Kalahandi" (Ghumura–2026):
+//     REJECT: CM karyakram; Dishari ki vyaktigat documented bhoomika snippet me nahi.
+// (12) Non-whitelisted daura/virodh stories: hellokotpad Thuamul Rampur mining-area visit (sirf daura +
+//     non-whitelisted); odishabytes Nov 2023 Trilochanpur villagers-stop-MLA (pre-term + non-whitelisted);
+//     indiawhispers/prabahatv bauxite stories (non-whitelisted). Sab REJECT.
+// (13) Vedanta company stories (telemedicine facility, Jagannath temple consecration, Project Milaap,
+//     Sakhi/Sakhi SHG, Roshan solar) — company CSR, MLA ki vyaktigat documented lokarpan/shilanyas
+//     bhoomika nahi; task-niyam ke tahat bhi sirf company ke kaam. REJECT.
+// (14) Naam-verify: Balabhadra Majhi (INC runner-up 2024, ex-MLA 2014) alag vyakti hain — whitelist
+//     stories me "Dishari"/"Disari"/"Pradeep" sabhi isi MLA ki hain; koi galat-vyakti confusion nahi.
+// (15) Chunav-yachika/anti-defection yachika ki koi khabar nahi mili (aur niyam se woh akeli negative hoti bhi nahi).
+// RETRY LEADS: (A) MLALADS portal (mlalads.odisha.gov.in) — is network se unreachable; task-niyam ke
+//     mutabik retry lead darj; portal khulne par Lanjigarh seat ki 2024-25/2025-26 sanction-list check karein.
+//     (B) Pradeep Bisare naam ki Statesman temple story — wo PRADIP KUMAR DISHARI NAHI, alag vyakti
+//     ("Shri Pradeep Bisare, MLA, Lanjigarh" — dhyaan rahe; naam-milti-julti khabaron me satark rahein);
+//     woh bhi Vedanta CSR event tha, MLA ka kaam nahi.
+// Pradip Kumar Dishari profile imaandari se khaali hai — works me entry nahi jodi gayi.
 
 // ---- Kandhamal district batch ----
 
