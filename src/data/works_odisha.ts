@@ -1587,7 +1587,49 @@ odishaWorks['nilamadhab-hikaka'] = [];
 
 // RETRY LEADS (Rayagada district): (1) MLALADS portal khulne par teenon seats ki neta-war sanction-suchi se sarkari-badge sweep — sabse majboot lead; (2) odisha.gov.in/CMSA sanction orders me Rayagada MLA-prastav cross-check; (3) Odia print local shilanyas/udghatan reports; (4) Assembly-session sawalon me koi swikriti-wala jawab aaye to entry banegi.
 
+
 // ---- Koraput district batch ----
+
+odishaWorks['pabitra-saunta'] = [];
+
+odishaWorks['rupu-bhatra'] = [];
+
+odishaWorks['raghuram-machha'] = [];
+
+odishaWorks['rama-chandra-kadam'] = [];
+
+odishaWorks['tara-prasad-bahinipati'] = [
+  {
+    title: 'DHH Jeypore me advanced endoscopy unit ka udghatan — MLA Tara Prasad Bahinipati ne lokarpan kiya, Koraput Collector bhi maujood',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/bhubaneswar/endoscopy-unit-opens-at-dhh-jeypore/articleshow/132414473.cms',
+    date: '2026-07-15',
+    stage: 'lokarpan',
+    note: 'The Times of India ki post-event report ke mutabik Jeypore ke district headquarters hospital (DHH) me advanced upper gastro-intestinal endoscopy machine commission hui aur suvidha ka udghatan Jeypore MLA Tara Prasad Bahinipati ne Koraput Collector Manoj Satyawan Mahajan, senior health officials aur doctors ki maujoodgi me kiya; DHH superintendent Akshay Rath ke hawale se ab Koraput aur aaspaas ke jilon ke mareezon ko upper GI endoscopy ke liye Visakhapatnam, Jagdalpur ya Bhubaneswar nahi jana padega. MLA ne kaha ki ye machine logon ki lambe samay se chali aa rahi swasthya zaroorat poori karti hai aur jaldi diagnosis se mareezon ka aarthik bojh ghatega. Shrey-spashtikaran: machine ki khareed ka srot (sarkari khareed ya anya) report me nahi diya gaya, isliye shrey sirf lokarpan-karya tak seemit hai; suvidha DHH parisar me chalu ho chuki hai.',
+    period: '2024-2029',
+  },
+  {
+    title: '27 March Vidhan Sabha gherao hinsa par Capital thane me FIR — 11 Congress netaon me MLA Tara Prasad Bahinipati ka naam, jaanch jaari',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/odisha/fir-filed-against-11-congress-leaders-5000-unnamed-party-workers-for-march-27-agitation/article69430572.ece',
+    date: '2025-04-09',
+    note: 'The Hindu (9 Apr 2025) ki report ke mutabik 27 March 2025 ko Congress ke Vidhan Sabha gherao karyakram (mahilaon par badhte atyacharon ke virodh me) ke dauran hui hinsa par police ne 28 March 2025 ko Capital Police Station me FIR darj ki, jisme OPCC president Bhakta Charan Das, CLP leader Rama Chandra Kadam aur Jeypore MLA Tara Prasad Bahinipati samet 11 senior Congress netaon ke naam hain, saath hi 5000 agyat party karyakarta; unlawful assembly, rioting, wrongful restraint, public servant ke khilaf criminal force ka istemal aur criminal intimidation jaise aarop lagaye gaye hain. Report ke samay tak 3 log giraftar ho chuke the (naam report me nahi) aur jaanch jaari thi. MLA ka jawab is report me nahi mila (anupasthiti disclose ki ja rahi hai). Shrey-spashtikaran: ye MLA ke kiye gaye kaam ka dawa NAHI, balki unke khilaf darj FIR ki negative reporting hai — stage-accurate sthiti: FIR darj + jaanch jaari; report tak Bahinipati ki giraftari ya chargesheet ki khabar nahi mili.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (Koraput district batch, researched 2026-10-16 — 2 entries, 4/5 profile imaandari se khaali, 1 negative):
+// - Pabitra Saunta (Laxmipur ST, INC, vipaksh): 14 searches + 5 whitelisted pages khud padhe. Liquor-extortion controversy (OTV + TNIE 28 May 2025 — 7 shop owners ne collector ko letter likha, Rs 1 lakh monthly bribe demand ka aarop, MLA ka denial darj) — lekin koi FIR/case/pusht jaanch nahi → negative NAHI. Driver ka POCSO arrest (MLA involved nahi) = negative nahi. Pre-term 2 affidavit cases (nayi karyavahi nahi) = negative nahi. Baki sab: Parab festival ceremonial, mantri ke college-udghatan me sirf maujoodgi, CM/HAL/PSU events me maujoodgi, Vedanta/Nalco CSR maujoodgi, ppms work order bina MLA-link. Namesake: Jhina Hikaka (2009 MLA, BJD, Maoist-abduction) alag vyakti.
+// - Rupu Bhatra (Kotpad ST, BJP): 14 searches + 1 whitelisted page khud padha. Apne kaam ki saari post-event coverage sirf non-whitelist (utkaldaily/odishabiznewz/hellokotpad) → retry leads (Kundura vet office lokarpan, Kotpad CHC ALS ambulance, handloom building shilanyas Rs 7cr, panchayat office shilanyas, CHC BPHC rooms, high-mast light). Flood relief, Swachhata drives ceremonial; mantri ke daure me maujoodgi; 0 affidavit cases.
+// - Raghuram Machha (Koraput SC, BJP): 16 searches + 8 pages khud padhe. CM ke Rs 545cr event me sirf maujoodgi; kendra pariyojanaen MLA-link nahi; PSO blank-firing me giraftari sirf PSO ki (MLA par na FIR na case, na jawab) → negative nahi; ration-card vitran shivir = kaam nahi. Namesake: Raghuram Padal/Raghu Ram Podal alag vyakti.
+// - Rama Chandra Kadam (Pottangi ST, INC — CLP leader): 14 searches. Sab siyasi/maang/maujoodgi; pre-term OTV false-bills story me Kadam par koi aarop nahi tha; NDTV ADR '4 cases' raw data = negative nahi. Namesake: Prafulla Kumar Pangi (2024 runner-up, BJD) ki khabrein nahi thopi.
+// - Tara Prasad Bahinipati (Jeypore, INC): 2 PASS (DHH endoscopy lokarpan; 27 March gherao FIR negative — The Hindu se verify). 44 rejects: Assembly sawal akele (Ekka precedent), pre-term (Aahaar Kendra 2020, HAL Jagannath Sagar 2022), maujoodgi, rajneetik bayan, non-whitelist (hellokotpad/ommtv). Foundation: 'Tara Prsada Bahinipati' spelling halafnama/MyNeta wali hai (header-note ke mutabik), typo nahi; mantri-pad nahi; koi correction nahi.
+// RETRY LEADS: (1) MLALADS portal sarkari-badge sweep (state-wide, network se unreachable); (2) Bhatra ke 6 local events ka whitelisted site-search; (3) Bahinipati — Godabarish Mishra school shilanyas / Rs 100cr CBG plant / Ravanaguda ambulance ka whitelisted coverage; (4) 27 March FIR ka follow-up (chargesheet/giraphtari).
+
 
 // ---- Malkangiri district batch ----
 
