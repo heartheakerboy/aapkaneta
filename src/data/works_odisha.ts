@@ -382,7 +382,30 @@ odishaWorks['subasini-jena'] = [
 // State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages.
 // ---- Balasore district batch END ----
 
-// ---- Bhadrak district batch ----
+// ---- Bhadrak district batch (researched 2026-10-16) ----
+
+odishaWorks['suryabanshi-suraj'] = [
+  {
+    title: 'Dhamnagar me Bidhayak Medha Samman yojana ka aarambh — Class X A1 grade chhatron ko Rs 5,000, headmasters ko Rs 10,000 aur behtareen school ko Rs 15 lakh samman',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/bhubaneswar/bidhayak-medha-samman-launched-to-improve-edu-system-in-odisha/articleshow/126145177.cms',
+    date: '2025-12-22',
+    stage: 'ghoshna',
+    note: 'The Times of India (coordinator ne page kholkar verify kiya) ke mutabik Higher Education mantri Suryabanshi Suraj ne Dhamnagar me headmasters conclave me Bidhayak Medha Samman launch kiya — TOI ke shabd: ye Dhamnagar MLA ke roop me unki kshetra-vishesh pahal hai jiska lakshya Dhamnagar Vidhan Sabha kshetra ke shiksha tantra ko majboot karna hai. Yojana me Class X me A1 grade wale chhatron ko Rs 5,000, headmasters ko Rs 10,000, aur NEP-2020 mankon par chune gaye behtareen school tatha dropout-kami wale school ko Rs 15 lakh-15 lakh samman ki ghoshna hui; schoolon ke chayan ke liye committee banane ki baat kahi gayi. Mantri-framing: Suraj ka portfolio Higher Education hai lekin ye yojana sirf Dhamnagar constituency me launch hui, isliye ye unki mantri-bhoomika ka rajya-stariya faisla nahi balki Dhamnagar MLA ke roop me pahal hai — post-event reporting ka aadhar TOI hai. Disclosure: puraskaron ke fund ka srot khabar me specified nahi hai, aur ye ghoshna-stage par hai — puraskar vitran ki koi post-event report abhi tak nahi mili.',
+    period: '2024-2029',
+  },
+];
+
+// ---- Bhadrak district batch REJECT-LOG (2026-10-16) ----
+// Mallick (sanjib-kumar-mallick, Bhandaripokhari BJD): 0 entries — CM/PM ke Rs 275cr/Rs 18,700cr projects = doosre neta; 2020-23 khabrein = pre-term/charity; namesake traps (Anjan/Anubhav/Chinmay Mallick, Pramila Mallik) alag vyakti; EOW-probe lead sirf non-whitelist aggregator par — retry lead.
+// Mohapatra (sitansu-sekhar-mohapatra, Bhadrak BJP): 0 entries — Pradhan ke Rs 101cr/Dhamnagar College shilanyas, CM ke Rs 275cr projects, Dy CM ka Akhandalamani Rs 10cr ghoshna — sab jagah sirf maujoodgi; hospital daura = nirikshan/rahat; IT Tribunal case = pre-term personal tax, FIR/case nahi.
+// Das (ashok-kumar-das, Basudevpur INC): 0 entries — CM event maujoodgi; paddy procurement virodh = maang; JE "Ashok Kumar Das" bribe case = galat vyakti; cyber-fraud ghatna me MLA victim; TNIE CMSA article me Ashok Das ka zikr hi nahi — CMSA shrey nahi.
+// Ray (byomakesh-ray, Chandabali BJD): 0 entries — bamboo-bridge sirf daawa/DPR-bheja; Pradhan ke Rs 101cr = doosre neta; audio-threat khabar me FIR/case/janch nahi; relatives-assault = parivar-mamla kabhi nahi; D-brothers aarop = pre-term bina-FIR.
+// Suraj (suryabanshi-suraj, Dhamnagar BJP): 1 entry (upar). Rejects: Pradhan ke Rs 101cr shilanyas (shrey Pradhan ka), CM ke Rs 275cr (maujoodgi), flood-relief (rahat), Dhusuri grievance hearing (shikayat-sunwai), Skill India Centre Bhadrak (pre-term Mar 2024), mantri-portfolio ke saare rajya-star kaam; Hasanabad river embankment shilanyas sirf non-whitelist par — retry lead.
+// State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages.
+// ---- Bhadrak district batch END ----
 
 // ---- Jajpur district batch ----
 

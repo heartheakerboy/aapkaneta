@@ -1346,7 +1346,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=1028',
       backgroundNote: 'Suryabanshi Suraj Sthitaprajna (halafname wala poora naam; assignment me \'Suryabanshi Suraj\') Dhamnagar se BJP ke MLA hain. Umar 28 saal (is batch me sabse yuva), shiksha: B.Tech from SOA University, 2016 aur LLB from Fakir Mohan University, 2022. Halafname me 5 aapradhik mamle hain, kisi me dosh-siddhi nahi hui.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Dhamnagar se jeete: 90,555 votes. Runner-up Sanjaya Kumar Das (BJD) 82,460 votes. Margin 8,095.',
+    electionNote: '2024 Vidhan Sabha chunav me Dhamnagar se jeete: 90,555 votes. Runner-up Sanjaya Kumar Das (BJD) 82,460 votes. Margin 8,095. Jun 2024 se Mohan Charan Majhi sarkar me Minister of State (Independent Charge) — Higher Education, Sports & Youth Services, Odia Language, Literature & Culture (12 Jun 2024 shapath; The New Indian Express). Mantri-roop ke vibhagiya/rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'byomakesh-ray',
