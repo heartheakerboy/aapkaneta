@@ -2970,7 +2970,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=1202',
       backgroundNote: 'Ramakanta Bhoi (BJD) Tirtol seat se Odisha ke MLA hain. Unke khilaf 3 aapradhik mamle hain — IPC 506, 379, 143, 149, 188, 283, 294, 341, 342, 269, 270, 323, 427 (Tirtol PS 338/2020, Biridi PS 141/2020, 69/2018). 2019 me ve Tirtol se BJP ke runner-up the; 2024 me BJD se jeete.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Tirtol se jeete: 83,740 votes. Runner-up Rajkishore Behera (BJP) 55,245 votes. Margin 28,495.',
+    electionNote: '2024 Vidhan Sabha chunav me Tirtol se jeete: 83,740 votes. Runner-up Rajkishore Behera (BJP) 55,245 votes. Margin 28,495. 21 Mar 2026 ko BJD ne Rajya Sabha chunav me cross-voting aur party-virodhi gatividhiyon ke aarop par Ramakanta Bhoi ko 5 anya MLAon ke saath party se nilambit kar diya (TNIE/Indian Express). Speaker ne 19 Jun 2026 ko unke khilaf ayogyata-yachika kharij kar di (BJD High Court gaya hai). Party record BJD hi hai — nilamban party ki aantarik karwai hai, seat/party-sthiti me koi badlav nahi.',
   },
   {
     slug: 'sarada-prasanna-jena',
