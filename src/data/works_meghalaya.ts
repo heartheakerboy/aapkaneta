@@ -1814,3 +1814,55 @@ meghalayaWorks['renikton-lyngdoh-tongkhar'] = [
 // 26. Assembly Committee on Government Assurances ka poultry farms nirikshan, Aug 2025 (Highland Post) — committee inspection; nirikshan akele + Ri-Bhoi (kshetra-bahar).
 // 27. Athletes samman, varishth nagrik samman, Estimates Committee conference (Highland Post) — ceremonial karyakram; kaam nahi.
 // 28. CM ka Weiloi-Mawkyrwat sadak Rs 120 crore ghoshna, Dec 2024 (The Shillong Times) — ghoshna thi; final Rs 140 crore shilanyas Aug 2026 me hua (entry 5).
+// ---- Eastern West Khasi Hills district batch (researched 2026-10-16) ----
+
+meghalayaWorks['metbah-lyngdoh'] = [
+{
+    title: 'Mairang MLA aur State Planning Board Chairman Metbah Lyngdoh ne Pyndengumiong me Holy Cross Health Centre ke naye extension building ka lokarpan kiya (21 Jul 2025)',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/extension-building-of-holy-cross-health-centre-inaugurated/',
+    date: '2025-07-21',
+    stage: 'lokarpan',
+    note: 'Highland Post ke mutabik Chairman of the Meghalaya State Planning Board aur Mairang MLA Metbah Lyngdoh ne Eastern West Khasi Hills ke Pyndengumiong gaon me Holy Cross Health Centre ke naye extension building ka lokarpan kiya. Karyakram me DC Anita Kharpor, SP Dangsan Khyriem, ADC M. Diengdoh, Fr. Venky Friding Kharsyiemiong aur kshetra ke headmen maujood the. Lyngdoh ne kendra ki garibon ke liye swasthya-seva me bhoomika ki sarahna ki aur mission hospitals ki ahmiyat par zor diya. Mantri-disclosure: event ke samay wo cabinet mantri NAHI the (mantri 16 Sep 2025 ko bane) — srot ne unhe State Planning Board Chairman + Mairang MLA ke roop me pehchana. Fund-source disclosure: srot ne extension building ke funding source ka naam nahi diya. Tarikh: srot me alag event-date nahi di gayi; article 21 Jul 2025 (18:27 IST) ko prakashit hua aur "inaugurated" past tense me hai — isliye publication date ko event date mana gaya hai. Stage lokarpan hai kyunki srot me bani hui imarat "inaugurated" hui hai.',
+    period: '2023-2028',
+},
+];
+
+// REJECT-LOG (metbah-lyngdoh / Mairang, UDP; period 2023-2028):
+// 1. Dongki-ingding veterinary dispensary lokarpan, Dec 2020 — PRE-TERM (Speaker-kaal, Dec 2020).
+// 2. Mairangbah aur Pyndengumiong springshed watershed projects lokarpan, Jul 2020 (NABARD-funded) — PRE-TERM.
+// 3. Mairang–Rani Godown–Azra Road (Rs 196 crore) shilanyas, 24 Feb 2021 — PRE-TERM (Speaker-kaal).
+// 4. Mairang Bypass (Rs 8.64 crore) shilanyas, Oct 2019 — PRE-TERM.
+// 5. Greater Mairang Water Supply Scheme (Rs 118 crore, JJM) shilanyas, 5 Jan 2023 — PRE-TERM (chunav se pehle, Speaker roop me). RETRY LEAD: in-term poornata-lokarpan ki whitelisted post-event khabar mile to entry evaluate karo (shilanyas wali kabhi nahi).
+// 6. Eastern West Khasi Hills jila lokarpan, 10 Nov 2021 — CM Conrad Sangma ne kiya; Metbah sirf upasthit; pre-term bhi.
+// 7. Block Integrated Development Complex (Mairang) + Tirot Sing Memorial Hospital SNCU/PICU/AICU/HDU lokarpan, 12 Aug 2025 (ST, CM launches) — CM ne kiya; Metbah sirf upasthit.
+// 8. 4th District Foundation Day, Mairang, 10 Nov 2025 — ceremonial; meghalaya.gov.in whitelist me bhi nahi.
+// 9. Nongthyllep Sub-Centre lokarpan, Sep 2022 — PRE-TERM.
+// 10. Nongthliew Secondary School building lokarpan, ~2021 — PRE-TERM (200-schools ghoshna Education Minister ki thi).
+// 11. Piggery farming scheme (Rs 4.36 crore), Sep 2020 — PRE-TERM.
+// 12. MePDCL transformer testing lab, Sumer, Sep 2026 — Power Minister ka vibhagiya mantri-kaam + kshetra-bahar (Ri-Bhoi); syllad whitelist me nahi.
+// 13. Power/renewable ghoshnayen (renewables share, solar benchmark, no load-shedding) — rajya-star mantri-kaam/bayan.
+// 14. 2013 "graft slur" (SRWP/IAY ~Rs 1 crore, RTI-aarop, Feb 2013) — NOT NEGATIVE: pre-term + bina-pusht-jaanch complaint.
+// 15. Post-poll arson Mairang, Mar 2023 — NOT NEGATIVE: MLA khud peedit paksh.
+// 16. Sep 2026 dal-badal — NOT NEGATIVE: Metbah ne dal-badal kiya hi nahi (UDP adhyaksh bane rahe).
+// RETRY LEADS: A. GMWSS poornata-lokarpan (whitelisted); B. mantri-kaalkhand (16 Sep 2025+) me Mairang seat-level vyaktigat lokarpan/shilanyas; C. Mairang–Rani Godown–Azra Road poornata par in-term lokarpan (2021 shilanyas pre-term — kabhi nahi).
+
+meghalayaWorks['shakliar-warjri'] = [];
+
+// REJECT-LOG (shakliar-warjri / Mawthadraishan, HSPDP; period 2023-2028 — khaali profile imaandari se):
+// 1. Markham Valley hill-cutting chinta + sadak-dawa, Nov 2025 (EastMojo, Highland Post — dono khud padhe) — bayan/advocacy akele; sadak Tourism Dept ka kaam; proposals = maang akele.
+// 2. Nongsder synthetic football turf shilanyas, May 2025 — kshetra-bahar (Ri-Bhoi) + rajya-star mantri bhoomika.
+// 3. CM ke EWKH projects launch, 12 Aug 2025 (ST — khud padha) — CM ne lokarpan kiya; Warjri sirf upasthit.
+// 4. MTC Board Chairman niyukti, Oct 2025 (Highland Post — khud padha) — appointment, seat-kaam nahi. NOTE: sarkari press-note me "Chairman, MTDC" likha hai — Highland Post se virodhabhas; works se sambandh nahi.
+// 5. Umbuda artificial turf shilanyas, Mar 2024 — CM ka karyakram + kshetra-bahar.
+// 6. National Games 2027 athletes Rs 39 crore grant, Jun 2025 — rajya-star khel faisla.
+// 7. Migrant labour forged documents / FIR aadesh, Sep 2025 — rajya-star mantri bhoomika; NEGATIVE NAHI (MLA khud shikayat-karta paksh).
+// 8. JNSC nirikshan, Jul 2024 — nirikshan akele.
+// 9. Meghalaya Games "junk food" Assembly jawab, Feb 2024 — sadan bayan.
+// 10. I-Day flag-hoisting duty — ceremonial.
+// 11. HYC/HITO putla-dahan virodh, Mar 2023 — NEGATIVE NAHI: rajneetik virodh akele; koi FIR/pusht jaanch nahi; halafnama 2024 me 0 cases.
+// 12. HSPDP-NPP vilay se inkar, Apr 2023 — bayan; HSPDP me hi hain (Highland Post Oct 2025).
+// 13. Skillerate pre-event, Markham Festival nirikshan, Jaintia Institute daura — non-whitelist/pre-event/daura.
+// RETRY LEADS: A. Kynshi HSS hall (YouTube lead — non-whitelist; whitelist coverage mile to reconsider); B. ST site-search 403 — live browser scan; C. Nongsder turf gov.in page (node/48643) resolve nahi hua.

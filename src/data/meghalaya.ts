@@ -888,7 +888,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=6940',
       backgroundNote: 'Halafname par naam \'Metbah Lyngdoh\', seat Mairang (ST) aur party UDP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 53 saal, Pre-University (First Year Science) 1988 me Shankardev College Shillong se. United Democratic Party ke adhyaksh hain.',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Mairang (ST) se jeete: 19,066 votes. Runner-up Batskhem Ryntathiang (INC) 18,911 votes. Margin 155. 16 Sep 2025 se Conrad Sangma mantrimandal me mantri hain — Power, Water Resources, Taxation aur Textiles vibhag. Sep 2019 se Mar 2023 tak Meghalaya Vidhan Sabha ke Speaker bhi rahe. UDP ke adhyaksh hain aur Sep 2026 ke UDP-BJP dal-badal ke baad bhi UDP me hi hain.',
+    electionNote: '2023 Vidhan Sabha chunav me Mairang (ST) se jeete: 19,066 votes. Runner-up Batskhem Ryntathiang (INC) 18,911 votes. Margin 155. 16 Sep 2025 se Conrad Sangma mantrimandal me mantri hain — Power, Water Resources, Taxation aur Textiles vibhag. Mar 2023 se 16 Sep 2025 tak Meghalaya State Planning Board ke Chairman bhi rahe (sansthaagat pad, vikas-kaam nahi). Sep 2019 se Mar 2023 tak Meghalaya Vidhan Sabha ke Speaker bhi rahe. UDP ke adhyaksh hain aur Sep 2026 ke UDP-BJP dal-badal ke baad bhi UDP me hi hain.',
   },
   {
     slug: 'shakliar-warjri',
