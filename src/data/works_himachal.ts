@@ -3754,7 +3754,683 @@ himachalWorks['nand-lal'] = [
 // Coordinator QA note (2026-10-16): sabhi 8 workers ke fragments khud padhe aur Python se hygiene-scan kiya — koi Devanagari/₹-symbol/literal-\n nahi; categories/badges/stages sabhi allowed values; dates Dec 2022-Oct 2026 window me. Har slug append se pehle file me absent tha — koi overwrite nahi. Anirudh Singh ki negative entry (Dhalli FIR, 1 Jul 2025) maine khud IE ka article kholkar verify ki hai — FIR/janch sthiti, aarop, inkar, sab stage-sach ke saath. Vikramaditya Singh ka PMLA case pre-term hai aur current-tenure development nahi mili → negative nahi banaya (Thangam Thenarasu precedent).
 
 
-// ---- Sirmaur district batch (researched: abhi nahi hua) ----
+// ---- Sirmaur district batch (researched 2026-10-16) ----
+
+himachalWorks['reena-kashyap-pachhad'] = [
+  {
+    title: 'Pachhad vidhayak ne takahna se ganyaar ganpati baba mandir tak link road ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/takanha-manyaar-road-completed-nahan-news-c-177-1-ssml1028-137401-2024-11-24',
+    date: '2024-11-24',
+    stage: 'lokarpan',
+    note: 'Amar Ujala ki post-event report: lagbhag 1 km lamba yeh contact road takahna se ganyaar sthit ganpati baba mandir tak jata hai; vidhayak Reena Kashyap ne iske liye apni vidhayak nidhi se Rs 2 lakh diye the aur kaam ek saal ke andar poora ho gaya. Udghagtan unhone khud kiya. Fund source: vidhayak nidhi (MLALADS).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Takahna-ganyaar sadak lokarpan samaroh me vidhayak ne samudayik bhawan aur anya karyon ke liye anudan ghoshit kiya',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/takanha-manyaar-road-completed-nahan-news-c-177-1-ssml1028-137401-2024-11-24',
+    date: '2024-11-24',
+    stage: 'ghoshna',
+    note: 'Usi lokarpan samaroh me vidhayak ne ganpati baba mandir parisar me samudayik bhawan nirman ke liye Rs 4 lakh, mandir ke bartano ke liye Rs 50 hazar, shirla gaon ke link road ki marammat ke liye Rs 50 hazar, shirla ki varsha shalika ke liye Rs 50 hazar aur maujood mahila mandalon ko 10-10 hazar dene ki ghoshna ki. Yeh ghoshnayein sirf unke bayanon par adharit hain; svikriti ya kaam poora hone ki pushti report me nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Habban kali tokru mela me vidhayak ne habban mandir ke jirnoddhar ke liye Rs 5 lakh ki ghoshna ki',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/pachhad-mla-announces-6l-for-temple-renovation-at-habban-kali-tokru-mela/',
+    date: '2025-10-24',
+    stage: 'ghoshna',
+    note: 'The Tribune ki post-event report: rajgarh subdivision ke habban panchayat me do-divasiya mata kali tokru mela ke samapan samaroh me pachhad vidhayak ne historic habban temple ke renovation ke liye Rs 5 lakh aur mela ayojan samiti ke liye Rs 1 lakh dene ki ghoshna ki. Yeh ghoshna sirf unke bayan par adharit hai; svikriti ya kaam poora hone ki pushti report me nahi hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['ajay-solanki-nahan'] = [
+  {
+    title: 'Mehtawala Bang Basti Haripurkhol me 43.50 meter footbridge ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sirmour-a-footbridge-will-be-constructed-in-mehtawala-bang-village-at-a-cost-of-35-lakh-rupees-mla-ajay-solanki-laid-the-foundation-stone-2025-12-31',
+    date: '2025-12-30',
+    stage: 'shilanyas',
+    note: 'Lagbhag Rs 35 lakh ki lagat se banne wale 43.50 meter lambe footbridge ka shilanyas vidhayak ne kiya; article ke anusar yah 25 saal purani maang thi. Event mangalvar ko hua, article 2025-12-31 ko prakashit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jamni Ghat wahan pul ke adhure kaam ke liye Vidhayak Nidhi se Rs 3 lakh ki ghoshna',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sirmour-a-footbridge-will-be-constructed-in-mehtawala-bang-village-at-a-cost-of-35-lakh-rupees-mla-ajay-solanki-laid-the-foundation-stone-2025-12-31',
+    date: '2025-12-30',
+    stage: 'ghoshna',
+    note: 'Haripurkhol panchayat me Jamni Ghat wahan pul ke adhure kaam ko pura karne ke liye vidhayak ne apni Vidhayak Nidhi se Rs 3 lakh dene ki ghoshna ki; abhi sirf ghoshna hui hai, swikriti ki khabar nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'NABARD ke tahat Nahan me do sadak pariyojnaon ko Rs 11.30 crore ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/rs-11-30-crore-sanctioned-for-two-road-projects-in-nahan-segment/',
+    date: '2025-09-21',
+    stage: 'swikriti',
+    note: 'NABARD ne do sadak pariyojnaon ko swikriti di: Bhadrakali Mandir se Kolar Bilaspur Forest Check Post tak 2.4 km sadak (Rs 312.71 lakh) aur Burma Papri Palio se Majari tak 8.77 km sadak ka sudhar (Rs 816.73 lakh). Fund-srot NABARD hai; vidhayak ne swikriti ki jankari di aur PWD ko tender prakriya tez karne ke nirdesh diye.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sainwala-Bogriya-Jhamiriya-Deviwala-Charuwala 11.5 km sadak ka bhoomi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/08/development-works-worth-rs-15-20-crore-launched-in-nahan/',
+    date: '2026-08-19',
+    stage: 'shilanyas',
+    note: 'Lagbhag Rs 7 crore ki lagat se banne wali 11.5 km sadak (Gram Panchayat Aamwala Sainwala) ka bhoomi pujan vidhayak ne kiya. Credit-pardarshita: vidhayak ke anusar dono sadak pariyojnaon ka shilanyas CM ne pehle kiya tha aur ab nirmaan dharaatal par shuru ho gaya hai — yeh karyakram kaam shuru hone ke avsar par tha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Burma Papri-Majari 8.77 km sadak ke upgradation kaarya ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/08/development-works-worth-rs-15-20-crore-launched-in-nahan/',
+    date: '2026-08-19',
+    stage: 'shilanyas',
+    note: 'Burma Papri se Majari tak 8.77 km sadak ke upgradation aur sudhar kaarya (lagbhag Rs 8.17 crore) ka shubharambh vidhayak ne kiya. Yah wahi pariyojna hai jise September 2025 me NABARD se swikriti mili thi (upar swikriti entry).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Banong-Dhar Kyari-Kanshiwala sadak ka bhoomi pujan, lagat lagbhag Rs 12.37 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/04/ground-breaking-ceremony-of-construction-work-of-banong-to-kanshiwala-road/',
+    date: '2026-04-16',
+    stage: 'shilanyas',
+    note: 'Lagbhag Rs 12.37 crore ki lagat se banne wali Banong se Kanshiwala sadak ke nirmaan kaarya ka bhoomi pujan vidhayak ne kiya. Credit-pardarshita: is sadak ka shilanyas CM ne Mahila Divas ke avsar par Nahan pravas ke dauran pehle kiya tha; yeh karyakram nirmaan shuru hone ke avsar par tha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Goshala-Bogriya sadak ka shilanyas, lagat lagbhag Rs 81.84 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/04/ground-breaking-ceremony-of-construction-work-of-banong-to-kanshiwala-road/',
+    date: '2026-04-16',
+    stage: 'shilanyas',
+    note: 'Goshala se Bogriya tak sadak (lagbhag Rs 81.84 lakh) ka shilanyas vidhayak ne kiya; isse grameen kshetron ko behtar sampark suvidha milegi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jamli me Rajkiya Ucch Pathshala ke liye chaar naye kamre taiyaar',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/inauguration-and-foundation-stone-laying-ceremony-worth-rs-70-lakh-in-jamli/',
+    date: '2025-10-02',
+    stage: 'poora hua kaam',
+    note: 'Devka Pudla panchayat ke Jamli gaon me Rajkiya Ucch Pathshala ke chaar naye kamre Rs 46 lakh ke budget se taiyaar ho gaye; article ke anusar budget vidhayak ne uplabdh karwaya tha. Event Vijayadashmi (guruwar) ko hua, article 2025-10-03 ko prakashit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jamli school ki marammat ke liye Rs 5 lakh ki ghoshna',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/inauguration-and-foundation-stone-laying-ceremony-worth-rs-70-lakh-in-jamli/',
+    date: '2025-10-02',
+    stage: 'ghoshna',
+    note: 'Jamli me lokarpan-shilanyas karyakram ke dauran vidhayak ne vidyalaya ki marammat ke liye Rs 5 lakh dene ki ghoshna ki; abhi sirf ghoshna hui hai, swikriti ki khabar nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Burma Papri school me MDM samoohik tin shed ka udghatan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/08/development-works-worth-rs-15-20-crore-launched-in-nahan/',
+    date: '2026-08-19',
+    stage: 'lokarpan',
+    note: 'Rajkiya Vidyalaya Burma Papri me lagbhag Rs 3 lakh ki lagat se nirmit MDM samoohik tin shed ka udghatan vidhayak ne kiya; isse vidyarthiyon ko madhyahn bhojan ke dauran behtar suvidha milegi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rajkiya Ucch Vidyalaya Malgaon ke naye bhavan ka lokarpan, lagat Rs 50.64 lakh',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/programme-in-malgaown-school-nahan-news-c-177-1-ssml1028-143526-2025-02-14',
+    date: '2025-02-14',
+    stage: 'lokarpan',
+    note: 'Rs 50.64 lakh se nirmit Rajkiya Ucch Vidyalaya Malgaon ke navnirmit school bhavan ka lokarpan vidhayak ne kiya aur ise school prashasan ko saunp diya; isse kamron ki kami door hogi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Malgaon school ke khel maidan aur boundary wall ke liye Rs 15 lakh swikrit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/programme-in-malgaown-school-nahan-news-c-177-1-ssml1028-143526-2025-02-14',
+    date: '2025-02-14',
+    stage: 'swikriti',
+    note: 'Malgaon school ke lokarpan karyakram me vidhayak ne khel ke maidan aur school boundary wall ke liye Rs 15 lakh ki dhanrashi swikrit ki. Post-event report me swikriti darj hai; GO/itemized suchi report me nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nahan me MCH kendra aur nursing college ki swikriti ka dawa',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/mla-ajay-solanki-refutes-claims-of-nahan-medical-colleges-relocation/',
+    date: '2025-02-13',
+    stage: 'ghoshna',
+    note: 'Medical college sthanantaran ke vivaad par apne bayan me vidhayak ne dawa kiya ki Nahan ko MCH (Maternal and Child Health) kendra aur nursing college ki swikriti mil gayi hai; yah dawa sirf vidhayak ke bayan par aadharit hai, swatantra prashasnik swikriti-report uplabdh nahi hui, isliye stage ghoshna.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Yashwant Vihar me wellness centre sthapit hone ka dawa',
+    category: 'Aspataal',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/mla-ajay-solanki-refutes-claims-of-nahan-medical-colleges-relocation/',
+    date: '2025-02-13',
+    stage: 'poora hua kaam',
+    note: 'Vidhayak ne media se baat me dawa kiya ki Yashwant Vihar me ek wellness centre sthapit ho gaya hai aur Nahan me doosra vikasadheen hai, jinme doctor aur paramedical staff honge; yah dawa sirf vidhayak ke bayan par aadharit hai, swatantra pushti uplabdh nahi hui.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jetak gaon ke aitihasik kila ke jirnoddhaar ke liye Rs 4 lakh ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/traditional-fair-held-in-nahan-village/',
+    date: '2025-10-24',
+    stage: 'ghoshna',
+    note: 'Nehli Dhida gram panchayat ke Jetak gaon me Bhaiya Dooj mele ke dauran mukhya atithi ke roop me vidhayak ne aitihasik kila ke jirnoddhaar ke liye Rs 4 lakh dene ki ghoshna ki; abhi sirf ghoshna hui hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ranitaal Park ke navnirmit gate ka lokarpan, lagat Rs 1.41 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/ranitaal-park-gate-nahan-news-c-177-1-ssml1028-171850-2026-02-13',
+    date: '2026-02-13',
+    stage: 'lokarpan',
+    note: 'Nahan ke Ranitaal Park ke navnirmit chhote gate ka lokarpan vidhayak ne kiya; lohe ke gate ki jagah steel gate laga aur seedhiyon par tiles lagi. Article ke anusar yah rashi vidhayak ne Vidhayak Nidhi se di thi aur DRDA vibhag ne thekedaar ke jariye kaam pura karwaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nahan Police Line me Rs 10.60 crore ke aawasiya bhavan ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/residancial-building-police-line-nahan-nahan-news-c-177-1-nhn1002-151306-2025-05-26',
+    date: '2025-05-26',
+    stage: 'shilanyas',
+    note: 'Police Line Nahan me Rs 10.60 crore ki lagat se banne wale aawasiya bhavan ka shilanyas vidhayak ne kiya; do block me 13-13 unit se 26 police parivaron ko laabh milega. Fund-srot rajya sarkar hai; vidhayak ne pariyojna ko manjuri aur budget dene ke liye CM ka aabhaar vyakt kiya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jamli me Rs 15 lakh ke khel maidan ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/inauguration-and-foundation-stone-laying-ceremony-worth-rs-70-lakh-in-jamli/',
+    date: '2025-10-02',
+    stage: 'shilanyas',
+    note: 'Devka Pudla panchayat ke Jamli gaon me Rs 15 lakh ki lagat se banne wale khel maidan ka shilanyas vidhayak ne kiya; yah maidan yuvon ko khelon se jodne ka avsar dega.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jamli ke purane aitihasik kuen ke navikaran ke baad graminon ko samarpit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/inauguration-and-foundation-stone-laying-ceremony-worth-rs-70-lakh-in-jamli/',
+    date: '2025-10-02',
+    stage: 'lokarpan',
+    note: 'Aitihasik dharoharon ke sanrakshan ke tahat Jamli ke purane aitihasik kuen ke liye Rs 4 lakh ki rashi jaari hone ke baad kuen ke naye swaroop ko vidhayak ne graminon ko samarpit kiya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sainwala Mubarikpur me Rs 12 lakh ke patwar circle bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/inauguration-of-two-buildings-constructed-at-a-cost-of-rs-56-lakh/',
+    date: '2025-10-20',
+    stage: 'lokarpan',
+    note: 'Up-tehsil Majra (Sirmaur) ke Sainwala Mubarikpur me Rs 12 lakh ki lagat se bane navgathit patwar circle bhavan karyalaya ka udghatan vidhayak ne kiya; isse kshetravasiyon ko rajasva sambandhi karyon me suvidha milegi. Seat-sach: ECI delimitation order ke anusar Majra KC ke PCs Majra aur Dhaula Kuan Nahan seat (56) me aate hain — seat ke andar ka kaam hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhola Kuan me Rs 44 lakh ke navnirmit panchayat ghar ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/inauguration-of-two-buildings-constructed-at-a-cost-of-rs-56-lakh/',
+    date: '2025-10-20',
+    stage: 'lokarpan',
+    note: 'Panchayat Dhola Kuan me Rs 44 lakh ki lagat se nirmit navnirmit panchayat ghar ka lokarpan vidhayak ne kiya. Seat-sach: ECI delimitation order ke anusar Majra KC ke PCs Majra aur Dhaula Kuan Nahan seat (56) me aate hain — seat ke andar ka kaam hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jamta (Dhartidhar) me lagbhag Rs 30 lakh ki yojnaon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/solanki-dedicated-schemes-worth-rs-30-lakh-to-the-public-in-jamta-nahan-news-c-177-1-nhn1001-161053-2025-09-30',
+    date: '2025-09-30',
+    stage: 'lokarpan',
+    note: 'Jamta (Dhartidhar) panchayat me vidhayak ne chaar yojnaon ka lokarpan kiya: rain shelter se Kando tak pakki sampark sadak, SC basti Jamta me samudayik bhavan, panchayat bhavan hall aur patwar vritta bhavan Jamta; kul lagat lagbhag Rs 30 lakh.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['vinay-kumar-sri-renukaji'] = [
+  {
+    title: 'Bhanu-Khadki Patiyar road lokarpan: 7.5 km lambi sadak par 2.20 crore kharch, bus trial safal',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/03/%e0%a4%ad%e0%a4%a8%e0%a5%81-%e0%a4%96%e0%a4%a1%e0%a4%95%e0%a5%80-%e0%a4%aa%e0%a4%9f%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0-%e0%a4%b8%e0%a4%a1%e0%a4%95-%e0%a4%95%e0%a4%be-%e0%a4%89%e0%a4%a6/amp/',
+    date: '2026-03-10',
+    stage: 'lokarpan',
+    note: 'Sri Renukaji seat ke kshetra me Bhanu se Khadki Patiyar tak lagbhag 7.50 km lambi sadak ka lokarpan swayam Vinay Kumar ne kiya. Lagat 2.20 crore batayi gayi aur lokarpan ke saath bus ka trial bhi hua jo safal raha. PWD ke adhikari, mandal adhikari aur sainkdon sthaniya log maujood the.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bana Koti-Molarghat road lokarpan: 7.5 km sadak par 2.20 crore, do panchayaton ke 7 gaon labhanvit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sirmaur-mla-vinay-kumar-inaugurated-the-koti-molarghat-road-2026-03-09',
+    date: '2026-03-09',
+    stage: 'lokarpan',
+    note: 'Sri Renukaji kshetra me Bana Koti-Molarghat sadak ka lokarpan Vinay Kumar ne kiya. 2.20 crore ki lagat se bani is 7.5 km sadak se do panchayaton ke 7 gaon ke logon ko labh milega. Lokarpan par bus ka trial bhi kiya gaya aur gaon pahunchne par graminon ne swagat kiya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Lanacheta lift peyjal yojana lokarpan: 1.57 crore lagat, 6 gaon ki 16 bastiyon ke lagbhag 3,174 log labhanvit',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/water-scheme-begin-in-lanacheta-renuka-ji-nahan-news-c-177-1-ssml1028-148047-2025-04-13',
+    date: '2025-04-13',
+    stage: 'lokarpan',
+    note: 'Tehsil NohraDhar ki Lanacheta panchayat me 1.57 crore ki lagat se bani uthau peyjal yojana ka lokarpan Vinay Kumar ne kiya. 6 gaon ki 16 bastiyon ke lagbhag 3,174 logon ko peyjal milne ka dawa kiya gaya. Isi coverage ki pushti The Tribune ki alag khabar se bhi hoti hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dadahu me upkosh karyalaya bhavan lokarpan: lagbhag 48 lakh lagat se 65 saal baad apna bhavan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/sirmour/treasury-building-nahan-news-c-177-1-ssml1028-140551-2025-01-06',
+    date: '2025-01-06',
+    stage: 'lokarpan',
+    note: 'Dadahu tehsil parisar me lagbhag 48 lakh ki lagat se bane upkosh (sub-treasury) karyalaya bhavan ka lokarpan Vinay Kumar ne kiya. Rajsva vibhag ne 4 biswa bhoomi vitt vibhag ko sthanantarit ki thi. DFO Renukaji, tehsildar Dadahu aur jila kosh adhikari bhi maujood the.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sangrah Govt Model School me boundary wall, mid-day meal suvidha aur naye toilet ki swikriti',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/govt-committed-to-providing-quality-edu-infra-dy-speaker/',
+    date: '2024-12-27',
+    stage: 'swikriti',
+    note: 'Government Model Senior Secondary School, Sangrah me ayojit puraskar-vitaran samaroh me Vinay Kumar ne school me boundary wall, mid-day meal facilities aur naye toilet ke nirman ki swikriti di, aur school office ke upar examination hall banane ka aashvasan diya. Stage-sach: swikriti unhone swayam di thi, lekin swikriti ka GO/adesh ya itemized suchi report me nahi hai — ye unke bayan ki reporting hai, isliye badge dawa. Funding ka srot article me nirdharit nahi hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['harshwardhan-chauhan-shillai'] = [
+  {
+    title: 'GSSS Tatiyana me 4 naye classroom ka lokarpan — P&G India aur Round Table India ke CSR sahyog se',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/classrooms-of-hope-industry-minister-opens-new-facilities-at-tatiyana-school/',
+    date: '2025-04-27',
+    stage: 'lokarpan',
+    note: 'Chauhan ne swayam lokarpan kiya. Classroom P&G India (Baddi unit) aur Round Table India ke CSR sahyog se bane, isliye ye corporate-funded kaam hai — sarkari kharche ka dawa nahi. Shillai seat me GSSS Tatiyana ke sainkdon students ko fayda.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tatiyana me bank branch khulne aur school bhawan par suraksha shed ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/classrooms-of-hope-industry-minister-opens-new-facilities-at-tatiyana-school/',
+    date: '2025-04-27',
+    stage: 'ghoshna',
+    note: 'Classroom lokarpan ke samarooh me Chauhan ne bank branch kholne aur school bhawan par mausam se suraksha ke liye shed banwane ki ghoshna ki. Sirf unke bayan par aadharit, swikriti ki pakki report nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'GSSS Bakras me Rs 43 lakh ka naya bhawan (2 hall + 3 classroom) ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-inaugurates-43l-school-building-in-bakras/amp/?utm=relatedarticles',
+    date: '2025-04-06',
+    stage: 'lokarpan',
+    note: 'Chauhan ne apne kshetra-daure me swayam lokarpan kiya. Do kamre Kala Amb ki Bluestar Company ke CSR fund se bane — credit-pardarshita: pura kharcha sarkari nahi. Bakras school Jail Bhoj kshetra ka purana school hai, 300 se zyada students padhte hain.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bakras aur aaspaas ke liye sadak-school ghoshnayein — Rs 10 lakh Puraay Road, Rs 4 lakh Uveta-Aryadi Road, 4 toilet, stage, boundary wall, Gundai High School me 3 kamre',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-inaugurates-43l-school-building-in-bakras/amp/?utm=relatedarticles',
+    date: '2025-04-06',
+    stage: 'ghoshna',
+    note: 'Bakras school lokarpan ke avsar par Chauhan ne school me 4 toilet aur stage, boundary wall ka budget, Gundai High School me 3 kamre, Puraay Road ke liye Rs 10 lakh, Bhatouri Road par culvert aur retaining wall, aur Uveta-Aryadi Road ke liye Rs 4 lakh ki ghoshna ki. Sirf bayan, swikriti-adhaar nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Shillai me Rs 19 crore ke 100-bed Civil Hospital bhawan ka shilanyas',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/100-bed-civil-hospital-to-push-healthcare-services-in-shillai/amp',
+    date: '2025-04-06',
+    stage: 'shilanyas',
+    note: 'Chauhan ne swayam bhoomi-poojan/shilanyas kiya. 100-bed ka aadhunik bhawan Rs 19 crore me banega, specialist doctor aur nursing staff bharne ka dawa bhi. Minister-framing: ye rajya sarkar (swasthya vibhag) ki pariyojna hai; MLA ki vyaktigat bhoomika kshetra-pratinidhi roop me shilanyas tak seemit rahi. Article publication date 6 Apr 2025 hai, samaroh ki exact date article me nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Shillai Civil Hospital me Rs 25 lakh ke digital X-ray plant ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/100-bed-civil-hospital-to-push-healthcare-services-in-shillai/amp',
+    date: '2025-04-06',
+    stage: 'lokarpan',
+    note: 'Tribune ne report kiya ki Chauhan ne haal hi me Shillai Civil Hospital me Rs 25 lakh ke digital X-ray plant ka lokarpan kiya, jisse colour X-ray ki suvidha mili. Exact event date article me nahi, publication 6 Apr 2025.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Shillai ko nagar panchayat ghoshit karne ki ghoshna — Rs 68 crore DPR (sewerage Rs 28 crore, paani Rs 30 crore)',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/100-bed-civil-hospital-to-push-healthcare-services-in-shillai/amp',
+    date: '2025-04-06',
+    stage: 'ghoshna',
+    note: 'Chauhan ne Shillai ko nagar panchayat banane ki ghoshna ki aur Rs 68 crore ka DPR approval ke liye bheja bataya (Rs 28 crore sewerage, Rs 30 crore paani sudhar). DPR ka approval hua ya nahi, article me pakka nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'GSSS Thontha me Rs 30 lakh ke 3 naye classroom ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/brighter-future-chauhan-sanctions-projects-empowers-edu-in-shillai/',
+    date: '2025-06-14',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Shillai seat ke Thontha school me swayam lokarpan kiya. School infrastructure sudhar ke liye rajya sarkar ki prathmikta batayi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Halah me naye Primary Health Centre bhawan ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-inaugurates-phc-at-halah',
+    date: '2025-05-27',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Shillai seat ke Halah me naye PHC bhawan ka swayam lokarpan kiya aur dur-daraz kshetron me swasthya suvidha ko rajya sarkar ki prathmikta bataya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Halah school-sports ghoshnayein — Halah aur Loja school me Rs 10-10 lakh kamre, Naya-Pinjor school playground Rs 5 lakh, sports ground Rs 10 lakh',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-inaugurates-phc-at-halah',
+    date: '2025-05-27',
+    stage: 'ghoshna',
+    note: 'PHC lokarpan samarooh me Chauhan ne school-sports anudan ki ghoshna ki. Sirf bayan, swikriti ki pakki report nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jakhando Panchayat Bhawan ke ground floor ka lokarpan (Rs 52 lakh; kul laagat Rs 1.14 crore)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-inaugurates-jakhando-panchayat-bhawans-ground-floor/',
+    date: '2025-10-24',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Shillai seat ke Jakhando me swayam lokarpan kiya. Pehla charan Rs 52 lakh me poora, dusri manzil ka kaam jald karne ka vishwas dilaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dugana me Kanungo-Patwar Circle bhawan (Rs 24 lakh) ka lokarpan — 11 panchayaton ko fayda',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-opens-24l-patwar-circle-building-in-shillai/',
+    date: '2025-11-02',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Shillai seat ke Dugana me swayam lokarpan kiya. Naya karyalay aaspaas ki 11 panchayaton ke nivaasiyon ko prashasnik suvidha dega.',
+    period: '2022-2027',
+  },
+  {
+    title: 'GSSS Pota Manal me Rs 20 lakh ke 2 naye classroom ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/infrastructure-boost-for-shillai-school-minister-inaugurates-two-new-classrooms/',
+    date: '2025-11-03',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Manal panchayat ke Pota Manal school me swayam lokarpan kiya. Lagbhag 160 students ko seedha fayda.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pota Manal me ghoshnayein — Rs 10 lakh me 2 aur kamre, Manal me PHC, ambulance sadkon ke liye Rs 5-5 lakh, bus seva',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/infrastructure-boost-for-shillai-school-minister-inaugurates-two-new-classrooms/',
+    date: '2025-11-03',
+    stage: 'ghoshna',
+    note: 'Classroom lokarpan ke samarooh me Chauhan ne 2 aur kamron ke liye Rs 10 lakh, Manal me PHC khulne, Gawali-Demana, Juinal-Pipnaur aur Neda ke liye ambulance sadak par Rs 5-5 lakh aur Shillai-Manal bus seva ki ghoshna ki. Sirf bayan, swikriti-adhaar nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kanti Mashwa me Rs 1.27 crore ke PHC bhawan ka lokarpan — 3 panchayaton ko fayda',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-1-27-cr-primary-health-centre-inaugurated-in-shillai/',
+    date: '2026-08-06',
+    stage: 'lokarpan',
+    note: 'Chauhan ne swayam lokarpan kiya. Naya PHC aaspaas ki 3 panchayaton ke logon ko ghar ke paas swasthya seva dega. Kamrau, Sataun, Chandni aur Kota Pab ke PHC bhawan abhi nirmanadhin bataye.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dharwa gram panchayat me sarkari primary school ke Rs 14.50 lakh ke atirikt kamron ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-industries-minister-harshwardhan-chauhan-inaugurates-school-rooms-lays-stone-for-road-project-in-shillai/',
+    date: '2026-09-13',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Shillai seat ke Dharwa me swayam lokarpan kiya. Students ko behtar shikshan-vatavaran milega.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dharwa-Badalani sampark marg ke pratham charan sudhar karya (Rs 15 lakh) ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-industries-minister-harshwardhan-chauhan-inaugurates-school-rooms-lays-stone-for-road-project-in-shillai/',
+    date: '2026-09-13',
+    stage: 'shilanyas',
+    note: 'Chauhan ne swayam shilanyas kiya. Pratham charan me Rs 15 lakh ka sudhar karya, behtar connectivity ka dawa.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Uttari me health sub-centre ka lokarpan — aaspaas ki panchayaton ko buniyadi swasthya seva',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/shillai-health-network-set-for-a-major-expansion-himachal-minister-harshwardhan-chauhan/',
+    date: '2026-09-20',
+    stage: 'lokarpan',
+    note: 'Chauhan ne Shillai seat ke Uttari me swayam lokarpan kiya. Sub-centre aaspaas ki panchayaton ke logon ko buniyadi swasthya seva dega.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kaffota me Rs 5.83 crore se ITI bhawan poora karne ki swikriti ki ghoshna',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/13-crore-sanctioned-for-water-supply-schemes-in-kaffota-minister/',
+    date: '2026-10-02',
+    stage: 'ghoshna',
+    note: 'Gandhi Jayanti samarooh me Chauhan ne kaha rajya sarkar ne Kaffota ITI bhawan poora karne ke liye Rs 5.83 crore swikrit kiye. Ye unka bayan hai, GO ya itemized sanction list ki pakki report nahi, isliye stage swikriti nahi, ghoshna rakha gaya hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'GSSS Kaffota me 4 atirikt classroom banane aur Regional Development Committee ko Rs 50,000 sahayta ki ghoshna',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/13-crore-sanctioned-for-water-supply-schemes-in-kaffota-minister/',
+    date: '2026-10-02',
+    stage: 'ghoshna',
+    note: 'Chauhan ne Kaffota samarooh me 4 classroom aur samiti ko Rs 50,000 sahayta ki ghoshna ki. Sirf bayan, swikriti-adhaar nahi.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['sukh-ram-chaudhary-paonta-sahib'] = [
+  {
+    title: 'Giri nadi ka tateekaran (Bangran-Shamshergarh gaon, Paonta Sahib)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/himachal-pradesh/sirmour/video-sirmour-sukhram-choudhary-said-giri-river-will-be-embanked-soon-for-the-safety-of-bangran-shamshergarh-villages-2026-01-13',
+    date: '2026-01-13',
+    stage: 'swikriti',
+    note: 'Sept 2025 ki aapda me Giri nadi ke katav se Bangran-Shamshergarh gaon prabhavit hue the; MLA ne us waqt Rs 40 lakh ki ghoshna ki thi. 13 Jan 2026 ko unhone gaon ke pratinidhimandal (gram pradhan Taron Devi sahit) ko DC Priyanka Verma aur SDM Paonta se milvaya. Prashasan ne kul Rs 40 lakh ka budget swikrit bataya aur pratham kist Rs 10 lakh jaldi jaari kar tateekaran kaam shuru karane ka ashwasan diya. Stage swikriti isliye hai kyunki prashasanik swikriti-report established media me darj hai; kaam abhi shuru nahi hua hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Majra hinsa mamla — FIR aur sashart agrim jamanat',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/hp-high-court-bindal-and-sukhram-get-conditional-anticipatory-bail-in-majra-violence-case-2025-07-17',
+    date: '2025-07-17',
+    note: '13 June 2025 ko Majra thana (Paonta Sahib) me BNS ki dharaon 163, 299, 132, 191(2), 190, 191(3), 351(2), 121(1) aur 109 (prayas hatya) ke tahat FIR darj hui; police ki status report me aarop tha ki bheed ko bhadkane me unki bhoomika thi. HP High Court ne 17 July 2025 ko Rs 50,000 ke nijee muchalke par sashart agrim jamanat di aur janch me sahyog ka nirdesh diya. Neta ka jawab: unhe raajnaitik pratidvandvita ke kaaran jhootha fasaya gaya hai. Mamla abhi nyayalay me vicharadheen hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG — Sirmaur district batch (researched 2026-10-16)
+
+// --- reena-kashyap-pachhad (3 entries; 10 reject) ---
+// 1. Amar Ujala (2026-09-17) "pradesh me na to vyavastha badli...": raajnaitik bayan/aarop; ginaaye kaam pichhli BJP sarkar (Dec 2022 se pehle) ke. REJECT.
+// 2. Nation Press/Indianewscalling "CM Sukhu launches Rs 237 cr projects in Pachhad's Sarahan" (Sep 2026): CM ka karyakram, MLA sirf maujood + non-whitelist. REJECT.
+// 3. Zee News Hindi "rassi ke sahare...": aapda-daura (rahat/nirikshan) + non-whitelist. REJECT.
+// 4. crazynewsindia/himachaltribune "CM dedicates Rs 315 crore in Pachhad" (2021): pre-term. REJECT.
+// 5. Indian Express (Dec 2022) "Lone Himachal woman MLA Reena Kashyap": profile/interview, koi kaam nahi. REJECT.
+// 6. Thenewsmill/Latestly "CM meets MLAs to finalise Rs 713 crore priorities 2026-27" (Feb 2026): priority meeting — sirf maang (tourism, Habban school). REJECT (maang).
+// 7. HimachalNowNews "Deval Tikri school me Rs 2 lakh ghoshna": non-whitelist. REJECT (source).
+// 8. Keekli articles: whitelist me nahi. REJECT (source).
+// 9. J&K BJP sah-prabhari appointment khabren: sangathanatmak kaam. REJECT.
+// 10. YouTube-only clips (Sarahan hospital dharna, teacher shortage): YouTube-only valid nahi. REJECT.
+// Negative check: 0 case halafname; koi FIR/case/janch reporting nahi. KOI NEGATIVE ENTRY NAHI.
+
+// --- ajay-solanki-nahan (22 entries; 12 reject + 6 retry leads) ---
+// 1. Tribune "MLA inspects damaged pipeline in Nahan": sirf nirikshan. REJECT.
+// 2. Tribune "Nahan MC president preempts MLA, inaugurates Rs 4-crore parking" (Feb 2024): MC ne banaya, MLA ki koi bhoomika nahi. REJECT.
+// 3. Tribune "Nahan gets Rs 219 cr projects" (2024-01-07): CM ne udghatan/shilanyas kiya; Solanki sirf maujood. REJECT (maujoodgi).
+// 4. Tribune "Rs 90 crore sanctioned for rural roads..." (2026-01-30): swikriti mantri ki; Solanki ke bayan sirf bhavishya-yojnaen ("karenge" khabar). REJECT.
+// 5. Tribune "Nahan's govt school now a model institution" (2025-07-30): PM SHRI ka virtual udghatan Union mantri ne; kendra yojna. REJECT.
+// 6. Tribune "Rs 144 crore sewerage scheme approved for Nahan": AFD-funded; Solanki ne sirf dhanyavad diya. REJECT.
+// 7. Amar Ujala "Bechad ka Baag mela" (2024-08-26): ghoshna-sthal Sangrah/Dadahu — Renukaji seat, Nahan se bahar. REJECT (kshetra-bahar).
+// 8. Amar Ujala "Maharishi Valmiki Jayanti celebrations" (2025-10-04): pre-event announcement ("7 Oct ko karenge"). REJECT (pre-event).
+// 9. Jamta article me "mele ko jila stariya ghoshit karne ki maang": "karenge" wali maang. REJECT.
+// 10. hillspost/mbmnewsnetwork (Nahan-Baroja factory paidal path, Sep 2026): non-whitelist + sirf nirikshan/prastav. REJECT.
+// 11. dainiktribuneonline.com (mobile computer van): non-whitelist + CSR company ka kaam, MLA ne sirf hari jhandi dikhayi. REJECT.
+// 12. Non-whitelist leads (aapkibaatnews, pinewz, hillspost, speakhimachal, diarytimes, himachalheadlines, mbmnewsnetwork): whitelist post-event reporting nahi mili. REJECT (source) — kuch retry leads me darj.
+// RETRY LEADS (nahan): Chakli-Kyari event Feb 2025 (7 sadak shilanyas, PHC bhavan Rs 48 lakh lokarpan) — sirf aapkibaatnews; Bhedon-Matar event 25 Feb 2025 (link road, check dam Rs 20 lakh, school bhavan Rs 73.37 lakh) — sirf non-whitelist; Valmiki Chowk udghatan Oct 2025 — pre-event hi mili; Villa Round saundaryakaran shilanyas Aug 2026 — hillspost; Cantt High School bhavan Rs 44 lakh — speakhimachal/hillspost. Sab par whitelist post-event coverage dhoondhni hai.
+// Negative check: Medical college sthanantaran vivaad (Tribune Feb 2025) me aarop-pratyaarop, lekin koi FIR/case/janch nahi; halafname ke 2 case pre-term, koi current-term development nahi. KOI NEGATIVE ENTRY NAHI.
+
+// --- vinay-kumar-sri-renukaji (5 entries; 12 reject) ---
+// 1. Tribune 2025-11-01 "Renukaji segment gets Rs 29.50-cr development projects": CM ne kiya; MLA sirf virtual maujood. REJECT.
+// 2. Amar Ujala 2026-09-15 "32.30 crore se 5 sadken": 5 sadkon ka virtual shilanyas CM ne kiya. REJECT.
+// 3. Tribune 2025-10-25 "ITI building still non-functional": BJP netaon ka sarkar par aarop, Vinay Kumar par koi aarop/FIR/janch nahi; jawab chhapa tha. Negative ke yogya nahi. REJECT.
+// 4. Tribune Oct 2025 "International Renukaji fair preparations" + fair meetings: dharmik mele ki vyavastha. REJECT (dharmik).
+// 5. aapkibaatnews/himachalmedia.co (NohraDhar school lab-library + CM Lok Bhavan): non-whitelist. REJECT (source).
+// 6. himachalmedia.co (Bharog Banedi school science-lab): non-whitelist. REJECT (source).
+// 7. Zee News/Republic/HillsPost (Jan 2025: 340 visthapit parivaron ko pehchan-patra + sub-treasury): non-whitelist + pehchan-patra works shreni me nahi. REJECT.
+// 8. Amar Ujala 2025-05-05 (CHC Haripurdhar "jaldi civil hospital"): mele ke munch se "karenge" bayan. REJECT.
+// 9. newsable/webindia123 (MLA priority meeting 2026-27): sirf maang-soochi. REJECT.
+// 10. Tribune 2026-10-10 (Chauhan ka Koti Dhaman karyakram): mantri ka karyakram, sirf maujood. REJECT.
+// 11. HT (Renuka Dam tender + Giri nadi pul forest clearance): kendra pariyojna par MLA ka bayan; concrete bhoomika nahi. REJECT.
+// 12. Amar Ujala 2026-02-09 (Renuka bandh visthapit sangharsh): MLA ki maang-dautya, documented kaam nahi. REJECT.
+// Coordinator QA: worker ki "Sangrah me day-boarding school ki ghoshna" entry DROP ki — 6 schools ki rajya-stariya ghoshna thi, seat-kaam nahi. Sangrah boundary-wall entry ka badge news se dawa kiya (swikriti ka GO/adesh nahi).
+// Negative check: halafname me 0 case; koi FIR/case/janch reporting nahi. KOI NEGATIVE ENTRY NAHI.
+
+// --- harshwardhan-chauhan-shillai (20 entries; 15 reject) ---
+// 1. Amar Ujala "Deputy CM in Shillai: Rs 7.50 crore ke vikas karyon ke udghatan-shilanyas": Dy CM ne kiya; Chauhan sirf maujood. REJECT.
+// 2. Tribune "Rs 400 crore sanctioned for Shillai's development" (Aug 2026): aggregate dawa, itemized list/GO nahi. REJECT.
+// 3. Tribune "Rs 300 crore / Rs 250 crore sanctioned" dawe: itemized sanction nahi. REJECT.
+// 4. Tribune "Despite pleas, 40 families in Shillai villages struggle for water": paani-sankat report; Chauhan par koi aarop nahi. REJECT.
+// 5. newsonair (Akashvani) Sataun road bhoomi-poojan + PHC shilanyas: non-whitelist. REJECT (source).
+// 6. himachalmedia.co Shillai 11 schools science labs (CSR): non-whitelist. REJECT (source).
+// 7-8. mbmnewsnetwork Thontha / jantaserishta-awazeshahpur Dharwa: non-whitelist; Tribune coverage maujood. REJECT (source).
+// 9. Tribune Kaffota article — Borad (Rs 5.5 cr) aur Khajuri-Patni (Rs 1.5 cr) paani yojnaen "nearing completion": progress dawa, yogya stage nahi. REJECT.
+// 10. Tribune Kaffota article — 33-kV substation "being established": nirmanadhin. REJECT.
+// 11. Tribune "Naya-Pinjor road Rs 19 crore ongoing": sirf nirmanadhin. REJECT.
+// 12. Tribune Thontha (Rs 5.8 cr) aur Bagh Hawra (Rs 3.5 cr) paani yojnaen "being developed": progress dawa. REJECT.
+// 13. Tribune Halah article — Shaheed Kalyan Singh Memorial pushpanjali: smarak samarooh. REJECT.
+// 14. Mantri-bhoomika khabren (Industries/Labour udyog-ghoshnayein, Kala Amb): mantri-niyam. REJECT.
+// 15. 33-kV substation progress + Manal bus service "jald": ghoshna-entry me covered / progress dawa. REJECT.
+// Negative check: halafname ka 1 case pre-term darj; current-term me koi FIR/case/janch reporting nahi. KOI NEGATIVE ENTRY NAHI.
+
+// --- sukh-ram-chaudhary-paonta-sahib (2 entries: 1 positive + 1 negative; 22 reject) ---
+// 1. Divya Himachal Santoshgarh bijli sub-division + tubewell (Jan 2022): pre-term. REJECT.
+// 2. Divya Himachal Kotdi Byas/Gulabgarh/Khara schools lokarpan (Aug 2022): pre-term mantri-kaal. REJECT.
+// 3. Brunt News/AMH News Gondpur transformer (Oct 2022): pre-term + non-whitelist. REJECT.
+// 4. zeenews Paonta GIS sub-station: pre-term mantri-kaal. REJECT.
+// 5. himachalmedia.co CM ke saamne priorities (Jan 2024): sirf maang. REJECT.
+// 6. ETV Bharat Gadkari-Dehradun-Ballupur-Paonta NH muawza (Apr 2025): gyapan, kendra highway. REJECT.
+// 7. newsghat.in NABARD 3 sadak Rs 20 crore dawa: non-whitelist. REJECT.
+// 8. newsghat.in/himachalvarta ultimatum press conference: sirf maang. REJECT.
+// 9. Dainik Bhaskar (bhaskarhindi) Panipat Brahmakumari Shivratri chief guest: dharmik + kshetra-bahar. REJECT.
+// 10. Divya Himachal Dalai Lama 90va janmdin Paonta (Jul 2025): dharmik. REJECT.
+// 11. Dainik Jagran Yamunaghat Namami Gange (kendra mantri ne shilanyas 2023): kendra pariyojna, bhoomika nahi. REJECT.
+// 12. bhaskarhindi.com vidhayak nidhi se Rs 55 lakh rahat karya (Mar 2026): rahat kaam + auto-feed. REJECT.
+// 13. Tribune mantri Vikramaditya Paonta sameeksha: mantri ka daura. REJECT.
+// 14. Divya Himachal BJP panchayat strategy meeting: party baithak. REJECT.
+// 15. Amar Ujala "Aanjbhoj ka vikas" (CPS-kaal): pre-term. REJECT.
+// 16. livehindustan Chakradharpur sadak shilanyas: galat vyakti (Sukhram Oraon, Jharkhand). REJECT.
+// 17. thenewzradar Rs 50,000 cr revenue plan: galat vyakti (swargiya Pandit Sukh Ram). REJECT.
+// 18. Divya Himachal Saloh 33 kV (Sep 2021): pre-term + doosri seat. REJECT.
+// 19. Divya Himachal bus adda Paonta (May 2018): pre-term. REJECT.
+// 20. keekli.in CM ke 17 projects: non-whitelist. REJECT.
+// 21-22. newsghat/himachalvarta sadak items: non-whitelist. REJECT (source).
+// Negative check: 2017 halafname ka PC Act case pre-term, koi current-term development nahi. NEGATIVE ENTRY BANI: Majra hinsa FIR (Jun 2025) + HC sashart agrim jamanat (Jul 2025), jawab darj.
+
+// Coordinator QA note (2026-10-16): Sirmaur batch me kul 52 entries (Reena 3 + Solanki 22 + Vinay Kumar 5 + Chauhan 20 + Sukh Ram 1 positive + 1 negative). [Chauhan worker ne "17" likha tha lekin uski report me 20 entries theen — sabhi individually review karke rakhe gaye hain.] Solanki ki 3 ghoshna entries ka badge news se dawa kiya (daawa-only evidence), MCH swikriti-dawa ko stage ghoshna kiya (GO/adesh nahi). Sainwala Mubarikpur + Dhola Kuan seat-bahar sandeh tha — ECI delimitation order se verify: Majra KC ke PCs Majra aur Dhaula Kuan Nahan seat (56) me aate hain — dono entries seat-andar ki hain, rakhi gayi. Vinay Kumar ki Sangrah day-boarding ghoshna (rajya-stariya) DROP ki; Sangrah school swikriti ka badge dawa kiya. Sukh Ram ki swikriti entry ka badge sarkari se news kiya (saboot news-reporting hai). Harshwardhan Chauhan ke entries me CSR-funded aur minister-framing disclosures worker ne sahi diye. Har slug append se pehle file me absent tha — koi overwrite nahi. hygiene-scan: 0 Devanagari, 0 ₹-symbol, 0 literal-\n; categories/badges/stages allowed values me; dates Dec 2022-Oct 2026 window me.
 
 // ---- Solan district batch (researched: abhi nahi hua) ----
 
