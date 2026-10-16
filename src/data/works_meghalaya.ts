@@ -2791,3 +2791,147 @@ meghalayaWorks['banteidor-lyngdoh'] = [
 // R3. Thynroit water supply scheme (shilanyas Jan 2023, pre-term) ka in-term poorn-hona/lokarpan — whitelisted
 //     post-event coverage me MLA ki vyaktigat bhoomika mile to evaluate karo.
 
+
+// ---- Ri Bhoi district batch (researched 2026-10-16) ----
+
+meghalayaWorks['charles-marngar'] = [
+  {
+    title: 'Mawhati MLA Charles Marngar ne 27 Dec 2024 ko Khlieh Umtrew sadak (4.5 km, Rs 4 crore, State Road Scheme) ka shilanyas khud kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/12/28/mla-lays-base-for-ri-bhoi-road-announces-future-projects/',
+    date: '2024-12-28',
+    stage: 'shilanyas',
+    note: 'The Shillong Times ki post-event report ke mutabik Mawhati MLA Charles Marngar ne 27 Dec 2024 ko Khlieh Umtrew (Ri Bhoi) me sadak ka shilanyas khud kiya; Rs 4 crore ki yojana 4.5 km lambi hai aur State Road Scheme se fund ho rahi hai, Umsning-Mawhati Road se Khlieh Umtrew ko jodti hai. Marngar ne sarkar ke saath sahyog ko shrey ka aadhaar bataya (MDA/CM Conrad Sangma, Dy CM Prestone Tynsong); akhbaar kehta hai ki isse ilaake ki 58 saal purani maang poori hogi. Usi karyakram me Umtrai, Umkra, Mawrong, Pamlatar, Lymphuid, Mawlasnai-Kdoh Hati, Nongjri-Raid Mawbuh aur Sonidan-Umsiang sadkon ki ghoshnaen bhi hui lekin unki swikriti/kaam ka saboot srot me nahi, isliye unhe entry me shamil nahi kiya. Credit disclosure: kaam rajya sarkar ke fund par chal raha hai; MLA ka vyaktigat shilanyas hi uska pratyaksh yogdaan hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mawhati Rural Community Secondary School ko Chief Ministers Special Development Fund se Rs 8.05 lakh ki swikriti mili — MLA Charles Marngar ke hastakshep par',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/08/26/mawhati-school-to-get-assistance-of-rs-8-lakh/',
+    date: '2025-08-26',
+    stage: 'swikriti',
+    note: 'The Shillong Times ki post-event report ke mutabik Mawhati Rural Community Secondary School (SSA, 2006 me Umsohlait Parish dwara sthapit) ko school building banane ke liye CMSDF se Rs 8.05 lakh ki swikriti mili. Swikriti MLA Charles Marngar ke hastakshep se hui, jinhone School Managing Committee ke saath milkar maamla CM Conrad Sangma ke saamne rakha. Vidyalaya ab tak khel club ki gallery/cramped kakshaon me chal raha tha. Disclosure: fund CM ke vishesh scheme se hai, swikriti CM ne di — MLA ka credit unke prastav/anurodh tak seemit hai; paisa abhi vitarit nahi hua hai (akhbaar: "is set to receive"). Usi lekh me MLA ka Rs 1 lakh apne sansadhanon se shikshakon ke vetan ke liye yogdaan bhi ullikhit hai, lekin vetan-daan rules ke tehat uske liye alag entry nahi banai gayi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['mayralborn-syiem'] = [
+  {
+    title: 'Nongpoh MLA Mayralborn Syiem ne 15 January 2025 ko Pahamlapong me Ri-Bhoi Shatei Presbytery ko ek ambulance saunpi, jo CMSDF 2024-25 ke tehat procure ki gayi thi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/01/16/nongpoh-mla-inaugurates-office-hands-over-ambulance/',
+    date: '2025-01-15',
+    stage: 'poora-kaam',
+    note: 'The Shillong Times ki post-event report ke mutabik ambulance Chief Minister Special Development Fund (CMSDF) 2024-25 se kharidi gayi thi aur Presbyterian Church, Mawtnum me February 2025 me hone wale Presbytery ke silver jubilee se pehle saunpi gayi. Credit disclosure: ye CM ka fund hai, MLA ka apna fund nahi; MLA ki asal bhoomika procurement facilitate karna aur handover karna thi. Usi din MLA ne Presbytery office ka lokarpan bhi kiya, jisme congregation ke prayason ko credit diya; office me music institute bhi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nongpoh MLA Mayralborn Syiem ne 15 January 2025 ko Pahamlapong me Presbytery office building ke vistar ke liye Rs 5 lakh ka work order saunpa',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/01/16/nongpoh-mla-inaugurates-office-hands-over-ambulance/',
+    date: '2025-01-15',
+    stage: 'swikriti',
+    note: 'The Shillong Times ki post-event report ke mutabik MLA ne naye bane Presbytery office building ko bada karne ke liye Rs 5 lakh ka work order haatho-haath diya. Ye usi Pahamlapong programme ka hissa hai jahan ambulance saunpi gayi thi. Credit disclosure: source ne ye clear nahi kiya ki Rs 5 lakh MLA ke apne SRWP/MLA fund se hai ya doosre srot se — swikriti ki established-media reporting ke aadhaar par entry hai.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['sosthenes-sohtun'] = [
+  {
+    title: 'Jirang MLA Sosthenes Sohtun ne Patharkhmah me Rs 2.77 crore ki laagat wale Block Integrated Development Complex ka shilanyas khud kiya (27 Oct 2023)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2023/10/28/jirang-mla-lays-foundation-stone-for-integrated-development-complex/',
+    date: '2023-10-28',
+    stage: 'shilanyas',
+    note: 'The Shillong Times ki post-event report ke mutabik 27 Oct 2023 ko Jirang C&RD Block, Patharkhmah me MLA ne khud shilanyas kiya; swikrit raashi Rs 2.77 crore (Group IX); fund-srot report me nahi bataya gaya; MLA ne MDA sarkar ke sahyog ke liye dhanyavad diya. Credit disclosure: ye sarkari yojana ka kaam hai, sirf MLA fund ka nahi; MLA ka pratyaksh yogdaan vyaktigat shilanyas hai. Sohtun Sep 2025 se cabinet mantri hain (C&RD, Secretariat Administration, GA) — ye Oct 2023 ka mantri-ban-ne se pehle ka karyakram hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jirang ke 14 gaon ko Children, Adolescents aur Digital Infrastructure Centres banane ke liye Rs 17.19 lakh ke work orders mile — MLA Sohtun ne DRDA ke saath baante',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/11/16/14-villages-under-jirang-receive-work-orders-worth-rs-17-19-lakh/',
+    date: '2024-11-16',
+    stage: 'swikriti',
+    note: 'The Shillong Times ki post-event report ke mutabik 15 Nov 2024 ko Jirang C&RD Block office me MLA Sohtun aur DRDA Ri-Bhoi ke Project Director Raja Brahma ne 14 gaon ko prati gaon Rs 17,19,958 ke building work orders baante (equipment ke liye Rs 4 lakh baad me); kendra aur rajya sarkar ki sanyukt yojana me MLA ki bhoomika vitaran/sahyog ki thi. Credit disclosure: fund kendra+rajya ka hai, sirf MLA ka nahi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['dr-celestine-lyngdoh'] = [];
+
+meghalayaWorks['damanbait-lamare'] = [
+  {
+    title: 'MLA Damanbait Lamare ne Nongtraw gaon me naye health sub-centre ka udghatan kiya, 8 gaonon ko milegi swasthya suvidha',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/8-villages-under-nongtraw-get-health-sub-centre/',
+    date: '2025-04-15',
+    stage: 'poora-kaam',
+    note: 'Highland Post ki post-event report ke mutabik Nongtraw (Bhoirymbong block, Umroi constituency) me health sub-centre taiyar hokar MLA ke haathon udghatan hua; yeh Umsarang, Nongtraw Bangla, Lumdiengngan, Lumrit, Kyrdeng, Wah Mentait aur Mawkduk — 8 gaonon ki aabadi ko sewa dega. Nirman lagat Rs 5.5 lakh; fund-srot article me specified nahi hai, project Nongtraw ke Village Employment Council ne implement aur oversee kiya. Credit disclosure: MLA ne vyaktigat roop se udghatan kiya, lekin fund ka srot (MLA scheme ya doosri sarkari scheme) report me darj nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'CM Conrad Sangma ne Umsli me Rs 16 crore ke Organic Spice Industrial Unit ka shilanyas kiya, MLA Damanbait Lamare ke pratinivedan ko shrey diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/08/10/state-govt-commits-to-support-farmers/',
+    date: '2024-08-09',
+    stage: 'shilanyas',
+    note: 'The Shillong Times ki report ke mutabik Eastern Ri Bhoi Organic Farmer Producer Company Ltd ke Organic Spice Industrial Unit (Prime Hub) ki anumanit lagat Rs 16 crore hai; CM ne Rs 15 crore mobilize karne ki ghoshna ki (Rs 12 crore sarkar degi, baaki bank loan). Shilanyas karyakram me CM ne khud MLA Damanbait Lamare ke processing unit ki sthapna ke liye advocate karne ke prayason ko saraha. Credit capped: yeh CM ka sarkari project hai, MLA ki bhoomika vakalat/pratinivedan tak seemit hai. Umsli, Bhoirymbong block me Umroi constituency ke antargat aata hai.',
+    period: '2023-2028',
+  },
+];
+// ---- REJECT-LOG (Ri Bhoi, 10/12 — jile-war) ----
+// REJECT-LOG (charles-marngar, Mawhati (ST)):
+// 1. PHC upgrade memorandum (Jamanar/Mawrong) — https://theshillongtimes.com/2025/06/13/mawhati-mla-for-upgrade-of-two-health-sub-centres/ — sirf maang/memorandum; Dy CM ka "positive response" ashwasan-matra, koi GO/swikriti nahi.
+// 2. Mawlasnai PHC upgrade assurance + health-centre inspection — https://theshillongtimes.com/2025/07/05/marngar-assures-to-pursue-upgrade-of-mawlasnai-phc/ — sirf nirikshan + "I will pursue" ashwasan; MLA-scheme ka koi kharch ya sarkari nateeja nahi.
+// 3. Sonidan-Umsiang road NOCs / World Bank survey — https://highlandpost.com/sonidan-villages-agree-to-road-project-marngar/ — 66 gaon ke NOCs aaye, lekin survey bhi pending; koi swikriti/work-order/kaam-shuruaat ka saboot nahi.
+// 4. Mawhati C&RD Block inauguration (25 Jan 2025) — syllad.com (whitelist-bahar); lokarpan CM Conrad Sangma ne kiya, Marngar sirf maujood — dusre neta ke event me maujoodgi.
+// 5. Wah Umiam fish sanctuary/boating proposal — t7news.com (whitelist-bahar); sirf prastav/nirikshan, koi swikriti nahi.
+// 6. CM promises Aug 2024 (C&RD block, Sonidan road, Rs 8 lakh x 8 schools) — https://theshillongtimes.com/2024/08/17/cm-woos-cong-mla-with-tall-promises/ — bina GO ke CM ki ghoshnaen; school wala Rs 8 lakh ka ek swikrit case baad me entry 2 me mil chuka hai.
+// 7. Assembly speech praising MDA / 20 km PMGSY road claim — hubnetwork.in/themeghalayanexpress.com (whitelist-bahar); sarkar ki tareef ka bhaashan, MLA ka pratyaksh lokarpan/shilanyas ya dastaveji nateeja nahi.
+// 8. NPP me vilay / defection petitions — https://theshillongtimes.com/2024/09/18/cong-petitions-speaker-to-disqualify-defector-mlas/ — party badalna negative nahi; chunav-yachika akele kabhi negative nahi; koi FIR/criminal case nahi.
+// 9. Rs 4.5 crore Mawhati block office approval (Oct 2026) — indiatodayne.in (whitelist-bahar; national India Today domain nahi); CM-level approval me Marngar ka naam/patra srot me nahi.
+// 10. "Marngar Namghar" stories (sentinelassam) — "Marngar" yahan gaon ka naam hai, Charles Marngar ka sandarbh nahi.
+// 11. Mothers Day school-visit report (2 Aug 2024) — https://theshillongtimes.com/2024/08/02/mawhati-mla-addresses-edn-challenges-in-border-villages/ — sirf baithak/mang-prastav; vetan-sahayata ki ghoshna bina vitaran saboot ke.
+// REJECT-LOG (mayralborn-syiem, Nongpoh (ST)):
+// 1. Elaka Sirdarship office foundation stone (May 2026) — shila cabinet mantri Sosthenes Sohtun ne rakhi; MLA sirf upasthit + Rs 5 lakh pledge = sirf ghoshna, REJECT. https://theshillongtimes.com/2026/05/28/base-stone-laid-for-nongpoh-elaka-sirdarship-office/
+// 2. Nongpoh-Umden-Sonapur road foundation stone (10 Dec 2024) — shila Dy CM Tynsong ne rakhi (State Plan Rs 49.53cr + PMGSY-III Rs 47.20cr); Syiem sirf upasthit. https://theshillongtimes.com/2024/12/10/prestone-tynsong-lays-foundation-to-construct-nongpoh-umden-sonapur-road/
+// 3. Nongpoh Combined Water Supply Scheme Assembly question (Aug 2026) — sirf prashn; mantri ka Dec 2026 target, koi MLA-se-judi swikriti/nateeja nahi. https://theshillongtimes.com/2026/08/26/nongpoh-mla-seeks-deadline-for-water-scheme/
+// 4. Solid waste management Assembly motion (Mar 2025) — sirf maang. https://theshillongtimes.com/2025/03/12/call-to-bolster-solid-waste-management-in-nongpoh/
+// 5. Ri-Bhoi me government medical college ki ichha (Aug 2023) — keval ichha bayan. https://theshillongtimes.com/2023/08/27/nongpoh-mla-yearns-for-medical-college-in-ri-bhoi/
+// 6. Pa Iem Chak Syiem memorial stone unveiling (Apr 2025) — samudayik smarak, MLA ne clan-member ke roop me anaavaran kiya, sarkari kaam nahi. https://theshillongtimes.com/2025/04/20/nongpoh-mla-bats-for-preservation-of-ancestral-narratives-and-customs/
+// 7-10. Rice distribution Apr 2020 / SRWP rice claim Apr 2020 / Anganwadi inauguration Oct 2020 / Narang community hall Mar 2018 / Power tiller Nov 2021 — sab pre-term (2013-22), current term me koi development nahi.
+// 11-15. Umden C&RD block demand / casual workers praise / 2009 polytechnics committee / disaster compensation / weavers assurance — sirf maang/bayan + sources hubnetwork.in/syllad.com (whitelist-bahar).
+// 16. Ri-Bhoi Foundation Day (Jun 2025) — keval upasthiti. 17. Umden-Sonapur road quality defense (Jan 2026) — controversy par bayan, koi kaam nahi.
+// RETRY (syiem): Kbet Nongbri 2-km internal road Rs 2.63cr lokarpan (~10 Oct 2026) — sirf shillongtoday.com (non-whitelist) par; whitelisted coverage ki talaash baaki. 2023-28 SRWP itemized vitaran media me nahi mila.
+// REJECT-LOG (sosthenes-sohtun, Jirang (ST)):
+// 1. Oct 12, 2026 Patharkhmah Mini Secretariat shilanyas + Jirang Block Office lokarpan — shilanyas CM ne, lokarpan footballer Ribansi Jamu ne; MLA sirf upasthit+bhashan. https://theshillongtimes.com/2026/10/13/conrad-stresses-need-to-bring-govt-services-closer-to-people/
+// 2. Sep 4, 2025 Jirang FPC aseptic pulping unit — lokarpan Agriculture Minister Ampareen Lyngdoh ne; MLA sirf upasthit (megnolia.in PDF, whitelist-bahar bhi).
+// 3. Dec 2, 2022 Patharkhmah Civil Subdivision — CM ne lokarpan kiya; MLA upasthit; waise bhi pre-term.
+// 4. Feb 14, 2020 Iew Mawroh check gate lokarpan — pre-term (wartaman term Mar 2023 se).
+// 5. June 2020, 900 quintal chawal (Rs 25 lakh MLA scheme) — pre-term + rahat-samagri vitaran.
+// 6. Sep 2026 Maikhuli border visit + police maang — sirf maang/daura, koi dastaveji nateeja nahi. 7. Sep 2026 Jorabat flood bayan — sirf bayan. 8. Oct 2026 fish farmers cluster — fisheries dept programme, MLA ki sirf tippani.
+// 9. Oct 2025 Byrnihat samman samaroh — samman, koi kaam nahi. 10. Mantri-pad ke statewide faisle (C&RD/Secretariat/GA: Byrnihat pollution meeting, air purifier trial, border talks) — seat-level kaam nahi.
+// RETRY (sohtun): Rani Bari Health Sub Centre lokarpan (17 Jul 2025, Assam border, Jirang) — vyaktigat lokarpan, lekin sirf Sentinel Assam par report (non-whitelist); ST/Highland Post me verify ho to 'Aspataal'/'poora-kaam' entry banegi. URL: https://www.sentinelassam.com/north-east-india-news/meghalaya-news/i-am-happy-to-have-established-a-sub-centre-close-to-assam-border-mla-jirang
+// REJECT-LOG (dr-celestine-lyngdoh, Umsning (ST)) — 0 entries (profile honestly empty):
+// 1. Umsning Mini Stadium shilanyas (Rs 4.71cr, Mar 2026) — shilanyas CM ne, MLA sirf maujood. 2. E-RISE eri silk launch (Rs 4.61cr, Mar 2026) — CM ka programme, MLA maujood. 3. Prime Hub Umdihar + Pineapple Processing Unit (Aug 2023) — CM ne inaugurate kiya. 4. Mawhati C&RD Block (Jan 2025) — CM ka event + dusri seat. 5. Youth career guidance programme (May 2025) — DC Ri-Bhoi ka programme, MLA 'in presence'. 6. Nongpoh Sirdarship swearing-in (Dec 2025) — KHADC faisla. 7. Assembly question foot-over-bridges (Feb 2026) — NHAI kendriya pariyojna. 8-9. Assembly questions (PWD thickness Mar 2023; contingency fund Sep 2023) — sirf prashn/maang, koi nateeja nahi. 10. Nongpoh artificial turf dawa (2023) — dusri seat. 11. Assembly debate 'street lighting complete' (Feb 2026, Highland Post) — ekmatra aadhaar MLA ka bayan, concrete work/event nahi. 12. 2014-17 ke events (community hall, roads, tourism, MCH hospital) — sab pre-term. 13. Estimates Committee nirikshan (Aug 2025) — sirf nirikshan. 14. Party merger Aug 2024 — party badalna negative nahi.
+// RETRY (celestine): BDO notice-board/District pages par Umsning SRWP beneficiary suchiyan (sarkari badge sambhav); 'street lighting' wala Highland Post bayan concrete event nahi isliye reject rakha.
+// REJECT-LOG (damanbait-lamare, Umroi (ST)):
+// 1. IOCL CSR ambulance flag-off (19 Jul 2025) — CSR fund, MLA sirf flag-off = reject. https://theshillongtimes.com/2025/07/19/umroi-pyllun-health-centre-gets-its-first-ambulance/
+// 2. Nongsder synthetic turf foundation stone (May 2025) — Sports Minister chief guest, MLA sirf Guest of Honour (thesportsroom.in/southasiaviews.com). 3. MeECL officials meeting (Jul 2026) — sirf daant/prabhav, koi dastaveji nateeja nahi. 4. Umiam bypass bridge inauguration (May 2026) — Dy CM Tynsong ne udghatan kiya (Rs 23cr); MLA upasthit + NHAI corridor context. 5. Community Biochar Plant launch Umsli — CM ka event, MLA ka sirf bayan. 6. Little Flower HS School jubilee (Oct 2025) — CM ka event. 7. Lumdaitkhla market inauguration (Aug 2025) — Minister Abu Taher Mondal ne udghatan kiya (Rs 5cr, MoTA). 8. Waste e-vehicles flag-off (Feb 2024) — CM ka event, Swachh Bharat. 9. Umiam 4-lane highway opposition (Oct 2024) — MLA ka zikr hi nahi; NHAI kendriya. 10. MUDA Chairman appointment (Oct 2025) — sansthaagat pad, works nahi (foundation me disclosure jod diya). 11. Estimates Committee inspections — committee ka kaam. 12. Dasakhiatbha Lamare (Mawhati/Nongkrem) namesake — misattribution se bacha. 13. George B. Lyngdoh / Ngaitlang Dhar (purane MLA) ke events — pichhle karyakaal, chhue nahi.
+// RETRY (lamare): Highland Post internal search/WordPress API me aur hyperlocal hits sambhav; Nongtraw sub-centre (Rs 5.5 lakh, VEC-implemented) ka fund-srot media se confirm nahi — GO-level check parent kare.

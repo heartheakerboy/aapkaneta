@@ -337,7 +337,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=6778',
       backgroundNote: 'Halafname par naam \'Dr. Celestine Lyngdoh\', seat Umsning (ST) aur 2023 ka ticket (INC) assignment se match karte hain, isliye pehchan pakki hai. Umr 51 saal, peshe se chikitsak — MBBS, MD (Forensic Medicine) 2002. Koi aapradhik mamla ghoshit nahi hai. Halafname me koi deya ghoshit nahi hai.',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Umsning (ST) se jeete: 9,907 votes. Runner-up Sunshine Makri (UDP) 8,743 votes. Margin 1,164. 2023 me INC ke ticket par jeete the; Aug 2024 me NPP me vilay ho gaye (Speaker ne Tenth Schedule ke tahat manyata di).',
+    electionNote: '2023 Vidhan Sabha chunav me Umsning (ST) se jeete: 9,907 votes. Runner-up Sunshine Makri (UDP) 8,743 votes. Margin 1,164. 2023 me INC ke ticket par jeete the; Aug 2024 me NPP me vilay ho gaye (Speaker ne Tenth Schedule ke tahat manyata di). Aug 2024 me Home (Police) aur Education vibhagon ke Adviser niyukt hue; Sep 2025 me Government Chief Whip, Meghalaya Legislative Assembly bane (sansthaagat pad).',
   },
   {
     slug: 'damanbait-lamare',
@@ -366,7 +366,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/meghalaya2023/candidate.php?candidate_id=6784',
       backgroundNote: 'Halafname par naam \'Damanbait Lamare\', seat Umroi (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Umr 26 saal, 10th pass (Pestle Weed College, Dehradun, 2013), peshe se vyapari; pita Ngaitlang Dhar poorv MLA hain. Koi aapradhik mamla ghoshit nahi hai, koi deya ghoshit nahi hai.',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Umroi (ST) se jeete: 14,213 votes. Runner-up George Bankyntiewlang Lyngdoh (AITC) 12,527 votes. Margin 1,686. Runner-up George B. Lyngdoh 2018 me INC ke ticket par isi seat se jeete the.',
+    electionNote: '2023 Vidhan Sabha chunav me Umroi (ST) se jeete: 14,213 votes. Runner-up George Bankyntiewlang Lyngdoh (AITC) 12,527 votes. Margin 1,686. Runner-up George B. Lyngdoh 2018 me INC ke ticket par isi seat se jeete the. Oct 2025 me Meghalaya Urban Development Authority (MUDA) ke chairman niyukt hue (sansthaagat pad).',
   },
   {
     slug: 'heaving-stone-kharpran',
