@@ -2690,7 +2690,1069 @@ himachalWorks['dalip-thakur'] = [
 
 // QA: 16 entries pass huin (15 positive + 1 negative), sabhi Dec 2022+ tenure ki, whitelisted/credible sources (Amar Ujala, The Tribune, Divya Himachal, PTI) ki post-event reporting par; notes Roman-script Hinglish me, ek paragraph, koi Devanagari ya rupee-symbol nahi; entry objects me koi comment nahi. Vinod Kumar ka negative (PTI, 19 Aug 2023) coordinator ne khud verify karke joda. Chander Shekhar ka FIR 0045/22 fresh sthiti ke bina negative nahi banaya gaya.
 
-// ---- Shimla district batch (researched: abhi nahi hua) ----
+// ---- Shimla district batch (researched 2026-10-16) ----
+
+himachalWorks['kuldeep-singh-rathore'] = [
+  // Is MLA ke liye whitelist sroton me koi aisa post-event, karyakaal-antaragat
+  // (Dec 2022+) vikas-kaam nahi mila jisme khud MLA ne lokarpan/shilanyas/
+  // swikriti ki ho. Isliye array khali hai.
+];
+
+himachalWorks['anirudh-singh'] = [
+  {
+    title: 'Patgehar me Rs 1.14 crore ki lagat se bane naye Panchayat Bhawan ka lokarpan, jisme library ki suvidha bhi hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/kasumpti-gets-rs-7-36-crore-development-projects-minister-inaugurates-panchayat-bhawan/',
+    date: '2026-09-18',
+    stage: 'lokarpan',
+    note: 'Kasumpti seat ke Patgehar gram panchayat me Anirudh Singh ne 1.14 crore rupaye ki lagat se bane aadhunik suvidhaon wale naye Panchayat Bhawan ka vyaktigat lokarpan kiya, jisme competitive exam ki taiyari ke liye library ka bhi prabandh hai; khabar me ise purani maang ka poora hona bataya gaya hai, jabki fund ka srot (panchayat vibhag ki swikrit rashi) khabar me nirdisht nahi hai isliye stage lokarpan darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Patgehar gram panchayat kshetra me teen sadakon ke nirman ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/kasumpti-gets-rs-7-36-crore-development-projects-minister-inaugurates-panchayat-bhawan/',
+    date: '2026-09-18',
+    stage: 'shilanyas',
+    note: 'Isi karyakram me Anirudh Singh ne Patgehar gram panchayat kshetra ki teen sadakon ke nirman ka shilanyas kiya; khabar me sadakon ke naam aur alag-alag lagat nahi di gayi hai, sirf teen sadakon ke shilanyas ki pushti hai, isliye stage shilanyas darj hai aur lagat undisclosed hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Poabo me Rs 2.33 crore ki lift peyjal yojana ka lokarpan, Dumi, Bhont, Dhalli aur Chaili panchayaton ko peyjal milega',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/kasumpti-gets-rs-9-crore-projects-work-on-nature-park-underway/',
+    date: '2025-10-28',
+    stage: 'lokarpan',
+    note: 'Kasumpti seat ke Poabo gaon me Anirudh Singh ne 2.33 crore rupaye ki lagat se bani lift peyjal yojana ka vyaktigat lokarpan kiya jo Dumi, Bhont, Dhalli aur Chaili panchayaton ke gaonon ko peyjal degi; khabar me ise Jal Jeevan Mission ke tahat bani sarkari yojana bataya gaya hai, isliye fund-srot sarkari (JJM) darj hai aur stage lokarpan hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dumi me Rs 37 lakh ki lagat se bane naye Panchayat Bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/kasumpti-gets-rs-9-crore-projects-work-on-nature-park-underway/',
+    date: '2025-10-28',
+    stage: 'lokarpan',
+    note: 'Isi daure me Anirudh Singh ne Dumi me 37 lakh rupaye ki lagat se bane naye Panchayat Bhawan ka vyaktigat lokarpan kiya; khabar me fund ka srot nirdisht nahi hai, isliye stage lokarpan darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Poabo me Rs 1.14 crore ki lagat se banne wale Panchayat Community Centre ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/kasumpti-gets-rs-9-crore-projects-work-on-nature-park-underway/',
+    date: '2025-10-28',
+    stage: 'shilanyas',
+    note: 'Anirudh Singh ne Poabo me 1.14 crore rupaye ki lagat se banne wale Panchayat Community Centre ka shilanyas kiya; kaam poora hone ki khabar nahi mili hai, isliye stage shilanyas darj hai aur fund-srot khabar me nirdisht nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Chamiana me Rs 1.14 crore ki lagat se bane do-manzila Panchayat Bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/negligence-in-implementation-of-nhai-projects-will-not-be-tolerated-anirudh/',
+    date: '2025-11-23',
+    stage: 'lokarpan',
+    note: 'Kasumpti seat ki Chamiana gram panchayat me Anirudh Singh ne 1.14 crore rupaye ki lagat se bane do-manzila Panchayat Bhawan ka vyaktigat lokarpan kiya jisme conference hall, auditorium, pradhan/sachiv ke karyalaya, rasoi, waiting room aur library ki suvidhaen hain; fund-srot khabar me nirdisht nahi hai, isliye stage lokarpan darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tipra ko Jagaroti sadak se jodne wale 25.50 meter span ke pul ka lokarpan, lagat Rs 1.64 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/negligence-in-implementation-of-nhai-projects-will-not-be-tolerated-anirudh/',
+    date: '2025-11-23',
+    stage: 'lokarpan',
+    note: 'Anirudh Singh ne Tipra se Jagaroti sadak ko jodne wale 25.50 meter span ke pul ka vyaktigat lokarpan kiya jiska nirman 1.64 crore rupaye ki lagat se hua hai; khabar me ise Chamiana panchayat daure ka poora hua kaam bataya gaya hai, isliye stage lokarpan darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Chamiana panchayat me lift peyjal yojana, pashu chikitsa dispensary bhawan aur do sadakon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/negligence-in-implementation-of-nhai-projects-will-not-be-tolerated-anirudh/',
+    date: '2025-11-23',
+    stage: 'shilanyas',
+    note: 'Isi daure me Anirudh Singh ne Chamiana ke liye lift peyjal yojana, pashu chikitsa dispensary bhawan, Kiratpur se Bakholi gaon sadak aur Chakrayal sadak se Riundali gaon sadak ka shilanyas kiya; khabar me inki alag-alag lagat ya kaam poora hone ki pushti nahi hai, isliye stage shilanyas darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kyarkoti ke Government Senior Secondary School ke naye bhawan ka shilanyas, lagbhag Rs 5 crore swikrit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-stone-of-school-building-panchayat-ghar-in-kasumpti-segment/',
+    date: '2025-11-15',
+    stage: 'shilanyas',
+    note: 'Kasumpti seat ke Kyarkoti gaon me Anirudh Singh ne Government Senior Secondary School ke naye bhawan ka shilanyas kiya jiske liye lagbhag 5 crore rupaye ki rashi swikrit batayi gayi hai; khabar me kaam poora hone ki pushti nahi hai, isliye stage shilanyas darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Mungar Nala se Mungar Mohanpur aur Nala se Kyarkoti sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-stone-of-school-building-panchayat-ghar-in-kasumpti-segment/',
+    date: '2025-11-15',
+    stage: 'lokarpan',
+    note: 'Isi daure me Anirudh Singh ne Mungar Nala se Mungar Mohanpur gaon tak aur Nala se Kyarkoti tak bani sadakon ka vyaktigat lokarpan kiya; khabar me in sadakon ki lagat nahi di gayi hai, isliye stage lokarpan aur lagat undisclosed darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhagogi se Jayali gaon sadak aur Chadi panchayat ke Neri me Panchayat Ghar ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-stone-of-school-building-panchayat-ghar-in-kasumpti-segment/',
+    date: '2025-11-15',
+    stage: 'shilanyas',
+    note: 'Anirudh Singh ne Dhagogi se Jayali gaon tak sadak aur Chadi gram panchayat ke Neri me Panchayat Ghar ke nirman ka shilanyas kiya; khabar me lagat aur kaam poora hone ki pushti nahi hai, isliye stage shilanyas darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Chadi-Nihari 3 km link sadak ka lokarpan, nirman lagat Rs 85 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/development-projects-worth-rs-3-40-cr-launched-in-kasumpti/',
+    date: '2025-11-05',
+    stage: 'lokarpan',
+    note: 'Kasumpti seat ke Chadi gaon me Anirudh Singh ne 3 km lambi Chadi-Nihari link sadak ka vyaktigat lokarpan kiya jo 85 lakh rupaye ki lagat se bani hai; isi avsar par Chadi panchayat ke community centre bhawan (5 lakh rupaye) ka bhi lokarpan hua aur us marg par HRTC bus seva ko hari jhandi dikhayi gayi, jiska ullekh matra soochna ke roop me hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Anu me Rs 98.47 lakh ki lagat se banne wali Ayurvedic dispensary ka shilanyas',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/development-projects-worth-rs-3-40-cr-launched-in-kasumpti/',
+    date: '2025-11-05',
+    stage: 'shilanyas',
+    note: 'Anirudh Singh ne Chadi daure me Anu me 98.47 lakh rupaye ki lagat se banne wali Ayurvedic dispensary ka shilanyas kiya; khabar me kaam poora hone ki pushti nahi hai, isliye stage shilanyas darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bharari-Kufar sadak aur Kyrkoti-Anu sadak ke nirman ka shilanyas, lagat Rs 67 lakh aur Rs 85 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/development-projects-worth-rs-3-40-cr-launched-in-kasumpti/',
+    date: '2025-11-05',
+    stage: 'shilanyas',
+    note: 'Anirudh Singh ne Bharari-Kufar sadak (67 lakh rupaye) aur Kyrkoti-Anu sadak (85 lakh rupaye) ke nirman ka shilanyas kiya; khabar me kaam poora hone ki pushti nahi hai, isliye stage shilanyas darj hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA Anirudh Singh ke khilaf Dhalli thane me FIR — NHAI adhikariyon par kathit hamle ka aarop; janch jari',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/chandigarh/himachal-minister-anirudh-singh-booked-assault-nhai-officials-hours-building-collapse-shimla-10099583/',
+    date: '2025-07-01',
+    note: 'The Indian Express ki established reporting ke anusaar 1 July 2025 ko Dhalli police station (Shimla) me Anirudh Singh ke khilaf FIR darj hui — NHAI manager Achal Jindal ki shikayat par do NHAI adhikariyon par Chamyana me imarat girne ke sthal ke nirikshan ke dauraan kathit hamle aur dhamki ka aarop; dharaen wrongful restraint aur voluntarily causing hurt. Singh ne aaropon se inkar kiya hai (news reports). Stage ka sach: 16 Oct 2026 tak chargesheet ya giraftari ki khabar nahi mili, janch jari hai — dosh-siddhi se pehle nirdosh maane jaane ka niyam laagu hota hai. Yahan sirf FIR/janch ki sthiti darj hai, koi dosh nahi lagaya gaya hai.',
+    period: '2022-2027',
+  },];
+
+himachalWorks['harish-janartha'] = [
+  {
+    title: 'Sanjauli me Shimla Jal Prabandhan Nigam aur Suez India company ke upbhokta sahayata kaksh ka udghatan kiya, jisse sthaniya logon ko pani sambandhi shikayat-bil-naye connection ki seva ab Jakhu mukhya karyalaya jaaye bina milegi',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/06/consumer-help-desk-of-drinking-water-company-built-in-sanjauli/',
+    date: '2025-06-19',
+    stage: 'lokarpan',
+    note: 'Sanjauli kshetra me Shimla Jal Prabandhan Nigam aur Suez India company ne upbhokta sahayata kaksh shuru kiya, jiska udghatan Shima Urban vidhayak Harish Janartha ne kiya; is kaksh se Sanjauli aur aas-paas ke logon ko shikayat-nivaran, digital bill bhugtan aur naye connection ki suvidha milegi aur shahar ke charo sectors me aise kaksh banaye jaane hain. DISCLOSURE: yah pariyojna jal nigam/company ki hai — khabar me kisi MLALADS/MLA-nidhi ya MLA-sifarish ka zikr nahi hai, MLA ki bhoomika udghatan tak seemit darj hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['vikramaditya-singh'] = [
+  {
+    title: 'Gadkahan-Majhiwad-Sheel-Sharoh link road ka shilanyas — Rs 6.58 crore manzoor, 1400 se zyada gaonvasiyon ko fayda milega',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/shimla-rural-segment-gets-rs-8-crore-development-projects/',
+    date: '2025-10-30',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ki teen panchayaton ke karyakram me Gadkahan-Majhiwad-Sheel-Sharoh link road ka shilanyas kiya aur iske liye Rs 6.58 crore manzoor kiye; report ke anusar is sadak se 1400 se zyada gaonvasiyon ko fayda hoga. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye karyakram unki apni vidhan sabha seat tak seemit tha). Fund-srot: manzoor budget — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Devla panchayat me Rs 32.72 lakh ki lagat se bane pashu chikitsalaya bhavan ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/shimla-rural-segment-gets-rs-8-crore-development-projects/',
+    date: '2025-10-30',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke daure me Devla panchayat me Rs 32.72 lakh ki lagat se nirmit pashu chikitsalaya bhavan ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 72.12 lakh ki lagat se bani Sanahu-Shelti link road ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/shimla-rural-segment-gets-rs-8-crore-development-projects/',
+    date: '2025-10-30',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke daure me Rs 72.12 lakh ki lagat se nirmit Sanahu-Shelti link road ka vyaktigat lokarpan kiya aur kaha ki aage iski metalling ki yojna banayi jayegi. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Devla school ke khel maidan ke vistar ke liye Rs 15 lakh manzoor karke shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/shimla-rural-segment-gets-rs-8-crore-development-projects/',
+    date: '2025-10-30',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke daure me Devla school ke khel maidan ke vistar ke liye Rs 15 lakh manzoor kiye aur uska shilanyas kiya. MLA-bhoomika: seat-vishesh vyaktigat shilanyas sahit swikriti (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ke school ka kaam tha). Fund-srot: manzoor budget — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pandoa Khad se Kel Bagdi tak Rs 19.25 crore ki lift peyjal yojna ka lokarpan — 8 panchayaton ke 14,658 logon ko fayda',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne Ogali panchayat ke karyakram me Siraj kshetra ki aath panchayaton (Bagh, Dharogda, Ogali, Himri, Karyali, Domaihar, Bharada, Chebdi) ke liye Rs 19.25 crore ki lagat se taiyar Pandoa Khad se Kel Bagdi tak uthau peyjal yojna ka vyaktigat lokarpan kiya; isme do storage tank (1,31,500 aur 85,000 litre) aur chaar pump house bane hain aur kul 14,658 logon ko peyjal milega. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki yojna ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya; karyakram me Jal Shakti vibhag ke adhikari maujood the.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 6.61 crore ki lagat se bani Kadar Ghat–Palag Serkadi sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 6.61 crore ki lagat se bankar taiyar Kadar Ghat se Palag Serkadi sadak ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki sadak ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 36.57 lakh ki lagat se bani Chebdi–Serkadi sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 36.57 lakh ki lagat se bani Chebdi se Serkadi sadak ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki sadak ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 6.61 crore ki Domaihar–Navi sadak ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 6.61 crore ki lagat se banne wali Domaihar se Navi sadak ka vyaktigat shilanyas kiya. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 2.24 crore ki Kanda–Lunu sadak ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 2.24 crore ki lagat se banne wali Kanda se Lunu sadak ka vyaktigat shilanyas kiya. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 88.92 lakh ki DGBR–Gharena sadak ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 88.92 lakh ki lagat se banne wali DGBR se Gharena sadak ka vyaktigat shilanyas kiya. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 89.93 lakh ki Sharog–Khal road ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 89.93 lakh ki lagat se banne wali Sharog se Khal road ka vyaktigat shilanyas kiya. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 62.63 lakh ki lagat se bane Kadar Ghat Ayurvedic Health Centre ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/10/40-crore-worth-of-projects-launched-in-ogli/',
+    date: '2025-10-28',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne Ogali karyakram me Rs 62.63 lakh ki lagat se bane Kadar Ghat Ayurvedic Health Centre ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni Shimla Rural seat ke swasthya kendra ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Chalhog gram panchayat me Rs 1.14 crore ki lagat se bane naye panchayat bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/development-should-not-be-carried-out-on-party-lines-vikramaditya/',
+    date: '2025-11-25',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Chalhog gram panchayat me Rs 1.14 crore ki lagat se ek saal me bankar taiyar naye panchayat bhawan ka vyaktigat lokarpan kiya; ye chhoti panchayat (lagbhag 402 aabadi) pehle Shakrah gram panchayat ka hissa thi. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka lokarpan tha). Fund-srot: sarkari yojna (model panchayat bhawan) — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhatmana gram panchayat ke Jabri gaon me Rs 3.5 lakh ki lagat se bane Mahila Mandal Bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/state-will-overcome-financial-crisis-emerge-stronger-says-vikramaditya/',
+    date: '2026-02-11',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Bhatmana gram panchayat ke Jabri gaon me Rs 3.5 lakh ki lagat se bane Mahila Mandal Bhawan ka vyaktigat lokarpan kiya aur mahilaon se is suvidha ka jeevika majboot karne me upyog karne ka aagrah kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 5 crore ki Patiyar-Ghataru-Bairatinaala via Seetri Jayan link road ka shilanyas — sthaniya logon ki lambe samay ki maang',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-pwd-minister-vikramaditya-singh-lays-foundation-stone-of-2-roads-in-shimla-rural-segment/',
+    date: '2026-07-16',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne Harshing Dhar mele ke dauran apni Shimla Rural seat me Rs 5 crore ki lagat se banne wali Patiyar-Ghataru-Bairatinaala via Seetri Jayan link road ka vyaktigat shilanyas kiya; report ke anusar ye sadak sthaniya logon ki lambe samay se pending maang thi. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 50 lakh ki Jood-Khurana link road ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-pwd-minister-vikramaditya-singh-lays-foundation-stone-of-2-roads-in-shimla-rural-segment/',
+    date: '2026-07-16',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat me Rs 50 lakh ki lagat se banne wali Jood-Khurana link road ka vyaktigat shilanyas kiya. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 20 lakh ki lagat se bane Government Primary School, Jood (Judlu) bhavan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-pwd-minister-vikramaditya-singh-lays-foundation-stone-of-2-roads-in-shimla-rural-segment/',
+    date: '2026-07-16',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat me Rs 20 lakh ki lagat se nirmit Government Primary School, Jood (Judlu) ke naye bhavan ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ke school ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Harshing Dhar mandir ke paas bade community hall banane ki ghoshna — aupchariktaen jald poori hone ka dawa',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-pwd-minister-vikramaditya-singh-lays-foundation-stone-of-2-roads-in-shimla-rural-segment/',
+    date: '2026-07-16',
+    stage: 'ghoshna',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Chanawg gram panchayat me Harshing Dhar mele me ghoshna ki ki mandir ke paas ek bada community hall banaya jayega aur iske liye zaroori aupchariktaen jald poori ki jayengi. MLA-bhoomika: seat-vishesh ghoshna (ve PWD/Urban Development mantri bhi hain). Stage-sach: bina kisi GO/swikriti-patram ke sirf ghoshna hui hai, isliye badge dawa hai — dawa hi ekmatra saboot hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tutu (Chayli panchayat) me Rs 90 lakh ki Garawag link road ka shilanyas — 6-7 mahine me poori hone ka lakshya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/07/gift-of-%e2%82%b916-77-crore-for-tutu-majyat/',
+    date: '2026-07-18',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Chayli panchayat ke Tutu me Rs 90 lakh ki lagat se banne wali Garawag link road ka vyaktigat shilanyas kiya; report ke anusar ye sadak kshetra ki lambe samay ki pramukh maang thi aur ise 6-7 mahine me poora karne ka lakshya rakha gaya hai. MLA-bhoomika: seat-vishesh vyaktigat shilanyas (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki sadak ka shilanyas tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tutu railway station ke paas Rs 15 crore ke aadhunik vahan pul ka shilanyas — pehle charan ke liye Rs 2 crore manzoor',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/07/gift-of-%e2%82%b916-77-crore-for-tutu-majyat/',
+    date: '2026-07-18',
+    stage: 'shilanyas',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Tutu railway station ke paas Rs 15 crore ki lagat se banne wale aadhunik vahan pul ka vyaktigat shilanyas kiya; report ke anusar pehle charan ke liye Rs 2 crore manzoor ho chuke hain aur ek saal me pul ka nirman poora karne ka lakshya hai — pul se railway station kshetra ka sampark Majyat ward se sugam hoga. MLA-bhoomika: seat-vishesh vyaktigat shilanyas sahit swikriti (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka shilanyas tha). Fund-srot: manzoor budget — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 70 lakh ki lagat se bani Majyat ambulance sadak ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/07/gift-of-%e2%82%b916-77-crore-for-tutu-majyat/',
+    date: '2026-07-18',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Majyat kshetra me Rs 70 lakh ki lagat se bani ambulance sadak ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rs 17 lakh ki lagat se bane Majyat samudayik bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2026/07/gift-of-%e2%82%b916-77-crore-for-tutu-majyat/',
+    date: '2026-07-18',
+    stage: 'lokarpan',
+    note: 'Vikramaditya Singh ne apni Shimla Rural seat ke Majyat kshetra me Rs 17 lakh ki lagat se bane samudayik bhawan ka vyaktigat lokarpan kiya. MLA-bhoomika: seat-vishesh vyaktigat lokarpan (ve PWD/Urban Development mantri bhi hain, lekin ye unki apni seat ki suvidha ka lokarpan tha). Fund-srot: sarkari yojna — report me fund ka exact head nahi bataya gaya.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['rohit-thakur'] = [
+  {
+    title: 'Kuddu panchayat me Nadhal sadak sampark ka shilanyas, lagat Rs 3.83 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/education-minister-inaugurates-development-projects-in-shimlas-kuddu-panchayat/',
+    date: '2026-04-05',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne apne Jubbal-Kotkhai vidhansabha kshetra ke Kuddu gram panchayat me Nadhal sadak sampark ke nirman ka shilanyas kiya, jis par Rs 3.83 crore kharch hoga. Kuddu Uttarakhand se lagti door-daraj ki panchayat hai. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kuddu me Rajkiya Varishth Madhyamik Vidyalaya Dhadi Rawat ke naye bhawan ka lokarpan, lagat Rs 1.87 crore',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/education-minister-inaugurates-development-projects-in-shimlas-kuddu-panchayat/',
+    date: '2026-04-05',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Kuddu panchayat me Rs 1.87 crore ki lagat se bane Rajkiya Varishth Madhyamik Vidyalaya Dhadi Rawat ke bhawan ka lokarpan kiya. Ye unke kshetra-daure ke dauran hua kaaryakram tha. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Batad gaon me samudayik bhawan ka shilanyas, pratham charan me Rs 5 lakh jaari',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/education-minister-inaugurates-development-projects-in-shimlas-kuddu-panchayat/',
+    date: '2026-04-05',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Kuddu panchayat ke Batad gaon me samudayik bhawan ki adharshila rakhi aur nirman ke liye pratham charan me Rs 5 lakh jaari kar diye gaye. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kotkhai SDM karyalaya me revenue record room aur pashu chikitsalaya ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-inaugurates-revenue-record-room-veterinary-dispensary-in-kotkhai/',
+    date: '2026-03-02',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Kotkhai me SDM karyalaya ke revenue records room ka lokarpan kiya, jo pehle Theog me sthit tha, aur nav-unnat upmandal-stariya pashu chikitsalaya ka bhi lokarpan kiya. Kendriya Vidyalaya Kotkhai ke "opening" ka unhone sirf zikr kiya tha, isliye usko entry nahi banaya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jubbal ke Khanashni kshetra me Kalta link road unnayan ka shilanyas, lagat Rs 5.58 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-foundation-stone-of-key-road-projects-at-jubbal/',
+    date: '2026-08-11',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Jubbal upmandal ke Khanashni kshetra ke daure me Kalta link road ke unnayan pariyojna ka shilanyas kiya, jiski lagat Rs 5.58 crore hai. Unhone kaha ye sadken seb bagwanon ko upaj mandi tak pahunchane me madad karegi. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kalta link road par Rs 2.10 crore ki lagat se bane pul ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-foundation-stone-of-key-road-projects-at-jubbal/',
+    date: '2026-08-11',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Kalta link road par Rs 2.10 crore ki lagat se nirmit naye pul ka lokarpan kiya; unhone kaha pul teen saal se kam samay me poora hua. Ye unhi ke kshetra-daure ka hissa tha. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhansar link road unnayan ka shilanyas, lagat Rs 6.99 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-foundation-stone-of-key-road-projects-at-jubbal/',
+    date: '2026-08-11',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Khanashni kshetra me Dhansar link road ke unnayan ka shilanyas kiya, jis par Rs 6.99 crore kharch hoga. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jhalta panchayat me Harot link road ka shilanyas, lagat Rs 88 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/minister-lays-foundation-stone-of-key-road-projects-at-jubbal/',
+    date: '2026-08-11',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Jhalta panchayat me Harot link road ka shilanyas kiya, jiski anumaanit lagat Rs 88 lakh hai. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nawar ghati ke Pujarli-IV me Rs 65 lakh ke panchayat bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/education-minister-inaugurates-panchayat-building-at-rohru-village/',
+    date: '2026-01-15',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Jubbal-Kotkhai vidhansabha kshetra ki Nawar ghati me Pujarli-IV gaon me Rs 65 lakh ki lagat se bane panchayat bhawan ka lokarpan kiya; unhone kaha bhawan tay samay se pehle poora hua. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jubbal me khel chhatravas bhawan ka lokarpan, lagat Rs 2.27 crore',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/education-minister-inaugurates-sports-hostel-building-in-jubbal/amp',
+    date: '2025-01-06',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Jubbal ke Rajkiya Kanya Varishth Madhyamik Vidyalaya me Rs 2.27 crore ki lagat se bane khel chhatravas bhawan ka lokarpan kiya. Disclosure: is bhawan ka shilanyas July 2016 me unhone mukhya sansadiya sachiv ke roop me kiya tha (pichle karyakaal ka kaam), aur lokarpan Jan 2025 me unhone shiksha mantri ke roop me kiya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kotkhai ke Garavag panchayat me sadak sudhar pariyojna ka bhoomi poojan, lagat Rs 4 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/edu-minister-opens-school-lays-stone-of-projects-in-jubbal-kotkhai-596215',
+    date: '2024-03-01',
+    stage: 'shilanyas-bhoomi pujan',
+    note: 'Rohit Thakur ne Kotkhai ke Garavag panchayat me Rs 4 crore ki lagat se banne wali sadak sudhar aur unnayan pariyojna ka bhoomi poojan kiya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jauni me Rajkiya Varishth Madhyamik Vidyalaya ke naye bhawan ka lokarpan, lagat Rs 1.2 crore',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/edu-minister-opens-school-lays-stone-of-projects-in-jubbal-kotkhai-596215',
+    date: '2024-03-01',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne apne Jubbal-Kotkhai kshetra ke daure me Jauni me Rs 1.2 crore ki lagat se bane Rajkiya Varishth Madhyamik Vidyalaya ke navnirmit bhawan ka lokarpan kiya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tharola gram panchayat me Prathmik Swasthya Kendra bhawan ka shilanyas, lagat Rs 1.78 crore',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/edu-minister-opens-school-lays-stone-of-projects-in-jubbal-kotkhai-596215',
+    date: '2024-03-01',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Tharola gram panchayat me Rs 1.78 crore ki lagat se banne wale Prathmik Swasthya Kendra ke bhawan ka shilanyas kiya; unhone kaha isse kshetra ke logon ko ghar-dwar par behtar swasthya suvidha milegi. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Batadagalu me Prathmik Swasthya Kendra Barthata ke naye bhawan ka lokarpan, lagat Rs 1.46 crore',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/primary-health-center-gets-new-building-in-batadagalu-rampur-hp-news-c-178-1-ssml1033-150958-2025-12-26',
+    date: '2025-12-26',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Jubbal upmandal ke Batadagalu me Rs 1.46 crore ki lagat se bane Prathmik Swasthya Kendra Barthata ke navnirmit bhawan ka lokarpan kiya; isse Barthata, Kathasu aur Badhal teen panchayaton ke grameen labhanvit honge. Disclosure: unhone kaha is sansthan ki swikriti pichli Congress sarkar ke samay mili thi aur iska shilanyas bhi unhone hi kiya tha. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ghunda-Bharech aur Pragatinagar me uthau peyjal yojna ka lokarpan, lagat Rs 3.26 crore',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/kendriya-vidyalaya-to-be-built-at-kotkhai-at-a-cost-of-rs-25-crore-rampur-hp-news-c-178-1-ssml1033-146589-2025-10-22',
+    date: '2025-10-22',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Kotkhai upmandal me Ghunda-Bharech aur Pragatinagar panchayat ki uthau peyjal yojna ka lokarpan kiya, jis par Rs 3.26 crore kharch aaya hai; isse Ghunda, Jabdog, Chatoli aur Koti gaon ke grameen labhanvit honge. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Ghunda-Bharech panchayat me banne wale panchayat bhawan ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/kendriya-vidyalaya-to-be-built-at-kotkhai-at-a-cost-of-rs-25-crore-rampur-hp-news-c-178-1-ssml1033-146589-2025-10-22',
+    date: '2025-10-22',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne apne kshetra-pravas ke dauran Ghunda-Bharech panchayat me banne wale panchayat bhawan ka shilanyas kiya. Khabar me bhawan ki lagat ya fund ke srot ka ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kotkhai ke Rawlakiar gram panchayat me Thana Link Road unnayan ka bhoomi poojan, lagat Rs 4 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/education-minister-rohit-thakur-launches-rs-4-cr-road-upgrade-project-in-shimlas-kotkhai/',
+    date: '2026-08-30',
+    stage: 'shilanyas-bhoomi pujan',
+    note: 'Rohit Thakur ne Jubbal-Nawar-Kotkhai vidhansabha kshetra ke Rawlakiar gram panchayat me Thana Link Road ke unnayan ka bhoomi poojan kiya, jiski lagat Rs 4 crore hai. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Parali me Kharapathar-Madhan sampark marg unnayan ka shilanyas, lagat Rs 2.5 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/road-connectivity-to-every-village-a-priority-says-education-minister/amp',
+    date: '2026-08-29',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Parali gram panchayat me Rs 2.5 crore ki lagat se Kharapathar-Madhan sampark marg ke unnayan ka shilanyas kiya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kharapathar se Pachada sampark sadak ka lokarpan, lagat Rs 60 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/road-connectivity-to-every-village-a-priority-says-education-minister/amp',
+    date: '2026-08-29',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Rs 60 lakh ki lagat se bani Kharapathar se Pachada sampark sadak ka lokarpan kiya; ye sadak anusuchit jati bahul basti ko jodti hai. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Mandhol gram panchayat me sampark sadak ka lokarpan, lagat Rs 2 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/road-connectivity-to-every-village-a-priority-says-education-minister/amp',
+    date: '2026-08-29',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Mandhol gram panchayat me Rs 2 crore ki lagat se bani sampark sadak ka lokarpan kiya; ye sadak anusuchit jati bahul basti ko jodti hai. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Mandhol me Rs 35 lakh ke lok bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/inauguration-of-road-projects-rampur-hp-news-c-178-1-ssml1033-168420-2026-08-29',
+    date: '2026-08-29',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne apne ek-divasiya Jubbal daure me Mandhol me Rs 35 lakh ki lagat se bane lok bhawan ko janta ko samarpit kiya. Ye usi daure ka hissa tha jisme Parali aur Mandhol ki sadak pariyojnaon ka shubharambh hua. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jubbal me Thakur Ram Lal Kanya Khel Vidyalaya ka lokarpan, pradesh ka pehla khel school',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/jubbal-gets-himachals-first-girls-sports-school/',
+    date: '2026-08-14',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Jubbal me Thakur Ram Lal Kanya Khel Vidyalaya ka lokarpan kiya — ye Himachal ka pehla aisa sansthan hai jahan ladkiyon ko aath khelon me rashtriya-stariya suvidhaon ke saath prashikshan milega. Ye maujuda Jubbal khel chhatravas ka unnayan hai. Diet money, posts aur upkaran jaise vibhagiya faisle MLA profile se bahar rakhe gaye. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jubbal khel sansthan ke atirikt bhawan ka shilanyas, lagat Rs 2.78 crore',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/jubbal-gets-himachals-first-girls-sports-school/',
+    date: '2026-08-14',
+    stage: 'shilanyas',
+    note: 'Rohit Thakur ne Jubbal ke khel vidyalaya parisar me Rs 2.78 crore ki lagat se banne wale atirikt bhawan ka shilanyas kiya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Anti gaon me panchayat bhawan ki doosri manzil ka lokarpan, lagat Rs 26 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/to-keep-youth-away-from-drug-abuse-state-government-promoting-sports-minister/',
+    date: '2025-11-05',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Jubbal-Kotkhai kshetra ke Anti gaon me Rs 26 lakh ki lagat se bane panchayat bhawan ki doosri manzil ka lokarpan kiya. Usi khabar me PHC Pandranu ka nirikshan aur volleyball tournament ka shubharambh tha, jinhe vikas-kaam na hone ke karan entry nahi banaya. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pujarli me Rajkiya Utkrisht Kendriya Madhyamik Pathshala ke naye bhawan ka lokarpan, lagat Rs 22.45 lakh',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/rs-400-crore-for-road-projects-in-jubbal-nawar-kotkhai-education-minister/',
+    date: '2025-06-14',
+    stage: 'lokarpan',
+    note: 'Rohit Thakur ne Pujarli gaon me Rs 22.45 lakh ki lagat se bane Rajkiya Utkrisht Kendriya Madhyamik Pathshala ke navnirmit bhawan ka lokarpan kiya; school ke furniture ke liye Rs 2.20 lakh alag se uplabdh karaye gaye. Khabar me fund ke srot ka alag se ullekh nahi hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['mohan-lal-brakta'] = [
+  {
+    title: 'Rohru vidhansabha kshetra ke Sheelghat me Primary Health Centre ke naye bhavan ka lokarpan vidhayak Mohan Lal Brakta ne kiya.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/rampur-news-cps-inguarated-phc-building-rampur-hp-news-c-178-1-ssml1033-113440-2024-03-14',
+    date: '2024-03-14',
+    stage: 'lokarpan',
+    note: 'Vidhayak evam CPS Mohan Lal Brakta ne Rohru vidhansabha kshetra ke Sheelghat me Primary Health Centre bhavan ka lokarpan kiya, jisse kshetra ke logon ko ghardwar behtar swasthya suvidhaen milengi. Nirmaan pradesh sarkar dwara karaya gaya (srot me vishesh fund-srot ullekhit nahi); sthaniya logon ne lokarpan ke liye MLA aur pradesh sarkar ka aabhar vyakt kiya. Amar Ujala ki post-event reporting ke aadhar par darj.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nagar Parishad Rohru me Rs 1 crore ke vikas karyon ki sameeksha baithak me vidhayak ne Ramlila maidan sahit wards ke karyon ke liye lakhon rupaye ki rashi jaari ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/development-work-worth-rs-one-crore-going-on-in-rohru-municipal-council-rampur-hp-news-c-178-1-ssml1035-134582-2025-05-08',
+    date: '2025-05-08',
+    stage: 'swikriti',
+    note: 'Nagar Parishad Rohru karyalaya me vikas karyon ki sameeksha baithak ke dauran vidhayak Mohan Lal Brakta ne bataya ki nagar parishad kshetra me Rs 1 crore ki lagat se vikas karya chal rahe hain aur Ramlila maidan sahit anya wardon me vibhinn vikas karyon ke liye lakhon rupaye ki rashi unhone swayam jaari ki hai. Rashi ka srot srot me nirdisht nahi (MLA dwara jaari); ullekhit karya Ramlila ground me nirmanadheen manch aur New Bus Stand ke upar Chirgaon marg par varsha-shalika se jude hain. Stage swikriti darj kiya gaya kyonki rashi jaari hone ki khabar hai, karya poora hone ki nahi. Amar Ujala ki post-event reporting.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rohru block ki Gavna panchayat me samudayik kendra aur Navyuvak Mandal bhavan ka shilanyas vidhayak Mohan Lal Brakta ne kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/bilaspur/foundation-stone-laid-for-community-center-and-youth-club-building-in-gavna-bilaspur-news-c-178-1-ssml1035-172375-2026-10-14',
+    date: '2026-10-14',
+    stage: 'shilanyas',
+    note: 'Vidhayak Mohan Lal Brakta ne vikas khand Rohru ki Gavna panchayat me samudayik kendra aur Navyuvak Mandal bhavan ka shilanyas kiya. Dono bhavan Grameen Vikas evam Panchayati Raj vibhag ke antargat banenge — samudayik kendra samajik-sanskritik karyakramon ke liye aur Navyuvak Mandal bhavan yuvaon ki baithakon, samajik gatividhiyon aur janhit karyon ke liye manch dega. Sarkari yojana ke tehat nirmaan; MLA ne swayam shilanyas karke karyon ki shuruaat ki, panchayat pratinidhiyon ne aabhar vyakt kiya. Amar Ujala ki post-event reporting ke aadhar par darj.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pawali gaon me Jal Shakti vibhag ki lagbhag Rs 90 lakh ki uthau peyjal yojana ka udghatan vidhayak Mohan Lal Brakta ne kiya, teen gaon ko niyamit peyjal milega.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/inauguration-of-lift-drinking-water-scheme-in-pawaliinauguration-of-lift-drinking-water-scheme-in-pawali-rampur-hp-news-c-178-1-ssml1033-155340-2026-03-03',
+    date: '2026-03-03',
+    stage: 'lokarpan',
+    note: 'Vidhayak Mohan Lal Brakta ne Pawali gaon me Jal Shakti vibhag ki uthau (lift) peyjal yojana ka udghatan kiya. Lagbhag Rs 90 lakh ki lagat se taiyaar is yojana se teen gaon ke grameenon ko niyamit peyjal suvidha milegi; Mathara-Khodsu kshetra ke grameen lambe samay se peyjal samasya se joojh rahe the. Yojana ka nirmaan Jal Shakti vibhag (sarkari) dwara, udghatan MLA dwara — karyakaal 2022-2027 ke antargat poora hua kaam. Amar Ujala ki post-event reporting ke aadhar par darj.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['balbir-singh-verma'] = [
+  // KOI ENTRY QUALIFY NAHI HUI.
+  // Dec 2022 ke baad whitelist sroton (Tribune, HT, Indian Express, Hindu, NDTV, India Today,
+  // TOI, Amar Ujala, Dainik Bhaskar, Dainik Jagran, Divya Himachal) me Balbir Singh Verma ki
+  // dastavezi bhoomika wala koi kshetra vikas-kaam (poora hua / lokarpan / swikriti / shilanyas /
+  // ghoshna) post-event reporting me NAHI MILA. Hindi + English dono me ~12 search queries
+  // chalai gayin; jo pages khule unhe poora padha gaya (neeche reject-log).
+  // Post-2022 Chopal me bade vikas-elaan INC mantri/CM ne kiye (Rs 350 cr, Rs 27 cr) — unme MLA
+  // ki koi dastavezi bhoomika nahi, isliye entry nahi. Sifarish-par-swikriti (vipaksh MLA ki
+  // sabse mazboot shreni) ka koi dastavezi case nahi mila. MLALAD/VKVNY ki itemized sanction
+  // list Chopal ke liye publicly nahi mili.
+];
+
+himachalWorks['nand-lal'] = [
+  {
+    title: 'Juri ke sarkari senior secondary school me Rs 7.5 lakh ke naye stage ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/inauguration-of-the-newly-constructed-stage-of-jury-school-rampur-hp-news-c-178-1-ssml1034-150429-2025-12-19',
+    date: '2025-12-19',
+    stage: 'lokarpan',
+    note: 'Rajkiya Varishth Madhyamik Pathshala, Juri (Rampur Bushahar) me lagbhag Rs 7.5 lakh ki lagat se bane stage ka udhghatan Nand Lal ne kiya. School ki ye lambe samay se chali aa rahi maang thi; nirman karya Juri panchayat ne karwaya. Fund srot ka khulasa khabar me hai: Nathpa-Jhakri SJVN ne lagbhag Rs 6 lakh ki rashi jari ki, baaki nirman Juri panchayat ne khud ke kharch se poora kiya. MLA ki bhoomika: lokarpan karna; Vidhayak Kshetra Vikas Nidhi ka koi zikr khabar me nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Theli-Chakti (Nankhari) panchayat ke Rs 33 lakh ke naye bhavan aur panchayat stage ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/rampur-bushahar/theli-chakti-panchayat-gets-a-new-building-rampur-hp-news-c-178-1-ssml1034-151181-2025-12-29',
+    date: '2025-12-29',
+    stage: 'lokarpan',
+    note: 'Nankhari tehsil ki Theli-Chakti panchayat me lagbhag Rs 33 lakh ki lagat se bana ek-manzila panchayat bhavan aur Rs 2.5 lakh ki lagat se bana panchayat stage — dono ka udhghatan/lokarpan saatven Vitt Aayog adhyaksh evam Rampur vidhayak Nand Lal ne karke janata ko samarpit kiya. MLA ki bhoomika: vyaktigat lokarpan. Fund srot khabar me nahi diya gaya (Vidhayak Nidhi ka dawa nahi). Usi karyakram me panchayat sadak ke liye Rs 2 lakh dene ki ghoshna bhi ki gayi — ye ghoshna-dawa hai (bina GO ke), is entry ka stage isi ghoshna par nahi tikta; stage sirf bhavan/stage ke poorn-nirman aur lokarpan ka hai.',
+    period: '2022-2027',
+  },
+];
+
+// Per-MLA REJECT-LOG (sankshipt summary — poora log scratch fragments me):
+// REJECT-LOG (kuldeep-singh-rathore):
+// ---------------------------------------------------------------------------
+// NEGATIVE-CHECK: Karyakaal (Dec 2022+) me Kuldeep Singh Rathore par koi FIR,
+// case, janch ya adalaati karyavahi ki khabar whitelist sroton me NAHI mili.
+// Halafname ke 8 protest-mamle (2020-21) purane hain, charges framed nahi hue,
+// koi sajaa nahi — task-nirdesh anusar ye NEGATIVE NAHI bante. Negative = NAHI bana.
+//
+// 1.  The Tribune — "Inaugurated by Himachal CM Sukhu in May, portion of Theog bus stand sinking"
+//     (tareekh: ~2025-11-18; URL: https://www.tribuneindia.com/news/himachal/inaugurated-by-cm-sukhu-in-may-portion-of-theog-bus-stand-sinking/)
+//     Reject: Bus stand ka lokarpan CM Sukhu ne May 2025 me kiya; MLA ki bhoomika sirf
+//     SDM se janch karane ke aadesh tak hai. Khud kaam karane/lokarpan ka saboot nahi.
+//     (Kharab nirman par entry nahi banti.)
+//
+// 2.  Amar Ujala — "Theog ko April tak milegi mini secretariat ki saugat"
+//     (tareekh: 2025-12-30; URL: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/theog-will-get-the-gift-of-mini-secretariat-by-april-rampur-hp-news-c-178-1-ssml1031-151274-2025-12-30)
+//     Reject: "April tak dedicate kar denge" — pre-event announcement/"karenge" wali khabar.
+//     April 2026 ke baad ke lokarpan ki koi post-event khabar whitelist me nahi mili.
+//     Saath me Amrit Yojana (18 crore) ka "March tak poora" dawa bhi future-tense hai.
+//
+// 3.  Amar Ujala — "Theog me aspatal ka banega aadhunik paanch-manzila bhavan, 100 bistaron ki suvidha"
+//     (tareekh: 2025-11-06; URL: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/a-modern-five-storey-hospital-building-will-be-built-in-theog-rampur-hp-news-c-178-1-ssml1034-147582-2025-11-06)
+//     Reject: "Banega" — future-tense; MLA ne sirf adhikariyon ko kaam tez karne ke
+//     nirdesh diye (nirikshan/nirdesh). Koi lokarpan/shilanyas/swikriti nahi.
+//
+// 4.  Amar Ujala — "Theog aspatal ke naye bhavan ki pehle tiles ukhdi, ab chhat se tapakne laga paani"
+//     (tareekh: 2025-03-02; URL: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/problem-in-theog-hospital-problem-in-hospital-building-shimla-rampur-hp-news-c-178-1-ssml1031-130749-2025-03-02)
+//     Reject: Bhavan ka lokarpan 16 Aug 2022 ko hua — karyakaal se pehle. MLA ne
+//     sirf janch committee bithayi (accountability action, vikas-kaam nahi).
+//
+// 5.  Amar Ujala — "NH-5 se JNV Theog ke liye shuru hua sadak ka nirman karya"
+//     (tareekh: 2025-01-17; URL: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/road-construction-work-started-from-nh-5-to-jnv-theog-rampur-hp-news-c-178-1-ssml1032-128426-2025-01-17)
+//     Reject: 10 lakh Rs DC (Upayukt) ne manzoor kiye; article me MLA ka ullekh hi nahi.
+//
+// 6.  Amar Ujala — "Theog utsav me 16 Aug ko rajyapal, shaam ko shiksha mantri karenge shirkat"
+//     (tareekh: 2025-08-14; URL: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/on-august-16-the-governor-will-participate-in-the-theog-festival-during-the-day-and-the-education-minister-in-the-evening-rampur-hp-news-c-178-1-ssml1034-141606-2025-08-14)
+//     Reject: Press-vaarta me MLA ka "pichhle dhai saalon me abhootpoorv vikas"
+//     ka dawa (bypass, sewerage, bus adda, Amrit yojana) — dawa hi saboot hai,
+//     koi post-event reporting nahi; bus adda ka lokarpan CM ne kiya tha.
+//
+// 7.  Amar Ujala — "Theog me chaar mahine me hi jhuk gaya 2.71 crore ka chhatravas, HIMUDA ko apne kharch par banana hoga naya bhavan"
+//     (tareekh: 2026-09-30; URL: https://www.amarujala.com/shimla/theog-college-hostel-2-71-crore-building-tilted-new-hostel-to-be-built-by-himuda-2026-09-30)
+//     Reject: Whitelist article me MLA ka naam hi nahi; faisla Vidhan Sabha ki
+//     Local Fund Accounts Committee ka hai; naya bhavan Sept 2027 tak ka lakshya
+//     (future). ETV Bharat (non-whitelist) ke anusar MLA ne mudda Vidhan Sabha me
+//     uthaya tha — lekin whitelist srot me MLA ki bhoomika ka ullekh nahi.
+//
+// 8.  The Tribune — "Himachal: Theog Civil Hospital to get 8 specialists, eyes district hospital status"
+//     (tareekh: 2026-09-19; URL: https://www.tribuneindia.com/news/himachal/himachal-theog-civil-hospital-to-get-8-specialists-eyes-district-hospital-status/)
+//     Reject: 8 specialists ki niyukti rajya sarkar ka faisla; MLA ne sirf swagat
+//     kiya aur bayan diya. Sarkar ke karyakram me maujoodgi/bayaan entry nahi banta.
+//
+// 9.  The Tribune — "Himachal Pradesh House urges Central Government to shield apple growers..." (resolution moved by Kuldeep Rathore)
+//     (tareekh: ~2026-03; URL: https://www.tribuneindia.com/news/himachal/house-urges-central-government-to-shield-apple-growers-from-foreign-trade-agreement-heat/)
+//     Reject: Vidhan Sabha me private member resolution — policy/legislative kaam,
+//     kshetra-vikas kaam (works entry) nahi.
+//
+// 10. The Tribune — "Rathore suspects international conspiracy to destroy state's apple industry, demands probe"
+//     (tareekh: 2026-08-26; URL: https://www.tribuneindia.com/news/himachal/rathore-suspects-international-conspiracy-to-destroy-states-apple-industry-demands-probe/)
+//     Reject: Sirf maang/janch ki demand; koi kaam nahi.
+//
+// 11. The Tribune — "Give Luhri project-hit families their due rights: Rathore"
+//     (tareekh: 2026-01-19; URL: https://www.tribuneindia.com/news/himachal/give-luhri-project-hit-families-their-due-rights-rathore/)
+//     Reject: DC ki adhyakshata wali meeting me prabhavit parivaron ke adhikaaron
+//     ki wakalat — maang/advocacy; vikas-kaam entry nahi.
+//
+// 12. The Tribune — "Sanjauli college hosts grand annual fest"
+//     (tareekh: ~2025-10; URL: https://www.tribuneindia.com/news/himachal/sanjauli-college-hosts-grand-annual-fest/)
+//     Reject: MLA ne college ke sanskritik utsav ka udghatan kiya — karyakram,
+//     vikas-kaam nahi.
+//
+// 13. The Tribune — "Import duty cut against apple producers, says Rathore"
+//     (tareekh: 2025-12-25; URL: https://www.tribuneindia.com/news/himachal/import-duty-cut-against-apple-producers-says-rathore/)
+//     Reject: Seb ayat shulk par rajnitik bayan; koi kshetra-kaam nahi.
+//
+// 14. The Indian Express — "BJP-led Centre attempting to cover up theft at Ram Temple: Congress MLA"
+//     (tareekh: 2026-07-04; URL: https://indianexpress.com/article/cities/chandigarh/bjp-centre-cover-up-theft-ram-temple-theog-congress-mla-10770956/)
+//     Reject: Rajnitik press-vaarta ka bayan; kshetra se asambandhit; koi kaam nahi.
+//
+// 15. Times of India — "Rathore questions Mandi Congress rally organisers for forgetting Virbhadra Singh"
+//     (URL: https://timesofindia.indiatimes.com/city/chandigarh/rathore-questions-mandi-congress-rally-organisers-for-forgetting-virbhadra-singh/articleshow/125939181.cms)
+//     Reject: Party-rajniti ka bayan; koi vikas-kaam nahi.
+//
+// 16. Times of India — "Timber waste in Himachal Pradesh flash flood: Congress MLA puts own govt in spot over tree felling"
+//     (URL: https://timesofindia.indiatimes.com/city/chandigarh/timber-waste-in-himachal-pradesh-flash-flood-congress-mla-puts-own-govt-in-spot-over-tree-felling/articleshow/122115622)
+//     Reject: Jaanch ki maang; koi kaam nahi.
+//
+// 17. Times of India — "Increasing cancer cases in Himachal Pradesh perturb assembly"
+//     (URL: https://timesofindia.indiatimes.com/city/chandigarh/increasing-cancer-cases-in-himachal-pradesh-perturb-assembly/articleshow/123461803.cms)
+//     Reject: Sadan me prashn/sawaal; koi kshetra-kaam nahi.
+//
+// 18. Keekli — "Theog kshetra me banengi teen nai sadke, 2 crore ki lagat se hoga nirman"
+//     (tareekh: 2024-10-22 — page kholkar verify kiya; URL: https://keekli.in/theog-kshetra-mein-banegi-teen-nai-sadke/)
+//     Reject: MLA ne 22 Oct 2024 ko Kumarasain me 3 sadkon (Sarkalti-Karalti,
+//     Raun Karali-Notod, Baridhar-Balgar; lagbhag 2 crore) ka bhoomi-pujan kiya —
+//     LEKIN Keekli whitelist srot nahi hai. Kisi whitelist srot (Tribune, HT, IE,
+//     Hindu, NDTV, India Today, TOI, Amar Ujala, Dainik Bhaskar, Dainik Jagran,
+//     Divya Himachal) me is event ki coverage nahi mili. (RETRY/VERIFY LEAD:
+//     agar whitelist srot me coverage mile to shilanyas-bhoomi pujan stage ki
+//     entry ban sakti hai.)
+//
+// 19. YouTube — "Shimla: Vidhayak Kuldeep Rathore ne OD-Kotgarh-Beethal sadak ke chaudikaran karya ka kiya bhoomipujan"
+//     (URL: https://www.youtube.com/watch?v=bdoaFUtz7qg)
+//     Reject: YouTube whitelist/valid srot nahi; kisi whitelist srot me is event
+//     ki coverage nahi mili.
+//
+// 20. Divya Himachal — "Vidhayak ne Theog-Kumarsain me barsaat se hue nuksan ka liya jayza"
+//     (URL: https://www.divyahimachal.com/2025/09/mla-inspects-rain-related-damage-in-theog-kumarsain/)
+//     Reject: Baadh/barish nuksan ka nirikshan + shahid ke parivar se shok-mulakat —
+//     relief-sambandhi nirikshan; vikas-kaam nahi.
+//
+// 21. Divya Himachal — "Theog me 142 logon ne kiya raktdaan, donors sammanit"
+//     (URL: https://www.divyahimachal.com/2025/05/142-people-donated-blood-in-theog-donors-were-honored/)
+//     Reject: Raktadaan shivir me maujoodgi + "samudayik bhavan banane ki yojna par
+//     kaam shuru" ka aashwasan — sirf maujoodgi aur "karenge" wala vaada.
+//
+// 22. Divya Himachal — "Congress ne ki Theog ki andekhi" (purv vidhayak Rakesh Verma ke aarop)
+//     (URL: https://www.divyahimachal.com/2017/06/...)
+//     Reject: June 2017 ka article — karyakaal se pehle.
+//
+// 23. Punjab Kesari (himachal.punjabkesari.in) — "Shiksha mantri ne 2.89 crore se taiyaar Tiyali school ke bhavan ka kiya lokarpan"
+//     (URL: https://m.himachal.punjabkesari.in/himachal-pradesh/news/education-minister-inaugurated-the-building-of-tiali-school-2027889?amp)
+//     Reject: Srot whitelist me nahi; waise bhi lokarpan Shiksha Mantri Rohit Thakur
+//     ne kiya — MLA ne sirf badhai di (mantri ke karyakram me maujoodgi).
+//
+// 24. ETV Bharat — Theog hostel vivaad (1 Oct 2026) — srot whitelist me nahi
+//     (URL: https://www.etvbharat.com/hi/state/theog-hostel-construction-corruption-himachal-govt-action-himuda-directed-to-construct-new-hostel-hps26100101081)
+//     Reject: Non-whitelist; #7 dekho.
+//
+// 25. Zee News (Hindi) — "Theog Water Scam: paani ke ghotaale ke aaropon par vidhayak Kuldeep Rathore ne kaha..."
+//     (URL: https://zeenews.india.com/hindi/zeephh/himachal-pradesh/theog-vidhayak-kuldeep-singh-rathore-gave-information-about-theog-water-scam/2584963)
+//     Reject: Srot whitelist me nahi; waise bhi janch ke aadesh — accountability,
+//     vikas-kaam nahi.
+//
+// 26. The Tribune — "Theog constituency gets Rs 44.83 cr projects"
+//     (tareekh: 2022-10-01; URL: https://www.tribuneindia.com/news/himachal/theog-constituency-gets-rs-44-83-cr-projects-437050/)
+//     Reject: CM Jai Ram Thakur ne Sept 2022 me kiye — karyakaal se pehle.
+//
+// 27. Satluj Bias Times / GWNN — "Gramin vikas mantri ne Jais panchayat ke praangan se kiye 2.58 crore ke vividh udghatan evam shilanyas"
+//     (URL: https://satlujbiastimes.com/...)
+//     Reject: Srot whitelist me nahi; waise bhi udghatan/shilanyas Gramin Vikas
+//     Mantri ne kiye — MLA sirf upasthit tha.
+//
+// 28. The Indian Express — "MLA LAD stalled since Oct 2025, says Himachal BJP, demands immediate release"
+//     (tareekh: 2026-02-06; URL: https://indianexpress.com/article/cities/chandigarh/mla-lad-stalled-since-oct-2025-says-himachal-bjp-demands-immediate-release-10518033/)
+//     Reject: Vidhayak Nidhi par rajnitik vivaad ki khabar; is MLA ke kisi
+//     vishisht kaam ka ullekh nahi.
+
+// REJECT-LOG (anirudh-singh):
+// 1. The Tribune, 2025-11-24 (Chamiana): Bhattakufar me NHAI sadak dhansne par mantri ki aalochana aur janch ki maang — aalochana/janch-maang hai, koi vikas kaam nahi. REJECT.
+// 2. The Tribune, ~Oct 2026 (Wildlife Week): Dhalli ke Water Catchment Sanctuary me safai abhiyan ka udghatan — minister-form event, vikas-nirman kaam nahi. REJECT.
+// 3. The Tribune, 2026-09-19 (Patgehar): Charania Khad par peyjal yojana ko "prathmikta" aur primary school bhawan ka estimate banane ka nirdesh — sirf irada/nirdesh, "karenge" khabar. REJECT.
+// 4. The Tribune, 2026-09-19 (Patgehar): "Rs 14.58 crore ke PWD sadak/bhawan kaam nirmanadhin" — chalte hue vibhagiya kaam, koi vyaktigat lokarpan/shilanyas event nahi. REJECT.
+// 5. The Tribune, 2025-10-30 (Poabo): Bagora me Rs 5 crore ka Waste-to-Wealth Vocational Training Centre (Mashobra block ki 9 panchayats) — vibhagiya yojana ka district-launch, Kasumpti seat-vishesh nahi (minister-form). REJECT.
+// 6. The Tribune, 2025-10-30: Paobo me Rs 7 crore ka nature park "nirmanadhin" — chalta hua kaam, koi lokarpan/shilanyas event nahi. REJECT.
+// 7. The Tribune, 2025-11-24 (Chamiana): "Rs 2,000 crore nivesh ki sambhavna", 230 sadaken, Bhattakufar me PWD division (Rs 4.5 crore budget) — ghoshnaen, "karenge" khabar. REJECT.
+// 8. The Tribune, 2025-11-16 (Kyarkoti): mandir kshetra me 50,000-litre tank ki ghoshna aur Panjog school bhawano ki marammat ka prastav — sirf ghoshna/prastav. REJECT.
+// 9. The Tribune, 2025-11-06 (Chadi): 230 sadakon ke liye FRA clearance ki prakriya — prakriya-chalit, koi vyaktigat event nahi. REJECT.
+// 10. The Tribune, 2025-11-06 (Chadi): HRTC bus seva ko hari jhandi — bus seva ka shubharambh, vikas-nirman kaam nahi (entry 12 ke note me matra ullekh). REJECT.
+// 11. himachalmedia.co / khabarabhiabhi.in / jantaserishta.com / dainiksaveratimes.com (Patgehar, Sept 2026): whitelist me nahi — inhe srot ke roop me istemal nahi kiya (Tribune se hi entry bani). REJECT (srot-ayogya).
+// 12. Amar Ujala / Dainik Bhaskar / Dainik Jagran / Divya Himachal par is MLA ke seat-vishesh kaamon ki khud-kholi ja sakne wali khabar nahi mili — search me sirf aggregator/chhote portal mile. RETRY LEAD: in sroton par "Anirudh Singh Kasumpti" site-search dobara.
+// 13. Vidhayak Kshetra Vikas Nidhi (MLALADS) ki itemized sanction list whitelist sroton me nahi mili. RETRY LEAD: hp.gov.in / vidhansabha records me MLALAD suchi.
+// 14. Halafname ki 4 purani FIR (2018-19 protest) — pre-term, charges framed nahi — NEGATIVE NAHI.
+// 15. Patgehar teen sadakon ke naam/lagat (Lamba Jubbad-Karyali Rs 1.50cr, Pehla Number Nala-Gawahi Rs 1.43cr, Gajen-Bharadi Nala via Ladhaura Rs 3.29cr; vidhayak nidhi ka zikr) — sirf non-whitelist Hindi sites par mila, isliye entry 2 me shamil nahi kiya. RETRY LEAD: whitelist srot me in sadakon ke naam/lagat ki pushti.
+
+// REJECT-LOG (harish-janartha): fragment me darj.
+
+// REJECT-LOG (vikramaditya-singh): fragment me darj.
+
+// REJECT-LOG (rohit-thakur): fragment me darj.
+
+// REJECT-LOG (mohan-lal-brakta): fragment me darj.
+
+// REJECT-LOG (balbir-singh-verma):
+// 1. The Tribune, 2026-07-20 (KHUD KHOLA AUR PADHA): "Rs 350-crore projects, new roads to boost
+//    Chopal's development" — PWD mantri Vikramaditya Singh ne Nanhar Vishu Fair me Hiyun-Nagah
+//    aur Charwadhar-Gauncha sadkon ka lokarpan kiya, Rs 350 cr ke kaamon ka elaan. Poore lekh me
+//    MLA Balbir Verma ka naam TAK NAHI hai. REJECT: MLA ki koi dastavezi bhoomika nahi;
+//    mantri karyakram me maujoodgi bhi nahi dikhi.
+//    URL: https://www.tribuneindia.com/news/himachal/rs-350-crore-projects-new-roads-to-boost-chopals-development/
+// 2. Amar Ujala, 2026-08-17: CM Sukhu ne Chopal ki pariyojnaon (Nerwa bypass Rs 4 cr, Lakhawati pul
+//    Rs 12 cr, Chhawala-Chopal water scheme Rs 2 cr, joint office buildings aadi) ke liye Rs 27 cr
+//    jaari kiye — lekin maang Congress neta Rajneesh Kimta (INC, 2022 me Verma ke pratidvandi) aur
+//    unke saathiyon ne ki thi; MLA ka koi ullekh nahi. REJECT: MLA ki bhoomika nahi;
+//    sarkar/CM ka kaam.
+//    URL: https://www.amarujala.com/shimla/the-cm-released-27-crore-for-various-projects-in-the-chopal-area-2026-08-17
+// 3. Amar Ujala, 2025-05-30 (KHUD KHOLA AUR PADHA): Chopal me peya-jal sankat par mahilaon ne
+//    vidhayak ka gherav kiya; vidhayak ne jal-aapurti niyamit karne ka aashwasan diya, Jal Shakti
+//    adhikariyon ko fatkar lagayi, leakage/srot durust karne ke nirdesh diye. REJECT: sirf
+//    aashwasan/maang; koi swikrit kaam, GO ya poora-hone ki post-event reporting nahi.
+//    URL: https://www.amarujala.com/himachal-pradesh/rampur-bushahar/women-surrounded-the-mla-in-the-chaupal-regarding-the-problem-of-water-rampur-hp-news-c-178-1-ssml1033-136107-2025-05-30
+// 4. LatestLY (PTI feed, Dec 2023 ke aaspaas — "one year of regime"): MLA priority meeting me
+//    Verma ne "urged/requested" — Nerwa me bus depot, Jal Shakti ke chal rahe kaamon me tezi,
+//    Chopal me tourism, Chhaila-Chopal sadak sudhar, schoolon me staff. REJECT: sirf maangein;
+//    koi swikriti dastavezi nahi.
+//    URL: https://www.latestly.com/agency-news/india-news-govt-has-taken-and-implemented-many-major-decisions-accelerating-pace-of-development-himachal-cm-sukhu-5728027.html
+// 5. DPR/IPR roundup via indianewscalling, Feb 2026 (MLA priorities 2026-27): Verma ne Sanj-Deha-
+//    Chopal sadak sudhar, bijli aapurti, sarkari padon ki bharti ki maang rakhi. REJECT: sirf
+//    maang. (thenewshimachal ka Sanj-Deha-Chopal road wala lekh bhi yahi maang hai + whitelist me
+//    nahi — REJECT.)
+// 6. Pre-Dec-2022 kaam (sab REJECT — karyakaal se pehle):
+//    a) keekli/himachalheadlines/himachaltonite, mid-2022: CM Jai Ram Thakur ne Nerwa me 30
+//       pariyojnaon (Rs 175 cr) ke lokarpan/shilanyas kiye — MLA sirf swagat-bhashan me.
+//    b) keekli/himachalheadlines, 2021: CM ne Kupvi me 46 pariyojnaon (Rs 180 cr) ke
+//       lokarpan/shilanyas kiye.
+//    c) Divya Himachal, 2017: Vishu mele me Rs 5,100-5,100 ki ghoshna; 2019: Dhabas Jan Manch.
+//    d) cnbnews4himachal, 2020: CM ki Kupvi ghoshnaen (SDM office, degree college).
+//    Sabhi Dec 2022 se pehle ke hain; kai srot whitelist me bhi nahi.
+// 7. etvbharat (whitelist me NAHI), 2024-08-28: Vidhan Sabha sawal me Verma ne khulasa kiya ki
+//    Mukhyamantri Gramin Sadak Yojana me ek hi ghar ke liye Rs 2.15 cr ki sadak bani. REJECT:
+//    vidhan-sabha sawal/aarop hai, vikas-kaam nahi; srot bhi whitelist-bahar.
+//    URL: https://www.etvbharat.com/hi/!state/himachal-road-built-for-a-single-house-under-mukhyamantri-gramin-sadak-yojana-mla-balveer-verma-on-sadak-yojana-himachal-pradesh-news-hps24082808225
+// 8. Times of India, 2025-08-05 (whitelist): Verma ne Sirmaur ke Rampur Bharapur me ret-bajri
+//    ghotaale ki high-level jaanch maangi (RTI-based aarop). REJECT: kshetra se bahar (Sirmaur),
+//    rajnaitik aarop — koi vikas-kaam nahi.
+//    URL: https://timesofindia.indiatimes.com/city/chandigarh/corruption-in-rampur-bharapur-panchayat-area-of-sirmaur-bjp-seeks-probe/articleshow/123117259.cms
+// 9. MLA ke Facebook posts (findglocal mirror), Sep 2025: Nerwa kshetra ki aapda-prabhavit
+//    panchayaton ka daura, nuksaan ka jayaza, rahat ka aashwasan. REJECT: rahat-kaam vikas-kaam
+//    NAHI; FB whitelist srot nahi.
+// 10. himbumail (whitelist me NAHI): Parala food-processing plant par CM par "ribbon-cutting"
+//     ka aarop wali press conference — 2022 se pehle ke BJP-karyakaal ki pariyojna par shreya ka
+//     rajnaitik vivaad. REJECT: koi naya kaam nahi; srot whitelist-bahar.
+// 11. YouTube clips (Kupvi students dwara samman 17/12/25; Kupvi college band karne par virodh):
+//     REJECT — FB-IG-YouTube valid srot nahi.
+// 12. Party-politics coverage (thenewshimachal Jan 2026: 2027 me Chopal se hi ladne ki ghoshna;
+//     himbumail: BJP state vice-president pad): REJECT — vikas-kaam nahi.
+// 13. Wrong-person check: "Balbir Singh Verma" naam se kai vyakti — Union MoS B.L. Verma (UP,
+//     Divyangjan kendra) aur Punjab ke Dr. Balbir Singh (cabinet minister) alag vyakti hain;
+//     unse judi khabren Chopal wale MLA se jodna galat hoga — sabko naam+seat se filter kiya.
+// 14. RETRY LEADS: koi nahi. Dono seedhe khole gaye whitelist pages (Tribune 2026-07-20, Amar
+//     Ujala 2025-05-30) poore padhe gaye; koi page open-fail nahi hua. Dainik Jagran/Dainik
+//     Bhaskar/HT/Indian Express/Hindu/NDTV/India Today me Chopal+Balbir Verma par koi qualifying
+//     vikas-khabar search me nahi aayi.
+
+// NEGATIVE-CHECK (balbir-singh-verma):
+// Whitelist sroton me MLA ke KHILAF koi bhrashtachar ka aarop, FIR, adalati mamla ya aadhikarik
+// jaanch ki qualifying reporting nahi mili. RTI-ghotaala press conference me aarop UNHONE lagaya
+// tha (khud par nahi). 2014 ka purana anti-defection petition (Independent se BJP me aane par)
+// Dec 2022 se pehle ka rajnaitik mamla hai. Koi chunav-yachika sambandhi khabar nahi mili.
+// NATEEJA: koi negative entry nahi banti.
+
+// QA-NOTE: Vipaksh ke MLA ke roop me Verma ki post-2022 coverage lagbhag poori tarah maang/
+// aarop/bayaan-kendrit hai; Chopal me Dec 2022 ke baad ke bade elaan (Rs 350 cr sadak package,
+// Rs 27 cr CM release) INC sarkar/mantriyon ke hain aur unme MLA ki dastavezi bhoomika nahi
+// hai. Sifarish-par-swikriti ya MLALAD sanction list ka koi public dastavez nahi mila — isliye
+// array khaali hai. Agar DC Shimla/VKVNY ki itemized list kabhi public ho to dobara check karna
+// chahiye.
+
+// REJECT-LOG (nand-lal, Rampur SC):
+// 1. TOI "Rs 233cr infra push gives to Rampur's development a leg-up" (Oct 2026): CM Sukhvinder Singh Sukhu ne 28 projects (Rs 232.93 cr) ke udghatan/shilanyas kiye — Nand Lal karyakram me maujood the. CM/PM/mantri karyakram me sirf maujoodgi. REJECT.
+// 2. The Tribune "Himachal CM Sukhu's development push reaches Shimla's remote hills" (Oct 2026): wahi CM ka 3-divasiya daura (Rohru + Rampur, Rs 415 cr) — CM ke udghatan/shilanyas, MLA ki vyaktigat bhoomika nahi. REJECT.
+// 3. The Tribune "Himachal: Rs 15 crore released for works in Rohru, Rampur" (Oct 2026): CM ki pratibaddhta poori — funds CM ke 'Sarkar Gaon Ke Dwar' karyakram ki ghoshnaon ke khilaf jari; MLA ki bhoomika nahi. REJECT.
+// 4. The Tribune "Rampur gets Rs 165 crore projects" (2024): CM ne 25 projects ke udghatan/shilanyas kiye (Trauma Centre Khaneri, Science Block, Sports Complex Duttnagar aadi) — Nand Lal ne sirf CM ka abhaar vyakt kiya. Sirf maujoodgi. REJECT.
+// 5. Amar Ujala video "Vikas karyon ko tatparta se niptane ke nirdesh" (2025-05-13): samksha-baithak, adhikariyon ko nirdesh — koi poorn hua ya swikrit kaam ka post-event report nahi. Sirf nirikshan/samksha. REJECT.
+// 6. Amar Ujala "Nankhari bus adde ka nirman FCA manzuri se latka" (2025-05-22): Nand Lal ne van vibhag ko FCA case dobara banane ka nirdesh diya — sirf nirdesh, kaam poorn/shuru nahi. REJECT.
+// 7. Amar Ujala "LADA committee ke adhyaksh banne se khushi" (2025-07-25): sansthaagat pad par niyukti — vikas-kaam nahi. REJECT.
+// 8. Amar Ujala "MLA 24 Sept se 1 Oct tak Rampur daure par" (2026-09-23): sirf daura karyakram — koi kaam nahi. REJECT.
+// 9. Amar Ujala "Shikhardhar ke liye 6 mahine se bus nahi, vidhayak ko gyapan" (2025-11-03): congress zone ne sirf gyapan saunpa, maang uthai — sirf maang/gyapan, kaam nahi. REJECT.
+// 10. The Tribune "Govt ensuring welfare schemes reach every eligible citizen: Rampur MLA" (Oct 2025): Nand Lal ne 7th Finance Commission adhyaksh ke roop me Shimla me District Welfare Committee ki baithak li — sansthaagat samksha, Rampur kshetra ka koi vishisht poorn kaam nahi. REJECT.
+// 11. Zee News "Vikramaditya Singh ne Rampur me 5 sampark sadkon ka shilanyas" — zeenews.india.com whitelist me nahi (ye link Zee News Hindi ka hai); vaise bhi mantri ka karyakram, Nand Lal sirf saath the. REJECT.
+// 12. arbtimes.in "Rampur me 232.93 cr udghatan-shilanyas" / news4himachal.in / himachalnownews.com / himachalheadlines.com / keekli.in — chhote portal/aggregator, whitelist me nahi. Khole bina bhi invalid. REJECT (source).
+// 13. livehindustan "Interlocking sadak ka vidhayak ne kiya lokarpan" (Barabanki): vidhayak Dinesh Rawat, UP — galat vyakti/kshetra. REJECT (galat vyakti).
+// 14. adrindia.org MLA performance PDF / electionmandi / opencampaign — whitelist nahi; chunavi data/analysis, vikas-kaam nahi. REJECT.
+// 15. Negative check: whitelist sources par Dec 2022 se ab tak Nand Lal (Rampur HP) ke khilaf koi FIR, court case, ya adhikarik janch ki post-event reporting nahi mili. Jo FIR-result search me mile wo UP Rampur (Azam Khan matter) aur Rajasthan ke ek nam-rashi vyakti ke hain — galat vyakti. Halafname ke 4 purane virodh-pradarshan FIR (IPC 143/341/188/336) pre-term ke hain, charges framed nahi — negative nahi. Chunav-yachika ki koi khabar nahi. Nand Lal (UP Rampur, 2027 preview articles) se confusion ka dhyaan rakha gaya; seat Rampur (SC), HP se pehchan pakki. KOI NEGATIVE ENTRY NAHI.
+
+// Coordinator QA note (2026-10-16): sabhi 8 workers ke fragments khud padhe aur Python se hygiene-scan kiya — koi Devanagari/₹-symbol/literal-\n nahi; categories/badges/stages sabhi allowed values; dates Dec 2022-Oct 2026 window me. Har slug append se pehle file me absent tha — koi overwrite nahi. Anirudh Singh ki negative entry (Dhalli FIR, 1 Jul 2025) maine khud IE ka article kholkar verify ki hai — FIR/janch sthiti, aarop, inkar, sab stage-sach ke saath. Vikramaditya Singh ka PMLA case pre-term hai aur current-tenure development nahi mili → negative nahi banaya (Thangam Thenarasu precedent).
+
 
 // ---- Sirmaur district batch (researched: abhi nahi hua) ----
 
