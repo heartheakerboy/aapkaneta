@@ -1,0 +1,434 @@
+{
+  "state": "Uttarakhand",
+  "stateSlug": "Uttarakhand",
+  "districts": [
+    {
+      "name": "Uttarkashi",
+      "slug": "uttarkashi",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Purola (SC)",
+          "slug": "purola"
+        },
+        {
+          "n": 2,
+          "name": "Yamunotri",
+          "slug": "yamunotri"
+        },
+        {
+          "n": 3,
+          "name": "Gangotri",
+          "slug": "gangotri"
+        }
+      ]
+    },
+    {
+      "name": "Chamoli",
+      "slug": "chamoli",
+      "acs": [
+        {
+          "n": 4,
+          "name": "Badrinath",
+          "slug": "badrinath"
+        },
+        {
+          "n": 5,
+          "name": "Tharali (SC)",
+          "slug": "tharali"
+        },
+        {
+          "n": 6,
+          "name": "Karnaprayag",
+          "slug": "karnaprayag"
+        }
+      ]
+    },
+    {
+      "name": "Rudraprayag",
+      "slug": "rudraprayag",
+      "acs": [
+        {
+          "n": 7,
+          "name": "Kedarnath",
+          "slug": "kedarnath"
+        },
+        {
+          "n": 8,
+          "name": "Rudraprayag",
+          "slug": "rudraprayag"
+        }
+      ]
+    },
+    {
+      "name": "Tehri Garhwal",
+      "slug": "tehri-garhwal",
+      "acs": [
+        {
+          "n": 9,
+          "name": "Ghanshali (SC)",
+          "slug": "ghanshali"
+        },
+        {
+          "n": 10,
+          "name": "Deoprayag",
+          "slug": "deoprayag"
+        },
+        {
+          "n": 11,
+          "name": "Narendranagar",
+          "slug": "narendranagar"
+        },
+        {
+          "n": 12,
+          "name": "Pratapnagar",
+          "slug": "pratapnagar"
+        },
+        {
+          "n": 13,
+          "name": "Tehri",
+          "slug": "tehri"
+        },
+        {
+          "n": 14,
+          "name": "Dhanolti",
+          "slug": "dhanolti"
+        }
+      ]
+    },
+    {
+      "name": "Dehradun",
+      "slug": "dehradun",
+      "acs": [
+        {
+          "n": 15,
+          "name": "Chakrata (ST)",
+          "slug": "chakrata"
+        },
+        {
+          "n": 16,
+          "name": "Vikasnagar",
+          "slug": "vikasnagar"
+        },
+        {
+          "n": 17,
+          "name": "Sahaspur",
+          "slug": "sahaspur"
+        },
+        {
+          "n": 18,
+          "name": "Dharampur",
+          "slug": "dharampur"
+        },
+        {
+          "n": 19,
+          "name": "Raipur",
+          "slug": "raipur"
+        },
+        {
+          "n": 20,
+          "name": "Rajpur Road (SC)",
+          "slug": "rajpur-road"
+        },
+        {
+          "n": 21,
+          "name": "Dehradun Cantt.",
+          "slug": "dehradun-cantt"
+        },
+        {
+          "n": 22,
+          "name": "Mussoorie",
+          "slug": "mussoorie"
+        },
+        {
+          "n": 23,
+          "name": "Doiwala",
+          "slug": "doiwala"
+        },
+        {
+          "n": 24,
+          "name": "Rishikesh",
+          "slug": "rishikesh"
+        }
+      ]
+    },
+    {
+      "name": "Pauri Garhwal",
+      "slug": "pauri-garhwal",
+      "acs": [
+        {
+          "n": 36,
+          "name": "Yamkeshwar",
+          "slug": "yamkeshwar"
+        },
+        {
+          "n": 37,
+          "name": "Pauri (SC)",
+          "slug": "pauri"
+        },
+        {
+          "n": 38,
+          "name": "Srinagar",
+          "slug": "srinagar"
+        },
+        {
+          "n": 39,
+          "name": "Chaubattakhal",
+          "slug": "chaubattakhal"
+        },
+        {
+          "n": 40,
+          "name": "Lansdowne",
+          "slug": "lansdowne"
+        },
+        {
+          "n": 41,
+          "name": "Kotdwar",
+          "slug": "kotdwar"
+        }
+      ]
+    },
+    {
+      "name": "Haridwar",
+      "slug": "haridwar",
+      "acs": [
+        {
+          "n": 25,
+          "name": "Haridwar",
+          "slug": "haridwar"
+        },
+        {
+          "n": 26,
+          "name": "BHEL Ranipur",
+          "slug": "bhel-ranipur"
+        },
+        {
+          "n": 27,
+          "name": "Jwalapur (SC)",
+          "slug": "jwalapur"
+        },
+        {
+          "n": 28,
+          "name": "Bhagwanpur (SC)",
+          "slug": "bhagwanpur"
+        },
+        {
+          "n": 29,
+          "name": "Jhabrera (SC)",
+          "slug": "jhabrera"
+        },
+        {
+          "n": 30,
+          "name": "Piran Kaliyar",
+          "slug": "piran-kaliyar"
+        },
+        {
+          "n": 31,
+          "name": "Roorkee",
+          "slug": "roorkee"
+        },
+        {
+          "n": 32,
+          "name": "Khanpur",
+          "slug": "khanpur"
+        },
+        {
+          "n": 33,
+          "name": "Manglaur",
+          "slug": "manglaur"
+        },
+        {
+          "n": 34,
+          "name": "Laksar",
+          "slug": "laksar"
+        },
+        {
+          "n": 35,
+          "name": "Haridwar Rural",
+          "slug": "haridwar-rural"
+        }
+      ]
+    },
+    {
+      "name": "Pithoragarh",
+      "slug": "pithoragarh",
+      "acs": [
+        {
+          "n": 42,
+          "name": "Dharchula",
+          "slug": "dharchula"
+        },
+        {
+          "n": 43,
+          "name": "Didihat",
+          "slug": "didihat"
+        },
+        {
+          "n": 44,
+          "name": "Pithoragarh",
+          "slug": "pithoragarh"
+        },
+        {
+          "n": 45,
+          "name": "Gangolihat (SC)",
+          "slug": "gangolihat"
+        }
+      ]
+    },
+    {
+      "name": "Bageshwar",
+      "slug": "bageshwar",
+      "acs": [
+        {
+          "n": 46,
+          "name": "Kapkot",
+          "slug": "kapkot"
+        },
+        {
+          "n": 47,
+          "name": "Bageshwar (SC)",
+          "slug": "bageshwar"
+        }
+      ]
+    },
+    {
+      "name": "Almora",
+      "slug": "almora",
+      "acs": [
+        {
+          "n": 48,
+          "name": "Dwarahat",
+          "slug": "dwarahat"
+        },
+        {
+          "n": 49,
+          "name": "Salt",
+          "slug": "salt"
+        },
+        {
+          "n": 50,
+          "name": "Ranikhet",
+          "slug": "ranikhet"
+        },
+        {
+          "n": 51,
+          "name": "Someshwar (SC)",
+          "slug": "someshwar"
+        },
+        {
+          "n": 52,
+          "name": "Almora",
+          "slug": "almora"
+        },
+        {
+          "n": 53,
+          "name": "Jageshwar",
+          "slug": "jageshwar"
+        }
+      ]
+    },
+    {
+      "name": "Champawat",
+      "slug": "champawat",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Lohaghat",
+          "slug": "lohaghat"
+        },
+        {
+          "n": 55,
+          "name": "Champawat",
+          "slug": "champawat"
+        }
+      ]
+    },
+    {
+      "name": "Nainital",
+      "slug": "nainital",
+      "acs": [
+        {
+          "n": 56,
+          "name": "Lalkuan",
+          "slug": "lalkuan"
+        },
+        {
+          "n": 57,
+          "name": "Bhimtal",
+          "slug": "bhimtal"
+        },
+        {
+          "n": 58,
+          "name": "Nainital (SC)",
+          "slug": "nainital"
+        },
+        {
+          "n": 59,
+          "name": "Haldwani",
+          "slug": "haldwani"
+        },
+        {
+          "n": 60,
+          "name": "Kaladhungi",
+          "slug": "kaladhungi"
+        },
+        {
+          "n": 61,
+          "name": "Ramnagar",
+          "slug": "ramnagar"
+        }
+      ]
+    },
+    {
+      "name": "Udham Singh Nagar",
+      "slug": "udham-singh-nagar",
+      "acs": [
+        {
+          "n": 62,
+          "name": "Jaspur",
+          "slug": "jaspur"
+        },
+        {
+          "n": 63,
+          "name": "Kashipur",
+          "slug": "kashipur"
+        },
+        {
+          "n": 64,
+          "name": "Bajpur (SC)",
+          "slug": "bajpur"
+        },
+        {
+          "n": 65,
+          "name": "Gadarpur",
+          "slug": "gadarpur"
+        },
+        {
+          "n": 66,
+          "name": "Rudrapur",
+          "slug": "rudrapur"
+        },
+        {
+          "n": 67,
+          "name": "Kichha",
+          "slug": "kichha"
+        },
+        {
+          "n": 68,
+          "name": "Sitarganj",
+          "slug": "sitarganj"
+        },
+        {
+          "n": 69,
+          "name": "Nanakmatta (ST)",
+          "slug": "nanakmatta"
+        },
+        {
+          "n": 70,
+          "name": "Khatima",
+          "slug": "khatima"
+        }
+      ]
+    }
+  ]
+}
