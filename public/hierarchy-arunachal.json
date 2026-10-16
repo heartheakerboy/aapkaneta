@@ -1,0 +1,468 @@
+{
+  "state": "Arunachal Pradesh",
+  "stateSlug": "Arunachal Pradesh",
+  "districts": [
+    {
+      "name": "Tawang",
+      "slug": "tawang",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Lumla (ST)",
+          "slug": "lumla"
+        },
+        {
+          "n": 2,
+          "name": "Tawang (ST)",
+          "slug": "tawang"
+        },
+        {
+          "n": 3,
+          "name": "Mukto (ST)",
+          "slug": "mukto"
+        }
+      ]
+    },
+    {
+      "name": "West Kameng",
+      "slug": "west-kameng",
+      "acs": [
+        {
+          "n": 4,
+          "name": "Dirang (ST)",
+          "slug": "dirang"
+        },
+        {
+          "n": 5,
+          "name": "Kalaktang (ST)",
+          "slug": "kalaktang"
+        },
+        {
+          "n": 6,
+          "name": "Thrizino-Buragaon (ST)",
+          "slug": "thrizino-buragaon"
+        },
+        {
+          "n": 7,
+          "name": "Bomdila (ST)",
+          "slug": "bomdila"
+        }
+      ]
+    },
+    {
+      "name": "Bichom",
+      "slug": "bichom",
+      "acs": [
+        {
+          "n": 8,
+          "name": "Bameng (ST)",
+          "slug": "bameng"
+        }
+      ]
+    },
+    {
+      "name": "East Kameng",
+      "slug": "east-kameng",
+      "acs": [
+        {
+          "n": 9,
+          "name": "Chayangtajo (ST)",
+          "slug": "chayangtajo"
+        },
+        {
+          "n": 10,
+          "name": "Seppa East (ST)",
+          "slug": "seppa-east"
+        },
+        {
+          "n": 11,
+          "name": "Seppa West (ST)",
+          "slug": "seppa-west"
+        }
+      ]
+    },
+    {
+      "name": "Pakke Kessang",
+      "slug": "pakke-kessang",
+      "acs": [
+        {
+          "n": 12,
+          "name": "Pakke-Kessang (ST)",
+          "slug": "pakke-kessang"
+        }
+      ]
+    },
+    {
+      "name": "Papum Pare",
+      "slug": "papum-pare",
+      "acs": [
+        {
+          "n": 13,
+          "name": "Itanagar (ST)",
+          "slug": "itanagar"
+        },
+        {
+          "n": 14,
+          "name": "Doimukh (ST)",
+          "slug": "doimukh"
+        },
+        {
+          "n": 15,
+          "name": "Sagalee (ST)",
+          "slug": "sagalee"
+        }
+      ]
+    },
+    {
+      "name": "Keyi Panyor",
+      "slug": "keyi-panyor",
+      "acs": [
+        {
+          "n": 16,
+          "name": "Yachuli (ST)",
+          "slug": "yachuli"
+        }
+      ]
+    },
+    {
+      "name": "Lower Subansiri",
+      "slug": "lower-subansiri",
+      "acs": [
+        {
+          "n": 17,
+          "name": "Ziro-Hapoli (ST)",
+          "slug": "ziro-hapoli"
+        }
+      ]
+    },
+    {
+      "name": "Kra Daadi",
+      "slug": "kra-daadi",
+      "acs": [
+        {
+          "n": 18,
+          "name": "Palin (ST)",
+          "slug": "palin"
+        },
+        {
+          "n": 20,
+          "name": "Tali (ST)",
+          "slug": "tali"
+        }
+      ]
+    },
+    {
+      "name": "Kurung Kumey",
+      "slug": "kurung-kumey",
+      "acs": [
+        {
+          "n": 19,
+          "name": "Nyapin (ST)",
+          "slug": "nyapin"
+        },
+        {
+          "n": 21,
+          "name": "Koloriang (ST)",
+          "slug": "koloriang"
+        }
+      ]
+    },
+    {
+      "name": "Upper Subansiri",
+      "slug": "upper-subansiri",
+      "acs": [
+        {
+          "n": 22,
+          "name": "Nacho (ST)",
+          "slug": "nacho"
+        },
+        {
+          "n": 23,
+          "name": "Taliha (ST)",
+          "slug": "taliha"
+        },
+        {
+          "n": 24,
+          "name": "Daporijo (ST)",
+          "slug": "daporijo"
+        },
+        {
+          "n": 26,
+          "name": "Dumporijo (ST)",
+          "slug": "dumporijo"
+        }
+      ]
+    },
+    {
+      "name": "Kamle",
+      "slug": "kamle",
+      "acs": [
+        {
+          "n": 25,
+          "name": "Raga (ST)",
+          "slug": "raga"
+        }
+      ]
+    },
+    {
+      "name": "West Siang",
+      "slug": "west-siang",
+      "acs": [
+        {
+          "n": 27,
+          "name": "Liromoba (ST)",
+          "slug": "liromoba"
+        },
+        {
+          "n": 30,
+          "name": "Along West (ST)",
+          "slug": "along-west"
+        },
+        {
+          "n": 31,
+          "name": "Along East (ST)",
+          "slug": "along-east"
+        }
+      ]
+    },
+    {
+      "name": "Lower Siang",
+      "slug": "lower-siang",
+      "acs": [
+        {
+          "n": 28,
+          "name": "Likabali (ST)",
+          "slug": "likabali"
+        },
+        {
+          "n": 36,
+          "name": "Nari-Koyu (ST)",
+          "slug": "nari-koyu"
+        }
+      ]
+    },
+    {
+      "name": "Leparada",
+      "slug": "leparada",
+      "acs": [
+        {
+          "n": 29,
+          "name": "Basar (ST)",
+          "slug": "basar"
+        }
+      ]
+    },
+    {
+      "name": "Siang",
+      "slug": "siang",
+      "acs": [
+        {
+          "n": 32,
+          "name": "Rumgong (ST)",
+          "slug": "rumgong"
+        },
+        {
+          "n": 35,
+          "name": "Pangin (ST)",
+          "slug": "pangin"
+        }
+      ]
+    },
+    {
+      "name": "Shi-Yomi",
+      "slug": "shi-yomi",
+      "acs": [
+        {
+          "n": 33,
+          "name": "Mechuka (ST)",
+          "slug": "mechuka"
+        }
+      ]
+    },
+    {
+      "name": "Upper Siang",
+      "slug": "upper-siang",
+      "acs": [
+        {
+          "n": 34,
+          "name": "Tuting-Yingkiong (ST)",
+          "slug": "tuting-yingkiong"
+        },
+        {
+          "n": 40,
+          "name": "Mariyang-Geku (ST)",
+          "slug": "mariyang-geku"
+        }
+      ]
+    },
+    {
+      "name": "East Siang",
+      "slug": "east-siang",
+      "acs": [
+        {
+          "n": 37,
+          "name": "Pasighat West (ST)",
+          "slug": "pasighat-west"
+        },
+        {
+          "n": 38,
+          "name": "Pasighat East (ST)",
+          "slug": "pasighat-east"
+        },
+        {
+          "n": 39,
+          "name": "Mebo (ST)",
+          "slug": "mebo"
+        }
+      ]
+    },
+    {
+      "name": "Dibang Valley",
+      "slug": "dibang-valley",
+      "acs": [
+        {
+          "n": 41,
+          "name": "Anini (ST)",
+          "slug": "anini"
+        }
+      ]
+    },
+    {
+      "name": "Lower Dibang Valley",
+      "slug": "lower-dibang-valley",
+      "acs": [
+        {
+          "n": 42,
+          "name": "Dambuk (ST)",
+          "slug": "dambuk"
+        },
+        {
+          "n": 43,
+          "name": "Roing (ST)",
+          "slug": "roing"
+        }
+      ]
+    },
+    {
+      "name": "Lohit",
+      "slug": "lohit",
+      "acs": [
+        {
+          "n": 44,
+          "name": "Tezu (ST)",
+          "slug": "tezu"
+        }
+      ]
+    },
+    {
+      "name": "Anjaw",
+      "slug": "anjaw",
+      "acs": [
+        {
+          "n": 45,
+          "name": "Hayuliang (ST)",
+          "slug": "hayuliang"
+        }
+      ]
+    },
+    {
+      "name": "Namsai",
+      "slug": "namsai",
+      "acs": [
+        {
+          "n": 46,
+          "name": "Chowkham (ST)",
+          "slug": "chowkham"
+        },
+        {
+          "n": 47,
+          "name": "Namsai (ST)",
+          "slug": "namsai"
+        },
+        {
+          "n": 48,
+          "name": "Lekang (ST)",
+          "slug": "lekang"
+        }
+      ]
+    },
+    {
+      "name": "Changlang",
+      "slug": "changlang",
+      "acs": [
+        {
+          "n": 49,
+          "name": "Bordumsa-Diyun",
+          "slug": "bordumsa-diyun"
+        },
+        {
+          "n": 50,
+          "name": "Miao (ST)",
+          "slug": "miao"
+        },
+        {
+          "n": 51,
+          "name": "Nampong (ST)",
+          "slug": "nampong"
+        },
+        {
+          "n": 52,
+          "name": "Changlang South (ST)",
+          "slug": "changlang-south"
+        },
+        {
+          "n": 53,
+          "name": "Changlang North (ST)",
+          "slug": "changlang-north"
+        }
+      ]
+    },
+    {
+      "name": "Tirap",
+      "slug": "tirap",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Namsang (ST)",
+          "slug": "namsang"
+        },
+        {
+          "n": 55,
+          "name": "Khonsa East (ST)",
+          "slug": "khonsa-east"
+        },
+        {
+          "n": 56,
+          "name": "Khonsa West (ST)",
+          "slug": "khonsa-west"
+        },
+        {
+          "n": 57,
+          "name": "Borduria-Bogapani (ST)",
+          "slug": "borduria-bogapani"
+        }
+      ]
+    },
+    {
+      "name": "Longding",
+      "slug": "longding",
+      "acs": [
+        {
+          "n": 58,
+          "name": "Kanubari (ST)",
+          "slug": "kanubari"
+        },
+        {
+          "n": 59,
+          "name": "Longding-Pumao (ST)",
+          "slug": "longding-pumao"
+        },
+        {
+          "n": 60,
+          "name": "Pongchau-Wakka (ST)",
+          "slug": "pongchau-wakka"
+        }
+      ]
+    }
+  ]
+}
