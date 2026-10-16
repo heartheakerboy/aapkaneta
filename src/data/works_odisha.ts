@@ -221,7 +221,31 @@ odishaWorks['jayanarayan-mishra'] = [
 ];
 
 
-// ---- Deogarh district batch ----
+// ---- Deogarh district batch (researched 2026-10-16) ----
+
+odishaWorks['romanch-ranjan-biswal'] = [
+  {
+    title: 'MLA Romancha Ranjan Biswal ke February gyapan ke baad Commerce and Transport vibhag ne patra likhkar kaha — aitihasik Deogarh sarkari press band nahi hogi',
+    category: 'Any',
+    stage: 'poora hua',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/odisha/2025/May/18/historic-deogarh-government-press-to-continue-ops-odisha-commerce-and-transport-department',
+    date: '2025-05-18',
+    note: 'The New Indian Express (18 May 2025) ke mutabik Deogarh MLA Romancha Ranjan Biswal ne February me vibhag ko gyapan diya tha ki 1886 me Bamanda raja Basudev Sudhaldeb dwara sthapit aitihasik Deogarh sarkari press (Jagannath Ballabh Printing Press — Odia bhasha andolan ki gawah, jahan se Sambalpur Hiteishini akhbaar aur Gangadhar Meher-Radhanath Ray jaise sahityakaron ki kitabein chhapi) band na ho, usme adhik staff aur aadhunik machinery mile; iske jawab me Commerce and Transport vibhag ne Biswal ko patra likhkar spasht kiya ki press band karne ka koi faisla nahi hua hai, wo apne 2 karmiyon ke saath chalti rahegi aur sudhar ki kadam uthaegi. Usi patra me Tourism vibhag dwara purane Deogarh collectorate bhavan ko sangrahalaya banane ki Rs 4.93 crore ki prashasnik swikriti ka bhi zikr hai — ye rajya sarkar ka apna faisla hai, MLA ki swikriti nahi, isliye uska shrey MLA ko nahi diya ja raha. Biswal ka gyapan aur vibhag ka unhe seedha likhit jawab milna hi is entry ka praman hai — sawaal/maang par documented prashasnik parinam ki pahal-entry, credit sakhti se capped.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Sadan me Speaker ke manch par chadhne ke aarop par Vidhan Sabha ne MLA Romancha Ranjan Biswal ke khilaf ninda-prastav pass kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI)',
+    sourceUrl: 'https://theprint.in/india/odisha-assembly-adopts-censure-motion-against-2-bjd-mlas/2237266/?amp',
+    date: '2024-08-24',
+    note: 'ThePrint (PTI, 24 Aug 2024) ke mutabik Odisha Vidhan Sabha ne BJD ke do virodhi vidhayakon — Deogarh MLA Romancha Ranjan Biswal aur Madhab Dhada — ke khilaf ninda-prastav pass kiya, jo Speaker Surama Padhy ka apmaan karne ke aarop me tha: Government Chief Whip Saroj Pradhan ne prastav rakha ki dono ne sadan me virodh ke dauran anya sadasyon ki madad se Speaker ke manch par chadhne ki koshish ki (Pradhan ka dawa: chappal pehenkar desk par baithne ki koshish — mahila Speaker ka apmaan); prastav dhvani-mat se pass hua. Virodh Ganjam sharaab-maut mamle par tha, jisme BJD Excise Minister ke istife ki maang kar rahi thi. Biswal ka jawab: vipaksh ne aaropon ko kharij kiya — BJD MLA Ganeswar Behera ne kaha virodh nakli sharaab ki mauton par tha aur sarkar ke khilaf tha, Speaker ke khilaf nahi, aur ye dhyaan bhatkane ki chaal hai. Shrey-spashtikaran: ye kaam ka dawa NAHI, balki sadan ke aadhikarik ninda-prastav ki negative reporting hai — ECI/SEC reprimand-order wale niyam par rakhkar prastav-pass ko hi negative mana gaya, chunav-yachika jaisa kuch nahi.',
+    period: '2024-2029',
+  },
+];
 
 // ---- Keonjhar district batch ----
 
@@ -292,3 +316,17 @@ odishaWorks['jayanarayan-mishra'] = [
 // prasanna-acharya (Rairakhol, BJD vipaksh, veteran):
 // R1. Tathya.in "Pradhan Boosts Rairakhol Health" — Pradhan ka event, sirf maujood + non-whitelist. R2. Bhima Mandali shilanyas — Pradhan ka event, maujoodgi + non-whitelist. R3. Rairakhol SDH dialysis — Pradhan ne inaugurate kiya. R4. Sambad English Assembly sawal — sawal rule. R5. Orissa POST paddy procurement Zero Hour — maang. R6. OTV political tipanni — kaam nahi. R7. Orissa POST Pradhan→Gadkari bypass letter — Pradhan ka kaam. R8. Campaign backlash — pre-term. R9. Ram Mandir probe maang — kshetra-bahar. R10. Goa TOI "Prasanna Acharya" — galat vyakti. PROFILE: 0 entries (khaali).
 // STATE-WIDE RETRY LEAD: MLALADS portal (mlalads.odisha.gov.in) network se unreachable — suchi milte hi sarkari-badge sweep possible hoga.
+
+// ---- Deogarh district REJECT-LOG (researched 2026-10-16) ----
+// romanch-ranjan-biswal (Deogarh, BJD — 1 hi MLA is jile me): 2 PASS.
+// R1. CM Mohan Majhi ke Rs 205cr/15 projects (Jun 2025, 300-bed hospital sahit) — MLA sirf maujood + 15-point charter = maang (TNIE/Orissa POST, maujoodgi+maang reject).
+// R2. Union Minister Dharmendra Pradhan ke 124 projects Rs 280cr (Apr 2026, KV campus Rs 31.40cr sahit) — MLA sirf maujood (TNIE/OTV; maujoodgi reject).
+// R3. Budhapal coal-transport road blockade (Pragativadi, ~May 2026) — MLA netritva me virodh pradarshan, virodh/vikas-kaam nahi (protest rule).
+// R4. Balighat worker death par SH-10 road blockade (Pragativadi, Jun 2026) — MLA protest me shamil; muaawza/hatya ki maang — vikas-kaam nahi.
+// R5. Jhara Kandhal road delay par public hearing disrupt (Pragativadi) — virodh, MLA shamil nahi bhi; reject.
+// R6. "Debagarh like Darjeeling" bayan (aadyashatimes.in, Aug 2026) — sirf bayan + non-whitelist srot.
+// R7. Arundhati Devi ticket replacement (Apr 2024) — chunav-khabar, kaam nahi.
+// NAMESAKE TRAP (documented): CBI chit-fund giraftari/ED attachment wale "Biswal" Pravat Ranjan Biswal (Cuttack-Choudwar ex-MLA) hain — Deogarh wale Romancha Ranjan Biswal se KOI sambandh nahi; negative kabhi nahi banna chahiye.
+// NEGATIVE ENTRY (1 darj): Vidhan Sabha ninda-prastav 24 Aug 2024 (ThePrint-PTI) — sadan ke aadhikarik ninda-prastav ko reprimand-order niyam par negative mana; Biswal ka jawab darj (virodh sharaab-mauton par tha, Speaker ke khilaf nahi).
+// FOUNDATION CORRECTION: koi nahi (Romanch Ranjan Biswal, BJD, Deogarh, 2024-2029 — post sirf MLA, koi mantri-pad nahi).
+// RETRY LEAD: MLALADS portal (state-wide); MLA ke vyaktigat lokarpan/shilanyas ki whitelisted coverage mile to entry banegi (ab tak sirf maujoodgi milti hai).
