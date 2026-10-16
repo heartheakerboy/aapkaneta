@@ -158,7 +158,7 @@ export const himachalNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Himachalpradesh2022/candidate.php?candidate_id=137',
       backgroundNote: 'Speaker, Himachal Pradesh Vidhan Sabha (Jan 2023 se) Speaker ki pehchan pakki hai: Kuldeep Singh Pathania 2022 me Bhattiyat se INC ke ticket par jeete aur Jan 2023 se HP Vidhan Sabha ke Speaker hain (ye baat news reports se cross-check hui). 2022 halafname wale MyNeta page ka header render nahi hua, isliye umar aur pita ka naam us page se verify nahi ho saka — pehchan aur figures ADR ki winners list se li hain (1 criminal case, Graduate Professional, Rs 8,63,30,489 assets / Rs 15,74,346 liabilities). Umar ka andaza nahi lagaya gaya (2007 ke MyNeta page par umar 50 thi, lekin 2022 ka figure confirm nahi hai), isliye age khaali chhodi hai.',
     },
-    electionNote: '2022 Vidhan Sabha chunav me Bhattiyat se jeete: 25,989 votes. Runner-up Bikram Singh Jaryal (Bharatiya Janata Party) 24,422 votes. Margin 1,567.',
+    electionNote: '8 Dec 2022 ko ghoshit Himachal Pradesh vidhansabha chunav (12 Nov 2022 ko matdan) me Nurpur se jeete — 44,132 votes; runner-up Ajay Mahajan (Indian National Congress) 25,380 votes; jeet ka antar 18,752 votes.',
   },
   {
     slug: 'ranbir-singh',
@@ -481,7 +481,7 @@ export const himachalNetas: Neta[] = [
   },
   {
     slug: 'kewal-singh',
-    name: 'Kewal Singh',
+    name: 'Kewal Singh Pathania',
     party: 'Indian National Congress',
     partyShort: 'INC',
     post: 'MLA',
@@ -506,7 +506,7 @@ export const himachalNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/HimachalPradesh2022/candidate.php?candidate_id=111',
       backgroundNote: 'MyNeta winners list me naam Kewal Singh darj hai; Post Graduate; koi criminal case nahi; Shahpur seat se pehli baar MLA.',
     },
-    electionNote: '8 Dec 2022 ko ghoshit Himachal Pradesh vidhansabha chunav (12 Nov 2022 ko matdan) me jeete — 36,603 votes; runner-up Sarveen Choudhary (Bharatiya Janata Party) 24,360 votes; jeet ka antar 12,243 votes.',
+    electionNote: '8 Dec 2022 ko ghoshit Himachal Pradesh vidhansabha chunav (12 Nov 2022 ko matdan) me jeete — 36,603 votes; runner-up Sarveen Choudhary (Bharatiya Janata Party) 24,360 votes; jeet ka antar 12,243 votes. Jul 2024 se Congress ke Deputy Chief Whip bhi hain.',
   },
   {
     slug: 'sudhir-sharma',
