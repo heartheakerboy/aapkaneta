@@ -917,6 +917,76 @@ odishaWorks['sarada-prasanna-jena'] = [];
 // ---- Puri district batch ----
 
 // ---- Khordha district batch ----
+// Khordha district (researched 2026-10-16): 8 seats. Entries 4 — Ananta Narayan Jena (Bhubaneswar Central) 2, Naba Kishor Mallick (Jayadev) 1, Babu Singh (Ekamra-Bhubaneswar) 1; Rout (Bhubaneswar North), Balabantaray (Jatani), Sahu (Begunia), Jagadev (Khurda), Harichandan (Chilika) imaandari se khaali. Rajdhani trap sakhti se laga — CM/mantri ke saare rajdhani-stariya karyakram MLA-shrey se bahar.
+
+odishaWorks['ananta-narayan-jena'] = [
+  {
+    title: 'Satyanagar (Toshali Plaza ke paas) me BMC ke naye modern public toilet ka udghatan — MLA Ananta Narayan Jena ne khola',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/bmc-inaugurates-3-modern-public-toilets/',
+    date: '2025-07-10',
+    stage: 'lokarpan',
+    note: 'Orissa POST (published 10 Jul 2025) ki post-event report ke mutabik Bhubaneswar Municipal Corporation (BMC) ne shahar ke 3 sthanon par 3 naye modern public toilets ka udghatan kiya. Dusri suvidha Toshali Plaza, Satyanagar ke paas "opened ... by Bhubaneswar-Central MLA Ananta Narayan Jena" — yani udghatan-karta ke roop me MLA Jena ka seedha naam. Shrey-spashtikaran: project BMC ka hai, fund ka srot nahi bataya; MLA ki udghatan-bhoomika documented hai, isliye ye seat me hua documented lokarpan hai. Date: report me udghatan ka sahi din nahi diya ("recently inaugurated"), isliye prakashan-tithi 2025-07-10 li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kasturba School ke paas, Ward 37 me naye public toilet ka udghatan — udghatan-phalak par sirf MLA Ananta Narayan Jena ka naam',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Odisha TV',
+    sourceUrl: 'https://odishatv.in/news/odisha/bhubaneswar-mp-s-missing-name-from-inaugural-plaque-triggers-tension-252773',
+    date: '2025-01-05',
+    stage: 'lokarpan',
+    note: 'Odisha TV (5 Jan 2025) ki post-event report ke mutabik Kasturba School ke paas, Ward 37 (Bhubaneswar Central seat ke andar) me ek naye public toilet ka udghatan hua; udghatan-phalak par "only the name of the Member of the Legislative Assembly (MLA), Ananta Narayan Jena, featuring prominently" — udghatan-bhoomika falak par naam se pramanit hai. MP Aparajita Sarangi ka naam phalak par na hone se sthaniya virodh hua, lekin ye vivad negative nahi hai (koi jaanch/FIR nahi). Report executing agency ya fund ka srot nahi batati.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['naba-kishor-mallick'] = [
+  {
+    title: 'Green cover badhane aur plastic-mukt banne wali panchayaton ko MLA fund se atirikt sahayta ki ghoshna — Gadashrirampur me Climate Panchayat karyakram',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Sambad English',
+    sourceUrl: 'https://sambadenglish.com/latest-news/panchayats-that-increase-green-cover-to-get-more-funds-from-govt-jayadev-mla-at-climate-panchayat-event-by-sambad-12544408',
+    date: '2026-09-17',
+    stage: 'ghoshna',
+    note: 'Sambad English ki 17 Sep 2026 ki report ke mutabik Jayadev ke vidhayak Naba Kishor Mallick ne Gadashrirampur me "Sambad Ama Odisha" ke Climate Panchayat karyakram me ghoshna ki ki jo panchayatein ped lagakar green cover badhayengi aur plastic-mukt banengi, unhe vidhayak ke local area development fund se atirikt aarthik sahayta di jayegi; har panchayat me 100 paudhe lagane ka vaada. Shrey-spashtikaran: ye abhi sirf MLA ki ghoshna hai — koi sarkari GO ya sanction suchi saamne nahi aayi, isliye badge dawa hai.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['babu-singh'] = [
+  {
+    title: 'Old Town (Ekamra Kshetra) me Kaligadia aur Garabadu shamshan ghat ke punarnirman ka shilanyas — MLA Babu Singh ne rakhi neev, BDA karega kaam',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/bda-to-redevelop-2-crematoriums/',
+    date: '2025-10-24',
+    stage: 'shilanyas',
+    note: 'Orissa POST ki post-event report ke mutabik Ekamra-Bhubaneswar ke MLA Babu Singh ne Old Town me Kaligadia aur Garabadu ke do shamshan ghat ke punarnirman ki foundation stones rakhin (Sambad English ne bhi alag post-event reporting ki). Bhubaneswar Development Authority (BDA) project ko execute karegi — Kaligadia ka anumanit kharch Rs 2.21 crore aur Garabadu ka Rs 1.85 crore. Shrey-spashtikaran: ye BDA ka state-agency project hai — entry seat-MLA ke vyaktigat shilanyas ki hai, fund ka dawa nahi; koi sarkari GO/portal suchi media me saamne nahi aayi, isliye badge news hai. Date: Orissa POST page par event "Friday" likha hai (prakashan 2025-10-25), 24 Oct 2025 ko Friday tha.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['susant-kumar-rout'] = [];
+odishaWorks['bibhuti-bhusan-balabantaray'] = [];
+odishaWorks['pradip-kumar-sahu'] = [];
+odishaWorks['prasanta-kumar-jagadev'] = [];
+odishaWorks['prithviraj-harichandan'] = [];
+
+// REJECT-LOG (Khordha district, researched 2026-10-16):
+// - Ananta Narayan Jena: Saheed Nagar crèche udghatan kshetra-bahar (Ward 30 = Bhubaneswar North); Chunav-yachika SC ne kharij ki (OTV) — akeli negative nahi; metro-scrap virodh-bayan (TNIE); pre-term mayor-era kaam (2018-2024) sab reject; reporterspen asatyapit aarop (non-whitelist).
+// - Naba Kishor Mallick: RS cross-voting nilamban = party-karwai (negative nahi, disclosure foundation me); Balianta grid-substations me maujoodgi (non-whitelist); Jayadev Pitha Rs 7cr CM ka shilanyas; Jaydev Vihar–Nandankanan corridor kshetra-bahar.
+// - Babu Singh: Kalinga Studio, 1,608 affordable homes, Ayurvedic hospital, BDA TP schemes, CRUT, double-decker bus — sab CM/mantri ke karyakram me maujoodgi; Ekamra Project "Shivaratri se pehle poora hoga" = karenge khabar; halafname ke 4 purane cases — Jun 2024+ me nayi FIR nahi.
+// - Susant Kumar Rout: Bharatpur Nature Park udghatan pre-term (14 Mar 2024); Nandankanan events me Forest Minister ne kiya, Rout guest of honour; metro/secretariat corridor CM ke.
+// - Balabantaray (Jatani): MP Sarangi ke Rs 18cr water + Rs 12cr roads shilanyas me naam tak nahi; Homi Bhabha Cancer Hospital + SiCSem CM ke; IIT/NISER kendra ke; Pranab Balabantaray (Dharmasala poorv MLA) galat vyakti.
+// - Pradip Sahu (Begunia): Rs 118cr Begunia bypass MP Sarangi ki MoRTH pehl; CM industrial event maujoodgi; 100-bedded SDH pre-term.
+// - Jagadev (Khurda): EVM vandalism giraftari 26 May 2024 pre-term; 2022 cases pre-term; CM events maujoodgi.
+// - Harichandan (Chilika, Law Minister): sab coverage mantri-level; Sambad English zameen-aarop khandan-sahit bina-pusht-jaanch (negative nahi); Saraswati report mamle me aarop-lagane wale, aaropi nahi.
 
 // ---- Nayagarh district batch ----
 

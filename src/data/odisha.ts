@@ -3231,7 +3231,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=726',
       backgroundNote: 'Naba Kishor Mallick (BJD) Jayadev (SC) seat se Odisha ke MLA hain. 2019 me ve Jayadev se nirdaliya (IND) ladhe the aur BJD ke Arabinda Dhali se haare the; 2024 me BJD se ladkar jeete. Unke khilaf koi aapradhik mamla darj nahi hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Jayadev se jeete: 76,790 votes. Runner-up Arabinda Dhali (BJP) 55,317 votes. Margin 21,473.',
+    electionNote: '2024 Vidhan Sabha chunav me Jayadev se jeete: 76,790 votes. Runner-up Arabinda Dhali (BJP) 55,317 votes. Margin 21,473. 21 Mar 2026 ko BJD ne Rajya Sabha chunav me cross-voting aur party-virodhi gatividhiyon ke aarop par Naba Kishor Mallick ko 5 anya MLAon ke saath party se nilambit kar diya (TNIE/Indian Express). Speaker ne 19 Jun 2026 ko unke khilaf ayogyata-yachika kharij kar di (BJD High Court gaya hai). Party record BJD hi hai — nilamban party ki aantarik karwai hai, seat/party-sthiti me koi badlav nahi.',
   },
   {
     slug: 'ananta-narayan-jena',
