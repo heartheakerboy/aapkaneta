@@ -246,3 +246,57 @@ uttarakhandWorks['anil-nautiyal'] = [
 // 8. webindia123 (14 Sep 2025) — CM se courtesy visit + maangen — sirf maang/aashwasan, koi dastaveji nateeja nahi.
 // 9. Simli base-hospital padayatra (uttarakhand-update.com, 12 Oct 2026) — non-whitelist; aashvasan poora nahi hua.
 // NEGATIVES (Nautiyal): established media me koi FIR/janch wala lead nahi mila.
+
+// ---- Rudraprayag district batch (researched 2026-10-17) ----
+// PARENT REVIEW (2026-10-17): worker ki 7 entries me se 3 hatayi — Chaudhary ki teeno shasanadesh entries
+// (Jaily-Taila-Mehargaon sadak, Bachhansyun additional PHC, Purvi Bangar pashu-chikitsa kendra): ye CM-ghoshna
+// par jaari sarkari shasanadesh ki MLA dwara keval jaankari thi, MLA ki koi dastavezi pahal/lokarpan nahi —
+// ghoshna-class, isliye reject. Batch kul = 4 entries.
+
+uttarakhandWorks['bharat-singh-chaudhary'] = [
+  {
+    title: 'Bachhansyun kshetra ke teen sarkari schools me karib Rs 1.8 crore ki yojnaon ka lokarpan aur shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 22 May 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/rudraprayag/inauguration-and-foundation-stone-laying-of-projects-worth-rs-18-crore-for-three-schools-rudraprayag-news-c-52-1-sdrn1032-112908-2025-05-22',
+    date: '2025-05-22',
+    note: 'GIC Bada me Rs 46 lakh ki prayogshala bhavan ka lokarpan; GIC Barsudi me Rs 36 lakh ke do kakshakakshon aur GIC Khedakhal me Rs 26 lakh ki smart class ka shilanyas. Kul Rs 1.8 crore ki yojnaayein. Fund ka source article me disclosed nahi — sarkari school-infra; Vidhayak Nidhi se nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jakholi me REAP ke tahat karib Rs 55 lakh ki ajeevika yojnaon ka shilanyas aur lokarpan — cabinet mantri ke roop me apni seat me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 24 Sep 2026',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/rudraprayag/jakholi-gifted-an-agri-business-center-restaurant-and-collection-center-rudraprayag-news-c-52-1-rpg1007-121164-2026-09-24',
+    date: '2026-09-24',
+    note: 'Agri-business centre ka bhoomipujan/shilanyas; mahila swayam sahayata samoohon ke restaurant-cafe aur krishi-audyanik utpadon ke collection centre ka lokarpan. REAP/NRLM ke tahat rajya sarkar ki yojna — rajya-stariya vibhagiya faisla nahi; 20 Mar 2026 se cabinet mantri (Gram Vikas, Laghu evam Sukshm Udyam, Khadi evam Gramodyog) ke roop me apni Rudraprayag seat (Jakholi block) me kiya gaya seat-stariya lokarpan/shilanyas.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (bharat-singh-chaudhary): Musaadung-Pali road shilanyas (zeenews, non-whitelist + protest) reject; Randhar-Badhanital-Baksir-Chenagad PMGSY Rs 23.77cr uddghatan (ETV Bharat, non-whitelist) reject — retry lead; Sem-Dungri road Rs 1.51cr (ETV Bharat) reject — retry lead; Bhardar 4 sadak Rs 65+cr (non-whitelist) reject — retry lead; Tilwara peyjal Rs 39.86cr SASCI (uttarakhand24x7) reject; Nauli sadak Rs 28.27L (uttarakhand24x7) reject; 4 sadak damrikaran Rs 3.40cr (tehelkauk) reject; Launga samudayik bhavan Vidhayak Nidhi Rs 4L (abitfar) reject — retry lead; Madola chauk (uttarakhandsamachar) reject; Vasudev mandir Rs 23L (pre-term 2021) reject; Kailash Bangar school lokarpan + Rs 5L ghoshna (rnsindianews, non-whitelist + ghoshna) reject; Nagrasu-Kot-Jasoli marg Rs 4.15cr sirf prastav/aaganan reject; SBI RSETI uddghatan (public.app, bank CSR) reject; school toilets Rs 1cr (newsonair, non-whitelist, koi lokarpan nahi) reject; Harak Singh ko chunauti (political bayanbazi) reject; Mahilaon ka shikayati patra Tilni truck hadsa (ETV Bharat Oct 2025, bina FIR) — negative nahi; Lasya Kauthig/Bachhansyun mele (mukhya-atithi + Rs 1.5L ghoshna) reject; viral audio (YouTube) reject; CM events maujoodgi reject; Kargil Vijay Diwas chief-guest reject; teeno shasanadesh entries (Jaily-Taila sadak, Bachhansyun PHC, Purvi Bangar pashu kendra) parent-review me reject — CM-ghoshna ki keval jaankari, MLA ki pahal nahi.
+
+uttarakhandWorks['asha-nautiyal'] = [
+  {
+    title: 'Jagtoli (Dashjula) me Rs 98.72 lakh ki lagat se banne wale mini stadium ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 27 Jan 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/rudraprayag/kedarnath-mla-laid-foundation-stone-of-mini-stadium-in-jagtoli-rudraprayag-news-c-5-1-drn1019-604830-2025-01-27',
+    date: '2025-01-27',
+    note: 'Kedarnath vidhayak Asha Nautiyal ne Dashjula ke Jagtoli me Rs 98.72 lakh ki lagat se banne wale mini stadium ka vyaktigat shilanyas kiya (Rajkiya Inter College Kandai Dashjula me Gantantra Diwas samaroh ke avsar par). Stadium me 200 m daud ke liye 6-lane track, kabaddi, kho-kho, volleyball aur football court ke saath shauchalay, store aur darshak bench banenge. Stage: shilanyas (karyarambh). Disclosure: vidhayak ne khud kaha ki yeh stadium mukhyamantri Pushkar Singh Dhami ki ghoshna ka parinam hai — swikriti CM ghoshna se, unki bhoomika shilanyas-charan me.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kalimath-Kotma-Jal-Chaumasi motor marg ke Rs 3.75 crore damrikaran-sudharikaran kary ka Kabyltha me bhumipujan-shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran, 16 Oct 2026',
+    sourceUrl: 'https://www.jagran.com/uttarakhand/rudraprayag-kalimath-kotma-road-improvement-3-cr-sanctioned-in-rudraprayag-40406544.html',
+    date: '2026-10-15',
+    note: 'Namesake-trap cleared: Dainik Jagran aur Amar Ujala DONO ne poore naam se "Kedarnath vidhayak Asha Nautiyal" likha hai; kshetra Kalimath ghati, Rudraprayag (Kedarnath seat) hai — Karnaprayag ke Anil Nautiyal se sambandhit nahi. Asha Nautiyal ne Kalimath-Kotma-Jal-Chaumasi motor marg ke damrikaran evam sudharikaran kary (lagat ~Rs 3.75 crore) ka Kabyltha me vidhivat bhumipujan karke nirman kary ka shubharambh kiya; mauke par PWD ke adhishasi abhiyanta Indrajeet Bose, jyeshth pramukh Rakesh Negi sahit sthaniya pratinidhi maujood the. Labhanvit gaon: Kalimath, Kaviltha, Kotma, Khunnu, Jaltalla, Jal Malla, Chaumasi. Stage: bhumipujan/karyarambh. Disclosure: yeh vibhagiya sadak yojna hai — swikriti me vidhayak ki vyaktigat bhoomika ka dastavezi saboot article me nahi; unki kendriya bhoomika shubharambh-charan me hai, isliye entry rakhi hai.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (asha-nautiyal): Gaurikund taptkund punaruddhar Vidhayak Nidhi Rs 15L (rajyasameeksha, non-whitelist) reject — retry lead; Tala-Barangali marg Rs 3.16cr bhumipujan (divyapahad/YouTube, non-whitelist) reject — retry lead; Unnati Cluster bhawan lokarpan Kaviltha (pahadraftar, non-whitelist) reject — retry lead; Mavdhar-Chamak sadak Rs 67.10L (jaltarashtra) reject; Evergreen school bhawan lokarpan (nayaadhyay) reject; CM mulaqat 4 Oct 2026 (maang hi, nateeja nahi) reject; Nagrasu-Kot-Jasoli marg Rs 4.15cr (MLA ki koi bhoomika nahi) reject; BPCL Hospital udghatan maujoodgi reject; kapat-khulna/mahashivratri karyakram maujoodgi reject; sheetkaleen yatra shubharambh maujoodgi reject; Dilmi school punah-sanchalan (bayan hi, ETV Bharat non-whitelist) reject; non-Hindu pravesh pratibandh maang (HT/Telegraph, political demand) reject; Basukedar aapda controversy (rahat vitaran) reject; viral misleading video par police patra (MLA khud complainant) — negative nahi; BKTC donation/RTI hospitality row (FIR suspended employee par; MLA aaropi nahi, denial diya) — negative nahi, watchlist (BKTC committee janch chal rahi hai).

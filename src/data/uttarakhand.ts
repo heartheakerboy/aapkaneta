@@ -255,7 +255,7 @@ export const uttarakhandNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=92',
       backgroundNote: 'Pehchan pakki: Bharat Singh Chaudhary, BJP, Rudraprayag (AC 8). Age 62, S/o swargiya Chautan Singh Chaudhary; BA, Garhwal University (1979). Dhami sarkar me cabinet mantri; 2022 me jeete. Koi aapradhik mamla nahi.',
     },
-    electionNote: '2022 Vidhan Sabha chunav me Rudraprayag se BJP ke ticket par jeete: 29,660 votes. Runner-up Pradeep Thapliyal (INC) — 19,858 votes. Margin 9,802. 14 Feb 2022 ko hue aam chunav me jeete (natija 10 Mar 2022). Runner-up votes margin se vyutpann (29,660 - 9,802). 20 Mar 2026 ko cabinet vistar me pehli baar mantri bane.',
+    electionNote: '2022 Vidhan Sabha chunav me Rudraprayag se BJP ke ticket par jeete: 29,660 votes. Runner-up Pradeep Thapliyal (INC) — 19,858 votes. Margin 9,802. 14 Feb 2022 ko hue aam chunav me jeete (natija 10 Mar 2022). Runner-up votes margin se vyutpann (29,660 - 9,802). 20 Mar 2026 ko cabinet vistar me pehli baar mantri bane — portfolio (official suchi, 22 Mar 2026): Gram Vikas (Village Development), Laghu evam Sukshm Udyam (Small and Micro Enterprises), Khadi evam Gramodyog (Khadi and Village Industries).',
   },
   {
     slug: 'shakti-lal-shah',
