@@ -2506,7 +2506,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=348',
       backgroundNote: 'Saroj Kumar Pradhan (BJP) Boudh seat se Odisha ke MLA hain. Unke khilaf 5 aapradhik mamle hain — Boudh PS ke FIR 89/2019, 29/2019, 19/2018, 305/2017 aur 33/2019 (26 Feb 2024 ko charge framed hua).',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Boudh se jeete: 62,494 votes. Runner-up Pradip Kumar Amat (BJD) 59,729 votes. Margin 2,765.',
+    electionNote: '2024 Vidhan Sabha chunav me Boudh se jeete: 62,494 votes. Runner-up Pradip Kumar Amat (BJD) 59,729 votes. Margin 2,765. 22 Jul 2024 se sarkar ke mukhya sachetak (Govt Chief Whip) hain — sadan/party ke sansthaagat pad ki gatividhi vikas-kaam nahi maani jati.',
   },
   {
     slug: 'bijaya-kumar-dalabehera',

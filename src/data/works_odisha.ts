@@ -784,7 +784,30 @@ odishaWorks['uma-charan-mallick'] = [];
 odishaWorks['prafulla-chandra-pradhan'] = [];
 odishaWorks['chakramani-kanhar'] = [];
 
-// ---- Boudh district batch ----
+// ---- Boudh district batch (researched 2026-10-16) ----
+// Coordinator QA: Pradhan negative KEPT (complaint + CJM Boudh cognizance 2 Feb + Orissa HC 20 Apr time + 25 Sept bailable warrant + MLA reply = vartaman-tenure criminal proceeding, stage-accurate; TNIE/OrissaPOST/UNI pages khud khole-padhhe, HT/Pragativadi corroboration); Danga 0 entries — 18 searches, koi whitelisted post-event works-report nahi. Govt Chief Whip disclosure Pradhan ke electionNote me (odisha.ts) joda.
+
+odishaWorks['saroj-kumar-pradhan'] = [
+  {
+    title: 'Boudh MLA aur sarkari mukhya sachetak Saroj Kumar Pradhan ke khilaf 2024 chunaav halafnama me galat tathyon ke aarop par Boudh adalat ne jamanati warrant jaari kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/odisha/2026/Sep/27/warrant-against-boudh-mla-in-poll-affidavit-case',
+    date: '2026-09-27',
+    note: '27 September 2026 ko The New Indian Express, Hindustan Times, Orissa POST (UNI) aur Pragativadi English ne report kiya ki Boudh ki SDJM adalat ne Boudh MLA aur sarkari mukhya sachetak Saroj Kumar Pradhan ke khilaf jamanati warrant jaari kiya. Shikayat poorv Assembly Speaker aur BJD neta Pradip Kumar Amat ne di — aarop hai ki Pradhan ne 2024 Assembly chunaav ke halafname me galat tathya diye aur tathya chhupaye. Court ne 2 February ko Section 125(A) of the Representation of the People Act, 1951 aur Sections 318(1) aur 336(3) of the Bharatiya Nyaya Sanhita, 2023 ke tehat sangyan liya. Pradhan ne Orissa High Court me chunauti di; High Court ne 20 April ko 12 hafte ki mohlat di, jiske 7 September ko khatm hone ke baad mamla 7 aur 18 September ko phir tala. 18 September ko court ne "last opportunity" di thi; 25 September ko Pradhan pesh nahi hue to jamanati warrant jaari hua aur mamla 15 October ko pesh hone ke liye laga. Pradhan ka jawab: unhone kaha Assembly session chal raha tha isliye order ki detail nahi dekh paye, aur Supreme Court ke nirdeshon ke mutabik sitting MLA ke mamle zila ki regular court me nahi chal sakte — Boudh ke mamlo ke liye Angul me special court nirdharit hai. Ye chunav-yachika nahi, criminal complaint par sangyan + warrant ki vartaman-tenure karyavahi hai. (TNIE + Orissa POST/UNI, post-event reporting, 27 Sep 2026)',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['kanhai-charan-danga'] = [];
+
+// ---- Boudh district batch REJECT-LOG (2026-10-16) ----
+// Pradhan (saroj-kumar-pradhan, Boudh, BJP — Govt Chief Whip): works entries 0 (khaali), 1 negative (upar, warrant case). Rejects: Hiranchal Live YouTube (MLA+MP June-2026 foundation stones, non-whitelist); urbanacres CM-review (sirf attendee); namesake trap — Tourism Dept ke Additional Secretary "Saroj Kumar Pradhan" (alag adhikari, Puri event, galat vyakti); findglocal millet festival (ceremonial, non-whitelist); tathya.in sports stadium (minister ka karyakram); aroundodisha new DHH (MLA ka role nahi); OTV Nayagarh-Boudh rail (sirf participant); OTV Manamunda Tel-bridge (MLA ka zikr nahi); TNIE Jan 2020 Rs 114cr + OrissaPOST Naveen DHH (pre-term, Amat-era); odishabytes PM event (PM/CM ka kaam); OTV 100 drinking water (Naveen-era, pre-term); R17 monsoon-session statement (rajneetik bayan); myneta "5 cases" (raw data, negative nahi). Namesake safety: Saroj Meher (Patnagarh), "Saroj Padhi" (KIIT), Susanta Kumar Pradhan (2019 runner-up) — sab alag vyakti.
+// Danga (kanhai-charan-danga, Kantamal, BJP): 0 entries — 18 searches + Kalinga TV page khud padha; Jun 2024+ ki koi whitelisted post-event lokarpan/shilanyas/swikriti/poora-kaam khabar nahi. Rejects: Kalinga TV/TNIE 7-8 Jun 2025 CM Sonepur 56-projects (CM ka karyakram, kshetra-bahar); newshubodisha TPSODL link-line lokarpan (non-whitelist, retry lead); OTV Tel-erosion quote = poorv MLA Mahidhar Rana (pre-term); Kalinga TV KISS-Boudh + OrissaPOST Khairamal ISS (pre-term); thenewshashtag CM review (non-whitelist + maujoodgi); YouTube DPC-chairman (niyukti, kaam nahi); OTV election-day violence + re-polling (pre-term); argus haathi-sawal (non-whitelist, sawal akele); HT/TNIE warrant khabar = Boudh seat ka mamla (galat vyakti); OTV ganja-arrest (poorv MLA ke nikatvarti, sambandh nahi); OTV CHC doctor-demand (MLA ki bhoomika nahi); PPMS order-sheets (MLA-attribution nahi); myneta "4 cases" (raw data). Namesake traps: Sudhansu Danga (independent), Manoj Pradhan (G Udayagiri), Kanhei Charan Das — sab alag vyakti.
+// Foundation correction: Saroj Kumar Pradhan 22 Jul 2024 se Govt Chief Whip hain (Kalinga TV, whitelisted) — odisha.ts electionNote me disclosure joda.
+// Retry leads (state-wide + jila): mlalads.odisha.gov.in (connection reset — network se nahi khulta); Hiranchal Live June-2026 foundation-stone event par whitelisted post-event report; naya 300-bed DHH Boudh par whitelisted report me MLA ka documented role; Danga ke TPSODL link-line lokarpan par whitelisted coverage; warrant case me 15 Oct production ke baad follow-up.
+// ---- Boudh district batch END ----
 
 // ---- Cuttack district batch ----
 
