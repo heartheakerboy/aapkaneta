@@ -1795,3 +1795,128 @@ uttarakhandWorks['mayukh-mahar'] = [
 // 11. Shaheed dwar udghatan samaroh — non-whitelist srot + samaroh class.
 // 12. Whatsapp gali-galauj message jaanch (Amar Ujala, ~2015) — vidhayak shikayatkar paksh (aaropi nahi) + pre-term.
 // NEGATIVE-CHECK: "Shamsher Singh Mahar" giraftari — namesake, vidhayak nahi. Party-anushasan notice — non-whitelist + bina FIR. Jan 2025 mayoral vivaad — party-vivad, negative class nahi. Koi negative nahi bana.
+
+// ---- Bageshwar district batch (researched 2026-10-17) ----
+uttarakhandWorks['parwati-dass'] = [
+  {
+    title: 'MLA Parwati Dass ne rajya yojana ke tahat Nadigaon tak aadhe km sadak ke nirman-karya ka shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-half-kilometer-road-construction-in-nadigaon-under-state-scheme-costing-8-3-crores-201761907723029.html',
+    date: '2025-10-31',
+    note: 'Fund: rajya yojana, Rs 8.30 crore — aadhe km sadak + 2 m chaudi, 14 m unchi RCC retaining wall; Gomti pul ke paas karyakram. MLA ne swayam puja-archana ke baad nirman-karya ka shubharambh kiya (Kapkot MLA Suresh Gariya aadi maujood the). Bhoomika: vyaktigat shubharambh/shilanyas; sadak ki swikriti shasan star ki hai, article me ise Vidhayak Nidhi se nahi joda gaya.',
+    period: '2022-2027'
+  },
+  {
+    title: 'MLA Parwati Dass ne Bageshwar ke Venimadhav ward me numaish maidan ke paas bane naye children park ka vidhivat lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/uttarakhand/bageshwar/news/inauguration-of-childrens-park-in-bageshwar-136928467.html',
+    date: '2026-01-13',
+    note: 'Fund: Nagar Palika Bageshwar ki apni pehal — article ke mutabiq park nagar palika ne banwaya (adhyaksh Suresh Khetwal ka bayan); Vidhayak Nidhi se jodne ka koi zikr nahi. MLA ki asal bhoomika: keval vidhivat lokarpan; unhone nagar palika ki pehal ki sarahna ki. Credit capped: nirmaan nagar palika ka, MLA ka yogdaan lokarpan tak. Date andaza hai — article page par date nahi dikhi, search index ke aadhaar par lagbhag Jan 2026.',
+    period: '2022-2027'
+  }
+];
+uttarakhandWorks['suresh-gariya'] = [
+  {
+    title: 'Kapkot ke Anarsa gaon me Rs 1.34 crore ki lift-sinchai yojana ka lokarpan — Anarsa, San aur Harsila ke kisano ko milega laabh (jila yojana fund)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-farmers-in-kapkot-benefit-from-new-lift-irrigation-scheme-201780398043812.html',
+    date: '2026-06-02',
+    note: 'Rs 1.34 crore ki lift-sinchai yojana Anarsa, San aur Harsila gaonon ko seenchai degi; fund-srot article ke mutabiq jila yojana; MLA Suresh Gariya ne Anarsa gram panchayat karyakram me lokarpan kiya. Date andaza hai — article page par printed date nahi thi, search-crawl timing aur Tuesday-event hawale se li gayi. Credit capped: sarkari yojana ka udghatan, yojana-design ya fund ka shrey MLA ko nahi.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Karuli Band se Gajli-Bijoriya tak Rs 1.67 crore ki motor sadak ka puja-archana ke saath karya-aarambh (rajya yojana)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-road-to-be-constructed-in-bageshwar-at-a-cost-of-rs-1-67-crore-201780484060852.html',
+    date: '2026-06-03',
+    note: 'Rs 1,67,47,000 ki Karuli Band se Gajli-Bijoriya motor sadak; fund rajya yojana; MLA ne puja-archana karke nirman-karya shuru karaya, ise varshon purani maang ka poora hona bataya. Date andaza hai — article page par printed date nahi thi, search-crawl timing se li gayi. Credit capped: PWD/rajya yojana ka kaam, MLA ne shubharambh kiya.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Devendra ke Bharadi taxi stand par Rs 4.88 lakh ki lagat se bani nayi police chowki ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-new-police-post-inaugurated-at-bharadi-taxi-stand-to-enhance-security-201786615190160.html',
+    date: '2026-08-13',
+    note: 'Devendra (Kapkot) ke Bharadi taxi stand par nayi bani police chowki ka lokarpan MLA Suresh Gariya ne kiya; unhone taxi drivers ki samasyaon par baithak bhi ki. Article me fund-srot ka ullekh nahi — disclosed. Credit capped: MLA ne lokarpan kiya, nirman agency/fund undisclosed.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Rajkiya Inter College Kapkot ke Rs 3.02 crore ke naye bhawan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-inauguration-of-new-educational-building-at-rajkiya-inter-college-kapkot-by-mla-suresh-gadiya-201770462652441.html',
+    date: '2026-02-07',
+    note: 'Rajkiya Inter College Kapkot ke Rs 3,02,62,000 ke naye bhawan ka lokarpan MLA ne kiya; block pramukh, BEO aur school staff maujood the. Article me fund-srot ka ullekh nahi — disclosed. Credit capped: sarkari school bhawan ka shubharambh, nirman fund undisclosed.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Kapkot me Shri Ram Mandir parisar ke vikas ka shilanyas — Rs 30 lakh, jila yojana se',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-development-of-shri-ram-temple-site-in-kapkot-with-30-lakh-investment-201765621307586.html',
+    date: '2025-12-13',
+    note: 'Kapkot me Shri Ram Mandir parisar ke vikas ke liye Rs 30 lakh; fund jila yojana; MLA ne bhoomi pujan ke saath shilanyas kiya. Credit capped: jila yojana ka kaam; dhaarmik sthal par sarkari vikas-nidhi ka upyog disclose kiya gaya hai.',
+    period: '2022-2027'
+  },
+  {
+    title: 'MLA ke apne gaon Seema me Ajenti Bubu mandir ka shilanyas — Rs 97.20 lakh, tourism vibhag ne CM ki ghoshna par jari kiye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/bageshwar/story-construction-of-grand-bubu-temple-in-suresh-gadiya-s-village-with-97-20-lakhs-funding-201764328056070.html',
+    date: '2025-11-28',
+    note: 'MLA ke apne gaon Seema me Rs 97.20 lakh ka Ajenti Bubu mandir; CM Dhami ki ghoshna ke baad tourism vibhag ne fund jari kiya; MLA ne puja-archana ke saath shilanyas kiya; Harsila-se-gaanv sadak ki tarring ki ghoshna bhi hui. Credit capped: tourism dept/CM-ghoshna ka fund, MLA ne shilanyas kiya.',
+    period: '2022-2027'
+  }
+];
+// ---- REJECT-LOG (parwati-dass, Bageshwar SC) ----
+// 1. Indoor stadium, Victor Mohan Joshi Inter College (Hindustan, 8 Nov 2025) — sirf ghoshna: Yuva Kalyan vibhag se Rs 475.04 lakh vittiya swikriti ki MLA dwara jaankari, koi vyaktigat shilanyas/lokarpan nahi. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-uttarakhand-government-initiates-construction-of-modern-indoor-stadium-in-bageshwar-201762600356217.html
+// 2. Garud-Bageshwar motor marg sudharikaran Rs 4.34 crore (Hindustan, 26 Nov 2025) — sirf ghoshna: MLA "ne bataya" Manaskhand yojana me 17.425 km marg ka kaam hoga, koi shubharambh nahi. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-bageshwar-motorway-improvement-4-34-crore-for-garud-bageshwar-road-201764135822206.html
+// 3. Shantabazar-Mathkhal-Tallidoba motor marg shilanyas Rs 78.90 lakh (Dainik Bhaskar, ~May 2026) — bhoomi poojan rajyamantri Shiv Singh Bisht ne kiya; CM-ghoshna project; MLA keval boli. Srot: https://www.bhaskar.com/local/uttarakhand/bageshwar/news/shantabazar-mathkhal-motor-road-inauguration-bageshwar-137909620.html
+// 4. CT scan machine, jila aspatal Bageshwar (June 2024) — lokarpan swasthya mantri Dhan Singh Rawat ne (virtual) kiya; MLA keval maujood; pati ke karyakaal ka credit diya — maujoodgi + non-whitelisted sources.
+// 5. Anandi Academy AI smart classrooms / science lab (devbhoomikhabarnetwork, ~Sep 2025) — private school samaroh, mukhya-atithi ceremonial + non-whitelisted.
+// 6. Khel Mahakumbh / Vidhayak championship trophy (Hindustan, ~Sep 2026) — Rs 1 lakh cheque + trophy prize-distribution samaroh; koi sarkari kaam ka lokarpan nahi.
+// 7. Rajya stariya taekwondo pratiyogita udghatan (Bhaskar, ~Jan 2026) — deep-prajwalan se tournament shubharambh; ceremonial.
+// 8. Uttarayani mela volleyball pratiyogita udghatan (Hindustan, 14 Jan 2026) — khel pratiyogita shubharambh; ceremonial.
+// 9. Kafaligair rajkiya mahavidyalaya 18 pad swikriti (Jagran, 28 Sep 2026) — shasanadesh ki jaankari; MLA ne keval CM/uchch shiksha mantri ka aabhaar jataya; sarkari-order info only.
+// 10. Paldi Chhina-Karalapani-Kangad Chhina marg vistaar maang (Hindustan, ~Jun 2026) — poorv sainik/BDC ka gyapan; MLA ki purani ghoshna ka hawala; sirf maang.
+// 11. Rahul Gandhi/Doval tippani press-varta (Hindustan, ~Oct 2026) — raajnaitik bayan; kaam nahi.
+// 12. BDC baithak (Hindustan, 16 Dec 2025) — sanyukt deep-prajwalan + sameeksha baithak; nirikshan/baithak only.
+// 13. Bal vigyan mahotsav (Amar Ujala, 9 Oct 2026) — CM ne shubharambh kiya; MLA keval maujood.
+// 14. Kapkot me CM dwara 37 yojnaon ka lokarpan/shilanyas (rainbownews, Jan 2024) — CM ka karyakram; MLA maujood + non-whitelisted.
+// 15. TB JOSH karyakram (devbhoomikhabarnetwork, Oct 2026) — mukhya-atithi ceremonial + non-whitelisted.
+// 16. Rashtriya Balika Diwas puraskar (etvbharat, Jan 2024) — samman samaroh + non-whitelisted.
+// 17. MLA ki tabiyat/airlift (kurmanchalnews/etvbharat, June 2024) — vyaktigat swasthya khabar; kaam nahi + non-whitelisted.
+// 18. Bageshwar nagriya peyjal yojana Rs 68.63 crore tender (devbhoomikhabarnetwork etc, Oct 2026) — tender stage; MLA ne keval CM ka aabhaar; non-whitelisted + ghoshna/info only.
+// 19. Vidhayak Nidhi kharch % reports (memoirspublishing Jan 2024 / samacharuttarakhand) — kul aankde, itemized soochi nahi; non-whitelisted.
+// 20. CM sameeksha baithak (aapkimedia/lokmattimes) — MLA maujood + non-whitelisted.
+// 21. PWD van-bhoomi prastav baithak (khabribox) — DM ke nirdesh, prashasnik baithak; non-whitelisted.
+// 22. Pati Chandan Ram Dass ke karyakaal ke kaam — sakht niyam ke tahat credit nahi.
+// ---- REJECT-LOG (suresh-gariya, Kapkot) ----
+// 1. Saneti-Sangad motor road Rs 7.68 crore (Hindustan, Oct 2026) — passive-voice bhoomi pujan ('kiya gaya'), MLA attribution weak; poorv mantri Balwant Bhouriyal bhi manch par. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-7-69-crore-saneti-sangaad-road-project-to-boost-rural-connectivity-in-bageshwar-201791975010842.html
+// 2. Vivekananda Vidya Mandir Hichauri multi-purpose classroom (Hindustan, May 25 2025) — private Vidya Bharti school ka udghatan; sarkari kaam nahi; fund undisclosed. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-inauguration-of-multi-purpose-classroom-at-vivekananda-vidya-mandir-by-mla-suresh-gadiya-201748172271462.amp.html
+// 3. Darimkhet-Kanyalikot road Rs 1.56 crore swikriti (Hindustan) — sirf swikriti ki jaankari, MLA ne sirf bataya. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-road-construction-approved-for-connectivity-in-kapkot-assembly-201782220446821.html
+// 4. Kalanaband-Pant Kwairali muawza Rs 1.02 crore swikriti (Hindustan) — sirf swikriti ki jaankari. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-government-approves-funds-for-road-construction-compensation-in-kapkot-assembly-201771325813676.html
+// 5. Gauli Amar Gaushala Kanda udghatan (Oct 15 2026) — uttarakhandnewsvaani.com; non-whitelisted portal.
+// 6. Dooni-Sukunda road shilanyas Rs 1.80 crore (graminvarta.com, ~Oct 2023) — non-whitelisted; RETRY-LEAD: whitelisted version.
+// 7. Ankita murder case: Congress ne putla fukka (Hindustan, Dec 29 2025) — raajnaitik aarop (aaropi ko birthday wishes), MLA par FIR/official janch nahi; negative criteria fail. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-congress-protests-birthday-wishes-for-accused-in-ankita-murder-case-201767003196749.html
+// 8. Katyur mahotsav vivadit bayan + maafi (Hindustan, ~Apr 2026) — raajnaitik vivad, maafi maangi; FIR nahi; negative criteria fail. Srot: https://www.livehindustan.com/uttarakhand/bageshwar/story-controversy-over-mla-suresh-gadiya-s-statement-sparks-political-tension-in-kapkot-201775559950967.html
+// 9. YouTube short 'aaropon par safai' — YouTube non-whitelisted.
+// 10. TOI: Kapkot roads washed out (Jun 2024) — MLA sirf rahat-samanvay par quoted; koi vyaktigat kaam nahi.
+// 11. Amar Ujala: disaster-preparedness review meeting (Jun 3 2025) — nirikshan-type baithak, koi dastaveji nateeja nahi.
+// 12. Amar Ujala: Karmi-Toli road naamkaran after Hayat Singh Gadhiya (Jan 2 2026) — sarkari naming decision; MLA ne sirf jaankari di.
+// 13. Garhwal Post: CM Dhami event — non-whitelisted + dusre neta ke karyakram me maujoodgi.
+// 14. janjwar.com 2022 ticket-resignation story — non-whitelisted + pre-term politics; 'Sher Singh Garhia' alag vyakti — naam-bhram se bacha.
+// PARENT QA (2026-10-17): Gariya worker ke 6 English titles ko Roman-Hinglish vaakyon me rewrite kiya (file standard ke mutabiq); Parwati Dass ke 2 titles me naam ki spelling foundation se match karke sudhari ('Parwati Das' -> 'Parwati Dass'). Bageshwar batch kul = 8 entries. State total ab 133.
