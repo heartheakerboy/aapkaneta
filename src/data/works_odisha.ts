@@ -407,7 +407,45 @@ odishaWorks['suryabanshi-suraj'] = [
 // State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages.
 // ---- Bhadrak district batch END ----
 
-// ---- Jajpur district batch ----
+// ---- Jajpur district batch (researched 2026-10-16) ----
+// Coordinator QA decisions: Biswa negative KEPT (complaint + named-IIC-confirmed inquiry + MLA denial + established reporting = formal jaanch class, Janak Raj SIT precedent; no-FIR status disclosed); Himanshu negative KEPT (HT-PTI + police inquiry + reply absence disclosed); Mallik negative DROPPED (opponent ki akeli allegation, unke khilaf koi FIR/inquiry/giraftari nahi, page poora khula nahi tha — retry lead).
+
+odishaWorks['biswa-ranjan-mallick'] = [
+{
+  title: 'Bari block office me Junior Revenue Assistant se maarpeet aur casteist remarks ke aarop: police complaint, janch shuru, MLA ne aarop kharij kiye',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Odisha TV (OTV English)',
+  sourceUrl: 'https://odishatv.in/news/odisha/odisha-govt-officer-alleges-assault-by-bjd-mla-from-bari-lodges-police-complaint-261804',
+  date: '2025-05-01',
+  note: 'Junior Revenue Assistant Amar Ranjan Nayak ne police me shikayat darj karke aarop lagaya ki Bari MLA Biswa Ranjan Mallick ne unhe Bari block office me ek file ki jaanch ke dauran thappad mara aur casteist remark kiya; unke anusaar MLA ke samarthakon ne bhi unhe peeta. Bari Ramachandrapur police station ke IIC Jyotirmayee Sethy ne bataya ki shikayat par janch shuru kar di gayi hai, aur Nayak ne Jajpur collector P Anvesha Reddy ko bhi ghatna ki jankari di. Dusri taraf Mallick ne aaropon se inkaar karte hue kaha ki wo block vice chairperson (Dalit mahila) se jude ek mudde ko suljhane block office gaye the — unhone na maarpeet ki aur na hi casteist remark, balki officer ko block chairman ke saath milkar kaam karne ki salah di thi. PTI ki reporting OTV (PTI inputs ke saath) aur Orissa POST dono me chhapi hai; ghatna Monday 28 April 2025 ko hui, report 1 May 2025 ki hai. Disclosure: report me FIR darj hone ka zikr nahi hai aur ghatna ke 17 mahine baad tak whitelisted sroton me janch ke nateeje (chargesheet ya closure) ki koi khabar nahi mili.',
+  period: '2024-2029',
+},
+];
+
+odishaWorks['himanshu-sekhar-sahoo'] = [
+  {
+    title: 'Panturi me BJD neta Pranab Balabantray ke farmhouse par hamle ka aarop — MLA Himanshu Sekhar Sahoo ke samarthakon par aarop, Jenapur police ne jaanch shuru ki, 15 ghayal',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times (PTI)',
+    sourceUrl: 'https://www.hindustantimes.com/india-news/15-injured-after-supporters-of-bjd-leader-independent-mla-clash-in-odishas-jajpur-101765743267065.html',
+    date: '2025-12-15',
+    note: 'Hindustan Times (PTI, 15 Dec 2025) ki report ke mutabik Jajpur jile ke Panturi gaon me BJD neta aur poorv Dharmasala MLA Pranab Kumar Balabantray ke farmhouse par lagbhag 50 sashastra logon ne dhawa bola, jisme 15 log ghayal hue (5 gambhir) aur 20 se zyada gaadiyan tod di gayi; Balabantray ne aarop lagaya ki hamlaawaron me Dharmasala ke nirdaliya MLA Himanshu Sekhar Sahoo ke samarthak shamil the aur ye bina uksaave ke hua. Dono pakshon ne Jenapur thane me alag-alag shikayat darj karayi — police ne jaanch shuru kar di hai, lekin report ke samay tak koi giraftari nahi hui thi; Sahoo ke ek samarthak ne ulta Balabantray ke samarthakon par hamle ka counter-aarop lagaya, aur Sahoo ka apna seedha bayan is report me nahi mila. Report me ye bhi ullekh hai ki April 2025 me bhi Balabantray par Sahoo ke samarthakon dwara hamle ka aarop laga tha. Shrey-spashtikaran: ye Sahoo ke kiye gaye kaam ka dawa NAHI, balki unke samarthakon par lage hamle ke aarop aur uski police jaanch ki negative reporting hai; aarop Balabantray ke bayan par adharit hai, adalat me is par abhi koi nirnay nahi hua hai.',
+    period: '2024-2029',
+  },
+];
+
+// ---- Jajpur district batch REJECT-LOG (2026-10-16) ----
+// Mallik (pramila-mallik, Binjharpur SC BJD): 0 entries — 2024 se vipaksh me; sarkari ghoshnaen CM-mantriyon ke naam; Speaker-pad (2023-24) ki gatividhi kaam nahi. COORDINATOR QA DROP: RTI-karyakarta hamla-mamle me unhe "peeche hone" ka virodhi ka aarop — unke khilaf koi FIR/inquiry/giraftari nahi (2 giraftar alag vyakti), she refused comment, aur OTV page poora khula bhi nahi tha — entry nahi; retry lead (full-page/report mile to).
+// Biswa (biswa-ranjan-mallick, Bari BJD): 1 negative (upar, KEPT). Positive 0 — Kimbhiriapal MMSY shilanyas sirf Dailyhunt user-generated par (retry lead); smart-jail virodh, flood-relief presser, BDO dharna = maang/virodh; MJKMCH maujoodgi = CM ka kaam; myneta "4 cases" = affidavit raw data; Pramila Mallik wali FIR = galat vyakti; YouTube Argus = non-whitelist.
+// Amar (amar-kumar-nayak, Barachana BJP): 0 entries — CM ke Kalinganagar Rs 9,067cr (sirf maujoodgi); ZP me sadak-paani maang (maang akele); flood daura (rahat); self-site "15+ projects" = daawa, independent reporting nahi; Amar Prasad Satpathy = galat vyakti; 2017 BJD-chhodna = pre-term. NDTV ADR "1 case" = raw data.
+// Sujata (sujata-sahu, Jajpur BJD): 0 entries — OTV Rs 181cr water project = pre-term defunct (sirf jawab); Rs 194cr admin building = pre-term; dharna/resignation-afwah/manch-vivaad = political; MJKMCH maujoodgi; ZP maang, Assembly sawal = maang akele.
+// Akash (akash-dasnayak, Korei BJP): 0 entries — Kharasrota sluice = sarkar ka kaam (sirf samarthan-uddharan); film-jaghat = record ka hissa nahi; pre-term 2014-era/BJP-joining. Whitelist-bahar leads: Ragadi–Kiapada Rs 8.5cr sadak, Jajpur Road CHC Rs 16cr, Ranpur GP 4 projects Rs 15cr, Panthika PHC, Sarangpur kalyan mandap Rs 85 lakh — sab retry leads. Oscar chit-fund denial = pre-term.
+// Samanta (pradeep-bal-samanta, Sukinda BJP): 0 entries — Gharai ki chunav-yachika Orissa HC ne khariz ki (chunav-yachika akeli negative nahi); Rs 99,000cr nivesh = Industries Minister ka; OMBADC handicraft = Khordha (kshetra-bahar); DMF water ATMs me unka naam hi nahi; Duburi PHC lokarpan sirf orissadiary.com par (retry lead); Tasar Silk Park = Governor ne shilanyas rakha, coverage non-whitelist (retry lead).
+// Himanshu (himanshu-sekhar-sahoo, Dharmasala IND): 1 negative (upar, KEPT). Positive 0 — "roadmap" vaada = karenge-khabar; SangharsaTV YouTube sadak = retry lead; Rs 5 lakh salary-daan = charity; Budha bridge hamla = wo peedit/shikayat-karta (victim rule, negative nahi); Oct 2026 padyatra aarop me SP ne kaha NO FIR = bina-FIR complaint (negative nahi).
+// State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages.
+// ---- Jajpur district batch END ----
 
 // ---- Dhenkanal district batch ----
 

@@ -1404,7 +1404,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=1294',
       backgroundNote: 'Pramila Mallik Binjharpur (SC) se BJD ki MLA hain. Umar 61 saal, shiksha: Graduate. Halafname me koi aapradhik mamla nahi hai. Odisha Vidhan Sabha ki sabiq adhyaksh (speaker) rahi hain. Note: candidate page ka header load nahi hua, aankde myneta chart/winners-index se verify hain.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Binjharpur se jeeti: 74,185 votes. Runner-up Babita Mallick (BJP) 71,329 votes. Margin 2,856.',
+    electionNote: '2024 Vidhan Sabha chunav me Binjharpur se jeeti: 74,185 votes. Runner-up Babita Mallick (BJP) 71,329 votes. Margin 2,856. 22 Sep 2023 se 3 Jun 2024 tak Vidhan Sabha ki Speaker rahi (pehli mahila Speaker); sansthaagat gatividhi kaam ke record ka hissa nahi.',
   },
   {
     slug: 'biswa-ranjan-mallick',
@@ -1470,7 +1470,7 @@ export const odishaNetas: Neta[] = [
     party: 'Independent',
     partyShort: 'IND',
     post: 'MLA',
-    state: 'Odisha',
+        state: 'Odisha',
     constituency: 'Dharmasala',
     constituencySlug: 'dharmasala',
     tenures: [
@@ -1491,7 +1491,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=933',
       backgroundNote: 'Himanshu Sekhar Sahoo (halafname me naam: Himanshu Sekhar Sahoo S/o Late Ramesh Chandra Sahoo) Dharmasala se independent MLA hain (is batch me akele nirdaliya vijeta). Umar 39 saal, shiksha: HSE from CHSE, 2003. Halafname me 4 aapradhik mamle hain, jisme IPC 307 (hatya ka prayas) aur 420 (dhokhadhadi) ki dharaon ke mamle shamil hain; kisi me dosh-siddhi nahi hui.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Dharmasala se jeete: 79,759 votes. Runner-up Pranab Kumar Balabantaray (BJD) 75,883 votes. Margin 3,876.',
+    electionNote: '2024 Vidhan Sabha chunav me Dharmasala se jeete: 79,759 votes. Runner-up Pranab Kumar Balabantaray (BJD) 75,883 votes. Margin 3,876. Nirdaliya MLA — ThePrint-PTI (4 Oct 2026) ke mutabik 2024 se satta-dhari BJP ke samarthak rahe hain; dal parivartan ya ayogyata ki karyavahi ab tak report nahi hui.',
   },
   {
     slug: 'sujata-sahu',
@@ -1528,7 +1528,7 @@ export const odishaNetas: Neta[] = [
     party: 'Bharatiya Janata Party',
     partyShort: 'BJP',
     post: 'MLA',
-    state: 'Odisha',
+        state: 'Odisha',
     constituency: 'Korei',
     constituencySlug: 'korei',
     tenures: [
@@ -1549,7 +1549,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=1066',
       backgroundNote: 'Akash Dasnayak Korei se BJP ke MLA hain. Umar 42 saal, shiksha: LLB from Capital Law College under Utkal University, 2006. Halafname me koi aapradhik mamla nahi hai. Pehle BJD ke neta rahe hain, 2024 me BJP ticket par jeete.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Korei se jeete: 79,658 votes. Runner-up Sandhya Rani Das (BJD) 74,012 votes. Margin 5,646.',
+    electionNote: '2024 Vidhan Sabha chunav me Korei se jeete: 79,658 votes. Runner-up Sandhya Rani Das (BJD) 74,012 votes. Margin 5,646. 2014–2019 me BJD ticket par Korei ke MLA rahe; abhineta bhi hain — film-jaghat ki gatividhi record ka hissa nahi.',
   },
   {
     slug: 'pradeep-bal-samanta',
@@ -1557,7 +1557,7 @@ export const odishaNetas: Neta[] = [
     party: 'Bharatiya Janata Party',
     partyShort: 'BJP',
     post: 'MLA',
-    state: 'Odisha',
+        state: 'Odisha',
     constituency: 'Sukinda',
     constituencySlug: 'sukinda',
     tenures: [
@@ -1578,7 +1578,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=1269',
       backgroundNote: 'Pradeep Bal Samanta Sukinda se BJP ke MLA hain. Umar 66 saal, shiksha: Doctorate. Halafname me koi aapradhik mamla nahi hai. Note: candidate page ka header load nahi hua, aankde myneta chart/winners-index se verify hain.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Sukinda se jeete: 86,733 votes. Runner-up Preetiranjan Gharai (BJD) 77,156 votes. Margin 9,577.',
+    electionNote: '2024 Vidhan Sabha chunav me Sukinda se jeete: 86,733 votes. Runner-up Preetiranjan Gharai (BJD) 77,156 votes. Margin 9,577. 12 Jun 2024 se Mohan Charan Majhi sarkar me Minister of State (Independent Charge) — Cooperation, Handloom and Textiles; mantri-roop ke vibhagiya/rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'krushna-chandra-patra',
