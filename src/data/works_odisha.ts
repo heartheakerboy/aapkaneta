@@ -34,7 +34,38 @@ odishaWorks['irasis-acharya'] = [
   },
 ];
 
-// ---- Jharsuguda district batch ----
+// ---- Jharsuguda district batch (researched 2026-10-16) ----
+
+odishaWorks['suresh-pujari'] = [
+  {
+    title: 'Loisingha Bhoimunda (Brajarajnagar seat) me 34 poori hui pariyojanaon ka lokarpan — kul lagat Rs 2.34 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pragativadi',
+    sourceUrl: 'https://pragativadi.com/revenue-minister-inaugurates-development-projects-worth-rs-4-crore-in-jharsuguda/',
+    date: '2026-05-26',
+    stage: 'lokarpan',
+    note: 'Pragativadi ki report ke mutabik Revenue aur Disaster Management mantri Suresh Pujari ne Loisingha Bhoimunda me hue ek karyakram me 34 poori hui pariyojanaon ka lokarpan kiya, kul lagat Rs 2.34 crore. Karyakram-sthal Bhoimunda gaon (Loisingha gram panchayat, Brajarajnagar tehsil) census directory ke anusar Brajarajnagar Vidhan Sabha kshetra me aata hai, isliye ye seat me sampann lokarpan-karyakram hai. Mantri-framing: Pujari yahan mantri ke roop me ek jila-stariya vikas karyakram me shamil hue — Jharsuguda Collector Kunal Motiram Chavan, CDO Bishwaranjan Nayak aur anya jila adhikari maujood the. Shrey-spashtikaran: report pariyojanaon ko Jharsuguda jile ki batati hai, fund ka srot (sarkari yojana, MLALADS ya anya) ullikhit nahi hai, aur project-wise sthan nahi diya gaya — isliye ye seat me hue lokarpan-karyakram ki entry hai, har ek project ke seat me sthit hone ka alag dawa nahi kiya ja raha. Stage ka saboot: report me 34 projects ke "inaugurated" hone ka seedha ullekh hai. Date inferred: khole gaye page par prakashan-tithi nahi dikhi; search index me "143 days ago" (2026-10-16 ke saapeksh) ke aadhar par 2026-05-26 li gayi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Loisingha Bhoimunda (Brajarajnagar seat) me 22 nayi pariyojanaon ka shilanyas — kul lagat Rs 2.56 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Pragativadi',
+    sourceUrl: 'https://pragativadi.com/revenue-minister-inaugurates-development-projects-worth-rs-4-crore-in-jharsuguda/',
+    date: '2026-05-26',
+    stage: 'shilanyas',
+    note: 'Pragativadi ki report ke mutabik Revenue aur Disaster Management mantri Suresh Pujari ne Loisingha Bhoimunda ke usi karyakram me 22 nayi pariyojanaon ka shilanyas kiya, kul lagat Rs 2.56 crore. Karyakram-sthal Bhoimunda gaon (Loisingha gram panchayat, Brajarajnagar tehsil) census directory ke anusar Brajarajnagar Vidhan Sabha kshetra me aata hai, isliye ye seat me sampann shilanyas-karyakram hai. Mantri-framing: Pujari yahan mantri ke roop me jila-stariya vikas karyakram me shamil hue — jila prashasan ke varishth adhikari, Panchayat Samiti adhyaksh, Zilla Parishad sadasya aur kai sarpanch maujood the. Shrey-spashtikaran: report pariyojanaon ko Jharsuguda jile ki batati hai, fund ka srot ullikhit nahi hai, aur project-wise sthan nahi diya gaya — isliye ye seat me hue shilanyas-karyakram ki entry hai, har ek project ke seat me sthit hone ka alag dawa nahi kiya ja raha. Stage ka saboot: report me 22 projects ke liye "laid foundation stones" ka seedha ullekh hai. Date inferred: khole gaye page par prakashan-tithi nahi dikhi; search index me "143 days ago" (2026-10-16 ke saapeksh) ke aadhar par 2026-05-26 li gayi.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (Jharsuguda district, researched 2026-10-16):
+// Tankadhar Tripathy (Jharsuguda) — 0 entries, khaali. Whitelist par Jun 2024+ ke kisi vikas-kaam ki post-event reporting nahi; saari development stories (Laikera Rs 32cr, Kirmira, Blood Bank, OMP-Bandharpada, Utkal Balashram) sirf non-whitelisted portals par. SC chunav-yachika plea-dismissal = chunav-yachika akeli negative nahi. Cardiac hospital vivaad (TNIE Jun 2026) pre-term credit-vivad, FIR/janch nahi. TOI DHH nirikshan = sirf daura. Pokharasale sub-station Deputy CM ne udghatan kiya, Tripathy sirf maujood. RETRY: whitelist cover kare to Laikera/Kirimira/blood bank/Bandharpada par dobara search.
+// Suresh Pujari (Brajarajnagar) — MCL pavilion + OPGC smart classroom (CSR/udyog), badh-daura/rahat (vibhagiya), 240-project samiksha (nirikshan), jsglive "karenge" ghoshnaen, OSDMA workshop/BNTY train (rajya-star mantri kaam), Belpahada road/Vedanta lab (pre-term), Atabira (kshetra-bahar), PM-visit taiyari, OTV/Orissa POST rajya-star bayan, Bhoimunda "38 schools/+2" ghoshnaen, missing-reports FIR (wo shikayat-karta), sub-plot Rs 100cr aarop (non-whitelisted, asatyapit, FIR nahi). RETRY LEADS: (A) Pragativadi 21 May 2026 — Atal Bus Stand shilanyas Rs 32.78cr + 82 projects Rs 23.48cr + 12 lokarpan Rs 2.77cr Brajrajnagar me (direct URL nahi mila); (B) Pragativadi 10 Feb 2026 — Lakhanpur Rs 4.68cr (direct URL nahi mila); (C) Khaliakani CHC lokarpan (whitelisted coverage pending).
+// Tankadhar Tripathy profile imaandari se khaali hai — works me entry nahi jodi gayi.
+
 
 // ---- Sundargarh district batch ----
 
