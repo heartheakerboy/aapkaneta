@@ -1866,3 +1866,928 @@ meghalayaWorks['shakliar-warjri'] = [];
 // 12. HSPDP-NPP vilay se inkar, Apr 2023 — bayan; HSPDP me hi hain (Highland Post Oct 2025).
 // 13. Skillerate pre-event, Markham Festival nirikshan, Jaintia Institute daura — non-whitelist/pre-event/daura.
 // RETRY LEADS: A. Kynshi HSS hall (YouTube lead — non-whitelist; whitelist coverage mile to reconsider); B. ST site-search 403 — live browser scan; C. Nongsder turf gov.in page (node/48643) resolve nahi hua.
+
+// ---- East Khasi Hills district batch (researched 2026-10-16) ----
+// PARENT REVIEW (2026-10-16): 41 entries me se 6 hataye gaye — (1) Hek Rs 10 lakh grant sirf ghoshna, koi swikriti-suchi nahi; (2) Pyngrope community-hall Rs 5 lakh sirf ghoshna; (3) Suin Rain Museum — MLA ki bhoomika sirf ghoshna/prachaar, rajya flagship; (4) Mylliem Nohkalikai — sirf swikriti/tender ki ghoshna, PM-DevINE kendriya fund, MLA ki dastaveji pahal nahi; (5-6) Mylliem ke dono cafe lokarpan — sahkari samiti ki pahal, CSR fund, MLA sirf mukhya atithi. Batch kul = 35 entries. Basaiawmoit FIR negative rakha gaya (FIR wartaman karyakaal Apr 2024 me darj, MLA ka jawab record par, stage-accurate framing).
+
+meghalayaWorks['heaving-stone-kharpran'] = [
+  {
+    title: 'Sohryngkham gaon me Eklavya Model Residential School (EMRS) ki swikriti MLA Heaving Stone Kharpran ki Vidhansabha-mang ke baad mili; Ministry of Tribal Affairs ne project sanction kiya aur PM Modi ne uska online shilanyas kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/11/17/appreciation-for-cms-approval-to-emrs-in-sohryngkham/',
+    date: '2025-11-16',
+    note: 'The Shillong Times ki 16 November 2025 ki post-event report ke mutabik, Mawryngkneng ke VPP MLA Heaving Stone Kharpran ne Meghalaya Vidhansabha me kayi baar Sohryngkham gaon ko Eklavya Model Residential School (EMRS) project me shamil karne ki mang uthai thi; CM Conrad K Sangma ne unka prastav accept kiya aur Ministry of Tribal Affairs ne project ko sanction kiya. Sohryngkham Dorbar Hall me Jan Jatiya Gaurav Diwas karyakram (BDO, Mawryngkneng C&RD Block dwara aayojit) ke dauraan PM Narendra Modi ne EMRS ka online shilanyas kiya, jisme local MLA maujood the. Credit disclosure: swikriti CM aur Ministry of Tribal Affairs ki hai, shilanyas PM ne kiya; MLA ki bhoomika Vidhansabha me mang uthana aur karyakram me maujoodgi thi. Fund-srot central EMRS scheme (Ministry of Tribal Affairs); report me MLA Scheme/SRWP ka koi zikr nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['alexander-laloo-hek'] = [
+];
+
+meghalayaWorks['brightstarwell-marbaniang'] = [
+  {
+    title: 'SRWP vidhayak nidhi se 2025-26 me lagbhag Rs 2.5 crore ka vitran: school, awaas, jeevika aur community infrastructure sahayta',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/09/14/mawlai-mla-disburses-rs-2-5-crore-scheme-funds-for-local-devp/',
+    date: '2026-09-13',
+    note: 'The Shillong Times ki post-event report ke mutabik, VPP MLA Brightstarwell Marbaniang ne Mawlai me Special Rural Works Programme (SRWP) ke tahat MLA Scheme 2025-26 se lagbhag Rs 2.5 crore sarvajanik roop se baante  -  yeh unka teesra sarvajanik vitran tha. Itemized suchi: shiksha me Mawlai ke ek college ko Rs 20 lakh, schools me CCTV ke liye Rs 5 lakh aur 13 schools ko classroom expansion/infrastructure renovation/equipment; awaas me 50 labharthiyon ko Rs 75,000 prati ikai low-cost housing ke liye (Rs 37.5 lakh) aur 100 ko ghar marammat ke liye Rs 25,000; 750 logon (daily-wage labourers, kisan, chhote dukandar) ko Rs 10,000 prati vyakti jeevika sahayta; sports clubs aur locality-wise community infrastructure (sadak/footbridge marammat, street lighting, public sound systems). Fund-srot SRWP sarkari yojna hai, rashi MLA ne apne karyakal me khud chuni/baanti.',
+    period: '2023-2028',
+  },
+  {
+    title: 'SRWP aur anya yojnaon se 2023-24 me 867 labharthiyon ko Rs 2.58 crore ke work order jaari',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/09/11/mawlai-mla-releases-schemes-asserts-vpps-anti-corruption-approach/',
+    date: '2024-09-10',
+    note: 'The Shillong Times ki post-event report ke mutabik, VPP MLA Brightstarwell Marbaniang ne Mawlai me SRWP aur anya sarkari yojnaon se 2023-24 ke liye kul Rs 2.58 crore ke work order 867 labharthiyon ko jaari kiye (SRWP se Rs 2.50 crore, ISYDP se Rs 3 lakh, DTFM se Rs 2.5 lakh, IACDP se Rs 2.5 lakh). Itemized suchi: 50 labharthiyon ke liye Rs 75,000 prati ikai low-cost housing (Rs 37.5 lakh), 150 gharon ki renovation ke liye Rs 25,000 prati ghar (Rs 37.5 lakh), 500 labharthiyon ko Rs 10,000 prati vyakti sahayta (Rs 50 lakh), 100 ko CGI sheets (Rs 8 lakh), Mawlai Association for Welfare Livelihood Accessibility and Inclusiveness ko ambulance (Rs 7 lakh), aur Mawiong/Mawlai ki vibhinn localities ko unke prastavon par ilaka-wise rashi. Fund-srot SRWP/ISYDP/DTFM/IACDP sarkari yojnaen hain; Marbaniang ne labharthiyon ka chunav apne karyakal me kiya aur VPP ke bhrashtachar-virodhi drishtikon ka dawa dohrate hue sabko aniyamitta par sawal uthane ka aamantran diya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mawlai Nongpdeng sadak aur Mawlai Nongkwar link road ka Rs 4.61 crore ka combined road package swikrit, kaam shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/12/04/mawlai-mla-takes-stock-of-road-work-in-constituency/',
+    date: '2025-12-03',
+    note: 'The Shillong Times ki report ke mutabik, PWD (Roads) ne Mawlai Nongpdeng sadak project aur Pata Rim (Block 11) se Mawlai Nongkwar Block III tak ki link road ko ek hi scheme ke tahat club karke fresh proposal par kul Rs 4.61 crore swikrit kiye; combined package (146-metre stretch + bridge) par kaam shuru ho chuka tha, jisme link road ke liye Rs 29 lakh earmarked hain. MLA Brightstarwell Marbaniang ka dawa hai ki project pehle ruka hua tha aur unhone follow-up karke dono sadkon ko ek scheme me shamil karaya, aur woh pragati ki nigrani ka vaada karte hain. Disclosure: Mawlai Nongpdeng Dorbar Shnong (Rangbah Shnong Kitkupar Kharshiing) ne isi pariyojna me MLA ke credit-dave ko chunauti di hai, unka kehna hai ki MLA ki koi pratyaksh bhoomika nahi thi aur shrey sthaniya samuday/Dorbar aur Up-Mukhyamantri evam PWD mantri Prestone Tynsong ke hastakshep ko jata hai  -  isliye credit capped hai aur entry sirf sanction ke established-media report par hai, nirikshan par nahi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['dr-mazel-ampareen-lyngdoh'] = [
+  {
+    title: 'East Shillong ki MLA Dr. M. Ampareen Lyngdoh ne Malki ke Khliehshnong me Indoor Sports Hall, Basketball Court aur do-manzila parking ke upgradation ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/cm-lays-foundation-for-%E2%82%B924-27-cr-malki-market-redevelopment/',
+    date: '2026-09-16',
+    note: '16 September 2026 ko usi karyakram me jahan CM Conrad K Sangma ne Rs 24.27 crore ke Malki Market redevelopment ka shilanyas kiya, Ampareen Lyngdoh ne — jo September 2025 me cabinet se hataye jaane ke baad is samay sirf MLA thin, mantri nahi — Khliehshnong, Malki me Rs 3.27 crore ke Indoor Sports Hall upgradation, Basketball Court aur two-storey parking ka shilanyas khud kiya; Malki unke East Shillong kshetra ka hissa hai. Highland Post ki post-event report me is Rs 3.27 crore project ka fund-srot (MLA Scheme/SRWP ya koi aur mad) nahi bataya gaya, isliye entry me fund-srot ka koi dawa nahi. Mantri-disclosure: ye shilanyas unhone mantri ke roop me nahi, kshetra ki MLA ke roop me kiya.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['adelbert-nongrum'] = [
+  {
+    title: 'Lawmali Pyllun Triangle ka beautification poora, traffic-congestion kam karne ke liye MLA ne lokarpan kiya (PWD scheme, lagat Rs 9 lakh se adhik)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/12/23/mla-inaugurates-lawmali-pyllun-triangle-to-ease-traffic-congestion/',
+    date: '2025-12-22',
+    stage: 'poora-kaam',
+    note: 'North Shillong MLA Adelbert Nongrum ne 22 Dec 2025 ko Lawmali Pyllun Triangle ke beautification project ka lokarpan kiya; ye project PWD ke state scheme ke tahat 2023 ke akhiri hisson me Rs 9 lakh se adhik ki lagat par shuru hua tha aur iska uddeshya traffic-congestion kam karna tha. Lokarpan me PWD ke Assistant Executive Engineer aur Lawmali Pyllun Dorbar Shnong ke pratinidhi maujood the. Article me MLA ke vyaktigat fund ya SUWP ka zikr nahi hai — MLA ki report ki gayi bhoomika poora hua project MLA ke haath lokarpit hona hai, aur design Lawmali Pyllun Dorbar Shnong ke paramarsh se final hua tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'North Shillong ke liye Rs 3.53 crore ke development projects ka launch — 2 sadak projects plus drainage, footpath aur civic infrastructure (Urban Affairs schemes)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/11/02/devp-projects-launched-in-north-shillong/',
+    date: '2025-11-01',
+    stage: 'ghoshna',
+    note: 'North Shillong MLA Adelbert Nongrum ne 1 Nov 2025 ko kshetra ke liye Rs 3.53 crore ke development projects launch kiye: Jaiaw Shyiap-Riatsamthiah (Church ke paas) sadak Phase I (Rs 1.2 crore), Riatsamthiah Community Hall se Wahingdoh Bridge tak sadak (sanctioned Rs 1.69 crore), plus drainage, footpaths aur zaroori civic infrastructure ke liye Rs 1.26 crore. Ye projects Urban Affairs Department ke Grand-in-Aid aur Infrastructure Development schemes ke tahat hain aur Shillong Municipal Board ki nigrani me banege. Article me khud MLA ne kaha ki in projects ka follow-up aur gunvatta ki nigrani unki zimmedari hai. Ye abhi launch/swikriti ka charan hai, poora hone ki alag pushti nahi mili.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA scheme ke Rs 5 crore ke work orders (2022-23 aur 2024-25) ka Wahingdoh me vitran — 2024-25 wala hissa swikriti charan me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/12/08/adelbert-calls-for-safeguard-of-both-indigenous-communities-non-tribals/',
+    date: '2025-12-07',
+    stage: 'swikriti',
+    note: 'North Shillong MLA Adelbert Nongrum ne 7 Dec 2025 ko Wahingdoh Dorbar Shnong community hall me MLA scheme ke 2022-23 aur 2024-25 ke work orders kul Rs 5 crore ke vitrit kiye. Mukhya khulasa: article me dono saalon ka varsh-var vibhajan nahi diya gaya, isliye Rs 5 crore ka jo hissa 2022-23 ka hai wo karyakaal se pehle (purana KHNAM karyakaal) ka hai aur current tenure ko credit nahi ho sakta; sirf 2024-25 wala hissa is karyakaal (2023-2028) me swikrit hua. Article me vyaktigat kaamon ki itemized suchi bhi publish nahi hui, isliye ye entry swikriti charan tak seemit hai; MLA ki bhoomika work orders jaari karna aur Rangbah Shnong se gunvatta-nigrani ki apeel karna hai.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['paul-lyngdoh'] = [
+  {
+    title: 'Mawprem ke Meghalaya Hindu Mission me nau-kaksh school block ka lokarpan (30 March 2026).',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/03/31/paul-acknowledges-rumblings-in-udp-says-bjp-likely-to-gain-from-new-entries/',
+    date: '2026-03-30',
+    note: 'Ye block Shillong Round Table 252 ne apne \'Freedom Through Education\' karyakram ke tahat banwaya; srot me MLA ki asal bhoomika lokarpan samaroh ke mukhya atithi ki darj hai — kisi vidhayak nidhi ya vibhagiya fund ke kharch ka ullekh nahi hai. Meghalaya Hindu Mission Mawprem me hai jo West Shillong kshetra me aata hai. Srot The Shillong Times ki post-event reporting hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Qualapatty me Rs 2.47 crore ka Tribal Cultural Centre banakar lokarpan (10 Jan 2026).',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/01/11/tribal-cultural-centre-comes-up-at-qualapatty/',
+    date: '2026-01-10',
+    note: 'G+2 sanrachna (ground floor parking, pehli manzil prashasnik block aur conference hall, doosri manzil banquet hall) ki kul lagat Rs 2.47 crore aayi; swikriti 2023 me Arts and Culture vibhag se Rs 2.30 crore ki hui thi jab Sanbor Shullai mantri the — mantri-disclosure: ye swikriti Paul Lyngdoh ki nahi hai. Lyngdoh ne pariyojna ki shuruaat 2012 me ki thi aur nirman-karyanvayan Dorbar Shnong Qualapatty ne kiya; 10 Jan 2026 ko unhone MP WR Kharlukhi ke saath centre ka aupcharik lokarpan kiya. Karyakaal 2023-2028 me poori hui West Shillong kshetra ki pariyojna hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mawprem ke Nongsohphoh me Village Defence Party (VDP) ka gathan aur lokarpan (14 March 2026).',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/vdp-inaugurated-in-nongsohphoh-mawprem/',
+    date: '2026-03-14',
+    note: 'Srot ke anusar VDP sthapit karne ki pahal Paul Lyngdoh ne ki thi; aupcharik lokarpan me sadasyon ka shapath grahan hua, police adhishak karyalaya East Khasi Hills ne Dorbar Shnong Nongsohphoh ke sahyog se jagrukta karyakram aayojit kiya aur sadasyon ko pehchan patra aur upkaran diye gaye. Nongsohphoh Mawprem me hai jo West Shillong kshetra me aata hai. Ye kshetra-stariya suraksha pahal hai, kisi vibhagiya mantri-faisle ka hissa nahi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['sanbor-shullai'] = [
+  {
+    title: "Sanbor Shullai ne Upper Kenches Trace me Seng Khasi Ri-Raid Laban ke Cultural Complex (Rs 9 crore se zyada, NEC-funded) ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Any",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2026/10/12/mla-opens-new-seng-khasi-cultural-complex/",
+    date: "2026-10-10",
+    note: "Ye cultural complex North Eastern Council (NEC) — Kendra sarkar ki parishad — ke Rs 9 crore se zyada ke anudan se bana hai; MLA Scheme ya state fund se nahi. NEC Secretary Satindra Kumar Bhalla guest of honour the. Sanbor Shullai ne ise apne South Shillong kshetra ke sthaniya MLA ke roop me lokarpit kiya (wo us samay Arts and Culture mantri bhi the, lekin ye koi rajya-star vibhagiya faisla nahi, seat-level lokarpan hai). Seng Khasi indigenous faith community ki lambe samay se chali aa rahi prayer-hall ki maang poori hui.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Lumparing me 10-bed wala Rs 4.13 crore ka Urban Primary Health Centre ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Aspataal",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2026/09/27/lumparing-gets-new-10-bed-urban-phc/",
+    date: "2026-09-26",
+    note: "RCC+3 facility State ki SPA Scheme 2023-24 ke tahat Health Engineering Wing ne banayi, lagat Rs 4.13 crore. Pehal 2021 me hui thi (karyakaal se pehle) lekin swikriti SPA 2023-24 me mili aur kaam poora isi karyakaal me hua; Lumparing Social and Cultural Club ne ~5,500 sq ft zameen muft me di thi. Shullai ne ise sthaniya MLA ke roop me lokarpit kiya (wo tab Cabinet Minister bhi the; Health vibhag ka faisla nahi, seat-level lokarpan). Teen Dorbar Shnongs ke logon ko maternity aur child health seva milegi; 12-13 staff posts ki swikriti abhi pending hai.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Kynjat Phutbol me Rs 95.03 lakh ki feeder road ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Sadak",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2025/12/21/shullai-inaugurates-feeder-road-lays-base-for-another-road-project-in-city/",
+    date: "2025-12-20",
+    note: "SPA-PWD Scheme 2025-26 ke tahat PWD ne Rs 95.03 lakh me banayi feeder road, jo PWD junction (Kynjat Phutbol) se Madanrit PWD road hote hue Umkynrut LP School, Riat Laban tak jati hai (Phase-I). Shullai ne ise lokarpit kiya; unhone kaha ye logon ki lambe samay se chali aa rahi maang thi aur swikriti ke liye CM-star tak pairavi karni padi.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Upper Kench's Trace me Rs 1.85 crore ke PWD road widening ka shilanyas kiya",
+    stage: "shilanyas",
+    category: "Sadak",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2025/12/21/shullai-inaugurates-feeder-road-lays-base-for-another-road-project-in-city/",
+    date: "2025-12-20",
+    note: "SPA-PWD Scheme 2025-26 me Rs 1.85 crore ki swikriti ke saath road widening, aqueduct, drainage aur blacktopping ka kaam — Madan Laban Nepali School ke samne se Seng Khasi Raid Laban Cultural Centre hote hue aage tak. Shullai ne shilanyas kiya; unhone bataya Rs 1.83 crore ka DPR taiyar hone ke baad swikriti mili aur road ko 18-20 feet chauda kiya jayega, jisse poora Riat Laban Dorbar Pyllun labhanvit hoga.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Madan Laban me Rs 5.26 crore ke synthetic football turf ka shilanyas kiya",
+    stage: "shilanyas",
+    category: "Any",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2025/01/12/shullai-gets-ball-rolling-for-synthetic-football-turf-in-madan-laban-area/",
+    date: "2025-01-11",
+    note: "Special Plan Assistance (SPA) scheme ke Rs 5.26 crore se Madan Laban me synthetic football turf, fencing, retaining walls, drains aur restroom ka kaam — Shullai ne shilanyas kiya aur kaha infrastructure sirf sports activities ke liye rahega. Usi event me unhone Rs 42 crore se zyada ke 4 aur sports infra ki yojana ghoshit ki thi, lekin wo sirf ghoshna hai isliye entry nahi bani.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Mynsain aur Mawnei (Lumparing) me kul Rs 2.52 crore ke do PWD road projects ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Sadak",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2025/01/26/shullai-inaugurates-two-major-road-projects-in-south-shillong/",
+    date: "2025-01-25",
+    note: "SPA scheme ke tahat PWD ne do roads banayi — Mynsain Upper Lumparing (Rs 1.38 crore) aur Mawnei Lower Lumparing (Rs 1.13 crore), kul Rs 2.52 crore. Shullai ne dono ka ek hi programme me lokarpan kiya; zameen sthaniya logon ne daan me di thi. Shullai ne kaha ab ambulance aur emergency seva logon ke ghar tak pahunch sakegi.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Jhalupara me Arya Vidyalaya Secondary School ke naye playfield aur seating gallery ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Any",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2024/10/06/sanbor-inaugurates-playfield-seating-gallery-in-jhalupara/",
+    date: "2024-10-03",
+    note: "Arya Vidyalaya Secondary School (1934 me sthapit), Jhalupara — Cantonment Civil Area — me bana naya playfield aur seating gallery Shullai ne school ko saunp diya (event Thursday ko hua; The Shillong Times ne 6 Oct ko report kiya). Lagat article me nahi batayi gayi. Facility school managing committee ki anumati se students ke saath-saath poore cantonment area ke youth aur sports clubs ke liye khuli rahegi.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Laban-Madan Laban me 1936 ke British-era water tank ki renovation (Rs 6 crore se zyada) poori hone par paani chhoda",
+    stage: "lokarpan",
+    category: "Paani",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2025/05/07/british-era-water-supply-tank-revived-in-city/",
+    date: "2025-05-07",
+    note: "AMRUT (Atal Mission for Rejuvenation and Urban Transformation) Kendra-scheme ke tahat 1936 ke British-era water tank aur leaking distribution pipes ki renovation, lagat Rs 6 crore se zyada; PHE department aur Shillong Municipal Board ne sanyukt roop se implement kiya. Shullai ne naye pipes se paani chhodkar kaam poora hone ki pushti ki; Laban aur Madan Laban ke logon ko nirbadh paani milega. Disclosure: implementation me SMB bhi shamil tha, isliye poori jankari ke saath darj hai.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Kynjat Phutbol Lumparing (Rs 2.05 crore) aur Madan Laban-Riat Laban (Rs 2.03 crore) me do Dorbar Hall-cum-Cultural Centres ka shilanyas kiya",
+    stage: "shilanyas",
+    category: "Any",
+    badge: "news",
+    sourceLabel: "Highland Post",
+    sourceUrl: "https://highlandpost.com/shillong-south-gets-two-devpt-projects/",
+    date: "2026-03-28",
+    note: "Shillong South ko ~Rs 4.09 crore ke do projects mile — Kynjat Phutbol Lumparing me Dorbar Hall-cum-Cultural Centre (Rs 2.05 crore) aur Madan Laban-Riat Laban me (Rs 2.03 crore). Shullai ne dono ke shilanyas kiye aur Dorbar Shnongs ko work order saunpe, jisse construction officially shuru hua. Halls me community hall, youth aur women groups ke karyalaya, shnong administrative office, sports club aur residents ke liye public facilities hongi.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Rilbong me Rs 1.98 crore ke PWD link road ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Sadak",
+    badge: "news",
+    sourceLabel: "The Shillong Times",
+    sourceUrl: "https://theshillongtimes.com/2026/04/12/new-rilbong-link-road-to-ease-rhino-point-traffic-congestion/",
+    date: "2026-04-11",
+    note: "SPA Scheme 2023-24 me Rs 1.98 crore ki PWD link road — Rilbong ke Art and Culture complex ke main entrance se Rilbong Community Hall-Umshyrpi Bridge road tak — Shullai ne lokarpit ki. Rhino Point ke chronic jam se bachne ke liye Rilbong aur Oxford Hills ke commuters ko MES road ka vikalp milega; Kench's Trace, Oxford aur Rilbong ke Dorbar Shnong maujud the.",
+    period: "2023-2028",
+  },
+  {
+    title: "Sanbor Shullai ne Cantonment area me NEFA Secretariat ke peeche Rs 3.36 crore ki link road ka lokarpan kiya",
+    stage: "lokarpan",
+    category: "Sadak",
+    badge: "news",
+    sourceLabel: "Northeast Now",
+    sourceUrl: "https://nenow.in/north-east-news/meghalaya/meghalaya-new-link-road-inaugurated-to-reduce-shillong-congestion.html",
+    date: "2026-04-04",
+    note: "MDA sarkar ki pehel par PWD (Roads) ne cantonment area me NEFA Secretariat ke peeche 0.185 km ki link road banayi, lagat ~Rs 3.36 crore; zameen Arunachal Pradesh sarkar ki thi. Shullai ne ise sthaniya MLA ke roop me khola; Anjali petrol pump ke paas ke jam me 10-20% kami ka anuman lagaya gaya. Disclosure: ye MDA sarkar/CM/Deputy CM (PWD) ki pehel thi, poori credit MLA ki nahi.",
+    period: "2023-2028",
+  },
+];
+
+meghalayaWorks['ronnie-v-lyngdoh'] = [];
+
+meghalayaWorks['charles-pyngrope'] = [
+  {
+    title: 'Rynjah ki Lumshngain Water Supply Scheme (Rs 6.72 crore) swikrit hui — PHE mantri ne ise Nongthymmai MLA Charles Pyngrope ke nirantar pratinivedanon ka natija bataya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/06/15/gswss-to-be-completed-by-march-2027-says-phe-min/',
+    date: '2026-06-13',
+    stage: 'swikriti',
+    note: 'The Shillong Times ki 14 June 2026 ki post-event report ke anusar PHE mantri Marcuise N. Marak ne 13 June 2026 ko Rynjah me Rs 6.72 crore ki Lumshngain Water Supply Scheme ka shilanyas kiya aur kaha ki ye nayi swikrit pariyojna Nongthymmai MLA Charles Pyngrope aur purva MLA Pyniaid Sing Syiem ke nirantar pratinivedanon ka natija hai; Pyngrope khud karyakram me maujood the aur unhone kshetra ki lambe samay se pending maang poori karne par sarkar ka dhanyavad kiya. Credit-cap: yojna PHE vibhag ki hai aur shilanyas mantri ne rakha — MLA ne is par apna koi dhana nahi lagaya; unki asal bhoomika pariyojna ke liye lagatar pratinivedan karna thi, jise mantri ne sarvajanik roop se swikara. Rynjah Nongthymmai kshetra ka hissa hai, isliye seat-level entry banti hai. Status: swikriti + shilanyas (nirman ki pragati report me nahi di gayi).',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['ardent-miller-basaiawmoit'] = [
+  {
+    title: 'St Peter\u2019s Secondary School Madanriting me do naye classroom ka udghatan — MLA Scheme se Rs 15 lakh ki lagat se bane',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/09/10/real-development-must-empower-youth-ardent/',
+    date: '2026-09-10',
+    stage: 'poora-kaam',
+    note: 'The Shillong Times ki 10 Sep 2026 ki post-event report ke anusar Nongkrem MLA Ardent Miller Basaiawmoit ne 9 Sep 2026 ko Madanriting sthit St Peter\u2019s Secondary School me do nav-nirmit classroom ka udghatan kiya; dono classroom MLA Scheme (Meghalaya ka Special Rural Works Programme, SRWP — Rs 2.5 crore prati kshetra prati saal) ke tahat Rs 15 lakh ki lagat se bane. School ke Managing Committee ne 20 Sep 2026 ki report me pushti ki ki poori rashi classroom-nirman, bench, marammat aur ek upper-floor classroom ke liye welded bridge par kharch hui aur poora hisaab school-infrastructure me parivartit hua. MLA ki asal bhoomika: unke MLA-scheme fund se anudan/sanction aur nirmaan ke baad udghatan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nongkrem me SRWP 2024-25 (Rs 2.5 crore) ka vitaran — low-cost houses, kisanon aur chhote vyapariyon ko sahayata; school, college, fitness centre aur cremation ground ko bhi madad',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/vpp-already-working-towards-election-2028/',
+    date: '2025-05-13',
+    stage: 'swikriti',
+    note: 'Highland Post ki 13 May 2025 ki post-event report ke anusar Nongkrem MLA Ardent Miller Basaiawmoit ne 12 May 2025 ko Nongkrem me Special Rural Works Programme (SRWP, lokpriya naam \u2018MLA scheme\u2019, Rs 2.5 crore prati kshetra prati saal) 2024-25 ka vitaran kiya; unhone low-cost houses ke nirmaan, kisanon aur chhote vyapariyon ke liye vittiya sahayata di aur school, ek college, ek fitness centre aur ek cremation ground ko bhi vittiya madad di. The Shillong Times (13 May 2025) ne bhi isi vitaran-sabha ki pushti ki. Caveat: media-report me kaam-war itemized rashi-suchi nahi hai, isliye badge news hai, sarkari nahi; yah vitaran-ghatna ka dastavej hai, pratyek kaam ke nirman ki pushti nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'NEGATIVE: Lumdiengjri police station me Ardent Miller Basaiawmoit ke khilaf FIR — KHADC CEM karyakaal me land-kharid ke naam par Rs 35,25,039 ke gaban, jalsazi aur bhrashtachar ke aarop',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/04/18/now-ex-khadc-mdc-files-fir-against-ardent/',
+    date: '2024-04-17',
+    note: 'The Shillong Times ki 18 Apr 2024 ki report ke anusar purva KHADC MDC Donkupar Sumer ne 17 Apr 2024 ko Lumdiengjri police station me Nongkrem MLA Ardent Miller Basaiawmoit ke khilaf FIR darj karai, jisme aarop hai ki Basaiawmoit ne KHADC ke Chief Executive Member (CEM) ke karyakaal me council ke liye zameen kharidne ke naam par Rs 35,25,039 ka gaban, chori, jalsazi aur criminal misappropriation ki, aur sale deed kabhi register nahi hui. MLA ka jawab record par hai: unhone aaropon ko jhootha, niradhaar aur galat batate hue Sumer ke khilaf Sadar police station me counter-FIR darj ki. Stage-framing: sirf FIR darj hui hai; 2026 ke chauthe traimas tak kisi charge-sheet, giraftari ya jaanch-nateeje ki whitelisted media me koi khabar nahi mili. Aarop KHADC CEM karyakaal (MLA karyakaal 2023-2028 se pehle) ke hain, Nongkrem kshetra-kaam se jude nahi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['synshar-kupar-roy-lyngdoh-thabah'] = [];
+
+meghalayaWorks['matthew-beyondstar-kurbah'] = [
+  {
+    title: 'Unke Vidhansabha prashn ke jawab me Up-Mukhyamantri ne Mawphlang kshetra ke liye 4 sadak pariyojnaon (2 PMGSY, 2 rajya yojna) ki ghoshna ki',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times, 29 Aug 2024',
+    sourceUrl: 'https://theshillongtimes.com/2024/08/30/govt-announces-four-new-projects-for-mawphlang/',
+    date: '2024-08-29',
+    note: 'The Shillong Times ki 29 Aug 2024 ki post-event reporting ke mutabiq Vidhansabha ke prashnakaal me Mawphlang vidhayak Matthew B. Kurbah ke prashn ke jawab me Up-Mukhyamantri (PWD Sadak) Prestone Tynsong ne kshetra ke liye 4 nayi sadak pariyojnaon ki ghoshna ki — do Kendra sarkar ki Pradhan Mantri Gram Sadak Yojana (PMGSY) ke tahat aur do rajya yojnaon ke tahat, jinka maksad grameen sadak connectivity behtar karna tha; isi jawab me Tynsong ne Mawngap me traffic jam ki samasya par Mawngap-Mawphlang sadak ko intermediate lane me badalne ka ashwasan bhi diya, lekin zameen-adhigrahan ko badi chunauti bataya. Stage: ghoshna (sirf Vidhansabha-ghoshna ki reporting mili, swikriti ya lokarpan ka koi dastavej nahi). Disclosure: ghoshna Up-Mukhyamantri ne ki thi — vidhayak ki asal bhoomika Vidhansabha me sadak-mudda uthane tak seemit hai, isliye shrey seemit (credit capped) rakha gaya hai; fund aur swikriti Kendra/rajya sarkar ki hai, vidhayak-nidhi (SRWP/MLA Scheme) ka ullekh report me nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['ollan-singh-suin'] = [
+  {
+    title: 'Mawsynram Block ke Phlangwanbroi gaon me Meghalaya Aroma Mission ke tahat Field Distillation Unit ka lokarpan MLA ne khud kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/11/07/field-distillation-unit-for-village-in-mawsynram/',
+    date: '2025-11-06',
+    note: '6 Nov 2025 ko Mawsynram Block ke Phlangwanbroi gaon me Field Distillation Unit ka lokarpan Mawsynram MLA Ollan Singh Suin ne khud kiya; karyakram me Meghalaya Basin Development Authority aur CSIR-IHBT Palampur ke adhikari maujood the. Fund-srot state sarkar ki Meghalaya Aroma Mission hai aur facility Farmers Malai Sohmat Protection Group ke liye banayi gayi hai — MLA ne ise constituency ki pehli distillation unit bataya aur kaha ki isse lemongrass, bay leaf aur patchouli ki kheti ko badhava milega. Post-event media report par adharit; pariyojana ka shrey sarkari mission aur sahyogi sansthaon ka hai, MLA ki bhoomika lokarpan aur prachar tak hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhan Sabha me lagatar maang uthane ke baad Sawsymper sub-centre ko PHC me upgrade karne ke kaam ka shilanyas 27 Feb 2024 ko hua.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/02/28/base-laid-for-sawsymper-phc-in-ekh/',
+    date: '2024-02-27',
+    note: 'Sawsymper sub-centre ko Primary Health Centre me upgrade karne ke kaam ka shilanyas 27 Feb 2024 ko Health Minister Ampareen Lyngdoh ne kiya; Mawsynram MLA Ollan Singh Suin karyakram me maujood the. MLA ne March 2023 me Vidhan Sabha me supplementary prashn ke zariye is upgrade ki maang uthayi thi jiska mantri ne sakaratmak jawab diya tha, aur mantri ne shilanyas ke avsar par swayam kaha ki sthaniya MLA ne unse lagatar is mudde ko uthaya. Credit seemit hai: prastav 2018 se lambit tha aur pichhle karyakaal me swikrit ho chuka tha; Suin ki bhoomika mantri par lagatar dabav banaye rakhne tak hai, shilanyas unhone nahi kiya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Phlangwanbroi se Ranikor tak 47 km sadak pariyojana ke liye Rs 265 crore ki swikriti ki ghoshna MLA ne 21 Dec 2025 ko ki.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/12/22/govt-sanctions-rs-265-crore-road-project-bridging-2-khasi-hills-dists/',
+    date: '2025-12-21',
+    note: 'Mawsynram MLA Ollan Singh Suin ne 21 Dec 2025 ko reporters ko bataya ki Phlangwanbroi (East Khasi Hills) se Ranikor (South West Khasi Hills) tak 47 km sadak ke liye Rs 265 crore swikrit hue hain, jisme lagbhag 27 km Mawsynram constituency me padega; unke anusar tender usi saptah nikalna tha aur pariyojana state scheme ke tahat banegi, World Bank fund se nahi. Swikriti ki ghoshna ka ekmatra srot MLA ka bayan hai — sarkari GO ya portal-suchi nahi dekhi gayi, isliye prashasnik pushti pending hai. Weiloi-Phlangwanbroi sadak ke liye World Bank se funding us samay abhi pending thi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['balajied-kupar-synrem'] = [
+  {
+    title: 'Shella ke Nongwar me Rs 3.13 crore ke Mawseintyllang Eco Tourist Resort ka lokarpan — MLA ne community-run tourism project ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/03/07/mla-inaugurates-resort-at-nongwar-overlooking-bdesh/',
+    date: '2024-03-06',
+    stage: 'poora-kaam',
+    note: 'The Shillong Times ki 7 March 2024 ki post-event report ke mutabik Shella ke MLA Balajied Kupar Synrem ne 6 March 2024 ko Shella Confederacy ke Nongwar gaon me Mawseintyllang Eco Tourist Resort ka lokarpan kiya. Rs 3.13 crore ka ye resort Lafarge Umiam Mining Company ke eco-restoration aur livelihoods creation project ke tahat bana hai — Supreme Court ke 6 July 2011 ke aadesh par bane Special Purpose Vehicle (SPV) ke fund se; SPV Society ke CEO ke mutabik kaam Tourism Department ko outsource hua jo lagbhag ek saal me poora hua, aur contractor gaon ka local Tamdor Nadon tha. Resort me chaar kamre, infinity swimming pool, Bangladesh ke maidanon ki taraf natural look-out point aur IHM Shillong se trained chefs wala rooftop restaurant hai, aur ise Dorbar Shnong Nongwar ki madad se community khud chalayegi; zameen shnong ne daan di thi. MLA ki asal bhoomika lokarpan aur kshetra me tourism ko badhawa dene tak hai — nirmaan aur fund ka credit Tourism Department aur Supreme Court-mandated Lafarge SPV ko jata hai. Udghatan me Dorbar Shnong ne MLA ko tourist sthalon tak pahunch-sadken sudharne ka memorandum bhi saunpa, jis par aage kaam ki koi pushti nahi mili.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['prestone-tynsong'] = [
+  {
+    title: 'Pynursla CHC ko Sub-Divisional Hospital banane ka shilanyas aur First Referral Unit (FRU) ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/11/29/pynursla-chc-becomes-sub-divisional-hospital/',
+    date: '2024-11-28',
+    note: 'The Shillong Times ki post-event report ke mutabik Deputy CM Prestone Tynsong ne 28 November 2024 ko Pynursla Community Health Centre me uske Sub-Divisional Hospital me upgrade hone ka shilanyas rakha, aur usi din CHC ka First Referral Unit (FRU) bhi inaugurate hua. Disclosure: Tynsong Meghalaya ke Deputy CM hain (Home, PWD, District Council Affairs, Parliamentary Affairs), lekin ye unki apni Pynursla seat me vyaktigat shilanyas/lokarpan tha; Health Minister Dr M. Ampareen Lyngdoh bhi maujood thin. Fund-srot: state government (Swasthya evam Parivar Kalyan vibhag) — khabar me rakam nahi batayi gayi. Ye rajya ka teesra Sub-Divisional Hospital hoga (Jengjal aur Jarain ke baad); FRU me Medicine, Prasuti-Stri Rog, Surgery aur Bal Rog me 24-ghante specialist care milegi, jisse Pynursla aur aas-paas ke logon ko lambi doori ka safar kam karna padega. Stage ka sach: hospital-upgrade ka shilanyas hua hai, uska nirman-kaam abhi baki hai; FRU ka lokarpan poora-kaam hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Lumpengshyrngan, Pynursla me Rural Integrated Community Development (RICD) Programme ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'EastMojo',
+    sourceUrl: 'http://eastmojo.com/meghalaya/2026/05/29/meghalaya-launches-rural-development-initiative-covering-10-villages/',
+    date: '2026-05-29',
+    note: 'EastMojo ki post-event report ke mutabik Deputy CM Prestone Tynsong ne 29 May 2026 ko Pynursla ke Lumpengshyrngan SSA LP and UP School me Rural Integrated Community Development (RICD) Programme ka lokarpan kiya — shiksha, swasthya, swachhata, pani, renewable energy aur community wellbeing par multi-sector pahal. Disclosure: Tynsong Deputy CM hain, lekin ye unki apni seat me vyaktigat lokarpan tha. Fund-srot: sarkari paisa nahi — Apollo Foundation-Total Health implement kar rahi hai aur Altius Telecom Infrastructure Trust CSR support de rahi hai (public-private partnership model). Program East Khasi Hills ke 10 gaon, 509 ghar aur 4,170 se zyada logon ko cover karta hai: 10 school (647 bachche) me smart classroom, computer-projector, solar bijli, gender-sensitive toilet, RO drinking water, aur 2 PHC + 2 Sub-Centre ko medical equipment. Stage ka sach: program ka lokarpan/launch hua hai, ye chal raha development model hai, ek-baari nirman-kaam nahi.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['gavin-miguel-mylliem'] = [
+  {
+    title: 'Swer me Lum Swer tak sudhri hui approach road ka lokarpan — Ramakrishna Mission Higher Secondary School tak ka marg shamil',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times, 10 Jul 2026',
+    sourceUrl: 'https://theshillongtimes.com/2026/07/11/meghalaya-nuggets-646/',
+    date: '2026-07-10',
+    note: 'Sohra MLA Gavin Miguel Mylliem ne Swer me Lum Swer tak sudhri hui approach road ka lokarpan kiya, jisme Ramakrishna Mission Higher Secondary School tak ka hissa bhi shamil hai; karyakram me PWD ke adhikari, paramparik neta aur sthaniya nivasi maujood the. Sadak se sainkdon nivasi aur school jaane wale bachchon ke aavaagaman ke surakshit aur aasaan hone ki aasha hai. Report me fund-srot ka ullekh nahi hai — MLA ne CM Conrad K Sangma, Deputy CM Prestone Tynsong aur PWD adhikariyon ka aabhar jataya, jisse pata chalta hai ki ye rajya PWD ka kaam hai, MLA nidhi ka nahi; MLA ki bhoomika lokarpan-karta ki thi.',
+    period: '2023-2028'
+  },
+];
+
+meghalayaWorks['banteidor-lyngdoh'] = [
+{
+    title: 'Mawkynrew MLA Banteidor Lyngdoh ne Jongksha gaon me Mawkynrew 89.60 FM Community Radio station ka lokarpan kiya (15 Mar 2024)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/jongksha-on-air-community-radio-station-launched/',
+    date: '2024-03-15',
+    stage: 'lokarpan',
+    note: 'Highland Post (16 Mar 2024) aur The Shillong Times (15 Mar 2024) dono ki post-event reporting ke mutabik, Mawkynrew MLA Banteidor Lyngdoh ne 15 Mar 2024 ko Jongksha gaon me Mawkynrew 89.60 FM Community Radio station ka lokarpan kiya — dono sroton ke mutabik ye rural Meghalaya ka pehla community radio station hai. Station ko North East Centre for Technology Application and Reach (NECTAR) ne poori tarah fund aur own kiya hai (Rs 60 lakh), aur ise Jongksha gaon ka dorbar chalayega; Highland Post ke mutabik ye Mawkynrew block ke 100 se zyada alag-thalag gaonon (lagbhag 35,000 log) tak pahunchega, jabki ST ke mutabik East Khasi Hills aur West Jaintia Hills ke nau nirvachan kshetron ke 200 gaon isse judenge — programmes me shiksha, swasthya, paryavaran, krishi aur sthaniya sangeet honge. MLA ki asal bhoomika sirf udghatanakarta ki thi — station NECTAR ki pahal hai, isliye credit capped hai. Mantri-disclosure: event ke samay wo cabinet mantri NAHI the (2023 ke baad se sirf MLA hain). Fund-source disclosure: poora funding NECTAR se hai; SRWP/MLA Scheme ka koi zikr srot me nahi hai. Tarikh: ST ne dateline "SHILLONG, March 15" di aur kaha ki station "on Friday" inaugurate hua (15 Mar 2024 Friday tha), isliye event date 2024-03-15 mani gayi hai.',
+    period: '2023-2028',
+},
+];
+
+// REJECT-LOG (heaving-stone-kharpran — Mawryngkneng (ST), VPP, karyakaal Mar 2023–2028; mantri pad nahi):
+// 1. The Shillong Times (8 Oct 2026): Diengpasoh temporary police checkpoint ka nirikshan aur officer-in-charge se sawal-jawab — nirikshan akela, koi poora kaam ya prashasnik nateeja nahi; REJECT. https://theshillongtimes.com/2026/10/08/vpp-seeks-accountability-over-vehicle-checks-at-diengpasoh-checkpoint/
+// 2. The Shillong Times (26 Aug 2026): New Shillong Water Supply Scheme Phase-I ke cost revision (Rs 538.44 crore se Rs 772.924 crore) par call attention motion — sirf PHE mantri ka jawab/spashtikaran aaya, documented prashasnik nateeja nahi; scheme statewide (New Shillong Township) bhi hai; REJECT. https://theshillongtimes.com/2026/08/26/opp-questions-rs-850-crore-nst-ii-water-supply-tender/
+// 3. Highland Post (24 Feb 2026): Mawshbuit road access (Happy Valley–Mawshbuit, defence land) par supplementary question — Deputy CM ne Assembly me sirf "positive results" ka bayan diya, aupcharik proceedings "expected shortly" thin; koi documented nateeja nahi; Mawshbuit kshetra-bahar (Happy Valley side) bhi sambhav aur ye apni pahal nahi (supplementary); REJECT. https://highlandpost.com/mawshbuit-road-access-solution-close-at-hand-prestone/
+// 4. Highland Post (drug users 3 lakh): Kharpran ne Assembly me drug-addiction ka mudda uthaya, Social Welfare mantri ne aankde diye — sirf sawal-jawab, prashasnik nateeja nahi; REJECT. https://highlandpost.com/meghalaya-drug-users-now-number-whopping-3-lakh/
+// 5. India Today NE (17 Feb 2026): Bangladesh infiltration par call attention notice — Dy CM ne figures rakhe, koi prashasnik nateeja nahi; REJECT. https://www.indiatodayne.in/meghalaya/story/658-bangladesh-nationals-prosecuted-in-meghalaya-since-2021-194-deported-dy-cm-1347439-2026-02-17
+// 6. Syllad (10 Mar 2025): Mawryngkneng C&RD Block ko Civil Sub-Division banane ki mang — Dy CM Prestone Tynsong ne "no plan" kaha; mang reject hui, maang akeli; REJECT. https://www.syllad.com/no-plan-to-upgrade-mawryngkneng-crd-block-to-a-civil-sub-division-tynsong/
+// 7. The Shillong Times (22 Sep 2023): SDRF fund assistance par question-hour query — sirf sawal, nateeja nahi; REJECT. https://theshillongtimes.com/2023/09/23/mla-moots-funds-to-deal-with-disasters-promptly/
+// 8. NEVA Assembly question list (cms.neva.gov.in PDF): Sohryngkham Health Sub-Center PHC upgrade (sarkar ka intent, par zameen na milne se delay — nateeja nahi), Mawlynrei Sub-Centre PHC (under examination), Puriang sub-center (proposed under PM-ABHIM), 450 electric poles replacement — sab maang/prastav stage, documented nateeja nahi; srot whitelist me bhi nahi; REJECT. https://cms.neva.gov.in/NeVA/ML/FileStructures//Notices/f62feae0-d7ab-4189-80dc-e3cc94ffefb3.pdf
+// 9. PIB (14 Oct 2023): NEIGRIHMS Shillong me Union Health Minister Mansukh Mandaviya ke karyakram me sirf maujoodgi — dusre neta ke karyakram me maujoodgi; REJECT. https://www.pib.gov.in/PressReleasePage.aspx?PRID=1967732&ui=2&tf=1&pli=1&reg=3&lang=2
+// 10. meghalayatimes.in (23 Oct 2025): MIT University Management Symposium me keynote address — karyakram me bhashan/maujoodgi, kshetra-kaam nahi; REJECT. https://meghalayatimes.in/management-symposium-2025-held-at-mit-university-of-meghalaya/
+// 11. The Shillong Times (4 Dec 2025): Mawlynrei me Inner Wheel Club of Shillong ne do classrooms inaugurate kiye — dusri sanstha ka kaam, MLA ki koi bhoomika nahi; REJECT. https://theshillongtimes.com/2025/12/04/members-of-inner-wheel-club-of-shillong-pose-in-mawlynrei-village-after-inaugurating-two-classrooms/
+// 12. Syllad (Nov 2025)/syllad Jarain (Oct 2025): Mount Hermon School Mebitpara (Gambegre seat), Jarain Govt LP School (Amlarem seat) — galat MLA/galat kshetra; REJECT.
+// 13. NEGATIVE CHECK: Highland Post (25 May 2025) me HNLC ke bayan me Kharpran ke halafnama assets (Rs 1.09 crore) ka zikr sirf Ardent Basaiawmoit wale context me tha — Kharpran par koi aarop nahi; unke khilaf koi FIR ya pusht adhikarik jaanch nahi mili; halafname me bhi 0 aapradhik mamle. Isliye NEGATIVE entry nahi.
+// 14. Pehchan verified: Heaving Stone Kharpran, VPP, Mawryngkneng (ST), karyakaal 2023-2028, koi mantri pad nahi; naam/seat/party foundation record (meghalaya.ts, lines 372-396) se match. Kharwanniang/Kharpuri jaise namesakes ki khabren alag rakhi gayin.
+
+// RETRY LEADS:
+// 1. Highland Post (18 Dec 2024): "School gets additional classroom" — Wikipedia (Heaving Stone Kharpran page, reference [5]) ke mutabik Spark Morning School, Mawlynrei ka SRWP/MLA-fund se bana classroom December 2024 me MLA ne inaugurate kiya; multiple searches me article ka URL nahi mila aur page khola nahi ja saka, isliye entry nahi banayi (niyam: bina khole entry nahi). Highland Post archive me "Spark Morning School" / 18 Dec 2024 se retry karo.
+// 2. Meghalaya ke MLA Scheme/SRWP ki itemized neta-war sanction suchi online uplabdh nahi hai (fund note bhi yehi kehta hai); MLA ke office/DIPR se suchi mile to Spark Morning School classroom aur anya school projects ki sarkari-badge entries ban sakti hain.
+
+// QA: 11 web-search khoj-prayas + 1 whitelisted page (Shillong Times EMRS story) kholkar padha + Wikipedia citation cross-check. Entries: 1 (School category, news badge). Rejects: 14. Negative: nahi mila. Sab Roman-script Hinglish me, "Rs" ke saath, period 2023-2028.
+
+// REJECT-LOG (alexander-laloo-hek):
+// 1. Golflinks me children's park + futsal ground par meeting ka faisla (The Shillong Times, 9 Feb 2024)  -  Hek ne meeting ki adhyakshata ki aur Dorbar Shnong Golflink ko park chalane ki zimmedari ka faisla hua, lekin park tab bana hi nahi tha; koi lokarpan/shilanyas/swikriti nahi, sirf meeting decision = REJECT. URL: https://theshillongtimes.com/2024/02/09/pynthorumkhrah-headman-hopes-employment-from-new-park/
+// 2. Lailad-Nongmensong road ka pending kaam (The Shillong Times, 4 Oct 2026)  -  Hek ne kaha barish ke baad bitumen kaam phir shuru hoga aur sadak poori hogi; future-tense bayan, poore kaam ki reporting nahi = "karenge" khabar REJECT. URL: https://theshillongtimes.com/2026/10/04/lailad-nongmensong-road-work-will-resume-after-rains-local-mla/
+// 3. Pynthorumkhrah me sadak marammat ki samiksha (The Shillong Times, 18 Oct 2024)  -  PWD adhikariyon ke saath review meeting aur tezi ka nirdesh; Polo beautification project "revive hoga" ka vaada future-tense hai; nirikshan/daura akele + karenge khabar = REJECT. URL: https://theshillongtimes.com/2024/10/18/hek-reviews-road-repair-work-in-pynthorumkhrah/
+// 4. Demthring me Modern Bi-Species abattoir ka lokarpan (Syllad, 19 Dec 2023)  -  West Jaintia Hills me mantri ke roop me vibhagiya rajya-star kaam (kshetra-bahar); plus Syllad whitelist me nahi = REJECT. URL: https://www.syllad.com/al-hek-inaugurated-the-long-awaited-modern-bi-species-abattoir-in-demthring-village/
+// 5. Upper Shillong me state-of-the-art veterinary hospital (Syllad, 21 Mar 2025)  -  "sarkar priority par banayegi" ki future ghoshna; kaam poora/shuru hone ki reporting nahi + Syllad whitelist me nahi = REJECT. URL: https://www.syllad.com/govt-to-set-up-state-of-the-art-veterinary-hospital-at-upper-shillong-hek/
+// 6. Wah Umkhrah Riverfront Project ka shilanyas (The Shillong Times, 7 Feb 2024)  -  CM Conrad Sangma ne shilanyas kiya, Hek sirf maujood the; rajya-star rajdhani karyakram + dusre neta ke karyakram me maujoodgi = REJECT. URL: https://theshillongtimes.com/2024/02/07/foundation-stone-laid-for-riverfront-project/
+// 7. St. Joseph's School Pynthorumkhrah me HS section ka udghatan (The Shillong Times, 15 Sep 2018)  -  pre-term (2023 se pehle) + CM ne lokarpan kiya, Hek maujoodgi = REJECT. URL: https://theshillongtimes.com/2018/09/15/cm-inaugurates-hs-section-at-st-josephs/
+// 8. Mawpat Dorbar ke tahat nayi sadak ka shilanyas (The Shillong Times, 1 Sep 2020)  -  pre-term (Sep 2020) = REJECT. URL: https://theshillongtimes.com/2020/09/01/foundation-stone-laid-for-road/
+// 9. Pynthorbah Health and Wellness Centre ka udghatan (The Shillong Times, 24 Sep 2019)  -  pre-term (2019) + health minister ke roop me vibhagiya kaam = REJECT. URL: https://theshillongtimes.com/2019/09/24/hek-inaugurates-pynthorbah-health-wellness-centre/
+// 10. St George Secondary School Nongmensong me corona care centre (The Shillong Times, 30 May 2021)  -  pre-term (2021) + relief/rahat category = REJECT. URL: https://theshillongtimes.com/2021/05/30/hek-inaugurates-corona-care-centre/
+// 11. Rangmaw/Mylliem me 2 health sub centres (Syllad, 23 Dec 2020)  -  pre-term + kshetra-bahar (doosre kshetra) + Syllad whitelist me nahi = REJECT. URL: https://www.syllad.com/hek-dedicates-2-health-sub-centres-as-christmas-gifts-to-people-of-rangmaw-myllliem/
+// 12. Nongmynsong Presbyterian LP/UP School annexe (The Shillong Times, 6 Aug 2012)  -  pre-term (2012) = REJECT. URL: https://theshillongtimes.com/2012/08/06/school-block-inaugurated/
+// 13. NEIGRIHMS ko INI status ki maang (The Shillong Times, 11 Jun 2026)  -  kendriya mantri se maang/prastav akele; rajya-star mudda, kshetra-kaam nahi = REJECT. URL: https://theshillongtimes.com/2026/06/11/hek-seeks-ini-status-for-neigrihms/
+// 14. Langkyrding Minghi me flooding par CE-PWD ko patra (The Shillong Times, 5 Sep 2026)  -  representation/maang akele; koi documented prashasnik nateeja nahi = REJECT. URL: https://theshillongtimes.com/2026/09/05/hek-seeks-urgent-measures-over-flooding-in-shillong-locality/
+// 15. GHADC me bhrashtachar ki janch ka vaada (The Shillong Times, 16 Dec 2025)  -  "agar BJP EC banati hai to" shart par chunavi vaada; kaam nahi, kshetra-bahar (Garo Hills) = REJECT. URL: https://theshillongtimes.com/2025/12/16/hek-promises-investigation-into-irregularities-in-ghadc-if-bjp-forms-ec/
+// 16. Dharmik/sanskritik sthalon ke liye Swadesh Darshan/PRASAD prastav (hubnetwork.in, 16 Apr 2026; Syllad, 17 Apr 2026)  -  kendriya netaon se baat/prastav akele; hubnetwork aur Syllad dono whitelist me nahi = REJECT. URL: https://hubnetwork.in/proposal-for-religious-tourism-in-meghalaya-to-be-sent-to-centre-hek/
+// 17. Wah Umkhrah tributaries ki suraksha ki maang (The Shillong Times, 9 Feb 2024)  -  sarkar se maang akele; koi documented nateeja nahi = REJECT. URL: https://theshillongtimes.com/2024/02/09/mla-for-protection-of-wahumkhrah-tributaries/
+// 18. Negative check: whitelisted established media me Hek khud aaropit ho aur FIR darj hui ho ya pusht aadhikarik janch chal rahi ho  -  aisa koi qualifying case nahi mila (halafname me criminal cases 'No'; 2019 MCC show-cause me FIR nahi thi; 2013 CSWO "tainted" list pre-term aur FIR-suboot wali reporting nahi) = koi NEGATIVE entry nahi bani.
+
+// RETRY LEADS: koi nahi  -  jo 2 source pages padhne ke liye khole gaye (2026-10-16 Meghalaya Nuggets MLALAD grant khabar, 2024-10-18 road review khabar), dono khul gaye aur padhe gaye.
+
+// REJECT-LOG (brightstarwell-marbaniang):
+// 1. Shillong MP + MLA ne NESIDS/PMGSY sadakon ka nirikshan kiya (The Shillong Times, 31 Oct 2024): 14.279-km Shillong-Umroi Airport road (Rs 34.63 crore) aur Lummawsing Mawtawar-Mawsiatkham PMGSY road (Rs 6.85 crore)  -  MLA ki bhoomika sirf contractor ke saath nirikshan thi, sanction pehle ke; nirikshan/daura akele = REJECT. URL: https://theshillongtimes.com/2024/10/31/shillong-mp-vpp-mla-inspect-key-road-projects-in-mawlai/
+// 2. PHE water supply par Assembly query (Highland Post, 9 Sep 2025): Mawlai me 28 lakh litre/day ki kami uthayi, mantri ne JJM project aur CM ne Rs 700 crore Wahrynthem scheme (pehle se swikrit) batayi  -  sirf sawal, uski pahal se koi documented prashasnik nateeja nahi; maang/prastav akele = REJECT. URL: https://highlandpost.com/shillong-receives-25-pc-less-phe-water-than-required-mawlai-even-worse-off/
+// 3. GSWSS Phase III delay par Assembly bhashan (The Shillong Times, 28 Feb 2024): 16 saal ki deri par virodh aur JJM me pragati na hone ki shikayat  -  sirf shikayat/peech, koi nateeja nahi; maang akele = REJECT. URL: https://theshillongtimes.com/2024/02/28/gswss-delay-riles-vpp-mla/
+// 4. Marten landfill se groundwater contamination ki janch ki maang (The Shillong Times, 25 Feb 2026): PHE mantri ne "examine karenge aur scientific study par vichar karenge" ka aashwasan diya  -  mantri ka vaada, documented result nahi; "karenge" khabar = REJECT. URL: https://theshillongtimes.com/2026/02/25/vpp-mla-calls-for-probe-into-water-contamination-from-marten/
+// 5. Shillong traffic/NH-6 widening par Question Hour sawal (The Shillong Times, 28 Feb 2026): DPR/footpaths/alternative route ke sawal  -  sirf prashna, koi nateeja nahi; REJECT. URL: https://theshillongtimes.com/2026/02/28/assembly-unites-over-traffic-snarls-in-city/
+// 6. Urban Health and Wellness Centre ka udghatan, Mawlai Mawdatbaki (The Shillong Times, 1 Mar 2024): Health Minister Ampareen Lyngdoh ne inaugurate kiya, Marbaniang sirf maujood the  -  dusre neta ke karyakram me maujoodgi = REJECT. URL: https://theshillongtimes.com/2024/03/01/health-wellness-centre-for-mawlai-mawdatbaki/
+// 7. Wahi health centre khabar (Syllad, 29 Feb 2024)  -  whitelist me Syllad nahi + sirf maujoodgi = REJECT. URL: https://www.syllad.com/health-minister-inaugurates-urban-health-and-wellness-centre-at-mawlai-mawdatbaki/
+// 8. NEHU 57th NSS Day (The Shillong Times, 27 Sep 2026): chief guest ke roop me bayaan  -  karyakram me maujoodgi, koi kaam nahi; REJECT. URL: https://theshillongtimes.com/2026/09/27/meghalaya-nuggets-681/
+// 9. Shillong Polytechnic diamond jubilee (Syllad, Oct 2026): bas shubhkamna bhashan  -  non-whitelist + maujoodgi; REJECT. URL: https://www.syllad.com/rymbui-pushes-industry-linked-training-to-prepare-meghalayas-engineers-for-emerging-technologies/
+// 10. RCLP School Kyndong Tuber platinum jubilee (yutipnews, Mar 2026): Education Minister ke karyakram me upasthiti, kshetra West Jaintia Hills me  -  non-whitelist + maujoodgi + kshetra-bahar; REJECT. URL: https://yutipnews.com/news/education-minister-attends-platinum-jubilee-celebration-of-rclp-school-kyndong-tuber/
+// 11. Illegal coal mining complaint par Katakey Committee ka crackdown order (The Shillong Times, 5 Dec 2025): Marbaniang SHIKAYAT-KARTA the (Lumbangla, East Jaintia Hills me avaidh khadan ki complaint, committee ne DC/SP ko action ka nirdesh diya)  -  administrative nateeja mila lekin kshetra-bahar (Mawlai seat nahi) = REJECT. URL: https://theshillongtimes.com/2025/12/05/panel-slams-polices-failure-to-detect-illegal-coal-mine-in-ejh/
+// 12. CRPF camp relocation par Assembly sawal (t7news, 12 Sep 2025)  -  whitelist me t7news nahi + sirf sawal; REJECT. URL: https://t7news.com/debate-over-relocation-of-crpf-camp-from-mawlai-to-new-shillong/
+// 13. Coal blast debate par Speaker ka sub judice bar (The Shillong Times, 20 Feb 2026; 4frontmedia): Marbaniang ka notice disallow hua  -  koi charcha ya nateeja nahi; REJECT. URLs: https://theshillongtimes.com/2026/02/20/speakers-rejection-of-discussion-on-coal-tragedy-irks-vpp-mla/ aur https://www.4frontmedia.in/current-affairs/vpp-mla-brightstarwell-marbaniang-objects-to-sub-judice-bar-on-coal-blast-debate-in-assembly/
+// 14. Mawlai substation upgrade me delay par VPP ka sawal (The Shillong Times, 11 Mar 2025): NESIDS-OTRI project par query  -  sirf sawal, koi nateeja nahi; REJECT. URL: https://theshillongtimes.com/2025/03/11/vpp-grills-govt-over-delay-in-upgrade-of-mawlai-substation/
+// 15. Nonghali scientific landfill par Assembly sawal (The Shillong Times, 29 Aug 2026): mantri ne EIA/SEIAA sthiti batayi, project pehle se chal raha  -  sirf sawal; REJECT. URL: https://theshillongtimes.com/2026/08/29/nonghali-scientific-landfill-project-enters-final-stage-of-env-clearance/
+// 16. Nehru Memorial State Dispensary ka pending rent (hubnetwork.in, Nov 2025): mantri ka action, MLA ke memorandum ke baad  -  whitelist me hubnetwork nahi = REJECT. URL: https://hubnetwork.in/health-minister-orders-release-of-pending-rent-for-mawlai-dispensary/
+// 17. Negative check: whitelisted established media me Marbaniang par koi FIR, pusht aadhikarik janch ya chunav-yachika ki qualifying reporting nahi mili; halafname me bhi criminal cases 'No'  -  koi NEGATIVE entry nahi bani. Reject-log item 11 me woh shikayat-karta the (peedit/complainant), aaropit nahi  -  negative-niyam (c) ke mutabik REJECT.
+// 18. Office kholna/report-card jaisi party-gatividhi ya personal charity ki koi whitelist-reported khabar nahi mili  -  VPP-niyam ke tahat vaise bhi kaam nahi hote.
+
+// RETRY LEADS: koi nahi  -  jo 4 source pages kholne ka prayas kiya (2026 SRWP vitran, 2024 SRWP work orders, Dec 2025 road inspection, Dec 2025 Dorbar credit dispute), sab khul gaye aur padhe gaye.
+
+// REJECT-LOG (dr-mazel-ampareen-lyngdoh — East Shillong (ST), NPP, karyakaal Mar 2023–2028; Health Minister 7 Mar 2023 – 16 Sep 2025, uske baad sirf MLA):
+// 1. The Shillong Times (2 Oct 2024): PM Modi ke liye symbolic ribbon-cutting kar Faecal Sludge & Septage Treatment Plant inaugurate kiya — AMRUT central project, SMB ka kaam, mantri ke roop me PM ki taraf se symbolic maujoodgi; mantri-niyam + dusre neta ka karyakram, REJECT.
+// 2. The Shillong Times (19 Aug 2025): Laitumkhrah Rs 38-crore Municipal Market ka "no hurry to inaugurate" review — sirf nirikshan/bayan, lokarpan hua hi nahi; nirikshan akela, REJECT.
+// 3. The Shillong Times (6 Apr 2026): Laitumkhrah Commercial Market "set to open" — sirf pre-opening bayan, kaam Aug 2020 se (pre-term), Shillong Smart City project; kaam akela entry nahi, REJECT.
+// 4. Highland Post (16 Sep 2026): Rs 24.27 crore Malki Market redevelopment ka shilanyas CM Conrad K Sangma ne kiya, Ampareen sirf maujood — dusre neta ke karyakram me maujoodgi, REJECT (market wala hissa).
+// 5. T7 News (24 Feb 2026): Rs 139-crore Malki Market DPR wali khabar — "karenge" ghoshna stage + srot whitelist (T7) me nahi, REJECT.
+// 6. The Shillong Times (12 Jan 2024): IPHL inauguration Pasteur Institute — Health Minister ke roop me, PM-ABHIM central scheme, 7 districts statewide; mantri-niyam (statewide health vibhag kaam), REJECT.
+// 7. Syllad (24 Nov 2023): Mawkdok Sub Centre inauguration — Sohra constituency, kshetra-bahar + mantri-niyam + srot whitelist me nahi, REJECT.
+// 8. Syllad/meghalaya.gov.in (29 Feb 2024): Urban Health & Wellness Centre Mawlai Mawdatbaki — Mawlai seat, kshetra-bahar + mantri-niyam + srot whitelist me nahi, REJECT.
+// 9. Syllad/Highland Post (27-28 Feb 2024): Sawsymper Sub-Centre se PHC upgrade ka foundation — Mawsynram seat, kshetra-bahar + mantri-niyam, REJECT.
+// 10. Elets eHealth (Jun 2024): Smit PHC me X-ray unit inauguration — Health Minister ke roop me + kshetra-bahar + srot whitelist me nahi, REJECT.
+// 11. The Shillong Times (3 Feb 2024): PMR Centre Laban inauguration — "Health Minister Ampareen Lyngdoh" ne inaugurate kiya, spasht mantri-bhoomika; mantri-niyam, REJECT.
+// 12. Syllad/nenews/hubnetwork (23 Sep 2026): MBOSE Regional Office foundation + 81/82 school buildings — CM ne kiya, Ampareen sirf maujood, REJECT.
+// 13. Syllad (9 Jul 2023): Meghalaya High Court Annex (Rs 45 crore) — CM ne inaugurate kiya, maujoodgi matra, REJECT.
+// 14. The Shillong Times (9 Apr 2025): Lachumiere Smart Road ka on-site inspection — nirikshan akela, koi nateeja/kaam nahi, REJECT.
+// 15. The Shillong Times (5 Jun 2024): World Environment Day par Laitumkhrah Dorbar karyakram me speech — ceremonial bayan, REJECT.
+// 16. The Shillong Times (30 Dec 2025): "Regular water supply should be govt's top priority" — maang/bayan akeli, REJECT.
+// 17. The Shillong Times (24 Feb 2026): Budget Session me hawker relocation/police infra/solar lamps par concerns — Assembly me maang/prastav, documented prashasnik nateeja nahi, REJECT.
+// 18. The Shillong Times (20 Jun 2026): SIR electoral rolls par "legacy docs" warning — bayan/rai, REJECT.
+// 19. The Shillong Times (17 Aug 2026): Nongmensong school building inauguration — Deputy CM Sniawbhalang Dhar ne inaugurate kiya, Ampareen sirf maujood; unka "financial support" = vyaktigat charity; maujoodgi + charity, REJECT.
+// 20. EastMojo (Aug 2025): DREAM drug-rehab/dedicated drug treatment centres Shillong-Tura ghoshna — statewide Health vibhag ki ghoshna, mantri-niyam, REJECT.
+// 21. EastMojo (14 Sep 2026): Barik/Dhankheti vendors ko relocation grants — CM ne distribute kiye, Ampareen sirf attendees me maujood, REJECT.
+// 22. Highland Post (25 Sep 2026)/The Shillong Times (26 Sep 2026): UDP-BJP defection par "instability is fiction" — political bayan, REJECT.
+// 23. T7 News (15 Oct 2025): Laitumkhrah harassment incident ki ninda — bayan; woh aaropit nahi, srot bhi whitelist me nahi; negative nahi banta, REJECT.
+// 24. YouTube Batesi TV/other: Malki market visit clips — video-only, whitelist me nahi, REJECT.
+// 25. NEGATIVE CHECK: halafnama ka CBI "white ink" case (Laitumkhrah PS 62(7)/2011, Special CBI Case 2/2020) — Meghalaya HC (CJ I.P. Mukerji) ne 4 Sep 2025 ko saare aarop quash karke proceedings khatm ki, teeno aaropit discharge (The Hindu + EastMojo, whitelisted). Aarop-mukt/discharge = negative nahi banta. FIR 2011 ki hai (pre-term), koi vartaman-tenure FIR/jaan nahi mili. Isliye NEGATIVE entry nahi.
+// 26. Pehchan verified: Dr. Mazel Ampareen Lyngdoh, NPP, East Shillong (ST), 2023-2028; Health Minister 7 Mar 2023 – 16 Sep 2025 (cabinet reshuffle me hatayi gayin); naam/pad/seat foundation record se match. "Lyngdoh" namesake trap se bachne ke liye sirf "Ampareen"/"M. Ampareen"/"Mazel Ampareen Lyngdoh" wali khabren li — Gavin Mylliem (Sohra), S.A. Lyngdoh (DMHO) jaise namesakes ke items alag rakhe.
+
+// RETRY LEADS: koi nahi — qualifying page (Highland Post Malki story) seedha khul gaya; baaki mentions snippet-level par hi reject-pattern me the.
+
+// QA: 10 khoj-prayas (8 web searches + 1 page kholkar verify + 1 negative-check). Entries: 1 (shilanyas, news badge). Rejects: 25 + 1 retry-lead note. Mantri-niyam sakhti se lagaya — 2023-25 ke lagbhag saare inaugurations Health Minister ke roop me statewide the, isliye reject; ekmatra vyaktigat kshetra-shilanyas Khliehshnong, Malki (16 Sep 2026) mila.
+
+// REJECT-LOG (adelbert-nongrum — North Shillong (ST), VPP, karyakaal 2023-2028; pehchan verified: foundation me slug 'adelbert-nongrum', seat North Shillong (ST), VPP; ye 2018-23 me KHNAM ticket par MLA rahe — purana kaam pre-term = reject):
+// 1. Jaiaw road (Jaiaw Umpohliew Block, 500 metre) ke widening ka shilanyas, Dec 2022 (The Shillong Times, https://theshillongtimes.com/2022/12/29/widening-of-jaiaw-road-begins/) — REJECT: pre-term (KHNAM tenure, SUWP 2022-23).
+// 2. Dr. H Gordon Roberts Hospital (Jaiaw) ke NICU ko Rs 10 lakh ka daan, Feb 2022 (The Shillong Times, https://theshillongtimes.com/2022/02/21/mla-donates-to-city-hospital/) — REJECT: pre-term + vyaktigat charity.
+// 3. Jail Road beautification project ka lokarpan (SUWP/MLA scheme), Feb 2022 (The Shillong Times, https://theshillongtimes.com/2022/02/28/vote-for-change-not-to-be-in-chains/) — REJECT: pre-term.
+// 4. Jaiaw-Mawlai two-lane bridge (Wahumkhrah river) ka lokarpan, Mar 2022 (Syllad, https://www.syllad.com/bridge-connecting-jaiaw-mawlai-inaugurated/) — REJECT: pre-term + Dy CM ne lokarpan kiya, MLA sirf maujood the.
+// 5. SMB Market Complex Polo ka lokarpan, Aug 2020 (Syllad, https://www.syllad.com/smb-market-complex-at-polo-inaugurated/) — REJECT: pre-term + sirf maujoodgi.
+// 6. Jail Road public toilet ka lokarpan (MLA scheme Rs 14.73 lakh), Sep 2020 (The Shillong Times, https://theshillongtimes.com/2020/09/19/dohling-inaugurates-public-toilet-in-city/) — REJECT: pre-term.
+// 7. Meghalaya House Vellore ke upgrade ke liye SUWP se Rs 50 lakh dene ka offer, Jan 2026 (The Shillong Times, https://theshillongtimes.com/2026/01/21/adelbert-offers-funds-to-upgrade-meghalaya-house-in-vellore/) + Highland Post Feb 2026 — REJECT: kshetra-bahar (Vellore, Tamil Nadu) + sirf offer, hua nahi.
+// 8. Polo modern shopping mall ke inauguration me na bulaya jana, Jul 2025 (The Shillong Times, https://theshillongtimes.com/2025/07/11/north-shillong-mla-not-invited-to-inauguration/) — REJECT: MLA ka kaam hi nahi, maujoodgi ka virodh.
+// 9. Synod College foundation day me maujoodgi, Jul 2026 (Highland Post, https://highlandpost.com/synod-college-celebrates-foundation-day/) — REJECT: sirf maujoodgi, kaam nahi.
+// 10. Estimates Committee ka Shillong Smart City projects nirikshan, Nov 2024 (Syllad, https://www.syllad.com/assembly-panel-inspects-key-projects-under-shillong-smart-city-project/) — REJECT: nirikshan/daura akela.
+// 11. Estimates Committee ka Sabahmuswang residential school nirikshan, Sep 2023 (Syllad, https://www.syllad.com/meghalaya-estimate-committee-inspects-residential-school-in-sabahmuswang/) — REJECT: nirikshan + kshetra-bahar (West Jaintia Hills).
+// 12. Jaiaw midnight raid par CBI probe ki maang (memorandum), Oct 2026 (Highland Post, https://highlandpost.com/raid-on-ksu-hq-led-to-shock-trauma-for-jaiaw-residents-govt-told/) — REJECT: maang/prastav akela; MLA shikayat-karta hai, Aaropit nahi.
+// 13. Dy CM Prestone Tynsong ke khilaf FIR (police recruitment age-limit mudda), Apr 2024 (The Shillong Times, https://theshillongtimes.com/2024/04/11/adelbert-files-fir-against-prestone/) — REJECT: negative ke sakht niyamon par MLA khud complainant hai, Aaropit nahi.
+// 14. Covid fund misappropriation par FIR, Feb 2023 (Syllad, https://www.syllad.com/nongrum-files-fir-over-alleged-misappropriation-of-covid-funds/) — REJECT: MLA complainant; karyakaal se pehle (Feb 2023) ka kadam.
+// 15. VPP se 3 saal ka suspension (Mar 2025) — REJECT negative: party-internal anushasanatmak karyavahi; koi FIR, adalat-case ya pusht aadhikarik jaanch report nahi; dal-badal/anti-defection rule se akela negative nahi.
+// 16. Reservation policy PIL wapas lena, Jul 2026 (Highland Post, https://highlandpost.com/pil-on-reservation-of-seats-for-higher-studies-withdrawn/) — REJECT: adalat/litigation, kshetra-kaam nahi.
+// 17. Vande Mataram resolution ka virodh (EastMojo, Mar 2026, http://eastmojo.com/news/2026/03/07/meghalaya-mla-adelbert-nongrum-objects-to-full-rendition-of-vande-mataram/) — REJECT: sansadiya maang/prastav, kaam nahi.
+// 18. Umiam luxury resort project ka virodh (Apr 2026, theshillongdaily.com — whitelist bahar) — REJECT: project ka virodh, lokarpan/swikriti nahi; srot bhi whitelist me nahi.
+// 19. Rs 10.76 lakh welfare funds ka vitran (CMSDF/CMSUDF/ISYDP), Dec 2025 (The Shillong Times, https://theshillongtimes.com/2025/12/27/leadership-means-giving-back-to-society-adelbert/) — REJECT: vyaktigat charity/welfare (vyaktiyon ko business/udyam ke liye arthik sahayata), vikas-kaam nahi.
+// 20. adelbertnongrum.info par MLA scheme suchiyan (SUWP/PWD/UID 2018-2023) — REJECT: srot whitelist me nahi (MLA ki khud ki site) + period pre-term (2018-2023).
+// 21. Assembly me sex trade/Khyndai Lad, ILP, MBDA jaise mudde uthana (The Shillong Times Assembly Snippets, Aug 2024) — REJECT: sansadiya charcha/maang akeli.
+// 22. Negative check: halafnama (foundation record) me koi aapradhik mamla ghoshit nahi; OneIndia ki 2023 chunaav-data suchi me bhi 0 criminal cases (https://Www.oneindia.com/meghalaya-mlas-with-criminal-cases/) — lekin halafnama/suchi akeli negative nahi; karyakaal me FIR/janch wali koi whitelisted media reporting nahi mili — koi negative entry nahi.
+// 23. Pehchan pakki: Adelbert Nongrum, VPP, North Shillong (ST), 2023-2028; namesake-savdhaani: "Adelbert Nongrum, Jaiaw" letter-case me Speaker ne khud namesake-bhram ka zikr kiya tha, isliye sirf naam se khabar jodne se bacha gaya; Wikipedia/Assembly record se tenure cross-verify.
+
+// RETRY LEADS:
+// - Rs 5 crore work orders (Dec 2025 event) ki vyaktigat-kaam suchi kisi whitelisted source par nahi mili — itemized sanction list sarkari portal (megurban.gov.in / SUWP suchi) par check karna baaki.
+// - 2023-24 aur 2025-26 ke MLA scheme work orders par koi whitelisted post-event reporting nahi mili; agli pass me seedha megurban.gov.in par "North Shillong MLA scheme" search try kiya ja sakta hai.
+// - Sabha 2026 me Jaiaw raid par CBI maang abhi pending hai — agar sarkari aadesh ya pusht jaanch shuru hoti hai to ye kaam ka mamla nahi, Assembly-pahal category me phir se dekha ja sakta hai.
+// - Koi qualifying page load-fail nahi hua; saare upar diye gaye sources khule aur poore padhe gaye.
+
+// QA: 10 khoj-prayas (browser.search) + 3 source pages poori padhi (browser.open); entries 3, rejects 23, negative 0; sab Roman-script Hinglish, 'Rs' istemal, koi Devanagari nahi; tsc/build/push/deploy nahi chalaya.
+
+// REJECT-LOG (har reject: 1 line wajah + srot + URL)
+// 1. Ropeway project defense/bayan (Oct 2026) — pre-term shuruaat (2022, district council din) + state Tourism vibhag pariyojna + sirf bayan, koi kshetra-kaam nahi → The Shillong Times — https://theshillongtimes.com/2026/10/16/clearances-obtained-in-2022-paul-defends-ropeway-project/
+// 2. Khyndailad pedestrian zone ghoshna (Jul 2025) — mantri-star faisla + Shillong Municipal Board ka kaam → Sentinel Assam (non-whitelisted) — https://www.sentinelassam.com/north-east-india-news/meghalaya-news/meghalaya-khyndailad-declared-car-free-zone-for-14-hours-daily
+// 3. 'Lynti Sur Bathiang' lokarpan Khyndai Lad (Aug 2025) — CM ne lokarpan kiya, Paul sirf cabinet colleague ke roop me saath maujood → The Shillong Times — https://theshillongtimes.com/2025/08/15/cm-inaugurates-lynti-sur-bathiang-at-khyndai-lad/
+// 4. Oct 2025 kshetra nirikshan — nirikshan/daura akele + 'karenge' aashvasan, koi poora kaam nahi → The Shillong Times — https://theshillongtimes.com/2025/10/18/paul-assures-swift-action-on-roads-water-projects-in-west-shillong/
+// 5. Mawprem Ground sports facilities (Nov 2025) — Sports Minister Wailadmiki Shylla ne lokarpan kiya, Paul sirf maujood → t7news (non-whitelisted) — https://t7news.com/sports-minister-inaugurates-new-multi-sport-facilities-at-mawprem-ground/
+// 6. Winter Tales 5th edition lokarpan (Dec 2024) — Tourism vibhag ka state karyakram, mantri-bhoomika → Syllad (non-whitelisted) — https://www.syllad.com/paul-lyngdoh-inaugurates-the-5th-edition-of-winter-tales-celebrating-culture-and-sustainability/
+// 7. DC office mural lokarpan (Jan 2024) — mantri ke roop me vibhagiya lokarpan, kshetra-kaam nahi → Syllad (non-whitelisted) — https://www.syllad.com/meghalayas-tourism-minister-paul-lyngdoh-inaugurates-stunning-mural-at-dc-office-shillong/
+// 8. Half Way Home Rehabilitation, 4th Mile Upper Shillong (Aug 2024) — pre-event listing (srot nahi banta) + kshetra-bahar (South Shillong) → The Shillong Times (Today in city) — https://theshillongtimes.com/2024/08/09/today-in-city-104/
+// 9. Good Samaritan counselling centre, Khlieh Iewduh (Sep 2025) — Social Welfare vibhag ki pahal, mantri-bhoomika → Hub Network (non-whitelisted) — https://hubnetwork.in/tag/iewduh/
+// 10. Tagore Cultural Complex Rilbong shilanyas (Mar 2024) — Arts and Culture vibhag ka state project + kshetra-bahar → The Shillong Times — https://theshillongtimes.com/2024/03/07/min-lays-foundation-stone-for-tagore-cultural-complex/
+// 11. Synrang Mawrin Mawten tourist spot lokarpan (Sep 2023) — Tourism vibhag + kshetra-bahar (South West Khasi Hills) → t7news (non-whitelisted) — https://t7news.com/paul-lyngdoh-inaugurates-new-tourist-destination-synrang-mawrin-mawten-in-south-west-khasi-hills/
+// 12. Lum Symper Cluster Development Fund Project lokarpan (Jun 2024) — kshetra-bahar → Syllad (non-whitelisted) — https://www.syllad.com/tourism-minister-paul-lyngdoh-inaugurates-cluster-development-fund-project-at-lum-symper/
+// 13. Mukhaialong (EJH) futsal ground lokarpan (May 2025) — kshetra-bahar → Syllad (non-whitelisted) — https://www.syllad.com/tourism-minister-paul-lyngdoh-inaugurates-futsal-ground-announce-tourism-projects-in-ejh/
+// 14. Sohra 'Green Clean Safe' campaign (Sep 2025) — kshetra-bahar, sirf mukhya atithi → t7news (non-whitelisted) — https://t7news.com/sohra-launches-green-clean-safe-campaign-to-become-the-cleanest-destination-in-the-northeast/
+// 15. Mawbah-Kyrbom footpath lokarpan (2017) — pre-term (MLA Scheme 2016-17) → The Shillong Times — https://theshillongtimes.com/2017/10/10/news-from-across-the-state-37/
+// 16. Mawbah Road 2nd phase (Dec 2017) — pre-term → The Shillong Times — https://theshillongtimes.com/2017/12/30/paul-sets-ball-rolling-for-2nd-phase-of-mawbah-road-project/
+// 17. Qualapatty Dorbar hall shilanyas (Jan 2018) — pre-term → The Shillong Times — https://theshillongtimes.com/2018/01/08/qualapatty-dorbar-hall-base-laid-for-second-time/
+// 18. Mohan Massar school block (Jun 2019) — pre-term + CM lokarpan, Paul (tab EM KHADC) sirf cheque-sahyog → Eastern Panorama (non-whitelisted) — https://www.easternpanorama.in/index.php/music/217-2019/june-issue-2019/4315-15thjunedon119
+// 19. MGMP Season 2 launch (Oct 2023) — Tourism vibhag statewide project, CM mukhya → The Shillong Times — https://theshillongtimes.com/2023/10/04/come-rain-or-shine-tourists-dance-to-local-beats-at-the-launch-of-mgmp-2/
+// 20. Uranium prastav amendment / education reforms commission maang (Aug 2026) — Assembly charcha, documented prashasnik nateeja nahi → EastMojo — http://eastmojo.com/meghalaya/2026/08/27/lyngdoh-calls-for-education-reforms-commission-in-meghalaya/
+// 21. Ladthadlaboh Dorbar jubilee (Jan 2017) — pre-term + mukhya atithi maujoodgi → The Shillong Times — https://theshillongtimes.com/2017/01/18/ladthadlaboh-dorbar-shnong-platinum-jubilee/
+// 22. 2016 misappropriation complaint (Rs 55.80 lakh aarop) — pre-term (Mar 2016) + non-whitelisted srot; negative niyam waise bhi nahi lagte → Oh! Meghalaya — https://ohmeghalaya.com/complaint-against-mla/
+// 23. 2018 petrol bomb FIR — shikayat-karta khud MLA the (peedit-paksh = reject) + pre-term + non-whitelisted → Oh! Meghalaya — https://ohmeghalaya.com/rapsang-denies-charge-want-security-in-shillong-west/
+// 24. Rs 4 crore income tax notices par HC stay (Sep 2026) — tax maang vivad jisme MLA yachika-karta hain, koi FIR/aapradhik mamla nahi; halafname me criminal cases 0 — negative ke sakht niyam poore nahi hue → Highland Post — https://highlandpost.com/hc-stays-rs-4-cr-income-tax-notices-against-paul-lyngdoh/
+
+// RETRY LEADS
+// Koi nahi — teenon entry srot ke page khud kholkar padhe gaye; reject-wale pages snippet + pehle padhe pages se saaf the.
+
+// REJECT-LOG (har line: wajah + srot + URL)
+// 1. Iewdak Municipal Market, Laban (Rs 14.27 crore) ka lokarpan (18 Jul 2026) — implemented by Shillong Municipal Board (SMB); SMB ke kaam reject-niyam se bahar. Srot: The Shillong Times https://theshillongtimes.com/2026/07/19/city-locality-gets-four-storey-municipal-market-complex/
+// 2. 60th birthday par "Rs 65 crore ke projects launch" (13 Aug 2026) — sirf syllad (non-whitelisted) par; bina itemization ke aggregate ghoshna. Srot: syllad https://www.syllad.com/shullai-celebrates-60th-birthday-launches-rs-65-cr-projects-for-south-shillong/
+// 3. Raid Laban me Rs 11.23 crore ke ongoing projects ka review/inspection (Jan 2026) — nirikshan/daura akele; koi lokarpan/shilanyas nahi. Srot: Highland Post https://highlandpost.com/sanbor-reviews-raid-laban-development-works/ + EastMojo http://eastmojo.com/news/2026/01/19/meghalaya-progress-of-rs-11-23-cr-projects-in-raid-laban-reviewed/
+// 4. Turf event me ghoshit "Rs 42 crore se zyada ke 4 aur sports infra" (Jan 2025) — karenge-khabar; koi sanction/completion proof nahi. Srot: The Shillong Times https://theshillongtimes.com/2025/01/12/shullai-gets-ball-rolling-for-synthetic-football-turf-in-madan-laban-area/
+// 5. Rs 1.65 crore combined motorable road + aqueduct ka lokarpan (Jul 2026) — sirf syllad (non-whitelisted); whitelisted source nahi mila. Srot: syllad https://www.syllad.com/south-shillong-gets-rs-37-92-cr-infrastructure-push-as-sanbor-inaugurates-iewdak-market/
+// 6. Lumshatsngi Market renovation (Rs 2 crore) + market terrace hall (Rs 2 crore) + cantonment Rs 35 crore proposal (Jul 2026) — sirf syllad (non-whitelisted); sanctioned/proposed ghoshna, completion nahi. Srot: syllad (upar wala URL)
+// 7. 10 road projects ke foundation stones, Rs 15.21 crore (2026) — sirf ohmeghalaya (non-whitelisted). Srot: ohmeghalaya https://ohmeghalaya.com/shullai-lays-foundation-stone-for-10-road-projects-worth-rs-15-21-cr/
+// 8. AFC U-17 women footballers ko Rs 50,000 each cash award (Oct 2025) — vyaktigat cash award/charity; scheme-doc nahi. Srot: EastMojo http://eastmojo.com/meghalaya/2025/10/20/afc-u-17-womens-asian-cup-two-meghalaya-girls-to-represent-india/
+// 9. Marathoner Kmoin Wahlang ko Rs 1 lakh + coach Benningstar Lyngkhoi ko Rs 30,000 (Jul 2024) — discretionary-grant se vyaktigat financial help; daan-shreni. Srot: The Shillong Times https://theshillongtimes.com/2024/07/17/extend-rs-10l-discretionary-grant-to-people-sanbor-to-mlas/
+// 10. 4 arm-wrestlers ko Rs 1 lakh aid ki ghoshna (Oct 2026) — vyaktigat daan + non-whitelisted. Srot: meghalayatimes.in https://meghalayatimes.in/shullai-dismisses-anti-bjp-claims-as-election-propaganda/
+// 11. Red Cross, Laban me police booth (Rs 1.30 lakh, MLA discretionary grant) + pay-and-use toilet ka lokarpan (May 2025) — sirf meghalayatimes.in (non-whitelisted). Srot: https://meghalayatimes.in/shullai-inaugurates-police-booth-at-laban/
+// 12. Madan Laban renovated water scheme Rs 7.74 crore (May 2025) — meghalayatimes.in (non-whitelisted) wala version; TST ne isi project ko Rs 6 crore+ me cover kiya hai aur wo entry bani hai. Srot: https://meghalayatimes.in/shullai-inaugurates-renovated-madan-laban-water-scheme/
+// 13. Shillong Technology Park phase 2 (Rs 121 crore) ke lokarpan me maujoodgi (Sep 2026) — CM ka karyakram; dusre neta ke karyakram me maujoodgi. Srot: indiatodayne.in https://www.indiatodayne.in/meghalaya/story/meghalaya-cm-inaugurates-rs-121-crore-second-phase-of-shillong-technology-park-1454506-2026-09-23
+// 14. State-run engineering college ke academic session launch me maujoodgi (Nov 2025) — plaque CM ne unveil kiya; Shullai sirf attend. Srot: The Shillong Times https://theshillongtimes.com/2025/11/01/maiden-academic-session-of-state-run-engg-college-begins/
+// 15. Student Conclave India 2026 valedictory me chief guest (Oct 2026) — event-maujoodgi; kshetra-kaam nahi. Srot: Highland Post https://highlandpost.com/student-conclave-india-2026-concludes-at-mlcu/
+// 16. RTC Inter-Shillong Cultural Fest me guest (Sep 2026) — event-maujoodgi; kshetra-kaam nahi. Srot: Highland Post https://highlandpost.com/rtc-fetes-511-winners-at-16th-inter-shillong-cultural-fest/
+// 17. Governor ko KHADC Bill ke khilaf petition (Jun 2026) — petition/maang; koi documented nateeja nahi; seat-work nahi. Srot: syllad https://www.syllad.com/shullai-petitions-meghalaya-governor-against-khadc-bill-mandating-service-licenses-for-non-tribal-employees/
+// 18. MLA ka dawa: "3 saal me Rs 107 crore ke schemes" (Aug 2024) — aggregate dawa; itemized sanction-suchi nahi; koi vishesh project entry nahi. Srot: meghalayamonitor.com https://meghalayamonitor.com/sanbor-asks-mla-to-utilise-funds-meant-for-people/
+// 19. NDTV: 2019 Lok Sabha chunav me polling-booth FIR (Sec 132 RPA) — NEGATIVE rule fail: pre-term (2019), karyakaal 2023-2028 se bahar; aage ka nateeja/stage documented nahi. Srot: NDTV https://www.ndtv.com/india-news/lok-sabha-polls-2019-sanbor-shullai-election-officials-file-police-complaint-against-bjps-shillong-c-2022358
+// 20. TST: 2018 nepotism FIR (activists ki FIR, counter-FIR bhi) — pre-term; activists par hi case darj hua. Srot: https://theshillongtimes.com/2018/01/04/sanbor-shullai-accused-of-nepotism-by-social-activists/ + https://theshillongtimes.com/2018/01/11/police-file-case-against-activists-accusing-shullai-of-nepotism/
+// 21. New Indian Express: 2022 me Speaker se "misbehave" ki UDP shikayat — pre-term (Jul 2022); FIR bhi nahi, sirf shikayat. Srot: https://www.newindianexpress.com/nation/2022/jul/09/udp-demands-action-against-bjp-minister-for-misbehaving-with-meghalaya-speaker-2474684.html
+// 22. Children's park, Mynsain (Jun 2022) — pre-term karyakaal se bahar. Srot: t7news.com https://t7news.com/sanbor-shullai-inaugurates-childrens-park-in-mynsain-for-safety-of-children/
+// 23. Water project Lumdorbar/Lumsohphoh (Rs 53 lakh, 2017) — pre-term. Srot: Highland Post https://highlandpost.com/sanbor-inaugurates-water-project/
+// 24. Pre-Christmas Rs 10.50 lakh vitaran (Dec 2022) — pre-term + financial vitaran. Srot: https://theshillongtimes.com/2022/12/16/mla-distributes-rs-10-50-l-during-pre-christmas-celebration/
+// 25. Covid lockdown relief Rs 2000 x 5000 beneficiaries (2021) — pre-term + relief/rahat. Srot: https://theshillongtimes.com/2021/07/26/around-5k-receive-financial-assistance-in-south-shillong/
+// 26. Lumparing PWD road foundation (0.410 km, Rs 3.7 crore) — "deputy speaker" era, pre-term + non-whitelisted. Srot: ohmeghalaya https://ohmeghalaya.com/lumparing-gets-pwd-road/
+
+// RETRY LEADS (khul nahi paya / whitelisted source nahi mila — entry nahi bani)
+// R1. Rilbong ka doosra link road — four-lane highway se jodne wala Rs 4.35 crore ka widening/metaling/blacktopping (SPA 2021-22) — sirf syllad/shillongnews/themeghalayanexpress par mila; The Shillong Times/Highland Post/EastMojo par whitelisted reporting nahi mili. Srot: https://www.syllad.com/sanbor-shullai-inaugurates-rs-6-33-crore-road-projects-in-rilbong/
+// R2. Red Cross, Laban me police booth (Rs 1.30 lakh, MLA discretionary grant) + pay-and-use toilet — sirf meghalayatimes.in par; whitelisted source par confirm nahi hua. Srot: https://meghalayatimes.in/shullai-inaugurates-police-booth-at-laban/
+// R3. 10 road projects ke foundation stones, Rs 15.21 crore (general state scheme 2022-23) — sirf ohmeghalaya par; whitelisted par confirm nahi hua. Srot: https://ohmeghalaya.com/shullai-lays-foundation-stone-for-10-road-projects-worth-rs-15-21-cr/
+// R4. 60th birthday par "Rs 65 crore ke projects launch" — sirf syllad par; itemized suchi kabhi publish ho to entry ban sakti hai. Srot: https://www.syllad.com/shullai-celebrates-60th-birthday-launches-rs-65-cr-projects-for-south-shillong/
+
+// REJECT-LOG (ronnie-v-lyngdoh — Mylliem (ST), NPP; 2023 me INC ticket par jeete the, 30 Jul 2025 ko NPP me vilay — dal-badal apne aap negative NAHI; vartaman me koi mantri pad NAHI):
+// 1. meghalaya.gov.in DIPR press release (19 Aug 2026): CM Conrad Sangma ne Baniun Village (Upper Shillong) me Ka Seng Bah Nongshat Nongkhien headquarters ki boundary wall (Rs 41.69 lakh, CMSDF 2025-26) ka shilanyas kiya; Mylliem MLA Ronnie V Lyngdoh sirf "also present" — dusre neta (CM) ke karyakram me maujoodgi, REJECT.
+// 2. The Shillong Times (20 Aug 2026): CM ne Upper Shillong me Rs 65 crore ke naye State Veterinary Hospital ka shilanyas kiya; Ronnie V Lyngdoh maujood logon me — CM ka karyakram, maujoodgi akele, REJECT.
+// 3. India Today NE / syllad (2 May 2026): CM ne Umlyngka me Rs 3.57 crore ke improved playground + Indoor Sports Stadium ka lokarpan kiya; Ronnie ne swagat kiya aur sarkar ko shreya diya — CM ka karyakram, maujoodgi akele; khud stadium poorv sports minister Banteidor Lyngdoh ne sanction kiya tha, REJECT.
+// 4. The Shillong Times (12 Aug 2025, pre-event notice): "CM to inaugurate" Nongkseh me teen sports/community projects — pre-event report srot nahi banta + Ronnie attendee matra, REJECT.
+// 5. The Shillong Times (23 Mar 2023): Ronnie ne Budget session me Upper Shillong Water Supply Project (Rs 33 crore, 2012 se sanction) poora karne ki maang uthai — Assembly me maang/prastav akele, koi dastavejit prashasnik nateeja nahi, REJECT.
+// 6. Highland Post (~2025, PMAY-G): Ronnie ne Assembly me bhoomiheen parivaron ko awas-labha se vanchit karne par sawal uthaya; minister ne criteria samjhaye aur block-level nirdesh dene ka aashwasan diya — aashwasan dastavejit nateeja nahi, maang/akela sawal, REJECT.
+// 7. syllad (3 Mar 2025): Ronnie ne Assembly me Shillong-Dawki road alignment se Upper Shillong ke gaon ki approach roads prabhavit hone ki chinta uthai; Dy CM ne NHIDCL ko nirdesh dene ka aashwasan diya — maang/aashwasan akele, koi poora-kaam ya GO nahi, REJECT.
+// 8. syllad (6 Aug 2025): NPP me shamil hone par Ronnie ne Dy CM se Lawsohtun road tez karne ka anurodh kiya — maang akele ("karenge" khabar bhi Dy CM ki taraf se), REJECT.
+// 9. The Shillong Times (11 Mar 2025): Budget bahas me Ronnie ne capital expenditure badhane, Mylliem me colleges, footbridges, veterinary dispensary aur Umiam nadi par suraksha deewar ki maang rakhi — maang/prastav akele, koi swikriti/lokarpan nahi, REJECT.
+// 10. The Shillong Times (30 Aug 2024): traffic snarl me Assembly der se pahunchne ki khabar — koi kshetra-kaam nahi, REJECT.
+// 11. The Shillong Times (26 Jul 2026): Gorkha HS School alumni 9th foundation day — Ronnie mukhya atithi ke roop me sammanit; ceremonial felicitation, koi vikas-kaam nahi, REJECT.
+// 12. nenow.in (2021, Indoor Stadium Mawbynna, Pomlakrai): Ronnie ne Urban Affairs minister ke roop me shilanyas kiya — 2023 se pehle ka karyakaal (pre-term), REJECT.
+// 13. The Shillong Times (10 Jan 2018): Ronnie ne minister ke roop me IBSD Upper Shillong ka shilanyas kiya — pre-term, REJECT.
+// 14. Highland Post (~2022, KHADC schools): Ronnie ne KHADC MDC ke roop me schools ke liye central funds maange — pre-term + maang akele, REJECT.
+// 15. Negative check: halafnama me 0 aapradhik mamle; 2023-2028 me whitelisted media me Ronnie V. Lyngdoh par FIR ya pusht aadhikarik jaanch ki koi reporting nahi mili. The Shillong Times (4 Nov 2025) me Vincent Pala ne dal-badal ke baad "land, luxurious cars, apartments" jaisi baat kahi, lekin koi FIR/case-number/janch ka zikr nahi — raajneetik aarop akele negative nahi banta, REJECT (dal-badal akela NEGATIVE NAHI — Speaker ne vilay ko Tenth Schedule ke tahat valid mana).
+// 16. Pehchan verified: slug ronnie-v-lyngdoh, naam Ronnie V. Lyngdoh, seat Mylliem (ST), party NPP (2023: INC), post MLA (koi mantri pad nahi), margin 38 votes; megaNamesake check me anya Lyngdoh MLAs (Paul, Celestine, Banteidor, Renikton Lyngdoh Tongkhar) alag vyakti — koi bhram nahi.
+// 17. RETRY LEADS: whitelisted sources par 2023-2028 ke Mylliem kshetra me Ronnie ke vyaktigat lokarpan/shilanyas ki koi post-event reporting hi nahi mili; koi page khulne-wala retry pending nahi — khaali profile imaandari.
+
+// QA: 11 news searches + 1 negative-check; har mention maujoodgi/ceremonial/maang/pre-term tha; koi post-event lokarpan/shilanyas/swikriti ya MLA-Scheme (SRWP) sanction-suchi nahi mili; entries 0, rejects 17.
+
+// REJECT-LOG (charles-pyngrope, Nongthymmai (ST)):
+// 1. Nongthymmai marathon ke baad platinum-jubilee celebration ka udghatan (The Shillong Times, 19 Jul 2019) — REJECT: pre-term (2019) + khel-utsav, vikas-kaam nahi. https://theshillongtimes.com/2019/07/19/nongthymmai-marathon-held/
+// 2. Rynjah-Nongrah bridge double-lane upgradation ka shilanyas (The Shillong Times, 8 Mar 2019) — REJECT: pre-term + mantri AL Hek ka karyakram, Pyngrope sirf maujood. https://theshillongtimes.com/2019/03/08/news-from-across-the-state-174/
+// 3. Reach Shillong boys shelter home, Nongrah ka shilanyas (The Shillong Times, 21 May 2018) — REJECT: pre-term (2018). https://theshillongtimes.com/2018/05/21/foundation-for-boys-shelter-home-laid/
+// 4. Child-friendly anganwadi centre, Mawdiangdiang (The Shillong Times, 24 Nov 2020) — REJECT: pre-term + BDO ka karyakram, Pyngrope sirf maujood. https://theshillongtimes.com/2020/11/24/child-friendly-anganwadi-centre-at-mawdiangdiang/
+// 5. Nongrah WSS Phase-1 swikriti (2017) par credit-vivad (The Shillong Times, 8 Dec 2020) — REJECT: swikriti pre-term (Mar 2017). https://theshillongtimes.com/2020/12/08/jemino-charged-with-taking-credit-for-project/
+// 6. Pohkseh WSS par Assembly sawal (Highland Post, 23 Mar 2023) — REJECT: sawal akele, koi documented nateeja nahi (yojna 2018 ki purani swikriti). https://highlandpost.com/pohkseh-water-scheme-fails-in-house-connectivity/
+// 7. Pohkseh WSS par Assembly sawal (The Shillong Times, 24 Mar 2023) — REJECT: sawal akele, koi documented nateeja nahi. https://theshillongtimes.com/2023/03/24/pyngrope-questions-govt-on-status-of-pohkseh-water-scheme/
+// 8. Nongrah WSS augmentation Rs 18.87 crore JJM swikriti (syllad, 27 Mar 2023) — REJECT: source whitelist me nahi + Pyngrope ki bhoomika sirf Assembly sawal. https://www.syllad.com/govt-sanctions-rs-18-87-cr-for-augmentation-of-nongrah-wss/
+// 9. Nongthymmai sadkon ke liye Rs 5 crore ki maang (meghalayamonitor, 29 Aug 2024) — REJECT: maang/prastav akele + non-whitelist source. https://meghalayamonitor.com/charles-wants-rapair-of-roads-in-nongthymmai/
+// 10. Lawjynriew Dorbar Shnong 150-year celebrations ka udghatan (hubnetwork, 28 Mar 2026) — REJECT: CM ka karyakram, Pyngrope sirf maujood + non-whitelist. https://hubnetwork.in/cm-inaugurates-150-year-celebrations-of-lawjynriew-dorbar-shnong-announces-%E2%82%B930-lakh-support/
+// 11. Lapalang well-tragedy me rescuers ke liye rahat ki maang (The Shillong Times, 19 Jul 2026) — REJECT: relief/rahat ki maang, vikas-kaam nahi. https://theshillongtimes.com/2026/07/19/lapalang-case-pyngrope-seeks-immediate-relief-for-rescuers-amid-legal-delays/
+// 12. Netaji/Vivekananda statues restoration par bayan (meghalayanews24, ~Aug 2026) — REJECT: sarkar ka faisla, Pyngrope sirf bayan + non-whitelist. https://meghalayanews24.in/govt-to-restore-vandalised-netaji-vivekananda-statues-says-charles-pyngrope/
+// 13. Rs 500-crore New Shillong water scheme ki ghoshna (The Shillong Times, 15 Jun 2026) — REJECT: PHE mantri ki ghoshna, Pyngrope se juda shreya nahi. https://theshillongtimes.com/2026/06/15/gswss-to-be-completed-by-march-2027-says-phe-min/
+// 14. Wah Rikyntem WSS ki DPR taiyaari (The Shillong Times, 15 Jun 2026) — REJECT: "karenge" khabar (sirf DPR ban rahi hai). https://theshillongtimes.com/2026/06/15/gswss-to-be-completed-by-march-2027-says-phe-min/
+// 15. Umpling Presbyterian Secondary School extension building ka udghatan (The Shillong Times, 14 Nov 2012) — REJECT: pre-term. https://theshillongtimes.com/2012/11/14/school-building-inaugurated-4/
+// 16. Auxilium Girls diamond-jubilee closing ceremony (The Shillong Times, 14 Sep 2018) — REJECT: pre-term + CM ka karyakram. https://theshillongtimes.com/2018/09/14/auxilium-girls-concludes-diamond-jubilee-celebrations/
+// 17. Don Bosco PDO building inauguration (donboscosouthasia.org, 12 Aug 2020) — REJECT: pre-term + non-whitelist. https://donboscosouthasia.org/News-Info?title=New-Shillong-Province-Development-Office-Building-Inaugurated&id=9445
+// 18. Nongrim Hills digitalised dorbar website/app launch (Highland Post, 2020) — REJECT: pre-term + website launch vikas-kaam nahi. https://highlandpost.com/nongrim-hills-becomes-meghalayas-first-digitalised-dorbar/
+// 19. MYE Card launch (The Shillong Times, 5 Jan 2023) — REJECT: pre-term (chunav se pehle party-scheme ka launch), sarkari kaam nahi. https://theshillongtimes.com/2023/01/05/meghalaya-tmc-president-launches-mye-card/
+// 20. Little Champions League toddlers event me maujoodgi (hubnetwork, 9 Oct 2026) — REJECT: ceremonial maujoodgi, vikas-kaam nahi + non-whitelist. https://hubnetwork.in/shillong-hosts-first-little-champions-league-for-toddlers/
+// 21. Opposition Chief Whip niyukti (The Shillong Times, 18 Sep 2025) — REJECT: sansthaagat pad, vikas-kaam nahi. https://theshillongtimes.com/2025/09/18/pyngrope-named-opp-chief-whip/
+// 22. Urban planning framework par budget-bhashan (The Shillong Times, 26 Feb 2026) — REJECT: sadan-bayan, vikas-kaam nahi. https://theshillongtimes.com/2026/02/26/pyngrope-seeks-solid-urban-planning-framework-warns-of-long-term-crisis/
+// 23. Schools se STEMS buses istemal ki appeal (The Shillong Times, 11 Mar 2025) — REJECT: prastav akele. https://theshillongtimes.com/2025/03/11/assembly-briefs-6/
+// 24. NEP implementation par bayan (syllad, 31 Aug 2023) — REJECT: niti-bayan + non-whitelist. https://www.syllad.com/nep-implementation-should-be-withheld-in-meghalaya-pyngrope/
+// 25. "MLAs should remain primary contact" media bayan (The Shillong Times, 28 Jun 2026) — REJECT: media bayan, vikas-kaam nahi. https://theshillongtimes.com/2026/06/28/mlas-should-remain-primary-contact-for-public-pyngrope/
+// 26. Highway checkpoints par jaanch ki maang (meghalayatoday, ~Oct 2026) — REJECT: jaanch ki maang + non-whitelist. https://meghalayatoday.com/charles-pyngrope-demands-probe-into-illegal-highway-checkpoints-asks-who-allowed-them-to-operate/
+// 27. Mawkynroh-Umshing community hall ka CM dwara udghatan (syllad, 20 Aug 2025) — REJECT: CM ka karyakram + non-whitelist. https://www.syllad.com/meghalaya-cm-inaugurates-new-community-hall-at-mawkynroh-umshing/
+// 28. PAC chairman niyukti (The Shillong Times, 25 Apr 2018) — REJECT: pre-term + sansthaagat pad. https://theshillongtimes.com/2018/04/25/charles-pyngrope-to-head-pac-as-chairman/
+// 29. Nongthymmai road junction expansion ki yojna (The Shillong Times, 10 Jul 2017) — REJECT: pre-term. https://theshillongtimes.com/2017/07/10/expansion-of-nongthymmai-road-junction-to-begin-by-year-end/
+// 30. KHADC ke "illegal" gates par sawal (The Shillong Times, 18 Sep 2021) — REJECT: pre-term. https://theshillongtimes.com/2021/09/18/pyngrope-flags-concern-over-khadcs-illegal-gates/
+// 31. Mawryngkneng all-faith crematorium (The Shillong Times, 5 Dec 2020) — REJECT: pre-term + dusri seat + DC ne udghatan kiya. https://theshillongtimes.com/2020/12/05/first-all-faith-crematorium-comes-up-in-mawryngkneng/
+// 32. Naam-bhram note: "Remington Pyngrope" (UDP, Pynthorumkhrah) 2018 me NPP me jaane wale 8 MLAs me the — Charles Pyngrope se alag vyakti; inki koi khabar entry nahi bani. "Charlie Pyngrope" (The Shillong Times news capsule, 30 Oct 2025, Rynjah PS case) bhi alag vyakti hain.
+// 33. SRWP/MLA-scheme (Rs 2.5 crore/kshetra/saal) ka koi neta-war itemized sanction-record kisi whitelisted source ya sarkari portal par nahi mila — isliye nidhi-adharit sarkari-badge entry nahi bani; sirf upar ki ghoshna-entry (news badge) bani.
+// NEGATIVE: Charles Pyngrope ke khilaf kisi whitelisted source me FIR ya pusht aadhikarik jaanch ki koi reporting nahi mili; halafname me bhi 0 aapradhik mamle ghoshit hain — NEGATIVE entry nahi bani.
+
+// RETRY LEADS: koi nahi — donon entry-srot pages (The Shillong Times, 15 Jun 2026 GSWSS report) khud kholkar padhe gaye; koi candidate page khulne se reh nahi gaya.
+
+// REJECT-LOG (ardent-miller-basaiawmoit, Nongkrem (ST)):
+// 1. Umphyrnai Rngi aur Madan Umjaut me do motorable bridges ke liye District Mineral Fund se Rs 25 lakh-prati ke prastav, CM ko patra (hubnetwork, 4 Dec 2025) — REJECT: maang/prastav akele + non-whitelist source. https://hubnetwork.in/vpp-chief-seeks-cms-nod-for-key-projects-in-nongkrem/
+// 2. New Shillong Water Supply Scheme Phase-II (Rs 850.589 crore) sanctioned, tender EPC mode par (syllad/hubnetwork, 25 Aug 2026) — REJECT: non-whitelist source + yojna state-level, Nongkrem-specific kshetra-kaam nahi; MLA ki bhoomika sirf Assembly me Zero Hour Notice uthana thi. https://www.syllad.com/rs-850-58-cr-new-shillong-water-scheme-phase-ii-sanctioned-epc-tender-floated/
+// 3. 10-point charter Assembly me — Lumpongdeng project scrap, Shree Cement hearing cancel ki maang (Highland Post, 25 Aug 2026) — REJECT: Assembly/shilanyas charcha me maang akele, koi documented prashasnik nateeja nahi; Vipaksh ki press-maang entry nahi banti. https://highlandpost.com/vpp-lays-10-point-charter-in-assembly-demands-scrapping-of-lumpongdeng-shree-cement-hearing/
+// 4. Smart City Mission par Assembly me sarkar ko gherna (The Shillong Times, 11 Sep 2025) — REJECT: sadan-bayan/debate akele, Nongkrem kshetra-kaam nahi. https://theshillongtimes.com/2025/09/11/opp-corners-govt-on-smart-city-urban-infra-expansion/
+// 5. Shillong Polo Ground rally me VPP crowdfunding Rs 3.07 lakh, VPP adhyaksh ke taur par netritva (NDTV, 11 Oct 2026) — REJECT: party-gatividhi (rally/fundraising), VPP-niyam ke anusar kaam nahi. https://www.ndtv.com/india-news/voters-turn-donors-in-meghalaya-as-regional-party-crowdfunds-12169705
+// 6. Cabbage price crash par Assembly me sawal (syllad, 27 Aug 2026) — REJECT: sadan-sawal akele + non-whitelist source, kshetra-kaam nahi. https://www.syllad.com/cabbage-prices-recover-to-rs-20-25-per-kg-after-crashing-to-rs-2-meghalaya-govt/
+// 7. Laitkor Mawrie Water Supply Scheme udghatan par Dorbar se vivaad (The Shillong Times, 22 Nov 2011) — REJECT: pre-term (2011, purane karyakaal 2008-2018 ka karyakram). https://theshillongtimes.com/2011/11/22/dorbar-slams-basaiawmoit/
+// 8. Shillong-Jowai Road to Nongkrem aur Smit-Nongkrem Road ka udghatan (The Shillong Times, 26 Sep 2021) — REJECT: galat vyakti — udghatan Nongkrem MLA Lambor Malngiang ne kiya tha, Basaiawmoit nahi. https://theshillongtimes.com/2021/09/26/road-inaugurated-in-nongkrem/
+// 9. Umiew Pomlakrai aur Mawpynthih water supply schemes ka shilanyas (The Shillong Times, 30 May 2020) — REJECT: pre-term + PHE mantri Samlin Malngiang ka karyakram, Lambor Malngiang maujood the; Basaiawmoit se juda koi shreya nahi. https://theshillongtimes.com/2020/05/30/minister-lays-base-for-water-supply-projects/
+// 10. Madanriting ke liye stadium upgrade, CCTV, civic works ki CM ghoshna (indiatodayne, 3 May 2026) — REJECT: rajdhani/shahar-star CM karyakram aur ghoshnaen, MLA ka dastavej-yukt kaam nahi; Basaiawmoit karyakram me dikhe bhi nahi. https://www.indiatodayne.in/meghalaya/story/meghalaya-cm-announces-stadium-upgrade-cctv-and-civic-works-for-madanriting-1385106-2026-05-03
+// 11. APSTA teachers welfare programme me chief guest (shillongtoday, ~Sep 2026) — REJECT: non-whitelist source + Basaiawmoit sirf chief guest the; APSTA ka charitable kaam (vyaktigat charity/donation), MLA-scheme kaam nahi. https://shillongtoday.com/apsta-provides-financial-aid-to-teachers-facing-hardship/
+// 12. MLA scheme implementation me independent enquiry ki maang (northeasttoday/nenow, 18 Nov 2025) — REJECT: jaanch ki maang akele, koi kaam/swikriti nahi; dono sources non-whitelist. https://northeasttoday.in/northeast/vpp-demands-independent-audit-of-mla-funds-in-meghalaya/
+// 13. Rambrai infant-death par VPP criticism, Dy CM Prestone Tynsong ka counter (meghalayapost.news, 5 Oct 2026) — REJECT: vivaad/vaktaavya akele, Nongkrem kshetra-bahar, kaam nahi. https://meghalayapost.news/news/shillong/no-road-to-domkyrkoh-since-statehood-25-crore-sanctioned-for-connectivity-to-8-9-villages-prestone-10017187.html
+// 14. Deficit schools par Assembly sawal — MEG/paisa par charcha (Highland Post, 12 Sep 2025) — REJECT: sadan-sawal akele, documented prashasnik nateeja nahi. https://highlandpost.com/govt-receiving-mixed-msgs-from-deficit-schools-no-intention-of-ending-funding/
+// 15. Private Colleges Regulation Act par Assembly charcha (Highland Post, 27 Aug 2026) — REJECT: sadan-charja/maang, kshetra-kaam nahi. https://highlandpost.com/ardent-bats-for-private-colleges-against-govt-overregulation/
+// 16. Scheme distribution meeting me VPP crowdfunding/BJP muddon par bayan (syllad, 14 Sep 2026) — REJECT: party-gatividhi (scheme distribution ke mauqe par siyasi bayan), non-whitelist source. https://www.syllad.com/teacher-leader-who-called-vpp-charge-baseless-seen-at-npp-meet-all-parties-scared-as-public-cant-be-fooled-anymore-ardent/
+// 17. MLA scheme audit/transparent audit ke liye bayan (The Shillong Times, 13 May 2025 piece ka siyasi hissa) — entry nahi banayi: ye vitaran ki khabar ka hi hissa hai; alag entry dohraavat hoti.
+// RETRY LEADS: koi nahi — 3 entry-srot pages (The Shillong Times 10 Sep 2026, Highland Post 13 May 2025, The Shillong Times 18 Apr 2024) khud kholkar padhe gaye; koi candidate page khulne se reh nahi gaya.
+
+// REJECT-LOG
+// 1. The Shillong Times 18-Jul-2026 — "Conrad launches projects worth Rs 146 cr in Sohiong": 8 projects (Rs 5.48 cr) lokarpan + 9 shilanyas (Rs 140.74 cr) CM ne kiye; MLA sirf maujood the — reject (dusre neta ke karyakram me maujoodgi; MLA ki asal bhoomika documented nahi). https://theshillongtimes.com/2026/07/19/conrad-launches-projects-worth-rs-146-cr-in-sohiong/
+// 2. Highland Post 18-Jul-2026 — CM Connect Centre + foundation stones in Sohiong: CM-led karyakram, MLA sirf upasthit — reject (wahi wajah). https://highlandpost.com/cm-inaugurates-cm-connect-centre-lays-foundation-for-projects-in-sohiong/
+// 3. Highland Post 20-Feb-2024 — "Water sources drying up": MLA ka Assembly question (JJM water sources, 55 l/day service level) — koi documented prashasnik nateeja nahi — reject (maang/prashn akele). https://highlandpost.com/water-sources-drying-up-because-of-climate-change-phe-minister/
+// 4. The Shillong Times 20-Feb-2024 — "Water sources drying up worries legislators": wahi Assembly question, koi nateeja nahi — reject (maang/prashn akele). https://theshillongtimes.com/2024/02/20/water-sources-drying-up-worries-legislators/
+// 5. Highland Post 18-Feb-2026 — "Govt exploring Immigration & Foreigners Act": MLA ka ILP-related Assembly question jisse debate shuru hui, par koi documented prashasnik nateeja nahi — reject (Assembly-pahal without documented outcome). https://highlandpost.com/govt-exploring-immigration-foreigners-act-for-state/
+// 6. The Shillong Times 04-Feb-2025 — "Synshar dismisses family discord as cousins lock horns in Sohiong": Feb 2025 KHADC chunav me MDC ummidwari (Nongspung-Sohiong) ki news — reject (chunav-khabar; KHADC ke kaam standing rule se bahar). https://theshillongtimes.com/2025/02/04/synshar-dismisses-family-discord-as-cousins-lock-horns-in-sohiong/
+// 7. The Shillong Times / EastMojo / NDTV 23-Sep-2026 — 8 UDP MLAs join BJP: dal-badal ki khabar, kshetra-kaam nahi — reject (foundation me pehle se darj; akela dal-badal entry nahi banta). https://www.ndtv.com/india-news/8-udp-mlas-join-bjp-making-it-2nd-largest-political-party-in-meghalaya-12085932
+// 8. The Shillong Times 14-May-2023 — "UDP wins in Sohiong": upchunav jeet ki news — reject (chunav-hrist; pre-term activity nahi, kaam nahi). https://theshillongtimes.com/2023/05/14/udp-wins-in-sohiong-no-threat-to-mda-2-0/
+// 9. The Shillong Times 07-Sep-2026 — "Sohiong row fuels UDP push to BJP": Sohiong development-contracts ko lekar asantosh ki background reporting; MLA ke apne kaam ka koi documented nateeja nahi — reject (background/commentary, kaam nahi). https://theshillongtimes.com/2026/09/07/sohiong-row-fuels-udp-push-to-bjp/
+// 10. Shillong Times "Meghalaya Nuggets" 11-Jul-2026 — Swer road inauguration by Sohra MLA Gavin Mylliem: galat vyakti (Sohiong se bahar, dusra MLA) — reject. https://theshillongtimes.com/2026/07/11/meghalaya-nuggets-646/
+
+// NEGATIVE: koi nahi mila. myneta halafname me criminal cases 0; "Synshar Thabah" FIR/police khoj par koi whitelisted reporting nahi. Stage-accurate niyam ke tahat entry nahi bani.
+
+// RETRY LEADS: koi nahi — zaroori sabhi whitelisted pages khul gaye aur khud padhe gaye. (news-nest.com/blogspot aggregator hits whitelist me nahi the, isliye ignored.)
+
+// ---- REJECT-LOG (matthew-beyondstar-kurbah, Mawphlang ST) ----
+// R1. Mawphlang CHC me First Referral Unit (FRU) ka lokarpan, 27 Sep 2024.
+//     REJECT: lokarpan Health Minister Dr. M. Ampareen Lyngdoh ne kiya; MLA Kurbah
+//     sirf guest of honour ke roop me karyakram me maujood the — dusre neta ke
+//     karyakram me maujoodgi. (The Shillong Times 2024-09-28, khola-padha:
+//     https://theshillongtimes.com/2024/09/28/govt-will-introduce-24-7-emergency-facilities-across-state-health-min/)
+// R2. Khatarshnong Laitkroh C&RD Block Integrated Development Complex ka lokarpan,
+//     24 Jun 2025. REJECT: lokarpan CM Conrad K. Sangma ne kiya; Kurbah aur ek anya
+//     MLA sirf maujood the — maujoodgi matra. (syllad, non-whitelisted:
+//     https://www.syllad.com/meghalaya-cm-inaugurate-new-building-of-khatarshnong-laitkroh-block/)
+// R3. CM ka Mawphlang daura, 22 Jan 2025 — Hima Mawphlang office building ka lokarpan
+//     aur Sacred Grove tourism ke liye Rs 25 crore Swadesh Darshan ghoshna CM ne ki.
+//     REJECT: CM ka karyakram/ghoshna; MLA ka apna lokarpan/shilanyas nahi.
+//     (syllad, non-whitelisted: https://www.syllad.com/conrad-k-sangma-announces-rs-25-crore-for-mawphlang-tourism-development/)
+// R4. Monolith Festival ka udghatan, 7 Mar 2024, Khasi Heritage Village (Mawphlang).
+//     REJECT: KHADC dwara aayojit utsav, udghatan Deputy CM Prestone Tynsong ne
+//     kiya — KHADC ka kaam + dusre neta ka karyakram. (syllad, non-whitelisted:
+//     https://www.syllad.com/meghalaya-deputy-cm-inaugurate-khadcs-monolith-festival-at-mawphlang/)
+// R5. "First-time MLAs attempt to leave their mark in House" — 21 Mar 2023 Budget
+//     session me Kurbah ne kisan-hit, Science & Commerce College Mawphlang me bharti
+//     aur bijli-vitaran sudhar ki maangein uthayi; koi prashasnik nateeja darj nahi.
+//     REJECT: maang akele. (The Shillong Times 2023-03-22, khola-padha:
+//     https://theshillongtimes.com/2023/03/22/first-time-mlas-attempt-to-leave-their-mark-in-house/)
+// R6. PWD (Roads) Mawphlang Division office ka lokarpan, 10 Dec 2022.
+//     REJECT: pre-term (karyakaal Mar 2023 se shuru) + lokarpan Deputy CM ne kiya.
+//     (syllad, non-whitelisted: https://www.syllad.com/pwd-mawphlang-division-inaugurated/)
+// R7. Kyiem (Mawphlang) me rajya ki pehli bio-fertilizer unit ka lokarpan, Aug 2023.
+//     REJECT: lokarpan CM ne kiya; MLA ka apna kaam nahi. (syllad, non-whitelisted:
+//     https://www.syllad.com/meghalayas-first-ever-bio-fertilizer-unit-setup-in-mawphlang/)
+// R8. Sep 2026 me 8 UDP vidhayakon (Kurbah sahit) ka BJP me shamil hona aur UDP ka
+//     nilamban/ayogyata-yachika. REJECT: ye works nahi hai; dal-badal foundation me
+//     pehle se disclose hai aur niyam ke mutabiq dal-badal akela NEGATIVE nahi,
+//     anti-defection yachika bhi NEGATIVE nahi. (Highland Post:
+//     https://highlandpost.com/bjp-pulls-off-coup-8-udp-mlas-join-saffron-party/)
+// R9. NAMESAKE TRAP (bacha gaya): EastMojo 16 Oct 2026 ropeway article me "Commissioner
+//     and Secretary RM Kurbah" ne Tourism Dept meeting ki adhyakshata ki — ye R.M. Kurbah
+//     (East Khasi Hills DC / Tourism Commissioner-Secretary, IAS adhikari) hain, MLA
+//     Matthew Beyondstar Kurbah NAHI. REJECT: galat vyakti. (eastmojo:
+//     http://eastmojo.com/meghalaya/2026/10/16/shillong-ropeway-jac-to-continue-agitation-lyngdoh-defends-clearances/)
+//     NOTE: R1 wale Shillong Times article me bhi "East Khasi Hills Deputy Commissioner
+//     RM Kurbah" ka ullekh hai — wahan bhi wahi DC hain, MLA nahi.
+// R10. Mawphlang Science & Commerce College me nirman-deri ki khabar, Aug 2024 —
+//      Kurbah ne Vidhansabha me chinta jatayi thi; college ka shilanyas 2017 me
+//      tatkalin CM ne rakha tha; deri ki khabar hai, koi naya kaam nahi.
+//      REJECT: maang/chinta akele + non-whitelisted srot. (t7news:
+//      https://t7news.com/science-commerce-college-in-mawphlang-faces-prolonged-delays/)
+// R11. Kyiem fertilizer plant ki nishkriyata par Vidhansabha prashn, Feb 2026 — sirf
+//      prashn/chinta, koi prashasnik nateeja darj nahi. REJECT: maang/prashn akele +
+//      non-whitelisted srot. (syllad:
+//      https://www.syllad.com/udp-mla-raises-concern-over-idle-fertilizer-factory/)
+// NEGATIVE: koi nahi mila — kisi whitelisted media me Matthew Beyondstar Kurbah ke
+// khilaf FIR darj hone ya pusht aadhikarik jaanch ki reporting nahi mili; halafname me
+// bhi 0 aapradhik mamle ghoshit hain. (UDP ki ayogyata-yachika anti-defection prakriti
+// ki hai — niyam ke mutabiq NEGATIVE nahi.)
+//
+// ---- RETRY LEADS ----
+// Koi nahi — entry ke liye khola gaya har page (The Shillong Times x3) safaltapurvak
+// khula aur padha gaya; jo page khul nahi paya us par koi entry nahi banayi gayi.
+
+// REJECT-LOG (ollan-singh-suin — Mawsynram (ST), BJP; karyakaal Mar 2023–2028):
+// 1. UDP-BJP dal-badal khabren (dy365live 22 din pehle; ET 23 Sep 2026; northeastlivetv 13 Oct 2026; Shillong Times 9 Oct + 14 Oct 2026; syllad 11 Sep 2026; hubnetwork 11 Sep 2026): 8 UDP MLAs ka BJP me shamil hona — foundation me pehle se disclosure darj hai; dal-badal akela negative NAHI; kshetra-kaam nahi, REJECT.
+// 2. Shillong Times (23 Oct 2025): "Mawsynram block upgrade likely by next year" — Civil Sub-Division ka prastav "likely by next year"; "karenge" khabar + maang/prastav akele, REJECT.
+// 3. Shillong Times (7 Jun 2026): "MLA pushes for direct link to Sohra" — sadken "under construction"/tendering stage; Mawsynram-Sohra link sirf maang; koi poora-kaam/lokarpan/shilanyas nahi, REJECT.
+// 4. Shillong Times (8 Jan 2026): "Call to build direct road link between Mawsynram, Sohra" — maang akele, REJECT.
+// 5. Shillong Times (12 Jan 2026): Shilai River par 95-metre suspension bridge (Rs 48 lakh) — MLA ne site ka nirikshan kiya; "construction expected to begin shortly" = nirikshan akele + pre-event, REJECT.
+// 6. Shillong Times (25 Aug 2025): "Rain museum work to start after monsoon" — "work will begin" pre-event ghoshna; is par entry nahi (Dec 2025 wali nirmanadheen report par entry bani), REJECT.
+// 7. hubnetwork (15 Apr 2026): Lumpongdeng tourism par MLA ka bayan — sirf bayan, koi kaam nahi; srot whitelist me bhi nahi, REJECT.
+// 8. Shillong Times (29 Nov 2025): MLA schemes me transparency ki maang (Suin, Co-Chairman State Planning Board) — niti-bayan, koi kshetra-kaam nahi, REJECT.
+// 9. syllad (15 Apr 2026): MSPB par Suin ka bayan ("board implements nothing") — bayan matra; srot whitelist me nahi, REJECT.
+// 10. syllad (31 Aug 2026): Shillong LS bypoll par UDP ki taiyari — rajnitik bayan; srot whitelist me nahi, REJECT.
+// 11. syllad (28 Feb 2024): Sawsymper PHC shilanyas — wahi event, srot whitelist me nahi (Shillong Times version par entry bani), REJECT as duplicate.
+// 12. Shillong Times (9 Mar 2021): Sawsymper upgrade par Cong MLA HM Shangpliang — pre-term (2021) + dusre MLA, REJECT.
+// 13. Shillong Times (2019): Mawshynrut MLA Gigur Myrthong ka salary-daan — galat vyakti + pre-term, REJECT.
+// 14. syllad: Khliehriat me 7 gaon ki paani samasya — dusre MLA (Kyrmen Shylla) ka mudda, REJECT.
+// 15. Shillong Times (12 Nov 2025): Nongjrong (Mawkynrew) me JJM — dusri seat, Suin ka zikr nahi, REJECT.
+// 16. Negative check: "Ollan/Olan Singh Suin" par FIR/case/controversy ki koi whitelisted reporting nahi mili; FIR wale results Bihar ke alag vyakti (Rajiv Ranjan 'Lalan' Singh, Mokama) ke hain; halafname me criminal cases 0 — koi negative entry nahi banti.
+// 17. Pehchaan pakki: Ollan Singh Suin, Mawsynram (ST), BJP (2023 me UDP se 10,987 votes se jeete; 23 Sep 2026 ko BJP me); B.Sc (Agriculture) 1989; media spelling 'Olan/Ollan Singh/Sing Suin' sab wahi vyakti; koi namesake trap nahi.
+
+// RETRY LEADS:
+// R1. Phlangwanbroi–Ranikor Rs 265 crore sadak ka sarkari GO/swikriti aadesh (meghalaya.gov.in / PWD portal) — mile to road entry ka badge 'sarkari' ho sakta hai.
+// R2. Rain Museum ka tourism department swikriti aadesh — mile to entry mazboot hogi.
+// R3. SRWP/MLA Scheme ke tahat Mawsynram ki itemized sanction-suchi sarkari portal par — mile to 'sarkari' entries ban sakti hain.
+// R4. Shilai River suspension bridge (Jan 2026 me "construction shortly") ka follow-up — kaam shuru hua ya nahi, 2026 me check karo.
+
+// QA: 10 web searches + 4 source pages khud kholkar padhe; har entry us page par adharit hai jo khola gaya (snippet-only entry shunya). Entries 4, rejects 16, retry leads 4. Koi tsc/build/push/deploy nahi chalaya.
+
+// REJECT-LOG (balajied-kupar-synrem — Shella (ST), BJP; 2023-2028):
+// 1. EastMojo, 24 Feb 2026 — "Meghalaya CM: 92 villages picked under Vibrant Village Programme": Assembly me Shella MLA ne national Rs 6,800 crore allocation par sawal poocha aur border-area sanctions ki maang ki — REJECT: maang/sawal akele, documented prashasnik nateeja nahi. (http://eastmojo.com/meghalaya/2026/02/24/meghalaya-cm-92-villages-picked-under-vibrant-village-programme/)
+// 2. The Shillong Times, 15 Mar 2022 — "MLAs flag health, other public issues": budget discussion me Majai Sub Centre ko PHC banane aur Nongjri me sub centre ki maang — REJECT: pre-term (2022, karyakaal se pehle) + maang akele. (https://theshillongtimes.com/2022/03/15/mlas-flag-health-other-public-issues/)
+// 3. Syllad, 1 Nov 2025 — "Union DoNER Minister Jyotiraditya Scindia and CM Conrad Sangma lay foundation for Rs 233 crore Sohra Tourism Circuit": PM-DevINE project ka shilanyas Scindia + CM ne kiya, Synrem sirf maujood dignitaries me — REJECT: dusre neta ke karyakram me maujoodgi. (https://www.syllad.com/union-doner-minister-jyotiraditya-scindia-and-cm-conrad-sangma-lay-foundation-for-rs-233-crore-sohra-tourism-circuit/)
+// 4. Northeast Today, 20 Nov 2025 — "Meghalaya CM Conrad Sangma Inaugurates Sohra CHC Operation Theatre": OT ka lokarpan CM ne kiya, Synrem ne sirf staff ki prashansa ki — REJECT: maujoodgi/prashansa, MLA ka kaam nahi. (https://northeasttoday.in/northeast/meghalaya-cm-conrad-sangma-inaugurates-sohra-chc-operation-theatre-launches-market-phase-ii/)
+// 5. The Shillong Times, 25 Sep 2026 — "'Tragic betrayal of electorate': KJCLF slams 8 UDP turncoats": 8 UDP MLAs ka BJP me jana — REJECT: dal-badal, kshetra-kaam nahi (aur dal-badal akela NEGATIVE bhi nahi). (https://theshillongtimes.com/2026/09/25/tragic-betrayal-of-electorate-kjclf-slams-8-udp-turncoats/)
+// 6. The Shillong Times, 9 Aug 2026 — "Majai residents oppose removal of acting Sordar": Hima Sohra/KHADC ka sordar-vivad, MLA ka koi kaam nahi — REJECT: KHADC ka mamla. (https://theshillongtimes.com/2026/08/10/majai-residents-oppose-removal-of-acting-sordar/)
+// 7. The Shillong Times, 15 Nov 2019 — "Shella Dorbar asks government to release Lafarge funds": SPV funds release ki maang — REJECT: pre-term + maang akele. (https://theshillongtimes.com/2019/11/15/shella-dorbar-asks-government-to-release-lafarge-funds/)
+// 8. Syllad, 2019 — "Balajied files nomination for Shella by poll, wants to fulfill father's dreams": Mawsmai-Shella road aur Umtyngar-Bholaganj NH upgrade ke vaade — REJECT: pre-term + chunav-ghoshna ("karenge" khabar). (https://www.syllad.com/balajied-files-nomination-for-shella-by-poll-wants-to-fulfill-fathers-dreams/)
+// 9. Resort article (The Shillong Times, 7 Mar 2024) me MLA ka bayan — "PM's Swadesh Darshan Rs 32 crore project will also be implemented in stages" — REJECT: udghatan-samaroh me di gayi ghoshna akele, koi sanction ya implementation ki post-event report nahi mili. (https://theshillongtimes.com/2024/03/07/mla-inaugurates-resort-at-nongwar-overlooking-bdesh/)
+// 10. Syllad, Jul 2026 — "CM inaugurates projects worth Rs 5.48 crore... in Sohiong": Sohiong kshetra ke kaam — REJECT: kshetra-bahar (dusre MLA ka kshetra). (https://www.syllad.com/cm-inaugurates-projects-worth-rs-5-48-crore-lays-foundation-for-rs-140-74-crore-development-works-in-sohiong/)
+
+// RETRY LEADS:
+// - Koi nahi. Har relevant whitelisted page (The Shillong Times resort report, EastMojo Vibrant Village report) khud kholkar poora padha gaya; koi page khulne me fail nahi hua.
+// - Highland Post ki site-search me "Balajied" par koi result nahi mila — wahan MLA ke kaamon ki coverage shoonya hai, isliye retry ka koi lead nahi.
+// - NEGATIVE: koi nahi. Halafname + foundation ke mutabik criminal cases 0; whitelisted media me MLA ke khilaf FIR ya pusht aadhikarik jaanch ki koi khabar nahi mili. UDP ki ayogyata (anti-defection) yachika chal rahi hai lekin niyam ke mutabik ye NEGATIVE nahi.
+
+// REJECT-LOG (prestone-tynsong):
+// 1. Mini Secretariat + Circuit House + Block Integrated Development Complex, Pynursla (Oct 2025) — lokarpan CM Conrad K. Sangma ne kiya, Tynsong sirf maujood the; dusre neta ke karyakram me maujoodgi, REJECT.
+// 2. PWD office building, Madanrting, Shillong (The Shillong Times, 31 Aug 2026) — mantri-pada ka kaam, Pynursla kshetra se bahar, REJECT.
+// 3. Wahiajer (West Jaintia Hills, Narliang seat) me Rs 100 crore se zyada projects ka lokarpan (Apr 2026) — kshetra-bahar + mantri-kaam, REJECT.
+// 4. Umiam bypass bridge lokarpan (May 2026) — kshetra-bahar + mantri-kaam, REJECT.
+// 5. Lapalang-Wah Rymben tourist spot lokarpan (Dec 2025) — post-event report sirf hubnetwork.in + FB mirror par, whitelist ke bahar ka srot, REJECT.
+// 6. Little Star School Umkor ko Rs 8 lakh aur Mawkhap Presbyterian LP School ko Rs 10 lakh dene ki ghoshna (Dec 2025) — vyaktigat daan/charity pattern + whitelist ke bahar ka srot, REJECT.
+// 7. "Tynsong let Pynursla down" (The Shillong Times, 3 Feb 2023) — chunav se pehle virodhi candidate ka dawa, pre-term, REJECT.
+// 8. Pynursla market ko "2028 se pehle Police Bazaar jaisa" banane ka vaada (Feb 2025) — "karenge" khabar, REJECT.
+// 9. Pynursla Civil Sub Division udghatan (2017) aur Mini Secretariat shilanyas (2022) — pre-term, REJECT.
+// 10. "Tynsong promises to revamp education if NPP voted to power" (The Shillong Times, 11 Jan 2023, Mawkyrwat) — pre-term chunavi vaada, REJECT.
+// 11. Shillong-Pynursla-Dawki road par JAC ka 20-din ka ultimatum (syllad) — Tynsong ke khilaf virodh hai lekin unke khilaf koi FIR ya pusht adhikarik jaanch nahi; negative niyam poora nahi hota, NEGATIVE nahi, REJECT.
+// 12. "Dr Friday Lyngdoh Road" lokarpan — sirf YouTube (Meghalaya Legislative Assembly Channel), sthan verify nahi, whitelist ke bahar, REJECT.
+// 13. Negative check: myneta halafnama me criminal cases 0; Dec 2023 se ab tak whitelisted established media me unke khilaf koi FIR ya pusht adhikarik jaanch ki qualifying reporting nahi mili — koi negative entry nahi.
+// 14. Namesake trap avoided: Rahboklang Tynsong (MDC candidate) ke prachar-karyakramon ko Prestone Tynsong ke kaam me nahi gina.
+
+// RETRY LEADS:
+// Koi nahi — dono whitelisted srot pages (The Shillong Times 28 Nov 2024; EastMojo 29 May 2026) khud kholkar padhe gaye; jo pages nahi khole gaye wo whitelist/scope niyam par pehle hi reject the.
+
+// REJECT-LOG
+// REJECT: Dympep Skywalk pragati-report (20% — May 2026; 30% — Aug 2026, The Shillong Times) — MLA ka site-nirakshan aur pragati ki jankari matra; "nirikshan/daura akele" rule se reject.
+// REJECT: Mawrah Multipurpose Reservoir lokarpan (30 Jan 2024, syllad/ohmeghalaya) — CM Conrad Sangma ne lokarpan kiya, MLA ki maujoodgi matra; dono srot whitelist me nahi.
+// REJECT: 49 solar street lamps, Mawkdok-Dympep (Oct 2023, The Shillong Times) — CBIC Chairman ne lokarpan kiya, MLA ki maujoodgi matra; kendriya agency (Swacchata Action Plan) ki pahal.
+// REJECT: Mawkdok-Khatarshnong road lokarpan (Jan 2021, syllad) — pre-Mar 2023 + whitelist-bahar srot.
+// REJECT: Sohra Government College naye bhavan ka shilanyas (Nov 2020, The Shillong Times) — pre-Mar 2023; CM ne shilanyas kiya, MLA maujoodgi matra.
+// REJECT: 50-bedded Integrated AYUSH Hospital shilanyas, Sohra (Nov 2018, PTI/india.com) — pre-Mar 2023; swasthya mantri ne shilanyas kiya.
+// REJECT: Rs 233 crore Sohra Tourism Circuit shilanyas (Nov 2025, syllad) — kendriya mantri Jyotiraditya Scindia + CM ne shilanyas kiya, MLA ki maujoodgi matra; whitelist-bahar.
+// REJECT: Ramakrishna Mission College lokarpan, Sohra (Nov 2025, t7news) — CM ne lokarpan kiya, MLA maujoodgi matra; whitelist-bahar.
+// REJECT: Mawmihthied RMSA Secondary School naye bhavan ka lokarpan (meghalaya.gov.in press release, ~Apr 2026) — Shiksha Mantri ne lokarpan kiya, MLA ka bhashan matra.
+// REJECT: Mini Secretariat + Circuit House lokarpan, Pynursla (ohmeghalaya, Oct 2025) — CM ka karyakram, MLA maujoodgi matra; kshetra-bahar (Pynursla Sohra me nahi); whitelist-bahar.
+// REJECT: U Duwan Sing Syiem Road renaming + plaque unveiling (Oct 2024, The Shillong Times) — prateekatmak naamkaran, koi vikas-kaam nahi.
+// REJECT: MIDC Chairman pad sambhalna (Jun 2026, theshillongdaily) — pad-niyukti ki khabar, kshetra-kaam nahi; whitelist-bahar.
+// REJECT: Saitsohpen bhoomi-vivad samjhauta (meghalaya.gov.in press release) — MLA ka bhashan matra; samjhauta sarkar-Elaka ke beech, Rs 114 crore ki pariyojna-ghoshna Shella MLA ne ki.
+// REJECT: Sohra CHC OT complex lokarpan + Sohra Market Phase-II shilanyas (Nov 2025, northeasttoday.in) — CM ne dono kiye, MLA maujoodgi matra; Sohra Market Phase-II ke Rs 12 crore swikriti ka dawa sirf whitelist-bahar srot me.
+// REJECT: HNLC dhamki mamla (boroktimes, Jan 2024) — MLA dhamki ka shikar/peedit; case HNLC ke khilaf darj; MLA aaropit nahi — negative nahi.
+// REJECT: Chunav-yachika Gavin Miguel Mylliem vs Titosstar Well Chyne (MC(EP) 19/2023, El. Pet. 2/2023) — Mylliem yachikakarta; "chunav-yachika akeli negative nahi" rule.
+
+// RETRY LEADS
+// Koi nahi — saare relevant whitelisted source pages khul gaye aur padh liye gaye.
+
+// IDENTITY: Gavin Miguel Mylliem — Sohra (ST), East Khasi Hills; NPP MLA, 2023-2028 (2023 me PDF ticket par jeete: 11,358 vote; runner-up Titosstar Well Chyne 11,343; margin 15; PDF ka May 2023 me NPP me vilay). Mantri pad nahi. Umr 31, B.Com (Hons) NEHU 2012, Umthli village (Sohra) ke nivasi. Halafname me koi aapradhik mamla ghoshit nahi.
+
+// REJECT-LOG (banteidor-lyngdoh / Mawkynrew, NPP; period Mar 2023+ only):
+// 1. 6 gaonon ko jodne wali 2 sadak pariyojnaon (kul Rs 8.10 crore, RIDF-funded) ka shilanyas,
+//    12 Oct 2022 (theshillongtimes.com/2022/10/14/mla-lays-base-for-road-projects-in-mawkynrew/):
+//    REJECT — PRE-TERM (mantri-kaal; chunav se pehle).
+// 2. Jongksha PHC ko CHC me upgrade ka shilanyas, 30 Sep 2022 (syllad.com/banteidor-laid-foundation-stone-for-jongksha-chc/;
+//    southasiaviews.com copy): REJECT — PRE-TERM + mantri-kaal (Agriculture Minister ke roop me). Dono srot
+//    non-whitelisted bhi hain.
+// 3. Thynroit gaon water supply scheme (Rs 9 crore) ka shilanyas, 14 Jan 2023
+//    (theshillongtimes.com/2023/01/16/there-were-no-takers-for-my-portfolio-says-agri-minister/):
+//    REJECT — PRE-TERM (14 Jan 2023, Mar 2023 chunav se pehle; mantri ke roop me). Usi article me MLA ka
+//    "pichhle 5 saalon me Rs 363 crore ke kaam" ka dawa bhi 2018-23 period ka hai — pre-term claim, entry nahi.
+// 4. Mawkynrew Tourism Sociaable Society (MTSS) ka gathan, MLA adhyaksh chune gaye, Aug 2023
+//    (theshillongtimes.com/2023/08/06/new-body-to-promote-tourism-in-mawkynrew/): REJECT — in-term coverage
+//    hai lekin koi vikas-kaam nahi; sirf society ka gathan aur sangathnik pad.
+// 5. Umtong 33 KV sub-station ka nirikshan, Power Minister Abu Taher Mondal ke saath, Aug 2024
+//    (theshillongtimes.com/2024/08/26/new-sub-station-in-mawkynrew-to-address-power-woes/): REJECT —
+//    nirikshan/daura akele; mantri ke karyakram me MLA ki maujoodgi.
+// 6. Mawkynrew me 2 PMGSY sadak pariyojnaon (Rs 25 crore) ka nirikshan + SRWP community hall (Rs 10 lakh)
+//    aur Holy Cross HSS retaining wall ka nirikshan, Aug 2025
+//    (theshillongtimes.com/2025/08/13/two-key-pmgsy-projects-in-ekh-record-rapid-progress/): REJECT —
+//    nirikshan akele; koi lokarpan/shilanyas MLA ne nahi kiya.
+// 7. 150 SSLC/HSSLC toppers ka samman (certificate + cash prize), Oct 2024
+//    (theshillongtimes.com/2024/10/15/mla-banteidor-felicitates-sslc-hsslc-toppers-in-mawkynrew/): REJECT —
+//    samarohik samman + nakad puraskar; koi vikas-kaam (sadak/paani/school infra) nahi.
+// 8. CM Connect, Thangsning: CM Conrad Sangma ne Thangsning Stadium ka lokarpan kiya; MLA ne artificial turf,
+//    water supply aur Jongksha-Thynroit bridge ki maang uthai, Nov 2025
+//    (pninews.com/indiaeducationdiary.in copy): REJECT — srot non-whitelisted; CM ke karyakram me maujoodgi +
+//    maang/prastav akele.
+// 9. CM ne Jongksha-Thynroit Bridge (Rs 13.35 crore) + artificial turf ki swikriti ghoshit ki, 30 Oct 2025
+//    (theshillongtimes.com/2025/10/31/cm-sanctions-%e2%82%b913-35-crore-for-project-in-mawkynrew/): REJECT —
+//    ye CM ka rajya-star faisla hai; MLA ki bhoomika maang uthane tak seemit thi (maang akele entry nahi banti).
+// 10. ASF par bahar se suaron ke aayat par asthai pratibandh ki maang, minister ko milkar, Jul 2026
+//     (theshillongtimes.com/2026/07/03/asf-govt-mulls-temporary-ban-on-pig-import/; themeghalayanexpress/hubnetwork/
+//     sentinelassam copies): REJECT — maang/prastav akele; koi documented prashasnik nateeja nahi.
+// 11. Agri Minister Timothy D. Shira dwara 1 lakh+ cardamom saplings ka vitran, Mawkynrew Block, Jul 2026
+//     (theshillongtimes.com/2026/07/18/mawkynrew-farmers-get-over-1-lakh-cardamom-saplings/): REJECT —
+//     dusre neta (mantri) ke karyakram me MLA ki maujoodgi/swagat; MLA ka vyaktigat kaam nahi. (newire.in wala
+//     alag Rasong sapling event non-whitelisted hai + MLA ne jeb se kharida — vyaktigat charity.)
+// 12. Transformer failures par Power Minister se hastakshep ki maang, Jul 2025
+//     (hubnetwork.in/mla-seeks-power-ministers-intervention-over-repeated-transformer-failures-in-mawkynrew/):
+//     REJECT — srot non-whitelisted; maang/prastav akele.
+// 13. RKM ME School vivaad (Mawkynrew) suljhane ka wada, curfew hatane ki appeal, Jan 2025
+//     (theshillongtimes.com/2025/01/24/mawkynrew-mawkynrew-mla-promises-resolution-of-rkm-school-row/):
+//     REJECT — vivaad-samadhan ka wada; koi vikas-kaam nahi.
+// 14. Pre-term itihas (sab REJECT — PRE-TERM): MDC-kaall me sadak widening lokarpan, Mar 2017
+//     (theshillongtimes.com/2017/04/03/road-inaugurated-in-mawkynrew/); community hall (Rs 4 lakh) + playground
+//     (Rs 4.5 lakh) lokarpan, Jan 2018 (theshillongtimes.com/2018/01/08/playground-community-hall-inaugurated/);
+//     Mawpynthymmai gaon ka sadak-sarvekshan, Nov 2021 — nirikshan akele
+//     (theshillongtimes.com/2021/11/10/mla-surveys-village-to-introduce-motorable-road/); School Sports Forum,
+//     Sep 2019 — mantri, rajya-star (syllad.com copy); Thangsning veterinary dispensary lokarpan, Dec 2020 —
+//     mantri-kaal pre-term (syllad.com copy); Syntung Health Sub Centre lokarpan, Nov 2020 — Health Minister
+//     A.L. Hek ne kiya, Banteidor sirf upasthit (syllad.com copy).
+// 15. Namesake traps avoided (galat vyakti — sab REJECT): bootlegging aarop wala "Home Minister HDR Lyngdoh"
+//     (dnaindia — H.D.R. Lyngdoh, alag vyakti); ST 2018 ke "gagged rape victim" case me "Lyngdoh" ka zikr
+//     (theshillongtimes.com/2018/01/18/gagged-rape-victim-lodges-fir/ — 2018, pre-term, Banteidor se jod nahi);
+//     Mawkdok Health Centre lokarpan — Health Minister Ampareen Lyngdoh ne kiya (alag vyakti).
+
+// RETRY LEADS (khul nahi paya / whitelisted coverage nahi mili — baad me dobara check karo):
+// R1. CM-SMS vehicle service flag-off, Laitkyrhong Sub Centre, ~6 May 2026 — sirf t7news.com par hai
+//     (t7news.com/mla-banteidor-lyngdoh-launches-vehicle-service-for-pregnant-women-and-children-under-cm-sms/),
+//     jo whitelist me NAHI hai. The Shillong Times / Highland Post / EastMojo / Northeast Now me is event ki
+//     post-event coverage mile to Aspataal-category "lokarpan" entry evaluate karo (fund: CM-SMS state scheme;
+//     MLA ki bhoomika flag-off tak — credit capped).
+// R2. Jongksha CHC upgrade (shilanyas Sep 2022, pre-term) ka in-term lokarpan — agar whitelisted srot me
+//     Banteidor dwara in-term me kiya gaya post-event lokarpan mile to evaluate karo; bina unke vyaktigat
+//     lokarpan ke entry nahi banegi.
+// R3. Thynroit water supply scheme (shilanyas Jan 2023, pre-term) ka in-term poorn-hona/lokarpan — whitelisted
+//     post-event coverage me MLA ki vyaktigat bhoomika mile to evaluate karo.
+
