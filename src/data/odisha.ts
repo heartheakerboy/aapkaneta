@@ -186,7 +186,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=430',
       backgroundNote: 'Halafname par naam \'Suresh Pujari\', seat Brajarajnagar aur party BJP assignment se match karte hain, isliye pehchan pakki hai. 2 mamle ghoshit hain — 2021 ka Sambalpur Town thana COVID-pradarshan ka aur 2014 ka Burla thana ka; dono me koi conviction nahi. MSc 1981 (Sambalpur University) aur Labour Law me diploma 1985. Umr 64 saal.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Brajarajnagar se jeete: 82,199 votes. Runner-up Alaka Mohanty (BJD) 55,410 votes. Margin 26,789.',
+    electionNote: '2024 Vidhan Sabha chunav me Brajarajnagar se jeete: 82,199 votes. Runner-up Alaka Mohanty (BJD) 55,410 votes. Margin 26,789. Jun 2024 se Mohan Charan Majhi sarkar me Cabinet Minister (Revenue and Disaster Management) hain — portfolio allotment Jun 2024 ki sarkari ghosna me; vibhagiya/rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'tankadhar-tripathy',
