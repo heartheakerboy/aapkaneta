@@ -2935,3 +2935,326 @@ meghalayaWorks['damanbait-lamare'] = [
 // 1. IOCL CSR ambulance flag-off (19 Jul 2025) — CSR fund, MLA sirf flag-off = reject. https://theshillongtimes.com/2025/07/19/umroi-pyllun-health-centre-gets-its-first-ambulance/
 // 2. Nongsder synthetic turf foundation stone (May 2025) — Sports Minister chief guest, MLA sirf Guest of Honour (thesportsroom.in/southasiaviews.com). 3. MeECL officials meeting (Jul 2026) — sirf daant/prabhav, koi dastaveji nateeja nahi. 4. Umiam bypass bridge inauguration (May 2026) — Dy CM Tynsong ne udghatan kiya (Rs 23cr); MLA upasthit + NHAI corridor context. 5. Community Biochar Plant launch Umsli — CM ka event, MLA ka sirf bayan. 6. Little Flower HS School jubilee (Oct 2025) — CM ka event. 7. Lumdaitkhla market inauguration (Aug 2025) — Minister Abu Taher Mondal ne udghatan kiya (Rs 5cr, MoTA). 8. Waste e-vehicles flag-off (Feb 2024) — CM ka event, Swachh Bharat. 9. Umiam 4-lane highway opposition (Oct 2024) — MLA ka zikr hi nahi; NHAI kendriya. 10. MUDA Chairman appointment (Oct 2025) — sansthaagat pad, works nahi (foundation me disclosure jod diya). 11. Estimates Committee inspections — committee ka kaam. 12. Dasakhiatbha Lamare (Mawhati/Nongkrem) namesake — misattribution se bacha. 13. George B. Lyngdoh / Ngaitlang Dhar (purane MLA) ke events — pichhle karyakaal, chhue nahi.
 // RETRY (lamare): Highland Post internal search/WordPress API me aur hyperlocal hits sambhav; Nongtraw sub-centre (Rs 5.5 lakh, VEC-implemented) ka fund-srot media se confirm nahi — GO-level check parent kare.
+// ---- West Jaintia Hills district batch (researched 2026-10-17) ----
+// Coordinator: 5 workers (1 MLA each). Total 21 entries. No push/deploy (parent does that).
+
+meghalayaWorks['sniawbhalang-dhar'] = [
+  {
+    title: 'Dy CM Sniawbhalang Dhar ne 30 November 2024 ko Nartiang seat me Pdein Mukhim, Sohphoh Mookabeng aur Kdohkule kshetra me 21.255 km UN Road pariyojna (Rs 100 crore) ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/12/02/dy-cm-lays-base-for-major-road-project-in-wjh/',
+    date: '2024-11-30',
+    note: 'Ghatna ki tithi article ki dateline (Jowai, Dec 1 — "Saturday") se inferred: 30 Nov 2024 ko shanivar tha. Ye sarkari sadak pariyojna hai; Dhar ne apni Nartiang seat me sthaniya vidhayak ke roop me shilanyas kiya — fund-srot article me disclosed nahi, isliye credit capped. Karyakram me Jowai MLA Wailadmiki Shylla bhi maujood the; article in sadkon ko Dhar ke kshetra ke vikas-karyon ke roop me frame karta hai.',
+    stage: 'shilanyas',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa — Nartiang seat peene ke paani ki suvidha ke liye Rs 170 crore paane wali pehli seat bani',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/12/02/dy-cm-lays-base-for-major-road-project-in-wjh/',
+    date: '2024-11-30',
+    note: 'Ye upar wale shilanyas-karyakram me Dhar ka diya gaya bayan hai (post-event reporting me darj); kisi swatantra sarkari dastavej se verified nahi hai, isliye credit poori tarah capped — sirf unke dawe ke roop me darj kiya gaya hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Nartiang MLA Sniawbhalang Dhar ne 29 January 2026 ko Khonsaro gaon ke Sports Club ko football ground ke nirmaan aur sudhar ke liye Rs 10 lakh ka grant saunpa',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/01/31/khonsaro-football-ground-set-for-upgrade/',
+    date: '2026-01-29',
+    note: 'Asal vitaran ki itemized media reporting: grant 29 January ko haathon-haath saunpa gaya (article ki dateline Jowai, Jan 30). Khonsaro gaon Nartiang Vidhan Sabha seat me padta hai. Fund-srot (MLA scheme/SRWP ya anya) article me disclosed nahi, isliye credit capped — bhoomika vitaran tak seemit.',
+    stage: 'swikriti',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['wailadmiki-shylla'] = [
+  {
+    title: 'Jowai ke Iawmusiang me Urban Health and Wellness Centre ka lokarpan MLA Wailadmiki Shylla ne kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2023/10/21/health-centre-in-jowai/',
+    date: '2023-10-20',
+    note: 'Sarkari swasthya kendra; report me fund source ka zikr nahi — credit lokarpan tak seemit; ADMHO aur chikitsa adhikari maujood the.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+  {
+    title: 'Deputy CM ne Iawmusiang Market Complex (Rs 25.60 crore) ka shilanyas kiya aur Jowai MLA Shylla ke lagataar prayason ki sarvajanik sarahna ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/12/14/govt-gets-ball-rolling-for-revival-of-jowai-market/',
+    date: '2024-12-13',
+    note: 'Shilanyas Deputy CM Sniawbhalang Dhar ne kiya; lagbhag 20 saal se atka project; theka Pyrkhat Hinge ko, 24 mahine ki samay-seema. MLA ki bhoomika lagatar pahal karna thi — shrey Dy CM ki sarvajanik sarahna tak seemit, isliye credit capped.',
+    stage: 'shilanyas',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kiang Nangbah Stadium me Rotary Club ke sahyog se bane public toilet ka lokarpan MLA Shylla ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/01/16/mla-inaugurates-rotary-funded-public-toilet-in-jowai-stadium/',
+    date: '2025-01-14',
+    note: 'Parsiyojna Rotary Club Jowai, WJDSA aur Jowai MLA ne Jowai Municipal Board ke zariye 15th Finance Commission Award (TIED Grant) ke tahat poori ki; fund me Rotary daan bhi shamil — isliye credit sahyogi bhoomika aur lokarpan tak seemit.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jowai Civil Hospital me Health ATM aur 24-ghante pharmacy khuli; Ialong aur Sabahmuswang health sub-centres ke work order diye gaye',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/new-health-atm-24-hr-pharmacy-opens-at-jowai-civil-hospital/',
+    date: '2026-01-21',
+    note: 'Health ATM Rs 3.8 lakh CM Catalytic Fund se bana; Shylla ne Health Minister ke roop me apni Jowai seat me khola — credit lokarpan aur work-order handover tak seemit; sub-centre Ialong Rs 55.50 lakh, Sabahmuswang Rs 55.05 lakh. Fund CM Catalytic Fund ka hai, MLA nidhi ka nahi — credit capped.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+  {
+    title: 'Khliehtyrshi me Pdein Chahtngit viewpoint ka lokarpan MLA aur Cabinet Minister Shylla ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/new-viewpoint-inaugurated-in-wjh-to-boost-local-tourism/',
+    date: '2026-07-06',
+    note: 'CM Catalytic Fund (DC office ke zariye) se nirman; zameen Jaijai Rymbai ne daan di; Dorbar Shnong Khliehtyrshi ko handover. Shylla ne cabinet minister aur sthaniya MLA ke roop me lokarpan kiya — fund sarkari hai, isliye credit capped. Sanitary complex aur vendor stalls abhi sirf ghoshna hain, gine nahi.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['coming-one-ymbon'] = [
+  {
+    title: 'Raliang Police Outpost ka full-fledged Police Station me upgradation — Ymbon ne Raliang MLA ke roop me iske liye vyaktigat dabav dala, Home mantri ke pad se aupcharik upgradation ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2023/08/08/railiang-police-op-upgraded-to-full-fledged-station/',
+    date: '2023-08-08',
+    note: 'Raliang Police Outpost ko full-fledged Raliang Police Station me upgrade kiya gaya; Coming One Ymbon ne upgradation aupcharik roop se ki. Credit disclosure: yeh kadam unhone Home (Civil Defence & Home Guards) mantri ke pad se uthaya tha (Mar 2023–Sep 2025 cabinet me the), lekin unhone apne Raliang MLA ke roop me iske liye vyaktigat dabav dalne ka dawa kiya. Koi fund rakam report me nahi di gayi. Ab Raliang ke logon ko police station ke kaam ke liye Jowai nahi jana padega — seat-level suvidha, isliye entry banti hai lekin shrey capped hai.',
+    stage: 'poora-kaam',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['nujorki-sungoh'] = [
+  {
+    title: 'NJB sadak ki marammat ka mudda Zero Hour Notice se uthaya — Dy CM ne barsaat ke baad marammat ka ashwasan diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2024/08/29/mowkaiaw-road-in-pitiable-state-rues-local-mla/',
+    date: '2024-08-29',
+    note: 'Sungoh ne Nartiang-Jonglwit-Barato (NJB) sadak ki kharab haalat — Takhniang se Shilliang Myntang tak 7 km ka hissa — Autumn Session me Zero Hour Notice se uthayi. PWD mantri Prestone Tynsong ne House me kaha kshatigrast hisso ki marammat barsaat khatam hone ke baad shuru hogi. Credit sirf maang uthane tak seemit hai — marammat asal me hui ya nahi, iska koi dastavej is report me nahi.',
+    stage: 'mantri-ashwasan',
+    period: '2023-2028',
+  },
+  {
+    title: 'Laskein Block Labour Office ko Jowai se wapas Laskein chalane ka mantri-ashwasan Sungoh ke sawaal par mila',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/03/08/mla-disagrees-poor-internet-connectivity-for-shifting-blo/',
+    date: '2025-03-07',
+    note: 'Sungoh ne Budget Session me poocha ki Laskein ka Block Labour Office "internet kharab hone" ki wajah se Jowai kyon shift hua; unhone is wajah se asahmati jatayi. Employment mantri Shakliar Warjri ne jawab me kaha office band nahi hua aur jald Laskein ke rented house se phir chalega. Credit sirf sawaal uthane tak seemit hai — office wapas chalana mantri ka nirnay, Sungoh ka kaam nahi.',
+    stage: 'mantri-ashwasan',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['lahkmen-rymbui'] = [
+  {
+    title: 'Rymbui ne Darrang Secondary School ke vistaar ke liye Rs 9 lakh ka work order saunpa — Rs 5 lakh additional classrooms aur Rs 4 lakh computers ke liye',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/09/21/udp-hails-rymbuis-return-to-state-cabinet/',
+    date: '2025-09-20',
+    note: 'Fund srot report me specified nahi; Rymbui ne shiksha mantri aur sthaniya MLA ke roop me apni Amlarem seat me work order saunpa. Shrey vyaktigat vitaran tak seemit.',
+    stage: 'swikriti',
+    period: '2023-2028',
+  },
+  {
+    title: 'Umngot nadi par 205-metre suspension footbridge ka lokarpan Rymbui ne kiya — BADP 2019-2020 ke tahat swikrit pariyojna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/09/21/udp-hails-rymbuis-return-to-state-cabinet/',
+    date: '2025-09-20',
+    note: 'Fund Border Areas Development Programme (BADP), sarkari yojana; sanction 2019-2020 ka hai (wartaman karyakaal se pehle), lekin lokarpan Rymbui ne apni Amlarem seat me wartaman karyakaal me kiya. Shrey sarkar ke saath saajha — credit capped.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kyrweng LP School me Rs 5 lakh ke additional classrooms aur Rs 1 lakh ke school toilet ka work order vitaran',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/02/16/rymbui-rolls-out-student-transport-fund-for-school-and-village-infra-in-wjh/',
+    date: '2026-02-14',
+    note: 'Fund srot report me specified nahi; Rymbui ne sthaniya MLA ke roop me gaon me jaakar work order baante. Shrey vyaktigat vitaran tak seemit.',
+    stage: 'swikriti',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sankhat gaon me Rs 5 lakh ki internal road ke liye work order saunpa gaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/02/16/rymbui-rolls-out-student-transport-fund-for-school-and-village-infra-in-wjh/',
+    date: '2026-02-14',
+    note: 'Fund srot report me specified nahi; Rymbui ne Sankhat gaon me vikas sahayata ke roop me work order diya. Shrey vyaktigat vitaran tak seemit.',
+    stage: 'swikriti',
+    period: '2023-2028',
+  },
+  {
+    title: 'RC Sankhat school me Rs 2 lakh ki boundary wall ke liye rashi swikrit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/02/16/rymbui-rolls-out-student-transport-fund-for-school-and-village-infra-in-wjh/',
+    date: '2026-02-14',
+    note: 'Fund srot report me specified nahi; Rymbui ne Sankhat daure me school boundary wall ke liye Rs 2 lakh swikrit kiya. Shrey vyaktigat vitaran tak seemit.',
+    stage: 'swikriti',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kyrweng se Muktapur chhatra parivahan gaadi aur Khonglah gaon ke liye waste management vaahan ka vitaran',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/02/16/rymbui-rolls-out-student-transport-fund-for-school-and-village-infra-in-wjh/',
+    date: '2026-02-14',
+    note: 'Dono vaahan (chhatra parivahan + Maruti Super Carry safai vaahan) gaon durbaron ko saunpe gaye; Rymbui ne rakh-rakhaav ki zimmedari durbar ko di. Daan nahi — sarvajanik upyog ki sampatti ka hastantaran.',
+    stage: 'vitaran',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jongushen gaon me RMSA ke tahat nirmit Government Secondary School samudaay ko saunpa gaya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/07/08/rymbui-hands-over-secondary-school-in-wjh/',
+    date: '2026-07-07',
+    note: 'Fund Rashtriya Madhyamik Shiksha Abhiyan (RMSA), sarkari yojana; Rymbui ne shiksha mantri aur sthaniya MLA ke roop me aupcharik hastantaran kiya. Shrey sarkar ke saath saajha.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+  {
+    title: 'Thangbuli Government LP School bhavan ka shilanyas — Mission Education Phase IV ke tahat Rs 70,18,887 swikrit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/09/27/rymbui-launches-education-and-sports-projects-in-wjh/',
+    date: '2026-09-26',
+    note: 'Fund Mission Education Phase IV (rajya sarkar yojana); Rymbui ne shiksha mantri ke roop me apni Amlarem seat me shilanyas kiya. Highland Post ne bhi isi karyakram ki pushti ki. Shrey sarkar ke saath saajha.',
+    stage: 'shilanyas',
+    period: '2023-2028',
+  },
+  {
+    title: 'Thangbuli playground sudhaar pariyojna (Rs 1.22 crore) ka shilanyas — covered sitting gallery, neeche kamra aur septic tank sahit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/09/27/rymbui-launches-education-and-sports-projects-in-wjh/',
+    date: '2026-09-26',
+    note: 'Fund sarkari pariyojna (Rs 1.22 crore); Rymbui ne shiksha mantri ke roop me apni Amlarem seat me shilanyas kiya. Highland Post ne bhi isi karyakram ki pushti ki. Shrey sarkar ke saath saajha.',
+    stage: 'shilanyas',
+    period: '2023-2028',
+  },
+  {
+    title: 'Thangbuli me Children and Adolescents Library aur Digital Infrastructure ka lokarpan — SRES-BID 2024-25, Rs 17,19,958',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/09/27/rymbui-launches-education-and-sports-projects-in-wjh/',
+    date: '2026-09-26',
+    note: 'Fund State Rural Employment Society-Block Implementing Division (SRES-BID), 2024-25; Rymbui ne mantri ke roop me apni Amlarem seat me lokarpan kiya. Highland Post ne bhi isi karyakram ki pushti ki. Shrey sarkar ke saath saajha.',
+    stage: 'lokarpan',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG (West Jaintia Hills, 11/12) ----
+// REJECT-LOG (sniawbhalang-dhar):
+// 1. Dorbar hall + Nartiang Modop Govt LP School building lokarpan (18 Jul 2026) — sirf syllad.com, whitelist source nahi. https://www.syllad.com/meghalaya-deputy-cm-inaugurates-new-dorbar-hall-and-school-building-in-nartiang/
+// 2. "MLA scheme 2024-25 me 45 hall projects sanctioned" dawa — sirf syllad me, whitelist nahi.
+// 3. Wahiajer me "Rs 100 crore se zyada projects" lokarpan (18 Apr 2026) — syllad/hubnetwork/meghalayatimes, whitelist nahi. https://www.syllad.com/no-constituency-left-behind-dhar-says-npp-led-govt-extending-projects-to-opposition-areas-too/
+// 4. Mynsngat gaon Rs 16 lakh allocation (1 Feb 2026) — sirf hubnetwork.in, whitelist nahi. https://hubnetwork.in/dhar-allocates-rs-16-lakh-for-mynsngat-village-development/
+// 5. Pathfinder Free Tuition Program (600 students) — hubnetwork + muft camp/charity. https://hubnetwork.in/free-tuition-for-600-sslc-students-sniawbhalang-dhar-pathfinder-program-doubles-centres-to-6/
+// 6. 5,000 parivaron ko muft roof tin sheets (~Apr 2025) — Highland Post coverage ke bawjood daan/charity. https://highlandpost.com/sniaw-to-support-families-in-need-with-roofing-sheets/
+// 7. KVK Jaintia Hills admin building lokarpan (Wahiajer) — syllad-only + KVK ICAR kendriya sanstha. https://www.syllad.com/sniawbhalang-inaugurates-kvk-jaintia-hills-administrative-building-stresses-organic-farming/
+// 8. CM dwara Nartiang Presbyterian HSS Rs 20 lakh ghoshna (9 Dec 2025) — sirf ghoshna + CM ka karyakram, Dhar guest of honour. https://www.syllad.com/cm-announces-rs-20-lakh-for-nartiang-presbyterian-higher-secondary-school-building-extension/
+// 9. Wahiajer Multi-Sports Complex ambulance lokarpan (30 Nov 2024) — daan/samarohiya. https://theshillongtimes.com/2024/12/02/dy-cm-lays-base-for-major-road-project-in-wjh/
+// 10. Rs 2 crore tourism projects (Children's Park) ghoshna (30 Nov 2024) — sirf "announced", bina swikriti. (same URL)
+// 11. Thadlaskein Tourism Complex ghoshna (30 Nov 2024) — sirf ghoshna. (same URL)
+// 12. ML72 Rising Society lokarpan, Pdeiñ Mukhim (30 Nov 2024) — samarohiya, vikas-kaam nahi. (same URL)
+// 13. "Sniawbhalang Dhar Waterfalls" naamkaran, Amlarem (21 Jul 2026) — Amlarem seat Nartiang ke bahar + samaroh. https://theshillongtimes.com/2026/07/22/wjh-waterfall-named-after-dy-cm-dhar/
+// 14. FM Nirmala Sitharaman dwara Jowai-Nartiang-Kdiap-Khanduli road lokarpan (20 Jun 2026) — NDB-kendriya funding + newsonair non-whitelist. https://newsonair.gov.in/finance-minister-nirmala-sitharaman-inaugurates-road-project-in-meghalaya/
+// 15. Namdong C&RD Block CM dwara lokarpan (2021/22) — pre-term + CM ka karyakram. https://meghalaya.gov.in/sites/default/files/press_release/CMO_160.pdf
+// 16. Wahiajer Multi Sports Complex CM dwara lokarpan (23 Jan 2024) — CM ka karyakram + State Plan/Khelo India kendriya funds. https://www.syllad.com/wahiajer-multi-sports-complex-to-be-inaugurated-on-january-23-dhar/
+// 17. Lapangap me KSU dwara Dhar ke hastakshep ki sarahna (4 Jun 2026) — mantri-stariya hastakshep, Nartiang seat ka kaam nahi. https://theshillongtimes.com/2026/06/05/lapangap-locals-resume-farming-under-state-police-escort/
+// 18. Pala ka aarop (Rs 20 lakh + dhamki, 4 Oct 2026, TST) — NEGATIVE criteria FAIL: virodhi-daliya unverified aarop, koi FIR ya pusht janch nahi, Dhar ka jawab anupasthit. https://theshillongtimes.com/2026/10/05/pala-claims-dhar-offered-rs-20l-threats-to-secure-votes/
+// 19. CBI education scam anticipatory bail (~2012, Northeast Now) — pre-term mamla, wartaman karyakaal me koi legal development nahi. https://nenow.in/north-east-news/meghalaya-politicians-government-officials-get-bail.html
+// 20. Lumtiniang Park Christmas lighting lokarpan (6 Dec 2025) — samarohiya + seat-bahar + syllad-only. https://www.syllad.com/dhar-inaugurates-christmas-lighting-at-lumtiniang-park/
+// 21. Jail Road hawkers relocation, Urban Affairs (14 Oct 2026) — mantri-stariya vibhagiya faisla, seat-bahar. https://highlandpost.com/govt-seeks-to-reassure-jail-road-hawkers/
+// 22. Dhar ke niwas par hamla (grenade, ~Apr 2024) — Dhar peedit, aaropi nahi. https://www.syllad.com/people-of-nartiang-constituency-condemns-attack-on-deputy-cm-sniawbhalang-dhars-residence/
+// REJECT-LOG (wailadmiki-shylla):
+// 1. Eco-friendly crematorium Khliehtyrshi lokarpan (12 Mar 2024, Rs 37 lakh 15th FC) — sirf syllad/voisplanet, whitelist nahi. https://www.syllad.com/eco-friendly-crematorium-inaugurates-in-jowai-for-hindu-community/
+// 2. Digital Learning Centre, District Library Mynthong lokarpan (6 Mar 2026, CM Catalytic Fund) — sirf syllad. https://www.syllad.com/shylla-opens-digital-learning-centre-to-boost-online-education-in-jowai/
+// 3. Mini Secretariat + Market inspection (17 May 2025) — sirf nirikshan/daura, syllad-only. https://www.syllad.com/wailadmiki-shylla-inspects-progress-of-mini-secretariat-and-iawmusniang-market-projects-in-jowai/
+// 4. Mynthong Community Hall extension Rs 1.9 cr shilanyas (4 Jan 2025) — MP (WR Kharlukhi) ki pariyojna, Shylla sirf maujood. https://theshillongtimes.com/2025/01/05/mp-lays-base-for-rs-1-90-cr-jowai-project/
+// 5. Sadak shilanyas (13 Dec 2024, Ialong/Jowai/Madur Thymme/Niriang/Mukhla, Rs 50 cr) — Dy CM ka karyakram, Shylla ka vyaktigat shrey nahi. https://theshillongtimes.com/2024/12/14/govt-gets-ball-rolling-for-revival-of-jowai-market/
+// 6. Jowai-Nartiang-Kdiap-Khanduli road Rs 59.48 cr (NDB, 20 Jun 2026) — kendriya mantri ka lokarpan, Shylla sirf upasthit. https://newsonair.gov.in/finance-minister-nirmala-sitharaman-inaugurates-road-project-in-meghalaya/
+// 7. Kiang Nangbah Stadium upgrade Rs 23-24 cr — sirf nirikshan + ghoshna. https://highlandpost.com/wailad-inspects-renovations-to-kiang-nangbah-stadium/
+// 8. Ummulong CHC → Integrated Hospital Rs 53 cr — seat-bahar (East Jaintia Hills) + ghoshna. https://www.syllad.com/vote-for-drl-nonglait-to-strengthen-meghalayas-voice-in-delhi-wailadmiki/
+// 9. Pahamsyiem EMRS + synthetic track (Ri-Bhoi, 11 Dec 2025) — seat-bahar. https://hubnetwork.in/meghalaya-cm-inaugurates-pahamsyiem-eklavya-model-residential-school-lays-foundation-for-synthetic-track/
+// 10. Young Festival (23 Jan 2026) — ceremonial. https://theshillongtimes.com/2026/01/24/jowai-event-ends-with-call-to-stay-away-from-drugs/
+// 11. Basketball tournament (19 Jan 2026) — ceremonial. https://theshillongtimes.com/2026/01/20/basketball-tourney-kicks-off-in-jowai/
+// 12. JSU MMSRB exam-centre maang (Oct 2026) — sirf maang. https://highlandpost.com/jsu-demands-mmsrb-exam-centre-in-jowai/
+// 13. JNC hostel expansion maang (Oct 2026) — sirf maang. https://www.syllad.com/overcrowded-hostels-dropouts-flagged-jnc-seeks-hostel-expansion-at-kiangnah-govt-college/
+// 14. Dairy complex (Feb 2022), Thadlaskein block office (Nov 2022), town roads resurfacing (Dec 2022) — pre-term. https://theshillongtimes.com/2022/02/09/foundation-laid-for-dairy-complex-in-wjh/
+// REJECT-LOG (coming-one-ymbon):
+// 1. Umiurem footbridge inauguration (16 May 2026, Shangpung Pohshnong, DMF Rs 49.98 lakh) — sirf syllad/nenews/shillongnews, whitelist nahi. https://www.syllad.com/comingone-ymbon-opens-umiurem-footbridge-announces-rs-15-crore-road-project/
+// 2. Rs 15 crore Pohshnong road sanction + Rs 25.40 lakh garbage vehicle — sirf ghoshna, bina GO/suchi. (same URL)
+// 3. 111 farm machinery + 7 ARV distribution (22 Jan 2026, Laskein) — fund NHB kendriya + state Planning, Ymbon sirf mukhya atithi (ceremonial). https://theshillongtimes.com/2026/01/30/wjh-farmers-receive-111-farm-machines-seven-response-vehicles/
+// 4. Roi Plants & Bakes outlet inauguration (14 Aug 2026, Shangpung) — private enterprise. https://highlandpost.com/roi-plants-bakes-inaugurates-new-outlet-in-shangpung/
+// 5. Railway demand for Jaintia Hills (Oct 2023) — sirf maang/proposal. https://theshillongtimes.com/2023/10/21/railways-will-be-beneficial-for-jh/
+// 6. Mantriyalaya statewide items — Aadhaar-seeding mission, PDS 5-yr vision, 445 Home Guards appointment letters, 1000+ ration card surrender, petroleum union ban, cow-slaughter stance — sab statewide mantri bhoomika, Raliang-seat kaam nahi.
+// 7. Greater Raliang Water Supply Scheme + Fire Station inauguration (Nov 2022) — pre-term. https://www.syllad.com/mda-govt-gifted-raliang-with-fire-service-emergency-station/
+// 8. Sep 2025 cabinet rejig (Ymbon dropped) — raajneetik khabar. https://indianexpress.com/article/india/8-of-12-meghalaya-ministers-replaced-in-major-cabinet-rejig-10253914/
+// REJECT-LOG (nujorki-sungoh):
+// 1. Mukhap-Mowkaiaw water scheme DPR (Feb 2026) — sirf ghoshna + syllad/hubnetwork non-whitelist. https://www.syllad.com/sungoh-assures-land-for-mukhap-mowkaiaw-water-project/ , https://hubnetwork.in/phe-minister-assures-dpr-for-mukhap-mokaiaw-water-scheme-to-be-prepared-soon/
+// 2. Jaintia Hills colleges maang (Feb 2026) — sirf maang, non-whitelist. https://www.syllad.com/sungoh-urges-cm-to-set-up-colleges-in-jaintia-hills/
+// 3. Laskein farmers skill programme (Apr 2026) — Sungoh sirf mukhya vakta, NEHU/ICAR ka karyakram. https://theshillongtimes.com/2026/04/26/250-farmers-attend-horti-skill-prog-in-wjh-village/
+// 4. JNC memorandum (Nov 2024) — sirf maang, koi nateeja nahi. https://theshillongtimes.com/2024/11/23/jnc-exhorts-mowkaiaw-mla-to-fix-infra-issues/
+// 5. Mukroh security call attention (Mar 2025) — sirf maang + generic ashwasan. https://theshillongtimes.com/2025/03/04/house-apprised-of-mukrohs-security-needs/
+// 6. Block I ke 36 gaanv wapas maang (Dec 2024) — sirf maang/bayan. https://theshillongtimes.com/2024/12/16/jh-mla-wants-block-i-villages-back-in-mlaya/
+// 7. Lumtiniang Christmas lighting (Dec 2025) — dusre neta ke karyakram me maujoodgi. https://www.syllad.com/dhar-inaugurates-christmas-lighting-at-lumtiniang-park/
+// 8. Independence Day / R-Day flag hoisting (2026) — ceremonial. https://theshillongtimes.com/2026/08/17/patriotic-spirit-sweeps-the-hills-as-meghalaya-celebrates-i-day/
+// 9. UDP CEC meet / VGK Kynta rally (Sep 2026) — siyasi karyakram. https://highlandpost.com/udp-campaigns-for-vgk-kynta-amid-internal-troubles/
+// 10. SRWP funds swindle aarop (2017) — namesake: aarop Robinus Syngkon par tha, Sungoh par nahi; pre-term. https://theshillongtimes.com/2017/09/14/four-jaintia-hills-mlas-accused-of-funds-swindle/
+// 11. Cabinet reshuffle speculation (Sep 2025) — sirf atkalein. https://highlandpost.com/cabinet-reshuffle-predicted-this-week/
+// 12. 'Mowkaiaw MLA's pleas ignored' (Dec 2022) — pre-term. https://theshillongtimes.com/2022/12/05/mowkaiaw-mlas-pleas-were-repeatedly-ignored/
+// 13. Editorial letter (Jan 2026) — pathak ka letter. https://theshillongtimes.com/2026/01/26/a-casualty-of-political-power-play/
+// PARTY LEAD (nujorki-sungoh): 23 Sep 2026 ko 8 UDP MLAs BJP me gaye — Sungoh unme nahi the; ve 4 bache UDP MLAs me hain (Metbah Lyngdoh, Paul Lyngdoh, Renikton Tongkhar, Nujorki Sungoh). Record me party UDP hi rahega. https://theshillongtimes.com/2026/09/24/from-12-to-4-the-road-ahead-for-udp/
+// REJECT-LOG (lahkmen-rymbui):
+// 1. Padu Bah Govt LP School seven-room building (DSEL 2023-26), inaugurated 2026-09-30 — sirf syllad/yutipnews/nenews, whitelist nahi. https://www.syllad.com/padu-bah-school-gets-seven-room-building/
+// 2. Jarain Govt LP School naya bhavan (SRWP 2023-24), inaugurated 2025-10-15 — sirf syllad, whitelist nahi. https://www.syllad.com/minister-lahkmen-rymbui-inaugurates-new-building-at-jarain-government-l-p-school/
+// 3. Pdengshakap football ground upgrade (Rs 1,83,67,990), foundation stone 2026-04-04 — sirf syllad, whitelist nahi. https://www.syllad.com/rymbui-lays-foundation-for-rs-1-83-cr-football-ground-in-pdengshakap/
+// 4. Darrang Govt LP School naya bhavan (7 classrooms, Mission Education Phase III, Rs 44 lakh, 2024) — sirf syllad, whitelist nahi. https://www.syllad.com/minister-examine-lahkmen-rymbui-opens-darang-lp-school-building/
+// 5. Amtapoh Govt LP School naya bhavan, inaugurated 2025-10-29 — sirf syllad, whitelist nahi. https://www.syllad.com/lahkmen-rymbui-opens-darang-lp-school-building/
+// 6. Mini Secretariat, Amlarem (announced 2025-11-10) — sirf CM ki ghoshna; Rymbui ne sirf bhashan diya. https://theshillongtimes.com/2025/11/11/conrad-announces-mini-secretariat-for-amlarem/
+// 7. Nongtalang Secondary School upgradation + multi-purpose halls shilanyas (Nov 2025) — CM ne shilanyas kiya; Rymbui sirf upasthit. https://theshillongtimes.com/2025/11/11/conrad-announces-mini-secretariat-for-amlarem/
+// 8. Amlarem Water Supply Scheme — sirf ghoshna/prakriya, koi post-event reporting nahi. https://www.syllad.com/100-km-clean-up-from-nongpoh-to-sohra-jowai-and-amlarem-join-meghalayas-swachhata-drive/
+// 9. Mang Hai Ryum HSS announcements (Rs 15 lakh CMSDF + Rs 10 lakh + 2 Maruti Eeco, Oct 2025) — sirf ghoshna, actual vitaran ki follow-up reporting nahi. https://theshillongtimes.com/2025/10/20/rymbui-flags-low-enrolment-in-govt-schools-of-amlarem/
+// 10. Sub Divisional Hospital foundation stone, Jarain (Dec 2021/2022) — pre-term. https://www.syllad.com/foundation-stone-for-sub-divisional-hospital-laid-in-west-jaintia-hills/
+// 11. Mantri-duties ceremonial (CMLEAD induction Oct 2026, DIPR conclave Oct 2026, Teachers' Day Jowai Sep 2026, Shillong Polytechnic jubilee Oct 2026) — koi fund/vitaran nahi.

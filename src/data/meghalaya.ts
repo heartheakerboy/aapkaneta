@@ -105,7 +105,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/meghalaya2023/candidate.php?candidate_id=6885',
       backgroundNote: 'Halafname par naam \'Coming One Ymbon\', seat Raliang (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 51 saal. Shiksha: 10th Pass — Shangpung Presbyterian Secondary School se 1984 me dasvin. Pesha: samaj seva. Halafname me Meghalaya 2018 aur 2013 ke declarations bhi darj hain.',
     },
-    electionNote: '2023 Vidhan Sabha chunav me Raliang (ST) se jeete: 13,626 votes. Runner-up Lakhon Biam (BJP) 8,289 votes. Margin 5,337.',
+    electionNote: '2023 Vidhan Sabha chunav me Raliang (ST) se jeete: 13,626 votes. Runner-up Lakhon Biam (BJP) 8,289 votes. Margin 5,337. Mar 2023 se Sep 2025 tak cabinet mantri rahe — Food Civil Supplies & Consumer Affairs, Water Resources, Home (Civil Defence & Home Guards) aur Cooperation; Sep 2025 ke cabinet rejig me hataye gaye.',
   },
   {
     slug: 'nujorki-sungoh',
