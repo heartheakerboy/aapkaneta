@@ -276,7 +276,78 @@ odishaWorks['abhimanyu-sethi'] = [];
 // - Abhimanyu Sethi (Anandapur SC, BJD): profile imaandari se khaali — 6/6 MLA complete (Majhi 11 entries, 5 khaali).
 
 
-// ---- Mayurbhanj district batch ----
+
+// ---- Mayurbhanj district batch (researched 2026-10-16) ----
+
+odishaWorks['bhadav-hansdah'] = [
+{
+  title: 'Saraskana MLA Bhadav Hansdah ki gaadi se hadsa: do biker gambhir ghayal, janch shuru, Hansdah ka jawab',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'The New Indian Express',
+  sourceUrl: 'https://www.newindianexpress.com/states/odisha/2025/Nov/24/two-bikers-critically-hurt-as-saraskana-mlas-car-hits-them-in-mayurbhanj',
+  date: '2025-11-24',
+  note: '23 November 2025 ki shaam Udala-Baripada road par Basipitha ke paas Saraskana MLA Bhadav Hansdah ki Scorpio ne Tangna gaon ke Michu Singh (60) aur unke rishtedar Sanyashi Singh (55) ki motorcycle ko takkar maar di aur dono gambhir roop se ghayal ho gaye; sthaniyon ne aarop lagaya ki Hansdah aur unka driver gaadi chhodkar mauke se bhaag gaye, jiske virodh me logon ne Teramile chowk par sadak jam karke kshatipurti ki maang ki. Dusri taraf Hansdah ne daawa kiya ki unhone ghayalon ko PRM Medical College and Hospital, Baripada pahunchane me madad ki aur unke samarthakon ne doctors se uchit ilaj ki appeal ki. Khunta IIC Panchanan Mohanty ke anusaar police ne gaadi jabt karke janch shuru kar di hai; report me FIR ka zikr nahi hai. Sambad English aur Kalinga TV ne bhi hadse aur jam ki tasdeeq ki hai.'
+},
+];
+
+odishaWorks['sanjali-murmu'] = [
+{
+  title: 'Similipal ke paas naya helipad banega — MLA Sanjali Murmu ke prastav par Transport Minister ne Assembly me ghoshna ki',
+  category: 'Any',
+  stage: 'ghoshna',
+  badge: 'news',
+  sourceLabel: 'Sambad English',
+  sourceUrl: 'https://sambadenglish.com/latest-news/helipad-to-come-up-at-similipal-to-boost-connectivity-and-tourism-odisha-minister-11132635',
+  date: '2026-02-19',
+  note: 'Odisha ke Commerce and Transport Minister Bibhuti Bhusan Jena ne Assembly me bataya ki Similipal National Park ke paas naya helipad banaya jayega, aur Mayurbhanj district administration ko helipad ke liye upyukt zameen identify karne ko kaha gaya hai. Report ke mutabik ye kadam Bangiriposhi MLA Sanjali Murmu ke prastav ke baad uthaya gaya. Minister ne ye bhi kaha ki Pawan Hans Limited ko Bhubaneswar-Gopalpur aur Bhubaneswar-Similipal routes par heli taxi services chalane ke liye chuna gaya hai, jisse door-daraz ke ilakon ki connectivity badhegi aur eco-tourism ko badhava milega. Sambad English ki report me exact tareekh nahi di gayi thi, sirf budget session ke dauran Thursday ka zikr hai, isliye date February 2026 ki corroborating reports se nikali gayi hai. Helipad ka sthan Bangriposi constituency ke andar hai ya bahar, ye report se confirm nahi hota.'
+},
+];
+
+odishaWorks['prakash-soren'] = [
+{
+  title: 'MLA ki SUV me sharaab aur ganja ke aarop; police jaanch shuru',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'Odisha TV (otvnews)',
+  sourceUrl: 'https://odishatv.in/news/odisha/suv-linked-to-baripada-mla-meets-with-accident-in-bhubaneswar-police-probe-contraband-claims-266747',
+  date: '2025-07-01',
+  note: 'Baripada MLA Prakash Soren ke naam registered kaali Scorpio SUV Bhubaneswar ke Nalco Square ke paas der raat ek khadi Innova MUV me takra gayi; SUV me MLA ka beta, driver aur ek saathi the aur kul 4 log ghayal hue jinhe Kalinga Hospital le jaya gaya. Kuch sthaniya logon ne daawa kiya ki SUV ke andar sharaab ki botalen aur ganja ke packet mile aur unke video bhi banaye gaye. Maitree Vihar police ne dono gaadiyan zabt karke jaanch shuru ki; report ke samay forensic aur inventory check chalu the aur adhikariyon ne contraband milne ki pushti nahi ki thi. MLA Soren ne aaropon ko poori tarah kharij karte hue kaha ki unka beta sharaab nahi peeta aur sharaab-ganja ke daawe bilkul jhoothe hain. Sambad English ne bhi isi ghatna ki alag report ki hai.'
+},
+
+// --- REJECTS ---
+// 1. 650-bed PRMM Medical College teaching hospital + Rs 430 crore ke 39 projects (CM Mohan Majhi, 8 Jun 2026, Baripada) — udghatan/shilanyas CM ne kiya, MLA sirf manch par maujood the → reject (dusre neta ke karyakram me maujoodgi)
+// 2. State-level Adivasi Shakti Samavesh, Baripada (CM karyakram) — sirf maujoodgi → reject
+// 3. Ama Similipal Yojana skill centre, Ramtirtha, Jashipur (NIE, 21 Sep 2026) — udghatan minister Ganesh Ram Singhkhuntia ne kiya; Soren ka koi role nahi → reject
+// 4. Adani-KISS Residential School, Bankishole, Baripada (8 Jan 2020) — karyakaal se pehle ka kaam → reject
+// 5. Heritage Railway Museum, Baripada (2021) — karyakaal se pehle, sirf maujoodgi → reject
+// 6. Naveen Patnaik ke Baripada announcements (ring road, Chhau centre etc.) — pre-term CM ghoshnaen, MLA ka kaam nahi → reject
+// 7. ITDA engineer se maarpeet ke aarop me giraftari (Sep 2020) — pre-term ghatna, works profile ke baahar → reject
+// 8. MMDR Amendment Act par Assembly me sawal (Sambad English, 2026) — vidhayi sawal hai, kshetra-kaam nahi → reject
+// 9. Bisoi minor rape case me "Prakash Soren" ko 3 saal rigorous imprisonment (OMMCOM, 2026) — alag vyakti ka mamla lagta hai (Bisoi police area, Saibu Soren sah-abhiyukt; MLA se link established nahi) → reject (galat vyakti risk)
+// 10. MPC Junior College naye bhawan ko Rs 38.42 crore ki swikriti (5 Oct 2026 review meeting, MLA maujood) — khabar abhi tak sirf utkaldaily/odishabiznewz par hai jo allowed srot list me nahi → entry nahi ban sakti; RETRY LEAD me rakha hai
+
+// --- RETRY LEADS ---
+// A. MPC Junior College (Mayurbhanj Palace se shift) ke naye bhawan ki Rs 38.42 crore ki swikriti — agar Sambad English / OTV / Orissa POST / NIE / Kalinga TV / Pragativadi English / Dharitri English me report mile to entry: title 'MPC Junior College ke naye bhawan ko Rs 38.42 crore ki swikriti', category 'School', stage 'swikriti', badge 'news' (source: sarkari review meeting report, not MLA claim)
+// B. SUV contraband mamle ka final outcome — police jaanch ka nateeja (challan ya clean chit) abhi tak allowed sroton me nahi mila; BJD ne NDPS case ki maang ki thi lekin wo khabar bhi sirf odishabytes par hai (allowed nahi) → allowed srot me mile to negative note update karna
+// C. MLA LAD fund works — MLALADS portal is network se nahi khulta; allowed sroton me Soren ke kisi LAD kaam ki report nahi mili; nazar me rakho,
+];
+
+// ---- Mayurbhanj district batch REJECT-LOG (2026-10-16) ----
+// Coordinator QA: 9/9 fragments khud padhe. QA DROP (1): Jalen Naik (jalen-naik, Rairangpur ST) ka worker-submitted negative (TOI 30 Apr 2026 — retired headmistress ki police complaint, station diary, KOI FIR nahi) — sakht niyam se DROP: bina-FIR wali police complaint negative NAHI banti. Retry lead: FIR registered hui to entry banegi; worker ki English title ("Retired headmistress police complaint...") bhi Bhaasha-niyam par fail thi.
+// Singkhuntia (ganesh-ram-singh-khuntia, Jashipur ST — MoS Forest/Environment/Labour IC): 0 entries — saari coverage mantri-roop ki (orangutan rescue, Thar SUV audit, labour help desks, elephant training centre) — vibhagiya kaam reject. Khairi tigress event = shraddhanjali + karenge-ghoshna; landslide daura = nirikshan+relief. Negative reject: Thar SUV vivad mantri-roop ka, audit khud mantri ne kiya; ADR "1 case" sirf affidavit aankda.
+// Hansdah (bhadav-hansdah, Saraskana ST): 0 works — 10 leads reject (CM ke 3 mega events me maujoodgi/welcome-address; MSCB university bhashan; UDAAN 2026 chief-guest; collector suspension — intervention; Puri-Bangiriposi LHB — ECoR ka kaam; PPMS work-order PDFs me uska shrey nahi; BASUDHA delay pre-term; PM ke events). Negative KEPT: TNIE 24 Nov 2025 — Scorpio hadsa, 2 biker gambhir ghayal, sthaniyon ka bhaagne ka aarop, Hansdah ka jawab (madad ka daawa), gaadi jabt + janch — established reporting + inquiry status + jawab.
+// Naik (jalen-naik, Rairangpur ST): 0 works — President Murmu ke Rairangpur karyakram (AYUSH hospital, OUAT campus, IT campus, archery centre; IGNOU centre virtual), PM stadium lokarpan, CM ke 650-bed hospital + 185 projects me sirf maujoodgi. Negative DROPPED (upar dekho).
+// Murmu (sanjali-murmu, Bangriposi ST): 1 entry — Similipal helipad ghoshna (Transport Minister ne Assembly me Murmu ke prastav ke baad ghoshna ki — valid pahal pattern; sthan seat-andar/bahar confirm nahi — note me disclosed). Rejects: President/CM karyakram maujoodgi; relief (hailstorm SDRF); EMRS Kuliana + OMBADC piped water pre-term (Droupadi Murmu ka kaam).
+// Haiburu (padma-charan-haiburu, Karanjia ST): 0 entries — 23 searches; Toto CHC health camp non-whitelist + seva event; CM/President events maujoodgi; cow-smuggling station visit; tornado relief kitchens; Northern Odisha Development Council task-force = appointment, kaam nahi. Namesake trap: Charan Hembram (Padma Shri sahityakar) alag vyakti.
+// Madhei (bhaskar-madhei, Udala ST): 0 entries — 16 searches; CM ke Kaptipada/Baripada events me welcome speech/maujoodgi; DPC chairperson = pad, kaam nahi; flood-daura heckling = nirikshan, unpar koi aarop nahi; SFURTI weaving cluster pre-term; "Rs 70cr sanctioned" = sirf neta ka dawa, GO nahi.
+// Bijuli (sanatan-bijuli, Badasahi SC): 0 entries — 15 searches; flood nirikshan; Vaishnavi accident me personal medical help (public work nahi); 650-bed hospital maujoodgi; PMGSY probe maang pre-term; Jatra Assembly debate.
+// Soren (prakash-soren, Baripada ST): 0 works — CM ke 2 karyakram maujoodgi; Ama Similipal skill centre minister ka kaam; pre-term (Adani-KISS 2020, railway museum 2021, ITDA 2020); Bisoi rape case me "Prakash Soren" = galat vyakti risk (reject). Negative KEPT: OTV+Sambad English 1 Jul 2025 — MLA ki registered SUV ka Nalco Square hadsa, sthaniyon ke sharaab/ganja ke daawe, dono gaadiyan jabt + jaanch, contraband ki pushti nahi, MLA ka jawab (daawe jhoothe). Beta incidental roop se gaadi me tha, us par koi aarop/case nahi — parivar-niyam ka takraav nahi.
+// Mohapatra (krushna-chandra-mohapatra, Morada — Cabinet: Housing & Urban Development, Public Enterprises): 0 entries — 17 searches; mantri-roop ke saare kaam reject (Bhubaneswar/Cuttack/Subarnapur lokarpan, e-bus flag-off, WATCO/Sujala reviews); dusre netaon ke events me maujoodgi. Namesake trap: "Rs 25 lakh land scam" wali khabren Krushna Chandra PATRA (Dhenkanal) ki hain, Mohapatra ki NAHI.
+// State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages; ANI-divyang-tricycle event (mohapatra worker lead — sirf non-whitelist par).
+// ---- Mayurbhanj district batch END ----
+
+
 
 // ---- Balasore district batch ----
 
