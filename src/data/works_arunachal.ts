@@ -381,3 +381,79 @@ arunachalWorks['jikke-tako'] = [
 ];
 // REJECT-LOG (balo-raja, Palin): mantri-niyam — Septage Treatment Plant Chimpu, Donyi Polo airport terminal nirikshan, sanitation vehicles flag-off, aviation summit, SHS 2026 prep, Assam-Arunachal border committee, 132KV transmission meeting — sab vibhagiya kaam; pre-term rejects bhi; worker ke 23 rejects fragment ap_worker_baloraja.ts me.
 // REJECT-LOG (jikke-tako, Tali): pre-term rejects (2020 police barrack, 2021 Palin oxygen plant, 2022 Kumey-bridge nirikshan, CM road event Feb 2022, ADC office 2020); dusre neta (CM Pipsorang daura Jan 2025, Dy CM Nyokum Feb 2026, Governor Sep 2024); sirf baithak (Aug 2024 HoD review); samaroh (DPCCT Gurukul meet, Air-Gun Museum Palin — non-whitelist) — fragment ap_worker_jikketako.ts me.
+
+// ---- Kurung Kumey district batch (researched 2026-10-17) ----
+// ---- Tai Nikio (Nyapin ST, BJP) works batch (researched 2026-10-17) ----
+arunachalWorks['tai-nikio'] = [];
+// REJECT-LOG (tai-nikio, Nyapin): 1. ThePrint (PTI, 2025-01-11) 'Arunachal CM calls for bottom-to-top planning' — Sankalp Samaroh Sangram me CM Pema Khandu ne Nyapin-Sangram segment ke liye Rs 20.45 crore ki 5 yojanaon ki sanction ghoshit ki, aur Tai Nikio ke 9-point memorandum par 'positively consider' ka ashwasan diya. REJECT: sanction CM ki ghoshna hai; MLA ki vyaktigat bhoomika sirf memorandum (maang) — uska dastaveji nateeja nahi (RETRY lead: DIPR/whitelisted coverage jisme itemized sanction list aur memorandum se seedha link ho). 2. Arunachal Times (KOLORIANG, 11 Jan — PR reps oath-taking, Jan 2026) — ZPC Bake Yama ne support ke liye Tai Nikio ka naam liya; sirf maujoodgi/samarthan ullekh, koi kaam nahi. 3. archive.arunachaltimes.in (2024-06-26) 'State BJP observes Black Day' — party samaroh me upasthit; political event attendance. 4. arunachaltimes.in/article/state-assembly-passes-three-amendment-bills — Assembly question hour me PMGSY roads restoration par MLA ka quote/sawaal; sirf prashn, mantri-ashwasan ya nateeja nahi. 5. archive.arunachaltimes.in (2024-04-13) 'Battle between two former technocrats in Nyapin' — pre-term (Apr 2024, karyakaal Jun 2024 se) chunav coverage. 6. indiatodayne.in (2024-03-26) nomination filing — pre-term chunav story. 7. indiatodayne.in (2025-09-07) Pani Taram (Koloriang MLA) ne Mangdo bridge + Parsi Parlo police station ka lokarpan kiya — dusre neta (Koloriang seat) ka kaam; Tai Nikio se sambandh nahi. 8. archive.arunachaltimes.in (2022-11-22) NES member Tai Nikio ko Achiever Award — pre-term award, vikas-kaam nahi. 9. indiatodayne.in (2025-06-12) POCSO case me giraftar 'Tai Shiva' (APST Forum president) — NAAM-JAAL: Tai Shiva alag vyakti hain, Tai Nikio nahi. 10. Election result lists (TOI/news18/oneindia, Jun 2024) — sirf parinam, karyakaal ka kaam nahi. NEGATIVES: 0 — halafnama (2024) me 5 pending cases (SIC (VIG) Itanagar: FIR 17/2018, complaints 2018, SIC(Vig) PS C/NO. 02/2021, enquiry 2016; IPC 409/420/467/471/120B/506 + PC Act) sab pre-term hain; myneta status: charges framed 'No'. Jun 2024 ke baad in mamalon me ya kisi naye mamle me koi FIR, giraftari, chargesheet, dosh-siddhi ya adhikari-pusht janch whitelisted established media me nahi mili. Naam-jaal se bachne ke liye seat 'Nyapin (ST)' se pahchaan pakki ki gayi. RETRY-LEADS: (a) DIPR Arunachal / Arunachal Times me CM ki Rs 20.45 crore sanction list itemized mile to memorandum-credit entry possible; (b) MLALAD vitaran/work-order ki whitelisted report kabhi mile to add karein — is run me koi valid MLALAD report nahi mili.
+
+// ---- Pani Taram (Koloriang ST, BJP — 21st Koloriang AC, Kurung Kumey) works batch (researched 2026-10-17) ----
+// 5 entries (Jun 2024+ post-event reporting, whitelisted): Digi Kaksha Nikja lokarpan (Arunachal Times, Aug 2024),
+// Kurung Bridge reopening NHIDCL restoration (IndiaTodayNE, Aug 2024), Mangio-Mangdo bridge + Parsi Parlo police
+// station lokarpan (IndiaTodayNE, Sep 2025), NH-415 Package B Zero Hour CM-aashwasan (Arunachal Times, Mar 2025).
+// NEGATIVES: 0 — 2024 halafname ke 3 pending cases (2 SIC (VIG) Itanagar bhrashtachar mamle IPC 120B/420/409/506,
+// 1 Koloriang PS case 147/149/447/186/109) ka halafnama-disclosure akele negative nahi; Jun 2024 ke baad inme ya
+// kisi naye mamle me koi FIR, giraftari, chargesheet, dosh-siddhi ya naam-daar adhikari-pusht janch whitelisted
+// media me nahi mili. 2020 ki Arunachal Times crime-branch list pre-term hai; myneta.info sirf affidavit data hai.
+// (Naam-jaal check: Odisha ke Pradeep Panigrahi vigilance probe wali khabrein alag vyakti hain.)
+arunachalWorks['pani-taram'] = [
+  {
+    title: 'Pani Taram ne Nikja ke Government Secondary School me Digi Kaksha integrated learning centre ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2024/08/30/ghss-nikja-gets-integrated-learning-centre/',
+    date: '2024-08-28',
+    note: '28 Aug 2024 (Wednesday) ko Koloriang MLA Pani Taram ne Kurung Kumey zila ke Govt Secondary School Nikja me integrated learning centre (Digi Kaksha smart class, BALA model) ka vyaktigat roop se udghatan kiya. (DIPRO report). Project DC Vishakha Yadav ne spearhead kiya tha — zila-prashasan ki pilot initiative; pilot ko baad me doosre schools me replicate karne ki yojana. Cited report me fund source itemized nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Pani Taram ne NHIDCL dwara restore kiye gaye Kurung Bridge ko formal roop se dobara khol diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/video/arunachal-koloriang-mla-reopens-kurung-bridge-near-china-border-after-restoration-1081054-2024-08-28',
+    date: '2024-08-28',
+    note: '28 Aug 2024 ko Koloriang MLA Pani Taram ne Kurung nadi par Kurung Bridge ka formal reopening kiya. Pul 28-30 Jun 2024 ki baadh/barish me beh gaya tha; NHIDCL ne 58 din me restore kiya (state record). Restoration DC Vishakha Yadav ke netritva me hua, MLA aur DC ne nigrani ki; multi-agency kaam (NHIDCL, RWD, BRO, DDMO, zila prashasan). Restoration ka kharcha kendra agency NHIDCL ne vahan kiya — kendriya suvidha ka vyaktigat lokarpan, fund disclosed.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Pani Taram ne Mangdo gaon me Kumey nadi par Mangio-Mangdo bridge ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-mla-inaugurates-key-infrastructure-projects-near-indo-china-border-1274001-2025-09-07',
+    date: '2025-09-07',
+    note: '7 Sep 2025 (Sunday) ki subah Koloriang MLA aur PHED Advisor Pani Taram ne weeklong development tour ke dauraan 21st Koloriang AC me Kumey nadi par Mangio-Mangdo bridge (Mangdo gaon) ka vyaktigat roop se formal udghatan kiya; contractor, agencies aur villagers se baat-cheet. Cited report me fund source disclosed nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Pani Taram ne Parsi Parlo me naye police station ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-mla-inaugurates-key-infrastructure-projects-near-indo-china-border-1274001-2025-09-07',
+    date: '2025-09-07',
+    note: '7 Sep 2025 ko Koloriang MLA Pani Taram ne IGP (West Range & Crime) Takhe Ringu ki maujoodgi me Parsi Parlo police station ka vyaktigat roop se udghatan kiya — Kurung Kumey ke upper belt ke liye law-and-order/verification kaam ab sthaniya roop se honge. Cited report me fund source disclosed nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Pani Taram ne Assembly ke Zero Hour me NH-415 Package B (Papu Nallah-Jully) ki dheemi pragati ka mudda uthaya — CM ne executing agency ka contract terminate karne ka aashwasan diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/03/11/no-hope-yet-on-package-b-of-nh-415/',
+    date: '2025-03-11',
+    note: '10 Mar 2025 ko Assembly ke Zero Hour me Koloriang MLA Pani Taram ne Trans-Arunachal Highway/NH-415 Package B (11.306 km Papu Nallah-Jully trijunction, flyover samet) ki dheemi pragati ka mudda uthaya — contractor Woodhill Shivam deadline miss, contractor terminate karne ki maang. PWD-portfolio-holder CM Pema Khandu ne swayam nirasha jatayi aur aashwasan diya ki ve PWD adhikariyon se baithak karenge aur MoRTH ko Woodhill Shivam ka contract terminate karke nayi firm lane ke liye manane ki koshish karenge. Credit capped — mantri-aashwasan hi dastaveji nateeja hai, asal contract termination report me nahi.',
+    period: '2024-2029',
+    stage: 'ashwasan',
+  },
+];
+// REJECT-LOG (pani-taram, Koloriang): 1. 'Sans teachers, BJP MLA takes class' (newsarenaindia.com) — non-whitelist portal; aur sirf school nirikshan me padhai, koi nirmaan/lokarpan nahi. 2. Airlift of two injured girls to Naharlagun (IndiaTodayNE, 15 Apr 2025) — rahat/rescue kaam → reject. 3. CM Pema Khandu ka Dud-Dul Tharpa Ling Lhakang udghatan Jamiri (hornbillnews.in, Mar 2026) — Taram sirf attendee; plus non-whitelist. 4. CM ka Water Bill app launch (latestly.com) — Taram PHED Advisor ke roop me upasthit, mere maujoodgi. 5. Nikja smart classroom coverage (arunachalobserver.com, itanagartimes.com) — same event ki non-whitelist coverage; whitelist Arunachal Times istemal ki. 6. Kurung Bridge-Parsi Parlo road 'mission mode' me pursue karne ka ashwasan (IndiaTodayNE, Sep 2025) — sirf ghoshna, reject. 7. Vibrant Village Programme me Koloriang ko Rs 600 crore ka dawa (newsarenaindia) — non-whitelist + sirf interview-dawa/ghoshna. 8. Election result pages (TOI/NDTV) — koi kaam nahi. 9. BJP candidate welcome rally Koloriang (IndiaTodayNE, Mar 2024) — pre-term chunavi. 10. Governor BD Mishra ka Kurung Kumey visit (Eastern Sentinel, 2018) — pre-term + dusre ka karyakram. 11. Ministers team ka Joram-Koloriang 2-lane flag-off (Northeast Now) — Bamang Felix/Taba Tedir ka karyakram, Taram ka zikr nahi + purana. 12. SIC (VIG) cases: 2020 crime-branch list (Arunachal Times archive) pre-term; myneta.info 2024 sirf affidavit — halafnama-disclosure akele negative nahi; Jun 2024+ me koi nayi FIR/giraftari/chargesheet/dosh-siddhi/adhikari-pusht janch nahi mili → negative entry nahi bani.
+// RETRY-LEADS (parent ke liye): A. Digi Kaksha Nikja (Aug 2024) ka itemized fund source — DIPRO/DIPR release ya whitelisted me district initiative ka fund breakup check karein; milne par entry-1 ka note update hoga. B. NH-415 Package B contractor termination ka asal status (May 2026 deadline ke baad) — aashwasan par kya hua, whitelisted me post-May-2026 status check karein.
+
+// ---- Kurung Kumey district batch END (5 entries, negatives 0) ----
