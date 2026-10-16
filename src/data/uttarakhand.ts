@@ -16,8 +16,9 @@
 // Dhan Singh Rawat, Ganesh Joshi, Rekha Arya, Saurabh Bahuguna, Madan Kaushik, Khajan Dass,
 // Bharat Singh Chaudhary, Pradeep Batra, Ram Singh Kaira. Premchand Aggarwal ne Mar 2025 me mantri
 // pad se isteefa diya; Chandan Ram Das (Bageshwar) ka Apr 2023 me nidhan.
-// MLA nidhi: "Vidhayak Nidhi" — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se
-// CM dwara manzoor; isse pehle Rs 3.75 crore; ukrdd.uk.gov.in + swarajyamag, May 2025).
+// MLA nidhi: "Vidhayak Nidhi" — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 cabinet faisla,
+// FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore; asal aavantan jila aankdon me ~Rs 4.90 crore/seat/saal;
+// ukrdd.uk.gov.in + Amar Ujala Oct 2026 Kotdwar fund-report se verify).
 // Background data = ECI affidavit via myneta.info/uttarakhand2022 (lowercase folder; verified 2026-10-17) —
 // 70/70 records mile (1 me umr pending — backgroundNote me darj; 2 me live-page caveat darj).
 // Saara user-facing text Roman-script Hinglish me hai (koi Devanagari ya ₹ nahi — "Rs" likha gaya hai).
@@ -40,7 +41,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '36',
@@ -69,7 +70,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '51',
@@ -98,7 +99,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '54',
@@ -127,7 +128,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '47',
@@ -156,7 +157,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '63',
@@ -185,7 +186,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '63',
@@ -214,7 +215,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '55',
@@ -243,7 +244,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '62',
@@ -272,7 +273,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '55',
@@ -301,7 +302,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '40',
@@ -330,7 +331,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '61',
@@ -359,7 +360,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '54',
@@ -388,7 +389,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '64',
@@ -417,7 +418,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '56',
@@ -446,7 +447,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '63',
@@ -475,7 +476,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '61',
@@ -504,7 +505,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '56',
@@ -533,7 +534,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '60',
@@ -562,7 +563,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '67',
@@ -591,7 +592,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '63',
@@ -620,7 +621,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '66',
@@ -649,7 +650,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '64',
@@ -678,7 +679,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '59',
@@ -707,7 +708,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '61',
@@ -736,7 +737,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '57',
@@ -765,7 +766,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '53',
@@ -794,7 +795,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '38',
@@ -823,7 +824,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '48',
@@ -852,7 +853,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '39',
@@ -881,7 +882,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '53',
@@ -910,7 +911,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '53',
@@ -939,7 +940,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '44',
@@ -968,7 +969,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '49',
@@ -997,7 +998,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '54',
@@ -1026,7 +1027,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '38',
@@ -1055,7 +1056,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '52',
@@ -1084,7 +1085,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '51',
@@ -1113,7 +1114,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '52',
@@ -1142,7 +1143,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '70',
@@ -1171,7 +1172,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '54',
@@ -1200,7 +1201,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '56',
@@ -1229,7 +1230,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '46',
@@ -1258,7 +1259,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '71',
@@ -1287,7 +1288,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '66',
@@ -1316,7 +1317,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '59',
@@ -1345,7 +1346,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '38',
@@ -1374,7 +1375,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '57',
@@ -1403,7 +1404,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '59',
@@ -1432,7 +1433,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '55',
@@ -1461,7 +1462,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '50',
@@ -1490,7 +1491,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '43',
@@ -1519,7 +1520,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '51',
@@ -1548,7 +1549,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '68',
@@ -1577,7 +1578,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '55',
@@ -1606,7 +1607,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '46',
@@ -1635,7 +1636,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '53',
@@ -1664,7 +1665,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '48',
@@ -1693,7 +1694,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '61',
@@ -1722,7 +1723,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '43',
@@ -1751,7 +1752,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '70',
@@ -1780,7 +1781,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '67',
@@ -1809,7 +1810,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '54',
@@ -1838,7 +1839,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: 'BACKGROUND_PENDING',
@@ -1867,7 +1868,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '70',
@@ -1896,7 +1897,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '50',
@@ -1925,7 +1926,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '51',
@@ -1954,7 +1955,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '64',
@@ -1983,7 +1984,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '43',
@@ -2012,7 +2013,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '72',
@@ -2041,7 +2042,7 @@ export const uttarakhandNetas: Neta[] = [
     fund: {
       scheme: 'MLALADS',
       allocated: null, utilized: null, utilizationPct: null,
-      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (FY 2025-26 se CM dwara manzoor; isse pehle Rs 3.75 crore). Neta-war kharch ka record online uplabdh nahi hai.',
+      note: 'Uttarakhand me vidhayak nidhi "Vidhayak Nidhi" ke naam se hai — Rs 5 crore prati vidhan sabha kshetra prati saal (Feb 2023 ke cabinet faisle se, FY 2023-24 se laagu; FY 2022-23 me Rs 3.75 crore thi; jila-star ke asal aavantan aankdon me prati seat lagbhag Rs 4.90 crore/saal darj hai). Neta-war kharch ka record online uplabdh nahi hai.',
     },
     background: {
       age: '40',
