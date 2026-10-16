@@ -530,6 +530,60 @@ odishaWorks['nabin-kumar-jain'] = [
 
 // ---- Nuapada district batch ----
 
+odishaWorks['jay-dholakia'] = [];
+
+odishaWorks['adhiraj-mohan-panigrahi'] = [
+  {
+    title: 'BJP karyakarta Jitu Adabanga par maarpeet-dhamki ke aarop: Komna farmhouse mamle me MLA Adhiraj Panigrahi ke khilaf FIR',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Odisha TV',
+    sourceUrl: 'https://odishatv.in/odisha/police-complaint-filed-against-bjd-leader-bobby-das-mla-adhiraj-panigrahi-in-nuapada-assault-case-10611679',
+    date: '2025-11-01',
+    note: 'Odisha TV (1 Nov 2025) ki report ke mutabik Komna police station me Khariar MLA Adhiraj Panigrahi aur BJD ke Pranab Prakash Das (Bobby Das) ke khilaf BNS ki dharaon 126(2), 296, 115(2), 351(2) aur 3(5) ke tehat case darj hua; BJP karyakarta Jitu Adabanga ne shikayat me aarop lagaya ki 31 October 2025 ki shaam Komna me BJD neta Manoj Mishra ke farmhouse par bulakar unhe pakadkar peeta gaya, gaaliyan di gayin aur BJP se judne par unhe aur unke parivar ko jaan se maarne ki dhamki di gayi — unka dawa hai ki Komna police ke waqt par pahunchne se unki jaan bachi. Police ne preliminary probe shuru ki aur jaanch jaari rehne ki baat kahi (Orissa POST ne bhi FIR aur jaanch ki pushti ki); khabar ke samay tak giraphtari ya chargesheet ki khabar nahi mili thi. Report me Panigrahi ki taraf se koi jawab nahi aaya tha (anupasthiti darj), jabki BJD pravakta Lenin Mohanty ne aaropon ko jhootha, banawati aur siyasi roop se prerit bataya. Shrey-spashtikaran: ye Panigrahi ke kiye gaye kisi kaam ka dawa NAHI, balki unke khilaf darj FIR ki negative reporting hai; Nuapada by-election ke mahaul me BJP netaon ne CEO se karyavahi ki maang bhi ki thi.',
+    period: '2024-2029',
+  },
+];
+
+// ---- Nuapada district REJECT-LOGS (researched 2026-10-16) ----
+// (Dholakia profile imaandari se khaali — upar array defined; neeche sirf REJECT-LOG)
+
+// REJECT-LOG (jay-dholakia — Nuapada, BJP, Nov 2025 upchunav me jeete; karyakaal Nov 2025–2029):
+// 1. The Week/PTI (11 Oct 2025): Jay Dholakia BJP me shamil — pre-election party-switch khabar, kshetra-kaam nahi, REJECT.
+// 2. Sambad English (Oct 2025): BJP ne Jay Dholakia ko upchunav candidate ghoshit kiya — candidature announcement, pre-event/pre-election, REJECT.
+// 3. TOI/HT/The Hindu (14 Nov 2025): upchunav me 83,748 votes se jeet (1,23,869 votes, 58.27%) — chunav-natija khabar, kaam nahi, REJECT.
+// 4. TNIE/Orissa POST/Kalinga TV/Pragativadi (20–21 Nov 2025): vidhayak ke roop me oath — ceremonial, kaam nahi, REJECT.
+// 5. TNIE (16 Nov 2025): CM Majhi ka abhinandan-samaroh me Rs 1,421 crore projects ka zikr — CM ki ghoshna bina GO ke; Jay sirf maujood, dusre neta ke karyakram me maujoodgi, REJECT.
+// 6. OTV (Nov 2025): CM ne kaha Jay "vikas ke sarathi" banenge + Khariar Road municipality/NAC upgrade — CM ke campaign-period dawe, bina GO ke ghoshna; Jay ki bhumika maujoodgi matra, REJECT.
+// 7. Telegraph India (16 Nov 2025): jeet ka vishleshan — commentary/analysis, kaam nahi, REJECT.
+// 8. TNIE (16 Nov 2025): "development task cut out" — DHH me doctor ki kami, palayan, patta backlog jaise mudde ginaaye; media ka issue-analysis, na swikriti na kaam, REJECT.
+// 9. OTV (Nov 2025): Jay ka Naveen Patnaik par palatwar "BJD betrayed us" — campaign-time rajnaitik bayan, kaam nahi, REJECT.
+// 10. Newsdrum/PTI (2 Nov 2025): "BJD ne pita ki bimari me saath nahi diya" — pre-election aarop, kaam nahi, REJECT.
+// 11. PrameyaNews (21 Oct 2025): BJD ki MCC complaint (Gond + Jay Dholakia ke khilaf) — non-whitelist srot + pre-election complaint, outcome ki koi established reporting nahi; bina-pusht-jaanch complaint negative nahi, REJECT.
+// 12. PrameyaNews/Outlook (Oct–Nov 2025): "horse trading" aarop, Kalpana Dholakia ka video — pre-election rajnaitik aarop-pratyaarop, non-whitelist (Prameya), kaam nahi, REJECT.
+// 13. YouTube/OTV clip (~Aug 2026): "I Never Betrayed BJD" — video-clip bayan, readable post-event article nahi; rajnaitik bayan, kaam nahi, REJECT.
+// 14. Pita Rajendra Dholakia (BJD, 2019–2025 MLA) ke karyakaal ke saare kaam — parivar-shrey niyam se Jay par NAHI jode; unhe jodne ki galti se bachne ke liye explicitly excluded, REJECT.
+// 15. Negative check: halafnama ki jaanch allowed scope se bahar; Nov 2025 ke baad allowed established media me Jay Dholakia ke khilaf FIR/case/adhikarik jaanch ki koi reporting nahi mili — koi negative entry nahi.
+// 16. RETRY LEADS: 2026 ke dauran MLA ke roop me unke kisi lokarpan/shilanyas/swikriti ki post-event coverage whitelist sources par nahi mili; agle pass me (a) OTV/Orissa POST site search "Jay Dholakia" + Nuapada, (b) Odisha Assembly session records me unke sawal (sarkari srot), try kiye ja sakte hain.
+
+// IMAANDARI STATEMENT: Jay Dholakia Nov 2025 upchunav me jeete (pita Rajendra Dholakia ke nidhan ke baad) aur 20 Nov 2025 ko oath liya — bahut naye MLA hain. Unke karyakaal ke kisi kshetra-kaam ki whitelist-anukool post-event reporting (sarkari/news/dawa me se koi bhi) Oct 2026 tak nahi mili, isliye odishaWorks['jay-dholakia'] imaandari se khaali hai; pita ke kaam jodne se sakhti se parhez kiya gaya.
+// REJECT-LOG (adhiraj-mohan-panigrahi — Khariar, BJD, karyakaal Jun 2024–2029):
+// 1. eodishasamachar/odisharay (25 Jan 2025): Khariar Autonomous College me PM-USHA Rs 5 crore project ka shilanyas Higher Education Minister Suryabanshi Suraj ne rakha; Panigrahi "were also present" me maujood — dusre neta (mantri) ke karyakram me sirf maujoodgi, REJECT.
+// 2. TNIE/OTV/Orissa POST/The Hindu (Mar 2024): INC se isteefa + BJD me shamil hona — pre-term siyasi khabar, koi vikas-kaam nahi, REJECT.
+// 3. Orissa POST (Lower Indra oustees meeting, 2018): Collector ki adhyakshata me muaawza/punarvaas baithak me Panigrahi ki maujoodgi — sirf baithak/nirikshan, koi stage nahi + pre-term, REJECT.
+// 4. Kalinga TV/whitelist press (6 Oct 2025): CM Majhi ne Nuapada me Rs 1100 crore ke projects ka inauguration/shilanyas kiya (Khariar Road municipality, Komna/Sinapali NAC) — CM ka kaam, Panigrahi actor nahi, REJECT.
+// 5. TNIE (7 Aug 2024): H&UD Minister ne Nuapada NAC me 46 projects (Rs 5.12 crore) inaugurate kiye — minister ka kaam, MLA ki sirf maujoodgi/shrey nahi, REJECT.
+// 6. OTV/TOI (Oct-Nov 2025): Nuapada by-election me BJD-BJP prachar aur "Baijayant Panda rallies support" coverage — chunav-prachar, vikas-kaam nahi, REJECT.
+// 7. ommcomnews (Oct 2025): H&UD Minister ka "24/7 drinking water for Nuapada NACs" ka ashvasan — minister ka vaada, MLA ka apna kaam nahi, "karenge" khabar, REJECT.
+// 8. Halafname ke 9 cases (IPC 143/283/149, virodh/sadak-naakabandi, dosh-siddhi shunya) — pre-term, bina dosh-siddhi ke virodh-mamle negative nahi; Jun 2024 ke baad inme koi nayi giraftari/jaanch ki established reporting nahi mili — negative nahi banta.
+// 9. NDTV/OneIndia candidate profile pages: 2024 result/age/assets background data — kaam nahi, REJECT.
+// 10. Kanak News YouTube "One-2-One" interview (Apr 2024, pre-chunav): interview baatcheet — post-event reporting nahi, pre-term, REJECT.
+// 11. aroundodisha PDF digest (17 Jan 2026): PM-USHA shilanyas ka dohra zikr — #1 jaisa hi reject, koi naya kaam nahi, REJECT.
+// 12. RETRY LEADS: (A) MLALADS portal (mlalads.odisha.gov.in) is network se nahi khulta — Panigrahi ke MLALADS swikriti orders ka record yahin sabse sambhavit hai; (B) Sambad English / Dharitri English / Pragativadi English (Odia media ke English edition) me "Khariar MLA" + "inaugurated/laid foundation" par Odia-jila-stariy post-event stories ka ek aur pass; (C) OTV ke Nuapada/Khariar tag archives par 2024–2026 ke lokarpan/shilanyas item ki scan.
+
+// QA: 12 search rounds; positive vikas-kaam ki whitelist par koi post-event reporting nahi mili — whitelist English media me Panigrahi ki coverage 2024–2026 me lagbhag poori tarah chunav/prachar ya upar ki negative reporting tak seemit hai. 1 negative entry (assault FIR, Oct-Nov 2025) rakhi gayi — FIR + police probe + MLA ki anupasthiti disclosed + BJD pravakta ka jawab darj. Entries: 1 (negative), rejects: 11 + 1 retry lead.
+
+
 // ---- Nabarangpur district batch ----
 
 // ---- Kalahandi district batch ----
