@@ -163,3 +163,86 @@ uttarakhandWorks['durgeshwar-lal'] = [
 // 2. Akashvani (newsonair.gov.in) entry parent ne khud kholi: "vyaktigat shilanyas" pusht; date page par nahi — tasveer upload path (Feb 2024) + photo-code ke aadhaar par 2024-02-01 anumanit, note me disclosed.
 // 3. Durgeshwar MGNREGA negative rakha gaya: TOI national + Amar Ujala corroboration; naam-daar BDO ne janch ki pushti ki; MLA ka jawab record par; Odisha-calibrated rule (pusht janch, naamdar adhikari, jawab) ke tahat FIR-na-hone par bhi valid — Sanjay Sangma-drop precedent (chargesheet par HC stay + jawab anupalabdh) se alag hai, kyunki yahan jawab hai aur janch sakriya hai.
 // 4. Garh Ambedkar road entry ki rashi (Rs 4.68 lakh) worker-report se aayi; independent verify nahi hui — note me caveat darj, entry rakhi (kaam poora + vyaktigat lokarpan pusht class hai).
+
+// ---- Chamoli district batch (researched 2026-10-17) ----
+
+uttarakhandWorks['bhupal-ram-tamta'] = [
+  {
+    title: 'Tharali-Deval-Wan marg par Rs 28.94 crore, Gwaldam-Nandkesari 18 km stent highway par Rs 15.07 crore aur Nandprayag-Nandanagar-Sutol-Kanol (km 27 se 40) par Rs 12.90 crore — teeno sadkon ke damarikaran/sudharikaran ke liye kul Rs 56.80 crore ki financial approval mili.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/uttarakhand/chamoli-56-crore-80-lakh-rupees-approved-for-three-motor-roads-in-tharali-assembly-constituency-24064931.html',
+    date: '2025-09-29',
+    note: 'Dainik Jagran (Chamoli samvadata) ki post-event report ke mutabiq rajya sarkar ne teeno sadkon ke liye financial approval di — itemized sanction: Tharali-Deval-Wan (hot mix, satah sudhar, sudharikaran) Rs 28.94 crore; Gwaldam-Nandkesari 18 km stent highway (damarikaran, sudharikaran) Rs 15.07 crore; Nandprayag-Nandanagar-Sutol-Kanol km 27-40 (sudharikaran, damarikaran) Rs 12.90 crore. Ye Nanda Devi Rajjat (2027) yatra ke mukhya marg hain. Credit capped: Jagran report me swikriti ka shrey kshetriya Vidhayak Bhupal Ram Tamta ke prayason ko diya gaya hai — ye reporter ki framing hai, MLA ke apne dastavezi prastav ka ullekh report me nahi hai; kaam sarkari fund se hai, Vidhayak Nidhi se nahi. Date: article ki publish-taareekh se li gayi.',
+    period: '2022-2027',
+    stage: 'swikriti',
+  },
+];
+// REJECT-LOG (bhupal-ram-tamta, Tharali SC):
+// 1. devbhoomiheadlinesnews.com — Parkhal Mrityunjay Mahadev mandir beautification shilanyas (CM ghoshna, Rs 99.95 lakh, May 2026) — non-whitelist chhota portal; mandir sambandhit entry par whitelist mandatory.
+// 2. uttarakhandhimalaya.in — PWD Tharali bhawan shilanyas "20 ko karenge" (Oct 2022) — non-whitelist + pre-event announcement.
+// 3. ETV Bharat (23 Sep 2026) — Tharali-Dungri road Rs 9.73 crore, MLA bhoomi-poojan me maujood — non-whitelist.
+// 4. ETV Bharat (16 Dec 2025) — Kulsari motor-bridge shilanyas par "high voltage drama" — non-whitelist + MLA program me pahunche hi nahi.
+// 5. ETV Bharat (27 Jan 2024) — Lulti-Malbazwar road shilanyas (MP Tirath Singh Rawat ne kiya, MLA present) — non-whitelist + dusre neta ke karyakram me maujoodgi.
+// 6. ETV Bharat (16 Dec 2024) — Devrada ward bahishkar; MLA ne CM se varta ka aashvasan diya — non-whitelist + sirf aashvasan, koi dastaveji nateeja nahi.
+// 7. ETV Bharat (8 Mar 2024) — Dewal Kauthig mela udghatan + Rs 1.5 lakh ghoshna — non-whitelist + samaroh-maujoodgi + sirf ghoshna.
+// 8. YouTube/Nanda News — Holi Milan 2026 me MLA ka dawa: 47 nayi sadkein, 14 motor pul, Rs 150 crore — YouTube-only + sirf ghoshna/dawa, koi swikriti-suchi nahi.
+// 9. YouTube — Congress neta Sandeep Patwal ka palatwar — YouTube-only + raajnaitik aarop, koi FIR/janch nahi.
+// 10. uttarakhandsamachar.com — Vidhayak Nidhi se mandir beautification ki ghoshna (2022) — non-whitelist + sirf grant-ghoshna.
+// 11. Amar Ujala (25 Sep 2026) — Simli mahila base hospital me World Pharmacist Day speech — sirf samaroh me bhashan.
+// 12. Amar Ujala (9 Oct 2026) — panchayat janpratinidhi samvad ka shubharambh — sirf samaroh udghatan.
+// 13. Amar Ujala (25 Jan 2025) — panchayat chunav me Tharali ki teeno seat BJP haari — election politics, negative ke liye koi FIR/janch nahi.
+// 14. garhwalpost.in — CM ke lokarpan-shilanyas karyakram (MLA maujood) — non-whitelist + CM ke karyakram me maujoodgi.
+// 15. garhwalpost.in — MLA ke bete Jai Prakash Tamta ki rebel story (Jan 2025) — non-whitelist + parivar ka mamla.
+// 16. newsable.asianetnews.com — CM se Bugyal vishay par MLA ki mulakat — syndicated, koi concrete kaam nahi.
+// NEGATIVES (Tamta): FIR/mukadma wala koi whitelist lead nahi mila.
+
+uttarakhandWorks['lakhpat-singh-butola'] = [];
+// REJECT-LOG (lakhpat-singh-butola, Badrinath; Jul 2024 by-election se MLA; INC):
+// 1. Upchunav jeet (13 Jul 2024) — Indian Express/aadi — chunav parinaam kaam nahi; seat pehle Rajendra Bhandari ke paas thi.
+// 2. Badha vetan 6 mahine daan (Sep 2024, Chamoli aapda) — New Indian Express — daan/rahat par shrey nahi.
+// 3. Vidhan Sabha me kagaz faadna (Feb 2025, Mantri Aggarwal ki pahadi tippani ke virodh) — ETV Bharat — non-whitelist + virodh-pradarshan kaam nahi.
+// 4. Char Dham Yatra maange (Apr 2025) — Garhwal Post — non-whitelist + sirf maang, koi dastaveji nateeja nahi.
+// 5. Mandir dan-chori par HC janch ki maang (Jul 2025) — Garhwal Post — non-whitelist + sirf maang; negative ke liye Butola khud aaropi nahi.
+// 6. Chamoli CM karyakram me maujoodgi (Jul 2026) — India TV/aadi — CM ke 63 pariyojnaon ka shilanyas/lokarpan, Butola sirf stage par maujood.
+// 7. Badrinath Dham kapat-khulan samaroh me maujoodgi (Apr 2025) — TOI — dhaarmik samaroh me maujoodgi.
+// 8. Putla dahan virodh (Feb 2025) — Nitya Samachar UK — non-whitelist + raajnaitik virodh, koi FIR/janch nahi.
+// 9. NAMESAKE TRAP: newsdrum 'From Bhasha' me Devprayag thana prabhari ka naam 'Lakhpat Singh Butola' — ye police adhikari hai, MLA nahi; records merge nahi kiye.
+// NEGATIVES (Butola): koi yogya negative nahi — Butola khud kisi FIR/janch me aaropi ke roop me reported nahi hue.
+
+uttarakhandWorks['anil-nautiyal'] = [
+  {
+    title: 'MLA Anil Nautiyal ki pahal par CM ne Gauchar PHC ke uchchikaran ki ghoshna ki; swasthya mahanideshak ne uchchikaran ka prastav swikriti hetu shasan ko bhej diya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/chamoli/proposal-for-upgradation-of-phc-gauchar-sent-to-the-government-karnpryag-news-c-48-1-kpg1002-116053-2025-07-02',
+    date: '2025-07-02',
+    note: 'Credit capped: Amar Ujala ki 2 Jul 2025 ki report ke mutabiq CM Pushkar Singh Dhami ne 2023 me aur phir Nov 2024 me Gauchar mele ke shubharambh par Gauchar swasthya kendra ke uchchikaran ki ghoshna ki, jiska aadhar MLA Anil Nautiyal ki pahal bataya gaya. DG Health ne uchchikaran ka prastav swikriti hetu shasan ko bhej diya; CMO Chamoli se pad-srijan ka prastav bhi mil gaya. Palika adhyaksh Sandeep Negi ne bhi is maang ko lekar swasthya sachiv se mulakat ki thi — shrey shared. July 2025 tak swikriti lambit thi; ye prastav-charan ki pahal entry hai, poora-kaam nahi.',
+    period: '2022-2027',
+    stage: 'prastav-shasan-me-lambit',
+  },
+  {
+    title: 'Vidhayak Anil Nautiyal ne 2022 se ab tak Vidhayak Nidhi se Rs 22.08 crore ke karyon ki swikriti di; nidhi ka lagbhag 25 pratishat hissa schoolon par',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/dehradun/karnaprayag-mla-anil-nautiyal-sanctions-22-08-crore-works-roads-and-health-remain-concerns-uttarakhand-news-2026-10-06',
+    date: '2026-10-06',
+    note: 'Aggregate (varsh-vaar) reporting hai, item-by-item sanction-suchi nahi — poori disclosure ke saath shamil. Report anusaar kul aavanti Rs 23.28 crore, kul swikriti Rs 22.08 crore: 2022-23 me 3.68/3.68, 2023-24 me 4.90/4.90, 2024-25 me 4.90/4.89, 2025-26 me 4.90/4.69, 2026-27 me 4.90/3.92 crore. Nidhi ka ~25% hissa schoolon (jarjar school marammat, furniture, computer, khel-fitness upkaran) par; shesh mahila mangal dalon, margon, mandir saundaryikaran, khel maidanon par. Pehle do varshon ke ~90% aur baad ke varshon ke ~80% karya poore; chalu varsh me ~25% yojnaon me dhanrashi jaari. Gaon ke raston aur swasthya sevaon par kharch ko lekar kshetravasiyon ki aalochna bhi report me darj hai. FUND CAVEAT: report ke aavanti aankde (2023-24 se 4.90cr/saal) foundation ke standing rule (FY 2025-26 se 5cr, usse pehle 3.75cr) se match nahi karte — ye discrepancy parent-level par resolve honi hai.',
+    period: '2022-2027',
+    stage: 'swikriti',
+  },
+];
+// REJECT-LOG (anil-nautiyal, Karnaprayag):
+// 1. Devradi Mela 2026 (20 Sep 2026) — mandir saundaryikaran shilanyas (CM ghoshna fund) — sirf uttarakhand-update.com/indiatodayheadlines (non-whitelisted).
+// 2. Ganga Public School Mehalchauri (29 Mar 2026) — Rs 5 lakh Vidhayak Nidhi sabha-kaksh lokarpan + furniture ghoshna — sirf uttarakhand-update.com; furniture wali baat ghoshna thi.
+// 3. Karnaprayag swasthya shivir (1585 mareez) — parvatjan.com/uttarakhandkinews (non-whitelisted); MLA ka kaam nahi (hospital ka shivir).
+// 4. Maithan/rajya sthapana mela ghoshnaen (livehindustan, 12 Nov 2025) — mele ko Rs 2 lakh + schoolon ko Rs 10-10 lakh — sirf ghoshna.
+// 5. CM Dhami ke Chamoli/Bharadisain shilanyas-lokarpan (Nov 2025) — MLA sirf maujood.
+// 6. Gauchar Mela 2024 (etvbharat) — CM ka aabhar vyakt kiya — non-whitelist + CM ke kaam par dhanyavad.
+// 7. Kalimath-Kotma, Jal-Chaumasi sadak (Jagran, 16 Oct 2026, Rs 3.75cr) — YE KEDARNATH ki MLA Asha Nautiyal ka karya hai, Anil Nautiyal ka nahi (pehchan mismatch — reject me pakda gaya).
+// 8. webindia123 (14 Sep 2025) — CM se courtesy visit + maangen — sirf maang/aashwasan, koi dastaveji nateeja nahi.
+// 9. Simli base-hospital padayatra (uttarakhand-update.com, 12 Oct 2026) — non-whitelist; aashvasan poora nahi hua.
+// NEGATIVES (Nautiyal): established media me koi FIR/janch wala lead nahi mila.
