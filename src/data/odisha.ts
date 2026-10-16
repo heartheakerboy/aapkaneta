@@ -3956,7 +3956,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Odisha2024/candidate.php?candidate_id=3',
       backgroundNote: 'Dasarathi Gomanga Indian National Congress ke MLA hain, Mohana se 2024 me jeete. Halafname me 1 aapradhik mamla darj hai - GR 161/2004, JMFC R. Udayagiri; IPC 279, 337, 304A me 27 Oct 2016 ko saza hui thi, appeal me Sessions Judge ne 304A me 1 saal ki saza barkarar rakhi, aur Odisha High Court ne 19 Feb 2019 ko conviction par stay de diya. (MyNeta par naam \'Dasarathi Gomanga\' likha hai.)',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Mohana se jeete: 62117 votes. Runner-up Prasanta Kumar Mallik (BJP) 58058 votes. Margin 4059.',
+    electionNote: '2024 Vidhan Sabha chunav me Mohana se jeete: 62117 votes. Runner-up Prasanta Kumar Mallik (BJP) 58058 votes. Margin 4059. 17 Mar 2026 ko Congress ne Rajya Sabha chunav me cross-voting (BJP-samarthit nirdaliya Dilip Ray ko vote) ke aarop par Dasarathi Gomanga ko Sofia Firdous aur Ramesh Chandra Jena ke saath party se nilambit kiya; Speaker ne Jun 2026 me ayogyata-yachika kharij kar di — ve MLA pad par bane hue hain. Party record Congress hi hai (nilamban party ki aantarik karwai hai).',
   },
   {
     slug: 'rupesh-kumar-panigrahi',

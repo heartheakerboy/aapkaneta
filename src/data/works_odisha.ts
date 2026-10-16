@@ -1566,6 +1566,14 @@ odishaWorks['gokula-nanda-mallik'] = [];
 
 // ---- Gajapati district batch ----
 
+odishaWorks['dasarathi-gomango'] = [];
+odishaWorks['rupesh-kumar-panigrahi'] = [];
+
+// REJECT-LOG (Gajapati district, researched 2026-10-16 — 2/2 profile imaandari se khaali, 0 negatives):
+// - Dasarathi Gomanga (Mohana ST, INC): 0 PASS. 14 khoj-prayas. Rejects: TNIE Swain-event maujoodgi (dusre neta ka karyakram); Kalinga TV 2019 welfare projects (pre-term); dumanimail Manikapatna visit (nirikshan+assurance, non-whitelist); odishabarta Mohana CHC 2021 (pre-term); yugabda press-meet/fisheries-office (political bayan/block nakamyabi, non-whitelist); myneta purana 2004 case (karyakaal me nayi karyavahi nahi — negative nahi); Mar 2026 party-nilamban (party-nilamban negative nahi hota — disclosure odisha.ts me); Chief Whip disqualification petition (anti-defection nahi); show-cause incommunicado (koi FIR nahi); Orissa POST NH-326 (kendra-cabinet, MLA-link nahi); Kalinga tag crime khabren (MLA-kaam nahi); latestly ANI Apr 2024 (pre-term prachar); PPMS ordersheets Dec 2025 (MLA ka ullekh nahi). Retry: Sambad English archive Mohana/Gamango keyword; Manikapatna visit ka English text-page (odishatv.in).
+// - Rupesh Kumar Panigrahi (Paralakhemundi, BJD vipaksh): 0 PASS. 16 khoj-prayas. Rejects: Deccan Chronicle oxygen plant repair (~Rs 5 lakh apne paise se, Jan 2026 era) — STRONG LEAD lekin non-whitelisted (RETRY: whitelisted coverage mile to entry); yugabda village visits/smart-classroom/Naveen Nivas (nirikshan/ceremonial/political, non-whitelist); TNIE MP Panigrahy ring-road (dusra neta + maang); anmnews/Sambad English Southern Odisha task-force (member hona kaam nahi); odishabarta Ayurvedic college sawal (prastav, non-whitelist); OTV election previews (pre-term); TOI railway rename (MP ki request); aroundodisha cricket league (maujoodgi); Statesman vigilance story = Pradeep Panigrahi (galat vyakti, 2021 pre-term); Oneindia criminal-cases list me 0 cases; hansindia Malaysia youth (MLA shikayat-paksh); yugabda pesticide/vigilance maang (nirikshan); Kalinga candidate lists (pre-term); MLA ki khud ki site (dawa-only). Negative: nahi.
+
+
 // ---- Rayagada district batch ----
 
 // ---- Koraput district batch ----
