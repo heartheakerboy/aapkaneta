@@ -2129,7 +2129,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=24',
       backgroundNote: 'Nityananda Gond Umerkote se BJP ke MLA hain. Umar 46 saal, shiksha: M.A. in History from Berhampur University, 2000 aur LLB from Jeypore Law College, 2003. Halafname me 4 aapradhik mamle hain, sabhi sadak-naakabandi wale virodh-pradarshan se jude; kisi me dosh-siddhi nahi hui. Note: den-daari ka aankda page se liya gaya hai (page par Rs 8,14,765.39, index me Rs 7,71,355).',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Umerkote se jeete: 70,170 votes. Runner-up Nabina Nayak (BJD) 59,797 votes. Margin 10,373.',
+    electionNote: '2024 Vidhan Sabha chunav me Umerkote se jeete: 70,170 votes. Runner-up Nabina Nayak (BJD) 59,797 votes. Margin 10,373. 12 Jun 2024 ko mantri-shapath, 15 Jun 2024 ki Raj Bhavan portfolio-allotment (PTI) ke anusar Cabinet Minister hain — School & Mass Education, ST & SC Development, Minorities & Backward Classes Welfare, Social Security & Empowerment of Persons with Disabilities. Mantri-roop ke vibhagiya/rajya-vyapi faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'narsing-bhatra',
