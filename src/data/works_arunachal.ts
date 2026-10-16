@@ -493,3 +493,66 @@ arunachalWorks['rode-bui'] = [
 ];
 // REJECT-LOG (rode-bui, Dumporijo): 1. 'Bui takes stock of CSS in Dumporijo' (Arunachal Times, Nov 2024, khola-padha) — sirf CSS nirikshan/review. 2. Menga hydro project coordination meeting (Arunachal Times, Oct 2025) — NHPC pariyojna par advocacy; vyaktigat lokarpan nahi. 3. 'Bui meets Rijiju' Mebigeko-Gerukhamukh road maang (Arunachal Times, Aug 2024) — sirf maang. 4. 'Bui meets NHPC dir' SUHEP (Arunachal Times, Sep 2024) — sirf maang/prastav. 5. 'MLAs inaugurate Doyom Ao Lwwnv' (Arunachal Times, Nov 2022) — pre-term + samaroh. 6. MLA donates Bolero pickup to electrical division (Arunachal Times, khola-padha) — daan. 7. 'Defunct school to reopen soon' (Arunachal Times, khola-padha) — samudaayik revival, sirf bayan. 8. Para Games kits launch (Arunachal Times, Oct 2024) — sports samaroh. 9. Dree festival (Arunachal Times, 2026) — mukhya-atithi. 10. Yoga Day programme (VKV Kuporijo, Jun 2026) — samaroh. 11. BJP membership abhiyan badhai (arunachal24, Oct 2024) — party activity. 12. SEOC foundation stone, Itanagar (nenews, May 2026) — CM ka karyakram. 13. TCS Secretariat Heritage Centre lokarpan, Daporijo (Akashvani, Oct 2025) — Dy CM ka karyakram. 14. PMGSY road/bridge inaugurations, Dumporijo (Arunachal Times, Dec 2022) — pre-term. 15. Election result pages (2024) — koi kaam nahi. NEGATIVES: 0 — affidavit ke 2 purane mamle (51/2018, 64/2006) par Jun 2024 ke baad koi legal development whitelisted me nahi. (VKV Kuporijo, Jun 2026: Bui Home Minister ke Advisor bane — institutional role, kaam nahi.)
 // ---- Upper Subansiri district batch END (2 entries, negatives 0) ----
+
+// ---- Kamle district batch (researched 2026-10-17) ----
+arunachalWorks['rotom-tebin'] = [];
+// REJECT-LOG (rotom-tebin, Raga): 1. The Arunachal Times, 'Dollungmukh me PWD sub-division banane ka sarkari aadesh' (30 Jun 2025, dateline) — coordinator-DROP: aadesh sarkari hai par MLA ki bhoomika sirf uska swagat karne ki thi (unhone khud shrey CM aur purv MLAs ko diya), koi dastaveji pahal nahi — swikriti-stage me credit nahi banta. 2. PIB (3 May 2025) Khelo India hall — kendriya mantri ne inaugurate kiya, MLA maujoodgi-tak. 3. The Arunachal Times (9 Jun 2025) Dolum IAF firing range memorandum — sirf maang, nateeja nahi. 4. indiatodayne (2 Aug 2025)/Arunachal Times (22 Apr 2026) Kamala HEP meetings — sirf charcha/maang, NHPC kendriya. 5. The Arunachal Times (14 Jun 2025) DMO ko medical staff nirdesh — nirdesh matra. 6. The Arunachal Times (13 Jun 2025) flood daura + rahat vitaran — daura/rahat. 7. arunachal24 flood review meeting — maujoodgi-tak. 8. The Arunachal Times (29 Jun 2025) land-donor meeting — SDO ki adhyakshata, MLA ki bhoomika nahi. 9. Eastern Sentinel (7 Oct 2026) Sankalp Diwas — mukhya-atithi samaroh. 10. Governor KT Parnaik ki Raga yatra — dusre neta ka karyakram. 11. arunachalobserver (26 Feb 2025) VP Dhankhar Boasimla hall — dusre neta ka karyakram. 12. arunachal24 Namsai Buddhist projects — Dy CM ka karyakram. 13. Eastern Sentinel (20 Jul 2025) power secretary daura — sirf maang. 14. arunachal24 MP Tagak ke saath daura — maujoodgi-tak. NOTE: 2024 affidavit me FIR 26/2023 (Roing, forgery) pending disclosed hai — pre-term mamla, Jun 2024 ke baad koi legal development nahi, isliye negative nahi bana. Profile imaandari se khaali — whitelisted sources me vyaktigat lokarpan/shilanyas ki post-event reporting nahi mili.
+// ---- Kamle district batch END (0 entries, negatives 0) ----
+
+
+// ---- West Siang district batch (researched 2026-10-17) ----
+arunachalWorks['pesi-jilen'] = [
+  {
+    title: 'MLA Pesi Jilen ne Liromoba circle ke naye Lingo gaon ka shilanyas kiya — Pokto se alag hue is gaon ko DC ne gaon-maanyata praman-patra saunpa',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/mla-lays-foundation-stone-of-lingo-village',
+    date: '2026-02-26',
+    note: 'The Arunachal Times ki report ke anusar 26 Feb 2026 (Guruvar) ko MLA Pesi Jilen ne West Siang me Lingo gaon ka shilanyas kiya — ye naya gaon Liromoba circle me Pokto gaon se alag hokar Yomcha-Liromoba sadak ke kinare bana hai. Deputy Commissioner Mindo Loyi ne Lingo kul ko gaon-maanyata praman-patra saunpa (sarkari maanyata ka dastaveji kaam). Jilen ne graminon se model gaon ki yojna banane ko kaha aur naye gaon ko apni taraf se pani aur bijli ka connection dene ka ashvasan diya — ye ashvasan abhi sirf ghoshna hai. Report me koi fund ya lagat disclosed nahi hai, MLALAD ka ullekh nahi. Ye ghatna Jun 2025 me unke PPA me jaane ke baad ki hai.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Kamba circle ke Kesi Tali gaon me naye swagat dwar ka lokarpan — MLA ne swayam udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Arunachal24',
+    sourceUrl: 'https://arunachal24.in/arunachal-kesi-tali-village-gets-new-welcome-gate/',
+    date: '2026-04-15',
+    note: 'Arunachal24 (15 Apr 2026) ki report ke anusar 14 Apr 2026 ko MLA Pesi Jilen ne Kamba circle ke Kesi Tali gaon me naye nirmit swagat dwar ka lokarpan kiya — ye dwar gaon ko alag pehchaan dene aur Ragmuk-Rakyom kulon ki virasat ke sanrakshan ke liye banaya gaya. Karyakram me IPR Director Gijum Rakmuk, ADC Kamba Tamo Riba, ZPM Kaba Rakmuk aur gramin maujood the. Swagat dwar ke nirman ka fund srot report me disclosed nahi hai — note me ye disclosure hai. Usi karyakram me graminon ne aam shamshan ghat ke liye aarthik sahayata ka gyapan diya aur Jilen ne aavashyak fund dene ka ashvasan diya — ye ashvasan sirf ghoshna hai, alag entry nahi banayi gayi. Ye ghatna Jun 2025 me unke PPA me jaane ke baad ki hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+arunachalWorks['topin-ete'] = [
+  {
+    title: 'Kamdi gaon ke naye Paramparik Dere (community hall) ka lokarpan — PWD Aalo Division ne 6 mahine me banaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/story/arunachals-kamdi-village-gets-new-cultural-hub-as-mla-topin-ete-opens-traditional-dere-1295481-2025-10-26',
+    date: '2025-10-26',
+    note: 'India Today NE (26 Oct 2025) ki report ke anusar MLA Topin Ete ne Aalo Circle ke Kamdi gaon me naye Paramparik Dere (community hall) ka lokarpan kiya; PWD Aalo Division ne ise 6 mahine me banaya. Nirman ka fund-srot report me disclosed NAHI hai (ye disclosure note me darj hai). MLA ki bhoomika keval udghatan tak thi — credit capped. (Coordinator-add: Tawang batch ki Nalanda Library entry wale "udghatan-matra" precedent ke anusar rakhi gayi; worker ne ise fund-undisclosed kahkar reject kiya tha.)',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+arunachalWorks['kento-jini'] = [
+  {
+    title: 'Sports and Youth Affairs Mantri Kento Jini ne Aalo ke daily market me bahu-manzila parking lot ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/multi-storey-parking-lot-inaugurated-in-aalo',
+    date: '2026-07-26',
+    note: 'The Arunachal Times (26 Jul 2026 edition; dateline AALO 25 Jul 2026) ki report ke anusar Sports and Youth Affairs Mantri Kento Jini ne Aalo ke daily market me bahu-manzila parking lot ka lokarpan kiya; West Siang DC, SP aur ZPC maujood the. Department of Urban Affairs (rajya sarkar) ne nirmaan karwaya, kul lagat Rs 488.9 lakh; har manjil par 40 LMV, filhaal 80 gaadiyon ki kshamta. News18 ki delimitation jaankari ke anusar Along East seat ke kshetra me Along Town shamil hai, isliye ise seat-kaam mana gaya hai. MLA ki bhoomika vyaktigat lokarpan (mantri ke roop me) — fund-srot disclosed.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (pesi-jilen, Liromoba): 1. The Arunachal Times (29 May 2026) official-vehicle daan — daan kaam nahi. 2. India Today NE (23 Jun 2025) 4 TB patients adoption — daan/rahat. 3. India Today NE (17 Jan 2025) Sii-Sika festival udghatan — mukhya-atithi samaroh. 4. The Arunachal Times health camp udghatan — dusre vibhag ka karyakram. 5. The Arunachal Times Eco-tourism festival — samaroh. 6. The Arunachal Times (13 Sep 2025) festival promo video launch — pre-event + samaroh. 7. The Arunachal Times school facilities — ye Tapi Darang ka karyakram, galat vyakti. 8. India Today NE (6 Feb 2026) CM ka Lower Siang package — dusre neta ka karyakram, maujoodgi-tak. 9. abotanitv.in political story — non-whitelisted. 10. theverdict.co.in TB story — non-whitelisted. Negatives: koi nahi (affidavit me criminal cases zero).
+// REJECT-LOG (topin-ete, Along West): 1. India Today NE (26 Oct 2025) Kamdi Dere — fund undisclosed; coordinator ne "udghatan-matra" precedent par entry banayi hai (upar). 2. The Arunachal Times (26 Jul 2026) Aalo Press Club lokarpan — fund undisclosed, sirf untied-fund ashwasan; thin, reject. 3. India Today NE + Arunachal Times Rime-Hijum bridge — 23 Apr 2026 ko Adviser Phurpa Tsering ne inaugurate kiya, MLA sirf maujood — reject. 4. India Today NE (3 Aug 2025) cafe lokarpan Itanagar — niji venture, seat se bahar. 5. YouTube Euro Kids/Moom Homestay — YouTube-only. 6. Northeast Today (24 Dec 2024) CM ke Along West lokarpan — dusre neta ka kaam. 7. India Today NE (9 Jul 2025) inspection tour — sirf nirikshan. 8. India Today NE (12 Jan 2025) interview vade — ghoshna. 9. India Today NE (8 Sep 2026) leadership rumours — bayan. 10. Northeast Now school-aag — bayan matra. 11. Arunachal Times (16 Jan 2026) food park prastav — prastav stage. 12. Eastern Sentinel football tourney — samaroh. 13. Arunachal Times Crown Clash — samaroh. 14. Arunachal Times AKWDS jubilee — dusre neta ka karyakram. 15. Arunachal Times Pineapple Festival — inauguration Tsering Lhamu ne kiya. 16. Arunachal24 Nongtaw — Dy CM ka karyakram, seat se bahar. 17. Arunachal24 Hangpan Dada — chief guest Kento Jini. 18. arunachalobserver Tug of War — non-whitelisted + samaroh. 19. India Today NE T20 cricket — chief guest. 20. Northeast Today PAC sittings — samiti kaam, kshetra-kaam nahi. 21. Eastern Sentinel (9 Apr 2024) RGU festival — pre-term. 22. YouTube bridge inspections — whitelist-bahar. 23. YouTube salon — whitelist-bahar. 24. Eastern Sentinel (16 Apr 2025) National Herald bayan — raajneetik bayan.
+// REJECT-LOG (kento-jini, Along East): 1-11 sab pre-term (2020-2023) lokarpan — REJECT. 12. westsiang.nic.in Galo Welfare Society building — mukhya-atithi samaroh. 13. northeasttoday.in CAMPA LPG — whitelist-bahar + rahat vitaran. 14. northeasttoday.in health camp inspection — whitelist-bahar + nirikshan. 15. arunachaltimes.in Sports Carnival 2026 — samaroh. 16. arunachal24 Hangpan Dada — chief guest + ashwasan. 17. syllad.com badminton hall — whitelist-bahar + Dy CM ne inaugurate kiya. 18. theweek.in (PTI) BRO projects — kendriya + dusre neta. 19. cnbctv18/zeenews BRO — pre-term + kendriya. 20. The Hindu ALB road — maang + rajya-stariya mantri vishay. 21. indiatodayne.in ALB road — wahi. 22. indiatodayne.in district index dashboard — prashasanik. 23. indiatodayne.in RTI directive — vibhagiya. 24. indiatodayne.in office plans — ghoshna. 25. theweek.in Press Day speech — mantri-vibhagiya. 26. westsiang.nic.in (5 Apr 2025) CM sanction orders — sirf maujoodgi. 27. archive.arunachaltimes.in (15 Aug 2025) development tour — nirikshan. 28. funandflip.com riverfront — whitelist-bahar + CM ne inaugurate kiya. 29. medicalbuyer.in Boleng hospital — dusri seat + CM. 30. tractornews.in farm machinery — pre-term + whitelist-bahar. 31. constructionworld.in JJM — pre-term + whitelist-bahar. 32. gully2global.com Likabali — dusri seat + whitelist-bahar. 33. YouTube stadium ashwasan — whitelist-bahar. 34. findglocal.com community hall — FB mirror (retry lead). 35. factly.in 2019 unopposed — irrelevant. Negatives: koi nahi.
+// ---- West Siang district batch END (4 entries, negatives 0) ----
+
