@@ -2564,7 +2564,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=550',
       backgroundNote: 'Devi Ranjan Tripathy (BJD) Banki seat se Odisha ke MLA hain. Unke khilaf koi aapradhik mamla darj nahi hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Banki se jeete: 69,214 votes. Runner-up Subhransu Sekhar Padhi (BJP) 52,188 votes. Margin 17,026.',
+    electionNote: '2024 Vidhan Sabha chunav me Banki se jeete: 69,214 votes. Runner-up Subhransu Sekhar Padhi (BJP) 52,188 votes. Margin 17,026. 21 Mar 2026 ko BJD ne 4 anya MLAon ke saath inhe Rajya Sabha cross-voting/party-virodhi gatividhiyon ke aarop par party se nilambit kiya; Speaker ne 19 Jun 2026 ko ayogyata-yachikaen kharij kin, BJD High Court gaya hai. Nilamban party ki aantarik karwai hai — party field BJD hi rakha gaya hai, aur ye negative entry nahi banta.',
   },
   {
     slug: 'ranendra-pratap-swain',
@@ -2622,7 +2622,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=559',
       backgroundNote: 'Sofia Firdous (INC) Barabati-Cuttack seat se Odisha ki MLA hain aur Odisha ki pehli Muslim mahila MLA hain. Unke khilaf koi aapradhik mamla darj nahi hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Barabati-Cuttack se jeeti: 53,339 votes. Runner-up Purna Chandra Mahapatra (BJP) 45,338 votes. Margin 8,001.',
+    electionNote: '2024 Vidhan Sabha chunav me Barabati-Cuttack se jeeti: 53,339 votes. Runner-up Purna Chandra Mahapatra (BJP) 45,338 votes. Margin 8,001. 17 Mar 2026 ko INC ne Rajya Sabha cross-voting ke aarop par inhe Ramesh Jena (Sanakhemundi) aur Dasarathi Gamango (Mohana) ke saath party se nilambit/nishkasit kiya — 16 Mar 2026 ke RS chunav me BJP-samarthit nirdaliya ummeedwar Dilip Ray ko vote dene ka aarop (ThePrint-PTI/ETV Bharat reporting); party ne Speaker se ayogyata maangi hai. Party field INC hi rakha gaya hai; ye negative entry nahi banta.',
   },
   {
     slug: 'souvic-biswal',
@@ -2651,7 +2651,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=658',
       backgroundNote: 'Souvic Biswal (BJD) Choudwar-Cuttack seat se Odisha ke MLA hain. Unke khilaf koi aapradhik mamla darj nahi hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Choudwar-Cuttack se jeete: 72,325 votes. Runner-up Nayan Kishore Mohanty (BJP) 54,509 votes. Margin 17,816.',
+    electionNote: '2024 Vidhan Sabha chunav me Choudwar-Cuttack se jeete: 72,325 votes. Runner-up Nayan Kishore Mohanty (BJP) 54,509 votes. Margin 17,816. 21 Mar 2026 ko BJD ne 4 anya MLAon ke saath inhe Rajya Sabha cross-voting/party-virodhi gatividhiyon ke aarop par party se nilambit kiya; Speaker ne 19 Jun 2026 ko ayogyata-yachikaen kharij kin, BJD High Court gaya hai. Nilamban party ki aantarik karwai hai — party field BJD hi rakha gaya hai, aur ye negative entry nahi banta.',
   },
   {
     slug: 'chhabi-malik',

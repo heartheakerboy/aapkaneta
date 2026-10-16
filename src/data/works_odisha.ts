@@ -809,7 +809,63 @@ odishaWorks['kanhai-charan-danga'] = [];
 // Retry leads (state-wide + jila): mlalads.odisha.gov.in (connection reset — network se nahi khulta); Hiranchal Live June-2026 foundation-stone event par whitelisted post-event report; naya 300-bed DHH Boudh par whitelisted report me MLA ka documented role; Danga ke TPSODL link-line lokarpan par whitelisted coverage; warrant case me 15 Oct production ke baad follow-up.
 // ---- Boudh district batch END ----
 
-// ---- Cuttack district batch ----
+// ---- Cuttack district batch (researched 2026-10-16) ----
+
+odishaWorks['sofia-firdous'] = [
+  {
+    title: 'CDA (Cuttack Development Authority) ke adhinasth leasehold zameen freehold karne ki ghoshna — MLA ke mutabik Tehsildar ne bataya bulk kaam poora, joint meeting ke baad notification aayegi',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Odisha TV',
+    sourceUrl: 'https://odishatv.in/news/odisha/cda-to-be-freehold-official-notification-soon-cuttack-mla-sofia-firdous-254554/amp',
+    date: '2025-01-27',
+    stage: 'ghoshna',
+    note: 'Odisha TV ki 27 Jan 2025 ki post-event report ke mutabik Barabati-Cuttack MLA Sofia Firdous ne Tehsildar ke saath meeting ke baad jankari di ki CDA ke adhinasth leasehold zameen freehold hogi. MLA ke daave ke anusaar Odisha sarkar ne BDA aur CDA dwara banaye gaye housing projects me leasehold-to-freehold conversion ka prastav pehle hi manjoor kiya tha; Tehsildar ne bataya ki bulk kaam poora ho chuka hai aur Tehsil-CDA ki joint meeting ke baad sarkar notification jari karegi. Shrey-spashtikaran: notification abhi jari NAHI hui hai (\'soon\'), ye ghoshna sirf MLA ke daave par adharit hai, koi sarkari GO ya swikriti-report media me saamne nahi aayi hai. Status track: notification jari hui ya nahi, iski pushti agle pass me karni hogi.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['prakash-chandra-sethi'] = [
+  {
+    title: 'NEGATIVE: Ravenshaw University ke hostel-warden vivad me MLA par chief warden se durvyavahar ka aarop — 29-30 wardens ka mass resignation, RUTA ne sarvajanik maafi maangi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/india/odisha-ravenshaw-university-teachers-protest-bjp-mla-prakash-chandra-sethi-10819892/',
+    date: '2026-08-06',
+    note: 'The Indian Express (6 Aug 2026) ki established reporting ke mutabik 3 August 2026 ko East Hostel me chhatron ke andolan ke dauraan Cuttack Sadar MLA Prakash Chandra Sethi campus gaye, jahan shikshakon ke aarop ke anusaar unhone Vice-Chancellor, hostel boarders aur faculty ki maujoodgi me chief warden Prof Sudarshan Mishra se misbehave kiya; isse 30 se adhik warden/deputy wardens ne unsafe aur humiliated mehsoos karke mass resignation de di, aur Ravenshaw University Teachers Association (RUTA) ne dharna/rally karke MLA se sarvajanik maafi ki maang ki. MLA ka jawab: Sethi ne aarop se inkaar kiya, ulte Prof Mishra par disrespectful vyavahar ka aarop lagaya, aur 4 August 2026 ko Speaker Surama Padhy ko patra likhkar Mishra ke khilaf karyavahi ki maang ki — unka daawa hai ki ve Ravenshaw ke Senate member ke roop me campus gaye the (The Hindu aur The New Indian Express ne bhi wahi ghatna cover ki). Adalaati/janch sthiti: kisi FIR, case ya aadhikarik janch ki established reporting nahi mili (anupasthiti disclose ki ja rahi hai); Ravenshaw VC ne ghatna ko unwarranted bataya aur samadhan ke liye 7 din ka samay manga tha.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['sarada-prasad-padhan'] = [
+  {
+    title: 'Nischintakoili aur Sukarpada me canal-road pariyojanaon ka shilanyas — MP Baijayant Panda ke saath roadshow me MLA ne rakhi neenv, Rs 15 crore se adhik ki Rural Development Department pariyojanaen',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Odisha TV',
+    sourceUrl: 'https://odishatv.in/odisha/kendrapara-mp-baijayant-panda-mahanga-mla-sarada-pradhan-lead-mega-bjp-rally-in-cuttack-lay-foundation-stones-for-projects-10575364',
+    date: '2025-11-15',
+    stage: 'shilanyas',
+    note: 'Odisha TV ki post-event report ke mutabik Mahanga Vidhan Sabha kshetra (Cuttack jila) me Nischintakoili block ke Kulia se Sukarpada tak BJP ki mega rally/roadshow hui, jise Kendrapara MP Baijayant Panda ne Mahanga MLA Sarada Pradhan ke saath lead kiya. Karyakram me do sadak pariyojanaon ke shilanyas rakhe gaye: (1) Nischintakoili me No.8 Canal Road — sadak 3.75m se chaudi karke 5.5m ki jayegi; (2) Sukarpada me Sukarpada-Kurujanga No.9 Canal Road — Mahanga aur Derabish blocks ki lambe samay se maang thi. Dono pariyojanaen Rural Development Department dwara execute hongi aur Rs 15 crore se adhik ke budget se sanctioned hain; MLA report me pariyojanaon ka vivaran dete hue quoted hain. Shrey-spashtikaran: ye BJP rally ka sanyukt karyakram tha jisme MP aur MLA dono ne shilanyas rakha — fund-swikriti RD Department ki hai, MLA ka shrey sahbhagi/co-lead ke roop me documented hai, akela nahi. Date inferred: khole gaye page par prakashan-tithi nahi dikhi; Wayback snapshot 2025-11-15 ko article maujood tha aur report me rally Saturday ki batayi gayi hai, is aadhar par 2025-11-15 li gayi.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['bijaya-kumar-dalabehera'] = [
+  {
+    title: 'Narasinghpur block ke Olaba (Mundia Sahi) aur Kandha Devabhumi gaonon ka PM Surya Ghar Muft Bijli Yojana ke tahat poorn saor-vidyutikaran — MLA ne 8 Jan 2026 ko lokarpan kiya; TPCODL ne lagbhag 76-80 gharon me panel lagaye, BPL parivaron ke liye muft bijli',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/odisha/2026/Jan/09/two-cuttack-villages-now-fully-solar-powered',
+    date: '2026-01-08',
+    stage: 'lokarpan',
+    note: 'The New Indian Express (9 Jan 2026) ki post-event report ke mutabik Baramba MLA Bijaya Kumar Dalabehera ne Narasinghpur block ke Olaba (Mundia Sahi) aur Kandha Devabhumi gaonon ke poorn saor-vidyutikaran ka lokarpan 8 Jan 2026 ko kiya; TPCODL ne lagbhag 76-80 gharon me ~25 din me panel lagaye, BPL parivaron ke liye bijli muft rahegi (kendra Rs 30,000 + rajya Rs 25,000 subsidy, labharthi-hissa DMF se). Orissa POST ne wahi event/aankde corroborate kiye. Shrey-spashtikaran: pariyojana kendra yojana + jila prashasan ka kaam thi — MLA ki bhoomika lokarpan me mukhya atithi ki rahi, isliye badge news hai, sarkari nahi.',
+    period: '2024-2029',
+  },
+];
+
 
 // ---- Kendrapara district batch ----
 
@@ -871,3 +927,15 @@ odishaWorks['kanhai-charan-danga'] = [];
 // chakramani-kanhar (Baliguda ST, BJD): 0 PASS. R1. BJD se nilamban (OrissaPOST 21 Mar 2026, khud padha) — RS cross-voting par 6 MLAs ka suspension; party-aantrik karwai, vikas-kaam nahi, koi FIR/case/jaanch nahi isliye qualifying negative bhi nahi. (Foundation: nilamban electionNote me disclose.) R2. Anti-defection ayogya-yachika (TNIE 1 Oct 2026, khud padha) — Speaker ne 19 Jun 2026 ko kharij ki, BJD HC gaya — niyam: anti-defection yachika NEGATIVE NAHI. R3-R7. pre-term (TNIE Sep 2023 Sirtiguda story me sirf bayan; Naveen-era CM Kandhamal ghoshnaein; OTV pre-event). R8. Kalinga TV YouTube "rousing welcome" — non-whitelist + raajneetik. R9. Vidhan Sabha sawal sirf non-whitelist par. R10. Prameya whip-meeting gair-haziri — raajneetik + non-whitelist. R11. raw halafnama aankda akela negative nahi. R12. "Debendra Kanhar" (poorv Phulbani MLA) alag vyakti. Negatives: 0 — 1 purana halafnama mamla (koi dosh-siddhi nahi), Jun 2024+ me koi FIR/case/adalaati/adhikarik jaanch ya sampradayik vivaad ki whitelisted reporting nahi.
 // RETRY LEAD: MLALADS portal (state-wide, network se unreachable); "Phulbani"/"Baliguda"/"G. Udayagiri" tag-page periodic scans; kandhamala.odisha.gov.in press releases.
 // FOUNDATION CORRECTION: chakramani-kanhar — 21 Mar 2026 se BJD se nilambit (RS cross-voting; TNIE/IE/ETV Bharat se verify) ka disclosure electionNote me joda gaya (Mahakud precedent).
+// ---- Cuttack district REJECT-LOG (researched 2026-10-16) ----
+// sofia-firdous (Barabati-Cuttack, INC): 1 PASS (ghoshna+dawa: CDA freehold, OTV 27 Jan 2025). 17 Mar 2026 ko INC ne RS cross-voting ke aarop par party se nilambit/nishkasit kiya (ThePrint-PTI verified; Ramesh Jena + Dasarathi Gamango ke saath) — party-nilamban negative NAHI, disclosure foundation me.
+// ranendra-pratap-swain (Athagarh, BJD, 8-time veteran): 0 PASS, khaali. Pro-tem Speaker bhoomika, VK Pandian par bayan, Waqf letter, Tigiria me peedit (negative nahi), 2016 railway case HC ne quash kiya (pre-term), pre-term kaam — sab reject. 2024 halafnama: 0 cases.
+// souvic-biswal (Choudwar-Cuttack, BJD): 0 PASS, khaali. Sambad English Central Library maujoodgi, TNIE SCB sickle-cell, Kalinga TV Bali Yatra, rail overbridge, Millennium City Market, metro (pre-term), OTV 100-water pre-event schedule — sab reject. 21 Mar 2026 BJD nilamban + ayogyata-yachika kharij — negative NAHI, disclosure foundation me. Pita Pravat Ranjan Biswal ka CBI mamla parivar ka mamla — negative NAHI.
+// devi-ranjan-tripathy (Banki, BJD): 0 PASS, khaali. OTV 24 Apr 2026 (Bhagipur RI office — iraada report hua, completion pusht nahi); nknewsodisha completion-dawa (non-whitelist); CM/ministers karyakram maujoodgi; Capital Ring Road sawal (maang); Dampada BNSS — rajneetik. 21 Mar 2026 BJD nilamban — negative NAHI, disclosure foundation me. 2024 halafnama: 0 cases.
+// chhabi-malik (Niali SC, BJP): 0 PASS, khaali. TNIE Dy CM Parida ka Ashtashambhu corridor shilanyas + Prachi Rs 300cr (maujoodgi); KV Singh Deo review meeting (maujoodgi); budget four-lane (sarkar faisla); Niali NAC Feb 2024 (pre-term). 2024 halafnama: 2 cases (raw data, negative nahi).
+// prakash-chandra-sethi (Cuttack Sadar SC, BJP): 1 NEGATIVE PASS (Ravenshaw warden row, IE+The Hindu+TNIE 6 Aug 2026, jawab darj, koi FIR/janch nahi — disclosed). Positive 0: SBI branch, silver filigree CFC, central library, overbridge, collectorate, riverfront, Baliyatra — sab dusre neta ke karyakram/maujoodgi.
+// prasanta-behera (Salepur, BJD): 0 PASS, khaali. Chandradeipur bus terminal face-off (pre-term), BJD bandh (maang), Assembly sawal, 2019 ke vaade, YouTube padayatra, Mahanadi bridge (sarkar faisla), COVID plasma (pre-term/charity). 2024 halafnama: 0 cases.
+// bijaya-kumar-dalabehera (Baramba, IND): 1 PASS (lokarpan: PM Surya Ghar solar, TNIE+Orissa POST 9 Jan 2026). BJP support, Assembly prashn, pre-term cases (17 cases 2006-22), T-bridge 2021, Makar Mela 2022 — sab reject.
+// sarada-prasad-padhan (Mahanga, IND): 1 PASS (shilanyas: 2 canal roads, OTV, inferred date 2025-11-15 disclosed, MP Panda joint + RD Dept funded — disclosed). Luna bridge shilanyas (sirf YouTube), statue-vandalism aarop (koi FIR/janch nahi), punch video (koi FIR/janch/jawab nahi — judgment-call se reject, retry lead), pre-term aarop — negative koi nahi.
+// QA JUDGMENT CALLS (parent review ke liye): (1) Sethi negative — koi FIR/official inquiry nahi hai (anupasthiti disclosed); IE+The Hindu+TNIE established national reporting + explicit allegation + jawab darj ke aadhar par KEPT; (2) Padhan punch video — video-documented hone ke bawajood koi FIR/janch/jawab reporting nahi → REJECT (retry lead: FIR development par negative possible).
+// STATE-WIDE RETRY LEAD: MLALADS portal (mlalads.odisha.gov.in) is network se unreachable — suchi milte hi sarkari-badge sweep possible hoga.
