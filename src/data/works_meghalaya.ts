@@ -3258,3 +3258,57 @@ meghalayaWorks['lahkmen-rymbui'] = [
 // 9. Mang Hai Ryum HSS announcements (Rs 15 lakh CMSDF + Rs 10 lakh + 2 Maruti Eeco, Oct 2025) — sirf ghoshna, actual vitaran ki follow-up reporting nahi. https://theshillongtimes.com/2025/10/20/rymbui-flags-low-enrolment-in-govt-schools-of-amlarem/
 // 10. Sub Divisional Hospital foundation stone, Jarain (Dec 2021/2022) — pre-term. https://www.syllad.com/foundation-stone-for-sub-divisional-hospital-laid-in-west-jaintia-hills/
 // 11. Mantri-duties ceremonial (CMLEAD induction Oct 2026, DIPR conclave Oct 2026, Teachers' Day Jowai Sep 2026, Shillong Polytechnic jubilee Oct 2026) — koi fund/vitaran nahi.
+
+// ---- East Jaintia Hills district batch (researched 2026-10-17) ----
+// PARENT REVIEW (2026-10-17): 5 entries me se 1 hatayi — Santa Mary Shylla ki Dkhiah East Integrated Health Campaign shubharambh entry: MACS abhiyan ka keval lokarpan/launch, koi suvidha/kaam nahi — ceremonial-only class. Batch kul = 4 entries. Kyrmen Shylla ki DRDA extension entry ka sarkari press-release source parent ne khud kholkar verify kiya (25 May 2026, DME Scheme FY 2025-26, DC Manish Kumar ki maujoodgi — sab pusht), isliye badge sarkari rakha gaya.
+
+meghalayaWorks['santa-mary-shylla'] = [
+  {
+    title: 'Pyrtakuna gaon me Jal Jeevan Mission ke tehat paani yojana ka lokarpan — 107 gharon tak nal se paani pahuncha',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/pyrtakuna-village-gets-tap-water-under-jjm/',
+    date: '2025-10-13',
+    note: 'Yojana ka fund kendra sarkar ke Jal Jeevan Mission se aaya aur ise PHE vibhag ne lagoo kiya; MLA ki asal bhoomika keval lokarpan tak seemit thi — unhone ise apni pahal ya apne fund ka kaam hone ka dawa nahi kiya. Kul lagat Rs 1.83 crore; is samay Pyrtakuna ke 107 ghar karyatmak nal-jal connection pa rahe hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ratacherra me Amsngad nadi par suspension footbridge ka lokarpan — Saitual gaon ki connectivity behtar hui',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/suspension-footbridge-inaugurated-over-amsngad-river-in-ratacherra/',
+    date: '2025-06-17',
+    note: 'Fund-srot: rajya sarkar ka Inter-State Border Areas Development Programme (ISBADP) 2023-24. MLA ki asal bhoomika lokarpan ki thi; pul graminon aur Border Areas Development Officer (BADO), Khliehriat ke sahyog se poora hua. Pul Saitual ko Ratacherra, Umkiang aadi gaonon se jodta hai; seemavarti kshetron ke liye mahatvapurna.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Vidhansabha me NH-6 four-laning (Mawryngkneng se Malidor) tez karne ki maang — mantri ne bhoomi-adhigrahan aur DPR ki pragati par ashwasan diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2023/03/24/npp-mla-asks-govt-to-expedite-process/',
+    date: '2023-03-21',
+    note: 'Credit capped: NH-6 kendriya pariyojana (MoRTH) hai; MLA ne 21 March 2023 ko Question Hour me tezi ki maang uthayi. Up-Mukhyamantri (PWD-Roads prabhari) Prestone Tynsong ne ashwasan diya — Mawlyngkhung se Ratacherra tak four-laning, bhoomi-adhigrahan prakriya me, feasibility report poori, DPR taiyaar ho rahi hai, MoRTH ne prathmikta di hai. Kaam ka shrey sarkar/kendra ka; MLA ki bhoomika maang uthane tak seemit.',
+    period: '2023-2028',
+  },
+];
+
+meghalayaWorks['kyrmen-shylla'] = [
+  {
+    title: 'Kyrmen Shylla ne Khliehriat me DRDA Office Building ke extension ka lokarpan kiya',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Meghalaya Govt (meghalaya.gov.in)',
+    sourceUrl: 'https://www.meghalaya.gov.in/meghalaya/sites/default/files/press_release/Press_Release_DPRO_Khliehriat_3.pdf',
+    date: '2026-05-25',
+    note: 'Sarkari press release ke anusar Khliehriat MLA Kyrmen Shylla ne 25 May 2026 ko DRDA Office Building, Khliehriat (East Jaintia Hills) ke naye extension ka lokarpan kiya; maujoodgi: Sutnga-Saipung MLA Santa Mary Shylla aur Deputy Commissioner Manish Kumar (IAS). Kaam state sarkar ki DME Scheme (District/Rural Management and Enterprise) FY 2025-26 ke tahat hua — fund-srot sarkari yojana disclosed. (Press release 26 May 2026 ka hai.)',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG (East Jaintia Hills, 12/12) ----
+// santa-mary-shylla (32 leads rejected): DMF-funded road/afforestation/futsal/computer-centre/swachhata kaam (TST/Highland Post/syllad) — DMF rule; samuday samaroh (Nul-Ding Kut, football) me mukhya atithi + keval ghoshna (Rs 10 lakh / Rs 260 crore bina dastavej); SRWP Rs 10 lakh / Rs 5 lakh keval ghoshna (syllad/yutipnews); Kupli nadi sadak survey/prastav; nirikshan-akela; coal-policy bayan/maang-patra bina nateeje ke; CM ke karyakramo me maujoodgi; seat-bahar (EWKH/NWJH/WGH) ki ghatnayen.
+// kyrmen-shylla (19 leads rejected): DMF-funded futsal/computers/garbage-trucks (syllad/TST) — DMF rule; Civil Hospital equipment event me keval maujoodgi (fund hospital+CSR+DMF); CM ne kiye shilanyas/handover me keval maujoodgi (Rymbai school, school bus CMSDF, May 2026 road foundations); NESIDS kendriya sadak par shrey ka dawa nahi; 7-gaon water scheme sirf prastav; railway/NH-6/coal bayan akele; MLA-scheme comment bina saboot ke; pre-term (2021-22) ke kaam.
+// Negatives — koi valid negative nahi: Santa Mary Shylla ke khilaf whitelisted media me koi FIR/janch nahi; Kyrmen ke khilaf 'bhai par aarop' (parivar = reject) aur '4,000 tonne coal missing' bayan (khud aaropi nahi, koi FIR/janch nahi) = negative rule fail.
