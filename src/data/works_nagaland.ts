@@ -80,7 +80,7 @@ nagalandWorks['moatoshi-longkumer'] = [
   {
     title: 'Rilan gaon tak approach road ka lokarpan — LADP 2024–25 se nirmit, 80+ gharon aur gaon kabristan ko highway se jodne wali sadak',
     category: 'Sadak',
-    badge: 'sarkari',
+    badge: 'news',
     sourceLabel: 'Nagaland Post',
     sourceUrl: 'https://nagalandpost.com/moatoshi-inaugurates-rilan-village-approach-road/',
     date: '2025-08-23',
@@ -90,7 +90,7 @@ nagalandWorks['moatoshi-longkumer'] = [
   {
     title: 'DCPU Dimapur ko Child Helpline 1098 emergency seva ke liye nayi vehicle ka handover — teenon Dimapur ACs ke LADP Common Pool 2025–26 se kharid',
     category: 'Any',
-    badge: 'sarkari',
+    badge: 'news',
     sourceLabel: 'Nagaland Post',
     sourceUrl: 'https://nagalandpost.com/moatoshi-longkumer-hands-over-vehicle-to-district-child-protection-unit/',
     date: '2026-04-22',
@@ -100,7 +100,7 @@ nagalandWorks['moatoshi-longkumer'] = [
   {
     title: 'Grace Colony, Lengrijan me 2,000 foot lambi concrete road ka lokarpan — LADP 2025–26 se nirmit',
     category: 'Sadak',
-    badge: 'sarkari',
+    badge: 'news',
     sourceLabel: 'Nagaland Post',
     sourceUrl: 'https://nagalandpost.com/moatoshi-inaugurates-concrete-road-in-dimapur/',
     date: '2026-05-12',
@@ -1505,7 +1505,7 @@ nagalandWorks['s-toiho-yeptho'] = [
   {
     title: 'Naltoqa town (Suruhuto) me Article 275(1) yojana se bana multipurpose hall — Deputy Speaker S Toiho Yeptho ne 30 Dec 2025 ko vyaktigat roop se lokarpan kiya',
     category: 'Any',
-    badge: 'sarkari',
+    badge: 'news',
     sourceLabel: 'Morung Express',
     sourceUrl: 'https://morungexpress.com/deputy-speaker-inaugurates-crif-road-multipurpose-hall-in-suruhuto',
     date: '2025-12-30',
@@ -1516,7 +1516,7 @@ nagalandWorks['s-toiho-yeptho'] = [
   {
     title: 'Naltoqa Junction se CRIF Phuye Junction tak CRIF road ka lokarpan — Deputy Speaker S Toiho Yeptho ne 30 Dec 2025 ko vyaktigat roop se lokarpan kiya',
     category: 'Sadak',
-    badge: 'sarkari',
+    badge: 'news',
     sourceLabel: 'Morung Express',
     sourceUrl: 'https://morungexpress.com/deputy-speaker-inaugurates-crif-road-multipurpose-hall-in-suruhuto',
     date: '2025-12-30',
