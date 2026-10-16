@@ -349,7 +349,38 @@ odishaWorks['prakash-soren'] = [
 
 
 
-// ---- Balasore district batch ----
+// ---- Balasore district batch (researched 2026-10-16) ----
+// Slugs: aswini-kumar-patra (Jaleswar, BJD) — 0; goutam-buddha-das (Bhograi, BJD) — 1;
+// subasini-jena (Basta, BJD) — 1 dawa; manas-kumar-dutta (Balasore, BJP) — 0;
+// gobinda-chandra-das (Remuna SC, BJP; Govt Deputy Chief Whip, 22 Jul 2024 se) — 0;
+// santosh-khatua (Nilgiri, BJP) — 0; madhab-dhada (Soro SC, BJD) — 0;
+// padma-lochan-panda (Simulia, BJP) — 1.
+// Coordinator QA: jena ka HC-disqualification negative DROPPED (anti-defection petition = standing rule ke tahat negative nahi banta; HP cross-voting precedent);
+// panda ki Simulia NAC entry ka stage ghoshna se swikriti kiya (draft notification = sarkari order, Sohela NAC precedent); das ki Orissa POST report khud verify ki.
+
+odishaWorks['goutam-buddha-das'] = [
+  { title: 'Sagada Sahi (Bhograi block, West Bengal border) me concrete road ka shilanyas — MLA LAD fund se Rs 22 lakh swikrit', category: 'Sadak', badge: 'news', sourceLabel: 'Orissa POST', sourceUrl: 'https://www.orissapost.com/tit-for-tat-odisha-lays-stone-for-road-construction-on-west-bengal-border/amp/', date: '2025-04-16', note: 'Bhograi block ke Sagada Sahi gaon (Kamarda ke paas, West Bengal border area) me concrete road ka shilanyas Bhograi MLA Goutam Buddha Das ne kiya; road ke liye MLA LAD fund se Rs 22 lakh swikrit kiye gaye. Karyakram me panchayat samiti chairperson, tehsildar, zila parishad member, prashasnik adhikari aur grameen maujood the. Ye kadam West Bengal PWD ke alleged encroachment road ke jawab me Odisha prashasan ne liya. Status: shilanyas — road kaam jald shuru hone ka aashwasan diya gaya, purnata ki alag khabar nahi mili.', period: '2024-2029' },
+];
+
+odishaWorks['padma-lochan-panda'] = [
+  { title: 'Simulia ko naya Notified Area Council banane ka draft notification: sarkar ne 12 naye NACs ki suchi me shamil kiya', category: 'Any', badge: 'news', sourceLabel: 'The New Indian Express', sourceUrl: 'https://www.newindianexpress.com/states/odisha/2025/Aug/17/odisha-govt-issues-draft-notification-to-create-12-new-nacs-in-7-districts', date: '2025-08-16', note: 'Rajya sarkar ne draft notification jari karke Simulia (Balasore) ko 12 naye Notified Area Councils ki suchi me rakha; HUD department ne 7 jilon me 12 urban bodies ke liye draft notification 16 Aug 2025 ko nikala, janta se 30 din me aapatti/sujhav maange gaye. OTV ki report ke anusar Simulia ke nivasiyon ne ise MLA Padma Lochan Panda ke sahyog ka natija bataya — credit ka yahi dawa note me disclosed hai, faisla sarkar ka tha.', period: '2024-2029' },
+];
+
+odishaWorks['subasini-jena'] = [
+  { title: 'Basta aur Baliapal ke vikas ke liye Rs 3 crore grant ki swikriti ka dawa — CM se mulakat ke baad', category: 'Any', badge: 'dawa', sourceLabel: 'Odisha TV (OTV English)', sourceUrl: 'https://odishatv.in/odisha/suspended-bjd-mla-subasini-jena-defends-rajya-sabha-vote-targets-congress-11253483', date: '2026-03-22', note: 'Rajya Sabha cross-voting vivaad par jawab dete hue MLA ne kaha ki teen din pehle unhone Mukhyamantri se mulakat ki thi, jiske baad Basta aur Baliapal ke vikas ke liye Rs 3 crore ka grant swikrit hua. Sirf MLA ka dawa hai — GO ya sarkari order ki pushti nahi mili, isliye badge dawa. Caveat: OTV page par publish date print nahi thi; date timeline se anumanit hai (Rajya Sabha chunav 16 Mar 2026, BJD se nilamban Saturday 21 Mar, "on Sunday" jawab = 22 Mar 2026).', period: '2024-2029' },
+];
+
+// REJECT-LOG — Balasore district (2026-10-16):
+// Patra (aswini-kumar-patra, Jaleswar BJD): 0 entries — 12 searches; tender 5 mega irrigation Dec 2021 pre-term; OTV heckling ~2021 pre-term + bina FIR; HC chunav-yachika = akeli negative nahi; ppms portal CC-road suchiyon me MLA ka naam nahi.
+// Das (goutam-buddha-das, Bhograi BJD): 1 entry (upar). Rejects: MLA halts roadwork = wahi border mudda (shilanyas entry me); Rs 99.76cr drainage = previous govt ki swikriti ki release-MAANG; journalist pension/orangutan-CBI = maang; salary-na-lene ka waada = personal pledge; sand-smuggling = MLA khud aaropi nahi; Ananta Das (prev MLA) items = galat vyakti.
+// Jena (subasini-jena, Basta BJD): 1 dawa entry (upar). QA DROP: TOI ka Orissa HC disqualification-case negative — anti-defection petition = standing rule ke tahat negative NAHI (HP cross-voting precedent). Rejects: Bahrda fish market PM-shilanyas me sirf maujoodgi; diabetes seminar/muft camp = charity; Assembly sawal = maang; pati ka BJP jana = parivar-mamla.
+// Dutta (manas-kumar-dutta, Balasore BJP): 0 entries — 12 searches; flood relief = rahat; Works Dept meeting/Ring Road = maujoodgi; Sovarampur ROB 2022 = pre-term; IDCO/MSME Tower = Assembly sawal maang; podcast "Rs 100cr" = vague claim non-whitelist. Father (late Madan Mohan Dutta, 2019 MLA) se alag vyakti verify kiya.
+// Gobinda (gobinda-chandra-das, Remuna SC BJP): 0 entries — Deputy Chief Whip pad (22 Jul 2024, Odisha Gazette notification) foundation electionNote me disclosed; fluoride-water project = niji charity udghatan; bus-stand land sale = pre-term maang; PPMS PDF = estimate, MLA naam nahi.
+// Khatua (santosh-khatua, Nilgiri BJP): 0 entries — 2022 road shilanyas Sukant Nayak (prev MLA) ka tha; hati-shikaar giraftari-maang = maang, FIR pushti nahi; derogatory-remarks FIR (04 Jul 2025) whitelisted srot me MLA ka jawab nahi — negative reject.
+// Dhada (madhab-dhada, Soro SC BJD): 0 entries — cyclone-shelter = Assembly maang; midday-meal school visits = daura; Soro marathon flag-off = event, kaam nahi; Rs 2200cr CM projects 2023 = pre-term.
+// Panda (padma-lochan-panda, Simulia BJP): 1 entry (upar). Rejects: Ekta Padayatra/paddy meeting/Vision workshop = maujoodgi; 2018 party-join = pre-term; Dec 2025 final NAC notification sirf non-whitelist par — retry lead.
+// State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages.
+// ---- Balasore district batch END ----
 
 // ---- Bhadrak district batch ----
 

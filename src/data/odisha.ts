@@ -1143,7 +1143,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=1173',
       backgroundNote: 'Gobinda Chandra Das Remuna se BJP ke MLA hain. Umar 53 saal, shiksha: 5th Pass. Halafname me 8 aapradhik mamle hain, kisi me dosh-siddhi nahi hui.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Remuna se jeete: 92,620 votes. Runner-up Bidyasmita Mahalik (BJD) 68,452 votes. Margin 24,168.',
+    electionNote: '2024 Vidhan Sabha chunav me Remuna se jeete: 92,620 votes. Runner-up Bidyasmita Mahalik (BJD) 68,452 votes. Margin 24,168. 22 Jul 2024 se 17th Vidhan Sabha me Government Deputy Chief Whip hain (Parliamentary Affairs Department gazette notification; Vidhan Sabha ki official Who is Who suchi me darj). Whip sansthaagat bhoomika hai — kaam nahi maani jati.',
   },
   {
     slug: 'santosh-khatua',
