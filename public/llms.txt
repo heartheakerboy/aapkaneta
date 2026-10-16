@@ -1,0 +1,50 @@
+# AapkaNeta.org — Har neta ka hisaab, har nagrik ke haath
+
+> AapkaNeta.org Bharat ke chune hue pratinidhiyon (MLA, MP) ka saboot-adharit, pakshpaat-rahit record hai: har neta ne apne kshetra me kya kaam kiya, unka chunav halafnama (sampatti, deyndaari, aapradhik mamle), aur pichhle chunav se tulna. Har kaam ki entry ke saath srot (sarkari dastavej ya sthapit media report) diya jata hai. Site ka content Roman-script Hinglish me hai.
+
+## Site ke baare me
+
+- [Homepage](https://aapkaneta.org/): Rajya chunein, apna kshetra khojein, apne neta ka record dekhein
+- [About](https://aapkaneta.org/about/): AapkaNeta kya hai aur kyun banaya gaya
+- [Methodology](https://aapkaneta.org/methodology/): Data kaise ikattha aur satyaapit kiya jata hai — har entry srot ke saath, stage ka sach (poora hua / lokarpan / swikriti / shilanyas / ghoshna)
+- [Disclaimer](https://aapkaneta.org/disclaimer/): Data halafnamo aur media reports par aadharit hai; aarop aur adalati sthiti stage ke hisaab se darj hoti hai, koi nishkarsh site nahi nikaalti
+- [Correction](https://aapkaneta.org/correction/): Galati mile to sudhaar ke liye yahan batayein
+- [Tulna](https://aapkaneta.org/tulna/): Netaon ki aapas me tulna karein
+- [RTI](https://aapkaneta.org/rti/): RTI aavedan se sambandhit jaankari
+- [Contact](https://aapkaneta.org/contact/): Sampark
+
+## Rajya (har rajya ke MLA, Lok Sabha aur Rajya Sabha sadasya, jila → kshetra → neta kram me)
+
+- [Uttar Pradesh](https://aapkaneta.org/uttar-pradesh/)
+- [Madhya Pradesh](https://aapkaneta.org/madhya-pradesh/)
+- [Rajasthan](https://aapkaneta.org/rajasthan/)
+- [Gujarat](https://aapkaneta.org/gujarat/)
+- [Bihar](https://aapkaneta.org/bihar/)
+- [Delhi](https://aapkaneta.org/delhi/)
+- [Odisha](https://aapkaneta.org/odisha/)
+- [Himachal Pradesh](https://aapkaneta.org/himachal/)
+- [Jammu-Kashmir](https://aapkaneta.org/jammu-kashmir/)
+- [Assam](https://aapkaneta.org/assam/)
+- [Kerala](https://aapkaneta.org/kerala/)
+- [Tamil Nadu](https://aapkaneta.org/tamil-nadu/)
+- [Goa](https://aapkaneta.org/goa/)
+- [Manipur](https://aapkaneta.org/manipur/)
+- [Mizoram](https://aapkaneta.org/mizoram/)
+- [Nagaland](https://aapkaneta.org/nagaland/)
+- [Sikkim](https://aapkaneta.org/sikkim/)
+- [Meghalaya](https://aapkaneta.org/meghalaya/)
+- Maharashtra ke neta profiles homepage ke neta-khande se milte hain (jaise https://aapkaneta.org/neta/<slug>/)
+
+## Har neta ke profile par kya milta hai
+
+- Halafnama record: umr, shiksha, sampatti, deyndaari, aapradhik mamle (ECI/MyNeta aadharit)
+- Pichhle chunav se tulna: sampatti aur mamlo me badlaav
+- Kshetra ke kaam: satyaapit entries, har entry ke saath srot, tarih aur stage
+- Vidhayak/Sansad nidhi: yojana ka naam aur prati-kshetra aabantan (jahan aadhikarik aankde uplabdh hain)
+- Nakaratmak record (yadi hai): FIR/jaanch/mamle ki stage-sahit jaankari, neta ka jawab jahan uplabdh hai
+
+## Data srot aur niyam
+
+- Chunav halafname: Election Commission of India / MyNeta (ADR)
+- Kaam ki entries: sarkari portal/dastavej ya sthapit media (rashtriya/rajya-star) ki post-event reporting; bina srot ke koi entry nahi
+- Site poori tarah tatasth hai — kisi dal ya neta ka prachar ya virodh nahi; khaali profile ka matlab hai ki satyaapit record uplabdh nahi, ye koi aarop nahi hai
