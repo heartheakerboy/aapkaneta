@@ -1099,3 +1099,360 @@ uttarakhandWorks['prem-chand-aggarwal'] = [
 // brij-bhushan-gairola: zee24newslive/avikaluttarakhand/uttarakhandsamachar/bhaskarindialive(≠Dainik Bhaskar)/ravivardelhi (chhote portals — retry whitelist par); YouTube AK VAARTA/Fork Tales (YouTube-only); public.app Majri Grant vivaad (MLA aaropi nahi); Hindustan airport-vistarikaran ashwasan (sirf ashwasan); Amar Ujala Amrit Bharat Harrawala (kendriya, maujoodgi); Garhwal Post expressway pratikriya; uttarakhandsamachar Rahul-Gandhi putla/mukhya-atithi (samaroh). Namesake: Brij Bhushan Sharan Singh (ex-MP kushti case) — alag vyakti. Negative: koi FIR/janch nahi.
 // prem-chand-aggarwal: Bapugram Rs 10L / Pratitnagar Rs 32L / Haripur Kalan / Gumaniwala Rs 15L ghoshnaen (sirf ghoshna); Rishikesh corridor swagat-bayaan (sirf statement); CM shahri-vikas karyakram (MLA sirf maujood); CM samiksha-baithak maang (charcha); Budget 2025-26 prastuti (mantri-niyam); JMG News/devbhumi kesari (non-whitelist); newsdastak100 Maya Kund sadken (non-whitelist — retry whitelisted); AIIMS convocation (maujoodgi); beta Piyush par van-kharab/avaydh sadak (parivar mamla, MLA aaropi nahi); 'Pahadi' tippani vivad (bina FIR/janch); sankhnaad ~2021 (pre-term + non-whitelist); speaker-kaam gumaniwala (pre-term). Negative bana: road-rage FIR (upar).
 // ---- Dehradun district batch END (49 entries, negatives 2) ----
+// ---- Pauri Garhwal district batch (researched 2026-10-17) ----
+// 6 workers; coordinator-merged. Kul: 31 entries (dhan-singh-rawat 12, satpal-maharaj 11, ritu-khanduri-bhushan 4, daleep-singh-rawat 2, raj-kumar-pori 1, renu-bisht 1 dawa). Negatives: 0.
+
+uttarakhandWorks['dhan-singh-rawat'] = [
+  {
+    title: 'MLA ne Pabau block me Nautha-Buransi-Kulyani 7 km motor marg (lagbhag Rs 9.37 crore) aur Sainji-Kurgadkhal-Gwalkhada motor marg (Rs 96.13 lakh) ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/pabau-region-receives-the-gift-of-development-schemes-worth-crores-pauri-news-c-51-1-pri1001-116025-2026-10-14',
+    date: '2026-10-14',
+    note: 'Teen-divasiya kshetra bhraman ke antim din Pabau block (Sainji, Buransi, Jagteshwar, Nautha) me kul Rs 16.18 crore ki vikas yojnaon ka shilanyas-lokarpan hua; usi karyakram me dono sadkon ka vyaktigat shilanyas (Nautha-Buransi-Kulyani ka bhoomi pujan sahit). Fund: article me yojna-wise fund source disclosed nahi — sarkari vikas yojnaon ke tahat; MLA ki bhoomika shilanyas/lokarpan. Mantri ke roop me karyakram, lekin seat-stariya kaam.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'MLA ne RA Inter College Jagteshwar tak Rs 8.21 lakh ki interlocking tiles sadak ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/pabau-region-receives-the-gift-of-development-schemes-worth-crores-pauri-news-c-51-1-pri1001-116025-2026-10-14',
+    date: '2026-10-14',
+    note: 'Buransi mukhya marg se RA Inter College Jagteshwar tak bani interlocking tiles ka vyaktigat lokarpan; usi karyakram me school me Rs 23.80 lakh ke atirikt kaksh ka shilanyas bhi hua (alag entry). Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'MLA ne RA Inter College Jagteshwar me Rs 23.80 lakh ke atirikt kaksh ka shilanyas kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/pabau-region-receives-the-gift-of-development-schemes-worth-crores-pauri-news-c-51-1-pri1001-116025-2026-10-14',
+    date: '2026-10-14',
+    note: 'School me kaksh-vistar ka vyaktigat shilanyas; school pahunchne par chhatron ne swagat kiya aur sanskritik prastuti di. Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'MLA ne Buransi ke Patulya Pauranik mandir ke sthal vikas aur prachin Bindeshwar mandir ke Rs 3 lakh ke sthal vikas karya ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/pabau-region-receives-the-gift-of-development-schemes-worth-crores-pauri-news-c-51-1-pri1001-116025-2026-10-14',
+    date: '2026-10-14',
+    note: 'Kshetra ki dharmik-sanskritik virasat ke sanrakshan ke liye dono mandir sthalon ka vyaktigat shilanyas; usi daure me Sainji-Chaulusain, GIC va Chaplodi-Faldadi sadak sudharyikaran karya bhi shamil the. Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'MLA ne Khirsu block me Kanda Rampur Shiv mandir parisar (Rs 4 lakh: bench, rain-basera, sthal vikas) aur Devalgarh Rajarajeshwari mandir ke paas sadak-se-gufa marg va saundaryikaran (Rs 28.89 lakh) ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/minister-laid-the-foundation-stone-and-inaugurated-the-schemes-shrinagar-news-c-5-1-gkp1010-590405-2025-01-09',
+    date: '2025-01-09',
+    note: 'Khirsu block ke Kanda Rampur, Devalgarh, Bhatoli, Sarana gaon ke bhraman ke dauran vyaktigat shilanyas; usi daure me BJP sadasyata abhiyan bhi chala (rajnaitik gatividhi — kaam nahi). Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'MLA ne Bhatoli gaon me Rs 10 lakh ke panchayat bhawan ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/minister-laid-the-foundation-stone-and-inaugurated-the-schemes-shrinagar-news-c-5-1-gkp1010-590405-2025-01-09',
+    date: '2025-01-09',
+    note: 'Khirsu block bhraman ke dauran panchayat bhawan ka vyaktigat lokarpan. Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'MLA ne Sarana gaon ki Rs 13.69 lakh ki sadak ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/minister-laid-the-foundation-stone-and-inaugurated-the-schemes-shrinagar-news-c-5-1-gkp1010-590405-2025-01-09',
+    date: '2025-01-09',
+    note: 'Taiyaar Sarana gaon sadak ka vyaktigat lokarpan (Khirsu block bhraman). Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'MLA ne Srinagar ke RA Inter College Sweet me Rs 22.68 lakh ke computer kaksh ka shilanyas kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/minister-laid-the-foundation-stone-of-the-girls-hostel-shrinagar-news-c-53-1-sri1002-117630-2025-10-16',
+    date: '2025-10-16',
+    note: 'Nagar nigam kshetra ke RA Inter College Sweet me computer kaksh ka vyaktigat shilanyas; mantri ke roop me kiya gaya lekin seat-stariya school ka kaam. Usi avsar par rajkiya medical college ke balika chhatrawas (Rs 701.65 lakh, rajya yojna 2024-25) ka shilanyas bhi hua — jo mantri-niyam ke tahat entry nahi bana (medical college vibhagiya pariyojna). Fund source article me disclosed nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'MLA ne Pabau block me Rs 5.70 crore ki 39 vikas yojnaon ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/uttarakhand/pauri/video-pauri-cabinet-minister-dhan-singh-rawat-laid-the-foundation-stone-of-39-schemes-worth-rs-570-crore-in-pabau-2026-02-16',
+    date: '2026-02-16',
+    note: 'Khudeshwar maidan, Pabau me somvaar ko shilanyas (post-event video report, 16 Feb 2026). Article me yojna-wise suchi aur fund source disclosed nahi. Surang-nirman wali baat sirf bayan thi (sarvasammati par nirbhar) — kaam nahi, entry me shamil nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'MLA ki ore se Dungripath-Chantikhal-Kherakhal 8 km marg ke damrikaran va sudharyikaran ke liye Rs 15.90 crore ka budget swikrit hua; PWD ne kaam shuru kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/the-journey-between-srinagar-and-rudraprayag-will-be-easy-the-dungripath-kherakhal-road-will-be-made-shiny-shrinagar-news-c-53-1-sri1002-119595-2026-01-13',
+    date: '2026-01-13',
+    note: 'Amar Ujala (13 Jan 2026) ke anusar cabinet mantri Dr Dhan Singh Rawat ki ore se Sep 2025 me Rs 1589.54 lakh (lagbhag Rs 15.90 crore) ka budget swikrit hua; LoNiVi Srinagar ke EE ke anusar sudharyikaran kaam shuru ho gaya hai — pehle charan me scupper nirman, phir chaudikaran va damrikaran. Credit capped: MLA ki bhoomika budget swikriti; nirman PWD dwara. Yah vaikalpik marg hai (Sirohbagad/Farasu bhuskhalan par), Srinagar-Khirsu-Rudraprayag kshetra ko labh.',
+    period: '2022-2027',
+    stage: 'swikriti'
+  },
+  {
+    title: 'CM Dhami ne MLA ki maang par Srinagar me roz 15 ghante peyajal va poore nagar nigam kshetra me sewer line ke liye DPR milte hi tatkaal swikriti ka sarvajanik aashwasan diya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/dehradun/srinagar-cm-dhami-said-cooperation-is-a-medium-to-connect-the-society-and-move-towards-self-reliance-2025-10-13',
+    date: '2025-10-13',
+    note: 'Srinagar ke sahkarita mele me CM Pushkar Singh Dhami ne cabinet mantri/MLA Dr Dhan Singh Rawat ki maang ke anuroop sarvajanik aashwasan diya: purani peyajal lines badalkar nayi pipeline se 15 ghante roz paani aur nagar nigam ke poore kshetra me sewer line — DPR milte hi tatkaal swikriti. Credit capped: yah aashwasan hai, swikriti ya kaam shuru hona nahi.',
+    period: '2022-2027'
+  },
+  {
+    title: 'MLA ne Farasu me Rs 90 lakh ki lift sinchai yojna ka shilanyas kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/srinagar/story-dr-dhans-singh-rawat-unveils-113-crore-development-projects-in-farasu-201765110954947.html',
+    date: '2025-12-07',
+    note: 'Do-divasiya vidhansabha bhraman ke dauran Farasu me lift sinchai yojna ka vyaktigat shilanyas; nirman Laghu Daal Khand Srinagar dwara; pehle Sweet me pumping yojna swikrit hui thi. Article ki "Rs 113 crore ki saugaat" headline mantri ka samagra dawa hai — entry kewal pusht shilanyas tak seemit. Isi daure me Sweet ke railway-prabhavit 181 logon ko Rs 1.41 crore muavza-cheque vitran hua jo kendriya railway pariyojna ka vaidhanik muavza hai, MLA ka kaam nahi — entry nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+];
+
+uttarakhandWorks['raj-kumar-pori'] = [
+  {
+    title: 'Vikas Khand Pauri me Kyark-Bamthi motor marg ka lokarpan aur Kothar-Molkhandi motor marg ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan, 13 Apr 2026',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/dehradun/story-pauri-mla-rajkumar-pori-inaugurates-roads-focuses-on-infrastructure-development-201776074581079.html',
+    date: '2026-04-13',
+    note: 'MLA ne sarkari karyon ka vyaktigat lokarpan aur shilanyas kiya: Kyark-Bamthi motor marg ka lokarpan (purna karya) aur Kothar-Molkhandi motor marg ka shilanyas (nirman shuru hone wala). Article me in sadkon ke liye fund-srot ya lagat-rashi disclosed nahi hai; shrey MLA dwara kiye gaye udghatan/shilanyas tak seemit hai. MLA ka kaha: prathmikta purani sadkon ka damrikaran aur har gaon tak sadak. Post-event reporting hai, karyakaal Mar 2022+ ke andar.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['renu-bisht'] = [
+  {
+    title: 'MLA ka dawa — Rajya mela Gendi Kauthig sthal Thalnadi ki sadak par interlocking tile aur Khobra motor marg par damrikaran karwaya gaya',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/rishikesh/story-yamkeshwar-uday-mela-promotes-self-reliance-and-government-schemes-201790083273534.html',
+    date: '2026-09-22',
+    note: 'Yamkeshwar Uday Mela (Kasyali) ke manch se MLA Renu Bisht ka dawa: rajya mela Gendi Kauthig ke sthal Thalnadi ki sadak par interlocking tile ka kaam karwaya gaya aur Khobra motor marg par damrikaran karwaya gaya — donon kaam poora hone ka dawa, mele ke dauraan graminon ki suvidha ke liye. Ye keval MLA ka dawa hai; kaam ki koi swatantra sarkari ya media pushti report me nahi hai, aur fund (Vidhayak Nidhi ya koi anya) disclosed nahi hai — Vidhayak Nidhi se hone ka koi dastavej source me nahi. Post-event reporting: mela 22 Sep 2026 ko (mangalwar) hua, report usi shaam prakashit (date page metadata se pramanit).',
+    period: '2022-2027'
+  },
+];
+
+uttarakhandWorks['ritu-khanduri-bhushan'] = [
+  {
+    title: 'MLA ne punarnirmit Malan pul ka vyaktigat lokarpan kiya — pooja-archana aur ribbon kaatkar Kotdwar-Bhabar marg par vahan aavaagaman shuru karaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/dehradun/kotdwar-news-assembly-speaker-ritu-khanduri-inaugurated-malan-bridge-vehicular-movement-started-2025-05-26',
+    date: '2025-05-26',
+    note: '2023 ki baadh me kshatigrast Malan pul ka PWD dwara punarnirman (PTI report ke mutabik Rs 26 crore se adhik ki sarkari laagat) poora hone par MLA ka vyaktigat lokarpan; CM Dhami karyakram me nahi aa sake, unhone Janta Inter College se virtual sambodhan diya. PTI report ke mutabik CM ne sarvajanik roop se pul ke punarnirman ke liye MLA ke do saal ke prayason ki sarahna ki. Fund: rajya sarkar (PWD) — shrey sarkar ko; MLA ki bhoomika lokarpan + prayas (shrey capped).',
+    period: '2022-2027',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'MLA ne Kanvashram, Kotdwar me Chakravarti Samrat Maharaj Bharat ki bhavya murti ka vidhivat udghatan karke jansamarpit kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/uttarakhand/kotdwar/video-magnificent-statue-of-emperor-bharat-was-formally-inaugurated-at-kanvashram-in-kotdwar-2026-01-23',
+    date: '2026-01-23',
+    note: 'CM Pushkar Singh Dhami ki ghoshna ke antargat "Maharaj Bharat ki murti sthapna evam manch nirman karya" — lagbhag Rs 79.74 lakh ki laagat se nirmit; Basant Panchami par MLA ka vyaktigat lokarpan, CM ne video sandesh diya. Saath me selfie point aur paryatak chitrakala bhi vikasit. Fund: rajya sarkar (CM ghoshna) — shrey sarkar ko, MLA ki bhoomika lokarpan (shrey capped).',
+    period: '2022-2027',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'MLA ke prayason se Kotdwar depot ke karyalaya aur bus adde ke liye shasan ne lagbhag Rs 10 crore jaari kiye — March 2024 me shilanyas, kaam antim charan me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/uttarakhand/pauri-garhwal-kotdwar-bus-stand-78year-wait-ends-for-uttarakhand-depot-40407042.html',
+    date: '2026-10-16',
+    note: '1948 me khule Uttarakhand Parivahan Nigam ke Kotdwar depot ko 78 saal tak apna bus adda nahi tha. Jagran ke mutabik kshetriya vidhayak Ritu Khanduri Bhushan ke prayason se shasan ne depot karyalaya aur bus adde ke nirman ke liye kareeb Rs 10 crore jaari kiye; March 2024 me shilanyas hua; naya bhawan bankar karyalaya shift ho gaya hai aur platform ka kaam antim charan me hai. Shrey shasan ko — dhanrashi shasan ne jaari ki; MLA ki bhoomika prayas tak seemit (shrey capped).',
+    period: '2022-2027',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Kotdwar seat par Vidhayak Nidhi se chaar saalon me 549 yojnaon ke liye Rs 18.73 crore swikrit — 353 kaam poore, 196 pragati par',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/kotdwar-mla-ritu-khanduri-mla-fund-18-73-crore-approved-in-four-years-353-of-549-development-works-completed-2026-10-07',
+    date: '2026-10-07',
+    note: 'Amar Ujala ki varsh-vaar report: FY 2022-23 me Rs 3.75 crore mili (171 karya swikrit, 157 poore); FY 2023-24 me Rs 5 crore (126 karya, 89 poore); FY 2024-25 me Rs 5 crore (133 karya, Rs 4.98 crore swikrit, 59 poore); FY 2025-26 me Rs 5 crore (119 karya, 48 poore). Nidhi se school sudridhikaran, furniture, sinchai gool, suraksha deewar, sampark marg, interlocking marg, mandir parisar saundaryikaran jaise kaam swikrit hue. Fund disclosure: Vidhayak Nidhi aadhikarik roop se FY 2023-24 se Rs 5 crore/seat/saal hai (FY 2022-23 me Rs 3.75 crore); jila-star ke asal aavantan record me lagbhag Rs 4.90 crore/saal darj hai — report ke aankde sarkari aavantan-patra ke anusaar hain.',
+    period: '2022-2027',
+    stage: 'swikriti'
+  },
+];
+
+uttarakhandWorks['daleep-singh-rawat'] = [
+  {
+    title: 'Lansdowne MLA Daleep Singh Rawat ne Jaiharkhal ke Bhitara Malla gaon ke liye jila yojana se swikrit 5 km sadak ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/state-government-is-determined-for-the-development-of-the-area-dilip-rawat-kotdwar-news-c-5-1-gkp1010-604781-2025-01-27',
+    date: '2025-01-27',
+    note: 'Jaiharkhal block ke Kaudiya patti, gram sabha Garhkot ke Bhitara Malla gaon tak 5 km sadak; shilanyas Satpuli-Chai motor marg par hue karyakram me pooja-archana ke saath vyaktigat roop se kiya. Fund: jila yojana (district plan) — Rs 20 lakh ki laagat se swikrit. Shrey disclosed: sadak ka kaam jila yojana ka hai, MLA ki bhoomika vyaktigat shilanyas tak seemit. Usi report me Jaiharkhal ke Sakmunda me jheel ki swikriti ka ullekh hai, lekin uske liye koi fund ya kaam-shuru ka byora nahi diya gaya — isliye entry me shamil nahi.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Lansdowne me Vidhayak Nidhi se 4 saalon me 795 vikas karya swikrit, Rs 14.97 crore kharch — 521 kaam poore, 274 pragati par',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/lansdowne-mla-dilip-rawat-spends-14-97-crore-of-18-75-crore-mla-fund-521-of-795-works-completed-2026-10-13',
+    date: '2026-10-13',
+    note: 'Amar Ujala ki report ke mutabik 2012 se lagatar teesri baar vidhayak Daleep Singh Rawat ko pichhle 4 saalon me kul Rs 18.75 crore Vidhayak Nidhi mili; Rs 14.97 crore kharch, 795 karya swikrit, 521 poore, 274 pragati par. FY-wise: 2022-23 — Rs 3.75 crore me 199 karya swikrit (177 poore, 22 pragati par, 80% kharch); 2023-24 — Rs 5 crore me Rs 4.71 crore ke 230 karya (184 poore, 46 pragati par, 79%); 2024-25 — Rs 5 crore me Rs 4.65 crore ke 187 karya (123 poore, 64 pragati par, 82%); 2025-26 — Rs 5 crore me Rs 4.60 crore ke 179 karya (37 poore, 142 pragati par, 78%). MLA ke mutabik adhiktar karya school, college, chhote sampark marg aur saundaryikaran ke hain; ek sthaniya aalochak (Vikrant Khantwal, Sisaldi) ne nidhi ke chhote samanon tak seemit hone ka aarop lagaya — report me chhapa. Aadhikarik Vidhayak Nidhi FY 2023-24 se Rs 5 crore/seat/saal hai (FY 2022-23 me Rs 3.75 crore); jila aankdon me asal aavantan lagbhag Rs 4.90 crore/saal darj hai.',
+    period: '2022-2027',
+    stage: 'swikriti'
+  },
+];
+
+uttarakhandWorks['satpal-maharaj'] = [
+  {
+    title: 'Pokhra vikas khand me lagbhag Rs 4 crore ki vikas yojnaon ka shilanyas kiya',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Akashvani News, 6 Aug 2024',
+    sourceUrl: 'https://newsonair.gov.in/hi/%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8-%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80-%e0%a4%b8%e0%a4%a4%e0%a5%aa%e0%a4%be%e0%a4%b2/',
+    date: '2024-08-06',
+    note: 'Lok Nirman mantri aur Chaubattakhal MLA ke roop me Pokhra vikas khand me lagbhag Rs 4 crore ki vikas yojnaon ka vyaktigat shilanyas; karyakram me lokparv Harela ke tahat vriksharopan bhi kiya. Sarkari portal (Akashvani) ki report me yojnaon ka itemized vivran nahi hai. ETV Bharat (non-whitelisted) ke anusaar isi karyakram me Rs 338.82 lakh ke block karyalaya bhavan ka lokarpan aur Rs 60 lakh ke Type-3 bhavanon ka shilanyas bhi hua tha — iski pushti whitelisted source se nahi mili. Status: shilanyas.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Sendhar aur Bironkhal me 8 motor margon ke sudhar, vistar aur marammat karyon ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 17 Dec 2024',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/all-round-development-happening-under-the-leadership-of-pm-and-cm-satpal-maharaj-kotdwar-news-c-5-1-gkp1010-572501-2024-12-17',
+    date: '2024-12-17',
+    note: 'Rajkiya Inter College Sendhar aur Rajkiya Inter College Bironkhal me aayojit do karyakramon me kul Rs 19,42,71,000 ki yojnaon ka shilanyas-lokarpan; inme ye 8 sadak karya lokarpit hue: Bharoli-Maithana marg marammat Rs 30.35 lakh (PMGSY se PWD ko hastantarit), Bedikhal-Chorkhinda Rs 73.60 lakh, Bedikhal-Bhorad Rs 61.69 lakh, Kasani-Dheswani Rs 339.76 lakh, Bedikhal-Bharolikhal-Aroli marg ka Chandoli tak vistarikaran (dwitiya charan stage-1) Rs 133.58 lakh (rajya yojna), Bironkhal-Dumaila Talla-Bhamraikhal-Pakholi-Dunav Rs 133.17 lakh, Maithana-Ghansyali Rs 72.31 lakh, Jamri-Talai-Khatlagad-Mahadev sudharikaran-damrikaran Rs 139.36 lakh (rajya yojna). Sabhi karya Chaubattakhal seat ke andar; vyaktigat lokarpan. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bironkhal me swatantrata senani Jeet Singh Garhwali ki murti ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 17 Dec 2024',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/all-round-development-happening-under-the-leadership-of-pm-and-cm-satpal-maharaj-kotdwar-news-c-5-1-gkp1010-572501-2024-12-17',
+    date: '2024-12-17',
+    note: 'Upar wale karyakram me hi Bironkhal me swatantrata senani Jeet Singh Garhwali ki murti ka vyaktigat lokarpan kiya. Lagat article me darj nahi. Status: lokarpan.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Pokhra block ki 4 gram panchayaton aur Ekeshwar ke Danda Malla me panchayat bhavanon ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 26 Dec 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/in-chaubattakhal-projects-worth-26-crore-rupees-were-inaugurated-and-their-foundation-stones-were-laid-pauri-news-c-49-1-sdrn1007-120696-2025-12-26',
+    date: '2025-12-26',
+    note: 'Kul Rs 26 crore / 18 yojnaon ke lokarpan-shilanyas karyakram me Pokhra vikas khand ki gram panchayat Veenadhar, Kameri, Devrani, Aslot aur Ekeshwar vikas khand ki gram panchayat Danda Malla ke panchayat bhavanon ka vyaktigat lokarpan kiya. Article me lagat "50 lakh" (Pokhra ke 4 bhavan) aur "10 lakh" (Danda Malla) darj hai — kul ya prati-bhavan, ye spasht nahi. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Devaradi gram Malli (Pokhra) me Rs 136.94 lakh ki sprinkler-adharit lift sinchai yojna ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 26 Dec 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/in-chaubattakhal-projects-worth-26-crore-rupees-were-inaugurated-and-their-foundation-stones-were-laid-pauri-news-c-49-1-sdrn1007-120696-2025-12-26',
+    date: '2025-12-26',
+    note: 'Pokhra vikas khand ke Devaradi gram Malli me Rs 136.94 lakh lagat se banne wali sprinkler pranali adharit lift sinchai yojna ka vyaktigat shilanyas kiya. Fund/vibhag article me specify nahi. Status: shilanyas (nirmaan shuru hona).',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Pakhri (Ekeshwar) me Rs 120 lakh ki solar on-grid lift sinchai yojna ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 26 Dec 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/in-chaubattakhal-projects-worth-26-crore-rupees-were-inaugurated-and-their-foundation-stones-were-laid-pauri-news-c-49-1-sdrn1007-120696-2025-12-26',
+    date: '2025-12-26',
+    note: 'Ekeshwar vikas khand ke gram Pakhri me Rs 120 lakh ki dhanrashi se bani solar on-grid adharit lift sinchai yojna ke navnirman ka vyaktigat lokarpan kiya. Fund/vibhag article me specify nahi. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dadakhel se Kui tak 3 km Damdeval gramin motor marg (Rs 887.92 lakh, stage-1) ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 26 Dec 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/in-chaubattakhal-projects-worth-26-crore-rupees-were-inaugurated-and-their-foundation-stones-were-laid-pauri-news-c-49-1-sdrn1007-120696-2025-12-26',
+    date: '2025-12-26',
+    note: 'Rs 887.92 lakh ki lagat se nirmit Pokhra vikas khand ke 3 km Damdeval motor marg par Dadakhel se gram Kui tak gramin motor marg nirmaan karya (stage-1) ka vyaktigat lokarpan kiya. Karya Chaubattakhal seat ke andar hai; PWD mantri ke roop me vibhag unka hai lekin udghatan kshetra-star ka vyaktigat hai. Fund-mad article me specify nahi. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Chaubattakhal-Kui-Danta marg se Ulkhait tok ke Majgaon (SC) tak gramin motor marg (Rs 212.35 lakh) ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 26 Dec 2025',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pauri/in-chaubattakhal-projects-worth-26-crore-rupees-were-inaugurated-and-their-foundation-stones-were-laid-pauri-news-c-49-1-sdrn1007-120696-2025-12-26',
+    date: '2025-12-26',
+    note: 'Rs 212.35 lakh ki lagat se nirmit Chaubattakhal-Kui-Danta motor marg se Ulkhait tok ke Majgaon (anusuchit jati basti) tak gramin motor marg nirmaan ka vyaktigat lokarpan kiya. Fund-mad article me specify nahi. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rasiya Mahadev me Rs 3.88 crore lagat se bane paryatak guest house ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 6 Oct 2026',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/several-development-schemes-in-bironkhal-gain-momentum-maharaj-kotdwar-news-c-49-1-sdrn1007-127133-2026-10-06',
+    date: '2026-10-06',
+    note: 'Bironkhal kshetra ke Rasiya Mahadev me Rs 3.88 crore ki lagat se bane paryatak guest house (TRH) ka vyaktigat lokarpan kiya. Paryatan vibhag mantri ke roop me unka vibhag hai, lekin karya unki Chaubattakhal seat ke andar hai. Isi karyakram me kai yojnaon ke shilanyas ka bhi zikr hai, jinka itemized vivran article me nahi hai. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bijorapani-Kunjkhal-Kolakhal-Jaikot 8 km gramin motor marg (Rs 275.63 lakh) ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 7 Oct 2026',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/maharaj-laid-the-foundation-stones-for-projects-in-pokhra-and-jayharikhal-kotdwar-news-c-49-1-sdrn1007-127168-2026-10-07',
+    date: '2026-10-07',
+    note: 'Pokhra vikas khand me Rs 2,75,63,000 ki lagat se nirmit Bijorapani-Kunjkhal-Kolakhal-Jaikot marg par 8 km (gram Chinwadi tak) gramin motor marg ka vyaktigat lokarpan kiya. Kshetra-bhraman ke dauraan Kolakhal me bahuuddeshiya shivir me jansamasyaen bhi suni. Status: lokarpan (purna karya).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jaiharikhal ke Gherua me Rs 70.75 lakh ke link marg sudridhikaran aur 2.85 km Gherua-Gujarkhand-Malana motor marg (Rs 93.17 lakh) ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala, 7 Oct 2026',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/kotdwar/maharaj-laid-the-foundation-stones-for-projects-in-pokhra-and-jayharikhal-kotdwar-news-c-49-1-sdrn1007-127168-2026-10-07',
+    date: '2026-10-07',
+    note: 'Jaiharikhal vikas khand ke Gherua me Rs 70.75 lakh ke link marg sudridhikaran karya aur Rs 93.17 lakh lagat se 2.85 km lambe Gherua-Gujarkhand-Malana motor marg ka vyaktigat shilanyas kiya. Status: shilanyas (nirmaan shuru hona).',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+];
+// ---- REJECT-LOG (Pauri Garhwal, 6/13) ----
+// dhan-singh-rawat (Srinagar): Medical college girls hostel Rs 701.65L shilanyas (mantri-vibhagiya, reject); Base Hospital Shrikot critical-care block Rs 18.80cr (pre-event, reject — retry post-event); 3 helipad prastav (reject); Thalisain aapda-daura (nirikshan, reject); Tarakund vaade (ghoshna, reject); Pabau 39-schemes wala Rs 5.70cr shilanyas ENTRY bana; farasu railway muavza Rs 1.41cr (kendriya vaidhanik muavza, reject); CM Rs 20.79cr swikriti (MLA ka kaam nahi, reject); Kirtinagar peyajal (dusri seat, reject); pre-term 2019 items (reject); Rs 70cr Pabau event Jan 2024 (non-whitelist — retry whitelisted); Pabau-Paithani/Sep2023/Dec2023 daura items (garhwalpost — retry); dialysis dharna/BJP-vs-doctor bayan (rajnaitik, koi FIR nahi — negative nahi); barish-control viral video / PhD sawal (bayan-vivad, negative nahi); Rajasthan Dhan Singh Rawat 2018 FIR (namesake, doosra rajya — reject). MyNeta/Oneindia: 0 criminal cases.
+// raj-kumar-pori (Pauri): chhote portals (citylivetoday, himtungvaani, devbhoomisamvad, cobranewsuk, khabaruttarakhand, garhwalpost, uttarakhandhimalaya, loksamvadtoday-blogspot) par kai sadak-shilanyas items — non-whitelist (retry whitelisted par); Baikunth Chaturdashi mela / football final / Jai Kandolia Mahotsav mukhya-atithi (samaroh, reject); livehindustan CM-ghoshna jaankari (ghoshna-class, reject); Vishwa Paryatan Diwas flag-off (ceremonial, reject); British-remark video (remark only, reject); Vidhansabha prashn pumping-yojana (sirf maang, reject). Mazar tin-shed vivad (Vidhayak Nidhi Rs 2L, VHP virodh) — established-media coverage nahi, FIR/janch nahi — negative nahi (watch). Purola namesake "Rajkumar" alag vyakti — trap avoided.
+// renu-bisht (Yamkeshwar): Ankita Bhandari / Vanantra resort demolition allegation — koi FIR nahi, koi adhikari-pusht janch nahi, chargesheet me co-accused nahi, HC ne non-attribution accept kiya, MLA ka inkaar TOI me on-record — negative NAHI (retry: CBI Jan 2026 janch me FIR/officer-confirmed development aaye to); Telegraph Dec 2023 JCB-driver testimony (non-whitelist); Naudkhal-Jhaid sadak-nirast aarop (sangathan ka aarop, koi FIR/janch nahi — negative nahi); Congress gherao (protest, negative nahi); ETV 44% kharch (kam kharch apradh nahi). Works reject: Singtali bridge bhoomi-pujan maang (sirf maang); KV maang (sirf maang); Inter College bhavan udghatan CM ne (sirf maang); mini-stadium ghoshna CM ne (MLA maujood); medical camp/bahuddeshiya shivir (free camp + sarkari abhiyan); FB-post vivaad (rajnaitik); dharmik samaroh (samaroh); KV pre-event/ghoshna.
+// ritu-khanduri-bhushan (Kotdwar): Speaker-pad sadan-gat faisle sab bahar; Malan-pul bhoomi-pujan Mar 2024 (ETV — retry); KSB pump press-release (retry); KV udghatan Jul 2025 (garhwalpost — retry); KV pre-event/ghoshna (reject); bus flag-off 16 Jun 2026 (non-whitelist — retry); Bhawar tubewells / Balashod tubewell-YouTube (retry whitelisted); ADB peyjal nirikshan (nirikshan, reject); school furniture / yatri sheds / ADB briefing (non-whitelist — retry); public gyms/computers (CSR mukhya-atithi, reject); free meal service (daan, reject); students felicitation / school annual function / book unveiling (samaroh, reject); vikas baithak (baithak, reject). Vidhan Sabha recruitment vivaad Sep 2022 (aarop poorv Speaker par; MLA aaropi nahi — negative nahi); Congress isteefa-maang Mar 2025 (rajnaitik, negative nahi). Halafname: 0 criminal cases.
+// daleep-singh-rawat (Lansdowne): rename-virodh letter (sirf maang, reject); tiger-attack isteefa-dhamki (non-whitelist + bayan, reject); 2019 MCC FIR (pre-term, halafname me charges framed nahi — negative nahi); ETV waterfall "vikas" (non-whitelist + sirf prayas, reject); CM Rs 90cr Dec 2021 event (pre-term + CM ka karyakram, reject); YouTube Parsoli claims (YouTube-only, reject); 2022 morcha/khabaruttarakhand bayan (pre-term/rajnaitik, reject); Congress resignation-advice (vipakshi aarop, negative nahi). Namesake checks: Dhan Singh Rawat items alag rakhe. MLA ka bayan vs official: backgroundNote me naam-variant sentence joda gaya.
+// satpal-maharaj (Chaubattakhal): PMGSY 11-road Rs 104.80cr swikriti (ghoshna + kendriya, reject); GGIC science ghoshna (reject); Barsund pumping Rs 29.83cr dawa (sanction-info only, reject); Oct-2026 bhashan dawe (1.33cr classrooms, 13cr road, sinchai — bina itemization, reject); check vitran/ABVP samman (samaroh, reject); ETV "CM aadesh avhelna" (non-whitelist, koi FIR nahi — negative nahi); Kedarnath gold vivad (khud commissioner janch baithai, khud aaropi nahi, koi FIR nahi — negative nahi); WPMS/292/2022 (chunav-yachika + pre-term, reject); Dinesh Pratap Singh vs ED (namesake, reject); Dehradun ring road PWD nirdesh (state-level mantri-kaam, reject); Manav Utthan Samiti karyakram (dhaarmik, reject); garhwalpost 64cr event / classrooms Dec 2024 (non-whitelist — retry); Jan 2021 93cr ghoshna (pre-term, reject).

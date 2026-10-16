@@ -1125,7 +1125,7 @@ export const uttarakhandNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=96',
       backgroundNote: 'MyNeta par DHAN SINGH RAWAT (Winner), SRINAGAR, BJP — naam, seat aur party match. Umr 52, PhD (HNB Garhwal, 2006), pesha mantri. Koi criminal case nahi. Sampatti Rs 2.67 crore, deaya koi nahi.',
     },
-    electionNote: '2022 Vidhan Sabha chunav me Srinagar se BJP ke ticket par jeete: 29,618 votes. Runner-up Ganesh Godiyal (INC) — 29,031 votes. Margin 587. 2022 me Srinagar (Gen) se BJP ticket par jeete — sirf 587 vote ka antar, Group B ka sabse najdeeki mukabla. Party change koi nahi. Dhami mantrimandal me cabinet mantri hain.',
+    electionNote: '2022 Vidhan Sabha chunav me Srinagar se BJP ke ticket par jeete: 29,618 votes. Runner-up Ganesh Godiyal (INC) — 29,031 votes. Margin 587. 2022 me Srinagar (Gen) se BJP ticket par jeete — sirf 587 vote ka antar, Group B ka sabse najdeeki mukabla. Party change koi nahi. Dhami mantrimandal me cabinet mantri hain — portfolio: Swasthya, Chikitsa Shiksha, School Shiksha, Uchch Shiksha, Sahkarita, Aapda Prabandhan, Dairy Vikas aur Protocol (Amar Ujala aur Hindustan ki reporton me inhi padon se ullekh).',
   },
   {
     slug: 'satpal-maharaj',
@@ -1154,7 +1154,7 @@ export const uttarakhandNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=165',
       backgroundNote: 'MyNeta par SATPAL MAHARAJ (Winner), CHAUBATTAKHAL, BJP — naam, seat aur party match. Umr 70, 12th pass (St. George\'s Mussoorie, 1969), pesha kheti, poorv sansad/MLA aur cabinet mantri. Koi criminal case nahi. Sampatti Rs 87.34 crore — Group B me sabse adhik.',
     },
-    electionNote: '2022 Vidhan Sabha chunav me Chaubattakhal se BJP ke ticket par jeete: 24,927 votes. Runner-up Kesar Singh Rawat (INC) — 13,497 votes. Margin 11,430. 2022 me Chaubattakhal (Gen) se BJP ticket par jeete, 11,430 vote ke antar se. Runner-up ke naam me antar hai — ek suchi me Kesar Singh Negi, doosri me Kesar Singh Rawat (INC). Dhami mantrimandal me cabinet mantri hain.',
+    electionNote: '2022 Vidhan Sabha chunav me Chaubattakhal se BJP ke ticket par jeete: 24,927 votes. Runner-up Kesar Singh Rawat (INC) — 13,497 votes. Margin 11,430. 2022 me Chaubattakhal (Gen) se BJP ticket par jeete, 11,430 vote ke antar se. Runner-up ke naam me antar hai — ek suchi me Kesar Singh Negi, doosri me Kesar Singh Rawat (INC). Dhami mantrimandal me cabinet mantri hain — portfolio: Lok Nirman (PWD), Paryatan aur Sinchai (Amar Ujala, 17 Dec 2024 ki report).',
   },
   {
     slug: 'daleep-singh-rawat',
@@ -1181,7 +1181,7 @@ export const uttarakhandNetas: Neta[] = [
       assets: 'Rs 1,90,27,193',
       liabilities: 'Rs 29,30,722',
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=142',
-      backgroundNote: 'MyNeta par DALEEP SINGH RAWAT (Winner), LANSDOWNE, BJP — naam, seat aur party match. Umr 54, Graduate (Garhwal University 1989-90), pesha MLA. 2 criminal cases (IPC 188/RP Act, pending). Sampatti Rs 1.90 crore, deaya Rs 29.30 lakh. Sarkari assembly site par naam \'Dileep Singh Rawat\' dikhta hai — spelling antar.',
+      backgroundNote: 'MyNeta par DALEEP SINGH RAWAT (Winner), LANSDOWNE, BJP — naam, seat aur party match. Umr 54, Graduate (Garhwal University 1989-90), pesha MLA. 2 criminal cases (IPC 188/RP Act, pending). Sampatti Rs 1.90 crore, deaya Rs 29.30 lakh. Sarkari assembly site par naam \'Dileep Singh Rawat\' dikhta hai — spelling antar. Media reports me naam \'Dilip Singh Rawat\' / \'Mahant Dilip Singh Rawat\' ke roop me bhi aata hai — ye sab Lansdowne ke BJP MLA hi hain (Amar Ujala, 13 Oct 2026 ke anusaar 2012 se lagatar teesri baar vidhayak).',
     },
     electionNote: '2022 Vidhan Sabha chunav me Lansdowne se BJP ke ticket par jeete: 24,504 votes. Runner-up Anukriti Gusain (INC) — 14,636 votes. Margin 9,868. 2022 me Lansdowne (Gen) se BJP ticket par jeete, 9,868 vote ke antar se. Party change koi nahi.',
   },
