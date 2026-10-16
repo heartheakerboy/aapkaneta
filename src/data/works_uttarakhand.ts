@@ -2353,3 +2353,237 @@ uttarakhandWorks['khushal-singh-adhikari'] = [
 // 14. Lohaghat Youth Congress Dhami-virodh — rajnaitik virodh, FIR/janch ke bina negative nahi.
 
 // FOUNDATION EDIT: koi nahi — electionNote count 70 pehle aur baad me verify karna hai.
+
+// ---- Nainital district batch (researched 2026-10-17) ----
+// COORDINATOR QA (2026-10-17): Bhagat worker-note ka English vaakya Roman-Hinglish me kiya; Sarita Arya entry me stage joda; Kaira/Diwan ke 'shubharambh'/'bhumi-pujan' stage file-convention ('shilanyas'/'bhoomi-poojan') me map kiye; Diwan entry-1 'Shubharambh' -> 'lokarpan' (article headline me inauguration tha); Mohan Singh Bisht entry-2 ki date me inferred-caveat note me joda. Sab dates jo metadata se nikali gayi hain, unke note me caveat darj hai.
+
+uttarakhandWorks['mohan-singh-bisht'] = [
+  {
+    title: 'Vidhayak Dr. Mohan Singh Bisht ne Lal Kuan me Rs 3.36 crore ki sadkon ka shilanyas aur lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Live Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-dr-mohan-singh-bisht-launches-development-projects-worth-3-36-crores-in-lal-kuan-201762526106702.html',
+    date: '2025-11-07',
+    note: 'Rajya yojana ke tahat karyakram: shilanyas — Dumka Bangar (Aashirvad Complex se Jaggi Bangar tak) aur Tularampur Evergreen School se Amba Vihar tak sadak nirmaan, plus 1600 meter lambi sarvajanik sadak; lokarpan — Haripur Shivdutt damarikaran (Haripur Shivdutt ko Himmatpur Motahaldu aur Halduchaur se jodne wala mahatvapurna marg), Haripur Shivdutt ki Yawat Colony marg par sadak nirmaan, aur Gorapadao mukhya chauraha se Gaulagate tak CC marg. Mishrit karyakram tha (shilanyas + lokarpan dono), isliye stage field nahi rakha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sansad Ajay Bhatt aur Vidhayak Mohan Bisht ne Chorgalia road ke chaudikaran ka sanyukt shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/nainital/widening-of-chorgalia-road-begins-haldwani-news-c-337-1-hld1039-121865-2025-05-16',
+    date: '2025-05-15',
+    note: 'Rs 1.48 crore ki lagat se 130 meter lambi aur 3.5 meter chaudi sadak — Banbhoolpura railway crossing se Gaulapul tak (LONIVI/PWD kaam). Shilanyas MP Ajay Bhatt aur Lalkuan Vidhayak Mohan Bisht ne sanyukt roop se kiya; vidhayak ki bhumika maujoodgi se adhik thi (sah-shilanyaskarta ki). Fund kendriya ya MP nidhi ka nahi, rajya PWD kaam hai. Date caveat: article 16 May 2025 ka hai aur usme "brihaspativaar" ka ullekh hai, isliye event-date 15 May 2025 nirdharit ki gayi.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (mohan-singh-bisht, Lalkuan): 1. Amar Ujala (28 Oct 2024) — Chorgalia pashu-chikitsalaya vaccinator hatane par Pachuvakheda me graminon ka gherao/hangama — REJECT: MLA aaropi nahi, koi FIR/adhikari-pusht janch nahi. 2. Amar Ujala (5 Sep 2025) — Bindukhatta rajasva-gaon maang, CS-ashwasan — REJECT: sirf maang/ashwasan, koi dastaveji nateeja nahi. 3. Amar Ujala (19 Nov 2025) — CM vivekadhin kosh ke cheque — REJECT: daan/rahat. 4. LiveHindustan (15 Sep 2026) — tehsil day jansunwai — REJECT: nirikshan/daan. 5. LiveHindustan (~Sep 2026) — CM vivekadhin kosh ke cheque — REJECT: daan. 6. LiveHindustan (~Oct 2026) — samman samaroh me mukhya atithi — REJECT: samuday samaroh. 7. LiveHindustan (15 Oct 2025) — Nainital-Bareilly road nirikshan NHAI ke saath — REJECT: nirikshan + kendriya pariyojna. 8. LiveHindustan (~Aug 2026) — CHC Halduchaur multi-specialty shivir shubharambh — REJECT: asthayi shivir. 9. Amar Ujala (29 Oct 2025) — Vidhayak Nidhi aggregate (aavantan Rs 4.90cr, kharch Rs 3.27cr) — REJECT as entry: aggregate, itemized nahi (fund tathya context ke liye upyogi). 10. Amar Ujala (3 Aug 2023) — Amrit Bharat Lalkuan station shilanyas — REJECT: kendriya pariyojna par maujoodgi. 11. sachkitop/kumaunnews/kurmanchaltimes (Nov 2025) — 7 sadak (~Rs 4cr) — REJECT: non-whitelist, retry-lead. 12. samacharsangam — Siddh Baba mandir saundaryikaran lokarpan — REJECT: non-whitelist, retry-lead. 13. cwn.today — Halduchaud Ramlila manch saundaryikaran — REJECT: non-whitelist, retry-lead. 14. ETV Bharat — CHC Halduchaur 30-bed seva-shubharambh — REJECT: non-whitelist, retry-lead. 15. YouTube (Jun 2026) — Rs 5cr 3 sadak shilanyas — REJECT: YouTube-only, retry-lead. 16. Business Standard/newsbytes — Madan Singh Bisht/Delhi Mohan Singh Bisht — REJECT: naam ka jaal, alag vyakti. 17. webindia123 — Route-10 Rs 9.5cr — REJECT: page khula nahi + non-whitelist, retry-lead. 18. darpannews24x7 (Oct 2026) — pre-event — REJECT: pre-event + non-whitelist.
+
+uttarakhandWorks['ram-singh-kaira'] = [
+  {
+    title: 'Nai se Chakdaland tak 4 km motor marg ka Vidhayak Nidhi se nirman karakar 26 Oct 2025 ko lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-ram-singh-kaida-inaugurates-chakdaland-motor-road-in-bhimtal-201761508473380.html',
+    date: '2025-10-26',
+    note: 'Gram sabha Chakdaland (Okhalkanda block) ke graminon ki lambe samay se maang par Vidhayak Nidhi se 4 km sadak ka nirman; Amar Ujala ne bhi isi karyakram ki khabar chhapi. Rashi report me ullikhit nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhimtal nagar me Jhijri ke paas Rs 1.80 crore ki parking ka 19 Nov 2025 ko shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-bhima-tal-parking-construction-launched-by-mla-ram-singh-kaida-to-alleviate-traffic-congestion-201763560944387.html',
+    date: '2025-11-19',
+    note: 'Lagbhag 150 chhoti gadiyon ki kshamta; nagar ke jam se rahat aur paryatakon ko Bhimtal jheel ke liye suvidha. Nidhi ka srot report me ullikhit nahi. LG Inter College ke paas doosri parking ka nirman bhi jald karane ki ghoshna report me hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Amdali-Bohrakun aur Tallital-Bheemeshwar mandir tak 4 km sadak par Rs 1.3 crore ke damrikaran ka 26 Nov 2025 ko shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/nainital/asphalting-work-started-in-bhimtal-with-an-expenditure-of-rs-1-crore-haldwani-news-c-418-1-shld1006-1450-2025-11-27',
+    date: '2025-11-26',
+    note: 'Lok Nirman Vibhag ka kaam (Amdali se Bohrakun, Tallital Ramleela maidan se Bheemeshwar mandir); gaddhon se vahan chalakon, yatriyon aur schooli bachchon ko pareshani thi. Headline me "ek crore" likha hai, body me Rs 1.3 crore — body ka aankda rakha gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Okhalkanda block ke Kalaagar-Dhura gram sabha me lambe samay se pratikshit motor marg ka 27 Jul 2026 ko lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/nainital/story-completion-of-long-awaited-motor-road-in-bhimtal-by-minister-ram-singh-kaida-201785159066225.html',
+    date: '2026-07-27',
+    note: 'Graminon ki maang par unhone marg nirman ke liye dhanrashi swikrit karai thi; nirman poora hone par swayam lokarpan. Sadak ke abhav me logon ko mukhya marg tak kai km paidal chalna padta tha. Rashi report me ullikhit nahi. Date caveat: page-metadata ("X days ago") + saptah-din milan se nirdharit, article me exact timestamp nahi tha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhimtal block me Chafi-Alchauna-Tada motor marg ke Rs 26 crore ke damrikaran evam sudharikaran ka 25 Sep 2026 ko shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-infrastructure-development-initiatives-launched-in-bhimtal-by-minister-ram-singh-kaida-201790257200881.html',
+    date: '2026-09-25',
+    note: 'PWD adhikariyon se DPR taiyar karakar shasan ko bhejne ke nirdesh unhone diye the; swikriti ke baad kaam shuru. Kharab marg par barsaat me keechad se vahan phansne ki samasya thi. Date caveat: page-metadata + saptah-din milan se nirdharit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Vinayak sthit Goljyu devta mandir ke Rs 91 lakh ke saundaryikaran evam punarnirman ka 25 Sep 2026 ko bhumi pujan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'bhoomi-poojan',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-infrastructure-development-initiatives-launched-in-bhimtal-by-minister-ram-singh-kaida-201790257200881.html',
+    date: '2026-09-25',
+    note: 'Mandir ko Mandir Mala Mission yojana me shamil karane ke baad bhumi pujan; mandir ke vikas karyon ke liye Rs 91 lakh ki dhanrashi swikrit. Ye yahi event tha jisme upar wali sadak-pariyojna ka bhi shubharambh hua.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rajkiya Mahavidyalaya Patlot ke Rs 4.37 crore se bane navnirmit bhavan ka 16 Oct 2026 ko lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/nainital/story-ram-singh-kaida-inaugurates-new-government-college-building-in-patlot-201792155871069.html',
+    date: '2026-10-16',
+    note: 'Bhavan nirman ke liye unke prayason se Rs 4.37 crore swikrit karaye gaye; mahavidyalaya ke liye bhumi ki registry ka kaam bhi unki bhumika se sampann. Bhugol evam Sanskriti vishay shuru karane ke prayas ka aashvasan diya. Mantri-pad ka ullekh disclosure ke liye: bhavan seat ke liye swikrit rajya-yojna ka hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bhimtal vidhansabha me PMGSY Phase-4 ke tahat lagbhag Rs 40 crore ki 6 sadak pariyojnaon ka 15 Oct 2026 ko shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/nainital/story-bhimtal-gets-six-pmgsy-road-projects-worth-around-40-crore-201792071419252.html',
+    date: '2026-10-15',
+    note: 'Sansaad Ajay Bhatt ke saath shilanyas; 2 naye margon ka nirman (Harinagar-Jangaliyagaon se Seemayal, Banna se Pinshela) aur 4 margon ka damrikaran/sudharikaran (Shyamkhet se Kud, Kulori se Pokhari, Jhutiya se Kanda Kaul, Chhidakhan se Matela Pokhari). Fund kendra ki PMGSY nidhi — prastav Kaira ne kendra sarkar ko bheje the, swikriti mili. MLA ka dawa (capped): Banna-Pinshela marg ka nirman poorv me Vidhayak Nidhi se karaya gaya tha (Hindustan, 21 Feb 2026).',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (ram-singh-kaira, Bhimtal): 1. Bhimtal-Naukuchiatal marg sudharikaran Rs 2.45cr swikriti (~Aug 2026) — REJECT: sirf shasanadesh ki jaankari, dastaveji bhoomika nahi. 2. Nadgalgaon Rs 67.41L + Takura-Jamradi Rs 67.64L — REJECT: Kaira sirf announcer the. 3. Khujethi-Pataliya-Balna Rs 1.24cr shilanyas — REJECT: non-whitelist, retry-lead. 4. 7 pul Rs 8.74cr swikriti — REJECT: non-whitelist, retry-lead. 5. Sadbuga Inter College — REJECT: non-whitelist, retry-lead. 6. CM Lettibunga Rs 112.34cr — REJECT: CM ka karyakram, Kaira maujoodgi matra. 7. Kalaagar-Galni-Chamoli Rs 50L (aapda mad) — REJECT: aapda-package. 8. Jagran RTI Vidhayak Nidhi aggregate (62%) — REJECT: aggregate. 9. Mohna-Shiv Mandir Vidhayak Nidhi ghoshna — REJECT: grant-ghoshna. 10. AARGO EV Drive — REJECT: maujoodgi matra.
+
+uttarakhandWorks['sarita-arya'] = [
+  {
+    title: 'Mangoli-Khamari-Thapla-Jalalgaon-Rokhar motor marg sudharikaran karya ka sanyukt shilanyas MP Ajay Bhatt ke saath kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/amp/video/uttarakhand/nainital/video-mp-mla-laid-the-foundation-stone-for-road-improvement-work-in-nainital-2025-05-20',
+    date: '2025-05-19',
+    note: 'CM Pushkar Singh Dhami ki 2024 Betalghat ghoshna ke tehat state PWD fund se SDBC/PC nirmaan aur kshatigrast diwaron ki marammat; tender ho chuka tha; MLA Nidhi ka fund nahi; shilanyas MP Ajay Bhatt ne MLA aur graminon ke saath kiya; report me lagat nahi di gayi. Amar Ujala headline dono ko sanyukt shilanyaskarta batati hai, isliye sirf maujoodgi nahi mana gaya. Date caveat: article 20 May 2025 ka hai, karyakram "somvaar" likha hai — isliye 19 May 2025.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (sarita-arya, Nainital SC): 1. Goswami Basti CC marg Rs 2L ghoshna (nainitalnews24) — REJECT: non-whitelist + ghoshna. 2. Valmiki Park ghoshna (takatakkhabre) — REJECT: non-whitelist + ghoshna. 3. St. Mary's Convent AI lab udghatan — REJECT: private school samaroh. 4. Ward vikas ghoshna (Amar Ujala, 3 Nov 2025) — REJECT: grant-ghoshna. 5. Vidhayak Nidhi aggregate Rs 4.02cr/4.90cr (Amar Ujala) — REJECT: aggregate (fund tathya foundation ke liye upyogi). 6. Pangot-Dechori dusri kist Rs 4.63cr — REJECT: shasanadesh ki jaankari matra. 7. Bahuddeshiya shivir — REJECT: nirikshan/shivir. 8. Betalghat bhoo-dhansaav nirikshan — REJECT: nirikshan. 9. Ratighat sharab-dukaan gyapan — REJECT: maang. 10. Betalghat maang-patra — REJECT: maang. 11. Vidhan Sabha maang-patra (van mantri) — REJECT: non-whitelist + maang. 12. CM Nainital Rs 121.52cr/112.34cr — REJECT: dusre neta ka karyakram. 13. Nanda Devi/Ramlila — REJECT: dhaarmik samaroh. 14. Kumaun University postal cover (TOI) — REJECT: mehmaan. 15. HC shift virodh (HT) — REJECT: rajnaitik bayan. 16. Polytechnic pratiyogita — REJECT: samaroh. 17. Rs 348cr daavon wali press conference (nainilive) — REJECT: non-whitelist + dawa. 18. Balika Inter College ghoshna — REJECT: non-whitelist + ghoshna. 19. Khutani sangrahalaya ghoshna — REJECT: non-whitelist + ghoshna. 20. Kabristan chahar-deewari shilanyas (devbhoomilive24) — REJECT: non-whitelist, retry-lead.
+
+uttarakhandWorks['sumit-hridayesh'] = [
+  {
+    title: 'Sumit Hridayesh ne Haldwani ke Subhash Nagar (Awas Vikas) me Rs 26.98 lakh lagat ki DMF-swikrit sadak ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-mla-sumit-hridayesh-launches-road-project-in-haldwani-for-26-98-lakh-201781875693525.html',
+    date: '2026-06-19',
+    note: 'Hindustan ki headline lokarpan batati hai, report ki body me shilanyas ka ullekh bhi hai; report ke mutabik pariyojna Jila Khanij Foundation (DMF) se swikrit hai — DMF sarkari nidhi hai, isliye shrey disclose karke entry banti hai. Karyakram vyaktigat roop se Haldwani MLA Sumit Hridayesh ne kiya; unke bhashan me mata (late Dr. Indira Hridayesh) ka ullekh unka apna tha — unke karyakaal ka kaam yahan nahi gina gaya. Date caveat: page par prakashan-taareekh nahi dikhi; "shukrawar" ullekh + ~119 din purane metadata se 2026-06-19 (Friday) nirdharit, pramanit nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sumit Hridayesh ne Haldwani ke Sheeshmahal (ward 2) me Harish Chandra Tiwari Jan Milan Kendra ke Rs 7.33 lakh lagat wale saundaryikaran karya ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Hindustan (livehindustan.com)',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-haldwani-mla-sumit-hrideyash-inaugurates-beautification-of-harish-chandra-tiwari-community-center-201782044021634.html',
+    date: '2026-06-22',
+    note: 'Rs 7.33 lakh lagat se Sheeshmahal sthit Harish Chandra Tiwari Jan Milan Kendra ke saundaryikaran karya ka vyaktigat lokarpan; report me fund ka srot (Vidhayak Nidhi ya anya) nahi bataya gaya hai. Date caveat: page par prakashan-taareekh nahi dikhi; ~117 din purane metadata se 2026-06-22 nirdharit, pramanit nahi.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (sumit-hridayesh, Haldwani): 1. Laturiya Maharaj Ashram Jan Milan Kendra Rs 25L shilanyas (Oct 2026) — REJECT: non-whitelist (retry-lead: Amar Ujala/Jagran/Hindustan print me khojo). 2. Aanchal milk booth shubharambh (Jul 2023) — REJECT: non-whitelist + co-op suvidha. 3. Phone-tapping saga (Oct 2026) — REJECT: MLA shikayatkarta hain, aaropi nahi. 4. Smart meter virodh — REJECT: rajnaitik virodh. 5. Vote Bachao press conference — REJECT: campaigning. 6. Vidhan Sabha me kagaz faadna — REJECT: sadan hungama, koi FIR nahi. 7. Banbhoolpura SC stay yachika — REJECT: valid entry type nahi. 8. Rattibha thread — REJECT: social media. 9. Oneindia cases list — REJECT: keval aankde, jawab nahi. 10. Nasha-mukt ghoshna — REJECT: ghoshna. 11. Ram Sena quote (IE) — REJECT: rajnaitik bayan. 12. CM Haldwani Rs 147cr udghatan — REJECT: dusre neta ka karyakram.
+
+uttarakhandWorks['banshidhar-bhagat'] = [
+  {
+    title: 'MLA Banshidhar Bhagat ke prayason se Kaladhungi ki Kotabagh block ke Bajuniya Haldu gaon me Rs 50 lakh ke overhead water tank ka kaam shuru hua — pehli kist Rs 17.01 lakh Peyjal Nigam Ramnagar ko hastantarit, paisa Laghu Sinchai vibhag ki bachat (Rs 12.01 lakh) aur zila paryatan adhikari/KMVN ki avashesh rashi (Rs 5 lakh) se juta',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-permanent-solution-to-drinking-water-crisis-in-kotabagh-initiated-by-mla-banshidhar-bhagat-201789563933366.html',
+    date: '2026-09-16',
+    note: 'Hindustan ne swikriti ko MLA ke prayason ka natija bataya hai; poore tank ki lagat Rs 50 lakh hai, abhi tak sirf pehli kist jaari hui hai; Vidhayak Nidhi ka koi ullekh report me nahi hai, isliye Vidhayak Nidhi ka kaam na samjha jaye. Date caveat: article me exact taareekh nahi thi; "lagbhag 30 din purana" metadata + "budhvaar" ullekh ke milan se 2026-09-16 nirdharit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kaladhungi ke Belpokhra gaon me Primary School Bachchinagar ke lagbhag Rs 25.69 lakh ki lagat se bane naye vidyalaya bhawan ka vidhayak Banshidhar Bhagat ne lokarpan kiya aur patta ka anavaran karke bhawan chhatra-chhatraon ko samarpit kiya',
+    category: 'School',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-inauguration-of-new-school-building-in-haldwani-enhancing-education-and-community-engagement-201774271845246.html',
+    date: '2026-03-23',
+    note: 'Amar Ujala ne bhi isi event ki pushti ki hai; purana bhawan jarjar tha; fund ka srot dono reports me nahi bataya gaya hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Vidhayak Banshidhar Bhagat ke prastav par CM Pushkar Singh Dhami ne Kaladhungi ke Kotabagh mukhya marg par jaam se rahat ke liye sinchai vibhag ki nahar ki covering aur bijli ke pol shift karke sadak chaudikaran ki ghoshna ki; PWD ko prastav banane ke nirdesh',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'ghoshna',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-relief-from-traffic-jam-in-kotabagh-cm-announces-canal-covering-project-201763733180344.html',
+    date: '2025-11-21',
+    note: 'Ye keval ghoshna hai — abhi tak koi swikriti ya rashi nahi hai; PWD ko sirf prastav banane ko kaha gaya hai; CM ne MLA ke prastav ko sarvajanik roop se shrey diya, isliye credit capped karke accountability/pahal entry ke roop me rakha gaya hai, ghoshna stage ke saath.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kaladhungi nagar palika ke ward 6 me Rs 40 lakh ki sadak ke shilanyas ke dauran virodh kar rahi mahilaon ko vidhayak Banshidhar Bhagat ne mukadma darj karakar jail bhijwane ki dhamki di; Dainik Bhaskar ke anusaar mahilaon ne unke saamne zameen par sawal uthaye the',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/uttarakhand/nainital/news/uttarakhand-bjp-mla-banshidhar-bhagat-threatens-jail-women-protesting-before-president-visit-update-136297169.html',
+    date: '2025-10-29',
+    note: 'Established media ki reporting hai; MLA ka jawab note me hai — unhone kaha virodh karne wale dusri party se the; naam-daar adhikari SDM Kaladhungi Vipin Chandra Pant ne zameen ki naap aur court me lambit maamle ki pushti ki; MLA ke khilaf koi FIR darj nahi hui; pradarshankariyon ke bete ki plotting sambandhi aarop parivar ka mamla hone se entry se baahar rakhe gaye; sadak nagar palika ka tender kaam hai isliye shilanyas positive entry ke liye reject kiya gaya. Stage-accurate: abhi tak koi FIR/kanuni karvai MLA ke khilaf nahi hui hai.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (banshidhar-bhagat, Kaladhungi): 1. Belpokhara internal roads Rs 145.10L + Fatehpur-Nawar-Sailani bridge — REJECT: sirf shasanadesh ki jaankari, dastaveji bhoomika nahi. 2. Ward 6 nagar palika Rs 40L road shilanyas — REJECT: nagar palika ka tender kaam (isi event ki jail-dhamki negative alag se darj hai). 3. CM Dhami Rs 114cr Kaladhungi event — REJECT: dusre neta ka karyakram + non-whitelist. 4. CM Dhami Rs 121cr Nainital projects — REJECT: CM ka karyakram + non-whitelist. 5. Belpadav jansunwai — REJECT: nirikshan/daura. 6. Bishtdhada/Lamachaur baithaken — REJECT: sangathanatmak. 7. Betalghat visit — REJECT: purani seat ka daura. 8. Rs 42cr sinchai shilanyas (~Mar 2023) — REJECT: non-whitelist, retry-lead. 9. Amar Ujala Vidhayak Nidhi table — REJECT: aggregate. 10. Oct 2022 devi-devta vivadit bayan — REJECT: whitelisted standalone nahi, retry-lead. 11. Jagran nikay chunav analysis + mandir pran-pratishtha — REJECT: analysis/upasthiti. 12. Kaladhungi hot-seat politics piece — REJECT: analysis.
+
+uttarakhandWorks['diwan-singh-bisht'] = [
+  {
+    title: 'Ramnagar se Bhandarpani tak 8 km sadak ka damarikaran shuru, lagat Rs 1.21 crore',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/nainital/mla-inaugurated-the-asphalt-work-ramnagar-news-c-239-1-ntl1004-107253-2025-05-19',
+    date: '2025-05-19',
+    note: 'Vidhayak ne swayam kaam ka shubharambh kiya. Kaam ki prakriti sarkari sadak damarikaran hai; fund ka srot report me nahi bataya gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Rajya Yojana ke tehat swikrit Rs 95.01 lakh ke marg nirman karyon ka bhumi pujan',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'bhoomi-poojan',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haldwani/story-ram-nagar-mla-diwan-singh-bisht-initiates-road-construction-with-95-01-lakhs-funding-201765539694286.html',
+    date: '2025-12-12',
+    note: 'Rajya Yojana ke antargat swikrit karyon ka bhumi pujan vidhayak ne kiya; karyon ki itemized suchi report me nahi hai.',
+    period: '2022-2027',
+  },
+];
+// REJECT-LOG (diwan-singh-bisht, Ramnagar): 1. CM rahat-kosh Rs 12.40L (129 parivar) — REJECT: daan/rahat. 2. CM vivekadheen kosh Rs 4.93L (35 parivar) — REJECT: daan/rahat. 3. Dainik Bhaskar — Maldhan Chaud swasthya shivir udghatan — REJECT: ek-divasiya shivir. 4. Dainik Bhaskar — Rs 38.57cr parking shasan swikriti — REJECT: shasanadesh ki jaankari matra. 5. ETV Bharat — Ranikhet Road parking lokarpan — REJECT: non-whitelist. 6. ETV Bharat — City Forest udghatan — REJECT: non-whitelist + dusre neta ka karyakram. 7. ETV Bharat — Bus port shilanyas — REJECT: non-whitelist + maujoodgi. 8. livehindustan/ETV — Dhangadhi pul (NHAI, Rs 29cr) lokarpan — REJECT: kendriya pariyojna + maujoodgi. 9. Durga Devi Maidanvan motor marg maang — REJECT: sirf maang/ashwasan. 10. Amar Ujala — CM se milkar samasyaon par charcha — REJECT: sirf maang/ashwasan. 11. Dainik Jagran — Bijrani/Sitabani safari punah-udghatan — REJECT: van vibhag ka event. 12. livehindustan — van karmiyon ke liye nishulk chikitsa shivir — REJECT: CSR/samaroh. 13. livehindustan — PNG College swarn jayanti — REJECT: samaroh. 14. livehindustan — Hanuman Dham sthapna divas — REJECT: maujoodgi. 15. livehindustan — andolankari samman — REJECT: samaroh. 16. Dainik Bhaskar — Census 2027 appeal — REJECT: kaam nahi. 17. roshnidarpan — hand-pump ghoshna — REJECT: non-whitelist + ghoshna. 18. meat row — REJECT: MLA aaropi nahi + non-whitelist. 19. thenewsbomb "Amar Shaheed Diwan Singh Bisht" — REJECT: alag vyakti. 20. TOI Ankita Bhandari resort — REJECT: alag mamla, ye MLA nahi.

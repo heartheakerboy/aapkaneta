@@ -1790,7 +1790,7 @@ export const uttarakhandNetas: Neta[] = [
       assets: 'Rs 4,03,61,379',
       liabilities: 'Rs 2,80,913',
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=7',
-      backgroundNote: 'MyNeta par DIWAN SINGH BISHT (Winner), RAMNAGAR, BJP — naam, seat aur party match. Umr 67, Post Graduate (MA Economics 1978-79), pesha MLA income aur kiraya. Koi criminal case nahi. Sampatti Rs 4.03 crore, deaya Rs 2.80 lakh.',
+      backgroundNote: 'MyNeta par DIWAN SINGH BISHT (Winner), RAMNAGAR, BJP — naam, seat aur party match. Umr 67, Post Graduate (MA Economics 1978-79), pesha MLA income aur kiraya. Koi criminal case nahi. Sampatti Rs 4.03 crore, deaya Rs 2.80 lakh. Live Hindustan (Sep 2026) ke anusar ve State Wildlife Board ke sadasya bhi hain (sansthaagat pad).',
     },
     electionNote: '2022 Vidhan Sabha chunav me Ramnagar se BJP ke ticket par jeete: 31,094 votes. Runner-up Mahendra Singh Pal (INC) — 26,349 votes. Margin 4,745. 2022 me Ramnagar (Gen) se BJP ticket par jeete, 4,745 vote ke antar se. Party change koi nahi.',
   },
