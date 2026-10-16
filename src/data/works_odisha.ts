@@ -982,3 +982,49 @@ odishaWorks['sarada-prasanna-jena'] = [];
 // sarada-prasad-padhan (Mahanga, IND): 1 PASS (shilanyas: 2 canal roads, OTV, inferred date 2025-11-15 disclosed, MP Panda joint + RD Dept funded — disclosed). Luna bridge shilanyas (sirf YouTube), statue-vandalism aarop (koi FIR/janch nahi), punch video (koi FIR/janch/jawab nahi — judgment-call se reject, retry lead), pre-term aarop — negative koi nahi.
 // QA JUDGMENT CALLS (parent review ke liye): (1) Sethi negative — koi FIR/official inquiry nahi hai (anupasthiti disclosed); IE+The Hindu+TNIE established national reporting + explicit allegation + jawab darj ke aadhar par KEPT; (2) Padhan punch video — video-documented hone ke bawajood koi FIR/janch/jawab reporting nahi → REJECT (retry lead: FIR development par negative possible).
 // STATE-WIDE RETRY LEAD: MLALADS portal (mlalads.odisha.gov.in) is network se unreachable — suchi milte hi sarkari-badge sweep possible hoga.
+
+// ---- Puri district batch (researched 2026-10-16) ----
+odishaWorks['pravati-parida'] = [
+  {
+    title: 'Nimapada CHC me digital Health ATM ka lokarpan — Deputy CM Pravati Parida ne udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/nimapada-chc-gets-health-atm/',
+    date: '2025-05-22',
+    stage: 'lokarpan',
+    note: 'Orissa POST ki 22 May 2025 ki report ke mutabik Odisha ki Deputy CM Pravati Parida ne Nimapada Community Health Centre (CHC) me advanced digital Health ATM ka udghatan kiya (article me event "Wednesday" bataya gaya). Ye self-service digital health kiosk 100 se zyada medical tests — blood sugar, blood pressure, ECG, BMI, oxygen level — tez result ke saath uplabdh karata hai. Mantri-disclosure: unhone ye lokarpan Odisha ki Deputy CM ke roop me kiya — ye unke mahila-baal vikas, paryatan ya Mission Shakti vibhagon ka karyakram nahi tha, Nimapara seat ka karyakram tha. Fund-source disclosure: Health ATM ek niji sanstha (naam report me ullikhit nahi) dwara install ki gayi thi; kisi sarkari yojana ya fund ka ullekh report me nahi hai. Nimapada CHC Nimapara seat ke andar hai. Stage ka saboot: report me "inaugurated" ka seedha ullekh hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ka dawa — Utkarsh Nimapada report card: pehle saal me Rs 213 crore paani, Rs 146 crore transport, Rs 22.44 crore shiksha par kharch',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/bhubaneswar/parida-presents-1st-yr-achievements-at-utkarsh-nimapada/articleshow/121682682.cms',
+    date: '2025-06-06',
+    stage: 'ghoshna',
+    note: 'Times of India ki 6 Jun 2025 ki post-event report ke mutabik Deputy CM aur Nimapada MLA Pravati Parida ne Utkarsh Nimapada Conference ke dusre satra me apne pehle saal ka report card pesh kiya. Unke daave ke anusaar ek saal me vibhinn drinking-water projects par Rs 213 crore, transport par Rs 146 crore, shiksha par Rs 22.44 crore aur Swarga Rath seva par Rs 17 lakh lagaye gaye; pramukh projects me Gop mega drinking-water project, 8 mandiron ka jeernoddhar aur animal-care ambulance seva shamil hain. Mantri-disclosure: ye conference Nimapara seat-star par unki citizen-driven pahal (Utkarsh Nimapada) thi, lekin saare aankde aur projects sirf unke daave hain. Fund-source disclosure: fund ka srot report me ullikhit nahi hai. Shrey-spashtikaran: ye entry sirf MLA ke daave par adharit hai (badge dawa) — in projects ke liye alag se koi GO, sanction order, ya post-event lokarpan/shilanyas ki whitelisted reporting nahi mili; swatantra sarkari pushti nahi hai.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['tusharkanti-behera'] = [];
+
+odishaWorks['sunil-kumar-mohanty'] = [];
+
+odishaWorks['upasna-mohapatra'] = [];
+
+odishaWorks['om-prakash-mishra'] = [];
+
+odishaWorks['ashrit-pattanayak'] = [];
+
+// ---- Puri district REJECT-LOG (researched 2026-10-16) ----
+// tusharkanti-behera (Kakatpur SC, BJD vipaksh): 0 PASS, khaali. 12 searches; whitelisted me Jun 2024+ ka koi documented seat-kaam nahi (post-term footprint sirf Assembly activity: debt query, Ratna Bhandar sawal, Raj Bhavan sawal — works-stage nahi). Pre-term mantri-era kaam (cricket academies, Mo School, Devi embankment) rule-ban. Kakatpur Mangala Temple plan Works Minister ka sarkari plan — MLA ka shrey nahi. YouTube road-widening shilanyas non-whitelist (retry lead). Negative: nahi (karyakaal me koi FIR/janch nahi).
+// sunil-kumar-mohanty (Puri shahar, BJD vipaksh): 0 PASS, khaali. 16 searches + 5 whitelisted pages khud padhe. English media me sirf virodh-rajniti (BJD bandh, party gutbandi, temple parking maang, Rath Yatra mismanagement aarop) aur ceremonial maujoodgi; uska apna koi shilanyas/lokarpan/swikriti/ghoshna nahi. Mandir/paryatan kaam mandir-prashasan/sarkar ke — shrey nahi. Negative: nahi (clean affidavit, karyakaal me koi FIR/janch nahi). Namesake: pita Maheswar Mohanty (poorv Speaker) alag vyakti; third-party list ne BJP likha tha — BJD sahi kiya gaya (allegation of mislabel corrected by seat verification).
+// upasna-mohapatra (Brahmagiri, BJP): 0 PASS, khaali. 16 searches ("Upasna" + "Upasana" spellings). Whitelisted coverage poori raajneetik/controversy: Mar 2026 RS second-ballot vivaad (koi official probe outcome nahi — negative nahi); Mar 2021 tenant-assault FIR pre-term (HC ne Jan 2022 me quash kiya) — negative nahi. Assembly sawal/maang akele kaam nahi. Baliharachandi Temporary Beat House sirf non-whitelist (retry lead). Namesake: Arvind Mohapatra alag vyakti. Negative: nahi.
+// om-prakash-mishra (Satyabadi, BJP): 0 PASS, khaali. 14+ searches, key pages khud padhe. Satyabadi block-office vandalism me MLA ki giraftari ki sirf maang (koi confirmed FIR/arrest/janch nahi — negative NAHI). Gopabandhu Jayanti Rs 500cr Satyabadi package CM ki ghoshnaen — MLA sirf manch-bayan (maujoodgi). Ram Charit Manas Temple bhoomi-pujan CM ne kiya (maujoodgi + dharmik). District Planning Board charge "karenge" khabar (YouTube-only). Gangua nullah Rs 900cr stalled plant — MLA involved nahi. 2019 EVM vandalism aarop pre-term. Namesake traps (Jharkhand court, SBI DMD, UP teachers) sab avoid kiye. Negative: nahi.
+// ashrit-pattanayak (Pipili, BJP): 0 PASS, khaali. 12 searches (Pattanayak/Pattnayak/Pattanaik spellings). TPCODL 2 feeder lines lokarpan (Rs ~12.7cr, 26,000 consumers) MLA ne inaugurate kiya lekin coverage sirf non-whitelisted (odishastand/kalingavoice) — reject (retry lead). Whitelisted: foundation-stone vandalism story me MLA sirf maujood (MP Patra-led event); Raghurajpur shilanyas Deputy CM ka (dusre neta ka kaam); Ayushman hamla scheme-incident (work nahi). Pre-term: 2021 bypoll-era khabrein; Rudra Pratap/Pradeep Maharathy alag vyakti (namesake avoid). Negative: nahi.
+// pravati-parida (Nimapara, BJP — Deputy CM): 2 PASS (lokarpan: Nimapada CHC Health ATM, Orissa POST 22 May 2025, mantri+fund disclosure ke saath; dawa/ghoshna: Utkarsh Nimapada 1st-year report card, TOI 6 Jun 2025). 21 rejects: saare WCD/Mission Shakti/Tourism rajya-star mantri-faisle; Mission Shakti Cafe Nimapada (vibhagiya pahal — mantri-faisla rule se reject); Patha Utsav ceremonial; Argus YouTube Rs 23.66cr road shilanyas (non-whitelist — retry lead). Negative: nahi (9 pre-term political cases, karyakaal me koi FIR/janch nahi; Jagannath doormat FIR me wo aaropi nahi). FOUNDATION: Deputy CM disclosure electionNote me joda gaya.
+// BATCH KUL: 2 entries (+2), 5/6 profiles imaandari se khaali, 0 negatives. Koi overwrite nahi — 6 slug works me absent the.
+// STATE-WIDE RETRY LEAD: MLALADS portal (mlalads.odisha.gov.in) is network se unreachable — suchi milte hi sarkari-badge sweep possible hoga.

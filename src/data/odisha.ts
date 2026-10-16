@@ -3086,7 +3086,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=1231',
       backgroundNote: 'Pravati Parida (BJP) Nimapara seat se Odisha ki MLA hain aur Odisha ki Deputy Chief Minister hain. Unke khilaf 9 aapradhik mamle hain — IPC 506 (6 charges), 431 (2), 332 (2), 324, 452, 354B, 354, 325, 380, 307, 149 (9), 143 (5), 294 (5), 353 (5), 147 (5), 148 (4), 323 (4), 341 (3), 427 (3), 336 (2), 186 (2).',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Nimapara se jeeti: 95,430 votes. Runner-up Dilip Kumar Nayak (BJD) 90,842 votes. Margin 4,588.',
+    electionNote: '2024 Vidhan Sabha chunav me Nimapara se jeeti: 95,430 votes. Runner-up Dilip Kumar Nayak (BJD) 90,842 votes. Margin 4,588. 12 Jun 2024 se Odisha ki Up-Mukhyamantri (Deputy CM) hain — portfolios: Mahila evam Bal Vikas, Mission Shakti, Paryatan. Rajya-star ke mantri-faisle unke seat-record ka hissa nahi; works me sirf unke Nimapara-seat-star vyaktigat lokarpan/shilanyas mantri-disclosure ke saath darj hain.',
   },
   {
     slug: 'sunil-kumar-mohanty',
