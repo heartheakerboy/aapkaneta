@@ -868,6 +868,36 @@ odishaWorks['bijaya-kumar-dalabehera'] = [
 
 
 // ---- Kendrapara district batch ----
+odishaWorks['ganeswar-behera'] = [
+  {
+    title: 'Kendrapara MLA Ganeswar Behera ne Garapur me apne do saal ki report card pesh ki, daawa kiya ki roads, bridges, drainage, education, healthcare aur sports ke projects par kaam hua',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Odisha TV',
+    sourceUrl: 'https://odishatv.in/odisha/two-year-report-card-kendrapara-mla-highlights-development-initiatives-bjp-and-congress-question-claims-12121365',
+    date: '2026-06',
+    stage: 'ghoshna',
+    note: 'Odisha TV (OTV) ki post-event reporting ke anusar, BJD MLA Ganeswar Behera ne Garapur me press conference karke apne chunaav ke do saal poore hone par detailed report card pesh kiya, jisme roads, bridges, drainage, education, healthcare, sports infrastructure aur doosri public facilities par hui pehal ka daawa kiya gaya aur ek colourful achievements booklet bhi release ki gayi. MLA ne kaha ki vipaksh me hone ki limited scope ke bawajood unhone Assembly ke andar-bahar mudde utha kar state sarkar par asar daala aur Kendrapara ki kai long-standing maango ko poora karaya. Is report card ko BJP ke Kendrapara district president Sasanka Sekhar Sethi ne ground reality se door bataya aur Congress ne ise self-assessment batakar khariz kiya — isliye ye entry poori tarah sirf MLA ke daave par aadharit hai. Press conference ki exact tithi article me nahi di gayi; "marking two years since his election" (4 June 2024 ko office sambhala tha) ke aadhar par June 2026 infer kiya gaya hai; OTV ne ise Tuesday ko hua bataya hai. Coordinator ne OTV page khud kholkar padha.',
+    period: '2024-2029',
+  },
+];
+
+odishaWorks['arvind-mohapatra'] = [];
+
+odishaWorks['pratap-keshari-deb'] = [];
+
+odishaWorks['dhruba-charan-sahoo'] = [];
+
+odishaWorks['durga-prasan-nayak'] = [];
+
+// ---- Kendrapara district REJECT-LOG (researched 2026-10-16) ----
+// ganeswar-behera (Kendrapara SC, BJD): 1 PASS (ghoshna+dawa: 2-saal ki report card, OTV, June 2026 inferred; BJP/Congress ne challenge kiya — poora daawa-disclosed). 14 rejects: MP Baijayant Panda cold-storage/mega rally (dusre neta ka karyakram, MLA sirf maujood); CM Majhi Kendrapara review (maujoodgi); medical college maang (pre-term); Assembly ruckus/procurement sawal/Balaram Yojana (maang akele); Rajnagar kisan (dusra MLA); 2016/2024 party-switch coverage (pre-term); senior citizen train (non-whitelist + maujoodgi); non-whitelist demands. Negative: nahi (8-suspension list me ye naam nahi; brother-death family matter; halafnama 1 purana case, current development nahi).
+// arvind-mohapatra (Patkura, BJD): 0 PASS, khaali. Coverage lagbhag poori nilamban-rajneeti (Jan 2026): supporters ke vague "development" dawe (specific kaam nahi); Deprived Schools me sirf vaada; Prashanthi hospital shilanyas MP ne rakha; CM review maujoodgi; RS-twist bayan; pita ki nayi-party charcha (family + speculation); party-conspiracy aarop. FOUNDATION: 15 Jan 2026 ko BJD ne Mohapatra ko Sanatan Mahakud ke saath party-virodhi gatividhiyon ke aarop par party se nilambit kiya (The Hindu/PTI/TNIE verified; MLA ne aaropon ko baseless bataya) — disclosure electionNote me jodi gayi, party field BJD hi (party-nilamban negative NAHI). Negative leads: sab drop (FIR/official inquiry kahin nahi; election-petition yachika nahi mili waise bhi rule-ban).
+// pratap-keshari-deb (Aul, BJD, poorv mantri): 0 PASS, khaali. Sab pre-term (Kani bridge haadsa 2024 — FIR/inquiry/jawab nahi, negative bhi nahi; 2022 DHH udghatan, JSW shilanyas — mantri-era), mantri-era kaam rule-ban, 2024 se vipaksh. Deputy Chief Whip of Opposition = pad, kaam nahi. Mar 2026 nilamban me inka naam nahi (galat-vyakti check).
+// dhruba-charan-sahoo (Rajanagar, BJD): 0 PASS, khaali. TNIE election-petition notice (yachika akele negative NAHI); Markfed scam + tender-fixing (pre-term); stadium shilanyas YouTube-only (retry lead: whitelisted text coverage mile to assess); Bhitarkanika ESZ patra (maang); CM review maujoodgi; Patkura-nilamban is vyakti ka nahi.
+// durga-prasan-nayak (Mahakalapada, BJP): 0 PASS, khaali. MP Panda ke Rs 10cr health centre shilanyas me maujoodgi (dusre neta ka kaam); CM review maujoodgi; BDO appointments (non-whitelist); steel plant minister-ka-jawab. Negative: Chameli Ojha sarpanch-allegation case (OTV June 2026, NHRC notice, ATR/janch chal rahi) — DROPPED kyunke (1) MLA ka jawab OTV articles me darj nahi mila, (2) MLA FIR me named hone ki pusht sthiti whitelisted srot par nahi, (3) inquiry abhi chal rahi — official nateeja/jawab aane par dobara assess hoga. Retry lead: OTV headline "I was beaten by cops; MLA demanded Rs 1L" ka canonical URL khojkar kholna.
+// BATCH KUL: 1 entry (+1), 4/5 profiles imaandari se khaali. Koi overwrite nahi — 5 slug works me absent the.
+// STATE-WIDE RETRY LEAD: MLALADS portal (mlalads.odisha.gov.in) is network se unreachable — suchi milte hi sarkari-badge sweep possible hoga.
 
 // ---- Jagatsinghpur district batch ----
 

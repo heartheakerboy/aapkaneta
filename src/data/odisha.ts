@@ -2796,7 +2796,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=1157',
       backgroundNote: 'Arvind Mohapatra (BJD) Patkura seat se Odisha ke MLA hain. Ve former minister Bijoy Mohapatra ke bete hain; ticket milne se kuch din pehle hi BJD me shamil hue the. Unke khilaf koi aapradhik mamla darj nahi hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Patkura se jeete: 90,905 votes. Runner-up Tejeswar Parida (BJP) 77,083 votes. Margin 13,822.',
+    electionNote: '2024 Vidhan Sabha chunav me Patkura se jeete: 90,905 votes. Runner-up Tejeswar Parida (BJP) 77,083 votes. Margin 13,822. 15 Jan 2026 ko BJD ne party-virodhi gatividhiyon ke aarop par Sanatan Mahakud ke saath Arvind Mohapatra ko party se nilambit kar diya (The Hindu/PTI/TNIE; MLA ne aaropon ko baseless bataya). Party record BJD hi hai — nilamban party ki aantarik karwai hai, seat/party-sthiti me koi badlav nahi.',
   },
   {
     slug: 'ganeswar-behera',
