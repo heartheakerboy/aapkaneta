@@ -776,7 +776,13 @@ odishaWorks['pradip-kumar-dishari'] = [];
 //     woh bhi Vedanta CSR event tha, MLA ka kaam nahi.
 // Pradip Kumar Dishari profile imaandari se khaali hai — works me entry nahi jodi gayi.
 
-// ---- Kandhamal district batch ----
+// ---- Kandhamal district batch (researched 2026-10-16) ----
+// uma-charan-mallick (Phulbani ST, BJP) — 0 entries, khaali profile (karyakaal Jun 2024-2029).
+// prafulla-chandra-pradhan (G. Udayagiri ST, INC vipaksh) — 0 entries, khaali profile.
+// chakramani-kanhar (Baliguda ST, BJD) — 0 entries, khaali profile; 21 Mar 2026 se BJD se nilambit (odisha.ts electionNote me disclose).
+odishaWorks['uma-charan-mallick'] = [];
+odishaWorks['prafulla-chandra-pradhan'] = [];
+odishaWorks['chakramani-kanhar'] = [];
 
 // ---- Boudh district batch ----
 
@@ -835,3 +841,10 @@ odishaWorks['pradip-kumar-dishari'] = [];
 // NEGATIVE ENTRY (1 darj): Vidhan Sabha ninda-prastav 24 Aug 2024 (ThePrint-PTI) — sadan ke aadhikarik ninda-prastav ko reprimand-order niyam par negative mana; Biswal ka jawab darj (virodh sharaab-mauton par tha, Speaker ke khilaf nahi).
 // FOUNDATION CORRECTION: koi nahi (Romanch Ranjan Biswal, BJD, Deogarh, 2024-2029 — post sirf MLA, koi mantri-pad nahi).
 // RETRY LEAD: MLALADS portal (state-wide); MLA ke vyaktigat lokarpan/shilanyas ki whitelisted coverage mile to entry banegi (ab tak sirf maujoodgi milti hai).
+
+// ---- Kandhamal district REJECT-LOG (researched 2026-10-16) ----
+// uma-charan-mallick (Phulbani ST, BJP): 0 PASS. R1. TNIE 8 Jun 2025 (khud padha) — CM ne Phulbani me medical college + Rs 750cr projects lokarpan/shilanyas; Mallick sirf maujood (maujoodgi reject). R2. OTV 31 Mar 2025 (khud padha) — Urmagada waterfall upeksha par MLA ka sirf ashwasan/prastav ("karenge" khabar + maang reject). R3. OrissaPOST snippet — Assembly me pey-jal prashn akele kaam nahi. R4. DPC chairperson news sirf non-whitelist par + pad kaam nahi. R5-R8. pre-term (PM Kaushal Vikas 2019, Achyuta Samanta projects 2023, Naveen-era Rs 250cr ghoshna). R9. Telegraph 2008 dangaa-peedit "Mallick" alag vyakti (namesake trap avoid). R10. organiser.org CMSA Rs 13cr — CM ka faisla + non-whitelist. R11. Negative check saaf — 1 purana halafnama case, Jun 2024+ me koi vartaman FIR/jaanch nahi. R12. Kandhamal sensitivity check: sampradayik combo (national media + FIR/jaanch + jawab) kahin nahi mila.
+// prafulla-chandra-pradhan (G. Udayagiri ST, INC vipaksh): 0 PASS. R1. OTV ~Sep 2026 Raikia party-meeting — karyakartao ka virodh, bete Jitendra Pradhan ko bahar nikala, 17 workers nilambit — party-aantarik vivad; MLA ke khilaf koi FIR/case/jaanch nahi, negative teeno-shart poori nahi. R2. lokmattimes/IANS 9 Apr 2025 — 27 Mar 2025 Congress gherao-rally ke ~5,000 cases me MLA ka naam — party-rally bhagidari, vyaktigat aarop/jaanch nahi + non-whitelist. R3. YouTube Daringbadi Winter Festival chief-guest — YouTube-only + ceremonial + kshetra-bahar. R4-R5. chunav khabrein (pre-term). R6-R8. galat vyakti: Dharmendra Pradhan (MP), Prafulla Ghadei, Prafulla Rout. R9. Orissa POST G-Udayagiri archive me sirf mausam/landslide khabrein. R10. AP ka "Udayagiri" (TDP MLA Kakarla Suresh) — alag rajya/vyakti. R11. CM Kandhamal ghoshnaein — MLA ka apna prastav/swikriti nahi (CMSA chetaavni). R12. PRS mlatrack 20 sawal — Assembly sawal akele kaam nahi. R13. Gressingia power sub-station (TPSODL/ODSSP) — MLA ki bhoomika ka ullekh nahi. SAME-NAME WARNING: "Prafulla Chandra Pradhan, IAS" (Home Dept) alag vyakti.
+// chakramani-kanhar (Baliguda ST, BJD): 0 PASS. R1. BJD se nilamban (OrissaPOST 21 Mar 2026, khud padha) — RS cross-voting par 6 MLAs ka suspension; party-aantrik karwai, vikas-kaam nahi, koi FIR/case/jaanch nahi isliye qualifying negative bhi nahi. (Foundation: nilamban electionNote me disclose.) R2. Anti-defection ayogya-yachika (TNIE 1 Oct 2026, khud padha) — Speaker ne 19 Jun 2026 ko kharij ki, BJD HC gaya — niyam: anti-defection yachika NEGATIVE NAHI. R3-R7. pre-term (TNIE Sep 2023 Sirtiguda story me sirf bayan; Naveen-era CM Kandhamal ghoshnaein; OTV pre-event). R8. Kalinga TV YouTube "rousing welcome" — non-whitelist + raajneetik. R9. Vidhan Sabha sawal sirf non-whitelist par. R10. Prameya whip-meeting gair-haziri — raajneetik + non-whitelist. R11. raw halafnama aankda akela negative nahi. R12. "Debendra Kanhar" (poorv Phulbani MLA) alag vyakti. Negatives: 0 — 1 purana halafnama mamla (koi dosh-siddhi nahi), Jun 2024+ me koi FIR/case/adalaati/adhikarik jaanch ya sampradayik vivaad ki whitelisted reporting nahi.
+// RETRY LEAD: MLALADS portal (state-wide, network se unreachable); "Phulbani"/"Baliguda"/"G. Udayagiri" tag-page periodic scans; kandhamala.odisha.gov.in press releases.
+// FOUNDATION CORRECTION: chakramani-kanhar — 21 Mar 2026 se BJD se nilambit (RS cross-voting; TNIE/IE/ETV Bharat se verify) ka disclosure electionNote me joda gaya (Mahakud precedent).

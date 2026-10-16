@@ -1085,7 +1085,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=1051',
       backgroundNote: 'Halafname par naam \'Subasini Jena\', seat Basta aur party BJD assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 57 saal, pesha entrepreneur aur samaj-seva. Kul sampatti Rs 1,35,17,87,484 (lagbhag Rs 135.2 crore — chal Rs 47,52,75,534 + achal Rs 87,65,11,950) — batch me doosri sabse zyada; ADR report ke anusaar 4th phase ke sabhi ummidwaron me sabse ameer ummidwar thi. MyNeta page ka fetch sirf assets wala hissa dikha, isliye shiksha ka detail Wikipedia se liya gaya hai.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Basta se jeete: 83,314 votes. Runner-up Bijan Nayak (INC) 62,937 votes. Margin 20,377.',
+    electionNote: '2024 Vidhan Sabha chunav me Basta se jeete: 83,314 votes. Runner-up Bijan Nayak (INC) 62,937 votes. Margin 20,377. 21 Mar 2026 ko BJD ne Rajya Sabha chunav me cross-voting aur party-virodhi gatividhiyon ke aarop par Subasini Jena ko 5 anya MLAon ke saath party se nilambit kar diya (TNIE/Indian Express). Speaker ne 19 Jun 2026 ko unke khilaf ayogyata-yachika kharij kar di (BJD High Court gaya hai). Party record BJD hi hai — nilamban party ki aantarik karwai hai, seat/party-sthiti me koi badlav nahi.',
   },
   {
     slug: 'manas-kumar-dutta',
@@ -2390,7 +2390,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=257',
       backgroundNote: 'Chakramani Kanhar (BJD) Baliguda seat se Odisha ke MLA hain. Unke khilaf 1 aapradhik mamla hai — IPC 332, 307, 506, 34, 294, 353 ke aarop darj hain.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Baliguda se jeete: 43,586 votes. Runner-up Upendra Pradhan (INC) 41,915 votes. Margin 1,671.',
+    electionNote: '2024 Vidhan Sabha chunav me Baliguda se jeete: 43,586 votes. Runner-up Upendra Pradhan (INC) 41,915 votes. Margin 1,671. 21 Mar 2026 se BJD se anti-party activities ke aarop par nilambit — Mar 2026 ke Rajya Sabha chunav me BJP-samarthit nirdaliya Dilip Ray ko cross-voting ke aarop par BJD adhyaksh Naveen Patnaik ke order se 6 MLAs ka suspension (The New Indian Express, Indian Express, ETV Bharat). BJD chief whip ne ayogya ghoshna ki maang ki; Speaker ne 19 Jun 2026 ko ayogya-yachikaen kharij kin (BJD ne Orissa High Court me chunauti di). Party field BJD hi rakha gaya hai, nilamban yahan disclose hai; ye dal-badal ya disqualification nahi hai.',
   },
   {
     slug: 'prafulla-chandra-pradhan',
