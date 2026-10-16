@@ -1003,6 +1003,567 @@ odishaWorks['ramesh-chandra-behera'] = [];
 
 // ---- Ganjam district batch ----
 
+odishaWorks['k-anil-kumar'] = [
+{
+    title: 'Ramalingam Park, Berhampur me Atal Bihari Vajpayee ki 17-foot bronze statue ka shilanyas', category: 'Any', badge: 'news',
+    sourceLabel: 'Orissa POST', sourceUrl: 'https://www.orissapost.com/atal-bihari-vajpayee-statue-to-be-installed-in-odishas-berhampur/amp/',
+    date: '2024-11-24', stage: 'shilanyas',
+    note: 'PTI report (Orissa POST, published 24 Nov 2024) ke mutabiq BJP MLA K. Anil Kumar ne Ramalingam Park, Berhampur me former PM Atal Bihari Vajpayee ki 17-foot unchi bronze statue (6.5-foot base) ka shilanyas kiya; MLA ne kaha ki lagbhag Rs 20 lakh ka kharcha unke Local Area Development (LAD) Fund se hoga aur statue ko 25 December (Vajpayee ke janmdivas) tak unveil karne ka lakshya tha. Function me former deputy speaker Ram Chandra Panda aur Berhampur ki Mayor Sanghamitra Dalei bhi maujood the. Statue ka unveiling kisi whitelisted source me post-event report nahi mila, isliye sirf shilanyas entry di gayi hai.', period: '2024-2029',
+  },
+{
+    title: 'Gate Bazar flyover (Rs 130.54 crore) ke liye MLA ke netritva me groundbreaking ceremony', category: 'Sadak', badge: 'news',
+    sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/bhubaneswar/construction-of-flyover-at-busy-silk-city-area-begins/articleshow/123591170.cms',
+    date: '2025-08-29', stage: 'shilanyas',
+    note: 'Times of India ke mutabiq Berhampur MLA K. Anil Kumar ne Gate Bazar me Rs 130.54 crore ke flyover ke construction-start par groundbreaking ceremony ka netritva kiya; date inferred hai (article me ceremony "on Friday" likhi hai aur 29 August 2025 Friday tha). Dhyan rahe: is project ka mool shilanyas pehle CM Mohan Charan Majhi kar chuke the; yeh MLA ke netritva me hui construction-shuru ki alag ceremony thi. Odisha Bridge and Construction Corporation (OBCC) 1,136-metre lamba aur 22-metre chauda flyover (dono taraf 5.5-metre service roads + drainage) 2 saal me banayegi, jo Aska Road ke Niladri Vihar se City Hospital ke purane gate tak jayega.', period: '2024-2029',
+  },
+];
+odishaWorks['krushna-chandra-nayak'] = [
+{
+    title: 'Matikhala gaon me 200 gharon ka saor-vidyutikaran poora — MLA ne Collector ke saath lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/odisha-matikhala-in-ganjam-turns-solar-powered-village/',
+    date: '2026-03-20',
+    stage: 'lokarpan',
+    note: 'Chhatrapur block ke Matikhala gaon me lagbhag 200 gharon (450 me se) ko PM Surya Ghar Muft Bijli Yojana ke Utility-Led Aggregation model ke tahat 1 kW rooftop solar system mile; Chhatrapur MLA Krushna Chandra Nayak ne 20 March 2026 ko Ganjam Collector V Keerthi Vasan ke saath poori hui pariyojana ka lokarpan kiya, TPSODL ke adhikaari bhi maujood the. Kaam TPSODL aur jila prashasan ne karwaya aur subsidy bhi unhi ki taraf se thi; MLA naamdar sthaniya pratinidhi ke roop me lokarpan me shamil hue — fund dene wale nahi.',
+    period: '2024-2029',
+  },
+];
+odishaWorks['nilamani-bisoyi'] = [
+  {
+    title: 'Gobara CHC ke medical officer ka nilamban — MLA Nilamani Bisoyi ne duty se laparwahi ka mamla Health minister, collector aur CDMO tak pahunchaya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/odisha/2025/Dec/19/medical-officer-suspended-for-alleged-dereliction-of-duty-at-gobara-chc-in-odishas-ganjam',
+    date: '2025-12-19',
+    stage: 'poora hua',
+    note: 'November 2025 me Surada MLA Nilamani Bisoyi ne Gobara community health centre ka achanak nirikshan kiya aur paya ki medical officer duty par maujood nahi tha, health worker uska kaam kar raha tha aur doctor apne sarkari awas me nashe ki halat me so raha tha. MLA ne mamla Health minister, Ganjam collector aur CDMO ke samne uthaya; CDMO ne Bhanjanagar sub-divisional medical officer se janch karayi aur janch report ke aadhar par medical officer Dr Gourab Kumar Upadhyaya ko nilambit kar diya gaya, mukhyalaya Berhampur jila swasthya karyalaya nirdharit kiya gaya. MLA ka jawab darj hai ki aisi harkat sweekar yogya nahi hai aur CHC me naya doctor niyukt karaya jayega. (Visit ka mahina article me "last month" likha hai, article 19 Dec 2025 ka hai, isliye November 2025 mana gaya hai.)',
+    period: '2024-2029',
+  },
+];
+odishaWorks['pradyumna-kumar-nayak'] = [
+  {
+    title: 'Bhanjanagar water park 10 mahine band rehne ke baad dobara khula, naya food court bhi shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/bhubaneswar/water-park-in-bhanjanagar-reopens-after-10-months/amp_articleshow/120907499.cms',
+    date: '2025-05-04',
+    stage: 'lokarpan',
+    note: 'TOI report ke mutabik Bhanjanagar ka water park (water resources department ne banaya tha, lagbhag Rs 5 crore ki lagat par paanch acre me) July se band pada tha aur MLA Pradyumna Kumar Nayak ne ise marammat ke baad dobara khola; park ke paas ek naya food court bhi unhone khola aur kaha ki aane wale dino me aur suvidhayein jodkar park ka vistar kiya jayega. Tareekh inferred hai: article page ke trending-context me 5 May 2025 dikhta hai aur report me park ko "Sunday" ko reopened bataya gaya hai, isliye event ki tareekh Sunday 4 May 2025 mani gayi hai.',
+    period: '2024-2029',
+  },
+];
+odishaWorks['saroj-kumar-padhi'] = [
+  {
+    title: 'Vidhan Sabha me Aska-40 country liquor ka daam badhane ki maang — Cooperative Minister ka likhit jawab, Excise adhikaariyon ki daam-badhoti par sehmati, CM dwara Aska sugar mill revival task force ka gathan', category: 'Any', badge: 'news',
+    sourceLabel: 'Odisha TV', sourceUrl: 'https://odishatv.in/news/odisha/why-aska-40-liquor-prices-not-hiked-for-so-long-aska-mla-250889',
+    date: '2024-12-11', stage: 'poora hua',
+    note: 'BJP MLA Saroj Kumar Padhi ne 11 Dec 2024 (Wednesday — date inferred: Kalinga TV ne isi Vidhan Sabha sawal ki khabar 11 Dec 2024 ko publish ki thi aur use "Wednesday" kaha tha; Odisha TV ne bhi "on Wednesday" kaha hai) ko Odisha Vidhan Sabha me likhit sawal poochha ki Aska-40 country liquor ka daam pichhle 5 saalon se kyun nahi badha; Cooperative Minister ne jawab diya ki OSBC bottle ka adhikatam bikri daam Rs 60 par fixed hai aur keemat me badhotri is yojana me nahi hui. Odisha TV ke mutabiq MLA ne media se kaha "Price has not increased for so many years and I have demanded a hike"; CM ke review meeting me Excise Minister aur senior adhikaariyon ne Aska-40 ki keemat-badhoti ki anivaaryata par sehmati di, aur CM Mohan Charan Majhi ne Aska sugar mill ke punruddhar ke liye Krishi, Vitt, Sahkarita, Excise aur Jal Sansadhan vibhagon ke adhikaariyon ki task force gathit karne ka aadesh diya, jiski report par aage ki punruddhar-upaay honge. Chunav-kal June 2024 ke baad ki post-event reporting; Odisha TV whitelisted source hai.',
+    period: '2024-2029',
+  },
+];
+odishaWorks['sidhant-mohapatra'] = [
+  {
+    title: 'Speaker ne Chhatua quality par Digapahandi MLA Sidhant Mohapatra ke sawal ke baad agencies ke khilaf action ka nirdesh diya', category: 'Any', badge: 'news',
+    sourceLabel: 'Odisha TV', sourceUrl: 'https://odishatv.in/news/odisha/substandard-chhatua-odisha-assembly-speaker-directs-to-initiate-action-against-erring-agencies-242956',
+    date: '2024-08-31', stage: 'poora hua',
+    note: 'Odisha Assembly me Digapahandi MLA Sidhant Mohapatra ne supplementary nutrition programme ke tahat bachchon, garbhvati mahilaon aur kishoriyon ko diye ja rahe Chhatua ki ghatiya quality par sawal uthaya aur sarkar se poocha ki achchi quality wala Chhatua sunishchit karne ke liye kya kadam uthaye gaye hain; iske baad Speaker Surama Padhy ne Women and Child Development Minister Pravati Parida ko doshi supply agencies ke khilaf action lene ka nirdesh diya, aur Minister ne sadan me ghoshna ki ki take-home ration units me mixing ki nigrani ke liye supervisors lagaye gaye hain aur gunavatta-matra jaanch ke liye do alag committees bani hain. Date 2024-08-31 inferred hai — search crawl me story lagbhag 776 days purani dikhi thi (16 Oct 2026 se 776 din pehle Saturday padta hai) aur khabar me bhi Speaker ke nirdesh ka din Saturday bataya gaya hai, dono ke match hone par yehi date li gayi.',
+    period: '2024-2029',
+  },
+];
+odishaWorks['manoranjan-dyan-samantara'] = [
+  {
+    title: 'Assembly me Chikiti ke 3 panchayaton me drinking water ki kami par sawal uthaya — tankers se pani pahuncha, mega water supply project ka intake well abhi tak shuru nahi.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/odisha-mlas-raise-rural-drinking-water-issue-in-assembly/',
+    date: '2026-03-10',
+    stage: 'poora hua',
+    note: 'Orissa POST ki report ke mutabiq Manoranjan Dyan Samantara ne Assembly ke Question Hour me bahas ki shuruaat ki aur apni Chikiti seat ke 3 panchayaton me surakshit drinking water ki kami ka mudda uthaya; unhone kaha BJP sarkar ne tankers se pani pahunchaya hai lekin permanent solution chahiye kyunki propose kiye gaye mega water supply project ke intake well ka kaam abhi tak shuru nahi hua hai. Panchayati Raj aur Drinking Water Mantri Rabi Narayan Naik ne jawab me bataya ki sarkar ne ek saal me 26,000 tube-wells khode, 68 lakh se zyada gharon ko tap connection mila, kul 207 mega drinking water projects shuru kiye jisme se 26 poore ho chuke hain aur baakiyon ka target Mar 2027 hai. Page ke published metadata se date 2026-03-10 pusht hai (inferred date nahi). Stage ka sach: ye accountability/pahal entry hai — MLA ka yogdan Assembly me sawal uthakar sarkari jawab ko public record me laana hai; kaam ka shrey unke apne fund ya niji prayas ka nahi hai.',
+    period: '2024-2029',
+  },
+];
+odishaWorks['bibhuti-bhushan-jena'] = [];
+// PARENT REVIEW DROP (2026-10-16): ED-raids negative hata diya — raid/jaanch Sunil Patra par thi; Jena khud kisi case me aaropi nahi (guilt-by-association niyam). Mantri-pad disclosure foundation me hai. Retry: ED/FIR me Jena ka naam aaye tabhi negative bane.
+odishaWorks['purna-chandra-sethy'] = [
+  {
+    title: 'Khallikote MLA Purna Chandra Sethy ki car se auto-takkar, 4 ghayal — Jankia Police jaanch me',
+    category: 'Any', badge: 'news',
+    sourceLabel: 'Odisha TV (OTV)', sourceUrl: 'https://odishatv.in/news/odisha/four-injured-as-odisha-mla-s-car-collides-with-auto-rickshaw-in-khordha-249694',
+    date: '2024-11-25',
+    note: '25 Nov 2024 ko Khallikote se Bhubaneswar jaate waqt NH-16 par Badapokharia Chhak (Khordha jila) ke paas MLA ki car ne peeche se auto-rickshaw ko takkar maar di, jisme driver samet 4 log ghayal hue; ghayalon ko pehle Badapokharia CHC aur phir Khordha DHH le jaya gaya, driver ka ilaaj DHH me jaari raha. MLA ko chot nahi aayi aur unhone ghayalon ke turant ilaaj ka intezaam karwaya. Jankia Police mauke par pahunchi aur jaanch jaari hai. Negative accountability item ke roop me darj hai: established media reporting (OTV; Kalinga TV English aur Sambad English ne bhi cover kiya), tenure me police jaanch, aur MLA ki pratikriya darj.',
+    period: '2024-2029',
+  },
+];
+odishaWorks['naveen-patnaik'] = [];
+odishaWorks['ramesh-chandra-jena'] = [];
+odishaWorks['pratap-chandra-nayak'] = [];
+odishaWorks['gokula-nanda-mallik'] = [];
+
+// REJECT-LOG (k-anil-kumar, Berhampur, BJP):
+// 1. Temporary bus stand, Duduma Colony, Berhampur (inaugurated ~Sep 2025; BeDA-built, ~Rs 1.50 crore) — minister Bibhuti Bhusan Jena ne inaugurate kiya, MLA K. Anil Kumar sirf maujood the (multiple aggregator copies of PTI report) — REJECT: dusre neta ke karyakram me maujoodgi.
+// 2. SRF chemical unit, Gopalpur Industrial Park (Ganjam) foundation stone — CM Mohan Charan Majhi ne video conferencing se kiya, MLA present + statement (TOI, whitelisted, page opened) — REJECT: dusre neta ke karyakram me maujoodgi; MLA ka koi apna documented proposal nahi.
+// 3. Mission Shakti eco-friendly diya stalls inauguration (Diwali, Oct 2025, TOI) — MLA ne stalls inaugurate kiye lekin yeh temporary sales-event/promo tha, koi development work nahi — REJECT: not a works entry.
+// 4. Pitabas Panda murder case + election petition (Orissa HC, Oct-Nov 2025; New Indian Express + TOI whitelisted) — election petition (No. 19/2024, petitioner Manoj Kumar Panda) K. Anil Kumar ke chunav ko challenge karti hai; MLA respondent hai, un par koi FIR/case/jaanch nahi; murdered advocate Pitabash Panda MLA ki taraf se petition me case lad rahe the. REJECT as negative: "chunav-yachika akeli" aur "MLA peedit/witness ho" rules ke tahat kabhi valid nahi.
+// 5. Vajpayee statue unveiling (target 25 Dec 2024) — whitelisted source me koi post-event reporting nahi mili (Orissa POST/PTI sirf pre-event: "will be installed") — no entry; RETRY LEAD: "Berhampur Ramalingam Park Vajpayee statue unveiled December 25 2024" par whitelisted English coverage khojo (odishatv.in / sambadenglish / thehindu city pages).
+// 6. Namesake trap: "Anil Kumar Yadav" (Telangana minister, Indiramma Towers), "P. Anil Kumar Yadav" (AP), aur Bihar ka MLA Manoj Madhav Anand — sab alag vyakti; "Anil Kumar" naam wali har hit me Berhampur seat + "K. Anil Kumar" verify kiya gaya.
+// 7. Kalinga TV YouTube video ("Discussion with MLA K. Anil Kumar over highway construction") — whitelist me sirf Kalinga TV English website hai, YouTube nahi; pre-event discussion bhi hai — no entry; RETRY LEAD: kalingatv.com par isi highway-discussion ka English article khojo.
+//
+// REJECT-LOG (worker: ganjam_worker_krushna-chandra-nayak; MLA verified: Krushna Chandra Nayak, BJP, Chhatrapur (SC), term 2024-2029, odisha.ts L3672):
+// 1. REJECT: E-scooter distribution to Divyang (24 three-wheeler e-scooters, Rs 54 lakh MLALAD sanction, distributed 17 Sep 2026) — would qualify as MLA-fund itemized sanction/lokarpan, but ONLY coverage found is The Hans India (https://www.thehansindia.com/odisha/chhatrapur-mlas-initiative-brings-mobility-to-divyang-1123593), which is NOT whitelisted. 4 targeted searches for whitelisted coverage (TNIE/Odisha TV/Sambad/Orissa POST/Kalinga TV/Pragativadi/Dharitri) found none. RETRY LEAD: re-search Sambad English/Odisha TV/Orissa POST/New Indian Express for "e-scooter" + Chhatrapur; if whitelisted post-event report appears, add as MLA-fund lokarpan.
+// 2. REJECT: Salary donation (TOI, 2024 — donated first month's salary Rs 43,000 to two needy families). Explicit reject class: salary-daan/charity.
+// 3. REJECT: Chhatrapur NAC -> municipality upgrade (TOI) — CM's announcement; MLA only thanked the CM. Another leader's decision, not MLA's work.
+// 4. REJECT: CM's Rs 28,000 crore industrial projects grounding at Onslow Stadium, Chatrapur (Prameya/mediainfoline/odishabytes) — MLA only gave vote of thanks / was present. Dusre neta ke karyakram me maujoodgi.
+// 5. REJECT: Rs 300+ crore coastal protection DPR for Aryapalli (Sambad English, Sep 2026) — DPR submitted for government approval, MLA said he would "continue to raise the issue". Maang/prastav akele, no documented administrative outcome. Orissa POST (Aug 2026) says draft DPR only, tender "likely". RETRY LEAD: if DPR gets government sanction/tender awarded in a whitelisted source, reconsider as ghoshna/svikriti-linked entry.
+// 6. REJECT: Letter to President seeking NH underpasses at Puintola, Agasti Nuagaon, Palia Chhatrapur, Anantapur (News18 Odia YouTube) — maang/prastav, and source not whitelisted.
+// 7. REJECT: NH-16 Chamakhandi accident spot/hospital visits (Kalinga TV, TOI, Orissa POST, Oct 2026) — nirikshan/daura akele, no work attached.
+// 8. REJECT: Cyclone Dana inspection with minister (Oct 2024, non-whitelisted source) — nirikshan/daura, minister's event.
+// 9. REJECT: TPSODL Mega Seva Setu Camp at DRDA Chhatrapur (Oct 2026, aroundodisha, non-whitelisted) — MLA merely "graced" the discom's event. Maujoodgi akele.
+// 10. REJECT: Hanuman temple Kumarbegapalli burglary spot visit (Orissa POST) — daura akele, not his work.
+// 11. NEGATIVE — NONE VALID: 2017 Laxmidutta Pradhan councillor murder case (arrest Oct 2017; affidavit lists 1 case with IPC 302/307/326/324/148). All established-media reporting (Odisha TV, Sambad English, Business Standard, Orissa POST) is from Oct 2017–Mar 2019, i.e., pre-term. No current-tenure FIR/case/inquiry or new court/inquiry development reported by any whitelisted/national media. ecourtsindia shows only a 1993-filing civil case (Cuttack), not a criminal development. Per negative rules: old matter + no new development = invalid. Affidavit "criminalCases: 1" alone is not a reportable negative.
+// NAMESAKE NOTES: (a) Krushna Chandra PATRA (Dhenkanal minister, land-cheque case complainant) is a different person — ignored wherever surfaced. (b) A 2014 CPI candidate also named Krushna Chandra Nayak contested Chhatrapur (Business Standard, Mar 2014: CPI replaced suspended Adikanda Sethi with Krushna Chandra Nayak) — clearly a different/older person, pre-dates the MLA's BJP tenure; do not attribute. Every accepted entry above is seat-verified: "Chhatrapur MLA Krushna Chandra Nayak".
+//
+// REJECT-LOG (nilamani-bisoyi / Surada, Ganjam — kaam Jun 2024 se aage ka hona chahiye tha):
+// 1. REJECT — Kalinga TV English (https://kalingatv.com/odisha/watch-doctors-successfully-remove-iron-nail-from-3-year-old-boys-stomach-after-a-month/, published 2026-08-28, poora page padha): 3-saal ke bachche Aakash Jena ke pet se 2.5-inch lohe ki keel nikalne ke liye AIIMS Bhubaneswar me ilaj ka intezam MLA ne karaya. Single-beneficiary personal madad hai, koi public kaam/project/lokarpan/swikriti nahi — charity/relief category me reject.
+// 2. REJECT — Odisha TV / odishatv.in (https://odishatv.in/odisha/otv-impact-two-inch-iron-nail-removed-from-3-year-olds-abdomen-at-aiims-bhubaneswar-12447994, sirf snippet dikha): wahi iron-nail wala mamla — #1 ke saath reject; saath hi article ka quote garbad hai (bachcha kabhi Belaguntha block, kabhi Bhandaripokhari/Bhadrak ka bataya gaya hai), bharosa layak detail nahi.
+// 3. REJECT — odishatv.in EVM-smashing arrest (2019, https://odishatv.in/odisha-news/bjp-mla-candidate-nilamani-bisoyi-arrested-for-smashing-evm-during-phase-2-polls-365270): pre-term (Phase-2 polling 2019) hai, current tenure me koi nayi court/inquiry development nahi — negative ke liye invalid.
+// 4. REJECT — myneta.info affidavit (9 criminal cases, 2002-2019, IPC 302/307/506 aadi): sab pre-term halafnama data hai, is tenure me nayi FIR/case/jaanch ya court development ki koi established-media reporting nahi mili — negative entry invalid.
+// 5. REJECT — argusenglish.in Gobara CHC story (Nov 2024, "doctor found drunk"): whitelist me nahi hai, isliye is par entry nahi; waise bhi TNIE Dec 2025 wali reporting ne usi sil-sile ke baad ke parinam ko cover kiya hai.
+// 6. REJECT — Kalinga TV YouTube "Fuel Crisis: Soroda MLA Nilamani Bisoi Raises Concern" (https://www.youtube.com/watch?v=FHc7Rmcp_bA): video hai, kalingatv.com par corresponding text article nahi mila; sirf sawal/chinta uthana, documented prashasnik nateeja nahi — reject.
+// NAMESAKE-TRAP notes: "Nilamani Dalei" (Keonjhar pension loot, Kalinga TV) alag vyakti hai; "Bisoi" Mayurbhanj ka police station bhi hai; "Nilamani" naam ka Sona Mohapatra ka gaana hai; Basanta Kumar Bisoyi (INC, Surada 2014), Prasant Kumar Bisoyi (INC, Bhanjanagar), Surabhi Bisoyi (INC, Aska) — teeno alag neta hain, sab reject.
+// RETRY-LEADS (agla worker try kare): (a) Kalinga TV fuel-crisis video ka text version kalingatv.com par dhoondo; (b) odishatv.in ke Surada tag par 2025-26 ki Bisoyi stories site-search se; (c) orissapost.com par "Sorada reservoir" water stories me MLA ka role check karo; (d) newindianexpress.com par "Bisoyi" se dobara search — English media me is MLA ki coverage bahut kam hai.
+//
+// Worker file: Pradyumna Kumar Nayak (BJP, Bhanjanagar, Ganjam) — works-mining run 2026-10-16.
+// Foundation verified: src/data/odisha.ts slug 'pradyumna-kumar-nayak', Bhanjanagar, tenure 2024-2029.
+// Sirf Jun 2024+ ke kaam; whitelisted sources hi khole-padhe gaye (15 English searches).
+// REJECT-LOG (har candidate source kholkar padha gaya; snippet se entry nahi)
+// 1. Elephant care centre, Chandragiri reserve forest (OrissaPOST, 2024-12-20): "proposal ... under active consideration and likely to be approved soon" — pre-event ghoshna/prastav. Retry lead: Dec 2024 ke baad approval/inauguration ki khabar check karo. URL: https://www.orissapost.com/odisha-chandragiri-reserve-forest-set-to-get-elephant-care-centre/amp/
+// 2. Loharakhandi nadi ke kinare ring road prastav, Rs 400 crore budget earmarked (OrissaPOST, 2025-06-04): MLA ne prastav rakha, "once approved" — swikriti pending = prastav akele. Retry lead: baad me sanction/approval ki report check karo. URL: https://www.orissapost.com/residents-pin-hope-on-ring-road-to-get-respite-from-river-pollution/amp/
+// 3. Modern court building ka shilanyas, Bhanjanagar (OrissaPOST, ~Aug 2022): pre-term (2024 se pehle), MLA ka koi role nahi. URL: https://www.orissapost.com/foundation-for-modern-court-building-laid-in-bhanjanagar/
+// 4. BJP OBC Morcha president ghoshna (OTV English, Dec 2025): "Pradyumna Nayak, Ghumusar (Bhanjanagar)" — party-sangathan khabar, MLA-kaam nahi. Sambhav hai ye MLA hi hon, par work entry ke yogya nahi. URL: https://odishatv.in/odisha/odisha-bjp-names-morcha-presidents-district-prabharis-aishwarya-biswal-to-lead-mahila-wing-avilash-panda-bjym-president-10894873
+// 5. Nirikhyana Sathi auto-ambulance (TOI/OrissaPOST PTI, 2026-04-27): jila prashasan ki pahal, Collector V Keerthi Vassan ne udghatan kiya — MLA ka koi ullekh nahi. URL: https://www.orissapost.com/odishas-ganjam-launches-free-auto-rickshaw-ambulance-services-for-pregnant-women/
+// 6. Bhanjanagar block auto-ambulance launch (utkaldaily.com, Oct 2026): whitelist me nahi; BDO ne udghatan kiya; MLA ka ullekh nahi.
+// 7. Gopalpur Beach Festival 2026 (Pragativadi): MLA ne sirf karyakram ko credit diya — karyakram me maujoodgi/shrey, kaam nahi.
+// 8. CM ke Ganjam projects (Rs 550 cr / Rs 492 cr, ommcomnews/The Week/OrissaPOST): CM ki ghoshnaen, MLA sirf upasthit — aur kuch source whitelist me nahi.
+// 9. Bhanjanagar NAC→Municipality upgrade (ETRealty Sep 2025 / odishatoday Mar 2024): CM ki ghoshna; March 2024 wala pre-term aur poorv MLA se juda.
+// 10. Bhanjanagar Thakurani Yatra 2026 planning meeting (nknewsodisha, Mar 2026): whitelist me nahi; prashasnik meeting ki adhyakshata — kaam nahi.
+// 11. Lakshya Niketan free IAS coaching centre (nknewsodisha, Apr 2026): whitelist me nahi; Minister Bibhuti Bhushan Jena ne udghatan kiya.
+// 12. Nephew par hamla (OrissaPOST, 2019-04-11): pre-term; parivar-sambandhi; MLA shikayat-karta paksh me — negative ke yogya nahi.
+// 13. Halafname ke 2 aapradhik mamle (Bhanjanagar PS 117/118 of 2019, charges framed 12 Feb 2024): pre-tenure background (foundation me darj), tenure me koi nayi court/inquiry development nahi mili — negative entry nahi bani.
+// NAMESAKE-TRAP NOTE: "Pradyumna Nayak" naam se (a) BJP OBC Morcha (Ghumusar/Bhanjanagar) adhyaksh ki ghoshna me naam aata hai — sambhavatah MLA swayam, lekin party-khabar hai, work nahi; (b) Bhadrak ke ek HDFC retail-loan list me "Pradyumna Nayak" — asambandhit vyakti. Bikram Keshari Arukha (BJD, poorv MLA/mantri) se judi koi khabar Pradyumna par nahi thopi gayi.
+//
+// Ganjam district worker fragment (researched 2026-10-16) — MLA Saroj Kumar Padhi (Aska, BJP, Jun 2024-2029).
+// Foundation verify: src/data/odisha.ts me slug 'saroj-kumar-padhi' record confirmed (Aska, BJP, age 68, 1 purana aapradhik mamla).
+// DO NOT export; appended to odisha works file.
+// REJECT-LOG (har reject ek pankti me):
+// REJECT: Nimina gaon me naye pul ka shilanyas (12 June 2026, Setubandha Yojana, lagbhag Rs 1.85 crore) — sirf odishabiznewz.com aur hellokotpad.com ne diya; koi whitelisted source nahi; snippet se entry nahi ho sakti.
+// REJECT: Aska NAC ko municipality banane ki CM ki ghoshna (TOI, whitelisted) — CM Mohan Majhi ka faisla; MLA Saroj Padhy ne sirf CM ka dhanyavaad kaha; dusre neta ke karyakram me maujoodgi, apna dawa nahi.
+// REJECT: CM ka Rs 550 crore infra projects ka Aska me shilanyas (TOI/ommcomnews, ~June 2025) — CM ka karyakram; MLA ne sirf dhanyavaad-prastav rakha; maujoodgi.
+// REJECT: Aska ke liye lagbhag Rs 290 crore ke road/bridge projects ki Centre ki swikriti (infra.tractorjunction.com) — whitelisted source nahi; MLA ne sirf swikriti ka swagat kiya, kaam unka nahi.
+// REJECT: OTV me MLA ka bayaan (ground zero jaakar road-less gaonon ki jaanch) — nirikshan/daura akele, poora-kaam nahi.
+// REJECT: Nursing/medical college ki maang par Assembly me narazgi (hellokotpad, March 11) — whitelisted source nahi; koi documented prashasnik nateeja/ashwasan nahi.
+// REJECT: Chitrakonda hostel mamle par BJD ki aalochna ka jawab (OTV) — rajneetik bayan, vikas-kaam nahi.
+// REJECT: "27 BJD vidhayak BJP me aayenge" ka dawa (OTV/odishabytes) — rajneetik bayan.
+// REJECT: "BJD jald closed book hoga" ka bayan (OTV, Dec 2025) — rajneetik bayan.
+// REJECT: May 2022 me MLA ke laapata hone ki khabar (TOI/OrissaPOST/HT/KalingaTV) — pre-term (2022) AUR MLA khud peedit/shikayat-karta ke roop me; negative ka maydaan hi nahi.
+// REJECT (NAMESAKE TRAP): "BJP MLA Saroj Kumar Pradhan ke khilaf arrest warrant" (Orissa POST + Pragativadi, 27 Sep 2026, poll-affidavit case) — ye BOUDH ke MLA Saroj Kumar PRADHAN hain (Chief Whip), Aska ke Saroj Kumar PADHI nahi; bilkul alag vyakti; entry kisi halat me is profile me nahi jod sakti.
+// REJECT (GALAT VYAKTI): "Residents criticise MLA for inaugurating incomplete project" (OTV) — Paradip ke MLA Sambit Routray ka mamla hai, Saroj Padhi ka nahi.
+// REJECT: Glass/plastic/paper cup par paryavaran tippani (OTV YouTube) — bayan, kaam nahi.
+// NOTE (namesake chetaavni): "Saroj Kumar PRADHAN" (Boudh MLA, arrest-warrant wala) alag vyakti hain — dono ke naam milti-julti spelling ke kaaran search hits mile to alag karna zaroori; ye chetaavni confirm ho gayi. "Padhi/Padhy" alag-alag spelling me bhi search kiya gaya; 2019 se pehle ke record (independent MLA 2004, Congress se istifa 2019, 2022 laapata episode) sab pre-term hain.
+// NOTE (negative check): halafnama me 1 purana aapradhik mamla (Aska PS GR 401/2019, IPC 323, charges frame 2021) — purana, pre-tenure. June 2024+ tenure me is MLA ke khilaf koi FIR/case/jaanch ya court/inquiry development established/national media me nahi mili — isliye koi negative entry nahi.
+// RETRY-LEAD: odishabiznewz/hellokotpad ne 12 June 2026 ke Nimina pul shilanyas ki post-event reporting di hai — agar kisi whitelisted source (TNIE/Sambad/OTV/OrissaPOST) me yehi khabar mile to shilanyas entry bane; abhi source-rule ke kaaran reject.
+// RETRY-LEAD: mlalads.odisha.gov.in par Aska ke itemized vidhayak-nidhi sanction ki suchi kabhi fetch nahi hui — sarkari portal check karo, yahi sabse majboot valid-source hai.
+//
+// AapkaNeta.org Odisha works-mining — Ganjam per-MLA worker
+// MLA: Sidhant Mohapatra | Seat: Digapahandi (134, Ganjam) | Party: BJP
+// Foundation record: src/data/odisha.ts slug 'sidhant-mohapatra' (works: [], tenure 2024-2029)
+// Mining window: Jun 2024 – Oct 2026 | 12 English searches + 3 whitelisted-source
+// articles + 1 tag page KHUD KHOLE-PADHE (snippets se entry kabhi nahi)
+// ===== REJECT-LOG =====
+// R1. REJECT — Kalinga TV (whitelisted, page KHUD KHOLA-PADHA, published 2025-02-20):
+//     "MLA Sidhant Mohapatra questions over cracks in Hirakud reservoir" — Digapahandi
+//     MLA ne Budget Session me Hirakud Dam ki dararon par unstarred question uthaya,
+//     CM Mohan Majhi ne written reply diya (CSMRS report + DRIP-III Rs 1,066.38 crore).
+//     Whitelisted source + documented prashasnik jawab ke bawajood REJECT kyunki
+//     Hirakud Dam Sambalpur district me hai — seat se bahar.
+//     https://kalingatv.com/odisha/digapahandi-mla-sidhant-mohapatra-raises-question-over-cracks-in-hirakud-dam-cm-majhi-replies/
+// R2. REJECT (non-whitelisted source) — OdishaBytes (page KHUD KHOLA-PADHA, published
+//     2024-06-24): "MLA Siddhant Mohapatra Asks TPSODL To Remove Electricity Pole In
+//     Middle Of Road In Odisha's Ganjam" — Chasanimakhandi panchayat (Digapahandi block)
+//     ke daure me MLA ne Sindhaba-Padampur road par beechon-beech khade high-tension
+//     pole ko dekhkar TPSODL aur Rural Development engineers se turant shift karne ko
+//     kaha. Seat ke andar unki pahal thi, lekin OdishaBytes whitelist me NAHI hai aur
+//     kisi whitelisted outlet ne ye khabar cover nahi ki — entry nahi.
+//     RETRY LEAD: TPSODL pole-shift / Sindhaba-Padampur road par whitelisted coverage.
+//     https://odishabytes.com/mla-siddhant-mohapatra-asks-tpsodl-to-remove-electricity-pole-in-middle-of-road-in-odishas-ganjam/
+// R3. REJECT — Times of India (2024-06-19): "First-time MLA Sidhant Mohapatra sends a
+//     green message, cycles to Odisha assembly" — cycle par assembly jana vyaktigat
+//     green gesture hai, vikas-kaam nahi.
+// R4. REJECT — Odisha TV: "From MP to MLA and now aiming for sarpanch" — sirf bayan,
+//     koi kaam/ghatna nahi.
+// R5. REJECT — The New Indian Express (Apr 2024): "Dissidence in Odisha BJP after Sidhant
+//     Mohapatra chosen for Digapahandi" — chunav se pehle ki rajneetik khabar, kaam nahi.
+// R6. REJECT — enewsinsight.com "Questions Mount for Siddhant Mohapatra" (non-whitelisted
+//     opinion piece): Haldiapadar Overbridge design flaws par unke bayanon ki aalochana.
+//     Bridge Berhampur (unke poorv MP kshetra) ka hai — pre-term/irrelevant; koi FIR/
+//     case/jaanch nahi, isliye qualifying negative bhi nahi.
+// R7. REJECT — OTV YouTube "Special Story: BJP Revolt Against MLA Sidhant Mohapatra in
+//     Digapahandi" (Oct 2026): party workers (Bipin Pradhan faction) ka asantosh — kaam
+//     nahi; party-nilamban bhi nahi hua, sirf dissidence hai — qualifying negative nahi.
+// R8. REJECT — thenewshashtag.com / agamiduniya.in / pragativadi.com (Oct 2026): OMC Puri
+//     Coastal Marathon promo run Bhubaneswar me MLA sirf maujood/flag-off me the — dusre
+//     netaon ke karyakram me maujoodgi.
+// R9. REJECT — odishabytes.com / kalingatv.com (2018): CM Naveen Patnaik ne Ganjam me
+//     Adarsha Vidyalaya + projects ka udghatan/shilanyas kiya; Sidhant Mohapatra (tab MP)
+//     sirf maujood the — pre-term (MP-era) + dusre neta ka karyakram.
+// R10. REJECT — indiaeducationdiary.in: MP Sidhant Mohapatra ne Cuttack me "22 Bikes"
+//     cycle store ka udghatan kiya — pre-term (MP-era) + Cuttack seat se bahar.
+// R11. REJECT — aroundodisha.com (non-whitelisted): Hirakud Dam story ka duplicate (R1)
+//     — non-whitelisted + seat se bahar.
+// R12. REJECT — Kalinga TV YouTube "Special Interaction with Digapahandi MLA and Actor
+//     Sidhant Mohapatra": interview hai, vikas-kaam nahi.
+//
+// NEGATIVE CHECK: is tenure me Sidhant Mohapatra par koi FIR/case/jaanch ya purane mamle
+// me nayi court/inquiry development ki koi established-media reporting nahi mili — koi
+// valid negative entry nahi.
+//
+// NOTE: 12 searches ke baad ye tasveer ubhri ki Sidhant Mohapatra ka whitelisted English
+// media me darj vikas-kaam ka record bahut patla hai — media unhe celebrity/public-appearance
+// (promo run flag-off, interviews, cycle-ride) ke roop me zyada cover karta hai. MLALADS
+// portal (mlalads.odisha.gov.in) par neta-war kharch ka record online uplabdh nahi hai
+// (foundation note me darj), isliye MLA-fund itemized sanction verify nahi ho saki.
+//
+// AapkaNeta.org Odisha works-mining — Ganjam per-MLA worker
+// MLA: Manoranjan Dyan Samantara | Seat: Chikiti (135, Ganjam) | Party: BJP
+// Foundation record: src/data/odisha.ts slug 'manoranjan-dyan-samantara'
+// (Chikiti seat = Chikiti NAC + Chikiti Block + Patrapur Block)
+// Mining window: Jun 2024 – Oct 2026 | 15 English searches + 1 whitelisted-source article khola-padha
+// ===== REJECT-LOG =====
+// R1. thepoliticsodia.com (Sep 2026) — "BJP MPs, MLAs Flag Delays in Development Projects:
+//     Letters Trigger Fresh Political Row" — Chikiti MLA Manoranjan Dyan Samantaray ne President
+//     Droupadi Murmu ko constituency issues par letter likha. REJECT: source whitelist me nahi;
+//     letter me mudde uthana kaam nahi; koi documented prashasnik nateeja/ashwasan nahi.
+// R2. odishabytes.com (21 Jun 2025) — "Odisha MLA Makes Surprise Visit To School, Examines MDM
+//     Quality" — Ramchandrapur Jagannath Govt Upper Primary School me MDM ki surprise inspection.
+//     REJECT: nirikshan/daura akele (reject rule) + source whitelist me nahi.
+// R3. odishatv.in — "Lord Jagannath's idol brought into MLA–Councillor dispute during allowance
+//     distribution in Ganjam" — Chikiti NAC me allowance distribution par BJP MLA vs BJD councillor
+//     vivaad; MLA ka jawab article me darj hai. REJECT (negative): negative rule (b) fails — is
+//     tenure me koi FIR/case/jaanch nahi, sirf political dispute. REJECT (work): ye kaam nahi.
+// R4. odishatv.in (21 Aug 2024) — "Ganjam Hooch tragedy death toll rises to 2: BJP, BJD at
+//     loggerheads" — Chikiti spurious liquor case; MLA ne BJD patronage ka aarop lagaya.
+//     REJECT (negative): rule "MLA shikayat-karta/peedit ho to" → negative kabhi valid nahi.
+// R5. yugabda.com (May 2025) — CM Mohan Majhi Ganjam visit: Chikiti MLA Manoranran Dyan Samantara
+//     CM ke saath dikhe. REJECT: doosre neta ke karyakram me maujoodgi + source non-whitelisted.
+// R6. Times of India (Sep 2026) — "BJD, Cong disrupt assembly again over textbook errors, MMDR
+//     Act" — MLA ka bayaan ki opposition House disrupt kar raha hai. REJECT: sirf bayaan;
+//     koi Assembly-sawal ya documented prashasnik outcome nahi.
+// R7. Saari chunav coverage — News18/TOI election results, TNIE (13 Apr 2024), OTV family-battle
+//     pieces, Indian Express, ThePrint nomination story, Economic Times, newsarenaindia:
+//     REJECT: pre-term / chunav-samagri, kaam nahi.
+// R8. ommcomnews.com — "CM Majhi lays foundation stones for Rs 550 cr projects in Ganjam":
+//     Chikiti MLA sirf attendees list me; kaam CM ka. REJECT: doosre neta ka kaam + non-whitelisted.
+// R9. business-standard/Statesman "Naveen inaugurates/launches projects in Ganjam" — 2016-2019 ke
+//     CM-kal ke kaam; pre-term. REJECT.
+// R10. globgov.com / theodiaz YouTube podcast / YouTube "breaks down in Assembly" video —
+//      REJECT: YouTube whitelist me nahi; globgov fan page hai, kaam nahi.
+// Negative sweep: affidavit (ADR/myneta) me 3-4 purane cases — FIR 62/2007 Jarada PS (charges framed
+// May 2016), FIRs 34/17, 36/17, 35/17 Jarada PS (2017) — sab pre-term. Jun 2024 ke baad in par koi
+// nayi court/inquiry development ki established-media reporting nahi mili; is tenure me MLA par koi
+// naya FIR/case/jaanch nahi. Isliye koi negative entry valid nahi.
+//
+// ===== NAMESAKE TRAPS (verified — ye alag vyakti hain, entries me confuse na karein) =====
+// N1. Debashish Samantaray — Rajya Sabha (Apr 2024 BJD, phir May 2026 BJP; ommcomnews "Samantaray
+//     Elected Unopposed To Rajya Sabha") — Cuttack region ke 3-time MLA; Chikiti MLA se koi sambandh nahi.
+// N2. Suresh Samantaray — poorv Odisha BJP adhyaksh; alag vyakti.
+// N3. Rabindra Nath Dyan Samantara — Chikiti MLA ke bhai, 2024 me Congress candidate (Chikiti);
+//     "Samantara" surname match par seat + poora naam dono verify karein.
+// N4. Chintamani Dyan Samantra — father, poorv Assembly Speaker; Chikiti se 1980/1985/1995 me MLA;
+//     unke saare kaam pre-term (2024 se pehle).
+//
+// ===== RETRY LEADS (is run me nahi khule) =====
+// L1. kalingatv.com, pragativadi.com, dharitri.com English — inki site search par "Chikiti MLA"
+//     keyword se check karein; web search results me kuch nahi mila, direct site search pending.
+// L2. Sambad English (sambadenglish.com) — whitelisted; site search pending.
+// L3. ganjam.odisha.gov.in — Chikiti NAC ke tenders/order-sheets: MLA-fund itemized sanction mil
+//     sakta hai, lekin entry sirf GO/sarkari-suchi par; is run me site-level search nahi hui.
+// L4. OTV YouTube video "Chikiti MLA Manoranjan Dyan Samantara Breaks Down while Addressing
+//     Odisha Assembly" (maa ki pratham shradh anniversary wale din Assembly me bhavuk hue) —
+//     video-only, whitelisted text article nahi mila; text article milta to bhi kaam nahi, sirf
+//     personal moment.
+//
+// REJECT-LOG (bibhuti-bhushan-jena — Gopalpur, BJP, karyakaal Jun 2024–2029):
+// MANTRI-PAD VERIFICATION: Bibhuti Bhushan Jena Mohan Charan Majhi cabinet me Cabinet Minister hain — Commerce & Transport + Steel & Mines (Orissa POST 14 Jun 2024: "Bibhuti Bhushan Jena: Commerce & Transport, Steel & Mines"; OTV portfolio list bhi yahi kehti hai). Is wajah se lagbhag saari coverage mantri-pada ki hai; seat-level kaam media me lagbhag nahi.
+// 1. Orissa POST (15 May 2026): Chhatrapur (Gopalpur seat ka hissa) me NH-16 par DRDA Square/Science College Square overbridge ka foundation stone — Jena (mantri) + Chhatrapur MLA Krushna Chandra Nayak layenge; lekin article PRE-EVENT announcement hai ("ceremony scheduled for Friday") — pre-event reporting allowed nahi, REJECT (retry lead: actual foundation-laying ki post-event coverage allowed sources par dhoondho).
+// 2. TOI (5 Jun 2025): CM Majhi ne Gopalpur Industrial Park/Chhatrapur me Rs 28,084 crore industrial projects ka foundation stone rakha; Jena sirf "attended by... dignitaries" me — CM ka karyakram, dusre neta ki maujoodgi, REJECT.
+// 3. TOI/PTI (Jan 2026): CM Majhi ne Gopalpur Mahotsav me Ganjam ke liye Rs 492 crore projects launch kiye (Gopalpur beach beautification Rs 32 crore sahit); Jena sirf maujood — CM ka kaam, maujoodgi, REJECT.
+// 4. The Week/PTI (18 Jun 2025): Gopalpur port expansion pact (Adani Ports + JSW), Rs 16,554 crore — mantri-star vibhagiya faisla + PSU/kendra ka bada project; Jena ka bayan sirf policy-quote; seat-kaam nahi, REJECT.
+// 5. thenewshashtag (date unknown, non-whitelist site): OSRTC ne 9 routes par 13 nayi bus services launch ki, Jena ne virtual launch kiya — statewide mantri-pada ka kaam, srot bhi allowed-list me nahi, REJECT.
+// 6. TNIE (22 Oct 2024): Rangeilunda airstrip expansion review meeting Jena ne li — statewide transport portfolio ka kaam, koi seat-level lokarpan/shilanyas nahi, REJECT.
+// 7. Orissa POST (21 Jun 2026) + archive headline (22 Jun 2026): Ganjam me woman student suicide me Jena ke nephew ki giraftari; mantri ne kaha law apna kaam kare — PARIVAR KA MAMLA = negative rules me KABHI NAHI, REJECT.
+// 8. Prameya News (Sep 2026, non-whitelist): Jena ne Gopalpur beach cleanup drive me hissa liya — srot allowed-list me nahi + cleanup drive akela kaam nahi, REJECT.
+// 9. aroundodisha (27 Mar 2025, non-whitelist): Jena ne Assembly me Nagavali river illegal sand mining par Rs 16.17 lakh fine ki jaankari di — mantri-pada ka prashasnik jawab, seat-kaam nahi + srot allowed-list me nahi, REJECT.
+// 10. OTV (Aug 2023 archive): "BJP opposes water supply project in Ganjam" — Jena ne State BJP Secretary ke roop me virodh kiya — PRE-TERM (2023), chunav se pehle, REJECT.
+// 11. Runner-up Bikram Kumar Panda (BJD): kisi bhi source me unke karyakaal ke kaam ki post-event reporting nahi mili; unke koi kaam Jena ki profile me nahi jode gaye — pehchan alag rakhi gayi.
+// 12. Negative check: halafname me criminalCases 10 darj hain — lekin raw halafnama aankda akela negative nahi; Jun 2024 se ab tak allowed established media me ED-raids/BJD-demand ke siwa koi qualifying FIR/case/inquiry development nahi mili.
+// 13. MLA-LAD (MLALADS): Gopalpur seat ke liye koi itemized sanction ya fund-source wali post-event reporting allowed sources par nahi mili — koi entry nahi bani.
+//
+// RETRY LEADS: (a) Chhatrapur overbridge (NH-16, Science College Square) ke actual foundation-laying (mid-May 2026) ki post-event coverage Orissa POST/OTV/Sambad English par dhoondho — ye sabse mazboot seat-level candidate hai (Chhatrapur town Gopalpur constituency me hai); (b) MLALADS portal (mlalads.odisha.gov.in, Aug 2025 se live) par Gopalpur ke neta-war sanctions check karo; (c) odisha.gov.in GO portal par Gopalpur seat-specific swikriti orders.
+//
+// QA: 12 news searches + 2 page reads (TOI negative full-text, Orissa POST tag archive); sirf 1 valid negative entry mili; 0 positive seat-work entries (khaali-imaandaari). Sources: TOI, Orissa POST, OTV, TNIE, The Week — sab whitelisted.
+//
+// Odisha works-mining — Ganjam district worker
+// MLA: Purna Chandra Sethy | Seat: Khalikote (SC) | Party: BJP | Tenure: Jun 2024–2029
+// Foundation verified (src/data/odisha.ts, slug 'purna-chandra-sethy'):
+//   name 'Purna Chandra Sethy', party 'Bharatiya Janata Party', partyShort 'BJP',
+//   post 'MLA', constituency 'Khalikote (SC)', tenures [{start: '2024', end: '2029'}].
+// Pehchan-note: media me 'Purna Chandra Sethy' / 'Purna Chandra Sethi' / 'Purnachandra Sethi' spellings
+//   vary hote hain — Khalikote (SC), Ganjam, BJP, 70 yr, Post Graduate verify karke hi entry li gayi hai.
+// REJECT-LOG (purna-chandra-sethy — Khalikote (SC), BJP, karyakaal Jun 2024–2029):
+// 1. OTV (orishatv.in, ~Jun 2026): Godabarish Mishra Adarsha Vidyalaya ka foundation stone ceremony, Balarampalli School
+//    (Komanda panchayat, Khallikote block) — MP Anita Subhadarshini aur MLA Sethy ke samarthakon me plaque par
+//    naamon ke kram ko lekar haathapai, karyakram bhadak gaya. SHILANYAS work ke roop me REJECT: report Sethy ko
+//    stone rakhne wala nahi batati (bhoomika aspasht, program adhoora raha), aur dono netaon se koi tippani nahi mili.
+//    Negative ke roop me bhi REJECT: police ki maujoodgi/hastakshep tha lekin koi FIR/case/jaanch darj nahi hui —
+//    negative niyam (b) poora nahi hota.
+// 2. ThePrint/PTI (28 Apr 2026): Rajya Sabha chunav (16 Mar 2026) me BJP MLAs Upasana Mohapatra aur Purna Chandra
+//    Sethy ko '2nd ballot paper' jaari hone par BJD ki CEC se shikayat. Negative ke roop me REJECT: MLA ke khilaf
+//    koi FIR/case/jaanch nahi — EC ko di gayi shikayat akeli chunav-vivaad hai ('chunav-yachika akeli' niyam).
+// 3. OTV (odishatv.in, ~1 Apr 2026): Odisha sarkar ne 30 jilon ke District Planning Committees ke chairpersons
+//    ghoshit kiye; Purna Chandra Sethi ko Ganjam ka charge. Work ke roop me REJECT: niyukti (appointment) valid
+//    entry-type (poora-kaam/lokarpan/swikriti/shilanyas/ghoshna/pahal/MLA-fund) me se koi nahi hai.
+// 4. RETRY LEAD: UDN-wire (odishabiznewz, utkaldaily, 29 Sep 2026): Ganjam DPC meeting Chairman Purnachandra Sethi
+//    ki adhyakshata me; FY 2026-27 ka Rs 8,011.89 crore annual plan approve (transport Rs 2,949.01 crore, social
+//    services Rs 2,276.12 crore, rural development Rs 1,101.50 crore, irrigation/flood control Rs 765.23 crore).
+//    Swikriti-qualifying ho sakta tha, lekin coverage sirf non-whitelisted sites par hai — whitelisted media ya
+//    sarkari DPC minutes/GO milne par entry banao.
+// 5. Khallikote me Godabarish Mishra school ka shilanyas: CM ne virtual mode me stone rakha (statewide program);
+//    Sethy ki maujoodgi 'dusre neta ke karyakram me maujoodgi' — REJECT.
+// 6. Desalination plant (Matikhal, Chhatrapur block): Dharmendra Pradhan ka program, seat se bahar — REJECT.
+// 7. CM Majhi ka Rs 492 crore Ganjam projects launch (Gopalpur Mahotsav closing, Jan 2026): Sethy sirf maujood
+//    the, CM ka kaam — REJECT.
+// 8. Orissa POST (10 Mar 2026): Assembly me rural drinking water mudda — sawal uthane walon me Sethy nahi the
+//    (Samantara, Mallik, Kadam the) — REJECT.
+// 9. NAMESAKE-TRAP: 'Rs 25 lakh land-scam' khabrein Krushna Chandra PATRA (Dhenkanal, mantri) ki hain — Sethy se
+//    koi sambandh nahi. 'Chitrakonda MLA helps accident victims' (2016) Purna Chandra BAKA ki hai — alag vyakti.
+//    'Purna Chandra Swain' (Sorada MLA) bhi alag vyakti hain. In sabko galti se entry me nahi liya gaya.
+//
+// Works-mining for Naveen Patnaik (Hinjili, Ganjam) — mined 2026-10-16.
+// RESULT: KHAAALI profile. Naveen Patnaik par Jun 2024+ me Hinjili seat ke liye
+// koi bhi VALID vyaktigat documented kaam whitelisted media me nahi mila.
+// Unki post-election coverage ya to LoP-institutional thi ya pre-term CM-era ki.
+// Koi bhi MLA-fund itemized sanction, lokarpan, shilanyas, swikriti, ya Assembly
+// sawal-se-prashasnik-nateeja report Jun 2024 ke baad documented nahi hai.
+// ---------------- REJECT LOG (2026-10-16) ----------------
+// REJECT (LoP sansthaagat): Odisha TV, 2024-12-30 — "Naveen Patnaik's Visit to
+//   Hinjilicut Sparks Political Debate" (odishatv.in/news/odisha/...-252319).
+//   Post-election fasal-nuksan (unseasonal rain) kisan daura: Sheragada, Aska,
+//   Kabisuryanagar. TNIE (2024-12-31) bhi isi tour par — compensation ki MAANG
+//   ki, koi documented prashasnik nateeja nahi. Nirikshan/daura akele + maang
+//   akele = reject.
+// REJECT (LoP sansthaagat): Kalinga TV, 2025-12-19 — "BJD leader and workers
+//   from Hinjili meet Naveen Patnaik". Hinjili Municipality delegation ne
+//   stalled development works, hospital doctor shortage, ration/pension
+//   irregularities uthaaye; Naveen ne sirf "take up the concerns with the
+//   district administration" ka ASHWASAN diya. Ashwasan bina documented nateeje
+//   = reject. (Poora page kholkar padha gaya; koi follow-up result report nahi.)
+// REJECT (LoP sansthaagat): OMMComNews, ~2026-10-01 — "Troublemakers Are In
+//   The Loop: Naveen Warns Leaders From Home Turf Hinjili" — party-internal
+//   discipline meeting, anushasan-chetavni; seat ka vikas-kaam nahi = reject.
+// REJECT (ceremonial, non-whitelist): nknewsodisha.in, 2026-05-01 — Naveen ne
+//   Hinjili ki do sarpanchon (Pochilima, Belagaon — Panchayat Development Index
+//   awards) ko Naveen Niwas me sammanit kiya. Award central govt ka, kaam
+//   sarpanchon ka; MLA ka documented kaam nahi + source whitelist me nahi.
+// REJECT (pre-term CM-era): OdishaBytes / ThePrint / Latestly, 2024-02/03 —
+//   "Naveen initiates several projects on one-day visit to Ganjam": Hinjili-
+//   Sheragada me 7 projects (Rs 181.78 cr) + 8 shilanyas; Rs 2000 cr district
+//   package; Sheragada NAC ghoshna. Sab Feb-Mar 2024, CM-pad se = pre-term.
+// REJECT (pre-term CM-era): The Statesman, 2016-11-19 — Ganjam me Rs 32 cr
+//   projects (anganwadi/stadium/bus-stand/roads) as CM = pre-term.
+// REJECT (pre-term CM-era): Orissa POST / OTV, 2021-02-11 — Hinjili me 14
+//   projects (Rs 28 cr): bus-stand, Netaji Park, sub-divisional hospital
+//   (Rs 16.77 cr), e-nam hall, cold storage — sab CM ke roop me, 2021 = pre-term.
+//   (OTV wala page bhi khola gaya; content 2021 ka confirm hua.)
+// REJECT (pre-term CM-era): NDTV-era search hits — 2021 Hinjili school
+//   transformation 10 schools lokarpan; 2021/2023 Sitalapalli SUM hospital etc.
+//   sab CM-karyakaal ke = pre-term.
+// REJECT (election-only): TNIE 2024-04-25 / OdishaBytes — Hinjili se campaign
+//   launch, 10-year plan ghoshna (chunav rally me "2024-34 decade" wada) —
+//   ghoshna chunav-manifesto class, koi post-event implemented-report nahi.
+// REJECT (negative, fails FIR test): Helicopter-expenditure complaint — Aug 2024
+//   me Sudhir Charan Mohanty ne Capital PS me complaint di par FIR KABHI
+//   register nahi hui; SDJM Bhubaneswar ne 2026-03-25 ko complaint kharij ki;
+//   Sessions Court Khurda ne 2026-09-02 ko criminal revision bhi kharij kar di
+//   ("no prima facie material", bina-FIR). Bina-FIR private complaint jisme koi
+//   jaanch/FIR register hi nahi hui aur courts ne dismiss kar diya = negative
+//   rules ke tahat kabhi valid nahi. (Covered by Daijiworld, OMMComNews,
+//   NewsRoomOdisha, LiveLaw — sab dismissal-report kar rahe hain, case nahi.)
+// NOTE: MLA-fund sanctions ka alag search bhi kiya — koi Hinjili-specific
+//   itemized sanction report nahi mili. "Naveen Patnaik forgoes LoP salary"
+//   (Statesman, 2025) = salary-daan class, reject.
+// END REJECT LOG
+//
+// AapkaNeta.org Odisha works-mining — Ganjam per-MLA worker
+// MLA: Ramesh Chandra Jena | Seat: Sanakhemundi (130, Ganjam) | Party: INC
+// Foundation record: src/data/odisha.ts slug 'ramesh-chandra-jena'
+// Mining window: Jun 2024 – Oct 2026 | 10 English searches + 3 whitelisted-source articles padhe
+// ===== REJECT-LOG (koi bhi entry qualify nahi hui) =====
+// R1. REJECT — TOI, "Parida lays foundation stone for developing amenities around
+//     Taptapani" (Nov 2025): Dy CM Pravati Parida ne Rs 11.08 crore ke Taptapani
+//     amenity kaam ka shilanyas kiya; Sanakhemundi MLA Ramesh Jena sirf karyakram me
+//     maujood the. Doosre neta ke karyakram me maujoodgi — entry nahi.
+//     https://timesofindia.indiatimes.com/city/bhubaneswar/parida-lays-foundation-stone-for-developing-amenities-around-taptapani/articleshow/125403951.cms
+// R2. REJECT — The Statesman / OTV / Business Standard-PTI "Naveen inaugurates several
+//     projects in Ganjam": ye saare Naveen Patnaik CM-kal ke hain (2016, Feb 2019) —
+//     pre-term (2024 se pehle), Jena ka koi yogdan nahi.
+// R3. REJECT — aimamedia.org (26 Jun 2026): "MLA Ramesh Jena participated in inauguration
+//     function" — Yadav Samaj ke naye kamre ka udghatan, Matiaborai village, Sanakhemundi
+//     block. Source whitelisted nahi + sirf "participated" (upasthiti), kaam ka yogdan
+//     ya nidhi-swikriti ka koi saboot nahi.
+// R4. REJECT — enewsinsight.com (non-whitelisted, 2 items): Utkal Hospital nurse death
+//     par virodh-pradarshan (protest = kaam nahi); PCC treasurer Siddharth Das ki
+//     Dec 2025 complaint (non-whitelisted + bina-FIR complaint).
+// R5. REJECT — OTV "Yet another case against Ramesh Jena" / "Arrested ex-Congress MLA
+//     had chit fund links": 2010s ke purane mamle jab ve "former MLA" the — pre-term;
+//     background me halafnama-cases pehle se darj hain (criminalCases: 42).
+// R6. REJECT — nilamban/disqualification se judi saari khabrein (TNIE, TOI, The Hindu,
+//     Sambad English, ETV Bharat): ye chunav-niyam-anushasan ki rajniti hai, constituency
+//     works nahi. Jankari NILAMBAN-VERIFICATION block me neeche di gayi hai.
+//
+// NOTE: Jun 2024 ke baad ke tenure me Jena ne koi seat-level kaam (lokarpan / shilanyas /
+// swikriti / MLA-fund itemized sanction / Assembly-sawal ka documented nateeja) whitelisted
+// media me report nahi hua. Vipakshi MLA hone ke kaaran sarkari scheme sanction me inka
+// naam bhi nahi milta. Profile khaali rakhi gayi hai.
+// ===== NILAMBAN-VERIFICATION (VERIFIED — main agent electionNote disclosure me jodega) =====
+// 1. Nilamban CONFIRMED — TNIE (The New Indian Express), 18 Mar 2026, 4:18 am:
+//    "Odisha Congress suspends three MLAs, seeks disqualification for cross-voting in
+//    Rajya Sabha election" — Congress ne Tuesday (17 Mar 2026) teen MLAs — Sofia Firdous
+//    (Cuttack-Barabati), Dasarathi Gomango (Mohana), Ramesh Jena (Sanakhemundi) — ko
+//    nilambit kiya; 16 Mar 2026 ke Rajya Sabha chunav me party whip ke khilaf BJP-samarthit
+//    Independent Dilip Ray ko vote dene ka aarop. Nilamban adesh OPCC disciplinary action
+//    committee ke chairman Sujit Kumar Padhi ne jaari kiya. CLP leader Ramachandra Kadam ne
+//    Speaker Surama Padhy ko 10th Schedule (anti-defection law) ke tahat ayogyata ke liye
+//    likha + Assembly me seating arrangement badalne ki maang ki.
+//    https://www.newindianexpress.com/states/odisha/2026/Mar/18/odisha-congress-suspends-three-mlas-seeks-disqualification-for-cross-voting-in-rajya-sabha-election
+// 2. ETV Bharat (17 Mar 2026, 3:56 PM) bhi teenon MLAs ka nilamban confirm karta hai
+//    (PCC release: "suspended from the party with immediate effect").
+//    https://www.etvbharat.com/en/state/congress-suspends-3-odisha-mlas-for-cross-voting-in-rajya-sabha-polls-enn26031703035
+// 3. TOI, "Cong files fresh plea to disqualify Ramesh Jena": Congress ne Speaker Surama
+//    Padhy ko Jena (Sanakhemundi) ki ayogyata ke liye teesri, alag se, yachika di (17 Mar
+//    ko joint petition, 18 Mar ko Firdous/Gomango ki alag petitions). Jena ka jawab darj:
+//    "I was sent to jail thrice and several cases were slapped on me by the then BJD
+//    government. I had enough reasons to cross-vote."
+//    https://timesofindia.indiatimes.com/city/bhubaneswar/cong-files-fresh-plea-to-disqualify-ramesh-jena/articleshow/129760515.cms
+// 4. Speaker ka FAISLA — The Hindu, 22 Jun 2026: Speaker Surama Padhy ne 11 MLAs (8 BJD +
+//    3 Congress, jinme "Ramesh Chandra Jena" bhi) ke khilaf ayogyata ki saari yachikaen
+//    KHARIJ kar di — "cryptic, vague, unsubstantiated", Rule 7(2) ke tahat dismiss.
+//    Matlab: party se nilamban barkarar hai, lekin Assembly se ayogyata NAHI hui — Jena
+//    MLA bane hue hain.
+//    https://www.thehindu.com/news/national/odisha/odisha-speaker-surama-padhy-dismisses-bjd-congress-petitions-seeking-disqualification-of-11-mlas/article71132224.ece
+// 5. Jena ka stand (Sambad English, Mar 2026): unhone kaha ki OPCC president Bhakta Das ne
+//    BJD se "understanding" karke Datteswar Hota ko common candidate banaya; BJD sarkar ne
+//    unhe jhoothe cases me phasaya, isliye unhone Dilip Ray ko vote diya.
+//    https://sambadenglish.com/politics/suspended-cong-leader-ramesh-jena-breaks-silence-over-rs-voting-lashes-out-at-bhakta-das-11225324
+//
+// SAAR (disclosure ke liye): Mar 2026 me INC ne Ramesh Chandra Jena (Sanakhemundi), Sofia
+// Firdous (Barabati-Cuttack) aur Dasarathi Gomango (Mohana) ko Rajya Sabha cross-voting
+// (BJP-samarthit Independent Dilip Ray ko vote) ke aarop par party se nilambit kiya aur
+// Speaker se 10th Schedule ke tahat ayogyata maangi; Speaker ne 22 Jun 2026 ko yachikaen
+// kharij kar di, isliye Jena MLA pad par bane hue hain (suspended, not disqualified).
+//
+// REJECT-LOG (pratap-chandra-nayak — Kabisuryanagar, BJP, Ganjam; karyakaal Jun 2024–2029):
+// 1. Odisha TV (30 Aug 2025, page khud khola-padhha): Goa ke Verna Panchayat me five-storey building illegal-construction + 400 labourers/commission ke aarop; MLA ne khandaan kiya; Goa district administration ne Verna Panchayat/sarpanch ko letters bheje aur "reviewing the situation" — lekin article khud kehta hai "no formal charges, and no investigation has been officially opened against him in Odisha" — FIR/case/inquiry nahi, isliye negative criteria (b) fail → REJECT. (Source established, MLA ka jawab darj, par (b) poora nahi hua.)
+// 2. Odisha TV (Jan 2025): Purusottampur block office me 'Bikashara Dhara, Odisha Sara' smartphone distribution event par Anganwadi worker ke saath viral video argument — verbal altercation/political controversy, koi FIR/case/inquiry nahi → negative criteria fail → REJECT.
+// 3. Nirvaynews (26 May 2026): Aska MP Anita Subhadarshini ke samarthakon ne Kodala Community Health Centre par MLA ki plaque todi; MLA ne nayi plaque laga kar facility inaugurate ki — source allowed-list (Hindu/IE/TOI/HT/NDTV/India Today/TNIE/Odisha TV/Sambad English/Orissa POST/Kalinga TV English/Pragativadi English/Dharitri English) me NAHI + MLA peedit/complainant side tha → positive aur negative dono taraf REJECT.
+// 4. Pragativadi (Jan 2026, Gopalpur Beach Festival finale): CM Majhi ne Rs 492 crore projects launch kiye; Pratap Chandra Nayak sirf "MLAs ... were present" list me — CM ka kaam + maujoodgi → REJECT.
+// 5. ommcomnews: Greater Berhampur City Plan event — "Kabisuryanagar MLA Pratap Nayak" sirf dignitaries present me → maujoodgi → REJECT.
+// 6. Pragativadi (Revenue & Disaster Management budget discussion): MLA ne discussion me hissa liya, government schemes ki tareef ki — documented administrative outcome/nateeja nahi → REJECT.
+// 7. Pragativadi (Rabi Narayan Naik rural development story): "Naik" = Rural Development minister Rabi Narayan Naik — alag vyakti, galat vyakti (namesake trap) → REJECT.
+// 8. Odisha TV (2023 archive): Kendrapada plaque-vandalism me Atanu Sabyasachi Nayak — alag vyakti → REJECT; purani CM Naveen Ganjam tour stories (2023, Mar 2024) — pre-term → REJECT.
+// 9. Kalinga TV (Sep 2023): Latika Pradhan (predecessor BJD MLA) ne behosh student ko hospital pahunchaya — predecessor ka kaam, pre-term → REJECT.
+// 10. Business Standard (2015): Kabisuryanagar/Purusottampur/Beguniapada blocks me 60 pipe-water projects ke foundation stones CM Naveen ne rakhe — pre-term (2015) → REJECT.
+// 11. newsdrum/ThePrint (Mar 2024): CM ne Kabisuryanagar me Rs 316 crore projects inaugurate/lay-foundation kiye — pre-term (Mar 2024) + CM ka kaam → REJECT.
+// 12. Odisha TV: CM dedicates 100 urban drinking water projects — state-level programme, koi Kabisuryanagar/Nayak-specific role nahi → REJECT.
+// 13. thehawk (Jun 2026): CM Majhi ne Chhatrapur me 12 industrial projects (Rs 28,000+ crore) ki foundation rakhi — CM ka kaam, Pratap Nayak ka zikr nahi → REJECT.
+// 14. OrissaPOST tag (Apr 2026): Kodala CHC ke 5 employees Rs 2 crore fraud me vigilance ne pakde — employees ka fraud case, MLA se koi jod nahi → REJECT.
+// 15. Negative check: MyNeta/ADR 2024 halafnama me 1 declared criminal case (IPC 506/34/294/323/341) — pre-term declaration; Jun 2024 se ab tak allowed established media me is tenure ki FIR/case/inquiry ya purane mamle me nayi court/inquiry development ki koi reporting nahi mili → negative nahi banta.
+// 16. Pehchan verified: Pratap Chandra Nayak, BJP, Kabisuryanagar (Ganjam), 80,995 votes (55.79%), predecessor Latika Pradhan (BJD); mantri-pad NAHI — sabhi established sources me hamesha "MLA Kabisuryanagar" ke roop me zikr.
+// 17. RETRY LEADS: (a) Kodala CHC inauguration (May 2026) ka whitelisted-source post-event coverage; (b) odisha.gov.in par Kabisuryanagar MLA-LAD fund sanction orders; (c) Dharitri English/Odia coverage ka agla pass.
+// QA: 12 English news searches + 1 whitelisted page (Odisha TV Goa story) khud khola-padhha; har mention sirf controversy/maujoodgi/purani-khabar/naam-sadrish vyakti tha, koi post-event lokarpan/shilanyas/swikriti ya MLA-proposal wali administrative approval report allowed sources me nahi mili; entries 0, rejects 16 + 1 retry lead.
+//
+// Odisha works-mining — Ganjam district worker
+// MLA: Gokulananda Mallik | Seat: Polasara | Party: BJP | Tenure: Jun 2024–2029
+// Foundation verified (src/data/odisha.ts, slug 'gokula-nanda-mallik'):
+//   name 'Gokulananda Mallik', party 'Bharatiya Janata Party', constituency 'Polasara', tenure 2024–2029.
+//   Pehchan-note: MyNeta/News18/TOI par naam 'Gokulananda Mallik' / 'Gokula Nanda Mallick' dono spellings milte hain —
+//   2024 affidavit (candidate_id=334) wahi vyakti hai (Polasara, BJP, 48 yr, Graduate, Rs 4.92 cr assets, 6 cases).
+//   2014 affidavit (INC ticket, Rs 2.57 cr, 0 cases) unki hi purani election-entry lagti hai — alag vyakti nahi.
+//   2021 ka Telegraph 'FIR on minister for assault' (Baripada/Balasore, Tudu) — dusra vyakti, namesake nahi, excluded.
+// MANTRI VERIFICATION (established media):
+//   - TNIE 13 Jun 2024: "Polasara MLA Gokulananda Mallik ... administered oath as ministers of state (independent charge)."
+//   - HT 12 Jun 2024 liveblog: "Gokula Nanda Mallick and Sampad Kumar Swain take oath as ministers in CM Mohan Charan Majhi-led cabinet."
+//   - TOI 12 Jun 2024 liveblog: "Gokula Nanda Mallick ... sworn in as ministers of state (independent)."
+//   - Odisha TV (odishatv.in, whitelisted) portfolio list: "Gokulananda Mallik: Fisheries & Animal Resources Development and Micro, Small & Medium Enterprises."
+//   => MANTRI CONFIRMED: MoS (Independent Charge), Fisheries & ARD + MSME, Majhi cabinet, 12 Jun 2024–incumbent.
+//   => Mantri-niyam apply: rajya-star vibhagiya faisle/event seat-kaam NAHI; seat-level lokarpan/shilanyas ke liye
+//      mantri-disclosure + fund-source lazmi (is run me aisa koi qualifying whitelisted post-event report nahi mila).
+// REJECT-LOG (gokula-nanda-mallik — Polasara, BJP, karyakaal Jun 2024–2029, MANTRI MoS-IC Fisheries & ARD/MSME):
+// 1. hellokotpad.com + odishabiznewz.com (dateline "Polasara, Dec, 03" — odishabiznewz par ~317 din purana => Dec 2025):
+//    Malatibadi–Bhatkhali road (Polasara block, ~9 km, ~Rs 8 crore, Rural Development Department) ka foundation stone;
+//    Gokulananda Mallik chief guest ke roop me shilanyas me shamil. Donon source whitelist me NAHI => entry nahi.
+//    RETRY LEAD: TNIE/TOI/OTV/Sambad/OrissaPOST par is story ka whitelisted post-event coverage ya Rural Dev Dept GO dhoondo;
+//    whitelisted confirm ho to seat-level shilanyas (mantri-disclosure + fund-source ke saath) banega.
+// 2. TNIE (24 Jun 2025): CM Majhi ne Ganjam ke Aska me Yuva Shakti Samavesh me Rs 550 crore projects ke shilanyas kiye;
+//    Mallik sirf upasthit ministers me — dusre neta (CM) ke karyakram me maujoodgi, REJECT.
+//    Usi event par CM ki "Polasara me world-class ITI" ghoshna — CM ki ghoshna, MLA ka kaam nahi, REJECT.
+// 3. odishabarta.com / eodishasamachar.com (10 Feb 2026): Polasara ACDC meeting — Mallik chair, scheme review, DPR banane ke nirdesh.
+//    Meeting akeli kaam nahi + dono source whitelist me nahi, REJECT.
+//    (Note: agle pass me inhi DPR-projects ke lokarpan dhoonde ja sakte hain.)
+// 4. odishanewstimes.com (21 Nov 2025): World Fisheries Day programme me minister ne virtual inauguration kiye
+//    (Puri Talabania fish market, Ganjam Humma dry fish market, Angul training centre, Cuttack directorate shilanyas).
+//    Rajya-star vibhagiya karyakram (mantri-niyam) + Humma ka Polasara-hona verify nahi + source whitelist me nahi, REJECT.
+// 5. utkaldaily.com / odishabiznewz.com (Sep 2025/2026): Koraput aur Malkangiri daure — vibhagiya review, seat se bahar,
+//    mantri-niyam + non-whitelisted, REJECT.
+// 6. hellokotpad.com (21 Jul 2025): Polasara Science College founder ki 115th birth anniversary — ceremonial chief guest,
+//    non-whitelisted, REJECT.
+// 7. ommcomnews.com (Dec 2024): registered goshalas ko Rs 8.96 crore sahayta (Mukhyamantri Pranekalyan Yojana) —
+//    rajya-star yojana ka vibhagiya vitran (mantri-niyam), seat-level kaam nahi + non-whitelisted, REJECT.
+// 8. mediainfoline.com (~Jun 2025): Onslow Stadium Chatrapur me Rs 28,084 crore industrial projects groundbreaking —
+//    Mallik sirf upasthit ministers me; projects Industries Dept ke (Sampad Swain ka portfolio) — maujoodgi + galat portfolio, REJECT.
+// 9. TNIE topic page (20 Mar 2026): Atal Innovation Centre, ITER Bhubaneswar ka inauguration Mallik ne MSME minister ke roop me kiya —
+//    seat se bahar (Bhubaneswar) + rajya-star vibhagiya kaam (mantri-niyam), REJECT.
+// 10. OrissaPOST / TOI (2021–2023): Ganjam mega drinking water projects (Rs 1807 cr / 1973 cr, Jal Jeevan Mission) —
+//     pre-term BJD-sarkar swikritiyan, Mallik us samay MLA nahi the, REJECT.
+// 11. NEGATIVE CHECK — Sambad English (whitelisted, IANS wire, 11 Oct 2026, poora article padha):
+//     "BJD accuses Odisha minister of using police, anti-social elements to influence campus polls" —
+//     BJD press conference (Srikant Sahu + Tumbanath Panda) ka aarop: Polasara/Buguda/Balipada colleges ke student-union
+//     elections me Mallik par prashasan/muscle-power ke durupyog ka aarop.
+//     Article me MLA ke khilaf KOI FIR/case/jaanch ka zikr NAHI; Mallik ka jawab bhi darj NAHI.
+//     Negative-niyam: (a) whitelisted media OK, (b) is-tenure FIR/case/jaanch FAIL, (c) MLA ka jawab FAIL;
+//     "bina-FIR complaint (pusht jaanch ho to hi valid)" => NEGATIVE ENTRY NAHI, REJECT (transparency ke liye darj).
+//     URL: https://sambadenglish.com/latest-news/bjd-accuses-odisha-minister-of-using-police-anti-social-elements-to-influence-campus-polls-12667303
+// 12. NEGATIVE CHECK — halafnama: MyNeta par 6 pending cases (Buguda PS FIR 230/2018, 55/2017, 276/2016, 258/2016;
+//     CELMC-4114/2002 HC; GR-457/2020 Polasara) — sab pre-term, dosh-siddhi shunya, foundation background me pahle se darj.
+//     Raw halafnama akela negative nahi; Jun 2024 se ab tak whitelisted media me is-tenure ki koi FIR/case/inquiry
+//     ya purane mamle me nayi court development ki reporting nahi mili => koi negative entry nahi.
+// 13. RETRY LEADS (agle pass ke liye):
+//     (a) Malatibadi–Bhatkhali road shilanyas ka whitelisted post-event coverage (TNIE Ganjam desk / OTV / OrissaPOST / Sambad).
+//     (b) MLA-LAD/MLALADS (Rs 5 cr FY25-26 / Rs 3 cr FY24-25) ke Polasara itemized sanctions — mlalads.odisha.gov.in portal
+//         (CM ne 13 Aug 2025 ko launch kiya) par Polasara ke liye dedicated check.
+//     (c) 10 Feb 2026 ACDC meeting ke DPR-based projects ke baad ke lokarpan (lokarpan reports dhoondo).
+// 14. Pehchan verified: Gokulananda Mallik, BJP, Polasara (Ganjam) — 85,737 votes (53%), runner-up Srikanta Sahu (BJD) 64,791,
+//     margin 20,946; 2019 me isi seat se hare the. Seat me Buguda Block + Polasara Block + Buguda (NAC) + Polasara (NAC).
+// QA: 13 English searches + 1 whitelisted article (Sambad English) poora padha; mantri-pad TNIE/HT/TOI/OTV se verified;
+// har mention ya to maujoodgi/ceremonial tha, ya rajya-star vibhagiya kaam (mantri-niyam), ya non-whitelisted source;
+// post-event lokarpan/shilanyas/swikriti ya MLA-proposal wali prashasnik approval ki koi qualifying report nahi mili;
+// entries 0, rejects 12 + 3 retry leads. Profile imaandaari se khaali.
+//
+
+
 // ---- Gajapati district batch ----
 
 // ---- Rayagada district batch ----

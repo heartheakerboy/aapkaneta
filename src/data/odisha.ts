@@ -3463,7 +3463,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Odisha2024/candidate.php?candidate_id=836',
       backgroundNote: 'Surama Padhy Bharatiya Janata Party ki MLA hain, Ranpur se 2024 me jeetin. Halafname me 8 aapradhik mamle darj hain, jinme IPC 506 (dhamki), 379 (chori), 452 (ghar me ghuskar chot pahunchane ki taiyari) ke aarop hain - mamle Bhubaneswar (Capital, Kharbelanagar, Air Field PS), Kujanga aur Ranpur ke thanon me 2013-2021 ke hain.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Ranpur se jeetin: 81439 votes. Runner-up Satyanarayan Pradhan (BJD) 65895 votes. Margin 15544.',
+    electionNote: '2024 Vidhan Sabha chunav me Ranpur se jeetin: 81439 votes. Runner-up Satyanarayan Pradhan (BJD) 65895 votes. Margin 15544. 20 Jun 2024 se Odisha Vidhansabha ki Speaker hain (unopposed chuni gayin) — sadan/party ke sansthaagat pad ki gatividhi vikas-kaam nahi maani jati.',
   },
   {
     slug: 'dusmanta-kumar-swain',
@@ -3608,7 +3608,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Odisha2024/candidate.php?candidate_id=334',
       backgroundNote: 'Gokulananda Mallik Bharatiya Janata Party ke MLA hain, Polasara se 2024 me jeete. Halafname me 6 aapradhik mamle darj hain, jinme IPC 307 (hatya ka prayas), 303, 506 (dhamki), 325, 379, 431, 452 ke aarop hain - Buguda PS ke 2016-2018 ke mamle aur Polasara PS ka 2020 ka mamla shamil hai. (MyNeta par naam \'Gokulananda Mallik\' likha hai.)',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Polasara se jeete: 85737 votes. Runner-up Srikanta Sahu (BJD) 64791 votes. Margin 20946.',
+    electionNote: '2024 Vidhan Sabha chunav me Polasara se jeete: 85737 votes. Runner-up Srikanta Sahu (BJD) 64791 votes. Margin 20946. 12 Jun 2024 se Rajya Mantri (Swatantra Prabhar) — Matsya evam Pashu Sampada Vikas aur Sookshm, Laghu evam Madhyam Udyam (MSME) hain — rajya-star ke vibhagiya faisle unke seat-record ke vikas-kaam nahi maane jate.',
   },
   {
     slug: 'pratap-chandra-nayak',
@@ -3782,7 +3782,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Odisha2024/candidate.php?candidate_id=317',
       backgroundNote: 'Ramesh Chandra Jena Indian National Congress ke MLA hain, Sanakhemundi se 2024 me jeete. Halafname me 42 aapradhik mamle darj hain, jinme 94 gambhir IPC aarop hain - IPC 302 (hatya), 307 (hatya ka prayas), 364, 386/387 (dhamki dekar vasuli), 420 (dhokhadhadi), 120B (saazish) aur Arms Act ke aarop, Berhampur/Ganjam ke thanon me 2010-2018 ke mamle; koi mamla me saza nahi hui.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Sanakhemundi se jeete: 65867 votes. Runner-up Sulakshana Geetanjali Devi (BJD) 55205 votes. Margin 10662.',
+    electionNote: '2024 Vidhan Sabha chunav me Sanakhemundi se jeete: 65867 votes. Runner-up Sulakshana Geetanjali Devi (BJD) 55205 votes. Margin 10662. 17 Mar 2026 ko Congress ne Rajya Sabha chunav me cross-voting ke aarop par Ramesh Chandra Jena ko Sofia Firdous aur Dasarathi Gamango ke saath party se nilambit kiya; Speaker ne Jun 2026 me ayogyata-yachika kharij kar di — ve MLA pad par bane hue hain. Party record Congress hi hai (nilamban party ki aantarik karwai hai).',
   },
   {
     slug: 'naveen-patnaik',
@@ -3840,7 +3840,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/Odisha2024/candidate.php?candidate_id=92',
       backgroundNote: 'Bibhuti Bhushan Jena Bharatiya Janata Party ke MLA hain, Gopalpur se 2024 me jeete. Halafname me 10 aapradhik mamle darj hain, jinme IPC 506 (dhamki), 332/333 (sarkari karmchari par hamla), 325, 379 (chori), 171C/171E (chunav sambandhi apradh) ke aarop hain - Golanthara, Gosaninuagaon aur BN Pur ke thanon me 2007-2023 ke mamle.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Gopalpur se jeete: 72071 votes. Runner-up Bikram Kumar Panda (BJD) 63009 votes. Margin 9062.',
+    electionNote: '2024 Vidhan Sabha chunav me Gopalpur se jeete: 72071 votes. Runner-up Bikram Kumar Panda (BJD) 63009 votes. Margin 9062. 12 Jun 2024 se Mohan Charan Majhi mantrimandal me Cabinet Minister (Commerce and Transport, Steel and Mines) hain — rajya-star ke vibhagiya faisle unke seat-record ke vikas-kaam nahi maane jate.',
   },
   {
     slug: 'k-anil-kumar',
