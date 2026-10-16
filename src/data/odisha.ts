@@ -737,7 +737,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=628',
       backgroundNote: 'Halafname par naam \'Sanatan Mahakud\', seat Champua aur party BJD assignment se match karte hain, isliye pehchan pakki hai. Kul sampatti Rs 2,27,67,62,601 (lagbhag Rs 227.7 crore) — is batch me sabse zyada. 10 mamle ghoshit hain — 9 me dhamki, aur zabardasti-vasooli, dhokhadhadi, dakaiti, chori, mahila par hamle jaise sections; 4 me charge framed (2013-2014), koi conviction nahi. Umr 67 saal, 10th/11th Pass 1975 me Bamebari High School (BSE Odisha Cuttack) se.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Champua se jeete: 1,03,120 votes. Runner-up Murali Manohar Sharma (BJP) 63,126 votes. Margin 39,994.',
+    electionNote: '2024 Vidhan Sabha chunav me Champua se jeete: 1,03,120 votes. Runner-up Murali Manohar Sharma (BJP) 63,126 votes. Margin 39,994. 15 Jan 2026 se BJD se anti-party activities ke aarop par nilambit — BJD adhyaksh Naveen Patnaik ke office order me turant prabhav se suspension (PTI via ThePrint, TNIE); Mar 2026 me BJD ne Rajya Sabha matdan par in dono (Mahakud + Patkura ke Aravind Mohapatra) par party whip lagu kiya — nilambit hone ke bawajood BJD ticket par chune gaye sadasya ke roop me whip ka dawa. Party field BJD hi rakha gaya hai, nilamban yahan disclose hai; ye dal-badal ya disqualification nahi hai.',
   },
   {
     slug: 'ganesh-ram-singh-khuntia',
