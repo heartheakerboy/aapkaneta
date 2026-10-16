@@ -1584,7 +1584,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/meghalaya2023/candidate.php?candidate_id=6961',
       backgroundNote: "Halafname par naam 'Sanjay A. Sangma', seat Mahendraganj (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. 1 aapradhik mamla ghoshit hai — Meghalaya Lokayukta me Complaint Case No. 5/2021 (halafname me 'Camplaint Case' likha hai), lambit hai, koi serious IPC dhara nahi aur koi conviction nahi. Umr 48 saal, 8th Pass — Don Bosco Higher Secondary School, Tura, West Garo Hills, 1988. Pesha: Businessman.",
     },
-    electionNote: '2023 Vidhan Sabha chunav me Mahendraganj (ST) se jeete: 13,560 votes. Runner-up Dikkanchi D. Shira (AITC) 11,842 votes. Margin 1,718.',
+    electionNote: '2023 Vidhan Sabha chunav me Mahendraganj (ST) se jeete: 13,560 votes. Runner-up Dikkanchi D. Shira (AITC) 11,842 votes. Margin 1,718. 2026 me Meghalaya sarkar ke Adviser on Excise banaye gaye (The Shillong Times) — ye mantri-pad nahi hai, aur is bhoomika ke faisle unke seat-record ke vikas-kaam nahi maane jate.',
   },
   {
     slug: 'ian-botham-k-sangma',
@@ -1613,7 +1613,7 @@ export const meghalayaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/meghalaya2023/candidate.php?candidate_id=7024',
       backgroundNote: "Halafname par naam 'Ian Botham K. Sangma', seat Salmanpara (ST) aur party NPP assignment se match karte hain, isliye pehchan pakki hai. Koi aapradhik mamla ghoshit nahi hai. Umr 36 saal, Post Graduate — MBA, University of Bedfordshire, United Kingdom, 2013. Pesha: Businessman.",
     },
-    electionNote: '2023 Vidhan Sabha chunav me Salmanpara (ST) se jeete: 11,352 votes. Runner-up Winnerson D. Sangma (AITC) 6,114 votes. Margin 5,238.',
+    electionNote: '2023 Vidhan Sabha chunav me Salmanpara (ST) se jeete: 11,352 votes. Runner-up Winnerson D. Sangma (AITC) 6,114 votes. Margin 5,238. Meghalaya sarkar ke Adviser (Forest Department) bhi hain (Meghalaya Gazette notification ke anusaar) — ye mantri-pad nahi hai, aur is bhoomika ke faisle unke seat-record ke vikas-kaam nahi maane jate.',
   },
   {
     slug: 'mehtab-chandee-agitok-sangma',

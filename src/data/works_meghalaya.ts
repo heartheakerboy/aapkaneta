@@ -545,3 +545,326 @@ meghalayaWorks['brening-a-sangma'] = [];
 // Koi RETRY LEAD pending nahi (entry-candidate pages me se koi khola-gaya page
 // fail nahi hua; The Shillong Times ka Tarapith page khud khola aur padha —
 // relief hone se reject).
+
+// ---- South West Garo Hills district batch (researched 2026-10-16) ----
+
+// Meghalaya works-mining worker fragment — miani-d-shira (Ampati ST, AITC)
+// Researched 2026-10-16. RESULT: 1 entry. Period Mar 2023+. Roman-script Hinglish.
+// Party verify: abhi bhi AITC (dal-badal NAHI) — note neeche.
+
+meghalayaWorks['miani-d-shira'] = [
+  {
+    title: 'Mangsanggre gaon aur aas-paas ke ilakon ke liye naya pull lokarpit — Ampati ki MLA Miani D. Shira ne samudayik netaon ki appeal par SRWP aur MGNREGA ke convergence se is pull ke nirmaan ko sambhav banaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Highland Post, 9 Apr 2026',
+    sourceUrl: 'https://highlandpost.com/mangsanggre-bridge-opens-to-boost-connectivity-in-swgh/',
+    date: '2026-04-09',
+    note: 'South West Garo Hills me Mangsanggre gaon aur aas-paas ke gaonon ko jodne wala naya pull 9 April 2026 ko samarpit hua; ye SRWP (Special Rural Works Programme) aur MGNREGA ke convergence se bana aur Rongsang Abagre Adhoc School ke maidan me hue lokarpan karyakram me SWGH ke Deputy Commissioner aur Block Development Officer bhi maujood the. Shira ne khud kaha ki ye pariyojana unki svatantr swikriti-seema se bahar thi, lekin unhone samudayik netaon ki appeal par hastakshep karke iska nirmaan sambhav banaya; pariyojana nirdharit samay se ek saal pehle poori hui. Status: lokarpan (nirman poorn, janata ko samarpit).',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG (miani-d-shira / Ampati, AITC) ----
+// R1. Anganwadi centres ki maang — Assembly Question Hour, Sep 2023
+//     (The Shillong Times 2023-09-21). REJECT: sarkar se guharish matra —
+//     maang/prastav akele.
+// R2. Budget charcha Feb 2026 — sadakon ki gunvatta par chinta, Betasing road
+//     zikr (The Shillong Times 2026-02-26). REJECT: bayan/raai akele; koi
+//     unka swikrit, shilanyasit ya lokarpit kaam nahi.
+// R3. Ampati Engineering College me approach road ki kami ka mudda, Assembly
+//     Sep 2025 (PTI via The Week / hubnetwork). REJECT: maang akele; college
+//     sarkari pariyojana hai, unka vyaktigat kaam nahi.
+// R4. Estimates Committee inspection, 24-25 Nov 2025 — Mahendraganj MCH aur
+//     Greater Ampati Water Supply (ghdnews, yutipnews, syllad, hubnetwork).
+//     REJECT: nirikshan akele; committee ka sadasya-daur tha, unka vyaktigat
+//     seat-kaam nahi. (Mahendraganj waise bhi dusri seat hai.)
+// R5. PAC adhyaksh niyukti, 12 Sep 2025 (The Shillong Times, meghalayatimes.in).
+//     REJECT: sansthaagat pad hai — kaam nahi.
+// R6. PAC inspection Shillong ke 4 bade aspataalon ka, 17 Nov 2025
+//     (Highland Post). REJECT: nirikshan akele + kshetra-bahar + sansthaagat
+//     bhoomika.
+// R7. Kitab "Our Very Own Hill State" (sah-lekhika: Miani D. Shira) ka vimochan,
+//     Mar 2026 (Highland Post 2026-03-03). REJECT: vyaktigat sahityik pahal
+//     hai — sadak/paani/school/aspataal/community-asset vikas-kaam nahi.
+// R8. Solar Study Lamp Project launch, Betasing, Sep 2018 (The Shillong Times
+//     2018-09-12) — CM ne launch kiya, Miani maujood thin. REJECT: pre-term
+//     (2018) + dusre neta (CM) ke karyakram me maujoodgi matra.
+// R9. District & Session Court Complex Ampati lokarpan, Dec 2022 (The Shillong
+//     Times 2022-12-11) — CM + Chief Justice ne kiya; Miani karyakram me thin
+//     bhi nahi. REJECT: pre-term + dusre netaon ka karyakram.
+// R10. Ampati me CM-ke-roop me Mukul Sangma ke shilanyas/lokarpan — District HQ
+//     office (2014), Integrated Farmers Market complex (2013), dono
+//     The Shillong Times. REJECT: Ampati-era ke Mukul Sangma ke kaam — is MLA
+//     par nahi thopne (savdhani note).
+// R11. Baljek airport Assembly charcha 2026 (Highland Post) — Miani ne swagat
+//     kiya aur spashtikaran manga. REJECT: bayan/raai akele; pariyojana sarkari
+//     hai, unka kaam nahi.
+// R12. Youth Parliament inaugural satra me bhashan, Mar 2026 (Highland Post).
+//     REJECT: ceremonial bhashan/maujoodgi.
+// R13. EMRS Chopapara ka shilanyas, Nov 2025 (The Shillong Times) — PM ne
+//     virtually kiya; Miani maujood nahi thin. REJECT: dusre neta (PM) ka kaam.
+// R14. Kambakpara Government LP School naya bhavan, Jul 2026 — Mahendraganj ke
+//     MLA Sanjay A. Sangma ne lokarpan kiya (The Shillong Times, hubnetwork).
+//     REJECT: dusre neta ka karyakram (Mahendraganj seat ke MLA).
+// R15. 2023 chunav namankan bhashan, Feb 2023 (The Shillong Times).
+//     REJECT: pre-term (election se pehle) + bayan matra.
+// NEGATIVE-CHECK: whitelisted sources me koi chunav-yachika, koi pusht
+// aadhikarik jaanch/FIR, koi bina-pusht complaint bhi nahi mili. PAC adhyaksh
+// aur Estimates Committee sadasyata sansthaagat bhoomikayen hain — negative
+// nahi. Mukul Sangma se sambandhit khabrein (songsak/LoP coverage, dal-badal
+// ki afwahen) is profile me nahi lagayi gayin.
+// RETRY LEAD: koi pending nahi — entry ke liye khola gaya ekmatra page
+// (Highland Post bridge article) poora khul kar padha gaya; koi page fail
+// nahi hua.
+// NOTES: Miani D. Shira ki whitelisted media coverage mukhyatah vidhayi
+// bhoomika (Assembly me sawal/charcha) aur samiti-bhoomikaon par kendrit hai;
+// unke naam par seat-level lokarpan/shilanyas ki post-event reporting me kewal
+// Mangsanggre pull mila. Ampati par Mukul Sangma-era ke dharon ko is profile
+// se bilkul alag rakha gaya hai; unki beti ke roop me ullekh wali pehchan wali
+// khabrein entry-bahir hain. Unke karyakal ki avadhi Mar 2023 se hai aur sabhi
+// pravishtiyan isi ke andar hain.
+
+
+// Meghalaya works-mining — Subir M. Marak (slug: subir-marak), Rangsakona (ST), NPP.
+// Foundation: Rangsakona seat no. 52, South West Garo Hills, ST reserved; elected March 2023
+// on NPP ticket (13,605 votes; defeated AITC ke Zenith Sangma ko 788 votes se). From Boiragipara
+// village, Garobadha post, Ampati. Naam-ka-jaal check: har entry me "Rangsakona MLA Subir M
+// Marak" seat-pehchaan ke saath pakka kiya gaya hai — dusri seat ka Marak nahi. Period: Mar
+// 2023+ only (2023-2028). Whitelisted sources me sirf ek post-event lokarpan mila; zyadatar
+// coverage CM/mantri ke karyakramon me maujoodgi, nirikshan, ya non-whitelisted portals ki hai.
+
+meghalayaWorks['subir-marak'] = [
+{
+    title: 'Dorambok me Urban Health and Wellness Centre ka lokarpan — Rangsakona MLA Subir M. Marak ne 27 Oct 2023 ko Rerapara C&RD block ke tahat bane naye swasthya kendra ka udghatan kiya, jo 15th Finance Commission ke tahat South West Garo Hills ke liye manzoor paanch suvidhaon me se aakhiri tha aur aaspaas ke chhah gaonon ko seva dega',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2023/10/27/dorambok-urban-health-wellness-centre-inaugurated/',
+    date: '2023-10-27',
+    stage: 'poora',
+    note: 'MLA Subir M. Marak ne 27 Oct 2023 ko Dorambok Urban Health and Wellness Centre ka lokarpan kiya; srot ne unhe "Rangsakona MLA" ke roop me pehchana hai (seat confirm) aur kendra Rerapara C&RD Block, South West Garo Hills me hai. Suvidha 15th Finance Commission ke tahat manzoor hui thi; South West Garo Hills jile ke liye aisi paanch suvidhaen manzoor hui thin aur Dorambok wali aakhiri thi jiska udghatan hua. Kendra sub-centre ki tarah kaam karega lekin office hours me dedicated doctor uplabdh rahega; chhah aaspaas ke gaonon ko seedha laabh milega, khaas taur par garbhvati mahilaon ke liye antenatal care par zor hoga. Sevaon me cancer screening, immunization, vaccination, blood pressure checkup aur tele-consultation shaamil hain; ye OPD, pharmacy aur day care ke saath poly-clinic ki tarah bhi chalega. Lokarpan me ADC (SWGH), Rerapara BDO aur DM&HO maujood the. Credit-capping: kendra 15th Finance Commission ki yojana ka hai, MLA ne ise fund nahi kiya — entry ka aadhaar unke dwara kiya gaya post-event lokarpan hai. MLA ne ambulance (December tak) aur Damalgre PHC ke prastav jaise aashwasan bhi diye the — ye "karenge" wale vaade hain, entries nahi.',
+    period: '2023-2028',
+},
+];
+
+// REJECT-LOG (subir-marak / Rangsakona, NPP):
+// 1. "Rangsakona MLA flags NH 127B concerns, seeks upgrade of key Garo Hills road link" — hubnetwork.in, 13 Aug 2026
+//    (https://hubnetwork.in/rangsakona-mla-flags-nh-127b-concerns-seeks-upgrade-of-key-garo-hills-road-link/) aur
+//    spnewsagency.com par wahi khabar, aur Shillong Times (Garo edition, 14 Aug 2026) me nirikshan ki khabar:
+//    REJECT — nirikshan/daura akele; waiting sheds aur culvert-bridge upgrade abhi sirf prastav (proposal) hai,
+//    koi sanction/lokarpan nahi. hubnetwork/spnewsagency whitelist me NAHI hain.
+// 2. "Rangsakona MLA inaugurates Rerapara Block Resource Centre, urges public to embrace govt schools" — hubnetwork.in,
+//    14 May 2026 (https://hubnetwork.in/rangsakona-mla-inaugurates-rerapara-block-resource-centre-urges-public-to-embrace-govt-schools/):
+//    REJECT — source whitelist me NAHI hai; whitelisted sroton (Shillong Times/Highland Post) me is lokarpan ki
+//    coverage nahi mili. RETRY LEAD: agar whitelisted srot par ye khabar mile to School category me evaluate karo
+//    (MLA ne Samagra Shiksha ke tahat BRC ka udghatan kiya tha, Jewilgre, Rerapara).
+// 3. "MLA inaugurates school building, digital library in Damalgre" — hubnetwork.in, 6 March 2026
+//    (https://hubnetwork.in/mla-inaugurates-school-building-digital-library-in-damalgre/):
+//    REJECT — source whitelist me NAHI hai; whitelisted srot me coverage nahi mili. RETRY LEAD: whitelisted
+//    coverage milne par School category me evaluate karo (Damalgre LP School ka naya bhawan + digital library,
+//    Rangsakona MLA ne ribbon kaata tha).
+// 4. "Rangsakona MLA reviews CMRIS works, stresses coordination at Ampati" — hubnetwork.in, 12 May 2026
+//    (https://hubnetwork.in/rangsakona-mla-reviews-cmris-works-stresses-coordination-at-ampati/):
+//    REJECT — District Level Committee ki review meeting akele; koi nayi sanction/lokarpan report nahi;
+//    source bhi whitelist me nahi.
+// 5. "Conrad Sangma inaugurates 33/11KV Rerapara Sub-Station in SWGH" — The Shillong Times, 3 Oct 2024
+//    (https://theshillongtimes.com/2024/10/03/conrad-sangma-inaugurates-33-11kv-rerapara-sub-station-in-swgh/):
+//    REJECT — CM Conrad Sangma ne lokarpan kiya (Rs 6.29 crore, ADB scheme); Subir Marak sirf dhanyavaad/athiti
+//    ke roop me maujood tha — dusre neta (CM) ke karyakram me maujoodgi akeli entry NAHI.
+// 6. "CM opens block development complex in SWGH" — The Shillong Times, 25 July 2024
+//    (https://theshillongtimes.com/2024/07/25/cm-opens-block-development-complex-in-swgh/):
+//    REJECT — Betasing C&RD Block ka lokarpan CM ne kiya; Marak sirf maujood (dusre neta ke karyakram me maujoodgi).
+// 7. "Govt launches online booking system for Meghalaya Houses" — The Shillong Times, 12 March 2026
+//    (https://theshillongtimes.com/2026/03/12/govt-launches-online-booking-system-for-meghalaya-houses/):
+//    REJECT — GAD Minister ne launch kiya; Marak sirf maujood tha; ye unki seat ka vikas-kaam bhi nahi.
+// 8. "Garo Hills' first Govt rehab centre opens; CM pitches libraries to fight mobile addiction" — Highland Post,
+//    22 Sept 2026 (https://highlandpost.com/garo-hills-first-govt-rehab-centre-opens-cm-pitches-libraries-to-fight-mobile-addiction/):
+//    REJECT — Sewa Inland DREAM Rehabilitation Centre, Gambagre ka lokarpan CM ne kiya; Marak "in presence of"
+//    tha — dusre neta ke karyakram me maujoodgi. Kendra West Garo Hills (Gambagre, Tura) me hai, Rangsakona se bahar bhi.
+// 9. "Govt reviews devp work for state varsity" — The Shillong Times, 3 May 2025
+//    (https://theshillongtimes.com/2025/05/03/govt-reviews-devp-work-for-state-varsity/):
+//    REJECT — Education Minister ka Captain Williamson Sangma State University (Balalgre) ka nirikshan tha;
+//    Marak saath me tha — nirikshan akele entry NAHI; mantri ka program.
+// 10. "CM distributes funds to beneficiaries under Focus+, Progress schemes" — The Shillong Times, 18 Nov 2022
+//     (https://theshillongtimes.com/2022/11/18/cm-distributes-funds-to-beneficiaries-under-focus-progress-schemes/):
+//     REJECT — pre-term (Nov 2022, chunav se pehle); Rs 3.65 Cr ka sanction letter Subir M. Marak ko Vice
+//     Chairman, Village and Khadi Board ke roop me Garobadha–Rangsakona road ke liye mila tha, MLA ke roop me nahi.
+// 11. "Ampati celebrates the jackfruit" — Highland Post, June 2025 (Te-brong Jackfruit Festival, Ampati):
+//     REJECT — sanskritik tyohar me athiti ke roop me maujoodgi/bhashan; vikas-kaam nahi.
+// 12. "Koch community celebrates Pabuni Festival in SWGH" — The Shillong Times, 27 April 2026
+//     (https://theshillongtimes.com/2026/04/27/koch-community-celebrates-pabuni-festival-in-swgh/):
+//     REJECT — tyohar me chief guest ke roop me maujoodgi; vikas-kaam nahi.
+// 13. "William Carey University holds Viksit Bharat seminar" — Highland Post, Nov 2025
+//     (https://highlandpost.com/william-carey-university-holds-viksit-bharat-seminar/): REJECT — maujoodgi akele.
+// 14. "Workshop on nurturing awareness and action for child rights inaugurated" — Highland Post, Nov 2025
+//     (https://highlandpost.com/workshop-on-nurturing-awareness-and-action-for-child-rights-inaugurated/):
+//     REJECT — workshop me bhashan/maujoodgi; vikas-kaam nahi.
+// 15. "College of Community Science, Tura celebrates 23rd Foundation Day" — hubnetwork.in, Sept 2026:
+//     REJECT — Foundation Day me chief guest ke roop me maujoodgi; vikas-kaam nahi; source bhi whitelist me nahi.
+// 16. "Public undertakings committee flags irregularities in SAUBHAGYA and DDUGJY" — Highland Post, 30 July 2026
+//     (https://highlandpost.com/public-undertakings-committee-flags-irregularities-in-saubhagya-ddugjy/):
+//     REJECT — Committee on Public Undertakings ki review meeting (Marak sadasya); vikas entry nahi.
+// 17. "Mondal reviews status of C&RD blocks in SWGH" — Highland Post, Aug 2025
+//     (https://highlandpost.com/mondal-reviews-status-of-crd-blocks-in-swgh/): REJECT — C&RD Minister ka chaar
+//     blocks ka nirikshan; Marak Rerapara me maujood tha — mantri ke nirikshan me maujoodgi.
+// 18. "100-Days TB Elimination Campaign" — hubnetwork.in, Dec 2024 (Tura SMELC program): REJECT — abhiyaan me
+//     hissa lena (camp jaisa karyakram); vikas-kaam nahi; source bhi whitelist me nahi.
+// 19. "Exclusion from inauguration of Jengjal PS irks local MLA" — The Shillong Times, 20 Nov 2025
+//     (https://theshillongtimes.com/2025/11/20/exclusion-from-inauguration-of-jengjal-ps-irks-local-mla/):
+//     REJECT — galat vyakti; ye Dadenggre ke TMC MLA Rupa M. Marak ke baare me hai, Subir Marak se sambandh nahi.
+// 20. "TMC MLAs will join BJP: CM reiterates" — The Shillong Times, 22 Feb 2023: REJECT — pre-term chunavi
+//     bhashan ("karenge" vaada: Garobadha me government college ki maang); koi prashasnik nateeja nahi.
+// NEGATIVE-CHECK (subir-marak): (a) "MLA Subir Marak in soup after slapping MBoSE staff" — The Shillong Times,
+// 21 July 2024 (https://theshillongtimes.com/2024/07/21/mla-subir-marak-in-soup-after-slapping-mbose-staff/) —
+// MLA ne khud sweekar kiya ki 16 July ki raat 2 baje MBoSE guest house (Laitumkhrah, Shillong) me gate khulne
+// me deri par unhone chowkidar ko "mild slap" maara; CCTV footage viral hui; unhone galti maante hue maafi
+// maangi; report ke anusaar koi shikayat darj nahi hui. Pushed (MLA ka apna ikraar + maafi) — disclosure-level
+// negative, lekin ye works entry nahi hai, isliye array me nahi hai. (b) "Rangsakona legislator in soup again
+// over nepotism after job offer claims" — The Shillong Times, 28 Aug 2024 — samajik karyakarta Cherian Momin
+// ne viral video ke aadhaar par teaching posts me bhai-bhatijavad ka aarop lagaya; koi pusht aadhikarik
+// jaanch/FIR report me darj nahi — bina-pusht shikayat akeli valid NEGATIVE NAHI. Page khul nahi saka
+// (fetch timeout) — RETRY LEAD. Chunav-yachika ya dal-badal ka koi mamla nahi mila. Koi valid works-level
+// negative entry nahi.
+// RETRY LEADS: (1) Nepotism-story page (https://theshillongtimes.com/2024/08/28/rangsakona-legislator-in-soup-again-over-nepotism-after-job-offer-claims/)
+// dobara kholkar dekho — kya uske baad koi aadhikarik jaanch/FIR hui; (2) Rerapara BRC lokarpan (14 May 2026)
+// aur Damalgre LP School + digital library lokarpan (6 March 2026) ke liye whitelisted coverage dhoondo — dono
+// abhi sirf hubnetwork.in (non-whitelisted) par hain.
+// NATEEJA: Whitelisted sroton me Mar 2023+ period me Subir M. Marak ki seat-level sirf ek post-event entry mili
+// (Dorambok UHWC lokarpan, Oct 2023, Aspataal, badge news); baaki coverage ya to CM/mantri ke karyakramon me
+// maujoodgi, nirikshan/daura, ya non-whitelisted portals ki hai, isliye reject hui. 12 khoj-prayas kiye gaye.
+
+
+// Meghalaya works-mining — Sanjay A. Sangma (slug: sanjay-a-sangma), Mahendraganj (ST), NPP.
+// Foundation: Mahendraganj seat no. 54, South West Garo Hills, ST reserved; March 2023 me NPP
+// ticket par jeete (13,560 votes; AITC ke Dikkanchi D. Shira ko 1,718 votes se haraya). Native of
+// Boldamgre village. Naam-ka-jaal check: har entry me "Mahendraganj MLA Sanjay A. Sangma"
+// seat-pehchaan ke saath pakka kiya gaya — doosri seat ke Sangma neta ya adhikari nahi. Period:
+// Mar 2023+ only (2023-2028). MLA "Adviser to the Government of Meghalaya on Excise" bhi hain
+// (The Shillong Times, July 2026) — ye mantri-pad nahi hai, isliye unke seat-kaam seat-level hi
+// gine gaye hain. Ghoshit aapradhik mamla: Complaint Case No. 5/2021 (Meghalaya Lokayukta),
+// lambit, koi serious IPC dhara nahi, koi conviction nahi (detail negative-check me).
+
+meghalayaWorks['sanjay-a-sangma'] = [
+{
+    title: 'Balughat me Urban Health and Wellness Centre ka lokarpan — Mahendraganj MLA Sanjay A. Sangma ne 18 Oct 2023 ko South West Garo Hills ke Indo-Bangla seema kshetra me bane naye swasthya kendra ka udghatan kiya, jo 11 gaonon ke lagbhag 4000 se zyada logon ko OPD, day care, cancer screening aur tele-consultation dega',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2023/10/19/health-facility-for-villages-in-swgh/',
+    date: '2023-10-18',
+    stage: 'poora',
+    note: 'MLA Sanjay A. Sangma ne 18 Oct 2023 (Wednesday) ko Balughat Urban Health and Wellness Centre ka udghatan kiya; srot ne unhe "Mahendraganj MLA" ke roop me pehchana hai (seat confirm) aur kendra Balughat, South West Garo Hills me Indo-Bangla border par hai. Kendra OPD aur day care centre ke roop me chalega — sugar test, blood pressure test, cancer screening, tele-consultation ke saath; dedicated medical and health officer tainat rahega. Jile me manzoor paanch UHWC me se ye chautha tha jiska udghatan hua. Suvidha 15th Finance Commission ki yojana ki hai — MLA ne ise fund nahi kiya; entry ka aadhaar unke dwara kiya gaya post-event lokarpan hai. MLA ne usi karyakram me kharab sadkon ke liye chal rahe road construction ko tez karne aur ambulance ki maang par vichaar ka aashwasan bhi diya — ye "karenge" wale vaade hain, entries nahi.',
+    period: '2023-2028',
+},
+{
+    title: 'Kamarpara me Urban Health and Wellness Centre ka lokarpan — Mahendraganj MLA Sanjay A. Sangma ne 4 April 2025 ko Zikzak C&RD Block ke tahat Kamarpara, Mahendraganj me bane swasthya kendra ka udghatan kiya, jisse ghani aabadi wale ilake me emergency aur zaroori swasthya sevayen paidal doori par milengi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/urban-health-wellness-centre-inaugurated-in-kamarpara/',
+    date: '2025-04-04',
+    stage: 'poora',
+    note: 'Kamarpara Urban Health & Wellness Centre ka udghatan Friday, 4 April 2025 ko hua (Highland Post report 5 April 2025); Mahendraganj MLA Sanjay A Sangma chief guest ke roop me maujood the aur inaugural speech di. Kendra Kamarpara, Mahendraganj, Zikzak C&RD Block, South West Garo Hills me hai. DMHO Dr. H Barman ne ilake me swasthya suvidha ki zaroorat batayi; aaspaas ke gaonon ko wide range of health services milengi. Credit-capping: ye sarkari health department ki suvidha hai; MLA ne fund kiya ho iska koi dawa srot me nahi — entry ka aadhaar unke dwara kiya gaya post-event lokarpan hai.',
+    period: '2023-2028',
+},
+{
+    title: 'Boldamgre me Urban Health and Wellness Centre ka lokarpan — Mahendraganj MLA Sanjay A. Sangma ne 25 Feb 2025 ko apne janm-gaanv Boldamgre (Indo-Bangladesh border) me pehle swasthya kendra ka udghatan kiya, jisse primary healthcare ghar ke paas milegi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/02/26/swgh-village-gets-its-first-urban-health-and-wellness-centre/',
+    date: '2025-02-25',
+    stage: 'poora',
+    note: 'Boldamgre village ka pehla Urban Health and Wellness Centre 25 Feb 2025 (Tuesday) ko Mahendraganj MLA Sanjay A Sangma ne inaugurate kiya; srot ne unhe Mahendraganj MLA ke roop me pehchana (seat confirm). Boldamgre unka janm-gaanv hai, Indo-Bangladesh border par. Kendra ka uddeshya rural aur border ilakon me primary healthcare ghar ke paas pahunchana hai. Usi karyakram me MLA ne District Health Society, SWGH ki "Eat Right, Eat Healthy" initiative bhi launch ki. Credit-capping: sarkari swasthya vibhag ki suvidha hai; entry ka aadhaar MLA dwara post-event lokarpan hai.',
+    period: '2023-2028',
+},
+{
+    title: 'Mahendraganj CHC campus me park, Elephant Fountain aur Reception Room ka lokarpan — Mahendraganj MLA Sanjay A. Sangma ne 12 Aug 2024 ko Mahendraganj Community Health Centre parisar me bane CHC Park, Elephant Fountain aur Reception Room ka udghatan kiya',
+    category: 'Aspataal',
+    badge: 'sarkari',
+    sourceLabel: 'meghalaya.gov.in',
+    sourceUrl: 'https://meghalaya.gov.in/node/47192',
+    date: '2024-08-12',
+    stage: 'poora',
+    note: 'Meghalaya Government Portal (sarkari srot) ke anusaar Mahendraganj ke MLA Shri Sanjay A. Sangma ne 12 Aug 2024 ko Mahendraganj CHC Park, Elephant Fountain aur Reception Room ka udghatan kiya; District Medical & Health Officer Dr. Himangshu Barman aur Senior Medical Officer Dr. Noor Ain Khan bhi maujood the. Ye CHC campus ka beautification/facility upgrade hai, isliye category Aspataal rakhi gayi hai. Portal par cost ya scheme ka ullekh nahi hai — badge sarkari isliye kyunki ye sarkari portal ki post-event reporting hai.',
+    period: '2023-2028',
+},
+{
+    title: 'Kambakpara Government LP School ke naye bhawan ka lokarpan — Mahendraganj MLA Sanjay A. Sangma ne 10 July 2026 ko South West Garo Hills ke Kambakpara gaanv me 1957 se chal rahe school ke naye bhawan ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/07/11/swgh-villages-decades-old-school-gets-a-new-home/',
+    date: '2026-07-10',
+    stage: 'poora',
+    note: 'Kambakpara Government LP School ka naya bhawan 10 July 2026 (Friday) ko Mahendraganj MLA aur Government of Meghalaya on Excise ke Adviser Sanjay A. Sangma ne inaugurate kiya; srot ne unhe Mahendraganj MLA ke roop me pehchana hai (seat confirm). School 1957 me venture school ke roop me shuru hua tha. Karyakram me ADC-cum-Project Director DRDA Ampati aur Sub-Divisional School Education Officer bhi maujood the; gaanv ke logon ne ise lambe samay se chali aa rahi maang ka poora hona bataya. MLA ne usi bhashan me constituency me indoor stadiums aur mini stadiums banane ki ghoshna bhi ki — ye "karenge" wali ghoshna hai, entry nahi (retry lead).',
+    period: '2023-2028',
+},
+{
+    title: 'Katta Beel Tourist Facilitation Centre ka sthaniya samudaay ko handover — Mahendraganj MLA Sanjay A. Sangma ne 24 June 2026 ko Katta Beel ke Tourist Facilitation Centre ki chabiyan aur certificate Katta Beel Fishery Cooperative Society ko saunpe',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/06/25/south-west-garo-hills-a%c2%b7jani-mingsinggipa-katta-beel-o-kuligipa-tourist-facilitation-centre-ko-chalaina-gita-katta-beel-fishery-cooperative-society-kbfcs-na-pakwate-on%c2%b7anganio-mahendragan/',
+    date: '2026-06-24',
+    stage: 'poora',
+    note: 'The Shillong Times (Garo edition, 25 June 2026) ke anusaar Mahendraganj constituency ke MLA Sanjay A Sangma ne Katta Beel ka Tourist Facilitation Centre chalane ke liye Katta Beel Fishery Cooperative Society (KBFCS) ko handover kiya; karyakram me Deputy Commissioner (Chairman, District Tourism Promotion Society, SWGH), Zikzak BDO aur Tourist Officer bhi maujood the. Facility ke operation aur maintenance ki zimmedari sthaniya samudaay ko di gayi — ye poori hui tourism infrastructure ka operationalization hai, isliye stage poora hai. Suvidha ke nirmaan ki scheme/cost ka ullekh whitelist srot me nahi mila (non-whitelist hubnetwork ise Swadesh Darshan Scheme batata hai — whitelist confirm nahi hone ke kaaran is entry me dawa nahi kiya gaya).',
+    period: '2023-2028',
+},
+{
+    title: 'MLA ka dawa — South West Garo Hills jile me 250 sarkari lower primary schools ki marammat ka kaam shuru ho chuka hai',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/teachers-day-awards-showered-on-exceptional-educators/',
+    date: '2024-09-05',
+    stage: 'poora',
+    note: 'MLA ka dawa — Mahendraganj MLA Sanjay Sangma ne 5 Sept 2024 ko Ampati me Teachers Day karyakram me kaha ki jile ke 250 government lower primary schools ki marammat ka kaam shuru kiya gaya hai (Highland Post ki post-event reporting). Ye sirf MLA ke bayaan par aadharit hai; swatantra sarkari suchi/GO se pushti nahi mili, isliye badge dawa rakha gaya hai aur title me "MLA ka dawa" framing hai. District-level dawa hai (South West Garo Hills, jisme Mahendraganj seat shaamil hai).',
+    period: '2023-2028',
+},
+];
+
+// REJECT-LOG (sanjay-a-sangma / Mahendraganj (ST), NPP):
+// 1. Merengipara me 10-bedded Integrated AYUSH Hospital (Rs 7 crore, 2025-26) ka shilanyas — CM Conrad K. Sangma ne 7-8 Feb 2026 ko rakha; MLA Sanjay A. Sangma sirf maujood the — syllad.com aur sentinelassam.com (dono whitelist se bahar). REJECT: dusre neta (CM) ke karyakram me ceremonial maujoodgi; Merengipara Mahendraganj seat se juda hai lekin karyakram CM ka tha.
+// 2. Apiculture Multi Facility Centre, Mellim (Rs 1.52 crore sanction) ka base — CM ne 23 July 2024 ko rakha; MLA Sanjay A. Sangma maujood the — syllad.com (whitelist se bahar). REJECT: CM ke karyakram me maujoodgi akele entry NAHI.
+// 3. Betasing C&RD Block Integrated Development Complex ka lokarpan — CM ne 25 July 2024 ko kiya; MLA Sanjay Sangma maujood the — The Shillong Times (https://theshillongtimes.com/2024/07/25/cm-opens-block-development-complex-in-swgh/). REJECT: dusre neta (CM) ke karyakram me maujoodgi.
+// 4. Ampati Degree College ka naya classroom block (6 Aug 2026) — MLA ne udghatan kiya lekin College Governing Body ke President ke roop me; college Ampati me hai jo Ampati seat hai, Mahendraganj se bahar — The Shillong Times Garo edition (https://theshillongtimes.com/2026/08/07/...ampati-degree-college...) aur hubnetwork.in. REJECT: kshetra-bahar + Mahendraganj MLA ke roop me nahi.
+// 5. Jetski (Sea-Doo Spark) launch, Kalaichar/Boldamgre private pond (Aug 2025) — MLA ne apne private pond me launch kiya — Highland Post (https://highlandpost.com/first-ever-jetski-bike-launched-in-south-west-garo-hills/) aur syllad. REJECT: vyaktigat/private sampatti, sarkari vikas-kaam nahi.
+// 6. Sarkar ko likhi chitthiyon me infrastructure maangein (July 2025): Ghugragandi-Kamrapara ke do wooden bridges ko RCC banana, Mahendraganj Deficit Higher Secondary School ka naya bhawan, Kalaichar PHC ka renovation (labour room/adolescent counselling/TB room), Jhunjoni Tiniali anti-dacoity camp ko permanent outpost banana — hubnetwork.in (whitelist se bahar). REJECT: maang/prastav akele; koi sanction/lokarpan report nahi. RETRY LEADS: inme se koi kaam sanction ya poora hua ho to dhoondo.
+// 7. Balughat landslide prabhavit ilake ka daura + parivaron ko rahat (12 July 2026) — hubnetwork.in (whitelist se bahar). REJECT: nirikshan/daura akele + rahat.
+// 8. Mahendraganj me flash flood prabhavit kshetron ka daura (July 2026) — northeastlive/youtube (whitelist se bahar). REJECT: daura/rahat akele.
+// 9. SRWP 2023-24/2024-25 ke tahat 7 ambulances (30 April 2025) — hubnetwork.in aur themeghalayanexpress.com (dono whitelist se bahar). REJECT: whitelist coverage nahi mili. RETRY LEAD: Shillong Times/Highland Post/EastMojo/Northeast Now me iski coverage dhoondo.
+// 10. Mahendraganj seat me Border Land Port ka samarthan (July 2024) — hubnetwork.in Garo edition (whitelist se bahar). REJECT: sirf bayan/samarthan, seema-vishay; whitelist srot nahi.
+// 11. PwD aur AEC students ko financial aid (Aug 2026) — The Shillong Times Garo edition (https://theshillongtimes.com/2026/08/08/...tangka-paisako-dakchake...). REJECT: charity/rahat — niyam ke anusaar NAHI.
+// 12. MSSDS certificate vitran samaroh, Ampati (Dec 2025) — MLA ne 217 trainees ko certificates baante — Highland Post (https://highlandpost.com/grand-certificate-distribution-ceremony-for-trainees-under-mssds-held/). REJECT: karyakram me ceremonial maujoodgi/vitran, vikas-kaam nahi.
+// 13. BJP ka aarop: MLA ne Hindu bhavnaon ko thes pahunchayi (April 2024) — The Shillong Times (https://theshillongtimes.com/2024/04/04/bjp-slams-npp-mla-for-hurting-hindu-sentiments/). REJECT: virodhi neta ka bhashan-aarop; koi karyavahi/FIR nahi; vikas-kaam nahi.
+// 14. CM-Connect public hearing, Adokgre (July 2024) — MLA CM ke saath the — The Shillong Times (https://theshillongtimes.com/2024/07/06/committed-to-bridge-govt-citizen-gap-cm/). REJECT: dusre neta (CM) ke karyakram me maujoodgi.
+// 15. Indoor stadiums aur mini stadiums ki ghoshna (Kambakpara bhashan, 10 July 2026) — "would be developed" — The Shillong Times Kambakpara article. REJECT: "karenge" khabar akele entry NAHI. RETRY LEAD: baad me koi shilanyas/lokarpan hua ho to dhoondo.
+// 16. Science and Commerce College chalu hone ki CM ghoshna (Feb 2026, Merengipara AYUSH event) — sentinelassam.com (whitelist se bahar). REJECT: CM ka program/karyakram, MLA sirf maujood.
+// 17. Boulder truck overloading ka aarop (Aug 2021) — MLA tab NPP candidate the, Mahendraganj Export Association ke secretary — The Shillong Times (https://theshillongtimes.com/2021/08/14/defeated-mla-candidate-accused-of-encouraging-overloading-of-boulder-trucks/). REJECT: pre-term (chunav se pehle); niyam ke anusaar pre-term mamle me vartaman-tenure development na hone par negative NAHI.
+// 18. MHWA 3rd annual conference, Purakhasia (Feb 2025) — CM ne sanctions diye (Rs 7 lakh + Rs 24 lakh girls hostel); MLA Sanjay A. Sangma maujood the — syllad.com (whitelist se bahar). REJECT: CM ka karyakram; community event me maujoodgi.
+// 19. FOCUS+ aur Green Meghalaya funds vitran (2026) — CM ka karyakram; MLA Sanjay A. Sangma maujood the — hubnetwork.in (whitelist se bahar). REJECT: dusre neta ke karyakram me maujoodgi.
+// NEGATIVE-CHECK (sanjay-a-sangma): (a) Ghoshit mamla — Meghalaya Lokayukta me Complaint Case No. 5/2021 (lambit; koi serious IPC dhara nahi; koi conviction nahi). Mar 2023+ me is mamle me nayi karyavahi hui: Lokayukta ne 28 July 2023 ko chargesheet file kiya — Sanjay A. Sangma + 11 anya (ex-GHADC CEM, MDCs, secretary, contractors) par Tura me member hostel (Rs 6,01,31,100) ke non-completion ka mamla; Special Court Tura ne cognizance liya aur 29.08.2023 ko appearance fix ki (The Shillong Times, 2-3 Aug 2023: https://theshillongtimes.com/2023/08/03/corruption-lokayukta-chargesheets-npp-legislator-ex-ghadc-members/); accused ne High Court me challenge petition wapas li (The Shillong Times, 12 Oct 2023); shikayat-karta ke vakeel ke mutabik trial District Special Session Court, Tura me chal raha tha (The Shillong Times, 8 Jan 2024); phir High Court ne 19 Dec 2024 ke interim order se Special P.C. Case No. 2 of 2023 ki aage ki karyavahi stay kar di, jo 16 May 2025 ke order se "until further order" badhaya gaya (CaseMine judgments, 1 July 2025 aur 24 Sept 2025). LEKIN kisi bhi whitelist coverage me MLA ka jawab (unka version) report nahi hua — sakht niyam ("unka jawab (ya anupasthiti-disclosure) ho") poora nahi hua, isliye NEGATIVE ENTRY NAHI banai gayi. Koi conviction nahi hua hai. (b) Wine store shikayat — ex-MLA John Leslee K Sangma ne SP West Garo Hills ko complaint di (1 June 2026, Highland Post: https://highlandpost.com/congress-politico-accuses-mla-of-running-liquor-store-in-anothers-name/) ki MLA aur unki beti Tura me doosre vyakti ke naam par wine store chala rahe hain; koi FIR ya pusht aadhikarik jaanch confirm nahi hui; MLA ka jawab report nahi; beti shaamil hone se parivar-mamla bhi. Bina-pusht-jaanch complaint akeli NEGATIVE NAHI — entry nahi banai. (c) Chunav-yachika: koi nahi mili. (d) Dal-badal: koi nahi. (e) MLA khud kisi mamle me shikayat-karta/peedit nahi mile. Isliye valid negative entries: ZERO.
+// RETRY-LEADS: (1) 7 ambulances (SRWP 2023-24/2024-25, April 2025) ki whitelist coverage; (2) Ghugragandi-Kamrapara RCC bridges, Mahendraganj Deficit HSS naya bhawan, Kalaichar PHC renovation, Jhunjoni Tiniali permanent outpost — kya koi sanction/lokarpan hua; (3) indoor/mini stadiums ghoshna (July 2026) ki pragati; (4) Lokayukta case me MLA ka jawab kisi whitelist srot me, aur 2025-2026 me trial/stay ki vartaman sthiti; (5) Katta Beel centre ki English whitelist coverage (cost/scheme detail ke liye); (6) Highland Post 2 Aug 2023 "SANJAY SANGMA" chargesheet story me MLA ka version check karo; (7) Kamarpara UHWC ke baad SWGH me Mahendraganj seat par aur naye UHWC/CHC upgrade.
+// NOTE: 14 alag search attempts kiye gaye (seat-tagged phrases, "Sanjay A Sangma" variants, site-specific theshillongtimes/highlandpost queries, source-specific EastMojo/Northeast Now, sector-specific road/water/school/ambulance, aur Lokayukta case status/response); har shortlisted source ko kholkar padha gaya — snippet se koi entry nahi banai gayi; jo page nahi khula (Katta Beel Garo article ka body text patla tha) use entry me conservative wording ke saath darj kiya gaya hai. MLA ki pehchaan har source me seat (Mahendraganj) se pakki ki gayi — naam-ka-jaal (doosri seat ke Sangma neta/adhikari) se bache. Whitelisted post-event reporting me March 2023 ke baad ke 7 seat-kaam mile (3 UHWC lokarpan, CHC campus park/fountain/reception, Kambakpara school bhawan, Katta Beel centre handover, aur 1 dawa-level school-repair claim); UHWC aur CHC park sarkari yojanaon ke hain isliye credit-capping note me darj hai. Negative-check me Lokayukta chargesheet (Aug 2023) aur wine-store complaint (June 2026) dono mile lekin sakht pusht-maanak (jawab/anupasthiti-disclosure + FIR/probe) poora na hone se koi negative entry nahi banai gayi; vartaman sthiti negative-check summary me poori tarah darj hai.
+
+
+meghalayaWorks['ian-botham-k-sangma'] = [];   // koi whitelist-post-event entry nahi mili
+
+// REJECT-LOG (ian-botham-k-sangma / Salmanpara (ST), NPP):
+// 1. AYUSH hospital (10-bed, Meringipara, SWGH) shilanyas — The Shillong Times 2026-02-08 / syllad 2026-02-08. CM Conrad K. Sangma ka karyakram; CM ne Manch se Mahendraganj MLA Sanjay A. Sangma ke prayason ki tareef ki (Merengipara/Meringipara usi seat se juda lagta hai), Salmanpara MLA Ian Botham K. Sangma sirf maujood the. Reject: dusre neta ke karyakram me ceremonial maujoodgi + seat-bahar.
+// 2. Water Resources Minister Comingone Ymbon ka SWGH baadh-prabhavit FIPs (Daru FIP Anangpara, Rongkai FIP Kalaipara, Purakhasia land erosion, Bandoraja FIP) nirikshan — The Shillong Times 2024-07-09. MLA minister ke saath the. Reject: nirikshan/daura akele + dusre neta (minister) ke karyakram me maujoodgi.
+// 3. DPDC SWGH samiksha baithak, Circuit House Ampati — Highland Post 2026-06-22 / The Shillong Times (Salantini Janera) 2026-06-23. MLA DPDC Chairman ke roop me adhyakshata. Reject: planning/review baithak, koi poora/lokarpan/swikrit kaam nahi.
+// 4. Dondima IVCS Ltd warehouse (200 tonne, CM ELEVATE scheme award) + Skills Meghalaya certificate vitran, Dinapara, Purakhasia block — Highland Post 2026-01-22. Karyakram MSSDS + MBMA ne aayojit kiya; warehouse cooperative ko CM ELEVATE scheme ke tahat award hua tha; MLA ne bhashan diya lekin udghatan unhone kiya ho ye spasht nahi. Reject: government-scheme karyakram me ceremonial vakta.
+// 5. Mi-Kari festival udghatan, Ampati — The Shillong Times 2026-02-14. Teenon MLAs (Rangsakona, Mahendraganj, Salmanpara) ne milkar udghatan kiya; sanskritik utsav. Reject: bhotik karya nahi, ceremonial.
+// 6. Garo gaon me solar-powered electrical pressure cookers vitran samaroh — Highland Post (snippet). MLA Ian Botham K. Sangma aur Dalu MLA Brenning Sangma udghatan samaroh me maujood. Reject: NGO/CSR project ka samaroh, ceremonial maujoodgi, gaon kaun-si seat me hai verify nahi.
+// 7. MeghFarm Processing Hub + Tikrikilla PRIME Hub udghatan — The Shillong Times 2024-02-10. CM ka karyakram, West Garo Hills; Salmanpara MLA maujood the. Reject: dusre neta ke karyakram me maujoodgi + seat-bahar (Tikrikilla).
+// 8. MHWA 3rd annual conference, Purakhasia — The Meghalayan Express (whitelist se bahar bhi). Community event; CM ko gyaapan diya gaya (reservation-maang). MLA maujood. Reject: maang/prastav akele + ceremonial.
+// 9. Co-Chairman State Planning Board ka SWGH baadh-prabhavit kshetron ka daura + relief/ex-gratia — Syllad 2022-06-11 (whitelist se bahar). Reject: pre-term (June 2022, chunav se pehle) + relief/rahat.
+// 10. Appointment khabar: MLA "Adviser to the Forest and Environment Department" — The Shillong Times 2025-10-07, Highland Post. Reject: padh ki khabar, seat-kaam nahi. Note: ye mantri-pad nahi hai (foundation electionNote me post 'MLA' hai), isliye rajya-star faisle wala clause yahan lagu hi nahi hota.
+// 11. Chunav-naam wali khabrein — NDTV Feb 2023 (chunav se pehle), The Hindu 2013. Reject: pre-term + kaam se sambandhit nahi. Cricketer naam ka bhram se bachav ke liye har source me seat cross-check kiya gaya.
+// 12. Cashew Processing Unit, Choto Bollongra village — hubnetwork.in 2025-08-21: MLA ne udghatan kiya, IFAD-GAp fund, lagbhag Rs 25 lakh, 20 metric ton capacity, lagbhag 20 yuvaon ko rozgar. Reject: source whitelist me nahi (SIRF whitelist sources allowed). RETRY LEAD — isi khabar ka Shillong Times/Highland Post/EastMojo coverage dhoondo.
+// NEGATIVE-CHECK: koi chunav-yachika, dal-badal, rishwat/janch-shikayat, FIR, ya aapradhik mamla nahi mila (myneta.info affidavit: 0 criminal cases; ADR criminal cases 'No'). MLA khud kisi mamle me shikayat-karta/peedit nahi mile. Parivar se juda koi mamla nahi uthaya gaya. Isliye negative entries: ZERO.
+// RETRY-LEADS: (a) The Shillong Times Salantini Janera 2026-09-14 — headline: Salmanpara MLA ne Purakhasia aur Zikzak C&RD blocks ke SHGs ko mini incubator machines aur AECs ko computers diye; lekin article body login wall ke peeche rahi, headline-se-entry niyam ke khilaf, isliye verify nahi hua — encoded URL ya English version se dobara kholo; (b) Choto Bollongra cashew unit (2025-08) ka whitelist-media coverage dhoondo; (c) Highland Post solar-cooker story me gaon ka naam/constituency verify karo.
+// NOTE: 12 alag search attempts kiye gaye (seat-tagged phrases, variant spellings "Botham Sangma"/"Lanbotham", site-specific site:theshillongtimes.com, source-specific EastMojo/Northeast Now/Highland Post, sector-specific road/water/school, aur adviser-role check); har shortlisted source ko kholkar padha gaya; snippet-se koi entry nahi banai gayi; jo page login wall ya 400 par atka usko retry lead me darj kiya gaya. MLA ki pehchan har source me seat (Salmanpara) se pakki ki gayi — cricketer wale bhram se bache. Kul milakar whitelist post-event reporting me March 2023 ke baad ka koi MLA-seat kaam (poora/lokarpan/swikriti/shilanyas) established media me nahi mila, isliye entries khaali hain.
