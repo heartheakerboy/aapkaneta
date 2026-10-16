@@ -456,7 +456,37 @@ odishaWorks['himanshu-sekhar-sahoo'] = [
 // RETRY LEADS: mlalads.odisha.gov.in (state-wide, unreachable); Mahima Peeth Rs 240 cr shilanyas par whitelisted reporting; halafname ke 3 mamalon par whitelisted stage-report; Parjang Nandabira/Ma Nandabir water project (Argus, non-whitelist) par whitelisted coverage; Kamakhyanagar/Hindol/Parjang OTV tag pages periodic scan.
 // ---- Dhenkanal district batch END ----
 
-// ---- Angul district batch ----
+// ---- Angul district batch (researched 2026-10-16) ----
+// Coordinator QA: TNIE Aahaar Kendra URL khud browser.open se verify kiya — story sahi hai (mantri + MLA Ashok Mohanty milkar shilanyas; shilapatt BJD netaon ne tod diya tha, bina shilapatt ke shilanyas hua; note me sanshodhit tathya). Category Aspataal -> Any kiya (Aahaar Kendra khaadya-kendra hai, hospital-kaam nahi); field names corpus format me normalize kiye (description -> note, source -> sourceLabel). Kul titles: 28 -> 29 (+1 entry).
+// 5/5 MLAs: Ashok Mohanty 1 entry; Braja Kishore Pradhan 0; Pratap Chandra Pradhan 0; Agasti Behera 0; Nalini Kanta Pradhan 0 — sab imaandari se khaali jahan saboot nahi mila.
+// Negatives: 0 poore jile me — halafnama raw mamle (8/31/5/2) akela negative nahi; koi vartaman-tenure FIR/inquiry established media me nahi mili.
+
+odishaWorks['ashok-mohanty'] = [
+  {
+    title: 'Pallahara hospital parisar me Rs 96 lakh ke Aahaar Kendra ka shilanyas MLA ne mantri ke saath milkar rakha',
+    category: 'Any',
+    stage: 'shilanyas',
+    date: '2024-10-27',
+    note: 'Pallahara hospital parisar me Roads and Buildings department ki lagbhag Rs 96 lakh ki Aahaar Kendra pariyojana ka shilanyas 27 October 2024 (Ravivar) ko Panchayati Raj mantri Rabi Narayan Naik aur sthaniya BJP MLA Ashok Mohanty ne milkar rakha. Shilapatt par mantri aur MLA dono ke naam the, lekin BJD ke block chairman aur ZP member ne mantri ke pahunchne se pehle use tod diya; dono ne bina shilapatt ke shilanyas rakha. R&B adhikariyon ne Pallahara police station me FIR karayi (MLA aaropi nahi). Caveat: karyakram mantri-led tha, par MLA ka naam shilapatt par tha aur ve shilanyas me sahbhagi the — sirf maujoodgi se adhik, isliye entry; shrey mantri aur sarkari R&B vibhag ka hai. (The New Indian Express, post-event reporting, 28 Oct 2024)',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/odisha/2024/Oct/28/bjd-leaders-demolish-plaque-at-odishas-pallahara-hospital-over-name-exclusion',
+    badge: 'news',
+    period: '2024-2029',
+  },
+];
+odishaWorks['braja-kishore-pradhan'] = [];
+odishaWorks['pratap-chandra-pradhan'] = [];
+odishaWorks['agasti-behera'] = [];
+odishaWorks['nalini-kanta-pradhan'] = [];
+
+// REJECT-LOG (Angul jila, 2026-10-16):
+// ASHOK MOHANTY (Pallahara, BJP) — 1 entry (upar). Rejects: Kishori Express flag-off (JSP CSR, corporate maujoodgi); scrub typhus daura (nirikshan akele); CM police-station event (attendee); Dharmendra Pradhan Talcher event (kendriya mantri ka kaam); Gurujang heritage (kshetra-bahar); Rengali college bayan (sirf bayan); orientation boycott/salary bills/Mamata Mahanta joining (rajneetik bayan); COVID centre row (pre-term + poorv MLA + non-whitelist); 8 halafnama cases raw (negative nahi). Retry: Aahaar Kendra nirman-poornta/lokarpan ka future scan.
+// BRAJA KISHORE PRADHAN (Talcher, BJD, vipaksh) — 0. Rejects: Ghantapara flyover Rs 42.7cr (MCL CSR, Dharmendra Pradhan ne virtually inaugurate kiya, sirf maujood); KV schools/NH-53 overbridge/DMF Rs 62cr/Tikira bridge (Pradhan ya MCL-NTPC CSR); coal-theft site visit (nirikshan+maang, outcome nahi); Bhalugadia eviction virodh/detention/hunger strike (protest akele); BJD padayatra/Prajamandal Day (attendance); ED poochtaachh Jan 2023 (pre-term); transgender remarks (News18 Odia YouTube, maafi maangi, no FIR); sarkari aawas me aag (MLA peedit, negative nahi). 31 halafnama cases raw (negative nahi). Retry: OTV coal-theft inquiry outcome; Ghantapada inauguration whitelisted verification; Odia print me MLA-LAD/DMF suchi.
+// PRATAP CHANDRA PRADHAN (Angul, BJP) — 0. Rejects: Tata Steel Foundation CSR Banarpal (private company, chief-guest lokarpan, non-whitelist); Ghantapara flyover (MCL CSR, virtual lokarpan Dharmendra Pradhan ne, seat Talcher); Athmallik Rs 204.32cr (Pradhan ke, seat Athamallik); Kaniha school bhumi-pujan (Pradhan + JSP/MCL/NTPC CSR); Talcher/Athamallik Rs 94.83cr (Pradhan ke); CM Majhi Angul Mahotsav (attendee); JNV Angul auditorium (Pradhan ne inaugurate kiya, non-whitelist); Odisha T20 League (OCA attendee, kshetra-bahar); indianewsdiary Talcher event (kendriya mantri, non-whitelist). 5 halafnama cases raw (negative nahi). Retry: MLALAD portal.
+// AGASTI BEHERA (Chhendipada SC, BJP) — 0. Rejects: TNIE Mar 2026 Pradhan ke Rs 172cr Chhendipada projects (sirf maujood); Ghantapara flyover (present); Apr 2026 Rs 204cr Angul (present); MCL RPDAC meeting (meeting kaam nahi); The Hindu Mar 2025 SCCL Naini coal mine (PSU kaam); kalingavoice TSF Banarpal (CSR, non-whitelist); odishabarta Jindal football final (ceremonial); Sansad Khel Mahotsav (ceremonial); odishabytes MCL Coal-Neer (present); aroundodisha GMDC wheelchair (PSU CSR + non-whitelist); indiawhispers SCML schools (corporate CSR + non-whitelist); pre-term JSP hospital event; YouTube "Public Exposed" (non-whitelist). 2 halafnama cases raw (negative nahi). Retry: odisha.gov.in par MLA-LAD sanction-order targeted search.
+// NALINI KANTA PRADHAN (Athamallik, BJD, vipaksh) — 0. Rejects: Orissa POST Aug 2024 Rs 94.83cr (Dharmendra Pradhan ne kiya); TOI Aug 2024 OAV/Raniakata/hostel (Pradhan ne inaugurate kiye); TNIE 31 Mar 2026 Rs 204.32cr (Pradhan ke, MLA ki koi bhoomika nahi); TNIE 29 Dec 2025 Chasa Mahasamabesh (Pradhan ka karyakram, sirf present); pre-term campaign/news (Apr 2024); Kalinga TV 2019 Pradhan BJD-join (pre-term); News18 Odia YouTube mass resignation (internal party, non-whitelist); Kanak News Odia YouTube interview (non-whitelist); Sanjeeb Sahoo runner-up ki khabrein (galat vyakti). NCST/tribal-women story (OTV, early 2024) PRE-TERM — vartaman-tenure negative nahi. Retry: MLALAD portal.
+// NAMESAKE TRAPS avoided: Dharmendra Pradhan (kendriya mantri, Sambalpur MP) ke saare karyakram 5on profile se alag rakhe gaye; teenon "Pradhan" MLAs seat se pakke kiye gaye; Braja Kishore vs Pratap Chandra vs Nalini Kanta — sab alag.
+// Foundation corrections: KOI NAHI — naam/party/seat/tenure sab 5 records sahi (mantri-pad kisi me nahi).
 
 // ---- Subarnapur district batch ----
 
