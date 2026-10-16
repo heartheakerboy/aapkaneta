@@ -1456,3 +1456,250 @@ uttarakhandWorks['satpal-maharaj'] = [
 // ritu-khanduri-bhushan (Kotdwar): Speaker-pad sadan-gat faisle sab bahar; Malan-pul bhoomi-pujan Mar 2024 (ETV — retry); KSB pump press-release (retry); KV udghatan Jul 2025 (garhwalpost — retry); KV pre-event/ghoshna (reject); bus flag-off 16 Jun 2026 (non-whitelist — retry); Bhawar tubewells / Balashod tubewell-YouTube (retry whitelisted); ADB peyjal nirikshan (nirikshan, reject); school furniture / yatri sheds / ADB briefing (non-whitelist — retry); public gyms/computers (CSR mukhya-atithi, reject); free meal service (daan, reject); students felicitation / school annual function / book unveiling (samaroh, reject); vikas baithak (baithak, reject). Vidhan Sabha recruitment vivaad Sep 2022 (aarop poorv Speaker par; MLA aaropi nahi — negative nahi); Congress isteefa-maang Mar 2025 (rajnaitik, negative nahi). Halafname: 0 criminal cases.
 // daleep-singh-rawat (Lansdowne): rename-virodh letter (sirf maang, reject); tiger-attack isteefa-dhamki (non-whitelist + bayan, reject); 2019 MCC FIR (pre-term, halafname me charges framed nahi — negative nahi); ETV waterfall "vikas" (non-whitelist + sirf prayas, reject); CM Rs 90cr Dec 2021 event (pre-term + CM ka karyakram, reject); YouTube Parsoli claims (YouTube-only, reject); 2022 morcha/khabaruttarakhand bayan (pre-term/rajnaitik, reject); Congress resignation-advice (vipakshi aarop, negative nahi). Namesake checks: Dhan Singh Rawat items alag rakhe. MLA ka bayan vs official: backgroundNote me naam-variant sentence joda gaya.
 // satpal-maharaj (Chaubattakhal): PMGSY 11-road Rs 104.80cr swikriti (ghoshna + kendriya, reject); GGIC science ghoshna (reject); Barsund pumping Rs 29.83cr dawa (sanction-info only, reject); Oct-2026 bhashan dawe (1.33cr classrooms, 13cr road, sinchai — bina itemization, reject); check vitran/ABVP samman (samaroh, reject); ETV "CM aadesh avhelna" (non-whitelist, koi FIR nahi — negative nahi); Kedarnath gold vivad (khud commissioner janch baithai, khud aaropi nahi, koi FIR nahi — negative nahi); WPMS/292/2022 (chunav-yachika + pre-term, reject); Dinesh Pratap Singh vs ED (namesake, reject); Dehradun ring road PWD nirdesh (state-level mantri-kaam, reject); Manav Utthan Samiti karyakram (dhaarmik, reject); garhwalpost 64cr event / classrooms Dec 2024 (non-whitelist — retry); Jan 2021 93cr ghoshna (pre-term, reject).
+
+// ---- Haridwar district batch (researched 2026-10-17) ----
+// PARENT REVIEW: 21 researched entries me se 2 hatayi — (1) Virendra Kumar ka power-pole negative: bijli vibhag ki sirf shikayat thi, FIR darj hone ki report nahi + MLA khud is act ko nyochit action bata chuke (public act, lekin bina FIR/janch ke negative-niyam poora nahi hota) — FIR-watch lead; (2) Pradeep Batra ki Rishinagar sadak entry: sourceUrl sirf livehindustan.com homepage tha (canonical article URL nahi mila), date anumanit, fund undisclosed — retry lead. Virendra Kumar ke English titles Roman Hinglish me likhe gaye. Batch kul = 19 entries.
+
+uttarakhandWorks['madan-kaushik'] = [
+  {
+    title: 'Ward 30 Bairagi Camp me Rs 6.8 crore ki 4 km sewer line aur pumping station ka nirman — MLA ne swayam shubharambh kiya (14 May 2026)',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haridwar/story-haridwar-sewer-line-project-launched-6-8-crore-investment-for-better-infrastructure-201778757559325.html',
+    date: '2026-05-14',
+    stage: 'shilanyas',
+    note: 'Madan Kaushik ne 14 May 2026 ko Nagar Nigam Haridwar ke Ward 30 Bairagi Camp basti me Rs 6.8 crore ki laagat se 4 km lambi sewer line aur ek pumping station ke nirman ka poojan kar vyaktigat shubharambh kiya; sthaniya parshad aur vibhagiya adhikari maujood the. March 2026 me cabinet mantri banne ke baad ka seat-specific vyaktigat karyakram hai, rajya-stariya vibhagiya faisla nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Bilveshwar Colony me mukhya dwar par automatic boom barrier ka udghatan aur Jhanda Ground me tile-bichhawan, deewar punarnirman aur parking sundarikaran karyon ki shuruaat',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/haridwar/development-work-begins-in-bilveshwar-colony-haridwar-news-c-149-1-hrd1003-5324-2026-10-14',
+    date: '2026-10-14',
+    stage: 'lokarpan',
+    note: 'Cabinet mantri Madan Kaushik ne Bilveshwar Colony me mukhya dwar par automatic boom barrier ka udghatan kiya aur Jhanda Ground me tile-bichhawan, puliya tak kshatigrast deewar ke punarnirman aur parking sundarikaran karyon ki shuruaat karai; colony adhyaksh ke prayason ki sarahna ki. Report me fund ki rashi ya yojana ka ullekh nahi hai. Seat-specific vyaktigat karyakram hai, rajya-stariya vibhagiya faisla nahi.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['adesh-chauhan'] = [
+  {
+    title: 'MLA Adesh Chauhan ko Dehradun ki CBI court ne 2009 ke illegal detention mamle me doshi thahraya — 6 mahine ki saza, turant zamaanat mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/india/uttarakhand-mla-adesh-chauhan-convicted-2009-illegal-detention-case-10030596/',
+    date: '2025-05-26',
+    note: 'Dehradun ki CBI court ne Haridwar ke BHEL Ranipur ke BJP MLA Adesh Chauhan ko 2009 ke illegal detention mamle me doshi thahraya aur 6 mahine ki saza sunayi — faisle ke turant baad zamaanat mil gayi. Mamla 2009 ka hai (us waqt Chauhan BJP office-bearer the; MLA 2012 me bane), lekin Mar 2022 ke baad ka legal development hai — 2019 me High Court ne CBI janch ke aadesh diye, Oct 2019 me FIR darj hui, 2022 me MLA ke khilaf aarop tay hue, aur 26 May 2025 ko dosh-siddhi hui. Shaktiyon ne peedit Dheer Singh Chauhan ke 36 ghante ke avaidh police custody me rehne aur pin se banae gaye jakhmon se jhoothe saboot gadne ke aarop lagaye. MLA khud mukhya aaropi rahe (seat se pehchan), FIR/CBI janch adalati-aadesh se hui. Indian Express ki is report me MLA ki seedhi pratikriya shamil nahi hai; unke vakil ke hawale se faisle ko sessions court me chunauti dene ki baat PTI-adhikrit reports me ayi hai. Faisla appeal ke adheen hai.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['ravi-bahadur'] = [
+  {
+    title: 'MLA ne Sahdevpur me Rs 8 lakh ki interlocking-tiles sadak ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/haridwar/mla-ravi-bahadur-inaugurated-the-road-haridwar-news-c-35-1-sdrn1003-126280-2024-12-08',
+    date: '2024-12-08',
+    stage: 'lokarpan',
+    note: 'Jwalapur MLA Ravi Bahadur ne Bahadrabad kshetra ke gram Sahdevpur me main road se Tejendra Sardar ke ghar tak Rs 8 lakh ki laagat se bani interlocking-tiles sadak ka vyaktigat lokarpan kiya. Fund: jila yojana (district plan) — report me MLA ne khud nidhi ki bhoomika darj hai. Post-event reporting.',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA ne Bandarjud Mujahidpur Satiwala me interlocking-tiles sadak ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haridwar/story-road-construction-initiated-in-jwalapur-by-mla-ravi-bahadur-201783340031239.html',
+    date: '2026-07-06',
+    stage: 'shilanyas',
+    note: 'Jwalapur vishva-khand ke gram panchayat Bandarjud Mujahidpur Satiwala me interlocking-tiles sadak ka vyaktigat shilanyas; gram pradhan sahit gramin maujood. Report me laagat/nidhi ka ullekh nahi. Date: article me ghatna "somvaar ko" darj hai, isliye Monday 2026-07-06 rakhi gayi (crawl date ke aadhaar par anumanit).',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA ne Kota Muradnagar me sadak nirmaan karya ka shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haridwar/story-social-dialogue-event-in-kota-muradnagar-support-for-mla-ravi-bahadur-and-road-construction-initiated-201782645385205.html',
+    date: '2026-06-29',
+    stage: 'shilanyas',
+    note: 'Jansamvad karyakram me feeta katkar gaon me sadak nirmaan ka shubharambh; uske baad MLA ne galiyon ka bhraman karke samasyayen suni. Report me laagat/nidhi ka ullekh nahi. Date crawl metric ke aadhaar par anumanit hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA ne Haridwar Nagar Nigam ke ward 42 me sadak nirmaan karya ka shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haridwar/story-road-construction-started-9279273.html',
+    date: '2024-02-03',
+    stage: 'shilanyas',
+    note: 'Haridwar Nagar Nigam ke ward 42 me sthaniya logon ke saath sadak nirmaan ka shubharambh. Report me laagat/nidhi ka ullekh nahi. Date article me darj 3 Feb 2024 se pramanit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jwalapur kotwali me tehrir — Congress neta Jitendra Chaudhary ne MLA par phone par dhamki ka aarop lagaya, police janch shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/haridwar/story-congress-mla-ravi-bahadur-accused-of-threatening-party-worker-police-investigation-underway-201769522388388.html',
+    date: '2026-01-27',
+    note: 'MLA Ravi Bahadur par apni hi party ke neta (poorv mayor pratinidhi) Jitendra Chaudhary ko phone par jaan se marne ki dhamki dene ka aarop; Chaudhary ne Jwalapur kotwali me tehrir di aur suraksha mangi. Naam-daar adhikari-pusht janch: kotwali prabhari Kundan Singh Rana ne tehrir milne aur janch ka elaan kiya. Stage-framing: FIR darj hone ki report nahi — tehrir + janch ki sthiti, apradh siddh nahi; viral audio ki Hindustan ne pramanikta ki pushti nahi ki. MLA ka jawab: aarop niradhar aur bebuniyaad, ticket na milne ki ranjish ka natija. Corroboration: Amar Ujala (27 Jan 2026).',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['mamta-rakesh'] = [
+  {
+    title: 'Congress MLA Mamta Rakesh ne Bhagwanpur ke Atal Sarovar sthit Valmiki shamshan ghat tak jaane wali sadak ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/roorkee/mla-inaugurated-the-road-to-the-crematorium-roorkee-news-c-37-1-rrk1008-162414-2026-10-11',
+    date: '2026-10-11',
+    stage: 'lokarpan',
+    note: 'Report me fund source disclosed nahi; MLA ne swayam sadak ka udghatan kiya, isliye bhoomika udghatan tak capped. Virodhi MLA hain, isliye shrey kaam shuru karane ki pahal tak seemit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Congress MLA Mamta Rakesh ne NH-73 toll plaza ke paas Bahadrabad, Dhanauri, Imli Khera, Bhagwanpur aur Gagledi ko jodne wali sadak ke nirmaan karya ka shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/roorki/story-mamata-rakesh-initiates-road-construction-in-bhagwanpur-promotes-development-201763894030065.html',
+    date: '2025-11-23',
+    stage: 'shilanyas',
+    note: 'Report me fund source disclosed nahi; MLA ne swayam nirmaan karya ka shubharambh kiya, isliye bhoomika shilanyas tak capped. Virodhi MLA hain, isliye shrey kaam shuru karane ki pahal tak seemit.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Congress MLA Mamta Rakesh ne Bhagwanpur kshetra ke Sisauna gaon me interlocking sadak ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/roorki/story-mamata-rakesh-inaugurates-interlocking-road-in-sisauna-emphasizes-rural-development-201778414771973.html',
+    date: '2026-05-10',
+    stage: 'lokarpan',
+    note: 'Report me fund source disclosed nahi; MLA ne swayam sadak ka udghatan kiya, isliye bhoomika udghatan tak capped. Date story metadata se anumanit hai (~159 din pehle) — anuman disclosed hai.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['virendra-kumar'] = [
+  {
+    title: 'Jhabrera MLA Virendra Jati ne Rahimpur se Sarvagya School Shivpuram tak Rs 50 lakh ki sadak ka udghatan kiya (Jan 2026)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/roorki/story-virendra-jati-inaugurates-50-lakh-inr-road-project-in-jhabbreda-uttarakhand-201769001028750.html',
+    date: '2026-01-21',
+    stage: 'lokarpan',
+    note: 'Vyaktigat udghatan ki post-event report; report me funding agency ka naam nahi hai, isliye fund attribution undisclosed rakha gaya hai. Pehchan: Jhabrera seat ke INC MLA (kendra mantri Virendra Kumar namesake se alag).',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jhabrera MLA Virendra Jati ne Paniala gaon ke Ravidas Chowk par Rs 15 lakh ki sadak ka udghatan kiya (Sep 2026)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/dehradun/story-inauguration-of-1-5-million-inr-road-in-rudki-by-mla-virendra-jati-201789192101619.html',
+    date: '2026-09-13',
+    stage: 'lokarpan',
+    note: 'Jila yojana ke tahat bani sadak ka vyaktigat udghatan (post-event report). Article page par prakashan-taareekh nahi dikhi — date search-index ke aadhaar par anumanit hai, disclosed hai.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['furkan-ahmad'] = [];
+
+uttarakhandWorks['pradeep-batra'] = [];
+
+uttarakhandWorks['umesh-kumar'] = [
+  {
+    title: 'Khanpur ke chhah gaon me sadak nirmaan karyon ka MLA Umesh Kumar dwara vyaktigat shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/roorki/story-umesh-kumar-launches-road-construction-projects-in-khanpur-constituency-201789646704564.html',
+    date: '2026-09-17',
+    stage: 'shilanyas',
+    note: 'Kuaankheda, Saidabad, Kudi Netwala, Podowali, Mohanawala aur Khanpur me MLA ne vyaktigat roop se sadak nirmaan ka shubharambh kiya; report me fund/Vidhayak Nidhi ka zikr nahi; Kuaankheda me barsaat ke baad tatbandh ka ashwasan diya gaya (ashwasan hi — karya nahi). Pehchan: Khanpur seat ke IND MLA — Umesh Sharma Kau (Raipur) se alag.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Sadan me MLA ke sawal par Khanpur ke chaar vidyalayon ke uchchikaran ki sarkari pushti: Chandrapuri Kala, Dandera, Balawali aur Landhaura school',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/roorki/story-umesh-kumar-raises-educational-upgrade-issue-in-khanpur-assembly-201773320275913.html',
+    date: '2026-03-12',
+    note: 'Credit capped — uchchikaran ki swikriti sarkar/shiksha vibhag ki hai; MLA Umesh Kumar ne Vidhan Sabha satra me sawal uthakar ye jawaab liya tha; fund disclosed nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kunwar Pranav Singh Champion ke saath golee-chalan jhagde me MLA Umesh Kumar giraftar, BNS dharayon me case; CJM court se jamanat mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/dehradun/ex-bjp-mla-sent-to-judicial-custody-after-clash-with-successor/articleshow/117610479.cms',
+    date: '2025-01-27',
+    note: '26 Jan 2025 ko poorv MLA Champion ne Kumar ke camp office par firing ki; Kumar mauqe par maujood nahi the, baad me bandook lekar pahunche aur jawabee hamla kiya; Champion ki patni ki complaint par Roorkee police ne Kumar ko giraftar kiya aur BNS 191(3) samet rioting dharayon me charge kiya; CJM se jamanat par riha; dono pakshon ke hathiyar license radd kiye gaye; koi dosh-siddhi nahi — aage ka court nateeja report me nahi. MLA ki seedhi pratikriya TOI report me shamil nahi hai — anupasthiti disclosed hai.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['qazi-mohammad-nizamuddin'] = [
+  {
+    title: 'MLA ka dawa — Manglaur kshetra me do inter college ke liye nayi zameen unke prayason se allotted hui, nirmaan karya jald shuru hoga',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'Hindustan (HT Syndication reprint)',
+    sourceUrl: 'https://www.htsyndication.com/hindustan-delhi/article/%E0%A4%AE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8C%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%AF%E0%A4%97%E0%A4%BE-%E0%A4%9A%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8%3A-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%80%E0%A4%A8/86802223?request_locale=hn',
+    date: '2024-12-17',
+    note: 'MLA ka dawa — do inter college ki zameen unke prayason se allotted hone ka dawa; bhoomika "pahal" tak capped; fund undisclosed. Ekmatra aadhaar: virodhi MLA ki press-meet (17 Dec 2024, HT Syndication reprint — original livehindustan page search me nahi mila, isliye whitelist me HT Syndication ko Hindustan ke reprint ke roop me rakha gaya hai).',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA ka dawa — Manglaur me 33 KVA bijli ghar ki swikriti unke prayason se dilayi gayi',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Hindustan (HT Syndication reprint)',
+    sourceUrl: 'https://www.htsyndication.com/hindustan-delhi/article/%E0%A4%AE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8C%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%AF%E0%A4%97%E0%A4%BE-%E0%A4%9A%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8%3A-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%80%E0%A4%A8/86802223?request_locale=hn',
+    date: '2024-12-17',
+    note: 'MLA ka dawa — 33 KVA bijli ghar ki swikriti unke prayason se dilayi jaane ka dawa; bhoomika "pahal" tak capped; fund undisclosed. Ekmatra aadhaar: virodhi MLA ki press-meet (17 Dec 2024, HT Syndication reprint).',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA ka dawa — Manglaur roadways parisar ka jeernodhar unke prastav par kiya ja raha hai',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Hindustan (HT Syndication reprint)',
+    sourceUrl: 'https://www.htsyndication.com/hindustan-delhi/article/%E0%A4%AE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A5%8C%E0%A4%B0-%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%E0%A4%A8%E0%A4%B8%E0%A4%AD%E0%A4%BE-%E0%A4%95%E0%A4%BE-%E0%A4%95%E0%A4%B0%E0%A4%BE%E0%A4%AF%E0%A4%BE-%E0%A4%9C%E0%A4%BE%E0%A4%AF%E0%A4%97%E0%A4%BE-%E0%A4%9A%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%80-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8%3A-%E0%A4%A8%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%A6%E0%A5%80%E0%A4%A8/86802223?request_locale=hn',
+    date: '2024-12-17',
+    note: 'MLA ka dawa — roadways parisar ka jeernodhar unke prastav par hone ka dawa; bhoomika "pahal" tak capped; fund undisclosed. Ekmatra aadhaar: virodhi MLA ki press-meet (17 Dec 2024, HT Syndication reprint).',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['shahzad'] = [];
+
+uttarakhandWorks['anupama-rawat'] = [];
+
+// ---- REJECT-LOG (Haridwar district 7/13 — consolidated) ----
+// adesh-chauhan: pioneeredge (CM prog maujoodgi) reject; garhwalpost Amit-Shah-bete-fraud (wo peedit, kaam nahi); YouTube items reject; Tribune 2017 pre-term maujoodgi reject; non-whitelist conviction mirrors reject (IE whitelist source raha).
+// ravi-bahadur: karmtimes Jaswala Rs 1cr + Budhwashaheed Rs 65L (non-whitelist); bahadrabadnews Rs 30L (non-whitelist); sauhardsandesh Pathri-Puranpur Rs 96L (non-whitelist); 2020 Yuva-Congress mukadma pre-term (negative nahi); toll-plaza dharna (virodh, kaam nahi); Gairsain Congress prashn (koi nateeja nahi); Baba Ramdev virodh 2019 pre-term.
+// mamta-rakesh: elevated bridge DM-varta (sirf maang); Sirchandi health camp (rahat camp class); Rs 2.90cr talab saundaryikaran + Shahpur sadak + interlocking tiles (national24x7 non-whitelist); BD Inter College Vidhayak Nidhi tin shed (tahelkanews non-whitelist); private Sai Hospital (private event); ETV polling-day dharna (negative bar fail); PMAY aarop (unse aaropi nahi — unhone aarop lagaya tha).
+// virendra-kumar: Teachers felicitation (chief guest only); sugarcane protest (virodh, kaam nahi); Roorkeehub 2019-20 delegation (pre-term + sirf maang); Union-minister Virendra Kumar namesake (exclude); Bihar Virendra Singh namesake (exclude); VIP News YouTube (retry lead).
+// furkan-ahmad: Garhwal Post son-ruckus (parivar ka mamla, FIR nahi); 2021 meeting pre-term; SIR/newslaundry (kaam nahi); MyNeta 2020 COVID cases pre-term (negative nahi); HT 15-MLA suspension 2023 (group protest, negative bar fail).
+// pradeep-batra: bus stand shilanyas (mantri-vibhagiya faisla); cold-milling ghoshna (ghoshna-class); karmtimes Solanipuram (non-whitelist, retry lead); 100 school bags (daan); mask fine 2021 pre-term; HC demolition SC stay 2020-21 pre-term; sister property aarop (parivar + non-whitelist); IIT events (maujoodgi).
+// umesh-kumar: ETV Bharat 4-saal dawa press-meet (source + dawa); garhwalkipeeda Govardhanpur (non-whitelist + dusre neta ka udghatan); 30 Sep 2026 Govardhanpur shilanyas (pre-event); 2022 election petition (chunav-yachika akele negative nahi); Harish Rawat slugfest (bayan-bazi); Amroha farmhouse (aaropi nahi); bhagirath pratima (non-whitelist).
+// qazi-mohammad-nizamuddin: "paanch crore sadkon ka jaal" (ghoshna); ETV RTI 76% (non-whitelist + predecessor tenure mix); devbhoomimedia 64 karya (purana karyakaal); ThePrint victory-process stone-pelting (aaropi nahi); subkuz death threats (victim, aaropi nahi); TOI CHC patient row (koi FIR/aarop nahi); SIR allegations (raajnaitik aarop); Ankita protest (raajnaitik).
+// shahzad: Paithal Bujurg Rs 60L + Mohammadpur Bujurg + Bhikampur-Jeetpur Rs 22L + Sultanpur-Bhuwapur Rs 55L + Niranjanpur-Kankar Khata (sab non-whitelist, retry leads); NH-334A bypass patra (sirf maang); OBC scholarship patra (sirf maang); dargahpur Vidhayak Nidhi janch (show-cause adhikariyon par — MLA aaropi nahi, negative bar fail).
+// anupama-rawat: Ravasan bridge janjagaran yatra (sirf maang, YouTube); smart-city/assembly prashn (koi nateeja nahi); district plan baithak (dusre neta ka karyakram); 2022 election coverage (pre-term era news).
+// madan-kaushik: Jwalapur college solar handpump (seat-boundary risk — retry lead); Mukhiya Gali/ward drains/Kadachh (non-whitelist, retry leads); corridor/heritage-city ashwasan (whitelist coverage nahi); UG cabling 2021 (pre-term + maujoodgi); panchayat secretariats (mantri-vibhagiya); NDTV fraud case (aaropi nahi); land-grab aarop (sirf aarop, non-whitelist); library PIL (paksh me faisla).
