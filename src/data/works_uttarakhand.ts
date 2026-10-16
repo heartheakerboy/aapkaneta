@@ -300,3 +300,226 @@ uttarakhandWorks['asha-nautiyal'] = [
   },
 ];
 // REJECT-LOG (asha-nautiyal): Gaurikund taptkund punaruddhar Vidhayak Nidhi Rs 15L (rajyasameeksha, non-whitelist) reject — retry lead; Tala-Barangali marg Rs 3.16cr bhumipujan (divyapahad/YouTube, non-whitelist) reject — retry lead; Unnati Cluster bhawan lokarpan Kaviltha (pahadraftar, non-whitelist) reject — retry lead; Mavdhar-Chamak sadak Rs 67.10L (jaltarashtra) reject; Evergreen school bhawan lokarpan (nayaadhyay) reject; CM mulaqat 4 Oct 2026 (maang hi, nateeja nahi) reject; Nagrasu-Kot-Jasoli marg Rs 4.15cr (MLA ki koi bhoomika nahi) reject; BPCL Hospital udghatan maujoodgi reject; kapat-khulna/mahashivratri karyakram maujoodgi reject; sheetkaleen yatra shubharambh maujoodgi reject; Dilmi school punah-sanchalan (bayan hi, ETV Bharat non-whitelist) reject; non-Hindu pravesh pratibandh maang (HT/Telegraph, political demand) reject; Basukedar aapda controversy (rahat vitaran) reject; viral misleading video par police patra (MLA khud complainant) — negative nahi; BKTC donation/RTI hospitality row (FIR suspended employee par; MLA aaropi nahi, denial diya) — negative nahi, watchlist (BKTC committee janch chal rahi hai).
+
+
+// ---- Tehri Garhwal district batch (researched 2026-10-17) ----
+
+// PARENT REVIEW (2026-10-17): workers se 7 entries aayi thi; 1 hatayi — Kishore Upadhyay ki Kantal-Andhiyargarhi-Sangaon swikriti entry: MLA ki bhoomika sirf swikriti ki jaankari media ko dena thi (shasanadesh-ki-sirf-jaankari class — Rudraprayag ruling se consistent). Batch kul = 6 entries.
+
+// Works-mining fragment: Shakti Lal Shah (shakti-lal-shah), Ghanshali (SC), Tehri Garhwal
+// BJP, MLA Mar 2022 - Mar 2027 (re-elected 2022: 20,949 votes, margin 10,285). Term 2022-2027.
+// All sources verified open 2026-10-17. Bhaasha: Roman-script Hinglish only.
+uttarakhandWorks['shakti-lal-shah'] = [
+  {
+    title: 'Dhamatoli ke Rajkiya Uchchtar Madhyamik Vidyalaya ka Inter star tak uchchikaran hua; smart class ka shubharambh; kshetra ke logon ne MLA Shaktilal Shah ko chaandi ka mukut pehnakar sammanit kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com',
+    // Full article URL (traceability): https://www.amarujala.com/uttarakhand/tehri/mla-presented-with-a-silver-crown-for-upgrading-the-school-tehri-news-c-50-1-nth1001-121785-2026-10-11
+    date: '2026-10-11',
+    note: 'Uchchikaran sarkari nirnay hai — fund figure article me disclosed nahi, Vidhayak Nidhi ka koi ullekh nahi. MLA ki bhoomika maang tak seemit: unhone Feb 2026 me CM ke saamne 37-sutriya maang-patra me Dhamatoli school ke uchchikaran ki maang rakhi thi; uchchikaran ke baad school me smart class bhi shuru hui. Attribution capped — school ka upgrade sarkari kaam hai, vyaktigat lokarpan/shilanyas ka dawa nahi',
+    period: '2022-2027',
+    stage: 'swikriti',
+  },
+];
+
+// ---- REJECT-LOG (shakti-lal-shah) ----
+// 1. CM Dhami ka 26 Feb 2026 Ghansali daura — Rs 41.21 crore ki 8 yojanaon ka lokarpan/shilanyas (PMGSY Dhamatoli-Ghanshali-Akhodi aur Nageshwar Saud-Gona-Sarkanda road upgrade; GIC Kot Vishan bhavan punarnirman; Hanuman mandir ke paas 50m steel girder pul; tehsil Balganga aawasiya/anaawasiya bhavan; Gangi swasthya upkendra; Pilkhi PHC ka CHC me uchchikaran) — REJECT: coverage mirroruttarakhand/lokmattimes(ANI)/zeenews/indianmasterminds par, koi whitelisted source nahi; CM ka package hai, MLA ki bhoomika sirf swagat/aabhaar + 37-sutriya maang-patra (maang/attendance only, koi vyaktigat lokarpan nahi).
+// 2. livehindustan 18 Nov 2025 — MLA ki press vaarta: 'CM ne PHC Pilkhi ko CHC ka darja diya, bhavan ke liye Rs 14.83 crore swikrit; Ghanshali me up-jila aspatal jald' — REJECT: ghoshna-class (CM-ghoshna par jaari shasanadesh ki sirf jaankari); MLA ka koi swatantra event nahi.
+// 3. livehindustan 20 Dec 2025 — MLA ne kendriya mantri Nitin Gadkari se milkar 3 Ghanshali margon (Uttarkashi-Lambgaon-Kemundakhal-Chamiyala-Ghanshali-Tilwara; Uttarkashi-Ayarkhal-Budhakedar-Chamiyala-Ghanshali-Tilwara; Tipri-Gadoliya-Ghanshali-Chirbatiya-Moolgarh-Tilwara) ko national highway me shaamil karne ki maang ki — REJECT: sirf maang/prastav, koi dastaveji nateeja nahi.
+// 4. YouTube video — Vikas Khand Bhilangana ka naya block bhavan (186 gram panchayat, Rs 2.5 crore lagat) ka lokarpan rajya sthapana divas par block pramukh + MLA dwara — REJECT: YouTube whitelisted nahi; sansthaagat bhavan ka saha-udghatan, kamzor attribution.
+// 5. dainikjayantnews (~Mar 2023) — MLA ne Swami Vivekanand Vidya Mandir Mahavidyalaya Beleshwar me Rs 3 lakh Vidhayak Nidhi se nirmit kaksha-kaksh ka udghatan kiya; computer lab Bhilangana Hydro Power Project (Ghuttu Bhilang) ki CSR mad se — REJECT: not whitelisted; private college; computer lab CSR-funded (MLA fund nahi). RETRY LEAD: isi event ka whitelisted (Amar Ujala/Dainik Jagran Tehri) coverage dhoondho.
+// 6. dainikjayantnews (~Nov 2020) — MLA ne Ghanshali Hanuman mandir ke paas Rs 5.52 lakh Vidhayak Nidhi se sthapit solar pumping plant (haath-pump par solar system, Jal Sansthan dwara nirmit) ka udghatan kiya — REJECT: pre-term (Mar 2022 se pehle) + not whitelisted.
+// 7. newsonair.gov.in (Akashvani, 8 Mar 2025) — MLA ne aapda punarnirman karyon ki sameeksha baithak me Budhakedar/Ghuttu kshetron me kaam tez karne aur June se pehle poora karne ke nirdesh diye — REJECT: sirf nirikshan/sameeksha-nirdesh, koi poora hua kaam nahi; source bhi whitelist me nahi.
+// 8. devbhumiemedia (Oct 2026) — Ghanshali ke 10 mandiron ke saundaryikaran ke liye Rs 1.30 crore swikrit (Budhakedar 20L, Beleshwar Mahadev 20L, Jagdishila Mata 20L, aadi); MLA ne CM ka aabhaar jataya — REJECT: not whitelisted + MLA ki bhoomika sirf aabhaar (koi vyaktigat shilanyas/lokarpan nahi); ye sarkari swikriti hai, MLA ka kaam nahi.
+// 9. doonkhabar.com RTI report (~Sep 2026) — Shaktilal Shah ne Vidhayak Nidhi ka 55% kharch kiya — REJECT: not whitelisted; aggregate kharch-aankda hai, itemized kaam/vitaran nahi.
+// 10. sachkiawaz.in (~2022 chunav kaal) — dharma-parivartan/Isaai dharm apnane ka aarop; MLA ne press vaarta me khandan kiya — REJECT: not whitelisted + khandan ho chuka + koi FIR/adhikari-pusht janch nahi; negative criteria poora nahi karta.
+// 11. Dainik Jagran 3 Apr 2021 — 'Ghanshali ke BJP vidhayak Shaktilal Shah ka dhamki ka video viral' (Jal Sansthan/Jal Nigam adhikariyon ko 'boriya-bistar baandh ke rakho... rassi se baandhkar maarunga'); MLA ne kaha video edited/fake hai, kaaryavaahi karenge — PRE-TERM hone ke kaaran negative entry NAHI: vartaman karyakaal (Mar 2022+) me koi legal development nahi, koi FIR ya naam-daar adhikari-pusht janch ullikhit nahi; khandan darj hai.
+// 12. navbharattimes.indiatimes.com — MLA ka bayan 'gaon ke log hi mujhe vidhayak nahi mante' viral — REJECT: self-deprecating bayan hai, negative (aarop/FIR/janch) nahi; whitelisted bhi nahi.
+// 13. news.abplive.com 24 Nov 2024 — 'Shah' naam ke vyakti par sarkari adhikari banne ka dhokha/FIR (Gujarat) — REJECT: alag vyakti, hamare MLA se sambandh nahi.
+// 14. garhwalpost.in — CM ke Feb 2026 Ghanshali daure ki report (37-sutriya maangen: Akhodi uchchikaran, Thati Bhatwara baadh suraksha, Dhamatoli school, mini stadium, Kothar-Saud sadak, Genwali Budhakedar/Pindwad up-swasthya kendra) — source ke roop me REJECT (whitelist me nahi); sirf maang-patra ki suchi hai, entry 1 ke attribution-context ke liye upyogi lead.
+// NEGATIVES CHECK: koi negative entry nahi. Shakti Lal Shah ke khilaf myneta.info/ADR affidavit me 0 criminal cases darj hain. Upar ke items 10-13 me se koi bhi negative criteria (established media + FIR/adhikari-pusht janch + pehchan verify + jawab/anupasthiti disclosed) poora nahi karta.
+// RETRY LEADS: (1) Amar Ujala/Dainik Jagran Tehri edition archive me 'Shaktilal Shah Ghanshali lokarpan/shilanyas' search — khaas taur par Beleshwar college kaksha-kaksh/computer-lab event (~Mar 2023, Rs 3 lakh Vidhayak Nidhi) ka whitelisted coverage; (2) Tehri jila official portal par Vidhayak Nidhi swikriti-suchiyan (Ghanshali) — itemized vitaran ke liye; (3) Uttarakhand Vidhan Sabha records — Shakti Lal Shah dwara pooche gaye taarankit prashn aur mantri-ashwasan ke dastaveji nateeje.
+
+uttarakhandWorks['vinod-kandari'] = [];
+
+// ---- REJECT-LOG (vinod-kandari) ----
+// 1. garhwalpost.in: 'CM inaugurates, lays foundation stones of 160 schemes worth Rs 415 crore in Tehri' — Kandari ka naam sirf 'present on the occasion' wali list me hai. Mukhya atithi CM the; MLA ka personal lokarpan/shilanyas nahi. REJECT: dusre neta (CM) ke karyakram me maujoodgi.
+// 2. garhwalpost.in: 'Govt working on mission to ensure rapid development in U'khand: Dhami' — phir sirf maujoodgi, koi personal kaam nahi. REJECT: sirf maujoodgi.
+// 3. garhwalpost.in: 'Ministers, MLAs fail to spend even half of their MLA-LAD funds' — Kandari ne apni Vidhayak Nidhi ka 58% kharch kiya bataya gaya, lekin kisi specific kaam/work-order/sanction-suchi ka zikr NAHI. Itemized report nahi, isliye entry nahi ban sakti. RETRY LEAD: Vidhayak Nidhi sanction-suchi (district portal/RTI) se asal vitaran items nikalne par entry banegi.
+// 4. thehawk.in: 'Uttarakhand CM Inaugurates Ved Shastra Research Center In Devparayag' — CM ne virtual mode me udghatan kiya; Kandari ka naam/sahbhaagita report me nahi. REJECT: CM ka kaam, MLA ka role nahi.
+// 5. thehawk.in / newsd.in: 'BJP High Command Upset Over Devprayag Distillery' — distillery mudda, kaam nahi; Kandari aaropi nahi, negative bhi nahi. REJECT: na work, na negative.
+// 6. youtube.com (VIP News 24x7): 'Rajya mantri ne Vidhayak ko vikas karyon par ghera' — YouTube video, whitelist ke bahar. REJECT: non-whitelisted source.
+// 7. Affidavit/myneta.info: Kandari par 0 criminal cases declared. Oneindia 'MLAs with criminal cases' list me bhi 0. Negative-factory checks me koi FIR, naam-daar janch ya aarop nahi mile. NEGATIVES: koi nahi.
+// 8. urbanacres.in/editorji.com CM-approval roundups: Devprayag constituency me ek swikriti (Dundeshwar Mahadev Mandir beautification, Rs 1.05 crore, Kirti Nagar block) mili, lekin ye CM-ghoshna par jaari swikriti ki sirf jaankari hai — MLA ke vyaktigat pratinivedan ka zikr nahi. REJECT: ghoshna-class.
+// Note: multiple search rounds (EN + Hindi, inauguration/lokarpan/shilanyas/Vidhayak Nidhi angles) ke baad whitelisted sroton me Kandari ka koi personal lokarpan/shilanyas ya itemized Vidhayak Nidhi vitaran report nahi mila. Khali profile imandar vikalp hai.
+
+// Worker: subodh-uniyal (Narendranagar, Tehri Garhwal, BJP, Mar 2022 - Mar 2027)
+// Cabinet mantri note: works mining restricted to Narendranagar seat-level works only;
+// state-level forest/technical-education decisions excluded by design.
+uttarakhandWorks['subodh-uniyal'] = [];
+
+// ---- REJECT-LOG (subodh-uniyal) ----
+// 1. Tapovan Nagar Pumping Peyjal Yojana shilanyas, Tapovan, Narendranagar seat — Rs 4302.52 lakh
+//    (event Fri 2026-01-02, reported 2026-01-03). Funding: AMRUT scheme (kendriya) per
+//    uttrakhandkaaditya; Uniyal did vyaktigat shilanyas. REJECT: no whitelisted source found
+//    (univarta.com/doonhorizon.in/hamaramahanagar.net/uttrakhandkaaditya.com only).
+//    RETRY LEAD: same story on Amar Ujala / Dainik Jagran / TOI / India Today; if found,
+//    entry with mantri-framing + fund disclosure (kendriya AMRUT fund) would be valid.
+// 2. Mangla helipad, gram Mangla patti Dovi, Narendranagar seat — total Rs 75.68 lakh,
+//    shasanadesh 2026-09-21, first instalment Rs 45,40,800 released FY 2026-27. REJECT: only
+//    non-whitelisted portals (doonhorizon.in/uttarakhandaaj.com/jantaserishta.com).
+//    RETRY LEAD: GO on sarkari shasanadesh portal (uk.gov.in) would make a valid 'sarkari' entry
+//    (GO/itemized swikriti class).
+// 3. 'Shaheed Vijay Singh Gursain Marg' naming + Rs 10 lakh Vidhyak Nidhi swikriti (gadhsamvedna.com).
+//    REJECT: non-whitelisted + ghoshna-only (no work-order/vitaran evidence).
+// 4. Rs 11 lakh announcement for Shyam Krishna Panwar Saraswati Shishu Mandir smart classes,
+//    Muni Ki Reti (garhwalpost.in, Feb 2026). REJECT: non-whitelisted + ghoshna-only.
+// 5. Rs 10 lakh announcement for Guru Ram Rai Public School classrooms, Narendranagar
+//    (cobranewsuk.com). REJECT: non-whitelisted + ghoshna-only.
+// 6. Rs 1 crore Vidhyak Nidhi swikriti for Palakot patti gram sabhas (ukstories.in, May 2023).
+//    REJECT: non-whitelisted + ghoshna-only.
+// 7. Central School approval for Narendranagar, DPR Rs 20 lakh via CPWD (garhwalpost.in, May 2022).
+//    REJECT: non-whitelisted + kendriya approval without Uniyal's vyaktigat lokarpan/shilanyas.
+// 8. CM's Tehri event: 160 schemes Rs 415 cr lokarpan/shilanyas (garhwalpost.in, Dec 2023).
+//    REJECT: non-whitelisted + CM's program, Uniyal merely present.
+// 9. Narendranagar development announcements at Kunjapuri fair Oct 2026 (polytechnic upgrade,
+//    Kendriya Vidyalaya, law college, auditorium, Gaja hospital, ~Rs 50 cr sewer line)
+//    (pioneeredge.in). REJECT: non-whitelisted + CM-ghoshna class.
+// 10. Amar Ujala Tehri story 'many historical works for Narendranagar' (lokarpan/shilanyas tour,
+//     ~Nov 2021). REJECT: pre-term (before Mar 2022).
+// 11. Koteshwar/Kunjapuri fair inaugurations as chief guest (Amar Ujala, Jan 2026).
+//     REJECT: religious/cultural samaroh presence, not sarkari kaam.
+// 12. Rs 1 lakh ghoshna for Shaheed Bhag Singh Rawat smarak saundaryikaran at Koteshwar mela
+//     (Amar Ujala, Jan 2026). REJECT: ghoshna class (no swikriti-suchi/vitaran).
+// 13. Medical college protest, New Tehri (ThePrint/PTI, Oct 2026): locals allege Uniyal opposes
+//     medical college at Iniya (New Tehri) and wants it shifted to Narendra Nagar.
+//     NOT A NEGATIVE per strict rules: no FIR, no officer-confirmed inquiry, no crime alleged
+//     against Uniyal personally — political policy dispute only. Noted for parent awareness.
+// 14. Neer Garh waterfall scheme irregularity inquiry (etvbharat.com, Jun 2024): Rs 1 cr work in
+//     Narendra Nagar forest division; Uniyal ORDERED the probe (Conservator of Forest Garhwal).
+//     NOT A NEGATIVE: Uniyal is the inquiring authority, not the accused.
+// 15. Forest-department/technical-education statewide decisions (TOI Uttarakhand@25 interview,
+//     CAMPA Rs 439.50 cr, House of Himalayas, Herbal Mission): REJECT by minister-rule —
+//     rajya-stariya vibhagiya faisle, not Narendranagar seat works.
+// 16. Delhi-Dehradun expressway / Tehri pump-storage inaugurations: REJECT — NHAI/THDC kendriya
+//     projects, no vyaktigat lokarpan by Uniyal.
+// NET: 0 whitelisted, post-event, seat-level works found for Mar 2022-Mar 2027. Khali profile
+// deliberate — kamzor attribution se khali profile behtar.
+
+// Works-mining fragment: Vikram Singh Negi (vikram-singh-negi), Pratapnagar, Tehri Garhwal
+// INC, MLA Mar 2022 - Mar 2027. Term 2022-2027. All sources verified open 2026-10-17.
+uttarakhandWorks['vikram-singh-negi'] = [
+  {
+    title: 'MLA Vikram Singh Negi ne Lambgaon me Koti-Raulyalun-Baurgaon 500-metre missing-link motor road ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/tehri/construction-work-on-the-koti-raulyalun-baurgaon-road-has-begun-tehri-news-c-50-1-sdrn1016-121814-2026-10-13',
+    date: '2026-10-13',
+    note: 'Rs 25.58 lakh ki lagat ka sarkari kaam; MLA dwara vyaktigat shilanyas; lagat disclosed hai, fund source disclosed nahi; isse Baurgaon, Ujadgaon, Ratnau, Koti aur Raulyalun ke gaon ke graameenon ko laabh milega',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA Vikram Singh Negi ne GIC Devatdhar ke naye school bhavan ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/tehri/inauguration-of-the-new-building-of-devatdhar-inter-college-new-tehri-news-c-50-1-sdrn1018-1255-2023-07-21',
+    date: '2023-07-21',
+    note: 'Karib Rs 1.12 crore ki lagat se nirmit bhavan; MLA dwara vyaktigat lokarpan; lagat disclosed hai, fund source disclosed nahi; isse Pratapnagar block me classrooms ki kami door hogi',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Pipaldali-Munda 8 km motor road ko vitteeya swikriti mili; MLA Vikram Singh Negi ne apne lagataar prayason ka shrey liya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/tehri/pipaldali-munda-eight-km-motor-road-gets-approval-tehri-news-c-50-1-sdrn1018-117405-2026-02-18',
+    date: '2026-02-18',
+    note: 'Karib 20 saal se adhar me latki 8 km sadak ki vitteeya swikriti dastaveji sarkari kaam hai; MLA ki bhoomika ka ekmatra aadhaar unka apna dawa hai — attribution capped; Pipaldali pul se Munda-Lalwali kshetra judenge',
+    period: '2022-2027',
+    stage: 'swikriti',
+  },
+];
+
+// ---- REJECT-LOG (vikram-singh-negi) ----
+// 1. pkgnews24 (2022) — 11-point demands raised in Assembly (Rajiv Gandhi school operation, Dobra-Lambgaon double-laning, university building, Sem Nagraja Dham etc.) — REJECT: not whitelisted source + sirf maang, no outcome.
+// 2. pkgnews24 — Bal Vatika program inaugurated at Bhelunta as chief guest — REJECT: not whitelisted + ceremonial community program, no fund/kaam.
+// 3. dainikjayantnews — Lok Sanskriti Bhavan (Rs ~14 lakh, SC sub-plan) lokarpan at Bharpur as chief guest — REJECT: not whitelisted; mukhya-atithi community event.
+// 4. sarhadkasakshi — Shaheed Gopal Bisht smarak unveiling at Kandikhal (29 Sep 2022) — REJECT: not whitelisted; private memorial built by martyr's widow, not sarkari kaam.
+// 5. garhninad/sarhadkasakshi — Vidhayak Nidhi se kuda-uthan gaadi dene ki GHOSHNA (Siloli, Jan 2026) — REJECT: not whitelisted + sirf ghoshna, no swikriti-suchi/vitaran.
+// 6. LatestLY/ANI — CM Dhami approved Rs 3.61 crore for Syalgi-Juladgaon-Dodak-Thapla road in Pratapnagar — REJECT: ghoshna-class, no MLA attribution.
+// 7. amarujala — BDC Pratapnagar meeting proposal to double-lane New Tehri-Jakh-Dobra-Lambgaon road (May 2022) — REJECT: proposal/maang class only.
+// 8. livehindustan — Statehood-day shraddhanjali at Rampur Tiraha (Nov 2025) — REJECT: ceremonial, no kaam.
+// 9. etvbharat — Tehri Lake Festival protocol dispute (Mar 2026) — REJECT: not whitelisted, not a work.
+// 10. india.com/ABP/Oneindia election-result pages — REJECT: election coverage, not works.
+// 11. devbhoomidarshan/rishikeshnews — MLA demanded CBCID probe in Keshav Thalwal police case — REJECT: not whitelisted + maang only.
+// 12. youtube Baramas podcast — REJECT: YouTube not whitelisted; interview claims not verifiable per strict rules.
+// NEGATIVES CHECK: no negative entries. Vikram Singh Negi has 0 criminal cases (Oneindia ADR list). FIR/controversy hits were other people: (a) Himachal Revenue Minister's son Vikram Singh Negi (Indian Express, Jul 2025 effigy FIR) — different person; (b) BJP MLA Mahendra Singh Negi, Dwarahat (2020 rape allegation) — different person; (c) AAP office-of-profit charge vs 20 MLAs (2016) — pre-term, no current-term legal development.
+// RETRY LEADS: (1) Dainik Jagran Tehri edition search for 'Vikram Singh Negi Pratapnagar lokarpan/shilanyas'; (2) Tehri district official portal MLA-fund sanction lists for itemized Vidhayak Nidhi vitaran; (3) Uttarakhand Vidhan Sabha records for starred questions by him with minister ashwassan.
+
+// Worker: Tehri seat / Kishore Upadhyay (BJP, karyakaal Mar 2022–Mar 2027)
+// Searched: Amar Ujala, Live Hindustan, Garhwal Post, ETV Bharat (reject), nationpress (reject), ThePrint, TOI, IE
+// Valid whitelisted entries: 2 (dono Sadak, badge news). Negatives: 0.
+
+uttarakhandWorks['kishore-upadhyay'] = [{
+    title: 'MLA Kishore Upadhyay ne Chamba block me teen sadkon ka shilanyas kiya — Sudana-Dhaulayani tok (1 km), Gunogi Chham-Dharkot (2 km) aur Nagni-Jadhdhargain via Gram Than se Syul Koti Band tak sadak nav-nirman',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/tehri/mla-upadhyay-laid-the-foundation-stone-for-three-roads-tehri-news-c-50-1-sdrn1016-116848-2026-01-16',
+    date: '2026-01-16',
+    note: 'MLA ne vyaktigat roop se pooja-archana ke saath shilanyas kiya aur Lonivi adhikariyon ko samay-gunvatta se kaam poora karne ke nirdesh diye. Report me darj lagat: Sudana-Dhaulayani tok Rs 38.84 lakh, Gunogi Chham-Dharkot Rs 84.28 lakh; teesri sadak ki lagat report me nahi. Fund sarkari yojana ka, shrey vyaktigat shilanyas ka.',
+    stage: 'shilanyas',
+    period: '2022-2027'
+  },];
+
+// ---- REJECT-LOG (kishore-upadhyay) ----
+// 1. Sridev Suman Park punar-nirman lokarpan (Rs 2.03 crore, ADB vitta, jila vikas pradhikaran) — Amar Ujala, 30 Jan lokarpan. REJECT: lokarpan CM Pushkar Dhami ne kiya, MLA saath me maujood the — "dusre neta ke karyakram me maujoodgi" class.
+// 2. CM ko 10-sutriya maang-patra (medical college, 200 km sadken, shuddh peyjal yojana, OBC ghoshna) — Garhwal Post, 10 Feb. REJECT: sirf maang/prastav.
+// 3. CM Dhami se 9 June 2026 ko kshetra-vikas par charcha — nationpress. REJECT: sirf baithak/charcha, source bhi non-whitelisted.
+// 4. Iniyan me medical college ka dawa (press conference, Pioneer Edge; ETV Bharat 3 Aug 2026; Garhninad) — REJECT: abhi cabinet-prastav/maang stage par, koi swikriti ya kaam nahi; aadhaar sirf MLA ka bayan; teeno source non-whitelisted.
+// 5. CM ke Tehri daure me medical college + IIT ghoshna, Rs 530 crore yojnaon ka shilanyas/lokarpan — jansadan. REJECT: CM-ghoshna class, MLA ka vyaktigat shrey nahi; source bhi non-whitelisted.
+// 6. Lamaridhar me 50-bed Ayush aspatal (2022 me CM ne shilanyas kiya tha) par vivad, poorv MLA Dhan Singh Negi ke aarop — garhgauravdarshan, Apr 2025. REJECT: non-whitelisted; shilanyas poorv-karyakaal/poorv MLA ke samay ka tha; sirf rajneetik aarop, koi dastaveji kaam nahi.
+// 7. LiveHindustan press conference 12 Nov 2025 (Idiya medical college, jila aspatal me CCU, baandh visthapiton ko bhoomi ka malikana haq, ropeway prastav) — REJECT: ghoshna class ("karyavahi gatiman hai"), kaam shuru nahi hua.
+// 8. Sadkon ki samiksha baithak, adhikariyon ko nirdesh — Amar Ujala, 9 Oct 2026. REJECT: sirf nirikshan/samiksha.
+// 9. Jakhnidhar tehsil shifting vivad (Koshyar se APHC Petab), grameenon ka virodh — ETV Bharat, Apr 2025. REJECT: non-whitelisted; prashasanik nirnay ka vivad hai, vikas-kaam nahi; FIR/janch nahi, negative-entry yogya nahi.
+// 10. PG College New Tehri me CM Medhavi Chhatravritti yojana ke praman-patra vitaran — rashtriyavichar. REJECT: non-whitelisted; mukhya-atithi samaroh, sarkari kaam nahi.
+// 11. Deendayal Upadhyay Park saundaryikaran shilanyas, MLA mukhya atithi — garhgauravdarshan. REJECT: non-whitelisted; nagar palika karyakram, samuday samaroh class.
+// 12. Vidhayak Nidhi kharch me RTI khulasa (Kishore Upadhyay ~30% sabse kam) — rainbownews. REJECT: non-whitelisted; FIR/adhikari-janch nahi, negative-entry niyam poora nahi hota.
+// 13. 1000 MW pump storage project Tehri, PM se udghatan ki ummeed — Garhwal Post. REJECT: THDC kendriya/PSU pariyojna par shrey; rule me reject.
+// 14. CM dwara 160 yojnaon (Rs 415 crore) ka udghatan/shilanyas Tehri me — Garhwal Post, ~Jan 2024. REJECT: CM ne kiya, MLA keval maujood the.
+// 15. Jogena-Srikot 2.5 km motor marg shilanyas (Rs 72.57 lakh, CM Aantrik Sampark Yojana) — rnsindianews. RETRY LEAD: non-whitelisted source; Amar Ujala/Jagran me whitelisted report dhoondho.
+// 16. FY 2023-24 me Rs 2.5 crore ki Vidhayak Nidhi yojnayein prastavit (MLA ka bayan) — newsonair.gov.in (AIR), 2 May 2025. RETRY LEAD: sarkari media par MLA ka dawa; itemized swikriti-suchi ya vitaran report whitelisted source me mile to "dawa"/news entry ban sakti hai.
+// 17. Sri Dev Suman University Badshahithaul mudda, VC se charcha — Garhwal Post, ~2023. REJECT: charcha/maang, koi dastaveji nateeja nahi.
+// 18. Private schools me gadbadi par DM ko patra — Garhwal Post, 18 Mar 2023. REJECT: patra/maang, kaam nahi.
+
+uttarakhandWorks['pritam-singh-panwar'] = [
+  {
+    title: 'Dhanaulti ke do sadko ke punarnirman ke liye Rs 4.97 crore ki vittiya swikriti jaari, PWD ko tender jaldi karne ka nirdesh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/tehri/gift-to-dhanaulti-rs-497-crore-approved-for-two-roads-tehri-news-c-50-1-sdrn1016-115824-2025-11-20',
+    date: '2025-11-20',
+    note: 'Rajya sarkar ne Dhanaulti Vidhan Sabha ki do sadko ke punarnirman aur sudhar ke liye vittiya swikriti jaari ki — Laluri-Ghyakoti-Kyarda Chali 5 km motor marg Rs 4.16 crore aur Thatyur-Papra marg km 1-3 Rs 81.33 lakh; Additional Secretary Vineet Kumar ki taraf se shasanadesh jaari; credit capped — janpratinidhiyon ne CM Pushkar Singh Dhami, PWD mantri Satpal Maharaj aur MLA Pritam Singh Panwar ka aabhar jataya; MLA ne PWD Thatyur ke adhishasi abhiyanta ko tender jaldi jaari kar samaybadh aur gunvattapurn kaam karne ke nirdesh diye. Ye sarkari swikriti hai, Vidhayak Nidhi se nahi.',
+    period: '2022-2027',
+  },
+];
+
+// ---- REJECT-LOG (pritam-singh-panwar) ----
+// 1. Ramolsari gaon sadak lokarpan (April 2026, Thauldhar block; vidhayak nidhi se Rs 10 lakh road) — REJECT: sirf non-whitelisted sources (pargatimediauk.com, ETV Bharat topic-page, YouTube shorts) — kholne layak whitelisted reporting nahi mili. Retry lead: kisi whitelisted outlet me same khabar aaye to valid entry banegi (MLA ne swayam lokarpan kiya).
+// 2. Jaunpur block BDC sabhagar/atithi-grih/tile works lokarpan (29 Aug 2024, MLA + DM ne milkar lokarpan) — REJECT: source non-whitelisted (sarhadkasakshi.com, garhninad.com, thehillsofmussoorie.com). Kaam jila yojana mad se tha, fund disclosed, lekin whitelisted source nahi.
+// 3. CM Dhami ka Dhanaulti karyakram (Nov 2022) — ~Rs 125 crore ki yojnaon ka lokarpan/shilanyas — REJECT: dusre neta (CM) ke karyakram me MLA sirf maujood/upasthit the; plus source newscubic.co.in non-whitelisted.
+// 4. Amar Ujala 'Sahkari samiti ke sanchalak mandal ko MLA ne shapat dilai' (Jan 2026) — DD Upadhyay Krishi Kalyan Yojana ke tahat 45 krishakon ko ~Rs 50 lakh byaj-mukt rin cheque vitran karyakram me MLA mukhya atithi — REJECT: samudayik samaroh me mukhya-atithi upasthiti; kaam khud sarkari yojana ka rutine vitran, MLA ka yogdaan disclosed nahi.
+// 5. Amar Ujala 'Samiti ki sanstuti par milegi Vidhayak Nidhi' (Thauldhar block baithak) — REJECT: publish ~2017 (current term se pehle), plus sirf ghoshna/allocator rule bina vitaran-suchi ke.
+// 6. Garhwal Post 'Govt working on mission...' (district review) — REJECT: MLA sirf upasthit dignitary, koi attributable kaam nahi.
+// 7. Telegraph/Rediff baarish-aapda Bilaundi Pul market story (May 2026) — MLA + mantri sadak me fanse — REJECT: durghatna report, kaam nahi.
+// 8. Lok Bhavan kuch FIR stories me 'Pritam Singh' naam — REJECT: ye Chakrata ke Congress neta Pritam Singh hain (alag vyakti), Dhanaulti MLA Pritam Singh Panwar nahi.
+// 9. 'Vijay Singh Panwar' (2022 me Pratapnagar se BJP ummeedwar) naam ke jaal se bachne ke liye unke naam wali koi khabar is profile me nahi dali.
+// 10. Negatives: koi qualifying negative nahi mila — MLA Pritam Singh Panwar ke khilaf established media me koi FIR/janch report nahi mili.
+// Retry leads: (a) Ramolsari sadak lokarpan ki whitelisted reporting dhoondho; (b) 'Pritam Panwar' Jagran/Amar Ujala Tehri section archives me district-pipeline se koi itemized Vidhayak Nidhi vitaran-suchi aaye to check karo.
