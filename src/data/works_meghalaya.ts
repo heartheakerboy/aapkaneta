@@ -1680,3 +1680,137 @@ meghalayaWorks['methodius-dkhar'] = [
 // 14. Nongshyiap 65m motorable bridge (Theshillong Times, Jan 2021) — BDO dwara udghatit, MGNREGA; pre-term. Reject.
 // Kul: 19 search-prayas, 2 whitelisted pages khud khole; BATCH KUL: 1 entry.
 // RETRY LEADS (sabhi): MLALADS portal nahi hai; SRWP/MLA-scheme ki neta-war sanction suchi meghalaya.gov.in/C&RD par online nahi — khulne par 3 seats ki sarkari-badge sweep.
+
+// ---- South West Khasi Hills district batch (researched 2026-10-16) ----
+
+
+meghalayaWorks['pius-marwein'] = [
+{
+    title: 'Pyndengsohsham Government LP School ki nayi building ka lokarpan, Ranikor Block (School Infrastructure Upgradation Project, Rs 44,79,448)',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2026/03/06/local-mla-launches-lp-school-in-ranikor/',
+    date: '2026-03-05',
+    stage: 'lokarpan',
+    note: 'Ranikor MLA Pius Marwein ne 5 March 2026 ko Ranikor Block ke Pyndengsohsham Government LP School ki nayi building ka lokarpan kiya. Building state government ke School Infrastructure Upgradation Project ke tahat Rs 44,79,448 ki lagat se bani; MLA ne bataya ki barish me chhat tapakti thi aur unhone is mudde par lagatar follow-up kiya tha. Credit: lokarpan MLA ka, fund puri tarah state government scheme ka — MLA ki apni SRWP nidhi ka ullekh report me nahi hai.',
+    period: '2023-2028',
+},
+{
+    title: 'Umpung gaon me football playground ke vikas ke liye Rs 33.73 lakh ka work order (CMSDF 2023-24 + 2024-25)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Shillong Times',
+    sourceUrl: 'https://theshillongtimes.com/2025/01/12/ranikor-mla-allocates-rs-33-73-lakh-for-football-playground-development/',
+    date: '2025-01-10',
+    stage: 'swikriti',
+    note: 'Ranikor MLA Pius Marwein ne 10 Jan 2025 ko Umpung gaon (Ranikor Civil Sub-Division, South West Khasi Hills) ke football playground ke vikas ke liye Rs 33.73 lakh ka work order Umpung Athletic Sports and Cultural Club ke adhyaksh ko saunpa — gallery aur fencing ke nirman ke liye. Credit: work order MLA ne saunpa, lekin fund Chief Minister ke Special Development Fund (CMSDF) ka hai — Rs 10 lakh CMSDF 2023-24 aur Rs 23.73 lakh CMSDF 2024-25; MLA ki apni SRWP nidhi se nahi. Isliye MLA ka role credit-capped: fund ki swikriti/labh ki maujoodgi unke karyakal me, fund-srot alag.',
+    period: '2023-2028',
+},
+{
+    title: 'Weiloi–Mawkyrwat–Rangthong sadak ka shilanyas (Rs 140 crore, state-funded) — MLA ki pahal par CM ka faisla (credit capped)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Highland Post',
+    sourceUrl: 'https://highlandpost.com/cm-inaugurates-pine-home-eco-project-in-swkh-lays-foundation-for-%E2%82%B9140-cr-road/',
+    date: '2026-08-17',
+    stage: 'shilanyas',
+    note: 'CM Conrad K. Sangma ne 17 Aug 2026 ko Weiloi–Mawkyrwat–Rangthong sadak ke upgradation ka shilanyas kiya — Rs 140 crore, poori tarah rajya-kosh (state-funded). Ye sadak Ranikor kshetra ko jodne wali hai. Credit capped: is pariyojana ki pahal me Ranikor MLA Pius Marwein ne saathi Mawkyrwat MLA ke saath 6 Aug 2025 ko CM ko petition dekar Weiloi–Mawkyrwat–Khatphra (Ranikor) sadak ki swikriti tez karne ki maang uthayi thi (July 2024 me Dy CM (PWD Roads) ko patra bhi bheja gaya tha; The Shillong Times, 7 Aug 2025). Shilanyas aur fund ka faisla CM ka tha — MLA ka yogdan sirf maang/pahal tak simit hai; karyakram me unki maujoodgi akeli se alag, pahal documented hai.',
+    period: '2023-2028',
+},
+];
+// REJECT-LOG (pius-marwein / Ranikor ST, BJP — reject ki wajah ke saath)
+// R1. "Base laid for Water Supply Scheme" (The Shillong Times, 2022-11-11) — Nongjri-Nonghyllam Combined Water Supply Scheme, Rs 8.94 crore, JJM, MLA dwara shilanyas. REJECT: pre-term (Nov 2022, period 2023-2028 se pehle; MLA tab 2018-2023 karyakal me the).
+// R2. "Ranikor MLA lays base for sub-centre in SWKH village" (The Shillong Times, 2023-01-06) — Ngunraw gaon me Rs 55 lakh ka sub-centre shilanyas. REJECT: pre-term (Jan 2023, Mar 2023 se pehle).
+// R3. "Base laid for block office complex in Ranikor" (Highland Post, 2023-01-04) — Ranikor C&RD block me Rs 2.77 crore integrated block office, MLA dwara shilanyas. REJECT: pre-term (Jan 2023).
+// R4. "Ranikor MLA launches five devp projects" (The Shillong Times, 2021-01-29) — BSF Gate Bypass road + 4 any projects ka lokarpan. REJECT: pre-term (2021).
+// R5. "MLA inaugurates devp projects at Photkroh" (The Shillong Times, 2019-09-03) — Photkroh market ke kaam ka lokarpan. REJECT: pre-term (2019).
+// R6. "MLA lays base for church building" (The Shillong Times, 2020-01-28) — St. Cecilia Catholic Church ki building ka shilanyas. REJECT: pre-term + dharmik sthal (entry niyam ke bahar).
+// R7. "30-yr wait ends, base laid for 2.6-km road in Ranikor" (The Shillong Times, 2020-10-31) — Thiepbamon-Mawpud sadak, Rs 4.95 crore. REJECT: pre-term (2020).
+// R8. "News Capsule: Khonjoy A Government LP School" (The Shillong Times, 2022-10-15) — Rs 37 lakh school lokarpan. REJECT: pre-term (Oct 2022).
+// R9. Ranikor FRU (First Referral Unit) ka lokarpan (meghalaya.gov.in press release + syllad, Jan 2025) — CHC upgradation ka lokarpan CM ne kiya; MLA "P Marwein" karyakram me keval maujood the. REJECT: dusre neta ke karyakram me maujoodgi akeli.
+// R10. "CM Connect: Villagers in Ranikor raise issues" (syllad, 2025-01-25; gair-whitelist srot bhi) — CM ka karyakram; MLA present the. REJECT: dusre neta ka karyakram + maujoodgi akeli.
+// R11. "Meghalaya Nuggets: Ranikor Week — marathon, swimming" (The Shillong Times, 2024-12-19) — SBSA ke khel-karyakram me MLA ki bhagidari. REJECT: ceremonial khel-karyakram, koi sarkari suvidha ka lokarpan/shilanyas nahi.
+// R12. "Govt announces dignitaries to hoist tricolour on I-Day" (The Shillong Times, 2023-08-12) — MLA Ranikor me jhanda fahrana. REJECT: ceremonial.
+// R13. BJP me shamil hone ki khabar (The Shillong Times/EastMojo/NDTV, 23-24 Sep 2026) — rajnaitik dal-badal. REJECT: kaam nahi; vaise bhi foundation me disclosure ke roop me pehle se darj.
+// R14. "Pius schools KHADC chairman..." (hubnetwork.in, 16 Oct 2026) aur Weiloi sadak petition ki hubnetwork wali copy — REJECT: hubnetwork whitelist me nahi (srot whitelist: The Shillong Times, Highland Post, EastMojo, Northeast Now, The Hindu, Indian Express, Times of India, Hindustan Times, NDTV, India Today).
+// R15. "Education minister inaugurates new school building in SWKH" (thenortheasttoday, Feb 2023) — lokarpan shiksha mantri ka tha, MLA kewal attendee; aur srot gair-whitelist. REJECT: dusre neta ka karyakram.
+// R16. "Pius wary of promises after Danggo's rejection" (The Shillong Times, 2018-09-11) — interview; karyakal se pehle. REJECT: pre-term + maang/prastav ke satah par koi documented kaam nahi.
+// R17. Weili–Mawkyrwat–Khatphra road petition (The Shillong Times, 2025-08-07) akeli — REJECT: maang/prastav akela entry nahi banta; iski jagah entry 3 me documented nateeja (CM dwara shilanyas, credit-capped) li gayi.
+// Negative check (16 Oct 2026): Pius Marwein par kisi whitelisted srot me FIR/pusht jaanch/aarop ki koi report nahi mili. MyNeta halafname (2023) me criminal cases = 0, Oneindia ki MLAs-with-criminal-cases list me bhi 0. Sep 2026 dal-badal ke khilaf UDP ki ayogyata yachika pending hai — niyam ke anusaar ye kabhi negative nahi banti (anti-defection yachika, faisla abhi aana baki). Foundation (src/data/meghalaya.ts) me dal-badal + pending yachika ka disclosure pehle se maujood hai. Koi negative entry nahi.
+// RETRY LEADS (baad me check karna):
+// T1. Highland Post "base laid for block office complex in Ranikor" khul gayi aur date mili (2023-01-04) — pre-term confirm, retry band.
+// T2. hubnetwork.in ke Weiloi road push ki khabar (6 Aug 2025) The Shillong Times wali copy se cover ho gayi — whitelisted srot par mili, retry ki zaroorat nahi.
+// T3. Ngunraw sub-centre (2023-01-06) aur Nongjri-Nonghyllam water scheme (2022-11-11) pre-term hain — abhi ke period me unke poora hone/chaalu hone ki khabar mile to nayi entry ban sakti hai (retry: "Ngunraw sub-centre inaugurated", "Nongjri water supply commissioned").
+
+meghalayaWorks['renikton-lyngdoh-tongkhar'] = [
+{
+    title: 'Domjyrti gaon me naya Dorbar Hall ka lokarpan',
+    category: 'Any', badge: 'news',
+    sourceLabel: 'The Shillong Times', sourceUrl: 'https://theshillongtimes.com/2026/06/02/tongkhar-inaugurates-dorbar-hall-in-swkh/',
+    date: '2026-06-01', stage: 'lokarpan',
+    note: 'MLA Renikton Lyngdoh Tongkhar ne vyaktigat roop se Domjyrti gaon (South West Khasi Hills) me naya Dorbar Hall ka lokarpan kiya. Nirman lagat Rs 15 lakh Chief Minister ke Special Development Fund (CMSDF) 2023-24 se aayi — ye MLA nidhi nahi thi, ye fund-srot spasht roop se disclose kiya gaya hai. Karyakram me BDO aur Domjyrti Myntri bhi upasthit the.',
+    period: '2023-2028',
+},
+{
+    title: 'Nongbah Dommawthung me Nongbah Rangblang Government LP School ki nayi building ka lokarpan',
+    category: 'School', badge: 'news',
+    sourceLabel: 'The Shillong Times', sourceUrl: 'https://theshillongtimes.com/2025/06/11/lack-of-proper-infra-behind-poor-edn-ranking-tongkhar/',
+    date: '2025-06-10', stage: 'lokarpan',
+    note: 'MLA ne mukhya atithi ke roop me Nongbah Rangblang Government Lower Primary School ki nayi building ka lokarpan kiya (Mawkyrwat se lagbhag 20 km door Nongbah Dommawthung gaon). Building ki lagat Rs 44.79 lakh Infrastructure Upgradation Project Phase-II ke tahat state scheme se aayi — MLA ne iska shreya khud nahi liya, fund-srot sarkari yojana ka tha.',
+    period: '2023-2028',
+},
+{
+    title: 'Phlangkynshi Government Lower Primary School ki nayi building ka lokarpan',
+    category: 'School', badge: 'news',
+    sourceLabel: 'The Shillong Times', sourceUrl: 'https://theshillongtimes.com/2023/04/06/govt-schools-now-have-trained-teachers-will-be-neglected-no-more-tongkhar/',
+    date: '2023-04-05', stage: 'lokarpan',
+    note: 'MLA ne Phlangkynshi Government Lower Primary School ki nayi building ke lokarpan karyakram me vyaktigat roop se lokarpan kiya. Nirman lagat Rs 37 lakh School Infrastructure Upgradation Project ke Phase-I (State Scheme) se aayi — fund sarkari yojana ka tha, MLA nidhi ka nahi. Karyakram me BDO aur District School Education Officer upasthit the.',
+    period: '2023-2028',
+},
+{
+    title: 'Mawsaw me Rilang College ka lokarpan — MLA ki pahal ka documented nateeja',
+    category: 'School', badge: 'news',
+    sourceLabel: 'The Shillong Times', sourceUrl: 'https://theshillongtimes.com/2026/05/31/dy-cm-inaugurates-rilang-college-announces-crd-block-for-mawkyrwat/',
+    date: '2026-05-30', stage: 'lokarpan',
+    note: 'Credit capped: lokarpan Deputy CM Sniawbhalang Dhar ne kiya, MLA ne nahi. Ye entry isliye ban rahi hai kyunki college MLA ki vyaktigat pahal ka documented nateeja hai — ve Rilang Education Society (sponsoring body) ke president hain aur Deputy CM ne karyakram me unki vision aur lagatar koshish ki sarahna ki. College sarkari suvidha nahi, society-sponsored sanstha hai; ye disclosure note me darj hai. March 2026 wali pre-event ghoshna khabar ko srot nahi banaya gaya, sirf post-event reporting.',
+    period: '2023-2028',
+},
+{
+    title: 'Weiloi-Mawkyrwat-Rangthong sadak (Rs 140 crore) ka shilanyas — MLA ki maang ka documented nateeja',
+    category: 'Sadak', badge: 'news',
+    sourceLabel: 'India Today', sourceUrl: 'https://www.indiatodayne.in/meghalaya/story/meghalaya-launches-rs-140-crore-road-upgrade-in-south-west-khasi-hills-1439187-2026-08-17',
+    date: '2026-08-17', stage: 'shilanyas',
+    note: 'Credit capped: shilanyas CM Conrad K Sangma ne Mawkyrwat me kiya — 40 km ki sadak ka single-lane se intermediate-lane upgrade, lagat Rs 140 crore poori tarah state resources se (kendra se nahi). MLA ki bhoomika maang tak seemit thi: Aug 2025 me ve Ranikor MLA Pius Marwein ke saath CM se mile the aur sadak ki swikriti ke liye petition di thi (The Shillong Times, Aug 2025). Credit MLA ko shilanyas ka nahi, pahal ka diya gaya hai.',
+    period: '2023-2028',
+},
+];
+// REJECT-LOG (renikton-lyngdoh-tongkhar / Mawkyrwat ST, UDP — har reject numbered, srot + date + reject-kaaran)
+// 1. 100-bed hospital Mawkyrwat ka lokarpan, Dec 22 2022 (The Shillong Times) — pre-term (PHE-mantri kaal ka kaam, rule-ban).
+// 2. Jakrem-Ranikor sadak upgrade ka lokarpan, April 2022 (Highland Post) — pre-term, mantri kaal.
+// 3. 13 pariyojanaon (C&RD block complex, 10 PWD sadak, 2 border-area sadak) ke shilanyas, Jan 13 2023 (Shillong Times Nuggets) — pre-term.
+// 4. 8 sadak pariyojanaon ke shilanyas, Dec 20 2022 (The Shillong Times) — pre-term.
+// 5. Nonglang + Rangmaw water supply schemes ka lokarpan aur 2 nayi schemes ke shilanyas, Jan 11 2023 (The Shillong Times) — pre-term.
+// 6. Mawkyrwat Market me Community Sanitation Complex ka lokarpan, Dec 2020 (The Shillong Times) — pre-term.
+// 7. Upper Shillong Water Supply Scheme ka lokarpan, July 2021 — pre-term + kshetra-bahar (Shillong).
+// 8. Jowai water supply scheme ka lokarpan, May 2022 (Syllad) — pre-term + kshetra-bahar.
+// 9. Mawkyrwat me Girls Hostel ka lokarpan, Nov 13 2023 (Highland Post) — MLA sirf upasthit; lokarpan karne wale ka naam article me spasht nahi; kendriya sahaayata (Rs 2.50 crore) se bana; dusre ke karyakram me maujoodgi.
+// 10. Sngap Syiem College me science block + classroom block-B ka lokarpan, Dec 10 2024 — CM ne kiya; MLA sirf upasthit.
+// 11. Domjyrti me EMRS ka shilanyas, Nov 15 2024 (The Shillong Times) — PM ne virtual kiya; MLA sirf video-conference me upasthit.
+// 12. Cricket training centres (Hilland, Pyndenumsaw, Ngunraw, Marshillong) ka lokarpan, May 2026 (Highland Post) — MCA President ne kiya; MLA saath me the.
+// 13. Mawkyrwat me Water Resources vibhag ke office building ka lokarpan, ~June 2025 (Highland Post) — mantri Comingone Ymbon ne kiya; MLA ke liye sirf sarahna, koi bhoomika nahi.
+// 14. Sakwang Combined Water Supply Scheme ka nirikshan, Dec 2025 (The Shillong Times) — nirikshan akele; 2026 me footbridge ka wada "karenge" khabar.
+// 15. GMCWSS water treatment plant (Mawten) ka nirikshan, Oct 2025 (The Shillong Times) — nirikshan akele.
+// 16. Jakrem gaon ki internal sadakon ka nirikshan, Aug 2026 (The Shillong Times) — nirikshan akele.
+// 17. Greater Mawkyrwat Water Supply Scheme ki pragati (65%), Aug 2024 (The Shillong Times) — progress statement/nirikshan; shilanyas Oct 2022 pre-term.
+// 18. GMWSS + Mawsaw Combined WSS ki pragati ka nirikshan, July 2024 (The Shillong Times) — nirikshan akele.
+// 19. Photjalei gaon ko sadak ka wada, Feb 2026 (The Shillong Times) — "2027 tak karenge" ghoshna; kaam hua nahi.
+// 20. CM ka eco-sustainable Pine Home project ka lokarpan, ~Aug 2026 (expressnewschannel) — CM ne kiya; MLA upasthit; srot whitelist me nahi.
+// 21. Weiloi-Mawkyrwat-Khatphra sadak ke liye petition, Aug 2025 (The Shillong Times/hubnetwork) — maang + CM ka ashwasan akele; final shilanyas (Aug 2026, CM) par alag entry bani (yeh file, entry 5).
+// 22. Domtynrong gaon ka PDS call-attention motion, Aug 2024 (The Shillong Times) — sawal utha, mantri ne data-galti maani, lekin koi swikriti/fund/ad-esh nahi; documented nateeja nahi.
+// 23. African Swine Fever se suar mauton par sarkar se maang, Aug 2026 (The Shillong Times) — maang/prastav akele.
+// 24. Rilang College "jald khulega" ghoshna, March 21 2026 (The Shillong Times) — pre-event announcement; post-event May 2026 reporting se entry bani.
+// 25. BJP-move/NPP speculation khabren (sentinelassam, 4frontmedia, northeastlivetv, 2026) — dal-badal ki rajniti; kshetra-kaam nahi.
+// 26. Assembly Committee on Government Assurances ka poultry farms nirikshan, Aug 2025 (Highland Post) — committee inspection; nirikshan akele + Ri-Bhoi (kshetra-bahar).
+// 27. Athletes samman, varishth nagrik samman, Estimates Committee conference (Highland Post) — ceremonial karyakram; kaam nahi.
+// 28. CM ka Weiloi-Mawkyrwat sadak Rs 120 crore ghoshna, Dec 2024 (The Shillong Times) — ghoshna thi; final Rs 140 crore shilanyas Aug 2026 me hua (entry 5).
