@@ -502,7 +502,31 @@ odishaWorks['niranjan-pujari'] = [];
 // Foundation corrections: KOI NAHI — naam/party/seat/tenure/mantri-itihas sab dono records me sahi (Jagadala DPC-chair niyukti sirf sarkari niyukti, post: MLA sahi; Pujari ka 2019-2024 mantri-itihas record me pehle se darj).
 // ---- Subarnapur district batch END ----
 
-// ---- Balangir district batch ----
+// ---- Balangir district batch (researched 2026-10-16) ----
+// Coordinator QA: 5/5 workers ke fragment khud padhe — keval Jain ki 1 negative qualify hui (Orissa POST FIR + weapon zabt + PSO nilambit + MLA ka jawab — stage-field nahi, Janak Raj precedent). 4 profile imaandari se khaali. Foundation corrections: Mukesh Mahaling (Cabinet Minister — Health & FW, Parliamentary Affairs, Electronics & IT) aur Kanak Vardhan Singh Deo (Dy CM — Agriculture & Farmers Empowerment, Energy) ke pad-disclosure electionNote me jode.
+
+odishaWorks['nabin-kumar-jain'] = [
+  {
+    title: 'Ram Navami shobha-yatra ke dauran Titlagarh me hawai firing karne ke aarop me Titlagarh thane me FIR darj; BNS dhara 125 aur Arms Act dhara 25, weapon zabt, PSO Premachand Nag nilambit — MLA ne kaha pistol khilona thi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/odisha-police-book-bjp-mla-nabin-jain-for-firing-in-air-at-ram-navami-procession/',
+    date: '2026-03-29',
+    note: 'Orissa POST ki 2026-03-29 ki report ke mutabik ye ghatna shukravar shaam (2026-03-27) Titlagarh kasbe me Ram Navami shobha-yatra ke dauran hui; viral video me MLA ko pistol se hawai firing karte dekha gaya tha. Balangir ke Additional SP Himanshu Bhusan Behera ne pushti ki ki FIR darj ho gayi hai aur weapon zabt kar liya gaya hai. MLA ke personal security officer Premachand Nag ko laparwahi ke aarop me nilambit kar diya gaya, jo video me MLA ko pistol pakdane me madad karte dekhe gaye. MLA ne aaropon se inkaar karte hue dawa kiya ki pistol asli nahi, khilona thi, aur unhone Ram Bhakton ka utsaah badhane ke liye hawai firing ki thi, kisi ko darane ke liye nahi. Vipakshi BJD ne MLA ki giraftari ki maang ki thi. Jaach ki vartaman sthiti ka agla established update uplabdh nahi hai.',
+    period: '2024-2029',
+  },
+];
+
+// ---- Balangir district batch REJECT-LOG (2026-10-16) ----
+// Mahaling (mukesh-mahaling, Loisingha SC, BJP — Cabinet Minister): 0 entries — Jun 2024+ ki saari coverage mantri-capacity (9 medical colleges ghoshna, AYUSH hospital Bhubaneswar shilanyas, Vedanta telemedicine) ya CM-karyakram maujoodgi; fake-caste-certificate aarop (Congress pravakta ka dawa, koi FIR/pusht jaanch nahi, jawab manga hi nahi) = bina-pusht-jaanch negative nahi. Retry lead: Loisingha CHC dialysis unit lokarpan (25 Sep 2026) — sirf utkaldaily.com (non-whitelist) par.
+// KV Singh Deo (kanak-vardhan-singh-deo, Patnagarh, BJP — Dy CM): 0 entries — CM ke Rs 890cr Balangir package/Patnagarh events me sirf maujoodgi; Jhulenbar grid (Rs 5cr) aur Khaprakhol link line (Rs 5.29cr) seat-me-the lekin sirf non-whitelisted portals par; CCTV lokarpan sirf YouTube par; 108-ft flag pole Naveen Jindal project (ve sirf jhanda lehraye). Election petition = negative nahi.
+// Kalikesh Singh Deo (kalikesh-narayan-singh-deo, Bolangir, BJD — vipaksh): 0 entries — Chattamakhana dam probe sirf maang (Orissa POST); Assembly sawal bina outcome; NRAI sports-federation kaam; MP-kaaleen sab pre-term. Namesake traps avoided: Anang Uday (pitaji), Arkesh (bhai), Kanak Vardhan (cousin, Dy CM), Rajendra Narayan (dada).
+// Jain (nabin-kumar-jain, Titlagarh, BJP): 1 negative (upar). Rejects: Dharmendra Pradhan ke KV shilanyas me maujoodgi; Holi-worker-maut ka Tukuni Sahu aarop (vipakshi aarop matra, koi FIR nahi); PPMS tender/PPMS list me uska naam nahi; namesake "Nabin Jain" vyapari alag vyakti.
+// Bag (laxman-bag, Kantabanji, BJP): 0 entries — Sambad English tribal-remarks FIR story me MLA ka jawab/disclosure nahi = negative bar fail (retry lead: follow-up reporting ka wait); election petition = negative nahi; railway-station death threat me wo khud shikayat-karta (negative nahi); salary-daan = charity.
+// State-wide retry leads: mlalads.odisha.gov.in (connection reset — network se nahi khulta); Sambad English site-search (403); OTV tag pages.
+// ---- Balangir district batch END ----
+
 
 // ---- Nuapada district batch ----
 

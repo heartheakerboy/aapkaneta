@@ -1926,7 +1926,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=359',
       backgroundNote: 'Mukesh Mahaling Loisingha se BJP ke MLA hain. Umar 50 saal, shiksha: M.Sc., M.Phil., Ph.D., LLB (university/saal page par uplabdh nahi). Halafname me 1 aapradhik mamla hai - COVID-lockdown ke dauran virodh-pradarshan se juda, jaanch lambit, dosh-siddhi nahi hui.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Loisingha se jeete: 83,313 votes. Runner-up Nihar Ranjan Behera (BJD) 65,123 votes. Margin 18,190.',
+    electionNote: '2024 Vidhan Sabha chunav me Loisingha se jeete: 83,313 votes. Runner-up Nihar Ranjan Behera (BJD) 65,123 votes. Margin 18,190. 12 Jun 2024 se Mohan Charan Majhi sarkar me Cabinet Minister (Health & Family Welfare, Parliamentary Affairs, Electronics & IT) hain — mantri-roop ke vibhagiya/rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'kanak-vardhan-singh-deo',
@@ -1955,7 +1955,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=368',
       backgroundNote: 'Kanak Vardhan Singh Deo Patnagarh se BJP ke MLA hain. Umar 67 saal (is batch me sabse umardaar me se ek), shiksha: 12th Pass (HSC 1975, B.A. Part-1 Delhi University, 1977). Halafname me 2 aapradhik mamle hain (2013 ka virodh-pradarshan wala mamla aur 2021 ka COVID-lockdown wala mamla); kisi me dosh-siddhi nahi hui. Patnagarh-Bolangir raja-parivar se sambandh; Sampatti Rs 67.3 crore.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Patnagarh se jeete: 93,823 votes. Runner-up Saroj Kumar Meher (BJD) 92,466 votes. Margin 1,357.',
+    electionNote: '2024 Vidhan Sabha chunav me Patnagarh se jeete: 93,823 votes. Runner-up Saroj Kumar Meher (BJD) 92,466 votes. Margin 1,357. 12 Jun 2024 se Mohan Charan Majhi sarkar me Up-Mukhyamantri (Deputy CM; Agriculture & Farmers Empowerment, Energy portfolio) hain — mantri-roop ke vibhagiya/rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'kalikesh-narayan-singh-deo',
