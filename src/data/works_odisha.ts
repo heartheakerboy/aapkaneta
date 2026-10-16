@@ -195,7 +195,31 @@ odishaWorks['suresh-pujari'] = [
 // RETRY LEADS: (A) Vedanta "solar-powered water initiative" Kasira Gram Panchayat (2025) — 5 solar borewells + 26 water stand posts, Munda ne lokarpan kiya; srot company press release (sesagoaironore.com) — whitelist post-event coverage mile to Paani entry bane; Kasira GP ki Bonai-seat pushti bhi chahiye. (B) JSW Foundation "doctor's quarters at Koida CHC" (24 May 2025) — Munda ne lokarpan kiya; srot thebusinessbytes.com (non-whitelist) — whitelist coverage pending; Aspataal entry ka sambhav ummeedwar. (C) MLALADS portal — network se nahi khulta; child-R note ke anusar retry.
 
 
-// ---- Sambalpur district batch ----
+// ---- Sambalpur district batch (researched 2026-10-16) ----
+
+odishaWorks['jayanarayan-mishra'] = [
+  {
+    title: 'Sambalpur Town IIC ko phone par gaali dene aur police station jalane ki dhamki par MLA Jayanarayan Mishra ke khilaf FIR',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Orissa POST',
+    sourceUrl: 'https://www.orissapost.com/fir-lodged-as-sambalpur-mla-allegedly-abuses-iic/',
+    date: '2025-04-06',
+    note: 'Orissa POST (6 Apr 2025) ki report ke mutabik Sambalpur Town police station ke IIC Subrat Kumar Meher ne shikayat darj karayi ki MLA Jayanarayan Mishra ne 3 April 2025 ki subah phone par unhe gaali di aur Jhanda Yatra (2 April, Dalaipada se Peerbaba Chowk) me bina anumati nikale juloos se zabt ki gayi talwaron ke mamle par police station jalane ki dhamki di; IIC ne baatcheet apne mobile par record karke saboot banaya aur BNS ki dharaon 296, 351(3), 351(4) aur 221 ke tehat case darj hua. BJD pravakta Lenin Mohanty ne sarkar par Mishra ke khilaf karyavahi na karne ka aarop lagaya. Mishra ne OTV ko kaha ki unhe FIR ki koi aadhikarik soochna nahi mili aur wo details se anjaan hain. Shrey-spashtikaran: ye Mishra ke kiye gaye kaam ka dawa NAHI, balki unke khilaf darj FIR ki negative reporting hai; report ke samay tak giraphtari ya chargesheet ki khabar nahi mili thi.',
+    period: '2024-2029',
+  },
+  {
+    title: '2023 me mahila police officer par hamle ke mamle me Supreme Court ne MLA Jayanarayan Mishra ki anticipatory bail khariz ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/odisha/2024/Nov/15/sc-refuses-pre-arrest-bail-to-odisha-bjp-mla-jayanarayan-mishra-in-cop-assault-case',
+    date: '2024-11-15',
+    note: 'The New Indian Express (15 Nov 2024) ki report ke mutabik Supreme Court ne 14 November 2024 ko Sambalpur MLA Jayanarayan Mishra ki anticipatory bail arzi khariz kar di — ye 15 February 2023 ko Sambalpur collectorate ke bahar BJP ke virodh-pradarshan ke dauran mahila police officer Anita Pradhan (Dhanupali thana ki IIC) ko thappad maarne aur unpar rishwat lene ka aarop lagane ke mamle se juda hai; Orissa High Court se bhi unhe rahat nahi mili thi aur Feb 2024 me mili interim protection bhi khatm ho gayi, jisse giraphtari ka rasta khul gaya. Mishra ne aarop se inkaar karte hue kaha tha ki unhone thappad nahi maara, balki officer ne unhe dhakka diya tha, aur pichhli BJD sarkar ne jhootha case banaya tha. Shrey-spashtikaran: ghatna khud pre-term (Feb 2023) ki hai, lekin adalati karyavahi (SC dwara bail rejection) Jun 2024 ke baad hui, isliye negative entry banayi gayi; ye halafname ke 11 mamlon ka apne-aap me naya mamla nahi, unhi me se ek par court proceeding hai.',
+    period: '2024-2029',
+  },
+];
+
 
 // ---- Deogarh district batch ----
 
@@ -257,3 +281,14 @@ odishaWorks['suresh-pujari'] = [
 // irasis-acharya (Bhatli, BJP): 1 PASS (Sohela NAC — TNIE-reported demand-push, credit-capped pahal entry; stage swikriti) + 8 worker-rejects: Governor STEM lab (maujoodgi), TPWODL substation (utility), 300 kisan token-mulang (sirf maang), Wildlife Board meeting (board-member upasthiti), PPMS SFC road (SFC kaam — MLA-link nahi), sabha-rajniti (kaam nahi), 2018 goli-kand/2023 BJYM takraav (bari + pre-term — negative kabhi nahi), Ghess College hostel (sirf YouTube — retry lead). Negative: nahi.
 // BATCH KUL: 3 entries (1 darj darj hui, coordinator QA drop 1; 3/5 profiles imaandari se khaali). Koi overwrite nahi — 5 slug works me absent the. Foundation corrections: koi nahi.
 // RETRY LEADS (sabhi): MLALADS portal (mlalads.odisha.gov.in) — workers ke VM se DNS fail; parent live-browser se Bargarh ke 5 seats ki itemized sanction suchi nikalwaye — ye sarkari-badge entries ka sabse majboot srot hai.
+
+// ---- Sambalpur district REJECT-LOG (researched 2026-10-16) ----
+// jayanarayan-mishra (Sambalpur, BJP):
+// R1. OTV mini hockey stadium "demand" — sirf maang/prastav. R2. CM ke Rs 948/960cr projects (Jan/Sep 2026), Rs 451.24cr water supply shilanyas, JSW-JFE steel plant lokarpan, Doppler radar, dairy meeting — har jagah Mishra sirf maujood (dusre neta ka karyakram). R3. Koshal/state-song vivad, "sidelined" shikayat, CBI probe demands — rajneetik bayan/maang. R4. Hanuman Jayanti giraphtariyan — pre-term era. R5. News18 election affidavit (11 cases) — khud negative nahi. POSITIVE: 0 entries (imaandari se khaali).
+// rabi-narayan-naik (Kuchinda ST, BJP — mantri confirmed):
+// R1. NIE 10 Oct 2026 — Pradhan ne Kuchinda auditorium/cultural centre/sanitation ka lokarpan kiya; Naik sirf maujood. R2. Argus/Prameya Apr 2026 — Pradhan ne 78 projects Rs 375cr + 100-bed SDH shilanyas; Naik sirf present + non-whitelist srot. R3. OTV/Orissa POST Jan 2026 — CM ne Sambalpur city Rs 451.24cr water shilanyas; Naik present, kshetra-bahar. R4. Jan 2026 CM ke Rs 948cr Sambalpur projects lokarpan/shilanyas — present + kshetra-bahar. R5. Orissa POST May 2026 — Naik ne Bhubaneswar SIRD&PR Rs 32cr auditorium shilanyas — mantri-roop state-level, kshetra-bahar. R6. TOI May 2026 — Nabarangpur 100-gaon water lokarpan — mantri-roop, kshetra-bahar. R7. PMGSY-IV/Antyodaya Gruha/tubewell vibhagiya faisle — rajya-star, seat-kaam nahi. R8. Pre-term CMSA Jan 2024 — pre-term + Naik ka koi prastav saamne nahi. R9. Boeing Sukanya STEM labs — Pradhan/CSR. PROFILE: 0 entries (khaali).
+// sudarshan-haripal (Rengali SC, BJD vipaksh):
+// R1. TNIE 5 Feb 2026 industrial pollution press conference — sirf aarop+maang (vipaksh sawal rule). R2. Prameya — CM Hindalco FRP inauguration Lapanga me sirf maujood. R3. Pragativadi Sep 2026 NLC RPDAC meeting me sirf maujood. R4. PPMS Bikashita Gaon order (Pudapada–Samaleswari Temple road) — sanction-order hai lekin Haripal ka link nahi (CMSA chetaavni). R5. OTV/Kanak interviews — sirf bayan. R6. Udyam free-coaching (TNIE 30 Aug 2026, 100+ centres, apni salary se) — COORDINATOR QA DROP: personal charity/salary-donation/free-camp rule ke tehat vikas-kaam nahi. PROFILE: 0 entries (khaali). RETRY LEAD: Sep 2024 NLC blockade FIR (Haripal + 13) — sirf OdishaBytes/ommcomnews (non-whitelist); whitelist reporting mile to negative possible.
+// prasanna-acharya (Rairakhol, BJD vipaksh, veteran):
+// R1. Tathya.in "Pradhan Boosts Rairakhol Health" — Pradhan ka event, sirf maujood + non-whitelist. R2. Bhima Mandali shilanyas — Pradhan ka event, maujoodgi + non-whitelist. R3. Rairakhol SDH dialysis — Pradhan ne inaugurate kiya. R4. Sambad English Assembly sawal — sawal rule. R5. Orissa POST paddy procurement Zero Hour — maang. R6. OTV political tipanni — kaam nahi. R7. Orissa POST Pradhan→Gadkari bypass letter — Pradhan ka kaam. R8. Campaign backlash — pre-term. R9. Ram Mandir probe maang — kshetra-bahar. R10. Goa TOI "Prasanna Acharya" — galat vyakti. PROFILE: 0 entries (khaali).
+// STATE-WIDE RETRY LEAD: MLALADS portal (mlalads.odisha.gov.in) network se unreachable — suchi milte hi sarkari-badge sweep possible hoga.

@@ -447,7 +447,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'http://myneta.info/odisha2024/candidate.php?candidate_id=780',
       backgroundNote: 'Halafname par naam \'Rabinarayan Naik\' (MyNeta par \'Rabi Narayan Naik\' dikhta hai; sambalpur.gov.in ke Form 26 ke anusaar \'Rabinarayan Naik\' — halafname wali spelling li gayi hai), seat Kuchinda (ST) aur party BJP assignment se match karte hain, isliye pehchan pakki hai. 17 mamle ghoshit hain — 5 dhamki ke (ek me mahila par hamle ka section 354 bhi), zyadatar virodh-pradarshan/jamaabandi ke aur 3 rail (RPF) ke; 2 mamlo me charge framed (2012, 2014), koi conviction nahi. Umr 54 saal, 12th Pass 1991 me Kuchinda College se.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Kuchinda se jeete: 95,716 votes. Runner-up Rajendra Kumar Chhatria (BJD) 63,496 votes. Margin 32,220.',
+    electionNote: '2024 Vidhan Sabha chunav me Kuchinda se jeete: 95,716 votes. Runner-up Rajendra Kumar Chhatria (BJD) 63,496 votes. Margin 32,220. Jun 2024 se Mohan Charan Majhi sarkar me Cabinet Minister (Rural Development, Panchayati Raj aur Drinking Water) hain — portfolio allotment 15 Jun 2024 (The Indian Express). Mantri-roop ke vibhagiya/rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'sudarshan-haripal',
