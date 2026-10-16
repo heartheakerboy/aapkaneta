@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { meghalayaNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return meghalayaNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = meghalayaNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/meghalaya" stateName="Meghalaya" homeLabel="Meghalaya home" />

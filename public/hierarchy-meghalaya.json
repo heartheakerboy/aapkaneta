@@ -1,0 +1,378 @@
+{
+  "state": "Meghalaya",
+  "stateSlug": "Meghalaya",
+  "districts": [
+    {
+      "name": "West Garo Hills",
+      "slug": "west-garo-hills",
+      "acs": [
+        {
+          "n": 44,
+          "name": "Raksamgre (ST)",
+          "slug": "raksamgre"
+        },
+        {
+          "n": 45,
+          "name": "Tikrikilla (ST)",
+          "slug": "tikrikilla"
+        },
+        {
+          "n": 46,
+          "name": "Phulbari",
+          "slug": "phulbari"
+        },
+        {
+          "n": 47,
+          "name": "Rajabala",
+          "slug": "rajabala"
+        },
+        {
+          "n": 48,
+          "name": "Selsella (ST)",
+          "slug": "selsella"
+        },
+        {
+          "n": 49,
+          "name": "Dadenggre (ST)",
+          "slug": "dadenggre"
+        },
+        {
+          "n": 50,
+          "name": "North Tura (ST)",
+          "slug": "north-tura"
+        },
+        {
+          "n": 51,
+          "name": "South Tura (ST)",
+          "slug": "south-tura"
+        },
+        {
+          "n": 56,
+          "name": "Gambegre (ST)",
+          "slug": "gambegre"
+        },
+        {
+          "n": 57,
+          "name": "Dalu (ST)",
+          "slug": "dalu"
+        }
+      ]
+    },
+    {
+      "name": "South West Garo Hills",
+      "slug": "south-west-garo-hills",
+      "acs": [
+        {
+          "n": 52,
+          "name": "Rangsakona (ST)",
+          "slug": "rangsakona"
+        },
+        {
+          "n": 53,
+          "name": "Ampati (ST)",
+          "slug": "ampati"
+        },
+        {
+          "n": 54,
+          "name": "Mahendraganj (ST)",
+          "slug": "mahendraganj"
+        },
+        {
+          "n": 55,
+          "name": "Salmanpara (ST)",
+          "slug": "salmanpara"
+        }
+      ]
+    },
+    {
+      "name": "East Garo Hills",
+      "slug": "east-garo-hills",
+      "acs": [
+        {
+          "n": 41,
+          "name": "Songsak (ST)",
+          "slug": "songsak"
+        },
+        {
+          "n": 42,
+          "name": "Rongjeng (ST)",
+          "slug": "rongjeng"
+        },
+        {
+          "n": 43,
+          "name": "Williamnagar (ST)",
+          "slug": "williamnagar"
+        }
+      ]
+    },
+    {
+      "name": "North Garo Hills",
+      "slug": "north-garo-hills",
+      "acs": [
+        {
+          "n": 37,
+          "name": "Kharkutta (ST)",
+          "slug": "kharkutta"
+        },
+        {
+          "n": 38,
+          "name": "Mendipathar (ST)",
+          "slug": "mendipathar"
+        },
+        {
+          "n": 39,
+          "name": "Resubelpara (ST)",
+          "slug": "resubelpara"
+        },
+        {
+          "n": 40,
+          "name": "Bajengdoba (ST)",
+          "slug": "bajengdoba"
+        }
+      ]
+    },
+    {
+      "name": "South Garo Hills",
+      "slug": "south-garo-hills",
+      "acs": [
+        {
+          "n": 58,
+          "name": "Rongara Siju (ST)",
+          "slug": "rongara-siju"
+        },
+        {
+          "n": 59,
+          "name": "Chokpot (ST)",
+          "slug": "chokpot"
+        },
+        {
+          "n": 60,
+          "name": "Baghmara (ST)",
+          "slug": "baghmara"
+        }
+      ]
+    },
+    {
+      "name": "West Khasi Hills",
+      "slug": "west-khasi-hills",
+      "acs": [
+        {
+          "n": 32,
+          "name": "Nongstoin (ST)",
+          "slug": "nongstoin"
+        },
+        {
+          "n": 33,
+          "name": "Rambrai-Jyrngam (ST)",
+          "slug": "rambrai-jyrngam"
+        },
+        {
+          "n": 34,
+          "name": "Mawshynrut (ST)",
+          "slug": "mawshynrut"
+        }
+      ]
+    },
+    {
+      "name": "South West Khasi Hills",
+      "slug": "south-west-khasi-hills",
+      "acs": [
+        {
+          "n": 35,
+          "name": "Ranikor (ST)",
+          "slug": "ranikor"
+        },
+        {
+          "n": 36,
+          "name": "Mawkyrwat (ST)",
+          "slug": "mawkyrwat"
+        }
+      ]
+    },
+    {
+      "name": "Eastern West Khasi Hills",
+      "slug": "eastern-west-khasi-hills",
+      "acs": [
+        {
+          "n": 30,
+          "name": "Mairang (ST)",
+          "slug": "mairang"
+        },
+        {
+          "n": 31,
+          "name": "Mawthadraishan (ST)",
+          "slug": "mawthadraishan"
+        }
+      ]
+    },
+    {
+      "name": "East Khasi Hills",
+      "slug": "east-khasi-hills",
+      "acs": [
+        {
+          "n": 13,
+          "name": "Mawryngkneng (ST)",
+          "slug": "mawryngkneng"
+        },
+        {
+          "n": 14,
+          "name": "Pynthorumkhrah",
+          "slug": "pynthorumkhrah"
+        },
+        {
+          "n": 15,
+          "name": "Mawlai (ST)",
+          "slug": "mawlai"
+        },
+        {
+          "n": 16,
+          "name": "East Shillong (ST)",
+          "slug": "east-shillong"
+        },
+        {
+          "n": 17,
+          "name": "North Shillong (ST)",
+          "slug": "north-shillong"
+        },
+        {
+          "n": 18,
+          "name": "West Shillong",
+          "slug": "west-shillong"
+        },
+        {
+          "n": 19,
+          "name": "South Shillong",
+          "slug": "south-shillong"
+        },
+        {
+          "n": 20,
+          "name": "Mylliem (ST)",
+          "slug": "mylliem"
+        },
+        {
+          "n": 21,
+          "name": "Nongthymmai (ST)",
+          "slug": "nongthymmai"
+        },
+        {
+          "n": 22,
+          "name": "Nongkrem (ST)",
+          "slug": "nongkrem"
+        },
+        {
+          "n": 23,
+          "name": "Sohiong (ST)",
+          "slug": "sohiong"
+        },
+        {
+          "n": 24,
+          "name": "Mawphlang (ST)",
+          "slug": "mawphlang"
+        },
+        {
+          "n": 25,
+          "name": "Mawsynram (ST)",
+          "slug": "mawsynram"
+        },
+        {
+          "n": 26,
+          "name": "Shella (ST)",
+          "slug": "shella"
+        },
+        {
+          "n": 27,
+          "name": "Pynursla (ST)",
+          "slug": "pynursla"
+        },
+        {
+          "n": 28,
+          "name": "Sohra (ST)",
+          "slug": "sohra"
+        },
+        {
+          "n": 29,
+          "name": "Mawkynrew (ST)",
+          "slug": "mawkynrew"
+        }
+      ]
+    },
+    {
+      "name": "Ri Bhoi",
+      "slug": "ri-bhoi",
+      "acs": [
+        {
+          "n": 8,
+          "name": "Mawhati (ST)",
+          "slug": "mawhati"
+        },
+        {
+          "n": 9,
+          "name": "Nongpoh (ST)",
+          "slug": "nongpoh"
+        },
+        {
+          "n": 10,
+          "name": "Jirang (ST)",
+          "slug": "jirang"
+        },
+        {
+          "n": 11,
+          "name": "Umsning (ST)",
+          "slug": "umsning"
+        },
+        {
+          "n": 12,
+          "name": "Umroi (ST)",
+          "slug": "umroi"
+        }
+      ]
+    },
+    {
+      "name": "West Jaintia Hills",
+      "slug": "west-jaintia-hills",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Nartiang (ST)",
+          "slug": "nartiang"
+        },
+        {
+          "n": 2,
+          "name": "Jowai (ST)",
+          "slug": "jowai"
+        },
+        {
+          "n": 3,
+          "name": "Raliang (ST)",
+          "slug": "raliang"
+        },
+        {
+          "n": 4,
+          "name": "Mowkaiaw (ST)",
+          "slug": "mowkaiaw"
+        },
+        {
+          "n": 7,
+          "name": "Amlarem (ST)",
+          "slug": "amlarem"
+        }
+      ]
+    },
+    {
+      "name": "East Jaintia Hills",
+      "slug": "east-jaintia-hills",
+      "acs": [
+        {
+          "n": 5,
+          "name": "Sutnga Saipung (ST)",
+          "slug": "sutnga-saipung"
+        },
+        {
+          "n": 6,
+          "name": "Khliehriat (ST)",
+          "slug": "khliehriat"
+        }
+      ]
+    }
+  ]
+}
