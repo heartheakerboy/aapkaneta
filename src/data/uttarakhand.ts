@@ -1848,7 +1848,7 @@ export const uttarakhandNetas: Neta[] = [
       assets: 'Rs 44,15,46,441',
       liabilities: 'Rs 9,20,57,899',
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=198',
-      backgroundNote: 'MyNeta par TRILOK SINGH CHEEMA (Winner), KASHIPUR, BJP — naam, seat aur party match. Education Graduate, koi criminal case nahi. Kul sampatti Rs 44.15 crore se adhik, deayein Rs 9.20 crore se adhik. Page ka header dobara load karne par bhi render nahi hua, isliye umr aur pesha BACKGROUND_PENDING hai.',
+      backgroundNote: 'MyNeta par TRILOK SINGH CHEEMA (Winner), KASHIPUR, BJP — naam, seat aur party match. Education Graduate, koi criminal case nahi. Kul sampatti Rs 44.15 crore se adhik, deayein Rs 9.20 crore se adhik. Page ka header dobara load karne par bhi render nahi hua, isliye pesha BACKGROUND_PENDING hai; umr ka srot mil gaya — MyNeta 2022 halafnama (candidate_id 198) me age 55 darj hai aur English Wikipedia (born 1967) se mel khaati hai, isliye Oct 2026 me umr lagbhag 59 saal.',
     },
     electionNote: '2022 Vidhan Sabha chunav me Kashipur se BJP ke ticket par jeete: 48,508 votes. Runner-up Narendra Chand Singh (INC) — 32,173 votes. Margin 16,335. 2022 chunav me Kashipur (Gen) se BJP ticket par jeete. Cheema group (paper mills) se jude vyapari parivar se hain. Party change koi nahi.',
   },
@@ -2053,7 +2053,7 @@ export const uttarakhandNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/uttarakhand2022/candidate.php?candidate_id=204',
       backgroundNote: 'MyNeta par BHUWAN CHANDRA KAPRI (Winner), KHATIMA, INC — naam, seat aur party match (s/o Liladhar). Umr 40, LLB graduate (2014), pesha advisor aur pensioner. Koi criminal case nahi. Sampatti Rs 49.27 lakh, deaya Rs 12.82 lakh.',
     },
-    electionNote: '2022 Vidhan Sabha chunav me Khatima se INC ke ticket par jeete: 48,177 votes. Runner-up Pushkar Singh Dhami (BJP) — 41,598 votes. Margin 6,579. 2022 me Khatima (Gen) se Congress ticket par jeete aur tatkalin mukhyamantri Pushkar Singh Dhami (BJP) ko 6,579 vote se haraya. 2017 me bhi ye isi seat se runner-up the. Party change koi nahi.',
+    electionNote: '2022 Vidhan Sabha chunav me Khatima se INC ke ticket par jeete: 48,177 votes. Runner-up Pushkar Singh Dhami (BJP) — 41,598 votes. Margin 6,579. 2022 me Khatima (Gen) se Congress ticket par jeete aur tatkalin mukhyamantri Pushkar Singh Dhami (BJP) ko 6,579 vote se haraya. 2017 me bhi ye isi seat se runner-up the. Party change koi nahi. Apr 2022 se ve Vidhan Sabha me Congress vidhayak dal ke Up-Neta (Deputy Leader of Opposition) hain.',
   },
 ];
 
