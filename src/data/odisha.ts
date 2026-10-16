@@ -1607,7 +1607,7 @@ export const odishaNetas: Neta[] = [
       mynetaUrl: 'https://myneta.info/odisha2024/candidate.php?candidate_id=676',
       backgroundNote: 'Krushna Chandra Patra Dhenkanal se BJP ke MLA hain. Umar 60 saal, shiksha: Post Graduate. Halafname me 3 aapradhik mamle hain. Note: candidate page ka header load nahi hua, aankde myneta chart/winners-index se verify hain.',
     },
-    electionNote: '2024 Vidhan Sabha chunav me Dhenkanal se jeete: 1,06,529 votes. Runner-up Sudhir Kumar Samal (BJD) 86,090 votes. Margin 20,439.',
+    electionNote: '2024 Vidhan Sabha chunav me Dhenkanal se jeete: 1,06,529 votes. Runner-up Sudhir Kumar Samal (BJD) 86,090 votes. Margin 20,439. 12 Jun 2024 se Mohan Charan Majhi sarkar me Cabinet Minister (Food Supplies & Consumer Welfare + Science & Technology) hain — mantri-roop ke rajya-star faisle seat-kaam nahi maane jate.',
   },
   {
     slug: 'simarani-nayak',
