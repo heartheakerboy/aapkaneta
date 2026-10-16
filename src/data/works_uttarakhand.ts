@@ -2227,3 +2227,129 @@ uttarakhandWorks['mohan-singh'] = [
 // 15. nayaadhyay: Dec 2025 shilanyas duplicate — non-whitelisted.
 // COORDINATOR NOTE: entry 1 ka sourceUrl Hindustan ka apna slug hai ('mohin-singh-mahra' — unki spelling); verbatim rakha gaya; entry 1 ki date (2026-09-24) anumaanit hai — note me disclosed, parent verify kare.
 // PARENT QA (2026-10-17): Almora batch kul = 18 entries (Bisht 0+1neg, Jeena 3+1neg, Nainwal 3, Rekha Arya 8, Tewari 0, Mohan Singh 2). State total ab 151.
+// ---- Champawat district batch (researched 2026-10-17) ----
+// COORDINATOR REVIEW: Adhikari ki 4 entries me se 3 rakhi gayin — (1) Barakot Kamajyula-Bhanar road wali Dec 2025 entry
+// (sirf DFC estimate, shasanadesh lambit) Jan 2026 wali asal prashasakiya-vittiya swikriti entry me supersede hui,
+// isliye giri; (2) Kalasan mandir ka udghatan MLA ke pratinidhi ne kiya tha, vyaktigat roop se MLA maujood nahi
+// the — entry Vidhayak Nidhi-vitaran class me rakhi gayi hai, bhoomika saaf disclosed. Dhami ki 5 entries me
+// 2 apni Vidhayak Nidhi ke itemized vitaran aur 3 Champawat seat me vyaktigat lokarpan-shilanyas (fund rajya-yojnaon
+// ka — CM-bhoomika note me disclosed); 5 rajya-stariya faisle sahi reject hue.
+
+uttarakhandWorks['pushkar-singh-dhami'] = [
+  {
+    title: 'CM Dhami ne Champawat seat ke liye Rs 3.18 crore ki Vidhayak Nidhi avamukt ki — 113 gram panchayaton aur 151 nagarpalika bastiyon me 94 CC marg, 39 mandiron ka saundaryikaran sahit karya suchibaddh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/champawat/mla-fund-in-champawat-champawat-news-c-8-1-53238-2023-02-14',
+    date: '2023-02-14',
+    note: 'Fund: Dhami ki Vidhayak Nidhi se avamukt rashi — suchi me 94 CC marg, 39 mandiron ka saundaryikaran, 3 puliya, 6 dharmshala, 2 charhadivari, 2 peyjal tank, 2 sarvajanik shauchalay, 5 suraksha divar, 6 naliyan, 1 wirecrate baadh-suraksha, 4 tin shed, 3 khel maidan vistarikaran, 2 kaksha kaksh, 1 snan ghat, 2 interlocking tiles, 1 dharmik kriyashala. Aadhikarik Vidhayak Nidhi FY 2022-23 me Rs 3.75 crore/saal thi; is suchi me avamukt rashi Rs 3.18 crore darj hai — antar note me saaf hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Champawat me Dhami ki Vidhayak Nidhi se Rs 3 crore ke karya shuru — 127 se adhik sampark marg, 49 mandiron ka saundaryikaran, 13 vidyalayon ka punarnirman sahit suchibaddh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/champawat/story-champawat-mla-fund-allocated-3-crore-for-development-of-temples-and-schools-201745491420566.amp.html',
+    date: '2025-04-24',
+    note: 'Fund: Vidhayak Nidhi (Aadhikarik FY 2023-24 se Rs 5 crore/saal; is report me Rs 3 crore ke karya shuru darj). Suchi: 127+ sampark marg, 49 mandiron ka saundaryikaran, 13 vidyalayon ka punarnirman, Ramleela manch, jan milan kendra, swagat gate, shauchalay, park saundaryikaran, khel samagri, CCTV, sinchai yojana, 2 pul, 12 naliyan, 6 suraksha divaren, 9 jan manch, 10 prangan. Report me ye bhi darj ki 2023-24 ki sampurna Vidhayak Nidhi samay se aavantit hui aur 2022-23 me Rs 3.75 crore se karya hue.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhami ne Champawat me Rs 115.23 crore ki 43 yojnaon ka lokarpan-shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/uttarakhand/champawat-cm-dhami-inaugurated-and-laid-the-foundation-stone-of-schemes-worth-115-crore-rs-40010555.html',
+    date: '2025-10-15',
+    note: 'Dhami ne vyaktigat roop se Champawat (GGIC karyakram) me 43 yojnaon ka lokarpan-shilanyas kiya — fund rajya sarkar ki yojnayen, Vidhayak Nidhi nahi. Usi manch se ki gayi rajya-stariya ghoshnaen (swadeshi appeal, madrasa board samapti) entry me shamil NAHI — wo reject-log me hain.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhami ne Champawat me Rs 36.82 crore ki 17 yojnaon ka lokarpan-shilanyas kiya — Gandhi Chowk par 30-feet tiranga, sadak, ayurvedic chikitsalay aur parking karya sahit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/uttarakhand/champawat-cm-dhami-unveils-36-crore-development-schemes-in-champawat-as-tricolor-flies-high-40190406.html',
+    date: '2026-03-31',
+    note: 'Dhami ne vyaktigat roop se Gandhi Chowk Champawat me lokarpan-shilanyas kiya — fund rajya sarkar ki yojnayen, Vidhayak Nidhi nahi. Lokarpan (Rs 7.12 crore): Tak Khandak-Karauli motor marg sudhar, collectorate parisar me karyalay-sah-parking, Rishweshwar mandir Lohaghat ke paas surface parking, Gandhi Chowk par 30-feet rashtriya dhwaj. Shilanyas (Rs 29.71 crore): Dudhori-Bhanauli marg, Basauti-Rokunwar marg, GIC Manch tak sadak, Ghatotkach mandir se Jhali mandir tak damrikaran, durghatna-sambhavit sthalon par surakshatmak karya, Raigaon/Rojal/Vardha Khan me ayurvedic chikitsalay, Khetikhan multilevel parking, durasth kshetron me wireless network, Lohaghat college me jalapurti sudhar aadi. Usi karyakram me dohraayi gayi ghoshnaon (Women Sports College Rs 257 crore, Science Centre Rs 58.52 crore) ka lokarpan nahi hua — wo ghoshna ke roop me reject-log me hain.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhami ne Champawat me Rs 62.97 crore ki 50 pariyojnaon ka lokarpan-shilanyas kiya — 20 ka lokarpan (Rs 11.08 crore), 30 nayi ka shilanyas (Rs 51.89 crore)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/brand-stories/champawat-gets-rs-62-97-crore-boost-as-state-focuses-on-cyber-safety-and-soldier-welfare-201787890636849.html',
+    date: '2026-08-27',
+    note: 'Dhami ne vyaktigat roop se Dhura Ramlila Maidan (Mukhyamantri Sashakt Behna Utsav-2026) me lokarpan-shilanyas kiya — fund rajya sarkar ki yojnayen, Vidhayak Nidhi nahi. Kshetra: sadak, peyjal, sinchai, baadh-suraksha, dharmik paryatan. Usi manch par ghoshit atirikt karyon (Dhura peyjal yojana, sadken, wire-crate, jhula pul, tubewell aadi) ka lokarpan/shilanyas nahi hua — wo sirf ghoshna ke roop me reject-log me hain.',
+    period: '2022-2027',
+  },
+];
+
+uttarakhandWorks['khushal-singh-adhikari'] = [
+  {
+    title: 'Lohaghat nagar ke liye Saryu lift peyjal yojana ko vittiya swikriti mili — MLA ki maang par CM ne ghoshna ki thi',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/uttarakhand/champawat/video-regional-mla-khushal-singh-adhikari-has-expressed-happiness-over-the-approval-of-saryu-lift-drinking-water-scheme-in-lohaghat-2025-12-15',
+    date: '2025-12-15',
+    note: 'MLA ka dawa hai ki unke banne ke baad unki pehli pramukh maang Lohaghat nagar ke liye Saryu lift peyjal yojana thi, jise unki maang par CM Pushkar Singh Dhami ne Ramleela manch se ghoshna ki thi; Dec 2025 me yojana ko vittiya swikriti mili. Credit capped: maang se ghoshna se swikriti tak ka dawa MLA ka hai; actual swikriti rajya shasan ne di, fund sarkari. Yojana ki laagat report me nahi hai, aur nirman ki pragati is report me nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Lohaghat me Pati aur Barakot ki do sadkon ko prashasakiya aur vittiya swikriti mili — MLA ke prayason ka dawa',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Hindustan',
+    sourceUrl: 'https://www.livehindustan.com/uttarakhand/champawat/story-road-construction-approved-in-lohaghat-public-thanks-mla-khushal-singh-adhikari-201768647013781.html',
+    date: '2026-01-17',
+    stage: 'swikriti',
+    note: 'Pati me Sango-Ghigharukot se Bans Baswadi tak 1.225 km aur Barakot me Kamajyula-Bhanar-Raighadi 7 km sadak ke punarnirman/sudharikaran ke liye shasan se prashasakiya aur vittiya swikriti mili; tender lagna baki tha. MLA ke anusar unke prayas se swikriti mili; swikriti sarkari hai, shrey share hoga (credit capped). Fund: shasan (laagat report me nahi). Dec 2025 ki DFC-estimate report (Rs 6 crore) isi sadak par thi — wo ghoshna-stage thi, isliye is entry me supersede hui.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Tarigaon me MLA ki Vidhayak Nidhi se bane Kalasan mandir ka nirman poora — udghatan unke pratinidhi ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/uttarakhand/pithoragarh/newly-constructed-kalsan-temple-inaugurated-in-tarigaon-pithoragarh-news-c-229-1-alm1014-144571-2026-09-19',
+    date: '2026-09-19',
+    note: 'Barakot block ke Tarigaon gaon me MLA Khushal Singh Adhikari ki Vidhayak Nidhi se Kalasan mandir ka nirman poora hua; udghatan unke pratinidhi Nanda Ballabh Bagouli ne kiya — vyaktigat roop se MLA maujood nahi the, isliye shrey vitaran tak seemit hai. Fund: Vidhayak Nidhi (asal vitaran, nirmit kary poora). Mandir ki laagat report me nahi hai.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (khushal-singh-adhikari, Lohaghat — INC; karyakaal Mar 2022+):
+// 1. Amar Ujala (2026-09-04): CDO office par dharna (panchayat works me 15-25% commission ka aarop) — political protest, koi kshetra-kaam ka dastaveji nateeja nahi.
+// 2. Hindustan: Chaudagoonth chaupal (Pati) me samasyayen suni — sirf daura, koi swikriti/lokarpan nahi.
+// 3. livevns.news (2023-01-02): Gorakhnath mela sthal saundarikaran + CC marg ki ghoshna — whitelist-bahar source + sirf ghoshna.
+// 4. champawatlive.in: Shaheed Shankar Datt Rai smarak lokarpan — whitelist-bahar chhota portal.
+// 5. champawatlive.in: Saryu lift DPR tender — whitelist-bahar; wahi ghatna Amar Ujala se covered.
+// 6. Amar Ujala (2025-02-20): Vidhansabha me hospital/PHC maang — sirf maang, koi dastaveji nateeja nahi.
+// 7. Amar Ujala (2026-10-10): 26th Maa Durga mahotsav udghatan — mukhya-atithi samuday samaroh.
+// 8. kalikumaunkhabar.com: Pasam school uchchikaran, MLA virtual — whitelist-bahar + dusre tantra ka karyakram.
+// 9. devbhoomimaya.com (2024): Barahi Dham mela baithak — whitelist-bahar, routine baithak.
+// 10. TOI + etvbharat: election petition (Fartyal) — chunav-yachika akele negative nahi; current-term me FIR/pusht janch nahi; myneta par 0 criminal cases; thekedaar-vyavsay ke aarop bina FIR negative nahi.
+// 11. garhwalpost.in + doonkhabar.com: Vidhayak Nidhi kharch 34%/53% RTI reports — whitelist-bahar (retry lead: whitelisted source me aankde dhundho).
+// 12. Dec 2025 Barakot road DFC-estimate (Hindustan) — ghoshna-stage; Jan 2026 sanction entry me supersede, reject.
+
+// REJECT-LOG (pushkar-singh-dhami — Champawat seat; rajya-stariya reject items):
+// 1. Oct 2026: 61.42-cr statewide swikriti package (Tanakpur/Banbasa hissa) — rajya-stariya CM faisla.
+// 2. Oct 2026: IANS 70-cr statewide approvals me Purnagiri mela maintenance — rajya-stariya CM faisla + non-whitelisted.
+// 3. 16.88-cr multi-district swikriti me Purnagiri mela — rajya-stariya CM faisla + non-whitelisted.
+// 4. 124.21-cr free textbooks statewide — rajya-stariya CM faisla + non-whitelisted.
+// 5. Oct 2025 Champawat event: swadeshi appeal + madrasa board samapti ghoshna (Jagran) — rajya-stariya policy ghoshna.
+// 6. Oct 2026: Tanakpur gurdwara 1.44-cr kamre/hall swikriti (Amar Ujala) — sarkari swikriti lekin Dhami ka vyaktigat lokarpan/shilanyas ya MLA-nidhi bhoomika dastaveji nahi — borderline, sakht-niyam se reject.
+// 7. Jun 2026: Champawat district hospital MRI lokarpan ~Rs 6 cr, ICICI Foundation CSR (HT) — CSR mukhya-atithi lokarpan — sakht reject.
+// 8. Jun 2026: 20-cr critical care block + diagnostic wing + nursing hostel ghoshnaen (HT) — sirf ghoshna.
+// 9. Aug 2026 event ki atirikt ghoshnaen (peyjal, sadken, wire-crate, jhula pul) — sirf ghoshna.
+// 10. Mar 2026 event: Women Sports College 257 cr, Science Centre 58.52 cr — sirf ghoshna.
+// 11. Mar 2026 ghoshna-suchi (Monpokhari-Nid road, Amodi-Chhatkot bypass, hand pump, fencing) — sirf ghoshna + non-whitelisted.
+// 12. Jun 2026: Rs 123.79-cr/17-project event (Jim Corbett Trail, City Centre) — vyaktigat lokarpan tha lekin koi whitelisted source nahi — retry lead.
+// 13. Jul 2026: Rs 65.95-cr baadh-suraksha shilanyas — non-whitelisted — retry lead.
+// 14. Lohaghat Youth Congress Dhami-virodh — rajnaitik virodh, FIR/janch ke bina negative nahi.
+
+// FOUNDATION EDIT: koi nahi — electionNote count 70 pehle aur baad me verify karna hai.
