@@ -1576,6 +1576,17 @@ odishaWorks['rupesh-kumar-panigrahi'] = [];
 
 // ---- Rayagada district batch ----
 
+odishaWorks['kadraka-appala-swamy'] = [];
+odishaWorks['satyajeet-gomango'] = [];
+odishaWorks['nilamadhab-hikaka'] = [];
+
+// REJECT-LOG (Rayagada district, researched 2026-10-16 — 3/3 profile imaandari se khaali, 0 negatives):
+// - Kadraka Appala Swamy (Rayagada ST, INC vipaksh): 0 PASS. 12 khoj-prayas. Rejects: sorcery/superstition Assembly sawal par CM ka sirf aankde wala jawab (koi swikriti/nateeja nahi); kisan paddy-payment patwari-maamla (individual grievance); stray-dog sawal (sirf aankde); MMDR Bill virodh press-conference (bayaan); 12 Congress MLA 7-day suspension (anushasan, koi case/jaanch nahi); PM Modi ka railway division shilanyas + CM ke Rs 600cr projects + PMGSY-IV Rs 1,698cr launch (dusre netaon ke karyakram, MLA-link nahi); halafnama ke 6 pre-term cases (raw data akela negative nahi). Namesake safety: AP minister Appalaraju, Sikharpai/Manjula Kadraka alag vyakti.
+// - Satyajeet Gomango (Gunupur ST, INC vipaksh): 0 PASS. 15 khoj-prayas. Rejects: SODC Task Force sadasyata (rajnitik pad); "administrative conspiracy" aarop (MLA khud shikayat-karta); 12 Congress MLA suspension (anushasan); Neradi barrage protest + Panidangar irrigation maang (maang akele, jawab nahi); septic-tank haadse par CHC daura + muavza-maang (rahat-daura); CM Subhadra Shakti Mela maujoodgi; Gunupur-Therubali rail line (kendra project, MLA-link nahi); Chaiti festival maujoodgi. Namesake safety: Raghunath Gomango (2024 runner-up), Ramamurthy Gomango (poorv MLA), Sabai-sabai ki news alag vyaktiyon ki. Halafnama: 0 cases.
+// - Nilamadhab Hikaka (Bissam Cuttack ST, INC vipaksh): 0 PASS. 16 khoj-prayas + 2 whitelisted pages khud padhe. Rejects: PMGSY-IV launch me maujoodgi; ZP meeting upasthiti; Subhadra Shaktimela brief speech; civic-reception samman (ceremonial); hooch sawal par minister ka jawab lekin "rehabilitation ka koi prastav nahi" (nateeja shoonya); sarkari order-sheets me MLA ka prastav nahi. Negative: halafnama ka 1 purana case (Bissamcuttack PS 78/2018, GR 259/2018 — charges frame nahi, pre-term, karyakaal me nayi karyavahi nahi) = negative NAHI. Namesake safety: 2012 Maoist-abduction + false-affidavit wale "Hikaka" JHINA Hikaka hain (poorv Laxmipur MLA) — galat vyakti. Halafnama complaint me wo khud shikayat-karta (Saraka par) = negative nahi.
+
+// RETRY LEADS (Rayagada district): (1) MLALADS portal khulne par teenon seats ki neta-war sanction-suchi se sarkari-badge sweep — sabse majboot lead; (2) odisha.gov.in/CMSA sanction orders me Rayagada MLA-prastav cross-check; (3) Odia print local shilanyas/udghatan reports; (4) Assembly-session sawalon me koi swikriti-wala jawab aaye to entry banegi.
+
 // ---- Koraput district batch ----
 
 // ---- Malkangiri district batch ----
