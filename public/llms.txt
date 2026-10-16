@@ -33,6 +33,8 @@
 - [Nagaland](https://aapkaneta.org/nagaland/)
 - [Sikkim](https://aapkaneta.org/sikkim/)
 - [Meghalaya](https://aapkaneta.org/meghalaya/)
+- [Uttarakhand](https://aapkaneta.org/uttarakhand/)
+- [Arunachal Pradesh](https://aapkaneta.org/arunachal/)
 - Maharashtra ke neta profiles homepage ke neta-khande se milte hain (jaise https://aapkaneta.org/neta/<slug>/)
 
 ## Har neta ke profile par kya milta hai
