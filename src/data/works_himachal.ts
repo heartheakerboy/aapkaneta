@@ -2379,7 +2379,316 @@ himachalWorks['anuradha-rana'] = [
 // QA: 9 entries pass huin (4 shilanyas + 4 lokarpan + 1 vitran), sabhi Jun 2024+ tenure ki, whitelisted sources (Amar Ujala, The Tribune) ki post-event reporting par; notes Roman-script Hinglish me, ek paragraph, koi Devanagari ya rupee-symbol nahi; entry objects me koi comment nahi.
 
 
-// ---- Mandi district batch (researched: abhi nahi hua) ----
+// ---- Mandi district batch (researched 2026-10-16) ----
+himachalWorks['deep-raj'] = [
+  {
+    title: 'Bakhrot-Sanarli 9 km sadak ke upgrade ke liye CRF se Rs 31 crore ki kendriya swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/karsog-will-be-connected-to-nh-documents-handed-over-to-union-minister-mandi-news-c-90-1-ssml1025-144895-2025-01-08',
+    date: '2025-01-08',
+    stage: 'swikriti',
+    note: 'Amar Ujala ki 2025-01-08 ki post-event report ke anusar Karsog vidhayak Deep Raj ne Delhi me kendriya mantri Nitin Gadkari se bhentkar Karsog-Shimla mukhya sadak ke Tattapani-Bakhrot section ko NH banane ke dastavez saupe the, jiska shrey yahan claim nahi kiya ja raha kyunki ye sirf maang thi. Alag se article me darj hai ki vidhayak ki pehle ki maang par kendra ne Bakhrot-Sanarli 9 km sadak ke CRF ke tahat upgrade ko swikriti dekar lagbhag Rs 31 crore ki rashi swikrit ki hai. Fund srot Central Road Fund (kendra sarkar) hai aur is entry me credit sirf vidhayak ki dastavezi pahal tak seemit hai. Stage swikriti isliye rakha gaya kyunki established media ne prashasnik swikriti ki report di hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['rakesh-kumar'] = [];
+
+himachalWorks['vinod-kumar'] = [
+  {
+    title: 'Nehra panchayat bhavan ka lokarpan (Gohar)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/political-row-over-inauguration-of-nehra-panchayat-building-mla-vinod-lashes-out-at-official-mandi-news-c-90-1-mnd1001-184428-2026-01-31',
+    date: '2026-01-31',
+    stage: 'lokarpan',
+    note: 'Amar Ujala ki 2026-01-31 ki post-event report ke anusar Nachan ke BJP vidhayak Vinod Kumar ne Gohar kshetra ki Nehra panchayat ke nav-nirmit bhavan ka vidhivat udghatan kiya; udghatan samaroh me panchayat pratinidhi aur sthaniya grameen badi sankhya me upasthit rahe. Fund srot par note karen: Rs 35 lakh ki swikriti ka dawa khud vidhayak ne kiya hai (unke anusar pichhli Jairam sarkar ne raashi swikrit ki thi aur maujuda sarkar ka koi yogdaan nahi) — is dawa ki swatantra pushti report me nahi hai. Shrey ka dawa vidhayak ka apna hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Nachan MLA Vinod Kumar booked for obstructing public servant on duty — PTI report',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (via ThePrint)',
+    sourceUrl: 'https://theprint.in/india/bjp-nachan-mla-booked-for-obstructing-public-servant-on-duty/1721424/',
+    date: '2023-08-19',
+    note: 'PTI ki 19 Aug 2023 ki report ke anusar Himachal Pradesh Police ne BJP leader Vinod Kumar (Nachan, Mandi ke MLA) ko tehsil karyalaya me kanungo Dina Nath ke kaam me badha daalne aur chot pahunchane ki dhamki ke aarop me mamla darj kiya; IPC ki dhara 186, 189 aur 353 ke tahat kanungo ki shikayat par FIR hui. Vidhayak ne ise jhootha mamla bataya aur kaha ki raahat samagri ke vitran ki shikayat par jan hit me adhikari ke paas gaye the. Sep 2023 me vipaksh neta Jai Ram Thakur ne vidhansabha me sarkar se ye mamla wapas lene ka aagrah kiya (PTI). Mamla abhi aarop-stage par hai; dosh sabit nahi hua hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['jai-ram-thakur'] = [];
+
+himachalWorks['puran-chand'] = [
+  {
+    title: 'Drang me PMGSY Phase-IV ke tahat Rs 26.67 crore ki 5 grameen sadkon ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/11/mla-purna-chand-thakur-announces-rs-26-67-crore-approved-for-rural-roads-in-darang/',
+    date: '2025-11-09',
+    stage: 'swikriti',
+    note: 'Divya Himachal ki staff-reporter report ke anusar PMGSY charan-chauth ke tahat varsh 2025-26 me Drang vidhansabha kshetra ke liye 26.675 km lambi sadkon ke nirman ko swikriti mili hai, jiske liye kendra sarkar ne Rs 26.67 crore ki manjuri di hai. Swikrit sadkon ki itemized suchi me Jhand se Laghdhar (5.00 km), Chaura se Kumharda (6.200 km), Arnehad se Bunga (9.100 km), Purana Kataula se Kundkh (6.375 km) aur Bhadwahan link road (5.820 km) shamil hain, jin par macadam aur tarring ka karya hoga. Vidhayak Puran Chand Thakur ne bataya ki ye sadken lambe samay se lambit thin aur unhone inhe apni prathamikta suchi me shamil kiya tha. Fund srot kendra ki PMGSY yojna hai, isliye manjuri ka poora shrey vidhayak ko nahi diya ja sakta; vidhayak ki dastavezi bhoomika prathamikta suchi me shamil karna aur swikriti ki jankari dena hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Drang sadkon ke liye Rs 165 crore pariyojnaon ki manjuri ka MLA ka dawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/05/drangs-roads-got-rs-165-crore-from-the-centre/amp/',
+    date: '2025-05-09',
+    stage: 'ghoshna',
+    note: 'Divya Himachal ki report ke anusar vidhayak Puran Chand Thakur ne Padhhar ki Badidhar panchayat me grameen devta mele ke avsar par jankari di ki PMGSY aur NABARD ke tahat Drang kshetra ke liye Rs 165 crore ki pariyojnaen manjur hui hain. Ye kathan keval vidhayak ke dawe par adharit hai; report me sadak-wise itemized suchi ya sarkari aadesh ka hawala nahi hai, isliye ise swikriti ke bajay ghoshna ke roop me darj kiya gaya hai. PMGSY aur NABARD dono kendriya yojnaen hain, isliye manjuri ka shrey vidhayak ko nahi diya ja sakta.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Badidhar panchayat ke vikas karyon ke liye Rs 5 lakh ki pehli kisht ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Divya Himachal',
+    sourceUrl: 'https://www.divyahimachal.com/2025/05/drangs-roads-got-rs-165-crore-from-the-centre/amp/',
+    date: '2025-05-09',
+    stage: 'ghoshna',
+    note: 'Divya Himachal ki report ke anusar vidhayak Puran Chand Thakur ne Badidhar gram panchayat ke vikas karyon ke liye apni vishesh dhanrashi se pehli kisht ke roop me Rs 5 lakh swikrit karne ki ghoshna ki. Report me sarkari aadesh ya itemized karya-suchi ka hawala nahi hai, isliye ise ghoshna ke roop me darj kiya gaya hai. Fund srot vidhayak ka vishesh kosh hai.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['prakash-prem-kumar'] = [];
+
+himachalWorks['chander-shekhar'] = [
+  {
+    title: 'Dharampur me Kendriya Vidyalaya ke 5 kamron wale bhavan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/mla-chandrashekhar-inaugurated-the-newly-constructed-building-of-five-rooms-mandi-news-c-90-1-ssml1045-154759-2025-05-01',
+    date: '2025-05-01',
+    stage: 'lokarpan',
+    note: 'Amar Ujala ki 1 May 2025 ki post-event report ke anusar vidhayak Chander Shekhar ne Kendriya Vidyalaya Dharampur me paanch naye kamron ke bhavan ka lokarpan kiya. Report ke anusar vidhayak ne is karya ke liye apni Vidhayak Nidhi se Rs 20 lakh swikrit kiye the, jabki chhatron ke abhibhavkon ne Rs 4.5 lakh ka yogdan diya tha. Shrey sirf Vidhayak Nidhi se sanction aur lokarpan ki dastavezi bhoomika tak seemit hai — Kendriya Vidyalaya ka bhavan hone ke karan ise sarkar ka nirmaan batana sahi nahi hoga.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Garli-Sahan pul (Rs 4.5 crore) ke nirman ki ghoshna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/dharampur-mla-holds-vidhayak-aapke-dwar/',
+    date: '2025-11-01',
+    stage: 'ghoshna',
+    note: 'The Tribune ki 1 November 2025 ki post-event report ke anusar vidhayak ne Vidhayak Aapke Dwar karyakram ke dauran Garli-Sahan pul ki ghoshna ki, jiski anumaanit lagat Rs 4.5 crore batayi gayi aur jo Kamlah mandir aur aaspaas ke kshetron ki connectivity behtar karega. Stage sirf ghoshna hai — Tribune ne shilanyas, swikriti-adesh ya nirmaan shuru hone ki report nahi di hai, isliye karyanvayan ki sthiti satyapit nahi hai. Shrey MLA ki ghoshna tak seemit hai; pul ka karyanvayan sambandhit vibhag dwara hoga.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Darwad panchayat me 10 sthaniya sadkon ke liye Rs 30 lakh ki ghoshna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/dharampur-mla-holds-vidhayak-aapke-dwar/',
+    date: '2025-11-01',
+    stage: 'ghoshna',
+    note: 'The Tribune ki uparokt post-event report ke anusar vidhayak ne Darwad Gram Panchayat me das sthaniya sadkon ke liye Rs 30 lakh ki ghoshna ki; isi avsar par Chatraena Yuvak Mandal ke badminton court ke liye Rs 3 lakh, Reedi gaon link sadak ke liye Rs 3 lakh aur Darwad khel maidan ke liye Rs 3 lakh ki ghoshnaen bhi ki gayin. Stage ghoshna hai — karyanvayan ki sthiti report me satyapit nahi hai. Shrey ghoshna ke daayre tak seemit hai; nirmaan hone par sambandhit vibhag/panchayat ka karya mana jayega.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['anil-sharma'] = [
+  {
+    title: 'Mandi Town Hall me Rs 22 lakh ke 2 badminton court ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/himachal-pradesh/mandi/video-mandi-district-badminton-championship-new-courts-250-players-2026-09-28',
+    date: '2026-09-28',
+    stage: 'lokarpan',
+    note: 'Amar Ujala ki post-event report ke anusar 28 Sep 2026 ko Mandi sadar ke vidhayak Anil Sharma ne Town Hall Mandi me taiyaar 2 naye badminton court ka udghatan kiya aur jila-stariya badminton championship ka shubharambh kiya; dono court par lagbhag Rs 22 lakh kharch hue jisme Rs 15 lakh vidhayak nidhi se diye gaye aur shesh rashi DC Mandi ke madhyam se Sports Council se mili; jila Badminton Association ne court ke nirmaan me aarthik sahyog ke liye vidhayak ka aabhar jataya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Gram Panchayat Manthla ke Gaddal me Rs 3 lakh ke foot bridge ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/mla-anil-distributed-leaflets-door-to-door-mandi-news-c-90-1-ssml1025-155109-2025-05-04',
+    date: '2025-05-04',
+    stage: 'lokarpan',
+    note: 'Amar Ujala ki post-event report ke anusar 4 May 2025 ko Mandi sadar ke vidhayak Anil Sharma ne apni vidhayak nidhi se lagbhag Rs 3 lakh ki lagat se bane Gaddal (Gram Panchayat Manthla) ke foot bridge ka udghatan kiya aur use janta ko samarpit kiya; isse gaon ke logon ko barish me aane-jaane ki suvidha milegi aur karyakram me BDC sadasya, panchayat pradhan aur up-pradhan maujood rahe.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kotli me Rs 2 crore ki parking ke liye fund milne aur kaam shuru hone ka dawa',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-bjp-mlas-funding-jibe-at-party-mps-triggers-debate/',
+    date: '2026-09-17',
+    stage: 'ghoshna',
+    note: 'The Tribune ki 18 Sep 2026 ki report ke anusar 17 Sep ko Kot-Tunggal me ek sports samapan samaroh me apne bhashan me vidhayak Anil Sharma ne dawa kiya ki Kotli me parking facility ke liye lagbhag Rs 2 crore ki zaroorat thi, BJP MPs se Rs 25-25 lakh ki madad maangi lekin sahyog nahi mila, phir Mukhyamantri Sukhvinder Singh Sukhu se milne par fund uplabdh karwaya gaya aur nirmaan kaam shuru ho gaya; yah keval MLA ke bhashan ka dawa hai, koi swatantra GO, order ya kaam ki verification report me ullekhit nahi hai, isliye stage ghoshna rakha gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Kotli college bhavan ke liye Rs 80 lakh milne ka dawa',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/himachal/himachal-bjp-mlas-funding-jibe-at-party-mps-triggers-debate/',
+    date: '2026-09-17',
+    stage: 'ghoshna',
+    note: 'The Tribune ki isi report ke anusar usi bhashan me vidhayak Anil Sharma ne dawa kiya ki Kotli college bhavan ke liye Rs 80 lakh ki rashi prapt ho gayi hai aur ve un vikas karyon ke liye fund ka pichha karte rahenge jinme shilanyas ho chuka hai; yah keval MLA ke bhashan ka dawa hai, koi swatantra GO ya verification report me ullekhit nahi hai, isliye stage ghoshna rakha gaya.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Badi road ke vaikalpik marg ke liye CM se Rs 25 lakh swikriti ka dawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/protesters-spoiled-the-grade-of-the-road-anil-sharma-mandi-news-c-90-1-ssml1045-145656-2025-01-18',
+    date: '2025-01-18',
+    stage: 'ghoshna',
+    note: 'Amar Ujala ki Jan 2025 ki report ke anusar vidhayak Anil Sharma ne dawa kiya ki Mandi nagar nigam kshetra ki Badi road (jo barish me bhuskhalan se band rehti hai) ke vaikalpik marg ke liye unhone Mukhyamantri se Rs 25 lakh swikrit karwaye hain aur zameen gift deed ki prakriya jaari hai; kaam abhi shuru nahi hua tha aur koi GO ya prashasnik order report me ullekhit nahi hai, isliye yah keval swikriti ka dawa hai aur stage ghoshna rakha gaya.',
+    period: '2022-2027',
+  },
+];
+
+himachalWorks['inder-singh'] = [];
+
+himachalWorks['dalip-thakur'] = [
+  {
+    title: 'Jamni panchayat me Rs 20 lakh lagat se bane samudayik bhawan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/mla-dilip-inaugurated-the-community-hall-mandi-news-c-90-1-mnd1001-184404-2026-01-31',
+    date: '2026-01-31',
+    stage: 'lokarpan',
+    note: 'Amar Ujala ki post-event report ke anusar Sarkaghat ke vidhayak Dalip Thakur ne Jamni panchayat me Rs 20 lakh ki lagat se nirmit samudayik bhawan ka uddghatan kiya; unhone kaha ki bhawan gaon ke samajik, sanskritik aur samudayik karyakramon ka mahatvapurna kendra banega. Fund srot report me spasht nahi likha, isliye vidhayak nidhi ya sarkari yojana ka dawa note me nahi kiya ja raha.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Dhalwahan samudayik bhawan nirman ke liye Rs 4 lakh aur mahila mandalon ko Rs 30-30 hazaar ki ghoshna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/himachal-pradesh/mandi/mla-dilip-inaugurated-the-community-hall-mandi-news-c-90-1-mnd1001-184404-2026-01-31',
+    date: '2026-01-31',
+    stage: 'ghoshna',
+    note: 'Usi karyakram ki Amar Ujala report ke anusar vidhayak ne Dhalwahan samudayik bhawan ke nirman ke liye Rs 4 lakh ki rashi pradan ki aur mahila mandalon ko Rs 30-30 hazaar dene ki ghoshna ki. Ye ghoshna post-event report me darj hai, isliye stage ghoshna rakha gaya hai; kam poora hua ya nahi, iska saboot report me nahi hai. Fund srot report me spasht nahi.',
+    period: '2022-2027',
+  },
+];
+
+// REJECT-LOG (deep-raj):
+// 1. Amar Ujala (2025-04-09) — BJP rosh rally, Deep Raj ke netritva me sarkar ke khilaf virodh: protest, koi kaam nahi — REJECT.
+// 2. Amar Ujala (2025-10-11) — CM Sukhu ka Karsog road show + Rs 132.8 crore pariyojnayein: CM ke karyakram me sirf maujoodgi — REJECT.
+// 3. The Tribune (2025-10-11) — "Karsog gets Rs 188.8-crore development projects": CM ne lokarpan/shilanyas kiya; Deep Raj ki vyaktigat bhoomika nahi — REJECT.
+// 4. Divya Himachal (2025-05-16) — Thirthu Nahvindaar mela samapan (dharmik samaroh) + Rs 5 lakh mela ghoshna: samaroh me bhagidari — REJECT.
+// 5. Divya Himachal (2026-03) — Vidhansabha me likhit prashnon ke jawab (waste plant, apple nursery): sirf prashn — REJECT.
+// 6. public.app video (2025-09-24) — vidhayak nidhi se auto stand Rs 2 lakh + LED screen Rs 1 lakh Karsog bus stand: whitelist source nahi — RETRY LEAD (Amar Ujala/Divya Himachal coverage mile to entry banegi).
+// 7. Negative check: Deep Raj par whitelist media me koi FIR/case/janch ki reporting nahi — koi negative nahi. (Hans Raj / Churah MLA ka case alag vyakti ka hai.)
+
+// REJECT-LOG (rakesh-kumar):
+// 1. Amar Ujala (2026-01-13) — Dharli-Serikothi road Rs 7 crore: poora page padha, MLA ka naam bilkul nahi — dastavezi MLA bhoomika nahi — REJECT.
+// 2. Amar Ujala (2026-01-20) — Kateru-Paudakothi road Rs 1.65 crore: poora page padha, MLA ka naam nahi — REJECT.
+// 3. Amar Ujala (2026-03-16) — suvidhayein katne/vikas rukne par raajnaitik bayan — REJECT.
+// 4. Dainik Jagran/HT/Tribune (2024-26) — BJP chief-spokesperson ke roop me spokesperson commentary — REJECT.
+// 5. Divya Himachal (2022-05) — Khurahal patwar-ghar lokarpan: pichhle term (May 2022) — period reject.
+// 6. Tazakhabar/ETV/Indian Express (2020-21) — sab Dec 2022 se pehle — period reject.
+// 7. ANI/Latestly (Sep 2025) — Sundernagar landslide par bayan: relief context — REJECT.
+// 8. bruntnews/himshimlalive (Nov 2025) — Rohanda/Nihri panchayat udghatan: non-whitelist — RETRY LEAD.
+// 9. public.app (Nov 2025) — Dharli + Dehra samudayik bhavan lokarpan: non-whitelist video — RETRY LEAD.
+// 10. theeaglenews (Rs 3.85 crore sewerage grant Ropa/Bechna) — non-whitelist — RETRY LEAD.
+// 11. Pehchan confirm: ECI affidavit (candidate_id=70) se "Rakesh Kumar (BJP), Sundernagar, S/o Hardyal Singh" — media me "Rakesh Jamwal" naam se bhi cover hote hain; wahi vyakti.
+
+// REJECT-LOG (vinod-kumar):
+// 1. Fire station shilanyas, Chailchowk (Rs 3.16 crore): shilanyas mantri Virender Kanwar ne kiya, vidhayak sirf maujood — REJECT.
+// 2. Jachh sub-vegetable mandi lokarpan (Rs 1.73 crore, Amar Ujala 2025-06-27): mantri ne kiya; vidhayak ne aabhar vyakt kiya — REJECT.
+// 3. CM Sukhu dwara Nachan me Rs 60 crore ke 14 projects: CM ka karyakram, vidhayak ki dastavezi bhoomika nahi — REJECT.
+// 4. Truck Operator Union bhavan Dhanotu shilanyas (himachalmedia.co): non-whitelist — RETRY LEAD.
+// 5. Bus addon budget sawal (Amar Ujala, Sep 2026): sirf maang/sawal — REJECT.
+// 6. Mir Bakhsh zameen virodh (Divya Himachal, Aug 2025): virodh/pradarshan — REJECT.
+// 7. Pehchan confirm: Nachan BJP Vinod Kumar (S/o Kanhya Lal, 2012 se MLA) — Renukaji ke Vinay Kumar se alag vyakti.
+
+// REJECT-LOG (jai-ram-thakur):
+// 1. The Tribune (2022-09-26) — "Seraj gets Rs 167 cr development projects": CM ke roop me Bagsiad/Parwada/Keyoli Dhar/Bara me 27 projects ka lokarpan/shilanyas — CM-karyakaal (2017-22), Dec 2022 se pehle — REJECT.
+// 2. The Tribune (2020-12-09) — "CM inaugurates Rs 197-cr projects in Seraj": Thunag area me school buildings, PMGSY road, sewerage — CM-era — REJECT.
+// 3. Dainik Jagran (2022-07-30) — 59.26 crore projects (AYUSH hospital Dheem, Tourist Cultural Center): CM ke roop me — REJECT.
+// 4. ThePrint/PTI (2022-10-10) — Balichowki 29 projects Rs 102.36 cr: CM ke roop me, chunav se pehle — REJECT.
+// 5. The Tribune (2026-09-13) — Balichowki under-19 sports competition udghatan + Rs 51,000 discretionary grant: event + grant, koi infrastructure nahi — REJECT.
+// 6. Dainik Jagran (2025-07-02) — Mandi cloudburst ke baad Seraj daura: sirf nirikshan/daura + relief demands — REJECT.
+// 7. PTI (Feb 2025) — Rs 10 cr horticulture & forestry college dawa: CM-era dawa, shilanyas bhi 2017-22 me — REJECT.
+// 8. Negative check: unke naam par koi established reporting me aarop/FIR/case/janch nahi — koi negative nahi.
+
+// REJECT-LOG (puran-chand):
+// 1. Amar Ujala (2025-05-25) — press-conference me sarkar-alochana aur maang — REJECT.
+// 2. Amar Ujala (2025-04-12) — shiksha/swasthya vyavastha par aarop aur niyukti ki maang — REJECT.
+// 3. Amar Ujala video (2026-09-10) — Nalwar fair me mukhya-atithi + "bhavishya me BJP sarkar" wala wada: dharmik samaroh + karenge khabar — REJECT.
+// 4. himachalmedia.co (2023-10) — MP Pratibha Singh ke udghatan: MP ka kaam + non-whitelist — REJECT.
+// 5. indianewscalling DPR handout — non-whitelist + sirf baithak me maang — REJECT.
+// 6. PMAY 1894 makan (Divya Himachal article me): kendriya yojna, MLA sirf suchna de rahe — REJECT.
+// 7. Negative check: whitelist sources me koi FIR/case/janch nahi — koi negative nahi. (Dehra MLA par vigilance FIR doosre vyakti ki hai.)
+
+// REJECT-LOG (prakash-prem-kumar):
+// 1. Amar Ujala (2025-05-06) — Jogindernagar/Ladbhadol/Chauntra hospitals nirikshan + dharne ki dhamki: sirf nirikshan/daura + maang — REJECT.
+// 2. Amar Ujala (2026-02-22) — bus depot naye routes par sarkar par hamla: political statement — REJECT.
+// 3. Amar Ujala (2025-08-26) — RCFC Jogindernagar se Nauni shift ka virodh: maang/prastav — REJECT.
+// 4. Amar Ujala (2025-11-20) — Chauntra private schools samaroh me mukhya atithi: samaroh me bhagidari — REJECT.
+// 5. Amar Ujala (2024-11-29) — Congress neta Jeevan Thakur ka dawa (Jogindernagar peyjal yojana Rs 2 crore): MLA ki bhoomika nahi — REJECT.
+// 6. Amar Ujala (2025-05-09) — Jogindernagar sewerage par saiddhantik manjuri: MLA ki dastavezi bhoomika nahi — REJECT.
+// 7. ETV/CNBC/News18 (2025-12) — "Rs 1 salary" ka elaan: ghoshna hai lekin vikas-kaam nahi — REJECT.
+// 8. ladbharolnews (2020-2022) — saari coverage pichhle term ki + non-whitelist — REJECT.
+// 9. Pehchan confirm: media me "Prakash Rana" naam se cover hote hain (S/o Prem Kumar, 2017 me Independent jeete, Jul 2022 me BJP me aaye) — ECI official naam "Prakash Prem Kumar", wahi vyakti.
+// 10. Negative check: koi FIR/case/janch ki established reporting nahi — koi negative nahi.
+
+// REJECT-LOG (chander-shekhar):
+// 1. Amar Ujala (2026-01-25) — Lavanpur Vedic Vedashala shilanyas + Guga mandir sarai: fund srot spasht nahi, dharmik prakriti — REJECT.
+// 2. The Tribune (2026-10-16) — Karsog samiksha baithak: sirf baithak/daura — REJECT.
+// 3. The Tribune (2026-09) — Dharampur shikayat-nivaran baithak: samiksha baithak — REJECT.
+// 4. NH-3 hunger strike (Sept 2025, PTI/theweek/newsdrum/Divya Himachal): virodh-pradarshan, parinaamheen — REJECT.
+// 5. Dainik Jagran (2026-01-15) — Dharampur ko jila banane ki maang: bayan — REJECT.
+// 6. thenewzradar (2026-09) — Rajat Thakur ke aarop: whitelist source nahi — REJECT.
+// 7. thenewzradar timber case — patni Kavita Shekhar par aarop: parivar ka mamla, kabhi nahi + non-whitelist — REJECT.
+// 8. Negative check (FIR 0045/22, PS Dharampur, SC/ST Act): Dec 2022 ke baad koi fresh adalaati/pulis sthiti ki established reporting nahi — halafname ka aggregate bina reporting ke negative nahi banta — koi negative nahi.
+
+// REJECT-LOG (anil-sharma):
+// 1. The Tribune (2026-05-13) — BJP riverfront vision document: "karenge" khabar — REJECT.
+// 2. Dainik Jagran (2025-11) — Thana Plaun 191 MW project: HPPCL ka rajya project, MLA ki bhoomika nahi — REJECT.
+// 3. Amar Ujala (2025-09-05) — "Regional and Kotli hospitals excellent": sirf prastav/karenge — REJECT.
+// 4. The Tribune — NH Mangvain-Kotli nirikshan: sirf nirikshan + kendra pariyojna — REJECT.
+// 5. Amar Ujala (2025-02) — Kotli college building "isi saal": karenge khabar — REJECT.
+// 6. Divya Himachal (2026-03-08) — Radog lokarpan-shilanyas: galat vyakti (Arki ke Sanjay Avasthi) — REJECT.
+// 7. Satluj Bias Times — Mandi Sadar 50 crore udghatan: PWD mantri ne kiye; sirf maujoodgi — REJECT.
+// 8. TheNewzRadar — NHAI bribery allegation: non-whitelist patrakar ka dawa, MLA ne kharij kiya, koi FIR/janch sthiti nahi — negative nahi bana.
+// 9. Pehchan confirm: Mandi Sadar BJP Anil Sharma — Shikarpur UP ke Anil Sharma se alag; parivar (Sukh Ram) ke mamle poori tarah ignore; 2017-19 mantri-kaal ke kaam nahi liye.
+
+// REJECT-LOG (inder-singh):
+// 1. The Tribune (2026-09-29) — Balh MLA development plaques se naam hataane par shikayat/protest — REJECT.
+// 2. The Tribune (2026-03) — CM ko 22 maangon ka charter: sirf maang/gyapan — REJECT.
+// 3. Indian Express (2026-03) — MLA priority meeting: maangen — REJECT.
+// 4. Dainik Jagran — priority meeting: sirf maang — REJECT.
+// 5. Amar Ujala (2025-11-26) — Gagal police post mudda: maang + karenge ghoshna — REJECT.
+// 6. Divya Himachal (2025-10) — medical university shift par gyapan + dharna — REJECT.
+// 7. The Eagle News — Kothi-Gehru road shilanyas: non-whitelist — RETRY LEAD.
+// 8. himachalkiawaj.in — CRIF sadak Rs 137.40 cr: non-whitelist + kendra pariyojna — REJECT.
+// 9. Pehchan confirm: news me "Inder Singh Gandhi" (pita Late Sh Gandhi Ram) — Col. Inder Singh (Sarkaghat) aur Indar Dutt Lakhanpal se alag vyakti.
+// 10. Negative check: koi aarop/FIR/case/janch nahi — koi negative nahi.
+
+// REJECT-LOG (dalip-thakur):
+// 1. Divya Himachal (2026-06) — HRTC bus hadsa, ghayalon ka haal pucha: sirf bhet — REJECT.
+// 2. Divya Himachal (2025-09) — Ropdi baadal-phatna: sirf nirikshan/daura + nirdesh — REJECT.
+// 3. Divya Himachal (2025-05) — bus kiraya par political meeting/bayan — REJECT.
+// 4. Divya Himachal (2025-10) — Diwali par sadken na khulne par maang — REJECT.
+// 5. Amar Ujala (2025-10) — barsaat ke baad Sarkaghat sadken: sirf maang — REJECT.
+// 6. Dainik Jagran (2025-09) — Chhadu nala baadh daura: nirikshan/relief — REJECT.
+// 7. Zee News (2021-08) — CM Jai Ram ka Sarkaghat daura: pre-term — REJECT.
+// 8. public.app video — Mahila Mandal Bhavan Ropdi udghatan: non-whitelist — RETRY LEAD (whitelist coverage mile to entry).
+// 9. Pehchan confirm: media me "Dilip Thakur"/"Dileep Thakur" spellings — Sarkaghat BJP (S/o Chhanga Ram, APMC poorv chairman); Jai Ram/Mahender Singh Thakur se alag.
+// 10. Negative check: koi FIR/case/janch nahi — koi negative nahi.
+
+// QA: 16 entries pass huin (15 positive + 1 negative), sabhi Dec 2022+ tenure ki, whitelisted/credible sources (Amar Ujala, The Tribune, Divya Himachal, PTI) ki post-event reporting par; notes Roman-script Hinglish me, ek paragraph, koi Devanagari ya rupee-symbol nahi; entry objects me koi comment nahi. Vinod Kumar ka negative (PTI, 19 Aug 2023) coordinator ne khud verify karke joda. Chander Shekhar ka FIR 0045/22 fresh sthiti ke bina negative nahi banaya gaya.
 
 // ---- Shimla district batch (researched: abhi nahi hua) ----
 
