@@ -459,7 +459,7 @@ export const arunachalNetas: Neta[] = [
       assets: 'PENDING',
       liabilities: 'PENDING',
       mynetaUrl: 'PENDING (myneta winners list me nahi; koi candidate page nahi mila)',
-      backgroundNote: 'Pehchan pakki (CEO Arunachal elected-members list: 15-SAGALEE (ST), RATU TECHI, BJP; nirvirodh winner). ADR report: "The affidavit of BJP candidate Ratu Techi, who won from the Sagalee constituency unopposed, could not be analysed due to the unavailability of his clear and complete affidavit on the Election Commission website." Isliye education/assets/liabilities halafnama se PENDING. Age 58 aur criminal 0 sirf News18 (ADR-based) se — secondary, affidavit se verify nahi ho paya.',
+      backgroundNote: 'Pehchan pakki (CEO Arunachal elected-members list: 15-SAGALEE (ST), RATU TECHI, BJP; nirvirodh winner). ADR report: "The affidavit of BJP candidate Ratu Techi, who won from the Sagalee constituency unopposed, could not be analysed due to the unavailability of his clear and complete affidavit on the Election Commission website." Isliye education/assets/liabilities halafnama se PENDING. Age 58 aur criminal 0 sirf News18 (ADR-based) se — secondary, affidavit se verify nahi ho paya. Jeevani tathya (Arunachal Times ke interview par aadharit): janm lagbhag 1965, Rigo gaon; 1989 me Arunachal PWD me Assistant Engineer bane, 2019 me Superintending Engineer pad se swechhik sewanivritti lekar raajneeti me aaye (HT 2025 report me umr 60 — isi se mel).',
     },
     electionNote: '2024 Vidhan Sabha chunav me Sagalee se BJP ke ticket par nirvirodh jeete (10 nirvirodh vijetaon me se ek; CEO ne 30 Mar 2024 ko ghoshit kiya). Koi pratidvandi nahi tha. 19 Apr 2024 ko matdan, 2 Jun 2024 ko parinaam.',
   },
