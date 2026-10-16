@@ -320,3 +320,64 @@ arunachalWorks['ratu-techi'] = [
 ];
 // REJECT-LOG (ratu-techi, Sagalee): 1. Smart classrooms, Gai village (15 Nov 2024, indiatodayne.in) — HDFC Bank CSR funded, Citizens Foundation NGO implemented; MLA ne sirf udghatan kiya — CSR samaroh reject. 2. MRHRU/CHC Sagalee progress review (19-20 Sep 2024, Arunachal Times + arunachal24) — sirf nirikshan/samiksa aur adhikariyon ko nirdesh; koi lokarpan/shilanyas nahi. 3. Zero/low-enrolment school merger consultative meeting (4 Sep 2024, Arunachal Times) — sirf meeting; merger ka faisla state government ka; koi dastaveji nateeja nahi. 4. School inspection tour + education reform proposals (itanagartimes.com) — non-whitelisted + sirf nirikshan/prastav. 5. Fire victim aid, Labiya Happa/Toru circle (10 Apr 2025, abotanitv.in) — non-whitelisted + daan/rahat kaam. 6. Rijiju ke PMJVK 5 projects ke foundation stones, Keyi Panyor/Papum Pare (28 Sep 2025, PTI/taxtmi) — kendriya mantri ka karyakram; Sagalee (Bokoriang-II Panchayat) ke projects par Ratu Techi ka ullekh nahi — dusre neta ka karyakram. 7. MP Tai Tagak ka MPLADS Rs 15 lakh model anganwadi ghoshna, Doimukh/Sagalee (Oct 2026, arunachal24) — MP ke MPLADS ka kaam + sirf ghoshna. 8. Class X toppers (2021-2023) felicitation KGBV karyakram me — samaroh, standalone entry nahi (entry 3 ke event ka hissa). 9. Balapu HWC footpath ke liye Rs 1.5 lakh ka ashwasan — sirf ghoshna (entry 1 ke note me disclosed). 10. Techi Kaso (Itanagar MLA) ke events — pehchan-jaal check: "Techi" common naam hai; Techi Kaso alag vyakti (Itanagar seat); unke events ko confuse nahi kiya. 11. Adhyan Foundation MoU image-date confusion (Eastern Sentinel page par 2021 ki image) — Arunachal Times archive date 27 Sep 2024 se in-term pushti hui; MoU entry ke roop me accept (entry 2).
 // COORDINATOR RETRY-LEADS: A. Sagalee ke liye MLALAD (FY 2024-25: Rs 3 crore/seat; FY 2025-26 se Rs 4 crore/seat) ke tahat asal vitaran/work-order/sanction ki koi itemized media/sarkari report abhi tak nahi mili — DIPR Arunachal ke press releases ya DC Papum Pare ke records check karein. B. CHC Sagalee ke tahat Model Rural Health Research Unit (MRHRU) ka review Sep 2024 me hua tha; agar iska post-event udghatan/lokarpan report mile to entry banegi. C. Cheque bounce case me higher-court appeal ka parinaam — future legal development par negative update lagega.
+
+// ---- Keyi Panyor district batch (researched 2026-10-17) ----
+arunachalWorks['toko-tatung'] = [
+  {
+    title: 'Yachuli ke MLA Toko Tatung ke sawal par IPR mantri ne Electronic Media Advertisement Policy 2020 ko chhah mahine me lagu karne ka ashwasan diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/video/arunachal-govt-assures-electronic-media-policy-implementation-in-6-months-ncp-mla-1182470-2025-03-11',
+    date: '2025-03-11',
+    note: 'Budget Session me Tatung ne tarankit (starred) sawal uthakar Electronic Media Advertisement Policy 2020 ke kriyanvayan na hone ka mudda uthaya — keval print media ko sarkari vigyapan mil rahe the, electronic/digital upekshit the. IPR mantri Nyato Dukam ne 6 mahine me niti lagu karne ka ashwasan diya. Niti vaastav me lagu hui ya nahi — report me nahi darj; credit capped.',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (toko-tatung, Yachuli): COORDINATOR-DROP — EDC udghatan entry girai (IIE Guwahati sanchalit kendriya program, MLA ka role keval udghatan — ceremonial-only). Worker ke 25 rejects (admission/mess-shulk ghoshnaen, workshops, Bhutan summit bhashan, Rijiju PMJVK shilanyas, aadi) fragment ap_worker_tokotatung.ts me darj.
+
+// ---- Lower Subansiri district batch (researched 2026-10-17) ----
+arunachalWorks['hage-appa'] = [
+  {
+    title: 'Ziro-Hapoli ke MLA Hage Appa ne Kalung ZPC me Panchayat Bhavan aur Jal Jeevan Mission ke tahat bane community well ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/07/22/appa-inaugurates-panchayat-bhavan-community-well/',
+    date: '2025-07-21',
+    note: '21 Jul 2025 (Somvaar — dateline se; article 22 Jul ko publish) ko Kalung Ranti, 8th Kalung ZPC me MLA Hage Appa ne Panchayat Bhavan ka vyaktigat lokarpan kiya — DIPRO report; DC Oli Perme bhi maujood thi. Bhavan sthaniya prashasan, panchayat baithakon aur samudayik karyakramon ke liye hai. Community well Jal Jeevan Mission ke tahat bana — Subu gaon ke Subu Sukung prakritik srot se jodkar (Ziro valley ka sabse purana aur saaf srot bataya gaya); sabhi gharon ko saaf peya-jal ka lakshya. Panchayat Bhavan ka fund-srot report me darj nahi hai (disclosure) — MLA ki bhoomika dono ke lokarpan tak seemit. Usi manch par Kalung ZPM Subu Lento ne kshetra-vikas ka gyapan saunpa.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (hage-appa, Ziro-Hapoli): worker ke 23 rejects — Handloom Marketing Complex shilanyas (Union MoS ne rakha), Cabinet Aapke Dwar (CM), Sadbhavna Mandaps PMJVK (Rijiju), Old Ziro Police Station (Home Minister), Ziro Literary Festival, DMFT approvals (DC-chaired), aadi — fragment ap_worker_hageappa.ts me darj.
+
+// ---- Kra Daadi district batch (researched 2026-10-17) ----
+arunachalWorks['balo-raja'] = [
+  {
+    title: 'Palin ke Balo Raja ne Palin ke BG Higher Secondary School me New Age Learning Centre (NALC) ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2024/10/09/min-inaugurates-nalc-in-palin/',
+    date: '2024-10-08',
+    note: '8 Oct 2024 (Tuesday) ko Balo Raja ne vyaktigat roop se Kra Daadi zila mukhyalay Palin ke BGHSS me New Age Learning Centre ka udghatan kiya; DC Sunny K Singh aur sabhi HoDs maujood the. NALC erstwhile Club 2021 Public Library (jo 2023 me district ke APSSB recruits ne public coordination se bina sarkari fund ke banayi thi) ke upgrade se bana; DC ke anusar fund untied fund aur ISSE (Integrated Scheme for School Education) se aaya. Mantri ne NALC ko guitars aur knitting/painting tools vyaktigat roop se daan kiye. (DIPRO report)',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+arunachalWorks['jikke-tako'] = [
+  {
+    title: 'Tali ke Jikke Tako ne Hakpuk gaon ki Vibrant Village Programme (VVP) wali sadak ka udghatan kiya — gaon ko pehli baar road connectivity mili',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/mla-inaugurates-road-under-vvp',
+    date: '2026-01-18',
+    note: 'Tako ne vyaktigat roop se udghatan kiya; sadak Vibrant Village Programme (kendriya yojna) ke tahat bani — fund-srot VVP ke roop me disclosed. Article ki dateline "TALI, 18 Jan" hai aur event "Sunday" ka bataya gaya hai — 18 Jan 2026 (Sunday) se match, isliye date dateline se li gayi. Usi daure me MLA ne naye bane projects ka nirikshan aur sarkari aawaas jaisi infrastructures ka shilanyas bhi kiya — un projects ka vivaran/fund report me nahi, isliye standalone entry nahi bani.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (balo-raja, Palin): mantri-niyam — Septage Treatment Plant Chimpu, Donyi Polo airport terminal nirikshan, sanitation vehicles flag-off, aviation summit, SHS 2026 prep, Assam-Arunachal border committee, 132KV transmission meeting — sab vibhagiya kaam; pre-term rejects bhi; worker ke 23 rejects fragment ap_worker_baloraja.ts me.
+// REJECT-LOG (jikke-tako, Tali): pre-term rejects (2020 police barrack, 2021 Palin oxygen plant, 2022 Kumey-bridge nirikshan, CM road event Feb 2022, ADC office 2020); dusre neta (CM Pipsorang daura Jan 2025, Dy CM Nyokum Feb 2026, Governor Sep 2024); sirf baithak (Aug 2024 HoD review); samaroh (DPCCT Gurukul meet, Air-Gun Museum Palin — non-whitelist) — fragment ap_worker_jikketako.ts me.
