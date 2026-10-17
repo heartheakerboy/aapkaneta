@@ -1477,3 +1477,32 @@ tripuraWorks['jitendra-chaudhury'] = [
 // - Chaudhury: Maitri Setu bayan; 7-sutriya health patra — sirf maang; piped gas maang (non-whitelist); Nov 2025 nirikshan; Aug 2024 flood relief — rahat; MBB airport prashn non-whitelist. Negatives: halafname ke 3 pre-term cases, koi current development nahi.
 // - Noatia: duplicate guard OK — Kalsimukh Anganwadi + West Pilak shilanyas pehle se hain. LEADS: Maransur Para CC road, Baikhora police station, Jolaibari medical college — sab Tripura Times paywalled/non-whitelist; 'development claims questioned' — MLA aaropi nahi.
 // ---- South Tripura district batch END (5 works, 0 negatives) ----
+// ---- Dhalai district batch (researched 2026-10-17) ----
+// State works total before: 34 (South Tripura batch tak)
+// Dhalai pattern: ADC kshetra — TTAADC/ADC faisle MLA kaam NAHI; mantri/pad kaam excluded.
+tripuraWorks['nandita-debbarma'] = [];
+// REJECT-LOG (nandita-debbarma): Khaali: first-time MLA (2023, TMP); whitelisted me vyaktigat lokarpan/shilanyas, MLALADS itemized sanction ya dastaveji Vidhansabha-nateeja ki koi reporting nahi (8 targeted searches). Leads: Gandachhara multipurpose halls me sirf maujoodgi; Sadak-samiksha baithak me maang/charittha only.
+tripuraWorks['manoj-kanti-deb'] = [];
+// REJECT-LOG (manoj-kanti-deb): Khaali: Kamalpur BJP; mantri 2018-2023 rahe, vartaman cabinet me NAHI (brief-stale). Ambulance MLALADS handover lead non-whitelist par (retry: Tripura Times/Chronicle/ICA). CM ke lokarpan me sirf maujoodgi; TTAADC prachar-vahan hamle me MLA peedit (negative-gate fail).
+tripuraWorks['chitta-ranjan-debbarma'] = [];
+// REJECT-LOG (chitta-ranjan-debbarma): Khaali: Ambassa (ST) TMP; 19 rejects — dusre netaon ke karyakram me maujoodgi, ADC-bhoomika shilanyas (TTAADC=MLA-kaam nahi), prastav/bayaan. Ambulance/sports-equipment BEUP leads non-whitelist (retry whitelisted).
+tripuraWorks['paul-dangshu'] = [];
+// REJECT-LOG (paul-dangshu): Khaali: Karamcherra (ST) TMP; sab maang/chitthi/nirakshan/daura me gaya (CM ko chitthi, Assembly maang, NCSL summit). tripurainfo false-FIR story me associates aaropi, MLA khud nahi (negative-gate fail).
+tripuraWorks['sambhu-lal-chakma'] = [];
+// REJECT-LOG (sambhu-lal-chakma): Khaali: Chawamanu (ST) BJP; koi vyaktigat lokarpan/shilanyas/MLALADS itemized nateeja nahi. Manu station halt: maang to nateeje ki dastaveji kadi nahi (retry tip: mantri/NFR likhit patra mile to).
+tripuraWorks['swapna-das-paul'] = [
+{
+    title: 'Swapna Das Paul ki adhyakshata wali 10-sadasyiya samiti ki sifarish par Tripura me chaay-bagaan mazdooron ki rozana mazdoori 16% badhkar Rs 204 hui',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'Northeast Now',
+    sourceUrl: 'https://m.nenow.in/article/tripura/tripura-hikes-tea-garden-workers-wages-by-16-to-rs-204/438999/amp',
+    date: '2025-06-20',
+    note: 'Labour Minister Tinku Roy ne ghoshna ki: rajya sarkar dwara gathit 10-sadasyiya samiti — adhyaksh Swapna Das Paul, MLA, 46-Surma — ne 28 May ko baithak karke 16% vriddhi ki sifarish ki, jis par Tripura sarkar ne revised daron ko swikrit kiya. Vayask mazdoor Rs 176 se Rs 204, nabalig Rs 88 se Rs 102. 8,000 se zyada chaay-bagaan mazdooron ko fayda ki ummeed. Credit capped: faisla sarkar ne liya, sifarish samiti ki — MLA ki vyaktigat bhoomika samiti ki adhyakshata tak seemit.',
+    period: '2023-2028',
+  }
+];
+// REJECT-LOG (swapna-das-paul): Tea-wage entry rakhli (samiti-adhyakshata documented, credit capped).
+// NEGATIVE-DROPPED (swapna-das-paul): June 2022 TMC FIR (Kachucherra thana, upchunav-prachar kaal) — MLA banne se PEHLE ka mamla, karyakaal me koi legal development nahi (pre-term + no current development = reject). Lead me rahega.
+// REJECT-LOG (swapna-das-paul): BSF border-haat nirikshan; KVK shubharambh; border-haat team me maujoodgi; 33KV substation (dusre mantri) me maujoodgi; Surma waterfall (CM lokarpan) me maujoodgi; EastMojo fact-finding team; pati-wala murder case (parivar=reject); Halhuli Dashami Ghat MLALAD daava non-whitelist (retry whitelisted).
+// ---- Dhalai district batch END (1 work, 0 negatives) ----

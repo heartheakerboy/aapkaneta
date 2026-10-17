@@ -1452,7 +1452,7 @@ export const tripuraNetas: Neta[] = [
       assets: 'Rs 15,72,543',
       liabilities: 'Rs 23,90,257',
       mynetaUrl: 'https://myneta.info/Tripura2023/candidate.php?candidate_id=7010',
-      backgroundNote: 'Pehchan pakki: Sambhu Lal Chakma, BJP, Chawamanu (ST) — affidavit page par naam, seat aur party match. Umr 33 (2023 halafnama, ADR-adharit profile); S/o Kripamoy Chakma; pesha Social Service; shiksha BSW, Himalayan University (2017). Koi criminal case nahi. 2018 me bhi ladkar haare the.',
+      backgroundNote: 'Pehchan pakki: Sambhu Lal Chakma, BJP, Chawamanu (ST) — affidavit page par naam, seat aur party match. Umr 33 (2023 halafnama, ADR-adharit profile); S/o Kripamoy Chakma; pesha Social Service; shiksha BSW, Himalayan University (2017). Koi criminal case nahi. 2018 me bhi Chawamanu se jeete the (BJP, 18,290 votes, margin 3,755) — 2018-2028 lagataar Vidhayak.',
     },
     electionNote: '2023 Vidhan Sabha chunav me Chawamanu se BJP ke ticket par jeete: 16,644 votes. Runner-up Hangsa Kumar Tripura (TMP) — 13,745 votes. Margin 2,899. 16 Feb 2023 ko matdan, 2 Mar 2023 ko parinaam.',
   },
