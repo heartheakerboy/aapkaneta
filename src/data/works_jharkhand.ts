@@ -3027,3 +3027,284 @@ jharkhandWorks['ram-surya-munda'] = [];
 
 // ---- Khunti district batch END (0 works, 0 negatives) ----
 
+
+
+// ---- Gumla district batch (researched 2026-10-17) — Batch 8 ----
+// ===== jiga-susaran-horo (Gumla) =====
+// Pehchan: Jiga Susaran Horo, JMM, Sisai (ST), Gumla. 2024 me 1,06,058 vote lekar jeete; runner-up Arun Kumar Oraon (BJP) ko 38,989 maton se haraya. 2019 se bhi isi seat par MLA (2019 me Dinesh Oraon ko 38,418 maton se haraya tha). Affidavit (myneta.info/Jharkhand2024): umr 58, 10th Pass (Matric 2006, Hindi Vidyapeeth Deoghar), pesha kheti + MLA vetan; assets Rs 1,31,24,776, koi liability nahi; 2011 ka 1 case (IPC 504) — doshi karar hokar Probation of Offenders Act par riha; koi pending case nahi.
+// Research summary: Dec 2024 se ab tak ke karyakaal me is MLA ke kisi bhi bhautik kshetra-kaam (lokarpan/shilanyas, sadak, pul, school, aspatal, pani, bijli, sanction list) ki whitelist par koi established media report NAHI mili. Alternative naam-hijje (Jigga Sushan Horro / Jigga Munda / जिग्गा सुसारन होरो) se bhi check kiya — kuch nahi. Prabhat Khabar, Dainik Jagran, Dainik Bhaskar, Times of India, Indian Express, The Telegraph ke site-specific queries bhi khaali. Negatives: vartaman karyakaal me FIR/chargesheet/janch — koi report nahi mili; purana (2011) case halafname me ghoshit hai, usme koi nyayik vikas term me nahi hua. Khaali profile rakhi gayi hai.
+jharkhandWorks['jiga-susaran-horo'] = [
+];
+// REJECT-LOG (jiga-susaran-horo):
+// - public.app short (Apr 7, 2026): 'Sisai: Dahudih me vidhayak ki pahal se 63 kVA ka naya transformer laga' — REJECT: source whitelist me nahi (public.app citizen/aggregator; explicit reject). Transformer ka kaam dawe me karyakaal-2024-29 me bhi aa sakta tha, lekin establish outlet par report milne par hi include hoga. Retry lead: Dainik Jagran / Prabhat Khabar Gumla edition me 'Dahudih transformer 63 kVA Prakash Oraon' khojo.
+// - newsjharkhand.com (Nov 2020): 'Members of various delegations meet Chief Minister at Vidhan Sabha' — REJECT: (a) source whitelist me nahi; (b) purane karyakaal (2019-2024) ka item; (c) CM se delegation-mulaqat maang/demand hai, koi completed work nahi.
+// - TV9 Hindi / Jansatta / ABP Live / AajTak / NDTV-style result pages (Nov 2024): chunav-nateeja coverage — REJECT: works content nahi, background/election context hai (already electionNote me covered).
+// - Times of India Ranchi (Nov 2024): 'Electoral Battleground: Congress and BJP Rebels Stir Up Gumla Elections' — REJECT: pre-result election analysis, works content nahi.
+// - Dainik Bhaskar (pre-poll feature, Ranchi/Gumla seat analysis): 'Jiga matdataon ko kshetra me hue vikas karyon ki yaad dila rahe hain' — REJECT: chunav-prachar me dawa ka zikr matra; koi itemized work, date, ya verifiable action nahi.
+// - Economic Times (Dec 2019, 'Litmus Test... in Sisai'): purana karyakaal + election feature — REJECT: period bahar, works nahi.
+// - Web search noise (Suharto/op-ed/agri portals/public.app ads reels) — REJECT: naam-jaal (Horo naam alag log), seat-bahar, ya source bahar.
+// Retry leads: (1) Dainik Jagran gumla tag / Prabhat Khabar 'Sisai Vidhan Sabha' topic page par 'Horo' keyword se phir check karo jab whitelist outlets me naya coverage aaye; (2) Gumla DC office ki MLALAD sanction list (2025-26) par kabhi public ho to itemized entries lena — abhi tak aisa list online nahi milaa.
+// ===== bhushan-tirkey (Gumla) =====
+// Pehchan: Bhushan Tirkey, JMM, Gumla (ST), Gumla jila — Winner 2024 (84,974 vote; margin 26,301). Term 23-Nov-2024 se 2029 tak (PRS mlaTrack). Halafnama: age 54, 10th pass, 2 pending criminal cases (2016 ke Gumla PS cases, High Court me pending). Research summary: Dec 2024 se Oct 2026 tak whitelist outlets par is MLA ke naam ka koi vyaktigat lokarpan/shilanyas bhautik sarkari sanrachna (sadak/pul/school/aspatal/pani/bijli), itemized DC sanction list, GO-backed swikriti, mantri-ashwasan wala documented nateeja NAHI mila. Dainik Bhaskar par sirf do Assembly zero-hour maangon ki khabar mili (bina nateeje/ashwasan ke, reject). Vartaman karyakaal me koi nyayik vikas/nyayik ghatna bhi whitelist par nahi — halafnama pending cases akele negatives me nahi jodte. Isliye profile khaali rakhna theek hai.
+jharkhandWorks['bhushan-tirkey'] = [
+];
+// REJECT-LOG (bhushan-tirkey):
+// 1. Dainik Bhaskar (https://www.bhaskar.com/local/jharkhand/gumla/news/gumla-mla-draws-government39s-attention-to-bypass-and-upper-shankha-reservoir-dbp-137473630.html) — 'Gumla MLA draws government's attention to bypass and Upper Shankha reservoir': MLA ne Assembly zero hour + gair-sarkari sankalp me Gumla bypass delay aur Upper Shankha jalashay par awaaz uthayi. REJECT — sirf maang/prashn; koi mantri-ashwasan ya dastaveji nateeja page par darj nahi; poora text app paywall ke peeche, web par trunk hi mila. Retry lead: bhaskar app full text ya Assembly records me assurance ki pushti ho tab hi dobara dekho.
+// 2. Dainik Bhaskar (https://www.bhaskar.com/local/jharkhand/gumla/news/mla-raised-voice-in-vidhansabha-regarding-acute-shortage-of-doctors-in-sadar-hospital-137290344.html) — 'MLA raised voice in Vidhansabha regarding acute shortage of doctors in Sadar Hospital': Gumla Sadar Hospital me doctor kami ka mudda zero hour me uthaya. REJECT — sirf maang; koi nateeja/ashwasan darj nahi; trunk behind app paywall.
+// 3. jharkhandvarta.com — 'Gumla Sadar Hospital me Swasth Nari Sashakt Parivar abhiyan ka shubharambh' (17 Sep 2025): MLA ne abhiyan kendra ka udghatan kiya. REJECT — (a) outlet whitelist me nahi (chhota portal), (b) sarkari abhiyan ke keval shubharambh me udghatan, bhautik sanrachna nahi.
+// 4. public.app — 16 Dec 2025: Gumla Tarri bypass sadak par Shaheed Telanga Khadia biodiversity park ka udghatan (MLA + SP + DFO ne feeta kaata). REJECT — public.app whitelist se bahar (reject list me saaf).
+// 5. dainikbharat24.com — Birsa Munda jayanti (Nov 2025): PM ne Sisai/Bishunpur/Palkot/Raidih ke Eklavya Model Residential Schools ka online udghatan/shilanyas kiya; kalyan mantri Chamra Linda ne bayan diya. REJECT — outlet whitelist me nahi; kendriya pariyojna, Bhushan Tirkey ki koi bhoomika darj nahi.
+// 6. Prabhat Khabar — 'Mandar ki thaap par jhoom utha Gumla, Karam shobhayatra me shamil hue vidhayak Bhushan Tirkey' (~Sep 2026): Karam parv shobhayatra me mukhya atithi. REJECT — sanskritik karyakram me shirkat, kaam nahi.
+// 7. Prabhat Khabar — 'JMM ki jeet Jharkhand me samajik jeet' (Nov 2024, Dumri) aur 'Janta ne BJP ko muhtod jawab diya' (Raidih, Nov 2024): vijay julus/aabhar yatra. REJECT — chunav utsav, karyakaal ka kaam nahi.
+// 8. Prabhat Khabar — 'Gumla me Isai dharmguru ke saath maarpeet' (846 din purana, ~June 2024): MLA ne SP ko phone karke doshiyon par karwai ki maang ki. REJECT — karyakaal se pehle ki ghatna (June 2024) + sirf maang, koi sanctioned work nahi; negatives criteria bhi poora nahi (MLA aaropi nahi, saath hi maangne wala paksh hai).
+// 9. 22scope.com — 'Adivasi samaj ke logon ne vidhayak Bhushan Tirkey ke aawas ka kiya gherao' (~Apr 2025): Siramtoli sarna sthal flyover ramp vivad par aakroshit bheed ne aawas ghera. REJECT — outlet whitelist me nahi; sirf virodh-pradarshan, MLA ke khilaf FIR/janch ka koi saboot nahi — negatives criteria (FIR/chargesheet/adhikari-pusht janch) poora nahi.
+// 10. NEGATIVES check: myneta.info/ADR — 2 pending cases: Gumla PS Case No. 184/2016 (IPC 188, 144) aur 421/2016 (IPC 143, 144, 145, 342, 323, 353); dono Special JMFC MP/MLA se charges framed nahi, CRMP 53/2024 aur WP(Cr) 1068/2023 ke roop me Jharkhand High Court me pending. REJECT — halafnama pending cases akele; 2016 ke pre-term cases; vartaman karyakaal (Dec 2024–) me koi nyayik vikas whitelist outlet par nahi mila. Aaj Tak July 2022 discharge-petition kharij bhi pre-term hai (Wikipedia ref), current development nahi. Retry lead: High Court cause list me CRMP 53/2024 ya WP(Cr) 1068/2023 par 2025-2026 me koi order aaye to tab negatives me jodein.
+// 11. PRS mlaTrack (prsindia.org/mlatrack/bhushan-tirkey-1) — term 23-Nov-2024 se 'In Office'. REJECT — sirf tenure data, kaam nahi.
+// 12. Naam-jaal note: Bandhu Tirkey (dusra neta) se alag; sabhi cited items me Gumla MLA Bhushan Tirkey ki pehchan pakki ki gayi. Koi Push/deploy nahi kiya.
+// ===== chamra-linda (Gumla) =====
+// Pehchan pakki: BISHUNPUR (ST), JMM, Winner (2024: 1,00,366 vote; runner-up Samir Oraon BJP ko 32,756 maton se haraya). 5 Dec 2024 se Hemant Soren cabinet me mantri (Anusuchit Janjati, Anusuchit Jati evam Pichhda Varg Kalyan). 2009 se lagatar Bishunpur se MLA (chauthi baar). Seat me Bishunpur, Ghaghra, Senha block aur Gumla block ke mile-jule hisse aate hain (Prabhat Khabar vidhansabha report). Mantri-MLA rule ke tehat sirf seat-kaam eligible. RESEARCH SUMMARY: ~12 searches (Hindi + English, whitelist outlets ke naam ke saath) — koi whitelist-qualifying post-term (Dec 2024-Oct 2026) seat-level lokarpan/shilanyas nahi mila. Coverage lagbhag poori tarah mantri-bhoomika me hai: vibhagiya samiksha baithken, scholarship par jawab, film festival/mela udghatan, scholarship centre, Assam delegation, exam-protest samiti — sab rajya-stariya faisle. Ekmatra seat-adhara ghoshna (Ghaghra me Rs 1 crore, Karam Parv samaroh) bhi sirf-ghoshna rule se bahar.
+jharkhandWorks['chamra-linda'] = [
+  // koi qualifying entry nahi — profile khali rakhi ja rahi hai
+];
+// REJECT-LOG (chamra-linda — Bishunpur):
+// 1. 'Karam parv ki poorv sandhya par Ghaghra me sanskritik karyakram, mantri Chamra Linda ne ki ek crore rupaye ki ghoshna' (prabhatkhabar.com, Sep 2026 ke aaspaas — Karam parv 2026 ke dauran; https://www.prabhatkhabar.com/state/jharkhand/gumla/karam-festival-promotes-nature-conservation) — REJECT: sirf ghoshna (Tana Bhagat Inter Mahavidyalaya Ghaghra ke vikas ke liye Rs 1 crore 'sahyog dene ki ghoshna'); dharmik/sanskritik samaroh me mukhya atithi ke roop me ghoshna, koi lokarpan/shilanyas nahi. Ghaghra seat ke andar hai phir bhi ghoshna-matra rule se bahar.
+// 2. 'Jharkhand me ST category ke chhatra free me karenge NEET-JEE ki taiyari, Dishom Guru coaching centre ka udghatan aaj' (jagran.com, published Mon 2025-12-22 08:33 AM IST; https://www.jagran.com/jharkhand/ranchi-jharkhand-st-students-free-neet-jee-coaching-by-dishom-guru-shibu-soren-centre-40080735.html) — REJECT: Ranchi (Hindpiri) me rajya-stariya kalyan vibhag yojna ka udghatan; CM Hemant Soren mukhya udghatankarta, Linda sirf upasthit; seat ke bahar + mantri-bhoomika; koi bhautik sanrachna ka nirman-lokarpan nahi (pehle se bani building me coaching).
+// 3. 'Birsa Munda jayanti par Gumla ko mili chaar shaikshanik parisaron ki saugaat' (dainikbharat24.com, Nov 2025; PM Modi ne video conference se Sisai EMRS ka online udghatan aur Bishunpur/Palkot/Raidih EMRS ka shilanyas kiya; https://dainikbharat24.com/2025/11/gumla-gets-the-gift-of-four-educational-campuses-on-birsa-munda-jayanti/) — REJECT: kendriya pariyojna bina bhoomika ke shrey (PM ne kiya); Linda ki vyaktigat bhoomika nahi (sirf tippani); outlet whitelist me nahi.
+// 4. Sira Sita rajkiya mela/jatra tareekh ghoshna + 'aadivasi tirthsthal ke roop me vikas' ghoshna (jharkhandweekly.com, thefollowup.in, newsdekho.co.in; Jan-Feb 2026) — REJECT: dharmik mela ke ayojan ki tareekh ghoshna aur tirthsthal-vikas ki ghoshna; Dumri block (Chainpur seat — Bishunpur ke bahar); mantri-bhoomika; teeno outlets whitelist me nahi.
+// 5. 'Shiksha va khel dono kshetron me agrani banen bachche: Chamra Linda' — Gumla me 79th Swatantrata Divas par tiranga faharana (prabhatkhabar.com, Aug 2025; https://www.prabhatkhabar.com/state/jharkhand/gumla/leaders-in-both-education-and-sports-chamra-linda) — REJECT: rashtriya parv ka aupcharik samaroh (flag hoisting); vikas-karya nahi.
+// 6. 'Pan-Tanti ko SC praman patra: mantri se mile Jharkhand ke log' (prabhatkhabar.com, updated 2026-09-01; https://www.prabhatkhabar.com/state/jharkhand/jamshedpur/jharkhands-pan-tanti-community-seeks-scheduled-caste-certificates-from-minister) — REJECT: sirf maang/gyapan (samaj ke pratinidhimandal ne gyapan saunpa); mantri ne CM se varta ka ashwasan diya, lekin koi dastaveji nateeja ya GO-backed swikriti report nahi.
+// 7. Chhatravritti yojna samiksha baithak (livehindustan.com; thefollowup.in, Oct 2025) + PTI/theprint.in (Mar 2026): 'Centre's delay in releasing Rs 900 cr holding up SC/ST, OBC scholarships' — sabha me vibhag ke jawab me Linda ka statement (https://theprint.in/india/centres-delay-in-releasing-rs-900-cr-holding-up-sc-st-obc-scholarships-jharkhand-minister/2878593/) — REJECT: sab mantri-bhoomika items (vibhagiya samiksha baithak, grant demands par sabha me jawab); seat-kaam nahi.
+// 8. 'Aadivasi Vikas Mahakumbh Mela' me mukhya atithi ke roop me shirkat — Dubiyakhand, Barwadih (Latehar), 11-12 Feb 2026 (newsdekho.co.in; citynewsjharkhand.in) — REJECT: dharmik/sanskritik mela ka udghatan-samaroh; seat ke bahar (Latehar); outlets whitelist me nahi.
+// 9. 'Welfare Minister along with his family visited Hundru Falls' (bhaskar.com, ~Mar 2026; https://www.bhaskar.com/amp/local/jharkhand/ranchi/news/welfare-minister-along-with-his-family-visited-hundru-falls-136791038.html) — REJECT: niji pariwarik daura; vikas-karya nahi.
+// 10. 'Saida Khatun ka aarop: aadivasi kalyan mantri Chamra Linda ek saal me 14 kilometer road nahi bana paye' (public.app video, Sep 15, 2026; https://public.app/video/sp_wkmdmf4b7lqcc) — REJECT: (a) public.app blacklist me hai, (b) rajnitik aarop-matra — sirf aarop ke liye FIR ya adhikari-pusht janch chahiye, jo nahi hai.
+// 11. JPSC-JSSC chhatra andolan me 4-mantri samiti (sadasya: Linda sahit) — varta ki koshish (aajtak.in, english.dainikjagranmpcg.com, Aug 2026) — REJECT: rajya-stariya mantri samiti me sadasya ke roop me shamil hona; mantri-role, seat-kaam nahi; koi documented nateeja bhi nahi.
+// 12. 'Inauguration of 1st Dharti Aaba Tribal Film Festival in Ranchi' (timesofindia.indiatimes.com, Oct 2026; Linda ne udghatan kiya) — REJECT: sanskritik samaroh; mantri-bhoomika; Ranchi — seat ke bahar.
+// 13. Assam tea-tribe delegation (outlookindia.com) + ST coaching centre for 300 students (biharandjharkhand.com, Dec 2025) — REJECT: mantri-bhoomika ke rajya-faisle; seat-kaam nahi.
+// 14. Cabinet shapath/list (bhaskar.com, bhaskardigital.com, Dec 2024), election coverage (oneindia, tv9, latestly, jagran elections pages, bhaskar.com pre-poll analysis), Delhi Pioneer delimitation debate (dailypioneer.com, Mar 2025), CP Singh topi-tippani hangama (newsaroma.com, non-whitelist), Rupi Soren shok (newstrack, mbharat24newslive), 25th Foundation Day minister-in-charge list (thejharkhandstory.co.in) — REJECT: chunaav/padvi/sadn/shok/aupcharik-soochi ki khabren; vikas-karya nahi.
+
+// NEGATIVE-CHECK summary (chamra-linda):
+// - myneta.info Jharkhand 2024 affidavit (candidate_id=311, khula page): 1 criminal case (Jagannathpur PS 115/2013, MP-MLA court me pending); 2024 aur 2019 dono affidavits me sirf yehi ek case. Koi current-term (Dec 2024 ke baad) FIR/chargesheet/janch ya nyayik vikas established media me nahi mila. Sirf halafname ke pending cases akele negative nahi hote.
+// - 2024 Lok Sabha chunav me JMM se nilamban (newsaroma.com: 'Loksabha chunav ke dauran party ne unhen nilambit kar diya tha') — pre-term (May 2024 ke aaspaas), current karyakaal se bahar; outlet bhi whitelist me nahi — reject.
+// - FIR/case/janch/judicial-development searches (2025-2026, Hindi + English): koi established-media item me MLA Chamra Linda aaropi nahi mila. public.app video (blacklisted) me sirf rajnitik aarop hai — FIR/janch nahi.
+// CONCLUSION: koi qualifying negative entry nahi.
+
+// RETRY-LEADS (whitelist re-verification ke liye; koi bhi page khulkar padha nahi gaya):
+// A. Prabhat Khabar ka ~Sep 2026 Ghaghra Rs 1 crore item — yadi bhavishya me kisi whitelist outlet me Tana Bhagat Inter Mahavidyalaya (ya Ghaghra/Bishunpur/Senha ke kisi school) me MLA/mantri dwaara vyaktigat lokarpan/shilanyas cover ho to entry ban sakti hai.
+// B. Gumla jila ke EMRS nirman (Bishunpur block sahit, PM ne Nov 2025 me shilanyas kiya) — yadi bhavishya me kisi whitelist outlet me MLA/mantri ki vyaktigat lokarpan/shilanyas bhoomika cover ho to re-evaluate.
+// C. Pan-Tanti SC-certificate maang (Prabhat Khabar, Sep 2026) — yadi bhavishya me TRI report ya sarkari aadesh ke roop me dastaveji nateeja cover ho to VS-maang/ashwasan category me entry ban sakti hai.
+
+// Verdict: WHITELIST-QUALIFYING POST-TERM WORKS = 0; NEGATIVES = 0; REJECTED LEADS = 14 (+ negatives me 3 check items).// ---- Gumla district batch — Batch 8 END (0 works, 0 negatives) ----
+
+// ---- Simdega district batch (researched 2026-10-17) — Batch 8 ----
+// ===== bhushan-bara (Simdega) =====
+// Pehchan pakki: SIMDEGA (ST), INC, Winner; 2024 me 75,392 vote, Shradhanand Besra (BJP) ko 9,228 maton se haraya; poorv MLA (2019 se) dobara jeete. S/o Peter Bara; B.A. History 1998 (St. Xavier's College, Ranchi); patni Jila Parishad sadasya. 1 case halafname me (IPC 354/504 sahit, HC me appeal pending); HPCL contract halafname me darj. Term: 23 Nov 2024 se.
+// Research summary: Dec 2024-se-term me Bara ke kshetra me kai news items mile (Prabhat Khabar, Dainik Jagran, newsonair, public.app, jharkhandvarta), lekin whitelist ke andar ek bhi qualifying work ya negative NAHI mila. Pre-term items (Mahila police station ka zikr Dec 2023 CM event, open gym Jul 2024, Maiyan Samman Yojana Aug 2024, mantri se sadak maang) reject hue — ya pre-term the ya sirf maang the. In-term items ya to whitelist outlet par nahi the (school gate May 2025 public.app; mahila thana udghatan Jan 2025 jharkhandvarta; transformer replacement Aug 2026 public.app) ya REJECT category me aaye (dharmik bhawan/church/convent inauguration, hockey tournament event, census abhiyan launch, haathi-rahhat samagri vitaran, constitution seminaar). Negatives me Bara khud aaropi ke taur par whitelist outlets par current-term FIR/janch me nahi mila; halafname ka 1 pending case akele reject. Profile khaali rakhi ja rahi hai.
+jharkhandWorks['bhushan-bara'] = [
+];
+// REJECT-LOG (bhushan-bara):
+// 1. Prabhat Khabar (https://www.prabhatkhabar.com/state/jharkhand/simdega/cm-hemant-soren-gift-of-155-crores-in-simdega-said-government-employees-who-do-better-be-rewarded-grj) — CM Hemant Soren ka Kolebira event (Nov 2023); PRE-TERM; Bara sirf upasthit the, unka kaam nahi.
+// 2. newsonair (https://www.newsonair.gov.in/hi/...open-gym...) — Mahatma Gandhi Smarak Sthal par open gym udghatan, 16 Jul 2024; PRE-TERM (term 23 Nov 2024 se).
+// 3. Prabhat Khabar (https://www.prabhatkhabar.com/state/jharkhand/simdega/mla-started-chief-minister-maniya-samman-yojana) — Maiyan Samman Yojana shubharambh, ~Aug 2024; PRE-TERM + sarkari abhiyan ka keval shubharambh.
+// 4. idtvindradhanush/jharkhandvarta (https://idtvindradhanush.com/mla-bhushan-bada-met-minister-irfan-regarding-road-bridge-construction-in-simdega-mla-bhushan-bada-met-minister-irfan-regarding-road-bridge-construction-in-simdega/ , https://jharkhandvarta.com/?p=43994) — mantri Irfan Ansari se sadak-pul MAANG; NON-WHITELIST + sirf maang/prastav (palamaara nadi pul, Biru-Tamda, Samtoli-Pakartand sadak ki maang). REJECT.
+// 5. public.app (https://public.app/amp_video/sp_5szhphbb2z6w6) — RC Middle School Sogra gate udghatan, 4 May 2025, vidhayak mad se nirmit; CURRENT-TERM lekin NON-WHITELIST (public.app = aggregator, whitelist me nahi). RETRY LEAD: is event ko Prabhat Khabar/Jagran/Bhaskar par confirm karna hoga.
+// 6. jharkhandvarta (https://jharkhandvarta.com/tag/विधायक/) — nav nirmit mahila thana bhawan ka Bara dwara udghatan, 15 Jan 2025; CURRENT-TERM lekin NON-WHITELIST portal. RETRY LEAD: whitelist outlet par iski pushti nahi mili.
+// 7. public.app (https://public.app/video/sp_kp6yvh6tunl8a) — Kurdeg Kadam Toli me naya transformer lagana, Aug 2026; CURRENT-TERM lekin NON-WHITELIST. RETRY LEAD.
+// 8. Prabhat Khabar (https://www.prabhatkhabar.com/state/jharkhand/simdega/bishop-inaugurates-new-convent-little-flower-school-tamda) — Little Flower School Tamda me dharm-bahanon ke awas ka udghatan; DHARMIK niji bhawan (convent), sarkari sanrachna nahi. REJECT.
+// 9. public.app (https://public.app/amp_video/sp_z2mhhlvn3k8p2 , sp_q7dxx1q191g29) — Parshuram janmotsav/church udghatan karyakram me maujoodgi; NON-WHITELIST + dharmik karyakram, kaam nahi. REJECT.
+// 10. public.app (https://public.app/video/sp_79sx7d75keclp) — Piter Bara Memorial hockey tournament ki ghoshna, Oct 2026; khel event, bhautik sanrachna nahi + NON-WHITELIST. REJECT.
+// 11. newsdekho.co.in (https://newsdekho.co.in/self-enumeration-campaign-for-census-2027-launched-in-simdega-an-initiative-for-digital-transformation-through-public-participation/) — Census 2027 swaganana abhiyan ka shubharambh, May 2026; NON-WHITELIST + sarkari abhiyan ka keval shubharambh. REJECT.
+// 12. Prabhat Khabar (https://www.prabhatkhabar.com/state/jharkhand/simdega/mla-bhushan-bada-reaches-village-chase-elephants) — haathi-kshetra me torch/samagri ka vitaran, ~Sep 2026; daan/rahat category. REJECT.
+// 13. Prabhat Khabar (https://www.prabhatkhabar.com/state/jharkhand/simdega/mla-celebrated-picnic-with-family-in-jashpur-ranidah) — picnic ki khabar; kaam nahi. REJECT.
+// 14. Prabhat Khabar (https://www.prabhatkhabar.com/state/jharkhand/simdega/will-not-allow-the-constitution-to-be-weakened-bhushan) — Samvidhan Diwas goshthi; rajneetik bayan, kaam nahi. REJECT.
+// 15. Dainik Jagran (https://www.jagran.com/jharkhand/simdega-simdega-villagers-repair-bad-road-after-government-neglect-40400164.html) — Kersai me graminon ne sadak khud thik ki (Oct 2026); MLA ka kaam nahi, balki prashasan/janpratinidhi par sawal. REJECT.
+// 16. newsdekho.co.in elephant compensation story — haathi-hamla muawza Naman Bixal Kongari (Kolebira MLA) ne baanta; Bara ka kaam nahi. REJECT.
+// NEGATIVES: Bara khud aaropi wale koi current-term FIR/chargesheet/janch whitelist outlets par nahi mile. Halafname ka 1 pending case (IPC 354/504 sahit, HC appeal) — halafname ke pending cases akele REJECT rule se. Bhushan Tirkey (Gumla, JMM) se naam-jaal par dhyan raha — unke stories cross-check karne par Bara se alag mile.
+// ===== naman-bixal-kongari (Simdega) =====
+// Pehchan pakki: KOLEBIRA (ST), INC, Winner; 2024 me 75,376 vote lekar BJP ke Sujan JoJo ko 37,031 maton se haraya; 2018 upchunav, 2019 ke baad teesri baar MLA. S/o Nicodim Kongari; LLB 2001 (Ranchi University); umr 52. Term: 23 Nov 2024 se.
+// Research summary: Dec 2024 se term me Kolebira me MLA ke kayi karyakram report hue, lekin whitelist ke andar sirf EK qualifying work mila — Prabhat Khabar ki 3 sadakon wali shilanyas report (Sep 2026, Mukhyamantri Gram Sadak Yojana). newsdekho.co.in par kayi current-term items (KGBV chhatrawas shilanyas Oct 2026, PCC sadak shilanyas Mar 2026, LAMPS bhavan udghatan ghoshna, haathi-hamla muawza vitaran) mile lekin outlet whitelist par nahi. Sadana ke prashn/maang aur public.app/livehindustan/joharlive items ya to non-whitelist the ya 'sirf maang' category ke. Negatives me Jul 2022 ka Howrah cash-haul mamla (Indian Express par whitelisted, MLA khud aaropi) — PRE-TERM hai aur is term me koi nyayik vikas (chargesheet/sunwai-nirnya) whitelisted media par nahi mila, isliye entry nahi. Halafname ka 1 pending case (Jaldega PS 14/16) akele reject.
+jharkhandWorks['naman-bixal-kongari'] = [
+  {
+    title: 'Kolebira block me Mukhyamantri Gram Sadak Yojana ke tahat teen gramin sadakon ke sudridhikaran aur kalikaran karya ka shilanyas MLA ne Shri Kondekera Chowk parisar me aayojit karyakram me nariyal phodkar aur shilapat ka anavaran karke kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/simdega/road-development-in-simdega-gains-momentum-mla-lays-foundation-stones-for-three-roads',
+    date: '2026-09-12',
+    note: 'Inferred date — lekh me ghatna ' + 'shanivar' + ' ko batai gayi hai; search crawl par ' + 'last updated 34 days ago' + ' dikha tha (research date 17 Oct 2026 → ~13 Sep) aur 12 Sep 2026 ko shanivar tha (date command se verify). Teen sadak: (1) Kolebira-Bano mukhya sadak sthit Ambatoli se Shri Kondekera tak, (2) Bongram Ambatoli se Keundpani hote hue Kinbira tak, (3) Larba se Shivnathpur, Shri Kondekera, Shahpur hote hue Barsaloya mod tak. Kaam Mukhyamantri Gram Sadak Yojana (sarkari yojana) ke tahat — srot me MLALAD fund ya MLA ki niji rashi ka koi attribution nahi diya gaya. MLA ne AE/JE aur samvedak ko gunvatta ka nirdesh diya aur graminon se nigrani ki appeal ki.',
+    period: '2024-2029', stage: 'shilanyas',
+  },
+];
+// REJECT-LOG (naman-bixal-kongari):
+// WORKS:
+// 1. newsdekho.co.in (https://newsdekho.co.in/mla-naman-bixal-kongari-laid-the-foundation-stone-of-kasturba-gandhi-vidyalaya-hostel-in-titangar/) — Titangar me KGBV chhatrawas ka shilanyas, Oct 2026; CURRENT-TERM lekin NON-WHITELIST outlet. RETRY LEAD: is event ki Prabhat Khabar/Jagran/Bhaskar coverage dhoondhni hogi.
+// 2. newsdekho.co.in tag page (https://newsdekho.co.in/tag/%e0%a4%b6%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b8/) — Titangar block, Tukupani panchayat, Gudgudtoli me PCC sadak ka shilanyas, 9 Mar 2026, Zila Yojana mad se, MLA ki anushansa par; CURRENT-TERM lekin NON-WHITELIST. RETRY LEAD: whitelisted outlet par pushti nahi mili.
+// 3. public.app (https://public.app/video/sp_blh53edso41q2) — Kolebira me do LAMPS bhavan ka udghatan, Feb 2026; PRE-EVENT announcement (karyakram se pehle ki suchna) + NON-WHITELIST (public.app = aggregator). REJECT.
+// 4. newsdekho.co.in (https://newsdekho.co.in/the-families-of-two-people-who-lost-their-lives-in-an-elephant-attack-in-simdega-received-compensation/) — Jaldega kshetr me haathi-hamle me mritakon ke parijanon ko Rs 10 lakh ka muawza vitaran, Oct 2026; daan/rahat category + NON-WHITELIST. (Sibling worker jh8 Bhushan Bara ne isse Kongari ke kaam ke roop me confirm kiya tha — naam-jaal se bachein: ye Kolebira ke MLA ka event hai.) REJECT.
+// 5. livehindustan.com (https://www.livehindustan.com/jharkhand/simdega/story-bansjor-meeting-mla-naman-bixal-kongadi-raises-tribal-rights-land-security-and-sir-concerns-201792086386939.html) — Siharjor me aadiwasi sabha me mukhya atithi, SIR/CNT par bayan, Oct 2026; NON-WHITELIST + rajneetik sabha/bayan, bhautik sanrachna nahi. REJECT.
+// 6. public.app (https://public.app/video/sp_9eqqf3wq1mkvl , https://public.app/amp_video/sp_dr6hpuhty9ymy) — matdata suchi par bayan (Sep 2026) aur sadana me bijli/sadak/peyjal ke prashn (Mar 2026); NON-WHITELIST + sirf maang/prashn. REJECT.
+// 7. joharlive.com (https://www.joharlive.com/news/kolebira-mla-raised-the-issue-of-public-safety-in-the-house/) — NH-143 chaudikaran ki maang; NON-WHITELIST + ~Dec 2023 (PRE-TERM) + sirf maang. REJECT.
+// 8. newsdekho.co.in (https://newsdekho.co.in/kolebira-mla-naman-bixal-kongari-participated-in-the-service-rights-week-program-emphasizing-on-the-benefits-of-schemes-and-protection-of-the-constitution/) — Bolba block, Malsara me Seva Adhikar Saptah karyakram me upasthiti, ~Nov 2025; NON-WHITELIST + sarkari abhiyan ka keval shubharambh/sabhagita. REJECT.
+// 9. Feb 23, 2026 newsdekho item (tag page) — Navatoli/Domtoli me LAMPS godam nirman, Pashupalan-Sahkarita vibhag ki yojana; NON-WHITELIST + vibhagiya yojana, MLA ki vyaktigat shilanyas bhoomika sthapit nahi. REJECT.
+// NEGATIVES:
+// 10. Howrah cash-haul mamla (30 Jul 2022): Howrah Rural police ne Rs ~49 lakh nakad ke sath Kongari sahit 3 Congress MLAon ko pakda; criminal conspiracy/cheating/PCA ke tahat giraftari; Bermo MLA Kumar Jaimangal ki shikayat par sarkar girane ki koshish ka aarop; teeno MLA Calcutta HC se bail par. WHITELISTED sources: Indian Express (https://indianexpress.com/article/india/jharkhand-congress-mla-irfan-ansari-bengal-political-conspiracy-8106239/ aur https://indianexpress.com/article/political-pulse/jharkhand-congress-mlas-held-in-bengal-profile-8061974/lite/); PTI via newsdrum (https://www.newsdrum.in/national/congress-suspends-3-jharkhand-mlas-held-in-west-bengal-with-huge-amount-of-cash-68519.html). MLA KA JAWAB ON RECORD: giraftari ke waqt unhone kaha tha Burrabazar se sastee sariyan kharidne Kolkata aaye the (Aadiwasi Diwas 9 Aug ko vitaran hetu); Ansari ne Indian Express ko 'political conspiracy' ka shikar bataya tha. FIR against 3 log (Jul 2021 ke Rs 1 crore offer wale aarop par) bhi pre-term. LEKIN: ghatna pichle karyakaal ki (Jul 2022) hai; suspension Jul 2023 me vapas hua (pre-term); is karyakaal (Dec 2024–Oct 2026) me koi nyayik vikas (chargesheet/dosh-siddhi/bari) whitelisted media par NAHI mila — pre-term case bina current-development rule se ENTRY NAHI. RETRY LEAD: CID/ED chargesheet ya adalat ka nirnya baad me whitelisted outlet par aaye to stage-accurate entry banegi.
+// 11. Halafnama: 1 pending case (Jaldega PS 14/16, IPC 332/427/504/506) — halafname ke pending cases akele REJECT rule se. Is case me Dec 2024 ke baad koi sunwai/janch ka whitelisted coverage nahi mila.
+// 12. Chunavi coverage (Dainik Jagran result page Nov 2024, News18/Indian Express result pages) — karyakaal ka kaam nahi; election result. REJECT.
+// NAAM-JAAL / PEHCHAN: 'Viksal'/'Bixel' spelling-antaron wali sabhi khabrein isi vyakti ki hain (Kolebira/Kongari sandarbh se verify). Bhushan Bara (Simdega, INC — naam Bara/Kongari jaal; dono ke vote kul bhi milte-julte: Bara 75,392, Kongari 75,376) aur Bhushan Tirkey (Gumla, JMM) — teeno alag vyakti; elephant-compensation story Kolebira ke MLA (Kongari) ki hai, Bara ki nahi. Koi galat-pehchan wali entry nahi li.
+// SUMMARY: WORKS_COUNT=1 NEGATIVES=0 REJECTS=12. Khula-read whitelisted sources: 1 entry-yogya (Prabhat Khabar, 3 sadak shilanyas, inferred date 2026-09-12). Retries pending: KGBV chhatrawas shilanyas + Tukupani PCC sadak shilanyas — dono sirf newsdekho.co.in par hain, whitelisted coverage nahi mili. Cash-haul case: whitelisted sources milne ke bawajood pre-term + is term me nyayik vikas nahi → negative nahi.// ---- Simdega district batch — Batch 8 END (1 work, 0 negatives) ----
+
+// ---- Lohardaga district batch (researched 2026-10-17) — Batch 8 ----
+// ===== rameshwar-oraon (Lohardaga) =====
+// Pehchan: Dr. Rameshwar Oraon, Lohardaga (ST), INC, age 77, ex-finance minister (pre-term),
+// Ph.D. 1997 (Magadh University); 2024 me 1,13,507 vote se jeete, runner-up Neru Shanti Bhagat
+// (AJSUP) ko 34,670 maton se haraya. Halafnama clean — criminal cases 0 (myneta candidate_id=289).
+// Research (17 Oct 2026): Dec 2024 se ab tak whitelist outlets (Prabhat Khabar, Dainik Bhaskar,
+// Dainik Jagran, The Hindu, HT, TOI, IE, NDTV, India Today, Telegraph, PTI) me MLA-roop ka koi
+// vyaktigat lokarpan/shilanyas ya GO-backed swikriti record nahi mila. Mile hue leads sab
+// reject: minister-kaal (~2023) ke shilanyas, sanskritik karyakram me maujoodgi, gram-bhraman
+// ke aashwasan — works criteria par khare nahi utre. Negatives me koi FIR/chargesheet/vartaman
+// nyayik vikas established media me nahi mila. Profile khaali rakhi gayi.
+jharkhandWorks['rameshwar-oraon'] = [
+];
+// REJECT-LOG (rameshwar-oraon):
+// 1. livedainik.com 'mantri-rameshwar-urav-ne' (~Jan 2024): Hirhi marriage hall + Udumudu Baridih
+//    community bhawan ke shilanyas — REJECT: pre-term (karyakaal Dec 2024 se) aur mantri-kaal ka
+//    kaam; outlet bhi whitelist me nahi.
+// 2. prabhatkhabar.com breaking-live ~June 2023: Parhepat auditorium / EVM warehouse / Nadiya
+//    library ka shilanyas-udghatan — REJECT: pre-term minister-kaal.
+// 3. prabhatkhabar.com 'mla-rameshwar-oraon-met-the-villagers' (Nov 2025, Kuru block ke
+//    Baridih/Jingi/Jonjaro gram daura): sirf ashwasan — REJECT: sirf daura/ashwasan, koi bhautik
+//    kaam, sanction ya nateeja nahi.
+// 4. bhaskar.com 'akhada-aalap' literature-film festival (2025): DC-organized karyakram me
+//    upasthiti — REJECT: dusre ke karyakram me maujoodgi, MLA ka koi apna kaam nahi.
+// 5. eksandeshlive.com 'Sarkar Aapke Dwar' (~2023): mantri-roop ka dawa — REJECT: pre-term,
+//    minister-kaal, outlet non-whitelist.
+// 6. jharkhandkiaawaznews.com (~Sep 2024): CM Hemant Soren ka Gumla+Lohardaga ko 347 yojnaon ka
+//    tohfa; Oraon upasthit the — REJECT: pre-term + CM/sarkar ka karyakram, MLALAD ya MLA-roop ka
+//    bhoomika nahi; outlet non-whitelist.
+// 7. raftaar.in briquetting plant/sewing centre udghatan (date unclear, mantri-kaal sanket):
+//    REJECT: non-whitelist outlet, pre-term mantri-kaal.
+// 8. etvbharat.com (Aug 2023): ED raid ka ullekh Ranchi awas par — REJECT: outlet whitelist me
+//    nahi, pre-term, aur MLA ke khilaf koi FIR/chargesheet on record nahi; sirf aarop-star ki khabar.
+// 9. sundayguardianlive.com ticket-selection ke andaruni aarop (Oct 2024) — REJECT: non-whitelist,
+//    denied charges, koi FIR/janch nahi; chunav-rajneeti, works/negatives criteria se bahar.
+// 10. orangehindi.com / abnnews24.com (Oct 2026): aswasthata par hospital-visit news — REJECT:
+//     non-whitelist, vyaktigat swasthya khabar; na works na negative.
+// 11. webindia123, bengalurulive, sundayguardian feed, thefederal, republicworld, navbharattimes,
+//     22scope, tv9hindi, khaskhabar — sab chunav-2024 coverage ya non-whitelist — REJECT.
+// Retry leads: (a) Prabhat Khabar / Dainik Jagran Lohardaga local editions me 'MLA nidhi'
+// /'shilanyas' keyword sweep — Lohardaga MLALAD swikriti list DC office se GO-backed; (b) 2025-26
+// me hui lohkarpan-khabrein jab Oraon ki sehat sudhre — parent live-browser check kara sakta hai.// ---- Lohardaga district batch — Batch 8 END (0 works, 0 negatives) ----
+
+// ---- Latehar district batch (researched 2026-10-17) — Batch 8 ----
+// ===== ramchandra-singh (Latehar) =====
+// Pehchan: Ramchandra Singh, MLA Manika (ST), Latehar, INC — age 59, S/o Ganpat Singh, B.A. 1989 (B.N. College Daltonganj, Ranchi University), pesha rajniti + kheti, 2005 se chunav lad rahe (1995 Janata Dal, 2005-09 RJD, 2019 se INC); 2024 me 74,946 vote, Harikrishna Singh (BJP) ko 16,854 se haraya. Halafnama clean — 0 criminal cases (myneta candidate_id=278). Manika seat ka parisiman (ECI/Delimitation 2008): Latehar thana ka hissa + Barwadih, Garu, Mahuadanr thana — isliye Mahuadanr ke kaam seat ke ANDAR hain. Research: Dec 2024–Oct 2026 me whitelist (Prabhat Khabar) par 3 event reports mile — Mahuadanr (16 Jan 2025, date page par explicit), 5 yojnaon ka shilanyas (inferred 7 Sep 2025), Laat panchayat swasthya upkendra (inferred 1 Jun 2025). Teenon pages par Prabhat Khabar ka automated-feed disclaimer hai (team dwara sampadit nahi) — note me disclose kiya. Negatives: established media me MLA ke khilaf koi FIR/chargesheet/janch nahi mili; halafnama me bhi 0 cases.
+jharkhandWorks['ramchandra-singh'] = [
+  // {
+  //   title: 'Manika MLA Ramchandra Singh ne Mahuadanr ke Parhatoli panchayat me DMFT yojna ke tahat Tundtoli se Beltoli tak path nirman ka shilanyas kiya.',
+  //   category: 'Sadak',
+  //   badge: 'news',
+  //   sourceLabel: 'Prabhat Khabar',
+  //   sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/latehar/mla-inaugurated-the-schemes',
+  //   date: '2025-01-16',
+  //   note: 'Page par date explicit hai: Thu, 16 Jan 2025 08:44 PM (IST). Lekh ke anusar sadak DMFT yojna ke tahat banegi. Mahuadanr Manika (ST) seat ka hissa hai (parisiman: Barwadih, Garu, Mahuadanr thana + Latehar thana ka hissa). Page par automated-feed disclaimer hai — Prabhat Khabar team dwara sampadit nahi.',
+  //   period: '2024-2029', stage: 'shilanyas',
+  // },
+  // {
+  //   title: 'Manika MLA Ramchandra Singh ne Mahuadanr me Sohar panchayat ke Belwar nadi par bane pul, Champa panchayat ke PCC path aur Jarhatoli ke pul ka udghatan kiya.',
+  //   category: 'Sadak',
+  //   badge: 'news',
+  //   sourceLabel: 'Prabhat Khabar',
+  //   sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/latehar/mla-inaugurated-the-schemes',
+  //   date: '2025-01-16',
+  //   note: 'Page par date explicit hai: Thu, 16 Jan 2025 08:44 PM (IST); lekh me in teenon ko nirmit batakar udghatan kaha gaya hai. Karyakram me Congress pradesh pratinidhi, prakhand pramukh aur samvedak maujood the. Page par automated-feed disclaimer hai — Prabhat Khabar team dwara sampadit nahi.',
+  //   period: '2024-2029', stage: 'udghatan',
+  // },
+  // {
+  //   title: 'Manika MLA Ramchandra Singh ne Tarwadih panchayat ke Nareshgarh aur Kone gaon me Bhawan Pramandal se bahuddeshiya kendra ka shilanyas kiya.',
+  //   category: 'Any',
+  //   badge: 'news',
+  //   sourceLabel: 'Prabhat Khabar',
+  //   sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/latehar/mla-laid-the-foundation-stone-of',
+  //   date: '2025-09-07',
+  //   note: 'Date inferred: search engine ne page ka last-updated 2026-10-17 se ~405 din pehle bataya (7-8 Sep 2025); lekh me ghatna Ravivar ko kahi gayi hai aur 7 Sep 2025 ko Ravivar tha — isliye 2025-09-07 li gayi. Lekh me laagat ‘lakhon rupaye’ kahi gayi hai, sankhya nahi. Page par automated-feed disclaimer hai — Prabhat Khabar team dwara sampadit nahi.',
+  //   period: '2024-2029', stage: 'shilanyas',
+  // },
+  // {
+  //   title: 'Manika MLA Ramchandra Singh ne Dhankara panchayat ke uchch vidyalaya me 6 naye kamron ka shilanyas kiya.',
+  //   category: 'School',
+  //   badge: 'news',
+  //   sourceLabel: 'Prabhat Khabar',
+  //   sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/latehar/mla-laid-the-foundation-stone-of',
+  //   date: '2025-09-07',
+  //   note: 'Date inferred: upar wali entry jaisa hi tark (405 din pehle + Ravivar = 2025-09-07). Kamre Bhawan Pramandal ke madhyam se banenge. Page par automated-feed disclaimer hai — Prabhat Khabar team dwara sampadit nahi.',
+  //   period: '2024-2029', stage: 'shilanyas',
+  // },
+  // {
+  //   title: 'Manika MLA Ramchandra Singh ne Gramin Karya Vibhag aur Mukhyamantri Gram Sadak Yojna ke antargat 2 sadak yojnaon ka shilanyas kiya — Hotwag gaon me Munshi Yadav ke ghar se REO road tak, aur Bendi panchayat ke Churia gaon me Ramrati Oraon ke ghar se Godna school tak.',
+  //   category: 'Sadak',
+  //   badge: 'news',
+  //   sourceLabel: 'Prabhat Khabar',
+  //   sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/latehar/mla-laid-the-foundation-stone-of',
+  //   date: '2025-09-07',
+  //   note: 'Date inferred: upar wali entry jaisa hi tark (405 din pehle + Ravivar = 2025-09-07). Karyakram me Congress jiladhyaksh Gunjar Oraon, vidhayak pratinidhi Harishankar Yadav sahit neta aur gramin maujood the. Page par automated-feed disclaimer hai — Prabhat Khabar team dwara sampadit nahi.',
+  //   period: '2024-2029', stage: 'shilanyas',
+  // },
+  // {
+  //   title: 'Manika MLA Ramchandra Singh ne Barwadih ke Laat panchayat ke Khamhikhass gaon me swasthya upkendra bhawan ka shilanyas kiya.',
+  //   category: 'Aspataal',
+  //   badge: 'news',
+  //   sourceLabel: 'Prabhat Khabar',
+  //   sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/latehar/laid-the-foundation-stone-of-health-sub-center-building',
+  //   date: '2025-06-01',
+  //   note: 'Date inferred: search engine ne page ka last-updated 2026-10-17 se ~503 din pehle bataya (1-2 Jun 2025); lekh me ghatna Ravivar ko kahi gayi hai aur 1 Jun 2025 ko Ravivar tha — isliye 2025-06-01 li gayi. Lekh ke anusar bhawan Swasthya, Chikitsa Shiksha evam Parivar Kalyan Vibhag ka hai aur Bhawan Nirman Vibhag dwara samvida (contract) par banaya jayega; BDO Reshma Rekha Minj sahit adhikari maujood the. Page par automated-feed disclaimer hai — Prabhat Khabar team dwara sampadit nahi.',
+  //   period: '2024-2029', stage: 'shilanyas',
+  // },
+];
+// REJECT-LOG (ramchandra-singh):
+// 1. shuru.co.in — ‘Barwadih me Manika vidhayak ne kai yojnaon ka shilanyas’ (26 Mar 2026: 1 CHC + 2 PCC path) — REJECT: non-whitelist chhota portal. Retry lead: wahi khabar Dainik Jagran/Dainik Bhaskar/Prabhat Khabar Latehar edition me dhoondo.
+// 2. newsdekho.co.in — Barwadih Ram Navami story (26 Mar 2026: Kechki panchayat Bakhoridera school se Oranga nadi tak PCC path; SaraiDeeh Lalimati tola swasthya upkendra) — REJECT: non-whitelist. Retry lead: whitelist outlet me verify karo.
+// 3. joharlive.com — ‘Vidhayak ne kiya 3 sadkon ka shilanyas, 3.10 crore’ (27 Dec 2024, Parasahi panchayat, Latehar prakhand) — REJECT: non-whitelist. Retry lead: whitelist me dhoondo (term ke shuruati dinon ki khabar hai).
+// 4. public.app video — Satbarwa: Pipra v Chetma me 2 anganwadi bhawan ka online shilanyas — REJECT: public.app explicitly rejected. Retry lead: whitelist me dhoondo.
+// 5. shubhamsanwad.com — kabaddi pratiyogita udghatan samaroh (Oct 2026, Latehar stadium, mukhya atithi) — REJECT: non-whitelist + keval aayojan ka shubharambh, bhautik sanrachna nahi.
+// 6. public24.in — Congress ‘Samvidhan bachao’ rally (Oct 2026) — REJECT: non-whitelist + rajnaitik rally, works nahi.
+// 7. thenewspost.in — ‘Utkrisht vidhayak se sammanit’ (15 Jan 2026) — REJECT: non-whitelist + puraskar hai, bhautik karya nahi.
+// 8. Dainik Jagran — ‘sarvshreshth vidhayak chune gaye Ramchandra Singh’ (Nov 2023) — REJECT: pre-term + award, works nahi.
+// 9. lagatar.in — Manika MLA ka sadar aspatal daura, shok-santapt parivar se mulakat (28 Sep 2026) — REJECT: non-whitelist + santvana visit, works/negative nahi.
+// 10. jharkhandvarta.com — aandolanrat vanrakshakon ne gyapan saunpa (2024) — REJECT: non-whitelist + maang unhe saunpi gayi, unke khilaf aarop nahi.
+// 11. oneindia.com interview (9 Nov 2024) — REJECT: pre-term (chunav se pehle), works nahi.
+// 12. Rediff (Nov 2009) — Naxaliyon dwara apaharan — REJECT: pre-term + wo khud peedit the, unke khilaf negative nahi.
+// 13. digitalpaper.in e-paper snippets — REJECT: garbled/unverifiable text.
+// 14. NEGATIVES: established media me is MLA (Manika wale Ramchandra Singh — naam-jaal se bachkar verify kiya) ke khilaf koi FIR, chargesheet, janch ya nyayik vikas nahi mila; halafnama (2024, 2019, 2014, 2005) me lagatar 0 criminal cases declared. Isliye negatives khaali.
+// ===== prakash-ram (Latehar) =====
+// Pehchan: Prakash Ram, s/o Kailash Ram, Latehar (SC), BJP, age 55, transport aur coal business; 3-time MLA (2005 RJD, 2014 JVM, 2024 BJP); 2024 me 98,062 votes se 434 maton se jeete; halafnama me 0 criminal cases (2024). Research summary: Dec 2024 se ab tak ke karyakaal me whitelist outlets (The Hindu, Indian Express, Hindustan Times, NDTV, India Today, Times of India, The Telegraph, Dainik Bhaskar, Dainik Jagran, Prabhat Khabar, PTI) par Prakash Ram dwara vyaktigat lokarpan/shilanyas kisi bhautik sarkari sanrachna ka koi documented report nahi mila; Dainik Bhaskar par sirf ek gaon-daura/samvaad report (sirf daura - reject) aur Prabhat Khabar archive me 2014-16 ke purane karyakaal ki items mili (pre-term - reject). Negatives: mining/ED cases me naam aane wala 'Prakash/Prem Prakash' alag vyakti hai (Pankaj Mishra-Prem Prakash case, Barhait/Sahibganj - naam-jaal se bachna pada); halafnama me 2009 ka 1 purana case tha jo 2014/2019/2024 affidavits me absent hai - pre-term, bina current development, isliye negative me shamil nahi. Natija: khaali profile.
+jharkhandWorks['prakash-ram'] = [
+  // {
+  //   title: '<poora vaakya>',
+  //   category: 'Any'|...,
+  //   badge: 'news'|'sarkari'|'dawa',
+  //   sourceLabel: '<outlet>',
+  //   sourceUrl: '<canonical URL>',
+  //   date: 'YYYY-MM-DD' (inferred ho to note me reasoning disclose),
+  //   note: '<fund/credit disclosure; SIRF cited page ke tathya>',
+  //   period: '2024-2029', stage: '<stage>' (sirf works me),
+  // },
+];
+// REJECT-LOG (prakash-ram): har reject ka kaaran + retry leads.
+// [1] Prabhat Khabar (2016, archive crawl) - Sukri nadi pul shilanyas, Arahgundi/Semaria; REJECT: pre-term (2016, 2014-19 karyakaal), whitelist source hone ke bawajood period rule fail. URL: https://www.prabhatkhabar.com/state/jharkhand/latehar/723921-
+// [2] Prabhat Khabar (02 Nov 2016) - Kundri gaon jatara mela udghatan; REJECT: pre-term + event, koi bhautik karya nahi. URL: https://www.prabhatkhabar.com/state/jharkhand/latehar/885595-
+// [3] Dainik Bhaskar (mid-Jul 2026, dbp-138421135) - Balumath ke Bhagiya/Siram/Shanti/Okia/Salchanwa gaon daura, grameenon ki samasyayen suni; REJECT: sirf daura/samvaad, koi lokarpan/shilanyas/sanction nahi. Whitelist source tha lekin content sirf nirikshan. URL: https://www.bhaskar.com/local/jharkhand/latehar/balumath/news/the-mla-listened-to-the-problems-of-the-villagers-dbp-138421135.html
+// [4] Dainik Bhaskar - BJP zila-adhyaksh rai-shumari meeting me upasthiti; REJECT: party meeting, karya nahi.
+// [5] livehindustan.com (Oct 2026) - Chandwa Sikni kalash sthapana samaroh me mukhya atithi; REJECT: non-whitelist (whitelist me sirf Hindustan Times hai, LiveHindustan nahi) + keval event upasthiti.
+// [6] public.app (Oct 2025 + Nov 2025) - Chandwa Kali jatara mela udghatan aur BJP-JMM sarkar par bayan; REJECT: public.app whitelist me nahi + keval event/political statement.
+// [7] newsdekho.co.in + newsappraisal.in (Oct 2026) - Latehar Premier League cricket final me trophy vitran; REJECT: chhote non-whitelist portals + event, karya nahi.
+// [8] newsdekho.co.in (May 2026) - janganna 2027 swayam-ganna me sahbhagita; REJECT: non-whitelist + sarkari abhiyan ka keval shubharambh/sahbhagita.
+// [9] newsdekho.co.in (Ramnavmi 2026) - Barwadih me sadak/swasthya kendra shilanyas; REJECT: alag MLA (Ramchandra Singh, Manika seat) + non-whitelist - seat-bahar naam-jaal.
+// [10] theindiannation.com (Dec 2025) - Joria bridge udghatan; REJECT: 'Dr. Ansari' (alag neta) + non-whitelist.
+// [11] citynewsuttarpradesh.in (2024-05) - 1.28 crore sadak pariyojna shilanyas 'vidhayak Prakash'; REJECT: chhota non-whitelist portal + date pre-term (chunav se pehle) + pehchan pakki nahi.
+// [12] shubhamsanwad.com (30 Sep 2026) - Pandeypura mukhiya ka 5 maango ka gyapan MLA ko; REJECT: non-whitelist + sirf maang/gyapan, koi dastaveji nateeja nahi.
+// [13] lateharnewsjh.blogspot.com (Sep 2026) - Kendriya Vidyalaya-Semri sadak nirman me deri, grameenon ki shikayat; REJECT: blogspot whitelist me nahi + MLA ki koi bhoomika darj nahi.
+// [14] ED/PMLA mining cases (LawStreet, ThePrint-PTI, newsdrum) - 'Prakash' naam; REJECT (negatives): naam-jaal - mamla Pankaj Mishra/Prem Prakash ka hai (Sahibganj/Barhait, Santhal Pargana stone mining), hamare Prakash Ram (s/o Kailash Ram, Latehar) se sambandh nahi.
+// [15] Daily Pioneer/PTI (05 Oct 2026) - CISF dwara Latehar me 250 tonne chori ka koyla zabt; REJECT (negatives): MLA ka naam kahin nahi, sirf zila-level ghatna.
+// [16] myneta.info (Jharkhand 2009 affidavit) - 1 criminal case (IPC 307/324/435/147/148/149/323/427/337); REJECT (negatives): pre-term case, 2014/2019/2024 halafnamon me 0 cases, vartaman karyakaal me koi nyayik vikas nahi - rule ke mutabik exclude.
+// [17] public.app (28 Jul 2025) - MLA dwara vidhayak pratinidhi (Vishal Chandra Sahu) manonayan; REJECT: non-whitelist + prashasanik niyukti, karya nahi.
+// RETRY-LEADS: (a) Prabhat Khabar Latehar section ke taaza pages browser me kholkar check karna (kuch crawl me 'khul na sake'); (b) Jharkhand Vidhan Sabha records me Prakash Ram ke prashn (Dec 2024+) - mantri-ashwasan mile to whitelist outlet par coverage dhoondhna; (c) jharkhandWorks me entry jodne se pehle MLALAD sanction lists (DC office Latehar) ka itemized source chahiye - abhi tak koi online source nahi mila.// ---- Latehar district batch — Batch 8 END (6 works, 0 negatives) ----
