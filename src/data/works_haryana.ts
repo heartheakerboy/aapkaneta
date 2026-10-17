@@ -646,3 +646,741 @@ haryanaWorks['yoginder-singh-rana'] = [
 // R-9. Business Standard PTI, liquor theft case ex-Haryana MLA — alag Rana (Congress/JJP 2019 candidate), Assandh MLA nahi.
 // R-10. indiankanoon 2018 Gurugram matrimonial FIR (Yogender and ors) — MLA se pehchan established media me confirm nahi, established media link nahi.
 // ---- Karnal district batch END ----
+// Haryana Batch 3 (Panipat + Sonipat + Jind, districts 7-9, 15 MLAs) — 2026-10-17
+// Kul: 44 entries, 15 assignments (12 non-empty, 3 honestly empty)
+
+// ---- Panipat district batch ----
+haryanaWorks['mahipal-dhanda'] = [
+  {
+    title: 'Ward 21, Ward 25 aur Tau Devi Lal Park (Sector-7/8, Panipat) me community parks ke beautification works ka shilanyas Mahipal Dhanda ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/education-minister-lays-foundation-stone-for-beautification-of-community-parks/',
+    date: '2026-03-01',
+    note: 'Report ke mutabiq event Sunday ko hua (article 2026-03-02 ko publish hua). Tau Devi Lal Park me karodon rupey ke beautification works me lagbhag 1 acre ka lake, advanced walking/running tracks, yoga hall aur multipurpose hall shamil hain; Ward 21 aur Ward 25 me model parks saat mahine me banane ka dawa hai. Fund ka source report me disclose nahi hai — MLALAD ya MC funds ka koi ullekh nahi. Ward me naye school ki maang par mantri ne keval ashwasan diya tha, isliye usko entry me shamil nahi kiya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Gao Budhsham (Panipat Rural) me Rs 1.83 crore ki lagat se taiyar 12 vikas karyon ka lokarpan Mahipal Dhanda ne kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/panipat/a-gift-worth-panipat-news-c-18-1-knl1004-985248-2026-09-05',
+    date: '2026-09-04',
+    note: 'Article ne ise Panipat Rural halke ka gao bataya hai — saaf seat me hai; event shukrawar ko hua (article 2026-09-05 ko publish hua). Report me 12 karyon ke naam vyaktigat roop se nahi diye gaye aur fund source disclose nahi hai. Samaroah me sarpanch dwara rakhi gayi maangein (nahar me ghat, stadium sundarikaran, BPL plots, kachche raste pakka karana) keval maangein thi — unka nateeja nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Gao Diwana ke Rajkiya Senior Secondary School me Rs 1.09 crore ki lagat se bane paanch kamron ka lokarpan Mahipal Dhanda ne kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/amp/haryana/panipat/1500-schools-in-the-state-are-dilapidated-education-minister-said-those-which-are-not-worth-repairing-will-be-demolished-in-the-first-phase-panipat-news-c-244-1-pnp1001-141608-2025-08-08',
+    date: '2025-08-07',
+    note: 'Report ke mutabiq event veerwaar ko hua (article 2025-08-08 ko publish hua). Diwana Panipat Rural kshetra ka gao hai. Mantri apne kshetra ke school me bhautik nirmaan ka vyaktigat lokarpan kar rahe hain, isliye rajya-stariya school policy se alag entry hai. Fund source report me disclose nahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Sector-25 Part-2 me Rs 9 crore ki lagat se banne wali 8-acre truck parking suvidha ka shilanyas Mahipal Dhanda aur Panipat City MLA Parmod Vij ne sanyukt roop se kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/panipat-to-get-rs-9-crore-truck-parking-facility/',
+    date: '2026-06-11',
+    note: 'Event Thursday ko hua (article 2026-06-13 ko publish hua). Report saaf kehti hai ki suvidha Panipat Rural MLA Mahipal Dhanda aur Panipat City MLA Parmod Vij ke sanyukt prayason se ban rahi hai — isliye credit capped hai. 8 acre par do charanon me, 185 bade trucks ki kshamta, 30 booking offices aur 30 shops. Fund source report me disclose nahi hai.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+];
+// REJECT-LOG (mahipal-dhanda):
+// - Jagran (17 Oct 2026): Panipat-Jind road widening Rs 184.44 crore — article me Dhanda ki koi vyaktigat bhoomika nahi.
+// - indiaepost (9 Nov 2024): 10 gao ka daura, Rs 2 lakh discretionary fund elaan, school upgrade ashwasan — non-whitelist + sirf ghoshna/ashwasan.
+// - ETV Bharat (3 Sep 2026): Ring road/bypass prastav — non-whitelist + sirf prastav.
+// - khaskhabar Diwana school building — non-whitelist (Amar Ujala wali valid report se replace).
+// - bolpanipat Sector-29 Rs 2.25 crore works — non-whitelist.
+// - 5dariyanews Siwah gao water tankers/benches — non-whitelist + asthayi vitran.
+// - Tribune iMpower Academy, Patti Kalyana, Samalkha — Samalkha dusri seat (seat ke bahar).
+// - ETV Bharat: Nuh me school ka udghatan — seat ke bahar.
+// - Tribune (Apr 2025) smart city review meeting — keval samiksha baithak.
+// - CM Nayab Saini ke Panipat karyakram (Rs 227 crore/32 projects) — Dhanda keval upasthit.
+// - theprint.in (Apr 2025): P&H High Court ne DHBVNL engineer Hari Dutt ke suspension order ko quash kiya jo Dhanda ki complaint par hua tha — NEGATIVE NAHI: MLA khud aaropi nahi, koi FIR/chargesheet nahi.
+// - Tribune parks article me sweeping machines ka flag-off — keval abhiyan shubharambh.
+// - Budhsham report me sarpanch ki maangein — keval maang, nateeja nahi.
+// - thejanpost Dhanda bio page — non-whitelist + saamany dawe.
+// - Negatives: myneta 2024 halafname me declared criminal cases = 0; current term me koi FIR/chargesheet/janch nahi.
+// RETRY-LEADS (mahipal-dhanda): DC Panipat office MLALAD 2025-26 itemized list; Dainik Bhaskar Panipat city edition gao-inaugurations; CM Excellence schools par Dhanda ka vyaktigat lokarpan check.
+
+haryanaWorks['parmod-kumar-vij'] = [
+  {
+    title: 'Model Town Eidgah Road se 8 Marla hote hue Gohana Road tak mini bypass ka shilanyas, lagat Rs 5 crore, jo NH-44 par traffic jam ghatayega',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/panipat-mla-lays-stone-for-mini-bypass/amp/',
+    date: '2026-04-11',
+    note: 'Shilanyas Vidhayak Pramod Vij ne sthaniya parshadon ke saath kiya; report me Assandh Road se Gohana Road ki yatra aadhe ghante se ghatkar 8-10 minute hone ka dawa hai. Event date inferred: report published 2026-04-13 hai aur karyakram Saturday ko hua (2026-04-11 Saturday tha). Fund source report me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Sector 25 Part-2 me lagbhag 8 acre par Rs 9 crore ki aadhunik truck parking facility ka shilanyas, 185 bade truckon ki kshamta',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/panipat-to-get-rs-9-crore-truck-parking-facility/',
+    date: '2026-06-11',
+    note: 'Shilanyas Shiksha Mantri Mahipal Dhanda (Panipat Rural MLA) aur Pramod Vij ne sanyukt roop se kiya — joint effort hai, MLA ka akele shrey nahi. Pehle phase me 5.5 acre, doosre me 3 acre; 30 booking office aur 30 dukanein bhi banengi. Event date inferred: report published 2026-06-13 aur karyakram Thursday ko hua (2026-06-11 Thursday tha). Fund source report me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Jila nyayik parisar me IPV tile se lagbhag Rs 28 lakh ki parking ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/panipat/parking-will-be-built-in-the-district-premises-at-a-cost-of-rs-28-lakh-panipat-news-c-244-1-pnp1001-148663-2025-12-12',
+    date: '2025-12-11',
+    note: 'Shilanyas Vidhayak Pramod Vij aur Mayor Komal Saini ne milkar kiya; Bar Association ki maang par kaam shuru karaya gaya tha. Event date inferred: report published 2025-12-12 aur karyakram Veerwar (Thursday) ko hua (2025-12-11 Thursday tha). Fund source report me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'NH-44 se Hali Lake (Old Industrial Area) tak 950 metre lambe railway overbridge ka shilanyas, lagat Rs 51.6 crore, Sept 2027 tak poorn hone ka lakshya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/halilakeconnection/cm-saini-lays-stones-of-rob-ultra-modern-fire-station-in-panipat',
+    date: '2025-09-25',
+    note: 'Shilanyas CM Nayab Singh Saini ne kiya — MLA ne sirf shirkat ki. The Tribune ke anusaar ROB Vidhayak ke pehle karyakaal ki pahal par laaya gaya special project tha (ward 20 se 25 tak, old industrial area, adjoining colonies, Sector 6 ke nivasi labhanvit). Credit capped: event CM ka tha. Ek doosri Tribune report me isi ROB ki lagat Rs 70.42 crore batai gayi hai — ankde alag-alag hain. Fire station (Rs 18.95 crore) ka shilanyas bhi isi karyakram me hua lekin usme MLA ki vyaktigat bhoomika report me nahi hai, isliye shamil nahi kiya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Ward 16 me naala-sadak aur Ward 20 me Ekta Park ke soundaryakaran sahit kul lagbhag Rs 96 lakh ke nirman karyon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/panipat/construction-work-will-be-done-in-wards-16-and-20-at-a-cost-of-rs-96-lakh-panipat-news-c-244-1-pnp1001-138032-2025-06-03',
+    date: '2025-06-02',
+    note: 'Shilanyas Vidhayak Pramod Vij ne kiya. Ward 16 me lagbhag Rs 50 lakh se naala v sadak (Anaj Mandi ke paas jalbharav ki samasya dekhte hue), Ward 20 me lagbhag Rs 46 lakh ke kaam jisme Ekta Park ka soundaryakaran bhi shamil hai. Event date inferred: report published 2025-06-03 aur karyakram Somwar ko hua (2025-06-02 Monday tha). Fund source report me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Ward 8 me Sanauli Road par Shiv Mandir ke najdeek Nayak Sabha Community Center ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/haryana/community-center-built-in-ward-8-50-lakhs-sanctioned-for-sc-colony/amp',
+    date: '2024-12-02',
+    note: 'Vidhayak ke anusaar unhone Haryana sarkar se Rs 10 lakh ki grant swikrit karaai thi; nirmaan pehle shuru kara diya gaya tha aur ab lokarpan kiya gaya. Karyakaal ke shuruati daur ki entry (Dec 2024). Event date inferred: report published 2024-12-03 aur karyakram Somwar ko hua (2024-12-02 Monday tha).',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Ward 10 me SC basti ke vikas ke liye Rs 50 lakh swikrit, nikasi-sewer aur peene ke paani ki line ke liye shilanyas',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/haryana/community-center-built-in-ward-8-50-lakhs-sanctioned-for-sc-colony/amp',
+    date: '2024-12-02',
+    note: 'Chandra Nagar sahit kai galiyon me barish me paani bharne ki samasya; sewer ke madhyam se barsati paani ki nikasi aur peene ke paani ki line bichhai jayegi. Swikriti ki sanstha report me naam se nahi batayi gayi (sirf swikrit hue hain). Event date inferred: report published 2024-12-03 aur karyakram Somwar ko hua (2024-12-02 Monday tha).',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+];
+// REJECT-LOG (parmod-kumar-vij):
+// - Tribune Feb 2024: Panipat MC two roads/water pumping station — pre-term.
+// - Tribune Mar 2024: "26 works unveiled in Sonepat, 17 in Panipat" — pre-term.
+// - Tribune Sep 2025: CM launches projects worth crores for Panipat Urban — CM ghoshnaen, MLA ne keval maangen rakhi thin.
+// - Amar Ujala Dec 2025: "52 crore ROB Atal ji ke naam par" — Kendriya Mantri Manohar Lal ki ghoshna, bina MLA bhoomika.
+// - Amar Ujala Jan 2025: "winds of development" — indoor stadium aadi ka anumaan, karyakram hua hi nahi.
+// - Bhaskar/AU Aug 2025: Har Ghar Tiranga yatra — abhiyan ka shubharambh maatra.
+// - Bhaskar ward-10/14 nirikshan (2022) — pre-term + sirf nirikshan.
+// - Tribune Haryana Diary "decorative lights under lens" — pre-term, MLA aaropi nahi.
+// - Jagran Mar 2026: bypass ka mudda — Vidhansabha me maang, koi nateeja nahi.
+// - Jagran: Estimation Committee chairman — bhautik kaam nahi.
+// - Dainik Tribune Dec 2024: Ganesh Community Center — shilanyas bete Rahul Vij ne kiya, MLA ne nahi.
+// - Bhaskar: Model Sanskriti school visit — current-term lokarpan nahi.
+// - Jagran Oct 2026: Muni Maharaj upvas — MLA sirf upasthit.
+// - bolpanipat.com tag pages — non-whitelist.
+// - chandigarhcitynews.com, newswav.com, babushahi.com, devdiscourse.com, hiindia.com, newslocker.com, latestly.com, dailyworld.in — whitelist ke bahar.
+// - Negatives: koi FIR/chargesheet/current-term judicial development nahi mili — none.
+// RETRY-LEADS (parmod-kumar-vij): bolpanipat.com MLA tag par works/tender leads (Geeta Colony Rs 22.75 crore tender, Drain No.1) — whitelist reprint khojo; Dainik Bhaskar Panipat local edition 2025-26; Amar Ujala/Jagran par "pramod vij" + shilanyas/lokarpan keywords se retry.
+
+haryanaWorks['krishan-lal-panwar'] = [
+  {
+    title: 'Minister Krishan Lal Panwar ne 28 February 2026 ko Shaudapur gaon (Israna) me Panipat-Jind road four-laning work ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/184-cr-cleared-for-haryanas-panipat-jind-four-lane-road-widening-project/',
+    date: '2026-02-28',
+    note: 'Post-event report. Tribune words it as Panwar inaugurated the road-widening work at project start — stage framed as shilanyas. Shaudapur polling booths fall under Israna Assembly Constituency (elections.in), so the event location is inside Israna SC. Credit capped: CM Nayab Singh Saini approved Rs 184.44 crore total; the Panipat-to-Dariyapur-turn four-lane stretch (Rs 86.96 crore) lies in Panipat district while the Dariyapur-turn-to-Jind 10-metre road (Rs 92 crore) lies in Jind district, outside Israna SC — only the inauguration at Shaudapur in his seat is credited to the MLA. Rs 25.26 crore already released to the Power Corporation and Forest Department for utility shifting; contract awarded to Sarvodaya Agency; 24-month completion target. Fund: state government project, not MLALAD.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Minister Krishan Lal Panwar ne 28 September 2025 ko Israna me Market Committee office complex me naye Atal Kisan Mazdoor Canteen ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/panipat/cabinet-minister-krishan-lal-inaugurated-the-atal-kisan-mazdoor-canteen-panipat-news-c-244-1-pnp1006-144605-2025-09-29?text=Panipat News',
+    date: '2025-09-28',
+    note: 'Post-event report; date inferred from source page: article published 29 Sep 2025 says the inauguration happened on Sunday, and 28 Sep 2025 was a Sunday (verified). Newly-constructed canteen for farmers and labourers at the grain mandi; Rs 10 thali, operated by Haryana State Agricultural Marketing Board and Haryana State Rural Livelihood Mission through women self-help groups. Construction cost/fund not disclosed in the source. No MLALAD link stated.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (krishan-lal-panwar):
+// - Tribune 20 Oct 2024: "Bus stands in the offing at Madlauda, Israna" — pre-event ghoshna only.
+// - khaskhabar "Israna me 50 bed ka hospital" — non-whitelist + pre-term + announcement only.
+// - dailyworld.in / lokmattimes 27-28 Nov 2024: "100 sq yard plots for two lakh poor" — non-whitelist + ministerial policy ghoshna, seat work nahi.
+// - abplive.com 12 Oct 2026 convoy-stopped story — non-whitelist (lead only).
+// - bhaskarenglish.in Jan 2025: "Panwar suspends 5 officials over Israna scam" — administrative action, physical work nahi; MLA aaropi nahi.
+// - Tribune Nov 2025 sports story: Rs 11 lakh announced for school library — sirf ghoshna.
+// - millenniumpost.in "Khattar reviews progress" — non-whitelist; review meeting, kaam nahi.
+// - shaheedeazamnewsnational Sep 2026 Amin road Rs 9.27 crore — non-whitelist + Kurukshetra district, Israna ke bahar.
+// - babushahi.com 10 Apr 2025 PM Yamunanagar event — non-whitelist; sirf upasthiti.
+// - rediff Jind Rs 253 crore package (Apr 2026) — CM rally me sirf bola; Israna ke bahar.
+// - yuvapatrkaar Nuh 22 projects — CM event me sirf upasthit; Nuh bahar.
+// - newsonair.gov.in: Akashvani PM Modi Haryana event — sirf upasthit.
+// - 5dariyanews Tiranga Yatra Israna — non-whitelist; campaign yatra.
+// - Amar Ujala Rewari 16 Oct 2026: khet-khalihan scheme ghoshna — Rewari district, Israna ke bahar.
+// - Amar Ujala Panipat 25 Oct 2025: MRI at District Civil Hospital — Panipat City, Israna ke bahar.
+// - aajsamaaj.com Oct 2023 Chhichhrana/MPLADS story — pre-term (RS MP era), non-whitelist.
+// - haryana.punjabkesari.in Oct 2024 interview — non-whitelist; election comments, no work.
+// - theharyanastory.com "New Haryana Ministers Hit the Ground Running" — non-whitelist; promises.
+// - dailyhunt.in Haryana budget story — aggregator.
+// - citytehelka.com Saudapur convoy story — non-whitelist; corroboration only.
+// - casemine.com "Krishan Lal v. State of Punjab" (2000) / "Krishan Lal v. State of Rajasthan" — name-jaal, alag vyakti.
+// - Negatives: myneta 2024 halafname me 0 criminal cases; current term me koi FIR/chargesheet/janch nahi.
+// RETRY-LEADS (krishan-lal-panwar): Kurana gaon ~Rs 5 crore works (5dariyanews non-whitelist) — whitelist coverage khojo; Madlauda firni 75 LED street lights Rs 16.5 lakh (chandigarhcitynews non-whitelist) — whitelist khojo; 29 May 2026 Swasth Haryana event (MRI/SNSP, PHCs) — Pardhana/Shahpur Israna me, whitelist source khojo; Israna/Madlauda bus stands post-event completion check; DC Panipat MLALAD 2025-26 itemized list.
+
+haryanaWorks['manmohan-bhadana'] = [
+  {
+    title: 'Samalkha ki 15 sadko ke nirmaan ko mili manjoori — vidhayak ne mudda Vidhan Sabha me uthaya, kul Rs 11.60 crore swikrit',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/panipat/construction-of-15-roads-of-the-constituency-including-chulkana-road-got-the-green-signal-panipat-news-c-244-1-pnp1006-134271-2025-03-27',
+    date: '2025-03-27',
+    note: 'Page par printed date nahi dikhi; date URL slug (134271-2025-03-27) se li gayi. Amar Ujala ne report kiya ki Samalkha-Chulkana road (Rs 2.49 crore) sahit halke ki 15 sadko ke liye Rs 11.60 crore ki anumaanit rashi manjoor hui; vidhayak Manmohan Bhadana ne sadko ka vishay Vidhan Sabha satra me rakha tha; PWD SDO Shailendra Bhatia ke anusaar swikriti mil chuki thi aur tender lagne wale the. MLA ki bhoomika sirf mudda uthane tak simit — poora credit MLA ko nahi, credit capped. Koi MLA-fund disclosure nahi; ye state PWD swikriti hai.',
+    period: '2024-2029',
+    stage: 'swikriti',
+  },
+  {
+    title: 'MLA ke nirdesh par Samalkha ki 5 sadko par street lights lagayi gayi — Bhavpra, Bihauli, Jaurasi, Chulkana aur Hathwala road',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/panipat/a-cleanliness-drive-will-run-in-samalkha-from-today-until-diwali-starting-with-three-wards-panipat-news-c-244-1-pnp1006-166121-2026-10-16',
+    date: '2026-10-16',
+    note: 'Amar Ujala ne report kiya ki Nagar Parishad chairman aur vidhayak pratinidhiyon ke anusaar vidhayak Manmohan Bhadana ke nirdesh par Bhavpra, Bihauli, Jaurasi, Chulkana aur Hathwala road par street lights lagayi ja chuki hain taaki raat ke andhere ki samasya door ho. Lights pehle se lagi hui thi (post-event reporting). Koi fund rashi/MLA-nidhi disclosure article me nahi tha. Isi article ka swachhta abhiyan wala shubharambh reject kiya gaya (sirf abhiyan ka shubharambh).',
+    period: '2024-2029',
+    stage: 'pahal',
+  },
+];
+// REJECT-LOG (manmohan-bhadana):
+// - Dainik Tribune 2026-01-14: "Samalkha ko jald milega medical college" — sirf ghoshna/maang + civil hospital inspection.
+// - Dainik Tribune 2024-12-27: khula darbar (Pavati/Dikadla) — nirdesh/maang; Dikadla Gram Gyan Kendra "karya ka udghatan" ambiguous — shanka par reject.
+// - Dainik Tribune 2025-04-12: anaj mandi/hospital inspection — sirf nirikshan + 15 lakh solar lights "yojana" (announcement).
+// - Dainik Tribune 2025-09-09: jansamvad (210 shikayaten) — shikayat sunwai, dastaveji kaam nahi.
+// - Amar Ujala tanker article (2026-10-08): MLA ka sirf generic ullekh, vyaktigat bhoomika nahi.
+// - bolpanipat.com "phirni ki lights" (2026-01) — non-whitelist.
+// - public.app videos (library udghatan, bus sewa, meetings) — public.app-only, non-whitelist.
+// - 5dariyanews/chandigarhcitynews CM karyakram — MLA sirf upasthit; non-whitelist.
+// - hindusthansamachar.in extortion story — non-whitelist + vikas kaam nahi.
+// - babushahi.com CM road approvals (Feb 2025) — non-whitelist.
+// - Dainik Bhaskar Nuh/Mewat article — party prabhari role, Samalkha ke bahar.
+// - nayaharyana.com farmhouse demolition story — non-whitelist + Samalkha ke bahar + koi FIR/chargesheet nahi.
+// - Negatives: halafname ke pending mamle akele negative nahi; established media me criteria poora karne wali khabar nahi.
+// RETRY-LEADS (manmohan-bhadana): Dainik Jagran Panipat city edition "samalkha bhadana" manual search (JS-heavy site); Dainik Tribune Panipat page "Bhadana" tag; Panipat DC office / haryanapwd / MC Samalkha 2025-26 itemized lists.
+
+// ---- Sonipat district batch ----
+haryanaWorks['devender-kadyan'] = [
+  {
+    title: 'Ganaur MLA Devender Kadyan ne Bhigan gaon me lagbhag Rs 40 lakh ki lagat se banne wale aadhunik pashu aspatal ka shilanyas kiya; naye bhavan me OPD, aadhunik lab, dispensary, dawaiyon ka store aur doctor room banenge, jisse Bhigan ke saath Rajpur, Kami, Dhaturi, Lalhedi Kalan, Lalhedi Khurd aur Ladasauli ke pashupalakon ko labh milega',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/sonipat-gannaur-mla-lays-foundation-for-modern-bhigan-animal-hospital-40406550.html',
+    date: '2026-10-16',
+    note: 'Post-event report (published 2026-10-16). Purani jirjhar building ki jagah usi parisar me naya bhavan banega; shilanyas karyakram me PWD SDO Anil Chahal aur JE maujood the. Fund-srot article me nahi bataya gaya — MLALAD ka claim nahi kiya gaya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Ganaur MLA Devender Kadyan ne Garhi Janjhara gaon me samanya chaupal ke nirman aur Shivdayal dera se Sevaram dera tak raste ke nirman ka shilanyas kiya; dono kamon par lagbhag Rs 22.23 lakh kharch honge',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/sonipat-gannaur-mla-kadian-launches-1-cr-development-projects-in-garhi-janjhara-40382777.html',
+    date: '2026-09-23',
+    note: 'Post-event report (published 2026-09-23); gaon ki chaupal me aayojit karyakram me udghatan aur shilanyas hue. Fund-srot article me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Ganaur MLA Devender Kadyan ne Garhi Janjhara me lagbhag Rs 40 lakh ki lagat se bankar taiyar 15 galiyon ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/sonipat-gannaur-mla-kadian-launches-1-cr-development-projects-in-garhi-janjhara-40382777.html',
+    date: '2026-09-23',
+    note: 'Post-event report (published 2026-09-23); poori ho chuki galiyon ka udghatan. Fund-srot article me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Ganaur MLA Devender Kadyan ne Garhi Janjhara me Rajput chaupal ke navinikaran (Rs 5 lakh), johar ki retaining wall (Rs 8 lakh), janaswasthya vibhag ke tubewell ki chardivari (Rs 8 lakh), school ke prarthana sthal par interlocking tile (Rs 4.50 lakh), shmashan ghat me shed aur baramda (Rs 6 lakh) aur Valmiki chaupal gali (Rs 5 lakh) ke kamon ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/sonipat-gannaur-mla-kadian-launches-1-cr-development-projects-in-garhi-janjhara-40382777.html',
+    date: '2026-09-23',
+    note: 'Post-event report (published 2026-09-23); costs itemized source article ke anusaar. Fund-srot article me nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (devender-kadyan):
+// - Ahlana 33 kV vidyut upkendra udghatan, 30 Jul 2026 — univarta.com — blacklist (UNI/univarta excluded).
+// - Purkhas gaon me Sant Ravidas Bhawan lokarpan (~Rs 18 lakh), 3 Feb 2026 — hindusthansamachar.in — non-whitelist.
+// - Agwanpur library hall/chaupal/park works, 3 Apr 2025 — dainiktribuneonline.com — worker ne whitelist se bahar mana (sirf tribuneindia.com whitelisted); RETRY me Dainik Tribune ka second look lead.
+// - Ganaur flyover beautification paintings (Rs 20 lakh), 14 Oct 2026 — dainiktribuneonline.com — same note; RETRY lead.
+// - PWD 23 sadkon ka punarnirman (45 km, Rs 39.11 crore) — jagran.com — pre-event announcement (tender/allotment stage).
+// - Janta darbar Bulandpur Ambedkar Bhawan grant bharosa — bhaskar.com — sirf ghoshna/assurance.
+// - Sarpanch samvad — amarujala.com — sirf baithak/assurance.
+// - Rajya Sabha independent entry mediation — bhaskar.com — political news.
+// - Vidhan Sabha maangen (nahar-sadak-railway bridge) — webvarta.com — non-whitelist + sirf maang.
+// - Janta darbar reporting — niharikatimes.com — non-whitelist + sirf dawa.
+// - Delhi Cantt AAP MLA Virender Kadian assault FIR (millenniumpost) — naam-jaal, alag vyakti.
+// - Negatives: halafname ke 2 mamlo (Rajasthan FIR 268/2017 IPC 307 sahit; Punjab FIR 0068/2022 Trade Marks Act) me Oct 2024 ke baad koi legal development established media me nahi — affidavit-disclosed pending cases akele negative nahi; koi negative entry nahi.
+// RETRY-LEADS (devender-kadyan): PWD 23 sadken post-event khabar; Ahlana 33 kV upkendra whitelist report; Purkhas Sant Ravidas Bhawan whitelist report.
+
+haryanaWorks['krishna-gahlawat'] = [
+  {
+    title: 'Village Rai me Rs 34 lakh ke Chhath Puja ghat aur Rs 27 lakh ke community centre shed ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/sonipat/mla-inaugurated-and-laid-the-foundation-stone-for-development-works-sonipat-news-c-197-1-snp1008-147695-2026-01-05',
+    date: '2026-01-05',
+    note: 'Article ke anusaar Ravivar ko MLA Krishna Gahlawat ne village Rai (Sonipat Nagar Nigam kshetra) me poore ho chuke dono karyon ka lokarpan kiya; Mayor Rajiv Jain bhi maujood rahe. Event date article me Ravivar likhi hai, URL publish date 2026-01-05 hai, isliye event 4 Jan 2026 ka anumanit hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Village Rai me Rs 97 lakh ke stadium, Rs 25 lakh ke entry gate signboard, Rs 30 lakh ke park aur Rs 18 lakh ki galiyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/sonipat/mla-inaugurated-and-laid-the-foundation-stone-for-development-works-sonipat-news-c-197-1-snp1008-147695-2026-01-05',
+    date: '2026-01-05',
+    note: 'Article ke anusaar ye karya abhi banenge, sirf shilanyas hua hai; MLA ne kaha Rai village sahit poore vidhansabha kshetra ka santulit vikas unki priority hai. Event date Ravivar, article publish 2026-01-05.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Village Nahra me Rs 1.30 crore ke vikas karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/sonipat/mla-laid-the-foundation-stone-for-development-work-worth-rs-130-crore-in-nahra-sonipat-news-c-197-1-snp1003-144994-2025-11-09',
+    date: '2025-11-09',
+    note: 'Article me madwar itemized list: Mahatma Gandhi Gramin Basti me galiyan Rs 19.4 lakh, samudayik bhavan ke adhure karya ko pura karna Rs 19.85 lakh, Hanuman mandir se Dada Deti tak gali Rs 19.39 lakh, stadium ki chahar-diwari aur gully Rs 19.15 lakh, aushdhalaya se Shubendra ke ghar tak gully-nali Rs 19.33 lakh, Kendriya Vidyalaya se main road tak nala Rs 19 lakh. Event Shanivar ko, article publish 2025-11-09.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Village Kumaspur me Backward Classes (BC) chaupal ke nirman karya ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/sonipat/mla-laid-the-foundation-stone-for-the-construction-of-bc-chaupal-in-kumaspur-sonipat-news-c-197-1-snp1003-145012-2025-11-10',
+    date: '2025-11-10',
+    note: 'Article me chaupal ki lagat ka ankda nahi diya gaya hai, isliye koi rashi claim nahi ki gayi. Sarpanch Satendra sahit sthaniya log maujood rahe. Event Ravivar ko, article publish 2025-11-10.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Rai vidhansabha kshetra ke 10 sarkari schools me Rs 6.62 crore ki buniyadi dhancha swikriti',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/sonipat/662-crore-will-be-spent-on-development-of-schools-in-rai-constituency-mla-sonipat-news-c-197-1-snp1015-149952-2026-02-22',
+    date: '2026-02-22',
+    note: 'Article me swikriti itemized hai: Mimarpur GMS me 3 atirikt kaksha Rs 30.66 lakh, Nahri GGPS me 5 ACR aur hall Rs 51.10 lakh, Badh Malik GMPS me 3 ACR aur hall Rs 70.49 lakh, Kundli GPS me 35 kakshaen, alag shauchalaya aur 2 pani ki tankiyan Rs 3.67 crore, Jainpur GMS aur Murthal GPS me 3-3 kakshaen Rs 30.66 lakh pratyek, Ladpur (Chhetehra) GGPS me chahar-diwari, bhawan jirnoddhar aur shauchalaya Rs 22.92 lakh, Khatkar GMS me 5 kakshaen, ladkiyon ka shauchalaya aur pani ki tanki Rs 18.61 lakh, Halalpur GPS me marammat Rs 20.44 lakh, Khatkar GPS me marammat aur CWSN shauchalaya Rs 19.50 lakh. Article (swikrit ki gayi hai) likhta hai, isliye swikriti stage par liya gaya hai.',
+    period: '2024-2029',
+    stage: 'swikriti',
+  },
+  {
+    title: 'Village Aurangabad me barat ghar ka lokarpan aur Rs 4.30 lakh ki e-library ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/delhi-ncr/noida/inauguration-and-foundation-stone-laying-of-development-works-in-bahalgarh-and-aurangabad-na-news-c-197-1-snp1003-143715-2025-10-13',
+    date: '2025-10-13',
+    note: 'Article me barat ghar ki lagat nahi di gayi hai. MLA ke anusaar e-library se yuvaon ko digital shiksha aur pratiyogi parikshaon ki taiyari me madad milegi. Event Ravivar ko, article publish 2025-10-13.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Village Bahalgarh aur Aurangabad me Valmiki chaupal, gram sachivalaya aur sadak karyon ka shilanyas aur shubharambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/delhi-ncr/noida/inauguration-and-foundation-stone-laying-of-development-works-in-bahalgarh-and-aurangabad-na-news-c-197-1-snp1003-143715-2025-10-13',
+    date: '2025-10-13',
+    note: 'Article ke anusaar: Bahalgarh me Valmiki chaupal ka shilanyas (lagat ankit nahi) aur mandir ke paas road ka nirman karya shuru; Aurangabad me Rs 30 lakh ke gram sachivalaya ka karya shuru, lagbhag Rs 18 lakh ke Valmiki chaupal ka shilanyas aur Valmiki chaupal se Jakholi tak Rs 20 lakh ki sadak ka shilanyas. Event Ravivar ko, article publish 2025-10-13.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+];
+// REJECT-LOG (krishna-gahlawat):
+// - Amar Ujala 2025-12-19: "Rai ko sub-division ka darja" — Vidhan Sabha me sirf maang, koi mantri ashwasan/swikriti nahi.
+// - news123.co.in 2024-11-19: "Rai halke ki samasyayein" — non-whitelist + sirf maang.
+// - haryanavritant.com: Rai/Nangal Kalan/Badh Malik lokarpan events — non-whitelist; RETRY lead (Bhaskar/Jagran/HT me khojo).
+// - The Tribune 2017-05-09: "Strengthening network govt's priority" — pre-term (2017, Marketing Board chairperson era).
+// - NO-NEGATIVE: halafname me zero criminal cases (ADR); Nov 2025 "Brazilian model" voter-fraud allegations (Rahul Gandhi, Rai seat voter list par) — MLA khud aaropi nahi.
+// RETRY-LEADS (krishna-gahlawat): haryanavritant events ki whitelist coverage; MLALAD (Rs 5 crore/term) DC Sonipat itemized list; 2025 Vidhan Sabha satron me mantri-ashwasan ki whitelist reporting. Koi sarkari-portal source nahi mila — sab badge news.
+
+haryanaWorks['pawan-kharkhoda'] = [];
+// REJECT-LOG (pawan-kharkhoda):
+// - impressivetimes.com (17 Mar 2025): Livan Village sewer line Rs 1.22 crore lokarpan — non-whitelist (whitelist me aaye to entry ban sakti hai).
+// - thedailyjagran.com: Sonipat-Delhi Kharkhoda road story (May 2025) — fake lookalike domain + pre-event.
+// - en.theharyanastory.com: satellite city + Tesla plant claims — non-whitelist + keval dawe.
+// - CM Nayab Saini development rally, Kharkhoda (Dec 2025) — shilanyas/ghoshnayein CM ki; MLA sirf manch par (Tribune, HT coverage maujood).
+// - Tribune hydrogen train welcome (2026) — MLA sirf swagat me upasthit.
+// - babushahi.com / punjabnewsline.com / newsonradar.com / dailyworld.in rally stories — non-whitelist.
+// - indiankanoon.org "Pawan And Others vs State Of Haryana" (FIR 210/2024) — pehchan MLA se establish nahi; negative nahi.
+// - indiankanoon.org "Pawan vs State Of Haryana" (Jan 2025) aur anya "Pawan" cases — alag vyakti (Pawan Khera/others).
+// - Negatives: established media me koi FIR/chargesheet/janch nahi; halafname me "No criminal cases" (myneta candidate_id=164).
+// RETRY-LEADS (pawan-kharkhoda): Haryana DPR official press-release site (browser.open fail — upstream fetch error); haryanavidhansabha.gov.in (PRS: 5 questions Oct 2024–Mar 2026) — mantri ke uttar/ashwasan ka dastaveji nateeja; Dainik Bhaskar/Amar Ujala/Dainik Jagran print/e-paper archives (Sonipat edition).
+
+haryanaWorks['nikhil-madaan'] = [
+  {
+    title: 'Sonipat ki nayi anaj mandi me Rs 4.70 crore ke renovation karyon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/renovation-of-new-grain-market-begins-in-sonepat/',
+    date: '2026-01-23',
+    note: 'MLA ne swayam lokarpan kiya. Karyon me mandi shed ka replacement, internal roads ki repair/construction aur security ke liye RCC-brick boundary wall shamil. Maang vyapariyon/aadhthiyon ki thi; MLA ne sambandhit vibhagon ki meeting kar estimates banvaye, tender nikla, aur Haryana State Agricultural Marketing Board ne karyon ki shuruaat ki. Article ki published date 2026-01-23; event Thursday yaani 2026-01-22 ko hua.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Sector 27 police station ke paas Maharaj Aroot Chowk ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/mla-inaugurates-maharaj-aroot-chowk-in-sonepat/',
+    date: '2025-05-31',
+    note: 'MLA Nikhil Madaan aur Mayor Rajiv Jain ne milkar chowk ka lokarpan kiya. Chowk ki proposal MLA ne apne Mayor karyakaal me MC General House meeting me paas karayi thi (Rashtriya Punjabi Mahasabha ke memorandum par), isliye credit purane karyakaal ke prastav aur vartaman karyakaal ke lokarpan dono se juda hai — disclosure ke saath rakha gaya hai. Chowk Sonipat seat ke andar hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'MLA ki Vidhansabha maang par Sonipat me Rs 15.82 crore ke e-bus stand (Jat Joshi) ka nirmaan shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/work-on-rs-15-82-cr-e-bus-stand-begins-at-jat-joshi/',
+    date: '2026-10-10',
+    note: 'MLA ne budget session me bus stand ko shehar se bahar sthanantarit karne ki maang ki thi; sarkar ne ise sweekar kar naye bus stand ki ghoshna ki. Electric bus stand (9.38 acre me 2.35 acre, teen bus bays, workshop block) ka nirmaan shuru ho gaya hai; mukhya bus stand ki DPR ban rahi hai aur tender jald niklega. MLA ne Friday ko nirmaan karyon ka nirikshan kiya. Credit capped rakha gaya hai — maang MLA ki, ghoshna aur nirmaan sarkar ka; koi lokarpan/shilanyas MLA dwara nahi hua is project ka.',
+    period: '2024-2029',
+    stage: 'pahal',
+  },
+];
+// REJECT-LOG (nikhil-madaan):
+// - MCH wing (100-bed, Civil Hospital Sonipat) shilanyas — Union HM Amit Shah ne virtual kiya; MLA sirf chief guest (Tribune, 2025-10-04).
+// - BJP office me bird tower shilanyas — BJP state president Mohan Lal Badoli ne kiya; MLA sirf upasthit (Tribune).
+// - Sector-4 sports stadium visit (~July 2026) — sirf nirikshan/daura + SMDA ko DPR/tender nirdesh (Tribune).
+// - Sector-15 storm water line Rs 4.25 crore (~Nov 2025) — thedailyjagran.com (fake lookalike domain); RETRY me whitelisted source khojo.
+// - CM Sonipat/Gohana karyakram (Rs 104 cr, Antyodaya Mela) — MLA sirf sambodhan/upasthiti.
+// - Auditorium/library + mini-bypass (MC, Aug 9 report) — Mayor karyakaal ka karyakram, pre-Oct 2024.
+// - Negatives: established media me MLA khud aaropi ke saath current-term FIR/chargesheet/janch nahi; halafname ke purane mamle akele negative nahi.
+// RETRY-LEADS (nikhil-madaan): Sector-15 storm water line ki whitelisted coverage (Dainik Jagran/Amar Ujala/Dainik Bhaskar/Tribune); MLALAD DC Sonipat itemized list.
+
+haryanaWorks['arvind-kumar-sharma'] = [
+  {
+    title: 'Cooperation Mantri Dr Arvind Sharma ne Gohana me Rs 6.97 crore ki teen jal-nikasi pariyojnaon ka vyaktigat lokarpan kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/sonipat-gohana-dr-arvind-sharma-inaugurates-697-cr-projects-40371251.html',
+    date: '2026-09-12',
+    note: 'Teenon pariyojnaen poori ho chuki thin: (1) Shri Ram talab se Drain-3 tak 355 mm vyas ki bhoomigat pipeline — abadi kshetra se jalbharav samadhan; (2) Wazirpur-Khandrai drain ki 7 pipe puliyaon ko box puliya me badla (RD 16710 se 26450 tak); (3) Sinchai Vibhag ke mechanical store aur electric diesel workshop ka punarnirman. Mantri ne is avsar par dawa kiya ki CM Nayab Singh Saini ke netritva me Gohana ke liye lagbhag Rs 700 crore ki pariyojnaen swikrit hain — ye unka dawa hai, report ne verify nahi kiya; lokarpit karya sinchai vibhag ke hain, shrey capped.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Mantri Dr Arvind Sharma ne Gohana halke ke 21 vikas karyon ke liye Rs 1.88 crore ki swikriti jaari karvai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/amp/haryana/sonipat/188-crore-will-be-spent-on-21-development-projects-in-gohana-constituency-the-government-has-given-its-approval-sonipat-news-c-197-1-snp1003-148112-2026-01-14',
+    date: '2026-01-14',
+    note: 'Sarkar ne Rs 1,88,99,000 jaari kiye: Haryana Gramin Vikas Yojana ke tahat Rs 1.38 crore (Kasandi me gali, Kakana Bhadri me Brahman choupal, Kailana Khas me BC choupal hall, Kasanda me shmashan ghat shed, Tihad Malik me Ambedkar bhawan charhdwari, Rahmana me BC choupal, Moi me talab charhdwari v gau ghat, Dubheta me samudayik kendra v stadium marammat/jeernodhar, Bhadi v Sitawali me gali/chaupal, Hasangarh v Khandrai me choupal nirmaan) aur Vidhayak Adarsh Nagar Gram Yojana (VAINGI) ke tahat Rs 50 lakh (Mohana me nala, Vishwakarma choupal, Khijarpur Jat Majra me school tak nala, Gohana ward 14/15/23 me gali aur sarvajanik shauchalay). Stage swikriti — rashi jaari hui, karya abhi shuru nahi. Fund disclosure mantri ne swayam ki.',
+    period: '2024-2029',
+    stage: 'swikriti',
+  },
+];
+// REJECT-LOG (arvind-kumar-sharma):
+// - chandigarhcitynews.com "Big Boost to Gohana: CM Announces Sports, Infrastructure, Health & Edu Projects" (Mar 2026) — non-whitelist + CM ghoshnaen.
+// - theweek.in (PTI wire) 29 Mar 2026: "Haryana CM unveils development plans for Gohana assembly constituency" — CM announcements, sirf ghoshna.
+// - pinewz.com 29 Mar 2026 rally report — non-whitelist; udghatan/shilanyas CM ne kiya, mantri sirf ayojak/upasthit.
+// - amarujala.com video 24 Feb 2025: mantri ne BPS Mahila Vishwavidyalaya Khanpur Kalan me 17vi Rashtriya Yuva Sansad ka udghatan kiya — keval karyakram ka shubharambh.
+// - testbook.com quiz "Jail Filling Station Sonipat inaugurated Dec 2025" — non-whitelist; Jails portfolio ka rajya-stariya karyakram, Gohana ke bahar.
+// - 5dariyanews.com Amit Shah Panchkula event — non-whitelist; rajya-stariya karyakram, mantri keval upasthit.
+// - babushahi.com 19 Oct 2024 village tour — non-whitelist; dhanyavad daura.
+// - haryanautsav.com "17 development works Rs 1.40 crore" (Oct 2025) — non-whitelist.
+// - webvarta.com — Amar Ujala 1.88 crore story ka duplicate; non-whitelist.
+// - sachkahoon.com — 6.97 crore story ka duplicate; non-whitelist.
+// - Negatives: News18 (ADR halafnama data) ke anusaar Arvind Kumar Sharma ne Oct 2024 me 0 aapradhik mamle declare kiye; SCC Times wala PMLA case (Mahira Infratech, Gurugram) dusre poorv vidhayak ka hai — naam-jaal se bacha gaya.
+// RETRY-LEADS (arvind-kumar-sharma): dainiktribuneonline.com me 6.97 crore lokarpan ki corroborating report (whitelist family, second source); Dainik Bhaskar Sonipat edition Oct 2024–Dec 2025 shilanyas coverage; Haryana Vidhan Sabha prashn/ashwasan ya DC-office Sonipat itemized MLALAD/VAINGI suchiyan.
+
+haryanaWorks['induraj-singh-narwal'] = [
+  {
+    title: 'Baroda ke 11 gaonon me peyjal pariyojnaon ko swikriti mili, kul Rs 24.92 crore kharch honge aur kaam 2025 ke ant tak shuru hoga',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/sonipat/drinking-water-system-will-improve-in-11-villages-of-baroda-constituency-sonipat-news-c-197-1-snp1008-137723-2025-06-08',
+    date: '2025-06-08',
+    note: 'Post-event report: swikriti mil chuki hai; itemized list: Ahulana (diggi marammat, naya WTP, pipeline) Rs 2.53 crore; Banvasa (char-diwari, tank, filter bed marammat, nayi pipeline) Rs 3.13 crore; Baroda Mor (shesh jal vitran pranali) Rs 2.46 crore; Butana-Khetlan (DI pipeline) Rs 44.08 lakh; Butana-Kundu (DI pipeline, boosting station marammat) Rs 40.12 lakh; Ishapur Kheri (DI pipeline, 2 boosting station marammat) Rs 56.74 lakh; Katwal-Aanwli-Bilbilan (raw water uplabdhata) Rs 7.08 crore; Katwal (jal vitran, boosting station marammat) Rs 83.04 lakh; Rewara (naya tank, pumping system, boosting station marammat) Rs 3.62 crore; Dhanana-Rindhana (boosting station marammat, nayi pipeline, jal vitran) Rs 3.82 crore. Article me alag sarkari dastavej ka citation nahi hai; MLA ne ise sabhi vargon ke samuhik prayas ka parinam bataya — credit capped.',
+    period: '2024-2029',
+    stage: 'swikriti',
+  },
+  {
+    title: 'Vidhansabha me Narwal ke sawal par krishi mantri ne Baroda ki Marketing Board sadkon ki marammat ke liye di gayi manjooriyon ka zikr kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/haryana/haryana-news-we-will-not-let-even-a-single-road-in-the-state-remain-broken-in-the-next-six-months/amp',
+    date: '2025-03-20',
+    note: 'Assembly budget session ki post-event reporting: Narwal ne Baroda ke gaonon me Marketing Board sadkon ke poori tarah jarjar hone ka mudda uthaya; krishi mantri Shyam Singh Rana ne Baroda sadkon ki marammat ke liye di gayi manjooriyon ka zikr kiya; CM Nayab Singh Saini ne 6 mahine me sabhi sadken thik karne ki ghoshna ki. Manjoori ki rakam ya sankhya report me nahi; kriyanvayan ka parinam is report me nahi — credit capped, keval mantri-ashwasan star ka entry.',
+    period: '2024-2029',
+    stage: 'mantri-ashwasan',
+  },
+];
+// REJECT-LOG (induraj-singh-narwal):
+// - Jagran (2026-06-04): Bhiwani sub-branch nahar concreting par keval nirikshan; vyaktigat lokarpan/shilanyas nahi.
+// - Amar Ujala (2026-02-02): Baroda karyalaya me jan-sunwai; koi bhautik kaam/swikriti nahi.
+// - Amar Ujala (2025-10-27): Gohana (Mham Road, Gudha Chowk) raktdaan shivir me mukhya atithi — Baroda ke bahar.
+// - Amar Ujala (2024-10-22): Kohla tel pipeline muawza dharna — daura/dabav, kaam nahi.
+// - Dainik Tribune/TOI/Jagran: Narwal par 2 visheshadhikar hanan prastav (Dec 2025: Venod Sharma par tipanni; Aug 2026: poster chheenna) — koi FIR/chargesheet/nyayik janch nahi; NEGATIVE NAHI (myneta 2024 halafname me "No criminal cases").
+// - Jagran (2025-09-22): Harsana Khurd road shubharambh vidhayak Pawan Kharkhoda ne kiya — naam-jaal se bacha gaya.
+// - khaskhabar.com, haryanabulletinnews.com, public.app, chopaltv.com, babugirihindi.com, punjabkesari — whitelist me nahi.
+// NOTE: Dainik Tribune (The Tribune Trust ka Hindi edition, 1978 se) ko whitelist "The Tribune" ke parivar me exact outlet disclosure ke saath liya gaya hai (batch 1-2 precedent).
+// RETRY-LEADS (induraj-singh-narwal): Bhainswal/Baroda sarkari college zameen hastantaran (2025-03-26 sadan ashwasan, chopaltv non-whitelisted) — whitelist coverage; monsoon session 2026 drenon ki safai ka mudda — whitelist reporting; DC Sonipat MLALAD itemized suchi; Baroda me vyaktigat shilanyas/lokarpan ki whitelist reporting (10+ searches me event-based report nahi mili).
+
+// ---- Jind district batch ----
+haryanaWorks['vinesh'] = [];
+// REJECT-LOG (vinesh):
+// - International sports academy announcement (Apr 2025) — The Tribune: Rs 4 crore prize money se academy banane ki ghoshna; no land/shilanyas/construction in 18 months — sirf ghoshna.
+// - Women's college demand, Vidhan Sabha Question Hour (11 Mar 2025) — PTI via ThePrint: maang; sarkar ne decline kiya (421-student co-ed college + 161 vacant seats) — sirf maang.
+// - Julana stadium basic facilities starred question (*138, 20 Mar 2025) — haryanaassembly.gov.in: question document only; mantri ka uttar/ashwasan nahi mila — dastaveji nateeja nahi.
+// - Swimming pool demand, Ram Rai village — WION: sirf maang, Sports Minister ne deflect kiya.
+// - Hansi Road footpath inspection (24 Jan 2025) — Dainik Tribune: pure nirikshan/daura (municipality ka kaam) — sirf nirikshan.
+// - Flood-area visits, Sep 2025 (Buwana, Kharainti, Malvi) — HT + Tribune: nirikshan + promises, koi poora kaam nahi; public anger criticism hai, negative nahi.
+// - Rs 4 crore cash award + plot offer (Mar-Apr 2025) — personal sports-policy award, Julana public work nahi.
+// - Dasara Sports CM's Cup chief guest, Mysuru (Oct 2025) — Star of Mysore: Karnataka event, Julana se bahar.
+// - WFI show-cause notice (May 2026) — sports-career matter, FIR/chargesheet/janch nahi; negative NAHI.
+// - 2023 wrestler-protest cases (Brij Bhushan Sharan Singh matter) — pre-term + SHIKAYATKARTA paksh; negative NAHI.
+// - Cabinet decision on medallist benefits (25 Mar 2025) — personal sports award, Julana works nahi.
+// - Negatives: Oct 2024+ me established media me koi FIR/chargesheet/janch nahi.
+// RETRY-LEADS (vinesh): haryanaassembly.gov.in answers portal (question *138 ka mantri-utthar mile to mantri-ashwasan entry); DC Jind / jind.nic.in MLALAD work list 2025-26; Dainik Bhaskar Julana edition local archive; Julana stadium facilities follow-up 2026.
+
+haryanaWorks['ram-kumar-gautam'] = [
+  {
+    title: 'Vidhan Sabha me Ram Kumar Gautam ke sawal par health minister ne Safidon me Rs 43.44 crore ki nursing college building pariyojna par ashwasan diya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/',
+    date: '2025-12-23',
+    note: 'Dainik Tribune (The Tribune group) ki 23 Dec 2025 ki report ke mutabiq Safidon ke BJP vidhayak Ram Kumar Gautam ne Vidhan Sabha satra me sawal poochha tha ki Safidon ke rajkiya nursing sansthan ke bhawan nirman ki pariyojna sarkar ke paas vicharadhin hai ya nahi, jo lagbhag 7 saal se lambi thi. Health Minister Aarti Rao ne jawab diya ki unhe ye mamla usi din pata chala, pariyojna ko avashyak vidhivat swikriti mil chuki hai aur bahut jald nirman karya shuru karaya jayega. Report me darj hai ki minister ne nirman ki koi tithi ya mahina nahi bataya aur vidhayak jawab se asantusht nazar aaye. Source ke tathya: nursing sansthan kholne ki ghoshna lagbhag 8 saal pehle tatkalin CM Manohar Lal ne ki thi; nagar palika ne kareeb sadhe 4 acre zameen health department ko transfer ki thi; budget 24 crore se badhkar 43.44 crore ho gaya; is bhawan ka shilanyas 3 baar ho chuka tha (Feb 2019 Jind sabha, 6 mahine baad mauke par, Feb 2024 Karnal sabha) phir bhi nirman shuru nahi hua. Date reasoning: article ki published date 2025-12-23 hai — sawal isi saptah ke Vidhan Sabha satra ka hai (post-event reporting). Credit capped: sirf mantri-ashwasan, koi nishchit samay-seema nahi mili.',
+    period: '2024-2029',
+    stage: 'mantri-ashwasan',
+  },
+];
+// REJECT-LOG (ram-kumar-gautam):
+// - 2026-10-17 ko Safidon nursing college bhawan ka shilanyas vidhayak ne kiya (Rs 43.5 crore) — sources sirf lalluram.com aur netaji.vip (non-whitelist); RETRY: Bhaskar/Jagran/Amar Ujala Jind edition me whitelisted post-event reporting khojo.
+// - Oct 2025 Safidon rally me CM Nayab Saini ki ghoshnaon (100-bed hospital upgrade, Rs 49.73 crore projects) ka credit — The Tribune report me ye CM ke projects hain; Gautam sirf rally me maujood.
+// - livevns.news par rally-manch ki maangen (Safidon ko jila banao, Pillukhera tehsil, nursing college building) — sirf maang, non-whitelist.
+// - Dhadoli gaushala me Gautam Kutir Bhavan shilanyas + Rs 1 lakh announcement (obnews.co) — non-whitelist + daan rashi.
+// - CJI Justice Surya Kant ke karyakram me upasthiti (chandigarhcitynews.com) — Narnaund (Safidon ke bahar).
+// - Name-ambiguity check: lalluram/netaji reports me "Ram Kumar Gautam" Safidon vidhayak (vakil, BJP) ke roop me pehchane gaye — seat se verify kiya gaya.
+// - Negatives: 2025 ka vivah-sahamati kanoon wala bayan policy-maang hai, arop nahi; established media me koi FIR/chargesheet/janch nahi.
+// RETRY-LEADS (ram-kumar-gautam): 2026-10-17 ke Safidon nursing college bhawan shilanyas ki whitelisted post-event reporting.
+
+haryanaWorks['krishan-lal-middha'] = [];
+// REJECT-LOG (krishan-lal-middha):
+// - Tribune "Sports complex inaugurated" (31 Oct 2025): PRIVATE CBSE school (Motilal Nehru Public School, Jind) me bana — sarkari sanrachna nahi; chief-guest lokarpan, sarkari fund ka pramaan nahi.
+// - Tribune "Jind gets first fleet of AC Roadways buses" (17 Aug 2025): buses ki flag-off service ka shubharambh — bhautik sanrachna nahi; allotment HR headquarters ne ki; maang ka dastaveji nateeja nahi.
+// - Tribune "Deputy Speaker pulls up officials for harassing vendors in Jind" (May 2025): fatkaar + vyaktigat muaavza ghoshna — vikas karya nahi; personal compensation = daan/rahat.
+// - Rediff "Rs 253 Crore Development Package" (5 Apr 2026): shilanyas/lokarpan CM ne kiye, Middha sirf rally sanyojak/vakta — non-whitelist + dusre neta ke karyakram.
+// - IANS/Lokmat/Daily World "Rs 103.31 crore projects in Uchana" (18 Feb 2026): CM karyakram, Uchana alag seat.
+// - Tribune "Safidon hospital upgrade to 100 beds" (Apr 2026): CM rally, Safidon alag seat.
+// - Outlook India/Dogra Herald "PM Modi Jind visit July 17" (July 2026): pre-event announcement; Outlook non-whitelist.
+// - TheHaryanaStory/TimesBull "Jind trauma center approved" — non-whitelist; RETRY: Bhaskar/Jagran/Amar Ujala Jind edition me whitelist coverage khojo ("maang ka dastaveji nateeja, credit capped" sambhav).
+// - 5DariaNews (Janata Darbar, development claims) — non-whitelist + keval daave/aashwasan.
+// - NewsMill/Millennium Post "Rs 5 crore rural development fund for Jind" (Apr 2026) — CM ki ghoshna, Middha ki bhoomika nahi.
+// - TOI "Jind: MLA files complaint over fake Twitter account" (2019): Middha shikayat-karta the, aaropi nahi; pre-term.
+// - indiankanoon election petition (2022, 2019 upchunav): election petition, criminal nahi; pre-term.
+// - Negatives: 2024 halafname me 0 criminal cases (myneta/ADR); Oct 2024 ke baad koi FIR/chargesheet/janch nahi.
+// RETRY-LEADS (krishan-lal-middha): Jind trauma center whitelist coverage; Jind DC office MLALAD itemized lists. Naam-jaal: "Krishan Lal Panwar" (mantri, alag vyakti) aur "Krishna Midha" variants ko mat jodo.
+
+haryanaWorks['devender-chatar-bhuj-attri'] = [
+  {
+    title: 'MLA Devender Chatar Bhuj Attri ne Uchana ke gaon me Rs 1 crore ke vikas karyon ka shilanyas aur lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/jind/mla-inaugurated-development-works-worth-rs-1-crore-jind-news-c-199-1-sroh1006-144393-2025-11-25',
+    date: '2025-11-24',
+    note: 'Article me somwar likha hai aur article ki slug date 2025-11-25 hai; isse pehle ka somwar 24 Nov 2025 tha — isliye date 2025-11-24 li hai. Shilanyas/lokarpan me shamil: Kalsa gaon me shed aur sachivalaya, Safa Kheri me sachivalaya, Mohan Garh aur Chhapra me chaupal navinikaran, paani nikasi ke liye nala nirman, Gurukul Khera bus stop, aur Kanya Gurukul Khera me shed. Fund ka srot (MLALAD/anya) article me disclose nahi hai.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA Devender Chatar Bhuj Attri ne Chhattar gaon me Rs 30.95 crore ke STP nirman ka bhoomi poojan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/jind/stp-will-be-constructed-for-drainage-in-village-chhattar-at-a-cost-of-rs-3095-crore-jind-news-c-199-1-sroh1006-144983-2025-12-06',
+    date: '2025-12-05',
+    note: 'Article me shukrawar likha hai; photo tag "05 JND" aur slug date 2025-12-06 hai — 5 Dec 2025 ko hi shukrawar tha, isliye date 2025-12-05. Mahagram Yojana ke tahat pure Chhattar gaon me sewerage line bichhegi aur ganda paani STP me jayega; naya jal ghar banne ke baad peene ke paani ki killat khatm hone ka dawa. Usi din Sudkain Khurd me distributary navinikaran ka shubharambh bhi kiya (neeche alag entry).',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA Devender Chatar Bhuj Attri ne Sudkain Khurd me Rs 17 crore ke Sudkain distributary navinikaran karya ka shubharambh kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/jind/stp-will-be-constructed-for-drainage-in-village-chhattar-at-a-cost-of-rs-3095-crore-jind-news-c-199-1-sroh1006-144983-2025-12-06',
+    date: '2025-12-05',
+    note: 'Nehri vibhag khud Rs 17 crore kharch karega; minor ka concrete navinikaran hoga taaki tail tak paani pahunche. MLA ke anusaar Karsindhu, Palwan, Chhattar, Ghoghrian, Kasuhan, Kalta, Rojkhera, Alipura, Baroda aur Sudkain Khurd sahit lagbhag 25,000 acre bhoomi ko sinchai ka labh milega. Chhattar STP wale event ke saath hi hua.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA Devender Chatar Bhuj Attri ne Chhattar gaon me Rs 31 lakh ke Sain dharamshala nirman ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/haryana/jind/uchana/news/the-mla-of-sain-chaupal-laid-the-foundation-stone-in-chhattar-dbp-138171605.html',
+    date: '2026-08-17',
+    note: 'Chhattar gaon me Sain Chowk ke paas Sain Dharamshala ka nirman, lagat Rs 31 lakh. Page par exact tareekh nahi di — page par "2 mahine pehle" likha tha jo 17 Oct 2026 ko dekha gaya; isliye date 2026-08-17 INFERRED hai. Safer side: exact event date confirm nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA ka dawa — Attri ne 100 din me Uchana me Rs 136.80 crore ke kaam shuru hone ka dawa kiya',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/haryana/deputy-government-started-work-worth-136-crores-in-uchana-in-100-days-devendra-atri/',
+    date: '2025-01-28',
+    note: 'Ye keval MLA ki press-conference ka dawa hai — Tribune ne usi roop me report kiya. Dawa kiye gaye kaam: Chhattar me ~Rs 48 crore ka water treatment plant + sewerage, Amrit 2.0 ke tahat Uchana Kalan me Rs 17 crore ki peene ke paani ki pariyojana, Makhand-Baroda 17 km pipeline (Kasuhan, Kalta, Bhonsla, Mohan Garh Chhapra tak), Sudkain Kalan me Rs 2.5 crore ka STP, Uchana Khurd me Rs 3.5 crore ka naya treatment plant (tayar, ~1 mahine me shuru), aur band bus stand dobara chalu. Sarkari college aur Dhakal Kothi rajwaha ko aane wale dinon me hone wala bataya gaya — abhi ghoshna ki had tak hai. Credit capped: ye sarkari yojanaon ke kaam hain, swatantra satyapan nahi mila.',
+    period: '2024-2029',
+    stage: 'pahal',
+  },
+];
+// REJECT-LOG (devender-chatar-bhuj-attri):
+// - Amar Ujala 2025-10-21: Uchana Kalan Shiv mandir gali nirman ka jayaza — sirf nirikshan/daura.
+// - Dainik Tribune 2025-12-19: Vidhan Sabha me mange (Barsola minor, Dhakal head, sewerage, foot overbridge, ITI) — sirf maang, nateeja nahi.
+// - Dainik Bhaskar Nov 2024: pehle Vidhan Sabha satra me mange — sirf maang.
+// - Amar Ujala 2026-01-19: INLD ke Vinod ko BJP me shamil karwana — siyasi khabar.
+// - Dainik Tribune/Amar Ujala Oct 2026: Maharaja Agrasen market naamkaran samaroh me mukhya atithi — bhautik nirman nahi.
+// - Amar Ujala 2026-09-27: Cricket samman samaroh; sarpanch ki mangon par ghoshna — sirf ghoshna.
+// - CM Uchana rally 18 Feb 2025: Rs 103.31 crore projects ka shilanyas/udghatan CM Nayab Saini ne kiya; Attri sirf aayojak/manch (swatantraprabhat/netaji.vip/haryanaekhabar — non-whitelist).
+// - Amar Ujala 2024-11-23: Khet durghatna peediton ko Rs 7,37,500 ke cheque — daan/rahat.
+// - Punjab Kesari Aug 2025: Uchana me "dusri sabse badi IMT" ki ghoshna — sirf ghoshna + non-whitelist.
+// - Niharika Times Sep 2026: Teachers Day par school me solar plant ki ghoshna — sirf ghoshna + non-whitelist.
+// - TOI Apr 2025: Kisanon ka memorandum, CM se uthane ka ashwasan — nateeja nahi.
+// - Korfball association adhyaksh — vikas karya nahi.
+// - Negatives: affidavit me 0 criminal cases (ADR/MyNeta); Brijendra Singh ki election petition (215 rejected postal ballots) civil election dispute hai — FIR/chargesheet/janch nahi; MLA aaropi nahi; criteria poora nahi.
+// RETRY-LEADS (devender-chatar-bhuj-attri): haryanaekhabar.com Dec 2025 Chhattar Rs 18.36 crore jal ghar shilanyas (non-whitelist) — whitelist confirm; MLALAD DC-office itemized list; Dainik Jagran/HT "Devender Attri" + school/hospital kaam retry.
+
+haryanaWorks['krishan-kumar'] = [
+  {
+    title: 'Mantri Krishan Kumar ne 15 June 2025 ko Narwana me Dablain Gate railway overbridge ka ribbon kaatkar lokarpan kiya aur pul se yatayat shuru karwaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/video/haryana/jind/video-cabinet-minister-krishna-bedi-inaugurated-the-dablain-gate-railway-overbridge-2025-06-15',
+    date: '2025-06-15',
+    note: 'Amar Ujala ki post-event video report ke mutabiq samajik nyay evam adhikarita mantri Krishan Kumar Bedi ne ravivaar (15 June 2025) ko Dablain Gate railway overbridge ka ribbon kaatkar lokarpan kiya, jiske baad pul par yatayat shuru hua. ANI-based reports ke mutabik Narwana-Samain Road ke is overbridge ki lagat ~Rs 25 crore thi; Amar Ujala report me lagat ya fund source disclosed nahi tha. Fund-srot report me disclosed nahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: '11 October 2026 ko mantri Krishan Kumar ne Narwana ke Subhash Nagar me Rs 14 lakh ki lagat se bani gali ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/karnal/the-aim-is-to-make-narwana-a-healthy-educated-and-developed-area-bedi/',
+    date: '2026-10-11',
+    note: 'Dainik Tribune (12 Oct 2026 report) ke mutabiq cabinet mantri ne ravivaar ko Narwana me karib Rs 1.70 crore ki 6 vikas pariyojnaon ke uddhatan evam shilanyas kiye; isme Subhash Nagar me Rs 14 lakh ki bani gali ka uddhatan shamil tha. Date inferred: event ravivaar ko hua tha, report 12 Oct 2026 ki hai; 11 Oct 2026 ravivaar padta hai. Amar Ujala ne isi event ki swatantra pushti ki hai. Fund-srot report me disclosed nahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: '11 October 2026 ko mantri Krishan Kumar ne Narwana me karib Rs 65 lakh ki lagat se banne wali do galiyon ki aadharshila rakhi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/karnal/the-aim-is-to-make-narwana-a-healthy-educated-and-developed-area-bedi/',
+    date: '2026-10-11',
+    note: 'Dainik Tribune (12 Oct 2026 report) ke mutabiq cabinet mantri ne ravivaar ko Narwana me karib Rs 65 lakh ki lagat se banne wali do galiyon ki aadharshila rakhi. Date inferred: event ravivaar ko hua tha, report 12 Oct 2026 ki hai; 11 Oct 2026 ravivaar padta hai. Amar Ujala ne isi event ki swatantra pushti ki hai. Fund-srot report me disclosed nahi hai.',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+  {
+    title: '11 October 2026 ko mantri Krishan Kumar ne Narwana ke Chhotu Ram Park aur Loha Mandi me Rs 28 lakh ki lagat se bane do aspirational shauchalayon ka uddhatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/karnal/the-aim-is-to-make-narwana-a-healthy-educated-and-developed-area-bedi/',
+    date: '2026-10-11',
+    note: 'Dainik Tribune (12 Oct 2026 report) ke mutabiq cabinet mantri ne Chhotu Ram Park aur Loha Mandi me Rs 28 lakh ki lagat se bane do aspirational toilet ka uddhatan kiya. Amar Ujala ne isi event ki swatantra pushti ki hai. Date inferred: event ravivaar ko hua tha, report 12 Oct 2026 ki hai; 11 Oct 2026 ravivaar padta hai. Fund-srot report me disclosed nahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: '11 October 2026 ko mantri Krishan Kumar ne Narwana ke Civil Hospital me Rs 58 lakh ki lagat se bani navnirmit aadhunik Block Public Health Unit ka uddhatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/karnal/the-aim-is-to-make-narwana-a-healthy-educated-and-developed-area-bedi/',
+    date: '2026-10-11',
+    note: 'Ye entry sirf Dainik Tribune ki report me hai (Amar Ujala ki report me ye unit nahi dikhi). Report me tasveer caption: (Narwana ke Civil Hospital me Block Public Health Unit ka uddhatan karte mantri). Report me SMO Dr. Devendra Bindalish bhi maujood bataye gaye. Date inferred: event ravivaar ko hua tha, report 12 Oct 2026 ki hai; 11 Oct 2026 ravivaar padta hai. Fund-srot report me disclosed nahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (krishan-kumar):
+// - Danoda (Water Works No.2), Harnampura (pipeline+boosting station), Hatho (water supply modernization) ke 13 Jan 2026 ke udghatan — sirf pre-event announcements (Amar Ujala, 12 aur 13 Jan 2026); post-event whitelist reporting nahi.
+// - Rajgarh Dhobi: Rs 22 lakh chaupal udghatan + Rs 5 crore package ghoshnaen — 5dariyanews (non-whitelist).
+// - Fulian Kalan me Rs 27.43 lakh gali udghatan (Aug 2025) — dailyworld.in (non-whitelist).
+// - Frain/Phren Kalan Gram Sachivalaya (Rs 88.25 lakh) shilanyas, 2 galiyan (Rs 24 lakh) udghatan, vet dispensary (Rs 31 lakh) shilanyas — 5dariyanews/nationaltimesmedia (non-whitelist).
+// - Sacha Khera me Rs 5.25 crore pariyojnaon ke shilanyas (Jul 2025) — dailyworld.in (non-whitelist).
+// - Kharal gaon me Rs 97 lakh ke kaam — indiaepost.com (non-whitelist).
+// - Khararwal-Kaloda Yojak Road (Rs 1.75 crore) shilanyas — daily24x7news.com (non-whitelist).
+// - Harnampura me Rs 32 lakh galiyan udghatan + Kashyap Chaupal (Rs 20 lakh) shilanyas (Mar 2025) — impressivetimes.com (non-whitelist).
+// - CM Nayab Saini dwara Narwana me 19 pariyojnaon (Rs 206.32 crore) ka udghatan/shilanyas (17 Aug 2025) — CM ka vyaktigat karyakram, MLA keval maujood.
+// - Ghoshna-only: HUDA ground sundarikaran, 40 km pipeline, Civil Hospital naya bhavan, naya bus stand, bijli taar-pole, Dhanori drain, ward-12 ghoshna, "Rs 250 crore manzoor" dawe.
+// - Negatives: koi valid negative nahi — Indiankanoon ke (Krishan Kumar) wale cases anya vyaktiyon ke hain; TOI ka grievance-meet article mantri dwara adhikariyon par karyawahi ka hai, mantri khud aaropi nahi.
+// - Naam-jaal: secondary sources (Krishan Kumar Bedi) likhte hain; halafname me (Krishan Kumar) — saari entries Narwana seat ke minister se verify hokar li gayin; kisi anya (Bedi) ke kaam/mamle shamil nahi.
+// RETRY-LEADS (krishan-kumar): Jan 13-14, 2026 ke Danoda/Harnampura/Hatho water works udghatano ki whitelist post-event coverage; Rajgarh Dhobi chaupal udghatan whitelist coverage. Koi page kholne me fail nahi hua.
+
+// ---- Batch 3 END ----
