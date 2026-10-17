@@ -700,3 +700,324 @@ chhattisgarhWorks['pranav-kumar-marpachi'] = [];
 export default chhattisgarhWorks;
 
 // ---- Gaurela-Pendra-Marwahi district batch END (0 works, 0 negatives) ----
+
+// ---- Bilaspur district batch (researched 2026-10-17) ----
+
+chhattisgarhWorks['atal-shrivastava'] = [
+  {
+    title: 'Bilaspur High Court ne June 2026 ki status report ke aadhar par Kota MLA Atal Shrivastava sahit janpratinidhiyon ke khilaf lambit aapradhik prakarnon ki tezi se sunvai ke nirdesh diye — Shrivastava ke khilaf mamla adalat me vicharadhin hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika',
+    sourceUrl: 'https://www.patrika.com/bilaspur-news/high-court-orders-speedy-hearing-of-criminal-cases-against-mps-mlas-20796063',
+    date: '2026-08-01',
+    note: 'Patrika ki page-report ke mutabik, Bilaspur High Court ki division bench (Chief Justice Ramesh Sinha aur Justice Ravindra Kumar Agrawal) ne sansadon, vidhayakon, poorv sansadon aur poorv vidhayakon ke khilaf darj aapradhik prakarnon ki jaldi sunvai karne ke nirdesh nichli adalaton ko diye. Nyaymitra Dr. N.K. Shukla ne sunvai me division bench ko bataya ki pichhli status report ke mukable do lambit aapradhik mamalon ka nirakaran hua hai. June 2026 ki sthiti ke anusaar, Bilaspur jile se sambandhit aapradhik prakaran me Kota vidhayak Atal Shrivastava va anya ke khilaf mamla vicharadhin hai. Division bench ne agli sunvai 25 August tay karke Registrar (Judicial) ko sabhi trial courts se taza report lekar updated status prastut karne ka nirdesh diya. Disclosure: article me Shrivastava ka koi jawab nahi diya gaya hai; jamanat ki sthiti bhi nahi batayi gayi; ye 2023 halafname ke lambit mamalon ka vartaman karyakaal (June-Aug 2026) me nyayik vikas hai — High Court monitoring order — dosh-siddhi nahi hui hai. Stage: vicharadhin.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (atal-shrivastava):
+// 1. Ratanpur-Kota NH-130 kshatigrast puliya — mahachakkajam ghoshna 21 Sep 2024 (cbn36.com, 20 Sep 2024): source whitelist me nahi (chhota portal); khud page par darj hai ki Vidhan Sabha me prashn uthane par mantri ne ashwasan diya tha, lekin mahino tak kaam shuru nahi hua aur koi rashi avontit nahi hui — koi dastaveji nateeja/kaam nahi; sirf andolan ki ghoshna (pre-event) = REJECT. Lead: kisi whitelisted outlet ne puliya ke nirman-kaam ya 21 Sep 2024 ke chakkajam ka follow-up cover nahi kiya.
+// 2. Bilasa Devi Kewat Airport par VS prashn (Haribhoomi, 27 Feb 2024 — 'Kota MLA ne airport par poocha sawal: CM Sai bole- Bilaspur airport ka kaam ho raha poora'): whitelisted outlet, lekin page open nahi ho saka (fetch fail — dubara try nahi kiya gaya); snippet me CM Vishnu Deo Sai ka likhit uttar — Rs 23.99 crore pravdhan, runway/lighting/night-landing kaam, 286.65 acre sainya bhoomi par Raksha Mantralaya se swikriti, 1012 acre ke liye Rs 93 crore ka bhugtan. Lead: MLA ne sawal uthaya tha (credit capped hota), lekin airport Bilaspur shahar (Chakarbhatha) me hai — Kota seat ke bahar sambhav — aur page khul na saka isliye entry nahi. URL: https://www1.haribhoomi.com/state-local/chhattishgarh/news/kota-mla-asked-question-on-the-cm-sai-said-the-work-of-bilaspur-is-being-completed-2024-02-27-12084/amp
+// 3. Bhaskar — Rajasthan politics tehsildar-MLA vivad par bayan (bhaskar.com, ~June 2026): khula page — sirf raajnaitik bayanbaazi (satta-paksh vidhayak par aarop, CM/Grihmantri par nishana); Kota seat ka koi vikas-kaam nahi = REJECT.
+// 4. Bhaskar — Girodpuri dham Guru Ghasidas mela me upasthiti poorv CM Bhupesh Baghel ke saath (~May 2026): dharmik mele me upasthiti, koi bhautik kaam nahi = REJECT.
+// 5. Navbharat Times — Kota kshetra me paani/bijli ki killat par Collector se mulakat (May 2024): khud whitelisted, lekin sirf samasya-uthana/baithak; kaam nahi hua, fund disclosed nahi = REJECT.
+// 6. Amar Ujala — 15th Finance Commission rashi asaman vitran par Collectorate gyapan (10 Jun 2025): Amar Ujala whitelist me nahi; sirf gyapan/maang, koi kaam nahi = REJECT.
+// 7. dailychhattisgarh — Sarv Yadav Samaj karyakram me Vidhayak Nidhi se Rs 10 lakh samajik bhavan hetu swikriti ki GHOSHNA: source whitelist me nahi; aur Vidhayak Nidhi grant-ghoshna rule se hi REJECT (koi itemized sanction list nahi) = REJECT. Lead: itemized Vidhayak Nidhi sanction lists (Bhaskar/Patrika/Haribhoomi/Navbharat) is MLA ke liye kahin nahi mili.
+// 8. cgwall.in — Tenganmada railway underbridge band na karne ke liye DRM ko patra (Dec 2025): source whitelist me nahi; sirf patra/maang, koi dastaveji nateeja nahi = REJECT.
+// 9. sandhyasamikshak.com — Sarnath Express 66 din radd hone par Railway Mantri ko patra (25 Nov 2025): source whitelist me nahi; sirf patra/virodh, koi nateeja nahi = REJECT.
+// 10. khaskhabarchhattisgarh.com — Congress jiladhyaksh Vijay Kesharwani dwara nagar-nikay natijon par MLA ki aalochna: source whitelist me nahi; party-internal raajnaitik aarop — FIR/janch nahi, negative threshold poora nahi = REJECT.
+// 11. Ratanpur DHP bhavan Rs 8.65 crore bhoomipujan (acn18.com, 15 Oct 2026): source whitelist me nahi; bhoomipujan kendriya rajya mantri Tokhan Sahu ne kiya — MLA sirf upasthit tha (dusre neta ke karyakram me maujoodgi) = REJECT. Note: ye MP (Tokhan Sahu, Bilaspur LS) ka kaam bhi nahi darj hota — kendriya suvidha.
+// 12. TOI — 'Kota: FIR against Cong MLA, 20 others' (23 Sep 2026): galat pehchan — ye Rajasthan ke Kota ka Pipalda MLA Chetan Patel Kolana hai, hamare MLA Atal Shrivastava nahi; confusion guardrail = REJECT.
+// 13. lalluram.com — jila aspatal marpeet mamla (Jun 2025): FIR hospital karmchari Yadavendra Kashyap ke KHILAF darj hui — MLA ke pratinidhi Sinu Rao peedit the; MLA khud aaropi nahi = negative nahi, REJECT.
+// 14. satyagyansamagam.com — sarkari zameen vivad (khasra 801/1 etc.) me MLA ka naam maang-soochi me: source whitelist me nahi; sirf hastakshep ki maang, MLA par koi aarop nahi = REJECT.
+// 15. newsdawncg.com — Delhi 'Gyanesh Kumar hatao' andolan me bhagidari (Oct 2026): source whitelist me nahi; raajnaitik andolan me bhagidari, vikas-kaam nahi = REJECT.
+// 16. sbharatnews.com — Hitgrahi Card yojana shubharambh (paryatan mandal adhyaksh ke roop me): pre-term (2022, MLA banne se pehle) + source whitelist me nahi = REJECT.
+// 17. Khul na saka page: Haribhoomi airport wala page fetch fail hua (upar #2 me lead darj). Patrika ka negative page poori tarah khul kar padha gaya — wahi ekmatra entry.
+// 18. Negative screening: nwnews24/dakshinkosal ne HC status report ka hawala dekar BNS dharaon me case/aarop-tay hone ka dawa kiya — dono whitelisted nahi; snippet-bharosa nahi; Patrika (whitelisted, khula page) me 'mamla vicharadhin' darj hai — entry isi par aadharit hai, BNS-dhara detail cite nahi ki gayi. Halafname ke 3 pending mamle akele negative nahi — yahan 2023+ ka nyayik vikas (June 2026 status + Aug 2026 HC speedy-hearing order) hai isliye entry valid hai. Election petition show-cause/negative: koi nahi mila.
+// 19. Vidhayak Nidhi itemized lists: Bhaskar/Patrika/Haribhoomi/Navbharat me is MLA ke liye koi itemized sanction list nahi mili (sirf upar #7 ki ghoshna mili, jo reject hai). MLA nidhi Rs 4 crore/seat/saal ka record online uplabdh nahi (foundation note).
+//
+// QA: 1 entry pass hui (Patrika, whitelisted, poora page kholkar padha; established media + seat-se naam-pahchan 'Kota vidhayak Atal Shrivastava' + HC status report/division bench order = officer-pusht + 2023+ legal development + stage-accurate 'vicharadhin' framing; article me jawab/anupasthiti disclosed). Koi positive works entry whitelisted source se nahi mili — profile ka works section khaali rakhna galat entry se behtar hai.
+chhattisgarhWorks['dharamjeet-singh'] = [];
+
+// REJECT-LOG (dharamjeet-singh, Takhatpur):
+// 1. Naidunia Bilaspur e-paper PDF (19 Sep 2026; page khola aur padha gaya): gram Chitawar me MLA Dharmjeet Singh ne Rs 49 lakh se adhik ke vikas karyon ka bhoomipoojan kiya — samudayik bhavan, school ke 2 atirikt kaksh (Rs 10 lakh aur Rs 12.59 lakh swikrit), Rs 20 lakh ka nala pulia; plus Sakraha shasakiya vidyalaya me Saraswati Cycle Yojana ke tahat 51 balikaon ko cycle vitran aur Rs 6.50 lakh ke prarthana shed ka bhoomipoojan. REJECT: Naidunia/Jagran whitelist me nahi. Ye sabse majboot lead hai (retry-lead A).
+// 2. jantaserishta.com: gram Ganiyari me panchayat bhavan ka lokarpan (MLA mukhya atithi) — Chhattisgarh Mahtari pratima anavaran ko lekar swasahayta samuh mahilaon ka hungama/chakjam; mahilaon ne MLA aur sarpanch ko khari-khoti sunai. REJECT: source whitelist me nahi; event vivadit raha (negative threshold nahi — koi FIR/adhikari-pusht janch nahi). Retry-lead B.
+// 3. Rs 78.51 lakh ke CC sadak + nali bhoomipoojan (gram Dharampura aur Birkona, 12 Oct 2026) — Deputy CM Vijay Sharma (Kawardha MLA) ne bhoomipoojan kiya; Takhatpur MLA Dharmjeet Singh sirf karyakram me maujood/sambodhit (jantaserishta/ajkinews/dainikvishwapariwar — teeno whitelist se bahar). REJECT: dusre neta ka kaam; dono gaon Kawardha kshetra ke hain, Takhatpur seat ke nahi.
+// 4. Haribhoomi (12 Feb 2025, whitelisted): nikay chunav me MLA ne kaha '14 mahine ke vikas karyon ko ginaya'. REJECT: political statement; koi konkret kaam documented nahi.
+// 5. Haribhoomi (18 Dec 2024, whitelisted): Vidhan Sabha sheetkaleen satr me B.Ed abhyarthiyon ke samarthan me mudda uthaya (anupoorak budget ke dauran). REJECT: sirf maang — koi dastaveji nateeja/mantri-ashwasan report nahi hua.
+// 6. Haribhoomi (1 Sep 2026, whitelisted): Delhi me BJP pradesh adhyaksh Kiran Singh Dev ke hospital me halchaal poochne pahunche (kendriya mantri Tokhan Sahu ke saath). REJECT: vikas-kaam nahi.
+// 7. Haribhoomi (budget session 2025, whitelisted): Rajyapal ke abhibhashan par siyasat me MLA ka bayan (Congress par naxal-samarthan ka palatwar). REJECT: bayan, works nahi.
+// 8. Lokswar: Vidhan Sabha me Vidhayak Nidhi 10 crore karne ki maang + JNU me Hidma samarthan wale naroon ka virodh. REJECT: sirf maang; source whitelist me nahi.
+// 9. rajdhanihalchal.com: Seva Sankalp Abhiyan jila-stariya shivir (Bhakurra Navapara, Takhatpur block) me MLA mukhya atithi; 392 me se 356 maangon ka nirakaran, mahila samuhon ko Rs 48 lakh sahayata. REJECT: sarkari abhiyan me mukhya-atithi maujoodgi; source whitelist me nahi.
+// 10. Patrika (whitelisted): CM Vishnu Deo Sai ne Takhatpur-Barela ke beech Maniyari nadi par Rs 3.76 crore pul ka bhoomipoojan kiya; Gaudham yojana ka shubharambh Takhatpur block ke gram Lakhasar se (14 Mar 2026). REJECT: CM/sarkari karyakram; MLA ki vyaktigat bhoomika disclosed nahi.
+// 11. Patrika (whitelisted): PM Awas Yojana rashi vilamb par Nagar Palika Takhatpur ke CEO ko notice. REJECT: shasan ki adhikari-karvai; MLA ka kaam nahi.
+// 12. newsplus21.com / lalluram.com (whitelisted nahi): MLA ke naam/foto ka durupayog kar fake Facebook ID bana paison ki maang — MLA ne Bilaspur SSP ko complaint ki. REJECT: MLA peedit/shikayatkarta hai, aaropi nahi; negative nahi.
+// 13. Times of India: JCC-J se nishkasan (2022) aur BJP me shamil hona (Aug 2023). REJECT: pre-term.
+// 14. cgmitan.com: MLA ka grih-nagar Pandariya daura (shok-samvedana/bhet-mulakat, Aug 2024). REJECT: karya nahi; source whitelist me nahi.
+// 15. Vidhayak Nidhi itemized sanction lists: Collector-office/Bilaspur zila ke kisi sarkari portal ya whitelisted outlet par Takhatpur MLA ke naam par itemized list nahi mili (Dainik Bhaskar/Haribhoomi/Patrika/Navbharat me khoj).
+// 16. gramayatrachhattisgarh.com 'peyjjal rashi se sadak nirman ki janch' (Dharmjeet Singh ne mudda uthaya). REJECT: purani assembly ka mamla (JCCJ Vidhan-mandal era, Lormi) — pre-term.
+// 17. dainandini.in: Chhath Ghat swachhta karyakram me MLA ki upasthiti (Sep 2026). REJECT: abhiyan me maujoodgi; source whitelist me nahi.
+
+// RETRY-LEADS (parent ke liye):
+// A. Chitawar Rs 49 lakh+ bhoomipoojan (Naidunia e-paper PDF 19 Sep 2026, khola/padha gaya hai): samudayik bhavan + 2 atirikt school kaksh (Rs 10L + Rs 12.59L swikrit) + Rs 20L nala pulia. Agar Haribhoomi/Dainik Bhaskar/Patrika/Navbharat me post-event ya bhoomipoojan reporting mile to entry (category: Sadak/School/Any per item; badge: news; note me fund disclosed + MLA ki vyaktigat bhoomika).
+// B. Ganiyari panchayat bhavan lokarpan — whitelisted source par MLA ke vyaktigat lokarpan ki pushti ho to entry (hungama note me disclosed ho).
+// C. Bilaspur collector-office/zila portal par Takhatpur Vidhayak Nidhi sanction list mile to sarkari-badge entries (Rs 4 crore/seat/saal).
+
+// QA: 0 entries pass. Whitelisted sroton me Dec 2023+ ka koi vyaktigat lokarpan/shilanyas, GO-backed swikriti, ya Vidhansabha-maang ka dastaveji nateeja documented nahi mila. Sabstantive leads (Chitawar bhoomipoojan, Ganiyari lokarpan) non-whitelisted portals par hain (retry-leads me darj). Profile khali rakhna niyam-anusar sahi hai — galat entry se khali profile behtar. Negatives: koi nahi (myneta 0 cases; established media me FIR/adhikari-pusht janch nahi; fake-FB-ID mamle me MLA peedit hai).
+chhattisgarhWorks['dharamlal-kaushik'] = [];
+
+// REJECT-LOG:
+// --- Whitelisted sources (khole gaye ya snippet se verify) ---
+// 1. [Haribhoomi (whitelisted), page KHOLA, 5 Mar 2025] Budget session me Amaldih ki
+//    sarkari zameen awantan par prashn — 'Rs 56 crore ki zameen Rs 9 crore me kyun di';
+//    Revenue mantri Tankram Verma ne awantan se inkar kiya (zameen shasan ke naam darj).
+//    Ye accountability-prashn hai, Bilha ka vikas-kaam nahi; koi dastaveji nateeja nahi
+//    (sirf prashn, mantri ka inkar). Category 'sirf prashn/maang, nateeja nahi' → REJECT. URL:
+//    https://www.haribhoomi.com/state-local/chhattishgarh/news/cg-assembly-budget-session-government-land-allotment-mla-dharamlal-kaushik-raipur-74292
+// 2. [Dainik Bhaskar (whitelisted), Godhi gaon (Bilha), ~May 2026] 'Bilaspur Controversy:
+//    MLA Dharamlal vs Congress Leader Heated Argument' — Sushasan Tihar shivir me Congress
+//    neta Rajendra Shukla se manch par teekhi behas, 'chor-chor' naare. Rajnaitik vivaad,
+//    koi FIR/janch nahi; negative threshold fail; koi kaam nahi → REJECT. URL:
+//    https://dainik.bhaskar.com/dRFPWlVUz3b
+// 3. [Dainik Bhaskar (whitelisted), Raipur, ~May 2026] 'MLA's mobile phone stolen, Congress
+//    raises questions' — morning walk ke dauran MLA se mobile loot; ve PEEDIT hain, aaropi
+//    nahi. Na kaam, na negative (threshold: MLA khud aaropi ho) → REJECT. URL:
+//    https://www.bhaskar.com/local/chhattisgarh/bilaspur/news/mla39s-mobile-phone-stolen-congress-raises-questions-dbp-137971568.html
+// 4. [Dainik Bhaskar (whitelisted), Bilha, ~June 2026] Vishva Paryavaran Diwas par paudharopan
+//    + safai abhiyan; MLA ne sandesh diya. Abhiyan/shubharambh, koi bhautik sanrachna nahi
+//    → REJECT. URL:
+//    https://www.bhaskar.com/local/chhattisgarh/bilaspur/bilha/news/plants-were-planted-in-bilha-on-world-environment-day-and-a-cleanliness-drive-was-launched-dbp-138136769.html
+// 5. [Dainik Bhaskar (whitelisted), Kormi, ~Jan 2026] Mahila Morcha pradesh upaadhyaksh Punita
+//    Dahariya ki MLA se shishtachar bhet. Sangathanatmak mulakat, koi kaam nahi → REJECT. URL:
+//    https://www.bhaskar.com/amp/local/chhattisgarh/bilaspur/news/state-vice-president-of-mahila-morcha-punita-met-mla-kaushik-136727624.html
+// 6. [Dainik Bhaskar (whitelisted), Bilaspur, Aug 2025] Shaheed Vinod Singh Kaushik smriti me
+//    medhavi chhatra samman samaroh — MLA vishisht atithi suchi me. Mukhya-atithi samaroh
+//    → REJECT. URL:
+//    https://www.bhaskar.com/amp/local/chhattisgarh/bilaspur/news/meritorious-students-will-be-honored-on-12th-in-memory-of-martyr-vinod-135642505.html
+// 7. [New Indian Express (whitelisted), Mar 2026] CM Vishnu Deo Sai ka kisan karyakram
+//    (Chakrabhata PHC upgrade, Mangla school, Rahangi playground, samudaay bhavan ghoshnaen)
+//    — ghoshnaen CM ki; MLA ne sirf swagat kiya. Dusre neta ke karyakram me maujoodgi +
+//    sirf ghoshna → REJECT. URL:
+//    https://www.newindianexpress.com/business/press-releases/2026/Mar/01/chief-minister-shri-vishnu-deo-sai-reaffirms-commitment-to-farmers-dignity-and-prosperity
+// 8. [Patrika (whitelisted), ~2020] Netapratipaksh-kaaleen Ambikapur press conference
+//    (dhaan khareed par Congress sarkar par hamla) — PRE-TERM (2023 se pehle) → REJECT. URL:
+//    https://www.patrika.com/ambikapur-news/dharamlal-kaushik-leader-of-opposition-dharamlal-attack-on-government-6523352
+// --- Non-whitelisted leads (source whitelist me nahi; coordinator retry kar sakta hai) ---
+// 9. [shuru.co.in — whitelist me NAHI, ~8 Apr 2026] Darri-Dhuma-Silpahri marg (Rs 7.32 crore,
+//    3.75m chaudai) ka bhoomi pujan — MLA mukhya atithi, vidhivat pujan kiya. Bhautik sadak +
+//    vyaktigat bhoomika VALID ho sakta tha, lekin source whitelisted nahi → REJECT. URL:
+//    https://shuru.co.in/post/7b7daaf8-5343-4b5b-bd9a-5887169260e6
+// 10. [shuru.co.in — whitelist me NAHI, ~Feb 2026] Kendriya Sadak Nidhi se 28 km sadak
+//     (Sirgitti, Sarwani, Pasid, Bartori, Dagori; Rs 68.43 crore) ka bhoomi pujan — MLA
+//     shaamil, puja-archana ki. Source whitelisted nahi → REJECT. URL:
+//     https://shuru.co.in:443/post/4359f4e6-2b3e-4670-a710-b4bf7eabd8c3
+// 11. [shuru.co.in — whitelist me NAHI, 28 Mar 2026] Sirgitti me Rs 1 crore ke vikas karyon
+//     ka bhoomi pujan (Bannakdih chowk se railway underbridge tak 3 km street-light/
+//     vidyutikaran). Source whitelisted nahi → REJECT. URL:
+//     https://shuru.co.in:443/post/9bb8f410-affd-413b-bc98-273a7fa58040
+// 12. [shuru.co.in — whitelist me NAHI, ~Mar 2025] Chakarbhata PM Shri Swami Atmanand school
+//     me Rs 7.63 lakh ke art-and-craft kaksh ka udghatan (Samagra Shiksha) + Saraswati cycle
+//     vitran. Bhautik kaksh ka vyaktigat udghatan VALID ho sakta tha, lekin source whitelisted
+//     nahi; cycle vitran = daan/rahat → REJECT. URL:
+//     https://shuru.co.in/post/4041a4c2-71a6-46f4-b665-f69924c3fe3d
+// 13. [shuru.co.in — whitelist me NAHI, ~Dec 2025] Rashtriya pulse polio abhiyan ka shubharambh
+//     (Bilha). Abhiyaan ka shubharambh → REJECT. URL:
+//     https://shuru.co.in/post/af0a530f-1141-441c-b72b-c53ab66d0e9d
+// 14. [shuru.co.in + thesootr.com — DONO whitelist me nahi, Dec 2024 winter session] Jal Jeevan
+//     Mission bhrashtachar par MLA ka prashn: Bilha/Patharia block me 211 me se 119 kaam
+//     apoorn; 7 firm doshi, 1 FIR (Vijay Salunkhe), 6 ke anubandh nirast, janch samiti gathit.
+//     Vidhansabha prashn ka dastaveji nateeja (credit capped) VALID ho sakta tha, lekin source
+//     whitelisted nahi → REJECT. Whitelisted coverage mile to coordinator entry bana sakta hai. URLs:
+//     https://shuru.co.in:443/post/9268b510-2500-4fdf-a967-099bd75c2077
+//     https://thesootr.com/rss/tags/bilaspur
+// 15. [newsaction.co.in — whitelist me NAHI, 31 Dec 2025] 'MLA ki anushansa par Bilha ko Rs 55
+//     lakh ki saugat — CM ne 6 gram-panchayat vikas karyon ko swikriti di'. Mantri/CM ka
+//     sarvajanik shrey (capped) VALID ho sakta tha, lekin source whitelisted nahi → REJECT.
+//     Coordinator whitelisted coverage dhoondhe. URL: https://newsaction.co.in/archives/date/2025/12
+// 16. [sabkasandesh.com — whitelist me NAHI, ~Aug 2024] Nagar Panchayat Bodri ko Nagar Palika
+//     ka darja — MLA ke netritva me CM ko aavedan, CM ne ghoshna ki. Sirf maang + CM ki
+//     ghoshna, source whitelisted nahi → REJECT. URL: https://sabkasandesh.com/233966/
+// 17. [hamarsangwari.com — whitelist me NAHI, ~Oct 2026] Sirgitti me Rs 13 crore ke sports
+//     complex ki prashasnik swikriti — Second Inning cricket committee ki maang, MLA ne Dy CM
+//     Arun Sao se charcha karke shasan star par pahunchaya (portal ka dawa). Samudaay ka
+//     sarvajanik shrey (capped) VALID ho sakta tha, lekin source whitelisted nahi + abhi sirf
+//     swikriti → REJECT. URL: https://hamarsangwari.com/?p=37608
+// 18. [nayabharat.live — non-established clone, Navbharat (whitelist) NAHI, Nov 2025] CM Sai ka
+//     Rs 329 crore Bilaspur karyakram (Sirgitti-Sarwani-Pasid-Amaldiha-Bartori-Dagori marg
+//     Rs 69.79 crore ka shilanyas sahit) — CM ka karyakram, MLA ki vyaktigat bhoomika disclosed
+//     nahi + source established nahi → REJECT. URL:
+//     https://nayabharat.live/cg-news-this-district-of-chhattisgarh-got-a-gift-worth-crores-cm-sai-inaugurated-development-works-worth-more-than-rs-329-crores/
+// 19. [bharatiyadigitalnews.in — whitelist me NAHI, ~2025] Atal Parisar Bilha ka lokarpan +
+//     Dy CM Arun Sao ne Rs 16 crore ke vikas karyon ki ghoshna ki; karyakram ki adhyakshata
+//     MLA ne ki. Ghoshnaen Dy CM ki (sirf ghoshna), source whitelisted nahi → REJECT. URL:
+//     https://bharatiyadigitalnews.in/single/15407
+// 20. [vandebharatlivetvnews.com — whitelist me NAHI, ~Oct 2024] Bilha block ke Sarwani me PM
+//     Awas Yojana (grameen) ke 9,422 awason ka bhoomi pujan (Rs 11,306.40 lakh) — MLA, kendriya
+//     mantri Tokhan Sahu ke saath shaamil. Kendriya yojana ka vitran = daan/rahat +
+//     source whitelisted nahi → REJECT. URL:
+//     https://vandebharatlivetvnews.com/%e0%a4%aa%e0%a5%80%e0%a4%8f%e0%a4%ae-%e0%a4%86%e0%a4%b5%e0%a4%b8-%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be-%e0%a4%95%e0%a5%87-%e0%a4%a4%e0%a4%bf/
+// 21. [navbharattimes24x7.in — copycat domain, asli Navbharat NAHI, 2025] Swami Atmanand school
+//     Sargaon me Saraswati cycle vitran; MLA mukhya atithi. Sarkari yojana ka vitran =
+//     daan/rahat + Sargaon Mungeli jile me (Bilha seat nahi lagta) → REJECT. URL:
+//     https://navbharattimes24x7.in/facilities-provided-to-girl-students-for-spreading-education-are-a-boon-for-their-bright-future-dharamlal-kaushik/
+// 22. [chhattisgarhaaj.com — whitelist me NAHI, 2025] Hirri (Bilha block) Sushasan Tihar shivir
+//     me MLA mukhya atithi — KCC, Noni Sashaktikaran, pension, Ayushman, ration card vitran.
+//     Sarkari yojanaon ka vitran = daan/rahat → REJECT. URL:
+//     https://chhattisgarhaaj.com/article-cg.php?page=184&menuid=20
+// 23. [dainikchhattisgarhwatch.com — whitelist me NAHI, 30 Jul 2026] Press club 'Hamar Pahuna'
+//     me MLA ke dawe: Arpa-Bhaisajhar sinchai pariyojna antim charan, Patharia barrage ke liye
+//     Rs 55 crore, Dagauri rail line ke aage sinchai vistar ke liye Rs 70 crore swikrit.
+//     Keval MLA ke dawe (dawa framing) — lekin source whitelisted nahi → REJECT. URL:
+//     https://dainikchhattisgarhwatch.com/2026/07/30/state-moving-towards-a-new-direction-of-development-under-bjp-government-dharamlal-kaushik/
+// 24. [shuru.co.in — whitelist me NAHI, ~Dec 2025] WATCH-ITEM: Bilha se Bilha Mod tak sadak
+//     (jiska bhoomi pujan MLA ne kiya tha) me gunvatta-heen divider kaam ki sthaniya shikayat.
+//     Non-whitelisted source ki shikayat; koi FIR/adhikari-pusht janch nahi → negative nahi,
+//     lekin coordinator note kare. URL:
+//     https://shuru.co.in:443/post/bd7b096c-e6c0-4428-9fa5-674979892ca8
+// 25. [shuru.co.in — whitelist me NAHI, ~Feb 2026] Dadha-Bodri marg: MLA ne bhoomi pujan kiya
+//     tha 'magar nirman karya nahi ho paya' — sthaniya shikayat. Bhoomi-pujan ke baad kaam
+//     na hona; non-whitelisted → REJECT, coordinator whitelisted coverage me verify kare. URL:
+//     https://shuru.co.in/post/ee5022ac-6753-456b-ae53-ab264da70d73
+// --- Vidhayak Nidhi ---
+// 26. Collector Bilaspur / bilaspur.nic.in par Bilha seat ki itemized Vidhayak Nidhi sanction
+//     lists online nahi mili (foundation note bhi kehta hai neta-war kharch ka record online
+//     uplabdh nahi hai). Khoj jaari rakhe — coordinator DPR/collector soochna se retry kare.
+// --- Negatives (sakht threshold) ---
+// 27. Koi negative nahi mila: MLA khud kisi FIR ya naam-daar adhikari-pusht janch me aaropi
+//     nahi. Mobile-theft me ve peedit the (Bhaskar #3). Jal Jeevan/PSC ghotalon me ve prashn
+//     uthane wale hain, aaropi nahi. Jhiram janch aayog ke khilaf unki ~2013 ki HC yachika
+//     pre-term hai, koi FIR/janch unke khilaf nahi. Parivar ke mamle koi nahi mile.
+// --- Naam-jaal check ---
+// 28. Siyaram Kaushik (INC) 2023 me inke pratidvandi the — alag vyakti. Kisi bhi mili hui
+//     khabar me dono ke naam uljhe hue nahi mile. Bhaskar ki 2017 ki Pathariya manch-vivaad
+//     khabar (BJP pradesh adhyaksh vs tatkalin MLA Siyaram) pre-term rajnaitik ghatna hai,
+//     karyakaal se bahar → REJECT.
+chhattisgarhWorks['amar-agarwal'] = [];
+
+// REJECT-LOG (amar-agarwal):
+// 1. Jan 7, 2026: 10+ karyakramon me bhoomipujan/lokarpan — ward 66 PMC Sejes shasakiya school (Rs 20 lakh
+//    bhoomipujan), ward 63 Arvind Nagar samudayik bhavan boundary wall (Rs 22 lakh lokarpan), ward 60 Kachchh
+//    Gurjar Kshatriya Samaj Bhavan (Rs 15 lakh additional room bhoomipujan), Sejes Atmanand School Tarbahar
+//    (Rs 47.96 lakh bhoomipujan), 27 Kholi Chowk Guru Teg Bahadur Dwar jeernodhar, Shiv Mandir Shubham Vihar
+//    (Rs 260.74 lakh, 38 kaam bhoomipujan). Page khulakar verify hua
+//    (https://newsaction.co.in/archives/152577, 07 Jan 2026) lekin outlet whitelist me NAHI = REJECT.
+//    Note: yahi events ka koi whitelist-outlet (Haribhoomi/Navbharat/Patrika/Bhaskar) version search me nahi mila.
+// 2. ~Sep 2026 (19 din purani khabar): vidhayak ke prastavon par ~Rs 5.36 crore ke vikas karyon ki "saugat"
+//    — schools/colleges me additional rooms, toilets, furniture, samudayik bhavan, boundary wall + 30 shasakiya
+//    sansthanon me Rs 30 lakh ke water cooler (lokswar.in, portal). Sirf ghoshna/prastav, whitelist me NAHI,
+//    itemized GO nahi = REJECT (niyam: Vidhayak Nidhi ki grant-ghoshna bhi REJECT).
+// 3. May 2025 (~511 din purani): unke prayason se Rs 2 crore+ ki swikriti — schools me Rs 45.5 lakh, samudayik
+//    bhavanon me Rs 56 lakh + Rs 90 lakh, open gym Rs 13 lakh (aapkiaawaz.net, portal). Ghoshna/sarkari-vivran
+//    ke bina, whitelist me NAHI = REJECT.
+// 4. Feb 2026 est.: Sakri zone-1 me Rs 45.47 crore ke lokarpan/shilanyas ka karyakram unke aur MP Tokhan Sahu
+//    ke naam nimantran-patra se gayab hone par sthagit (Haribhoomi: haribhoomi.com/...-661536; khabar36.com).
+//    Event hua hi NAHI; unke karyakram ka kaam nahi — REJECT. (Negative nahi: factionalism ki charcha hai,
+//    unke khilaf koi aarop/FIR nahi.)
+// 5. Oct 30, 2024: PM Modi ne CIMS Super Specialty Hospital Bilaspur ka virtual lokarpan kiya; ve maujood the
+//    (Telegraph India). Dusre neta ke karyakram me maujoodgi matra = REJECT.
+// 6. Jan 6-7, 2026: CM Vishnu Deo Sai ki adhyakshata me Bilaspur urban development samiksha baithak (Arpa SADA,
+//    CIMS naye hospital building AS tez, airport vistar) — ve sahit 3 MLAs maujood (thehitavada.com,
+//    oneindia.com). Sirf upasthiti; faisle CM/rajya sarkar ke = REJECT (Smart City/nagar-nigam kaam bina
+//    seedhi MLA-bhoomika ke nahi).
+// 7. Aug 13, 2025: CM ne Bilaspur me Rs 260 crore+ ke kaamon ka lokarpan/shilanyas kiya — ve maujood
+//    (newz24india.in). CM ke karyakram me maujoodgi = REJECT.
+// 8. Mar 14, 2026: CM ne Gaudham Yojana launch ki, ve maujood (thestatesman.com). Rajya-yojna launch me
+//    maujoodgi = REJECT.
+// 9. Jan 2026: Ganatantra Divas jhandarohan vivaad — 3 senior MLAs (ve sahit) ko jhandarohan ka avsar na milna
+//    (english.dainikjagranmpcg.com). Vikas-kaam se sambandhit nahi = REJECT. (Negative bhi nahi — unke
+//    khilaf koi aarop nahi.)
+// 10. Nov 2025: CREDAI Property Expo ka unhone shubharambh kiya (newsdawncg.com). CSR/niji-abhiyan ka
+//    shubharambh, bhautik sarkari sanrachna nahi = REJECT.
+// 11. Oct 2026: Maharaj Agrasen Jayanti par pratima par malyarpan (hamarsangwari.com). Karyakram-shirkat,
+//    vikas-kaam nahi = REJECT.
+// 12. Election coverage (2023 jeet, ex-minister profiles — TOI, ET, IE/PTI, ThePrint, rediff): kaam nahi,
+//    sirf parichay/pardshbhoomi = REJECT (kaam-count me nahi).
+// 13. Vidhayak Nidhi itemized lists: Bilaspur jila ki Collector-office se nikalne wali koi public itemized
+//    Vidhayak Nidhi sanction list unke naam par web par indexed nahi mili; CG DPR releases browser se
+//    uplabdh nahi hui. Isliye koi sarkari-badge (sarkari) entry possible nahi.
+// 14. NEGATIVE CHECK: Indian Express "Chhattisgarh Congress MLA arrested" — Congress MLA (Bhilai Nagar) ka
+//    mamla, ye nahi; Business Standard: "Criminal Cases: No" (2023 halafnama). Unhe aaropi banane wali koi
+//    established-media report 2023+ me nahi mili. Koi qualifying negative nahi.
+//
+// QA: ~14 web searches (Hindi + English) + 1 page-open. Haribhoomi/Navbharat/Patrika/Dainik Bhaskar par
+// inke Dec 2023+ Bilaspur seat-vishesh karyon ki koi coverage indexed nahi mili; chhote portals par mile
+// 3 leads (#1, #2, #3) whitelist-rule se cite nahi ho sakte. Isliye khaali profile (0 entries) — niyam ke
+// mutabik sahi parinam. Agar inme se koi story whitelist outlet par mile, to whitelist URL se entries banai
+// ja sakti hain (Jan 7, 2026 wali events: Rs 20 lakh ward-66 school bhoomipujan, Rs 22 lakh ward-63 boundary
+// wall lokarpan, Rs 15 lakh ward-60 samaj bhavan room bhoomipujan, Rs 47.96 lakh Tarbahar school bhoomipujan,
+// Rs 260.74 lakh/38 kaam Shiv Mandir Shubham Vihar bhoomipujan — sabhi vyaktigat bhoomipujan/lokarpan, badge news).
+chhattisgarhWorks['shushant-shukla'] = [
+  {
+    title: 'Mopka (Bilaspur) me Rs 13.84 crore ka multipurpose indoor stadium — Khelo India mad se prashasakiya svikriti, Beltara MLA ki maang par',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/bilaspur/news/1390-crore-received-for-multipurpose-indoor-stadium-135173166.html',
+    date: '2025-06',
+    note: 'Dainik Bhaskar ke anusar kendra ki Khelo India yojana ke mad se Bilaspur ke Mopka me Rs 13.84 crore ki lagat se multipurpose indoor stadium (badminton court, volleyball, basketball, shopping complex, cafe) ki prashasakiya svikriti mili; Beltara vidhayak Sushant Shukla kendriya yuva-karya mantri Mansukh Mandaviya se satat patrachar aur Delhi me mulakat karke maang uthate rahe the aur CM Vishnu Deo Sai se bhi appeal ki thi. Fund: Rs 7.50 crore kendra sarkar degi, shesh rajya sarkar. Credit: sarkaron ki svikriti, MLA ki maang par (capped). Date: page par relative date (~1 saal pehle); search record ke anusar ~Jun 2025.',
+    period: '2023-2028',
+    stage: 'svikriti'
+  },
+  {
+    title: 'Vidhan Sabha prashn par Beltara me jameen-panjiyan gadbadi ki janch ka vittmantri ka ailan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattishgarh/news/op-choudhary-mlas-revenue-department-beltara-registration-irregularities-investigation-38006/amp',
+    date: '2024-07-25',
+    note: 'Haribhoomi ke anusar Chhattisgarh Vidhan Sabha ke prashnkal me Beltara vidhayak Sushant Shukla ne jameenon ke panjiyan me gadbadi (kotwari jameen ki bikri, bina Aadhaar/PAN verification ke panjiyan) ka mudda uthaya; jawab me vittmantri O.P. Choudhary ne Beltara vidhan sabha kshetra me panjiyan gadbadi ki janch karane ka ailan kiya aur registry vibhag me vigilance cell ke gathan ki jankari di. Credit: mantri ka ailan/ashwasan; MLA ne mudda uthaya (capped).',
+    period: '2023-2028',
+    stage: 'mantri-ashwasan'
+  }
+];
+
+// REJECT-LOG (shushant-shukla, Beltara):
+// 1. [Dainik Bhaskar (whitelisted), ~Jun 2026] 'Belthara MLA Sushant Shukla: 10 Crore Development Work Approved' — nagriya prashasan vibhag ne MLA ki pahal par 18 wardon me Rs 10 crore ke kaam ki SVIKRITI di; nivida shuru. Page khola aur padha. Sirf svikriti/ghoshna (kaam shuru bhi nahi hue) → REJECT. URL: https://www.bhaskar.com/g/local/chhattisgarh/bilaspur/news/belthara-mla-sushant-shukla-10-crore-development-work-approved-137586774.html
+// 2. [Haribhoomi (whitelisted), 17 Jan 2024] 'Yuva vidhayak ne dikhaye tevar' — Khuntaghat shasakiya primary shala ka nirikshan; tiles ki jagah flooring par thikedar/JD ko fatkar, pradhan pathak ka vetan kata. Sirf nirikshan/daura, koi lokarpan/swikriti nahi → REJECT. URL: https://www.haribhoomi.com/amp/state-local/chhattishgarh/news/young-mla-showed-attitude-angry-seeing-flooring-instead-tiles-classroom-headmistress-s-act-caught-5189/amp
+// 3. [Haribhoomi (whitelisted), 17 Feb 2024] 'Rahul Gandhi ke khilaf shikayat' — MLA ne Sarkanda thane me Rahul Gandhi ke khilaf likhit shikayat di (PM Modi par tippani). Raajnaitik kadam, koi vikas-kaam nahi → REJECT. URL: https://www.haribhoomi.com/state-local/chhattishgarh/news/complaint-against-rahul-gandhi-mla-sushant-shukla-approaches-police-comments-pm-modi-2024-02-17-10405/amp
+// 4. [Navbharat Times (whitelisted), 19 Jul 2026] Baadh-prabhavit kshetron ka daura — ghutne-tak paani me coloniyon ka nirikshan, adhikariyon ko rahat ke nirdesh. Sirf daura/nirikshan, koi bhautik nirmaan nahi → REJECT. URL: https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/mla-sushant-shukla-meet-residents-and-issues-directives-to-officials-heavy-rain-in-bilaspur/articleshow/132491260.cms
+// 5. [Navbharat Times (whitelisted), 16 Dec 2025] Ration-card mudde par MLA ne apni hi sarkar ko ghera — khadya mantri ne aarop kharij kiye, koi janch/ashwasan nahi. Sirf prashn, koi dastaveji nateeja nahi → REJECT. URL: https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/assembly-winter-session-issue-of-ration-cards-bjp-mla-criticized-his-own-government-expressing-dissatisfaction-with-the-minister-response/articleshow/126003182.cms
+// 6. [Dainik Bhaskar (whitelisted), ~Aug 2026] Amarkantak me 4 CG vidhayakon ki Narmada puja — dharmik yatra, koi kaam nahi → REJECT. URL: https://www.bhaskar.com/local/chhattisgarh/gaurela/news/amarkantak-chhattisgarh-mla-narmada-puja-mahadev-darshan-visit-138687163.html
+// 7. [Dainik Bhaskar (whitelisted), ~Sep 2025] Teeja-Pora festival Beltara — mahilaon ke liye samaroh, saadi-suhag ka saman vitran. Samaroh/vitran, koi nirmaan nahi → REJECT. URL: https://www.bhaskar.com/local/chhattisgarh/bilaspur/news/teeja-pora-festival-celebrated-in-beltara-video-135696520.html
+// 8. [Dainik Bhaskar (whitelisted), ~May 2026] DMF baithak me bullet par aaye MLA — human-interest, koi kaam nahi → REJECT. URL: https://dainik.bhaskar.com/wEgfMier62b
+// 9. [Haribhoomi (whitelisted), 5 Mar 2025] Sarpdansh-muavza farziwada (Rs 17 crore, 431 log) — MLA ke sawal par rajaswa mantri Tankram Verma ne janch ki ghoshna ki. Ye Bilaspur jile-stariya mudda hai (sirf Beltara seat ka nahi), aur janch ka parinaam documented nahi; shanka par REJECT, lead rakha. URL: https://www.haribhoomi.com/state-local/chhattishgarh/news/raipur-minister-tankaram-verma-mla-sushant-shukla-snake-bite-74317
+// 10. [newsdawncg.com (non-whitelist), 23 Sep 2026] Beltara ki 5 panchayaton (Danganiya, Khaira-D, Basaha, Limha, Korbi) me Rs 18.67 crore ke kaam ka bhoomi pujan/shilapujan; PMGSY sadkein (Danganiya 2.70 km Rs 2.50 cr, Limha 10.10 km Rs 10.25 cr sahit), up-swasthya kendra, CC sadak — MLA mukhya atithi. Non-whitelisted portal → REJECT. URL: https://newsdawncg.com/?p=34451
+// 11. [newsdawncg.com (non-whitelist), ~Oct 2026] Mukhyamantri Nagrotthan yojana se zone-7 me Rs 18.96 crore ki svikriti (Mata Karma Chowk-Mopka bypass Rs 9.38 cr, Khamtarai road Rs 4.58 cr, Chatidih shopping complex Rs 4.99 cr) — 'MLA ki pahal par' ka ekmatra aadhaar dawa; non-whitelist + sirf svikriti → REJECT. URL: https://newsdawncg.com/?p=35173
+// 12. [nationalcrimenewss.blogspot.com (blogspot — sakht reject), 24 Sep 2026] 6 panchayaton me Rs 13.94 crore ke kaam ka bhoomi pujan/shilapujan/lokarpan — blogspot → REJECT. URL: http://nationalcrimenewss.blogspot.com/2026/09/beltara-development-works-13-94-crore-six-gram-panchayats.html
+// 13. [sbharatnews.com (non-whitelist), ~Dec 2024] Semartal, Lakhram, Lagra me 3 Mahatari Sadan (kul Rs 74.10 lakh) ka bhoomi pujan — sarkari yojana ka samaroh + non-whitelist → REJECT. URL: https://sbharatnews.com/?p=121087
+// 14. [hamarsangwari.com (non-whitelist), ~Oct 2026] Ward-50 Lingiyadih me sadak-nali nirmaan ka bhoomi pujan — parshad ka karyakram; MLA ki vyaktigat bhoomika/fund undisclosed + non-whitelist → REJECT. URL: https://hamarsangwari.com/?p=37872
+// 15. [khabar36.com (non-whitelist)] Sakri me Rs 50 crore ke lokarpan-bhoomi pujan ka karyakram TAL GAYA; Beltara seat ka nahi (Takhatpur/Bilaspur) → REJECT. URL: https://khabar36.com/the-union-minister-of-states-name-was-not-included-in-the-inauguration-and-foundation-stone-laying-ceremony-program/
+// RETRY-LEADS (parent ke liye):
+// A. Bhaskar ka Rs 10 crore svikriti report (~Jun 2026, 18 wards) — agar 2026-27 me ye sadak/nali/paani ke kaam bane aur Bhaskar/Haribhoomi/Patrika me MLA ke vyaktigat lokarpan ki post-event reporting aaye to Sadak/Paani entries ban sakti hain.
+// B. blogspot par darj Lakhanpur (Basin Pat) me Vidhayak Nidhi se Rs 10 lakh ki boundary-wall ka lokarpan (Oct 2026) — agar koi whitelisted outlet iski post-event reporting kare to Vidhayak Nidhi lokarpan entry ban sakti hai (fund disclosed: Vidhayak Nidhi).
+// C. newsdawncg ke Rs 18.67 crore bhoomi pujan (Sep 2026) / Rs 13.94 crore (Sep 2026) reports — agar whitelisted outlet (Bhaskar/Haribhoomi/Patrika) inhi karyakramon ki post-event reporting kare to Sadak/School/Aspataal entries ban sakti hain; PMGSY sarkari portal par sanction list bhi check karein.
+// D. Vidhayak Nidhi itemized lists: Collector Bilaspur karyalaya ki itemized sanction lists online nahi mili — DPR/CG press ya Collector notice-board check karna hoga.
+// E. Mahatari Sadan bhoomi pujan (~Dec 2024, sbharatnews) — sarkari yojana hai, whitelisted reporting mile to hi vichaar.
+// F. Sarpdansh-muavza janch (Haribhoomi, 5 Mar 2025, Rs 17 crore farziwada) — mantri ne janch ghoshit ki thi; janch ka parinaam documented ho to entry ban sakti hai (Beltara-seat framing me saavdhaani).
+chhattisgarhWorks['dilip-lahariya'] = [];
+
+// REJECT-LOG (dilip-lahariya, Masturi SC):
+// 1. Malhar-Chilhati marg (via Dhangawan, Okhar, Gidhpuri, Bahtara, Bhatchaura, Chilhati), 25 km, Rs 55.43 crore ki prashaskiya swikriti — page khola aur padha (apnachhattisgarh.com, 1 Oct 2026; 2024-25 budget me MLA ki pahal, PWD prakkalan/NOC ke baad mantralay-star se swikriti ka dava). REJECT: source whitelist me nahi (chhota portal). Post-event/prashaskiya swikriti hone ke karan ye sabse majboot lead hai.
+// 2. Naidunia Bilaspur e-paper (30 Jul 2026) me Masturi seat-report: MLA ka dava 'dhai saal me vikas ko mili gati, sadak ke liye fund jaari karaya' + nivasi-quote wala 'vaade nibhe bhi, kai abhi adhure'. REJECT: Jagran/Naidunia whitelist me nahi + keval MLA ka dava (dawa-entry ka bhi yogya nahi — koi konkret kaam/documented bhoomika nahi).
+// 3. Bhaskar 'The strength of Congress is its workers: MLA Lahariya' (Chilhati, Panchpedi; ~600 karyakarta sammelan) — Dainik Bhaskar (whitelisted). REJECT: party karyakram, vikas-kaam nahi.
+// 4. Bhaskar 'Congress MLA Report card LokSabha election' — whitelisted outlet, Masturi seat par BJP ki ~2,000 vote lead ka vishleshan. REJECT: chunavi vishleshan, works nahi.
+// 5. 'Mor Duar-Sai Sarkar' abhiyan ke tahat Beltukari (Masturi block) me PMAY-G Awaas Plus 2.0 survey me MLA ki bhagidari — gramayatrachhattisgarh.com (Apr 2025). REJECT: abhiyan-shubharambh/survey me maujoodgi; whitelist me nahi.
+// 6. Swatantrata Divas 2024 par Pachpedi me dhvajarohan/flag-hoisting — satyagrahnews.in. REJECT: samaroh, whitelist me nahi.
+// 7. Veerani Public School Sipat varshik utsav me mukhya atithi (Dec 2023) — dainikchhattisgarhwatch.com. REJECT: CSR/mukhya-atithi samaroh, whitelist me nahi.
+// 8. Vishva Adivasi Divas samaroah, Aamakoni (Pachpedi) me mukhya atithi — apnachhattisgarh.com. REJECT: samaroh, whitelist me nahi.
+// 9. Bhaskar 'Trained employees on the SIR process' (Masturi, Block Congress Committee baithak ki adhyakshata) — Dainik Bhaskar (whitelisted). REJECT: party baithak, works nahi.
+// 10. Delhi 'Gyanesh Kumar Hatao' andolan me bhagidari ke liye ravana, Oct 2026 — newsdawncg.com. REJECT: party andolan, whitelist me nahi.
+// 11. 'Masturi: 47 karyon ke liye 3.5 crore ki swikriti' (Feb 2026) — public.app video snippet. REJECT: aggregator + snippet-matra; page khola nahi ja saka aur MLA ka naam snippet me nahi.
+// 12. Vidhayak Nidhi itemized sanction lists: Collector-office/Bilaspur zila se Dilip Lahariya ke naam par koi itemized list whitelisted outlet ya sarkari portal par nahi mili. Khoj me sirf samanya 'swikriti' khabren (onlinebulletin.in, gramayatrachhattisgarh.com) aayin jisme MLA ka vyaktigat ullekh nahi.
+// 13. SIMS swasthi samiti baithak (Sep 2024) me upasthiti — hashtagu.in tag feed se utha text (mool reporting aspasht). REJECT: samiti-bhaithak me upasthiti-matra; MLA ke Masturi seat ke kaam se sambandhit nahi.
+// 14. Feb 2025 bhitaraghat shikayat (PCC poorv sachiv Ravi Shrivas ne zila adhyaksh ko patra, MLA + putra Arvind par panchayat chunav me adhikrit pratyashi ke khilaf kaam ka aarop; audio viral ka dava) — ibc24.in / cbn36.com. REJECT: intra-party political shikayat, criminal/FIR nahi; dono source whitelist me nahi. Negative threshold poora nahi.
+
+// RETRY-LEADS (parent ke liye):
+// A. Malhar-Chilhati 25 km sadak, Rs 55.43 crore prashaskiya swikriti (page khola/padha gaya hai; MLA ki vyaktigat pahal ka dava, 2025-26 budget). Agar Haribhoomi/Dainik Bhaskar/Patrika/Navbharat me post-event ya sanction reporting mile to Sadak-category entry (badge: news, note me sarkari prashaskiya swikriti + MLA ki pahal ka srot-capped credit).
+// B. Naidunia 30 Jul 2026 seat-report me MLA ka 'sadak fund jaari karaya' ka dava — kisi whitelisted outlet me konkret sadak + rakam ke saath report hui to dawa-entry sambhav.
+// C. CG DPR/jansampark portal par Masturi/Masturi-block Vidhayak Nidhi sanction list — milne par sarkari-badge entries.
+
+// QA: 0 entries pass. Whitelisted sroton me Dec 2023+ ka koi vyaktigat lokarpan/shilanyas, GO-backed swikriti, ya Vidhansabha-maang ka dastaveji nateeja documented nahi mila. Sabhi substantive leads non-whitelisted portals par hain (retry-leads me darj). Profile khali rakhna niyam-anusar sahi hai — galat entry se khali profile behtar. Negatives: koi nahi (2023 halafname 0 cases; established media me FIR/jaanch nahi; 2018 ka case bina 2023+ legal development ke negative nahi).
+
+// ---- Bilaspur district batch END (2 works, 1 negative; 3 others empty; state total 12) ----
