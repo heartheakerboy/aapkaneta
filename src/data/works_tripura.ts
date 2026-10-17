@@ -1567,3 +1567,30 @@ tripuraWorks['birajit-sinha'] = [
 ];
 // REJECT-LOG (birajit-sinha): 17 rejects (worker file) — mukhya: development councils maang, airport revival maang, bandh/rally, Manu embankment nirikshan (no outcome); NEGATIVE: 2004 Babur Bazar/2013 Arms-Act conviction — pre-term, current term me koi legal development nahi; water-resource tender 'close aide' daawa (nenow) — MLA khud aaropi nahi, FIR nahi
 // ---- Unakoti district batch END (4 works, 0 negatives) ----
+// ---- North Tripura district batch (researched 2026-10-17) ----
+tripuraWorks['islam-uddin'] = [];
+// REJECT-LOG (islam-uddin, CPI(M), Kadamtala-Kurti): 12 rejects — mukhya: Chronicle sadak-aarop (sirf maang), Peyarcherra fire daura, NH blockade me shamili; NAAM-JAAL: Churaibari drug-arrest wala Islam Uddin (52) dusra vyakti — MLA (49) se mat jodna; halafnama 2 pending cases akele negative nahi. RETRY: CM ashwasan (Kadamtala-Rani Bari road) follow-up; Tripura Times Kadamtala tag; ICA press releases.
+tripuraWorks['jadab-lal-debnath'] = [
+  {
+    title: 'Bagbassa MLA Jadab Lal Nath par polling booth 22 me BLO se durvyavhar ke aarop me police case darj hua, phir unhone EC se maafi maangi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/india-news/tripura-bjp-mla-who-manhandled-booth-officer-seeks-ec-s-apology-a-week-later-101714824470231-amp.html',
+    date: '2024-05-04',
+    note: 'Hindustan Times (Agartala, 4 May 2024) ki report: Tripura East Lok Sabha chunav ke dusre charan (26 April 2024) ke matdan ke dauran Bagbassa Assembly constituency ke BJP MLA Jadab Lal Nath par polling booth number 22 me ghuskar ECI guidelines todne aur BLO se durvyavhar ka aarop laga. North Tripura district election officer ne unhe show-cause notice diya aur Tripura police ne unhe case me book kiya. Notice ke jawab me Nath ne election body se maafi maangi aur kaha ki aisa dobara nahi hoga. Is mamle me kisi vikas-kaam ya fund ka dawa shamil nahi hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (jadab-lal-debnath): 8 rejects — mukhya: Assembly video controversy (Ethics Committee ne 9 Sep 2025 ko clean chit di, mamla band); Kajal Das FIR — wo BJP district president hain, MLA NAHI (attribution se bacho); temple sound-system daan; naam spellings Jadab/Yadav Lal Nath — seat 55-Bagbassa se pehchano. RETRY: Gobindapur sadak MLA-fund (Northeast Today dawa — whitelisted confirm pending); Lalchhara paani 5-din ashwasan follow-up.
+tripuraWorks['jahar-chakraborti'] = [];
+// REJECT-LOG (jahar-chakraborti, BJP, Dharmanagar — Apr 2026 upchunav, karyakaal May 2026+): 13 rejects — mukhya: Sen ke purane kaam (Rana Dighi market shilanyas Mar 2024 — Sen ka tha, Chakraborti ka NAHI); Vidhansabha water-question Aug 2026 (sirf northeasttoday/nenews — whitelisted confirm pending); CM event me maujoodgi (Rs 176cr — shrey CM ka); patni Barnali Goswami ka show-cause (family case — MLA par nahi). NEGATIVE: 2013 halafnama me 0 cases; koi FIR nahi. RETRY: water-question whitelisted outlet me; Tripura DIPR May-Oct 2026; MLALADS Dharmanagar itemized.
+tripuraWorks['sailendra-chandra-nath'] = [];
+// REJECT-LOG (sailendra-chandra-nath, CPI(M), Jubarajnagar): 19 rejects — mukhya: Bilthai school reunion (ceremonial); arson attack (MLA victim — negative nahi); power-minister informational reply (koi nateeja nahi); pre-term (Biplab Deb dawa Feb 2022). NAAM-JAAL: Ratan Lal Nath, Yadav Lal Nath, Shailendra Nath (TTAADC Dasda) sab alag. NEGATIVE: halafnamon me 0 cases; koi FIR nahi. RETRY: Dewanpasha ultrasonography unit — Rs 21 lakh MLALAD sanction (tripurastarnews, Feb 2026 — whitelisted confirm pending; sabse mazboot lead); smart-meter ashwasan whitelisted me.
+tripuraWorks['binay-bhushan-das'] = [];
+// REJECT-LOG (binay-bhushan-das, BJP, Panisagar): 14 rejects — mukhya: Pro-tem Speaker oath (pad, kaam nahi); shilanyas sab mantri/CM ne kiya (MLA sirf maujood); Sammelan Abhiyan udghatan (abhiyan-shubharambh); pre-term (Dec 2022 mela). NAAM-JAAL: Binoy Bhusan Das Labour Commissioner alag vyakti; Tripura Times ne pro-tem story me seat galat (Pabiachhara) likhi — Panisagar sahi hai. NEGATIVE: halafnama 0 cases; koi FIR nahi. RETRY: Tripura Times 30-din window search; Assembly proceedings me taarakit prashn.
+tripuraWorks['santana-chakma'] = [];
+// REJECT-LOG (santana-chakma, BJP, Pencharthal ST — mantri, mantri-niyam lagu): 27 rejects — mukhya: Pencharthal rail halt (timetable-halt, koi naya nirman nahi — Noatia precedent se REJECT; mantri-faisle/rajya-star ghoshnaen; Jampui Hill daura (sirf nirikshan); CM ke karyakram me maujoodgi (Pecharthal PHC virtual lokarpan). NEGATIVE: 2019 Modi-rally incident me wo peedit (negative nahi); temple-renovation vaada virodh (na FIR na janch). RETRY: Tripura IPR/DIPR archive me Pencharthal seat-specific release.
+tripuraWorks['philip-kumar-reang'] = [];
+// REJECT-LOG (philip-kumar-reang, TMP, Kanchanpur ST): 8 rejects — mukhya: MLA-hostel dhamki (MLA VICTIM/shikayatkarta — negative nahi; IE/HT/NDTV 2 Sep 2025); TMP election-committee observer (sangathanik pad); TTAADC contractor-delegation (paywalled + sirf maang). NEGATIVE: halafnama 2023 ka 1 pre-term case (Kanchanpur PS 68/2019, charges framed Aug 2022) — karyakaal me koi legal development nahi. NAAM-JAAL: Pramod Reang/Rajendra Reang alag. RETRY: contractor-delegation ka dastaveji nateeja whitelisted me.
+// ---- North Tripura district batch END (1 work [1 negative], 0 positive works) ----
