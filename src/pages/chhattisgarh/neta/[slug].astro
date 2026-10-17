@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { chhattisgarhNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return chhattisgarhNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = chhattisgarhNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/chhattisgarh" stateName="Chhattisgarh" homeLabel="Chhattisgarh home" />
