@@ -251,7 +251,7 @@ export const chhattisgarhNetas: Neta[] = [
       assets: 'Rs 4,20,59,422',
       liabilities: 'Rs 4,03,132',
       mynetaUrl: 'https://myneta.info/Chhattisgarh2023/candidate.php?candidate_id=599',
-      backgroundNote: 'Pehchan pakki: BHARATPUR-SONHAT (ST), BJP, Winner. Poorv kendriya mantri (MoS Tribal Affairs, Modi sarkar); 2024 me Surguja se BJP MP bhi chuni gayin.',
+      backgroundNote: 'Pehchan pakki: BHARATPUR-SONHAT (ST), BJP, Winner. Poorv kendriya mantri (MoS Tribal Affairs, 2019-2021) aur poorv Surguja MP (2019-Dec 2023); 2023 Vidhan Sabha jeetne par LS se istifa dekar Bharatpur-Sonhat ki MLA rahin (2024 me Surguja MP Chintamani Maharaj hain).',
     },
     electionNote: '2023 me Bharatpur-Sonhat (ST) se 55,809 vote lekar jeetin; runner-up Gulab Singh Kamro (Indian National Congress) ko 4,919 maton se haraya.',
   },
