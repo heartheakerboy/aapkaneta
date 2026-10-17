@@ -824,3 +824,85 @@ arunachalWorks['oken-tayeng'] = [];
 // L2. Sanggo Residential School (Mebo village) child molestation case — MLA announced psychological counselling, trauma support and village/school-level child-safety awareness programmes (indiatodayne.in, 2025-10-31). Announced measures, completion not documented. If whitelisted follow-up reporting confirms counselling/awareness programmes were actually held: possible School/sarkari entry. https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-mebo-mla-condemns-child-molestation-incident-urges-community-solidarity-1297801-2025-10-31
 // L3. Zero-hunting welcome gate at Aohali (Arunachal Times, 2025-02-04): inauguration was by Home Minister's adviser Mutchu Mithi, but "it was the local MLA's initiative to declare Aohali as zero hunting village" per the report. If a future whitelisted report shows the MLA personally inaugurating completed physical assets under Eco-Clean Mebo Mission with fund disclosure, re-evaluate.
 // ---- East Siang district batch END (5 entries, negatives 0) ----
+
+// ---- Dibang Valley district batch (researched 2026-10-17) ----
+// COORDINATOR REVIEW: 1 worker ka report merge kiya gaya. Mopi Mihu ka 1 entry (Anini DH me DMFT-fund hui
+// dental OPD ka lokarpan — fund DMFT + MoU dono report me disclosed; stage lokarpan). Mishmi Takin statue
+// (fund undisclosed) aur tulip trial (vyaktigat-yogdaan jaisa) reject hue — retry-lead banaye gaye. CM/DCM ke
+// karyakramon me maujoodgi ke saare leads reject. Date note ke mutabiq 30 May 2025 (article 31 May 2025).
+arunachalWorks['mopi-mihu'] = [
+  {
+    title: 'Anini ke MLA Mopi Mihu ne jila hospital me District Mineral Fund Trust se fund hui dental OPD ka lokarpan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/05/31/mla-inaugurates-dental-opd-at-dh/',
+    date: '2025-05-30',
+    note: '30 May 2025 ko MLA Mopi Mihu ne Dibang Valley ke jila hospital (DH) Anini me dental OPD ka lokarpan kiya. OPD me dental chair, X-ray machine aur AVG sensor lage hain, aur ye suvidha District Mineral Fund Trust (DMFT) se fund hui hai. Medical Superintendent Dr Rita Mena aur Assistant Mineral Development Officer Anmol Singh ke beech DMFT ke tahat dental upkaran ke liye MoU par hastakshar hue. ZPC Theko Tayu bhi karyakram me upasthit the. Mihu ne kaha ki aanewali nayi medical building poori tarah susajjit hogi aur usme mortuary manzoor ho chuki hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (mopi-mihu, Anini): 1. Mishmi Takin statue unveiling, Anini (29 Jan 2026, nenow/arunachal24/easternsentinel) — MLA ne anavaran kiya lekin fund-srot undisclosed — shanka par reject; retry-lead (DIPR GO me DMFT/tourism budget mile to entry). 2. Tulip trial, Anini (7 Mar 2026, arunachal24) — "funded by Mopi Mihu, MLA" — vyaktigat yogdaan jaisa; koi sarkari sanrachna nahi. 3. Cabinet Aapke Dwar, Anini (1 Feb 2026) — DH, Circuit House, DPRC, museum, Sky Walk, tourism complex, airport ghoshna — sab CM ne kiye; MLA sirf maujood. 4. Reh Festival (Feb 2026) — CM ne 14 lokarpan + 2 MW Ange Water Micro Hydel shilanyas; MLA maujood. 5. Mishmi Hut + hostel-cum-guest house, Jollang Itanagar (Oct 2025) — DCM Chowna Mein ne kiya; MLA maujood. 6. Kibithoo flag/tourist infra (Nov 2025) — DCM ne kiya; sthal Anjaw jila (seat se bahar). 7. DCM takes stock of Dibang Multipurpose Project (Jan 2025) — nirikshan; NHPC par shrey nahi. 8. Raja urban dev review, Anini (Sep 2026) — samiksha baithak. 9. National Tourism Day nature guides certification (Jan 2026) — samaroh. 10. Anini Winter Fest 5.0 (Sep 2026) — mantri Balo Raja ne kiya; MLA maujood. 11. Naba Tade Tacho Memorial Football Tournament (Jul 2026) — MLA patron ke roop me maujood; khel samaroh. 12. PAC sitting (Oct 2026) — samiti me upasthiti. 13. Pre-term leads — I-Day 2021 inaugurations, Roing-Anini bus Dec 2020, ambulance Dec 2019, A2 turf ground Apr 2024, skill training Jan 2020 — sab 1 Jun 2024 se pehle. 14. Yoga Day 2025 — samaroh me bhagidari.
+// RETRY-LEADS (mopi-mihu): 1. Mishmi Takin statue fund-srot (DIPR release/GO); 2. Tulip trial ka sarkari fund-srot; 3. 1 Feb 2026 Anini cabinet me MLA-pratinivedan ka CM dwara sarvajanik shrey (capped entry possible); 4. Vidhan Sabha 2025-26 me Mihu ke prashn/maang ke dastaveji nateeje (arunachaltimes/easternsentinel archive search); 5. DMFT-funded aur kaam Dibang Valley me (2024-26) ki itemized media report; 6. Etalin hydropower/land-compensation par sarvajanik shrey.
+// ---- Dibang Valley district batch END (1 entry, negatives 0) ----
+
+// ---- Lower Dibang Valley district batch (researched 2026-10-17) ----
+// COORDINATOR REVIEW: 2 workers ke reports merge kiye gaye. Apum ka 1 entry (Malek sub-health centre lokarpan —
+// bhoomika vyaktigat disclosed; fund-srot report me undisclosed — udghatan-matra class precedent par rakha, note
+// me antar disclosed). Mithi ka 1 entry (Kebali/Balek/Horupahar me 3 sub-health centres ka lokarpan — bhoomika
+// vyaktigat disclosed; fund-srot undisclosed — wahi precedent). NHPC CSR bus flag-off, DMP site visits, Dy CM ke
+// karyakram (Dambuk) sab sahi reject hue. Negative: dono ke liye 0.
+arunachalWorks['puinnyo-apum'] = [
+  {
+    title: 'Dambuk ke MLA Puinnyo Apum ne Malek gaon me naye sub-health centre ka lokarpan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/09/03/mla-inaugurates-sub-health-centre/',
+    date: '2025-09-02',
+    note: 'Roing dateline wali DIPRO report ke anusaar MLA ne Malek me sub-health centre ka lokarpan kiya; kendra Malek, Gergam aur Debanath gaon ke 1,000 se adhik logon ko sehat suvidha dega; karyakram me SP Ringu Ngupok, DMO Dr Worar Taku, PHED&WS EE John Lego sahit adhikari maujud the; gaon walon ke gyaapan par MLA ne sehat ke muddon ko prathmikta par uthane ka aashwasan diya; report me fund ka source nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+arunachalWorks['mutchu-mithi'] = [
+  {
+    title: 'Roing ke MLA Mutchu Mithi ne Lower Dibang Valley ke Kebali, Balek aur Horupahar me 3 sarkari sub-health centres ka lokarpan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/mithi-inaugurates-3-sub-health-centres',
+    date: '2026-06-22',
+    note: 'Teenon centres 2014 me sarkar ne notify kiye the. MLA ne Health Department ko nirdesh diya ki saare avashyak davaaon ka stock rakha jaye aur gaonvalon se department ke saath sahyog ka aagrah kiya. Infrastructure development ke liye fund sanction ka mudda sarkar ke saath uthane ka aashwasan diya. Karyakram me DC Fwwrman Brahma, DMO Dr Worar Taku, Health aur PHE&WS departments ke adhikari, PRI members aur janata maujood the. Report me fund ka source nahi bataya gaya.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (puinnyo-apum, Dambuk): 1. NHPC CSR bus flag-off (Eastern Sentinel, Jun 2025) — NHPC ne bus donate ki, MLA ne sirf flag-off kiya; CSR samaroh. 2. Dibang Multipurpose Project site visits (indiatodayne Dec 2024; PTI/theweek Feb 2026) — NHPC project, MLA mantri ke saath; shrey nahi. 3. Dy CM Chowna Mein ki Dambuk visit (arunachal24 + indiatodayne, Jan 2025) — police station building lokarpan + Bongal Yapgo War Memorial shilanyas Dy CM ne kiya; MLA sirf maujood. 4. Union MSME minister review meeting (PTI/theprint, Apr 2025) — MLA ne SBI branch + water supply ki maang uthayi; sirf maang. 5. Tobacco-free Youth Campaign 3.0 launch (Arunachal Times, Oct 2025) — abhiyan shubharambh, nirmaan nahi. 6. Septage treatment plant Chowkham + Lohit organic unit (Arunachal Times, Apr 2025) — DCM ne kiya; MLA maujood. 7. CM Khandu ke Lower Dibang Valley projects (PTI/theweek, Sep 2025) — shilanyas CM ne kiya; MLA saath the. 8. MP Tai Tagak ka Ambir Megu Bhawan lokarpan, Jia (arunkhabar) — MP ka karyakram; non-whitelist. 9. Sisiri nadi machhuara rescue (arunachal24) — rahat-karya, nirmaan nahi. 10. Mirem Batum Lingkang war memorial, Adi Pasi (Eastern Sentinel) — DCM ne kiya; MLA attendee. 11. ABVP 12th state conference Tezu (Eastern Sentinel, Nov 2025) — atithi. 12. Traditional Festivals book release (Eastern Sentinel, Dec 2024) — Dy CM ne release ki.
+// REJECT-LOG (mutchu-mithi, Roing): 1. Multipurpose indoor hall shilanyas (2018, Eastern Sentinel/Arunachal Times) — pre-term. 2. IOCL CSR medical equipment lokarpan, District Hospital Roing (Jun 2025, The Roing Times via findglocal) — non-whitelist + CSR samaroh. 3. Zero Hunting signage, Aohali (nenow, Feb 2025) — Mebo seat me mukhya-atithi ke roop me sanketik lokarpan; nirmaan nahi. 4. Bazar Shiv Mandir lokarpan, Roing (arunachal24, Oct 2023) — lokarpan Dy CM Chowna Mein ne kiya; Mithi sirf maujood. 5. RK Mission HS extension block, Narottam Nagar (arunachal24, Sep 2024) — mantriyon ne kiya; Mithi vishesh atithi. 6. CM Khandu dwara Lower Dibang Valley me hostel/road/bridge (PTI/theweek, Sep 2025) — CM ka kaam; MLA bhoomika undisclosed. 7. Roing water supply DMF Rs 1 crore+ nirnay (Northeast Today, Oct 2026) — non-whitelist; retry-lead. 8. 4th PM Youth Camp udghatan, Anini (arunkhabar/YouTube, Oct 2026) — shivir shubharambh. 9. GHSS Roing building nirikshan (YouTube, ~Oct 2026) — nirikshan + non-whitelist; Dec 2026 handover ke baad retry. 10. Schools me samagri vitaran (YouTube) — vyaktigat vitaran + non-whitelist. 11. Rescue cage daan, Mehao (Arunachal Times, Feb 2025) — Mukut Mithi (RS MP) ka kaam tha, Mutchu Mithi ka nahi (naam-jaal saaf); daan bhi reject. 12. Denlo model village nirnay (Arunachal Times, Jun 2018) — pre-term. 13. Roing fire: MLALAD Rs 50 lakh + Rs 5 lakh raahat (Aug 2018) — pre-term + rahat reject. 14. RIWATCH Documentation Center shilanyas (Nov 2017) — Mukut Mithi + pre-term. 15. Tiger advisory social media post (PTI/swadesi, Oct 2026) — sirf appeal.
+// RETRY-LEADS (puinnyo-apum): 1. Water supply scheme + SBI branch Dambuk (Apr 2025 ki maang ka follow-up); 2. Electrical Sub-Division Dambuk (Dy CM ashwasan, indiatodayne Jan 2025) implementation; 3. Bongal Yapgo War Memorial completion; 4. Malek centre aur outlets par coverage; 5. MLALAD FY 2025-26 Dambuk itemized sanction/vitaran (sarkari portal).
+// RETRY-LEADS (mutchu-mithi): 1. DMF water-supply decision (Oct 2026) ka whitelisted coverage — swikriti/poora-kaam stage; 2. GHSS Roing building handover (Dec 2026) ke baad lokarpan mile to entry; 3. Sub-health centres fund-sanction follow-up.
+// ---- Lower Dibang Valley district batch END (2 entries, negatives 0) ----
+
+// ---- Lohit district batch (researched 2026-10-17) ----
+// COORDINATOR REVIEW: 1 worker ka report merge kiya gaya. Mohesh Chai ka 1 entry (Bekhuliang me NABARD LEDP-sponsored
+// SHG Common Facility Centre ka vyaktigat lokarpan — fund NABARD LEDP + ArSRLM implementation dono disclosed; stage
+// lokarpan; date 2026-03-31 weekday-crosscheck se pakki). Private hospital lokarpan (niji suvidha) aur YouTube-only
+// lokarpan sahi reject hue. Negative: 0 (halafname ka 1 pending mamla akele negative nahi).
+arunachalWorks['mohesh-chai'] = [
+  {
+    title: 'Tezu ke MLA Mohesh Chai ne Bekhuliang me SHG Common Facility Centre ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Sentinel',
+    sourceUrl: 'http://easternsentinel.in/news/state/cfc-inaugurated-at-bekhuliang-village-to-boost-shg-livelihoods.html',
+    date: '2026-03-31',
+    note: 'Bekhuliang gaon (Sunpura block, Lohit) me hand-driven knitting machines se susajjit SHG Common Facility Centre ka lokarpan MLA Dr Mohesh Chai ne swayam kiya. CFC NABARD dwara sponsor kiye gaye Livelihood and Enterprise Development Programme (LEDP) ke tahat sthapit hai aur ise Arunachal State Rural Livelihoods Mission (ArSRLM) ne implement kiya. SDO Tezu, NABARD AGM, ZPM Sunpura aur DIPRO Lohit upasthit rahe.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (mohesh-chai, Tezu): 1. Peelomai Tayang Memorial Hospital lokarpan (18 Nov 2025, indiatodayne) — niji (private) aspatal (Ojing Pul ne sthapit kiya); sarkari sanrachna nahi — chief-guest shirkat. 2. IGGC Tezu Commerce Block lokarpan (Oct 2024) — DCM Chowna Mein ne kiya; Chai maujood. 3. PMGSY-III FDR sadak flag-off (Apr 2025) — RWD mantri P D Sona ne netritva kiya; Chai saath the. 4. Septage treatment plant + Lohit Organic unit shilanyas/lokarpan (Mar 2025) — DCM ne kiya; Chai maujood. 5. DCM ke Lohit tourism/connectivity projects (Glaw Lake) — DCM ka lokarpan. 6. Tana Bana 2025 handloom expo (Jan 2025) — karyakram shubharambh. 7. Skill upgradation training programme (Apr 2025) — karyakram shubharambh; Rs 5-crore hostel keval ghoshna. 8. Ni-kshay Mitra pledge (Sep 2025) — keval vachan. 9. GEC Tezu induction ceremony (Sep 2026) — upasthiti; sthapna sarkar ka kaam. 10. Police Welfare School classroom lokarpan (~Jul 2026) — keval YouTube (non-whitelist); retry-lead. 11. Paya bridge pragati nirikshan (Apr 2025) — sirf nirikshan (PMGSY). 12. Tezu schools visit (Jan 2025) — nirikshan + aashwasan. 13. Yumbulaghang Community Hall lokarpan (May 2026) — Rinpoche ne kiya. 14. Team Lohit DLMC meeting (Apr 2025) — baithak. 15. Seva Sankalp Abhiyan Loiliang — abhiyan, nirmaan nahi. 16. IIFL/REACHA homestay training ceremony (Feb 2025) — CSR/NGO karyakram; non-whitelist. 17. BIOFACH-2026 Germany delegation (Feb 2026) — videsh daura. 18. Indoor football stadium Tezu (Rs 36 cr, stalled since Oct 2023) — 2018 me CM ne shilanyas kiya tha; wartaman karyakaal me pragati nahi. 19. PMGSY-III Wakro road/bridge lokarpan (May 2025) — DCM ne kiya (Kamphai bridge); Chai upasthit.
+// RETRY-LEADS (mohesh-chai): 1. Police Welfare School classroom building lokarpan ka whitelisted coverage (YouTube me dikha); 2. MLALAD FY 2025-26 itemized sanction/vitaran (Tezu-Sunpura); 3. Rs 5-crore training-cum-hostel complex (DDTH Tezu) construction start/complete report; 4. Hostel-cum-training centre ghoshna (Tana Bana 2025) ka poora-kaam follow-up.
+// ---- Lohit district batch END (1 entry, negatives 0) ----
