@@ -906,3 +906,97 @@ arunachalWorks['mohesh-chai'] = [
 // REJECT-LOG (mohesh-chai, Tezu): 1. Peelomai Tayang Memorial Hospital lokarpan (18 Nov 2025, indiatodayne) — niji (private) aspatal (Ojing Pul ne sthapit kiya); sarkari sanrachna nahi — chief-guest shirkat. 2. IGGC Tezu Commerce Block lokarpan (Oct 2024) — DCM Chowna Mein ne kiya; Chai maujood. 3. PMGSY-III FDR sadak flag-off (Apr 2025) — RWD mantri P D Sona ne netritva kiya; Chai saath the. 4. Septage treatment plant + Lohit Organic unit shilanyas/lokarpan (Mar 2025) — DCM ne kiya; Chai maujood. 5. DCM ke Lohit tourism/connectivity projects (Glaw Lake) — DCM ka lokarpan. 6. Tana Bana 2025 handloom expo (Jan 2025) — karyakram shubharambh. 7. Skill upgradation training programme (Apr 2025) — karyakram shubharambh; Rs 5-crore hostel keval ghoshna. 8. Ni-kshay Mitra pledge (Sep 2025) — keval vachan. 9. GEC Tezu induction ceremony (Sep 2026) — upasthiti; sthapna sarkar ka kaam. 10. Police Welfare School classroom lokarpan (~Jul 2026) — keval YouTube (non-whitelist); retry-lead. 11. Paya bridge pragati nirikshan (Apr 2025) — sirf nirikshan (PMGSY). 12. Tezu schools visit (Jan 2025) — nirikshan + aashwasan. 13. Yumbulaghang Community Hall lokarpan (May 2026) — Rinpoche ne kiya. 14. Team Lohit DLMC meeting (Apr 2025) — baithak. 15. Seva Sankalp Abhiyan Loiliang — abhiyan, nirmaan nahi. 16. IIFL/REACHA homestay training ceremony (Feb 2025) — CSR/NGO karyakram; non-whitelist. 17. BIOFACH-2026 Germany delegation (Feb 2026) — videsh daura. 18. Indoor football stadium Tezu (Rs 36 cr, stalled since Oct 2023) — 2018 me CM ne shilanyas kiya tha; wartaman karyakaal me pragati nahi. 19. PMGSY-III Wakro road/bridge lokarpan (May 2025) — DCM ne kiya (Kamphai bridge); Chai upasthit.
 // RETRY-LEADS (mohesh-chai): 1. Police Welfare School classroom building lokarpan ka whitelisted coverage (YouTube me dikha); 2. MLALAD FY 2025-26 itemized sanction/vitaran (Tezu-Sunpura); 3. Rs 5-crore training-cum-hostel complex (DDTH Tezu) construction start/complete report; 4. Hostel-cum-training centre ghoshna (Tana Bana 2025) ka poora-kaam follow-up.
 // ---- Lohit district batch END (1 entry, negatives 0) ----
+
+// ---- Anjaw district batch (researched 2026-10-17) ----
+// COORDINATOR NOTE: Dasanglu Pul 13 Jun 2024 se Pema Khandu cabinet me mantri (WCD/Culture/S&T) hain — mantri-niyam lagu; sirf Hayuliang seat ke kaam rakhe gaye.
+arunachalWorks['dasanglu-pul'] = [
+  {
+    title: 'Dasanglu Pul ne Anjaw ke Walla gaon me Government Upper Primary School (GUPS) ki nayi RCC school building ka udghatan kiya.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Arunachal24',
+    sourceUrl: 'https://arunachal24.in/dasanglu-pul-reviews-development-schemes-in-anjaw-calls-for-time-bound-action/',
+    date: '2026-08-17',
+    note: 'Arunachal24 ke mutabik Pul ne GUPS Walla (Anjaw jila, Hayuliang Vidhan Sabha kshetra) me nayi RCC school building ka udghatan kiya; udghatan samaroh me Anjaw DC Millo Kojin aur SP Anurag Dwivedi maujood the; Pul ne kaha ki nayi school infrastructure bachchon ko surakshit aur anukool padhai ka mahaul degi.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Dasanglu Pul ne Walong ke Sarti gaon me Government Residential School (GRS) ke upgradation aur naye community shed ka shilanyas kiya.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-minister-lays-foundation-for-school-upgrades-community-shed-in-walong-1137981-2024-12-15',
+    date: '2024-12-15',
+    note: 'India Today NE ke mutabik Pul (WCD mantri aur Hayuliang ke local MLA) ne Sarti (Walong circle, Hayuliang Vidhan Sabha kshetra) me GRS ke sudhaar aur naye community shed ke foundation stones rakhe; samaroh me 82nd Mountain Brigade ke Commander Brigadier Revetty Bhandari aur Deputy Commander Colonel Deepak Kataria maujood the. NOTE: Dono project Bharatiya Sena ke Operation Sadbhavna 2024-25 ke tahat kendriya fund se bante hain; report ke mutabik projects ki manjoori aur kriyanvayan me Sena ke Commanding Officer ki pramukh bhoomika thi — isliye Pul ka shrey seemit (shilanyas-bhoomika tak).',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+];
+// REJECT-LOG (dasanglu-pul, Hayuliang): 1. BJP Mandal Office, Hawai ka udghatan (Aug 2025, India Today NE/Eastern Sentinel) — REJECT (party office ka nirmaan sarkari bhavan nahi; party-sangathan infrastructure). 2. GHSS Hayuliang me Rs 18.60 crore school project ka nirikshan (Mar 2025, Arunachal24) — REJECT (sirf nirikshan/daura, koi lokarpan/shilanyas nahi). 3. 2 MW Ampani Hydropower Project (Huiliang) ka nirikshan (Apr 2026, India Today NE/Arunachal Times) — REJECT (sirf nirikshan; pariyojana Cabinet Aapke Dwar se ghoshit, MLA ki vyaktigat bhoomika nahi). 4. Vibrant Villages Programme road Goiliang-Glotonglat ka nirikshan (Feb 2026, Syllad) — REJECT (source whitelist me nahi + sirf nirikshan + kendriya VVP bina vyaktigat bhoomika). 5. Kamphai Bridge (193.05m, PMGSY-III) aur Wakro circle road projects ka udghatan (May 2026, nenow.in/Arunachal Times) — REJECT (Deputy CM Chowna Mein ne udghatan kiya; Lohit jila, Hayuliang kshetra nahi; Pul keval sath maujood thi). 6. Dy CM dwara 15 projects ka udghatan, Walong/Tinai/Kibithoo/Musai/Kaho (Oct 2023 ya usse pehle, Eastern Sentinel/ANI) — REJECT (dusre neta ke karyakram me maujoodgi + karyakaal se pehle ki sambhavit tithi). 7. Tha Nala Bailey Bridge, Hayuliang-Chaglohagam road (Aug 2024, Eastern Sentinel) — REJECT (Indian Army + BRO ne udghatan kiya; MLA ki koi vyaktigat bhoomika report nahi). 8. CESHS-OIL CSR ambulance Walong PHC ko, flagged off by Pul (Dec 2025, UNI) — REJECT (CSR daan samaroh me keval upasthiti; ambulance bhautik suvidha ka vyaktigat lokarpan nahi). 9. Anjaw Tourism website launch (Jun 2026, India Today NE) — REJECT (digital launch; bhautik sarkari sanrachna nahi). 10. Monpani NH-113 landslide trek, road reopening by Jun 22 ka ashwasan + permanent bypass ki ghoshna (Jun 2025, India Today NE) — REJECT (keval ashwasan/ghoshna; NH kendriya agency NHIDCL/Bhartia Infra ka vishay; Pul ki vyaktigat kriyanvayan-bhoomika nahi). 11. PMAY-G beneficiary selection review + district monitoring committee meeting, Hawai (Aug 2026, Arunachal24) — REJECT (baithak/nirikshan, koi bhautik lokarpan ya MLALAD sanction nahi). 12. Dibang Valley tourism promotional video launch (May 2025, Arunachal Times) — REJECT (digital video; bhautik kaam nahi). 13. 2023 election petition (Guwahati HC ne Apr 2023 me 2019 election null-void kiya) — negative nahi (chunav-yachika akele negative nahi; 2024 me nirvirodh punah-chuni gayi; halafname me 0 criminal cases).
+// ---- Anjaw district batch END (2 entries, negatives 0) ----
+
+// ---- Namsai district batch (researched 2026-10-17) ----
+// COORDINATOR NOTE: Chowna Mein ki worker ki 5 entries me se 3 rakhi gayin (2 non-whitelisted sources — Northeast Today, Sentinel Assam — girai); baaki teeno ke English titles Roman-Hinglish me rewrite kiye gaye. DyCM-niyam lagu.
+arunachalWorks['chowna-mein'] = [
+  {
+    title: 'Chowna Mein ne Chongkham me Jal Sansadhan Vibhag ke Sub-Divisional Office bhawan ka udghatan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Sentinel',
+    sourceUrl: 'http://easternsentinel.in/news/state/dy-cm-inaugurates-office-infra-at-chongkham-wakro.html',
+    date: '2025-06-18',
+    note: 'Eastern Sentinel ke anusaar bhawan RE (Revised Estimate) scheme se fund hua hai; isse Chowkham me WRD karmchariyon ke samanvay aur field survey behtar hone ki ummeed hai. Usi din Wakro me Junior Engineer office ka udghatan hua tha — wo Lohit jile me hai, isliye is entry me nahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Chowna Mein ne Chongkam ke Government Higher Secondary School me 6 staff quarter bhavan ka udghatan kiya.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Arunachal24',
+    sourceUrl: 'https://arunachal24.in/arunachal-chowna-mein-inaugurates-new-staff-quarters-at-chongkam/',
+    date: '2025-05-28',
+    note: 'Arunachal24 ke anusaar ye G+2 staff quarters Golden Jubilee Model School Scheme ke tahat bane; Dy CM ne mukhya-atithi ke roop me phita kaatkar plaque ka anavaran kiya aur principal ko bhawan saunpe.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Chowna Mein ne Chowkham me NEC-funded mini football stadium ka udghatan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/dcm-inaugurates-mini-football-stadium-pays-tribute-to-football-personalities',
+    date: '2026-07-28',
+    note: 'Arunachal Times ke anusaar stadium North Eastern Council (NEC) fund se bana aur Rural Works Department (RWD) Namsai ne kaam kiya; isme modern artificial turf football field aur darshak-suvidhayen hain. Udghatan me Namsai MLA Chau Zingnu Namchoom, Sports Secretary Abu Tayeng aur jila adhikari maujood the — isliye Dy CM ka shrey lokarpan-bhoomika tak seemit.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (chowna-mein, Chowkham): 1. Nadi Utsav 2025 (Namsai, 30,000 fingerlings release) — REJECT (sarkari abhiyan ka keval shubharambh). 2. Buddha Vihara inauguration at Nongtaw Kham-II, Namsai — REJECT (47-Namsai seat, Chowkham seat se bahar). 3. Foundation stone of Lohit Organic FPO Integrated Processing Unit at Medo, Wakro circle, Lohit district — REJECT (seat se bahar). 4. Chongkham-Brahmakund highway acceleration call in NHIDCL meeting (Rs 44,000 crore expansion, 61.15 km) — REJECT (sirf maang, rajya-stariya kendriya pariyojana). 5. PMGSY-III road and bridge inaugurations in Lohit district — REJECT (seat se bahar). 6. Viksit Bharat Sankalp outreach tour across Chongkham — REJECT (sirf daura/nirikshan, koi bhautik kaam nahi). 7. Flood-affected areas inspection at Chongkham-4, Gunanagar, Kherem, Alubari — REJECT (sirf nirikshan, purana karyakaal). 8. CM Pema Khandu inaugurated 18 projects worth Rs 163.48 crore (16 Feb 2024) — REJECT (pre-term; dusre neta ke karyakram me keval upasthiti). 9. Subansiri Lower Hydroelectric Project milestone — REJECT (Power vibhag ka rajya-stariya faisla, DyCM-niyam). 10. Golden Pagoda patronage (2010) / Sangken festival rebirth coverage — REJECT (pre-term). 11. Football Training Centre proposal + hybrid turf stadium at Wakro / stadiums at Namsai and Tezu — REJECT (sirf ghoshna). 12. Tai Khamti Heritage Research and Development Centre — REJECT (sirf ghoshna, ongoing). 13. KAT YEIN drinking water brand launch, handloom unit for Angulimala Welfare Society rehab centre, Independence Day exhibition stalls — REJECT (keval shubharambh / NGO unit, sarkari sanrachna nahi). 14. Inspection of Circuit House, Golden Jubilee School Building for GHSS, Tai Khamti Cultural Heritage Building and flood protection works at Allubari — REJECT (sirf nirikshan). 15. JE Office at Wakro inaugurated with WRD Chongkham office — REJECT (Lohit district, seat se bahar; Chowkham office entry me alag darj). Negatives: koi nahi — MLA khud aaropi wala FIR/janch wala mamla established media me nahi mila. COORDINATOR-DROP: 16. Septage Management and Treatment Plant udghatan (Northeast Today, 2026-03-31) — REJECT (source whitelist me nahi; namchoom reject-log me bhi wahi event DCM-led darj). 17. Arunachal Pali Vidyapith 60-bed hostel lokarpan (Sentinel Assam, 2026-01-15) — REJECT (source whitelist me nahi).
+arunachalWorks['chau-zingnu-namchoom'] = [
+  {
+    title: 'Bhogamur me MLALAD fund se bana naya Sub-Centre bhawan (Ayushman Arogya Mandir) ka lokarpan Namsai MLA Chau Zingnu Namchoom ne 14 Feb 2026 ko kiya.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/mla-inaugurates-new-sc-building',
+    date: '2026-02-14',
+    note: 'The Arunachal Times ke anusaar MLA ne 14 Feb 2026 (Shanivar) ko Bhogamur, Namsai jile me MLALAD fund se nirmit naya SC bhawan ka lokarpan kiya; karyakram me DC C R Khampa, DMO Dr Nang Soreya Namchoom aur NQAS external assessor Dr Samipjyoti Bora upasthit the. DC ne SC bhawan swikrit karne ke liye MLA ka aabhar jataya; HWC SC ka naam badalkar Ayushman Arogya Mandir rakha gaya aur suvidha national-level NQAS certification ki taraf badh rahi hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (chau-zingnu-namchoom, Namsai): 1. Blood bank foundation stone, Namsai District Hospital (indiatodayne, 6 Sep 2026) — REJECT (Health Minister Biyuram Wahge-led foundation laying; MLA sirf 'along with' the minister the, vyaktigat lokarpan nahi). 2. Punaai Care Pvt Ltd detergent unit, Piyong (Arunachal Times, 11 Apr 2025) — REJECT (private startup; sarkari sanrachna nahi). 3. Jivaka Hospital, Namsai (Arunachal Times, 30 Mar 2025) — REJECT (private hospital; DCM Chowna Mein ne lokarpan kiya, MLA saath me upasthit). 4. Septage management and treatment plant, Alubari/Chowkham (Arunachal Times, 1 Apr 2025) — REJECT (DCM ne lokarpan kiya; MLA ki keval upasthiti). 5. District Library annex / new-age learning centre, Namsai (arunachal24, 12 Feb 2026) — REJECT (DCM ne lokarpan kiya; MLA ne sirf sambodhit kiya). 6. Govt officers' quarters foundation, Namsai (indiatodayne/arunachal24, 29 Jan 2026) — REJECT (CM Pema Khandu ne shilanyas kiya; MLA saath me upasthit). 7. Mahabodhi Lord Buddha College ke naye bhawan (arunachalobserver, 16 Aug 2026) — REJECT (DCM ne lokarpan kiya; MLA ki keval upasthiti). 8. Multi-village water supply Wagunpather + Mokrun community hall + Wagun IV bridge (8 Dec 2023) — REJECT (purana karyakaal; Jun 2024 se pehle). 9. Lift water supply, Lathao (Dec 2022) — REJECT (purana karyakaal). 10. APST bus station + 100-bedded boys hostel shilanyas, Namsai (Eastern Sentinel, ~2016-17, Parliamentary Secretary era) — REJECT (purana karyakaal). 11. Nongtaw Buddhist projects foundation ceremony (arunachal24) — REJECT (DCM-led; MLAon ki keval upasthiti). 12. RWD Minister Sona ka Namsai project review + Mahadevpur sadak/pul nirikshan (Arunachal Times) — REJECT (sirf nirikshan; MLA ka koi vyaktigat lokarpan nahi). 13. Govt Secondary School Jaipur me smart classroom review (northeasttoday, 4 Aug 2026) — REJECT (sirf school visit/nirikshan). 14. Sampoornata Abhiyan Samman Samaroh (1 Aug 2025) — REJECT (MLA mukhya atithi the; 10% MLALAD skill-development pledge = keval ghoshna, koi itemized sanction nahi). 15. Oil palm plantation programme, Chowkham (sentinelassam, Sep 2025) — REJECT (bhashan + incentives issue uthane ka ashwasan; koi dastaveji nateeja nahi). 16. Chakma-Hajong JAC meeting (nenow, 17 Oct 2025) — REJECT (baithak/samvad matra; koi nateeja nahi). 17. Veterans Seva Kendra lokarpan, District Secretariat (arunachal24, 14 Aug 2025) — REJECT (report MLA ko lokarpankarta nahi batati; bhoomika aspasht). 18. CM Pema Khandu ke Rs 105 crore shilanyas, Namsai (Nov 2024) — REJECT (CM-led; MLA ki vyaktigat bhoomika report me nahi). 19. VKV Namsai school building lokarpan + Rs 20 lakh computer lab sanction (National Youth Day, 12 Jan 2025) — REJECT (keval source vkvapt.org, school ki apni site; whitelisted news portal nahi; kisi whitelisted outlet me coverage nahi mili). 20. NCP leader Likha Saaya ka press-conference aarop (echoofarunachal) — REJECT as negative (viraodhi-dal ka raajnaitik aarop matra; MLA ke khilaf koi FIR ya naam-daar adhikari-pusht janch report me nahi; strict negative criteria poora nahi). 21. Buddha Vihara lokarpan, Namsai (indiatodayne, 5 Jul 2025) — REJECT (DCM-led; MLA ki keval upasthiti). 22. IGP-SP office building lokarpan, Namsai (thehillstimes, May 2025) — REJECT (DCM-led; MLA saath me upasthit).
+arunachalWorks['likha-soni'] = [
+];
+// REJECT-LOG (likha-soni, Lekang):
+// 1. Eastern Sentinel: 'Lekang MLA intervenes to check illegal sand mining' (Mahadevpur, Aug 22; http://easternsentinel.in/news/state/lekang-mla-intervenes-to-check-illegal-sand-mining.html) — Likha Soni ne Murticamp village ke aavedan par illegal sand mining rukwayi (EAC Mahadevpur, OC Police, PRI leaders ke saath). REJECT: enforcement/inspection action hai — koi bhautik sarkari sanrachna ka lokarpan/shilanyas/swikriti/fund-linked kaam nahi.
+// 2. IndiaTodayNE (25 Nov 2024): 'Arunachal CM lays foundation stones for development projects worth Rs 105 crore in Namsai' — Soni sirf event me 'present' the; lokarpan/shilanyas CM ne kiya. REJECT: dusre neta ke karyakram me maujoodgi, vyaktigat bhoomika nahi.
+// 3. Northeast Now: 'Arunachal govt is ready to issue PRCs to Lekang residents: NCP legislator' (https://m.nenow.in/article/arunachal-pradesh/arunachal-govt-is-ready-to-issue-prcs-to-lekang-residents-ncp-legislator/420566) — PRC issue par media statement; vyaktigat philanthropic work ka generic daava (Binod Morang ka bayaan), lekin koi specific fund/structure/proof nahi. REJECT: sirf ghoshna/bayaan, koi dastaveji kaam nahi.
+// 4. Northeast Today (~Aug 2026): 'Arunachal CM Khandu Meets Lekang CBOs, Vows Action On Long-Pending Demands' — Soni + Nikh Kamin CBO memorandum lekar CM se mile; CM ka ashwasan. REJECT: maang/prastav delegation, ashwasan CM ka — MLA ke naam dastaveji nateeja nahi.
+// 5. Northeast Now (Dec 2025): 'MLA Likha Soni confident as panchayat poll campaign ends' — panchayat chunav campaign statement. REJECT: political campaign, works se unrelated.
+// 6. Arunachal Times: 'MLA inaugurates new school facilities' (https://arunachaltimes.in/article/mla-inaugurates-new-school-facilities) — Pasighat East MLA Tapi Darang ka kaam hai, Likha Soni se sambandh nahi. REJECT: galat neta.
+// 7. LatestLY (PTI, ~Jun 2025): 'Arunachal Guv Visits Namsai, Reviews Progress of Govt Schemes' — Governor ke visit me Soni ne briefing di; koi vyaktigat kaam nahi. REJECT: sarkari daure me maujoodgi.
+// 8. Negative check: halafname ke 4 cases (IPC 420, 409, 468, 406, 467, 477A, 120B, 471; FIR 255/2019, 02/2019, RCBSK2007E0003, 04/2007) election-affidavit me declared hain; Jun 2024 ke baad unme koi nayi FIR/giraftari/chargesheet/dosh-siddhi/adhikari-pusht janch whitelisted media me report nahi hui. REJECT: pre-term mamle me current legal development nahi, isliye negative entry nahi.
+// ---- Namsai district batch END (4 entries, negatives 0) ----
