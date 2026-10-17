@@ -1506,3 +1506,64 @@ tripuraWorks['swapna-das-paul'] = [
 // NEGATIVE-DROPPED (swapna-das-paul): June 2022 TMC FIR (Kachucherra thana, upchunav-prachar kaal) — MLA banne se PEHLE ka mamla, karyakaal me koi legal development nahi (pre-term + no current development = reject). Lead me rahega.
 // REJECT-LOG (swapna-das-paul): BSF border-haat nirikshan; KVK shubharambh; border-haat team me maujoodgi; 33KV substation (dusre mantri) me maujoodgi; Surma waterfall (CM lokarpan) me maujoodgi; EastMojo fact-finding team; pati-wala murder case (parivar=reject); Halhuli Dashami Ghat MLALAD daava non-whitelist (retry whitelisted).
 // ---- Dhalai district batch END (1 work, 0 negatives) ----
+// ---- Unakoti district batch (researched 2026-10-17) ----
+// bhagaban-chandra-das (Pabiachhara SC, BJP): imaandari se khali — 12 rejects (ghoshna/daura/abhiyan-nonwhitelist); retry-leads: MLALADS itemized list, Pabiachhara PHC upgrade ki whitelisted post-event reporting
+tripuraWorks['bhagaban-chandra-das'] = [];
+
+// sudhangshu-das (Fatikroy SC, BJP; SC Welfare/ARDD/Fisheries mantri Mar 2023 se) — mantri-niyam: dono entries seat-level vyaktigat lokarpan/shilanyas, mantri-framing + credit capped
+tripuraWorks['sudhangshu-das'] = [
+{
+    title: 'Mantri Sudhangshu Das ne apni Fatikroy seat me do naye Tehsil office bhawanon ka lokarpan kiya, Kumarghat upmandal me FY 2023-24 me teen Tehsil office aur ek SDM office ke nirmaan ke liye vishesh nidhi swikrit hui thi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/minister-sudhangshu-das-inaugurates-two-new-tehsil-office-buildings-at-fatikroy/',
+    date: '2025-11-14',
+    note: 'Tripura Chronicle ke anusaar 14 November 2025 ko Fatikroy aur Kanchanbari (dono Fatikroy assembly seat ke antargat) me do naye nirmit Tehsil office bhawanon ka lokarpan sthaniya MLA Sudhangshu Das ne deep-prajjwalan, shilapatt-anaavaran aur fita-kaatkar kiya. Kumarghat SDM ne bataya ki nayi sarkar aane ke baad FY 2023-24 me Kumarghat upmandal me teen Tehsil office aur ek SDM office ke nirmaan ke liye vishesh nidhi swikrit hui thi aur ye lokarpan usi pahal ka parinaam hai. Credit capped: report me dono bhawanon ki vyaktigat rashi ya swikriti me Das ki vyaktigat bhoomika ka ullekh nahi hai; unhone lokarpan-karta ke roop me bhag liya.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Fatikroy Higher Secondary School me Rs 9.49 crore ke naye concrete bhawan ka shilanyas, Rural Development vibhag ke paryavekshan me kaam hoga',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/sudhangshu-unveils-foundation-stone-of-new-school-building-at-fatikroy-emphasizes-on-states-focus-on-education/',
+    date: '2025-10-31',
+    note: 'Tripura Chronicle ke anusaar 31 October 2025 ko Sudhangshu Das ne Fatikroy Higher Secondary School ke naye concrete bhawan ka shilanyas kiya. Kul anumaanit laagat Rs 9.49 crore hai (nirmaan, vidyutikaran aur anya aavashyak kaam sahit) aur pariyojna ka paryavekshan Rural Development vibhag kar raha hai. Das ne kaha ki varshon se Fatikroy ke log behtar classroom aur buniyadi suvidha ki maang kar rahe the. Credit capped: shilanyas hua hai, nirmaan-poornata ki pushti report me nahi hai.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+];
+// REJECT-LOG (sudhangshu-das): viral-video contractor-remark (Northeast Now 17 Oct 2025) — MLA ke khilaf koi FIR/adhikari-pusht janch nahi, negative-gate fail; shimultali-violence (Tripura Chronicle) — koi FIR nahi, sirf bayan; fisheries training centre Rs 8.85cr shilanyas (Tripura Times paywall) — LEAD; Pechar-dahar waterbody Rs 14.52cr shilanyas (Northeast Today non-whitelist) — LEAD
+
+// tinku-roy (Chandipur, BJP; Youth Affairs & Sports/Labour mantri Mar 2023 se): imaandari se khali profile
+tripuraWorks['tinku-roy'] = [];
+// NEGATIVE-DROPPED (tinku-roy): fake-degree/halafnama shikayat (PTI/The Week 10 Dec 2025, Kailashahar PS) — police ne kaha pehle inquiry hogi tabhi FIR hogi; FIR/JANCH dono nahi — no-FIR complaint = negative NAHI (watch-lead: FIR darj ho to retry)
+// REJECT-LOG (tinku-roy): NEGATIVE-bangladeshi-shelter-claim (Northeast Now) — vipaksh-aarop matra, FIR/janch nahi; One-Stop-Center Kailashahar lokarpan (Tripura Chronicle 26 Aug 2025) — Kailashahar Tinku Roy ki seat NAHI (Chandipur hai) + mantri-bhoomika — out-of-seat minister lokarpan = MLA-credit nahi; Ramakrishna school Rs 8.5cr ghoshna — ghoshna-class; Anganwadi Jalai udghatan + crematorium Kailashahar (Tripura Times paywall) — LEADs
+
+// birajit-sinha (Kailashahar, INC; CLP neta) — pad-bhoomika excluded; dono entries seat-level
+tripuraWorks['birajit-sinha'] = [
+{
+    title: 'Assembly me Birajit Sinha ke Kailashahar ke Bangladesh embankment ka mudda uthane par CM Manik Saha ne sadan me Centre se mudda uthane ka ashwasan diya, jiske baad Tripura sarkar ne satellite images ke saath report Home Minister Amit Shah ko bheji aur Rangauti ke 4.30 km bandh ki Rs 4.50 crore ki marammat samet Kailashahar ke chaar bandhon ko mazboot karne ki prakriya shuru ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/tripura/tripura-to-raise-issue-of-rebuilding-embankment-by-bangladesh-on-border-zero-line-at-river-panel-meet/article69171965.ece/amp/',
+    date: '2025-02-02',
+    note: 'Winter session me Sinha ne kaha ki Bangladesh sarkar zero line par embankment ka punarnirman kar rahi hai; CM ne sadan me ashwasan diya ki mudda Centre ke saath uthaya jayega. Water Resources Dept ke chief engineer ne 21 January ko Kailashahar ka daura karke ground reality dekhi, phir satellite images samet report HM Amit Shah ko bheji gayi. Sarkar ne Kailashahar ke chaar bandhon ko mazboot karne ki prakriya shuru ki; Rangauti ke 4.30 km bandh ki marammat ka Rs 4.50 crore ka estimate taiyaar, kaam priority par shuru hona tha (zero line wale 2 km hisse ko chhodkar, JRC concurrence ke liye). Credit: mudda uthana + CM ashwasan Sinha ka hai; nirmaan poori tarah sarkari Water Resources Department ka hai, isliye vyaktigat shrey mudde tak seemit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Go Green Volunteers ke bayan ke anusaar MLA Birajit Sinha aur Mantri Tinku Roy ne sanyukt roop se Rs 3.80 lakh ki plantation support se Unakoti hilltop par lagbhag 2,000 phal-daar paudhe lagane me sahayog diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/go-green-volunteers-plant-20000-trees-in-three-years-60-survive-across-tripura/',
+    date: '2026-09-04',
+    note: 'Go Green Volunteers ne July 2023 se "Back to Nature" mission me 20,000 se zyada ped lagaye; "Green Unakoti, Save Unakoti" me Unakoti hilltop par lagbhag 2,000 phal-daar paudhe lage (Kailashahar Forest Sub-Division ke saath). Rs 3.80 lakh ka aankda NGO ke founding member Mrinal Kanti Sinha ke bayan par aadharit hai — sarkari dastavej se verify nahi. Sanction sanyukt hai (Social Welfare aur Social Education Minister Tinku Roy + MLA Birajit Sinha), vyaktigat hissa alag se darj nahi — isliye credit capped. Survival rate lagbhag 60% (pehle saal 84% thi), vandalism aur infrastructure development se nuksan. Ye ghoshna nahi hai: project executed hai aur sanction completed fact ke roop me report hua hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (birajit-sinha): 17 rejects (worker file) — mukhya: development councils maang, airport revival maang, bandh/rally, Manu embankment nirikshan (no outcome); NEGATIVE: 2004 Babur Bazar/2013 Arms-Act conviction — pre-term, current term me koi legal development nahi; water-resource tender 'close aide' daawa (nenow) — MLA khud aaropi nahi, FIR nahi
+// ---- Unakoti district batch END (4 works, 0 negatives) ----
