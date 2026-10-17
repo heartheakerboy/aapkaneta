@@ -1106,3 +1106,319 @@ arunachalWorks['tesam-pongte'] = [
 ];
 // REJECT-LOG (tesam-pongte, Changlang North): 1. indiatodayne (16 Nov 2025) Changlang road links villages — wahi Namtok CC road, lekin Pongte ka zikr nahi — sirf whitelisted Arunachal Times version valid. 2. Eastern Sentinel (~Sep 2025) Yatdam education meeting — baithak + ashwasan. 3. ThePrint/PTI (15 Jun 2024) Speaker election — sansthaagat pad. 4. northeasttoday (15 Oct 2026) Budget Committee — sansthaagat. 5. northeasttoday (Sep 2026) BAC sitting — sansthaagat. 6. indiatodayne (15 Sep 2026) CPC South Africa delegation — sansthaagat. 7. indiatodayne (18 Apr 2026) Census appeal — abhiyan. 8. northeasttoday (3 Aug 2026) Eastern Zone Orientation — dusre neta ka karyakram. 9. Arunachal Times (13 Feb 2024) C'lang projects — pre-term. 10. Arunachal Times (28 Nov 2022) Relangkan hall/WTPs — pre-term. 11. Arunachal Times (22 Apr 2018) Namtok facilities — pre-term. 12. Arunachal Times (20 Feb 2019) community halls/road — pre-term. 13. Eastern Sentinel (4 Mar 2021) Longran hall — pre-term. 14. Eastern Sentinel (~2019) Changlang infra — pre-term. 15. Arunachal Times (9 Jun 2021) power tillers — pre-term + vitaran. 16. arunachal24 (~2022) DCM ke Yatdam 11 infra — dusre neta ka kaam, pre-term. 17. Oct 2025 report me Watlom-Thamiyang road nirikshan — sirf inspection. 18. Usi report me solar lanterns/sports equipment vitaran — daan. 19. Nov 2025 reports me Birsa Munda statue/Foosball tournament — Pongte attribution nahi / samaroh. 20. theassamrising — Yatdam story duplicate, whitelist-bahar. 21. indiatodayne (16 Oct 2026) heroin seizure — Pongte se sambandh nahi. 22. ThePrint/PTI (15 Jun 2024) Speaker election coverage — sansthaagat.
 // ---- Changlang district batch END (8 entries, negatives 0) ----
+
+
+// ---- Tirap district batch (researched 2026-10-17) ----
+arunachalWorks['wangki-lowang'] = [
+  {
+    title: 'Namsang gaon me Paang (purush samudaayik aawas) ka vyaktigat lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2024/11/23/lowang-inaugurates-male-paang-at-namsang/',
+    date: '2024-11-21',
+    note: '21 Nov 2024 (Thursday) ko Wangki Lowang ne vyaktigat roop se apne vidhan sabha kshetra ke Tirap sthit Namsang gaon me Paang (purush samudaayik aawas) ka lokarpan kiya. Nirman SIDF-2022-23 ke tahat Rs 100 lakh ki anumaanit lagat se hua aur APPWD ke Khonsa division ne nishpadit kiya. Tirap DC Techu Aran, Deomali ADC, Deomali ZPM Wangphoon Lowang, Namsang ke GB Mongdey Hondik aur gaon ke mukhiya/members maujood the. (DIPRO report)',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Kenon (Soha circle) me Dirok nadi par 50-meter pul ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/05/01/lowang-lays-foundation-stone-of-bridge-over-dirok-river/',
+    date: '2025-04-30',
+    note: '30 Apr 2025 (Wednesday) ko Wangki Lowang ne Deomali circle ke Kenon gaon (Soha administrative circle) me Dirok nadi par 50-meter pul ka shilanyas kiya; report me spasht likha hai ki Kenon Namsang vidhan sabha kshetra me hai. Pariyojna RIDF ke tahat Rs 11.19 crore anumaanit; Khonsa circle ke EE (planning) ne recast kiya aur PWD Eastern Zone Namsai ke SSW ne sanshodhan kiya. Pul se Kenon aur aas-paas ke gaonon ko all-weather connectivity milegi aur Changlang jile tak seedha marg khulega. Deomali ADC Badonlum Tawsik, Deomali/Soha ZPM, PWD adhikari, Kenon chief Wangnoi Sawin aur GB Phobon Sawin maujood the. (DIPRO report)',
+    period: '2024-2029',
+    stage: 'shilanyas',
+  },
+];
+
+arunachalWorks['wanglam-sawin'] = [
+];
+
+arunachalWorks['chakat-aboh'] = [
+  {
+    title: 'Dadam me PHC doctor quarter aur Dapdong Residential School me girls hostel-cum-kitchen building ka vyaktigat lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2024/08/14/mla-inaugurates-infrastructure-projects-2/',
+    date: '2024-08-13',
+    note: '13 Aug 2024 ko MLA ne vyaktigat roop se Dadam me teen suvidhaon ka lokarpan kiya: Dadam PHC ke medical officer ke liye Type-IV doctor quarter (DoTCL 2023-24, Rs 45 lakh) aur Dapdong Residential School me girls hostel aur kitchen-cum-dining hall (untied fund 2023-24, executing agency PWD). Dadam PHC khud inke pati purv MLA Tirong Aboh ke karyakaal ki hai — usme naya sirf doctor quarter hai, isliye wahi gina gaya. DRS aur PHC ke aaspaas paudhe bhi lagaye gaye. (Coordinator ne worker ki English title/note ko Roman-Hinglish me rewrite kiya.)',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Dadam me women technology park-cum-millet processing unit ka vyaktigat lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/07/12/aboh-inaugurates-millet-processing-unit-womens-technology-park/',
+    date: '2025-07-09',
+    note: '9 Jul 2025 ko MLA ne vyaktigat roop se Dadam me women technology park-cum-millet processing unit ka lokarpan kiya (DC Techu Aran aur 23 SHG sadasya maujood the). Ye pahal GoI ke DST SEED Division se funded hai; Kimin ke DBT-APSCS&T Centre of Excellence for Bioresources and Sustainable Development ne Khonsa ke NGO Kindle Foundation ke sahyog se organize kiya; teen-divasiya program me SHG mahilaon ko millet processing ka haathon-haath prashikshan diya gaya. MLA ka Khonsa me alag millet shop ka prastav sirf sujhav tha, koi swikrit kaam nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'MLALAD se 10 tyres ka vitaran — Khonsa kshetra me State Transport bus sevaen phir shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/01/08/mla-provides-tyres-to-resume-sts-bus-services/',
+    date: '2025-01-07',
+    note: '7 Jan 2025 ko MLA ne apni MLALAD se 10 tyres Khonsa STS Superintendent Kaphang Matey ko handover kiye. Report ke anusar Khonsa-Itanagar bus seva 2 Jan se phir shuru hui thi aur Khonsa-Tinsukia aur Khonsa-Tezu route do din me operational hone wale the. (Coordinator ne worker ki English title/note ko Roman-Hinglish me rewrite kiya.)',
+    period: '2024-2029',
+  },
+];
+
+arunachalWorks['wanglin-lowangdong'] = [
+  {
+    title: 'MLA Wanglin Lowangdong ne Borduria me Arunachal Pradesh Rural Bank ki nayi shakha ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/07/22/mla-inaugurates-aprb-borduria-branch/',
+    date: '2025-07-21',
+    note: '21 Jul 2025 ko Borduria me Tirap DC Techu Aran aur SP Aditya ki upasthiti me MLA ne shakha ka udghatan kiya; APRB ke GM (Operations) ke anusar shakha 7 May 2025 se operational thi aur udghatan tak 283 accounts khul chuke the. APRB SBI (35 percent), Government of India (50 percent) aur Government of Arunachal Pradesh (15 percent) dwara sponsored scheduled commercial bank hai. (DIPRO report)',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'MLA Wanglin Lowangdong ne Khela ke Eklavya Model Residential School me naye boys hostel ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/quality-education-adequate-infrastructure-key-to-empowering-tribal-students-lowangdong',
+    date: '2025-06-29',
+    note: '29 Jun 2025 (Sunday) ko Khela, Tirap me MLA ne hostel ka udghatan kiya; DC Techu Aran, SP Aditya, PWD EE Taro Jeram aur sthaniya pratinidhi maujood the. Hostel ka fund Ministry of Tribal Affairs ne Scheme for Grant to State Tribal Education Agencies ke tahat diya; EMRS Khela National Education Society for Tribal Students ke adheen hai aur Arunachal Shiksha Vikas Samiti (ASVS) dwara managed hai. (DIPRO report)',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Vidhan Sabha me MLA ne Borduria Government Higher Secondary School ke buniyaadi dhaanche ka mudda uthaya, jiske jawab me Shiksha Mantri ne Rs 50 lakh ke avantan ki jankari di',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Eastern Sentinel',
+    sourceUrl: 'http://easternsentinel.in/news/state/key-development-issues-discussed-in-arunachal-pradesh-legislative-assembly.html',
+    date: '2026-03-10',
+    note: 'Eighth Arunachal Pradesh Legislative Assembly ke Sixth Session me (10 Mar 2026) MLA ke prashn ke jawab me Education Minister P.D. Sona ne House ko bataya ki Mission Shikshit Arunachal ke tahat Borduria Government Higher Secondary School ke liye conference hall, smart classroom facilities aur ladke-ladkiyon ke alag-alag toilets ke nirmaan ke liye Rs 50 lakh aavantit kiye gaye hain. Credit capped: yah mantri ka sadan me diya gaya jawaab hai, MLA ki vyaktigat yojana nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhan Sabha Question Hour me MLA ne Tirap, Changlang aur Longding me atankvaad-prabhavit suraksha sthiti ka prashn uthaya, jiske jawab me Grih Mantri ne TCL 1.0 aur TCL 2.0 ki yojnaon ka byora diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI)',
+    sourceUrl: 'https://theprint.in/india/insurgency-affected-security-social-fabric-in-three-eastern-arunachal-districts-minister/2875211/',
+    date: '2026-03-10',
+    note: 'Question Hour me MLA ke prashn ke jawab me (10 Mar 2026, PTI) Home Minister Mama Natung ne bataya ki Tirap, Changlang aur Longding me suraksha vyavastha sudharne ke upay liye ja rahe hain; TCL 1.0 (2010-11, Rs 212.85 crore) ke tahat 20 police stations bane aur 1,949 pad bhare gaye, aur TCL 2.0 (Rs 585.42 crore) ka prastav Union Home Ministry ko bheja gaya hai. Credit capped: jawaab sarkar ka hai, prashn MLA ka.',
+    period: '2024-2029',
+  },
+];
+
+// ---- Tirap district batch END (9 entries, negatives 0) ----
+
+// REJECT-LOG (wangki-lowang, Namsang): 1. Tirap Police Gym lokarpan + Nehru Stadium nirikshan, Khonsa (Arunachal Times/arunachal24, 24 Jun 2026) — mantri-niyam: Khonsa Namsang seat me nahi (Khonsa East ke MLA Wanglam Sawin maujood the). 2. Nocte script adoption meeting ki adhyakshata, Deomali (Arunachal Times, 29 Aug 2026) — sanskritik/samanya karyakram, koi bhautik nirmaan nahi. 3. Vidya Dwar udghatan, RKM Narottam Nagar (Sentinel Assam Jul 2025; Eastern Sentinel Jul 2026) — niji sanstha ka sajawati toran + swami ke saath sanyukt udghatan; Sentinel Assam waise bhi non-whitelist. 4. RKM Narottam Nagar indoor sports facility ka sanyukt lokarpan (arunachalobserver/arunachal24, 4 May 2026) — DCM Chowna Mein ke karyakram me sanyukt lokarpan + niji sanstha ka suvidha kendra. 5. RKM Narottam Nagar HS extension block shilanyas (Arunachal Times, 11 Sep 2024) — shiksha mantri Passang Dorjee Sona ke saath sanyukt shilanyas (dusre neta ka karyakram) + niji sanstha. 6. Deomali APMC market building lokarpan (arunachal24, ~Jun 2024) — pre-term ('before the elections'). 7. Namsang Namghar ke liye Assam sarkar ka Rs 2 crore anudan (arunachalobserver, 10 Jun 2023) — pre-term + dusri sarkar ka grant. 8. Project Digi-kaksha launch, Deomali (Eastern Sentinel, May ~2024) — pre-term (PHED/IT mantri karyakaal) + pahal ka shubharambh, bhautik sanrachna ka lokarpan nahi. 9. Block Library Namsang udghatan (Eastern Sentinel, Sep 2021) — pre-term. 10. Longo me mega water treatment plant lokarpan (Eastern Sentinel, Feb 2021) — pre-term + Borduria-Bogapani seat (MLA Wanglin Lowangdong maujood the). 11. Deomali me 4 projects lokarpan — sub-treasury, Dirok gate barrack, 2 PMGSY pul (Arunachal Times/Echo of Arunachal, 2 Jul 2022) — pre-term. 12. Notun Kheti PHC MO quarters + Baari nadi pul lokarpan (Arunachal Times, 13 Aug 2023) — pre-term. 13. Deomali-Soha APSTS bus flag-off (Arunachal Times, Jul 2019) — pre-term. 14. Flood-damaged infra nirikshan, Deomali (Arunachal Times/arunachal24/IndiaTodayNE, 19 Jun 2026) — sirf nirikshan/daura + nirdesh, koi poorn kaam nahi. 15. Hathi-hamle me 2 graminon ki maut par Namsang daura (TOI/IndiaTodayNE, 20-21 Oct 2025) aur ex-MLA Kapchen Rajkumar ke liye shok (IndiaTodayNE, 10 Jul 2025) — shok/daura, kaam ya negative nahi. 16. Viksit Krishi Sankalp Abhiyan launch, Namsang (Arunachal Times, 30 May 2025) — sarkari abhiyan ka shubharambh, kaam nahi. 17. Nocte heritage tour Namsang/Subang — pracheen bartan salt well (NKTV, Jan 2026) — daura/heritage adhyayan, koi nirmaan nahi; source bhi non-whitelist. 18. Annual Research Seminar / GB Pant 37th annual day / World Elephant Day / Van Mahotsav speech — mantri-niyam: vibhagiya/samarohatmak karyakram, seat-kaam nahi. 19. 2018 Facebook defamation giraftari (arunachal24/Arunachal Times, Oct 2018) — Lowang khud shikayat-karta the (aaropee nahi) + pre-term — negative nahi. 20. CAMPA Rs 3 crore ACB probe maang (Arunachal Times, ~Dec 2025) — naam-jaal check: mamla CAMPA CEO (Jawal) ka hai, Lowang ka nahi. 21. Namdapha Project Tiger workers vetan-gyatram (Deccan Herald, 12 Oct 2026) — vibhagiya vetan-mudda; mantri par koi vyaktigat aarop/FIR/janch nahi — negative nahi. 22. PWD AE Deomali sub-division office building lokarpan (14 Aug 2024) — Northeast Today/Echo of Arunachal (non-whitelist; whitelist me 'Northeast Now, Northeast Today NAHI') — RETRY lead neeche. 23. Forest dept meeting/file forwarding (YouTube, Oct 2026) — meeting, kaam nahi.
+// RETRY-LEADS (parent ke liye): A. AE, PWD Deomali sub-division office building ka lokarpan, 14 Aug 2024 (Rs 100 lakh; 1950s wali CPWD-era imarat ki jagah) — northeasttoday.in aur echoofarunachal.in par DIPRO-marked report; Arunachal Times/Eastern Sentinel/arunachal24/IndiaTodayNE me Aug 2024 ki whitelisted coverage mile to 1 entry ban sakti hai. B. Dirok nadi pul (Kenon) ka completion/lokarpan — shilanyas 30 Apr 2025 hua tha; future me completion report aaye to doosri entry ban sakti hai.
+// WORKS_COUNT=2 NEGATIVES=0 REJECTS=23
+
+// REJECT-LOG (wanglam-sawin, Khonsa East) — sabhi rejected, wajah ke saath:
+// --- IN-TERM (Jun 2024 ke baad) ---
+// 1. Chunav jeet (Jun 2024, PTI/ToI) — chunav parinaam, kaam nahi.
+// 2. 3 Independent MLAs ka BJP sarkar ko samarthan (PTI, 17-18 Jun 2024) — raajnaitik faisla, kaam nahi.
+// 3. Ojing Tasing dwara Tirap me infra lokarpan (Arunachal Times, 31 Jul 2024) — Panchayati Raj mantri ne
+//    lokarpan kiya (DPRC, health unit, Panchayat Bhavan); Sawin upasthit — dusre neta ka karyakram.
+// 4. Mega health camp, Old Katang (Arunachal Times, 1 Feb 2025) — Sawin ne health camp samaroh ka
+//    udghatan kiya; ye samaroh/shubharambh hai, bhautik sarkari sanrachna ka lokarpan NAHI.
+// 5. Governor dwara de-addiction facility ka udghatan, Charju (arunachalgovernor.gov.in, 17 Feb 2025) —
+//    Governor ka karyakram; Sawin vakta/upasthit — dusre neta ka karyakram.
+// 6. Statehood Day 2025 dhwaj pharana (Arunachal Times) — samaroh.
+// 7. Har Ghar Tiranga rally flag-off (Echo of Arunachal, Aug 2025) — samaroh + non-whitelist source.
+// 8. Mrs TCL pageant me special guest (DIPR 'Arunachal Information' PDF, Mar 2025) — samaroh guest.
+// 9. Independence Day 2025 dhwaj pharana + Nehru Stadium 'couple of years me poora' (Arunachal Times) —
+//    samaroh + sirf ghoshna.
+// 10. Fit India Run flag-off (Arunachal Times, 1 Nov 2025) — samaroh ka flag-off.
+// 11. Khonsa bazaar aag-durghatna sthal daura + rahat-ashwasan (Arunachal Times, 21 Oct 2025) — daura +
+//    ashwasan; daan/rahat reject.
+// 12. Free coaching ghoshna (Arunachal Times, 9 Dec 2025) — '50 APSSB + 4 APCS aspirants ke liye free
+//    coaching ki ghoshna' — sirf ghoshna, itemized sanction/vitaran nahi.
+// 13. Golden jubilee school project progress briefing (Arunachal Times, 9 Dec 2025) — 'new infrastructure
+//    jald poora hoga' — progress briefing, koi lokarpan/shilanyas nahi (RETRY lead C dekhein).
+// 14. Sawin reviews progress of ongoing schemes (Eastern Sentinel, Jan 2026) — sirf nirikshan/samiksha
+//    (town roads, GHSS bhawan, Engineering Colony roads, Nehru Stadium); koi nateeja nahi.
+// 15. Khonsa PO shift + diversion road faisla (Arunachal Times, 28 Jul 2026) — Sawin-led joint inspection;
+//    PO ko purani court building me shift karne ka faisla + ~200m diversion road ka prastav — nirikshan +
+//    prastav, koi lokarpan nahi (RETRY lead A dekhein).
+// 16. CS inspects key infrastructure projects in Khonsa (Arunachal Times, 9 Aug 2026) — Chief Secretary ka
+//    nirikshan (hospital, PM SHRI GHSS, museum, substation); Sawin sang me — sirf nirikshan.
+// 17. Tirap Police Gym inauguration (Arunachal Times, 24 Jun 2026) — mantri Wangki Lowang ne lokarpan
+//    kiya; Sawin upasthit — dusre neta ka karyakram.
+// 18. Pongtu Kuh festival chief patron (IndiaTodayNE, 11 Apr 2026) — tyohar samaroh me chief patron ke roop
+//    me upasthit — samaroh.
+// 19. Ronghuan Kuhwa festival (Arunachal Times, 28 Sep 2025) — tyohar me upasthit — samaroh.
+// 20. APSTS Golden Jubilee (arunachal24, 2026) — Union mantri Ajay Tamta ka karyakram; Sawin upasthit —
+//    dusre neta ka karyakram.
+// 21. 69th Commonwealth Parliamentary Conference delegation (Sep 2026) — Cape Town pratinidhimandal me
+//    Sawin — sansadiya daura, seat-kaam nahi.
+// 22. Khonsa road 'Top Priority' (IndiaTodayNE, 9 Mar 2026) — Vidhan Sabha Question Hour me MAANG MLA
+//    Wanglin Lowangdong (Borduria-Bogapani) ne uthayi thi, Sawin ne nahi — dusre neta ki maang.
+// 23. Khonsa-Lazu road inspection (themileage.in) — nirikshan + ashwasan; source non-whitelist.
+// 24. Chowna Mein ke 11 infra Changlang me (arunachal24) — DyCM ne lokarpan kiya; Sawin upasthit —
+//    dusre neta ka karyakram.
+// --- PRE-TERM (Jun 2024 se pehle — sab reject) ---
+// 25. Open air gym, Hangpan Dada Park (Eastern Sentinel, ~May 2021) — pre-term.
+// 26. PWD Khonsa circle building infrastructure lokarpan (arunachal24, ~Jun 2023) — pre-term.
+// 27. Medical sub-centre + internal rural link road, Old Bunting (Arunachal Times, 27 Jan 2024) —
+//    pre-term (BADP/state fund se, lekin Jun 2024 se pehle).
+// 28. UD&H division office lokarpan (Arunachal Times, Jan 2020) — pre-term.
+// 29. Trauma centre + blood bank, General Hospital Khonsa (Arunachal Times, Feb 2020) — pre-term.
+// 30. PWD building foundation stone (Arunachal Times, Jan 2022) — pre-term.
+// 31. UD Guest House lokarpan (Eastern Sentinel, pre-2019) — pre-term.
+// 32. Khelo India competition kick-off (Eastern Sentinel, Mar 2021/22) — pre-term + samaroh.
+// 33. 'Khonsa East MLA inaugurates four infra facilities' (Eastern Sentinel, Jan 2020) — pre-term.
+// 34. Community hall dedication, Katang (Arunachal Times, Nov 2017) — pre-term.
+// 35. IPPB branch launch Khonsa (2018) — pre-term + yojana shubharambh.
+// 36. PM Ujala scheme launch Tirap (2017) — pre-term + yojana shubharambh.
+// 37. DCM inaugurates projects in Tirap, Charju bridge (middayonline — non-whitelist) — DCM ka
+//    karyakram + non-whitelist source.
+//
+// NEGATIVES: 0. Halafname (2024) me 0 criminal cases; 2014 aur 2019 ke halafname bhi 0 cases; ourneta.com
+// ke anusar '2026 tak koi criminal case registered nahi'. Whitelisted media me wartaman karyakaal me
+// Sawin ke khilaf koi FIR ya naam-daar adhikari-pusht janch nahi mili. Sep 2016 ka MLA pad se isteefa
+// (Congress antrikh kalah, Gauhati HC ne Speaker ki sveekriti ko sahi thahraya) pre-term raajnaitik
+// prakaran hai — koi FIR/giraftari nahi, negative nahi.
+//
+// RETRY-LEADS (parent ke liye):
+// A. Khonsa Post Office diversion road (~200m): Arunachal Times (28 Jul 2026) — joint team ne PO ko
+//    purani court building me shift karne ka faisla liya; PWD EE Taro Jeram ke anusar road construction
+//    'two weeks me, subject to govt approval' poora hone ka anuman tha. Verify karein: kya diversion road
+//    bani, aur kisne lokarpan kiya (tab entry banegi).
+// B. GHSS Khonsa golden jubilee/PM SHRI new school building: Dec 2025 me 'agle saal tak poora' (Arunachal
+//    Times); Aug 2026 CS inspection me 'newly constructed PM SHRI GHSS' dikha. Sawin dwara iske
+//    lokarpan ki whitelisted coverage mile to entry ban sakti hai.
+// C. Nehru Stadium Khonsa: Jun 2026 me under-construction (mantri ne timely completion ka nirdesh diya).
+//    Poornata par lokarpan-karta ki whitelisted coverage check karein.
+// D. Free coaching (Dec 2025 ghoshna): sirf ghoshna se entry nahi; agar itemized MLALAD sanction/vitaran
+//    ki media report aaye to entry ban sakti hai.
+
+// REJECT-LOG (chakat-aboh, Khonsa West): 1. Paa (male dormitory) inauguration at Moktowa village, Aug 2023 — REJECT (pre-term; her assurance of toilet/washroom/CC steps was sirf ghoshna). 2. Water treatment plant inauguration at Dadam, Aug 2022 — REJECT (pre-term; explicitly the late husband Tirong Aboh's 2017-initiated project). 3. Six classrooms of GUPS Moktowa inauguration, May 2023 — REJECT (pre-term). 4. Three RCC bridges over Tehien river on Dadam-Moktuwa road, Jun 2021 — REJECT (pre-term; sanctioned under CRF 2016-17 during husband's tenure — naam-jaal rule). 5. DyCM Chowna Mein's 15 tourism projects inauguration at Walong/Anjaw, Oct 2023 — REJECT (pre-term; dusre neta ke karyakram me keval maujoodgi; Anjaw seat se bahar). 6. RK Mission School Narottam Nagar golden jubilee, Jan 2023 — REJECT (pre-term; keval upasthiti, DyCM ka karyakram). 7. Arunachal Indigenous and Heritage Centre unveiling by Minister Nyato Dukam, Mar 2025 (abotanitv) — REJECT (dusre neta ka lokarpan, she merely attended; outlet whitelisted nahi). 8. Longpong Longnyong heritage expedition sponsored by the MLA, reported 2 Mar (year not shown) — REJECT (survey/tourism-potential assessment, koi bhautik sanrachna nahi). 9. GST benefits interaction with traders, 24 Sep 2025 — REJECT (sirf bhashan/awareness, koi kaam nahi). 10. Rs 4 lakh financial assistance to Khonsa Bazaar fire victims, 29 Oct 2025 — REJECT (daan/rahat). 11. CGI sheets and relief materials to 4 Lazu fire victims, 17 Mar 2025 — REJECT (daan/rahat). 12. 25 CGI sheets relief to Chinhan fire victims, 14 Jan 2025 — REJECT (daan/rahat). 13. Relief team to Laho village fire victims, 27 Mar 2026 (Arunachal Observer) — REJECT (daan/rahat; outlet whitelisted nahi). 14. Assembly panel of chairpersons, 2023 (Akashvani) — REJECT (pre-term; koi kaam nahi). 15. Foundation-day speech at United Kothin Zone Welfare Association, Jan 2024 — REJECT (pre-term; sirf bhashan). 16. APSTS Golden Jubilee Marathon prize distribution at Khonsa (Arunachal24) — REJECT (mukhya-atithi samaroh). 17. Census 2027 self-enumeration and participation appeal, Apr 2026 (Arun Khabar) — REJECT (keval appeal/shubharambh; outlet whitelisted nahi). 18. Khela gram panchayat bhawan inauguration by Minister Ojing Tasing, Jul 2024 (Arunachal Observer) — REJECT (dusre neta ka kaam, she merely accompanied; outlet whitelisted nahi).
+// NEGATIVES (chakat-aboh): koi nahi. 2024 halafname me 0 criminal cases; whitelisted established media me MLA khud aaropi wali koi FIR/adhikari-pusht janch nahi mili. Sep 2019 Phawang Lowang vivad pre-term rajnaitik vivaad hai aur Lowang ne FIR Naga Army (Ollo) dictate ke baare me di thi, Chakat Aboh ke khilaf nahi — negative nahi banta. Pariwar ke mamle (pati Tirong Aboh ki hatya/janch) naam-jaal rule se bilkul baahar.
+
+// FINAL TALLY
+
+// REJECT-LOG (wanglin-lowangdong): 1. Don Bosco School Borduria ki nayi building ka udghatan samaroh (Arunachal Times, 22 Mar 2025) — MLA sirf vakta tha, udghatan-karta ka ullekh nahi; donor-funded (Daniel Knable, Don Bosco Bonn) — dusre ke karyakram me maujoodgi + 'assured sponsorship' sirf ghoshna. 2. Kapu PHC ke liye ambulance ka flag-off (Arunachal Times, 30 Jun 2025) — equipment ka shubharambh, bhautik sarkari sanrachna nahi; welcome-gate aur general ground vistar ki ghoshna bhi sirf ghoshna; Borduria PHC ko CHC upgrade 'process initiated' sirf maang. 3. Lowangdong Free Coaching Programme (LFCP, 2024 me launch, 300+ aspirants, Rs 40 lakh+ disbursed — noctedigest.com/gallery) — daan/rahat category + non-whitelist source. 4. Pullong gaon ka WTP udghatan (Arunachal Times, 11 Feb 2024) — pre-term (2 Jun 2024 se pehle). 5. EMRS Khela girls hostel udghatan (Dec 2023) — pre-term. 6. Longo WTP shilanyas (Jan 2019) — pre-term. 7. Loggo-Chasa PMGSY sadak + Loggo community hall udghatan (Jun 2018) — pre-term. 8. Borduria circle headquarters police station shilanyas (Oct 2019) — pre-term. 9. Lowangdong Public Mini-Outdoor Stadium + Towang Lowangdong Green Park udghatan (Apr 2023) — pre-term. 10. Old Laptang ME school classroom building udghatan (Apr 2023) — pre-term. 11. Borduria PHC additional block udghatan (Aug 2022) — pre-term. 12. Khela me 16 projects ka udghatan (Mar 2019) — pre-term. 13. GHSS Borduria NSS unit udghatan (Jul 2023) — pre-term. 14. RKM Narottam Nagar me Abhedananda Bhavan boys hostel udghatan (arunachal24, May 2026) — Dy CM Chowna Mein ke karyakram me gaun bhoomika; MLA ne sirf Wangki Lowang ke saath indoor sports infra ka sanyukt udghatan kiya — dusre neta ke karyakram me maujoodgi. 15. Miss Nocte 2025 (Arunachal Times, Nov 2025) — sirf upasthiti. 16. Hav Hangpan Dada Balidan Diwas wreath (arunachal24, May 2026) — shraddhanjali, kaam nahi. 17. Census 2027 self-enumeration (arunachalobserver, Apr 2026) — jagrukta appeal, kaam nahi + non-whitelist. 18. Khonsa plantation drive Ek Ped Maa Ke Naam 3.0 (Mizoram Observer, Aug 2026) — samaroh maujoodgi + non-whitelist. 19. District coordination meeting me bayan (Arunachal Times, 13 Dec 2024) — 10,000 cherry blossom trees ka prastav aur Borduria PHC→CHC ki maang — sirf maang/prastav. 20. Nocte freedom fighters recognition (Arunachal Times, Jun 2025) — 1875 ke Nocte chief ki aitihasik pehchan; MLA ki koi bhoomika nahi (naam milta-julta hai, vyakti alag). 21. ICICI Bank ki Khonsa me pehli shakha ka udghatan (easternecho.in, Apr 2026) — non-whitelist source; RETRY lead. 22. MLALAD ghoshnaen (Rs 10 lakh/year sports, 2023; Rs 10 lakh UPSC coaching + Rs 10 lakh higher education, 2023) — pre-term + keval ghoshna. 23. the-laws.com ka 1987 co-operative society civil judgment — pre-term civil vivad, negative nahi ban sakta. 24. Miss Chalo Loku 2023 me upasthiti — sirf maujoodgi.
+// RETRY-LEADS (parent ke liye): A. ICICI Bank ki Khonsa (Tirap) me pehli shakha ka udghatan (easternecho.in, 28 Apr 2026) — report ke anusar MLA ne Tirap DC ke saath udghatan kiya; easternecho whitelist me nahi — Arunachal Times/Eastern Sentinel/Arunachal24 me Apr-May 2026 ki whitelisted coverage mile to valid entry ban sakti hai. B. Kapu PHC ambulance flag-off (Arunachal Times, 30 Jun 2025, khola ja chuka) — ambulance DoTCL dwara procured thi, lekin DMO ne MLA ko 'providing' ka shrey diya; equipment hai (sanrachna nahi) isliye reject — vyaktigat fund bhoomika ka spasht pramaan mile to phir vichaar ho sakta hai.
+
+// ---- Longding district batch (researched 2026-10-17) ----
+arunachalWorks['gabriel-denwang-wangsu'] = [
+  {
+    title: 'Krishi mantri Gabriel D. Wangsu ne 18 March 2026 ko Kanubari me Industrial Training Institute (ITI) aur Government Higher Secondary School ke upgraded infrastructure ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://arunachaltimes.in/article/wangsu-inaugurates-kanubari-iti',
+    date: '2026-03-18',
+    note: 'Dateline "KANUBARI, 18 Mar" + "on Wednesday" — 18 Mar 2026 Budhvaar hai (2024/2025 me ye weekday nahi), isliye year 2026 pakka. Wangsu ne vyaktigat roop se Kanubari ITI aur Government Higher Secondary School, Kanubari ke upgraded infrastructure ka lokarpan kiya. Samaroh me Skill Development & Entrepreneurship secretary Bullo Mamu, deputy director Gyati Kacho, Longding DC Kunal Yadav aur Kanubari ADC Yashwant Meena maujood the; mantri ne first-phase ke trainees se baat ki aur ITI campus me forest department ke saath plantation drive hui. Usi karyakram me district horticulture department, Longding ne MIDH ke tahat solar crop dryers aur power tillers ke saath 62 labharthiyon ko CGI sheets vitrit kiye; mantri ne Kanubari constituency ke heads of departments ke saath vikas-samiksha baithak bhi ki. Article me pariyojnaon ke fund-srot ka vivran nahi diya gaya (disclosure).',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Gabriel D. Wangsu ne 27 March 2025 ko Kanubari me Kanubari Agro-Spices Producers Company Limited launch kiya aur 19 gaon ke 500 se adhik kisaano ko adrak aur King Chilli ke paudhe vitrit kiye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Eastern Sentinel',
+    sourceUrl: 'http://easternsentinel.in/news/state/wangsu-warns-against-misuse-of-govt-schemes.html',
+    date: '2025-03-27',
+    note: 'Dateline "Kanubari, Mar 27"; year Arunachal Times ki 28 Mar 2025 report ("Need for responsible farming: Wangsu — ITANAGAR, 27 Mar ... on Thursday", 27 Mar 2025 Guruvaar) se cross-confirmed. Wangsu ne ADC Office, Kanubari me Kanubari Agro-Spices Producers Company Limited (KASP, ek Farmer Producer Company) ka formal launch kiya aur 19 gaon ke 500 se adhik kisaano ko adrak aur King Chilli ke paudhe vitrit kiye; MOVCD-NER ke tahat Kanubari subdivision ke 25 gaon ke Farmers Interest Groups ke liye 16 metric ton adrak paudhon ko flag off kiya. Event Sheel Biotech ne District Agriculture Department, Longding ke sahyog se organise kiya tha (credit disclosure). Wangsu ne "Spices Mission" ke tahat Kanubari ko organic spice production ka model region banane ki baat kahi aur labharthi kisaano ki pragati ki vyaktigat monitoring ka ashwasan diya; sarkari yojnaon ke durupyog ke khilaf chetavni bhi di.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+
+arunachalWorks['thangwang-wangham'] = [
+  {
+    title: 'Longding township ke liye paani-saplaai pariyojana state budget me shamil — lambe samay ki paani-killat ka samadhaan nirdharit hua, jan-netaon aur mahila samaj ne MLA ke mudda uthane ko sarvajanik shrey diya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Northeast Now',
+    sourceUrl: 'https://nenow.in/north-east-news/arunachal-pradesh/arunachal-water-supply-project-to-bring-relief-from-scarcity-in-longding-township.html',
+    date: '2026-03-12',
+    note: 'Shrey capped: budget session me pariyojana ki ghoshna CM Pema Khandu aur DyCM Chowna Mein ne ki; MLA Thangwang Wangham ka yogdaan mudda uthana tha, jise Longding ke jan-netaon (Advocate Wangshu Wangsu sahit) aur Arunachal Pradesh Women Welfare Society (Longding branch) ne sarvajanik roop se swikara. Kaam abhi budget-ghoshna stage par hai.',
+    period: '2024-2029',
+    stage: 'ghoshna',
+  },
+  {
+    title: 'MLA ke Question Hour me mudda uthane par CM ka ashwasan — Longding–Nokjan road (28.82 km) ka takriban 22 km hissa CRIF ke tahat sudhar ke liye priority list me, lagat takriban Rs 60 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'PTI (Newsdrum)',
+    sourceUrl: 'https://www.newsdrum.in/national/arunachal-cm-assures-improvement-of-longdingnokjan-road-connecting-nagaland-11203136',
+    date: '2026-03-11',
+    note: 'Shrey capped: NPP MLA Thangwang Wangham ne 11 Mar 2026 ko Question Hour me road ki jarurat uthayi; CM Pema Khandu ne ashwasan diya ki highway hisse ko chhodkar lagbhag 22 km ke liye CRIF funding (Ministry of Road Transport and Highways) ki priority list me prastav rakha gaya hai. Fund kendriya (CRIF) hai, MLALAD nahi. PWD Longding division ne takneeki jaanch karke estimate Planning and Investment Department ko bheje hain.',
+    period: '2024-2029',
+    stage: 'aashvaasan',
+  },
+  {
+    title: 'MLA ke sawaal par mantri ka jawab — Boniah–Longkhaw PMGSY road ke marmmat aur unnayan ke liye rajya sarkar ne Kendra se vishesh sahayata ka prastav bheja',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Arunachal24',
+    sourceUrl: 'https://arunachal24.in/arunachal-key-development-issues-discussed-in-assembly-mlas-raise-connectivity-school-issues/',
+    date: '2026-03-10',
+    note: 'Shrey capped: MLA Thangwang Wangham ne Boniah–Longkhaw road (PMGSY nirmit) ki sthiti par sawaal uthaya; Rural Works Department mantri P. D. Sona ne bataya ki mamla cabinet star par charcha hua aur PMGSY fund khatm hone ke baad rajya sarkar ne marmmat/unnayan ke liye Kendra se vishesh sahayata ka prastav bheja hai.',
+    period: '2024-2029',
+    stage: 'prastav',
+  },
+  {
+    title: 'Longding jile ke schools me Principals ki kami par MLA ke sawaal par shiksha mantri ka ashwasan — recruitment rules me one-time relaxation vicharadhin, tab tak Vice-Principals stop-gap postings',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Arunachal24',
+    sourceUrl: 'https://arunachal24.in/arunachal-kumar-waii-raises-human-wildlife-conflict-issue-in-assembly/',
+    date: '2026-03-06',
+    note: 'Shrey capped: MLA Thangwang Wangham ne Longding jile ke kai schools me Principals ki anupasthiti ka mudda uthaya; Shiksha Mantri Passang Dorjee Sona ne jawab diya ki aath saal ki seva-shart wale recruitment rules me one-time relaxation ka prastav vicharadhin hai aur tab tak jahan Principal nahi hain wahan Vice-Principals ki tainati ki ja rahi hai.',
+    period: '2024-2029',
+    stage: 'aashvaasan',
+  },
+];
+
+arunachalWorks['honchun-ngandam'] = [];
+
+// ---- Longding district batch END (6 entries, negatives 0) ----
+
+// REJECT-LOG (gabriel-denwang-wangsu, Kanubari): 1. 57 projects inauguration incl. Open Gym (arunachal24 + archive Arunachal Times, 7 Mar 2024, DIPRO) — pre-term (2 Jun 2024 parinaam se pehle; article me "ensuing simultaneous elections" ka ullekh). 2. Mini-Secretariat Building inauguration, 20 Oct (Eastern Sentinel) — "Kanubari MLA cum Chairman APSCIT & e-Governance" designation mantri-ban ne se pehle ke karyakaal ki hai; pre-term. 3. Teen naye gaon (Wunli-Rzu, Pamting-Rzu, Tingzen Rzu) ka udghatan + CGI sheets/PVC tanks vitaran (Eastern Sentinel; dateline "Jan 6" Friday — 2023 ya 2017) — pre-term. 4. Kanubari CHC me free eye camp, ~200 patients (Arunachal Times, 19 Jul 2023) — pre-term + daan/rahat. 5. Model Degree College Kanubari foundation stone unveiling (Eastern Sentinel + archive Arunachal Times, Feb 2019) — pre-term; PM ne digital launch kiya tha. 6. Drinking-water sources bill par Assembly debate me "dedicated fund" ki maang (PTI/ThePrint, 2022-23) — pre-term + sirf maang, nateeja nahi. 7. Kanubari township ke liye zameen-daan ki appeal (arunachal24, 25 May 2017) — pre-term + sirf appeal. 8. Zedua/Luktham aur New Kanubari me proposed sites ka 3-day inspection (Eastern Sentinel, 16 Dec 2024) — sirf nirikshan/sthal-chayan, nirmaan ya udghatan nahi. 9. Kanubari constituency me ongoing projects ka inspection (archive Arunachal Times, 15 Dec 2024) — sirf nirikshan. 10. Govt Model Degree College Kanubari visit + support pledge (indiatodayne.in, 15 Apr 2026) — sirf nirikshan + ghoshna, koi swikriti/vitaran nahi. 11. Kanubari me pig-rearing awareness camp + ITI/Mopakhat/degree college/water treatment plant/PMGSY sites ka daura (PTI via ThePrint, 30 Jul 2025) — sirf jagrukta shivir + daura. 12. Tewai/Taru rivers me 90,000 fingerlings ka river ranching (Eastern Sentinel 5 May 2025 + Arunachal Times 6 May 2025) — Fisheries department ka karyakram; mantri sirf "graced"/maujood; vyaktigat bhoomika nahi. 13. Vikshit Krishi Sankalp Abhiyan 2025 launch + Krishi Rath flag-off (Eastern Sentinel, 29 May 2025) — sarkari abhiyan ka keval shubharambh, rajya-stariya. 14. Doimukh me Rs 28.17 crore agri loans vitaran (TOI, Jul 2025) — rajya-stariya ministerial event; mantri-niyam. 15. ILP/indigenous-rights par high-powered committee ki adhyakshata (HT) — rajya-stariya ministerial bhoomika; mantri-niyam. 16. Longding town beautification inspection (Northeast Today, 31 Jul 2026) — whitelist me nahi (Northeast Today != Northeast Now) + sirf nirikshan + Longding town Kanubari seat nahi. 17. CCBF Nirjuli me modern cattle shed ka shilanyas (Northeast Today) — whitelist me nahi + Nirjuli Kanubari seat nahi. 18. Kanubari me PM-KISAN webcast event (UNI, 20 Jun 2026) — whitelist me nahi + sirf maujoodgi. 19. One Health/zoonoses programme Itanagar (Sentinel Assam, Jul 2026) — whitelist me nahi (Sentinel Assam excluded) + rajya-stariya.
+// NEGATIVE-CHECK (gabriel-denwang-wangsu): halafnama 2024 me 0 criminal cases. 2015-16 ki Congress rebel-MLA resignation/SC litigation (Business Standard/Economic Times) pre-term hai aur vartaman karyakaal (Jun 2024+) me koi legal development nahi — negative nahi banta. Whitelisted media me 2024-2026 me MLA ke khilaf koi FIR, giraftari, aarop ya court case report nahi mila. Koi qualifying negative nahi.
+// RETRY-LEADS (gabriel-denwang-wangsu): 1. KASP launch me 16 MT ginger saplings "will be distributed" (25 villages, FIGs) — Eastern Sentinel/Arunachal Times me follow-up vitaran report mile to distribution entry ko aur majboot kiya ja sakta hai. 2. Kanubari ITI ki sthapna/nirmaan ki DIPR Arunachal press release mile to ITI entry ka badge 'sarkari' ho sakta hai — dipr arunachal par "ITI Kanubari" dhoondho. 3. Kanubari ke liye MLALAD ke tahat itemized sanction/vitaran ki koi whitelisted report nahi mili — Arunachal Times archive (2024-2026) me "Wangsu" + "MLALAD"/"sanction" dhoondho.
+
+// REJECT-LOG (thangwang-wangham — Longding-Pumao (ST), NPP, karyakaal Jun 2024–2029):
+// 1. indiatodayne.in (29 Oct 2025): 'Working women’s hostel taking shape in Longding, MLA Wangham inspects progress' — hostel ka nirikshan aur samay par poornta ki appeal matra; pariyojana rajya-sarkar ki statewide yojana, koi vyaktigat fund/swikriti bhoomika report nahi — sirf nirikshan/daura, REJECT.
+// 2. indiatodayne.in (20 Apr 2025): Lance Naik Agoi Wangsa war memorial unveiling — Wangham sirf upasthit dignitaries me ('Longding MLA Thanwang Wangham'); mukhya-atithi samaraoh me maujoodgi, REJECT.
+// 3. Hindustan Times (~Mar 2026): Home minister ne Wangham ke likhit sawaal par 165 militants ke surrender ke aankde diye — keval tathyaatmak sawaal-jawaab, koi vikasatmak parinaam/mantri-ashwasan nahi, REJECT.
+// 4. longding.vkv.in / vkvapt.org: VKV Longding school ki sthapna me unki pehle ki bhoomika — school purane karyakaal ki (inauguration us samay jab ve 'former Longding MLA' kahe gaye, 2019 se pehle) — pre-term, plus source whitelist me nahi, REJECT.
+// 5. Arunachal Times archive (Sep 2017): opium de-addiction camp site nirikshan — pre-term, REJECT.
+// 6. Arunachal Times (Sep 2018): 35 weavers MUDRA loan — DC ne loan sanction letter baante, Wangham ki 'untiring efforts' ka zikr; 2018 ka karyakram, pre-term, REJECT.
+// 7. Arunachal Times archive (Jul 2018): Wancho Cultural Society office inauguration — 2018, pre-term, REJECT.
+// 8. arunachal24.in: Open Gym Longding (FIT India) — us samay ke MLA Tanpho Wangnaw ne inaugurate kiya; Wangham ka koi sambandh nahi — wrong-person, REJECT.
+// 9. arunachal24.in: CM Pema Khandu ne Longding me multiple projects ka virtual lokarpan kiya — CM ka karyakram, Wangham ki vyaktigat bhoomika report nahi, REJECT.
+// 10. echoofarunachal.in (Aug 2025): Wakka ODOP karyakram — source whitelist me nahi; Wangham sirf 'spoke on the occasion', minister Gabriel Denwang Wangsu ka karyakram, REJECT.
+// 11. YouTube (Konyak Aoleang 2026 speech) — YouTube = REJECT source; bhashan/samaraoh kaam nahi, REJECT.
+// 12. NEGATIVE-CHECK: halafnama case — FIR No. 20/2020, Longding Police Station, IPC 365/34 + UA(P) Act 13(1)(a), GR No. 55/2020 JMFC Longding, koi saza nahi — PRE-TERM hai. The Hindu / Arunachal Times (Jul 2020) ka Gauhati HC surrender-order pre-term. Jun 2024 ke baad is mamle me chargesheet, charges framed, giraftari ya adalat ke kisi nirdesh ki whitelisted media me koi reporting nahi mili — niyam ke mutabik halafname me darj hona akela negative NAHI, isliye koi negative entry nahi.
+// 13. myneta.info / oneindia.com candidate-list pages — background/aankda matra, works nahi, REJECT.
+// 14. HT (May 2025): 'Four NPP MLAs shift to PPA' — party-siyasat ki khabar; isme ye tathya confirm hua ki Wangham Arunachal me NPP ke akele MLA hain — ye profile info hai, kaam nahi, REJECT.
+
+// RETRY LEADS (agle pass ke liye):
+// - DIPR Arunachal / arunachalpradesh.gov.in par Longding-Pumao MLALAD sanction/vitaran ke itemized aadesh (2024-2026) ki specific search.
+// - Eastern Sentinel archive me 'Wangham' + Longding 2024–2026 (aaj Eastern Sentinel ka result set nahi mila).
+// - Longding township water supply project (budget me shamil, Mar 2026) par implementation/follow-up reporting — Nenow/Arunachal Times par 3-4 mahine baad search.
+// - 'Wangham' variant spellings (Thanwang/Thangwang/Wangnao) se ek extra search round.
+
+// QA: ~10 web searches; har source page poora kholkar padha; 4 entries validated (paani 1, sadak 2, school 1), sabhi Vidhansabha-maang/mantri-ashwasan ya sarvajanik-shrey wale — credit capped framing; physical lokarpan/shilanyas is term ka whitelisted sources me nahi mila.
+
+// REJECT-LOG (honchun-ngandam, Pongchau-Wakka): 1. Arunachal24 (2025-08-03) Sampoornata Abhiyan Samman Samaroh, Pongchau — Akanksha Haat 'inauguration' + Phohee Wangsa ko Rs 50,000 cash award + BP/sugar kits vitaran: mukhya-atithi ke roop me maujoodgi; sarkari abhiyan ka keval shubharambh/karyakram; koi fund source ya vyaktigat bhoomika disclosed nahi. 2. Times of India (2025-08-02) — wahi event, wahi wajah. 3. Sentinel Assam (2025-08-02) — wahi event + whitelist se bahar (Sentinel Assam, Eastern Sentinel nahi). 4. Northeast Now/nenow.in (2026-02-01) Wancho samudaay se jhum kheti chhodne ki appeal + tea/ginger/betel nut ki salah — sirf appeal/bayaan, koi bhautik kaam ya dastavezi nateeja nahi. 5. India Today NE (2025-08-19) Assembly Golden Jubilee session me polygamy ke khilaf floor speech, APWWS ne saraha — floor par bayaan/maang, koi kaam ya kanooni nateeja nahi. 6. Arunachal24 (2026-09, published Sep 2026) 5-day Eco-Adventure and Cultural Tourism Training Camp, Longding — Ngandam sponsor (doosri baar) lekin District Tourism Office ka training event; koi bhautik sarkari sanrachna nahi, event sponsorship CSR/daan shreni. 7. Arun Khabar (2026-10-05) MP Tai Tagak ka Wakka me Anganwadi/ASHA samman — Ngandam sirf maujood; non-whitelist source. 8. HubNetwork (2025-05-08) Rajnath Singh dwara 4 bridges ka VC se lokarpan — dusre neta ka karyakram; Ngandam sirf maujood + keynote; non-whitelist source; Tissa Bridge Pongchau-Konnu-Konsa road par hai lekin BRO/Defence project, vyaktigat bhoomika nahi. 9. Eastern Sentinel — Governor dwara Longding War Memorial udghatan — Ngandam sirf upasthit; dusre neta ka karyakram. 10. Eastern Sentinel (Jun 24, minister-tenure item) Khonsa–Longding 33KV line charging — SIDF funding credit Ngandam ko Education Minister ke roop me; pre-term (2017-2019), karyakaal Jun 2024+ se bahar. 11. Eastern Sentinel (2017-era) Wakka me IED scare ke baad Ngandam ka airlift — suraksha ghatna, pre-term; Ngandam aaropi nahi, kaam ya negative nahi. 12. The Arunachal Times archive (2021-04-05) Senua Noksa fire: Ngandam ne LAD fund se Rs 10 lakh CGI sheets ke liye sanction kiye — pre-term (2021) + daan/rahat shreni. 13. nenow.in / India Today NE / TOI (2025-07-14/15) Vibrant Villages Programme me 66 border villages (Wakka, Pongchau samet) — CM Khandu ki ghoshna; Ngandam ka koi role ullekhit nahi. Negatives: 0 — 2024 affidavit me 0 criminal cases; karyakaal me established media me Ngandam ke khilaf koi FIR/accusation nahi (Pongchau-Wakka pehchan se).
+
+// COORDINATOR-QA NOTE (Tirap + Longding, 2026-10-17):
+// - Chakat Aboh ki 3 entries worker ne English me di thi — Roman-Hinglish me rewrite kiya.
+// - Wanglin Lowangdong entry-4 (TCL 1.0/2.0 prashn) statewide yojna ka jawaab hai — note me statewide scope disclosed + credit capped.
+// - Thangwang Wangham entry-3 me stage 'prastav' rakha (rajya sarkar ne Kendra ko prastav bheja — dastaveji prashasnik kadam; works_uttarakhand me 'prastav-shasan-me-lambit' precedent).
+// - Wangham entry-1 stage 'ghoshna' (budget me pariyojana shamil, samudaay ne sarvajanik shrey diya — Kurbah-precedent), credit capped.
