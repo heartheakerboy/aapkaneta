@@ -396,3 +396,76 @@ chhattisgarhWorks['ramkumar-toppo'] = [
 ];
 
 // ---- Surguja district batch END (1 work, 1 negative) ----
+
+// ---- Jashpur district batch (researched 2026-10-17) ----
+
+chhattisgarhWorks['raimuni-bhagat'] = [
+  {
+    title: 'Jesus Christ par tippani ke mamle me Jashpur court ne MLA ke khilaf BNS 196/299/302 me criminal case register karne ka order diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI via Telegraph India',
+    sourceUrl: 'https://www.telegraphindia.com/india/chhattisgarh-court-files-case-against-bjp-mla-for-remarks-on-jesus-christ-summons-her/cid/2076251',
+    date: '2025-01-08',
+    note: "NEGATIVE: PTI (Telegraph India, 08.01.25) ke anusar Jashpur ke Judicial Magistrate First Class Anil Kumar Chauhan ne 6 Jan 2025 ko BJP vidhayak Raymuni Bhagat (Jashpur seat) ke khilaf BNS sections 196 (dharmik aadhar par samoohon me dushmani failana), 299 aur 302 ke tehet criminal case register karne ka order diya. Ghatna 1 Sep 2024 ki hai: Asta thana kshetra ke Dhekni village me ek karyakram me unhone Jesus Christ aur dharmantaran par sthaniya boli me tippani ki thi; video viral hua aur Christian samaj ne jile ke sabhi thanon me shikayat di. Police ne janch me koi objectionable content nahi paya aur shikayatkarta ko court jane ko kaha; complainant Herman Kujur (advocate Vishnu Kuldeep) ne 10 Dec 2024 ko court me parivad diya; 6 gawahon ke bayan aur video CD ki janch ke baad court ne 'sufficient substance' mana aur 10 Jan 2025 ko peshi ka notice diya. Report me MLA ka jawab/paksh prakashit nahi hai — ye anupasthiti yahan disclose ki ja rahi hai.",
+    period: '2023-2028'
+  },
+  {
+    title: 'MLA ke dharne ke baad Sanna me shasakiya bhoomi par avaidh nirman par prashasan ne bulldozer chalaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattisgarh/jashpur-mla-raimuni-bhagat-demanding-action-illegal-construction-659688',
+    date: '2025-12-20',
+    note: 'Haribhoomi (20 Dec 2025) ke anusar Jashpur jile ke Sanna me court ke stay order ke bawajood shasakiya bhoomi par ho rahe avaidh nirman ke khilaf MLA Raimuni Bhagat sainkon karyakartaon aur graminon ke saath kadake ki thand me dharne par baithin aur prashasan se turant karyavahi ki maang ki; uske baad prashasan ne bulldozer se avaidh nirman dhwast kiya. Credit capped: prashasanik karyavahi unke hastakshep ka dastaveji nateeja, nirman prashasan ne toda.',
+    period: '2023-2028'
+  },
+];
+
+chhattisgarhWorks['gomati-sai'] = [
+  {
+    title: 'Pathalgaon me 9 sadkon ke liye Rs 25.91 crore ki PWD prashasakiya svikriti — MLA ki maang par',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattishgarh/news/jashpur-pathalgaon-mla-gomti-sai-construction-road-projects-approval-25-91-crores-received-77570',
+    date: '2025-03-30',
+    note: 'Haribhoomi (Jitendra Soni, Jashpur) ke anusar Chhattisgarh sarkar ke nirdesh par Lok Nirman Vibhag ne Pathalgaon vidhansabha ki 9 sadak pariyojnaon ke liye kul Rs 25.91 crore ki prashasakiya svikriti di; report ise MLA Gomati Sai ke prayas/pahal ka nateeja batati hai aur MLA ne svikriti par mukhyamantri ka aabhar vyakt kiya. Credit: sarkar/PWD ki svikriti, MLA ki maang par. Itemized: Bandhanpur-Chhatasarai 2.85 km Rs 2.73 cr; Palidih Basti-Lakhjhar petrol pump 2.60 km Rs 3.06 cr; Chongribahar Gadla mod-Kotga pul 2.50 km Rs 2.98 cr; Tildega Atal Chowk-Amakani 2.26 km Rs 2.01 cr; Surajgarh middle school-Gauthan 2.55 km Rs 2.16 cr; Saraitola-Barpara 3.20 km Rs 2.35 cr; Kansabel-Shabdmanda 2.10 km Rs 2.23 cr; Mudabahla Karrajor-Dhanupara-Kadro 5.30 km Rs 6.34 cr; Farsatoli-Kolhenjhariya 2.20 km Rs 2.01 cr.',
+    period: '2023-2028'
+  },
+];
+
+chhattisgarhWorks['vishnu-deo-sai'] = [];
+
+// REJECT-LOG (CM-niyam par): nalanda parisar bhoomipujan (Rs 4.37cr), 50-bed hospital bhoomipujan, 9 kaam (Rs 9.65cr, 20 Jun 2026) — sab non-whitelist (vedantsamachar, navpradesh, thefrontpage24); e-paper/whitelist retry.
+// Jashpur district batch END (3 works, 1 negative)
+
+
+// ---- Raigarh district batch (researched 2026-10-17) ----
+
+chhattisgarhWorks['om-prakash-choudhary'] = [
+  {
+    title: 'Vitta Mantri ki pahal par Gajmar Pahar ko dharmik paryatan sthal ke roop me vikas — sadak, pakke raste aur buniyadi suvidhaen ban rahi hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/raigarh/news/raigarh-cm-bhumi-pujan-hanuman-statue-tourism-jobs-137879667.html',
+    date: '2026-05-07',
+    note: 'Dainik Bhaskar (7 May 2026) ke anusar Raigarh ke Gajmar Pahar (Sankatmochan Hanuman Mandir, 1980 se aastha kendra) ko paryatan sthal ke roop me vikasit karne ki yojna mantri O.P. Choudhary ki pahal par chal rahi hai; pahar tak sadak, pakke raste aur anya buniyadi suvidhaon ka sarkari kaam page par documented hai. Wahan 51-feet kansya Hanuman pratima ki sthapana ka bhoomi-pujan unhone khud kiya, lekin page saaf kehta hai pratima jansahayog (public contribution) se banti hai — pratima ka shrey unka sarkari kaam nahi, isliye disclose kiya gaya hai. Credit: pahal ka shrey mantri-MLA ko, kaam sarkari suvidhaon tak seemit.',
+    period: '2023-2028'
+  },
+];
+
+chhattisgarhWorks['vidyawati-sidar'] = [];
+
+// REJECT-LOG (vidyawati-sidar, INC, Lailunga ST): 9 rejects — whitelisted me koi post-event reporting nahi; vipakshi MLA ki coverage patli. Pati Kunjbihari Sidar ka nidhan (Patrika, 2026-08-09) parivarik ghatna, negative nahi; Mudagaon coal-block protest giraftari (non-whitelist, FIR/janch nahi) negative threshold se bahar. Leads: Nakti demolition punarvas order; Haribhoomi/Bhaskar/Patrika Raigarh edition archives.
+
+chhattisgarhWorks['laljeet-singh-rathia'] = [];
+
+// REJECT-LOG (laljeet-singh-rathia, INC, Dharamjaigarh ST): 12 rejects. IE (10 Jan 2026) "Congress MLA arrested in cheating case" = Baleshwar Sahu (Jaijaipur), naam-jaal clear; Adani/Purunga koyla virodh me MLA ka samarthan = andolan, works nahi; Dharamjaigarh godam bhoomipujan MP Radheshyam Rathia ne karaya, MLA ki bhoomika nahi. Lead: cgvidhansabha Q.1867 (Mar 2025) nirman-karya prashn ka mantri-jawab whitelisted me mile to entry.
+
+chhattisgarhWorks['umesh-patel'] = [];
+
+// REJECT-LOG (umesh-patel, INC, Kharsia): 13 rejects. Pita (Nanda Kumar Patel) ke mamle bilkul alag rakhe; 2018-23 mantri-kaal ke kaam purane tenure ke, entry nahi; Kohardipa transformer (public.app) rejected source; 'Millet on Wheels' flag-off CM ne kiya, wo upasthit. Koi qualifying negative nahi. Leads: CG DPR/jansampark press releases (dprcg.gov.in VM se unreachable); Raigarh zila-panchayat Vidhayak Nidhi utilization reports.
+// Raigarh district batch END (1 work, 0 negatives)
+
