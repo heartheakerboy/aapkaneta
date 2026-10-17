@@ -1284,3 +1284,228 @@ tripuraWorks['bindu-debnath'] = [
 //    REJECT as negative.
 
 // ---- Sepahijala district batch END (2 works, 0 negatives) ----
+// ---- Khowai district batch (researched 2026-10-17) ----
+
+tripuraWorks['ranjit-debbarma'] = [];
+
+// REJECT-LOG: ranjit-debbarma-summary — Ranjit Debbarma (Ramchandraghat ST, Khowai, Tipra Motha; karyakaal Mar 2023+) — whitelisted sources me koi VALID kaam (bhautik sanrachna ka vyaktigat lokarpan/shilanyas, MLALADS itemized vitran, Vidhansabha maang ka dastaveji nateeja) aur koi NEGATIVE (in-term FIR ya naam-daar adhikari-pusht janch jisme MLA khud aaropi ho) nahi mila — Works = 0, Negatives = 0
+// REJECT-LOG: train-demand-churaibari — Tripura Times (20 Aug 2025) me MP Kriti Debbarman ko Churaibari se morning train ki maang wali chitthi — sirf maang/prastav, koi dastaveji nateeja nahi; page 30-din archive se bahar (paywalled) — LEAD: whitelisted outlet par train shuru hone ki follow-up khabar aaye to retry
+// REJECT-LOG: school-headmaster-crisis — Ramchandraghat ke 9 schools me headmaster na hone par CM ko chitthi (Tripura Times 3 Aug 2026, paywalled archive; tripuraindia.in non-whitelisted) — sirf maang, koi nateeja nahi — LEAD: niyuktiyon ki whitelisted reporting aaye to retry
+// REJECT-LOG: st-benefits-cancellation-letter — NCST ko ST suvidha radd karne ki maang wali chitthi (tripurainfo.com, 18 Aug 2025) — non-whitelisted source + sirf maang
+// REJECT-LOG: infiltration-letters-shah — Amit Shah ko ILP/deportation/high-power committee ki maang wali chitthiyan (HT, TOI Guwahati, indiatodayne, Northeast Now, 2024-2026) — sirf maang, koi dastaveji nateeja ya mantri-ashwasan ka nateeja nahi
+// REJECT-LOG: ttaadc-bills-supreme-court — PTI via The Week (5 Oct 2025): 37 TTAADC bills pending, Supreme Court petition ka vichaar — raajnaitik dawa/maang, kaam nahi
+// REJECT-LOG: fake-bangladeshi-documents — indiatodayne.in (24 Oct 2025): MLA ke naam par fake Bangladeshi ID/birth certificate circulate hone ka vivaad — MLA khud shikaar aur shikayatkarta hai, aaropi nahi; na kaam, na negative
+// REJECT-LOG: hc-fir-plea-dismissed — Northeast Today + boroktimes (Feb 2026): journalist Pranab Sarkar ke khilaf FIR ki MLA ki writ plea HC ne kharij ki — dono non-whitelisted; MLA complainant tha, aaropi nahi; negative ke mapdand par khara nahi
+// REJECT-LOG: bjp-mdc-seeks-arrest — Tripura Times (22 Feb 2026): BJP ka MLA ki giraftaari ki maang me virodh march — raajnaitik maang, MLA ke khilaf koi FIR/janch nahi; paywalled archive — LEAD: whitelisted outlet par FIR ki khabar aaye to retry
+// REJECT-LOG: vc-poll-firing-protest — EastMojo/indiatodayne/Northeast Now/TOI (29-30 Sep 2026): VC chunav firing par SEC ko gyapan aur sadak blockade — raajnaitik andolan, kaam nahi; MLA ke khilaf koi FIR nahi
+// REJECT-LOG: peace-accord-stir-threat — The Hindu (2024): peace accords lagu na hone par andolan ki dhamki — raajnaitik bayan, kaam nahi
+// REJECT-LOG: town-hall-rename-row — Tripura Times (7 Jul 2025): Agartala Town Hall ka naam badalne par punarvichar ki maang — sirf maang; paywalled
+// REJECT-LOG: baijalbari-road-blockade — tripurastarnews (1 Dec 2023): Padmabil block me sarkari karyakramon me na bulane par sadak jam — non-whitelisted + virodh, kaam nahi
+// REJECT-LOG: mla-fund-road-repair-baralunga — Tripura Times (23 Sep 2026): MLA fund se sadak marammat — galat vyakti (Mantri Bikash Debbarma, Krishnapur seat); naam-jaal reject
+// REJECT-LOG: cm-khowai-21-projects — Tripura Times/indiatodayne (15 Oct 2026): CM ke Khowai karyakram me maujoodgi — dusre neta ka karyakram, kaam nahi
+// REJECT-LOG: assembly-questions-10th-session — khorang24live (29 Aug 2026): Vidhansabha me college/sand-mining/court-cases par prashn — non-whitelisted; sabhi sarkari jawab 'koi yojna nahi', koi nateeja nahi
+// REJECT-LOG: case-count-note — halafname ke pending mamle (ADR 2 vs myneta 1) akele negative nahi; whitelisted sources me karyakaal ke dauraan MLA ke khilaf koi nayi FIR/janch nahi mili
+
+tripuraWorks['nirmal-biswas'] = [
+  {
+    title: 'Nirmal Biswas ke atarankit prashn par jail mantri ne Vidhansabha me bataya: Tripura ki jailon me mahila doshi sirf 6.29% hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Northeast Now',
+    sourceUrl: 'https://m.nenow.in/article/tripura/female-convicts-only-6-of-tripuras-prison-population/461222',
+    date: '2025-09-27',
+    note: 'CPI(M) MLA Nirmal Biswas ke atarankit (unstarred) prashn par jail-prabhari mantri ne likhit jawab diya: 15 Sep 2025 tak rajya ki 12 sakriya jailon me kul 556 doshiyon me 35 mahila doshi (27 kathor + 8 saadha) the, yani 6.29%; kul jail aabadi 1622 thi jisme adhiktar vicharadhin the. Credit capped: sirf prashn par likhit mantri-jawab mila, kisi niti-parivartan ya pariyojna ka nateeja nahi — MLA ki bhoomika prashn puchne tak seemit. Page par date 27 Sep 2025 publish dikha hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG: cm-21-projects-khowai-oct2026 — Tripura Times (15 Oct 2026): CM Manik Saha ne Khowai me 21 projects (Rs 38.73 crore) ka virtual lokarpan kiya — REJECT: Biswas upasthit-suchi me nahi the aur koi vyaktigat bhoomika nahi; dusre neta ke karyakram me maujoodgi par shrey nahi.
+// REJECT-LOG: cm-113cr-khowai-dec2025 — tripurastarnews.com (Dec 2025): CM ne Khowai me 11 projects + 2 shilanyas (Rs 113 crore) kiye; MLA Nirmal Biswas upasthit the — REJECT: source whitelisted nahi + sirf maujoodgi, lokarpan/shilanyas CM ne kiya.
+// REJECT-LOG: cm-school-buildings-khowai — tripurastarnews.com (~740 din purana): Khowai English medium HS building (Rs 5.37 crore) + Sarat Chandra school building (Rs 1.56 crore) ka lokarpan; Biswas upasthit — REJECT: source whitelisted nahi + dusre neta ke karyakram me maujoodgi.
+// REJECT-LOG: khowai-agartala-nh-inspection — tripurainfo.com (Oct 2026): Estimates Committee ki baithak (21 Jul) me Biswas ne Khowai-Agartala NH ki halat uthayi, phir committee (chairperson Antara Sarkar Deb sahit) ne NHIDCL adhikariyon ke saath nirikshan kiya — REJECT: source whitelisted nahi + sirf nirikshan/maang, marammat ka koi dastaveji nateeja nahi; LEAD: Tripura Times / Tripura Chronicle / EastMojo par 'Khowai Agartala national highway' + 'Estimates Committee' se retry karo.
+// REJECT-LOG: khowai-cpim-deputation-sdm — tripurastarnews.com: Khowai CPI(M) ne SDM ko deputation diya, MLA Nirmal Biswas maujood the — REJECT: source whitelisted nahi + sirf maang/prastav (deputation), koi nateeja nahi.
+// REJECT-LOG: rail-connectivity-demand-2026 — Northeast Today (19 Mar 2026): Budget Session me Biswas ne Khowai aur Unakoti ke liye behtar rail connectivity ki maang ki — REJECT: source whitelisted nahi + sirf maang, mantri ne kewal proposal ki sthiti batayi.
+// REJECT-LOG: dgp-death-judicial-probe-2026 — Northeast Now (~82 din purana): Biswas sahit CPI(M) vidhayak-dal (whip ke roop me) ne Governor se DGP ki maut ki judicial probe ki maang ki — REJECT: sirf maang/prastav, koi dastaveji nateeja nahi.
+// REJECT-LOG: strike-detention-feb2026 — Northeast Now (Feb 2026): rashtravyapi hadtaal me Khowai me 245 protesters sahit MLA Nirmal Biswas ko police ne custody me liya — REJECT as work (andolan hissa lena kaam nahi); negative-gate par bhi fail — Biswas aaropi nahi, giraftari nahi, koi FIR nahi.
+// REJECT-LOG: ambedkar-protest-dec2024 — Tripura Times (30 Dec 2024): Khowai me CPI(M) ki Amit Shah ke bayan ke khilaf protest rally, Biswas maujood — REJECT: raajnaitik protest, bhautik kaam nahi.
+// REJECT-LOG: gaza-solidarity-jun2025 — Tripura Chronicle (17 Jun 2025): Khowai me Palestine Solidarity Day, Biswas ne sambodhan kiya — REJECT: raajnaitik karyakram, seat-kaam nahi.
+// REJECT-LOG: martyrs-day-padmabil — Tripura Chronicle (28 Mar 2024): Padmabil me 75th Martyrs Day, Biswas ne pushpanjali arpit ki — REJECT: shraddhanjali samaroh, kaam nahi.
+// REJECT-LOG: minister-review-meet-dec2024 — Tripura Chronicle (9 Dec 2024): Mantri Sudhangshu Das ki ARD/Fisheries/SC Welfare review baithak me Biswas upasthit — REJECT: dusre neta ke karyakram me maujoodgi.
+// REJECT-LOG: gauri-pal-condolence-may2025 — Tripura Chronicle (24 May 2025): Gauri Pal ki condolence meeting me Biswas upasthit — REJECT: shok-sabha, kaam nahi.
+// REJECT-LOG: india-bloc-rally-2024 — tripurastarnews.com: I.N.D.I.A. bloc candidate ke samarthan me rally me Biswas upasthit — REJECT: source whitelisted nahi + raajnaitik rally.
+// REJECT-LOG: kerala-fund-attack-2018 — nenow.in / Business Standard (Aug 2018): Khowai me Kerala-baadh rahat chanda ikattha karte samay Biswas ki team par hamla — REJECT as negative: ghatna Mar 2023 se pehle ki hai aur yahan Biswas peedit the, aaropi nahi; koi FIR unke khilaf nahi.
+// REJECT-LOG: custodial-death-2021 — nenow.in (Nov 2021): Ratan Bhowmik ke saath Biswas ne custodial death par calling attention laya — REJECT: purane karyakaal (2018-2023) ka hai; halafnama me 0 criminal cases; LEAD: isi tarah ke current-term ke dastaveji prashn/jawab milen to shamil karo.
+// REJECT-LOG: border-haats-question-2022 — Lokmat Times topic page (24 Mar 2022): Border Haats par Biswas ke prashn ka mantri-jawab — REJECT: purane karyakaal ka hai; Lokmat aggregator bhi whitelist me nahi.
+// REJECT-LOG: naam-jaal-nirmal-biswas — Indian Express (27 Apr 2025), Tripura Times, Tripura Chronicle (26 Apr 2025): Indo-Bangla border par pakde gaye 'Nirmal Biswas' (38 saal, Malda, Brahmanbaria district, Bangladesh ke nivasi) — NOTE: ye Khowai ke CPI(M) MLA (48 saal, social service) nahi hain; naam-jaal se entry mat banao.
+// NEGATIVES: 0 — whitelisted media me MLA Nirmal Biswas ke khilaf koi FIR, giraftari ya naam-daar adhikari-pusht janch nahi mili; 2023 halafname me unhone 0 criminal cases ghoshit kiye hain. Updarjit ekmatra sambhavit negative (Feb 2026 hadtaal custody) negative-gate par fail hua: andolan me hirasat li gayi, aarop/FIR nahi.
+
+tripuraWorks['animesh-debbarma'] = [
+  {
+    title: 'Van Mantri Animesh Debbarma ne 15 October 2026 ko apni Asharambari seat ke Asharambari Higher Secondary School me naye bane 3 classrooms aur 3 laboratories ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Tripura Times',
+    sourceUrl: 'https://tripuratimes.com/ttimes/tripura-minister-inaugurates-3-classrooms-3-laboratories-at-khowai-school-42579.html',
+    date: '2026-10-15',
+    note: 'Sthal-par lokarpan Debbarma ne kiya; ye CM ke Khowai me 21 projects (kul lagbhag Rs 38.73 crore) ka hissa tha jinka virtual lokarpan CM ne kiya tha. Teeno school facilities — Asharambari HS ke 3 classrooms + 3 labs, Behalabari Class XII School ka 50-seat girls hostel (Tulashikhar block) aur PM SHRI Bharat Sardar HS ki nayi building — par kul lagbhag Rs 10.86 crore ki lagat report hui. Credit: nirman rajya school-education pariyojna se, MLA ki vyaktigat bhoomika lokarpan tak seemit. Udghatan me Khowai ke ADM aur Tulashikhar ke BDO maujood the.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG: tring-festival-2024 — Tripura Chronicle (20 Dec 2024): Tulashikhar me 1434 Tring festival ka udhghatan — REJECT: sanskritik samaroh/mela ka udhghatan hai, kisi bhautik sarkari sanrachna ka lokarpan/shilanyas nahi.
+// REJECT-LOG: project-parivesh-2025 — Tripura Times (24 Sep 2025): Behalabari Community Hall me Project Parivesh ka shubharambh, Debbarma mukhya-atithi — REJECT: CSR-funded (Canara HSBC) Biovillage 2.0 replication me shirkat; koi sanrachna-lokarpan nahi.
+// REJECT-LOG: saras-mela-2026 — aguli.in (Feb 2026): Khowai me 3rd district-level Saras Mela ka udhghatan — REJECT: source whitelisted nahi + sirf mela-udhghatan, kaam nahi.
+// REJECT-LOG: bio-village-behalabari-2025 — Northeast Today (25 Sep 2025): Behalabari me Bio Village 2.0 ghoshna samaroh — REJECT: source whitelisted nahi + mantri ke roop me karyakram-shirkat.
+// REJECT-LOG: van-mahotsav-2026 — tripurastarnews.com: Van Mahotsav samaroh me mantri-bhashan — REJECT: mantri-bhoomika ka rajya-stariya karyakram, Asharambari seat ka vishesh dastaveji kaam nahi.
+// REJECT-LOG: cm-21-projects-khowai — Tripura Times (15 Oct 2026): CM ne 21 projects ka virtual lokarpan kiya (Behalabari girls hostel, PM SHRI building, electric crematorium aadi) — REJECT: inka lokarpan CM ne kiya, Debbarma sirf parallel outreach me maujood the; dusre neta ke karyakram me maujoodgi par shrey nahi.
+// REJECT-LOG: go-back-protest-bachaibari — tripurainfo.com (15 Oct 2026): Bachaibari (Asharambari seat) me mahilaon ka 'go back' virodh, kaale jhande — REJECT: source whitelisted nahi; LEAD: Tripura Times / Northeast Now / EastMojo par 'Bachaibari' + 'go back' + 15 Oct 2026 se retry karo. Note: negative-gate par bhi fail — MLA khud aaropi nahi, koi FIR nahi.
+// REJECT-LOG: mann-ki-baat-attack-2025 — The Hindu (27 Jul 2025): Asharambari me Mann Ki Baat karyakram ke dauran BJP karyakartaon par kathit Tipra Motha hamla, 6 ghayal — REJECT as negative: aarop Tipra Motha ke karyakartaon par tha, Animesh Debbarma par vyaktigat aarop nahi; unhone party ki bhagidari se saaf inkar kiya (jawab disclosed); police ne janch shuru ki, koi giraftari nahi; MLA ke khilaf koi FIR ya naam-daar adhikari-pusht janch nahi.
+// REJECT-LOG: defamation-case-vs-ranjit — indiatodayne.in / nenow.in (13 Apr 2026): Animesh ne party MLA Ranjit Debbarma par TTAADC chunav prachar me manhanikarak bayan (flat/zameen khareed, forest-bungalow durupyog ke dawon) par criminal defamation case file kiya — REJECT as negative: yahan MLA shikayatkarta hai, aaropi nahi; Ranjit ke dawe apraamanit hain aur Animesh ke vakeel ne khandan kiya; MLA ke khilaf koi FIR/janch nahi; unproven campaign allegation ko negative nahi banaya ja sakta.
+// REJECT-LOG: champahour-chayapara-road-complaint — Tripura Chronicle (21 Jul 2025): Champahour se Chayapara sadak ki kharab halat par sthaniya logon ne mantri se hastakshep ki appeal ki — REJECT: shikayat/appeal piece hai, koi dastaveji nateeja ya marammat-lokarpan nahi; LEAD: baad me sadak ki marammat ya lokarpan hua ho to Tripura Chronicle/Times par retry karo.
+// REJECT-LOG: home-portfolio-childish — Tripura Times (22 Nov 2025): BJP ne home portfolio ki maang ko 'childish' kaha — REJECT: raajnaitik bayanbaazi, seat-kaam nahi; page 30-din archive paywall ke peeche khulta nahi.
+
+tripuraWorks['pinaki-das-chowdhury'] = [
+  {
+    title: 'MLA ne Ekrai Bazar, Nakshirai ADC Village me do-manzila market stall ka shilanyas kiya jisme 16 dukanein hongi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Times',
+    sourceUrl: 'https://tripuratimes.com/ttimes/mla-lays-foundation-for-market-stall-in-tripuras-adc-village-28581.html/',
+    date: '2025-06-14',
+    note: 'Tripura Times ki report ke anusar MLA Pinaki Das Choudhury ne Nakshirai ADC Village ke Ekrai Bazar me do-manzila market stall ki neev rakhi; 16 dukaano ki yojna batayi gayi jo sthaniya vyapariyon ko sahayata degi. Nirmaan ke srot/fund ka vivaran padhe gaye hisse me nahi tha (page ka poora text 30-din archive paywall ke peeche hai).',
+    period: '2023-2028',
+    stage: 'foundation'
+  },
+  {
+    title: 'MLA ki suchna par Power Minister ne Kalyanpur me electrocution se maut ki janch ke liye 3-sadasyiya samiti banayi aur bijli ke taaron/khambon ko badalne ki ghoshna ki.',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/power-minister-orders-probe-into-electrocution-death-in-kalyanpur/',
+    date: '2025-10-21',
+    note: 'Tripura Chronicle ki poori report ke anusar, Manipuri Para (Ghiltatali, Kalyanpur) me 22-varsheeya Ajay Debnath ki electrocution se maut ke turant baad MLA Pinaki Das Chowdhury ne Power Minister Ratan Lal Nath ko soochit kiya. Mantri ne ghatnasthal ka daura karke 15 din me report dene wali 3-sadasyiya janch samiti banayi, Kalyanpur me kharab taaron/khambon ko badalne ki yojna aur 132 kV sub-station par charcha ki baat kahi. Credit capped: faisle mantri/sarkar ke hain; MLA ki bhoomika mamle ko uthane aur daure me saath rehne ki rahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'MLA ne Kalyanpur Higher Secondary School ke paas naye bane stalls ke ghatiya nirmaan ki kadi aalochna ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Times',
+    sourceUrl: 'https://tripuratimes.com/ttimes/tripura-mla-slams-poor-quality-of-development-work-in-kalyanpur-37393.html',
+    date: '2026-05-22',
+    note: 'Tripura Times ki report ke anusar MLA Pinaki Das Choudhury ne Kalyanpur Higher Secondary School ke paas naye bane stalls ke ghatiya nirmaan gunvatta par teekhi aalochna ki aur vikas karyon me laparwahi ke aarop lagaye. Poori report 30-din archive paywall ke peeche hai; padhe gaye hisse me vibhag ki pratikriya ya sudhar-kadam ka zikr nahi mila.',
+    period: '2023-2028'
+  }
+];
+// REJECT-LOG: nagar-panchayat-proposal — 11 Jan 2025 ko 13th Assembly ke 6th session me Kalyanpur ko Nagar Panchayat ghoshit karne ka prastav — sirf maang/prastav (khule page par mantri-ashwasan ka vivaran nahi; poora text archive paywall me) — LEAD: https://tripuratimes.com/ttimes/mla-proposes-to-declare-kalyanpur-as-nagar-panchayat-23473.html/ (subscription se verify karo ki 15 Jan session me antim nirnay hua ya nahi)
+// REJECT-LOG: drainage-waterlogging — 30 Aug 2026 'modern drainage project' — sirf ghoshna/announcement; page poora paywall me, vaastavik nirmaan verify nahi ho saka — LEAD: https://tripuratimes.com/ttimes/tripura-mla-pinaki-das-choudhury-announces-modern-drainage-project-to-end-waterlogging-41606.html
+// REJECT-LOG: road-inspection-dec-2024 — Kalabagan (South Durgapur) se Ratia Sub-Health Center tak sadak marammat ka nirikshan — sirf nirikshan/daura + marammat ka ashwasan; koi dastaveji nateeja nahi — LEAD: https://tripuratimes.com/ttimes/mla-inspects-road-repair-works-in-kalyanpur-21565.html
+// REJECT-LOG: bridge-inspection-mar-2025 — Ratia Kheya Ghat par 110-meter Sudhindra Dasgupta Memorial Bridge ka nirikshan — sirf nirikshan; poornata ki koi confirmed report nahi mili — LEAD: https://tripuratimes.com/ttimes/mla-pinaki-das-chowdhury-inspects-construction-work-of-bridge-25938.html/
+// REJECT-LOG: shiva-temple-review-aug-2026 — Daocherra (Kalyanpur) me prachin Shiva mandir ke punarnirmaan ki pragati sameeksha — sirf nirikshan/daura — LEAD: https://tripuratimes.com/ttimes/centuries-old-shiva-temple-in-kalyanpur-under-construction-mla-pinaki-das-choudhury-reviews-progress-41492.html
+// REJECT-LOG: clothes-distribution-oct-2026 — Durga Puja se pehle mahilao me naye kapdon ka vitaran — daan/rahat kaam — LEAD: https://tripuratimes.com/ttimes/mla-pinaki-das-choudhury-distributes-new-clothes-to-women-ahead-of-durga-puja-42573.html
+// REJECT-LOG: cancer-patient-aid-jun-2026 — 16-varsheeya cancer patient Sanjana Debbarma ke ilaj ke liye Rs 75,000 sahayata — daan/rahat kaam — LEAD: https://tripuratimes.com/ttimes/rs-75000-aid-from-mla-pinaki-das-choudhury-gives-hope-to-young-cancer-patient-in-tripura-37783.html
+// REJECT-LOG: journalist-aid-jun-2026 — patrakaar Debanjan Nyogi ko Rs 30,000 arthik sahayata — daan/rahat kaam — LEAD: https://tripuratimes.com/ttimes/mla-pinaki-das-choudhury-extends-financial-aid-to-ailing-journalist-in-khowai-37986.html
+// REJECT-LOG: student-support-may-2026 — vanchit parivaro/chhatro ko sahayata — daan/rahat kaam — LEAD: https://tripuratimes.com/ttimes/tripura-kalyanpur-mla-extends-support-to-marginalized-students-36883.html
+// REJECT-LOG: humanitarian-khowai-may-2026 — South Singichhara (25-Khowai seat) ke parivar ko sahayata — daan kaam — LEAD: https://tripuratimes.com/ttimes/tripura-mla-pinaki-das-choudhury-praised-for-humanitarian-gesture-in-khowai-37557.html
+// REJECT-LOG: gram-panchayat-distribution-feb-2026 — Madhya Kalyanpur Gram Panchayat vitaran karyakram me MLA ki upasthiti/bhashan — sarkari yojna vitaran me keval maujoodgi — LEAD: https://tripurachronicle.in/local-news/bjp-government-bringing-welfare-directly-to-the-people-mla-pinaki-das-choudhury/
+// REJECT-LOG: durga-puja-inauguration-oct-2026 — Ekotra Sangha ki Durga Puja ka udghatan — dharmik karyakram me mukhya atithi; bhautik sarkari sanrachna nahi — LEAD: https://tripuratimes.com/ttimes/kalyanpur-gears-up-for-durga-puja-with-creative-pandals-and-community-traditions-42514.html
+// REJECT-LOG: youth-politician-award-dec-2025 — Youth Politician Iconic Award ke liye chayan — samman, kaam entry nahi — LEAD: https://tripurachronicle.in/local-news/tripura-mla-pinaki-das-choudhury-to-receive-youth-politician-iconic-award/
+// REJECT-LOG: bjp-membership-jul-2026 — 28 naye BJP sadasyo ka swagat — party politics — LEAD: https://tripuratimes.com/ttimes/mla-pinaki-das-choudhury-welcomes-28-new-bjp-members-in-kalyanpur-39740.html
+// REJECT-LOG: mann-ki-baat-aug-2026 — Booth 19 par Mann Ki Baat sunna — party karyakram — LEAD: https://tripuratimes.com/ttimes/mann-ki-baat-inspires-service-to-nation-mla-pinaki-das-choudhury-41607.html
+// REJECT-LOG: tmp-attack-condemn-jul-2025 — Mann Ki Baat karyakram par hamle ki ninda — keval bayaan — LEAD: https://tripurachronicle.in/local-news/tmp-accused-of-attacking-bjps-mann-ki-baat-program-seven-injured/
+// REJECT-LOG: school-inauguration-jan-2023 — Mayoung Bekereng Kusum Para High School building ka udghatan 16 Jan 2023 — karyakaal (Mar 2023) se pehle + srot tripurastarnews whitelist me nahi — LEAD: (whitelist bahar; koi retry nahi)
+// REJECT-LOG: van-mahotsav-jul-2026 — Van Mahotsav me upasthiti — dusre neta (Forest Minister) ke karyakram me maujoodgi — LEAD: https://tripurachronicle.in/local-news/van-mahotsav-is-a-movement-for-environmental-awareness-forest-minister/
+// REJECT-LOG: mla-accident-mar-2024 — sadak hadse ke baad CM ka aspatal daura — vyakti samachar; kaam entry nahi (srot webindia123/ANI bhi whitelist me nahi) — LEAD: (whitelist bahar; koi retry nahi)
+
+// ---- Kalyani Saha Roy (Teliamura GEN, Khowai; BJP) works batch (researched 2026-10-17) ----
+// FOUNDATION padha: slug 'kalyani-saha-roy', Teliamura (GEN), Khowai district, BJP;
+// 2023 me 4,152 votes ke margin se jeetin (runner-up Ashok Kumar Baidya, INC).
+// PAD: Cabinet mantri NAHI — ve Tripura Vidhansabha ki Chief Whip hain (seat-kaam par hi focus rakha gaya).
+// Karyakaal: Mar 2023–2028. Gopal Chandra Roy (Banamalipur, INC) se naam-jaal ka khatra tha —
+// seat (Teliamura) se pehchan pakki ki gayi; sabhi entries Teliamura/Khowai ki hain.
+// Halafname (2023) ke pending mamle: whitelisted media me akele negative ka aadhaar nahi bane.
+tripuraWorks['kalyani-saha-roy'] = [
+  {
+    title: 'Teliamura me Child Development Project Officer (CDPO) ke naye karyalaya-bhavan ka udghatan, Social Welfare mantri Tinku Roy ke saath sah-udghatan ke roop me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/tinku-roy-and-kalyani-roy-inaugurate-new-cdpo-office-at-teliamura/',
+    date: '2025-02-20',
+    note: 'Sarkari sanrachna (Samaj Kalyan vibhag ka CDPO karyalaya, Teliamura). Credit capped: karyakram ke mukhya-atithi Samaj Kalyan mantri Tinku Roy the; Kalyani Saha Roy ne sthaniya MLA/Chief Whip ke roop me sah-udghatan kiya (Tripura Chronicle ki headline aur report dono me dono ke naam hain). Page me nirmaan-lagat ya fund ka koi ullekh nahi hai — fund disclosure uplabdh nahi. Sthaan: Teliamura, Khowai district (inki seat).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (kalyani-saha-roy) — sabhi rejected, wajah ke saath:
+// 1. Moharcharra H.S School me library + community hall + open stage ka udghatan (19 Jun 2023, tripurastarnews.com) — page khola, lekin source whitelist-bahar (chhota Tripura portal); whitelisted (Times/Chronicle) me isi event ki coverage nahi mili — LEAD: Tripura Times/Chronicle par 19-20 Jun 2023 ke editions me "Moharcharra" khojo.
+// 2. Teliamura me chaar Anganwadi Kendron ka udghatan (4 Jul 2023, tripurastarnews.com) — source whitelist-bahar; unka dawa ("rajya sarkar ne vishesh pehel se chaar naye anganwadi swikrit kiye") bina sarkari dastavej — LEAD: whitelisted coverage khojo.
+// 3. Ramthakur Seva Mandir ke naye karyalaya-bhavan ka udghatan (23 Feb 2025, Tripura Times) — dharmik-niji sanrachna, sarkari sanrachna nahi; page 30-din archive me paywalled, poora padha nahi ja saka — LEAD: ePaper subscription se verify karo.
+// 4. Teliamura Hospital Road (Ampi Chowmuhani se subdivisional hospital) ka nirikshan aur turant marammat ki maang (29 May 2025, Tripura Chronicle; 30 May 2025 Tripura Times me bhi) — dono page khole/padhe; sirf nirikshan + thekedaar ko fatkaar + maang; koi dastaveji nateeja (sadak bani ya nahi) nahi — LEAD: whitelisted post-event report khojo ki sadak ki marammat hui ya nahi.
+// 5. Khowai River ke katav-rodh sarkari karyon ka nirikshan, Ward 3 Teliamura (30 Apr 2025, Tripura Chronicle) — sirf nirikshan/daura; unhone shrey CM ko diya; reject.
+// 6. CM dwara Khowai me Rs 38.73 crore ki 21 pariyojnaon ka udghatan (15 Oct 2026, Tripura Times) — CM ka karyakram; ve keval upasthit thin; reject.
+// 7. CM dwara Teliamura Motor Stand + 3 school buildings ka udghatan (11 Apr 2025, ANI via indiatodayne.in/latestly) — dusre neta ka karyakram; reject.
+// 8. Legal Metrology karyalaya + Working Standard Laboratory ka udghatan, Teliamura (12 Jan 2024, tripurastarnews.com) — mantri Sushanta Chowdhury ne udghatan kiya; ve keval upasthit; source bhi non-whitelisted; reject.
+// 9. 54 BJP booth karyalayon ka udghatan (3 Apr 2024, tripurastarnews.com) — party karyalaya (Lok Sabha chunav-prachar), sarkari sanrachna nahi; reject.
+// 10. Milan Mela (Poush Mela) ka udghatan, Chakmaghat (14 Jan 2023, Tripura Chronicle) — pre-term (Mar 2023 se pehle) + mele ka shubharambh; reject.
+// 11. Progressive Youth Club ke Golden Jubilee samaroh ka udghatan (19 Jan 2025, Tripura Times) — samaroh ka udghatan, koi kaam nahi; reject.
+// 12. Sarkari karmchariyon ke liye 4-din karyasaptah ka prastav (indiatodayne.in, 22 May 2026) — sirf prastav/maang; reject.
+// 13. Mahila Aarakshan Bill par Vidhansabha me prastav (newkerala.com / ET, ~May 2026) — sadan ka prastav, kendra se maang; seat-kaam nahi; reject.
+// 14. TWJA annual conference me mukhya-atithi (15 Feb 2025, Tripura Chronicle) — mukhya-atithi samaroh; reject.
+// 15. MNGREGA karmchari sammelan, Kalyanpur (24 May 2025, Tripura Chronicle) — sammelan ka udghatan + maangon ko CM tak pahunchane ka ashwasan; sirf ashwasan; reject.
+// 16. VB-G RAM G karyakram ka shubharambh, Khowai (2 Jul 2026, Tripura Chronicle) — sarkari abhiyan ka shubharambh; Union mantri-led; reject.
+// 17. Baramura pahadiyon me sadak durghatna se baal-baal bachna (15 Jun 2026, Tripura Times) — niji ghatna, kaam nahi; reject.
+// 18. CPI(M)-BJP jhadap, Teliamura (The Hindu, ~Nov 2022) — pre-term (vartaman karyakaal Mar 2023+ se pehle); unka keval prati-dawa; reject.
+// 19. Nav-nirvachit MLAs ka samman samaroh (30 Apr 2023) + medhavi chhatron ka samman (11 Jul 2025) — dono tripurastarnews (non-whitelisted); samaroh/upasthiti; reject.
+// 20. PMAY Urban sanction letters ka vitaran, Teliamura MC (ICA Tripura press release, Jul 2024) — sarkari source lekin page ka body JS-render par khula nahi; unki bhoomika ki pushti nahi ho saki — LEAD: ica.tripura.gov.in par JS-render karke padho ya Times/Chronicle me coverage khojo.
+// 21. Highway drainage samasya par mauka-karvayi (1 Jun 2026, Tripura Times) — sirf mauka-karvayi; page 30-din archive me paywalled — LEAD: archive subscription se verify karo.
+// 22. Teliamura Sub-Divisional Hospital ka achanak nirikshan, SDMO ko fatkaar (6 Jun 2026, Tripura Times; wahi kahaani tripuranet/thetripurapost par) — Times page paywalled; dusre source non-whitelisted; aur tha sirf nirikshan — LEAD: archive se padho.
+// 23. Van Mahotsav me bhagidari (tripurastarnews.com, ~Jul 2026) — mantri ka karyakram; ve vakta ke roop me upasthit; source bhi non-whitelisted; reject.
+// 24. Hospital-road thekedaar ko fatkaar (30 May 2025, northeasttoday.in) — BANNED SOURCE; isi ghatna ka whitelisted version (Tripura Chronicle 29 May 2025) padha — usme keval nirikshan-maang, nateeja nahi; reject.
+// NEGATIVES: 0. Vartaman karyakaal (Mar 2023+) me whitelisted media me inke khilaf koi FIR, giraftari ya naam-daar adhikari-pusht janch nahi mili. Tripurainfo/thetripurapost par hospital-nirikshan ke andaaz ki aalochna hai, lekin dono source whitelist-bahar hain. The Hindu (Nov 2022) ki Teliamura jhadap wali khabar pre-term hai.
+// WORKS_COUNT=1 NEGATIVES=0 REJECTS=24
+
+tripuraWorks['bikash-debbarma'] = [
+  {
+    title: 'Baralunga (Madhya Krishnapur Gram Panchayat) me khet-khalihanon ko bazaar se jodne wali tooti sadak ki marammat ke liye MLALADS fund aavantit, marammat ka kaam shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Tripura Times',
+    sourceUrl: 'https://tripuratimes.com/ttimes/mla-fund-to-finance-repair-of-road-used-by-farmers-42112.html',
+    date: '2026-09-23',
+    note: 'Tripura Times ke anusaar Krishnapur MLA aur mantri Bikash Debbarma ki pahal par Baralunga ki kshatigrast sadak (dhan, sabzi aadi upaj ko New Market tak pahunchane wala marg) ki marammat ke liye MLA Local Area Development Fund se rashi aavantit hui hai aur marammat ka kaam shuru ho gaya hai; report me rashi ya itemized swikriti ki sankhya nahi di gayi. Kisanon ki lambe samay se maang par ye kadam uthaya gaya. Credit capped: marammat poori hone ki pushti report me nahi hai.',
+    period: '2023-2028',
+    stage: 'nirmanadheen',
+  },
+  {
+    title: 'Krishnapur ke New Market me shaam ke vyapaar ke liye high-mast light lagayi gayi, mantri ne shaam ko jaakar nirikshan kiya',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'Tripura Times',
+    sourceUrl: 'https://tripuratimes.com/ttimes/mla-fund-to-finance-repair-of-road-used-by-farmers-42112.html',
+    date: '2026-09-23',
+    note: 'Tripura Times ke anusaar New Market me high-mast light lagayi ja chuki hai jisse suryast ke baad bhi vyapaar ho sake; sthaniya nivasiyon ne kaha bijli-gul hone par bhi ye suvidha kisanon aur vyapariyon ke kaam aayi. Mantri Bikash Debbarma ne shaam ko jaakar light ke kaamkaj ka nirikshan kiya aur kisanon se baat ki. Credit capped: report me light ke fund-srot ka ullekh nahi hai, isliye ise MLALADS ka kaam nahi kaha gaya hai.',
+    period: '2023-2028',
+    stage: 'purna',
+  },
+];
+// REJECT-LOG: pm-janman-hostel-shilanyas-mungiakami — Tripura Chronicle (29 Jul 2025) me Navajoy Riang Para, Nunachhara ADC Village, Mungiakami me 2x50-seat tribal hostel ka shilanyas; Union Education Ministry ki PM-JANMAN kendriya pariyojna hai, mantri ne sirf ceremonial shilanyas kiya, koi vyaktigat fund/bhoomika report nahi — kendriya pariyojna par bina vyaktigat bhoomika ke shrey = REJECT — LEAD: koi nahi
+// REJECT-LOG: market-shed-ghoshna-45-mile — Tripura Times (1 Aug 2025) 'Chayer Adday' me 45 Mile, Atharamura me MLA fund se sthayi market shed banane ki GHOSHNA; nirmaan/lokarpan ki koi report nahi, page bhi 30-din archive me paywalled — sirf ghoshna = REJECT — LEAD: market shed ke lokarpan ki whitelisted post-event reporting mile to retry
+// REJECT-LOG: road-work-halt-inspection — Tripura Times (16 Aug 2026) me Teliamura–North Maharani GM Road par nirikshan ke dauraan kaam rukwaya; sirf nirikshan, koi vikas-kaam nahi + paywalled archive — REJECT — LEAD: koi nahi
+// REJECT-LOG: chakmaghat-1.5km-road-foundation — neindia (4 Jul 2026) me CRPF Camp Chakmaghat se Birendra Das nivas tak 1.5-km sadak ka shilanyas; neindia whitelist me nahi (chhota portal) — REJECT — LEAD: Tripura Times ya anya whitelisted outlet par isi shilanyas ki coverage mile to retry
+// REJECT-LOG: yarn-certificate-vitaran-13-oct — neindia/aguli (2 Oct 2026) me 13 Oct ko Poush Sankranti Mela ground me yarn + sarkari pramanpatra vitaran ki PRE-EVENT ghoshna; dono source non-whitelisted; post-event whitelisted coverage nahi mili — REJECT — LEAD: 13 Oct event ki whitelisted post-event reporting mile to vitaran entry ke liye retry
+// REJECT-LOG: mungiakami-train-stoppages — Tripura Times (7 Jul 2026) me Mungiakami station par 2 express train ke naye stoppage ka flag-off; railways kendriya vishay, railway board ke faisle me mantri ki vyaktigat bhoomika report nahi + paywalled archive — REJECT — LEAD: mantri ki bhoomika (maang/proposal ka dastaveji nateeja) wali whitelisted reporting mile to retry
+// REJECT-LOG: mungiakami-station-vaishnaw-nod — northeasttoday.in (2 Dec 2025) me Union Railway Minister se in-principle nod; Northeast Today whitelist me NAHI — REJECT — LEAD: koi nahi
+// REJECT-LOG: bandh-against-picketing — Tripura Times (9 Jul 2025) me bandh ke khilaf Krishnapur me daura/picketing; rajniti, koi vikas-kaam nahi — REJECT — LEAD: koi nahi
+// REJECT-LOG: emrs-killa-inauguration — Tripura Times (13 Aug 2026) me Gomati ke Killa me EMRS ka udghatan Speaker Rampada Jamatia ne kiya, mantri sirf maujood; na Krishnapur seat, na vyaktigat bhoomika — REJECT — LEAD: koi nahi
+// REJECT-LOG: chailengta-hostel-foundation — tripurastarnews (21 Sep 2023) me Chailengta, Dhalai me 100-seat ST hostel ka shilanyas; source non-whitelisted + Dhalai jila (Krishnapur seat nahi) — REJECT — LEAD: koi nahi
+// REJECT-LOG: cm-khowai-projects-apr-2025 — Tripura Times (10 Apr 2025) me CM Manik Saha ke Khowai lokarpan; mantri ne sirf nirikshan kiya, dusre neta ka karyakram — REJECT — LEAD: koi nahi
+// REJECT-LOG: guardian-minister-assignments — indiatodayne/nenow (Jul 2026) me guardian minister niyukti; mantri-bhoomika, Krishnapur seat ka kaam nahi — REJECT — LEAD: koi nahi
+// REJECT-LOG: tgrdc-blockade-withdrawal — nenow (Jun 2026) me surrendered militants ke blockade vapas lene par sarkari ashwasan; mantri-bhoomika, koi bhautik kaam nahi — REJECT — LEAD: koi nahi
+// REJECT-LOG: post-poll-attack-hospital-visit — Tripura Chronicle (29 Sep 2026) me Mungiakami post-poll hamle ke ghayalon se GBP Hospital me mulakat; koi kaam nahi — REJECT — LEAD: koi nahi
+// REJECT-LOG: tipra-motha-residence-attack-complaint — tripurainfo (16 Dec 2025) me mantri ke nivas par hamle par mantri ne FIR darj karwayi; mantri complainant hai, aaropi nahi + source non-whitelisted — negative nahi — LEAD: koi nahi
+// REJECT-LOG: krishnapur-water-crisis-grievance — tripurainfo (4 Jun 2026) me Krishnapur me paani-sankat ki shikayat; source non-whitelisted; grievance report negative-criteria (FIR/janch) poori nahi karti — REJECT — LEAD: whitelisted outlet par adhikari-pusht janch/FIR ki khabar mile to retry
+// REJECT-LOG: garment-distribution-durga-puja — tripurainfo (20 Sep 2025) me Durga Puja se pehle vastr vitaran; daan/rahat kaam + source non-whitelisted — REJECT — LEAD: koi nahi
+// REJECT-LOG: handloom-review-meeting — neindia (14 Oct 2026) me handloom vibhag ki samiksha baithak; sirf meeting, non-whitelisted — REJECT — LEAD: koi nahi
+// REJECT-LOG: NEGATIVE-corruption-allegations-assembly — The Hindu (22 Sep 2024) + PTI (19 Sep 2024): Congress MLA Sudip Roy Barman ne Assembly me Rs 1,400-crore World Bank tribal project me bhrashtachar aur halafname se zyada sampatti (Tripura me makaan, Delhi me flat, 2 petrol pump) ke aarop lagaye; OSD ne CJM court me defamation suit darj kiya, mantri ne defamation ki dhamki di, BJP ne aaropon se inkaar kiya. Lekin MLA ke khilaf koi FIR ya naam-daar adhikari-pusht sarkari janch report nahi hui — negative criteria (FIR/janch) fail — REJECT as negative — LEAD: FIR darj ho, vigilance/ED janch shuru ho ya Rajyapal janch ka aadesh dein to retry
+// REJECT-LOG: NEGATIVE-evm-remark-fir-demand — indiatodayne (30 Mar 2026): CPI(M) neta Jitendra Chaudhury ne TTAADC chunav me EVM-tippani par SEC se FIR ki MAANG ki; FIR darj hone ya SEC action ki koi khabar nahi — maang akele negative nahi — REJECT as negative — LEAD: FIR darj ho ya SEC ka action report ho to retry
+// REJECT-LOG: NEGATIVE-ed-ganja-case-naamjaal — nenow (Mar 2026) + ED press release (31 Mar 2026): ganja taskari money-laundering case me 'Bikash Debbarma' naam ka vyakti mule account holder; koi bhi whitelisted source is vyakti ko Krishnapur MLA/mantri se NAHI jodta (Sepahijala-based Bishu Kumar Tripura case, seat/pehchan ka ullekh nahi); aam Tripuri naam hai — naam-jaal ka khatra, MLA par thopna gambhir truti hogi — REJECT as negative — LEAD: sirf tab retry jab whitelisted media pehchan ko Krishnapur MLA ke roop me confirm kare
+
+// ---- Khowai district batch END (8 works, 0 negatives) ----
