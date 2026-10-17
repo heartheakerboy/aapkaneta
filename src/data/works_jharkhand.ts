@@ -2731,3 +2731,299 @@ jharkhandWorks['sukhram-oraon'] = [
 
 // ---- Seraikela Kharsawan district batch END (3 works, 2 negatives) ----
 // ---- West Singhbhum district batch END (5 works, 0 negatives) ----
+
+// ---- Ranchi district batch (researched 2026-10-17) — Batch 7 ----
+
+// ---- Ranchi district batch (research date 2026-10-17) — worker vikas-kumar-munda ----
+// Jharkhand — Tamar (ST), Ranchi — MLA Vikas Kumar Munda (JMM, 2024-2029).
+jharkhandWorks['vikas-kumar-munda'] = [];
+// REJECT-LOG (vikas-kumar-munda, Tamar):
+// 1. [Jharkhand Headlines, ~9 Oct 2024]: MLA laid foundation stone for three bridges in Tamar/Bundu blocks (Jojoda, Murgidih, Satia; total ~Rs 11 crore). — REJECT: (a) source not on media whitelist (chhota regional portal, aggregator-type site); (b) event predates current karyakaal (Dec 2024+); (c) no whitelisted outlet (Prabhat Khabar, Dainik Bhaskar, Dainik Jagran, TOI, The Hindu, IE, NDTV, India Today, Telegraph, PTI) covers the same event. URL: https://jharkhandheadlines.com/jharkhand-news-mla-vikash-kumar-munda-lays-foundation-stone-for-three-bridges-in-tamar/
+// 2. [The Indian Express, 8 Nov 2024]: political-pulse feature on Tamar — MLA Vikas Munda faces Gopal Krishna Patar, the key accused in the 2008 murder of Vikas's father Ramesh Singh Munda. — REJECT as negative: the criminal case concerns the MLA's opponent/father's murder, NOT Vikas himself; he is not an accused in any case (affidavit: 0 criminal cases in 2024). URL: https://indianexpress.com/article/political-pulse/in-a-jharkhand-seat-jmm-mla-faces-the-key-accused-in-his-fathers-murder-case-9659372/
+// 3. [The Telegraph, Nov 2019 / Business Standard-ANI, Nov 2019]: Tamar seat stories about Kundan Pahan and Gopal Krishna Patar being accused in Ramesh Munda's 2008 murder. — REJECT as negative: same reason as #2 — Vikas is the victim's son, not an accused; family matter, pre-karyakaal, no FIR/chargesheet against him. URLs: https://www.telegraphindia.com/amp/jharkhand/son-takes-on-his-fathers-killers/cid/1723813 ; https://www.business-standard.com/article/news-ani/jharkhand-surrendered-naxal-accused-of-killing-former-minister-is-contesting-from-tamar-119112300746_1.html
+// 4. [The Hills Times via PTI, ~May 2025]: Vikas Kumar Munda led a Jharkhand assembly Committee on Food, Public Distribution & Consumer Affairs study tour to Arunachal assembly. — REJECT: legislative committee role/study visit, not a Tamar-seat work (no bhoomi-pujan/lokarpan of physical structure, no fund, no nateeja). URL: https://thehillstimes.in/arunachal-pradesh/jharkhand-assembly-team-visits-arunachal-assembly-to-foster-inter-state-legislative-collaboration
+
+
+// ---- Ranchi district batch (research date 2026-10-17) — worker amit-kumar ----
+// Jharkhand — Silli, Ranchi — MLA Amit Kumar (JMM, 2024-2029).
+jharkhandWorks['amit-kumar'] = [];
+// REJECT-LOG (amit-kumar, Silli):
+// 1. [public.app, Jan 2026]: MLA visit to Pahar Singh Birhor tola, Angara and landhup Birhor tola, Rahe; met villagers, heard problems on water/roads/housing — REJECT (sirf daura/mulaqat, koi bhoomi-pujan/lokarpan/swikriti nahi; source bhi whitelist se bahar). https://public.app/amp_video/sp_2jhjcgi5rk6on
+// 2. [public.app, ~Aug 2026]: MLA raised pending Radhu reservoir project status at Jharkhand Vidhan Sabha Estimates Committee dept meeting; officials 'assured' — REJECT (sirf maang/sawal, koi dastaveji nateeja ya mantri-swikriti established media par nahi; public.app whitelist se bahar). https://public.app/video/sp_meb4g0u09rr3f
+// 3. [public.app, Feb 2026]: MLA Amit Mahato met villagers at Binditand Upper Lohara tola, Silli; assured action on problems — REJECT (sirf ashwasan/mulaqat; whitelist source nahi). https://public.app/video/sp_octysgho726fw
+// 4. [hblive.co.in, 2026-10-11]: boundary-wall/gate shilanyas costing Rs 67,38,700, dateline Ramgarh, credited to 'Amit Mahto' — REJECT (chhota portal, whitelist se bahar; Ramgarh seat, Silli ka kaam nahi; identity bhi sandigdh). https://hblive.co.in/jan-sarokar/vidhayak-ke-netritv-men-kshetr-ka-ho-raha-hai-chahunmukhi-vikas-amit-mahato
+// 5. [Devdiscourse (PTI-style), 2025-09-13]: Health Minister Irfan Ansari laid foundation of 10-bed hospital (Rs 5 crore) in Silli block — REJECT (mantri ka karyakram, MLA Amit Kumar ki vyaktigat bhoomika report me nahi). https://Www.Devdiscourse.Com/article/health/3626944-jharkhand-health-minister-lays-foundation-for-new-hospital-in-ranchi
+// 6. [jharkhandvarta.com, ~May 2025]: Janata Darbar at Silli block by MLA; problems like bijli/pani/abua-awas discussed — REJECT (abhiyan, koi sanrachna-lokarpan/swikriti nahi; chhota portal, whitelist se bahar). https://jharkhandvarta.com/janata-durbar-organized-by-mla/
+// 7. [Prabhat Khabar, 2026-09]: Silli amin Ganesh Mahato's bail rejected in bribery case — REJECT as negative: naam-jaal; accused is a land-record amin, NOT MLA Amit Kumar (Silli se pehchan galat ho jaati). https://www.prabhatkhabar.com/state/jharkhand/ranchi-amins-bail-plea-rejected-again-in-bribery-case
+// 8. [thenewspost.in, ~2025-01]: 2006 CO-assault case — bail timeline (session-court conviction 2018, HC reduced to 1 year, SC bail; surrender 27 Jun 2023) — REJECT as negative: all judicial events pre-Dec 2024; source whitelist se bahar. https://thenewspost.in/News-Update/assault-case-with-co-former-mla-amit-mahato-gets-bail-from-supreme-court-know-what-was-the-whole-matter-IeE46QsHsC
+// 9. [jantaserishta.com]: old clips — Aug 2022 Vidhan Sabha gherao case (Dhurwa thana 208/22) bail/surrender — REJECT as negative: pre-karyakaal events; source whitelist se bahar.
+// 10. [veblr.com / Sona News]: 2019-era shilanyas clips of MLA-nidhi works by Seema Devi/Amit Mahto — REJECT (purana karyakaal, aggregator video source).
+// 11. [Telegraph, 2022-02-20]: Amit Kumar resigned from JMM over 1932 khatiyan (party issue) — REJECT (party politics, karyakram/kaam nahi). https://www.telegraphindia.com/amp/jharkhand/jharkhand-former-silli-mla-amit-kumar-and-his-wife-quit-party-over-1932-khatiyan-issue/cid/1852712
+// NEGATIVES: none — halafnama (myneta.info Jharkhand2024 candidate_id=991) ke 8 pending cases akele negative nahi, per rules; Dec 2024+ me MLA-khilaaf FIR/chargesheet/janch ya nyayik vikas established media par nahi mila. Purana 2006 mamla ka 2018 conviction halafnama me darj hai.
+
+
+// ---- Ranchi district batch (research date 2026-10-17) — worker rajesh-kachhap ----
+// Jharkhand — Khijri (ST), Ranchi — MLA Rajesh Kachhap (INC, 2024-2029).
+jharkhandWorks['rajesh-kachhap'] = [
+  {
+    title: 'MLA ka dawa — Rajesh Kachhap ne ek saal me Khijri ke liye MLALAD fund se 69 yojnaon (kul Rs 3.65 crore) ki anushansa ki',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/ranchi/news/one-year-completed-report-of-district-mlas-136528200.html',
+    date: '2025-11-28',
+    note: 'Hemant sarkar-02 ke ek saal par Ranchi jile ke 7 seats ki report. Khijri ke liye 69 yojnaen, kul Rs 3.65 crore ki anushansa — itemized list nahi di gayi. Date inferred: page par "Last Updated: 323 days ago" likha tha, isse research date 2026-10-17 se 2025-11-28 milti hai.',
+    period: '2024-2029',
+    stage: 'pahal',
+  },
+];
+// REJECT-LOG (rajesh-kachhap, Khijri):
+// 1. [PIB press release, 2025-07-03]: Ranchi me Savitribai Phule institute regional centre ka inauguration — Union Minister ne kiya, Kachhap sirf attendee — REJECT (dusre neta ka karyakram; kendriya pariyojna bina vyaktigat bhoomika). https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2141801&reg=48&lang=2
+// 2. [Vananchal 24TV Live, 2024-07-19]: Khijri me 3 pulon ki swikriti (Rs 329.90 lakh, Rs 308.08 lakh, Rs 304.76 lakh) — REJECT (pre-term: July 2024; karyakaal Dec 2024+ chahiye; site bhi whitelist me nahi). https://vananchal24tvlive.com/ranchi-khijri-mla-rajesh-kachhap-approved-three-bridges-in-the-assembly-constituency/
+// 3. [Vananchal 24TV Live, 2025-02-26]: Angara me paver block path + Lodhabeda check dam ka shilanyas — REJECT (whitelist me nahi; Kachhap ki anushansa par bana, magar source establish nahi). https://vananchal24tvlive.com/tag/ranchi-news/
+// 4. [KohramLive, ~2025-06]: "Vikas Ratna Samman-2025" award — REJECT (chhota portal, whitelist me nahi; samman kaam nahi). https://kohramlive.com/mla-rajesh-kachhap-received-this-big-honor/
+// 5. [novbhaskar.com, 2025-11]: Angara me transformer lagna — REJECT (chhota portal, whitelist me nahi; inauguration khud MLA ne nahi kiya). https://www.novbhaskar.com/2025/11/Electricity-reached-the-village-on-the-initiative-of-the-MLA.html
+// 6. [public.app, 2025-09-15]: Jagnathpur mandir jirnoddhar aadharshila — REJECT (aggregator/platform source whitelist me nahi). https://public.app/amp_video/sp_q1x1dote4i0au
+// 7. [public.app, multiple 2025-2026]: cycle vitran, flag-hoisting, karate championship chief-guest — REJECT (aggregator + mukhya-atithi/dan; kaam nahi). https://public.app/video/sp_r7fz4fnmt7kbg
+// 8. [UNI, 2026-02-26]: Assembly me TSP fund diversion par sawal, mantri ka jawab — REJECT (UNI explicitly excluded; sawal ka dastaveji nateeja nahi). http://www.uniindia.com/jharkhand-assembly-discusses-tsp-fund-diversion-calls-for-clear-guidelines/east/news/3755591.html
+// 9. [Prabhat Khabar, ~2026-09]: CIT-Bahaya sadak par gramin virodh ("Road nahi to vote nahi"), July me Kachhap ke 1-mahine ke ashwasan ke baad bhi kaam shuru nahi — REJECT (negative rules me fit nahi: sirf aarop/rajnitik aalochna; koi FIR/chargesheet/janch ya Dec 2024+ nyayik vikas nahi). https://www.prabhatkhabar.com/state/jharkhand/ranchi/villagers-block-road-over-unrepaired-cit-bahaya-route-after-failed-promises
+// 10. [The Hindu PTI, 2023-02]: Howrah cash-haul case me ED grilling — REJECT (pre-term: Feb 2023 ka vikas; Dec 2024+ me koi naya nyayik vikas nahi mila; halafnama me 0 criminal cases). https://www.thehindu.com/news/national/other-states/ed-grills-suspended-congress-mla-rajesh-kachchap-for-10-hours-in-cash-haul-case-in-jharkhand/article66484052.ece/amp/
+// 11. [Vananchal 24TV Live, 2024-11]: Hemant Soren ki chunavi sabha (Namkum) — REJECT (chunav prachar, kaam nahi). https://vananchal24tvlive.com/namkum-we-sent-rajesh-kachhap-from-khijri-to-the-assembly-after-winning-and-again-we-will-form-a-coalition-government-hemant-soren/
+
+
+// ---- Ranchi district batch (research date 2026-10-17) — worker chandreshwar-prasad-singh ----
+// Jharkhand — Ranchi, Ranchi — MLA Chandreshwar Prasad Singh (BJP, 2024-2029).
+jharkhandWorks['chandreshwar-prasad-singh'] = [];
+// REJECT-LOG (chandreshwar-prasad-singh, Ranchi):
+// 1. [PTI via LatestLY, 2024-02-29]: Ranchi roads damaged by pipeline laying raised by CP Singh in Vidhan Sabha; 3-member panel formed — REJECT (pre-term, Feb 2024, previous assembly term). https://www.latestly.com/agency-news/india-news-three-member-jharkhand-vidhan-sabha-panel-to-examine-poor-condition-of-roads-in-ranchi-5791023.html
+// 2. [Khabarinfra, old]: Rs 666 cr road projects foundation laid by CM; CP Singh only a guest attendee at event — REJECT (dusre neta ka karyakram, MLA ki vyaktigat bhoomika nahi). https://khabarinfra.com/jharkhand-cm-lays-foundation-stone-for-%E2%82%B9666cr-road-projects/
+// 3. [obnews.co, 2026+]: Kokar flyover Rs 224.94 cr lokarpan by CM Hemant Soren; CP Singh only present on dais — REJECT (dusre neta ka karyakram). http://obnews.co/Index/flowNewsDetail/id/6773357.html?val=b639825f5b190392b88fd17339aa9e2f
+// 4. [ReporterPost, old]: Urban Development minister-era press conference on city projects (2019-era schemes) — REJECT (mantri-kaaryakaal purana, seat-kaam nahi; Dec 2024+ nahi). https://reporterpost.in/article/jharkhand/5615/government-committed-for-development-of-cities-and-provide-amenities-to-people-cp-singh
+// 5. [Telegraph, 2019-02-22]: 25 civic projects lokarpan/shilanyas as urban development minister — REJECT (purana mantri-kaaryakaal, current term nahi). https://www.telegraphindia.com/jharkhand/jharkhand-minister-inaugurates-25-projects-as-cm-fails-to-make-it/cid/1685243
+// 6. [Telegraph, 2024-11-09]: Election-season article on civic-facility issues in Ranchi seat — REJECT (sirf samasya-uddharan, koi kaam nahi). https://www.telegraphindia.com/amp/jharkhand/ranchi-braces-for-close-poll-battle-lack-of-civic-facilities-remains-a-dominant-issue-in-jharkhand-capital/cid/2061746
+// 7. [The Statesman, 2025-08]: Assembly monsoon session article; CP Singh only named as Business Advisory Committee special invitee — REJECT (karyakaal-sambandhi samiti nam, koi seat-kaam nahi). https://www.thestatesman.com/?p=1503465542
+// 8. [legalindia.com, old]: 2009 Lok Sabha poll-code charges framed/convicted against CP Singh — REJECT (na current term, na MLA-khilaaf Dec 2024+ nyayik vikas; halafnama cases akele negative nahi).
+// 9. [english.dainikjagranmpcg.com]: Ranchi businessman Sanjay Singh rape/cheating case — REJECT (dusra Singh, MLA involved nahi; naam-jaal).
+// NEGATIVES: none established-media + MLA-as-accused with FIR/chargesheet/janch in Dec 2024+ term. Halafnama (myneta.info Jharkhand2024 candidate_id=342) ke 2 pending cases akele negative nahi, per rules.
+
+
+// ---- Ranchi district batch (research date 2026-10-17) ---- worker navin-jaiswal ----
+// Jharkhand — Hatia, Ranchi — MLA Navin Jaiswal (BJP, 2024-2029, Chief Whip of BJP legislative party since Jul 2025).
+jharkhandWorks['navin-jaiswal'] = [];
+// REJECT-LOG (navin-jaiswal, Hatia):
+// WORKS: 0. NEGATIVES: 0. Reject leads: 16 (3 marked RETRY LEAD below).
+//
+// 1. [Hindusthan Samachar (hindusthansamachar.in), 30 May 2025]: 'Upper Hatia me nali nirmaan ka shilanyas' —
+//    500-feet RCC drain, Mahatma Gandhi School se Peethiya Toli tak, hatia mandal president Ram Manoj Sahu
+//    ne shilanyas kiya; MLA Navin Jaiswal ki anushansa par swikriti mili. REJECT: (a) non-whitelisted outlet,
+//    (b) vyaktigat shilanyas MLA ka nahi tha — unhone sirf anushansa ki thi, (c) page ab 404 de raha hai.
+//    RETRY LEAD: agar whitelisted outlet (Prabhat Khabar/Dainik Bhaskar/Dainik Jagran) me yahi ghatna mile aur
+//    fund/mad ka khulasa ho to MLALAD-anushansa ke taur par vichar kar sakte ho. URL (ab dead):
+//    https://www.hindusthansamachar.in/Encyc/2025/5/30/Foundation-stone-laid-for-drain-construction-in-Up.php
+// 2. [Muck Rack listing of TOI journalist Sneha Kumari (non-whitelisted aggregator), ~mid-2026]: 'Ratu prakhand
+//    ke chaar ilaakon me 4.04 crore Rs se banega PCC path' — Ratu block ke Futkal, Shiv Nagar, Dayalnagar aur
+//    Lalgutwa me 4.04 crore Rs ki PCC sadken; shilanyas 'Hatia MLA Navin Jaiswal aur Raksha Rajya Mantri
+//    Sanjay Seth ki maujudgi me kiya gaya'. REJECT: (a) source whitelisted nahi hai (TOI ka asli article URL
+//    nahi mila, muckrack sirf journalist-summary hai), (b) 'ki maujudgi me' ka matlab hai ki shilanyas kisi
+//    aur ne kiya, MLA sirf upasthit the — mere presence, joint-credit nahi. RETRY LEAD: asli TOI article dhundho;
+//    agar usme MLA ne sah-shilanyas kiya ho aur fund khula ho to joint credit ke saath entry ban sakti hai.
+//    Listing URL: https://muckrack.com/sneha-kumari/articles
+// 3. [Public.app (aggregator), 13 Apr 2026]: 'Ratu Purvi panchayat me panchayat sachivalaya ka udghatan' —
+//    MoS (Defence) Sanjay Seth, Hatia MLA Navin Jaiswal, ZP adhyaksh Nirmala Bhagat aur mukhiya Sushma Tirkey
+//    ne sanyukt roop se feeta kaatkar udghatan kiya; bhavan Ranchi Zila Parishad ne banwaya. REJECT: (a)
+//    public.app aggregator hai — whitelisted nahi, (b) fund disclosed nahi, (c) MoS ke karyakram me shareefana
+//    upasthiti. RETRY LEAD: whitelisted outlet me mile aur MLA ki vyaktigat bhoomika likhi ho tab joint credit
+//    par vichar karo. URL: https://public.app/amp_video/sp_v7e93x3bew0qo
+// 4. [InextLive, 16 Oct 2026]: 'Crowds Throng Puja Pandals As Five More Open On Panchami' — Argora Durga Puja
+//    pandal ka udghatan Rajya Sabha MP Aditya Sahu aur MLA Navin Jaiswal ne kiya. REJECT: dharmik samiti ke
+//    pandal ka chief-guest udghatan sarkari kaam nahi hai. URL:
+//    https://www.inextlive.com/jharkhand/ranchi/crowds-throng-puja-pandals-as-five-more-open-on-panchami-1792142259
+// 5. [Akashvani (newsonair.gov.in) / ANI via LatestLY, 4 Jul 2025]: Savitribai Phule NIPCCD ka naya Regional
+//    Centre, Ranchi — Union Minister Annpurna Devi ne udghatan kiya; Hatia MLA Navin Jaiswal sirf manch par
+//    upasthit the. REJECT: kendriya mantri ka karyakram, MLA ki sirf upasthiti. URL:
+//    https://www.newsonair.gov.in/union-minister-annapurna-devi-inaugurates-spniwcd-regional-centre-in-ranchi/
+// 6. [Samacharnama, 10 Mar 2024]: Light House Project (PMAY-Urban), Dhurwa — PM Modi ne online udghatan kiya;
+//    Ranchi MP Sanjay Seth aur Hatia MLA Navin Jaiswal ne 10 labharthiyon ko sanketik roop se chabi saunpi.
+//    REJECT: kendriya pariyojna bina vyaktigat bhoomika, aur karyakaal se pehle (Mar 2024) ka. URL:
+//    https://samacharnama.com/city/ranchi/ranchi-pm-inaugurates-ranchis-lighthouse-people-get-home/cid13882210.htm
+// 7. [Business Standard (PTI) / The Week (PTI), 3 Jul 2025]: Gadkari ne 6350 crore Rs ki 11 NH pariyojnaon ka
+//    udghatan/shilanyas kiya; MLA Navin Jaiswal 'leaders in attendance' me the. REJECT: kendriya mantri ki
+//    pariyojnaon me sirf upasthiti, bina vyaktigat bhoomika. URL:
+//    https://www.business-standard.com/india-news/gadkari-to-inaugurate-lay-foundation-stone-for-rs-6-350-cr-125070300130_1.html
+// 8. [Dainik Bhaskar, ~Jul 2025]: 'Kanwar Yatra on August 3, T-shirt launched' — Hatia MLA Navin Jaiswal ne
+//    Namami Swarnarekha Johar Swarnarekha ki T-shirt launch ki. REJECT: dharmik yatra ka T-shirt launch,
+//    sarkari vikas kaam nahi. URL:
+//    https://www.bhaskar.com/local/jharkhand/ranchi/news/kanwar-yatra-on-august-3-t-shirt-launched-135575984.html
+// 9. [Prabhat Khabar, budget coverage + nvr24.com constituency profile, 2024/2026]: Hatia station redevelopment
+//    (Amrit Bharat, 355 crore Rs) aur 'Hatia me nirmaan par zor' profile — nvr24 likhta hai 'vidhayak ne
+//    kayi kaam karaye hain'. REJECT: (a) railway redevelopment kendriya pariyojna bina MLA bhoomika,
+//    (b) nvr24 non-whitelisted, (c) saamaanya prashansa me koi dastavezi yojna/kaam nahi. URL:
+//    https://www.prabhatkhabar.com/state/jharkhand/ranchi/rail-budget-2025-1147-cr-re-development-of-3-stations-of-ranchi-and-jamshedpur
+// 10. [22scope.com (non-whitelisted), ~Mar 2025]: MLA ne vidhansabha me Jal Jeevan Mission ke 62 lakh gharon
+//    ke liye jalapurti yojna adhoori rehne par sawal uthaya; mantri ne jawab diya. REJECT: sawal/mang bina
+//    dastaveji nateeja ke — sirf maang. URL:
+//    https://22scope.com/naveen-jaiswal-raised-questions-on-the-water-supply-scheme-being-incomplete-for-62-lakh-houses/
+// 11. [The Week (PTI), 7 Mar 2025]: 'Ranchi ashram double murder — even priests not safe in Jharkhand, claims BJP
+//    MLA in assembly' — MLA ne hatyaakand ka mudda uthaya, sarkar ne karyavahi ka aashwasan diya. REJECT:
+//    vipakshi bayaan/sawal, vikas kaam nahi. URL:
+//    https://www.theweek.in/wire-updates/national/2025/03/07/ces5-jh-assembly-murder.amp.html
+// 12. [newsjharkhand.com (non-whitelisted), ~mid-2026]: BJP MLA aur Chief Whip Navin Jaiswal ne Health Dept
+//    me irregularities ka aarop lagaya, independent probe ki maang ki. REJECT: rajnaitik aarop, vikas kaam nahi.
+//    URL: https://newsjharkhand.com/author/newsjw3m/page/44/
+// 13. [ETV Bharat, 15 Jan 2025]: BJP ka Samvidhan Gaurav Abhiyan — Hatia MLA Navin Jaiswal pad-yatra me shamil.
+//    REJECT: party ka karyakram, vikas kaam nahi. URL:
+//    https://www.etvbharat.com/hi/!state/bjp-started-samvidhan-gaurav-campaign-in-jharkhand-jharkhand-news-jhs25011505084
+// 14. [Public.app (aggregator), 29 Nov 2025]: Ratu ke Simliya-Nayatoli Shivnagar me MLA ne jan-samasyaen suni,
+//    samadhan ka aashwasan diya. REJECT: aggregator + sirf aashwasan, koi kaam nahi.
+//    URL: https://public.app/amp_video/sp_fmrtxm75w2vox
+// 15. [ETV Bharat, 26 Jul 2025]: 'Navin Jaiswal bane BJP vidhayak dal ke mukhya sachetak' — party ka pad.
+//    REJECT: pad-niyukti, vikas kaam nahi. URL:
+//    https://www.etvbharat.com/hi/!state/bjp-appointed-naveen-jaiswal-as-chief-whip-of-legislative-party-jharkhand-news-jhs25072603269
+// 16. [Prabhat Khabar, 2017 / YouTube / Dailyhunt aggregator]: 'Vidhayak lapata poster' episode (2017,
+//    karyakaal se pehle) aur 2026 me beti ke aashirwad karyakram me CM ki shirkat. REJECT: pehla pre-term,
+//    doosra vyaktigat parivarik karyakram. URL: https://www.prabhatkhabar.com/state/jharkhand/ranchi/1049193-
+//
+// NEGATIVE CHECK SUMMARY (navin-jaiswal — Hatia, BJP, post=MLA):
+// - myneta.info affidavit (Jharkhand 2024, candidate_id=347, NAVIN JAISWAL, Hatia, BJP, age 52): Crime-O-Meter
+//   me 3 criminal cases declared hain (2019 me 1, 2014 me 5, by-election me 3, 2009 me 0). Cases: (1) Complaint
+//   Case 3096/2017, IPC 406 — charges framed, CrMP 3009/2019 me Jharkhand HC ne 09.01.2020 se karyavahi par rok
+//   lagayi; (2) Lalpur PS Case 251/2021, IPC 147/149/341/343/332/353/188/269/270 + Sec 51 Disaster Mgmt Act —
+//   charges framed, HC ne 2022 me anticipatory bail di (ABA 4881/2022); (3) Lalpur PS Case 203/2024, BNS
+//   191(2)(3)/190/115(2)/117(2)/109/121(1)/125/132/324(2)/351(2)/352/61(2) — WD(CR) 735/2024 me HC ne 01.10.2024
+//   ko 'no coercive action' ka aadesh diya. Koi conviction nahi. Affidavit URL:
+//   https://myneta.info/Jharkhand2024/candidate.php?candidate_id=347
+//   Niyam ke mutabik halafname ke ye 3 pending cases akele negative NAHI hain.
+// - Established/whitelisted media me Dec 2024 se Oct 2026 ke window me MLA Navin Jaiswal KHUD ke khilaf koi
+//   FIR/chargesheet/probe ya nayi nyayik ghatna nahi mili: affidavit-cases ki koi Dec-2024+ khabar nahi,
+//   Dec 2024 ke baad ka koi naya case report nahi hua.
+// - Prabhat Khabar (26 Sep 2018): 2012 ke aachar-sanhita ullanghan case me Judicial Magistrate ne Navin Jaiswal
+//   sahit chaar ko saboot ke abhav me bari kiya — pre-term aur bari ka faisla hai, negative nahi.
+//   URL: https://www.prabhatkhabar.com/state/jharkhand/ranchi/1208940-
+// - Dainik Jagran (10 Jul 2018): Navin Jaiswal ne Babulal Marandi ke khilaf Doranda thana me FIR ka aavedan diya
+//   tha — wo complainant the, aaropi nahi; pre-term. URL: https://www.jagran.com/jharkhand/ranchi-18178879.html
+// - False-positive exclusions (naam-jaal se bacho): 'Naveen Kumar' Hapur encounter (UP, Lawrence Bishnoi gang
+//   ka sharpshooter) alag vyakti; Naresh Kumar Jaiswal (Mirzapur, UP) alag; Vinay Jaiswal (UP) alag; Pratima vs
+//   JMM workers (putla-dahan FIR) me 'Navin Chanchal' naam alag hai.
+// => NEGATIVES: none. Search coverage: ~16 browser.search queries (EN + Hindi, dono spellings 'Navin'/'Naveen')
+//    + 2 pages kholkar pade gaye (myneta.info affidavit, muckrack listing). Profile khali lekin imaandaar hai.
+
+
+// ---- Ranchi district batch (research date 2026-10-17) — worker suresh-kumar-baitha ----
+// Jharkhand — Kanke (SC), Ranchi — MLA Suresh Kumar Baitha (INC, 2024-2029).
+jharkhandWorks['suresh-kumar-baitha'] = [];
+// REJECT-LOG (suresh-kumar-baitha, Kanke):
+// 1. [The Statesman, 2026-07-01]: Financial Inclusion Saturation Campaign launched at Arsande Panchayat, Kanke block; MLA attended as chief guest. REJECT — sarkari abhiyan shubharambh, central scheme launch, no personal work. https://www.thestatesman.com/india/financial-inclusion-saturation-drive-launched-in-jharkhand-1503452235.html/amp
+// 2. [NDDB, 2025-06-06]: CM Hemant Soren laid foundation stone of 20 MTPD Medha Dairy milk powder plant, Hotwar, Ranchi; Baitha only 'graced the occasion'. REJECT — dusre neta ka karyakram, no personal role. https://www.nddb.coop/node/2453
+// 3. [newsdekho.co.in, 2026-02-16]: claimed Baitha did shilanyas of 6 schemes (deep boring + toilets in schools, Lapra/Mayapur panchayats, McCluskieganj, Khalari block). REJECT — chhota portal, not on whitelist; no whitelisted original found after targeted search. https://newsdekho.co.in/tag/%e0%a4%b6%e0%a4%bf%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b8/
+// 4. [dainikbharat24.com, Sep 2026]: MLA inspected dilapidated roads and waterlogging spots in Kanke villages, gave instructions to RCD engineers. REJECT — sirf nirikshan, non-whitelist portal. https://dainikbharat24.com/relief-from-waterlogging-and-dilapidated-roads-in-sight-mla-conducts-inspection/
+// 5. [Prabhat Khabar, 2025-02-27]: Baitha appointed two vidhayak pratinidhi (Bashir Ansari for labour/skill, Salamat Ansari for minority welfare, Khalari block). REJECT — administrative appointments, not development work. https://www.prabhatkhabar.com/state/jharkhand/ranchi/kanke-mla-suresh-kumar-baitha
+// 6. [Prabhat Khabar, Sep 2026]: MLA inaugurated Ganesh pandal at Block Chowk, Arsande. REJECT — religious event udghatan, not development work. https://www.prabhatkhabar.com/state/jharkhand/ranchi/ranchi-celebrates-ganesh-chaturthi-with-devotion-and-enthusiasm
+// 7. [indianmasterminds.com, Jul 2025]: tractor distribution event — Baitha only appreciated minister's revival of scheme; beneficiaries received tractors from dept. REJECT — sirf program me maujoodgi, no personal role. https://indianmasterminds.com/news/jharkhand-chief-minister-tractor-distribution-scheme-relaunched-after-two-years-all-details-inside-125437/
+// 8. [bolchaal.in / bharatkhabarr.com, Oct 2026]: 'MLA Suresh Kumar' did shilanyas of Rs 17.32 cr works at Bhoranj. REJECT — name-trap: Himachal Pradesh MLA (Bhoranj, Hamirpur), not Kanke. https://bolchaal.in/bhoranj-1732-crore-31-development-works-mla-suresh-kumar/
+// 9. [Amar Ujala, 2025-12-27]: 'MLA Suresh Kumar' inaugurated bank branch at Jahu. REJECT — name-trap: Hamirpur (HP) MLA, not Kanke. https://www.amarujala.com/video/himachal-pradesh/hamirpur-hp/video-hamirpur-mla-suresh-kumar-said-that-the-people-of-jahu-have-received-another-option-for-banking-services-2025-12-27
+// 10. [public.app, jharkhandnewsexpress]: multiple videos (VS question on Birsa Agriculture University recruitment, football tournament chief guest, budget session speech). REJECT — aggregator, not whitelist; speech/daura entries are not works.
+// 11. NEGATIVE-LEAD — [Devdiscourse (PTI-feed), 2025-08-27]: Nagri Bachao Sangharsh Samiti burnt effigies of Health Minister Irfan Ansari and Kanke MLA Suresh Baitha over FIR against 85 villagers resisting land acquisition for RIMS-2 project at Nagri. REJECT as negative — MLA khud aaropi nahi; FIR villagers ke khilaf thi; protest unke against tha, criminal accusation unpar nahi. https://www.devdiscourse.com/article/law-order/3605492-tribal-groups-ignite-protests-over-land-acquisition-in-ranchi?amp
+// 12. NEGATIVE-LEAD — myneta.info: halafnama me 1 pending criminal case (IPC 171C, 147, 148, 149, 341, 353, 188 — election-rioting type). REJECT as negative — pre-karyakaal halafnama record; karyakaal me koi nayi FIR/chargesheet/janch ya nyayik vikas nahi mili. Task rule: halafname ka 1 pending case akele negative nahi. https://www.myneta.info/jharkhand2014/candidate.php?candidate_id=623
+// 13. [hindusthansamachar.in, 2025-07-31]: MLA did griha pravesh in allotted vidhan sabha residence no. 51. REJECT — personal event, not work.
+// Note: Kanke me MLALAD itemized list ya GO-backed swikriti ki koi whitelisted coverage karyakaal Dec 2024+ me nahi mili. Profile honestly khali.
+
+
+// ---- Ranchi district batch (research date 2026-10-17) — worker shilpi-neha-tirkey ----
+// Jharkhand — Mandar (ST), Ranchi — MLA Shilpi Neha Tirkey (INC, 2024-2029; mantri — sirf seat-kaam).
+// FINDING: Khaali profile. Whitelisted outlet par karyakaal Dec 2024+ ka koi seat-specific
+// vyaktigat lokarpan/shilanyas ya GO-backed swikriti nahi mili. Saare leads ya to non-whitelist
+// outlets par the, ya mantri-pad ke vibhagiya kaam (krishi/pashupalan), ya seat ke bahar,
+// ya sirf nirikshan/maang ghoshna. Isliye works entries ZERO; negatives ZERO.
+jharkhandWorks['shilpi-neha-tirkey'] = [];
+// REJECT-LOG (shilpi-neha-tirkey, Mandar):
+// 1. [UNI/uniindia.com, 27 Jan 2026]: Chanho Sonchipi ST Residential School me 50-bed boys hostel +
+//    6 classrooms shilanyas; DMFT mad se KGBV me 10 classrooms ka lokarpan — REJECT (UNI/univarta whitelist me NAHI).
+//    https://uniindia.com/~/minister-shilpi-neha-tirkey-inaugurates-new-school-infrastructure-to-boost-education-in-chanho/States/news/3720414.html
+// 2. [hindusthansamachar.in, 27 Jan 2026]: wahi Chanho school event — REJECT (Hindusthan Samachar whitelist me NAHI).
+//    https://www.hindusthansamachar.in//Encyc/2026/1/27/JH-MINISTER-FOUNDATION-10-ADDITIONAL-CLASSROOMS-AT.php
+// 3. [jharkhandreporter.com, 27 Jan 2026]: wahi Chanho school event — REJECT (chhota portal, whitelist me NAHI).
+//    https://jharkhandreporter.com/shilpi-neha-tirkey-chanho-education-development-news/
+// 4. [univarta.com, 17 Dec 2025]: Mandar/Bero/Itki/Lapung blocks me CSR event (silai machine, tricycle vitaran)
+//    — REJECT (UNI/univarta whitelist me NAHI; waise bhi CSR vitaran mukhya-atithi = REJECT).
+//    https://www.univarta.com/हम-ज-त-और-धर-म-क-आध-र-पर-नह-जर-रतम-द-क-द-त-ह-य-जन-क-ल-भ-श-ल-प-न-ह-त-र-क/bihar-jharkhand/news/3676806.html
+// 5. [devdiscourse.com, 22 Feb 2025]: Ranchi me forest-produce processing centre ka lokarpan — REJECT
+//    (mantri-pad ka krishi-vibhagiya kaam, seat-kaam NAHI; outlet bhi non-whitelist).
+//    https://www.Devdiscourse.com/article/headlines/3274455-empowering-jharkhands-rural-economy-new-processing-centre-for-forest-produce-opens
+// 6. [thefollowup.in, 16 Jun 2025]: Chanho Tangar + Mandar Tangar Basli haat-bazaar shed nirman, lagbhag Rs 1.73cr,
+//    shilanyas — REJECT (non-whitelist outlet; Agriculture vibhag ki yojana = mantri karya).
+//    https://www.thefollowup.in/tags/Latest Jharkhand/98
+// 7. [dailypioneer.com, 17 Jun 2025]: wahi shed scheme (PNS) — REJECT (Pioneer task whitelist me NAHI; mantri karya).
+//    https://www.dailypioneer.com/2025/state-editions/agriculture-minister-lays-foundation-of-shed-construction-scheme.html
+// 8. [dainikbharat24.com, Mar 2024]: Karje (Mandar block) Sarna sthal gherabandi, MLALAD shilanyas — REJECT
+//    (Mar 2024 = karyakaal Dec 2024 se pehle; chhota portal bhi).
+//    https://dainikbharat24.com/2024/03/sarna-site-will-be-cordoned-off-mla-laid-foundation-stone-of-construction-work/
+// 9. [jharkhanddigital.com, 09 Oct 2026]: Itki Tilkasuti beeje-prasanskaran ikai bandh/jaanch (ministerial nirikshan,
+//    April 2025 me khud nirikshan kiya tha) — REJECT (sirf nirikshan/daura; non-whitelist outlet; koi FIR ya
+//    chargesheet MLA par NAHI isliye negative bhi NAHI).
+//    https://jharkhanddigital.com/agriculture-minister-shilpi-neha-tirkey-ji-instead-of-running-the-seed-processin/
+// 10. [livedainik.com, Nov 2025]: Lohardaga sthapana diwas, Rs 88.52cr ud ghatan — REJECT (seat ke bahar; mantri karyakram).
+//     https://livedainik.com/minister-shilpi-neha-tirkey-attended-the-state-foundation-day-celebrations-in-lohardaga-said-golden-jharkhand-has-to-be-made-a-developed-jharkhand/
+// 11. [panchayatobserver.com, date unverified]: Mandar vidhan sabha me lagbhag Rs 1.17cr ki yojana ka shilanyas — REJECT
+//     (non-whitelist outlet; detail kholkar verify nahi ho paya).
+//     https://www.panchayatobserver.com/CityDetails.aspx?ID=रांची
+// 12. [kisanindia.in, 2026]: Kanke bacon factory revival, NMRI roadmap — REJECT (mantri karya, Ranchi shahar seat ke bahar).
+//     https://www.kisanindia.in/animal-husbandry/jharkhand-shilpi-neha-tirkey-bacon-factory-revival-nmri-modernization-ranchi-158256.html
+// 13. [etvbharat.com, ~03 Oct 2026]: Paramveer Albert Ekka ke bete ko tractor ki chabi wapas — REJECT
+//     (ETV Bharat task whitelist me NAHI; vibhagiya ministerial action, daan/rahat jaisa; seat-kaam NAHI).
+//     https://www.etvbharat.com/amp/hi/state/minister-shilpi-neha-tirkey-handed-tractor-key-back-to-albert-ekka-son-in-ranchi-jhs26100306747
+// 14. [test.uniindia.com, 03 Nov 2025]: Chanho block office surprise inspection — REJECT (sirf nirikshan; non-whitelist).
+//     https://test.uniindia.com/jharkhand-minister-conducts-surprise-inspection-fumes-at-absentee-officers-show-cause-notices-issued/east/news/3631360.html
+// 15. [thebharatnow.in / univarta, 04 Dec 2025]: IHM Ranchi executive centre/hostel expansion shilanyas — REJECT
+//     (mantri karyakram, seat ke bahar Ranchi shahar; non-whitelist).
+//     https://thebharatnow.in/bihar/good-news-for-ihm-ranchi-students-facilities-will-be-significantly-expanded-learn-about-the-highlights-of-the-foundation-stone-laying-ceremony-and-future-plans/
+// 16. [TOI, 06 Mar 2025]: Jharkhand Millet Mission, Rs 15.63cr DBT 32,911 farmers ko — REJECT (rajya-stariya vibhagiya
+//     yojana = mantri karya, seat-kaam NAHI).
+//     https://timesofindia.indiatimes.com/city/ranchi/more-than-32000-farmers-get-rs15cr-for-millet-production/articleshow/125937324.cms
+// 17. [navbharattimes.indiatimes.com, Nov 2024]: chunav-purva seat analysis (cold storage etc. ka ullekh) — REJECT
+//     (pre-event karyakaal se pehle; koi verify hua karya NAHI).
+//     https://navbharattimes.indiatimes.com/state/jharkhand/ranchi/mandar-jharkhand-assembly-election-2024-voting-result-date-candidates-list-congress-bjp-chunav-schedule/articleshow/113508809.cms
+
+
+// ---- Ranchi district batch END (1 work, 0 negatives) ----
+
+
+// ---- Khunti district batch (researched 2026-10-17) — Batch 7 ----
+
+// ---- Khunti district batch (research date 2026-10-17) — worker sudeep-gudhiya ----
+// Jharkhand — Torpa (ST), Khunti — MLA Sudeep Gudhiya (JMM, 2024-2029).
+// Research note: whitelisted outlets (Hindu, Indian Express, HT, NDTV, India Today, TOI, The Telegraph,
+// Dainik Bhaskar, Dainik Jagran, Prabhat Khabar, PTI) me Dec 2024 ke baad is MLA ka koi lokarpan/shilanyas,
+// vidhayak-mad swikriti, ya assembly-me-maang-par-mantri-ashwasan ka report nahi mila. Profile empty rakha gaya hai.
+jharkhandWorks['sudeep-gudhiya'] = [];
+// REJECT-LOG (sudeep-gudhiya, Torpa):
+// 1. [Chamakta Aina epaper PDF, 'Aina-31-aug-26.pdf', 2026-08-31]: naam (Sudeep Gudhiya) ka zikr paani-sambandhi khabar me mila — REJECT (outlet whitelist par nahi; PDF ka Devanagari text mojibake, extract nahi hota, isliye tathya verify nahi ho saka). https://www.chamaktaaina.com/wp-content/uploads/2026/08/Aina-31-aug-26.pdf
+// 2. [bharathorizon.com, article crawl Mar-2026]: Torpa referral hospital me ultrasound machine aur anaesthetist ki kami — Torpa MLA 'Sudip Gudia' ne assembly me uthaya, Health Minister Irfan Ansari ne ultrasound machine jaldi operational karne ka ashwasan diya — REJECT (outlet whitelist par nahi; whitelisted outlet me is event ka version nahi mila). https://bharathorizon.com/politics/state-politics/land-corruption-advocates-act-in-jharkhand-assembly-debate.html
+// 3. [newsmantra.in / energetica-india.net, 2025-10-06]: Schneider Electric India Foundation ka Climate Smart Village inauguration, Kocha (Khunti) — Minister Dipika Pandey Singh ke netritva me; Sudeep Gudhiya (MLA, Torpa) upasthit the — REJECT (CSR initiative, mukhya-atithi ki bhoomika, kendriya pariyojna par vyaktigat bhoomika nahi; outlets whitelist par nahi). https://newsmantra.in/schneider-electric-inaugurates-3rd-climate-smart-village-in-jharkhand-to-boost-rural-livelihood/
+// 4. [The Telegraph, 2014-12-04]: Torpa seat ke Soya panchayat (Bano block) me Rs 2.5 crore ka 50-bed hospital — kabhi chala nahi — REJECT (pre-tenure, 2014; shilanyas tatkalin MLA Koche Munda (BJP) ne 2004 me kiya tha; dusre neta ka kaam). https://www.telegraphindia.com/india/after-poll-autopsy-of-failure-in-coma-after-birth-torpas-rs-2-5cr-hospital-defines-misgovernance/cid/284926
+// 5. [YouTube — 'Jagran Travel' channel, 2026-10]: 'Torpa ke logon ke liye khushkhabri' title wala video (karo river, dorma church, torpa college, kuda parish, mahugaon) — REJECT (YouTube/personal channel, whitelisted media nahi; MLA ka naam ya bhoomika video description me nahi). https://www.youtube.com/watch?v=ZZbgiXvumN0
+
+
+// ---- Khunti district batch (research date 2026-10-17) — worker ram-surya-munda ----
+// Jharkhand — Khunti (ST), Khunti — MLA Ram Surya Munda (JMM, 2024-2029).
+// Halafnama: 0 criminal cases (myneta.info/Jharkhand2024). Age 44, won 2024 with 91,721 votes vs Nilkanth Singh Munda (BJP) 49,668 — margin 42,053.
+jharkhandWorks['ram-surya-munda'] = [];
+
+// REJECT-LOG (ram-surya-munda, Khunti):
+// 1. [Pinewz, Dec 2025]: Khunti me mahila mahavidyalaya ke shilanyas ka graminon ne virodh kiya, MLA Ram Surya Munda aur MP pratinidhi bina shilanyas kiye wapas laute — REJECT (shilanyas hua hi nahi, koi works outcome nahi; pinewz whitelist me nahi). URL: https://pinewz.com/hindi/video/jharkhand/khunti-rural-opposition-forces-halt-groundbreaking-of-women’s-college-in-khunti-mla-and-mp’s-representative-return-wastefully-1765854273727
+// 2. [Prabhat Khabar, ~Sep 2026]: jila sthapana diwas par Rs 1.39 crore indoor badminton stadium ka udghatan MP Kali Charan Munda aur MLA Ram Surya Munda karenge (2 synthetic court, toilets) — REJECT (pre-event ghoshna: article event se pehle chhapa, 'khulega'/'karenge' future tense; MP ke saath joint, MLA ki vyaktigat bhoomika aur fund source dono undisclosed; post-event verification nahi mili). URL: https://www.prabhatkhabar.com/state/jharkhand/khunti/khunti-district-foundation-day-celebration
+// 3. [Prabhat Khabar, ~Sep 2026]: MLA ne Karra block me sadak nirmaan ka nirikshan kiya (Karra Mission Chowk-FCI godown-Madugama, Karra-Birda road) — REJECT (sirf nirikshan/daura, koi shilanyas/lokarpan nahi). URL: https://www.prabhatkhabar.com/state/jharkhand/khunti/mla-inspects-road-construction-work
+// 4. [Prabhat Khabar, ~Sep 2026]: Karam festival me MLA ne karam akhada banwane ka ashwasan diya; kalyan mantri Chamra Linda ne 10 crore ke dhol-nagade yojna ki ghoshna ki — REJECT (sirf ashwasan/ghoshna; mantri ki yojna MLA ka kaam nahi). URL: https://www.prabhatkhabar.com/state/jharkhand/khunti/khunti-drenched-in-karam-festival-celebrations
+// 5. [Prabhat Khabar, 2025]: Eklavya Vidyalaya (Rewa) shaikshanik satra shubharambh, MLA ne deep prajwalit kar udghatan kiya — REJECT (maujooda school ke session start ka ceremonial event, MLA ki nirdharit nidh/sansrachana nahi). URL: https://www.prabhatkhabar.com/state/jharkhand/khunti/academic-session-begins-in-eklavya-vidyalaya
+// 6. [Prabhat Khabar, Nov 2025]: jila karate championship (7-8 Nov, Nagar Bhawan) me MLA mukhya atithi — REJECT (dusre ka karyakram, chief-guest role). URL: https://www.prabhatkhabar.com/state/jharkhand/khunti/district-karate-championship-on-7th-and-8th
+// 7. [Azad Sipahi, Jan 2025]: Tusu mela football pratiyogita me chief guest, bypass sadak muaavza maang — REJECT (dusre ka karyakram; sirf maang, koi nateeja nahi; non-whitelist portal). URL: https://azadsipahi.in/?p=244170
+// 8. [newzfatafat (Hindusthan Samachar copy), Jan 2025]: Gutjora school me shauchalay banwane ka MLA ashwasan — REJECT (sirf ashwasan; non-whitelist portal). URL: https://newzfatafat.com/rajya/mla-ssured-to-constructphp/cid16117035.htm
+// 9. [Hindusthan Samachar, Jan 2026]: MLA ne CM Hemant Soren se shishtachar mulakat, Khunti jile ki samasyao ki maang — REJECT (sirf meeting/maang, koi dastaveji nateeja nahi; non-whitelist). URL: https://www.hindusthansamachar.in//Encyc/2026/1/4/Mla-ram-surya-munda-meets.php
+// 10. [Hindusthan Samachar, Mar 2026]: VS budget satra me Khunti ki jarjar sadakon ka mudda uthaya — REJECT (sirf maang, koi nateeja nahi; non-whitelist). URL: https://www.hindusthansamachar.in/Encyc/2026/3/9/JH-MLA-RAMSURYA-RAISED-DILAPIDATED-ROADS-KHUNTI.php
+// 11. [Dainik Bhaskar, Mar 2026]: paryatan karmiyon ne VS me mudda uthane par MLA ka aabhar jataaya — REJECT (sirf maang, koi dastaveji nateeja nahi). URL: https://www.bhaskar.com/local/jharkhand/chaibasa/bandgaon/news/mla-expressed-gratitude-for-raising-the-issues-in-the-house-dbp-137438989.html
+// 12. [public.app, Sep 2026]: Balanga Baredih gaon me pehli baar bijli, MLA ne udghatan kiya — REJECT (public.app whitelist-bahar aggregator/video app). URL: https://public.app/video/sp_8ij01vfkes0n8
+// 13. [UNI/univarta + Punjab Kesari, Sep 2025]: MLA Ram Surya Munda RIMS me bharti, hernia operation ki salah — REJECT (personal health news, works/negative se sambandhit nahi; UNI bhi whitelist me nahi). URL: https://www.univarta.com/story/States/news/3573026.html
+// 14. [looknewsindia, Mar 2024]: 8 sadakon (Rs 11 crore) ka shilanyas — REJECT (dusra neta: tatkalin BJP MLA Nilkanth Singh Munda; aur karyakaal Dec 2024 se pehle). URL: https://looknewsindia.com/mla-laid-the-foundation-stone-of-eight-roads-to-be-built-at-a-cost-of-rs-11-crore/
+
+
+// ---- Khunti district batch END (0 works, 0 negatives) ----
+
