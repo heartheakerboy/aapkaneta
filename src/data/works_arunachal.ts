@@ -1000,3 +1000,109 @@ arunachalWorks['likha-soni'] = [
 // 7. LatestLY (PTI, ~Jun 2025): 'Arunachal Guv Visits Namsai, Reviews Progress of Govt Schemes' — Governor ke visit me Soni ne briefing di; koi vyaktigat kaam nahi. REJECT: sarkari daure me maujoodgi.
 // 8. Negative check: halafname ke 4 cases (IPC 420, 409, 468, 406, 467, 477A, 120B, 471; FIR 255/2019, 02/2019, RCBSK2007E0003, 04/2007) election-affidavit me declared hain; Jun 2024 ke baad unme koi nayi FIR/giraftari/chargesheet/dosh-siddhi/adhikari-pusht janch whitelisted media me report nahi hui. REJECT: pre-term mamle me current legal development nahi, isliye negative entry nahi.
 // ---- Namsai district batch END (4 entries, negatives 0) ----
+// ---- Changlang district batch (researched 2026-10-17) ----
+// COORDINATOR NOTE: 5 workers se reports; kull 8 entries, negatives 0. Mantri-sthiti verify ho gayi — Kamlung Mosang 13 Jun 2024 ke baad ki sarkar me mantri NAHI (poorv mantri, ab CM ke Advisor — PTI/TOI verified); foundation record (post: MLA) sahi hai, koi edit zaroori nahi. Mosang ki entry #1 ka badge `dawa` rakha gaya hai kyonki MLA ki vyaktigat bhoomika ghoshna/samarthan tak seemit hai (title me wahi framing). Pongte par speaker-niyam lagu (sansthaagat kaam sab reject).
+arunachalWorks['nikh-kamin'] = [
+];
+// REJECT-LOG (nikh-kamin, Bordumsa-Diyun): 1. Arunachal Times (29 Aug) 'MLA inaugurates new school facilities' — Pasighat East MLA Tapi Darang ka kaam, galat vyakti. 2. Arunachal Times (19 Jul 2024) 2nd Assembly session me schools ki jarjar halat ki maang — sirf maang/prastav, koi nateeja nahi. 3. India Today NE (26 Sep 2025) Chakma-Hajong referendum — samudaayik karyakram, upasthiti matra. 4. Eastern Sentinel — Innao JJM udghatan Somlung Mossang kaal ka — pre-term. 5. Zee/PTI (Apr 2016) Noa Dihing baadh raahat — pre-term + vyaktigat daan. 6. Arunachal Times (27 Aug 2018) Bordumsa shmashan boundary wall — pre-term, MLA khud aaropi nahi. 7. India Today NE (11 Dec 2025) BJP rally Diyun-Diyun-Innao sadak aalochana — raajnaitik bayan. 8. EastMojo (24 Jun 2026) Khamlang Bailey bridge — DCM Chowna Mein ne udghatit kiya, dusre neta ka kaam. 9. India Today NE (28 Oct 2025) Yatdam school udghatan — Speaker Tesam Pongte ka kaam, dusre kshetra. 10. Arunachal Times (11 Jun 2025) NCP foundation day — party event. 11. TOI privilege-committee story — SE N L Kamin (namesake adhikari) ke khilaf, MLA nahi. 12. YouTube (15 Aug 2026 bhashan) — whitelist-bahar, retry-lead. Negatives: koi nahi — 3 halafname cases pre-term; organiser.org whitelist me nahi; NNMR memorandum sirf maang (FIR/jaanch nahi).
+arunachalWorks['kamlung-mosang'] = [
+  {
+    title: 'Kamlung Mosang ne ghoshna ki ki Vijoynagar circle me Sirit Micro Hydro Scheme chalu hone ke saath seemant kshetra ko grid connectivity mili hai — karyanvayan vibhagon ka, MLA ka shrey ghoshna tak seemit.',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/story/remote-arunachal-frontier-gets-power-vijoynagar-electrified-through-rs-14-crore-micro-hydro-project-1426102-2026-07-17',
+    date: '2026-07-17',
+    note: 'MLA ka dawa — Vijoynagar circle (Miao seat ka hissa) me 2x250 kW Sirit Micro Hydro Scheme chalu hone par 8 gaonon ke 1500 se adhik logon ko bijli mili; fund Rs 14 crore se adhik (Hydro Power Development Department + Power Department ka kaam). MLA ne social media par khud is uplabdhi ki ghoshna ki aur CM/DyCM ko dhanyavaad diya. Karyanvayan vibhagon ka hai — MLA ki vyaktigat bhoomika ghoshna/samarthan tak seemit, note me disclosed.',
+    period: '2024-2029',
+    stage: 'poora',
+  },
+  {
+    title: 'Miao me Rs 5 crore ki lagat se prefabricated Youth Activity and Development Centre ka nirmaan tezi se chal raha hai — samudaay ne MLA Kamlung Mosang ko fund swikrit karne ka shrey diya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2024/09/11/construction-of-prefabricated-youth-activity-centre-underway-in-miao/',
+    date: '2024-09-11',
+    note: 'Arunachal Times ke anusaar gallery, stage, badminton court sahit 1000+ logon ki kshamata wala pehla pre-fabricated public asset; nirmaan agency UD&H department ka Jairampur division; lakshya March 2025. Miao Singpho Ramma Hpung ke adhyaksh ne sarvajanik roop se MLA ko fund swikrit karne ka shrey diya — credit capped. Fund-srot article me darj nahi (MLALAD ya vibhagiya budget spasht nahi); article ke neta-ke-dawe (Rs 85 crore) aur project cost (Rs 5 crore) me visangati jaise chhapa hai waise darj.',
+    period: '2024-2029',
+    stage: 'kaam-shuru',
+  },
+  {
+    title: 'Noa Dehing nadi par Pisi gaon ko Miao township se jodne wale motorable bridge ke nirmaan ko rajya cabinet ne Cabinet Aapke Dwar baithak me manzoori di.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/10/09/cabinet-approves-construction-of-motorable-bridge-over-noa-dehing/',
+    date: '2025-10-08',
+    note: 'Nirnay rajya cabinet ka hai jo Miao me aayojit Cabinet Aapke Dwar sitting me liya gaya; daaen kinare ke Pisi gaon ko Miao township se jodega, N’khumsang kshetra ki lambe samay se chali aa rahi maang. Miao subdivision aur Singpho samudaay ne CM, DyCM, MLA Kamlung Mosang aur cabinet members ko manzoori ke liye sarvajanik dhanyavaad diya — MLA ka shrey samudaay ke dhanyavaad tak capped, nirnay cabinet ka hai.',
+    period: '2024-2029',
+    stage: 'swikriti',
+  },
+  {
+    title: 'Miao ke Orchid Triangle Park me 5 feet unchi sangmarmar ki Mahatma Gandhi murti aur 30x20 feet ke tirange ka MLA Kamlung Mosang ne lokarpan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/08/15/army-organises-march-with-100-metre-long-flag-in-tawang/',
+    date: '2025-08-14',
+    note: 'Murti Rajasthan se sthaniya prashasan ne mangwai aur park me sthapit ki thi; Swatantrata Diwas ki poorv sandhya par 300 metre lambe tiranga march (jisme MLA ne netritva kiya) ke dauran lokarpan hua. Fund ki rashi article me darj nahi; sanrachna sthaniya prashasan ne uplabdh karayi — udghatan-matra, note me disclosed.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (kamlung-mosang, Miao): 1. arunachal24 (~Jun 2023) VET Rural Haat — pre-term. 2. Arunachal Times (6 Mar 2024) Khachang/Kharsang community halls — pre-term. 3. Arunachal Times (22 Jun 2023) rural haat — pre-term. 4. arunachal24 (~2021) GHSS Kharsang lab/auditorium — pre-term. 5. arunachal24 (~2023) DyCM ke Miao projects — dusre neta ka kaam + pre-term. 6. Telegraph (2020) Miao-Vijaynagar road review — pre-term. 7. Northeast Now (15 Aug 2018) OIL foot bridge Rs 2.25cr — pre-term. 8. Arunachal Times (21 Jul 2025) Shapawng Yawng Manau Poi — sirf ashwasan. 9. Arunachal Times (18 Aug 2024) Gunners FC tournament — sponsorship/ashwasan. 10. India Today NE (8 Oct 2025) cabinet ne special-needs school manzoori — cabinet nirnay, MLA bhoomika nahi. 11. PTI (26 Aug 2026) 132/33 kV Miao substation — DyCM announcement, vibhag ka kaam. 12. Eastern Sentinel (~Mar 2025) Innao JJM — galat vyakti (Somlung/Samlung Mossang, purv MLA). 13. India Today NE (28 Oct 2025) Yatdam school udghatan — Speaker Pongte ka kaam, dusre kshetra. 14. arunachal24 (~2023) Governor meetings Vijoynagar/Gandhigram/Miao — pre-term + maujoodgi. 15. Northeast Now (~Sep 2025) Cathrine Mossang badhai — social media post matra. 16. arunachal24 (20 Jan 2026) PM-NAPS workshop — ZPM ki bhoomika, MLA nahi. 17. Borok Times (~2023) Assam Rifles eye camp — pre-term + dusri agency. Negatives: koi nahi — affidavit me 0 cases; Changlang murder-protest me naam ghalat joda gaya tha, sangathan ne khed jataya, MLA ka koi sambandh nahi (Northeast Now, Mar 2026) — isliye negative NAHI.
+arunachalWorks['laisam-simai'] = [
+  {
+    title: 'Nampong MLA Laisam Simai ke taarakit prashn par CM ne Changlang jile ko Assam ke saath seema samjhaute me shamil karne ke liye Assam ke CM se alag baat karne ka ashwasan diya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/03/13/changlang-da-missed-the-namsai-declaration-deadline/',
+    date: '2025-03-12',
+    note: '12 Mar 2025 ko Vidhansabha me Nampong MLA Laisam Simai ne taarakit prashn puchha ki Changlang jila Namsai Declaration 2022 ki Resolution Committee se kyon baahar raha. CM Pema Khandu ne bataya ki jila prashasan ne report samay par nahi bheji thi aur ashwasan diya ki ve Assam ke CM ke saath alag baithak me Changlang sahit baaki jilon ka mudda uthayenge. MLA ki bhoomika prashn uthane tak; nateeja/ashwasan sarkar ka — credit capped.',
+    period: '2024-2029',
+    stage: 'ashwasan',
+  },
+  {
+    title: 'Nampong MLA Laisam Simai ke sawal par CM ne Changlang seema kshetra me Assam ke adhikariyon ke kathit atikraman aur status quo ullanghan ka mudda Assam chunav ke baad Assam sarkar se uthane ka ashwasan diya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Arunachal24',
+    sourceUrl: 'https://arunachal24.in/changlang-border-issue-raised-in-arunachal-assembly/',
+    date: '2026-03-11',
+    note: 'Vidhansabha me Prashn Kaal me MLA Laisam Simai ne aarop lagaya ki vivadit kshetra me status quo ullanghan hua. CM Pema Khandu ne ashwasan diya ki sarkar Assam chunav ke baad Assam sarkar se mudda uthayegi aur Changlang ke DC/SP ko Dibrugarh ke samkaksh adhikariyon se samanvay ka nirdesh diya jayega. Seema prabhaari mantri Mama Natung ne bataya ki mamla sub judice hai. MLA ki bhoomika prashn tak; ashwasan sarkar ka — credit capped. Note: article me MLA ko galti se BJP MLA likha gaya hai; ve Jun 2024 se Nirdaliya hain — pehchan seat 51-Nampong se pakki.',
+    period: '2024-2029',
+    stage: 'ashwasan',
+  },
+];
+// REJECT-LOG (laisam-simai, Nampong): 1. nenow (24 Jun 2026) Rima nadi Bailey bridge Khamlang — DyCM ne lokarpan kiya, maujoodgi matra. 2. EastMojo (21 Jul 2026) Pangsau Pass Border Haat reopening — kendriya aadesh, MLA ki Facebook post/upasthiti matra. 3. TOI (Jul 2026) border haat 'set to resume' — pre-event. 4. arunachal24 (Oct 2026) State Archery Championship Tawang — chief guest samaroh, kshetra se baahar. 5. Arunachal Times (23 Dec 2025) supercar rally meeting — baithak/charcha. 6. Eastern Sentinel (12 Jun 2025) WW-II Memorial Museum meeting — baithak matra. 7. arunachal24 (Jul 2026) Border Haat — mantri Nyato Dukam ne lokarpan kiya. 8. nenow (Jan 2025) PPIF Singpho vivad — samaroh aayojan. 9. PTI (20 Jan 2025) PPIF me CM ke Nampong ke liye 4 shilanyas + 5 lokarpan + Rs 43cr — dusre neta ka kaam, Rs 43cr keval ghoshna. 10. northeasttoday (~Aug 2026) water crisis meeting — non-whitelist + baithak. 11. hubnetwork (Oct 2025) Namchik-Namphuk coal block — non-whitelist + kendriya mantri ne shilanyas kiya. 12. hornbillnews (Apr 2026) Pongtu Kuh festival — non-whitelist + samaroh. 13. uniindia (Jan 2026) PPIF 2026 — mantri Kento Jini ne udghatan kiya. 14. Sab pre-Jun-2024 (hostel/futsal Apr 2022, park/court May 2022, PMGSY Feb 2022, VKV auditorium Jan 2022, library Nov 2021, sanitizer May 2020, model village Aug 2019, PDS godowns Dec 2019, Namchik bridge Jan 2019, Renuk circle office Dec 2018, power house Sep 2017) — tenure se baahar. 15. Arunachal Times (Feb 2020) border trade demand — sirf maang, pre-term. Negatives: koi nahi — affidavit me 0 cases; established media me Jun 2024 ke baad FIR/jaanch nahi.
+arunachalWorks['hamjong-tangha'] = [
+];
+// REJECT-LOG (hamjong-tangha, Changlang South): 1. vkvapt.org (21 Jan 2025) VKV Changlang Jayanti — chief guest maujoodgi. 2. arunachalobserver (30 Sep 2024) ABVP training — chief guest. 3. Arunachal Times (3 Mar 2026) dist-level VBYP — jury member, maujoodgi matra. 4. arunkhabar (10 Apr 2025) district library — Dy Speaker Kardo Nyigyor ne lokarpan kiya, dusre neta ka kaam. 5. arunachalobserver (11 Apr 2025) Pongtu Kuh festival — mantri Mama Natung ka police station udghatan, maujoodgi matra. 6. Eastern Sentinel (Sep 2025) Mega Ronghuan festival — mantri ke karyakram me upasthiti. 7. Eastern Sentinel (Oct 2025) Hangpan Dada — Guest of Honour. 8. Eastern Sentinel — 50th Central Oriah — special guest. 9. nenow (Feb 2024) Tangha Tang Welfare endorsement — pre-term, election. 10. PTI (2 Jun 2024) election result — khabar kaam nahi. 11. Arunachal Times (29 Aug) 'MLA inaugurates new school facilities' — galat vyakti (Tapi Darang, Pasighat East). 12. Northeast Today (Aug 2025) Eastern Zone Orientation — mantri ka karyakram. 13. indiatodayne (28 Oct 2025) Yatdam education infra — Speaker Pongte ka kaam (Changlang North). Negatives: koi nahi — affidavit me 0 cases; NSCN operative Noksom Tangha / UDC Likkem Tangha alag vyakti (namesakes).
+arunachalWorks['tesam-pongte'] = [
+  {
+    title: 'Speaker Tesam Pongte ne Yatdam Circle me Government Upper Primary School Watlom ki G+1 eight-room RCC building aur four-room teachers quarters, Government Primary School Kangkho ki five-room school building aur two-unit teachers bachelor barrack, aur Kangla gaon ke community hall ka lokarpan kiya.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/arunachal-pradesh/story/arunachal-pushes-educational-growth-with-new-infrastructure-in-changlang-1296146-2025-10-28',
+    date: '2025-10-28',
+    note: 'India Today NE ki post-event report ke mutabiq Pongte ne 28 Oct 2025 ko vyaktigat roop se in bhautik sanrachnaon ka lokarpan kiya. Report me fund srot ya kharcha nahi bataya gaya — MLA ki bhoomika vyaktigat lokarpan tak seemit, note me disclosed. Yatdam Circle Changlang North me hai.',
+    period: '2024-2029',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Namtok police station check gate se Longpha aur Kuthung gaonon ko jodne wali nayi cement-concrete road janata ke liye khul gayi — Changlang North ke samudaay ne apne MLA Speaker Tesam Pongte ka sarvajanik aabhar jataya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Arunachal Times',
+    sourceUrl: 'https://archive.arunachaltimes.in/index.php/2025/11/18/new-cc-road-opens-transforming-connectivity-in-namtok-circle/',
+    date: '2025-11-18',
+    note: 'Arunachal Times ki report (Namtok, 17 Nov) ke mutabiq sadak janata ke liye khul gayi; Changlang North ke sthaniya netaon aur samuday ne sarvajanik roop se apne MLA Speaker Tesam Pongte ka aabhar jataya — samudaay ka shrey hi ekmatra aadhaar, credit capped. Report me Pongte dwara vyaktigat udghatan ka zikr nahi aur fund srot bhi nahi bataya gaya — note me disclosed.',
+    period: '2024-2029',
+    stage: 'poora',
+  },
+];
+// REJECT-LOG (tesam-pongte, Changlang North): 1. indiatodayne (16 Nov 2025) Changlang road links villages — wahi Namtok CC road, lekin Pongte ka zikr nahi — sirf whitelisted Arunachal Times version valid. 2. Eastern Sentinel (~Sep 2025) Yatdam education meeting — baithak + ashwasan. 3. ThePrint/PTI (15 Jun 2024) Speaker election — sansthaagat pad. 4. northeasttoday (15 Oct 2026) Budget Committee — sansthaagat. 5. northeasttoday (Sep 2026) BAC sitting — sansthaagat. 6. indiatodayne (15 Sep 2026) CPC South Africa delegation — sansthaagat. 7. indiatodayne (18 Apr 2026) Census appeal — abhiyan. 8. northeasttoday (3 Aug 2026) Eastern Zone Orientation — dusre neta ka karyakram. 9. Arunachal Times (13 Feb 2024) C'lang projects — pre-term. 10. Arunachal Times (28 Nov 2022) Relangkan hall/WTPs — pre-term. 11. Arunachal Times (22 Apr 2018) Namtok facilities — pre-term. 12. Arunachal Times (20 Feb 2019) community halls/road — pre-term. 13. Eastern Sentinel (4 Mar 2021) Longran hall — pre-term. 14. Eastern Sentinel (~2019) Changlang infra — pre-term. 15. Arunachal Times (9 Jun 2021) power tillers — pre-term + vitaran. 16. arunachal24 (~2022) DCM ke Yatdam 11 infra — dusre neta ka kaam, pre-term. 17. Oct 2025 report me Watlom-Thamiyang road nirikshan — sirf inspection. 18. Usi report me solar lanterns/sports equipment vitaran — daan. 19. Nov 2025 reports me Birsa Munda statue/Foosball tournament — Pongte attribution nahi / samaroh. 20. theassamrising — Yatdam story duplicate, whitelist-bahar. 21. indiatodayne (16 Oct 2026) heroin seizure — Pongte se sambandh nahi. 22. ThePrint/PTI (15 Jun 2024) Speaker election coverage — sansthaagat.
+// ---- Changlang district batch END (8 entries, negatives 0) ----
