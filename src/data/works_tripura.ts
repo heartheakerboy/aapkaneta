@@ -26,73 +26,6 @@ tripuraWorks['abhishek-debroy'] = [
 // NEGATIVES: 0. Halafname (2023) me 0 criminal cases; vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch nahi mili.
 // WORKS_COUNT=0 NEGATIVES=0 REJECTS=5
 
-// ===== tripura_w_asoke-chandra-mitra.ts =====
-// ---- Asoke Chandra Mitra (Hrishyamukh GEN, South Tripura; CPI(M)) works batch (researched 2026-10-17) ----
-// FOUNDATION padha: slug 'asoke-chandra-mitra', Hrishyamukh (GEN), South Tripura, CPI(M);
-// 2023 me 19,986 votes se jeete, margin 1,418 (runner-up Dipayan Choudhury, BJP).
-// Halafnama (2023): 0 criminal cases.
-// Karyakaal: Mar 2023–2028. Vipaksh ke vidhayak.
-// KHOJ KA NISHAKARSH: Coverage assembly-bahas + CM ke karyakramo me upasthiti tak
-// seemit hai. Kisi lokarpan/shilanyas ki whitelisted coverage NAHI mili.
-// Profile khaali chhodi gayi hai.
-tripuraWorks['asoke-chandra-mitra'] = [
-];
-// REJECT-LOG (asoke-chandra-mitra) — sabhi rejected, wajah ke saath:
-// 1. CM ke South district karyakram (Belonia indoor cricket practice shed udghatan + Vidyasagar fish & vegetable market shilanyas, Feb 2026; ANI-syndicated) —
-//    CM ne kiya; Mitra upasthit — dusre neta ka karyakram, reject.
-// 2. Kanchenjunga Express Belonia/Jolaibari stoppage (northeasttoday.in, 14 Aug 2025) — mantri ke appeal par railway faisla; Mitra upasthit — na kaam, reject.
-// 3. Assembly me bills par charcha (tripurastarnews.com, 31 Aug 2026) — vidhayi bahas, kaam nahi, reject.
-// 4. Naluaya school/hospital daure par badmasho ka hamla (northeastherald.in, ~May 2023) — MLA SHIKAR the, aaropi nahi; Jitendra Chaudhury ne giraftari ki
-//    maang ki — victimhood, negative NAHI; koi kaam bhi nahi, reject.
-// NEGATIVES: 0. Halafname (2023) me 0 criminal cases; vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch
-// nahi mili. (Note: May 2023 me unpar hua hamla unke viruddh koi aarop nahi hai — ve peedit the.)
-// WORKS_COUNT=0 NEGATIVES=0 REJECTS=4
-
-// ===== tripura_w_dipankar-sen.ts =====
-// ---- Dipankar Sen (Belonia GEN, South Tripura; CPI(M)) works batch (researched 2026-10-17) ----
-// FOUNDATION padha: slug 'dipankar-sen', Belonia (GEN), South Tripura, CPI(M);
-// 2023 me 20,016 votes se jeete, margin 403 (runner-up Goutam Sarkar, BJP) — sabse kam margin wali seats me se ek.
-// Karyakaal: Mar 2023–2028. Vipaksh ke vidhayak.
-// KHOJ KA NISHAKARSH: Coverage assembly-bahas + CM ke Belonia karyakramo me upasthiti tak
-// seemit hai. Kisi lokarpan/shilanyas ki whitelisted coverage NAHI mili (vipaksh hone
-// ke kaaran sarkari kaamo ka shrey-srot seemit). Profile khaali chhodi gayi hai.
-tripuraWorks['dipankar-sen'] = [
-];
-// REJECT-LOG (dipankar-sen) — sabhi rejected, wajah ke saath:
-// 1. CM ke Belonia karyakram (indoor cricket practice shed udghatan + Vidyasagar fish & vegetable market shilanyas, Feb 2026; multiple ANI-syndicated) — CM ne
-//    kiya; Sen upasthit — dusre neta ka karyakram, reject.
-// 2. Kanchenjunga Express Belonia/Jolaibari stoppage (northeasttoday.in, 14 Aug 2025) — mantri ke appeal par railway faisla; Sen upasthit — na kaam, reject.
-// 3. Sukanta Bhattacharya birth-centenary samaroh, Belonia Public Library (tripurachronicle.in, 21 Mar 2026) — saahityik samaroh me atithi — samaroh, reject.
-// 4. Assembly me tourism par bahas (boroktimes.com, ~Sep 2025) — vidhayi bahas/bayan, kaam nahi, reject.
-// 5. Girl ko pacemaker ke liye fund maang (northeasttoday.in, 16 May 2023) — sahayata ki maang (maang/vitaran), lokarpan/shilanyas nahi, reject.
-// 6. Express train service Sabroom tak extension ki maang (indiatodayne, 11 Sep 2023) — maang, reject.
-// NEGATIVES: 0. Vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch nahi mili.
-// WORKS_COUNT=0 NEGATIVES=0 REJECTS=6
-
-// ===== tripura_w_jitendra-chaudhury.ts =====
-// ---- Jitendra Chaudhury (Sabroom GEN, South Tripura; CPI(M)) works batch (researched 2026-10-17) ----
-// FOUNDATION padha: slug 'jitendra-chaudhury', Sabroom (GEN), South Tripura, CPI(M);
-// 2023 me 21,801 votes se jeete, margin 396 (runner-up Sankar Roy, BJP).
-// Leader of Opposition (Mar 2024 se); CPI(M) Politburo sadasya.
-// Halafnama (2023): 3 criminal cases (self-declared).
-// Karyakaal: Mar 2023–2028. Vipaksh ke neta.
-// KHOJ KA NISHAKARSH: Coverage poori tarah raajnaitik hai — LoP ke bayan, aarop, patra/maang.
-// Kisi lokarpan/shilanyas ki whitelisted coverage NAHI mili (LoP/vipaksh hone ke kaaran
-// sarkari kaamo ka shrey-srot seemit). Profile khaali chhodi gayi hai.
-tripuraWorks['jitendra-chaudhury'] = [
-];
-// REJECT-LOG (jitendra-chaudhury) — sabhi rejected, wajah ke saath:
-// 1. Maitri Setu (Rs 133 cr, Mar 2021 me udghatit) ke operationalisation par PTI bayan (newsdrum.in/taxtmi/epaper.assamtribune, 21-22 May 2025) — bayan/aarop,
-//    koi kaam nahi, reject.
-// 2. Sabroom me swasthya infra vistar ki 7-sutriya maang — CM ko patra (tripuraindia.in) — sirf maang/patra, reject.
-// 3. VC chunav me BJP/TMP par dhamki ke aarop (indiatodayne/dejavu, 10 Sep 2026) — raajnaitik aarop, reject.
-// 4. Assembly foundation day par sansadiya aacharan par bhashan (northeasttoday.in, 23 Jul 2025) — bhashan, reject.
-// 5. Ashok Mitra par hamle ki ninda + giraftari ki maang (northeastherald.in, May 2023) — bayan, reject.
-// 6. Tripureswari temple / Manu nadi pul aadi — CM/PM ke karyakram; inki koi bhoomika nahi, reject.
-// NEGATIVES: 0. Halafname (2023) me 3 self-declared criminal cases hain, lekin vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya
-// naam-daar adhikari-pusht janch ki khabar nahi mili — affidavit data ko negative nahi maana gaya.
-// WORKS_COUNT=0 NEGATIVES=0 REJECTS=6
-
 // ===== tripura_w_jitendra-majumder.ts =====
 // ---- Jitendra Majumder (Kakraban-Salgarh SC, Gomati; BJP) works batch (researched 2026-10-17) ----
 // FOUNDATION padha: slug 'jitendra-majumder', Kakraban-Salgarh (SC), Gomati, BJP;
@@ -117,51 +50,6 @@ tripuraWorks['jitendra-majumder'] = [
 // NEGATIVES: 0. Halafname (2023) me 1 self-declared criminal case hai, lekin vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya
 // naam-daar adhikari-pusht janch ki khabar nahi mili — affidavit data ko negative nahi maana gaya.
 // WORKS_COUNT=0 NEGATIVES=0 REJECTS=5
-
-// ===== tripura_w_mailafru-mog.ts =====
-// ---- Mailafru Mog (Manu ST, South Tripura; BJP) works batch (researched 2026-10-17) ----
-// FOUNDATION padha: slug 'mailafru-mog', Manu (ST), South Tripura, BJP;
-// 2023 me 15,469 votes se jeete, margin 547 (runner-up Pravat Chowdhury, CPI(M)).
-// Halafnama (2023): 1 criminal case (self-declared: IPC 506/148/149/341/427).
-// Karyakaal: Mar 2023–2028.
-// KHOJ KA NISHAKARSH: In-term me koi vyaktigat lokarpan/shilanyas nahi mila.
-// Coverage: krishi-yantra vitaran (daan-star) + CM ke karyakramo me upasthiti.
-// Profile khaali chhodi gayi hai.
-tripuraWorks['mailafru-mog'] = [
-];
-// REJECT-LOG (mailafru-mog) — sabhi rejected, wajah ke saath:
-// 1. Rupaichari RD Block ke kisanon ko 21 mini tractor + 42 spray machine ka vitaran, Belonia (tripuratimes.com, 29 Apr 2025) — yantra vitaran; daan/vitaran,
-//    bhautik sanrachna ka lokarpan/shilanyas NAHI, reject.
-// 2. Manu nadi pul (Saidarpara–Sardapalli) ka shilanyas (boroktimes.com, ~Feb 2026) — CM Manik Saha ne shilanyas kiya — dusre neta ka karyakram, reject.
-// 3. CM ke South district karyakram (Feb 2026; Belonia cricket shed + Vidyasagar market) — CM ne kiya; Mog upasthit — dusre neta ka karyakram, reject.
-// 4. 2014 Manu upchunav coverage (economictimes/ummid/business-standard) — pre-term chunav khabar, reject.
-// NEGATIVES: 0. Halafname (2023) me 1 self-declared criminal case (IPC 506, 148, 149, 341, 427) hai, lekin vartaman karyakaal me whitelisted media me inke
-// khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch ki khabar nahi mili — affidavit data ko negative nahi maana gaya.
-// WORKS_COUNT=0 NEGATIVES=0 REJECTS=4
-
-// ===== tripura_w_pramod-reang.ts =====
-// ---- Pramod Reang (Santirbazar ST, South Tripura; BJP) works batch (researched 2026-10-17) ----
-// FOUNDATION padha: slug 'pramod-reang', Santirbazar (ST), South Tripura, BJP;
-// 2023 me 18,709 votes se jeete, margin 4,094 (runner-up Harendra Reang, TMP).
-// Halafnama (2023): 0 criminal cases.
-// Karyakaal: Mar 2023–2028.
-// KHOJ KA NISHAKARSH: In-term me koi vyaktigat lokarpan/shilanyas nahi mila.
-// Santirbazar ki ekmatra sadak-lokarpan khabar pre-term (Jan 2023) hai; baaki
-// coverage nirikshan/daure/shikayat tak seemit hai. Profile khaali chhodi gayi hai.
-tripuraWorks['pramod-reang'] = [
-];
-// REJECT-LOG (pramod-reang) — sabhi rejected, wajah ke saath:
-// 1. Padma Mohan Para (Kalachara Bazar) 3 km paver-block sadak ka lokarpan (tripurachronicle.in, 4 Jan 2023; Rs 3.81 cr; kaam 2 Mar 2021–30 Nov 2022) —
-//    Mar 2023 karyakaal se PEHLE ka udghatan — pre-term, reject.
-// 2. Gobin Bari–Anurampara 3 km RDF plastic-waste sadak (tripurachronicle.in, 20 Jan 2026; ~Rs 4 cr) — Reang ne kewal nirikshan kiya; sadak nirmanadheen
-//    hai, koi lokarpan/shilanyas nahi — sirf nirikshan, reject.
-// 3. Bogafa Block me gramin vikas karyo ka nirikshan (tripurachronicle.in, 11 Feb 2026) — sirf nirikshan + aashwasan, reject.
-// 4. South Tripura District Hospital (Santirbazar) nayi morgue me nimn-star nirman ke aarop (tripurachronicle.in, 29 Nov 2025) — thekedaar Raju Datta ke
-//    khilaf sthaniya aarop; MLA ke khilaf koi FIR/case/janch nahi — thekedaar-star shikayat, MLA ke liye qualifying negative NAHI; reject (koi kaam bhi nahi).
-// 5. MLA hostel roof leak par shikayat (tripurainfo.com, 21 May 2025; tripuratimes.com) — MLA niwasi ke roop me shikayat-karta the; koi kaam nahi, reject.
-// 6. CM ke South district karyakram (Feb 2026) — CM ne kiya; Reang upasthit — dusre neta ka karyakram, reject.
-// NEGATIVES: 0. Halafname (2023) me 0 criminal cases; vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch nahi mili.
-// WORKS_COUNT=0 NEGATIVES=0 REJECTS=6
 
 // ===== tripura_w_pranajit-singha-roy.ts =====
 // ---- Pranajit Singha Roy (Radhakishorpur GEN, Gomati; BJP) works batch (researched 2026-10-17) ----
@@ -232,6 +120,17 @@ tripuraWorks['sukla-charan-noatia'] = [
     period: '2023-2028',
     stage: 'shilanyas',
   },
+{
+    title: 'Jolaibari ke MLA aur mantri Sukla Charan Noatia ne Kalsi ADC Village ke Putrahampara me PM Janman pariyojna ke tahat ek naye Anganwadi Centre ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/south-district-marks-8th-national-poshan-maah-celebration-at-jolaibari/',
+    date: '2025-11-27',
+    note: 'Tripura Chronicle ki report (Agartala, 27 Nov 2025, 06:46 PM IST) ke anusaar Jolaibari ke sthaniya MLA aur mantri Shukla Charan Noatia ne us din baad me PM Janman pariyojna ke tahat Kalsi ADC Village ke Putrahampara me ek naye Anganwadi Centre ka lokarpan kiya; kendra ko sthaniya bachchon ke liye early childhood care aur shiksha suvidha ke liye aupcharik roop se khola gaya; usi din Jolaibari CDPO office conference hall me South District-star ke Poshan Maah samaroh ka samapan bhi hua tha. Stage: lokarpan (nirman poorn). Disclosure: report me lagat disclose nahi hai; PAA nahi, post-event reporting hai.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
 ];
 // REJECT-LOG (sukla-charan-noatia) — sabhi rejected, wajah ke saath:
 // 1. Assistant Registrar of Cooperatives ka naya do-manzila karyalay, Karbook market (tripurachronicle.in, 29 Aug 2025) — Noatia ne udghatan kiya, lekin
@@ -250,28 +149,6 @@ tripuraWorks['sukla-charan-noatia'] = [
 // NEGATIVES: 0. Halafname (2023) me 0 criminal cases; vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch nahi mili.
 // WORKS_COUNT=2 NEGATIVES=0 REJECTS=10
 
-// ===== tripura_w_swapna-majumder.ts =====
-// ---- Swapna Majumder (Rajnagar SC, South Tripura; BJP) works batch (researched 2026-10-17) ----
-// FOUNDATION padha: slug 'swapna-majumder', Rajnagar (SC), South Tripura, BJP;
-// 2023 me 20,849 votes se jeeti, margin 1,335 (runner-up Sudhan Das, CPI(M)).
-// Halafnama (2023): 0 criminal cases.
-// Karyakaal: Mar 2023–2028.
-// KHOJ KA NISHAKARSH: Coverage lagbhag poori tarah chunav-khabar tak seemit hai
-// (2023 ki jeet + 9 mahila vidhayak suchi). Rajnagar seat me kisi lokarpan/shilanyas
-// ki whitelisted coverage NAHI mili. Profile khaali chhodi gayi hai.
-tripuraWorks['swapna-majumder'] = [
-];
-// REJECT-LOG (swapna-majumder) — sabhi rejected, wajah ke saath:
-// 1. CM ke South district karyakram (Belonia indoor cricket practice shed udghatan + Vidyasagar fish & vegetable market shilanyas, Feb 2026; asianetnews,
-//    tripurastarnews, thenewsmill) — CM ne kiya; Majumder kewal upasthit — dusre neta ka karyakram, reject.
-// 2. Kanchenjunga Express ka Belonia/Jolaibari stoppage swagat (northeasttoday.in, 14 Aug 2025) — rail stoppage; Majumder upasthit; mantri ke appeal par
-//    hua — na kaam, na inki kendriya bhoomika, reject.
-// 3. BJP Vijay Sankalpa Rally, Rajnagar (tripurastarnews.com, 12 Feb 2023) — pre-election chunavi rally, reject.
-// 4. 'Record 14 women elected' (telugustop.com, Mar 2023) — chunav parinaam khabar, reject.
-// NEGATIVES: 0. Halafname (2023) me 0 criminal cases; vartaman karyakaal me whitelisted media me inke khilaf koi FIR/giraftari ya naam-daar adhikari-pusht janch nahi mili.
-// WORKS_COUNT=0 NEGATIVES=0 REJECTS=4
-
-// ---- West Tripura district batch A (researched 2026-10-17) ----
 // ===== tripura_w_brishaketu-debbarma.ts =====
 // ---- Brishaketu Debbarma (Simna ST, West Tripura; TMP) works batch (researched 2026-10-17) ----
 // FOUNDATION padha: Simna ST seat 1, West Tripura; Brishaketu Debbarma (TMP, 2-time MLA — 2018 IPFT se, 2023 TMP se); 7 Mar 2024 se Minister of State for Industries & Commerce (Northeast Today / Tripura Chronicle / PTI via ThePrint-IndianExpress). Halafnama 2023: umr 43, criminal cases 0.
@@ -1537,3 +1414,66 @@ tripuraWorks['sanjoy-manik-tripura'] = [];
 // REJECT [pathan-lal-jamatia — 19 rejects]: farm-machinery distribution + TB awareness (departmental shubharambh); ADC karyakramon me maujoodgi; Assembly zero-hour protest (seat-mudda nahi); ambulance-vitaran (non-whitelist, retry-lead).
 // REJECT [ranjit-das — 17 rejects]: Amarpur Press Club shilanyas 19 Feb 2026 (non-whitelisted sources, fund raashi disputed — TOP retry-lead: Tripura Times/ICA par whitelisted coverage mile to entry); Water ATM (paywall, MLA fund role nahi); RD Block award (maujoodgi).
 // REJECT [sanjoy-manik-tripura — 17 rejects]: Karbook me Noatia/Sukla mantri ke lokarpan (MLA sirf maujood); Dumbur/Kowaifung-Karbook road (kendriya pariyojna, bhoomika nahi); Chuitraham Para protest (non-whitelist, nateeja nahi — retry-lead).
+
+// ---- South Tripura district batch (researched 2026-10-17) ----
+tripuraWorks['swapna-majumder'] = [
+{
+    title: 'Vidhansabha me Trishna Wildlife Sanctuary ko akarshak banane par sandarbh-prasthan — CM ka ashwasan ki Rajnagar ka rest house paryatkon ke liye susajjit hoga',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle, 28 Mar 2023',
+    sourceUrl: 'https://tripurachronicle.in/local-news/necessary-to-steps-to-conserve-medicinal-plants-bison-in-trishna-wildlife-sanctuary-cm-dr-manik-saha/',
+    date: '2023-03-28',
+    note: '13th Vidhansabha ke teesre din Swapna Majumder ne reference period notice ke zariye pucha ki Trishna Sanctuary ko aur akarshak banane ke liye kya kadam uthaye gaye hain. CM Manik Saha ne jawab me kaha ki Trishna Wildlife Sanctuary, Bharat Bangladesh Maitri Udyan, Baradaus Eco-Park aur Jaichandpur Eco-Tourism Zone ko mahatvapurna paryatan-gantavya ke roop me chinhaankit kiya gaya hai aur Rajnagar ka rest house sanctuary aane wale paryatkon ki zaroorat poori karne ke liye aur susajjit kiya jayega. Unhone clarifying point me yeh bhi manga ki Bison National Park ki barbed-wire fence ki unchai badhai jaye taaki bison use langh na sake. Credit capped: yeh mantri-ashwasan hai, vyaktigat nirman-kaam nahi.',
+    period: '2023-2028',
+    stage: 'ashwasan',
+  },
+];
+tripuraWorks['dipankar-sen'] = [
+{
+    title: 'Belonia me Muhuri nadi ke paas Bangladesh dwara banaye ja rahe bandh se flood ke khatre ko Dipankar Sen ne uthaya, jiske baad PWD Secretary Kiran Gitte ne Belonia ka spot visit kiya aur 43 locations ke repair works June 2025 tak poore karne plus South Tripura me 5 additional engineers tainaat karne ka aashvasan diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/tripura/concern-over-bangladesh-embankment-along-river-on-tripura-border/article69471717.ece',
+    date: '2025-04-20',
+    note: 'The Hindu (20 Apr 2025) ke anusaar Belonia ke CPI(M) MLA Dipankar Sen ne 19 Apr 2025 ko South Tripura ke District Magistrate aur BSF ke senior officials se Bangladesh dwara Muhuri nadi ke vipareet kinaare banaye ja rahe bandh se utpann flood ke khatre ko Centre ke dhyan me lane ka anurodh kiya, taaki ye mudda Dhaka se uthaya ja sake. Sen ke mudda uthane ke baad 20 Apr 2025 ko PWD Secretary Kiran Gitte ke netritva me ek high-level delegation (BSF Tripura Frontier IG Ashwani Kumar Sharma, DM, SP aur sambandhit vibhagon ke adhikariyon sahit) ne Belonia ka on-the-spot visit kiya. Gitte ne kaha ki flood-prone Muhuri nadi par 43 aise locations identify kiye gaye hain jahan repair work shuru ho chuka hai ya jald shuru hoga, sab kaam June tak poore honge, kaam round-the-clock hoga, aur South Tripura me 5 additional engineers tainaat kiye jayenge. Aug 2024 ki catastrophic flood me border ke kai river embankments damage hue the, jo visit ki prishthabhoomi hai. India Today NE (20 Apr 2025) ne iski corroborating reporting ki: Sen ne aarop lagaya tha ki Bangladesh zero line se 50 yards ki doori par, 150-yard ki seema ka ullanghan karte hue lagbhag 1.5 km lamba aur 20 ft uncha bandh bana raha hai. Stage-sach: dastaveji nateeja = official spot visit + written-report ashwasan (June deadline + 5 engineers); June tak kaam poore hue ya nahi, ye page par darj nahi — credit capped.',
+    period: '2023-2028',
+  },
+];
+tripuraWorks['pramod-reang'] = [
+{
+    title: 'Santirbazar ke Patichhari drop-gate kshetra me MLA fund se yatri shed bana, lekin rakh-rakhaav na hone se jarrar ho raha hai aur sthaniyon ne safai-marammat ki maang ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/patichhari-passenger-shed-falls-into-disrepair-locals-seek-immediate-maintenance/',
+    date: '2026-08-11',
+    note: 'Tripura Chronicle ke anusaar Santirbazar Vidhan Sabha kshetra ke Patichhari drop-gate kshetra me yatri shed Santirbazar MLA Pramod Reang ki pehal par MLA fund se banaya gaya tha, jiska uddeshya yatriyon ko surakshit aur suvidhajanak prateeksha sthal dena tha. Report me sthaniyon ne bataya ki niyamit safai aur rakh-rakhaav na hone se shed jarrar ho raha hai — aas-paas ghaas-jhadiyan ug aayi hain aur baithne ki jagah par gandagi jami hai; school ke bachchon sahit yatri ise roz istemal karte hain. Sthaniyon ne sambandhit Village Committee, sthaniya Panchayat aur prashasanik adhikariyon se turant safai-marammat aur niyamit rakh-rakhaav vyavastha ki maang ki hai. Report me sthaniyon ne MLA Pramod Reang ke Santirbazar kshetra me vikas-prayason ko sweekar bhi kiya hai.',
+    period: '2023-2028'
+  }
+];
+tripuraWorks['asoke-chandra-mitra'] = [];
+tripuraWorks['mailafru-mog'] = [];
+tripuraWorks['jitendra-chaudhury'] = [
+{
+    title: 'Sabroom kshetra ke ek mandir me MLA Area Development Scheme se suvidha-nirman ka kaam shuru hone ki sthiti me — prastav swikrit, tender aur thikedar niyukti poori',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/jiten-announces-temple-infrastructure-work-under-mla-development-fund/',
+    date: '2026-08-03',
+    note: 'Tripura Chronicle ke anusaar LoP aur Sabroom MLA Jitendra Chaudhury ne ek karyakram me bataya ki unke kshetra ke ek mandir me MLA Area Development Scheme ke tahat buniyadi dhancha-nirman ka prastav swikrit ho chuka hai; tender prakriya aur thikedar ki niyukti poori ho gayi thi, lekin kuch karanon se kaam shuru nahi ho saka tha aur ab kaam shuru hone wala hai. Mandir samiti ne sebayat, sevak aur shraddhaluon ki suvidha ke liye vittiya sahayata maangi thi. Report me mandir ka naam ya rashi disclose nahi hui. Credit capped: kaam shuru hone ki baad ki pushti report me nahi hai; ye ghoshna se aage badha hua swikriti/tender-charan ka daawa hai.',
+    period: '2023-2028',
+    stage: 'swikriti',
+  },
+];
+// REJECT-LOG (South Tripura batch):
+// - Majumder: CM event me maujoodgi (tripurastarnews, IANS); Sudhangshu Das review meeting maujoodgi — sirf maujoodgi; hostel-inspection delegation — sirf nirikshan; Rajnagar Ward 4 water protest — MLA bhoomika nahi (leads)
+// - Dipankar Sen: Sabroom train extension maang; pacemaker MLALAD letter (non-whitelist); police picket maang (non-whitelist); CM programs me maujoodgi; flyover prastav (non-whitelist); unpar hamla — peedit hain. Naam-jaal: firearms wala 'Dipankar Sen' alag vyakti.
+// - Pramod Reang: pre-term 2 lokarpan (Jan 2023); nirikshan/maujoodgi 12; non-whitelist ~10; hostel roof-leak paywall; Reang-remark vivaad + hostel security — MLA naam-daar aaropi nahi, FIR nahi.
+// - Mitra: Shaltila burglary memorandum — sirf maang; 325 teaching posts story sirf non-whitelist (retry lead); Tripura Times Jun 2026 paywall; CM inaugurations maujoodgi.
+// - Mailafru Mog: tablets for journalists (BEUP) + mini-tractors vitaran — dono Tripura Times paywalled, unverified leads; bike rally maujoodgi; Owa Festival non-whitelist; blankets rahat.
+// - Chaudhury: Maitri Setu bayan; 7-sutriya health patra — sirf maang; piped gas maang (non-whitelist); Nov 2025 nirikshan; Aug 2024 flood relief — rahat; MBB airport prashn non-whitelist. Negatives: halafname ke 3 pre-term cases, koi current development nahi.
+// - Noatia: duplicate guard OK — Kalsimukh Anganwadi + West Pilak shilanyas pehle se hain. LEADS: Maransur Para CC road, Baikhora police station, Jolaibari medical college — sab Tripura Times paywalled/non-whitelist; 'development claims questioned' — MLA aaropi nahi.
+// ---- South Tripura district batch END (5 works, 0 negatives) ----
