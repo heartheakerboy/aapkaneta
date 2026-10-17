@@ -1,0 +1,654 @@
+{
+  "state": "Chhattisgarh",
+  "stateSlug": "Chhattisgarh",
+  "districts": [
+    {
+      "name": "Manendragarh-Chirmiri-Bharatpur",
+      "slug": "manendragarh-chirmiri-bharatpur",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Bharatpur-Sonhat (ST)",
+          "slug": "bharatpur-sonhat"
+        },
+        {
+          "n": 2,
+          "name": "Manendragarh",
+          "slug": "manendragarh"
+        }
+      ]
+    },
+    {
+      "name": "Koriya",
+      "slug": "koriya",
+      "acs": [
+        {
+          "n": 3,
+          "name": "Baikunthpur",
+          "slug": "baikunthpur"
+        }
+      ]
+    },
+    {
+      "name": "Surajpur",
+      "slug": "surajpur",
+      "acs": [
+        {
+          "n": 4,
+          "name": "Premnagar",
+          "slug": "premnagar"
+        },
+        {
+          "n": 5,
+          "name": "Bhatgaon",
+          "slug": "bhatgaon"
+        }
+      ]
+    },
+    {
+      "name": "Balrampur",
+      "slug": "balrampur",
+      "acs": [
+        {
+          "n": 6,
+          "name": "Pratappur (ST)",
+          "slug": "pratappur"
+        },
+        {
+          "n": 7,
+          "name": "Ramanujganj (ST)",
+          "slug": "ramanujganj"
+        },
+        {
+          "n": 8,
+          "name": "Samri (ST)",
+          "slug": "samri"
+        }
+      ]
+    },
+    {
+      "name": "Surguja",
+      "slug": "surguja",
+      "acs": [
+        {
+          "n": 9,
+          "name": "Lundra (ST)",
+          "slug": "lundra"
+        },
+        {
+          "n": 10,
+          "name": "Ambikapur",
+          "slug": "ambikapur"
+        },
+        {
+          "n": 11,
+          "name": "Sitapur (ST)",
+          "slug": "sitapur"
+        }
+      ]
+    },
+    {
+      "name": "Jashpur",
+      "slug": "jashpur",
+      "acs": [
+        {
+          "n": 12,
+          "name": "Jashpur (ST)",
+          "slug": "jashpur"
+        },
+        {
+          "n": 13,
+          "name": "Kunkuri (ST)",
+          "slug": "kunkuri"
+        },
+        {
+          "n": 14,
+          "name": "Pathalgaon (ST)",
+          "slug": "pathalgaon"
+        }
+      ]
+    },
+    {
+      "name": "Raigarh",
+      "slug": "raigarh",
+      "acs": [
+        {
+          "n": 15,
+          "name": "Lailunga (ST)",
+          "slug": "lailunga"
+        },
+        {
+          "n": 16,
+          "name": "Raigarh",
+          "slug": "raigarh"
+        },
+        {
+          "n": 18,
+          "name": "Kharsia",
+          "slug": "kharsia"
+        },
+        {
+          "n": 19,
+          "name": "Dharamjaigarh (ST)",
+          "slug": "dharamjaigarh"
+        }
+      ]
+    },
+    {
+      "name": "Sarangarh-Bilaigarh",
+      "slug": "sarangarh-bilaigarh",
+      "acs": [
+        {
+          "n": 17,
+          "name": "Sarangarh (SC)",
+          "slug": "sarangarh"
+        },
+        {
+          "n": 43,
+          "name": "Bilaigarh (SC)",
+          "slug": "bilaigarh"
+        }
+      ]
+    },
+    {
+      "name": "Korba",
+      "slug": "korba",
+      "acs": [
+        {
+          "n": 20,
+          "name": "Rampur (ST)",
+          "slug": "rampur"
+        },
+        {
+          "n": 21,
+          "name": "Korba",
+          "slug": "korba"
+        },
+        {
+          "n": 22,
+          "name": "Katghora",
+          "slug": "katghora"
+        },
+        {
+          "n": 23,
+          "name": "Pali-Tanakhar (ST)",
+          "slug": "pali-tanakhar"
+        }
+      ]
+    },
+    {
+      "name": "Gaurela-Pendra-Marwahi",
+      "slug": "gaurela-pendra-marwahi",
+      "acs": [
+        {
+          "n": 24,
+          "name": "Marwahi (ST)",
+          "slug": "marwahi"
+        }
+      ]
+    },
+    {
+      "name": "Bilaspur",
+      "slug": "bilaspur",
+      "acs": [
+        {
+          "n": 25,
+          "name": "Kota",
+          "slug": "kota"
+        },
+        {
+          "n": 28,
+          "name": "Takhatpur",
+          "slug": "takhatpur"
+        },
+        {
+          "n": 29,
+          "name": "Bilha",
+          "slug": "bilha"
+        },
+        {
+          "n": 30,
+          "name": "Bilaspur",
+          "slug": "bilaspur"
+        },
+        {
+          "n": 31,
+          "name": "Beltara",
+          "slug": "beltara"
+        },
+        {
+          "n": 32,
+          "name": "Masturi (SC)",
+          "slug": "masturi"
+        }
+      ]
+    },
+    {
+      "name": "Mungeli",
+      "slug": "mungeli",
+      "acs": [
+        {
+          "n": 26,
+          "name": "Lormi",
+          "slug": "lormi"
+        },
+        {
+          "n": 27,
+          "name": "Mungeli (SC)",
+          "slug": "mungeli"
+        }
+      ]
+    },
+    {
+      "name": "Janjgir-Champa",
+      "slug": "janjgir-champa",
+      "acs": [
+        {
+          "n": 33,
+          "name": "Akaltara",
+          "slug": "akaltara"
+        },
+        {
+          "n": 34,
+          "name": "Janjgir-Champa",
+          "slug": "janjgir-champa"
+        },
+        {
+          "n": 38,
+          "name": "Pamgarh (SC)",
+          "slug": "pamgarh"
+        }
+      ]
+    },
+    {
+      "name": "Sakti",
+      "slug": "sakti",
+      "acs": [
+        {
+          "n": 35,
+          "name": "Sakti",
+          "slug": "sakti"
+        },
+        {
+          "n": 36,
+          "name": "Chandrapur",
+          "slug": "chandrapur"
+        },
+        {
+          "n": 37,
+          "name": "Jaijaipur",
+          "slug": "jaijaipur"
+        }
+      ]
+    },
+    {
+      "name": "Mahasamund",
+      "slug": "mahasamund",
+      "acs": [
+        {
+          "n": 39,
+          "name": "Saraipali (SC)",
+          "slug": "saraipali"
+        },
+        {
+          "n": 40,
+          "name": "Basna",
+          "slug": "basna"
+        },
+        {
+          "n": 41,
+          "name": "Khallari",
+          "slug": "khallari"
+        },
+        {
+          "n": 42,
+          "name": "Mahasamund",
+          "slug": "mahasamund"
+        }
+      ]
+    },
+    {
+      "name": "Baloda Bazar",
+      "slug": "baloda-bazar",
+      "acs": [
+        {
+          "n": 44,
+          "name": "Kasdol",
+          "slug": "kasdol"
+        },
+        {
+          "n": 45,
+          "name": "Baloda Bazar",
+          "slug": "baloda-bazar"
+        },
+        {
+          "n": 46,
+          "name": "Bhatapara",
+          "slug": "bhatapara"
+        }
+      ]
+    },
+    {
+      "name": "Raipur",
+      "slug": "raipur",
+      "acs": [
+        {
+          "n": 47,
+          "name": "Dharsiwa",
+          "slug": "dharsiwa"
+        },
+        {
+          "n": 48,
+          "name": "Raipur City Gramin",
+          "slug": "raipur-city-gramin"
+        },
+        {
+          "n": 49,
+          "name": "Raipur City West",
+          "slug": "raipur-city-west"
+        },
+        {
+          "n": 50,
+          "name": "Raipur City North",
+          "slug": "raipur-city-north"
+        },
+        {
+          "n": 51,
+          "name": "Raipur City South",
+          "slug": "raipur-city-south"
+        },
+        {
+          "n": 52,
+          "name": "Arang (SC)",
+          "slug": "arang"
+        },
+        {
+          "n": 53,
+          "name": "Abhanpur",
+          "slug": "abhanpur"
+        }
+      ]
+    },
+    {
+      "name": "Gariaband",
+      "slug": "gariaband",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Rajim",
+          "slug": "rajim"
+        },
+        {
+          "n": 55,
+          "name": "Bindranawagarh (ST)",
+          "slug": "bindranawagarh"
+        }
+      ]
+    },
+    {
+      "name": "Dhamtari",
+      "slug": "dhamtari",
+      "acs": [
+        {
+          "n": 56,
+          "name": "Sihawa (ST)",
+          "slug": "sihawa"
+        },
+        {
+          "n": 57,
+          "name": "Kurud",
+          "slug": "kurud"
+        },
+        {
+          "n": 58,
+          "name": "Dhamtari",
+          "slug": "dhamtari"
+        }
+      ]
+    },
+    {
+      "name": "Balod",
+      "slug": "balod",
+      "acs": [
+        {
+          "n": 59,
+          "name": "Sanjari Balod",
+          "slug": "sanjari-balod"
+        },
+        {
+          "n": 60,
+          "name": "Dondi Lohara (ST)",
+          "slug": "dondi-lohara"
+        },
+        {
+          "n": 61,
+          "name": "Gunderdehi",
+          "slug": "gunderdehi"
+        }
+      ]
+    },
+    {
+      "name": "Durg",
+      "slug": "durg",
+      "acs": [
+        {
+          "n": 62,
+          "name": "Patan",
+          "slug": "patan"
+        },
+        {
+          "n": 63,
+          "name": "Durg Gramin",
+          "slug": "durg-gramin"
+        },
+        {
+          "n": 64,
+          "name": "Durg City",
+          "slug": "durg-city"
+        },
+        {
+          "n": 65,
+          "name": "Bhilai Nagar",
+          "slug": "bhilai-nagar"
+        },
+        {
+          "n": 66,
+          "name": "Vaishali Nagar",
+          "slug": "vaishali-nagar"
+        },
+        {
+          "n": 67,
+          "name": "Ahiwara (SC)",
+          "slug": "ahiwara"
+        }
+      ]
+    },
+    {
+      "name": "Bemetara",
+      "slug": "bemetara",
+      "acs": [
+        {
+          "n": 68,
+          "name": "Saja",
+          "slug": "saja"
+        },
+        {
+          "n": 69,
+          "name": "Bemetara",
+          "slug": "bemetara"
+        },
+        {
+          "n": 70,
+          "name": "Navagarh (SC)",
+          "slug": "navagarh"
+        }
+      ]
+    },
+    {
+      "name": "Kabirdham",
+      "slug": "kabirdham",
+      "acs": [
+        {
+          "n": 71,
+          "name": "Pandariya",
+          "slug": "pandariya"
+        },
+        {
+          "n": 72,
+          "name": "Kawardha",
+          "slug": "kawardha"
+        }
+      ]
+    },
+    {
+      "name": "Khairagarh-Chhuikhadan-Gandai",
+      "slug": "khairagarh-chhuikhadan-gandai",
+      "acs": [
+        {
+          "n": 73,
+          "name": "Khairagarh",
+          "slug": "khairagarh"
+        }
+      ]
+    },
+    {
+      "name": "Rajnandgaon",
+      "slug": "rajnandgaon",
+      "acs": [
+        {
+          "n": 74,
+          "name": "Dongargarh (SC)",
+          "slug": "dongargarh"
+        },
+        {
+          "n": 75,
+          "name": "Rajnandgaon",
+          "slug": "rajnandgaon"
+        },
+        {
+          "n": 76,
+          "name": "Dongargaon",
+          "slug": "dongargaon"
+        },
+        {
+          "n": 77,
+          "name": "Khujji",
+          "slug": "khujji"
+        }
+      ]
+    },
+    {
+      "name": "Mohla-Manpur-Ambagarh Chowki",
+      "slug": "mohla-manpur-ambagarh-chowki",
+      "acs": [
+        {
+          "n": 78,
+          "name": "Mohla-Manpur (ST)",
+          "slug": "mohla-manpur"
+        }
+      ]
+    },
+    {
+      "name": "Kanker",
+      "slug": "kanker",
+      "acs": [
+        {
+          "n": 79,
+          "name": "Antagarh (ST)",
+          "slug": "antagarh"
+        },
+        {
+          "n": 80,
+          "name": "Bhanupratappur (ST)",
+          "slug": "bhanupratappur"
+        },
+        {
+          "n": 81,
+          "name": "Kanker (ST)",
+          "slug": "kanker"
+        }
+      ]
+    },
+    {
+      "name": "Kondagaon",
+      "slug": "kondagaon",
+      "acs": [
+        {
+          "n": 82,
+          "name": "Keshkal (ST)",
+          "slug": "keshkal"
+        },
+        {
+          "n": 83,
+          "name": "Kondagaon (ST)",
+          "slug": "kondagaon"
+        }
+      ]
+    },
+    {
+      "name": "Narayanpur",
+      "slug": "narayanpur",
+      "acs": [
+        {
+          "n": 84,
+          "name": "Narayanpur (ST)",
+          "slug": "narayanpur"
+        }
+      ]
+    },
+    {
+      "name": "Bastar",
+      "slug": "bastar",
+      "acs": [
+        {
+          "n": 85,
+          "name": "Bastar (ST)",
+          "slug": "bastar"
+        },
+        {
+          "n": 86,
+          "name": "Jagdalpur",
+          "slug": "jagdalpur"
+        },
+        {
+          "n": 87,
+          "name": "Chitrakot (ST)",
+          "slug": "chitrakot"
+        }
+      ]
+    },
+    {
+      "name": "Dantewada",
+      "slug": "dantewada",
+      "acs": [
+        {
+          "n": 88,
+          "name": "Dantewada (ST)",
+          "slug": "dantewada"
+        }
+      ]
+    },
+    {
+      "name": "Bijapur",
+      "slug": "bijapur",
+      "acs": [
+        {
+          "n": 89,
+          "name": "Bijapur (ST)",
+          "slug": "bijapur"
+        }
+      ]
+    },
+    {
+      "name": "Sukma",
+      "slug": "sukma",
+      "acs": [
+        {
+          "n": 90,
+          "name": "Konta (ST)",
+          "slug": "konta"
+        }
+      ]
+    }
+  ]
+}
