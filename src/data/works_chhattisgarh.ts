@@ -1021,3 +1021,129 @@ chhattisgarhWorks['dilip-lahariya'] = [];
 // QA: 0 entries pass. Whitelisted sroton me Dec 2023+ ka koi vyaktigat lokarpan/shilanyas, GO-backed swikriti, ya Vidhansabha-maang ka dastaveji nateeja documented nahi mila. Sabhi substantive leads non-whitelisted portals par hain (retry-leads me darj). Profile khali rakhna niyam-anusar sahi hai — galat entry se khali profile behtar. Negatives: koi nahi (2023 halafname 0 cases; established media me FIR/jaanch nahi; 2018 ka case bina 2023+ legal development ke negative nahi).
 
 // ---- Bilaspur district batch END (2 works, 1 negative; 3 others empty; state total 12) ----
+
+
+// ---- Mungeli district batch (researched 2026-10-17) ----
+chhattisgarhWorks['arun-sao'] = [
+  {
+    title: 'Deputy CM and Lormi MLA Arun Sao granted Rs 15.59 crore administrative sanction for construction of five roads in Lormi constituency to improve connectivity, including Gram Hadgaon se Kotri marg (2.70 km).',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/mungeli/lormi/news/1559-crore-approved-for-five-roads-in-lormi-137192198.html',
+    date: '2026-02-13',
+    note: 'Dainik Bhaskar reports administrative sanction (prashaskiya swikriti) of Rs 15.59 crore for five roads in Arun Sao ke apne Lormi vidhansabha kshetra. Work is at sanction stage only — no lokarpan or completion report yet.',
+    period: '2023-2028',
+    stage: 'swikriti',
+  },
+];
+// REJECT-LOG (arun-sao):
+chhattisgarhWorks['punnulal-mohle'] = [
+];
+// REJECT-LOG (punnulal-mohle, Mungeli): 1. "Mega PTM (parent-teacher meeting) under chief hospitality of MLA Punnulal Mohle at PM Shri SeGes Daupara" (aajkaaalap.com, 6/8/2024; 2024-25 session) — muhle keval mukhya atithi the; koi bhautik sanrachna/fund nahi; outlet NON-WHITELIST. REJECT. 2. "11 saal par jila BJP karyalaya Mungeli me karyashala, mukhya vakta vidhayak Mohle" (navbharattimes24x7.in, ~Jun 2025) — party ka sankalp-se-siddhi program; koi sarkari karya nahi; outlet NON-WHITELIST (lookalike clone). REJECT. 3. "Loksuraj/Bhent-Mulakat jaisa samasya-samadhan shivir, gram Kanteli (Mungeli block)" (reportwire.in, ~Jul 2024) — 355 avedan, 234 ka turant nistaran, poshan kits; adhikariyon ko dant bhi lagi — shivir/daura format, koi bhautik karya/fund swikriti nahi; outlet NON-WHITELIST. REJECT. 4. "CM Vishnudev Sai ne Mungeli jila granthalaya me Rs 29.90 lakh ke atirikt kaksh ka lokarpan kiya" (nwnews24.com, 20/5/2025) — lokarpan MUKHYAMANTRI ne kiya; Mohle keval upasthit the; dusre neta ke karyakram me maujoodgi + outlet NON-WHITELIST. REJECT. 5. "Vidhayak evam collector ne Mungeli shahar me vibhinn nirman karyon ka avalokan kiya" (navbharattimes24x7.in) — SIRF NIRIKSHAN/daura (road crossing naala, Tarbanda talab, Balani chowk); outlet NON-WHITELIST. REJECT. 6. "Nandghat-Mungeli road four-lane at Rs 137.81 crore" (channel24india.com) — state highway project; Mohle ki vyaktigat bhoomika documented nahi (shrey Dy CM Arun Sao ko); kendriya/state badi pariyojna me shrey nahi; outlet NON-WHITELIST. REJECT. 7. "CM Sai inaugurates Rs 69 crore projects at gram Madku (Mungeli), 25 Sep 2026" (nationpress.com) — CM ka karyakram; Mohle ki bhoomika documented nahi; outlet NON-WHITELIST. REJECT. 8. "Punnulal Mohle ke dwara vidhan sabha kshetra Mungeli me shakkar karkhana prarambh kiye jaane ke sambandh me ashaskiya sankalp" (prawakta.com, winter session ~2024) — SIRF PRASTAV/sankalp (pre-session agenda reporting); koi mantri-ashwasan/dastaveji nateeja nahi; outlet NON-WHITELIST. REJECT. 9. "Rajyotsav ka samapan Mungeli, vidhayak mukhya atithi" (Dainik Bhaskar, ~Nov 2025) — whitelisted, lekin sanskritik samaroh ka mukhya-atithi karya; koi bhautik sarkari sanrachna/fund nahi. REJECT. 10. "Yoga Day: Mungeli me vidhayak Punnulal Mohle VIP guest" (Dainik Bhaskar, 2024/2025) — whitelisted, lekin ceremonial guest listing; koi karya nahi. REJECT. 11. "Janjatiya Gaurav Divas, Mungeli me vidhayak Mohle mukhya atithi" (amarvaani.com, 13/11/2025) — jila-stariya samaroh me mukhya-atithi; outlet NON-WHITELIST; koi karya nahi. REJECT. 12. "Mungeli: BJP vidhayak ke chachere bhai Adheen Mohle sahit 3 ki sadak hadse me maut" (India TV Hindi, 15/10/2026) — pariwar ka mamla; MLA khud aaropi nahi — negative niyam poora nahi hota. REJECT. 13. "Congress demands dismissal of Chhattisgarh Food Minister (Punnulal Mohile)" (Times of India, ~Feb 2015) — PRE-TERM (2008-2018 mantri karyakaal) ka mamla; wartaman karyakaal me koi legal development nahi; negative entry NAHI ban sakti. REJECT. 14. "Panchayat-3 jaisa kabootar wala scene — Independence Day Mungeli, vidhayak ne kiya dhwajarohan" (jagran.com, 21/8/2024) — dhwajarohan samaroh; koi karya nahi. REJECT. 15. "BJP MLA Punnulal Mohle injured — sadshyata abhiyan me gadhde me fisal kar gire" (jantaserishta.com, 3/10/2024) — vyaktigat hadsa news; koi karya/negative nahi. REJECT.
+// ---- Mungeli district batch END (1 entries) ----
+
+// ---- Janjgir-Champa district batch (researched 2026-10-17) ----
+chhattisgarhWorks['raghavendra-kumar-singh'] = [
+  {
+    title: 'MLA Raghavendra Kumar Singh ne Paharia gaon me Vidhayak Nidhi se swikrit Rs 6 lakh ki CC road ke nirmaan ka bhoomi pujan gramwasiyon, panchayat pratinidhiyon aur kshetriya janpratinidhiyon ki upasthiti me kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/janjgir/baloda/news/cc-road-to-be-built-in-paharia-for-rs-6-lakh-mla-performed-bhoomi-pujan-136049752.html',
+    date: '2025-09-30',
+    note: 'Dainik Bhaskar ki post-event report ke anusaar, Maa Annadharidai ki pavan dhara Paharia me vidhayak ne Vidhayak Nidhi se swikrit Rs 6 lakh laagat ki CC road ka bhoomi pujan kiya; karyakram me gramwasi, panchayat pratinidhi aur kshetriya janpratinidhi upasthit the. Fund: Vidhayak Nidhi (Rs 6 lakh). Kaam Akaltara seat ke Paharia gaon me; vyaktigat bhoomika (bhoomi pujan) aur fund — dono disclosed. Date search-result metadata (last-updated ~382 din pehle) se anumaanit; page text me date nahi dikhi.',
+    period: '2023-2028',
+    stage: 'shilanyas-bhoomi pujan',
+  },
+];
+// REJECT-LOG (raghavendra-kumar-singh):
+chhattisgarhWorks['byas-kashyap'] = [
+  {
+    title: 'Police ne 30 June 2025 ko kharab sadak ki maang par kiye gaye lagbhag 5 ghante ke chakkajam ke baad Janjgir-Champa MLA Vyas Kashyap aur unke 11 sahyogiyon ke khilaf City Kotwali Janjgir me kes darj kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattishgarh/janjgir-champa-jaijaipur-mla-baleshwar-sahu-arrested-vyas-kashyap-case-registered-635112',
+    date: '2025-07-01',
+    note: 'Haribhoomi (1 Jul 2025) ke anusaar, Jarve–Peethampur marg ki jara halat ke virodh me 30 June 2025 ko lagbhag 5 ghante tak chakkajam kiya gaya, jisme schooli bachchon ko bhi shamil kiya gaya; uske baad sarpaanch, up-sarpaanch, jila panchayat sadasya aur janpad sadasya sahit MLA Vyas Kashyap par City Kotwali Janjgir me kes darj hua. Report me MLA ki pratikriya ka koi ullekh nahi tha; isi report me giraftari ka koi zikr bhi nahi tha — sirf kes darj hone ki reporting. Pehchan: halafnama me naam ‘Byas Kashyap’ (S/o Shaniram Kashyap, INC, Janjgir-Champa) hai — report me ‘Vyas Kashyap’ spelling.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (byas-kashyap — Janjgir-Champa (INC), karyakaal Dec 2023–2028):
+chhattisgarhWorks['sheshraj-harvansh'] = [
+  {
+    title: 'Vidhan Sabha Budget Satra 2025 me MLA ke prashn par Indira Nikunj Mana Ropani se jude 5 van adhikari-karmchari nilambit — van mantri ne PCCF janch karai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika',
+    sourceUrl: 'https://www.patrika.com/raipur-news/cg-news-many-officers-and-employees-of-the-forest-department-have-been-suspended-19477596',
+    date: '2025-03-22',
+    note: 'Patrika (Raipur edition) ke anusar CG Vidhan Sabha ke Budget Satra 2025 me Pamgarh MLA Sheshraj Harvansh ne Indira Nikunj Mana Ropani me sanchalit Kunwaradev Mahila Swa-Sahayata Samooh ke karya-sanchalan par prashn uthaya; van mantri Kedar Kashyap ko vibhag ki taraf se jo jawab dilaye gaye wo galat the. Mantri ne gambhirta se lete hue Pradhan Mukhya Van Sanrakshak evam Van Bal Pramukh ko janch ke nirdesh diye; PCCF V. Srinivas Rao ki adhyakshata me samiti (APCCF Naved Shujauddin, CCF Raipur Raju Agasimani) ne tathya chhupane ki pushti ki. Parinaam: Raipur vanmandal ke Raipur parikshetra adhikari Satish Mishra, Mana nursery prabhari vanpal Teja Singh Sahu, vanmandal karyalay ke sahayak grade-02 Avinash Walde aur Pradeep Tiwari, parikshetra karyalay ke lipik Ajit Dadhsena — kul 5 nilambit; vanmandaladhikari Loknath Patel evam up-vanmandaladhikari Vishwanath Mukherjee ke viruddh shasan-star par anushasanatmak karyavahi ka patrachar. Credit capped: MLA ka prashn tha; nilamban-karyavahi van mantri ki janch-aadesh ka nateeja hai. Mamla Raipur vanmandal ka hai (Pamgarh seat se bahar) — prashn inhone uthaya.',
+    period: '2023-2028'
+  }
+];
+// REJECT-LOG (shanka ho to reject; galat entry se khali profile behtar)
+// ---- Janjgir-Champa district batch END (3 entries) ----
+
+// ---- Sakti district batch (researched 2026-10-17) ----
+chhattisgarhWorks['charan-das-mahant'] = [
+  {
+    title: 'Mahant ke likhit prashn ke jawab me mantri ne sadan ko bataya — Jan 2024 se Jan 2025 tak 171 audyogik durghatnaon me 124 mazdooron ki maut, 86 ghayal; mritakon ke aashriton ko Rs 17.24 crore muavza aur ghayalon ko Rs 60.32 lakh sahayta di gayi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (ThePrint)',
+    sourceUrl: 'https://theprint.in/india/171-industrial-accidents-left-124-workers-dead-86-injured-in-chhattisgarh-in-13-months/2536248/?amp',
+    date: '2025-03-06',
+    note: '6 Mar 2025 ko Vidhansabha me Netapratipaksh Charan Das Mahant ke likhit prashn par Vaanijya evam Udyog Mantri Lakhan Lal Dewangan ka likhit jawab — 1 Jan 2024 se 31 Jan 2025 tak rajya ke audyogik ikaiyon me 171 durghatnaen; 124 mazdoor mrit, 86 ghayal; mritakon ke parijanon ko Rs 17,23,68,454 muavza aur ghayalon ko Rs 60,32,342 sahayta rashi di gayi. Mantri ne yeh bhi sweekara ki mritak parivaron ke punarvas ka koi pravdhan nahi hai. Mahant ka prashn rajya-stariya tha (Sakti seat vishesh nahi) — shrey seemit (credit capped); muavza sarkari pravdhan se hua, MLA ne swayam nahi diya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Charan Das Mahant par Rajnandgaon me IPC dhara 506 (aapradhik dhamki) ke tahat FIR — PM Modi ke khilaf chunavi rally me vivadit bayan ke baad ECI ke nirdesh par kaaryavaahi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navbharat Times',
+    sourceUrl: 'https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/chhattisgarh-news-case-registered-against-leader-of-opposition-charan-das-mahant-hate-speech-against-pm-modi/articleshow/109080812.cms',
+    date: '2024-04-05',
+    note: '5 Apr 2024 (shukravaar) ko Rajnandgaon ke Kotwali thane me Mahant par IPC dhara 506 ke tahat FIR darj — Zila Nirvachan Adhikari ke nirdesh par, Bharat Nirvachan Aayog ke kaaryavaahi aadesh ke baad. Aarop: Mahant ne 2-3 Apr 2024 ko Rajnandgaon me Bhupesh Baghel ki namankan rally ko sambodhit karte hue PM Modi ke khilaf "lathi marne" wala bayan diya tha. Mahant Congress ke star-pracharak the — isliye rajya ke CEO/Zila Nirvachan Adhikari seedhe kaaryavaahi nahi kar sakte the aur kendriya Aayog ne sangyaan liya. Vivad badhne par Mahant ne maafi maangi (source ke anusaar). FIR ke baad charge-sheet, giraftaari ya muqadme ki pragati in sroton me darj nahi — isliye stage-accurate framing: kewal FIR darj hone ka tathya. Mahant ki pehchan: Chhattisgarh Vidhansabha me Netapratipaksh aur Sakti se vidhayak.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (charan-das-mahant):
+chhattisgarhWorks['ramkumar-yadav'] = [
+];
+// REJECT-LOG (ramkumar-yadav — Chandrapur (INC), karyakaal Dec 2023–2028):
+chhattisgarhWorks['baleshwar-sahu'] = [
+  {
+    title: 'Bilaspur High Court ne sansadon aur vidhayakon ke khilaf lambit aapradhik prakarnon ki tezi se sunvai ke nirdesh diye — June 2026 ki status report ke mutabik Janjgir-Champa jile me Jaijaipur MLA Baleshwar Sahu se jude mamle ki sunvai jaari hai aur abhiyojan paksh ke sakshya darj kiye ja rahe hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika',
+    sourceUrl: 'https://www.patrika.com/bilaspur-news/high-court-orders-speedy-hearing-of-criminal-cases-against-mps-mlas-20796063',
+    date: '2026-08-01',
+    note: 'Patrika ki page-report ke mutabik Bilaspur High Court ki division bench (Chief Justice Ramesh Sinha aur Justice Ravindra Kumar Agrawal) ne sansadon, vidhayakon, poorv sansadon aur poorv vidhayakon ke khilaf darj aapradhik prakarnon ki jaldi sunvai karne ke nirdesh nichli adalaton ko diye. Nyaymitra Dr. N.K. Shukla ne sunvai me division bench ko bataya ki pichhli status report ke mukable do lambit aapradhik mamalon ka nirakaran hua hai. June 2026 ki sthiti ke anusaar Janjgir-Champa jile me vidhayak Baleshwar Sahu va anya se jude mamalon ki sunvai chal rahi hai; aapradhik prakaran me abhiyojan paksh ke sakshya darj kiye jaane ki prakriya jaari hai. Division bench ne agli sunvai 25 August tay karke Registrar (Judicial) ko sabhi trial courts se taza report lekar updated status prastut karne ka nirdesh diya. Disclosure: article me Baleshwar Sahu ka koi jawab nahi diya gaya hai; koi dosh-siddhi nahi hui hai; ye 2023 halafname ke lambit mamalon ka vartaman karyakaal (June-Aug 2026) me nyayik vikas hai — High Court monitoring order, trial jaari.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Jaijaipur MLA Baleshwar Sahu ko 9 January 2026 ko dhokhadhadi aur jaalsazi ke aarop me giraftar kiya gaya — police ne chargesheet adalat me prastut ki, CJM court ne sangyan lene ke baad nyayik hirasat me bheja, mamla abhi bhi vicharadhin hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-congress-mla-arrested-in-cheating-case/article70491406.ece',
+    date: '2026-01-09',
+    note: 'The Hindu (Raipur, 9 January 2026) ki report ke mutabik Chhattisgarh ke Janjgir-Champa jile me Congress MLA Baleshwar Sahu (Jaijaipur) ko dhokhadhadi ke mamle me 9 January 2026 ko giraftar kiya gaya; police ne ek kisan ke saath lagbhag Rs 47 lakh ki dhokhadhadi ka aarop lagaya. Police adhikari ke anusaar 2015 se 2020 ke beech jab Sahu Bamhanidih me District Cooperative Society ke manager the, unhone complainant Ram Kumar Sharma ko 50 acre zameen par Kisan Credit Card loan lene ki salah di; awedak ke naam HDFC Bank Champa me khata khulwaya gaya, awedak se blank cheque liya gaya aur Rs 24 lakh Sahu aur unki patni ke khate me transfer kiye gaye; aarop hai ki awedak ke hastakshar aur anguthe ke nishan jaal karke kul Rs 42.78 lakh nikal liye gaye. Police statement ke mutabik Champa police station me darj prakaran ki janch aur sakshya-sankalan ke baad Gautam Rathore aur Jaijaipur ke MLA Baleshwar Sahu ke khilaf aarop siddh paaye gaye aur 9.1.2026 ko adalat me challan prastut kiya gaya; challan par CJM court ne sangyan liya, jail warrant jaari hua aur aaropi ki regular bail court ne kharij kar di. Disclosure: article me Sahu ka koi jawab nahi diya gaya hai; koi dosh-siddhi nahi hui hai; pre-term (2015-2020) aaropon par vartaman karyakaal (Jan 2026) me nyayik vikas — mamla vicharadhin.',
+    period: '2023-2028',
+  },
+  {
+    title: '14 January 2026 ko Janjgir-Champa jila adalat ne dhokhadhadi ke mamle me Jaijaipur MLA Baleshwar Sahu ko jamanat de di — Rs 50,000 ke do surety bond par district jail se rihai, mamla abhi bhi vicharadhin hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (The Week)',
+    sourceUrl: 'https://www.theweek.in/wire-updates/national/2026/01/14/chhattisgarh-congress-mla-gets-bail-in-cheating-case-released-from-jail.amp.html',
+    date: '2026-01-14',
+    note: 'PTI (Janjgir-Champa, 14 January 2026) ki report ke mutabik jile ki adalat ne Congress MLA Baleshwar Sahu (Jaijaipur) ko dhokhadhadi ke mamle me jamanat de di, jiske baad ve district jail se riha ho gaye; unki giraftari 9 January ko hui thi. Vakeel Rajesh Pandey ke mutabik District and Additional Sessions Judge Ganesh Ram Patel ne mangalwar ko bail arji suni aur budhwar ko faisla sunaya; adalat ne Rs 50,000-50,000 ke do surety bond par jamanat manjoor ki. Sahu ne patrakaron se kaha ki unhe BJP sarkar ke dabav me ek jhoothe aur pehle se taiyar kiye gaye mamle me fasaya gaya hai aur unke khilaf jaalsazi ya kisi aur galat kaam ka koi saboot nahi mila; unhone poori aur nishpaksh janch ki maang ki. Report ke mutabik Rajkumar Sharma (Sara Gaon police station area) ki shikayat par October 2025 me Sahu aur Gautam Rathore ke khilaf prakaran darj hua tha; aarop hai ki 2015-2020 me jab Sahu Bamhanidih me cooperative society ke manager the aur Rathore salesman the, dono ne Sharma ke parivar ko thaga — 50 acre zameen par Kisan Credit Card loan ki salah di, Champa ke private bank me khata khulwaya, blank cheque liya, Rs 24 lakh Sahu aur unki patni ke khate me transfer kiye aur Sharma, unki maa aur patni ke hastakshar tatha anguthe ke nishan jaal karke Rs 42.78 lakh nikal liye. Disclosure: bail milne ke baad bhi koi dosh-siddhi nahi hui hai; pre-term aaropon (2015-2020) par vartaman karyakaal (Jan 2026) me nyayik vikas — mamla vicharadhin.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (baleshwar-sahu):
+// ---- Sakti district batch END (5 entries) ----
