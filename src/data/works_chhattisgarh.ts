@@ -3456,3 +3456,50 @@ chhattisgarhWorks['vinayak-goyal'] = [
 // L8. Vidhansabha maang/prashn ka dastaveji nateeja ya mantri-ashwasan — kuch nahi mila; CG Vidhan Sabha records ya whitelisted reporting mile to capped-credit entry.
 // ---- Bastar district batch END (9 works, 0 negatives) ----
 
+// ---- Dantewada district batch — Batch 14 (research date 2026-10-17) ----
+// Chaitram Atami (Dantewada ST, BJP): 0 entries — honestly empty. Sabse majboot lead (Potali SHC lokarpan, 2025-01-01) sirf non-whitelist sources par (the-journalist.com, Times Now) → REJECT; baaki sirf maujoodgi/ghoshna/samaroh. Negatives: halafnama criminalCases 0; post-2023 koi whitelisted FIR nahi; court-record 'Chaitram' cases naam-jaal (alag vyakti/jile). Retry: Potali lokarpan ki whitelist coverage (Bhaskar/Patrika/Navbharat/Haribhoomi/Hitavada live-browser retry).
+chhattisgarhWorks['chaitram-atami'] = [];
+// ---- Dantewada district batch END (0 works, 0 negatives) ----
+
+// ---- Bijapur district batch — Batch 14 (research date 2026-10-17) ----
+// Vikram Mandavi (Bijapur ST, INC): 0 entries — honestly empty. Sabse nazdeeki lead: NBT (2026-09-10) — Bhopalpatnam me JCB se sadak marammat — page khola aur padha, REJECT (na lokarpan, na sanction, na sawal-nateeja; fund undisclosed). Baaki: CM ko patra (tribal prisoners), gyapan, Zero Hour, daure — sab advocacy/daura. Negatives: halafnama 0; post-2023 koi whitelisted FIR nahi. Naam-jaal: Savitri Manoj Mandavi / Indrashah Mandavi se koi uljhav nahi. Retry: Bhaskar Bijapur local edition live-browser me 'विक्रम मंडावी' + 'भूमिपूजन/लोकार्पण' (2024-2026).
+chhattisgarhWorks['vikram-mandavi'] = [];
+// ---- Bijapur district batch END (0 works, 0 negatives) ----
+
+// ---- Sukma district batch — Batch 14 (research date 2026-10-17) ----
+// Kawasi Lakhma (Konta ST, INC, purva mantri): 0 seat-work — Dec 2023–Jan 2025 vipakshi MLA, 15 Jan 2025–Feb 2026 jail, bail ke baad CG me pravesh-par SC rok; mantri-kaal (2018-23) excluded. 3 negatives (stage-wise; har me jawab/anupasthiti disclosed):
+chhattisgarhWorks['kawasi-lakhma'] = [
+  // ---------- NEGATIVES (stage-wise; 'stage' field nahi, note me sirf cited page ke tathya) ----------
+  {
+    title: 'ED ne Konta MLA aur poorv aabkari mantri Kawasi Lakhma ko Rs 2,161 crore ke kathit sharab-ghotale me 15 Jan 2025 ko giraftar kiya; ED ka aarop — proceeds of crime se mahine me Rs 2 crore se kam nahi milte the; Lakhma ne aaropon se inkar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/chhattisgarh/ex-chhattisgarh-minister-was-receiving-2-crore-per-month-from-the-proceeds-of-excise-scam-says-ed/article69109819.ece',
+    date: '2025-01-17',
+    note: 'The Hindu ke anusar 17 Jan 2025 ko ED ne bayaan me dawa kiya ki Congress neta aur poorv Chhattisgarh mantri Kawasi Lakhma kathit sharab-ghotale se utpann Proceeds of Crime me se "not less than Rs 2 crore per month" prapt kar rahe the; unhe 15 Jan 2025 (budhvar) ko Rs 2,161 crore ke kathit ghotaale ke silsile me giraftar kiya gaya tha. ED ne kaha ki Lakhma ko Aabkari Vibhag ke poore kaamkram sahit sharab-ghotale ki poori jaankari thi, phir bhi unhone avaidh aur anaadhikrit gatividhiyon ko rokne ke liye kuch nahi kiya; weh syndicate ke abhinn ang the aur unke nirdesh par prakriyaon me heraferi karke sahayata karte the; janch me Lakhma dwara prapt POC ka upyog achal sampattiyon ke nirman me jodne wale saboot mile. Lakhma ka jawab bhi page par hai: pichhle mahine ek media baatcheet me unhone inn aaropon se inkar kiya tha, dawa kiya ki weh anpadh vyakti hain aur nahi jaante the ki unhone kin kagazon par hastakshar kiye. ED iss mamle me pehle hi poorv IAS adhikari Anil Tuteja sahit Arvind Singh, Trilok Singh Dhillon, Anwar Dhebar aur Arun Pati Tripathi ko giraftar kar chuki thi. Pehchan pakki: page "Konta MLA, former excise minister, six-time MLA" ke roop me Kawasi Lakhma ki pehchan karta hai — kisi anya naam se confusion nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Supreme Court ne 3 Feb 2026 ko Kawasi Lakhma ko ED aur EOW/ACB ke do sharab-ghotala mamalon me interim bail di; shartein — Chhattisgarh me adalati upasthiti ke alawa pravesh nahi, passport jama, sakshiyon ko prabhavit karne par rok',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/legal-news/supreme-court-interim-bail-kawasi-lakhma-liquor-scam-cases-10511596/',
+    date: '2026-02-03',
+    note: 'Indian Express ke anusar 3 Feb 2026 ko CJI Surya Kant ki adhyakshata wali teen-nyayadhishon ki peeth (Justice Joymalya Bagchi aur Justice Vipul M Pancholi sahit) ne Kawasi Lakhma ko Economic Offences Wing/Anti Corruption Bureau dwara janchit Prevention of Corruption Act mamle aur ED dwara janchit jude hue money-laundering mamle me interim bail di. Peeth ne dhyaan diya ki weh ek saal se adhik samay se jail me hain aur kuch sah-aaropiyon ke khilaf janch abhi poori nahi hui. Court ne kaha: janch agency ka nirantar janch ka adhikaar ek taraf hai, yachikakarta ka swatantrata ka adhikaar doosri taraf — dono ke pratispardhi dawon me santulan ke liye interim nirdesh diye jaate hain, jinme bhavishya me sanshodhan sambhav hai. Shartein: vishesh nyayadhish ki santushti par bail bond; Chhattisgarh me adalaton me upasthiti ke alawa pravesh nahi (sunvai ki tarikh se ek din pehle pahunch sakte hain); swasthya ke kaaran ke alawa vyaktigat upasthiti se chhoot nahi milegi; videsh yatra nahi aur passport vishesh nyayadhish ke court me jama; apne thaharne ka sthan aur sampark number batana taaki police aur ED unki maujudgi jaan saken, number vishesh nyayadhish ki anumati ke bina na badlein; sarvjanik karyakramon me bhaag le sakte hain lekin chargesheet ya janch ke vishay wale aaropon par koi bayan nahi; sakshiyon se pratyaksh/apratyaksh sampark ya prabhavit karne, ya sabooton se chhedchhad ki koshish nahi — ullanghan bail ke durupyog ke roop me liya jayega. Sadan ki karyavahi me bhagidari ka faisla Vidhan Sabha Adhyaksh par chhoda gaya; court ne iss par koi raay nahi di.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Vidhan Sabha Adhyaksh Raman Singh ne budget satra 2026 ke liye Kawasi Lakhma ko sashart sadan me upasthit hone ki anumati di; Konta ke mudde utha sakte hain lekin ghotala-mamle par bolne par "no speech" shart',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'TOI',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-assembly-speaker-allows-cong-mla-lakhma-to-attend-house-after-interim-bail-from-sc-in-liquor-scam-to-follow-no-speech/articleshow/128664252.cms',
+    date: '2026-02-21',
+    note: 'TOI ke anusar Supreme Court se interim bail milne ke baad Chhattisgarh Vidhan Sabha Adhyaksh Raman Singh ne Congress MLA Kawasi Lakhma ko aagami budget satra (23 Feb–20 Mar 2026) me upasthit hone ki anumati sashart di. Lakhma apne Konta kshetra se jude muddon par charcha me bhaag le sakte hain, lekin unki upasthiti sirf sadan ki karyavahi tak seemit rahegi; unhe Vidhan Sabha sachiv ko apne aane aur jaane ki soochna deni hogi; iss avadhi me weh apne kshetra ya awasiya kshetra nahi ja sakte; adalat me lambit mamle par "no speech" shart ka palan karna hoga aur bhagidari sirf satra-sambandhi kaam tak seemit rahegi — sharton ke ullanghan par anumati turant radd ho jayegi. Adhyaksh ne bataya ki 7 Feb ko sadan ne Lakhma ki raay maangi thi aur advocate general ki kanuni raay lene ke baad anurodh par vichaar kiya gaya. SC ne bail dete hue unhe janch lambit rehne tak Chhattisgarh ke bahar rehne ka nirdesh diya tha, lekin sadan ki karyavahi me bhagidari ka faisla Adhyaksh par chhoda tha. Lakhma kathit multi-thousand-crore sharab-ghotale me ED dwara giraftar kiye gaye the aur bail se pehle ek saal se adhik nyayik hirasat me rahe; weh ab bhi undertrial hain jabki unke vartaman karyakaal me lagbhag teen saal bache hain.',
+    period: '2023-2028'
+  }
+];
+// Retry: Patrika 1 Aug 2026 HC status-report (PMLA ED special court) ki whitelisted copy — mili to teesri negative-stage; EOW chargesheet vivaran whitelisted outlet par.
+// ---- Sukma district batch END (0 works, 3 negatives) ----
