@@ -544,3 +544,446 @@ tripuraWorks['manik-saha'] = [
 // NEGATIVES: 0 — Strict criteria par koi negative nahi mila. Manik Sarkar (poorv CM, CPI(M)) par 6 FIR/HC case (Oct 2026, TOI/Indian Express) ALAG vyakti ka mamla hai — Dr. Manik Saha se bhram na ho, isliye drop. LoP Jitendra Chaudhury ke 'ruling alliance me bhrashtachar' wale bayan (Shillong Times, Jan 2026) aur CEC vivaad par opposition ke dawe (Borok Times, Sep 2026) me Saha khud naam-daar aaropi nahi aur koi FIR/adhikari-pusht janch nahi — drop. Halafnama 2023 me 0 cases darj hain.
 // WORKS_COUNT=0 NEGATIVES=0 REJECTS=18
 // ---- West Tripura district batch A END (7 entries, negatives 7) ----
+
+// ---- West Tripura district batch B (researched 2026-10-17) ----
+
+// --- gopal-chandra-roy ---
+tripuraWorks['gopal-chandra-roy'] = [
+  {
+    title: 'MLA Gopal Chandra Roy ne MLA Local Area Development Fund se di gayi ambulance ki chabiyan North Banamalipur Young\'s Corner Club ke adhikariyon ko saunpi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/mla-gopal-chandra-roy-donates-ambulance-from-development-fund/',
+    date: '2025-11-16',
+    note: 'Tripura Chronicle (16 Nov 2025) ke anusaar Banamalipur ke MLA Gopal Chandra Roy ne MLA Local Area Development Fund se ek ambulance pradaan ki aur 16 Nov 2025 (Ravivar) ko gaadi ki chabiyan North Banamalipur Young\'s Corner Club ke adhikariyon ko saunp di. MLA ne patrakaron se kaha ki ye pahal ilake ke vikas aur logon ke kalyan ke liye hai, bina kisi rajneetik bhedbhav ke, aur ambulance janata ke tax ke paise se di ja rahi hai taaki fund ka sahi upyog ho; sthaniya nivasiyon ko ummeed hai ki isse ilake me emergency medical services sudhrenge. Stage-sach: vitaran poora hua (handover ki post-event reporting); itemized sanction-rashi page par darj nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Prachya Bharati School me apne sanction kiye lagbhag Rs 5 lakh ke water treatment plant ka MLA Gopal Chandra Roy ne achanak nirikshan kiya — poori tarah bana plant do saal se band pada mila, turant inquiry ka aadesh diya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/mla-gopal-chandra-roy-slams-delay-in-school-water-treatment-plant/',
+    date: '2025-12-03',
+    note: 'Tripura Chronicle (3 Dec 2025) ke anusaar Banamalipur ke Congress MLA Gopal Chandra Roy ne lagbhag do saal pehle Prachya Bharati School me chhatron ko safe drinking water dene ke liye lagbhag Rs 5 lakh ka project sanction kiya tha. 3 Dec 2025 ko achanak nirikshan me plant poori tarah bana hua mila lekin do saal se band pada tha, jisse chhatra shuddh pani se vanchit rahe. MLA ne der ke karanon ki turant inquiry ka aadesh diya aur sambandhit adhikariyon ko facility jald chalu karne ke liye urgent kadam uthane ka nirdesh diya; maata-pita aur sthaniya nivasiyon ne bhi prashasanik laparwahi ka aarop lagaya. Stage-sach: nirmaan poora, lekin plant ~2 saal se non-functional; inquiry ya plant chalu hone ka nateeja page par darj nahi (fund scheme ka naam page par nahi — sirf \'sanctioned project\' likha hai).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (gopal-chandra-roy) — sabhi rejected, wajah ke saath:
+// 1. TOI (14 Jul 2025) + indiatodayne.in (13 Jul 2025) — 'Cong accuses BJP of hindering work under MLA-LAD scheme': MLA ka aarop ki BJP-backed groups BEUP/MLA-LAD kaamon me rukawat daal rahe hain; BJP pravakta ne aarop kharij kiye — REJECT: sirf AAROP; koi dastaveji nateeja/janch-nishkarsh nahi (source whitelist par hai, lekin entry ke liye nateeja chahiye).
+// 2. Northeast Today (Aug 2026) — Agartala me 2 naye water treatment plants par assembly prashn + CM ka jawab — REJECT: sirf PRASHN + ghoshna; aur Northeast Today whitelist me NAHI.
+// 3. tripurastarnews (27 Mar 2025) — AMC me 67% pipeline water coverage par MLA ke prashn ka CM ka likhit jawab — REJECT: sirf PRASHN; source whitelist me nahi.
+// 4. tripurainfo (30 Sep 2026) — Zilla Parishad meeting se walkout — REJECT: walkout/nirakaran, koi vikas-kaam nahi; source whitelist me nahi.
+// 5. UNI/Tripura Times (Jul 2025) — door-to-door leaflet campaign + Mann Ki Baat virodh, BJP par hamla — REJECT: party campaign/rajneetik bayan; bhautik sanrachna/fund ka kaam nahi.
+// 6. Tripura Times (19 Nov 2025) — Indira Gandhi jayanti par MBB College Road par shraddhanjali — REJECT: samaroh/upasthiti, kaam nahi.
+// 7. Tripura Chronicle (4 Feb 2024) — BJP state president Rajib Bhattacharjee ka dawa ('CPIM ki madad se jeete', 'koi vikas-kaam nahi karte', 'assembly me sote hain') — REJECT (negative-criteria par bhi nahi): rajneetik aarop; unke khilaf koi FIR/adhikari-pusht janch nahi.
+// 8. Hindustan Times (Apr 2020) — advocate Arabinda Deb ki forgery/criminal-conspiracy (IPC 120B/469) complaint; police inquiry, case darj nahi — REJECT (negative): PRE-TERM (2020); current karyakaal me koi legal development report nahi.
+// 9. NDTV election page 'Gopal Roy' (AMB, Coochbehar Uttar, West Bengal) — REJECT: NAAM-JAAL — alag vyakti; pehchan seat Banamalipur se pakki karni hai.
+// 10. tripurastarnews (24 Apr 2022) — CM Biplab Deb dwara Banamalipur MLA fund ki ambulance ka flag-off (Lal Bahadur Club) — REJECT: pre-term (2022) + dusre neta (tatkalin CM) ka karyakram + source whitelist me nahi.
+// 11. Tripura Times (20 Aug 2024, archive-restricted) — 'MLA attacked, warns of major protest': College Tilla area me unpar hamle ka aarop — REJECT (negative-criteria par bhi nahi): ve PEEDIT hain, aaropi nahi; aapradhik mamla unke khilaf nahi.
+// 12. Tripura Times (6 Jul 2025, archive-restricted) — Town Pratapgarh me unki courtyard meeting par hamla/narebaji — REJECT (negative-criteria par bhi nahi): ve PEEDIT hain, aaropi nahi.
+// 13. tripuranews24 — Speaker chunav (Mar 2023) me Gopal Chandra Roy ko 14 votes mile — REJECT: sansadiya prakriya, vikas-kaam nahi.
+// NEGATIVES: 0 — Strict criteria par koi negative nahi mila. Halafname (2023) ke 2 pending mamle (IPC 120B/341/500/501, East Agartala PS 2018 EAG 082; CR 01/2019) akele negative NAHI (pre-term pending matters). 2020 ka HT forgery complaint pre-term hai aur current-term me koi legal development ki established-media report nahi mili. Unpar hue hamle (Aug 2024, Jul 2025) me ve peedit hain, aaropi nahi.
+// RETRY-LEADS:
+// A. Tripura Times digital archive (paywalled) me 'gopal chandra roy' + 'mla fund'/'MLALAD'/'BEUP' khojo — itemized sanction/vitaran reports mil sakti hain.
+// B. Prachya Bharati School water treatment plant ke operational hone ki follow-up reporting (Dec 2025 ke baad) khojo — inquiry-nateeja/plant-chalu hona confirm ho to entry 2 ka note update hoga.
+// C. BEUP/MLA-LAD rukawat wale aarop (TOI, 14 Jul 2025) par SDM/sarkar ka jawab ya janch-nateeja PTI/established outlet par khojo.
+// D. Tripura IPR/DIPR/ICA press release ya sarkari portal par Banamalipur ke MLALADS itemized kharch ki dastaveji report khojo.
+// FINAL REPORT (coordinator ke liye): WORKS_COUNT=2 NEGATIVES=0 REJECTS=13. Works: (1) MLALAD fund se ambulance ka North Banamalipur Young's Corner Club ko vitaran, 16 Nov 2025 (Tripura Chronicle, post-event reporting, fund disclosed); (2) lagbhag Rs 5 lakh sanctioned Prachya Bharati School water treatment plant ka nirikshan, 3 Dec 2025 — plant poora bana lekin ~2 saal se band, MLA ne inquiry ka aadesh diya (Tripura Chronicle; note me nishkriyata imandari se darj). Negatives: koi nahi — halafname ke 2 pre-term pending mamle akele negative nahi; current-term me unke khilaf koi FIR/adhikari-pusht janch ki established-media report nahi. GitHub push NAHI kiya gaya (task anusaar). File: ~/workspace/aapkaneta_scratch/tr_worker_gopalchandraroy.ts.
+
+// --- sushanta-chowdhury ---
+tripuraWorks['sushanta-chowdhury'] = [
+  {
+    title: 'Majlishpur ke MLA aur mantri Sushanta Chowdhury ne Mohanpur Bazar me 84-dukaanon wale do-manzila market complex ka Bhumi Pujan ke saath shilanyas kiya',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/tripura-government-initiates-construction-of-market-complex-to-boost-self-reliance-among-unemployed-sushanta-chowdhury/',
+    date: '2024-03-13',
+    note: 'Tripura Chronicle ki report (Agartala, 13 Mar 2024) ke anusaar Chowdhury ne Mohanpur Bazar (Majlishpur assembly constituency) me do-manzila market stall complex ka Bhumi Pujan ke baad shilanyas kiya; pariyojna me 84 stalls aur anumaanit laagat Rs 16 crore hai; report ke anusaar ye berozgaron aur vyapariyon ko aadhunik vyaparik sthan dega. Stage: shilanyas (nirman aarambh).',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Majlishpur ke MLA aur mantri Sushanta Chowdhury ne Ranirbazar me Ghoramaracherra par naye RCC pull ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/new-bridge-inaugurated-at-ranirbazar-sushanta-chowdhury-praises-governments-development-work/',
+    date: '2024-01-23',
+    note: 'Tripura Chronicle ki report (Agartala, 23 Jan 2024) ke anusaar Transport Minister Chowdhury ne mangalwar ko Ranirbazar me Ghoramaracherra par naye RCC pull ka udghatan kiya; pull ki laagat Rs 2 crore 85 lakh 24 thousand batayi gayi; report ke anusaar pull se Ranirbazar aur aaspaas ke kshetron (Durganagar sahit) ka sampark behtar hoga. Stage: lokarpan (nirman poorn).',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Majlishpur ke MLA aur mantri Sushanta Chowdhury ne Ranirbazar me Jirania Sub-Divisional Public Library ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/sushanta-chowdhury-inaugurates-jirania-sub-divisional-public-library-at-ranirbazar/',
+    date: '2023-04-30',
+    note: 'Tripura Chronicle ki report (Agartala, 30 Apr 2023) ke anusaar Majlishpur ke MLA aur Tourism mantri Sushanta Chowdhury ne ravivaar ko Ranirbazar me Jirania Sub-Divisional Public Library ka udghatan karke use kshetra ki janta ko samarpit kiya; library me Bangla, Kokborok aur English ki kitaben, akhbaar aur patrikaen uplabdh hain. Stage: lokarpan (nirman poorn). Disclosure: report me nirman laagat ka ullekh nahi hai.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (sushanta-chowdhury) — sabhi rejected, wajah ke saath:
+// 1. Blood donation camp, Barjala Binapani School, Majlishpur Mandal (Tripura Chronicle / Tripura Times, 9 Jun 2024) — swayamsevi rakt-daan shivir — daan/rahat kaam, reject.
+// 2. Jirania eco-tourism/water park (Swadesh Darshan 2.0) ka shilanyas (Northeast Today, Jan 2025) — source whitelist me nahi; kendriya pariyojna ka shilanyas CM ne kiya, Chowdhury ne mantri-star par site-nirikshan kiya — mantri-bhoomika + seat-credit nahi, reject.
+// 3. NH-8 widening ki samiksha baithaken (Northeast Today, 19 Apr 2025 / 17 Nov 2025 / 19 Nov 2025) — source whitelist me nahi; kendriya/mantri-stariya baithak, sirf samiksha — baithak kaam nahi, reject.
+// 4. Panchayat-stariya sangathan baithak, Majlishpur Mandal (Tripura Times, 30 Jul 2026) — sangathanatmak baithak, kaam nahi; page archive-restricted bhi hai, reject.
+// 5. Farmers' Knowledge Centre ka lokarpan, Majlishpur (Tripura Chronicle, 4 Jan 2023) — pre-term (Mar 2023 se pehle), reject.
+// 6. Sachindranagar School Ground par synthetic football turf ka kaam (Tripura Chronicle, 27 Aug 2022) — pre-term + Sports mantri-star ki yojana, reject.
+// 7. Vikshit Bharat Sankalp Yatra ka udghatan, Majlishpur (Tripura Chronicle, 21 Nov 2023) — sarkari abhiyan ka shubharambh + kalyan-vitaran — reject.
+// 8. PMAY (Urban) work-order vitaran, Jirania (Northeast Now, ~Nov 2025) — kendriya yojana ka vitaran, daan/vitaran — reject.
+// 9. Cyclone Remal rahat-daura, Jirania/Ranirbazar (Tripura Times, 28 May 2024) — aapda-rahat daura, daan/rahat kaam — reject.
+// 10. SEAT dwara 300 mahilaon ko vastra vitaran samaroh me upasthiti (Tripura Chronicle, 14 Oct 2023) — daan kaam me atithi-upasthiti, reject.
+// 11. Meritorious students felicitation ceremony, Ranirbazar (Tripura Star News, 16 Jun 2024) — source whitelist me nahi + mukhya-atithi samaroh, reject.
+// 12. Jirania 50-bedded Sub-Divisional Hospital ka shilanyas (Tripura Star News, ~Mar 2024) — shilanyas CM Dr. Manik Saha ne kiya; Chowdhury guest-of-honor — dusre neta ke karyakram me upasthiti, reject. (Unka Jan 2024 wala 'hospital banega' bayan sirf ghoshna tha.)
+// 13. Ranirbazar Electric Division office ka lokarpan (Tripura Chronicle, ~Aug 2023) — udghatan Power Minister Ratan Lal Nath ne kiya; Chowdhury atithi — dusre neta ka karyakram, reject.
+// 14. Ranirbazar development works ki samiksha baithak (neindia.com, 24 Jul 2026) — source whitelist me nahi + sirf nirikshan/daura, reject.
+// 15. Dr. Shyamaprasad Mukherji Market Stall ka udghatan, Mohanpur Bazar (ICA press release, 12 Aug 2022) — pre-term, reject.
+// 16. Sukanta Academy English Medium H.S. School bhavan ka udghatan, Ranirbazar (Tripura Star News, 16 Mar 2022) — pre-term + source whitelist me nahi, reject.
+// 17. Tripura Heritage Village / Nicco Park-model amusement park ka shilanyas, Jirania (tripurainfo.com, 2025) — source whitelist me nahi; shilanyas CM ne kiya, Chowdhury ne aabhar vyakt kiya — mantri-bhoomika, reject.
+// 18. AVYAY awareness camp ka udghatan, Ranirbazar (Tripura Times, 20 Feb 2026) — sarkari abhiyan ka shubharambh, reject.
+// 19. Jirania me infra projects ka nirikshan (Tripura Times, 26 Jun 2025) — sirf nirikshan + page archive-restricted, reject.
+// 20. SASCI capital-investment projects ki samiksha (Northeast Today / Borok Times, Aug-Sep 2025) — source whitelist me nahi + mantri-stariya samiksha baithak, reject.
+// 21. Rs 140 crore Jirania tourism proposal ka dawa (Northeast Today, ~Aug 2026; MP Biplab Deb ke bayan se) — source whitelist me nahi + sirf prastav, reject.
+// 22. Statewide paddy procurement drive ka shubharambh (Northeast Today, Aug 2025) — mantri-stariya rajya karyakram, reject.
+// 23. Road safety equipment vitaran, Agartala (enewstime, Oct 2026) — source whitelist me nahi + rajya-stariya vitaran, reject.
+// 24. Battala Bazaar (Sabroom) market building ka lokarpan (Tripura Times, 26 Jul 2025) — Sabroom seat, Majlishpur nahi — seat-bahar, reject.
+// 25. Royaloak furniture store launch, Agartala (dailyimphalnews, Sep 2026) — private business launch me atithi-upasthiti, reject.
+// 26. Frontline interview (Jan 2023) — pre-term interview, reject.
+// 27. Condolence/support daura, Majlishpur (Tripura Times, ~Jun 2026) — sanvedna-daura, kaam nahi, reject.
+// 28. Union Budget swagat bayan (newkerala, Feb 2026) — bayan, kaam nahi, reject.
+// 29. Mann Ki Baat karyakram me upasthiti (Tripura Chronicle, 27 Jul 2025) — upasthiti, kaam nahi, reject.
+// 30. Bike rally / LS chunav prachar, Majlishpur (Tripura Chronicle, Aug 2024 / Mar 2024) — chunavi gatividhi/sangathan, reject.
+// 31. Mandwai massacre par CPI(M) ke khilaf bayan (tripuraindia.in, 7 Sep 2025) — source whitelist me nahi + rajnitik bayan, reject.
+// 32. Siddheshwari Temple udghatan ki ghoshna (Tripura Chronicle, 13 Sep 2024) — pre-event announcement + Barakanthal/Hejamara (Mohanpur subdivision, dusri seat), reject.
+// NEGATIVES: 0 — Halafnama (2023) me darj Ranir Bazar PS 005/2023 (18.01.2023, IPC 325/307/379/506/148/149/427/120B) pre-term case hai; niyam ke anusaar affidavit ka pre-term case akele negative NAHI hai. Vartaman karyakaal (Mar 2023+) me whitelisted media me is case ka koi chargesheet/dosh-siddhi/advance, ya Chowdhury ke khilaf koi FIR/giraftari/naam-daar adhikari-pusht janch nahi mili. 2018 ki PTI report (Business Standard) me ve CPI(M) hamle ke peedit the — pre-term aur victim-context, negative nahi.
+// RETRY-LEADS:
+// R1. Ranirbazar Revenue Circle ke naye office building ka lokarpan (Tripura Times, 15 Jul 2026 — 'sushanta opens new revenue circle office distributes pmay 2-0 work orders'): whitelisted source par headline verified hai ('inaugurated the newly constructed office building of the Ranirbazar Revenue Circle under the Jirania Sub-Division'), lekin page 30-din archive restriction ke peeche hai — poora text nahi khul saka. ICA press release 'Ranirbazar Revenue Circle office inaugurated by Tourism Minister' maujood hai lekin uska content browser me render nahi hota (sirf page-chrome). Retry: ICA/DIPR press release ka poora text ya ePaper archive se laagat/bhoomika confirm karke entry banao (lokarpan, category Any).
+// R2. Tripura Times 'sushanta inspects progress of infra development projects' (26 Jun 2025, Jirania) — archive-restricted; nirikshan hi tha lekin list me koi poorn/pariyojna-ka naam mile to check karo.
+// WORKS_COUNT=3 NEGATIVES=0 REJECTS=32 RETRY_LEADS=2
+
+// --- swapna-debbarma ---
+tripuraWorks['swapna-debbarma'] = [
+];
+// REJECT-LOG (swapna-debbarma) — sabhi rejected, wajah ke saath:
+// 1. "MLA Swapna Debbarma slams irregularities in school renovation work during Mandai inspection"
+//    (Tripura Chronicle, 18 Oct 2025) — Monti Girls' Residential English Medium High School ke
+//    renovation me aniyamitaon par surprise inspection; mukhya khabar daura hai. "Ordered that
+//    the renovation be redone properly" sirf mauke par verbal aadesh hai — koi sarkari aadesh,
+//    mantri-ashwasan, ya dastaveji parinaam article me nahi. Niyam: sirf nirikshan/daura = reject.
+// 2. "Fresh allegations of boulder scam surface at Mandai" (Tripura Chronicle, 22 Nov 2025) —
+//    Mandai-Patni sadak par nimna-gunvatta wale boulder/ side-wall ki shikayat; sthaniya logon
+//    ne MLA se nirikshan ki apeel ki. Aarop MLA par NAHI hai, aur unki taraf se koi kaam/kadam
+//    article me darj nahi — na work entry, na negative. Reject.
+// 3. "mla delegation visit tus central library" (Tripura Times, 20 Jan 2026) — Tripura University
+//    Central Library ka daura; ve Library Committee Chairman ke roop me gayi thi (saath me 3 aur
+//    MLA). Assembly committee ka daura, kshetra ka vikas-kaam nahi — reject.
+// 4. "flood causes damage to 4693 km roads sushanta" (Tripura Times, 5 Sep 2024) — Vidhan Sabha
+//    me badh se sadak-kshati par charcha me bhagidari (Swapna Debbarma sahit 9 MLA). Koi unke
+//    prashn ka dastaveji nateeja/mantri-ashwasan nahi — sirf charcha, reject.
+// 5. "tipra motha issues 12-hour ultimatum for release of accused" (Tripura Times, 25 Sep 2025) —
+//    YTF karyakarta Jitu Debbarma ki rihaai ke liye police station par samuhik pratinidhimandal;
+//    ve shamil thi. Raajnaitik virodh-gatividhi, vikas-kaam nahi — reject.
+// 6. Tripura MLAs ka Gujarat Vidhan Sabha study tour (IANS via prokerala.com / lokmattimes.com,
+//    Oct 2025) — 11 sadasyon ka 5-din ka adhyayan-daura; ve delegation lead kar rahi thi. Daura
+//    (nirikshan/daura reject) + outlet bhi whitelist me nahi — reject.
+// 7. Kharchi Festival coverage (indiatodayne.in, Jul 2026; tripurachronicle.in, Jul 2025) — CM
+//    Manik Saha ne udghatan kiya; ve atithi ke roop me upasthit — dusre neta (CM) ka karyakram,
+//    reject.
+// 8. "TIPRA Motha releases final list of candidates" (indiatodayne.in, 30 Jan 2023) — chunav se
+//    pehle ki ticket-ghoshna khabar — pre-election, reject.
+// 9. "woman shot in jungle suspect arrested" (Tripura Times, 17 Nov 2024) — Teliamura me jangal
+//    me goli lagi; pidit ka naam "Swapna Debbarma" — ye Atharamura range/Teliamura ki sthaniya
+//    mahila hai, Mandaibazar ki MLA nahi. NAAM-JAAL — reject.
+// 10. "tripura youths find new life through swapna foundations support" (tripuratimes.com, ~Jul
+//    2025) — Abhoynagar, Agartala ka "Swapna Foundation" de-addiction NGO — MLA se koi sambandh
+//    nahi. NAAM-JAAL — reject.
+// 11. tripurainfo archive headline (30 Mar 2026) + delhivoicenewsagency piece: "MLA Swapna
+//    Debbarma Accused of Secret BJP Links, Faces Protest in Mandai" — keval raajnaitik aarop
+//    (apne hi karyakartaon ka virodh); dono outlet whitelist me NAHI, koi FIR ya naam-daar
+//    adhikari-pusht janch nahi, chunav-yachika jaisa legal track nahi — VALID NEGATIVE nahi ban
+//    sakta. Reject (negative-candidate ke roop me darj).
+// 12. "Record 14 women elected to Tripura, Meghalaya, Nagaland Assemblies" (greaterkashmir.com,
+//    Mar 2023) — chunav-parinaam khabar — reject.
+// 13. Wikipedia "Swapna Debbarma" page — background (committee posts) ke liye reference; koi work
+//    info nahi, whitelist source nahi — reject.
+// NEGATIVES: 0. Halafname (2023) me 0 criminal cases (Oneindia criminal-cases list me bhi 0).
+// Vartaman karyakaal (Mar 2023+) me whitelisted media me inke khilaf koi FIR/giraftari ya
+// naam-daar adhikari-pusht janch nahi mili. "Secret BJP links" wala aarop non-whitelisted
+// outlets par aur bina FIR/janch ke — negative nahi bana. AFFIDAVIT me na koi pending mamla
+// darj hai, na vartaman karyakaal me koi legal development.
+// RETRY-LEADS:
+// R1. Tripura Times ePaper/digital archive (30+ din purani khabrein archive-restricted hain) me
+//     "Swapna Debbarma" + "shilanyas"/"MLALADS"/"udghatan" keyword search — subscription chahiye.
+// R2. tripura.gov.in IPR/DIPR/ICA press-release search ("Swapna Debbarma") — agar unhone
+//     Mandaibazar me koi bhautik sanrachna ka shilanyas/lokarpan kiya ho to sarkari source
+//     (sarkari badge) me mil sakta hai.
+// WORKS_COUNT=0 NEGATIVES=0 REJECTS=13
+
+// --- ramu-das ---
+tripuraWorks['ramu-das'] = [];
+// REJECT-LOG (ramu-das) — sabhi rejected, wajah ke saath:
+// 1. tripurainfo.com, 24 Aug 2026 — 'Tripura's Opposition MLA Ramu Das Alleges Cut Money Demand Over Development Works in Pratapgarh':
+//    MLA ki press conference — FY 2025-26 me MLALAD se 15 sadak kaam (13 poore hone ka dawa), Kabi Kazi Tila (Ward No. 41),
+//    Thakur Palli, Muslim Para me phalak todne ka aarop, nishpaksh jaanch ki maang. Tripurainfo.com whitelist me NAHI
+//    (chhota portal) — source REJECT. Retry lead: isi press conference ki Tripura Times/Chronicle/indiatodayne.in/nenow.in par coverage dhoondo.
+// 2. IANS wire (daijiworld/shillongtimes/magazinestime/clarionindia), 9 Mar 2023 — 'Tripura: CPI-M legislator's mother assaulted; MLA blames BJP':
+//    79-saal ki maa Kanan Das par hamla, Pratapgarh ghar me todphod; MLA ne BJP samarthakon par aarop lagaya. MLA khud AAROPPI NAHI,
+//    peedit paksh — negative-criteria (FIR ya naam-daar adhikari-pusht jaanch + MLA aaropi) me fit nahi; vikas-kaam bhi nahi — REJECT.
+// 3. The Hindu, 9 Mar 2023 (premium/paywall) — 'CPI(M), Congress parliamentary teams to visit violence-hit Tripura': Ramu Das ke ghar par hamle ka
+//    zikr passing me — wahi wajah (peedit, kaam nahi) + poora page khula nahi — REJECT.
+// 4. siasat.com, 9 Mar 2023 — wahi mother-attack story — outlet whitelist me NAHI (siasat.com) + wajah #2 jaisi — REJECT.
+// 5. lokmattimes.com, 28 Oct 2025 — Tripura MLAs (Swapna Debbarma, Manab Debbarma, Ramu Das, Nayan Sarkar) ka Gujarat Vidhan Sabha study tour:
+//    sirf DAURA/study tour, Pratapgarh kshetra ka koi kaam nahi — REJECT.
+// 6. Economic Times / Business Standard (PTI), 30 Jun 2015 — 2015 Pratapgarh upchunav jeet (BJP ki Mousami Das ko 17,326 se haraya):
+//    pre-term (2015-2018 karyakaal), chunav coverage kaam nahi — REJECT.
+// 7. timesnownews.com / oneindia.com, 2 Mar 2023 — 2023 chunav parinaam (26,422 vote, margin 2,086): chunav coverage, kaam nahi — REJECT.
+// 8. myneta.info candidate page (candidate_id=6797) — halafnama/identity data: profile data, kaam nahi — REJECT.
+// 9. Tripura Times, 23 Sep 2026 — 'mla fund to finance repair of road used by farmers': Krishnapur MLA Bikash Debbarma ka kaam,
+//    Ramu Das ka nahi — galat vyakti/kshetra — REJECT.
+// 10. TOI / nenow.in, ~Jul 2026 — 'Tripura ranks lowest in MPLADS fund use': MPLADS = MP ka fund, MLA ka nahi; Ramu Das ka zikr nahi — REJECT.
+// 11. Wikipedia (Pratapgarh constituency / Ramu Das) — identity/chunav background: kaam nahi — REJECT.
+// NEGATIVES: 0 — 2023 halafname me criminal cases 0; whitelisted media me karyakaal me Ramu Das ke khilaf koi FIR, giraftari,
+// adhikari-pusht jaanch ya aarop nahi mila. Mar 2023 mother-attack me ve peedit hain (BJP samarthakon par aarop unhone lagaya),
+// khud aaropi nahi — negative-criteria poora nahi hota. Parivar ka koi mamla nahi, chunav-yachika nahi.
+// WORKS_COUNT=0 NEGATIVES=0 REJECTS=11
+// RETRY-LEADS (comment me):
+// A. 24 Aug 2026 press conference ('cut money' + FY 2025-26 me MLALAD se 15 sadak kaam, 13 poore — Kabi Kazi Tila/Ward 41,
+//    Thakur Palli, Muslim Para) ki whitelisted coverage: tripuratimes.com / tripurachronicle.in / indiatodayne.in / nenow.in
+//    ke Aug 2026 archive me 'Pratapgarh cut money Ramu Das' dhoondo — mile to 'dawa' badge entry ban sakti hai.
+// B. Tripura IPR/DIPR press releases (tripura.gov.in / ica.tripura.gov.in) me 'Ramu Das' MLALADS itemized sanction/vitaran —
+//    itemized sarkari report mile to 'sarkari' badge par VALID entry.
+// C. Tripura Vidhan Sabha records (budget session prashn/motions) — Vidhansabha maang ka dastaveji nateeja/mantri-ashwasan
+//    mile to capped-credit entry; abhi tak koi dastavej nahi mila.
+
+// --- mina-rani-sarkar ---
+tripuraWorks['mina-rani-sarkar'] = [
+  {
+    title: 'Badharghat kshetra ke Siddhi Ashram Police Para me 1992 ke baad pehli baar sadak ki marammat aur paki-karan ke baad MLA Mina Rani Sarkar ne nayi sadak ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/development-reaches-siddhi-ashram-police-para-after-32-years-mla-mina-rani-sarkar-inaugurates-new-road/',
+    date: '2025-04-02',
+    period: '2023-2028',
+    note: 'Media-reported lokarpan; article ke mutabik sadak Double Engine sarkar ki pahal ke tahat marammat/pakki hui — khangi fund ya MLALAD yogdaan ka khulasa source me nahi. Credit capped.',
+  },
+  {
+    title: 'Vidhan Sabha budget satra me Badharghat ki Belabar Junior Basic School ko Senior Basic School me upgrade karne ki maang uthai',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/chariparas-junior-basic-school-upgrade-crucial-for-local-welfare-bjp-mla-mina-rani-sarkar/',
+    date: '2025-03-26',
+    period: '2023-2028',
+    note: 'Shiksha portfolio ke CM Dr. Manik Saha ne sadan me jawab diya: upgrade ka koi prastav School Management Committee ya DEO se prapt nahi, filhaal yojana nahi; aupcharik prastav aane par vichaar ka ashwasan. Nateeja: keval mantri-ashwasan, upgrade abhi lambit — credit capped.',
+  },
+  {
+    title: 'Tripura Vidhan Sabha me nasha-mukti upchar kendron ki maang par prashn uthaya, jiske jawab me sarkar ne har jile me suvidhaon ki yojana ka khulasa kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Northeast Now',
+    sourceUrl: 'https://nenow.in/north-east-news/tripura/tripura-drug-de-addiction-treatment-facilities.html',
+    date: '2024-01-09',
+    period: '2023-2028',
+    note: 'Mantri Tinku Roy ne 9 Jan 2024 ke satra me bataya: Narsinghgarh ke Modern Psychiatric Hospital me kendra ko GoI ki swikriti, Sepahijala me 200-bed Integrated Rehabilitation Center, aur South Tripura/Gomati ke do prastav GoI ko bheje gaye. Prashn Mina Rani Sarkar aur Jadab Lal Nath ne uthaya tha — credit capped.',
+  },
+  {
+    title: 'AGMC ki Rogi Kalyan Samity governing body ke adhyaksh ke roop me baithak ki adhyakshata ki, jisme muft diagnostic counter, central lab upgrade aur NHM fund se dawa kharid jaise nirnay liye gaye',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'India Today NE',
+    sourceUrl: 'https://www.indiatodayne.in/tripura/story/tripura-to-strengthen-agmc-gbp-hospital-with-new-facilities-free-services-1267725-2025-08-26',
+    date: '2025-08-25',
+    period: '2023-2028',
+    note: 'Nirnay RKS governing body ke hain; Sarkar Chairperson ke roop me adhyaksh theen (baithak 25 Aug 2025, AGMC Council Hall). Ye MLALAD ya vidhayak nidhi ka kaam nahi — credit capped.',
+  },
+];
+// NEGATIVES KA SAAR: koi negative entry nahi mili. Halafnama (myneta.info,
+// candidate_id=6994) me 0 criminal cases hain. Whitelisted sources me MLA
+// khud ke khilaf koi FIR, naam-daar adhikari-pusht janch, ya vartaman
+// karyakaal ka koi legal development nahi mila. Chhote/non-whitelist
+// portals par bhi aisa koi mamla report nahi hua. Isliye profile ke
+// negatives ka hissa khaali hai.
+//
+// PEHCHAN NOTE: Mina Rani Sarkar = BJP, Badharghat (SC). Inhe swargiya
+// Dilip Sarkar ki chhoti behan bataya gaya hai (Tripura Chronicle, 2 Apr
+// 2025); ye wahi parivar hai jis se Congress ke Raj Kumar Sarkar (bade
+// bhai) aur AIFB ke Partha Ranjan Sarkar (bhatija) 2023 me Badharghat se
+// chunav lade the. "Sarkar" surname wale kai netaon (Mitali Sarkar, Nayan
+// Sarkar, Sudip Sarkar) se alag pehchan Badharghat seat se pakki ki gayi.
+// ============================================================
+
+
+/* ============================================================
+   REJECT-LOG (numbered)
+   ============================================================
+
+1. REJECT — keval ghoshna/commitment, itemized sanction report nahi.
+   Source: Tripura Chronicle, 16 Jan 2025 —
+   "Sushanta & MLA Mina Rani Sarkar commit Rs 10 lakh for shed construction
+   of RTC's Pramod Mukta Mancha"
+   URL: https://tripurachronicle.in/local-news/sushanta-mla-mina-rani-sarkar-commit-rs-10-lakh-for-shed-construction-of-rtcs-pramod-mukta-mancha/
+   Tathya: Mantri Sushanta Chowdhury aur MLA Mina Rani Sarkar ne Ramthakur
+   College (Badharghat) ke Mukta Mancha ke saamne shed ke liye apne-apne
+   MLALAD fund se Rs 5 lakh dene ka sankalp liya; 6-7 mahine me poornta ka
+   wada. Ye sirf ghoshna hai — koi itemized sanction ya poornta ki report
+   nahi mili. RETRY-LEAD dekho.
+
+2. REJECT — dusre neta (mantri) ke karyakram me keval maujoodgi; source bhi
+   non-whitelist.
+   Source: aguli.in / neindia.com (~Apr 2026) — Charipara Anganwadi Centre
+   No.1 ka lokarpan Mantri Tinku Roy ne kiya; MLA sirf upasthit theen.
+   URL: https://aguli.in/index.php/2026/04/01/charipara-gets-new-anganwadi-boost-to-child-care/
+   Note: aguli.in whitelist me nahi hai.
+
+3. REJECT — keval maujoodgi, rajya-stariya karyakram.
+   Source: neherald.com, 14 Oct 2026 — GBP Hospital ke 66th Foundation Day
+   par medical facilities launch; MLA "among those present" matra.
+   URL: https://neherald.com/tripura/tripura-launches-advanced-medical-facilities-at-gbp-hospital-on-66th-foundation-day
+
+4. REJECT — CM ke karyakram me keval maujoodgi.
+   Source: Tripura Chronicle (~Sep 2026) — "Mann Ki Baat connects PM Modi
+   directly with common people: CM"; Badharghat MLA Mina Rani Sarkar
+   attendees ki list me theen, CM Dr. Manik Saha ka karyakram.
+   URL: https://tripurachronicle.in/local-news/mann-ki-baat-connects-pm-modi-directly-with-common-people-cm/
+
+5. REJECT — keval maujoodgi + blacklist outlet.
+   Source: tripurastarnews.com (blacklist), 1 Aug 2024 — Tripura Sports
+   School ke 25th Foundation Day par MLA upasthit; mukhya bhoomika Mayor
+   Dipak Majumder ki.
+   URL: https://www.tripurastarnews.com/25th-foundation-day-celebration-of-tripura-sports-school/
+
+6. REJECT — shok-santwana daura, daan/rahat category.
+   Source: Northeast Now / India Today NE, 17 Jun 2025 — Badharghat ke
+   Matripalli me talab me doobe 3 kishoron ke parivaron se mili, santwana
+   di. Koi vikas-karya nahi.
+   URL: https://nenow.in/north-east-news/tripura/tripura-three-teenage-boys-drown-in-pond-near-agartala.html
+
+7. REJECT — briefing me keval maujoodgi.
+   Source: indiatodayne.in, 24 Apr 2026 — CM ke mahila aarakshan bill
+   briefing me MLAs Mina Rani Sarkar aur Antara Dev Sarkar "present".
+   URL: https://www.indiatodayne.in/amp/tripura/story/opposition-has-once-again-insulted-women-tripura-cm-on-stalled-reservation-bill-1380506-2026-04-24
+
+8. REJECT — pre-term (4 Jan 2023, MLA Mar 2023 se) + blacklist outlet.
+   Source: tripurastarnews.com (blacklist) — Science City, Badharghat ka
+   lokarpan CM ne kiya; karyakaal se pehle; isme Mina Rani Sarkar ka koi
+   zikr bhi nahi (upasthit MLA Mimi Majumder theen).
+   URL: https://www.tripurastarnews.com/inauguration-ceremony-of-science-city-at-agartala/
+
+   ============================================================
+   RETRY-LEADS (agle daur me kholkar verify karna)
+   ============================================================
+
+R1. Ramthakur College (Badharghat) Mukta Mancha shed: 16 Jan 2025 ko
+    Minister Sushanta Chowdhury + MLA Mina Rani Sarkar ne Rs 5-5 lakh
+    MLALAD se dene ka sankalp liya tha (Tripura Chronicle). 6-7 mahine me
+    poornta ka wada tha. Uske baad poornta/swikriti ki koi report nahi
+    mili — "Ramthakur College Mukta Mancha shed Badharghat" par whitelisted
+    outlets me follow-up khojo. Swikriti/poornta mili to MLALAD entry ban
+    sakti hai (stage-accurate).
+
+R2. Belabar JB School (Charipara) upgrade: CM ne formal proposal par
+    vichaar ka ashwasan diya tha (Mar 2025). SMC/DEO ne prastav bheja ya
+    nahi, iska follow-up Vidhansabha records ya Tripura Chronicle me khojo.
+
+R3. MLALAD itemized records: Mina Rani Sarkar ke MLALAD kharch ka koi
+    neta-war record online nahi mila. Tripura IPR/DIPR press releases ya
+    West Tripura district portal par "Mina Rani Sarkar MLALAD" khojo.
+
+R4. Halafnama negatives: 2023 halafname me 0 criminal cases; wartaman
+    karyakaal me koi FIR/janch whitelisted media me report nahi hui.
+    Phir bhi Tripura police/IC reports me "Mina Rani Sarkar" naam se
+    occasional scan chalate raho (naama-jaal se bachne ke liye Badharghat
+    seat match lazmi).
+
+   ============================================================
+   NOTE: `stage` field pilot.ts ke Work interface me defined nahi hai,
+   isliye stage ki jagah status note me likha gaya hai (Delhi workers ke
+   pattern par: "credit capped", "upgrade abhi lambit" aadi). Merge ke
+   dauran interface badle to stage field joda ja sakta hai.
+   ============================================================
+*/
+
+// --- ram-prasad-paul ---
+tripuraWorks['ram-prasad-paul'] = [];
+// REJECT-LOG (ram-prasad-paul) — sabhi rejected, wajah ke saath:
+// 1. Tripura Times, 25 Sep 2023 — 'ram prasad paul lays foundation stone for Tripura Santiniketan Medical College and Hospital'
+//    (https://tripuratimes.com/ttimes/ram-prasad-paul-lays-foundation-stone-for-“tripura-santiniketan-medical-college-and-hospital”-11046.html)
+//    — Deputy Speaker Ram Prasad Paul ke haathon se proposed PRIVATE medical college+hospital ka shilanyas; Madhuban gram
+//    panchayat, 18-Suryamaninagar; ~51 acres allotted (purana rubber plantation); Santiniketan Medical College (Bolpur) ke
+//    Chairman Malay Pit: 34 educational institutions 'knowledge city' plan, 2024 se padhai shuru ka dawa. Source WHITELISTED
+//    hai aur page poora kholkar padha gaya — lekin sanrachna PRIVATE hai; VALID niyam ('vyaktigat lokarpan/shilanyas
+//    BHAUTIK SARKARI SANRACHNAON ka, fund+bhoomika disclosed') private-structure shilanyas cover nahi karta — REJECT.
+//    Retry lead: parent faisla kare private shilanyas count ho ya nahi; project status (2024 se classes shuru hui?)
+//    verify kare.
+// 2. Northeast Today + Tripura Net, 3 Sep 2025 — 16 stalls ka lokarpan (Ramthakur Ashram CC Road, Moloy Nagar GP Bypass /
+//    Nagicherra Bypass, Suryamaninagar; yuva swarozgar ke liye; Block Chairman + Panchayat members maujood).
+//    Northeast Today whitelist me EXPLICITLY REJECTED hai ('Northeast Today = NAHI'); tripuranet.com whitelist me nahi
+//    (chhota portal). Fund disclosed nahi — source REJECT. Retry lead: isi event ki Tripura Times/Tripura Chronicle/
+//    ICA (DIPR) press release coverage + fund (MLALAD? Block/Panchayat?) disclosure dhoondo.
+// 3. Tripura Chronicle, 27 Jun 2024 — '3-tier Panchayat elections expected in early August, Ram Prasad gears up with Padayatra':
+//    Booth No. 53 par Jal Jeevan Mission project ka 'launch' padayatra se pehle kiya — SARKARI ABHIYAN KA KEVAL
+//    SHUBHARAMBH + panchayat-chunav padayatra ka hissa (political) — REJECT.
+// 4. Tripura Times, 31 Dec 2023 — Suryamaninagar H.S. School ki nayi building (Vidyajyoti project, Rs 3.26 crore) ka lokarpan
+//    CM Manik Saha ne kiya; Deputy Speaker Ram Prasad Paul 'remained present' — DUSRE NETA KE KARYAKRAM ME MAUJOODGI — REJECT.
+// 5. tripurainfo.com, 3 Sep 2026 — 'BJP Inaugurates New Office of 18 Suryamaninagar Mandal' ('Ram Bhavan'): PARTY OFFICE ka
+//    lokarpan — sangathan/party kaam, jan-vikas kaam nahi; outlet whitelist me nahi — REJECT (dohri wajah).
+// 6. Tripura Times, 9 Jun 2026 — 'deputy speaker ram prasad paul launches assistance centre for sindhu darshan pilgrims':
+//    Chief Patron, Himalayan Parivar Tripura ke roop me launch — SANSTHAAGAT/DHARMIK pad ka kaam, seat-kaam nahi;
+//    pre-event announcement-style; poora page archive-restricted (khul nahi paya) — REJECT.
+// 7. northeasttoday.in + adani.news, Dec 2023 — 'International Atal Award 2023': outlet dono whitelist-bahar; award/personal
+//    samman kaam nahi — REJECT.
+// 8. tripurastarnews.com, 4 Apr 2022 — Sharadapeeth Vidyaniketan School ka lokarpan (mantri ke roop me): PRE-TERM
+//    (karyakaal Mar 2023 se) + outlet explicitly rejected ('TripuraStarNews = NAHI') — REJECT.
+// 9. Indian Express, May 2022 — 'Wailing and hurling chairs: Who is Tripura minister Ramprasad Paul?' (CM badlav par kursi
+//    uchhalne ka vivad): PRE-TERM + karyakaal me koi legal development nahi — negative-criteria fail — REJECT.
+// 10. Tripura Times, 9 Feb 2026 — 'media persons place 11-point charter of demands held protest in city'
+//     (https://tripuratimes.com/ttimes/media-persons-place-11-point-charter-of-demands-held-protest-in-city-34989.html)
+//     — 800+ patrakaron ke dharna me vaktas ne aarop lagaya ki Ram Prasad Pal + Ranjit Debbarma ne 'constitutional
+//     positions' ka durupyog karke senior journalists ko harass kiya (corruption/communal comments ki reports ke baad);
+//     'The MLAs have not responded' (jawab-anupasthiti disclosed). Whitelisted + current-term + MLA khud aaropi — LEKIN
+//     FIR ya naam-daar adhikari-pusht jaanch ka KOI zikr nahi — negative threshold ('FIR YA naam-daar adhikari-pusht janch')
+//     poora nahi hota — REJECT as negative. Retry lead: is aarop par koi FIR/police complaint baad me darj hui? check karo.
+// 11. neherald.com (Northeast Herald), ~Dec 2025 — 'Legal experts term Deputy Speaker's privilege notices against editors
+//     invalid': Aajker Fariad / Tripura Bhabhishyat ke editors ko privilege notices — outlet whitelist me NAHI + ye
+//     Upadhyaksh ke SANSTHAAGAT pad ka kaam (scope: 'Upadhyaksh/Acting Speaker sansthaagat pad ke kaam NAHI') — REJECT.
+// 12. boroktimes.com, 26 Jun 2026 — Kathaltali me Samir Das (BJP leader) ki hatya par 'zero tolerance for crime' bayan,
+//     nishpaksh jaanch ki maang: outlet explicitly rejected ('Borok Times = NAHI'); MLA khud aaropi NAHI (shanti-appeal)
+//     — na kaam, na negative — REJECT.
+// 13. YouTube (tripurainfo channel) — 'Suryamaninagar MLA Ramprasad Paul decides to distribute his entire MLA allowance
+//     among party workers': YouTube source whitelist me REJECT + bhatta-bantwara = daan/political — REJECT.
+// 14. tripurainfo.com, 19 Jan 2026 — Tripura Bhavan extension (New Delhi) ka shilanyas CM ne kiya; Ram Prasad Paul
+//     'attended': maujoodgi + seat/rajya se bahar (Delhi) — REJECT.
+// 15. Tripura Times, 23 Jun 2024 — Balidan Diwas 'Udayastha Padyatra' rally (Paul ke netritva me Suryamaninagar me):
+//     party karyakram/rally — vikas kaam nahi — REJECT.
+// 16. tripurainfo.com archive, 20 Aug 2026 — 'Ram Prasad Paul clears air on subversion of blood donation camp in Dukli':
+//     outlet whitelist-bahar + Dukli Suryamaninagar seat me NAHI — REJECT.
+// 17. ramprasadpaul.org (about-us / press-release pages, poore khole): vyaktigat website par koi ITEMIZED works-list
+//     nahi — sirf vision statements ('Economic Growth', 'Healthcare for All' aadi) — dawa-badge ke layak concrete dawa
+//     bhi nahi — REJECT/skip.
+// NEGATIVES: 0 — 2023 halafname me criminal cases 0; whitelisted media me karyakaal (Mar 2023+) me Ram Prasad Paul ke
+// khilaf koi FIR, giraftari ya adhikari-pusht jaanch nahi mili. May 2022 chair-incident pre-term hai (karyakaal me legal
+// development nahi); Feb 2026 journalists-protest aarop threshold se neeche hai (wajah #10). Parivar ka koi mamla nahi,
+// chunav-yachika nahi.
+// WORKS_COUNT=0 NEGATIVES=0 REJECTS=17
+// RETRY-LEADS (comment me):
+// A. 3 Sep 2025 — 16 stalls lokarpan (Ramthakur Ashram CC Road, Moloy Nagar/Nagicherra Bypass): Tripura Times /
+//    Tripura Chronicle / ICA (DIPR) press release me 'stalls Ramthakur Ashram Suryamaninagar' dhoondo + fund disclosure
+//    (MLALAD? Block? Panchayat?) — mile to Rojgar-category news entry.
+// B. Tripura Santiniketan Medical College (Madhuban GP): parent faisla — private-structure ka vyaktigat shilanyas
+//    VALID maana jaaye? + project status (2024 se classes shuru hui? 34-institution 'knowledge city' ka haal?).
+// C. Feb 2026 journalists-harassment aarop (Tripura Times #10): baad me FIR/police complaint darj hui? Tripura Times/
+//    Chronicle Feb-Mar 2026 archive me 'Ram Prasad Pal journalist FIR' dhoondo — threshold mile to negative entry.
+// D. Aajker Fariad / Tripura Bhabhishyat ki Suryamaninagar 'ground reports' (bhrashtachar ke aarop — neherald #11 me
+//    sandarbhit): in akhbaron ki whitelisted coverage mile to jaanch-phrased negative/lead.
+// E. ICA/DIPR press releases (ica.tripura.gov.in/press-release — page JS-rendered, titles extract nahi hue) me
+//    'Ram Prasad Paul' + Suryamaninagar MLALAD itemized sanction/vitaran — sarkari source mile to 'sarkari' badge VALID.
+// F. Tripura Vidhan Sabha records — Paul ki Vidhansabha maang/prashn ka dastaveji nateeja ya mantri-ashwasan (capped credit).
+
+// ---- West Tripura district batch B END ----
