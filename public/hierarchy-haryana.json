@@ -1,0 +1,588 @@
+{
+  "state": "Haryana",
+  "stateSlug": "haryana",
+  "districts": [
+    {
+      "name": "Panchkula",
+      "slug": "panchkula",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Kalka",
+          "slug": "kalka"
+        },
+        {
+          "n": 2,
+          "name": "Panchkula",
+          "slug": "panchkula"
+        }
+      ]
+    },
+    {
+      "name": "Ambala",
+      "slug": "ambala",
+      "acs": [
+        {
+          "n": 3,
+          "name": "Naraingarh",
+          "slug": "naraingarh"
+        },
+        {
+          "n": 4,
+          "name": "Ambala Cantt",
+          "slug": "ambala-cantt"
+        },
+        {
+          "n": 5,
+          "name": "Ambala City",
+          "slug": "ambala-city"
+        },
+        {
+          "n": 6,
+          "name": "Mulana",
+          "slug": "mulana"
+        }
+      ]
+    },
+    {
+      "name": "Yamunanagar",
+      "slug": "yamunanagar",
+      "acs": [
+        {
+          "n": 7,
+          "name": "Sadhaura",
+          "slug": "sadhaura"
+        },
+        {
+          "n": 8,
+          "name": "Jagadhri",
+          "slug": "jagadhri"
+        },
+        {
+          "n": 9,
+          "name": "Yamunanagar",
+          "slug": "yamunanagar"
+        },
+        {
+          "n": 10,
+          "name": "Radaur",
+          "slug": "radaur"
+        }
+      ]
+    },
+    {
+      "name": "Kurukshetra",
+      "slug": "kurukshetra",
+      "acs": [
+        {
+          "n": 11,
+          "name": "Ladwa",
+          "slug": "ladwa"
+        },
+        {
+          "n": 12,
+          "name": "Shahbad",
+          "slug": "shahbad"
+        },
+        {
+          "n": 13,
+          "name": "Thanesar",
+          "slug": "thanesar"
+        },
+        {
+          "n": 14,
+          "name": "Pehowa",
+          "slug": "pehowa"
+        }
+      ]
+    },
+    {
+      "name": "Kaithal",
+      "slug": "kaithal",
+      "acs": [
+        {
+          "n": 15,
+          "name": "Guhla",
+          "slug": "guhla"
+        },
+        {
+          "n": 16,
+          "name": "Kalayat",
+          "slug": "kalayat"
+        },
+        {
+          "n": 17,
+          "name": "Kaithal",
+          "slug": "kaithal"
+        },
+        {
+          "n": 18,
+          "name": "Pundri",
+          "slug": "pundri"
+        }
+      ]
+    },
+    {
+      "name": "Karnal",
+      "slug": "karnal",
+      "acs": [
+        {
+          "n": 19,
+          "name": "Nilokheri",
+          "slug": "nilokheri"
+        },
+        {
+          "n": 20,
+          "name": "Indri",
+          "slug": "indri"
+        },
+        {
+          "n": 21,
+          "name": "Karnal",
+          "slug": "karnal"
+        },
+        {
+          "n": 22,
+          "name": "Gharaunda",
+          "slug": "gharaunda"
+        },
+        {
+          "n": 23,
+          "name": "Assandh",
+          "slug": "assandh"
+        }
+      ]
+    },
+    {
+      "name": "Panipat",
+      "slug": "panipat",
+      "acs": [
+        {
+          "n": 24,
+          "name": "Panipat Rural",
+          "slug": "panipat-rural"
+        },
+        {
+          "n": 25,
+          "name": "Panipat City",
+          "slug": "panipat-city"
+        },
+        {
+          "n": 26,
+          "name": "Israna",
+          "slug": "israna"
+        },
+        {
+          "n": 27,
+          "name": "Samalkha",
+          "slug": "samalkha"
+        }
+      ]
+    },
+    {
+      "name": "Sonipat",
+      "slug": "sonipat",
+      "acs": [
+        {
+          "n": 28,
+          "name": "Ganaur",
+          "slug": "ganaur"
+        },
+        {
+          "n": 29,
+          "name": "Rai",
+          "slug": "rai"
+        },
+        {
+          "n": 30,
+          "name": "Kharkhauda",
+          "slug": "kharkhauda"
+        },
+        {
+          "n": 31,
+          "name": "Sonipat",
+          "slug": "sonipat"
+        },
+        {
+          "n": 32,
+          "name": "Gohana",
+          "slug": "gohana"
+        },
+        {
+          "n": 33,
+          "name": "Baroda",
+          "slug": "baroda"
+        }
+      ]
+    },
+    {
+      "name": "Jind",
+      "slug": "jind",
+      "acs": [
+        {
+          "n": 34,
+          "name": "Julana",
+          "slug": "julana"
+        },
+        {
+          "n": 35,
+          "name": "Safidon",
+          "slug": "safidon"
+        },
+        {
+          "n": 36,
+          "name": "Jind",
+          "slug": "jind"
+        },
+        {
+          "n": 37,
+          "name": "Uchana Kalan",
+          "slug": "uchana-kalan"
+        },
+        {
+          "n": 38,
+          "name": "Narwana",
+          "slug": "narwana"
+        }
+      ]
+    },
+    {
+      "name": "Fatehabad",
+      "slug": "fatehabad",
+      "acs": [
+        {
+          "n": 39,
+          "name": "Tohana",
+          "slug": "tohana"
+        },
+        {
+          "n": 40,
+          "name": "Fatehabad",
+          "slug": "fatehabad"
+        },
+        {
+          "n": 41,
+          "name": "Ratia",
+          "slug": "ratia"
+        }
+      ]
+    },
+    {
+      "name": "Sirsa",
+      "slug": "sirsa",
+      "acs": [
+        {
+          "n": 42,
+          "name": "Kalanwali",
+          "slug": "kalanwali"
+        },
+        {
+          "n": 43,
+          "name": "Dabwali",
+          "slug": "dabwali"
+        },
+        {
+          "n": 44,
+          "name": "Rania",
+          "slug": "rania"
+        },
+        {
+          "n": 45,
+          "name": "Sirsa",
+          "slug": "sirsa"
+        },
+        {
+          "n": 46,
+          "name": "Ellenabad",
+          "slug": "ellenabad"
+        }
+      ]
+    },
+    {
+      "name": "Hisar",
+      "slug": "hisar",
+      "acs": [
+        {
+          "n": 47,
+          "name": "Adampur",
+          "slug": "adampur"
+        },
+        {
+          "n": 48,
+          "name": "Uklana",
+          "slug": "uklana"
+        },
+        {
+          "n": 49,
+          "name": "Narnaund",
+          "slug": "narnaund"
+        },
+        {
+          "n": 50,
+          "name": "Hansi",
+          "slug": "hansi"
+        },
+        {
+          "n": 51,
+          "name": "Barwala",
+          "slug": "barwala"
+        },
+        {
+          "n": 52,
+          "name": "Hisar",
+          "slug": "hisar"
+        },
+        {
+          "n": 53,
+          "name": "Nalwa",
+          "slug": "nalwa"
+        }
+      ]
+    },
+    {
+      "name": "Bhiwani",
+      "slug": "bhiwani",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Loharu",
+          "slug": "loharu"
+        },
+        {
+          "n": 57,
+          "name": "Bhiwani",
+          "slug": "bhiwani"
+        },
+        {
+          "n": 58,
+          "name": "Tosham",
+          "slug": "tosham"
+        },
+        {
+          "n": 59,
+          "name": "Bawani Khera",
+          "slug": "bawani-khera"
+        }
+      ]
+    },
+    {
+      "name": "Charkhi Dadri",
+      "slug": "charkhi-dadri",
+      "acs": [
+        {
+          "n": 55,
+          "name": "Badhra",
+          "slug": "badhra"
+        },
+        {
+          "n": 56,
+          "name": "Dadri",
+          "slug": "dadri"
+        }
+      ]
+    },
+    {
+      "name": "Rohtak",
+      "slug": "rohtak",
+      "acs": [
+        {
+          "n": 60,
+          "name": "Meham",
+          "slug": "meham"
+        },
+        {
+          "n": 61,
+          "name": "Garhi Sampla-Kiloi",
+          "slug": "garhi-sampla-kiloi"
+        },
+        {
+          "n": 62,
+          "name": "Rohtak",
+          "slug": "rohtak"
+        },
+        {
+          "n": 63,
+          "name": "Kalanaur",
+          "slug": "kalanaur"
+        }
+      ]
+    },
+    {
+      "name": "Jhajjar",
+      "slug": "jhajjar",
+      "acs": [
+        {
+          "n": 64,
+          "name": "Bahadurgarh",
+          "slug": "bahadurgarh"
+        },
+        {
+          "n": 65,
+          "name": "Badli",
+          "slug": "badli"
+        },
+        {
+          "n": 66,
+          "name": "Jhajjar",
+          "slug": "jhajjar"
+        },
+        {
+          "n": 67,
+          "name": "Beri",
+          "slug": "beri"
+        }
+      ]
+    },
+    {
+      "name": "Mahendragarh",
+      "slug": "mahendragarh",
+      "acs": [
+        {
+          "n": 68,
+          "name": "Ateli",
+          "slug": "ateli"
+        },
+        {
+          "n": 69,
+          "name": "Mahendragarh",
+          "slug": "mahendragarh"
+        },
+        {
+          "n": 70,
+          "name": "Narnaul",
+          "slug": "narnaul"
+        },
+        {
+          "n": 71,
+          "name": "Nangal Chaudhry",
+          "slug": "nangal-chaudhry"
+        }
+      ]
+    },
+    {
+      "name": "Rewari",
+      "slug": "rewari",
+      "acs": [
+        {
+          "n": 72,
+          "name": "Bawal",
+          "slug": "bawal"
+        },
+        {
+          "n": 73,
+          "name": "Kosli",
+          "slug": "kosli"
+        },
+        {
+          "n": 74,
+          "name": "Rewari",
+          "slug": "rewari"
+        }
+      ]
+    },
+    {
+      "name": "Gurugram",
+      "slug": "gurugram",
+      "acs": [
+        {
+          "n": 75,
+          "name": "Pataudi",
+          "slug": "pataudi"
+        },
+        {
+          "n": 76,
+          "name": "Badshahpur",
+          "slug": "badshahpur"
+        },
+        {
+          "n": 77,
+          "name": "Gurgaon",
+          "slug": "gurgaon"
+        },
+        {
+          "n": 78,
+          "name": "Sohna",
+          "slug": "sohna"
+        }
+      ]
+    },
+    {
+      "name": "Nuh",
+      "slug": "nuh",
+      "acs": [
+        {
+          "n": 79,
+          "name": "Nuh",
+          "slug": "nuh"
+        },
+        {
+          "n": 80,
+          "name": "Ferozepur Jhirka",
+          "slug": "ferozepur-jhirka"
+        },
+        {
+          "n": 81,
+          "name": "Punahana",
+          "slug": "punahana"
+        }
+      ]
+    },
+    {
+      "name": "Palwal",
+      "slug": "palwal",
+      "acs": [
+        {
+          "n": 82,
+          "name": "Hathin",
+          "slug": "hathin"
+        },
+        {
+          "n": 83,
+          "name": "Hodal",
+          "slug": "hodal"
+        },
+        {
+          "n": 84,
+          "name": "Palwal",
+          "slug": "palwal"
+        }
+      ]
+    },
+    {
+      "name": "Faridabad",
+      "slug": "faridabad",
+      "acs": [
+        {
+          "n": 85,
+          "name": "Prithla",
+          "slug": "prithla"
+        },
+        {
+          "n": 86,
+          "name": "Faridabad NIT",
+          "slug": "faridabad-nit"
+        },
+        {
+          "n": 87,
+          "name": "Badkhal",
+          "slug": "badkhal"
+        },
+        {
+          "n": 88,
+          "name": "Ballabgarh",
+          "slug": "ballabgarh"
+        },
+        {
+          "n": 89,
+          "name": "Faridabad",
+          "slug": "faridabad"
+        },
+        {
+          "n": 90,
+          "name": "Tigaon",
+          "slug": "tigaon"
+        }
+      ]
+    }
+  ]
+}
