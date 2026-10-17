@@ -2648,4 +2648,139 @@ chhattisgarhWorks['kunwer-singh-nishad'] = [
 // FIR, naam-daar jaanch ya vartaman-karyakaal nyayik vikas nahi mila. Family matters
 // excluded.
 
-// ---- Balod district batch END (0 works, 0 negatives) ----
+// ---- Balod district batch END (0 works, 0 negatives) ----// ---- Durg district batch (researched 2026-10-17) ----
+// 6 MLA: bhupesh-baghel (Patan, INC, purva-CM), lalit-chandrakar (Durg Gramin, BJP),
+// gajendra-yadav (Durg City, BJP, mantri Aug 2025), devendra-yadav (Bhilai Nagar, INC),
+// rikesh-sen (Vaishali Nagar, BJP), domanlal-korsewada (Ahiwara SC, BJP).
+// Foundation record pehle padhe: bhupesh-baghel 63, Patan, INC, ex-CM 17 Dec 2018-3 Dec 2023,
+// 1 affidavit case; lalit-chandrakar 49, Durg Gramin (ex DURG-RURAL), BJP, 0 cases;
+// gajendra-yadav 45, Durg City, BJP, 1 affidavit case (IPC 147/341), mantri 20 Aug 2025
+// (School Education, Village Industries, Law); devendra-yadav 33, Bhilai Nagar, INC,
+// 4 affidavit cases; rikesh-sen 42, Vaishali Nagar, BJP, 2 affidavit cases;
+// korsewada 75, Ahiwara SC, BJP, 0 cases, oldest MLA, MLA since 2008, returned 2023.
+// NAAM-JAAL: Devendra Singh Yadav (Balodabazar Congress) alag vyakti hai — uske entries
+// devendra-yadav (Bhilai Nagar) se nahi milane.
+// QA (coordinator ne khud 6 source pages padhe): Bhupesh IE Mahadev page, NBT sex-CD page,
+// HT Devendra arrest page, Haribhoomi shav-yatra page (Rs 5 lakh jurmana ka tathya page par
+// NAHI mila — worker draft me galat darj tha, hata diya), Haribhoomi bail page (URL khud
+// dhoondhi: .../news/balodabazar-violence-mla-devendra-yadav-supreme-court-bail-72458,
+// 20 Feb 2025), Bhaskar Lalit page, NBT Rikesh page. Note-grounding niyam: note me SIRF
+// cited page ke tathya (IE entry se ED/Asim Das/TOI wale tathya hata diye; NDTV entry se
+// non-page tathya hata diye; Rikesh entry poorn roop se Hinglish me likhi gayi — worker
+// English me likh aaya tha). Har MLA ka chhattisgarhWorks['<slug>'] assignment lazmi.
+// Negatives me koi stage field NAHI (verified: grep).
+chhattisgarhWorks['bhupesh-baghel'] = [
+  {
+    title: 'Mahadev app mamle me CBI FIR me purva-CM Bhupesh Baghel aaropi — nivas-parisaron par chhaape ke 6 din baad FIR me naamzad; EOW ne March 2024 me book kiya, August 2024 me case CBI ko transfer hua',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/india/cbi-books-ex-chhattisgarh-cm-baghel-in-mahadev-betting-app-case-9919177/',
+    date: '2025-04-02',
+    note: 'Indian Express (2 Apr 2025) ki reporting: Mahadev gambling app case me unke niji aur sarkari nivas-parisaron par chhaape ke 6 din baad CBI sutron ne unhe FIR me aaropi ke roop me naamzad kiya; EOW ne pehle March 2024 me unhe book kiya tha; August 2024 me case CBI ko transfer hua, CBI ne FIR darj ki (contents public nahi); FIR me unke alava 18 aur aaropi hain. Baghel ka jawab page par hai: unhone kisi shamiliyat se inkaar kiya aur ED ki karyavahi ko rajnaitik bataya. Bete Chaitanya Baghel ki ED giraftari (Jul 2025) parivar ka mamla hai — is entry se nahi jodi gayi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sex-CD mamle me 24 Jan 2026 ke charge-framing aadesh ke khilaf purva-CM Bhupesh Baghel ko High Court se antarim raahat — special CBI court ki aage ki karyavahi par rok',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navbharat Times',
+    sourceUrl: 'https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/major-relief-for-bhupesh-baghel-in-cd-scandal-high-court-stays-trial-morphed-video-of-rajesh-munat-had-gone-viral/articleshow/132738759.cms',
+    date: '2026-07-30',
+    note: 'Navbharat Times (30 Jul 2026) ki reporting: Chhattisgarh High Court (Bilaspur) ne Baghel ki yachika par antarim raahat di aur CBI ki special court me chal rahi aage ki karyavahi par rok laga di; Baghel ne 24 Jan 2026 ke special court ke aarop-tay (charge-framing) aadesh ko chunauti di thi; detailed order ka intezaar; aarop hai ki unhone BJP neta/purva mantri Rajesh Munat ki chhavi kharab karne ke liye CD viral karwayi thi; 2017 me Munat ka morphed video viral hua tha. Unka jawab page par darj nahi (anupasthiti disclosed).',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (bhupesh-baghel): 1. Bete Chaitanya Baghel ki ED giraftari (Jul 2025) — parivar ka mamla; established report me Bhupesh Baghel usi mamle me aaropi nahi = attributed NAHI. 2. Purva-CM-kaal (2018-23) ke kaam — vartaman MLA-roop ke seat-kaam nahi = excluded. 3. Retries: kala-manch lokarpan (non-whitelist), Vidhayak Nidhi itemized list (nahi mili).
+chhattisgarhWorks['lalit-chandrakar'] = [
+  {
+    title: 'MLA Lalit Chandrakar ne Ruabandha ward-2 me Rs 10 lakh ki lagat se bane Satnam Samaj ke samajik bhavan ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/durg-bhilai/news/satnam-samaj-gets-new-building-in-ruabandha-inauguration-takes-place-136888280.html',
+    date: '2026-01-06',
+    note: 'Dainik Bhaskar ki post-event reporting: MLA ne vyaktigat roop se lokarpan kiya; bhavan ki lagat Rs 10 lakh batayi gayi; bhavan Satnam Samaj ko samarpit; fund-source page par disclosed nahi. Disclosure: page par event-date timestamp nahi hai; date page-metadata ke relative timestamp (~7 mahine pehle) se anumaanit hai.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+];
+
+// REJECT-LOG (lalit-chandrakar): Hammar clinic bhoomipujan (kadwaghut), Nagpura boundary wall + Mahatari Sadan (dakshinapath), Vivekanand Marg (emsindia), Nikum college (cgmitan), Nikum Ullas Navbharat udghatan (cgmitan), Amlidih gurukul (thecgnews), PM Awas chaabi vitran (tricityexpress), Ruabandha duplicate (dainikvishwapariwar) — sab non-whitelist = retry-leads.
+chhattisgarhWorks['gajendra-yadav'] = [];
+
+// REJECT-LOG (gajendra-yadav, Durg City, mantri): 16 rejects — sab se mukhya: (1) Bhaskar 'Durg me ab school ki garmi-pariksha timing' = mantri-niyamay bhoomika, seat-kaam nahi; (2) Patrika 'Durg me Rs 42 crore ke vikas karyon ka bhoomipujan/lokarpan' = pre-event ghoshna; (3) NDTV 'Durg me 100 dinon me 50 sarkaari bhavan' = sirf ghoshna; (4) Bhaskar 'Durg me naya bus stand' = proposal-matrr; (5) Haribhoomi 'Durg me 15 smart classrooms' = mantri-bhoomika, seat-specific nahi; (6) mantri-bangalow/CM-alo house = personal; (7) rest — nagar-nigam/municipal bina vyaktigat bhoomika, ya pre-event ghoshna, ya non-whitelist.
+chhattisgarhWorks['devendra-yadav'] = [
+  {
+    title: 'Balodabazar hinsa (Rs 12 crore aagjani) mamle me Congress MLA Devendra Yadav 17 Aug 2024 ko giraftar — SP Vijay Agrawal ne teen notice/samman ke baad karyavahi ki; MLA ka jawab: karyakartaon ko jhoothe phansaaya gaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/others/cong-mla-devendra-yadav-arrested-in-100-crore-balodabazar-arson-case-101723909831897.html',
+    date: '2024-08-18',
+    note: 'HT (18 Aug 2024) ki reporting: Balodabazar hinsa mamle me Bhilai Nagar ke Congress MLA Devendra Yadav 17 Aug 2024 ko giraftar; SP Vijay Agrawal ke anusar teen notice/samman ke baad karyavahi hui; nyayik hirasat (20 Aug tak remand); dharaen 153A/120B/147/186/353/307 aur PDPP; 10 Jun 2024 ki hinsa — 100+ vahan, sarkari bhavan aur records me aag, 50+ policekarmi ghayal; sarkar ne Rs 12 crore ka dava kiya. Yadav ka jawab: Congress karyakartaon ko jhoothe phansaaya gaya, ve poochtachh ke liye upasthit hue. Bhupesh Baghel ki pratikriya: ye rajnaitik badla (political vendetta) hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Balodabazar hinsa mamle me lagbhag 6 mahine jail ke baad Supreme Court ne Bhilai Nagar MLA Devendra Yadav ko 20 Feb 2025 ko jamanat di — mantri Dayaldas Baghel: nyayalay ka faisla sarvamanya hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattishgarh/news/balodabazar-violence-mla-devendra-yadav-supreme-court-bail-72458',
+    date: '2025-02-20',
+    note: 'Haribhoomi (20 Feb 2025) ki reporting: Balodabazar hinsa mamle me lagbhag 6 mahine (17 Aug 2024 se) jail me rehne ke baad Supreme Court ne Devendra Yadav ki jamanat yachika manzoor ki; Congress ne ise satya ki jeet bataya; mantri Dayaldas Baghel ne kaha nyayalay ka faisla sarvamanya hai, us par ve tippani nahi karenge; TS Singhdeo ne bhi ise nyay ki jeet bataya. Jamanat ke baad trial ki prakriya adalat me vicharadheen rahi (Patrika 1 Aug 2026 HC report).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Balodabazar hinsa mamle me sunvai ki gati par High Court sakriya — 18 jilo ki adalaton se purane mamalon ki report talab (Aug 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Patrika',
+    sourceUrl: 'https://www.patrika.com/news/chhattisgarh-2026/chhattisgarh-high-court-seeks-report-from-18-district-courts-20198125',
+    date: '2026-08-01',
+    note: 'Patrika (1 Aug 2026) ki reporting: Bilaspur High Court ne 18 jilo ki adalaton se Devendra Yadav ke mamalon sahit purane mamalon ki nyayik prakriya ki report maangi; sunvai ki gati ab High Court ki nigrani me — vartaman karyakaal ka nyayik vikas. Unka jawab page par darj nahi (anupasthiti disclosed).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mantri Dayaldas Baghel ki prateekatmak shav-yatra nikalne par Bhilai Nagar MLA Devendra Yadav samet 17 Congress netaon par FIR — 300+ gauvansh maut par 9 May ka virodh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattishgarh/news/bhilai-minister-dayaldas-baghel-mla-devendra-yadav-fir-registered-95093',
+    date: '2026-05-12',
+    note: 'Haribhoomi (12 May 2026) ki reporting: Durg jile ke Jhiriya gaon me 300+ gauvansh ki maut ke mamle me mantri Dayaldas Baghel ki prateekatmak shav-yatra nikalne par MLA Devendra Yadav samet 17 Congress netaon par FIR; mantri ke paksh se Chandu thane me shikayat darj; 9 May ka virodh. Yadav ka jawab: hum Yaduvanshi hain, gau mata ka shoshan bardasht nahi karenge; BJP gau mata ke naam par vote leti hai. Congress ne ise janhit ka mudda bataya; BJP ne ise rajnaitik drama bataya. (Note: worker draft me darj \"Rs 5 lakh jurmana\" page par nahi mila — hata diya.)',
+    period: '2023-2028',
+  },
+  {
+    title: 'Coal-levy mamle me EOW/ACB ne Bhilai Nagar MLA Devendra Yadav ko notice diya — 5 Oct 2026 ko Raipur special court me upasthit hone ka nirdesh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV',
+    sourceUrl: 'https://mpcg.ndtv.in/videos/shows/ndtvmpcg-exclusive/cg-mla-devendra-yadav-gets-eow-acb-notice-in-coal-scam-case-10385805',
+    date: '2026-10-02',
+    note: 'NDTV (2 Oct 2026) ki video-report: Bhilai ke MLA Devendra Yadav ko EOW/ACB ne notice diya; 5 Oct 2026 ko Raipur special court me upasthit hone ka nirdesh; mamla coal-levy se juda; pehle se chargesheet dakhil; anek dharaon me mamla darj. Unka jawab page par darj nahi (anupasthiti disclosed).',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (devendra-yadav): affidavit ke pending mamle akele = negative nahi; public.app/FB leads non-whitelist.
+chhattisgarhWorks['rikesh-sen'] = [
+  {
+    title: 'BSP me loha-kabad chori ka mudda Vaishali Nagar MLA Rikesh Sen ne lagatar uthaya — rajya sarkar ne 25 Sep 2026 ko CBI janch ko sahmati di; 21 giraftariyan, Rs 3.22 crore ka maal zabt',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Navbharat Times',
+    sourceUrl: 'https://navbharattimes.indiatimes.com/state/chhattisgarh/raipur/chhattisgarh-government-approves-cbi-probe-into-iron-theft-case-at-bhilai-steel-plant/articleshow/134565425.cms',
+    date: '2026-09-29',
+    note: 'NBT (29 Sep 2026) ki reporting: Bhilai Steel Plant me loha-kabad chori ki janch ab CBI karegi; rajya sarkar ne 25 September 2026 ko adhisuchna jaari ki; Vaishali Nagar MLA Rikesh Sen ne mudda lagatar uthaya (page ke anusar) aur unhone Union Home Minister Amit Shah, CM Vishnu Deo Sai aur Dy CM Vijay Sharma ka aabhar jataya; Purani Bhilai thane ka mamla; flue dust me chhipakar chori ka tarika; 21 log giraftar (BJP padadhikari aur BSP adhikari samet); Rs 3.22 crore ka scrap, vahan aur machine zabt; May 2026 me police ne Hathkhoj ke vyapari se maal baramad kiya. Disclosure: yeh Vidhansabha-maang ka dastaveji nateeja hai (bhautik nirman nahi); janch ka faisla rajya sarkar ka tha.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (rikesh-sen): college Rs 4.98 crore PM-USHA sanction (dailychhattisgarh, Haribhoomi page 404), Rs 9.16 crore road bhoomipujan (cgbhaskar), Rs 5.25 crore Priyadarshini sanction (cgbhaskar), Rs 2.78 crore market works (thecgkhabar), 41 anganwadi (dailychhattisgarh), 16 Gen Z schemes ghoshna (patrika), AI chatbot (haribhoomi), PM Awas mulakat (haribhoomi, maang-matrr), Rs 1 spectacles (haribhoomi, daan), free water plant (bhaskar, daan) — sab non-whitelist ya rule-excluded = retry-leads.
+chhattisgarhWorks['domanlal-korsewada'] = [];
+
+// REJECT-LOG (domanlal-korsewada): whitelisted leads nahi mile (non-whitelist leads matrr); retries: Vidhayak Nidhi itemized list.
+
+// ---- Durg district batch END (2 works, 7 negatives) ----
