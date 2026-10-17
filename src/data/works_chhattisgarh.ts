@@ -2855,6 +2855,27 @@ chhattisgarhWorks['dayal-das-baghel'] = [
 // Patrika, Navbharat, Haribhoomi, established outlet par PTI) par nahi mili.
 // Sab off-whitelist sources reject-log me.
 chhattisgarhWorks['bhawna-bohra'] = [
+  {
+    title: 'Pandariya vidhayika Bhawna Bohra ne gaon Chhirpani me Rs 13.78 crore ki sinchai aur jal-sanrakshan pariyojnaon ka bhoomipujan khud kiya',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas-bhoomi pujan',
+    sourceLabel: 'The Hitavada, 10 Dec 2025',
+    sourceUrl: 'https://www.thehitavada.com/Encyc/2025/12/10/mla-bohra-performs-bhoomipujan.html',
+    date: '2025-12-10',
+    note: 'The Hitavada (Staff Reporter) ki post-event story ke anusaar, Pandariya MLA Bhavna Bohra (page me naam ka spelling "Bhavna"; foundation me "Bhawna") ne gaon Chhirpani, Pandariya AC (Kabirdham jila) me sinchai aur jal-sanrakshan pariyojnaon — kul laagat Rs 13.78 crore — ka bhoomipujan swayam kiya; unhone karyakram me kisanon aur graminon ko sambodhit bhi kiya. Pariyojnaon me Mahidbra reservoir head works, nahar structures ka navinikaran, do VRB ka nirmaan, main canal ki CC lining, Agar nadi par anicut, Kanhaiya Nala me anicut-cum-causeway aur ek lift irrigation scheme shamil hain. MLA ne kaha in pariyojnaon se sinchai vistaar hoga, varsha-jal sanrakshan aur bhujal star me sudhaar hoga, garmi me bhi saal-bhar paani upalabdh rahega, aur Kharif-Rabi dono faslon ki paidavar badhegi; kisan sabzi aur fasal-diversification se aay badha payenge. Unhone CM Vishnu Dev Sai aur Finance Minister OP Choudhary ko samarthan ke liye dhanyavaad diya. Credit/fund disclosure: page me yah nahi likha ki pariyojnayein Vidhayak Nidhi se swikrit hain — ve sarkari samarthan wali prateet hoti hain (MLA ne CM/FM ke samarthan ka ullekh kiya); swikriti aadesh, nirmaan agency ya karyanvayan ki sthiti ka vivran page me nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa — Pandariya kshetra me Rs 121 crore se adhik ki sinchai aur infrastructure pariyojnayein pehle se under implementation hain',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Hitavada, 10 Dec 2025',
+    sourceUrl: 'https://www.thehitavada.com/Encyc/2025/12/10/mla-bohra-performs-bhoomipujan.html',
+    date: '2025-12-10',
+    note: 'Usi The Hitavada ki Chhirpani bhoomipujan story me darj hai ki MLA Bohra ne karyakram me dawa kiya ki Pandariya kshetra me sinchai aur infrastructure pariyojnayein — kul Rs 121 crore se adhik — pehle se under implementation hain, jinme river diversion schemes, reservoir development, nahar remodeling aur expansion shamil hain aur jinse gramin rozgar paida ho raha hai. Ekmatra aadhaar MLA ka apna bayaan hai ("Bohra also highlighted that" ke roop me darj); swatantra pushti, swikriti aadesh, agency ya pratyek pariyojna ka vivran page me nahi hai.',
+    period: '2023-2028',
+  },
 ];
 
 // REJECT-LOG (bhawna-bohra):
@@ -2926,3 +2947,61 @@ chhattisgarhWorks['vijay-sharma'] = [
 // 9. Grih-mantri bhoomika: Loharidih ghatna par bayan, Kawardha-Bemetra marg par stray cattle inspection/fatkar, Bijapur encounter par bayan, Rahul Gandhi detention par bayan — rajya-stariya law-and-order bhoomika; mantri-niyam se excluded = REJECT.
 // 10. Negative: Oct 2021 Kawardha sampradayik hinsa me FIR (danga bhadkane ke aarop), giraftari + jamanat — pre-term; PTI/ADR/timesnow (Oct-Dec 2023) reporting; 2023-2028 karyakaal me established media me koi nayi legal development (chargesheet/sunvai/saza) report nahi hui; halafname pending akele negative nahi = negative entry nahi banayi gayi.
 // ---- Kabirdham district batch END (1 work, 0 negatives) ----
+
+// ---- Khairagarh-Chhuikhadan-Gandai district batch (researched 2026-10-17) ----
+chhattisgarhWorks['yashoda-nilamber-verma'] = [];
+// REJECT-LOG (yashoda-nilamber-verma, Khairagarh, INC): Naidunia e-paper (19 Sep 2026, p.16) Khauda samudayik bhavan+dome shed lokarpan — worker ne Naidunia ko apne aap whitelist me maan liya tha; coordinator ne REJECT kiya — Naidunia CG whitelist me nahi hai (pichhle batches me bhi whitelist-bahar rakha gaya tha). Retry-lead: Bhaskar/Patrika/Haribhoomi/Navbharat/Hitavada me whitelisted coverage mile to entry. Baaki leads sab whitelist-bahar + pre-term + maang/upasthiti (khabarkhairagariya Rs 43L/5 kaam, dailychhattisgarh Sandi school 2024, khabronkaprahri Rasaota Rs 30L, public.app Salhewara tin-shed ghoshna, CM Sai Rs 611cr karyakram me upasthiti, Vidhan Sabha ambulance-maang, Raut nritya/shraddhanjali upasthiti). Negatives: halafname me 0 cases; current term me koi FIR/chargesheet/janch/nyayik vikas established media me nahi.
+// ---- Khairagarh-Chhuikhadan-Gandai district batch END (0 works, 0 negatives) ----
+
+// ---- Rajnandgaon district batch (researched 2026-10-17) ----
+chhattisgarhWorks['harshita-swami-baghel'] = [
+  {
+    title: 'Maa Bamleshwari pahadi ki talhatti me Kabir Gurudwara sthal par Vidhayak Nidhi se bore khanan ki swikriti aur bhoomi-pujan',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/rajnandgaon/dongargarh/news/bhoomipujan-done-for-bore-mining-136206357.html',
+    date: '2025-10',
+    note: 'Dainik Bhaskar reports MLA Harshita Swami Baghel ne Vidhayak Nidhi (MLALAD) se Kabir Gurudwara sthal (Maa Bamleshwari pahadi ki talhatti, Dongargarh) me bore khanan ke liye rashi swikrit ki aur uska bhoomi-pujan kiya; samaj ke padadhikari, Manikpuri Kabir Gurudwara samiti aur Aminmata mahila samiti ke log maujood the. Swikrit rashi ka ankda article ke dikhai dene wale hisse me nahi hai. Post-event reporting.',
+    period: '2023-2028',
+    stage: 'shilanyas-bhoomi pujan',
+  },
+  {
+    title: 'Guru Ghasi Das Jayanti ke avsar par gram Mudhipar me joda Jaitkham ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/chhattisgarh/rajnandgaon/dongargarh/news/jaitkham-was-inaugurated-in-mudhipar-136727479.html',
+    date: '2025-12-18',
+    note: 'Dainik Bhaskar reports MLA Harshita Swami Baghel ne Guru Ghasi Das Jayanti ke avsar par apne Dongargarh kshetra ke kai gaon (Karela Para, Khursi Par, Irai Khurd, Rengakathera (Bakht), Tendu Bhatha, Belgaon) ke karyakramon me shirkat ki aur gram Mudhipar me joda Jaitkham (Satnami samaj ka smarak) ka lokarpan kiya. Jaitkham ke nirmaan ka fund source article ke dikhai dene wale hisse me nahi hai. Post-event reporting; tithi Jayanti (18 December) se tay ki gayi, article December 2025 ka hai.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (harshita-swami-baghel, Dongargarh SC, INC): aajkaaalap 154-kaam swikriti (whitelist-bahar + aggregate ginati); Haribhoomi Basula Mini Mata murti-vivad (koi FIR/janch nahi, mukhya atithi ex-CM the — na work, na negative); Bhaskar Lachna Tola CC-road bhoomipujan me sirf maujoodgi (vyaktigat shrey spasht nahi); Bhaskar Kosaria Marar Patel samaj bhavan lokarpan (nishkriya vaakya); Vidhan Sabha sadak-marammat prashn (maang); diarrhea-visit daura (nirikshan); shouryapathnews leads (whitelist-bahar + pre-MLA "zila sadasya" kaal); krantikarisandesh Harduva (whitelist-bahar + upasthiti); visiontimes budget saugat (whitelist-bahar + ghoshna). Negatives: 0 cases; koi FIR/chargesheet/janch/nyayik vikas nahi.
+chhattisgarhWorks['raman-singh'] = [
+  {
+    title: 'Dr. Raman Singh ne Rajnandgaon ke Padumlal Punnalal Bakshi shaskiya school me Space Education Lab aur Planetarium ka shubharambh kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Haribhoomi',
+    sourceUrl: 'https://www.haribhoomi.com/state-local/chhattishgarh/news/rajnandgaon-dr-raman-singh-inaugurates-space-education-lab-distributes-6100-bicycles-students-101725',
+    date: '2026-06-27',
+    note: 'Jila-stariya shala praveshotsav (27 Jun 2026) me Vidhan Sabha Adhyaksh Dr. Raman Singh ne Padumlal Punnalal Bakshi Shaskiya Utkrisht Angrezi evam Hindi Madhyam Vidyalaya, Rajnandgaon me vidyarthiyon ke liye aadhunik Space Education Lab evam Planetarium ka shubharambh kiya. Fund ka ullekh Haribhoomi report me nahi. Speaker-niyam: vyaktigat lokarpan (seat-bhoomika), credit-transparency ke saath.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (raman-singh, Rajnandgaon, BJP, Speaker): Speaker-pad ke kaam (assembly protocol/samaroh) + CM-kaal (2003–2018) ke kaam excluded. btnewsindia Rs 20.01cr mandi bhoomipujan; khabarwala Rs 25.62cr nagar-nigam bhoomipujan; Amar Ujala Rs 44cr auditorium bhoomipujan (whitelist-bahar); aajkaaalap Nalanda Parisar Rs 12cr bhoomipujan (whitelist-bahar); onlinebulletin hockey astroturf Rs 6.04cr swikriti (whitelist-bahar); ujjwalpradesh Khelo India track Rs 9.50cr (whitelist-bahar); shatabditimes Rs 13.81cr/96-kaam bhoomipujan (whitelist-bahar); visiontimes Rs 23.70cr bhoomipujan (whitelist-bahar); Oct 2018 Digvijay Stadium + medical college (CM-kaal); Saraswati Cycle Yojana 6100 cycles vitaran (yojana-vitaran); commerce-sthayi dome GHOSHNA; railway samiksha baithak (nirikshan); budget Rs 1000cr pravdhan (ghoshna); PM Surya Ghar samman samaroh; NHM niyukti patra vitaran; birthday concert (samaroh). Negatives: current term me FIR/chargesheet/janch ki established-media report nahi.
+chhattisgarhWorks['daleshwar-sahu'] = [];
+// REJECT-LOG (daleshwar-sahu, Dongargaon, INC): Vidhansabha patta-sawal par Rajasva mantri ka dastaveji jawab (Haribhoomi, 14 Feb 2024) — SOURCE PAGE NAHI KHULTA: browser.open DNS fail (www1.haribhoomi.com); worker ka entry-draft sirf search-extraction par aadharit tha; URL slug "mla-sharma-raised-questions" pehchan par bhi shanka — strict note-grounding rule par ENTRY NAHI bani; retry-lead (live-browser verification ke baad hi). Baaki: dailychhattisgarh Yadav Bhawan udghatan (whitelist-bahar); aajkaaalap FY24-25 122-kaam aggregate (whitelist-bahar + ginati-matra); lalluram farmhouse leaf-machine ghoshna (whitelist-bahar + pre-event); ibc24 Kutadih-Bodela sadak bayan (whitelist-bahar + apust ashwasan); aajkaaalap Boratlav daura (nirikshan); newsplus7 Sao karyakram me upasthiti; ibc24 'Baleshwar Sahu' KCC — NAAM-JAAL, alag vyakti (Baleshwar ≠ Daleshwar); AajTak/ABP candidate profiles (chunav coverage); nwnews24 CM karyakram upasthiti. Negatives: 0 cases; koi FIR/chargesheet/janch/nyayik vikas nahi (farmhouse vivad me BJP andaruni shikayat matra, koi FIR nahi).
+chhattisgarhWorks['bholaram-sahu'] = [];
+// REJECT-LOG (bholaram-sahu, Khujji, INC): Bhaskar Datrengatola dome-shed bhoomipujan me sirf upasthiti (vyaktigat shrey spasht nahi); Bhaskar Gaindatola road dharna (maang); Bhaskar Umrawahi college demand (maang); karmajayanti/blood-donor samaroh (mukhya-atithi); aajkaaalap 60-MLALAD-daawa (whitelist-bahar, lead); aajkaaalap PMAY nirikshan (nirikshan); News18 Rajyotsav (dusre ka karyakram); Patrika shok-mulakat. Naam-jaal rejects: Bilaspur block-adhyaksh Bholaram Sahu, Chhanni Sahu ke pati ka 2021 case, "Bhojram Sahu" — sab alag vyakti. cgvidhansabha.gov.in yahan se unreachable — VS prashn-verify pending. Negatives: 0 cases; koi FIR/chargesheet/janch/nyayik vikas nahi.
+// ---- Rajnandgaon district batch END (3 works, 0 negatives) ----
+
+// ---- Mohla-Manpur-Ambagarh Chowki district batch (researched 2026-10-17) ----
+chhattisgarhWorks['indrashah-mandavi'] = [
+];
+// REJECT-LOG (indrashah-mandavi, Mohla-Manpur ST, INC): current-term seat-kaam established sources me nahi mila (14+ searches). Pre-term rejects: bhaskarhindi smart-TV donation (2020), Patan smart class (2020), Rajnandgaon water plant (2020, mantriyon ka kaam); khabarwala Manpur SDM bhavan (Sep 2023, pre-term + whitelist-bahar); dailychhattisgarh Aundhi/Khadgaon tehsil bhavan Rs 142.24L (FY22-23, pre-term); Parsatola/Dumaraghuncha/Gym/Aanganbadi lokarpan-bhoomipujan (2022, pre-term + whitelist-bahar); public.app Plandur/Kaneri-Pardi leads (whitelist-bahar); Baler school letter (whitelist-bahar + maang); haribhoomi Vikas Bharat Yatra virodh (bayan), panchayat payment press-conference (issue raising, documented kaam nahi), Khelo CG shubhkamna; kadwaghut health camp directive (whitelist-bahar); chaturpost 101 VS prashn (whitelist-bahar, nateeja nahi); dailychhattisgarh panchayat analysis. patrika hits Vikram Mandavi (Bijapur, BJP) ke — galat vyakti. Negatives: 0 cases; koi FIR/chargesheet/janch/nyayik vikas nahi.
+
+// ---- Mohla-Manpur-Ambagarh Chowki district batch END (0 works, 0 negatives) ----
