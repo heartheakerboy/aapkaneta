@@ -1819,3 +1819,423 @@ haryanaWorks['randhir-panihar'] = [
 // R-15. haribhoomi.com, Oct 2025 — CM Nalwa rally me MLA ne Azad Nagar me aspatal aur Chaudhriwas me health centre ki maang rakhi — non-whitelist outlet + sirf maang = REJECT.
 // R-16. Halafname (myneta.info, candidate_id=221): criminal cases 0 — halafname se koi negative nahi nikala.
 // R-17. Retry leads: Dainik Bhaskar/Jagran/Amar Ujala ke Hisar sanskaranon me Panihar Chowk HRDF lokarpan ke aage ke updates (cooler/water-tank maintenance); Nalwa/Heesar ke kisi MLALAD sanction list (Budget 2025-26 me Haryana MLALAD Rs 5 crore per MLA poore karyakaal ke liye dobara shuru) me Panihar dwara sifarishit itemized list online nahi mili — DC-office route se manual verify sambhav.
+// ---- Bhiwani district batch (researched 2026-10-17) — Batch 5 ----
+
+haryanaWorks['rajbir-fartia'] = [
+  {
+    title: 'Dhigawa Jatan ke rajkiya varishth madhyamik vidyalaya ke adhure bhavan nirmaan ke liye rajya sarkar ne Rs 685.99 lakh ki prashasnik swikriti di; MLA ne vidhansabha ke prashnkal me mudda uthaya tha',
+    category: 'School',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/bhiwani/68599-lakhs-approved-for-construction-of-school-building-in-dhigawa-jatan-bhiwani-news-c-125-1-shsr1009-131377-2025-03-17',
+    date: '2025-03-17',
+    note: 'Amar Ujala ke mutabik Dhigawa Jatan (Loharu seat) ke rajkiya varishth madhyamik vidyalaya ka bhavan nirmaan 2016 se lambit tha; Loharu ke MLA Rajbir Singh Fartia ne vidhansabha ke prashnkal me is mudde ko majbooti se uthaya, jispar rajya sarkar ne Rs 685.99 lakh ki prashasnik swikriti de di aur nirmaan karya jald shuru hone ki sthiti bani. Inferred date: page text me alag timestamp nahi mila; article URL slug me publish date 2025-03-17 darj hai.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (Rajbir Fartia, Loharu)
+// R-1. Dainik Bhaskar ('Loharu martyr Balbir Mann statue unveiled', Sudhiwas gaon) — pratima gaon/parivar ne sthapit ki thi, MLA ne sirf anavaran kiya; sarkari sanrachna nahi aur '2 varsh pehle' (period se pehle) ka; REJECT.
+// R-2. jantaserishta.com ('Loharu: Rajbir Fartia ne vidhansabha me sarkar se manga Rs 435 crore', budget session) — sirf maang (kapas Rs 350 crore + sarson Rs 85 crore muaavza), koi dastaveji natija/ashwasan nahi; REJECT.
+// R-3. haryanaassembly.gov.in un-starred question list — MLA ke Bahal gaon ke peya jal aur sewerage system par sirf prashn; jawab/natija dastavej me nahi mila; REJECT.
+// R-4. carbonmedia.in ('Bhiwani ke 11 gaon me Congress vidhayak ka daura') — dhanyavaad yatra/sirf daura, koi kaam nahi; REJECT.
+// R-5. Dainik Bhaskar ('Kanya Sagun Muhim', Barwas) — MLA team dwara shaadi me Rs 1,01,000 ka daan; daan/rahat kaam; REJECT.
+// R-6. bhiwanihalchal.com ('Loharu Development', Rs 1.42 crore) — nagar palika pradhan Pradeep Banti Tayal ke karya; MLA ki bhoomika ka zikr nahi; REJECT.
+// R-7. Dainik Bhaskar ('Bhiwani Congress Rally', 76kg kela sammaan) — party sadasyata karyakram; REJECT.
+// R-8. Punjab Kesari (30 Oct 2025) — MLA ke bete Yogesh Fartia ki shaadi; parivar ka mamla; REJECT.
+// R-9. Haribhoomi / Amar Ujala (May 2024) — chunavi karyalay udghatan par samarthkon ki haathaapai; period se pehle + MLA khud aaropi nahi; REJECT.
+// R-10. 'Rajbir Ghuman' (Punjab CM ke OSD) par SC/CBI/ED khabren — namesake jaal, Loharu MLA Rajbir Fartia se sambandhit nahi; REJECT.
+// R-11. Hindusthan Samachar agency copy (Vocal TV, 2025-03-20) — Loharu aspatal 50 se 100 bed upgrade par MLA ne sadan me sarkar ka aabhaar jataaya; Health Minister ne 551 doctor joining ke baad khali pad bhare jane ka aashwasan diya — established/whitelisted outlet par prakashit nahi (Vocal TV whitelist par nahi); REJECT. Retry: The Tribune/Bhaskar/Jagran me Loharu hospital upgrade + 551-doctor assurance par whitelisted post-event coverage khojo.
+// Negatives: koi nahi. Affidavit (myneta.info / ADR via News18-Jansatta) me 0 criminal cases; sthapit media me MLA ke khilaf Oct 2024 ke baad koi FIR/chargesheet/janch/nyayik vikas nahi mila.
+
+haryanaWorks['ghanshyam-saraf'] = [
+  {
+    title: 'MLA Ghanshyam Saraf ne Fancy Chowk Bhiwani me toote manhole ki repair ka nariyal phodkar udhghatan kiya, shehar me sewerage overhaul ka kaam shuru',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/sewerage-set-for-overhaul-in-bhiwani-claims-mla/',
+    date: '2025-01-21',
+    note: 'The Tribune ke mutabik Bhiwani MLA Ghanshyam Saraf ne Fancy Chowk me nariyal phodkar kharab manhole ki repair ka udhghatan kiya; state authorities ne toote pipes ki overhaul aur repair ka kaam shuru kiya tha. SDO Surajprakash Jain ke mutabik repair me lagbhag 18 feet gehri sewer line ki khudai shamil thi. MLA ne kaha ki repair poori hone par Baag Kothi, Nehru Colony aur Kriparam Ki Dhani me seepage se dusht peya jal ki samasya poori tarah khatm ho jayegi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ghanshyam Saraf ne Bhiwani ke wards 1, 2, 3 me lagbhag Rs 7.5 crore ke sadak, stormwater pipeline aur water booster ke vikas karyon ka shubharambh kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune (dainiktribuneonline.com)',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/gurugram/city-council-gifts-three-wards-in-bhiwani-begins-development-work-worth-rs-7-5-crore/',
+    date: '2026-09-19',
+    note: 'Dainik Tribune ke mutabik Nagar Parishad ne Bhiwani ke ward 1, 2 aur 3 (Sector-13, Sector-23, Rajeev Colony) me lagbhag Rs 7.5 crore ke vikas karyon ka shubharambh kiya, jisme MLA Ghanshyam Saraf aur nagar parishad chairperson pratinidhi Bhawani Pratap Singh ne nariyal phoda. Karyon me polytechnic college ke saamne aur doosri taraf sadak, vriddhashram se booster tak sadak, Rajeev Colony chowk se boxing club tak sadak, ward 1 me barish ke paani ki nikasi ke liye nayi pipeline aur Sector-23 ki bachi sabhi galiyon ka lagbhag Rs 2.5 crore me nirmaan shamil hai; Nagar Parishad dwara taiyaar boosters ko sectorwasion ko samarpit kiya gaya. Inferred date: page par timestamp Sep 20, 2026 subah 4:22 AM aur updated Sep 19, 2026 shaam 6:19 PM dikha raha hai; karyakram Sep 19 ko hua isliye date 2026-09-19 li gayi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA Ghanshyam Saraf ne Bhiwani ke wards 11, 12, 13 me Rs 6 crore ki lagat se lagbhag 50 galiyon ke nirmaan ka shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/bhiwani/50-streets-across-three-wards-will-be-constructed-at-a-cost-of-6-crore-bhiwani-news-c-125-1-shsr1009-157367-2026-09-20',
+    date: '2026-09-20',
+    note: 'Amar Ujala ke mutabik Nagar Parishad ne wards 11, 12 aur 13 ki lagbhag 50 galiyon ke nirmaan ke liye Rs 6 crore ka budget manzoor karke kaam shuru karaya; Ravivar ko MLA Ghanshyam Saraf aur nagar parishad chairperson pratinidhi Bhawani Pratap Singh ne nariyal phodkar nirmaan karyon ka shubharambh kiya. Galiyon me Bank Colony, Triveni kshetra, Kont Road, dog farm ke peeche ki galiyan, Juglal school kshetra aur Kartik hotel ke aaspaas ki galiyan shamil hain.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (Ghanshyam Saraf, Bhiwani)
+// R-1. Amar Ujala 14 Aug 2024 ('34 Projects Worth Rs 197 Crores Inaugurated') — period se pehle ka (Oct 2024 se pehle) + district-level karyon ka CM dwara video-conference udhghatan, MLA sirf chief guest; REJECT.
+// R-2. ETV Bharat (Sep 2026) — 'Bhiwani ke liye badi vikas yojnaon ki mang karenge' — sirf maang/future intent, koi dastaveji natija nahi; REJECT.
+// R-3. pinewz.com (Oct 2025) — PM Modi ke Haryana daure ki rally meeting; PM dwara Pandit Nekiram Medical College Bhiwani ka virtual udhghatan — kendriya neta ka kaam, MLA ki vyaktigat bhoomika nahi + pre-event announcement; REJECT.
+// R-4. haryanakesarinews.blogspot.com (Aug 2026) — Sector-13 ke 5 parks aur Shanti Nagar ki 8 galiyan Rs 80 lakh — established outlet nahi (blogspot); REJECT.
+// R-5. lalluram.com (Oct 2026) — Vikas Nagar residents ka MLA awas par protest — vikas kaam nahi; REJECT.
+// R-6. public.app video (Aug 2025) — Loharu me Independence Day par jhandarohan, mukhya atithi — samarohik upasthiti, vikas kaam nahi; REJECT.
+// R-7. The Tribune (Apr 2026) — MLA ki patni/bachon par illegal colony ka FIR — parivar ka mamla, MLA khud aaropi nahi ('I have nothing to do with the land'); negative-criteria me parivar ke mamle excluded, isliye negative entry nahi banayi; REJECT.
+// R-8. Dainik Tribune (Oct 2026) — EC clarification / SIR par MLA ka bayaan — rajneetik bayaan, vikas kaam nahi; REJECT.
+// R-9. Dainik Tribune (Sep 2026) — 7.5 crore wali khabar me dushit paani ki shikayat par MLA dwara PHED/HSVP adhikariyon ko phone par nirdesh — sirf maukhik nirdesh, dastaveji natija nahi; REJECT.
+// R-10. Vidhan Sabha prashn/maang ka koi dastaveji natija ya mantri-ashwasan established media me nahi mila — koi entry nahi.
+
+haryanaWorks['shruti-choudhry'] = [
+  {
+    title: 'Shruti Choudhry ne Tosham me Rs 230 lakh ki e-library ka shilanyas kiya.',
+    category: 'School',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Dainik Tribune report ke mutabiq Tosham Vidhan Sabha kshetra ke daure me mantri ne Tosham me lagbhag Rs 230 lakh ki lagat se e-library ka shilanyas kiya. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Miran me Rs 996.49 lakh ki jalsupply pariyojana ka shilanyas kiya.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Report ke mutabiq Miran gaon me lagbhag Rs 996.49 lakh ki lagat se RCC sand filter tank, pump chamber, suction well, CC path, pumping machinery aur water treatment plant se sambandhit karyon ka shilanyas kiya gaya. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Miran me Rs 77 lakh ki grey water management pariyojana ka udhghatan kiya.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Report me Miran me lagbhag Rs 77 lakh ki lagat se taiyar grey water management pariyojana ka udhghatan darj hai, yani pariyojana poorn ho chuki thi. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Dhani Miran me Rs 336.95 lakh ki jalsupply pariyojana ka shilanyas kiya.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Report ke mutabiq Dhani Miran me lagbhag Rs 336.95 lakh ki lagat se RCC sand filter tank, high level tank tatha kacche aur saaf paani ke liye suction well sahit anya karyon ka shilanyas kiya gaya. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Riwasa me Rs 997.24 lakh ki jalsupply pariyojana ka shilanyas kiya.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Report ke mutabiq Riwasa me lagbhag Rs 997.24 lakh ki lagat se Nigana feeder par kacche paani ki vyavastha, pumping station, rising main, maujuda water works ke upgradation aur vitaran pranali se sambandhit pariyojanaon ka shilanyas kiya gaya. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Sagwan me Rs 999.94 lakh ki jalsupply pariyojana ka shilanyas kiya.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Report ke mutabiq Sagwan me lagbhag Rs 999.94 lakh ki lagat se jalsupply vyavastha ke samvardhan, navinikaran va vitaran pranali, SS tank, 1 MLD water treatment plant, do CWT, pump chamber aur pumping machinery se sambandhit karyon ka shilanyas kiya gaya. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Dang Khurd me Rs 802.64 lakh ki jalsupply pariyojana shuru karwai.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/tosham-gets-development-projects-worth-rs-44-40-crore/',
+    date: '2026-09-05',
+    note: 'Report me Dang Khurd me lagbhag Rs 802.64 lakh ki lagat se SS tank, 0.50 MLD water treatment plant aur do CWT ki pariyojana shuru karwai gayi. Date reasoning: article 05 Sep 2026 ko update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 05 Sep 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Shruti Choudhry ne Tosham block ke vibhinn gaon me Rs 564.97 lakh ki 17 vikas pariyojanaon ka udhghatan aur shilanyas kiya.',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/the-unfulfilled-dreams-of-chaudhary-bansilal-and-surendra-singh-will-be-fulfilled-at-any-cost-shruti-chaudhary/amp',
+    date: '2026-03-28',
+    note: 'Report ke mutabiq Tosham block ke vibhinn gaon me 564.97 lakh rupaye ki lagat se 17 vikas pariyojanaon ka udhghatan aur shilanyas kiya gaya; article me gaon-wise ya vibhag-wise vivaran nahi diya gaya. Kairu block ki pariyojanaon ko entry me shamil nahi kiya gaya kyunki Kairu alag Vidhan Sabha seat hai. Date reasoning: article 28 Mar 2026 ko 20:36 IST par update hua aur ghatna ko "shanivaar" bataya gaya hai, aur 28 Mar 2026 shanivaar tha.',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (Shruti Choudhry, Tosham)
+// R-1. The Week (PTI), 08 Aug 2025 — Dang Khurd, Dang Kalan, Sagwan, Biran, Bapora gaon ka jaljamav nirikshan daura: keval adhikariyon ko nirdesh, koi bhautik pariyojana ka lokarpan/shilanyas nahi; sirf nirikshan/daura rule par REJECT.
+// R-2. The Tribune, Mar 2026 ("Minister pays tribute... launches projects") — IMT ki CM ghoshna (ghoshna bina GO/list ke), 31 Mar ka Unnat Sinchai Utsav (sarkari abhiyan ka shubharambh + pre-event announcement), aur "croron rupaye ki pariyojanaen" ka bina-vivaran wala jikr; entry-worthy vyaktigat lokarpan/shilanyas detail nahi; REJECT.
+// R-3. The Tribune, IMT Tosham story (Kiran Chaudhary MP ke bayan par aadharit) — sirf ghoshna, MLA ka vyaktigat lokarpan/shilanyas nahi; REJECT.
+// R-4. atalhind.com — Kairu me shaheed Rajesh Kumar ki pratima ka anavaran aur sports event me mukhya atithi: Kairu seat (Tosham) ke bahar, aur established outlet nahi; REJECT.
+// R-5. atalhind.com — Jui mandi me bajra khareed ka auccha nirikshan: established outlet nahi, keval nirikshan; REJECT.
+// R-6. 5dariyanews — Rohtak (Rs 52 crore, 26 pariyojanaen) aur Mahendragarh (Rs 1400 lakh) ki pariyojanaen: seat ke bahar aur established outlet nahi; REJECT.
+// R-7. 5dariyanews, 29-Sep-2026 — Tosham constituency me Rs 25.34 crore ki pariyojanaen: established outlet nahi; REJECT.
+// R-8. Dainik Tribune, Mar 2026 article ka Kairu block hissa (sinchai Rs 204.90 lakh, janswasthya Rs 102 lakh, panchayat lagbhag Rs 32 crore): seat ke bahar (Kairu alag seat); REJECT.
+// R-9. Hindustan Times, 2014 — Bhiwani murder case me Shruti Chaudhry ke khilaf yachika par HC notice: Oct 2024 se pehle ka mamla, Oct 2024 ke baad koi nyayik vikas nahi mila; negative criteria poori nahi; entry NAHI, keval log me darj.
+// Negative check: ThePrint/PTI (18 Oct 2024, ADR report) ke mutabiq kisi bhi naye mantri ne aparaadhik mamla ghoshit nahi kiya, Shruti Choudhry sahit; Oct 2024 ke baad MLA ke khilaf FIR/chargesheet/janch ki koi established-media report nahi mili — koi negative entry nahi.
+
+haryanaWorks['kapoor-singh'] = [
+  {
+    title: 'Bawani Khera bypass se Kungad aur Pur hote hue Bhiwani-Hansi highway ko NH-148 se jodne wale link road ko manzoori mili, jiski maang vidhayak Kapoor Singh Valmiki ke prayason se poori hui.',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/bhiwani-bawani-khera-road-10-villages-connected-to-nh148-in-bhiwani-40408098.html',
+    date: '2026-10-17',
+    note: 'Jagran ne 2026-10-17 ko report kiya ki Bawani Khera bypass se Kungad aur Pur hote hue Bhiwani-Hansi highway ko NH-148 se jodne wale naye marg ko manzoori mil gayi hai. Report ke anusar isse 10 gaon (Pur, Kungad, Talu, Sorkhi, Mundhal Road, Dhanana, Jatai, Siwara, Mandhana) ko NH tak seedha judav milega aur 10 km ka extra chakkar bachega; gramin kareeb teen saal se ye maang utha rahe the. Report me likha hai ki vidhayak Kapoor Singh Valmiki ke prayason se ye maang sire chadhi, aur vidhayak ka bayan bhi diya gaya hai ki zaroori aupchariktayen poori hone ke baad nirmaan shuru karvane ki disha me kadam uthaye jayenge. Credit capped: nirmaan shuru hona baaki hai, sirf manzoori mili hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhan Sabha ke shunya-kaalin satra me Bawani Khera ke liye nahri paani ki maang uthane par jal-sansadhan mantri ne jaanch aur doshi adhikariyon par kaarvayi ka aashwasan diya.',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'mantri-ashwasan',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/karnal/during-zero-hour-bjp-mla-raised-the-demand-for-canal-water-with-folded-hands/',
+    date: '2025-03-19',
+    note: 'Dainik Tribune (published 2025-03-19) ke anusar 18 March 2025 ko Vidhan Sabha ke shunya kaal me Bawani Khera vidhayak Kapoor Singh Valmiki ne nahri paani ka mudda uthaya aur vibhag ke 32 dino me 8 din nahri paani chhodne ke dawe ko kharij karte hue kaha ki 2-3 din hi paani aata hai. Is par cabinet mantri Shruti Choudhry ne iski jaanch karvane ka bharosa dilaya aur kaha ki agar paani roka jata hai to doshi adhikariyon aur karmchariyon par sakht kaarvayi hogi. Credit capped: nateeja mantri ke jaanch-kaashwasan tak seemit hai, koi bhautik kaam ya swikriti nahi hui.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Haryana Krishi Vipanan Board dwara Rs 2.35 crore se swikrit Bawani Khera-Bhurtana sampark marg ke navnirman ka shubharambh vidhayak Kapoor Singh Valmiki ke haathon hua.',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/amp/haryana/bhiwani/after-four-decades-bawanikheda-bhurtana-road-will-be-reconstructed-the-road-will-be-built-at-a-cost-of-two-crore-35-lakh-bhiwani-news-c-125-1-shsr1009-135823-2025-06-21?src=ampnext',
+    date: '2025-06-22',
+    note: 'Amar Ujala ke anusar kareeb 40 saal se lambit maang ke baad Bawani Khera-Bhurtana sampark marg (gaon Bhurtana se kasba Bawani Khera jodne wala kachcha rasta) ka Rs 2.35 crore ki lagat se navnirman Haryana Krishi Vipanan Board dwara swikrit kiya gaya. Report me likha hai ki nirmaan karya ka shubharambh ravivaar subah 9:30 baje Bawani Khera ke vidhayak Kapoor Singh Valmiki ke haathon kiya jayega. Date ka reasoning: article ke URL me 2025-06-21 hai aur text me ravivaar ka shubharambh bataya gaya hai; 2025-06-21 shanivaar tha, isliye event ki date 2025-06-22 (ravivaar) maani gayi.',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (Kapoor Singh, Bawani Khera SC)
+// R-1. CM Nayab Singh Saini ki Bawani Khera Vikas Sankalp rally ki ghoshnaen (Amar Ujala 2026-09-06; ETV Bharat; Tribune 2026-09-07): 50-bed civil hospital Rs 50 cr, 33 kV sub-station Rewari Khera Rs 16.50 cr, mahila college Khark, nayi sabzi mandi, gram sachivalaya Baliyali/Jamalpur, multipurpose halls, stadium, aur CM dwara Rs 78 cr ki 7 pariyojnaon ke udhghatan/shilanyas — sab sirf CM ghoshna bina GO/list ke; MLA ki bhoomika keval maang rakhne/rally ayojit karne tak, isliye reject.
+// R-2. Guru Daksh Prajapati Dharamshala ke main gate ka udhghatan (Dainik Bhaskar, Jan 2026): mantri Ranbir Gangwa ne udghatan kiya, MLA ne keval adhyakshata ki — dusre neta ke karyakram me maujoodgi, reject.
+// R-3. Haryana Day sanskritik utsav, Bhiwani panchayat bhavan (Dainik Bhaskar): MLA vishisht atithi, deep prajjwalan — keval shubharambh me upasthiti, reject.
+// R-4. MLA aur DC ka jalbharaav ka daura (Dainik Bhaskar, ~Sep 2025): keval nirikshan/daura; DC ne pipe khareed ke nirdesh diye — sirf nirikshan, reject.
+// R-5. PWD rest house me janta darbar (pinewz, 2025-12-02): samasyaen sunna aur political bayan — koi bhautik kaam ya swikriti nahi, reject.
+// R-6. Archana Gupta samman samaroh, Bhiwani (Dainik Bhaskar): MLA keval manch par maujood — keval maujoodgi, reject.
+// R-7. Bhiwani-Hansi NH-148B, NH-709A, railway doubling, Khark Kalan waterworks jaise bade pariyojnaon ke CM ke dawe (Punjab Kesari/IANS): kendriya/rajya vibhagiya pariyojnaen, MLA ki vyaktigat bhoomika ka koi ullekh nahi, reject.
+// R-8. Public Health Dept ka tanker se paani bhejna, Bawani Khera (Dainik Bhaskar, ~Oct 2024): vibhagiya kaarvayi, MLA ki bhoomika nahi — reject.
+
+// ---- Charkhi Dadri district batch (researched 2026-10-17) — Batch 5 ----
+
+haryanaWorks['umed-singh'] = [
+  {
+    title: 'Badhra ke vidhayak Umed Patuwas ne gaon Gopi me gali sadak ko pakka karne aur shamshan ghat ke shed ke nirman ka shilanyas kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/charkhi-dadri/surpunch-association-welcomed-mla-charkhi-dadri-news-c-126-1-cdr1001-135068-2025-04-11',
+    date: '2025-04-11',
+    note: 'Amar Ujala (dateline Badhra) reports that during his tour of villages Gopi and Panchgawan, Badhra MLA Umed Patuwas personally laid the foundation stone for paving the gali road and constructing the cremation-ground shed in village Gopi. He said the years-old demand of Gopi villagers would be fulfilled with a pakki road from the phirni to the shamshan ghat.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Badhra vidhansabha ke gramain kshetron ke vikas karyon ke liye sarkar ne Rs 5 crore se adhik ki rashi jari ki, jiske liye vidhayak Umed Patuwas ne gaon ki yojnaon ko sarkar se swikrit karane ka dawa kiya.',
+    category: 'Any',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/gurugram/5-crore-released-for-the-development-of-rural-areas-of-badhra/amp',
+    date: '2026-01-09',
+    note: 'Dainik Tribune reports as fact that the state government released over Rs 5 crore for development works in the rural areas of the Badhra assembly constituency (strengthening base infrastructure, public construction works, village-level facilities). MLA Umed Patuwas, who shared the information, said plans were prepared as per the real needs of the villages and he got them approved from the government (his claim, not independently verified by the paper).',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (Umed Singh, Badhra)
+// R-1. Amar Ujala 2024-11-16 ('Badhra Mla Umesh Patuwas Raised Various Issues') — pratham satra me teen anaj mandi, Paldi PHC/CHC, tubewell connection, Kaliana-Ghasola muavza package ki maang; sirf maang, koi mantri-ashwasan ya dastaveji nateeja nahi.
+// R-2. Dainik Tribune 2025-09-24 ('Rozgar mela: vidhayak ne kiya shubharambh', ITI Kalali-Balali) — sarkari abhiyan (apprenticeship mela) ka keval shubharambh, koi bhautik sanrachna nahi.
+// R-3. Dainik Tribune 2025-08-03 ('Vidhayak Umed Patuwas ko kiya sammanit', Badhra) — kisan sangathanon dwara samman samaroh; sirf samman, koi kaam nahi.
+// R-4. Dainik Tribune 2024-10-20 ('36 biradari ke kalyan me juti sarkar') — janta darbar + sarkar ki tarif wala bhashan; koi dastaveji kaam nahi.
+// R-5. Dainik Tribune 2024-12-12 ('Halke ka vikas karwana prathmikta, jald milegi saugat') — janta darbar me 'karodon ki pariyojnaon ko jald manzoori' ka bharosa; sirf bharosa, koi swikriti dastavej nahi.
+// R-6. Amar Ujala 2025-01-05 ('Vidhayak ne suni jansamasyayen') — 'dharatal pariyojnaon ki swikriti ka bharosa mila'; sirf bharosa/ghoshna, koi GO/list nahi.
+// R-7. public.app 2025-04-08 (MP Dharambir + MLA ka Kadma aadi gaonon ka daura, 14 April Hisar karyakram ka nimantran) — sirf daura/nimantran, koi kaam nahi; MP MPLADS work bhi nahi.
+// R-8. public.app Dec 2024 (Sushaasan Diwas, Charkhi Dadri) — sarkari karyakram me shirkat; sirf maujoodgi.
+// R-9. obnews.co World Boxing Cup item (Nupur Sheoran/Naveen Jhanjharia/Neeraj Phogat) — MLA dwara khiladiyon ko badhai; koi vikas kaam nahi.
+// R-10. CM 68-crore Badhra package par ChandigarhCityNews/Zee News wale articles — CM ki standalone ghoshnaen bina MLA-role linkage ke reject (sirf CM ghoshna); Punjab Kesari ka mangpatra-linkage wala version bhi R-11 me reject (non-whitelist outlet + ghoshna-class).
+// R-11. Punjab Kesari 2025-07-24 ('Haryana CM big announcement', CM ka Badhra ke liye Rs 68 crore package mangpatra par) — outlet Haryana whitelist par nahi + CM-rally ghoshna-package bina GO/list ke = ghoshna-class; REJECT. Retry: Haryana sarkar ka GO/tender list mile to wapas dekho.
+// Namesake exclusions: NDTV Rajasthan 'Ummed Singh Rathore' (Didwana ke poorv vidhayak, nidhan 2024) — alag vyakti; 'Umed Singh Bidhana' (Sikh sangathan neta) — Badhra MLA se koi link nahi; court cases (Inspector Umed Singh bribery case, teacher Umed Singh, eye-witness Umed Singh) — alag log, MLA se pehchan nahi milti. myneta/loksatta par MLA ke halafname me 0 criminal cases darj hain.
+
+haryanaWorks['sunil-satpal-sangwan'] = [
+  {
+    title: 'Dadri Rose Garden ka Rs 2.65 crore se beautification aur renovation ka kaam hoga, department ne tender jari kar diya.',
+    category: 'Any',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/charkhidadri/dadris-rose-garden-to-be-upgraded-at-cost-of-rs-2-65-crore',
+    date: '2025-05-13',
+    note: 'MLA ne bataya ki Dadri shahar ke Rose Garden ke upgrade ka tender department jari kar chuka hai aur kaam jald shuru hoga; high-mast lights, bachchon ke play equipment, fountains, naya track, nayi plantation aur drainage system shamil hain.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Samaspur ke Rajkiya Varishtha Madhyamik Vidyalaya me 10 naye kamron ka shilanyas hua, shiksha vibhag ki swikriti ke baad kaam shuru.',
+    category: 'School',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/amp/haryana/charkhi-dadri/relief-10-new-rooms-to-be-built-in-samaspur-government-school-charkhi-dadri-news-c-126-1-cdr1009-148479-2025-12-07',
+    date: '2025-12-07',
+    note: 'Shiksha vibhag ne 10 kamron ke nirman ko swikriti di, agency ne kaam shuru kar diya, aur Dadri ke vidhayak ne kamron ka shilanyas kiya; school me 400 vidyarthi padhte hain.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Dadri shahar ke Kath Mandi Road (Rs 1.19 crore) aur Charkhi Darwaza se Mahendragarh Road (Rs 3.31 crore) ke nirman ka tender Nagar Parishad ne jari kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/gurugram/two-main-roads-of-dadri-city-will-be-constructed-with-an-expenditure-of-rs-4-5-crore-sunil-sangwan/',
+    date: '2025-12-16',
+    note: 'Pradesh sarkar ne budget jari kiya, dono margon ka tender Nagar Parishad ne jari kar diya; 2009 ke baad Kath Mandi Road ka 16 saal me pehli baar naya nirman hoga.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Rampura, Dohka Mauji aur Dohka Deena gaon me lagbhag Rs 60 lakh ki gramin vikas pariyojnaon ka udghatan aur shilanyas kiya gaya.',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/charkhi-dadri/mla-sunil-inaugurated-and-laid-the-foundation-stone-of-projects-worth-rs-60-lakh-in-three-villages-charkhi-dadri-news-c-126-1-cdr1009-150856-2026-02-02',
+    date: '2026-02-02',
+    note: 'Dadri ke vidhayak ne teenon gaon me galiyon ka nirman, naliyon ki marammat aur samudayik suvidhaon sahit Rs 60 lakh ke taiyar kamon ka udghatan aur shilanyas kiya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Sarangpur se Golpura tak 5.26 km lambi sadak ke nirman ko Rs 2.36 crore ke saath prashasanik aur vittiya swikriti mili.',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/sarangpur-golpura-road-construction-approved-2-36-crore-will-be-spent/',
+    date: '2026-10-16',
+    note: 'Gaonvasiyon ne vidhayak se sadak ki maang rakhi thi, jise unhone sarkar ke samne rakha aur prashasanik-vittiya swikriti jari ho gayi; nirman jald shuru hone ki ummid.',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (Sunil Satpal Sangwan, Dadri)
+// R-1. cityairnews/IANS (2025-04-11) — Viksit Dadri Rally me CM ki ghoshnaen (Rs 76.60 crore drain, minors, PG college, 100-bed block) MLA ki maangon par thi lekin bina GO/list ke sirf ghoshna — REJECT.
+// R-2. The Tribune (2024-12-14) — choked sewerage par PHED adhikariyon ke saath baithak aur survey, master plan aur ashwasan — sirf nirikshan/daura, koi shuru kaam nahi — REJECT.
+// R-3. Dainik Tribune (2025-12-19) — Vidhan Sabha shunyakaal me stadium, nehri paani, overbridge ki maang aur sinchai pariyojna par mantri ka dhanyavaad — sirf maang/dawa, dastaveji nateeja nahi — REJECT.
+// R-4. public.app/ckdnews (2025-10-10) — Rajkiya Kanya Model Sanskriti School ka shilanyas — outlet established list me nahi — REJECT.
+// R-5. The Tribune (2024-12-04) — 'Cong leader Sangwan accused of assault' — aarop Manisha Sangwan (Congress) par, is MLA par nahi — wrong person, REJECT.
+// R-6. Dainik Tribune (2026-08-26) — Bansi Lal samadhi par shraddhanjali — karyakram, koi kaam nahi — REJECT.
+// R-7. Ram Rahim parole se jodi election coverage (Oct 2024) — tenure se pehle ki khabar, Oct 2024 ke baad is MLA par koi FIR/janch ka established-media record nahi mila — NEGATIVES NONE.
+
+// ---- Rohtak district batch (researched 2026-10-17) — Batch 5 ----
+
+haryanaWorks['balram-dangi'] = [
+  {
+    title: 'Meham ke 23 gaon ke 8,676 kisano ke bank khaton me Rs 6.46 crore fasal-kshati muavza (December 2025 me jaari) — Vidhansabha Budget session me sawal par Revenue Mantri ka jawab',
+    category: 'Any',
+    badge: 'news',
+    stage: 'mantri-ashwasan',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/rs-6-46-crore-crop-relief-for-meham-kisan-sabha-cries-foul/amp',
+    date: '2026-03-16',
+    note: 'The Tribune ke mutabik Congress MLA Balram Dangi (Meham) ne Vidhansabha Budget session me sarkar se puchha tha ki kya unki seat ke vibhinn gaon ke kisano ko bhari fasal nuksan hua aur kya lagbhag 75% prabhavit kisan ab bhi muavze se vanchit hain; unhone baki kisano ke muavze ki samay-seema bhi maangi. Revenue Mantri Vipul Goel ne jawab diya ki Meham seat ke 8,676 yogya kisano ko Rs 6.46 crore seedha bank khaton me transfer kiya gaya, jo e-Kshtripti portal par September 15, 2025 tak ke davo ki janch ke baad December 2025 me sarkari niyamon ke tahat jaari hua. Gaon-wise: Bhaini Surjan (540 kisan, Rs 1.41 crore), Samain (879 kisan, Rs 2.20 crore) aadi. AIKS ne aarop lagaya ki bahut se prabhavit kisan chhoot gaye. Credit capped: muavza raashi ka jaari hona sarkar ka kaam hai; MLA ki bhoomika sirf Vidhansabha me sawal uthane tak seemit rahi.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (Balram Dangi, Meham)
+// R-1. Times of India ('In Meham, CM pushes for development', 5 April 2026) — CM Nayab Singh Saini ne BJP 'Vikas Rally' me Meham me Rs 202.77 crore ki pariyojnaon ka lokarpan/shilanyas kiya (sinchai Rs 118.84 crore, public health Rs 80.88 crore, GPS Sundarpur school bhavan Rs 74.04 lakh); karyakram BJP Rajya Sabha MP Ramchander Jangra ki adhyakshata me, article me MLA Balram Dangi ka zikr hi nahi — vyaktigat bhoomika shunya; REJECT (dusre neta ka karyakram).
+// R-2. PTC News / Outlook India / The Haryana Story (20 June 2026) — Meham me MLA ke karyalay par ajnat hamlaavron ne 4-5 round firing ki (karyalay police thane ke saamne); MLA victim hai, khud aaropi nahi; strict negative criteria (MLA khud aaropi + FIR/chargesheet/janch) me nahi aata; REJECT.
+// R-3. newsonline.media (June 2026) — firing ke chhe din baad MLA ko WhatsApp par Rs 5 crore ki extortion threat; MLA victim; REJECT.
+// R-4. haryanaassembly.gov.in starred question list (20 March 2025, Q-134) — MLA ka Meham ki paanch kharab sadkon (Dobh-Bhiwani road, Bainsi-Guggaheri, Bhali via Gaddi Kheri, Lakhan Majra flyover aadi) ki marammat par prashn; mantri ka jawab ya dastaveji natija kahin nahi mila; REJECT (sirf prashn).
+// R-5. The Tribune ('Vidhan Sabha panel flags staff shortage, infra issues at Rohtak PGIMS') — Vidhan Sabha Subject Committee ki PGIMS Rohtak yatra me MLA ne naye bhavan me seepage uthaya; PGIMS Rohtak Meham seat ke bahar hai, aur ye sirf nirikshan tha; REJECT.
+// R-6. cms.neva.gov.in starred question list (August Session 2026, 27 Aug) — MLA ka Bhiwani Sub-Branch Canal/Kahnour distributary me sinchai pani ki niyamit aapoorti par prashn; jawab/natija nahi mila; REJECT (sirf prashn).
+// R-7. Lokmat Times / ANI (27 Aug 2026) — Haryana Assembly se 8 Congress MLAs (Dangi sahit) ka nilamban; rajnitik ghatna, koi seat-kaam nahi; REJECT.
+// R-8. Hindustan Times (Sep 2024) — Meham hot-seat chunavi coverage; period (Oct 2024+) se pehle; REJECT.
+// Negatives: koi nahi. Affidavit (myneta.info; ADR via News18/Jansatta) me 0 criminal cases; sthapit media me Oct 2024 ke baad MLA ke khilaf koi FIR/chargesheet/janch/nyayik vikas nahi mila. Firing/extortion ghatnaon me MLA victim hai, aaropi nahi.
+
+haryanaWorks['bhupinder-singh-hooda'] = [
+  // NEGATIVE
+  {
+    title: 'Manesar land deal case me Punjab and Haryana High Court ne 7 Nov 2025 ko Hooda ki trial-sthagan arzi kharij ki, charges frame karne ka rasta saaf hua',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI / The Week',
+    sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/11/07/lgd50-ch-hc-ld-hooda.html',
+    date: '2025-11-07',
+    note: 'Hooda khud aaropi; CBI chargesheet (IPC criminal conspiracy and cheating + Prevention of Corruption Act) unke aur 33 anyon ke khilaf pehle se filed thi — 200 farmers ko dhokha aur Rs 1500 crore se zyada ke Manesar land deals ka aarop. Hooda ne Panchkula CBI court ke 19 Sep 2025 ke order (framing-of-charges sthagan arzi kharij) ko chunauti di thi; Justice Tribhuvan Dahiya ne kaha co-accused par apex court ka stay Hooda ka trial rokne ka aadhar nahi, charges frame kiye ja sakte hain. Hooda ka jawab disclosed: "the matter is subjudice", "complete faith in the judiciary". Mamla unke CM-karyakaal (2005-2014) ka hai, lekin ye 7 Nov 2025 ka HC faisla Oct 2024 ke baad ka spasht nyayik vikas hai, isliye negative ke roop me shamil.',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (Bhupinder Singh Hooda, Garhi Sampla-Kiloi)
+// R-1. Sep 2026 village-outreach/chaupal tour (The Tribune, TOI, ETV Bharat, Dainik Tribune) — sirf gaon-gaon daura aur jansampark; koi lokarpan/shilanyas/swikriti nahi. REJECT (sirf nirikshan/daura).
+// R-2. CM Nayab Saini ki 83 sadkon ki Rs 77.45 crore manjuri jisme Garhi Sampla-Kiloi bhi shamil (haryanaupdate.com) — CM ki sarkari ghoshna; Hooda ki koi vyaktigat bhoomika nahi. REJECT (bina vyaktigat bhoomika ki sarkari ghoshna).
+// R-3. Aug 2025 Monsoon session me Hooda ke sarkar-par-sawal (PTI/The Week) — sadak/aspataal/kisaan jaise rajya-stariya mudde; Garhi Sampla-Kiloi-specific dastaveji nateeja ya mantri-ashwasan nahi mila. REJECT (sirf prashn/maang, seat-specific nateeja nahi).
+// R-4. BJP neta Satish Nandal ka dawa ki seat me Rs 250 crore drinking-water works hue (TOI, Sep 2026) — virodhi neta ka unverified dawa, Hooda ka kaam nahi. REJECT (dusre neta ka dawa).
+// R-5. AJL Panchkula plot case me 3 Apr 2026 ko Hooda/AJL discharge (PTI/The Week) — ye exoneration hai, aarop nahi; negative criteria poora nahi karta. REJECT (negative nahi).
+// R-6. Manesar case me ED ki Oct 2026 me TDI Group premises se seizure (The Tribune) — seizure TDI ke khilaf, Hooda ke khilaf koi seedha naya nyayik vikas nahi. REJECT (purane mamle ka continuation, MLA par naya vikas nahi).
+// R-7. Hooda ko 3 Oct 2025 se LoP manyata (Amar Ujala) — prashasnik adhisoochna, seat-kaam nahi. REJECT.
+// R-8. Bete Deepender Hooda (Rohtak MP) ke MPLADS/kaam — pita-putra jaal se bache; MP ke kaam MLA par nahi dale. Koi entry nahi bani.
+// RETRY-LEAD: Haryana MLALAD 2025-26 me dobara shuru (Rs 5 crore prati MLA); DC Rohtak office ki itemized sanction lists me Hooda ki sifarish wale Garhi Sampla-Kiloi works mil sakte hain — agli retry me Rohtak DC portal/lists check karo.
+
+haryanaWorks['bharat-bhushan-batra'] = [
+  {
+    title: 'Budget session me latkte bijli taaron ke mudde par Energy Minister Anil Vij ne jawab bheja ki April 2025 se Rohtak ki residential colonies me lagbhag 40 km bare conductor lines ko insulated XLPE cable se replace kiya gaya hai.',
+    category: 'Any',
+    badge: 'news',
+    stage: 'mantri-ashwasan',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/hanging-wires-sewer-woes-haunt-rohtak-residents-batra-seeks-reply/',
+    date: '2026-03-08',
+    note: 'Rohtak Congress MLA Bharat Bhushan Batra ne ongoing budget session me residential areas me low-hanging electricity wires ka mudda uthaya aur sarkar se jawab manga. Batra ne article me Energy Minister Anil Vij ka bheja gaya jawab uddhrit kiya jisme kaha gaya tha ki Rohtak ki kuch residential colonies me April 2025 se lagbhag 40 km bare conductor lines ko insulated XLPE cable se replace kiya gaya hai taaki hadsa ka jokhim ghate, sheher me HT aur LT overhead lines ki unchai 30-40 metres par rakhi gayi hai, aur illegal cable pehchanne-hatane ke campaigns chalaye ja rahe hain. Kaam bijli vibhag ka hai — Batra ki bhoomika keval Vidhan Sabha prashn uthane tak seemit hai (credit capped). Date reasoning: article 2026-03-08 ko publish hua aur usi me jawab ko ongoing budget session me diya gaya bataya gaya hai, isliye date publication date li gayi hai.',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (Bharat Bhushan Batra, Rohtak)
+// R-1. The Tribune (2025-02-04, 'Parking infra, traffic management need of the hour') — MLA ka dawa ki 'grant of Rs 25 crore had been granted for the segment' aur road repair work jald shuru hogi; kaunsa segment article me clear nahi, koi GO/sanction list ya dastavej nahi — sirf MLA ka dawa, shanka ke kaaran reject.
+// R-2. Dainik Tribune (2026-09-03) — Batra ne CM Nayab Singh Saini se mulakat karke Tilyar jheel (15.6 acre) aur Garhi Bohar (15.9 acre) me do water reservoirs ka prastav rakha aur 8 gaonon ke Rs 214 crore water-works plan ki financial sanction ki maang ki; CM ne keval 'uchit karvahi' ka ashwasan diya, koi manzoori nahi — sirf maang/prastav, reject.
+// R-3. The Tribune (2025-09-28, 'Water, drainage projects worth Rs 443 cr await govt nod') — Batra ne Rs 443 crore ke water-supply/drainage estimates ki approval ke liye CM aur Minister Ranbir Gangwa ko letter likha; minister ne Commissioner-Secretary PHE ko 'immediate necessary action' lene ka nirdesh diya, lekin estimates ki manzoori us samay tak pending thi — sirf maang, reject.
+// R-4. The Tribune (2026-08-25, 'After MLA's questions, Rohtak administration details major projects') — Batra ke monsoon-session prashnon ke baad DC ne Rohtak ke water/sewerage projects ka status bata diya (Rs 16.5 cr pipeline replacement, Rs 27 cr JLN drain pipeline, Rs 210 cr gaon water supply, Rs 70 cr sewer network aadi); ye prashasan ke kaam ki soochna hai, MLA ka vyaktigat lokarpan/shilanyas/swikriti nahi aur prashn ka koi dastavezi nateeja/mantri-ashwasan nahi mila — reject.
+// R-5. ETV Bharat / The Tribune (2026-10-17) — DISHA meeting me MP Deepender Hooda ne project deadline nirdharit kiye; Batra sirf meeting me upasthit rahe (Congress MLAs me se ek) — MP ke kaam, reject.
+// R-6. cityairnews (Nov 2024) — Vidhan Sabha me mudde uthane par Minister Vipul Goel ne Rohtak aakar Batra ke saath samasyaen suljhane ka ashwasan diya; koi dastavezi nateeja ya manzoori nahi — keval ashwasan, reject.
+// R-7. Amar Ujala (sugar mill colony community centre udghatan) — article 2024 se bahut pehle ka hai — period '2024-2029' se bahar, reject.
+// R-8. The Tribune/HT/TOI (Nov 2025) — Batra ne sarkari DIPR sites par BJP neta ke bete ke private birthday flex/hoardings hatane ke liye 48 ghante ka ultimatum diya aur FIR ki chetavni di; koi bhautik sarkari sanrachna ka kaam nahi — reject.
+// R-9. Tribune 'Hooda unhappy with slow pace of Rohtak projects' (2025) — MP Deepender Hooda ki adhyakshata wali DISHA meeting me Batra ki upasthiti — dusre neta ke karyakram me maujoodgi, reject.
+
+haryanaWorks['shakuntla-khatak'] = [];
+
+// REJECT-LOG (Shakuntla Khatak, Kalanaur SC)
+// R-1. The Tribune (2024-08-30, 'Keen contest on cards in Kalanaur constituency') — MLA ka dawa ki unhone Kalanaur ko sub-tehsil se tehsil dilaya, bypass, PTC Sunaria, senior secondary school, thana ki nayi building, chaupals/community centres banwaye, school upgraded/repaired. Ye sab pichhle karyakaalon ke dawe hain (Oct 2024 se pehle), koi dastaveji nateeja/GO nahi — 2024-2029 period me nahi aata, isliye reject.
+// R-2. Hindustan Times (2013, ''Credit war' scuttles sewerage project in Rohtak') — Hanuman Colony me sewer/water pipe kaam par mayor se credit-jang; ye 2013 ka mamla hai, Oct 2024 se bahut pehle. Reject (period se bahar).
+// R-3. ETV Bharat (2026-10-17, Deepender Hooda Disha meeting, Rohtak) — MLA sirf DISHA baithak me MP Deepender Hooda ke saath maujood thin; vyaktigat lokarpan/shilanyas/swikriti kuch nahi. Reject (MP ke karyakram me maujoodgi).
+// R-4. Garima Times (2026-09-10) — Rohtak me safai karmchariyon ke dharne par pahunchkar maangon ka samarthan; koi kaam nahi. Reject (sirf maang/samarthan).
+// R-5. Amar Ujala (2026-02-05, MGNREGA bachao abhiyan, Rohtak) — B.B. Batra aur Shakuntla Khatak ke netritva me dharna/pradarshan; virodh-march hai, kaam nahi. Reject (sirf virodh).
+// R-6. The Tribune (2026-10-09, 'INDIA united over SIR row' protest, Rohtak) — SIR ke khilaf virodh-march me Khatak ne maang uthayi; raajnaitik virodh hai, kaam nahi. Reject.
+// R-7. Khaskhabar (2025) — MLA ki Scorpio unke Rohtak awas ke saamne se chori; wo khud shikayatakarta (peedit) hain, aaropi nahi. Negative ke liye qualify nahi karta. Reject.
+// R-8. NewsDive (2026-06-01, Haryana MLAs question hour) — Khatak ne kaha pichhle prashnon ka santoshjanak jawab nahi mila, aur wo Zero Hour me seat ke mudde uthati hain; koi dastaveji nateeja/mantri-ashwasan report nahi hua. Entry ke liye nateeja nahi — reject.
+// R-9. MLA ke official social posts (Facebook @mlakalanaur, Instagram @mlakalanaur, 2024-10-08 ke baad) — cultural samaroh, BLA-2 training camp, dharmik karyakram, block-adhyakshon ki niyukti se jude posts; koi bhautik lokarpan/shilanyas/swikriti nahi mili. Reject.
+// R-10. MyNeta 2024 halafnama — unke khilaf koi aapradhik mamla nahi (0 cases); koi negative nahi banta.
+
