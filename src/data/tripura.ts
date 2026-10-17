@@ -30,7 +30,7 @@
 // Pecharthal (MyNeta "PECHARTHAL"), Town Bordowali (MyNeta "Town Bardowali").
 // ADR 2023 winners report: 16/60 (27%) winners ne criminal cases ghoshit kiye; 21 crorepati;
 // ausat sampatti Rs 1.52 crore; 9 mahila MLA.
-// Saara user-facing text Roman-script Hinglish me hai (koi Devanagari ya ₹ nahi — "Rs" likha gaya hai).
+// Saara user-facing text Roman-script Hinglish me hai (koi Devanagari nahi — rakam "Rs" me likhi gayi hai).
 import type { Neta, Constituency } from './pilot';
 
 
@@ -219,7 +219,7 @@ export const tripuraNetas: Neta[] = [
     constituency: 'Ramnagar',
     constituencySlug: 'ramnagar',
     tenures: [
-      { post: 'MLA', constituency: 'Ramnagar', constituencySlug: 'ramnagar', party: 'Bharatiya Janata Party', start: '2024', end: '2028' },
+      { post: 'MLA', constituency: 'Ramnagar', constituencySlug: 'ramnagar', party: 'Bharatiya Janata Party', start: '2023', end: '2028' },
     ],
     works: [],
     fund: {
@@ -374,12 +374,12 @@ export const tripuraNetas: Neta[] = [
     },
     background: {
       age: '41',
-      education: 'Post Graduate — MA Sociology, Madurai Kamraj University (2010)',
+      education: 'Post Graduate — MA Sociology, Madurai Kamaraj University (2010)',
       criminalCases: 0,
       assets: 'Rs 13,21,768',
       liabilities: 'Rs 0',
       mynetaUrl: 'https://myneta.info/Tripura2023/candidate.php?candidate_id=7063',
-      backgroundNote: 'Pehchan pakki: Biswajit Kalai, TMP, Takarjala (ST) — affidavit page par naam, seat aur party match. Umr 41 (2023 halafnama, ADR-adharit profile); S/o Buchiram Kalai; pesha Social Worker (aamdani Business se); shiksha MA Sociology, Madurai Kamraj University (2010). Koi criminal case nahi.',
+      backgroundNote: 'Pehchan pakki: Biswajit Kalai, TMP, Takarjala (ST) — affidavit page par naam, seat aur party match. Umr 41 (2023 halafnama, ADR-adharit profile); S/o Buchiram Kalai; pesha Social Worker (aamdani Business se); shiksha MA Sociology, Madurai Kamaraj University (2010). Koi criminal case nahi.',
     },
     electionNote: '2023 Vidhan Sabha chunav me Takarjala se TMP ke ticket par jeete: 34,717 votes. Runner-up Bidhan Debbarma (IPFT) — 2,262 votes. Margin 32,455 (rajya ka sabse bada margin). 16 Feb 2023 ko matdan, 2 Mar 2023 ko parinaam.',
   },
@@ -727,7 +727,7 @@ export const tripuraNetas: Neta[] = [
       assets: 'Rs 9,44,009',
       liabilities: 'Rs 0',
       mynetaUrl: 'https://myneta.info/Tripura2023/candidate.php?candidate_id=6951',
-      backgroundNote: 'Pehchan pakki: Ranjit Debbarma, TMP, Ramchandraghat (ST) — affidavit page par naam, seat aur party match. Umr 59 (2023 halafnama, ADR-adharit profile); S/o Krishna Debbarma; pesha Social Worker & Self Employed; shiksha 12th Pass, Bodhjung Boys H.S. School Agartala, TBSE (1984). 1 gambhir case darj: IPC 120B/121A/122/153A/153B/34 + UAPA Sec 10(A), 10(B) (East Agartala PS 38/1998, ST (T-2) 162/2013, ADJ Court No 5 West Tripura, charges framed 28 Jul 2012).',
+      backgroundNote: 'Pehchan pakki: Ranjit Debbarma, TMP, Ramchandraghat (ST) — affidavit page par naam, seat aur party match. Umr 59 (2023 halafnama, ADR-adharit profile); S/o Krishna Debbarma; pesha Social Worker & Self Employed; shiksha 12th Pass, Bodhjung Boys H.S. School Agartala, TBSE (1984). 1 gambhir case darj: IPC 120B/121A/122/153A/153B/34 + UAPA Sec 10(A), 10(B) (East Agartala PS 38/1998, ST (T-2) 162/2013, ADJ Court No 5 West Tripura, charges framed 28 Jul 2012). VISANGATI NOTE: ADR/NDTV candidate page 2 cases dikhata hai, jabki myneta Crime-O-Meter 1 case — site par myneta wala 1 liya gaya hai; sankhya ka parent-verification pending hai.',
     },
     electionNote: '2023 Vidhan Sabha chunav me Ramchandraghat se TMP ke ticket par jeete: 23,143 votes. Runner-up Ranjit Debbarma (CPI-M) — 6,941 votes. Margin 16,202. 16 Feb 2023 ko matdan, 2 Mar 2023 ko parinaam.',
   },
@@ -1640,7 +1640,7 @@ export const tripuraNetas: Neta[] = [
     constituency: 'Dharmanagar',
     constituencySlug: 'dharmanagar',
     tenures: [
-      { post: 'MLA', constituency: 'Dharmanagar', constituencySlug: 'dharmanagar', party: 'Bharatiya Janata Party', start: '2026', end: '2028' },
+      { post: 'MLA', constituency: 'Dharmanagar', constituencySlug: 'dharmanagar', party: 'Bharatiya Janata Party', start: '2023', end: '2028' },
     ],
     works: [],
     fund: {
@@ -1766,12 +1766,12 @@ export const tripuraNetas: Neta[] = [
     },
     background: {
       age: '38',
-      education: 'Post Graduate — MA English, Madurai Kamraj University (2009)',
+      education: 'Post Graduate — MA English, Madurai Kamaraj University (2009)',
       criminalCases: 1,
       assets: 'Rs 26,67,272',
       liabilities: 'Rs 0',
       mynetaUrl: 'https://myneta.info/Tripura2023/candidate.php?candidate_id=7034',
-      backgroundNote: 'Pehchan pakki: Philip Kumar Reang, TMP, Kanchanpur (ST) — affidavit page par naam, seat aur party match (affidavit + ADR-winners table + Wikipedia sab me "Philip" — single l; brief me "Phillip" likha tha, affidavit spelling li gayi hai). Umr 38 (2023 halafnama, ADR-adharit profile); S/o Drao Kumar Reang; pesha Social Activist and Self Employee; shiksha MA English, Madurai Kamraj University (2009). 1 case darj: IPC 326/506/148/149/341/353/323 (Kanchanpur PS 68/2019, charges framed 10 Aug 2022).',
+      backgroundNote: 'Pehchan pakki: Philip Kumar Reang, TMP, Kanchanpur (ST) — affidavit page par naam, seat aur party match (affidavit + ADR-winners table + Wikipedia sab me "Philip" — single l; brief me "Phillip" likha tha, affidavit spelling li gayi hai). Umr 38 (2023 halafnama, ADR-adharit profile); S/o Drao Kumar Reang; pesha Social Activist and Self Employee; shiksha MA English, Madurai Kamaraj University (2009). 1 case darj: IPC 326/506/148/149/341/353/323 (Kanchanpur PS 68/2019, charges framed 10 Aug 2022).',
     },
     electionNote: '2023 Vidhan Sabha chunav me Kanchanpur se TMP ke ticket par jeete: 15,413 votes. Runner-up Rajendra Reang (CPI-M) — 10,522 votes. Margin 4,891. 16 Feb 2023 ko matdan, 2 Mar 2023 ko parinaam.',
   },

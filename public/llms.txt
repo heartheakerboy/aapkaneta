@@ -35,6 +35,7 @@
 - [Meghalaya](https://aapkaneta.org/meghalaya/)
 - [Uttarakhand](https://aapkaneta.org/uttarakhand/)
 - [Arunachal Pradesh](https://aapkaneta.org/arunachal/)
+- [Tripura](https://aapkaneta.org/tripura/)
 - Maharashtra ke neta profiles homepage ke neta-khande se milte hain (jaise https://aapkaneta.org/neta/<slug>/)
 
 ## Har neta ke profile par kya milta hai
