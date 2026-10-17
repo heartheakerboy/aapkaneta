@@ -2784,3 +2784,145 @@ chhattisgarhWorks['domanlal-korsewada'] = [];
 // REJECT-LOG (domanlal-korsewada): whitelisted leads nahi mile (non-whitelist leads matrr); retries: Vidhayak Nidhi itemized list.
 
 // ---- Durg district batch END (2 works, 7 negatives) ----
+
+
+// ---- Bemetara district batch (researched 2026-10-17) ----
+chhattisgarhWorks['ishwar-sahu'] = [];
+// REJECT-LOG (ishwar-sahu):
+// R01 public.app (sp_o9oeiy30mdizr) - REJECT: aggregator (public.app whitelist me nahi); Saja MLA Bori karyakramon me shamil, koi bhutik kaam nahi.
+// R02 public.app (sp_x7fotegfq69ze) - REJECT: aggregator; Devkar me Atal Parisar lokarpan (Dec 25, 2025) — lokarpan event ka whitelist source nahi mila.
+// R03 public.app (sp_qfohtixjegsdz) - REJECT: aggregator; Gagriya me Chhipaniya bandh — khula page nahi, fund/bhoomika undisclosed.
+// R04 public.app (sp_did760hro13bm) - REJECT: aggregator + sirf daura; gram daura, mandir puja — koi bhutik kaam nahi.
+// R05 public.app (more-news, Feb 17, 2026) - REJECT: aggregator; 36 lakh ke vikas karyon ka lokarpan/bhoomipujan — whitelist source nahi, details undisclosed.
+// R06 public.app (sp_o49wkr98wz6eq) - REJECT: aggregator + sirf nirikshan/daura; Kanhera mini stadium ka avalokan (Jul 5, 2025) + vriksharopan.
+// R07 public.app (sp_1xb82c307ft0l) - REJECT: aggregator; Sahaspur me Higher Secondary School naveen bhavan bhoomipujan (Nov 21, 2025) — whitelist source nahi.
+// R08 public.app (sp_v8dg66h08w6nn) - REJECT: aggregator; Hirri se Madiyapar PWD sadak (2.25 km, Rs 281.12 lakh) bhoomipujan (Sep 6, 2025) — whitelist source nahi.
+// R09 public.app (sp_snher92v67f2m) - REJECT: aggregator + dusre neta ke karyakram me maujoodgi; Sahaspur vidyut upkendra — shubharambh MP Vijay Baghel ne kiya.
+// R10 public.app (sp_7td5idqoy8v0p) - REJECT: aggregator; Durg Rajyotsav (Nov 4, 2025) me shamil — stall nirikshan, koi kaam nahi.
+// R11 public.app (sp_qseo32eoipch9) - REJECT: aggregator; Rakshabandhan karyakram (Aug 28, 2026) — koi bhutik kaam nahi.
+// R12 public.app (sp_b9s46g7brjio0) - REJECT: aggregator; Jataghara se Kanharpuri sadak bhoomipujan — whitelist source nahi, details undisclosed.
+// R13 public.app (sp_ouxqkmgxmcn1b) - REJECT: aggregator; Durg PWD bhavan baithak me shamil — baithak, koi kaam nahi.
+// R14 news36garh.com (Oct 15, 2026) - REJECT: sirf ghoshna (Arsi me dome shed ke liye Rs 5 lakh ki ghoshna) + chhota portal, whitelist me nahi.
+// R15 khabarworld24.com (Jan 10, 2024) - REJECT: chhota portal; film "Dangal The Biranpur Files" — vikas kaam se sambandhit nahi.
+// R16 tarunmitra.in (Dec 2023) - REJECT: chhota portal; Vidhan Sabha chaukhat par mattha tekna — vyaktigat, koi kaam nahi.
+// R17 asiannewsservice.in (Aug 22, 2025) - REJECT: Bemetara jila aspatal me CT scan machine ka lokarpan swasthya mantri ne kiya; Ishwar Sahu sirf maujood (dusre neta ke karyakram me maujoodgi).
+// R18 telegraphindia.com (Sep 19, 2024) - REJECT: kendriya karyakram me maujoodgi; vishva ki sabse unchi bamboo tower ka virtual lokarpan Nitin Gadkari ne kiya, Sahu sirf upasthit.
+// R19 gurushishyanews.blogspot.com (Oct 13, 2026) - REJECT: blogspot, aggregator-category; Ratanpur me swagat/puja — koi kaam nahi.
+// R20 haribhoomi.com (Apr 28, 2024) - REJECT: CBI team ne Ishwar Sahu se mulaqat ki — ve Birnipur case me pidit paksh (putra Bhuneshwar Sahu) hain, aaropi nahi; works lead nahi, negative nahi.
+// R21 patrika.com (Dec 2023) - REJECT: election result coverage — vikas kaam se sambandhit nahi.
+// R22 ETV Bharat (Jul 30, 2026, etvbharat.com/en/state/...enn26073006789) - BORDERLINE, parent review ke liye: Saja seat ke 40 sarkari schoolon me MLA Nidhi (FY 2024-25, 2025-26) se computer kharid par aarop (lagbhag Rs 1 crore; Rs 60,000 market value wale set Rs 2.5 lakh me); Bemetara Collector Pratishtha Mamgai ne 4-sadasyiya janch committee banayi; Congress jila adhyaksh Ashish Chhabra ne aarop lagaya; MLA ka jawab: "prastav jila prashasan ko bheja tha, Vidhayak Nidhi se fund jaari hua; shikayat ho to janch honi chahiye"; report pending. Negative entry isliye nahi: MLA khud FIR me aaropi nahi, janch sirf kharid-prakriya par (stage: janch committee, report pending) — niyam "MLA KHUD aaropi + FIR/chargesheet/janch" ke sakht pathan par poora nahi utarta; whitelist-wali "established media" hone ke bawjood surakshit roop se reject.
+
+chhattisgarhWorks['dipesh-sahu'] = [];
+
+// REJECT-LOG (dipesh-sahu):
+// 1. aajkaaalap.com: "Bemetara assembly ko Rs 26 crore 80 lakh 26 hazar ki prashasakeey sweekriti" — 3 roads (Mudparkala-Telga-Bharda 5.80km Rs 776.83 lakh; Kumhi-Telga-Balaudikala 9.10km Rs 1320.25 lakh; Mudparkala-Bharda-Bherwa 4.20km Rs 583.18 lakh), MLA ke prayason ka shrey. REJECT: aajkaaalap.com whitelist par nahi.
+// 2. public.app (12 Sep 2025): Bhimbhauri (Berla) me Rs 50 lakh ke nagar panchayat bhavan ka bhoomipujan, MLA mukhya atithi. REJECT: public.app whitelist par nahi.
+// 3. public.app (1 Sep 2026): Thanakhamria ke Mohbhatta me Rs 65 lakh ke vikas karyon ka bhoomipujan/lokarpan. REJECT: public.app whitelist par nahi.
+// 4. public.app (11 Sep 2025): MLA ne Bemetara ke 3 shaskiya schools ka nirikshan kiya (jeernoddhar par charcha). REJECT: source whitelist par nahi + sirf nirikshan.
+// 5. public.app / tricityexpress.in: Yuva Shakti utsav, gau pratishtha yagya, anganbadi karyakram (god bharai/annaprashan, Ward 17/2, Oct 2026) me shirkat. REJECT: chhote portals + karyakram me maujoodgi, koi bhautik kaam nahi.
+// 6. Dainik Bhaskar (Aug 2026): Jeveri se Chorbhatthi tak tiranga tractor rally (Har Ghar Tiranga + Hareli parv), MLA ke netritva me. REJECT: whitelisted source lekin tyohar rally — koi sarkari sanrachna/lokarpan nahi.
+// 7. Naidunia e-paper (Oct 2025): CM Vishnu Deo Sai ka Bemetara me Rs 140.96 crore ke 47+ vikas karyon ka bhoomipujan/lokarpan (Amora barrage, 6 vidyut upkendra, Nalanda parisar khel maidan); MLA upasthit. REJECT: Naidunia whitelist par nahi + CM ke karyakram me maujoodgi, MLA ki bhoomika/fund disclosed nahi.
+// 8. indianmasterminds.com / hindustanopinion.com (28 Jul 2025): CM ne Dadhi me Bemetara jile ke Rs 102 crore ke 48 karyon ka lokarpan/bhoomipujan kiya; MLA Dipesh Sahu upasthit. REJECT: sources whitelist par nahi + CM ke kaam, MLA sirf upasthit.
+// 9. ETV Bharat (13 Sep 2026): CM ne Bemetara jile me Rs 183.36 crore ke 30 karyon ka lokarpan/bhoomipujan kiya; MLA upasthit. REJECT: ETV Bharat whitelist par nahi + CM ke kaam.
+// 10. landconflictwatch.org: Kohadiya sponge iron plant ke khilaf kisan virodh me MLA Dipesh Sahu shamil. REJECT: virodh/andolan me bhagidari — sarkari bhautik kaam nahi; research-NGO report, media nahi.
+// 11. Wedding coverage (Haribhoomi 28 May 2026, Patrika, Navbharat, Naidunia, Dainik Jagran): MLA ne 31 May 2026 ko Mukhyamantri Kanya Vivah Yojana ke samuhik vivah me shaadi ki; Congress (Deepak Baij) ne patraata par sawaal uthaye, MLA ne jawab diya (patraata dulhan ke parivar par aadharit; sahayta rashi medhavi chhatraon ko dene ki ghoshna). REJECT: vyaktigat event — works entry nahi. Negative nahi: koi FIR/chargesheet/janch MLA ke khilaf nahi, sirf rajnaitik bayanbaji.
+// 12. dakshinkosal.com (Sep 2026): Saraswati Cycle Yojana me Singhori ke Atmanand school me 17 Sep ko MLA dwara 62 chhatraon ko banti kharab cycles (toote pedal, puncture tyre); DEO ne principal par karwai ke nirdesh diye. REJECT-as-negative: source whitelist par nahi; janch/principal par karwai — MLA par koi vyaktigat aarop ya FIR nahi.
+// 13. Haribhoomi par "Baleshwar Sahu" (Congress MLA, Jaijaipur) ke padosi-vivad case aur "Sahu" naam se KCC fraud ki khabrein mili — ye alag vyakti hain, Dipesh Sahu (Bemetara) se sambandhit nahi. Ignore.
+// 14. Negatives check: myneta.info affidavit (2023) me koi criminal case nahi; whitelisted media me MLA ke khilaf koi FIR/chargesheet/janch/nyayik vikas nahi mila.
+// Profile: Khali rakhi gayi — whitelist-worthy koi valid works entry nahi mili.
+
+// ---- cg11 batch: Dayal Das Baghel, Navagarh (SC), Bemetara (researched 2026-10-17) ----
+// Mantri-niyam applied: sirf Navagarh seat ke kaam; rajya-stariya vibhaagiya faisle excluded.
+chhattisgarhWorks['dayal-das-baghel'] = [
+];
+
+// REJECT-LOG (dayal-das-baghel):
+// 1. CM Vishnu Deo Sai ne 21 Dec 2024 ko Nawagarh me 74 vikas karyon (Rs 209.12 crore) ka lokarpan/shilanyas kiya; Baghel kewal manch par upasthit the — "dusre neta ke karyakram me maujoodgi" = REJECT; outlet asiannewsservice.in bhi whitelist me nahi.
+// 2. Sewa Sankalp Abhiyan samiksha baithak (khabriram/tricityexpress) — sirf samiksha/nirikshan, koi bhautik sanrachna nahi; non-whitelist outlets = REJECT.
+// 3. "Ek ped maa ke naam" paudharopan, Beti Bachao oath karyakram (amarujala/thenewsindia.in) — samiksha/samaroh type; outlets whitelist me nahi = REJECT.
+// 4. Dhan bonus praman-patra vitaran (25 Dec 2023, centralnews-india) — sarkari yojana ka vitaran-samaroh, karyakram mukhya-atithi role; non-whitelist = REJECT.
+// 5. Bhaskar.com par "Dayaldas Baghel becomes minister in Sai cabinet" profile — profile hai, koi kaam nahi = REJECT.
+// 6. Unke apne X post (@DayalDasBaghel) me gaon Mau me nirmaan karyon ka lokarpan — social media (X) whitelist me nahi; swatantra media reporting nahi = REJECT.
+// 7. Negative: 2023 halafname ka FIR 115/2023 (PS Nawagarh, IPC 147/341) — 2023-2028 karyakaal me established media me koi legal development (giraftari/chargesheet/sunvai) report nahi hui; negative nahi banaya gaya.
+// 8. Rajya-stariya khadya vibhaag ke faisle (PDS samiksha, dhan kharidi nirdesh) — mantri-niyam ke tahat excluded.
+// ---- Bemetara district batch END (0 works, 0 negatives) ----
+
+
+// ---- Kabirdham district batch (researched 2026-10-17) ----
+// ---- cg11 batch: Bhawna Bohra, Pandariya, Kabirdham (researched 2026-10-17) ----
+// Note: MLA ke baare me kai vikas-kahani mili, lekin koi bhi whitelist outlet
+// (The Hindu, Indian Express, HT, NDTV, India Today, TOI, Dainik Bhaskar,
+// Patrika, Navbharat, Haribhoomi, established outlet par PTI) par nahi mili.
+// Sab off-whitelist sources reject-log me.
+chhattisgarhWorks['bhawna-bohra'] = [
+];
+
+// REJECT-LOG (bhawna-bohra):
+// 1. The Hitavada (2025-12-10, khola-padha gaya): gaon Chhirpani me Rs 13.78 crore
+//    ki sinchai/jal-sanrakshan pariyojnaon ka MLA dwara bhoomipujan — Mahidbra
+//    reservoir head works, nahar structures ka navinikaran, 2 VRB, main canal ki
+//    CC lining, Agar nadi par anicut, Kanhaiya Nala me anicut-cum-causeway, lift
+//    irrigation scheme; MLA ne Rs 121 crore ki chal rahi sinchai pariyojnaon ka
+//    dawa bhi kiya. Samagri ke hisab se valid thi, lekin The Hitavada whitelist
+//    me NAHI hai aur wahi story kisi whitelist outlet par nahi mili = REJECT.
+// 2. ANI stories (12-13 Oct 2026, post-event): MLA ne Kui-Kukdur me ladkiyon ke
+//    liye free bus service launch ki (10 buses, 'Bus Wali Didi'); usi karyakram
+//    me mantri Tank Ram Verma ne Rs ~6 crore ki pariyojnaon ka lokarpan/shilanyas
+//    kiya (tehsil office building Rs 71.12 lakh lokarpan; Kui aur Kukdur me
+//    Mahtari Sadan Rs 30 lakh-30 lakh shilanyas; college building Rs 4.66 crore
+//    shilanyas) aur MLA ke prayason ka sarvajanik shrey diya. ANI copy sirf
+//    Lokmat Times, Asianet Newsable, edexlive, devdiscourse, indianeconomicobserver
+//    aur Dailyhunt par mili — koi bhi whitelist outlet nahi = REJECT. (Bus service
+//    uske NGO 'Bhawna Samajik Sansthan' ki hai, sarkari fund nahi.)
+// 3. ANI (3 Feb 2026, Daily Prabhat/Lokmat Times par): Damgarh me MLA ne
+//    Vidhayak Nidhi se kharidi do bike ambulance ka lokarpan kiya — off-whitelist
+//    outlets = REJECT.
+// 4. the-journalist.com: Vidhansabha me Pandariya ke shiksha/paryatan vikas ki
+//    maang — sirf maang/prastav (koi dastaveji nateeja nahi) + off-whitelist
+//    = REJECT.
+// 5. 'Ambulance Didi' free ambulance service (2014 se, 8 gaadiyan, 8,000-9,000
+//    mareezon ka dawa) — Asianet Newsable/aryavarthnews par; off-whitelist +
+//    MLA ka dawa (NGO-run, sarkari dhancha nahi) = REJECT.
+// 6. 'Lakshya' free coaching centre, Pandariya (CGPSC/NEET) — thenewsmill/
+//    newkerala par; off-whitelist + NGO pahal = REJECT.
+// 7. Tribal homecoming ('ghar wapsi') karyakram (Nov 2025 me 125 sadasya,
+//    Feb 2026 me 66 sadasya, Damgarh) — dharmik samudaayik karyakram, koi
+//    bhautik sarkari sanrachna nahi = REJECT.
+// 8. 151-km Kanwar Yatra (Amarkantak se Bhoramdeo, Jul 2025) — dharmik yatra,
+//    vikas-kaam nahi = REJECT.
+// 9. Negatives: Bhawna Bohra (BJP, Pandariya) ke khilaf kisi FIR/chargesheet/
+//    giraftari/janch ya wartaman karyakaal me kisi nyayik vikas ki established
+//    media me koi report nahi mili. Controversy search me sirf naam ke milte-julte
+//    alag log mile (AAP Delhi ki Bhavna Gaur - degree case; Rajasthan ke Bhawani
+//    Singh Rajawat) — unka in se koi sambandh nahi. Halafname ke akele pending
+//    mamle bhi nahi mile. = negative entry nahi.
+
+// ---- cg11 batch: Vijay Sharma, Kawardha, Kabirdham (researched 2026-10-17) ----
+// Mantri-niyam applied: sirf Kawardha seat ke kaam; Grih-mantri bhoomika ke
+// rajya-stariya faisle (Naxal operations, police transfers, rajya-yojnaen) BILKUL NAHI.
+chhattisgarhWorks['vijay-sharma'] = [
+  {
+    title: 'Deputy CM aur Kawardha MLA Vijay Sharma ke vishesh prayas se Kawardha me Nalanda Library ke liye Rs 4.37 crore ki prashasakiya swikriti',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Patrika',
+    sourceUrl: 'https://www.patrika.com/kawardha-news/a-grand-nalanda-library-will-be-constructed-at-a-cost-of-4-crore-37-lakhs-19941110',
+    date: '2025-09-13',
+    note: 'Patrika ke anusar, rajya shasan ne Kawardha ki Chhirpani colony me (Jila Parivahan Karyalaya ke paas, lagbhag 1.5 acre shasakiya bhookhand par) library, cafeteria aur anya nirman ke liye Rs 4.37 crore ki prashasakiya swikriti di. Teen manjila bhawan me 200-seat AC hall banega, jisse rashtriya aur rajya stariya pratiyogi parikshaon ki taiyari karne wale yuvaon ko suvidha milegi. Collector Gopal Verma aur Nagar Palika adhyaksh Chandraprakash Chandravanshi ne sthal nirikshan kiya aur purane-jarrar bhawan ko turant todne ke nirdesh diye. Swikriti Sharma ke vishesh prayas ka natija batayi gayi (credit capped).',
+    period: '2023-2028',
+    stage: 'swikrit',
+  },
+];
+
+// REJECT-LOG (vijay-sharma):
+// 1. 12 Oct 2026: Dharampura (Rs 49.74 lakh, 0.5 km) aur Birkona (Rs 28.77 lakh, 0.25 km) me Rs 78.51 lakh ke CC sadak-sah-nali karyon ka bhoomipujan — outlets (impressivetimes.com, bhaskardoot.com, dainikvishwapariwar.com, hindutimesnews.in) whitelist me nahi; whitelisted outlet me confirm nahi = REJECT.
+// 2. 14 Oct 2026: Sahaspur Lohara college me Rs 30 lakh ke atirikt kaksh ka bhoomipujan + Rs 15 lakh boundary wall aur Rs 4.5-5 lakh balika shauchalay ki GHOSHNA — outlets (cgnewstimes.com, samna.in) whitelist me nahi; boundary wall/shauchalay sirf ghoshna the = REJECT.
+// 3. 25 Nov 2025: Sari (Khadoda-Sari 1.5 km sadak, Rs 1.65 crore) + Chandaini (Rs 33.32 lakh CC sadak) kul Rs 1.98 crore bhoomipujan — outlet thenewsstrike.com whitelist me nahi = REJECT.
+// 4. 25 Sep 2026: NH-30 par Rs 54 crore ka four-lane stretch + entry gates ka shilanyas (donon Deputy CMs ne sanyukt roop se kiya) — kendriya pariyojna (NH), MLA ki vyaktigat bhoomika disclosed nahi; outlet thefrontpage24.com whitelist me nahi; sath ki Rs 8 crore wali ghoshnaen (community hall, market, sports ground) sirf ghoshna = REJECT.
+// 5. Bandaura/Thakuraintola me Rs 74.80 lakh ki ghoshnaen (Kabir Kuti, community hall, Navadha Manch, CC road, Muktidham) — outlet cleanarticle.com whitelist me nahi; ghoshna = REJECT.
+// 6. Haribhoomi: Hanuman Vatika lokarpan (Kawardha, Nagar Palika dwara vikasit) — page khula nahi; snippet me lagat/fund disclosure nahi = REJECT.
+// 7. Haribhoomi: 17 shasakiya schools me smart class/digi class ka shubharambh (Oct 2025) — page khula nahi = REJECT.
+// 8. Govt Medical College Kawardha: CM ne Dec 2025 me Rs 306 crore pariyojna ka shilanyas kiya; Sharma ki maujoodgi thi, vyaktigat lokarpan/shilanyas nahi; first-batch samaroh me upasthiti = "dusre neta ke karyakram me maujoodgi" = REJECT. District hospital 100->220 bed ka vistaar, 85 schools me digital board, sugar factory me dome structure, "Rs 140 crore package" — sab ghoshnaen/dawaein, whitelisted media me confirm nahi = REJECT.
+// 9. Grih-mantri bhoomika: Loharidih ghatna par bayan, Kawardha-Bemetra marg par stray cattle inspection/fatkar, Bijapur encounter par bayan, Rahul Gandhi detention par bayan — rajya-stariya law-and-order bhoomika; mantri-niyam se excluded = REJECT.
+// 10. Negative: Oct 2021 Kawardha sampradayik hinsa me FIR (danga bhadkane ke aarop), giraftari + jamanat — pre-term; PTI/ADR/timesnow (Oct-Dec 2023) reporting; 2023-2028 karyakaal me established media me koi nayi legal development (chargesheet/sunvai/saza) report nahi hui; halafname pending akele negative nahi = negative entry nahi banayi gayi.
+// ---- Kabirdham district batch END (1 work, 0 negatives) ----
