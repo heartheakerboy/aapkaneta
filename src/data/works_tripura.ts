@@ -543,7 +543,7 @@ tripuraWorks['manik-saha'] = [
 // 18. Blood donation camp me urban development par bhashan (boroktimes). REJECT: bhashan/ghoshna, kaam nahi.
 // NEGATIVES: 0 — Strict criteria par koi negative nahi mila. Manik Sarkar (poorv CM, CPI(M)) par 6 FIR/HC case (Oct 2026, TOI/Indian Express) ALAG vyakti ka mamla hai — Dr. Manik Saha se bhram na ho, isliye drop. LoP Jitendra Chaudhury ke 'ruling alliance me bhrashtachar' wale bayan (Shillong Times, Jan 2026) aur CEC vivaad par opposition ke dawe (Borok Times, Sep 2026) me Saha khud naam-daar aaropi nahi aur koi FIR/adhikari-pusht janch nahi — drop. Halafnama 2023 me 0 cases darj hain.
 // WORKS_COUNT=0 NEGATIVES=0 REJECTS=18
-// ---- West Tripura district batch A END (7 entries, negatives 7) ----
+// ---- West Tripura district batch A END (7 entries, negatives 1) ----
 
 // ---- West Tripura district batch B (researched 2026-10-17) ----
 
@@ -1509,3 +1509,31 @@ tripuraWorks['bikash-debbarma'] = [
 // REJECT-LOG: NEGATIVE-ed-ganja-case-naamjaal — nenow (Mar 2026) + ED press release (31 Mar 2026): ganja taskari money-laundering case me 'Bikash Debbarma' naam ka vyakti mule account holder; koi bhi whitelisted source is vyakti ko Krishnapur MLA/mantri se NAHI jodta (Sepahijala-based Bishu Kumar Tripura case, seat/pehchan ka ullekh nahi); aam Tripuri naam hai — naam-jaal ka khatra, MLA par thopna gambhir truti hogi — REJECT as negative — LEAD: sirf tab retry jab whitelisted media pehchan ko Krishnapur MLA ke roop me confirm kare
 
 // ---- Khowai district batch END (8 works, 0 negatives) ----
+
+// ---- Gomati district batch (researched 2026-10-17) ----
+tripuraWorks['abhishek-debroy'] = [
+  {
+    title: 'Maidabari me Dataram Mayapuri se Garji tak sadak ka nirmaan MLA ne shuru karwaya — logon ka dawa',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/road-blockade-at-matabari-lifted-after-officials-intervention/',
+    date: '2025-06-14',
+    note: 'Tripura Chronicle ke anusaar 14 June 2025 ko Maidabari ke logon ne dawa kiya ki Matarbari ke MLA Abhishek Debroy ne Matarbari RD block ke Maidabari Mayapuri me Dataram Mayapuri se Garji tak sadak ka nirmaan shuru karwaya tha; nirmaan-samagri me rukavat ke baad logon ne sadak-blockade kiya, jo Udaipur SDPO Nirman Das aur Matarbari block adhikariyon ke aashwasan par hata diya gaya. MLA ki bhoomika ka ekmatra aadhaar logon ka dawa hai — koordinator ne Tripura Chronicle ka page khud khola aur milaya.',
+    period: '2023-2028',
+  },
+];
+tripuraWorks['ram-pada-jamatia'] = [];
+tripuraWorks['pranajit-singha-roy'] = [];
+tripuraWorks['jitendra-majumder'] = [];
+tripuraWorks['pathan-lal-jamatia'] = [];
+tripuraWorks['ranjit-das'] = [];
+tripuraWorks['sanjoy-manik-tripura'] = [];
+// ---- Gomati district batch END (1 work, 0 negatives) ----
+// Gomati REJECT LOG (sanyukt; vistrit logs worker files me: ~/workspace/aapkaneta_scratch/tr_worker_*_works.ts):
+// REJECT [ram-pada-jamatia, Speaker — 25 rejects]: Bagma railway station nirikshan (sirf nirikshan, kendriya pariyojna); EMRS Killa udghatan (paywall + Speaker mukhya-atithi, kendriya pariyojna); NABARD Farmers Meet maujoodgi; Agro Forestry Fair shubharambh; ST-conversion bayan; Tripura Times paywall (C/F retry-lead).
+// REJECT [pranajit-singha-roy, mantri — 15 rejects]: Udaipur deep tube well lokarpan (Tripura Chronicle, Dec 2024) — fund raashi undisclosed, retry-lead; university/ayurvedic-college CM events me maujoodgi; abhiyan-shubharambh; 2021 'Rs 150 crore scam' press-freedom bayan (negative-fail: FIR me aaropi nahi, pre-term).
+// REJECT [jitendra-majumder — 14 rejects]: nephew ka Mirza case (aaropi bhateeja, MLA nahi — family exclusion); Garjanmura health camp co-inauguration (non-whitelist + abhiyan shubharambh); Jamjuri haat (non-whitelist + FM event me maujoodgi); oil-palm plantation me sirf maujoodgi; hostel nirikshan; halafnama case 1 (no current development).
+// REJECT [pathan-lal-jamatia — 19 rejects]: farm-machinery distribution + TB awareness (departmental shubharambh); ADC karyakramon me maujoodgi; Assembly zero-hour protest (seat-mudda nahi); ambulance-vitaran (non-whitelist, retry-lead).
+// REJECT [ranjit-das — 17 rejects]: Amarpur Press Club shilanyas 19 Feb 2026 (non-whitelisted sources, fund raashi disputed — TOP retry-lead: Tripura Times/ICA par whitelisted coverage mile to entry); Water ATM (paywall, MLA fund role nahi); RD Block award (maujoodgi).
+// REJECT [sanjoy-manik-tripura — 17 rejects]: Karbook me Noatia/Sukla mantri ke lokarpan (MLA sirf maujood); Dumbur/Kowaifung-Karbook road (kendriya pariyojna, bhoomika nahi); Chuitraham Para protest (non-whitelist, nateeja nahi — retry-lead).
