@@ -1,0 +1,25 @@
+---
+import JilaDetail from '../../../components/JilaDetail.astro';
+import { haryanaConstsAll, haryanaNetasAll } from '../../../data/all';
+
+const dslug = (d: string): string => d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+export function getStaticPaths() {
+  const districts = [...new Set(haryanaConstsAll.filter(c => c.type === 'Vidhan Sabha').map(c => c.district))];
+  return districts.map(d => ({ params: { slug: d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') }, props: { district: d } }));
+}
+
+const { district } = Astro.props;
+const acs = haryanaConstsAll
+  .filter(c => c.type === 'Vidhan Sabha' && c.district === district)
+  .sort((a, b) => (a.number ?? 999) - (b.number ?? 999));
+const netaByConst: Record<string, (typeof haryanaNetasAll)[number]> = Object.fromEntries(haryanaNetasAll.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
+// Lok Sabha mapping: PC naam me jila ka naam ho (J&K me 5 PC hain — Anantnag–Rajouri Rajouri ko bhi cover karta hai)
+const dLow = district.toLowerCase();
+const mps = haryanaNetasAll.filter(n =>
+  n.post === 'MP' && n.house !== 'Rajya Sabha' &&
+  (n.constituency.toLowerCase().includes(dLow) || dLow.includes(n.constituency.toLowerCase().replace('–', '-')))
+);
+---
+
+<JilaDetail district={district} districtSlugStr={dslug(district)} acs={acs} netaByConst={netaByConst} mps={mps} talukas={[]} base="/haryana" stateName="Haryana" />
