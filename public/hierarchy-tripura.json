@@ -1,0 +1,354 @@
+{
+  "state": "Tripura",
+  "stateSlug": "Tripura",
+  "districts": [
+    {
+      "name": "West Tripura",
+      "slug": "west-tripura",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Simna (ST)",
+          "slug": "simna"
+        },
+        {
+          "n": 2,
+          "name": "Mohanpur",
+          "slug": "mohanpur"
+        },
+        {
+          "n": 3,
+          "name": "Bamutia (SC)",
+          "slug": "bamutia"
+        },
+        {
+          "n": 4,
+          "name": "Barjala (SC)",
+          "slug": "barjala"
+        },
+        {
+          "n": 5,
+          "name": "Khayerpur",
+          "slug": "khayerpur"
+        },
+        {
+          "n": 6,
+          "name": "Agartala",
+          "slug": "agartala"
+        },
+        {
+          "n": 7,
+          "name": "Ramnagar",
+          "slug": "ramnagar"
+        },
+        {
+          "n": 8,
+          "name": "Town Bordowali",
+          "slug": "town-bordowali"
+        },
+        {
+          "n": 9,
+          "name": "Banamalipur",
+          "slug": "banamalipur"
+        },
+        {
+          "n": 10,
+          "name": "Majlishpur",
+          "slug": "majlishpur"
+        },
+        {
+          "n": 11,
+          "name": "Mandaibazar (ST)",
+          "slug": "mandaibazar"
+        },
+        {
+          "n": 13,
+          "name": "Pratapgarh (SC)",
+          "slug": "pratapgarh"
+        },
+        {
+          "n": 14,
+          "name": "Badharghat (SC)",
+          "slug": "badharghat"
+        },
+        {
+          "n": 18,
+          "name": "Suryamaninagar",
+          "slug": "suryamaninagar"
+        }
+      ]
+    },
+    {
+      "name": "Sepahijala",
+      "slug": "sepahijala",
+      "acs": [
+        {
+          "n": 12,
+          "name": "Takarjala (ST)",
+          "slug": "takarjala"
+        },
+        {
+          "n": 15,
+          "name": "Kamalasagar",
+          "slug": "kamalasagar"
+        },
+        {
+          "n": 16,
+          "name": "Bishalgarh",
+          "slug": "bishalgarh"
+        },
+        {
+          "n": 17,
+          "name": "Golaghati (ST)",
+          "slug": "golaghati"
+        },
+        {
+          "n": 19,
+          "name": "Charilam (ST)",
+          "slug": "charilam"
+        },
+        {
+          "n": 20,
+          "name": "Boxanagar",
+          "slug": "boxanagar"
+        },
+        {
+          "n": 21,
+          "name": "Nalchar (SC)",
+          "slug": "nalchar"
+        },
+        {
+          "n": 22,
+          "name": "Sonamura",
+          "slug": "sonamura"
+        },
+        {
+          "n": 23,
+          "name": "Dhanpur",
+          "slug": "dhanpur"
+        }
+      ]
+    },
+    {
+      "name": "Khowai",
+      "slug": "khowai",
+      "acs": [
+        {
+          "n": 24,
+          "name": "Ramchandraghat (ST)",
+          "slug": "ramchandraghat"
+        },
+        {
+          "n": 25,
+          "name": "Khowai",
+          "slug": "khowai"
+        },
+        {
+          "n": 26,
+          "name": "Asharambari (ST)",
+          "slug": "asharambari"
+        },
+        {
+          "n": 27,
+          "name": "Kalyanpur-Pramodenagar",
+          "slug": "kalyanpur-pramodenagar"
+        },
+        {
+          "n": 28,
+          "name": "Teliamura",
+          "slug": "teliamura"
+        },
+        {
+          "n": 29,
+          "name": "Krishnapur (ST)",
+          "slug": "krishnapur"
+        }
+      ]
+    },
+    {
+      "name": "Gomati",
+      "slug": "gomati",
+      "acs": [
+        {
+          "n": 30,
+          "name": "Bagma (ST)",
+          "slug": "bagma"
+        },
+        {
+          "n": 31,
+          "name": "Radhakishorpur",
+          "slug": "radhakishorpur"
+        },
+        {
+          "n": 32,
+          "name": "Matarbari",
+          "slug": "matarbari"
+        },
+        {
+          "n": 33,
+          "name": "Kakraban-Salgarh (SC)",
+          "slug": "kakraban-salgarh"
+        },
+        {
+          "n": 41,
+          "name": "Ampinagar (ST)",
+          "slug": "ampinagar"
+        },
+        {
+          "n": 42,
+          "name": "Amarpur",
+          "slug": "amarpur"
+        },
+        {
+          "n": 43,
+          "name": "Karbook (ST)",
+          "slug": "karbook"
+        }
+      ]
+    },
+    {
+      "name": "South Tripura",
+      "slug": "south-tripura",
+      "acs": [
+        {
+          "n": 34,
+          "name": "Rajnagar (SC)",
+          "slug": "rajnagar"
+        },
+        {
+          "n": 35,
+          "name": "Belonia",
+          "slug": "belonia"
+        },
+        {
+          "n": 36,
+          "name": "Santirbazar (ST)",
+          "slug": "santirbazar"
+        },
+        {
+          "n": 37,
+          "name": "Hrishyamukh",
+          "slug": "hrishyamukh"
+        },
+        {
+          "n": 38,
+          "name": "Jolaibari (ST)",
+          "slug": "jolaibari"
+        },
+        {
+          "n": 39,
+          "name": "Manu (ST)",
+          "slug": "manu"
+        },
+        {
+          "n": 40,
+          "name": "Sabroom",
+          "slug": "sabroom"
+        }
+      ]
+    },
+    {
+      "name": "Dhalai",
+      "slug": "dhalai",
+      "acs": [
+        {
+          "n": 44,
+          "name": "Raima Valley (ST)",
+          "slug": "raima-valley"
+        },
+        {
+          "n": 45,
+          "name": "Kamalpur",
+          "slug": "kamalpur"
+        },
+        {
+          "n": 46,
+          "name": "Surma (SC)",
+          "slug": "surma"
+        },
+        {
+          "n": 47,
+          "name": "Ambassa (ST)",
+          "slug": "ambassa"
+        },
+        {
+          "n": 48,
+          "name": "Karamcherra (ST)",
+          "slug": "karamcherra"
+        },
+        {
+          "n": 49,
+          "name": "Chawamanu (ST)",
+          "slug": "chawamanu"
+        }
+      ]
+    },
+    {
+      "name": "Unakoti",
+      "slug": "unakoti",
+      "acs": [
+        {
+          "n": 50,
+          "name": "Pabiachhara (SC)",
+          "slug": "pabiachhara"
+        },
+        {
+          "n": 51,
+          "name": "Fatikroy (SC)",
+          "slug": "fatikroy"
+        },
+        {
+          "n": 52,
+          "name": "Chandipur",
+          "slug": "chandipur"
+        },
+        {
+          "n": 53,
+          "name": "Kailashahar",
+          "slug": "kailashahar"
+        }
+      ]
+    },
+    {
+      "name": "North Tripura",
+      "slug": "north-tripura",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Kadamtala-Kurti",
+          "slug": "kadamtala-kurti"
+        },
+        {
+          "n": 55,
+          "name": "Bagbassa",
+          "slug": "bagbassa"
+        },
+        {
+          "n": 56,
+          "name": "Dharmanagar",
+          "slug": "dharmanagar"
+        },
+        {
+          "n": 57,
+          "name": "Jubarajnagar",
+          "slug": "jubarajnagar"
+        },
+        {
+          "n": 58,
+          "name": "Panisagar",
+          "slug": "panisagar"
+        },
+        {
+          "n": 59,
+          "name": "Pencharthal (ST)",
+          "slug": "pencharthal"
+        },
+        {
+          "n": 60,
+          "name": "Kanchanpur (ST)",
+          "slug": "kanchanpur"
+        }
+      ]
+    }
+  ]
+}
