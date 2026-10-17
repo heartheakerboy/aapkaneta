@@ -179,3 +179,220 @@ chhattisgarhWorks['laxmi-rajwade'] = [];
 
 
 // ---- Surajpur district batch END (1 works, 0 negatives) ----
+
+// ---- Balrampur district batch (researched 2026-10-17) ----
+
+// CONSOLIDATED FRAGMENT — Chhattisgarh batch 2 (Balrampur + Surguja), researched 2026-10-17
+
+
+// REJECT-LOG: Shakuntala Singh Portey (BJP, Pratappur ST, Balrampur)
+// 1. [english.dainikjagranmpcg.com, 2025-05-08] 'Sushasan Tihaar me adhikariyon ko daant' → REJECT: non-whitelist outlet (regional spin-off, jagran.com nahi) + event adhikariyon par narazgi hai, koi vikas kaam nahi — https://english.dainikjagranmpcg.com/states/chhattisgarh/mahasamund-lpg-scam-2-food-officers-gas-agency-operator-arrested/article-17983
+// 2. [aryanage.com, 2025-05-25] 'Good Governance camp me adhikariyon ko warning (Tukkudand)' → REJECT: aggregator, whitelist me nahi + kaam ki entry nahi — https://www.aryanage.com/article/36558/shakuntala-singh-porte-sparks-debate-after-strict-warning-to-officials
+// 3. [refersms.com, 2024-07-26] 'CM ne janmadin par badhai di' → REJECT: shubhkamna khabar, vikas kaam nahi + non-whitelist — https://www.refersms.com/chhattisgarh-cm-shakuntala-singh-porte-2024-07-26/
+// 4. [dainikchhattisgarhwatch.com, pre-2023] 'Bhawanipur me samudayik bhawan ka lokarpan' → REJECT: galat vyakti (Kasdol ki Shakuntala Sahu, INC, purana karyakaal) + non-whitelist — https://dainikchhattisgarhwatch.com/tag/mla-inaugurated-community-building-in-bhawanipur/feed/
+// 5. [Business Standard, 2023] 'halafname me Criminal Cases: Yes flag' → REJECT as negative: halafname ka pending mamla akele negative nahi hota; koi FIR/janch ki established-media khabar nahi mili — https://www.business-standard.com/amp/elections/chhattisgarh-elections/shakuntala-singh-portey-candidate-30042
+// 6. [news18.com, 2023] 'candidate profile: 0 criminal cases' → REJECT: chunav profile hai, karyakaal ka kaam nahi — https://www.news18.com/elections/assembly/chhattisgarh/shakuntala-singh-portey-candidate-s26aed2008a006e2023c003/
+// NOTE: 10+ search rounds (Hindi/English dono spellings, whitelist site-scoped, news vertical, DPR CG query) me Dec 2023 ke baad ka koi bhi whitelist-press-reported lokarpan/shilanyas/sadak/paani/school/aspataal kaam nahi mila. Galat entry se khali profile behtar — array khali rakha gaya.
+chhattisgarhWorks['shakuntala-singh-portey'] = [];
+
+// Chhattisgarh works-mining worker fragment (researched 2026-10-17): ram-vichar-netam
+// (Ram Vichar Netam, BJP, Ramanujganj ST, Balrampur district).
+// Foundation: 2023 me Ramanujganj (ST) se 99,574 vote (54.58%) lekar jeete; runner-up
+// Dr. Ajay Kumar Tirkey (INC, 69,911) ko 29,663 maton se haraya. 17 Dec 2023 ko Protem
+// Speaker rahe; 22 Dec 2023 se CG sarkar me MANTRI — Krishi, Anusuchit Janjati Vikas.
+// SAKHT MANTRI-NIYAM lagu: sirf Ramanujganj seat ke vishesh kaam; rajya-stariya
+// krishi/tribal-vikas faisle kaam NAHI; Protem Speaker bhoomika kaam NAHI.
+// Poorv karyakaal (Ramanujganj MLA 2008-2013, Rajya Sabha MP Jun 2016-Jun 2022,
+// Raman Singh sarkar me mantri 2003-2013) ke kaam is profile me NAHI.
+// Halafnama: koi criminal case nahi (Business Standard/myneta.info).
+// RESULT: whitelisted + khule hue sources se koi VALID entry nahi mili — profile khaali.
+// Teen promising leads (Oct 2026 ke do events, Jan 2025 ka ek event) sirf non-whitelisted
+// portals par hain; CG DPR press note (samachar kramank 1587/2026) maujood hai lekin
+// dprcg.gov.in is VM se khul nahi paya — coordinator retry kar sakta hai. Sab neeche darj.
+
+chhattisgarhWorks['ram-vichar-netam'] = [];
+
+// REJECT-LOG:
+// 1. [pradeshkhabar.in + offbeatnews.in + cgtoday.in + khabar30.in + etvbharat.com — KOI BHI
+//    whitelist me nahi; 9-10 Oct 2026] 'Krishi mantri Ram Vichar Netam ne Van Vatika
+//    Ramanujganj me Rs 149.70 lakh ke eco-tourism vikas karyon ka bhoomi pujan kiya'
+//    (Paryavaran Vaniki Yojana, Van Vibhag Balrampur; bal vatika/jal vatika/saundarya vatika;
+//    prastav 1 Aug 2026, swikriti 1 Sep 2026). Seat-specific bhautik kaam ka strong lead tha
+//    lekin koi whitelisted source nahi mila. CG DPR press note 'samachar kramank: 1587/2026'
+//    maujood hai (pradeshkhabar ne DPR release se uthaya), lekin dprcg.gov.in is VM se DNS par
+//    khul nahi paya aur jansampark.cg.gov.in ke press section ka URL navigate nahi ho paya.
+//    Niyam 'khul na sakne wala page source nahi' par REJECT. **RETRY LEAD** — coordinator DPR
+//    release kholkar badge 'sarkari' entry bana sakta hai. URL (non-whitelisted, sirf lead):
+//    https://pradeshkhabar.in/?p=237347
+//    https://www.etvbharat.com/hi/state/ramanujganj-van-vatika-will-be-developed-as-eco-tourism-hub-in-balrampur-cts26101000957
+// 2. [offbeatnews.in + pradeshkhabar.in — whitelist me nahi; 9-10 Oct 2026] 'Ramanujganj me
+//    Pando samaj ke liye 3 pre-matric chhatravason ka shubharambh; Rs 1.52 crore ke 13
+//    anganwadi bhavan aur Rs 54 lakh ki 5 puliyaon ka lokarpan; Rs 1.02 crore ke 8 uchit
+//    mulya dukan-sah-godam bhavanon ka bhoomi pujan — mantri Netam ne kiya'
+//    (Ramanujganj balak/balika + Dindo balak chhatravas, kul 150 seats; anganwadi gaon:
+//    Hariharpur, Lodha, Trikunda, Belkurta, Chiniya, Dolangi, Kamalpur, Pachawal, Salvahi,
+//    Tambeshwarnagar, Tatathar, Tetardih, Bhanvarmal — sab Ramanujganj tehsil/seat me).
+//    Seat-specific bhautik sanrachnaon ka lokarpan/bhoomi pujan — VALID ho sakta tha, lekin
+//    source whitelisted nahi → REJECT. **RETRY LEAD** — DPR press note dhoondhkar verify karo.
+//    NOTE: 8 godam Ramchandrapur vikas-khand me hain — us block ka seat (Ramanujganj vs Samri)
+//    verify kiye bina entry me shamil mat karna. URL (non-whitelisted, sirf lead):
+//    https://offbeatnews.in/development-gift-to-pando-samaj-at-ramanujganj-three-hostels-inaugurat/
+//    https://pradeshkhabar.in/?p=237350
+// 3. [cgmp.co.in — whitelist me nahi; ~Jan 2025] 'Krishi mantri Netam ne Daura me Rs 781.59
+//    lakh ke vikas karyon ka bhoomi pujan kiya; Mahrajganj, Ranhat aur Daura me Mahatari
+//    Sadan (pratyek Rs 24.70 lakh, FY 2024-25 swikriti) ka bhoomi pujan'
+//    (Balrampur vikas-khand; mantri ne kaha 'lagbhag Rs 8 crore ke karyon ka bhoomi pujan').
+//    Seat-specific lagta hai lekin source whitelisted nahi → REJECT. **RETRY LEAD** —
+//    Daura/Mahrajganj/Ranhat (Balrampur tehsil) ka seat bhi verify karna hoga (Ramanujganj
+//    AC me Balrampur tehsil ka keval kuchh hissa hai). URL (non-whitelisted, sirf lead):
+//    https://www.cgmp.co.in/agriculture-minister-ramvichar-netam-performed-bhoomi-pujan-of-development-works-worth-rs-781-59-lakh-in-daura/101252/
+// 4. [lokmanjari.com — whitelist me nahi] CM Vishnudev Sai ke Balrampur jile ke karyakram me
+//    kai pariyojnaon ka lokarpan/shilanyas (Eklavya school Nawapara/Wadrafnagar, Tameshwar
+//    Nagar airstrip upgrade, Maharajganj-Pachawal sadak Rs 2.16 cr, swasthya kendra) —
+//    'Tribal Affairs Minister Shri Ramvichar Netam ... present' — Netam SIRF upasthit the,
+//    lokarpan CM ne kiya → dusre neta ke karyakram me maujoodgi → REJECT.
+//    URL: https://www.lokmanjari.com/article.php?page=8&menuid=1
+// 5. [Haribhoomi (whitelisted), 24 Mar 2026] 'Jila Samvad' interview: mantri Netam ka dawa ki
+//    'do saal me bharosa badha, Balrampur rajya ka sabse vikasit jila hoga' — sadak, bijli,
+//    paani, sinchai, shiksha, swasthya ki kamiyan door karne ka wada. Koi vishesh purn kaam
+//    fund/bhoomika ke saath disclosed nahi — sirf ghoshna/dawe → REJECT.
+//    URL: https://www1.haribhoomi.com/state-local/chhattishgarh/news/district-dialogue-agriculture-minister-ramvichar-netam-dr-himanshu-dwivedi-balrampur-developed-88181
+// 6. [PTI via ThePrint/NDTV/rediff, Dec 2023] Protem Speaker shapath (17 Dec 2023, Raj Bhavan)
+//    — pad/bhoomika hai, bhautik kaam nahi → REJECT (mantri-niyam me bhi excluded).
+// 7. Mantri-roop ke rajya-stariya faisle — IGKV paper leak me FIR/janch ke nirdesh (lalluram.com,
+//    chaturpost.com — dono whitelist me nahi; waise bhi Raipur ka mamla), krishi sameeksha
+//    baithken, Niyad Nellanar jaisi yojnaon par bayan — SAKHT MANTRI-NIYAM par sab REJECT
+//    (rajya-stariya krishi/tribal-vikas faisle kaam nahi).
+// 8. Chunav-parinam coverage (ABP/ Navbharat Times, Dec 2023), cabinet-vistar coverage
+//    (Haribhoomi/Business Standard, Dec 2023) — rajnaitik khabar, kaam nahi → REJECT.
+// 9. [ANI via webindia123, Dec 2021] RS MP ke roop me Netam ne Balrampur prashasan par BJP
+//    karyakartaon par 'false FIR' ka aarop lagaya — neta SHIKAYATKARTA the, aaropi nahi;
+//    pre-term (2021) mamla → negative nahi. URL: https://news.webindia123.com/news/Articles/India/20211213/3872588.html
+// 10. Salwa Judum (Grokipedia 'controversies' ullekh): Netam 2005-2008 me Grih Mantri the;
+//     SC ne 2011 me Salwa Judum ko asanvaidhanik ghoshit kiya. Lekin neta par koi FIR nahi,
+//     koi naam-daar adhikari-pusht janch nahi, aur vartaman karyakaal (Dec 2023+) me koi
+//     legal development nahi → pre-term mamla, negative threshold fail → EXCLUDED.
+//     (Halafnama: 'No criminal cases' — Business Standard/myneta.info.)
+// 11. [lalluram.com/chaturpost.com — whitelist me nahi] IGKV paper leak: mantri ne FIR ke
+//     nirdesh diye — ve aaropi nahi, prashasanik kadam → negative nahi.
+// 12. Neta ke X handle (@ramvicharnetam) ke dawe/post — social media source nahi banta → REJECT.
+// 13. [dailychhattisgarh.com — whitelist me nahi; 31 Jan 2026] Mahasamund pashu-chikitsa
+//     deekshant samaroh me 'vishisht atithi' ke roop me upasthiti — mukhya-atithi/samaroh,
+//     seat se bahar, kaam nahi → REJECT.
+
+// REJECT-LOG: Udhheshwari Paikra (BJP, Samri ST, Balrampur)
+// 1. [DailyChhattisgarh, 2024-03-16] 'Bakaspar jalashay unnayan ka bhoomipujan — Rs 2.84 crore, vidhayak ki pahal par rashi swikrit; saath hi Hanspur/Ghutradih baandh poojan aur Ratasili-Kusmi-Karaundha ~15 km sadak (lagbhag Rs 44 crore) ka bhoomipujan' → REJECT: source not whitelist (DailyChhattisgarh small regional portal, not in whitelist list). URL: https://www.dailychhattisgarh.com/surajpur/211259/rss-feeds.php
+// 2. [livevns.news, 2025-05-05] 'Lava jalashay sinchai pariyojana ka bhoomipujan — lagbhag Rs 25.99 crore, tender se Sincere Construction Co., 6+ gaon labhanvit (Hindustan Samachar wire)' → REJECT: source not whitelist (Varanasi-based small outlet livevns.news; HS wire on non-established outlet). URL: https://livevns.news/state/chhattisgarh/bhoomi-pujan-of-lava-reservoir-irrigation-projectphp/cid16669817.htm
+// 3. [Dainik Bhaskar (bhaskar.com), ~2026-03] 'Samri vidhayak ne Bario ke shaskiya school me bachchiyon ko cycle baanti (Beti Bachao Beti Padhao)' → REJECT: daan/vitran kaam — works rules me daan/rahat kaam excluded. URL: https://www.bhaskar.com/amp/local/chhattisgarh/ambikapur/news/samari-mla-paikra-distributed-bicycles-136636668.html
+// 4. [Dainik Bhaskar (bhaskar.com), ~2026-03] 'Uchchatar madhyamik vidyalaya ke nirmanadhin bhavan ka nirikshan, PWD engineer ko phone par samjhais' → REJECT: sirf nirikshan/daura — excluded. URL: https://www.bhaskar.com/amp/local/chhattisgarh/ambikapur/news/samari-mla-paikra-distributed-bicycles-136636668.html
+// 5. [cgtoday.in, 2026-09-28] 'Bario me Mahatari Sadan ka lokarpan, vidhayak ne chhath ghat me shramdan kiya' → REJECT: source not whitelist (CG Today small portal). URL: https://cgtoday.in/mahatari-sadan-inaugurated-barisi-mla-smt-udheshwari-paikra-donates-shramdaan-chhath-ghat/
+// 6. [public.app, ~2026-10] 'Semra me Rs 24.70 lakh ke Mahatari Sadan ka lokarpan vidhayak ne kiya' → REJECT: aggregator explicitly excluded (public.app). URL: https://public.app/video/sp_967ahikkpg5yx
+// 7. [cgaajkiawaaj.in, 2026-09-18] 'Azadi ke baad pehli baar bhet-mulakat karyakram — Asanpani Bairadih me bijli/paani/sadak ki samasya suni, CC sadak ka ashwasan' → REJECT: source not whitelist (small portal) + keval ashwasan/maang — excluded. URL: https://www.cgaajkiawaaj.in/2026/09/blog-post_18.html
+// 8. [arthparkash.com, ~2026-10] 'BJP vidhayak banam SDM — Rajpur college road CC sadak bhoomipujan karyakram me SDM ke na aane par vivaad, 24 ghante ka ultimatum' → REJECT: source not whitelist + siyasi/prashasanik vivaad hai, koi kaam (work) nahi. URL: https://www.arthparkash.com/balrampur-bjp-mla-vs-sdm-uddheshwari
+// 9. [ibc24.in, ~2025-02] 'Sarna Pooja me vidhayak ka khaas andaz — Basant Panchami par adivasi nritya me shamil' → REJECT: source not whitelist + sanskritik karyakram me bhagidari, kaam nahi. URL: https://www.ibc24.in/chhattisgarh/balrampur/sarna-pooja-mla-udheshwari-paikra-this-mlas-special-style-was-seen-in-sarna-pooja-2927857.html
+// 10. [DailyChhattisgarh, 2025-12-12] 'Atmanirbhar Bharat Sankalp Abhiyan / mahila sammelan me vidhayak mukhya atithi' → REJECT: source not whitelist + mukhya-atithi samaroh — excluded. URL: https://www.dailychhattisgarh.com/balrampur/285688/-
+// NEGATIVES: halafname ka pending mamla (IPC 147/341/34) — current term (Dec 2023+) me koi girafaari/chargesheet/verdict established media me nahi mila. Arth Parkash SDM vivaad me koi FIR/janch nahi. 0 negative entries.
+// Retry-leads: none (saare key pages khul gaye; reject sab source-rule/work-rule par hai, open-failure par nahi).
+chhattisgarhWorks['udhheshwari-paikra'] = [];
+
+// ---- Balrampur district batch END (1 work, 0 negatives) ----
+
+// ---- Surguja district batch (researched 2026-10-17) ----
+
+// AapkaNeta.org — Chhattisgarh works fragment
+// MLA: Prabodh Minz (prabodh-minz), Lundra (ST), Surguja, BJP
+// Karyakaal: 2023-2028 (shapath Dec 2023). Researched 2026-10-17.
+// RESULT: koi bhi entry whitelist + post-event verification rules par khari
+// nahi utri. Print leads (Haribhoomi/Navbharat epaper clippings) text-tools se
+// padhe nahi ja sake (JS-rendered epaper pages) — isliye retry-leads, entry nahi.
+
+chhattisgarhWorks['prabodh-minz'] = [];
+
+// REJECT-LOG: Prabodh Minz
+// 1. [Haribhoomi print, 15 Sep 2026] 'Vidhayak ne kiya sadak nirman ka bhoomi pujan — Chhindkalo Kotiya se Shivpur tak Rs 8.26 crore sadak; bhoomi pujan 13 Sep 2026 ko Minj ne kiya' → LEAD (entry nahi): epaper.haribhoomi.com par 15 Sep 2026 Bilaspur edition archive me maujood hai (https://epaper.haribhoomi.com/view/63832/15092026-bilaspur-main) lekin page-images JS-rendered hain — khabar ka text khola/padha NAHI ja saka; sirf @prabodhminj ke IG collage (15 Sep 2026) par clipping dikhi jo source nahi. RETRY-LEADS L1 me rakha.
+// 2. [Amrit Sandesh print, 15 Sep 2026] 'Chhindkalo Kotiya se Shivpur Rs 8.26 crore sadak ka bhoomi pujan Minj ne kiya' (IG collage par clipping) → REJECT: Amrit Sandesh whitelist me nahi hai.
+// 3. [Navbharat print, 23 Aug 2026, Ambikapur] 'Education is necessary for success in life: MLA' + schoolgirls ko cycle vitran ki tasveeren (IG collage par clipping) → REJECT: Shala Praveshotsav/sarkari yojna ka karyakram; bhautik sanrachna ka lokarpan/shilanyas nahi; cycle vitran = sarkari abhiyan ke dauran vitran; print page khula bhi nahi.
+// 4. [Haribhoomi print, 08 Jul 2026 + 11 Jul 2026, Bilaspur Surguja ed., page 3] 'schooli chhatraon ko cycle vitran' + 'MLA sankul stariya shala pravesh utsav me shamil, tilak lagakar karaya shala pravesh' (IG collage par clipping) → REJECT: Shala Praveshotsav sarkari abhiyan hai; Minj ne keval bhag liya/vitran kiya — vikas-sanrachna nahi.
+// 5. [News24 Chhattisgarh, 22 Jun 2026] 'Lundra me Rs 27 crore sadak pariyojna ka Minj dwara surprise inspection; PWD adhikariyon ko fatkara' (IG/FB reel) → REJECT: (a) sirf nirikshan — nirikshan entry nahi banta; (b) non-whitelisted outlet.
+// 6. [Swadesh News, 11 Sep 2026] 'MLA Prabodh Minj ke prayason se sadkon ke liye karodon swikrit — Amgasi-Kunni road ~Rs 27 crore, Ghutun-Kesra tender, Katinda-Barpara ~Rs 17 crore' (FB reel) → REJECT: (a) non-whitelisted; (b) sirf swikriti/ghoshna — bhoomi pujan/lokarpan nahi.
+// 7. [National News Live, 11 Sep 2026] wahi sadak-pariyojna story (FB reel) → REJECT: non-whitelisted + ghoshna-only.
+// 8. [Dainik Bhaskar print, 06-07-2026, Ambikapur ed.] 'Dr. Mukherjee ke rashtra nirman me yogdan ko kiya yaad — Samudayik Bhavan Lundra me BJP smaran karyakram; MP Chintamani Maharaj + MLA Minj maujood' (IG par clipping) → REJECT: party karyakram me maujoodgi; vikas-karya nahi.
+// 9. [IG @prabodhminj, 14 Jun 2026] 'Dhaurpur me naye shaskiya college ka shilanyas/bhoomi pujan — akhbar clippings ka collage' → REJECT: (a) IG whitelist me nahi; (b) kaunsi akhbar, post-event hai ya pre-event ghoshna — verify nahi ho saka. NOTE: Dhaurpur college ki ghoshna khud CM Baghel ne May 2022 me ki thi (pre-term).
+// 10. [IG @prabodhminj reel, 18 Jan 2026] 'bhoomi-pujan + fawde se shilanyas, Rs 284.01 lakh ki pariyojnaen' → REJECT: IG non-whitelisted; pariyojna pehchani nahi ja saki, fund-source disclose nahi.
+// 11. [IG reel, 02 Oct 2026] 'Angan Milan Seva, Lundra — Poshan Maah karyakram me deep prajvalan, neta-bhoj' → REJECT: sarkari abhiyan ka keval shubharambh; bhautik sanrachna nahi.
+// 12. [IG post, 07 Apr 2026] 'BJP 47th foundation day — Minj chief guest' (6 Apr 2026 akhbar clipping ke saath) → REJECT: party karyakram.
+// 13. [Grand News Chhattisgarh via IG, 10 Sep 2026] 'Seva Sankalp Abhiyan — PM Modi ke 25 saal par BJP karyakram, Minj ne sambodhit kiya' → REJECT: party abhiyan + non-whitelisted.
+// 14. [IG video, 25 Sep 2026] 'Anganwadi Kendra Lalmati (1), Gram Panchayat Lalmati ka udghatan — ribbon-cutting' → REJECT: IG non-whitelisted + ribbon katne wala vyakti Minj hai ya nahi, verify nahi ho saka.
+// 15. [DD YouTube 'Jan Samvad', Aug 2026] 'Lundra me janmat — mixed opinion' (FB reel par) → REJECT: YouTube whitelist me nahi; opinion hai, works-entry nahi.
+// 16. [Lok Manjari/TNINS, 10 Jun 2024] 'CM Vishnu Deo Sai ka Delhi Tribal Youth Hostel daura — Lundra MLA Shri Prabodh Minj were also present' → REJECT: maujoodgi; CM ka karyakram, MLA ki vyaktigat bhoomika disclosed nahi. URL: https://www.lokmanjari.com/article.php?page=17&menuid=1
+// 17. [Lok Manjari/TNINS, 01 Oct 2024] 'Siyan Samman karyakram, Surajpur — attendee suchi me Lundra MLA Shri Prabodh Minj' → REJECT: maujoodgi; pre-event attendee list, post-event reporting bhi nahi.
+// 18. [organiser.org, 13 Sep 2023] 'BJP ticket par Christian candidate ko lekar delisting samarthakon ka virodh' → REJECT: (a) pre-term (chunav se pehle ka vivad); (b) koi FIR ya adhikari-pusht janch nahi; (c) wartaman karyakaal me koi legal development nahi. Negative niyam poora nahi hota. URL: https://organiser.org/2023/09/13/195562/bharat/chhattisgarh-bjp-in-dock-over-candidature-of-christian-leader-from-tribal-dominated-lundra-constituency/
+// 19. [myneta.info / Business Standard] 'halafnama: 0 criminal cases' → NOTE (context only): halafname ke pending mamle akele negative nahi, aur yahan koi mamla hai hi nahi. URL: https://www.myneta.info/Chhattisgarh2023/candidate.php?candidate_id=341
+// 20. [ETV Bharat, 07 Dec 2023] 'First Christian MLA from BJP to take oath in Chhattisgarh' → REJECT: chunav-pashchat ghatna, works-entry nahi. URL: https://www.etvbharat.com/english/state/chhattisgarh/first-christian-mla-from-bjp-to-take-oath-in-chhattisgarh/na20231207070945664664007
+// 21. [PRS India, mlatrack/prabodh-minz] 'Vidhansabha activity: upasthiti 91.8%, prashn 58 (period 03-12-2023 to 20-03-2026)' → NOTE: kisi prashn/maang ka dastaveji nateeja ya mantri-ashwasan whitelisted media me nahi mila; isliye entry nahi. URL: https://prsindia.org/mlatrack/prabodh-minz
+
+// RETRY-LEADS: Prabodh Minz
+// L1. Haribhoomi epaper, 15 Sep 2026 — 'Vidhayak ne kiya sadak nirman ka bhoomi pujan' (event: 13 Sep 2026; Chhindkalo Kotiya se Shivpur sadak, Rs 8.26 crore; bhoomi pujan Minj ne kiya). STATUS: print me post-event reporting maujood hai (Amrit Sandesh ne bhi chhapa, 15 Sep 2026) lekin epaper page-images JS-rendered — text tools se verify nahi ho saka. Archive: https://epaper.haribhoomi.com/view/63832/15092026-bilaspur-main (Bilaspur Surguja sub-edition, page 3 ke aaspaas dhoondho). Live-browser ya epaper subscription se verify hote hi entry banao (category: Sadak; badge: news).
+// L2. Dhaurpur shaskiya college shilanyas (June 2026) — IG par akhbar clippings dikhi; kis akhbar me, post-event hai ya nahi — whitelisted outlet (Dainik Bhaskar/Haribhoomi/Navbharat/Patrika) me coverage mile to entry (category: School; badge: news).
+// L3. 18 Jan 2026 bhoomi-pujan (Rs 284.01 lakh) — pariyojna ki pehchan aur whitelisted print coverage dhoondho.
+// L4. CG DPR/jansampark (dip.cg.nic.in) press releases — 'Prabodh Minj' ya 'Lundra' keyword par — is worker ne check nahi kiya; badge 'sarkari' ki sambhavna.
+// L5. Lundra ke liye itemized Vidhayak Nidhi swikriti suchi — sarkari portal ya whitelisted media me nahi mili; mile to GO-backed swikriti entry.
+
+// REJECT-LOG: Rajesh Agrawal
+// 1. [dailychhattisgarh, 21-Aug-2024] 'Lakhanpur NP ward 8 me Rs 20 lakh ka naya meat market, MLA ki pahal, lokarpan' → REJECT: outlet whitelist me nahi; URL https://www.dailychhattisgarh.com/surguja/230737/rss-feeds.php
+// 2. [dailychhattisgarh, 09-Nov-2024] 'Katghora se Ambikapur NH-130 four-lane ko Gadkari ki swikriti, MLA ne patra likha tha' → REJECT: outlet whitelist me nahi; kendriya pariyojna me vyaktigat bhoomika ka ekmatra saboot non-whitelisted; URL https://www.dailychhattisgarh.com/surguja/240411/rss-feeds.php
+// 3. [ghatatighatana, 23-Nov-2024] 'Lakhanpur Atmanand school me Rs 14.98 lakh paver block ka bhoomi-pujan MLA dwara' → REJECT: outlet whitelist me nahi; URL https://www.ghatatighatana.com/2024/11/23/136169/
+// 4. [ghatatighatana, 25-Dec-2023] 'Ambikapur me 5 naye transformer (Rs 22 lakh) ka lokarpan MLA dwara' → REJECT: outlet whitelist me nahi; state bijli company ka kaam, vyaktigat bhoomika/fund nahi; URL https://www.ghatatighatana.com/2023/12/25/100120/
+// 5. [ghatatighatana, 16-Nov-2025] 'Kunni me Rs 46.56 crore ke pul/sadak/bazaar shed/CHC ka bhoomi-pujan' → REJECT: Lundra vidhansabha seat, Ambikapur seat nahi; outlet whitelist me nahi; URL https://www.ghatatighatana.com/2025/11/16/184336/
+// 6. [indiaxnews, Jul-2025] 'MLA ki pahal se Ambikapur seat ke vikas karyon ko Rs 49.41 crore ki swikriti' → LEAD: site payment-block (dead), outlet whitelist me nahi; whitelisted outlet me talash retry; URL https://www.indiaxnews.com/2025/07/4941.html
+// 7. [cgmp.co.in/cityhotnews, 27-Apr-2026] 'Lakhanpur NP me Rs 283 lakh ki sadak/nali/samudayik pariyojnaon ka bhoomi-pujan mantri dwara' → LEAD: DPR press-note style lekin outlet whitelist me nahi; sarkari DPR portal par retry; URL https://www.cgmp.co.in/the-nature-of-lakhanpur-nagar-panchayat-will-change-with-the-expansion-of-basic-facilities-cabinet-minister-rajesh-aggarwal-has-announced-development-projects-worth-rs-283-lakh/159051/
+// 8. [dailychhattisgarh/media24news, 11-Dec-2025] 'Binkara GP me Saraswati Shishu Mandir school bhawan, Rs 20 lakh Vidhayak Nidhi, bhoomi-pujan' → LEAD: outlet whitelist me nahi; DPR/whitelisted outlet me talash retry; URL https://www.dailychhattisgarh.com/surguja/285549/-
+// 9. [vistaarnews, ~Sep-2026] 'Badhal sadkon ko lekar mantri ke bangle ka gherao, pradarshankariyon se aashvasan' → REJECT: outlet whitelist me nahi; virodh-pradarshan, kaam nahi; URL https://vistaarnews.com/chhattisgarh/surguja/ambikapur-sadak-ke-liye-mantri-rajesh-agarwal-bangla-gherao-baarish-mein-pradarshan-chai-laddu-aalu-chap/
+// 10. [bhaskar.com, 2026] 'CM Sai ne Ambikapur BJP karyalay (Rs 2 crore) ka bhoomi-pujan kiya, Rajesh Agrawal upasthit' → REJECT: CM ka karyakram, party karyalay, MLA sirf upasthit; URL https://www.bhaskar.com/amp/local/chhattisgarh/ambikapur/news/cm-vishnu-deo-sai-surguja-bjp-office-bhumi-pujan-137105837.html
+// 11. [bhaskar.com, Apr-2026] 'Ambikapur Lalamati me Agroha Trust Palace (150 kamre) ka bhoomi-pujan; MP Brijmohan chief guest, mantri vishisht atithi' → REJECT: samaj/community bhavan (daan se), mantri sirf atithi; URL https://www.bhaskar.com/local/chhattisgarh/ambikapur/news/mmp-brijmohan-critiques-congress-ambikapur-agroha-bhavan-bhumi-pujan-137743045.html
+// 12. [bhaskarhindi.com (IANS), 16-Oct-2026] 'Surguja me 35 sarkari schoolon me free NEET-JEE online coaching (DMF fund), 17 Oct ko mantri dwara shubharambh' → REJECT: sarkari abhiyan ka keval shubharambh; URL https://www.bhaskarhindi.com/other/hindi-no-more-expensive-coaching-free-neet-jee-classes-to-35-govt-schools-in-surguja-20261016203603-1377710
+// 13. [haribhoomi.com, 15-Mar-2026] 'Kathavachak Ramanuragi Maharaj ka viral video: mantri ne Lakhanpur me katha karai, Rs 15 lakh nahi diye; mantri ne aarop jhoothe bataye' → REJECT as negative: FIR ya naam-daar adhikari-pusht janch nahi; sirf contested aarop-praty aarop; URL https://www.haribhoomi.com/state-local/chhattishgarh/news/ambikapur-rajesh-agarwal-allegations-preacher-demanded-rs-15-lakh-govt-funds-religious-not-possible-86861/amp
+// 14. [visionnewsservice, 2025] 'Ramgarh mahotsav ka shubharambh MLA ke mukhya aatithya me' → REJECT: outlet whitelist me nahi; sanskritik mahotsav ka shubharambh; URL https://visionnewsservice.in/single-page/129374
+// 15. [cgprayagnews, Oct-2024] 'PM Modi ne Maa Mahamaya airport Darima ka virtual udghatan kiya; MLA upasthit' → REJECT: outlet whitelist me nahi; PM ke karyakram me maujoodgi; URL https://cgprayagnews.com/virtual-inauguration-of-maa-mahamaya-airport-darima/
+// 16. [visionnewsservice/indianmasterminds, Apr-2026] 'Lundra kisan sammelan me CM Sai ne Rs 281 crore pariyojnaon ka lokarpan-bhoomi-pujan kiya' → REJECT: CM ka karyakram, Ambikapur seat nahi (Lundra), MLA ki vyaktigat bhoomika nahi; URL https://indianmasterminds.com/news/chhattisgarh-vishnu-deo-sai-281-crore-development-projects-farmers-196750/
+// 17. [univarta (PTI), 17-Apr-2026] 'Mainpat kshetra me paryatan suvidhaon ke shed ka bhoomi-pujan' → REJECT: Mainpat Sitapur seat me hai, Ambikapur seat nahi; mantri-portfolio paryatan nirnay (strict mantri-niyam); URL https://www.univarta.com/news/madhya-pradesh-chhattisgarh/story/3814049.html
+// 18. [yashbharat/bansalnews] 'SSP Rajesh Agrawal ki fake Facebook ID / SP Rajesh Agrawal ne 3 policekarmiyon ko nilambit kiya' → REJECT: ye Surguja SP (police adhikari) hain, MLA Rajesh Agrawal nahi; URL https://www.yashbharat.com/big-audacity-of-cyber-thugs-in-chhattisgarh-surguja-ssp-rajesh-aggarwal-created-fake-facebook-id/
+// 19. [clipper28, 15-Sep-2026] 'Sarguja sambhag me 44 sadak karyon ko Rs 1093.73 crore ki prashasakiya swikriti' → REJECT: outlet whitelist me nahi; rajya sarkar ki sambhag-stariya swikriti, MLA ki vyaktigat bhoomika darj nahi; URL https://clipper28.com/road-infrastructure-in-surguja-division-to-receive-a-historic-boost/
+// 20. [mediapassion, 20-Apr-2026] 'Ambikapur me Shri Agroha Palace ka bhoomi-pujan mantri dwara' → REJECT: outlet whitelist me nahi; samaj bhavan (item 11 ke same event); URL (see item 11)
+// 21. [public.app video, Aug-2026] 'Lakhanpur me machhli beej vitran, mantri atithi' → REJECT: outlet whitelist me nahi; vibhagiya yojna ka vitran karyakram, kaam nahi; URL https://public.app/video/sp_xrao4p2kcp568
+chhattisgarhWorks['rajesh-agrawal'] = [
+  {
+    title: 'Tourism and Culture Minister Rajesh Agrawal ne Ambikapur kshetra me Rs 7 crore lagat wale pul ka bhoomi-pujan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Univarta (PTI)',
+    sourceUrl: 'https://www.univarta.com/news/madhya-pradesh-chhattisgarh/story/3814049.html',
+    date: '2026-04-17',
+    note: 'PTI/Univarta ke mutabik mantri Rajesh Agrawal ne shukrawar ko Ambikapur kshetra me Rs 7 crore ki lagat se banne wale pul ka bhoomi-pujan kiya; isi khabar me Mainpat kshetra ke paryatan shed ka bhi zikr hai jo Ambikapur seat se bahar hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG: Ramkumar Toppo (BJP, Sitapur ST)
+// 1. [The Times of India, Nov 2023] 'Caste certificate controversy surrounds BJP candidate' → REJECT: pre-term vivad (Oct-Nov 2023, chunav se pehle); current karyakaal me HC ka final faisla / certificate radd-bahali / chargesheet jaisa koi legal development established media me nahi mila — https://timesofindia.indiatimes.com/city/raipur/caste-certificate-controversy-surrounds-bjp-candidate-in-chhattisgarh-elections/articleshow/104854694.cms
+// 2. [Chhattisgarh Aaj, 2024] Maa Mahamaya Airport ke lokarpan-virual shubharambh samaroh me 'vidhayak Sitapur Shri Ramkumar Toppo' upasthit → REJECT: sirf dusre ke karyakram me maujoodgi, koi vyaktigat bhoomika ya fund nahi; outlet whitelist me nahi — https://chhattisgarhaaj.com/article-cg.php?page=929&menuid=11
+// 3. [Fatafat News, 8 Sep 2026] 'Shikshak Sadan ki maang poori hone par shikshakon ne vidhayak Ramkumar Toppo ke prati aabhaar jataya' (Ambikapur) → REJECT: whitelist me nahi (chhota portal); community-claimed shrey, fund ya bhautik structure disclose nahi — https://fatafatnews.com/?f=331373921
+// 4. [Fatafat News, 4 Aug 2025] 'Shivalay me jalabhishek ke saath vidhayak Ramkumar Toppo sang kanwariyon ki kanwar mahayatra sampann' → REJECT: dharmik karyakram me upasthiti, vikas karya nahi; whitelist me nahi — https://fatafatnews.com/?f=567051914
+// 5. [Lok Manjari, 1 Oct 2024] CM ke 'Siyan Samman' karyakram me Sitapur MLA Ramkumar Toppo upasthit → REJECT: dusre neta (CM) ke karyakram me maujoodgi — https://www.lokmanjari.com/article.php?page=8&menuid=1
+// 6. [The Journalist, 2025] Karma Mahotsav karyakram me MLA Ramkumar Toppo upasthit → REJECT: karyakram me upasthiti, vikas karya nahi; whitelist me nahi — https://www.the-journalist.com/?p=40317
+// 7. [IBC24 topic page, Jun 2026] Tehsildar case updates (samarthakon ka surrender, hadtaal khatm) → REJECT/LEAD: IBC24 whitelist me nahi; negative pehle hi Indian Express se cover — https://www.ibc24.in/topic/sitapur-mla-controversy
+// 8. [General works search] Vidhayak Nidhi, lokarpan, shilanyas, bhoomipoojan, CG jansampark — kisi bhi whitelist outlet me Ramkumar Toppo ke karyakaal ke kisi vikas karya ki post-event reporting nahi mili → REJECT (no evidence; shanka par reject)
+chhattisgarhWorks['ramkumar-toppo'] = [
+  {
+    title: 'Nayab tehsildar se maarpeet ke aarop me Sitapur MLA Ramkumar Toppo par FIR darj',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/india/ramkumar-toppo-fir-revenue-official-assault-case-10712151/',
+    date: '2026-05-28',
+    note: 'NEGATIVE: Chhattisgarh ke BJP MLA Ramkumar Toppo aur unke ek darjan se zyada sahyogiyon par Surguja jile me revenue adhikari (nayab tehsildar Tushar Manik) se maarpeet ke aarop me FIR darj. Vivad parole se judi dastavez par hastakshar ko lekar hua; mahila (MLA ki rishtedar) ki shikayat par adhikari ke khilaf counter-FIR bhi. Stage: FIR / janch — final faisla abhi nahi. Article me MLA ka paksh/comment darj nahi hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- Surguja district batch END (1 work, 1 negative) ----

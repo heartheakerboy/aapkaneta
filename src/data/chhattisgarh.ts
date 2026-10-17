@@ -406,7 +406,7 @@ export const chhattisgarhNetas: Neta[] = [
       assets: 'Rs 93,02,399',
       liabilities: 'Rs 14,80,052',
       mynetaUrl: 'https://myneta.info/Chhattisgarh2023/candidate.php?candidate_id=496',
-      backgroundNote: 'Pehchan pakki: PRATAPPUR (ST) (BALRAMPUR), BJP, Winner. ECI me naam "Shakuntala Singh Portey"; kuch sroton me "Porthe" bhi milta hai.',
+      backgroundNote: 'Pehchan pakki: PRATAPPUR (ST) (BALRAMPUR), BJP, Winner. ECI me naam "Shakuntala Singh Portey"; kuch sroton me "Porthe" bhi milta hai. 2023 halafname me 1 aapradhik mamla lambit darj (IPC 147/149/341 ke aarop).',
     },
     electionNote: '2023 me Pratappur (ST) se 83,796 vote lekar jeetin; runner-up Rajkumari Shivbhajan Marabi (Indian National Congress) ko 11,708 maton se haraya.',
   },
