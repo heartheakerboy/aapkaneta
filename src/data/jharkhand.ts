@@ -2596,7 +2596,7 @@ export const jharkhandNetas: Neta[] = [
       assets: 'Rs 16,94,67,000',
       liabilities: 'Rs 0',
       mynetaUrl: 'https://myneta.info/Jharkhand2024/candidate.php?candidate_id=8',
-      backgroundNote: 'Pehchan pakki: BHAWANATHPUR, JMM, Winner. 2009 se lagatar Bhawanathpur ke MLA (chauthi jeet, 2014-2024 tak); dono cases chunav-sambandhit dharaon (171C, 188) ke hain.',
+      backgroundNote: 'Pehchan pakki: BHAWANATHPUR, JMM, Winner. Do baar Bhawanathpur ke MLA — 2009 (INC) aur 2024 (JMM); 2014 me BJP se aur 2019 me Independent hokar hare (donon baar Bhanu Pratap Shahi vijeta); dono cases chunav-sambandhit dharaon (171C, 188) ke hain.',
     },
     electionNote: '2024 me Bhawanathpur se 1,46,265 vote lekar jeete; runner-up Bhanu Pratap Sahi (BJP) ko 21,462 maton se haraya.',
   },
