@@ -987,3 +987,300 @@ tripuraWorks['ram-prasad-paul'] = [];
 // F. Tripura Vidhan Sabha records — Paul ki Vidhansabha maang/prashn ka dastaveji nateeja ya mantri-ashwasan (capped credit).
 
 // ---- West Tripura district batch B END ----
+
+// ---- Sepahijala district batch (researched 2026-10-17) ----
+tripuraWorks['biswajit-kalai'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (biswajit-kalai) =====
+// Biswajit Kalai — Takarjala (ST), Sepahijala — Tipra Motha Party — MLA since Feb/Mar 2023.
+// Election baseline: won Takarjala 2023 with 34,717 votes (86.81 pc), margin 32,455 votes over Bidhan Debbarma (IPFT); preceded by Narendra Chandra Debbarma (IPFT). Pre-term political note: began as a Twipra Students' Federation leader (noted on Wikipedia page, pre-term — no works entry made).
+// 9 search rounds run (lokarpan/shilanyas/udghatan, MLALAD itemized tables, sadak/school/paani/hospital, vidhansabha questions, negatives/FIR). ZERO valid entries found. Profile kept intentionally EMPTY per 'galat entry se khali behtar' rule.
+//
+// REJECTED LEADS:
+// 1. Agri Development Resource Cum Training Center, Takarjala (Tripura Chronicle, 12 Apr 2025; https://tripurachronicle.in/local-news/modern-tools-coming-soon-for-farmers-ratan-at-takarjala/) — inaugurated by Agriculture Minister Ratan Lal Nath; Biswajit Kalai listed only as a dignitary present. REJECT: dusre neta ke karyakram me maujoodgi (no personal role).
+// 2. MP Biplab Kumar Deb announces Rs 1 crore provision for Golaghati & Takarjala ACs at Tring Utsav (Tripura Chronicle, 22 Dec 2024; https://tripurachronicle.in/local-news/mp-biplab-kumar-deb-participates-in-tring-utsav-announces-rs-1-crore-fund-for-golaghati-takarjala-acs/) — REJECT: MP ke kaam + sirf ghoshna (pre-event announcement, no post-event work report).
+// 3. Khumulwng Govt. Degree College boundary-wall/auditorium demand (Borok Times, 17 Dec 2023; https://boroktimes.com/tipra-motha-party-leader-mla-biswajit-kalai-advocates-urgent-infrastructure-upgrades-at-khumulwng-govt-degree-college/) — Kalai merely advocated/raised the need at a Fresher's Meet. REJECT: sirf maang/prastav + source not on whitelist.
+// 4. 15th CYKA Sakungphai Festival 2025, Jampuijala (tripurastarnews.com / tripuraindia.in, 9 Jan 2025; https://www.tripurastarnews.com/cyka-conducted-15th-state-level-sakungphai-festival-2025/) — Kalai 'inaugurated the event by lighting the candle' at a cultural/post-harvest festival. REJECT: campaign-launch samaroh/cultural event, not physical govt infrastructure + sources not on whitelist.
+// 5. Fisheries Knowledge Centre, Jampuijala (tripurastarnews.com, 21 Nov 2025; https://www.tripurastarnews.com/fisheries-minister-of-tripura-sudhangshu-das-inaugurates-fisheries-knowledge-centre-in-jampuijala/) — inaugurated by Fisheries Minister Sudhangshu Das (Rs 52.65 lakh); Kalai only among guests. REJECT: dusre neta ke karyakram me maujoodgi + source not on whitelist.
+// 6. Community Managed Training Centre (CMTC), Jampuijala (tripurastarnews.com, 12 May 2026; https://www.tripurastarnews.com/cmtc-inaugurated-in-jampuijala-to-boost-tribal-livelihood-skills-under-world-bank-funded-tresp/) — inaugurated by Speaker Ram Pada Jamatia under World Bank TRESP; Kalai only attended. REJECT: dusre neta ke karyakram me maujoodgi + source not on whitelist.
+// 7. Letter to AMC Mayor Dipak Majumder on vegetable-vendor eviction, Nandan Nagar Agartala (indiatodayne.in, 12 Aug 2026; https://www.indiatodayne.in/tripura/story/tipra-motha-mla-seeks-immediate-intervention-over-eviction-of-vegetable-vendors-in-agartala-city-writes-to-mayor-1436852-2026-08-12) — a letter requesting inquiry/rehabilitation. REJECT: sirf maang (no documented result/nateeja).
+// 8. Tipra Motha delegation memorandum to DGP on Takarjala/Jampuijala law-and-order (Northeast Today + tripuraindia.in, 15 May 2026; https://www.tripuraindia.in/update/index/tipra-motha-leaders-meet-dgp-over-alleged-deterioration-of-law--order) — delegation headed by Kalai alleged attacks before/after TTAADC elections 2026. REJECT: sirf maang + Northeast Today explicitly not whitelisted; tripuraindia.in not on whitelist either.
+// 9. Tripura Sundari Temple royal-family sidelining issue raised in Assembly (nenow.in, 23 Sep 2025; https://nenow.in/topic/tripura-assembly) — Kalai asked about TMP/royal family being sidelined during PM visit. REJECT: sirf maang/prashn with no documented minister-assurance or official outcome.
+// 10. MLALAD per-seat itemized tables for Takarjala — searched Tripura Times MLALAD stories; only generic fund-hike news (Rs 50 lakh to Rs 75 lakh announced by CM) and other MLAs' MLALAD stories found; no Takarjala-seat itemized sanction/utilisation report found. REJECT: no source found (not inventing).
+// NEGATIVES: searched 'FIR/arrested/case/controversy' angles — results were all about a different person (ex-West Bengal MLA Biswajit Das, TMC, arrested Sept 2026 in North 24 Parganas with illegal firearm). No FIR, case, or official inquiry against Biswajit Kalai (Takarjala MLA) in any whitelisted source. His 2023 election affidavit (myneta) declares 0 criminal cases. negatives: 0.
+
+tripuraWorks['antara-sarkar-deb'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (antara-sarkar-deb) =====
+// 1. Football-tournament banner vivad (Nov 2025): Kamalasagar ke Matinagar me football tournament ke udghatan samaroha me MLA Antara Deb Sarkar ne banner par apni photo na hone par organizers se sawal kiya; video viral hua. PTI/rediff aur Tripura Chronicle me coverage. REJECT: ye vyaktigat rajneetik vivad hai, bhautik sarkari sanrachna ka lokarpan/shilanyas nahi; negative ke criteria (FIR ya adhikari-pusht janch) bhi poore nahi.
+// 2. Road-blockade protest (Tripura Chronicle, 2 July 2025): Kamalasagar me Uttam Bhakta Chowmuhani se Fultali Bazar sadak ki kharab halat par nivasiyon ne sadak jam kiya, MLA se shikayat. REJECT: ye unki uplabdhi nahi balki shikayat hai; koi FIR ya adhikari-pusht janch unke khilaf nahi, isliye negative entry bhi nahi banti.
+// 3. TGB bank stall inauguration, Bhadra Mela, Kasba Kali Bari (Northeast Today, Sep 2026): MLA ne Tripura Gramin Bank ke stall ka udghatan kiya. REJECT: bank ka prachar stall bhautik sarkari sanrachna (sadak/school/paani/hospital building) nahi.
+// 4. Health camp inauguration, Devipur sub health center (Borok Times, ~Apr 2023): MLA ne Rashtriya Sevika Samiti ke health camp ka udghatan kiya. REJECT: (a) source whitelist me nahi (Borok Times); (b) health camp ek aayojit karyakram hai, sthayi bhautik sanrachna ka lokarpan nahi.
+// 5. Veterinary dispensary, Madhupur (Tripura Times, 22 May 2026): Kamalasagar constituency me naye pashu chikitsalaya bhawan ka udghatan mantri Sudhangshu Das ne kiya. REJECT: dusre neta ka kaam; Antara Sarkar Deb ki vyaktigat bhoomika nahi.
+// 6. School building inauguration, Madhupur H.S. School (tripurastarnews): CM Manik Saha ne udghatan kiya, MLA keval upasthit thin. REJECT: dusre neta ke karyakram me maujoodgi; source bhi whitelist me nahi.
+// 7. CM ke 18 development projects launch, Sepahijala (tripurastarnews): MLA Antara Sarkar Deb keval dignitaries me upasthit. REJECT: maujoodgi; source whitelist me nahi.
+// 8. Legislators panel ne Kamalasagar me atke projects ka nirikshan kiya (Tripura Times, 30 May 2026). REJECT: sirf nirikshan; isme vyaktigat lokarpan/shilanyas nahi.
+// 9. Holy water (Mahakumbh) Kamalasagar lake me (PTI/Economic Times, Feb 2025): MLA ne Triveni Sangam ka jal Kasbeswari Mandir ke paas Kamalasagar jheel me milaya. REJECT: dharmik karyakram, bhautik sanrachna ka lokarpan/shilanyas nahi.
+// 10. Rain rituals at Kali temple during heatwave (PTI/ThePrint, 1 May 2024): MLA ne barish ke liye puja ki. REJECT: vyaktigat dharmik karyakram, kaam nahi.
+// 11. Road tender irregularity allegation, Dhanchhari-Nehal Chandanagar (timebharat24.blogspot.com): Rs 1.5 crore tender par aarop. REJECT: blogspot whitelist me nahi; aaropon ki koi swatantra pushti ya FIR nahi.
+// 12. Sri Sri Ravi Shankar University land allotment, Kamalasagar (devdiscourse/PTI feed, Oct 2025): 22.41 acre zameen allotment; MLA ne khushi jatayi. REJECT: sarkar ka faisla; bina vyaktigat bhoomika ke shrey nahi.
+// 13. Financial awareness campaign, Kasba Kali Temple (tripurastarnews, Dec 2025): MLA upasthit, QR code facility ka udghatan hua. REJECT: maujoodgi; source whitelist me nahi.
+// 14. Halafnama (myneta/Oneindia): Antara Sarkar Deb par koi criminal case nahi. Isliye negative search me kuch valid nahi mila; negative criteria me FIR/adhikari-pusht janch chahiye — aisa kuch established media me nahi mila.
+
+tripuraWorks['sushanta-deb'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (sushanta-deb) =====
+// 1. "Dakshineswari Kali Temple inauguration, Bishalgarh" (17 Jun 2026) — CM Manik Saha ne udghatan kiya; reporting (tripuranet.com) ke anusar mandir MLA Area Development Fund + local contributions + state govt se bana, aur MLA Sushanta Deb ki 'special initiative' thi. REJECT: event ko cover karne wala koi bhi outlet whitelist me nahi hai (tripuranet.com, neindia.com, aguli.in, prokerala.com whitelist se bahar; northeasttoday.in explicit REJECT hai). Whitelist source ke bina entry nahi ban sakti.
+// 2. "MLA distributes Rs 92.34 lakh flood compensation to 689 traders, Bishalgarh" (18 Sep 2025, Tripura Chronicle) — Aug 2024 badh ke vyapariyon ko sarkari muaavza vitaran. REJECT: daan/rahat shreni me aata hai, bhautik sarkari sanrachna ka lokarpan nahi.
+// 3. "'Prashanta Nilay' rest house for exam guardians" (24 Feb 2025, Tripura Chronicle) — board-exam guardians ke liye seating + paani ki asthaayi vyavastha, auto-rickshaw transport arrangement. REJECT: asthaayi samudaay vyavastha, sthaayi sarkari sanrachna nahi.
+// 4. "MLA inspects dilapidated 270-metre Rabidas Para road, promises renovation in 6 months" (21 Jan 2025, Tripura Chronicle) — REJECT: sirf nirikshan/daura + vaada; koi post-event lokarpan reporting nahi.
+// 5. "CM virtual inauguration + foundation stones at Bishalgarh Town Hall" (26 Jun 2025 — SDM office Rs 8.10 cr, hospital block Rs 2.10 cr, Bishalgarh-Golaghati road Rs 11 cr, 7 Ayushman Arogya Mandir) — lokarpan/shilanyas sab CM Manik Saha ne kiya; MLA sirf maujood tha, aur use blood bank yogdan ke liye sammanit kiya gaya. REJECT: dusre neta ke karyakram me maujoodgi (bina vyaktigat bhoomika); source (tripurastarnews.com, webindia123/newkerala/firstindia aggregator) bhi whitelist se bahar.
+// 6. "ALIMCO Auxiliary Production Centre bhumi-pujan/foundation stone, Purba Laxmibill" (1 Mar 2025, Tripura Times) — foundation CM Manik Saha + Union Minister B.L. Verma ne rakha; MLA Sushanta Deb sirf upasthit dignitaries me tha. REJECT: dusre neta ke karyakram me maujoodgi.
+// 7. "Three-year development report card, Jangaliya Ground Bishalgarh" (4 Mar 2026, Tripura Times / boroktimes / neindia / tripuranet / tripurainfo) — MLA ka apna daava (roads Golaghati/Boxanagar/Lakshmibil, drainage, CC roads, public toilets, motor stand beautification, indoor sports complex, swimming pool, Dakshineswari temple, 50-bed hospital block). REJECT: self-claim report card; pratyek kaam ke liye swatantra post-event reporting nahi mili; Tripura Times page archive-restricted (khul nahi sakta = source nahi).
+// 8. "Misconduct/threat by MLA — SDM Binky Saha seeks security" (report 1 Jul 2026, incident 7 May 2026, tripurainfo.com) — REJECT negative: aarop gambhir hai lekin report karne wala outlet whitelist me nahi hai (established media nahi).
+// 9. "BJP MLA's nephew questioned in contraband drug case" (UNI India, 12 Sep 2026) — REJECT negative: article me saaf likha hai nephew BJP MLA Jitendra Majumdar ka hai, Sushanta Deb ka nahi; upar se parivar ke mamle waise bhi nahi lene.
+// 10. "MLA takes charge to end anti-social menace on Bishalgarh bypass road" (7 Dec 2023, Tripura Chronicle) — MLA ne sakht action ki ghoshna ki, police station me case file kiya. REJECT: sirf ghoshna/maang.
+// 11. "Crop-Based Model IPM Village + Farmer Field School inaugurated by MLA" (20 Feb 2026, Tripura Chronicle, KVK Sepahijala, Baidyardighi GP) — REJECT: ye program designation ka udghatan hai, bhautik sarkari sanrachna (sadak/school/paani/hospital) ka nahi.
+// 12. "132 KV power sub-station inaugurated at Gokulnagar" (17 Oct 2025, tripurainfoway.com) — inauguration Power Minister Ratan Lal Nath ne kiya; MLA sirf maujood. REJECT: dusre ke karyakram me maujoodgi + source whitelist se bahar.
+// 13. "One-day livestock fair inaugurated at Bishalgarh" (17 Mar 2025, Tripura Chronicle) — udghatan MLA Manab Debbarma ne kiya; Sushanta Deb sirf chief guest. REJECT: maujoodgi.
+// 14. "Blood donation camp at East Gokulnagar" (18 Jan 2025, Tripura Chronicle) — camp inauguration me MLA shamil hue, lekin ayojan DEO office ka. REJECT: maujoodgi/daan.
+// 15. "MLA reaches in time and finds Purathal Rajnagar Sub-Health Centre locked" (11 Dec 2024, Tripura Times) — REJECT: sirf nirikshan/daura; archive-restricted bhi.
+// 16. "MLA marks son's birthday with PMSBY registration camp" (25 Jul 2026, Tripura Times) — REJECT: samudaay event/daan; bhautik sanrachna nahi; archive-restricted bhi.
+// 17. "BJP protest rally against smear campaign targeting MLA Sushanta Deb" (28 Mar 2026, Tripura Chronicle) — REJECT: political rally; na kaam, na negative.
+// 18. Halafname me 2 pre-term pending cases (IPC 147/148/149/325/307 — Bishalgarh PS 125/2022; IPC 148/149/427/448 — Bishalgarh PS 70/2021) — REJECT negative: karyakaal shuru hone se pehle ke cases, aur wartaman karyakaal me koi legal development reported nahi (akele negative nahi banta).
+// NOTE: Sushanta Chowdhury (BJP, Majlishpur — Transport Minister) se kabhi confuse nahi kiya; saare leads sirf Bishalgarh/Sepahijala wale Sushanta Deb ke hain.
+
+tripuraWorks['manab-debbarma'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (manab-debbarma) =====
+// LEAD 1: Tripura Chronicle (2026-09-15) — 'Residents of Gabordi Seek Urgent Road Repair, Drinking Water Supply' — Gabordi (Jampuijala RD Block) ke 70-80 parivaron ne kharab sadak aur paani ki kami ki shikayat ki, aur kaha ki MLA Manab Debbarma se ummeed kiye gaye vikaas kaaryon ka asar abhi tak zameen par dikhai nahi de raha. REJECT: entry ka aadhaar kaam ka dastaveji saboot hota hai, isme koi poora hua kaam ya shilanyas/lokarpan nahi hai; aur yah qualifying negative bhi nahi hai (na FIR, na adhikari-pusht janch — sirf sthaniya logon ki vikaas-mang ki shikayat). URL: https://tripurachronicle.in/local-news/residents-of-gabordi-seek-urgent-road-repair-drinking-water-supply/
+// LEAD 2: Tripura Times (2025-07-13) — 'nine bullets form junior-focused squad' — Rakhal Shield Knockout football tournament ke liye Nine Bullets Club ki junior squad ki jersey Golaighati MLA Manab Debbarma ne sponsor ki; samaroh me ve maujood bhi the. REJECT: jersey sponsorship vyaktigat chanda/sponsorship hai, sarkari bhautik sanrachna ka lokarpan/shilanyas nahi; campaign-type sports programme hai. URL: https://tripuratimes.com/ttimes/nine-bullets-form-junior-focused-squad-29540.html
+// LEAD 3: Northeast Now (nenow.in) — 'Tripura MLA urges Bangladesh interim govt to ensure security for minorities' — ek Tripura MLA (Debbarma) ne Bangladesh interim sarkar ko patra likhkar wahan alpsankhyakon ki suraksha ki maang ki. REJECT: videsh-sarkar ko patra = maang/appeal hai, koi poora hua vikaas-kaam nahi; aur yah kis Debbarma MLA ka patra hai ye bhi article se Manab Debbarma ke roop me pakki taur par pehchan me nahi aaya. URL: https://m.nenow.in/article/bangladesh/tripura-mla-urges-bangladesh-interim-govt-to-ensure-security-for-minorities/381005
+// LEAD 4: TIPRA Motha party observer niyukti (Sep 2025, tripurainfo/firstdespatch/indiatodayne.in coverage) — Manab Debbarma ko Village Council chunav ke liye Raima Valley TTAADC block ka observer niyukt kiya gaya. REJECT: party ka sangathanatmak niyukti-faisla hai, Golaghati kshetra ka vikaas-kaam nahi; TTAADC council ke faisle bhi whitelist ke bahar hain.
+// LEAD 5: Aguli (2025-10-29) — '1,702 Voters From 395 Families Quit BJP To Join Tipra Motha' — Charilam me joining rally me MLA Manab Debbarma bhi senior netaon ke saath maujood the. REJECT: party joining samaroh me maujoodgi hai, koi lokarpan/shilanyas/vikaas-kaam nahi. URL: https://aguli.in/index.php/2025/10/29/1702-voters-from-395-families-quit-bjp-to-join-tipra-motha-amid-internal-rift-in-bjp/
+// LEAD 6: Lokmat Times (2025-10-28) — Tripura MLAs ki delegation (Manab Debbarma sahit 4 MLAs) Gujarat Vidhan Sabha ke adhyayan-daure par. REJECT: daura/study-tour hai, koi kshetra-kaam nahi. URL: https://www.lokmattimes.com/national/tripura-mlas-delegation-visits-gujarat-legislative-assembly-lauds-advanced-infrastructure/
+// LEAD 7: 2018 me INPT ticket par Golaghati se chunaav lade the (Keshab Debbarma se hare) — purana chunav-itihas, karyakaal 2023 ke baad ka kaam nahi. REJECT: karyakaal se bahar.
+// NOTE: Whitelisted sources me Manab Debbarma ke kisi vyaktigat lokarpan/shilanyas, itemized MLALAD report, ya dastaveji vidhansabha-nateeje ka koi record nahi mila. Halafname (2023) me criminal case 'No' darj hai; aaropi-wali koi FIR ya naam-daar adhikari-pusht janch ki khabar bhi nahi mili — isliye negatives: 0. Khaali profile rakhi gayi hai (galat entry se khaali behtar).
+
+tripuraWorks['subodh-deb-barma'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (subodh-deb-barma) =====
+// 1. Tripura Chronicle, 8 Feb 2025 — 'Death of 70-yr old farmer at Bishramganj: MLA Subodh Debbarma demands swift action to identify killer vehicle'.
+//    Kya mila: Charilam MLA Subodh Debbarma ne Bishramganj ke mrit kisan Jiban Lal Debbarma ke ghar jakar shok samvedna vyakt ki, aur Bishramganj PS ke OC Subimal Debnath se killer vehicle/driver ki turant pehchan-giraftari ki maang ki.
+//    Kyun reject: sirf daura/shok-mulakat + sirf maang — koi mantri-ashwasan ya department ka official jawab dastavej me nahi. Vidhansabha ka prashn nahi. Dastaveji nateeja absent.
+// 2. CM Sepahijala 20-projects event (June 2026, ANI-based copies on asianetnews/newswav/newsmill/neherald/tripurastarnews) — 'CM inaugurates key health projects in Sepahijala district'.
+//    Kya mila: CM Dr Manik Saha ne Sepahijala jile ke 20 projects (Rs 65.49 crore) ka virtual udghatan/shilanyas kiya; upasthit MLAs ki suchi me 'MLA Subodh Debbarma' ka naam tha (Lal Singh Mura PHC, Charilam kshetra).
+//    Kyun reject: dusre neta (CM) ke karyakram me mahj maujoodgi — shrey CM ka, Subodh ki koi vyaktigat bhoomika report me nahi. ANI copies chhote/non-whitelisted outlets par the; PTI bhi established outlet par nahi mili.
+// 3. aguli.in, 3 Nov 2025 — 'Tipra Motha Opposes Inclusion Of ADC Villages In General Areas Under Proposed Bishramganj Nagar Panchayat'.
+//    Kya mila: Subodh Debbarma ke netritva me delegation ne Sepahijala DM se milkar memorandum diya — Puskarbari, Naljala, Harang Para, Ramkrishna Palli aadi ADC gaon ko proposed Bishramganj Nagar Panchayat se bahar rakhne ki maang.
+//    Kyun reject: aguli.in whitelist me nahi. Waise bhi sirf maang/memorandum — koi dastaveji nateeja nahi.
+// 4. tripuratime24.com (Sep 2026) — 'Certificates Presented to 10 Uncontested VC Candidates in Charilam'.
+//    Kya mila: Charilam MLA Subodh Debbarma ne nirvirodh chune gaye 10 VC candidates ko praman-patra diye.
+//    Kyun reject: tripuratime24.com whitelist me nahi (ye Tripura Times/tripuratimes.com se alag chhota portal hai). Samaroh-matra — bhautik sanrachna ya nidhi se sambandhit kaam nahi.
+// 5. Tripura Chronicle, 31 July 2025 — 'Allegations of misconduct rock Bishalgarh GRP: OC accused of intoxication and harassment'.
+//    Kya mila: Bishalgarh GRP ke OC 'Subodh Debbarma' par nashe me duty aur mahila constable ke utpidan ke aarop.
+//    Kyun reject: YE ALAG VYAKTI HAI — police OC, Charilam MLA nahi. Naam-takkar (name collision). MLA se jodna galat hoga. Negative entry bhi nahi ban sakti.
+// 6. Election coverage March 2023 (The Hindu, New Indian Express, Telegraph India, Economic Times) — Subodh ne Deputy CM Jishnu Dev Varma ko Charilam me 858 votes se haraya.
+//    Kyun reject: ye chunaav-jeet ki khabar hai, karyakaal ka kaam nahi — work entry nahi ban sakti.
+// 7. Naam-takkar notes (galti se credit na ho): (a) 1990-95 ke purane TTAADC MDC 'Subodh Debbarma' (sahajsuchna.com Kokborok doc) — alag vyakti, karyakaal se pehle; (b) 2013 me Simna se IPFT ummidwar 'Subodh DebBarma' (myneta.info, age 68) — alag vyakti; (c) Bikash Debbarma (Tribal Welfare Minister, Krishnapur MLA) — mantri hain, Subodh nahi; (d) Jishnu Dev Varma (2018-23 Deputy CM, Charilam ke poorv MLA) — inke karyakram/kaam kabhi Subodh ko credit nahi.
+// 8. MLALAD per-seat tables: Tripura Times ke itemized MLALAD sanction/vitaran tables Charilam seat ke liye nahi mile. CM ki Jan 2024 ghoshna (Rs 50 lakh se Rs 75 lakh/seat/saal, FY 2024-25 se) sirf niti-ghoshna hai — Subodh ka vyaktigat sanction/vitaran report nahi. Sirf ghoshna = reject.
+// 9. Negatives: whitelisted established media me Subodh Deb Barma ke khilaf koi FIR ya naam-daar adhikari-pusht janch nahi mili. Halafname ke anusar koi criminal case nahi (2023 halafnama). Isliye negatives: 0.
+
+tripuraWorks['tafajjal-hossain'] = [
+  // works: 1, negatives: 0
+  {
+    title: 'Boxanagar fire service station ki shilanyas: MLA Tafajjal Hossain ne 23 Feb 2025 ko foundation stone rakha.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Chronicle',
+    sourceUrl: 'https://tripurachronicle.in/local-news/foundation-stone-laid-for-boxanagar-fire-department-after-75-year-wait/',
+    date: '2025-02-23',
+    note: 'Report ke mutabik Boxanagar ke MLA Tafazzal Hossain ne khud 23 Feb 2025 ko dopahar 3 baje Boxanagar Fire Department branch ka shilanyas kiya; report me 75 saal ke intezaar ka zikr hai aur anumaanit lagat Rs 1,60,98,118 batayi gayi hai (fund ka srot report me nahi bataya). MLA ne kaha ki ye unke chunaavi waade ko poora karta hai. Samaroh me Boxanagar Panchayat Samiti chairperson Swapna Nam, Sipahijala Zilla Parishad member Milan Nesha, social worker Anil Chandra Das aur Boxanagar-Kalsimura ke Panchayat Pradhan maujood the.',
+    period: '2023-2028',
+  },
+];
+
+// ===== REJECT-LOG (tafajjal-hossain) =====
+// 1. Tripura Times 'boxanagar fire service station foundation stone laid' (23 Feb 2025, http://tripuratimes.com/ttimes/boxanagar-fire-service-station-foundation-stone-laid-25476.html) — snippet me 'locals credited local MLA Tofazzal Hossain' likha hai, lekin poora page Tripura Times archive paywall ke peeche hai, isliye khud shilanyas kiya ya nahi verify nahi ho saka. Tripura Chronicle ka poora khula article mila jis me vyaktigat shilanyas confirmed hai — entry usi source par bani.
+// 2. TOI 'Tripura BJP legislator denies aid to ailing boy, kicks up row' — MLA khud aaropi, seat se pehchaan hai, uska jawab bhi report me hai. Lekin koi FIR ya naam-daar adhikari-pusht janch report me nahi hai, sirf aarop aur khandan. Negative entry ke sakht sharton par fail — reject.
+// 3. BJP show-cause notice (TOI Oct 2025; UNI Oct 19 2025; Tripura Times archive) — state general secretary Amit Rakshit ke hastakshar se anushasanatmak notice, senior netaon (Biplab Kumar Deb, Pratima Bhoumik) ki sarvajanik aalochna par. Ye party-internal anushasan hai, koi FIR ya legal janch nahi — negative sharton par fail. Stadium gallery ke liye Rajib Bhattacharjee ka Rs 50 lakh MPLAD sanction MP ka fund hai aur abhi ghoshna/sankalp stage par hai — work entry nahi.
+// 4. UNI 'FIR lodged against Tripura MLA and others for violence in ADC poll' (16 Apr 2026) + sentinelassam coverage — Kalamchoura police station me 35 logon par FIR, Tafajjal Hossain naam-daar, complaint TIPRA Motha ke Abhiram Debbarma ne di, janch jaari. Criteria FIR ki shart poori hoti, LEKIN UNI whitelist me nahi hai aur sentinelassam/ukhrultimes bhi nahi. Whitelisted outlets (Tripura Times/Chronicle/EastMojo/Northeast Now/TOI/Express/HT/NDTV/India Today) me coverage mila nahi — isliye entry nahi, reject. Parent ko bata dena chahiye ki ye gambheer lead hai.
+// 5. Viral audio controversy (UNI Apr 19 2026; tripurainfo.com; boroktimes.com) — Kalamchoura thana OC ke saath phone par dhamki/dabav ka aarop, suo motu karyavahi ki report. Whitelist me koi source nahi — entry nahi, reject.
+// 6. aguli.in 'police officer dismissed after MLA honours most-wanted criminal at Boxanagar football event' (Nov 2025) — aguli.in whitelist me nahi — reject.
+// 7. Tripura Chronicle village meeting / Gram Sabha (27 Apr 2025) — MLA chief guest/makhya; sirf baithak, koi vyaktigat lokarpan/shilanyas nahi — reject.
+// 8. Rain-hit areas visit (Jul 2026, Tripura Times archive + neindia) — sirf nirikshan/daura aur rahat ka ashwasan; khana dena daan/rahat — reject.
+// 9. Tripura Times 'mla tofazzal hossain extends help to orphaned siblings' (Apr 2025) — daan/rahat — reject.
+// 10. Tripura Times 'negligence sparks devastating fire - MLA steps in' — Rs 10,000 madad, sirf rahat — reject.
+// 11. Buddha Stupa visit with IAS officer S K Singh (Tripura Times, Nov 2024) — sirf daura, IAS officer ne tourism ki baat ki — reject.
+// 12. Indian Express 'Newsmaker' profile (Sep 2023) — jeet ka background profile; agenda (roads, electricity, schools, fire brigade) sirf ghoshna — reject.
+// 13. CM Manik Saha ne Sepahijala me 18 projects inaugurate kiye (boroktimes/northeasttoday) — CM ke kaam, MLA ki vyaktigat bhoomika nahi — reject.
+// 14. CM ne MLA Cup Football inaugurate kiya, Boxanagar Mini Stadium (Sep 2025, tripurastarnews) — MLA sirf maujood tha; karyakram CM ka — reject.
+// 15. Eid-ul-Fitr prayers Boxanagar (Tripura Chronicle, Mar 2025) — dharmik upasthiti, kaam nahi — reject.
+// 16. Halafname ka 1 pre-term pending case (IPC 506/148/341/323) — akela negative nahi; karyakaal me koi legal development nahi — reject.
+
+tripuraWorks['kishor-barman'] = [
+  // works: 1, negatives: 0
+  {
+    title: 'Kishor Barman ne Nalchar block ke Bogabasa Gram Panchayat office ke naye do-manzila bhawan ke nirman ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Tripura Times',
+    sourceUrl: 'https://tripuratimes.com/ttimes/kishor-lays-foundation-stone-of-new-panchayat-building-34431.html',
+    date: '2026-01-16',
+    note: 'Tripura Times ki reporting ke anusar, Panchayat Minister aur Nalchar MLA Kishor Barman ne shukravaar ko Nalchar block ke antargat Bogabasa Gram Panchayat office ke liye naye do-manzila bhawan ke nirman ka shilanyas kiya, adhikariyon ne yeh jaankari di. Karya Nalchar seat ke andar hi hai; bhoomika unki vyaktigat thi, report me fund ki raashi darj nahi hai; source page archive-restricted hai lekin shilanyas wala hissa verify hua hai.',
+    period: '2023-2028',
+  },
+];
+
+// ===== REJECT-LOG (kishor-barman) =====
+// Kaam ka pattern: browser.search se ~8 alag angles par queries chalai (Kishor Barman Nalchar MLA;
+// lokarpan-shilanyas; inauguration road/school/water/hospital; MLALAD/vidhayak nidhi; assembly
+// demand/question 2024; Bogabasa specific; EastMojo/NortheastNow/indiatodayne coverage). Jo relevant
+// laga uske page khole (Tripura Times Bogabasa story; Tripura Chronicle Melaghar motor stand).
+// Mantri-banne ke baad ki zyadatar coverage Panchayat/Higher Education department ke rajya-stariya
+// faislon ki hai — wo mantri-niyam ke tahat reject.
+
+// --- REJECTED LEADS ---
+// 1. 'mp biplab gifts nalchar with indoor yoga stadium' (Tripura Times, 21 Jun 2025) — Nalchar me indoor
+//    Yoga stadium ke liye Rs 53 lakh ka sanction MP Biplab Kumar Deb ke MP area development fund se; Kishor
+//    Barman ne sirf Yoga Day par ghoshna ki aur MP ka dhanyavaad kiya, unka kehna tha MP ne unke prastav
+//    par manzoori di. REJECT: MP ke kaam par shrey — sirf ghoshna/maujoodgi, vyaktigat lokarpan nahi.
+// 2. 'Our development projects are paving way for Modern India by 2047' (Tripura Chronicle, 12 Feb 2025) —
+//    Melaghar Motor Stand (lagat ~Rs 5 crore) ka shilanyas CM Manik Saha ne virtual tareeke se kiya;
+//    Kishor Barman ne sirf samaroh me patrika ka anavaran kiya. REJECT: dusre neta (CM) ke karyakram me
+//    maujoodgi; shilanyas unhone nahi kiya.
+// 3. 'vb-g ram g a vision for rural transformation' (Tripura Times, 10 Jul 2026) — Nalchar block ki vikas
+//    pariyojnaon ki pragati ki sameeksha baithak ki adhyakshata; sirf review meeting. REJECT: sirf
+//    nirikshan/sameeksha, koi bhautik kaam nahi.
+// 4. 'Minister Kishor Barman Inaugurates District Fish Festival at Nalchar' (YouTube/DD News Tripura) —
+//    jila matsya utsav ka udghatan. REJECT: YouTube whitelist me nahi + samaroh ka udghatan, bhautik
+//    sanrachna nahi.
+// 5. 'Past governments drained blood, not donated: Kishor Barman' (Tripura Chronicle, 7 Jun 2026) —
+//    Dashmighat Community Hall (Nalchar AC) me raktdaan shivir ka udghatan; lagbhag 100 donors.
+//    REJECT: samaroh/shivir ka udghatan, bhautik sarkari sanrachna ka lokarpan nahi.
+// 6. 'Barman stresses green cover alongside infrastructure' (neindia.com) + 'Tree Plantation As Vital As
+//    Infrastructure' (aguli.in), ~28 Jul 2026 — Kemtali gaon me 200 solar-powered lamp posts ki sthapana
+//    aur har Gram Panchayat ko 'ideal Panchayat office complex' banane ki ghoshna. REJECT: dono sites
+//    whitelist me nahi; lamp-post wali khabar bhi 'installed already' ki ghoshna-rup hai, dastaveji
+//    sanction nahi.
+// 7. 'Nalchar to Get All-Women College; Two Institutions to be Upgraded' (neindia, 10 Aug 2025) —
+//    Nalchar me mahila college ki ghoshna. REJECT: non-whitelist site + ghoshna, post-event dastavej nahi.
+// 8. MLALAD hike khabar (newsdrum/PTI, Jan 2024; CM ne Rs 50 lakh se Rs 75 lakh kiya) — Nalchar seat ka
+//    koi itemized sanction/vitaran dastavej nahi mila. REJECT: ghoshna + per-seat report absent.
+// 9. Cabinet oath + portfolio allocation (The Hindu, Indian Express, indiatodayne, PTI, Jul 2025) —
+//    mantri pad ki shapath aur Panchayat/Higher Education/GA (Political) vibhag. REJECT: rajya-stariya
+//    mantri niyukti, seat-vishesh kaam nahi.
+// 10. 'Kishor Barman Stresses Fisheries Education' (Northeast Today, Oct 2026), 'National Education Policy
+//    Aims for Inclusive...' (Northeast Today, Aug 2025), 'Engineers Day' (Tripura Star News, Sep 2026),
+//    'Jal Shakti Summit Delhi' (Northeast Today, Sep 2026), 'Tripura Won Three Top-Tier Honors at National
+//    Panchayat Awards' (Tripura Star News, 2025) — sab rajya-stariya mantri-bhoomika ke karyakram/bayaan.
+//    REJECT: rajya-stariya department faisle/niyam, seat-na-vishesh.
+// 11. 'Tripura BJP General Secretary and Nalchar MLA Kishore Barman Resigns from Party Post'
+//    (boroktimes) — 'one man, one post' ke tahat party pad se istifa. REJECT: party sangathan ka mamla,
+//    works nahi.
+// 12. Halafnama (myneta.info): koi criminal case nahi; search me koi FIR/adhikari-pusht janch/allegation
+//    established media me nahi mili. REJECT: negative rule poori nahi hoti — koi negative entry nahi.
+
+tripuraWorks['shyamal-chakraborty'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (shyamal-chakraborty) =====
+// Whitelisted media me Feb/Mar 2023 ke baad ka koi vyaktigat lokarpan/shilanyas,
+// MLALAD itemized sanction/vitaran report, GO/swikriti order, ya mantri-ashwasan
+// se dastavezi nateeja nahi mila. Opposition MLA hone ki wajah se sarkari
+// pariyojnaon ka vyaktigat shrey media me darj nahi hua. Khali profile rakhi gayi.
+//
+// 1. 'Power Consumers' Association Submits Memorandum to Sonamura Electricity
+//    Office Over Steep Power Bill Hike' (Tripura Chronicle, 5 Aug 2026):
+//    MLA deputation me maujood tha, par sirf maujoodgi/maang — koi dastavezi
+//    nateeja nahi. REJECT: sirf maang/prastav.
+// 2. 'CPIM holds 24th Party Congress reporting meeting at Sonamura' (Tripura
+//    Chronicle, 28 May 2025): party meeting me speech. REJECT: party karyakram,
+//    bhautik karya nahi.
+// 3. 'Protests erupt at Sonamura over free trade agreements' (Tripura
+//    Chronicle, 21 Apr 2025): Krishak Sabha protest me shirkat. REJECT:
+//    political activity, karya nahi.
+// 4. 'CITU Sonamura sub-divisional committee holds Pada Yatra' (Tripura
+//    Chronicle, Feb 2024): foot-march me shirkat. REJECT: political activity.
+// 5. 'CPIM demands security on counting day following attack on candidate'
+//    (Tripura Chronicle, Aug 2024): panchayat chunav counting par suraksha ki
+//    maang. REJECT: sirf maang.
+// 6. 'Jitendra Chaudhury slams BJP, Tipra Motha at Sonamura rally' (Tripura
+//    Chronicle, 5 Jul 2025): rally me maujoodgi. REJECT: dusre neta ka karyakram
+//    me maujoodgi.
+// 7. 'Row Over Curtailment of Assembly Days in Tripura Amid PM's Visit'
+//    (Tripura Chronicle, 19 Sep 2025): Assembly session lambha karne ki maang.
+//    REJECT: sirf maang, koi dastavezi nateeja nahi.
+// 8. 'Ratan Lal Nath Targets CPI(M) Over Alleged Land Encroachment' (Tripura
+//    Chronicle, 23 Mar 2026): MLA ne Boxanagar me sarkari zameen par kabze par
+//    sawal uthaya; mantri ne jawab me kaha sarkaar ne pehle se action liya hai
+//    (SDM intervention) aur baat ko CPI(M) par hamle me mod diya. Sawal se koi
+//    naya dastavezi nateeja/ashwasan nikla nahi. REJECT: mantri ka jawab
+//    political attack tha, dastavezi nateeja nahi.
+// 9. '40 cpim cadres acquitted in 2021 case' (Tripura Times, 18 Jun 2025):
+//    MLA cadres ke acquittal par quote de raha hai — khud aaropi nahi.
+//    REJECT: negative nahi, negative-criteria (khud aaropi + FIR/janch) poori
+//    nahi hoti.
+// 10. Halafname (myneta.info, Tripura 2023) me 1 pending mamla — Tripura Police
+//     Act Sec 82, charges framed 06 Aug 2022, pre-term conduct. Wartaman
+//     karyakaal me koi legal development established media me nahi mila.
+//     REJECT: negative criteria ke mutabiq akele negative NAHI.
+
+tripuraWorks['bindu-debnath'] = [
+  // works: 0, negatives: 0
+];
+
+// ===== REJECT-LOG (bindu-debnath) =====
+// Kaam ka pattern: browser.search se ~10 alag queries chalai (Bindu Debnath Dhanpur MLA; inauguration/foundation stone;
+// lokarpan-shilanyas; 2024/2025 development; MLALAD/vidhayak nidhi; assembly demand/question; Tripura outlets site-search;
+// Dhanpur Kathalia Sonamura specific). Jo relevant laga uske page khole — koi bhi page par unka vyaktigat
+// lokarpan/shilanyas, MLALAD itemized sanction, ya vidhansabha-maang ka dastaveji nateeja nahi mila.
+// Safar: 9th batch Sepahijala me CM Manik Saha dwara inaugurate projects (Dec 2025, boroktimes/Northeast Today) me
+// Dhanpur PHC Block Public Health Unit ka zikr hai, lekin inauguration CM ne kiya — Bindu Debnath ka vyaktigat
+// shrey/bhoomika nahi. Isliye koi entry nahi. Halafname me 1 pre-term pending case hai (SNM PS, IPC 506/148/341/323),
+// lekin current karyakaal me uspar koi legal development established media me nahi mila, to rule ke mutabik wo
+// akele negative nahi banta. Natija: khali profile, galat entry se khali behtar.
+
+// --- REJECTED LEADS ---
+// 1. 'CM Manik Saha Inaugurates Jagannath Rath Yatra Mela' (latestly/ANI, 6 Jul 2024) — Bindu Debnath sirf guest ke
+//    roop me maujood; inauguration CM ne kiya. REJECT: dusre neta ke karyakram me maujoodgi.
+// 2. 'Ex-MoS Pratima Bhoumik opens district folk festival at Dhanpur' (Tripura Chronicle, 7 Feb 2026) — inauguration
+//    Pratima Bhoumik ne kiya; Bindu Debnath sirf bole. REJECT: dusre neta ke karyakram me maujoodgi.
+// 3. 'Pratima distributes aid, urges unity at Mohanbhog GP' (Tripura Chronicle, 22 Dec 2025) — aid distribution
+//    Pratima Bhoumik ke netritva me; Bindu Debnath sirf upasthit. REJECT: dusre neta ka karyakram + daan/rahat.
+// 4. 'Newly elected MLA Bindu Debnath honoured at Kathalia Block' (Tripura Chronicle, 20 Sep 2023) — felicitation
+//    ceremony, koi bhautik kaam nahi. REJECT: sirf samman samaroh.
+// 5. 'BJP wins both assembly seats in Tripura bypolls' (newsdrum/PTI, 8 Sep 2023) — jeet ki reporting, works nahi.
+//    REJECT: campaign/election coverage.
+// 6. 'BJP's Tafajjal Hossain, Bindu Debnath sworn in as MLAs' (newsdrum/PTI, 12 Sep 2023) — shapath grahan, works nahi.
+//    REJECT: event coverage.
+// 7. 'Dhanpur bypoll: Former classmates principal contenders' (Indian Express, pre-Sep 2023) — pre-event campaign
+//    reporting. REJECT: pre-event announcement + campaign coverage.
+// 8. 'Ratha Yatra is a symbol of unity' (Tripura Chronicle, 15 Jul 2026) — CM Manik Saha ne Melaghar Rath Yatra
+//    inaugurate kiya; Bindu Debnath sirf upasthit. REJECT: dusre neta ke karyakram me maujoodgi.
+// 9. 'Five BJP Workers Injured In Clash Ahead Of ADC Village Council Elections In Dhanpur' (aguli.in, 19 Sep 2026)
+//    — site whitelist me nahi; aur MLA sirf spot par gaye, koi kaam nahi. REJECT: non-whitelist + works nahi.
+// 10. Tripura MLALAD hike news (nenow/business-northeast/newsdrum, Jan 2024) — FY 2024-25 se Rs 75 lakh/seat/saal
+//    ka faisla CM ne diya; Dhanpur seat ka koi itemized sanction/vitaran report nahi mili. REJECT: ghoshna + koi
+//    per-seat dastavej nahi.
+// 11. 'Manik Saha Inaugurates 18 Development Projects in Sepahijala' (boroktimes, Dec 2025) — saari pariyojnayein
+//    CM dwara inaugurate/foundation stone; Dhanpur PHC BPHU bhi CM ke batch me. Bindu Debnath ki vyaktigat bhoomika
+//    ka zikr nahi. REJECT: bina vyaktigat bhoomika ke CM ke kaam par shrey.
+// 12. Oath, nomination, door-to-door campaign items (tripurastarnews/newsonair, Aug-Sep 2023) — sab election-time
+//    activity. REJECT: campaign-launch/election coverage.
+// 13. Halafnama (myneta.info): 1 pending pre-term case (SNM PS, IPC 506/148/341/323) — current karyakaal me koi legal
+//    development established media me nahi mila. Rule: 'halafname me 1 pre-term pending case — akele negative NAHI'.
+//    REJECT as negative.
+
+// ---- Sepahijala district batch END (2 works, 0 negatives) ----
