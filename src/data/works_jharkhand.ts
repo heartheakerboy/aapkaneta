@@ -1426,3 +1426,276 @@ jharkhandWorks['janardhan-paswan'] = [];
 // UP-case wale Janardan se koi mishran nahi.
 
 // ---- Chatra district batch END (0 works, 0 negatives) ----
+
+// ---- Giridih district batch (research date 2026-10-17) ----
+jharkhandWorks['babulal-marandi'] = [
+  {
+    title: 'NEGATIVE: An FIR was registered at Giridih Town Police Station against Leader of the Opposition Babulal Marandi and around 100 BJP supporters for alleged violation of the Model Code of Conduct during the civic body polls; a Flying Surveillance Team raided Maa Kali Hotel near Giridih bus stand after the 5 pm campaign deadline, finding a gathering of 80–100 people with 15–20 vehicles on the premises; the case was filed under Sections 174, 223(a) and 3(5) of the BNS on the FST in-charge\u2019s complaint.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times, 22 Feb 2026',
+    sourceUrl: 'https://www.hindustantimes.com/cities/ranchi-news/election-heat-babulal-marandi-booked-after-late-night-hotel-raid-101771780188374.html',
+    date: '2026-02-22',
+    note: 'HT reported that the FIR was registered at Giridih Town Police Station against Leader of the Opposition Babulal Marandi (identified in the report as the state\u2019s first CM) and approximately 100 BJP supporters for alleged MCC violation ahead of the civic body polls; the FST raided Maa Kali Hotel near the Giridih bus stand around 7 pm on Saturday, two hours after the 5 pm campaign deadline, finding Marandi with 80–100 supporters and 15–20 vehicles; the FIR was filed under BNS Sections 174, 223(a) and 3(5) on the complaint of Mohd Mansoor, FST in-charge and panchayat secretary of Mangrodih, supported by video recordings and photographs. BJP state president Aditya Sahu called it a \u2018blatant abuse of power\u2019, saying the LoP was merely having dinner; JMM spokesperson Supriyo Bhattacharya said it was a pre-planned meeting violating the MCC. The cited article reports no bail, quashing, chargesheet or other relief — stage at FIR, and no later judicial development is disclosed in the cited report.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (babulal-marandi — Dhanwar, BJP, LoP; karyakaal Dec 2024–2029):
+// 1. townpost.net/chamakaaina (Oct 2026): Jamshedpur me Durga Puja pandal udghatan — seat se bahar + mukhya-atithi samaroh → REJECT.
+// 2. Prabhat Khabar: Doranda (Dhanwar block) school samman samaroh me mukhya atithi — bhautik sanrachna ka kaam nahi → REJECT.
+// 3. thenewspost.in (4 Dec 2024): Maiyaan Samman shivir ki maang (X post) — sirf maang → REJECT.
+// 4. The Statesman (PTI): Rs 631cr DMFT scam ka aarop + CBI maang — LoP-pad ka bayan → REJECT.
+// 5. Apr 2023 secretariat-gherao FIR — HC ne quash kiya (~Aug 2024): pre-term mamla + pre-term nyayik samadhan → REJECT.
+// 6. Halafname ke 15 pending cases — akele halafnama-count negative nahi → REJECT.
+// 7. Liquor-scam PIL + DGP-appointment PIL — Marandi YACHIKAKARTA hain, aaropi nahi → REJECT.
+// 8. JPSC-JSSC protest detention (Aug 2026) — FIR 300 unnamed ke khilaf; mahila-karyakarta case me Marandi complainant ke saath — aaropi nahi → REJECT.
+// 9. Dhanwar roads/bijli/paani par assembly-chunavi bayan — dastavezi nateeja nahi → REJECT.
+
+jharkhandWorks['nagendra-mahto'] = [
+  {
+    title: 'Barki Sariya Nagar Panchayat ward 2 me do PCC pathon ka shilanyas (lagbhag Rs 20 lakh)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/giridih/news/foundation-stone-laid-for-two-pcc-paths-worth-rs-20-lakh-dbp-138246130.html',
+    date: '2026-06-20',
+    period: '2024-2029',
+    note: 'Bhaskar ke anusaar Barki Sariya Nagar Panchayat ke ward 2 me do PCC path nirmaan yojnaon ka shilanyas hua; prakkalan raashi lagbhag Rs 20 lakh; Bagodar vidhayak sah sachitak Nagendra Mahto aur nagar adhyaksh Shobha Devi ne kaam ki shuruaat karai. Source ne yojna ki nidhi ka naam nahi diya. Shilanyas \u2018shanivar\u2019 ko hua aur reporting 21 Jun 2026 (article datePublished) ki hai — isliye ghatna-tithi 20 Jun 2026 anumaanit hai (caveat).',
+  },
+];
+
+// REJECT-LOG (nagendra-mahto — Bagodar, BJP; karyakaal Dec 2024–2029):
+// 1. public.app video (27 Dec 2025): Khetko Karmatand school boundary wall shilanyas (Rs 13.67L) — aggregator-only source → REJECT.
+// 2. public.app video (16 Feb 2026): Khetko Alagdiha Konar nahar shilanyas — aggregator-only → REJECT.
+// 3. public.app (19-20 Feb 2026): VS me migrant-mazdoor muaavze + govansh taskari ki maang — sirf maang, nateeja nahi → REJECT.
+// 4. public.app (25 Aug 2026): Bagodar stadium karate function mukhya-atithi — samaroh → REJECT.
+// 5. X posts (TwStalker): Khetko 700 ft PCC sadak shilanyas — self-published → REJECT.
+// 6. Bhaskar "sachitak banaye jane par khushi" (Feb 2025) — party-internal, kaam nahi → REJECT.
+// 7. Negative check: Dec 2024+ me koi FIR/chargesheet/janch nahi; affidavit me 0 cases; indiankanoon ke purane 'Nagendra Mahto' hits alag vyakti → REJECT.
+
+jharkhandWorks['manju-kumari'] = [
+  {
+    title: 'DISHA baithak me Jamua chowk ki samasya uthane par DC ne DDC aur Khori Mahua ke SDM ko sulabh shauchalaya, bus padav aur yatri shed ke liye turant kaarravaai ke aadesh diye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/giridih/jamua-chowk-will-be-beautified-will-get-relief-from-jam',
+    date: '2025',
+    period: '2024-2029',
+    note: 'Maang ka dastaveji prashasanik nateeja (credit capped): vidhayak ne DISHA baithak me Jamua chowk par lagatar jaam aur shauchalaya na hone se mahilaon ko ho rahi pareshaani ka sawal uthaya tha; uske baad DC ne baat ko gambhirta se lekar DDC aur Khori Mahua ke SDM ko turant kaarravaai ka aadesh diya. Inferred-date disclosure: article page par tarikh nahi di gayi hai; search-index metadata ke aadhar par early-2025 ka anumaan lagaya gaya hai. Nirman poora hone ki pushti article me nahi hai.',
+  },
+];
+
+// REJECT-LOG (manju-kumari — Jamua SC, BJP; karyakaal Dec 2024–2029):
+// 1. Bhaskar (~Jan 2026): Jamua market swachhta drive shubharambh — abhiyan launch, bhautik sanrachna nahi → REJECT.
+// 2. YouTube video: RTI-daava — 76 chapaakal @ Rs 85,000 (FY 2024-25) ka hisaab — YouTube-only source → REJECT.
+// 3. public.app (Nov 2025): Sanskrit High School Jharkhand Dham 2 kamron ki swikriti — vidhayak ke social-media daave par aadharit → REJECT.
+// 4. newsdekho.co.in (Feb 2025): Balaji Auto Parts dukaan udghatan — niji vyavsaay → REJECT.
+// 5. IANS via biharandjharkhand.com (Nov 2025): Rs 133cr Giridih-Jamua road upgrade cabinet swikriti — vyaktigat bhoomika disclosed nahi → REJECT.
+// 6. Negative check: 0 criminal cases; koi Dec 2024+ FIR/chargesheet/janch nahi → 0 negatives.
+
+jharkhandWorks['kalpana-soren'] = [];
+
+// REJECT-LOG (kalpana-soren — Gandey, JMM; karyakaal Dec 2024–2029):
+// 1. univarta.com (UNI wire — banned) / bihar.punjabkesari.in / chhote portals (17 Jul 2025): Bengabad Rs 24.90cr women's college + Rs 6cr mini stadium aadhaarshila, Rs 10L parisampatti vitran — whitelist par koi post-event reporting nahi → REJECT.
+// 2. Sept 2024 Sadar-block works (Rs ~28cr) — PRE-WINDOW (pehli tenure ke 4 mahine) + non-whitelist sources → REJECT.
+// 3. Dainik Jagran (18 Jan 2025, whitelisted): Mahila Bal Vikas Samiti ki sabhapati (25 samitiyon ka punargathan) — pad/appointment hai, lokarpan/shilanyas nahi → works entry nahi. (Optional foundation lead: backgroundNote me jodna ho to source upar wala Jagran URL.)
+// 4. Bhognadih Rs 437.85cr yojna lokarpan/shilanyas (Jun 2025) — CM ne kiya, ve sirf saath thin → FAMILY/role rule par REJECT.
+// 5. 'Run for Jharkhand' flag-off (Nov 2025) — seat se bahar + CM ke saath → REJECT.
+// 6. Negative check: affidavit me 0 cases; pati ke PMLA mamle family rule se inke negative nahi; Sahdev Uraon FB-post case me ve PEEDIT hain, aaropi nahi → 0 negatives.
+
+jharkhandWorks['sudivya-kumar'] = [];
+
+// REJECT-LOG (sudivya-kumar — Giridih, JMM, mantri 5 Dec 2024 – 6 Sep 2026; nidhan 6 Sep 2026):
+// 1. TOI: Bengabad Mahila Mahavidyalaya foundation stone (Kalpana Soren ke saath, ~Oct 2024) — PRE-TERM → REJECT.
+// 2. eNewsroom (non-whitelist): Sir JC Bose University/medical/engineering college ke foundation 'by Aug 15' ka irada — ghoshna/aim, actual event ka whitelisted evidence nahi → REJECT.
+// 3. Giridih medical college 100 MBBS (Centre PPP, Oct 2025) / Govt Engineering College Rs 244.73cr / Giridih-Jamua road Rs 133cr — cabinet/Centre-level decisions, vyaktigat bhoomika nahi → REJECT.
+// 4. Sankara Nethralaya free eye-surgery camp (Mohanpur, Apr-May 2025) — CSR/charity camp → REJECT.
+// 5. Aug 2025: Ankit Kumar Mishra arrest (death threat dene par) — MLA TARGET the, aaropi nahi → negative REJECT.
+// 6. Negative check: affidavit me 0 cases; Dec 2024+ me koi FIR/chargesheet/janch nahi → 0 negatives.
+
+jharkhandWorks['jairam-kumar-mahato'] = [
+  {
+    title: 'Barwadda thana prabhari ki shikayat par Dumri MLA Jairam Kumar Mahato ke khilaf FIR — kathit viral audio vivaad, MLA ne rajnaitik sajish ka aarop lagaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, 23 Sep 2026 (est.)',
+    sourceUrl: 'https://odin-prod.prabhatkhabar.com/state/jharkhand/dhanbad/legislature-weakening-jharkhand-jai-ram-mahto',
+    date: '2026-09-23',
+    note: 'Prabhat Khabar ki Dhanbad report (kholkar padhi gayi) ke anusaar barwadda thana prabhari ke saath vivaad aur kathit viral audio ko lekar MLA Jairam Mahato ne Dhanbad parisadan me poore maamle ko rajnaitik sajish bataya; article notes thana prabhari ki shikayat ke aadhar par MLA ke khilaf prathamiki darj hone ki report pehle saamne aa chuki hai, jabki viral audio ki swatantra pushti nahi hui hai. MLA ka dawa: viral clip edited/adhuri hai, poori baatcheet lagbhag 11 minute ki thi. Stage: FIR darj (aage ka vikas cited page par nahi). MLA khud aaropi hain, isliye negative rule poora hota hai. Date-disclosure: exact print date captured nahi; search-engine last-updated ~23 Sep 2026 se estimate hai — article me "Budhwar" hai aur 23 Sep 2026 Budhwar tha.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (jairam-kumar-mahato — Dumri, JLKM; karyakaal Dec 2024–2029):
+// 1. TOI (Dec 2024 est.): CCL Makoli quarter kabza case me FIR — **page mere haath bhi nahi khula (403/fetch fail)**; facts sirf search-result text se aaye the — note-grounding rule par ENTRY NAHI bani; **retry lead**: page kabhi khule (TOI articleshowprint mirror par bhi) to FIR-stage negative ban sakti hai.
+// 2. newsdekho.co.in (Feb 2025 / Dec 2025): Dumri science-lab + path-nirman shilanyas — non-whitelist → REJECT.
+// 3. YouTube short: Jharkhand College Dumri udghatan me upasthiti — YouTube-only, bhoomika unclear → REJECT.
+// 4. Prabhat Khabar (1 Sep 2026): sadan me police-bhojan mudda "hal ho gaya" — swayam-daava, dastavez nahi → REJECT.
+// 5. newsdekho.co.in (Jul 2025): janta darbar/nirikshan — kaam nahi → REJECT.
+// 6. news24online (Aug 2026): JPSC/JSSC andolan me dry fast — party activity → REJECT.
+// 7. ANI: barefoot assembly entry (Dec 2024); Navbharat Times: doctorate (Oct 2026) — vyaktigat/prateekatmak → REJECT.
+// 8. CM ke Giridih/Dumri event me upasthiti (middayonline) — dusre neta ka karyakram → REJECT.
+// 9. jharkhandstatenews.com "Saudi fund" complaint — chhota portal → REJECT.
+// 10. TOI (~Oct 2025): Ghatshila bypoll nomination traffic notice — notice ≠ FIR → REJECT.
+// 11. Halafname ke 14 pending cases — akele halafnama-count negative nahi → REJECT.
+// 12. Naam-jaal: "Tigerda" Jagarnath Mahto (deceased JMM minister) alag vyakti; unke purane kaam attribute nahi → REJECT.
+// ---- Giridih district batch END (2 works, 2 negatives) ----
+
+// ---- Bokaro district batch (research date 2026-10-17) ----
+jharkhandWorks['yogendra-prasad'] = [];
+
+// REJECT-LOG (yogendra-prasad — Gomia, JMM, mantri; karyakaal Dec 2024–2029):
+// 1. public.app (aggregator, Oct 2025): Lalpaniya MLALAD shilanyas (pratinidhi ne kiya) — non-whitelist → REJECT.
+// 2. public.app (Feb 2026): Khirabeda nala pul shilanyas — non-whitelist, fund undisclosed → REJECT.
+// 3. public.app (~Feb 2026): IEL gaon transformer udghatan — non-whitelist → REJECT.
+// 4. LiveHindustan (Oct 2026): janta se milkar adhikariyon ko nirdesh — sirf sunvai/nirdesh → REJECT.
+// 5. TOI (~Sep/Oct 2026): Swachhata hi Seva shramdaan — state-wide mantri samaroh → REJECT.
+// 6. Bhaskar (Apr 2026): purv MLA Chhatruram Mahto pratima anavaran me malyarpan — maujoodgi → REJECT.
+// 7. Bhaskar (15 Aug 2025): Swatantrata Diwas jhandarohan — protocol → REJECT.
+// 8. Prabhat Khabar (Oct 2026): Peyjal vibhag samiksha baithak — mantri state-level samiksha → REJECT.
+// 9. ETV Bharat (2025-26): Gomia jal-aapurti samiksha — whitelist me nahi + nirikshan → REJECT.
+// 10. UNI (15 Nov 2025): 91 pariyojnaen Rs 341.60cr mukhya atithi — UNI banned → REJECT.
+// 11. public.app (Apr 2025): MahuaTand alag prakhand ki maang ka patra — sirf maang → REJECT.
+// 12. Negative check: 31 Jan 2018 ko Ramgarh SDJM ne Rajrappa PS case (2010, koyla-chori) me 3 saal RI — pre-term (2018 me sadasyata samapt); Dec 2024+ me koi nyayik vikas nahi → REJECT.
+
+jharkhandWorks['kumar-jaimangal'] = [
+  {
+    title: 'Jainamore–Phusro 15.9 km sadak ke chaadikaran-majbootikaran (Rs 157.89 crore) ka bhoomi pujan — MLA ne dawa kiya unhi ki anushansa par rajya sarkar ne manzoori di; Giridih MP ne bhi samanantar bhoomi pujan karke credit ki ladai chhedi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India, mid-Sep 2026',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/ranchi/one-road-two-bhoomi-pujans-bermo-project-sparks-credit-war-between-mla-mp/articleshow/134241018.cms',
+    date: '2026-09-13',
+    note: 'TOI ke mutabik Bermo ke Congress vidhayak Kumar Jaimangal (Anup Singh) ne Tilka Manjhi Chowk, Jainamore me 15.9 km lambi sadak ke chaadikaran-majbootikaran ka bhoomi pujan kiya; lagat Rs 157.89 crore, tender haal hi me final hua tha. Jaimangal ka dawa: \u2018The road project had been recommended by me and subsequently approved by the state govt.\u2019 Usi din sadak ke dusre chhor (Nirmal Mahto Chowk, Phusro) par Giridih ke AJSU MP Chandra Prakash Choudhary ne bhi bhoomi pujan kiya aur dawa kiya ki BJP ke andolan ke dabav par manzoori mili. (Date inferred: article me \u2018On Sunday\u2019 likha hai aur crawl \u201833 days ago\u2019 (17 Oct 2026 se) tha; ETV Bharat ki swatantra copy isi ghatna ki 13 Sep 2026 (Ravivar) ki hai — isliye event date 13 Sep 2026 li gayi hai.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Pathuria sub-station chalu aur Jainamore PSS–Pathuria–Bagiyari 33 kV line ka udghataan — Jarih-Kasmar ke grameenon ko niyamit bijli ka vada',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/bokaro/bermo-mla-inaugurates-development-projects',
+    date: '2026-09-04',
+    note: 'Prabhat Khabar ke mutabik Bermo vidhayak Kumar Jaimangal Singh ne Jaridih prakhand ki vibhinn panchayaton me Jainamore PSS se Pathuria aur Pathuria se Bagiyari tak 33 kV line ka udghataan kiya; Pathuria me varshon se khandhar pade bhawan me sub-station ka nirmaan hua hai aur ab wahan se Jaridih aur Kasmar prakhand ke Bagiyari kshetra ke upbhoktaon ko niyamit bijli aapoorti hogi. Vidhyut karyapalak abhiyanta Prabhakar sahit anya log upasthit the. (Report me fund-rashi nahi di gayi hai. Date inferred: article \u201843 days ago\u2019 crawl se ~4 Sep 2026 aur \u2018shukravar ko\u2019 likha hai; 4 Sep 2026 shukravar hi tha.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Jaridih me PCC sadak-nali, khel stadium aur aanganbadi kendra ka shilanyas — teeno shilanyas vidhayak ne narial phodkar kiye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Prabhat Khabar, Sep 2026',
+    sourceUrl: 'https://www.prabhatkhabar.com/state/jharkhand/bokaro/bermo-mla-inaugurates-development-projects',
+    date: '2026-09-04',
+    note: 'Usi karyakram me vidhayak ne Bandhdih Dakshini panchayat me Hari Mandir se Sair Bandh tak PCC sadak v nali ke dhakkan nirmaan, Chilgadda panchayat me khel stadium aur Bandhdih Uttari panchayat ke Rajwardih me aanganbadi kendra ka shilanyas kiya. (Fund-rashi report me nahi hai; date inference upar wali entry jaisi.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Petarwar ke Pichhri Uttari-Dakshini panchayaton me lagbhag Rs 17 lakh ki vikas yojnaon ka shilanyas — sabhi yojnaen vidhayak mad se swikrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar, Jan 2026',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/bokaro/news/the-mla-laid-the-foundation-stone-for-a-scheme-worth-rs-17-lakh-136965843.html',
+    date: '2026-01-16',
+    note: 'Dainik Bhaskar ke mutabik Bermo vidhayak Kumar Jaimangal ne Petarwar prakhand ke Pichhri Uttari evam Dakshini panchayaton me lagbhag Rs 17 lakh ki vibhinn vikas yojnaon ka shilanyas kiya; ye sabhi yojnaen vidhayak mad (MLALAD) se swikrit ki gayi hain. (Article paywalled hai — keval dikh raha snippet cite kiya gaya hai, isliye yojnaon ka itemization uplabdh nahi hai. Date inferred: page \u20187 mahine pehle\u2019 crawl se ~Jan 2026; ghatna \u2018shukravar ko\u2019 batayi gayi, 16 Jan 2026 shukravar tha.)',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (kumar-jaimangal — Bermo, INC; karyakaal Dec 2024–2029):
+// 1. public.app (Oct 2025): Jainamore electronic showroom udghatan — niji pratishthan → REJECT.
+// 2. public.app (Feb 2026): 'Maitri Amrittulya' chaay-dukaan udghatan — niji → REJECT.
+// 3. Bhaskar (Jan 2026): Karma Munda football pratiyogita ka udghatan — mukhya-atithi samaroh → REJECT.
+// 4. Bhaskar (Jan/Feb 2026): saptahik janta darbar — jan-shikayat sunvai, kaam nahi → REJECT.
+// 5. livehindustan (Oct 2026): shok-samvedana — vyaktigat → REJECT.
+// 6. public.app (Dec 2025): Gangjori/Tilaiya saur-urja pani tanki shilanyas (Rs 4L) — non-whitelist → REJECT.
+// 7. public.app (Mar 2026): Tantri Dakshini panchayat bhawan udghatan — non-whitelist → REJECT.
+// 8. public.app (Feb 2026): Angwali/Petarwar pariyojna shilanyas — non-whitelist → REJECT.
+// 9. Hindustan Samachar (14 Oct 2025): DMFT se ~Rs 71L school-kamre shilanyas — non-whitelist; **retry lead**: dmftbokaro.com GO-list me Maktab Bermo block entry (Rs 38.83L, GC 12-02-2025) match hoti hai — whitelisted coverage mile to VALID.
+// 10. Negative check: Howrah cash-haul (2022) me Jaimangal SHIKAYATKARTA the, aaropi nahi — pre-term → REJECT.
+// 11. Negative check: CBDT/IT searches (Nov 2023) — pre-term + non-whitelist → REJECT.
+// 12. Negative check: Dec 2024+ me koi FIR/chargesheet/giraftari/janch nahi → 0 negatives.
+
+jharkhandWorks['shwettaa-singh'] = [
+  {
+    title: 'Bokaro MLA Shwettaa Singh ne Mukhyamantri Gram Sadak Yojana ke tahat do sthanon par sadak nirmaan ka shilanyas kiya — NH 23 Bartand via Bandhgora, aur Nawadih Panchayat me Parsabeda Hari Mandir se Joria tak',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/bokaro/news/mla-laid-the-foundation-stone-for-road-construction-136981449.html',
+    date: '2026-04',
+    note: 'Dainik Bhaskar ki post-event report: Bokaro vidhayak Shweta Singh ne ravivaar ko do sthanon par sadak nirmaan ka shilanyas kiya — Mukhyamantri Gram Sadak Yojana ke tahat NH 23 Bartand via Bandhgora tak, aur Nawadih Panchayat sthit Parsabeda Hari Mandir se Joria tak path nirmaan hoga. DATE INFERRED: page par exact date visible nahi thi; read ke samay (17 Oct 2026) relative label \u20186 mahine pehle\u2019 tha, isse ~Mar-Apr 2026 — article me \u2018ravivaar\u2019 likha hai lekin kaun sa Sunday ye pin nahi ho paya, isliye month-level date li gayi. Bhaskar app-paywall ke kaaran text \u2018vidhayak ne\u2019 par truncate tha — sadak ki lambai ya fund-rashi article me darj nahi mili; sirf yojana ka naam darj hai. Shrey capped: sadak sarkari yojana (MMGSY) ke tahat hai; MLA ki vyaktigat bhoomika shilanyas tak.',
+    period: '2024-2029',
+    stage: 'shilanyas-bhoomi pujan',
+  },
+  {
+    title: 'Dumri MLA Jairam Mahto ne Bokaro MLA Shweta Singh aur unke samarthakon ke khilaf maarpeet ke aarop me police case darj karaya (Bokaro Steel City thana)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI)',
+    sourceUrl: 'https://theprint.in/india/jharkhand-jairam-mahto-files-fir-against-congress-mla-shweta-singh-over-bokaro-attack/2583912/?amp',
+    date: '2025-04-09',
+    note: '9 Apr 2025, PTI: Dumri MLA Jairam Mahto (JLKM) ne Congress ki Bokaro vidhayak Shweta Singh aur unke samarthakon ke khilaf police case darj karaya — aarop hai ki BSL prashasanik bhavan ke paas dharne ke dauran (3 Apr ko kathit CISF lathi charge me ek 26-saal ke vyakti ki maut ke virodh me Singh dharne par thin) Mahto ke wahan pahunchne par unhe dhakka diya gaya aur unki gaadi ki number plate Singh ke nirdesh par ukhaad kar phenki gayi. Bokaro Steel City thana prabhari Sudama Das ne pushti ki ki shikayat ke aadhar par case darj hua. Singh ka paksh: unhone shikayat ko \u2018durbhagypurna\u2019 aur \u2018sasti rajneeti\u2019 ka udaharan bataya. Stage: FIR darj, jaanch ki sthiti; chargesheet/dosh-siddhi ki koi khabar cited page par nahi.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (shwettaa-singh — Bokaro, INC; karyakaal Dec 2024–2029):
+// 1. The Pioneer (4 Jun 2025): poorv MLA Biranchi Narayan ne SDO ko sakshya diye — multiple voter ID + false affidavit ka aarop; SDO jaanch — **source whitelist me nahi (The Pioneer briefed list se bahar) → ENTRY NAHI bani; retry lead**: The Pioneer ko JH whitelist me jodne ka parent faisla ho to jaanch-stage negative ban sakta hai (jawab cited page par nahi — disclosed karna hoga).
+// 2. TOI (~Mar 2025): STPI project tez karne ki maang — sirf maang → REJECT.
+// 3. theindiannation.com (Aug 2025): 19 visthapit gaon → 6 panchayat (dabav ka nateeja daava) — non-whitelist → REJECT.
+// 4. TOI (Oct 2026): visthapit apprentice bhookh hadtaal me saath — sirf maang/advocacy + BSL kendriya PSU mamla → REJECT.
+// 5. Do-PAN cards aarop — sirf thejharkhandstory/reporterport/nammakudla → REJECT.
+// 6. Rajan Ji Maharaj aashirvaad (Apr 2025) — dharmik karyakram → REJECT.
+// 7. Indiankanoon 'State vs Shweta' (2018, Delhi) — alag vyakti, naam-jaal → REJECT.
+
+jharkhandWorks['uma-kant-rajak'] = [
+  {
+    title: 'Damudih-Bhuindih tola-PWD road se Adita tak sadak nirmaan ka shilanyas (Mukhyamantri Gram Sadak Yojana)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/bokaro/news/villagers-will-get-better-transportation-facilities-rajak-dbp-137996702.html',
+    date: '2026-05-22',
+    period: '2024-2029',
+    note: 'Dainik Bhaskar report: MLA Umakant Rajak laid the foundation stone for road construction from Damudih, Bhuindih tola PWD road to Adita in Chandankiyari under the Mukhyamantri Gram Sadak Yojana; he said better roads will ease access to schools, hospitals and markets for surrounding villages. Cost not disclosed in the report. Date shown is the article publication date (page meta datePublished 2026-05-22); the event occurred on or just before that date.',
+  },
+  {
+    title: 'Amalabad me DMFT-mad se swikrit 3 PCC path karyon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/bokaro/bhojhudih/news/every-village-will-be-connected-to-the-main-road-umakant-136462710.html',
+    date: '2026-02',
+    period: '2024-2029',
+    note: 'Dainik Bhaskar report (kholkar padhi gayi): Chandankiyari MLA Umakant Rajak laid the foundation stone for three DMFT-sanctioned PCC road works at Amalabad — Amalabad village to Bauridih, Bauridih to Hirak Road, and main road to Sahdev Bauri\u2019s house. Cost not disclosed in the report. Date inference (coordinator ne khud page kholkar theek kiya): page par sirf \u20188 mahine pehle\u2019 ka relative label tha (17 Oct 2026 ko padha), event \u2018budhwar\u2019 ko hua — isse month-level date 2026-02 li gayi.',
+  },
+  {
+    title: 'Chas-Chandankiyari survey settlement mudda Vidhan Sabha me uthaya; mantri ka 2 atirikt nyayalayon ka ashwasan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/jharkhand/bokaro/news/the-matter-of-chas-chandankyari-survey-settlement-was-raised-in-the-assembly-135786291.html',
+    date: '2025-08-29',
+    period: '2024-2029',
+    note: 'Dainik Bhaskar report: MLA Umakant Rajak raised the Chas–Chandankiyari survey-settlement matter in the Assembly — thousands of Section 87 cases pending after hearings were stopped by a verbal order during the BJP government, with alleged land-grabbing of raiyat land; land-revenue minister Deepak Birua assured that 2 additional courts would be constituted for quick disposal, and on Rajak\u2019s demand for a state-wide re-survey the minister said the matter would be considered seriously. Vidhansabha prashn/maang with documented minister\u2019s assurance — credit capped.',
+  },
+  {
+    title: 'Kusumkiari navnirmit Panchayat Bhawan ka udhghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/jharkhand/bokaro/news/inauguration-of-kusumkiari-panchayat-bhawan-137067766.html',
+    date: '2026-01-28',
+    note: 'Dainik Bhaskar report: Chandankiyari MLA Umakant Rajak personally inaugurated the newly built Kusumkiari Panchayat Bhawan, saying the panchayat\u2019s development blueprint would be shaped from this building. Funding scheme and cost not disclosed in the report. Date inferred: report published 2026-01-29 says the event happened on Wednesday, which was 2026-01-28.',
+  },
+];
+
+// REJECT-LOG (uma-kant-rajak — Chandankiyari SC, JMM; karyakaal Dec 2024–2029):
+// 1. thebharatmitranews.com: Baramsia–Hutupathar–Adakudi 15.41 km IRQP road shilanyas — non-whitelist → REJECT.
+// 2. Prabhat Khabar (Oct 2026): BBMKU senate me Khortha-Kudmali PG + 75% attendance ki maang — sirf maang → REJECT.
+// 3. TOI (Jan 2025): ESL Steel ke khilaf 13-point demand letter DC ko — sirf maang → REJECT.
+// 4. jagatprahari.com: Devgram panchayat sachivalaya bhawan udghatan (~May 2025) — non-whitelist → REJECT.
+// 5. Negative check: ADR 2019 ka 1 purana case (Chas PS 62/08, charges framed 25 Jun 2010) — pre-term, Dec 2024+ vikas nahi, 2024 halafname me 0 cases → REJECT.
+// ---- Bokaro district batch END (9 works, 1 negative) ----

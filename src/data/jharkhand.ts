@@ -1091,7 +1091,7 @@ export const jharkhandNetas: Neta[] = [
     constituency: 'Giridih',
     constituencySlug: 'giridih',
     tenures: [
-      { post: 'MLA', constituency: 'Giridih', constituencySlug: 'giridih', party: 'Jharkhand Mukti Morcha', start: '2024', end: '2029' },
+      { post: 'MLA', constituency: 'Giridih', constituencySlug: 'giridih', party: 'Jharkhand Mukti Morcha', start: '2024', end: '2026' },
     ],
     works: [],
     fund: {
@@ -1108,7 +1108,7 @@ export const jharkhandNetas: Neta[] = [
       assets: 'Rs 15,17,90,794',
       liabilities: 'Rs 3,52,48,343',
       mynetaUrl: 'https://myneta.info/Jharkhand2024/candidate.php?candidate_id=853',
-      backgroundNote: 'Pehchan pakki: GIRIDIH, JMM, Winner. S/o Shambhu Nath; Intermediate 1986 (D.S. College Purnia, Bihar); pesha Politics & Business. 2019 se Giridih ke MLA — 2024 me lagatar dusri jeet. Koi criminal case nahi. Vartaman Jharkhand cabinet me mantri (5 Dec 2024 se shapath) — Nagar Vikas evam Awas, Uchch evam Takniki Shiksha, Paryatan, Kala-Sanskriti, Khel evam Yuva Karya vibhag.',
+      backgroundNote: 'Pehchan pakki: GIRIDIH, JMM, Winner. S/o Shambhu Nath; Intermediate 1986 (D.S. College Purnia, Bihar); pesha Politics & Business. 2019 se Giridih ke MLA — 2024 me lagatar dusri jeet. Koi criminal case nahi. Jharkhand cabinet me mantri the (5 Dec 2024 – 6 Sep 2026) — Nagar Vikas evam Awas, Uchch evam Takniki Shiksha, Paryatan, Kala-Sanskriti, Khel evam Yuva Karya vibhag. 6 Sep 2026 ko cardiac arrest se nidhan (The Indian Express/TOI, 7 Sep 2026); Giridih seat tab se khaali — upchunav ka intezaar.',
     },
     electionNote: '2024 me Giridih se 94,042 vote lekar jeete; runner-up Nirbhay Shahbadi (Bharatiya Janata Party) ko 3,838 maton se haraya.',
   },
