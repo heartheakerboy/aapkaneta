@@ -513,3 +513,159 @@ karnatakaWorks['rizwan-arshad'] = [];
 
 // REJECT-LOG (n-a-haris): dementia-friendly initiative (TOI Sep 2026 — abhiyan-shubharambh); CMIDP Rs 50 crore/MLA grant (daijiworld ghoshna, non-whitelist; whitelisted coverage generic 28 constituencies, Shantinagar itemized nahi); cabinet Rs 2,296 crore Bengaluru grant Oct 2025 (NIE generic; Shantinagar Rs 92.45 crore sirf Bangalore Mirror, non-whitelist; itemized sirf NammaBNP NGO tracker); Hebbal flyover loop Rs 80 crore (CM ne inaugurate kiya, seat bahar); BDA chairman pad/Open House/site take-back (pad + BDA-wide); Jogupalya community halls meeting (Bangalore Mirror Dec 2022, pre-term + non-whitelist). NEGATIVES — election petition (The Hindu Feb 2024; SC dismissal Jul 2024) — halafname mamla akela, negative nahi; beta Mohammed Haris Nalapad ke saare mamle (Unocoin bitcoin chargesheet IE Jun 2026; RSS defamation stay; Jan 2024 FIR; ED crypto searches; 2018 pub brawl) — parivar bahar, MLA khud aaropi nahi; statue/Haris Circle 2021 (pre-term); Domlur theatre 2022 (pre-term + non-whitelist). RETRY-LEADS: Oct 2025 cabinet CMIDP Shantinagar itemized GO (badge sarkari); community hall Akkithimmanahalli lokarpan whitelist par mile to entry.
 karnatakaWorks['n-a-haris'] = [];
+
+
+
+// ============================================================================
+// BATCH 3 (Bangalore Urban — doosra hissa, 14 seats, 5/31 jile)
+// ============================================================================
+
+// --- Gandhi Nagar ---
+
+karnatakaWorks['dinesh-gundu-rao'] = [
+  {
+    title: 'Gandhi Nagar ke Tank Bund Road par 418-metre white-topped sadak ka lokarpan, Rs 8.74 crore ki lagat aur fire hydrants ke saath',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-gandhinagar-gets-white-topped-roads-with-fire-hydrants-4098157',
+    date: '2026-08-03',
+    note: 'Deccan Herald ke anusar Greater Bengaluru Development Minister Krishna Byre Gowda aur Gandhinagar MLA Dinesh Gundu Rao ne sanyukt roop se fire hydrants se lais nayi white-topped sadkon ka lokarpan kiya. 418-metre Tank Bund Road (Upparpet police station se Shantala Junction tak) Rs 8.74 crore me bani. Rao ne kaha ki Gandhinagar Pete ki sankeern sadkon par aag lagne par fire engine ke pahunchne me dikkat hoti hai, isliye nayi sadkon par turant paani uplabdh karane ke liye fire hydrants lagaye gaye hain. (tithi-inferred: article 2026-08-04 subah publish hua, usme “on Monday” lokarpan likha hai — 2026-08-03 Somvaar tha)',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Gandhi Nagar ki RT Street par 645-metre white-topped sadak ka lokarpan, Rs 2.52 crore me poori hui, fire hydrants bhi lage',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/bengaluru/bengalurus-gandhinagar-gets-white-topped-roads-with-fire-hydrants-4098157',
+    date: '2026-08-03',
+    note: 'Usi sanyukt lokarpan karyakram me 645-metre RT Street (Srinivasa Mandira Road se Avenue Road tak) ka bhi lokarpan hua, jo Rs 2.52 crore me poori hui. Krishna Byre Gowda ne bataya ki project me BWSSB water supply aur underground sewerage, paidal footpaths aur utility ducts shamil hain. Rao ne kaha ki Gandhinagar aur Majestic Bengaluru ke sabse purane ilakon me hain, jahan sadkon ka upgrade charnon me hota aaya hai. (tithi-inferred: Entry 1 wala hi karyakram — 2026-08-03)',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'RSS sadasya ki criminal defamation shikayat me Dinesh Gundu Rao ke khilaf magistrate court ne case khatm kiya; shikayatakarta ki challenge par High Court ne sabko sessions court bheja',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/legal-news/karnataka-hc-priyank-kharge-nalapad-rss-defamation-case-10902459/',
+    date: '2026-10-01',
+    note: 'RSS sadasya Tejas A ne Priyank Kharge, Dinesh Gundu Rao aur Mohammed Haris Nalapad ke khilaf criminal defamation ki shikayat ki — aarop tha ki unhone sarvajanik bayanon me RSS aur uske sadasyon par avaidh, asamajik aur aapattijanak karyon ka aarop lagakar sangathan ko nakaratmak roshni me pesh kiya. Magistrate court ne 27 June ko shikayat par cognisance li, lekin Dinesh Gundu Rao ke khilaf case khatm kar diya — court me unka jawab tha ki unke bayan Tejas ya kisi pehchane jaane wale vyakti ke khilaf nahi the, balki Kharge aur unke parivar ko mili death threats ki ninda ke sandarbh me diye gaye the. Shikayatakarta ne Rao ko khatm karne wale aadesh ko challenge kiya; Karnataka High Court (Justice Anant Ramanath Hegde) ne 1 October 2026 ko Kharge-Nalapad ki quashing arzi par unhe sessions court me revision petition dayar karne ka nirdesh diya aur Tejas ko bhi sessions court bheja. (tithi: 1 October 2026 — HC ke taza aadesh ki; article updated Oct 1, 2026).',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (dinesh-gundu-rao): CM Siddaramaiah ne Chickpet + Gandhinagar white-topping lokarpan kiya (ETV Bharat Oct 2025 — non-whitelist + lokarpan CM ne, MLA maujood); NIE Oct 2025 Bengaluru Rs 1.20 lakh crore boost (CM/DCM ka karyakram); TOI Ejipura PHC lokarpan (Sep 2023 — Ejipura Gandhi Nagar me nahi + mantri niyam); Hindu Mangaluru MGNVY 2.0 shilanyas (Rs 165cr, district in-charge, seat bahar); Hindu Mangaluru nursing hostel lokarpan (seat bahar + mantri); IE Mangaluru UPHC (non-whitelist aggregator PDF); ETV Bharat Gundu Rao (pita) murti anavaran (parivar niyam + CM ne kiya + non-whitelist); citizenmatters 2023 interview (non-whitelist + pre-term daave); bangalorenewsnetwork K.J. George white-topping (pre-term + dusre ka karyakram); Yatnal cases (ANI Jun 2026 — DGR aaropi nahi, parivar mamla); NIE prison academy lokarpan (CM ne kiya, Home ka kaam); private hospital launches (mantri niyam + private). COORDINATOR-QA: negative note ko IE Oct 1, 2026 article tak simplify kiya (worker ne 3 pages ke facts mix kiye the); DH white-topping article khud kholkar verify kiya — donon entries valid, tithi-inference verified.
+
+// --- Rajaji Nagar ---
+
+// REJECT-LOG (s-suresh-kumar): mini-forest park Kamakshipalya (Bangalore Mirror — non-whitelist + fund/bhoomika undisclosed + May 2023+ vyaktigat lokarpan nahi); Lokayukta complaint over biased contracts (BM Jul 3, 2026 — sirf complaint, FIR me MLA aaropi nahi → negative NAHI); Hindu Apr 2023 pre-election plans (yojana, kaam nahi); DH Jul 21, 2026 PoP idol letter (maang); TOI metro-land letter + cycling feat + IPL tickets (letters/personal); BM 'traffic cop for a day' (stunt); ETV Bharat auto-training launch (abhiyan + non-whitelist); IBC World News vehicle clearance (abhiyan + non-whitelist); Gayathridevi Park pool (HC ne PIL par roka, kaam adhoora); BMTF denotification FIR 2012 (pre-term); Himachal 'Suresh Kumar' khabrein (galat vyakti).
+karnatakaWorks['s-suresh-kumar'] = [];
+
+// --- Govindaraj Nagar ---
+
+// REJECT-LOG (priya-krishna): Rs 100cr grant allocation Govindrajnagar (+27 GBA seats, Jun 2026, newspointapp/Udayavani aggregator — ghoshna); Rs 415cr foundation stone CM Siddaramaiah + Rs 8cr slum-housing inauguration pita M Krishnappa ne (DC 2017 — pre-term + parivar niyam); Platform 65 restaurant inauguration (ap7am/fnbnews — private business, maujoodgi); KLE Law College walkathon flag-off (ceremonial, private college); Hindu 'Corridors of Power' drainage/footpath mentions (in-progress, koi lokarpan nahi); Hindu birthday flexes (Apr 2025 — civic-violation news); election coverage (pre-term). NEGATIVES: Lokayukta assets FIR/raids 2012-14 (family-centric, pre-term); 2016 land-grab private complaint Srirangapatna (stay, pre-term); 2023 halafname unlawful-assembly FIR (Sathanur PS) — May 2023+ nyayik vikas nahi → sab reject.
+karnatakaWorks['priya-krishna'] = [];
+
+// --- Vijay Nagar ---
+
+karnatakaWorks['m-krishnappa-vijay-nagar'] = [
+  {
+    title: 'Vijayanagar me Rs 13 crore ke Krishnadevaraya Palike Bazaar ka udghatan hua, ye Dakshin Bharat ka pehla bhoomigat vataanookoolit bazaar hai jisme 79 dukaanen hain',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/bengaluru/south-indias-first-underground-ac-market-opens-in-bengaluru-3164067',
+    date: '2024-08-25',
+    note: 'CM Siddaramaiah ne Vijayanagar MLA M. Krishnappa ke saath Rs 13 crore ke Krishnadevaraya Palike Bazaar ka udghatan kiya. Bazaar MLA ki soch thi (Delhi ke Palika Bazaar ko dekhne ke baad unhone 2017 me ye pariyojna maangi; udghatan me CM ne unhe shrey diya). Fund disclosed: BBMP se Rs 13 crore (2017-18 me Rs 5 crore + 2021-22 me Rs 8 crore); 1,365 sqm, 79 dukaanen (~9 sqm pratyek), central AC ke saath 31 dukaanon me individual AC, 8 pravesh, 2 escalator, 1 lift. (unke bete Priya Krishna, jo Govindrajanagar ke MLA hain, bhi maujood the — beta sirf aaya tha; pariyojna ka shrey Vijayanagar MLA ka hai.)',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+];
+// REJECT-LOG (m-krishnappa-vijay-nagar): Kanaka Bhavan/JP Park/Ranga Mandira/Ambedkar Bhavan/Kempegowda Commercial Complex fund daave (DH — sirf MLA ka dawa, ghoshna); bogus khata review meeting (Hindu Nov 2025 — nirikshan); Gangondanahalli fire visit (Hindu Feb 2024 — ashvasan); IPL screening (TOI Jun 2025 — event); Ram Mandir Rs 10 lakh daan (Republic World — non-whitelist + daan); Rs 100cr GBA grant (newspointapp — aggregator + ghoshna); NIE vendor story Jan 2018 (pre-term); Lokayukta raids 2012 (pre-term, vikas nahi); cabinet berth pieces (politics); Citizen Matters tracker 2017-18 (pre-term + non-whitelist); DC 2017 (pre-term). NEGATIVES: halafname ka 1 pending mamla akele NAHI; BJP Bengaluru South wale namesake ke mamle mix NAHI kiye.
+
+// --- Chamrajpet ---
+
+karnatakaWorks['b-z-zameer-ahmed-khan'] = [
+  {
+    title: 'Lokayukta police ne Zameer Ahmed Khan ko aay se adhik sampatti ke mamle me poochtachh ke liye summon bheja, 3 December ko hazir hone ko kaha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/zameer-ahmed-khan-summoned-to-appear-before-lokayukta-police-in-da-case/article68876873.ece',
+    date: '2024-11-17',
+    note: 'Karnataka Lokayukta police ne November 2024 me B. Z. Zameer Ahmed Khan ko disproportionate assets (DA) mamle me 3 December ko poochtachh ke liye hazir hone ka summon bheja. Mamle ki jadh: ED ne August 2021 me IMA ponzi scam ki jaanch me unse jude thikaanon par chhapa mara; ED ne unke khilaf chargesheet dayar nahi ki, lekin DA ki report tatkalin Anti-Corruption Bureau (ACB) ko bheji jisne FIR darj ki; ACB September 2022 me bhang hui aur mamla Lokayukta police ko transfer ho gaya; jaanch ab phir shuru hui hai aur summon isi ke tehet bheja gaya. Article me Khan ka jawab ya unki pratikriya darj nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Karnataka Lokayukta police ne Governor se Zameer Ahmed Khan ke khilaf Prevention of Corruption Act ke tehet mukadma chalane ki anumati maangi; chargesheet dayar karne ka prastav',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express',
+    sourceUrl: 'http://indianexpress.com/article/cities/bangalore/zameer-ahmed-khan-disproportionate-assets-case-lokayukta-prosecution-sanction-10785377/',
+    date: '2026-07-14',
+    note: 'Lokayukta police ne 9 July ko Governor Thawarchand Gehlot ko patra likhkar Congress MLA Zameer Ahmed Khan ke khilaf Prevention of Corruption Act ke tehet mukadma chalane ki anumati maangi, taaki Special Lokayukta Court me chargesheet dayar ki ja sake. 2021 ki FIR ED ki soochna par adharit thi jisme Rs 87.44 crore ke disproportionate assets ka aarop tha; jaanch me lagbhag Rs 26 crore ki adhik sampatti payi gayi. Pichhle saal Karnataka High Court ne Khan ki jaanch band karne ki arzi kharij kar di thi. Jaanch unki 2013-2018 ke mantri-kal ki sampatti se sambandhit hai. Article me Khan ka jawab ya pratikriya darj nahi.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (b-z-zameer-ahmed-khan): Hubballi PU college udghatan (TOI 2024 — mantri karya, seat bahar); Ballari 862 makaan shilanyas (Hindu Jan 2026 — district in-charge, seat bahar); Chamarajpet police stations udghatan (BM — CM ne kiya, bhoomika nahi); Mysuru 1,440 makaan shilanyas (Star of Mysore — seat bahar); News18 interview 'Rs 400cr mile' (sirf dawa); Manipur students Rs 2 lakh sahayata (newsdrum — daan + non-whitelist); 2-acre zameen vivaad (Organiser — non-whitelist, vivaad); Nasha Mukt programme (Business Standard SMPL — abhiyan); Chikkajala KHB township nirikshan (Public TV — nirikshan/ghoshna, seat bahar); Haj Ghar 2012 (pre-term); Citizen Matters tracker (pre-term). Halafname ke 5 pending mamle akele negative NAHI.
+// COORDINATOR-QA: donon negatives whitelisted pages se verify (Hindu summon Nov 2024; IE prosecution-sanction Jul 2026 — cross-outlets se corroborate). MINISTER-STHITI hal: IE (14 Jul 2026) ke mutabik Zameer June 3, 2026 ke pehle cabinet me NAHI the, lekin 3 Aug 2026 ko cabinet me vaapas aaye aur 12 Aug 2026 ko HOUSING portfolio mila (Times Now / ANI via lokmattimes / latestly). Waqf & Minority Welfare ab U. T. Khader ke paas. Brief ka 'mantri' sahi hai — portfolio sirf Housing.
+
+// --- Chickpet ---
+
+// QA-DROP (coordinator, uday-garudachar): worker ki negative entry (false-affidavit conviction → HC quash 24 Apr 2024) DROPPED — primary source TOI page 403 par khulti nahi (worker fail, coordinator retry bhi fail). Note-grounding rule ke tahat unreadable page source nahi ban sakta. RETRY-LEAD (live-browser): https://timesofindia.indiatimes.com/city/bengaluru/hc-nixes-orders-against-bjp-mla-in-affidavit-case/articleshow/109636639.cms — khulne par valid relief-entry (chain: Oct 2022 special court conviction → Sep 2023 sessions appeal kharij → 24 Apr 2024 HC quash).
+// IDENTITY CORRECTION (worker): brief me 'Garudachar 2018 me haare the' galat tha — ve 2018 me JEETE the (R. V. Devraj ko harakar); 2023 me seat retain ki. Foundation 2023 electionNote sahi hai, koi edit nahi.
+// REJECT-LOG (uday-garudachar): VV Puram Food Street bhoomi-pujan Dec 2022 (Public TV — non-whitelist + pre-term); Gandhi Bazaar flower market Rs 22cr (Hindu Nov 2025 — Basavanagudi seat me, bhoomika nahi); BBMP Rs 9.5cr upgrade (TOI/HT — pre-event); HOPCOMS mela (Hindu — abhiyan); Parvatipura PMAY houses 2022 (Public TV — pre-term); hospital/jewellery karyakram (maujoodgi); Garuda Mall/EWS aarop (citizenmatters 2013 — non-whitelist, vikas nahi); 2023 halafname 3 cases akele NAHI.
+karnatakaWorks['uday-garudachar'] = [];
+
+// --- Basavanagudi ---
+
+// REJECT-LOG (l-a-ravi-subramanya): Kadalekai Parishe festival (NIE/TOI Nov 2025 — event, quotes); Basavanagudi garbage rounds (BM Jun 2026 — nirikshan); garbage complaints (BM Sep 2026 — nirikshan); legislature committee waste inspection (DH — seat bahar); Gunasheela Hospital jubilee (dusre ka karyakram); Swachcha Shakthi park (BM Mar 2023 — pre-term + MP ne kiya); CCTV cameras (TOI 2017 — pre-term); school funds 2018/Gavipuram/BWSSB (pre-term); Heritage Corridor prastav (Jan 2023 — ghoshna/pre-term). NEGATIVE-QA: halafname ka 1 pending mamla akele NAHI; IE 'Shadow of 2020 bank scam' (May 2023 — sirf profile mention, vikas nahi). RETRY-LEAD (standing): https://kllads.kar.nic.in/ — sarkari MLA-LAD works portal, worker browser.open fail; live-browser par per-seat works check ka standing lead.
+karnatakaWorks['l-a-ravi-subramanya'] = [];
+
+// --- Padmanabhanagar ---
+
+karnatakaWorks['r-ashoka'] = [
+  {
+    title: 'Supreme Court ne R. Ashoka ke khilaf Bagar Hukum zameen allotment case me darj Karnataka ACB ki FIR ko radd kar diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (The Week)',
+    sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/12/17/lgd31-sc-mla-corruption-case.html',
+    date: '2025-12-17',
+    note: 'Supreme Court ki bench (Justices Sanjay Karol, Vipul M. Pancholi) ne Karnataka ACB ki FIR radd karte hue kaha ki shikayatkartaon ki taraf se unki credibility par sawal uthane ki koshish thi aur karye politically motivated aur malice se prerit lage. FIR unke Bengaluru South Taluk Bagar Hukum Land Regularisation Committee ke head ke karyakal me zameen allotment me aniyamittataon ki janch ke liye darj hui thi; aarop tha ki SC/ST aur garibon ke liye sarkari zameen ka avaidh allotment unke parivar, siyasi followers aur corporators ko kiya gaya. SC ne Karnataka HC ka quashing-petition kharij karne wala aadesh radd kiya; janch bina state sarkar ki sanction ke shuru hui thi — record me sanction hone ka koi saboot nahi mila, isliye ACB ki preliminary report, FIR aur uske baad ki saari karyavahi express bar ke bavjood chali. (tithi: PTI wire 17 December 2025 — adesh usi din ya usse pehle ka)',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (r-ashoka): Iwo Jima park (TOI Jan 2022 — pre-term); Agarwal Eye Hospital (pre-term + private + non-whitelist); Malabar Grandma Home (maujoodgi, CSR); Ram Lalla Deepotsava (pre-event + party); Hindu garbage review (sirf nirdesh); nammabnp.org tracker (NGO, 'Approved'); cityairnews/dailyprabhat daave (bayanbaazi); LoP pad-karye (sab — LoP niyam); metro purple line (pre-term + state); Ashokavana park (Wikipedia — koi whitelist source nahi). COORDINATOR-QA: PTI (The Week) page khud kholkar verify kiya — SC-quash relief entry valid.
+
+// --- B.T.M. Layout ---
+
+// REJECT-LOG (ramalinga-reddy): double-decker flyover Ragigudda-CSB Rs 449cr (IE Jul 2024 — BMRCL metro pariyojna + mantri bhoomika, seat-lokarpan nahi); Rs 47cr Ejipura buffer-road (ibcworldnews — non-whitelist); Rs 27cr BTM civic works review (Hindu Nov 2025 — nirikshan, re-tender); free auto training (NIE Feb 2026 — abhiyan + CSR); Madiwala Lake Rs 15cr (Hindu Dec 2025 — GBA commissioner ke nirdesh, bhoomika nahi); analyzer handover UPHC Tavarekere (Rotary — non-whitelist + CSR); NammaBNP tracker (NGO, 'Approved'); metro station renaming (siasat — maang). NEGATIVES: halafname ke 4 cases akele NAHI; May 2023+ me koi FIR/chargesheet/janch nahi. Note: mantri mantri Ramalinga Reddy rahe; Aug 2026 cabinet me unhe Forest, Ecology & Environment mila (Times Now/ANI 12 Aug 2026) — mantri-niyam badla nahi.
+karnatakaWorks['ramalinga-reddy'] = [];
+
+// --- Jayanagar ---
+
+// REJECT-LOG (c-k-ramamurthy): pothole protest (TOI Sep 2025 — adhoora kaam, protest coverage); delayed white-topping (TOI Apr 2026 — adhoora + dawa); footpath letter (BM — maang); Apollo Run (maujoodgi, non-whitelist); recount/chunav-vivad (TOI Mar 2025 + Jan 2026 — recount akele negative nahi); halafname 3 cases (akele nahi); Form-7/SIR voter-deletion vivaad (DH Oct 2026 — FIR BJP workers ke khilaf, MLA aaropi nahi → negative NAHI; WATCH: next cycle me nazar rakho).
+karnatakaWorks['c-k-ramamurthy'] = [];
+
+// --- Mahadevapura ---
+
+// REJECT-LOG (manjula-s): Varthur maternity hospital renovation (TOI Jul 2023 — MLA sirf maujood, citizen group ne kiya); Rs 25cr grant/Rs 700-800cr demand (TOI Sep 2025 — maang); Rs 50cr grant (newspointapp Jun 2026 — aggregator + ghoshna); Sumadhura road (private, maujoodgi); Akshaya Patra kitchen (private event); Elevated Corridor (BM — state project, non-whitelist); KLLADS utilization — Hindu (14 Jun 2025) + NIE (15 Jun 2025) citizens' report card: unke Rs 4 crore KLLADS me se ZERO allocate hua (absence ki pushti). NEGATIVES: koi nahi (halafname 0 cases). PEHCHAAN-QA: BWSSB chairperson 'N. Manjula' confuse nahi ki; pati Aravind Limbavali ke purane kaam credit nahi kiye.
+karnatakaWorks['manjula-s'] = [];
+
+// --- Bommanahalli ---
+
+// REJECT-LOG (m-satish-reddy): Swaccha Graha Kalika Kendra (Hindu Aug 2023 — pre-term); Cauvery 5th stage (CM+DCM ne dedicate kiya, bhoomika nahi); double-decker flyover 1 May 2026 (BMRCL — maujoodgi); Vintage Car Park 2019 (pre-term); ABV stadium 2022 (pre-term); Rs 60cr allocation (newspointapp — aggregator + ghoshna); GO EC HQ (private, non-whitelist); stray dog Zero Hour (maang); KCDC plant dawa (IE May 2023 — poll se pehle); bribery charge (DH via Dailyhunt — aggregator). NEGATIVES — land grab allegation (citizenmatters — non-whitelist); bed-blocking scam (Hindu May 2021 — pre-term, sirf aarop); supari case (Feb 2023 — MLA peedit, pre-term); SUVs aag (NIE 2021 — MLA peedit, pre-term).
+karnatakaWorks['m-satish-reddy'] = [];
+
+// --- Bengaluru South ---
+
+// REJECT-LOG (m-krishnappa-bengaluru-south): Doddathoguru Lake rejuvenation (infosys.com Nov 2025 — chief guest, CSR fund, bhoomika nahi); Metro Pink Line trial ride (TOI Sep 2026 — rajya pariyojna); BBMP property-tax protest (TOI 2024 — virodh); KDP meeting (DH Sep 2026 — upasthiti); IndiaWaterPortal lake story (citizens-led, non-whitelist); Anjanapura protest 2021 (pre-term); Bingipura Lake 2021 (pre-term); Hindu road review 2021 (pre-term); Nagarothana Rs 206cr (BM 2022 — pre-term). PEHCHAAN-JAAL (INC namesake Vijay Nagar wale M. Krishnappa — mix NAHI): 215-foot flagpole (OneIndia Jan 2024); DH 'Billionaire MLA ministerial demand' (Aug 2026); DC 'He feeds the poor' (2017). NEGATIVES: halafname 0 cases; 2014 Lokayukta denotification matter (pre-term + Governor ne recommendation reject ki).
+karnatakaWorks['m-krishnappa-bengaluru-south'] = [];
+
+// --- Anekal ---
+
+// REJECT-LOG (b-shivanna): KSPCB chairman appointment (DH Sep 2026 — pad, seat-kaam nahi); Anekal 78 works lokarpan (NIE May 2025 — D K Shivakumar ne kiya, dusre ka karyakram); stadium ghoshna (NIE May 2026 — CM ki ghoshna, KHB fund); 8 villages revenue records transfer (Asianet Newsable Aug 2026 — Vidhansabha-maang ka nateeja jaisa, lekin non-whitelist → reject; whitelisted coverage mile to entry possible); Kiran Mazumdar-Shaw sadak-vivad (maang); KSPCB state-level faisla (DH Oct 2026 — seat-level nahi); Rs 45cr grant dawa (newspointapp — aggregator). NEGATIVES: 2018 IT raid (pre-term + daijiworld non-whitelist); Bommasandra murder allegation (citizenmatters — non-whitelist).
+karnatakaWorks['b-shivanna'] = [];
