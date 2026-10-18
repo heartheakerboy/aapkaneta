@@ -347,3 +347,469 @@ andhraWorks['gummidi-sandhyarani'] = [
   },
 ];
 
+// Andhra Pradesh — Batch 2: Alluri Sitharama Raju + Visakhapatnam + Anakapalli (4-6/26 jile).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/ap2_worker_<slug>_works.ts.
+// QA-drop: koi entry nahi girayi; sundarapu ki ek entry `dawa` badge-capped. NIE = Indian Express group ka dakshin sanskaran (whitelist-confirmed).
+
+// ==== Alluri Sitharama Raju (Batch 2) ====
+// regam-matyalingam — 0 entries (QA-checked).
+// ===== REJECT-LOG =====
+// (1) Passport Seva Kendra inauguration, Araku — 22 Jan 2025 (ANI wire via The Print / devdiscourse / webindia123):
+//     MEA ne Post Office Passport Seva Kendra ka lokarpan kiya; Matyalingam sirf karyakram me maujood the
+//     ("attended the launch" / "graced the inauguration" — unki apni bhoomika nahi). REJECT: "dusre neta ke
+//     karyakram me maujoodgi". Waise bhi The Print/devdiscourse/webindia123 whitelist par NAHI hain.
+//     URLs dekhe gaye: https://theprint.in/world/mea-inaugurates-post-office-passport-seva-kendra-in-tribal-region-of-andhra-pradesh/2457756/?amp
+//     aur https://www.devdiscourse.com/mobilearticle/3235215-new-passport-seva-kendra-boosts-services-in-araku-region
+// (2) Election coverage — REJECT (works-mining se bahar): TOI/ADR (Jul 2024) vote-share analysis (36.71%, sabse kam);
+//     The Hindu/India Today (4 Jun 2024) result coverage ("Amid NDA wave, YSRCP manages to win Paderu and Araku...");
+//     oneindia/moneycontrol/News18 winners list; prsindia.org + Wikipedia profile pages.
+// (3) "Tribals protest delayed road works" (The Hindu, 11 May 2026, Rolugunta mandal/Anakapalli; aur Deccan Chronicle,
+//     Oct 2026, wahi ilaaka) — REJECT: wo Chodavaram AC (Kalidindi Suryana Naga Sanyasi Raju) ka seat-mamla hai,
+//     Araku Valley (ST) ka NAHI — "seat ke bahar ka kaam NAHI".
+// (4) The Hindu (Dec 2021) ITDA medical camp / road connectivity story — REJECT: karyakaal se pehle (2021), aur us
+//     samay Araku MLA Chetti Palguna the, ye MLA nahi.
+// (5) The Hindu (Aug 2022) World Tribal Day coverage — REJECT: karyakaal se pehle, Araku MLA tab Setti Phalguna the.
+// (6) The Hans India (Oct 2026) — "Assembly Speaker vows to transform his constituency into industrial hub" (Araku coffee
+//     factory, Narsipatnam ke Speaker Ayyanna Patrudu ka karyakram) — REJECT: dusre neta ka karyakram, is MLA ki bhoomika nahi.
+// (7) NEGATIVES screening: established media me Jun 2024+ me Regam Matyalingam ka naam FIR-aaropi column me,
+//     chargesheet, giraftari ya adalat-aadesh me kahin NAHI mila. Jo mila wo dusre logon ke mamle the:
+//     - Bolla Brahma Naidu (purv YSRCP MLA) land-grab giraftari, Jun 2026 (PTI/newsdrum) — alag neta.
+//     - Biyyapu Madhusudhan Reddy (purv Srikalahasti MLA) case, Dec 2024 (ap7am, whitelist-bahar) — alag neta.
+//     - Arava Sridhar (JSP, Railway Koduru) harassment case (Asianet Newsable, whitelist-bahar) — alag neta.
+//     - Srisailam forest-officials attack (The Hindu, Aug 2025) — aaropi MLA ka naam report me nahi diya gaya.
+//     Halafname ka 1 pending mamla akele negative NAHI hota (rule) — aur uska Jun 2024+ me koi nyayik vikas
+//     established media me nahi mila. Isliye 0 negatives.
+// (8) Whitelist outlets (The Hindu, New Indian Express, Deccan Chronicle, The Hans India, TOI, HT, NDTV, India Today,
+//     Indian Express) par "Matyalingam"/"Regam Matyalingam" khoj se Jun 2024+ ke DORAN koi shilanyas/lokarpan,
+//     Vidhansabha-sawaal ka dastaveji nateeja, itemized sanction ya GO-backed swikriti NAHI mili. MLA vipaksh (YSRCP) me
+//     hai aur seat ati-durgam adivasi kshetra hai — iska ullekh contextual hai, excuse nahi.
+// Retry leads: koi nahi (koi khul-na-saka whitelist page nahi mila jo relevant ho).
+
+// regam-matyalingam — 0 entries
+// YSRCP, Araku Valley (ST); Jun 2024+ me whitelist-verified works ya negatives nahi mile.
+andhraWorks['regam-matyalingam'] = [];
+
+// matsyarasa-visweswara-raju — 0 entries (QA-checked).
+// ==== REJECT-LOG ====
+// R1. REJECT (sirf maujoodgi): The Hindu (28 Aug 2024, premium/verified via open) — "Alluri Sitharama Raju
+//     district officials plan to develop tourism amenities at Dallapalli": District Collector A.S. Dinesh Kumar
+//     ne "inaugurated the renovated school building at Kotlaguruvu in Paderu mandal ALONG WITH MLA Visweswara
+//     Raju". Lokarpan Collector ka tha; MLA ki bhoomika sirf maujoodgi ("along with") — dusre adhikari ke
+//     karyakram me maujoodgi, isliye entry NAHI.
+//     URL: https://www.thehindu.com/news/cities/Visakhapatnam/alluri-sitharama-raju-district-officials-plan-to-develop-tourism-amenities-at-dallapalli/article68577741.ece/amp/
+// R2. REJECT (nira politics/agitation, koi bhautik kaam nahi): The Hindu (20 Sep 2025) — YSRCP ne Paderu me
+//     medical colleges ke PPP mode (privatisation) ke khilaf rally ki; MLA bheed me shamil tha. Koi lokarpan/
+//     sanction/maang ka nateeja nahi — protest hai.
+//     URL: https://www.thehindu.com/news/cities/Visakhapatnam/ysrcp-stages-protest-against-governments-move-to-privatise-medical-colleges/article70071354.ece
+// R3. REJECT (sirf maang + dusre sangathan ka karyakram): Deccan Chronicle (Jul 2026, Adivasi rally) — GO 3
+//     bahali aur 1/70 Act ki maang wali Adivasi Girijana Sangham ki rally me MLA ne sambodhan kiya. Sirf
+//     maang/maang-par maujoodgi, koi dastaveji nateeja nahi.
+//     URL: https://www.deccanchronicle.com/southern-states/andhra-pradesh/thousands-of-adivasis-rally-for-go-3-170-act-1971790
+// R4. REJECT (whitelist-bahar + vyaktigat act, koi kaam nahi): India TV (9 Sep 2024) — Raigudda Vagu me baadh me
+//     phase ladke ko MLA ne bachaya. India TV whitelist me nahi; aur ye bahaduri ka vyaktigat act hai, vikas-
+//     karya nahi.
+// R5. REJECT (generic, naam nahi): The Hindu (4 Jul 2025) — PM JANMAN ke tahat ITDA-Paderu me 35 multipurpose
+//     buildings (Rs 21 crore); inauguration "District Collector, Joint Collector, and local public
+//     representatives" dwara hoga — MLA ka naam nahi, vyaktigat bhoomika dastavej nahi.
+//     URL: https://www.thehindu.com/news/cities/Visakhapatnam/35-multi-purpose-government-buildings-to-come-up-in-itda-paderu/article69773145.ece
+// R6. REJECT (whitelist-bahar + political statement): Bharathorizon — Modakondamma festival ki tareekh badalne
+//     ka MLA ne virodh kiya. Not whitelisted; statement hai, karya nahi.
+// Negatives: halafname me 0 mamle; whitelist media me Jun 2024+ me MLA ke khilaf FIR/chargesheet/janch ya
+// nyayik vikas ka koi established record nahi — isliye 0 negatives.
+// Retry leads: (a) Assembly-session coverage me "Paderu MLA" ke sawaal — Feb 2026 aur Sep 2026 sessions ki
+// The Hindu/Hans India reporting par dobara check; (b) PM JANMAN buildings ke lokarpan baad ki post-event
+// reports jahan MLA ka naam ho sakta hai.
+andhraWorks['matsyarasa-visweswara-raju'] = [];
+
+// miriyala-sirisha-devi — 0 entries (QA-checked).
+
+andhraWorks['miriyala-sirisha-devi'] = [];
+
+// ==== Visakhapatnam (Batch 2) ====
+// ganta-srinivasa-rao — 3 entries (QA-checked).
+
+andhraWorks['ganta-srinivasa-rao'] = [
+  {
+    title: 'Anandapuram junction (Bhimili) ke vistar karyon ka shilanyas kiya — Rs 81 lakh ki lagat se traffic bottleneck door karne ki pariyojna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Visakhapatnam/foundation-stone-laid-for-expansion-of-anandapuram-junction/article71579756.ece',
+    date: '2026-10-13',
+    note: 'The Hindu ki post-event report ke mutabik, Bheemunipatnam MLA Ganta Srinivasa Rao ne Anandapuram junction ke vistar karyon ka shilanyas kiya; pariyojna ka budget Rs 81 lakh bataya gaya hai. Report ke anusar junction badhti gaadiyon ki aavajahi aur Bhogapuram International Airport se aane wale traffic ke karan bada traffic bottleneck ban chuka tha, isliye vistar zaroori tha. MLA ne thekedaar aur sambandhit adhikariyon ko nirdharit samay-seema me kaam poora karne ka nirdesh diya. Karyakram me NHAI ke Deputy Manager Gopikrishna aur alliance neta maujood the. SEAT-CHECK: Anandapuram mandal Bhimili/Bheemunipatnam Assembly constituency ka hissa hai (The Hindu ki 64-panchayat merger report me Anandapuram mandal ko isi constituency me darj kiya gaya hai). Tithi: report 13 Oct 2026 (10:23 pm IST) ko prakashit hui aur karyakram "Tuesday" ka bataya gaya — date -d se 2026-10-13 vaastav me Tuesday hai, isliye event-tithi 2026-10-13 li gayi hai, inferred nahi. Fund: report me fund-source nirdisht nahi — "ghoshit nahi".',
+    period: '2024-2029',
+  },
+  {
+    title: 'Marikavalasa me Kommadi se Doratota junction tak central median karyon ka shilanyas kiya — anumaanit lagat Rs 10.43 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/visakhapatnam/visakhapatnam-alliance-will-repeat-2024-election-victory-in-local-body-polls-1130749',
+    date: '2026-10-09',
+    note: 'The Hans India ki post-event report ke mutabik, Bheemunipatnam MLA Ganta Srinivasa Rao ne Marikavalasa me Kommadi se Doratota junction tak central median karyon ka shilanyas kiya; anumaanit lagat Rs 10.43 crore batayi gayi hai. Karyakram me Zonal Commissioner V. Ayyappa Naidu, DE Mani Kumar, APD Sriram aur alliance dalon ke neta maujood the. SEAT-CHECK: Marikavalasa/Kommadi Madhurawada zone (Visakhapatnam uttar) me hai; report is daure ko "development initiatives in the constituency" ke roop me darj karti hai — seat-level hai. Inferred-date disclosure: page par prakashan-tithi 2026-10-10 (00:26 IST) hai aur karyakram "Friday" ka bataya gaya hai — date -d se 2026-10-09 vaastav me Friday hai, isliye event-tithi 2026-10-09 li gayi hai. Fund: report me fund-source nirdisht nahi — "ghoshit nahi".',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ka dawa — Bhimili constituency me Rs 41 crore se zyada ke infrastructure projects par kharch ho chuka hai, unme Madhurawada zone me 39 km par 93 sadak karya',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/visakhapatnam/visakhapatnam-alliance-will-repeat-2024-election-victory-in-local-body-polls-1130749',
+    date: '2026-10-09',
+    note: 'MLA ka dawa — The Hans India ki upar wali report ke mutabik, Kommadi–Doratota shilanyas karyakram me bolte hue MLA Ganta Srinivasa Rao ne dawa kiya ki constituency me vibhinn infrastructure projects par Rs 41 crore se zyada kharch ho chuka hai, jinme Madhurawada zone me kul 39 km par 93 sadak karya shamil hain. CREDIT CAPPED: ye KEVAL MLA ka bhashan me diya gaya dawa hai — report me itemized suchi, GO number ya swatantra satyapan nahi diya gaya; upar wali do entries ke shilanyas is dawe ke praman nahi hain. Date: wahi karyakram (9 Oct 2026, Friday) — reasoning upar wali entry jaisi. Fund: dawe me fund-source nirdisht nahi — "ghoshit nahi".',
+    period: '2024-2029',
+  },
+];
+
+// velagapudi-ramakrishna-babu — 1 entries (QA-checked).
+
+andhraWorks['velagapudi-ramakrishna-babu'] = [
+  {
+    title: 'Rama Naidu Studios ko di gayi 34.44 acre zameen me se 15.17 acre par residential layout ki koshish par rajya sarkar ne company ko show-cause notice jari kiya — MLA ki Supreme Court SLP ke baad',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Visakhapatnam/ap-govt-issues-show-cause-notice-over-use-of-land-sanctioned-for-rama-naidu-studio-in-vizag/article69408786.ece',
+    date: '2025-04-03',
+    note: 'The Hindu (3 Apr 2025) ke mutabik, Andhra Pradesh sarkar ne M/s Suresh Production Private Limited ko show-cause notice jari kiya — company Visakhapatnam me Rama Naidu Studios ke liye allotted 34.44 acre me se 15.17 acre par residential layout ki permission lene ki koshish kar rahi thi. East MLA Velagapudi Ramakrishna Babu ne is land-use change ka virodh karte hue Supreme Court me Special Leave Petition (SLP) file ki thi; apex court ne 9 Feb 2024 ke interim order me kaha ki zameen sirf usi prayojan ke liye istemal ho jiske liye di gayi thi. Special Chief Secretary (Revenue) R.P. Sisodia ne 3 Apr 2025 ko orders jari karke Collector ko 15.17 acre ke liye show-cause notice dene aur company ko apna paksh rakhne ka uchit avsar dene ka nirdesh diya; VMRDA Commissioner aur GVMC Commissioner ko bhi company ke land-use change ke avedano par vichar na karne ka nirdesh mila. CREDIT CAPPED: ye sarkar ki legal/administrative karwai hai, bhautik sarkari sanrachna ka shilanyas/lokarpan nahi; SC interim order (Feb 2024) Jun 2024 ke karyakaal se pehle ka hai (Ramakrishna Babu tab bhi MLA the — unhone SLP file ki thi), karyakaal ke andar ki karwai sirf sarkar ka show-cause notice aur VMRDA/GVMC ko nirdesh hai. Fund: report me CDP/MLA-nidhi ka zikr nahi — ‘ghoshit nahi’.',
+    period: '2024-2029',
+  },
+];
+
+// vamsi-krishna-srinivas — 3 entries (QA-checked).
+
+andhraWorks['vamsi-krishna-srinivas'] = [
+  {
+    title: 'Visakhapatnam South ke 33rd ward me GVMC-nidhi se lagbhag Rs 1.5 crore ke sadak aur stormwater drain karyon ka shilanyas — Mayor, MLA aur corporator ne sanyukt roop se rakha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/vijayawada/gvmc-lays-foundation-for-developmental-works-worth-rs-1-5-crore/articleshow/123509212.cms',
+    date: '2025-08-25',
+    note: 'TOI ki post-event report ke mutabik, Vizag Mayor Peela Srinivasa Rao ne Vizag South MLA Vamsikrishna Srinivas Yadav aur corporator B Vasantha Lakshmi ke saath 33rd ward (Visakhapatnam South seat ka hissa) me GVMC-funded lagbhag Rs 1.5 crore ke vikas karyon ka shilanyas kiya. Itemized: Leelamahal theatre Junction se Neelamma Vepa Chettu junction aur Indira Gandhi Junction tak sadak (lagbhag Rs 46.66 lakh); Allipuram Junction se Captain Rama Rao Junction tak stormwater drain (lagbhag Rs 48.3 lakh); Leelamahal Junction se South Jail Road tak stormwater drain (lagbhag Rs 49.5 lakh). CREDIT CAPPED: ye sanyukt shilanyas tha (Mayor + MLA + corporator) aur poori nidhi GVMC ki hai — MLA ka vyaktigat/akele ka kaam nahi, credit isi sanyukt shilanyas tak seemit. Fund: GVMC; CDP/MLA-nidhi ka ullekh nahi — ‘ghoshit nahi’. Inferred-date disclosure: report me karyakram ko ‘on Monday’ bataya gaya hai; search-crawl metadata (~418 din pehle, Oct 2026) prakashan ko Aug 2025 me rakhti hai, isliye Somwar 25 Aug 2025 li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Visakhapatnam South constituency me SL Canal modernisation ke liye Rs 18 crore ki prashasanik swikriti — MLA ki nirantar pairavi ke baad VPA property-tax nidhi se kaam hoga',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/visakhapatnam/rs-18-cr-approved-for-sl-canal-modernisation-in-south-constituency-1114800',
+    date: '2026-08-28',
+    note: 'The Hans India ki post-event report ke mutabik, Visakhapatnam South constituency me SL Canal ke lambe samay se pending modernisation ke liye Rs 18 crore ki prashasanik swikriti mili; south constituency MLA Ch Vamsi Krishna Srinivas ne ise ‘ambitious project’ batakar VPA (Visakhapatnam Port Authority) aur GVMC adhikariyon ke saath nirantar pairavi ki, aur report ke mutabik unhi ke nirantar prayason se ye swikriti mili. Kaam: GVMC ke 39th ward me Railway Yard Bridge se Ferry Road Mary Mata junction tak canal ke bottom ka concreting aur side walls ka nirman; GVMC Commissioner ko implementation ke nirdesh. Fund-source report me disclose hai: VPA dwara GVMC ko deya property-tax nidhi ka 51% hissa, mutually agreed works ke tahat — rajya sarkar/GVMC ki nidhi, CDP/MLA-nidhi nahi. Inferred-date disclosure: report me event ki exact tareekh nahi, prakashan-tithi 28 Aug 2026 li gayi hai. CREDIT CAPPED: swikriti rajya sarkar ki hai — credit MLA ki dastaveji pairavi tak seemit.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Visakhapatnam South ke Velampeta-Lakshmi Nagar me Andhra Pradesh ki pehli in-situ slum redevelopment pariyojna (Rs 28.44 crore, 177 parivar) ka shilanyas — MLA ne karyakram ki adhyakshta ki aur mantri tak mudda pahunchane ka dawa kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/visakhapatnam/aps-first-ever-slum-redevelopment-project-launched-at-velampeta-1120069',
+    date: '2026-09-09',
+    note: 'The Hans India ki post-event report ke mutabik, Municipal Administration Minister Ponguru Narayana ne Velampeta ke Lakshmi Nagar (GVMC south zone, Visakhapatnam South seat) me Rs 28.44 crore ki in-situ slum redevelopment pariyojna (2,691 sq yd par 12 manjila complex, 177 units; 1st–11th floor par 15-15, 12th par 12 units) ka shilanyas kiya — agency ko 9 mahine me poora karke June 2027 tak makaan saunpne ka nirdesh; construction ke dauraan Rs 3,000/month (kul Rs 31.86 lakh) rental assistance. South constituency MLA Ch Vamsi Krishna Srinivas ne karyakram ki adhyakshta ki aur kaha ki jab niwasiyon ki chintayein sarkar ke dhyan me layi gayi to Minister Narayana ne sakaratmak jawab diya aur pariyojna ko amli jama pehnane me vishesh pahal ki. Fund: prati unit Rs 16.07 lakh — PMAY se Rs 1.50 lakh, AP sarkar se Rs 1 lakh, beneficiary contribution Rs 3.50 lakh, shesh Rs 10.07 lakh viability gap funding (TDR) se. CREDIT CAPPED: pariyojna rajya sarkar/GVMC ki hai aur shilanyas mantri ne rakha — MLA ka role adhyakshta aur mudda sarkar tak pahunchane ka dastaveji dawa tak seemit; credit isi tak seemit. Inferred-date disclosure: report 10 Sep 2026 (Thursday) ko prakashit aur karyakram ‘on Wednesday’ bataya gaya — isliye 9 Sep 2026 li gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+// penmetsa-vishnu-kumar-raju — 3 entries (QA-checked).
+
+andhraWorks['penmetsa-vishnu-kumar-raju'] = [
+  {
+    title: 'Madhavadhara (Ward 51) me park ke vikas ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Visakhapatnam/public-representatives-in-visakhapatnam-plunge-into-work-as-honeymoon-period-ends/article68363741.ece',
+    date: '2024-07-03',
+    note: 'The Hindu ki post-event report ke mutabik, North Constituency MLA P. Vishnu Kumar Raju ne Madhavadhara me Ward 51 ke park ke vikas ka shilanyas kiya; uske baad unhone chaay ki dukaan par sthaniya logon se muddon par baatcheet bhi ki. Fund-source report me nirdisht nahi — ghoshit nahi. Date reasoning: report 3 Jul 2024 (Budhwar) ko prakashit hui aur karyakram ko "Wednesday" bataya gaya hai, isliye 2024-07-03 li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhansabha me Visakhapatnam North MLA ke sawaal par Swasthya Mantri ne King George Hospital me 237 padon ke rikt hone aur Rs 600 crore ki buniyadi-dhancha sudhaar yojna ke karyanvayan ki jankari di',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/there-are-237-vacancies-at-kgh-in-visakhapatnam-says-health-minister-in-andhra-pradesh-assembly/article68442592.ece',
+    date: '2024-07-24',
+    note: 'The Hindu (24 Jul 2024) ke mutabik, Vidhansabha me Visakhapatnam North MLA P. Vishnu Kumar Raju (BJP) ke sawaal ke jawab me Swasthya Mantri Satya Kumar Yadav ne kaha: King George Hospital (Visakhapatnam) me paramedics sahit 237 pad rikt hain; manjoor bistar 1,562 hain (1998 me 1,057 + baad me 505 super-specialty), karyatmak bistar lagbhag 2,000 aur rozana ausatan 1,464 inpatient; Rs 600 crore ke buniyadi-dhancha sudhaar plan ka karyanvayan chal raha hai (gynecology aur paediatric wards ko paas rakhna shamil). CREDIT CAPPED: ye mantri ka sadan me jawab hai — MLA ka vyaktigat lokarpan/shilanyas nahi; report me KGH ke liye MLA-nidhi se sanction ka zikr nahi — ghoshit nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mayor ke saath North MLA ne Rs 30.9 crore ke nagariya vikas karyon ka shilanyas kiya — lagbhag Rs 30 crore ki Seethammadhara Giri Pradarshana road, VRCC SW drains, culvert slabs, footpath tiles aur bitumen roads',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/vijayawada/giri-pradakshina-road-works-launched-in-vizag/articleshow/128391346.cms',
+    date: '2026-02-15',
+    note: 'TOI ki post-event report ke mutabik, Mayor Peela Srinivasa Rao ne Visakhapatnam North MLA P Vishnukumar Raju ke saath Rs 30.9 crore ke vikas karyon ka shilanyas kiya; Mayor ne kaha ki North MLA apne zone ke vikas ke liye lagatar prayas karte rahe hain. Karyon me: lagbhag Rs 30 crore ki Seethammadhara Giri Pradarshana road ka vikas; Marriott Hotel junction se NGGO Colony, Narasimhanagar junction, ASR Nagar aur aas-paas ke ilakon me VRCC SW drains, culvert slabs, footpath tiles aur bitumen roads ka nirman. Fund: GVMC/rajya-budget allocations (Mayor ke anusar 2026-27 FY budget me Visakhapatnam ke liye vishesh aavantan; 530+ badi pariyojnaon me metro rail ke liye Rs 15 crore shamil) — MLA-nidhi ka sambandh ghoshit nahi; credit sanyukt shilanyas tak seemit. Inferred-date disclosure: page par prakashan-tithi pradarshit nahi thi; search metadata me article lagbhag 245 din purana tha aur report me karyakram ko "Sunday" bataya gaya hai — 2026-10-18 se 245 din peeche 2026-02-15 (Sunday) aata hai, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+// p-g-v-r-naidu-ganababu — 1 entries (QA-checked).
+
+andhraWorks['p-g-v-r-naidu-ganababu'] = [
+  {
+    title: 'Visakhapatnam West MLA P.G.V.R. Naidu (Ganababu) ne sarkari whip ke roop me MP M. Sribharat ke saath seat ke alag-alag wards me kul Rs 2.37 crore ke karyon ka sanyukt lokarpan kiya: Ward 57 ke Siddharthanagar me Rs 8 lakh MPLADS se jirnoddhar anganwadi bhawan, Krantinagar ke Double Tank area me Rs 95 lakh ka GVMC general fund se naya community bhawan, Maridimamba Kalyana Mandapam ke paas Rs 48.60 lakh ka G+1 community bhawan, Indiranagar me Rs 43.60 lakh ka community bhawan aur Burma Colony me Rs 42 lakh ki pehli manzil',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/mp-inaugurates-development-works-worth-237-crore-in-visakhapatnam-west-constituency/article71551023.ece',
+    date: '2026-10-06',
+    note: 'The Hindu (6 Oct 2026) ki post-event report ke mutabik, Visakhapatnam MP M. Sribharat ne Government Whip aur Visakhapatnam West MLA P.G.V.R. Naidu (Ganababu) ke SAATH milkar seat ke alag-alag wards me Rs 2.37 crore ke vikas karyon ka lokarpan kiya. Itemized suchi: Siddharthanagar (Ward 57) me Rs 8 lakh se anganwadi bhawan ka jirnoddhar aur aadhunikikaran (renovation, toilets, staff room) — ye hissa MPLADS funds se; Krantinagar ke Double Tank area me GVMC general funds se Rs 95 lakh ka naya community building; Maridimamba Kalyana Mandapam ke paas Rs 48.60 lakh ka G+1 community building; Indiranagar me Rs 43.60 lakh ka community building; Burma Colony me GVMC funds se Rs 42 lakh ki community building ki pehli manzil. (8+95+48.60+43.60+42 = Rs 237.20 lakh = headline ka Rs 2.37 crore, milan.) CREDIT CAPPED: ye MP ke saath SANYUKT lokarpan hai — MLA ka vyaktigat lokarpan nahi; Rs 8 lakh wala hissa MPLADS (MP nidhi) ka hai, MLA ka nahi; baaki Rs 2.29 crore GVMC general funds ka hai. Fund: CDP/MLA-nidhi se jodne ka srot me koi ullekh nahi — ghoshit nahi. MLA ne avsar par kaha ki seat ke har ward me buniyadi dhancha aur samudayik suvidhaon ko prathmikta di ja rahi hai. Karyakram me sthaniya janspratinidhi, GVMC adhikari, alliance neta/karyakarta aur badi sankhya me nivasi maujood the.',
+    period: '2024-2029',
+  },
+];
+
+// palla-srinivas-rao — 1 entries (QA-checked).
+
+andhraWorks['palla-srinivas-rao'] = [
+  {
+    title: 'Aganampudi sarkari aspatal ke paas Trupti Canteen ka lokarpan — GVMC aur MEPMA ke sahyog se sthapit, mahila self-help group ki sadasyon dwara sanchalit, GVMC seema ke andar doosri Trupti Canteen',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/mla-opens-trupti-canteen-in-gajuwaka-1993351',
+    date: '2026-10-05',
+    note: 'Deccan Chronicle (5 Oct 2026) ki post-event report ke mutabik, TDP state president aur Gajuwaka MLA Palla Srinivasa Rao ne Aganampudi sarkari aspatal ke paas ek Trupti Canteen ka vyaktigat lokarpan kiya. Canteen GVMC aur MEPMA (Mission for Elimination of Poverty in Municipal Areas) ke sahyog se sthapit hui hai aur mahila self-help group ki sadasyon dwara chalai ja rahi hai. MLA ke mutabik ye GVMC seema ke andar doosri Trupti Canteen hai — pehli RK Beach par mahilaon dwara chalai ja rahi hai. MLA ne kaha ki ye canteens mahilaon ko tikau rojgar aur aay dengi aur janata ko quality wala sasta bhojan uplabdh karayengi. Fund: GVMC + MEPMA ka sahyog report me disclosed hai; canteen ki lagat report me nahi di gayi. Inferred-date disclosure: report me karyakram ko "Monday" bataya gaya hai; prakashan 5 Oct 2026 ko hua aur 5 Oct 2026 (Monday) tha, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+// ==== Anakapalli (Batch 2) ====
+// kalidindi-suryana-naga-sanyasi-raju — 2 entries (QA-checked).
+// ==== REJECT-LOG ====
+// 1. Deccan Chronicle, 'Tribal Villagers Seek Resumption Of Stalled Road Works In Anakapalli Agency'
+//    (2026-10-10, khola-pada) — Arla panchayat/Rolugunta ke Losingi gaonon me Adavi Thalli Bata ki ruki
+//    sadkon par protest; MLA ne apne 'Four Visits in One Month' karyakram me ashwasan diya tha, lekin
+//    report ke mutabik koi kaam nahi hua. SIRF ASHWASAN — koi lokarpan/shilanyas/swikriti nahi → REJECT.
+//    https://www.deccanchronicle.com/southern-states/andhra-pradesh/tribal-villagers-seek-resumption-of-stalled-road-works-in-anakapalli-agency-1994753
+// 2. Deccan Chronicle, 'Anakapalle Villagers Stage Cook-Out Protest Over Pending Pattas'
+//    (2026-10-12, khola-pada) — Ravikamatam mandal ke Komiri gaon me 350 adivasi-Dalit parivaron ka
+//    patton ki deri par protest; Chodavaram MLA ke October 2025 ke ashwasan ka paalan nahi hua (report ke
+//    mutabik). Ashwasan-bhang ki aalochna hai — FIR/chargesheet/janch/nyayik vikas NAHI → negative NAHI,
+//    kaam bhi NAHI → REJECT.
+//    https://www.deccanchronicle.com/amp/southern-states/andhra-pradesh/anakapalle-villagers-stage-cook-out-protest-over-pending-pattas-1995232
+// 3. The Hindu, 'Tribals take out horseback rally, seek road to their hamlets' (23/24 Jan 2026) —
+//    snippet me isi Palle Panduga road-launch (2 Dec 2024) ka ullekh tha, lekin page browser.open par
+//    HTTP 403 diya → KHOLA NAHI JA SAKA → RETRY LEAD (tareekh ki aur pakki pushti ke liye; entry me
+//    cite NAHI kiya gaya). URLs: .../article70541983.ece, .../tp-andhrapradesh/tribals-take-out-horseback-rally-seek-road-to-their-hamlets/article70544777.ece
+// 4. TOI, 'Chodavaram Police: Case Registered Against MP Candidate, 5 Others' (Apr 2024) — Chodavaram
+//    me tiles/marble showroom par DRI adhikariyon ki janch me badha ke aarop me tatkalin 'former MLA'
+//    KSN Raju (chunav se pehle) aur BJP MP ummidvar C.M. Ramesh samet 6 par FIR
+//    (IPC 143, 506, 342, 353, 201, 188 r/w 149). APR 2024 KA FIR — karyakaal (Jun 2024+) se PEHLE;
+//    Jun 2024+ me koi nyayik vikas (chargesheet/sunvai/faisla) established media me nahi mila.
+//    Rules: 'FIR aaropi column me naam NAHI = negative NAHI' nahi lagta (naam hai), lekin bina
+//    Jun 2024+ vikas ke pre-term FIR negative nahi banta; halafname ke pending mamle akele bhi nahi.
+//    → NEGATIVE REJECT. (Halafname ka 1 mamla sambhavatah yahi hai.)
+//    https://timesofindia.indiatimes.com/city/visakhapatnam/case-registered-against-mp-candidate-5-others/articleshow/109077579.cms
+// 5. casemine.com — 'Kaladindi Sanyasi Raju v. State of A.P' (Crime 151/2017, Bheemunipatnam) — 2017 ka
+//    purana bail-mamla, non-whitelist source, koi Jun 2024+ vikas nahi → REJECT.
+// 6. General searches (The Hindu, New Indian Express, HT, NDTV, India Today, TOI, Hans India) me is MLA
+//    ke kisi aur vyaktigat lokarpan/shilanyas/swikriti ki post-event report nahi mili.
+andhraWorks['kalidindi-suryana-naga-sanyasi-raju'] = [
+  {
+    title: 'Palle Panduga utsav ke dauran Rolugunta mandal me Arla se Pitri Gadda tak Rs 4.10 crore ki BT sadak ka shilanyas — MGNREGA se aavantan, prarambhik kaam 2024 me shuru',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/cyclone-washes-away-rs-1-cr-road-in-anakapalle-villagers-protest-half-naked-1917506',
+    date: '2024-12-01',
+    note: 'Deccan Chronicle ki post-event report (16 Nov 2025) ke mutabik, Arla se Pitri Gadda tak ki BT sadak MGNREGA ke tahat swikrit thi aur ise Rs 4.10 crore ka aavantan mila tha; Legislator K.S.N. Raju (pehchan: Chodavaram, TDP, Winner 2024) ne Palle Panduga utsav ke dauran iska shilanyas kiya, aur 2024 me sadak-formation aur stone-rolling jaise prarambhik kaam shuru hue. STHITI-DISCLOSURE (imaandaari ke liye): report ke mutabik pul jaise pramukh structures kabhi bane hi nahi; Cyclone Montha (Nov 2025) me sadak poori tarah dhah gayi aur Pitri Gadda, Neelu Banda, Jajula Banda, Pedagoruvu ke PVTG gaon kat gaye; NIC portal se Rs 50 lakh/prati-kist ki payment-cap ke baad thekedaar bina poore bhugtan ke kaam chhodkar machinery le gaya. Arla panchayat Rolugunta mandal me hai jo Chodavaram constituency ka hissa hai. Inferred-date disclosure: report me karyakram ki exact tareekh nahi; December 2024 me swikriti aur Palle Panduga utsav me shilanyas bataya gaya hai, isliye 2024-12-01 li gayi hai. Fund: Rs 4.10 crore MGNREGA aavantan report me spasht; CDP/MLA-nidhi ka zikr nahi — ‘ghoshit nahi’.',
+    period: '2024-2029',
+  },
+  {
+    title: 'December 2024 me Chodavaram MLA K.S.N. Raju ne teen adivasi sadkon — Arla-Pithri Gadda (7km), Y.B. Patnam-Peddagaru via Lusingi (3km), Z. Jogampeta-Neredu Banda (3km) — ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/anakapalli-adivasi-ride-horses-to-protest-lack-of-road-connectivity-1932269',
+    date: '2024-12-01',
+    note: 'Deccan Chronicle ki post-event report (Jan 2026) ke mutabik, Palle Panduga karyakram ke tahat December 2024 me swikrit sadkon me 7km ka Arla-Pithri Gadda stretch, Y.B. Patnam se Peddagaru tak Lusingi hote hue 3km stretch, aur Z. Jogampeta se Neredu Banda tak 3km stretch shamil the; Chodavaram MLA K.S.N. Raju ne in sadkon ka lokarpan kiya. STHITI-DISCLOSURE: report ke mutabik barish me nayi bani sadken kai jagah beh gayin aur bade gaddhe pad gaye, isiliye adivasiyon ne horse-rally protest kiya. Madugula aur Chodavaram assembly constituencies ke PVTG gaon (Pashuvulubanda, Jeelugulova aadi, Ravikamatham mandal sahit) sadak se katte rahe. Arla wale stretch ka Rs 4.10 crore MGNREGA aavantan doosri DC report se spasht hai (upar ki entry); in do 3km stretches ke liye alag aavantan report me nirdisht nahi — ‘ghoshit nahi’. Inferred-date disclosure: report me karyakram ki exact tareekh nahi; ‘December 2024 me swikrit, MLA ne lokarpan kiya’ bataya gaya hai, isliye 2024-12-01 li gayi hai.',
+    period: '2024-2029',
+  }
+];
+
+// bandaru-satyanarayana-murthy — 0 entries (QA-checked).
+
+andhraWorks['bandaru-satyanarayana-murthy'] = [];
+
+// konathala-ramakrishna — 0 entries (QA-checked).
+
+andhraWorks['konathala-ramakrishna'] = [];
+
+// sundarapu-vijay-kumar — 1 entries (QA-checked).
+
+andhraWorks['sundarapu-vijay-kumar'] = [
+  {
+    title: 'MLA ka dawa — Yelamanchili me Rs 10-15 crore ke buniyadi-dhanche ke karya pragati par hain aur peripheral colonies ki suvidhaon ke liye Rs 7 crore ka allocation hua hai',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/vijayawada/ap-allocates-rs-20000-crore-for-municipal-infrastructure/articleshow/133443834.cms',
+    date: '2026-08-23',
+    note: 'TOI (post-event report; crawl-relative "56 days ago" se tithi ~Aug 2026 anumanit, isi event ki NIE report 23 Aug 2026 ki hai — inferred date) ke mutabik, Visakhapatnam me VMRDA office par MA&UD mantri P. Narayana ke review-meeting ke baad Yelamanchili MLA Sundarapu Vijay Kumar ne media se kaha: "infrastructure works worth Rs 10-15 crore are already underway in the constituency, while Rs 7 crore has been allocated for facilities in peripheral colonies." Ye poornatah MLA ka apna dawa hai — report me in karyon ki itemized suchi, fund-source ya purnata-tithi nahi hai; independent satyapan nahi mila. Prishthbhoomi (credit MLA ka nahi): mantri ne isi baithak me 123 municipalities ke liye Rs 10,200 crore safe-drinking-water, Rs 4,200 crore UGD (Urban Challenge Fund) aur Rs 5,500 crore municipal road kaam ghoshit kiye; VMRDA kshetra me Narsipatnam (Rs 27 crore), Nellimarla (Rs 24 crore), Yelamanchili (Rs 24 crore) aur Vizianagaram (Rs 194 crore) ke liye UGD/drainage allocation. Fund: report me CDP/MLA-nidhi ka zikr nahi — "ghoshit nahi".',
+    period: '2024-2029',
+  },
+];
+
+// panchakarla-ramesh-babu — 4 entries (QA-checked).
+// ==== REJECT-LOG ====
+// R1. Deccan Chronicle (26 Jul 2025): 'GVMC Allocates Rs 1.32 Crore For Development Works In Anakapalle' —
+//     Salapuvani Palem, Ward 84, Anakapalle Zone — Anakapalle constituency me hai, Pendurthi me NAHI.
+//     Niyam 'Seat ke bahar ka kaam NAHI' → REJECT.
+// R2. New Indian Express (28 Sep 2026): Sabbavaram me Rs 1.60 crore ka fire-station bhavan — Home Minister
+//     Vangalapudi Anitha ne lokarpan kiya (15th Finance Commission fund); MLA sirf maujood the aur paudhe
+//     lagaye. 'Dusre neta ke karyakram me maujoodgi' → REJECT.
+// R3. TOI + The Hindu (Jan 2026): GVMC ka Pendurthi/Aganampudi zonal review meeting — MLA ne maangein rakhi
+//     (merged villages, BRTS roads, 24/7 pani, TIDCO houses). 'Sirf maang' — koi dastaveji nateeja nahi → REJECT.
+// R4. bharathorizon.com: Vepagunta-Pinagadi road-widening muavza cheque vitran — whitelist-bahar outlet → REJECT.
+// R5. 2 May 2025 (PM visit coverage, Outlook/Business Standard/PTI): NH-16 ka Anandapuram-Pendurthi-Anakapalle
+//     section (Rs 2,950 crore) ka PM dwara lokarpan — kendriya pariyojna, MLA ki bhoomika nahi → REJECT.
+// R6. Deccan Chronicle (AMP page, 3 Mar 2026): 'Mayor Lays Stone For Works' — Ward No. 77, Aganampudi Zone
+//     (Pendurthi constituency) me ~Rs 7.5 crore karyon ka shilanyas (Mayor + MLA + corporator). Page 403 par
+//     khula NAHI (browser.open upstream rejected). Niyam 'Khul na sakne wala page source nahi' — entry me NAHI,
+//     RETRY-LEAD: https://www.deccanchronicle.com/amp/southern-states/andhra-pradesh/mayor-lays-stone-for-works-1941204
+// NEGATIVES: 0. 2024 halafname me 0 criminal cases. Jun 2024+ me koi FIR/chargesheet/nyayik vikas established
+// media me nahi mila. indiankanoon.org ka Feb 2024 'P. Ramesh Babu vs State of AP' mamla Thulluru (Guntur) ka
+// hai — Pendurthi MLA se pehchan match NAHI karti (alag vyakti), isliye negative NAHI.
+andhraWorks['panchakarla-ramesh-babu'] = [
+  {
+    title: 'VMRDA ki Rs 75 crore pariyojnaon ke dauraan Chimalapalli me Rs 8 crore ke convention centre ka sanyukt lokarpan — VMRDA adhyaksh, Pendurthi MLA aur metropolitan commissioner maujood',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/vmrda-rolls-out-rs-75-crore-infra-projects-in-pendurthi-1895385',
+    date: '2025-08-03',
+    note: 'Deccan Chronicle ki post-event report ke mutabik, VMRDA adhyaksh M.V. Pranav Gopal, Pendurthi MLA Panchakarla Ramesh Babu aur metropolitan commissioner K.S. Vishwanathan ne Pendurthi constituency ke Chimalapalli me Rs 8 crore ki lagat se bane naye convention centre ka lokarpan kiya; VMRDA dwara Pendurthi me kul lagbhag Rs 75 crore ki infrastructure pariyojnaein shuru ki gayin. CREDIT CAPPED: lokarpan sanyukt tha aur karyakram VMRDA ka tha (fund VMRDA ka, sarkari agency); MLA ka vyaktigat lokarpan nahi. Fund: Rs 8 crore VMRDA fund — disclosed. Inferred-date disclosure: report me karyakram ko sirf "Sunday" bataya gaya hai, exact tareekh nahi; search-lead anusar report ~Aug 2025 ki hai aur 3 Aug 2025 Ravivar padta hai, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Pendurthi me chaar sadak pariyojnaon ka shilanyas — Vepagunta (Pinagadi) Rs 15 crore, Lankalapalem-Asakapalle-Duvvada Railway Station Rs 31 crore, Duvvada-Gollalapalem-Amruthapuram Rs 24.50 crore, Sabbavaram degree college road Rs 58.50 lakh (MLA ki maang par swikriti)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/vmrda-rolls-out-rs-75-crore-infra-projects-in-pendurthi-1895385',
+    date: '2025-08-03',
+    note: 'Deccan Chronicle ki post-event report ke mutabik, upar wale hi karyakram me adhikariyon ne kai road pariyojnaon ke shilanyas kiye; itemized suchi: Pinagadi (Vepagunta) me 3.12-km lamba 60-ft chauda master plan road — Rs 15 crore; Lankalapalem, Asakapalle aur Duvvada Railway Station roads ko jodne wala 100-ft chauda master plan road — Rs 31 crore; Duvvada Railway Station ko Gollalapalem aur Amruthapuram se jodne wala 60-ft road — Rs 24.50 crore; Sabbavaram me Anakapalle National Highway se Government Degree College tak 40-ft chauda asphalt road — Rs 58.50 lakh. Report ke mutabik MLA ne kaha ki VMRDA-NDA coalition netritva ne UNKI MAANG par ye sadak pariyojnaein tezi se approve aur fund allocate kiye — dastaveji maang-nateeja (credit capped). Fund: VMRDA funds — disclosed. Metropolitan commissioner ne chhah mahine me poorn karne ka ashwasan diya. Inferred-date disclosure: report me karyakram ko sirf "Sunday" bataya gaya hai; 3 Aug 2025 Ravivar hone ke karan ye tareekh li gayi hai (pehli entry dekhen).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Sabbavaram Government Degree College ke Rs 3.26 crore vikas karyon ka MLA aur MLC dwara sanyukt shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/visakhapatnam/anakapalli-rs-326-cr-sanctioned-for-sabbavaram-college-development-1130748',
+    date: '2026-10-09',
+    note: 'The Hans India ki post-event report ke mutabik, Pendurthi MLA Panchakarla Ramesh Babu ne MLC Vepada Chiranjeevi Rao ke saath Sabbavaram Government Degree College me Rs 3.26 crore se hone wale vikas karyon ka shilanyas kiya; MLA ne kaha ki college ka roop badlega, kaam sakht samay-seema me honge, aur principal TMA Niveditha ke prayason ki sarahna ki. MLA ne MRO aur police ko college parisar ke encroachments hatane ka nirdesh bhi diya. Sabbavaram Pendurthi constituency me hai — seat-level. CREDIT CAPPED: shilanyas MLC ke saath sanyukt tha; MLA ka akela lokarpan/shilanyas nahi. Fund: Rs 3.26 crore "sanctioned" — kaunse vibhag/nikay se, ye report me nirdisht nahi — srot-vibhag "ghoshit nahi". Inferred-date disclosure: report me karyakram ko "Friday" bataya gaya hai; report 10 Oct 2026 ko prakashit hui aur 9 Oct 2026 Shukravar padta hai, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chinamushidiwada (Pendurthi) me VMRDA ke 77-plots wale Emerald Layout ka sanyukt lokarpan — Rs 3 crore ka vikas (CC roads, underground drainage, water supply, street lighting)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Visakhapatnam/vmrda-inaugurates-new-residential-in-chinamushidiwada/article70762432.ece',
+    date: '2026-03-19',
+    note: 'The Hindu ki post-event report ke mutabik, VMRDA adhyaksh M.V. Pranav Gopal ne Pendurthi MLA Panchakarla Ramesh Babu aur Metropolitan Commissioner N. Tej Bharat ke saath Visakhapatnam ke Chinamushidiwada me Emerald Layout ka lokarpan kiya — lagbhag 4.70 acre me 77 residential plots, Rs 3 crore ka nivesh, CC roads, underground drainage, water supply, bijli-street lighting aur hariyali ke saath. Chinamushidiwada Pendurthi Mandal ka gaon hai (Pendurthy S.O, 531173) — Pendurthi seat me, isliye seat-level pakka. CREDIT CAPPED: lokarpan VMRDA adhyaksh ke netritva me sanyukt tha; MLA ka vyaktigat lokarpan nahi, aur layout VMRDA ka project hai. Fund: VMRDA fund Rs 3 crore — disclosed. Inferred-date disclosure: report me karyakram "Thursday" ko bataya gaya hai; report 19 Mar 2026 ko prakashit hui aur 19 Mar 2026 Guruvar padta hai, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+// vangalapudi-anitha — 2 entries (QA-checked).
+// ==== REJECT-LOG ====
+// 1. RTV YouTube short (~Oct 2026): "Payakaraopet me Rs 8.20 crore ke vikas karyon ka shilanyas" —
+//    YouTube = whitelist-bahar, REJECT. Isi dawa ka koi whitelist text source nahi mila.
+//    RETRY-LEAD: Deccan Chronicle/Hans India me "Rs 8.20 crore" + Payakaraopet ka text version khojo.
+// 2. The Hans India (2026-10-09): "Ministers launch developmental works" — Parchur constituency
+//    (seat ke bahar ka kaam) — REJECT.
+// 3. New Indian Express (2026-09-16): house-site pattas "assured soon" — sirf ghoshna — REJECT.
+// 4. Deccan Chronicle (2026-09-15): house pattas + Jal Jeevan Mission piped water promises,
+//    solar subsidy/solar-tourism ke vaade — sirf ghoshna — REJECT.
+// 5. The Hans India (Sep 2026): Nakkapalli MPDO office me departments ki samiksha baithak —
+//    nirikshan/review meeting, koi bhautik karya nahi — REJECT.
+// 6. Deccan Chronicle: "Good governance drive in Ramayyapatnam" — abhiyan-shubharambh;
+//    toy industry/25,000 jobs = ghoshna; TDP party office udghatan = party karyakram — REJECT.
+// 7. The Hindu (2026-03-21): CM ke Nakkapalli daure ki taiyariyon ki samiksha;
+//    dusre neta ke karyakram me maujoodgi — REJECT. ArcelorMittal steel plant ka shilanyas
+//    CM ka karyakram tha — Anitha ki bhoomika sirf taiyari-samiksha — REJECT.
+// 8. New Indian Express (2025-02-27): Nara Lokesh se Skill Development Centre + Junior Girls
+//    College (S. Rayavaram) ki maang — sirf maang — REJECT.
+// 9. Deccan Chronicle (2025-05-31): free gas cylinders/pensions vitaran (daan/rahat),
+//    Anna Canteen/1 lakh jobs/drinking water ke vaade (ghoshna) — REJECT.
+// 10. Deccan Chronicle (cyclone daura ~Oct 2025): Bangarammapalem me essential supplies
+//     vitaran (rahat), ek parivar ko niji fund se sahayta (niji kharch), 15 din me sadak +
+//     solar fish-drying units (ghoshna) — REJECT.
+// 11. Deccan Chronicle (~2026-05): welfare-initiatives visit — pension vitaran, South Coast
+//     Railway Zone ka shrey (kendriya vishay) — REJECT.
+// 12. Global Toy Park, Nakkapalli (~20,000 mahila rojgar ka vaada) — ghoshna/CM-led — REJECT.
+// NEGATIVES: Halafname me 7 mamle darj hain (FIR 2019-2023; 2 me charges framed), lekin Jun 2024+
+// me MLA khud aaropi ke roop me FIR/chargesheet/nyayik vikas ki established-media report nahi mili —
+// "halafname ke pending cases akele" negative nahi bante. CC No. 320/2019 (NI Act 138) me
+// Dec 2024 me AP High Court (Crl. Petition 8453/2024) me sulah (compromise) hua — ye MLA ke
+// paksh me nivaaran tha aur uski report established media me nahi mili (sirf indiankanoon
+// court record) — isliye negative nahi banaya gaya. = 0 negatives.
+//
+// ==== RETRY-LEADS ====
+// R1: RTV YouTube short (~Oct 1, 2026): "Payakaraopet me Rs 8.20 crore ke vikas karyon ka shilanyas" —
+//     whitelist text source khojo (Deccan Chronicle/Hans India/Hindu/NIE).
+// R2: Grih-mantri-roop ke sab police/vibhagiya faisle jaanboojhkar bahar rakhe gaye (scope-rule);
+//     MLA-roop me seat ke aur itemized karyon ke liye Dondavaka/Rajayyapeta/Boyapadu/Nakkapalli
+//     keywords par aur mining.
+andhraWorks['vangalapudi-anitha'] = [
+  {
+    title: 'Payakaraopeta me Dondavaka aur Rajayyapeta (Chandanada) tat par PMMSY ke tahat do fish landing centres ka sanyukt shilanyas — kul lagat lagbhag Rs 49.54 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/two-fish-landing-centres-inaugruated-in-payakaraopet-constituency-1966843',
+    date: '2026-06-28',
+    note: 'Deccan Chronicle ki post-event report (28 Jun 2026) ke mutabik, Infrastructure and Investments Minister B.C. Janardhan Reddy aur Home Minister Vangalapudi Anitha ne Ravivar ko Boyapadu, Payakaraopeta Assembly constituency (Anakapalli jila) me do fish landing centres ke shilanyas kiye. Dono centres Dondavaka aur Rajayyapeta (Chandanada) tat, Nakkapalli mandal me Pradhan Mantri Matsya Sampada Yojana (PMMSY) ke tahat banenge — har centre ki anumaanit lagat Rs 24.77 crore, kul lagbhag Rs 49.54 crore. Uddeshya: safe boat landing, hygienic fish handling, storage aur marketing suvidha — hazaron machhuwaron ko labh. Anitha ne kaha ki machhuwara samuday varshon se jetty ki maang kar raha tha; rajya ke 3 swikrit fish landing centres me se 2 Payakaraopeta AC ko mile hain; AC me lagbhag 9,000 machhuwara parivar hain. BC Welfare Girls Hostel aur multi-speciality hospital ki baatein usi daure ki ghoshna matra hain — ye entry ka vishay nahi. CREDIT CAPPED: sanyukt shilanyas (do mantri), fund kendriya PMMSY yojana — vyaktigat bhoomika sirf seat ke andar bhautik sanrachna ke sanyukt shilanyas tak seemit. Tareekh: report me karyakram "Sunday" ka bataya gaya hai aur prakashan-tithi 28 Jun 2026 (Sunday) hai — inferred nahi. Fund: report me CDP/MLA-nidhi ka zikr nahi — ghoshit nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ka dawa — Payakaraopeta constituency me pichhle do varshon me lagbhag Rs 600 crore ke vikas karye, jinme Roads and Buildings vibhag se lagbhag Rs 100 crore ke sadak karye shamil',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/two-fish-landing-centres-inaugruated-in-payakaraopet-constituency-1966843',
+    date: '2026-06-28',
+    note: 'Usi Deccan Chronicle report (28 Jun 2026) me Anitha ne kaha ki pichhle do varshon me constituency me lagbhag Rs 600 crore ke vikas karye hue, jinme Roads and Buildings department ke madhyam se lagbhag Rs 100 crore ke sadak karye shamil hain. DAWA-FRAMING: ye sirf MLA ka kathan hai — report me is dawe ki itemized suchi, prati-karya lagat, ya fund-source ka vyora nahi diya gaya; kisi bhi vishesh sadak/pariyojna ka naam nahi. Swayam Anitha ne usi daure me Rs 60 crore ke "launched" karyon ka dawa bhi kiya, jisme upar wali fish landing centre entry (Rs 49.54 crore) shamil hai. Isliye is entry ka credit sirf kathan tak seemit hai, kisi vishesh kaam ka nahi. Tareekh: kathan 28 Jun 2026 ke karyakram me diya gaya — inferred nahi.',
+    period: '2024-2029',
+  },
+];
+
+// chintakayala-ayyanna-patrudu — 3 entries (QA-checked).
+
+andhraWorks['chintakayala-ayyanna-patrudu'] = [
+  {
+    title: 'Palle Panduga-Panchayat Varotsavalu me Pedda Gologondapeta (Natavaram mandal, Narsipatnam) me Rs 1.40 crore aavantit sadak-nirman ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/speaker-ayyanna-patrudu-invites-former-cm-jagan-to-assembly-1831892',
+    date: '2024-10-14',
+    note: 'Deccan Chronicle ki post-event report ke mutabik, Chintakayala Ayyanna Patrudu ne Palle Panduga-Panchayat Varotsavalu karyakram se pehle Pedda Gologondapeta (Natavaram mandal, Narsipatnam constituency) me sadak-nirman ka shilanyas kiya, jiske liye Rs 1.40 crore aavantit tha; usi avsar par unhone kaha ki 100 dinon me unhone Narsipatnam constituency ke liye Rs 1.40 crore sunischit kiya aur Natavaram mandal ke liye lagbhag Rs 14 crore swikrit hue hain (yeh unka apna dawa hai — MLA ka dawa framing me hi). Inferred-date disclosure: article me karyakram ko sirf ‘Monday’ bataya gaya hai aur koi prakashan-tithi page par nahi mili; Palle Panduga-Panchayat Varotsavalu saptaah 14-20 Oct 2024 ko aayojit hua (Deccan Chronicle ki hi report), isliye us saptah ka Monday = 14 Oct 2024 liya gaya hai. Usi article me sand-mining par unke bayaan aur CM ke lift-irrigation ashwasan ka zikr yojna/ghoshna hai — is entry ka vishay nahi. Fund: report me CDP/MLA-nidhi ka zikr nahi — ‘ghoshit nahi’ (aadhaar rakam article-disclosed hai).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Narsipatnam me lagbhag Rs 75 lakh ki laagat se bane nav-nirmit divisional sub-treasury karyalaya bhavan ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/andhra-pradesh/newly-constructed-divisional-sub-treasury-office-inaugurated-1129794',
+    date: '2026-10-06',
+    note: 'The Hans India ki post-event report (prakashan 7 Oct 2026) ke mutabik, Ayyanna Patrudu ne Narsipatnam me nav-nirmit divisional sub-treasury karyalaya bhavan ka udghatan kiya, jiski laagat lagbhag Rs 75 lakh batayi gayi; article me bhi kaha gaya ki Kotavuratla aur Nakkapalli me naye sub-treasury bhavanon ka nirman jaari hai (sirf nirman-sthiti ka zikr — lokarpan nahi). Inferred-date disclosure: article me udghatan ko ‘Tuesday’ bataya gaya hai aur report 7 Oct 2026 (Budhwar) ko prakashit hui, isliye karyakram 6 Oct 2026 ka maana gaya hai. Fund: article me fund-source nirdisht nahi — ‘ghoshit nahi’ (aadhaar rakam article-disclosed hai).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Settipalem (Narsipatnam constituency) me Girijan Cooperative Corporation ke adhinasth 11.08 acres par Rs 16 crore ke integrated coffee processing unit ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/andhra-pradesh/assembly-speaker-vows-to-transform-his-constituency-into-industrial-hub-1132298',
+    date: '2026-10-14',
+    note: 'The Hans India ki post-event report (prakashan 14 Oct 2026) ke mutabik, Ayyanna Patrudu ne Settipalem gaon (Anakapalli jila) me integrated coffee processing unit ka shilanyas kiya; ye unit Girijan Cooperative Corporation (GCC) ke adhinasth 11.08 acres par lagbhag Rs 16 crore ki laagat se sthapit hogi, jisme coffee curing, roasting aur blending honge aur Adivasi kisaano ki upaj ka processing-packaging hoga. Article me lakshya bataye gaye: 6 mahine me nirman poornata aur 2027 tak commercial operations; lagbhag 600 mahilaon ko rozgar aur bhoomi tyag karne walon ko industry me avsar ka ashwasan. Article is unit ko Speaker ki apni Narsipatnam constituency ko industrial hub banane ki ghoshna ke sandarbh me pesh karta hai, isliye seat-level entry maani gayi hai. Usi avsar par Rachapalli me 426 acres bhoomi ke liye ‘prayaas jaari’ ka zikr sirf ghoshna hai — is entry ka vishay nahi. Fund: Rs 16 crore (GCC ke adhinasth), CDP/MLA-nidhi ka zikr nahi — ‘ghoshit nahi’ (aadhaar rakam article-disclosed hai).',
+    period: '2024-2029',
+  },
+];
