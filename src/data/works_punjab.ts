@@ -670,3 +670,436 @@ punjabWorks['dalbir-singh-tong'] = [
 ];
 // PB2: dalbir-singh-tong — 4 entries
 // PB2: Amritsar (11 MLA) — 37 entries merged (QA-checked).
+
+// ---- Punjab works mining — BATCH 3: Tarn Taran (4 MLA) — 2026-10-18 ----
+// Research: per-MLA workers; merge + QA parent (coordinator) ne kiya.
+punjabWorks['harmeet-singh-sandhu'] = [];
+// ======================= REJECT-LOG =======================
+// (shanka par reject — galat entry se khali profile behtar)
+// R1: "Punjab s rural fitness push reaches Tarn Taran" (The Tribune, 2026-06-26) — zila bhar me 20 gaon me bani 20 gyms; DSO Satwant Kaur ne setup karwaya, sthaniya yuvakon ka bayan. MLA Harmeet Singh Sandhu article me SIRF uddhrit hain (keval tippani), kisi gym ka vyaktigat lokarpan unhone nahi kiya. Rule: keval bayan/tippani reject. URL: https://www.tribuneindia.com/news/amritsar/states-rural-fitness-push-reaches-tarn-taran/
+// R2: "Rural government schools get new classrooms" (The Tribune, ~2026-04, 171 din purana) — Bhuse aur Bir Raja Teja Singh gaon ke sarkari elementary schools me naye kamre; lokarpan MLA ke BHAI Rajbir Singh Sandhu ne kiya. MLA khud nahi. Rule: dusre vyakti ke kaam ka shrey MLA ko nahi. Reject. URL: https://www.tribuneindia.com/news/amritsar/rural-government-schools-get-new-classrooms/
+// R3: "Model Playgrounds to be built in 20 villages of Tarn Taran constituency" (Oct 2025, punjabnewsline/yespunjab/babushahi) — Rural Resurgence Project ke 3100 model playgrounds; Sandhu ne AAP candidate ke roop me chunav se pehle bayan diya. PRE-TERM (karyakaal Nov 2025 se) aur portalse whitelist me nahi; keval ghoshna/wada. Reject.
+// R4: "AAP government releases Rs 28.4-cr for transformation of Tarn Taran villages" (yespunjab, Oct 2025) — liquid waste management ke 361 projects ka dawa AAP candidate ke roop me; PRE-TERM + non-whitelist outlet + keval ghoshna-dawa. Reject.
+// R5: "Mann government released Rs 12.96 crore for Tarn Taran under Ashirwad scheme" (cityairnews, Oct 2025) — Rs 51,000 shaadi anudan wali sarkari yojana ka campaign-era bayan; non-whitelist outlet + PRE-TERM. Reject.
+// R6: "Tarn Taran will back the party that works among people" (Oct 2025, yespunjab/patialapolitics) — badh rahat rakam (Rs 74 crore seed, SDRF Rs 40,000, muavza) ke bayan AAP candidate ke roop me; sarkari rahat karyakram par bina vyaktigat bhoomika ke shrey; PRE-TERM. Reject.
+// R7: Oath ceremony (Tribune, PTI via newsdrum/devdiscourse, 2025-11-20) — shapath-grahan + CM Bhagwant Mann se mulakat; "technical college may soon be set up" keval ghoshna/wada, post-event concrete kaam nahi. Work entry layak nahi. Reject.
+// R8: NEGATIVE-check — "Employees, pensioners gherao Tarn Taran MLA Harmeet Singh Sandhu s house" (The Tribune, 2026-09-21) — Sajha Mulazam Manch/Pensioner Front ne ghar gherao kiya (pension disbursal errors, OPS, contractual employees ki regularisation ki maang). Maang-pradarshan hai; MLA khud kisi FIR/chargesheet/janch me aaropi nahi, koi nyayik vikas nahi. Rule: "sirf aarop/maang = NAHI". Negative entry NAHI. URL: https://www.tribuneindia.com/news/amritsar/employees-pensioners-gherao-tarn-taran-mla-harmeet-singh-sandhus-house/
+// R9: NEGATIVE-check — "SGPC seeks action against new Tarn Taran MLA Sandhu for defaming Sikh principles for political gains" / "SGPC moves Akal Takht against AAP MLA Harmeet Sandhu over Guru di Golak remarks" (The Tribune, 2025-11-19/20) — victory speech me SGPC par "Guru di Golak" misuse ke aarop par SGPC ne Akal Takht Jathedar ko religious action ke liye letter likha. Dharmik sanstha ki maang hai, koi FIR/chargesheet/sarkari janch/nyayik vikas nahi; MLA ka jawab note me hai ("I stand by what I said... dedicated to the Akal Takht... submit my clarification") lekin rule ke mutabik "sirf aarop/maang = NAHI". Negative entry NAHI. URLs: https://www.tribuneindia.com/news/punjab/sgpc-seeks-action-against-mla-sandhu-for-defaming-sikh-principles-for-political-gains/ aur https://www.tribuneindia.com/news/amritsar/sgpc-moves-akal-takht-against-aap-mla-harmeet-sandhu-over-guru-di-golak-remarks/amp
+// R10: Tribune "Tarn Taran Diary" (Nov 2025) — shahar ki samasyaon (khule drains, School of Eminence me playground ki kami) ki list; drains ka mudda 2022-23 me late MLA Kashmir Singh Sohal ne Vidhan Sabha me uthaya tha — pichhle MLA ka kaam, is profile me nahi. Nai MLA ke baare me keval "high hopes" — koi kaam dastaveji nahi. Reject.
+// R11: "Bhagwant Mann welcomes Tarn Taran s Harmeet Singh Sandhu" (dnpindia) aur freepressjournal PTI (Oct 3, 2025) — candidate announcement/link roads Rs 174.83 crore ka dawa CM ne kiya; PRE-TERM + dnpindia whitelist me nahi. Reject.
+// R12: Flood-relief coverage (devdiscourse/babushahi, Oct-Nov 2025) — sarkari rahat vitaran par campaign-era tippani; dan/rahat kaam aur sarkari abhiyan, vyaktigat lokarpan nahi. Reject.
+// R13: greentribunal.gov.in NGT document (2022, sugar-mill/distillery committee) — "Sardar Harmeet Singh Sandhu, MLA" 2007-08 ke prastav se committee bani; 2007-12 wale purane karyakaal ka, vartaman term se asambandhit aur 2002-2025 ke kaam inke profile me nahi jodne. Reject.
+// R14: myNeta affidavit (myneta.info/punjab2022) — assets/liabilities khulasa; "Halafname ke pending mamle akele negative NAHI" rule; koi in-term FIR/chargesheet nahi mili. Koi entry nahi.
+
+// ======================= RETRY-LEADS =======================
+// L1: Rangla Punjab Vikas Scheme (Rs 5 crore prati segment prati vitt-varsh, FY 2025-26 se, DC-administered) ke tahat Tarn Taran segment ki DC Tarn Taran suchi me MLA ki sifarish/bhoomika mile to whitelist media se dastaveji entry ban sakti hai — ab tak kuch nahi mila. Retry: DC Tarn Taran / DIPR Punjab portal search.
+// L2: June 2026 me 20 rural gyms ka actual lokarpan kisne kiya, iska follow-up report Tribune topic pages par check karo — 2026-10-18 tak sirf quote mili, inauguration me MLA ka naam nahi.
+// L3: Vidhan Sabha sessions (Nov 2025 special, 2026 budget/session) ki proceedings me unke uthaye prashn/maang ka dastaveji nateeja mile to "Vidhansabha maang ka nateeja" entry ban sakti hai — ab tak kuch dastaveji nahi mila.
+// L4: Tribune diary me darj shahar ki samasyaen (khule drains, School of Eminence playground) par in-term koi vyaktigat kaam report ho to retry — 2026-10-18 tak nahi mila.
+// PB3: harmeet-singh-sandhu — 0 entries merged (QA-checked).
+// ============================================================
+// PB3 WORKER — Sarvan Singh Dhun (Khem Karan, AAP)
+// slug: sarvan-singh-dhun | term: 2022-2027
+// Bhasha: Roman-script Hinglish only. Currency "Rs". No Devanagari/Gurmukhi anywhere.
+// badge rules: sarkari = govt portal/doc source; news = media-reported post-event;
+//              dawa = MLA ke dawa par aadharit (title me "MLA ka dawa —" framing).
+// Naam ki spelling: Tribune "Sarwan Singh Dhunn" likhta hai (wahi source spelling).
+// ============================================================
+
+punjabWorks['sarvan-singh-dhun'] = [
+  {
+    title: 'Khem Karan ke MLA Sarwan Singh Dhunn ne Punjab Sikhia Kranti abhiyan ke tahat halqe ke chaar sarkari schoolon me vikas pariyojnaon ke shilanyas patthar lagaye, jahan ve mukhya atithi the.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/amritsar/mlas-lay-stones-for-projects-in-schools-to-mark-sikhia-kranti/',
+    date: '2025-04-07',
+    note: 'Post-event reporting: Tribune (published 2025-04-08T04:38 IST) kehta hai patthar "on Monday" lagaye gaye; date -d se verify — Monday 2025-04-07 thi, isliye tithi 2025-04-07 maani gayi. Article me schoolon ke naam ya fund rakam nahi di gayi, isliye credit capped: ye state Sikhia Kranti program hai, MLA ki bhoomika vyaktigat shilanyas (physical act) tak dastaveji hai.',
+    period: '2022-2027'
+  }
+];
+// ======================= REJECT-LOG =======================
+// (shanka par reject — galat entry se khali profile behtar)
+// R1: tarntaran.nic.in press release (publish 2024-09-16, event 2024-09-15): PWD Minister Harbhajan Singh ETO ne Narli-Chhina Bidhi Chand road ki special repair (6.64 km, Rs 3.46 crore) ka shilanyas kiya; MLA Sarwan Singh Dhun sirf "in the presence of" the. Dusre neta ke karyakram me maujoodgi — reject.
+// R2: The Tribune (published 2026-06-13): Sheron Cooperative Sugar Mill dobara khulwane ke liye Sanyukt Kisan Morcha ke Pakka Morcha me MLA ka samarthan; unhone memorandum liya aur CM se baat karne + Vidhansabha me phir maang uthane ka ashwasan diya. Sirf maang/prastav/ashwasan, koi dastaveji nateeja nahi — reject.
+// R3: ThePrint (PTI feed, 2026-03-07) / babushahi / cityairnews: CM Bhagwant Mann ne Khem Karan me Rs 137 crore ki rural link road pariyojna ka shilanyas kiya. CM ka kaam; reporton me MLA ki vyaktigat bhoomika dastaveji nahi. Reject.
+// R4: The Tribune (2025-04-09) / Hindustan Times: Education Minister Harjot Singh Bains ne Khem Karan ke border schools me Rs 3.07 crore ki pariyojnaon (smart classrooms, science labs, boundary walls) ka lokarpan kiya aur Rs 35 crore halqa-level kharch ka dawa kiya; MLA ne sirf mantri ka dhanyavaad diya. Mantri ke karyakram me maujoodgi — reject.
+// R5: daijiworld.com / lokmattimes.com (IANS, 2023-11-19): SAD chief Sukhbir Badal ka aarop ki MLA ke bhatije ko 1 kg heroin aur Pakistan se aaye drone ke saath giraftar kiya gaya, aur Dhun ka 2002 ka drug case record hai. Negative criteria fail: MLA khud aaropi nahi (bhatija giraftar), sirf virodhi ka aarop hai; daijiworld/lokmattimes whitelist me nahi; established media (Tribune/HT/Express/NDTV/TOI/India Today) me ye story nahi mili; myneta.info 2022 halafname me "No criminal cases". Reject.
+// R6: The Tribune "Ministers visit villages in border area" (May 2025): Cabinet Ministers Laljit Singh Bhullar aur Harbhajan Singh ETO ne Dall, Van Tara Singh, Thathi Jaimal Singh gaon ka daura kiya; MLA Dhunn saath the. Maujoodgi — reject.
+// R7: Tribune epaper Amritsar (2025-05-13): MLA ne border villages Gilpan aur Thehkala ke sarpanchon se mulakat ki (ceasefire violation ke baad). Mulakat/daura, koi bhautik kaam nahi — reject.
+// R8: The Tribune "Hundreds turn up for Punjab Police braveheart cremation": shaheed SI Charanjit Singh ke antim sanskar me MLA ki upasthiti. Shok karyakram me maujoodgi — reject.
+// R9: The Tribune "AAP leaders protest outside BJP MP Chugh house over video controversy": MLA ne party virodh me hissa liya. Party virodh, works nahi — reject.
+// R10: Hindustan Times (2026-01-04 onwards): Valtoha ke sarpanch Jarmal Singh ki Amritsar shaadi venue par hatya; MLA usi venue par upasthit the aur gawah ke roop me bayan diya. Crime story — MLA aaropi nahi, works nahi. Reject.
+// R11: Hindustan Times (Zila Parishad/Panchayat Samiti polls): nomination papers ko lekar hue hungame par MLA ne virodhi Virsa Singh Valtoha ko zimmedar thahraya. Chunavi vivaad/bayan, kaam nahi — reject.
+// R12: dailyhunt.in / ptcnews.tv (Oct 2026): Akal Takht caste-discrimination vivaad me MLA ne maafi patr diya. Dharmik-rajnaitik vivaad, works nahi; negative criteria (FIR/chargesheet/janch ya nyayik vikas) bhi nahi; sources whitelist me nahi. Reject.
+
+// ======================= RETRY-LEADS =======================
+// L1: Rangla Punjab Vikas Scheme (Rs 5 crore prati segment prati vitt-varsh, FY 2025-26 se, DC-administered) ke tahat Khem Karan segment me DC Tarn Taran ki sanction suchi me MLA ki sifarish/bhoomika mile to whitelist media se dastaveji entry ban sakti hai — ab tak kuch nahi mila. Retry: DC Tarn Taran / Punjab DIPR portal search.
+// L2: Sheron Cooperative Sugar Mill — Tribune (2026-06-13) ke mutabik MLA ne Vidhansabha me maang uthayi thi aur CM se baat ka ashwasan diya tha; agar mill dobara khulne ka dastaveji nateeja (post-June 2026) mile to entry ban sakti hai.
+// L3: PRS mlatrack (https://prsindia.org/mlatrack/sarvan-singh-dhun) par unke uthaye sawalon/debate ka record — whitelist source nahi, sirf lead.
+// L4: Punjab DIPR portal (dipr.punjab.gov.in / punjab.gov.in) par "Dhun"/"Khemkaran" press releases — ab tak MLA ke vyaktigat kaam wali koi sarkari release nahi mili.
+// PB3: sarvan-singh-dhun — 1 entry merged (QA-checked).
+// ============================================================
+// PB3 WORKER — Laljit Singh Bhullar (Patti, AAP)
+// slug: laljit-singh-bhullar | term: 2022-2027
+// Bhasha: Roman-script Hinglish only. Currency "Rs". No Devanagari/Gurmukhi anywhere.
+// badge rules: sarkari = govt portal/doc source; news = media-reported post-event;
+//              dawa = MLA ke dawa par aadharit (title me "MLA ka dawa —" framing).
+// Note: Bhullar cabinet mantri rahe (Jails, Transport) — neeche sirf Patti seat ke
+//       kaam hain; transport vibhag ke rajya-stariya faisle (bus routes, PRTC, depots)
+//       MLA record me NAHI liye gaye.
+// ============================================================
+
+punjabWorks['laljit-singh-bhullar'] = [
+  {
+    title: 'Pehle budget satra me MLA Laljit Singh Bhullar ki maang par Sri Guru Tegh Bahadur State University of Law, Kairon ke campus nirman ke liye Punjab sarkar ne Rs 6.75 crore ki pehli kisht jaari ki.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/chandigarh-news/punjab-govt-releases-rs-6-75-cr-for-tarn-taran-law-varsity-campus-101662231429432.html',
+    date: '2022-09-04',
+    note: 'Rajya-pariyojana hai isliye shrey capped: Bhullar ne pehle budget satra me grant ki maang uthayi, CM Bhagwant Mann ne pehli kisht jaari ki. Campus 25 acre me Kairon gaon me ban raha hai — Kairon Patti Vidhan Sabha seat ka hissa hai (Wikipedia/villageinfo se verify). Published Sep 4, 2022 (Sunday, date -d se verify).',
+    period: '2022-2027'
+  },
+  {
+    title: 'Laljit Singh Bhullar ne Patti me bus stand aur Dr Bhim Rao Ambedkar Park me do tubewell pumps ka shilanyas kiya — Rs 4.52 crore ki jalyojna se Patti Municipal Council ke sabhi ilaako tak paani pahunchane ka dawa.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/amritsar/to-boost-water-supply-in-patti-bhullar-lays-stones-of-tubewells',
+    date: '2025-04-12',
+    note: 'Punjab Water Supply and Sewerage Board (PWSSB) ki pariyojana; kul lagat Rs 4.52 crore; naye ilaako ke liye 14-km underground pipeline ka kaam shuru. Event Saturday (2025-04-12, date -d se verify); article Apr 14, 2025 ko publish hua.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Laljit Singh Bhullar ne Patti seat ke 674 parivaron (237 nagarpalika Patti + 437 gaon) ko Pradhan Mantri Awas Yojana ke tahat makan-nirman swikriti-patra vitrit kiye.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/amritsar/674-families-receive-housing-approval-letters-under-pmay-scheme/',
+    date: '2025-11-27',
+    note: 'PMAY kendriya yojana hai isliye shrey capped: MLA ne labharthiyon ko swikriti-patra saupe. Shahari parivar ko Rs 2.50 lakh aur grameen parivar ko Rs 1.20 lakh makan-nirman ke liye (plus MGNREGA se Rs 31,000 shram). Event Thursday (2025-11-27, date -d se verify); article Nov 28, 2025 ko update hua.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Punjab State Warehousing Corporation ke jila prabandhak Gagandeep Singh Randhawa ki aatmahatya ke baad Laljit Singh Bhullar, unke pita Sukhdev Singh Bhullar aur PA Dilbagh Singh par Ranjit Avenue thane me FIR — aatmahatya ke liye uksane, aapradhik dhamki aur samanya irada ke aarop; Bhullar ne Punjab cabinet se istifa diya aur unhe giraftar kiya gaya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/amritsar/suicide-by-warehousing-corp-official-victims-kin-seek-arrest-of-ex-ministers-father-aide/',
+    date: '2026-03-22',
+    note: 'FIR 2026-03-22 ko mritak ki patni Upinder Kaur ki shikayat par darj (BNS dharaen: aatmahatya ke liye uksana, aapradhik dhamki, samanya irada); baad me saboot mitane sambandhi pravadhan bhi jode gaye. Randhawa ki maut ke baad Bhullar ne cabinet se istifa diya, phir unhe giraftar kiya gaya. Tribune report (published 2026-09-23) ke anusar janch aur adalati prakriya jari hai; is report me koi nyayik faisla darj nahi. Date 2026-03-22 FIR ki hai, article me darj.',
+    period: '2022-2027'
+  }
+];
+// ======================= REJECT-LOG =======================
+// (shanka par reject — galat entry se khali profile behtar)
+// R1: Sikhya Kranti school infra lokarpan (April 2025, Patti seat ke schools me Rs 1.10 crore + Rs 1.52 crore) — yespunjab, babushahi, brightpunjabexpress, editorji par cover hua; koi bhi whitelist outlet me nahi mila. Whitelist coverage mile to retry — lead L1.
+// R2: Patti-Shimla Punjab Roadways bus flag-off (April 2023) — transport vibhag ka karya; task niyam ke mutabik vibhag ke rajya-faisle MLA record me NAHI aate (seat-par dastaveji asar ka dawa bhi route-level hai, bhautik sanrachna nahi). Sources bhi non-whitelist (5dariyanews, patialapolitics). Reject.
+// R3: PRTC ka pehla sub-depot Daula gaon, Gidderbaha (ToI, Rs 3.36 crore) — Muktsar district me hai, Patti seat ke bahar. Reject.
+// R4: Punjab Roadways strike khatm — transport mantri se meeting Patti me (ToI) — policy/mazdoor-mamla, bhautik vikas kaam nahi. Reject.
+// R5: Bus terminal modernisation (Ludhiana, Jalandhar, Sangrur, Patiala, Bathinda — PPP model) — rajya-stariya vibhag yojana, Patti seat ke bahar. Reject.
+// R6: Khemkaran-Chandigarh aur Tarn Taran-Muktsar direct buses (Oct 2023) — department route faisle, Patti seat se bahar ke routes. Reject.
+// R7: 2024 Lok Sabha (Khadoor Sahib) me Ramgarhia/Suniyar samudaayon par tippani ka vivad — sirf bayan/aarop, koi FIR, chargesheet ya janch report nahi mili. Rule: sirf aarop/maang = NAHI. Reject.
+// R8: 2019 me Patti nagarpalika chunav me prachar ke dauran police dwara hirasat ka dawa — pre-term (karyakaal Mar 2022 se) aur wartaman karyakaal me koi legal development nahi. Reject.
+// R9: news.webindia123.com par Randhawa case ke articles (FIR details, giraftari) — whitelist me nahi; wahi tathya Tribune par kholkar verify kiye gaye aur wahi source liya. Reject (duplicate, kamzor source).
+
+// ======================= RETRY-LEADS =======================
+// L1: Sikhya Kranti ke tahat April 2025 me Patti seat ke sarkari schools me Bhullar ke lokarpan (Rs 1.10 crore + Rs 1.52 crore, school-naam itemized: Thatha, Chaudhriwala, Dargapur, Kheda, Dadehar Sahib, Thathian Mahantan, Panngota, Paringri, Ratta Gudda, Burj Puhla, Marhana, Khara, Nadohar, Asal, Saidpur, Bhagupur, Chuslevarh, Bathe Bhaini, Thakkarpura, Dhariwal, Boparai, Cheema, Dubli, Sabhra) — whitelist outlet (Tribune/HT/IE/ToI) par post-event reporting mile to strong School entries banengi. Retry: Tribune Amritsar section search.
+// L2: Randhawa case ke giraftari/remand ke PTI details — News18 aur ThePrint ke PTI pages is VM se 403 block ho gaye (browser access denied). HT/Indian Express/ToI par PTI feed se verify karke note me adalati vikas joda ja sakta hai.
+// L3: Randhawa case me chargesheet/nyayalaya ka agla vikas monitor karo — stage-accurate negative update ke liye (ab tak FIR + istifa + giraftari tak verified).
+// L4: Rangla Punjab Vikas Scheme (Rs 5 crore prati segment, FY 2025-26 se, DC-administered) ke tahat Patti segment ki DC suchi me MLA ki sifarish/bhoomika mile to entry ban sakti hai — ab tak kuch nahi mila.
+// PB3: laljit-singh-bhullar — 4 entries merged (QA-checked; negative Tribune page parent ne khud kholkar verify kiya).
+// ============================================================
+// PB3 WORKER — Manjinder Singh Lalpura (Khadoor Sahib, AAP)
+// slug: manjinder-singh-lalpura | term: 2022-2027
+// Bhasha: Roman-script Hinglish only. Currency "Rs". No Devanagari/Gurmukhi anywhere.
+// badge rules: sarkari = govt portal/doc source; news = media-reported post-event;
+//              dawa = MLA ke dawa par aadharit (title me "MLA ka dawa —" framing).
+// Pehchan note: Khadoor Sahib (Tarn Taran), AAP wale Manjinder Singh Lalpura —
+// Delhi ke BJP neta Manjinder Singh Sirsa alag vyakti hain, unke record yahan nahi.
+// Khadoor Sahib ke MP Amritpal Singh jail me hain — unke/ unke pratinidhiyon ke
+// kaamon ka shrey is MLA par nahi joda gaya.
+// ============================================================
+
+punjabWorks['manjinder-singh-lalpura'] = [
+  {
+    title: 'Punjab Sikhia Kranti ke tahat Khadoor Sahib seat ke chaar sarkari schoolon me poori hui pariyojnaon ke udghatan shilanyas MLA Manjinder Singh Lalpura ne swayam rakhe.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/amritsar/mlas-lay-stones-for-projects-in-schools-to-mark-sikhia-kranti/',
+    date: '2025-04-07',
+    note: 'The Tribune ke mutabik shilanyas "Monday" ko rakhe gaye aur article 2025-04-08 ko publish hua; 2025-04-07 Monday tha (date -d se verify), isliye event ki tithi 2025-04-07 maani gayi. Schoolon me aayojit samarohon me MLA mukhya atithi the; jila shiksha adhikari (secondary aur elementary) bhi maujood the. Pariyojnaen rajya sarkar ki Punjab Sikhia Kranti yojna ki hain; shilanyas MLA ne vyaktigat roop se rakhe, isliye vyaktigat shrey mana gaya lekin yojna sarkari hone se shrey capped.',
+    period: '2022-2027',
+    stage: 'poora'
+  },
+  {
+    title: 'Dhunda gaon ke sarpanch Jaswant Singh ne sarvajanik roop se kaha ki sewerage, pashu chikitsalaya aur panchayat ghar jaise vikas kaam MLA Manjinder Singh Lalpura ke margdarshan me pragati par hain.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/amritsar/sarpanch-members-of-dhunda-panchayat-leave-cong-for-aap/',
+    date: '2026-04-16',
+    note: 'Article "Thursday" ke samaroh ki report karta hai aur 2026-04-17 ko subah 02:30 IST publish hua; 2026-04-16 Thursday tha (date -d se verify), isliye event ki tithi 2026-04-16 maani gayi. Ye sarpanch ka sarvajanik shrey hai (Dhunda panchayat ke Congress se AAP me shamil hone ke samaroh me kaha gaya), isliye shrey capped; kaamon ke liye fund ya yojna ka khulasa article me nahi hai.',
+    period: '2022-2027',
+    stage: 'nirmanadheen'
+  },
+  {
+    title: 'Tarn Taran adalat ne 2013 ke chhedchhad aur marpit mamle me Khadoor Sahib ke MLA Manjinder Singh Lalpura ko doshi thahra kar 4 saal ki qaid sunai.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/nation/2025/Sep/12/punjab-khadoor-sahib-mla-manjinder-singh-lalpura-sentenced-to-four-years-in-dalit-woman-molestation-case',
+    date: '2025-09-12',
+    note: 'Additional Sessions Judge Prem Kumar, Tarn Taran ne 2025-09-10 ko doshi thahraya aur 2025-09-12 (Friday) ko saza sunai: SC/ST Act ke tahat 4 saal, IPC 354 me 3 saal, IPC 506 me 1 saal, IPC 323 me 1 saal (sabhi ek saath chalengi); jurmana bhi lagaya gaya. Mamla 2013 ka hai (FIR City Police Station Tarn Taran, case 59/13); ghatna ke samay Lalpura taxi driver the; shikayatkarta Anusuchit Jati samudaay ki mahila. Faisle ke baad MLA ko hirasat me liya gaya aur baad me Amritsar Central Jail bhej diya gaya. Kul 12 log doshi thahre (7 giraftar, 1 ki maut trial ke dauraan, 1 Tihar me band, 3 farar). MLA ka jawab on record: AAP pravakta Neel Garg ne kaha ghatna MLA banne se pehle ki thi aur party galat kaam ka bachav nahi karegi. Vikas: 2026-02 me Khadoor Sahib seat khaali ghoshit karne ki PIL par Punjab-Haryana HC ne notice diya (The Tribune, 2026-02-23), lekin 2026-03-31 ko HC ne pakshon ke samjhote (2026-02-04, CJM Tarn Taran ne "bina dabav" pramanit kiya) par dosh-siddhi radd kar di (The Tribune: https://www.tribuneindia.com/news/punjab/high-court-sets-aside-conviction-of-aap-legislator/amp/). Isliye vartaman sthiti: saza radd, lekin 2025 ki dosh-siddhi aur saza vartaman karyakaal ka nyayik vikas hai.',
+    period: '2022-2027'
+  }
+];
+// PB3-QA (parent): manjinder-singh-lalpura ki sadak-shilanyas entry DROP ki gayi — mool shilanyas mantri Harbhajan Singh ETO ne rakha tha, MLA sirf samaroh me upasthit the; sirf maujoodgi wala rule lagu.
+// ======================= REJECT-LOG =======================
+// (shanka par reject — galat entry se khali profile behtar)
+// R1: Indian Express (Sep 2024): "Cow feed firm linked to AAP leader carrying out development works" — Cowberry AGROVET OPC Pvt Ltd ke Baljeet Singh (AAP neta Ranjit Singh Cheema ke bhai) par Khadoor Sahib block ke panchayat grants me ghotaale ka aarop; Tarn Taran prashasan janch kar raha tha. Baljeet ne kaha "I have a good relationship with MLA Manjinder Singh Lalpura". MLA khud aaropi NAHI; sirf sambandh ka dawa; janch ka natija dastaveji nahi — negative nahi banta. URL: https://indianexpress.com/article/cities/chandigarh/cow-feed-firm-aap-leader-development-works-tarn-taran-administration-9569477/
+// R2: Akal Takht ne 15 AAP MLAs (Lalpura sahit) ko talb kiya (The Tribune, 2026-10-12) — Giaspura ke jaat-paat aarop par AAP delegation ke memorandum se juda mamla; dharmik sanstha ka talb-patra, FIR/janch nahi; MLA khud aaropi nahi — negative nahi banta. URL: https://www.tribuneindia.com/news/punjab/akal-takht-summons-15-aap-mlas-constituency-in-charges-over-giaspuras-caste-discrimination-allegations/amp
+// R3: featuredtimes.com (2022): "AAP Khadoor Sahib MLA launches app to redress public grievances" (E-Office Khadoor Sahib app) — srot whitelist me nahi (chhota portal); app launch bhautik sarkari sanrachna ka lokarpan nahi — reject. Retry-lead: whitelist media par post-launch coverage mile to.
+// R4: thechenabtimes.com (2026-06-15): Piddi gaon me kisanon ka virodh — srot whitelist me nahi (chhota portal); virodh aalochna hai, MLA khud aaropi nahi — reject.
+// R5: The Tribune (Apr 2022): "Aiming to develop Mand area" interview — Mand kshetra ke liye shiksha/swasthya sudhaar, Civil Ayurveda Hospital Johal Dhaiwala dobara shuru karne ki "koshish", Beas nadi ko kaabu karna, sadkon ki recarpeting "agenda" — sirf maang/irada, koi dastaveji nateeja nahi; keval ghoshna reject. URL: https://www.tribuneindia.com/news/punjab/aiming-to-develop-mand-area-mla-384769
+// R6: The Tribune (May 2024): MLA ne Lok Sabha chunav me AAP ummidwar Laljit Singh Bhullar ke liye vote ki appeal ki — chunavi prachar, works nahi. Reject.
+// R7: HT (May 2025): Lalpura AAP Majha zone vice-president bane — party pad, works nahi. Reject. SSP tabadlon me prabhav ke "believed to have" wale aarop (Indian Express profile, Sep 2025) — sthapit tathya nahi, sirf andaruni sutron ka dawa; janch/FIR nahi — reject.
+// R8: The Tribune (Oct 2026): World Bank team ne Khadoor Sahib School of Eminence ka daura kiya — article me MLA ka zikr hi nahi; World Bank ka daura MLA ka kaam nahi. Reject.
+// R9: Halafnama (2022): Indian Express profile ke mutabik 5 criminal cases pending (criminal intimidation, assault on women, rioting with deadly weapons, disobedience) — halafname ke pending mamle akele negative NAHI (rule); in-term FIR/chargesheet inhi par nahi mili. Sirf 2013 mamle ki dosh-siddhi (upar entry) negative bani.
+// R10: MP Amritpal Singh (Khadoor Sahib LS, jail me) se jude koi kaam is MLA par nahi jode gaye — task ke sakht nirdesh ke anusar bahar rakha gaya.
+// R11: Naam-sadrishya check: Manjinder Singh Sirsa (Delhi, BJP) alag vyakti — unse jude koi record yahan nahi liya gaya. Pehchan: Manjinder Singh Lalpura, AAP, Khadoor Sahib (Tarn Taran), 2022 me Ramanjit Singh Sikki ko 16,491 votes se haraya.
+
+// ======================= RETRY-LEADS =======================
+// L1: Rangla Punjab Vikas Scheme (Rs 5 crore prati segment prati vitt-varsh, FY 2025-26 se, DC-administered) ke tahat Khadoor Sahib segment ki DC suchi me MLA ki sifarish/bhoomika dastaveji mile to whitelist media se entry ban sakti hai — ab tak kuch nahi mila. Retry: DC Tarn Taran / DIPR Punjab portal search.
+// L2: "Cowberry AGROVET" janch (R1) ka antim natija whitelist media par aaye to sthiti dobara aanki ja sakti hai — filhal MLA aaropi nahi.
+// L3: Dhunda panchayat wale kaamon (sewerage, pashu chikitsalaya, panchayat ghar) ke poora hone ki post-event reporting mile to stage 'poora' me update kiya ja sakta hai.
+// L4: 2013 mamle ki HC set-aside (2026-03-31) ke baad seat-vacancy PIL ki sthiti (moot hui ya nahi) par whitelist media reporting mile to negative entry ke note me joda ja sakta hai.
+
+// ======================= QA =======================
+// Searches: ~8 web searches (EN + Punjabi-script); har mention whitelist source se kholkar padha.
+// Valid entries: 3 (School shilanyas 2025-04-07; Sadak shilanyas samaroh 2024-02-25 capped; Dhunda panchayat shrey 2026-04-16 capped) + 1 negative (dosh-siddhi/saza 2025-09-12, baad me HC set-aside note sahit).
+// Weekday verify: 2025-04-07 Monday, 2024-02-25 Sunday, 2026-04-16 Thursday, 2025-09-12 Friday — sab date -d se verify.
+// Koi Roman-script violation nahi; currency "Rs"; strings me seedhe quotes nahi; negative entry me stage field nahi.
+// PB3: manjinder-singh-lalpura — 3 entries merged (QA-checked; negative: dosh-siddhi + set-aside dono charan note me).
+
+// ---- Punjab works mining — BATCH 3: Kapurthala (4 MLA) — 2026-10-18 ----
+// Research: per-MLA workers; merge + QA parent (coordinator) ne kiya.
+// PB3 worker — sukhpal-singh-khaira (Bholath, INC, tenure Mar 2022+)
+// Opposition MLA (Congress, AAP sarkar ke khilaf). Seat-kaam sakht filter ke saath
+// khoja gaya: virodhi bayan, sadan me prastav, sarkar par aarop, patr-lekhan,
+// press-conference sab REJECT (unka dastaveji nateeja nahi mila).
+// Works ke liye whitelisted media me 2022-2027 me unka koi vyaktigat lokarpan ya
+// shilanyas nahi mila — isliye sirf 1 dawa-entry (unke apne dawe par aadharit)
+// aur 2 negative-entries (2015 mamle ke Mar 2022+ nyayik vikas, pehchan Bholath MLA
+// ke roop me pakki, sab stage-accurate framing me, jamanat/raahat utni hi pramukhta se).
+// REJECT LOG (considered, entry nahi bani):
+// 1. Rs 20.65 crore ke sadak-shilanyas Bholath me (The Tribune, Jan 2025) — shilanyas
+//    MP Raj Kumar Chabbewal ne kiya (AAP neta Harsimran Singh aur SDM maujood the);
+//    kisi whitelisted source me Khaira ki sifarish ya bhoomika dastaveji nahi.
+//    REJECT (dusre neta ka karyakram, bina vyaktigat bhoomika ka sarkari kaam).
+// 2. Vikas Kranti rally me Bholath ke liye ghoshit kaam (Dhilwan city Rs 1.53 crore,
+//    Nadala Rs 1.18 crore, Bholath fire-brigade cluster office Rs 0.45 crore, 4 Aam
+//    Aadmi Clinics Rs 1 crore) — ghoshna CM Bhagwant Mann aur Arvind Kejriwal ne ki;
+//    Khaira ki koi bhoomika nahi. REJECT (sirf ghoshna + bina vyaktigat bhoomika).
+// 3. Jeet ke baad ki "priorities" (achha sarkari hospital, sports/education centre) —
+//    bhavishya ki yojnaen, koi kaam nahi. REJECT (sirf ghoshna).
+// 4. Ghar ka hissa giraya jana, Ramgarh, 23 Feb 2026 (The Tribune) — BDPO Bholath ne
+//    entrance gate ko atikraman batakar JCB se giraya; Khaira ne ise anyaypurn aur
+//    rajnaitik badle ki karwai bataya aur turant court jane ki baat kahi. Khaira par
+//    koi FIR ya aapradhik aarop nahi hai — negative rule (FIR/chargesheet/janch me MLA
+//    khud aaropi) poora nahi hota. REJECT as negative; work bhi nahi.
+// 5. Zameen demarcation ka aarop (TOI/The Tribune, Mar 2026) — Khaira ka dawa ki CM ke
+//    dabav me Kapurthala DC ne Ramgarh ki zameen ki demarcation ka adesh diya; koi
+//    karwai hui nahi, keval aarop. REJECT (sirf aarop).
+// 6. Vidhan Sabha me Khaira ke khilaf 2 prastav (Mar 2026) — sadan/party karyawahi;
+//    party karyawahi akele negative nahi. REJECT.
+// 7. PM ko patr (TOI, Feb 2026 — caste-and-drug census ka aarop) aur Governor ko patr
+//    (Sep 2026 — mantri-niwason ke durupyog ki jaanch ki maang) — keval patr/maang,
+//    koi dastaveji nateeja nahi. REJECT (sirf maang).
+// 8. Lehra Gaga ke Baba Hira Singh Bhattal college ke lease par sawal (Jan 2026) —
+//    keval bayan, aur seat ke bahar (Sangrur). REJECT (bayan + seat ke bahar).
+// 9. Sandeep Dhaliwal ke naam par road/school ki maang (PTI, Mar 2020) — pre-term +
+//    keval maang. REJECT.
+// 10. Purv PSO Joga Singh ki giraftari (The Tribune, Aug 2025) — aaropi Khaira nahi,
+//     uska purv PSO hai; sahayak/parivar ke mamle MLA-negative nahi. REJECT as negative.
+// 11. TOI "Money Laundering Charges Framed Against MLA Khaira" (Oct 2023) — page 403
+//     par khula nahi; khul na sakne wala page source nahi (retry lead). Charges-frame
+//     ka tathya NDTV ke 11 Mar 2025 wale PTI page me darj hai, isliye alag entry ki
+//     zaroorat nahi padi.
+// 12. lawstreet.co "SC dismisses Punjab govt plea against bail" (Oct 2026 crawl) —
+//     stale re-crawl lagta hai (wahi judges Bela Trivedi/KV Vishwanathan, wahi HC order
+//     4 Jan 2024 — Jan 18, 2024 ke SC order ka shabda-shabda dohrav); koi naya vikas
+//     nahi. REJECT (purani khabar ka dohrav).
+// 13. Rangla Punjab Vikas Scheme (FY 2025-26 se, Rs 5 crore prati segment prati
+//     vitt-varsh, DC-administered) ke tahat Bholath me kisi DC-suchi ya established
+//     media report me Khaira ki sifarish ya bhoomika dastaveji nahi mili. REJECT.
+// 14. Dhussi Bandh 30-km sadak + 55 km nayi sadkon ka dawa — dawa-entry banayi gayi
+//     hai (entry 1); swatantra pushti ya fund-disclosure kisi whitelisted source me
+//     nahi mila.
+punjabWorks['sukhpal-singh-khaira'] = [
+  {
+    title: 'MLA ka dawa — Dhussi Bandh par Shri Hargobindopur pul se Dhilwan pul tak 30 km sadak (35-40 gaon jodti hai), 75% kaam poora hone ka dawa; 55 km nayi sadkein bhi ban rahi hain',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/bholath-even-if-i-hadnt-been-freed-i-would-have-emerged-victorious-says-sukhpal-khaira-381483',
+    date: '2022-03-28',
+    note: 'Cited page ke tathya (interview Jalandhar me 27 Mar 2022 ko hua, published 28 Mar 2022): Khaira ne kaha ki Dhussi Bandh par Shri Hargobindopur bridge se Dhilwan bridge tak 30 km lambi sadak banwai ja rahi hai, jise unhone abhootpurv bataya; ye sadak unke halke ke 35 se 40 gaon jodti hai aur Majha-Doaba ko jodti hai; interview ke samay kaam 75% poora ho chuka tha; 55 km nayi sadkein bhi ban rahi thin. Disclosure: ye keval MLA ka apna dawa hai — swatantra pushti ya fund-disclosure cited page me nahi hai; interview karyakaal ki shuruaat me hua tha aur sadak ka kaam us samay pragati par tha, isliye dawa pichhle karyakaal se chali koshish ka ho sakta hai.',
+    period: '2022-2027',
+  },
+  {
+    title: '2015 NDPS mamle ki dobara SIT jaanch me aaropi banakar 28 Sep 2023 ko Chandigarh se giraftar; JMIC Jalalabad ne 2 din ka police remand diya; Punjab-Haryana HC ne 4 Jan 2024 ko jamanat di, SC ne 18 Jan 2024 ko barkarar rakha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/khaira-produced-in-jalalabad-court-remanded-in-two-day-police-custody-548636',
+    date: '2023-09-28',
+    note: 'Date reasoning: event 28 Sep 2023 (Thursday, date -d se verified); Tribune report 29 Sep 2023 ko publish hui. Cited page ke tathya: Punjab Police ne 28 Sep 2023 ki subah Chandigarh se Congress MLA Sukhpal Singh Khaira ko giraftar kiya — nayi SIT (Apr 2023 me DIG Swapan Sharma ke netritv me gathit) ki jaanch ke aadhaar par; aarop: drug smuggling (Pakistani smugglers ki sanliptata ka aarop), money laundering aur fake passport racket; police ne SIM cards (Indian aur Pakistani), videsh-yatraon ka vivran aur accounts/property ka vivran manga; convicted smuggler se 78 baar baat ka aarop; JMIC Jalalabad ne 2 din ka police remand diya (police ne 7 din manga tha). Background (cited page ki timeline): Mar 2015 me Jalalabad police ne 9 vyaktiyon ko 2 kg heroin, 24 gold biscuits, 1 desi pistol, 2 Pakistani SIM cards aur ek Tata Safari ke saath pakda; Gurdev Singh (convicted) ko Khaira ka vishwaspatra bataya gaya; 31 Oct 2017 ko Khaira ko additional accused ke roop me summon kiya gaya. Khaira ka jawab on record: call record ke aadhaar par jhootha phasaya gaya — pehle Badalon ne, phir Capt Amarinder Singh ne, ab AAP ne, usi 2015 NDPS mamle me; unke vakeel ne 2017 ka video clip pesh kiya jisme Bhagwant Mann (tab Sangrur MP) ne kaha tha ki Khaira bina saboot ke jhoothe drug case me phasaya gaya hai. Raahat utni hi pramukhta se: Punjab-Haryana HC ne 4 Jan 2024 ko NDPS mamle me jamanat di; Supreme Court ne 18 Jan 2024 ko Punjab sarkar ki appeal kharij karke jamanat barkarar rakhi (The Tribune, 9 Aug 2025 ki report me Khaira ke bayan ke hawale se). Pehchan: Bholath MLA (INC). Stage: giraftari + remand + jamanat barkarar; trial ka antim parinaam cited pages me nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Drug-linked money laundering mamle me ED ne 8 Mar 2025 ke adesh se Chandigarh ka Rs 3.82 crore ka makan attach kiya; Mohali court me Oct 2023 me charges frame hue',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV (PTI)',
+    sourceUrl: 'https://www.ndtv.com/india-news/probe-agency-enforcement-directorate-attaches-punjab-congress-mla-sukhpal-singh-khaira-chandigarh-house-in-drugs-case-7901720/amp/1',
+    date: '2025-03-11',
+    note: 'Date reasoning: PTI dateline New Delhi, 11 Mar 2025 (Tuesday, date -d se verified); attachment adesh 8 Mar 2025 ka. Cited page (PTI feed) ke tathya: ED ne PMLA ke tahat 8 Mar 2025 ko Chandigarh Sector 5 me sthit Khaira ka makan (keemat Rs 3.82 crore) provisionally attach kiya; ED ka aarop — Khaira ne apne "close associate" Gurdev Singh aur uske videsh-sthit sahyogiyon dwara chalaye ja rahe international drug syndicate se "generated" Rs 3.82 crore ke proceeds of crime ko "acquired and utilised" kiya; ED ka dawa — drug smuggling ke liye suraksha/rasta dene ke badle Gurdev Singh ne Khaira ko Rs 3.82 crore nakad diye aur drug ke paison se uske chunav-abhiyan fund kiye; 1 Apr 2014 se 31 Mar 2020 tak Khaira aur parivar ne Rs 6.61 crore kharch kiye aur gyaat aay se Rs 3.82 crore zyada "unaccounted" kharch; ye Mar 2021 ki searches me zabt handwritten notebooks se mila; special PMLA court Mohali me Jan 2022 me chargesheet dakhil hui aur Oct 2023 me charges frame hue. (Page me "arrested by the ED in November 2011" likha hai — chargesheet Jan 2022 ke sandarbh se ye spasht typo hai, sahi varsh 2021 mana gaya hai.) Khaira ka jawab on record: media se pata chala, ED ya kisi sarkari source se koi notice nahi mila; ise "pure character assassination" bataya aur BJP par ED ke durupyog se vipaksh ko nishana banane ka aarop lagaya. Stage: pre-term me ED giraftari (Nov 2021) aur HC bail (27 Jan 2022, PMLA); karyakaal me charges frame (Oct 2023) aur attachment (Mar 2025); trial ka antim parinaam cited page me nahi. PMLA bail-radd plea par SC ke 15 Jan 2025 ke faisle ke liye dekho agla entry.',
+    period: '2022-2027',
+  },
+  {
+    title: 'PMLA mamle me Punjab-Haryana HC ki 27 Jan 2022 wali bail ke khilaf ED ki plea Supreme Court ne 15 Jan 2025 ko kharij ki — jamanat barkarar',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/ed-dismisses-eds-plea-seeking-cancellation-of-sukhpal-khairas-bail/amp',
+    date: '2025-01-15',
+    note: 'Date reasoning: page par Published 2025-01-15T21:03:25+05:30; "Wednesday" ka zikr — 2025-01-15 Wednesday thi (date -d se verified). Cited page ke tathya: Supreme Court (Justice MM Sundresh ki bench) ne ED ki us plea ko kharij kar diya jisme Punjab-Haryana HC ke 27 Jan 2022 ke adesh (PMLA mamle me Khaira ko bail) ko radd karne ki maang thi; bench ne kaha ki wo plea par vichar ke liye pravritt nahi hai; Additional Solicitor General SV Raju ne aarop lagaya ki Khaira trial me deri kara raha hai. Khaira ne X par likha ki SC ne unhe nyay dilaya. Stage: pre-term bail (27 Jan 2022) par karyakaal me antim nyayik muhar (15 Jan 2025) — PMLA track me bail barkarar; trial ka antim parinaam cited page me nahi. Pehchan: Bholath MLA (INC).',
+    period: '2022-2027',
+  },
+];
+
+// PB3: sukhpal-singh-khaira — 4 entries merged.
+// ============================================================
+// PB3 WORKER — Rana Gurjeet Singh (Kapurthala, INC)
+// slug: rana-gurjeet-singh | term: 2022-2027
+// Bhasha: Roman-script Hinglish only. Currency "Rs". No Devanagari/Gurmukhi anywhere.
+// badge rules: sarkari = govt portal/doc source; news = media-reported post-event;
+//              dawa = MLA ke dawa par aadharit (title me "MLA ka dawa —" framing).
+// Pariwar-jaal note: bete Rana Inder Partap Singh (Sultanpur Lodhi, IND) ke
+// record se bilkul alag rakha gaya hai — bete ki company ke mamle pita par
+// nahi jode gaye jab tak whitelisted source me MLA ka naam vyaktigat roop se na ho.
+// ============================================================
+
+punjabWorks['rana-gurjeet-singh'] = [
+  {
+    title: 'Kapurthala Municipal Corporation ki House meeting me lagbhag Rs 11 crore ke vikas prastavon ko swikriti mili; baithak ki adhyakshata MLA Rana Gurjeet Singh ne ki, jisme 30 wardon ki sadkon-galiyon ki marammat ke liye Rs 8.90 crore aur shahar ke anya buniyadi dhanche ke liye Rs 2.47 crore ke kaam shamil hain.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/kthala-mc-house-approves-rs11-crore-development-plan/',
+    date: '2025-12-01',
+    note: 'The Tribune ki reporting ke mutabik baithak ki adhyakshata MLA ne ki; swikriti Municipal House ki hai (Municipal Commissioner, Mayor aadi maujood). 18 prastav: sadak-gali marammat (Rs 8.90 crore, 30 ward), anya buniyadi dhancha (Rs 2.47 crore), fireman-cum-driver ki bharti, safai upkaran, shamshan/samudayik suvidhaon me sudhar, Shalimar Bagh saundaryikaran, Chhadabadi unnayan aur lagbhag 2500 awara kutton ka nasbandi karyakram. MLA ne sewerage ke liye uplabdh lekin bina istemaal padi Rs 6 crore ki rashi ka mudda uthaya aur turant upyog ki maang ki. Credit capped: kaam MC ne swikrit kiye, MLA baithak ke adhyaksh ke roop me bhoomika me the. Page publish date 2025-12-01 (Monday, date -d se verify).',
+    period: '2022-2027'
+  },
+  {
+    title: 'Market regulator SEBI ne Rana Sugars Limited se jude fund-diversion mamle me Gurjeet Singh Rana ko kisi bhi anya listed company me director ya key managerial pad par rehne se do saal ke liye rok diya; company aur uske promoters/sambandhit sansthaon par kul Rs 63 crore ka jurmana laga.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Business Standard (PTI)',
+    sourceUrl: 'http://www.business-standard.com/markets/news/sebi-bans-rana-sugars-promoters-from-mkt-for-2-yrs-imposes-rs-63-cr-fine-124082800300_1.html',
+    date: '2024-08-28',
+    note: 'PTI copy (Business Standard par syndicated): SEBI ke antim aadesh (27 Aug 2024, Tuesday) me paya gaya ki noticee 1 se 9 (RSL ke promoters, diversion ke labharthi) ne PFUTP niyamon ka ullanghan kiya; vyaktigat jurmana Rs 3 crore se Rs 7 crore ki seema me; sambandhit sansthaon se Rs 607 crore (Rs 339 crore receivables + Rs 268 crore byaj) vasoolne ka nirdesh; jaanch agency ke saamne pesh na hone aur dastavej na dene par bhi tippani. Aadesh me "Gurjeet Singh Rana" ka naam Rajbans Kaur, Inder Pratap Singh Rana aadi parivaar-sadasyon ke saath aata hai; Rajbans Kaur MLA ki patni hain (Tribune reporting), is aadhar par pehchan Kapurthala MLA Rana Gurjeet Singh se ki gayi hai (naam-kram "Rana Gurjeet Singh" / "Gurjeet Singh Rana" ka antar note kiya gaya). Cited PTI copy me MLA ki pratikriya uplabdh nahi thi — anupasthiti disclosed. Stage: niyamak ka quasi-nyayik antim aadesh; appeal ya aage ki karyawahi ki soochna cited source me nahi. PTI wire ko Business Standard jaise established outlet par liya gaya hai (whitelist ke "PTI (established outlet par)" niyam ke tahat); seedhe whitelist outlet me ye khabar nahi mili — parent review ke liye flag.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Income Tax Department ke Investigation Wing ne Kapurthala ke MLA Rana Gurjeet Singh se jude Punjab, Chandigarh, Uttarakhand aur UP ke 35 se adhik thikano par 6 Feb se 5 din tak search chalayi; sutro ke mutabik Rs 1 crore se adhik behisabi nakad aur kuch zevar zabt hue.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/i-t-raids-continue-at-ranas-place-for-3rd-day/',
+    date: '2025-02-09',
+    note: 'Tribune reporting (publish 2025-02-09, Sunday): search 6 Feb 2025 (Thursday, date -d se verify) subah 6 baje se Ludhiana Investigation Wing (Principal Director Investigation Ashish Abrol) ke netritva me, 250 se adhik adhikari, ITBP suraksha; MLA ke Chandigarh Sector 4/9 ke niwas, MLA hostel flat aur Kapurthala/Jalandhar ke thikane shamil. Zabti "sutro ke mutabik" hai — vibhag ka aadhikarik bayan cited source me nahi. Cited sources (Tribune, Indian Express, HT, PTI/ThePrint) me MLA ki vyaktigat pratikriya uplabdh nahi — anupasthiti disclosed (party netaon ne mulakat ki koshish ki; LoP Partap Bajwa ne kaha agency ko kaam karne dein, baad me faisla lenge). Stage: janch/search jaari; cited sources me FIR ya chargesheet ki soochna nahi.',
+    period: '2022-2027'
+  }
+];
+// ======================= REJECT-LOG =======================
+// (shanka par reject — galat entry se khali profile behtar)
+// R1: "Rift between Punjab Congress MLAs Sukhpal Khaira, Rana Gurjeet Singh out in open" (The Tribune, 2024-03-15) — Bholath MLA Sukhpal Khaira ne AICC chief Mallikarjun Kharge ko patra likhkar aarop lagaya ki Rana Gurjeet Singh ne AAP sarkar se Dec 2022 me ethanol plant licence liya aur badle me AAP ki siyasi madad ki. Koi FIR/chargesheet/janch-aadesh report nahi — sirf aarop/patra. Negative rule: sirf aarop/maang NAHI; party-karyawahi akele negative NAHI. Reject. URL: https://www.tribuneindia.com/news/punjab/rift-between-sukhpal-khaira-rana-gurjeet-singh-out-in-open-600885
+// R2: "ED seizes Rs 22-crore properties of Rana Sugars" (The Tribune, 2025-04-05) — ED ne FEMA Sec 4 ullanghan par Rana Sugars Ltd ki Rs 22.02 crore ki achal sampatti zabt ki; mamla company, uske promoters, directors aur anyon ke khilaf. Whitelisted source me MLA Rana Gurjeet Singh ka naam vyaktigat aaropi ke roop me NAHI hai (bete Rana Inder Partap Singh ka naam MD ke roop me hai). Pariwar-jaal niyam: bete ki company ka mamla pita par nahi. SEBI aadesh (R-accept, upar entry) me "Gurjeet Singh Rana" ka naam hai, lekin ED-FEMA mamle me uska vyaktigat naam whitelisted source me nahi — shanka par reject. URL: https://www.tribuneindia.com/news/punjab/ed-seizes-22-crore-properties-of-rana-sugars/
+// R3: "Rana Gurjeet criticises stoppage of potable water project in Kapurthala, seek immediate resumption" (Indian Express, Dec 2025) — MLA ne Rs 26-crore AMRUT-II peyjal pariyojna ka kaam rukne par AAP sarkar se turant dobara shuru karne ki maang ki. Sirf maang/prastav, koi dastaveji nateeja nahi. Reject. URL: https://indianexpress.com/article/cities/chandigarh/rana-gurjeet-criticises-stoppage-of-potable-water-project-in-kapurthala-seek-immediate-resumption-10434301/lite/
+// R4: "Kapurthala villages get aid under Punjab Nirman programme — Rs 10-cr infra push" (The Tribune, 2021-09-08) — 83 gaon-panchayaton ko Rs 8.61 crore anudan vitran. Karyakaal Mar 2022 se pehle ka — pre-term. Reject. URL: https://www.tribuneindia.com/news/jalandhar/kapurthala-villages-get-aid-under-punjab-nirman-programmers10-cr-infra-push-for-holistic-developmen-308742/
+// R5: "Rana inaugurates road, boundary projects" (The Tribune, 2021-10-25) — sabzi mandi me sadak/boundary wall par Rs 1,00,18,000 ka lokarpan. Pre-term (2021). Reject. URL: https://www.tribuneindia.com/news/jalandhar/rana-inaugurates-road-boundary-projects-329333/
+// R6: "Kapurthala MLA Rana Gurjit Singh reviews works" (The Tribune, 2020-11) — talabon ke navinikaran ka Rs 7.37 crore grant, MLA ne nirikshan kiya. Pre-term + sirf nirikshan/daura. Reject. URL: https://www.tribuneindia.com/news/kapurthala-mla-reviews-works-237242/
+// R7: "Punjab Kapurthala MLA Rana Gurjeet Singh reaffirms commitment to buy maize at MSP" (PTI via The Week, 2025-10-06) — MLA ne kisanon se makka Rs 2400/quintal MSP par khareedne ka vada dohraya; khareed unke parivaarik ethanol business ke liye hai. Niji vyaparik gatividhi — sarkari seat-kaam nahi. Reject. URL: https://www.theweek.in/wire-updates/national/2025/10/06/des84-pb-maize-mla.html
+// R8: "Rana Gurjeet Singh to announce New Crop Vision for Punjab soon" (babushahi, 2026-02-10) — sirf ghoshna/press-conference ka elan; koi bhautik kaam nahi. Babushahi whitelist me nahi. Reject. URL: https://www.babushahi.com/view-news.php/captcha/images/upload/image/captcha/upload/pdf/captcha/upload/pdf/view-news.php?id=217058
+// R9: "Kapurthala MLA Rana Gurjeet Singh Unveils Nawi Soch Nawa Punjab" (yespunjab, 2025-03-30) — kheti-vision ki ghoshna; bhautik sanrachna ka lokarpan nahi. YesPunjab whitelist me nahi. Reject. URL: https://yespunjab.com/kapurthala-mla-rana-gurjeet-singh-unveils-nawi-soch-nawa-punjab/
+// R10: "Diarrhea outbreak in Kapurthala: MLA Rana Gurjit Singh visits affected areas" (babushahi, 2024-07-28) — sirf daura/nirikshan; whitelist me nahi. Reject. URL: https://www.babushahi.com/view-news.php?id=188473&headline=Diarrhea-outbreak-in-Kapurthala:-MLA-Rana-Gurjit-Singh-visits-affected-areas
+// R11: "MLA Rana Gurjeet Singh Hails Railway Progress in Kapurthala After PM Modi Visit" (punjaboutlook, 2026-07-18) — kendriya Amrit Bharat Station pariyojna par bina vyaktigat bhoomika ke shrey/bayan; outlet whitelist me nahi. Reject. URL: https://punjaboutlook.com/mla-rana-gurjeet-singh-hails-railway-progress-in-kapurthala-after-pm-modis-visit-credits-bipartisan-efforts/
+// R12: "Aman Arora lays stone of Udham Singh Shaheed Skill Development University" (The Tribune, Dec 2025) — shilanyas mantri Aman Arora ne kiya; Rana Gurjeet Singh sirf maujood the. Dusre neta ke karyakram me maujoodgi — reject. URL: https://www.tribuneindia.com/news/jalandhar/aman-arora-lays-stone-of-udham-singh-shaheed-skill-development-university/amp/?utm=relatedarticles
+// R13: "Kapurthala mayoral poll: High Court seeks entire proceedings of July 8 meet on MLA plea" (Indian Express, Jul 2026) — MLA ne nagar nigam mayor-chunav prakriya ko HC me chunauti di. Chunav-yachika akele negative NAHI; ye seat-vikas kaam bhi nahi. Reject. URL: http://indianexpress.com/article/legal-news/kapurthala-municipal-corporation-mayor-election-high-court-rana-gurjeet-10785514/
+// R14: "Money laundering case: ED raids Phagwara-based sugar mill" (Hindustan Times) — mamla SAD neta Jarnail Singh Wahid aur uski patni/bete ke khilaf (VB FIR Sep 2023); Rana Gurjeet Singh sirf mill ke vartaman operator ke roop me ullekh, aaropi nahi. Reject. URL: https://www.hindustantimes.com/cities/chandigarh-news/money-laundering-case-ed-raids-phagwara-based-sugar-mill-7-other-locations-in-punjab-chandigarh-101755720281553.html
+// R15: Feb 2025 IT raid par purana TOI quote (2018 ki alag raid ka) — 2025 raid me MLA ki pratikriya whitelisted sources me nahi mili; isliye entry me "pratikriya uplabdh nahi — anupasthiti disclosed" likha gaya. Koi pratikriya invent nahi ki gayi.
+
+// ======================= RETRY-LEADS =======================
+// L1: Rangla Punjab Vikas Scheme (Rs 5 crore prati segment prati vitt-varsh, FY 2025-26 se, DC-administered) ke tahat Kapurthala segment ki DC suchi me MLA ki sifarish/bhoomika mile to whitelist media se dastaveji entry ban sakti hai — ab tak kuch nahi mila. Retry: DC Kapurthala / Punjab DIPR portal search.
+// L2: The Tribune ke Kapurthala topic pages par naye articles monitor karo — 2026-10 tak koi aur vyaktigat lokarpan/shilanyas nahi dikha.
+// L3: ED-FEMA mamle (Rs 22.02 crore zabti) me yadi kisi whitelisted outlet me "Gurjeet Singh Rana" promoter/director ke roop me vyaktigat naam aaye to negative entry ban sakti hai; SEBI aadesh ke khilaf appeal ya aage ke nyayik vikas ko bhi track karo.
+// L4: Feb 2025 IT search ka koi aadhikarik nishkarsh (vibhagiya bayan/chargesheet) aaye to negative entry ka stage update karna hoga — ab tak cited sources me sirf "sutro ke mutabik" zabti hai.
+// PB3: rana-gurjeet-singh — 3 entries merged (QA-checked; SEBI+IT-search dono ki MLA-pehchan parent ne whitelisted coverage se pakki ki).
+// PB3 worker — rana-inder-partap-singh (Sultanpur Lodhi, Independent)
+// Pehchan: Sultanpur Lodhi se Independent MLA; Kapurthala (INC) MLA Rana Gurjeet Singh
+// ke bete hain. Pita ke kaam/mamle bete par NAHI aur bete ke kaam/mamle pita par NAHI.
+// Dono entries me Sultanpur Lodhi seat ki pehchan source text se verify ki gayi hai
+// ('Sultanpur Lodhi Independent MLA Rana Inder Partap Singh' — IE + Tribune).
+// NOTE: Ek HT page (bundh FIR coverage) browser.fetch par 402 de raha tha — retry lead R-16
+// me darj hai; wahi FIR tathya IE (opened) aur Tribune (opened) se cover ho gaye hain.
+punjabWorks['rana-inder-partap-singh'] = [
+  { title: 'Bharoana gaon me Kali Bein ke dhussi bandh ko JCB se katne ke aarop me Sultanpur Lodhi MLA Rana Inder Partap Singh aur unke lagbhag 100 samarthakon ke khilaf drainage vibhag ki shikayat par FIR darj hui; baad me MLA ne sainkdon svayamsevkon ke saath bandh dobara banwaya', category: 'Any', badge: 'news', sourceLabel: 'The Indian Express', sourceUrl: 'https://indianexpress.com/article/cities/chandigarh/mla-breach-dhussi-bandh-kapurthala-booked-8840671/', date: '2023-07-15', note: 'IE (16 Jul 2023) ke anusaar: 14 Jul 2023 ki shaam ko Bharoana gaon (Kapurthala) me MLA aur samarthakon ne police ki maujoodgi ke bavjood earth-moving machine se bandh kata; lagbhag paanch ghante me aadhi raat tak bandh me ched ho gaya. Sutlej ka pani Sultanpur Lodhi ke kuch gaon me jama ho gaya tha; MLA ke anusaar isse gaon ka jal-star neeche aaya. Drainage vibhag ki shikayat par Section 70, Northern India Canal and Drainage Act, 1873 aur IPC Sections 277, 426, 430 ke tahat case darj hua. Kapurthala SSP Rajpal Singh Sandhu ke anusaar mamle ki jaanch chal rahi thi. MLA ne media se kaha ki logon ke kalyan ke liye kaam karte hue FIR se chinta nahi hai. Date reasoning: IE report 16 Jul 2023 ki hai aur kehti hai police ne Saturday ko case darj kiya; date -d se verify kiya ki 15 Jul 2023 Saturday tha, isliye date 2023-07-15 rakhi gayi. Baad ka vikas: Tribune (Kapurthala, 19 Jul 2023; report 20 Jul ko published) ke anusaar jal-star kam hone par MLA ne sainkdon svayamsevkon ke saath 10 feet tak toote bandh ka punarnirman karwaya — subah shuru karke shaam tak kaam poora hua, agle din machine se mazbooti ki yojana thi. Ab tak chargesheet ya aage ki nyayik karyawahi ki koi whitelist khabar nahi mili; stage FIR darj hone par hai, koi jamanat ya ba-izat bari ka vikas dastaveji nahi hai. Seat pehchan: source me saaf likha hai Sultanpur Lodhi Independent MLA Rana Inder Partap Singh.', period: '2022-2027' },
+  { title: 'MLA ka dawa — 2022 chunav se pehle kiya gaya Sultanpur Lodhi me sewerage system ka vaada poora ho gaya aur 14 feet gehri sewer lines bichhai gayin', category: 'Any', badge: 'dawa', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/mla-announces-stadium-for-sultanpur-lodhi/', date: '2025-04-05', note: 'The Tribune (6 Apr 2025) ke anusaar: 5 Apr 2025 ko Sultanpur Lodhi me Navin Soch, Nawan Punjab rally me MLA ne kaha ki 2022 ke Vidhan Sabha chunav se pehle unhone halke ke liye sewerage system ka vaada kiya tha aur use poora kar diya; sadken isliye kharab hui kyunki 14 feet gehri sewer lines bichhane ke liye khudai hui thi, aur sadkon ki marammat/nirman ka kaam jald shuru hoga. Is dawe ka ekmatra aadhaar MLA ka apna kathan hai — fund amount, yojana ya MLA ki sifarish ki koi dastaveji detail Tribune report me nahi hai, aur iska swatantra satyapan whitelist sources me nahi mila; isliye badge dawa hai. Date reasoning: Tribune report 6 Apr 2025 ko published hai aur rally ka din Saturday batati hai; date -d se verify kiya ki 5 Apr 2025 Saturday tha, isliye event date 2025-04-05 rakhi gayi. Usi rally me stadium ki ghoshna, 29 km pipeline ka vaada aur Rs 220 crore/Rs 50 crore smart city ka dawa bhi hue — ye sab sirf ghoshnaen hain (R-1 se R-3), is entry me nahi hain.', period: '2022-2027' },
+];
+// WORKER: rana-inder-partap-singh (Sultanpur Lodhi, Independent) — 2 entries mili: (1) NEGATIVE: Jul 2023 me Kali Bein dhussi bandh (Bharoana) katne ke aarop me drainage vibhag ki shikayat par Section 70 Canal Act + IPC 277/426/430 ke tahat MLA + ~100 samarthakon par FIR (IE + Tribune; MLA ka jawab on record; 19 Jul 2023 ko svayamsevkon se bandh punarnirman — wahi vikas note me); chargesheet ka koi vikas nahi mila. (2) DAWA: Apr 2025 me Tribune-reported rally me MLA ka dawa ki sewerage system ka vaada poora hua (fund/bhoomika disclosed nahi; swatantra satyapan nahi). Retry-leads: R-16 (HT 402), R-17 (bundh FIR ka aage ka vikas).
+// REJECT-LOG:
+// R-1. The Tribune (5 Apr 2025) — Sultanpur Lodhi me state-of-the-art stadium (all-weather swimming pool, world-class gymnasium) ki ghoshna rally me: sirf ghoshna; shilanyas/lokarpan nahi. REJECT.
+// R-2. The Tribune (5 Apr 2025) — 29 km lambi pipeline bichhakar potable water supply ka vaada: sirf ghoshna/vaada, kaam shuru hone ki reporting nahi. REJECT.
+// R-3. The Tribune (5 Apr 2025) — Rs 220 crore smart city fund lapse aur Rs 50 crore milne ka dawa: kendriya pariyojna par vyaktigat bhoomika dastaveji nahi; wada-dawa mixture; GO/sanction nahi. REJECT.
+// R-4. babushahi.com (Feb 2026) — Malsian (Shahkot) me Rana Gurjeet Singh + Rana Inder Partap ne cassava kheti ko badhava diya: non-whitelist chhota Punjabi portal; koi sarkari sanrachna/sanction nahi, prachar karyakram matra. REJECT.
+// R-5. The Tribune (11 Sep 2025) — 2025 badh me Baupur ke graminon ne MLA ko bandh-marammat me madad ka shrey diya: daan/rahat kaam (manpower/JCB madad); vikas kaam nahi. REJECT.
+// R-6. The Tribune (Feb 2022, constituency watch) — Jan 2018 me ED ki kathit FEMA jaanch: pre-term mamla; karyakaal (Mar 2022+) me koi nyayik vikas dastaveji nahi. Negative ke layak nahi. REJECT.
+// R-7. newswav.com (Dec 2025) — Sultanpur Lodhi Municipal Council chunav me Rana ke Independents ki jeet (13 me se 7 seats): non-whitelist + chunav khabar, vikas kaam nahi. REJECT.
+// R-8. Tribune epaper (Dec 2025) — Block Samiti chunav (Sultanpur Lodhi/Fattu Dhinga) me Rana-samarthit Independents ki jeet; lalluram.com par Fattu Dhinga chairman chunav me firing/maar-peet ke aarop: chunav khabar; lalluram non-whitelist; MLA khud ke khilaf FIR darj hone ki koi whitelist pushti nahi. REJECT.
+// R-9. yespunjab.com / royalpatiala.in / babushahi.com (Aug 2025) — badh par CM ko turant karyawahi ki appeal, press conference: sirf maang; non-whitelist sources. REJECT.
+// R-10. babushahi.com (Sep 2024) — Vidhan Sabha zero hour me sewerage safai/super-suction machines aur streetlight contract par maang: non-whitelist + sirf maang, nateeja/mantri-ashwasan dastaveji nahi. REJECT.
+// R-11. Times of India (Assembly coverage, ~2026) — House me MLA ka human-trafficking/flesh-trade racket ka aarop: aarop matra; vikas kaam nahi. REJECT.
+// R-12. 5dariyanews.com (Feb 2023) — Smart City pariyojnaon ka DC (Vishesh Sarangal) dwara review (Rs 74.11 crore sadken, smart schools, STP): DC/sarkari amla ne kaam chalaya; MLA ki bhoomika dastaveji nahi. REJECT.
+// R-13. yespunjab.com (Apr 2025) — makka kharif ki kharid Rs 2000/quintal par hone ka dawa ('mere karyakaal ke baad'): non-whitelist; procurement-price dawa, bhautik sarkari sanrachna ka kaam nahi. REJECT.
+// R-14. yespunjab.com (Apr 2025) — NHAI dwara adhigrahit zameen ke liye arbitrator niyukt, Rs 1 crore/acre muavza ka dawa: non-whitelist; kendriya agency ka mamla, MLA ki bhoomika dastaveji nahi. REJECT.
+// R-15. punjaboutlook.com (2024) — Beas kinare bundh banane me MLA ne earthmoving machine di: non-whitelist chhota portal; rahat-prakar madad, sanction/lokarpan nahi. REJECT.
+// R-16. RETRY LEAD: hindustantimes.com/cities/chandigarh-news/independent-mla-booked-for-breaking-bundh-on-kali-holy-bein-in-punjab-flood-control-efforts-underway-101689436126686.html — browser.fetch par 402 mila; wahi FIR tathya (Kabirpur thana, XEN drainage shikayat, Sections 70/277/430) IE + Tribune se cover hain, low priority retry.
+// R-17. RETRY LEAD: Jul 2023 dhussi-bandh FIR ka aage ka vikas (chargesheet, trial, jamanat, ba-izat bari) whitelist sources me nahi mila; aage ke rounds me 'Rana Inder Partap bundh case chargesheet/trial' khojo.
+// PB3: rana-inder-partap-singh — 0 entries merged (QA-checked; Kali Bein bundh-FIR negative, jawab + punarnirman note me).
+punjabWorks['balwinder-singh-dhaliwal'] = [];
+// PB3-QA (parent): balwinder-singh-dhaliwal ki sadak-patchwork entry DROP ki gayi — kaam poori tarah MLA ke niji kharch se hua tha; niji kharch/daan wala rule lagu.
+// ======================= REJECT-LOG =======================
+// (shanka par reject — galat entry se khali profile behtar)
+// R1: "Govt pushing rural infrastructure to curb migration to cities, says MLA Dhaliwal" (Tribune, 2026-09-03) — poora article Ajnala ke MLA Kuldeep Singh Dhaliwal (AAP) ke baare me hai; Phagwara wale Balwinder Singh Dhaliwal nahi. Naam milta-julta hone se galat pehchan. URL: https://www.tribuneindia.com/news/amritsar/govt-pushing-rural-infrastructure-to-curb-migration-to-cities-says-mla-dhaliwal/
+// R2: "Row over credit for works" (Tribune) — Greater Kailash, Phagwara tubewell Rs 34 lakh grant; Congress netaon ke dawe ke mutabik kaam 2021 me Congress sarkar ke daur me pura hua aur us waqt MLA ne lokarpan kiya — matlab pre-term (term Mar 2022 se). MLA ki in-term vyaktigat bhoomika dastaveji nahi (dawa block Congress netaon ka hai). Reject.
+// R3: "Ahead of Chhath Puja, Congress MLA leads canal clean-up drive in Phagwara" (Tribune) — Phagwara Chowki canal ki safai abhiyan; keval drive/safai campaign hai, sthayi bhautik sanrachna ka lokarpan nahi. Rule: keval abhiyan-shubharambh reject.
+// R4: "MC auditorium in Phagwara sans power since 2018" (Tribune, 2025-05-21) — MLA ne MC se action lene ki maang ki; sirf maang/bayan, koi nateeja ya bhoomika dastaveji nahi. Reject.
+// R5: "Congress delegation meets MC Commissioner, raises concern over stalled development projects in Phagwara" (Tribune) — MLA ne MC Commissioner ko memorandum diya; sirf maang/proposal, nateeja dastaveji nahi. Reject.
+// R6: "Newly built road in Phagwara crumbles within weeks, Cong for Vigilance probe" (Tribune, epaper 2025-06-27) — MLA ne sadak scam ki Vigilance janch ki maang ki; ye MLA ke KHILAF mamla nahi, balki unki maang hai. Negative entry ke liye MLA khud aaropi hona chahiye — reject.
+// R7: 2019 model code of conduct case (Business Standard/Indian Express, Oct 2019) — Phagwara police ne Sec 130 RP Act ke tahat case darj kiya tha (party symbol wala scarf pehenkar vote daalne par). PRE-TERM mamla aur wartaman karyakaal (Mar 2022+) me koi legal development report nahi. Rule: pre-term negative tabhi jab in-term vikas ho — reject.
+// R8: Dharamshala Rs 20 lakh grant (Tribune "Eye on 2022 Assembly poll", Jan 2022) — Assembly chunav se pehle ki ghoshna; karyakaal shuru hone (Mar 2022) se pehle. Pre-term. Reject.
+// R9: PMAY Rs 50 lakh allotment letters (Tribune, 2020) — pre-term; kendriya yojana (PMAY) ka vitran karyakram, MLA ki vyaktigat bhoomika/fund disclosure nahi. Reject.
+// R10: "Robotic surgery centre opens in Phagwara" (Tribune, 2023-04-16) — MLA sirf udghatan me maujood tha; dusre (niji hospital) ka karyakram me maujoodgi. Rule: dusre neta/kaam ke karyakram me maujoodgi reject. Reject.
+// R11: MP Chabbewal ke Phagwara tubewell (Rs 30 lakh) aur Panshta bridge (Rs 1 crore) karyakram — MP Raj Kumar Chabbewal ke kaam hain, MLA ke nahi (Phagwara Hoshiarpur LS me hai). Reject.
+// R12: Kuldeep Singh Dhaliwal ke 53 link roads Rs 15 crore (5dariyanews) aur Education Revolution (yespunjab) — Ajnala (AAP) ke MLA ke kaam, Phagwara wale nahi. Pehchan galat. Reject.
+// R13: DNP India ka "Phagwara School of Eminence" article — dnpindia whitelist me nahi (aggregator-jaisa chhota portal). School of Eminence Bhagwant Mann sarkar ka karyakram; MLA ki vyaktigat bhoomika dastaveji nahi. Reject.
+
+// ======================= RETRY-LEADS =======================
+// L1: Rangla Punjab Vikas Scheme (Rs 5 crore prati segment prati vitt-varsh, FY 2025-26 se, DC-administered) ke tahat Phagwara segment me hui swikritiyon ki DC suchi me MLA ki sifarish/bhoomika mile to whitelist media se dastaveji entry ban sakti hai — ab tak kuch nahi mila. Retry: DC Kapurthala / DIPR Punjab portal search.
+// L2: Tribune topic pages "phagwaradevelopment" aur "phagwaracivicissues" par naye articles monitor karo — 2026-10 tak koi vyaktigat lokarpan nahi dikha.
+// L3: News18 candidate page ke mutabik unke khilaf 2022 halafname me 0 criminal cases the (2019 wala MCC case halafname pending mamlo me aata ho to "Halafname ke pending mamle akele negative NAHI" rule lagu hota hai) — koi in-term FIR/chargesheet nahi mili.
+// PB3: balwinder-singh-dhaliwal — 0 entries merged (QA-checked).
