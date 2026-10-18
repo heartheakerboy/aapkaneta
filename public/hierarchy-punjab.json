@@ -1,0 +1,729 @@
+{
+  "state": "Punjab",
+  "stateSlug": "punjab",
+  "districts": [
+    {
+      "name": "Pathankot",
+      "slug": "pathankot",
+      "acs": [
+        {
+          "n": 1,
+          "name": "Sujanpur",
+          "slug": "sujanpur"
+        },
+        {
+          "n": 2,
+          "name": "Bhoa (SC)",
+          "slug": "bhoa"
+        },
+        {
+          "n": 3,
+          "name": "Pathankot",
+          "slug": "pathankot"
+        }
+      ]
+    },
+    {
+      "name": "Gurdaspur",
+      "slug": "gurdaspur",
+      "acs": [
+        {
+          "n": 4,
+          "name": "Gurdaspur",
+          "slug": "gurdaspur"
+        },
+        {
+          "n": 5,
+          "name": "Dina Nagar (SC)",
+          "slug": "dina-nagar"
+        },
+        {
+          "n": 6,
+          "name": "Qadian",
+          "slug": "qadian"
+        },
+        {
+          "n": 7,
+          "name": "Batala",
+          "slug": "batala"
+        },
+        {
+          "n": 8,
+          "name": "Sri Hargobindpur (SC)",
+          "slug": "sri-hargobindpur"
+        },
+        {
+          "n": 9,
+          "name": "Fatehgarh Churian",
+          "slug": "fatehgarh-churian"
+        },
+        {
+          "n": 10,
+          "name": "Dera Baba Nanak",
+          "slug": "dera-baba-nanak"
+        }
+      ]
+    },
+    {
+      "name": "Amritsar",
+      "slug": "amritsar",
+      "acs": [
+        {
+          "n": 11,
+          "name": "Ajnala",
+          "slug": "ajnala"
+        },
+        {
+          "n": 12,
+          "name": "Raja Sansi",
+          "slug": "raja-sansi"
+        },
+        {
+          "n": 13,
+          "name": "Jandiala (SC)",
+          "slug": "jandiala"
+        },
+        {
+          "n": 14,
+          "name": "Majitha",
+          "slug": "majitha"
+        },
+        {
+          "n": 15,
+          "name": "Amritsar North",
+          "slug": "amritsar-north"
+        },
+        {
+          "n": 16,
+          "name": "Amritsar West (SC)",
+          "slug": "amritsar-west"
+        },
+        {
+          "n": 17,
+          "name": "Amritsar Central",
+          "slug": "amritsar-central"
+        },
+        {
+          "n": 18,
+          "name": "Amritsar East",
+          "slug": "amritsar-east"
+        },
+        {
+          "n": 19,
+          "name": "Amritsar South",
+          "slug": "amritsar-south"
+        },
+        {
+          "n": 20,
+          "name": "Attari (SC)",
+          "slug": "attari"
+        },
+        {
+          "n": 25,
+          "name": "Baba Bakala (SC)",
+          "slug": "baba-bakala"
+        }
+      ]
+    },
+    {
+      "name": "Tarn Taran",
+      "slug": "tarn-taran",
+      "acs": [
+        {
+          "n": 21,
+          "name": "Tarn Taran",
+          "slug": "tarn-taran"
+        },
+        {
+          "n": 22,
+          "name": "Khem Karan",
+          "slug": "khem-karan"
+        },
+        {
+          "n": 23,
+          "name": "Patti",
+          "slug": "patti"
+        },
+        {
+          "n": 24,
+          "name": "Khadoor Sahib",
+          "slug": "khadoor-sahib"
+        }
+      ]
+    },
+    {
+      "name": "Kapurthala",
+      "slug": "kapurthala",
+      "acs": [
+        {
+          "n": 26,
+          "name": "Bholath",
+          "slug": "bholath"
+        },
+        {
+          "n": 27,
+          "name": "Kapurthala",
+          "slug": "kapurthala"
+        },
+        {
+          "n": 28,
+          "name": "Sultanpur Lodhi",
+          "slug": "sultanpur-lodhi"
+        },
+        {
+          "n": 29,
+          "name": "Phagwara (SC)",
+          "slug": "phagwara"
+        }
+      ]
+    },
+    {
+      "name": "Jalandhar",
+      "slug": "jalandhar",
+      "acs": [
+        {
+          "n": 30,
+          "name": "Phillaur (SC)",
+          "slug": "phillaur"
+        },
+        {
+          "n": 31,
+          "name": "Nakodar",
+          "slug": "nakodar"
+        },
+        {
+          "n": 32,
+          "name": "Shahkot",
+          "slug": "shahkot"
+        },
+        {
+          "n": 33,
+          "name": "Kartarpur (SC)",
+          "slug": "kartarpur"
+        },
+        {
+          "n": 34,
+          "name": "Jalandhar West (SC)",
+          "slug": "jalandhar-west"
+        },
+        {
+          "n": 35,
+          "name": "Jalandhar Central",
+          "slug": "jalandhar-central"
+        },
+        {
+          "n": 36,
+          "name": "Jalandhar North",
+          "slug": "jalandhar-north"
+        },
+        {
+          "n": 37,
+          "name": "Jalandhar Cantt",
+          "slug": "jalandhar-cantt"
+        },
+        {
+          "n": 38,
+          "name": "Adampur (SC)",
+          "slug": "adampur"
+        }
+      ]
+    },
+    {
+      "name": "Hoshiarpur",
+      "slug": "hoshiarpur",
+      "acs": [
+        {
+          "n": 39,
+          "name": "Mukerian",
+          "slug": "mukerian"
+        },
+        {
+          "n": 40,
+          "name": "Dasuya",
+          "slug": "dasuya"
+        },
+        {
+          "n": 41,
+          "name": "Urmar",
+          "slug": "urmar"
+        },
+        {
+          "n": 42,
+          "name": "Sham Chaurasi (SC)",
+          "slug": "sham-chaurasi"
+        },
+        {
+          "n": 43,
+          "name": "Hoshiarpur",
+          "slug": "hoshiarpur"
+        },
+        {
+          "n": 44,
+          "name": "Chabbewal (SC)",
+          "slug": "chabbewal"
+        },
+        {
+          "n": 45,
+          "name": "Garhshankar",
+          "slug": "garhshankar"
+        }
+      ]
+    },
+    {
+      "name": "SBS Nagar",
+      "slug": "sbs-nagar",
+      "acs": [
+        {
+          "n": 46,
+          "name": "Banga (SC)",
+          "slug": "banga"
+        },
+        {
+          "n": 47,
+          "name": "Nawan Shahr",
+          "slug": "nawan-shahr"
+        },
+        {
+          "n": 48,
+          "name": "Balachaur",
+          "slug": "balachaur"
+        }
+      ]
+    },
+    {
+      "name": "Rupnagar",
+      "slug": "rupnagar",
+      "acs": [
+        {
+          "n": 49,
+          "name": "Anandpur Sahib",
+          "slug": "anandpur-sahib"
+        },
+        {
+          "n": 50,
+          "name": "Rupnagar",
+          "slug": "rupnagar"
+        },
+        {
+          "n": 51,
+          "name": "Chamkaur Sahib (SC)",
+          "slug": "chamkaur-sahib"
+        }
+      ]
+    },
+    {
+      "name": "SAS Nagar",
+      "slug": "sas-nagar",
+      "acs": [
+        {
+          "n": 52,
+          "name": "Kharar",
+          "slug": "kharar"
+        },
+        {
+          "n": 53,
+          "name": "S.A.S. Nagar",
+          "slug": "sas-nagar"
+        },
+        {
+          "n": 112,
+          "name": "Dera Bassi",
+          "slug": "dera-bassi"
+        }
+      ]
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "slug": "fatehgarh-sahib",
+      "acs": [
+        {
+          "n": 54,
+          "name": "Bassi Pathana (SC)",
+          "slug": "bassi-pathana"
+        },
+        {
+          "n": 55,
+          "name": "Fatehgarh Sahib",
+          "slug": "fatehgarh-sahib"
+        },
+        {
+          "n": 56,
+          "name": "Amloh",
+          "slug": "amloh"
+        }
+      ]
+    },
+    {
+      "name": "Ludhiana",
+      "slug": "ludhiana",
+      "acs": [
+        {
+          "n": 57,
+          "name": "Khanna",
+          "slug": "khanna"
+        },
+        {
+          "n": 58,
+          "name": "Samrala",
+          "slug": "samrala"
+        },
+        {
+          "n": 59,
+          "name": "Sahnewal",
+          "slug": "sahnewal"
+        },
+        {
+          "n": 60,
+          "name": "Ludhiana East",
+          "slug": "ludhiana-east"
+        },
+        {
+          "n": 61,
+          "name": "Ludhiana South",
+          "slug": "ludhiana-south"
+        },
+        {
+          "n": 62,
+          "name": "Atam Nagar",
+          "slug": "atam-nagar"
+        },
+        {
+          "n": 63,
+          "name": "Ludhiana Central",
+          "slug": "ludhiana-central"
+        },
+        {
+          "n": 64,
+          "name": "Ludhiana West",
+          "slug": "ludhiana-west"
+        },
+        {
+          "n": 65,
+          "name": "Ludhiana North",
+          "slug": "ludhiana-north"
+        },
+        {
+          "n": 66,
+          "name": "Gill (SC)",
+          "slug": "gill"
+        },
+        {
+          "n": 67,
+          "name": "Payal (SC)",
+          "slug": "payal"
+        },
+        {
+          "n": 68,
+          "name": "Dakha",
+          "slug": "dakha"
+        },
+        {
+          "n": 69,
+          "name": "Raikot (SC)",
+          "slug": "raikot"
+        },
+        {
+          "n": 70,
+          "name": "Jagraon (SC)",
+          "slug": "jagraon"
+        }
+      ]
+    },
+    {
+      "name": "Moga",
+      "slug": "moga",
+      "acs": [
+        {
+          "n": 71,
+          "name": "Nihal Singhwala (SC)",
+          "slug": "nihal-singhwala"
+        },
+        {
+          "n": 72,
+          "name": "Bhagha Purana",
+          "slug": "bhagha-purana"
+        },
+        {
+          "n": 73,
+          "name": "Moga",
+          "slug": "moga"
+        },
+        {
+          "n": 74,
+          "name": "Dharamkot",
+          "slug": "dharamkot"
+        }
+      ]
+    },
+    {
+      "name": "Ferozepur",
+      "slug": "ferozepur",
+      "acs": [
+        {
+          "n": 75,
+          "name": "Zira",
+          "slug": "zira"
+        },
+        {
+          "n": 76,
+          "name": "Firozpur City",
+          "slug": "firozpur-city"
+        },
+        {
+          "n": 77,
+          "name": "Firozpur Rural (SC)",
+          "slug": "firozpur-rural"
+        },
+        {
+          "n": 78,
+          "name": "Guru Har Sahai",
+          "slug": "guru-har-sahai"
+        }
+      ]
+    },
+    {
+      "name": "Fazilka",
+      "slug": "fazilka",
+      "acs": [
+        {
+          "n": 79,
+          "name": "Jalalabad",
+          "slug": "jalalabad"
+        },
+        {
+          "n": 80,
+          "name": "Fazilka",
+          "slug": "fazilka"
+        },
+        {
+          "n": 81,
+          "name": "Abohar",
+          "slug": "abohar"
+        },
+        {
+          "n": 82,
+          "name": "Balluana (SC)",
+          "slug": "balluana"
+        }
+      ]
+    },
+    {
+      "name": "Sri Muktsar Sahib",
+      "slug": "sri-muktsar-sahib",
+      "acs": [
+        {
+          "n": 83,
+          "name": "Lambi",
+          "slug": "lambi"
+        },
+        {
+          "n": 84,
+          "name": "Gidderbaha",
+          "slug": "gidderbaha"
+        },
+        {
+          "n": 85,
+          "name": "Malout (SC)",
+          "slug": "malout"
+        },
+        {
+          "n": 86,
+          "name": "Muktsar",
+          "slug": "muktsar"
+        }
+      ]
+    },
+    {
+      "name": "Faridkot",
+      "slug": "faridkot",
+      "acs": [
+        {
+          "n": 87,
+          "name": "Faridkot",
+          "slug": "faridkot"
+        },
+        {
+          "n": 88,
+          "name": "Kotkapura",
+          "slug": "kotkapura"
+        },
+        {
+          "n": 89,
+          "name": "Jaitu (SC)",
+          "slug": "jaitu"
+        }
+      ]
+    },
+    {
+      "name": "Bathinda",
+      "slug": "bathinda",
+      "acs": [
+        {
+          "n": 90,
+          "name": "Rampura Phul",
+          "slug": "rampura-phul"
+        },
+        {
+          "n": 91,
+          "name": "Bhucho Mandi (SC)",
+          "slug": "bhucho-mandi"
+        },
+        {
+          "n": 92,
+          "name": "Bathinda Urban",
+          "slug": "bathinda-urban"
+        },
+        {
+          "n": 93,
+          "name": "Bathinda Rural (SC)",
+          "slug": "bathinda-rural"
+        },
+        {
+          "n": 94,
+          "name": "Talwandi Sabo",
+          "slug": "talwandi-sabo"
+        },
+        {
+          "n": 95,
+          "name": "Maur",
+          "slug": "maur"
+        }
+      ]
+    },
+    {
+      "name": "Mansa",
+      "slug": "mansa",
+      "acs": [
+        {
+          "n": 96,
+          "name": "Mansa",
+          "slug": "mansa"
+        },
+        {
+          "n": 97,
+          "name": "Sardulgarh",
+          "slug": "sardulgarh"
+        },
+        {
+          "n": 98,
+          "name": "Budhlada (SC)",
+          "slug": "budhlada"
+        }
+      ]
+    },
+    {
+      "name": "Sangrur",
+      "slug": "sangrur",
+      "acs": [
+        {
+          "n": 99,
+          "name": "Lehragaga (SC)",
+          "slug": "lehragaga"
+        },
+        {
+          "n": 100,
+          "name": "Dirba (SC)",
+          "slug": "dirba"
+        },
+        {
+          "n": 101,
+          "name": "Sunam",
+          "slug": "sunam"
+        },
+        {
+          "n": 107,
+          "name": "Dhuri",
+          "slug": "dhuri"
+        },
+        {
+          "n": 108,
+          "name": "Sangrur",
+          "slug": "sangrur"
+        }
+      ]
+    },
+    {
+      "name": "Barnala",
+      "slug": "barnala",
+      "acs": [
+        {
+          "n": 102,
+          "name": "Bhadaur (SC)",
+          "slug": "bhadaur"
+        },
+        {
+          "n": 103,
+          "name": "Barnala",
+          "slug": "barnala"
+        },
+        {
+          "n": 104,
+          "name": "Mehal Kalan (SC)",
+          "slug": "mehal-kalan"
+        }
+      ]
+    },
+    {
+      "name": "Malerkotla",
+      "slug": "malerkotla",
+      "acs": [
+        {
+          "n": 105,
+          "name": "Malerkotla",
+          "slug": "malerkotla"
+        },
+        {
+          "n": 106,
+          "name": "Amargarh",
+          "slug": "amargarh"
+        }
+      ]
+    },
+    {
+      "name": "Patiala",
+      "slug": "patiala",
+      "acs": [
+        {
+          "n": 109,
+          "name": "Nabha (SC)",
+          "slug": "nabha"
+        },
+        {
+          "n": 110,
+          "name": "Patiala Rural",
+          "slug": "patiala-rural"
+        },
+        {
+          "n": 111,
+          "name": "Rajpura",
+          "slug": "rajpura"
+        },
+        {
+          "n": 113,
+          "name": "Ghanaur",
+          "slug": "ghanaur"
+        },
+        {
+          "n": 114,
+          "name": "Sanaur",
+          "slug": "sanaur"
+        },
+        {
+          "n": 115,
+          "name": "Patiala",
+          "slug": "patiala"
+        },
+        {
+          "n": 116,
+          "name": "Samana",
+          "slug": "samana"
+        },
+        {
+          "n": 117,
+          "name": "Shutrana",
+          "slug": "shutrana"
+        }
+      ]
+    }
+  ]
+}
