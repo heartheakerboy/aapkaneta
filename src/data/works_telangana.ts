@@ -3439,3 +3439,682 @@ telanganaWorks['revuri-prakash-reddy'] = [
 // - BJP spokesperson "Prakash Reddy" ki budget/PM-Modi wali khabaren (ANI via indiasnews, FirstIndia) — REJECT: ye ALAG vyakti hai (BJP neta), Parkal MLA Revuri Prakash Reddy NAHI (pehchan-jaal me note).
 // - Kadiyam Kavya (Warangal MP) ke Voter-list seminar jaisi khabaren jisme MLA upasthit the — REJECT: MPLADS/dusre neta ke karyakram me keval maujoodgi (Indian Chronicle e-paper, 30 May 2026).
 
+// Telangana — Batch 10: Hanumakonda + Jayashankar Bhupalpally + Bhadradri Kothagudem (28-30/33 jile, 16 entries).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/tg10_worker_<slug>_works.ts.
+
+
+// ==== Hanumakonda (Batch 10) ====
+// naini-rajender-reddy — 7 entries (QA-checked).
+telanganaWorks['naini-rajender-reddy'] = [
+  {
+    title: 'Warangal West MLA Naini Rajender Reddy ne 11 April 2025 ko Hanamkonda me Rs 28 crore ki lagat se banne wale naye Government Polytechnic College bhavan ka bhoomi pujan aur shilanyas kiya; karyakram me Warangal MP Kadiyam Kavya, Wardhannapet MLA K.R. Nagaraju, KUDA chairman aur Hanamkonda collector bhi maujood the.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/foundation-laid-for-rs-28-crore-polytechnic-college-in-hanamkonda-1872341',
+    date: '2025-04-11',
+    note: 'Deccan Chronicle ki post-event reporting (11 Apr 2025) — “foundation stone being laid ... on Friday” aur “MLA Naini Rajender Reddy performed the bhoomi puja”. Fund-disclosure: vartaman Congress sarkar ke tahat purane khasta bhavan ko badalne ki funding swikrit ho chuki thi (srot-spasht); MP aur padosi MLA ki maujoodgi shared karyakram tha, isliye credit capped — mukhya vyaktigat bhoomika bhoomi pujan ki. MLA ke CDP fund se jodne ka srot me zikr nahi, isliye “ghoshit nahi” imaandaari se. Engineering college me upgrade karne ki yojana lekh me daawa-stage par hai, entry nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Naini Rajender Reddy ne 24 August 2026 ko Warangal West seat ke 4th division me Rs 1.19 crore ki lagat se internal CC sadkon aur drainage suvidhaon ka shilanyas kiya — Jyothibas Nagar, Peddammagadda, Akshara Colony aur aaspaas ke kshetron me kaam honge.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/warangal-west-mla-pushes-for-faster-colony-development-1113684',
+    date: '2026-08-24',
+    note: 'The Hans India ki post-event reporting (25 Aug 2026) me “on Monday” — 24 Aug 2026 somvaar tha (date-command se verify; tithi inferred, reasoning disclosed). Lagat Rs 1.19 crore srot me ghoshit; fund-srot ghoshit nahi. MLA ne adhikariyon aur thekedaaron ko ek mahine me gunvatta ke saath kaam poora karne ka nirdesh diya.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Naini Rajender Reddy ne 5 September 2026 ko Police Headquarters ke pichhle kshetra (52nd Division, Rs 60 lakh) aur Padmashaliwada (6th Division, Rs 30 lakh) me kul Rs 90 lakh ki lagat se internal sadkon ke shilanyas kiye.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/naini-pushes-development-in-warangal-west-1118582',
+    date: '2026-09-05',
+    note: 'The Hans India ki post-event reporting (6 Sep 2026) me “on Saturday” — 5 Sep 2026 shanivaar tha (date-command se verify; tithi inferred, reasoning disclosed). Dono kshetron ki alag-alag lagat srot me ghoshit; fund-srot ghoshit nahi. MLA ne nirdharit samay-seema me gunvatta ke saath kaam poora karne ka nirdesh diya.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Naini Rajender Reddy aur District Collector Chahat Bajpai ne 22 September 2026 ko Warangal West seat ki Peddammagadda Colony me Rs 1.43 crore ki lagat se banne wale Urban Primary Health Care Centre ka shilanyas kiya.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/telangana/peddammagadda-to-get-new-urban-primary-health-centre-1124628',
+    date: '2026-09-22',
+    note: 'The Hans India ki post-event reporting (23 Sep 2026) me “on Tuesday” — 22 Sep 2026 mangalvaar tha (date-command se verify; tithi inferred, reasoning disclosed). Lagat Rs 1.43 crore srot me ghoshit; fund-srot ghoshit nahi. Isi karyakram me Ambedkar Bhavan ke liye fund ka ashwasan diya gaya tha — wo sirf ashwasan hai, entry nahi (REJECT-LOG dekhen).',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Naini Rajender Reddy ne 26 September 2026 ko 59th Division ki Excise Colony me Rs 1.05 crore ki lagat se internal sadkon aur side drainage ka shilanyas kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/planned-road-development-in-warangal-after-drainage-works-1126042',
+    date: '2026-09-26',
+    note: 'The Hans India ki post-event reporting (27 Sep 2026) me “on Saturday” — 26 Sep 2026 shanivaar tha (date-command se verify; tithi inferred, reasoning disclosed). Lagat Rs 1.05 crore srot me ghoshit; fund-srot ghoshit nahi. Shahar-stariya underground drainage pariyojna CM ki pehal par alag chal rahi hai — uska shrey is entry me nahi joda gaya.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Naini Rajender Reddy ne 6 October 2026 ko 57th Division me Gokulnagar, Sammayyanagar aur aaspaas ki coloniyon me Rs 2.52 crore ki lagat se internal sadkon aur side drainage ka shilanyas kiya, taaki bhaari baarish me gharon me ghusne wale paani ki samasya ka sthaayi samadhaan ho.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/hanumakonda-takes-up-rs-2052-crore-road-and-drainage-works-1129683',
+    date: '2026-10-06',
+    note: 'The Hans India ki post-event reporting (7 Oct 2026) me “on Tuesday” — 6 Oct 2026 mangalvaar tha (date-command se verify; tithi inferred, reasoning disclosed). Lagat Rs 2.52 crore srot me ghoshit; fund-srot ghoshit nahi. Isi lekh me Ambedkar Junction se Vaddepalli Church tak sadak-chaudikaran ke Rs 18 crore ke swikrit-tender ka zikr hai — kaam “shighra shuru hoga” stage par hai, isliye wo pre-event ghoshna entry nahi (REJECT-LOG dekhen).',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Naini Rajender Reddy ne 29 September 2026 ko Muslim alpasankhyakon ke liye Shadikhana nirman hetu 0.25 acre zameen ka allotment dastavez dharmik netaon aur sthaniya buzurgo ko saunpa; isse pehle alpasankhyak pratinidhiyon ke saath site ka nirikshan kiya gaya tha aur sadak-connectivity aur nirman-yogyata jaanchi gayi thi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/naini-highlights-plans-for-minorities-welfare-1127085',
+    date: '2026-09-29',
+    note: 'The Hans India ki post-event reporting (30 Sep 2026) me “on Tuesday” — 29 Sep 2026 mangalvaar tha (date-command se verify; tithi inferred, reasoning disclosed). Dastavez ka hastantaran karyakram me hua — ye keval ghoshna nahi, sarkari zameen-aavantan ki dastavezi kaarvayi hai (itemized sanction jaisi). Nirman lagat srot me ghoshit nahi. Nirman “tez karne ka ashwasan” bhavishya-vada hai, is entry ka aadhaar nahi.',
+    period: '2023-2028',
+    stage: 'swikriti',
+  },
+];
+
+// ================= REJECT-LOG (naini-rajender-reddy, Warangal West, INC — researched 2026-10-18) =================
+// R1. Deccan Chronicle, ~Aug 2025: 'Warangal Poised to Be Sports Hub' — MLA ne Wardhannapet MLA ke saath
+//     11th Telangana Athletics Championship (under-20) ka udghatan kiya aur CM se cricket stadium/sports
+//     school ki maang ka zikr kiya. Khel-pratiyogita ka udghatan hai, kisi bhautik sanrachna ka lokarpan
+//     nahi; stadium/school sirf maang. REJECT (samaroh; sirf maang).
+//     URL: https://www.deccanchronicle.com/amp/southern-states/telangana/warangal-poised-to-be-sports-hub-warangal-west-mla-1895378
+// R2. Deccan Chronicle, ~Dec 2024: Greater Warangal Press Club me compound wall ka shilanyas (Parkal MLA
+//     aur DCC president ke saath). Press Club ki chaar-diwari spasht roop se sarkari sanrachna nahi hai
+//     aur lagat/fund-srot ka srot me zikr nahi. REJECT (bhautik sarkari sanrachna nahi; fund undisclosed).
+//     URL: https://www.deccanchronicle.com/amp/southern-states/telangana/leaders-who-didnt-act-for-10-years-speaking-now-warangal-mla-1849856
+// R3. New Indian Express, 13 Dec 2024: 'Telangana's Kaloji auditorium develops cracks within a month of
+//     opening' — Kaloji Kalakshetram ka lokarpan CM Revanth Reddy ne kiya tha; MLA ne sirf tippani ki
+//     (BRS kaal me kharab nirman, Congress ne baaki kaam poora kiya). MLA ki vyaktigat lokarpan/shilanyas
+//     bhoomika nahi. REJECT (CM-led karyakram me maujoodgi/tippani).
+//     URL: https://www.newindianexpress.com/states/telangana/2024/Dec/13/telanganas-kaloji-auditorium-develops-cracks-within-a-month-of-opening
+// R4. New Indian Express, 15 Oct 2026: Warangal Super Speciality Hospital ka nirikshan — mantriyon,
+//     MP aur MLAs ke saath MLA ne nirikshan kiya; lokarpan CM karenge (Dec 15 ke baad). Sirf nirikshan,
+//     MLA ki vyaktigat lokarpan-bhoomika nahi. REJECT (sirf nirikshan/daura; CM-led pariyojna).
+//     URL: https://www.newindianexpress.com/states/telangana/2026/Oct/15/warangal-super-speciality-hospital-to-be-inaugurated-after-dec-15-op-services-from-oct-20
+// R5. Deccan Chronicle, 21 Feb 2026: Rs 28 crore Polytechnic punarnirman ka nirikshan — mahila hostel
+//     samay se pehle poora hua, MLA ne adhikariyon ko gunvatta ka nirdesh diya. Sirf nirikshan hai;
+//     shilanyas April 2025 me ho chuka tha (entry E1). REJECT (sirf nirikshan; dohrava nahi).
+//     URL: https://www.deccanchronicle.com/southern-states/telangana/new-polytechnic-building-must-last-seven-decades-says-mla-1938885
+// R6. Shakambari Festival udghatan (Bhadrakali Temple), Navaratri utsav udghatan (DC, Oct 2026),
+//     Beti Bachao-Beti Padhao varshgaanth (Telangana Tribune) — dharmik/sarkari samaroh ke udghatan;
+//     koi bhautik sanrachna ka kaam nahi. REJECT (samaroh/mukhya-atithi).
+// R7. The Hans India, 7 Oct 2026 (E6 wala lekh): 'Rs 18 crore had been sanctioned for widening the road
+//     from Ambedkar Junction to Vaddepalli Church. The tender process has been completed, with work
+//     expected to begin shortly.' — swikriti ki ghoshna hai lekin kaam shuru nahi hua; pre-event
+//     announcement. REJECT (sirf ghoshna; lead ke roop me track rakhen).
+// R8. The Hans India, 23 Sep 2026 (E4 wala lekh): Ambedkar Bhavan ke liye 'necessary funds would be
+//     allocated' — sirf ashwasan. REJECT (sirf ghoshna/maang).
+// R9. The Hans India (Sep 2026): 'Warangal to be developed on lines of Hyderabad' press conference —
+//     Rs 300 crore airport land acquisition, Rs 550 crore filter-bed, Rs 5,300 crore underground
+//     drainage aadi ke daave. CM-led shahar-stariya pariyojnaon par press-bayaan hai, MLA ka vyaktigat
+//     shilanyas/lokarpan nahi. REJECT (sirf ghoshna/bayaan; CM ke karyakram).
+//     URL: https://www.thehansindia.com/telangana/warangal-to-be-developed-on-lines-of-hyderabad-mla-naini-1124626
+// R10. Deccan Chronicle, 22 Sep 2026: 'CM Focuses On Warangal's Future Development' — Super Specialty
+//     Hospital ko Dasara gift ke roop me samarpit karne ki CM ki yojana ka zikr; MLA ka bayaan.
+//     REJECT (ghoshna; MLA ki bhoomika nahi).
+//     URL: https://www.deccanchronicle.com/southern-states/telangana/cm-focuses-on-warangals-future-development-naini-1989706
+// R11. Deccan Chronicle, ~May 2026: KTR par FIR — complaint Naini Rajender Reddy aur K.R. Nagaraju ne
+//     darj karayi thi (KTR ke bayaan par). Isme MLA complainant hain, aaropi NAHI — negative nahi.
+//     REJECT as negative.
+//     URL: https://www.deccanchronicle.com/southern-states/telangana/fir-against-ktr-for-remarks-against-rahul-cm-revanth-1955232
+// R12. Deccan Chronicle, Oct 2026: KCR par Warangal zila-vibhajan ka aarop; vote-chori virodh rally;
+//     The Hans India, Oct 2026: India alliance democracy walk — sab virodh-pradarshan/bayaan hain,
+//     vikas-kaam nahi. REJECT (works-category me nahi aata).
+// R13. Telangana Tribune (non-whitelist): Sankranthi par double-bedroom makaan vitaran ki ghoshna;
+//     Medicover Hospital (niji) udghatan me maujoodgi; X Spaces par vikas-daave — whitelist bahar ya
+//     sirf ghoshna/samaroh. REJECT.
+// R14. Shakambari Festival Hyderabad Feed link (non-whitelist, hyderabadfeed.com) — utsav udghatan,
+//     whitelist se bahar bhi. REJECT.
+// NEGATIVE-CHECK: Vartaman karyakaal (Dec 2023+) me MLA ke KHILAAF koi nayi FIR, chargesheet, janch ya
+//     nyayik vikas whitelist media me nahi mila — negative entry 0. Halafname (myneta.info, Telangana
+//     2023) me 8 lambit criminal cases hain (FIRs 2015–2023: Hanamkonda Crime No.206/2017 hatya-sazish
+//     sahit — A-4, 2021 me discharge-arzi kharij; 343/2023, 216/2023 aadi) — sab PRE-TERM hain aur
+//     vartaman karyakaal me koi nyayik vikas nahi mila; halafname akele negative nahi banta (niyamanusaar).
+//     URLs: https://www.myneta.info/Telangana2023/candidate.php?candidate_id=340,
+//     https://indiankanoon.org/doc/78442566/ (2021 ka revision case, pre-term).
+// ============== RETRY LEADS (page nahi khula ya whitelist-bahar srot — entry nahi banayi) ==============
+// L1. Deccan Chronicle, ~29 Aug 2026: 'Telangana: Athletes Urged To Make Use Of Sports Facilities' —
+//     snippet ke anusaar National Sports Day par MLA Naini Rajender Reddy aur Collector Chahat Bajpai ne
+//     Hanamkonda ke JNS complex me renovated badminton indoor stadium aur swimming pool ka udghatan kiya.
+//     Page fetch 403 par fail hua (runtime directive ke anusaar retry nahi kiya). Khulne par sambhavit
+//     'lokarpan' entry (category Any, badge news) — khulne par date/udghatan-bhoomika verify karen.
+//     URL: https://www.deccanchronicle.com/amp/southern-states/telangana/telangana-athletes-urged-to-make-use-of-sports-facilities-1983283
+// L2. Indian Chronicle epaper, 29 Jun 2026 (NON-WHITELIST): 'On Sunday, the MLA laid the foundation stone
+//     for CC roads and drainage works worth Rs 97.92 lakh in Gokul Nagar, Ashok Colony, and Vikas Nagar
+//     under the 57th Division.' — whitelist outlet me cross-verify hone par 'shilanyas' entry (Sadak).
+//     URL: https://epaper.indianchronicledaily.com/media/2026-06/29-ic-district.pdf
+// L3. South India Times epaper, 4 May 2026 (NON-WHITELIST): SBH Colony me Rs 163 lakh (Baldia General Fund),
+//     Teachers Colony Phase-1 me Rs 168 lakh (Baldia General Fund), aur Dasyam Pranai Bhaskar Road area me
+//     Rs 130 lakh ke CC roads/drainage karyon ka shilanyas — '(West) Legislator Naini Rajender Reddy laid the
+//     foundation stone'. Whitelist outlet me cross-verify hone par 'shilanyas' entry (Sadak).
+//     URL: https://epaper.thesouthindiatimes.com/media/2026-05/hyd-tsit-4th-may-2026-pdf.pdf
+
+// konda-surekha — 6 entries (QA-checked).
+telanganaWorks['konda-surekha'] = [
+  {
+    title: 'Warangal East vidhansabha kshetra me Rs 5.87 crore ke vikas karyon ka shilanyas kiya — Mayor, Collector aur GWMC Commissioner ke saath',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/warangal-will-see-hyd-like-development-konda-surekha-1898935',
+    date: '2025-08-21',
+    note: 'Deccan Chronicle ki post-event report ke mutabik, mantri Konda Surekha ne Mayor Gundu Sudharani, Collector Satya Sharada aur GWMC Commissioner Chahat Bajpai ke saath Warangal East Assembly constituency me Rs 5.87 crore ke vikas karyon ka shilanyas kiya. Inferred-date disclosure: DC page ke text me prakashan tareekh nahi dikhi; search index ke ‘423 days ago’ (~21 Aug 2025) aur report ke ‘Thursday’ ullekh ke mel se (21 Aug 2025 Thursday tha) ye tareekh li gayi hai. Fund disclosure: karyon ka mad-var vivran ya fund-source report me nirdisht nahi — ‘ghoshit nahi’. Usi karyakram me unhone Beerannakunta Government School me mid-day meal parosa (123 schools, first phase) aur naye ration card vitaran ki jan-sabha ko sambodhit kiya — ye yojna-vitran/samaroh hai, is entry ka vishay nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Krishna College (sarkari girls junior college aur high school, Warangal) ke Rs 5.98 crore ke naye bhavan-samuh ke nirman ka zimma vyaktigat roop se sambhala — TGEWIDC ka mad-var anuman taiyaar',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/fresh-funds-for-krishna-college-school-for-girls-in-warangal-1850988',
+    date: '2024-12-31',
+    note: 'Deccan Chronicle (31 Dec 2024) ki report ke mutabik, Station Road, Krishna Colony (Warangal city) sthit sarkari girls junior college aur high school (Krishna College) ki 70-saal purani jirna building ki jagah naye bhavan-samuh ke liye Telangana Education and Welfare Infrastructure Development Corporation (TGEWIDC) ne anuman yojna taiyaar ki — kul Rs 5.98 crore, jisme junior college ke liye Rs 4.5 crore aur high school ke liye Rs 1.48 crore aavantit. Report me darj hai ki ‘endowment minister and Warangal east MLA Konda Surekha personally took charge of the construction’. Credit disclosure: pariyojna ki pahal unke pati aur poorv MLC Konda Muralidhar Rao ne ki thi (August me college ka nirikshan karke jirna halat pehchani); Surekha ne nirman ka zimma liya. College ke principal aur school ke headmaster ne Hyderabad Secretariat me unse milkar dhanyavad diya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa — Warangal East me 3,500 Indiramma ghar yogya parivaron ko aavantit, 3,500 aur isi saal ke agle charan me swikrit honge',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/warangal-will-see-hyd-like-development-konda-surekha-1898935',
+    date: '2025-08-21',
+    note: 'MLA ka dawa — Deccan Chronicle ki report (inferred-date: entry 1 jaisi hi, search index ~21 Aug 2025 + ‘Thursday’ ullekh) me Surekha ne kaha ki Warangal East constituency me Indiramma housing scheme ke tahat 3,500 ghar yogya parivaron ko aavantit ho chuke hain aur agle charan me isi saal 3,500 aur swikrit honge. Credit capped: ye sirf mantri ka sarvajanik dawa hai — labharthi-suchi ya swikriti-aadesh ka itemized vivran report me nahi diya gaya, isliye credit isi dawe tak seemit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa — Warangal East me community hall, shamshan-ghaton ki chaar-diwari aur bhoomigat nale-pariyojnaon par kaam chal raha hai',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/minister-surekha-assures-recognition-for-loyal-congress-workers-1970355',
+    date: '2026-07-12',
+    note: 'MLA ka dawa — Deccan Chronicle ki 12 Jul 2026 (Sunday) ki report me mantri Surekha ne kaha ki Warangal East me community hall, shamshan-ghaton (cremation grounds) ki chaar-diwari aur bhoomigat nale (underground drainage) pariyojnaon par kaam chal raha hai aur nale-samasya ka sthayi samadhan jald hoga. Credit capped: ye sirf mantri ka sarvajanik dawa hai — koi rashi, itemized karya-suchi ya swatantra pushti report me nahi di gayi, isliye credit isi dawe tak seemit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'BRS neta K. T. Rama Rao ki aapradhik maan-hani shikayat (C.C. No. 307 of 2025) me Nampally adalat ne 11 Dec 2025 ko unki gair-haziri par gair-zamanati warrant (NBW) jari kiya — agali sunvai 5 Feb 2026 tay',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/court-issues-nbw-against-min-surekha-in-ktrs-defamatory-case/articleshow/125920669.cms',
+    date: '2025-12-11',
+    note: 'Times of India ki report ke mutabik, Special Judicial First Class Magistrate (JFCM) for Excise cases, Nampally ne 11 Dec 2025 (Thursday) ko Konda Surekha ke khilaf non-bailable warrant jari kiya — KTR ki aapradhik maan-hani shikayat (C.C. No. 307 of 2025) ki sunvai me ve upasthit nahi hui thin. Nampally criminal court ki website par case status me darj tha: ‘The accused called absent. Issue NBW call on Feb 5, 2026.’ Adalat ne mamla 5 Feb 2026 ki sunvai par lagaya. Prishthabhoomi: Oct 2024 me Surekha ne KTR ko do Tollywood kalakaron ke talak se jodne wali kathit apmanjanak tippaniyan ki thin; KTR ki shikayat me aarop tha ki unhone chhavi kharab karne ke oblique motive se aur sasti lokpriyata ke liye tippaniyan ki thin; Surekha ne baad me apni tippaniyan wapas le li thin. Jawaab-disclosure: mantri ke staff ne NBW jari hone se inkaar kiya aur dawa kiya ki adalat ne sirf 5 Feb 2026 ko upasthit hone ka nirdesh diya hai. STAGE-SPASHT: mamla vicharadhin hai — 5 Feb 2026 ki sunvai ka parinam whitelisted media me nahi mila (retry lead).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Abhineta Akkineni Nagarjuna ki aapradhik maan-hani shikayat par chali adalati karyavahi 13 Nov 2025 ko samapt — Surekha ke sarvajanik khed vyakt karne ke baad Nagarjuna ne shikayat wapas li, adalat ne mamla kharij kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (The Week)',
+    sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/11/13/lgm5-tl-court-minister-nagarjuna.amp.html',
+    date: '2025-11-13',
+    note: 'PTI ki 13 Nov 2025 ki report ke mutabik, magistrate court ne Telangana mantri Konda Surekha ke khilaf maan-hani karyavahi band kar di — abhineta Akkineni Nagarjuna ne BNSS ki dhaara 280 ke tahat shikayat-wapsi ki arzi di, adalat ne use manzoor kiya; Nagarjuna ne adalat ko virtually suchit kiya ki ve mamla wapas le rahe hain, ‘case dismissed as withdrawn’. Prishthabhoomi: Oct 2024 me Surekha ki kathit apmanjanak tippaniyon (unke bete Naga Chaitanya se judi) par Nagarjuna ne aapradhik maan-hani ki shikayat dayar ki thi; adalat ne pehle Nagarjuna aur anyon ke bayaan darj kiye the. Jawaab/raahat: 12 Nov 2025 (Wednesday) ko Surekha ne X par khed vyakt karke bayaan wapas liye — ‘I had no intention of hurting or defaming Akkineni Nagarjuna Garu or his family members. I regret any unintended impression given in my statements in relation to them and withdraw the same.’ STAGE-SPASHT: mamla wapas-liye-jane par kharij ho chuka hai — koi dosh-siddhi nahi hui.',
+    period: '2023-2028',
+  },
+];
+
+// ================= REJECT-LOG (konda-surekha) =================
+// SCOPE-OUT (task nirdesh — rajya-stariya, seat-kaam nahi):
+// S1. Van-mahotsav: DC ‘Put Warangal on top in Vana Mahotsavam’ — van vibhag ka
+//     rajya karyakram; task me spasht mana hai. REJECT.
+//     URL: https://www.deccanchronicle.com/amp/southern-states/telangana/put-warangal-on-top-in-vana-mahotsavam-minister-surekha-tells-officials-1809722
+// S2. Godavari Pushkaralu taiyariyan (Hans India, ~Aug 2026): endowments mantri ke
+//     roop me rajya-stariya dharmik-ayojan; seat-kaam nahi. REJECT.
+//     URL: https://www.thehansindia.com/telangana/govt-making-extensive-arrangements-for-godavari-pushkaralu-konda-surekha-1115759
+// S3. Akshaya Patra central kitchen, Warangal me equipment/office-block udghatan
+//     (DC, ~Dec 2025): niji foundation (ISKCON-affiliated NGO) ki rasoi me mukhya-
+//     atithi ke roop me upkaran-udghatan — CSR/mukhya-atithi samaroh, sarkari
+//     sanrachna nahi. REJECT.
+//     URL: https://www.deccanchronicle.com/southern-states/telangana/minister-konda-surekha-inaugurates-state-of-the-art-equipment-at-akshaya-patras-kitchen-in-warangal-1925612
+// WORKS REJECTS:
+// R1. Kanaka Durga mandir (Narsampet Road, Warangal) me Navaratri utsav ka deep-
+//     prajwalan kar udghatan (Hans India, 12 Oct 2026) — keval dharmik samaroh ka
+//     shubharambh; koi bhautik sanrachna/sanction nahi. REJECT.
+//     URL: https://www.thehansindia.com/news/cities/warangal/konda-surekha-inaugurates-navaratri-festivities-at-kanaka-durga-temple-1131454
+// R2. CM Relief Fund ke Rs 61 lakh ke cheque 111 labharthiyon ko vitaran (DC via
+//     Dailyhunt, 29 Sep 2026) — rahat/daan shreni; waise bhi Dailyhunt aggregator
+//     hai (whitelist me nahi). REJECT.
+// R3. Sarkari girls junior college bhavan (Krishna Colony) ka CSR-nirman samaroh
+//     (TOI, 16 May 2025): TOI ki post-event report keval ‘a function for a building
+//     to be built by a private firm ... under CSR’ batati hai — shilanyas ki pushti
+//     whitelisted source par nahi mili (IANS wire par ‘foundation stone’ sirf
+//     non-whitelisted sites par). TOI ke shabdon me ye CSR samaroh hai — REJECT.
+//     Retry lead: kisi whitelisted outlet me 15 May 2025 ke shilanyas ki spasht
+//     post-event report mile to entry banegi.
+//     URL: https://timesofindia.indiatimes.com/city/hyderabad/opp-distorting-my-statement-konda-surekha/amp_articleshow/121218893.cms
+// R4. ‘Ministers take money to clear files’ vivad (May 2025, TOI upar): siyasi
+//     vivad; BJP ne janch ki maang ki lekin whitelisted media me koi FIR/janch/
+//     nyayik vikas nahi — negative nahi banta. REJECT as negative.
+// R5. CM Revanth Reddy ki Warangal yatra (19 Nov 2024) me Kaloji Kala Kshetram
+//     udghatan adi — CM ka karyakram; Surekha ki bhoomika ayojan-samanvay ki thi;
+//     source bhi whitelist me nahi (therahnuma.com). REJECT.
+// R6. Warangal Super Speciality Hospital nirikshan (Hans India, Oct 2026): mantriyon
+//     ka nirikshan-daura; Konda Surekha upasthit hi nahi thin — unka kaam nahi.
+//     REJECT.
+//     URL: https://www.thehansindia.com/news/cities/warangal/warangal-super-speciality-hospital-nears-completion-op-services-from-dasara-1132828
+// R7. DC (Jan 2024) ‘BRS MLAs Focused On Land Grabbing Only’: mantri ka dawa ki
+//     ‘sarkar ne har constituency ke vikas karyon ke liye Rs 10 crore aavantit kiye’
+//     — rajya-stariya dawa, seat-vishesh kaam nahi; CDP dhanche se mel bhi nahi
+//     khata. REJECT as entry.
+//     URL: https://www.deccanchronicle.com/nation/brs-mlas-focused-on-land-grabbing-only-surekha-880990
+// R8. Mid-day meal workers ka unke niwas par virodh (NIE/TT, 11-12 Aug 2025) —
+//     unke vibhag ki yojna ke khilaf virodh; koi FIR/nyayik vikas nahi — negative
+//     nahi banta. REJECT as negative.
+// NEGATIVE-RELATED NOTES (entry nahi bani):
+// N1. Halafnama (myneta.info/ADR, Telangana 2023): 5 pending criminal cases ghoshit
+//     (C.C.No.728/2022 aur 732/2022 Atmakur P.S.; Cr.No.81/2010 Mahabubabad sahit —
+//     IPC 143/147/148/149/188/307/341/427/34) — sab pre-term; Dec 2023+ me in par
+//     koi nyayik vikas whitelisted media me nahi mila — halafname ke pending mamle
+//     akele negative nahi bante. REJECT as negative.
+// N2. Mantri-mandal se hataya jana (3 Sep 2026; Governor communique, CM ki salah
+//     par — beti Konda Sushmitha ke Parkal-ticket vivad ke baad TPCC disciplinary
+//     notice ki prishthabhoomi me): party/CM action akele negative nahi. REJECT.
+//     (TOI/Hans India, Sep 2026.)
+// N3. KTR ne Oct 2024 me Rs 100 crore ka civil maan-hani dawa bhi dayar kiya tha —
+//     sirf yachika dayar karna negative nahi; aapradhik mamle ki nyayik pragati
+//     (NBW) alag entry me darj hai.
+// PARIVAR-NIYAM: pati Konda Muralidhar Rao (poorv MLC) hain — task me ‘MP Konda
+// Vishweshwar Reddy?’ ka sandeh galat hai (Vishweshwar Reddy Chevella ke BJP MP
+// hain, pati nahi). Pati/beti ke mamle is record par nahi daale gaye; Krishna
+// College pariyojna me pati ki pahal ka ullekh keval credit-disclosure hai.
+// CDP: GO (2 Jul 2021) kagaz par Rs 5 crore/varsh; neta-war kharch ka satyapit
+// record nahi mila — kisi entry ko CDP se nahi joda gaya.
+// RETRY LEADS:
+// L1. KTR maan-hani case: 5 Feb 2026 ki sunvai ka parinam (NBW par haziri hui ya
+//     warrant lagu raha) — whitelisted media me nahi mila; agli nazar me check karo.
+// L2. Rs 5.87 crore shilanyas (DC 1898935): prakashan tareekh DC page par printed
+//     nahi thi — 2025-08-21 inferred hai (search index + ‘Thursday’); live-browser
+//     run me DC page ka metadata/‘Updated On’ verify karna worth hai.
+// L3. Krishna College bhavan ka May 2025 shilanyas: whitelisted post-event report
+//     me spasht ‘foundation stone’ pushti mile to alag entry banegi (R3 dekho).
+
+
+// ==== Jayashankar Bhupalpally (Batch 10) ====
+// gandra-satyanarayana-rao — 0 entries (QA-checked).
+telanganaWorks['gandra-satyanarayana-rao'] = [];
+
+// ---- REJECT-LOG (gandra-satyanarayana-rao) ----
+// 1. The Hans India, 16 Oct 2026 (MLA outlines welfare measures for Singareni
+//    workers, Bhupalpally development): MLA ne kaha — Bhupalpally town ke liye
+//    road widening/junction development ke liye Rs 73 crore allocated, junior
+//    college development ke liye Rs 3 crore earmarked (classrooms, facilities,
+//    2 buses), cath lab + cardiac unit proposals, 300 dismissed Singareni
+//    workers ki reinstatement, income-tax burden Singareni uthayega.
+//    REJECT: sabhi items ghoshna/allocated/earmarked/proposal stage me —
+//    post-event reporting nahi (sirf ghoshna = NAHI; pre-event announcement
+//    source NAHI).
+// 2. The Hans India, ~17 Oct 2026 (Singareni to reinstate 300 sacked workers,
+//    says GSR): item 1 ka follow-up — 300 workers ki reinstatement ki baat,
+//    Rs 73 crore road widening, Rs 3 crore junior college.
+//    REJECT: item 1 jaisi ghoshnayen; koi completed/instituted work ki
+//    reporting nahi (sirf ghoshna = NAHI).
+// 3. Deccan Chronicle, 18 Feb 2026 (TGSRTC launches new rural bus services in
+//    Bhupalpally, Huzurabad): MLA Gandra Satyanarayana Rao ne Empedu village
+//    (Tekumatla mandal) se Jammikunta via Vavilala jaane wali rural bus service
+//    ka udghatan (flag-off) kiya.
+//    REJECT: bus service ka shubharambh — bhautik sarkari sanrachna ka
+//    lokarpan/shilanyas nahi (VALID rule: vyaktigat lokarpan/shilanyas
+//    bhautik sanrachnaon ka hi); seva-launch = sarkari abhiyan ka
+//    shubharambh jaisa, count nahi.
+// 4. Deccan Chronicle, ~26 Nov 2024 (Srihari launches FMD vaccination drive
+//    in Bhupalpally): Animal husbandry minister Vakiti Srihari ke saath MLA ne
+//    Regonda me NADCP/FMD vaccination camp ka udghatan kiya; mantri ne MLA ki
+//    request par Bhupalpally ke liye sports stadium aur 2 naye veterinary
+//    hospitals ki approval di. Page 403 par khula nahi (snippet-only).
+//    REJECT (entry): khul na sakne wala page — snippet-only par entry nahi
+//    (retry lead). NOTE: vaccination-camp udghatan sarkari abhiyan ka keval
+//    shubharambh hota; stadium/vet-hospital approval mantri-ashwasan tha,
+//    jiska actual sanction/foundation document srot me nahi.
+// 5. Deccan Chronicle (Munsif cross-report), ~Aug 2024 (Gandhinagar Industrial
+//    Park foundation): mantri Ponguleti Srinivas Reddy, Seethakka, Sridhar Babu
+//    ne Bhupalpally me Gandhinagar Industrial Park ka foundation stone rakha;
+//    MLA Gandra Satyanarayana Rao review meeting me upasthit tha.
+//    REJECT: dusre netaon (mantriyon) ke shilanyas karyakram me maujoodgi —
+//    MLA ki vyaktigat bhoomika/fund nahi (precedent).
+// 6. Deccan Chronicle, ~Feb 2026 (Kodavatancha temple to be developed as
+//    second Yadadri): MP Kadiyam Kavya ne Regonda mandal ke Kodavatancha Sri
+//    Lakshmi Narasimha Swamy temple ka inspection/announcement kiya; Rs 12.15
+//    crore restoration ka CM ne Feb 8 ko udghatan kiya tha; MLA saath me tha.
+//    REJECT: MP/CM ka kaam — MLA ki maujoodgi vyaktigat kaam nahi.
+// 7. New Indian Express, 1 Aug 2025 (Cattle, complaints and chaos in MLA camp
+//    office): Bhupalpally me dairy farmer K Odelu (Manjurunagar) ne municipal
+//    demolition ke baad apne bhaison ke saath MLA ke camp office me protest
+//    kiya; allegation tha ki demolition MLA ke pressure par hua (MLA ne
+//    jawab dene se inkaar kiya). CI Naresh Kumar ne confirm kiya ki Odelu ke
+//    khilaf trespass aur nuisance ka case darj hua.
+//    REJECT as negative: police case kisan (Odelu) ke khilaf darj hua, MLA ke
+//    khilaf FIR/charge-sheet/judicial development nahi — MLA aaropi column me
+//    naam nahi; sirf allegation = negative NAHI.
+// 8. Deccan Chronicle, 20 Feb 2025 (Bhupalapalli MLA seeks CB-CID probe into
+//    Murthy murder): MLA ne activist Nagavelli Rajalinga Murthy ki hatya me
+//    CB-CID jaanch ki maang ki.
+//    REJECT: sirf maang/prastav — vikas-kaam nahi.
+// 9. Deccan Chronicle, 2 Aug 2025 (Dairy Farmer Takes Buffaloes To MLA's
+//    Office After Shed Demolished): item 7 ki chhoti report.
+//    REJECT as negative: wahi wajah — MLA ke khilaf koi FIR nahi.
+// 10. Telangana Tribune, ~Nov 2024 (Who will take charge of the temple?):
+//     Bhupalpally ke Manjoor Nagar Venkateswara Swamy Temple ke Endowments
+//     department ko transfer karne par MLA (transfer chahte the) vs former MLA
+//     (Venkataramana Reddy) ka vivad.
+//     REJECT: non-whitelisted source + prashasanik maang/vivad, vikas-kaam
+//     ka lokarpan nahi.
+// 11. Young India Integrated Residential School, Bhupalpally (Oct 2024): 28
+//     locations (Bhupalpally included) par Oct 11, 2024 ko state-wide event me
+//     foundation stones rakhe gaye.
+//     REJECT: Bhupalpally school ke foundation ke post-event reporting me MLA
+//     ke vyaktigat shilanyas ka evidence nahi mila — sarkari abhiyan ka
+//     keval shubharambh.
+// 12. Lokmat Times (agency feed), 2026 (HDFC Bank CSR event): CM ne
+//     Bhupalpally ke Government General Hospital me MRI machine ka virtual
+//     udghatan kiya; MLA G Satyanarayana Rao event me upasthit tha.
+//     REJECT: CM ke udghatan me maujoodgi — MLA ka kaam nahi.
+// LEADS: (a) Deccan Chronicle FMD article (URL: https://www.deccanchronicle.com/amp/southern-states/telangana/srihari-launches-fmd-vaccination-drive-in-bhupalpally-1913162)
+//     — 403 par nahi khula; browser-session se retry par khul sake to MLA ke
+//     sports-stadium + 2 veterinary-hospital requests ki mantri-approval (mantri-
+//     ashwasan, credit capped) entry ban sakti hai; actual sanction/foundation
+//     ke bina post-event proof chahiye. (b) TGSRTC Empedu-Jammikunta bus route
+//     (18 Feb 2026, DC) — seva-launch hai; strict rule par service-launch count
+//     nahi hota, phir bhi parent confirm kar sakta hai. (c) Bhupalpally Young
+//     India Integrated School ka Bhupalpally-specific foundation report — mila
+//     nahi; koi khul-sakta whitelisted page mile to verify karna.
+
+// k-r-nagaraj — 1 entries (QA-checked).
+telanganaWorks['k-r-nagaraj'] = [
+  {
+    title: 'Wardhannapet Municipality me Rs 15 crore ki prashasanik swikriti (G.O.Rt.No.589, 18 Sep 2025) — storm-water drain, CC sadakein, culverts, CC naliyan, R&B guest house par shopping complex aur Akeru Vaagu par park',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Telangana sarkar ka GO (G.O.Rt.No.589)',
+    sourceUrl: 'https://archive.org/download/in.gov.telangana.goir.2025-09-18.municipal-administration-and-urban-development-routine-589/municipal-administration-and-urban-development-routine-589.pdf',
+    date: '2025-09-18',
+    note: 'Telangana sarkar ke Municipal Administration (Budget) Department ke G.O.Rt.No.589 (dinank 18.09.2025) ke anusar Wardhannapet Municipality me buniyadi dhanche aur vikas karyon ke liye Rs 15.00 crore ki prashasanik swikriti di gayi — mad-var suchi: Municipal office se Sangepuvaagu tak (dono taraf) storm-water drain Rs 4.00 crore, Venkateshwara Thanda se Sangepuvaagu Gravel Yard tak CC road Rs 2.50 crore, DC Thanda se Bavani Kunta Thanda Durgamma Gudi tak CC road Rs 1.75 crore, R&B guest house par shopping complex Rs 1.25 crore, andaruni CC sadakein Rs 1.50 crore, culverts Rs 1.00 crore, CC drains Rs 1.00 crore, Akeru Vaagu par park ka vikas Rs 2.00 crore (khaata-sheersh 2217-80-191-25-97-310-312, NAGARABHIVRUDHI). Stage: swikriti; nirmaan-shuruaat ki report srot me nahi. Credit disclosure: swikriti sarkar ke GO se hai; GO me MLA ki vyaktigat bhoomika ya prastav darj nahi hai, isliye credit isi GO-backed swikriti tak seemit hai. Ye CDP/MLA-nidhi se alag MA&UD vibhag ki swikriti hai.',
+    period: '2023-2028',
+    stage: 'sanction',
+  },
+];
+// REJECT-LOG (k-r-nagaraj):
+// R-1. Deccan Chronicle, 20 Apr 2026: Wardhannapet MLA ne Seethampeta (Hasanparthy mandal) me Indiramma house ka udghatan kiya (Goparaju Sugunamma ko housewarming). REJECT: sarkari abhiyaan ka keval shubharambh/housewarming samaroh, bhautik sarkari sanrachna ka vyaktigat lokarpan nahi. (https://www.deccanchronicle.com/southern-states/telangana/mla-inaugurated-indiramma-houses-in-hanamkonda-1951741)
+// R-2. The Hans India, 26 Sep 2026: MLA ne Gundlasingaram me Indiramma house ka udghatan kiya (Madasi Dayakar-Sujatha dampati ko housewarming). REJECT: R-1 jaisa hi — housewarming samaroh me maujoodgi. (https://www.thehansindia.com/news/cities/warangal/nagaraju-vows-to-ensure-houses-for-all-eligible-families-1125764)
+// R-3. Deccan Chronicle, ~Jun 2025: Badi Bata programme me Parvathagiri mandal ke sarkari schools ka nirikshan. REJECT: sirf nirikshan/daura; koi swikriti/lokarpan nahi. (https://www.deccanchronicle.com/amp/southern-states/telangana/congress-will-boost-govt-education-system-wardhannapet-mla-1883896)
+// R-4. Telangana Tribune, ~May 2025: Inavole me Kalyana Lakshmi/Shadi Mubarak ke Rs 91 lakh aur CMRF ke Rs 18 lakh ke cheque vitran. REJECT: raahat/vitaran kaam, kaam nahi; source bhi whitelist me nahi.
+// R-5. Deccan Chronicle, ~May 2025 (“Hanamkonda Highway Becomes Killer Stretch”): snippet ke mutabik MLA Nagaraju aur KUDA chairman ne Hasanparthy-Yellapur ke durghatna-prone sthalon ka nirikshan kiya, CM aur R&B mantri tak mudda uthaya aur sarkar ne road safety improvements ke liye Rs 2 crore sanction kiye. REJECT NAHI — lekin page browser me HTTP 403 de raha tha, khola nahi ja saka; snippet-only par entry banane ki manahi hai. RETRY LEAD: page khulne par verify karo: (a) swikriti ka dastavezi ullekh, (b) prakashan-tithi (~May 2025), (c) MLA ki dastavezi bhoomika. (https://www.deccanchronicle.com/amp/southern-states/telangana/hanamkonda-highway-becomes-killer-stretch-1878404)
+// R-6. Negative check — The Hans India + Telangana Today, 7-8 Oct 2026: Warangal (East) ke patrakaron ne MLA ke anuyayiyon dwara ek media organisation ke putle jalane aur patrakaron par hamle ka aarop lagate hue Pochamma Maidan par virodh kiya aur MLA se maafi ki maang ki; “chaar baar aisee ghatnayein” ka dawa. REJECT as negative: MLA KHUD kisi FIR/chargesheet/janch ke aaropi column me nahi hai; koi darj FIR ya adalati vikas ki report nahi; sirf aarop/maang = negative NAHI. (https://www.thehansindia.com/news/cities/warangal/journalists-stage-protest-demand-apology-from-wardhannapet-mla-1130114)
+// R-7. The Hans India/DC, Oct 2026: Tri-Cities Half Marathon (Hanamkonda) me MLA maujood the — mukhya atithi Minister Duddilla Sridhar Babu the. REJECT: dusre neta ke karyakram me maujoodgi.
+// R-8. Telangana Tribune, ~Oct 2024: Minister Konda Surekha ke karyakram me MLA maujood the. REJECT: dusre neta ke karyakram me maujoodgi; source bhi whitelist me nahi.
+// R-9. Halafnama check (Business Standard/Siasat, Dec 2023): criminal cases “No”. Negative entries: 0.
+// R-10. Non-whitelist coverage reject: hmtvlive (Kalyana Lakshmi Rs 34.03 lakh cheque vitran, Oct 2026; Indiramma house Gundlasingaram), Indian Chronicle epapers (alag-alag karyakram), indianwhitepaper (ZPHS Taralapalli me Bala Vikasa laptop vitran — CSR, REJECT waise bhi), eternaldigi (profile page, pre-term). Koi bhi whitelist me nahi.
+
+
+// ==== Bhadradri Kothagudem (Batch 10) ====
+// payam-venkateswarlu — 0 entries (QA-checked).
+telanganaWorks['payam-venkateswarlu'] = [];
+
+// ---- REJECT-LOG (payam-venkateswarlu) ----
+// 1. The Hans India, ~24 Sep 2026 (Marellapadu Lift Irrigation Project launched):
+//    Marellapadu LIS ka udghatan Ashwapuram mandal me hua; mantra Tummala Nageswara Rao
+//    aur Ponguleti Srinivas Reddy, MP Porika Balram Naik aur MLA Payam Venkateswarlu ke saath
+//    kaafi public representatives maujood the; MLA ne sirf swagat-bayan diya (long-pending
+//    irrigation demand poori hone ki khushi).
+//    REJECT: ye mantraon ka karyakram tha — MLA sirf aamantrit/atithi tha, vyaktigat
+//    lokarpan/shilanyas nahi (dusre neta ke karyakram me maujoodgi = NAHI, precedent).
+// 2. The Hans India, ~16 Aug 2026 (No delay in Sitarama project distributary works, directs
+//    Tummala): Agriculture Minister Tummala ne Aswapuram ke Busy Kothuru pump house ka
+//    nirikshan kiya, MLA bhi saath tha.
+//    REJECT: mantri ka nirikshan/nirdesh — MLA ki vyaktigat bhoomika/fund nahi.
+// 3. Telangana Today, 3 Sep 2026 (Polytechnic students protest GO 97): Manuguru me MLA
+//    camp office ke saamne students ka dharna; MLA ne memorandum lekar CM se suljhaane ka
+//    ashwasan diya.
+//    REJECT: sirf ashwasan — koi dastavezi nateeja/swikriti srot me nahi (sirf maang + ghoshna).
+// 4. New Indian Express, 19 Aug 2025 (All set for inauguration of Indiramma houses:
+//    Ponguleti): Minister Ponguleti ke Indiramma-houses review me MLA Payam Venkateswarlu
+//    bhi district review meeting me upasthit tha.
+//    REJECT: dusre neta (mantri) ke karyakram me maujoodgi — vyaktigat kaam nahi.
+// 5. The Hindu, 4 Aug 2025 (SBWL clears proposal for a Tiger cell at Aranya Bhavan): State
+//    Board for Wildlife ki meeting me MLA member ke taur par upasthit tha.
+//    REJECT: board-sadasya ki upasthiti — koi vyaktigat pahal/fund bhoomika nahi.
+// 6. Telangana Today, 23 Sep 2026 (Locals demand conversion of Manuguru Municipality into
+//    gram panchayat): CPI neta ne MLA ko memorandum diya (Manuguru municipality ko gram
+//    panchayat banane ki maang); MLA ki pratikriya/result srot me nahi.
+//    REJECT: sirf memorandum/maang, bina dastavezi nateeja — MLA ka kaam nahi bana.
+// 7. The Hindu, ~May 2021 (Ex-MLA convicted in note-for-vote case): 2018 Vidhan Sabha
+//    chunav me Ashwapuram village me matdataon ko paisa baantne (Rs 4,000 jabt) ke case me
+//    special court ne Payam Venkateshwarlu ko 6 mahine ki saza + Rs 10,000 fine (IPC 171-E),
+//    High Court appeal ke liye 4 hafte ka samay diya tha.
+//    REJECT as negative: ghatna/saza pre-term hai (karyakaal Dec 2023 se); whitelisted media
+//    me Dec 2023+ me is case par koi nyayik vikas (HC appeal ka faisla, jamanat, naya aadesh)
+//    nahi mila — pre-term mamla bina vartaman-karyakaal legal development = NAHI.
+// 8. Telangana Tribune, 2 Jul 2024 (Get to Know Your MLA / sapling program): ZP School
+//    Manuguru me vrikshaaropan karyakram me mukhya-atithi ke taur par MLA upasthit.
+//    REJECT: keval shubharambh/upaasthiti — bhautik sanrachna ka lokarpan nahi.
+// 9. Halafname (myneta.info, Telangana 2023, candidate_id=272): 2 criminal cases declared;
+//    assets ~Rs 7.10 crore. REJECT as negative: halafname ke pending mamle akele negative
+//    NAHI (disclosure hi hai); case details whitelisted media me nahi mili.
+// LEADS: koi khul-sakta pakka kaam nahi mila; seat-specific (Pinapaka/Manuguru/Gundala/
+// Burgampahad/Aswapuram/Karakagudem/Allapally) vyaktigat lokarpan/fund-swikriti par
+// whitelisted media coverage lagbhag shoonya — MLA low-visibility backbencher hai.
+
+// koram-kanakaiah — 0 entries (QA-checked).
+telanganaWorks['koram-kanakaiah'] = [];
+// REJECT-LOG koram-kanakaiah:
+// - The Hindu, 16 Mar 2025 (article69336835): Revenue Minister Ponguleti Srinivas Reddy ne JK Colony (Yellandu) me 100-bed government hospital (Rs 35 crore), Pubelli me Indiramma houses, aur Boi Thanda/Rompedu tribal villages me BT road works ka shilanyas kiya. Mantri ka karyakram; MLA ki vyaktigat bhoomika article me documented nahi — dusre neta ka karyakram — REJECT.
+// - New Indian Express, 10 Jan 2026 (states/telangana/2026/Jan/10/stone-laid-for-rs-317-crore-development-works-in-telanganas-yellandu): Minister Ponguleti ne Yellandu municipality ke wards 1, 4, 7, 8, 9, 18, 22, 24 me Rs 3.17 crore ke vikas kaamon ka shilanyas kiya. Article me MLA ka naam hi nahi — REJECT.
+// - Deccan Chronicle (jubilee-hill-win-shows-trust-in-cong-rule-ponguleti-1917546): Mantri ne Yellandu Area Hospital me blood bank ka udghatan kiya aur ITDA PO ko nayi ambulance + patient ward sanction karne ka nirdesh diya; "Mahbubabad MP Porika Balaram Naik and Yellandu MLA Koram Kanakaiah also attended the programme." — sirf maujoodgi — REJECT.
+// - The Hindu, 13 Mar 2026 (article70740578): Mantri ne Kamepalli mandal (Khammam district) me road works ke shilanyas kiye; "Yellandu MLA Koram Kanakaiah and others accompanied the Minister." — sirf saath-maujoodgi — REJECT.
+// - The Hans India (marellapadu-lift-irrigation-project-launched-1125104): Marellapadu Lift Irrigation scheme ka udghatan mantriyon ne kiya, MLA "attended". Project Ashwapuram mandal / Pinapaka constituency ka hai — seat ke bahar + dusre neta ka karyakram — REJECT.
+// - Telangana Today (student-unions-seek-relocation-of-bc-gurukul-from-khammam-to-tekulapalli): student unions ki MAANG ki MLA BC Gurukul Khammam se Tekulapalli shift karvayein — sirf maang, koi kaam nahi — REJECT.
+// - PTI carry on newsdrum.in, 13 Apr 2026 ("T'gana CM assures measures for comprehensive development of tribal areas"): tribal/Adivasi MLAs ke delegation ne CM Revanth Reddy ko memorandum diya (check dams, road permissions, Indiramma houses quota par CM ke ashwasan); Kanakaiah delegation me shamil. Vyaktigat bhoomika documented nahi; meeting secretariat ki thi (Vidhansabha prashn nahi); aur source established whitelist outlet par nahi — group maang — REJECT. Retry lead: isi PTI story ka version kisi whitelist outlet par mile to parent group-delegation entry par vichaar karein (vyaktigat credit nahi banega).
+// - myneta.info 2023 halafnama (context only, non-whitelist): 1 pending case — IPC Section-188 (disobedience to order duly promulgated by public servant), FIR No. 208/2018, PS Yellandu, CC number pending. Pre-term (2018) mamla; Dec 2023+ me iski FIR/chargesheet/adalati vikas ki established-media reporting nahi mili; niyam-anusar halafnama akela negative nahi banta — REJECT (negative nahi).
+// - indianchronicledaily.com e-paper (non-whitelist), 20 Jul 2026: Deputy CM Bhatti Vikramarka ne Kamepalli mandal me works launch kiye (33/11 KV substation Rs 2.85 crore, BT roads Rs 3.95 crore + Rs 5 crore); MLA attended — non-whitelist + dusre neta — REJECT. Same e-paper, 7 Oct 2026: MLA ne Tekulapalli Junior College ka surprise inspection kiya — sirf nirikshan — REJECT.
+// - DIPR/telangana.gov.in sarkari portal par "Koram Kanakaiah" ke naam ki Dec 2023+ ki koi indexed press release nahi mili — sarkari-badge yogya source nahi.
+
+// kunamneni-sambasiva-rao — 1 entries (QA-checked).
+telanganaWorks['kunamneni-sambasiva-rao'] = [
+  {
+    title: 'Kothagudem Municipal Corporation ka gathan swikrit — sarkar ne Kothagudem aur Paloncha nagarpalikaon tatha Sujatha Nagar mandal ki saat gram panchayaton ko milakar corporation banane ka faisla liya, jis par Vidhansabha me Kothagudem MLA Kunamneni Sambasiva Rao ne CM Revanth Reddy, Dy CM Bhatti Vikramarka aur Mantri Tummala Nageswara Rao ka aabhaar vyakt kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/six-municipalities-kothagudem-municipal-corporation-to-be-formed-in-telangana/article69369910.ece/amp/',
+    date: '2025-03-24',
+    note: 'The Hindu (24 Mar 2025) ke anusaar rajya sarkar ne chhah nayi nagarpalikaon ke saath Kothagudem Municipal Corporation banane ka faisla liya — Kothagudem aur Paloncha nagarpalikaon tatha Sujatha Nagar mandal ki saat gram panchayaton ka vilay karke; Telangana Municipalities (Amendment) Bill-2025 Vidhansabha me 24 Mar 2025 (Somvaar) ko paarit hua, jise Legislature Affairs Minister Duddilla Sridhar Babu ne pesh kiya tha; Kothagudem ke CPI MLA Kunamneni Sambasiva Rao ne is faisle par CM A Revanth Reddy, Dy CM Mallu Bhatti Vikramarka aur Mantri Tummala Nageswara Rao ka aabhaar vyakt kiya. Fund-rashi lekh me ghoshit nahi. CREDIT-CAP: ye rajya sarkar ka faisla hai (bill mantri ne pesh kiya); MLA ki bhoomika = lambe samay se chali aa rahi maang ka dastavezi nateeja (maang ka pramaan neeche D0 me darj) + Vidhansabha me sarvajanik aabhaar — vyaktigat lokarpan/shilanyas nahi. Date inferred nahi — article par Published - March 24, 2025 spasht hai aur bill Somvaar ko paarit hua jo isi tithi se milta hai.',
+    period: '2023-2028',
+    stage: 'swikriti',
+  },
+];
+
+// ================= REJECT-LOG (kunamneni-sambasiva-rao, Kothagudem, CPI — researched 2026-10-18) =================
+// D0. Maang-nateeja chain ka dastavez: The Hindu, 12 Dec 2023 — jeet ke baad vijay rally me MLA ne
+//     dohraya tha ki ve Kothagudem aur Palvancha shahron ko milakar municipal corporation banwane ka
+//     prayas karenge (page seedha kholkar padha gaya, premium article ka poora text mila).
+//     The Hindu, 24 Mar 2025 — sarkar ne yahi faisla liya (upar entry). Chain: maang -> parinaam.
+//     Maang wala URL: https://www.thehindu.com/news/national/telangana/lone-cpi-mla-kunamneni-sambasiva-rao-vows-to-make-peoples-voice-heard-in-assembly/article67628084.ece/amp/
+// R1. Deccan Chronicle, 12 Oct 2026: 'Bhadrachalam Road Railway Station Should Be Renamed Kothagudem' —
+//     MLA ne Railway Minister Ashwini Vaishnaw aur SCR GM ko rename ke liye patra likha.
+//     REJECT (sirf maang/patra; koi dastavezi nateeja nahi).
+//     URL: https://www.deccanchronicle.com/southern-states/telangana/bhadrachalam-road-railway-station-should-be-renamed-kothagudem-kunamneni-1995129
+// R2. Deccan Chronicle, 25 Jul 2025: 'Ration Card Application Is an Ongoing Process' — MLA ne Collector
+//     Jitesh V Patil ke saath 4,463 ration cards (7,862 vyakti) ka vitran kiya. REJECT (sarkari yojna ka
+//     vitran; bhautik sanrachna ka kaam nahi; daan/rahat-shreni ke kareeb).
+//     URL: https://www.deccanchronicle.com/amp/southern-states/telangana/ration-card-application-is-an-ongoing-process-mla-kunamneni-sambasiva-rao-1893644
+// R3. Telangana Today, 25 Sep 2026: 'BJP, CPI(M) allege irregularities in 2BHK houses beneficiaries
+//     selection' — 214 double-bedroom gharon ke draw-of-lots ki MLA aur Collector Ankit ne monitoring ki.
+//     REJECT (sirf nirikshan/monitoring; koi lokarpan/shilanyas nahi).
+//     URL: https://telanganatoday.com/bjp-cpi-m-allege-irregularities-in-2bhk-houses-beneficiaries-selection-in-kothagudem
+// R4. Telangana Today, 17 Oct 2026: Nava Limited CSR — Paloncha ke Shekhar Banjara me bane community hall
+//     ka udghatan MLA ne kiya (company release ke hawale se). REJECT (CSR kaam + sirf MLA-udghatan —
+//     SCCL-CSR precedent ke anusaar reject).
+//     URL: https://telanganatoday.com/leverage-computer-skills-for-better-future-kothagudem-deo-tells-women
+// R5. Telangana Tribune, 25-27 Jun 2024 (whitelist me NAHI): Rs 124.48 cr ki 150-km Kinnerasani-Kothagudem
+//     fresh water pipeline yojna — MLA ne ghoshna ki, lekin shilanyas Deputy CM Bhatti Vikramarka aur
+//     mantrion ne kiya; reporting pre-event bhi thi. REJECT (sirf ghoshna + doosre netaon ka shilanyas).
+// R6. Deccan Chronicle, ~Jan 2025: 'Work on Kothagudem Airport in 6 Months' — Vepalagadda se Bhrundavam tak
+//     3 km central lighting (Rs 2 cr) ka udghatan mantri Ponguleti Srinivas Reddy ne kiya; MLA, MP aur
+//     Collector keval upasthit the; airport wali baat sirf ghoshna thi. REJECT (mantri ka karyakram).
+//     URL: https://www.deccanchronicle.com/amp/southern-states/telangana/work-on-kothagudem-airport-in-6-months-pongulleti-1851738
+// R7. New Indian Express / The Hindu, Dec 2025: Dr Manmohan Singh Earth Sciences University ka shilanyas
+//     CM Revanth Reddy ne kiya; mantri aur MLA keval upasthit the. REJECT (doosre neta ka karyakram).
+// R8. constructionworld (whitelist me NAHI): Ramavaram me SCCL ka 10.5 MW solar plant — udghatan
+//     Deputy CM ne kiya; MLA keval upasthit. REJECT.
+// R9. shyamalagopalanfoundation.org (whitelist me NAHI, niji foundation): 3 Nov 2025 — Govt Junior College,
+//     Basavatarakam Colony, Palvancha me mid-day meal programme ka udghatan MLA ne mukhya-atithi ke roop
+//     me kiya; sponsor niji foundation. REJECT (mukhya-atithi samaroh; sarkari sanrachna ka kaam nahi).
+// R10. hindudayashankar.com (whitelist me NAHI): Singareni CMD ke saath 374 compassionate-appointment
+//      patra vitran — SCCL/PSU ka kaam. REJECT.
+// R11. Wake Up Telangana epaper (whitelist me NAHI), Jun 2026: Kinnerasani Wildlife Sanctuary me eco-tourism
+//      suvidhaon ka CM dwara virtual udghatan; MLA ne keval bayan diya. REJECT.
+// R12. Telangana Tribune (whitelist me NAHI), Jun 2024: Amrit 2.0 fresh water scheme ka shilanyas Dy CM +
+//      mantrion ne kiya; MLA keval upasthit. REJECT (doosre netaon ka shilanyas).
+// R13. Telangana Today, 3 Oct 2026: 'Public momentum towards BRS increasing' — MLA ka sarkar par siyasi
+//      bayan. REJECT (bayan; kaam nahi).
+// ============== NEGATIVE-SCAN ==============
+// N1. Halafname ke 4 criminal cases (myneta.info/ADR: IPC 143/341/188/149/427, 1 me 506 + SC/ST POA Act
+//     99/2020 Begumbazar — zyadatar purane virodh-pradarshan se jude). Niyam: 'Halafname ke pending mamle
+//     akele negative NAHI'. Vartaman karyakaal (Dec 2023+) me inme koi chargesheet/giraftari/adalati vikas
+//     whitelist media me nahi mila. Negative NAHI.
+// N2. Chunav-yachika (Nandu Lal Agarwal vs Kunamneni Sambasiva Rao) — Telangana HC ne 9 Jun 2025 ko
+//     kharij ki, MLA ke paksh me faisla (Justice K Lakshman). Niyam: 'Chunav-yachika akele nahi' — aur ye
+//     kharij bhi ho gayi. Negative NAHI.
+// N3. New Indian Express, Jul 2019: 'Kothagudem MLA booked for obstructing forest works' — ye mamla PURV
+//     MLA Vanama Venkateswara Rao (tatkalin TRS) aur unke bete ka tha, Kunamneni ka NAHI. Galat pehchan
+//     se bachne ke liye darj: Kunamneni se sambandhit nahi.
+// N4. The Hans India (IANS), 8 Oct 2026: 'Save Democracy' virodh march me Hyderabad me INDIA bloc netaon
+//     sahit MLA ki police dwara hirasat — virodh-pradarshan ki hirasat, koi FIR/chargesheet nahi.
+//     Niyam: sirf aarop/maang/virodh = NAHI. Negative NAHI.
+// ============== RETRY LEADS ==============
+// Koi nahi — sabhi whitelist pages seedhe kholkar padhe gaye; snippet-only page par koi entry nahi banayi.
+
+// jare-adinarayana — 0 entries (QA-checked).
+telanganaWorks['jare-adinarayana'] = [];
+
+// ================= REJECT-LOG =================
+// R1. Indian Express (newindianexpress.com), 10 Dec 2023: 'Palm oil refinery plans in
+//     Aswaraopet gain traction' — MLA-elect Jare Adinarayana ne 'assured to meet with
+//     Chief Minister Revanth Reddy and advocate for the establishment of the refinery
+//     in Aswaraopet' (chunaav-vada). Refinery Siddipet me tender-completion stage par
+//     thi; is ashwasan ka koi dastavezi nateeja page me nahi. Sirf maang/prastav;
+//     koi swikriti/shilanyas/lokarpan nahi. REJECT (sirf ghoshna).
+//     URL: https://www.newindianexpress.com/amp/story/good-news/2023/Dec/10/palm-oil-refinery-plans-in-aswaraopet-gain-traction-2640196.html
+// R2. New Indian Express, 4 Oct 2026: '5,000 poor families to get homes of their own'
+//     (TANLA Foundation housing) — Housing Minister Ponguleti Srinivasa Reddy ka
+//     programme; TANLA Foundation apne kharch (Rs 300 crore) par 5,000 ghar banayegi;
+//     MLA Jare Adinarayana 'others were present' me the. Mantri ka charity event;
+//     MLA ki vyaktigat bhoomika/swikriti nahi. REJECT (dusre neta ke karyakram me
+//     maujoodgi + daan/rahat kaam).
+//     URL: https://www.newindianexpress.com/states/telangana/2026/Oct/04/5000-poor-families-to-get-homes-of-their-own
+// R3. The Hindu, Oct 2026: 'Serving tribal population, five government hospitals in
+//     Telangana's Bhadradri Kothagudem district secure Kayakalp awards' — Aswaraopeta
+//     Area Hospital ko Commendation Award (first attempt par) mila; DCHS Dr. G. Ravi
+//     Babu ke anusaar staff efforts ka credit; MLA ka ullekh hi nahi. Koi vyaktigat
+//     lokarpan/shilanyas/kaam nahi. REJECT (MLA ki bhoomika page me darj nahi).
+//     URL: https://www.thehindu.com/news/national/telangana/serving-tribal-population-five-government-hospitals-in-telanganas-bhadradri-kothagudem-district-secure-kayakalp-awards/article71599473.ece
+// R4. Telangana Tribune (NON-WHITELIST), 30 Apr 2025: 'Tribal MLA upset after being
+//     ignored by officials' — Aswaraopeta me meeting me 'tense moment' par MLA Jare
+//     Adinarayana ki narazgi. Outlet whitelist me nahi; aur ye works-category me aata
+//     hi nahi (koi kaam nahi), negative-criteria (FIR/janch/nyayik vikas) bhi poora nahi.
+//     REJECT.
+//     URL: https://www.telanganatribune.com/tag/mla/page/55/?amp=1
+// R5. NDTV, 2026: 'Fearing Defeat, Telangana Congress Candidate Asks Voters To Return
+//     Gifts' — Aswaraopeta municipality (ward 10) ka Congress candidate (nagarpalika
+//     chunav, Feb 2026) ne pressure cookers/cash wapas maange. MLA Jare Adinarayana
+//     se sambandh nahi — municipal candidate ka mamla. REJECT (MLA pehchan seat se
+//     sambandhit nahi).
+//     URL: https://www.ndtv.com/india-news/fearing-defeat-telangana-congress-candidate-asks-voters-to-return-gifts-10997868
+// R6. Negative-scan: 'Jare Adinarayana' / 'Adinarayana Jare' + FIR/case/booked/arrested
+//     par whitelisted outlet me koi nateeja nahi. Halafnama (myneta.info, 2023) me
+//     criminal cases: 0. Defection petitions / Speaker proceedings me unka naam nahi.
+//     Koi negative entry nahi.
+// R7. DIPR sarkari press releases ('Aswaraopeta MLA Adinarayana') par koi khulne-yogya
+//     kaam-sambandhi release nahi mila. GO-backed swikriti (CDP/SDP/itemized lists)
+//     ka bhi koi whitelisted record nahi mila — `allocated: null` (foundation-level).
+// ============== RETRY LEADS (page nahi khula — source nahi banaya) ==============
+// (koi retry lead pending nahi — mukhya pages khul gaye aur reject ho gaye)
+
+// tellam-venkata-rao — 1 entries (QA-checked).
+telanganaWorks['tellam-venkata-rao'] = [
+  {
+    title: 'Sri Sita Ramachandra Swamy mandir Bhadrachalam ke Phase-I punarvikas kaamon ki shuruaat ka MLA dwara Collector ke saath udghatan — Rs 540 crore ki sarkari pariyojna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express, 28 Jun 2026',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Jun/28/rs-540-crore-facelift-begins-at-bhadrachalam-temple',
+    date: '2026-06-27',
+    note: 'New Indian Express ke mutabik Bhadrachalam ke Sri Sita Ramachandra Swamy mandir me punarvikas ke kaam Vedic rituals ke saath shuru hue; Telangana sarkar ne mandir aur aaspaas ki Mada streets ke punarvikas ke liye Rs 540 crore swikrit kiye hain. Pariyojna ka udghatan Bhadrachalam MLA Tellam Venkata Rao, District Collector Ankith, sub-collector Mrunal Shrestha aur Vedic vidwanon ne milkar kiya. Is pariyojna ka shilanyas CM Revanth Reddy ne Sri Sita Ramachandra Swamy Kalyanam ke dauraan rakha tha; pehle charan me Rs 350 crore jari ho chuke hain aur Rs 200 crore ke kaam shuru ho gaye. Credit capped: ye mukhyamantri/sarkar ki pariyojna hai — MLA ne Collector ke saath Phase-I kaamon ki shuruaat ka udghatan kiya, pariyojna unki swikrit nahi. Fund: state government (CDP ka zikr nahi). Date: article 28 Jun 2026 ko publish hua aur kaam "Saturday" se shuru hone ka ullekh hai, isliye 27 Jun 2026 inferred hai — reasoning yahan disclose hai.',
+    period: '2023-2028',
+  },
+];
+
+// ---- REJECT-LOG (tellam-venkata-rao) ----
+// 1. DC, ~Mar 2026 (pre-event): "Revanth Reddy To Launch Rs 586 Cr Bhadrachalam Redevelopment
+//    Plan" — 27 Mar ko CM foundation rakhne wale the; Rs 586 crore sanction / Rs 351 crore Phase-1
+//    (75 ghats + 180 mandir complex + 96 precinct). REJECT: pre-event announcement source nahi.
+//    (https://www.deccanchronicle.com/amp/southern-states/telangana/revanth-reddy-to-launch-rs-586-cr-bhadrachalam-redevelopment-plan-1946507)
+// 2. NIE, 28 Mar 2026: CM ne Rs 351 crore mandir works ka foundation rakha; MLA upasthit.
+//    REJECT: dusre neta (CM) ke karyakram me maujoodgi.
+//    (https://www.newindianexpress.com/states/telangana/2026/Mar/28/cm-revanth-reddy-sets-ball-rolling-on-rs-351-crore-works-at-bhadrachalam)
+// 3. The Hindu, 8 May 2025: Minister Ponguleti Srinivas Reddy ne Tribal Welfare Ashram School
+//    (girls) dining hall (Rs 25.5 lakh) aur Charla road CC road (Rs 24 lakh) ka shilanyas kiya,
+//    public library reading room ka udghatan kiya; MLA Dr Tellam Venkat Rao sirf upasthit.
+//    REJECT: mantri ka kaam, MLA ki keval maujoodgi.
+//    (https://www.thehindu.com/news/national/telangana/ponguleti-lays-stones-for-various-works-in-bhadrachalam/article69550265.ece/amp/)
+// 4. DC, ~May 2025: Indiramma Housing ka foundation Incherla (Mulugu) me minister Ponguleti ne
+//    rakha; MLA saath the. REJECT: dusre neta ka karyakram; sirf saath-maujoodgi.
+//    (https://www.deccanchronicle.com/southern-states/telangana/ponguleti-free-sand-for-indiramma-houses-1884716)
+// 5. DC, ~Jul 2026: Minister ne mandir renovation works ka nirikshan kiya; MLA upasthit.
+//    REJECT: sirf nirikshan/maujoodgi.
+//    (https://www.deccanchronicle.com/southern-states/telangana/minister-orders-speedy-renovation-of-bhadrachalam-temple-1972271)
+// 6. Telangana Tribune, ~Nov 2024: MLA + Collector Diwakar TS ne Wajedu/Venkatapuram mandals me
+//    sadkon, gram panchayat bhavanon, Anganwadi bhavanon ke shilanyas kiye; MLA ka dawa —
+//    Rs 15 crore Nagaram-Prayapatal road aur Rs 7 crore Incharlapally-Mutharam road "allocated".
+//    REJECT: source whitelist me nahi. RETRY LEAD (live-browser me DC/Telangana Today/Hans India
+//    par post-event coverage dhoondo; sadak-rashi MLA ke dawe par hai).
+//    (https://www.telanganatribune.com/mla-tellam-venkat-rao-promises-development-for-mandals/)
+// 7. IANS (daijiworld/dailyworld/ABP, 24 Jul 2024): Godavari baadh me MLA (surgeon) ne Bhadrachalam
+//    Area Hospital me 2 emergency C-section kiye. REJECT: vyaktigat chikitsa seva/rahat kaam —
+//    vikas-karya nahi; source bhi whitelist me nahi.
+// 8. Hyderabad Mail, ~Jul 2026: MLA ne Area Hospital me burn-victim ka 4-ghante ka skin-grafting
+//    surgery kiya. REJECT: wahi — vyaktigat chikitsa seva; source whitelist me nahi.
+// 9. The Hans India, ~28 Aug 2026: PA job-fraud aaropon par MLA ne khud dono jilon ke Collectors
+//    ko PA ke surrender ki sifarish likhi aur SP/DSP se poori jaanch ki maang ki; victims MLA ke
+//    paas aaye the. REJECT as negative: MLA complainant-side hai, aaropi nahi.
+//    (https://www.thehansindia.com/news/cities/khammam/mla-seeks-pas-surrender-amid-fraud-extortion-allegations-1114773)
+// 10. Telangana Today, 30 Aug 2026: BRS ne PA Korla Kalyan Kumar ke job-scam me MLA ki "alleged
+//     role" ki jaanch ki maang ki; shikayat auto-driver Rayala Srinu ne PA ke khilaf di
+//     (Rs 10 lakh BTPS naukri ke naam par); sarpanch ne kaha MLA ka sambandh nahi, PA police ko
+//     surrender ho chuka. REJECT as negative: shikayat/FIR me aaropi PA hai, MLA nahi —
+//     "shikayat me naam lekin FIR ke aaropi column me naam NAHI = negative NAHI"; BRS ki maang
+//     "sirf aarop/maang = NAHI".
+//     (https://telanganatoday.com/brs-demands-probe-into-bhadrachalam-mlas-role-in-aides-job-scam)
+// 11. The Hans India, ~Aug 2026: World Tribal Day bhashan — pattas, paani, sinchai, aawas, bijli,
+//     shiksha, swasthya ki ashwasan; Sitarama project ka zikr. REJECT: sirf ghoshna/ashwasan.
+//     (https://www.thehansindia.com/news/cities/khammam/mla-tellam-hails-role-of-tribal-communities-in-preserving-heritage-1107342)
+// 12. techwordnews rewrite (29 Aug 2026): Pushkar ghat bhoomi puja me MLA ne Collector ke saath
+//     bhag liya; karakatta par service road banane ki maang ki. REJECT: shuruaat-samaroh me
+//     maujoodgi + sirf maang; source whitelist me nahi. RETRY LEAD: The Hindu original.
+// 13. Indian Chronicle epaper, Oct 2026: MLA ne ITDA PO ke saath Area Hospital ko Rs 15 lakh ke
+//     medical equipment saupe. REJECT: source whitelist me nahi (epaper PDF).
+// 14. myneta halafnama (2023): 2 aapradhik mamle declared — IPC 171E (bribery) aur 188 ke charges.
+//     REJECT as negative: halafname ke pending mamle akele negative nahi; Dec 2023+ me in par koi
+//     nyayik vikas whitelisted media me report nahi hua.
+// 15. Defection case: BRS ki 10 MLAs ke khilaf disqualification petitions — Speaker ne Dec 2025 me
+//     Tellam samet 5 ki petitions kharij ki (phir baaki bhi). REJECT as negative: party karyawahi
+//     akele negative nahi; ye MLA ke liye rahat hai. Coverage whitelisted outlet par nahi mila
+//     (The Statesman/Siasat/tmv.in — whitelist me nahi).
+// 16. Telangana Tribune, ~Apr 2024: "MLA discusses switch to Congress" — chunav-vikas ke liye party
+//     badalne ka dawa; Junior College (Venkatapuram) aur fire station (Charla) ke dawe.
+//     REJECT as work entry: rajnitik kathan; dono "accomplishment" dawe whitelisted media me verify
+//     nahi hue.
+// 17. techwordnews/The Hindu-style (29 Aug 2026): Dy CM ne kaha sarkar ne Rs 2,500 crore mandir
+//     vikas ke liye rakhe (Bhadrachalam Rs 276 crore) — MLA isme nahi; REJECT: dusre neta ka bayan.
