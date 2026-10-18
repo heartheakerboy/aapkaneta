@@ -1,0 +1,15 @@
+---
+import KshetraDetail from '../../../components/KshetraDetail.astro';
+import { karnatakaConstsAll, karnatakaNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return karnatakaConstsAll.map(c => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const kshetra = karnatakaConstsAll.find(c => c.slug === slug);
+if (!kshetra) throw new Error('Constituency not found: ' + slug);
+const leaders = karnatakaNetasAll.filter(n => n.tenures.some(t => t.constituencySlug === kshetra.slug));
+---
+
+<KshetraDetail kshetra={kshetra} leaders={leaders} base="/karnataka" stateName="Karnataka" districtHref={kshetra.district ? `/karnataka/jila/${kshetra.district.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/` : null} />

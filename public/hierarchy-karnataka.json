@@ -1,0 +1,2208 @@
+{
+ "state": "Karnataka",
+ "stateSlug": "karnataka",
+ "districts": [
+  {
+   "name": "Bagalkot",
+   "slug": "bagalkot",
+   "acs": [
+    {
+     "slug": "mudhol",
+     "name": "Mudhol",
+     "type": "Vidhan Sabha",
+     "number": 19,
+     "district": "Bagalkot",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "terdal",
+     "name": "Terdal",
+     "type": "Vidhan Sabha",
+     "number": 20,
+     "district": "Bagalkot",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "jamkhandi",
+     "name": "Jamkhandi",
+     "type": "Vidhan Sabha",
+     "number": 21,
+     "district": "Bagalkot",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bilgi",
+     "name": "Bilgi",
+     "type": "Vidhan Sabha",
+     "number": 22,
+     "district": "Bagalkot",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "badami",
+     "name": "Badami",
+     "type": "Vidhan Sabha",
+     "number": 23,
+     "district": "Bagalkot",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bagalkot",
+     "name": "Bagalkot",
+     "type": "Vidhan Sabha",
+     "number": 24,
+     "district": "Bagalkot",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hungund",
+     "name": "Hungund",
+     "type": "Vidhan Sabha",
+     "number": 25,
+     "district": "Bagalkot",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Ballari",
+   "slug": "ballari",
+   "acs": [
+    {
+     "slug": "kampli",
+     "name": "Kampli",
+     "type": "Vidhan Sabha",
+     "number": 91,
+     "district": "Ballari",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "siruguppa",
+     "name": "Siruguppa",
+     "type": "Vidhan Sabha",
+     "number": 92,
+     "district": "Ballari",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bellary",
+     "name": "Bellary",
+     "type": "Vidhan Sabha",
+     "number": 93,
+     "district": "Ballari",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bellary-city",
+     "name": "Bellary City",
+     "type": "Vidhan Sabha",
+     "number": 94,
+     "district": "Ballari",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sandur",
+     "name": "Sandur",
+     "type": "Vidhan Sabha",
+     "number": 95,
+     "district": "Ballari",
+     "reservation": "ST",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Bangalore Rural",
+   "slug": "bangalore-rural",
+   "acs": [
+    {
+     "slug": "hoskote",
+     "name": "Hoskote",
+     "type": "Vidhan Sabha",
+     "number": 178,
+     "district": "Bangalore Rural",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "devanahalli",
+     "name": "Devanahalli",
+     "type": "Vidhan Sabha",
+     "number": 179,
+     "district": "Bangalore Rural",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "doddaballapur",
+     "name": "Doddaballapur",
+     "type": "Vidhan Sabha",
+     "number": 180,
+     "district": "Bangalore Rural",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "nelamangala",
+     "name": "Nelamangala",
+     "type": "Vidhan Sabha",
+     "number": 181,
+     "district": "Bangalore Rural",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Bangalore Urban",
+   "slug": "bangalore-urban",
+   "acs": [
+    {
+     "slug": "yelahanka",
+     "name": "Yelahanka",
+     "type": "Vidhan Sabha",
+     "number": 150,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "krishnarajapuram",
+     "name": "Krishnarajapuram",
+     "type": "Vidhan Sabha",
+     "number": 151,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "byatarayanapura",
+     "name": "Byatarayanapura",
+     "type": "Vidhan Sabha",
+     "number": 152,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "yeshwantpur",
+     "name": "Yeshwantpur",
+     "type": "Vidhan Sabha",
+     "number": 153,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "rajarajeshwarinagar",
+     "name": "Rajarajeshwarinagar",
+     "type": "Vidhan Sabha",
+     "number": 154,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "dasarahalli",
+     "name": "Dasarahalli",
+     "type": "Vidhan Sabha",
+     "number": 155,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mahalakshmi-layout",
+     "name": "Mahalakshmi Layout",
+     "type": "Vidhan Sabha",
+     "number": 156,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "malleshwaram",
+     "name": "Malleshwaram",
+     "type": "Vidhan Sabha",
+     "number": 157,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hebbal",
+     "name": "Hebbal",
+     "type": "Vidhan Sabha",
+     "number": 158,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "pulakeshinagar",
+     "name": "Pulakeshinagar",
+     "type": "Vidhan Sabha",
+     "number": 159,
+     "district": "Bangalore Urban",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sarvagnanagar",
+     "name": "Sarvagnanagar",
+     "type": "Vidhan Sabha",
+     "number": 160,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "c-v-raman-nagar",
+     "name": "C. V. Raman Nagar",
+     "type": "Vidhan Sabha",
+     "number": 161,
+     "district": "Bangalore Urban",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shivajinagar",
+     "name": "Shivajinagar",
+     "type": "Vidhan Sabha",
+     "number": 162,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shanti-nagar",
+     "name": "Shanti Nagar",
+     "type": "Vidhan Sabha",
+     "number": 163,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gandhi-nagar",
+     "name": "Gandhi Nagar",
+     "type": "Vidhan Sabha",
+     "number": 164,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "rajaji-nagar",
+     "name": "Rajaji Nagar",
+     "type": "Vidhan Sabha",
+     "number": 165,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "govindraj-nagar",
+     "name": "Govindraj Nagar",
+     "type": "Vidhan Sabha",
+     "number": 166,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "vijay-nagar",
+     "name": "Vijay Nagar",
+     "type": "Vidhan Sabha",
+     "number": 167,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chamrajpet",
+     "name": "Chamrajpet",
+     "type": "Vidhan Sabha",
+     "number": 168,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chickpet",
+     "name": "Chickpet",
+     "type": "Vidhan Sabha",
+     "number": 169,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "basavanagudi",
+     "name": "Basavanagudi",
+     "type": "Vidhan Sabha",
+     "number": 170,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "padmanabhanagar",
+     "name": "Padmanabhanagar",
+     "type": "Vidhan Sabha",
+     "number": 171,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "b-t-m-layout",
+     "name": "B.T.M. Layout",
+     "type": "Vidhan Sabha",
+     "number": 172,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "jayanagar",
+     "name": "Jayanagar",
+     "type": "Vidhan Sabha",
+     "number": 173,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mahadevapura",
+     "name": "Mahadevapura",
+     "type": "Vidhan Sabha",
+     "number": 174,
+     "district": "Bangalore Urban",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bommanahalli",
+     "name": "Bommanahalli",
+     "type": "Vidhan Sabha",
+     "number": 175,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bangalore-south",
+     "name": "Bangalore South",
+     "type": "Vidhan Sabha",
+     "number": 176,
+     "district": "Bangalore Urban",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "anekal",
+     "name": "Anekal",
+     "type": "Vidhan Sabha",
+     "number": 177,
+     "district": "Bangalore Urban",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Belagavi",
+   "slug": "belagavi",
+   "acs": [
+    {
+     "slug": "nippani",
+     "name": "Nippani",
+     "type": "Vidhan Sabha",
+     "number": 1,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chikkodi-sadalga",
+     "name": "Chikkodi-Sadalga",
+     "type": "Vidhan Sabha",
+     "number": 2,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "athani",
+     "name": "Athani",
+     "type": "Vidhan Sabha",
+     "number": 3,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kagwad",
+     "name": "Kagwad",
+     "type": "Vidhan Sabha",
+     "number": 4,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kudachi",
+     "name": "Kudachi",
+     "type": "Vidhan Sabha",
+     "number": 5,
+     "district": "Belagavi",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "raibag",
+     "name": "Raibag",
+     "type": "Vidhan Sabha",
+     "number": 6,
+     "district": "Belagavi",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hukkeri",
+     "name": "Hukkeri",
+     "type": "Vidhan Sabha",
+     "number": 7,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "arabhavi",
+     "name": "Arabhavi",
+     "type": "Vidhan Sabha",
+     "number": 8,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gokak",
+     "name": "Gokak",
+     "type": "Vidhan Sabha",
+     "number": 9,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "yemkanmardi",
+     "name": "Yemkanmardi",
+     "type": "Vidhan Sabha",
+     "number": 10,
+     "district": "Belagavi",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "belgaum-uttar",
+     "name": "Belgaum Uttar",
+     "type": "Vidhan Sabha",
+     "number": 11,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "belgaum-dakshin",
+     "name": "Belgaum Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 12,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "belgaum-rural",
+     "name": "Belgaum Rural",
+     "type": "Vidhan Sabha",
+     "number": 13,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "khanapur",
+     "name": "Khanapur",
+     "type": "Vidhan Sabha",
+     "number": 14,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kittur",
+     "name": "Kittur",
+     "type": "Vidhan Sabha",
+     "number": 15,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bailhongal",
+     "name": "Bailhongal",
+     "type": "Vidhan Sabha",
+     "number": 16,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "saundatti-yellamma",
+     "name": "Saundatti Yellamma",
+     "type": "Vidhan Sabha",
+     "number": 17,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "ramdurg",
+     "name": "Ramdurg",
+     "type": "Vidhan Sabha",
+     "number": 18,
+     "district": "Belagavi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Bidar",
+   "slug": "bidar",
+   "acs": [
+    {
+     "slug": "basavakalyan",
+     "name": "Basavakalyan",
+     "type": "Vidhan Sabha",
+     "number": 47,
+     "district": "Bidar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "humnabad",
+     "name": "Humnabad",
+     "type": "Vidhan Sabha",
+     "number": 48,
+     "district": "Bidar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bidar-south",
+     "name": "Bidar South",
+     "type": "Vidhan Sabha",
+     "number": 49,
+     "district": "Bidar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bidar",
+     "name": "Bidar",
+     "type": "Vidhan Sabha",
+     "number": 50,
+     "district": "Bidar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bhalki",
+     "name": "Bhalki",
+     "type": "Vidhan Sabha",
+     "number": 51,
+     "district": "Bidar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "aurad",
+     "name": "Aurad",
+     "type": "Vidhan Sabha",
+     "number": 52,
+     "district": "Bidar",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Chamarajanagar",
+   "slug": "chamarajanagar",
+   "acs": [
+    {
+     "slug": "hanur",
+     "name": "Hanur",
+     "type": "Vidhan Sabha",
+     "number": 221,
+     "district": "Chamarajanagar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kollegal",
+     "name": "Kollegal",
+     "type": "Vidhan Sabha",
+     "number": 222,
+     "district": "Chamarajanagar",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chamarajanagar",
+     "name": "Chamarajanagar",
+     "type": "Vidhan Sabha",
+     "number": 223,
+     "district": "Chamarajanagar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gundlupet",
+     "name": "Gundlupet",
+     "type": "Vidhan Sabha",
+     "number": 224,
+     "district": "Chamarajanagar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Chikkaballapura",
+   "slug": "chikkaballapura",
+   "acs": [
+    {
+     "slug": "gauribidanur",
+     "name": "Gauribidanur",
+     "type": "Vidhan Sabha",
+     "number": 139,
+     "district": "Chikkaballapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bagepalli",
+     "name": "Bagepalli",
+     "type": "Vidhan Sabha",
+     "number": 140,
+     "district": "Chikkaballapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chikkaballapur",
+     "name": "Chikkaballapur",
+     "type": "Vidhan Sabha",
+     "number": 141,
+     "district": "Chikkaballapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sidlaghatta",
+     "name": "Sidlaghatta",
+     "type": "Vidhan Sabha",
+     "number": 142,
+     "district": "Chikkaballapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chintamani",
+     "name": "Chintamani",
+     "type": "Vidhan Sabha",
+     "number": 143,
+     "district": "Chikkaballapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Chikmagalur",
+   "slug": "chikmagalur",
+   "acs": [
+    {
+     "slug": "sringeri",
+     "name": "Sringeri",
+     "type": "Vidhan Sabha",
+     "number": 123,
+     "district": "Chikmagalur",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mudigere",
+     "name": "Mudigere",
+     "type": "Vidhan Sabha",
+     "number": 124,
+     "district": "Chikmagalur",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chikmagalur",
+     "name": "Chikmagalur",
+     "type": "Vidhan Sabha",
+     "number": 125,
+     "district": "Chikmagalur",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "tarikere",
+     "name": "Tarikere",
+     "type": "Vidhan Sabha",
+     "number": 126,
+     "district": "Chikmagalur",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kadur",
+     "name": "Kadur",
+     "type": "Vidhan Sabha",
+     "number": 127,
+     "district": "Chikmagalur",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Chitradurga",
+   "slug": "chitradurga",
+   "acs": [
+    {
+     "slug": "molakalmuru",
+     "name": "Molakalmuru",
+     "type": "Vidhan Sabha",
+     "number": 97,
+     "district": "Chitradurga",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "challakere",
+     "name": "Challakere",
+     "type": "Vidhan Sabha",
+     "number": 98,
+     "district": "Chitradurga",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chitradurga",
+     "name": "Chitradurga",
+     "type": "Vidhan Sabha",
+     "number": 99,
+     "district": "Chitradurga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hiriyur",
+     "name": "Hiriyur",
+     "type": "Vidhan Sabha",
+     "number": 100,
+     "district": "Chitradurga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hosadurga",
+     "name": "Hosadurga",
+     "type": "Vidhan Sabha",
+     "number": 101,
+     "district": "Chitradurga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "holalkere",
+     "name": "Holalkere",
+     "type": "Vidhan Sabha",
+     "number": 102,
+     "district": "Chitradurga",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Dakshina Kannada",
+   "slug": "dakshina-kannada",
+   "acs": [
+    {
+     "slug": "belthangady",
+     "name": "Belthangady",
+     "type": "Vidhan Sabha",
+     "number": 200,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "moodabidri",
+     "name": "Moodabidri",
+     "type": "Vidhan Sabha",
+     "number": 201,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mangalore-city-north",
+     "name": "Mangalore City North",
+     "type": "Vidhan Sabha",
+     "number": 202,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mangalore-city-south",
+     "name": "Mangalore City South",
+     "type": "Vidhan Sabha",
+     "number": 203,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mangalore",
+     "name": "Mangalore",
+     "type": "Vidhan Sabha",
+     "number": 204,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bantval",
+     "name": "Bantval",
+     "type": "Vidhan Sabha",
+     "number": 205,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "puttur",
+     "name": "Puttur",
+     "type": "Vidhan Sabha",
+     "number": 206,
+     "district": "Dakshina Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sullia",
+     "name": "Sullia",
+     "type": "Vidhan Sabha",
+     "number": 207,
+     "district": "Dakshina Kannada",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Davanagere",
+   "slug": "davanagere",
+   "acs": [
+    {
+     "slug": "jagalur",
+     "name": "Jagalur",
+     "type": "Vidhan Sabha",
+     "number": 103,
+     "district": "Davanagere",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "harihar",
+     "name": "Harihar",
+     "type": "Vidhan Sabha",
+     "number": 105,
+     "district": "Davanagere",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "davanagere-north",
+     "name": "Davanagere North",
+     "type": "Vidhan Sabha",
+     "number": 106,
+     "district": "Davanagere",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "davanagere-south",
+     "name": "Davanagere South",
+     "type": "Vidhan Sabha",
+     "number": 107,
+     "district": "Davanagere",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mayakonda",
+     "name": "Mayakonda",
+     "type": "Vidhan Sabha",
+     "number": 108,
+     "district": "Davanagere",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "channagiri",
+     "name": "Channagiri",
+     "type": "Vidhan Sabha",
+     "number": 109,
+     "district": "Davanagere",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "honnali",
+     "name": "Honnali",
+     "type": "Vidhan Sabha",
+     "number": 110,
+     "district": "Davanagere",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Dharwad",
+   "slug": "dharwad",
+   "acs": [
+    {
+     "slug": "navalgund",
+     "name": "Navalgund",
+     "type": "Vidhan Sabha",
+     "number": 69,
+     "district": "Dharwad",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kundgol",
+     "name": "Kundgol",
+     "type": "Vidhan Sabha",
+     "number": 70,
+     "district": "Dharwad",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "dharwad",
+     "name": "Dharwad",
+     "type": "Vidhan Sabha",
+     "number": 71,
+     "district": "Dharwad",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hubli-dharwad-east",
+     "name": "Hubli-Dharwad East",
+     "type": "Vidhan Sabha",
+     "number": 72,
+     "district": "Dharwad",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hubli-dharwad-central",
+     "name": "Hubli-Dharwad Central",
+     "type": "Vidhan Sabha",
+     "number": 73,
+     "district": "Dharwad",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hubli-dharwad-west",
+     "name": "Hubli-Dharwad West",
+     "type": "Vidhan Sabha",
+     "number": 74,
+     "district": "Dharwad",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kalghatgi",
+     "name": "Kalghatgi",
+     "type": "Vidhan Sabha",
+     "number": 75,
+     "district": "Dharwad",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Gadag",
+   "slug": "gadag",
+   "acs": [
+    {
+     "slug": "shirahatti",
+     "name": "Shirahatti",
+     "type": "Vidhan Sabha",
+     "number": 65,
+     "district": "Gadag",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gadag",
+     "name": "Gadag",
+     "type": "Vidhan Sabha",
+     "number": 66,
+     "district": "Gadag",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "ron",
+     "name": "Ron",
+     "type": "Vidhan Sabha",
+     "number": 67,
+     "district": "Gadag",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "nargund",
+     "name": "Nargund",
+     "type": "Vidhan Sabha",
+     "number": 68,
+     "district": "Gadag",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Hassan",
+   "slug": "hassan",
+   "acs": [
+    {
+     "slug": "shravanabelagola",
+     "name": "Shravanabelagola",
+     "type": "Vidhan Sabha",
+     "number": 193,
+     "district": "Hassan",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "arsikere",
+     "name": "Arsikere",
+     "type": "Vidhan Sabha",
+     "number": 194,
+     "district": "Hassan",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "belur",
+     "name": "Belur",
+     "type": "Vidhan Sabha",
+     "number": 195,
+     "district": "Hassan",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hassan",
+     "name": "Hassan",
+     "type": "Vidhan Sabha",
+     "number": 196,
+     "district": "Hassan",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "holenarasipur",
+     "name": "Holenarasipur",
+     "type": "Vidhan Sabha",
+     "number": 197,
+     "district": "Hassan",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "arkalgud",
+     "name": "Arkalgud",
+     "type": "Vidhan Sabha",
+     "number": 198,
+     "district": "Hassan",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sakleshpur",
+     "name": "Sakleshpur",
+     "type": "Vidhan Sabha",
+     "number": 199,
+     "district": "Hassan",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Haveri",
+   "slug": "haveri",
+   "acs": [
+    {
+     "slug": "hangal",
+     "name": "Hangal",
+     "type": "Vidhan Sabha",
+     "number": 82,
+     "district": "Haveri",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shiggaon",
+     "name": "Shiggaon",
+     "type": "Vidhan Sabha",
+     "number": 83,
+     "district": "Haveri",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "haveri",
+     "name": "Haveri",
+     "type": "Vidhan Sabha",
+     "number": 84,
+     "district": "Haveri",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "byadgi",
+     "name": "Byadgi",
+     "type": "Vidhan Sabha",
+     "number": 85,
+     "district": "Haveri",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hirekerur",
+     "name": "Hirekerur",
+     "type": "Vidhan Sabha",
+     "number": 86,
+     "district": "Haveri",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "ranebennur",
+     "name": "Ranebennur",
+     "type": "Vidhan Sabha",
+     "number": 87,
+     "district": "Haveri",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Kalaburagi",
+   "slug": "kalaburagi",
+   "acs": [
+    {
+     "slug": "afzalpur",
+     "name": "Afzalpur",
+     "type": "Vidhan Sabha",
+     "number": 34,
+     "district": "Kalaburagi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "jevargi",
+     "name": "Jevargi",
+     "type": "Vidhan Sabha",
+     "number": 35,
+     "district": "Kalaburagi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chittapur",
+     "name": "Chittapur",
+     "type": "Vidhan Sabha",
+     "number": 40,
+     "district": "Kalaburagi",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sedam",
+     "name": "Sedam",
+     "type": "Vidhan Sabha",
+     "number": 41,
+     "district": "Kalaburagi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chincholi",
+     "name": "Chincholi",
+     "type": "Vidhan Sabha",
+     "number": 42,
+     "district": "Kalaburagi",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gulbarga-rural",
+     "name": "Gulbarga Rural",
+     "type": "Vidhan Sabha",
+     "number": 43,
+     "district": "Kalaburagi",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gulbarga-dakshin",
+     "name": "Gulbarga Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 44,
+     "district": "Kalaburagi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gulbarga-uttar",
+     "name": "Gulbarga Uttar",
+     "type": "Vidhan Sabha",
+     "number": 45,
+     "district": "Kalaburagi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "aland",
+     "name": "Aland",
+     "type": "Vidhan Sabha",
+     "number": 46,
+     "district": "Kalaburagi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Kodagu",
+   "slug": "kodagu",
+   "acs": [
+    {
+     "slug": "madikeri",
+     "name": "Madikeri",
+     "type": "Vidhan Sabha",
+     "number": 208,
+     "district": "Kodagu",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "virajpet",
+     "name": "Virajpet",
+     "type": "Vidhan Sabha",
+     "number": 209,
+     "district": "Kodagu",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Kolar",
+   "slug": "kolar",
+   "acs": [
+    {
+     "slug": "srinivaspur",
+     "name": "Srinivaspur",
+     "type": "Vidhan Sabha",
+     "number": 144,
+     "district": "Kolar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mulbagal",
+     "name": "Mulbagal",
+     "type": "Vidhan Sabha",
+     "number": 145,
+     "district": "Kolar",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kolar-gold-field",
+     "name": "Kolar Gold Field",
+     "type": "Vidhan Sabha",
+     "number": 146,
+     "district": "Kolar",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bangarapet",
+     "name": "Bangarapet",
+     "type": "Vidhan Sabha",
+     "number": 147,
+     "district": "Kolar",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kolar",
+     "name": "Kolar",
+     "type": "Vidhan Sabha",
+     "number": 148,
+     "district": "Kolar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "malur",
+     "name": "Malur",
+     "type": "Vidhan Sabha",
+     "number": 149,
+     "district": "Kolar",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Koppal",
+   "slug": "koppal",
+   "acs": [
+    {
+     "slug": "kushtagi",
+     "name": "Kushtagi",
+     "type": "Vidhan Sabha",
+     "number": 60,
+     "district": "Koppal",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kanakagiri",
+     "name": "Kanakagiri",
+     "type": "Vidhan Sabha",
+     "number": 61,
+     "district": "Koppal",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gangawati",
+     "name": "Gangawati",
+     "type": "Vidhan Sabha",
+     "number": 62,
+     "district": "Koppal",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "yelburga",
+     "name": "Yelburga",
+     "type": "Vidhan Sabha",
+     "number": 63,
+     "district": "Koppal",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "koppal",
+     "name": "Koppal",
+     "type": "Vidhan Sabha",
+     "number": 64,
+     "district": "Koppal",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Mandya",
+   "slug": "mandya",
+   "acs": [
+    {
+     "slug": "malavalli",
+     "name": "Malavalli",
+     "type": "Vidhan Sabha",
+     "number": 186,
+     "district": "Mandya",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "maddur",
+     "name": "Maddur",
+     "type": "Vidhan Sabha",
+     "number": 187,
+     "district": "Mandya",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "melukote",
+     "name": "Melukote",
+     "type": "Vidhan Sabha",
+     "number": 188,
+     "district": "Mandya",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "mandya",
+     "name": "Mandya",
+     "type": "Vidhan Sabha",
+     "number": 189,
+     "district": "Mandya",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shrirangapattana",
+     "name": "Shrirangapattana",
+     "type": "Vidhan Sabha",
+     "number": 190,
+     "district": "Mandya",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "nagamangala",
+     "name": "Nagamangala",
+     "type": "Vidhan Sabha",
+     "number": 191,
+     "district": "Mandya",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "krishnarajapet",
+     "name": "Krishnarajapet",
+     "type": "Vidhan Sabha",
+     "number": 192,
+     "district": "Mandya",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Mysore",
+   "slug": "mysore",
+   "acs": [
+    {
+     "slug": "periyapatna",
+     "name": "Periyapatna",
+     "type": "Vidhan Sabha",
+     "number": 210,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "krishnarajanagara",
+     "name": "Krishnarajanagara",
+     "type": "Vidhan Sabha",
+     "number": 211,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hunsur",
+     "name": "Hunsur",
+     "type": "Vidhan Sabha",
+     "number": 212,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "heggadadevankote",
+     "name": "Heggadadevankote",
+     "type": "Vidhan Sabha",
+     "number": 213,
+     "district": "Mysore",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "nanjangud",
+     "name": "Nanjangud",
+     "type": "Vidhan Sabha",
+     "number": 214,
+     "district": "Mysore",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chamundeshwari",
+     "name": "Chamundeshwari",
+     "type": "Vidhan Sabha",
+     "number": 215,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "krishnaraja",
+     "name": "Krishnaraja",
+     "type": "Vidhan Sabha",
+     "number": 216,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "chamaraja",
+     "name": "Chamaraja",
+     "type": "Vidhan Sabha",
+     "number": 217,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "narasimharaja",
+     "name": "Narasimharaja",
+     "type": "Vidhan Sabha",
+     "number": 218,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "varuna",
+     "name": "Varuna",
+     "type": "Vidhan Sabha",
+     "number": 219,
+     "district": "Mysore",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "t-narasipur",
+     "name": "T. Narasipur",
+     "type": "Vidhan Sabha",
+     "number": 220,
+     "district": "Mysore",
+     "reservation": "SC",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Raichur",
+   "slug": "raichur",
+   "acs": [
+    {
+     "slug": "raichur-rural",
+     "name": "Raichur Rural",
+     "type": "Vidhan Sabha",
+     "number": 53,
+     "district": "Raichur",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "raichur",
+     "name": "Raichur",
+     "type": "Vidhan Sabha",
+     "number": 54,
+     "district": "Raichur",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "manvi",
+     "name": "Manvi",
+     "type": "Vidhan Sabha",
+     "number": 55,
+     "district": "Raichur",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "devadurga",
+     "name": "Devadurga",
+     "type": "Vidhan Sabha",
+     "number": 56,
+     "district": "Raichur",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "lingsugur",
+     "name": "Lingsugur",
+     "type": "Vidhan Sabha",
+     "number": 57,
+     "district": "Raichur",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sindhanur",
+     "name": "Sindhanur",
+     "type": "Vidhan Sabha",
+     "number": 58,
+     "district": "Raichur",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "maski",
+     "name": "Maski",
+     "type": "Vidhan Sabha",
+     "number": 59,
+     "district": "Raichur",
+     "reservation": "ST",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Ramanagara",
+   "slug": "ramanagara",
+   "acs": [
+    {
+     "slug": "magadi",
+     "name": "Magadi",
+     "type": "Vidhan Sabha",
+     "number": 182,
+     "district": "Ramanagara",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "ramanagaram",
+     "name": "Ramanagaram",
+     "type": "Vidhan Sabha",
+     "number": 183,
+     "district": "Ramanagara",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kanakapura",
+     "name": "Kanakapura",
+     "type": "Vidhan Sabha",
+     "number": 184,
+     "district": "Ramanagara",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "channapatna",
+     "name": "Channapatna",
+     "type": "Vidhan Sabha",
+     "number": 185,
+     "district": "Ramanagara",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Shimoga",
+   "slug": "shimoga",
+   "acs": [
+    {
+     "slug": "shimoga-rural",
+     "name": "Shimoga Rural",
+     "type": "Vidhan Sabha",
+     "number": 111,
+     "district": "Shimoga",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bhadravati",
+     "name": "Bhadravati",
+     "type": "Vidhan Sabha",
+     "number": 112,
+     "district": "Shimoga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shimoga",
+     "name": "Shimoga",
+     "type": "Vidhan Sabha",
+     "number": 113,
+     "district": "Shimoga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "tirthahalli",
+     "name": "Tirthahalli",
+     "type": "Vidhan Sabha",
+     "number": 114,
+     "district": "Shimoga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shikaripura",
+     "name": "Shikaripura",
+     "type": "Vidhan Sabha",
+     "number": 115,
+     "district": "Shimoga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sorab",
+     "name": "Sorab",
+     "type": "Vidhan Sabha",
+     "number": 116,
+     "district": "Shimoga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sagar",
+     "name": "Sagar",
+     "type": "Vidhan Sabha",
+     "number": 117,
+     "district": "Shimoga",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Tumakuru",
+   "slug": "tumakuru",
+   "acs": [
+    {
+     "slug": "chiknayakanhalli",
+     "name": "Chiknayakanhalli",
+     "type": "Vidhan Sabha",
+     "number": 128,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "tiptur",
+     "name": "Tiptur",
+     "type": "Vidhan Sabha",
+     "number": 129,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "turuvekere",
+     "name": "Turuvekere",
+     "type": "Vidhan Sabha",
+     "number": 130,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kunigal",
+     "name": "Kunigal",
+     "type": "Vidhan Sabha",
+     "number": 131,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "tumkur-city",
+     "name": "Tumkur City",
+     "type": "Vidhan Sabha",
+     "number": 132,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "tumkur-rural",
+     "name": "Tumkur Rural",
+     "type": "Vidhan Sabha",
+     "number": 133,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "koratagere",
+     "name": "Koratagere",
+     "type": "Vidhan Sabha",
+     "number": 134,
+     "district": "Tumakuru",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gubbi",
+     "name": "Gubbi",
+     "type": "Vidhan Sabha",
+     "number": 135,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sira",
+     "name": "Sira",
+     "type": "Vidhan Sabha",
+     "number": 136,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "pavagada",
+     "name": "Pavagada",
+     "type": "Vidhan Sabha",
+     "number": 137,
+     "district": "Tumakuru",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "madhugiri",
+     "name": "Madhugiri",
+     "type": "Vidhan Sabha",
+     "number": 138,
+     "district": "Tumakuru",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Udupi",
+   "slug": "udupi",
+   "acs": [
+    {
+     "slug": "byndoor",
+     "name": "Byndoor",
+     "type": "Vidhan Sabha",
+     "number": 118,
+     "district": "Udupi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kundapura",
+     "name": "Kundapura",
+     "type": "Vidhan Sabha",
+     "number": 119,
+     "district": "Udupi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "udupi",
+     "name": "Udupi",
+     "type": "Vidhan Sabha",
+     "number": 120,
+     "district": "Udupi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kapu",
+     "name": "Kapu",
+     "type": "Vidhan Sabha",
+     "number": 121,
+     "district": "Udupi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "karkala",
+     "name": "Karkala",
+     "type": "Vidhan Sabha",
+     "number": 122,
+     "district": "Udupi",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Uttara Kannada",
+   "slug": "uttara-kannada",
+   "acs": [
+    {
+     "slug": "haliyal",
+     "name": "Haliyal",
+     "type": "Vidhan Sabha",
+     "number": 76,
+     "district": "Uttara Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "karwar",
+     "name": "Karwar",
+     "type": "Vidhan Sabha",
+     "number": 77,
+     "district": "Uttara Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kumta",
+     "name": "Kumta",
+     "type": "Vidhan Sabha",
+     "number": 78,
+     "district": "Uttara Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bhatkal",
+     "name": "Bhatkal",
+     "type": "Vidhan Sabha",
+     "number": 79,
+     "district": "Uttara Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sirsi",
+     "name": "Sirsi",
+     "type": "Vidhan Sabha",
+     "number": 80,
+     "district": "Uttara Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "yellapur",
+     "name": "Yellapur",
+     "type": "Vidhan Sabha",
+     "number": 81,
+     "district": "Uttara Kannada",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Vijayanagara",
+   "slug": "vijayanagara",
+   "acs": [
+    {
+     "slug": "hoovina-hadagali",
+     "name": "Hoovina Hadagali",
+     "type": "Vidhan Sabha",
+     "number": 88,
+     "district": "Vijayanagara",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "hagaribommanahalli",
+     "name": "Hagaribommanahalli",
+     "type": "Vidhan Sabha",
+     "number": 89,
+     "district": "Vijayanagara",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "vijayanagara",
+     "name": "Vijayanagara",
+     "type": "Vidhan Sabha",
+     "number": 90,
+     "district": "Vijayanagara",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "kudligi",
+     "name": "Kudligi",
+     "type": "Vidhan Sabha",
+     "number": 96,
+     "district": "Vijayanagara",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "harapanahalli",
+     "name": "Harapanahalli",
+     "type": "Vidhan Sabha",
+     "number": 104,
+     "district": "Vijayanagara",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Vijayapura",
+   "slug": "vijayapura",
+   "acs": [
+    {
+     "slug": "muddebihal",
+     "name": "Muddebihal",
+     "type": "Vidhan Sabha",
+     "number": 26,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "devar-hippargi",
+     "name": "Devar Hippargi",
+     "type": "Vidhan Sabha",
+     "number": 27,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "basavana-bagevadi",
+     "name": "Basavana Bagevadi",
+     "type": "Vidhan Sabha",
+     "number": 28,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "babaleshwar",
+     "name": "Babaleshwar",
+     "type": "Vidhan Sabha",
+     "number": 29,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "bijapur-city",
+     "name": "Bijapur City",
+     "type": "Vidhan Sabha",
+     "number": 30,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "nagathan",
+     "name": "Nagathan",
+     "type": "Vidhan Sabha",
+     "number": 31,
+     "district": "Vijayapura",
+     "reservation": "SC",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "indi",
+     "name": "Indi",
+     "type": "Vidhan Sabha",
+     "number": 32,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "sindagi",
+     "name": "Sindagi",
+     "type": "Vidhan Sabha",
+     "number": 33,
+     "district": "Vijayapura",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  },
+  {
+   "name": "Yadgir",
+   "slug": "yadgir",
+   "acs": [
+    {
+     "slug": "shorapur",
+     "name": "Shorapur",
+     "type": "Vidhan Sabha",
+     "number": 36,
+     "district": "Yadgir",
+     "reservation": "ST",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "shahapur",
+     "name": "Shahapur",
+     "type": "Vidhan Sabha",
+     "number": 37,
+     "district": "Yadgir",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "yadgir",
+     "name": "Yadgir",
+     "type": "Vidhan Sabha",
+     "number": 38,
+     "district": "Yadgir",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    },
+    {
+     "slug": "gurmitkal",
+     "name": "Gurmitkal",
+     "type": "Vidhan Sabha",
+     "number": 39,
+     "district": "Yadgir",
+     "reservation": "GEN",
+     "state": "Karnataka"
+    }
+   ]
+  }
+ ]
+}
