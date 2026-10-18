@@ -1323,3 +1323,627 @@ telanganaWorks['thanneeru-harish-rao'] = [
 //   aaropi nahi; NTV dawa apusht).
 // T-2. Kaleshwaram par CBI janch ka elan (CM, Aug 2025): agar CBI FIR me Harish Rao ka naam
 //   aaye aur whitelisted media me pusht ho to revisit karo (ab tak aisa kuch nahi).
+
+// Telangana — Batch 5: Rangareddy + Vikarabad + Medchal-Malkajgiri (14-16/33 jile, 14 entries).
+// Mined 2026-10-18. Coordinator QA: 1 worker-entry drop ki gayi — anumula-revanth-reddy ki
+// mandir-shilanyas entry (Sri Venkateswara Swamy mandir, NIE 8 May 2026): dharmik sanrachna
+// 'bhautik sarkari sanrachna' nahi + fund undisclosed; 'shanka ho to reject' niyam par drop,
+// QA-DROP REJECT-LOG me darj hai. anumula ke 2 negative entries me missing `category: 'Any'`
+// field merge ke dauraan joda gaya (schema consistency). Har MLA ka fragment:
+// ~/workspace/aapkaneta_scratch/tg5_worker_<slug>_works.ts.
+
+// ==== Rangareddy (Batch 5) ====
+// kasireddy-narayan-reddy — worker research, 2026-10-18
+telanganaWorks['kasireddy-narayan-reddy'] = [];
+// REJECT-LOG
+// 1. Deccan Chronicle, ‘Rs 460 Cr Healthcare Projects Launched in Nagarkurnool’, 2025-07-12 (page kholkar padha): Kalwakurthy town me 100-bed area hospital (Rs 45.5 crore) ka shilanyas mantriyon (Damodar Rajanarsimha, Jupally Krishna Rao, Komatireddy Venkat Reddy) ne kiya; Kasireddy Narayan Reddy ka naam article me hai hi nahi — MLA ki koi dastaveji bhoomika nahi. REJECT: dusre netaon ka kaam.
+// 2. Hyderabad Mail, ‘Save Gachu Bavi: How Kalwakurthy restored a 600-year-old temple pond’: outlet whitelist me NAHI (hyperlocal portal); usme bhi MLA dwara Rs 10 lakh ka municipality fund (source ek hi outlet) aur Rs 50 lakh ka wada — wada sirf ghoshna hai. REJECT: non-whitelist + sirf ghoshna.
+// 3. Road accident, May 2024 (Mainammaguda, Talakondapally): Times of India (‘Biker Dies: Biker dies, pillion rider hurt after collision with MLA car’) aur ANI copy (webindia123/devdiscourse, aggregators): bike aur MLA ki car ki takkar me ek rider (P. Naresh) ki maut; MLA car me sawaar tha. FIR CAR DRIVER ke khilaf IPC 304A me darj hui — MLA FIR ke aaropi column me NAHI. BRS neta Dr RS Praveen Kumar ki ‘attempted murder ka case’ maang sirf aarop/maang hai. REJECT: negative NAHI (FIR me MLA aaropi nahi; sirf aarop/maang).
+// 4. The Hindu, ‘MLC Kasireddy joins Congress in New Delhi’, Oct 2023: karyakaal se pehle ka political-joining report, koi kaam nahi. REJECT: pre-term + no works.
+// 5. Telangana Tribune (non-whitelist), ‘Congress prioritizes women’s welfare says Seethakka’: mantri ka karyakram Shadnagar me; Kasireddy sirf saath me maujood the. REJECT: dusre neta ke karyakram me maujoodgi, apni seat ke bahar.
+// 6. munsifdaily (non-whitelist), ‘CM Revanth Reddy Lays Foundation... Kondareddypally’: CM ke kaam, MLA saath me tha; Telangana Tribune copy me bhi MLA ki vyaktigat bhoomika nahi. REJECT: dusre neta ka kaam + non-whitelist.
+// 7. GO Rt.No.551, MAUD Dept, dated 18.09.2025 (archive.org par GOIR PDF copy): Kalwakurthy Municipality ke liye Rs 15 crore ki administrative sanction; sarkari dastavej hai lekin MLA ki vyaktigat maang/bhoomika ka koi saboot nahi. REJECT: shanka ho to entry nahi.
+// 8. Halafnama (myneta MLC page, ADR kit Aug 2022): 1 mamla (IPC 420) darj tha; 2023 MLA halafname me ‘koi aapradhik mamla nahi’ — pre-term declaration; karyakaal (Dec 2023+) me us mamle ka koi nyayik vikas (chargesheet/notice/aadesh) satyapit srot par nahi mila. REJECT: negative NAHI (halafname ke pending mamle akele negative nahi; pre-term vikas nahi).
+// 9. Telangana Today, ‘Palamuru-Rangareddy pumps switched on amid BRS pressure’ (Oct 2026): mantri Jupally Krishna Rao ne pumps launch kiye; MLA ka naam tak nahi. REJECT: koi bhoomika nahi.
+
+// k-shankaraiah — worker research, 2026-10-18
+telanganaWorks['k-shankaraiah'] = [];
+// REJECT-LOG:
+// Pehchan note: media me inhe 'Veerlapalli/Veerlapally Shankar' naam se jana jata hai — halafname (myneta candidate_id=303) me Veerlapally gaon me zameen/makan darj hai, aur Siasat ne 'Shadnagar MLA K Shankaraiah (also known as Veerlapally Shankar)' likha. Dono naamon se khoj ki gayi. Party: 2018 me BSP se lade (hare, 27,814 vote — TOI/Oneindia/Wikipedia); 2023 se INC me jeete; karyakaal (Dec 2023+) me dal-badal ka koi praman nahi, sabhi reports (Sep-Oct 2026 tak) unhe 'Congress MLA' kehti hain. Party field me edit nahi.
+// 1. The Hindu, 2025-05-07 (whitelisted; page kholkar padha): IT Minister Duddilla Sridhar Babu aur Shadnagar MLA K. Shankaraiah ne sanyukt roop se Natco Zilla Parishad High School, Kothur (Shadnagar seat) me nayi building ka lokarpan kiya; Natco ke pratinidhi maujood the. Fund ka khulasa article me nahi; CSR sanket prabal hai (school ka naam hi Natco par, company pratinidhi maujood) aur karyakram mantri-netritva ka tha, MLA ki bhoomika secondary. REJECT: CSR samaroh ki shanka + fund undisclosed + shanka ho to entry nahi.
+// 2. The Hans India, 2026-10-07 (whitelisted): camp office me 47 labharthiyon ko Kalyana Lakshmi/Shaadi Mubarak cheque vitran — kalyankari yojana ka vitran samaroh = REJECT (sarkari abhiyan ka keval shubharambh/daan-rahat).
+// 3. The Hans India, 2026-09-12 (whitelisted): Vidhan Sabha me Siddapur dumping yard prastav wapas lene ki maang/appeal — sirf maang, koi dastaveji nateeja nahi = REJECT.
+// 4. Times of India (whitelisted): Congress MLAs (Veerlapalli Shankar sahit) ne CM se Greater Rangareddy corporation banane ki maang ki — sirf maang = REJECT.
+// 5. Times of India, Sep 2026 (whitelisted): Harish Rao ne Speaker se Shadnagar MLA Shankar ke khilaf karyawahi ki maang ki (KCR tippani vivaad) — rajnitik maang; koi FIR/chargesheet/adalati aadesh nahi = REJECT (negative nahi).
+// 6. Telangana Today, 2026-09-08/09 (whitelisted): BRS netaon (RS Praveen Kumar, Khammam leaders) ki police shikayat — FIR darj karane ki maang. The South First ke anusaar koi FIR darj nahi hui, sirf acknowledgement mila = REJECT (negative nahi: shikayat me naam, FIR ke aaropi column me naam nahi; sirf aarop/maang).
+// 7. dailypioneer.com, 2026-09-08 (non-whitelisted): KCR 'death' tippani par vivaad — source whitelist me nahi; vaise bhi keval aarop/vivad, koi FIR nahi = REJECT.
+// 8. pynr.in / The Pioneer (non-whitelisted): Keshampet mandal me multiple foundation stones — Bhairkhanpally Anganwadi + Mahila Sangam (MGNREGS Rs 12 lakh), Kothapeta classrooms (SSA Rs 39 lakh), Nirdhavelli Ambedkar Yuvajana Bhavan (SDF Rs 10 lakh), Mudiraj Sangha Bhavan (SDF Rs 10 lakh), Sundarapur GP building (MGNREGS Rs 20 lakh) = REJECT (source whitelist me nahi).
+// 9. pynr.in (non-whitelisted): tribal BT roads — Velijarla/Gollakunta Thanda (Rs 75 lakh) aur Gidigadda Thanda (Rs 1.20 crore) ka shilanyas = REJECT (source whitelist me nahi).
+// 10. pynr.in (non-whitelisted): Mantri Komatireddy ne Chatan Pally railway over bridge (Rs 190 crore) ki GHOSHNA ki, kaam '15 din me shuru hoga' — pre-event announcement; MLA ne mantri ka dhanyavaad kiya = REJECT (pre-event + non-whitelist).
+// 11. telanganatribune.com (non-whitelisted): Anganwadi lokarpan (Gunjal Pahad), Mahalakshmi scheme launch, 50-bed sarkari aspatal ke liye fund ka vaada (sirf ghoshna), market committee shapath samaroh — sab non-whitelist; kuch sirf ghoshna/launch = REJECT.
+// 12. pynr.in (non-whitelisted): Govt Junior College Shadnagar me 840 students ke liye 3-mahine ka muft midday meal — MLA ke NIJI kharch par = REJECT (niji kharch + non-whitelist).
+// 13. Pre-term aapradhik mamla: halafnama (myneta candidate_id=303) me 1 mamla — FIR 101/2015, PS Shadnagar; IPC 342, 323, 504, 506, 34 + SC/ST Act Sec 3(1)(R)(S); SC Spl No. 261/2022, VII ADJ/SC & ST Rangareddy; charges framed 30 Apr 2018. Dec 2023+ me is mamle ka koi nyayik vikas (saza/bari/discharge/notice/aadesh) established media me nahi mila = REJECT (negative nahi: halafname ke pending mamle akele negative nahi; pre-term mamle me karyakaal me legal development nahi).
+// 14. Party-field flag: pre-term BSP (2018) se INC (2023) switch hai; karyakaal ke dauraan dal-badal ka koi praman nahi — party field INC hi rahega, edit nahi.
+// Retry-leads: DIPR Telangana portal / GO (PR&RD, School Education dept) me 'Shadnagar' ya 'Veerlapally' naam se sanction khoj (GO number mile to GO-backed swikriti entry ban sakti hai); Telangana Today site-search me 'Veerlapalli' spelling variants.
+
+// malreddy-ranga-reddy — worker research, 2026-10-18
+// Pehchan pakki: Ibrahimpatnam seat, INC, Dec 2023 winner (foundation record se).
+// Research date: 2026-10-18. Whitelist media (The Hindu, Deccan Chronicle, TOI, The Hans India,
+// NDTV, Telangana Today, Indian Express, Hindustan Times, India Today, PTI on established outlet)
+// me kai khojon ke baad bhi is MLA ka koi VALID works entry nahi mila — niche REJECT-LOG dekho.
+// Negatives: MLA ke khilaf koi FIR/chargesheet/janch/nyayik vikas nahi mila (bus-video vivad me
+// FIR video-sharers ke khilaf darj hui, MLA ke khilaf nahi; halafname ke 9 purane mamle akele
+// negative nahi bante). Party field me koi badlav nahi — INC hi rahega (koi dal-badal nahi).
+telanganaWorks['malreddy-ranga-reddy'] = [
+];
+
+// REJECT-LOG (research notes, entries nahi banai gayi):
+// 1. Oct 2026 bus-video vivad (NDTV/Hans India/The Hans India/Daily Pioneer/Siasat ne cover kiya) —
+//    BRS ne video par MLA par ghalat chhune ka aarop lagaya (Oct 6-7, 2026; RTC bus me Mahalakshmi
+//    free-bus scheme ka jaiza lene ke dauran). MLA ne Hans India me safai di ('misleading propaganda',
+//    baatchit pita-samaan sneh wali thi). FIR Ibrampatnam police me video SHARE karne walon ke khilaf
+//    darj hui (Youth Congress ki shikayat par, BNS 353(2)/336(4) + IT Act 67) — MLA FIR ke aaropi
+//    column me NAHI hain. BRS ne BNS 354 ke tahat FIR aur Mahila Ayog summons ki MAANG ki — maang
+//    akele negative nahi (niyam: 'Sirf aarop/maang = NAHI'). Isliye negative entry NAHI banai.
+// 2. Halafname ke 9 aapradhik mamle (ADR/2023, koi sazaa nahi) — halafname ke pending mamle akele
+//    negative NAHI bante (niyam); karyakaal me in par koi court vikas whitelist media me nahi mila.
+// 3. ToI (Mar 2025): Vidhan Sabha me Municipal Administration grants bahas me 'Future City me nivesh
+//    karo' bayan — maang/bayan, koi bhashut sarkari sanrachna ka lokarpan/shilanyas nahi; REJECT.
+// 4. The Hindu (Mar 9, 2024): double-decker corridor ka shilanyas CM Revanth Reddy ne kiya; MLA
+//    sirf 'among present' — dusre neta ke karyakram me maujoodgi; REJECT.
+// 5. Deccan Chronicle (Jul 2026): Rs 13,000-cr HAM road programme — shilanyas R&B Minister
+//    Komatireddy Venkat Reddy ne kiya; MLA sirf maujood the (UNI/Standard Post ka wahi kissa
+//    UNI hone ke karan bhi REJECT). MLA ki dastaveji vyaktigat bhoomika nahi; REJECT.
+// 6. ETV Bharat (Apr 23, 2026): SGM Govt Polytechnic College, Abdullapurmet me Ramoji Foundation ka
+//    140-computer lab + MLA ka Rs 20 lakh auditorium anudan ka GHOSHNA — (a) ETV Bharat whitelist
+//    me NAHI; (b) lab CSR/mukhya-atithi samaroh; (c) anudan sirf ghoshna; REJECT.
+// 7. Hyderabad Mail (Aug 31, 2026): Moosarambagh high-level bridge ka lokarpan CM ne kiya; MLA
+//    sirf attendees me — REJECT (dusre neta ka karyakram).
+// 8. MunsifDaily/Blogspot (Jul 2025): Cull Bird Single Window Facility, Pedda Amberpet — source
+//    whitelist me NAHI (blogspot/munsif); REJECT.
+// 9. FirstTender TUFIDC tenders (Ibrahimpatnam municipality, e.g. ward 18 shopping complex, MRR-grant
+//    road tenders) — tender notices me MLA ka koi ullekh nahi; aggregator source; REJECT.
+// RETRY-LEADS: Telangana DIPR press release portal (sarkari badge sambhav) par 'Malreddy Ranga Reddy'
+// aur 'Ibrahimpatnam' ki direct khoj, aur GOs me 'Ibrahimpatnam' works swikriti — is run me DIPR
+// khoj nahi ho payi; agle run me sambhav works milein.
+
+// devireddy-sudheer-reddy — worker research, 2026-10-18
+telanganaWorks['devireddy-sudheer-reddy'] = [
+  {
+    title: 'Telangana High Court ne SC/ST Act wale FIR me LB Nagar MLA Devireddy Sudheer Reddy ko antarim raahat dene se inkaar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2025/Mar/29/telangana-hc-denies-interim-relief-to-brs-mla-devireddy-sudheer-reddy',
+    date: '2025-03-29',
+    note: 'Hasthinapuram corporator Banoth Sujatha ki complaint par LB Nagar police station me FIR No. 254 of 2025 (registered 18 Mar 2025) me SC/ST (Prevention of Atrocities) Act ke tahat mamla darj hua; aarop tha ki MLA ne corporator ke khilaf apattijanak tippani ki (reports ke mutabik Congress neta Madhu Yaskhi Goud aur corporator ke ‘on a honeymoon’ hone wali tippani). MLA ne criminal petition dayar karke proceedings quash karne ya rokne ki maang ki; Justice K Lakshman ne antarim raahat dene se inkaar kiya, complainant ko 10 din me counter file karne ka nirdesh diya aur mamla 10 Apr 2025 tak multavi kiya. Hearing Friday ko hui thi (inferred: 28 Mar 2025), report 29 Mar 2025 ko publish hui. MLA ka koi jawab article me quote nahi hua. 29 Mar 2025 ke baad is mamle ka koi aage ka aadesh whitelist press me nahi mila.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG — Devireddy Sudheer Reddy (Lal Bahadur Nagar, BRS) — Dec 2023+ research, 2026-10-18
+// Profile ground truth (telangana.ts foundation record, party field unchanged): 61, Graduate
+// (B.A., Osmania, 1985), 1 aapradhik mamla (halafnama), S/o D. Jaya Chandra Reddy, pesha Business.
+// 2018 me isi seat se INC ticket par jeete the, 2023 me BRS ticket par — party-badal khulasa;
+// is karyakaal me koi Congress-pravesh wala dal-badal is MLA par darj nahi, isliye party BRS.
+//
+// Lal Bahadur Nagar GHMC shehri seat hai; whitelisted press me Dec 2023 ke baad MLA ki
+// DASTAVEJI VYAKTIGAT bhoomika wala koi bhautik sarkari sanrachna wala kaam (lokarpan/
+// shilanyas/GO-backed swikriti/assembly maang ka nateeja) nahi mila. Opposition MLA hone
+// ke kaaran zyada kaam GHMC/corporator level par hai; MLA ka vyaktigat credit dastavej
+// nahi hota.
+//
+// REJECT-1: DC, 15 Apr 2026, 'Curb Mosquito Menace, BRS MLA Demands Wearing Mosquito Net Suit':
+// Assembly parisar me machhar-net suit pehankar press conference me fogging machine ki
+// maang — sirf maang/pradarshan, koi kaam nahi REJECT. (TOI ka bhi coverage aaya, wahi reason.)
+// REJECT-2: DC, 10 Apr 2026, 'Telangana HC Pulls Up GHMC, HYDRAA Over Mosquito Menace at
+// Saroornagar Lake': adalat ne GHMC/HYDRAA ko water hyacinth hatane ka aadesh diya; MLA ke
+// pradarshan ka zikr sirf adalat ki observation me — adalat ki karwai MLA ka kaam nahi REJECT.
+// REJECT-3: The Hans India, 20 Sep 2026, 'Resolution of 22A issues soon: Ponguleti': 44 colonies
+// ke regularisation certificates Minister Ponguleti ne baante; MLA sirf 'participated' — dusre
+// neta ke karyakram me maujoodgi REJECT.
+// REJECT-4: theleaderspage.com (non-whitelist aggregator): Nagole division me Rs 4.62 crore ke
+// CC roads/drainage ka shilanyas corporator ke saath — aggregator + GHMC nagariya kaam bina
+// GO-backed MLA swikriti ke REJECT.
+// REJECT-5: TOI, Nov 2023, 'LB Nagar Showdown' pamphlet war: BJP corporator vs MLA aarop-pratyaarop,
+// Rs 3700 crore projects ka dawa — sirf aarop/chunavi vivaad, dastaveji kaam nahi REJECT.
+// REJECT-6: Siasat/IANS/TOI, Oct 2026, LB Nagar-Hayathnagar double-decker elevated corridor + NH-65
+// 6+2 lanes: R&B Minister Komatireddy Venkat Reddy ne Centre se maanga, Gadkari ne manzuri di —
+// kendriya pariyojna + mantri ka proposal, MLA ki vyaktigat bhoomika nahi REJECT.
+// REJECT-7: TOI, Mar 2026, 'Telangana govt sanctioned 15,000 crore for Hyderabad infra': BRS MLAs
+// (KP Vivekanand, D Sudheer Reddy samait) ne Assembly me sawal poocha — sirf maang/sawal REJECT.
+// REJECT-8: thedeccanbharat.com (non-whitelist), 2022-23 era: BRS spiritual meeting Vanasthalipuram
+// me MLA ki ghoshnaen — sirf ghoshna, pre-event REJECT.
+// REJECT-9: thelegalaffair.com (non-whitelist), 17 Jul 2025: HC ne SC/ST case quash kiya — ye CM
+// A. Revanth Reddy ka 2019 FIR wala case hai, is MLA ka nahi + non-whitelist REJECT.
+// REJECT-10: lokmattimes/webindia123, Sep 2026, CM ka Cyberabad foundation event — is seat ka
+// nahi, MLA sambandhit nahi REJECT.
+// REJECT-11: Siasat/DC rowdy-sheeters drug test story: MMC fogging vehicles flag-off par BRS MLA
+// 'was present' — dusre ka karyakram me maujoodgi + Siasat non-whitelist REJECT.
+// REJECT-12: DC/nowhyderabad, May 2025: GHMC ne LB Nagar segment me SNDP monsoon works tez kiye
+// (350m box drain Nagole, Commissioner inspection) — GHMC ke nagariya kaam, MLA ki dastaveji
+// vyaktigat bhoomika nahi REJECT.
+// REJECT-13: Halafname ka 1 pending aapradhik mamla (foundation record me noted) — halafname ke
+// pending mamle akele negative NAHI; Dec 2023+ me koi nyayik vikas nahi mila REJECT.
+// REJECT-14: The Hindu, Dec 2022 (pre-term): 2019 me 12 Congress MLAs ke TRS dal-badal ki Congress
+// complaint me Sudheer Reddy ka naam — pre-term shikayat, is karyakaal me koi legal development
+// nahi, aur dal-badal akele negative nahi REJECT.
+
+// patlolla-sabitha-indra-reddy — worker research, 2026-10-18
+telanganaWorks['patlolla-sabitha-indra-reddy'] = [
+  {
+    title: 'Nampally CBI court ne 6 May 2025 ko Obulapuram illegal mining case me P Sabitha Indra Reddy ko sabooton ke abhav me bari kar diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2025/May/07/karnataka-minister-gali-jailed-for-seven-years-in-illegal-mining-case',
+    date: '2025-05-06',
+    note: 'Hyderabad ki CBI special court ne Obulapuram Mining Company (OMC) illegal iron ore mining case me Gali Janardhan Reddy aur teen anyon ko 7 saal ki kaid sunai, jabki tatkalin mines minister P Sabitha Indra Reddy (CBI ne unhe A-9 banaya tha) aur poorv IAS adhikari B Kripanandam ko sabooton ke abhav me bari kar diya. Case 2009 me CBI janch se shuru hua tha; Rs 884.13 crore ke nuksan ka aarop tha. Faisle ke baad Sabitha Indra Reddy ne kaha: ‘Justice has prevailed. My political rivals linked me with the illegal mining case and levelled wild allegations against me. But, the people of my constituency reposed faith in me and elected me.’ Tithi khulasa: faisla 6 May 2025 ko aaya; NIE ki report 7 May 2025 ki hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Saifabad police ne 8 September 2026 ko Assembly gate par mahila policekarmiyon par hamle ke aarop me P Sabitha Indra Reddy sahit BRS netaon ke khilaf case darj kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Telangana Today',
+    sourceUrl: 'https://telanganatoday.com/police-crackdown-on-brs-leaders-anticipating-protest-at-telangana-assembly',
+    date: '2026-09-08',
+    note: '7 September 2026 ko Assembly gate par BRS vidhayakon aur police ke beech takrav ke baad, Saifabad Police Station me KT Rama Rao, T Harish Rao, G Jagadish Reddy, Padi Kaushik Reddy, Gangula Kamalakar, V Sunitha Laxma Reddy, P Sabitha Indra Reddy aur any BRS netaon ke khilaf policekarmiyon par hamle aur durvyavahar ke aarop me cases darj hue. Siasat ki vistrit report ke anusaar pehli FIR me Sabitha Indra Reddy ka naam aaropi netaon me darj hai — BNS dharaen 121(1), 132, 74, 79, 351, 352, 353 r/w 3(5) ke tahat. Doosri FIR ek mahila constable ki shikayat par darj hui. BRS ne tasveeron ko AI-generated batakar kanuni karwai ki chetavani di; Sabitha Indra Reddy ka vyaktigat jawab media me nahi mila — anupasthiti disclosed. Mamla ek samoohik virodh-pradarshan (kaali T-shirt pehenkar Assembly me pravesh ki koshish) se juda hai. Tithi khulasa: ghatna 7 Sep 2026; Telangana Today ki report 8 Sep 2026 ki hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG — Patlolla Sabitha Indra Reddy (Maheswaram, BRS) — Dec 2023+ research, 2026-10-18
+// Profile ground truth (telangana.ts foundation record, party field unchanged): 60, 12th Pass
+// (Intermediate, Reddy College, 1978-80), 5 aapradhik mamle (halafnama), W/o Late P. Indra
+// Reddy, pesha Politician & Farming; purva mantri (AP Home Minister 2009-2013, Telangana
+// Education Minister 2019-2023). Dal-badal khulasa: koi defection nahi — ve BRS me hi hain
+// (Telangana Tribune ‘Get to know your MLA’ me khud unhone BRS me rehne ki baat kahi).
+// 2023 me Maheswaram se 125578 vote lekar jeeti; runner-up BJP ke Andela Sriramulu Yadav.
+//
+// Dec 2023 ke baad Maheswaram seat par unki DASTAVEJI VYAKTIGAT bhoomika wala koi bhautik
+// sarkari sanrachna wala kaam (lokarpan/shilanyas/GO-swikriti) whitelisted press me nahi mila —
+// vipakshi MLA hone se media footprint maango/protest/rajneetik khabaron me seemit hai.
+//
+// REJECT-1: Siasat (archive, 01 Jul 2023): Narsingi Interchange (ORR, Rs 29.50 crore) ka
+// lokarpan KTR aur Education minister ke roop me Sabitha ne kiya — mantri-kaal (pre-Dec 2023) REJECT.
+// REJECT-2: NIE/DC/Siasat (Apr 2023): Osmania University me 500-bed boys hostel (Rs 39.50 crore)
+// ka shilanyas — mantri-kaal ka rajya/vibhagiya kaam, Dec 2023 se pehle REJECT.
+// REJECT-3: DC (05 Sep 2023): Mekala Mandi School upgrade ghoshna + Mana Basti Mana Badi ke
+// tahat Rs 2.22 crore/Rs 1.84 crore ke classroom kaam — mantri-kaal, pre-term REJECT.
+// REJECT-4: ConstructionWorld (19 Jun 2023): KCR ne Metro Rail ko Kandukur (Maheswaram) tak
+// badhane aur Maheswaram me medical college ki GHOSHNA ki — sirf ghoshna, pre-term, kaam
+// zameen par nahi hua REJECT.
+// REJECT-5: The Hindu (08 Feb 2026): Revanth Reddy ne KCR sarkar par hamla karte hue
+// Pranahita-Chevella project ki deri par Sabitha se sawal uthaye — aarop-pratyaarop, koi
+// kaam nahi REJECT.
+// REJECT-6: businessnewsthisweek/cxotoday (non-whitelist, ~Jan 2025): Amazon ne Meerkhanpet
+// (Kandukur mandal) me park, RO water, health sub-centre, SHG resource centre inaugurated kiye;
+// Sabitha sirf ‘presence of dignitaries’ me upasthit — CSR samaroh me maujoodgi, MLA ki
+// dastaveji vyaktigat bhoomika nahi REJECT.
+// REJECT-7: The South First (2025): NH-163 ‘Road of Blood’ report me Sabitha ka bayan
+// (sarkar se road-widening ki maang) — kendriya pariyojna, sirf maang, vyaktigat bhoomika
+// nahi REJECT.
+// REJECT-8: Telangana Tribune (non-whitelist): SNDP (Strategic Nala Development Programme)
+// lambit hone ki shikayat — kaam PENDING hai, hua nahi REJECT.
+// REJECT-9: Telangana Today (22 Sep 2026): sarkari schools me enrollment girne par Sabitha
+// ka sarkar par aarop — sirf bayan/maang, koi kaam nahi REJECT.
+// REJECT-10: hyderabadnewshunt (non-whitelist, 13 Oct 2026): kisaan bhoomi-adigrahan par
+// sarkar ki aalochana — sirf bayan REJECT.
+// REJECT-11: YouTube iNews (non-whitelist): Kollapadakal/Porandla gaon ka daura — sirf
+// nirikshan/daura REJECT.
+// REJECT-12: DC (Aug 2023, ‘Political feud settled’): Teegala Krishna Reddy se sulah —
+// rajniti, kaam nahi REJECT.
+// REJECT-13: myneta 2023 halafname ke 5 pending mamle (CBI RC 19(A)/2011, PMLA ECIR
+// 09/HZO/2011, RC 17(A)/2009 etc.) — pre-term pending mamle; Dec 2023 ke baad inme kisi
+// aadesh/notice/vikas ka satyapit record nahi mila (Obulapuram wala mamla upar entry 1
+// me cover hai) — halafname ke pending mamle akele negative NAHI, isliye negative entry nahi.
+// REJECT-14: Maheshwaram BRS netaon ka Congress me defection (Telangana Tribune, non-whitelist,
+// ~2024): party netaon ka dal-badal, MLA ka vyaktigat mamla nahi — negative NAHI.
+
+// t-prakash-goud — worker research, 2026-10-18
+telanganaWorks['t-prakash-goud'] = [];
+
+// REJECT-LOG — T. Prakash Goud (Rajendranagar, BRS) — Dec 2023+ research, 2026-10-18
+// Profile ground truth (telangana.ts foundation record, party field unchanged): 64, 5th Pass,
+// 1 aapradhik mamla (halafnama), 2009 se lagatar Rajendranagar MLA; 12 Jul 2024 ko Congress
+// me gaye, Speaker ne 17 Dec 2025 ko clean chit di, BRS ki HC chunauti lambit — party BRS.
+//
+// Rajendranagar GHMC/HMDA/HMWSSB shehri seat hai; whitelisted press me Dec 2023 ke baad
+// MLA ki DASTAVEJI VYAKTIGAT bhoomika wala koi bhautik sarkari sanrachna wala kaam nahi mila.
+//
+// REJECT-1: DC, 06 Feb 2025, '3 reservoirs, 3 pressure filters inaugurated' (HMWSSB):
+// Manikonda/Narsingi/Shamshabad me 3 reservoir + 3 pressure filter ka lokarpan; inauguration
+// Speaker Gaddam Prasad Kumar aur Mantri D. Sridhar Babu ne LEAD kiya, MLA Prakash Goud
+// sirf 'joined' — HMWSSB nagariya kaam bina MLA ki dastaveji vyaktigat bhoomika ke REJECT.
+// REJECT-2: The Hindu, 12 Apr 2025, 'Learning centre launched': Aakash Educational Services
+// ka niji coaching centre (Suncity Bandlaguda Jagir) — niji sanstha ka lokarpan REJECT.
+// REJECT-3: telanganatribune, 26 Feb 2026, Madhu Park Ridge Musi buffer row: MLA ne 450
+// parivaron ko meeting me nyay ka ashwasan diya — sirf ashwasan/bethak, koi kaam nahi REJECT.
+// (tribune non-whitelist bhi hai.)
+// REJECT-4: hindudayashankar (non-whitelist), 2025: GDC Rajendranagar Shamshabad fresher party /
+// annual day me MLA chief guest, college infrastructure support ka ashwasan aur zameen
+// allocation ki maang — sirf ashwasan + mukhya-atithi, koi lokarpan/shilanyas nahi REJECT.
+// REJECT-5: UNI (excluded source), 02 Jul 2024: TGIRD lab complex building lokarpan mantri ka
+// karyakram, MLA sirf saath me maujood — dusre neta ke karyakram me maujoodgi REJECT.
+// REJECT-6: DC, Kothwalguda Eco Park: CM ka inauguration karyakram, MLA sirf participant — REJECT.
+// REJECT-7: The Hindu, 29 Jun 2026: Himayatsagar ka 1 gate uthane ki saalana parmpara MLA ne
+// nibhai — routine/symbolic kriya, vikas kaam nahi REJECT.
+// REJECT-8: Van Mahotsavam (metroindia, non-whitelist): GEF CSR tree plantation, HMDA ke saath —
+// CSR samaroh REJECT.
+// REJECT-9: LinkedIn (non-whitelist): Germanten Hospitals ke operation theatre ka lokarpan —
+// niji hospital REJECT.
+// REJECT-10: Siasat (non-whitelist), 18 Mar 2025 Assembly Zero Hour: zameen registration/patta
+// maang (Hanuman Nagar/Jajaal Nagar/Bhupal Nagar) — sirf maang, nateeja dastaveji nahi REJECT.
+// REJECT-11: Defection: 12 Jul 2024 Congress joining (NDTV/IE/Hindu reports) + Speaker ka
+// 17 Dec 2025 dismissal of disqualification petitions (BRS challenge lambit) — party karyawahi/
+// dal-badal akele negative NAHI, isliye negative entry nahi.
+// REJECT-12: PTI/Business Standard, 11 Jun 2018: land grabbing FIR (IPC 447/506) — pre-term FIR;
+// Dec 2023 ke baad isme koi aadesh/notice/janch ka vikas nahi mila; halafname wala mamla
+// (FIR 67/2010 Dharmabad, Maharashtra, RCC 45/2023) bhi foundation record me noted hai —
+// halafname ke pending mamle akele negative NAHI.
+// REJECT-13: ETRealty/TNN, 08 Jul 2025: Kotha Cheruvu 27-acre land transfer PIL me MLAs ka
+// virodh-pratinidhan — sirf pratinidhan/maang, kaam nahi REJECT.
+// Khaali profile hi taiyar hai; retry-lead: Deccan Chronicle Hyderabad edition (local page) me
+// Rajendranagar GHMC circle ke road/drainage shilanyas jahan MLA ne akela lokarpan/shilanyas
+// kiya ho — Oct 2026 tak whitelisted search me aisa koi record nahi mila.
+
+// arekapudi-gandhi — worker research, 2026-10-18
+telanganaWorks['arekapudi-gandhi'] = [
+  {
+    title: 'ED ne Serilingampally MLA Arekapudi Gandhi ko Sahiti Infra money-laundering mamle me puch-tach ke liye summon bheja',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/hyderabad/ed-summons-mla-arekapudi-gandhi-in-money-laundering-case-1125555',
+    date: '2026-09-25',
+    note: 'ED adhikariyon ne 25 Sep 2026 (Friday) ko Serilingampally MLA Arekapudi Gandhi ko Sahiti Infra money-laundering case me notice bheja; 27 Sep ko puch-tach ke liye pesh hone ko kaha gaya; puch-tach Rs 2.1 crore ke len-den ke baare me honi thi; notice Telangana Police dwara darj FIR ke aadhar par jaari hue. Usi mamle me pehle Rs 161 crore ki sampatti attach hui, phir Rs 12.6 crore aur; ab tak 56 bank khate zabt; Sahiti Infra ke MD Lakshminarayana 2024 me giraftar hue the. Stage: puch-tach ka summon — janch ka charan; report me aarop, giraftari ya chargesheet ki koi khabar nahi. MLA ka jawab is report me nahi diya gaya. Dusri whitelist report (Telangana Today, 25 Sep 2026) bhi yahi summons confirm karti hai.',
+    period: '2023-2028',
+  },
+];
+// REJECT-LOG (arekapudi-gandhi, worker research 2026-10-18):
+// 1. Telangana Tribune (17 Feb 2025): Miyapur Division me Rs 42 lakh CC road ka udghatan, Gurunatham Cheruvu–Patel Cheruvu Rs 5 crore floodwater drainage canal ka shilanyas, Hafeezpet me mandir parisar awas ka udghatan — SOURCE WHITELIST PAR NAHI (telanganatribune.com). Cross-verify on whitelist/DIPR pending → retry-lead.
+// 2. Telangana Tribune (18 Feb 2025): Kondapur/Hafeezpet me nayi UGD pipeline aur CCTV cameras — source whitelist par nahi → reject.
+// 3. Telangana Tribune: Miyapur me phati Manjeera water pipeline ki marammat — source whitelist par nahi + sirf marammat/nirikshan → reject.
+// 4. Deccan Chronicle: Serilingampally MLA + CMC chief ki RWAs ke saath civic muddon par charcha (Jul 2026) — sirf charcha, koi thos kaam nahi → reject.
+// 5. The Hindu: Mayor ka Serilingampally sanitation daura (Dec 2024) — sirf nirikshan daura → reject.
+// 6. The Hindu: GHMC ward delimitation par aapatti — sirf prastav/aapatti, nateeja nahi → reject.
+// 7. PJR Flyover (28 Jun 2025): CM Revanth Reddy ne udghatan kiya; MLA sirf nirikshan me the → dusre neta ka kaam → reject.
+// 8. Anu Furniture store udghatan Gachibowli (Jul 2026, industryhit) — niji vyavsayik samaroh → reject.
+// 9. Study Abroad Carnival-2026 udghatan (The Hans India, 14 Oct 2026) — niji event, koi sarkari kaam nahi → reject.
+// 10. GO-BACKED LEAD (retry): G.O.Rt.No.248, MA&UD (GHMC.II), dt 17-05-2024 — Gurunath Cheruvu–Patel Cheruvu RCC box drain, Rs 6.80 crore, H-CITI ke tehet prashasanik swikriti (GO copy archive.org par mili). MLA ki dastaveji vyaktigat bhoomika (shilanyas) sirf non-whitelist outlet me → entry nahi banai; whitelist/DIPR coverage mile to entry banegi.
+// 11. Pre-term stories: Deccan Chronicle lake article (~2018, MLA ne apne kharch se hyacinth hatwayi) aur TOI Durgam Cheruvu STP (Aug 2023, MLA ne udghatan kiya) — dono Dec 2023 se pehle ke → reject.
+// 12. Disqualification petitions: Speaker ne 17 Dec 2025 ko clean chit di (BRS ki HC chunauti lambit) — pehle se foundation record ke backgroundNote/electionNote me darj hai; party karyawahi akele negative nahi → entry nahi banai; party field BRS unchanged.
+
+// kale-yadaiah — worker research, 2026-10-18
+// Pehchan: Kale Yadaiah, Chevella (SC), BRS (party field telangana.ts me BRS hi hai;
+// foundation note me darj dal-badal khulasa — 28 Jun 2024 ko Congress me gaye, Speaker ne
+// 15 Jan 2026 ko clean chit di, BRS ki HC chunauti lambit). Period 2023-2028.
+// Research nateeja: whitelist-established sources me Dec 2023+ me inke vyaktigat
+// lokarpan/shilanyas/GO-backed swikriti/dastaveji kaam ka koi satyapit record nahi mila;
+// koi aisa FIR/chargesheet/janch/judicial vikas bhi nahi jisme ve KHUD aaropi hon.
+telanganaWorks['kale-yadaiah'] = [];
+// REJECT-LOG:
+// 1. REJECT — maang/prastav: Telangana Today 18 Sep 2026, 'Congress MLAs flag damaged roads in Assembly, seek immediate repairs'
+//    (https://telanganatoday.com/congress-mlas-flag-damaged-roads-in-assembly-seek-immediate-repairs) — Zero Hour me
+//    Yadaiah ne Shankarpally-Marpally road via Mominpet, Himayathnagar-Vikarabad, Thangedpally, Aluru roads ki kharaabi
+//    uthayi; R&B minister ne sirf action-plan ka ashwasan diya. Sirf assembly maang — valid work nahi. Page kholkar padha.
+// 2. REJECT — CSR samaroh me maujoodgi: India Education Diary/asiaeducationreview, 'Amazon Upgrades 4th Telangana State
+//    Model School in Ranga Reddy' — TS Model School Chevella ka renovation Amazon/AWS ka CSR tha; Yadaiah inauguration
+//    me mehmaan ki tarah upasthit the. Niji/CSR kaam — valid work nahi.
+// 3. REJECT — dusre neta ke karyakram + maang: Dailyhunt (Telangana Today epaper), 'Chevella MLA seeks jobs for local youth,
+//    better roads at CM's event' (https://m.dailyhunt.in/…chevella-mla-seeks-jobs…) — solar plant ke CM-karyakram me
+//    Yadaiah ne maang ki: 3 municipalities ko Rs 200 cr, har gram panchayat ko Rs 20 lakh. Sirf ghoshna/maang; CM ka koi
+//    swikriti-adesh is reporting me nahi. Valid work nahi. (Dailyhunt waise bhi non-whitelist aggregator hai.)
+// 4. REJECT — MP ka kaam: pynr.in, 'Road sanctioned from Chevella to Mudimyala via Malkapur' (GO Rt No.582, Rs 3.35 cr) —
+//    ye Chevella MP Konda Visveshwar Reddy ne mantri ko likhkar hasil kiya; MLA ki bhoomika ka ullekh nahi. Seat ke
+//    neta ka kaam nahi. (pynr.in non-whitelist bhi hai.)
+// 5. REJECT — seat ke bahar + atithi bhoomika: Indian Chronicle epaper 19 Jul 2026 — Tandur constituency me Rs 290 cr HAM
+//    roads ka shilanyas; Yadaiah chief guest ke roop me upasthit, seat Tandur Chevella nahi. Valid work nahi.
+// 6. REJECT — kendriya pariyojna: Deccan Chronicle, 'Complete Chevella Road Widening in Year, Says CM Revanth'
+//    (https://www.deccanchronicle.com/amp/southern-states/telangana/complete-chevella-road-widening-in-year-says-cm-revanth-1918637) —
+//    NH-163 (Hyderabad-Bijapur) four-laning NHAI ka kaam; MLA ki dastaveji vyaktigat bhoomika nahi. REJECT.
+// 7. REJECT — yojana/dawa: telanganatribune.com, 'Get to Know Your MLA: Concentrating solely on tackling unemployment' —
+//    textile/battery units Shabad mandal, 550-acre industrial park ke PLANS/claims; post-event reporting nahi, timeline
+//    nirdharit nahi. Sirf ghoshna — valid work nahi. (Non-whitelist bhi hai.)
+// 8. REJECT — sarkari abhiyan me maujoodgi: The Hindu 28 Jun 2025, 'Oilpalm plantation taken up in 557 acres in Rangareddy dist.'
+//    (https://www.thehindu.com/news/national/telangana/oilpalm-plantation-taken-up-in-557-acres-in-rangareddy-dist-in-one-day/article69748448.ece/amp/) —
+//    oilpalm plantation Agri Minister ka karyakram; Yadaiah ne drip irrigation subsidy/pack-house ki maang ki, mantri ne
+//    ashwasan diya. Mantri ka ashwasan = MLA ka kaam nahi; dastaveji nateeja nahi. REJECT.
+// 9. REJECT — pranahita-chevella project: Deccan Chronicle/The Hindu reports (minister Uttam Kumar Reddy ke bayaano par
+//    adharit) — MLA ki vyaktigat bhoomika ka koi dastavej nahi. REJECT.
+// 10. NEGATIVE-CHECK — affidavit ka 1 mamla: myneta.info/Telangana2023 (candidate_id=57) — Crime No. 46/2010, PS Two Town
+//     Thirumala, Chittoor, CC 2297/22, IPC 408/419/420/120B/34, charges framed nahi. 2010 ka pre-term mamla; Dec 2023+
+//     me is par koi nayi legal development established media me nahi mili. 'Halafname ke pending mamle akele negative
+//     NAHI' niyam ke tahat negative entry NAHI.
+// 11. NEGATIVE-CHECK — dal-badal/Speaker/High Court: The Hindu, Deccan Chronicle, TOI (2024-2026) — Speaker ne
+//     disqualification yachikayein kharij ki (15 Jan 2026), BRS ki HC chunauti lambit. Ye rajnaitik/party karyawahi hai,
+//     aapradhik mamla nahi — 'Party karyawahi/dal-badal akele negative NAHI' niyam ke tahat negative entry NAHI.
+// 12. REJECT — Hyderabad Mail 'Shabad six-murders protest' (non-whitelist; bheed Yadaiah se naraz hui) — accused Rajkumar
+//     hai, Yadaiah aaropi nahi. Negative nahi.
+
+// ==== Vikarabad (Batch 5) ====
+// tammannagari-ram-mohan-reddy — worker research, 2026-10-18
+telanganaWorks['tammannagari-ram-mohan-reddy'] = [
+  {
+    title: 'Telangana High Court ne Parigi MLA T. Ram Mohan Reddy ke khilaf 2019 ke aapradhik mamle (IPC 188) ki poori karyawahi radd kar di',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/hc-quashes-proceedings-against-parigi-mla/article69180751.ece/amp/',
+    date: '2025-02-04',
+    note: 'Date reasoning: article 5 Feb 2025 ko publish hua aur batata hai ki Justice K. Lakshman ne ‘on Tuesday’ karyawahi radd ki — Tuesday 4 Feb 2025 hota hai. Tathya: 12 March 2019 ko Vikarabad Revenue Division Office ke saamne khule maidan me dharna-pradarshan (2019 Lok Sabha chunav prachar) ke baad mamla darj hua; election flying squad officer ki shikayat par Vikarabad Inspector ne IPC Section 188 ke tahat case darj kiya; Vikarabad ki local court me chargesheet dayar hui; baad me case Hyderabad (Nampally, Special Judicial Magistrate First Class for Trial of Excise Cases) transfer hua. Justice Lakshman ke aadesh me kaha gaya ki investigating officer ne CrPC ki Section 155 ke tahat prakriya ka palan nahi kiya aur mamle ke anya aaropiyon ke khilaf janch nahi hui. Isi mamle me Telangana Assembly Speaker Gaddam Prasad Kumar, Chevella MP Konda Vishweshwar Reddy (BJP) aur Tandur MLA Pilot Rohith Reddy (BRS) ke naam bhi shamil hain; Speaker ko HC se pehle hi raahat mil chuki thi; anya jans-pratinidhiyon ki yachikayein HC me lambit hain. Natija: MLA ke liye poori raahat — karyawahi radd.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG
+// 1. PJTAU TRVK (Telangana Rythu Vignana Kendra) Pargi inauguration, 21-01-2026 (pjtau.edu.in, sarkari portal): MLA ne karyakram ki adhyakshata ki, Rs 25 lakh MLA grants ka ashwasan diya aur Rangampally gaon me 40-50 acre zameen ki sahmati ghoshit ki. Post-event reporting hai — lekin browser.open se page KHUL NAHI SAKA (network error, ‘Page not found’), isliye niyam anusaar source NAHI bana. RETRY-LEAD: https://www.pjtau.edu.in/Inauguration-trvk-pargi-vikarabad-21-01-2026.html — coordinator dobara khulne par entry banayi ja sakti hai (badge: sarkari).
+// 2. The Hindu (29-08-2024) — ‘CM will visit Vikarabad district on Sept 10 and 11’: PRE-EVENT announcement (CM ke udghatan/shilanyas ki purv-ghoshna); reject.
+// 3. The Hindu (27-06-2026, CLP press conference) — MLA ke dawe: 100-bed hospital ‘constructing’, Lakshmidevipalli Reservoir ke liye Rs 600 crore bhoomi-adhigrahan aadesh, Rs 50,000 crore ke kaam ‘black and white me’. Sirf press-conference ghoshna — koi GO number, fund disclosure ya vyaktigat bhoomika ka dastavej nahi; reject.
+// 4. ANI/webindia123 (27-06-2026) ‘slams KTR, defends Revanth govt’ — wahi press-conference statement; reject (sirf dawa).
+// 5. capitalinformation.net e-paper (Aug 2026, 4 Sep 2025) — Naskal Bridge, Pargi-Vikarabad road four-lane, Young India International School Tunkalagadda: source whitelist me NAHI (chhota portal); reject.
+// 6. vskbharat.com (Jan 2024) — Tablighi Jamat event ke liye Rs 2.45 crore GO-RT-123 swikriti: whitelist me NAHI + asthaayi event-kaam (sarkari abhiyaan/event kharch); reject.
+// 7. ICAR-CRIDA Kisan Mela, Pudur, 6 Feb 2024 (icar.org.in): MLA sirf mukhya atithi the (kisan mela karyakram) — bhoomika sarkari abhiyaan ke keval shubharambh jaisi; reject.
+// 8. newindianexpress.com (04-11-2025) bus tragedy article — MLA ne sirf NGT clearance ka swagat kiya tha; Appa Junction-Manneguda four-lane kendriya pariyojna (NHAI/NH) — MLA ki vyaktigat bhoomika ka koi dastavej nahi; reject.
+// 9. RRR alignment Vikarabad-Pargi maang (The Hindu, Aug 2024) — sirf maang/prastav; reject.
+// 10. ‘Mana Parigi Mana MLA’ program (The Hindu, 2016) — pre-term; reject.
+// 11. Deccan Chronicle (26-06-2026) — KTR ka aarop ki ‘forcible takeover of assigned land with the local MLA playing an active role in Parigi constituency’: SIRF AAROP — koi FIR/janch/adali aadesh MLA ke khilaf nahi; niyam anusaar negative NAHI; reject.
+// 12. Munsif Daily (Sept 2026) — Kalapoor Rapole (Parigi mandal) industrial park protest par gaonwalon ke aarop (‘misleading Assembly statement’): source whitelist me NAHI + sirf aarop; reject.
+
+// gaddam-prasad-kumar — worker research, 2026-10-18
+telanganaWorks['gaddam-prasad-kumar'] = [
+  {
+    title: 'Gaddam Prasad Kumar ne Vikarabad Rural mandal me Anantagiri Urban Forest Park ka shilanyas kiya aur Rs 25 lakh ki laagat se bane Forest Section Officer ke naye karyalaya ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/telangana-speaker-lays-foundation-stone-for-anantagiri-urban-forest-park/article68902120.ece/amp/',
+    date: '2024-11-23',
+    note: 'The Hindu ki post-event report (published 23 Nov 2024, 06:08 pm IST) ke mutabik Gaddam Prasad Kumar ne 23 Nov 2024 (Saturday) ko apne Vikarabad (SC) vidhansabha kshetra ke Vikarabad Rural mandal me Anantagiri Urban Forest Park ka shilanyas kiya aur saath hi Forest Section Officer ke naye karyalaya (Rs 25 lakh ki laagat se nirmit) ka udghatan kiya. Karyakram me District Collector, Forest vibhag ke adhikari aur sthaniya janpratinidhi maujood the. Date disclosure: report me karyakram ko ‘Saturday’ kaha gaya hai aur 23 Nov 2024 Saturday hi tha. Credit note: yahi vyaktigat shilanyas/lokarpan seat ke andar ki bhautik sarkari sanrachnaon ka hai; isi karyakram me unhone Anantagiri ko eco-tourism hub banane ki Rs 300 crore ki yojna ki sirf ghoshna ki thi — wo sirf ghoshna hai, isliye entry me shamil nahi ki gayi. Sadan ke Speaker ke roop ke kaam is entry me nahi hain.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Gaddam Prasad Kumar ne Mominpet mandal ke Yenkathla gaon me TGIIC ke Mobility Valley Park (Rs 44.3 crore, 862 acre) ke shilanyas me Minister D. Sridhar Babu ke saath bhag liya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/industrial-parks-in-every-constituency-says-industries-minister-sridhar-babu-1875803',
+    date: '2025-04-29',
+    note: 'Deccan Chronicle ki post-event report (updated 29 Apr 2025, 10:08 GMT) ke mutabik 29 Apr 2025 (Tuesday) ko IT & Industries Minister D. Sridhar Babu ne Vikarabad (SC) vidhansabha kshetra ke Mominpet mandal ke Yenkathla gaon me TGIIC ke tahat ‘Mobility Valley Park’ ka shilanyas rakha; tasveer caption me darj hai ki Speaker Gaddam Prasad Kumar bhi shilanyas karne walon me shamil the. Park 862 acre me Rs 44.3 crore ke nivesh se banega aur lagbhag 10,000 yuvaon ko rozgar dene ka anuman hai. Credit note: mukhya karyakram mantri ka tha, park state sarkar/TGIIC ki pariyojna hai; MLA ki bhoomika Deccan Chronicle ke caption me darj sanyukt shilanyas tak seemit hai, isliye entry me credit capped hai. Date disclosure: report me karyakram ‘Tuesday’ ko hua bataya gaya hai aur 29 Apr 2025 Tuesday tha.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG
+// R1: Gadkari ko sadak-manng (24 Sep 2024; UNI agency copy) — sirf maang/prastav (3 state roads ko NH banane + CRIF funds ki request), nateeja document nahi; aur UNI whitelist se explicitly bahar. REJECT.
+// R2: Marpally mandal projects (14 Jul 2026): Rs 3.04 crore power substation, health centre, Indiramma house lokarpan (capitalinformation.net e-paper) — capitalinformation whitelist me nahi; page bhi poori tarah khul kar satyapit nahi ho saka. REJECT. Retry lead: Telangana DIPR release ya whitelist coverage milne par dobara dekhen.
+// R3: Government Degree College Vikarabad ka DIET campus me sthanantaran lokarpan (3 Apr; careers360) — careers360 whitelist me nahi. REJECT. Retry lead: Telangana DIPR press release.
+// R4: 'Vikarabad medical college sirf unke prayas se sanction hua' — CM Revanth Reddy ka dawa unke Speaker-chunav ke bhashan me (TOI, Dec 2023); pre-term kaam, post-Dec-2023 dastaveji vyaktigat bhoomika nahi mili. Dawa shreni me bhi entry nahi bani (shanka rule). REJECT.
+// R5: Anantagiri eco-tourism hub Rs 300 crore (The Hindu, 23 Nov 2024) — sirf ghoshna, presentation abhi dekhna baki tha. REJECT (usi article ka shilanyas/lokarpan hissa entry 1 me liya gaya).
+// R6: Kodavatancha mandir Rs 12.15 crore sanction ki ghoshna (Deccan Chronicle, Feb 2026) — Jayashankar Bhupalpally jile me hai, Vikarabad seat ke BAHAR; sirf ghoshna bhi hai. REJECT.
+// R7: Negative check — The Hindu (20 Mar 2026): BRS neta Harish Rao ne Vikarabad sahit kai halon me integrated school tenders me aniyamitta ka AAROP lagaya; Prasad Kumar ke khilaaf FIR/chargesheet/janch nahi — sirf aarop = negative NAHI. REJECT as negative.
+// R8: Negative check — Sep 2026 'Speaker abuse case': BRS MLCs ke khilaaf SC/ST Act FIR me Prasad Kumar complainant-side hain (shikayat unke OSD ne darj karayi); HC ne MLCs ko notice diye. Ve khud aaropi NAHI — negative NAHI.
+// R9: Negative check — halafname ka 1 purana mamla (IPC 188) pre-term hai aur karyakaal me koi nyayik vikas nahi mila; halafname ke pending mamle akele negative NAHI. 0 negatives.
+// Note: party field INC correct hai — karyakaal me dal-badal ka koi satyapit record nahi mila; edit nahi ki gayi.
+
+// buyyani-manohar-reddy — worker research, 2026-10-18
+telanganaWorks['buyyani-manohar-reddy'] = [];
+// REJECT-LOG:
+// 1. Rs 290 crore sadak karyon ka shilanyas/launch, Tandur (18 Jul 2026): sirf hyderabadnewshunt.com (non-whitelisted) aur Indian Chronicle epaper par — whitelist outlet par reporting nahi. Event mantri (Komatireddy Venkat Reddy, Duddilla Sridhar Babu) ka tha, MLA sirf maujood — 'dusre neta ke karyakram me maujoodgi' = REJECT.
+// 2. Basheerabad ke liye 30-bed hospital + junior college 'sanctioned' hone ka dawa (us hi event me MLA ka bayan): sirf ghoshna, koi post-event/distinction reporting nahi = REJECT. Source bhi hyderabadnewshunt hi (non-whitelisted).
+// 3. Telangana Today 20 Sep 2026: MLA ne Vidhan Sabha me Tandur me Mission Bhagiratha pani-sankat uthaya — sirf maang/shikayat, koi dastaveji nateeja nahi = REJECT.
+// 4. Munsifdaily 12 Apr 2025 (non-whitelisted): Rythu Bharosa paisa na milne par kisanon ne MLA se sawal kiye — rajnitik virodh; koi aapradhik mamla/nyayik vikas nahi = REJECT.
+// 5. Siasat 6 Nov 2025 (non-whitelisted): Chevella bus-hadse ke peedit parivaron ko Rs 91 lakh muaavza cheque vitran — rahat/daan kaam = REJECT.
+// 6. Fishery.news 2024 (non-whitelisted): Kotpally jalashay me matsya-palan vikas ka VAADA — sirf vaada = REJECT.
+// 7. UNI 15 Mar 2026 (Moinabad farmhouse drugs party): MLA ne aarop LAGAYE the (former MLA Pilot Rohith Reddy par); khud aaropi NAHI. UNI vaise bhi whitelist se bahar = REJECT (negative ke liye bhi nahi).
+// 8. TOI Hyderabad Mar 2026: Tandur counting-centre code-violation case me antarim jamanat — aaropi former MLA Pilot Rohith Reddy + 8 any; Buyyani Manohar Reddy aaropi nahi = negative NAHI.
+// 9. Halafnama (foundation record): criminalCases 0, 'NOT APPLICABLE' — karyakaal me nyayik vikas ka koi satyapit record established media me nahi mila.
+// 10. India Chronicle epaper Jun 2026 (non-whitelisted): MLA chief guest bankar SHG mahilaon ko Rin/saree vitran — sarkari abhiyan ka keval shubharambh/mukhya-atithi = REJECT.
+// Party-field flag: nahi mila (INC 2023 se; BRS se aaye lekin karyakaal ke dauraan dal-badal ka koi praman nahi).
+
+// anumula-revanth-reddy — worker research, 2026-10-18
+telanganaWorks['anumula-revanth-reddy'] = [
+  {
+    title: 'Mukhyamantri A. Revanth Reddy ne Kodangal me Rs 103 crore ke kaamon ka udghatan aur shilanyas kiya — Anganwadi bhavan, school kaksh, sadak vistar aur anya nagrik pariyojnaen',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/cm-revanth-reddy-launches-103-crore-development-works-in-kodangal/article70317808.ece',
+    date: '2025-11-24',
+    note: 'The Hindu ki post-event report (published 24 Nov 2025, 07:00 pm IST; updated 25 Nov) ke mutabik 24 Nov 2025 (Somwar) ko CM ne apne Kodangal vidhansabha kshetra me kul Rs 103 crore ke kaamon ka udghatan aur shilanyas kiya — 28 Anganwadi bhavan (Rs 5.83 crore), sarkari schoolon me 23 atirikt kaksh (Rs 5.01 crore), 10 Gram Panchayat bhavan (Rs 3 crore), Kodangal shahar me sadak vistar (Rs 60 crore), saath me Kodangal me Prohibition and Excise Station, Fire Station bhavan, swimming pool, samudayik bhavan, kitchen shed, chakardivaren, CC sadak, bhumigat naliyan (UGD), atithi grah ka nirman aur Kosgi krishi bazaar ke vikas kaam. Report me fund-srot (yojna/fund ka naam) disclosed nahi — sirf laagat ka aankda diya gaya hai. Credit note: ve khud karyakram me maujood the (task ke CM-niyam ke anusaar ye seat ke andar ka vyaktigat bhautik kaam hai, CM-roop ke rajya-faisle/6-guarantee shreni me nahi).',
+    period: '2023-2028',
+  },
+
+  {
+    title: '2015 ke cash-for-vote mamle me Appellate Tribunal ne CM Revanth Reddy ke khilaaf ED ki Rs 50 lakh ki kurki ki pushti radd ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/cash-for-vote-cm-revanth-gets-relief-as-tribunal-sets-aside-50-lakh-attachment-confirmation/articleshow/134525742.cms',
+    date: '2026-09-14',
+    note: 'Times of India ki report ke mutabik 14 Sept 2026 ko New Delhi sthit SAFEMA Appellate Tribunal (Justice Munishwar Nath Bhandari ki adhyakshata) ne ED ke 25 May 2021 ke anantim kurki aadesh (8 Feb 2022 ko Adjudicating Authority se pusht) ko radd kar diya, kyunki ACB pehle hi kathit Rs 50 lakh zabt karke trial court ke paas jama kara chuki thi. Mool mamla: ACB Hyderabad ka 31 May 2015 ka FIR — Revanth Reddy (tab TDP MLA) par aarop tha ki unhone Vem Narender Reddy ke liye MLC chunav me vote ke badle nominated MLA Elvis Stephenson ko Rs 50 lakh agrim ki peshkash ki thi; isi scheduled offence par ED ne ECIR darj kiya tha. Rahat-framing: tribunal ki raahat ka matlab mool aapradhik mamla samaapt nahi hua — kurki sirf isliye radd hui kyunki rakam pehle se adalat ki hirasat me surakshit thi. Inferred-date disclosure: order ki tareekh (14 Sept 2026) article text se li gayi hai; article tak pahunch 18 Oct 2026. Pre-term mamla hai lekin karyakaal me adalat/tribunal ka aadesh hua, isliye niyam-anusaar shamil.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Supreme Court ne 2015 ke cash-for-vote mamle me CM Revanth Reddy se judi ACB FIR par nayi sunvai ka aadesh diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/supreme-court-to-hold-fresh-hearings-in-revanth-reddys-cash-for-vote-case-1978996',
+    date: '2026-08-13',
+    note: 'Deccan Chronicle ki report ke mutabik CJI Surya Kant ki bench ne kaha ki 2015 ke kathit cash-for-vote mamle ki FIR par nayi sunvai hogi, kyunki pehle mamla sunne wale nyayadhish sevanivritt ho chuke hain; Revanth Reddy aur BRS neta Sandra Venkata Veeraiah ne ACB ki jaanch ko chunauti dete hue FIR/quashing ki yachikaen dayar ki thi aur sunvai ka karyakram tay kiya jayega. Inferred-date disclosure: report par ‘65 days ago’ ka nishan tha — 18 Oct 2026 se 65 din pehle lagbhag 14 Aug 2026 banta hai, lekin sunvai ko article me ‘Thursday’ kaha gaya hai; 13 Aug 2026 Thursday tha, isliye ye tareekh li gayi hai. Framing: mamla abhi lambit hai, koi antim faisla nahi hua; Revanth khud aaropi-paksh me yachikakarta hain. Pre-term mamla hai lekin karyakaal me nyayik vikas hua, isliye niyam-anusaar shamil.',
+    period: '2023-2028',
+  },
+];
+
+// QA-DROP (coordinator, merge 2026-10-18): worker ki entry 2 — 'Sri Venkateswara Swamy mandir ke punarnirmaan ka shilanyas' (NIE, 8 May 2026) — merged data se hatayi gayi. Kaaran: mandir dharmik sanrachna hai, 'bhautik sarkari sanrachna' shreni me nahi; fund-srot bhi undisclosed; 'shanka ho to reject' niyam. (Retry-lead: whitelist/GO me mandir ke sarkari-prabandhan ya fund ka dastavej mile to revisit.)
+// REJECT-LOG (anumula-revanth-reddy):
+// 1. Feb 2024, Rs 3,961 crore works (Deccan Chronicle, pre-event: 'will visit... will launch') — pre-event announcement, post-event reporting nahi, REJECT.
+// 2. Feb 21, 2024 maiden visit, Rs 4,369 crore works (The Hindu, 'will be touring... will lay') — pre-event announcement, REJECT.
+// 3. Feb 21, 2024, Rs 4,369.143 crore foundation stones (Siasat, post-event) — source whitelist me nahi, REJECT. Retry lead: DC/The Hindu/Telangana Today/Hans India me Feb 2024 ki post-event report.
+// 4. May 8, 2026, 430-bed hospital (Rs 250 crore) + mandir laagat ka aankda (Siasat, Munsif Daily) — whitelist me nahi, REJECT. Retry lead: whitelist outlet me hospital/mandir laagat ka post-event breakup.
+// 5. Narayanpet-Kodangal lift irrigation scheme shilanyas (The Hindu, June 2024 — 'CM laid the foundation stone in February') — 3 seaton (Kodangal+Narayanpet+Makthal) par phaila rajya-stariya pariyojna; CM-niyam (doosri seaton ke kaam exclude) ke anusaar REJECT.
+// 6. Sept 2026 Kodangal review/inspection tour (TOI articleshow/133775005, Telugu360, Mirror Now) — sirf nirikshan/daura + adhikariyon ko nirdesh; koi vyaktigat lokarpan/shilanyas nahi, REJECT.
+// 7. Indiramma Canteen udghatan, Kodangal govt hospital (Sept 2026) — sirf The Journalist Post (whitelist nahi), REJECT. Retry lead: whitelist outlet me post-event report.
+// 8. Lagacharla 2,300-acre industrial park, airport-Kodangal road, cement industry, Vikarabad railway line, Dec 2027 deadline — sab sirf ghoshnaen/ashwasan; koi vyaktigat shilanyas/lokarpan dastavej nahi, REJECT.
+// 9. Kodangal Area Development Authority (KADA, gathan 29 Dec 2023) — prashasanik gathan/shreni; GO-backed sweekriti ka concrete kaam-suchi srot me nahi mili, REJECT (retry lead: KADA works GO).
+// 10. Rs 10,000 crore Kodangal pledge / 'international education hub' (TOI/UNI, Nov 2024-Mar 2025) — sirf pledge/maang shreni, REJECT.
+// 11. Centralised breakfast kitchen visit, Kodangal Market Yard (The Hindu, Nov 24, 2025) — sirf nirikshan/daura, REJECT (entry #1 me mention ke roop me hi).
+// 12. 6-guarantee, state budget, coal-import/KTR mudda (NIE, Oct 2026) — CM-roop ke rajya-faisle/vivaad, seat ke kaam nahi, REJECT.
+// 13. SC me Oct 2025 me cash-for-vote sunvai (UNI, ETV Bharat, South First) — UNI whitelist me nahi; wahi mamla entry #3/#4 me whitelist sources se cover, REJECT duplicate.
+// 14. Phone-tapping, KCR-parivar ke mamle — MLA khud aaropi nahi, REJECT.
+
+// ==== Medchal-Malkajgiri (Batch 5) ====
+// chamakura-malla-reddy — worker research, 2026-10-18
+telanganaWorks['chamakura-malla-reddy'] = [
+  {
+    title: 'Shamirpet police ne Medchal MLA Ch Malla Reddy ke khilaf adivasi parivar ki Keshavaram ki 47 ekad zameen se dhokhadhadi ke aarop me IPC 420 aur SC/ST PoA Act ke tahat mamla darj kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/brs-mla-accused-of-duping-tribal-family-of-47-acres/articleshow/105973113.cms',
+    date: '2023-12-06',
+    note: 'TOI ki post-event report ke mutabik 6 December 2023 ko Shamirpet police ko Kasanpally ke Kethavath Bikshapathi (74) ki shikayat mili, jisme unhone kaha ki unke parivar ki Keshavaram gaon (Muduchinthalpally mandal) ki 47 ekad 8 gunte zameen unki maa Raji ke naam ‘protected tenant’ ke roop me darj thi, aur 3 November ko Malla Reddy aur unke sahyogiyon (Srinivas Reddy, Harimoham Reddy, Madhukar Reddy, Shivudu, Sneha Ramireddy, Ramidi Laxhmamma, Ramidi Neha Reddy va anya) ne unhe poori maliki ka lalach dekar Muduchinthalpally tehsildar karyalay me protected tenancy surrender karwa di, aur parivar ke aath sadasyon ko Rs 3 lakh dekar dhokha diya. Shikayat par police ne IPC section 420 aur SC & ST (PoA) Act ke tahat case darj kiya; Shamirpet inspector M Niranjan Reddy ne bataya ki tehsildar se vivaran manga gaya hai. Stage-accurate framing: ghatna (3 November 2023) chunav se pehle ki hai, lekin FIR darj hone ki tithi (6 December 2023) karyakaal 2023-2028 ke andar hai. TOI ke is page par Malla Reddy ka jawab nahi diya gaya — jawab ki anupasthiti disclosed hai (unka incar agle dinon ki Deccan Chronicle report me darj hai).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ch Malla Reddy ne Shamirpet zameen mamle ki FIR ko radd karne ke liye Telangana High Court me yachika dayar ki; mamla MPs/MLAs wali vishesh bench ke saamne lagaya gaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/nation/in-other-news/191223/ch-mallareddy-approaches-hc-seeking-quashing-of-criminal-case.html',
+    date: '2023-12-19',
+    note: 'Deccan Chronicle ki report ke mutabik Malla Reddy ne Shamirpet police dwara darj FIR (dhokhadhadi aur SC/ST (Prevention of Atrocities) Act ullanghan ka aarop) ko quash karne ke liye High Court me yachika dayar ki — FIR me ve aaropi number 5 hain. Unka dawa tha ki shikayatkarta Bishapathi Kethavath unhe badnaam karne ke liye keh raha hai ki unhone Keshavaram ki 47 ekad krishi bhoomi ke saat kisano ke PT (protected tenancy) adhikar Rs 3 lakh pratyek dekar surrender karwaye. Mamla somwar ko ekal nyayadhish ke saamne suchibaddh hua, aur MPs/MLAs ke khilaf aapradhik mamle ki shreni me aane par registry ne ise vishesh bench ke saamne lagane ka nirdesh diya. Date disclosure: article ki tithi page par nahi di gayi; search snippet me ‘Last Updated: 1034 days ago’ (18 Oct 2026 se peeche) ke aadhar par 19 Dec 2023 anumaanit ki gayi hai — article me ‘listed on Monday’ hai aur 18 Dec 2023 somwar tha, isliye report mangalvar 19 Dec ki maani gayi. Stage-accurate framing: quashing yachika lambit; koi dosh-siddhi ya antim faisla nahi hua.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Petbasheerabad me zameen vivaad par doosre paksh se jhadap ke baad police ne BRS MLA Ch Malla Reddy aur unke damad Marri Rajasekhar Reddy ko hirasat me liya; dono par atikraman, nuksan aur loksevak ko kaam se rokne se sambandhit dhaaron me aarop lage',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/mlas-malla-reddy-marri-taken-into-custody-over-land-dispute/articleshow/110240087.cms',
+    date: '2024-05-18',
+    note: 'TOI ki report (story 19 May 2024, ghatna shanivar 18 May 2024) ke mutabik Petbasheerabad me Suchitra ke paas ek vivaadit bhoo-khand ke swamitva ko lekar Ch Malla Reddy aur unke damad Marri Rajasekhar Reddy ka Srinivas Reddy ke netritva wale samooh se aamna-saamna hua; dono MLAs ko hirasat me lekar baad me chhod diya gaya. DCP (Medchal) Nitika Pant ne TOI ko bataya ki dono pakshon ki shikayaton par do alag aapradhik mamle darj hue, aur Malla Reddy va unke damad par atikraman (trespass), nuksan (damage) aur loksevak ko kartavya se rokne se sambandhit dhaaron me aarop lagaye gaye. Report me darj hai ki Malla Reddy Petbasheerabad police ki maujoodgi me behas karte aur apne logon ko baad hataane ka aadesh dete video me dikhe, aur police ki rok ke bavjood neeli chadar ki asthaayi baad hata di gayi. Doosre paksh (Srinivas Reddy sahit nau log) ka dawa tha ki unhone 1.60 ekad me plot register karwaye hain aur 2016 me seema badal di gayi thi; Malla Reddy paksh ka jawab bhi note me hai — Rajasekhar Reddy ne media ko bataya ki unke parivar ne zameen lagbhag 12 saal pehle khareedi, ve lambi avadhi se shaantipurna kabze me hain aur vivaad adalat me lambit hai. Note: zameen Suchitra/Jeedimetla kshetra (Quthbullapur side) me hai. Date disclosure: report 19 May 2024 ki hai, ghatna ‘Saturday’ (18 May 2024) ki — entry date ghatna ki tithi par rakhi gayi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Telangana High Court ne Jeedimetla zameen mamle me Ch Malla Reddy, Marri Rajasekhar Reddy aur Mahender Reddy ko antarim raahat dene se inkar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/no-hc-relief-for-malla-reddy-marri-in-land-grabbing-case/articleshow/110410290.cms',
+    date: '2024-05-24',
+    note: 'TOI ki report (story 25 May 2024, aadesh shukravar 24 May 2024) ke mutabik Telangana High Court ke Justice J Anil Kumar ne Ch Malla Reddy, BRS MLA Marri Rajasekhar Reddy aur Malla Reddy ke bete Mahender Reddy ko Jeedimetla ke vivaadit bhoo-khand se jude ‘land grabbing’ mamle me raahat dene se inkar kar diya; nyayadhish ne rajya sarkar ko counter-affidavit aur zameen se jude record pesh karne ka nirdesh diya aur writ petition ek hafte ke liye sthagit ki. Yachikakartaon (Malla Reddy va parivar) ne kaha tha ki unhone zameen 2011 me khareedi aur patte par di thi, aur tehsildar ne 18 May ko bina notice police ke saath unki sampatti me pravesh karke survey kiya; virodhi paksh (Srinivas Reddy) ka aarop tha ki MLAs aur unke sahyogi unke grahak ko zameen me ghusne se rok rahe hain aur poori zameen hadapne ka prayas kar rahe hain. Stage-accurate framing: is mamle me Malla Reddy va parivar yachikakarta the (aaropi nahi); adalat ne keval antarim raahat se inkar kiya — mamla lambit raha, koi dosh-siddhi ya antim faisla nahi hua. Note: zameen Jeedimetla gaon, Quthbullapur mandal ki hai. Date disclosure: report 25 May 2024 ki hai, aadesh ‘Friday’ (24 May 2024) ko hua — entry date aadesh ki tithi par rakhi gayi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT-LOG (chamakura-malla-reddy, Medchal, BRS):
+// R1: Indiramma housing towers ka shilanyas, Pocharam, Medchal-Malkajgiri (TOI/ETRealty/Mirror Now, 14-15 Oct 2026) — REJECT: shilanyas mantri Ponguleti Srinivas Reddy va D. Sridhar Babu ne rakha, Malla Reddy sirf maujood the (dusre neta ke karyakram me upasthiti); Pocharam Ghatkesar vidhansabha kshetra me hai, Medchal seat ke bahar.
+// R2: K. Kavitha ke aarop (The Hindu, 7 Dec 2025 — Medchal me vikas-upeksha, land-grabbing va sadak-vistar rokne ka aarop) — REJECT as negative: sirf rajnaitik aarop, unke khilaf FIR/chargesheet/janch ka zikr nahi.
+// R3: BJP me shaamil hone ki atkalein (Deccan Chronicle, 26 Sep 2026 — Australia me BJP netaon ke saath tasveer) — REJECT: koi aadhikarik pushti nahi, pehle ki afwahon ko unhone niradhar bataya tha; party field BRS hi rakha gaya, edit nahi ki.
+// R4: Damad Marri Rajasekhar Reddy ke colleges ki imaraton ka dhwastikaran (Dundigal, Mar 2024, ap7am) — REJECT: Malla Reddy khud aaropi/party nahi (parivar ka mamla) + ap7am whitelist me nahi.
+// R5: Malla Reddy Engineering College ke liye avaidh sadak ka dhwastikaran (Gundla Pochampally, Mar 2024, ap7am) — REJECT: whitelist source nahi; unke khilaf FIR darj hone ka zikr nahi.
+// R6: Malla Reddy Group of Institutions ka Google ke saath ‘Digital Campus’ (NDTV, 15 Oct 2025) aur Malla Reddy University ka Bathukamma samaroh (Tribune/VMPL, 16 Oct 2026) — REJECT: niji shikshan sansthan ke kaam, task me excluded.
+// R7: Jawaharnagar municipality me ex-officio membership ki writ petition (casemine, 2024) — REJECT: prashasanik yachika, koi aapradhik mamla ya kaam nahi.
+// R8: Pre-term works (theleaderspage ‘Recent Activities’ — Keesara mandal Rs 35 lakh, Nagaram municipality Rs 1.20 crore shilanyas) — REJECT: sabhi 2018-2023 karyakaal/mantri-kaal ke kaam, Dec 2023 ke baad ke nahi.
+// R9: Rotary ICU ambulance flag-off (democraticjagat, purana) — REJECT: mantri-kaal ka karyakram + Jawaharnagar me RO plant ki sirf ‘urge’ (maang), kaam nahi.
+// R10: Dec 2023 Keshavaram FIR ke baad ka HC quashing yachika ka antim parinaam — whitelist outlets par 2024+ update nahi mila. RETRY-LEAD.
+// R11: Petbasheerabad May 2024 aapradhik mamle ka aage ka status (chargesheet/trial) — whitelist outlets par update nahi mila. RETRY-LEAD.
+// SUMMARY: Dec 2023 ke baad Medchal seat me Malla Reddy ki vyaktigat bhoomika wala koi satyapit lokarpan/shilanyas/GO-backed kaam whitelist sources par nahi mila — works = 0 (khaali profile). Negatives = 4 entries (Keshavaram FIR + HC quash yachika + Petbasheerabad hirasat/aarop + Jeedimetla HC raahat-inkar). Party field me badlav ka koi satyapit aadhar nahi mila — edit nahi ki gayi.
+
+// marri-rajasekhar-reddy — worker research, 2026-10-18
+telanganaWorks['marri-rajasekhar-reddy'] = [];
+// REJECT-LOG:
+// 1. [demolition notices, Aug 2024] Deccan Chronicle headline — ‘Hyderabad revenue officials serve demolition notices to BRS MLA Marri Rajasekhar Reddy’ (url: ...-1819657); page 403 par khuli nahi isliye source NAHI — RETRY-LEAD: parent kisi anya route se khole to notice addressee (MLA vyakti vs sansthan) verify ho sakta hai.
+// 2. [demolition, Mar 2024 + notices Aug 2024, IANS stories] newsroomodisha/dailyworld/menafn — aggregator ya non-whitelist outlet par IANS copy; whitelist rule se REJECT. IANS text ke anusaar notice colleges (MLRIT, Institute of Aeronautical Engineering, Dundigal) ko tha, MLA ko vyaktigat aaropi ke roop me nahi; koi FIR/chargesheet nahi — isliye negative criteria pura nahi.
+// 3. [HC interim relief denial, May 2024] Deccan Chronicle — Jeedimetla land dispute me HC ne Malla Reddy + son-in-law Marri Rajashekar Reddy ko antarim rahat dene se inkar kiya; ve yachikakarta the, aaropi nahi — negative NAHI.
+// 4. [phone-number spoofing, Dec 2023] Times of India — MLA khud peedit the; Rachakonda police ne agyat aaropiyon par 3 case darj kiye — negative NAHI.
+// 5. [Waqf land meeting, Apr 2026] munsifdaily.com — chhota portal, whitelist me nahi — REJECT.
+// 6. [CURE Bill 2026 objections letter] hyderabadmail.com — chhota portal; sirf maang/prastav, kaam ka nateeja nahi — REJECT.
+// 7. [Arundhati Hospitals free treatment] Telangana Tribune / The South First ground report — niji kharch ka daan-chikitsa kaam (niji hospital); REJECT.
+// 8. [Malkajgiri railway station redevelopment, The Hindu Mar 2025] — kendriya pariyojna (SCR/Amrit Bharat), bina MLA ki dastaveji vyaktigat bhoomika — REJECT.
+// 9. Party field: BRS hi hai; 2024 me Congress me shamil hone ki afwah ka Malla Reddy ne khandan kiya tha (The Hindu, 9 Mar 2024); Marri Rajasekhar Reddy ke dal-badal ka koi satyapit record nahi — party field change ka koi flag nahi.
+
+// k-p-vivekanand — worker research, 2026-10-18
+telanganaWorks['k-p-vivekanand'] = [];
+
+// REJECT-LOG (k-p-vivekanand, Quthbullapur, BRS):
+// 1. Deccan Chronicle 'Vocational college funded by Vivekanand opened' (Aug 2023) — REJECT: pre-term (term Dec 2023 se) + apne funds se banwaya, yani niji kharch.
+// 2. Deccan Chronicle 'BRS MLA Vivek holds mega job mela in Quthbullapur' (May 2023) — REJECT: pre-term + TS-STEP/Youth Services ka sarkari job-mela program, shubharambh-shreni.
+// 3. 'MLA threatens stir if Hyderabad Metro Rail not extended to Medchal' (Rahnuma/NSS, Oct 2024) — REJECT: non-whitelist outlet + sirf maang/agitation ki chetavni, koi kaam nahi.
+// 4. TOI 'KP Vivekananda urges timely release of funds for Hyderabad development projects' (Mar 2025) — REJECT: Vidhansabha me debate-maang, dastaveji nateeja nahi.
+// 5. Hyderabad Mail 'KBR Park flyover halted: BRS MLA targets Telangana government' (Oct 2026) — REJECT: chhota portal (whitelist me nahi) + sirf aarop/maang; KBR Park seat ke bahar.
+// 6. Lokmattimes 'Inauguration of Willow Woods Pre School by MLA Vivekananda' (Mar 2025) — REJECT: aggregator outlet (whitelist nahi) + niji pre-school ka udghatan, sarkari sanrachna nahi.
+// 7. TOI 'MLA in Trouble: Verbal Spat with Cops in Hyderabad' (Jan 2024, in-term) — NEGATIVE REJECT: page 403 par khula nahi; snippet me sirf 'in the process of registering a case' — FIR confirm nahi, MLA ka jawab uplabdh nahi; stage-accurate framing sambhav nahi.
+// 8. Business Standard/ANI 'BRS MLA grabs BJP candidate by throat' TV debate (Oct 2023) — NEGATIVE REJECT: pre-term ghatna; BJP ne case/arrest ki maang ki thi lekin Dec 2023 ke baad koi legal development ka saboot nahi mila.
+// 9. Newsmeter 'VRO files police complaint against Vivekananda for casteist slur' (Oct 2020) — NEGATIVE REJECT: pre-term; police ne complaint acknowledge ki lekin case register nahi hua (report me khud darj).
+// 10. AP7AM 'MLA's two houses sealed by GHMC' (2016) + 'HC orders demolition of TRS MLA's mansion' (2016, disproportionate assets case) — NEGATIVE REJECT: pre-term purane mamle; karyakaal me koi nyayik vikas nahi.
+// 11. Etemaad Daily 'Case Against Qutbullapur MLA for threatening a person at Jeedimetla' (2017) — NEGATIVE REJECT: pre-term.
+// 12. Telangana Today 'KP Vivekananda questions CURE Act' (Sep 2026) + 'gives Revanth Reddy 24-hour deadline' (Oct 2026) — REJECT: virodhi-paksh ki bayanbaazi, koi bhautik kaam nahi.
+// 13. Deccan Chronicle/Latestly 'Speaker dismisses disqualification petitions against five MLAs' (Dec 2025) — NOTE: Vivekanand petitioner the (Tellam Venkata Rao ke khilaf), aaropi nahi — negative nahi banta.
+// 14. TOI 'Even Congress MLAs are not aware of trifurcation of GHMC' (Feb 2026) — REJECT: press-conference me aarop/maang, koi kaam nahi.
+// SUMMARY: whitelisted outlet par Dec 2023 ke baad Quthbullapur seat me MLA ki vyaktigat bhoomika wala koi satyapit lokarpan/shilanyas/GO-backed kaam nahi mila; negatives me bhi koi in-term FIR/chargesheet/court-order nahi mila. Khaali profile rakhi gayi hai.
+
+// madhavaram-krishna-rao — worker research, 2026-10-18
+telanganaWorks['madhavaram-krishna-rao'] = [];
+
+// REJECT-LOG — madhavaram-krishna-rao (Kukatpally, BRS, 2023-2028)
+// Party field unchanged: BRS (no dal-badal found; still BRS, no defection note).
+// Whitelist outlets par Dec 2023 ke baad inke vyaktigat lokarpan/shilanyas/GO-backed
+// swikriti wale KUKATPALLY seat ke kaam ka koi post-event report nahi mila.
+// Media footprint karyakaal me lagbhag poori tarah raajnaitik/vipakshi hai:
+//
+// 1. Electric buses launch, Kukatpally depot (May 2026, munsifdaily + newsage + ibcworldnews):
+//    - MLA sirf maujood the; launch Transport Minister Ponnam Prabhakar ne kiya.
+//      -> dusre neta ke karyakram me maujoodgi = REJECT.
+//    - Ek side-line: 'MLA ke anurodh par KPHB me naya depot' ki mantri ghoshna —
+//      mantri-ashwasan hai, dastaveji nateeja nahi; aur munsifdaily whitelist me nahi = REJECT.
+// 2. Nalla Cheruvu restoration inauguration (CM Revanth Reddy, HYDRAA; munsifdaily/newsage, Mar 2025):
+//    - MLA sirf maujood (attendees list); udhghatan CM ne kiya = REJECT.
+// 3. Nallacheruvu encroachment row (The Hindu, 04-Oct-2024): MLA ne CM ke aarop ka jawab
+//    diya aur janch ki maang ki — statement/maang hai, kaam nahi = REJECT (not negative either;
+//    MLA khud aaropi nahi, FIR/chargesheet/janch unpar nahi).
+// 4. HYDRAA demolishes Praneeth Antilia compound wall (Deccan Chronicle, 24-Jun-2025):
+//    'Madhavaram Sandeep Rao, son of Kukatpally BRS MLA Madhavaram Krishna Rao, is a key
+//    stakeholder' — PARIVAAR ka mamla; niyam se bahar = negative NAHI. REJECT-LOG.
+// 5. Kavitha defamation legal notice (The Hindu, 12-Dec-2025; 'Kavitha to produce evidence against
+//    Kukatpally MLA', 10-Dec-2025): Kavitha ne unko + Aleti Maheshwar Reddy ko private
+//    defamation legal notice bheja. Legal notice private notice hai — FIR/chargesheet/janch/
+//    adalat ka aadesh nahi; 'sirf aarop/maang = NAHI' = negative NAHI. REJECT-LOG.
+// 6. 22 BRS MLAs suspended from Assembly (The Hans India): baaki 21 MLAs ke saath inka bhi
+//    suspension — anushasanatmak karyawahi, FIR/chargesheet nahi = negative NAHI. REJECT-LOG.
+// 7. HC order 'Don't give cheques without Kukatpally MLA' (Deccan Chronicle, Dec-2024):
+//    MLA ne writ plea file ki; HC ne 2016 ke GOs ke tahat cheque distribution me unki
+//    bhagidari bina na dene ka nirdesh diya. Petitioner ke paksh me aadesh — na kaam
+//    (koi bhautik sanrachna nahi), na negative = REJECT-LOG.
+// 8. Kavitha ke lake-encroachment aarop (munsifdaily, Dec-2025; MLA ke parivaar par aarop):
+//    outlet whitelist me nahi + sirf aarop, FIR nahi = negative NAHI. REJECT-LOG.
+// 9. Balanagar convoy obstruction (hyderabadheadlines epaper, Sep-2026): chhota portal
+//    (whitelist me nahi), political clash, FIR ka koi report nahi = REJECT-LOG.
+// 10. Sunnam Cheruvu FTL dispute (hyderabadmail/newsmeter, Feb-2026): MLA ke daavon ko HYDRAA
+//     ne kharij kiya — outlet whitelist me nahi, kaam nahi, negative nahi = REJECT-LOG.
+// 11. Ankura Hospital / Prasad Hospitals (Kukatpally) inaugurations (Jul-2024 / Feb-2024):
+//     niji aspataal, MLA sirf dignitary-list me = REJECT.
+// 12. 2022 ke KTR Kukatpally projects (TOI/The Hindu, Dec-2022): karyakaal se PEHLE = REJECT.
+// Retry leads (koi kaam abhi tak nahi mila): dipr.telangana.gov.in par 'Kukatpally' press releases;
+// 'MKR' spelling se Telangana Today/Hans India archive search; MLA ke X handle @mkrkkpmla ke posts
+// (dawa-badge bhi tabhi jab bhautik sanrachna ka post-event proof mile — abhi nahi mila).
+
+// bandari-lakshma-reddy — worker research, 2026-10-18
+telanganaWorks['bandari-lakshma-reddy'] = [];
+
+// REJECT-LOG
+// R1: Indian Chronicle epaper items (Aug-Sep-Oct 2026: SV Nagar drainage shilanyas Rs 5.60 lakh; Kapra Rs 4 crore shilanyas/lokarpan; Cherlapally drainage lines; Snehapuri BT road Rs 58 lakh; Adarsh Nagar CC roads; Beerappa Gadda Rs 67 lakh; Ambedkar Nagar community hall foundation) — sab REJECT: Indian Chronicle whitelist me nahi hai.
+// R2: Deccan Chronicle 'School in Kushaiguda Sealed Over Misleading Claims' (~Jun 2025) — MLA ne school misbranding protest lead kiya, school seal hui; lekin ye lokarpan/shilanyas ya GO-backed swikriti nahi (virodh se hui prashasanik karyawahi = VALID category me nahi; 'shanka ho to entry NAHI' rule). Page 403 par khula bhi nahi (snippet-only source nahi chalega).
+// R3: Times of India 2010 DRI smuggling detention (Bandari Lakshma Reddy, Uppal MLA Raji Reddy ke bhai ke roop me) — pre-term (2010) aur karyakaal me koi legal development nahi; halafnama me 0 cases. REJECT.
+// R4: indiankanoon Laxma Reddy vs State of Telangana, FIR 408/2023 Bachupally (420/384/506) — pehchan confirmed nahi (MLA ka halafnama 0 cases; Bachupally Uppal seat se alag). REJECT.
+// R5: Siasat Sep 2026 — Telangana Women Commission complaint me Bandari Lakshma Reddy ka naam (Assembly Gate No.3 incident, shirtless protest aarop) — (a) siasat.com whitelist me nahi; (b) shikayat me naam hai lekin kisi whitelist source par FIR ke aaropi column me unka naam nahi mila = 'negative NAHI' rule. REJECT.
+// R6: The Hans India 29 Sep 2026 (HC directions re: women MLAs misbehaved by police at Assembly gate 7 Sep 2026) — whitelist source, lekin isme Bandari Lakshma Reddy khud aaropi nahi; HC ne police ko pehchanne ka aadesh diya. Negative NAHI.
+// R7: tmv.in 'NFC Railway Overbridge widening' representation (MP Etela Rajender ko) — tmv.in whitelist me nahi; aur kendriya pariyojna (railway ROB) bina vyaktigat bhoomika / nateeja. REJECT.
+// R8: Indian Chronicle '22-A land issues collector meeting' (Aug 2026) — sirf maang/pratinidhi; non-whitelist. REJECT.
+// R9: Deccan Chronicle 2014 'Bandari Reddy vows to fight graft' — pre-term (2014 election campaign), sirf ghoshna. REJECT.
+// R10: TOI/Hans/Statesman/IANS coverage of Sep 7-8 2026 Assembly gate standoff me MLA ke naam ki satyapit FIR me upasthiti kisi whitelist page par nahi mili; page-open attempts par relevant page confirm nahi. Koi negative entry nahi bani.
+// Note: party field BRS correct hai (2023 me BRS ticket par jeete; karyakaal me dal-badal ka koi satyapit record nahi mila). Background me 2014 Congress ticket ka khulasa pehle se darj hai.
+
