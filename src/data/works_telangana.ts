@@ -875,3 +875,451 @@ telanganaWorks['kaushik-reddy-padi'] = [
 // RETRY LEADS: (a) R-17 wala TOI page (https://timesofindia.indiatimes.com/city/hyderabad/kaushik-reddy-1st-mla-booked-under-new-law-for-obstruction/articleshow/111470626.cms) live-browser me kholo; (b) telangana.gov.in / GOIR portal par ‘’Huzurabad‘’ sanction/GO orders ka live-browser search — whitelisted media me koi GO-backed swikriti nahi mili; (c) Telangana Assembly records me 2023-28 ke dauraan unke prashn/maangon ka dastavezi nateeja (mantri-ashwasan) — text search me koi report nahi mili.
 // QA: kul 15 news searches + 9 page reads; works entries 0 (whitelisted media me koi vyaktigat lokarpan/shilanyas/itemized sanction/GO/dastavezi nateeja nahi mila); negatives 8; party field: BRS — koi badlav nahi mila; identity seat-se verified (Huzurabad, BRS), Vemula Prashanth Reddy (Balkonda) se alag.
 
+// Telangana — Batch 4: Rajanna Sircilla + Medak + Sangareddy + Siddipet (10-13/33 jile).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/tg4_worker_<slug>_works.ts.
+
+// ==== Rajanna Sircilla (Batch 4) ====
+// aadi-srinivas — 4 entries (QA-checked).
+telanganaWorks['aadi-srinivas'] = [
+{
+    title: 'Aadi Srinivas ke prayason par Vemulawada mandir aur shehar ke liye Rs 127.65 crore ki GO-backed swikriti — G.O. Rt. No. 575 (Rs 76 crore mandir vistar), G.O. Rt. No. 576 (Rs 47.85 lakh sadak-chaudikaran bhoomi-adhigrahan), G.O. Rt. No. 574 (Rs 3.8 crore drainage pipeline)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/rs-12765-cr-granted-for-development-of-vemulawada-temple-town-1839331',
+    date: '2024-11-18',
+    note: 'Deccan Chronicle ke anusar ‘The funding was initiated following efforts by Government Chief Whip and Vemulawada Congress MLA Aadi Srinivas’ aur CM Revanth Reddy ne allocation approve kiya. Itemized: GO Rt No. 575 — Rs 76 crore mandir parisar vistar; GO Rt No. 576 — Rs 47.85 lakh Mulawagu bridge se mandir tak sadak ke liye bhoomi-adhigrahan; GO Rt No. 574 — Rs 3.8 crore drainage pipeline (Mulawagu/Bathukamma Theppa se Jagtial Kaman Junction, Vemulawada Municipality). Vyaktigat bhoomika ‘efforts’ attribution ke roop me darj.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Aadi Srinivas ne Vemulawada Bypass Road par Rs 80 lakh ke Street Vendor Market Zone ka udghatawan kiya — 68 sabzi stalls',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/big-projects-to-boost-infra-in-vemulawada-1870139',
+    date: '2025-04-01',
+    note: 'Deccan Chronicle ke anusar MLA Aadi Srinivas ne Bypass Road par Street Vendor Market Zone ka udghatan kiya; lagat Rs 80 lakh, 68 vegetable stalls, sthaniya vendors ke liye dedicated space. Credit — vyaktigat lokarpan (inauguration) unke dwara. Category Any (market/commerce valid union me nahi).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Aadi Srinivas ne Vemulawada ke ward 11 aur 12 me Rs 56.5 lakh ke CC sadak aur drainage kaamon ki shuruaat ki',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/big-projects-to-boost-infra-in-vemulawada-1870139',
+    date: '2025-04-01',
+    note: 'Deccan Chronicle ke anusar unhone wards 11 aur 12 me Rs 56.5 lakh ka infrastructure work launch kiya — concrete-cured (CC) roads aur modern drainage systems. Credit — vyaktigat launch/shuruaat unke dwara; shehar ki badhti zarooraton ke liye public amenities.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Aadi Srinivas ne Vemulawada ke Sri Joda Anjaneya Swamy Mandir me Rs 31 lakh ki compound wall aur arch ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/will-develop-all-temples-in-telangana-chief-whip-1879760',
+    date: '2025-05-18',
+    note: 'Deccan Chronicle ke anusar Srinivas ne ‘on Sunday’ Sri Joda Anjaneya Swamy Temple, Vemulawada me compound wall aur arch ke nirman ka shilanyas kiya; lagat Rs 31 lakh; Collector Sandeep Kumar Jha saath me. Date inference: article 2025-05-19T00:29:46+05:30 ko publish hua aur event ‘Sunday’ ka hai, isliye event date 2025-05-18 li gayi. Credit — vyaktigat shilanyas unke dwara.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. Deccan Chronicle ‘Rs 99.40 Crore Sanctioned for Vemulawada Temple Development’ — swikriti sarkari, Aadi Srinivas ne sirf CM ka dhanyavaad kiya; vyaktigat bhoomika nahi — reject.
+// R-2. Deccan Chronicle ‘CM unveils projects worth Rs 602 cr in Vemulawada’ (2024-11-20) — CM Revanth Reddy ne lokarpan/shilanyas kiye (Indiramma houses Rs 236 cr, medical college Rs 166 cr, yarn depot Rs 50 cr, ATC Rudrangi Rs 42 cr, etc.); Srinivas ne sirf sabha organise ki/attend kiya — reject (dusre neta ke karyakram me maujoodgi).
+// R-3. Deccan Chronicle ‘Vemulawada’s Rs 150-Crore Temple City... Nears Finish’ — unke quotes bhar; kaam sarkari/VTADA-driven — reject.
+// R-4. Deccan Chronicle ‘Surekha Tells Officials to Fast-Track...’ (2026-02-24) — high-level review meeting me woh maujood, nirdesh mantriyon ne diye — reject (vyaktigat sanction/lokarpan nahi).
+// R-5. Deccan Chronicle ‘Will Develop All Temples in Telangana’ ke andar ki ghoshnaayein (Rs 150 cr allocation/Rs 47 cr sanctioned ka bayan, Gopuram/Kalyana Mandapam/Annadana Satram Rs 76 cr ke vaade) — sirf ghoshna, lokarpan/shilanyas nahi — reject.
+// R-6. Deccan Chronicle ‘Big Projects to Boost Infra’ ke andar ki plans (third bridge Rs 6 cr land acquisition plans, Rs 47 cr road widening ‘underway’, Rs 76 cr mandir tender, Rs 1.5 cr Bastee Hospital, har ward Rs 10 lakh assurance) — plans/assurances, vyaktigat lokarpan nahi — reject.
+// R-7. hindudayashankar ‘Government Whip launches developmental works at Agraharam temple shrine’ (2025-07-08, Rs 34.50 lakh) — non-whitelisted outlet — reject.
+// R-8. hindudayashankar ‘plantation saplings’ (2025-07-29) — non-whitelisted + sirf vriksharopan-daura — reject.
+// R-9. rajannasircilladistrict.com ‘Funds sanctioned for boating facilities in Vemulawada temple tank’ (GO Rt No. 10, 07/01/2026, Rs 1.40 cr; Assembly me unke uthaaye sawal + mantri-ashwasan ka nateeja) — achhi lead par non-whitelisted outlet; whitelisted coverage nahi mili — reject.
+// R-10. Deccan Chronicle ‘Vemulawada Govt Hospital Performs 4 Knee Surgeries’ — ‘Arogyasri ke zariye facilitation’ ka credit; seva-facilitation hai, lokarpan/shilanyas/sanction nahi — reject.
+// R-11. The Hans India ke political pieces (Chalmeda criticism 2026-09-25, KTR attack 2026-09-28) — political bayaanbaazi, works nahi — reject.
+// R-12. Mathrubhumi ‘basement collapses under MLA’ (2025-11-25) — non-whitelisted + nirikshan-daura story; works nahi; unke khilaaf FIR nahi — reject.
+// RETRY LEADS (403/timeout — source NAHI, retry layak): koi nahi — kholte waqt koi whitelisted page fail nahi hua.
+
+// k-t-rama-rao — 5 entries (QA-checked).
+telanganaWorks['k-t-rama-rao'] = [
+{
+    title: 'ACB ne 19 Dec 2024 ko Formula E race mamle me KTR ke khilaf FIR darj ki — HMDA ke lagbhag Rs 55 crore Formula E Operations (FEO) ko videsh bhejane me Finance vibhag ki anumati na lene ka aarop; KTR A1 namzad.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/telangana-hc-dismisses-ktrs-plea-to-quash-acb-case-proceedings-declines-to-extend-arrest-protection-order/article69071282.ece',
+    date: '2024-12-19',
+    note: 'The Hindu (7 Jan 2025) ke mutabik Telangana ACB ki Central Investigation Unit ne 19 Dec 2024 ko FIR jari ki — Prevention of Corruption Act-1988 ki dhaara 13(1)(a) r/w 13(2) aur IPC ki dhaara 409 (criminal breach of trust) ke tahat. ACB ka aarop: 25 Oct 2022 ko BRS sarkar (KTR tab Municipal Administration aur Urban Development mantri the) ne FEO aur Ace Nxt Gen Pvt Ltd ke saath tripartite agreement kiya; Season 9 (11 Feb 2023) ke baad sponsor peeche hata to HMDA sponsor ki jagah aaya; HMDA ne apne general funds se lagbhag Rs 55 crore FEO ko videsh bheje — bina Finance department ki mandatory approvals aur videshi remittance niyamak agencies ki anumati ke. STAGE-SPASHT: ye keval FIR hai — aarop siddh NAHI hue, jaanch/mukadma vicharadhin. RAHAT/PAKSH: single judge ne 20 Dec 2024 ko KTR ko giraftari se suraksha di thi; KTR ne ACB ke counter ka jawab dekar saare aaropon ka khandan kiya. NIE (19 Sep 2026) me KTR ka bayaan: ‘I brought a good initiative, a Formula E race, to the state. But the Congress government cancelled it and registered a criminal case against me.’',
+    period: '2023-2028',
+  },
+  {
+    title: 'Telangana High Court ne 7 Jan 2025 ko KTR ki FIR khatm karane (quash) ki yachika kharij ki; Justice K. Lakshman ne giraftari-suraksha ka aadesh aage badhane se inkaar kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/telangana-hc-dismisses-ktrs-plea-to-quash-acb-case-proceedings-declines-to-extend-arrest-protection-order/article69071282.ece',
+    date: '2025-01-07',
+    note: 'The Hindu (7 Jan 2025) ke mutabik Justice K. Lakshman ne KTR ki criminal petition (FIR ki karyavahi khatm karane ki maang) kharij kar di; judge ne operative part ek minute se kam me sunaya aur giraftari-suraksha ko aage badhane se mana kar diya. KTR ka tark tha ki lagayi gayi penal dhaaraon ke ingredients un par bante hi nahi (mantri public money ke ‘trustee’ nahi hote); Advocate General ne kaha FIR encyclopaedia nahi hoti, scam ujagar karne ke liye aage jaanch zaroori hai. STAGE-SPASHT: quash yachika kharij hone ka matlab sirf itna hai ki ACB jaanch jaari rakh sakti hai — ye dosh-siddhi ka faisla NAHI hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'ACB ne March 2026 me Formula E mamle me KTR sahit paanch aaropiyon ke khilaf chargesheet dayar ki — HMDA ke Rs 55 crore ke kathit durupyog ka aarop; KTR chargesheet me A1.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Sep/19/ktr-again-appears-before-acb-court',
+    date: '2026-03-01',
+    note: 'NIE (19 Sep 2026) ke mutabik ACB ne Dec 2024 me case darj karne ke baad jaanch karke March 2026 me court ke samne chargesheet dayar ki. Chargesheet me aarop: aaropiyon ne lagbhag Rs 55 crore ke HMDA funds ka durupyog kiya; paise transfer karte waqt zaroori anumati aur vittiya prakriyaon ka paalan nahi hua. Aaropi: KTR (A1), IAS adhikari Arvind Kumar (A2), HMDA ke purv chief engineer BLN Reddy (A3), sports consultant Goveda Kiran Malleswara Rao (A4) aur Formula E Operations Ltd UK (A5, co-founder/CCO Alberto Longo dwara represented). STAGE-SPASHT: chargesheet dayar hui hai — aarop siddh NAHI hue, mamla vicharadhin. TITHI-NOTE: page par sirf ‘March 2026’ likha hai, din ka ullekh nahi — date field me mahine ka pehla din diya gaya hai (inferred), reasoning yahan disclose hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'KTR 18 Sep 2026 ko Nampally ACB court me Formula E mamle me pesh hue (31 July ko bhi pesh hue the); court ne sunvai 30 Oct 2026 tak sthagit ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Sep/19/ktr-again-appears-before-acb-court',
+    date: '2026-09-18',
+    note: 'NIE (19 Sep 2026) ke mutabik KTR Friday ko Nampally ACB court me Formula E race case ke silsile me pesh hue; ve isi mamle me 31 July ko bhi court me pesh hue the. Court ne sunvai 30 Oct tak sthagit kar di. Media se baat me KTR ne kaha: ‘I brought a good initiative, a Formula E race, to the state. But the Congress government cancelled it and registered a criminal case against me.’ Unhone kaha ve nyaypalika ka samman karte hain aur jab bhi court bulayega hazir honge. TITHI-NOTE: page par peshi ‘on Friday’ likhi thi (update 19 Sep 2026, 3:12 am); Friday = 18 Sep 2026 inferred hai — reasoning yahan disclose hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'ACB ne 26 Sep 2026 ko Nampally ACB court me KTR sahit 4 aaropiyon ke passport court me pesh karne ka memo dayar kiya; court ka aadesh abhi aana baki — vakeel ka dawa, KTR ka passport abhi jabt NAHI hua.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/acb-seeks-impounding-of-ktrs-passport-in-formula-e-case/articleshow/134571541.cms',
+    date: '2026-09-26',
+    note: 'TOI (29 Sep 2026) ke mutabik KTR ke vakeel Jakkula Laxman ne bataya ACB ne 26 Sep ko Nampally ACB special court me memo dayar karke KTR, purv special chief secretary Arvind Kumar, HMDA purv chief engineer BLN Reddy aur Ace Nxt Gen executive G Kiran Malleswara Rao ke passport court me pesh karne ki maang ki; court notice jari karega, bachav paksh counter dayar karega, phir bahas ke baad aadesh hoga. NIE (29 Sep 2026) me vakeel J Laxman ne pusht kiya: ‘The passport of KTR has not been impounded’ — abhi tak koi notice nahi mila. Videshi aaropi (FEO/Alberto Longo) ka passport sthaniya adhikari jabt nahi kar sakte. Mamle ka recap: Dec 2024 me case darj (Rs 55 crore FEO ko nirdharit prakriya ka ullanghan karke bhejne ka aarop), March 2026 me chargesheet. STAGE-SPASHT: sirf memo dayar hua hai — passport jabt karne ka koi court aadesh abhi tak NAHI hua.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. TOI/NIE/Deccan Chronicle (30 Sep 2026): CM Revanth Reddy ne Sircilla me lagbhag Rs 345.78 crore ke vikas karyon ka shilanyas/lokarpan kiya (Nethanna Bazar, Rs 200 crore Young India Integrated Residential Schools Sircilla+Vemulawada, Vemulawada mandir Rs 99.40 crore, RDO/Tahsildar offices, 10,000 tonne godown Rudrangi, Indira Mahila Shakti Bhavan, women/traffic police stations). Ye CM ke kaam hain — KTR ki koi dastaveji bhoomika nahi; ‘dusre neta ke karyakram me maujoodgi’ nishedh — REJECT.
+//    URL: https://timesofindia.indiatimes.com/city/hyderabad/revanth-draws-battle-lines-in-sircilla-defeat-ktr-get-a-minister/articleshow/134601541.cms
+// R-2. NIE (2 Feb 2023): KTR (tab MA&UD mantri) ne Ghambhiraopet me KG-to-PG campus ka udghatan kiya — karyakaal (Dec 2023+) se pehle + mantri-bhoomika; karyakaal-niyam bahar — REJECT.
+//    URL: https://www.newindianexpress.com/states/telangana/2023/Feb/02/telangana-maud-minister-ktr-inaugurates-first-ever-kg-to-pg-campus-2543596.html
+// R-3. The Hindu (11 Oct 2026, scoopfeeds mirror par): KTR ne CM ko patra likhkar Sircilla me JNTU engineering college ke sthayi campus (2021 me Rs 402 crore par prashasnik anumodan, Mandepalli me 20 acre aavantit) ke nirman me tezi ki maang ki — sirf patra/maang, koi dastaveji nateeja nahi — REJECT (‘sirf daura, maang, ghoshna’).
+//    URL: https://scoopfeeds.com/article/4840a52e-7124-51ab-b54c-d5cf7b7381c7
+// R-4. ANI (27 Sep 2026): KTR ne Sircilla vikas par white paper, bunkaron ke Rs 60 crore bakaya, 10% yarn subsidy, Weaver Insurance, Apparel Park + 88-acre Weaving Park chaloo karne, Rythu Bharosa aadi ki maang ki — sirf maangen, dastaveji nateeja nahi; outlet bhi non-whitelisted (ANI-copy) — REJECT.
+//    URL: https://www.latestly.com/agency-news/india-news-release-white-paper-on-sircilla-development-brs-ktr-to-telangana-cm-revanth-reddy-7623033.html
+// R-5. Supreme Court ne 15 Jan 2025 ko KTR ki SLP ‘dismissed as withdrawn’ ki (Justices Bela M Trivedi, PB Varale — jaanch me dakhal se inkaar, vakeel ne wapas li) — whitelisted outlet me is charan ki report NAHI mili (lawstreet.co, livelaw.in, goachronicle.com, IANS-copies — sab non-whitelisted) — entry NAHI banayi; retry lead L1 dekho.
+// R-6. KTR ne 12 Oct 2026 ko Nampally court me Formula E case se discharge petition dayar ki (BNSS 262(1), ‘no prima facie evidence’ ka dawa; sunvai 30 Oct) — whitelisted outlet me report NAHI mili (sirf ANI-copy: lokmattimes/thenewsmill/dailyprabhat/indianeconomicobserver; siasat/mirrornow non-whitelisted) — entry NAHI banayi; retry lead L2 dekho.
+// R-7. Phone-tapping SIT ne Jan 2026 me KTR se poochtachh ki (NDTV video report) — TASK-NISHEDH: phone-tapping/Kaleshwaram/KCR ke mamle KTR par jodne NAHI hain — include nahi kiya.
+// R-8. ED ne Formula E mamle me ECIR darj kiya (PMLA) — task ka scope ACB-FIR case ke charanon tak tha; whitelisted srot ka khula page bhi is run me nahi padha gaya — lead ke roop me note, entry nahi.
+//
+// RETRY LEADS (whitelisted pushti nahi mili — source nahi banaya):
+// L1. SC order (15 Jan 2025, dismissed as withdrawn): The Hindu / Indian Express / TOI / NDTV / India Today / HT / DC / Telangana Today / Hans India me is aadesh ki report khojo — mile to ek stage-accurate negative entry bane.
+// L2. Discharge petition (12 Oct 2026, Nampally court, BNSS 262(1)): whitelisted outlet me report mile to ‘rahat’ wali entry bane (court ne ACB ko notice diya, sunvai 30 Oct).
+// L3. Telangana Today / The Hans India / Deccan Chronicle ki site-search me ‘Sircilla’ + ‘KTR’ 2024-26: virodhi-dal MLA ke sthaniya karyakram (shilanyas/lokarpan) ki whitelisted report mile to positive entry sambhav — is run me Google-indexed nateejon me kuch nahi mila.
+
+
+// ==== Medak (Batch 4) ====
+// mynampally-rohith — 0 entries (QA-checked).
+telanganaWorks['mynampally-rohith'] = [
+];
+
+// REJECT LOG:
+// R-1. Oneindia partner-content piece (22 Oct 2024, ‘Telangana Cabinet expansion: Dr Mynampally Rohith set for cabinet birth’) me daava: medical college, Medak Municipality underground drainage, road networks, govt hospital upgrade — Rohith ne ‘instrumental’ kiya. Ye partner-content (PR-type) hai, koi vyaktigat lokarpan/shilanyas event, itemized sanction ya GO ka dastavez nahi; maatra daava-satra — REJECT (ghoshna-level claims).
+// R-2. Bizzbuzz (Dec 2024): CM A Revanth Reddy ne Medak me Rs 192 crore ke works ka shilanyas kiya (tribal roads Rs 52.76 cr, Edupayala works Rs 35 cr, Indira Mahila Shakti Bhavan Rs 5 cr, Medak Church works Rs 29 cr). Sab CM/mantri ne kiya; Rohith ki bhoomika darj nahi — REJECT (dusre neta ke karyakram me maujoodgi).
+// R-3. Deccan Chronicle (published 2026-09-26): HKM Foundation centralized community kitchen (Medak Market Yard, 29,183 students across 395 schools + 10 junior colleges) ka lokarpan Minister Gaddam Vivek Venkataswamy ne kiya; Rohith sirf ‘Guest of Honour’ ke roop me upasthit the — REJECT (dusre neta ke karyakram me maujoodgi).
+// R-4. The New Indian Express (05 Oct 2026): Rs 400 crore Sabar Dairy (Amul) plant, Toopran, Medak — shilanyas Union Minister G Kishan Reddy + State Ministers D Sridhar Babu/G Vivek Venkatswamy ne kiya; lekh me Rohith ka zikr tak nahi — REJECT (kendriya/sarkari pariyojna bina bhoomika).
+// R-5. The News Minute (08 Oct 2026) + Siasat (07 Oct 2026): RTV ki report ne Rohith ko landgrabbing case se joda; Rohith ne RTV office ke bahar hungama kiya. Jubilee Hills police ne spasht kaha: Rohith ke khilaf koi land-grabbing case registered NAHI hai — REJECT as negative (shikayat-me-naam lekin FIR-me-naam-nahi = negative NAHI).
+// R-6. Oneindia partner-content + Zee News (2024): cabinet expansion me Rohith ka mantri banana ‘sambhavit’ — REJECT (ghoshna/sambhavit ghatna).
+// R-7. mynampallyrohit.com (self site): Mynampally Social Service Organisation ke philanthropic works (free borewells, water tanks, eye camps, FDs for orphans) — ye niji sangathan ka daan/rahat kaam hai, adhikansh MLA banne se pehle ka — REJECT (daan/rahat, niji kharch).
+// R-8. hyderabadnewshunt (2026): Praja Palana 99-day Action Plan review meeting — Minister ka karyakram; Rohith sirf attendee — REJECT (review-baithak me maujoodgi, kaam nahi).
+// R-9. Times of India (Sep 2026): Health Minister ne Medak govt medical college (Rs 156 cr) ke nirman ki sameeksha ki, 1-year deadline di — minister ka nirnay, Rohith ki bhoomika lekh me darj nahi — REJECT (dusre neta ka kaam).
+// R-10. Halafname ke 2 aapradhik mamle (ADR/Business Standard, News18) — REJECT (halafname ke pending mamle akele negative NAHI).
+
+// vakiti-sunitha-laxma-reddy — 1 entries (QA-checked).
+telanganaWorks['vakiti-sunitha-laxma-reddy'] = [
+{
+    title: 'Telangana High Court ne Narsapur MLA Sunitha Laxma Reddy ko unki FIR-quash criminal petition me police officer ko implead karne ka nirdesh diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/implead-complainant-in-petition-hc-to-narsapur-mla/article69211884.ece',
+    date: '2025-02-12',
+    note: 'The Hindu ke anusaar Telangana High Court ne BRS MLA of Narsapur Sunitha Laxma Reddy ko nirdesh diya ki ve us criminal petition me sambandhit police officer ko implead karen jo unhone apne khilaf jari FIR quash karne ke liye dayar ki thi. MLA aur 10 anyon ke khilaf Yeldurthy Sub-Inspector ne FIR darj ki thi — aarop tha ki unhone Yeldurthy me Ambedkar crossroads ke paas ek virodh-pradarshan ke taur par pradarshan kiya, naare lagaye aur sarvajanik avagaman me badha dali. FIR Indian Penal Code ki Dhara 290 aur 341 ke tahat darj hui aur mamla baad me Hyderabad ke special court ko transfer ho gaya. Justice K. Lakshman ne kaha ki SI ko implead karne ke baad hi trial court me haziri se chhoot ki unki request par vichar hoga; sunvai 18 February ko tay hui. Sunitha Laxma Reddy ka jawab unki khud dayar quash petition me nihit hai (mamle ko kharij karne ki maang). Stage-accurate: FIR + quash petition pending (Feb 2025); report me chargesheet ka zikr nahi hai. Credit/fund disclosure: lagu nahi — yah nyayik vikas hai, vikas-karyakram nahi.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. NDTV (Sep 2026, whitelisted) — black-dress/black-T-shirt protest par Assembly gates par police confrontation; Narsapur MLA V Sunitha Laxma Reddy ko 'minor injury' lagi (alag sources ke anusaar saree ka pallu pakda gaya). REJECT: ve aaropi nahi balki peedit thi; negative criteria me fit nahi, aur koi works-entry bhi nahi (sirf protest coverage).
+// R-2. Telangana Today (Sep 2026, whitelisted) — Harish Rao ka 'selfie challenge' / KLIS canal inspection Reddipalli-Manthur me; Narsapur MLA 'accompanied' (maujoodgi matra). REJECT: dusre neta ke karyakram me maujoodgi + virodh-pradarshan/inspection; vyaktigat lokarpan/shilanyas nahi.
+// R-3. Telangana Today/Dailyhunt (Sep 2026) — 'Former MLA Sunitha questions donations sought for Yadadri temple development works'. REJECT: yah Gongidi Sunitha (Aler) hain, Vakiti Sunitha Laxma Reddy (Narsapur) nahi.
+// R-4. capitalinformation.net epaper (23 Nov 2025) — Narsapur ke Sai Krishna function hall me Indiramma sarees, Kalyana Lakshmi aur Shadi Mubarak checks ka vitaran karyakram jisme 'MLA Sunitha Lakshmareddy' aur District Collector Rahul Raj shamil hue. REJECT: outlet whitelisted nahi + vitaran/abhiyan-jaisa karyakram, vyaktigat lokarpan/shilanyas nahi.
+// R-5. siasat.com (Mar 2025) — Mission Bhagiratha par Assembly me BRS mahila MLAs vs minister Seethakka bahas; Sunitha ne Narsapur me peene ke paani ka sankat aur gaon-karyon ke liye fund ki kami ka mudda uthaya. REJECT: outlet whitelisted nahi + sirf Vidhansabha bahas/maang, dastavezi nateeja nahi.
+// R-6. Assembly walkout (Mar 2025, indtoday.com — non-whitelisted) — Sunitha Laxma Reddy ne kaha Rs 599 crore keval karmachariyon ke vetan ke liye release hua. REJECT: sirf maang/alochna, dastavezi nateeja nahi.
+// R-7. Halafnama ke 5 aapradhik mamle (ADR/Business Standard background data) akele. REJECT: rule ke anusaar halafnama-mamle akele negative nahi; Dec 2023+ ka nyayik vikas chahiye tha — jo The Hindu entry me mil gaya.
+
+
+// ==== Sangareddy (Batch 4) ====
+// koninty-manik-rao — 0 entries (QA-checked).
+telanganaWorks['koninty-manik-rao'] = [
+];
+
+// REJECT LOG:
+// R-1. The Hindu (2025-09-04): Sangareddy Govt Medical College building + 50-bed Critical Care Block ka lokarpan Health Minister C. Damodar Raja Narasimha ne kiya; Zaheerabad MLA Koninty Manik Rao sirf participants me the — dusre neta ke karyakram me maujoodgi, unka vyaktigat lokarpan nahi (https://www.thehindu.com/news/national/telangana/new-building-of-sangareddy-government-medical-college-critical-care-block-inaugurated/article70011357.ece)
+// R-2. New Indian Express (2024-09-10): Nyalkal mandal me proposed pharma industry ke khilaf kisan protest ko MLA ne lead kiya — protest/maang, koi swikriti ya lokarpan nahi (https://www.newindianexpress.com/states/telangana/2024/Sep/10/zaheerabad-farmers-protest-government-move-to-acquire-land-for-pharma-industry)
+// R-3. PM Modi (2026-05-10, HICC Hyderabad event): Zaheerabad Industrial Area (3245 acre, Rs 2350+ crore, Hyderabad-Nagpur Industrial Corridor) ka shilanyas PM ne kiya — kendriya pariyojna, MLA ki bhoomika kahi dastavej nahi; aur srot (newsinc24 IANS repost) non-whitelisted
+// R-4. Apr 2023 Mahindra Last Mile Mobility EV plant ground-breaking (ap7am.com/cityairnews): tenure (Dec 2023+) se pehle; MLA sirf guest the
+// R-5. New Indian Express (2021-09-25): Basaveshwara/Sangameshwara lift irrigation schemes ka administrative approval — tenure se pehle + MLA sirf courtesy call me the
+// R-6. Telangana Today (2026-09-07): BRS ka rasta-roko protest (MLAon ki Assembly me giraftari ke khilaf) — protest, kaam nahi (https://telanganatoday.com/brs-stages-protests-across-erstwhile-medak-over-arrest-of-mlas)
+// R-7. Sep 2026 BRS mock Assembly (siasat.com): MLA ne Speaker ka role-play kiya — symbolic political stunt, kaam nahi (https://www.siasat.com/brs-takes-dig-at-revanth-in-mock-assembly-at-telangana-bhavan-3540884/)
+// R-8. Dailyhunt/Telangana Today e-paper (Oct 2026): Zaheerabad police torture suicide case me MLA ne family ke saath rasta-roko kiya — protest; mirror site non-whitelisted bhi
+// R-9. tconews.in: SC/ST Commission chairman ke visit me MLA maujood — dusre neta ka karyakram + non-whitelisted outlet
+
+// chinta-prabhakar — 0 entries (QA-checked).
+telanganaWorks['chinta-prabhakar'] = [
+];
+
+// REJECT LOG:
+// R-1. The Hindu (2025-09-04) ‘New building of Sangareddy Government Medical College, Critical Care Block inaugurated’: Health Minister C. Damodar Raja Narasimha ne Sangareddy Government Medical College ki nayi building aur GGH ke 50-bed Critical Care Block ka udghatan kiya aur 500-bed GGH building ka shilanyas kiya. Chinta Prabhakar sirf ‘participated’ — dusre neta ke karyakram me maujoodgi = REJECT. (https://www.thehindu.com/news/national/telangana/new-building-of-sangareddy-government-medical-college-critical-care-block-inaugurated/article70011357.ece)
+// R-2. Telangana Today via Dailyhunt (2026-09-17) ‘Jagga Reddy’s 50-ft road widening proposal draws criticism in Sangareddy’: 2.265-km Sangareddy bypass road (IB Guest House se NH-65 Basaveshwara Statue tak) ki 80-feet widening par HMDA ne PEHLE HI Rs 12 crore swikrit kiye the aur kaam chal raha tha. Jagga Reddy (TPCC) ne MLA Chinta Prabhakar par 80-feet widening ka aagrah karne ka aarop lagaya; citizens ne 80-feet jari rakhne ki maang ki. MLA se jodne ka ekmatra srot virodhi neta ka aarop hai — koi GO, sanction list, ya vyaktigat lokarpan/shilanyas ka dastavez NAHI = REJECT. (https://m.dailyhunt.in/news/india/english/telangana%20today%20english-epaper-teltdyen/jagga%20reddys%2050ft%20road%20widening%20proposal%20draws%20criticism%20in%20sangareddy-newsid-n727216894)
+// R-3. Wake Up Telangana (2024-05-30) ‘MLA Chintha Prabhakar Demands Early Release of Rythu Bharosa Funds for Kharif Season’: kharif se pehle Rs 7,500 per acre Rythu Bharosa fund release, aam/mango kisaano ko muaavza — sab SIRF MAANG hai, koi nateeja/swikriti ka dastavez nahi = REJECT. (https://www.wakeuptelangana.com/article/1110/mla-chintha-prabhakar-demands-early-release-of-rythu-bharosa-funds)
+// R-4. Telangana Today (2026-09-02) ‘Congress failed to honour promises in 13 declarations: MLA Chintha Prabhakar’: Sangareddy Collectorate par BRS ka virodh-pradarshan, ‘Congress Baaki cards’ baantna — political protest hai, koi seat-work nahi = REJECT. (https://telanganatoday.com/congress-failed-to-honour-promises-in-13-declarations-mla-chintha-prabhakar)
+// R-5. PM Modi ke Sangareddy karyakram (2024-03-05): Rs 6,800-7,200 crore ke kendriya projects (3 NH projects, NH-65 six-laning, CARO centre, Sanathnagar–Moula Ali rail doubling, Paradip–Hyderabad pipeline) ka lokarpan/shilanyas PM ne kiya — kendriya pariyojna, MLA ki bhoomika ka koi dastavez nahi = REJECT. (Business Standard topic page; bharosa-yogya outlet, lekin seat-work nahi)
+// R-6. South India Times / King English e-paper clips (Aug-Sep 2026): Kalyana Lakshmi/Shadi Mubarak virodh, Collectorate ke saamne dharna, Gun Park protest — sab political protests; non-whitelisted e-paper clips bhi hain, koi work-item nahi = REJECT.
+// R-7. The Hindu (2022-11-14) ‘Claims and counter-claims on medical college’: Sangareddy medical college ke credit par claim-counter-claim — ye Dec 2023 se PEHLE ka hai aur us samay ye MLA nahi the (BRS district president / Handloom chairman the) = REJECT.
+// R-8. The Hindu (2016-05-24) ‘House pattas handed over’: IHSDP ke tahat 432 ghar (168 poore, 168 labharthiyon ko patte) — ye 2014-2018 karyakaal ka kaam hai, Dec 2023+ ke dayre me nahi = REJECT. (https://www.thehindu.com/news/national/telangana/house-pattas-handed-over/article8639271.ece)
+// RETRY LEADS (ye fragment me nahi gaye; agle pass ke liye):
+// L-1. Telangana Today ki site-internal search aur The Hans India archive me ‘Chintha Prabhakar’ + ‘foundation stone’/‘inaugurated’ — Google/Bing index me iske koi hits nahi aaye; seedhi site search ab bhi try ki ja sakti hai.
+// L-2. Telangana Legislature ki assembly-question records (Dec 2023+): Sangareddy ke liye pooche gaye sawalon me koi dastavezi nateeja mila to wo category ‘Question’ me ja sakta hai — abhi tak koi aisa record whitelisted media me nahi mila.
+
+// gudem-mahipal-reddy — 1 entries (QA-checked).
+telanganaWorks['gudem-mahipal-reddy'] = [
+{
+    title: 'Telangana High Court (Justice Anil Kumar Jukanti) ne Patancheru MLA Gudem Mahipal Reddy ke khilaf chunav me matdaton ko paisa baantne ke aarop wale criminal case ki poori karyawahi quash kar di — ye negative entry hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/telangana-hc-tells-sccl-to-review-disability-claims-1916185',
+    date: '2025-11-11',
+    note: 'DC page ke tathya: case me aarop tha ki Vidhan Sabha kshetra me matdaton ko paisa baanta gaya; MLA (yachikakarta) ka paksh — unki yachika me kaha gaya ki shikayat me kathit apradhon ke awashyak tatva hi nahi bante aur unka naam sirf saha-aropiyon ke ikbaliya bayanon par joda gaya, jo kanoonan sakshya ke roop me sveekarya nahi; judge ne paya ki Section 195 CrPC ki aniwarya prakriya ka palan nahi hua kyonki mamla kisi saksham lok-sevak ki magistrate ko likhit shikayat ki jagah flying squad team ki shikayat se shuru hua, aur kathit baramadgi (voter ID cards aur nakdi) bina is pramaan ke ki koi matdata prabhavit hua, chunavi rishwat ke tatva sthapit nahi karti; complaint aur chargesheet apradhon ke awashyak tatva prakat karne me wifal — isliye karyawahi quash, criminal petition allow. Date inference: DC page par search result me ‘Last Updated: 341 days ago’ darj tha; 2026-10-18 se peeche ginkar 2025-11-11 (Tuesday) mili — ye inferred date hai. Stage-accurate: Dec 2023+ ka nyayik vikas — HC ne case quash kiya; is worker ko whitelisted media me iske baad koi aur vikas nahi mila. Credit/fund disclosure: koi sarkari yojna/kharch isme shamil nahi — nyayik prakriya ka mamla hai.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. ThunderPlus EV charging station (Patancheru, ~Oct 2026): private company ka franchise charging station; MLA ne sirf udghatan kiya (indiarenews.in, thunderplus.io) — rule: company/PSU CSR ke kaam jisme MLA ne sirf udghatan kiya REJECT; srot whitelist me bhi nahi.
+// R-2. 200-bed super-specialty hospital, Patancheru (Rs 185.55 crore, GO Jul 2022): MLA ne KCR/Harish Rao se fund mangne ki koshish ki thi, lekin sanction aur foundation (2022-2023, KCR ne 2023 me shilanyas kiya) tenure (Dec 2023) se pehle ke hain + 75% CSR/NGT-funded — pre-term REJECT (siasat.com, medicalbuyer.co.in).
+// R-3. Telangana Today (3 Oct 2026): Vikarabad road accident me mare gaye Patancheru ke 4 logon ke parijanon ke liye Rs 25 lakh ex-gratia ki MAANG + ghayalon ke liye Rs 2 lakh apni jeb se — sirf maang + niji kharch; koi sarkari swikriti/nirnay nahi — REJECT.
+// R-4. Telangana Today (19 Sep 2026): MLA ke janamdin par GMR Yuva Sena ne gig workers ko ~200 helmets baante — BRS party ka ‘gift a smile’ karyakram; party karyakram REJECT.
+// R-5. ED attachment (24-25 Nov 2025): ED ne PMLA ke tahat Santosh Sand and Granite Supply / GVR Enterprises ki ~Rs 80 crore sampattiyan attach kin — ye MLA ke BHAI Gudem Madhusudhan Reddy ki firm hai; MLA se poochtaachh hui par ve khud aaropi nahi; rule: ‘Parivar ke mamle bahar’ — negative NAHI bana (ap7am, siasat, TNM, DC — DC ki headline bhi ‘Mahipal’s Brother’ par hai).
+// R-6. The Hindu (2 Sep 2015): PCL toll-plaza harassment aarop — 2015 ka, window se bahar REJECT.
+// R-7. Capital Information epaper: (a) 18 May 2026 — Ameenpur (Beeranguda division: Jayalakshmi Nagar/Lakshmi Sai Meadows) me drainage canal ki badbu par MLA ka saptah-bhar me samadhan ka aashwasan + CC roads/UGD ke liye Rs 10 crore sanction ka ullekh; (b) 5 Apr 2026 — Muttangi division colonies me CC roads/drainage ‘top priority’, naye kaam shuru — srot whitelist me NAHI (local epaper) aur sanction ka GO/whitelisted-media dastavej nahi mila — REJECT (retry lead: whitelisted outlet me corroboration dhoondho).
+// R-8. Airaavata private hospital grand opening (~Dec 2024, timesofindiadaily.in): niji hospital ka udghatan jisme MLA chief guest — niji sanstha + non-whitelisted srot REJECT.
+// R-9. Granules India water tanks, Bonthapally (Oct 2022, indianpharmapost): company CSR, tenure se pehle — REJECT.
+// R-10. teluguone (2015): TRS MLA ko Rs 15 lakh vasuli me 2.5 saal jail ki khabar — 2015 ka purana mamla, window se bahar + non-whitelisted REJECT (2018 halafname ke 4 mamle isi daur ke; 2023 halafname me criminal cases 0).
+// R-11. 22-A prohibited properties protest (25 Aug 2026, TOI article me zikr): virodh karyakram, koi lokarpan/shilanyas/swikriti nahi — REJECT.
+// R-12. Disqualification petitions dismissed / Speaker clean chit (17 Dec 2025, DC/TOI): dal-badal akele negative NAHI (foundation me khulasa hai) — koi vikas-karya nahi, entry nahi banai.
+// RETRY LEADS: (a) Capital Information wale Ameenpur Rs 10 crore sanction + Muttangi colonies ke kaam — whitelisted outlet (DC/Telangana Today/Hans India) me corroboration ke liye agle pass me ‘Ameenpur’ ‘Patancheru’ par specific search try karo; (b) telangana.gov.in GOIR par Patancheru MLA ke naam se CDP sanction-order search is worker ne nahi kiya — agle pass me try karo.
+
+// patlolla-sanjeeva-reddy — 0 entries (QA-checked).
+telanganaWorks['patlolla-sanjeeva-reddy'] = [
+];
+
+// REJECT LOG:
+// R-1. Kalher Police Station ka naya building MLA Dr Patlolla Sanjeeva Reddy ne khud inaugurate kiya (SP Paritosh Pankaj maujood; station pehle library building me tha, ab fully-equipped nayi building) — lekin sirf Capital Information e-paper (4 Jul 2026 edition, https://www.capitalinformation.net/media/2026-07/4-7-26_pages.pdf) me cover hua; whitelist me koi outlet nahi mila. Retry-lead: agar The Hindu/Deccan Chronicle/Telangana Today/Hans India me kabhi cover mile to turant valid entry banegi.
+// R-2. Boranch village (Manoor Mandal) me Indiramma Housing Scheme ke tehet bana ghar (labharthi Malkannol Parameshwari aur Kishtanna) MLA ne 'on Sunday' (edition 31 Aug 2026; inference: event Sunday 30 Aug 2026 — page me sirf 'on Sunday' likha hai, exact date nahi) inaugurate kiya — lekin sirf Capital Information e-paper (https://www.capitalinformation.net/media/2026-08/31-8-26_pages.pdf) me cover hua; whitelist outlet nahi. Retry-lead.
+// R-3. Kangti me Rs 50 lakh ki branch library building ka shilanyas aur Kangti PHC ko 30-bed CHC me upgrade ka aashwasan — Wakeup Telangana e-paper (10 Jul 2026) ke anusaar dono Health Minister Damodar Rajanarasimha ne kiye; MLA ki bhoomika sirf maang uthana thi (Nizampet PHC ko 24x7 hospital karne ki maang) — dusre neta ka karyakram + sirf maang, reject.
+// R-4. Sampangi Group ne Narayankhed ke 30 sarkari school god liye (computer diye; MLA maujood the) — CSR initiative, MLA ka kaam nahi; reject. (https://www.sampangiinfra.com/30-govt-schools-adopted-by-sampangi-group-in-narayankhed/)
+// R-5. Siasat.com (22 Jul 2025) — food-poisoning hostel students ko MLA ne Narayankhed Govt Hospital me milne gaye — sirf daura; reject.
+// R-6. Telangana Today (20 Sep 2026) — bhai Patolla Chandrasekhar Reddy ko Sangareddy DCC president banwana — political news, works nahi; reject.
+// R-7. Halafname ke 3 mamle (IPC 143/188/341; FIR 158/2017, Narayankhed PS, CC 246/2018, JMFC Narayankhed) — sab pre-tenure affidavit-only entries; Dec 2023+ me koi FIR/chargesheet/janch ya nyayik vikas established media me nahi mila — negative nahi banaya.
+
+// c-damodar-raja-narasimha — 3 entries (QA-checked).
+telanganaWorks['c-damodar-raja-narasimha'] = [
+{
+    title: 'C. Damodar Raja Narasimha ne Andole me 100-bed aspatal, 50-bed MCH centre aur hostel-sahit nursing college ka shilanyas kiya; nursing college ka udghatan bhi (60 BSc Nursing seats, asthaayi roop se sthaniya degree college me kakshayein)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/andole-emerges-as-womens-education-health-hub-1844415',
+    date: '2024-12-05',
+    note: 'Deccan Chronicle ke anusar mantri ne Andole me 100-bed aspatal, 50-bed mother and child health (MCH) centre aur hostel-sahit nursing college ki neenv rakhi. Quote: ‘These facilities will provide better medical services for the people of the Andole constituency. Pregnant women will no longer need to travel to Sangareddy for antenatal check-ups or deliveries.’ Nursing college me 60 BSc Nursing seats; samarpit building-hostel banne tak kakshayein asthaayi roop se sthaniya degree college me chal rahin; udghatan samaroha me MP Suresh Shetkar aur Andole municipal chairman G. Mallayya maujood the. Credit — vyaktigat shilanyas/lokarpan unke dwara; teeno bhautik sarkari sanrachnaayein Andole seat me. Date inference: article me ‘on Thursday’ darj hai aur search-index metadata (‘682 din pehle’ 2026-10-18 se) us Thursday ko 5 Dec 2024 se milata hai — date inferred, reasoning disclosed.',
+    period: '2023-2028',
+  },
+  {
+    title: 'C. Damodar Raja Narasimha ne Andole (Jogipet municipality) me sarkari nursing college ke nirman ke liye Rs 43 crore ki release swikrit ki — GO Ms No. 15, Indian Nursing Council clearance lambit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/telangana-health-minister-sanctions-construction-of-nursing-hospital-898042',
+    date: '2024-06-08',
+    note: 'Deccan Chronicle ke anusar ‘Health minister Damodar Rajanarasimha has sanctioned the release of Rs 43 crore for the development of a nursing college in Andole in Jogipet municipality of Sangareddy district’; Directorate of Medical Education ne prastav diya tha; health secretary Christina Chongthu dwara jaari GO Ms No. 15 me DME ko essentiality certificate; civil works/equipment/furniture ka kharch Telangana Medical Services and Infrastructure Development Corporation karegi; college Dr Kaloji Narayana Rao University of Health Sciences, Warangal se sambaddh hoga, 4-saal ka BSc (Nursing) course, 60 students intake. Khulasa: yah health vibhag ki GO-backed swikriti hai lekin college seedhe Andole seat (Jogipet) me banta hai, isliye seat-work mana gaya; GO number aur rakam srot me darj. Date inference: AMP page par prakashan-tithi visible nahi thi; search-index metadata (‘862 din pehle’ 2026-10-18 se) ≈ 8 Jun 2024 — date inferred, reasoning disclosed.',
+    period: '2023-2028',
+  },
+  {
+    title: 'C. Damodar Raja Narasimha ne Telangana Urban Finance and Infrastructure Development Corporation (TUFIDC) ke tehat Andole municipality ke liye Rs 30 crore ki swikriti ki ghoshna ki aur chalu vikas kaamon ki sameeksha ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/rs-30-crore-for-andole-jogipet-municipality-1857330',
+    date: '2025-01-28',
+    note: 'Deccan Chronicle (byline Narender Pulloor, page par date 28 Jan 2025 11:28 PM IST) ke anusar mantri ne kaha ki Andole municipality ke liye TUFIDC ke tehat Rs 30 crore swikrit hue; nagar me nagrik suvidhaon ko sarvoch prathamikta; unhone adhikariyon ko municipality ke kaam yuddh-star par poore karne ke nirdesh diye. Sameeksha me M.Pharmacy college building ka nirman, advanced library aur municipal offices shamil the; Andole water tank bund ko mini tank bund tourism spot (boating, entertainment, restaurant, beautification, walking track) banane ki yojana ke liye tourism adhikariyon se plan banane ko kaha. Credit — swikriti ki ghoshna + kaamon ki sameeksha unke dwara, Andole seat me.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. hyderabadnewshunt.com ‘Andole road development gets Rs 100 crore’ (~Jun 2026, itemized: Maktakyasaram–Munipalli Rs 30 cr, Sangupet–Pocharam Rs 40 cr, Minpur–Mudimanikyam, Narsingi–Shankarampet Rs 30 cr) — achhi itemized sanction lead par outlet whitelisted nahi; whitelisted coverage nahi mili — reject.
+// R-2. hyderabadnewshunt.com ‘Andole road works worth Rs 16 crore approved’ (~Jun 2026, Choutkur mandal ke 5 gaon, 4 projects itemized) — non-whitelisted outlet — reject.
+// R-3. tmv.in ‘Sangareddy Gets a Boost’ (21 Jan 2026): Jogipet me 327 SHGs ko byaaj-mukt rinn vitaran aur Rs 4 crore SHG bhavan ki ghoshna — non-whitelisted outlet + yojna-vitaran/ghoshna — reject.
+// R-4. Husnabad me 150-bed aspatal ka shilanyas, 100-bed MCH centre ka udghatan, 50-seat PG centre (metroindia.net) — Husnabad alag seat hai, Andole nahi; non-whitelisted outlet — reject.
+// R-5. Boranch lift irrigation project ka shilanyas (therahnuma.com, Oct 2024) — Boranch Narayankhed seat me hai, Andole nahi — reject.
+// R-6. Mancherial me Rs 350 crore super speciality hospital ka shilanyas (Deccan Chronicle) — Mancherial alag seat — reject.
+// R-7. Osmania General Hospital shilanyas ki ghoshna (Siasat, Dec 2024) — Hyderabad, seat ke bahar; mantri-roop ka rajya-stariya faisla — reject.
+// R-8. Gandhi Medical College hostel shilanyas (Siasat, Oct 2024) — Hyderabad, seat ke bahar — reject.
+// R-9. DC article me ‘over Rs 600 crore funds allocated to develop the constituency over the past year’ ka dawa — bina itemization ki ghoshna; shilanyas/sanction ka dastavezi byora nahi — reject.
+// R-10. Andole me fine rice vitaran karyakram (Siasat, Apr 2025) — sarkari yojna ka vitaran, seva-facilitation; lokarpan/shilanyas/sanction nahi — reject.
+// R-11. Medak medical/nursing college sameeksha aur naye college ki ghoshnaayein (TOI Sep 2026, Siasat Oct 2024) — Medak alag seat hai; mantri-roop ke vibhagiya nirdesh — reject.
+// R-12. Shilanyas-se-judi siyasi prateekriyaayein (‘criticises BRS fact-finding committee’, ‘flays KCR’ — The Hindu/Siasat 2024) — siyasi bayaanbaazi, works nahi — reject.
+// RETRY LEADS (whitelisted coverage nahi mili — source NAHI, retry layak):
+// T-1. Rs 100 crore aur Rs 16 crore Andole road sanctions — itemized sarkari swikriti lagti hai, lekin sirf hyderabadnewshunt.com par mili; Telangana Today / The Hans India / Deccan Chronicle par dobara specific search layak.
+// T-2. Rs 43 crore nursing college GO Ms No. 15 — DC ne GO number uddharit kiya; GO text/PDF milta to sanction entry aur mazboot hoti; date bhi exact hoti (abhi inferred 2024-06-08).
+// T-3. 100-bed aspatal + 50-bed MCH centre ke nirman ki pragati (DC Dec 2024 ke shilanyas ke baad) — Dec 2023+ me poore hone ka whitelisted follow-up nahi mila; ‘ready for inauguration’ wali TOI Sep 2026 story Sangareddy nursing college ki hai, Andole aspatalon ki nahi.
+
+
+// ==== Siddipet (Batch 4) ====
+// kotha-prabhakar-reddy — 1 entries (QA-checked).
+telanganaWorks['kotha-prabhakar-reddy'] = [
+{
+    title: 'Durgam Cheruvu me kathit atikraman par HYDRAA ki shikayat par Madhapur police ne Dubbak MLA Kotha Prabhakar Reddy ke khilaf case darj karke janch shuru ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/cities/hyderabad/2026/Jan/03/durgam-cheruvu-grab-bid-hydraa-books-brs-mla',
+    date: '2026-01-03',
+    note: 'Negative entry (stage-accurate: FIR darj, janch jaari; chargesheet ya nyayik vikas ki khabar nahi). HYDRAA ne BRS Dubbak MLA Kotha Prabhakar Reddy ke khilaf Madhapur police me shikayat di ki unhone Durgam Cheruvu ka lagbhag paanch ekad hissa mitti-patthar se bharkar atikraman kiya, 2014 ke FTL notification ka ullanghan karke. Shikayat HYDRAA supervisor Kranthi Anand ne di; MLA ke saath ek Venkat Reddy ka naam bhi shamil hai. Aadhikarik ne aarop lagaya ki MLA parking ke liye zameen kiraye par dekar kamaai kar rahe hain. Madhapur police ne BNS 329(3) r/w 3(5) aur PDPP Act ki dhara 3 ke tahat case darj karke janch shuru ki. Prabhakar Reddy ne aaropon se inkar kiya: kaha unhone do ekad zameen kharidi thi lekin TDR baad me cancel ho gaya; zameen film abhineta Balakrishna aur Lahari Estate ke Haribabu ki zameen ke bagal me hai; parking wali zameen sarkari nahi hai; kanuni ladai ladenge aur police janch me sahyog karenge. Unhone dhamki di ki agar case wapas nahi hua to jheel ke FTL par bane makanon ke saamne virodh-pradarshan karenge. Pehchan seat se pakki: article me "BRS Dubbak MLA Kotha Prabhakar Reddy" naam se darj (Munugode ke Koosukuntla Prabhakar Reddy se alag). Date page ke "Updated on: 03 Jan 2026, 5:35 am" byline se.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. Dubbak Municipality ke liye Rs 15 crore ki administrative swikriti (G.O.Rt.No.577, dated 18.09.2025; MAUD Budget Dept, Congress sarkar) — itemized sanction list GO PDF me milti hai (archive.org), lekin GO me MLA Kotha Prabhakar Reddy ka koi ullekh ya bhoomika darj nahi; virodhi-dal ke MLA ko satta-dal ki sarkari swikriti ka shrey dena bina srot ke hoga — REJECT (srot: archive.org GO PDF).
+// R-2. CMRF ke Rs 34 lakh ke cheque 156 labharthiyon ko camp office par vitaran (Wakeup Telangana e-paper, 1 Apr 2026) — CMRF sarkari rahat fund hai = daan/rahat category — REJECT.
+// R-3. CM Revanth Reddy se mulakat me skill university, integrated school aur constituency ke liye special funds ki maang (The South First, 04 Apr 2025) — sirf maang, koi dastavezi nateeja nahi — REJECT.
+// R-4. "BRS cadres se Congress ki nakamiyan ujagar karne ki appeal" (Telangana Today, 03 Sep 2026) — rajniti campaign/protest — REJECT.
+// R-5. Minister Vivek ke samiksha baithak me jal-bijli ki shikayat (hyderabadnewshunt, ~Oct 2026) — sirf maang — REJECT.
+// R-6. Barish se nuksan dhan ki sarkari khareed ki maang (Siasat, Apr 2024) — sirf maang — REJECT.
+// R-7. Mallannasagar gates kholne ki dhamki, Rythu Maha Dharna (landconflictwatch) — virodh/dharna — REJECT.
+// R-8. Sep 2026 me 20+ BRS MLAs sahit Assembly session se nilamban (ANI via bignewsnetwork) — House ki anushasanatmak karvayi hai, FIR/chargesheet/janch nahi — negative niyamon par khara nahi — REJECT-LEAD.
+// R-9. 30 Oct 2023 ko Siddipet me chaku se hamla (TOI, Indian Express, ETV Bharat, PTI) — Reddy KHUD peedit hain (aaropi G Raju giraftar, us par IPC 307 ka case); ghatna unke MLA karyakaal (03 Dec 2023 se) se pehle ki hai — negative NAHI, isko negative banana mana hai.
+
+// kalvakuntla-chandrashekar-rao — 0 entries (QA-checked).
+// QA-DROP: KCR ki phone-tapping SIT-poochtaach entry hatayi — FIR me ve naamzad aaropi NAHI hain (CrPC 160 ke tahat statement-record); isi batch ke Harish Rao R-4 + Punjab Pargat drop precedent se ye negative NAHI banta. Whitelisted media se KCR ke naamzad-FIR/chargesheet ki pushti par WATCH se wapas aayegi.
+telanganaWorks['kalvakuntla-chandrashekar-rao'] = [
+];
+
+// REJECT LOG:
+// R-1. Deccan Chronicle (Jan 2018) — CM-kaal: Toopran me 50-bed sarkari hospital ka udghatan, Gajwel/Medak ke liye Rs 5cr CC roads/drainage ki swikriti, community hall aur degree college ki ghoshna — pre-term + CM-niyam (rajya-faisle) se reject.
+// R-2. LatestLY/ANI (22 Mar 2026) — CM Revanth Reddy ne Siddipet zila me Rs 775.72cr ki pariyojnaon ka shilanyas/lokarpan kiya, jinme Gajwel ke Kondapaka (Rs 200cr Young India school complex), Markook (Rs 16.62cr school infra + Rs 8.65cr IOC), Jagdevpur (Rs 9.65cr IOC) shaamil — vartaman CM ka kaam, KCR ki koi bhoomika nahi — reject.
+// R-3. The Hindu (Jan 2024) — hip surgery ke baad KCR ka Feb se zila-daura karne ki yojna — yojna/daura matra, koi bhautik kaam nahi — reject.
+// R-4. KCR ka Gajwel thanksgiving daura (2024) — sirf daura/dhanyavaad sabha, koi lokarpan/shilanyas/sanction nahi — reject.
+// R-5. Indian Express (29 Nov 2023) — Gajwel ‘Praja Ashirvada Sabha’ me chunav prachar ka samapan — prachar, karyakaal (Dec 2023) se pehle — reject.
+// R-6. Kaleshwaram Ghose Commission report (31 Jul 2025, tabled Aug 2025) — sirf commission report; KCR ke khilaf koi FIR ya adalat-aadesh nahi — niyam anusaar negative NAHI.
+// R-7. CBI jaanch ka aadesh (GO 1 Sep 2025) — Kaleshwaram pariyojna ki aniyamittaon/embezzlement ki jaanch, KCR vyaktigat roop se naamzad nahi — negative NAHI.
+// R-8. Telangana HC ne Ghose panel report ke aadhaar par KCR ke khilaf action par rok lagai (Apr 2026; The Federal/DT Next — non-whitelisted) — rahat, negative nahi.
+// R-9. Harish Rao ke khilaf phone-tapping shikayat par FIR (Dec 2024, PTI) — aaropi Harish Rao hain, KCR nahi; KTR/Harish/party ke mamle KCR par nahi jodne — reject. (HC ne ye FIR baad me radd bhi kar di — devdiscourse.)
+// R-10. NTV Telugu YouTube (Sep 2026) — ‘final chargesheet me KCR naamzad aaropi’ ka dawa — YouTube/non-whitelist, apusht — negative NAHI; whitelisted pushti par retry lead.
+// R-11. PTI chunav profiles (Oct-Nov 2023, Telegraph/ThePrint) — Gajwel vikas ka credit CM-kaal (2014-2023) ko — pre-term + CM-niyam — reject.
+// R-12. CM Revanth ka ‘Assembly aao ya Gajwel seat chhodo’ challenge (Sep 2026) — siyasi bayan, koi dastavezi kaam nateeja nahi — reject.
+// R-13. KCR ka Gajwel se nomination filing (9 Nov 2023, PTI) — chunav prakriya, kaam nahi — reject.
+// R-14. Halafname ke 9 aapradhik mamle — rajya-andolan-kaaleen, karyakaal me koi naya FIR/legal development nahi — halafnama akele negative nahi.
+// COORDINATOR RETRY-LEAD: NTV Telugu YouTube ka ‘final chargesheet’ dawa (Sep 2026) — agar koi whitelisted outlet (TH/IE/DC/HT/TOI) KCR ko phone-tapping chargesheet me naamzad aaropi pusht kare to negative entry upgrade ho sakti hai; abhi tak aisi pushti nahi mili.
+
+// ponnam-prabhakar — 3 entries (QA-checked).
+telanganaWorks['ponnam-prabhakar'] = [
+{
+    title: 'Ponnam Prabhakar ke lagatar prayason ke baad sarkar ne Husnabad me University College of Engineering (Satavahana University) ko GO No. 19 se swikriti di aur Rs 44.12 crore aavantit kiye; college 2025-26 shaikshik satr se B.Tech (CSE-AI, IT, ECE; pratyek shakha me 60 seats) shuru karega',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/govt-sanctions-engineering-law-colleges-in-husnabad-and-karimnagar-1868963',
+    date: '2025-03-25',
+    note: 'Page par koi published-date stamp nahi tha; date inferred hai — search result me ‘Last Updated: 572 days ago’ (crawl 18 Oct 2026 ke aas-paas) se 25 Mar 2025 nikalti hai. Page ke anusaar Satavahana University ke kulapati Umesh Kumar ne colleges dilwane me Prabhakar ke ‘dedicated efforts’ ko swikara. Isi article me Karimnagar ke law college (GO No. 18, Rs 22.96 crore) ka bhi zikr hai jo seat ke bahar hai — entry me nahi liya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ponnam Prabhakar ne Ummapur (Husnabad mandal) me Satavahana University Engineering College ke ladkon aur ladkiyon ke chhatravason ka shilanyas kiya; dono chhatravason par Rs 7.28 crore prati chhatravas (kul Rs 14.56 crore) kharch honge',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/husnabad-to-be-made-an-education-hub-minister-ponnam-prabhakar-1983641',
+    date: '2026-08-31',
+    note: 'Page ka published stamp: 2026-08-31T11:41:40+05:30; ‘on Monday’ bhi likha hai aur 31 Aug 2026 Somwar hi tha. Minister ne kaha college ki imarat agle saal August tak poori ho jayegi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Husnabad me 100-bistar wale maatri evam shishu swasthya kendra ka lokarpan — swasthya mantri Damodar Rajanarasimha ke saath Ponnam Prabhakar ne sanyukt roop se kiya; Husnabad ka purana 50-bistar aspatal ab 250-bistar suvidha banega',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/telangana-health-minister-damodar-rajanarasimha-lays-foundation-for-new-hospital/articleshow/122126129.cms',
+    date: '2025-06-27',
+    note: 'TOI page par published-date stamp nahi tha; ghatna ki tarikh Deccan Chronicle ke usi daure wale article ke ‘Published: 2025-06-27T22:40:07+05:30’ aur ‘on Friday’ se li gayi hai (27 Jun 2025 Shukrawar tha). Usi daure me swasthya mantri ne 150-bistar hospital block ka shilanyas bhi kiya — lekin wo shilanyas Ponnam ne nahi, swasthya mantri ne kiya tha, isliye entry me nahi liya. Disclosure: ye sanyukt lokarpan tha (swasthya mantri + Ponnam Prabhakar + R&B mantri Komatireddy Venkat Reddy).',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. Law college, Satavahana University, Karimnagar (GO No. 18, Rs 22.96 crore, 2025-26 se 120 seats) — isi DC article me tha lekin Husnabad seat ke bahar; REJECT.
+// R-2. 150-bistar hospital block ka shilanyas Husnabad me — swasthya mantri ne kiya; Ponnam sirf upasthit the (dusre neta ka karyakram); REJECT.
+// R-3. Husnabad me 50-seat PG medical centre ki ghoshna — swasthya mantri ne ki; Ponnam maujood the lekin unka karyakram nahi; REJECT.
+// R-4. Rs 157 crore ki road works (Husnabad-Sundaragiri Rs 77 crore, Sundaragiri-Kothapalli Rs 80 crore) ka launch — usi 27 Jun 2025 ke daure me, swasthya mantri ke karyakram ka hissa; REJECT.
+// R-5. The Hindu (2 May 2026) 'Husnabad constituency witnessing all-round development' — sirf bhashan/ghoshna (school 'will be set up', bus stands 'will be developed', tenders 'have been called'); koi vyaktigat lokarpan/shilanyas nahi; REJECT.
+// R-6. Economic Times ka purana case (AP police ne 'helicopter shot down' bayan par case darj kiya) — 2014 ka hai, karyakaal (Dec 2023+) se bahar; negative nahi.
+// R-7. hyderabadnewshunt, tmv.in, munsifdaily, therahnuma, telanganatribune, siasat — whitelist me nahi; inke leads use nahi kiye.
+// R-8. DC 'Preparing Action Plan to Address Every Village Problem in Husnabad' (6 Oct 2026) — sirf daura/ghoshna; REJECT.
+// R-9. DC 'Minister Ponnam's Alleged Remarks Against Fellow Minister' (7 Oct 2025) — siyasi vivad; FIR/chargesheet/janch ka koi tathya nahi — negative criteria poora nahi; REJECT.
+// R-10. CM Revanth Reddy ke 3 Dec 2024 ke Husnabad daure me shilanyas (engineering college, ATC, roads) — CM ne kiye; dusre neta ka karyakram; REJECT.
+
+// thanneeru-harish-rao — 1 entries (QA-checked).
+telanganaWorks['thanneeru-harish-rao'] = [
+{
+    title: 'Dec 2024 me Panjagutta police station me Harish Rao aur Task Force ke purva DCP P. Radhakishan Rao ke khilaf phone-tapping ki FIR darj hui — shikayatkarta G. Chakradhar Goud, Siddipet ke realtor jo 2023 me Harish Rao ke khilaf Assembly chunav haare the; Telangana High Court ne Mar 2025 me FIR radd kar di aur Supreme Court ne 5 Jan 2026 ko rajya sarkar ki SLP kharij karke mamla dobara kholne se inkar kar diya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/phone-tapping-case-sc-dismisses-t-govt-pleas-against-harish-rao/articleshow/126359105.cms',
+    date: '2026-01-05',
+    note: 'TOI (kholkar padha gaya) ke mutabiq: FIR Dec 2024 me Panjagutta PS me darj hui — aarop tha ki Harish Rao aur Radhakishan Rao ne G. Chakradhar Goud ke phone ki gairkanuni tapping karwai; Goud 2023 me Siddipet se Harish Rao ke khilaf chunav haare the. HC ne Mar 2025 me FIR radd ki; uske baad Goud ki yachika bhi SC ne kharij ki. Phir rajya sarkar ne khud SLP dayar ki — Justice B.V. Nagarathna aur Justice Ujjal Bhuyan ki peeth ne kaha dobara janch ka koi naya aadhar/taza saboot nahi, HC ke vistrit aadesh me dakhal ka koi auchitya nahi. Radhakishan Rao alag, bade phone-tapping case me bhi aaropi hain (TOI). Raahat: HC (Mar 2025) aur SC (5 Jan 2026) dono staron par FIR radd/upheld — is samay Harish Rao ke khilaf is mamle me koi sakriya FIR/janch nahi. Shikayat Goud ki; janch rajya police/SIT ki; raahat adalati aadeshon se.',
+    period: '2023-2028',
+  },
+];
+
+// REJECT LOG:
+// R-1. Rs 1,070 crore ke kaam radd hone ka aarop + CM ko khula patra (The Hindu 21 Mar 2026,
+//   TOI, Deccan Chronicle 21 Mar 2026, New Indian Express 23 Mar 2026): sirf aarop/maang hai,
+//   koi naya vyaktigat kaam nahi; suchi me zyadatar mantri-kaal (Dec 2023 se pehle) ki
+//   swikritiyan hain (veterinary college, Ranganayaka Sagar tourism, Komati Cheruvu Shilparamam,
+//   Siddipet outer ring road, agriculture college, sports stadium, four-lane roads, auditorium,
+//   integrated market). Niyam: maang/ghoshna/aarop = reject.
+// R-2. Narmetta oil palm factory (Rs 300 crore): shilanyas Oct 2023 me vitta mantri ke roop me
+//   Harish Rao ne kiya tha (New Indian Express, 1 Oct 2023) — mantri-kaal, period se bahar;
+//   lokarpan 22 Mar 2026 ko CM Revanth Reddy ne kiya, Harish Rao karyakram me anupasthit rahe
+//   (New Indian Express, 23 Mar 2026). Reject: mantri-kaal + lokarpan unhone nahi kiya.
+// R-3. Swasthya buniyadi dhancha (Rs 3.6 crore central drug store, Rs 25 crore Ayush hospital,
+//   Gatla Malyala PHC Rs 1.4 crore, Siddipet urban PHC, 30 acre par Rs 78 crore zila jail):
+//   The Hindu (21 Mar 2026) ke mutabiq ye sab unhone swasthya mantri ke roop me swikrit kiye the
+//   — mantri-kaal, period se bahar; lokarpan CM ne Mar 2026 me kiya. Reject.
+// R-4. Phone-tapping case me SIT puchtaach (20 Jan 2026, CrPC 160 notice, ~8 ghante):
+//   sirf puchtaach/saman = negative NAHI (Deccan Chronicle/ANI, WebIndia123; TOI Jan 2026:
+//   ab tak police ne sirf 6 adhikariyon ko aaropi banaya hai, koi neta aaropi-soochi me nahi).
+// R-5. Ghose Commission (Kaleshwaram) indictment: sirf commission report = negative NAHI;
+//   Telangana HC ne 22 Apr 2026 ko KCR aur Harish Rao ke khilaf findings ko 'inoperative'
+//   karar diya, un par koi karrawai nahi ho sakti (Indian Express, kholkar padha gaya).
+//   Ye raahat hai, negative nahi.
+// R-6. NTV Telugu ka dawa 'final chargesheet taiyar, KCR/KTR/Harish Rao aaropi': NTV Telugu
+//   whitelist me nahi; kisi whitelisted outlet me pushti NAHI mili. Reject; retry-lead dekho.
+// R-7. Chunav yachika (Telangana HC ne Jun 2025 me kharij ki): foundation record me pehle se
+//   darj; niyam — chunav-yachika negative NAHI.
+// R-8. KCR/KTR par phone-tapping ya Kaleshwaram ke mamle: Harish Rao par NAHI jode gaye —
+//   niyam ke mutabiq sirf unke khilaf satyapit FIR/janch hi gini gayi.
+// RETRY LEADS (abhi entry nahi, baad me dobara janch):
+// T-1. Agar phone-tapping SIT chargesheet dayar karke kisi whitelisted outlet me Harish Rao
+//   ko naamzad aaropi bataye to negative entry banao (ab tak: TOI Jan 2026 tak koi neta
+//   aaropi nahi; NTV dawa apusht).
+// T-2. Kaleshwaram par CBI janch ka elan (CM, Aug 2025): agar CBI FIR me Harish Rao ka naam
+//   aaye aur whitelisted media me pusht ho to revisit karo (ab tak aisa kuch nahi).
