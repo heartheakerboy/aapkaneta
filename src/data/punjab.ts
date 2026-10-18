@@ -6,7 +6,7 @@
 // sarvasammati se chune gaye (Tribune/PTI). LoP: Partap Singh Bajwa (INC, Qadian) —
 // 9 Apr 2022 ko CLP leader bane; 1-2 Jul 2026 ko AICC ne barkarar rakha (New Indian Express/PTI).
 // Daliya sthiti 2022 parinaam: AAP 92, INC 18, SAD 3, BJP 2, BSP 1, IND 1 = 117.
-// VARTAMAN tally (Oct 2026, seat-wise gini hui): AAP 94 / INC 16 / SAD 3 / BJP 2 / BSP 1 / IND 1 = 117.
+// VARTAMAN tally (Oct 2026, seat-wise gini hui): AAP 95 / INC 16 / SAD 2 / BJP 2 / BSP 1 / IND 1 = 117. (Sudhaar 2026-10-18: Banga ke Sukhwinder Kumar Aug 2024 me SAD se AAP me aaye the — pehle ki ginti me SAD 3/AAP 94 likha tha.)
 // 2022 ke baad ke badlav: (1) Mar 2024 — Sheetal Angural (Jalandhar West, AAP) ne istifa diya, BJP me gaye;
 // (2) Mar 2024 — Raj Kumar Chabbewal (Chabbewal, INC) AAP me gaye (Jun 2024 me Hoshiarpur MP bane);
 // (3) Jun 2024 — 4 MLAs MP bane (Warring/Gidderbaha, Randhawa/Dera Baba Nanak, R. Chabbewal/Chabbewal,
@@ -1566,14 +1566,15 @@ export const punjabNetas: Neta[] = [
   {
   slug: 'sukhwinder-kumar',
       name: 'Sukhwinder Kumar',
-      party: 'Shiromani Akali Dal',
-      partyShort: 'SAD',
+      party: 'Aam Aadmi Party',
+      partyShort: 'AAP',
       post: 'MLA',
       state: 'Punjab',
       constituency: 'Banga (SC)',
       constituencySlug: 'banga',
       tenures: [
-        { post: 'MLA', constituency: 'Banga (SC)', constituencySlug: 'banga', party: 'Shiromani Akali Dal', start: '2022', end: '2027' },
+        { post: 'MLA', constituency: 'Banga (SC)', constituencySlug: 'banga', party: 'Shiromani Akali Dal', start: '2022', end: '2024' },
+        { post: 'MLA', constituency: 'Banga (SC)', constituencySlug: 'banga', party: 'Aam Aadmi Party', start: '2024', end: '2027' },
       ],
       works: [],
       fund: {
@@ -1590,9 +1591,9 @@ export const punjabNetas: Neta[] = [
         assets: 'Rs 3,31,13,965',
         liabilities: 'Rs 97,32,446',
         mynetaUrl: 'https://myneta.info/Punjab2022/candidate.php?candidate_id=789',
-        backgroundNote: 'Pehchan pakki: Banga (SC), SAD, Winner. Halafname me naam SUKHWINDER KUMAR — Dr. Sukhwinder Kumar Sukhi ke naam se jane jate hain, umr 61, MBBS aur MS (ENT) Dayanand Medical College Ludhiana se 1992 me, pesha doctor (private hospital), 3 criminal cases (COVID-lockdown aur virodh-pradarshan se jude IPC 188/269/270/341/283/431/511 adi), kul sampatti Rs 3,31,13,965, deyn Rs 97,32,446.',
+        backgroundNote: 'Pehchan pakki: Banga (SC), SAD ticket par winner (2022). Halafname me naam SUKHWINDER KUMAR — Dr. Sukhwinder Kumar Sukhi ke naam se jane jate hain, umr 61, MBBS aur MS (ENT) Dayanand Medical College Ludhiana se 1992 me, pesha doctor (private hospital), 3 criminal cases (COVID-lockdown aur virodh-pradarshan se jude IPC 188/269/270/341/283/431/511 adi), kul sampatti Rs 3,31,13,965, deyn Rs 97,32,446. 14 Aug 2024 ko SAD chhodkar AAP me shaamil hue (PTI); Jan 2025 me Punjab State Container and Warehousing Corporation (CONWARE/PSCWC) ke chairman bane (Cabinet-rank), Jan 2026 me missing-saroop vivad par chairman-pad aur cabinet-rank se istifa diya (HT/Tribune).',
       },
-      electionNote: '2022 me Banga (SC) se 37,338 vote lekar jeete; runner-up Tarlochan Singh (INC, 32,269 vote) ko 5,069 maton se haraya.',
+      electionNote: '2022 me Banga (SC) se 37,338 vote lekar jeete (SAD ticket par); runner-up Tarlochan Singh (INC, 32,269 vote) ko 5,069 maton se haraya. 14 Aug 2024 ko SAD chhodkar AAP me shaamil hue (PTI); Jan 2025 se Jan 2026 tak PSCWC chairman (Cabinet-rank) rahe.',
   },
   {
   slug: 'nachhatar-pal',
@@ -1778,7 +1779,7 @@ export const punjabNetas: Neta[] = [
         mynetaUrl: 'https://myneta.info/Punjab2022/candidate.php?candidate_id=239',
         backgroundNote: 'Pehchan pakki: Kharar, AAP, Winner. Halafname me naam ANMOL GAGAN MAAN, umr 31, 12th PSEB se 2007 me, pesha artist-singer, koi criminal case nahi, kul sampatti Rs 1,23,48,733, deyn Rs 39,09,118.',
       },
-      electionNote: '2022 me Kharar se 78,273 vote lekar jeetin; runner-up Ranjit Singh Gill (SAD, 40,388 vote) ko 37,885 maton se haraya. Sep 2024 tak Punjab cabinet me mantri thin, uske baad cabinet se bahar.',
+      electionNote: '2022 me Kharar se 78,273 vote lekar jeetin; runner-up Ranjit Singh Gill (SAD, 40,388 vote) ko 37,885 maton se haraya. Sep 2024 tak Punjab cabinet me mantri thin, uske baad cabinet se bahar. 19 Jul 2025 ko unhone MLA-pad se istife ki ghoshna ki, lekin AAP ne 20 Jul 2025 ko istifa kharij kar diya — ve Kharar ki MLA bani hui hain (The Hindu/Tribune).',
   },
   {
   slug: 'kulwant-singh-sas-nagar',
