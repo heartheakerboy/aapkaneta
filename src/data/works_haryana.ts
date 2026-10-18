@@ -2239,3 +2239,746 @@ haryanaWorks['shakuntla-khatak'] = [];
 // R-9. MLA ke official social posts (Facebook @mlakalanaur, Instagram @mlakalanaur, 2024-10-08 ke baad) — cultural samaroh, BLA-2 training camp, dharmik karyakram, block-adhyakshon ki niyukti se jude posts; koi bhautik lokarpan/shilanyas/swikriti nahi mili. Reject.
 // R-10. MyNeta 2024 halafnama — unke khilaf koi aapradhik mamla nahi (0 cases); koi negative nahi banta.
 
+
+
+// ---- Jhajjar district batch (researched 2026-10-17) — Batch 6 ----
+// ---- Jhajjar district batch (researched 2026-10-17) — WORKER: rajesh-joon ----
+// Rajesh Joon, IND MLA, Bahadurgarh (S/o Bhoop Singh, age 57). Won Oct 2024 as Independent
+// by 41,999 votes; chunav ke baad BJP sarkar ko samarthan diya lekin party record me IND hi hai.
+// QA: English + Hindi (udghatan/shilanyas/nariyal) search batches; whitelist outlets
+// (Hindu, Express, HT, NDTV, India Today, TOI, Tribune, Bhaskar, Jagran, Amar Ujala, PTI)
+// Oct 2024 - Oct 2026 me check kiye. 1 valid positive (Jagran, khuli hui page se confirm),
+// 0 valid negatives (halafname ka FIR 3/2021 PNDT mamla pre-term pending hai, halafname
+// akele negative nahi hota aur Oct 2024 ke baad established media me koi FIR/chargesheet/
+// janch ya nyayik vikas nahi mila).
+haryanaWorks['rajesh-joon'] = [
+  {
+    title: 'MLA Rajesh Joon ne Bahadurgarh me Rs 5.40 crore ki laagat se Sector 6 ki mukhya sadak aur 9 sampark sadkon tatha Ward 3 ke Diggi marg ki sadak ke nirmaan ka nariyal fodkar shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/bahadurgarh-bahadurgarh-mla-joon-starts-540-cr-road-projects-40375281.html',
+    date: '2026-09-14',
+    note: 'Dainik Jagran ke anusaar MLA ne somvaar ko Rs 5.40 crore ki sadkon ke nirmaan ka nariyal fodkar shubharambh kiya: Sector 6 ki mukhya sadak aur 9 sampark sadkon par Rs 3.83 crore, Ward 3 ke Diggi wale mukhya marg par Rs 1.57 crore; Diggi marg drain tak banegi, Ward 2 aur 3 ke logon ko laabh hoga; nagar parishad adhikari karyakram me maujood the. MLA ne bataya ki CM Nayab Saini ke aashirwad se kaam ho rahe hain, October 2025 me final estimate ke nirdesh mile the aur November me Rs 18.80 crore swikrit hue the (ye swikriti-aankda MLA ke bayaan par adhaarit hai), adhikariyon ki kami aur anya karanon se tender me deri hui. Tarikh anumaanit: Jagran ne tithi nahi di, event ko somvaar bataya; report Wed 16 Sep 2026 ko publish hui — usi aadhaar par 2026-09-14 rakhi gayi (date command se Monday=2026-09-14 verify kiya).',
+    period: '2024-2029',
+  },
+];
+// REJECT-LOG (rajesh-joon):
+// R-1. fridaygurgaon.com, "FG: Joon Bahadur" — ye Rajendra Joon (Congress, 2009-era Bahadurgarh MLA) ka purana interview hai, Rajesh Joon NAHI; pre-term; non-whitelist portal. Pehchan galat — reject, koi retry-lead nahi.
+// R-2. TOI (whitelist), "Bahadurgarh sanitation row: Workers seek redress, MLA calls for dialogue" (Sep 2026, amp_articleshow/133413351, khola aur padha gaya) — MLA office me sanitation workers se jhadap aur baat-cheet; MLA ke viruddh koi FIR/chargesheet/janch nahi; sirf maangon par vichar ka aashwasan. Na work na negative — reject. Retry-lead nahi.
+// R-3. The Tribune (whitelist), "Haryana CM Nayab Saini attends wedding of Independent MLA Rajesh Joon's son" (29 Apr 2026) — parivaar samaroh (bete Sachin ki shaadi); bhautik kaam nahi. Reject.
+// R-4. india365news.com + lalluram.com — Sector-2 me Rs 7.5 crore ke karyon par MLA (Rajesh Joon) vs nagar parishad chairperson (Saroj Rathi) shrey-vivad — dono non-whitelist portals; shilanyas chairperson aur BJP netaon ne kiya, MLA karyakram me maujood bhi nahi; MLA ko shrey dene ka koi dastavej nahi. Reject. Retry-lead: isi Sector-2 event ki coverage kisi whitelist outlet me mile to dobara dekho.
+// R-5. newsdive.net, "Haryana MLAs Remain Silent During Question Hour" (~Jun 2026) — Rajesh Joon ka dawa "Oct 2024 se 46 demands uthayi"; non-whitelist outlet; koi dastaveji nateeja/mantri-ashwasan darj nahi. Sirf dawa — reject.
+// R-6. myneta.info affidavit (Haryana2024, candidate_id=957, khola aur padha gaya) — 1 pending case: FIR No. 3/2021, COMI Ms. Sonia Sheokand Bahadurgarh, IPC Section 23, 25 + PNDT Act Rules 3A, 3(3), 18(v), 18(6); charges framed: No; 2014 declaration me 0 cases. Pre-term pending mamla hai; halafname akele negative nahi hota; Oct 2024 ke baad established media me is mamle me koi FIR/chargesheet/janch ya nyayik vikas nahi mila — negative entry nahi banayi. Retry-lead: P&H High Court site par COMI Bahadurgarh case status check ho sakta hai.
+// R-7. livelaw.in, P&H High Court PNDT ruling (Sep 2026) — alag vyakti (Renu Deswal, Shri Balaji Imaging & Pathology Centre, Bahadurgarh); Rajesh Joon nahi. Pehchan galat — reject.
+// R-8. indiankanoon.org (doc/870265) "Rajesh and others Vs State of Haryana" (1994 case) aur courtkutchehry.com "Rajesh Vs State of Haryana" (Badhra minor shooting) — dono alag vyakti; pehchan Rajesh Joon se match nahi hoti. Reject.
+// R-9. indiankanoon.org (doc/159178226), "Mukesh Joon & Others vs State of Haryana" (19 Jul 2022) — FIR No.108/2016 (323, 354, 377, 498-A, 506 IPC, PS Line Par Bahadurgarh) quash petition; petitioners Mukesh Joon and others, MLA khud nahi; pre-term; established-media coverage nahi. Reject.
+// R-10. newsonair.gov.in (Akashvani), Congress ne Rajesh Joon ko 6 saal ke liye suspend kiya (24 Sep 2024) — pre-term (8 Oct 2024 se pehle), party anushasanatmak karwai, koi FIR/janch nahi; non-whitelist outlet. Reject.
+// R-11. The Hindu (7 Sep 2024) + PTI via ThePrint — Congress se istifa karke Bahadurgarh se independent chunav ladne ka elaan — pre-term chunav khabar; na work na negative. Reject.
+// R-12. wionews.com, "Two independent MLAs join BJP" (9 Oct 2024) — non-whitelist; party-support/bharosa akele negative nahi; project record me party IND hi rakhi gayi hai. Reject.
+// R-13. english.publictv.in (ANI feed) — BJP sarkar ke samarthan ka patra Governor ko (Oct 2024) — non-whitelist; samarthan akele na work na negative. Reject.
+// R-14. Amar Ujala (whitelist, khola aur padha gaya, ~10 Oct 2026), "Do varshon me Bahadurgarh ki janta ko haath lagi nirasha: Rajendra Singh Joon" — poorv Congress MLA (Rajendra Singh Joon) ka siyasi aarop ki Rajesh Joon ne 2 saal me koi naya project swikrit nahi karwaya; vipakshi bayan/aarop-pratyaraop, koi documented work nahi; negative bhi nahi (koi FIR/janch nahi). Reject.
+// R-15. India Today / News18 / PTI (Oct 2024) — chunav parinaam coverage (41,999 votes se jeet) — chunav reporting; works me nahi. Reject.
+
+// ---- Haryana district batch (researched 2026-10-17) — Worker: Kuldeep Vats (Badli, INC) ----
+// Note: har line ko Roman Hinglish me rakha gaya hai; currency 'Rs' style me.
+haryanaWorks['kuldeep-vats'] = [
+  { title: 'Lord Parshuram Bhawan shilanyas samaroh me hui hinsa ke mamle me Badli MLA Kuldeep Vats, unke bhai aur bhatijon sahit 7 par City Police Station Jhajjar me BNS dharaon 115, 126, 3(5) aur 351(3) ke tehat FIR darj.', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/haryana/haryana-congress-mla-kuldeep-vats-brother-among-7-booked-for-violence-at-lord-parshuram-bhawan-ceremony-in-jhajjar/', date: '2026-04-11', note: 'Tribune ke anusaar 5 April ko Brahman Mahasabha dwara Sector 9 Jhajjar me ayojit shilanyas samaroh me Cooperation Minister Arvind Sharma ke jaane ke ek ghante baad hinsa hui; Mahasabha ke general secretary Sant Surheti ki shikayat par FIR darj hui; shikayat me aarop hai ki Vats maujood the aur jhagde ke ‘root cause’ the. Vats ka jawab: FIR ‘deep-rooted conspiracy’ hai, unhone media ko bataya ki unhone kisi ke khilaf ek shabd nahi kaha aur ve FIR ko challenge karenge plus defamation suit dayar karenge. Stage: FIR darj; koi chargesheet/giraftari ki report abhi tak nahi.', period: '2024-2029' },
+];
+// R-1. The Tribune, "Lord Parshuram Bhawan Ceremony turns violent in Jhajjar" (Apr 2026, opened and read: https://www.tribuneindia.com/news/lord-parshuram-bhawan-ceremony-turns-violent-in-jhajjar/) — usi ghatna ki pehli report jisme Vats sirf maujood the (shilanyas Minister Arvind Sharma ne kiya); works entry nahi (dusre neta ka karyakram + maujoodgi). REJECT as works; FIR follow-up upar negative me darj.
+// R-2. Dainik Tribune, drain number-8 me Rewari ka kathit pradushit pani (16 Oct 2026, opened and read: https://www.dainiktribuneonline.com/news/gurugram/villagers-in-badli-area-are-angry-over-rewaris-polluted-water-being-discharged-into-jhajjars-drain-number-8/) — Vats grameenon ke saath DC se mile, gyapan saunpa; sirf maang/pradarshan, koi dastavezi nateeja nahi. REJECT.
+// R-3. Dainik Bhaskar, flooded villages daura (Aug 2025, opened and read: https://www.bhaskar.com/local/haryana/jhajjar/news/badli-mla-visited-waterlogged-areas-villages-135797427.html) — lagbhag 20 gaon ka nirikshan, muaavze ka ashwasan; sirf daura/nirikshan. REJECT.
+// R-4. Dainik Bhaskar (Jan 2026) aur Amar Ujala (opened, search result): Kanpur ke badmash ka MLA ko dhamki-bhara call; aaropi giraftar — isme MLA VICTIM hain, aaropi nahi; negative rules ke liye MLA KHUD aaropi lazmi. REJECT as negative.
+// R-5. Dainik Jagran (June 2026, search result: jagran.com/haryana/jhajjar-cm-nayab-singh-sainis-major-gift-to-jhajjar-40275980.html): CM Saini ka Jhajjar/Badli daura — 9 pariyojnaon ka lokarpan, 50-bed hospital/70 km sadak/Mahagram sewerage-payjal ki GHOSHNAEN; ye CM ka karyakram hai, MLA ki vyaktigat bhoomika report me nahi; ghoshnaon ke peeche GO/list nahi. REJECT (dusre neta ka karyakram + sirf ghoshna).
+// R-6. Haribhoomi (17 Jun 2026, haribhoomi.com/state-local/haryana/news/cm-nayab-saini-gift-badli-area-100229): usi CM daure ki report — non-whitelist outlet bhi hai; REJECT.
+// R-7. nationpress.com (17-18 Jun 2026, CM Saini Jhajjar inaugurations): CM ke karyakram; non-whitelist portal; REJECT.
+// R-8. 5dariyanews.com (Budget session Zero Hour): mantri Krishan Lal Panwar ne MLA Kuldeep Vats ke mudde par jawab dete hue Badli gaon me Rs 1,19,39,000 ki Smart Gali swikriti ki ghoshna ki — ye Vidhansabha-maang ka sambhavit dastavezi nateeja hai, lekin source non-whitelist (5dariyanews) hai; whitelist outlet (Tribune/Bhaskar/Jagran) me is par koi report khuli web search me nahi mili. Retry lead: Budget session 2025/2026 ke sarkari transcript ya whitelist outlet me 'Smart Gali Badli 1.19 crore' khojo; mili to swikriti entry ban sakti hai (credit capped).
+// R-9. The Tribune (Jan 2026, "MGNREGA rights being snatched away, alleges Jhajjar MLA"): Vats Geeta Bhukkal ke saath dharne me shaamil; virodh-pradarshan hai, koi kaam nahi. REJECT.
+// R-10. haryanaassembly.gov.in PDFs (2021-2023 ke sawal: drain-8, sadak marammat, hospital/mini-secretariat/community centre proposals) — sab pre-term (Oct 2024 se pehle); sirf prashn/maang, koi mantri-ashwasan/nateeja is karyakaal me whitelist media me report nahi. REJECT.
+// R-11. thejanpost.com bio page: non-whitelist; dawa-khairaat (koi post-event reporting nahi, 'no criminal case' jaisa galat dawa — halafname me 1 case darj). REJECT.
+// R-12. TOI (Sep 2026, "Deepender Hooda targets BJP over governance"): party workers ki baithak me Vats ka ticket-report-card bayan; siyasi baithak, koi bhautik kaam nahi. REJECT.
+// R-13. haryanabulletinnews.com (June 2023, Uchana bayan + Jhajjar-Badli sadak ka dawa): pre-term; siyasi bayan. REJECT.
+// R-14. nayahaya.../nayaharyana.com Jhajjar-Farrukhnagar SH-15A four-laning (Rs 64.49 crore manzoori, DC ka bayan): sarkari road project hai, MLA ki vyaktigat bhoomika/shrey kahin report nahi; non-whitelist portal bhi. REJECT.
+// R-15. Halafnama pending case (187/2010, PS Bilaspur, foundation note) — halafname ke pending mamle akele negative nahi (nirdesh); wartaman karyakaal me is mamle ka koi nyayik vikas whitelist media me report nahi hua. Retry lead: Jhajjar court cause-list/District Courts portal par case number se check (parent chahe to manually verify karein).
+// R-16. Retry lead: Dainik Bhaskar/Jagran/Amar Ujala Jhajjar editions (2025-26) me 'Kuldeep Vats shilanyas/lokarpan' wali koi itemized report khuli web search me nahi mili; MLALAD (Budget 2025-26 restart, Rs 5 crore poore karyakaal ke liye) ki DC-office sanction list online nahi hai. Parent chahe to Jhajjar DC office RTI/portal route se verify karein.
+
+// ============================================================
+// Geeta Bhukkal (slug: geeta-bhukkal) — Jhajjar (SC), INC
+// Purva Haryana shiksha mantri. Works-research worker report.
+// Research date: 2026-10-17. Period covered: Oct 2024 - Oct 2026.
+// Pehchan pakki: src/data/haryana.ts slug 'geeta-bhukkal',
+//   Jhajjar (SC), INC, halafnama criminalCases: 0.
+// ============================================================
+//
+// REJECT-LOG (har reject: source + wajah + retry-lead)
+// ------------------------------------------------
+// 1. Tribune topic page "jhajjardevelopment" (https://www.tribuneindia.com/topic/jhajjardevelopment?type=tag)
+//    — "she inaugurated development works" wali line actually Haryana Irrigation Minister Shruti Choudhry ke
+//    baare me thi (Oct 2026), Geeta Bhukkal ke baare me NAHI. Galat pehchan ka risk — REJECT.
+// 2. The Tribune "Congress constituencies neglected by state govt, says ex-Edu Minister Bhukkal"
+//    (https://www.tribuneindia.com/news/congress-constituencies-neglected-by-state-govt-says-ex-edu-minister-bhukkal/, Mar 2026)
+//    — sirf aarop/daawa: Congress seats ki upeksha, budget katoti. Koi fund/project/sanction nahi. REJECT (sirf maang/aarop).
+// 3. The Tribune "Don't neglect Haryana at the cost of other states, Congress MLA Geeta Bhukkal tells CM Nayab Saini"
+//    (https://www.tribuneindia.com/news/haryana/dont-neglect-haryana-at-the-cost-of-other-states-congress-mla-geeta-bhukkal-tells-cm-nayab-saini/)
+//    — media se baat-cheet me aarop; koi dastavezi kaam nahi. REJECT.
+// 4. The Tribune "Bhukkal attacks govt for 'ignoring' civic issues" — POORA PADHA
+//    (https://www.tribuneindia.com/news/haryana/bhukkal-attacks-govt-for-ignoring-civic-issues/, 2025-09-01)
+//    — "funds brought in through her efforts ... not being utilised properly" ka daawa bina rashi/project ke,
+//    aur solid waste/stadium assurances par "no work has been done" — matlab koi nateeja nahi. REJECT (dawa, nateeja nahi).
+// 5. Amar Ujala "PM Shri Kendriya Vidyalaya inaugurated at Matanhail in Salhawas, Jhajjar"
+//    (https://www.amarujala.com/video/haryana/jhajjar-bahadurgarh/video-pm-shri-kendriya-vidyalaya-inaugurated-at-matanhail-in-salhawas-jhjhar-2025-07-29, 29 Jul 2025)
+//    — school ka udghatan kendriya shiksha mantri Dharmendra Pradhan ne online kiya; Bhukkal sirf mukhya atithi
+//    ke roop me maujood thin; unka daawa (2014 me Deepender Hooda ke prayas se KV manzoor hua) purv-tenure ka hai.
+//    REJECT (mukhya-atithi samaroh; personal bhoomika nahi; purv-tenure daawa).
+// 6. Amar Ujala "Women Should Be Respected Every Day: Geeta Bhukkal"
+//    (https://www.amarujala.com/haryana/jhajjar-bahadurgarh/women-should-be-respected-every-day-geeta-bhukkal-bahadurgarh-news-c-195-1-jjr1004-132551-2026-03-09, Mar 2026)
+//    — Jhajjar Power Ltd + Manjari Foundation (CSR) ke Mahila Diwas samaroh me mukhya atithi. REJECT (mukhya-atithi/CSR samaroh).
+// 7. nayaharyana.com "Haryana Bus Stand Food Plan 2025"
+//    (https://nayaharyana.com/haryana-news/haryana-bus-stand-food-plan-2025/cid17038278.htm, Mar 2025)
+//    — unki vidhansabha maang par transport mantri Anil Vij ka ashwasan (Jhajjar purane bus stand ki 4 ekad
+//    zameen par community bhawan/multi-level parking/library ki maang; NOC ki baat). Outlet whitelist me NAHI.
+//    REJECT (non-whitelist). Retry-lead: isi story ka whitelist outlet (Tribune/Bhaskar/Jagran) version dhoondo.
+// 8. Jind school principal (Kartar Singh) allegations — Dec 2023, Tribune + PTI (ThePrint)
+//    (https://www.tribuneindia.com/news/haryana/verbal-exchange-between-haryana-deputy-cm-and-congress-mla-over-jind-school-principal-issue-572268/amp)
+//    — Dushyant Chautala ne Assembly floor par aarop lagaya tha ki 2011 me Bhukkal ke Jhajjar nivas par
+//    "compromise" hua; Bhukkal ne khandan kiya. Ye FIR/chargesheet unke KHILAF kabhi nahi bani — sirf
+//    sadan-mein-aarop. Pre-term (Dec 2023), aur Oct 2024 ke baad koi nyayik vikas nahi mila. Halafnama me
+//    criminalCases: 0. NEGATIVE me entry nahi banti — REJECT.
+// 9. The Tribune "MLA Geeta Bhukkal raises Rs 5 cr development grant issue"
+//    (https://www.tribuneindia.com/news/haryana/mla-raises-rs5-cr-development-grant-issue-336687/, Nov 2021)
+//    — Rs 5 crore CM-grant proposals par sawaal; pre-term (2021). REJECT (pre-term).
+// 10. The Tribune "Jhajjar facing discrimination: MLA" (Feb 2023) + "Jhajjar MLA to raise water scarcity issue
+//     in Assembly" (Dec 2023) — pre-term. REJECT (pre-term).
+// 11. Amar Ujala "25 karod se chakachak hongi Jhajjar Vidhan Sabha kshetra ki sadaken"
+//     (https://www.amarujala.com/haryana/jhajjar-bahadurgarh/the-condition-of-the-city-s-roads-will-improve-with-25-crores-jhjhar-news-rtk660312268)
+//     — unki Rs 70 crore ki maang par Rs 25 crore; 1469 days ago = ~Oct 2022. REJECT (pre-term).
+// 12. haryanaassembly.gov.in starred question PDF (uploads/2023/01 — Jan 2023) "To Construct Internal Roads"
+//     — Geeta Bhukkal ka prashn, lekin Jan 2023 ka, pre-term. REJECT (pre-term).
+// 13. The Tribune "Deepender flags poor school infra, stalled projects in Haryana's Jhajjar"
+//     (https://www.tribuneindia.com/news/haryana/deepender-flags-poor-school-infra-stalled-projects-in-jhajjar/, Sep 2026)
+//     — MP Deepender Hooda ki allegations/meetings; Bhukkal sirf maujood thin. Dusre neta ka karyakram. REJECT.
+// 14. Dainik Tribune "vidhansabha me utha Jhajjar ke jarghal haal sarkari schoolon ka mudda"
+//     (https://www.dainiktribuneonline.com/news/gurugram/the-issue-of-dilapidated-condition-of-government-schools-in-jhajjar-was-raised-in-the-assembly)
+//     — entry #1 (Bhaskar) wali hi ghatna ka doosra outlet version; alag entry nahi.
+// 15. newsarenaindia.com (non-whitelist) — unke road prashn par CM Saini ka jawab. REJECT (non-whitelist).
+//     Retry-lead: winter session Q&A ka whitelist/tribune version ya sarkari assembly Q&A paper.
+// 16. jantaserishta.com tag page headline "Bhukkal ne sadak marammat ka mudda uthaya — kaha sarkar ka jawab
+//     wahi kaam poora hoga" — aggregator, mool whitelist story nahi mili. REJECT (aggregator).
+//     Retry-lead: isi headline ki mool khabar (Dainik Bhaskar/Jagran/Tribune Jhajjar section) dhoondo.
+// 17. MLALAD (Budget 2025-26 restart, Rs 5cr/term) sanction list — Jhajjar ke liye koi itemized DC-office list
+//     whitelist media me nahi mili. Khali profile ka ek kaaran yahi hai. Retry-lead: DC Jhajjar portal/RTI.
+// 18. Purv mantri karyakaal (2024 se pehle) ke shiksha-vibhag faisle — task ke KHAS niyam se entry NAHI.
+//     (e.g., 2011-13 ke Tribune snippets "State to introduce science, commerce streams in 400 government
+//     schools", "Draft to promote vocational education" — purv tenure, REJECT.)
+//
+// NEGATIVES: koi nahi. Halafnama me 0 criminal cases; Oct 2024 ke baad koi FIR/chargesheet/janch/nyayik vikas
+// nahi mila jisme MLA khud aaropi hon.
+
+haryanaWorks['geeta-bhukkal'] = [
+  {
+    title: 'MLA ki maang par shiksha mantri ka ashwasan — Jhajjar ke condemned aur unsafe sarkari school bhavanon ki rashi jaldi allot hogi, kaam jaldi shuru hoga',
+    category: 'School',
+    badge: 'news',
+    stage: 'mantri-ashwasan',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/haryana/jhajjar/news/jhajjar-mla-raised-the-issue-of-schools-in-the-assembly-135759089.html',
+    date: '2025-08-25',
+    note: 'Dainik Bhaskar ke anusaar Jhajjar ki Congress MLA Geeta Bhukkal ne Haryana Vidhan Sabha ke mansoon satra me (Bhaskar: "aaj yani somvaar") Bhadani, Birohar, Gudha, Dhana, Dhanirwas, Kablana, Shekhupur, Jondhi, Kheri Asra, Bhurawas gaonon aur Jhajjar shahar School No. 1 ke jarghal aur unsafe school bhavanon ka mudda uthaya — kai buildingen 7-8 saal se unsafe/condemned ghoshit hain. Unke prashn par shiksha mantri Mahipal Dhanda ne kaha ki condemned schools ki rashi jaldi allot ki jayegi aur kaam bhi jaldi shuru karaya jayega. Tarikh anumaanit: Bhaskar ne tithi nahi di; Dainik Tribune ne isi ghatna ki report "Updated At 07:58 AM Aug 26, 2025 IST" par di aur event ko "somvaar" bataya — usi aadhaar par 2025-08-25 rakhi gayi. Credit capped: ye mantri-ashwasan hai, dastavezi sanction ya rashi nahi — follow-up abhi report nahi hua.',
+    period: '2024-2029',
+  },
+];
+
+// WORKER: raghuvir-singh-kadian (Beri, INC, purva Vidhan Sabha adhyaksh) — researched 2026-10-17
+// ----
+// Pehchan: Raghuvir Singh Kadian, slug 'raghuvir-singh-kadian', Beri (INC), 2024-29 karyakaal, umra ~80-82,
+// purva Speaker (2006-2009) + pro-tem Speaker Oct 2024. Halafnama: 2024/2019/2014/2009 sabhi me 0 declared
+// criminal cases (myneta.info candidate_id=127).
+// ----
+// NATEEJA: KOI valid work entry NAHI mili. KOI negative NAHI mila. Khaali profile — yeh acceptable hai
+// (vipakshi MLA, ~82 saal, Oct 2024 ke baad whitelisted media me seat-level lokarpan/shilanyas/MLALAD
+// sanction/GO-swikriti/dastaveji nateeja ka koi report nahi).
+// ----
+// REJECT-LOG (har reject: source + wajah + retry-lead):
+// R-1. The Tribune (Haryana Plus, 28-29 Mar 2013, http://www.tribuneindia.com/2013/20130329/harplus.htm) —
+//      Kadian ne Chhara gaon (Beri) me Rs 7.33 crore ke waterworks ka shilanyas kiya. REJECT kyunki PRE-TERM:
+//      ye Hooda sarkar ke dauran 2013 ka hai, purane speaker/MLA karyakaal ka; vartaman 2024-29 term ka nahi.
+//      Retry-lead: koi nahi — purana kaam rule ke tahat entry ban hi nahi sakti.
+// R-2. Dainik Tribune (13 Dec 2025, https://www.dainiktribuneonline.com/news/gurugram/deputy-government-should-be-ready-to-face-every-question-in-the-house-raghubir-kadyan/)
+//      — Beri me press se baatcheet: winter session, 'vote chor gaddi chhod' rally, sarkar par aarop. REJECT:
+//      sirf raajnaitik bayaan; koi bhautik sanrachna, sanction ya nateeja nahi.
+// R-3. Dainik Bhaskar (Mar 2026 budget session, https://www.bhaskar.com/local/haryana/jhajjar/news/jhajjar-mla-raised-the-issue-of-college-in-the-house-135774285.html)
+//      — sadan me Kadian ne sirf 'shaitan' shabd par aapatti jatayi. REJECT: seat ki koi maang/prashn ya
+//      mantri-ashwasan-nateeja nahi; Geeta Bhukkal ki college maang bhi bina nateeje.
+// R-4. Dainik Tribune (12 Mar 2026, https://m.dainiktribuneonline.com/article/...670461) — Kadian ka ninda
+//      prastav spikkar ne khaarij kiya, Congress walkout. REJECT: vikas-kaam se koi lena-dena nahi.
+// R-5. Amar Ujala (15 Feb 2026, https://www.amarujala.com/haryana/rohtak/memorandum-submitted-to-mlas-demanding-restoration-of-old-pension-rohtak-news-c-17-roh1020-811165-2026-02-15)
+//      — purani pension samiti ne Kadian sahit char MLAs ko gyapan diya; Kadian ne sadan me uthane ka
+//      ashwasan diya. REJECT: delegation ki maang, MLA ka koi documented demand-result nahi; sirf ashwasan.
+// R-6. Hindustan Times (Mar 2026, https://www.hindustantimes.com/cities/chandigarh-news/haryana-kadian-launches-all-out-attack-on-saini-govt-101741633271222.html)
+//      — sadan me drugs/shiksha par sarkar par hamla. REJECT: sirf aarop/bayaan, koi kaam nahi.
+// R-7. Dainik Tribune (Dec 2023, https://www.dainiktribuneonline.com/news/haryana/congress-government-will-be-formed-in-the-state-peoples-work-will-be-done/amp)
+//      — Bhapdauda me pratima-sthapana karyakram me shirkat, mandir samiti ko Rs 21000 sahyog. REJECT: pre-term
+//      (Oct 2024 se pehle) + daan kaam; dusre neta ke karyakram me maujoodgi category.
+// R-8. Pro-tem Speaker shapath stories (Oct 2024: Dainik Tribune / Amar Ujala / ET-PTI) — REJECT: prakriyaatmak
+//      pad-bhoomika, seat ke vikas-kaam se sambandh nahi.
+// R-9. NEGATIVES check — halafnama me 0 cases; jatland bio me 1996 ka ek 'false case' (prohibition virodh) ka
+//      zikr jo 2005 me court ne Kadian ke paksh me faisla diya — PRE-TERM, koi Oct 2024+ legal development nahi.
+//      Raghuvir naam par casemine/courtkutchehry hits dusre vyaktiyon ke mamle hain (naam-jaal). Koi established
+//      media me FIR/chargesheet/janch MLA khud ke khilaaf nahi mili. NEGATIVE: koi nahi.
+// ----
+// RETRY-LEADS (agle worker/chakkar ke liye):
+// RL-1. MLALAD fund (Budget 2025-26 restart, Rs 5 crore poore term ke liye): neta-war itemized sanction list
+//       online uplabdh nahi mili; DC Jhajjar press note / Dainik Jagran Jhajjar edition me 'MLA nidhi Beri'
+//       keyword par dobara khoj karo.
+// RL-2. 15th Vidhan Sabha question-hour records: Kadian ne Beri-specific prashn/maang lagayi ho aur uska
+//       mantri-uttar me nateeja (ashwasan/dastavej) ho to 'credit capped' swikriti entry sambhav — haryanaassembly
+//       question lists check karo (abhi koi whitelisted media report nahi mili).
+// RL-3. Chhara waterworks (2013, R-1): agar 2024-29 me usi waterworks ka vistar/augment report hota (dusra
+//       phase) to shilanyas/lokarpan entry sambhav — 'Chhara waterworks' par dobara khoj karo.
+
+haryanaWorks['raghuvir-singh-kadian'] = [];
+
+
+// ---- Mahendragarh district batch (researched 2026-10-17) — Batch 6 ----
+// WORKER: hr6 — Arti Singh Rao (Ateli, BJP; Health/Medical Education & AYUSH mantri, shapath 17 Oct 2024; Rao Inderjit Singh ki beti).
+// Pehchan: slug 'arti-singh-rao', seat Ateli, party BJP (src/data/haryana.ts ~line 2231).
+// Scope: Oct 2024 ke baad Ateli seat ke vyaktigat lokarpan/shilanyas/swikriti/dastavezi nateeje + khud ke legal mamle.
+// Mantri ke rajya-stariya Health faisle EXCLUDE; pita Rao Inderjit Singh ke MPLADS/kaam/mamle EXCLUDE (parivaar-niyam).
+// Sources KHOLE gaye: 4 Tribune, 3 Dainik Tribune, 2 Dainik Bhaskar pieces (neeche URLs). Negatives: koi nahi mila.
+// Devanagari: koi nahi. Currency: "Rs". period '2024-2029' sab me.
+haryanaWorks['arti-singh-rao'] = [
+  {
+    title: 'Mantri Arti Singh Rao ne Ateli vidhansabha me Rs 6.34 crore ki 70 vikas pariyojnaon ka udghatan aur shilanyas kiya — Rs 3.94 crore ke karya pure, Rs 2.40 crore ki nayi pariyojnaon ke shilanyas',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/health-minister-arti-rao-inaugurates-lays-stones-of-70-projects-in-ateli-segment/amp',
+    date: '2025-05-02',
+    note: 'The Tribune ke anusar mantri ne Kanina prashasanik khand me aayojit karyakram me Ateli vidhansabha kshetra ke vibhinn sthanon par kul 70 vikas karyon ka udghatan/shilanyas kiya: Rs 394 lakh ke karyon ka udghatan aur Rs 240 lakh ki nayi pariyojnaon ke shilanyas. DC Vivek Bharti sahit adhikari maujood the. Prakashan tarikh li gayi hai. Karyon ka item-wise vivaran report me nahi diya gaya. (Report ka divyang labharthiyon ko Rs 4.62 lakh ke upkaran vitran wala hissa daan-shreni ka hai — entry me nahi liya.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Ateli vidhansabha ko PWD se 27 sadakon ke nirman-sudridhikaran ke liye Rs 27.12 crore ki swikriti mili — mantri ne swikriti ki jankari di',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/27-cr-nod-to-ateli-assembly-for-strengthening-of-roads/amp/?utm=relatedarticles',
+    date: '2025-05-11',
+    note: 'The Tribune ke anusar Lok Nirman Vibhag ne Ateli vidhansabha me 2025-26 ke liye 27 sadakon ke nirman aur sudridhikaran ko Rs 27.12 crore ki laagat par swikriti di; mantri Arti Singh Rao ne ise Ateli ke buniyadi dhanche ke liye mahatvapurna kadam bataya. Swikriti PWD/sarkar ki hai; unki vyaktigat bhoomika report me darj nahi hai — credit capped.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mantri ki pahal par Ateli CHC me Haryana ka pehla CHC-stariya ultrasound shuru hua — muft sonography, har Mangalvar visheshagya sewa',
+    category: 'Aspataal',
+    badge: 'news',
+    stage: 'pahal',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/amp/local/haryana/mahendragarh/narnaul/news/narnaul-mahendergarh-ateli-haryana-first-chc-ultrasound-136508055.html',
+    date: '2026-02-17',
+    note: 'Dainik Bhaskar ke anusar Mahendragarh zila ke Ateli samudayik swasthya kendra me Haryana ki pehli CHC-stariya aadhunik ultrasound suvidha shuru hui (pilot project); mantri Arti Singh Rao ki pahal aur Ateli kshetra ki varshon purani maang ka natija; sewa poori tarah nishulk; sonography visheshagya Dr Dharmendra Sagwan har Mangalvar subah 9 se shaam 4 baje tak ultrasound karenge. Inferred date: page par prakashan tithi nahi di gayi — report me \'8 mahine pehle\' bataya (crawl-time Oct 2026 ke hisab se Feb 2026); anumanit 2026-02-17 li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mantri Arti Singh Rao ne Ateli ke Kanina Chowk se STP tak 3 km lambe naale ke nirman karya ka shubharambh kiya — laagat lagbhag Rs 3.67 crore',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/fall-in-line-or-face-the-music-haryana-minister-arti-rao-tells-officers-at-narnaul/',
+    date: '2026-06-09',
+    note: 'The Tribune ke anusar mantri ne Kanina Chowk, Ateli me aayojit samaroh me Kanina Chowk se Sewage Treatment Plant tak 3 km lambe naale ke nirman karya ka shubharambh kiya; anumaanit laagat Rs 3.67 crore; naale se jalbharav se rahat aur seewage nikasi aasan hogi. Mantri ne adhikariyon ko samay par gunvattapoorn nirmaan ke nirdesh diye. Prakashan (update) tarikh 2026-06-09 li gayi hai. (Isi article ka DDPO nilamban/samiksha-baithak wala hissa unki adhikariyon par karyawahi hai — works entry nahi, unpar koi legal negative nahi.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kanina (Ateli) ko Rs 6.75 crore ka aadhunik six-bay bus stand milega — CM ki swikriti ke baad PWD ne e-tender nikale; mantri ke lagatar prayason ka natija',
+    category: 'Any',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/decades-of-wait-over-kanina-to-get-modern-six-bay-bus-stand/',
+    date: '2026-08-09',
+    note: 'The Tribune ke anusar Mahendragarh zila ke Kanina kasbe (Ateli vidhansabha) me Rs 6.75 crore ki laagat se aadhunik six-bay bus stand banega; CM Nayab Singh Saini ne swikriti di aur PWD (Buildings & Roads) ne nirmaan ke e-tender aamantrit kiye (tender 20 Aug 2026 tak, 455 din ki deadline); report ke anusar kshetra ki dashakon purani maang mantri Arti Singh Rao ke lagatar prayason se poori hui. Nirmaan shuru nahi hua hai — ye swikriti/tender stage hai. Credit capped: swikriti CM/sarkar ki hai; mantri ki bhoomika report ke shabd \'persistent efforts\' tak seemit rahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mantri Arti Singh Rao ne Ateli khand ke Rampura aur Kanti gaonon me lagbhag Rs 3 crore ke vikas karyon ka udghatan aur shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/rohtak/i-will-not-contest-the-lok-sabha-elections-i-will-stay-among-the-people-of-ateli-and-serve-them-aarti-rao/',
+    date: '2026-09-20',
+    note: 'Dainik Tribune (The Tribune group) ke anusar mantri ne ravivaar ko Ateli khand ke Rampura aur Kanti gaonon me lagbhag Rs 3 crore ke vikas karyon ka udghatan aur shilanyas kiya; Kanti ke sarpanch Kavita aur Rampura ke sarpanch Sandeep Yadav sahit sthaniya janpratinidhi maujood the. Inferred date: report 2026-09-20 ko update hui aur event ko ravivaar bataya — 20 Sep 2026 ravivaar tha, isliye 2026-09-20 li gayi hai. Karyon ka item-wise vivaran ya fund-srot report me nahi diya gaya.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mantri ke aadesh par Ateli ke Pota gaon ke Dhani mohalle me nayi DI pipeline bichi — peyaajal sankat door, aapoorti bahal',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'pahal',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/gurugram/kanina-drinking-water-crisis-in-pota-village-resolved-villagers-thank-aarti-rao/',
+    date: '2026-10-14',
+    note: 'Dainik Tribune (The Tribune group) ke anusar Ateli vidhansabha ke Pota gaon ke Dhani mohalle ki peyaajal samasya par graminon ki shikayat par mantri ne turant Jan Swasthya Vibhag ke XEN Pradeep Yadav ko sthayi samadhan ke nirdesh diye; agle din XEN ne vibhagiya team ke saath daura karke jalgar ke nalkoop se mohalle tak nayi DI pipeline bichhakar paani ki aapoorti bahal kar di; graminon ne mantri ka aabhaar vyakt kiya. Prakashan tarikh 2026-10-14 li gayi hai (report 2026-10-13 ko update hui).',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (Arti Singh Rao, Ateli) — koi negative entry nahi mili (halafname me 0 criminal cases; EN+HI search me Oct 2024 ke baad unpar koi FIR/chargesheet/janch ki established-media report nahi)
+// R-1. newspedia24.com (2026-09-21): Rampura-Kanti me ~Rs 3 crore karyon ka udghatan/shilanyas — non-whitelist chhota portal; isi ghatna ki whitelist coverage (Dainik Tribune) se entry banayi gayi.
+// R-2. sachkahoon.com (Oct 2026): Gurugram nagar nigam Ward-15 me Rs 22 crore ke 3 karyon ka shilanyas — Gurugram Ateli seat se bahar + non-whitelist.
+// R-3. m.haryana.punjabkesari.in (Oct 2026): Gurugram Ward-15 shilanyas — Punjab Kesari whitelist me nahi + seat se bahar.
+// R-4. The Tribune (2026-10-12): Sidhrawali me naya PHC udghatan, Rathiwas me sub-health centre, Daulatabad PHC ka CHC me upgrade — ye gaon Gurgaon zila me hain (Ateli seat se bahar) + Health mantri ke roop me rajya-stariya vibhag kaam.
+// R-5. The Tribune (2026-09-17) 'Rao Inderjit leader of all communities': Rewari zila ke gaonon me projects launch — Ateli seat se bahar; pita ke baare me political bayan (parivaar-niyam).
+// R-6. Dainik Tribune 'chai pe charcha' (Apr 2026): solar subsidy check vitran (daan), Narnaul 300-bed aspatal ki ghoshna (announcement), 54 sub-centre sthapana ki ghoshna (announcement), Rs 4 crore nala / Rs 1 crore Ambedkar park / Rs 2 crore Ambedkar Bhawan 'karya jari' — sirf ghoshna ya chalu-karya ki jankari; koi lokarpan/shilanyas nahi.
+// R-7. The Tribune (2026-01-22) 'Left family to serve people; Ateli my karmabhoomi': jan-sabha bhashan — koi vyaktigat kaam/tithi/rashi nirdisht nahi; sirf ghoshna/bhashan.
+// R-8. The Tribune (Apr 2026) 'Health Minister accuses previous govts of neglecting south Haryana': Khatiwas/Kheri ko Rs 10 lakh pratyek ki ghoshna + drainage pipeline ka vaada — sirf ghoshna; vitran ka dastavej nahi. RETRY-LEAD: baad me implementation coverage mile to entry ban sakti hai.
+// R-9. Dainik Bhaskar (Narnaul civil hospital upgradation tender, ~Oct 2025): Narnaul Ateli seat me nahi; mantri ka aadhikarik bayan rajya portfolio kaam hai.
+// R-10. vyasmediagroup.com (Sep 2026): Godbalaha (Nangal Chaudhary) CM event se anupasthiti par commentary — whitelist nahi + legal negative nahi (political gossip).
+// R-11. hindi.news24online.com (Sep 2024): 'unke khilaf koi case nahi' — pre-term halafnama khabar; negative ke liye wartaman karyakaal me legal development chahiye; whitelist nahi.
+// R-12. indiankanoon/casemine par 'Arti Singh' hits (Chhattisgarh 302 case, Delhi excise 115/2018, Prayagraj 204/2020, Lucknow anticipatory bail) — alag-alag vyakti; pehchan mismatch.
+// R-13. Amar Ujala Farrukhabad (2026-09-01): 'SP Arti Singh' par avmanana prakaran — UP police adhikari; pehchan mismatch (unka naam Arti Singh Rao hai).
+// R-14. testbook.com quiz (Haryana Yoga Commission building, Panchkula): non-whitelist + seat se bahar + AYUSH portfolio.
+// R-15. chandigarhcitynews.com: 'Swasth Haryana-Samriddh Haryana' 9 health projects + CM dwara Rs 100+ crore health projects — non-whitelist + rajya-stariya minister kaam (Ateli seat se bahar).
+// R-16. 5dariyanews.com/punjabnewsline/devdiscourse: state health review meetings, hospital upgrade approvals (Mahendragarh/Bahadurgarh) — non-whitelist + rajya portfolio; Ateli ka vyaktigat kaam nahi.
+// R-17. Wikipedia/en.theharyanastory/dailykiran profile pieces: background/shooting career — works entry nahi.
+// R-18. TOI (Oct 2024) chunav parinaam coverage: chunav khabar hai, vikas karya nahi.
+// Negatives par retry-lead: koi FIR/chargesheet/janch ki khabar nahi mili; MyNeta/ADR halafname me 0 criminal cases. Anupasthiti disclose karne layak negative bhi nahi.
+
+// HR-6 worker — Kanwar Singh (slug: kanwar-singh), BJP, Mahendragarh seat.
+// Pehchan pakki: Mahendragarh, BJP, Winner; halafname me naam "Kanwar Singh"
+// (chunav nateejo me "Kanwar Singh Yadav" naam se bhi darj); umr 64,
+// criminal cases 0 (src/data/haryana.ts, haryanaNetas record).
+// Researched 2026-10-17. Koi valid works-entry nahi mili; profile khaali rakhi gayi hai.
+// ============================================================
+// REJECT-LOG (har reject ka source + wajah + retry-lead)
+// ============================================================
+// R1. The Tribune, 2026-08-20 — "Referral of patients from Mahendragarh Civil Hospital
+//     sparks row; MLA seeks probe"
+//     (https://www.tribuneindia.com/news/haryana/referral-of-patients-from-mahendragarh-civil-hospital-sparks-row-mla-seeks-probe/amp)
+//     Wajah: REJECT — MLA ne sirf sawal uthaye aur nishpaksh janch ki MAANG ki; koi
+//     dastaveji nateeja/janch-aadesh report nahi hua. "Sirf maang/prastav" rule.
+//     Note: isi article me SMO ne bataya ki referral audit routine hai aur HDU
+//     agle hafte chalu hoga — lekin ye hospital-prashasan ka kaam hai, MLA ke vyaktigat
+//     hastakshep ka nateeja nahi; MLA ko credit nahi. Retry-lead: agar kisi media me
+//     is janch ka dastaveji nateeja (action Taken report/adhyakshiya aadesh) aaye to
+//     "maang ka dastaveji nateeja" ke roop me phir se check karo.
+// R2. The Tribune, 2026-01-21 — "Years after foundation stone laid, Khudana project remains stalled"
+//     (https://www.tribuneindia.com/news/haryana/khudana-project-remains-stalled-years-after-foundation-stone-laid/)
+//     Wajah: REJECT — MLA ne sirf "revive aur fast-track karne ka VAADA" kiya; project
+//     stalled hi hai, koi nateeja nahi. "Sirf ghoshna" rule. Retry-lead: agar Khudana IMT
+//     par koi vaastavik swikriti/shilanyas media me aaye to phir se check karo.
+// R3. The Tribune, 2025-08-26 — "Khudana project back in focus amid announcement of six new IMTs"
+//     (https://www.tribuneindia.com/news/haryana/khudana-project-back-in-focus-amid-announcement-of-six-new-imts/)
+//     Wajah: REJECT — Vidhansabha me MLA ne mudda uthaya lekin koi dastaveji nateeja ya
+//     mantri-ashwasan report nahi hua; HSIIDC adhikariyon ka bayan (zameen milte hi kaam
+//     shuru hoga) mantri ka ashwasan nahi hai, aur project stalled hi hai.
+//     Retry-lead: mantri dwara koi likhit/dastaveji ashwasan aaye to phir se check karo.
+// R4. chandigarhcitynews.com (ANI-ish/PTI-style piece, non-whitelist) + dailyprabhat.com (non-whitelist)
+//     — "CM inaugurates and lays foundation stone for 30 Projects", Mahendragarh, May 2025
+//     (Rs ~152.87 crore pariyojnaen).
+//     Wajah: REJECT — (a) dono sources whitelist me nahi; (b) CM ka karyakram tha,
+//     MLA sirf maujood tha aur CM ko dhanyavaad diya — "dusre neta ke karyakram me
+//     maujoodgi" rule. CM ke May 2025 ke 152.87-crore package ka credit MLA ko nahi.
+// R5. The Tribune, 2026-06-09 — "Use BJP office to address residents concerns, Haryana CM Saini
+//     tells party leaders" (CM ne Narnaul me BJP district office ka udghatan kiya;
+//     Kanwar Singh Yadav maujood tha).
+//     Wajah: REJECT — party office ka udghatan CM ne kiya; MLA sirf maujood tha.
+//     "Dusre neta ke karyakram me maujoodgi" rule.
+// R6. The Tribune, 2025-03-09 approx — "Campus notes: Spandan-2025 cultural fest"
+//     (Central University of Haryana; MLA Kanwar Singh Yadav "among those present").
+//     Wajah: REJECT — Sanskritik karyakram me keval upasthiti; koi vikas karya nahi.
+// R7. welomoney.com — "Haryana to Get 13 New Districts? Mahendragarh, Narnaul Demands Gain Momentum"
+//     Wajah: REJECT — non-whitelist outlet; MLA ne sirf zila-mukhyalaya ka mudda
+//     Vidhansabha me uthaya (sirf maang), koi nateeja nahi.
+// R8. Haryana Vidhan Sabha PAC 92nd Report (haryanaassembly.gov.in) — Committee me Kanwar Singh
+//     ne Mahendragarh aur Satnali ke hospitalon ka budget badhne (Rs 17 crore se Rs 65 crore;
+//     Rs 10 crore se Rs 32 crore) ka mudda uthaya; committee ne compliance report mangi.
+//     Wajah: REJECT — committee charcha hai; source sarkari document hai lekin koi swikriti/
+//     shilanyas nahi, sirf budget-badhottari ka sawal. "Sirf maang/prastav" rule.
+// R9. Negative-search: Kanwar Singh Yadav ke khilaf koi FIR/chargesheet/janch whitelist media me
+//     nahi mili. Halafname me criminal cases 0. AbpLive/article me ED janch Rao Dan Singh
+//     (unki Congress rival, purv MLA) ke khilaf thi — pehchan mat milao, reject.
+// R10. Dainik Bhaskar / Dainik Jagran / Amar Ujala / TOI / Indian Express / NDTV / India Today / HT
+//      me "Kanwar Singh Yadav" ke lokarpan/shilanyas ki koi reporting nahi mili.
+//      Retry-lead: Bhaskar/Jagran ke regional (Narnaul/Mahendragarh) pages me Hindi me
+//      manual search ya local reporter query agle round me chal sakti hai.
+
+haryanaWorks['kanwar-singh'] = [];
+
+// HR6 worker — Om Prakash Yadav (BJP, Narnaul, 2024-2029).
+// Pehchan pakki: seat Narnaul + BJP + 2024 winner (57,635 votes); halafnama me 0 criminal cases.
+// RESEARCH DATE: 2026-10-17. Sources: browser.search + browser.open se poore page KHOLE gaye (snippet-only nahi).
+//
+// ---- REJECT LOG (entry nahi bani) ----
+// 1. obnews.co — "CM Nayab Saini inaugurates projects worth Rs 835 crore in Narnaul": source whitelist me nahi. Retry-lead: isi event ki whitelist coverage mili (TOI articleshow/125371052.cms, HT) — entry unse banayi gayi.
+// 2. punjabkesari.in / feed.ilidea.com / aajsamaaj.com (CM Narnaul daura, 835 crore wala) — whitelist me nahi. Retry-lead: upar wala.
+// 3. millenniumpost.in / newz24india.in / impressivetimes.com (Shoor Saini Jayanti, 27 maangon wali coverage) — whitelist me nahi.
+// 4. chandigarhcitynews.com — "CM inaugurates 30 projects" (Mahendragarh Rs 153 crore): whitelist me nahi; MLA keval upasthit the. Reject: dusre neta ke karyakram me maujoodgi.
+// 5. babushahi.com — "600 projects Rs 3400 crore" Panchkula event: whitelist me nahi; MLA keval upasthit. Reject.
+// 6. newspointapp.com — "Amit Shah lays foundation stone projects worth Rs 825 crores" (Narnaul PWD Rest House + Block Office): aggregator (TOI backend content, newspointapp domain); MLA ki vyaktigat bhoomika report me nahi. Reject: aggregator + dusre neta ka karyakram.
+// 7. lokmattimes.com / indianeconomicobserver.com — BJP district office 'Namo Kamal' Narnaul inauguration (8 Jun 2026): whitelist me nahi; party office, MLA ka vikas-kaam nahi. Reject.
+// 8. thejanpost.com bio page — whitelist me nahi; koi tithi/dastavez wala kaam cite nahi karta. Reject.
+// 9. The Tribune — "Construction work begins at Narnaul hospital" (April 2021, Rs 24.48 crore): PRE-TERM (pichhle karyakaal ka), wartaman karyakaal me koi legal vikas nahi. Reject.
+// 10. The Tribune — "Narnaul MLA Om Prakash Yadav bereaved" (May 2024): pita ki mrityu, vyaktigat khabar; kaam nahi. Reject.
+// 11. The Tribune — "BJP MLA's car driver thrashed in Rewari" (May 2017): MLA KHUD aaropi NAHI (victim-side; driver ki shikayat par FIR). Negative entry ke criteria pure nahi. Reject.
+// 12. Amar Ujala — Sonipat URL (2026-09-19): Narnaul nagar parishad ke 16 vikas karyon ka shilanyas MLA ne NAHI kiya — "aavashyak kary se bahar jana pada", sthaniya bujurgon ne khud udghatan kiya. Reject: MLA ne shilanyas nahi kiya. Retry-lead: baad ki kisi report me 16 karyon ka MLA dwara shilanyas dhoondo.
+// 13. Dainik Bhaskar — "Organising Annakut promotes brotherhood" (Oct 2025): mandir me Annakut/puja karyakram; vikas-kaam nahi. Reject.
+// 14. Dainik Tribune — Valmiki Jayanti jila stariya karyakram (2025-10-07): MLA mukhya-atithi ke roop me samaroh me; vikas-kaam nahi. Reject: mukhya-atithi samaroh.
+// 15. Dainik Tribune — school main gate udghatan (2022-02-08): PRE-TERM. Reject.
+// 16. Dainik Bhaskar — "Narnaul: 12 Crore Tender Launch | New Waste Vehicles Flagged Off" (~March 2026): safai vahanon ko hari jhandi + tender ghoshna — seva ka shubharambh, poorn bhautik karya nahi. Reject: sarkari abhiyaan ka keval shubharambh.
+// 17. dainiksaveratimes.com — election office inauguration (2024-09-14): PRE-TERM chunav prachar; whitelist me nahi. Reject.
+// 18. TOI — Nangal Chaudhary logistics hub rail link (55 din purani): MLA keval upasthit; kendriya pariyojna, vyaktigat bhoomika nahi. Reject.
+// 19. oneindia.com — "Haryana Approves Rs 825 crore" (June 2024): PRE-TERM (Oct 2024 se pehle). Reject.
+// 20. indiankanoon.org / courtkutchehry.com "Om Prakash Yadav" judgments: ALAG VYAKTI (Delhi MACP case 2022, 1993 ka case) — seat Narnaul se pehchan nahi milti. Reject: galat pehchan.
+// 21. news18.com / Amar Ujala election-result coverage (Oct 2024): chunav coverage; kaam nahi. Reject.
+// 22. NEGATIVES: whitelist media me Oct 2024 ke baad MLA khud aaropi wali koi FIR/chargesheet/janch/nyayik vikas NAHI mili; halafnama me 0 criminal cases. Isliye negatives [] khaali.
+
+haryanaWorks['om-prakash-yadav'] = [
+  {
+    title: 'MLA ne Narnaul nagar ke teen sadak margon ka shilanyas kiya — kul laagat lagbhag Rs 3.22 crore',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/mla-lays-foundation-of-road-projects-in-narnaul/amp',
+    date: '2024-11-11',
+    note: 'The Tribune ke anusaar BJP MLA Om Prakash Yadav ne Narnaul nagar ke municipal wards me teen sadakon ka shilanyas kiya: Mahavir Chowk se Basanti Devi Dharamshala via Azad Chowk (Rs 181.09 lakh), Agrasen Chowk se Mahila Thana (Rs 100.75 lakh), Narnaul-Rewari via Yaduvanshi School Patikara (Rs 40.31 lakh). Narnaul Municipal Council chairperson Kamlesh Saini aur adhikari maujood the. Tarikh anumaanit: article ne "on Monday" kaha aur Published 2024-11-12T05:00:33 par hai — 11 Nov 2024 somvaar tha, isliye 2024-11-11 rakhi gayi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Narnaul ki Mandi me Sati Mata Mandir ke paas Rs 60.93 lakh ke park ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/mla-lays-foundation-of-road-projects-in-narnaul/amp',
+    date: '2024-11-11',
+    note: 'The Tribune ki isi report ke anusaar MLA ne Mandi me Sati Mata Mandir ke paas Rs 60.93 lakh ki laagat se banne wale park ki bhi aadhaarshila rakhi. Tarikh anumaanit: article ne "on Monday" kaha aur Published 2024-11-12T05:00:33 par hai — 11 Nov 2024 somvaar tha, isliye 2024-11-11 rakhi gayi.',
+    period: '2024-2029',
+  },
+// R-DROP (coordinator QA): HT 2025-11-16 CM-ghoshnaen (Maharaja Shoor Saini Jayanti samaroh, Narnaul) — MLA ki 'maangon par' CM ke announcements (Rs 10cr distributary remodelling, Rs 8cr tanks aadi); koi shilanyas/sanction/GO report nahi hua, worker ka note khud 'mantri-ashwasan' + 'koi shilanyas nahi' kehta hai. Ghoshna-class niyam (Umed Singh R-11 precedent) se REJECT — entry hatayi gayi.
+  {
+    title: 'MLA ne Silarpur Mehta me Ambedkar pratima ka anavaran aur lagbhag Rs 1.13 crore ke ek darjan se adhik vikas karyon ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Dainik Bhaskar',
+    sourceUrl: 'https://www.bhaskar.com/local/haryana/mahendragarh/narnaul/news/silarpur-mehta-ambedkar-statue-inauguration-om-prakash-yadav-tribute-narnaul-137695042.html',
+    date: '2026-04-14',
+    note: 'Dainik Bhaskar ke anusaar Narnaul ke vidhayak Om Prakash Yadav ne apne vidhansabha kshetra ke Silarpur Mehta gaon me Dr Bhimrao Ambedkar ki pratima ka anavaran kiya aur gaon me lagbhag Rs 1.13 crore ki laagat se ek darjan se adhik vikas karyon ka udghatan kiya; sarpanch Sunita Saini aur MLA ke PRO Rajesh Yadav samat ganmaanya maujood the. Tarikh anumaanit: article ne "Baba Saheb ki 135vi jayanti" kaha — Ambedkar jayanti 14 April 2026; page par tarikh nahi mili, search crawl "186 din purana" bhi mid-April 2026 ko pusht karta hai — isliye 2026-04-14 rakhi gayi, yahi anumaan ka aadhaar note me darj hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Bhushan Kalan, Shobhapur aur Bhushan Khurd me Rs 10.54 crore ke vikas karyon ka udghatan kiya — Bhushan Kalan me Rs 5 crore ki sukshm sinchai pariyojna sahit',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/gurugram/om-prakash-yadav-inaugurated-development-works-worth-rs-10-54-crore-in-bhushan-kalan-shobhapur-and-bhushan-khurd/',
+    date: '2026-09-27',
+    note: 'Dainik Tribune (The Tribune group ka Hindi sanskaran) ke anusaar vidhayak Om Prakash Yadav ne Narnaul vidhansabha kshetra ke Bhushan Kalan, Shobhapur aur Bhushan Khurd me kul lagbhag Rs 10.54 crore ke karyon ka udghatan kiya: Bhushan Kalan me Rs 7.60 crore (panchayat vibhag ke Rs 2.60 crore ke karya + Sukshm Sinchai evam Kshetra Vikas Pradhikaran ke tahat Rs 5 crore ki sukshm sinchai vyavastha), Shobhapur me Rs 1.91 crore, Bhushan Khurd me Rs 1.03 crore. MLA ne har gaon me sammaroh sthal, e-pustakalaya aur daud abhyas sthal vikasit karne ke NIRNAY ki ghoshna bhi ki — ye keval ghoshna hai, poorn karya nahi. Tarikh: report Updated At 06:41 PM Sep 27, 2026, event "ravivaar" — 27 Sep 2026 ravivaar tha, isliye 2026-09-27 rakhi gayi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ne Nangal Katha gaon me Rs 96.92 lakh ke vikas karyon (sadak, paani ki tanki, shamshan ghat chardiwari, SC chaupal) ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Dainik Jagran',
+    sourceUrl: 'https://www.jagran.com/haryana/mahendragarh-nangal-katha-mla-omprakash-yadav-unveils-9692-lakh-projects-40385140.html',
+    date: '2026-09-24',
+    note: 'Dainik Jagran ke anusaar vidhayak Om Prakash Yadav ne Narnaul vidhansabha kshetra ke chaar gaonon me karyakram kiye; Nangal Katha me lagbhag Rs 96.92 lakh ke karya graminon ko samarpit kiye gaye. MLA ke PRO Rajesh Yadav ke anusaar: shamshan ghat me chardiwari evam paani ki tanki par Rs 10 lakh, SC chaupal ki marammat par Rs 4.16 lakh, Hanuman Chowk se SC chaupal tak raste ke punarnirman par Rs 16.30 lakh, Baba Megha se Phool Singh ke ghar tak rasta par Rs 2.46 lakh, Krishna Mandir se Raghuveer ke ghar tak rasta par Rs 2 lakh — in paanch pramukh karyon ki kul laagat Rs 34.92 lakh, uske atirikt lagbhag Rs 62 lakh ke anya karya; HRDF, HGVY aur D-Plan yojnaon se rashi. SDM Pradeep Yadav aur JE Harish maujood the. Tarikh anumaanit: report Published 25 Sep 2026 08:10 PM, event "guruvaar" — 24 Sep 2026 guruvaar tha, isliye 2026-09-24 rakhi gayi.',
+    period: '2024-2029',
+  },
+];
+
+// ---- Haryana district batch — Manju Choudhary (researched 2026-10-17) ----
+// Worker report: Nangal Chaudhry (Mahendragarh), INC, 1st-time MLA (opposition).
+// Whitelist media (The Hindu/IE/HT/NDTV/India Today/TOI/Tribune/Bhaskar/Jagran/Amar Ujala/PTI)
+// me Oct 2024 se ab tak unke apne seat ke kisi vyaktigat vikas-karya (lokarpan/shilanyas/
+// swikriti/dastavezi nateeja) ki POST-EVENT reporting KHULKAR padhi jaane layak NAHI mili.
+// Isliye koi valid entry nahi — haryanaWorks['manju-choudhary'] = [] (khaali profile acceptable).
+// Neeche har lead ka reject-log. Koi negative (FIR/chargesheet/janch/nyayik vikas) bhi established
+// media me nahi mila; halafname (myneta.info Haryana 2024) me 0 declared criminal cases.
+// REJECT-LOG:
+// R-1. The Tribune (2025-03-11) 'No encroachment on Waqf Board land, says CM' — Vidhansabha question hour me Manju Choudhary ke prashn par mantri Rao Narbir Singh ne keval jaankari di (81 stone crushers Nangal Chaudhary me operational); koi nateeja/swikriti/mantri-ashwasan nahi, sirf prashn-uttar. Reject: maang/prashn ka dastaveji nateeja nahi. URL khola aur poora padha: https://www.tribuneindia.com/news/haryana/no-encroachment-on-waqf-board-land-says-cm
+// R-2. ThePrint (Mar 2026) 'Haryana Congress names 4 RS poll cross-voters' + The Tribune dharna report — Manju Choudhary aur Gokul Setia ne Chandigarh party office par dharna diya (RS cross-voting ke aaropon par party se 'clean chit' ki maang). Reject: raajneetik virodh/dharna — koi vikas karya ya nyayik mamla nahi; negative framing nahi ban sakta kyunki koi FIR/chargesheet/janch nahi hai.
+// R-3. IMLH/Nangal Chaudhary Logistics Hub coverage (menafn/ANI via asianetnews, thesaveratimes, usfijitimes, impressivetimes, Aug 2026) — CM Nayab Saini ne rail yard ka shilanyas/first goods train flag-off kiya; Rs 280 crore rail link / Rs 1,300 crore Phase-I. Reject: kendriya-pariyojna CM-star par, MLA Manju Choudhary ki koi vyaktigat bhoomika/shrey report nahi; + outlets whitelist se bahar (aggregator menafn).
+// R-4. 5dariyanews 'Mahendragarh residents receive development projects worth Rs 152.87 Crore' (CM Nayab Saini ka Mahendragarh daura). Reject: source whitelist se bahar; vaise bhi CM-star pariyojnaen, MLA ki bhoomika nahi.
+// R-5. 5dariyanews 'Rs 284.18-Crore Project Approved for 39 Villages of Mahendragarh District — Ranbir Singh Gangwa' (drinking water augmentation, Nangal Chaudhry town group shamil). Reject: source whitelist se bahar; vaise bhi mantri (PHE) ka faisla, MLA ki vyaktigat bhoomika/shrey report nahi.
+// R-6. CM Narnaul visit Rs 835 crore projects (obnews.co, Maharaja Shoor Saini birth anniversary). Reject: source whitelist se bahar; CM-star karyakram.
+// R-7. Negative check — indiankanoon ke 'State vs Manju' (2023, Delhi acid case) aur 'Manju vs State of Haryana' (2023, dowry-harassment appeal) alag vyaktiyon ke mamle hain (Delhi/gaon Fajilpur), Nangal Chaudhry MLA se sambandh nahi — hum-naam jaal, reject. The Hindu (2023) ka 'BJP's A. Manju' Hassan (Karnataka) ka alag neta hai. Indian Express 'Doon MLA' chaargesheet case bhi alag vyakti. News18 candidate brief (ADR/affidavit data): 'Manju Choudhary, INC ... No. of declared criminal cases: 0'. Koi FIR/chargesheet/janch/nyayik vikas established media me nahi mila — negatives: koi nahi.
+// Retry-leads: Dainik Bhaskar / Dainik Jagran / Amar Ujala ke Narnaul-Nangal Chaudhry city editions me 'Vidhayak Manju Chaudhary' shilanyas reports ho sakti hain — search engine par khulne layak page nahi mile. Agla worker in query phrasings se city-edition news try kare: 'Vidhayak Manju Chaudhary ne' + 'Nangal Chaudhry', aur bhaskar/jagran site-search 'Manju Chaudhary Narnaul'.
+haryanaWorks['manju-choudhary'] = [];
+
+
+// ---- Rewari district batch (researched 2026-10-17) — Batch 6 ----
+// AapkaNeta.org — Haryana works research worker file
+// Neta: Dr. Krishan Kumar (slug: dr-krishan-kumar), BJP, Bawal (SC), Rewari
+// Pehchan pakki: Bawal (SC) seat + BJP. Halafnama naam "Dr. Krishan Kumar";
+// pesha doctor (ENT specialist). Narwana (SC) wale Cabinet Minister Krishan Kumar
+// ("Krishan Kumar Bedi" prachar-naam) se alag vyakti — unke naam wali koi bhi
+// khabar is file me shamil NAHI ki gayi.
+// Researched 2026-10-17. Whitelist media: Oct 2024 se ab tak.
+//
+// ---------------------------------------------------------------------------
+// REJECT-LOG (har reject: source + wajah + retry-lead)
+// ---------------------------------------------------------------------------
+// R1. The Tribune (opened, read 2026-10-17):
+//     "Haryana's Bawal gets Rs 125-crore development push" (published 2026-06-30).
+//     Wajah: Bawal ke liye Rs 125 crore ke lokarpan/shilanyas CM Nayab Singh Saini
+//     aur kendriya mantri Shivraj Singh Chouhan ne kiye; MLA Dr Krishan Kumar
+//     karyakram me maujood BHI NAHI the (The Tribune ki factionalism report me
+//     unhone khud kaha — achanak bimaari ke kaaran apne halke ke Rs 121 crore
+//     wale development programme me shamil nahi ho sake). Vyaktigat bhoomika
+//     undisclosed — "dusre neta ka karyakram" niyam se REJECT.
+//     Retry-lead: agar bhavishya me MLA ki khud ki shilanyas/lokarpan reporting
+//     (Dainik Tribune/Tribune/TOI) mile to retry.
+// R2. The Tribune (search snippet + opened list):
+//     "Rewari: Upgrade Bawal mandis into principal yards, says MLA Dr Krishan Kumar"
+//     (budget session, ~Feb-Mar 2026). Wajah: Vidhan Sabha me keval maangen
+//     (mandi upgrade, Bawal city development plan 2013 se pending, ITI/polytechnic,
+//     150-bed hospital poorn karna, bypasses aadi) — koi dastavezi swikriti ya
+//     nateeja report nahi hua. "Sirf maang/prastav" niyam se REJECT.
+//     Retry-lead: Budget 2026-27 ya baad ke announcements me in maangon ka
+//     nateeja (GO/order/mantri-ashwasan) mile to retry.
+// R3. The Tribune (search snippet):
+//     "No big ticket project for south Haryana in Budget, says Congress".
+//     Wajah: Budget ghoshna (Mamdia Asampur veterinary hospital + Teet gaon PHC
+//     swikrit) — MLA ne sirf swagat kiya; koi vyaktigat bhoomika undisclosed.
+//     "Sirf ghoshna" niyam se REJECT.
+// R4. Dainik Tribune Hindi (search snippet):
+//     "Bawal ke vikas ko lekar CM se mile vidhayak Dr. Krishan Kumar"
+//     (updated 2026-10-14/15). Wajah: CM se mulakat — sirf charcha/maang;
+//     koi dastavezi nateeja (aadesh/GO) report nahi. REJECT.
+//     Retry-lead: mulakat ke baad sarkari aadesh/order ki khabar mile to retry.
+// R5. Amar Ujala (search snippet, 2026-10-11):
+//     "Bawal MLA ne suni samasyayen, mauke par karaya samadhan".
+//     Wajah: jan-sunvai — dastavezi vikas-nateeja nahi. REJECT.
+// R6. Dainik Tribune Hindi (search snippet, ~Dec 2025):
+//     "Vidhayak Krishna Kumar ne suni jansamasyayen".
+//     Wajah: jan-sunvai — dastavezi vikas-nateeja nahi. REJECT.
+// R7. univarta.com (2026-06-30): 125-crore Bawal story —
+//     Wajah: UNI/univarta whitelist me NAHI (task rule). Wahi tathya The Tribune
+//     (whitelist) me pehle se covered hain (R1). REJECT.
+// R8. impressivetimes.com (2025-03-15), babushahi.com, hisarmedia.in, veblr.com:
+//     Wajah: whitelist me nahi (chhote portals/aggregator). Koi entry nahi.
+// R9. "Krishan Kumar Bedi" — Social Justice Minister, Uchana rally (Feb 2026,
+//     IANS copy via lokmattimes/dailyworld): YE NARWANA (SC) KE CABINET MINISTER
+//     HAIN, Bawal MLA NAHI. Mix-up avoid kiya gaya; is naam ki koi khabar
+//     Bawal record me shamil nahi.
+// R10. Negatives: established media me Bawal ke Dr Krishan Kumar ke khilaf koi
+//     FIR/chargesheet/janch ki report nahi mili; halafname me criminalCases: 0.
+//     The Week (2024-11-18) ki "Dr Krishan Kumar Zaildar" story ALAG vyakti hai
+//     (suspended doctor, Manuwas gaon, Nuh) — confusion avoid kiya gaya.
+//     Isliye negatives section khaali hai.
+// ---------------------------------------------------------------------------
+// VALID entries neeche: 1 (entry count grep se verify kiya gaya)
+// ---------------------------------------------------------------------------
+
+
+haryanaWorks['dr-krishan-kumar'] = [
+  {
+    title: 'Bawal vidhansabha kshetra ke 16 sarkari schoolon ke bhavan marammat aur nirmaan karyon ke liye Rs 7 crore ki swikriti mili — vidhayak ne aankde saarvajanik kiye',
+    category: 'School',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/rs-7-cr-sanctioned-for-repair-of-govt-schools/',
+    date: '2026-03-10',
+    note: 'The Tribune ke anusaar Haryana sarkar ne Bawal vidhansabha kshetra ke sarkari primary aur model schoolon ke bhavan marammat aur nirmaan karyon ke liye Rs 7 crore swikrit kiye: 10 primary aur model schoolon ke bhavan aur bade nirmaan karyon ke liye Rs 6.67 crore, aur chhah sarkari primary schoolon ki marammat ke liye Rs 83.88 lakh. Bawal ke MLA Dr Krishan Kumar ne swayam ye itemized aankde bataye aur kaha ki kshetra ke nivasi lagbhag paanch saalon se sarkari schoolon ki marammat ki maang kar rahe the; unhone funds swikrit karne ke liye CM Nayab Singh Saini ka aabhaar vyakt kiya. Source khud khola aur poora padha gaya (Rewari dateline, Updated 03:00 AM Mar 10, 2026 IST) — ye GO-backed itemized swikriti hai jise MLA ne khud disclose kiya.',
+    period: '2024-2029',
+  },
+];
+
+// Kosli (Rewari district) — Anil Yadav (BJP) — works research 2026-10-17 (worker: hr6).
+// Pehchan pakki: Anil Yadav, BJP, Kosli seat (src/data/haryana.ts slug 'anil-yadav'); doosre Anil Yadavon
+// (UP/Bihar ke FIR mamle, Jhansi/Patna/Farrukhabad ke aarop) se mel nahi khata — woh sab reject-log me darj hain.
+// Teen asal entries mili (do swikriti, ek dawa); negative: koi nahi.
+
+haryanaWorks['anil-yadav'] = [
+  {
+    title: 'MLA ki CM se mulakat par Kosli ki saat jal-nikasi pariyojnaon ko sarkari swikriti mili — kul Rs 30.50 crore kharch honge, tender agle hafte',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/seven-projects-okayed-rs-30-50-cr-to-be-spent-for-drainage-of-rainwater/amp/',
+    date: '2026-03-03',
+    note: 'The Tribune ke anusaar Haryana sarkar ne Kosli vidhansabha ke 13 gaonon (Lilodh, Palhawas, Pahrajwas, Khera Rasulpur, Suma Khera, Nain Sukhpura, Ratanthal, Baas, Mohdipur, Chandanwas, Asiyaki, Gorawas, Katopuri) ke jalbharaw se sthayi rahat ke liye Rs 30.50 crore ki saat pariyojnaon ko swikriti di; Sinchai vibhaag ki yojna agle hafte tender honi thi. Mad-wise: Lilodh ke paas Jhadli power plant ke nichle kshetra se Mahendragarh Canal/Drain No 8 me paani nikaalne ke liye Rs 12 crore; Pahrajwas-Palhawas ke 300 acre ke liye Pataudi distributary me 3 km pipeline par Rs 7 crore; Khera Rasulpur me 1.5 km pipeline par Rs 3.5 crore; Suma Khera me Bawal JLN Canal tak pipeline par Rs 6 crore; Nain Sukhpura me pump house+pipeline par Rs 2 crore. MLA ka bayan: pichhle mansoon me 100 se adhik pump-motor lagane par bhi poorn samadhan nahi hua, isliye unhone CM Nayab Singh Saini se milkar mudda uthaya, jiske baad ye pariyojnaen swikrit hui. Shrey capped — ye sarkar ki swikriti hai, MLA ka yogdan CM ke saamne maang uthane tak seemit hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ka dawa — Nahar-Salhawas railway over-bridge ki roshni ke liye PWD ne Rs 83.77 lakh manzoor kiye',
+    category: 'Sadak',
+    badge: 'dawa',
+    stage: 'swikriti',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/83-77l-sanctioned-for-kosli-railway-over-bridge-mla/amp/',
+    date: '2026-03-21',
+    note: 'The Tribune ke anusaar Kosli ke sthaniya anaaj mandi me Samadhan Shivir me MLA Anil Yadav ne kaha ki rajya PWD Kosli vidhansabha kshetra ke Nahar-Salhawas railway over-bridge (ROB) ki roshni par Rs 83.77 lakh kharch karega; unhone kaha ki ye rashi manzoor ho chuki hai aur unhone budget satra me kshetra ke kai mudde uthaye the. Swikriti ka ekmatra srot MLA ka apna bayan hai — Tribune ne swatantra GO/document ki pushti nahi di; isliye badge dawa. Date: page par Updated At 11:35 AM Mar 21, 2026 IST.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kosli ki teen avaidh colonies regularize hui, lagbhag 150 acre kshetra ko laabh — MLA ne March 2026 me Vidhan Sabha me colonies regularize karne ki maang uthai thi',
+    category: 'Any',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/rewari/three-colonies-in-kosli-regularized-150-acre-area-to-benefit-rewari-news-c-198-1-rew1001-246915-2026-10-10',
+    date: '2026-10-10',
+    note: 'Amar Ujala ke anusaar Kosli shahar ki teen pramukh colonies — petrol pump colony, flyover Bhakli-2 aur Natherda road par Happy College ke paas ki colony — regularize kar di gayin; teeno ka kul kshetrafal lagbhag 150 acre bataya gaya hai, jisse nivasiyon ko vikas karyon aur buniyadi suvidhaon ka laabh milne ka marg prashast hua. MLA Anil Yadav ka bayan: colonies ke regularize hone se kshetra me vikas karyon ko aage badhane aur nagrikon ko avashyak suvidhaen uplabdh karane me madad milegi. Shrey capped: Dainik Bhaskar (March 2026, budget satra se pehle ke 9 prashn) me MLA ne Kosli ki avaidh colonies ko vaidh karne ki maang sarkar se uthai thi; October 2026 me ye karwai hui — lekin karan-sambandh (MLA ki maang se nateeja) kisi cited page me seedhe dastavej me darj nahi hai. Date: page URL slug me 2026-10-10.',
+    period: '2024-2029',
+  },
+];
+// R-1. The Tribune, "CM nod to IMT, efforts on for land-pooling, says Kosli MLA" (07 Feb 2026, khula/padha: https://www.tribuneindia.com/news/haryana/cm-nod-to-imt-efforts-on-for-land-pooling-says-kosli-mla/amp/) — Samadhan Shivir me MLA ka bayan ki CM ne Kosli me IMT swikrit kiya; koi GO/document, rashi ya timeline cited nahi; "efforts on for land-pooling" abhi shuruati charan. Sirf ghoshna/dawa = REJECT. Retry lead: HSIIDC ya sarkari portal par IMT Kosli ka swikriti-dastavej mile to dobara aakalan karo.
+// R-2. The Tribune, "Rewari BJP MLA questions govt on dilapidated school buildings" (19 Dec 2025, khula/padha: https://www.tribuneindia.com/news/haryana/rewari-bjp-mla-questions-govt-on-dilapidated-school-buildings/) — Kosli MLA ne sadan me block office, Nahar mini-secretariat, Dahina subdivision, Dahina PHC-to-CHC, technical institution, Kosli bypass, underpass aur drainage project ki maangen uthai; is article me Kosli ki in maangon par mantri ka koi dastaveji jawab/ashwasan nahi (mantri ke uttar Rewari MLA Laxman Singh Yadav ke school-sawalon par the). Sirf maang = REJECT. (Drainage wali maang ka nateeja Rs 30.50 crore swikriti alag entry me darj hai.)
+// R-3. Dainik Bhaskar, "Kosli MLA Anil Yadav Raises 9 Key Development Questions in Haryana Assembly" (March 2026, khula/padha: https://www.bhaskar.com/g/local/haryana/rewari/news/kosli-mla-anil-yadav-9-questions-haryana-assembly-budget-session-rewari-development-dahina-subdivision-haryana-137268712.html) — budget satra se pehle 9 sawal (four-lane marg, avaidh colonies vaidh karna, Dahina subdivision, STP water, railway underpass, Kosli bypass). Sirf prashn = REJECT; colonies regularize ka nateeja alag entry me darj hai.
+// R-4. Amar Ujala, "Canteen Will Remain Open Throughout The Year In Kosli Grain Market" (02 Apr 2025, khula/padha: https://www.amarujala.com/amp/haryana/rewari/canteen-will-remain-open-throughout-the-year-in-kosli-grain-market-rewari-news-c-198-1-rew1001-217374-2025-04-02) — BKU Chadhuni ki kisan canteen ka udghatan MLA ne mukhya-atithi ke roop me kiya; bhautik sarkari sanrachna nahi, fund/bhoomika disclosed nahi; aupcharik samaroh = REJECT.
+// R-5. Amar Ujala, "Rewari nagar parishad me kendriya mantri Rao Inderjit ne vikas karyon ka kiya udghatan va shilanyas" (12 Dec 2025, khula/padha: https://www.amarujala.com/amp/video/haryana/rewari/video-union-minister-rao-inderjit-inaugurated-and-laid-the-foundation-stone-for-development-works-in-rewari-municipal-council-2025-12-12) — kendriya mantri Rao Inderjit Singh (Rewari MP) ke kaam, Rewari shahar me; Anil Yadav sirf maujood/vichar. Dusre neta ka karyakram + MP MPLADS/kendriya kaam + seat ke bahar = REJECT.
+// R-6. Dainik Jagran, "Rewari walon ki balle-balle, mantri ne kiya 3809 lakh rupaye ki pariyojnaon ka shilanyas" (Sep 2025, snippet khula: https://www.jagran.com/haryana/rewari-ncr-rewari-news-development-projects-inaugurated-by-rao-inderjit-singh-24057309.html) — mantri ka shilanyas; Kosli MLA sahit kai neta maujood. Dusre neta ka karyakram, seat ke bahar = REJECT.
+// R-7. The Tribune, "Rao Inderjit launches projects worth Rs 100 crore in Rewari" (Dec 2025, snippet khula: https://www.tribuneindia.com/news/haryana/rao-inderjit-launches-projects-worth-rs-100-crore-in-rewari/) — kendriya mantri ke Rs 100 crore ke kaam, Anil Yadav ne manch par bola. Dusre neta ka karyakram = REJECT.
+// R-8. The Tribune, "State's largest HAFED flour mill opens at Jatusana" (Dec 2025, snippet khula: https://www.tribuneindia.com/news/haryana/states-largest-hafed-flour-mill-opens-at-jatusana/) — Rs 13.60 crore flour mill ka virtual udghatan kendriya mantri Amit Shah ne kiya; MLA sirf samaroh me maujood. Dusre neta ka karyakram = REJECT.
+// R-9. The Tribune, "Sub-division status for Dahina block" (Dec 2024, snippet khula: https://www.tribuneindia.com/news/haryana/sub-division-status-for-dahina-block/) — CM Nayab Saini ki Kosli rally me ghoshnayen (Rs 10 crore PWD sadken, Rs 5 crore school, Rs 5 crore marketing board sadken, Rs 23 crore ki 6 pariyojnaon ka shilanyas/lokarpan); MLA ne sirf gyaapan diya. CM ke kaam, MLA ki dastaveji bhoomika nahi = REJECT.
+// R-10. babushahi.com, "Haryana CM Nayab Saini inaugurates and lays foundation stone for six projects worth over Rs. 23 crore in Kosli" (snippet khula: https://www.babushahi.com/view-news.php?id=196711) — non-whitelist outlet + CM ke kaam = REJECT.
+// R-11. face2news/babushahi, "Sansad Khel Mahotsav 2025 kicks off in Gurugram" (Dec 2025, snippet khula) — MP Rao Inderjit Singh ka karyakram; Anil Yadav maujoodgi. Dusre neta ka karyakram + seat ke bahar = REJECT.
+// R-12. deshrojana.com, hydrogen train flag-off (Jul 2025, snippet khula: https://www.deshrojana.com/haryana/rewari/rewari-news-pm-narendra-modi-will-flag-off-the-countrys/article-2885) — PM ka karyakram, maujoodgi; non-whitelist = REJECT.
+// R-13. newswav.com, "Minister Gangwa reviews development works, redresses grievances in Rewari" (snippet khula) — aggregator + mantri ka karyakram, maujoodgi = REJECT.
+// R-14. digitalbhoomi.co.in, "Kosli me Rs 11.57 crore se banega bus stand" (Oct 2026, snippet khula) — non-whitelist chhota portal; MLA ki bhoomika dastavej me nahi = REJECT. Retry lead: Amar Ujala/Jagran/Bhaskar me Kosli bus stand/sub-depot par coverage mile to dobara aakalan karo.
+// R-15. gurugramnewsnetwork.com, "Haryana News: Haryana ke Kosli me banega bypass" (snippet khula: https://gurugramnewsnetwork.com/haryana-news-bypass-will-be-built-in-kosli-of-haryana-land-will-be-purchased-from-so-many-farmers/) — non-whitelist; PWD mantri Gangwa ka Vidhan Sabha uttar (3.83 km bypass, 23.09 acre zameen, HPLPC daren) isme quoted hai lekin whitelist outlet me yahi mantri-uttar nahi mila. Retry lead: TOI/Tribune/Jagran/Bhaskar me Kosli bypass mantri-uttar dhoondho.
+// R-16. Punjab Kesari (haryana.punjabkesari.in), Kosli search page (snippet khula) — "Kosli bypass ke liye badhaya ja sakta zameen muaavza" (Feb 2026) aur "Rs 11.57 crore sub-depot manzoori" (Dec 2025) — non-whitelist outlet = REJECT; upar R-14/R-15 ke retry leads me shaamil.
+// R-17. Amar Ujala, "Plantation Was Done In The Campus Of Government College Kosli" (13 Jul 2025, khula/padha: https://www.amarujala.com/haryana/rewari/plantation-was-done-in-the-campus-of-government-college-kosli-rewari-news-c-198-1-rew1001-222462-2025-07-13) — paudharopan samaroh, MLA mukhya-atithi; sarkari abhiyan ka shubharambh, bhautik sanrachna nahi = REJECT.
+// R-18. haryanaassembly.gov.in, Un-Starred Questions 01.09.2026 (sarkari PDF, snippet khula: https://haryanaassembly.gov.in/wp-content/uploads/2026/08/Un-Starred-Questions-01.09.2026-english.pdf) — Anil Yadav ke prashn (Dahina me DHBVN SDO office; Jatusana HAFED flour mill commercial operation kab); is dastavej me koi mantri-jawab ya nateeja nahi. Sirf prashn = REJECT.
+// R-19. Dainik Tribune (hpr) snippet "paanch gaonon ko barsati jalbharaav ki samasya se milegi nijaat" (22 May, muckrack snippet se) — isi jalbharaw saga ka pre-result bayan (MLA ne CM ke OSD/sinchai adhikariyon se mulakat ki); dastaveji nateeja Rs 30.50 crore swikriti (Tribune, Mar 2026) alag entry me darj hai. Poorn article dainiktribuneonline.com par search se nahi mila; snippet-adhaarit entry nahi bani = REJECT.
+// NEGATIVES: koi nahi. "Anil Yadav FIR/mamla" searches (Amar Ujala Jhansi, ABP Patna, ibc24 Agra, eastindiatimes Farrukhabad) sab doosre vyakti hain (UP/Bihar), Kosli-BJP ke Anil Yadav se mel nahi khata. Halafname me criminalCases 2 darj hain, lekin halafname ke pending mamle akele negative nahi hote; Oct 2024 ke baad whitelisted media me MLA KHUD ke khilaf koi FIR/chargesheet/janch ya nyayik vikas report nahi hua.
+// Haryana — Rewari district batch fragment (researched 2026-10-17) — DO NOT export; appended to works_haryana.ts
+// Neta: Laxman Singh Yadav (slug: laxman-singh-yadav) — Rewari, BJP, Winner 2024-2029.
+// Pehchan: Rewari seat + BJP se pakki ki gayi (foundation record: 2024 me Rewari se 83,747 vote, runner-up Chiranjeev Rao ko 28,769 se haraya).
+// Dhyaan: yahi Laxman Singh Yadav pichhle karyakaal (2019-2024) me KOSLI se BJP MLA the (Bhaskar story me khud pusht); research sirf vartaman
+// Rewari-seat karyon tak seemit hai, Kosli-kaale purane karyon ka koi entry nahi banaya gaya.
+// Negatives: KOI NAHI. myneta.info halafname (2024 Rewari + 2019 Kosli) dono me criminalCases = 0; whitelist media ki web search me
+// MLA khud aaropi wali koi FIR/chargesheet/janch nyayik vikas Oct 2024 ke baad nahi mila. Chunav-yachika bhi report nahi hui.
+haryanaWorks['laxman-singh-yadav'] = [
+  {
+    title: 'Vidhayak Laxman Singh Yadav ne Chandawas gaon me navnirmit Anusuchit Jaati Chaupal ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/haryana/mla-laxman-yadav-inaugurated-the-development-works/',
+    date: '2024-11-29',
+    note: 'Dainik Tribune (hpr) ki post-event report ke anusaar vidhayak ne dhanyavaadi daure ke dauraan gaon Chandawas me navnirmit SC chaupal ka udghatan kiya. Report me shukravaar bataya gaya hai aur tithi 29 November 2024 (weekday verified: Friday) di gayi hai — isliye date 2024-11-29 rakhi gayi. Report me fund-srot ka ullekh nahi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhayak Laxman Singh Yadav ne Lakhanour aur Gindokhar gaonon me banne wale sadak raston ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/haryana/mla-laxman-yadav-inaugurated-the-development-works/',
+    date: '2024-11-29',
+    note: 'Dainik Tribune (hpr) ki post-event report ke anusaar vidhayak ne 29 November 2024 (shukravaar, weekday verified) ko dhanyavaadi daure ke dauraan Lakhanour tatha Gindokhar gaonon me banne wale sadak raston ka shilanyas kiya. Report me fund-srot ka ullekh nahi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhayak Laxman Singh Yadav ne Jeetpura gaon me navnirmit Anusuchit Jaati Chaupal ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/rewari/cm-will-give-a-gift-of-250-crores-to-rewari-laxman-singh-yadav-rewari-news-c-198-1-rew1001-220334-2025-05-31',
+    date: '2025-05-30',
+    note: 'Amar Ujala ki post-event report ke anusaar vidhayak ne dhanyavaadi daure ke tahat Budhana, Budhani, Fadni, Rojka, Jeetpura aur Baliyar Khurd gaonon ke daure me Jeetpura me navnirmit SC chaupal ka udghatan kiya. Report me daura shukravaar bataya gaya hai; article slug ki publication date 2025-05-31 (shanivaar) hai, isliye event-date 2025-05-30 (shukravaar, weekday verified) rakhi gayi. Report me fund-srot ka ullekh nahi hai. (Isi article me 15 June CM rally ki ghoshna bhi thi — wo pre-event thi, entry nahi banayi.)',
+    period: '2024-2029',
+  },
+// R-DROP (coordinator QA): Jagran 2025-06-18 'four-lane approved' — dhanyavaadi rally me CM ka bayan 'jald four-lane banwane ki baat kahi'; koi GO/sanction-order/tender report nahi. Rally-ghoshna class (Umed Singh R-11 precedent) se REJECT — entry hatayi gayi.
+  {
+    title: 'Vidhansabha me do baar mudda uthane par Masani Barrage ke dushit paani ki nikasi ke liye Rs 217 crore ki pariyojna ko sarkar ne manzoori di — 40 km pipeline ka kaam chal raha hai',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'mantri-ashwasan',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/rewari/pipeline-being-laid-to-drain-contaminated-water-from-masani-barrage-rewari-news-c-198-1-rew1001-247115-2026-10-14',
+    date: '2026-10-14',
+    note: 'Amar Ujala ki post-event report ke anusaar vidhayak ne Masani Barrage ke dushit paani ki samasya ko Vidhansabha me do baar uthaya tha aur Vidhansabha ki Paryavaran Pradushan Niyantran Committee ke adhyaksh ke roop me team sahit mauke ka nirikshan bhi kiya tha; sarkar ne lagbhag Rs 217 crore ki pariyojna ko manzoori di hai — 40 km pipeline bichhai ja rahi hai (pahle charan ke liye Rs 125 crore jaari) aur teen water bodies bhi banengi. Article slug ki date (2026-10-14) event-report ki date li gayi. Isi me MLA ne bataya ki Rewari shahar me barish aur sewerage ka paani alag karne ke liye lagbhag Rs 2.5 crore manzoor hue hain aur Nasiaji-Kaluwas sthit STP ki kshamta badhane ki yojna par kaam chal raha hai. Shrey capped: ye sarkar ki swikriti/pariyojna hai, MLA ka yogdan mudda uthane-nirikshan tak seemit hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhayak Laxman Singh Yadav ne Rewari me Rs 65 crore ke naye bus stand ka bhumi-pujan karke nirman shuru karwaya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/haryana/construction-of-new-bus-stand-at-rewari-begins/amp',
+    date: '2026-02-19',
+    note: 'The Tribune (published 2026-02-19) ke anusaar MLA ne bhumi-pujan kiya jisse nirman shuru hua; 20-acre pariyojna ki lagat Rs 65 crore (Rs 40 crore bhawan-nirman + Rs 25 crore anya karya), do saal me poorn hone ka lakshya; do-manzila complex me shuru me 18 buses, baad me booth badhane ka scope. MLA ne kaha ki Rewari aur Dharuheda dono bus standon ke liye ve lagatar prayas karte rahe aur CM Nayab Singh Saini ka dhanyavad diya. (Dharuheda bus stand Bawal seat me hai — isliye uski alag entry nahi banayi.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhayak Laxman Singh Yadav ne Sangwadi gaon me lagbhag Rs 2.50 crore lagat ke 35 vikas karyon ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/rewari/foundation-stones-laid-for-eight-others-rewari-news-c-198-1-fth1001-245895-2026-09-23',
+    date: '2026-09-23',
+    note: 'Amar Ujala ki post-event report ke anusaar vidhayak ne gaon Sangwadi me lagbhag Rs 2.50 crore ki lagat se poore hue 35 vikas karyon ka udghatan karke janata ko samarpit kiya. Karyon ki itemized suchi report me nahi di gayi. Date: article slug ki date 2026-09-23 (report me weekday nahi diya); publication-date li gayi hai. (Isi karyakram me solar panel/chaupalon ki ghoshnaen hui theen — sirf ghoshna, entry nahi.)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Vidhayak Laxman Singh Yadav ne Sangwadi gaon me lagbhag Rs 25 lakh lagat ke aath vikas karyon ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Amar Ujala',
+    sourceUrl: 'https://www.amarujala.com/haryana/rewari/foundation-stones-laid-for-eight-others-rewari-news-c-198-1-fth1001-245895-2026-09-23',
+    date: '2026-09-23',
+    note: 'Amar Ujala ki post-event report ke anusaar 35 karyon ke udghatan ke saath hi vidhayak ne Sangwadi me lagbhag Rs 25 lakh ke aath vikas karyon ka shilanyas bhi kiya. Date: article slug ki date 2026-09-23 (publication-date; report me weekday nahi diya).',
+    period: '2024-2029',
+  },
+  {
+    title: 'MLA ka dawa — Rewari me dedh saal me Rs 150 crore ke vikas karya hue; Krishi Sadan, Sainik Bhawan, Rewari-Dharuheda bus standon aur storm-water pipeline ke liye Rs 125 crore aavantit',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Dainik Tribune',
+    sourceUrl: 'https://www.dainiktribuneonline.com/news/gurugram/150-crore-rupees-spent-on-development-in-rewari-in-one-and-a-half-years-laxman-yadav/',
+    date: '2026-06-15',
+    note: 'MLA ka dawa — Dainik Tribune (hpr) ke anusaar vidhayak ne 15 June 2026 (somvaar, weekday verified) ko rest house me patrakar-varta me kaha ki pichhle dedh saal me Rewari me Rs 150 crore vikas karyon par kharch hue; Krishi Sadan, Sainik Bhawan, Rewari bus stand, Dharuheda bus stand aur storm-water pipeline ke liye Rs 125 crore aavantit hue hain, aur sewerage lines par Rs 150 crore alag se kharch honge. Independent verification is dawe ka Tribune article me nahi hai — isliye badge dawa rakha gaya hai. (Bus stand Rs 65 crore ka shilanyas alag entry me news-badge par darj hai.)',
+    period: '2024-2029',
+  },
+];
+
+// ---- REJECT-LOG (laxman-singh-yadav) — har reject ka source + wajah + retry-lead ----
+// R-1. Tribune "CM Saini to visit Rewari on June 15" (12 Jun 2025, khula/padha: https://www.tribuneindia.com/news/haryana/cm-saini-to-visit-rewari-on-june-15/amp) — 15 June rally/lokarpan/shilanyas ki PRE-EVENT ghoshna; MLA ne sirf jankari di. REJECT (pre-event).
+// R-2. Tribune "CM inaugurates ultra-modern district jail complex in Rewari" (Fideri, Rs 95 crore; https://www.tribuneindia.com/news/haryana/cm-inaugurates-ultra-modern-district-jail-complex-in-rewari/) — CM ne lokarpan kiya; MLA sirf maujood the. Rajya pariyojna par bina vyaktigat bhoomika ke shrey = REJECT.
+// R-3. Tribune "At Rewari, CM Saini inaugurates, lays stone of 15 projects worth Rs 288 crore" (15 Jun 2025; https://www.tribuneindia.com/news/haryana/at-rewari-cm-saini-inaugurates-lays-stone-of-15-projects-worth-rs-288-crore/) — CM ke karyakram; MLA ne rally organize ki, maujood rahe; MLA ki vyaktigat bhoomika kisi pariyojna me documented nahi. REJECT (dusre neta ke karyakram me maujoodgi).
+// R-4. Dainik Tribune 13 Jun 2025 (15 June rally pre-announcement; https://www.dainiktribuneonline.com/news/gurugram/on-the-15th-the-chief-minister-will-give-the-gift-of-development-schemes-worth-crores-of-rupees-laxman-yadav/) — sirf ghoshna/aamantran. REJECT (pre-event).
+// R-5. newsonline.media "Rao Narbir Lays Foundation Stone in Rewari" (https://newsonline.media/rao-narbir-lays-foundation-stone-of-biodiversity-park-in-rewari-mla-district-bjp-chief-skip-event/) — (a) outlet whitelist me NAHI, (b) shilanyas mantri Rao Narbir Singh ne kiya, MLA karyakram se anupasthit rahe. REJECT.
+// R-6. Tribune "Rao Narbir lays stone of biodiversity park in Rewari" (27 Jun 2026; https://www.tribuneindia.com/news/haryana/rao-narbir-lays-stone-of-biodiversity-park-in-rewari-mla-dist-bjp-chief-stay-away/) — mantri ka shilanyas; MLA anupasthit; factionalism ki raajneetik kahani, koi seat-kaam nahi. REJECT.
+// R-7. Jagran "mantri ne kiya 3809 lakh ki pariyojnaon ka shilanyas" (https://www.jagran.com/haryana/rewari-ncr-rewari-news-development-projects-inaugurated-by-rao-inderjit-singh-24057309.html) — Kendriya Rajya Mantri Rao Inderjit Singh (Gurgaon MP) ne shilanyas kiya; MLA sirf maujood. REJECT (dusre neta ke karyakram me maujoodgi + MP ka kaam).
+// R-8. Amar Ujala "Rewari Got Many Gifts In The Budget: Laxman" (21 Mar 2026; https://www.amarujala.com/haryana/rewari/rewari-got-many-gifts-in-the-budget-laxman-rewari-news-c-198-1-rew1001-235365-2026-03-21) — budget-ghoshnaon ki list (Namo metro, EWS flats, fire station, ROB Rs 207cr, doodh plant Rs 300cr...) — post-event execution ki reporting nahi. REJECT (sirf ghoshna).
+// R-9. Tribune "Rewari MLA exhorts people to use indigenous goods" (Dec 2025; https://www.tribuneindia.com/news/haryana/rewari-mla-exhorts-people-to-use-indigenous-goods) — jan-sunvai me swadeshi appeal; koi bhautik kaam/sanction nahi. REJECT.
+// R-10. Tribune "Rewari leader ditches Congress, joins BJP ahead of civic polls" (https://www.tribuneindia.com/news/haryana/rewari-congress-leader-joins-bjp-ahead-of-civic-polls/amp/?utm=relatedarticles) — party-joining event + Viksit Bharat-G RAM G abhiyaan ka promo; REJECT (sarkari abhiyaan ka keval shubharambh/prachar, kaam nahi).
+// R-11. Bhaskar "Rewari MLA Questions Government on School Shifting and Rewari-Pataudi Road" (Dec 2025 session; https://www.bhaskar.com/local/haryana/rewari/news/haryana-rewari-mla-laxman-yadav-questions-government-school-road-status-136702421.html, khula/padha) — sirf Vidhansabha PRASHN (Rewari-Pataudi road widening, kanya school shifting, adhure school bhavan); koi mantri-ashwasan ya dastaveji nateeja whitelisted source me nahi. REJECT (sirf prashn).
+// R-12. Bhaskar "Municipal Council program MLA expressed displeasure" (Dec 2025; https://www.bhaskar.com/local/haryana/rewari/news/haryana-rewari-municipal-council-program-mla-laxman-singh-expressed-displeasure-136650993.html) — nyota-vivad ki siyasi kahani; koi kaam nahi. REJECT.
+// R-13. Bus seva flag-off (Dainik Tribune 29 Nov 2024 story ke andar) — Rewari-Bhiwani aur Rewari-Bodia Kamalpur school buses ko jhandi; ye SEVA ka shubharambh hai, bhautik sanrachna nahi. REJECT (sarkari abhiyaan/seva ka keval shubharambh).
+// R-14. "Gaonon ke vikas ke liye lakhon ki grant ki ghoshna" (wahi 29 Nov 2024 story) — sirf ghoshna. REJECT.
+// R-15. Sangwadi story me school ke liye 10 kW solar panel, mahila chaupal, SC chaupal ki ghoshna (Amar Ujala 23 Sep 2026) — sirf ghoshna; block chairman/zila parishad/sarpanch ki ghoshnaen bhi shamil. REJECT.
+// R-16. 5dariyanews "Arti Singh Rao tells officials" (meeting me MLA maujood) — (a) 5dariyanews whitelist me NAHI, (b) sirf samiksha baithak. REJECT.
+// R-17. thejanpost.com bio page — whitelist me NAHI; generic dawe bina specifics ke. REJECT.
+// R-18. pinewz.com "Shiksha Sadan" story (Rs 50 lakh, Sector-4, hawan-yagya sahit udghatan; https://pinewz.com/hindi/video/rajasthan/udaipur-udaipur-jhaddol-man-dies-as-fire-breaks-out-while-sleeping-drunk-1772698555615) — pinewz aggregator, whitelist me NAHI. RETRY-LEAD: isi Shiksha Sadan udghatan ki story Bhaskar/Jagran/Amar Ujala/Tribune ke Rewari edition me dhoondho.
+// R-19. best24news.com "Sainik Sadan, Rs 2.75 crore budget manzoor" (30 May 2026; https://best24news.com/haryana-news-sainik-sadan-to-be-built-in-rewari-budget-of-%e2%82%b92-75-crore-approved/) — best24news whitelist me NAHI (MLA ke Vidhansabha me mudda uthane par zameen ki rashi swikrit hone ka dawa). RETRY-LEAD: whitelisted outlet me Sainik Sadan zameen-swikriti ki story dhoondho.
+// R-20. haryanaassembly.gov.in PDF 170323ques51.pdf (2023, Sh. Laxman Singh Yadav Kosli) — pre-term (Oct 2024 se pehle) Vidhansabha prashn; REJECT (karyakaal ke bahar).
+// R-21. NEGATIVES — myneta.info: 2024 Rewari halafname (candidate_id=39) aur 2019 Kosli halafname dono me criminalCases = 0; whitelist media search me MLA khud aaropi wali koi FIR/chargesheet/janch (Oct 2024 ke baad koi nyayik vikas) nahi mili; koi chunav-yachika report nahi hui. Isliye koi negative entry NAHI banayi.
+// ---- RETRY-LEADS (parent ke liye) ----
+// RL-1. pinewz Shiksha Sadan udghatan (Rs 50 lakh, Sector-4) — whitelisted Rewari editions me verify karo.
+// RL-2. best24news Sainik Sadan zameen Rs 2.75 crore swikriti (May 2026) — whitelisted outlet me verify karo.
+// RL-3. MLALAD (Budget 2025-26 me restart, Rs 5 crore poore 2024-29 term ke liye) — Rewari DC-office ki itemized sanction suchi online nahi mili; DPR Rewari/DC-office route se manual verify ho sakti hai.
+// RL-4. Rewari-Pataudi road widening + school-shifting prashn (Bhaskar, Dec 2025 session) — abhi sirf prashn; sarkari jawab/nateeja aane par mantri-ashwasan entry ban sakti hai.
+// RL-5. Dharuheda naya bus stand (MLA ke bayan me zikr) — Dharuheda Bawal seat me hai; Bawal batch ke liye note chhoda gaya hai.
+
