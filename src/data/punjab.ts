@@ -2277,7 +2277,7 @@ export const punjabNetas: Neta[] = [
         mynetaUrl: 'https://myneta.info/Punjab2022/candidate.php?candidate_id=49',
         backgroundNote: 'Pehchan pakki: Dakha, SAD, Winner (myneta candidate_id=49) — group ke 17 me EKLAUTE non-AAP MLA. Umr 47, 12th Pass. 2 aapradhik mamle lambit (road-block protest cases; koi conviction nahi). Real-estate developer (PPR Associates, Ayali Developers); aay ke srot me MLA pension bhi — pehle 2012-2017 MLA aur Oct 2019 bypoll jeet kar 2019-2022 MLA reh chuke hain.',
       },
-      electionNote: '2022 me Dakha se 49,909 vote lekar jeete (SAD); runner-up Sandeep Singh Sandhu (INC, 44,102 vote) ko 5,807 maton se haraya — group ki sabse karibi jeet.',
+      electionNote: '2022 me Dakha se 49,909 vote lekar jeete (SAD); runner-up Sandeep Singh Sandhu (INC, 44,102 vote) ko 5,807 maton se haraya — group ki sabse karibi jeet. Rajnaitik khulasa: pehle SAD (Punar Surjit) guth se jude, phir 9 Jun 2026 ko Akali Dal (Waris Punjab De) sangathan me shamil hue (Tribune); lekin Waris Punjab De panjikrit party nahi hai aur unhone khud kaha ki ve SAD se istifa nahi denge — isliye Vidhan Sabha ke record me party SAD hi hai.',
   },
   {
   slug: 'hakam-singh',
