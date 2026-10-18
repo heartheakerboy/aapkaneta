@@ -5731,3 +5731,1436 @@ andhraWorks['paritala-sunitha'] = [
 // FOUNDATION FLAG: koi party/seed correction nahi — record (TDP, Singanamala (SC), 2024-2029) sahi hai.
 andhraWorks['bandaru-sravani-sree'] = [];
 
+// Andhra Pradesh — Batch 8: Sri Sathya Sai + YSR Kadapa + Annamayya + Chittoor + Tirupati (22-26/26 jile) — ANTIM MINING BATCH.
+// Mined 2026-10-18/19. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/ap8_worker_<slug>_works.ts.
+// Coordinator QA: Mandipalli ke 2 aur Nallari ki 1 entry QA-drop (neeche darj, retry-leads).
+
+// ==== Sri Sathya Sai (Batch 8) ====
+// m-s-raju — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: M. S. Raju, Madakasira (SC), Telugu Desam Party, Winner 2024 (79,983 votes; jeet ka antar sirf 351 vote). Age 42, B.A. Nagarjuna University, pesha Social Service, S/o M. S. Kullayappa. Halafname me 25 mamle (IPC 307/324/364/384/153A aarop sahit) — affidavit-akela, koi Jun 2024+ nyayik vikas nahi mila, isliye negative NAHI. Member, TTD Trust Board (G.O.Ms.No.243 dated 01.11.2024) — pad hai, constituency work nahi.
+// REJECT-LOG:
+//  1. Dr. B. R. Ambedkar statue inauguration, Madakasira (~27 Oct 2025; The Hindu, 30 Oct 2025) — MLA ne murti ka lokarpan kiya, lekin murti ke nirmaan ka fund srot aur nirman-karta report me disclosed NAHI (khud-lokarpan + fund disclosed = valid hota; yahan fund undisclosed). STRICT fund rule par REJECT. Retry-lead: agar sarkari GO/sanction ya fund disclosure mile to dobara check karo.
+//  2. Dharmik tippani vivad (Oct 2025; The Hindu) — BJP neta ne TTD board se istife ki maang ki; koi FIR/chargesheet/adaltai aadesh MLA ke khilaf nahi → party-political row, negative criteria fail. REJECT.
+//  3. TTD Trust Board appointment (Nov 2024; The Hindu/Deccan Chronicle; G.O.Ms.No.243 dated 01.11.2024) — pad/sadasyata hai, vikas-karya nahi. REJECT.
+//  4. 'MS Raju vs Thopudurthi' clash (indiaherald, June 2026) — pehchan Anantapur MLA par hai, Madakasira MLA se mismatch; srot bhi Andhra Jyothy/Eenadu (reject list). REJECT.
+//  5. TDP candidate change (daijiworld, Apr 2024) — pre-election, works window se bahar. REJECT.
+//  6. Raghu Rama Krishna Raju sedition case / Jagan complaint (rediff) — dusra vyakti (Narasapuram MP), isi naam ka confusion. REJECT.
+//  7. Madakasira me Defence Energetics Facility + Ammunition plant (Rajnath Singh/CM, May 2026) — kendriya pariyojna, MLA ki vyaktigat bhoomika ka koi pramaan nahi. REJECT.
+//  8. CPWS/tender notices (firsttender) — tender soochna, MLA se jod ka pramaan nahi. REJECT.
+//  9. 25 affidavit mamle (myneta, candidate_id=1833) — 'Charges Framed: No' ke saath purane mamle; Jun 2024+ ke baad girafrari/chargesheet/conviction/quash/adaltai aadesh ka koi established-media pramaan nahi. Akele affidavit = negative NAHI. REJECT.
+andhraWorks['m-s-raju'] = [];
+
+// nandamuri-balakrishna — 1 work + 0 negatives (mined 2026-10-19)
+// Pehchan: Nandamuri Balakrishna, Hindupur (Sri Sathya Sai district), TDP — 2024 me teesri baar lagatar jeete (2024: TDP, 32,597 maton ka antar — New Indian Express, 9 Jun 2024). Abhineta + NTR Memorial Trust/Basavatarakam Cancer Hospital se jude (trust/charity ke saare karya vyaktigat daan-niyam se bahar rakhe gaye). MP B.K. Parthasarathi (Hindupur LS) ke MPLADS karya is profile me nahi liye gaye.
+// Note: Balakrishna ke mamle me Jun 2024+ karyakaal me lokarpan/shilanyas ki whitelist-coverage bahut seemit mili — adhikansh reporting ya to daura/nirikshan/maang/ghoshna thi ya non-whitelist portals par. Khali profile se behtar: sirf 1 pakki entry.
+andhraWorks['nandamuri-balakrishna'] = [
+  {
+    title: 'Hindupur shahar me do Anna Canteenon ka lokarpan — pradesh-vyapi 100 canteen karyakram ka hissa',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/balakrishna-appeals-to-naidu-to-make-hindupur-the-headquarters-of-sri-sathya-sai-district/article68532169.ece',
+    date: '2024-08-16',
+    note: 'The Hindu ki post-event report (dateline HINDUPUR, Friday) ke mutabik, Hindupur MLA Nandamuri Balakrishna ne Hindupur shahar me do Anna Canteenon ka lokarpan kiya; ye pradesh-vyapi 100 canteenon ke karyakram ka hissa tha (TDP ka teen-ahar karyakram). Sarkari yojna ki bhautik sanrachna ka vyaktigat lokarpan — fund sarkari (Anna Canteen yojna), bhoomika MLA ki vyaktigat lokarpan-karta ke roop me report me spasht. Inferred-date disclosure: report me karyakram ki exact tareekh nahi di gayi, "earlier" kaha gaya hai; prakashan-tithi (16 Aug 2024, Friday) li gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG — nandamuri-balakrishna (Hindupur)
+// [REJECT daan-niyam] NTR Trust/charity se judi saari khabren (Basavatarakam Indo-American Cancer Hospital, CSR-fund maang, NTR Arogya Ratham) — DC 2025-07-29 (Balakrishna Seeks Ring Road, ESI Hospital: cancer hospital expansion ke liye CSR funds maange; mansik roop se ESI hospital sthapna ki maang) — vyaktigat daan-niyam + maang; seat-karyakram nahi.
+// [REJECT ghoshna] Rs 90 crore Hindupur vikas hetu "CM ne sanction par sahmati di" — The Hindu 2024-08-16; MLA dwara CM ki ghoshna ka relay, koi shilanyas/lokarpan nahi. GO/tender/shilanyas mile to retry-lead.
+// [REJECT maang] Hindupur ko Sri Sathya Sai district ka mukhyalaya banane ki appeal — The Hindu 2024-08-16; sirf maang/prastav.
+// [REJECT maang] Delhi me kendriya mantriyon se ring road + national highway + ESI hospital ki maang — DC 2025-07-29; sirf maang, seat par koi karya nahi.
+// [REJECT yojna-shubharambh] Stree Shakti (mahila muft yatra) yojna ka launch — The Hindu 2025-08-15; abhiyan-yojna ka keval shubharambh, koi bhautik sanrachna nahi.
+// [REJECT daan-inaguration] TD neta Venkata Swamy dwara di gayi free ambulance ka udghatan (District Area Hospital, Hindupur) — DC (~Jul 2024); ambulance daan kisi aur ne diya, sanrachna nahi; MLA ne sirf inaugurate kiya.
+// [REJECT nirikshan] Kotipi gaon (Hindupur Rural) me TIDCO gharon ka nirikshan — DC (~Jul 2024); sirf nirikshan, koi lokarpan nahi.
+// [REJECT niji] Apne ghar ka bhoomi poojan/shilanyas (Vanam Colony, Hindupur) — DC 2026-02-20; niji karya, kaam nahi.
+// [REJECT pre-term] Galibipalli (Lepakshi Mandal) me Rs 10 lakh sadak ka bhoomi poojan, MPLADS fund (TDP Rajya Sabha sadasya Kanakamedala Ravindra Kumar) — The Hindu (Jan 2023); pre-term + fund MP ka, MLA ka nahi.
+// [REJECT birthday-samaroh] 10 Jun 2024 ko janmadin par Anna Canteen "relaunch" + NTR Arogya Ratham — The Hindu 2024-06-10; NTR Arogya Ratham trust-charity (vyaktigat daan-niyam se bahar) aur relaunch-samaroh janmadin-fanfare ke saath; canteen hissa upar wali 16 Aug entry me shaamil.
+// [REJECT non-whitelist] Basavannapalli (Kirikera Panchayat, Hindupur Rural) school me Rs 64 lakh ke classrooms ka lokarpan + Basavannapalli-Bharat Nagar Rs 1 crore NREGS sadak ka shilanyas — sirf telugu360 (non-whitelisted portal) par mila. Whitelist coverage (Hindu/Express/DC/TOI/HT/NDTV/India Today/Hans India/PTI) mile to retry-lead.
+// [REJECT non-whitelist] "Balayya babu in development mode" (teluguone) — NTR Sujala Sravanthi mineral water plants bhoomi poojan + Hindupur-Somdevapalli Rs 10 crore road widening launch; article purane karyakaal ka (2014-era cabinet-references), pre-term.
+// [REJECT negative-nahi] YSRCP karyalaya tor-phod (15 Nov 2025) — The Hindu + PTI: TDP karyakartaon aur "Balakrishna ke followers" ne karyalaya me tor-phod ki; MLA KHUD aaropi nahi bataya gaya (Jagan ne "TDP leaders and Balakrishna's followers" par aarop lagaya). MLA khud aaropi column me nahi — negative bar nahi milta.
+// [REJECT negative-nahi] Daaku Maharaaj release par prashansakon dwara bakre ki bali — PETA dwara 5 prashansakon ke khilaf FIR (Times Now, Jan 2025); MLA khud aaropi nahi.
+// [REJECT negative-nahi] myneta (2019) ke 2 purane mamle (Cr 10/09 Bukkarayasamudram, Cr 20/09 Gooty; IPC 188/283) — pre-term, Jun 2024+ me koi nyayik vikas whitelist par nahi mila; halafnama-mamle akele negative nahi.
+// Retry-leads: (1) Basavannapalli school classrooms + NREGS road — whitelist coverage aane par; (2) Rs 90 crore Hindupur development package — GO/tender/shilanyas report par; (3) Hindupur ESI hospital/ring road — shilanyas/lokarpan report aane par.
+
+// s-savitha — 2 works + 0 negatives (mined 2026-10-19)
+// Pehchan: S. Savitha (Sanjeevareddygari Savitha), TDP, Penukonda, Sri Sathya Sai
+// district; mantri — BC Kalyan, EWS Kalyan, Hathkargha evam Vastra (12 June 2024
+// se); foundation record se seat + party + karyakaal sab match.
+andhraWorks['s-savitha'] = [
+  {
+    title: 'Penukonda Municipality ke Ward 17 aur 18 me nayi CC sadkon ka lokarpan aur 35 saal purane drainage sankat ka sthayi samadhan — mantri ne Rs 20 crore ki nagar-vikas swikriti ki ghoshna ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/kurnool/min-savita-highlights-devpt-works-during-penukonda-tour-1122629',
+    date: '2026-09-17',
+    stage: 'lokarpan',
+    note: 'Penukonda daure (article ke anusaar Budhwar/16 Sep ko, khabar 17 Sep ko prakashit) ke dauraan mantri Savitha ne Penukonda Municipality ke Ward 17 aur 18 me puri ho chuki nayi CC sadkon ka lokarpan kiya aur 35 saal purane drainage sankat ke sthayi samadhan ka jashn manaya; isi daure me unhone municipal development works ke liye Rs 20 crore ki swikriti ki ghoshna ki (ye kaam shuru hone wale hain, isliye ye hissa ghoshna hai, lokarpan nahi). Bhoomika disclosed: mantri khud lokarpan-karta thi; Ambedkar Circle ka bus shelter niji yogdan se bana tha, isliye uska ullekh nahi joda gaya. (The Hans India, post-event reporting, 17 September 2026)',
+    period: '2024-2029',
+  },
+  {
+    title: 'Penukonda me Rs 1 crore CSR kharch se banne wale naye Rythu Bazar ka bhoomi pujan mantri ne District Collector ke saath kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/anantapur/baling-machines-demonstrated-during-student-educational-tour-1123554',
+    date: '2026-09-20',
+    stage: 'shilanyas',
+    note: 'State Minister Savitha aur District Collector Shyam Prasad ne Penukonda me naye Rythu Bazar ka bhoomi pujan kiya; bazar Rs 1 crore ke CSR yogdan se ban raha hai aur kisan-upbhokta seedhi bikri badhayega. Credit-capping/disclosure: ye CSR-funded pariyojana hai, sarkari nidhi se nahi; mantri ne shilanyas swayam kiya (keval maujoodgi nahi), fund disclosed hai. Bhoomi pujan ki exact tithi article me di gayi nahi hai — date prakashan tithi (20 September 2026) ke aadhaar par di gayi hai. (The Hans India, 20 September 2026)',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (s-savitha / Penukonda, TDP, BC Kalyan mantri — sab Roman-script Hinglish me):
+// R1. Rs 425.20 crore ISKCON spiritual-cultural base camp, Penukonda (60 acre,
+//     Gangagiri hill) — The Hindu, 9 Jan 2026 (khud kholkar padha,
+//     https://www.thehindu.com/news/national/andhra-pradesh/425-crore-iskcon-base-camp-coming-up-in-penukonda-minister/article70490631.ece):
+//     SIPB clear + Cabinet approval ke bawajood mantri ki press release me "preparatory
+//     works would commence shortly" — SIRA GHOSHNA, koi shilanyas/lokarpan nahi. REJECT.
+// R2. Penukonda police parade ground (Circle Police Office ke paas) ka lokarpan +
+//     'Operation Trishul' awareness programme launch — The Hans India, 4 Oct 2026:
+//     parade ground mantri ke NIJI funds se bana tha (daan/rahat/niji kharch rule se
+//     reject); Operation Trishul police abhiyan ka keval shubharambh hai. REJECT.
+// R3. Gollapalli Reservoir daure ke baad drought press conference — The Hindu, 12 Feb 2025:
+//     sinchai/peyjal ke aashwasan + kalyankari yojanaon ke bayan; nirikshan + bayanat
+//     akela. REJECT.
+// R4. Sri Sathya Sai zila ke liye Rs 2,087-crore vikas yojana ka I-Day par outline
+//     (Puttaparthi) — The Hindu, 15 Aug 2025: yojana-ghoshna, koi bhautik lokarpan nahi;
+//     zila-stariya bhi, seat ka vyaktigat kaam nahi. REJECT.
+// R5. Kendra ka weaver training facility, Hindupur — Deccan Chronicle, 25 Sep 2025:
+//     Hindupur dusri seat hai (seat ke bahar kaam). REJECT.
+// R6. MJP institutions ke permanent buildings ke liye Rs 500 crore swikriti
+//     (Vijayawada programme) — Deccan Chronicle, May 2026: BC-vibhag ki RAJYA-STARIYA
+//     ghoshna, Penukonda seat ka kaam nahi (brief: BC-vibhag ke rajya faisle nahi).
+//     REJECT.
+// R7. 'New Textile Policy soon' bayanat (pynr.in) aur FCRA restoration par Rural
+//     Development Trust ka swagat (indianwitness.com): dono non-whitelist sources
+//     AUR bayanat/sthitiya, vikas-kaam nahi. REJECT.
+// R8. Rs 20 crore municipal swikriti (Hans India, 17 Sep 2026, R-log entry R0 ke
+//     andar): ghoshna-hissa keval note me disclosed hai, entry CC sadak lokarpan +
+//     drainage samadhan par bani hai. SIRF ghoshna hone se REJECT nahi — valid hissa
+//     alag hai.
+// R9. Negative-check (whitelist: The Hindu, Hans India, Deccan Chronicle, Express
+//     outlets, search): Jun 2024 se ab tak S. Savitha (Penukonda MLA/BC Welfare
+//     minister) par koi FIR, chargesheet, jaanch ya adalati vikas ki khabar NAHI
+//     mili. Same-name collisions mile — Telangana ki 'Savitha' (2022 writ, Indian
+//     Kanoon), Karnataka ki 'Savitha Gowda', BRS ki 'Sabitha Indra Reddy' — sab
+//     ALAG vyakti hain (alag rajya/party/seat). Koi negative entry nahi banti.
+// RETRY-LEAD (bhavishya worker ke liye):
+// - Roddam me MSME Park (59.37 acre) ka bhoomi pujan, May 2025: UNI par hai
+//   (https://www.uniindia.com/minister-savitha-assures-of-providing-infrastructure-to-establish-industries/south/news/3462913.html)
+//   jo whitelist me NAHI hai; The Hindu/Express/Hans/DC par yehi story mili nahi.
+//   Agar whitelisted source mil jaye to valid shilanyas entry ban sakti hai.
+// NOTE: Foundation me koi sudhaar nahi — seat Penukonda, party TDP, karyakaal
+// 2024-2029, portfolio (BC + EWS + Hathkargha) sab brief se match karte hain.
+
+// palle-sindhura-reddy — 2 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Puttaparthi (TDP), 2024 me 91,741 vote lekar jeeti — first-time MLA; pati Palle Raghunatha Reddy (purv MLA/mantri, 2009/2014 ke Puttaparthi MLA) ke purane kaam/mamle is profile se poori tarah bahar rakhe gaye hain. Wikipedia ke mutabik unke pati Palle Venkata Krishna Reddy (Balaji Educational Society ke chairman) hain aur wo Palle Raghunatha Reddy ki bahu hain.
+andhraWorks['palle-sindhura-reddy'] = [
+  {
+    title: 'Kothacheruvu mandal me kul Rs 41.39 crore ki 47 vikas pariyojnaon ka lokarpan/shilanyas — CC sadken, school upgrade aur pashudhan shed sahit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/andhra-pradesh/mla-sindhura-launches-47-projects-worth-rs-4139-crore-1130016',
+    date: '2026-10-07',
+    note: 'The Hans India ki post-event report ke mutabik, Puttaparthi MLA Palle Sindhura Reddy (purv mantri Dr Palle Raghunatha Reddy ke saath) ne Kothacheruvu mandal ke daure me kul Rs 41.39 crore ki 47 vikas pariyojnaon ko launch kiya; report me CC sadkon, school upgrades aur pashudhan sheds ka lokarpan darj hai. Pramukh pariyojnaon me Chandrasupalli aur Errapalli ke beech Rs 7.89 crore ka pul, pramukh BT sadak network, RDSS ke tahat bijli upgrade aur Rs 2 crore ka sports stadium bataya gaya hai. Data-virodh disclosure: report ke "In Short" ansh me RDSS bijli upgrade ke liye Rs 50 crore likha hai — jo headline ke kul Rs 41.39 crore aankde se mel nahi khata; dono aankde report ke hain, suljha nahi. Inferred-date disclosure: report 8 Oct 2026 (3:00 AM IST) ko prakashit hui aur daure ko "Wednesday" bataya gaya — 7 Oct 2026 Wednesday tha, isliye ye tareekh li gayi hai. Usi report me 200 garib parivaron ko housing deeds dene ka wada bhi hai — wo sirf wada hai, is entry ka vishay nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Krishnapuram (Bukkapatnam mandal) ke kisano ko 22-A/Chukkala vivaadon ke samadhan ke baad bhoomi-adhikar dastavej vitrit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/andhra-pradesh/land-rights-documents-handed-over-to-krishnapuram-farmers-1130825',
+    date: '2026-10-09',
+    note: 'The Hans India ki post-event report ke mutabik, Krishnapuram gaon (Bukkapatnam mandal) ke kisano ko lambe samay se latke 22-A aur Chukkala (vivaadit/aspasht) bhoomi muddon ke sthayi samadhan ke baad bhoomi-adhikar dastavej baante gaye. Karyakram sthaniya Tahsildar karyalaya me Revenue Divisional Officer ki adhyakshata me hua; Puttaparthi MLA Palle Sindhura Reddy aur purv mantri Dr Palle Raghunatha Reddy ne dastavej pradan kiye. Report me darj hai ki Krishnapuram ke kisan salon se pending samasya ke hal par khush hue aur MLA-purv mantri ki pehal ke liye unhone dhanyavaad diya. Ye entry karyakram ke rajasva-dastaveji parinam tak seemit hai — MLA ko poore bhoomi-sudharan ka akela shrey nahi diya gaya (RDO ki adhyakshata report me darj hai). Inferred-date disclosure: report 10 Oct 2026 ko prakashit hui aur karyakram ko "Friday" bataya gaya — 9 Oct 2026 Friday tha, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG — palle-sindhura-reddy (Puttaparthi)
+// [REJECT pre-event-ghoshna + dusre-neta-ka-karyakram] CM Naidu Rs 20 crore Puttaparthi municipal works (Hybrid Annuity Model; sadak/drainage/park) — Hans India; "CM virtual shilanyas karenge" pre-event report, MLA sirf sahbhagi. Post-event report me unki vyaktigat bhoomika mile to retry-lead.
+// [REJECT maang/nirdesh] Special gram sabha Krishnapuram (22-A/Chukkala vivaad 40 din me nipatane ka nirdesh; 193 talab Krishna paani; aerospace/solar investment ke dawe) — Hans India 2026-08-28; sirf nirdesh/ghoshna. Isi nirdesh ka dastaveji parinam (10 Oct 2026 bhoomi-dastavej vitran) upar valid entry me hai.
+// [REJECT maujoodgi] NHAI Bengaluru-Kadapa-Vijayawada corridor 4 Guinness records program (Gadkari-Naidu virtual) — DC; MLA "were present", koi vyaktigat bhoomika nahi.
+// [REJECT kendriya-pariyojna-bina-bhoomika] AMCA Core Integration & Flight Testing Centre + defence energetics/drone projects Puttaparthi (Rs 15,803 crore, Rajnath Singh + CM Naidu) — agency reporting; kendriya raksha pariyojna, MLA ki bhoomika ka koi zikr nahi.
+// [REJECT party-meeting] Local body elections extended meeting (cadres ko nirdesh, YSRCP-prachar ka jawab) — Hans India; party rajniti, koi vikas karya nahi.
+// [REJECT public-grievance-forum] Camp office me janshikayat sunvai (adhikariyon ko phone par nirdesh) — Hans India 2026-09-19; sirf nirdesh, koi dastaveji nateeja nahi.
+// [REJECT non-whitelist] Industrial growth stalled under YSRCP (cooperative society oath-taking ceremony par bayan) — tmv.in; whitelist me nahi + sirf bayan.
+// [REJECT pati-ka-kaam] Dr Palle Raghunatha Reddy ke 2009/2014 karyakaal ke kaam aur unse jude mamle — pehchan-jaal ke tahat bahar.
+// [REJECT charity] Sri Sathya Sai ashram/trust se jude daan/seva karyakram — vyaktigat daan-niyam ke tahat bahar.
+// Negatives: whitelist media me Palle Sindhura Reddy KHUD aaropi wali koi FIR/chargesheet/Jun 2024+ nyayik vikas nahi mili ("Sindhura Reddy Vemula vs State of Telangana" SC order 20 May 2026 alag vyakti ka mamla hai — pehchan-jaal reject).
+// Retry-leads: (1) Rs 20 crore Puttaparthi municipal HAM works — shilanyas ki post-event report me MLA ki vyaktigat bhoomika mile par; (2) 47-project package ki itemized suchi (vyaktigat pariyojna-alag entries ke liye) wali poori report mile par; (3) Puttaparthi ke 193 talabon me Krishna paani — poornata ki post-event report mile par.
+
+// satya-kumar-yadav — 5 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Satya Kumar Yadav (Y. Satya Kumar Yadav), BJP, Dharmavaram (Sri Sathya Sai jila; mandals: Dharmavaram, Bathalapalle, Tadimarri, Mudigubba), 2024 me Kethireddy Venkatarami Reddy (YSRCP, 1,02,810) ko 3,734 maton se haraya (1,06,544 vote). Andhra Pradesh ke Swasthya, Parivar Kalyan aur Chikitsa Shiksha Mantri. Dono Dharmavaram-kendrit entries The Hindu (10 Jun 2025) se; Ayurveda college tender PTI/ThePrint (21 Aug 2026) se.
+// REJECT-LOG:
+//  1. Vahana Mandapam shilanyas, Sri Lakshmi Chennakesava Swamy Temple, Dharmavaram (13 Jan 2026; The Hindu) — dharmik sanrachna; nirman fund/lagat report me disclosed NAHI; task-focus aspatal/sadak/school se bahar. STRICT fund rule par REJECT.
+//  2. HCCB CSR initiatives ka udghatan, Sivampalli/Tadimarri (13 Feb 2025; hccb.in press release) — CSR-funded sanrachna; mantri sirf udghatan-karyakram me maujood. REJECT.
+//  3. 71 Arogya Rathams Dharmavaram se flag-off (Deccan Chronicle, Sep 2026) — pre-event ghoshna ("would be flagged off on Sep 25"); abhiyan ka keval shubharambh. REJECT.
+//  4. Tablet vitaran + Mahila Akasham App launch, Dharmavaram (The Hindu, 11 Jul 2025) — vitaran/abhiyan launch; bhautik sarkari sanrachna nahi. REJECT.
+//  5. Mega handloom cluster ke liye Union Minister Giriraj Singh se mulakat (The Hindu, 31 Jul 2025) — sirf maang/prastav. REJECT.
+//  6. Dharmavaram ke alpasankhyakon ke liye Union Minister George Kurian se assistance ki maang — sirf maang. REJECT.
+//  7. 267 Village Health Clinics ka rajya-stariya lokarpan (TNIE/Deccan Chronicle, Oct 2026) — mukhya karyakram Janardhanapuram (Krishna jila) me; Dharmavaram me mantri ki vyaktigat bhoomika verify nahi. REJECT.
+//  8. 8,000 doctor bharti ghoshna, Ayush allocations, decentralisation — rajya-stariya swasthya-vibhag faisle/niyam; Dharmavaram-seat karya nahi. REJECT.
+//  9. Chitravathi reservoir submergence parivaron ko Rs 9.5 crore muaavza — muaavza/raahat; bhautik karya nahi. REJECT.
+//  10. medicaldialogues.in / trendglee.com versions (Tadimarri lokarpan) — aggregator; The Hindu original use kiya.
+//  11. TIFA scan services at area hospital Dharmavaram (TNIE, Jul 2026) — rajya program ki soochi; mantri ki vyaktigat lokarpan-bhoomika ka pramaan nahi. REJECT.
+andhraWorks['satya-kumar-yadav'] = [
+  {
+    title: 'Mantri ne Dharmavaram seat ke Tadimarri mandal mukhyalay me naye Block Public Health Unit ka lokarpan kiya; Dharmavaram seat ke liye kul 2 BPHU swikrit',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-government-will-release-a-notification-soon-to-fill-8000-doctor-posts-says-health-minister/article69679433.ece/amp/',
+    date: '2025-06-10',
+    period: '2024-2029',
+    note: 'Health Minister Satya Kumar Yadav ne Tadimarri mandal headquarters (Dharmavaram Assembly constituency) me Block Public Health Unit ka lokarpan kiya. Report ke anusaar rajya me kul 168 Block Public Health Units swikrit hue hain, jinme se 2 Dharmavaram Assembly constituency ke liye swikrit hain.',
+  },
+  {
+    title: 'Tadimarri mandal mukhyalay me Rs 10 lakh ki lagat se bana tehsildar karyalaya lokarpit — mantri ne kaha revenue sevayen logon ke kareeb pahunchengi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-government-will-release-a-notification-soon-to-fill-8000-doctor-posts-says-health-minister/article69679433.ece/amp/',
+    date: '2025-06-10',
+    period: '2024-2029',
+    note: 'Mantri ne Tadimarri me naye tehsildar karyalaya ka lokarpan kiya; unhone The Hindu ko bataya ki karyalaya Rs 10 lakh ki lagat se bana hai taaki revenue-sambandhi sevayen aasaani se milen aur shikayaton ka niptara kam samay me ho.',
+  },
+  {
+    title: 'Dharmavaram me Sarkari Ayurveda Medical College ke nirman (Rs 49 crore) sahit 12 swasthya pariyojnaon (Rs 221 crore) ke liye tender aamantrit — mantri ne ghoshna ki',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'ThePrint (PTI)',
+    sourceUrl: 'https://theprint.in/india/andhra-invites-tenders-for-12-health-projects-worth-rs-221-cr/3021834/',
+    date: '2026-08-21',
+    period: '2024-2029',
+    note: 'PTI report ke anusaar Health Minister Satya Kumar Yadav ne press release me bataya ki Ayush chikitsa sevayon aur shiksha ke bhavan nirman tatha sarkari aspatalon me atirikt suvidhaon ke liye kul Rs 221 crore ke 12 kamon ke tender aamantrit kiye gaye; inme Dharmavaram (Sri Sathya Sai jila) me Rs 49 crore ki lagat se Sarkari Ayurveda Medical College ka nirman shamil hai.',
+  },
+  {
+    title: 'Dharmavaram seat ke Pinadari aur Sivampalli gaon me RO plants lagaye gaye — mantri ne karyakram me bataya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-government-will-release-a-notification-soon-to-fill-8000-doctor-posts-says-health-minister/article69679433.ece/amp/',
+    date: '2025-06-10',
+    period: '2024-2029',
+    note: 'Tadimarri lokarpan-karyakram me mantri ne vikas karyon ka vivaran dete hue bataya ki Pinadari aur Sivampalli gaon me RO plants lagaye gaye hain; saath hi mandal me summer action plan ke tahat 10 bore khudwaye gaye.',
+  },
+  {
+    title: 'Tadimarri mandal me Rs 3 crore ki lagat se 87 CC sadkon ka nirman shuru — mantri ne vikas karyon ki soochi me bataya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-government-will-release-a-notification-soon-to-fill-8000-doctor-posts-says-health-minister/article69679433.ece/amp/',
+    date: '2025-06-10',
+    period: '2024-2029',
+    note: 'Tadimarri lokarpan-karyakram me mantri ne bataya ki Rs 3 crore ki lagat se 87 CC sadkon ka nirman shuru karwaya gaya hai.',
+  },
+];
+
+// kandikunta-venkata-prasad — 2 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Kandikunta Venkata Prasad, TDP, Kadiri (Sri Sathya Sai jila; 16th AP VS 2024-2029,
+// doosri baar MLA — 2009 me bhi Kadiri se jeete the; 2014/2019 me hare). Halafname ke purane
+// CBI mamle (C.C. 2/2003, C.C. 33/2007 — dosh-siddhi 2016/2017, appeal par dosh-siddhi suspended
+// 12-10-2018) affidavit-ke-mamle hain; 22 Mar 2024 ko High Court ne Crl.A. 452 & 454/2016 me
+// bari kiya — ye Jun 2024 se PEHLE ka hai aur rahat (acquittal) hai, isliye negative entry ke
+// Jun 2024+ nyayik-vikas niyam me qualify NAHI karta. Jun 2024+ ka koi FIR/chargesheet/adverse
+// aadesh established media me nahi mila — isliye 0 negatives. Pehchan-jaal note: brief me
+// 'pita purv MLA' likha tha, lekin New Indian Express (18 May 2024) ke mutabik Kadiri seat
+// sthapna se kabhi purv-vidhayakon ke vaarisyon ne pratinidhitva nahi kiya, aur Wikipedia/affidavit
+// record ke mutabik 2009/2014/2019/2024 me ummidwar yehi ek vyakti hai — kisi namesake ka
+// kaam/mamla isme nahi joda gaya. Dono entries whitelisted outlets ki post-event reporting se
+// kholkar verified.
+// REJECT-LOG: (1) makaam.in (31 Jul 2024): Katarupalli FPO collection center ka MLA dwara udghatan — source whitelist me nahi. (2) HinduPost (26 Dec 2025): mandir parisar me 8 police vahan + drone ka udghatan — source whitelist me nahi; vahan bhautik sanrachna nahi (mukhya-atithi event). (3) Hans India (SKU inter-college tournament, Oct 2026): mukhya-atithi khel event, infrastructure nahi. (4) The Hindu (22 Dec 2025): Tanakallu me garbhvati mahila mamle me hospital visit — sirf daura, koi nateeja/sanrachna nahi. (5) TOI (2025): Kadiri govt hospital me sharabi giroh ke hamle par hospital visit — sirf daura/sahanubhuti. (6) YouTube: Tirumada street road vistar bhumi-pujan video — YouTube source reject.
+andhraWorks['kandikunta-venkata-prasad'] = [
+  {
+    title: 'Kadiri ke 17ve Ward me Rs 7.50 lakh ke sadak vikas karyon ka MLA ne lokarpan kiya aur Praja Darbar me pension-awash aavedanon ke turant niptare ka nirdesh diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/kurnool/mla-kandikunta-venkata-prasad-holds-public-grievance-meet-1121290',
+    date: '2026-09-11',
+    note: 'The Hans India (13 Sep 2026) ki post-event report ke mutabik, Kadiri MLA Kandikunta Venkata Prasad ne Kadiri ke 17ve Ward me Rs 7.50 lakh ke sadak vikas karyon ka lokarpan Friday ko kiya. Iske baad Praja Darbar me MLA ne pension aur housing ke aavedan dekhe aur adhikariyon ko lambit shikayaton ke turant niptare ka nirdesh diya; surakshit school commute ke liye National Highway adhikariyon se flyover ka samanvay aur naya Anganwadi center banane ka ashwasan diya (ye dono ashwasan hain, is entry ka vishay nahi). Inferred-date disclosure: report me karyakram ki tareekh sirf ‘Friday’ di gayi hai; prakashan-tithi 13 Sep 2026 (Ravivar) se pichla Friday = 11 Sep 2026 liya gaya hai. Fund: report me Rs 7.50 lakh rakam di gayi hai, fund ka srot ‘ghoshit nahi’.',
+    period: '2024-2029',
+  },
+  {
+    title: 'World Tourism Day par Kadiri mandal ke Thimmamma Marrimanu me Eswaramalai botanical garden ka shilanyas — MLA ne collector ke saath foundation stone ka anavaran kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/sss-district-celebrates-world-tourism-day-at-thimmamma-marrimanu-1991097',
+    date: '2026-09-27',
+    note: 'Deccan Chronicle (27 Sep 2026) ki post-event report ke mutabik, Sri Sathya Sai jile ne World Tourism Day Ravivar ko Thimmamma Marrimanu (Guinness World Record-listed banyan tree, Gootibailu gaon ke paas, Kadiri mandal) me manaya. Is avsar par Kadiri MLA Kandikunta Venkata Prasad aur collector K. Shyam Prasad ne Eswaramalai me botanical garden ke foundation stone ka anavaran kiya; garden me Rayalaseema kshetra ki durlabh aushadhiya aur sthaniya paudhon ki prajatiyan hongi, jo visitors aur students ko biodiversity aur environment ke baare me sikhayengi. Event Tourism vibhag ne organize kiya; MLA ne Thimmamma Marrimanu aur anya tourist spots ko plastic-free banane ki baat kahi. Fund: report me ‘ghoshit nahi’.',
+    period: '2024-2029',
+  },
+];
+
+
+// ==== YSR Kadapa (Batch 8) ====
+// dasari-sudha — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan pakki: Badvel (SC, YSR Kadapa jila), YSRCP, Winner 2024 —
+// 90,410 vote (51.69%); runner-up Bojja Roshanna (BJP, 71,843) ko 18,567 maton se haraya.
+// W/o late Dr Gunthoti Venkata Subbaiah (purv MLA/purv mantri); age 51; pesha doctor (MBBS, DGO, Kurnool Medical College 1999);
+// 2021 ke upchunav me (pati ke nidhan par) pehli baar jeeti, 2024 me seat barkarar rakhi.
+// Halafnama: 0 criminal cases (myneta.info, AndhraPradesh2024 candidate_id=187).
+// Karyakaal: 16th AP Vidhan Sabha, Jun 2024+ (2024-2029). Vipaksh ki MLA — Jun 2024+ me
+// whitelisted media me unki vyaktigat bhoomika wali koi seat-level reporting nahi mili;
+// YSRCP ne Feb 2025 se Assembly satra ka bahishkar kiya (LoP darja vivad), isliye
+// Vidhan-sabha prashn/ashwasan wale record bhi nahi bane. Khali profile rakhi gayi hai.
+
+andhraWorks['dasari-sudha'] = [];
+
+// REJECT-LOG (dasari-sudha, mined 2026-10-19)
+// 1. The Hindu — "Andhra Pradesh Assembly Speaker Ayyanna questions absenteeism of YSRCP MLAs during Budget session" (20 Mar 2025): Speaker Ch. Ayyanna Patrudu ne Dasari Sudha samet 7 YSRCP MLAs ka naam lekar kaha ki unhone attendance register me hastakshar karke sadan chhod diya ("like thieves"). Ye negative-rules me NAHI aata: koi FIR/chargesheet/janch ya Jun 2024+ ka nyayik vikas nahi — ye vidhayi boycott (LoP darja ki maang, 24 Feb 2025 se) se juda rajnaitik-prakriyatmak mamla hai, isliye negative entry NAHI banayi. MLA ka jawab srot me disclosed nahi hai.
+// 2. New Indian Express — "No need to panic over new Covid cases in Andhra's Kadapa: Experts" (13 Jul 2026, by S. Guru Srikanth): Kadapa Zilla Parishad meeting me Badvel MLA Dr Dasari Sudha (aur MLC Ramesh Yadav) ne swasthya adhikariyon se Covid cases ki official ghoshna na hone par sawal uthaye; uske baad 8 cases + 2 maut disclose hue, prashasan ne surveillance badhaya aur 24/7 helpline (9441075150) activate kiya. Page kholkar verify kiya. REJECT: ye Vidhan-sabha (Assembly) prashn NAHI hai — Zilla Parishad ki baithak me uthaya gaya mudda hai, aur "Vidhan-sabha sawaal ka dastaveji nateeja/mantri-ashwasan" wali valid category me nahi aata. Credit capped rule bhi Assembly context ka hai. Kaarvai ka shrey jila prashasan (District In-charge Minister S Savitha, Collector Sreedhar Cherukuri) ko jata hai.
+// 3. New Indian Express — "Union Cabinet approves Badvel-Nellore Corridor in Andhra Pradesh" (29 May 2025): Cabinet Committee on Economic Affairs ne Rs 3,653.10 crore ka 4-lane Badvel-Nellore corridor (NH-67, 108.134 km, Gopavaram se Krishnapatnam) manzoor kiya. REJECT: kendriya pariyojna (CCEA/PM), Dasari Sudha ki vyaktigat bhoomika ka srot me koi ullekh nahi.
+// 4. Times of India — "CM launches Rs 30,156 cr Jaladhara prog in Kadapa" (5 Oct 2026): CM Chandrababu Naidu ne Kadapa me Jal Jeevan Mission 2.0 launch kiya. REJECT: CM ka karyakram; Badvel MLA ki bhoomika ka koi ullekh nahi.
+// 5. Deccan Chronicle — "Dasari Sudha of YSR Congress wins Badvel assembly seat" (Nov 2021): by-election jeet ki khabar — pre-term, REJECT.
+// 6. Hindustan Times — "YSR Congress wins Badvel seat in Andhra; BJP, Cong lose deposits" (Nov 2021): upchunav coverage — pre-term, REJECT.
+// 7. Times of India — "Kadapa MP and YSRCP MLA intensify door to door campaign at Badvel" (pre-May 2024): chunav-prachar coverage — REJECT (chunav prachar, koi bhautik sanrachna ya dastaveji nateeja nahi).
+// 8. New Indian Express — "BJP-JSP contesting unwinnable seats in Kadapa district?" (Apr 2024): seat analysis — pre-election commentary, REJECT.
+// 9. ysrcongress.com — "YSRCP's Impactful Welfare Measures" (Jan 2024): party bus yatra me MLA ki maujoodgi; "Rs 1,268 crore DBT" ka dawa — party outlet (whitelist me nahi) + sirf ghoshna/daawa, REJECT.
+// 10. The Hindu op-ed — "Badvel, still a YSR Congress Party bastion" (2021): upchunav vishleshan — pre-term, REJECT.
+//
+// RETRY-LEADS (parent/live-browser ke liye):
+// A. YSRCP Assembly boycott (Feb 2025 se) khatm hone ke baad ke satron (2025-26 winter/budget 2026-27) ki coverage me Dasari Sudha ke naam se koi Vidhan-sabha prashn aaya ho to — "Vidhansabha sawaal ka dastaveji nateeja/mantri-ashwasan (credit capped)" valid category me aa sakta hai. Abhi tak koi nahi mila.
+// B. Zilla Parishad meeting interventions (jaise #2 upar) whitelisted media me aur mil sakti hain, lekin current rules me ye valid category nahi hain — sirf rule badle to retry karna.
+// C. Telugu outlets (Eenadu/Andhra Jyothy/Sakshi web, local Kadapa portals) me unki Badvel me dauron/inauguration ki khabren sambhav hain, lekin whitelist se REJECT hain — unse mining ka prayas mat karna.
+
+// reddeppagari-madhavi-reddy — 3 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Reddeppagari Madhavi Reddy, TDP, Kadapa (first-time MLA, Winner 2024; Kadapa ki pehli mahila MLA;
+// 12 Nov 2024 se TDP whip). Halafname me naam ‘Madhavi Reddappa Gari’ darj.
+// Pehchan-jaal: pati Reddeppagari Srinivasa Reddy (purv MLA, TDP Politburo) ke purane kaam/mamle inpar NAHI;
+// bhatija Y. S. Avinash Reddy (Kadapa MP) ke vivekananda-reddy mamle bhi inpar NAHI — sirf Kadapa seat-level
+// Jun 2024+ works. Teenon entries The Hindu ki post-event reporting se verified (badge: news).
+andhraWorks['reddeppagari-madhavi-reddy'] = [
+  {
+    title: 'Kadapa MLA Reddeppagari Madhavi Reddy ne NCAP fund ke tahat Rs 1.13 crore ki lagat se shahar me traffic-signal system lagane ka shilanyas kiya aur KMC commissioner ko kaam jald poora karne ka nirdesh diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/steps-in-place-to-streamline-city-traffic-says-kadapa-mla/article70236073.ece',
+    date: '2025-11-03',
+    note: 'The Hindu (3 Nov 2025) ke mutabik, Kadapa MLA aur sarkari whip Reddeppagari Madhavi Reddy ne National Clean Air Programme (NCAP) fund se Rs 1.13 crore ki lagat par Kadapa shahar me traffic signals lagane ka shilanyas kiya; unhone kaha ki ye signals badhti zarooraton ke hisab se traffic niyaman me zaroori hain aur sadkon ko surakshit banane ke sarkari lakshya me sahayak honge. Unhone Kadapa Municipal Corporation (KMC) ke Commissioner Manoj Reddy ko pariyojna me tezi lane aur signals jald chalu karne ka nirdesh diya. INFERRED DATE: report me ‘on Monday’ likha hai aur prakashan-tithi 3 Nov 2025 (Monday) hai — isliye event-tithi 3 Nov 2025 maani gayi. Fund disclosed: NCAP, Rs 1.13 crore. TOI ne bhi isi ghatna ki reporting ki thi (duplicate source, alag entry nahi).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kadapa shahar ki 44vi aur 46vi divisions me drainage karyon ka shilanyas karke MLA Madhavi Reddy ne KMC engineering staff ko gunvatta aur tay samay-seema par kaam poora karne ka nirdesh diya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/ttd-allocates-6-crore-srivani-funds-to-develop-kadapa-sivalayam/article71166417.ece',
+    date: '2026-06-30',
+    note: 'The Hindu (30 Jun 2026) ke mutabik, sarkari whip aur sthaniya MLA Reddeppagari Madhavi Reddy ne ground-breaking samaroh me bhag lekar Kadapa shahar ki 44vi aur 46vi divisions me shuru hue drainage karyon ka shilanyas kiya; unhone civic body ke Engineering staff ko nirdesh diya ki kaam ki gunvatta sunishchit karein aur tay samay-seema me poora karein. Fund: report me lagat/nidhi ka zikr nahi — ‘ghoshit nahi’. INFERRED DATE: photo-caption me ‘on Tuesday’ aur prakashan-tithi 30 Jun 2026 (Tuesday) hai — isliye event-tithi 30 Jun 2026 maani gayi. Karyakram me TDP zonal coordinator R. Srinivasa Reddy bhi maujood the.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kadapa ke Mrutyunjayakunta Sivalayam ke punarnirman ke liye TTD se Rs 6 crore SRIVANI fund ki swikriti dilane me MLA ki bhumika; trust chairman ka Rs 25 lakh ka cheque MLA ne mandir EO ko saunpa',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/ttd-allocates-6-crore-srivani-funds-to-develop-kadapa-sivalayam/article71166417.ece',
+    date: '2026-06-30',
+    note: 'The Hindu (30 Jun 2026) ke mutabik, Tirumala Tirupati Devasthanams (TTD) ne Sri Venkateswara Alaya Nirmana (SRIVANI) Trust ke tahat Kadapa shahar ke prasiddh Mrutyunjayakunta Sivalayam ke vikas ke liye Rs 6 crore jari kiye; is prakar ke aavantan me budget ka 15% janta-yogdaan chahiye hota hai. Mandir chairman P. Nageswara Rao ne Rs 25 lakh daan me diye aur cheque sarkari whip aur sthaniya MLA Reddeppagari Madhavi Reddy ko saunpa, jinhone ise aupcharik roop se mandir ke executive officer Ravi Shankar ko hastaantarit kiya. Report me darj hai ki MLA ne apne pati aur TDP zonal coordinator R. Srinivasa Reddy ke saath milkar sambandhit pakshon se follow-up kiya aur mandir ke punarnirman ke liye TTD se fund swikrit karane me key role nibhayi. CREDIT-DISCLOSURE: follow-up sanyukt tha (MLA + pati), isliye credit sanyukt roop se seemit hai. Entry 2 ke samaan article se, alag kaam hai isliye alag entry.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (reddeppagari-madhavi-reddy)
+// R1: The Hindu 'Kadapa MLA predicts employment boost with proposed IT Park in district' (article70211694)
+//     — MLA ne IT, Electronics and Communications vibhag ko representation diya, fund manga; 10 acre zameen
+//     RIMS ke paas chinhit, APIIC ko hastantarit hone wali thi; 'Once the funds are sanctioned and the necessary
+//     infrastructure is created, IT firms can venture into Kadapa.' — REJECT (sirf maang/prastav; swikriti
+//     hui hi nahi, isliye works entry nahi ban sakti).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/kadapa-mla-predicts-employment-boost-with-proposed-it-park-in-district/article70211694.ece
+// R2: The Hindu 'Nara Lokesh opens advanced smart kitchen at Kadapa' (2 Sep 2025, article70003437) — HRD Mantri
+//     Nara Lokesh ka karyakram; 'MLAs R. Madhavi Reddy (Kadapa)... also participated' — REJECT (mantri ke
+//     karyakram me sirf maujoodgi, vyaktigat bhoomika nahi).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/nara-lokesh-opens-advanced-smart-kitchen-at-kadapa/article70003437.ece
+// R3: Chair incidents — The Hindu 'Kadapa Municipal council meet witnesses commotion' (2024), 'Fight over a chair
+//     continues at Kadapa Municipal Corporation' (20 Jun 2025), 'Chair troubles Kadapa MLA again' (15 Aug 2025) —
+//     YSRCP mayor/administration se protocol vivad; bhautik vikas kaam nahi aur MLA khilaf koi FIR/court-order nahi
+//     — REJECT as work aur as negative.
+//     URLs: article68841577.ece, article69718281.ece, article69937377.ece (thehindu.com)
+// R4: The Hindu 'TDP hopeful of a cakewalk in Kamalapuram Municipality as YSRCP stays away from contest'
+//     (article71600295, ~18 Oct 2026) — MLA mayor candidate ke sath nomination filing me maujood thi; Kamalapuram
+//     seat ke bahar aur chunav-raajneeti, vikas kaam nahi — REJECT (dusre neta + seat ke bahar).
+// R5: The Hindu 'Kadapa MLA criticises Jagan for seeking Leader of Opposition status' (26 Jun 2024,
+//     article68336638) — sirf press-bayan/raajneetik tippani — REJECT (bayan, kaam nahi).
+// R6: The Hindu 'TDP candidate Madhavi Reddy files nomination... releases mini manifesto' (24 Apr 2024,
+//     article68102594) — pre-term chunavi ghoshnaen ('Naa Bharosa' vade: civic infra, drinking water, ganja, land
+//     retrieval) — REJECT (pre-event ghoshna-report, source NAHI; aur Jun 2024 se pehle ka).
+// R7: ED searches / Vivekananda Reddy murder case (Aug 2025, IANS reposts on non-whitelist sites like thefreedompress,
+//     newsgram, punjabkesari) — Kadapa MP Y. S. Avinash Reddy (bhatija) aur unke pita Bhaskar Reddy par aarop; MLA
+//     khud kahi aaropi nahi — REJECT AS NEGATIVE (pehchan-jaal: parivar ke mamle; established-media whitelist bhi
+//     fail hone wale repost-sites).
+// R8: Halafname ke 4 pending criminal cases (foundation record) — Jun 2024+ me koi FIR/chargesheet/jaanch/adalt-ka-
+//     aadesh established media me nahi mila — REJECT AS NEGATIVE (halafnama-akele pending mamle negative NAHI).
+// R9: YouTube items (TV5 News mayor-election remarks, Zee Telugu 'Mayor Dispute', Sakshi TV 'YSRCP women leaders'
+//     comments) — whitelist me NAHI (YouTube) + sirf bayan/raajneeti — REJECT.
+// R10: TOI 'TDP MLA lays stone for traffic signals in Kadapa' (articleshow/125064613.cms) — entry 1 ke samaan
+//      ghatna ki duplicate reporting — nayi entry nahi, note me ullekh ho gaya.
+// R11: epaper.truepointnews/epaper.indianchronicledaily — e-paper PDFs (Sep 2026) me 'MLA Madhavi visited various
+//      Vinayaka idols' aur Zonal Coordinator R. Srinivasa Reddy ke PMDS karyakram — idol-visit sirf dharmik
+//      daura/CSR-type maujoodgi; pati ka karyakram pati ka — REJECT (sirf daura/maujoodgi, non-whitelist portal).
+//
+// RETRY-LEADS (parent ke liye):
+// T1: Telugu media (Eenadu/Andhra Jyothy/Sakshi web) me MLA ke shilanyas/inauguration ki aur khabrein ho sakti hain,
+//     lekin whitelist se bahar — live-browser ya whitelist-extension ke bina istemaal nahi ho sakti.
+// T2: aplegislature.org (AP Assembly proceedings — sarkari portal) me MLA ke sawal/mantri-ashwasan mil sakte hain;
+//     live-browser ya direct fetch se verify karna hoga.
+// T3: IT Park (R1) ki future sanction/shilanyas ki whitelisted post-event reporting aaye to Rojgar category me
+//     entry banegi — 'once funds are sanctioned' abhi nahi hua.
+
+// ys-jagan-mohan-reddy — 0 works + 3 negatives (mined 2026-10-19)
+// Pehchan pakki: Pulivendula (Kadapa/YSR jila), YSRCP, Winner 2024 (ex-CM, Jun 2019–Jun 2024).
+// Karyakaal: 16th AP Vidhan Sabha, Jun 2024+ (2024-2029).
+// Sakht niyam (purva CM): sirf Pulivendula seat ke bhautik kaam; party ke rajya abhiyan,
+// Vidhansabha bahishkar/virodh — sab REJECT. Opposition MLA ke roop me Jun 2024+ me
+// Pulivendula seat me unke vyaktigat lokarpan/shilanyas ki whitelisted reporting NAHI mili
+// (Nov 2023 ke Rs 64.54 crore aur 11 Mar 2024 ke Rs 861.84 crore Pulivendula projects pre-term hain).
+// Negatives: Jun 2024+ ki 2 nayi FIRen (MCC violation; culpable homicide) + DA case me
+// post-June-2024 adalati vikas (CBI court ki personal-appearance directive, 20 Nov 2025)
+// — raahat (SC dwara bail-cancellation/transfer plea kharij, 27 Jan 2025) barabar ki pramukhta se.
+
+andhraWorks['ys-jagan-mohan-reddy'] = [
+  {
+    title: 'Model Code of Conduct violation: 19 February 2025 ko Guntur ke Asia ke sabse bade mirchi yard me bina anumati pravesh par Guntur police ne Y. S. Jagan Mohan Reddy aur anya YSRCP netaon ke khilaaf Nallapadu police station me FIR darj ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/ys-jagan-mohan-reddy-booked-for-poll-code-violation/article69241465.ece/amp/',
+    date: '2025-02-20',
+    note: 'The Hindu (20 Feb 2025) ke mutabik police ne 20 February ko FIR darj ki — us din se pehle Wednesday (19 Feb) ko Jagan Mohan Reddy ne Guntur mirchi yard ka daura kiya tha, jab Guntur-Krishna districts Graduate Elections ka aachar sanhita laagu tha. FIR Nallapadu Police Station me BNS sections 223, 189(2), 329(4), 292, 126(2), 195(1) r/w 190 aur Sec 125 RP Act ke tahat, Flying Squad Team (headed by Ch. Srinivasa Rao, Deputy Commissioner-II, G.M.C., Guntur) ki shikayat par darj hui. Aarop: Jagan Mohan Reddy (ex-CM), Thulasi Raghuram (MLC), Lella Appi Reddy (MLC), Kodali Venkateswara Rao alias Nani (ex-minister), Ambati Rambabu (ex-minister), Pinnelli Ramakrishna Reddy (ex-MLA), Kavati Siva Naga Manohar Naidu (GMC Mayor), Modugula Venugopal Reddy (ex-MP), Perni Venkataramaiah alias Nani (ex-minister) aur anyon ne samuh banakar District Collector aur returning officer ki poorv anumati ke bina mirchi yard me pravesh kiya — MCC, Police Act 30 aur Agricultural Market Committee secretary ki anumati ka ullanghan; kisaano aur janata ko asuvidha aur sadak par traffic jam. Pehchan: The Hindu story me —Former Andhra Pradesh Chief Minister and YSRCP president Y.S. Jagan Mohan Reddy—; foundation record ke mutabik Pulivendula (YSRCP) ke 2024-winner MLA — pehchan seat se pakki. Stage: FIR registered (chargesheet ya aage ke vikas ki whitelisted reporting nahi mili). Jawaab: whitelisted reporting me MLA/YSRCP paksh ka ullekh nahi mila — anupasthiti disclosed hai.',
+    period: '2024-2029',
+  },
+  {
+    title: '18 June 2025 ko Guntur jile me rally ke dauran party worker Cheeli Singaiah ki maut par Guntur police ne 22 June ko Y. S. Jagan Mohan Reddy aur unke driver sahit 6 logon ko culpable homicide (BNS 105, 49) ke case me aaropi banaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Jun/23/former-andhra-pradesh-cm-jagan-booked-for-culpable-homicide-in-rally-death-case',
+    date: '2025-06-23',
+    note: 'The New Indian Express (published 2025-06-23) ke mutabik ghatna 18 June ko Etukuru bypass (Guntur jila) ke paas hui — Tadepalli se Rentapalla tak political rally ke dauran party worker Cheeli Singaiah Jagan ki kali SUV ke neeche aa gaye. Police ke mutabik Singaiah phool phenkne ke liye vahan ke paas aane ki koshish me bheed me phisle aur aage ke pahiye ke neeche gir gaye; vahan thoda ruka phir aage badh gaya. ASI Rajashekhar unhe hospital le gaye, jahan unhe brought dead ghoshit kiya gaya. Case shuru me victim ki patni Cheeli Lurdhu Mary ki shikayat par BNS section 106(1) (causing death by negligence) me darj hua tha; CCTV footage, drone visuals aur gawahon ke bayanon ke analysis ke baad police ne confirm kiya ki mishap me seedha Jagan ko le jaane wala vahan shamil tha — sections BNS 105 (culpable homicide not amounting to murder) aur 49 (act endangering human life or personal safety of others) me badle gaye. Aaropi: Jagan Mohan Reddy, driver Ramana Reddy (custody me liye jaane ka dawa), PA K. Nageshwar Reddy, former MP Y. V. Subba Reddy, former ministers Perni Venkateswara Rao (Nani) aur Vidadala Rajini — sab vahan me maujood bataye gaye. Police ke mutabik rally ke liye 14 vahan ki anumati thi, lekin 50 se zyada vahan jud gaye; crowd management (circular ropes) ka palan nahi hua. Pehchan: story me —former Chief Minister YS Jagan Mohan Reddy—; foundation record ke mutabik Pulivendula (YSRCP) ke 2024-winner MLA — pehchan seat se pakki. Stage: FIR darj aur sections upgrade (chargesheet/giraftari/adalati vikas ki whitelisted reporting nahi mili). Jawaab: whitelisted reporting me MLA/YSRCP paksh ka ullekh nahi mila — anupasthiti disclosed hai. Nuance: headline me umr 55 saal likhi hai, jabki anya outlets me 65 — umr entry me nahi likhi gayi hai (conflict se bachne ke liye).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Disproportionate assets case me CBI special court (Nampally, Hyderabad) ki directive par Y. S. Jagan Mohan Reddy 20 November 2025 ko adalat me swayam upasthit hue — exemption plea wapas (CBI ne virodh kiya tha); agla hearing 28 November, unki discharge petition pending',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Hyderabad/former-cm-jagan-mohan-appears-before-cbi-special-court-in-hyderabad-in-long-pending-da-case/article70302220.ece/amp/',
+    date: '2025-11-20',
+    note: 'The Hindu (20 Nov 2025) ke mutabik Hyderabad ke Nampally CBI special court ne nirdesh diya tha ki Jagan Mohan Reddy long-pending disproportionate assets (DA) case ki sunvai me swayam upasthit hon — ye uske baad aaya jab Reddy ne personal appearance se exemption ki plea wapas li (CBI ne is plea ka virodh kiya tha). 20 November ko woh Begumpet airport se seedha Nampally court gaye aur court ki directive ka palan kiya; court ne agla hearing 28 November ko nirdharit kiya aur unki discharge petition abhi pending hai. DA case: ek dashak se zyada purana; pita Y. S. Rajasekhara Reddy ke Andhra Pradesh CM karyakaal ke dauran sarkari ehsaanon ke badle Reddy ki companies me quid pro quo nivesh ka aarop. Pehchan: story me —Former Chief Minister of Andhra Pradesh, Y.S. Jagan Mohan Reddy—; foundation record ke mutabik Pulivendula (YSRCP) ke 2024-winner MLA — pehchan seat se pakki. RAAHAT (barabar ki pramukhta se): Hindustan Times (28 Jan 2025, updated) ke mutabik Supreme Court ne 27 Jan 2025 ko TDP neta aur AP Assembly Deputy Speaker K. Raghu Rama Krishna Raju ki do pleas kharij kar di — (1) Hyderabad CBI special court dwara September 2013 me di gayi bail cancel karne ki yachika (court: is par alag sunvai ki zaroorat nahi; Telangana HC process monitor kar raha hai aur day-to-day hearing ka nirdesh diya hai), (2) Hyderabad se cases kisi doosre rajya me transfer karne ki yachika (court: transfer ki zaroorat nahi; Telangana HC ki supervision me trial court hi mamla dekhega). Bench ne trial court ko day-to-day hearing ka nirdesh diya. Matlab: bail jaari hai; cases Hyderabad me hi chalenge. Stage: trial pending; bail kayam; discharge petitions par sunvai jaari (ED ke mutabik 141 discharge applications pending — Oct 2026, ThePrint, non-whitelisted isliye sirf retry-lead).',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (ys-jagan-mohan-reddy, mined 2026-10-19)
+// POSITIVES:
+// 1. Deccan Chronicle — "Jagan Inaugurates Projects, Launches New Ones in Kadapa" (Nov 2023): Pulivendula me Rs 64.54 crore projects ka lokarpan/shilanyas (Sri Krishna temple Bhakarapuram, APCARL agriculture/horticulture colleges, Central Testing Laboratory, Shilparamam facelift, Sri Swamy Narayana Gurukula school foundation) — pre-term (CM ke roop me, Jun 2024 se pehle) — REJECT.
+// 2. The Hindu / New Indian Express — 11 Mar 2024: Pulivendula me Rs 861.84 crore projects ka lokarpan (YSR Government Medical College + GGH Rs 500 crore NABARD RIDF-37, Banana Integrated Pack House Rs 20.15 crore, YSR mini-secretariat Rs 38.15 crore, YSR Junction, lakefront, Aditya Birla textiles unit, YSR Memorial Park Rs 39.13 crore) — pre-term (CM ke roop me) — REJECT.
+// 3. kadapa.info timeline — "6 Mar 2024: Veligonda twin tunnels inaugurated" — pre-term + non-whitelist source — REJECT.
+// 4. Vidhansabha bahishkar/virodh (2024-25 me kai stories): party rajya abhiyan — REJECT (seat ka bhautik kaam nahi).
+// 5. Pulivendula daure (YSR jayanti aadi): sirf nirikshan/daura — REJECT.
+// 6. Party ke rajya-vyapi abhiyan/shubharambh: REJECT.
+// NEGATIVES:
+// 7. [REJECT pre-term-chargesheets] CBI ki 11 chargesheets + ED ke 9 prosecution complaints — sab Jun 2024 se pehle; purane mamle sirf post-June-2024 adalati vikas par entry bante hain — isliye standalone entry NAHI; 20 Nov 2025 appearance-directive wali entry me background ke roop me covered hai.
+// 8. [REJECT] Liquor scam (2024-25): Jagan aaropi column me NAHI (Midun Reddy aadi) — REJECT.
+// 9. [REJECT election-petition] Chunav-yachika akele negative nahi — task rule.
+// 10. [REJECT] Gawah-notice/afsos: nahi mila — koi entry nahi.
+// 11. [REJECT aggregator] moneycontrol/TNM/millenniumpost/theweek/cnbctv18 ki culpable-homicide story — whitelist me nahi; NIE version use kiya.
+// 12. [REJECT] ThePrint (Aug 2024 + Oct 2026) — "11 CBI chargesheets & 9 ED complaints, but no trial" / "141 pending discharge pleas stalling trial, ED to HC" — ThePrint whitelist me nahi — facts entries me nahi liye; Oct 2026 writ petition retry-lead hai.
+//
+// RETRY-LEADS (parent/live-browser ke liye):
+// A. Culpable-homicide FIR (18 Jun 2025 ghatna): chargesheet filing ya adalati vikas ki whitelisted reporting nahi mili — live browser se follow-up check karo.
+// B. MCC-violation FIR (20 Feb 2025): aage ke vikas (chargesheet/trial) ki whitelisted reporting nahi mili — follow-up check karo.
+// C. ED ka Telangana HC me writ petition (23 Sep 2025, "141 discharge pleas stalling trial") — ThePrint (non-whitelist); court ke aadesh ki whitelisted reporting aaye to DA-case entry ka stage update ho sakta hai.
+// D. Telugu outlets (Eenadu/Andhra Jyothy/Sakshi web) whitelist se REJECT hain — unse mining ka koi prayas mat karna.
+
+// putha-krishna-chaitanya-reddy — 1 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Putha Krishna Chaitanya Reddy, Kamalapuram (YSR Kadapa jila), Telugu Desam Party (TDP), first-time MLA. Winner 2024 — 95,207 vote; runner-up Pochimareddy Ravindranath Reddy (YSRCP) ko 25,357 maton se haraya. S/o Putha Narasimha Reddy (TDP State Vice President; Kamalapuram se 2009–2019 TDP ticket par 3 baar chunaav haare). M.Sc. Information and Technology (2005), Middlesex University, England. Karyakaal: 16th AP Vidhan Sabha, 2024–2029.
+// Kopparthy in-seat corroboration: The Hindu (28 Oct 2025) ne '20 acres has been earmarked in Kopparthi of Kamalapuram Constituency' likha — isliye Kopparthy MSME park entry isi seat ke liye li gayi. Party-flag: koi badlav nahi — sabhi 2025–26 ke srot MLA ko TDP se jodte hain.
+// Negatives: halafname/affidavit me 3 cases (Indian Express candidate data 2024) — lekin Jun 2024 ke baad kisi bhi case me FIR/chargesheet/girafrari/jamanat/adalati aadesh ka established-media pramaan nahi mila, isliye affidavit-akela negative NAHI bana. Retry-lead: purane 3 cases me Jun 2024+ nyayik vikas (chargesheet/jamanat/adesh) ka whitelisted-media pramaan mile to stage-accurate negative banegi.
+// REJECT-LOG (putha-krishna-chaitanya-reddy):
+// 1. Deccan Chronicle — 'VB-G RAM G Scheme Rolled Out Across Rayalaseema' (2 Jul 2026): Kadapa jile me Tippireddipalle gaon (Pendlimarri mandal, Kamalapuram kshetra) me scheme ka launch; District Collector aur Kamalapuram MLA ne karyakram me hissa liya, workers se baat ki. REJECT (sarkari abhiyan ke shubharambh me sirf maujoodgi; yojana kendriya sarkar ki; MLA ki koi vyaktigat bhoomika disclosed nahi). URL: https://www.deccanchronicle.com/southern-states/andhra-pradesh/vb-g-ram-g-scheme-rolled-out-across-rayalaseema-1967876
+// 2. New Indian Express — 'Veera Siva Reddy to join BJP in February' (27 Jan 2026): purv Kamalapuram MLA G Veera Siva Reddy ne press meet me P Narasimha Reddy aur sitting MLA P Krishna Chaitanya Reddy par constituency me sand/soil/gravel ki 'large-scale illegal transport' ka aarop lagaya. REJECT as negative (sirf press-meet aarop; koi FIR/chargesheet/adaltai aadesh ka ullekh nahi; 'aarop' akele negative criteria fail karta hai). URL: https://www.newindianexpress.com/states/andhra-pradesh/2026/Jan/27/veera-siva-reddy-to-join-bjp-in-february
+// 3. Times of India — 'Andhra Pradesh high court grants interim protection to Chaitanya Reddy': ye Devireddy Chaitanya Reddy hain (doctor, son of Siva Shankar Reddy; Y S Vivekananda Reddy murder-case approver Sheik Dastagiri ki complaint me accused) — Kamalapuram MLA Putha Krishna Chaitanya Reddy se PEHCHAN MISMATCH (naam-confusion). REJECT as negative. URL: https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-high-court-grants-interim-protection-to-chaitanya-reddy/articleshow/118364784.cms
+// 4. Times of India — ZPTC polls scuffles, Kadapa: Kadapa MP Y S Avinash Reddy ne aarop lagaya ki Kamalapuram TDP MLA Putha Chaitanya Reddy, C Bhupesh Reddy aur Jammalamadugu BJP MLA ne Pulivendula me 'rigging' ke liye TDP activists laaye. REJECT as negative (political rival ka chunaav-aarop; MLA ke khilaf koi FIR/chargesheet/case ka ullekh nahi; party-political row). URL: https://timesofindia.indiatimes.com/city/amaravati/minus-sporadic-scuffles-zptc-polls-end-peacefully-in-kadapa-district-ysrcp-demands-re-election-at-pulivendula/articleshow/123262662.cms
+// 5. New Indian Express — 'Mahanadu in Kadapa strategic for TDP' (19 May 2025): Kamalapuram MLA Putta Chaitanya Reddy (TDP Politburo member R Srinivasulu Reddy ke saath) TDP ke Mahanadu 2025 (Kadapa) ki logistics aur site management dekh rahe the; Mahanadu site (Pabbapuram, Chintakommadinne mandal) par taiyaari-kaam ka shubharambh. REJECT (party ka state-level event; seat ka bhautik sarkari sanrachna-kaam nahi). URL: https://www.newindianexpress.com/states/andhra-pradesh/2025/May/19/mahanadu-in-kadapa-strategic-for-tdp
+// 6. The Hindu — 'TDP hopeful of a cakewalk in Kamalapuram Municipality as YSRCP stays away from contest' (18 Oct 2026): ULB nomination ka political news; MLA ka quote bhi hai, lekin koi vikas-kaam nahi. REJECT. URL: https://www.thehindu.com/news/national/andhra-pradesh/tdp-hopeful-of-a-cakewalk-in-kamalapuram-municipality-as-ysrcp-stays-away-from-contest/article71600295.ece
+// 7. The Hindu — 'Kadapa MLA predicts employment boost with proposed IT Park in district' (28 Oct 2025): Kadapa MLA Reddeppagari Madhavi Reddy ka bayan; Kopparthi MSME site ka ullekh hai lekin Kamalapuram MLA ki koi bhoomika nahi. REJECT as work (sirf in-seat corroboration ke liye istemal). URL: https://www.thehindu.com/news/national/andhra-pradesh/kadapa-mla-predicts-employment-boost-with-proposed-it-park-in-district/article70211694.ece/amp/
+
+andhraWorks['putha-krishna-chaitanya-reddy'] = [
+  {
+    title: 'Kopparthy (Kamalapuram kshetra) me Rs 202 crore ke MSME park ka sthan barkarar raha — shift ke vivaad me MLA Putta Chaitanya Reddy aur TDP jila adhyaksh ke hastakshep se hal nikla; 19.54 acre zameen MSME Corporation ke naam darj hui',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/Jun/13/msme-park-to-remain-in-kopparthy-2',
+    date: '2025-06-13',
+    note: 'The New Indian Express ki post-event report (13 Jun 2025) ke mutabik Kadapa jile ke Kopparthy me proposed MSME park apne mool sthan par hi rahega, jisse mahino se chali political speculation ka ant ho gaya. 10 June ko APIIC ke zariye 19.54 acre zameen MSME Corporation ke naam officially register hui — report ne ise key administrative milestone bataya. Pariyojna ka anumaanit kharch Rs 202 crore hai; Rs 50 crore ke infrastructure development works se shuruaat hogi. Park skill aur industrial hub ke roop me design kiya gaya hai jo Rayalaseema ke engineering graduates ko technical training, modern equipment aur business opportunities dega. Rajdhani kshetra me park shift karne ki khabron par YSRCP, Congress, RCP aur student groups ne virodh kiya tha; report ke mutabik Kamalapuram MLA Putta Chaitanya Reddy aur TDP jila adhyaksh R Srinivasulu Reddy ke hastakshep se masla suljha. CM N Chandrababu Naidu ne apni recent visit me sarkar ki commitment dohrayi; groundwork jald shuru hone ki ummeed batayi gayi. Credit capped: ye APIIC/MSME Corporation ki sarkari pariyojna hai; MLA ki bhoomika jila adhyaksh ke saath sanyukt hastakshep tak hi disclosed hai, aur antim faisle me CM ki commitment ka bhi credit hai — MLA ki akele credit ka dawa report me nahi hai.',
+    period: '2024-2029',
+  },
+];
+
+// ch-adinarayana-reddy — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Ch. Adinarayana Reddy (halafname me naam ‘Adinarayana Reddy Chadipirala’), BJP,
+// Jammalamadugu (YSR Kadapa), 16th AP VS 2024-2029; Government whip bhi (The Hindu, multiple reports).
+// S/o C. Subbarami Reddy; purv cabinet mantri (2017-19, TDP karyakaal); Congress 2004/2009,
+// YSRCP 2014, TDP 2016-19, BJP 2019 se (HT 2019; TOI 2019 — dono purane). Halafname me 4 mamle
+// (IPC 307/324/506 sahit) — Jun 2024+ me inka koi nyayik vikas established media me nahi mila.
+// Party-flag: koi NAYA dal-badlav nahi — sabhi 2024-2026 reports BJP MLA/wip ke roop me darj.
+// REJECT-LOG (sabhi whitelisted established media se kholkar verify kiye gaye):
+// (1) The Hindu (24 Apr 2025): Indian Army ko financial assistance — DAAN shreni, reject.
+// (2) The Hindu (20 Jan 2026): S. Uppalapadu (Jammalamadugu) me Chief Secretary ne suvidhaon ka
+//     lokarpan kiya; MLA sirf maujood — CSR-funded sanrachna (Solar Power Corp, AP Transco CSR)
+//     me sirf maujoodgi, reject; inhi kaamon ka vyaktigat lokarpan/shilanyas nahi.
+// (3) The Hindu (6 Nov 2024): DRC meeting me Kondapuram ambulance revival ki maang — sirf maang, reject.
+// (4) The Hindu (7 Apr 2026): MLA ne khud mana ki Gandikota visthapiton ka muavza/naukri, Rajoli/SRBC
+//     visthapit, RTPP me sthaniyon ko kaam — vaade pure nahi hue; isteefa tak ki baat — ye unka apna
+//     bayaan hai, koi work/negative spec nahi (koi FIR/adalat vikas nahi).
+// (5) The Hindu (20 Nov 2024): Adani pumped-storage camp office (Ragikunta, Jammalamadugu) par
+//     MLA ke ‘close followers’ Sivanarayana Reddy aur Rajesh Reddy ne hamla kiya; FIR plant in-charge
+//     ki shikayat par Talla Proddatur PS me darj — MLA KHUD aaropi column me nahi; YS Avinash Reddy ne
+//     386 ki maang ki. Spec ‘MLA khud aaropi’ fail — negative reject.
+// (6) Deccan Chronicle (~Apr 2025): ‘Bickering Among Leaders in Kadapa Over Cement Factory Deals’ —
+//     transport/sub-contract deals ke ‘allegations’ aur UltraTech prabandhan ko ‘reportedly threatened’
+//     ki reporting; lekin police case S Jagadeeswar Reddy + 10 others par darj, MLA par NAHI; MLA ka
+//     jawab bhi chhapa hai. FIR-aaropi column me naam nahi — negative reject.
+// (7) New Indian Express (30 May 2025): Gandikota tourism hub — kendriya mantri Pemmasani Chandra
+//     Sekhar ne Union Tourism Ministry se Rs 78 crore ki swikriti ka ailaan kiya; MLA sirf sang tha —
+//     dusre neta ke karyakram me maujoodgi + kendriya pariyojna bina vyaktigat bhoomika, reject.
+// (8) The Hindu (4 Nov 2025): MLA + Collector ka Gandikota visthapiton ke R&R Colony ka daura —
+//     sirf nirikshan/daura, koi nateeja/swikriti nahi, reject.
+// RETRY-LEAD: The Hindu (10 Feb 2026) ‘BJP distances itself from MLA Adinarayana Reddy’s remarks’
+// (article70615353.ece) — kholne par 403 aaya, isliye source NAHI bana; lekin shirshak se lagta hai
+// party-action/bayaan vivad — spec me waise bhi ‘party karyawahi akele = reject’ hai.
+// Note: purane party-badlav (2018/2019 ka Congress/TDP → BJP) karyakaal ke bahar ke hain — naye ke liye koi flag nahi.
+andhraWorks['ch-adinarayana-reddy'] = [];
+
+// nandyala-varadarajula-reddy — 1 work + 0 negatives (mined 2026-10-19)
+// Pehchan: Nandyala Varadarajula Reddy (media me 'Varadarajulu Reddy' / 'Nandyala Varada Rajulu Reddy' bhi),
+// TDP, Proddatur (YSR Kadapa), 16th AP VS 2024-2029 (andhra.ts record; 82 saal, 2024 me sabse umradaar ummidwar,
+// 6-time MLA: 1985, 1989, 1994, 1999, 2004, 2024; halafnama me 6 criminal cases). Purv mantri.
+// PEHCHAN-JAAL: 'Nandyala' naam ka hissa hai, Nandyal seat (MLA N. M. D. Farooq) se koi sambandh nahi —
+// Nandyal ki khabren is MLA ki nahi. Rachamallu Siva Prasad Reddy (YSRCP, purv Proddatur MLA, 2024 me
+// runner-up) alag vyakti hain — unki khabren bahar rakhi gayi hain. Court judgment-sites par 1980s-90s ke
+// 'Varadarajulu Reddy, Proddatur MLA' wale mamle unhi ke hain (purv karyakaal), lekin Jun 2024+ vikas nahi.
+// Fund note: AP CDP allocation officially unverified — allocated: null in andhra.ts record.
+// Mining: The Hindu (2 kholi-gayi post-event reports), Deccan Chronicle (1), search-snippets via whitelist
+// outlets. Roman-script Hinglish; currency 'Rs'; single-quote style; period '2024-2029'.
+// REJECT-LOG: file ke ant me.
+andhraWorks['nandyala-varadarajula-reddy'] = [
+  {
+    title: 'Proddatur Municipality ke petrol station par solar-powered facility ka lokarpan',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/mla-varadarajulu-promises-several-development-projects-for-proddatur/article69649597.ece',
+    date: '2025-06-02',
+    note: 'The Hindu ki post-event report (3 Jun 2025; event ke liye ‘On Monday’ likha hai, 3 Jun 2025 Mangalwar tha isliye event Somwar 2 Jun 2025 ko hua — inferred date) ke mutabik MLA ne Municipal Commissioner M. Mallikarjuna ki maujoodgi me Proddatur Municipality dwara sanchalit petrol station par solar-powered facility launch ki, aur fossil fuel par nirbharta ghatane par jor diya. Facility ki lagat / fund-source report me nirdisht nahi — ghoshit nahi. Report ke shirshak me ‘promises several development projects’ hai, lekin entry sirf vaastavik lokarpan tak seemit hai (ghoshnaon par nahi). Usi avsar par Gopavaram mandal me Rs 27 lakh drainage works ka lokarpan bhi darj tha, jo seat ke bahar hone se entry nahi bana (REJECT-LOG R1 dekho).',
+    period: '2024-2029',
+  },
+];
+
+/*
+REJECT-LOG (nandyala-varadarajula-reddy):
+1. The Hindu (3 Jun 2025, wahi article) — Housing Board Colony, Gopavaram mandal me Rs 27 lakh ke
+   drainage improvement works ka lokarpan. REJECT: Gopavaram mandal Proddatur ka hissa NAHI hai — wo
+   Badvel Assembly constituency (MLA Dasari Sudha, YSRCP) me hai; Proddatur me sirf Proddatur aur
+   Rajupalem mandal hain. Seat ke bahar kaam.
+   URL: https://www.thehindu.com/news/national/andhra-pradesh/mla-varadarajulu-promises-several-development-projects-for-proddatur/article69649597.ece
+2. The Hindu (19 Jun 2025) — 'Proddatur MLA warns of action on hospital staff' — Government General
+   Hospital ka surprise visit, wards me ghumna, staff ko chetavni. REJECT: sirf nirikshan/daura; koi
+   lokarpan/shilanyas/swikriti nahi.
+   URL: https://www.thehindu.com/news/national/andhra-pradesh/proddatur-mla-nandyala-varadarajulu-reddy-warns-of-action-on-hospital-staff-if-patients-felt-inconvenienced/article69712483.ece
+3. Deccan Chronicle (25 Feb 2026) — 'MLAs Raise During Zero Hour' — Assembly Zero Hour me MLA ne PDS
+   ration-rice misuse ka mudda uthaya. REJECT: sirf Vidhansabha me mudda uthana; koi dastaveji
+   nateeja/mantri-ashwasan darj nahi (credit-capped entry ka aadhaar nahi).
+   URL: https://www.deccanchronicle.com/amp/southern-states/andhra-pradesh/mlas-raise-during-zero-hour-in-assembly-employment-pds-and-development-issues-1939909
+4. courtkutchehry.com — 'N. Varado Rajula Reddy Vs Govt. of A.P.' (G.O.Rt. No. 1372, 22-11-1991,
+   Panchayat Raj engineering office Proddatur-Jammalamadugu shifting) — 1990s ka mamla; Jun 2024+ me
+   koi nyayik vikas nahi. REJECT as negative (pre-term; sirf purani yachika).
+   URL: https://www.courtkutchehry.com/judgements/714810/n-varado-rajula-reddy-vs-govt-of-ap-and-others/
+5. myneta.info — halafname me 6 criminal cases (IPC 384/354/171C/171H sahit, andhra.ts background me darj).
+   REJECT as negative: affidavit akele negative NAHI; Jun 2024+ me MLA ke khilaf koi FIR/chargesheet/
+   janch/adalt-aadesh established media me nahi mila.
+6. TOI (nomination filing, Mar 2024) + Deccan Chronicle ('TD veteran Varadarajulu faces tough battle in
+   Proddatur', 16 Mar 2024) + The Hindu ('Scribes take out protest rallies', 9 Mar 2008) — sab pre-term
+   ya pre-poll rajnaitik khabren; kaam ya negative nahi.
+7. PM Modi Kurnool Rs 13,430 crore projects event (16 Oct 2025, ibgnews/PTI) — kendriya pariyojnaen;
+   MLA ki vyaktigat bhoomika darj nahi. REJECT (kendriya pariyojna bina vyaktigat bhoomika).
+8. Nandyal-seat (N. M. D. Farooq) aur Rachamallu Siva Prasad Reddy (YSRCP) ki khabren — pehchan alag,
+   is fragment se bahar.
+
+NEGATIVES (0): halafname ke 6 pending mamle Jun 2024+ me stage-accurate vikas ke bina negative nahi;
+'Varadarajulu Reddy Proddatur FIR/case/court 2024/2025' searches me unse juda koi mamla established
+media me nahi mila (sirf 1980s-90s ke purane court references aur naam ke dusre log).
+
+RETRY-LEADS:
+- aplegislature.org (AP Assembly proceedings — sarkari portal) me MLA ke Vidhansabha sawal /
+  mantri-ashwasan mil sakte hain; live-browser ya direct fetch se verify karna hoga. (Zero Hour PDS
+  mudde par koi follow-up mantri-jawab whitelisted outlet me nahi mila.)
+- Telugu media (Eenadu/Andhra Jyothy/Sakshi web) — whitelist-bahar, isliye istemaal nahi; wahan MLA ki
+  seat-level coverage adhik ho sakti hai lekin task-niyam se bahar.
+- The Hans India site-search par 'Proddatur MLA' — 2025-2026 me koi relevant report search results me
+  nahi mili; direct site search se retry low-yield sambhavna.
+*/
+
+// putta-sudhakar-yadav — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Putta Sudhakar Yadav, Mydukur (YSR Kadapa jila), TDP, Winner 2024 —
+// 96,181 vote; runner-up Settipalli Raghurami Reddy (YSRCP, 75,231) ko 20,950 maton se haraya.
+// S/o Late Subbaiah Putta, age 60, pesha business/politician, 4 mamle — unme IPC 307/324 (halafnama).
+// Halafname me naam 'Sudhakar Putta' darj hai. Karyakaal: 16th AP Vidhan Sabha, Jun 2024+ (2024-2029).
+// Pehchan-jaal se bacha: Satya Kumar Yadav (Dharmavaram MLA, Health Minister) alag vyakti —
+// seat (Mydukur) se pehchan pakki ki; sabhi sources me 'Mydukur MLA Putta Sudhakar Yadav' match.
+// English media me MLA ke naam par koi vyaktigat sarkari sanrachna-kaam (lokarpan/shilanyas,
+// GO-backed swikriti, itemized sanction) nahi mila — sabse kareebi story niji-kharch ki thi (REJECT-LOG #1).
+
+andhraWorks['putta-sudhakar-yadav'] = [];
+
+// REJECT-LOG (putta-sudhakar-yadav, mined 2026-10-19)
+// 1. The Hindu — '77 CCTV cameras to be installed at Mydukur' (20 Nov 2025, article70304004):
+//    Mydukur me 'Public Safety Integrated Operations Centre' ka udghatan; report ke mutabik
+//    MLA ne ise 'apne personal funds' se sponsor kiya aur Rs 20 lakh diye (SP Nachiket Shelke ne
+//    dhanyavaad diya); 77 cameras sheher bhar me lagne the. Bhautik sarkari sanrachna ka lokarpan
+//    tha, LEKIN poora fund MLA ke niji kharch ka tha — REJECT ('daan/rahat/niji kharch' niyam).
+// 2. Deccan Chronicle — 'Kidnap Allegations Part Of YSRC Conspiracy, Says MLA Putta Sudhakar Yadav'
+//    (~Sep 2026, 44 days before mining): page 403 par khula nahi (SOURCES KHOLKAR PADHO rule) —
+//    sirf snippet. Snippet ke mutabik MLA ne Bengaluru ke Dr L. Raviprakash ke apharan ke aarop ko
+//    YSRC ki sazish batakar nakara; zameen-vivad swikar kiya; nichli adalat unke paksh me faisla de
+//    chuki, uchch nyayalaya me lambit. Snippet me FIR me MLA ke aaropi hone ka koi ullekh NAHI —
+//    REJECT as negative (sirf aarop; FIR-aaropi column ki pushti nahi; waise bhi zameen-vivad).
+//    RETRY-LEAD: live browser se page kholkar verify karo (FIR hai ya nahi).
+// 3. New Indian Express — 'Mydukur TDP MLA Putta Sudhakar Yadav issues ultimatum to corrupt officials'
+//    (17 Feb 2025): bhrasht adhikariyon ko ACB shikayat ki dhamki; ration dealers ko chetavni —
+//    REJECT (sirf dhamki/maang; koi bhautik sanrachna ya dastaveji nateeja nahi).
+// 4. The Hindu — 'NDA rule ensures stable governance, development, says Minister' (18 Jun 2026):
+//    jila-level review me MLA ne 'water supply aur rural health infrastructure me sudhaar' ka dawa kiya —
+//    REJECT (sirf dawa; koi vyaktigat lokarpan/swikriti/GO ka ullekh nahi).
+// 5. The Hindu — 'Work towards realising Viksit Kadapa, says Lanka Dinakar' (19 Feb 2025):
+//    MLA sirf review meeting me attendee the — REJECT (dusre neta ke karyakram me maujoodgi).
+// 6. The Hindu — 'A.P. Minister Savitha finds most roads in Kadapa laid during 2014-19 TDP regime'
+//    (6 Nov 2024): MLA sirf District Review Committee meeting me maujood — REJECT (maujoodgi).
+// 7. Deccan Chronicle — 'Will form poverty-free society with NTR's inspiration: CM Naidu' (18 Jan 2025):
+//    CM Naidu ne Mydukur me Swarna Andhra–Swachh Andhra launch kiya; MLA ka naam sirf ullekh —
+//    REJECT (dusre neta ka karyakram).
+// 8. Times of India — 'Putta Sudhakar gained big contracts via political connections, alleges Revanth'
+//    (~2017): Revanth Reddy ke theke-wale aarop — pre-term (2017) aur sirf aarop — REJECT as negative.
+// 9. Lokmat Times / Munsif Daily / AP7AM — 'Andhra MLA loses Rs 12 lakh in online fraud' (Mar 2026):
+//    MLA (Oct 2025 me 'digital arrest' scam me) Rs 1.07 crore ka SHIKAR bana — MLA khud victim,
+//    aaropi nahi; woh Hyderabad cybercrime me shikayat karta — REJECT as negative.
+// 10. goir.ap.gov.in — G.O. (9 Jan 2019): MLA ke pratinidhan par Mydukur seat me 8 Kapu Community
+//     Halls hetu Rs 150 lakh ki swikriti — pre-term (Jan 2019; tab woh TTD Board chairman the, MLA nahi) — REJECT.
+// 11. Halafnama ke 4 cases (IPC 307/324 samet) — affidavit-mamle akele = REJECT as negative.
+// 12. ThePrint snippet — unke putra Eluru MP Putta Mahesh Kumar par drug-sevan ke aarop (TDP ne
+//     show-cause diya, MP ne nakara) — parivar ka mamla = REJECT as negative.
+// 13. DC tag-page snippet — 'Eluru MP Mahesh Kumar Yadav's Political Lineage Draws Attention' (15 Mar 2026):
+//     pita ki bio-matramatram — koi kaam nahi — REJECT.
+//
+// RETRY-LEADS (parent/live-browser ke liye):
+// A. DC amp page (kidnap-allegations...-1984687) — 403 par nahi khula; FIR-aaropi ki pushti ho to negative ban sakta hai.
+// B. Telugu outlets (Eenadu/Andhra Jyothy/Sakshi web, hansindia Telugu) whitelist se REJECT hain — unse mining ka prayas mat karna.
+
+
+// ==== Annamayya (Batch 8) ====
+// akepati-amarnath-reddy — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan pakki: Rajampet (Annamayya jila, seat no. 125), YSRCP, Winner 2024 —
+// 92,609 vote; runner-up Bala Subramanyam Sugavasi (TDP, 85,593) ko 7,016 maton se haraya.
+// S/o Akepati Lakshmi Venkata Narayana Reddy, age 64, pesha politician + agriculturist,
+// education 12th pass (Govt Junior College, Rajampet, 1979), 2024 halafname me 0 criminal cases.
+// Karyakaal: 16th AP Vidhan Sabha, Jun 2024+ (2024-2029). Vipaksh ke MLA (YSRCP ke 11 me se ek).
+// Pehchan-jaal clear: P.V. Midhun Reddy = alag vyakti (Rajampet MP, Lok Sabha);
+// N. Amarnath Reddy = alag vyakti (TDP, Palamaner seat, Chittoor jila) — inke naam se confuse mat hona.
+// GUDIVADA Amarnath (purv mantri, Vizag) bhi alag. GITAM-land wali story me bina surname wala
+// 'Amarnath' Rajampet MLA ko pakki tarah attribute NAHI ho saka — isliye us story ko use NAHI kiya.
+// Note: Wikipedia/myneta par vote-margin 7,016 hai; kuch secondary sources me alag-alag likha hai —
+// yahan 92,609 - 85,593 = 7,016 (Oneindia list) use kiya gaya hai.
+
+andhraWorks['akepati-amarnath-reddy'] = [];
+
+// REJECT-LOG (akepati-amarnath-reddy, mined 2026-10-19)
+// 1. The Hindu, 22 Feb 2026 — "YSRCP to launch agitation for resumption of RLI project from March 1"
+//    (article70663192): Annamayya jila YSRCP adhyaksh ke roop me MLA ne RLI pariyojna bahal karne ki maang ki
+//    aur 1 March se andolan ka ailaan kiya. Paywalled article; snippet me bhi sirf maang/andolan-ailaan hai.
+//    REJECT (sirf maang/prastav; abhiyan ka ailaan; koi bhautik sanrachna nahi).
+// 2. Deccan Chronicle, ~Feb 2026 — "YSRC Warns of Intensified Stir Over Rayalaseema Lift Irrigation Project"
+//    (id 1935239): Chalo Pothireddypadu public meeting me MLA vakta ke roop me bole. REJECT (party program
+//    me maujoodgi/bhashan; koi seat-level sanrachna nahi).
+// 3. The Hindu, 9 Jun 2025 — "Over 32K perform yoga to pay tribute to saint-poet Annamacharya"
+//    (article69674848): Rajampeta MLA Akeapati Amarnath Reddy ne district-level yoga camp me bhag liya
+//    (Yogandhra-2025, Tallapaka). REJECT (sarkari abhiyan me bhagidari; koi vyaktigat bhoomika nahi).
+// 4. The Hindu, 6 Nov 2024 — "A.P. Minister Savitha finds most roads in Kadapa laid during 2014-19 TDP regime"
+//    (article68833265): Kadapa DRC meeting me MLA sirf attendee the. REJECT (dusre mantri ke karyakram me maujoodgi).
+// 5. The Hans India, 17 Oct 2026 — "Tensions rise amid TDP-YSRCP showdown in AP local polls"
+//    (id 1133359): ULB chunav nomination ke dauran Rajampet me TDP karyakartaon ne kathit taur par MLA ke
+//    niwas par hamla kiya — khidkiyan, car, furniture toote. MLA yahan PEEDIT hain, aaropi NAHI.
+//    REJECT as negative (MLA khud aaropi nahi); REJECT as work (koi sanrachna-karya nahi).
+// 6. telugu360.com — "YSRCP MLA Illegal Encroachments" (~Mar 2025) aur "YSRCP Leaders' Large-Scale Land
+//    Grabbing Stories" (~May 2025): Rajampet/Mandapalle revenue villages me sarkari zameen par kabze,
+//    revenue record me hera-feri, shikayat par janch, 38 acres ki punar-prapti (Section 22-A), district
+//    collector ko dhamki ke aarop, HC me relief ki yachika — MLA ka dawa, "the court delayed the hearing".
+//    REJECT as source (telugu360 whitelist me nahi — chhote Telugu portals reject); kisi whitelisted
+//    outlet (The Hindu/IE/DC/Hans India/NDTV/India Today/TOI/HT/PTI) ne is kahani ko report NAHI kiya.
+//    Koi FIR/chargesheet/janch-adesh whitelisted media me nahi mila. RETRY-LEAD: agar koi whitelisted
+//    outlet isi story par FIR/chargesheet/nyayik vikas report kare to negative entry ban sakti hai
+//    (MLA pehchan seat se pakki hogi; jawar/anupasthiti disclose karna hoga).
+// 7. myneta.info 2014 halafnama: 2 purane mamle (IPC 143/341/188 — CC 156/12, Kadapa; 147/174A) —
+//    2012 ke virodh-andolan se jude mamle, pre-term; 2024 halafname me 0 cases. REJECT as negative
+//    (affidavit-mamle akele + pre-term).
+// 8. ysrcongress.com GITAM-land story (Jan 2026) me "Amarnath" bina surname — Rajampet MLA se pakka
+//    link nahi. REJECT (pehchan-jaal).
+// 9. The Hindu Dec 2023 Govindamala padayatra story (article67648135) aur Dec 2020 padayatra story —
+//    dono pre-term (Kadapa ZP chairman ke roop me), karyakaal Jun 2024+ se bahar. REJECT (pre-term).
+// 10. newindianexpress.com, 8 Apr 2024 — "Unkept promises for two decades..." Rajampet segment story:
+//     pre-election report, MLA ki koi bhoomika nahi, sirf background. REJECT.
+//
+// RETRY-LEADS (parent/live-browser ke liye):
+// A. telugu360 land-encroachment stories — sirf whitelisted outlet coverage milne par hi entry banegi;
+//    khud telugu360 se mining ka prayas mat karna.
+// B. PRS MLA-track page (prsindia.org/mlatrack/akepati-amarnath-reddy) par koi sawal-data uplabdh nahi
+//    ("Data not available") — sawal-dastavej wala route band.
+// C. Vidhansabha proceedings me MLA ke kisi sawal par mantri-ashwasan ki whitelisted reporting mile to
+//    credit-capped entry ban sakti hai — abhi tak aisi koi story nahi mili.
+
+// arava-sreedhar — 0 works + 1 negative (mined 2026-10-19)
+// Pehchan: Arava Sreedhar, JanaSena Party (JSP), Kodur (SC) — 2024-chunav ke samay Annamayya jila
+// (Dec 2025 jila-punargathan ke baad Tirupati jila). First-time MLA, age 27, B.Tech (RGM College, Nandyal).
+// 2024 me 78,594 vote; runner-up Koramutla Srinivasulu (YSRCP, 67,493) ko 11,101 maton se haraya.
+// 12 Nov 2024 ko Government Whip niyukt hue; aaropon ke beech May 2026 me istifa diya (2 Jun 2026 ko turant
+// prabhav se sweekar). Foundation record (andhra.ts: Kodur (SC), JSP) sab pusht — koi surgical edit nahi.
+// Works: whitelist outlets (The Hindu, HT, NDTV, NIE, DC, TOI, The Hans India) par multiple targeted searches
+// me MLA ki vyaktigat bhoomika wala koi seat-level lokarpan/shilanyas/sanction/Vidhansabha-sawaal nateeja
+// nahi mila — unki English-media coverage whip-niyukti aur Jan-Jun 2026 ke vivaad tak seemit hai.
+// Negative: established media + MLA khud aaropi (pehchan seat se pakki) + FIR darj + jawab disclosed.
+// The Hindu ka page kholkar poora padha-verified; entry ka date usi page ke event-date (2 Jun 2026) par anchored.
+// Note me SIRF cited sourceUrl page ke tathya. Negative me stage field NAHI.
+andhraWorks['arava-sreedhar'] = [
+  {
+    title: 'Railway Koduru police ne Kodur (SC) MLA Arava Sreedhar ke khilaf ek mahila sarkari karmchari ki shikayat par BNS dharaon 318(2), 318(4) aur 351(2) ke tahat dhokhadhadi aur yaun-utspeedan ka mamla darj kiya; vivaad ke beech MLA ka sarkari whip pad se istifa 2 Jun 2026 ko turant prabhav se sweekar hua',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/arava-sreedhar-resigns-as-government-whip-resignation-accepted-with-immediate-effect/article71051448.ece',
+    date: '2026-06-02',
+    note: 'The Hindu (2 Jun 2026, Vijayawada) ke mutabik, Railway Koduru MLA Arava Sreedhar ka sarkari whip pad se istifa turant prabhav se sweekar kar liya gaya; iski sarkari suchna 2 Jun 2026 ko jari hui. MLA ne ‘personal and unforeseen circumstances’ ka hawala dekar istifa diya tha, jo JSP pramukh aur Deputy CM Pawan Kalyan ke madhyam se saksham pradhikari ko bheja gaya tha. Background: ek mahila sarkari karmchari ne MLA par shaadi ke vaade par sambandh rakhne ka aarop lagate hue dhokhadhadi aur yaun-utspeedan ke aarop lagaye the; Railway Koduru police ne BNS ki dharaon 318(2), 318(4) aur 351(2) ke tahat unke khilaf mamla darj kiya. Stage-accurate: mamla abhi FIR/janch ke charan me hai — chargesheet, giraftari ya adalat ke kisi aadesh ki whitelisted reporting abhi nahi mili; aarop abhi aarop hi hain, siddh nahi hue.',
+    period: '2024-2029',
+  },
+];
+
+/*
+REJECT-LOG (arava-sreedhar, Kodur SC):
+1. Government Whip niyukti (12 Nov 2024, multiple outlets) — pad-niyukti hai, bhautik vikas kaam nahi; works entry nahi bani.
+2. NDTV (Jan 2026, whitelisted) — mahila sarkari karmchari ke aarop; MLA ne ‘false propaganda and deepfake videos’ kahkar khandan kiya. Ye MLA ka jawab-disclosure hai, alag negative nahi — isi matter ki entry upar hai.
+3. Hindustan Times (4 Feb 2026, whitelisted) — case 3 Feb 2026 ko darj (BNS 318(2), 318(4), 351(2)); Railway Koduru circle inspector Chandrasekhar quoted; shikayatakarta ne High Court me nyay ki arzi di. Wahi matter — The Hindu wali entry me consolidated, duplicate entry nahi.
+4. Deccan Chronicle (28 Jan 2026, whitelisted) — JSP ne 3-sadasyiya janch samiti banayi (T. Siva Shankar, Thamballapalli Ramadevi, T. C. Varun); MLA ko party karyakramon se door rehne ko kaha. Party karyawahi akele negative NAHI (brief) — wahi matter consolidated.
+5. Deccan Chronicle (7 Apr 2026, whitelisted) — MLA ne AP High Court me private videos hatane ki arzi di; Justice Venkata Jyotirmayee ne Railway Koduru police se case ka poora vivran manga, sunvai 20 Apr 2026 tak sthagit. MLA ki khud ki civil arzi hai — criminal mamle me nyayik vikas nahi; alag entry nahi.
+6. Deccan Chronicle tag (31 Jan 2026, whitelisted) — NHRC ne shikayatakarta ki arzi janch ke liye sweekar ki. Aayog ki prakriya hai, FIR se aage ka nyayik vikas nahi; akele negative nahi.
+7. Deccan Chronicle tag (3 Mar 2026, whitelisted) — ‘AP High Court Grants Anticipatory Bail to Harsha Veena’ — agrim jamanat shikayatakarta ko mili, MLA par koi nyayik vikas nahi; MLA-negative ke roop me reject.
+8. myneta.info halafnama (candidate_id=1358) — 1 pending mamla (IPC 323/34). Pre-term halafnama mamla; Jun 2024+ me koi legal development whitelisted media me nahi mila — reject (halafname ke pending mamle akele negative NAHI).
+9. Pre-term items: NIE (5 Apr 2024) ‘JSP changes Railway Koduru pick’ + ThePrint/PTI candidate-replacement — chunav se pehle ke; works/negative nahi.
+10. capitalinformation.net / truepointnews epaper hits — non-whitelist epapers; snippet content me MLA ka naam vikas-sandarbh me nahi.
+11. Name-collision: Duddilla Sridhar Babu (Telangana minister) ke foundation-stone hits — alag vyakti, reject.
+
+RETRY-LEADS (parent ke liye):
+A. FIR-mamle ka aage ka vikas — chargesheet, giraftari, adalat ka aadesh, ya 20 Apr 2026 wali HC sunvai ka nateeja — whitelisted media me dikhe to negative entry isi matter me update hogi (stage-accurate).
+B. AP Assembly proceedings (aplegislature.org — sarkari portal) me MLA ke sawal/mantri-ashwasan — live-browser se check karna hoga.
+C. Telugu web media (Eenadu/Andhra Jyothy/Sakshi) me Kodur ke local works ki coverage ho sakti hai, lekin whitelist-bahar hai — parent policy faisla kare.
+*/
+
+// mandipalli-ramprasad-reddy — 10 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Mandipalli Ramprasad Reddy, TDP, Rayachoti (Annamayya jila), 16th AP VS 2024-2029.
+// 2024 me Rayachoti se 95,925 vote lekar jeete; runner-up Gadikota Srikanth Reddy (YSRCP, 93,430 vote) ko
+// 2,495 maton se haraya. 12 Jun 2024 se AP Cabinet me mantri (Transport, Youth Affairs & Sports).
+// Sirf Rayachoti seat ke kaam shamil hain — rajya-star ke parivahan faisle, dusre jilon ke bus-launch,
+// aur district-wide karyakram exclude hain (REJECT-LOG dekho). Sabhi entries The Hindu (whitelisted) ki
+// post-event reports par adharit. Do entries (water troughs, Chinnamandem cement road) ke liye page ka
+// direct fetch 403 par atka — inka content search-engine extract se liya gaya hai; parent live-browser se
+// verify kar le (RETRY-LEADS). Do entries ki tithi inferred hai — note me reasoning disclosed hai.
+// sourceLabel 'The Hindu', period '2024-2029' sab me.
+// QA-DROP (coordinator): APSRTC Super Luxury bus shubharambh (abhiyan-launch = reject); pashu-troughs entry (The Hindu amp 403, sirf search-excerpt — source-rule par reject). Dono retry-leads.
+andhraWorks['mandipalli-ramprasad-reddy'] = [
+  {
+    title: 'Rayachoti ke paas Thurpupalle SC hamlet me nayi CC road ka udghatan kiya gaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/government-committed-to-developing-rayachoti-says-transport-minister/article69092303.ece',
+    date: '2025-01-12',
+    note: 'The Hindu ki post-event report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Rayachoti ke paas Thurpupalle SC hamlet me nayi bani CC road ka udghatan kiya aur thekedaaron se gunvatta-purn nirman par zor diya. Isi daure me gaon-garon ko model village banane ke liye sadak, drainage aur streetlight me nivesh ka elaan bhi hua. Tithi seedhi prakashan se mili hai (report me "on Sunday" aur prakashan 12 Jan 2025 — date check se 2025-01-12 Sunday pakka hai), inferred nahi. Lagat report me nirdisht nahi, isliye "ghoshit nahi".',
+    period: '2024-2029',
+  },
+  {
+    title: 'Rayachoti Municipality ke liye ICICI Bank dwara di gayi 5 electric kachra-sangrah auto-rickshaws ka udghatan kiya gaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/government-committed-to-developing-rayachoti-says-transport-minister/article69092303.ece',
+    date: '2025-01-12',
+    note: 'The Hindu ki post-event report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Rayachoti Municipality ko ICICI Bank dwara daan ki gayi 5 electric garbage collection auto-rickshaws ka udghatan kiya, jinka kul mulya Rs 48 lakh bataya gaya. CSR-funded sanrachna ka khud lokarpan + fund disclosed hai, isliye VALID. Tithi seedhi prakashan se mili hai (12 Jan 2025, Sunday — date check se pakka), inferred nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Rayachoti mandal ke Variga aur Shettiwandlapalle gaon me borewells ka udghatan kiya gaya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/prepare-contingency-drinking-water-action-plans-for-the-ensuing-summer-season-in-andhra-pradesh-transport-minister-tells-officials/article69199084.ece',
+    date: '2025-02-09',
+    note: 'The Hindu ki post-event report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Annamayya jile ke Rayachoti mandal me Variga aur Shettiwandlapalle gaon me borewells ka udghatan kiya. Mantri ne kaha ki har gaon me borewell jodkar paani ki kami door karna sarkar ki prathmikta hai. Tithi seedhi prakashan se mili hai (report me "on Sunday" aur prakashan 9 Feb 2025 — date check se 2025-02-09 Sunday pakka hai), inferred nahi. Lagat report me nirdisht nahi, isliye "ghoshit nahi".',
+    period: '2024-2029',
+  },
+  {
+    title: 'Rayachoti se Mallayakkapalle me Malleswara Temple tak nayi CC road ka shilanyas kiya gaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/prepare-contingency-drinking-water-action-plans-for-the-ensuing-summer-season-in-andhra-pradesh-transport-minister-tells-officials/article69199084.ece',
+    date: '2025-02-09',
+    note: 'The Hindu ki post-event report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Rayachoti se Mallayakkapalle me Malleswara Temple tak jane wali nayi cement concrete (CC) road ka shilanyas kiya. Mantri ne kaha ki ye sadak mandir tak pahunch aasan karegi aur Rayachoti ke chhe zones ke vikas yojana ka hissa hai. Tithi seedhi prakashan se mili hai (9 Feb 2025 — date check se Sunday pakka), inferred nahi. Lagat report me nirdisht nahi, isliye "ghoshit nahi".',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chinnamandem mandal mukhyalaya me Rs 15 lakh ki nayi cement road ka udghatan kiya gaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/steps-in-place-to-provide-water-to-livestock-says-ap-transport-minister/article69396411.ece/amp/',
+    date: '2025-03-31',
+    note: 'The Hindu ki post-event report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Chinnamandem mandal mukhyalaya me Rs 15 lakh ki lagat se bani cement road ka udghatan kiya aur graameen ilakon me cement sadken aur drainage vyavastha upgraded karne ki sarkari pratibaddhata dohrai. Tithi INFERRED hai: page ka direct fetch 403 par atka; search-engine ke anusaar article ~2025-04-01 ko update hua aur report me "on Monday" likha hai — date check se 2025-03-31 Monday pakka hota hai, isliye ghatna-tithi 2025-03-31 li gayi hai. Parent live-browser se tithi verify kar le.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Rayachoti me 11 rural roads (27 km se adhik) ke liye Rs 6.25 crore ki swikriti ki ghoshna ki gayi',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/625-cr-to-bolster-rural-road-network-in-rayachoti/article69537606.ece',
+    date: '2025-05-04',
+    note: 'The Hindu ki report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Rayachoti me graameen sadkon ke nirikshan ke dauraan Rs 6.25 crore ki swikriti ki ghoshna ki — isme Rs 4.16 crore NABARD Rural Infrastructure Development Fund (RIDF) ki 30vi kist (2024-25) se aur Rs 2.09 crore sarkari srot se hain. Kul 11 sadken, 27 km se adhik: Rayachoti-Madanapalle highway se Reddipalle tak 1.5 km (Chinnamandem mandal), RK Road se KG Road via Gopanapalle 4.51 km (Galiveedu mandal), Madhavaram se Madhya Vandalapalle 3.5 km (Rayachoti mandal), Masapeta-Katimayakunta Road se Addlu Vandalapalle 1.91 km (Rayachoti ke aas-paas), Shettipalle se Peddabidi via Thimmakkagari Palli 2.87 km (Sambepalle mandal). Tithi seedhi prakashan se mili hai (report me "on Sunday (May 4)" — date check se 2025-05-04 Sunday pakka hai), inferred nahi. Itemized sanction list hai, isliye VALID.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chinnamandem mandal ke Devagudipalle (Bapuji Nagar) me PM Surya Ghar ke tahat 36 SC/ST parivaron ke gharon par solar rooftop systems ka udghatan kiya gaya',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/solar-rooftop-systems-installed-on-36-scst-households-in-bapuji-nagar/article70850834.ece',
+    date: '2026-04-11',
+    note: 'The Hindu ki post-event report ke mutabik, mantri Mandipalli Ramprasad Reddy ne Rayachoti constituency ke Chinnamandem mandal me Devagudipalle gaon ke Bapuji Nagar me 36 SC/ST parivaron ke gharon par lage solar rooftop systems ka udghatan kiya. PM Surya Ghar yojana ke tahat Rayachoti division ke chhe mandalon me 2,784 SC/ST parivaron ke liye 2 kW ke rooftop solar units swikrit hain (kul anumaanit nivesh Rs 33.40 crore, kul kshamta 5.568 MW); report ke samay Rayachoti constituency me lagbhag 100 gharon me installation poorn ho chuki thi, jinme 68 Chinnamandem mandal me hain. Bapuji Nagar me sabhi 36 swikrit units lagi hain — 72 kW kshamta, lagat Rs 43.20 lakh. Tithi INFERRED hai: search-engine ke anusaar article 2026-10-19 se 190 din pehle update hua (~2026-04-12) aur report me "on Saturday" likha hai — date check se 2026-04-11 Saturday pakka hota hai, isliye ghatna-tithi 2026-04-11 li gayi hai. Parent live-browser se tithi verify kar le.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Chinnamandem mandal ke Mallur ZP High School me naye library ke liye Rs 5 lakh swikrit kiye gaye',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/ramprasad-reddy-reiterates-governments-priority-for-school-education/article70361756.ece',
+    date: '2025-12-05',
+    note: 'The Hindu ki post-event report ke mutabik, Chinnamandem mandal ke Mallur me Zilla Parishad High School me ayojit Mega Parents-Teachers meeting me mantri Mandipalli Ramprasad Reddy ne Collector ka aabhaar vyakt kiya ki unhone school me naye library ke liye Rs 5 lakh swikrit kiye hain. Swikriti Collector ki hai, lekin ghoshna mantri ke seat-level karyakram me hui — itemized sanction ke roop me VALID. Tithi seedhi prakashan se mili hai (report me "on Friday (December 5)" — date check se 2025-12-05 Friday pakka hai), inferred nahi.',
+    period: '2024-2029',
+  },
+];
+
+// ==== REJECT-LOG (mandipalli-ramprasad-reddy) ====
+// R1: I-Day 2025 samaroh, Rayachoti (The Hindu, 15 Aug 2025) — mantri ne NH works Rs 6,210 crore, 2,600 km rural road repair, Stree Shakti, DBT aadi ki "outline" di — REJECT (sirf ghoshna/outlines; koi swikriti/lokarpan nahi).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/ministers-outline-development-plans-for-rayalaseema-districts-during-i-day-celebrations/article69936590.ece
+// R2: HNSS project representation (The Hindu, 19 Sep 2025) — MLA ne Assembly me CM N. Chandrababu Naidu ko Srinivasapuram-Mandipalli Nagireddy canal stretch (Rs 450 crore, ~25,000 acre sinchai) jaldi poorn karne ka prativedan diya; CM ne "tenders jald" ka aashwasan diya — REJECT (sirf maang/prastav + aashwasan; koi dastaveji nateeja nahi).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/minister-pushes-for-hnss-project-completion-to-benefit-rayachoti-farmers/article70070140.ece/amp/
+// R3: "Rayachoti to get a facelift" Praja Darbar (The Hindu, 13 Apr 2025) — Boreddigaripalle me Praja Darbar; pipeline vikas karyon ki baat + 2024-25 me cement roads/streetlights/drainage/borewells ke pichhle dawe — REJECT (sirf ghoshna/pipeline + MLA ke retrospective dawe; vishisht poorn kaam alag entries me cover hain).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/rayachoti-to-get-a-facelift-soon-transport-minister/article69446265.ece
+// R4: Rs 143.81 crore ke 1,377 vikas karya + Rs 82 crore ke 255 naye karyon ka shilanyas (The Hindu, ~Jun 2025) — Collectorate me hua, lekin Annamayya jile-bhar ke kaam hain — REJECT (district-level; seat-specific nahi).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/development-works-worth-143-crore-inaugurated-in-annamayya-district/article69682979.ece
+// R5: Rs 2,123 crore state-wide rural road repair (Times of India) — mantri ne Dy CM Pawan Kalyan se milkar sirf aabhaar vyakt kiya — REJECT (state-level ghoshna; seat-specific sanction nahi).
+//     URL: https://timesofindia.indiatimes.com/city/vijayawada/ministers-laud-pawan-kalyan-as-govt-releases-2123-crore-for-rural-road-repairs/articleshow/125918141.cms
+// R6: Swachh Andhra-Swachh Divas launch, Govt Area Hospital Rayachoti (The Hindu, 18 Jan 2025) — REJECT (sarkari abhiyan ka keval shubharambh).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/transport-minister-highlights-significance-of-cleanliness-in-public-areas/article69112744.ece/amp/
+// R7: TDP 43rd foundation day bhashan, Rayachoti (The Hindu, ~Mar 2025) — REJECT (party samaroh).
+//     URL: https://www.thehindu.com/news/national/andhra-pradesh/tdp-changed-the-political-landscape-of-ap-says-transport-minister/article69389969.ece/amp/
+// R8: Gajuwaka APSRTC depot EV charging station udghatan + E-depot shilanyas (May 2025, ANI via aggregators) — REJECT (seat ke bahar — Visakhapatnam).
+// R9: Maddilapalem (Visakhapatnam), Chittoor, Kuppam me nayi APSRTC buses ka launch (The Hindu, Jun-Aug 2024) — REJECT (seat ke bahar).
+// R10: Hospital Development Committee meeting, Lakkireddipalle CHC (medicaldialogues.in, ~May 2025) — sirf baithak/aashwasan; outlet non-whitelisted bhi — REJECT.
+// R11: Mega PTA meeting, Mallur ZP High School (The Hindu, 5 Dec 2025) — karyakram coverage matra; library sanction alag valid entry me hai — REJECT (karyakram me maujoodgi).
+// R12: Stree Shakti muft bus yatra yojana ke elaan — REJECT (rajya-star yojana; seat-specific bhoomika/kaam dastavej nahi).
+// R13: Rayachoti municipal nominations hinsa (New Indian Express, 17 Oct 2026) — YSRCP ne mantri par candidate intimidation ka aarop lagaya; "TDP samarthakon" ki bheed ne YSRCP office/vaahan jalaye; mantri ne aarop kharij kiye. MLA FIR-aaropi column me naam NAHI — negative niyam poore nahi hote (shikayat me naam lekin FIR-aaropi column me nahi = reject) — NEGATIVE NAHI.
+//     URL: https://www.newindianexpress.com/states/andhra-pradesh/2026/Oct/17/clashes-erupt-in-rayalaseema-on-first-day-of-nominations
+// R14: "Minister ke khilaf sajish" YouTube videos (TV5/ETV, Oct 2026) — REJECT (YouTube whitelist me nahi; waise bhi MLA aaropi nahi, nishana hai).
+// R15: APSRTC conductor-cheating janch ka aadesh (Deccan Chronicle, ~Oct 2026) — Tirupati ka mamla, mantri ne janch ka aadesh diya — REJECT (seat ke bahar; mantri aaropi nahi).
+// R16: Gajuwaka bus durghatna me shok-samvedna (The Hindu, ~May 2026) — REJECT (mantri aaropi nahi; condolence matra).
+// NEGATIVES: whitelisted media me Jun 2024+ MLA ke khilaf koi FIR/chargesheet/janch ya nyayik vikas nahi mila. Halafname ke 5 pending mamle (ADR 2024: IPC 307, 324, 115, 506, 171H aadi — Chinnamandem PS Crime 42/2024, Rayachoti PS Crime 224/2024 sahit) akele negative nahi (rule). R13 (NIE, 17 Oct 2026) me YSRCP ke aarop hain lekin FIR-aaropi column me MLA ka naam nahi aur mantri ne aarop kharij kiye — negative nahi. Isliye negatives = 0.
+//
+// ==== RETRY-LEADS (live-browser ya deeper check ke liye) ====
+// L1: Water troughs + Rs 15 lakh Chinnamandem cement road (The Hindu, article69396411) — amp page browser me 403 par atka; search-engine extract se entry banai hai. Live-browser se page kholkar tithi (2025-03-31 inferred) aur tathya verify karo.
+// L2: PM Surya Ghar solar rooftops (The Hindu, article70850834, ~2026-04-11) — entry search-extract se bani hai; live-browser se tithi/tathya verify karo.
+// L3: HNSS canal (Srinivasapuram-Mandipalli Nagireddy stretch) — CM aashwasan (Sep 2025) ke baad tenders nikle ya nirman shuru hua, iski whitelisted post-event report mil jaye to credit-capped entry sambhav ho sakti hai.
+// L4: Rs 6.25 crore rural roads (May 2025 sanction) — baad me in 11 sadkon ka nirman/lokarpan hua ya nahi, iski follow-up report live-browser se dhoondo.
+
+// peddireddy-dwarakanatha-reddy — 0 works + 2 negatives (mined 2026-10-19)
+// Pehchan pakki: Thamballapalle (Annamayya jila), YSRCP, Winner 2024 —
+// 94,136 vote; runner-up D. Jayachandra Reddy (TDP, 84,033) ko 10,103 maton se haraya.
+// 2019 me bhi isi seat se YSRCP ticket par jeete (1,05,444 vote) — karyakaal Jun 2024+ (2024-2029).
+// PEHCHAN-FLAG (parent ke liye): Wikipedia (en) aur ADR ke mutabik ye
+// Peddireddy Ramachandra Reddy (Punganur MLA, purv mantri) ke BHAI hain, bete nahi —
+// pita Peddi Reddy Lakshmana Reddy; P. V. Mithun Reddy (Rajampet MP) bhatije hain.
+// Task-brief me diya gaya rishta ("pita Ramachandra Reddy") aur "first-time MLA" wala dawa
+// in sroton se mell nahi khata — edit NAHI kiya, sirf flag kar raha hoon.
+// Madanapalle sub-collector office agni-mamla (21 Jul 2024): Hindustan Times (Aug 2024)
+// ne report kiya ki police ne kai thikano par search/poochtaachh ki, jinme
+// MLA Peddireddy Dwarakanath Reddy ka nivas bhi tha — lekin unhe kisi FIR me aaropi
+// ke roop me naamdar NAHI kiya gaya; rajya rajasv mantri ka aarop Ramachandra Reddy par tha —
+// REJECT as negative (gawah-notice/poochtaachh akela = reject).
+
+andhraWorks['peddireddy-dwarakanatha-reddy'] = [
+  {
+    title: 'Van vibhag ne Mangalamapet reserve forest kshetra (Pulicherla mandal, Chittoor jila) me atikraman aur jaiv-vividhta-kshati par Thamballapalle MLA Peddireddy Dwarakanath Reddy ke khilaf Preliminary Offence Report (POR) darj ki — 6 May 2025 ko registration, janch shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/forest-officials-file-preliminary-offence-report-against-peddireddy-and-family-members/article69580386.ece',
+    date: '2025-05-15',
+    note: 'The Hindu ki 15 May 2025 ki report ke mutabik Van vibhag ne poorv mantri Peddireddy Ramachandra Reddy, unke bete MP P. V. Mithun Reddy, "Tamballapalle MLA Peddireddy Dwarakanath Reddy" aur Ramachandra Reddy ki patni Indiramma ke khilaf Mangalampet reserve forest kshetra me atikraman, ghuspeth aur jaiv-vividhta-kshati ke aaropon par Preliminary Offence Report darj kiya. Aarop: reserve forest kshetra me Forest Act ka ullanghan karke nirman, aur bina anumati ke borewell. Chittoor DFO S. Bharani ne bataya ki POR 6 May ko darj hui aur janch shuru ho gayi. MLA ka naam srot me seedhe "Tamballapalle MLA" ke roop me darj hai — pehchan seat se pakki. Article me kisi aaropi ka paksh, giraftari ya jamanat ka koi jikr nahi — stage isi POR-darj tak seemit hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mangalamapet van-bhoomi atikraman mamle me Forest Department ne chargesheet (P.O.R. No. 3/2025) daakhil ki — MLA Peddireddy Dwarakanath Reddy A3 aaropi; 32.63 acre atikramit van-bhoomi Van vibhag ne reclaim ki (13 November 2025 ki report)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/forest-department-reclaims-encroached-land-in-mangalamapet-cases-filed-against-peddireddy-family/article70276634.ece',
+    date: '2025-11-13',
+    note: 'The Hindu ki 13 November 2025 ki Vijayawada dateline report ke mutabik PCCF (HoFF) P. V. Chalapathi Rao ne bataya: Mangalamapet van kshetra me 1968 gazette ke anusaar 75.74 acre adhisoochit van-bhoomi ke alawa 32.63 acre van-bhoomi ko gair-kanooni roop se niji holdings me milaya, fenced kiya aur horticulture kheti ke liye istemal kiya gaya; Rajya ki prakritik sampatti ko Rs 1.26 crore ka andazit nuksan hua. Andhra Pradesh Forest Act, 1967 ki dharayen 61(2), 20(1)(d)(2), 52(d) aur BNS ke sambandhit pravdhano me mamle darj hue; chargesheet P.O.R. No. 3/2025 ke tahat daakhil — A1 Peddireddy Mithun Reddy, A2 Peddireddy Ramachandra Reddy, A3 Peddireddy Dwarakanath Reddy, A4 Peddireddy Indiramma. Atikramit 32.63 acre Van vibhag ne reclaim ki; mamle ka byora adalat me pesh kiya gaya. Aaropi malikana dastavej pesh nahi kar sake. MLA A3 ke roop me seedha naamdar hai — ye parivar-sadasya ka nahi, MLA khud ka mamla hai; pehchan seat se pakki. Article me aaropiyon ka paksh, giraftari ya jamanat ka koi jikr nahi — stage sirf chargesheet-daakhil tak seemit hai.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG (peddireddy-dwarakanatha-reddy, Thamballapalle/YSRCP, mined 2026-10-19)
+// 1. Times of India (Apr 2022) — "minister Peddireddy Ramachandra Reddy inaugurates new school buildings under Nadu-Nedu" (Pedda Upparapalli, Chittoor; Rs 60.35 lakh): ye Ramachandra Reddy (bhai, Punganur) ka kaam + pre-term — REJECT (pehchan-jaal; seat ke bahar kaam).
+// 2. Times of India (31 Mar 2024) — "Vijayasai Reddy counters TDP chief's claims over Peddireddy palle reservoir works" (Udayagiri, Nellore district): V. Vijayasai Reddy aur Chandrababu Naidu ke beech political bayanbazi; Nellore kshetra; is MLA ki koi bhoomika nahi — REJECT (pre-term + dusre vyakti + seat ke bahar).
+// 3. New Indian Express (19 Feb 2024) — "YSRC, TDP to go all out to win Thamballapalle": pre-election seat analysis; MLA ka koi karyakram nahi — REJECT (pre-term).
+// 4. Hindustan Times (Aug 2024) — Madanapalle sub-collector office fire (21 Jul 2024): police ne "several locations" par search ki, jinme MLA Peddireddy Dwarakanath Reddy ka nivas bhi tha; koi FIR-ackolumn me MLA ka naam nahi; mantri ka "sabotage at the behest of Ramachandra Reddy" wala aarop bhai par tha — REJECT as negative (gawah-notice/poochtaachh akela).
+// 5. onefivenine.com ke Thamballapalle-mandal village pages (MLA naam ki listing matra) — village directory hai, source NAHI — REJECT.
+// 6. goir.ap.gov.in ke Thamballapalle SDF GO (2017-18/2018-19, Rs 200 lakh): poorv MLA G. Shankar ke karyakaal ke hain — REJECT (pre-term, dusre vyakti).
+// 7. Whitelisted media (The Hindu/IE/HT/TOI/DC/Hans India/PTI) me "Dwarakanath Reddy" + Thamballapalle + works/inaugurated/foundation par 8+ targeted searches — koi post-event lokarpan/shilanyas/swikriti ya vidhansabha-sawaal parinaam ki report nahi mili. MLA vipaksh (YSRCP) se hain; Jun 2024+ works coverage shunya — khaali profile imaandaari.
+//
+// RETRY-LEADS (parent/live-browser ke liye):
+// A. PRSIndia MLA-track (prsindia.org/mlatrack/peddireddi-dwarakanatha-reddy) par MLA ke vidhansabha sawal mil sakte hain — lekin entry ke liye whitelisted-source par mantri-ashwasan/dastaveji nateeja chahiye hoga.
+// B. Forest case me Jun 2024+ koi agla nyayik vikas (giraftari/jamanat/trial) aaye to negative entries ka stage update karna hoga.
+
+// nallari-kishore-kumar-reddy — 1 work + 0 negatives
+// Mined 2026-10-19. Source whitelist: The Hindu (post-event reporting only).
+// Fragment khud merge NAHI karna — parent merger karega.
+// Pehchan: Pileru, TDP, Winner (2024). Halafname me naam 'Nallari Kishan Kumar Reddy' darj hai (wahi vyakti). S/o Late N. Amaranadha Reddy. Purv CM Nallari Kiran Kumar Reddy ke chhote bhai — unke kaam/mamle is MLA par NAHI. Palamaner ke TDP MLA N. Amarnath Reddy ek ALAG vyakti hain (The Hindu ke cabinet-article me dono ka naam ek saath aaya tha) — Nallari parivaar ke Amarnath Reddy (MLA ke pita/putr) se bhramit na hon.
+
+andhraWorks['nallari-kishore-kumar-reddy'] = [];
+// QA-DROP (coordinator): JNTU-Kalikiri prashn entry — The Hindu page 403 par nahi khula, sirf indexed excerpt tha; note-grounding rule par reject (retry-lead).
+
+// ==== REJECT-LOG (nallari-kishore-kumar-reddy) ====
+// 1. "Chittoor TDP leaders miffed over denial of Cabinet post to district" — The Hindu, 18 Jun 2024 (article68284704). MLA mantri-pad na milne par naraaz the. REJECT: kaam nahi — mantri-pad ki rajnaitik khabar.
+// 2. "Migrant worker from Kuwait reunites with family in Annamayya district" — The Hindu, 17 Jul 2024 (article68413532). MLA ne Chintaparthi gaon jaakar parivaar se mulaqat ki. REJECT: sirf daura/sahanubhuti — bachav karya Deputy CM Pawan Kalyan aur mantri Nara Lokesh ne kiya tha.
+// 3. "Farmer trampled to death by a tusker in Piler mandal" — The Hindu, 15 Oct 2024 (article68755692). MLA ghatnasthal pahunche, mritak ke parijanon ko santvana di, van adhikariyon ko jhund par nazar rakhne ka nirdesh diya. REJECT: sirf nirikshan/daura — koi swikrit kaam ya fund nahi.
+// 4. "Three from Karnataka killed; two hurt after car dives into farm well in Andhra Pradesh's Piler" — The Hindu, 18 May 2025 (article69589838). MLA ne shok vyakt kiya aur mritakon ko swadesh pahunchane ke liye aarthik sahayata di. REJECT: niji kharch/daan.
+// 5. NH-71 Madanapalle-Pileru four-laning (Rs 1,994 crore, 56 km) ka udghatan — Union mantri Nitin Gadkari ne 2 Aug 2025 ko kiya (PTI via The Week/Business Standard); PM ne Pileru-Kalur section ki ghoshna ki. REJECT: kendriya pariyojna — MLA ki vyaktigat bhoomika report me nahi.
+// 6. "Massive land grabs by politicos in Pileru; YSRC and TD leaders trade charges" — Deccan Chronicle, ~Jul 2021. Tatkalin YSRCP MLA ne Nallari parivaar par zameen-kabze ke aarop lagaye; koi FIR/chargesheet nahi. REJECT: pre-term (Jun 2024 se pehle) aarop-pratyarop; MLA khud aaropi nahi; koi nyayik vikas nahi.
+// 7. Halafnama ke 6 mamle (IPC 307/115/324/506 sahit) — myneta.info (candidate_id=160). REJECT: affidavit-mamle akele negative nahi; Jun 2024+ me koi nayi FIR/chargesheet/adalati vikas whitelist media me nahi mila.
+// 8. "Piler segment all set for tense face-off between YSRCP, TDP" — The Hindu, Apr 2019; TOI "Siblings divided by parties..." Mar 2024. REJECT: pre-term chunavi khabar.
+// 9. "Minister vows to complete water schemes early in Chittoor, Annamayya" — The Hindu, Jul 2022. REJECT: pre-term; is MLA ka isme koi zikr nahi.
+//
+// RETRY-LEADS:
+// - The Hindu article69295056 ka page direct text-fetch par 403 aaya — live browser se article kholkar prakashan-tithi aur shabdavali verify kar lein (entry ka date inferred hai).
+// - aplegislature.org (sarkari portal) me Nallari Kishore Kumar Reddy ke Vidhansabha prashn — ye subagent ne check nahi kiya; wahan se sarkari-badge wale entries sambhav.
+// - The Hans India / Deccan Chronicle / New Indian Express ke Chittoor-Annamayya editions me "Pileru MLA" par 2024-26 ki koi whitelist coverage search-index me nahi mili — site search ya e-paper scan me aur works mil sakte hain.
+// - Palle Panduga (2025) ke tahat Pileru ke 6 mandalon (Pileru, Kalikiri, Valmikipuram, Gurramkonda, Kalakada, Kambhamvaripalle) me buniyadi kaam — MLA ke shilanyas/udghatan ki whitelist coverage mili to nayi entry ban sakti hai.
+
+// shahjahan-basha — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Shahjahan Basha (halafnama naam 'M. Shajahan Basha'), Madanapalle, TDP, Winner 2024 (purv MLA 2009-2014 INC ticket par; 2019 me Rajampet LS par INC se haar). S/o Late M. Akbar Saheb, pesha transport business.
+// REJECT-LOG:
+// - Deccan Chronicle 'Madanapalle Celebrates Its New Identity As District' (Nov 2025): MLA ka sirf quote — 'district creation historic correction'. Kaam sarkar ka, inki vyaktigat bhoomika disclosed nahi — REJECT (dusre neta/sarkar ke karyakram).
+// - The Hindu (6 Dec 2025) 'Madanapalle district gearing up for Jan 1 launch': Collector Nishant Kumar ka inspection — MLA ka koi kaam nahi — REJECT.
+// - newindianexpress (29 Jul 2024) 'Madanapalle fire': poochtaach/talaashi former MLA Nawaz Basha (YSRCP, 2019-24) ke ghar par — Shahjahan Basha involve nahi — REJECT (galat vyakti).
+// - newindianexpress (18 Feb 2026) 'Missing seven-year-old girl found murdered in AP's Madanapalle': MLA ne sirf dukh jataya, CM se nyay ki maang uthai; koi aarop/kaam nahi — REJECT (sirf pratikriya).
+// - King English epaper snippet: 'MLAs Shahjahan Basha and Nallari Kishore Kumar Reddy attended the programme' — sirf maujoodgi — REJECT.
+// - Zero Waste City Madanapalle stories (thenewstrust.in, orissadiary.com): municipality ka kaam, aggregator/low-tier sources, MLA ki bhoomika disclosed nahi — REJECT.
+// - NH-71 Madanapalle-Pileru 4-lane (Gadkari event): kendriya pariyojna, bina vyaktigat bhoomika — REJECT.
+// - Horticulture Hub foundation (2 Oct 2026): CM/Union FM ka karyakram, MLA ke bhoomika ka zikr nahi — REJECT.
+// - Koi FIR/chargesheet/janch ya adalati vikas jisme MLA Shahjahan Basha khud aaropi ho — whitelisted media me nahi mila — 0 negatives.
+andhraWorks['shahjahan-basha'] = [];
+
+
+// ==== Chittoor (Batch 8) ====
+// peddireddy-ramachandra-reddy — 0 works + 2 negatives (mined 2026-10-19)
+// Pehchan: Peddireddy Ramachandra Reddy, Punganur, YSRCP, Winner 2024 (99,774 vote; TDP ke Challa Ramachandra Reddy ko 6,619 maton se haraya). Purv mantri (Energy/Forest, 2022-2024). Pehchan-jaal: putr/sambandhi Peddireddy Dwarakanath Reddy (Thamballapalle MLA) ke kaam/mamle is entry me NAHI; van-mamle me ve saha-aaropi ke roop me srot me darj hain, lekin unke alag kaam/mamle yahan nahi liye gaye. Karyakaal Jun 2024 se vipaksh me — seat par koi post-June-2024 lokarpan/shilanyas whitelisted media me nahi mila; saare udghatan mantri-kaaleen (2022-2023, pre-term) hain.
+// REJECT-LOG:
+//  1. 50-bed Regional Hospital ka udghatan, Punganur (The Hindu, Nov 2023) — mantri-kaaleen, karyakaal se pehle. REJECT.
+//  2. Nadu-Nedu school buildings ka udghatan, Pedda Upparapalli (ToI, Apr 2022) — pre-term. REJECT.
+//  3. 'Palle Bata' me RBK/family clinic ka udghatan (The Hindu, Dec 2022) — pre-term. REJECT.
+//  4. Electrosteel castings plant ka shilanyas, Punganur (ToI, Mar 2023) — pre-term; niji audyogik pariyojna bhi. REJECT.
+//  5. CM dwara land-encroachment janch ka aadesh (ap7am, 29 Jan 2025) — srot whitelist me nahi; keval shikayat-charan, FIR/POR nahi. REJECT.
+//  6. Patni ki 142 sampattiyon ke gair-khulase par election petition (ToI, Jul 2024) — election petition akele = reject. REJECT.
+//  7. Suraksha-cover ke liye High Court yachika (ToI, Jun 2024) — prashasanik mukadma, kaam/negative nahi. REJECT.
+//  8. Liquor-scam court documents (indiankanoon/caseciter) — P. V. Mithun Reddy (putr, Rajampet MP) se sambandhit; parivar ke mamle = reject. REJECT.
+//  9. Punganur nagar-palika adhyaksh + 10 parshad TDP me (The Hindu, Jun 2024) — raajnaitik ghatna, kaam/negative nahi. REJECT.
+//  10. 'Punganur se nahi ladenge' ka dawa (gulte, Oct 2026; TV5 YouTube) — srot whitelist me nahi; raajnaitik khabar. REJECT.
+//  11. Thamballapalle MLA (Dwarakanath Reddy) ke kaam/mamle — pehchan-jaal, is MLA ke nahi. REJECT.
+andhraWorks['peddireddy-ramachandra-reddy'] = [
+  {
+    title: 'Mangalampet reserve forest ki 32.63 acre zameen par kabze ke aarop me Forest department ne Punganur MLA Peddireddy Ramachandra Reddy ko A2 banakar POR No. 3/2025 ke tahat chargesheet dayar ki; mamla adalat me lambit hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/forest-department-reclaims-encroached-land-in-mangalamapet-cases-filed-against-peddireddy-family/article70276634.ece/amp/',
+    date: '2025-11-13',
+    note: 'Negative (stage ka sach): The Hindu ki 13 Nov 2025 ki report ke anusaar Forest department (PCCF P. V. Chalapathi Rao) ne Chittoor jile ke Pulicherla mandal me Mangalamapet forest area me 32.63 acre reserve forest zameen ke avaidh vilay ka aarop lagaya — 1968 gazette ke anusaar 75.74 acre notified forest land ke alawa atirikt 32.63 acre ko niji holdings me milakar fencing ki gayi, horticultural crops lagaye gaye aur borewell khode gaye; rajya ki prakritik sampada ko Rs 1.26 crore ke nuksan ka anumaan. AP Forest Act, 1967 aur BNS ke tahat aparadhik mamle darj; POR No. 3/2025 par chargesheet dayar hui — A1 Peddireddy Mithun Reddy, A2 Peddireddy Ramachandra Reddy, A3 Peddireddy Dwarakanath Reddy, A4 Peddireddy Indiramma; kabza-hatayi gayi 32.63 acre zameen Forest department ne wapas li aur mamle ka vivaran adalat me prastut kiya gaya. Aropiyon ne kabza-shuda zameen ke vaidh swamitva-dastavej prastut nahi kiye. Neta ka jawab: is report me unki pratikriya darj nahi hai (anupasthiti disclosed).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Sri Bugga Mutt ki 3.88 acre zameen par kabze ke vivad me Supreme Court ne Peddireddy Ramachandra Reddy ki yachika me hastakshep se inkar kiya; swamitva ka faisla Endowments Tribunal karega',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/tirupathi/sc-declines-to-interfere-in-peddireddys-bugga-mutt-land-dispute-1129297',
+    date: '2026-10-06',
+    note: 'Negative (stage ka sach; nagrik/prashasanik vivad, koi FIR nahi): The Hans India ki 6 Oct 2026 ki report ke anusaar Tirupati ke MR Palli me Sri Bugga Mutt ki 3.88 acre zameen (Survey No. 261/1 me 1.50 acre, 261/2 me 2.38 acre) par Endowments Department ne Peddireddy par Mutt ki zameen par kabza karke nirmaan karne ka aarop lagaya. Vibhag ne 7 Mar 2025 ko show-cause notice diya; 16 May 2025 ko Assistant Commissioner ne 10 din me kabza hatane ka aadesh diya. High Court ki Division Bench ne 3 Jul 2025 ko aadesh radd kiya (uchit sunvai nahi hui thi) aur nayi karyavahi ka nirdesh diya; nayi karyavahi ke baad 30 Jan 2026 ko adhikariyon ne unhe phir anadhikrit kabzedar mana aur 10 din me hatane ka aadesh diya. Single judge ne 7 May 2026 ko chaar hafte me Endowments Tribunal jane ka nirdesh diya, Division Bench ne 9 Sep ko use barkarar rakha aur Supreme Court (Justice K V Viswanathan aur Justice Arun Palli ki peeth) ne hastakshep se inkar kar diya — swamitva ka vivad Tribunal ke samne khula hai. Neta ka jawab darj: unhone aarop se inkar kiya aur 1991 ke registered sale deeds ke aadhar par 1.465 acre par adhikar ka dawa kiya. Note: mamla Tirupati ka hai, Punganur seat ka nahi.',
+    period: '2024-2029',
+  },
+];
+
+// gali-bhanu-prakash — 1 work + 1 negative (mined 2026-10-19)
+// Pehchan pakki: Gali Bhanu Prakash, Nagari (No. 170 — mandals: Nindra, Vijayapuram, Nagari, Puttur, Vadamalapeta), Telugu Desam Party, Winner 2024 (1,07,797 vote; runner-up R. K. Roja (YSRCP, 62,793) ko 45,004 maton se haraya). S/o Late Gali Muddu Krishnama Naidu; age 47; M.S., University of Bridgeport, USA (2000); B.E., M.J. College, Osmania University (1997). R. K. Roja (purv mantri, YSRCP, 2014–2024 ki Nagari MLA) ek ALAG vyakti hain — unke kaam/mamle is profile se bahar rakhe gaye hain.
+// Source whitelist: The Hindu (post-event), Times of India.
+andhraWorks['gali-bhanu-prakash'] = [
+  {
+    title: 'Vidhan Sabha me bunakaron ke liye sawal — Nagari MLA Gali Bhanu Prakash ke prashn par mantri Nara Lokesh ne kaha ki bunakar samitiyon se school uniform ki khareed ki sambhavna ka adhyayan karne ke liye MLAon ka ek karya-samooh banaya jayega',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/lokesh-proposes-mla-group-to-study-procurement-of-school-uniforms-from-weaver-societies/article70089819.ece',
+    date: '2025-09-24',
+    note: 'The Hindu ki post-event report (published September 24, 2025, Budhwar) ke mutabik IT aur HRD Mantri Nara Lokesh ne Vidhan Sabha me Nagari MLA Gali Bhanu Prakash ke prashn ke jawab me kaha ki bunakar samitiyon (weaver societies) se school uniform ki jarurat ka ek hissa khareedne ki vyavaharyata ka adhyayan karne ke liye MLAon ka ek working group banaya jayega; MLA ne pucha tha ki kya sarkar in samitiyon se uniform lekar bunkaron ko rozgar ke avsar dene ka irada rakhti hai. Mantri ke anusar APCO ko pehle uniform ki aapoorti saunpi gayi thi lekin samitiyan samay par dene me sangharsh kar rahi thi; bunakaron ko sarkari tendron me prabhavi bhagidari ke liye sanrachanaatmak badlav ki jarurat hai, aur lagbhag 50 Vidhan Sabha kshetron me faile badi sankhya me bunkaron ki sthiti sudharne me sarkar gambhir hai. Credit capped: yah mantri ka prastav/ashwasan hai — koi antim nirnay, GO ya karya-samooh ki gathan-report page par nahi di gayi; MLA ki credit isi sawal aur us par mile jawab tak seemit hai. Inferred-date check: report ne sabha ko "Wednesday" bataya — 24 Sep 2025 ko sahi me Budhwar hai, isliye prakashan-tithi hi event-tithi li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'R. K. Roja ki shikayat par High Court ne police ko nirdesh diya ki Nagari MLA Gali Bhanu Prakash ke khilaf shikayat aur us par ki gayi karrawai ka vivaran pesh kare; koi FIR darj nahi hui thi, agli sunvai 16 September par nirdharit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/vijayawada/hc-directs-police-to-submit-details-of-rojas-complaint-against-nagari-mla/articleshow/123835921.cms',
+    date: '2025-09-11',
+    note: 'Times of India ki post-event report ke mutabik Andhra Pradesh High Court ne YSRCP neta aur purv mantri R. K. Roja ki shikayat par Nagari MLA Gali Bhanu Prakash ke khilaf complaint ka vivaran pesh karne ke liye police ko nirdesh diye. Yachika ke mutabik Roja ne 17 July ko MLA ke khilaf ek saarvajanik sabha me unke bare me "abhadra tippani" karne par shikayat darj karayi thi, lekin police ne is par vichar nahi kiya kyunki ghatna par koi FIR darj nahi hui thi; Roja ne court se police ko FIR darj karne aur janch ka nirdesh dene ka anurodh kiya. Pehli sunvai me govt pleader ne nirdesh lene ke liye samay maanga, jis par Justice Venkata Jyothirmai Pratapa ne police ko shikayat aur us par ki gayi karrawai ka vivaran dene ka nirdesh diya; agli sunvai 16 September par nirdharit hui. Stage-accurate: FIR nahi hui thi, sirf shikayat; court ne FIR ke nirdesh ki jagah police se vivaran maanga; MLA ka jawab srot me nahi diya gaya (govt pleader ne samay maanga tha). Pehchan pakki: page seedha "Nagari MLA Gali Bhanu Prakash" naam deta hai. Inferred-date disclosure: article "HC on Thursday" likhta hai aur us par crawl-ke-hisab se ~Sep 2025 ka stamp tha — 11 Sep 2025 Guruvaar hai, isliye wahi tithi li gayi hai; HC-order ki pakki tithi TOI metadata se phir verify karni chahiye.',
+    period: '2024-2029',
+  },
+];
+
+// ==== REJECT-LOG (gali-bhanu-prakash) ====
+// 1. The Hindu — "Chittoor SP launches QR-based auto safety initiative for public safety" (article71041252, ~Jun 2026): 'Jana Vishwas' auto-safety launch Nagari me SP Tushar Dudi ne kiya; MLA "along with" upasthit the. REJECT: police ke abhiyan-karyakram me maujoodgi — MLA ka apna kaam nahi.
+// 2. Deccan Chronicle — "Ruling NDA Alliance fulfils Pre-Poll Free Power Promise To Weavers In AP" (article1948163, ~Mar 2026): Nagari MLA ne Kothapeta me powerloom units ka daura kiya aur yojna ke pamphlet baante; ye rajya sarkar ka lagu yojna-prachar hai. REJECT: sirf yojna-prachar/daura — MLA ka koi disclosed fund ya bhautik sanrachna bhoomika nahi; kendriya/rajya ghoshna ka credit MLA ko nahi.
+// 3. The Hindu BrandHub (PRNewswire) — Hangyo Ice Creams manufacturing facility inauguration, Tirupati: MLA "Guest of Honour" the — niji company ka corporate samaroh. REJECT: corporate karyakram me maujoodgi.
+// 4. Deccan Chronicle — "Puttur Deal Leaves TD Cadres In A Bind" (2026-10-18): Puttur me TDP-Jana Sena seat-sharing par cadre asantosh suljhane me MLA ki bhoomika. REJECT: party-politics; koi seat-level vikas kaam nahi.
+// 5. NTV Telugu (YouTube) — "MLA Gali Bhanu Prakash Slams Officials Over Illegal Mining and Blasting in Nagari": YouTube coverage, whitelist me nahi. REJECT.
+// 6. news.webindia123 (ANI) / The News Minute — Roja remarks vivad par coverage: whitelist me NAHI. Underlying controversy TOI se cover hai, isliye negative entry #2 bani. REJECT (source whitelist se bahar).
+// 7. Halafname ke 10 mamle (myneta, candidate_id=121; unme 2023 ke Nagari PS ke 153/354/509 aur 153A/354/506 wale mamle, aur ek PMLA mamla Bangalore): sab pre-term/2023 tak ke; Jun 2024+ me giraftari/chargesheet/saza/quash/adaltai aadesh ka koi whitelisted pramaan nahi mila. REJECT as negative: affidavit-akela negative nahi.
+// 8. The Hindu, Sep 24 2025 wali bunakar-society story ka Deccan Chronicle weaver-free-power version (article1948163) — upar #2 me cover; donon me MLA ki bhoomika sirf prachar/daura. REJECT.
+//
+// RETRY-LEADS (parent/live-browser ke liye):
+// A. Roja-shikayat mamla: 16 Sep 2025 ke baad ki sunvai ka outcome whitelisted media me nahi mila — TOI/The Hindu par follow-up dhoondo; agar FIR darj hui ya HC ne aage aadesh diya to negative entry ka stage update sambhav.
+// B. The Hans India / New Indian Express ke regional editions me "Nagari MLA" ki road/school/water lokarpan-bhoomipujan reports — is run me whitelisted English coverage bahut kam mili (MLa ki news-footprint lagbhag Roja-vivad par kendrit hai); site-search se aur leads mil sakte hain. Telugu outlets (Eenadu/Andhra Jyothy/Sakshi web) whitelist se REJECT hain — unse mining mat karna.
+// C. AP Vidhan Sabha records (aplegislature.org, sarkari portal) me Gali Bhanu Prakash ke sawal — whitelisted outlet me mile sawal-jawab ka pattern (entry #1) aur sambhav; lekin entries ke liye whitelisted post-event reporting hi chahiye.
+
+// v-m-thomas — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: V. M. Thomas (halafnama naam: Vadingadu Munaswamy Thomas), Gangadhara Nellore (SC), Chittoor district, Telugu Desam Party, Winner 2024 (1,01,176 votes; 26,011 maton se jeet). Pesha: embryology scientist (Chennai Fertility Centre), age 50, Doctorate (halafnama; PRS par Post Graduate darj). TDP me June 2023 me shaamil hue; purv MLC; 12 Nov 2024 se AP government Whip (Wikipedia). Party me koi badlav nahi — TDP/TDP hi sabhi sroton me (PRS, Wikipedia, myneta).
+// REJECT-LOG:
+//  1. HCCB Project SHINE CSR event, Chittoor (4 Aug 2025; hccb.in press note + minister-led coverage) — Palasamudram PHC ka upgradation-lokarpan Health Minister Satya Kumar Yadav ne kiya; report me MLA V. M. Thomas 'present during inauguration' ke roop me darj hain, unki vyaktigat bhoomika ya fund disclosure NAHI. 'CSR-funded sanrachna ka sirf udghatan-me-maujoodgi' + 'dusre neta ke karyakram me maujoodgi' — dono grounds par STRICT REJECT. (Lead: metroindia.net, fnbnews.com, busineshour9.com — koi bhi whitelist srot nahi.)
+//  2. 'Discrimination against SC legislators' tippani vivad (Deccan Chronicle, ~Apr 2026; search-crawl ~177 din purana) — Srirangarajapuram me CM Relief Fund vitran karyakram me MLA ne SC-MLAs ke khilaf bhedbhav ka aarop lagaya; alliance ke andar bahas chhidi, ruling-party netaon ne pad-na-milne ki narazgi bataya. FIR/chargesheet/adaltai aadesh MLA ke khilaf NAHI → negative criteria (established media + FIR/janch/nyayik aadesh) fail; work bhi nahi. REJECT.
+//  3. SC-status ke galat upyog ki shikayat (Oct 2024; hindupost.in via SC ST Rights Forum/LRPF tweet) — CEO ko shikayat: Tirumala TTD declaration me Christian pehchan ke bawajood SC-arakshit seat se ladne ka aarop; DLSC inquiry ki maang. Srot whitelist me NAHI (hindupost, thecommunemag); FIR/chargesheet/janch-gathan/adalat-aadesh ka koi established-media pramaan nahi. Negative criteria fail → REJECT. Note: foundation background me ye ghatanakram pehle se darj hai ('record me nahi').
+//  4. IVF/test-tube centre sujhav (The Hindu, 18 Feb 2026, budget discussion) — 'MLA V.M. Thomas from Gangadhara Nellore suggested establishment of IVF and test tube centres in villages as part of population policy' — Vidhansabha charcha me sujhav; dastaveji nateeja/mantri-ashwasan/report me koi follow-up NAHI → sirf maang/prastav. REJECT.
+//  5. CM ke bhai ki death anniversary me upasthiti (The Hindu, 7 Oct 2025) — Naravaripalle me N. Chandrababu Naidu ke bhai ke samadhi par pushpanjali; Thomas 'among those who called on the Chief Minister' — maujoodgi, vikas-karya NAHI. REJECT.
+//  6. AP Government Whip niyukti (12 Nov 2024; Wikipedia) — pad hai, constituency work nahi. REJECT.
+//  7. 5 affidavit mamle (myneta, candidate_id=318) — 'Charges Framed' ke saath purane mamle; Jun 2024+ ke baad girafrari/chargesheet/conviction/quash/adaltai aadesh ka koi established-media pramaan nahi. Akele affidavit = negative NAHI. REJECT.
+//  8. Nellore Rural ke vikas-works (TOI/The Hindu, 2025-26) — naam-galt-pehchan jaal: saari 'Nellore Rural' reporting Kotamreddy Sridhar Reddy (Nellore Rural MLA) par hai; Gangadhara Nellore (SC, Chittoor) se koi sambandh nahi. REJECT.
+// Retry-leads: (a) agar SC-status shikayat par DLSC inquiry-gathan ya CEO/Collector ka aadesh kisi whitelist srot (The Hindu/TOI/Indian Express/Deccan Chronicle/Hans India/PTI) me chhpe to negative dobara aanka ja sakta hai — abhi established-media coverage shunya; (b) affidavit ke 5 mamlo me Jun 2024+ ka koi nyayik vikas whitelist media me mile to negative check karo.
+andhraWorks['v-m-thomas'] = [];
+
+// gurajala-jagan-mohan — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Gurajala Jagan Mohan, Chittoor, Telugu Desam Party, Winner 2024 (88,066 vote; M. Vijayananda Reddy [YSRCP] ko 14,604 maton se haraya). Umar 41, 5th Pass (halafnama; myneta), pesha Realtor/Businessman (purv film producer, Unicraft Movies), S/o Gurajala Chennakeshavulu Naidu. 1 halafnama mamla — affidavit-akela, Jun 2024+ nyayik vikas nahi. Pehchan-jaal pakka: Y. S. Jagan Mohan Reddy (YSRCP, Pulivendula, purv CM) bilkul alag vyakti; Palnadu jile ki Gurajala seat ke purv YSRCP MLA Kasu Mahesh Reddy bhi alag vyakti — dono ke karyakram khaarij kiye gaye.
+// REJECT-LOG:
+//  1. 'Dial Your MLA' jan-sunvai/sameeksha karyakram, Chittoor Municipal Corporation (~10 Jul 2024; The Hindu, article68392958) — MLA ne adhikariyon ke saath drainage/street-lights/roads ki shikayaton ki sameeksha ki; koi bhautik karya ka lokarpan/shilanyas nahi. Sirf nirikshan/sameeksha-jaisa → REJECT.
+//  2. Trauma care centre + emergency wing, Chittoor District Hospital (The Hindu, 9 Mar 2026) — lokarpan Transport Minister Mandipalli Ramprasad Reddy ne kiya; MLA Gurajala Jagan Mohan sirf upasthit. Dusre ke lokarpan me maujoodgi → REJECT.
+//  3. Overhead water tank, Kondamitta (Vinayakapuram), Chittoor (The South India Times epaper, 2 Sep 2026) — MP Daggumalla Prasada Rao + MLA ne milkar lokarpan kiya; lagat "Rs.31..." (epaper text me kati hui). Srot whitelist me nahi → REJECT. Retry-lead: whitelist media (Hindu/Hans/DC/ToI/HT) me isi khabar ka version mile to dobara check karo.
+//  4. Autism Centre building, Gudipala — bhoomi puja (The South India Times epaper, 29 Sep 2026) — MP + MLA ne ghoshna ki ki kendra Sarva Shiksha Abhiyan ke tahat Rs 28 lakh me ban raha hai; bhoomi puja MP ki maujoodgi me hui. Srot whitelist me nahi → REJECT. Retry-lead: whitelist media me version mile to dobara check karo.
+//  5. Reddygunta tank development works, Ramoji Foundation (ETV Bharat, 28 Sep 2026) — shilanyas Margadarsi MD Sailaja Kiron ne rakha; MLA sirf upasthit. Dusre ke shilanyas me maujoodgi → REJECT. (ETV Bharat vaise bhi whitelist me nahi.)
+//  6. Rajanna Foundation ALS ambulance (Rs 35 lakh) + P Kothakota (Puthalapattu) govt school modernisation (Rs 15 lakh) (soundnlight.in, credit: thehansindia) — Collector Sumit Kumar ne launch kiya; MLA sirf upasthit. CSR-funded sanrachna ka sirf udghatan-me-maujoodgi → REJECT.
+//  7. Chittoor Community Clinic, Mittoor ward (CMC Vellore press release, 10 Apr 2026) — inauguration CMC/district admin ne kiya; MLA "distinguished presence" me ribbon-cutting. Sirf maujoodgi; college ka apna sarkari-media srot nahi → REJECT.
+//  8. Kendriya Vidyalaya, Mangasamudram, Chittoor — "MLA ne KV Commissioner ko patra likha, isliye CCEA se manzoori" ka dawa sirf mytoletindia.in (real-estate blog) par; whitelist media me MLA ki vyaktigat bhoomika ka koi pramaan nahi (CCEA manzoori 1 Oct 2025 ki khabar CM/Post ke hawale se sabne cover ki). Dawe wala srot whitelist me nahi → REJECT. Retry-lead: Hindu/Hans/ToI me MLA-attribution mile to dobara check karo.
+//  9. MEPMA Dalit mahila par hamla vivad (The Hindu, 2 May 2026) — SC/ST Act ke mamle police ne "those named by the complainant" (MLA se jude group) ke khilaf darj kiye; MLA khud report me aaropi NAHI, aur unse jawab nahi mil saka ("The MLA could not be reached for a comment"). Shikayat me naam lekin FIR-aaropi column me naam nahi → negative criteria fail → REJECT. (Bharat Horizon ka gunmen-row version bhi isi ghatna ka hai — srot whitelist me nahi.)
+//  10. Bengaluru tippani par maafi (Telugu360, ~Aug 2026) — srot whitelist me nahi; vaise bhi aalochana-maafi negative criteria (FIR/chargesheet/adaltai aadesh) me nahi aati → REJECT.
+//  11. Kasu Mahesh Reddy / Gurazala model-village plan (Times of India, 2020) — Palnadu ki Gurajala seat, YSRCP ke dusre vyakti; pre-window bhi. Pehchan-jaal → REJECT.
+//  12. Nomination rally (TOI/The Hindu, 24 Apr 2024), "Swachh Chittoor" vada — pre-election ghoshna; karyakaal-window (Jun 2024+) se bahar → REJECT.
+//  13. 1 halafnama mamla (myneta.info candidate_id=34) — 'Charges Framed: No' ke saath purana affidavit mamla; Jun 2024+ ke baad girafrari/chargesheet/conviction/quash/adaltai aadesh ka koi established-media pramaan nahi. Akele affidavit = negative NAHI → REJECT.
+andhraWorks['gurajala-jagan-mohan'] = [];
+
+// kalikiri-murali-mohan — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Kalikiri Murali Mohan, Puthalapattu (SC), Telugu Desam Party (TDP), Winner 2024 (1,02,137 votes; M. Sunil Kumar, YSRCP ko 15,634 maton se haraya). Age 45, Ph.D. (Commerce, SV University, Tirupati, 2013), pesha Journalist (APUWJ ke ex-president), S/o Annaiah K Kalikiri. Halafname me naam 'K Murali Mohan' darj; 11 mamle (halafnama). PARTY-FLAG: task brief me 'JSP' likha tha — GALAT; foundation record (TDP) sahi hai: TOI, The Hindu aur Wikipedia sab 'TDP' darj karte hain. Edit nahi ki — sirf flag.
+// REJECT-LOG:
+//  1. Chittoor District HQ Hospital trauma care centre + emergency wing inauguration (The Hindu, 9 March 2026) — MLA 'was also present'; lokarpan Transport Minister Mandipalli Ramprasad Reddy ne kiya, fund Apollo Hospitals/Apollo University ka. Dusre ke karyakram me maujoodgi + seat ke bahar (Chittoor city, Puthalapattu nahi). REJECT.
+//  2. International Yoga Day event, PVKN Government Degree College grounds, Chittoor (The Hindu, 21 June 2026) — MLA ne Collector ke saath event launch kiya; sirf abhiyaan ka shubharambh, bhautik sanrachna nahi. REJECT.
+//  3. Tirupati Press Club felicitation + patrakaron ki samasyaon ka ashwasan (The Hindu, 16 June 2024) — sirf ashwasan/maang-uthana, koi nateeja/dastavej nahi. REJECT.
+//  4. TOI 'Puthalapattu TDP MLA launches bicycle distribution programme for school-going girls' (snippet: 'relaunched the scheme in Puthalapattu, benefiting fifteen students') — asal TOI article ka URL crawl me mila hi nahi (sirf related-stories block); fund srot (sarkari yojana vs niji/party kharch) bhi undisclosed. Retry-lead: agar article page + fund disclosure mile to dobara check karo.
+//  5. Sri Valli Devasena Sametha Subrahmanyeswara Swamy temple Brahmotsavams me silk garments (The South India Times e-paper, 7 Aug 2026) — dharmik samaroh/daan, vikas-karya nahi. REJECT.
+//  6. Rural journalists refresher course ka valedictory session, chief guest (truepoint e-paper, Oct 2026) — samaroh-maujoodgi, kaam nahi. REJECT.
+//  7. Pre-election campaign/maango-board wade stories (TOI Dec 2023, TOI Feb 2024, Deccan Chronicle, nowhyderabad) — karyakaal se pehle; 'sirf ghoshna' bhi. REJECT.
+//  8. punemetronews 'Kondru Murali Mohan ... Rajam constituency' — DUSRA VYAKTI (Rajam MLA, Kondru Murali Mohan). REJECT.
+//  9. ESI scam me 'Murali Mohan' (Pithani Satyanarayana ke secretary, 2020) aur Maganti Murali Mohan (ex-MP Rajahmundry) Rs 2 crore cash seizure case (2019) — dono DUSRE VYAKTI. Puthalapattu MLA se koi jod nahi. REJECT.
+//  10. TV5 News YouTube 'YSRCP Rude Behavior On ASI Jyothi In Puthalapattu' — YouTube = reject-list source; bina established-media confirmation ke koi negative banta hi nahi. REJECT.
+//  11. Halafname ke 11 mamle (myneta candidate_id=119) — 'charges framed' status ke saath purane mamle; Jun 2024+ ke baad koi girafrari/chargesheet/adalatai aadesh established media me nahi. Affidavit-akela = negative NAHI. REJECT.
+andhraWorks['kalikiri-murali-mohan'] = [];
+
+// n-amarnath-reddy — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: N. Amarnath Reddy (halafname me ‘Amaranatha Reddy. N’), TDP, Palamaner
+// (Chittoor jila, assembly constituency 174), 16th AP Vidhan Sabha 2024-2029 —
+// seat + party dono src/data/andhra.ts (foundation record, slug n-amarnath-reddy) se
+// pakki ki gayi. Pehchan-jaal: Akepati Amarnath Reddy (Rajampet, YSRCP) alag vyakti —
+// unse judi khabren (jaise Rajampet ULB nomination vivad, The Hans India 18 Oct 2026)
+// is profile se door rakhi gayin. Purv mantri (Industries, 2017-19); 2004 (Punganur),
+// 2009/2014 (Palamaner), 2024 (Palamaner) me jeet — sabhi karyakaal ke bahar.
+// Halafnama (myneta.info, AndhraPradesh2024): 2024 me 24 criminal cases declared,
+// lekin details me sirf purani FIR No.11/2005 (I Town PS Chittoor; IPC 147/148/427/149,
+// Prevention of Damage to Public Property Act; C.C. No.267/2007) darj — koi conviction
+// nahi, aur Jun 2024+ ka koi nyayik vikas established media me nahi mila, isliye
+// ‘affidavit-mamle akele = reject’ ke tahat negative NAHI banayi.
+// REJECT-LOG (sabhi whitelisted established media se search snippets/page text se verify):
+// (1) Deccan Chronicle — ‘Nellore, Chittoor MLAs Outline Vision for Development’
+//     (~June 2024): MLA ne kaha Palamaner me jal-sankat samadhan unki prathamikta,
+//     Gangana Sirasu project (Koundinya se interlink) ko tezi dena, international
+//     market committee, sadak samudaayik suvidhaon ka poora hona priority. REJECT:
+//     chunav-ke-aaspaas ka vision/ghoshna reporting — sirf priorities, koi dastaveji
+//     swikriti/lokarpan/nateeja nahi (pre-event ghoshna-report = source NAHI).
+// (2) The Hindu (10 Aug 2024): MLA ne V. Kota mandal HQ par 7th inter-district
+//     shooting-ball championship ka udghatan kiya; purvi TDP karyakaal me V. Kota
+//     mini stadium sanction + foundation stone hua tha lekin YSRCP ne ignore kiya;
+//     MLA CM se baat karne ki baat kahi. REJECT: sports EVENT ka udghatan hai,
+//     bhautik sarkari sanrachna ka vyaktigat lokarpan nahi; stadium ki swikriti
+//     2014-19 karyakaal ki hai (Jun 2024+ nahi), aur sirf ‘CM se baat karunga’
+//     = keval maang/ghoshna.
+// (3) The Hindu (1 Aug 2025): R&B Minister B.C. Janardhan Reddy ne Palamaner me
+//     Chittoor/Palamaner/Madanapalle road works ki sameeksha ki; MLA N. Amarnath
+//     Reddy sirf maujood the. REJECT: mantri ke review karyakram me maujoodgi —
+//     vyaktigat bhoomika ka srot me koi ullekh nahi.
+// (4) New Indian Express (10 Nov 2025): DyCM Pawan Kalyan ne Gajaramam Urban Forest
+//     Park ki neenv rakhi aur solar-powered hanging fence launch ki; Palamaner MLA
+//     N Amarnath Reddy ne ‘participated’ kiya. REJECT: DyCM ke karyakram me sirf
+//     shirkat — vyaktigat lokarpan/shilanyas/swikriti MLA ki nahi.
+// (5) webindia123 (ANI-based, 29 Oct 2022): TDP neta ke roop me YSRCP par aarop —
+//     pre-karyakaal rajnaitik bayan, REJECT (karyakaal se pehle + koi work nahi).
+// (6) The Hindu (2023): Lokesh ke Yuva Galam me Palamaner me police ne notice diya;
+//     pre-karyakaal + sirf notices, koi FIR-aaropi column nahi — negative reject.
+// (7) casemine.com judgment — ‘Nagappagari Amaranath Reddy v. State of AP’ alag
+//     vyakti (Nagappagari surname) ka bail petition hai; pehchan seat se pakki nahi
+//     hoti — negative reject.
+// (8) YouTube Telugu videos (S.M.NEWS 2025; ‘Palamaner industrial hub’) — whitelist
+//     me nahi; sirf videos; REJECT.
+// RETRY-LEADS (parent/live-browser ke liye): The Hans India par Palamaner-specific
+// development coverage (whitelisted) — search index me koi direct link nahi mila,
+// lekin thehansindia.com par site-level search batch me nahi hua; koi 403/timeout
+// lead nahi hai is baar.
+andhraWorks['n-amarnath-reddy'] = [];
+
+// n-chandrababu-naidu — 4 works + 0 negatives (mined 2026-10-19)
+// Pehchan: N. Chandrababu Naidu, Kuppam (TDP), Winner 2024 (1,21,929 vote; jeet ka antar 48,006) — Andhra Pradesh ke mukhyamantri (chauthe karyakaal; shapath 12 Jun 2024). Age 74, M.A. S.V. University, pesha Social Service (Politician), S/o Late Kharjura Naidu. Halafname me naam ‘Chandrababu Naidu Nara’; 19 mamle (affidavit). SABSE SAKHT seat-niyam lagu: sirf Kuppam seat ke kaam rakhe gaye — Amaravati/rajya-stariya faisle, TTD board, vibhagiya MoU, CM-nivasan karyakram, kendriya pariyojnaen bahar.
+andhraWorks['n-chandrababu-naidu'] = [
+  {
+    title: 'Kuppam Area Hospital me Andhra Pradesh ka pehla Tata MD Digital Nerve Centre (DiNC) khola — 13 PHC aur 92 Village Health Centre jodkar digital health pilot',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-opens-andhra-pradeshs-first-digital-nerve-centre-in-kuppam/article69768296.ece/amp/',
+    date: '2025-07-03',
+    note: 'The Hindu ki post-event report ke mutabik, N. Chandrababu Naidu ne Thursday ko Kuppam Government Area Hospital me rajya ka pehla-ever Digital Nerve Centre (Tata MD Digi Nerve Centre) khola — ye unhi ki Kuppam seat me sthit hai. Gates Foundation ke sahyog se bana ye kendra mareezon ke medical records digitize karega aur Kuppam Area Hospital ko 13 Primary Health Centres aur 92 Village Health Centres se jodta hai; continuous health monitoring, timely diagnosis, specialist consultations aur personal counselling jaisi suvidhaon ka dawa report me darj hai. Naidu ne PHC health officers se baat ki aur kaha ki pehle charan me Kuppam me, dusre me poore Chittoor jile me aur teesre me rajya-bhar me vistar hoga. Inferred-date disclosure: report me ghatna ko "Thursday" bataya gaya hai — 3 Jul 2025 Thursday tha, isliye ye tareekh li gayi hai (PTI/news18 ne bhi 3 Jul 2025 ko isi lokarpan ki khabar di).',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kuppam (Gudipalli/Kangundi) me paryatan-shiksha package — Kangundhi Fort par Bouldering Park aur Punnami Resorts ka lokarpan; Agastya Academy aur Teachers Training Centre khule; Learners Accommodation, Oberoi Visitors Centre aur Rs 4 crore paryatan karyon ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/ap-chief-minister-launches-series-of-tourism-initiatives-in-kuppam/article70571396.ece',
+    date: '2026-01-30',
+    note: 'The Hindu (30 Jan 2026) aur The New Indian Express (31 Jan 2026) ki post-event reports ke mutabik, CM N. Chandrababu Naidu ne teen-divasiya Kuppam daure ke pehle din Gudipalli aur Kuppam Rural mandals me paryatan-shiksha karyon ka lokarpan/shilanyas kiya. Lokarpan: Heritage Village–Bouldering Park (Kangundhi Fort, District Tourism Council dwara Rs 35 lakh me vikasit; rock-climbing sahit adventure tourism), Punnami Resorts (18 kamre, amphitheatre, meeting hall, restaurant), Gudipalli me Agastya Vidyachal Academy (Rs 3 crore) aur uske campus me Teachers Training Centre (11,000 sq ft, Rs 3 crore — har saal lagbhag 5,000 teachers/school leaders ko prashikshan ka dawa). Shilanyas: Learners Accommodation Facility (Rs 10 crore), Oberoi Visitors Centre (Rs 2 crore) aur paryatan vikas karya Rs 4 crore (APSBCL CSR allocations se fund disclosed — khud CM ne shilanyas kiya). Saath hi heritage village me aage ke karyon ka foundation plaque (Rs 1 crore) aur ‘Discover Kuppam’ paryatan website bhi launch hui. Website digital launch hai (bhautik sanrachna nahi) — is entry ka vishay bhautik karyon tak seemit hai, website sirf soochna hetu darj.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Swarna Kuppam pahal (teen-divasiya daura, Jul 2026) — Kuppam Area Hospital me CT scan/dialysis kendra, APIIC MSME Park, solar rooftop aur RESCO substations ka lokarpan; Rs 118 crore model bus station ka shilanyas; Kangundi bhoomi vivaad suljhakar 322 labharthiyon ko DKT patte',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-naidu-wraps-up-week-long-district-tour-1968636',
+    date: '2026-07-04',
+    note: 'Deccan Chronicle ki post-event report (5 Jul 2026, week-long tour wrap-up) ke mutabik, Naidu ne 3–5 Jul 2026 ko apni Kuppam seat ke teen-divasiya daure me Swarna Kuppam pahal ke tahat 30 se adhik pariyojnaen launch ki — kul nivesh Rs 9,322 crore ka dawa (Adidas footwear manufacturing, aircraft training sahit; 87,000 pratyaksh-apratyaksh naukriyon ka CM ka dawa — nivesh/yojana aankde report ke hawale se, satyapit poornata nahi). Bhautik lokarpan/shilanyas (is entry ka vishay): Kuppam Area Hospital me CT scan aur dialysis suvidhaon ka lokarpan, APIIC MSME Park ka lokarpan, solar rooftop projects aur RESCO substations ka lokarpan, aur Rs 118 crore ke model bus station ka shilanyas. Kangundi ke dashkon purane bhoomi vivaad ke samadhan ke baad 322 labharthiyon ko DKT patte baante gaye — ye bhoomi-adhikar dastavej vitran hai (pattadhariyon ki suchi itemized report me nahi mili). Isi daure me ABIS Proteins ki chicken processing unit ka bhi lokarpan hua — wo niji company ki pariyojna hai, isliye entry se bahar (reject-log dekho). Inferred-date disclosure: report tour-samapti ki hai (5 Jul) aur karyon ko "three-day Kuppam visit" bataya gaya — 3–5 Jul ke dauran mukhya Kuppam karyakram 4 Jul (Saturday) ko hue (PTI/net-zero report bhi 4 Jul ki hai), isliye 2026-07-04 tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Kuppam daure (Sep 2026) me Rs 38 crore nagarpalika karyon ka shilanyas — RDO/DSP karyalay, high-mast lights, underground utilities; 14–15 MW PM-KUSUM solar, 35 schools, degree college aur mahila aspatal bhavan, Rs 3.30 crore waste plant ka lokarpan; 36,459 krishi motoron ka solar roopantaran launch',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/comprehensive-plan-to-transform-kuppam-into-a-model-constituency-and-swarna-kuppam-cm-1989360',
+    date: '2026-09-21',
+    note: 'Deccan Chronicle (21 Sep 2026), Times of India (22 Sep 2026), The New Indian Express (22 Sep 2026) aur PTI ki post-event reports ke mutabik, CM Naidu ne Monday (21 Sep 2026) ko apni Kuppam seat ke daure me: (1) lokarpan — Rs 3.30 crore ka integrated solid waste management aur material recovery plant; krishi feeders ke liye 14–15 MW PM-KUSUM solar projects; degree college aur mahila aspatal ke poorna bhavan; NAC building me Manasa Sarovar Global University ka skill development centre; 35 schools me vikas karya; (2) launch — 36,459 krishi power motoron ko solar me badalne ka karyakram (Rs 60 crore); (3) shilanyas — Mallanur me lagbhag 10 acre par junior college (TOI ke mutabik Rs 27 crore), Rs 2 crore ka aadhunik Rythu Bazaar, Kuppam market yard me Rs 2.50 crore ke karya, aur nagarpalika kshetra me Rs 38 crore ke karya (RDO aur DSP karyalay Rs 13 crore, high-mast streetlights Rs 8 crore, Rs 184 crore ki underground utility yojna — DC/TOI ke mutabik yojna me shamil). Data-virodh disclosure: (a) 35 schools ke karyon ki lagat TOI/DC me Rs 15 crore, TNIE me Rs 10 crore darj hai — dono aankde reports ke hain; (b) RDO/ASP karyalay PTI ke mutabik Rs 10 crore, TOI/DC/TNIE me RDO/DSP Rs 13 crore darj hai — reports me hi antar; (c) CM ka dawa: do mahine pehle (Jul 2026) ke daure me Rs 7,939 crore ki pariyojnaen li gayin thin aur is daure me Rs 289 crore ki pariyojnaen — ye CM ke dawe ke roop me darj, satyapit poornata nahi. Isi daure ki ghoshnaen (airport, Yamiganipalli/Manapalli jalashay, 550 talabon ko jodna, har ghar rooftop solar, 8,500 mahila prashikshan, 32 udyog) sirf ghoshnaen hain — entry se bahar. Dadar-Puducherry aur Vasco-Velankanni Express ko Kuppam par atirikt thahrav — kendriya railway seva, bhautik seat-sanrachna nahi — entry se bahar.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG — n-chandrababu-naidu (Kuppam; seat-niyam sabse sakht)
+// [REJECT niji-nivesh-shilanyas] 7 udyogon ka virtual shilanyas (8 Nov 2025; TNIE + The Hindu) — Hindalco, Srija Dairy, Ace International, SVF Soya, Mother Dairy, E-Royce EV, ALEAP Women’s Park; kul nivesh Rs 2,203 crore, 241 acre, 22,330 naukriyon ka dawa. Niji-company nivesh hai, sarkari sanrachna nahi — bhautik-sarkari-niyam par REJECT.
+// [REJECT pre-event-ghoshna] Virtual MSME industrial parks (11 Nov 2025; Deccan Chronicle) — Venkatapuram MSME park (Rs 14.30 crore, 68 acre) ka lokarpan aur Pandarlapalli (Kuppam) me factory complex (Rs 15.66 crore, 5 acre) ka shilanyas "will virtually launch" — pre-event report. Retry-lead: post-event report mile to.
+// [REJECT sirf-MoU] 7 companies ke Rs 675 crore nivesh samjhote (PTI/news18, 30 Jan 2026) + KADA MoUs (Jul/Sep 2026 reports) — sirf samjhauta, shilanyas/lokarpan nahi. REJECT.
+// [REJECT niji-pariyojna] ABIS Proteins chicken processing unit lokarpan (Jul 2026; DC) — niji company ki unit. REJECT. (Isi daure ka APIIC MSME Park sarkari hai — valid entry me hai.)
+// [REJECT CSR-daan + non-whitelist] Paytm Foundation ki 2 life-support ambulances ka flag-off (2 Jul 2025; newspatrolling) — CSR daan, khud-ka-kharch nahi phir bhi daan-shreni; srot bhi whitelist me nahi. REJECT.
+// [REJECT rajya-vyapi + non-whitelist] Rs 11,359 crore ke shahari projects ka Kuppam se virtual launch (23 Sep 2026; rjassociatesmedia) — 123 nagarpalikaon ke liye rajya-stariya package, seat-kaam nahi; srot bhi non-whitelist. REJECT.
+// [REJECT kendriya-seva] Dadar-Puducherry / Vasco-Velankanni Express ke Kuppam par atirikt thahrav ka flag-off (21 Sep 2026) — railway seva, bhautik seat-sanrachna nahi. REJECT.
+// [REJECT sirf-ghoshna] Kuppam airport, Yamiganipalli/Manapalli jalashay, 550 minor irrigation tanks interconnection, Beeruvanipalle jalashay (Rs 45 crore), har ghar rooftop solar, 8,500 mahila digital literacy, 32 udyog sthapna ke dawe — sirf ghoshnaen/yojnaen, post-event lokarpan/shilanyas nahi. REJECT.
+// [REJECT rajya-faisla] Amaravati nirman, TTD board faisle, vibhagiya MoU, CM-nivasan karyakram, state cabinet ke faisle — seat ke bahar, pehle se hi scope se bahar; alag se soochibaddh nahi.
+// [NOTE raahat — negative NAHI] Skill development (APSSDC-Siemens) mamla: ED ne 31 Jan 2026 ko PMLA court (Visakhapatnam) me supplementary prosecution complaint dayar ki — Naidu ko aaropi NAHI banaya, money-laundering me koi bhoomika nahi mili (TOI, 1 Feb 2026). AP CID ne Apr 2024 me Naidu sahit chargesheet dayar ki thi (window se pehle), lekin trial court ne Sep 2025 me use wapas kar diya; Vijayawada court ne CID ki closure report sweekar kar Naidu ke khilaf jaanch band kar di. Raahat hai, pratikool vikas nahi — isliye negative entry NAHI.
+// [NOTE raahat — negative NAHI] Amaravati land-pooling FIR (Crime No. 5 of 2021, CID Amaravathi): AP High Court ne 15 Jul 2026 ko Naidu aur P. Narayana ke khilaf FIR radd ki; Supreme Court ne 14 Aug 2026 ko chunauti kharij kar quashing barkarar rakhi (SLP(Crl) 14193/2026). Raahat hai — negative NAHI. Source-note: abhi tak sirf legal portals (livelaw/legalserviceindia) par mila — whitelist coverage retry-lead.
+// [REJECT affidavit-akela] Halafname ke 19 mamle (myneta candidate_id=108) — Jun 2024+ ke baad koi girafrari/chargesheet/conviction/adaltai aadesh ka whitelist pramaan nahi. Negative NAHI.
+// Negatives: whitelist media me N. Chandrababu Naidu KHUD aaropi wali koi Jun 2024+ pratikool FIR/chargesheet/adaltai aadesh nahi mili — dono bade mamle (skill-dev, Amaravati land-pooling) 2026 me unke paksh me niptre (upar raahat-notes). Isliye negatives = 0.
+// Retry-leads: (1) Jul 2026 ke Rs 9,322 crore / 30 projects ki itemized suchi — vyaktigat sarkari pariyojnaon ko alag-alag entries me todne ke liye; (2) Nov 2025 virtual MSME parks (Venkatapuram Rs 14.30 cr; Pandarlapalli Kuppam Rs 15.66 cr) ki post-event report; (3) Amaravati FIR-quashing (Aug 2026) aur skill-dev closure ka whitelist (Hindu/TOI/TNIE) coverage; (4) 7-udyog foundation me kisi pariyojna ka sarkari fund-share disclosed ho to.
+
+
+// ==== Tirupati (Batch 8) ====
+// pasam-sunil-kumar — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Pasam Sunil Kumar, Gudur (SC), Telugu Desam Party, Winner 2024 (1,02,675 vote; runner-up Meruga Murali, YSRCP, 81,483 — antar 21,192). 1969 janm; S/o Late Pasam Penchalaiah (kisan); M.A. 1992, Sri Venkateswara University, Tirupati; Ph.D. Adult Education; pesha Social Worker. Pehle Gudur Municipal Chairman (TDP ticket), 2014 me YSRCP se MLA jeete (TDP ki Dr Bathala Jyothsna Latha ko 9,048 se haraya), April 2016 me TDP me wapas, 2019 TDP ticket par haare (Velagapalli Varaprasad Rao, YSRCP se 45,458 se), 2024 TDP se phir jeete. Pehchan-jaal dhyan rakha gaya: IPS officer P. V. Sunil Kumar (Custodial-torture FIR wala) aur Karnataka BJP MLA Sunil Kumar (Narayanaguru Corporation/Kasturirangan wala) — dono alag vyakti.
+// REJECT-LOG:
+//  1. Gudur district-maang (Deccan Chronicle, 7 Aug 2025) — MLA ne Assembly me Gudur ko Nellore me merge / alag jila banane ki maang uthai; report ke mutabik minister Nara Lokesh ne 'positively respond' kiya; lekin koi sanction/GO/nateeja nahi, sirf maang-prastav hai. REJECT (sirf maang).
+//  2. District-reorganisation reporting (New Indian Express, 2 Dec 2025) — Batch-1 QA precedent ke anusar NIE whitelist-bahar, aur ye bhi maang-reporting hi hai. REJECT.
+//  3. Parole sifarish vivad (Aug 2025; Deccan Chronicle + Times of India + ThePrint) — Gudur MLA Pasam Sunil Kumar ne Nellore Central Prison ke life-term convict/rowdy-sheeter A. Srikanth ki parole ki sifarish letter diya, khud swikar kiya (DC: 'admitted to giving a letter recommending the parole'); Home department ne parole 12 Aug ko radd karke wapas jail bheja. MLA ke khilaf koi FIR/chargesheet/janch/adaltai aadesh established media me nahi → party-political row, negative criteria fail. REJECT (negative NAHI).
+//  4. 2024 halafname ke 14 declared cases (myneta.info, candidate_id=5531) — Crime-O-Meter 'No criminal cases'; Jun 2024+ me koi nyayik vikas (girafrari/chargesheet/conviction/adaltai aadesh) established media me nahi → affidavit-akela, negative NAHI. REJECT.
+//  5. PV Sunil Kumar IPS case (Uday India) — pehchan-jaal, dusra vyakti (police officer). REJECT.
+//  6. ibcworldnews 'MLA Sunil Kumar' items — Karnataka BJP MLA, pehchan-jaal + source non-whitelist. REJECT.
+//  7. firsttender Gudur tender notices — MLA se jod ka pramaan nahi. REJECT.
+//  8. Gadkari 29 NH projects Mangalagiri (PIB) — kendriya pariyojna; Gudur MLA ki vyaktigat bhoomika ka pramaan nahi. REJECT.
+//  9. 2016 TDP me wapasi (The Hindu/Business Standard, Apr 2016) — works window (Jun 2024+) se bahar. REJECT.
+andhraWorks['pasam-sunil-kumar'] = [];
+
+// nelavala-vijayasree — 0 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Nelavala Vijayasree, Sullurpeta (SC), Telugu Desam Party, Winner 2024 (1,11,048 votes; runner-up Kiliveti Sanjeevaiah/YSRCP 81,933 ko 29,115 maton se haraya). Age 37, MBBS (Narayana Medical College, Nellore, 2022), D/o Nelavala Subramanyam, pesha Doctor. Halafname me 0 aaparadhik mamle. First-time MLA — praadeshik media me khabar bahut kam, isliye whitelist sources me koee vyaktigat karyakaal kaam nahi mila.
+// REJECT-LOG:
+//  1. Renovated Sullurpeta railway station inauguration (The Hindu, 22 May 2025) — station PM Modi ne virtual mode me udghata (Amrit Bharat Station, Rs 14.5 crore); MoS Pemmasani Chandrasekhar ne program lead kiya; MLA Nelavala Vijayasree sirf upasthit thi. Dusre neta ke karyakram me maujoodgi. REJECT.
+//  2. Flamingo Festival 2025 kickoff, Sullurpeta (New Indian Express, 19 Jan 2025) — Tourism Minister K. Durgesh ke saath MLA ne karyakram ka udghatan kiya; ye utsav/abhiyaan ka keval shubharambh hai (koee bhautik sarkari sanrachna nahi). REJECT.
+//  3. Flamingo festival boating facility, B.V. Palem (The Hindu, 20 Jan 2025) — Collector ke saath MLA ne boating facility ka udghatan kiya; ye festival-attraction hai, sarkari sanrachna-nirman ka sthayi record nahi, fund bhi undisclosed. Festival ke frame me REJECT.
+//  4. Flamingo Festival 2025 conclusion (New Indian Express, 21 Jan 2025) — MLA ne CM/Minister ko dhanyavaad diya aur festival ko saalana parampara banane ki yojana ki ghoshna ki; sirf ghoshna. REJECT.
+//  5. Flamingo Festival 2026 press conference (New Indian Express, 8 Jan 2026) — Collector + SP ke saath MLA press conference me upasthit; maujoodgi matra. REJECT.
+//  6. Flamingo Festival 2026 coordination meeting (Deccan Chronicle, Dec 2025) — MLA ne officials ko prabandh majboot karne ka aagrah kiya; keval bayanat, nirikshan matra. REJECT.
+//  7. TER regional economic review meeting (The Hans India, Sep 2026) — MLA ne Pulicat aur Sriharikota ke liye master plan ki maang rakhi; sirf maang/prastav, nateeja nahi. REJECT.
+//  8. CM wedding attendance, Srikalahasti (The Hans India, Aug 2026) — CM ke karyakram me upasthiti; vikas-kaam nahi. REJECT.
+//  9. AP Home Minister Anitha ka Ambedkar statue case daura (New Indian Express, 12 Oct 2025) — MLA sirf minister ke saath thi; maujoodgi matra. REJECT.
+//  10. Pehchan-jaal check: 'Sullurpeta MLA Somireddy Chandra Mohan Reddy' ullekh (TSIT e-paper, 30 Aug 2026) — purana naam/galat; vartaman MLA Nelavala Vijayasree hain; entry usse sambandhit nahi. REJECT.
+//  11. Parole-recommendation vivad (Deccan Chronicle/TOI, 2025): Kotamreddy Sridhar Reddy + Pasam Sunil Kumar ke letters; pichhle regime me Kiliveti Sanjeevaiah ka bhi ullekh — teeno log Nelavala Vijayasree se ALAG vyakti hain. Unpar charge NAHI. REJECT.
+//  12. Negative-check (The Hindu, TOI, Hans India, NIE, DC): Jun 2024 se ab tak Nelavala Vijayasree par koee FIR, chargesheet, jaanch ya adalati vikas ki khabar NAHI mili. Halafnama bhi 0 criminal cases. Koi negative entry nahi banti.
+// RETRY-LEAD (bhavishya worker ke liye): Telugu media (Sakshi/Eenadu — whitelist se bahar) me unke karyakaal ke shilanyas/lokarpan ho sakte hain; agar whitelist outlet (Hindu/Express/Hans/DC/TOI) me same story mile to valid entry ban sakti hai. AP Assembly question records (aplegislature) abhi search me accessible nahi the — dastaveji sawaal-nateeja mile to valid hoga.
+andhraWorks['nelavala-vijayasree'] = [];
+
+// kurugondla-ramakrishna — 2 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Kurugondla Ramakrishna, Venkatagiri, Telugu Desam Party, Winner 2024 (1,04,398 vote; runner-up Nedurumalli Ramkumar Reddy YSRCP, 88,104 — antar 16,294). Foundation record se pakki: seat Venkatagiri, party TDP, 2009/2014 ke jeet ke baad 2019 me haare, 2024 me teesri jeet — koi party badlav nahi (2026-10-15 ko published iNews Telugu video bhi 'three MLA election victories' kehta hai; party-flag: koi nahi). Age ~62, 5th Pass, pesha Business, 2024 halafname me 12 mamle.
+andhraWorks['kurugondla-ramakrishna'] = [
+  {
+    title: 'Venkatagiri mandal me chhah se zyada adivasi bastiyon ko sadak-sampark — TVS ke Srinivasa Services Trust ki Rs 48 lakh ki sadak aur Guruginja nahar par pul ka MLA aur Collector dwara lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/six-tribal-hamlets-get-road-connectivity-in-venkatagiri/article69839191.ece',
+    date: '2025-07-21',
+    note: 'The Hindu ki post-event report ke mutabik, Venkatagiri mandal (Tirupati district) ke chhah se zyada adivasi bastiyon ko Mogallagunta gaon ke paas nayi sadak se sampark mila; Venkatagiri MLA Kurugondla Ramakrishna aur Collector S. Venkateswar ne sadak ka aupcharik lokarpan kiya, jabki TVS Company ke Srinivasa Services Trust ke Chairman Swaran Singh upasthit the. Report me darj hai ki TVS Company ne sadak banayi aur Guruginja nahar par pul 7 mahine me Rs 48 lakh ki laagat se banaya gaya, jo Periyavaram, Mogallagunta, Kotlagunta, Thimmayyagunta, Busipalem aur anya bastiyon ko jodta hai. Fund-source disclosure: nirmaan TVS ke Srinivasa Services Trust ne karaya (CSR); MLA ne khud lokarpan kiya aur fund report me disclosed hai, isliye strict fund rule par valid. Inferred-date disclosure: report 21 Jul 2025 (8:35 pm IST) ko prakashit hui aur lokarpan ko ‘Monday’ bataya gaya — 21 Jul 2025 Monday tha, isliye ye tareekh li gayi hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Mantri ke bayan ke mutabik, sthaniya MLA ke anurodhon par Venkatagiri ke mandiron me vikas-karya — Poleramma Jatara me dhyaan-bhavan ka shilanyas evam nidhi-swilkriti, Yachavaram mandir ke liye nidhi avan karya-prarambh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/adilakshmi-temple-works-with-rs-65-crore-launched-at-penchalakona-1919048',
+    date: '2025-11-23',
+    note: 'Deccan Chronicle ki post-event report (Penchalakona me Sri Adilakshmi Ammavari mandir ke Rs 6.50 crore punarnirman ka shilanyas samaroh, 23 Nov 2025) me Endowments Minister Anam Ramnarayana Reddy ka bayan darj hai: Venkatagiri constituency ke kai mandir ‘sthaniya MLA ke anurodhon’ par vikasit kiye ja rahe hain; Venkatagiri Poleramma Jatara me dhyaan-bhavan (meditation hall) ka shilanyas ho chuka hai aur nidhi swikrit ho chuki hai; Balayapalli mandal ke Yachavaram mandir ke liye bhi nidhi avan karya prarambh ho gaya hai. Credit capped: Penchalakona ka shilanyas mantri ne kiya tha aur MLA samaroh me sahbhagi the — is entry ka shrey sirf mantri ke bayan me darj dastavezi parinam (nidhi-swilkriti + karya-prarambh, anurodh sthaniya MLA ka) tak seemit hai; MLA ke khud ke shilanyas/lokarpan ka dawa report me nahi hai. Note: Adilakshmi mandir ka khud ka shilanyas mantri ka karyakram tha, MLA ki keval maujoodgi — reject log me alag se darj.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG — kurugondla-ramakrishna (Venkatagiri)
+// [REJECT dusre-neta-ka-karyakram] Penchalakona Adilakshmi mandir Rs 6.50 crore punarnirman ka shilanyas (DC, 23 Nov 2025) — Endowments Minister Anam Ramnarayana Reddy ne shilanyas kiya; MLA ‘joined the minister for the formal commencement’ — keval maujoodgi, vyaktigat bhoomika nahi.
+// [REJECT nirikshan/daura] Penchalakona Penusila Lakshmi Narasimha Swamy mandir ka mantri ka daura + ‘phased development’ bayan (The Hindu, 21 Feb 2025) — sirf daura aur charcha; MLA saath the.
+// [REJECT nirikshan/maujoodgi + mantri-karyakram] Poleramma Jatara vyavastha samiksha baithak (Hans India, ~Sep 2026) — Collector ki adhyakshata, MLA ne vyavasthaon par bayan diye — koi bhautik karya nahi.
+// [REJECT mantri-karyakram-maujoodgi] Poleramma Jatara me mantri dwara sarkar ki or se pattu-vastram arpan (Hans India, 2 Oct 2026) — mantri ne arpit kiye, MLA saath the; Rs 40 lakh Jatara nidhi + Rs 50 lakh salana state-festival grant = mantri/sarkar ka ailaan, MLA ki bhoomika nahi.
+// [REJECT sirf-maang] Penchalakona tak double road ke liye Forest Department clearance ka mantri se anurodh (DC, 23 Nov 2025) — MLA ne kaha ‘request had been made’ — sirf anurodh. Retry-lead: clearance milne ki post-event report mile par.
+// [REJECT pre-election-sirf-bayan] Althurupadu pariyojna (Rs 400 crore storage tank + lift irrigation) ka mudda — TOI (Apr 2024, Rachabanda campaign, beti Lakshmi Priya ka bayan) — pre-window campaign statement; Jun 2024 ke baad is par koi post-event/prathamik pragati report whitelist media me nahi mili. Retry-lead: sarkari pragati/post-event report mile par.
+// [REJECT candidate-badlav] TDP ticket pahle Lakshmi Priya, baad me pita Ramakrishna ko (NIE, 22 Apr 2024) — chunav se pahle ka badlav, window se bahar.
+// [REJECT non-whitelist] iNews Telugu YouTube political story (Oct 2026) — YouTube reject source.
+// Negatives: (a) KURUGONDLA RAMAKRISHNA v. State of AP (casemine; FIR 153/2023, Venkatagiri PS; anticipatory bail order 24 Aug 2023) — FIR/mamla pre-window (Aug 2023); established media me coverage nahi; Jun 2024+ koi nyayik vikas nahi mila → negative criteria fail. (b) The Hindu 6 Jul 2014 ‘non-bailable case against TDP MLA’ — 2014 ka mamla, pre-window. (c) 2024 halafname ke 12 mamle — akele affidavit, koi charges-framed/conviction ka Jun 2024+ pramaan nahi → negative nahi.
+// Retry-leads: (1) Penchalakona double-road Forest clearance ka parinam; (2) Rs 6.50 crore Adilakshmi mandir punarnirman poornata report me MLA ki bhoomika; (3) Althurupadu pariyojna ki post-June-2024 sarkari pragati report.
+
+// pulivarthi-venkata-mani-prasad — 1 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Pulivarthi Venkata Mani Prasad (Pulivarthi Nani), Chandragiri, Telugu Desam Party; 2024 me pehli baar MLA — Chevireddy Mohith Reddy (YSRCP) ko 43,852 maton se haraya (The Hindu, 5 Jun 2024); 2019 me bhi TDP se lade the, haare the. Seat: Tirupati (Rural) mandal poori tarah Chandragiri AC (166) me hai — parishodhan-schedule (Delimitation Order 2008 / AP Reorganisation Act schedule) ke mutabik 166. Chandragiri = Tirupati (Rural), Chandragiri, Pakala, Ramachandrapuram, Chinnagottigallu, Yerravaripalem mandals + Tirupati (Urban) ke Konkachennaiahgunta/Mangalam/Chennayyagunta gaon. TTD-sambandhi kaam is profile me nahi dale gaye (TTD ke faisle MLA ka kaam nahi; TTD-fund wale kshetr-kaamon me MLA ki vyaktigat dastaveji bhoomika kahin nahi mili).
+andhraWorks['pulivarthi-venkata-mani-prasad'] = [
+  {
+    title: 'Upparapalli (Tirupati Rural mandal) me SPMVV campus se Chennai-Bengaluru highway tak 1.1 km VIP sadak ke vistar ka shilanyas — Rs 9 crore ki TUDA-funded pariyojna, footpath, divider aur central lighting sahit',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/foundation-stone-laid-for-expansion-of-vip-road-at-upparapalli-in-tirupati/article70758650.ece',
+    date: '2026-03-18',
+    note: 'The Hindu ki post-event report ke mutabik, Chandragiri MLA Pulivarthi Venkata Mani Prasad (Nani) aur TUDA Chairperson C. Divakar Reddy ne milkar Upparapalli (Tirupati) me sadak vistar ka Bhumi Puja kiya. 1.1 km lambi ye sadak SPMVV campus ko Chennai-Bengaluru national highway ke Ramanujapalli checkpost se jodti hai aur airport se aane wale VVIPs iska niyamit istemal karte hain; ye Vellore aur Bengaluru ki or jaane wale Tirumala yatriyon ko aasan nikasi bhi degi. Kul lagat Rs 9 crore, TUDA-funded pariyojna — road widening ke saath footpath, divider aur central lighting ka kaam shamil hai. MLA ne kaha ki sarkar sadkon aur highways ke vikas par dhyan degi. Date disclosure: report 18 Mar 2026 (09:05 pm IST) ko prakashit hui aur karyakram ko ‘Wednesday (March 18)’ bataya gaya — calendar check par 18 Mar 2026 Wednesday hai, isliye yahi tareekh li gayi. Seat-location disclosure: Upparapalle Tirupati (Rural) mandal ke Thummalagunta Gram Panchayat ka ek hamlet hai (AP sarkari GO G.O.Ms.No.216, 31.12.2019); parishodhan-schedule me Tirupati (Rural) mandal poori tarah 166. Chandragiri AC me hai — isliye kaam MLA ki seat ke andar hai. Ye sanyukt (joint) shilanyas hai — MLA ne TUDA chairperson ke saath Bhumi Puja kiya, isliye bhoomika sanyukt-swaroop me darj hai.',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG — pulivarthi-venkata-mani-prasad (Chandragiri)
+// [REJECT private-initiative] Old age home foundation stone, Rangannagarigadda village (Chinnagottigallu mandal) — The Hindu 25 Aug 2024: pehal gaon ke bujurg Siddarami Reddy ke parivar/benefactor Venkata Reddy ki thi (niji daan se); sarkari sanrachna nahi, sarkari fund nahi.
+// [REJECT maujoodgi + dusre-neta-ka-karyakram] 8 master-plan roads ki bhumi puja (The Hindu, Oct 2026): CM ne virtually shilanyas kiya (Rs 190.89 crore, TUDA + TTD funds); MLA Pulivarthi Nani sirf ‘participated in the event’ — TTD-fund wale is kaam me unki vyaktigat dastaveji bhoomika nahi.
+// [REJECT mukhya-atithi/samaroh] SVIMS Pink Bus cancer screening camp ka udghatan, Naravaripalle (The Hindu, 11 Mar 2026): MLA ne camp launch kiya — camp samaroh hai, bhautik sarkari sanrachna nahi.
+// [REJECT mukhya-atithi] APPUSMA Best Teacher Awards-2026 (The Hans India, Oct 2026): MLA chief guest — puraskar samaroh, vikas karya nahi.
+// [REJECT maujoodgi/dusre-neta-ka-karyakram] CM ka Naravaripalle karyakram (Jan 2026; metroindia + capitalinformation epaper OCR): Rs 4.27 crore 33/11 kV substation, CHC 30 se 50 bed upgrade, Rs 126 crore paani pariyojna — CM ne udghatan/shilanyas kiya, MLA Pulivarthi Nani keval maujood (‘attended’). Srot capitalinformation/deccanrepublic bhi whitelist me nahi.
+// [REJECT koi-kaam-nahi] Talakona Siddheswara temple arrangements (The Hindu, 10 Feb 2026): MLA ne calendar release kiya aur Mahasivaratri prabandhon par nirdesh diye — koi bhautik vikas karya nahi (ye mandir Endowments vibhag ke tahat hai, TTD ke nahi).
+// [REJECT mukhya-atithi + sirf-ashwasan] APWJF district conference (Mar 2026; Hans India reference): MLA ne conference ka udghatan kiya aur patrakaron ko house-sites ka ashwasan diya — ashwasan, koi dastaveji nateeja nahi.
+// [REJECT maujoodgi + non-whitelist] Ramoji Foundation Reddygunta Tank vikas karyakram (etvbharat, 28 Sep 2026): MLA Pulivarthi Nani sirf maujood; srot whitelist me nahi.
+// [REJECT pre-election + bayan] Punganur incident par media conference (The Hindu, 17 Oct 2026): party-raajneetik bayan, koi vikas karya nahi.
+// [REJECT jeet-ki-khabar] TDP hoists flag on Chandragiri fort after three decades (The Hindu, 5 Jun 2024) + villagers trek to Tirumala (The Hindu, 16 Jun 2024): jeet/samarthan ki khabrein — works entry nahi.
+// Negatives: MLA KHUD aaropi — (a) May/Jul 2024 me unki car par hamla: wo PEEDID (victim) the, 13 hamlavar giraftar hue (The Hindu 16 May 2024); rival Chevireddy Mohith Reddy attack case me aaropi hai — pehchan-jaal par rival ka mamla yahan reject; (b) YSRCP ka ‘stage-managed attack’ aarop (The Hindu, Jul 2024): rival ka raajneetik aarop, MLA ke khilaf koi FIR/chargesheet/adalati aadesh nahi; (c) CID voter-list probe (NIE, 18 Jul 2024): Nani complainant tha, aaropi nahi; (d) 2019 repoll clash me unke khilaf case (PTI/Business Standard, 19 May 2019): Jun 2024 karyakaal se pehle ka election-mamla. Isliye 0 negatives.
+// Retry-leads: (1) Upparapalli VIP road (Rs 9 crore) ki poornata ki post-event report mile par — report me completion timeline nahi thi; (2) Daminedu/Kotramangalam/Ithepalle master-plan sadken — agar MLA ne kisi sadak ka vyaktigat shilanyas/lokarpan kiya ho to dobara check karo (CM ne virtually kiya tha, isliye filhal sirf maujoodgi); (3) Chandragiri fort tourism/vikas par koi itemized dastaveji report mile par.
+
+// arani-srinivasulu — 3 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Arani Srinivasulu, JSP, Tirupati (Tirupati jila). Pehli baar Tirupati se (2019-2024 Chittoor se YSRCP MLA the; Mar 2024 me YSRCP se nilambit, phir JSP me shamil — The Hindu). Purv mantri. TTD board/trust ke faisle is profile me BILKUL NAHI; TMC ke kaam sirf vyaktigat dastaveji bhoomika par (koi nahi mila).
+// REJECT-LOG:
+//  1. Integrated Command and Control Centre, Tirupati (The Hindu, 17 Apr 2026; Rs 120 crore TSCCL) — text me likha hai ki District Collector ne udghatan kiya, MLA Arani Srinivasulu upasthit the; photo-credit se bhram hota hai. Sirf maujoodgi. REJECT.
+//  2. Daminedu me 38 acre me sports city ka ailaan (The Hindu, 23 Apr 2025) — sirf ghoshna; shilanyas/lokarpan nahi. REJECT.
+//  3. Vinayaka Sagar safai abhiyan udghatan (thehmars.onrender.com — gair-whitelist; Hans India par coverage nahi mila) + Malvadigundam canal safai drive (The Hans India, 20 Sep 2026) — safai abhiyanon ka keval shubharambh. REJECT.
+//  4. National Deworming Day launch, EMR ZP High School, MR Palli (The Hans India, Sep 2026) — dawai vitaran/abhiyan launch; bhautik sanrachna nahi. REJECT.
+//  5. Neeva Branch Canal se Kalyani Dam tak Rs 126 crore water project ka shilanyas, Naravaripalle (TNIE, 14 Jan 2026) — CM ne shilanyas kiya, MLA sirf upasthit; Naravaripalle Chandragiri seat ka hissa hai. REJECT.
+//  6. CM ka spiritual-city karyakram (The Hans India, Oct 2026) — karyakram me upasthiti. REJECT.
+//  7. APSRTC ke 3 naye buson ka flag-off (The Hindu, 6 Nov 2024) — flag-off; yatra-seva, karya nahi. REJECT.
+//  8. Tirupati-Sainagar Shirdi weekly express flag-off (The Hindu, 9 Dec 2025) — R&B mantri ne jhanda dikhaya, MLA upasthit. REJECT.
+//  9. Srinivasa Sports Complex sports hub udghatan (constructionworld — aggregator; The Hindu original nahi mila) — mantri ne udghatan kiya, MLA upasthit. REJECT.
+//  10. Zero-hour me TTD se Rs 132 crore property tax arrears ki maang (Deccan Chronicle, tithi page me kholna pending) — sirf maang. REJECT.
+//  11. MCT ka Ganesh mandapam single-window clearance facility (Deccan Chronicle, Aug 2025) — utsav-adharit prashasanik suvidha; bhautik sarkari sanrachna nahi. REJECT.
+//  12. MCT council me UDS punarnirman, internal sadken, drinking water ki maang (The Hindu, 10 Jul 2024) — sirf maang. REJECT.
+//  13. Hangyo Ice Creams plant inauguration, Tirupati (The Hindu brandhub/PR) — niji company, MLA sirf mehmaan. REJECT.
+//  14. Puttur municipal seat-sharing/Jana Sena me shamil (Deccan Chronicle, Oct 2026) — party politics; karya nahi. REJECT.
+//  15. Gollavanigunta cricket stadium (The Hindu sports-hub report) — SAAP chairperson ka commitment; MLA ka byaan matra. REJECT.
+// Negatives: Jun 2024 ke baad established media me MLA khud ke khilaf FIR/chargesheet/janch ya nyayik vikas ki koi report nahi mili; naam-milan wale mamle (railway accounts, treasury clerk, constable P Srinivasulu) sab bhinn vyakti hain. Halafname me 0 criminal cases (2024).
+andhraWorks['arani-srinivasulu'] = [
+  {
+    title: 'Chandragiri ke MLA ke saath milkar Tirupati ke Lakshmipuram Circle me Rs 2.08 crore ki lagat se bane APSPDCL ke Executive Engineer (Operations) karyalaya ka lokarpan',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/government-committed-to-supplying-quality-power-in-state-say-ap-legislators/article69423572.ece/amp/',
+    date: '2025-04-07',
+    period: '2024-2029',
+    note: 'Tirupati MLA Arani Srinivasulu aur Chandragiri MLA Pulivarthi Nani ne sanyukt roop se Tirupati ke Lakshmipuram Circle me APSPDCL ke Executive Engineer (Operations) karyalaya ka lokarpan kiya. Report ke anusaar shahar aur graameen divisions wale is bhavan ki lagat Rs 2.08 crore hai aur ye Tirupati, Chandragiri, Srikalahasti aur Satyavedu constituencies ko labh dega.',
+  },
+  {
+    title: 'Vidhansabha prashnakaal me MLA ke mudda uthane par Tirumala ke Balaji Nagar me 541 makaanon ke liye Rs 14 crore ki RCC roofing par sarkari ashwasan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/govt-approves-rcc-roofing-for-541-houses-in-tirumala/article70807955.ece',
+    date: '2026-03-31',
+    period: '2024-2029',
+    note: 'JSP MLA Arani Srinivasulu ne Vidhansabha prashnakaal me Tirumala master plan ke liye land acquisition ke kaaran ghar gumane wale Balaji Nagar ke nivasiyon ki kathinai ka mudda uthaya; is par sarkar ne kaha ki kamon ke liye Rs 14 crore ki administrative sanction par vichar chal raha hai, aur TTD board ki approval ke baad tender nikalenge. Credit-capped disclosure: sanction abhi jari nahi hui hai (vichaar-avastha) aur TTD board ki approval baaki hai; 18 mahine me kaam poora hone ki report me sampaadit sambhavna batayi gayi hai.',
+  },
+  {
+    title: 'Sadan me MLA ke mudda uthane par Water Resources mantri ne HNSS aur GNSS Phase-II se Tirumala-Tirupati ko pejal aapurti badhane ka jawab diya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/govt-will-augment-drinking-water-supply-to-tirumala-tirupati-through-hnss-gnss-projects-says-minister-ramanaidu/article70624202.ece',
+    date: '2026-02-12',
+    period: '2024-2029',
+    note: 'Tirupati MLA Arani Srinivasulu ne Sadan me badhte yatri-bhaar aur commercial gatividhi ke kaaran Tirupati ki pejal maang ka mudda uthaya; Water Resources Minister Nimmala Ramanaidu ne jawab me kaha ki GNSS Phase-II aur HNSS pariyojna se vishesh roop se Tirupati aur Tirumala ke liye paani aavantit kiya jayega. Credit-capped disclosure: mantri ne bataya ki sarkar ne pehle hi kadam utha rakhe hain — ye pehl se chal rahe sarkari program ka ashwasan hai, MLA ki vyaktigat pahla ka poora nateeja nahi.',
+  },
+];
+
+// bojjala-venkata-sudhir-reddy — 4 works + 0 negatives (mined 2026-10-19)
+// Pehchan: Srikalahasti (TDP), 2024 me jeete — first-time MLA; s/o svargiya Bojjala Gopala Krishna Reddy (purv mantri, nidhan 2022). Pita ke purane karyakaal ke kaam/mamle is profile se poori tarah bahar rakhe gaye hain; sirf Bojjala Venkata Sudhir Reddy ki Jun 2024+ ki seat-level gatividhiyan li gayi hain. Halafnama-adhrit 15 pending mamle (myneta) affidavit-mamle hain — negatives niyam ke tahat alag se entry nahi.
+andhraWorks['bojjala-venkata-sudhir-reddy'] = [
+  {
+    title: 'Rachagunneri (Srikalahasti mandal) me Rs 12.72 crore ke Flatted Factory Complex ka shilanyas — 1.04 acre par 30 audyogik ikaaiyon wala MSME pariyojna',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/stone-laid-for-1272-crore-flatted-factory-complex-in-srikalahasti/article69545614.ece/amp/',
+    date: '2025-05-06',
+    note: 'The Hindu ki post-event report ke mutabik, Srikalahasti MLA Bojjala Venkata Sudheer Reddy ne Srikalahasti mandal ke Rachagunneri gaon me Flatted Factory Complex (FFC) ka shilanyas khud kiya. Ye pariyojna Rs 12.72 crore ki hai, 1.04 acre par viksit hogi aur isme bank, storage aur prashasanik suvidhaon ke saath 30 audyogik ikaaiyan hongi; report ise undivided Chittoor jile ki pehli MSME suvidha batati hai — Andhra Pradesh sarkar ki 175 MSME park sthapit karne ki pehal ka ang. Inferred-date disclosure: report 6 May 2025 (8:19 PM IST) ko prakashit hui aur shilanyas ko "Tuesday" bataya gaya — 6 May 2025 Tuesday tha, isliye ye tareekh li gayi hai. Usi report me MLA ne apne divangat pita (purv mantri) ke kshetra ke audyogik vikas me yogdan ka smaran kiya — wo smriti-bhashan is entry ka vishay nahi; pita ke karyakaal ke kaam yahan count nahi hue.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Simhachala Kandriga gaon ka 55 saal purana bhoomi-vivad suljha — MLA ki pehal par Collector ke daure ke baad 98 SC parivaron ke vivaadit pattas radd, vaikalpik bhoomi dene ka nirnay',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/nation/2025/Aug/22/55-year-old-land-dispute-in-andhras-srikalahasti-resolved',
+    date: '2025-08-22',
+    note: 'New Indian Express ki post-event report ke mutabik, Srikalahasti mandal ke Simhachala Kandriga gaon ka 55 saal purana bhoomi-vivad sulajh gaya — Tirupati Collector S Venkateswar ne gaon ka daura karke mamla nipataya. Vivad 130 acre bhoomi par tha jo 1998 me 98 SC parivaron ko DKT pattas ke roop me di gayi thi; Van Vibhag ne ise reserve forest ka hissa batakar pattas radd karne ki maang ki thi. Gaon walon ne Srikalahasti MLA Bojjala Sudhir Reddy ke madhyam se appeal ki; Collector ne MLA, DFO aur RDO ke saath charcha ke baad faisla kiya ki pattas radd honge aur 90 prabhavit parivaron ko 90 din ke bhitar nayi sarkari bhoomi pehchankar di jayegi, saath hi aay ke liye Van Vibhag ke sahyog se Vana Samrakshana Samithi (VSS) banai jayegi. Shrey-capped disclosure: antim nirnay Collector ka tha (report me unka uddharan darj hai) — MLA ki bhoomika gaon walon ki appeal ke madhyam aur adhikariyon se charcha tak report me darj hai; report ke samay vaikalpik bhoomi ka vitran abhi baki tha, isliye poornata ka dawa nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Srikalahasti Area Hospital me Rs 72 lakh Aarogyasri nidhi ke durupyog ka khulasa — vishesh audit, Rs 22 lakh vasuli, Two Town thane me shikayat',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/tirupathi/strict-action-against-those-who-misused-aarogyasri-funds-srikalahasti-mla-b-sudheer-reddy-1130466',
+    date: '2026-10-08',
+    note: 'The Hans India ki post-event report ke mutabik, Srikalahasti MLA Bojjala Sudheer Reddy ne sarkari Area Hospital me pichhli YSRCP sarkar ke samay Aarogyasri nidhi ke kathit durupyog ka mudda uthaya; Vijayawada se aayi vishesh audit samiti ne 28 Aug ko hospital ke records jaanche. MLA ke mutabik audit me paya gaya ki pichhli sarkar ke samay junior assistant rahi Lakshmi Prasanna ne lagbhag Rs 72 lakh ka durupyog kiya; isme se Rs 22 lakh vasool ho chuke hain aur bache Rs 50 lakh ki vasuli aur kanooni karyawahi ke liye Srikalahasti Two Town Police Station me shikayat darj ki gayi — police ne mamla darj karke jaanch shuru kar di hai. MLA ne spasht kiya ki doctors aur anya hospital staff ka kathit durupyog se koi sambandh nahi tha. Inferred-date disclosure: report 9 Oct 2026 ko prakashit hui aur MLA ke bayan ko "Thursday" bataya gaya — 8 Oct 2026 Thursday tha, isliye ye tareekh li gayi hai. Satyapan-caveat: "Rs 72 lakh" ka aankda audit se hai lekin report me MLA ke hawale se darj hai; Rs 22 lakh vasuli aur thane me shikayat dastaveji parinam ke roop me darj hain.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Srikalahasti Area Hospital ko Coca-Cola CSR se mili Rs 15 lakh ki 15 advanced computer systems ka MLA dwara hastantaran',
+    category: 'Any',
+    badge: 'news',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/tirupathi/strict-action-against-those-who-misused-aarogyasri-funds-srikalahasti-mla-b-sudheer-reddy-1130466',
+    sourceLabel: 'The Hans India',
+    date: '2026-10-08',
+    note: 'The Hans India ki upar wali report me darj hai ki Srikalahasti Government Area Hospital ko Coca-Cola industry se corporate social responsibility pehal ke tahat Rs 15 lakh ki 15 advanced computer systems mile; MLA Bojjala Sudheer Reddy ne hospital superintendent Dr Muralidhar ko ye systems saupe. MLA ne kaha ki sarkar hospital ke adhunikikaran aur garib-madhyamvarg ko behtar muft swasthya sewa dene par kaam kar rahi hai, aur naye systems se digital sewaen tez hongi aur mareezon ke records ka prabandhan sudhrega. CSR-funding disclosure: nidhi Coca-Cola/HCCB ki CSR pehal se aayi (report me darj), MLA ne khud hastantaran kiya aur rakam khulasa hui hai — isliye CSR-niyam ke tahat valid entry. Date wahi hai jo upar wali report ki (9 Oct 2026 prakashan, "Thursday" bayan = 8 Oct 2026).',
+    period: '2024-2029',
+  },
+];
+
+// REJECT-LOG — bojjala-venkata-sudhir-reddy (Srikalahasti)
+// [REJECT sirf-ghoshna/maang] TUDA Rs 5 crore civic works Srikalahasti (roads, drains, footpaths, greenery) — The Hindu 25 Jul 2025; ye TUDA chairman ke apne 'A Day with TUDA chairman' karyakram ki ghoshna thi (chairman ne Rs 15 lakh playground + Rs 1.6 crore CC roads announce kiye), MLA sirf saath daure par the. Allocation TUDA ki, MLA ki vyaktigat swikriti/bhoomika report me nahi. Retry-lead: in sadkon/drains ke poorn hone ki post-event report me MLA ki bhoomika mile par.
+// [REJECT dusre-neta-ka-karyakram/maujoodgi] 22-km Sivam-to-Sivam Giri Pradakshina road (Rs 10 crore) ka lokarpan Endowments minister Anam Ramanarayana Reddy ne kiya (Maha Shivaratri se ek din pehle, Feb 2026) — TOI; MLA Bojjala Sudheer Reddy sirf saath me maujood the, koi vyaktigat bhoomika report me nahi. Retry-lead: is road ke shilanyas/swikriti me MLA ki bhoomika wali post-event report mile par.
+// [REJECT yojna/ghoshna + non-whitelist] Vision-2029 development roadmap (Rs 37 crore Shivam road, Rs 238 crore kendriya nidhi, ropeway, SKIT college revival) — constructionworld.in 12 Sep 2025 (srot: Hans India); ye MLA ka vision-dastavej (ghoshna) hai, koi karyakram nahi + outlet whitelist me nahi. Retry-lead: vision ke kisi bhi madd ki poornata/shilanyas ki post-event report mile par.
+// [REJECT sirf-maang] Google VP Chandu Thota se Srikalahasti mandir me AI-based darshan-prbandhan ki maang — The Hindu 25 Jun 2025; sirf anurodh, koi parinam nahi.
+// [REJECT sirf-ashwasan] Rajiv Nagar (Srikalahasti town) land/pattas vivad par "quick solution" ka ashwasan + TIDCO gharon ka allotment plan — The Hindu 26 Mar 2025; sirf ashwasan, koi dastaveji nateeja nahi. Retry-lead: 3,700 labharthiyon ko TIDCO ghar mile wali post-event report par.
+// [REJECT pre-event-ghoshna] Srikalahasti Devasthanam me "probe hogi" (YSRCP karyakaal ki aniyamittayen) — TOI 18 Jul 2024; sirf ghoshna, jaanch ke aadesh ka dastavej nahi. Retry-lead: probe ke aadesh/GO mile par.
+// [REJECT sirf-maang] PRASAD yojna ke tahat Rs 114.06 crore Srikalahasti mandir vikas prastav — TNIE Sep 2024; MLA ne kendriya paryatan mantri se additional funds ki maang ki, swikriti report me nahi. Retry-lead: PRASAD swikriti ki report mile par.
+// [REJECT non-whitelist] Renigunta me Rs 6 crore ki sadken — MLA ne kaam shuru karaye (hmtv YouTube video); outlet whitelist me nahi. Retry-lead: whitelist outlet me post-event report mile par.
+// [REJECT pre-term/political] Freebies warehouse seizure, Srikalahasti (EC complaint) — MENAFN/IANS 27 Mar 2024; chunav se pehle, TDP candidate ke roop me bayan; koi vikas karya nahi.
+// [REJECT pita-ka-kaam] Swargiya Bojjala Gopala Krishna Reddy (purv mantri) ke purane karyakaal ke kaam — pehchan-jaal ke tahat bahar; FFC report me pita ka smaran smriti-bhashan ke roop me note kiya gaya, count nahi.
+// [REJECT pre-term/shikayat-bina-FIR-aaropi] Nov 2022 Dalit sangathanon ka virodh + police complaint (TDP in-charge ke roop me) — TOI; Jun 2024 se pehle + shikayat me naam, FIR-aaropi column wali sthiti nahi.
+// [REJECT affidavit-mamle-akele] myneta affidavit ke 15 pending mamle (IPC 323/341/353 aadi; kuch YSRCP karyakaal ke virodh-pradarshan ke) — Jun 2024+ me inme se kisi par nyayik vikas (chargesheet/adालत-adेश) ki whitelist report nahi mili; affidavit akele = negative nahi.
+// [REJECT yachika-dayar-akele] Sri Bojjala Venkata Sudhir Reddy vs CEC writ petition (AP High Court, 10 May 2024) — MLA ne KHUD yachika dayar ki thi (FIR 138/2023 me A1 banaye jane par chunav-prachar me badha ka aarop); karyakaal se pehle + yachika dayar karna negative nahi; 2021 ki quash petition bhi pre-term.
+// Negatives: whitelist media me MLA KHUD aaropi wali Jun 2024+ ki koi FIR/chargesheet ya nyayik vikas (adalat ka aadesh/notice) nahi mili.
+// Retry-leads: (1) TUDA Rs 5 crore civic works — poornata ki post-event report me MLA ki bhoomika mile par; (2) Giri Pradakshina road ke shilanyas/swikriti me MLA ki bhoomika wali report; (3) Vision-2029 ke kisi madd ki poornata; (4) Renigunta Rs 6 crore sadken — whitelist post-event report; (5) Rajiv Nagar 3,700 TIDCO ghar allotment — post-event; (6) Srikalahasti Devasthanam probe aadesh; (7) PRASAD Rs 114 crore swikriti; (8) Simhachala Kandriga 90 parivaron ko vaikalpik bhoomi ka vitran (90 din ki samay-seema wali follow-up).
+
+// koneti-adimulam — 0 works + 1 negative (mined 2026-10-19)
+// Pehchan: Koneti Adimulam, Satyavedu (SC), Telugu Desam Party, Winner 2024 (85,471 vote; runner-up Nukatoti Rajesh YSRCP 81,732; antar 3,739). Age 72, B.A. — S.V. Arts College, Tirupati (1975), S/o Late K. Elumalai, pesha Agriculture; halafname me koi aaparadhik mamla nahi. Pehle 2019-2024 me YSRCP se isi seat se MLA reh chuke hain (2014 me TDP ke Talari Aditya se hare the) — isliye task-brief ki "mahila, first-time MLA" dono jankariyan GALAT hain; foundation record + sabhi srot purush, 72 varsh, aur 2019-2024 YSRCP MLA hone ki pushti karte hain. Sep 2024 se TDP se nilambit hain; Deccan Chronicle (2025) ke mutabik suspension wapas nahi hua aur constituency ka kaam TDP in-charge K. Shankar Reddy sambhalte hain.
+// REJECT-LOG:
+//  1. APSSDC mega Job Mela, Pichatur (23 Jul 2025; The Hindu, 21 Jul 2025 — page 403/premium, verify nahi ho paya) — PRE-EVENT ghoshna-report + ek-divasiya rojgar mela (bhautik sarkari sanrachna nahi); abhiyan/event ka keval ayojan/launch. REJECT.
+//  2. Praja Darbar, Varadaiapalem (Dec 2024; Deccan Chronicle) — adhikariyon ko protocol-violation par daant/fataakar; koi bhautik karya, sanction ya shilanyas nahi. REJECT.
+//  3. Peddireddi par avaidh mining ke aarop (10 Jun 2024; The Hindu) — siyasi aarop; koi nyayik/janch-parinam report me nahi; vikas-karya nahi. REJECT.
+//  4. The Hindu secretariat/sadak lokarpan article (Pichatur/KVB Puram, ~2021-era; mantri Peddireddi lokarpankarta) — Adimulam us samay YSRCP MLA the; karyakaal se bahar + dusre neta ka lokarpan. REJECT.
+//  5. Deccan Chronicle "Turmoil in TDP over candidate pick" (Apr 2024) — chunav-purv internal virodh; karya nahi. REJECT.
+// Negative-summary: Sep 2024 me ek sthaniya mahila TDP karyakarta ki shikayat par police ne Adimulam ke khilaf sexual harassment ka case darj kiya (TOI; Deccan Chronicle); TDP ne 5 Sep 2024 ko unhe party se nilambit kiya (ThePrint/The Statesman). MLA ne aaropon se inkaar karte hue video ko morphed bataya aur party netaon par sajish ka aarop lagaya (Free Press Journal; The Statesman). Baad me shikayatkarta ne AP High Court ke samne halafnama diya ki shikayat jhoothi thi — HC ne police ko unke khilaf koi sakht karyawahi na karne ka nirdesh diya aur aadesh 25 Sep 2024 ke liye surakshit rakhe (TOI). Suspension abhi tak wapas nahi hua (Deccan Chronicle, 2025).
+andhraWorks['koneti-adimulam'] = [
+  {
+    title: 'Satyavedu MLA Koneti Adimulam ke khilaf ek sthaniya mahila TDP karyakarta ki sexual harassment shikayat par police case darj hua (Sep 2024); baad me shikayatkarta ne Andhra Pradesh High Court ke samne halafnama diya ki shikayat jhoothi thi — HC ne police ko unke khilaf koi sakht karyawahi na karne ka nirdesh diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/vijayawada/victim-recants-harassment-charges-against-mla-koneti-adimulam-declared-false/articleshow/113533767.cms',
+    date: '2024-09-20',
+    period: '2024-2029',
+    note: 'TOI ki report ke mutabik, Satyavedu MLA Koneti Adimulam ko ek sthaniya mahila TDP karyakarta ki sexual harassment shikayat par police ne case darj karke "booked" kiya tha. Baad me usi mahila ne High Court ke samne halafnama diya ki uski police-shikayat jhoothi thi, aur court ke poochne par usne spasht kaha ki wo Adimulam ke khilaf shikayat par aage badhna nahi chahti. Justice VRK Krupa Sagar ne police ko Adimulam ke khilaf koi sakht karyawahi na karne ka nirdesh diya aur aadesh 25 Sep ko sunane ke liye surakshit rakhe. Unke senior counsel ne court me kaha ki case galat aadhar par darj hua tha aur shikayat ek teesre paksh ke uksane par di gayi thi. Inferred-date disclosure: TOI page par prakashan-tithi khud darj nahi hai; "Friday" wali sunvai aur "orders reserved for Sept 25" se ye tareekh 20 Sep 2024 (Friday) anumaanit ki gayi hai. Raahat bhi utni hi pramukhta se darj hai — shikayatkarta ne khud shikayat wapas li, aarop pramanit nahi hue.',
+  },
+];
+
