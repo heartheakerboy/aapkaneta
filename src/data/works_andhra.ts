@@ -3812,3 +3812,540 @@ andhraWorks['yarapathineni-srinivasa-rao'] = [];
 // entry nahi mili, fund note 'ghoshit nahi' wala case bhi nahi aaya).
 andhraWorks['julakanti-brahmananda-reddy'] = [];
 
+
+
+// Andhra Pradesh — Batch 6: Bapatla + Prakasam + SPSR Nellore (19-21/26 jile).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/ap6_worker_<slug>_works.ts.
+// QA-DROP (parent): vegesana-narendra-varma-raju ki GO-534 entry (TDP jila karyalay ke liye sarkari zameen-patta — party-suvidha, vikas-kaam nahi) — fragment me preserved, retry me wapas nahi ayegi.
+
+// ==== Bapatla (Batch 6) ====
+andhraWorks['nakka-ananda-babu'] = [];
+andhraWorks['anagani-satya-prasad'] = [];
+andhraWorks['vegesana-narendra-varma-raju'] = []; // QA-DROP (parent): GO-534 party-office land allotment — sarkari zameen par party karyalay, vikas-kaam nahi; fragment me preserved.
+andhraWorks['yeluri-sambasiva-rao'] = [
+  {
+    title: 'Parchur MLA Yeluri Sambasiva Rao ke prastav par CM ne Parchur me jahaz-nirman udyog ko samarthan diya aur Rs 9.10 crore ki Valaparla double road samet kayi pariyojnaon ki swikriti ki ghoshna ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-chief-minister-chandrababu-naidu-promises-support-to-shipbuilding-industry-in-parchur-constituency/article69400405.ece',
+    date: '2025-04-01',
+    note: 'The Hindu ke mutabik CM N. Chandrababu Naidu ne Parchur me jahaz-nirman aur jahaz-marammat udyog ki sthapna ke liye rajya sarkar ke poorn samarthan ka elaan kiya; report me likha hai "The proposal, put forth by MLA Yeluri Sambasiva Rao" aur CM ne constituency me vikas pariyojnaein lane ke unke prayason ki sarahna ki. Saath hi kayi anya pariyojnaon ki swikriti ki ghoshna hui: national highway se Valaparla Industrial Park tak Rs 9.10 crore ki double road, Valaparla me paani ka storage tank, Kommuru Canal ke bhoomi-adhigrahan ke liye Rs 5 crore, Nagarjuna Sagar Canal ka aadhunikikaran, NCC karyalay, SC/ST/BC/alpsankhyak samudayik bhawan, crematoriums, aur Inkollu-Martur-Parchur kshetra me Auto Nagar ki anumati. Credit capped: ye saari swikritiyan/ghoshnaen CM aur rajya sarkar ki hain; MLA ki dastaveji bhoomika prastav rakhna aur uski pairvi rahi. Fund-srot: ghoshit nahi. Stage ka sach: swikriti ghoshit hui hai; kaam shuru ya poora hone ki aage ki reporting nahi mili.',
+    period: '2024-2029',
+    stage: 'swikriti'
+  }
+];
+andhraWorks['gottipati-ravi-kumar'] = [
+  {
+    title: 'Santamaguluru mandal me Rs 10 lakh ke NTR Park ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Apr/22/andhra-minister-gorttipati-launches-several-works-in-addanki-constituency',
+    date: '2025-04-21',
+    note: 'The New Indian Express ke mutabik MLA ne vyaktigat roop se park ka udghatan kiya. Article 2025-04-22 ko publish hua aur ghatna ko ‘Monday’ batata hai — tithi 2025-04-21 (Monday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Santamaguluru mandal me Rs 10 lakh ke water plant ka udghatan kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Apr/22/andhra-minister-gorttipati-launches-several-works-in-addanki-constituency',
+    date: '2025-04-21',
+    note: 'The New Indian Express ke mutabik MLA ne vyaktigat roop se water plant ka udghatan kiya. Article 2025-04-22 ko publish hua aur ghatna ko ‘Monday’ batata hai — tithi 2025-04-21 (Monday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Santamaguluru mandal me Rs 30 lakh ki nayi CC sadakon ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Apr/22/andhra-minister-gorttipati-launches-several-works-in-addanki-constituency',
+    date: '2025-04-21',
+    note: 'The New Indian Express ke mutabik MLA ne ‘newly laid CC roads’ ka udghatan kiya. Article 2025-04-22 ko publish hua aur ghatna ko ‘Monday’ batata hai — tithi 2025-04-21 (Monday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Sthaniya sarkari school me Rs 78.17 lakh ki chhah nayi kakshaon ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Apr/22/andhra-minister-gorttipati-launches-several-works-in-addanki-constituency',
+    date: '2025-04-21',
+    note: 'The New Indian Express ke mutabik MLA ne school ki chhah nayi kakshaon ka vyaktigat roop se udghatan kiya. Article 2025-04-22 ko publish hua aur ghatna ko ‘Monday’ batata hai — tithi 2025-04-21 (Monday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Addanki me Rs 11 crore ke do naye power substationon ka shilanyas kiya',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/May/01/energy-minister-gottipati-lays-stone-for-two-substations-in-andhras-addanki',
+    date: '2025-04-30',
+    note: 'The New Indian Express ke mutabik MLA ne vyaktigat roop se dono substationon ka shilanyas kiya. Article 2025-05-01 ko publish hua aur ghatna ko ‘Wednesday’ batata hai — tithi 2025-04-30 (Wednesday) inferred hai. Addanki seat me sthit pariyojna ke roop me shamil hai — rajya-stariya urja-faisla nahi. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Singarakonda me sthayi fire station ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/May/01/energy-minister-gottipati-lays-stone-for-two-substations-in-andhras-addanki',
+    date: '2025-04-30',
+    note: 'The New Indian Express ke mutabik MLA ne asthayi suvidha ki jagah sthayi fire station ka shilanyas kiya — lambe samay se chali aa rahi jan-mang poori hui. Article 2025-05-01 ko publish hua aur ghatna ko ‘Wednesday’ batata hai — tithi 2025-04-30 (Wednesday) inferred hai. Lagat: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Addanki town me Rs 1.5 crore ke Urban Primary Health Centre ka udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Jun/11/energy-minister-gottipati-inaugurates-urban-primary-health-centre-in-addanki-segment',
+    date: '2025-06-10',
+    note: 'The New Indian Express ke mutabik MLA ne Bapatla jila collector ke saath vyaktigat roop se UPHC ka udghatan kiya. Article 2025-06-11 ko publish hua aur ghatna ko ‘Tuesday’ batata hai — tithi 2025-06-10 (Tuesday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Naam Road se Govada gaon tak Rs 1.2 crore ki tar sadak ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2025/Jun/11/energy-minister-gottipati-inaugurates-urban-primary-health-centre-in-addanki-segment',
+    date: '2025-06-10',
+    note: 'The New Indian Express ke mutabik MLA ne nayi bani tar sadak ka vyaktigat roop se udghatan kiya. Article 2025-06-11 ko publish hua aur ghatna ko ‘Tuesday’ batata hai — tithi 2025-06-10 (Tuesday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Kopperapadu se Jammalamadaka tak Rs 6 crore ki BT sadak ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/minister-launches-road-works-solar-initiatives-at-addanki/article71090040.ece',
+    date: '2026-06-11',
+    note: 'The Hindu ke mutabik MLA ne Kopperapadu se Jammalamadaka (Kothuru aur Velamavaripalem hote hue) tak bani BT sadak ka udghatan kiya — chunav-prachar ke dauran ghoshit pariyojna ab puri hokar janata ke liye khul gayi hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Kothuru gaon me Rs 40 lakh ki CC sadakon aur side drainage naharon ka udghatan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/minister-launches-road-works-solar-initiatives-at-addanki/article71090040.ece',
+    date: '2026-06-11',
+    note: 'The Hindu ke mutabik MLA ne Addanki seat ke daure me Kothuru gaon me bani CC sadakon aur side drainage naharon ka vyaktigat roop se udghatan kiya. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Santamaguluru–Addanki sadak (Rs 4 crore) ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2026/Jan/10/addanki-segment-emerging-as-role-model-for-development-minister-gottipati-ravikumar',
+    date: '2026-01-09',
+    note: 'The New Indian Express ke mutabik MLA ne R&B mantri B.C. Janardhan Reddy ke saath sanyukt roop se sadak ka shilanyas kiya — ghatna Ballikurava mandal me Addanki seat ke andar hui, isliye sanyukt hone par bhi entry yogya hai. Article 2026-01-10 ko publish hua aur ghatna ko ‘Friday’ batata hai — tithi 2026-01-09 (Friday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'ABC nahar par Rs 2 crore ki high-level nahar ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2026/Jan/10/addanki-segment-emerging-as-role-model-for-development-minister-gottipati-ravikumar',
+    date: '2026-01-09',
+    note: 'The New Indian Express ke mutabik dono mantriyon ne sinchai aur jal-prabandhan hetu bani high-level nahar ka udghatan kiya. Article 2026-01-10 ko publish hua aur ghatna ko ‘Friday’ batata hai — tithi 2026-01-09 (Friday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Guntupalli me Rs 50 lakh ke Primary Health Centre ka udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2026/Jan/10/addanki-segment-emerging-as-role-model-for-development-minister-gottipati-ravikumar',
+    date: '2026-01-09',
+    note: 'The New Indian Express ke mutabik Guntupalli me bane PHC ka udghatan hua. Article 2026-01-10 ko publish hua aur ghatna ko ‘Friday’ batata hai — tithi 2026-01-09 (Friday) inferred hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Elchuru me Rs 35.78 crore ke 132/33 kV substation ka shilanyas kiya',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-will-not-increase-power-tariffs-says-minister-1995184',
+    date: '2026-10-12',
+    note: 'Deccan Chronicle ke mutabik MLA ne vyaktigat roop se AP Transco dwara banne wale substation ka shilanyas kiya — Elchuru aur aaspaas ke kshetron me low-voltage samasya door hogi. Addanki seat me sthit pariyojna ke roop me shamil hai — rajya-stariya urja-faisla nahi. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Addanki me proposed indoor stadium aur shuttle courts ka bhoomi pujan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-will-not-increase-power-tariffs-says-minister-1995184',
+    date: '2026-10-12',
+    note: 'Deccan Chronicle ke mutabik MLA ne stadium aur shuttle courts ka bhoomi pujan sampann kiya — shilanyas ke samatulya vyaktigat bhoomika. Suvidha abhi ‘proposed’ avastha me hai aur lagat ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Addanki town me Rs 30 crore ke cement concrete sadak karyon ka shubharambh kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/ap-will-not-increase-power-tariffs-says-minister-1995184',
+    date: '2026-10-12',
+    note: 'Deccan Chronicle ke mutabik MLA ne sadak karyon ka ‘launch’ kiya — article karyon ki purnata-avastha ya fund-srot nahi batata, isliye stage shilanyas (karya-prarambh) darj hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Santamaguluru Primary Health Centre me drinking water plant ka udghatan kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/on-cm-naidus-call-energy-minister-avoids-convoy-1956986',
+    date: '2026-05-15',
+    note: 'Deccan Chronicle ke mutabik MLA ne sarkari PHC me lage drinking water plant ka vyaktigat roop se udghatan kiya — plant Asian Hospitals ke sahyog se laga hai (CSR/samarthan-yukt sarkari sanrachna). Article 2026-05-15 ko publish hua aur daure ko ‘Friday’ batata hai — tithi 2026-05-15 (Friday) inferred hai. Lagat: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  }
+];
+andhraWorks['madduluri-malakondaiah'] = [];
+
+// ==== Prakasam (Batch 6) ====
+andhraWorks['tatiparthi-chandrasekhar'] = [];
+andhraWorks['buchepalli-siva-prasad-reddy'] = [];
+andhraWorks['b-n-vijay-kumar'] = [];
+andhraWorks['damacharla-janardhana-rao'] = [
+  {
+    title: 'Ongole me Rs 85 lakh ke central divider ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/May/12/andhras-ongole-mla-lays-foundation-stone-for-rs-1-crore-infra-projects',
+    date: '2025-05-11',
+    note: 'The New Indian Express ke mutabik MLA ne Ongole South Bypass Road-Summer Storage Tank ke saath Rs 85 lakh ke central divider ka vyaktigat roop se shilanyas kiya. Ye OMC seema ke andar Rs 1 crore ke infra projects me se ek tha. Fund-srot: ghoshit nahi. Date inferred: article 12 May 2025 ko publish hua aur karya Sunday ko hone ki report thi, isliye 11 May 2025 li gayi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Ongole ke 46th Division me Rs 14 lakh ke CC drain ka lokarpan kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/May/12/andhras-ongole-mla-lays-foundation-stone-for-rs-1-crore-infra-projects',
+    date: '2025-05-11',
+    note: 'The New Indian Express ke mutabik MLA ne 46th Division me Kurnool Road aur Alluri Sitarama Raju Nagar par Rs 14 lakh ka tayyar CC drain vyaktigat roop se inaugurate kiya. Fund-srot: ghoshit nahi. Date inferred: article 12 May 2025 ko publish hua aur karya Sunday ko hone ki report thi, isliye 11 May 2025 li gayi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Ongole me Rs 4.50 crore ke Smart Street Vending Market ka shilanyas kiya',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/smart-street-vending-market-to-come-up-soon-in-ongole/article70757264.ece',
+    date: '2026-03-17',
+    note: 'The Hindu ke mutabik MLA ne Ongole ke Mamidipalem me Summer Storage Tank ke paas Smart Street Vending Market project ka vyaktigat roop se shilanyas kiya. Kul nivesh Rs 4.50 crore — Rs 2.90 crore nagar-palika funds se aur Rs 1.60 crore MEPMA funds se; 25 containers me 100+ shops, mahila SHGs aur street vendors ke liye. Fund-srot disclosed hai (municipal + MEPMA). Date inferred: article 18 Mar 2026 ko publish hua aur karya Tuesday evening ko hone ki report thi, isliye 17 Mar 2026 li gayi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Madanuru (Kothapatnam mandal) me Rs 5 crore ki CC road ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/ongole/rs-242-cr-for-road-works-in-kondapi-minister-1127105',
+    date: '2026-09-29',
+    note: 'The Hans India ke mutabik Ongole MLA Damacharla Janardhana Rao aur MP Magunta Srinivasulu Reddy ne Madanuru gaon (Kothapatnam mandal, Ongole assembly seat) me Rs 5 crore ki CC road ka sanyukt roop se shilanyas kiya. Ye karya Palle Panduga 3.0 yojna ka hissa tha. MP ke saath shilanyas kiya gaya (disclosed). MLA nidhi se kharch: ghoshit nahi. Date inferred: article 30 Sep 2026 ko publish hua aur karya Tuesday ko hone ki report thi, isliye 29 Sep 2026 li gayi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  }
+];
+andhraWorks['dola-sree-bala-veeranjaneya-swamy'] = [
+  {
+    title: 'Sivapuram (Tangutur mandal) me NH 16 se Naidupalem tak Rs 1.95 crore ki tar sadak ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/ongole/rs-242-cr-for-road-works-in-kondapi-minister-1127105',
+    date: '2026-09-29',
+    note: 'The Hans India ke mutabik mantri ne Tangutur mandal ke Sivapuram me NH 16 se Naidupalem via Sivapuram jaane wali Rs 1.95 crore ki tar sadak ki aadhaarshila vyaktigat roop se rakhi. Unhone isi karyakram me bataya ki Kondapi constituency me Palle Panduga 3.0 ke tahat kul 13 connectivity sadken (Rs 24.2 crore) ban rahi hain — Ponnaluru me 7, Marripudi me 3, Tangutur me 2, Singarayakonda me 1. Fund-srot: Palle Panduga 3.0 (rajya sarkari programme); MLA-nidhi ka zikr report me nahi — ghoshit nahi. Tarikh anumaanit: report 30 Sep 2026 (Budhwar, 01:45 IST) ko publish hui aur karyakram "Tuesday" bataya gaya hai; 29 Sep 2026 Tuesday tha.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Ponnaluru me Rs 50 lakh ki cement sadkon aur naaliyon ka lokarpan kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/Dec/21/minister-dola-launches-a-slew-of-welfare-development-initiatives-in-prakasam',
+    date: '2025-12-20',
+    note: 'New Indian Express ki post-event report ke mutabik mantri ne Kondapi Assembly segment ke Ponnaluru mandal headquarters me Rs 50 lakh ki cement sadkon aur naaliyon ka lokarpan vyaktigat roop se kiya; District Collector P Raja Babu aur adhikari maujood the. Fund-srot report me ghoshit nahi. Tarikh anumaanit: report 21 Dec 2025 (Ravivar, 3:06 am) ko update hui aur karyakram "Saturday" bataya gaya hai; 20 Dec 2025 Saturday tha.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Ponnaluru ki SC Colony me Rs 15 lakh ke atirikt kaamon ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/andhra-pradesh/2025/Dec/21/minister-dola-launches-a-slew-of-welfare-development-initiatives-in-prakasam',
+    date: '2025-12-20',
+    note: 'New Indian Express ki post-event report ke mutabik mantri ne Ponnaluru ki SC Colony me anumaanit Rs 15 lakh ke atirikt kaamon ki aadhaarshila vyaktigat roop se rakhi (kaamon ka prakar report me nirdisht nahi). Fund-srot ghoshit nahi. Tarikh anumaanit: report 21 Dec 2025 (Ravivar, 3:06 am) ko update hui aur karyakram "Saturday" bataya gaya hai; 20 Dec 2025 Saturday tha.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  }
+];
+andhraWorks['kandula-narayana-reddy'] = [];
+andhraWorks['muthumula-ashok-reddy'] = [];
+andhraWorks['mukku-ugra-narasimha-reddy'] = [
+  {
+    title: 'Kanigiri me Tobacco Board ke paas naye sheep market ka udhghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/kanigiri-mla-announces-local-sheep-market-and-meat-factory-1855568',
+    date: '2025-01-20',
+    note: 'Deccan Chronicle ke mutabik MLA ne vyaktigat roop se Kanigiri municipality seema ke andar Tobacco Board ke paas naye sheep market ka udhghatan kiya; pashupalan ke sahayak nideshak sahit adhikari upasthit the. Lekh me maans karkhane (meat factory) ki yojana keval ghoshna ke roop me hai, isliye entry me shamil nahi. Fund-srot: ghoshit nahi. Tithi anumaanit: lekh 21 Jan 2025 ko prakashit hua aur ghatna ko "On Monday" bataya gaya hai, isliye 20 Jan 2025 (Somvaar) mani gayi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  }
+];
+
+// ==== SPSR Nellore (Batch 6) ====
+andhraWorks['inturi-nageswara-rao'] = [];
+andhraWorks['dagumati-venkata-krishna-reddy'] = [];
+andhraWorks['anam-ramanarayana-reddy'] = [
+  {
+    title: 'National highway se Vasili gaon tak Rs 49 lakh ki poori hui CC sadak ka udghatan kiya, saath hi kuch kaamon ke shilanyas bhi kiye',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/minister-anam-assures-water-to-tail-end-areas-in-atmakur-segment-1926849',
+    date: '2025-12-28',
+    note: 'Deccan Chronicle ke mutabik MLA ne vyaktigat roop se shilanyas kiye aur national highway se Vasili gaon tak Rs 49 lakh ki poori hui CC sadak ka udghatan kiya. Shilanyas hue kaamon ke naam aur fund-srot report me ghoshit nahi. Date inferred: search index ne 18 Oct 2026 tak article ko lagbhag 294 din purana bataya, matlab publication lagbhag 28 Dec 2025; event usi saptah ka Ravivar tha. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+  },
+  {
+    title: 'Atmakur TIDCO housing complex me Rs 75 lakh ke Sri Kodandarama Swamy mandir ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/53-crore-development-works-launched-in-atmakur-1989320',
+    date: '2026-09-21',
+    note: 'Deccan Chronicle ke mutabik mantri Anam ne vyaktigat roop se Atmakur TIDCO housing complex me Rs 75 lakh ke Sri Kodandarama Swamy mandir ka udghatan kiya; mandir rajya sarkar ke Srivani initiative (5,000 mandiron ke lakshya, jisme se 2,000 poore) ke tahat bana. Fund-srot: Srivani initiative (sarkari yojana) — report me ghoshit. Ye mandir-prashasan ka rajya faisla nahi, balki Atmakur seat me vyaktigat udghatan hai, isliye joda gaya. The Hans India ne bhi isi udghatan ko confirm kiya hai.',
+    period: '2024-2029',
+  },
+  {
+    title: 'R&B mantri se ki gayi maang ke nateeje me Atmakur se Somasila tak R&B sadak ke punarnirman ke liye Rs 5 crore swikrit hue',
+    category: 'Sadak',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/nellore/atmakur-will-get-new-look-by-2027-anam-ramanarayana-reddy-1116261',
+    date: '2026-09-01',
+    note: 'The Hans India ke mutabik mantri Anam ki R&B mantri BC Janardhan Reddy se maang ke baad Atmakur–Somasila R&B sadak ke punarnirman ke liye Rs 5 crore swikrit hue; report ke samay tender prakriya poori honi thi aur uske baad kaam shuru hona tha. Credit capped: swikriti R&B mantri ne di, kaam report ke samay tak shuru nahi hua tha. Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+  },
+];
+andhraWorks['vemireddy-prashanthi-reddy'] = [
+  {
+    title: 'Kovur me Mypadu beach ko jodne wali four-lane sadak ke Rs 48 crore vistaar ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/amaravati/mla-lays-foundation-for-four-lane-expansion-works-connecting-mypadu-beach/articleshow/114195430.cms',
+    date: '2024-10-13',
+    note: 'TOI ke mutabik MLA ne Narasapuram (Indukurpeta mandal) me Bhumi Puja me hissa lekar vyaktigat roop se shilanyas kiya. Fund-srot ghoshit: central road and infrastructure funds se Rs 48 crore. Usi bayan me kahi gayi Rs 64 crore ki aur connectivity yojana sirf ghoshna thi, is entry me nahi jodi gayi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Kovur Sugar Factory ke karmchariyon ka Rs 22 crore bakaya cabinet se swikrit hua, MLA ne lagatar maang uthayi thi',
+    category: 'Karmchari-bakaya',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/cabinet-approves-payment-of-rs-22-cr-arrears-to-kovur-sugar-factory-workers-staff-1990987',
+    date: '2026-09-27',
+    note: 'DC ke mutabik MLA ne Nellore me press conference me GO ki pratiyan dikhayi (GO number srot me darj nahi). MLA ka kehna: chunav-prachar me vaada kiya tha; sarkar bante hi CM N. Chandrababu Naidu, Nellore MP Vemireddy Prabhakar Reddy aur collector Himanshu Shukla se baar-baar mudda uthaya aur Vidhansabha me bhi maang rakhi. Credit capped: TOI ke mutabik MP pati ne bhi industries minister TG Bharath aur collector se kayi round ki charcha me bhumika nibhayi, isliye poora shrey MLA ka nahi.',
+    period: '2024-2029',
+    stage: 'swikriti'
+  }
+];
+andhraWorks['ponguru-narayana'] = [
+  {
+    title: 'Nellore City me Sunday Market ki nayi sadak aur Atmakur bus stand underbridge ke sadak-nirman ka shilanyas kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/minister-assures-to-resolve-major-issues-in-nellore/article70291322.ece',
+    date: '2025-11-17',
+    note: 'The Hindu ke mutabik MLA ne swayam shilanyas kiya. Atmakur bus stand underbridge ka sadak-nirman Rs 2 crore ki lagat se 44 din me poora hona tha; Sunday Market ki nayi sadak ki lagat khabar me ghoshit nahi. Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City me Atmakur bus stand flyover ki relaying poori hone par uska lokarpan kiya',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/vijayawada/nellore-city-doesnt-need-orr-at-present-minister-narayana/articleshow/126469411.cms',
+    date: '2026-01-11',
+    note: 'Times of India ke mutabik MLA ne swayam lokarpan kiya. Flyover ka 25 saal se koi marammat-karya nahi hua tha aur relaying 45 din me poori ki gayi. Tithi ka anumaan: TOI me event "Sunday" bataya gaya hai aur The Hindu ne 11 January 2026 ko isi lokarpan ki reporting ki — isliye date 2026-01-11 maani gayi hai. Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City me Rs 46 lakh ki do CC sadkon ka lokarpan kiya',
+    category: 'Sadak',
+    stage: 'lokarpan',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/nellore/our-aims-is-to-transform-nellore-as-green-city-by-2028-narayana-1126396',
+    date: '2026-09-28',
+    note: 'The Hans India ke mutabik MLA ne swayam lokarpan kiya: Krishnaveni School street (4th division) me Rs 16 lakh aur YVM Elementary School (7th division) me Rs 30 lakh ki CC sadken. Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City ke Nawabpet me Rs 60 crore ke aadhunik bazaar ka shilanyas kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/nellore/our-aims-is-to-transform-nellore-as-green-city-by-2028-narayana-1126396',
+    date: '2026-09-28',
+    note: 'The Hans India ke mutabik MLA ne swayam shilanyas kiya (9th division); phase one ki lagat Rs 13 crore. Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City me Rs 6.09 crore ke CC sadak, central lighting aur beautification karyon ka shilanyas kiya',
+    category: 'Sadak',
+    stage: 'shilanyas',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2026/Sep/29/all-ongoing-nmc-works-will-be-completed-in-two-months',
+    date: '2026-09-29',
+    note: 'New Indian Express ke mutabik MLA ne swayam bhoomi puja/shilanyas kiya: Peddamasjid Centre (Ranganayakulapeta) me Rs 39 lakh ki CC sadken; Janardhan Reddy Colony me Rs 1.70 crore ke divider, central lighting aur CC sadken; Venkateswarapuram flyover ke neeche Rs 4 crore ka greenery-beautification; Muthukur Gate Centre me fountain karya (lagat ghoshit nahi). Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City ke Gandhi Girijan Colony me Rs 1.50 crore ke naye park ka lokarpan kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2026/Sep/29/all-ongoing-nmc-works-will-be-completed-in-two-months',
+    date: '2026-09-29',
+    note: 'New Indian Express ke mutabik MLA ne swayam lokarpan kiya. Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City ke 10th aur 11th divisions me Rs 2.80 crore ke sachivalayam bhawan, park compound wall aur greenery karyon ka shilanyas kiya',
+    category: 'Any',
+    stage: 'shilanyas',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/nellore/narayana-launches-development-works-worth-rs-280-crore-1128977',
+    date: '2026-10-05',
+    note: 'The Hans India ke mutabik MLA ne swayam shilanyas kiya: 11th division ke NTR Nagar me Rs 1 crore ka sachivalayam bhawan aur Rs 30 lakh ki park compound wall; 10th division ke NDR Layout me Rs 70 lakh ka sachivalayam bhawan aur mini bypass road ke saath Rs 80 lakh ka greenery vikas. Khabar me 45th division ka bhi zikr hai lekin wahan ke specific kaam ki rakam nahi di gayi. Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Nellore City me NTR Park, Jagadeesh Nagar me AC community hall aur park, aur Muthukuru Gate Centre par water fountain ka lokarpan kiya',
+    category: 'Any',
+    stage: 'lokarpan',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/50000-crore-sanctioned-for-infrastructure-development-in-andhra-pradesh-narayana/article71584394.ece',
+    date: '2026-10-14',
+    note: 'The Hindu ke mutabik MLA ne swayam lokarpan kiya: 4th division me NTR Park, Jagadeesh Nagar me AC community hall aur park, Muthukuru Gate Centre par aadhunik water fountain. Community hall garib aur madhyam-vargiya parivaron ko shubh avsaron ke liye Rs 1 ke mamuli kiraye par milega. Usi daure me unhone nau divisions me Rs 4 crore ke vikas-karyon ke shilanyas bhi kiye (khabar me un karyon ka byora nahi). Fund-srot: ghoshit nahi.',
+    period: '2024-2029'
+  },
+  {
+    title: 'Amaravati land-pooling mamle me High Court dwara karyavahi radd karne ke aadesh ko Supreme Court ne barkarar rakha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/andhra-pradesh/sc-dismisses-plea-against-ap-hc-order-quashing-case-against-naidu-narayana-1979122',
+    date: '2026-08-14',
+    note: 'Deccan Chronicle ke mutabik CJI Surya Kant ki adhyakshta wali teen-nyayadhishon ki peeth ne poorv YSRCP MLA Alla Ramakrishna Reddy ki yachika sunne se inkar kar diya; AP High Court ne 15 July ko Naidu aur Narayana ke khilaf karyavahi radd kar di thi. FIR 12 March 2021 ko Prevention of Corruption Act ke tahat Amaravati land-pooling scheme par darj hui thi. CJI ne tippani ki ki aapradhik karyavahi siyasi virodhi ki shikayat par thi aur koi kisan saamne nahi aaya — "Political battles should not be fought in the court." Peeth ne spasht kiya ki HC ke aadesh ka anya mamlon par asar nahi hoga. Stage: raahat — quashing barkarar, karyavahi samapt.',
+    period: '2024-2029'
+  }
+];
+andhraWorks['kotamreddy-sridhar-reddy'] = [
+  {
+    title: 'Hare Krishna Nagar (20 Division) me Rs 19 lakh ki CC road ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/nellore/mla-kotamreddy-sridhar-reddy-lays-foundation-for-cc-road-construction-1120075',
+    date: '2026-09-09',
+    note: 'The Hans India ke mutabik MLA ne budhwar ko vyaktigat roop se shilanyas kiya (article 10 Sep 2026 ko prakashit — tithi inference se). Fund-srot: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Jannath Hussain Nagar (2nd Division) me Rs 70 lakh ki Shadi Manzil ka shilanyas kiya',
+    category: 'Samudayik Bhavan',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-70-lakh-shadi-manzil-work-launched-in-nellore-rural-1989064',
+    date: '2026-09-19',
+    note: 'Deccan Chronicle ke mutabik MLA ne shanivar ko vyaktigat roop se shilanyas kiya (article 20 Sep 2026 ko prakashit — tithi inference se). Fund-srot: ghoshit nahi; pehli manjil ke liye Rs 80 lakh ki koshish jari.',
+    period: '2024-2029',
+    stage: 'shilanyas'
+  }
+];
+andhraWorks['somireddy-chandramohan-reddy'] = [
+  {
+    title: 'Podalakur me APSPDCL ke transformer repair shed ka lokarpan kiya',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/andhra-pradesh/three-phase-power-across-sarvepalli-with-95-crore-soon-in-ap-says-somireddy/article70204534.ece/amp/',
+    date: '2025-10-26',
+    note: 'The Hindu ke mutabik MLA ne 26 Oct 2025 ko Podalakur mandal me APSPDCL ke transformer repair shed ka swayam lokarpan kiya. Shed BOT system par bana hai aur mahine me 100 se zyada transformer repair kar sakta hai; Kaluvoy, Manubolu, Rapur, Saidapuram aur Podalakur mandals ke liye upyogi. Lagat/fund-srot: ghoshit nahi. Usi dauraan RDSS ke tahat Rs 95 crore ki three-phase conversion ka dawa sirf ghoshit tha (do mahine me poori hone ki baat) — ginati me nahi.',
+    period: '2024-2029',
+    stage: 'lokarpan'
+  },
+  {
+    title: 'Sarvepalli me Rs 3.75 crore ke 35 Village Health Clinics aur Muttukuru me Rs 1.95 crore ke PHC bhavan ki swikriti mili',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/andhra-pradesh/government-sanctions-major-health-upgrades-for-sarvepalli-satya-1919589',
+    date: '2025-11-26',
+    note: 'Deccan Chronicle ke mutabik swasthya mantri Satya Kumar Yadav ne 26 Nov 2025 ko Manubolu PHC bhavan ke lokarpan ke dauraan ghoshna ki ki 35 Village Health Clinics ke liye Rs 3.75 crore aur Muttukuru me naye PHC bhavan ke liye Rs 1.95 crore swikrit hue (lokarpan mantri ne kiya, MLA ne nahi). Mantri ne in projects ko MLA ke nirantar prayason ka shrey diya — credit capped. Podalakur dialysis centre: 5-bed sarkari swikriti + CSR se 3 aur bed. GO number/tithi: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'swikriti'
+  },
+  {
+    title: 'MLA ke anurodh par Sarvepalli me mandir vikas ke liye Rs 14.50 crore swikrit hue',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/andhra-pradesh/2026/Oct/13/5000-new-temples-in-all-175-ap-constituencies-minister-anam-reddy',
+    date: '2026-10-13',
+    note: 'New Indian Express ke mutabik Endowments mantri Anam Ramanarayana Reddy ne 13 Oct 2026 ko Mahammadapuram (Podalakuru mandal) me Sri Venkateswara Swamy mandir ka shilanyas kiya — shilanyas mantri ne kiya, MLA keval upasthit the. Mantri ne usi dauraan kaha ki MLA ke anurodh par Endowments Department ne Sarvepalli me mandir vikas ke liye Rs 14.50 crore swikrit kiye — credit capped. GO number/tithi: ghoshit nahi.',
+    period: '2024-2029',
+    stage: 'swikriti'
+  }
+];
+andhraWorks['kakarla-suresh'] = [];
