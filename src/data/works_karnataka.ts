@@ -669,3 +669,241 @@ karnatakaWorks['m-krishnappa-bengaluru-south'] = [];
 
 // REJECT-LOG (b-shivanna): KSPCB chairman appointment (DH Sep 2026 — pad, seat-kaam nahi); Anekal 78 works lokarpan (NIE May 2025 — D K Shivakumar ne kiya, dusre ka karyakram); stadium ghoshna (NIE May 2026 — CM ki ghoshna, KHB fund); 8 villages revenue records transfer (Asianet Newsable Aug 2026 — Vidhansabha-maang ka nateeja jaisa, lekin non-whitelist → reject; whitelisted coverage mile to entry possible); Kiran Mazumdar-Shaw sadak-vivad (maang); KSPCB state-level faisla (DH Oct 2026 — seat-level nahi); Rs 45cr grant dawa (newspointapp — aggregator). NEGATIVES: 2018 IT raid (pre-term + daijiworld non-whitelist); Bommasandra murder allegation (citizenmatters — non-whitelist).
 karnatakaWorks['b-shivanna'] = [];
+
+// === BATCH 4: Belagavi (6/31) — 18 MLAs, 18 assignments ===
+// --- Nippani ---
+karnatakaWorks['shashikala-annasaheb-jolle'] = [
+  {
+    title: 'Karnataka High Court ne 5 April 2024 ko 2023 Nippani vidhansabha chunav ke matdata-riswat-khori aarop wale case me MLA Shashikala Jolle ke khilaf chal rahi poori karyawahi ko radd kar diya, jisse unhe poori raahat mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/bangalore/karnataka-hc-fir-bjp-mp-raghavendra-case-mla-shashikala-jolle-9281298/',
+    date: '2024-04-20',
+    note: 'Nippani Town police ne 2023 assembly polls ke dauran chunaavi riswat-khori ka aarop lagakar case darj kiya tha aur chargesheet file hui thi, jisme Shashikala Jolle khud aaropi (accused no. 2) thi — unke liye prachar kar rahe ek vyakti ke paas Rs 10,000 nagad, voter list aur BJP chinha wale handbill milne ka aarop tha. MLA ke counsel ne dalil di ki shikayat/chargesheet se koi apradh banta hi nahi, jabki prosecution ne trial ki maang ki. Justice Krishna Dixit ki bench ne maana ki jabt nagad rakhna IPC Section 171(E) ke tahat riswat nahi banta aur RP Act ka voter-parivahan wala aarop bhi lagu nahi hota, isliye CC No. 2990/2023 (Crime No. 52/2023) ki poori karyawahi radd kar di gayi. Maamla 2023 ke chunav se juda hai lekin nyayik faisla vartaman karyakaal (May 2023 ke baad) ka hai.',
+    period: '2023-2028',
+  },
+];
+
+
+// --- Chikkodi-Sadalga ---
+karnatakaWorks['ganesh-prakash-hukkeri'] = [];
+
+
+// --- Athani ---
+karnatakaWorks['laxman-sangappa-savadi'] = [
+  {
+    title: 'CM Siddaramaiah ne Athani taluk ke Kottalagi me Kottalagi-Ammajeshwari lift irrigation project ka shilanyas kiya — lagbhag Rs 1,500 crore ki pariyojana se 19,274 hectare khet ko sinchai milegi',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/centre-creating-hurdles-for-irrigation-projects-says-cm/articleshow/108280785.cms',
+    date: '2024-03-06',
+    period: '2023-2028',
+    note: 'TOI (Hubballi) ke mutabik CM Siddaramaiah ne Athani taluk ke Kottalagi me iss lift irrigation project ka shilanyas rakha; pariyojana lagbhag Rs 1,500 crore ki hai aur 19,274 hectare krishi-bhoomi ko sinchai degi. CM ne local MLA Laxman Savadi ki bhoomika ka ullekh karte hue kaha: “Savadi did not demand a ministerial berth but this irrigation project” — yani Savadi ki maang ka dastaveji nateeja. The Hindu (6 Mar 2024) ne bhi iss shilanyas samaroh ki pushti ki hai; event me MLA Savadi maujood the. Credit capped: shilanyas CM ne kiya, Savadi ki bhoomika maang rakhne tak seemit darj hai. Date-note: The Hindu ki report 6 March 2024 ko publish hui aur event ko “Wednesday” bataya — 6 March 2024 Wednesday tha, isliye tithi 2024-03-06 rakhi gayi hai.',
+  },
+  {
+    title: 'Athani police ne DCC bank union neta Ningaraj Karennavar par hamle ke aarop me MLA Laxman Savadi, unke bete Chidanand Savadi aur samarthakon par FIR darj ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/karnataka-mla-laxman-savadi-his-son-and-followers-booked-for-assault-of-dcc-bank-worker/article70473606.ece/amp/',
+    date: '2026-01-05',
+    period: '2023-2028',
+    note: 'The Hindu (5 Jan 2026) ke mutabik Athani police ne MLA Laxman Savadi, unke bete Chidanand Savadi aur samarthakon ke khilaaf DCC Bank union leader Ningaraj Karennavar par hamle ke aarop me FIR darj ki. FIR ke mutabik 3 Jan 2026 ko Athani sthit MLA ke niwas par MLA ne Karennavar ko DCC bank karmchari (MLA ke rishtedaar) ke transfer ka aarop lagate hue thappad maara; bete ne kamar me laat maari; 6-8 logon ne maarpeet ki, jisse Karennavar gambhir ghayal hue aur unhe Belagavi ke private aspatal me bharti karaya gaya. BNS ki dhaarayein 189(2), 191(2), 115(2), 351(2), 352(2), 190 (gairkanooni jamaavda, maarpeet, jaan se maarne ki dhamki, apshabd) me mamla Athani Police Station me darj hua. Savadi ka jawab (4 Jan 2026, The Hindu): unhone aarop se inkaar karte hue kaha — “Neither I nor my supporters are involved in the incident in any way”; Karennavar khud union maslon par charcha ke liye aaye the. MLA samarthakon ne Karennavar ke khilaaf SC/ST (Prevention of Atrocities) Act me prati-shikayat darj karayi aur Athani me virodh pradarshan karke aarop ko jhootha bataya. Stage: sirf FIR star — giraftari ya chargesheet ki established-media reporting ab tak nahi mili; whitelist media me koi raahat (stay/jamanat) bhi darj nahi hai.',
+  },
+];
+
+
+// --- Kagwad ---
+karnatakaWorks['bharamgouda-alagouda-kage'] = [];
+
+
+// --- Kudachi SC ---
+karnatakaWorks['mahendra-kallappa-tammannavar'] = [];
+
+
+// --- Raibag SC ---
+karnatakaWorks['duryodhan-mahalingappa-aihole'] = [];
+
+
+// --- Hukkeri ---
+karnatakaWorks['nikhil-umesh-katti'] = [];
+
+
+// --- Arabhavi ---
+karnatakaWorks['balachandra-laxmanrao-jarkiholi'] = [];
+
+
+// --- Gokak ---
+karnatakaWorks['ramesh-laxmanrao-jarkiholi'] = [
+  {
+    title: 'Karnataka State Cooperative Apex Bank ki shikayat par BJP MLA aur purva-mantri Ramesh Jarkiholi aur do anyon ke khilaf Rs 232.88 crore ke loan ki sharton ke ullanghan me cheating ka case darj',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI',
+    sourceUrl: 'https://www.business-standard.com/amp/india-news/bjp-mla-ramesh-jarkiholi-booked-for-cheating-karnataka-cooperative-bank-124010700844_1.html',
+    date: '2024-01-07',
+    note: 'Press Trust of India (Bengaluru): Vishveshwarapuram police ne BJP MLA aur purva-mantri Ramesh Jarkiholi aur do anyon ke khilaf case darj kiya — aarop tha ki Karnataka Cooperative Apex Bank aur uske group ke any banks se liye gaye loan ki sharton ka ullanghan hua. FIR ke anusaar bank ke general manager ne shikayat ki ki Soubhagya Laxmi Sugars Ltd ke Chairman aur Managing Director Ramesh Jarkiholi aur company ke do directors Vasant V Patil aur Shankar A Pawade ne 12 July 2013 se 31 March 2017 tak firm ki sthapna aur vistaar ke liye Rs 232.88 crore ka loan liya; 31 August 2023 tak bakaaya raashi Rs 439.07 crore thi. Shart thi ki loan chukte hone tak firm ke managing director aur directors nahi badle jayenge, lekin shikayat ke anusaar aaropiyon ne bank ko bina bataye apni jagah anjaan vyaktiyon ko niyukt kar diya ‘with an intention to cheat’. Case IPC ki dhaara 406 (criminal breach of trust), 420 (cheating) aur 34 ke tahat darj hua.',
+    period: '2023-2028',
+  },
+  {
+    title: 'CID ne Karnataka State Cooperative Apex Bank se Rs 439.12 crore ki kathit dhokhadhadi me BJP MLA Ramesh Jarkiholi aur unke do sahyogiyon ke khilaf 4,888-page ki chargesheet dakhal ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/cid-files-chargesheet-against-ramesh-jarkiholi/article69491660.ece',
+    date: '2025-04-25',
+    note: 'The Hindu (Bengaluru, 25 April 2025): Criminal Investigation Department (CID) ne BJP MLA aur purva-mantri Ramesh Jarkiholi aur unke do sahyogiyon ke khilaf chargesheet dakhal ki — aarop hai ki unhone Karnataka State Cooperative Apex Bank Ltd. aur chaar district central cooperative (DCC) banks se kul Rs 439.12 crore ki dhokhadhadi ki. Sootron ke anusaar 4,888-page ki chargesheet Tuesday, 22 April ko dakhal hui, Karnataka High Court ki anumati ke baad — Jarkiholi ne FIR radd karne ke liye High Court me yachika di thi aur usi yachika ki sunvai ke dauraan court ne CID ko chargesheet dakhal karne ki anumati di. Mamla 2013 se 2017 ke beech Gokak-sthit Sowbhagya Lakshmi Sugars ko Karnataka State Cooperative Apex Bank aur Vijayapura, Tumakuru, Dakshina Kannada aur Uttara Kannada ke DCC banks dwara diye gaye Rs 232.88 crore ke loan se juda hai; us dauraan Jarkiholi company ke chairman aur managing director the aur board me unke do sahyogi Vasanth V. Patil aur Shankar C. Pavade director the. Shart thi ki loan chukte hone tak banks ki jaankari ke bina board me koi badlav nahi hoga, lekin Jarkiholi, Patil aur Pavade ne banks ko bina suchit kiye company chhod di aur loan bhi chukta nahi hua — byaj aur jurmaane sahit bakaaya Rs 439.12 crore ho gaya. CID ke Economic Offences Wing ne janch ki aur purva-mantri aur unke do sahyogiyon ko cheating sahit anye apraadhon me chargesheet kiya. Jiss din CID ne chargesheet dakhal ki, usi din company ne bakaaye ka kuch hissa bank ko chuka diya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Chargesheet dakhal hone se thoda pehle Ramesh Jarkiholi ne bank ko Rs 120 crore chukaye; CID ne kaha jaanch jaari hai aur supplementary chargesheet aayegi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/bengaluru/ramesh-jarkiholi-repays-rs-120-crore-beforecid-files-chargesheet-in-bank-fraud-case/articleshow/120652000.cms',
+    date: '2025-04-25',
+    note: 'The Times of India (Bengaluru): CID ne BJP MLA aur purva-mantri Ramesh Jarkiholi aur anyon ke khilaf cheating ke case me special court me chargesheet dakhal ki — aarop hai ki unhone Karnataka Cooperative Apex Bank se Rs 439 crore ki dhokhadhadi ki. Shikayat January 2024 me VV Puram police station me bank ke general manager ne darj ki thi: Gokak ki Soubhagya Laxmi Sugars Ltd ke chairman aur managing director Jarkiholi aur directors Vasant V Patil aur Shankar A Pawade ne July 2013 se March 2017 tak firm ki sthapna-vistaar ke liye bank aur uske group ke lenders se Rs 232 crore liye, lekin unhone shart ka ullanghan kiya ki loan chukte hone tak firm board of directors me badlav nahi karegi — shikayat me likha hai ‘Instead, the accused persons appointed others, and this was done with an intention to cheat’. Baad me case CID ko transfer hua, janch SP (financial intelligence) Raghavendra Hegde ki team ne ki. Jarkiholi aur anyon ne FIR radd karne ke liye High Court ka darwaza khatkhataya lekin safal nahi hue; HC ke green signal ke baad CID ne chargesheet dakhal ki (TOI ke anusaar 15 April; The Hindu ne chargesheet dakhal ki taareekh 22 April batayi). Chargesheet lagbhag 5,000 pages ki hai aur usme 70 gawahon ke bayan hain, Rs 439 crore ki dhokhadhadi ka aarop hai. Chargesheet dakhal hone se thoda pehle Jarkiholi ne bank ko Rs 120 crore chuka diye — chargesheet me is repayment ka zikr nahi hai. Ek senior CID officer ne STOI ko bataya ki bank adhikaariyon ne Rs 120 crore ke bhugtaan ki suchna di hai aur jaanch abhi poori nahi hui hai, isliye CID supplementary chargesheet dakhal karegi.',
+    period: '2023-2028',
+  },
+];
+
+
+// --- Yemkanmardi ST ---
+karnatakaWorks['satish-laxmanrao-jarkiholi'] = [
+  {
+    title: 'ED ne 9-10 September 2026 ko Karnataka ke PWD mantri aur Yemkanmardi MLA Satish Jarkiholi se jude 21 thikanon par FEMA ke tahat searches ki, Rs 3.3 crore unaccounted cash aur ~Rs 15 lakh videshi currency zabt ki, aur PWD contracts me riswat tatha ghoshit-na-ki-gayi videshi niveshon ke dastavej milne ka aarop lagaya — Jarkiholi ne galat kaam se inkar karte hue jaanch me sahyog ka wada kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/bangalore/satish-jarkiholi-karnataka-ed-searches-rs-3-3-crore-cash-seizure-10874707/lite/',
+    date: '2026-09-12',
+    note: 'ED ke anusaar Bengaluru, Belagavi, Gokak aur Kolkata me 21 premises par searches hue — inme PWD mantri Satish Jarkiholi, unki beti aur Chikkodi MP Priyanka Jarkiholi, bete Rahul Jarkiholi, behnoi YD Manjunath, OSD/PA Malagouda Patil aur associates se jude thikane shamil. Rs 3.3 crore unaccounted Indian currency, ~Rs 15 lakh ke US dollar/euro, digital devices aur aise dastavej zabt hue jo ED ke anusaar PWD me aniyamittaon aur contractors se riswat lene ka sanket dete hain; ED ka aarop hai ki Jarkiholi ne Congo ki gold-mining company Magnitude Star SARL me lagbhag 40% hissa liya aur Zambia/Congo ki mining companies me cash nivesh unauthorized channels se kiya gaya. Jarkiholi ka jawab: Opposition leaders ko nishana banaya ja raha hai, ‘I may have made some minor mistakes’, yeh ‘search and not a raid’ hai, FEMA violation ka notice mila hai, videshi nivesh abhi nahi hua — sirf RBI sahit agencies se permission maangi thi, cash par pariwar ne ownership claim kiya hai aur kanooni prakriya se wapas maangenge, jaanch me poora sahyog karenge. Jaanch jaari hai; abhi tak FIR/chargesheet ki khabar nahi.',
+    period: '2023-2028',
+  },
+];
+
+
+// --- Belgaum Uttar ---
+karnatakaWorks['asif-raju-sait'] = [
+  {
+    title: 'Belgaum Uttar ke MLA Asif (Raju) Sait ne Sardar High School campus ke Karnataka Public School me Rs 5 crore ke naye classrooms ki bhoomi puja ki',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/rs-8cr-boost-for-belagavi-kps-mla-performs-bhoomi-puja-for-new-classrooms-labs/articleshow/133428328.cms',
+    date: '2026-08-22',
+    note: 'Page ke “Published” metadata me 2026-08-22T22:40:00+05:30 hai aur text me “on Saturday” — 22 Aug 2026 Saturday hai, isliye date pakki. MLA Asif Sait ne Sardar High School campus ke Karnataka Public School (KPS) me Rs 5 crore ki lagat se banne wale naye classrooms ki bhoomi puja ki; unhone ise Rs 8 crore ke kul development package ka hissa bataya jo sarkari school ko model educational institution banayega. DDPI Leelavati Hiremath ne kaha ki school ke vikas ke liye Rs 8 crore se adhik ka anudan minister Satish Jarkiholi ne dilwaya tha — matlab bhoomi puja MLA ne ki, fund minister dwara secured. Sansthan me lagbhag 2,000 vidyarthi padhte hain; avsar par deputy commissioner Mohammad Roshan, police commissioner Bhushan Gulabrao Borase, deputy mayor Hanumant Kongali, BEO Ravi Bhajantri aur Malagouda Patil maujood the.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Belgaum Uttar ke MLA Asif (Raju) Sait ne Karnataka Public School me Smart City pariyojna ke tahat Rs 3 crore ke robotics, language aur virtual laboratories ka udghatan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/rs-8cr-boost-for-belagavi-kps-mla-performs-bhoomi-puja-for-new-classrooms-labs/articleshow/133428328.cms',
+    date: '2026-08-22',
+    note: 'Page ke “Published” metadata me 2026-08-22T22:40:00+05:30 hai aur text me “on Saturday” — 22 Aug 2026 Saturday hai, isliye date pakki. MLA Asif Sait ne Smart City project ke tahat Rs 3 crore ki lagat se taiyaar robotics, language aur virtual laboratories ka udghatan kiya; isi Rs 8 crore package me smart educational facilities, virtual learning infrastructure aur workshop upgrades shaamil hain. Inka uddeshya vidyarthiyon ko modern, technology-driven learning ke avsar dena aur skill-based education majboot karna hai.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+];
+
+
+// --- Belgaum Dakshin ---
+karnatakaWorks['abhay-patil'] = [
+  {
+    title: 'Belagavi ke Vaccine Depot me Senior Citizens Corner ka MLA Abhay Patil ne lokarpan kiya, jisme open-air theatre, sangeet kaksh, pustakalay, khel kaksh aur open-air vyayamshala bana hai.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/senior-citizens-corner-inaugurated-at-vaccine-depot-in-belagavi/article68973507.ece',
+    date: '2024-12-08',
+    note: 'The Hindu ne likha ki MLA Abhay Patil ne Vaccine Depot me senior citizens corner ka lokarpan kiya. Suvidhaon me open-air theatre, sangeet kaksh (tabla, guitar, violin, mouth organ aadi), pustakalay evam vachanalay, khel kaksh (table tennis, carrom, chess) aur halki kasrat ke liye open-air vyayamshala hai. MLA ne ise desh me apne prakar ki pehli pahal bataya, kaha ki unhone shahar me ek aur jagah Usabari Katte ke liye fund diya hai aur corner ki gatividhiyon ke liye vaarshik fund denge — fund ki rashi lekh me nahi batayi. Tithi anumanit: lekh 11 Dec 2024 ko chhapa aur lokarpan haal me hua bataya gaya, isi se tithi li gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Belagavi Dakshin me Rani Channamma Nagar Stage 1 aur 2 (Zone 6 aur 3A) me 24x7 paani supply yojna ka MLA Abhay Patil ne shubharambh kiya, jisse lagbhag 1,500 parivaaron ko laabh milega.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/belagavis-24x7-drinking-water-upply-reaches-new-wards/articleshow/123337333.cms',
+    date: '2025-08-15',
+    note: 'TOI ne likha ki MLA Abhay Patil ne Belagavi Dakshin me Rani Channamma Nagar Stage 1 aur 2 (Zone 6 aur 3A) me 24x7 paani supply yojna ka shubharambh kiya; karyakram me BCC mayor Mangesh Pawar aur deputy mayor Vani Vilas Joshi maujood the. Yojna KUIDFC ke tahat Karnataka Urban Water Supply Modernisation Project (KUWSMP) me chal rahi hai, karyanvayan me L&T shamil hai; abhi lagbhag 1,500 ghar ko roz paani milega aur trial run ke baad dono zone me nirantar dabav wali 24x7 supply hogi. Tithi anumanit: lekh me Swatantrata Divas ke avsar par aur Shukravaar shaam likha hai; 15 Aug 2025 Shukravaar tha, isi se tithi li gayi.',
+    period: '2023-2028',
+  },
+];
+
+
+// --- Belgaum Rural ---
+karnatakaWorks['laxmi-r-hebbalkar'] = [];
+
+
+// --- Khanapur ---
+karnatakaWorks['vithal-somanna-halagekar'] = [];
+
+
+// --- Kittur ---
+karnatakaWorks['babasaheb-devanagouda-patil'] = [];
+
+
+// --- Bailhongal ---
+karnatakaWorks['mahantesh-shivanand-koujalagi'] = [];
+
+// REJECT-LOG (mahantesh-shivanand-koujalagi)
+// R1: 50-bed Critical Care Unit (CCU), Bailhongal taluk hospital ka shilanyas (event 16 Feb 2026) — TOI (whitelisted,
+//     kholkar padha) + The Hindu (published 17 Feb 2026, whitelisted, kholkar padha) — REJECT: shilanyas Health Minister
+//     Dinesh Gundu Rao ne kiya (dusre neta ka karyakram); MLA Mahantesh Koujalagi ki bhoomika = maujoodgi + event-stariy
+//     maang (compound wall ke liye fund, ambulance fuel allowance). Mantri ne MLA ki maang par compound wall ke liye
+//     Rs 2 crore ki ghoshna ki — ye Vidhansabha maang ka dastaveji nateeja nahi, event-level maang par mantri ki ghoshna
+//     hai (credit capped bhi nahi banta). MLA ka 'CCU ke liye Rs 23 crore jaari ho chuke' wala dawa mantri ke project
+//     par hai — dawa-only, vyaktigat bhoomika/fund disclosed nahi.
+//     URLs: https://timesofindia.indiatimes.com/city/hubballi/health-min-lays-foundation-for-50-bed-critical-care-unit-at-bailhongal-taluk-hosp/articleshow/128432965.cms
+//     https://www.thehindu.com/news/national/karnataka/work-on-three-rural-health-facilities-in-belagavi-district-launched-by-minister-dinesh-gundu-rao/article70639422.ece
+// R2: Assembly Question Hour (19 Feb 2024) — Bailhongal MLA ne taluk prashasanik bhavano ki marammat ka sawal uthaya;
+//     Revenue Minister Krishna Byregowda ne 49 naye talukon me 2-3 saal me bhavan-nirman ki anumati ka ashwasan diya —
+//     ANI-adharit outlets (Public TV English, The News Mill, webindia123, Take One) — REJECT: koi whitelisted outlet
+//     (The Hindu/Indian Express/HT/NDTV/India Today/TOI/Deccan Herald/PTI) me iski coverage nahi mili — whitelist rule.
+//     RETRY-LEAD: whitelisted coverage mile to 'Vidhansabha maang + mantri-ashwasan' (credit capped) entry sambhav.
+//     URL: https://english.publictv.in/revenue-minister-govt-committed-to-construct-administrative-buildings-for-new-taluks/
+// R3: KSFC chairman niyukti (26 Jan 2024, NIE 'Karnataka: 34 MLAs made chiefs of boards') — REJECT: pad-niyukti,
+//     seat-stariy vikas-kaam nahi.
+// R4: Sangolli Rayanna Utsav / Sainik School rock garden lokarpan, Bailhongal taluk (Jan 2024) — nammabelagavinews,
+//     countryandpolitics — REJECT: CM-led karyakram + non-whitelisted outlets.
+// R5: Centre ki Rs 106 crore Belagavi road sanctions (Bailhongal taluk me Asundi-Hittangi-Suttgatti road, Rs 6 crore) —
+//     REJECT: kendra-sarkar (Nitin Gadkari) ki swikriti, MLA ki bhoomika nahi; outlets bhi non-whitelist
+//     (allaboutbelgaum, newsonprojects).
+// R6: 2025 budget me 'Bailhongal town ring road ka DPR' prastav (NIE) — REJECT: budget-ghoshna/prastav, koi swikriti
+//     ya kaam nahi.
+// R7: Sri Channavrushabendra lift irrigation shilanyas, Nesargi (publicnext) — REJECT: Kittur seat ka kaam
+//     (MLA Babasaheb Patil ke prayas), Bailhongal seat ke bahar.
+// R8: COVID positive (Jul 2020, NIE/The Hindu) aur Vidhana Soudha ke saamne car accident (Public TV) — REJECT:
+//     pre-term news events, vikas-kaam nahi.
+// R9: KMF chairman (The Hindu, Oct 2020) — REJECT: pre-term pad-bhoomika.
+// NEGATIVES: 0 — Halafname ka 1 mamla = RP Act Sec 127-A (Crime No. 224/2016, CC No. 31408/2021, Market PS Belagavi);
+//     Karnataka HC (Crl. Petition No. 5528/2022, Sep 2022, Justice S. Sunil Dutt Yadav) ne chargesheet set aside karke
+//     mamla prarambhik stage par wapas bheja (raahat) — pre-term, May 2023+ koi nyayik vikas established media me nahi
+//     mila, isliye negative entry nahi (rule: pre-term tabhi jab vartaman vikas). Search results me mile baaki 'Mahantesh'
+//     naam wale court mamle doosre vyaktiyon ke hain (IAS Mahantesh Bilagi aadi) — pehchan mismatch. May 2023+ me MLA ke
+//     khilaf koi FIR/chargesheet/confirmed janch whitelisted media me nahi mili.
+// RETRY-LEADS (parent ke liye):
+//  - R2 Assembly-prashn (19 Feb 2024): ANI copy ka whitelisted version (The Hindu/Deccan Herald/TOI/PTI) mile to
+//    credit-capped entry sambhav.
+//  - CCU compound wall (Rs 2 crore, Feb 2026): mantri ki event-ghoshna thi; bhavishya me MLA-led shilanyas/lokarpan ki
+//    whitelisted post-event reporting aaye to entry banegi.
+// FOUNDATION CROSS-CHECK: slug 'mahantesh-shivanand-koujalagi' karnataka.ts + ka_mla_g1.ts dono me maujood, works: [] —
+// is fragment se koi antar nahi; fund KLLADS (Rs 2 crore/seat/varsh) pehle se darj; criminalCases: 1 halafname se mel
+// khata hai. FLAG (minor, foundation-level): education 'LLB (Special), Karnataka University, Dharwad (1996)' vs
+// indialeader 'B.Com 1998 + LLB 2002' — parent verify kare.
+
+
+// --- Saundatti Yellamma ---
+karnatakaWorks['vishwas-vasant-vaidya'] = [];
+
+
+// --- Ramdurg ---
+karnatakaWorks['ashok-mahadevappa-pattan'] = [];
+
