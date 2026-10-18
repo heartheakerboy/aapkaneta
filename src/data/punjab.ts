@@ -2681,7 +2681,7 @@ export const punjabNetas: Neta[] = [
         mynetaUrl: 'https://myneta.info/Punjab2022/candidate.php?candidate_id=2',
         backgroundNote: 'Pehchan pakki: Abohar, INC, Winner (myneta candidate_id=2). Umr 45, Graduate (B.Sc, Florida International University, 2001). Koi aapradhik mamla nahi. Sunil Jakhar ke bhatije; Abohar Jakhar parivar ki paramparik seat. 2023 me BJP ka samarthan karne par INC se nishkashit.',
       },
-      electionNote: '2022 me Abohar se 49,924 vote lekar jeete; runner-up Deep Kamboj (AAP, 44,453 vote) ko 5,471 maton se haraya. Group ke iklaute INC vijeta.',
+      electionNote: '2022 me Abohar se 49,924 vote lekar jeete; runner-up Deep Kamboj (AAP, 44,453 vote) ko 5,471 maton se haraya. Group ke iklaute INC vijeta. Khulasa: Aug 2023 me AICC ne party-virodhi gatividhiyon par unhe Congress se nilambit kar diya (chacha Sunil Jakhar BJP Punjab adhyaksh hain); unke BJP me aupcharik roop se shamil hone ki koi satyapit report nahi hai — ve nilambit INC MLA ke roop me hi darj hain.',
   },
   {
   slug: 'amandeep-singh-goldy-musafir',

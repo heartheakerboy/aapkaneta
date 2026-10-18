@@ -3020,3 +3020,233 @@ punjabWorks['devinderjeet-singh'] = [];
 // "Devinderjit Singh Dhos Dharamkot MLA booked FIR police case" dono searches me is MLA ke
 // khilaf karyakaal ka koi FIR/chargesheet/janch wala mamla nahi mila. Halafnama me criminal
 // cases: 0. Isliye negatives bhi 0.
+// ---- PB8: Ferozepur (4 MLA) ----
+// PB8 worker — naresh-kataria (Zira, Ferozepur, AAP)
+// Pehchan: MLA Naresh Kataria, AAP, Zira (Ferozepur) — MLA Mar 2022 se.
+// Teenon entries Amar Ujala video pages se, page header dates se pakki:
+// 25 Aug 2026 (udghatan, Varnala), 26 Jun 2025 (70 lakh karya shuruaat), 20 Nov 2025 (stadium shilanyas).
+punjabWorks['naresh-kataria'] = [
+  { title: 'Zira MLA Naresh Kataria ne Varnala gaon me bane Mukhyamantri Khel Maidan ka udghatan kiya; maidan me chardeevari, baithne ki vyavastha, gym, floodlights aur volleyball-badminton ki suvidhaen hain', category: 'Any', badge: 'news', sourceLabel: 'Amar Ujala', sourceUrl: 'https://www.amarujala.com/video/punjab/chandigarh-punjab/video-mla-inaugurated-chief-ministers-sports-ground-in-varnala-village-zira-2026-08-25', date: '2026-08-25', note: 'Amar Ujala (25 Aug 2026) ke anusaar: Ferozepur ke Zira halke ke Varnala gaon me bane Mukhyamantri Khel Maidan ka MLA Naresh Kataria ne udghatan kiya; yuvaon-bachchon ke liye sabhi zaroori intezam kiye gaye, chardeevari ke saath baithne ki vyavastha, gym, raat me khel jaari rakhne ke liye floodlights, aur volleyball-badminton ki suvidha uplabdh hai; Kataria ne kaha kshetra ke kai anya gaonon me bhi aise hi khel maidan banaye ja rahe hain. Caveat: 20 Nov 2025 ko isi halke me lagbhag Rs 62 lakh ki lagat wale ek stadium ka Kataria ne shilanyas rakha tha — samaykram ke hisab se Varnala wala maidan wahi pariyojna ho sakti hai (shilanyas se udghatan tak lagbhag 9 mahine), lekin entry-3 ki report me gaon ka naam darj nahi hai isliye dono reports ko ek dusre se pakki tarah joda nahi ja sakta; dono entries alag rakhi gayi hain.', period: '2022-2027', stage: 'lokarpan' },
+  { title: 'Zira MLA Naresh Kataria ne Rs 70 lakh ki lagat se shuru hone wale vikas karyon ki shuruaat karwai; sadakon ka nirmaan shuru kar diya gaya', category: 'Sadak', badge: 'news', sourceLabel: 'Amar Ujala', sourceUrl: 'https://www.amarujala.com/video/punjab/chandigarh-punjab/video-mla-started-development-work-worth-rs-70-lakh-in-jeera-2025-06-26', date: '2025-06-26', note: 'Amar Ujala (26 Jun 2025) ke anusaar: Ferozepur ke Zira halke me MLA Naresh Kataria ne Rs 70 lakh ki lagat se shuru hone wale vikas karyon ki shuruaat karwai; unhone kaha Bhagwant Mann ki sarkar Zira me hone wale jitne bhi vikas karya hain, unhe poora karwayegi aur sadakon ka nirmaan shuru kar diya gaya hai; vaade ke mutabiq Zira halke ke sabhi vikas karya samay par poore kiye jayenge; is mauke par Nagar Council ke pradhan sahit anya ganmanya log maujood the.', period: '2022-2027', stage: 'pahal' },
+  { title: 'Zira MLA Naresh Kataria ne lagbhag Rs 62 lakh ki lagat se banne wale stadium ka shilanyas rakha', category: 'Any', badge: 'news', sourceLabel: 'Amar Ujala', sourceUrl: 'https://www.amarujala.com/video/punjab/chandigarh-punjab/video-mla-laid-the-foundation-stone-of-the-stadium-in-jira-2025-11-20', date: '2025-11-20', note: 'Amar Ujala (20 Nov 2025) ke anusaar: Ferozepur ke Zira halke me MLA Naresh Kataria ne stadium ka shilanyas rakha; Kataria ne kaha stadium ke nirmaan me lagbhag Rs 62 lakh ki lagat aayegi aur stadium banne par naujawan yahan khelenge aur nashe se door rahenge. Caveat: 25 Aug 2026 ko Zira ke Varnala gaon me Mukhyamantri Khel Maidan ka Kataria ne udghatan kiya tha — samaykram ke hisab se wahi pariyojna ho sakti hai (Nov 2025 shilanyas se Aug 2026 udghatan tak lagbhag 9 mahine), lekin is report me gaon ka naam darj nahi hai isliye dono reports ko ek dusre se pakki tarah joda nahi ja sakta; dono entries alag rakhi gayi hain.', period: '2022-2027', stage: 'shilanyas' },
+];
+
+// REJECT LOG:
+// R-1. Babushahi (27 Feb 2026) — Zila Parishad/Panchayat Samiti sadasyon ka shapath-samaroh: Kataria sirf vishesh atithi ke roop me maujood the; maujoodgi matra, koi vikas karya nahi. REJECT.
+// R-2. The Tribune (Sep 2026) — sadak haadse ke baad Kataria ne aspatal jakar shok-santapt parivaron se mulakat ki: shok-mulakat, koi karya nahi. REJECT.
+// R-3. CityAirNews (26 May 2026) — Zira nagarpalika chunav hinsa ki report: Kataria ne ghayal AAP karyakarta ko aspatal pahunchaya; chunav ghatna, koi vikas karya nahi. REJECT.
+// R-4. YesPunjab (20 Jun 2025) — Rs 14.27 crore ka Mudki treated-canal-water project: shilanyas mantri Ravjot Singh ne rakha, Kataria sirf vishesh atithi; Mudki Ferozepur Rural seat me hai, Zira me NAHI; dusre neta ka karyakram + seat ke bahar. REJECT.
+// R-5. Kulbir Singh Zira (purva Congress MLA) ke 'fake plot certificates' ke aarop: koi FIR/janch/adhyadeshit vikas dastaveji nahi; negative rule — shikayat/maang akele negative nahi. REJECT.
+// R-6. HT panchayat-polls FIR ('750 unidentified persons'): Kataria ka naam aaropi column me darj nahi; negative entry ke layak nahi. REJECT.
+
+// PB8 worker — ranbir-singh (Firozpur City, AAP, tenure Mar 2022+)
+// MLA record: ~/workspace/aapkaneta/src/data/punjab.ts (slug 'ranbir-singh'); prachar naam: Ranveer Singh Bhullar.
+// Researched 2026-10-18. Whitelist outlets (The Tribune/IE/HT/TOI/NDTV/India Today/Dainik Bhaskar/Jagran/Amar Ujala/PTI)
+// par is MLA ke naam par post-event works reporting lagbhag shunya mili; adhiktar coverage babushahi.com /
+// cityairnews.com / newsonradar.com (sab NON-WHITELIST) par hai.
+// RESULT: 2 work entries (dono Punjabi Jagran — Dainik Jagran samuh ka Punjabi sanskaran; whitelist me "Dainik Jagran"
+// darj hai; parent is sweekriti ki pushti kare), 0 negatives.
+punjabWorks['ranbir-singh'] = [
+  {
+    title: 'MLA Ranbir Singh Bhullar ne Ferozepur Rural ke MLA Rajneesh Dahiya ke saath milkar Ferozepur jile me 6 naye Aam Aadmi Clinic ka uddghatan kiya — clinic gaon Mahalum, Sudh Singh Wala, Sur Singh Wala, Katora, Ruknewala aur Khilchian Kadeem me khule, jisse jile me aise clinic ki kul sankhya 31 se badhkar 37 ho gayi.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Punjabi Jagran',
+    sourceUrl: 'https://www.punjabijagran.com/punjab/firozpur-mlas-ranbir-bhullar-and-rajneesh-dahiya-inaugurated-6-new-aam-aadmi-clinics-9697770.html',
+    date: '2026-10-14',
+    note: 'Punjabi Jagran (Ferozepur, 14 Oct 2026, page kholkar padha): uddghatan Firozpur Shehri halke ke MLA Ranbir Singh Bhullar aur Firozpur Dehati halke ke MLA Rajneesh Dahiya ne sanyukt roop se kiya; Assistant Civil Surgeon Dr. Sushma Thakkar aadi adhikari maujood the. Clinic Punjab sarkar ki Aam Aadmi Clinic yojna ke hain — 46 prakar ke test aur 100 se zyada dawaiyan muft, koi parchi fees nahi (yojna ki prakriti source ke kathan anusar). Credit capped: in 6 gaon me se kaun-kaun se Firozpur City seat me aate hain, ye source me darj nahi hai — shrey sanyukt uddghatan tak seemit hai. Date seedha page ke publish date se li gayi hai (kono inference nahi).',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA Ranbir Singh Bhullar ne Ferozepur shahar ke aitihasik Multani Gate chowk par Shaheed-e-Azam Sardar Bhagat Singh ke aadamkad butte ka shubh-uddghatan kiya, jo unke janm-divas ke avsar par sthapit kiya gaya tha.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Punjabi Jagran',
+    sourceUrl: 'https://www.punjabijagran.com/punjab/firozpur-mla-ranbir-bhullar-inaugurates-lifesize-statue-of-shaheedeazam-sardar-bhagat-singh-at-multani-gate-9689008.html',
+    date: '2026-09-28',
+    note: 'Punjabi Jagran (Ferozepur, 28 Sep 2026, page kholkar padha): butta Ferozepur shahar ke Multani Gate chowk par sthapit hai (seat ke andar hai); uddghatan avsar par MLA ne shahar ke sundarikaran aur vikas-karyon ke jaari rehne ki baat kahi, aur Market Committee Ferozepur Shehar ke chairman aadi maujood the. Fund/scheme disclosure: ye butta ‘Rangla Punjab’ scheme ke tahat laga hai — Punjab me ye scheme Deputy Commissioners ke through chalti hai, paisa seedha MLA ko nahi milta. Media me MLA ki dastaveji bhoomika uddghatan tak hai; shrey capped. Date seedha page ke publish date se li gayi hai (kono inference nahi).',
+    period: '2022-2027',
+  },
+];
+
+// Fragment: Rajneesh Kumar Dahiya (AAP, Firozpur Rural (SC)) — constituency works
+// Researched 2026-10-18. MLA confirmed: AAP, Firozpur Rural (SC), MLA since Mar 2022; no minister status.
+// RESULT: 0 qualifying works, 0 negatives. Whitelist media has no post-event
+// post-term reporting of a physical government work by this MLA with disclosed fund and role.
+punjabWorks['rajneesh-kumar-dahiya'] = [];
+
+// Fragment: Fauja Singh Sarari (AAP, Guru Har Sahai, Ferozepur) — constituency works
+// Researched 2026-10-18. MLA confirmed from ~/workspace/aapkaneta/src/data/punjab.ts
+// (slug fauja-singh): AAP, Guru Har Sahai, MLA since Mar 2022; cabinet minister
+// (Horticulture/Food Processing) Jul 2022 – Jan 2023, then resigned; NOT a minister now.
+// RESULT: 0 qualifying works, 0 negatives. Whitelist media has no post-event
+// reporting of a physical government work by this MLA in Guru Har Sahai with
+// disclosed fund and personal role.
+punjabWorks['fauja-singh'] = [];
+
+// ---- PB8: Fazilka (4 MLA) ----
+// Fragment: Jagdeep Kamboj (Goldy) (AAP, Jalalabad) — constituency works
+// Researched 2026-10-18. MLA confirmed via punjab.ts (slug jagdeep-kamboj-goldy):
+// AAP, Jalalabad, MLA Mar 2022 se; koi mantri-status nahi.
+// RESULT: 2 qualifying works, 0 negatives.
+punjabWorks['jagdeep-kamboj-goldy'] = [
+
+  { title: 'Jagdeep Kamboj Goldy ne 11 March 2024 ko apni Jalalabad seat ke Jalalabad shahar me lagbhag Rs 3 crore ke ‘rehri’ (street-vendor) market ka shilanyas kiya — platform, steel cover, sheds, sadken aur footpath banenge, aur maqsad chhote vendors ke jeevika-paristhitiyon me sudhar bataya gaya.', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/mla-lays-foundation-stone-of-rehri-market-599588/', date: '2024-03-11', note: 'Cited page ke anusar: dateline Fazilka, March 11 — \"today\" (2024-03-11 Monday thi, date -d se verified); MLA ne vyaktigat roop se Jalalabad town me rehri market ka shilanyas kiya; lagat Rs 3 crore; platform, steel cover, sheds, roads, footpaths; maqsad chhote vendors ka utthan aur \"buyers shall be provided every commodity under one roof\". Credit: MLA ka vyaktigat shilanyas, fund disclosed (fund source cited page par specify nahi).', period: '2022-2027', stage: 'shilanyas' },
+
+  { title: 'Usi din Jagdeep Kamboj Goldy ne Jalalabad shahar me sports enthusiasts aur kishoron ke liye Rs 1.5 crore ke synthetic badminton court ka bhi shilanyas kiya.', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/mla-lays-foundation-stone-of-rehri-market-599588/', date: '2024-03-11', note: 'Cited page ke anusar: upar wali hi report me — \"The MLA said that a synthetic badminton court is being set up for sports enthusiasts and teenagers in the town at the cost of Rs 1.5 crore\" aur \"The MLA also laid the foundation stone of the court today\" (2024-03-11 Monday thi, verified). Credit: MLA ka vyaktigat shilanyas, fund disclosed (fund source cited page par specify nahi).', period: '2022-2027', stage: 'shilanyas' },
+
+];
+
+// Fazilka — Narinder Pal Singh Sawna (AAP, MLA Mar 2022 se; koi mantri-pad nahi) — works researched 2026-10-18 — DO NOT export; appended to works_punjab.ts
+punjabWorks['narinder-pal-singh-sawna'] = [
+  {
+    title: 'Fazilka sarkari aspataal me Rs 1 crore ki lagat se bane facilitation centre ka MLA Narinder Pal Singh Sawna dwara lokarpan — marizon ko ek hi jagah jankari, dakhla-parchi aur sewaen',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Punjabi Jagran (Dainik Jagran), 12 Oct 2026',
+    sourceUrl: 'https://www.punjabijagran.com/punjab/fazilka-mla-narinderpal-singh-sawna-inaugurates-a-facilitation-centre-built-at-a-cost-of-1-crore-at-fazilka-government-hospital-9696630.html',
+    date: '2026-10-12',
+    note: 'Punjabi Jagran (12 Oct 2026) ki post-event report ke mutabik, Fazilka ke sarkari aspataal me Rs 1 crore ki lagat se bane naye facilitation centre ka shubharambh MLA Narinder Pal Singh Sawna ne kiya; unki patni bhi maujood thi. Centre me mariz ek hi sthan par jaroori jankari, dakhla-parchi (registration slips) aur anya sewaen pa sakenge, jisse alag-alag counteron par bhatakne se rahat milegi. Status: lokarpan (nirman purn, janata ko samarpit). Caveat: fund source khabar me disclosed nahi hai — Rangla Punjab Vikas Scheme ya kisi anya mad ka naam report me nahi aaya; isliye badge news hai, sarkari nahi.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Feb 2023 ke Chandigarh virodh-pradarshan mamle me Chandigarh court ne Fazilka MLA Narinder Pal Singh Sawna sahit 10 AAP netaon par IPC dharaon me aarop tay kiye — trial Jan 17, 2026 se shuru hona tha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express, 4 Jan 2026',
+    sourceUrl: 'https://indianexpress.com/article/cities/chandigarh/charges-framed-against-10-aap-leaders-for-scuffles-with-cops-violating-dms-orders-10454274/',
+    date: '2026-01-04',
+    note: 'Indian Express (4 Jan 2026) ke mutabik, Chandigarh District Court ne 12 Feb 2023 ko Chandigarh ke Sector 37 me Punjab BJP office ke bahar hue virodh-pradarshan se jude mamle me Fazilka ke MLA Narinder Pal Singh sahit 10 AAP netaon par IPC ki dharaon 147, 149, 323, 332, 353 aur 188 ke tahat aarop tay kiye; trial Jan 17 (2026) se shuru hona tha. Sector 39 police station ne FIR darj ki thi — aarop: police karmiyon se dhakka-mukki, police par hamla, aur District Magistrate ke prabandhakari aadeshon ka ullanghan; pradarshan me kendreeya sarkar par Adani-samuh ko tarjeeh dene ka aarop lagaya gaya tha. Stage ka sach: aarop tay hue hain — dosh-siddhi NAHI; court ka detailed order us samay awaited tha. Khabar me MLA ka jawab uddhrit nahi hai. Pehchan seat se pakki: khabar me ‘MLA from Fazilka’ + ‘Narinder Pal Singh’ likha hai.',
+    period: '2022-2027',
+  },
+];
+
+// PB8 worker — sandeep-jakhar (Abohar, Fazilka)
+// Pehchan (foundation record ~/workspace/aapkaneta/src/data/punjab.ts, slug 'sandeep-jakhar'):
+// Sandeep Jakhar, INC, Abohar se MLA (Mar 2022 se); 2022 me 49,924 vote, Deep Kamboj
+// (AAP) ko 5,471 maton se haraya. 2023 me BJP ka samarthan karne par INC se nishkashit.
+// 5 valid work entries (sabhi me shrey capped: prastav/sawal/vakaalat ke dastaveji
+// nateeje; amal sarkar/police ne kiya). Negatives: 0 (koi FIR/chargesheet/janch nahi mili;
+// Aug 2023 ka Congress nilamban party karyawahi matra hai).
+punjabWorks['sandeep-jakhar'] = [
+  { title: 'Abohar Minor nahar ke punarnirman ka prastav Sandeep Jakhar ne diya, jis par Punjab sarkar ne Rs 2.05 crore ki cement-concrete pariyojna shuru ki; MLA ne kisanon aur adhikariyon ke saath nirman kary ka nirikshan bhi kiya', category: 'Paani', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/punjab/punjab-govt-to-invest-rs-2-cr-to-rebuild-abohar-canal', date: '2025-02-04', note: 'The Tribune (4 Feb 2025) ke anusaar: lagbhag 50 saal purani Abohar Minor (branch canal) ka punarnirman Punjab sarkar ne shuru kiya; pehle eent-astari thi, ab seepage rokne ke liye cement-concrete system apnaya gaya; pichhli sarkar ka marammat-anudan lauta diya gaya aur cement-concrete nahar ka prastav rajya sarkar ko diya gaya, jo ab Rs 2.05 crore me ho raha hai; MLA ne adhikariyon ko nirdhanusar fund upyog ki hidayat di aur Punjab sarkar ka dhanyavad kiya. Shrey capped: kaam sarkar kara rahi hai; MLA ki bhoomika prastav aur nirikshan tak.', period: '2022-2027', stage: 'kaam-shuru' },
+  { title: 'MLA ka dawa — Khuian Sarwar aur Telupura gaon ka Rs 6.61 crore wala common water works, jo sarkar badalne par ruk gaya tha, unke prayason se dobara shuru hua; lagbhag 1,214 parivaron ko peene ka paani milega', category: 'Paani', badge: 'dawa', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/punjab/water-supply-project-delayed-says-mla-643716', date: '2024-07-26', note: 'The Tribune (27 Jul 2024; Abohar, 26 Jul) me MLA ke bayan ke anusaar: dono gaon ke liye common water works 2021 me (pichhli sarkar dwara) Rs 6.61 crore me shuru hua tha, sarkar badalne par kaam ruk gaya, aur ‘bahut prayason’ ke baad ab dobara shuru hua hai; MLA ne nirmanadhin site ka daura kiya; unke anusaar RCC storage tank ka nirmaan sarkar ne rok diya hai. Dhyan rahe: dobara shuru hone ka shrey keval MLA ke apne dawe par aadharit hai, aur mool swikriti 2021 ki (karyakaal se pehle ki) hai.', period: '2022-2027', stage: 'kaam-shuru' },
+  { title: 'Vidhan Sabha me Sandeep Jakhar ke sawal par khanan mantri Gurmeet Singh Meet Hayer ne sweekar kiya ki Mansa, Barnala, Sangrur aur Fazilka jilon me ret-bajri sarkari bhav se unche daam par bik rahi hai', category: 'Any', badge: 'news', sourceLabel: 'The Indian Express', sourceUrl: 'https://indianexpress.com/article/cities/chandigarh/sandeep-jakhar-punjab-assembly-gurmeet-singh-meet-hayer-illegal-mining-8993066/lite/', date: '2023-10-21', note: 'Indian Express (21 Oct 2023) ke anusaar: (tatkalin nilambit) Congress MLA Sandeep Jakhar ne mining licenses ke sawal ke saath apne kshetra aur jile me avaidh ret khanan ka mudda uthaya aur sarkari janch ki maang ki; unhone sarkari bhav Rs 5.50 prati cubic feet ke mukable Rs 38-40 par bikri ka sawal uthaya; mantri ne maana ki kuch jilon me unche bhav hain aur Mansa, Barnala, Sangrur aur Fazilka ka naam liya. Shrey capped: nateeja mantri ka sadan me sweekar hai; MLA ki bhoomika sawal uthane tak.', period: '2022-2027' },
+  { title: 'Sandeep Jakhar ke Vidhan Sabha sawal ke jawab me mantri Mohinder Bhagat ne bataya ki Abohar me waterlogging aur bagwani vikas ke liye Rs 27.7 crore ki pariyojna chal rahi hai — pehle charan me 27 gaon, dusre charan me 15 aur gaon judege', category: 'Any', badge: 'news', sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/rs-27cr-project-underway-to-boost-horticulture-in-abohar-minister/articleshow/129350302.cms', date: '2026-03-09', note: 'TOI (9 Mar 2026) ke anusaar: Abohar MLA ke sawal ke jawab me mantri Mohinder Bhagat ne sadan me bataya ki Soil and Water Conservation vibhaag Abohar kshetra me pariyojna chala raha hai; pehle charan me 27 gaon me lagbhag Rs 27.7 crore ka kaam shuru ho chuka hai aur dusre charan me 15 gaon aur shamil honge. Shrey capped: pariyojna rajya sarkar ki hai; MLA ki bhoomika sawal ke madhyam se mudda uthane tak.', period: '2022-2027', stage: 'kaam-shuru' },
+  { title: 'Sandeep Jakhar ke CM aur DGP ko tag karke mudda uthane aur SP se milne ke baad Abohar ke Indira Nagari me police ne nasha-tasraron ke khilaf vishesh abhiyan chalaya, jisme aath logon par BNS ki dharaon me mamle darj hue', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/punjab/police-crack-down-on-drug-peddlers-in-abohar/amp/', date: '2026-04-11', note: 'The Tribune (11 Apr 2026) ke anusaar: MLA ne ‘Drug whistle-blower assaulted in Abohar’ report social media par CM aur DGP ko tag karke uthayi aur Indira Nagari ki mahilaon ke saath SP Ashwant Singh se mile; uske baad City-1 police ne vishesh abhiyan chalaya (Indira Nagari, Krishna Nagri, Kalyan Bhumi Road, Sabzi Mandi Chowk me gasht); aath logon par BNS dhara 128/170 ke tahat mamle darj hue aur bina number-plate ki motorcycles zabt ki gayin. Shrey capped: karyavahi police ki hai; MLA ki bhoomika vakaalat (tag + SP se mulakat) tak.', period: '2022-2027', stage: 'poora' },
+];
+// WORKER: sandeep-jakhar (Abohar, INC→BJP; 2023 me INC se nishkashit) — 5 valid work entries:
+// (1) Abohar Minor punarnirman Rs 2.05 crore, prastav MLA ka, kaam sarkar ka (Tribune, Feb 2025);
+// (2) Khuian Sarwar–Telupura water works dobara shuru Rs 6.61 crore — MLA ka dawa (Tribune, Jul 2024);
+// (3) Vidhan Sabha me avaidh khanan sawal, mantri ne unche ret-bhav maane (IE, Oct 2023);
+// (4) horticulture/waterlogging pariyojna Rs 27.7 crore, 27+15 gaon — sawal par mantri ka jawab (TOI, Mar 2026);
+// (5) nasha-tasraron par police abhiyan, MLA ki vakaalat ke baad (Tribune, Apr 2026).
+// Negatives: 0. Retry-leads: (a) IE profile (23 Sep 2022) ka poora text — works suchi (college/canal/mandi/school/water works/sewage/stadium/road) snippet me hai, page truncated khula; (b) Tribune ‘MLA hands over list of incomplete works to CM’ (14 Mar 2024) — publish.tribuneindia.com par 403, canonical https://www.tribuneindia.com/news/mla-hands-over-list-of-incomplete-works-to-cm-600608/ se retry; (c) Sappanwali Veterinary College, Abha Square (Mini Secretariat), Nehru Stadium, bus stand renovation ki sthiti — abhi sirf face2news; (d) Khuian Sarwar water works poornata ka follow-up; (e) Dainik Bhaskar/Dainik Jagran/Amar Ujala Abohar sanskaran me shilanyas/lokarpan coverage.
+// R-1. The Tribune (27 Feb 2023) — Patrewala mega water works Rs 578.28 crore, L&T contract: CM Mann ne shilanyas kiya; pichhli sarkar ne approve kiya tha; MLA ne sirf CM ka dhanyavad kiya. Vyaktigat bhoomika dastaveji nahi. REJECT.
+// R-2. The Tribune (9 Jan 2024) — Bhangarkhera Minor nirikshan (Rs 30 lakh) + 6 nahari pul (Rs 20 lakh): sirf nirikshan/daura; MLA ke prastav ka dawa 2008 ka (pre-term). REJECT.
+// R-3. The Tribune (14 Mar 2024) — CM ko adhuri works ki suchi (bus stand Rs 70 lakh, purana grain market Rs 72 lakh, water works tank): page 403 par block, khul nahi paya; snippet me sirf maang + CM ashwasan. REJECT (retry lead).
+// R-4. The Tribune (2 Mar 2024) — Seed Farm bypass (Bharatmala) ke liye muavze ka CM ko patra: sirf maang. REJECT.
+// R-5. The Tribune (3 Apr 2026) — Aug 2025 barish se fasal nuksan ka muavza: sirf maang. REJECT.
+// R-6. The Tribune (~Sep 2024) — paanch gaon (Patti Billa, Dalmir Khera, Sappanwali, Gidderanwali, Daulatpura) waterlogging par DC ko gyapan: sirf maang. REJECT.
+// R-7. The Tribune (9 Feb 2026) — STP-to-Sayeed Wala pipeline Rs 37.46 crore (UIDF, 80% Union): kendriya pariyojna; MLA ne sirf lagat-sharing batayi; vyaktigat bhoomika dastaveji nahi. REJECT.
+// R-8. Isi article me — PMAY-Rural: Khuian Sarwar block me 200 labharthi, Rs 1.40 crore DBT: kendriya yojana, vyaktigat bhoomika nahi. REJECT.
+// R-9. face2news — Jakhar Trust eye camp (300 patients): non-whitelist + daan/rahat kaam. REJECT.
+// R-10. The Tribune (19 May 2026) — BJP ka AAP ke khilaf ‘chargesheet’/‘Sankalp Patra’: rajneetik event, vikas kaam nahi. REJECT.
+// R-11. face2news — ‘4.5 year report card’ maang: non-whitelist + sirf maang. REJECT.
+// R-12. Indian Express profile (23 Sep 2022) — works suchi (college, canals, mandi, schools, water works, sewage, stadiums, roads): page truncated khula, snippet-only; interview dawa; pre-term/term timing aspasht. REJECT (retry lead).
+// R-13. YesPunjab/babushahi/patialapolitics — horticulture Rs 27.73 crore: non-whitelist; wahi event TOI me covered (entry 4). REJECT (duplicate source).
+// R-14. PTI/ThePrint (Oct 2026) — NIA/ED janch ki maang: Sunil Jakhar (Punjab BJP chief) ke bayan, Sandeep Jakhar ke nahi; galat pehchan ka jokhim. REJECT.
+// R-15. The Tribune (Nov 2024) — Abohar marathon / ‘Apna Abohar Apni Abha’ abhiyan: samajik abhiyan, bhautik sarkari sanrachna nahi. REJECT.
+// R-16. Aug 2023 — Congress se nilamban (anti-party activities): party karyawahi akele negative nahi. REJECT (negative-entry).
+
+// Fragment: Amandeep Singh Goldy Musafir (AAP, Balluana (SC)) — constituency works
+// Researched 2026-10-18. MLA confirmed: AAP, Balluana (SC), Fazilka district, MLA since Mar 2022; no minister status.
+// RESULT: 1 qualifying work, 0 negatives.
+punjabWorks['amandeep-singh-goldy-musafir'] = [
+  {
+    title: 'Ramsara Minor nahar ke navinikaran ke liye sarkar ne Rs 9.5 crore ka grant jaari kiya, jisse Balluana ke tail-end gaon ko sinchai ka paani milega',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/rs-9-5-crore-for-ramsara-canal-reconstruction-467106/',
+    date: '2023-01-04',
+    note: 'The Tribune (Abohar, 3 Jan 2023) reports: Ramsara Minor ka ek hissa pehle concrete-lining me tha, lekin baaki kaam ke liye fund nahi tha; MLA ne 17 May (2022 — varsh inferred, disclose kiya gaya) ko CM Bhagwant Mann ko patra likha, phir CM aur Irrigation Minister Harjot Singh Bains se is mamle me mila; uske baad sarkar ne Rs 9.5 crore ka grant jaari kiya. Paisa Punjab sarkar ka hai; MLA ka shrey sirf sifarish/pehravi tak seemit (credit capped).',
+    period: '2022-2027',
+    stage: 'swikrit',
+  },
+];
+
+// ---- PB8: Sri Muktsar Sahib (4 MLA) ----
+// Fragment: Gurmeet Singh Khudian (AAP, Lambi, Muktsar) — constituency works
+// Researched 2026-10-18. MLA confirmed via foundation record (src/data/punjab.ts,
+// slug: 'gurmeet-singh-khudian'): AAP, Lambi, MLA since Mar 2022; Cabinet Minister
+// (Agriculture, Animal Husbandry, Food Processing). Scope: SIRF Lambi seat ke kaam;
+// mantri-portfolio ki rajya-neetiyan/kisan-kalyan faisle entry NAHI.
+// RESULT: 0 qualifying works, 0 negatives. Whitelist media me Mar 2022 ke baad Lambi
+// seat ke liye MLA dwara vyaktigat lokarpan/shilanyas wala koi bhautik sarkari karya
+// (fund+bhoomika sahit, post-event reporting) nahi mila. MLA ne khud Indian Express
+// (The House of Punjab, 2022) me kaha tha: unhein apne kshetra me shilanyas rakhwane
+// par vishwas nahi hai. Unka zyada tar documented kaam Krishi Mantri ke roop me rajya
+// star par hai (mandi-link sadken, pashu aspatal IPD, labs), jo iss scope se bahar hai.
+punjabWorks['gurmeet-singh-khudian'] = [];
+
+// Fragment: Hardeep Singh Dimpy Dhillon (AAP, Gidderbaha, Muktsar) — constituency works
+// Researched 2026-10-18. MLA confirmed from ~/workspace/aapkaneta/src/data/punjab.ts
+// (slug hardeep-singh-dimpy-dhillon): AAP, Gidderbaha, MLA since Nov 2024 bypoll
+// (voting 20.11.2024; oath 02.12.2024; earlier SAD, joined AAP 28.08.2024). Tenure Nov 2024+.
+// RESULT: 1 qualifying work (news), 0 negatives, 14 rejects.
+punjabWorks['hardeep-singh-dimpy-dhillon'] = [
+  {
+    title: 'Hardeep Singh Dimpy Dhillon ne Gidderbaha Civil Hospital me 50-bed wale Critical Care Unit (CCU) ka shilanyas kiya (lagat Rs 16.73 crore; Pradhan Mantri Ayushman Bharat Health Infrastructure Mission ke tehat; samaroh Lok Nirman Vibhag ne aayojit kiya).',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/bathinda/foundation-stone-laid-for-ccu-in-gidderbaha-amid-ongoing-location-controversy/',
+    date: '2025-05-21',
+    note: 'The Tribune (22 May 2025) reports: MLA ne Civil Hospital parisar me 50-bed CCU ka shilanyas kiya; pariyojna Rs 16.73 crore ki hai aur Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (PM-ABHIM) ke tehat banni hai. Samaroh Lok Nirman Vibhag (PWD) ne aayojit kiya (SMO Dr Rashmi Chawla ne Tribune ko yehi bataya). MLA ne CM Bhagwant Singh Mann ko pariyojna ke samarthan ke liye dhanyavad diya. DATE INFERRED: article 22 May 2025 (Thursday) ko publish hua aur samaroh ko ‘Wednesday’ likhta hai — isliye date 21 May 2025 maani gayi. VIVAAD DISCLOSED: CCU ke sthan par vivaad hai — Muktsar ke Anurag Sharma ne Punjab and Haryana High Court me PIL dayar ki (CCU ko Muktsar district hospital se Gidderbaha sthanantar karne ke khilaf); Apr 30 ko court ne jawab manga, May 20 ko sunvai tay hui, aur PIL 22 July tak sthagit hui — pariyojna nyayik vivaad ke adheen hai.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+];
+
+// Fragment: Dr. Baljit Kaur (AAP, Malout (SC), Muktsar district) — constituency works
+// Researched 2026-10-18. MLA confirmed from ~/workspace/aapkaneta/src/data/punjab.ts
+// (slug baljit-kaur): AAP, Malout (SC), MLA since Mar 2022; cabinet minister
+// (Social Justice, Women and Child Development). SIRF Malout seat ke kaam;
+// vibhagiya rajya-faisle entry NAHI.
+// RESULT: 0 qualifying works, 0 negatives. Her Malout constituency works are
+// reported only on non-whitelisted portals (yespunjab, brightpunjabexpress,
+// babushahi, patialapolitics, 5dariyanews, dainiksaveratimes, sachkahoon,
+// wishavwartatimes, indiathisweek, pinewz, newindian, cityairnews). No
+// whitelisted outlet (The Hindu/Indian Express/HT/NDTV/India Today/TOI/
+// Tribune/Bhaskar/Jagran/Amar Ujala/PTI-on-established) carries post-event
+// reporting of a physical government work by her in Malout with disclosed
+// fund and personal role, and no punjab.gov.in DIPR release surfaced.
+punjabWorks['baljit-kaur'] = [];
+
+// PB8 worker — jagdeep-singh-kaka-brar (Muktsar, AAP)
+// Pehchan pakki: punjab.ts (slug jagdeep-singh-kaka-brar): AAP, Muktsar,
+// MLA Mar 2022 se, koi mantri pad nahi, halafname me 0 criminal cases.
+// Khaali profile nahi — 3 entries mili: 2 'dawa' (MLA ke apne bayan, The Tribune interview
+// 26 Apr 2024) + 1 'news' (Tribune-reported heritage-makeover prastav, Sep 2025, credit capped).
+// Negatives: 0 — halafname me 0 cases; TOI candidate overview (2024 LS) bhi 'No criminal cases';
+// whitelist media me FIR/arrest/chargesheet ka koi mamla nahi mila.
+punjabWorks['jagdeep-singh-kaka-brar'] = [
+  { title: 'MLA ka dawa — The Tribune se baatcheet me Kaka Brar ne kaha ki unhone Thandewala gaon me saal-bhar ki waterlogging ki samasya rokne ke liye pipeline lagwai', category: 'Paani', badge: 'dawa', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/punjab/good-rail-link-for-border-belt-my-priority-614690/amp', date: '2024-04-26', note: 'MLA ka dawa — iska ekmatra aadhaar 26 Apr 2024 ko The Tribune me chhapa MLA ka apna bayan hai (Ferozepur LS ummeedvar ke roop me interview). Swatantra pushti, rakam, ya shilanyas/lokarpan ka dastavez article me nahi diya gaya.', period: '2022-2027' },
+  { title: 'MLA ka dawa — Muktsar shahar me sewage-mishrit peya-jal ki samasya ke liye nai pipelines bichhai gain aur Sirhind feeder se seedhe pani ki aapurti ke liye Municipal Council se atka fund chhudwaya gaya', category: 'Paani', badge: 'dawa', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/punjab/good-rail-link-for-border-belt-my-priority-614690/amp', date: '2024-04-26', note: 'MLA ka dawa — iska ekmatra aadhaar 26 Apr 2024 ko The Tribune me chhapa MLA ka apna bayan hai. MLA ke anusaar Municipal Council pichhle 2 saal se fund jari nahi kar rahi thi, jo unke hastakshep se jari hua. Swatantra pushti ya rakam article me nahi di gayi.', period: '2022-2027' },
+  { title: 'Kaka Brar ke prastav ke baad Punjab Heritage and Tourism Promotion Board ne Gurdwara Tutti Gandi Sahib ke aas-paas heritage makeover ki yojana ki samiksha ki; MLA ke anusaar iske liye zaroori funds uplabdh karaye ja rahe hain', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/bathinda/muktsar-gurdwara-surroundings-to-get-heritage-makeover/', date: '2025-09-01', note: 'The Tribune (1 Sep 2025) ke anusaar: sthaniya MLA ke prastav ke baad Board ke adviser Deepak Bali ne gurdwara ka daura karke prastavit restoration project ki samiksha ki aur vibhagon ke adhikariyon se charcha ki. MLA ne kaha maang lambe samay se thi aur sarkar ne ise gambhirta se lekar zaroori funds uplabdh karaye hain. Credit capped: pariyojana sarkari Board ki hai; yojana ghoshna-star se aage badhne ka dastavez article me nahi hai.', period: '2022-2027' },
+];
+// WORKER: jagdeep-singh-kaka-brar (Muktsar, AAP) — 3 entries (2 dawa, 1 news), 0 negatives, 11 rejects. Retry-leads: Dainik Bhaskar/Dainik Jagran ke Muktsar sanskaranon me shilanyas coverage; punjab.gov.in ya district Muktsar site par Rangla Punjab Vikas Scheme ki segment-war kaam suchi; Punjab Vidhan Sabha questions record me Kaka Brar ki maango ka nateeja.
+// R-1. Times of India (Nov 2025) — CM Mann ne Sri Muktsar Sahib me Rs 138.82 crore ki sewerage + water supply pariyojnaon ka shilanyas kiya: CM ka karyakram; Kaka Brar sirf maujood the. Dusre neta ke karyakram me maujoodgi. REJECT.
+// R-2. The Tribune (Aug 2024) — 'AAP govt bypassing rules to woo voters in Gidderbaha': Kaka Brar ne Gidderbaha (dusri seat) me shilanyas kiye. Muktsar seat ke bahar ka kaam. REJECT.
+// R-3. The Tribune (Apr 2024) — 'Muktsar MLA, security men nab robber': vyaktigat sahas ki ghatna (Kotkapura road par dakait pakda), koi constituency works nahi. REJECT.
+// R-4. The Tribune (Sep 2025) — Haraj gaon me baadh ka khatra: MLA ne barish-prabhavit gaonon ka daura karke nikasi ke 'prayas jari' hone ka bayan diya. Sirf nirikshan/daura + bayan; koi dastaveji kaam nahi. REJECT.
+// R-5. thefactnews.in (Jun 2026) — 'Bright Minds Punjab' samman samaroh: MLA sirf maujood the; non-whitelist aggregator; koi kaam nahi. REJECT.
+// R-6. patialapolitics.com (Nov 2025) — Guru Tegh Bahadur ji par Light and Sound show me MLA ki maujoodgi: keval maujoodgi. REJECT.
+// R-7. indianewswire.co.in (Mar 2026) — Sri Muktsar Sahib me ESIC branch office ka lokarpan: non-whitelist portal; kendriya pariyojana (Ministry of Labour) jisme MLA ki koi bhoomika dastaveji nahi. REJECT.
+// R-8. The Tribune (Nov 2025) — Fattanwala (MLA ke mool gaon) me 11 tubewell motors ki chori, police ne FIR nahi likhi: MLA aaropi nahi (unhone kaha unhe jankari hi nahi thi). Negative-entry ke layak nahi; works bhi nahi. NOTED, REJECT.
+// R-9. gcmuktsar.com (Mar 2025) — Govt College Muktsar ka 66th annual sports day, MLA mukhya-atithi: mukhya-atithi samaroh. REJECT.
+// R-10. newsarenaindia.com (May 2025) — AAP ne Kaka Brar ko Malwa West ka state vice-president banaya: party pad; constituency works nahi. REJECT.
+// R-11. The Tribune (Apr 2025) — Punjab Sikhya Kranti ke beech MLA ka shikshakon ke samman wala viral speech: keval bayan; koi kaam nahi. REJECT.
+
+// [end of PB8]
