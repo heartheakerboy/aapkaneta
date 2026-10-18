@@ -39,6 +39,7 @@
 - [Chhattisgarh](https://aapkaneta.org/chhattisgarh/)
 - [Jharkhand](https://aapkaneta.org/jharkhand/)
 - [Haryana](https://aapkaneta.org/haryana/)
+- [Punjab](https://aapkaneta.org/punjab/)
 - Maharashtra ke neta profiles homepage ke neta-khande se milte hain (jaise https://aapkaneta.org/neta/<slug>/)
 
 ## Har neta ke profile par kya milta hai
