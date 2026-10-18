@@ -1,0 +1,25 @@
+---
+import JilaDetail from '../../../components/JilaDetail.astro';
+import { andhraConstsAll, andhraNetasAll } from '../../../data/all';
+
+const dslug = (d: string): string => d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+export function getStaticPaths() {
+  const districts = [...new Set(andhraConstsAll.filter(c => c.type === 'Vidhan Sabha').map(c => c.district))];
+  return districts.map(d => ({ params: { slug: d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') }, props: { district: d } }));
+}
+
+const { district } = Astro.props;
+const acs = andhraConstsAll
+  .filter(c => c.type === 'Vidhan Sabha' && c.district === district)
+  .sort((a, b) => (a.number ?? 999) - (b.number ?? 999));
+const netaByConst: Record<string, (typeof andhraNetasAll)[number]> = Object.fromEntries(andhraNetasAll.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
+// Lok Sabha mapping: PC naam me jila ka naam ho
+const dLow = district.toLowerCase();
+const mps = andhraNetasAll.filter(n =>
+  n.post === 'MP' && n.house !== 'Rajya Sabha' &&
+  (n.constituency.toLowerCase().includes(dLow) || dLow.includes(n.constituency.toLowerCase().replace('–', '-')))
+);
+---
+
+<JilaDetail district={district} districtSlugStr={dslug(district)} acs={acs} netaByConst={netaByConst} mps={mps} talukas={[]} base="/andhra" stateName="Andhra Pradesh" />

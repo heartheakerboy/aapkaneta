@@ -1,0 +1,1737 @@
+{
+ "state": "Andhra Pradesh",
+ "stateSlug": "andhra",
+ "districts": [
+  {
+   "name": "Srikakulam",
+   "slug": "srikakulam",
+   "acs": [
+    {
+     "slug": "ichchapuram",
+     "name": "Ichchapuram",
+     "type": "Vidhan Sabha",
+     "number": 1,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "palasa",
+     "name": "Palasa",
+     "type": "Vidhan Sabha",
+     "number": 2,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "tekkali",
+     "name": "Tekkali",
+     "type": "Vidhan Sabha",
+     "number": 3,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pathapatnam",
+     "name": "Pathapatnam",
+     "type": "Vidhan Sabha",
+     "number": 4,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "srikakulam",
+     "name": "Srikakulam",
+     "type": "Vidhan Sabha",
+     "number": 5,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "amadalavalasa",
+     "name": "Amadalavalasa",
+     "type": "Vidhan Sabha",
+     "number": 6,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "etcherla",
+     "name": "Etcherla",
+     "type": "Vidhan Sabha",
+     "number": 7,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "narasannapeta",
+     "name": "Narasannapeta",
+     "type": "Vidhan Sabha",
+     "number": 8,
+     "district": "Srikakulam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Vizianagaram",
+   "slug": "vizianagaram",
+   "acs": [
+    {
+     "slug": "rajam",
+     "name": "Rajam",
+     "type": "Vidhan Sabha",
+     "number": 9,
+     "district": "Vizianagaram",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "bobbili",
+     "name": "Bobbili",
+     "type": "Vidhan Sabha",
+     "number": 14,
+     "district": "Vizianagaram",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "cheepurupalli",
+     "name": "Cheepurupalli",
+     "type": "Vidhan Sabha",
+     "number": 15,
+     "district": "Vizianagaram",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gajapathinagaram",
+     "name": "Gajapathinagaram",
+     "type": "Vidhan Sabha",
+     "number": 16,
+     "district": "Vizianagaram",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nellimarla",
+     "name": "Nellimarla",
+     "type": "Vidhan Sabha",
+     "number": 17,
+     "district": "Vizianagaram",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "vizianagaram",
+     "name": "Vizianagaram",
+     "type": "Vidhan Sabha",
+     "number": 18,
+     "district": "Vizianagaram",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "srungavarapukota",
+     "name": "Srungavarapukota",
+     "type": "Vidhan Sabha",
+     "number": 19,
+     "district": "Vizianagaram",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Parvathipuram Manyam",
+   "slug": "parvathipuram-manyam",
+   "acs": [
+    {
+     "slug": "palakonda",
+     "name": "Palakonda",
+     "type": "Vidhan Sabha",
+     "number": 10,
+     "district": "Parvathipuram Manyam",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kurupam",
+     "name": "Kurupam",
+     "type": "Vidhan Sabha",
+     "number": 11,
+     "district": "Parvathipuram Manyam",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "parvathipuram",
+     "name": "Parvathipuram",
+     "type": "Vidhan Sabha",
+     "number": 12,
+     "district": "Parvathipuram Manyam",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "salur",
+     "name": "Salur",
+     "type": "Vidhan Sabha",
+     "number": 13,
+     "district": "Parvathipuram Manyam",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Alluri Sitharama Raju",
+   "slug": "alluri-sitharama-raju",
+   "acs": [
+    {
+     "slug": "araku-valley",
+     "name": "Araku Valley",
+     "type": "Vidhan Sabha",
+     "number": 28,
+     "district": "Alluri Sitharama Raju",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "paderu",
+     "name": "Paderu",
+     "type": "Vidhan Sabha",
+     "number": 29,
+     "district": "Alluri Sitharama Raju",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "rampachodavaram",
+     "name": "Rampachodavaram",
+     "type": "Vidhan Sabha",
+     "number": 53,
+     "district": "Alluri Sitharama Raju",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Visakhapatnam",
+   "slug": "visakhapatnam",
+   "acs": [
+    {
+     "slug": "bhimili",
+     "name": "Bhimili",
+     "type": "Vidhan Sabha",
+     "number": 20,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "visakhapatnam-east",
+     "name": "Visakhapatnam East",
+     "type": "Vidhan Sabha",
+     "number": 21,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "visakhapatnam-south",
+     "name": "Visakhapatnam South",
+     "type": "Vidhan Sabha",
+     "number": 22,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "visakhapatnam-north",
+     "name": "Visakhapatnam North",
+     "type": "Vidhan Sabha",
+     "number": 23,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "visakhapatnam-west",
+     "name": "Visakhapatnam West",
+     "type": "Vidhan Sabha",
+     "number": 24,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gajuwaka",
+     "name": "Gajuwaka",
+     "type": "Vidhan Sabha",
+     "number": 25,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pendurthi",
+     "name": "Pendurthi",
+     "type": "Vidhan Sabha",
+     "number": 31,
+     "district": "Visakhapatnam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Anakapalli",
+   "slug": "anakapalli",
+   "acs": [
+    {
+     "slug": "chodavaram",
+     "name": "Chodavaram",
+     "type": "Vidhan Sabha",
+     "number": 26,
+     "district": "Anakapalli",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "madugula",
+     "name": "Madugula",
+     "type": "Vidhan Sabha",
+     "number": 27,
+     "district": "Anakapalli",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "anakapalle",
+     "name": "Anakapalle",
+     "type": "Vidhan Sabha",
+     "number": 30,
+     "district": "Anakapalli",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "elamanchili",
+     "name": "Elamanchili",
+     "type": "Vidhan Sabha",
+     "number": 32,
+     "district": "Anakapalli",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "payakaraopet",
+     "name": "Payakaraopet",
+     "type": "Vidhan Sabha",
+     "number": 33,
+     "district": "Anakapalli",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "narsipatnam",
+     "name": "Narsipatnam",
+     "type": "Vidhan Sabha",
+     "number": 34,
+     "district": "Anakapalli",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Kakinada",
+   "slug": "kakinada",
+   "acs": [
+    {
+     "slug": "tuni",
+     "name": "Tuni",
+     "type": "Vidhan Sabha",
+     "number": 35,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "prathipadu-kakinada",
+     "name": "Prathipadu (Kakinada)",
+     "type": "Vidhan Sabha",
+     "number": 36,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pithapuram",
+     "name": "Pithapuram",
+     "type": "Vidhan Sabha",
+     "number": 37,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kakinada-rural",
+     "name": "Kakinada Rural",
+     "type": "Vidhan Sabha",
+     "number": 38,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "peddapuram",
+     "name": "Peddapuram",
+     "type": "Vidhan Sabha",
+     "number": 39,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kakinada-city",
+     "name": "Kakinada City",
+     "type": "Vidhan Sabha",
+     "number": 41,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "jaggampeta",
+     "name": "Jaggampeta",
+     "type": "Vidhan Sabha",
+     "number": 52,
+     "district": "Kakinada",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "East Godavari",
+   "slug": "east-godavari",
+   "acs": [
+    {
+     "slug": "anaparthy",
+     "name": "Anaparthy",
+     "type": "Vidhan Sabha",
+     "number": 40,
+     "district": "East Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "rajanagaram",
+     "name": "Rajanagaram",
+     "type": "Vidhan Sabha",
+     "number": 49,
+     "district": "East Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "rajahmundry-city",
+     "name": "Rajahmundry City",
+     "type": "Vidhan Sabha",
+     "number": 50,
+     "district": "East Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "rajahmundry-rural",
+     "name": "Rajahmundry Rural",
+     "type": "Vidhan Sabha",
+     "number": 51,
+     "district": "East Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kovvur",
+     "name": "Kovvur",
+     "type": "Vidhan Sabha",
+     "number": 54,
+     "district": "East Godavari",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nidadavole",
+     "name": "Nidadavole",
+     "type": "Vidhan Sabha",
+     "number": 55,
+     "district": "East Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gopalapuram",
+     "name": "Gopalapuram",
+     "type": "Vidhan Sabha",
+     "number": 66,
+     "district": "East Godavari",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Dr. B.R. Ambedkar Konaseema",
+   "slug": "dr-br-ambedkar-konaseema",
+   "acs": [
+    {
+     "slug": "ramachandrapuram",
+     "name": "Ramachandrapuram",
+     "type": "Vidhan Sabha",
+     "number": 42,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "mummidivaram",
+     "name": "Mummidivaram",
+     "type": "Vidhan Sabha",
+     "number": 43,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "amalapuram",
+     "name": "Amalapuram",
+     "type": "Vidhan Sabha",
+     "number": 44,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "razole",
+     "name": "Razole",
+     "type": "Vidhan Sabha",
+     "number": 45,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gannavaram-konaseema",
+     "name": "Gannavaram (Konaseema)",
+     "type": "Vidhan Sabha",
+     "number": 46,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kothapeta",
+     "name": "Kothapeta",
+     "type": "Vidhan Sabha",
+     "number": 47,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "mandapeta",
+     "name": "Mandapeta",
+     "type": "Vidhan Sabha",
+     "number": 48,
+     "district": "Dr. B.R. Ambedkar Konaseema",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "West Godavari",
+   "slug": "west-godavari",
+   "acs": [
+    {
+     "slug": "achanta",
+     "name": "Achanta",
+     "type": "Vidhan Sabha",
+     "number": 56,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "palakollu",
+     "name": "Palakollu",
+     "type": "Vidhan Sabha",
+     "number": 57,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "narasapuram",
+     "name": "Narasapuram",
+     "type": "Vidhan Sabha",
+     "number": 58,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "bhimavaram",
+     "name": "Bhimavaram",
+     "type": "Vidhan Sabha",
+     "number": 59,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "undi",
+     "name": "Undi",
+     "type": "Vidhan Sabha",
+     "number": 60,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "tanuku",
+     "name": "Tanuku",
+     "type": "Vidhan Sabha",
+     "number": 61,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "tadepalligudem",
+     "name": "Tadepalligudem",
+     "type": "Vidhan Sabha",
+     "number": 62,
+     "district": "West Godavari",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Eluru",
+   "slug": "eluru",
+   "acs": [
+    {
+     "slug": "unguturu",
+     "name": "Unguturu",
+     "type": "Vidhan Sabha",
+     "number": 63,
+     "district": "Eluru",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "denduluru",
+     "name": "Denduluru",
+     "type": "Vidhan Sabha",
+     "number": 64,
+     "district": "Eluru",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "eluru",
+     "name": "Eluru",
+     "type": "Vidhan Sabha",
+     "number": 65,
+     "district": "Eluru",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "polavaram",
+     "name": "Polavaram",
+     "type": "Vidhan Sabha",
+     "number": 67,
+     "district": "Eluru",
+     "reservation": "ST",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "chintalapudi",
+     "name": "Chintalapudi",
+     "type": "Vidhan Sabha",
+     "number": 68,
+     "district": "Eluru",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nuzvid",
+     "name": "Nuzvid",
+     "type": "Vidhan Sabha",
+     "number": 70,
+     "district": "Eluru",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kaikalur",
+     "name": "Kaikalur",
+     "type": "Vidhan Sabha",
+     "number": 73,
+     "district": "Eluru",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Krishna",
+   "slug": "krishna",
+   "acs": [
+    {
+     "slug": "gannavaram-krishna",
+     "name": "Gannavaram (Krishna)",
+     "type": "Vidhan Sabha",
+     "number": 71,
+     "district": "Krishna",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gudivada",
+     "name": "Gudivada",
+     "type": "Vidhan Sabha",
+     "number": 72,
+     "district": "Krishna",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pedana",
+     "name": "Pedana",
+     "type": "Vidhan Sabha",
+     "number": 74,
+     "district": "Krishna",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "machilipatnam",
+     "name": "Machilipatnam",
+     "type": "Vidhan Sabha",
+     "number": 75,
+     "district": "Krishna",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "avanigadda",
+     "name": "Avanigadda",
+     "type": "Vidhan Sabha",
+     "number": 76,
+     "district": "Krishna",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pamarru",
+     "name": "Pamarru",
+     "type": "Vidhan Sabha",
+     "number": 77,
+     "district": "Krishna",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "penamaluru",
+     "name": "Penamaluru",
+     "type": "Vidhan Sabha",
+     "number": 78,
+     "district": "Krishna",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "NTR",
+   "slug": "ntr",
+   "acs": [
+    {
+     "slug": "tiruvuru",
+     "name": "Tiruvuru",
+     "type": "Vidhan Sabha",
+     "number": 69,
+     "district": "NTR",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "vijayawada-west",
+     "name": "Vijayawada West",
+     "type": "Vidhan Sabha",
+     "number": 79,
+     "district": "NTR",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "vijayawada-central",
+     "name": "Vijayawada Central",
+     "type": "Vidhan Sabha",
+     "number": 80,
+     "district": "NTR",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "vijayawada-east",
+     "name": "Vijayawada East",
+     "type": "Vidhan Sabha",
+     "number": 81,
+     "district": "NTR",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "mylavaram",
+     "name": "Mylavaram",
+     "type": "Vidhan Sabha",
+     "number": 82,
+     "district": "NTR",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nandigama",
+     "name": "Nandigama",
+     "type": "Vidhan Sabha",
+     "number": 83,
+     "district": "NTR",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "jaggayyapeta",
+     "name": "Jaggayyapeta",
+     "type": "Vidhan Sabha",
+     "number": 84,
+     "district": "NTR",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Guntur",
+   "slug": "guntur",
+   "acs": [
+    {
+     "slug": "tadikonda",
+     "name": "Tadikonda",
+     "type": "Vidhan Sabha",
+     "number": 86,
+     "district": "Guntur",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "mangalagiri",
+     "name": "Mangalagiri",
+     "type": "Vidhan Sabha",
+     "number": 87,
+     "district": "Guntur",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "ponnuru",
+     "name": "Ponnuru",
+     "type": "Vidhan Sabha",
+     "number": 88,
+     "district": "Guntur",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "tenali",
+     "name": "Tenali",
+     "type": "Vidhan Sabha",
+     "number": 91,
+     "district": "Guntur",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "prathipadu-guntur",
+     "name": "Prathipadu (Guntur)",
+     "type": "Vidhan Sabha",
+     "number": 93,
+     "district": "Guntur",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "guntur-west",
+     "name": "Guntur West",
+     "type": "Vidhan Sabha",
+     "number": 94,
+     "district": "Guntur",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "guntur-east",
+     "name": "Guntur East",
+     "type": "Vidhan Sabha",
+     "number": 95,
+     "district": "Guntur",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Palnadu",
+   "slug": "palnadu",
+   "acs": [
+    {
+     "slug": "pedakurapadu",
+     "name": "Pedakurapadu",
+     "type": "Vidhan Sabha",
+     "number": 85,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "chilakaluripet",
+     "name": "Chilakaluripet",
+     "type": "Vidhan Sabha",
+     "number": 96,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "narasaraopet",
+     "name": "Narasaraopet",
+     "type": "Vidhan Sabha",
+     "number": 97,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "sattenapalle",
+     "name": "Sattenapalle",
+     "type": "Vidhan Sabha",
+     "number": 98,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "vinukonda",
+     "name": "Vinukonda",
+     "type": "Vidhan Sabha",
+     "number": 99,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gurajala",
+     "name": "Gurajala",
+     "type": "Vidhan Sabha",
+     "number": 100,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "macherla",
+     "name": "Macherla",
+     "type": "Vidhan Sabha",
+     "number": 101,
+     "district": "Palnadu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Bapatla",
+   "slug": "bapatla",
+   "acs": [
+    {
+     "slug": "vemuru",
+     "name": "Vemuru",
+     "type": "Vidhan Sabha",
+     "number": 89,
+     "district": "Bapatla",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "repalle",
+     "name": "Repalle",
+     "type": "Vidhan Sabha",
+     "number": 90,
+     "district": "Bapatla",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "bapatla",
+     "name": "Bapatla",
+     "type": "Vidhan Sabha",
+     "number": 92,
+     "district": "Bapatla",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "parchur",
+     "name": "Parchur",
+     "type": "Vidhan Sabha",
+     "number": 104,
+     "district": "Bapatla",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "addanki",
+     "name": "Addanki",
+     "type": "Vidhan Sabha",
+     "number": 105,
+     "district": "Bapatla",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "chirala",
+     "name": "Chirala",
+     "type": "Vidhan Sabha",
+     "number": 106,
+     "district": "Bapatla",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Prakasam",
+   "slug": "prakasam",
+   "acs": [
+    {
+     "slug": "yerragondapalem",
+     "name": "Yerragondapalem",
+     "type": "Vidhan Sabha",
+     "number": 102,
+     "district": "Prakasam",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "darsi",
+     "name": "Darsi",
+     "type": "Vidhan Sabha",
+     "number": 103,
+     "district": "Prakasam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "santhanuthalapadu",
+     "name": "Santhanuthalapadu",
+     "type": "Vidhan Sabha",
+     "number": 107,
+     "district": "Prakasam",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "ongole",
+     "name": "Ongole",
+     "type": "Vidhan Sabha",
+     "number": 108,
+     "district": "Prakasam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kondapi",
+     "name": "Kondapi",
+     "type": "Vidhan Sabha",
+     "number": 110,
+     "district": "Prakasam",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "markapuram",
+     "name": "Markapuram",
+     "type": "Vidhan Sabha",
+     "number": 111,
+     "district": "Prakasam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "giddalur",
+     "name": "Giddalur",
+     "type": "Vidhan Sabha",
+     "number": 112,
+     "district": "Prakasam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kanigiri",
+     "name": "Kanigiri",
+     "type": "Vidhan Sabha",
+     "number": 113,
+     "district": "Prakasam",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Sri Potti Sriramulu Nellore",
+   "slug": "sri-potti-sriramulu-nellore",
+   "acs": [
+    {
+     "slug": "kandukur",
+     "name": "Kandukur",
+     "type": "Vidhan Sabha",
+     "number": 109,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kavali",
+     "name": "Kavali",
+     "type": "Vidhan Sabha",
+     "number": 114,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "atmakur",
+     "name": "Atmakur",
+     "type": "Vidhan Sabha",
+     "number": 115,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kovur",
+     "name": "Kovur",
+     "type": "Vidhan Sabha",
+     "number": 116,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nellore-city",
+     "name": "Nellore City",
+     "type": "Vidhan Sabha",
+     "number": 117,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nellore-rural",
+     "name": "Nellore Rural",
+     "type": "Vidhan Sabha",
+     "number": 118,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "sarvepalli",
+     "name": "Sarvepalli",
+     "type": "Vidhan Sabha",
+     "number": 119,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "udayagiri",
+     "name": "Udayagiri",
+     "type": "Vidhan Sabha",
+     "number": 123,
+     "district": "Sri Potti Sriramulu Nellore",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Kurnool",
+   "slug": "kurnool",
+   "acs": [
+    {
+     "slug": "kurnool",
+     "name": "Kurnool",
+     "type": "Vidhan Sabha",
+     "number": 137,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "panyam",
+     "name": "Panyam",
+     "type": "Vidhan Sabha",
+     "number": 138,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pattikonda",
+     "name": "Pattikonda",
+     "type": "Vidhan Sabha",
+     "number": 142,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kodumur",
+     "name": "Kodumur",
+     "type": "Vidhan Sabha",
+     "number": 143,
+     "district": "Kurnool",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "yemmiganur",
+     "name": "Yemmiganur",
+     "type": "Vidhan Sabha",
+     "number": 144,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "mantralayam",
+     "name": "Mantralayam",
+     "type": "Vidhan Sabha",
+     "number": 145,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "adoni",
+     "name": "Adoni",
+     "type": "Vidhan Sabha",
+     "number": 146,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "alur",
+     "name": "Alur",
+     "type": "Vidhan Sabha",
+     "number": 147,
+     "district": "Kurnool",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Nandyal",
+   "slug": "nandyal",
+   "acs": [
+    {
+     "slug": "allagadda",
+     "name": "Allagadda",
+     "type": "Vidhan Sabha",
+     "number": 134,
+     "district": "Nandyal",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "srisailam",
+     "name": "Srisailam",
+     "type": "Vidhan Sabha",
+     "number": 135,
+     "district": "Nandyal",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nandikotkur",
+     "name": "Nandikotkur",
+     "type": "Vidhan Sabha",
+     "number": 136,
+     "district": "Nandyal",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nandyal",
+     "name": "Nandyal",
+     "type": "Vidhan Sabha",
+     "number": 139,
+     "district": "Nandyal",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "banaganapalle",
+     "name": "Banaganapalle",
+     "type": "Vidhan Sabha",
+     "number": 140,
+     "district": "Nandyal",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "dhone",
+     "name": "Dhone",
+     "type": "Vidhan Sabha",
+     "number": 141,
+     "district": "Nandyal",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Ananthapuramu",
+   "slug": "ananthapuramu",
+   "acs": [
+    {
+     "slug": "rayadurg",
+     "name": "Rayadurg",
+     "type": "Vidhan Sabha",
+     "number": 148,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "uravakonda",
+     "name": "Uravakonda",
+     "type": "Vidhan Sabha",
+     "number": 149,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "guntakal",
+     "name": "Guntakal",
+     "type": "Vidhan Sabha",
+     "number": 150,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "tadipatri",
+     "name": "Tadipatri",
+     "type": "Vidhan Sabha",
+     "number": 151,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "singanamala",
+     "name": "Singanamala",
+     "type": "Vidhan Sabha",
+     "number": 152,
+     "district": "Ananthapuramu",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "anantapur-urban",
+     "name": "Anantapur Urban",
+     "type": "Vidhan Sabha",
+     "number": 153,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kalyandurg",
+     "name": "Kalyandurg",
+     "type": "Vidhan Sabha",
+     "number": 154,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "raptadu",
+     "name": "Raptadu",
+     "type": "Vidhan Sabha",
+     "number": 155,
+     "district": "Ananthapuramu",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Sri Sathya Sai",
+   "slug": "sri-sathya-sai",
+   "acs": [
+    {
+     "slug": "madakasira",
+     "name": "Madakasira",
+     "type": "Vidhan Sabha",
+     "number": 156,
+     "district": "Sri Sathya Sai",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "hindupur",
+     "name": "Hindupur",
+     "type": "Vidhan Sabha",
+     "number": 157,
+     "district": "Sri Sathya Sai",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "penukonda",
+     "name": "Penukonda",
+     "type": "Vidhan Sabha",
+     "number": 158,
+     "district": "Sri Sathya Sai",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "puttaparthi",
+     "name": "Puttaparthi",
+     "type": "Vidhan Sabha",
+     "number": 159,
+     "district": "Sri Sathya Sai",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "dharmavaram",
+     "name": "Dharmavaram",
+     "type": "Vidhan Sabha",
+     "number": 160,
+     "district": "Sri Sathya Sai",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kadiri",
+     "name": "Kadiri",
+     "type": "Vidhan Sabha",
+     "number": 161,
+     "district": "Sri Sathya Sai",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "YSR Kadapa",
+   "slug": "ysr-kadapa",
+   "acs": [
+    {
+     "slug": "badvel",
+     "name": "Badvel",
+     "type": "Vidhan Sabha",
+     "number": 124,
+     "district": "YSR Kadapa",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kadapa",
+     "name": "Kadapa",
+     "type": "Vidhan Sabha",
+     "number": 126,
+     "district": "YSR Kadapa",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pulivendla",
+     "name": "Pulivendla",
+     "type": "Vidhan Sabha",
+     "number": 129,
+     "district": "YSR Kadapa",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kamalapuram",
+     "name": "Kamalapuram",
+     "type": "Vidhan Sabha",
+     "number": 130,
+     "district": "YSR Kadapa",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "jammalamadugu",
+     "name": "Jammalamadugu",
+     "type": "Vidhan Sabha",
+     "number": 131,
+     "district": "YSR Kadapa",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "proddatur",
+     "name": "Proddatur",
+     "type": "Vidhan Sabha",
+     "number": 132,
+     "district": "YSR Kadapa",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "mydukur",
+     "name": "Mydukur",
+     "type": "Vidhan Sabha",
+     "number": 133,
+     "district": "YSR Kadapa",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Annamayya",
+   "slug": "annamayya",
+   "acs": [
+    {
+     "slug": "rajampet",
+     "name": "Rajampet",
+     "type": "Vidhan Sabha",
+     "number": 125,
+     "district": "Annamayya",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kodur",
+     "name": "Kodur",
+     "type": "Vidhan Sabha",
+     "number": 127,
+     "district": "Annamayya",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "rayachoti",
+     "name": "Rayachoti",
+     "type": "Vidhan Sabha",
+     "number": 128,
+     "district": "Annamayya",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "thamballapalle",
+     "name": "Thamballapalle",
+     "type": "Vidhan Sabha",
+     "number": 162,
+     "district": "Annamayya",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "pileru",
+     "name": "Pileru",
+     "type": "Vidhan Sabha",
+     "number": 163,
+     "district": "Annamayya",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "madanapalle",
+     "name": "Madanapalle",
+     "type": "Vidhan Sabha",
+     "number": 164,
+     "district": "Annamayya",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Chittoor",
+   "slug": "chittoor",
+   "acs": [
+    {
+     "slug": "punganur",
+     "name": "Punganur",
+     "type": "Vidhan Sabha",
+     "number": 165,
+     "district": "Chittoor",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "nagari",
+     "name": "Nagari",
+     "type": "Vidhan Sabha",
+     "number": 170,
+     "district": "Chittoor",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "gangadhara-nellore",
+     "name": "Gangadhara Nellore",
+     "type": "Vidhan Sabha",
+     "number": 171,
+     "district": "Chittoor",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "chittoor",
+     "name": "Chittoor",
+     "type": "Vidhan Sabha",
+     "number": 172,
+     "district": "Chittoor",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "puthalapattu",
+     "name": "Puthalapattu",
+     "type": "Vidhan Sabha",
+     "number": 173,
+     "district": "Chittoor",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "palamaner",
+     "name": "Palamaner",
+     "type": "Vidhan Sabha",
+     "number": 174,
+     "district": "Chittoor",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "kuppam",
+     "name": "Kuppam",
+     "type": "Vidhan Sabha",
+     "number": 175,
+     "district": "Chittoor",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  },
+  {
+   "name": "Tirupati",
+   "slug": "tirupati",
+   "acs": [
+    {
+     "slug": "gudur",
+     "name": "Gudur",
+     "type": "Vidhan Sabha",
+     "number": 120,
+     "district": "Tirupati",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "sullurpeta",
+     "name": "Sullurpeta",
+     "type": "Vidhan Sabha",
+     "number": 121,
+     "district": "Tirupati",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "venkatagiri",
+     "name": "Venkatagiri",
+     "type": "Vidhan Sabha",
+     "number": 122,
+     "district": "Tirupati",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "chandragiri",
+     "name": "Chandragiri",
+     "type": "Vidhan Sabha",
+     "number": 166,
+     "district": "Tirupati",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "tirupati",
+     "name": "Tirupati",
+     "type": "Vidhan Sabha",
+     "number": 167,
+     "district": "Tirupati",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "srikalahasti",
+     "name": "Srikalahasti",
+     "type": "Vidhan Sabha",
+     "number": 168,
+     "district": "Tirupati",
+     "reservation": "GEN",
+     "state": "Andhra Pradesh"
+    },
+    {
+     "slug": "sathyavedu",
+     "name": "Sathyavedu",
+     "type": "Vidhan Sabha",
+     "number": 169,
+     "district": "Tirupati",
+     "reservation": "SC",
+     "state": "Andhra Pradesh"
+    }
+   ]
+  }
+ ]
+}

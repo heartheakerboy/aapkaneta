@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { andhraNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return andhraNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = andhraNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/andhra" stateName="Andhra Pradesh" homeLabel="Andhra Pradesh home" />
