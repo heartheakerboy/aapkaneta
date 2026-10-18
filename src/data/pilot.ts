@@ -74,7 +74,7 @@ export interface PrevAffidavit {
   assets: string;
   assetsNum: number;
   liabilities: string;
-  mynetaUrl: string;
+  mynetaUrl?: string;
 }
 
 export interface Neta {
