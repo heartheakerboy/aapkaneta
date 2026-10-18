@@ -190,3 +190,92 @@ telanganaWorks['payal-shanker'] = [
 // anil-jadhav — 0 entries (QA-checked).
 telanganaWorks['anil-jadhav'] = [];
 
+// Telangana — Batch 2: Nirmal + Nizamabad + Kamareddy (4-6/33 jile, 5 entries).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/tg2_worker_<slug>_works.ts.
+
+// ==== Nirmal (Batch 2) ====
+telanganaWorks['alleti-maheshwar-reddy'] = [];
+// QA-DROP (coordinator 2026-10-18): worker ki disqualification-yachika entry hatayi — BJP floor leader ke roop me Assembly-level sansadiya karravai (Khairatabad seat ka mamla) seat ke bahar ka kaam hai; 'neta ne apne kshetra me kya kaam kiya' niyam par entry NAHI banti. Profile khaali rakhi.
+
+
+telanganaWorks['ram-rao-pawar'] = [];
+
+
+telanganaWorks['vedma-bhojju'] = [
+  {
+    title: 'Adivasion ke Gussadi/Dandari (Diwali) tyohar ke liye Rs 1.5 crore ki sarkari rashi release — MLA ki maang par swikriti',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle, 15 Oct 2026',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/tg-government-releases-15-crore-for-adivasis-to-celebrate-gussadi-on-diwali-1995963',
+    date: '2026-10-15',
+    note: 'Khanapur MLA Vedma Bojju aur poorv Adilabad MP Soyam Bapurao Rao ne CM Revanth Reddy se milkar Gussadi/Dandari tyohar ke liye fund release ki maang ki; sarkar ne erstwhile Adilabad jile ke Adivasion ke liye Rs 1.5 crore release kiye. Adivasi sarpancho aur samudayik buzurgo ne dono netaon ko fund dilwane par sammanit kiya. Credit capped: do netaon ne milkar maang ki thi — fund swikriti ka shrey sirf MLA ko nahi. Release seat ke bahar bhi (poora erstwhile Adilabad jila), Khanapur seat me ye fund hissa-bhar hai. Fund: state government (CDP ka zikr nahi). Date: publication date; release Diwali (Nov 2026) se pehle announce hui. Ye sarkari rashi hai, MLA ka niji kharch nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kadam mandal me sarkari/adivasi/sinchai vibhag ki zameenon par kathit kabze par review-meeting me saboot pesh — Collector ne 6-sadasyiya janch samiti banai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India, 7 Oct 2026',
+    sourceUrl: 'https://www.thehansindia.com/telangana/mla-flags-illegal-cccupation-of-government-lands-in-kadam-1129695',
+    date: '2026-10-07',
+    note: 'Khanapur MLA Vedma Bojju Patel ne Khanapur ke Mandal Parishad office me review meeting me District Collector Bhavesh Mishra aur adhikariyon ke saamne resort/Maisampet/Bellalu Kurru lands par kathit kabze ke saboot pesh kiye (bijli baqaya Rs 1.6 lakh, zameen-tax arrears Rs 3 lakh se upar). Collector ne 6-sadasyiya janch samiti gathit karke sakht karravai aur sarkari zameeno ki vapas-baradari ka ashwasan diya. Credit capped: abhi sirf samiti gathit hui hai — zameen vapas milne ya karravai hone ki koi report srot me nahi. MLA ne surplus zameen se Indiramma Towers ke zariye garibon ko plot dene ka sujhav diya (sujaav, swikriti nahi). Date: publication date 2026-10-07 (article me meeting ki exact date nahi di gayi).',
+    period: '2023-2028',
+  },
+];
+
+
+// ==== Nizamabad (Batch 2) ====
+telanganaWorks['paidi-rakesh-reddy'] = [];
+
+
+telanganaWorks['p-sudarshan-reddy'] = [
+  { title: 'Sarkar ne Navipet mandal me Hanuman Farm par Rs 2.24 crore ki lagat se naya power substation swikrit kiya; MLA ne adhikariyon ko teen mahine me kaam poora karne ka nirdesh diya.', category: 'Bijli', badge: 'news', sourceLabel: 'Deccan Chronicle', sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/dont-misuse-power-bodhan-mla-advises-people-1906442', date: '2025-09-26', note: 'Deccan Chronicle ke anusar sarkar ne Hanuman Farm substation ko Rs 2.24 crore ke parivyaay se swikrit kiya — article MLA ke hawale se kehta hai ki kisanon ki maang ka intezar kiye bina manzoori mili; MLA ne Navipet me vikas-karyon ke dauraan teen mahine me poora karne ka nirdesh diya. Credit capped: swikriti rajya sarkar ki hai, MLA ne ghoshna ki aur nishpaadan-kaary ka nirdesh diya. MLA ne isi mauke par bataya ki Jadi Jamalpur, Achanpally, Sakura aur Bodhan town me bhi naye substations swikrit hue hain (dawa-ank; unke bayaan par aadharit). Khaarch ki rashi ghoshit hai; MLA ke CDP fund se jodne ka srot me zikr nahi, isliye “ghoshit nahi” imaandaari se: ye rashi CDP se aayi ya alag vibhaagiya budget se, srot spasht nahi kehta. Date inferred hai — article Friday (2025-09-26) ke karyakram ki 2025-09-27 (IST) ko published post-event reporting hai; reasoning note me disclose kiya gaya hai.', period: '2023-2028', stage: 'swikriti' },
+];
+
+
+telanganaWorks['dhanpal-suryanarayana-gupta'] = [];
+
+
+telanganaWorks['bhoopathi-reddy-rekulapally'] = [
+  {
+    title: 'Khanapur gaon me Indiramma awas yojana ke gharon ka shilanyas aur labharthiyon ko manjoori patra vitarit — Nizamabad Rural',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle, 24 Sep 2025',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/bjp-states-lack-schemes-for-women-says-mla-bhupathi-1905893',
+    date: '2025-09-24',
+    note: 'Post-event report: MLA ne Khanapur gaon (Nizamabad Division-1) me Indiramma awas yojana ke gharon ka shilanyas kiya aur labharthiyon ko manjoori patra vitarit kiye. Usi karyakram me MLA ne kaha ki Khanapur gaon ke liye sadak, Anganwadi kendra aur mahila samudaayik bhawan aadi ke liye Rs 12 crore manjoor hue hain aur Khanapur-Kalur gaonon me 86 Indiramma ghar manjoor hue hain — ye aankde MLA ke dawe hain; fund-srot ghoshit nahi, koi GO sankhya report me darj nahi. Date reasoning: article update timestamp 2025-09-24 14:44 GMT hai aur ghatna "On Wednesday" darj hai; 24 Sep 2025 Wednesday tha, isliye date 2025-09-24 li gayi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+];
+
+
+telanganaWorks['prashanth-reddy-vemula'] = [];
+
+
+// ==== Kamareddy (Batch 2) ====
+telanganaWorks['laxmi-kantha-rao-thota'] = [];
+
+
+telanganaWorks['pocharam-srinivas-reddy'] = [];
+
+
+telanganaWorks['k-madan-mohan-rao'] = [
+  {
+    title: 'Yellareddy Municipality me Rs 15 crore ki prashasanik swikriti (G.O.Rt.No.530, 18 Sep 2025) — merged kshetron ka vikas, Pedda Cheruvu par Multi-Generation Park, commercial shopping complex, ward 1-12 me andaruni sadak aur storm-water naliyan, aur main junction vikas sahit Gandhi pratima',
+    category: 'Any',
+    badge: 'sarkari',
+    sourceLabel: 'Telangana sarkar ka GO (G.O.Rt.No.530)',
+    sourceUrl: 'https://archive.org/download/in.gov.telangana.goir.2025-09-18.municipal-administration-and-urban-development-routine-530/municipal-administration-and-urban-development-routine-530.pdf',
+    date: '2025-09-18',
+    note: 'Telangana sarkar ke Municipal Administration (Budget) Department ke G.O.Rt.No.530 (dinank 18.09.2025) ke anusar Yellareddy Municipality me buniyadi dhanche aur vikas karyon ke liye Rs 15.00 crore ki prashasanik swikriti di gayi — mad-var suchi: merged kshetron ka vikas Rs 2.00 crore, Pedda Cheruvu par Multi-Generation Park Rs 3.00 crore, commercial shopping complex Rs 5.00 crore, ward 1-12 me andaruni sadak aur storm-water naliyan Rs 4.00 crore, main junction vikas aur Gandhi pratima Rs 1.00 crore (khaata-sheersh 2217-80-191-25-97-310-312, “NAGARABHIVRUDHI”). Credit disclosure: swikriti sarkar ke GO se hai; GO me MLA ki vyaktigat bhoomika ya prastav darj nahi hai, isliye credit isi GO-backed swikriti tak seemit hai. Ye CDP/MLA-nidhi se alag MA&UD vibhag ki swikriti hai, isliye fund me “ghoshit nahi” ka prashn yahan lagu nahi hota.',
+    period: '2023-2028',
+  },
+];
+
+
+telanganaWorks['k-v-ramana-reddy'] = [];
+
+
