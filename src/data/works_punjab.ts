@@ -1103,3 +1103,860 @@ punjabWorks['balwinder-singh-dhaliwal'] = [];
 // L2: Tribune topic pages "phagwaradevelopment" aur "phagwaracivicissues" par naye articles monitor karo — 2026-10 tak koi vyaktigat lokarpan nahi dikha.
 // L3: News18 candidate page ke mutabik unke khilaf 2022 halafname me 0 criminal cases the (2019 wala MCC case halafname pending mamlo me aata ho to "Halafname ke pending mamle akele negative NAHI" rule lagu hota hai) — koi in-term FIR/chargesheet nahi mili.
 // PB3: balwinder-singh-dhaliwal — 0 entries merged (QA-checked).
+
+// ---- Punjab works mining — BATCH 4: Jalandhar (9 MLA) — 2026-10-18 ----
+// Research: per-MLA workers; merge + QA coordinator ne kiya.
+// PB4: vikramjit-singh-chaudhary — 0 entries merged (QA-checked).
+// Worker: vikramjit-singh-chaudhary — Batch 4 (Jalandhar+Hoshiarpur), 2026-10-18
+// Foundation verified: slug vikramjit-singh-chaudhary, party Indian National Congress (INC),
+// seat Phillaur (SC), tenure start 2022 end 2027. No foundation discrepancy.
+// NOTE: He is an opposition MLA (AAP rules Punjab since Mar 2022); whitelisted-outlet
+// coverage after Mar 2022 is almost entirely political (battles, accusations, demands,
+// suspension). No fund-backed lokarpan/shilanyas, GO-backed swikriti, itemized sanction
+// lists or Vidhan Sabha question outcomes attributable to him were found in whitelisted
+// outlets for the 2022-2027 tenure. Negatives: none — suspension Apr 2024 was a party
+// disciplinary action (reinducted Jun 2025), and rule says party karyawahi akele negative
+// NAHI; no FIR/chargesheet/janch found against him (2022 affidavit: 0 criminal cases).
+punjabWorks['vikramjit-singh-chaudhary'] = [];
+// REJECT LOG:
+// R-1. Tribune "Projects worth Rs 59.8L inaugurated" (Jan 2020, Phillaur) — pre-term;
+//       event happened when he was constituency in-charge, not MLA; period outside 2022-2027.
+// R-2. Tribune "Foundation stones of projects worth Rs 1.5-cr laid in Jalandhar villages"
+//       (Dec 26, 2021) — pre-term; he laid stones as Youth Congress in-charge before the poll.
+// R-3. punjabtribune.com "MP Santokh Singh Chaudhary and Vikramjit Singh Chaudhary lay
+//       foundation stones... Rs 71.5 lakhs" — pre-term (in-charge era) AND outlet not on
+//       whitelist (small "Punjab Tribune" portal, not The Tribune).
+// R-4. Tribune "Projects worth Rs 1.07 crore inaugurated at Rurka Kalan" (Sep 11, 2021) —
+//       pre-term; jointly inaugurated with his father (MP Santokh Chaudhary) as in-charge.
+// R-5. Tribune "Guru Ravidas Gate opened at Phillaur" (Feb 5, 2020) — pre-term; gate built by
+//       Shri Guru Ravidass Bhawan Prabandhak Committee, he only inaugurated it (not his project).
+// R-6. Tribune "Expedite dev work, Phillaur MC officials told" (Mar 2022) — sirf
+//       nirikshan/nirdesh; chaired an MC meeting and told officials to expedite, no work done.
+// R-7. Tribune "My aim is to set up govt college, stadium says Vikramjit Singh Chaudhary,
+//       Phillaur MLA" (Apr 10, 2022) — sirf ghoshna/priorities (multi-specialty hospital,
+//       govt college, stadium); nothing executed/sanctioned.
+// R-8. Tribune "This victory was purely the result of the work I have done for people in last
+//       5 yrs" (Mar 13, 2022) — MLA ka dawa about pre-term in-charge era (Smart Village
+//       Campaign/UEIP funds under Congress govt); Garhi Mahan Singh tiles and Mehsampur park
+//       refer to Dec 2021-Feb 2022, pre-tenure; priorities listed are sirf ghoshna.
+// R-9. Tribune "Battle for supremacy: Congress MLA vs AAP rages on in Phillaur" (May 19, 2022)
+//       — political controversy, not a work; MLA was the complainant against AAP leader
+//       Prem Kumar over a foundation stone for the 6.72-km Apra-Dhuleta road (PMGSY, kendriya
+//       pariyojna); no personal role in the sanction.
+// R-10. Tribune "Construct underpasses in Phillaur: MLA to Bittu" (Dec 2024) — sirf
+//        maang/prastav; representation to Union Railway Minister; railway underpasses =
+//        kendriya pariyojna; central govt asked to bear full cost, nothing sanctioned.
+// R-11. Tribune "Cong MLA raises illegal mining issue, AAP calls charges baseless"
+//        (Sep 2026) — political accusation/statement, no work.
+// R-12. Tribune "Punjab MLAs demand inclusion of national icon desecration in law" — joint
+//        letter/demand to Speaker re Nangal Ambedkar statue; sirf maang/prastav, no work.
+// R-13. Tribune "Phillaur MLA meets Union Secy over demolition issue" (Apr 10, 2026) —
+//        met MoRTH Secretary and handed request letter to Gadkari re proposed demolition in
+//        Kalsi Nagar; sirf maang, no outcome documented.
+// R-14. Tribune "Phillaur MLA addresses election meetings for Cong candidates" (Dec 12, 2025)
+//        — election campaigning for Zila Parishad/Block Samiti, not a work.
+// R-15. Tribune "Staff shortage, lack of equipment ail fire station: Phillaur MLA" (Oct 2023)
+//        — political accusation after PSPCL office fire, no work.
+// R-16. Tribune/Indian Express/NDTV/HT "Congress suspends Phillaur MLA Vikramjit Chaudhary
+//        for anti-party activities" (Apr 24, 2024) and "Congress revokes suspension"/reinduct
+//        (Jun 2, 2025) — party disciplinary karyawahi (statements against Charanjit Singh
+//        Channi's Jalandhar candidature; resigned as chief whip); rule: party karyawahi akele
+//        negative NAHI, so no negative entry. Mother Karamjit Kaur joining BJP is a parivar
+//        matter — excluded.
+// R-17. Tribune "Phillaur MLA Vikramjit Chaudhary releases objectionable poster of Charanjit
+//        Singh Channi" (Apr 24, 2024) — same suspension matter; no independent negative.
+// R-18. 5dariyanews.com items (Guru Ravidass Bani Adhyayan Centre grant row, crop compensation
+//        accusations, propaganda jibes) — outlet not whitelisted AND all political
+//        accusations, no works.
+// R-19. punjabnewschannel.com "Punjab govt should restart its own ration distribution scheme:
+//        MLA Vikramjit Singh Chaudhary in Vidhan Sabha" (Starred Question on zero grants to
+//        Phillaur) — outlet not whitelisted; also a Vidhan Sabha question with no documented
+//        outcome.
+// R-20. yespunjab.com, newsarenaindia.com, indiaherald.com, jantaserishta.com, latestly.com,
+//        thewire.in items — outlets not on whitelist (aggregator/small portals or
+//        political-context pieces, not works).
+
+// PB4: inderjit-kaur-mann — 2 entries merged (QA-checked).
+// Worker: inderjit-kaur-mann — foundation: Nakodar, AAP, MLA, Mar 2022+, search date 2026-10-18
+// REJECTED LEADS:
+// R-1. Tribune 'Lok Milnis' article (Jan 2026): MLA ne dawa kiya CM ne Nakodar bus stand renovation aur Bilga town development ke projects approve kiye — sirf ghoshna/dawa, post-event reporting nahi.
+// R-2. Tribune 'Govt to construct administrative complexes at Nurmahal, Nakodar' (Jul 2022): MLA ne kaha government banayegi — sirf ghoshna.
+// R-3. Tribune 'Minister okays Rs 43.79 crore under Rangla Punjab scheme' (Aug 2025): minister Gurmeet Singh Khudian ne approval diya, MLA sirf maujood thi — mantri ki karyawahi, MLA ka vyaktigat kaam nahi.
+// R-4. Mother and Child Hospital Nakodar (Feb 28, 2024, CM Bhagwant Mann ne inaugurated): CM ka kaam, MLA ki bhoomika source me nahi; editorji bhi whitelist me nahi.
+// R-5. Tribune 'Completing pending projects, improving sanitation my priority' (Mar 2022): sirf yojnaen/maang — koi sampann kaam nahi.
+// R-6. 66 KV substation Chittar Hara Nakodar (Dec 2024): Power Minister Harbhajan Singh ETO ne shilanyas kiya, MLA saath me maujood thi — dusre neta ke karyakram me maujoodgi; yesPunjab whitelist me nahi.
+// R-7. Saringh hockey ground Rs 20 lakh lokarpan (Sep 29, 2026): sirf dainiksaveratimes.com (whitelist me nahi) ne chhapa — koi whitelisted outlet nahi mila.
+// R-8. Sikhya Kranti Rs 13.91 lakh Nakodar schools (Apr 7, 2025): sirf non-whitelist outlets (babushahi, patialapolitics, 5dariyanews, indiathisweek) + Tribune e-paper scan; koi canonical whitelisted article nahi. Same drive ki Rs 33 lakh wali Nakodar coverage Tribune canonical article me mili — entry 2 me included.
+// R-9. Ludhiana canal-water/meetings ki TOI khabren: wah 'Mayor Inderjit Kaur' (Ludhiana) hain, hamari MLA Inderjit Kaur Mann nahi — alag vyakti.
+// R-10. Tribune 'Waterlogging at Dakhni Adda torments residents' (Jul 2025): shikayat ki khabar; MLA ne nagar council par dosh dala aur theek karne ka wada kiya — na work entry, na negative bar par khara.
+// R-11. NEGATIVE reject: halafnama ka Rahon PS (SBS Nagar) illegal mining case (Mines and Minerals Act) — pre-term, Mar 2022+ me koi legal development media me nahi; halafnama pending case akele negative nahi.
+// R-12. NEGATIVE reject: Indian Express (May 2023) — MLA ke bete ko dhamki bhara message, case unidentified accused ke khilaf; MLA parivar complainant hai — MLA ke khilaf negative nahi.
+punjabWorks['inderjit-kaur-mann'] = [
+  {
+    title: 'Nakodar MLA Inderjit Kaur Mann ne Heran gaon ke sarkari primary school ki boundary wall ki marammat ka shilanyas kiya, jisme Sarv Sikhya Abhiyan ka fund laga tha',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/panchayat-members-peeved-as-mla-lays-stone-for-renovated-school-wall/',
+    date: '2025-04-15',
+    note: 'Gaon Heran (Nakodar) ke sarkari primary school ki 50-60 feet lambi giri hui boundary wall sarkar ne dobara banwai, plaster aur paint kiya; MLA ne shilanyas kiya. Gaon panchayat ne aapatti jatayi ki routine marammat ko school renovation bataya gaya, panchayat ko nimantran nahi mila, aur plaque ke paas unhone likh diya ki ye diwaar chaar saal purani hai. MLA ka jawab: panchayat ke sadasya sarkari karyakramon me kabhi aate nahi, isliye bulaya nahi gaya. Fund: Sarv Sikhya Abhiyan — 40% rajya, 60% kendra. (Inferred date reasoning: article 2025-04-19 ko published hai aur shilanyas ko ‘on Tuesday’ batata hai; calendar check par 2025-04-15 Mangalwar tha.)',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Inderjit Kaur Mann ne Punjab Sikhiya Kranti drive ke tehat Nakodar ke saat sarkari schoolon me Rs 33 lakh ke buniyadi dhaanche ke projects samarpit kiye',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/govt-opens-purse-strings-for-schools-infra-boost/amp',
+    date: '2025-04-10',
+    note: 'Nakodar segment ke saat sarkari school — GPS Khiwa, Uggi, Chuhar, Bahupur aur GHS Khiwa (Boys aur Girls) aur Uggi — me Rs 33 lakh ke projects dedicate kiye gaye; ye Jalandhar jile ke 38 schoolon me Rs 2.34 crore ke kul drive ka hissa tha. Kaam: smart classrooms, science labs, sports tracks, digital learning systems, cluster rooms, upgraded toilet blocks, boundary walls aur zaroori marammat. (Date reasoning: article 2025-04-10 ko published hai; drive 2025-04-07 se chali, isliye ye post-event reporting hai.)',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+];
+
+// PB4: hardev-singh-laddi — 1 entries merged (QA-checked).
+// Worker: hardev-singh-laddi — works research 2026-10-18 (Batch 4, Jalandhar+Hoshiarpur)
+// Foundation: ~/workspace/aapkaneta/src/data/punjab.ts — slug 'hardev-singh-laddi' (line 1133)
+//   Name: Hardev Singh Laddi | Party: Indian National Congress (INC) | Seat: Shahkot | Tenure: 2022-2027
+//   2022: 51,661 votes (38.99%), beat Bachitar Singh Kohar (SAD) by 12,079.
+//   No foundation discrepancy found.
+// Whitelisted outlets searched (The Tribune, HT, Indian Express, NDTV, India Today, TOI, The Hindu,
+// Dainik Bhaskar, Dainik Jagran, Amar Ujala, PTI via established outlet). Pre-event announcements,
+// non-whitelisted portals (newsd5, wishavwarta, iglobalpunjab, 5dariyanews, cityairnews, topindiannews,
+// arthprakash, bharathorizon, nationpress, gulistannewstv, punjabkhabarnama, factrecorder, truescoopnews),
+// YouTube/social/blog content — all rejected per whitelist.
+//
+// POSITIVE WORKS (2022-2027 tenure): no qualifying entry found in whitelisted outlets.
+// NEGATIVE: 1 entry below (FIR stage; no `stage` field per rule).
+//
+// Reject log:
+// R-1. Dhussi Bund Link Road (37.93 km, Rs 61.82 crore, Shahkot constituency, foundation stone by CM
+//      Bhagwant Mann on 2026-06-19 at Mandala Chhanna) — credited to MP Balbir Singh Seechewal's
+//      persistent advocacy + CM's foundation stone; MLA Laddi has no documented personal role; sources
+//      (bharathorizon, topindiannews, cityairnews, arthprakash, nationpress, newswav, punjabkhabarnama)
+//      are all non-whitelisted. REJECT (bina vyaktigat bhoomika ke shrey + non-whitelisted source).
+// R-2. Chuggiti-Ladhewali ROB / Shahkot road works (PWD Minister Singla event, 5dariyanews) — 2018-era
+//      term coverage, non-whitelisted outlet, Laddi only present alongside minister. REJECT.
+// R-3. CM Amarinder Singh's Rs 2,140 crore grants announcement for Jalandhar/Shahkot (June 2018) —
+//      pre-term (2018 bypoll period); sirf ghoshna; CM-attributed, Laddi only made a demand. REJECT.
+// R-4. Rs 113 crore / government college claim in 2018 campaign (Indian Express, May 12 2018) — pre-term
+//      campaign claim + sirf ghoshna. REJECT.
+// R-5. Damaged bridge near Shahkot-Malsian railway station (The Tribune, 2026) — Laddi raised issue with
+//      officials + Vidhan Sabha; repair initiated by authorities (NH — central project). REJECT:
+//      sirf maang; kendriya pariyojna par shrey nahi.
+// R-6. Lohian-Jakopur 9-km road vigilance-inquiry demand (same Tribune piece) — sirf maang. REJECT.
+// R-7. Shahkot primary schools awaiting funds (The Tribune) — MLA expressed concern, urged govt action;
+//      sirf maang/chinta. REJECT.
+// R-8. Shahkot hospital doctors vacancy issue (Indian Express, Zero Hour) — Vidhan Sabha maang, no
+//      documented outcome. REJECT.
+// R-9. Flood situation visit with Channi (The Tribune, 2023) — sirf nirikshan/daura. REJECT.
+// R-10. Shahkot MC president election protest (HT, Jan 20 2025) — political activity, not physical work. REJECT.
+// R-11. 2018 illegal sand mining FIR (May 2018) — pre-term; cancellation report approved June 2018
+//      (iglobalpunjab) — no Mar 2022+ legal development; halafnama pending-mamla akele negative nahi. REJECT.
+// R-12. Scooter collision with MLA's car (Tribune, Oct 2023, Jasso Majra, Nawanshahr) — accident; CCTV
+//      pointed to scooterist negligence; no MLA fault alleged; not negative. REJECT.
+
+punjabWorks['hardev-singh-laddi'] = [
+  {
+    title: 'Shahkot MLA Hardev Singh Laddi ke khilaf 10 May 2023 ko Jalandhar Lok Sabha bypoll wale din AAP MLA Dalbir Singh Tong ke gherao par FIR — non-bailable Section 353 ke saath, Dec 2023 tak SIT ne janch shuru nahi ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/seven-months-on-sit-yet-to-begin-investigation-in-mla-laddi-case-573904/',
+    date: '2023-12-20',
+    note: 'Page kholkar padha: Jalandhar (Rural) police ne Shahkot MLA Hardev Laddi Sherowalia aur 12 anya ke khilaf FIR darj ki — 10 May 2023 (bypoll voting day) ko Baba Bakala AAP MLA Dalbir Singh Tong ke gherao ke liye, sections 341, 186, 353 (non-bailable) aur 148 IPC. Pehle Laddi ne Facebook live par aarop lagaya tha ki Tong "outsider" MLA ke roop me Jalandhar me voting day par illegally ghoom rahe the. DIG Swapan Sharma ke aadesh par Hoshiarpur ke tab ke SSP Sartaj Chahal ke netritva me SIT bani, lekin article ke mutabik (dateline 20 December, published 21 December 2023) saat mahine baad bhi SIT ne tathya ascertain nahi kiye; Laddi ka kehna — unhe janch ke liye ek baar bhi nahi bulaya gaya; SSP Bhullar aur tab ke DIG Sharma SIT ki sthiti se anjaan the. Stage: FIR (stage field negatives me nahi rakha jata).',
+    period: '2022-2027',
+  },
+];
+
+// PB4: balkar-singh — 3 entries merged (QA-checked).
+// Worker: balkar-singh — works-research 2026-10-18
+// NOTE: Entries 1-2 us daur ki hain jab Balkar Singh Punjab Local Bodies Minister the,
+// lekin sabhi pariyojnaen unke apne Kartarpur halke ki hain (seat-specific); vibhagiya/
+// state-wide mantri faisle alag rakhe gaye hain. Balkar Singh Sep 2024 me cabinet se
+// bahar hue (reshuffle) — uske baad bhi Kartarpur MLA bane hue hain.
+// Foundation se koi visangati nahi: AAP, Kartarpur (SC), MLA 2022-2027.
+punjabWorks['balkar-singh'] = [
+  {
+    title: 'Balkar Singh ne Kartarpur halke ke kayi gaon me Rs 130.09 lakh ke vikas karyon ke shilanyas kiye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/stones-of-development-projects-worth-rs-130-09l-laid-in-kartarpur-534717/',
+    date: '2023-08-12',
+    note: 'The Tribune ki report ke anusaar, us samay Punjab Local Bodies Minister Balkar Singh ne Kartarpur halke ke kayi gaon me vikas pariyojnaon ke shilanyas kiye; kul lagat Rs 130.09 lakh batayi gayi. Karyon me Lidhran me naya health and wellness centre (Rs 28.90 lakh), Malko me sewerage aur interlocking tiles (Rs 3 lakh), Jallowal Colony (Rs 5.40 lakh), Kartarpur town (Rs 14.50 lakh), Binpalke gaon me naya talab (Rs 20 lakh), aur Shekhwan aur Chandan Nagar (Kartarpur) me do naye tubewell (Rs 58.29 lakh) shamil the. Tithi 2023-08-12 report ki Saturday line aur 2023-08-13 prakashan se inferred hai.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Balkar Singh ne Kartarpur ke gaon me Rs 2 crore se zyada ke vikas karyon ke shilanyas kiye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/projects-worth-rs-2-crore-launched-in-kartarpur-529998/amp',
+    date: '2023-07-28',
+    note: 'The Tribune ki report ke anusaar, Balkar Singh ne Kartarpur ke gaon me Rs 2 crore se zyada ke vikas karyon ke shilanyas kiye: Talwandi Bhilan aur Ambgarh gaon me panchayat ghar (har ek Rs 20 lakh), Dugri me naya panchayat ghar (Rs 30 lakh), Ballan me sewage treatment pond (Rs 84 lakh), aur Rahimpur me naya panchayat ghar aur health and wellness centre (Rs 50 lakh). Tithi 2023-07-28 report ki Friday line aur 2023-07-29 prakashan se inferred hai.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'NCW ne Balkar Singh ke kathit ashleel video ki janch ke liye Punjab DGP ko notice diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/chandigarh-news/ncw-seeks-report-from-dgp-into-alleged-obscene-video-of-punjab-minister-101716834284620-amp.html',
+    date: '2024-05-27',
+    note: 'HT ke anusaar, NCW ne Punjab DGP ko Kartarpur MLA aur cabinet minister Balkar Singh ke kathit ashleel video ki janch karke 3 din me report dene ka notice diya. NCW chairperson Rekha Sharma ne DGP se turant aur nishpaksh janch ke liye vyaktigat hastakshep manga. HT ne video ki pramanikta ki swatantra pushti nahi ki; report me FIR darj hone ka ullekh nahi hai. Tithi report ke Monday sandarbh se inferred hai; page 2024-05-28 ko update hua tha.',
+    period: '2022-2027',
+  },
+];
+// R-1. Gaushala/cattle pound shilanyas, Dayalpur (Kartarpur), Rs 2.21 crore, Nov 1 2023 (The Tribune) — page khul nahi saka (publish.tribuneindia.com par HTTP 403); snippet se entry nahi banayi; parent ke liye retry lead — https://www.tribuneindia.com/news/kartarpur-to-have-first-of-its-kind-cow-shelter-in-punjab-minister-558773/
+// R-2. Wariana me road/sewerage lokarpan (The Tribune, Jan 6-7 2024) — seat Kartarpur hai (delimitation me KC Wariyana No.33 me) lekin fund disclosed nahi (sirf "worth several lakhs"); saath ki ghoshnaen (community hall Rs 25 lakh, anganwari, streetlights, school) sirf ghoshna hain — reject.
+// R-3. Barsarampur sewerage lokarpan, Oct 16 2025 (Seechewal + Balkar Singh; NRI-funded Rs 1 crore; Balkar Singh ne Rs 15 lakh discretionary fund ghoshit) — sirf yespunjab.com par mila, whitelist me nahi — reject.
+// R-4. SAD ne governor ko "objectionable video" dekar janch ki maang ki (HT, Jan 24 2024) — party karyawahi akele negative nahi; NCW janch notice alag entry me covered — reject.
+// R-5. Balkar Singh ka cabinet se istifa (Sep 22 2024 reshuffle, Local Bodies portfolio se) — party/sarkari karyawahi akele negative nahi; whitelisted outlet par coverage nahi mila (indiatvnews/oneindia/dailyworld whitelisted nahi); June-2024 wala dawa galat tha, sahi tithi Sep 22 2024 hai — reject.
+// R-6. Bhogpur me Awas Yojana ke 25 labharthiyon ko approval letters (Jul 28 2023 report ka hissa) — scheme distribution function, vyaktigat bhautik sanrachna nahi — reject.
+// R-7. 5dariyanews, indiaepost, presskitaquat par upar ki stories ke duplicate — non-whitelisted — reject.
+// R-8. Kartarpur Improvement Trust me vikas karyon ki samiksha baithak (punjabtribune, Feb 8 2024) — sirf samiksha baithak, kaam nahi — reject.
+
+// PB4: mohinder-bhagat — 7 entries merged (QA-checked).
+// Worker: mohinder-bhagat — pb4 works research, 2026-10-18
+punjabWorks['mohinder-bhagat'] = [
+  {
+    title: 'Mohinder Bhagat ne Major Colony aur Dashmesh Colony me Rs 42 lakh ke sewerage project ka shilanyas kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/minister-mayor-lay-foundation-stone-for-rs-42-lakh-sewer-project-in-jalandhar/',
+    date: '2025-12-27',
+    note: 'The Tribune ke anusaar Cabinet Minister Mohinder Bhagat aur Mayor Vaneet Dhir ne shanivaar ko Ward No. 40 me padne wali Major Colony aur Dashmesh Colony me Rs 42 lakh ke naye sewerage project ka shilanyas kiya. Project ka uddeshya ilake ke sewer sambandhi samasyaon ka sthayi samadhan bataya gaya. Article 2025-12-28 ko publish hua, event shanivaar 2025-12-27 ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Mohinder Bhagat ne Shri Guru Ravidass Chowk ke Rs 21 lakh ke facelift project ka shilanyas kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/facelift-for-guru-ravidass-chowk-at-an-estimated-cost-of-rs-21-lakh/',
+    date: '2026-01-03',
+    note: 'The Tribune ke anusaar Bhagat ne shanivaar ko Shri Guru Ravidass Chowk ke rejuvenation project ka shilanyas kiya jiski laagat Rs 21 lakh hai. Project me chowk ka beautification aur redesign shamil hai. Article 2026-01-04 ko publish hua, event shanivaar 2026-01-03 ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Mohinder Bhagat ne Model House area me Rs 9 lakh ki do sadkon ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/facelift-for-guru-ravidass-chowk-at-an-estimated-cost-of-rs-21-lakh/',
+    date: '2026-01-03',
+    note: 'The Tribune ke anusaar Bhagat ne Model House area me do sadkon ke nirman ka shilanyas kiya jiski laagat Rs 9 lakh hai. Bhagat ke anusaar ye sadken sthaniya nivasiyon ki ek pramukh maang poori karengi aur connectivity sudharegi. Article 2026-01-04 ko publish hua, event shanivaar 2026-01-03 ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Mohinder Bhagat ne Bhargo Nagar me Rs 18 lakh ki teen sadak pariyojnaon ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/bhargo-nagar-to-get-three-roads/',
+    date: '2025-08-10',
+    note: 'The Tribune ke anusaar Bhagat ne ravivar ko Ward No. 44 me padne wale Bhargo Nagar me teen sadak pariyojnaon ka shilanyas kiya, kul laagat Rs 18 lakh. Sadken Bhargo Nagar ke mukhya bazaar me aavagaman aasan karengi. Article 2025-08-11 ko publish hua, event ravivar 2025-08-10 ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Mohinder Bhagat ne New Avtar Nagar Colony me Rs 75 lakh ki do sadkon ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/jalandhars-avtar-nagar-to-get-2-new-roads/',
+    date: '2025-09-18',
+    note: 'The Tribune ke anusaar Bhagat aur Mayor Vaneet Dhir ne guruwar ko Ward No. 47 me New Avatar Nagar Colony me Rs 75 lakh ki laagat se nayi sadak pariyojnaon ka shilanyas kiya. Article 2025-09-19 ko publish hua, event guruwar 2025-09-18 ka.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Mohinder Bhagat ne Jalandhar West ke Ward 61 me Rs 1.09 crore ke sadak karyon ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Punjabi Jagran',
+    sourceUrl: 'https://www.punjabijagran.com/punjab/jalandhar-cabinet-minister-lays-foundation-stone-for-development-works-worth-109-crore-9695249.html',
+    date: '2026-10-09',
+    note: 'Punjabi Jagran ke anusaar Bhagat ne shukravar shaam ko Jalandhar West halke ke Ward No. 61 me Rs 1.09 crore ke vikas karyon ka shilanyas kiya. Isme Shaheed Babu Labh Singh Nagar me gali number 5, 6, 7 aur 10 sahit paanch galiyon ka Rs 45 lakh me nirman aur Kala Sanghian drain ko Guru Nanak Nagar ke paas Gurdwara Baba Jawana Ji se jodne wali mukhya sadak ke liye Rs 64 lakh shamil hain. Article 2026-10-09 ko publish hua aur event usi shaam ka bataya gaya.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Mohinder Bhagat ne Basti Guzan me Rs 18.46 lakh ki sadak ka nirman kaarya shuru karwaya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Punjabi Jagran',
+    sourceUrl: 'https://www.punjabijagran.com/punjab/jalandhar-mohinder-bhagat-9688577.html',
+    date: '2026-09-27',
+    note: 'Punjabi Jagran ke anusaar Bhagat ne Basti Guzan ilake me Rs 18.46 lakh ki laagat se banne wali sadak ke nirman kaarya ki shuruaat karwai. Date inferred: article 2026-09-27 ko publish hua hai aur event usi din ya usse ek din pehle ka lagta hai; reasoning note me disclose kiya gaya hai.',
+    period: '2022-2027',
+  },
+];
+
+// R-1. PTI feed (theprint.in, 2026-08-31): Dhogri me virus indexing lab ka udghatan — vibhagiya karya (Horticulture mantri ke roop me), seat-kaam nahi; Dhogri Jalandhar West me nahi. REJECT.
+// R-2. YesPunjab (2025-12-05): Raja Garden aur Ganesh Nagar me Rs 59 lakh ki do sadken — outlet whitelist me nahi (chhota Punjabi portal). REJECT.
+// R-3. YesPunjab / 5DariyaNews (2026-08-23): 120 Feet Road par Bhagwan Valmiki Ji Bhawan ka Rs 96 lakh me renovation — outlet whitelist me nahi. REJECT.
+// R-4. 5DariyaNews: Basti Sheikh me Satguru Kabir Bhawan community hall ka Rs 42 lakh me renovation — outlet whitelist me nahi. REJECT.
+// R-5. 5DariyaNews: Geeta Colony me Rs 27 lakh ki sadken — outlet whitelist me nahi. REJECT.
+// R-6. babushahi.com / cityairnews.com: MP Sanjeev Arora ke saath Mohalla Clinic ka shilanyas aur Jawahar Nagar Camp me do gate — outlet whitelist me nahi. REJECT.
+// R-7. 5DariyaNews: Rangla Punjab Vikas Scheme ke tahat Rs 10 crore pariyojnaon ki samiksha baithak — outlet whitelist me nahi, aur sirf samiksha baithak (nirikshan shreni). REJECT.
+// R-8. 5DariyaNews: Civil Hospital Rogi Kalyan Samiti baithak, Jan Aushadhi Centre punah shuru karne ki swikriti — outlet whitelist me nahi, sirf samiksha baithak. REJECT.
+// R-9. YesPunjab (2026-08-10): Basti Danishmanda me streetlights ka udghatan aur tube well kaarya ka aarambh — outlet whitelist me nahi. REJECT.
+// R-10. YesPunjab (2025-05-12): Sports and Surgical Complex me Rs 1.29 crore ke fire station ka udghatan — outlet whitelist me nahi. REJECT.
+// R-11. newsonradar.com (2026-06-16): Model House me Rs 50 lakh ke community hall ka shilanyas — aggregator, whitelist me nahi. REJECT.
+// R-12. The Tribune: Surya Enclave me Rs 5.10 crore ki sadak yojna — ye Jalandhar Central (Nitin Kohli, halqa in-charge) ka kaam hai, Bhagat ki seat ke bahar. REJECT.
+// R-13. punjabnewsline.com: Khedan Watan Punjab Diyan-2026 block-level khelon ka udghatan — outlet whitelist me nahi, aur sarkari abhiyan ka keval shubharambh. REJECT.
+// R-14. 5DariyaNews: Easy Property Registration ki ghoshna — sirf ghoshna, koi bhautik kaam nahi. REJECT.
+// R-15. Delhi ke ACP Vivek Bhagat par FIR/sexual assault ki khabren — ye alag vyakti hain, MLA Mohinder Bhagat nahi (pehchan mismatch). REJECT.
+// R-16. jpbnews24.in: Ward 61 ke Rs 1.09 crore karyon ki khabar — outlet whitelist me nahi; wahi khabar Punjabi Jagran se entry ban gayi hai. REJECT.
+
+// PB4: raman-arora — 3 entries merged (QA-checked).
+// Worker: raman-arora — pb4 (Batch 4, Jalandhar+Hoshiarpur) — 2026-10-18
+// Pehchan pakki: Raman Arora, AAP, Jalandhar Central (foundation record, candidate_id=996, B.A. GNDU 1992).
+// Karyakaal Mar 2022+. Vikas-kaaryon ki koee yogya entry naheen mili (0 works).
+// Negatives: 3 entries, sab established media, MLA khud aaropi, stage-accurate, stage field naheen.
+punjabWorks['raman-arora'] = [
+  {
+    title: 'Punjab Vigilance Bureau ne 23 May 2025 ko farzi building violation notice se vasuli ke aarop me giraftar kiya; VB ne 900-page chargesheet dakhil ki aur rajya sarkar prosecution ki anumati de chuki hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/chandigarh-news/aap-mla-arora-joins-ed-probe-linked-to-graft-extortion-cases-101780425359731.html',
+    date: '2025-05-23',
+    note: 'Hindustan Times (3 Jun 2026) ke anusaar, Punjab Vigilance Bureau ne MLA Raman Arora (AAP, Jalandhar Central) ko 23 May 2025 ko Prevention of Corruption Act ke maamle me giraftar kiya; VB FIR ke mutabik Arora ne Municipal Corporation ke Assistant Town Planner Sukhdev Vashisht ke zariye farzi notice bhijwakar vyapariyon, vyavsayiyon aur commercial property malikon se vasuli ki. VB ke 900-page chargesheet me Arora par rajnitik prabhav ka durupyog karke sthaniya vyapariyon aur commercial property malikon se vasuli ka aarop hai, aur rajya sarkar prosecution ki anumati de chuki hai. Ghar par 23 May ke chhape me Rs 6 lakh nakad, 1.2 kg sone ke zevar aur 75-80 violation notice baramad hue. VB maamla BNS dhara 238, 308(2), 61(2) aur Prevention of Corruption Act ke tahat darj hai. Is page par MLA ka koee jawab ya inkar darj naheen hai. Giraftari ki taareekh 2025 isliye maani gayi kyunki June 2026 ki report me May 23 last year likha hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'Jalandhar court ne 22 Sep 2025 ko 129 din ki hirasat ke baad VB vasuli maamle me zamanat di; giraftari ke dauraan construction sites par violation notice bhijwakar rishwat maangne ka aarop tha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/aap-mla-raman-arora-gets-bail-after-129-days-in-custody-in-extortion-case/',
+    date: '2025-09-22',
+    note: 'The Tribune (22 Sep 2025) ke anusaar, Jalandhar Central ke AAP MLA Raman Arora ko Jalandhar court ne 129 din hirasat me rahne ke baad zamanat de di. Unhe 23 May 2025 ko Vigilance Bureau ne municipal adhikariyon ke saath milkar vasuli racket chalane ke aarop me giraftar kiya tha, jisme chal rahe construction projects ko chinhit karke violation notice bheje jaate the aur maamla suljhane ke liye rishwat maangi jaati thi. Is page par MLA ka koee jawab darj naheen hai.',
+    period: '2022-2027',
+  },
+  {
+    title: '2 Jun 2026 ko Jalandhar me Enforcement Directorate ke samaksh PMLA janch me pesh hue; VB maamle me rihai ke din hi police ne naye graft aur vasuli FIR me dobara giraftar kiya tha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/aap-mla-raman-arora-appears-before-ed-in-money-laundering-probe/amp/',
+    date: '2026-06-02',
+    note: 'The Tribune (2 Jun 2026) ke anusaar, AAP ke Jalandhar Central MLA Raman Arora Jalandhar me Enforcement Directorate ke samaksh pesh hue aur Prevention of Money Laundering Act ke tahat sandigdh ullanghan ke maamle me poochtachh hui. ED ki janch 23 May 2025 (report me May 23 last year) ko Punjab Vigilance Bureau dwara darj maamle par aadharit hai, jisme Arora par Municipal Corporation adhikariyon, jinme Assistant Town Planner aur building branch inspector shaamil hain, ke saath milkar farzi building violation notice jari karke logon se vasuli ka aarop hai. VB maamle me rihai ke din hi Arora ko police dwara darj ek graft aur vasuli ke maamle me dobara giraftar kar liya gaya tha. Is page par MLA ka koee bayan darj naheen hai. Report me ye bhi hai ki rihai ke baad se Arora ne apne Assembly kshetra me koee vikas pariyojna ka lokarpan naheen kiya hai.',
+    period: '2022-2027',
+  },
+];
+// R-1. bharathorizon.com par Basti Danishmanda me lagbhag Rs 2 crore ki sadak ka lokarpan MLA dwara (bharathorizon.com) — outlet whitelist me naheen, entry naheen.
+// R-2. punjabkhabarnama.com (26 Feb 2024) — mantri Balkar Singh ke karyakram me tubewell, park, fire station ka shilanyas; outlet whitelist me naheen, Raman Arora sirf maujood the, aur pariyojnayen Deol Nagar (Jalandhar West, doosri seat) me theen — seat ke bahar + maujoodgi matra.
+// R-3. yespunjab.com (29 Nov 2024) review meeting — outlet whitelist me naheen, Arora sirf upasthit, ghoshnaon ka shrey mantriyon Harbhajan Singh ETO aur Mohinder Bhagat ko — sirf ghoshna/maujoodgi.
+// R-4. Tribune epaper Jalandhar Tribune (8 aur 10 Apr 2025) — Adarsh Nagar, Dhilwan, Chugitti, Abadpura me Rs 18.80 lakh aur Rainik Bazaar, Ladowali Road, Kaki Pind, Nehru Garden me Rs 29.77 lakh ke school projects ka lokarpan — ye Punjab Sikhiya Kranti ke statewide mass campaign events the (epaper me hi teachers ke virodh ki khabar hai), isliye sarkari abhiyan ke keval shubharambh ki shreni me reject.
+// R-5. Aam Aadmi Clinic ka lokarpan (gaon Dhannowali; publish.tribuneindia.com item 503156) — statewide 500-clinic abhiyan ka keval shubharambh, reject.
+// R-6. Indian Express (12 Nov 2025) — MLA ne Rs 5 crore ki vasuli ke threat call ki shikayat darj karayi — isme MLA shikayatkar hai, na vikas kaary na negative; entry naheen.
+// R-7. Tribune (Nov 2025) Anandpur Sahib vishesh satra me upasthiti aur (May 2026) halqa in-charge Nitin Kohli se takraar ki report — rajnitik gatividhi, koee vikas ya nyayik vikas naheen; entry naheen.
+// R-8. UNI (uniindia.com, 24 May 2025) par Sukhbir Badal ka giraftari ko political drama batana — UNI whitelist me reject hai; party rajneeti ki tippani akele negative naheen.
+
+// PB4: avtar-singh-junior — 1 entries merged (QA-checked).
+// Worker: avtar-singh-junior — pb4 worker, 2026-10-18
+// NOTE: Foundation record ~/workspace/aangkapaneta/src/data/punjab.ts research ke samay
+// accessible nahi thi (file maujood nahi; Punjab foundation abhi in-progress hai). Party/seat/tenure
+// task brief ke mutabik: INC, Jalandhar North (No. 36), term Mar 2022 se. Cross-check: PRS MLA track
+// (term start 10-Mar-22, incumbent) aur punjabassembly.gov.in profile (2017 aur 2022 me Jalandhar North
+// se elected; pita Avtar Henry, ex-minister). Sthaniya press me yahi MLA "Bawa Henry" naam se report
+// hota hai — pehchaan "Jalandhar North MLA Bawa Henry / Avtar Singh Junior" se pakki ki gayi.
+// Scope period: 2022-2027. Yeh MLA opposition bench par hai (AAP sarkar), isliye seat-level
+// bhautik karyon ki whitelisted coverage bahut seemit mili.
+punjabWorks['avtar-singh-junior'] = [
+  {
+    title: 'Jalandhar North ke Congress MLA Avtar Singh Junior ne Punjab Assembly Speaker ko "The Population Control Bill 2025" naam ka private member bill submit kiya, jisme do-bacche ke norm ka proposal aur usse zyada bacchon par penalty ki baat hai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (via ThePrint)',
+    sourceUrl: 'https://theprint.in/india/punjab-cong-mla-submits-bill-seeking-population-control-law/2679864/',
+    date: '2025-07-04',
+    note: 'PTI report (dateline Jul 4, 2025) ke mutabik MLA ne Speaker Kultar Singh Sandhwan ko private member bill pichhle Wednesday (Jul 2, 2025; bill ke naam se saal 2025 pakka) ko submit kiya. Bill me do se zyada living children hone par voting aur chunav ladne se disqualification, welfare schemes aur sarkari naukri se vanchit karne, aur har atirikt bacche par kam se kam Rs 10 lakh penalty ka proposal hai; saath me state population control committee aur norm manne wale BPL parivaron ke liye incentive bhi. MLA ne bill par Vidhan Sabha me discussion ki maang ki. Credit capped: Speaker ko submission documented hai; bill pass hone ya sarkar ki swikriti ki koi report nahi mili.',
+    period: '2022-2027',
+  },
+];
+
+// R-1. The Tribune "Foundation stones of projects worth Rs41.07 cr laid" (Feb 2021): Bawa Henry ne Gadaipur me waste management plant ka shilanyas kiya — PRE-TERM (Feb 2021, Mar 2022 se pehle); CM-led state event me kai netaon me se ek. REJECT.
+// R-2. PTB News: Ward 66 Gopal Nagar ki sadkon ka udghatan (Rs 22 lakh) aur Ward 4 Hargobind Nagar ki sadkon ka shubharambh (Rs 49 lakh) — chhota local portal, whitelist me nahi; kisi whitelisted outlet ne in events ko cover nahi kiya. REJECT (source not whitelisted).
+// R-3. The Tribune "MLA Henry takes up civic issues with MC Commissioner" (Oct 28, 2025): MC Commissioner se milkar sewerage/sadak/green-belt mudde uthaye — sirf maang, koi documented nateeja nahi. REJECT.
+// R-4. The Tribune video + Punjabi Jagran: Sep 2026 me bijli katoti ke khilaf PSPCL office ke bahar Congress ka dharna (MLA Bawa Henry ne netritva kiya) — dharna/protest, works nahi. Entry ke liye REJECT; negative bhi nahi (party karyawahi, MLA par koi FIR/janch/nyayik vikas nahi).
+// R-5. Indian Express: Vidhan Sabha me power of attorney par 2% stamp duty aur loans par 0.25% stamp duty par sawal uthaya — mantri ne defensive jawab diya, koi badlav/karwai nahi hui. REJECT (sirf prashn, koi dastavezi nateeja nahi).
+// R-6. Times of India: gaon ke talabon ko jodkar STP-treated paani se sinchai ka proposal rakha — "mooted a proposal", sirf prastav. REJECT.
+// R-7. Hindustan Times: Pargat Singh ke saath Jalandhar DC se illegal mining par karwai ki maang — seat ke bahar (Jalandhar Cantt ke gaon) + sirf maang. REJECT.
+// R-8. The Tribune "Delimitation process for MC polls begins" (May 2023): MC ward delimitation criteria par objection — sirf objection/maang. REJECT.
+// R-9. The Tribune "Cong MLA threatens to raze foundation stones in Jalandhar" (Dec 2025): plaque par Congress councillor ka naam na hone par shilanyas-patton ko girane ki dhamki; MLA site par pahunche hi nahi; koi FIR ya nyayik vikas nahi. Party-political episode — works nahi, qualifying negative bhi nahi. REJECT.
+// R-10. 5DariyaNews (non-whitelisted): SAD ne Jan 2018 me Avtar Henry aur Avtar Junior par "gangsters ko badhava" ka criminal case darj karne ki maang ki — PRE-TERM, vipakshi political maang, report me koi case darj hone ki baat nahi, outlet whitelist me nahi. Negative ke liye REJECT.
+// R-11. casemine.com "AVTAR SINGH v. STATE OF PUNJAB": NDPS case me petitioner ek truck owner "Avtar Singh" hai — pehchaan seat se pakki nahi; NAAM-JAAL ke kaaran MLA se jodna galat hoga. REJECT.
+// R-12. myneta.info 2017 halafnama: "No criminal cases" — halafnama akele negative nahi aur works nahi; sirf context. Entry nahi banayi.
+// R-13. WishavWarta / TheStellarNews / 5DariyaNews: PUEIP Phase-II Rs 663.41 cr aur Rs 41.50 cr Smart City/AMRUT launch (Oct 2020 - Feb 2021): MP-led, pre-term; MLA kai upasthit netaon me se ek — dusre neta ke karyakram me maujoodgi + pre-term. REJECT.
+// R-14. The Tribune epaper Aug 2026: MC me bhrashtachar ke aarop par Congress press conference — party press meet, sirf aarop. REJECT.
+// R-15. The Tribune "Congress stages protest against MC over fund misuse" (Oct 2026) aur "SIR deletions" (Oct 2026): party virodh aur political bayan, koi works content nahi. REJECT.
+
+// PB4: pargat-singh-powar — 2 entries merged (QA-checked).
+// Worker: pargat-singh-powar — Batch-4 research worker, 2026-10-18
+// Pehchan (foundation, punjab.ts): Pargat Singh Powar, INC, Jalandhar Cantt, tenure Mar 2022-2027.
+// Halafname me 0 criminal cases; 2022 me 40,816 vote (32.63%) se jeete.
+// NOTE: 2022 ke baad se virodhi-dal ke MLA hain — seat me sarkari lokarpan/shilanyas
+// aam taur par sarkar-paksh ke mantri/neta karte hain, isliye post-2022 vyaktigat
+// kaam ke whitelisted source bahut kam mile. Pre-term (2021) kaam kai mile lekin
+// Mar 2022 se pehle ke hone ke kaaran sab reject (neeche R-log me).
+
+punjabWorks['pargat-singh-powar'] = [
+  {
+    title: 'Pargat Singh ne Vidhan Sabha ke Zero Hour me Jalandhar Cantt me avaidh ret-khanan ka mudda uthaya, jis par mukhyamantri ne turant karwai ka ashwasan diya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (via ThePrint)',
+    sourceUrl: 'https://theprint.in/india/congs-pargat-singh-raises-illegal-mining-issue-in-punjab-assembly-cm-assures-to-address-matter/2249930/?amp',
+    date: '2024-09-02',
+    note: 'Teen-divsiya mansoon satra ke pehle din Zero Hour me MLA ne kaha ki unke halke me koi nadi na behne ke bavjood lagbhag 70 feet gehri avaidh mining ho rahi hai. CM Bhagwant Mann ne Jalandhar aane par site dikhane ko kaha aur mudde par turant karwai ka ashwasan diya. Dastavezi nateeja CM ke ashwasan tak seemit hai, isliye credit capped hai.',
+    period: '2022-2027',
+  },
+];
+// PARENT QA DROP (2026-10-18): doctored-Atishi-video wali dusri entry hatayi gayi — FIR ke aaropi column me 'unidentified accused' tha, MLA ka naam sirf shikayat me tha. Niyam: shikayat me naam + naamzad FIR nahi = negative NAHI. FIR me naam aaye to WATCH se wapas aayegi.
+
+// REJECT LOG:
+// R-1. Tribune "MLA Pargat hands over cheques worth Rs5.79cr for development works" (Dec 18, 2020) — pre-term, Mar 2022 se pehle; entry nahi.
+// R-2. 5dariyanews / thestellarnews "Seven sports parks foundation stone worth Rs 3.85 crore" (27 Nov 2021) — pre-term + dono outlet whitelist me nahi; entry nahi.
+// R-3. Hindustan Times "Pargat distributes Rs 50 lakh grant to Jalandhar villages" (Nov 21, 2021) — pre-term; entry nahi.
+// R-4. daily24x7news "Debt waiver cheques Rs 73 lakh to 305 beneficiaries, Jamsher" (2021) — pre-term + non-whitelisted outlet; entry nahi.
+// R-5. Tribune "Pargat drives tractor to flood-hit villages, distributes relief" (Sep 2025) — daan/rahat kaam (ration kits, tarpaulins); reject-shreni; entry nahi.
+// R-6. Tribune "MLA Pargat visits government school, flags poor sanitation" (Jul 2026) — sirf nirikshan/daura, koi kaam nahi karwaya; entry nahi.
+// R-7. Tribune "MLA Pargat visits MC office, lodges protest with Mayor, Commissioner" (Nov 2025) — sirf virodh/raajneetik bayan, koi bhautik kaam nahi; entry nahi.
+// R-8. cityairnews "Pargat visits mandis, questions wheat procurement" (Apr 2026) — sirf nirikshan + non-whitelisted outlet; entry nahi.
+// R-9. Tribune epaper "Land pooling protest, Kukkad Pind" (Jul 2025) — andolan/virodh, koi kaam nahi; entry nahi.
+// R-10. Times of India "calls for systemic reforms to deal with dams" (Sep 2025, special session) — sirf maang/sujhav (Dam Safety Act demand), koi dastavezi nateeja nahi; entry nahi.
+// R-11. Tribune "Mittal inaugurates projects worth Rs 1.50 crore" (2026) — MP Ashok Mittal ke MPLADS kaam, MLA ka kaam nahi; entry nahi.
+// R-12. PM Modi Jalandhar Cantt railway station inauguration + NH projects (Jul 2026, ET/others) — kendriya pariyojna (Amrit Bharat Station Scheme), MLA ki vyaktigat bhoomika ka koi ullekh nahi; entry nahi.
+// R-13. ThePrint election interview "report card" claims (roads, naala, college, green belt) — ekmatra aadhaar MLA ka dawa + specific post-event kaam ka whitelisted source nahi + ThePrint whitelist me nahi; entry nahi.
+// R-14. punjaboutlook "MLA fund Rs 5 crore not released" (2026) — yeh kaam nahi, funds na milne ki shikayat hai; entry nahi.
+// R-15. Tribune "Pargat opens election office" (Jan 2022) — chunavi karyalaya, vikas kaam nahi; entry nahi.
+// R-16. Tribune "paddy procurement inauguration" (Oct 3, 2021) — pre-term; entry nahi.
+
+// PB4: sukhwinder-singh-kotli — 2 entries merged (QA-checked).
+// Worker: sukhwinder-singh-kotli — works-research 2026-10-18
+// Foundation se koi visangati nahi: Adampur (SC), INC, MLA 2022-2027 (punjab.ts, halafnama: 0 criminal cases, myneta candidate_id=274).
+// NOTE: Task me diya path ~/workspace/aangkaneta_scratch/ is VM par open nahi hota (stale entry);
+// isi liye fragment asal batch-4 dir ~/workspace/aapkaneta_scratch/ me likha gaya hai, jahan baaki pb4_worker_* files hain.
+punjabWorks['sukhwinder-singh-kotli'] = [
+  {
+    title: 'Vidhan Sabha me Kotli ke uthaye mudde par PWD mantri ne Adampur flyover aur Jalandhar-Hoshiarpur road ka kaam June me dobara shuru karne ka aashvasan diya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/kotli-raises-issue-of-adampur-flyover-in-punjab-assembly/',
+    date: '2026-03-12',
+    note: 'The Tribune ke anusaar, Congress MLA Sukhwinder Singh Kotli ne Assembly me 10 saal se adhura Adampur flyover aur gaddhon wali Jalandhar-Hoshiarpur road ka mudda uthaya; unhone poocha ki zimmedar adhikariyon par karravai kyun nahi hui. PWD mantri Harbhajan Singh ETO ke likhit jawab me kaam dobara shuru hone ka koi schedule nahi tha, lekin Kotli ke supplementary sawalon par mantri ne sadan me aashvasan diya ki flyover aur sadak ka kaam June me shuru hoga. Report me Kotli ka kehna bhi darj hai ki unhone pehle bhi ye mudda uthaya tha aur virodh kiya tha, jiske baad Adampur ki sadak ka kaam poora hua lekin bridge ka kaam adhura raha. Credit capped — dastavezi nateeja sirf mantri ka aashvasan hai; kaam vaastav me dobara shuru hua ya nahi, is page par iski pushti nahi hai.',
+    period: '2022-2027',
+  },
+  {
+    title: '23 April 2025 ko Bhogpur me Jalandhar-Pathankot National Highway rokne par Adampur Congress MLA Sukhwinder Singh Kotli ke khilaf Jalandhar Rural Police ne FIR darj ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/chandigarh/punjab-congress-sukhwinder-singh-kotli-booked-national-highway-protest-9972813/',
+    date: '2025-04-29',
+    note: 'The Indian Express ke anusaar, Jalandhar Rural Police ne 23 April ko Bhogpur Sugar Mill ke paas prastavit bio-CNG plant ke khilaf virodh me Jalandhar-Pathankot National Highway rokne ke aarop me Adampur ke Congress MLA Sukhwinder Singh Kotli, lagbhag do darjan pehchane gaye aur lagbhag 150 agyat vyaktiyon ke khilaf FIR darj ki. FIR me National Highways Act ki Section 8B (national highway par traffic rokna, 5 saal tak ki saja ka pravdhan) aur Bharatiya Nyaya Sanhita ki dharaon ke saath noise pollution aur public order se judi dharaen lagayi gayin. Kotli ka jawab — unhe kanooni karravai ka koi darr nahi, ve plant ka virodh jari rakhenge aur kanooni tareeke se case ladenge, aur police bulaye to giraftari ke liye taiyar hain. Report ke samay authorities sthiti par nazar rakh rahi thi aur aage karravai se inkar nahi kiya gaya tha; chargesheet ya aage ki nyayik pragati is page par darj nahi hai.',
+    period: '2022-2027',
+  },
+];
+// R-1. 115 PMAY labharthiyon ko allotment letters, Nagar Council Adampur, kul pariyojna Rs 2.87 crore (The Tribune, Sep 10 2025; Kotli + Nagar Council president ne letters diye) — scheme distribution function; vyaktigat bhautik sanrachna ka lokarpan/shilanyas nahi — reject.
+// R-2. Bhogpur bio-CNG plant ke khilaf virodh campaign (HT Apr 2025; Tribune Feb 20 2026; TOI Jul 2024; HT Jan 21 2025) — virodh/advocacy hai, vikas karya nahi — reject.
+// R-3. Bio-CNG plant par Kotli ki PIL par Punjab-Haryana High Court ka notice (The Tribune) — Kotli yachikakarta hai, aaropi nahi; na vikas karya, na negative — reject.
+// R-4. Flood-hit kisaano ke liye Rs 50,000 per acre muavze ki maang (The Tribune, Aug 2-3 2023; SDM ko gyapan) — sirf maang, dastavezi nateeja nahi — reject.
+// R-5. Adampur me degree college ki maang, Vidhan Sabha session (The Tribune, Mar 11 2024) — sirf maang — reject.
+// R-6. CM ka Adampur roadshow aur repair work ka foundation stone (The Tribune, May 17 2023) — CM ka karyakram; Kotli sirf reaction quote me — reject.
+// R-7. Adampur airport new terminal ka virtual launch (adani.news, Mar 2024) — outlet whitelist me nahi + kendriya pariyojna + Kotli sirf maujood — reject.
+// R-8. 11 gaon me Rs 71.79 lakh ke vikas karya (The Tribune, May 29 2023) — Mantri Dhaliwal + MP Rinku ka karyakram; Kotli ki koi bhoomika darj nahi — reject.
+// R-9. Adampur city sewerage Rs 6.45 crore ka foundation stone (The Tribune, Mar 4 2024) — MP Sushil Kumar Rinku ka kaam — reject.
+// R-10. CM Channi ke Rs 157.96 crore ke Adampur projects (iglobalpunjab, Nov 2021) — outlet non-whitelist + pre-term + CM ka karyakram — reject.
+// R-11. Road accident ke baad sadak blockade (The Tribune, Sep 10 2026; Kotli maujood) — dukhda par solidarity, vikas karya nahi — reject.
+// R-12. Secretariat me pravesh rokne ka dawa (itaxsoftware.net, 2024) — non-whitelisted outlet — reject.
+// R-13. SDM ke saath verbal spat, Bhogpur meeting (HT, Jan 21 2025) — koi FIR/janch nahi; negative rule par khara nahi — reject.
+// R-14. Post-matric scholarship par Governor ko gyapan (The Tribune, Jun 13 2023) — advocacy, vikas karya nahi — reject.
+// R-15. Adampur airport ko Guru Ravidas ke naam ki maang (TOI, Jan 2026) — maang — reject.
+// R-16. Assembly special session me law-and-order bayan (PTI via ThePrint, Jul 9 2025) — House advocacy, vikas karya nahi — reject.
+
+// ---- Punjab works mining — BATCH 4: Hoshiarpur (7 MLA) — 2026-10-18 ----
+// Research: per-MLA workers; merge + QA coordinator ne kiya.
+// PB4: jangi-lal-mahajan — 0 entries merged (QA-checked).
+// Worker: jangi-lal-mahajan — research 2026-10-18; whitelisted outlets me koi qualifying work entry nahi mili
+punjabWorks['jangi-lal-mahajan'] = [];
+// REJECT LOG (Roman-script Hinglish; koi entry qualify nahi hui):
+// R-1. Dainik Bhaskar: "Mukerian thaane se highway tak ban rahi gali ka kaam Jangi Lal Mahajan ne rukwaya" (~7 saal purana, 2019 ke aas-paas ka) — pre-term mamla; Mar 2022 ke baad ka koi legal/nyayik vikas nahi dikha. REJECT.
+// R-2. Dainik Jagran (2022-02-16): "Vikas ke liye Punjab ko double engine ki zaroorat" — chunav prachar ke dauraan promises (pre-election campaign), koi kaam nahi. REJECT (sirf ghoshna/vaada).
+// R-3. The Tribune (Nov 2023): Hoshiarpur Vikas Kranti rally me Medical College par MLA ka bayan — "Rs 400 crore Medical College project Centre ka plan tha" — dusre pariyojna par tippani, khud ka koi kaam nahi; koi fund/bhoomika disclosed nahi. REJECT (sirf tippani).
+// R-4. Times of India (Punjab assembly session): BJP MLA Jangi Lal Mahajan ne Mukerian me GT Road par traffic congestion aur ghatak durghatnaon ka mudda uthaya — sirf prashn/maang, koi dastavezi nateeja nahi. REJECT (sirf maang/prastav).
+// R-5. The Tribune (wp-json news/167294): Kandi canal ki dheemi gati ka mudda Harmit Pathanmajra aur Mukerian BJP MLA Jangi Lal Mahajan ne uthaya — sirf mudda uthana, nateeja documented nahi. REJECT (sirf maang).
+// R-6. The Tribune (Mar 2026 budget session liveblog): anti-drug drive me khamiyon par MLA ki tippani — tippani maatr, koi kaam nahi. REJECT.
+// R-7. ThePrint/ANI (Jan 2024): Nitin Gadkari ne Hoshiarpur me 29 NH projects (Rs 4,000 crore+) ka udghatan/shilanyas kiya; Mukerian-Dasuya-Bhogpur 45 km bypass (Rs 1,600 crore) ki ghoshna — kendriya pariyojna, MLA ki koi vyaktigat bhoomika documented nahi. REJECT (kendriya pariyojna bina vyaktigat bhoomika).
+// R-8. PIB (Jul 2026): PM Modi ne Jalandhar visit me Daulatpur Chowk-Kartoli rail line (Rs 830 crore, Nangal Dam-Talwara-Mukerian rail project) ka udghatan kiya — kendriya pariyojna, MLA ka koi role nahi. REJECT.
+// R-9. Punjab Newsline (CM Mann, Mukerian): CM ne Mukerian me naye government college ke liye zameen ki appeal aur Hajipur/Mukerian hospitals ke upgrade ki ghoshna ki — CM ki ghoshna; MLA ki koi vyaktigat bhoomika/fund documented nahi. REJECT (dusre neta ka kaam; sirf ghoshna).
+// R-10. The Tribune (Jan 2024, Sarkaar Vpaar Milni): CM ne Mukerian Civil Hospital me trauma centre ki ghoshna ki — CM ki ghoshna, MLA ka role documented nahi. REJECT.
+// R-11. The Tribune (Sep 2026): Nasha Mukt Punjab Yatra — Mukerian rally me MLA ne "drug smugglers ko 4 mahine bache hain" jaisa bayan diya — party campaign/samaroh, koi bhautik kaam nahi. REJECT (party karyakram).
+// R-12. The Tribune (May 2026): Mukerian BJP MLA ne MC poll me SAD candidate Gurcharan Singh Chak (Ward 12) ke liye prachar kiya — party chunav karyawahi, negative entry ke roop me bhi akele party karyawahi negative NAHI. REJECT.
+// R-13. IANS/Hindustan Times (Mar 2023): Jalandhar Lok Sabha bypoll me BJP ke co-incharge bane — party sangathan bhoomika, seat ka kaam nahi. REJECT.
+// R-14. The Tribune (Jan 2026, Mukerian jewellery heist): MLA ne aaropiyon ki giraftari aur suraksha badhane ki maang ki — sirf maang, MLA khud aaropi nahi. REJECT (maang; negative nahi).
+// R-15. govserv.org: MLA ke social-media posts (dawa/sahayata Rs 50,000 shauchalaya ke liye Musahibpur bhawan me; Som Parkash ke bhawan ka udghatan) — (a) som parkash (ex-MoS) ka kaam, MLA maujood bhi nahi the; (b) Rs 50,000 ki vyaktigat sahayata = niji kharch/daan shreni; (c) govserv social-media scrape, whitelisted outlet nahi. REJECT.
+// NEGATIVES: koi nahi. Halafnama (myneta.info, Punjab 2022 candidate_id=202) me criminal cases = 0; Mar 2022 ke baad MLA ke khilaf koi FIR/chargesheet/janch/judicial vikas established media me nahi mila.
+// RETRY LEAD: punjabassembly.gov.in member profile (MemberID=175, AssemblyID=16) — Questions section ka crawl "No Record Found" dikha raha tha lekin page browser.open se khul nahi paya (fetch failed); parent chahe to seedhe portal par MLA ke poochhe gaye prashnon ki suchi verify kar sakta hai.
+
+// PB4: karambir-singh — 0 entries merged (QA-checked).
+// Worker: karambir-singh — Batch 4 (Dasuya, Hoshiarpur), researched 2026-10-18
+// Foundation: Karambir Singh, AAP, MLA Dasuya (2022-2027), term start 10-Mar-2022 (PRS mlatrack).
+// Naam-jaal note: media me naam kayi roop me — Karambir Singh Ghuman / Karma Vir Singh Ghumman / Karamvir Singh Ghumman (Dasuya MLA).
+// ZERO qualifying works entries found. Whitelisted outlets (Tribune, HT, PTI) me is MLA ke apne naam par koi
+// post-event lokarpan/shilanyas, fund sanction, GO-backed swikriti, itemized list ya Vidhan Sabha nateeja nahi mila.
+// Sabhi bade seat-projects (train halts, Rs 516-cr Hoshiarpur package, Talwara water project, Dasuya-Kamahi Devi road)
+// mantriyon/CM ke karyakram the jinme MLA sirf maujood tha — shrey ka dawa nahi ho sakta.
+// Negatives: koi qualifying negative nahi — jo aarop mile wo FIR/chargesheet/nyayik-vikas stage par nahi (neeche R-log).
+punjabWorks['karambir-singh'] = [];
+// REJECT LOG
+// R-1. The Tribune (2025-10-15) 'MLA up in arms against installation of stone crusher' — MLA ne Bhol Bhadmania me Guru Stone Crusher ka virodh kiya, site visit + dabaav. Whitelisted source, khola aur padha, lekin: koi sarkari fund/nirman/shilanyas nahi, koi seal/swikriti-aadesh report nahi — sirf maang/dabaav ('sirf maang/prastav' = REJECT). https://www.tribuneindia.com/news/jalandhar/mla-up-in-arms-against-installation-of-stone-crusher/amp/
+// R-2. The Tribune (2025-10-14) 'Bar chief alleges threats of being implicated in false case' — Advocate PS Ghuman ka aarop: Dasuya ke kuch gaon me Congress samarthan ke kaaran vikas karya roke gaye, jhoothi shikayat ki dhamki; DC se shikayat, DC ne janch ka aadesh diya. Khola aur padha. Negative KE LIYE REJECT: MLA par koi FIR/chargesheet/nyayik vikas nahi — virodhi-dal aarop, DC-level janch (judicial stage nahi). https://www.tribuneindia.com/news/jalandhar/bar-chief-alleges-threats-of-being-implicated-in-false-case/
+// R-3. CBI FIR case (Oct 2026) against 'Rajbir Singh Ghuman' (OSD to CM Bhagwant Mann) — NAAM-JAAL TRAP. Ye Dasuya MLA Karambir Singh Ghuman NAHI hai; poori tarah alag vyakti (CMO ke OSD). Coverage: HT, ToI, PTI/Punjab Kesari. Entry mat banana, identity galat hai. https://www.hindustantimes.com/cities/chandigarh-news/punjab-cm-office-graft-charges-ghuman-appears-before-cbi-grilled-for-6-hours-101792178794699.html
+// R-4. ThePrint/PTI (2022-07-06) 'Instagram account of Dasuya MLA hacked' — MLA khud shikaar, police complaint. Works nahi, negative nahi. REJECT.
+// R-5. PTC News (2026-10-13) 'Akal Takht summons 15 AAP MLAs' — Karamvir Singh (Dasuya) bhi delegation me tha, 15 Oct ko pesh hone ka summon. REJECT: (a) PTC News whitelist me nahi; (b) religious summons — FIR/chargesheet/nyayik vikas nahi, samuhik delegation matter, vyaktigat aarop nahi; party-level maamla negative nahi.
+// R-6. 5dariyanews (2024-02-06) Dasuya-Kamahi Devi Road 20.23 km, Rs 9.50 crore — mantri Harbhajan Singh ETO ne kaam shuru karwaya, MLA sirf maujood tha. REJECT: (a) outlet whitelist me nahi; (b) 'dusre neta ke karyakram me maujoodgi'.
+// R-7. newznew.com 'Vikas Kranti' — CM + Kejriwal ne Dasuya ko multipurpose hall Rs 1.42 cr + Kalowal/Mirpur Kotli water supply Rs 1.59 cr gift kiye. REJECT: (a) outlet whitelist me nahi; (b) MLA ki vyaktigat bhoomika nahi, CM-level event.
+// R-8. The Tribune (2024-01-08) 'Talwara project to provide potable water to 197 villages' — Rs 258.73 cr, mantri Bram Shanker Jimpa ka daura, MLA sirf maujood. REJECT: 'dusre neta ke karyakram me maujoodgi'. https://www.tribuneindia.com/news/jalandhar/talwara-project-to-provide-potable-water-to-197-villages-says-jimpa-579608
+// R-9. Indian Express (2026-04-08) 'Mann unveils Rs 516-cr projects in Hoshiarpur' — Balachaur-Garhshankar-Hoshiarpur-Dasuya road Rs 99 cr shilanyas CM ne kiya; medical college Hoshiarpur. REJECT: CM-level event, Dasuya MLA ki vyaktigat bhoomika report nahi (seat ke bahar zyadatar — medical college Hoshiarpur, CHC Sham Chaurasi).
+// R-10. The Tribune (2024-01-08) 'Minister inaugurates halt of trains at Dasuya, Mukerian' — Union Minister Som Prakash ne Dasuya station par train halts ka uddghatan kiya. REJECT: kendriya pariyojna (railway), MLA ki bhoomika nahi.
+// R-11. The Tribune (2026-02, updated) 'Teachers oppose TET requirement' — teachers ne MLA se maang ki, MLA ne CM/Education Minister ko likhne ka aashwasan diya. REJECT: sirf maang + aashwasan ('sirf maang/prastav').
+// R-12. The Tribune (2022-03-31) 'Timely delivery of services his priority' — chunaav ke turant baad ka interview, ghoshnaen ('corruption intolerant', hospital nirikshan). REJECT: sirf ghoshna + nirikshan, koi yojna/fund/sanction nahi.
+// R-13. dnpindia.in (2026-09-25) AAP door-to-door outreach Dasuya — 'Karmbir Ghuman' constituency in-charge. REJECT: (a) outlet whitelist me nahi; (b) party prachar, works nahi.
+// R-14. PRS mlatrack: Karambir Singh ne Mar 2022-Mar 2025 me 20 prashn pooche (state average 12) — lekin kisi prashn ka dastavezi nateeja (swikriti/aadesh) media me report nahi mila. Entry nahi bani — credit-capped nateeja ke bina PRS count akele entry nahi. https://prsindia.org/mlatrack/karambir-singh
+// R-15. Wikipedia 'Karambir Singh Ghuman' + 'Dasuya Assembly constituency' — profile/margdarshan, works ka source nahi. REJECT (reference only, outlet whitelist me nahi).
+
+// PB4: jasvir-singh-raja-gill — 1 entries merged (QA-checked).
+// Worker: jasvir-singh-raja-gill — works research, 2026-10-18
+// Foundation (~/workspace/aapkaneta/src/data/punjab.ts): Jasvir Singh Raja Gill, AAP, MLA, Urmar, tenure 2022-2027.
+// Whitelist-only sources khole gaye; 1 qualifying entry mili.
+
+// Entry 1: school works lokarpan, Tanda (Shiksha Kranti)
+punjabWorks['jasvir-singh-raja-gill'] = [
+  {
+    title: 'MLA Jasvir Singh Raja Gill ne Tanda me chaar sarkari primary schoolon me Rs 21 lakh ke poore hue vikas karyon ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/works-opened-in-garhshankar-tanda/amp',
+    date: '2025-04-07',
+    note: 'The Tribune (Hoshiarpur, April 7 dateline; published 2025-04-08): Punjab Shiksha Kranti ke tehet Tanda me MLA Jasvir Singh Raja Gill ne apne kshetra ke chaar schoolon me Rs 21 lakh ki lagat se poore hue karyon ka udghatan kiya. School: Government Primary School Uhadpur, Saidpur Data, Sahabajpur aur Moonak Kalan. Unhone kaha ki Punjab ka education model excellent hai jo dusron ke liye misaal banega; shikshakon, chhatron aur abhibhavakon se baat ki. Date note: article me "today inaugurated" with Hoshiarpur April 7 dateline — event date 2025-04-07 inferred.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+];
+
+// REJECT LOG
+// R-1. Rara-Tahli 4.44-km link road (~Rs 12 crore), The Tribune 2026-08-09: dedication lead Hoshiarpur MP Raj Kumar Chabbewal ne kiya, MLA sirf saha-udghatan me maujood; fund source aur MLA ki vyaktigat bhoomika disclosed nahi; MP (Chabbewal) MPLADS ambiguity bhi — reject.
+// R-2. Kalyanpur 66 kV substation (Rs 422.12 lakh), The Tribune May 2023: Power Minister Harbhajan Singh ETO ne dedicate kiya; MLA sirf saath maujood the — dusre neta ke karyakram me maujoodgi — reject.
+// R-3. "Education top priority" interview, The Tribune 2022-04-01: jeet ke baad intent-statement, koi kaam/fund disclosed nahi — sirf ghoshna — reject.
+// R-4. CM Bhagwant Mann Rs 150 crore Tanda event, indiatimes.com (TOI) Apr 2026: CM-led event; article me Gill ka zikr hi nahi — dusre neta ke karyakram me maujoodgi — reject.
+// R-5. Aam Aadmi Clinic, Miani village: publish.tribuneindia.com wp-json snippet, page 403 par khul nahi paya (RETRY LEAD); per-clinic fund disclose nahi; sarkari flagship campaign dedication — reject.
+// R-6. Aam Aadmi Clinic Ahiyapur, 5dariyanews: non-whitelisted outlet + clinic Dasuya seat me (seat ke bahar) — reject.
+// R-7. Labour union dharna, The Tribune 2024-05-29 (Tanda DSP office) aur 2024-06-26 (District Administrative Complex): Punjab Pendu Mazdoor Union ne SC/ST Act ke tehet case ki maang ki, MLA par Dalit majdooron se durvyavhaar ka aarop; lekin koi FIR/chargesheet/janch/jawab documented nahi — negative criteria ka threshold fail — entry NAHI. FIR-status ka follow-up search recommended (FIR mile to negative qualify ho sakta hai).
+// R-8. GKSM Govt College Tanda prospectus release (gctanda.ac.in): samaroh me maujoodgi, koi vikas kaam nahi — reject.
+// R-9. patialapolitics.com Tanda Rs 150 cr coverage: non-whitelisted — reject.
+// R-10. Halafnama ke 2 pending criminal cases (myneta/ADR): pending affidavit cases akele negative NAHI; Mar 2022+ me koi nyayik vikas nahi mila — reject.
+
+// PB4: ravjot-singh — 1 entries merged (QA-checked).
+// Worker: ravjot-singh — batch-4 research worker, 2026-10-18
+punjabWorks['ravjot-singh'] = [
+  {
+    title: 'Mantri ke roop me Dr Ravjot Singh ne Sham Chaurasi segment ke Dallewal gaon me community centre ka lokarpan kiya, Khalwana gaon me naye tubewell ka udghatan kiya aur drainage project launch kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/minister-launches-drainage-project/',
+    date: '2025-01-22',
+    note: 'The Tribune (22 Jan 2025) ke mutabik Local Bodies Minister Dr Ravjot Singh ne Shamchurasi segment ke kayi gaon ka daura karke Dallewal me community centre ka lokarpan, Khalwana me naye tubewell ka udghatan aur drainage project ka shubharambh kiya; kharch ki rashi article me disclosed nahi hai — mantri-attributed pahal ke roop me capped entry.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+];
+// R-1. Tribune (5 Apr 2026) CM Mann ke 7 Apr 2026 Sham Chaurasi event ka pre-event announcement — pre-event source NAHI; post-event IANS report sirf english.punjabkesari.com par (whitelisted nahi); MLA ki vyaktigat bhoomika disclosed nahi (sirf venue-arrangement review) — dusre neta ke karyakram me maujoodgi category, REJECT.
+// R-2. Shiksha Kranti school works (17-19 Apr 2025, ~Rs 33 lakh/37.65 lakh, Sham Chaurasi ke 4-4 school) — coverage sirf yespunjab.com, punjabkhabarnama.com, satlujbiastimes.com, patialapolitics.com par; koi whitelisted outlet nahi — REJECT.
+// R-3. Alawalpur Rs 10.61 crore sewerage project shilanyas — seat ke bahar (Jalandhar area), REJECT.
+// R-4. Rajpura Rs 33.66 crore pipeline water supply shilanyas (Tribune) — seat ke bahar, REJECT.
+// R-5. Ludhiana Rs 120 crore development projects udghatan (Nov 2024) — seat ke bahar, REJECT.
+// R-6. Phagwara Rs 4.35 crore water supply shilanyas (Babushahi, 3 Dec 2024) — seat ke bahar, REJECT.
+// R-7. Mudki Rs 14.27 crore canal water supply shilanyas (Babushahi, 20 Jun 2025) — seat ke bahar (Ferozepur), REJECT.
+// R-8. Tribune review meeting: minister ne officials ko development works tez karne ka nirdesh diya — sirf meeting/nirikshan, REJECT.
+// R-9. Tribune grievance hearing (Jan 2026): link roads shuru hongi — sirf ghoshna, REJECT.
+// R-10. School visits/PTM inspection (Tribune Jan 2023; public.app Oct 2026) — sirf nirikshan/daura, REJECT.
+// R-11. Hindustan Times (2025): Dr Ravjot Singh ne Bikram Singh Majithia ke khilaf edited pictures par police complaint ki — MLA khud complainant hai, aaropi nahi; negative criteria poora nahi — REJECT.
+// R-12. NRI complaints 25,800+ resolved (Babushahi/YesPunjab, 2026) — mantri-vibhag state-wide, whitelisted outlet par nahi — REJECT.
+// R-13. TOI (~Feb 2026): Chandigarh me Bajwa protest par Ravjot Singh sahit AAP neta detained — political detention, unke khilaf FIR nahi; negative nahi — REJECT.
+// R-14. Rs 99 crore Balachaur-Garhshankar-Hoshiarpur-Dasuya road (105 km, Apr 2026) — CM dwara shilanyas, inter-district kendriya/major project; MLA ki vyaktigat bhoomika disclosed nahi — REJECT.
+
+// PB4: bram-shanker-jimpa — 8 entries merged (QA-checked).
+// Worker: bram-shanker-jimpa — PB4 Hoshiarpur worker, 2026-10-18
+// Foundation record: Hoshiarpur (AAP), MLA 2022-2027, purva cabinet mantri; 0 criminal cases (halafnama).
+// Seat-only entries; mantri-karyakaal ke vibhagiya/state-wide faisle excluded.
+// R-1. Fire station foundation stone near Bhangi Choe (Tribune): shilanyas Local Bodies Minister Dr Ravjot Singh ne rakha; Jimpa sirf maujood the — dusre neta ke karyakram me maujoodgi.
+// R-2. Roshan Punjab launch at 11 KV substation (Tribune): state-wide scheme, CM ne launch kiya; Jimpa ne sirf local leg commence kiya — sarkari abhiyan ka keval shubharambh.
+// R-3. Beautification of Indoor Stadium to Mona Memorial Church road (Tribune, 12 Aug 2025): International Tractors Ltd (Sonalika) ke collaboration me — CSR samaroh shreni.
+// R-4. Hoshiarpur tehsil complex Rs 6.52 crore (daily24x7news): non-whitelisted outlet + Revenue Minister ke roop me state-wide portfolio ghoshna.
+// R-5. Toilet block near Gurdwara Fatehgarh Sahib Rs 7.46 crore (5dariyanews): non-whitelisted outlet + mantri-bhoomika + seat ke bahar.
+// R-6. Cyber cell fake FB IDs case (Tribune): Jimpa aur unka parivar victim the (complaint unke bhatije ne di thi); MLA khud aaropi nahi — negative nahi.
+// R-7. Revenue officials 'tainted list' statements (HT/Tribune, Jun 2023): Revenue Minister ke roop me bayan; seat-kaam nahi, aur MLA ke khilaf koi kanuni karwai nahi — negative nahi.
+// R-8. Train flag-off invite grievance (Tribune, Aug 2023): protocol shikayat; kendriya railway vishay + koi negative tathya nahi.
+// R-9. NDPS case par firm stand (Tribune): keval bayan; bhautik kaam nahi, MLA ke khilaf kuch nahi — negative nahi.
+punjabWorks['bram-shanker-jimpa'] = [
+  {
+    title: 'Hoshiarpur MLA Bram Shanker Jimpa ne Piplanwala sewage treatment plant par lagbhag Rs 11 crore ki sinchai pariyojana ka lokarpan kiya jisme 30 MLD shodhit pani 40 km ki pipeline se saat gaon ke kheton tak pahunchega',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/rs-11-cr-irrigation-project-inaugurated-by-hoshiarpur-mla/',
+    date: '2026-04-24',
+    note: 'Soil Conservation Department ne pariyojana banayi; Jimpa ke anusar shodhit pani saat gaon ke kisanon ko milega aur lagbhag 40 km pipeline bichhai gayi hai.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Hoshiarpur me Bhangi Choe par Dhobi Ghat-Adamwal road par 120 meter lambe high-level pull ke liye Rs 8.11 crore ki prashasanik swikriti mili jiski ghoshna MLA Bram Shanker Jimpa ne ki',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/two-development-projects-approved-for-hoshiarpur/',
+    date: '2026-02-04',
+    note: 'Pull 10 meter chauda hoga jisme 20 meter ke chhah span honge; Jimpa ke anusar yah barsat me jalbharao aur yatayat badha ki samasya ka sthai samadhan dega.',
+    period: '2022-2027',
+  },
+  {
+    title: 'District Court Complex ke paas 4.50 acre nagar nigam zameen par aadhunik sarkari school banane ke liye cabinet swikriti aur funding sanction hui jiski ghoshna MLA Bram Shanker Jimpa ne ki',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/two-development-projects-approved-for-hoshiarpur/',
+    date: '2026-02-04',
+    note: 'Zameen hastantaran ke liye Shiksha Vibhag ke saath MoU par hastakshar hone baaki hain; funding pehle se sanction hai.',
+    period: '2022-2027',
+  },
+  {
+    title: 'MLA Bram Shanker Jimpa ne Hoshiarpur Focal Point me lagbhag Rs 2 crore ki pariyojanaon ka lokarpan kiya jisme community hall, aadhunik park, toilet block, boundary wall aur andaruni sadkein shamil hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/rs-2-cr-projects-launched-at-hoshiarpur-focal-point/amp/?utm=relatedarticles',
+    date: '2026-01-14',
+    note: 'Lakshya audyogik kshetra ki buniyadi suvidhaon ko majboot karna hai; Mayor Surinder Kumar aur councillors karyakram me maujood the.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'MLA Bram Shanker Jimpa ne Hoshiarpur ke 27 acre Industrial Estate me Rs 1.61 crore ke infrastructure navinikaran kaamon ka lokarpan kiya jisme sadkon par Rs 82 lakh, pani aur sewerage par Rs 71 lakh aur street lights par Rs 8 lakh kharch honge',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/mla-jimpa-inaugurates-development-projects-for-27-acre-industrial-estate/',
+    date: '2025-05-24',
+    note: '1962-63 me sthapit is estate me 76 audyogik plot hain; Jimpa ne kaha lambi avadhi se lambit buniyadi kaam ab shuru hue hain.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'MLA Bram Shanker Jimpa ne Hoshiarpur city ke Ward 31 me lagbhag Rs 20 lakh ki lagat se nayi sadak ke nirman ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/mla-inaugurates-road-construction-work-in-ward-31/',
+    date: '2026-05-19',
+    note: 'Jimpa ne adhikariyon ko kaam samay par aur uchch gunvatta ke saath poora karne ka nirdesh diya; article me Hoshiarpur city me lane sudhar aur tube well ke kaam bhi ullekhit hain.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'MLA Bram Shanker Jimpa ne Hoshiarpur ke chaar sarkari schools me Rs 1.11 crore ke vikas kaamon ka lokarpan kiya jisme Chauhal ke do schools me classrooms, shed, guard room, medical room, boundary wall aur interlock tiles tatha Basi Jana ke do schools me Rs 34 lakh ki classrooms shamil hain',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/mla-opens-1-11-cr-projects-in-4-schools',
+    date: '2025-04-22',
+    note: 'Schools: Government Senior Secondary School Chauhal, Government Elementary School Chauhal, Government Middle School Basi Jana aur Government Elementary School Basi Jana.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Hoshiarpur MLA Bram Shanker Jimpa ne Naru Nangal Khas gaon me Rs 40 lakh ki lagat se bane khel maidan ka lokarpan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/sports-infra-gets-boost-in-hoshiarpur-with-new-grounds/amp',
+    date: '2026-08-27',
+    note: 'Naru Nangal Khas gaon Hoshiarpur Vidhan Sabha kshetra me aata hai; Jimpa ne kaha khel yuvaon me anushasan aur team bhavna vikasit karte hain.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+];
+
+// PB4: ishank-kumar-chabbewal — 5 entries merged (QA-checked).
+// Worker: ishank-kumar-chabbewal — works-worker, 2026-10-18
+// Foundation: Dr Ishank Kumar, AAP, MLA Chabbewal (SC), tenure 2024-2027 (bypoll 13-11-2024). Sirf Nov 2024 ke baad ke kaam.
+// PITA-JAAL CHECK: pita Dr Raj Kumar Chabbewal (Hoshiarpur LS MP, Jun 2024 se) ke MP-kaam/MPLADS bilkul alag — R-2 dekho.
+// Sabhi sources kholkar padhe gaye; snippet-based source koi nahi.
+punjabWorks['ishank-kumar-chabbewal'] = [
+  {
+    title: 'MLA Dr Ishank Kumar ne Jandoli aur Suna gaon me khel maidan ke vikas karyon ka shilanyas kiya; Rs 11.18 crore ke grant se Jandoli football tournament ground ke liye Rs 39.22 lakh aur Suna ground ke liye Rs 22.73 lakh manjoor',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/rs11-18-crore-grant-to-upgrade-playgrounds-mla/',
+    date: '2026-02-10',
+    note: 'MLA ne swayam shilanyas kiya; unke anusar grant jaari ho chuki hai aur tender bhi allot ho gaye hain — kaam jald shuru hoga. Jandoli me football tournament ke dauraan khiladiyon ko sammaanit bhi kiya.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Chabbewal me Rs 18 crore ki phal-sabzi processing unit ko kendriya sarkar se aupcharik swikriti mili; MLA ke prastav par MP ke saath kendriya Khadya Prasanskaran mantri se New Delhi me mulaqat ke baad approval',
+    category: 'Rojgar',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/18-cr-fruit-vegetable-processing-unit-to-come-up-in-chabbewal/',
+    date: '2026-04-02',
+    note: 'MP Dr Raj Kumar ke anusar ye pahal MLA Dr Ishank Kumar ke prastav par hui; dono ne Union Food Processing Industries Minister se mulaqat ki, jiske baad central scheme ke tahat approval mili. Unit me Hoshiarpur-Kandi kshetra ke aaloo aur matar jaise utpaad process honge aur saikdon logon, visheshkar mahilaon, ko rojgaar milega. MLA ne state government ki taraf se poorn sahyog ka ashwasan diya.',
+    period: '2022-2027',
+    stage: 'swikriti',
+  },
+  {
+    title: 'MLA ne Phuglana gaon me Rs 15 lakh ki lagat se nirmit 6 nayi sadken lokarpit ki; gaon ke community hall ki marammat ke liye Rs 5 lakh grant jaari aur anganwadi kendra ki boundary wall ke liye Rs 2 lakh ki ghoshna',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/chabbewal-mla-inaugurates-six-streets-in-phuglana-village/',
+    date: '2026-03-07',
+    note: 'MLA ne swayam lokarpan kiya; community hall grant jaari hui aur anganwadi boundary wall ka Rs 2 lakh ka karya bhi isi avsar par ghoshit hua. Sadken gaonwasiyon ki lambe samay se lambit maang thi.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Kot Fatuhi gaon me Rs 4.52 crore ke vikas karya poore, manjoor aur nirmanadheen; MLA ne nayi dispensary ka shilanyas kiya aur 4 sadak pariyojnaon ke poora hone ki suchna di',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/4-52-cr-development-works-underway-in-kot-fatuhi-village/',
+    date: '2026-08-26',
+    note: 'MLA ne gaon ke daure me bataya: 5.18-km Kot Fatuhi-Mananhana-Chak Musa Datta Chela road (Rs 86.77 lakh), 2.56-km Kot Fatuhi-Mananhana road (Rs 55.01 lakh), 0.62-km Kot Fatuhi-Garhshankar-Jhaj road (Rs 20.48 lakh) aur 1.60-km Bhagatupur-Kot Fatuhi road (Rs 33.63 lakh) poori ho chuki hain; 4.25-km Kot Fatuhi-Banga road (Rs 1.44 crore) nirmanadheen hai; Kot Fatuhi-Panchta-Ajnoha aur Gurdwara-Harijan Basti sadken manjoor; drainage-sewage, community hall, dharamshala ki chhat ki marammat aur solar street lights bhi manjoor. Dispensary se Kot Fatuhi aur aaspaas ke gaon ko buniyadi swasthya suvidha milegi.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Tanuli gaon me MLA ne Rs 70 lakh ke vikas project lokarpit kiye; lagbhag 125 ekad sinchai ke liye Rs 54.50 lakh ka tubewell aur Rs 16 lakh ki 0.53-km link road ka nirman karya shuru',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/mla-opens-projects-worth-70l-in-tanuli',
+    date: '2025-04-22',
+    note: 'MLA ne swayam udghatan kiya. MLA ne kaha kisaano ko paani ki suvidha unki prathmikta hai, kyonki kisaano ke samriddh hone par gaon aur pradesh dono aage badhenge.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+];
+
+// REJECT LOG
+// R-1. The Tribune — “MLA reviews development works, welfare schemes in Chabbewal” (2026-08-22): sirf nirikshan/daura — MLA ne DC Aashika Jain ke saath baithkar karyon ki samiksha ki aur nirdesh diye; koi lokarpan/shilanyas/swikriti me vyaktigat bhoomika nahi. Entry nahi.
+// R-2. The Tribune — “MP Chabbewal lays foundation stone of Rs 1-crore bridge near Panshta village in Phagwara” (2026-10-03): ye pita Dr Raj Kumar Chabbewal (Hoshiarpur MP) ka kaam hai — PITA-JAAL par bete ke khaate me BILKUL NAHI. Entry nahi.
+// R-3. satlujbiastimes.com — “Punjab Allocates Rs 35.93 Crore for Road Projects in Chabbewal” (Oct 2025): chhota Punjabi portal, whitelist me nahi (aggregator/chhota-portal shreni). Entry nahi.
+// R-4. paigamejagat.com — “Chabbewal MLA Dr. Ishank laid foundation stone of Panchayat Ghar... Nangal Thandal (Rs 10 lakh)”: whitelist me nahi. Entry nahi.
+// R-5. 5dariyanews.com — review-meeting story ka duplicate: whitelist me nahi; vaise bhi R-1 jaisa nirikshan content. Entry nahi.
+// R-6. starsunfolded.com bio (Raj Kumar Chabbewal): pita par 2022 ke forgery ilzaam (pre-term, Nov 2024+ me koi nyayik vikas nahi) aur bhai Nishant ka 2014 bullying case — parivar ke mamle, MLA khud aaropi nahi. MyNeta halafname me MLA ke 0 criminal cases. Negative entry nahi.
+// R-7. Phuglana article ka silai-machine vitran (24 mahilaon ko, NGO training par): daan-shreni/mukhya-atithi samaroh — usi entry ke note me shamil nahi kiya gaya.
+
+// PB4: jai-krishan — 3 entries merged (QA-checked).
+// Worker: jai-krishan — Batch 4 (Jalandhar+Hoshiarpur) research worker, 2026-10-18
+// Foundation verified: slug jai-krishan, name Jai Krishan, party Aam Aadmi Party (AAP),
+// seat Garhshankar, constituencySlug garhshankar, tenure start 2022 end 2027, works [].
+// NOTE: Foundation record me post sirf MLA darj hai; Vidhan Sabha Upadhyaksh (Deputy
+// Speaker) ka ullekh foundation me nahi hai — task briefing se liya gaya hai, isliye
+// pad ke kaam (sadan-sanchalan, karyakram adhyakshata, MLA Hostel jaise Chandigarh ke
+// kaam) ko seat ke kaam se alag rakha gaya hai. Sirf Garhshankar seat ke kaam liye gaye.
+// Entries: 2 works (The Tribune, post-event reporting), 1 negative (The Tribune).
+punjabWorks['jai-krishan'] = [
+  {
+    title: 'Deputy Speaker Jai Krishan Singh Rouri ne Garhshankar me AMRUT 2 scheme ke tehat Rs 5.65 crore ke water supply project ka pehla charan lokarpit kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/rs-5-65-crore-pipeline-project-inaugurated-in-garhshankar/',
+    date: '2025-06-10',
+    note: 'The Tribune ki post-event report (published 2025-06-10, event usi din ka bataya gaya hai) ke mutabiq Deputy Speaker Jai Krishan Singh Rouri ne Garhshankar me AMRUT 2 scheme ke tehat Rs 5.65 crore ke water supply project ka pehla charan lokarpit kiya. Ward No. 7 me aayojit launch event me 19-km lambi pipeline network ka anaavaran hua; yah network shahar ke kai wards me hazaaron residents ko saaf aur nirantar peya-jal dega.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Deputy Speaker Jai Krishan Singh Rouri ne Punjab Shiksha Kranti ke tehat Garhshankar ke chaar sarkari schools me Rs 81.36 lakh ke karyon ka lokarpan kiya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/jalandhar/works-opened-in-garhshankar-tanda/',
+    date: '2025-04-07',
+    note: 'The Tribune ki post-event report ke mutabiq Deputy Speaker Jai Krishan Singh Rouri ne Punjab Shiksha Kranti ke tehat Garhshankar ke chaar schools me kul Rs 81.36 lakh ke poore ho chuke karyon ka lokarpan kiya: Government Senior Secondary Smart School Birampur, Government High School Birampur, Government Elementary School Hajipur, aur Government Primary School Rampur Buildon. Inferred date: article ki dateline Hoshiarpur, April 7 hai aur event ko usi din ka bataya gaya hai; page ka publish timestamp 2025-04-08 hai, isliye date 2025-04-07 rakhi gayi hai.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Deputy Speaker Jai Krishan Rouri sahit AAP netaon ke khilaf Oct 2021 ke protest case me CJM ne March 2023 me charges frame kiye',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/booked-in-2021-over-protest-charges-framed-against-dy-speaker-2-ministers-489272/amp',
+    date: '2023-03-19',
+    note: 'The Tribune ki report ke mutabiq Chief Judicial Magistrate Dr Aman Inder Singh ne Deputy Speaker Jai Krishan Rouri, Tourism and Cultural Affairs Minister Anmol Gagan Maan, New and Renewable Energy Minister Aman Arora aur paanch anya netaon ke khilaf IPC ke tehat offences ke liye charges frame kiye. Police ne case 6 October 2021 ko ek constable ki complaint par darj kiya tha; aarop tha ki AAP netaon ne Raj Bhavan ki taraf march ke dauraan policemen ko dhakka diya aur ghayal kiya (Uttar Pradesh ke Lakhimpur Kheri ki ghatna ke khilaf protest). Mamla pre-term (Oct 2021) ka hai, lekin charges frame hone ka nyayik vikas March 2023 (Mar 2022 ke baad) ka hai, isliye negative entry banayi gayi. Stage-accurate: sirf charges frame hue hain, conviction nahi hui hai. Article me MLA ka jawab darj nahi hai — anupasthiti disclosed. Inferred date: article ki dateline Chandigarh, March 18 hai; page ka published date 2023-03-19 hai, isliye date 2023-03-19 rakhi gayi hai.',
+    period: '2022-2027',
+  },
+];
+// REJECT LOG:
+// R-1. ThePrint (PTI feed), 26 Aug 2026: Bist Doab aur Kandi canal systems ke tehat
+//       Rs 3.73 crore ke irrigation projects aur Garhshankar STP se Rs 1.61 crore ki
+//       treated-water scheme ka lokarpan Water Resources Minister Brinder Kumar Goyal
+//       ne kiya; Deputy Speaker Rouri sirf maujood the. Rule: dusre neta ke karyakram
+//       me maujoodgi = entry nahi.
+// R-2. babushahi.com / yespunjab.com / brightpunjabexpress.com / patialapolitics.com,
+//       15 Jan 2026: Shri Khuralgarh Sahib me Minar-e-Begampura se Tap Asthan tak
+//       Rs 3.70 crore ke bridge ka shilanyas (Punjab Sarkar dwara nirman). Koi bhi
+//       outlet whitelist me nahi; kisi whitelisted outlet me iski coverage nahi mili.
+// R-3. yespunjab.com / brightpunjabexpress.com / patialapolitics.com, 6 Jan 2026:
+//       Garhshankar ke 28 gaon (Ghagon Rorhanwali, Bhammian, Mehtabpur, Dugri, Garhi
+//       Matto, Pahlewal, Birampur, Sadhowal, Sauli, Purkhowal, Rampur Bilron, Salempur,
+//       Satnaur, Pakhoval, Padrana, Badesaron, Akalgarh, Golian, Bhajjalan, Lallian,
+//       Kalewal, Mohanowal, Rawalpindi, Fatehpur Kala, Denowal Kala, Dogarpur) me
+//       newly constructed link roads ka lokarpan. Outlet whitelist me nahi;
+//       whitelisted coverage nahi mili.
+// R-4. babushahi.com / brightpunjabexpress.com, 11 May 2026: gaon Moranwali me nayi
+//       sadak ka lokarpan. Outlet whitelist me nahi; whitelisted coverage nahi mili.
+// R-5. satlujbiastimes.com, 16 Apr (~2025): Rs 24.94 lakh ke school works (PM Shri
+//       Govt Girls Sr Sec School Mahilpur, Govt Primary Schools Khabra, Lallian,
+//       Souli, Govt Elementary School Kot); 25 Apr (~2025): Rs 16.31 lakh ke works
+//       (Satnaur, Salempur, Kitna, Moranwali schools). Outlet whitelist me nahi.
+// R-6. satlujbiastimes.com, 28 May 2022: Garhshankar-Nangal road aur khasta link
+//       sadkon ke liye PWD Minister Harbhajan Singh ETO se MLA ki mulaqat — sirf
+//       maang/mulaqat; estimate liya gaya, koi sanction ya lokarpan dastavezi nahi.
+// R-7. The Tribune, 20 Sep 2022: Operation Lotus FIR — FIR Deputy Speaker Rouri ki
+//       complaint par darj hui thi; wo complainant the, aaropi nahi. Negative nahi.
+// R-8. brightpunjabexpress.com, 27 Nov 2025: Speaker, Deputy Speaker aur Cabinet
+//       Ministers ne MLA Hostel (Chandigarh) me Gym and Wellness Centre ka lokarpan
+//       kiya — pad ka kaam, Garhshankar seat ke bahar; seat ka kaam nahi.
+// R-9. brightpunjabexpress.com: board chairpersons felicitation (Jul 2025),
+//       Mavan-Dheean Satkar Yojana training camp (Jun 2026), janta darbar grievance
+//       meeting (Jun 2026) — samaroh/shubharambh/baithak; koi bhautik sanrachna ya
+//       fund-backed kaam nahi; outlet bhi non-whitelisted.
+// R-10. casemine.com / indiankanoon.org ke Jai Krishan naam wale cases — alag-alag
+//        log (Himachal Pradesh, Bihar ke cases); is MLA se pehchan nahi milti.
+// R-11. myneta.info affidavit: 4 criminal cases pending — rule kehta hai halafname
+//        ke pending mamle akele negative NAHI; entry me jo case hai wo isliye hai
+//        kyunki usme Mar 2023 me charges-frame ka nyayik vikas hua hai.
+
