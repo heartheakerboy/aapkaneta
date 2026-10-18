@@ -3503,3 +3503,327 @@ punjabWorks['budh-ram'] = [
 // R-7. REJECT: Budh Ram ko AAP Punjab ka karyakari adhyaksh banana, 12 Jun 2023 (The Tribune). Party pad hai, constituency kaam nahi.
 // R-8. REJECT: Boha aur Bareta ke independent councillors ka AAP me shamil hona, Jun 2026 (YesPunjab). Party activity, kaam nahi.
 // R-9. REJECT: halafnama ka 1 pending mamla (IPC 188, Bathinda Kotwali, 2020) — tenure se pehle ka; halafname ke pending mamle alone negative nahi.
+// PB10 consolidated fragment (2026-10-18) — 10 assignments; QA DROPS: narinder-kaur-bharaj bribe-allegation negative (koi FIR/janch nahi, worker ne khud flag kiya tha), jaswant-singh-gajjanmajra nahri-pariyojna entry (credit sirf 'dhanyavad' — fail-closed).
+
+// PB10: Sangrur district — QA-checked entries merged 2026-10-18.
+
+punjabWorks['barinder-kumar-goyal'] = [
+  { title: 'The Times of India ki report ke anusar cabinet mantri Barinder Kumar Goyal ne Lehragaga seat ke kayi gaanvon me lagbhag Rs 13.27 crore ki sadak-navinikaran pariyojanaon ke shilanyas kiye aur unka lokarpan kiya: Jhaloor se Ghorenab hote hue Khandebad tak 7.4 km sadak (Rs 5.83 crore), Bakhora Kalan se Ballran tak 4.8 km sadak (Rs 3.78 crore), Chotian se Bakshiwala tak 1.85 km sadak (Rs 1.45 crore) aur Lehal Kalan se Papra tak 2.8 km sadak (Rs 2.21 crore).', category: 'Sadak', badge: 'news', sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/minister-barinder-goyal-inaugurates-road-projects-worth-rs-13-2-cr-in-lehra-gaga/articleshow/128653160.cms', date: '2026-02-21', note: 'Cited page ke anusar: Patiala dateline; mantri ne karyakram me shilanyas bhi kiye aur lokarpan bhi; sambandhit vibhagon ko nirdharit samay me uchch-gunvatta se kaam poora karne ke nirdesh diye. Date reasoning: page me print date nahi hai, lekin text me "on Saturday"; search result "Last Updated: 238 days ago" (2026-10-18 se) = 2026-02-21, date -d se 2026-02-21 Saturday verify hui; page ke ticker me 21-22 Feb 2026 ki khabren; non-whitelisted parallel story ki dateline "Lehragaga, February 21" (sirf date ke liye, facts ke liye nahi).', period: '2022-2027', stage: 'shilanyas' },
+  { title: 'The Times of India ki report ke anusar cabinet mantri Barinder Kumar Goyal ne Lehragaga seat ke kayi gaanvon me lagbhag Rs 10.36 crore ki sadak-unnayan aur navinikaran pariyojanaon ka lokarpan/shilanyas kiya: Rajalheri se Moonak-Patran sadak (Rs 43 lakh), Salemgarh se Dehlan-Bhathuan (Rs 56.13 lakh), Mandvi se Makraur Sahib via Salemgarh aur Kartarpur Basti (Rs 1.48 crore), Rampur Gujran se Haryana border via Bazigar Basti se Simbal (Rs 45.04 lakh), Moonak-Tohana sadak se Gurdwara Sahib Mandvi Grid tak (Rs 4.37 crore), Kudni se Rampura via Kabirpura (Rs 62.28 lakh), Kalian se Sadhani jila-seema (Rs 52 lakh), Kalian se Kahngarh (Rs 21 lakh), Adakwas se Changaliwala (Rs 58.44 lakh), Khai se Adakwas (Rs 60 lakh) aur Adakwas se Ramgarh Sandhuan (Rs 53 lakh).', category: 'Sadak', badge: 'news', sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/road-upgrade-projects-worth-over-rs-10cr-inaugurated-in-lehragaga/articleshow/124501484.cms', date: '2025-10-12', note: 'Cited page ke anusar: Sangrur dateline; mantri ne kaha Lehra seat ki ek bhi sadak bina sudhaar nahi chhodegi aur seat me lagbhag 60 sadak-pariyojanaen swikrit hain. Date reasoning: page me print date nahi hai, text me "on Sunday"; search result "Last Updated: 371 days ago" (2026-10-18 se) = 2025-10-12, date -d se 2025-10-12 Sunday verify hui; page copyright 2025.', period: '2022-2027', stage: 'shilanyas' },
+];
+
+punjabWorks['harpal-singh-cheema'] = [
+
+  {
+    title: 'The Tribune ki 8 Jul 2023 ki report ke anusar cabinet mantri Harpal Singh Cheema ne Dirba up-mandal (sub-divisional) complex ka nirmaan-kaam shuru karwaya; anumanit laagat Rs 10.68 crore thi lekin kaam Rs 9.24 crore me ho raha hai, yani Rs 1.44 crore ki bachat.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/work-on-rs-9-24-cr-dirba-complex-starts-524068/amp',
+    date: '2023-07-08',
+    note: 'Cited page ke anusar (dateline Sangrur, July 8; mantri ne Saturday ko kaam shuru karwaya): ek saal me complex poora hone ka lakshya; alag-alag jagahon par baithe dftaron ki jagah saari sewayen ek chhat ke neeche milengi; staff/afaron ke liye aawasiya quarter bhi banenge. Date reasoning: report me Saturday ka zikr hai aur July 8, 2023 Saturday tha (date -d se verified); page metadata me published 2023-07-09T12:15:02+05:30 darj hai. Shrey capped: bachat aur kaam ki shuruat ki ghoshna mantri ke bayaan se hai; complex ke poora hone ki pushti whitelisted source me nahi mili.',
+    period: '2022-2027',
+    stage: 'pahal',
+  },
+
+  {
+    title: 'Times of India ki 9 Oct 2025 ki report ke anusar Harpal Singh Cheema ne Dirba seat me Diwangarh Camper se Khetla tak 3.20 km ki sadak (Rs 101.12 lakh) aur Diwangarh Camper se Laadbanjara Kalan via Kheri Naga tak 6.60 km ki sadak (Rs 322.62 lakh) ka lokarpan kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/min-cheema-inaugurates-several-road-projects-in-dirba/articleshow/124434495.cms',
+    date: '2025-10-09',
+    note: 'Cited page ke anusar (dateline Sangrur; event Thursday ko): dono sadken bann chuki thin aur mantri ne lokarpan kiya; mantri ne kaha ki sadken sthaniya nivaasiyon ki lambe samay se chali maang poori karti hain. Date reasoning: report me Thursday ka zikr hai aur 9 Oct 2025 Thursday tha (date -d se verified). Isi event me Safipur Kalan-Kheri Nagian Burj Tilla road ka shilanyas bhi hua (alag entry), aur Khetla me Rs 34 lakh ki dispensary aur Rs 23 lakh ke Panchayat Ghar ka sirf nirikshan hua tha — nirikshan kaam nahi, isliye entry nahi.',
+    period: '2022-2027',
+    stage: 'poora',
+  },
+
+  {
+    title: 'Times of India ki 9 Oct 2025 ki report ke anusar Harpal Singh Cheema ne Safipur Kalan se Kheri Nagian Burj Tilla tak 2.50 km ki nayi sadak (Rs 102.40 lakh) ka shilanyas kiya, jiske do mahine me poora hone ki ummeed batayi gayi.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/min-cheema-inaugurates-several-road-projects-in-dirba/articleshow/124434495.cms',
+    date: '2025-10-09',
+    note: 'Cited page ke anusar (dateline Sangrur; event Thursday ko): mantri ne bataya ki Dirba me kul 60 km nayi sadken banegi aur 85 km purani sadkon ka chaudaikaran hoga (10 feet se 18 feet). Date reasoning: report me Thursday ka zikr hai aur 9 Oct 2025 Thursday tha (date -d se verified). Shrey capped: sadak ka lokarpan/poorti isi whitelisted report me nahi hai — stage shilanyas tak seemit hai.',
+    period: '2022-2027',
+    stage: 'pahal',
+  },
+
+  {
+    title: 'Times of India ki 1 Jan 2026 ki report ke anusar Harpal Singh Cheema ne Dirba seat ke Dharmgarh gaanv me canal lining ka kaam (Rs 1.61 crore) shuru karwaya, jisse 400 acre se zyada khet nehri paani ke dayre me aayenge.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/pb-govt-expands-canal-irrigation-in-sangrur-with-dharmgarh-project-inauguration/articleshow/126292119.cms',
+    date: '2026-01-01',
+    note: 'Cited page ke anusar (dateline Patiala; event Thursday ko): ye Mogha Burji 23185 pariyojna hai, Budhlada Branch ke daayein taraf; mantri ne kaha ki isse sinchai laagat ghategi, mitti ki urvarata badhegi aur kisan mahenge diesel par nirbhar nahi rahenge. Date reasoning: report me Thursday ka zikr hai aur 1 Jan 2026 Thursday tha (date -d se verified). Isi daure me Gidriani me Rs 46 lakh ke sports stadium ki pragati ka sirf nirikshan hua tha — entry nahi.',
+    period: '2022-2027',
+    stage: 'pahal',
+  },
+
+  {
+    title: 'Times of India ki 4 May 2026 ki report ke anusar Harpal Singh Cheema ne Dirba seat ke Shadihari gaanv me Rs 1.6 crore ka aadhunik khel maidan janta ko samarpit kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/two-sports-grounds-dedicated-to-public-in-sangrur-villages/articleshow/130809687.cms',
+    date: '2026-05-04',
+    note: 'Cited page ke anusar (dateline Patiala; event Monday ko): maidan naya bana tha aur mantri ne lokarpan kiya; mantri ne kaha ki stadium se sthaniya khiladiyon ko uchch stariya prashikshan ke avsar milenge. Date reasoning: report me Monday ka zikr hai aur 4 May 2026 Monday tha (date -d se verified). Raidharana me Rs 62 lakh ke maidan ka lokarpan mantri Barinder Kumar Goyal ne kiya tha — Cheema ki bhoomika nahi, isliye entry nahi.',
+    period: '2022-2027',
+    stage: 'poora',
+  },
+
+  {
+    title: 'The Tribune ki 6 Jul 2026 ki report ke anusar Harpal Singh Cheema ne Dirba se Kamalpur tak 6.7 km lambi sadak ke blacktopping-kaam ka udgahtan kiya, jiski anumanit laagat Rs 5.28 crore hai.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/patiala/punjab-cabinet-minister-harpal-singh-cheema-opens-road-work-on-dirba-stretch-in-patiala/',
+    date: '2026-07-06',
+    note: 'Cited page ke anusar: Kamalpur aur aaspaas ke gaanvon me lagbhag 12 km nayi sadken ban rahi hain aur lagbhag 20 km purani sadkon ka chaudaikaran ho raha hai; inn sab par kul lagbhag Rs 20 crore kharch ho raha hai; margon me Kamalpur-Safipur, Kamalpur-Samuran, Kamalpur-Safipur Khurd, Khanal Kalan-Kamalpur, Kamalpur-Baghraul, Kamalpur-Dayalgarh Jejian, Kamalpur-Dirba aur Kamalpur-Ghanaur Rajputan shamil hain. Date: page metadata me published 2026-07-06T06:07:45+05:30 darj hai; report me today ka zikr hai. Shrey capped: poore Rs 20 crore package ki poorti ki pushti isi report me nahi hai — stage blacktopping-kaam ke udgahtan tak seemit hai.',
+    period: '2022-2027',
+    stage: 'pahal',
+  },
+
+];
+
+punjabWorks['aman-arora'] = [
+  {
+    title: 'The Times of India ki report ke anusar Aman Arora ne 1 January 2026 ko apni Sunam seat me Shaheed Udham Singh Martyrdom Memorial ke Rs 21.17 crore ke samagra navinikaran ka shilanyas kiya; isi Rs 54.4 crore ke package me Shaheed Udham Singh ki smriti me do bhavya shahadat dwar aur Sunam sheher ke lagbhag 3,500 parivaron ko sewerage se jodne (30 km pipeline, Rs 29.54 crore) ki ghoshna hui.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/chandigarh/min-aman-arora-announces-rs-54-crore-devp-projects-for-sunam-constituency/articleshow/126292042.cms',
+    date: '2026-01-01',
+    note: 'Cited page ke anusar: memorial par shraddhanjali ke baad shilanyas karke Arora ne Rs 21.17 crore ke navinikaran ki baat kahi (buniyadi dhancha vistaar + poorn saundaryikaran); do shahadat dwar janta ki ichha ke anusar banenge (ghoshna); 3,500 gharon ko jodne ke liye 30 km pipeline Rs 29.54 crore me (kaam jald shuru hone ki ghoshna); seat me Rs 85 crore ke kaam chal rahe the aur kul Rs 140 crore ke kaam 31 July 2026 tak poore karne ka lakshya (dawa). Date reasoning: TOI text me event "on Thursday" aur "ushered in the new year of 2026" ke sandarbh me hai; 2026-01-01 Thursday thi (date -d se verified), isliye 2026-01-01 darj hai. Credit: mantri ka vyaktigat shilanyas (memorial), fund disclosed; dwar/sewerage ghoshna-star par hain.',
+    period: '2022-2027',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'The Tribune ki 16 February 2026 ki report ke anusar cabinet mantri Aman Arora ne Sunam me 1905 me bani Shaheed Udham Singh School of Eminence ki navinikrit heritage building ka udghatan kiya, jispar Rs 1.87 crore kharch hue.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/patiala/built-in-1905-shaheed-udham-singh-school-dons-new-look/',
+    date: '2026-02-16',
+    note: 'Cited page ke anusar (published 2026-02-16T06:46 IST): Shaheed Udham Singh ki alma mater 1905 ki building khasta haalat me thi, School of Eminence ke roop me naya roop mila; Arora ne vyaktigat udghatan kiya aur kaha ki Sunam seat me har zaroori kaam prathamikta par poora ho raha hai. Credit: mantri ka vyaktigat udghatan, fund disclosed.',
+    period: '2022-2027',
+    stage: 'poora'
+  },
+  {
+    title: 'NDTV ki report ke anusar Sangrur jile ki adalat ne 21 December 2023 ko Punjab mantri Aman Arora aur aath anyon ko 2008 ke hamle ke mamle me do saal ki kaid ki saza sunayi; shikayat unke sale Rajinder Deepa ne apne ghar me hamle ke aarop me ki thi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV',
+    sourceUrl: 'https://www.ndtv.com/india-news/punjab-minister-aman-arora-8-others-jailed-for-2-years-in-2008-case-4718733/amp/1',
+    date: '2023-12-21',
+    note: 'Cited page ke anusar: Sunam ke Sub-divisional Judicial Magistrate Gurbhinder Singh Johal ki adalat ne IPC 452 (ghar me ghuskar chot) ke tahat 2 saal aur IPC 323 ke tahat 1 saal ki saza di (dono sath-sath chalengi); MLA khud aaropi hain. Arora ne Sangrur me patrakaron se kaha ki ve uchch adalat me appeal karenge aur nyay vyavastha par poorn bharosa hai; unka dawa hai ki 2012 me Deepa se samjhauta ho gaya tha jise unke sale ne toda. Date reasoning: NDTV text "on Thursday" aur "15-year-old case" (2008 ka mamla) likhta hai; 2023-12-21 Thursday thi (date -d se verified). Karyakaal ke dauran nyayik saza — negative entry.',
+    period: '2022-2027'
+  },
+  {
+    title: 'The Tribune ki 25 January 2024 ki report ke anusar Sangrur Sessions Judge RS Rai ne 2008 ke hamle ke mamle me cabinet mantri Aman Arora ki saza par 31 January tak rok laga di; rok Arora ki appeal par lagi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/aman-aroras-conviction-stayed-till-january-31-584660/',
+    date: '2024-01-25',
+    note: 'Cited page ke anusar: Sunam adalat ne 21 December ko Arora samet nau logon (unme unki maan Parmeshwari Devi bhi) ko 2008 me unke sale Rajinder Deepa par hamle ke liye do saal ki saza di thi; appeal par bahas pichhle din shaam 7 baje poori hui thi aur Sessions Judge ne faisla sunane ke liye mamla aaj tak sthagit kiya tha. Karyakaal ke dauran nyayik vikas — raahat (stay) pramukhta se darj.',
+    period: '2022-2027'
+  },
+  {
+    title: 'Hindustan Times ki report ke anusar Punjab aur Haryana High Court ne 29 November 2025 ko CM Bhagwant Mann, mantriyon Harpal Singh Cheema aur Aman Arora samet AAP netaon ke khilaf 2020-21 me Chandigarh me "gair-kanuni virodh" ke do aapradhik mamle kharij kar diye; Arora par 6 October 2021 ko Raj Bhavan ki taraf "gair-kanuni march" ka aarop tha aur chargesheet dakhil ho chuki thi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/chandigarh-news/holding-unlawful-protests-hc-quashes-firs-against-punjab-cm-bhagwant-mann-others-101764443412505.html',
+    date: '2025-11-29',
+    note: 'Cited page ke anusar (published 30 Nov 2025): pehli FIR 10 January 2020 ko Mann, Cheema aadi par CM aawas ki taraf march me; doosri FIR 6 October 2021 ko mantri Aman Arora aadi par Raj Bhavan ki taraf march me — dono me chargesheet dakhil thi; yachikayen 2023 me kharij ke liye dayar hui thin. Court ka tark: patharbaazi ke liye kisi ka naam nahi, koi hathiyarband nahi mila, choten mamuli prakriti ki thin. Karyakaal ke dauran nyayik vikas — raahat (FIR kharij) pramukhta se darj.',
+    period: '2022-2027'
+  },
+  {
+    title: 'The Tribune ki 2 May 2026 ki report ke anusar Chandigarh prashasan ne Punjab CM Bhagwant Mann, mantriyon Aman Arora aur Harpal Singh Cheema samet AAP netaon ke khilaf FIR kharij karne ke Punjab aur Haryana High Court ke aadesh ko Supreme Court me chunauti di hai; HC ne 29 November 2025 ko FIR, chargesheet aur aage ki karyawahi kharij ki thi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/chandigarh/ut-challenges-hcs-order-of-quashing-of-fir-against-punjab-cm-mann-before-supreme-court/amp/?utm=relatedarticles',
+    date: '2026-05-02',
+    note: 'Cited page ke anusar (published 2026-05-02T14:26 IST): Chandigarh ki adalat ke aadesh me darj hai ki SLP ka screenshot record par rakha gaya; HC ke aadesh ke baad Mann, Arora, Baljinder Kaur, Harpal Singh aur Sarvjeet Kaur ke khilaf karyawahi kharij, anya aaropi netaon par Chandigarh adalat me trial jari. Asal mamla: 10 January 2020 ko mahila constable ki shikayat par PS Sector-3 Chandigarh me IPC 353/332/147/149 ke tahat FIR. Karyakaal ke dauran nyayik vikas (SLP) — mamla Supreme Court me lambit.',
+    period: '2022-2027'
+  }
+];
+
+punjabWorks['bhagwant-mann'] = [
+
+  {
+    title: 'Mukhyamantri Bhagwant Mann ne Dhuri me Rs 21.65 crore ki lagat se bane 50-bed ke Sub-Divisional Hospital aur 30-bed ke Maternal and Child Health Block ka lokarpan kiya.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/punjab-cm-bhagwant-mann-inaugurates-sub-divisional-hospital-in-dhuri/amp/',
+    date: '2026-03-17',
+    note: 'Cited page ke tathya: Mann ne khud lokarpan kiya (media-reported event); lagat Rs 21.65 crore; imarat lagbhag 73,000 sq ft; 13 OPD rooms, emergency block, 2 registration counters, 7 operation theatres, ECG/ultrasound/X-ray rooms aur 3 laboratories; Dhuri ke 58,000 se zyada shahri nivasiyon aur lagbhag 70 aaspaas ke gaanvon ke logon ko fayda. Date reasoning: page par published 2026-03-17T18:47:58+05:30 aur article me "on Tuesday" — 2026-03-17 Tuesday thi (date -d se verified). CM-niyam (a): Dhuri seat ke andar vyaktigat lokarpan, fund disclosed.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+
+  {
+    title: 'Mukhyamantri Bhagwant Mann ne Dhuri me Rs 1.59 crore ki lagat se bani do-manzila sarvajanik library (3,710 sq ft) janta ko samarpit ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/chandigarh-news/modern-libraries-coming-to-each-constituency-in-punjab-says-cm-mann-101753036637983.html',
+    date: '2025-07-20',
+    note: 'Cited page ke tathya: Mann ne khud nayi bani library Dhuri ke nivasion ko samarpit ki; lagat Rs 1.59 crore; do-manzila, covered area 3,710 sq ft; high-speed internet, solar power aur digital analogues se less. Date reasoning: page par published Jul 21, 2025 6:54 AM IST aur "on Sunday" — 2025-07-20 Sunday tha (date -d se verified). "Har assembly constituency me modern library" wala bayaan state-wide yojana hai — Dhuri entry ka shrey sirf is library ke lokarpan tak capped. CM-niyam (a): Dhuri seat ke andar vyaktigat samarpan, fund disclosed.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+
+  {
+    title: 'Mukhyamantri Bhagwant Mann ne Dhuri ke Bardwal gaon me Rs 47.38 crore ki lagat se banne wale 14 MLD water treatment plant ka shilanyas kiya.',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/mann-lays-foundation-stone-for-rs-47-38-crore-water-treatment-plant-in-dhuri/amp',
+    date: '2026-10-07',
+    note: 'Cited page ke tathya: Mann ne khud shilanyas kiya; kul lagat Rs 47.38 crore; canal-water-based 14 MLD plant; Dhuri ke lagbhag 85,000 nivasion ko fayda; maksad bhujal par nirbharta ghatana. Date reasoning: page par published 2026-10-07T16:49:02+05:30 aur article me "on Wednesday" — 2026-10-07 Wednesday tha (date -d se verified). CM-niyam (a): Dhuri seat ke andar vyaktigat shilanyas, fund disclosed.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+
+  {
+    title: 'Punjab-Haryana High Court ne 10 Jan 2020 ke Chandigarh virodh mamle me Bhagwant Mann aur anya AAP netaon ke khilaf darj FIR, chargesheet aur baad ki saari karyavahi 29 Nov 2025 ko radd kar di thi, lekin Chandigarh prashasan ki chunauti par Supreme Court ne 30 Jul 2026 ko notice jari kiya aur mamla abhi SC me lambit hai.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/india/sc-issues-notice-to-punjab-cm-mann-aap-leaders-on-chandigarh-admins-plea-challenging-quashing-of-fir-against-them/',
+    date: '2026-07-30',
+    note: 'Cited page ke tathya: Chandigarh Police ne 10 Jan 2020 ko PS Sector 3 me bijli tariff hike ke khilaf virodh par IPC 353/332/147/149 ke tahat FIR darj ki thi (188 baad me hata); Justice Tribhuvan Dahiya ne 29 Nov 2025 ko FIR, chargesheet aur saari karyavahi radd ki — tark: Section 144 ke tahat koi prohibitory order nahi tha aur kisi yachikakarta par pathar phenkne ya hamle ka vishesh aarop nahi; CJI Surya Kant ki bench ne 30 Jul 2026 ko Chandigarh prashasan ki yachika par Mann aur anya netaon ko notice jari kiya (ASG ne HC aadesh ko "totally perverse" kaha); 21 Jul 2026 ko bench ne kaha tha ki Mann par bheed ko "exhorted" karne ka koi aarop nahi tha. Yehi wahi 2020 ka Chandigarh virodh case hai jo unke halafname ke ekmatra aapradhik mamle (IPC 332/147/149/353/188) se milta hai — pehchan seat se pakki. Raahat pramukhta se: HC ne poori karyavahi radd ki thi; stage-accurate: quashing abhi antim nahi, SC me chunauti lambit hai. Mann ka paksh: unhone aur anya netaon ne quashing yachika dayar ki thi (court ne sweekar ki). Date reasoning: page par published 2026-07-30T16:34:27+05:30 aur "on Thursday" — 2026-07-30 Thursday tha (date -d se verified).',
+    period: '2022-2027',
+  },
+
+];
+
+punjabWorks['narinder-kaur-bharaj'] = [
+  {
+    title: 'The Tribune ki 15 Jul 2022 ki report ke anusar Sangrur AAP MLA Narinder Kaur Bharaj aur Deputy Commissioner Jitendra Jorwal ne milkar ‘School on wheels’ pehal ka shubharambh kiya — ek bus ko classroom me badalkar jhuggi-bastiyon aur garib bachchon ke liye shiksha; shuruaat 30 bachchon ke batch ke saath hui, aur bus vibhinn jhuggiyon-colonies me jakar bachchon ko padhakar unka school me dakhila dilayegi.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/school-on-wheels-launched-in-sangrur-412811',
+    date: '2022-07-15',
+    note: 'Cited page ke anusar: dateline Sangrur, July 15; page update 11:53 AM Jul 16, 2022. Prashasan ne bus ko classroom me convert kiya; MLA aur DC ne 30 bachchon ke batch ke saath pehal launch ki. Fund amount page me darj nahi hai.',
+    period: '2022-2027',
+    stage: 'poora',
+  },
+
+];
+
+// PB10: Barnala district — QA-checked entries merged 2026-10-18.
+
+punjabWorks['labh-singh-ugoke'] = [];
+
+punjabWorks['kuldeep-singh-dhillon'] = [
+
+];
+
+punjabWorks['kulwant-singh-pandori'] = [
+  { title: 'MLA ka dawa — Mehal Kalan MLA Kulwant Singh Pandori ne The Tribune ki 21 Jan 2025 ki report me darj bayaan me kaha ki unki seat ke Thikriwala gaon me talab, gaon ki firni (outskirts), library aur gym ke vikas me nivesh ho chuka hai.', category: 'Any', badge: 'dawa', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/freedom-fighter-thikriwalas-91st-martyrdom-day-commemorated/', date: '2025-01-19', note: 'Cited page ke anusar: Pandori ne 91ve shahidi diwas samaroh me kaha ki Punjab sarkar Thikriwala ke vikas ke liye pratibaddh hai, “with investments already made in the pond, outskirts, library, and gym”. Ekmatra aadhaar MLA ka bayaan hai; koi rashi ya yojana ka naam page me nahi. Same samaroh me Finance Minister Harpal Singh Cheema ne Rs 20 lakh (smarak), Rs 1 crore (School of Happiness) aur Rs 92 lakh (senior secondary school) ki ghoshnaen kin — wo Pandori ke bayaan ka hissa nahi. Date reasoning: page par Published 2025-01-21T02:00:12+05:30, text me “observed today”; Sewa Singh Thikriwala ka shahidi diwas 19 Jan hai (TOI), isliye event date 2025-01-19 maani.', period: '2022-2027', stage: 'poora' },
+  { title: 'MLA ka dawa — Mehal Kalan MLA Kulwant Singh Pandori ne The Tribune ki 21 Jan 2025 ki report me darj bayaan me kaha ki Thikriwala ke paas Bhadalwad me Rs 1.59 lakh ki laagat se pul ka nirmaan jaari hai.', category: 'Sadak', badge: 'dawa', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/freedom-fighter-thikriwalas-91st-martyrdom-day-commemorated/', date: '2025-01-19', note: 'Cited page ke anusar: Pandori ne kaha “Ongoing work includes the construction of a bridge at Bhadalwad, funded at Rs 1.59 lakh”. Ekmatra aadhaar MLA ka bayaan hai. Date reasoning: page par Published 2025-01-21T02:00:12+05:30, text me “observed today”; Sewa Singh Thikriwala ka shahidi diwas 19 Jan hai (TOI), isliye event date 2025-01-19 maani.', period: '2022-2027', stage: 'pahal' },
+  { title: 'The Tribune ki 21 Jan 2026 ki report ke anusar Finance Minister Harpal Singh Cheema, AAP state president Aman Arora, Sangrur MP Gurmeet Singh Meet Hayer aur Mehal Kalan MLA Kulwant Singh Pandori ne Thikriwala gaon me 12.99 km sadak ke nirmaan ka sanyukt shilanyas kiya, jiski laagat Rs 9.59 crore hai.', category: 'Sadak', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/patiala/year-on-renovation-of-martyr-thikriwalas-haveli-still-pending/', date: '2026-01-19', note: 'Cited page ke anusar: 92ve shahidi diwas samaroh me chaaron netaon ne milkar 12.99 km sadak ka shilanyas kiya; Pandori apni seat ke sthaniya MLA ke roop me shamil the — shrey capped (sanyukt shilanyas, funds ka mantri-star). Report ka mukhya mudda alag hai: Cheema ne haveli ke jeernoddhaar ka estimate banane ka nirdesh diya kyunki pichhle saal ki Rs 20 lakh ki ghoshna par kaam poora nahi hua. Date reasoning: page par Published 2026-01-21T07:59:14+05:30; Sewa Singh Thikriwala ka shahidi diwas 19 Jan hai (TOI) aur shasak dal ka samaroh 19 Jan ko hota hai, isliye event date 2026-01-19 maani.', period: '2022-2027', stage: 'shilanyas' },
+];
+
+// PB10: Malerkotla district — QA-checked entries merged 2026-10-18.
+
+punjabWorks['mohammad-jamil-ur-rehman'] = [
+  { title: 'The Tribune ki 21 Nov 2025 ki report ke anusar Malerkotla ke MLA Mohammad Jamil Ur Rahman ne pichhle hafton me apne Malerkotla Assembly segment ke gaanvon me model playgrounds ke nirmaan ke shilanyas ki ek shrinkhala ki, jabki jile me kul 57 playgrounds (anumaanit laagat Rs 16.02 crore) par kaam chal raha hai jinme se 30 Malerkotla segment me (Rs 6.89 crore) aur 27 Amargarh segment me (Rs 9.13 crore) hain.', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/ludhiana/expedite-work-on-playgrounds-sportspersons-urge-malerkotla-district-administration/', date: '2025-11-21', note: 'Cited page ke anusar: Updated At 04:33 AM Nov 21, 2025 IST; shilanyas ki shrinkhala publication se pichhle hafton me hui (report me "during past weeks"), isliye date report ki hai; ye playgrounds Punjab Government ke Model Playground Campaign ka hissa hain jisme kul 3,117 playgrounds par Rs 966 crore kharch hone hain; kaam jila prashasan ke hawale hai. Credit: MLA ka apne segment ke gaanvon me vyaktigat shilanyas, fund disclosed.', period: '2022-2027', stage: 'shilanyas' },
+  { title: 'The Tribune ki 3 Jul 2025 ki report ke anusar Malerkotla ke MLA Mohammad Jamil Ur Rahman sahit ilake ke MLAs ke netritva me uthaayi gayi maangon par Punjab sarkar ne ek saal se pehle Malerkotla jile ke 12 gaanvon me libraries ki sthapna ke liye Rs 11.40 crore ke anudan swikrit kiye, jiske baad Mubarakpur, Dasaundha Singh Wala, Kalyan, Ahmedpur, Adampal, Sandaur, Kup Kalan, Jandali Kalan, Rurki Kalan, Kanganwal Bhari Mansa aur Banbhaura gaanvon me nirmaan shuru hua.', category: 'Any', badge: 'news', sourceLabel: 'The Tribune', sourceUrl: 'https://www.tribuneindia.com/news/ludhiana/neglected-libraries-leave-elders-youth-in-the-lurch/', date: '2025-07-03', note: 'Cited page ke anusar: Published 2025-07-03; anudan "more than a year ago" swikrit hue the, isliye swikriti ki anumaanit avadhi 2024 ke aaspaas hai aur date report ki hai; ye jila-stariya anudan hai (Malerkotla + Amargarh ke dono MLAs ki maang par), page par gaanv-wise AC vibhajan nahi diya gaya; nirmaan me MNREGA aur Panchayati anudanon ka bhi sahyog hai. Credit: MLA ke netritva me uthaayi gayi maang ka dastaveji nateeja (capped — anudan dono MLAs ne milkar dilaya).', period: '2022-2027', stage: 'swikriti' },
+];
+
+punjabWorks['jaswant-singh-gajjanmajra'] = [
+
+  {
+    title: 'The Tribune ki 8 Oct 2025 ki report ke anusar Amargarh MLA Jaswant Singh Gajjan Majra ne Ahmedgarh Division PSPCL karyalay (Pohir Road) me lagbhag Rs 24 crore ki power transmission modernisation aur strengthening pariyojnaon ka lokarpan kiya, jinme Anand Isher aur Gaushala feeder ke algaav (bifurcation) ki Rs 23.5 crore ki pariyojna aur Kup Grid se Ahmedgarh Grid tak double transmission line shamil hai, jisse Ahmedgarh Grid ka transformer 20 MVA se badhkar 31.5 MVA ho jayega.',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/mla-launches-power-projects-worth-rs-24-cr/',
+    date: '2025-10-07',
+    note: 'Cited page ke anusar: lokarpan samaroha me SE Amandeep Singh Khangura maujood the aur unhone bataya ki mukhya pariyojna ke alawa kshetra me bijli aapurti sudharne ke liye Rs 5.5 crore ke buniyadi-dhancha kaam bhi shuru kiye gaye hain; karyakram me Municipal Council chief Vikas Krishan Sharma aur market committee chairman Kanwaljit Singh Ubhi sammanit atithi the. Date reasoning: article 2025-10-08 (Wednesday) ko publish hua aur report me lokarpan "on Tuesday" bataya gaya — date -d se verify: 2025-10-07 Tuesday thi. Credit capped: pariyojna PSPCL/rajya sarkar ki hai; MLA ki dastaveji bhoomika lokarpan ki hai, niyukti ya fund lane ki nahi.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+
+  {
+    title: 'The Tribune ki 20 Apr 2025 ki report ke anusar Punjab Sikhya Kranti ke tahat Amargarh MLA Jaswant Singh Gajjanmajra ne Ahmedgarh ke paanch sansthanon — Jandali Khurad, Jandali Kalan, Mohalla Amarpura, Dehliz Khurad aur Bajrang Akhara Road ke sarkari schoolon — me Rs 66.50 lakh ke vikas karyon ke shilanyas rakhe.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/ludhiana/66-5l-projects-for-govt-schools-launched',
+    date: '2025-04-20',
+    note: 'Cited page ke anusar: ye karyakram Punjab Sikhya Kranti ke tahat hue jinme Housing and Urban Development mantri Hardeep Singh Mundian bhi apne kshetra ke schoolon me shamil hue; MLA ne kaha ki swasthya aur shiksha sarkar ki top priorities hain aur sarkari schoolon ke chhatron ko private convent schoolon jaisi suvidhaen dene ka lakshya hai. Credit capped: Rs 66.50 lakh ki rashi aur paanch sansthanon ke naam report me darj hain; fund rajya sarkar/Sikhya Kranti ka hai.',
+    period: '2022-2027',
+    stage: 'shilanyas',
+  },
+
+  {
+    title: 'MLA ka dawa — The Tribune ki 11 Apr 2025 ki report ke anusar Amargarh MLA Jaswant Singh Gajjanmajra ne dawa kiya ki unhone Amargarh aur Ahmedgarh subdivisions ke sarkari schoolon me Rs 2.56 crore ke vikas karya shuru karaye, jismein Government Senior Smart School (Amargarh), School of Eminence (Bagrian) aur Government Primary School (Mohala) me kamron/shauchalayon ke nirmaan aur RO lagwane ke lokarpan samaroha aayojit hue.',
+    category: 'School',
+    badge: 'dawa',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/ludhiana/striking-chord-with-students-parents-important-says-mla/amp',
+    date: '2025-04-09',
+    note: 'Cited page ke anusar: "the Amargarh legislator had claimed to have initiated development works to the tune of Rs 2.56 crore" — Rs 2.56 crore ki rashi MLA ka dawa hai, isliye badge dawa; lekin teenon schoolon me lokarpan samaroha ka aayojan Tribune reporter ne swayam report kiya hai, isliye kaam poora hona/uddhaatan push hai. Date reasoning: article 2025-04-11 (Friday) ko publish hua aur lokarpan "on Wednesday" bataya gaya — date -d se verify: 2025-04-09 Wednesday tha.',
+    period: '2022-2027',
+    stage: 'lokarpan',
+  },
+
+  {
+    title: 'The Tribune ki 2 Apr 2026 ki report ke anusar Amargarh MLA Jaswant Singh Gajjanmajra ke prayason se Ahmedgarh me do Aam Aadmi Clinics sthapit hue — ek Janta College for Women me aur doosra Bajrang Akhara ke paas suvidha kendra me — jinka digital udghatan Mukhyamantri Bhagwant Mann ne kiya, aur dono me OPD, diagnostic sample collection, anti-rabies vaccine tatha prasav-poorv/prasav-uttar jaanch jaisi muft sevaen shuru ho gayin.',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/ludhiana/aam-aadmi-clinics-ease-burden-on-ahmedgarh-health-centre/',
+    date: '2026-04-02',
+    note: 'Cited page ke anusar: MC president Vikas Krishan Sharma ne kaha ki residents MLA ke prayason ki sarahna karte hain "whose efforts to establish two Aam Aadmi Clinics bore fruit"; Health Department ke anusar dono clinic me medical officers ke saath paryapt paramedical staff tainaat hai aur test reports ek din me mobile par bhej di jati hain. Credit capped: udghatan CM ne digital madhyam se kiya; MLA ki bhoomika prayas/sthapna me darj hai. Date reasoning: report me udghatan "recently" bataya gaya hai — udghatan ki sahi tithi report me nahi, isliye report ki publication tithi di gayi hai.',
+    period: '2022-2027',
+    stage: 'poora',
+  },
+
+
+
+  {
+    title: 'The Tribune ki 23 Nov 2024 ki report ke anusar Amargarh MLA Jaswant Singh Gajjanmajra ne Amargarh aur Ahmedgarh subdivisions ke sarpanchon se buniyadi nagrik suvidhaen (surakshit pey-jal, thos kachra prabandhan, swachhata) sunischit karne ka aagrah kiya aur Swachh Bharat Gramin Mission ke tahat apne gharon me shauchalay banane ke liye 11 labharthiyon ko Rs 1.65 lakh ke anudan baante.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Tribune',
+    sourceUrl: 'https://www.tribuneindia.com/news/punjab/provide-basic-civic-amenities-to-residents-amargarh-mla-gajjanmajra-to-sarpanches/amp',
+    date: '2024-11-23',
+    note: 'Cited page ke anusar: "Gajjanmajra distributed grants worth Rs 1.65 lakh among 11 beneficiaries for construction of toilets at their homes under the Swachh Bharat Gramin Mission"; unhone thos kachra aur sewage prabandhan ko nagrik nikayon ki sabse badi chunauti bataya aur sabhi nagrik nikayon ko paryapt anudan milne ki baat kahi.',
+    period: '2022-2027',
+    stage: 'poora',
+  },
+
+  {
+    title: 'Hindustan Times ki report ke anusar Amargarh AAP MLA Jaswant Singh Gajjanmajra ko Enforcement Directorate ne 6 Nov 2023 ko Rs 40.92 crore ke bank dhokhadhadhi se jude money laundering case me Prevention of Money Laundering Act ke tahat giraftar kiya aur agle din unhe nyayik hirasat me bheja gaya; ED ke anusar ve Tara Corporation Limited (baad me Malaudh Agro Ltd) aur Tara Health Food Limited ke poorv director the aur Rs 40.92 crore ke rinon ka galat istemal hua, jisme se Rs 3.12 crore unke vyaktigat khaton me gaye.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Hindustan Times',
+    sourceUrl: 'https://www.hindustantimes.com/cities/chandigarh-news/punjab-aap-mla-diverted-3-crore-loan-amount-to-his-account-bogus-firms-says-ed-101699471958697.html',
+    date: '2023-11-07',
+    note: 'Cited page ke anusar: ED ne 6 Nov 2023 (Monday) ko giraftar kiya aur 7 Nov (Tuesday) ko nyayik hirasat me bheja; janch CBI ki Feb 2018 me Bank of India (Ludhiana branch) ki shikayat par darj FIR (IPC + Prevention of Corruption Act) par aadharit hai, jisme 2011-14 ke dauraan foodgrain trading firm ko chaar charnon me rin diye gaye the; ED ne Rs 33.99 crore Tara Health Food Limited ko jane ka aarop lagaya; Sep 2022 me ED ne unke ghar/vyavsayik parisaron se mobile, hard drives aur Rs 32 lakh nakad zabt kiye, aur May 2023 me CBI raids me Rs 16.57 lakh aur 88 videshi currency notes mile. Date reasoning: HT report me giraftari "on Monday" aur nyayik hirasat "on Tuesday" darj hai — date -d se verify: 2023-11-06 Monday aur 2023-11-07 Tuesday thi; report ki tithi 2023-11-07 li gayi hai. MLA khud aaropi hain, isliye negative entry. (Pre-term rin/FIR Feb 2018 — in-term giraftari Nov 2023 ke saath jodne par shamil.)',
+    period: '2022-2027',
+  },
+
+  {
+    title: 'The Indian Express ki 24 May 2025 ki report ke anusar Amargarh MLA Jaswant Singh Gajjanmajra ko Punjab and Haryana High Court ne Nov 2024 me Rs 40 crore bank dhokhadhadhi money-laundering case me jamanat di, adalat ne note kiya ki ED pehle hi is case me Rs 35 crore se zyada vasool kar chuki hai; janch ab bhi jaari hai aur MLA ka bhai bhi isi case me giraftar hua tha, jabki AAP ka tark hai ki mamla unke vyavsay se juda hai, rajniti se nahi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/chandigarh/cases-dragging-controversial-aap-punjab-mlas-pubic-duty-10025436/',
+    date: '2025-05-24',
+    note: 'Cited page ke anusar: IE ne Gajjanmajra ko ED dwara Nov 2023 me giraftar "Amargarh MLA arrested by ED" ke roop me darj kiya; Nov 2024 me HC jamanat; ED ne Rs 35 crore se zyada vasool kiye; unke bhai ki giraftari bhi hui; case "still under investigation". AAP ki pratikriya report me darj hai: mamla vyavsay se juda, rajnaitik gatividhi se nahi. MLA khud aaropi hain, isliye negative entry; jawab (AAP ka tark) disclosed hai.',
+    period: '2022-2027',
+  },
+
+];
