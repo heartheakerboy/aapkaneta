@@ -2547,6 +2547,7 @@ export const haryanaNetas: Neta[] = [
     constituency: 'Sohna',
     constituencySlug: 'sohna',
     tenures: [
+      { post: 'MLA', constituency: 'Sohna', constituencySlug: 'sohna', party: 'Bharatiya Janata Party', start: '2014', end: '2019' },
       { post: 'MLA', constituency: 'Sohna', constituencySlug: 'sohna', party: 'Bharatiya Janata Party', start: '2024', end: '2029' },
     ],
     works: [],
@@ -2564,7 +2565,7 @@ export const haryanaNetas: Neta[] = [
       assets: 'Rs 9,50,58,743',
       liabilities: 'Rs 0',
       mynetaUrl: 'https://myneta.info/Haryana2024/candidate.php?candidate_id=182',
-      backgroundNote: 'Pehchan pakki: SOHNA, BJP, Winner. S/o Gordhan; Ex-MLA — 2014 me bhi isi seat se lade the. Matdata ke roop me Badshahpur me darj hain.',
+      backgroundNote: 'Pehchan pakki: SOHNA, BJP, Winner. S/o Gordhan; Ex-MLA — 2014 me isi seat se jeete the (2014-2019 karyakaal); 2024 me doosri baar vidhayak bane. Matdata ke roop me Badshahpur me darj hain.',
   },
     electionNote: '2024 me Sohna se 61,243 vote lekar jeete; runner-up Rohtash Khatana (INC) ko 11,877 maton se haraya.',
 },
