@@ -24,7 +24,7 @@ export interface Tenure {
 }
 
 export interface FundInfo {
-  scheme: 'MPLADS' | 'MLALADS';
+  scheme: 'MPLADS' | 'MLALADS' | 'CDP';
   allocated: string | null;
   utilized: string | null;
   utilizationPct: number | null;
@@ -34,7 +34,7 @@ export interface FundInfo {
 export interface Background {
   age: string;
   education: string;
-  criminalCases: number;
+  criminalCases: number | null;
   assets: string;
   liabilities: string;
   mynetaUrl: string;

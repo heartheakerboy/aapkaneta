@@ -1,0 +1,1275 @@
+{
+ "state": "Telangana",
+ "stateSlug": "telangana",
+ "districts": [
+  {
+   "name": "Komaram Bheem Asifabad",
+   "slug": "komaram-bheem-asifabad",
+   "acs": [
+    {
+     "slug": "sirpur",
+     "name": "Sirpur",
+     "type": "Vidhan Sabha",
+     "number": 1,
+     "district": "Komaram Bheem Asifabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "asifabad",
+     "name": "Asifabad",
+     "type": "Vidhan Sabha",
+     "number": 5,
+     "district": "Komaram Bheem Asifabad",
+     "reservation": "ST",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Mancherial",
+   "slug": "mancherial",
+   "acs": [
+    {
+     "slug": "chennur",
+     "name": "Chennur",
+     "type": "Vidhan Sabha",
+     "number": 2,
+     "district": "Mancherial",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "bellampalli",
+     "name": "Bellampalli",
+     "type": "Vidhan Sabha",
+     "number": 3,
+     "district": "Mancherial",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "mancherial",
+     "name": "Mancherial",
+     "type": "Vidhan Sabha",
+     "number": 4,
+     "district": "Mancherial",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Adilabad",
+   "slug": "adilabad",
+   "acs": [
+    {
+     "slug": "adilabad",
+     "name": "Adilabad",
+     "type": "Vidhan Sabha",
+     "number": 7,
+     "district": "Adilabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "boath",
+     "name": "Boath",
+     "type": "Vidhan Sabha",
+     "number": 8,
+     "district": "Adilabad",
+     "reservation": "ST",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Nirmal",
+   "slug": "nirmal",
+   "acs": [
+    {
+     "slug": "nirmal",
+     "name": "Nirmal",
+     "type": "Vidhan Sabha",
+     "number": 9,
+     "district": "Nirmal",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "mudhole",
+     "name": "Mudhole",
+     "type": "Vidhan Sabha",
+     "number": 10,
+     "district": "Nirmal",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "khanapur",
+     "name": "Khanapur",
+     "type": "Vidhan Sabha",
+     "number": 6,
+     "district": "Nirmal",
+     "reservation": "ST",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Nizamabad",
+   "slug": "nizamabad",
+   "acs": [
+    {
+     "slug": "armur",
+     "name": "Armur",
+     "type": "Vidhan Sabha",
+     "number": 11,
+     "district": "Nizamabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "bodhan",
+     "name": "Bodhan",
+     "type": "Vidhan Sabha",
+     "number": 12,
+     "district": "Nizamabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "nizamabad-urban",
+     "name": "Nizamabad Urban",
+     "type": "Vidhan Sabha",
+     "number": 17,
+     "district": "Nizamabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "nizamabad-rural",
+     "name": "Nizamabad Rural",
+     "type": "Vidhan Sabha",
+     "number": 18,
+     "district": "Nizamabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "balkonda",
+     "name": "Balkonda",
+     "type": "Vidhan Sabha",
+     "number": 19,
+     "district": "Nizamabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Kamareddy",
+   "slug": "kamareddy",
+   "acs": [
+    {
+     "slug": "jukkal",
+     "name": "Jukkal",
+     "type": "Vidhan Sabha",
+     "number": 13,
+     "district": "Kamareddy",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "banswada",
+     "name": "Banswada",
+     "type": "Vidhan Sabha",
+     "number": 14,
+     "district": "Kamareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "yellareddy",
+     "name": "Yellareddy",
+     "type": "Vidhan Sabha",
+     "number": 15,
+     "district": "Kamareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "kamareddy",
+     "name": "Kamareddy",
+     "type": "Vidhan Sabha",
+     "number": 16,
+     "district": "Kamareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Jagtial",
+   "slug": "jagtial",
+   "acs": [
+    {
+     "slug": "koratla",
+     "name": "Koratla",
+     "type": "Vidhan Sabha",
+     "number": 20,
+     "district": "Jagtial",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "jagtial",
+     "name": "Jagtial",
+     "type": "Vidhan Sabha",
+     "number": 21,
+     "district": "Jagtial",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "dharmapuri",
+     "name": "Dharmapuri",
+     "type": "Vidhan Sabha",
+     "number": 22,
+     "district": "Jagtial",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Peddapalli",
+   "slug": "peddapalli",
+   "acs": [
+    {
+     "slug": "ramagundam",
+     "name": "Ramagundam",
+     "type": "Vidhan Sabha",
+     "number": 23,
+     "district": "Peddapalli",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "manthani",
+     "name": "Manthani",
+     "type": "Vidhan Sabha",
+     "number": 24,
+     "district": "Peddapalli",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "peddapalle",
+     "name": "Peddapalle",
+     "type": "Vidhan Sabha",
+     "number": 25,
+     "district": "Peddapalli",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Karimnagar",
+   "slug": "karimnagar",
+   "acs": [
+    {
+     "slug": "karimnagar",
+     "name": "Karimnagar",
+     "type": "Vidhan Sabha",
+     "number": 26,
+     "district": "Karimnagar",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "choppadandi",
+     "name": "Choppadandi",
+     "type": "Vidhan Sabha",
+     "number": 27,
+     "district": "Karimnagar",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "manakondur",
+     "name": "Manakondur",
+     "type": "Vidhan Sabha",
+     "number": 30,
+     "district": "Karimnagar",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "huzurabad",
+     "name": "Huzurabad",
+     "type": "Vidhan Sabha",
+     "number": 31,
+     "district": "Karimnagar",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Rajanna Sircilla",
+   "slug": "rajanna-sircilla",
+   "acs": [
+    {
+     "slug": "vemulawada",
+     "name": "Vemulawada",
+     "type": "Vidhan Sabha",
+     "number": 28,
+     "district": "Rajanna Sircilla",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "sircilla",
+     "name": "Sircilla",
+     "type": "Vidhan Sabha",
+     "number": 29,
+     "district": "Rajanna Sircilla",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Medak",
+   "slug": "medak",
+   "acs": [
+    {
+     "slug": "medak",
+     "name": "Medak",
+     "type": "Vidhan Sabha",
+     "number": 34,
+     "district": "Medak",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "narsapur",
+     "name": "Narsapur",
+     "type": "Vidhan Sabha",
+     "number": 37,
+     "district": "Medak",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Sangareddy",
+   "slug": "sangareddy",
+   "acs": [
+    {
+     "slug": "zaheerabad",
+     "name": "Zaheerabad",
+     "type": "Vidhan Sabha",
+     "number": 38,
+     "district": "Sangareddy",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "sangareddy",
+     "name": "Sangareddy",
+     "type": "Vidhan Sabha",
+     "number": 39,
+     "district": "Sangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "patancheru",
+     "name": "Patancheru",
+     "type": "Vidhan Sabha",
+     "number": 40,
+     "district": "Sangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "narayankhed",
+     "name": "Narayankhed",
+     "type": "Vidhan Sabha",
+     "number": 35,
+     "district": "Sangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "andole",
+     "name": "Andole",
+     "type": "Vidhan Sabha",
+     "number": 36,
+     "district": "Sangareddy",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Siddipet",
+   "slug": "siddipet",
+   "acs": [
+    {
+     "slug": "dubbak",
+     "name": "Dubbak",
+     "type": "Vidhan Sabha",
+     "number": 41,
+     "district": "Siddipet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "gajwel",
+     "name": "Gajwel",
+     "type": "Vidhan Sabha",
+     "number": 42,
+     "district": "Siddipet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "husnabad",
+     "name": "Husnabad",
+     "type": "Vidhan Sabha",
+     "number": 32,
+     "district": "Siddipet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "siddipet",
+     "name": "Siddipet",
+     "type": "Vidhan Sabha",
+     "number": 33,
+     "district": "Siddipet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Rangareddy",
+   "slug": "rangareddy",
+   "acs": [
+    {
+     "slug": "kalwakurthy",
+     "name": "Kalwakurthy",
+     "type": "Vidhan Sabha",
+     "number": 83,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "shadnagar",
+     "name": "Shadnagar",
+     "type": "Vidhan Sabha",
+     "number": 84,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "ibrahimpatnam",
+     "name": "Ibrahimpatnam",
+     "type": "Vidhan Sabha",
+     "number": 48,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "lal-bahadur-nagar",
+     "name": "Lal Bahadur Nagar",
+     "type": "Vidhan Sabha",
+     "number": 49,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "maheswaram",
+     "name": "Maheswaram",
+     "type": "Vidhan Sabha",
+     "number": 50,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "rajendranagar",
+     "name": "Rajendranagar",
+     "type": "Vidhan Sabha",
+     "number": 51,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "serilingampally",
+     "name": "Serilingampally",
+     "type": "Vidhan Sabha",
+     "number": 52,
+     "district": "Rangareddy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "chevella",
+     "name": "Chevella",
+     "type": "Vidhan Sabha",
+     "number": 53,
+     "district": "Rangareddy",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Vikarabad",
+   "slug": "vikarabad",
+   "acs": [
+    {
+     "slug": "pargi",
+     "name": "Pargi",
+     "type": "Vidhan Sabha",
+     "number": 54,
+     "district": "Vikarabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "vikarabad",
+     "name": "Vikarabad",
+     "type": "Vidhan Sabha",
+     "number": 55,
+     "district": "Vikarabad",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "tandur",
+     "name": "Tandur",
+     "type": "Vidhan Sabha",
+     "number": 56,
+     "district": "Vikarabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "kodangal",
+     "name": "Kodangal",
+     "type": "Vidhan Sabha",
+     "number": 72,
+     "district": "Vikarabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Medchal-Malkajgiri",
+   "slug": "medchal-malkajgiri",
+   "acs": [
+    {
+     "slug": "medchal",
+     "name": "Medchal",
+     "type": "Vidhan Sabha",
+     "number": 43,
+     "district": "Medchal-Malkajgiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "malkajgiri",
+     "name": "Malkajgiri",
+     "type": "Vidhan Sabha",
+     "number": 44,
+     "district": "Medchal-Malkajgiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "quthbullapur",
+     "name": "Quthbullapur",
+     "type": "Vidhan Sabha",
+     "number": 45,
+     "district": "Medchal-Malkajgiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "kukatpally",
+     "name": "Kukatpally",
+     "type": "Vidhan Sabha",
+     "number": 46,
+     "district": "Medchal-Malkajgiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "uppal",
+     "name": "Uppal",
+     "type": "Vidhan Sabha",
+     "number": 47,
+     "district": "Medchal-Malkajgiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Hyderabad",
+   "slug": "hyderabad",
+   "acs": [
+    {
+     "slug": "musheerabad",
+     "name": "Musheerabad",
+     "type": "Vidhan Sabha",
+     "number": 57,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "malakpet",
+     "name": "Malakpet",
+     "type": "Vidhan Sabha",
+     "number": 58,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "amberpet",
+     "name": "Amberpet",
+     "type": "Vidhan Sabha",
+     "number": 59,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "khairatabad",
+     "name": "Khairatabad",
+     "type": "Vidhan Sabha",
+     "number": 60,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "jubilee-hills",
+     "name": "Jubilee Hills",
+     "type": "Vidhan Sabha",
+     "number": 61,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "sanathnagar",
+     "name": "Sanathnagar",
+     "type": "Vidhan Sabha",
+     "number": 62,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "nampally",
+     "name": "Nampally",
+     "type": "Vidhan Sabha",
+     "number": 63,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "karwan",
+     "name": "Karwan",
+     "type": "Vidhan Sabha",
+     "number": 64,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "goshamahal",
+     "name": "Goshamahal",
+     "type": "Vidhan Sabha",
+     "number": 65,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "charminar",
+     "name": "Charminar",
+     "type": "Vidhan Sabha",
+     "number": 66,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "chandrayangutta",
+     "name": "Chandrayangutta",
+     "type": "Vidhan Sabha",
+     "number": 67,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "yakutpura",
+     "name": "Yakutpura",
+     "type": "Vidhan Sabha",
+     "number": 68,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "bahadurpura",
+     "name": "Bahadurpura",
+     "type": "Vidhan Sabha",
+     "number": 69,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "secunderabad",
+     "name": "Secunderabad",
+     "type": "Vidhan Sabha",
+     "number": 70,
+     "district": "Hyderabad",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "secunderabad-cantt",
+     "name": "Secunderabad Cantt",
+     "type": "Vidhan Sabha",
+     "number": 71,
+     "district": "Hyderabad",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Mahabubnagar",
+   "slug": "mahabubnagar",
+   "acs": [
+    {
+     "slug": "mahbubnagar",
+     "name": "Mahbubnagar",
+     "type": "Vidhan Sabha",
+     "number": 74,
+     "district": "Mahabubnagar",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "jadcherla",
+     "name": "Jadcherla",
+     "type": "Vidhan Sabha",
+     "number": 75,
+     "district": "Mahabubnagar",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "devarkadra",
+     "name": "Devarkadra",
+     "type": "Vidhan Sabha",
+     "number": 76,
+     "district": "Mahabubnagar",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Nagarkurnool",
+   "slug": "nagarkurnool",
+   "acs": [
+    {
+     "slug": "kollapur",
+     "name": "Kollapur",
+     "type": "Vidhan Sabha",
+     "number": 85,
+     "district": "Nagarkurnool",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "nagarkurnool",
+     "name": "Nagarkurnool",
+     "type": "Vidhan Sabha",
+     "number": 81,
+     "district": "Nagarkurnool",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "achampet",
+     "name": "Achampet",
+     "type": "Vidhan Sabha",
+     "number": 82,
+     "district": "Nagarkurnool",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Wanaparthy",
+   "slug": "wanaparthy",
+   "acs": [
+    {
+     "slug": "wanaparthy",
+     "name": "Wanaparthy",
+     "type": "Vidhan Sabha",
+     "number": 78,
+     "district": "Wanaparthy",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Jogulamba Gadwal",
+   "slug": "jogulamba-gadwal",
+   "acs": [
+    {
+     "slug": "gadwal",
+     "name": "Gadwal",
+     "type": "Vidhan Sabha",
+     "number": 79,
+     "district": "Jogulamba Gadwal",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "alampur",
+     "name": "Alampur",
+     "type": "Vidhan Sabha",
+     "number": 80,
+     "district": "Jogulamba Gadwal",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Nalgonda",
+   "slug": "nalgonda",
+   "acs": [
+    {
+     "slug": "nakrekal",
+     "name": "Nakrekal",
+     "type": "Vidhan Sabha",
+     "number": 95,
+     "district": "Nalgonda",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "nalgonda",
+     "name": "Nalgonda",
+     "type": "Vidhan Sabha",
+     "number": 92,
+     "district": "Nalgonda",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "munugode",
+     "name": "Munugode",
+     "type": "Vidhan Sabha",
+     "number": 93,
+     "district": "Nalgonda",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "devarakonda",
+     "name": "Devarakonda",
+     "type": "Vidhan Sabha",
+     "number": 86,
+     "district": "Nalgonda",
+     "reservation": "ST",
+     "state": "Telangana"
+    },
+    {
+     "slug": "nagarjuna-sagar",
+     "name": "Nagarjuna Sagar",
+     "type": "Vidhan Sabha",
+     "number": 87,
+     "district": "Nalgonda",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "miryalaguda",
+     "name": "Miryalaguda",
+     "type": "Vidhan Sabha",
+     "number": 88,
+     "district": "Nalgonda",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Suryapet",
+   "slug": "suryapet",
+   "acs": [
+    {
+     "slug": "huzurnagar",
+     "name": "Huzurnagar",
+     "type": "Vidhan Sabha",
+     "number": 89,
+     "district": "Suryapet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "kodad",
+     "name": "Kodad",
+     "type": "Vidhan Sabha",
+     "number": 90,
+     "district": "Suryapet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "suryapet",
+     "name": "Suryapet",
+     "type": "Vidhan Sabha",
+     "number": 91,
+     "district": "Suryapet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "thungathurthi",
+     "name": "Thungathurthi",
+     "type": "Vidhan Sabha",
+     "number": 96,
+     "district": "Suryapet",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Yadadri Bhuvanagiri",
+   "slug": "yadadri-bhuvanagiri",
+   "acs": [
+    {
+     "slug": "alair",
+     "name": "Alair",
+     "type": "Vidhan Sabha",
+     "number": 97,
+     "district": "Yadadri Bhuvanagiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "bhongir",
+     "name": "Bhongir",
+     "type": "Vidhan Sabha",
+     "number": 94,
+     "district": "Yadadri Bhuvanagiri",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Jangaon",
+   "slug": "jangaon",
+   "acs": [
+    {
+     "slug": "jangaon",
+     "name": "Jangaon",
+     "type": "Vidhan Sabha",
+     "number": 98,
+     "district": "Jangaon",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "ghanpur-station",
+     "name": "Ghanpur (Station)",
+     "type": "Vidhan Sabha",
+     "number": 99,
+     "district": "Jangaon",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "palakurthi",
+     "name": "Palakurthi",
+     "type": "Vidhan Sabha",
+     "number": 100,
+     "district": "Jangaon",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Mahabubabad",
+   "slug": "mahabubabad",
+   "acs": [
+    {
+     "slug": "dornakal",
+     "name": "Dornakal",
+     "type": "Vidhan Sabha",
+     "number": 101,
+     "district": "Mahabubabad",
+     "reservation": "ST",
+     "state": "Telangana"
+    },
+    {
+     "slug": "mahabubabad",
+     "name": "Mahabubabad",
+     "type": "Vidhan Sabha",
+     "number": 102,
+     "district": "Mahabubabad",
+     "reservation": "ST",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Warangal",
+   "slug": "warangal",
+   "acs": [
+    {
+     "slug": "narsampet",
+     "name": "Narsampet",
+     "type": "Vidhan Sabha",
+     "number": 103,
+     "district": "Warangal",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "parkal",
+     "name": "Parkal",
+     "type": "Vidhan Sabha",
+     "number": 104,
+     "district": "Warangal",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Hanumakonda",
+   "slug": "hanumakonda",
+   "acs": [
+    {
+     "slug": "warangal-west",
+     "name": "Warangal West",
+     "type": "Vidhan Sabha",
+     "number": 105,
+     "district": "Hanumakonda",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "warangal-east",
+     "name": "Warangal East",
+     "type": "Vidhan Sabha",
+     "number": 106,
+     "district": "Hanumakonda",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Jayashankar Bhupalpally",
+   "slug": "jayashankar-bhupalpally",
+   "acs": [
+    {
+     "slug": "bhupalpalle",
+     "name": "Bhupalpalle",
+     "type": "Vidhan Sabha",
+     "number": 108,
+     "district": "Jayashankar Bhupalpally",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "wardhanapet",
+     "name": "Wardhanapet",
+     "type": "Vidhan Sabha",
+     "number": 107,
+     "district": "Jayashankar Bhupalpally",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Bhadradri Kothagudem",
+   "slug": "bhadradri-kothagudem",
+   "acs": [
+    {
+     "slug": "pinapaka",
+     "name": "Pinapaka",
+     "type": "Vidhan Sabha",
+     "number": 110,
+     "district": "Bhadradri Kothagudem",
+     "reservation": "ST",
+     "state": "Telangana"
+    },
+    {
+     "slug": "yellandu",
+     "name": "Yellandu",
+     "type": "Vidhan Sabha",
+     "number": 111,
+     "district": "Bhadradri Kothagudem",
+     "reservation": "ST",
+     "state": "Telangana"
+    },
+    {
+     "slug": "kothagudem",
+     "name": "Kothagudem",
+     "type": "Vidhan Sabha",
+     "number": 117,
+     "district": "Bhadradri Kothagudem",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "aswaraopeta",
+     "name": "Aswaraopeta",
+     "type": "Vidhan Sabha",
+     "number": 118,
+     "district": "Bhadradri Kothagudem",
+     "reservation": "ST",
+     "state": "Telangana"
+    },
+    {
+     "slug": "bhadrachalam",
+     "name": "Bhadrachalam",
+     "type": "Vidhan Sabha",
+     "number": 119,
+     "district": "Bhadradri Kothagudem",
+     "reservation": "ST",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Khammam",
+   "slug": "khammam",
+   "acs": [
+    {
+     "slug": "khammam",
+     "name": "Khammam",
+     "type": "Vidhan Sabha",
+     "number": 112,
+     "district": "Khammam",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "palair",
+     "name": "Palair",
+     "type": "Vidhan Sabha",
+     "number": 113,
+     "district": "Khammam",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "madhira",
+     "name": "Madhira",
+     "type": "Vidhan Sabha",
+     "number": 114,
+     "district": "Khammam",
+     "reservation": "SC",
+     "state": "Telangana"
+    },
+    {
+     "slug": "wyra",
+     "name": "Wyra",
+     "type": "Vidhan Sabha",
+     "number": 115,
+     "district": "Khammam",
+     "reservation": "ST",
+     "state": "Telangana"
+    },
+    {
+     "slug": "sathupalle",
+     "name": "Sathupalle",
+     "type": "Vidhan Sabha",
+     "number": 116,
+     "district": "Khammam",
+     "reservation": "SC",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Mulugu",
+   "slug": "mulugu",
+   "acs": [
+    {
+     "slug": "mulugu",
+     "name": "Mulugu",
+     "type": "Vidhan Sabha",
+     "number": 109,
+     "district": "Mulugu",
+     "reservation": "ST",
+     "state": "Telangana"
+    }
+   ]
+  },
+  {
+   "name": "Narayanpet",
+   "slug": "narayanpet",
+   "acs": [
+    {
+     "slug": "makthal",
+     "name": "Makthal",
+     "type": "Vidhan Sabha",
+     "number": 77,
+     "district": "Narayanpet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    },
+    {
+     "slug": "narayanpet",
+     "name": "Narayanpet",
+     "type": "Vidhan Sabha",
+     "number": 73,
+     "district": "Narayanpet",
+     "reservation": "GEN",
+     "state": "Telangana"
+    }
+   ]
+  }
+ ]
+}
