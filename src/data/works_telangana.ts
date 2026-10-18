@@ -3268,3 +3268,174 @@ telanganaWorks['kumbam-anil-kumar-reddy'] = [
 // - Magicbricks (Keerthi Estates founder page) — Kumbam Anil Kumar Reddy builder Keerthi Estates ke sansthapak: MLA ka niji business; seat-level kaam nahi — isliye entry nahi.
 // - biftoday.com (2024-08-21) — CREDAI Telangana STATECON 2024 uddghatan: outlet whitelist me nahi; MLA keval builders sammelan ke uddghatako me se ek — samaroh me maujoodgi, isliye entry nahi.
 // Retry-leads: The Hans India par ‘Anil Kumar Reddy’ Bhongir se sadak/school ke leads agle hafton me dobara khoje ja sakte hain; Indian Chronicle epaper me MLA ke seat-level kaamo (RB Nagar sadak/safai, Pagidi Palli UGD) ke daave hain lekin outlet whitelist me nahi — whitelist badle to dobara check karein.
+// Telangana — Batch 9: Jangaon + Mahabubabad + Warangal (25-27/33 jile, 8 entries).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/tg9_worker_<slug>_works.ts.
+// QA: yashaswini-mamidala (1 dawa entry) + revuri-prakash-reddy (2 entries) ke snippet-only DC pages QA-DROP (403, khul nahi paye) — fragment me preserved, merge se bahar; live-browser retry leads.
+
+// ==== Jangaon (Batch 9) ====
+// palla-rajeshwar-reddy — 1 entries (QA-checked).
+telanganaWorks['palla-rajeshwar-reddy'] = [
+{ title: 'Telangana government ne GO Ms No 134 ke tehat sarkari, ceiling-surplus, assigned, Bhoodan aur Inam zameenon ki kathit aniyamitaton ki janch ke liye high-level committee gathit ki, jiske dayare me Jangaon MLA Palla Rajeshwar Reddy ke naam se judi zameen bhi shamil hai', category: 'Any', badge: 'news', sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/panel-to-probe-land-irregularities-in-several-telangana-villages/articleshow/134458104.cms', date: '2026-09-24', note: 'Chief secretary Sanjay Jaju ne GO No 134 issue kiya (assembly me Section 22-A par short discussion ke baad). Commissioner A Sridevasena ki adhyakshata wali committee (convenor Rajiv Gandhi Hanumanthu; Jangaon collector Sandeep Kumar Jha sadasya) statutes, Acts, rules aur government orders ke ullanghan ki janch karegi aur zimmedari tay karke action ki sifarish degi. Janch ke dayare me MLA Palla Rajeshwar Reddy ke naam se judi kathit zameen bhi hai. MLA ka jawab srot article me maujood nahi hai — anupasthiti disclosed. Date inferred: srot page par prakashan tithi visible nahi thi; 18 Oct 2026 ke search crawl ke ’24 days ago’ se inferred.', period: '2023-2028' }
+];
+
+// kadiyam-srihari — 3 entries (QA-checked).
+telanganaWorks['kadiyam-srihari'] = [
+{
+    title: 'Raghunathpalli mandal ke Fatehshapur gaon me Rs 2.45 crore ke 33/11 KV substation ka lokarpan kiya',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/kadiyam-srihari-launches-power-infra-expansion-in-station-ghanpur-1126310',
+    date: '2026-09-27',
+    note: 'Lokarpan: MLA Kadiyam Srihari ne Fatehshapur gaon (Raghunathpalli mandal, Station Ghanpur kshetra) me Rs 2.45 crore ki lagat se bane 33/11 KV substation ka puja ke baad aupcharik udghatan karke bijli aapurti shuru ki; unke anusaar isse kisanon ko behtar voltage milega aur krishi motoron ko nuksan se bachaya ja sakega. Date anumaanit — page me "on Sunday" likha hai aur prakashan 2026-09-28 (IST) hai, isliye karyakram-tithi 2026-09-27 nikali gayi (disclosure).',
+    period: '2023-2028',
+  },
+{
+    title: 'Station Ghanpur sarkari degree college ki nayi imarat ka shilanyas kiya; GVO 48 se Rs 8.60 crore swikrit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/station-ghanpur-degree-college-to-emerge-as-model-institution-1127760',
+    date: '2026-10-01',
+    note: 'Shilanyas: MLA Kadiyam Srihari ne Station Ghanpur Government Degree College ki nayi imarat ke ground-breaking samaroh me shilanyas-patt ka anavaran kiya; unhone kaha college manjoori unke chunav-vadon me thi aur unhone CM A. Revanth Reddy se prastav ko aage badhaya tha. Swikriti: GVO No. 48 (2026-03-22) se Rs 8.60 crore swikrit — Rs 6.10 crore imarat, Rs 2.50 crore salary/aavashyaktaon ke liye; DMFT fund se computer lab ke liye Rs 23 lakh pehle se swikrit; nirmaan 1 Aug 2027 tak pura karne ka nirdesh. Date anumaanit — page me "on Thursday" aur prakashan 2026-10-02 hai, isliye 2026-10-01 (disclosure). Shrey seemit: manjoori sarkar/GO ki; MLA ki bhoomika shilanyas aur prastav-pairaavi tak.',
+    period: '2023-2028',
+  },
+{
+    title: 'Station Ghanpur kshetra me aath naye 33/11 KV substations ki swikriti ki ghoshna ki',
+    category: 'Bijli',
+    badge: 'dawa',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/kadiyam-srihari-launches-power-infra-expansion-in-station-ghanpur-1126310',
+    date: '2026-09-27',
+    note: 'MLA ka bayaan (media me report): Station Ghanpur kshetra me aath naye 33/11 KV substations swikrit hue hain, jisse grameen kshetron ki low-voltage samasya ka sthai samadhan hoga; unke anusaar Fatehshapur sahit chaar pure ho chuke aur operational hain, baaki chaar ka nirmaan antim charan me hai. Kul pariyojna lagat page me ghoshit nahi (sirf Fatehshapur substation ka Rs 2.45 crore bataya gaya) — fund "ghoshit nahi". Date anumaanit (wahi 2026-09-27 ka karyakram; disclosure). Shrey seemit: swikriti sarkar ki, bayaan MLA ka; GO number page me nahi.',
+    period: '2023-2028',
+  }
+];
+
+// yashaswini-mamidala — 0 entries (QA-checked; 1 dawa entry QA-DROP, snippet-source).
+telanganaWorks['yashaswini-mamidala'] = [];
+// QA-DROP yashaswini-mamidala: yashaswini-mamidala ka 1 `dawa` entry (Thorrur municipality Rs 62 crore) QA-DROP: DC page fetch 403 fail — tathya search-indexed snippet se liye gaye the; srot page kholkar verify nahi ho paya, isliye fragment me preserved, merge se bahar. Live-browser retry lead.
+
+// REJECT-LOG yashaswini-mamidala:
+// R1. The Hans India, 2026-10-12: 'Yashaswini Reddy stands by bereaved families'
+//     — Kolkonda aur Peddamadur (Devaruppula mandal) ke teen shok-santapt
+//     parivaron se mulaqat; do parivaron ko niji aarthik sahayata di.
+//     REJECT: sirf samvedna-daura + daan/rahat; koi bhautik sanrachna kaam nahi.
+//     URL: https://www.thehansindia.com/news/cities/warangal/yashaswini-reddy-stands-by-bereaved-families-1131578
+// R2. The Hans India, ~Sep 2026: 'Maha Ganapathi Homam held at Palakurthi MLA camp office'
+//     — Vinayaka Chavithi par dharmik homam + ann-vitran karyakram.
+//     REJECT: CSR/utsav-samaroh; seat-kaam nahi.
+//     URL: https://www.thehansindia.com/telangana/maha-ganapathi-homam-held-at-palakurthi-mla-camp-office-1124624
+// R3. The Hans India, 2026-10-06: 'Kalyanalakshmi, Shaadi Mubarak aid brings cheer to 54 families'
+//     — Palakurthi mandal me 54 labharthiyon ko Rs 54,06,264 ke cheque vitrit.
+//     REJECT: sarkari kalyan yojna ka vitran (daan/rahat shreni); lokarpan/shilanyas nahi.
+//     URL: https://www.thehansindia.com/news/cities/warangal/hanumakonda-kalyanalakshmi-shaadi-mubarak-aid-brings-cheer-to-54-families-1129329
+// R4. Deccan Chronicle, ~Mar 2024: 'Farmers Happy with Congress Government: Yashaswini'
+//     — Kodakandla mandal me SRSP second phase canal ka nirikshan, khet survey, kisanon se baatcheet.
+//     REJECT: sirf nirikshan/daura; vyaktigat bhautik kaam nahi.
+//     URL: https://www.deccanchronicle.com/amp/nation/farmers-happy-with-congress-government-yashaswini-887654
+// R5. telanganatribune.com, Dec 2023: 'MLA Yashaswini: Palakurthi to Undergo a Transformation'
+//     — seat vikas ke vayde/ghoshna (Six Guarantees poori karne ka aashwasan).
+//     REJECT: sirf ghoshna; source whitelist me nahi.
+//     URL: https://www.telanganatribune.com/mla-yashaswini-palakurthi-to-undergo-a-transformation/
+// R6. telanganatribune.com, Mar 2025: 'MLA Yasaswini thanks Chief Minister'
+//     — Mamnoor Airport ki kendriya manjuri par CM Revanth Reddy ko dhanyavad.
+//     REJECT: kendriya pariyojna bina vyaktigat bhoomika; source whitelist me nahi.
+//     URL: https://www.telanganatribune.com/?p=194674
+// R7. telanganatribune.com, May 2025: 'MLA Yasaswini asks CM for Rs 50 crore in funds'
+//     — CM se fund ki maang. REJECT: sirf maang/prastav; source whitelist me nahi.
+//     URL: https://www.telanganatribune.com/tag/mla/page/47/
+// R8. indtoday.com interview (Errabelli Dayakar Rao, purv MLA) me Rs 1,989.97 crore ke
+//     kaam — ye pichhle MLA (BRS) ke karyakal ke dawe hain, Yashaswini ke nahi. REJECT.
+//     URL: https://indtoday.com/will-make-palakurthy-a-top-constituency-dayakar-rao/
+// R9. livemumbai.in (press release), Apr 2025: Bharat Summit 2025 me bhagidari —
+//     Delhi ka karyakram, seat ke bahar; source whitelist me nahi. REJECT.
+// R10. indiaherald.com: 'Yashaswini Reddy holds the record of being the youngest MLA' —
+//      profile piece, koi seat-kaam nahi; source whitelist me nahi. REJECT.
+// R11. Negative scan: 'Mamidala Yashaswini'/'Yashaswini Reddy' Palakurthi + FIR / case /
+//      booked / probe / chargesheet / ED / controversy — whitelist media me koi parinam
+//      nahi. Halafname (myneta.info/ABP/Business Standard) me criminal cases 0.
+//      Chunav-yachika ya halafname-akela negative nahi bante. Koi negative entry nahi.
+// R12. Pehchan-jaal: 'Palakurthi Sarangapani' Wardhannapet Municipal Chairman — Palakurthi
+//      unke naam ka hissa hai, seat nahi; is MLA se koi sambandh nahi. Inhe mix na karein.
+// RETRY-LEAD: W1 ke liye Deccan Chronicle page (403) live-browser me kholkar verify karein —
+//      agar page ke tathya snippet se alag hon to entry sudhaarein ya hatayein.
+
+
+// ==== Mahabubabad (Batch 9) ====
+// jatoth-ram-chander-naik — 2 entries (1 work + 1 negative; QA-checked).
+telanganaWorks['jatoth-ram-chander-naik'] = [
+{
+    title: 'Dornakal MLA Ram Chander Naik ne Vidhansabha question hour me residential schools aur hostels ke mess/diet charges me badhotri par sawal uthaya, mantri ne badhe charges aur labharthiyon ka detail diya',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle, 17 Mar 2025',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/school-education-our-top-priority-seethakka-1867457',
+    date: '2025-03-17',
+    note: 'DC ke mutabik Dornakal ke Congress MLA Jatoth Ram Chander Naik ne Assembly question hour me sarkar ke residential schools/hostels ke mess aur diet charges badhane ke faisle par sawal uthaya aur badle hue charges plus labharthiyon ki sankhya ka detail manga. Mantri D. Seethakka ne jawab diya: Class III-VII ke liye Rs 1,330/month, VIII-X ke liye Rs 1,540/month, Intermediate se PG tak Rs 2,100/month; kul 7,65,705 students labhanvit, sarkar ka Rs 499 crore kharch. Credit capped — ye sirf dastaveji sawal-jawab hai, koi shilanyas/swikriti/poora kaam nahi.',
+    period: '2023-2028',
+  },
+{
+    title: 'Jubilee Hills Assembly bye-election polling ke dauraan Dornakal MLA Jatoth Ram Chander Naik Madhuranagar police station me MCC violation ke case me booked hue',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle, 12 Nov 2025',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/high-voltage-drama-during-jubilee-hills-polls-1916401',
+    date: '2025-11-11',
+    note: 'DC ke mutabik Jubilee Hills Assembly bye-election ki polling (11 Nov 2025) ke dauraan Beerla Ilaiah (Alair) aur Jatoth Ram Chander Naik (Dornakal) — Naik ke follower Maloth Ramdas ke saath — Madhuranagar police station me model code of conduct violation ke aarop me booked kiye gaye. VE naamzad hai aur seat se pehchan ("of Dornakal") article me spasht hai; Dec 2023+ me nyayik vikas hai. VE ka jawab article me disclosed nahi hai.',
+    period: '2023-2028',
+  }
+];
+
+// REJECT-LOG jatoth-ram-chander-naik:
+// - Deccan Chronicle "Telangana: School Reopened After a Decade with Cong. MLA's Help" (18 Jan 2025, Gujili Thanda, Kottur village, Sirole) — unke DC tag page par listed hai, lekin article ka canonical URL mila nahi (DC site search 403), kholkar padha nahi ja saka; kaun sa MLA tha aur location Dornakal seat me hai ya nahi — ye verify nahi ho paya (Sirole/Seerole Dornakal ke 6 mandals me nahi hai), isliye attribution unverifiable — REJECT.
+// - Deccan Chronicle "Mahabubabad MP Seeks ORRs, NH Clearances From Gadkari" (Mar 2026 est.) — Dornakal ORR ki maang Mahabubabad MP Porika Balaram Naik ne Nitin Gadkari se ki; Ram Chander Naik shamil hi nahi, aur ye sirf maang thi — MP ka kaam + sirf maang — REJECT.
+// - Deccan Chronicle "Dornakal MLA Naik appointed Deputy Speaker" (9 Jun 2025) — pad appointment ki khabar — pad ka kaam, niyamanusar REJECT.
+// - The Hindu op-ed "The difficult task of keeping everyone happy" (11 Jun 2025) — Deputy Speaker nomination ka raajnaitik sandarbh — pad ka kaam, REJECT.
+// - Lokmat Times (ANI, Mar 2026) "Congress MLA hails budget" — budget par political bayaan, koi kaam nahi — REJECT.
+// - lighthousejournalism.com fact-check (Dec 2024) — Telangana Thalli statue event par viral edited clip me unka assembly bhashan tod-marod kar dikhaya gaya; clip galat paya gaya, unke khilaf koi case ya janch nahi — misinformation, negative nahi banta — REJECT.
+// - N Ramchander Rao (Telangana BJP president) ke MCC detention/protest cases (Lokmat, ap7am, TNIE, The Hindu) — naam similar hai lekin alag vyakti hai — REJECT.
+// - ABP Live / Business Standard / myneta halafnama — 2023 me 4 criminal cases ka ullekh; raw halafnama akela negative nahi banta, Dec 2023+ me in cases ki FIR/adalaati sthiti ki established-media reporting nahi mili — REJECT.
+// - findhealthclinics.com Mourya Foundation post (Feb 2025) — Decibel Dash 2025 event me "Special Talk by Dr. Ram Chander, MLA" — guest speaker appearance, ceremonial maujoodgi — REJECT.
+
+
+// murali-naik-bhukya — 0 entries (QA-checked; whitelisted media me koi yogya kaam/negative nahi).
+telanganaWorks['murali-naik-bhukya'] = [];
+
+// REJECT-LOG murali-naik-bhukya (12+ leads; detail fragment me): Gumuduru vivad (no FIR), mantri karyakram me sangati, hospital cellphone ban, plastic-free ghoshna, CM delegation maang, SCR GM charcha, non-whitelist leads — sab reject.
+
+// ==== Warangal (Batch 9) ====
+// donthi-madhava-reddy — 1 entry (QA-checked; CM-natritva shilanyas, MLA ka aamantran+aayojan role — credit capped).
+telanganaWorks['donthi-madhava-reddy'] = []; // Batch 9 QA-DROP (parent): Rs 532cr kaamo ka shilanyas CM ne kiya tha; MLA ne aamantran diya aur jansabha ka netritva kiya — dusre neta ke karyakram me bhoomika ka niyam; entry hatayi gayi.
+telanganaWorks['revuri-prakash-reddy'] = [
+{
+    title: 'MLA Revuri Prakash Reddy ne Parkal seat ke Pocharam aur Paidipally gaon me naye nirmit panchayat office buildings ka udghatan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle, 27 Jan 2024',
+    sourceUrl: 'https://www.deccanchronicle.com/nation/congress-government-will-fill-all-vacancies-through-tspsc-mla-880105',
+    date: '2024-01-27',
+    stage: 'completed',
+    note: 'Deccan Chronicle ke mutabik Parkal MLA Revuri Prakash Reddy ne Hanamkonda jile ke Parkal seat ke Pocharam aur Paidipally gaon me naye nirmit panchayat office buildings ka udghatan kiya (karyakram "on Saturday" hua; prakashan 2024-01-27T23:37:19+05:30 — 27 Jan 2024 Saturday hai, isliye date field me wahi tithi di gayi hai). Bhautik sarkari sanrachna ka vyaktigat lokarpan — VALID. Fund rashi page me ghoshit nahi.',
+    period: '2023-2028',
+  }
+];
+// QA-DROP revuri-prakash-reddy: revuri-prakash-reddy ki entries 2-3 (Neerukulla drying-shed/godown shilanyas + PACS bhavan udghatan, DC 15 Nov 2025) QA-DROP: DC amp page fetch 403 fail — tathya search snippet se; kholkar verify nahi ho paya, isliye fragment me preserved, merge se bahar. Live-browser retry lead.
+
+// REJECT-LOG revuri-prakash-reddy:
+// - Deccan Chronicle, ~Aug 2026 ("CM to Tour Mulugu, Parkal, Launch Development Works") — REJECT: pre-event announcement hai ("will tour"); saare 400 crore ke kaam CM ne launch kiye, MLA keval maujood (dusre neta ke karyakram me maujoodgi). URL: https://www.deccanchronicle.com/amp/southern-states/telangana/cm-to-tour-mulugu-parkal-launch-development-works-1979422
+// - The Hans India, 10 Oct 2026 ("Farmers’ Welfare Congress Government’s Priority") — REJECT: Sangem me PACS shapath-grahan samaroh me keval upasthiti; FPO "steps would be taken" sirf ghoshna. URL: https://www.thehansindia.com/news/cities/warangal/farmers-welfare-congress-governments-priority-revuuri-prakash-reddy-1130677
+// - The Hans India, 25 Aug 2026 ("Environment conservation is everyone's responsibility") — REJECT: Van Mahotsav me vriksharopan abhiyan; koi bhautik sarkari sanrachna ka lokarpan/shilanyas nahi. URL: https://www.thehansindia.com/news/cities/warangal/environment-conservation-is-everyones-responsibility-parakala-mla-revuri-prakash-reddy-1113805
+// - Deccan Chronicle ("Make Arrangements for Mini-Medaram Jatara: MLA") — REJECT: Agrampahad jatara ke liye adhikariyon ko nirdesh/nirikshan; DPR mangwana sirf maang; koi lokarpan/shilanyas nahi. URL: https://www.deccanchronicle.com/nation/in-other-news/241223/make-arrangements-for-mini-medaram-jatara-mla.html
+// - The Hans India, 6 Sep 2026 ("Congress govt aims for Dalit families’ economic self-reliance") — REJECT: Geesugonda/Sangem ke Dalit parivaron ko 167 dairy buffalo units ke sanction orders ka vitran; yojna-labarth vitran hai, bhautik sanrachna ka lokarpan/shilanyas nahi (daan/vitran shreni). URL: https://www.thehansindia.com/news/cities/warangal/congress-govt-aims-for-dalit-families-economic-self-reliance-mla-revuri-prakash-reddy-1118773
+// - The Hans India, 7 Oct 2026 ("Workers should support united alliance candidates") — REJECT: RTC union chunav ka prachar-sambodhan; koi kaam nahi. URL: https://www.thehansindia.com/news/cities/warangal/workers-should-support-united-alliance-candidates-revuri-prakash-reddy-1129662
+// - Telangana Today, 19 Aug 2026 ("Revanth’s Parkal remarks widen rift in Warangal Congress") — REJECT: raajnaitik vivad ki khabar; koi kaam ya negative nahi. URL: https://telanganatoday.com/revanths-parkal-remarks-widen-rift-in-warangal-congress-sushmitha-challenges-cm
+// - The Hindu, 14 Oct 2024 ("Tension in Warangal as followers of Minister Konda, MLA Revuri clash") — NEGATIVE SCAN se REJECT: Dharmaram me Surekha aur Revuri ke samarthakon ke beech jhadap; MLA khud naamzad aaropi NAHI (police ne "some of those involved" ko custody me liya, MLA nahi). URL: https://www.thehindu.com/news/national/telangana/tension-in-warangal-as-followers-of-minister-konda-mla-revuri-clash/article68749905.ece/amp/
+// - New Indian Express, 14 Oct 2024 (same police-station drama) — NEGATIVE SCAN se REJECT: wahi jhadap; "case registered against six persons" — chhah log samarthak hain, MLA naamzad nahi. URL: https://www.newindianexpress.com/states/telangana/2024/Oct/14/drama-at-police-station-as-surekha-revuris-followers-clash-in-telangana
+// - New Indian Express, 15 Oct 2023 (Marri Pravalika suicide case) — NEGATIVE SCAN se REJECT: karyakaal (Dec 2023) se pehle ki preventive detention (chunav-kaalin virodh me Hanamkonda me rok); koi FIR jisme MLA naamzad aaropi ho, nahi. URL: https://www.newindianexpress.com/states/telangana/2023/Oct/15/marri-pravalika-suicide-case-body-cremated-in-warangal-village-amid-heavy-security-2624079.html
+// - myneta.info (Telangana 2023 affidavit) — NEGATIVE SCAN: 2023 me declared criminal cases = 0; 2014 ke 4 aur 2018 ka 1 case purane hain aur Dec 2023+ me koi nyayik vikas (chargesheet/sunvai) kisi whitelist source par nahi mila — REJECT (halafnama-akela + purane cases). URL: https://www.myneta.info/Telangana2023/candidate.php?candidate_id=263
+// - Telangana Tribune (~Jan 2024, "MLA emphasizes the crucial role of land in development") — REJECT: source whitelist me NAHI + Pocharam hillock ka nirikshan/daura; koi kaam nahi. URL: https://www.telanganatribune.com/mla-emphasizes-the-crucial-role-of-land-in-development/
+// - Indian Chronicle e-paper (30 May 2026, "Women’s Empowerment is the Guiding Mission") — REJECT: chhota/portal source (whitelist me nahi); sirf bayan/peech, koi bhautik kaam nahi.
+// - BJP spokesperson "Prakash Reddy" ki budget/PM-Modi wali khabaren (ANI via indiasnews, FirstIndia) — REJECT: ye ALAG vyakti hai (BJP neta), Parkal MLA Revuri Prakash Reddy NAHI (pehchan-jaal me note).
+// - Kadiyam Kavya (Warangal MP) ke Voter-list seminar jaisi khabaren jisme MLA upasthit the — REJECT: MPLADS/dusre neta ke karyakram me keval maujoodgi (Indian Chronicle e-paper, 30 May 2026).
+
