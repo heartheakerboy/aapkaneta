@@ -3121,6 +3121,16 @@ telanganaWorks['bathula-laxma-reddy'] = [];
 telanganaWorks['nalamada-uttam-kumar-reddy'] = [
   { title: 'Huzurnagar Area Hospital me Rs 1.25 crore lagat se bane dialysis unit aur blood bank centre ka lokarpan hua, Rs 3 crore ke funds se lagayi gayi CT scan machine bhi shuru hui, aur nae OP block, dhobi ghat aur parking shed ke liye Rs 3.60 crore ka shilanyas mantri ne khud kiya.', category: 'Aspataal', badge: 'news', sourceLabel: 'The New Indian Express', sourceUrl: 'https://www.newindianexpress.com/states/telangana/2025/Aug/19/minister-uttam-unveils-new-health-facilities-at-huzurnagar', date: '2025-08-19', note: 'Photo-documented post-event reporting; karyakram Huzurnagar seat ke andar hua. Fund-srot: srot ne fund ka srot ghoshit nahi kiya — sirf lagat batayi (fund-srot ghoshit nahi). TITHI-NOTE: page 19 Aug 2025 ko update; karyakram usi saptah ke Monday ko hua tha, isliye date 2025-08-19 li gayi. Isi daure me junior college (Rs 7.5 crore), degree college (Rs 4.5 crore), bus stand (Rs 4 crore), Ramaswamy Gutta burial ground (Rs 50 lakh) aur Ramaswamy Gutta sadak (Rs 10 crore) ki ‘swikriti’ ke daawe bhi hue — lekin swikriti ka koi shilanyas/lokarpan ya GO whitelist source me nahi mila, isliye unhe entry nahi banaya.', period: '2023-2028', stage: 'shilanyas-evam-lokarpan' },
   { title: 'Huzurnagar shahar me ITI college ke ATC centre workshop ka shilanyas mantri ne khud kiya, jahan usi din Indiramma awasiya colony (Ramaswamy Gutta) ka nirikshan aur degree college, hospital, stadium, town hall jaise vikas karyon ki pragati ki sameeksha bhi hui.', category: 'Rojgar', badge: 'news', sourceLabel: 'The Hindu', sourceUrl: 'https://www.thehindu.com/news/national/telangana/2160-houses-in-huzurnagar-to-be-delivered-in-3-months-says-minister-uttam/article68492675.ece', date: '2024-08-06', note: 'Post-event reporting; karyakram Huzurnagar seat ke andar hua. TITHI-NOTE: page 6 Aug 2024 ko publish; karyakram usi din (Tuesday) ka, isliye date 2024-08-06. Usi daure me 2,160 Indiramma gharon ki ‘teen mahine me delivery’ ka dawa bhi hua — ye bhavishya ki ghoshna thi; delivery ki post-event confirmation whitelist source me nahi mili, isliye entry nahi banaya. Fund-srot: shilanyas ke fund ka srot ghoshit nahi.', period: '2023-2028', stage: 'shilanyas' },
+  {
+    title: 'Jan 2021 ki Congress rally se jude aapradhik mamle me Telangana High Court ne Nalamada Uttam Kumar Reddy aur Mallu Bhatti Vikramarka ko poori tarah bari kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/telangana-hc-quashes-criminal-case-against-bhatti-uttam/articleshow/123371985.cms',
+    date: '2025-08-18',
+    note: 'Times of India (Aug 2025) ke mutabik police ne purani Secretariat aur Lumbini Park se Raj Bhavan tak ki rally bina anumati ke nikali gayi batakar suomotu FIR darj ki thi. Justice K Lakshman ne FIR poori tarah radd kar di — adalat ne kaha yachikakartaon ke khilaf koi saboot nahi. STAGE-SPASHT: mamla poori tarah band hai — final quash, antarim raahat nahi. Ye entry Dy CM Bhatti Vikramarka ke profile par darj usi mamle ka saha-aaropi charan hai (parent ne joda, Oct 2026).',
+    period: '2023-2028'
+  }
 ];
 // REJECT-LOG nalamada-uttam-kumar-reddy:
 // - DC ‘Uttam Kumar Reddy Reviews Huzurnagar, Kodad Projects After 70-Day Break’ (June 2024): search snippet me Rs 267 crore (37 sadaken Huzurnagar) + Rs 124 crore (panchayat pariyojnaen) ke ‘released’ funds ke daawe the — lekin page kholne par 403 mila (developer rule: blocked request dobara nahi try karna), to page khud kholkar verify nahi hua. Worker rule ‘sirf khud kholkar verify kiye hue pages’ ke kaaran ENTRY NAHI BANAYI. Retry-lead: parent eligible browser se ye page kholkar verify kare to ‘Sadak’ category me swikriti-entry ban sakti hai.
@@ -4118,3 +4128,542 @@ telanganaWorks['tellam-venkata-rao'] = [
 //     nahi hue.
 // 17. techwordnews/The Hindu-style (29 Aug 2026): Dy CM ne kaha sarkar ne Rs 2,500 crore mandir
 //     vikas ke liye rakhe (Bhadrachalam Rs 276 crore) — MLA isme nahi; REJECT: dusre neta ka bayan.
+
+// Telangana — Batch 11: Khammam + Mulugu + Narayanpet (31-33/33 jile, final batch).
+// Mined 2026-10-18. Har MLA ka fragment: ~/workspace/aapkaneta_scratch/tg11_worker_<slug>_works.ts.
+
+// ==== Khammam (Batch 11) ====
+// tummala-nageswara-rao — 8 entries (QA-checked).
+// tg11 worker fragments (worker reports se — coordinator verified)
+// tumamalla nahi — tummala-nageswara-rao — 8 entries (QA-checked).
+telanganaWorks['tummala-nageswara-rao'] = [
+  {
+    title: 'Khammam Municipal Corporation ke Madhuranagar ilake me divisions 9, 12, 13 aur 14 me naye bane CC roads aur drains ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/tummala-nageshwar-rao-inaugurates-new-roads-and-drains-in-khammam-1130942',
+    date: '2026-10-10',
+    note: 'Hans India report ke mutabik mantri ne naye bane CC roads aur drains ka lokarpan kiya; report me cost ya fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Khammam shahar me Cotton Market se Prakash Nagar hote hue SVM School aur Damsalapuram Road tak BT road aur central lighting ke kaamon ka shilanyas, lagat Rs 12 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/integrated-depvt-of-khammam-is-my-goal-minister-tummala-1116359',
+    date: '2026-09-01',
+    note: 'Hans India report ke mutabik works ki anumanit lagat Rs 12 crore hai; fund-srot ghoshit nahi. Usi karyakram me mantri ke Rs 250 crore drinking-water sanction ke dawe ko alag entry nahi banaya gaya (sirf dawa, dastaveji aadhaar nahi).',
+    period: '2023-2028'
+  },
+  {
+    title: 'V.V. Palem (Raghunathapalem mandal, Khammam) me Rs 97 lakh ki lagat se SUDA ke tahat CC road aur drainage ke kaamon ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/tummala-calls-for-quality-in-development-works-1962191',
+    date: '2026-06-08',
+    note: 'Deccan Chronicle report ke mutabik kaam Stambhadri Urban Development Authority (SUDA) ke tahat Rs 97 lakh me liye gaye; V.V. Palem Khammam seat ke andar hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'V.V. Palem gaon me Rs 30 lakh ki lagat se bane pashu-aspataal bhawan ka lokarpan',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/tummala-calls-for-quality-in-development-works-1962191',
+    date: '2026-06-08',
+    note: 'Deccan Chronicle report ke mutabik veterinary hospital building Rs 30 lakh me bani; bhoomika — mantri ne swayam lokarpan kiya.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Khammam ke Pakabanda me 33/11 kV sub-station ka lokarpan (Deputy CM ke saath sanyukt)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/tummala-says-state-strengthening-power-infrastructure-1961970',
+    date: '2026-06-07',
+    note: 'Deccan Chronicle report ke mutabik lokarpan sanyukt roop se hua; report me cost ghoshit nahi; Pakabanda Khammam Urban mandal ka gaon hai aur Khammam seat ke andar hai. Credit disclosure: sanyukt lokarpan tha.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Khammam shahar ke Sriram Hills me Rs 1 crore ki lagat se TUFIDC dwara fund ki gayi BT road ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/poor-must-benefit-from-welfare-schemes-tummala-1869710',
+    date: '2025-03-29',
+    note: 'Deccan Chronicle report ke mutabik road Telangana Urban Finance and Infrastructure Development Corporation (TUFIDC) dwara Rs 1 crore me fund ki gayi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'V.V. Palem ke NSP Canal se Yellandu-Wyra bypass tak Rs 2.5 crore ki CRR State Plan ki BT road pariyojna ka shubharambh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/poor-must-benefit-from-welfare-schemes-tummala-1869710',
+    date: '2025-03-29',
+    note: 'Deccan Chronicle report ke mutabik kaam Construction of Rural Roads (CRR) State Plan ke tahat Rs 2.5 crore me liya gaya; V.V. Palem Khammam seat ke andar hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'V.V. Palem ke SC Colony me Rs 6 lakh ki CRR fund se CC roads ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/amp/southern-states/telangana/poor-must-benefit-from-welfare-schemes-tummala-1869710',
+    date: '2025-03-29',
+    note: 'Deccan Chronicle report ke mutabik CC roads Construction of Rural Roads (CRR) se Rs 6 lakh me fund ki gayin.',
+    period: '2023-2028'
+  },
+];
+
+// ponguleti-srinivasa-reddy — 11 entries (QA-checked).
+// ponguleti-srinivasa-reddy — 11 entries (QA-checked).
+telanganaWorks['ponguleti-srinivasa-reddy'] = [
+  {
+    title: 'Mangali Thanda se Dubba Thanda tak BT road ka shilanyas — Rs 1.63 crore, ITDA funds se',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/farmers-should-avoid-second-crop-warns-minister-ponguleti-1131389',
+    date: '2026-10-11',
+    note: 'Kusumanchi mandal me MLA ne road ka shilanyas kiya; report ke mutabiq kharch Rs 1.63 crore aur fund-srot ITDA hai. Report 12 Oct 2026 ko publish hui aur karyakram ke liye ‘Sunday’ likha hai, isliye tithi 11 Oct 2026 maani gayi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Jujjularaopet me overhead water tank aur pipeline network ka kaam shuru — Rs 45 lakh',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/farmers-should-avoid-second-crop-warns-minister-ponguleti-1131389',
+    date: '2026-10-11',
+    note: 'Kusumanchi mandal ke Jujjularaopet me MLA ne tank aur pipeline ka kaam shuru karaya; kharch Rs 45 lakh; fund-srot report me ghoshit nahi. Tithi ke liye upar wali entry jaisa hi ‘Sunday’ wala reasoning laagu.',
+    period: '2023-2028',
+    stage: 'kaam-shuru',
+  },
+  {
+    title: 'Mangali Thanda me naye gram panchayat office bhawan ka udghatan — Rs 20 lakh',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/farmers-should-avoid-second-crop-warns-minister-ponguleti-1131389',
+    date: '2026-10-11',
+    note: 'Kusumanchi mandal ke Mangali Thanda me Rs 20 lakh ki lagat se bane gram panchayat office ka MLA ne udghatan kiya; fund-srot report me ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Kusumanchi junction aur central lighting system ke vikas ka shilanyas — Rs 6.5 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/ponguleti-telangana-grew-fast-in-last-18-months-1889214',
+    date: '2025-07-03',
+    note: 'Khammam zila ke Kusumanchi me Rs 6.5 crore ki pariyojna ka MLA ne shilanyas kiya; fund-srot report me ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Lokya Thanda se Dharma Thanda tak road ka shilanyas — Rs 16 lakh',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/ponguleti-telangana-grew-fast-in-last-18-months-1889214',
+    date: '2025-07-03',
+    note: 'Kusumanchi mandal me MLA ne road ka shilanyas kiya; anumaanit lagat Rs 16 lakh; fund-srot report me ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Majjugudem se Guvvalagudem tak BT road ka shilanyas — Rs 2.6 crore',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/ponguleti-welfare-schemes-wont-stop-despite-hurdles-1909466',
+    date: '2025-10-11',
+    note: 'Nelakondapally mandal me MLA ne road ka shilanyas kiya; lagat Rs 2.6 crore; fund-srot report me ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Majjugudem me vividh vikas karyon ka shilanyas — kul Rs 12.9 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/ponguleti-welfare-schemes-wont-stop-despite-hurdles-1909466',
+    date: '2025-10-11',
+    note: 'Nelakondapally mandal ke Majjugudem me Rs 12.9 crore ke vikas karyon ka MLA ne shilanyas kiya; karyon ki itemized suchi report me nahi di gayi; fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Venkatayapalem me 9,700 MT kshamta wale cold storage warehouse ka shilanyas — Rs 15 crore',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2025/Sep/25/congress-revived-housing-scheme-for-benefit-of-poor-telangana-minister-ponguleti-srinivas',
+    date: '2025-09-24',
+    note: 'Khammam Rural mandal ke Venkatayapalem gaon me MLA ne shilanyas kiya; Telangana State Warehousing Corporation (TGSWC) ka zila ka pehla pilot cold storage project, ek saal me poora hone ka lakshya; lagat Rs 15 crore. Report 25 Sep 2025 ko publish hui aur karyakram ke liye ‘Wednesday’ likha hai, isliye tithi 24 Sep 2025 maani gayi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Arempula gaon me Indiramma awason ka udghatan (grihapravesh samaroh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2025/Sep/25/congress-revived-housing-scheme-for-benefit-of-poor-telangana-minister-ponguleti-srinivas',
+    date: '2025-09-24',
+    note: 'Palair seat ke Arempula gaon me bane Indiramma awason ka MLA ne udghatan kiya; rajya ki Indiramma Housing Scheme ke tahat; seat ke liye 3,500 awas swikrit hone ka aankda MLA ke bayan par aadharit hai. Tithi ke liye upar wali entry jaisa hi ‘Wednesday’ wala reasoning laagu.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'MLA ka dawa — Palair seat me pichhle 18 mahinon me Rs 1,500 crore ke vikas kaarya swikrit',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/ponguleti-telangana-grew-fast-in-last-18-months-1889214',
+    date: '2025-07-03',
+    note: 'MLA ka dawa — Deccan Chronicle me chhapi unki speech ke mutabiq Palair seat me 18 mahinon me Rs 1,500 crore ke kaarya swikrit hue; isi bayan me Kusumanchi me sarkari junior college (Rs 5.5 crore allocation), aantarik sadkein (Rs 1 crore) aur peya-jal samasya ka samadhan (Rs 50 lakh) bhi shamil hai. In aankdon ka swatantra satyapan report me nahi hai.',
+    period: '2023-2028',
+    stage: 'dawa',
+  },
+  {
+    title: 'ED ki money-laundering janch — 27 Sep 2024 ko MLA se jude 16 thikaanon par chhapa, parinaam abhi saarvajanik nahi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/hyderabad/brs-leaders-meet-ed-officials-and-seek-details-of-cases-pertaining-to-minister-ponguleti-srinivasa-reddy-1126518',
+    date: '2026-09-28',
+    note: 'Report ke mutabiq 27 Sep 2024 ko ED ne mantri Ponguleti Srinivasa Reddy, unke bete Harsha Reddy aur M/s Raghava Constructions se jude Hyderabad aur Khammam ke lagbhag 16 thikaanon par money-laundering mamle me chhapa mara; mamla DRI/Customs ki shikayat se juda hai (5 Feb 2024 ko Chennai airport par Rs 1.73 crore ki 2 luxury ghadiyon ki zabti); 9 Nov 2023 ko Income Tax vibhag ke bhi chhape hue the. Sep 2026 tak ED ne zabti/parinaam par koi saarvajanik bayan nahi diya aur aarop-patra dayar hone ki khabar nahi hai. STAGE-SPASHT: ye janch ka charan hai — MLA ke khilaf koi FIR/chargesheet dayar hone ki khabar report me nahi; raahat/doosri khabar nahi hai to yehi vartaman sthiti hai. Is report me MLA ka jawab shamil nahi hai — jawab ki anupasthiti disclosed hai.',
+    period: '2023-2028',
+  },
+];
+
+// mallu-bhatti-vikramarka — 17 entries (QA-checked).
+telanganaWorks['mallu-bhatti-vikramarka'] = [
+  {
+    title: 'Madhira mandal me Wyra nadi par Rs 12.13 crore ki Mahadevapuram lift irrigation yojana ka lokarpan — 952 acre sinchai ki kshamta, 16.4 cusec paani',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/telangana/2025/Apr/21/bhatti-inaugurates-rs-7233-crore-development-works-in-madhira-segment',
+    date: '2025-04-20',
+    note: 'New Indian Express (21 Apr 2025) ke mutabik Dy CM ne Madhira kshetra ke apne daure me vyaktigat roop se yojana ka lokarpan kiya; us din kul Rs 72.33 crore ke kaamon ka lokarpan/shilanyas hua. Tithi inferred: report me karyakram ‘Sunday’ ko hua tha, prakashan 21 Apr (Somvar) ke hisab se Sunday = 20 Apr 2025. Fund-srot report me ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'poorn'
+  },
+  {
+    title: 'Rayapatnam gaon me Wyra nadi ke right canal par Rs 19.06 crore ki lift irrigation yojana ka shilanyas — 1,079 acre sinchai ka lakshya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/telangana/2025/Apr/21/bhatti-inaugurates-rs-7233-crore-development-works-in-madhira-segment',
+    date: '2025-04-20',
+    note: 'New Indian Express (21 Apr 2025) ke mutabik Dy CM ne Rayapatnam gaon me vyaktigat roop se shilanyas rakha. Tithi inferred: report me ‘Sunday’ ka ullekh, prakashan 21 Apr (Somvar) ke hisab se Sunday = 20 Apr 2025. Fund-srot report me ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Madhira kshetra me Rs 4.71 crore ki lagat se check dam banane ka shilanyas',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/telangana/2025/Apr/21/bhatti-inaugurates-rs-7233-crore-development-works-in-madhira-segment',
+    date: '2025-04-20',
+    note: 'New Indian Express (21 Apr 2025) ke mutabik Dy CM ne kshetra ke daure me check dam ka shilanyas rakha. Tithi inferred: report me ‘Sunday’ ka ullekh, prakashan 21 Apr (Somvar) ke hisab se Sunday = 20 Apr 2025. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Madhira kshetra me Rs 5 crore ki lagat se sarkari junior college bhawan ka shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/telangana/2025/Apr/21/bhatti-inaugurates-rs-7233-crore-development-works-in-madhira-segment',
+    date: '2025-04-20',
+    note: 'New Indian Express (21 Apr 2025) ke mutabik Dy CM ne kshetra ke daure me junior college bhawan ka shilanyas rakha. Tithi inferred: ‘Sunday’ = 20 Apr 2025. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Madhira kshetra me Rs 11.37 crore ke ITI college complex ka shilanyas',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/telangana/2025/Apr/21/bhatti-inaugurates-rs-7233-crore-development-works-in-madhira-segment',
+    date: '2025-04-20',
+    note: 'New Indian Express (21 Apr 2025) ke mutabik Dy CM ne ITI college complex ka shilanyas rakha. Tithi inferred: ‘Sunday’ = 20 Apr 2025. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Ambarupeta gaon me Madhira se Mulugumadu (Nidhanapuram hote hue) tak Rs 25 crore ki sadak ka shilanyas',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/telangana/2025/Apr/21/bhatti-inaugurates-rs-7233-crore-development-works-in-madhira-segment',
+    date: '2025-04-20',
+    note: 'New Indian Express (21 Apr 2025) ke mutabik Dy CM ne Ambarupeta gaon me vyaktigat roop se sadak ka shilanyas rakha. Tithi inferred: ‘Sunday’ = 20 Apr 2025. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Madhira me Rs 10 crore ki lagat se naye bus stand ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2025/Jun/19/we-are-carrying-forward-development-legacy-of-previous-congress-regimes-deputy-cm-mallu-bhatti-vikramarka',
+    date: '2025-06-18',
+    note: 'New Indian Express (19 Jun 2025) ke mutabik Dy CM ne Madhira me jansabha me bus stand ka shilanyas rakha. Tithi inferred: report me karyakram ‘Wednesday’ ko hua tha, prakashan 19 Jun (Guruvar) ke hisab se Wednesday = 18 Jun 2025. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Mudigonda mandal ke Yadavalli gaon me Rs 3.15 crore ke 33/11 KV substation ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Jun/08/bhatti-reviews-rural-works-launches-rs-33-crore-road-projects-in-khammam',
+    date: '2026-06-07',
+    note: 'New Indian Express (8 Jun 2026) ke mutabik Dy CM ne Madhira kshetra ke daure me vyaktigat roop se substation ka shilanyas rakha. Tithi inferred: report me daura ‘Sunday’ ko hua tha, prakashan 8 Jun (Somvar) ke hisab se Sunday = 7 Jun 2026. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Mudigonda mandal mukhyalay me Rs 25 lakh ke ERO karyalaya bhawan ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Jun/08/bhatti-reviews-rural-works-launches-rs-33-crore-road-projects-in-khammam',
+    date: '2026-06-07',
+    note: 'New Indian Express (8 Jun 2026) ke mutabik Dy CM ne ERO karyalaya bhawan ka shilanyas rakha. Tithi inferred: ‘Sunday’ = 7 Jun 2026. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'shilanyas'
+  },
+  {
+    title: 'Mudigonda mandal me Roads and Buildings vibhag ke Rs 33 crore ke sadak karyon ka lokarpan',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Jun/08/bhatti-reviews-rural-works-launches-rs-33-crore-road-projects-in-khammam',
+    date: '2026-06-07',
+    note: 'New Indian Express (8 Jun 2026) ke mutabik Dy CM ne vyaktigat roop se sadak network ka lokarpan kiya; report ke mutabik poora hone par grameen aavajahi aur national highway se connectivity sudharegi. Tithi inferred: ‘Sunday’ = 7 Jun 2026. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'poorn'
+  },
+  {
+    title: 'Chintakani mandal ke Lachagudem me Rs 29 crore ke naye Government Nursing College ki swikriti — Rs 131.61 crore ke kaamon ke lokarpan/shilanyas ke din',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Aug/31/rs-13161-crore-development-works-to-be-taken-up-in-telanganas-madhira-constituency',
+    date: '2026-08-30',
+    note: 'New Indian Express (31 Aug 2026) ke mutabik Dy CM ne Chintakani aur Bonakal mandals me us din Rs 131.61 crore ke kaamon ka lokarpan/shilanyas kiya; nursing college inhi swikrit kaamon me shamil tha. Tithi inferred: report me karyakram ‘Sunday’ ko hua tha, prakashan 31 Aug (Somvar) ke hisab se Sunday = 30 Aug 2026. Fund-srot sarkari swikriti ke roop me darj.',
+    period: '2023-2028',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Chintakani mandal me Rs 14 crore ki teen BT sadkon ki swikriti — Lachagudem-Anantharam (Rs 7 crore), Nagiligonda-Thootikuntla (Rs 5.25 crore), Lachagudem-Nered PR road (Rs 1.75 crore)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Aug/31/rs-13161-crore-development-works-to-be-taken-up-in-telanganas-madhira-constituency',
+    date: '2026-08-30',
+    note: 'New Indian Express (31 Aug 2026) me teenon BT sadak karyon ki rashiyan itemized hain; Dy CM ne us din ke karyakram me ye swikritiyan ghoshit kin. Tithi inferred: ‘Sunday’ = 30 Aug 2026. Fund-srot sarkari swikriti ke roop me darj.',
+    period: '2023-2028',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Chintakani mandal ki SC bastiyon me Rs 1.95 crore ki CC sadkon ki swikriti — Kodumur (Rs 66 lakh), Chintakani (Rs 44 lakh), Nagiligonda (Rs 85 lakh)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/telangana/2026/Aug/31/rs-13161-crore-development-works-to-be-taken-up-in-telanganas-madhira-constituency',
+    date: '2026-08-30',
+    note: 'New Indian Express (31 Aug 2026) me CC sadak karyon ki rashiyan itemized hain; Dy CM ne us din ke karyakram me swikritiyan ghoshit kin. Tithi inferred: ‘Sunday’ = 30 Aug 2026. Fund-srot sarkari swikriti ke roop me darj.',
+    period: '2023-2028',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Bonakal mandal me Rs 1.05 crore ke PACS godamon ki swikriti — Narayanapuram (1,000 MT, Rs 80.84 lakh) aur Motamarri (300 MT, Rs 24.50 lakh)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/bhatti-launches-several-developmental-works-in-madhira-1115968',
+    date: '2026-08-30',
+    note: 'The Hans India ke mutabik Dy CM ne Chintakani aur Bonakal mandals me Rs 131.61 crore ke kaam launch kiye; godamon ki rashiyan report me itemized hain. Tithi inferred: report me ‘Sunday’ ka ullekh aur matching NIE report 31 Aug 2026 ko prakashit, isliye Sunday = 30 Aug 2026. Fund-srot sarkari swikriti ke roop me darj.',
+    period: '2023-2028',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Bonakal mandal me Kalakota-Rapalli-Gannavaram-Musalimadugu-Lakshmipuram sadak (km 0/0 se 20/0) ke chaudaikaran ki Rs 57 crore ki swikriti',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/bhatti-launches-several-developmental-works-in-madhira-1115968',
+    date: '2026-08-30',
+    note: 'The Hans India ke mutabik Dy CM ne Bonakal mandal ki sadak pariyojna launch ki; tithi inferred: ‘Sunday’ = 30 Aug 2026. Fund-srot sarkari swikriti ke roop me darj.',
+    period: '2023-2028',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Bonakal mandal ki SC bastiyon me Rs 1.82 crore ki CC sadken aur drainage ki swikriti — Narayanapuram (Rs 63 lakh), Motamarri (Rs 1 crore), Rayannapeta (Rs 19 lakh)',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/khammam/bhatti-launches-several-developmental-works-in-madhira-1115968',
+    date: '2026-08-30',
+    note: 'The Hans India ke mutabik Dy CM ne ye sadak aur drainage kaam launch kiye; tithi inferred: ‘Sunday’ = 30 Aug 2026. Fund-srot sarkari swikriti ke roop me darj.',
+    period: '2023-2028',
+    stage: 'swikriti'
+  },
+  {
+    title: 'Jan 2021 ki Congress rally se jude aapradhik mamle me Telangana High Court ne Mallu Bhatti Vikramarka aur N Uttam Kumar Reddy ko poori tarah bari kiya — bhhadkaune bayan ka koi saboot nahi mila',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hyderabad/telangana-hc-quashes-criminal-case-against-bhatti-uttam/articleshow/123371985.cms',
+    date: '2025-08-18',
+    note: 'Times of India (Aug 2025) ke mutabik police ne purani Secretariat aur Lumbini Park se Raj Bhavan tak ki rally bina anumati ke nikali gayi batakar suomotu FIR darj ki thi (Telugu Talli Junction par yatayat baadha ka aarop). Justice K Lakshman ne FIR poori tarah radd kar di — adalat ne kaha yachikakartaon ke khilaf koi saboot nahi aur case jaari rakhna nyaysangat nahi. STAGE-SPASHT: mamla poori tarah band hai — sirf antarim raahat nahi, final quash. MLA ka paksh yahi tha ki case radd ho; adalat ne unhi ke paksh me faisla diya. Tithi inferred: article me aadesh ‘Monday’ ko diya gaya, prakashan Aug 2025 me Monday = 18 Aug 2025. Saha-aaropi N Uttam Kumar Reddy (Huzurnagar MLA/mantri) ki entry par unke khud ke mamle ke niyam se dekha jaye.',
+    period: '2023-2028'
+  }
+];
+
+// ramdas-maloth — 0 entries (QA-checked).
+telanganaWorks['ramdas-maloth'] = [];
+
+// matta-ragamayee — 0 entries (QA-checked).
+telanganaWorks['matta-ragamayee'] = [];
+
+// ==== Mulugu (Batch 11) ====
+// danasari-anasuya-seethakka — 10 entries (QA-checked).
+// danasari-anasuya-seethakka — 10 entries (QA-checked).
+telanganaWorks['danasari-anasuya-seethakka'] = [
+  {
+    title: 'Takkellapadu gaon me 15 din me naya school banakar lokarpit — ladki ki maang par mantri ki dakhal se nirman',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/government-committed-to-comprehensive-village-development-seethakka-1814362',
+    date: '2024-08-05',
+    note: 'Deccan Chronicle ke anusar Takkellapadu gaon ki ek ladki ki school ki maang par mantri ke hastakshep ke baad collector aur SP ne 15 din ke andar naya school banakar lokarpan kiya; article prakashan tak school lokarpit ho chuka tha isliye prakashan tithi di gayi hai. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Mulugu collectorate parisar me Indira Mahila Shakti canteen ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/minister-seethakka-inaugurates-indira-mahila-shakti-canteen-in-mulugu/article68384369.ece',
+    date: '2024-07-09',
+    note: 'Mantri ne Mulugu collectorate parisar me canteen ka lokarpan kiya; SHG mahilaon dwara sanchalit canteen; zila me kul char canteens (ITDA Eturnagaram, Mulugu Area Hospital, Ramappa Mandir Palampet) ghoshit — sirf pehli lokarpit wali entry hai. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Bangarupalli (Kanthanapally GP, Kannaigudem mandal) me rajya ka pehla container school lokarpit',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/minister-seethakka-inaugurates-first-container-school-in-mulugu-district-of-telangana/article68651707.ece',
+    date: '2024-09-17',
+    note: 'Van kshetron me MoEFCC niyamo se permanent school nirman sambhav nahi isliye container-based school; mantri ne lokarpan kiya. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Incherla (Mulugu mandal) me Eco-Ethnic Village aur paryatan pariyojnaon ka Rs 37 crore ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/telangana/seethakka-lays-foundation-for-eco-ethnic-village-at-incherla-in-mulugu/article69947955.ece/amp/',
+    date: '2025-08-18',
+    note: 'NH-163 ke kinare shopping complex aur amphitheatre; pariyojna SASCI (Special Assistance to States for Capital Investment) ke tahat TGTDC dwara, Ramappa sustainable tourism circuit ka hissa. Mantri ne Ramappa Lake me Rs 13 crore ke island vikas ki ghoshna bhi ki — wo alag se ghoshna hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Eturnagaram mandal mukhyalay me Rs 1 crore ke veg/non-veg market ka shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/master-plans-must-for-development-of-villages-seethakka-1909472',
+    date: '2025-10-11',
+    note: 'Mantri ne collector ke saath shilanyas rakha; collector ke anusar 8 mahine ki planning ke baad pariyojna taiyar hui. Tithi inferred: article me ‘Saturday’ likha hai, prakashan ke hisab se Saturday 2025-10-11 banta hai. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Jampanna Vagu par Dolda-Malyala jodne wale pul (Rs 9.50 lakh) ka shilanyas — shilanyas ke 10 mahine baad bhi koi pragati nahi, shilanyas-pat vandalised',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/foundation-stone-for-bridge-vandalised-in-mulugu-1855195',
+    date: '2024-03-16',
+    note: 'Mantri ne 2024-03-16 ko shilanyas rakha tha; DC ki 2025-01-19 ki report ke anusar 10 mahine tak koi kaam shuru nahi hua aur sthaniya logon ki hatasha ke beech shilanyas-pat tod diya gaya. Imaandaar disclosure: kaam poora nahi hua. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Kannaigudem mandal me lagbhag Rs 3.4 crore ke kaam (Laxmipuram gram panchayat bhawan, internal CC sadken, drainage) ka lokarpan/shilanyas',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/seethakka-says-govt-committed-to-resolving-grievances-at-field-level-1956694',
+    date: '2026-05-14',
+    note: 'Praja Darbar ke dauran mantri ne mandal me lokarpan aur shilanyas kiye, jisme Laxmipuram me gram panchayat bhawan, internal CC sadken aur drainage shamil; Boregudem se ST Colony tak Rs 1.45 crore ki sadak pariyojna launch hui. Tithi inferred: article me ‘Thursday’ ka ullekh, search-crawl se Thursday 2026-05-14 banta hai. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Venkatapur mandal ke Nallagunta aur Lakshmidevipet me Rs 2.60 crore ke grameen vikas kaam — CC sadkon ka shilanyas, mahila sangathan bhawan aur sadkon ka lokarpan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hans India',
+    sourceUrl: 'https://www.thehansindia.com/news/cities/warangal/seethakka-launches-rs-260-cr-rural-development-works-1125705',
+    date: '2026-09-26',
+    note: 'Nallagunta me Rs 1.80 crore ki internal CC sadken — 2025-26 CRR funds, Panchayat Raj Engineering Department; Lakshmidevipet me Rs 10 lakh ka mahila sangathan bhawan (2025-26 MGNREGS funds) aur Rs 50 lakh SC SDF + Rs 40 lakh CRR Plain funds se internal CC sadken lokarpit. Donon gaon Venkatapur mandal, Mulugu zila ke hain.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Madhava Rao Palli (Mulugu zila) me Rs 2.3 crore ke naye KGBV bhawan ka lokarpan',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/kgbv-schools-to-ensure-quality-education-for-girls-seethakka-1913028',
+    date: '2025-10-27',
+    note: 'Additional classrooms aur science laboratories wala naya KGBV bhawan; mantri ne collector ke saath lokarpan kiya; collector ke anusar mantri ke nirdesh par record samay me nirman poora hua. Fund-srot ghoshit nahi.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Covid-kaaleen virodh (April 2021, Indira Park) ke mamle me special court me peshi — Aarogyasri me Covid ilaaj ki maang wale case me aaropi ke roop me',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/seethakka-appears-before-court-in-2021-case-booked-for-staging-protest-during-covid-1920435',
+    date: '2025-11-29',
+    note: 'BRS shasan me darj case me mantri Nampally special court for public representatives me apne vakil ke saath pesh hui; case April 2021 me Indira Park me Aarogyasri me Covid ilaaj shamil karne ki maang ke virodh ka hai; court ne mamle ko 18 December par dobara vyaktigat peshi ke liye lagaya. Mantri ka paksh: article ke anusar virodh mahamari me garibon ki madad ke liye tha. STAGE-SPASHT: mamla abhi lambit hai — ye peshi ka charan hai. Tithi inferred: article me ‘Saturday’ ka ullekh, crawl se Saturday 2025-11-29 banta hai. Retry-lead: July 2026 me HC ne proceedings quash ki — whitelisted coverage mile to raahat stage joda jayega.',
+    period: '2023-2028'
+  }
+];
+
+// ==== Narayanpet (Batch 11) ====
+// vakiti-srihari — 1 entry (QA-checked).
+// vakiti-srihari — 1 entry (QA-checked).
+telanganaWorks['vakiti-srihari'] = [
+  {
+    title: 'Makthal me Setwin ka 31st skill training centre ka udghatan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Chronicle',
+    sourceUrl: 'https://www.deccanchronicle.com/southern-states/telangana/setwin-to-expand-skill-training-centres-across-telangana-chairman-1932901',
+    date: '2026-01-26',
+    note: 'Setwin (Society for Employment Promotion & Training) chairman N. Giridhar Reddy ne Republic Day par bataya ki sangathan ka 31st training centre haal hi me Makthal me mantri Vakiti Srihari ne udghatan kiya tha; date inferred — source me udghatan ki exact tithi nahi, sirf ‘recently inaugurated’ kaha gaya; isliye report ki tithi 2026-01-26 li gayi. Fund-srot ghoshit nahi.',
+    period: '2023-2028',
+    stage: 'poorn'
+  },
+];
+
+// chittem-parnika-reddy — 0 entries (QA-checked).
+telanganaWorks['chittem-parnika-reddy'] = [];
+
+// ramdas-maloth — QA-DROP note: Jubilee Hills by-election polling-day MCC case (Madhuranagar PS, Deccan Chronicle 11 Nov 2025) me worker ne negative entry banayi thi; whitelisted page me 'Maloth Ramdas' ko 'Naik's supporter' bataya gaya — sitting MLA ke roop me pehchan pakki nahi (namesake-trap); fail-closed niyam par drop. Retry-lead: whitelisted pushti par restore.
