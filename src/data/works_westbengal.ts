@@ -7446,3 +7446,1463 @@ westbengalWorks['ashok-kumar-deb'] = [];
 //    list nahi mili.
 
 westbengalWorks['abdul-khaleque-molla'] = [];
+
+// ============================================================================
+// BATCH 8 (Hooghly + Jhargram — 22 MLAs, 16/23 jile)
+// ============================================================================
+
+// --- Hooghly ---
+
+// WB BATCH 8 — Hooghly: Uttarpara — dipanjan-chakraborty
+// West Bengal | Dipanjan Chakraborty | Uttarpara (No. 185, Hooghly) | BJP
+// Foundation check: TOI + Indian Express (whitelisted) election results pages confirm
+// Dipanjan Chakraborty (BJP) won Uttarpara on 4 May 2026 with 80,612 votes,
+// beating Sirsanya Bandopadhyay (AITC) by 10,415 votes. 18vi Vidhansabha, term May 2026+.
+// Identity pakki: ex-NSG commando, age 60, sabhi mentions me "Uttarpara BJP MLA" ke
+// roop me naam — namesake risk nahi. Pehli baar ke MLA hain, isliye karyakaal sirf
+// May 2026 se shuru hota hai; usse pehle ka kuch nahi.
+// Khoj ka vivaran: browser.search se multiple angles dhoondhe gaye (works, fund,
+// sanction, inauguration, assembly questions, negatives/FIR), news vertical sahit.
+// Whitelisted sources par post-May 2026 ka ek bhi development work / shilanyas /
+// swikriti / Assembly-mudda-with-outcome nahi mila. MLA abhi tak zyadatar rajnitik
+// bayanon me (PTI/Telegraph me quote) dikhe hain. Natija: khali profile.
+
+// ---------------- REJECT LOG ----------------
+// 1. https://timesofindia.indiatimes.com/india/uttarpara-election-results-2026-tmcs-sirsanya-bandopadhyay-vs-bjps-dipanjan-chakraborty/articleshow/130643812.cms
+//    Wajah: sirf chunav-natija page hai; post-May 2026 koi work content nahi. Reject.
+// 2. https://indianexpress.com/elections/west-bengal-assembly-election/uttarpara-constituency/
+//    Wajah: sirf chunav-natija/candidate-list page hai; koi work content nahi. Reject.
+// 3. https://www.tribuneindia.com/news/india/billboard-with-goddess-durga-beside-biryani-sparks-row-bengal-bjp-mla-says-wont-tolerate-it/
+//    Wajah: PTI story (12 Oct 2026) — Uttarpara Hindmotor me ek biryani outlet ke
+//    poster par Maa Durga ki tasveer ko lekar MLA ne poster hatane ki maang ki aur
+//    aage se "legal action" ki chetavni di. Ye ek rajnitik/dharmik andolan hai,
+//    "sirf maang/prastav" shreni me aata hai — bhautik sarkari sanrachna ka koi
+//    lokarpan/shilanyas ya GO-backed swikriti nahi, isliye work nahi. RETRY-LEAD:
+//    agar MLA baad me ise Vidhansabha me uthayen aur dastaveji nateeja mile to dobara dekho.
+// 4. https://www.telegraphindia.com/west-bengal/tmc-mla-kunal-ghosh-alleges-car-attack-in-kolkatas-beliaghata-within-two-days/cid/2181940
+//    Wajah: page kholkar padha (published 27.09.26) — MLA ka sirf ek rajnitik bayan hai
+//    ("Ghosh was staging drama") car-attack wale vivad par. Koi work nahi. Negative
+//    bhi nahi: Ghosh ke aarop aam taur par "BJP workers" par hain; FIR (agar hui)
+//    unknown individuals ke khilaf hai — MLA khud FIR ke aaropi column me nahi.
+// 5. https://m.economictimes.com/news/politics-and-nation/stones-eggs-hurled-at-car-of-mamata-camps-tmc-mla-kunal-ghosh-in-bengal/amp_articleshow/134501500.cms
+//    Wajah: Economic Times whitelist me NAHI hai; waise bhi content sirf MLA ka
+//    rajnitik bayan ("spontaneous response from the public") hai — koi work nahi.
+// 6. https://www.youtube.com/watch?v=qQIVt_Jnneo
+//    Wajah: YouTube whitelist me NAHI hai; content Nabagram panchayat office ka
+//    "nirikshan/daura" hai — waise bhi "sirf nirikshan" shreni me reject hota.
+// 7. https://www.rpmcollege.edu.in/dbt_events/
+//    Wajah: college ki apni site whitelist me NAHI hai; content dikhata hai ki MLA
+//    Raja Peary Mohan College ke governing-body president hain aur ek conference
+//    inaugurate ki — "samaroh/mukhya-atithi" shreni me reject hota.
+// 8. https://myneta.info/WestBengal2026/candidate.php?candidate_id=1846
+//    Wajah: myneta.info established media nahi (halafnama archive hai); "0 criminal
+//    cases" dikhata hai lekin halafname ke mamle akele Negative nahi bante, aur koi
+//    work content nahi. Reject.
+// 9. https://en.wikipedia.org/wiki/Uttarpara_Assembly_constituency
+//    Wajah: Wikipedia whitelist me NAHI hai; election history hi hai. Reject.
+// 10. https://www.millenniumpost.in/bengal/trinamool-holds-edge-in-howrah-bjp-sweeps-hooghly-658632
+//     Wajah: Millenium Post niyamon me saaf REJECT hai; content bhi sirf chunav
+//     coverage hai. Reject.
+// RETRY-LEADS (koi entry nahi, sirf agli khoj ke liye): (a) BEUP fund — Rs 1 crore
+// per seat per year ki policy ka MLA-dwara spasht upyog kisi whitelisted source me
+// nahi mila, isliye 'ghoshit nahi' joda hi nahi gaya; (b) Vidhansabha questions —
+// Aug 2026+ session me is MLA ka koi ullikhit mudda whitelisted media me nahi mila;
+// (c) Nabagram panchayat inspection wali YouTube khabar ka koi whitelisted-media
+// version nahi mila, isliye retry-lead hi reh gayi.
+// Currency note: koi paisa sambandhi tathya entry me nahi aaya, isliye Rs ka prayog
+// avashyak nahi pada. Inferred dates: koi entry nahi, koi inferred date nahi.
+
+westbengalWorks['dipanjan-chakraborty'] = [];
+
+// WB BATCH 8 — Hooghly: Sreerampur — bhaskar-bhattacharya
+// ============================================================
+// Worker fragment: bhaskar-bhattacharya (West Bengal)
+// Seat: Sreerampur (constituency no. 186, Hooghly district)
+// Party: Bharatiya Janata Party (BJP)
+// Foundation-check: PAKKA — 2026 Vidhan Sabha chunav me BJP ticket par jeete;
+//   85,644 votes; TMC ke Tanmoy Ghosh (76,959 votes) ko 8,685 votes se haraya
+//   (TOI election results page + Indian Express Sreerampur seat page + ABP Live).
+// Tenure: May 2026 se (18vi Vidhansabha) — sirf May 2026 ke baad ke tathya
+//   liye gaye; usse pehle ki har ghatna reject ki gayi.
+// Note: Wikipedia ke anusaar ye 1 June 2026 se PHE aur Labour ke MoS hain;
+//   ye foundation se bahar ka tathya hai, fragment me use nahi kiya gaya.
+// Khoj ka vivaran: 2026-10-19 ko browser.search se 8 targeted khojen ki gayin
+//   (election foundation, seat ke kaam, ministerial kaam, FIR/case negatives,
+//   BEUP fund, assembly mudde). Ek whitelist page (Telegraph India) browser.open
+//   se kholkar poora padha gaya. Kisi bhi whitelist outlet par Sreerampur seat
+//   ke ANDAR May 2026+ ka koi vyaktigat kaam (lokarpan/shilanyas/BEUP/fund/
+//   GO-backed swikriti) nahi mila. Negatives me May 2026+ ka koi naya nyayik
+//   vikas nahi mila. Natija: works 0, negatives 0 — profile khaali rakhi gayi.
+// ============================================================
+
+// ---------------- REJECT-LOG ----------------
+// 1. https://www.telegraphindia.com/west-bengal/bengal-ministers-flag-jal-jeevan-mission-lapses-under-previous-government-prnt/cid/2172271
+//    (The Telegraph India — whitelist outlet; browser.open se kholkar padha;
+//    published 2026-07-29). Wajah: Malda collectorate me Jal Jeevan Mission ki
+//    review meeting ki report hai — Sreerampur seat se BAHAR ka kaam (seat ke
+//    bahar = reject). Saath hi ye nirikshan/aarop/ashwasan ka mamla hai;
+//    koi bhautik sarkari sanrachna ka vyaktigat lokarpan/shilanyas ya
+//    GO-backed swikriti nahi. Work entry nahi ban sakti.
+//
+// 2. https://www.thestatesman.com/bengal/west-bengal-minister-talks-of-industries-revival-public-transport-upgrade-1503604565.html
+//    (The Statesman). Wajah: whitelist me NAHI hai — reject. Saath hi sirf
+//    portfolio priorities ka interview/ghoshna hai, koi dastaveji kaam nahi.
+//
+// 3. https://www.thestatesman.com/cities/kolkata/bengal-labour-mos-seeks-feedback-from-wage-code-orders-probe-into-jal-jeevan-mission-1503622125.html
+//    (The Statesman). Wajah: whitelist me nahi; Malda ka daura + Mathurapur
+//    anti-erosion ashwasan — seat se bahar + sirf ashwasan.
+//
+// 4. https://www.thestatesman.com/cities/kolkata/bengal-mos-seeks-resignation-of-english-bazar-municipality-chairman-he-rejects-1503622498.html
+//    (The Statesman). Wajah: whitelist me nahi; English Bazar municipality
+//    chairman se istife ki maang — rajnaitik bayanbazi, koi kaam nahi.
+//
+// 5. https://www.etvbharat.com/en/state/corruption-worth-crores-in-malda-jal-jeevan-mission-bengal-minister-says-no-one-will-be-spared-enn26073007091
+//    (ETV Bharat). Wajah: whitelist me nahi; Malda Jal Jeevan Mission me
+//    bhrashtachar ke aarop — seat se bahar.
+//
+// 6. https://indianmasterminds.com/news/bhaskar-bhattacharya-resigns-pfc-west-bengal-elections-195452/
+//    (Indian Masterminds). Wajah: whitelist me nahi; April 2026 ki ghatna
+//    (May 2026 se pehle) — pre-term reject.
+//
+// 7. http://republicpost.in/bjp-candidate-bhaskar-bhattacharya-takes-campaign/
+//    (Republic Post). Wajah: whitelist me nahi; April 2026 ka chunav prachar — pre-term reject.
+//
+// 8. https://thejharkhandstory.co.in/bengal-cabinet-tapas-roy-swapan-dasgupta-among-35-mlas-sworn-in-as-ministers/
+//    (The Jharkhand Story). Wajah: whitelist me nahi; mantri shapath samaroh ki khabar — koi kaam nahi.
+//
+// 9. https://myneta.info/WestBengal2026/candidate.php?candidate_id=2180
+//    (myneta affidavit). Wajah: 2017 ka NGR-1160/17 (Chandanagar, Section 32
+//    Police Act) ka lambit mamla dikhata hai — ye halafname ka PURANA mamla hai;
+//    May 2026+ me iska koi nyayik vikas nahi mila. Negatives niyam ke anusaar
+//    pre-term mamla bina May 2026+ vikas ke = reject. Negative entry nahi bani.
+//
+// 10. sooperkanoon.com par 2004-05 ke 'Bhaskar Bhattacharya, J.' wale faisle —
+//     ye Calcutta High Court ke nyayadhish hain, Sreerampur ke MLA se alag
+//     vyakti hain; namesake trap se bache.
+//
+// 11. TOI ka 2007 ka arsenic-free water wala article ('said Bhattacharya') —
+//     ye 2007 ke kisi mantri ka bayan hai, ye MLA nahi; namesake trap.
+//
+// 12. lokmattimes.com / indiasnews.net par ANI wali khabar (TMC MPs ki alag
+//     seating par bayan, June 2026). Wajah: whitelist me nahi; rajnaitik
+//     tipanni hai, koi kaam nahi.
+//
+// 13. BEUP fund: kisi bhi whitelist source me Sreerampur seat ke liye BEUP fund
+//     ke istemal ya ghoshna ka ullekh nahi mila. 'Ghoshit nahi' wali line tabhi
+//     aati jab koi kaam ho — yahan koi kaam hi nahi mila, isliye entry nahi bani.
+
+westbengalWorks['bhaskar-bhattacharya'] = [];
+
+// WB BATCH 8 — Hooghly: Champdani — dilip-singh
+// ============================================================
+// FRAGMENT: wb8_worker_dilip-singh.ts
+// MLA: Dilip Singh | Seat: Champdani (Hooghly, Vidhan Sabha 187)
+// Party: BJP | Karyakaal: 2026-2031 (18vi Vidhan Sabha, May 2026+)
+// ============================================================
+//
+// FOUNDATION-CHECK (edit nahi, flag):
+// - Pehchaan pakki: Dilip Singh (BJP) = Champdani; Dilip Ghosh (Kharagpur Sadar)
+//   aur Dilip Mondal (Bishnupur) teeno alag vyakti — koi mixup nahi hua.
+// - Jeet: 4 May 2026, 93,704 vote; Arindam Guin (AITC) ko 3,026 se haraya
+//   (source: TOI / Indian Express election results — election coverage,
+//   isliye works me entry nahi).
+//
+// KHOJ KA SAR (19 Oct 2026 tak):
+// - browser.search se 10+ queries chali: inauguration, foundation stone,
+//   road/school/hospital, assembly question, development, FIR/negative,
+//   Telegraph/HT/IE-specific aur news-vertical queries.
+// - Whitelisted outlets (The Hindu, IE, HT, NDTV, India Today, TOI,
+//   Telegraph, PTI) par May 2026 ke baad Dilip Singh (Champdani) ke
+//   VYAKTIGAT kaam ki koi post-event reporting nahi mili.
+// - Sab kuch mila ya to pre-term election coverage tha, ya dusre netaon
+//   (Humayun Kabir, Bijay Ojha) ka mamla, ya non-whitelist portal.
+// - Isliye: zero valid entries — westbengalWorks['dilip-singh'] = [];
+//
+// ============================================================
+// REJECT-LOG (har rejected lead: source URL + wajah)
+// ============================================================
+//
+// R1. https://m.dailyhunt.in/news/india/english/hindusthan+samachar+english-epaper-hinsamen/champdani+mla+dilip+singh+named+member+of+west+bengal+assemblys+standing+committee+on+industry+commerce+and+enterprises-newsid-n722286243
+//     (Dailyhunt, 6 Aug 2026 — Standing Committee on Industry, Commerce and
+//     Enterprises me member banaye jaane ki khabar)
+//     REJECT: (a) Dailyhunt whitelist me nahi; (b) committee membership
+//     koi bhautik kaam/lokarpan/swikriti nahi — works criteria me aata hi nahi.
+//
+// R2. https://www.businesstoday.in/elections/west-bengal/champdani-constituency-result-19187
+//     (Business Today, 4 May 2026 — Champdani jeet ki live coverage)
+//     REJECT: pre-term election result coverage; karya-kaam nahi.
+//     (Business Today whitelist me nahi hai.)
+//
+// R3. https://indianexpress.com/elections/champdani-election-result-live-updates-west-bengal-assembly-election-results-winner-10670049/
+//     (Indian Express, 4 May 2026 — Champdani election results)
+//     REJECT: pre-term election coverage; works entry nahi ban sakti.
+//
+// R4. https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/champdani
+//     (TOI constituency page — seat profile, 2021/2026 election history)
+//     REJECT: sirf election history/seat profile; koi May 2026+ ka
+//     vyaktigat kaam mention nahi.
+//
+// R5. https://www.thestatesman.com/bengal/bjp-names-all-seven-candidates-from-hooghly-district-1503572041.html
+//     (The Statesman, 20 Mar 2026 — BJP candidate list: Dilip Singh from Champdani)
+//     REJECT: pre-term (chunav se pehle); The Statesman whitelist me nahi.
+//
+// R6. https://www.ndtv.com/video/bjp-mla-s-mistakes-happen-remark-on-kolkata-stampede-triggers-row-1176440
+//     (NDTV, 18 Oct 2026 — Kolkata stampede par ek BJP MLA ka remark)
+//     REJECT: is story me MLA ka naam Champdani ke Dilip Singh se match nahi
+//     hota; pehchaan pakki nahi — namesake trap se bachne ke liye reject.
+//
+// R7. https://www.nationpress.com/all/mla-kabir-arrested-for-grabbing-cop-in-bengal-bypoll
+//     https://www.tribuneindia.com/news/india/bengal-humayun-kabir-hints-at-quitting-electoral-politics-after-arrest-during-rejinagar-bypoll/
+//     (Humayun Kabir, Rejinagar/Naoda MLA — giraftari)
+//     REJECT: dusra vyakti/dusri seat — Dilip Singh/Champdani se sambandh nahi.
+//
+// R8. https://www.telegraphindia.com/west-bengal/vote-loot-in-nandigram-rejinagar-bypolls-police-election-commission-helped-bjp-congress/cid/2183440
+//     (Telegraph, 6 Oct 2026 — Nandigram/Rejinagar bypoll)
+//     REJECT: Champdani ka koi zikr nahi; Dilip Singh story me nahi.
+//
+// R9. https://www.millenniumpost.in/bengal/trinamool-holds-edge-in-howrah-bjp-sweeps-hoogly-658632
+//     (Millenium Post, 5 May 2026 — Hooghly results: Dilip Singh won Champdani)
+//     REJECT: (a) Millenium Post whitelist me nahi; (b) pre-term election
+//     result coverage, works nahi.
+//
+// R10. Snippet-only leads (browser.open se khole bina) — jaise 'Dilip Singh
+//      Baidyabati' par mili hindusthansamachar wali dailyhunt copy:
+//      Snippet-only tathya retry-lead hota hai, entry kabhi nahi — aur wo
+//      lead R1 wali hi thi (committee membership = works nahi).
+//
+// RETRY-LEADS: koi bacha nahi — committee-membership wali lead works
+// criteria me aati hi nahi, baaki sab election/dusre-vyakti coverage.
+// Khaali profile hi sahi outcome hai (galat entry se behtar).
+//
+// ============================================================
+// ASSIGNMENT (ek hi line)
+// ============================================================
+
+westbengalWorks['dilip-singh'] = [];
+
+// WB BATCH 8 — Hooghly: Singur — arup-kumar-das-singur
+// MLA PEHCHAN — seat se pakka kiya gaya:
+// Naam: Arup Kumar Das (BJP ki third candidate list me "Dr Arup Kumar Das"), Party: BJP, Seat: Singur (AC 188, Hooghly)
+// 2026 me isi seat se BJP ticket par jeete — 113,008 votes, AITC ke Becharam Manna se 21,438 ka margin
+// (Indian Express / TOI election result pages, 4 May 2026; Business Today liveblog).
+// Affidavit (myneta, candidate_id=1540): age 52, businessman, Diploma in Orthopaedics (University of Calcutta, 2005),
+// assets Rs 3.9 crore, ZERO criminal cases. 4 May 2026 se karyakaal (18vi Vidhansabha), period hamesha 2026-2031.
+// NAMESAKE TRAP SAaf kiya gaya: Kanthi Dakshin (AC 216) 2026 me bhi "Arup Kumar Das" (BJP) jeete (118,219 votes,
+// TOI/IE result pages) — lekin wo ALAG vyakti hain: age 68, post graduate, assets Rs 1.11 crore, 3 criminal cases.
+// Singur wale: 52 saal, Orthopaedics diploma, zero cases. Dono ko kabhi mix mat karna — Kanthi Dakshin ka koi
+// kaam seat ke bahar hota. Arup Roy (Howrah Madhya, AITC) teesra alag vyakti hain.
+// Foundation record parent ke mutabik pakka hai — field ko chhua nahi gaya.
+// BEUP: koi source nahi mila jo Singur ke liye fund-release ya sanstha-gat swikriti kahe — 'ghoshit nahi'.
+// Mining date: 2026-10-19. 7 search rounds; koi whitelist page kholna pada hi nahi kyunki koi entry-worthy
+// lead hi nahi mili (snippet se sab pre-term, vaada, dusre ka kaam ya namesake nikle).
+
+// REJECT LOG — har lead + reason + URL:
+// 1. ANI piece (5 Apr 2026, syndicated: asianetnews/lokmattimes/webindia123/latestly): "BJP candidate Arup Kumar
+//    Das from Singur" ne industry, super-speciality hospital (cardiology/nephrology/neurology), higher-secondary
+//    school, central school, Kendriya Vidyalaya ke VAADE diye. Pre-term (chunav se pehle) + sirf ghoshna —
+//    pre-event announcement rule se source nahi. Entry nahi.
+//    URL: https://newsable.asianetnews.com/india/singur-farmers-open-to-industry-on-infertile-land-not-fertile-fields-articleshow-xloq05m
+//    URL: https://www.lokmattimes.com/national/west-bengal-singur-farmers-open-to-industry-but-draw-line-at-fertile-land-ahead-assembly-elections/
+// 2. PM Modi ke 18 Jan 2026 Singur projects — Rs 830 crore (Balagarh Extended Port Gate System + IWT terminal +
+//    Road Over Bridge, Jayrambati-Barogopinathpur-Maynapur rail line, Amrit Bharat trains). Pre-term (MLA ne
+//    4 May 2026 ko office sambhala) + PM/Kendra ka kaam — MLA ki vyaktigat bhoomika ka koi zikr nahi. Reject.
+//    URL: https://www.newkerala.com/news/a/west-bengal-pm-modi-inaugurates-flags-off-projects-581.htm
+//    URL: https://economictimes.indiatimes.com/news/india/pm-modi-to-launch-key-infrastructure-projects-in-singur-west-bengal-today-boosting-states-growth/articleshow/126636947.cms
+// 3. Mamata Banerjee ka Singur me agro-industrial park (8 acre, Rs 9.2 crore) + Amazon/Flipkart warehouse ka elaan
+//    (bharathorizon, pre-election report). Pre-term + purani TMC sarkar ka kaam — MLA ka karyakaal hi May 2026
+//    se hai. Reject.
+//    URL: https://bharathorizon.com/politics/state-politics/mamata-promises-industrial-agricultural-balance-in-singur.html
+// 4. Rs 1,500 crore chemical park proposal — BJP state president Samik Bhattacharya ne CM Suvendu Adhikari ko
+//    bheja (30 July 2026, dailykiran): Singur ko 4 sambhavit jagahon me se ek bataya. Sirf prastav (proposal stage),
+//    MLA Arup Kumar Das ki koi dastaveji bhoomika nahi, aur source whitelist me nahi. "Sirf maang/prastav" rule se reject.
+//    URL: https://dailykiran.com/bjp-proposes-%e2%82%b91500-crore-chemical-park-in-singur-west-bengal/
+// 5. Samik Bhattacharya ka chunav-se-pehle vaada "Singur plot par industry lagayenge agar BJP aayi" (channel6network,
+//    Jan 2026) — pre-term party-level vaada, MLA ka kaam nahi, non-whitelist source. Reject.
+//    URL: https://channel6network.com/singur-industry-promise-bjp-2026/
+// 6. ETV Bharat Singur topic page: "Calcutta HC Stays Order For Rs 765.78 Cr Compensation To Tatas Over Failed
+//    Singur Factory Project" (8 May 2026). Ye May 2026+ nyayik vikas hai LEKIN purana Tata arbitration mamla hai
+//    (award Oct 2023) — MLA isme party/arpit NAHI, unki taraf se koi FIR/yachika/adalati bhoomika nahi. Negative
+//    rule ("MLA khud aaropi + FIR/janch") poora nahi hota. Reject.
+//    URL: https://www.etvbharat.com/en/_singur
+// 7. ETV Bharat result article ki line: "lost against BJP's sitting MLA from Kanthi Dakshin Arup Kumar Das" —
+//    FACTUAL ERROR/confusion hai. Kanthi Dakshin 2026 me bhi Arup Kumar Das (BJP) hi jeete (TOI/IE result pages),
+//    matlab Kanthi Dakshin wale wahi seat par rahe — ye dono alag vyakti hain (affidavit data upar). ETV ka ye
+//    daava Singur wale MLA se nahi jod sakta. Namesake trap se bachne ke liye flag kiya, entry nahi.
+//    URL: https://www.etvbharat.com/en/bharat/west-bengal-assembly-election-2026-singur-constituency-results-becharam-manna-enn26050202781
+//    URL: https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/kanthi-dakshin
+// 8. Chunav result/liveblog pages (Indian Express, TOI, Business Today, ABP, India TV candidate profile,
+//    Free Press Journal profile) — sirf pehchan/jeet ki pushti ke liye use hue; kaam ki entry nahi.
+//    URL: https://indianexpress.com/elections/singur-election-result-live-updates-west-bengal-assembly-election-results-winner-10670503/
+//    URL: https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/singur
+// 9. KMDA road renovation tenders (Chinsurah municipality wards) — Chunchura seat ka ilaka hai, Singur ka nahi;
+//    MLA ki vyaktigat bhoomika ka koi zikr nahi. "Nagar-palika ke kaam bina MLA bhoomika" rule se reject.
+//    URL: https://kmda.wb.gov.in/upload_file/tender/44_SE_C-II_RB_KMDA_W-28_(Part-VIII).pdf
+// 10. NEGATIVES CHECK: affidavit me "No criminal cases" (myneta candidate_id=1540, Crime-O-Meter blank); whitelist
+//     media me May 2026+ me inke khilaf koi FIR/chargesheet/janch/adalati notice ki khabar nahi mili. Negative entries zero.
+
+// RETRY-LEADS: koi nahi. Sab leads snippet se hi pre-term, sirf-vaada, dusre-neta/sarkar ka kaam, ya namesake-trap
+// nikle; koi entry-worthy claim whitelist page kholkar verify karne layak hi nahi tha. Koi 403/blocked page nahi.
+
+// PARTY-FIELD: koi flag nahi. Party = BJP (parent task ke mutabik), field ko chhua nahi gaya.
+
+// wb8 — arup-kumar-das-singur (Singur, Hooghly, BJP)
+westbengalWorks['arup-kumar-das-singur'] = [];
+
+// WB BATCH 8 — Hooghly: Chandannagar — deepanjan-kumar-guha
+// wb8 worker fragment — deepanjan-kumar-guha (Chandannagar AC-189, BJP)
+// FOUNDATION-CHECK: Naam Deepanjan Kumar Guha | Seat Chandannagar (spelling: foundation me 'Chandannagar') | Party BJP — teeno pakke (EC/NDTV/Indian Express/Telegraph sabhi ek hi vyakti batate hain; 4 May 2026 ko Indranil Sen (AITC) ko 13,441 vote se haraya; 2021 me isi seat se BJP ticket par ladkar haare the — namesake nahi).
+// KHOJ: 10+ web searches (works, negatives, LAD/BEUP, Vidhansabha mudde, outlet-specific) + 1 whitelist page (Telegraph) poora padha. May 2026+ ki post-event reporting me MLA ke vyaktigat kaam ka sirf 1 dastaveji mamla mila — Sep 2026 me tourism minister dwara unke sujhav par diya ashwasan. Koi lokarpan/shilanyas/GO-swikriti/itemized LAD list nahi mili. Negative: May 2026+ me koi FIR/chargesheet/adlalati vikas nahi.
+
+// REJECT-LOG (deepanjan-kumar-guha — Chandannagar, BJP, karyakaal May 2026–2031):
+// 1. Telegraph India 'Chandernagore reclaims French past' (event 11 Sep 2026): Registry Building restoration (~Rs 5.74 crore) tourism vibhag ka project hai; MLA ne use inaugurate nahi kiya, wo manch par bas maujood the — poori project ka shrey REJECT. SIRF ek line usable hai: 'He also agreed to a suggestion from local MLA Deepanjan Guha to introduce a light-and-sound show on Chandernagore’s freedom fighters.' → isse 1 ashwasan entry bani (stage: ashwasan, credit capped).
+// 2. The Week (11 Sep 2026): Registry Building restoration launch ki corroboration hai, par The Week whitelist me nahi — source ke roop me REJECT.
+// 3. TOI 'Bonjour Chandernagore' (7 Sep 2026): festival ki PRE-EVENT ghoshna — pre-event announcement source nahi, REJECT (entry me istemal nahi).
+// 4. The Statesman (Feb 2026, epaper): pre-election analysis, pre-term + The Statesman whitelist me nahi — REJECT.
+// 5. The Statesman 'BJP announces five more candidates' (27 Mar 2026): pre-term ummeedvari ki khabar — karya-kaam nahi, REJECT.
+// 6. webindia123 (7 Jan 2026): BJP West Bengal secretaries ki list me 'Deepanjan Guha' — pre-term party pad, kaam nahi — REJECT.
+// 7. lokmattimes (30 May 2026): Chandernagore Municipal Corporation ke 30 TMC councillors ka isteefa / board bhang hone ki sambhavna — nagar-palika ka mamla, MLA ki koi vyaktigat dastaveji bhoomika nahi + whitelist me nahi — REJECT.
+// 8. thedeeptrailblazer.substack.com: 'Deepanjan Guha' naam ka Mahashivratri-blogger — NAMESAKE TRAP, Chandannagar MLA nahi — REJECT.
+// 9. courts (indiankanoon/courtkutchehry): 'Deepanjan Guha vs Rajesh Gupta' 1991 ka ONIDA dealership case — purana vyaparik mukadma, MLA se sambandhit nahi — REJECT.
+// 10. The Statesman tag 'Accused MLA' (bail plea khabar): naam ka khulasa nahi, pehchan pakki nahi ho saki + whitelist me nahi — REJECT.
+// 11. BEUP/MLA-LAD: TOI budget report (whitelist, Jun 2026) kehti hai fund Rs 70 lakh se badhkar Rs 1 crore/saal hua — par Chandannagar seat par koi itemized sanction list ya MLA ki sifarish ka ullekh kisi source me nahi — 'ghoshit nahi', entry nahi bani.
+// 12. Vidhansabha mudda / GO-swikriti: koi bhi whitelist source me Guha dwara Vidhansabha me uthaye gaye mudde ka dastaveji nateeja nahi mila — entry nahi.
+// 13. Negative check: Indian Express candidate list (2026 halafnama) me 1 pending case darj hai — raw halafnama aankda akela negative nahi (nirdesh: halafname ke mamle akele reject). May 2026+ me FIR/chargesheet/janch ya adalati aadesh ki koi whitelist reporting nahi mili — koi negative entry nahi.
+// 14. RETRY LEADS: (a) aane wali Jagaddhatri Puja (Nov 2026) ke aas-paas MLA ki bhoomika par post-event whitelist reporting; (b) BEUP Rs 1 crore ke kharch ki itemized list westbengal.gov.in / Hooghly zila portal par mil jaye to; (c) Telegraph wale light-and-sound show par 3–6 mahine baad follow-up — hua ya sirf ashwasan raha.
+
+// QA: ~10 searches + 1 whitelist page full-read; date inference: Telegraph article (published ~13 Sep 2026) me event 'Friday' bataya gaya, 2026-09-11 Friday tha — entry date 2026-09-11 inferred, note me disclosed. Entries 1, negatives 0, rejects 13+1, retry leads 3.
+
+westbengalWorks['deepanjan-kumar-guha'] = [ { title: 'Chandannagar ke swatantrata senaniyon par light-and-sound show ka sujhav — tourism minister ne ashwasan diya', category: 'Any', badge: 'news', sourceLabel: 'The Telegraph', sourceUrl: 'https://www.telegraphindia.com/west-bengal/kolkata/chandernagore-reclaims-french-past-registry-building-to-anchor-little-europe-prnt/cid/2179646', date: '2026-09-11', note: 'Registry Building restoration launch karyakram (Chandannagar Festival) me sthaniya MLA Deepanjan Guha ne Chandannagar ke swatantrata senaniyon par light-and-sound show ka sujhav diya; tourism minister Shankar Ghosh ne manch par is sujhav ko sweekar kiya. Credit capped: poora restoration project (~Rs 5.74 crore, tender prakriya) tourism vibhag ka hai — MLA ka vyaktigat yogdan sirf ye sujhav hai jise mantri ne sweekara; show par vastavik kaam hua ya nahi, iska koi dastaveji nateeja report me nahi. Date inferred: article me event ‘Friday’ bataya gaya aur 11 Sep 2026 Friday tha.', period: '2026-2031', stage: 'ashwasan' }, ];
+
+// WB BATCH 8 — Hooghly: Chunchura — subir-nag
+// =====================================================================
+// AapkaNeta.org — West Bengal works-mining worker fragment
+// MLA: Subir Nag (slug: 'subir-nag')
+// Seat: Chunchura (AC-190), District: Hooghly, Party: BJP
+// Karyakaal: 2026-2031 (sapath/assumed office: May 2026 — Wikipedia;
+// seat predecessor Asit Mazumdar; 2026 me Debangshu Bhattacharya
+// (AITC) ko 43,435 votes se haraya; IE candidate page: 8 affidavit cases)
+// Foundation pakki: wb_roster.json — Chunchura #190, winner Subir Nag,
+// Bharatiya Janata Party, Hooghly, GEN. Roster + Wikipedia + IE +
+// Telegraph candidate-list sab ek hi pehchan par mile hain —
+// namesake trap nahi mila.
+// Search rounds: 8 (May 2026+ ke liye; spelling variants Subir/Subir Nag,
+// Chunchura/Chinsurah; NDTV/IE/HT/TOI/Telegraph/PTI angles;
+// Bengali-script search bhi: lead mile, lekin outlet non-whitelist)
+// =====================================================================
+//
+// REJECT-LOG — har lead khola/search-padhha gaya, kaaran ke saath reject:
+//
+// R1. aajkaal.in (29 Sep 2026, 18:31): "MLA Subir Nag Gets Angry After
+//     Noticing Damaged Road In Chinsurah" — Chunchura municipality ward
+//     12 me Pathashree sadak/nikashi nirikshan, kharab drainage kaam
+//     dekhkar kaam turant rokne ka nirdesh (page kholkar padha gaya)
+//     REJECT as work: sirf nirikshan/daura + dhamki-nirdesh — na koi
+//     lokarpan, na shilanyas, na bhautik sarkari sanrachna, na fund
+//     disclosed; inspection rule fail. REJECT as source: aajkaal.in
+//     whitelist par nahi (The Hindu/IE/HT/NDTV/India Today/TOI/Telegraph/
+//     PTI nahi). Snippet-level bhi entry nahi ban sakta — retry-lead
+//     rakha gaya (neeche dekho), lekin work rule se waisi bhi reject.
+//
+// R2. bengali.hindusthansamachar.in (10 Oct 2026): Mahalaya par Chunchura
+//     Branch School maidan me RSS ke path sanchalan me MLA Subir Nag ki
+//     bhagidari (search snippet)
+//     REJECT: dusre neta/sangathan ke karyakram me maujoodgi = kaam
+//     nahi; outlet bhi whitelist par nahi (Hindusthan Samachar PTI nahi).
+//
+// R3. TOI (kholkar padha gaya): "Former TMC MLA Asit Mazumdar arrested
+//     in 2014 case, court grants bail" (Chinsurah, ~July 2026; accused
+//     Nag ke predecessor Asit Mazumdar, BNS dharaon me 2014 ki shikayat)
+//     REJECT as negative: FIR/arrest me MLA Subir Nag aaropi NAHI —
+//     sirf "local BJP MLA Subir Nag" ke roop me quoted pratikriya;
+//     negative rule (MLA khud aaropi) poora nahi hota. As work: koi
+//     sanrachna/mudda nahi — news quote hai, entry nahi.
+//
+// R4. Indian Express candidate page (Chunchura): Subir Nag — 8 cases,
+//     Rs 3.72 crore assets (search snippet + crawl data)
+//     REJECT as negative: halafnama ke mamle AKELE reject hote hain;
+//     May 2026+ me inme se kisi me koi nyayik vikas (adalat aadesh/
+//     chargesheet/FIR-in-term) kahi report nahi.
+//
+// R5. Telegraph India (May 2026): BJP candidate list — Subir Nag
+//     Chunchura se fielded (search snippet)
+//     REJECT: pre-term election news (chunav-khabar), karyakaal May 2026
+//     ke baad ka kaam nahi.
+//
+// R6. IANS budget story (22 June 2026, via lokmattimes): Bengal budget
+//     me MLA-LAD fund Rs 70 lakh se badhkar Rs 1 crore (search snippet)
+//     REJECT: general sarkari policy hai — Subir Nag ko kisi vishisht
+//     fund ki swikriti/spasht allocation ki khabar nahi; BEUP rule
+//     (source spasht kahe) fail.
+//
+// R7. PM Modi Singur visit stories (Jan 2026, multiple outlets):
+//     Rs 830 crore projects, Balagarh port gate, Amrit Bharat trains
+//     REJECT: May 2026 se PEHLE + PM ke kaam, MLA ka vyaktigat
+//     lokarpan/shilanyas nahi.
+//
+// R8. Telegraph India old pieces (2019-2024): Subir Nag as Hooghly BJP
+//     district president/state committee member — bus-attack duel
+//     (2019), Gurap firing (2019), Vivekananda event (2024) (search
+//     snippets; pehchan consistent: Hooghly BJP neta hi Chunchura MLA)
+//     REJECT: sab pre-term + Nag kahin aaropi nahi, sirf party
+//     commentator; koi May 2026+ kaam/negative nahi.
+//
+// NATEEJA: 8 search rounds + 2 page-open ke baad May 2026+ ka koi VALID
+// work (lokarpan/shilanyas/GO-backed swikriti/BEUP itemized) nahi mila,
+// aur koi VALID negative (FIR me aaropi + nyayik vikas) bhi nahi mila.
+// Khali profile galat entry se behtar — entry ZERO.
+//
+// RETRY-LEADS (agle worker ke liye, entry banane ki shart par nahi):
+// L1. Aajkaal wala 29 Sep 2026 ward-12 road/drain nirikshan — TOI Kolkata
+//     / Telegraph (India) me cover hua ho to dhundho; dhyaan rahe:
+//     milne par bhi sirf nirikshan hai, work rule se reject hi rahega.
+// L2. 8 affidavit cases me se kisi me May 2026+ nyayik vikas aaye
+//     (Calcutta HC order/chargesheet) to whitelist source se negative
+//     entry ban sakti hai — abhi tak kuch nahi mila.
+// L3. BEUP/MLA-LAD 2026-27 ke itemized sanction list me "Chunchura"
+//     dikhe to alag se jodna — abhi sirf general Rs 1 crore policy hai,
+//     Nag-specific kuch nahi.
+//
+// =====================================================================
+
+westbengalWorks['subir-nag'] = [];
+
+// WB BATCH 8 — Hooghly: Balagarh (SC) — sumana-sarkar
+// ============================================================
+// FRAGMENT: sumana-sarkar | Sumana Sarkar
+// Seat: Balagarh (SC), Hooghly, West Bengal | Party: BJP
+// ============================================================
+// FOUNDATION-CHECK (pakka):
+// - Sumana Sarkar (BJP) ne Balagarh (SC) seat 2026 me jeeti: 1,25,624 votes,
+//   TMC ke Ranjan Dhara (83,710) par 41,914 ka margin. (Indian Express, whitelist)
+// - Pehle ke MLA: Manoranjan Byapari (AITC, 2021).
+// - 1 June 2026 ko Suvendu Adhikari sarkar me Minister of State
+//   (Health & Family Welfare) ke roop me shapath li. (The Hindu + NDTV, whitelist)
+//   Iske baad unki gatividhi me minister-wale kaam bhi shamil hain, lekin
+//   seat-se-jude bhautik kaam ka koi whitelist-documented tathya nahi mila.
+// KHOJ KA SANKSHIPTA VIVARAN:
+// - browser.search se 7 round khoj ki: chunav-result, minister-shapath,
+//   Balagarh port road, boat-makers cooperative, midnight hospital visit,
+//   Vidhansabha-mudda, controversy/FIR sabhi angles par.
+// - Whitelisted outlets (The Hindu, Indian Express, HT, NDTV, India Today,
+//   TOI, The Telegraph India, PTI-on-established) me unke naam se sirf
+//   chunav-jeet, cabinet-shapath, CM ke saath maujoodgi, aur ek team-visit
+//   mila - inme se koi bhi 'valid works' ki definition me nahi aata.
+// - Niche har pramukh lead ka reject-log hai (URL + wajah).
+// - KARYAKAAL SAKHT: sirf May 2026+; March 2026 ki ghatna reject.
+// - NATEEJA: works = 0, negatives = 0. Khali profile behtar hai galat entry se.
+// ============================================================
+
+// REJECT-LOG (har reject ka source URL + wajah):
+//
+// 1. Balagarh Boat Industrial Cooperative Society ko ~Rs 10 lakh ke
+//    industrial equipment (tender se sarkari kharid) - The Statesman,
+//    12 Sep 2026. Article me likha hai 'With the intervention of Balagarh
+//    MLA Sumana Sarkar... the government procuring the equipment through a
+//    tender and delivering it to the cooperative.'
+//    URL: https://www.thestatesman.com/cities/kolkata/bengal-govt-support-brings-festive-cheer-to-balagarh-boat-makers-1503637728.html/amp
+//    WAJAH: REJECT - The Statesman whitelist me NAHI hai. RETRY-LEAD:
+//    yahi kahani whitelist outlet (TOI / Telegraph India / HT / IE /
+//    NDTV / India Today / The Hindu / PTI-on-established) par mile to
+//    entry ban sakti hai (documented sarkari swikriti + MLA ki dastaveji
+//    bhoomika). Filhal whitelist-par-nahin milne ki wajah se entry nahi.
+//
+// 2. Balagarh mini port road work (Rs 539 crore) - maritimegateway.com /
+//    indiashippingnews.com (Sangbad Pratidin report par based). MLA Sumana
+//    Sarkar samaroh me upasthit thin.
+//    URL: https://www.maritimegateway.com/balagarh-port-road-project/
+//    URL: https://indiashippingnews.com/infrastructure/balagarh-mini-port-in-hooghly-gets-%E2%82%B9539-crore-road-and-bridge-push/
+//    WAJAH: REJECT - (a) source whitelist me nahi; (b) MLA sirf foundation
+//    ceremony me upasthit thin, unka apna koi lokarpan/shilanyas nahi
+//    (dusre neta ke karyakram me maujoodgi); (c) foundation stone PM ne
+//    18 Jan 2026 ko Singur me rakha tha aur work-order Jan 2026 ka - dono
+//    karyakaal (May 2026) se pehle ke.
+//
+// 3. Midnight surprise visit to JNM Hospital, Kalyani (medical student ke
+//    bhes me) - Times Now, 17 Jul 2026; bhaskarenglish.in.
+//    URL: https://www.timesnownews.com/india/west-bengal-mos-health-sumana-sarkar-makes-surprise-midnight-visit-to-govt-hospital-disguising-as-medical-student-article-155118473
+//    URL: https://www.bhaskarenglish.in/local/west-bengal/news/health-minister-disguise-kalyani-hospital-midnight-inspection-senior-doctors-cleanliness-west-bengal-138460449.html
+//    WAJAH: REJECT - (a) Times Now whitelist me nahi; (b) yah sirf
+//    nirikshan/daura hai, koi dastaveji nateeja/ashwasan report nahi;
+//    (c) hospital Nadia jile ke Kalyani me hai - seat (Balagarh) ke bahar.
+//
+// 4. CM Suvendu Adhikari ke saath custody-death wale Keot parivar ke ghar
+//    visit - The Telegraph India, whitelist outlet.
+//    URL: https://www.Telegraphindia.Com/west-bengal/in-visit-to-keot-family-and-custody-death-action-suvendus-lesson-for-mamata-prnt/cid/2174372
+//    WAJAH: REJECT - CM ke saath sirf maujoodgi (accompanied ministers me
+//    naam); MLA ka koi vyaktigat kaam/fund/bhoomika nahi dikhti. Muavza
+//    CM ne ghoshit kiya, MLA ne nahi.
+//
+// 5. Bhutni flood-ravaged area ka minister-team visit (Telegraph India,
+//    20 Sep 2026) - minister team me Sumana Sarkar ka naam.
+//    URL: https://www.telegraphindia.com/west-bengal/suvendus-ministers-inspect-flood-ravaged-bhutni-centre-bengal-and-bihar-govts-to-sit-together-find-a-permanent-solution-to-natural-disaster-shankar-ghosh-prnt/cid/2180781
+//    WAJAH: REJECT - sirf nirikshan/daura; Bhutni Malda me hai (seat ke
+//    bahar); koi vyaktigat dastaveji bhoomika ya nateeja nahi.
+//
+// 6. BJP workers ka Balagarh nominee ke khilaf protest (Salt Lake office) -
+//    The Telegraph India, 25 Mar 2026, whitelist outlet. Workers ne aarop
+//    lagaya ki Sarkar TMC se aayi thin aur unke sahyogiyon ne BJP workers
+//    ko 'gunpoint par rakha, torture kiya, ghar todhe'.
+//    URL: https://www.Telegraphindia.Com/west-bengal/bjp-workers-from-hooghly-take-protest-against-balagarh-nominee-to-salt-lake-office-prnt/cid/2153009
+//    WAJAH: REJECT (negative ke roop me) - (a) ghatna March 2026 ki hai,
+//    karyakaal (May 2026) se pehle - pre-term; (b) koi FIR/chargesheet/
+//    nyayik vikas nahi, sirf party-workers ka virodh aur aarop. Negative
+//    criteria (MLA khud FIR ke aaropi column me + May 2026+ vikas) poora
+//    nahi hota.
+//
+// 7. Cabinet expansion - NDTV + The Hindu (1 Jun 2026): 35 MLAs ne shapath
+//    li, Sumana Sarkar Minister of State (Health & Family Welfare).
+//    URL: https://www.ndtv.com/india-news/suvendu-adhikaris-cabinet-expands-35-bjp-mlas-take-oath-as-ministers-11574221
+//    URL: https://www.thehindu.com/news/cities/kolkata/west-bengal-cabinet-expansion-june-1-2026/article71047323.ece
+//    WAJAH: NOT-A-WORK - minister-shapath foundation ka tathya hai, works
+//    definition (lokarpan/shilanyas, mudda+nateeja, GO-swikriti, sanction
+//    list) me nahi aata. Entry nahi bani, lekin profile ke background ke
+//    roop me note rakha gaya.
+//
+// 8. Balagarh election result 2026 - Indian Express (whitelist), seat/party
+//    foundation confirm karne ke liye.
+//    URL: https://indianexpress.com/elections/west-bengal-assembly-election/balagarh-constituency/
+//    WAJAH: NOT-A-WORK - chunav-jeet kaam nahi hai; sirf foundation verify.
+//
+// 9. Kolkata Durga Puja stampede - hospitals me ministers/MLAs ki upasthiti
+//    (Sumana Sarkar ka naam) - etvbharat.com, 18 Oct 2026.
+//    URL: https://www.etvbharat.com/en/state/kolkata-durga-puja-stampede-bengal-cm-bans-vip-passes-orders-sit-probe-announces-rs-25-lakh-compensation-enn26101803187
+//    WAJAH: REJECT - (a) source whitelist me nahi; (b) sirf upasthiti,
+//    koi vyaktigat kaam nahi.
+//
+// 10. BEUP (MLA Area Development Fund): kisi whitelist source me Sumana
+//     Sarkar ki BEUP-kharch ki spasht jankari NAHI mili. Isliye BEUP
+//     'ghoshit nahi' - koi entry nahi.
+//
+// RETRY-LEADS (galat entry se behtar, agle run ke liye):
+// - Lead A: Balagarh Boat Industrial Cooperative Society ko ~Rs 10 lakh
+//   equipment (tender-procurement) - MLA intervention documented hai
+//   lekin source whitelist me nahi. TOI/Telegraph/HT/IE/PTI par same
+//   kahani dhundo.
+// - Lead B: As MoS Health, agar unhone Balagarh/Hooghly me koi hospital,
+//   PHC ya swasthya-samrachna ka lokarpan/shilanyas kiya ho to whitelist
+//   source se confirm karo. Filhal kuch nahi mila.
+// - Negative side: May 2026+ me MLA ke khilaf koi FIR/chargesheet/adalt
+//   vikas whitelist media me nahi mila. Indian Express candidate-list ke
+//   halafname me unke 0 criminal cases darj hain (2026).
+
+westbengalWorks['sumana-sarkar'] = [];
+
+// WB BATCH 8 — Hooghly: Pandua — tusar-kumar-majumdar
+// ============================================================
+// West Bengal works-mining fragment
+// Seat: Pandua (Hooghly, AC No. 192) | Party: BJP
+// MLA: Tusar Kumar Majumdar (slug: tusar-kumar-majumdar)
+// ============================================================
+// FOUNDATION CHECK: seat Pandua aur party BJP foundation record se
+// match karte hain. Identity cross-check: Indian Express election
+// result page aur Wikipedia dono me "Tusar Kumar Majumdar" BJP ke
+// Pandua seeta winner, assumed office May 2026. NOTE: kuch outlets
+// (Oneindia, TimesNow, Millennium Post, The Statesman) naam "Tushar
+// Kumar Majumdar" likhte hain — yahi Pandua wala BJP MLA hai (seet
+// aur party se pehchan pakki). Foundation me koi edit nahi kiya;
+// ye sirf spelling variance ka flag hai.
+// ------------------------------------------------------------
+// KHOJ VIVARAN (2026-10-19):
+// browser.search par naam ke dono spellings (Tusar/Tushar +
+// Majumdar), seat keyword (Pandua), Hooghly, BEUP, inauguration,
+// foundation stone, FIR/case, assembly question — kul 7 query
+// rounds chalaye. May 2026 ke baad ka koi bhi vyaktigat lokarpan,
+// shilanyas, swikriti, ashwasan, itemized sanction list ya GO-backed
+// swikriti whitelist outlets (The Hindu, Indian Express, HT, NDTV,
+// India Today, TOI, The Telegraph, PTI-via-established-outlet) par
+// NAHI mila. Post-term negatives (FIR/chargesheet/adalati vikas)
+// bhi whitelist par NAHI mile. Isliye profile khaali hai.
+// ------------------------------------------------------------
+// REJECT-LOG (har lead ke saath source URL + wajah):
+//
+// 1. https://www.thestatesman.com/page/69?amp=1
+//    (Durga Puja khuti puja story, Simlagarh gaon; Pandua MLA
+//    Tushar Majumdar ka bayan)
+//    REJECT: outlet whitelist me nahi (The Statesman); aur ye sirf
+//    community puja me maujoodgi/bayan hai — koi vyaktigat
+//    lokarpan/shilanyas, koi fund, koi bhautik sarkari sanrachna
+//    nahi. Samaroh me maujoodgi = REJECT niyam.
+//
+// 2. https://www.timesnownews.com/kolkata/tmc-manik-patra-assaulted-arrested-hooghly-extortion-cut-money-video-article-154580004
+//    ("Cut Money" crackdown; Manik Patra (TMC) ki giraftari;
+//    BJP MLA Tushar Majumdar aur Swaraj Mukherjee Dhaniakhali
+//    police station gaye; Majumdar ka extortion-network par aarop)
+//    REJECT: outlet whitelist me nahi (Times Now); MLA KHUD aaropi
+//    nahi (giraftar Manik Patra hai); police-station visit aur
+//    dusre par aarop = na works, na valid negative.
+//
+// 3. https://www.thestatesman.com/bengal/bengal-will-give-befitting-reply-to-anti-bengali-bjp-abhishek-at-pandua-1503583309.html
+//    (Abhishek Banerjee ka campaign aarop: Majumdar ne khud ko
+//    doctor bataya, medical credentials fake, bhrashtachar)
+//    REJECT: pre-term campaign bayan (April 2026 chunav prachar);
+//    May 2026+ me koi FIR/chargesheet/adalati vikas whitelist par
+//    report nahi; sirf chunav-aarop = negative niyam me REJECT.
+//
+// 4. http://myneta.info/WestBengal2021/candidate.php?candidate_id=566
+//    aur https://www.loksatta.com/elections/west-bengal-assembly-election/pandua-constituency/
+//    (halafname: FIR 09/2018 Pandua Police Station, G.R. No.
+//    30/2018, IPC 447/323/506/34; 2026 affidavit me 2 cases)
+//    REJECT: halafname ke mamle akele = negative niyam me REJECT;
+//    May 2026+ me in mamlon par koi chargesheet/adalati aadesh
+//    whitelist media me report nahi.
+//
+// 5. https://www.thestatesman.com/bengal/tmc-cpi-m-candidates-show-bonhomie-during-campaigning-at-pandua-1503576790.html/amp
+//    (chunav prachar story: Pandua me BJP ummidvar Tusar Kumar
+//    Majumdar)
+//    REJECT: pre-term (April 2026 se pehle ki campaign story);
+//    koi kaam/ghatna nahi, sirf ummidvar ka parichay.
+// ------------------------------------------------------------
+// RETRY-LEADS (future runs ke liye; abhi entry ke layak nahi):
+// - "Tushar Majumdar" spelling se The Telegraph (India) Bengal
+//   section me nayi search (Durga Puja khuti puja wali story ka
+//   whitelist outlet par version mile to bhi sirf samaroh
+//   maujoodgi hogi — works nahi banegi).
+// - BEUP/MLA fund se Pandua me 2026-27 ki kharch suchi sarkari
+//   portal ya PTI copy par mile to stage: swikriti entry bane.
+// ============================================================
+
+westbengalWorks['tusar-kumar-majumdar'] = [];
+
+// WB BATCH 8 — Hooghly: Saptagram — swaraj-ghosh
+// ============================================================
+// MLA: Swaraj Ghosh | Seat: Saptagram (193, Hooghly) | Party: BJP
+// Karyakaal: 4 May 2026 se (18vi West Bengal Vidhansabha) — sirf May 2026 ke
+//   baad ke kaam/ghatnayein valid, usse pehle ka kuch nahi.
+// Foundation-check: Seat, party aur jeet sab pakki hain — Swaraj Ghosh (BJP) ne
+//   Saptagram se 1,02,414 vote lekar TMC ke Bidesh Ranjan Bose (79,125 vote) ko
+//   23,289 vote ke antar se haraya; 4 May 2026 ko pad sambhala. Pehle yahan se
+//   TMC ke Tapan Dasgupta (2011, 2016, 2021) jeette aaye the.
+//   (Times of India election-result page + Wikipedia Saptagram/Swaraj Ghosh
+//   pages se cross-check; pehchan seat se pakki, koi namesake nahi.)
+// Khoj ka sankshipt vivaran: browser.search se 6 alag query batches chalaye —
+//   (1) naam + Saptagram + BJP MLA; (2) lokarpan/shilanyas/sadak/school/Bansberia;
+//   (3) Vidhansabha mudda + FIR/case/arrest (negatives); (4) whitelist outlets
+//   (Telegraph/The Hindu/NDTV/India Today) ke saath naam; (5) mahine-wise
+//   July-Sept 2026; (6) fund/BEUP/daawa aur budget-session coverage.
+//   Chunav coverage ke alawa May 2026 ke baad ka koi DOCUMENTED work ya negative
+//   whitelist source (The Hindu, Indian Express, HT, NDTV, India Today, TOI,
+//   The Telegraph, PTI-via-established-outlet) me NAHI mila. Neeche sabhi
+//   candidate items reject kiye gaye hain; isliye entry list KHAALI hai.
+// ============================================================
+
+// ---------- REJECT-LOG ----------
+// R1. URL: https://www.thestatesman.com/cities/kolkata/lack-of-drainage-system-leaves-water-stagnant-at-bengals-chak-bansberia-1503625920.html
+//     Wajah: (a) The Statesman whitelist me NAHI hai; (b) khabar sirf
+//     nirikshan/daure ki hai — MLA ne Chak Bansberia ka daura kiya aur
+//     'steps would be taken' jaisi future ghoshna ki, lekin koi dastaveji
+//     nateeja, fund disclosure ya bhautik sanrachna ka lokarpan nahi.
+//     RETRY-LEAD: agar koi whitelist outlet is drainage kaam ka dastaveji
+//     nateeja ya lokarpan (May 2026 ke baad) report kare to phir dekha jaye.
+// R2. URL: https://www.newindianexpress.com/states/west-bengal/2026/Sep/26/stones-eggs-allegedly-hurled-at-tmc-mla-kunal-ghoshs-car-in-hooghly
+//     (mathrubhumi/theweek/oneindia par bhi same khabar)
+//     Wajah: Namesake trap — ye Kunal Ghosh (TMC MLA, Uttarpara/Serampore) ki
+//     khabar hai, Swaraj Ghosh (BJP, Saptagram) ki nahi; isme Swaraj Ghosh ka
+//     zikr tak nahi. Pehchan seat se match nahi hoti.
+// R3. URL: https://english.hindusthansamachar.in/Encyc/2026/1/6/BJP-Hooghly-organizational-reshuffle-.php
+//     Wajah: (a) whitelist me nahi; (b) January 2026 ki khabar — karyakaal
+//     (May 2026) se PEHLE ki; (c) party sangathan ka vice-president pad hai,
+//     MLA ka sarkari kaam nahi.
+// R4. URL: https://indianexpress.com/elections/saptagram-election-result-live-updates-west-bengal-assembly-election-results-winner-10670491/
+//     (halafnama me '4 cases' ka zikr, whitelisted source par)
+//     Wajah: Sirf halafname ka tathya — 'halafname ke mamle akele' rule se
+//     negative entry reject; is par koi entry nahi banti. (Agar in mamalon par
+//     May 2026 ke baad koi nyayik vikas whitelist media me aaye to lead banegi.)
+// R5. URL: TOI/ABP Live/Business Today/Loksatta/Oneindia ke Saptagram
+//     election-result pages (sab May 2026 ke aaspaas ke).
+//     Wajah: Ye sab sirf chunav coverage hai; May 2026 ke baad ke kisi kaam ka
+//     zikr nahi, isliye works me count nahi hote.
+// -------------------------------
+
+westbengalWorks['swaraj-ghosh'] = [];
+
+// WB BATCH 8 — Hooghly: Chanditala — swati-khandoker
+// FRAGMENT: Swati Khandoker | Seat: Chanditala (AC 194, Hooghly) | Party: TMC (AITC)
+// Foundation record: PAKKA (confirm). MLA since 2011, re-elected 2026 to 18th WB Assembly
+// (107,143 votes, margin 19,663 over BJP Debasish Mukherjee). Karyakaal scope: May 2026+ only.
+//
+// KHOJ VIVARAN: 8 search rounds (browser.search) + 1 full page read (NDTV).
+// Queries covered: name + Chanditala + 'development work 2026', 'inaugurates',
+// 'school/hospital/road/water inaugurated foundation stone', 'raised issue in Assembly',
+// 'FIR/chargesheet/arrested', whitelisted-outlet scoped queries (HT/IE/IT/Telegraph),
+// spelling variants (Khandokar/Khandekar), oath/hospitalisation, Chanditala project news.
+// NATEEJA: May 2026+ term ke liye whitelisted established media me is MLA ka koi bhi
+// individual lokarpan/shilanyas, Vidhansabha me mudda + dastaveji nateeja, GO-backed
+// swikriti, itemized sanction, BEUP-fund story, ya FIR/chargesheet/janch wali koi bhi
+// negative story NAHI mili. Isliye works array KHAALI rakha gaya hai (galat entry se
+// khaali profile behtar). Election-result coverage (May 2026) term-bahar ka prasang hai,
+// entry nahi.
+//
+// REJECT-LOG (har entry, source URL + wajah):
+// 1. https://www.ndtv.com/india-news/trinamool-mp-kalyan-banerjee-attacked-in-bengal-chanditala-hooghly-after-abhishek-banerjee-in-sonarpur-11570973
+//    (NDTV, 31 May 2026, full page khola/padha gaya) — REJECT: ghatna Chanditala me hui,
+//    lekin kendriya patra MP Kalyan Banerjee (Sreerampur) par humla + post-poll violence
+//    complaint hai; MLA Swati Khandoker ka article me zikr hi nahi. Na work hai, na uske
+//    khilaf negative. Dusre neta ka mamla = reject.
+// 2. http://kalimpongonlinenews.blogspot.com/2026/06/west-bengal-government-finalises.html
+//    (blogspot snippet: 'Swati Khandekar from Chanditala could not take the oath owing
+//    to her hospitalisation after an accident') — REJECT: non-whitelisted source (blogspot)
+//    aur galat fact hai ('BJP MLAs' kehkar Khandoker ko BJP batata hai jabki TMC jeeti).
+//    Snippet-only tathya = retry-lead ban sakta tha, lekin source khud unreliable.
+// 3. https://qoshe.com/the-wire/the-wire-staff/poll-candidates-who-don-t-know-if-they-can-vote-how-women-are-caught-in-bengal-s-adjudication-/188226543/amp
+//    (The Wire via qoshe, ECI SIR 'adjudication' story) — REJECT: non-whitelisted
+//    aggregator; aur naam-gadbad hai ('Swati Dutta Khandoker', seat 'Chandipur' likha hai)
+//    — namesake/confusion risk; term-bahar ka chunav-prasang bhi hai.
+// 4. https://bharathorizon.com/politics/state-politics/tmcs-swati-khandoker-wins-chanditala-by-19663-votes.html
+//    — REJECT: chunav-parinaam coverage (4 May 2026), work/negative nahi; non-whitelist outlet bhi.
+// 5. https://www.oneindia.com/chanditala-assembly-elections-wb-194/,
+//    https://news.abplive.com/elections/chanditala-election-result-2026-live-updates-constituency-vote-counting-winner-loser-tmc-bjp-congress-west-bengal-assembly-election-1840340,
+//    https://www.businesstoday.in/elections/west-bengal/chanditala-constituency-result-19194,
+//    https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/chanditala,
+//    https://indianexpress.com/elections/chanditala-election-result-live-updates-west-bengal-assembly-election-results-winner-10670057/
+//    — REJECT: sabhi sirf chunav-parinaam / live-blog coverage; koi work ya negative nahi.
+// 6. https://www.millenniumpost.in/bengal/supplementary-list-shirshanya-banerjee-anisur-rahman-among-tmc-candidates-cleared-by-eci-653968
+//    (Millennium Post, 30 Mar 2026) — REJECT: non-whitelist outlet + term-bahar
+//    (chunav se pehle ECI supplementary list, March 2026).
+// 7. Wikipedia pages (Chanditala Assembly constituency, Hooghly district, West Bengal
+//    Legislative Assembly, 2026 Trinamool Congress split) — REJECT: Wikipedia whitelist
+//    me nahi; split-list me naam hona party-khabar hai, MLA-specific work/negative nahi.
+// 8. Tender aggregators (firsttender.com: Bhagabatipur GP road tender Jan 2026, Chanditala
+//    BPHU additional work Jan 2026) — REJECT: January 2026 ke tender term-bahar hain aur
+//    inme MLA ki vyaktigat dastaveji bhoomika ka koi ullekh nahi; nagar-palika/panchayat
+//    tenders MLA record me nahi jodte.
+// 9. Negative-search ('FIR/chargesheet/arrested'): MLA par May 2026+ me koi FIR/chargesheet/
+//    janch ki established-media story nahi mili. TOI live-blog snippet me halafnama note:
+//    'has no criminal cases on record' — ye affidavit context hai, standalone entry ke
+//    layak nahi (halafnama ke mamle akele REJECT).
+//
+// RETRY-LEADS (sarkari GO/portal ya document se verify ho to entry ban sakti hai):
+// - BEUP (MLA Fund, Rs 1 crore/seat/varsh) Chanditala ke liye 2026-27 me kya ghoshit/
+//   kharch hua — source me 'ghoshit nahi' mila; sarkari list mile to jodo.
+// - WB Assembly records: Swati Khandoker ne May 2026+ me koi sawal/mudda uthaya ho to
+//   uska dastaveji nateeja/ashwasan.
+// - Chanditala I/II block me kisi bhautik sarkari sanrachna ka uske naam par
+//   lokarpan/shilanyas (whitelisted media me report hua ho).
+
+westbengalWorks['swati-khandoker'] = [];
+
+// WB BATCH 8 — Hooghly: Jangipara — prosenjit-bag
+// ============================================================
+// wb8_worker_prosenjit-bag.ts — Prosenjit Bag (BJP, Jangipara)
+// Seat: Jangipara (AC 195, Hooghly jila) | Party: BJP | Foundation record: PAKKA
+// Karyakaal: May 2026+ (18vi WB Vidhansabha). Researched: 2026-10-19.
+// ------------------------------------------------------------
+// FOUNDATION CHECK (search se confirmed, ye file ka part nahi):
+// - Prosenjit Bag ne Jangipara 2026 me 1,02,409 vote liye, Snehasis Chakraborty
+//   (AITC) ko 862 vote se haraya; BJP gain from AITC. Office assumed 4 May 2026.
+// - Pehchan seat se pakki: myneta.info affidavits 2011/2016/2026 teeno me wahi
+//   vyakti (S/o Late Poritosh/Paritash Bag, Jangipara/Hooghly); 2026 me age 50,
+//   pesha farmer aur insurance agent; 2011 aur 2016 me bhi Jangipara se BJP
+//   ummidwar rahe. Koi doosra vyakti is identity me nahi mila.
+// ------------------------------------------------------------
+// KHOJ KA SARANSH:
+// Kul 10 web searches chalai — variants: Prosenjit/Prasenjit Bag/Bagh + Jangipara
+// + Hooghly; works-angle queries (inaugurated/foundation stone/visited/school/
+// hospital/road/flood); negative-angle (arrest/FIR/chargesheet/police); assembly
+// activity; whitelisted outlets par name-filter queries (HT/India Today/NDTV/
+// The Hindu/New Indian Express); Bengali-script query.
+// Natija: whitelist ke andar May 2026+ ka EK bhi valid work nahi mila. MLA ka
+// national English media profile bahut halka hai — jeet ke baad keept coverage
+// sirf chunavi (pre-term) hai. Works bhi ZERO, negatives bhi ZERO.
+// ------------------------------------------------------------
+// REJECT-LOG (har reject hue lead ke saath source URL + wajah):
+// 1. https://www.youtube.com/watch?v=sRLQCvmUvy0 — Howrah Mato Sarbojanin Durga
+//    Puja ke 90ve varsh ka udghatan, 'Jangipara Assembly MLA Prosenjit Bagh'
+//    maujood. REJECT: source YouTube whitelist me nahi; upar se puja udghatan
+//    'samaroh/mukhya-atithi' category hai — works rules me REJECT.
+// 2. https://myneta.info/WestBengal2026/candidate.php?candidate_id=1623 — 2026
+//    affidavit me 2 criminal cases (IPC 147/148/427; 2008-2010 ke purane cases,
+//    cognizance liya gaya, koi conviction nahi). REJECT (negative niyam):
+//    halafname ke mamle akele reject; May 2026+ me koi nyayik vikas (FIR/
+//    chargesheet/janch/aadesh) nahi mila. Sirf pehle ki ghoshnayein.
+// 3. https://theweeklynews.in/wb-election-2026-experience-vs-simplicity-in-the-high-stakes-battle-for-jangipara/
+//    aur https://newsestate.in/jangipara-election-2026-four-way-contest-hooghly/ —
+//    pre-term (31 March 2026) chunavi coverage; ummidwari wale sawal-jawab.
+//    REJECT: source whitelist me nahi; period bhi May 2026 se pehle.
+// 4. https://news.abplive.com/elections/jangipara-election-result-2026-live-updates-constituency-vote-counting-winner-loser-tmc-bjp-congress-west-bengal-assembly-election-1840341 —
+//    sirf chunav parinam (4-5 May 2026). REJECT: works content nahi; source bhi
+//    whitelist me nahi.
+// 5. https://www.Telegraphindia.Com/entertainment/prosenjit-and-jeet-starrer-crime-thriller-plays-by-the-book/cid/2090037 —
+//    actor Prosenjit Chatterjee par (Khakee web series). REJECT: namesake trap,
+//    galat vyakti.
+// 6. https://newsable.asianetnews.com/entertainment/suvendu-adhikari-becomes-bengals-first-bjp-cm-prosenjit-hopeful-articleshow-0505mop —
+//    actor Prosenjit Chatterjee ka sarkar banne par statement. REJECT: namesake trap,
+//    galat vyakti.
+// 7. Arrest/FIR stories — https://www.lokmattimes.com/national/former-tmc-mla-arrested-in-bengal-over-cash-for-party-post-case-party-alleges-vendetta/,
+//    https://www.lokmattimes.com/national/bengal-former-trinamool-mla-arrested-with-firearms/,
+//    https://www.lokmattimes.com/national/pmla-court-sends-former-bengal-minister-to-ed-custody-till-may-21/,
+//    https://english.punjabkesari.com/india/bengal-cid-files-chargesheet-against-former-trinamool-legislator-in-salboni-illegal-land-grabbing-case/,
+//    https://timesofindia.indiatimes.com/city/kolkata/after-calcutta-hc-order-congresss-nandigram-nominee-to-be-out-on-bail-for-bypoll/articleshow/134584100.cms —
+//    ye sab doosre netaon (Biswajit Das, Sujit Bose, Milan Pradhan, Sujoy Hazra)
+//    par hain. REJECT: Prosenjit Bag se sambandh nahi; namesake nahi, balki alag vyakti.
+// 8. https://Www.oneindia.com/jangipara-assembly-elections-wb-195/ — sirf chunavi
+//    parinam/FAQ page. REJECT: works content nahi; whitelist me bhi nahi.
+// 9. Tender-site hits (firsttender.com etc.) Jangipara sadak/school tenders —
+//    PWD/highway division aur gram panchayat ke kaam; MLA ki vyaktigat dastaveji
+//    bhoomika ka koi ullekh nahi. REJECT: 'nagar-palika/panchayat ke kaam bina
+//    MLA ki vyaktigat dastaveji bhoomika'.
+// 10. BEUP fund: Jangipara ke liye Rs 1 crore/seat/varsh ki ghoshna par koi
+//    spasht source nahi mila, isliye 'ghoshit nahi' — koi BEUP entry nahi jodi.
+// ------------------------------------------------------------
+// NOTE: Inferred date koi nahi — entry hi nahi bani, isliye date-disclosure ki
+// zaroorat nahi. Snippet-only tathy ko entry me nahi liya (niyam: retry-lead).
+// ============================================================
+
+westbengalWorks['prosenjit-bag'] = [];
+
+// WB BATCH 8 — Hooghly: Haripal — madhumita-ghosh
+// ---------------------------------------------------------------------------
+// Madhumita Ghosh | Haripal (seat 196, Hooghly) | BJP
+// Foundation-check: pakka. Won Haripal 2026 with 113,332 votes (46.07%), margin
+// 3,488 over Dr Karabi Manna (AITC); assumed office 4 May 2026; W/o Purnendu
+// Ghosh; age 52; 12th Pass (WBCHSE 1991). Sources: indianexpress.com Haripal
+// constituency page, en.wikipedia.org Madhumita Ghosh page, ECI Form 20.
+// Karyakaal: SIRF May 2026+. Pre-term material rejected throughout.
+// Khoj ka vivaran: browser.search se 8+ targeted khoj ki gayi — inauguration/
+// foundation/shilanyas/road/school, assembly-question/demand, post-May-2026
+// news (Jun-Oct 2026), negatives (FIR/case/arrest). Whitelist outlets me sirf
+// chunav coverage mili; koi valid work/negative item nahi mila. Output khaali
+// assignment. NAMESAKE trap pakda gaya (neeche reject log dekho) — uski wajah
+// se kai non-whitelisted outlets ne ise galat pehchana.
+// ---------------------------------------------------------------------------
+
+// --- REJECT LOG ---
+// REJECT 1: https://bharathorizon.com/politics/state-politics/bjps-madhumita-ghosh-wins-haripal-seat-in-west-bengal.html
+//   Wajah: sirf chunav-result coverage (post-event reporting hai lekin karya
+//   nahi — jeet ki khabar works-mining ke dayare me nahi aati); non-whitelisted
+//   outlet bhi hai.
+// REJECT 2: https://www.oneindia.com/kolkata/rg-kar-rape-victims-mother-gets-bjp-ticket-for-west-bengal-elections-check-all-19-names-here-8037677.html
+//   Wajah: PEHCHAN GALAT — is article me Madhumita Ghosh ko RG Kar Hospital
+//   rape case ki peedit ki maa bataya gaya hai. Ye galat hai. Asal RG Kar
+//   peedit ki maa Ratna Debnath hain, jo Panihati se BJP ki ummidwar thi
+//   (newsdrum.in aur moneycontrol.com ki third-list coverage me list me
+//   "Ratna Debnath — Panihati" darj hai; Haripal se sirf "Madhumita Ghosh" naam
+//   hai). Namesake trap: isi galti ko mathrubhumi, newsarenaindia, newsdrum
+//   ne bhi dohraya. Non-whitelisted outlets; aur waise bhi pre-term ghoshna.
+// REJECT 3: https://english.mathrubhumi.com/amp/news/india/west-bengal-polls-bjp-third-candidate-list-rg-kar-victim-mother-panihati-ws8bec7q
+//   Wajah: candidate-list ghoshna (pre-event announcement), pre-term; source
+//   whitelist me nahi; upar wali galat pehchan bhi isi me hai.
+// REJECT 4: https://www.newsdrum.in/national/bjp-releases-3rd-list-of-19-candidates-for-bengal-polls-fields-rg-kar-victims-mother-from-panihati-11264342
+//   Wajah: pre-event candidate announcement; non-whitelisted; karyakaal se
+//   pehle ka maamla. (Sirf pehchan-sudhhaar ke liye istemal: Ratna Debnath
+//   Panihati me, Madhumita Ghosh Haripal me.)
+// REJECT 5: https://lite.apex-football.com/en-IN/news/df51ecd240127en_in
+//   Wajah: sirf chunav-result coverage; non-whitelisted; koi karya nahi.
+// REJECT 6: https://news.abplive.com/elections/haripal-election-result-2026-live-updates-constituency-vote-counting-winner-loser-tmc-bjp-congress-west-bengal-assembly-election-1840342
+//   Wajah: chunav-result live coverage; non-whitelisted; koi karya nahi.
+// REJECT 7: https://www.rediff.com/news/report/compensation-politics-rg-kar-docs-mother-rejects-tmc-mlas-comparison/20260810.htm
+//   Wajah: non-whitelisted outlet; aur ye khabar Ratna Debnath (Panihati BJP
+//   MLA) ke baare me hai, Madhumita Ghosh (Haripal) ke baare me nahi —
+//   namesake trap se bacha gaya.
+// REJECT 8: https://myneta.info/WestBengal2026/candidate.php?candidate_id=2748
+//   Wajah: chunav halafnama (2 criminal cases, Rs 1.13 crore assets) — halafname
+//   ke mamle akele reject hote hain; May 2026+ ka koi nyayik vikas (chargesheet/
+//   adalat ka aadesh) whitelisted source me nahi mila.
+// REJECT 9: https://indianexpress.com/elections/west-bengal-assembly-election/haripal-constituency/
+//   Wajah: whitelisted hai lekin sirf chunav-result/candidate table hai — koi
+//   karya, mudda-uthana, ya swikriti darj nahi. Sirf foundation-check ke liye
+//   istemal hua.
+// REJECT 10: https://en.wikipedia.org/wiki/Madhumita_Ghosh
+//   Wajah: profile/background summary hai, whitelist source nahi; koi May 2026+
+//   karya darj nahi — sirf foundation-check me madad.
+// RETRY-LEADS: koi snippet-only tathya nahi mila jo retry-lead ban sake. Nai
+//   MLA (May 2026 se karyakaal) par whitelisted outlets me ab tak koi work/
+//   negative coverage nahi dikhi — agle run me phir khojo.
+
+westbengalWorks['madhumita-ghosh'] = [];
+
+// WB BATCH 8 — Hooghly: Dhanekhali (SC) — asima-patra
+// Worker: asima-patra | Seat: Dhanekhali (SC), Hooghly, Paschim Bengal | Party: TMC (AITC)
+// Foundation: pakka — Asima Patra ne 4 May 2026 ko Dhanekhali (SC) seat jeeti, 1,23,462 vote lekar Barnali Das (BJP) ko 13,057 vote ke antar se haraya; 18vi Vidhansabha May 2026 me bani.
+// Khoj: kul 9 web searches — inauguration/shilanyas, sadak/hospital/school, handloom weavers, vidhansabha me uthaye mudde, FIR/chargesheet/probe/scam, threat-video, deputy LoP, Dhanekhali infra news.
+// Parinaam: May 2026 ke baad ke koi valid works ya negatives whitelist sources (Hindu/Express/HT/NDTV/India Today/TOI/Telegraph/PTI) par NAHI mile. Entry khaali rakhi gayi.
+// Note: kuch sources (Telegraph India, Wikipedia) me naam ki spelling ‘Ashima Patra’ hai — pehchan seat (Dhanekhali SC, Hooghly) se pakki ki, koi namesake trap nahi.
+
+// REJECT-LOG:
+// R1: https://www.lokmattimes.com/national/trinamool-mla-issues-threat-to-bjp-leaders-accuses-them-of-deleting-names-of-voters/amp/ — wajah: source whitelist me nahi (IANS reprint, lokmattimes whitelist me nahi), ghatna Nov 2025 ki (pre-term), agency khud kehti hai viral video verify nahi hua, koi FIR ya chargesheet ka zikr nahi.
+// R2: https://www.lokmattimes.com/national/will-not-tolerate-intimidation-of-electoral-officers-engaged-in-sir-in-bengal-eci/ — wajah: whitelist-bahar source, khabar Dec 2025 ki (pre-term); Ashima Patra ka naam sirf SIR hearing-session disrupt karne ke aarop me aaya, FIR ke aaropi column me naam nahi, May 2026+ ka koi nyayik vikas nahi.
+// R3: https://myneta.info/westbengal2016/candidate.php?candidate_id=1614 — wajah: 2016 ke halafname ke 2 purane cases akele me REJECT; 2026 ke halafname me cases = 0; koi May 2026+ ka vikas nahi.
+// R4: https://www.opindia.com/2021/10/bengal-firm-alleges-tmc-mlas-men-kidnapped-3-engineers-for-ransom/ — wajah: aarop MLA ke ‘aadmi’on par tha, khud Asima Patra aaropi nahi; source whitelist me nahi; ghatna 2021 ki (pre-term).
+// R5: https://www.telegraphindia.com/elections/lok-sabha-election-2024/locket-chatterjees-spat-with-asima-patra-becomes-talk-of-hooghly-during-fifth-phase-of-lok-sabha-polls/cid/2021253 — wajah: May 2024 ka rajnaitik jhagda (pre-term), koi FIR/janch/adalati vikas nahi.
+// R6: https://en.wikipedia.org/wiki/Ashima_Patra — ‘Deputy Leader of the Opposition, 9 May 2026 – 2 June 2026’ — wajah: Wikipedia whitelist me nahi; rajnaitik pad works ki defined category me nahi aata (koi bhautik sanrachna, GO, sanction ya vidhansabha-mudda nahi).
+// R7: Election-result pages (TOI, Indian Express, ABP Live, Oneindia, Business Today) — sirf jeet ki khabar, works category ka koi tathya nahi.
+// R8: https://pib.gov.in/PressReleasePage.aspx?PRID=2215821&reg=3&lang=2 — PM Modi ke Singur/Balagarh projects (Jan 2026) — wajah: pre-term, aur ye PM ke kaam hain, MLA Asima Patra ki koi dastaveji bhoomika nahi.
+// R9: https://www.newsbred.com/trinamool-minister-heckled-by-her-voters-no-work-in-10-years/ — wajah: 2021 chunav-prachar ki purani ghatna (pre-term), whitelist-bahar blog, koi FIR nahi.
+
+westbengalWorks['asima-patra'] = [];
+
+// WB BATCH 8 — Hooghly: Tarakeswar — santu-pan
+// WB8 worker fragment — Santu Pan (Tarakeswar)
+// Seat: Tarakeswar (Hooghly district), Party: BJP, 18vi Vidhansabha karyakaal May 2026+.
+// Foundation-check: Santu Pan 2026 me Tarakeswar (seat no. 198) se BJP ke ticket par jeete
+// (1,16,901 votes; Ramendu Sinharay/AITC par 30,999 ka antar); 4 May 2026 se vidhayak. Peshha patrakaar,
+// University of Burdwan se MA (Mass Communication and Journalism) 2020.
+// SAVDHAAN: Tarakeswar mandir dhaarmik sanrachna hai — shilanyas entry TABHI jab fund ka srot
+// sarkari ho aur sanrachna saarvajanik infrastructure ho. Mandir ka kesariya rang-roghan isi aadhaar
+// par reject hua (dhaarmik sthal, fund-disclosed bina). Namesake: Tarakeswar ke pehle vidhayak
+// Rachhpal Singh aur 2021-2026 ke Ramendu Sinharay alag vyakti hain; Santu Pan sirf yahi ek hain.
+// Khoj (2026-10-19): browser.search se whitelisted sources par post-May-2026 works khoje gaye.
+// Santu Pan ki May 2026 ke baad ki media me maujoodgi lagbhag sirf do muddon me hai: (a) 20 June 2026
+// ko Paschimbanga Divas par PM Modi ki Tarakeswar yatra ki tayyariyan (unhone ground par nirikshan
+// kiya, aur sarkari ghoshnaon ke baare me media se baat ki), aur (b) patrakaar-avastha ka purana
+// Sandeshkhali giraftari prakaran (Feb 2024). Koi vyaktigat lokarpan/shilanyas, GO-backed swikriti,
+// itemized sanction list, BEUP fund ki khabar, ya Vidhansabha mudda + dastaveji nateeja NAHI mila.
+// Negatives bhi May 2026+ me koi nahi — Sandeshkhali giraftari pre-term hai aur usme bhi May 2026+
+// me koi nyayik vikas whitelisted source par nahi; halafname ke pending mamle akele aadhaar nahi.
+// Isliye profile khaali hai.
+//
+// REJECT-LOG:
+// 1. https://www.telegraphindia.com/west-bengal/government-rewrites-statehood-date-prime-minister-narendra-modi-to-attend-paschimbanga-divas-event-at-tarakeswar-today-prnt/cid/2166383
+//    (padha gaya, ~20 Jun 2026) Wajah: Santu Pan yatra ki tayyariyon ka nirikshan kar rahe the
+//    ('supervising the preparations on the ground') — sirf nirikshan/event-management = REJECT.
+//    PM ka dais se pariyojnaon ka shilanyas PM ka kaam hai, MLA ka vyaktigat lokarpan nahi = REJECT.
+//    (Statesman quote me rail connectivity/express train/hospital infrastructure ka zikr sirf ghoshna
+//    hai, vyaktigat dastaveji bhoomika disclosed nahi = REJECT.)
+// 2. https://timesofindia.indiatimes.com/city/kolkata/modi-to-visit-tarakeswar-temple-on-june-20/articleshow/131812375.cms
+//    (search snippet, Jun 2026) Wajah: Pan ka quote sirf teen manch lagane ke baare me — karyakram
+//    management, koi vyaktigat sarkari-sanrachna ka lokarpan/shilanyas nahi = REJECT.
+// 3. https://www.thestatesman.com/india/historic-tarakeswar-shiva-temple-gets-a-new-saffron-look-ahead-of-pm-visit-1503606946.html
+//    Wajah: source whitelist me nahi; plus mandir dhaarmik sanrachna hai — fund ka srot sarkari
+//    disclose kiye bina shilanyas entry REJECT hoti, aur vaise bhi rang-roghan ka kaam Temple Authority
+//    ne karwaya, MLA ka vyaktigat kaam nahi = REJECT.
+// 4. https://www.millenniumpost.in/bengal/bengal-foundation-day-pm-to-launch-key-projs-from-tarakeswar-664990
+//    Wajah: source whitelist me nahi; plus pre-event ghoshna ('PM launch/inaugurate karenge') —
+//    post-event reporting nahi, aur PM ke kaam MLA ke vyaktigat kaam nahi = REJECT.
+// 5. Wikipedia 'Santu Pan' Controversy (Sandeshkhali giraftari): Pan patrakaar ke roop me Feb 2024 me
+//    giraftar hue the (mahila ki shikayat — ghuspath/hamla/nijata ullanghan), Basirhat court ne 3 din
+//    ki police custody di thi. Wajah: poora prakaran karyakaal (May 2026) se pehle ka hai; May 2026+ me
+//    koi nyayik vikas whitelisted source par nahi = pre-term bina vikas = REJECT (negative).
+//    (Hindustan Times coverage bhi 2024 ki hai; Business Standard — Calcutta HC ne Feb 2024 me hi bail di
+//    aur proceedings stay ki thin — pre-term, sthiti unchanged.)
+// 6. https://news.abplive.com/elections/west-bengal-results-bjp-tv-journalist-santu-pan-leading-in-hooghly-tarakeswar-1841170/amp
+//    Wajah: sirf halafname ke 4 pending cases ka zikr — halafname ke mamle akele negative ka aadhaar
+//    nahi; kisi case me FIR aaropi-column ya chargesheet ka nyayik vikas May 2026+ me nahi = REJECT (negative).
+// 7. https://cdn.s3waas.gov.in/s3aff1621254f7c1be92f64550478c56e6/uploads/2026/06/17827169457514.pdf
+//    (Tarakeswar Development Authority tender — Shrabani Mela ke liye mandir parisar mural/beautification)
+//    Wajah: pradhikaran ka kaam hai; MLA ki vyaktigat dastaveji bhoomika disclose nahi; dharmik-parisar
+//    ka kaam bina sarkari fund-source link = REJECT. (Retry-lead: agar bhavishya me whitelisted source me
+//    Pan ki vyaktigat bhoomika + fund disclosed aaye to phir evaluate karna.)
+// 8. Chunav coverage (TOI election-results, businesstoday.in, zeenews — May 2026): Wajah: sirf jeet
+//    ka parinaam, koi kaam nahi = REJECT.
+// 9. https://www.lokmattimes.com/national/eastern-railway-reviews-progress-in-bishnupur-link-via-tarakeswar/
+//    Wajah: source whitelist me nahi; plus rail line ka nirikshan Eastern Railway GM ne kiya —
+//    MLA ki vyaktigat dastaveji bhoomika nahi = REJECT. (Amrit Bharat station kaam railway ka, MP/MLA
+//    lokarpan nahi.) Retry-lead: Bishnupur-via-Tarakeswar line complete hone par agar MLA ka vyaktigat
+//    lokarpan/shilanyas whitelisted post-event source me aaye to phir evaluate karna.
+// 10. https://openthemagazine.com/india/suvendu-adhikari-visits-taraknath-temple-outlines-heritage-development-plans
+//    Wajah: source whitelist me nahi; CM ki temple yatra aur heritage vikas ke prastav — sirf ghoshna,
+//    MLA ki bhoomika nahi, dharmik sthal = REJECT.
+//
+// RETRY-LEADS (bhavishya me whitelisted post-event source milne par):
+// R1. BEUP (Rs 1 crore/seat/varsh) — abhi 'ghoshit nahi'; Tarakeswar me is fund se koi vyaktigat
+//     swikriti/lokarpan khabar me aaye to jodo.
+// R2. Paschimbanga Divas (20 Jun 2026) par Tarakeswar dais se PM dwara shilanyas/launch hui pariyojnaon
+//     me agar Santu Pan ka itemized vyaktigat yogdaan/fund disclosed aaye to phir evaluate karna —
+//     abhi wo PM ke kaam hain.
+// R3. Tarakeswar Development Authority ke kaam (R2 ka tender upar) me MLA ki bhoomika aaye to phir dekhna.
+
+westbengalWorks['santu-pan'] = [];
+
+// WB BATCH 8 — Hooghly: Pursurah — biman-ghosh
+// WB8 worker fragment — Biman Ghosh (Pursurah)
+// Seat: Pursurah (Hooghly district), Party: BJP, 18vi Vidhansabha karyakaal May 2026+.
+// Foundation-check: Biman Ghosh 2026 me Pursurah se BJP ke ticket par dobara jeete (138,821 votes,
+// Partha Hazari/AITC par 53,453 ka antar) — 2021 me bhi isi seat se BJP ke vidhayak the.
+// SAVDHAAN: ye Biman Banerjee (Baruipur Paschim, TMC, purva Speaker) NAHI hain, aur na hi
+// Bankim Ghosh (Vidhansabha me suspend hue doosre BJP vidhayak) hain — teeno alag vyakti.
+// Khoj (2026-10-19): browser.search se whitelisted sources par post-May-2026 works khoje.
+// Biman Ghosh ki May 2026 ke baad ki activity media me bahut kam mili — chunav coverage (May 2026),
+// ek abhinandan samaroh (25 May 2026), aur ek CM ke saath prashasanik baithak (Aug 2026) jisme ve
+// sirf upasthit the aur media ko jaankari de rahe the. Koi vyaktigat lokarpan/shilanyas, GO-backed
+// swikriti, itemized sanction list, BEUP fund ki khabar, ya Vidhansabha mudda + dastaveji nateeja
+// NAHI mila. Negatives bhi May 2026+ me koi nahi — halafname ke 2 mamle pre-term hain aur akele
+// halafnama negative ka aadhaar nahi. Isliye profile khaali hai.
+//
+// REJECT-LOG:
+// 1. https://www.thestatesman.com/bengal/pursura-mla-meets-central-ministers-on-development-in-arambagh-1503410638.html/amp
+//    Wajah: March 2025 ki khabar — karyakaal (May 2026) se pehle; pre-term = REJECT.
+// 2. https://www.thestatesman.com/bengal/pursura-mla-meets-railways-minister-demands-connectivity-to-rammohan-roys-birthplace-1503526304.html
+//    Wajah: 16 Dec 2025 ki khabar — karyakaal se pehle; pre-term = REJECT. (Sirf maang thi, swikriti nahi.)
+// 3. https://infoexchange.live/west-bengal/bjp-felicitation-meeting-in-pursurah-mla-biman-ghosh-honoured
+//    Wajah: 25 May 2026 ka abhinandan samaroh — samaroh/mukhya-atithi category = REJECT; source whitelist me bhi nahi.
+// 4. https://indianexpress.com/article/cities/kolkata/west-bengal-sabang-flood-visit-arambagh-compensation-10842302/lite/
+//    (20 Aug 2026 — padha gaya) Wajah: Ghosh CM ke saath Arambagh ki baithak me sirf upasthit the aur
+//    media ko CM ki ghoshna (Arambagh Master Plan Rs 1,200 crore) ki jaankari de rahe the. Koi vyaktigat
+//    fund ya bhoomika disclosed nahi — 'dusre neta ke karyakram me maujoodgi' + 'sirf ghoshna' = REJECT.
+//    Retry-lead: unki maang ('Arambagh master plan lagu ho') par agar bhavishya me dastaveji ashwasan/nateeja
+//    whitelisted source me mile to phir evaluate karna; kaam Dec 2026 se shuru hona tha.
+// 5. https://www.ndtv.com/india-news/mla-biman-ghosh-among-5-bjp-members-arrested-in-west-bengals-hooghly-for-violating-election-norms-2698087
+//    Wajah: Jan 2022 ki SEC norms giraftari — pre-term, usi din bail; May 2026+ me koi nyayik vikas nahi = REJECT.
+// 6. https://www.indiatvnews.com/amp/west-bengal/news-hooghly-clash-bjp-mla-biman-ghosh-ram-navami-rally-west-bengal-latest-updates-2023-04-03-859900
+//    Wajah: April 2023 Ram Navami jhadap me ghayal — pre-term, ghatna matra; FIR me aaropi nahi, negative criteria nahi milta = REJECT.
+// 7. https://infoexchange.live/west-bengal/100-a-day-offered-to-lure-students-into-protests-arambagh-college-students-being-influenced-alleges-bjp-mla-biman-ghosh
+//    Wajah: 12 Oct 2026 press-conference me Ghosh AAROP lagane wale hain, aaropi nahi — negative nahi; aur
+//    kaam (work) bhi nahi; source whitelist me nahi = REJECT.
+// 8. Chunav coverage (businesstoday.in, indianexpress.com/elections, oneindia.com, timesnownews.com — May 2026):
+//    Wajah: sirf jeet/parinaam ki khabar, koi kaam nahi = REJECT.
+// 9. https://myneta.info/WestBengal2026/candidate.php?candidate_id=2418 (halafnama, 2 criminal cases):
+//    Wajah: halafname ke mamle akele negative ka aadhaar nahi; May 2026+ me koi nyayik vikas nahi = REJECT.
+// 10. expresspost.in 'Five BJP MLAs Suspended' story: suspend hue vidhayak Bankim Ghosh hain (Biman Ghosh nahi),
+//     Speaker Biman Banerjee hain (Biman Ghosh nahi) — namesake trap; is MLA par lagu nahi = REJECT.
+
+westbengalWorks['biman-ghosh'] = [];
+
+// WB BATCH 8 — Hooghly: Arambag (SC) — hemanta-bag
+// =============================================================================
+// WORKER FRAGMENT: hemanta-bag (Hemanta Bag, BJP, Arambag (SC), Hooghly)
+// =============================================================================
+// FOUNDATION CHECK:
+// - Seat: Arambag (SC), constituency no. 200, Hooghly district, West Bengal.
+// - Party: BJP (NDA). MLA: Hemanta Bag, born 1995, daily-labourer background.
+// - Term: 18th West Bengal Legislative Assembly, assumed office 4 May 2026.
+//   Sources: https://en.wikipedia.org/wiki/Hemanta_Bag (office 4 May 2026, party BJP,
+//   constituency Arambagh) ; https://indianexpress.com/elections/arambag-election-result-live-updates-west-bengal-assembly-election-results-winner-10669923/
+//   (Bag Hemanta of BJP won Arambag (SC), defeated Bag Mita of AITC by 28,959 votes,
+//   1,23,000 votes, 52.15 percent).
+//   Businesstoday liveblog confirms counting closed 4 May 2026 with the win.
+// - KARYAKAAL WINDOW: sirf May 2026 ke baad. Usse pehle ka kuch nahi.
+//
+// KHOJ KA VIVARAN (2026-10-19):
+// browser.search se 6 alag query chalayi: English web (election + works), quoted
+// "Hemanta Bag" + foundation stone/inauguration, FIR/arrest complaint, development
+// works (road/school/health centre), whitelisted-outlet-restricted site: query,
+// aur assembly question/protest/waterlogging. Bengali-script query se bhi ek hit.
+// Har hit ka page kholkar padha ya snippet-se whitelisted + relevant pehchana.
+// Natija: koi bhi whitelisted outlet par May 2026+ ka koi works/negative item nahi
+// mila. MLA ka karyakaal lagbhag 5 mahine purana hai; established media me unke
+// naam se koi lokarpan/shilanyas, fund-sanction, Vidhansabha mudda+nateeja, ya
+// FIR/janch wali khabar abhi tak nahi aayi. Shanka wali cheezon ko reject karke
+// niche reject-log me darj kiya hai. Galat entry se khaali profile behtar —
+// isliye assignment khaali hai.
+// =============================================================================
+
+// -----------------------------------------------------------------------------
+// REJECT-LOG
+// -----------------------------------------------------------------------------
+// R1. https://infoexchange.live/west-bengal/arambagh-mla-hemanta-bag-felicitated-at-his-former-primary-school
+//     Wajah: REJECT. (a) Outlet whitelist me nahi (infoexchange.live ek chhota
+//     digital desk portal hai). (b) Samaroh tha — school ne MLA ka samman kiya
+//     (felicitation at Arandi South Primary School, June 2026); koi bhautik
+//     sanrachna ka lokarpan/shilanyas nahi, koi fund/bhoomika disclosed nahi.
+//     "Full cooperation in infrastructure development" sirf vaada hai (maang/ghoshna
+//     category) — works nahi banta. Retry-lead bhi nahi: coverage hi honorary thi.
+// R2. https://tv9bangla.com/west-bengal/hooghly/cjp-protest-foreign-funding-row-bjp-mlas-allege-students-offered-100-dollar-daily-to-join-protests-in-bengal-1352742.html/amp
+//     Wajah: REJECT. (a) tv9bangla.com whitelist me nahi. (b) Hemanta Bag aur
+//     Biman Ghosh ne press conference me CJP-protest ke "foreign funding" ka
+//     aarop lagaya — ye political allegation hai, MLA ka koi vikaas-kaarj ya
+//     Vidhansabha-mudda+nateeja nahi; koi dastaveji nateeja/ashwasan nahi.
+//     Retry-lead: agar whitelisted outlet par yahi khabar khulti hai to bhi ye
+//     works/negative dono nahi banegi — sirf dawa hai, koi FIR/janch ka zikr nahi.
+// R3. https://therahnuma.com/local-trinamool-leader-held-for-murder-in-hooghly/
+//     Wajah: REJECT — namesake trap. Ye Hemanta PAL hai (TMC leader, Arambag
+//     municipality ward 4 president), Hemanta BAG nahi. Ghatna Oct 2024 ki hai
+//     (pre-term), aur vyakti bhi galat hai. Koi negative nahi.
+// R4. https://www.daijiworld.com/news/newsDisplay?newsID=1233814
+//     Wajah: REJECT — wahi Hemanta Pal murder case ka syndicated copy (R3 dekho).
+// R5. https://myneta.info/WestBengal2026/candidate.php?candidate_id=1583
+//     Wajah: REJECT. Ye "Hemanta Bag (Independent, IND)" ummeedwar ka affidavit
+//     page hai (1,929 vote wala) — BJP MLA Hemanta Bag ka nahi. Namesake trap se
+//     bachne ke liye ignore kiya. Halafname ke mamle akele waise bhi valid nahi.
+// R6. https://en.wikipedia.org/wiki/Hemanta_Bag
+//     Wajah: REJECT — election bio/chunav parinaam; works/negative ka source nahi.
+//     Foundation identity check ke liye istemal hua, entry me nahi.
+// R7. https://bharathorizon.com/politics/state-politics/bjps-bag-hemanta-wins-arambag-in-2026-bengal-election.html
+//     Wajah: REJECT — whitelist me nahi; chunav parinaam ki summary, works nahi.
+// R8. https://m.dailyhunt.in/news/india/english/... (reclaiming Bengal from TMC jungle raj)
+//     Wajah: REJECT — Dailyhunt aggregator, whitelist me nahi; Hemanta Bag ka
+//     naam isme hai hi nahi.
+// R9. https://indianexpress.com/article/india/pm-modi-launch-projects-arambagh-bengal-9190229/ (Mar 2024)
+//     Wajah: REJECT — pre-term (Mar 2024) aur PM Modi ke projects; Hemanta Bag ka
+//     koi vyaktigat role nahi; seat ke bahar/dusre neta ka kaam.
+// R10. https://www.thestatesman.com/bengal/two-bjp-mlas-from-arambagh-goghat-fail-to-get-tickets-1503571699.html
+//      Wajah: REJECT — pre-election ticket-distribution ki khabar (pre-term); ticket
+//      nirdharan works/negative dono nahi.
+// R11. Whitelisted election-coverage pages (indianexpress.com election result,
+//      timesofindia liveblog/constituency page, ndtv.com Mitali Bag attack story,
+//      telegraphindia.com Arambagh analyses) — Wajah: REJECT. Sab chunav/parinaam
+//      coverage hai; Hemanta Bag ke May 2026+ ke kaam ya FIR-jaisi negative ka
+//      koi tathya nahi. NDTV wali Mitali Bag attack story pre-result (April 2026)
+//      hai aur Hemanta Bag usme aaropi column me nahi.
+// -----------------------------------------------------------------------------
+
+westbengalWorks['hemanta-bag'] = [];
+
+// WB BATCH 8 — Hooghly: Goghat (SC) — prasanta-digar
+// prasanta-digar — 0 works + 0 negatives
+// Pehchan pakki: Goghat (SC), Hooghly jila, BJP, Winner May 2026 —
+// 1,34,498 vote (57.4%); runner-up Dr Nirmal Maji (AITC, 84,916) ko 49,582 maton se haraya.
+// S/o Jagannath Digar, age 39, Selampur (Goghat) niwasi, Graduate (BA, CCS University Meerut 2013).
+// Karyakaal: 18vi West Bengal Vidhan Sabha, May 2026+ (period 2026-2031).
+// Spelling variants mile: Prasanta Digar (Wikipedia, Indian Express election page),
+// Prashanta Digar (Telegraph/Indian Express/Statesman news), Prashanta Dighar (Oneindia/TOI election data).
+// Namesake trap check: Arup Kanti Digar (Arambagh Lok Sabha BJP candidate) alag vyakti hai — mix-up nahi hua.
+// Khoj: 10 targeted web searches (works angle: inaugurated/shilanyas/road/school/hospital/Goghat;
+// assembly question angle; negative angle: FIR/arrest/chargesheet/court notice May 2026+).
+// May 2026+ me MLA ki vyaktigat dastaveji bhoomika wala koi valid work whitelisted press me nahi mila;
+// Digar ko FIR ke aaropi column me naamzad karne wali koi May 2026+ khabar bhi nahi mili.
+// Mitali Bag incident wala article Indian Express se kholkar padha gaya — report me vyaktigat FIR nahi hai.
+// Isliye profile khaali rakhi gayi hai (galat entry se khaali profile behtar).
+
+westbengalWorks['prasanta-digar'] = [];
+
+// REJECT-LOG (prasanta-digar, mined 2026-10-19)
+// 1. Indian Express — "Clashes precede polling: TMC MP car vandalised, CISF jawan shot at"
+//    (https://indianexpress.com/article/cities/kolkata/clashes-precede-polling-tmc-mp-car-vandalised-cisf-jawan-shot-at-10659156/,
+//    page KHOLKAR PADHA, published 28 Apr 2026 02:52 AM IST): TMC MP Mitali Bag ne aarop lagaya ki
+//    27 Apr 2026 ko Goghat me unki gaadi BJP karyakartaon ne todi, aur ghatna "BJP candidate Prashanta Digar"
+//    ke chunav karyalaya ke paas hui; BJP ne inkaar kiya ("staged drama"); police ne Bag hamle me 3 log giraftar
+//    kiye jo report me sirf "BJP workers" bataye gaye hain — Digar ka naam FIR/arrest me NAHI hai.
+//    REJECT as negative: (a) pre-term ghatna (Apr 2026, karyakaal May 2026 se), (b) FIR ke aaropi column me MLA ka
+//    naam nahi, (c) May 2026+ me is mamle ka koi nyayik vikas (chargesheet/court order) whitelisted press me nahi mila.
+// 2. Wahi incident — NDTV (https://www.ndtv.com/india-news/west-bengal-assembly-elections-2026-trinamool-congress-mp-from-arambagh-mitali-bag-alleges-attack-on-car-by-bjp-workers-election-commission-seeks-repo-11414750)
+//    aur Telegraph India (https://www.telegraphindia.com/elections/west-bengal-assembly-election-2026/tmc-mp-alleges-attack-on-car-in-hooghly-bjp-denies-charge-election-commission-seeks-report/cid/2158023):
+//    snippet level par bhi wahi pre-term "BJP workers" aarop; Digar naamzad nahi — REJECT (upar #1 ke samaan karan).
+// 3. thedailyjagran.com ka usi incident par page (https://www.thedailyjagran.com/india/tmc-mp-mitali-bag-car-attacked-windshield-shattered-on-live-cam-bjp-refuses-involvement-calls-it-staged-drama-10309775)
+//    aur odishabytes.com ka page — dono non-whitelist outlet, waise bhi pre-term — REJECT (source whitelist + pre-term).
+// 4. The Statesman — "Two BJP MLAs from Arambagh, Goghat fail to get tickets"
+//    (https://www.thestatesman.com/bengal/two-bjp-mlas-from-arambagh-goghat-fail-to-get-tickets-1503571699.html,
+//    19 Mar 2026): "Prashanta Digar, a resident of Selampur" ko Goghat se ticket mila (Biswanath Karak ki jagah).
+//    REJECT: pre-term ticket ghoshna — karyakaal se pehle, aur koi work-content nahi (na pehchan-source, na work).
+// 5. myneta.info affidavit page (https://myneta.info/WestBengal2026/candidate.php?candidate_id=1922):
+//    "Number of Criminal Cases: 1", assets Rs 1,04,40,525. REJECT as negative: non-whitelist + halafname ke mamle
+//    akele valid negative nahi hote; May 2026+ ka koi nyayik vikas nahi mila. RETRY-LEAD me note kiya gaya hai.
+// 6. Indian Express election result page (https://indianexpress.com/elections/west-bengal-assembly-election/goghat-constituency/),
+//    TOI constituency page (https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/goghat),
+//    Business Today, ABP Live, voterslist PDF — sab chunav-nateeja coverage (jeet/har margin) — REJECT (chunav khabar = work nahi).
+// 7. Oneindia Goghat result page (Prashanta Dighar spelling) — non-whitelist + chunav khabar — REJECT.
+// 8. firsttender.com — Goghat BPHC block public health unit tender (Rs 57.37 lakh, XV FC health grants):
+//    tender aggregator, non-whitelist; MLA ki vyaktigat bhoomika ka koi ullekh nahi — REJECT (bina MLA bhoomika).
+// 9. gyanhigyan/lokmattimes ke Arup Kanti Digar (Arambagh LS) wale election-petition pages — NAMESAKE TRAP:
+//    ye Prasanta Digar (Goghat MLA) nahi hain; chunav-yachika waise bhi negative rule se REJECT hoti — REJECT.
+//
+// RETRY-LEADS (parent ke liye — future mining rounds):
+// A. myneta.info par "Number of Criminal Cases: 1" dikh raha hai — agar is case ka May 2026+ me koi FIR/chargesheet/
+//    court-order vikas Digar ko naamzad karta hua whitelisted press me mile to negative entry ban sakti hai.
+//    Abhi tak aisa kuch nahi mila; agle round me phir check karna.
+// B. 18vi Vidhan Sabha ke 2026 sessions (budget/monsoon) me Digar ke uthaye muddon/ashwason ki coverage aaye to
+//    "Vidhansabha mudda + dastaveji nateeja" route se credit-capped work entry sambhav hai — abhi tak koi nahi.
+// C. Goghat/Badanganj/Arambagh subdivision ki local development coverage (inauguration/shilanyas jahan MLA ki
+//    vyaktigat bhoomika fund sahit disclosed ho) district editions me aaye to dobara mine karna.
+
+// WB BATCH 8 — Hooghly: Khanakul — susanta-ghosh
+// Worker fragment: Susanta Ghosh | Khanakul (seat no. 202, Hooghly) | BJP
+// Foundation check: seat Khanakul, party BJP, naam Susanta Ghosh — sab pakke.
+// May 2026 me 1,26,729 vote lekar dobara jite (runner-up Palash Kumar Roy, AITC,
+// 92,246 vote). Pehchan Sushanta Ghosh (purva CPI(M) mantri, Garbeta, skeleton
+// case wale) se bilkul alag hai — unke mamle is fragment me nahi aaye.
+// Khoj ka saar: browser.search se 8 query round chalaye (English + Bengali +
+// news vertical). Post-May-2026 ke koi bhi work ya negative whitelist outlet
+// (The Hindu, Indian Express, Hindustan Times, NDTV, India Today, TOI, The
+// Telegraph, PTI-on-established-outlet) par NAHI mile. Apni site aur chhote
+// portalon par jo mila, wo reject-log me hai. Isliye entry khaali hai.
+
+// ---- REJECT LOG (source URL + wajah) ----
+// 1. https://indianexpress.com/article/cities/kolkata/bjp-mla-beaten-up-in-hooghly-clashes-attacks-on-police-mar-formation-of-panchayat-boards-8886972/lite/
+//    Indian Express (whitelist) lekin August 2023 ka hai — pre-term (May 2026 se
+//    pehle), isliye bahar. Wajah aur bhi hai: isme MLA khud PEEDIT hai (TMC
+//    samarthakon ne unpar hamla kiya tha), aaropi nahi — negative rule ke liye
+//    MLA ko FIR ke aaropi column me hona chahiye.
+// 2. https://www.thehindu.com/news/states/opposition-mlas-allege-attacks-amid-formation-of-gram-panchayat-boards-in-west-bengal/article67181175.ece/amp/
+//    The Hindu (whitelist) lekin wahi August 2023 ka panchayat-board hamla —
+//    pre-term, MLA peedit, aaropi nahi. Bahar.
+// 3. https://www.telegraphindia.com/amp/west-bengal/attack-on-trinamul-congress-councillor-sushanta-ghosh-prime-accused-nabbed-taxi-driver-arrested/cid/2063794
+//    The Telegraph (whitelist) lekin ye Kolkata ke TMC councillor Sushanta Ghosh
+//    hain — namesake trap, hamare Khanakul BJP MLA nahi. Bahar.
+// 4. https://bengali.hindusthansamachar.in/Encyc/2026/9/16/khanakul-mla-meeting-ns.php
+//    16 Sept 2026: MLA ne Khanakul-2 block ke panchayat nirman sahayakon ki
+//    baithak me pending vikas karyon ko jaldi poora karne ka nirdesh diya.
+//    Do wajah se reject: (a) Hindusthan Samachar whitelist me NAHI hai (ye PTI
+//    nahi hai, alag agency hai); (b) content sirf baithak + nirdesh hai — koi
+//    vyaktigat lokarpan/shilanyas, koi fund disclosed nahi. Retry-lead hai,
+//    entry nahi.
+// 5. https://www.susantaghosh.in/
+//    MLA ki apni site — '20+ road projects', '50+ welfare projects' jaise dawe
+//    self-published hain, kisi whitelist outlet se verify nahi. Source hi
+//    whitelist se bahar. Sirf retry-lead.
+// 6. https://shuru.co.in:443/post/fd7c425a-a4ee-41e4-8800-58b64b8c2383
+//    Chhota portal (whitelist bahar) — Feb 2026 me aalu ke daam par road
+//    blockade/protest ki khabar. Pre-term bhi hai aur protest work nahi hai.
+//    Bahar.
+// 7. https://www.thestatesman.com/bengal/mla-urges-urgent-action-on-rising-road-mishap-cases-1503442756.html/amp
+//    The Statesman whitelist me nahi hai; waise bhi June 2025 ka hai (pre-term)
+//    aur sirf maang/nivedan tha. Bahar.
+// 8. https://timesofindia.indiatimes.com/city/kolkata/tmc-bjp-clash-over-sir-in-khanakul/articleshow/123351390.cms
+//    TOI (whitelist) lekin Aug 2025 ka SIR clash — pre-term; MLA ka naam sirf
+//    ilzaam ke roop me aaya, unpar koi FIR/naamaa aaropi column me nahi. Bahar.
+// 9. https://myneta.info/westbengal2021/candidate.php?candidate_id=534
+//    2021 ka halafnama — purane 2 mamle (IPC 186/188/183/353). Halafnama ke
+//    mamle akele reject hote hain, aur May 2026+ me koi nyayik vikas nahi.
+//    Bahar.
+// 10. Chunav-nateeja wale page (ABP Live, Business Today, TOI, Oneindia) —
+//     May 2026 ki jeet ki khabar, work nahi. Bahar.
+// RETRY-LEADS: (a) susantaghosh.in ke '20+ road projects' dawon ki kisi
+// whitelist outlet par specific lokarpan wali khabar mile to dobara check
+// karna; (b) 16 Sept 2026 wali panchayat-baithak wali story agar kisi whitelist
+// outlet par mile to dobara check karna.
+
+westbengalWorks['susanta-ghosh'] = [];
+
+// --- Jhargram ---
+
+// WB BATCH 8 — Jhargram: Nayagram (ST) — amiya-kisku
+// ============================================================
+// AapkaNeta.org — works-mining fragment
+// District: Jhargram (worker wb8)
+// Seat: Nayagram (ST) | MLA: Amiya Kisku (BJP, Won 2026: 100857 votes, margin 6424)
+// ============================================================
+//
+// PEHCHAAN (seat se pakki):
+// - Slug 'amiya-kisku' — Nayagram (ST, Jhargram), BJP, MLA.
+// - MyNeta 2026 affidavit: s/o Late Mathura Kisku, umar 48, Assistant Teacher,
+//   BA (Vidyasagar University, 2003), koi criminal case nahi. Wahi vyakti sab
+//   khabron me hai (Nayagram MLA / MoS) — koi namesake trap nahi.
+// - Ye MLA MANTRI bhi hain: Minister of State, Food Processing Industries &
+//   Horticulture + Agriculture, shapath 1 Jun 2026 (sources: The Hindu live
+//   blog, Business Standard, The Statesman portfolio list).
+// - Niyam ke mutabiq: vibhag ke rajya-stariye faisle / yojna-ailaan / sarkari
+//   karyakram sab REJECT — sirf Nayagram SEAT ke vyaktigat kaam hi entry banenge.
+//
+// FOUNDATION CROSS-CHECK (src/data/westbengal.ts, line ~6812):
+// - constituency: 'Nayagram', constituencySlug: 'nayagram', party: BJP,
+//   post: 'MLA', tenures 2026-2031. Milaan poora.
+// - Criminal cases: 0 (foundation) — negatives search me bhi kuch nahi mila.
+// - BEUP fund: Rs 1 crore/seat/varsh (allocated). Koi itemized utilization
+//   source nahi mila — 'ghoshit nahi' status barkarar.
+// - Karyakaal window: SIRF May 2026+ (18vi Vidhansabha May 2026 me bani).
+//
+// KHOJ KA VIVARAN:
+// 8 search rounds (May 2026–Oct 2026 window), whitelist outlets par. Sab hits
+// ya to chunav coverage the, ya mantri-padasth rajya-stariye karyakram/ghoshnaen,
+// ya seat ke bahar ki maujoodgi. Nayagram seat ka koi vyaktigat kaam — lokarpan,
+// shilanyas, BEUP sanction list, Vidhansabha maang ka dastaveji nateeja,
+// GO-backed swikriti — nahi mila. Negatives: koi FIR/chargesheet/adalt ka
+// May 2026+ vikas nahi; purani Junglemahal-Maoist khabrein pre-term hain.
+//
+// REJECT-LOG (har lead ka kaaran + source):
+//
+// 1. REJECT — Telegraph India, 2 Oct 2026: Malda me aam-niryat ki 5-month
+//    action plan par departmental review meeting, Malda collectorate me;
+//    Kisku (MoS) ne zila prashasan ko niryat badhane ke nirdesh diye; Englishbazar
+//    food park ka daura. Rajya-stariye vibhag ka kaam + Malda Nayagram seat ke
+//    bahar hai — seat ka vyaktigat kaam nahi.
+//    Source: https://www.telegraphindia.com/west-bengal/ministers-export-push-for-malda-mangoes-five-month-action-plan-drawn-up-prnt/cid/2182711
+//
+// 2. REJECT — financialsamachar.com, 25 Sep 2026: AIFPA ka 'Food Safety
+//    Infrastructure 4.0' conference (ITC Royal Bengal, Kolkata); Kisku Guest of
+//    Honour ke roop me maujood. Non-whitelist outlet + sirf samaroh me
+//    maujoodgi — kaam nahi.
+//    Source: https://financialsamachar.com/aifpa-hosts-conference-on-food-safety-infrastructure-and-global-standards/
+//
+// 3. REJECT — ICMAI 'The Management Accountant' (Oct 2026 issue, PDF): 1 Sep
+//    2026 ko ICMAI ne MoS Food Processing Industries Kisku ka samman kiya.
+//    Non-whitelist source + samman-samaroh — kaam nahi.
+//    Source: https://dwpivt501gtb6.cloudfront.net/upload/about/Journal/TMA_Oct_2026_20261006210710.pdf
+//
+// 4. REJECT — thetravelandtourismtimes.com, ~Sep 2026: Jhargram Zoological Park
+//    me tiger safari project ka Forest Minister Manoj Oraon ne nirikshan kiya;
+//    Nayagram MLA Amiya Kisku saath me maujood the. Teen wajah: (a) non-whitelist
+//    outlet, (b) dusre neta (Forest Minister) ka karyakram — sirf maujoodgi,
+//    (c) project CM-promised/state budget ka hai aur Jhargram seat me hai,
+//    Nayagram seat ke bahar.
+//    Source: https://thetravelandtourismtimes.com/wildlife-tiger-safari-to-bring-big-cats-back-to-jhargram-after-150-years-west-bengal-forest-minister-inspects/
+//
+// 5. REJECT — Election coverage, May 2026 (IE election desk, TOI, Oneindia,
+//    DNA, ABP, WION, Business Today, newsable): Nayagram se jeet ki khabar —
+//    kaam nahi, entry nahi.
+//    Source: https://indianexpress.com/agency/election-desk/page/4/
+//    Source: https://indianexpress.com/elections/west-bengal-assembly-election/nayagram-constituency/
+//
+// 6. REJECT — Cabinet oath/shapath coverage, 1 Jun 2026 (The Hindu live blog,
+//    Business Standard, Zee News, News24Online, IndiaTV): 35 MLAs ne mantri ke
+//    roop me shapath li (Amiya Kisku MoS) — sarkari karyakram, seat ka kaam nahi.
+//    Source: https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-suvendu-adhikari-cabinet-formation-bjp-ministers-live-updates-monday-june-1-2026/article71047014.ece
+//
+// 7. REJECT — Portfolio allocation coverage, ~10 Jun 2026 (The Statesman,
+//    Times Now, smartupdate24, topindiannews): Kisku ko Food Processing
+//    Industries & Horticulture + Agriculture vibhag mila — pad milne ki khabar,
+//    seat ka vyaktigat kaam nahi.
+//    Source: https://www.thestatesman.com/bengal/suvendu-adhikari-retains-key-portfolios-as-bengal-govt-announces-ministerial-department-allocation-1503604117.html
+//
+// 8. REJECT (NEGATIVE CHECK) — Junglemahal/Maoist history khabrein (SATP
+//    timelines 2012/2016, Rediff 2009, IE 2010 archive, The Hindu 2021): Jhargram
+//    ilake ki purani hinsa ki khabrein hain, lekin inme Amiya Kisku ka naam kahi
+//    nahi aur sab pre-term hain; May 2026+ me Kisku se juda koi nyayik vikas nahi.
+//    Source: https://www.satp.org/satporgtp/countries/india/maoist/timelines/2012/westbengal.html
+//
+// 9. REJECT (NEGATIVE CHECK) — 'Amiya Kisku' + FIR/case/court/arrest search:
+//    koi FIR/chargesheet/adalati aadesh nahi mila. MyNeta affidavit me 'No
+//    criminal cases' — foundation (0) se milta hai. Negative entry banane ka
+//    koi aadhar nahi.
+//    Source: https://myneta.info/WestBengal2026/candidate.php?candidate_id=1420
+//
+// NISHKARSH:
+// Karyakaal sirf 5 mahine purana hai (May 2026 se); naye mantri ke roop me sab
+// coverage rajya-stariye vibhag kaam ki hai. Nayagram seat par vyaktigat
+// lokarpan/shilanyas, BEUP kharch ka dastavej, ya Vidhansabha maang ka nateeja
+// whitelist outlets par nahi mila. Negatives bhi shoonya. Khali profile galat
+// entry se behtar — array khali.
+//
+// ============================================================
+
+westbengalWorks['amiya-kisku'] = [];
+
+// WB BATCH 8 — Jhargram: Gopiballavpur (ST) — rajesh-mahata
+// ============================================================
+// AapkaNeta.org — West Bengal works-mining fragment
+// Seat: Gopiballavpur (ST), Jhargram district | Party: BJP
+// MLA: Rajesh Mahata (slug: rajesh-mahata) | Period: 2026-2031
+// ------------------------------------------------------------
+// FOUNDATION CHECK (pakka):
+// - Rajesh Mahata (BJP) won Gopiballavpur 2026 — 1,14,683 votes,
+//   margin 26,675 over AITC's Ajit Mahata; results 4 May 2026.
+//   Source: Times of India (whitelist), page opened via search.
+//   URL: https://timesofindia.indiatimes.com/india/gopiballavpur-assembly-election-results-2026/articleshow/130637059.cms
+// - MoS (Independent Charge) for Animal Resources Development and
+//   Fisheries, Govt of West Bengal; sworn in 1 June 2026 under CM
+//   Suvendu Adhikari. Source: The Telegraph (India, whitelist),
+//   page KHOLKAR PADHA (published 2026-06-10).
+//   URL: https://www.telegraphindia.com/west-bengal/bengal-govt-distributes-portfolios-among-newly-sworn-ministers-swapan-dasgupta-gets-finance/cid/2164905
+// ------------------------------------------------------------
+// KHOJ KA SANKSHIPT VIVARAN:
+// - Search queries: naam + seat (Gopiballavpur), foundation stone /
+//   inauguration / road / bridge / school / hospital, minister
+//   fisheries / animal resources / veterinary / hatchery, Jhargram
+//   visits Jun-Aug 2026, GP names (Sankrail, Beliabera, Tapshia,
+//   Lodhasuli), negatives (FIR / arrested / case / court), Kudmi
+//   leader references, trawler/fisheries review meetings.
+// - Seat-specific physical-infrastructure lokarpan / shilanyas with
+//   MLA ki vyaktigat dastaveji bhoomika — whitelist par NAHI mila.
+// - Election win (4 May 2026) pre-term hai, work nahi. Minister
+//   appointment (10 Jun 2026) pad-bhar hai, bhautik sanrachna nahi,
+//   statewide bhoomika hai — REJECT (neeche log me).
+// - Negatives: MLA khud aaropi hokar FIR/janch/nyayik vikas —
+//   May 2026+ me kuch nahi mila. Halafname me 6 cases (Indian
+//   Express candidate page) — halafnama-akele REJECT rule se bahar.
+// ============================================================
+
+// ------------------------------------------------------------
+// REJECT-LOG (sabki wajah comments me)
+// ------------------------------------------------------------
+// R1. Minister appointment news (The Telegraph, 2026-06-10):
+//     Rajesh Mahata ko MoS (Independent Charge) for Animal
+//     Resources Development and Fisheries banaya gaya.
+//     URL: https://www.telegraphindia.com/west-bengal/bengal-govt-distributes-portfolios-among-newly-sworn-ministers-swapan-dasgupta-gets-finance/cid/2164905
+//     WAJAH: pad-bhar / niyukti hai, bhautik sarkari sanrachna ka
+//     lokarpan ya shilanyas nahi; bhoomika statewide hai, seat se
+//     judi nahi. Works rule me fit nahi.
+// R2. Fisheries review meeting Kolkata 21 Sep 2026
+//     (indiaeducationdiary.in / m.dailyhunt.in snippets): Rajesh
+//     Mahata Union Minister Rajiv Ranjan Singh ke saath review
+//     meeting me maujood.
+//     URL: https://indiaeducationdiary.in/page/85/?author=0&gm2458
+//     WAJAH: non-whitelist sources (snippet-only), sirf review
+//     meeting me upasthiti; seat ke bahar; koi dastaveji nateeja nahi.
+// R3. Fishing trawler capsize, South 24 Parganas, 14 Jul 2026
+//     (indiasnews.net / ANI wire): minister ke roop me scene visit,
+//     DNA-test / search update.
+//     URL: https://www.indiasnews.net/news/279185569/dna-tests-will-be-needed-to-identify-bodies-search-on-for-six-missing-fishermen-wb-minister-on-boat-capsizing-incident
+//     WAJAH: non-whitelist source, seat ke bahar ka tragedy-response
+//     (Ramnagar/South 24 Parganas), work credit nahi banta.
+// R4. Jhargram District Tourism Development Meeting, DM office,
+//     14 Jul 2026 (travelagents10.com): Rajesh Mahata maujood the,
+//     Tribal Model Village upcoming project ka zikr.
+//     URL: https://www.travelagents10.com/IN/Jhargram/641950942593342/Jhargram-Tourism
+//     WAJAH: non-whitelist source; sirf upasthiti; koi fund / bhoomika
+//     disclosed nahi; pre-event upcoming project bhi hai.
+// R5. Indian Express candidate page — halafname me 6 cases darj.
+//     URL: https://indianexpress.com/elections/west-bengal-assembly-election/gopiballavpur-constituency/
+//     WAJAH: halafname ke mamle akele negative nahi bante (sakht
+//     REJECT rule); FIR column / janch / May 2026+ nyayik vikas ka
+//     koi established-media saboot nahi mila.
+// R6. Election result coverage (TOI, Business Today, WION, NDTV):
+//     Rajesh Mahata jeete — 1,14,683 votes, margin 26,675.
+//     WAJAH: election jeet work entry nahi; 4 May 2026 pre-term hai.
+// R7. Namesake caution: 2021 me 'Rajesh Mahato' (IND) alag candidate
+//     the; 'Rajesh Mehta / Mohata' alag log hain (search results me
+//     mixed results) — in sabko pehchan se chhantkar ignore kiya.
+// ------------------------------------------------------------
+
+westbengalWorks['rajesh-mahata'] = [];
+
+// WB BATCH 8 — Jhargram: Jhargram — lakshmi-kanta-sau
+// Fragment: lakshmi-kanta-sau (West Bengal) — researched 2026-10-19. DO NOT export; parent batch me merge hoga.
+// Seat: Jhargram (222), Jhargram district | Party: BJP | 18vi West Bengal Vidhansabha (term May 2026 se, period 2026-2031)
+// Foundation check: 2026 chunav me Jhargram seat BJP ke Lakshmi Kanta Sau ne jeeti (1,20,877 vote, 38,147 ke antar se; AITC ke Mongal Saren haare); 4 May 2026 ko pad sambhala. Seat + party + karyakaal-seema confirm.
+// Khoj ka vivaran: election-result pages (Indian Express, Times of India — pehchan ki pushti ke liye), phir news search — whitelist outlets (The Hindu, Indian Express, HT, NDTV, India Today, TOI, The Telegraph India, PTI-via-established) + general web par 'Lakshmi Kanta Sau', 'Laxmikanta Sau', 'Lakshmi Sau' ke sabhi spelling-variant se. Assembly-question/demand, lokarpan/shilanyas, BEUP-nidhi, aur FIR/negative queries bhi chalai. Jo bhi mila wo ya to sirf ghoshna/prastav tha, ya sirf daura/nirikshan, ya sirf bayan, ya non-whitelist source, ya pre-term mamla — koi bhi entry valid nahi bani. Isliye array khaali hai; neeche REJECT-LOG me har lead darj hai.
+
+// REJECT-LOG (har lead: source URL + reject ki wajah)
+// 1. https://www.thestatesman.com/cities/kolkata/when-wasted-gold-of-junglemahal-could-turn-into-spirit-of-hope-1503624355.html
+//    'BJP MLA Laxmikanta Sau' ne Jhargram (Nayagram/Gopiballavpur/Jamboni) me cashew-apple se liquor banane wali processing unit lagane ka prastav ghoshit kiya (Aug 2026 ke aaspaas). REJECT: sirf ghoshna/prastav — koi swikriti, GO, fund, ya bhoomi-pujan ka saboot nahi; aur The Statesman source-whitelist me nahi. Retry-lead: whitelist outlet me unit ki swikriti/GO mile to dobara dekho.
+// 2. https://thesaveratimes.com/one-killed-22-injured-as-lightning-strikes-football-match-in-bengals-jhargram/ (IANS feed; yahi khabar english.punjabkesari.com, thefreedompress.in, lokmattimes.com par bhi)
+//    Sept 2026 me Kumarbandh gaon (Jhargram) me football tournament par bijli giri — 1 ki maut, 22 ghayal; 'Local MLA Lakshmi Kanta Sau visited the hospital and met the injured'. REJECT: sirf nirikshan/daura + bayan — koi bhautik karya, fund, ya dastavezi bhoomika nahi; aur koi bhi outlet whitelist me nahi.
+// 3. https://thenewsmill.com/2026/06/bjp-mla-sahu-welcomes-west-bengal-public-safety-bill-to-strengthen-rule-of-law/
+//    'Lakshmikant Sahu, BJP MLA' ne 29 June 2026 ko West Bengal Public Safety Bill ka swagat karte hue bayan diya. REJECT: sirf bayan — koi dastavezi bhoomika, fund, ya nateeja nahi; outlet whitelist me nahi; aur naam 'Sahu' hai jabki Jhargram wale MLA ka naam 'Sau' hai, aur article me seat ka zikr nahi — seat se pehchan confirm nahi (namesake sandigdh; 'Sahu/Sau' transliteration-variant bhi ho sakta hai, lekin bina seat-pushti ke entry nahi ban sakti). Retry-lead: seat-confirmed whitelist coverage mile to dobara dekho.
+// 4. https://indiankanoon.org/doc/101454409/ (Calcutta HC, CRR 379/2021, order dated 24.09.2021)
+//    'Lakshmi Kanta Sau' 2019 ke Asansol GRPS case (GR Case No. 1021/19) me aaropi tha — giraftar hua, phir bail par riha; court se jabt cash wapas ki maang kharij hui. REJECT (negative): poora mamla pre-term hai (2019 case, 2021 order); indiankanoon established media nahi; May 2026+ ka koi nyayik vikas mila nahi; aur seat se pehchan confirm nahi (case Asansol/Paschim Burdwan ka hai). 'Halafname ke mamle akele' niyam se bhi reject. Retry-lead: May 2026+ me nyayik vikas + seat-confirmed established-media coverage mile to dobara dekho.
+
+westbengalWorks['lakshmi-kanta-sau'] = [];
+
+// WB BATCH 8 — Jhargram: Binpur (ST) — dr-pranat-tudu
+// West Bengal fragment — worker file: dr-pranat-tudu
+// Seat: Binpur (ST) | Party: BJP | Term: 2026-2031
+// Foundation check: pakka hai. Dr. Pranat Tudu ne May 2026 me Binpur (ST) seat BJP ke
+// liye 107,238 votes (margin 22,977, vs Birbaha Hansda, TMC) se jeeti. Cross-checked:
+// Times of India election page, Indian Express election page, Wikipedia Binpur page.
+// Pehchan seat se pakki — Jhargram Lok Sabha 2024 me bhi yehi Pranat Tudu BJP
+// ummidwar the, isliye purane 2024 ke case-sambandhi khabron me namesake ka khatra
+// nahi hai (seat + party + chehra ek hi hai).
+//
+// Khoj ka sankshipt vivaran: kul 10 targeted searches — (1) naam + inauguration/
+// foundation-stone/road/school, (2) naam + MLA + Binpur + Jhargram inauguration,
+// (3) naam + road/water/school/development-scheme 2026, (4) naam + assembly
+// question/demand/issue, (5) whitelisted outlets (Telegraph/India Today/NDTV/HT)
+// ke saath naam, (6) Binpur BJP MLA + hospital/water Aug-Oct 2026, (7) naam + case/
+// FIR/Calcutta HC Oct 2026, (8) naam + HC probe headline, (9) Tudu + Binpur MLA +
+// foundation-stone/inaugurated 2026, (10) HC probe follow-up. Sirf EK page
+// whitelist-niyam par khara utra aur browser.open se poora padha gaya — TOI ka
+// 29 Jul 2026 wala HC order (negative). Koi valid work (lokarpan/shilanyas/
+// swikriti/BEUP/vidhansabha-nateeja) whitelisted outlet me nahi mila.
+//
+// Date reasoning (disclosed): TOI article page par dateline print nahi thi. TOI ke
+// Calcutta-HC topic page par isi khabar ka timestamp "Jul 29, 2026, 18:26 (IST)"
+// darj hai, article me "on Wednesday" likha hai, aur date command se 2026-07-29
+// Wednesday hi nikla. Isliye date: 2026-07-29 inferred hai.
+//
+// REJECT-LOG (source URL + wajah):
+// 1. https://timesofindia.indiatimes.com/india/binpur-st-election-results-2026/articleshow/130717918.cms
+//    + https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/constituency-show/binpur
+//    Wajah: sirf election-result reporting hai; koi May 2026+ kaam/ghatna nahi.
+// 2. https://indianexpress.com/elections/binpur-election-result-live-updates-west-bengal-assembly-election-results-winner-10670023/
+//    + https://indianexpress.com/elections/west-bengal-assembly-election/binpur-constituency/
+//    Wajah: live result-tally pages; koi work nahi.
+// 3. https://www.oneindia.com/politicians/dr-pranat-tudu-76889.html
+//    Wajah: profile/biography page hai; May 2026 ke baad ka koi kaam darj nahi; whitelist me bhi nahi.
+// 4. https://en.wikipedia.org/wiki/Pranat_Tudu + https://en.wikipedia.org/wiki/Binpur_Assembly_constituency
+//    Wajah: whitelist me nahi; sirf election data, koi work nahi.
+// 5. https://www.businesstoday.in/elections/west-bengal/story/binpur-assembly-election-results-2026-live-updates-west-bengal-election-polls-results-2026-wbaelb-528834-2026-05-04
+//    + https://news.abplive.com/elections/binpur-st-election-result-2026-live-updates-constituency-vote-counting-winner-loser-tmc-bjp-congress-west-bengal-assembly-election-1840386
+//    Wajah: whitelist me nahi; sirf result coverage.
+// 6. https://udaipurkiran.com/bjps-dr-pranath-tudu-wins-binpur-assembly-seat-by-22977-votes/
+//    Wajah: whitelist me nahi (chhota portal); sirf jeet ki khabar.
+// 7. https://m.thewire.in/article/labour/a-farm-labourer-in-jangalmahal-rabindranath-sardar-is-a-candidate-on-a-mission/amp
+//    Wajah: 22 Apr 2026 ka campaign-daur ka piece hai — pre-term; koi work nahi.
+// 8. https://www.telegraphindia.com/elections/lok-sabha-election-2024/calcutta-high-court-restrains-police-action-against-two-bjp-candidates-for-lok-sabha-polls/cid/2024557
+//    + https://www.thehindu.com/news/national/west-bengal/hc-grants-reprieve-to-bengal-bjp-candidates-rekha-patra-pranat-tudu-from-police-action/article68246826.ece
+//    + https://www.thehindu.com/elections/lok-sabha/lok-sabha-elections-two-bjp-candidates-move-calcutta-hc-alleges-fake-cases-filed-to-stop-them-from-attending-counting/article68245631.ece/amp/
+//    Wajah: June 2024 ke pre-term mamle hain (FIR stay, chunav-ginti se pehle); May 2026+ ka nyayik vikas nahi.
+// 9. https://www.trendglee.com/news/kolkata-radiologist-decides-to-resign-from-service-to-contest-in-elections-high-court-gives-nod.html
+//    Wajah: whitelist me nahi; pre-election service-resignation ki khabar; koi work nahi.
+// 10. https://www.westbengal-tenders.co.in/latest/binpur-1-tenders/ + https://www.firsttender.com/tenders-detail-250709443930.html
+//     + https://www.firsttender.com/tenders-detail-260107484700.html + https://www.firsttender.com/tenders-detail-260221439780.html
+//     Wajah: sarkari tender listings hain; MLA ki vyaktigat dastaveji bhoomika kahin darj nahi; whitelist me bhi nahi.
+// 11. https://www.millenniumpost.in/amp/kolkata/day-after-cms-vow-two-villages-get-piped-water-499484
+//     Wajah: whitelist me nahi (Millenium Post rejected); purana mamla hai aur us samay ke MLA Debnath Hansda ka zikr hai.
+// 12. https://news.webindia123.com/news/articles/India/20260622/4465977.html
+//     Wajah: budget par BJP MLA Rajesh Kumar ka bayan hai — doosre MLA/seat ka mamla; whitelist me bhi nahi.
+// 13. https://mypresstoday.com/in/en/post/6170/318697613/cm-should-protect-all-citizens-mohandas-pai-slams-mamata-banerjee-amid-claims-of-hindu-exodus-in-murshidabad-over-waqf-bill-unrest.html
+//     Wajah: aggregator hai, whitelist me nahi; asli source The Hindu ka headline-saar tha.
+// 14. https://appwritefunc.yet-another-testing-domain.com/api/grab?url=https://timesofindia.indiatimes.com/city/kolkata/hc-allows-probe-against-bjp-mla-pranat-tudu/articleshow/132712747.cms
+//     Wajah: proxy/mirror URL hai; asli TOI URL (neeche cited) ko browser.open se seedha padha gaya.
+// 15. https://www.scribd.com/document/994925312/Statesman-Kolkata-09-02-2026
+//     Wajah: whitelist me nahi; Feb 2026 ka epaper-scan, Tudu ka koi zikr nahi mila.
+
+westbengalWorks['dr-pranat-tudu'] = [ { title: '2024 ke case me janch jaari rakhne ki Calcutta High Court ne ijaazat di, zabardasti karravaai par 12 Oct tak rok', category: 'Negative', badge: 'news', sourceLabel: 'The Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/kolkata/hc-allows-probe-against-bjp-mla-pranat-tudu/articleshow/132712747.cms', date: '2026-07-29', note: 'Calcutta High Court ne 29 Jul 2026 ko police ko 2024 ke case me Binpur BJP MLA Pranat Tudu ke khilaaf janch jaari rakhne ki ijaazat di, lekin 12 Oct tak adalat ki manzoori ke bina koi zabardasti wali karravaai na karne ka aadesh diya. Tudu ke vakeel Moyukh Mukherjee ne FIR radd karne ki guzaarish ki aur kaha ki ye shikayat unki apni shikayat ke jawab me darj hui thi — Tudu ne khud apne aur apne suraksha-karmiyon par hamle ki shikayat ki thi. Justice Saugata Bhattacharyya ne kaha ki janch par antarim rok isliye lagi thi kyunki us waqt Tudu 2024 Lok Sabha chunav me Jhargram se BJP ummidwar the aur matganana ke samay unki maujoodgi zaroori ho sakti thi, aur ab woh wajah mahatvaheen ho chuki hai. Stage-accurate: janch ki ijaazat mili hai, aarop saabit nahi hue hain; rok sirf 12 Oct tak ki thi.', period: '2026-2031' }, ];
