@@ -9,7 +9,7 @@
 // Speaker: Rathindra Bose (BJP, Cooch Behar Dakshin) — 15 May 2026 nirvirodh.
 // Dy CM / Dy Speaker: abhi tak ghoshit/pusht nahi (Oct 2026).
 // LoP VIVADIT: Speaker ne rebel-TMC ke Ritabrata Banerjee ko 3 Jun 2026 se LoP mana; Calcutta HC ne 18 Aug 2026 ko "for now" jaari rakhne diya.
-// TMC vidrohi gut: SC ne 28 Sep 2026 ko Speaker ko 10 naam-darj rebel MLAs ke disqualification yachikaon par 3-mahine me faisla karne ko kaha;
+// TMC vidrohi gut: Sarvochch Nyayalaya ne Sep 2026 me Speaker se 10 naam-darj rebel MLAs ke disqualification yachikaon par samay par faisla karne ko kaha;
 // in 10 ke records me party = TMC (ECI 2026 parinaam ke anusaar) + disclosure backgroundNote me.
 // Fund: BEUP — Rs 1 crore/seat/varsh (June 2026 budget se).
 // Backgrounds: MyNeta WestBengal2026 / ADR "Winning Candidates 2026" report se; na khulne par BACKGROUND_PENDING imaandaari se.
@@ -1658,7 +1658,7 @@ export const westbengalNetas: Neta[] = [
         assets: 'Rs 5,58,67,265',
         liabilities: 'BACKGROUND_PENDING',
         mynetaUrl: 'BACKGROUND_PENDING',
-        backgroundNote: 'Sabina Yeasmin (TMC), Sujapur, Malda. Age 48. 1 criminal case (Serious 0). Total assets Rs 5,58,67,265. Party TMC (ECI 2026 parinaam ke anusaar); disqualification yachika SC aadesh (28 Sep 2026) par Speaker ke paas lambit. Dhyaan rahe: Kaliganj ki CPI(M) ummidwar \'Sabina Yasmin\' se alag vyakti hain. Source: ADR West Bengal Winning Candidate Report 2026 (Hindi PDF), ECI affidavit data.',
+        backgroundNote: 'Sabina Yeasmin (TMC), Sujapur, Malda. Age 48. 1 criminal case (Serious 0). Total assets Rs 5,58,67,265. Party TMC (ECI 2026 parinaam ke anusaar); disqualification yachika Speaker ke paas lambit (Sarvochch Nyayalaya ne Sep 2026 me Speaker se samay par faisla karne ko kaha). Dhyaan rahe: Kaliganj ki CPI(M) ummidwar \'Sabina Yasmin\' se alag vyakti hain. Source: ADR West Bengal Winning Candidate Report 2026 (Hindi PDF), ECI affidavit data.',
       },
       electionNote: '2026 me Sujapur se TMC ticket par jeete: 112795 votes, margin 60287.',
   },
@@ -4913,7 +4913,7 @@ export const westbengalNetas: Neta[] = [
         assets: 'Rs 22,57,53,159',
         liabilities: 'Rs 1,36,79,175',
         mynetaUrl: 'BACKGROUND_PENDING',
-        backgroundNote: 'Firhad Hakim (AITC), Kolkata Port (Kolkata, GEN), 2026 vijeta. Graduate (B.Com, Heramba Chandra College). 2 criminal cases — CBI Narada case (RC10/2017) aur ED case (ML 7/2021). Pehle Kolkata ke Mayor the (5 June 2026 ko resign). Party TMC (ECI 2026 parinaam ke anusaar); disqualification yachika SC aadesh (28 Sep 2026) par Speaker ke paas lambit. MyNeta 2026 candidate page nahi mila — aankde ADR consolidated report + Indian Express constituency page se. Srot: adrindia.org, indianexpress.com; votes/margin ECI-sourced voterslist.in winners PDF.',
+        backgroundNote: 'Firhad Hakim (AITC), Kolkata Port (Kolkata, GEN), 2026 vijeta. Graduate (B.Com, Heramba Chandra College). 2 criminal cases — CBI Narada case (RC10/2017) aur ED case (ML 7/2021). Pehle Kolkata ke Mayor the (5 June 2026 ko resign). Party TMC (ECI 2026 parinaam ke anusaar); disqualification yachika Speaker ke paas lambit (Sarvochch Nyayalaya ne Sep 2026 me Speaker se samay par faisla karne ko kaha). MyNeta 2026 candidate page nahi mila — aankde ADR consolidated report + Indian Express constituency page se. Srot: adrindia.org, indianexpress.com; votes/margin ECI-sourced voterslist.in winners PDF.',
       },
       electionNote: '2026 me Kolkata Port se TMC ticket par jeete: 101226 votes, margin 56080.',
   },
@@ -5068,7 +5068,7 @@ export const westbengalNetas: Neta[] = [
         assets: 'Rs 11,93,79,822',
         liabilities: 'BACKGROUND_PENDING',
         mynetaUrl: 'BACKGROUND_PENDING',
-        backgroundNote: 'Sandipan Saha (AITC), Entally (Kolkata, GEN), 2026 vijeta. Graduate, koi criminal case nahi. Party TMC (ECI 2026 parinaam ke anusaar); disqualification yachika SC aadesh (28 Sep 2026) par Speaker ke paas lambit. MyNeta 2026 candidate page nahi mila — aankde ADR consolidated report + Indian Express constituency page se. Srot: adrindia.org, indianexpress.com; votes/margin ECI-sourced voterslist.in winners PDF.',
+        backgroundNote: 'Sandipan Saha (AITC), Entally (Kolkata, GEN), 2026 vijeta. Graduate, koi criminal case nahi. Party TMC (ECI 2026 parinaam ke anusaar); disqualification yachika Speaker ke paas lambit (Sarvochch Nyayalaya ne Sep 2026 me Speaker se samay par faisla karne ko kaha). MyNeta 2026 candidate page nahi mila — aankde ADR consolidated report + Indian Express constituency page se. Srot: adrindia.org, indianexpress.com; votes/margin ECI-sourced voterslist.in winners PDF.',
       },
       electionNote: '2026 me Entally se TMC ticket par jeete: 94427 votes, margin 34006.',
   },
@@ -5316,7 +5316,7 @@ export const westbengalNetas: Neta[] = [
         assets: 'Rs 4,84,96,085',
         liabilities: 'Rs 22,82,974',
         mynetaUrl: 'BACKGROUND_PENDING',
-        backgroundNote: 'Arup Roy (TMC) — Howrah Madhya se 2026 me jeete. Indian Express constituency page (ECI srot) ke anusaar umra 70, 0 criminal cases, kul sampatti Rs 4,84,96,085, deyn Rs 22,82,974. Shiksha category: Graduate Professional. Party TMC (ECI parinaam); disqualification yachika SC aadesh (28 Sep 2026) par Speaker ke paas lambit.',
+        backgroundNote: 'Arup Roy (TMC) — Howrah Madhya se 2026 me jeete. Indian Express constituency page (ECI srot) ke anusaar umra 70, 0 criminal cases, kul sampatti Rs 4,84,96,085, deyn Rs 22,82,974. Shiksha category: Graduate Professional. Party TMC (ECI parinaam); disqualification yachika Speaker ke paas lambit (Sarvochch Nyayalaya ne Sep 2026 me Speaker se samay par faisla karne ko kaha).',
       },
       electionNote: '2026 me Howrah Madhya se TMC ticket par jeete: 95948 votes, margin 16083.',
   },
@@ -5471,7 +5471,7 @@ export const westbengalNetas: Neta[] = [
         assets: 'Rs 3,31,97,176',
         liabilities: 'BACKGROUND_PENDING',
         mynetaUrl: 'BACKGROUND_PENDING',
-        backgroundNote: 'Ritabrata Banerjee (TMC) — Uluberia Purba se 2026 me jeete. ADR consolidated report (ECI halafnama srot) ke anusaar umra 47, 3 criminal cases, kul sampatti Rs 3,31,97,176. Shiksha aur deyn ka vivaran uplabdh nahi. Party ECI 2026 parinaam ke anusaar TMC; Speaker ne 3 Jun 2026 se LoP mana (Calcutta HC ne 18 Aug 2026 ko for now jaari rakhne diya); SC ne 28 Sep 2026 ko Speaker ko disqualification yachika par 3-mahine me faisla karne ko kaha.',
+        backgroundNote: 'Ritabrata Banerjee (TMC) — Uluberia Purba se 2026 me jeete. ADR consolidated report (ECI halafnama srot) ke anusaar umra 47, 3 criminal cases, kul sampatti Rs 3,31,97,176. Shiksha aur deyn ka vivaran uplabdh nahi. Party ECI 2026 parinaam ke anusaar TMC; Speaker ne 3 Jun 2026 se LoP mana (Calcutta HC ne 18 Aug 2026 ko for now jaari rakhne diya); Sarvochch Nyayalaya ne Sep 2026 me Speaker se disqualification yachika par samay par faisla karne ko kaha.',
       },
       electionNote: '2026 me Uluberia Purba se TMC ticket par jeete: 95633 votes, margin 11838.',
   },
