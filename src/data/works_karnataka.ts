@@ -1203,3 +1203,1061 @@ karnatakaWorks['g-h-srinivasa'] = [];
 
 // REJECT-LOG (k-s-anand, researched 2026-10-19): 131 revenue sub-villages (publicnext, Nov 2025) — MLA ne khud poora credit Revenue Minister Krishna Byre Gowda ko diya, isliye MLA kaam nahi; outlet bhi non-whitelist. Vedavathi paani vivad me shanti ki appeal (Public TV English, Apr 2025) — daura akela, kaam nahi. Maravanji biryani food-poisoning par Kadur hospital visit (Asianet Newsable, Nov 2023) — visit akela. KJ Ramachandran ka Kadur drought daura (The Hindu, Nov 2023) — mantri-daura, MLA maujood akela. District-level Rs 2,500 crore development dawa (TOI, Nov 2025, Cong DCC president ka bayan) — Kadur bus stand Rs 6 crore sarkari swikriti hai lekin MLA ki vyaktigat bhoomika report me nahi. Birur-Shivamogga rail FLS (Sansad eParLib) — railway vishay, MLA bhoomika nahi. NEGATIVE-CHECK: South First (13 Aug 2023) constable B.S. Latha suspension story me MLA par transfer ka aarop tha, lekin MLA ne seedha inkaar kiya, unke khilaaf koi FIR/chargesheet nahi (shikayat akeli), outlet non-whitelist — negative-rule fail. Halafname ke 2 pending mamle (FIR 188/2019, FIR 240/2022; CC 85/22 me charge Mar 2021) pre-term hain aur karyakaal me inme koi nyayik vikas (naya aadesh/chargesheet/giraftari) ka record nahi mila — negative akele pending-mamle par nahi banta.
 karnatakaWorks['k-s-anand'] = [];
+// ============================================================================
+// BATCH 6 (Chitradurga + Dakshina Kannada + Davanagere — 13/31 jile)
+// ============================================================================
+
+// --- Chitradurga ---
+
+// n-y-gopalakrishna (Molakalmuru-ST, INC) — REJECT-LOG (researched 2026-10-19): whitelisted outlets (The Hindu, Indian Express, HT, NDTV, India Today, TOI, Deccan Herald, PTI) me May 2023–Oct 2026 tak Molakalmuru seat par N. Y. Gopalakrishna ka koi dastavezi bhautik vikas kaam nahi mila — profile khaali rakhi gayi hai. Har lead ka kaaran: (1) Check-dam ka shilanyas — Jinagi Holla, Nagasamudra me Rs 3cr ka check-dam shilanyas; Siddapur, Hanumapura, Machenahalli, Nagasamudra, Heroor me aur check-dam ki ghoshna (publicnext.com, Dec 2025) — outlet whitelist me nahi, REJECT. (2) PDO baithak me garmiyon se pehle paani sankat rokne ki chetawani aur Molakalmuru bus stand ke liye transport minister se fund ki baat (publicnext.com, Mar 2026) — outlet non-whitelist + sirf baithak/chetawani/maang, REJECT. (3) KSRTC bus stand aur depot ka inauguration na hona (publicnext.com, Mar 2026) — non-whitelist; stand B. Sriramulu ke tenure (BJP sarkar, Rs 10cr) me bana, dusre neta ka kaam, REJECT. (4) Molakalmuru ko Andhra Pradesh ya Challakere me merge karne ka siyasi bayan (newindianexpress.com, 17 Aug 2026 — whitelisted par) — sirf siyasi bayan, bhautik kaam nahi; negative bhi nahi (FIR/janch/adalat nahi), REJECT. (5) Ambedkar Bhavan site ka nirikshan — sirf nirikshan, REJECT. (6) B. Sriramulu dwara potholes/hospital/hostel/houses par hamla (publicnext.com/ibcworldnews.com, Feb 2026) — opposition ka siyasi aarop, non-whitelist, negative criteria fail (FIR nahi), REJECT. (7) english.revoi.in par MLA ka khud ka bayan ki Molakalmuru me drainage, sadak, school nahi banwa paya — non-whitelist + negative criteria fail, REJECT. (8) TOI: seven-time MLA ne ministerial berth maangi (May 2025, Nayakanahatti) — whitelisted par siyasi maang, kaam nahi, REJECT. KLLADS (Rs 2cr/seat/varsh) ka istemal kisi whitelisted source me sourced nahi mila — fund joda nahi. Negatives: established media me Molakalmuru (INC) N. Y. Gopalakrishna ke khilaaf koi FIR/chargesheet/janch ya karyakaal me nyayik vikas nahi mila (dhyan rahe: SC/ST case me Infosys co-founder Kris Gopalakrishnan alag vyakti hain). Halafname ke mamle akele negative nahi — koi negative entry nahi.
+karnatakaWorks['n-y-gopalakrishna'] = [];
+
+// t-raghumurthy (Challakere ST, INC; Chitradurga district) — REJECT-LOG: whitelist (The Hindu, Indian Express incl. newindianexpress.com, HT, NDTV, India Today, TOI, Deccan Herald, PTI) me May 2023–Oct 2026 tak T. Raghumurthy ke naam se Challakere seat me koi vyaktigat lokarpan/shilanyas, itemized sanction list, ya GO-backed swikriti NAHI mili. Deccan Herald (whitelist) ne Aug 2026 cabinet expansion coverage me unhe Challakere ke 3-time MLA aur pehli-baar minister ke roop me darj kiya — ohda, kaam nahi. Rejected leads: (1) publicnext.com (non-whitelist) Sanikere Gram Panchayat building Rs 60 lakh ka lokarpan (Nov 2025) — non-whitelist, REJECT; usi portal par Parashuramapura ko taluk banane ki maang (Aug 2025) — non-whitelist + sirf maang/prastav, REJECT. (2) NIE (whitelist) Sep 2026: Upper Bhadra ke tahat Gonuru Lake par CM D.K. Shivakumar ki Ganga puja — Raghumurthy ne sirf ghoshna ki (district in-charge minister ke roop me); CM ka karyakram, MLA ka vyaktigat lokarpan nahi, REJECT; ibcworldnews (non-whitelist) ka Lakkavalli intake-point puja wala sanskaran bhi non-whitelist + Chikkamagaluru district (seat ke bahar) + rajya pariyojna, REJECT. (3) nationpress/IANS (non-whitelist) Oct 2026: ST Welfare Minister ke roop me Chamarajanagar ke tribal hamlets ka daura aur adhikariyon ko nirdesh — seat (Challakere) ke bahar ka kaam, REJECT (rule: seat ke bahar ka kaam entry NAHI). (4) ANI via asianet newsable (Aug 2026): Molakalmuru ko Andhra/Challakere me vilay ka sujhav — dusre MLA N.Y. Gopalakrishna ka bayaan, Raghumurthy pakshkaar nahi; raajneetik vivad, kaam nahi, REJECT. (5) NIE Sep 2023 (new districts): CM dwara Kannada Bhavana lokarpan + Rs 150cr works ke shilanyas — CM ka karyakram, MLA ka vyaktigat lokarpan nahi, REJECT. (6) The Hindu Apr 2016 drought action-plan — pre-term (2016), aur MLA sirf maujood the (minister H. Anjaneya ne yojna ghoshit ki), REJECT. KSSIDC chairman niyukti (Jan 2024, Oneindia non-whitelist) — ohda, seat ka kaam nahi. KLLADS fund ka koi sourced tathya kisi whitelist source me nahi — fund dawa nahi joda. Negatives: myneta.info Karnataka 2023 halafname (candidate_id 7890) me 'No criminal cases' declared; ADR ki Aug 2026 cabinet-expansion report me bhi 0 cases — halafname akele negative-rule fail. indiankanoon.org par 'N Raghumurthy vs State of Karnataka' (Feb 2024) — yachikakarta N. Raghumurthy Challakere ke Tahasildar hain (S/o T. Ningappa Nayaka), MLA T. Raghumurthy (S/o T. Thippaiah) nahi — pehchan fail, REJECT. Established media me MLA khud kisi FIR/chargesheet/confirmed jaanch me aaropi nahi; karyakaal me koi nyayik vikas nahi — koi negative entry nahi. Foundation cross-check: works_karnataka.ts me 't-raghumurthy'/'Challakere' ki koi entry pehle se nahi — koi antar nahi. Profile khali rakhi gayi.
+karnatakaWorks['t-raghumurthy'] = [];
+
+// FRAGMENT: k-c-veerendra-puppy (K. C. Veerendra alias Puppy, Chitradurga, INC) — 2023-2028 works research
+// Researched 2026-10-19. Positive works: ZERO qualifying (whitelisted outlet par koi lokarpan/shilanyas/sanction nahi mila).
+// Negative: 1 major in-term matter — ED ka online-betting/money-laundering case (Aug 2025 se): giraftari, custody-extension, HC se giraftari-vaidh, charge sheet, zamaanaat. Conviction NAHI hui hai.
+
+karnatakaWorks['k-c-veerendra-puppy'] = [
+  {
+    title: 'ED ne Karnataka Congress MLA K. C. Veerendra ko online-betting case me giraftaar kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (Rediff)',
+    sourceUrl: 'https://m.rediff.com/news/commentary/2025/aug/23/ed-arrests-karnataka-congress-mla-in-illegal-betting-case/820edb1e06fa71e133a184f5f199a880',
+    date: '2025-08-23',
+    note: 'PTI ki report (Rediff par) ke anusar ED ne Chitradurga ke Congress MLA K. C. Veerendra (alias Puppy) ko Sikkim ke Gangtok se illegal online aur offline betting se jude money-laundering case me anti-money-laundering kanoon ke tehat giraftaar kiya. ED ke dawe: raids me lagbhag Rs 12 crore cash (jisme lagbhag Rs 1 crore videshi currency sahit), Rs 6 crore ke sone ke zevar, lagbhag 10 kg chandi aur chaar vaahan jabt kiye gaye. Agency ne bataya ki 50 saal ke MLA ko Gangtok ke designated magistrate ke saamne pesh karke transit remand liya gaya taaki unhe Bengaluru court me pesh kiya ja sake; Veerendra apne sahyogiyon ke saath casino lease lene ke business visit par Gangtok gaye the. Ab tak koi conviction nahi hua hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Veerendra ki ED custody court ne 6 din badhai',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/karnataka/2025/Aug/29/karnataka-congress-mlas-ed-custody-extended-by-six-more-days',
+    date: '2025-08-29',
+    note: 'New Indian Express ki report ke anusar Special Court for People\u2019s Representatives ne Chitradurga Congress MLA K. C. Veerendra ki ED custody 6 din aur badhai. 22-23 Aug ko 31 sthanon par chhaape mare gaye the (Chitradurga jile me 6 sthan sahit); Rs 1 crore videshi currency, Rs 6 crore ke sone ke zevar, 10 kg chandi, Rs 12 crore cash aur chaar vaahan PMLA ke tehat jabt kiye gaye. MLA ke vakil ne zamaanat maangi, ED ne 15 din aur custody maangi. Date inference: report 29 Aug 2025 ko update hui; court ka custody-extension aadesh isi tareekh ka hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'Karnataka HC ne Veerendra ki ED giraftari ko vaidh mana, patni ki yachika kharij',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/karnataka-high-court-finds-no-illegality-in-arrest-of-mla-veerendra-by-ed-in-money-laundering-case/article70167680.ece',
+    date: '2025-10-15',
+    note: 'The Hindu ki report ke anusar Karnataka High Court ne K. C. Veerendra ki patni R. D. Chaitra ki yachika kharij kar di jisme ED ki giraftari ki vaidhata par sawaal uthaya gaya tha. Justice M. I. Arun ne kaha ki ED ke paas yeh maan-ne ke liye kaafi kaaran maujood hain ki Veerendra PMLA ke tehat money-laundering ke doshiyon ke roop me aaropit hain. Court ne yeh bhi kaha ki giraftari ke baad Veerendra zamaanat ke liye jurisdictional court ja sakte hain. Yachika ka jawab (court ne patni ki yachika par gaur kiya, MLA ki giraftari ko sahi paaya).',
+    period: '2023-2028'
+  },
+  {
+    title: 'Online-betting case me ED ke charge sheet ke baad Veerendra ko zamaanat mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/bangalore/arrested-ed-illegal-online-betting-congress-mla-k-c-veerendra-bail-grand-welcome-10448237/',
+    date: '2025-12-30',
+    note: 'Indian Express ki report ke anusar illegal online aur offline betting case me giraftaar Congress MLA K. C. Veerendra (alias Puppy) ko Bengaluru ke Special Court for People\u2019s Representatives ne zamaanat di, jiske baad Veerendra Parappana Agrahara Central Prison se riha hue. ED ke dawe: Veerendra ne cash chhupane ke liye kayi shell companies kholi, Dubai se King567 betting application unke bhatije Pruthvi N Raj ke zariye chal rahi thi, aur Veerendra Sri Lanka, Nepal aur Georgia me casinos bhi kisi aur ke naam par chala rahe the. Do raids me Rs 100 crore se zyada ki sampatti jabt hui, jisme Rs 40.69 crore bank/demat accounts me aur Rs 14.46 crore 262 mule accounts me freeze kiye gaye. Ab tak koi conviction nahi hua hai. Date inference: report Dec 2025 ki hai aur rihaai ko \u2018Tuesday evening\u2019 bataya gaya hai; 30 Dec 2025 Tuesday ko padta hai (search-crawl se lagbhag 292 din pehle), isliye 2025-12-30 rakha gaya hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'ED ne Veerendra ki Rs 177 crore ki sampatti kurk ki; case me kul Rs 320 crore se zyada ki attachment',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/karnataka/2026/Jan/30/online-betting-case-ed-attaches-rs-177-crore-assets-of-congress-mla-kc-veerendra-in-karnataka',
+    date: '2026-01-30',
+    note: 'New Indian Express ki report ke anusar ED ne Congress MLA K. C. Veerendra se judi movable aur immovable sampattiyon par Rs 177.30 crore ki provisional attachment ka aadesh diya; iske saath PMLA ke tehat case me kul Rs 320 crore se zyada ki sampatti attach ho gayi. ED ke anusar jaanch me Rs 2,300 crore se zyada ke proceeds of crime pehchane gaye jo illegal online betting aur gambling se bane aur multiple layers se launder kiye gaye. ED ne Veerendra ko PMLA ki dhara 19 ke tehat giraftaar kiya tha aur Special PMLA Court ke saamne prosecution complaint dayar ki thi. Date inference: report URL path /2026/Jan/30/ ke anusar 2026-01-30.',
+    period: '2023-2028'
+  }
+];
+
+// REJECT-LOG (k-c-veerendra-puppy):
+// 1. ibcworldnews.com, 15 Jun 2026 — MLA K C Veerendra Pappi launches development works (Singapore, Betta Nagenahalli, Vidyanagar me Rs 2.85 crore ke roads ki bhoomi puja): REJECT — outlet whitelist me NAHI hai (chhota portal); sirf bhoomi puja event ki coverage, sanction document ka koi zikr nahi.
+// 2. ibcworldnews.com, 14 Jun 2026 — MLA Veerendra Pappi pledges village development works (Sondekol/Kakkere me Rs 20 lakh + Rs 55 lakh + Rs 40 lakh ki sanctions ka dawa): REJECT — outlet whitelist me NAHI; kewal MLA ke dawe par aadharit, sarkari sanction ka koi dastavej nahi.
+// 3. ibcworldnews.com, 07 May 2026 — MLA promises upgradation of Rudrabhoomi facilities in Chitradurga: REJECT — outlet whitelist me NAHI; sirf nirikshan + aashwasan, koi kaam shuru nahi.
+// 4. ibcworldnews.com, 28 Jun 2026 — Kempegowda Jayanti par MLA ka bhashan: REJECT — samaroh me bhashan, vikas-karya nahi.
+// 5. youtube.com (News18 Kannada short) — SP ke saath jhagde ka video: REJECT — YouTube whitelist me NAHI; vikas-karya nahi.
+// 6. The Week (23 Aug 2025) — 2016 ka IT case (bathroom se Rs 5.70 crore nayi currency aur 32 kg sone ki zabti): REJECT — pre-term mamla (Dec 2016), karyakaal me is par koi nayi nyayik pragati nahi.
+// 7. newsable.asianetnews.com (IANS) — 18 Oct 2025 ko Bengaluru court me Veerendra ke khilaf charge sheet: charge-sheet ki ghatna VALID hai lekin outlet whitelist me NAHI; New Indian Express (whitelist) ki 30 Jan 2026 report me prosecution complaint ka zikr hai, isliye use entry banayi gayi, ye source alag se add NAHI kiya gaya.
+// 8. zee news (IANS, Feb 2026) — supplementary charge sheet (anya aaropiyon ke naam, Veerendra main accused): REJECT — outlet whitelist me NAHI.
+// 9. Mathrubhumi English (Feb 2026) — supplementary prosecution complaint: REJECT — outlet whitelist me NAHI.
+// 10. Chitradurga MP Govind Karjol ke MPLADS kaam: koi aisa kaam jisme MLA ki bhoomika dikhi ho, nahi mila; MP ke kaam entry NAHI karne ka niyam.
+// NOTE: MLA ke halafname me darj 2016 ka IT case pre-term hai aur is karyakaal me us par koi court order/report established media me nahi mili — isliye negative entry me shamil nahi.
+
+// QA: 10 candidates screened, 5 qualifying negative entries, 0 qualifying works. Whitelisted outlets (The Hindu, Indian Express, New Indian Express) par karyakaal ke koi vyaktigat vikas-karya (lokarpan/shilanyas/itemized sanction) nahi mile.
+
+// B. G. Govindappa — Hosadurga (INC) — karyakaal May 2023+
+// Whitelisted sources (The Hindu, Indian Express, Hindustan Times, NDTV,
+// India Today, Times of India, Deccan Herald, PTI outlets, sarkari portals)
+// me in-term vyaktigat karyon ki koi report nahi mili. Profile khali rakha
+// gaya hai; neeche har rejected lead ka kaaran srot ke saath darj hai.
+
+// REJECT-LOG:
+// 1. GFGC Hosadurga furniture handover (26-04-2025) — Karnataka Food and Civil
+//    Supplies Corporation (KFCSC) ki CSR initiative me Rs 16 lakh ka furniture
+//    daan; MLA B G Govindappa (KFCSC Chairman + CDC Chairman) ne haath saunpa.
+//    Srot: gfgc.karnataka.gov.in sarkari portal report (khud kholkar padha).
+//    REJECT: "mukhya-atithi/CSR samaroh" rules ke tahat reject — CSR samaroh
+//    + kaam corporation ka, MLA ka vyaktigat MLA-fund ka nahi.
+// 2. Mallappanahalli Jali Lake inauguration/handover (30-03-2026) — SKDRDP
+//    (NGO) ka Nammuru Namma kere karyakram, MLA chief guest ke roop me
+//    maujood. Srot: skdrdpindia.org (whitelist me nahi). REJECT: non-whitelisted
+//    srot + karyakram me maujoodgi; koi vyaktigat sanrachna-bhoomika nahi.
+// 3. Mining-affected areas review meeting, taluk panchayat hall (13-06-2025) —
+//    MLA ne adhikariyon ko fatkar lagayi, kaam ek mahine me poora karne ka
+//    nirdesh. Srot: publicnext.com (whitelist me nahi). REJECT: non-whitelisted
+//    + sirf nirikshan/baithak, koi lokarpan/shilanyas/swikriti nahi.
+// 4. Agricultural implements awareness workshop (16-05-2025) — MLA ne vendors
+//    ko gram-stariya uplabdhata ka nirdesh diya. Srot: publicnext.com
+//    (whitelist me nahi). REJECT: non-whitelisted + sirf baithak/vyakhyan.
+// 5. Crime Nos. 205/2023 aur 206/2023 (Hosadurga PS, dt. 07-05-2023 — IPC
+//    171C/171F, Child Labour Act, RP Act 123(3B)) — Karnataka High Court
+//    (Justice M. Nagaprasanna, Crl.P.Nos 10876/2023 aur 10938/2023) ne donon
+//    FIRs petitioner ke khilaf radd ki. REJECT: pre-term FIR + in-term
+//    nyayik raahat to hai, lekin koi established media coverage nahi mili
+//    (sirf casemine.com legal database) — negative rules whitelist mandatory
+//    hai, isliye include nahi kiya.
+// 6. Defamation suit (2009, daijiworld) — tab ke sports minister Gulihatti
+//    Shekhar ne ex-MLA B G Govindappa par Holalkere civil court me defamation
+//    case (IPC 499/500/501/502) mining-aaropon par. REJECT: pre-term mamla,
+//    karyakaal me koi nyayik vikas nahi.
+// 7. Myneta 2023 halafnama: FIR 107/2020, Srirampura PS (Sec 267 / Disaster
+//    Management Act, charges framed 29-12-2022). REJECT: "halafname ke mamle
+//    akele NAHI" rule — media-sourced FIR/janch ka dastavej nahi mila.
+// 8. CM Infrastructure Development Programme (July 2025) — sabhi 224 seats ke
+//    liye Rs 50 crore/constituency swikrit. REJECT: state-level sarkari ghoshna,
+//    Hosadurga ke liye MLA ki vyaktigat dastaveji bhoomika ka koi srot nahi;
+//    sirf ghoshna.
+
+karnatakaWorks['b-g-govindappa'] = [];
+
+// m-chandrappa (Holalkere, SC, BJP) — REJECT-LOG: whitelist (The Hindu, Indian Express, HT, NDTV, India Today, TOI, Deccan Herald, PTI) me May 2023–Oct 2026 tak M. Chandrappa ke naam se Holalkere me KOI dastaveji vikas kaam nahi mila — profile khaali rakhi. Rejected leads: (1) publicnext (Feb 2025): Thanigehalli me Rs 3cr ki CC, sadak kaamon ka shilanyas, Rs 1.50cr ka naya check dam aur Ingukere vikas — post-event in-term lekin publicnext whitelist me nahi, REJECT. (2) ThePrint/ANI (20 Mar 2023): CM Bommai ne Holalkere me vikas karyon ka lokarpan kiya — pre-term (May 2023 se pehle) + dusre neta (CM) + ThePrint whitelist me nahi, REJECT. (3) HT (Invest Karnataka Conclave): Chandrappa ne Suvarna Soudha me vidhansabha satra me Invest Karnataka Conclave 2022 ke MoU par sawal uthaya, mantri M.B. Patil ne jawab diya — sirf prashna, koi dastaveji nateeja/ashwasan nahi, REJECT. (4) The Hindu (29 Mar 2024): bete Raghuchandan ke liye Chitradurga LS ticket par asantosh, samarthakon ki baithak — party politics, na kaam na negative (party karyawahi akele negative nahi), REJECT. (5) The Hindu (4 Apr 2024): dissidence 'died down' — party matter, REJECT. (6) publicnext (Dec 2025): Hirekandavadi me Daliton ko aavantit zameen ki kharid par Anjaneya ke aarop, Chandrappa ka press conference me khandan aur 'ek inch bhi sabit ho to rajneeti se sanyas' ki chunauti — established media nahi, FIR/chargesheet/janch nahi, shikayat-rule se negative NAHI. (7) publicnext (Dec 2025): Adanur parivaar ka satyagraha — gram panchayat PDO aur MLA ne samjhaute me ghar banane ka ashwasan diya tha lekin bana nahi — non-whitelist + vikas kaam nahi + FIR/aaropi nahi, REJECT. (8) Indian Express (Aug 2022): midday meal food poisoning me 'Holalkere BJP MLA Chandrappa spot par nahi aaye' — pre-term (2022), REJECT. (9) myneta 2023 affidavit (candidate_id 7319): halafname ke mamle akele negative nahi, rule se bahar. (10) SKDRDP (Dec 2024): Holalkere me 'Vikasa Soudha' project office ka lokarpan Rev. D. Veerendra Heggade ne kiya, profit mantri D. Sudhakar ne baanta, scholarship ex-minister Anjaneya ne — NGO building, Chandrappa ka koi dastaveji role nahi, REJECT. (11) Deccan Herald (Sep 2026): Chitradurga KSRTC city bus — Chandrappa ka zikr nahi, irrelevant. (12) kmerc.karnataka.gov.in: Holalkere taluk me 101 anganwadi bhavan / 153 anganwadi upgradation / Hirekandavadi-Tanigehally CC road (Rs 6cr) ke CEPMIZ prastav — mass proposals, MLA ki vyaktigat dastaveji bhoomika nahi, REJECT. (13) TOI/HT/cnbctv18 election pages (May 2023): chunav parinaam, kaam nahi. KLLADS (Rs 2cr/seat/varsh) ka istemal kisi whitelist source me sourced nahi mila — fund dawa nahi joda. Negatives: 2023 halafname check kiya (halafname akele negative nahi); koi established media me FIR/chargesheet/janch ya in-term nyayik vikas nahi — koi negative entry nahi. Foundation cross-check: works_karnataka.ts me 'm-chandrappa' ki koi entry pehle se nahi — koi antar nahi.
+karnatakaWorks['m-chandrappa'] = [];
+
+// --- Dakshina Kannada ---
+
+// harish-poonja (Belthangady, BJP) — REJECT-LOG: whitelist (The Hindu, Indian Express, HT, NDTV, India Today, TOI, Deccan Herald, PTI) me May 2023–Oct 2026 tak Harish Poonja ke naam se Belthangady seat par KOI dastaveji vikas kaam nahi mila — teeno entries negative (in-term FIR) hain. (1) Kabaddi stadium / 2 kabaddi mats via MLAAD — source sirf newskarnataka.com (non-whitelist); Rs 9 crore ki swikriti pichhli BJP sarkar ki (pre-term), mats ki rakam sourced nahi — REJECT. (2) 55 sarkari schools me MRPL CSR toilets Rs 5.50 crore — daijiworld (non-whitelist), kaam 2020 ka (pre-term), CSR fund — REJECT. (3) Sacred Heart College free eye check-up camp (Sep 2024) — daijiworld media release (non-whitelist), MLA sirf udghatan-atithi, MCF CSR karyakram — REJECT. (4) NH spur roads (Periyashanthi-Paichar, Guruvayanakere-Bajagoli) — TOI: MP Brijesh Chowta + Poonja ne kendriya mantri Gadkari se anurodh kiya, Gadkari ne sakaratmak jawab diya — sirf prastav, swikriti nahi — REJECT. (5) Kumki/kana bana/soppina betta notification withdrawal ki maang (The Hindu, Jul 2024) — sirf maang — REJECT. (6) DK ka naam Mangaluru rakhne ka prastav — sirf prastav (daijiworld, non-whitelist bhi) — REJECT. (7) Rs 57 crore CRIF road projects — MP Brijesh Chowta ka announcement (The Hindu); Poonja ki vyaktigat dastaveji bhoomika nahi — MP ke kaam, REJECT. (8) Crop insurance payout me girawat ka aarop (Oct 2026) — aarop-jawaab ka mudda, vikas kaam nahi — REJECT. (9) NH-73 land acquisition aniyamitta ka aarop aur janch-maang (newindianexpress, Apr 2026) — sirf aarop — REJECT. (10) Van adhikari ko apshabd ka FIR (Oct 2024) — UNI snippet me zikr, kisi whitelist outlet par coverage nahi mili — REJECT (retry lead). (11) Police-station case me High Court stay ka dawa — sirf thenewsminute (non-whitelist) me; whitelisted confirmation nahi — note me stay dawa nahi joda, REJECT. (12) Kalaji fund protest (2020, mangaloretoday) — pre-term + shikayat, FIR nahi — REJECT. (13) Bhagawadhwaja video vivad (Mar 2022) — pre-term + bhashan, kaam nahi — REJECT. (14) TOI ka May 2025 FIR article (timesofindia...amp_articleshow/120876310.cms) — browser.open par HTTP 403, page khul nahi saka (retry lead); usi ghatna ke tathya The Hindu (amp) se confirm karke entry The Hindu source par rakhi. (15) KLLADS (Rs 2cr/seat/varsh) ka istemal Belthangady ke liye kisi whitelist source me sourced nahi mila — fund dawa nahi joda. Negatives: teeno entries me FIR established media par hai aur MLA khud aaropi hai; jawab aur nyayik vikas note me disclosed hai.
+// NOTE: Neeche ke saare titles/notes Roman-script Hinglish me hain (Devanagari/Kannada script nahi), currency "Rs" me.
+karnatakaWorks['harish-poonja'] = [
+  {
+    title: 'Belthangady police ne MLA Harish Poonja ke khilaf police station me hungama karne aur bina anumati pradarshan karne par do FIR darj ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/threat-to-police-should-we-let-off-harish-poonja-just-because-he-is-an-mla-asks-siddaramaiah/article68215604.ece',
+    date: '2024-05-19',
+    note: 'The Hindu ke anusar police ne 19 May 2024 ko MLA ke khilaf case darj kiya, kyunki unhone 18 May ki raat Belthangady police station me hungama kiya tha — wahan BJP Yuva Morcha ke taluk adhyaksh Shashiraj Shetty ki giraftari ka virodh ho raha tha (Shetty par Melantabettu me avaidh patthar khadan aur visfotak rakhne ka aarop tha). 21 May ko doosri FIR darj hui, kyunki 20 May ko Vikasa Soudha ke samne Shetty ki giraftari ke khilaf bina anumati pradarshan hua tha. CM Siddaramaiah ne 25 May ko bataya ki MLA par IPC ki dhara 353 (public servant ko kartavya se rokna) ke tahat FIR hai jo non-bailable hai aur dosh siddh hone par 7 saal tak ki saza ho sakti hai; unhone kaha ki MLA ke khilaf police ko dhamkane ke do case darj hain. MLA ka paksh (Hindustan Times ke anusar): BJP pradesh adhyaksh B.Y. Vijayendra ne kaha ki Shetty ko police ne galat phasaya aur FIR sarkar ke badle ki bhavna se darj ki gayi; giraftari rokne ki BJP ne Dakshina Kannada Bandh ki dhamki bhi di thi. Nyayik vikas: Karnataka High Court ke quashment order (CC No.18210/2024, Belthangady court) ke anusar police ne chargesheet daakhil kar di thi aur case trial court me lambit hai. Stage-accurate: FIR + chargesheet + trial-court case lambit; koi antim adalati faisla source me darj nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Uppinangady police ne MLA Harish Poonja ke khilaf Tekkar ke Gopalakrishna Temple me Brahmakalashotsava ke dharmika sabha me kathit bhadkau bhashan par BNS ke tahat FIR darj ki.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/temple-committee-apologises-to-muslims-hurt-by-belthangady-mlas-remarks/article69570966.ece',
+    date: '2025-05-04',
+    note: 'The Hindu ke anusar 3 May 2025 ko Belthangady taluk ke Tekkar gaon me Bhattarabailu Gopalakrishna Temple ke Brahmakalashotsava ke dharmika sabha karyakram me MLA ne kathit taur par ek samuday ko lakshya karke bhadkau bhashan diya — unhone Brahamkalashotsava aayojan samiti ke lagaye tubelights ko nuksan pahunchane ka aarop Muslims ke ek varg par lagaya aur aayojan samiti se sawal kiya ki Muslims ko karyakram me kyun bulaya gaya. Shikayat ke baad Uppinangady police ne 4 May 2025 ko FIR darj ki; The Hindu ke anusar BNS ki dhara 353(2) lagi (TOI ke anusar BNS ki dhara 196 bhi lagi — lekin TOI ka page 403 par khul nahi saka, retry lead). MLA ka paksh: 5 May ko Mangaluru me press se baat me unhone bhashan ko sahi thahraya aur kaha ki unhone apne shabdon se sirf Hindu samaj ko jagaya hai; sarkar ne ise sampradayik mana. Nyayik vikas (court reporting, LiveLaw/newskarnataka ke anusar): police ne May 2025 me chargesheet daakhil ki; MLA ne High Court me FIR radd karne ki yachika dayi aur 22 May 2025 ko Justice S. Rachaiah ki vacation bench ne agali sunvai (18 June) tak karyavahi par antarim rok lagai. Stage-accurate: FIR + chargesheet + High Court ne karyavahi par rok lagai; koi antim adalati faisla source me darj nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Belthangady police ne MLA Harish Poonja ke khilaf unke is dawe par FIR darj ki ki CM Siddaramaiah 24 Hindu karyakartaon ki hatya ke zimmedaar hain.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'NDTV',
+    sourceUrl: 'https://www.ndtv.com/karnataka-news/case-filed-against-karnataka-mla-for-hate-speech-against-siddaramaiah-4066780',
+    date: '2023-05-25',
+    note: 'NDTV ke anusar Dakshina Kannada jile ki Belthangady police ne Belthangady ke BJP MLA Harish Poonja aur ek anya vyakti ke khilaf CM Siddaramaiah ke khilaf kathit hate speech par case darj kiya. Poonja ne 22 May 2023 ko Belthangady me apne vijay bhashan me aarop lagaya tha ki Siddaramaiah jile me 24 Hindu karyakartaon ki maut ke zimmedaar hain; bhashan ke audio-video viral hue the. Mahila Congress karyakarta Namita K. Poojary ki shikayat par MLA aur karyakram aayojak Jayant Kotiyan par IPC ki dhara 153 (danga bhadkane ke irade se uksana), 153A (dharm aadi ke aadhar par samuhon me dushmani badhana) aur 505 (lok-upadrav ke liye uksane wale bayan) ke tahat case darj hua; Dakshina Kannada SP Vikram Amathe ne FIR ki pushti ki. Tithi anumanit: lekh me Guruvar ko FIR darj hona likha hai aur lekh 25 May 2023 ko prakashit hua; 25 May 2023 Guruvar tha, isi se tithi li gayi hai. MLA ka turant jawab lekh me darj nahi; nyayik vikas (court reporting ke anusar): MLA ne High Court me yachika dayi aur court ne janch par rok lagai. Stage-accurate: FIR darj + High Court ne janch par rok lagai; koi antim adalati faisla source me darj nahi.',
+    period: '2023-2028',
+  },
+];
+
+// umanatha-kotian — 0 works + 0 negatives
+// Moodabidri (delimitation ke baad: Mulki-Moodabidri), BJP — MLA record pakka:
+// May 2023 me seat barkarar (Umanath Kotian 86,925 vote; Congress ke Mithun M. Rai 64,457 — oneindia result page);
+// 2018 me pehli baar BJP ne yahan khaata khola tha (The Hindu election profile, article66788661).
+// Poorv me Karnataka Tulu Sahitya Academy ke adhyaksh rahe (ye tenure pre-term hai).
+// Karyakaal May 2023+ me ye VIPAKSHI MLA hain (sarkar Congress ki) — whitelisted media
+// (The Hindu, TOI, DH, NIE, HT, NDTV, India Today, PTI) me unke vyaktigat lokarpan/shilanyas
+// ki koi post-event report NAHI mili. Jo leads mile, sab ya to sirf maang/prastav,
+// ya dusre netaon ke karyakram me maujoodgi, ya CSR/mela/dharmik samaroh nikle.
+// Isliye profile KHALI hai — khali profile theek hai (standing rule).
+// Fund note: KLLADS (Rs 2cr/seat/varsh) se juda koi itemized suchi ya fund-disclosure
+// kisi bhi whitelisted srot me nahi mila — isliye koi fund joda nahi gaya ("ghoshit nahi").
+karnatakaWorks['umanatha-kotian'] = [];
+
+// REJECT-LOG (umanatha-kotian):
+// 1. Deccan Herald "Karnataka yet to release Rs 73 lakh compensation for loss of crops in elephant menace"
+//    (.../karnataka-yet-to-release-rs-73-lakh-compensation-for-loss-of-crops-in-elephant-menace-4128333,
+//    29 Aug 2026 — browser.open se kholkar padha): DISHA review meeting me Kotian ne Mangaluru airport
+//    kshetra ke jalbharao ka mudda uthaya; PWD adhikariyon ne KEVAL Rs 23 crore ka prastav banaya hai
+//    (Kandavara GP ke rajakaluve ke liye), Bajpe Town Panchayat hisse ka estimate bhi abhi banna hai.
+//    REJECT — sirf maang/prastav; koi manzoori/GO/shilanyas/lokarpan nahi. (TOI ki DISHA-meet story
+//    articleshow/133615548.cms, Sep 2026 — wahi tathya, wahi rejection.)
+// 2. The Hindu "MLA inaugurates fruits fair at Pilikula" (article68320708.ece, 22 Jun 2024):
+//    Pilikula Nisargadhama me 2-divasiya phal mela ka udghatan. REJECT — mela/utsav ka udghatan;
+//    koi bhautik sarkari sanrachna nahi.
+// 3. TOI "233 Beneficiaries Get Artificial Limbs" (articleshow/104434560.cms, Oct 2023):
+//    MRPL ke 7-divasiya muft artificial limb camp (CSR) ka udghatan MLA ne kiya.
+//    REJECT — CSR samaroh; mukhya-atithi bhoomika (standing rule: CSR samaroh reject).
+// 4. New Indian Express / The Hindu / TOI / PTI — "Praja Soudha" Mulki taluk prashasanik bhawan
+//    (14 Mar 2026; NIE .../2026/Mar/14/district-level-sits-to-be-set-up...; TH article70743363.ece;
+//    TOI articleshow/129578941.cms): udghatan Revenue Minister Krishna Byre Gowda aur district
+//    in-charge Minister Dinesh Gundu Rao ne kiya (Rs 12 crore bhawan); Kotian sirf maujood/presided.
+//    REJECT — dusre neta ke karyakram me maujoodgi.
+// 5. The Hindu "Home Minister to lay foundation stone for new police quarters in Mangaluru"
+//    (article70639742.ece, 16 Feb 2026): Moodbidri ke naye police quarters ka udghatan Home Minister
+//    G. Parameshwara ne kiya; report me Kotian ka ullekh bhi nahi. REJECT.
+// 6. The Hindu "BJP legislators accuse DK administration of interfering in the rights of MLAs"
+//    (article67180198.ece, Aug 2023): Iruvail GP me Rajiv Gandhi Seva Kendra + GP office ka udghatan
+//    31 July ko HONA THA — protocol vivaad par RADD ho gaya, kabhi hua nahi. REJECT — radd karyakram;
+//    koi kaam nahi (ye rajnaitik khabar hai, works nahi).
+// 7. The Hindu "MLA asks district administration to prevent sewage flow into Nandini river"
+//    (article69377617.ece, 26 Mar 2025): Khandevu fishing festival ke liye Nandini nadi me sewage
+//    rokne ki maang. REJECT — sirf maang, koi parinaam darj nahi.
+// 8. The Hindu "Despite demand, KSRTC yet to apply for new route permits in Dakshina Kannada"
+//    (article70267135.ece, 11 Nov 2025): review meeting me Mangaluru-Moodbidri permit par HC stay ka
+//    mudda uthaya. REJECT — sirf maang/charcha, koi dastaveji nateeja nahi.
+// 9. Mangalore Today "Alva's Medical College inaugurated in Moodbidri" (~Sep 2025): udghatan Union
+//    Minister Pralhad Joshi ne kiya; Kotian sirf maujood. REJECT — whitelist bahar + dusre neta ke
+//    karyakram me maujoodgi + niji shikshan sanstha.
+// 10. Daijiworld "Mangaluru: Maravoor set to get new bridge" (newsID=1315109, 22 May 2026):
+//     SH-67 par Maravoor me Rs 40 crore ka naya bridge; tender prakriya chal rahi hai; MLA ne purane
+//     bridge par 2 saal pehle kharch hue Rs 6 crore ka zikr kiya. REJECT — whitelist bahar (daijiworld)
+//     + tender abhi chal raha hai, koi shilanyas/lokarpan nahi.
+// 11. publicnext.com "Rs 92.51 crore for Mulki Taluk Drinking Water Project" (~Jan 2026):
+//     Republic Day samaroh me MLA ka DAWA — Mulki Nagar Panchayat drinking water scheme ke liye
+//     Rs 55.55 crore + Rs 36.96 crore (kul Rs 92.51 crore) sanctioned, kaam pragati par. REJECT —
+//     aggregator, whitelist bahar; koi GO/manzoori-dastavej nahi. RETRY-LEAD: kisi whitelisted outlet
+//     me post-event report ya sarkari GO mile to "dawa"-badge entry ban sakti hai.
+// 12. publicnext.com "Mulki: Efforts to solve drinking water problem" (7 Feb 2026): Lingappaiahkadu
+//     Nagabana (KS Rao Nagar) me Rs 7 lakh ka drinking water plant — MLA ke LRDF se Rs 5 lakh + 15th
+//     Finance Commission se Rs 2 lakh — ka udghatan MLA ne kiya; Vijayapura Colony me Narayana Guru
+//     Road ke naam-patal ka anaavaran bhi. REJECT — aggregator, whitelist bahar. RETRY-LEAD (sabse
+//     majboot): whitelisted outlet me post-event report mile to VALID entry banegi — vyaktigat
+//     lokarpan, fund disclosed (Rs 5 lakh LRDF + Rs 2 lakh 15th FC), bhautik sanrachna.
+// 13. ibcworldnews epaper (Oct 2026) + Deccan Herald "MRPL announces Rs 1.20 crore compensation..."
+//     (4167405, Oct 2026): MRPL CHTU blast ke baad management ne Rs 90 lakh muavza + Rs 10 lakh
+//     medical insurance (contract workers sahit) par sahamati di; Kotian ne MD se baatcheet ki.
+//     REJECT — company ka muavza (sarkari fund/sanrachna nahi); vivaad-samadhan, works nahi.
+//     (DH story me muavza minister U.T. Khader ke hastakshep par; Kotian sirf protest me maujood.)
+// 14. TOI "'DC ignored MLA in decision to hold kambala in Pilikula'" (articleshow/113139655.cms,
+//     Sep 2024): DC ke khilaf privilege motion ki dhamki — rajnaitik vivaad. REJECT — kaam nahi;
+//     negative bhi NAHI (koi FIR nahi).
+// 15. TOI "Remark against speaker: Won't apologise, says suspended MLA Umanath Kotian"
+//     (articleshow/119419372.cms, Mar 2025): 18 BJP MLAs ke saath 6-mahine ka sadan-nilamban.
+//     NEGATIVE NAHI — sadan/party karyawahi akele negative nahi (standing rule).
+// 16. HT "Ruckus hits Karnataka assembly, 10 BJP MLAs suspended" (Jul 2023, 101689794704037-amp)
+//     + related: Kotian sahit 10 MLAs ka session-nilamban. NEGATIVE NAHI — wahi rule.
+// 17. TOI "'MLA wanted fertile land to be acquired for industry'" (articleshow/99681601.cms,
+//     Apr 2023): May 2020 ke patra (pre-term) ka chunavi vivaad; MLA ne aarop nakara. Pre-term +
+//     koi FIR nahi — NEGATIVE NAHI.
+// 18. Daijiworld "Mangaluru: Permude church reopens in splendour" (newsID=1331690, 16 Oct 2026):
+//     church diamond jubilee me shirkat. REJECT — dharmik samaroh me maujoodgi + whitelist bahar.
+// 19. Daijiworld "Fortune Aura launched in Moodbidri" (newsID=1300093, Dec 2026): niji residential
+//     project ka site-office udghatan. REJECT — niji project + whitelist bahar.
+// 20. Mangalore Today "CM Bommai inaugurates Anna Dasoha building in Moodbidri" (27 Apr 2022):
+//     udghatan CM ne kiya; pre-term. REJECT — pre-term + dusre neta ka karyakram.
+// 21. Bellevision "Newly-built Primary Health Centre at Bajpe offered unto society": udghatan mantri
+//     ne kiya, Kotian ne adhyakshata ki; BJP-sarkar kaal (pre-term). REJECT — whitelist bahar +
+//     pre-term + dusre neta ka udghatan.
+// 22. Mangalore Today "Coastal MLAs seek integrated development, higher budget allocation"
+//     (13 Feb 2026): Coastal Development Board meeting me water metro/tourism fund ki maang.
+//     REJECT — sirf maang + whitelist bahar.
+// 23. Indian Express "Moral policing incidents rise in Karnataka" (Oct 2021): pre-term; MLA aaropi
+//     NAHI (aaropiyon ko thane se le jane ka zikr). NEGATIVE NAHI — pre-term + FIR me naam nahi.
+// 24. Daijiworld "MLA Umanath Kotian dismisses allegation of pending case" (Aug 2018): ADR survey me
+//     IPC 363 ke dawe ka khandan; purana protest-case court se disposed. Pre-term + halafname ke
+//     mamle akele negative NAHI.
+// 25. TOI "Second edition of Tulunad Conclave on Aug 23" (articleshow/133123623.cms, Aug 2026):
+//     conclave me shirkat. REJECT — sanskritik karyakram, kaam nahi.
+// 26. TOI "Legislators demand budget allocation for coastal development" (articleshow/128268927.cms,
+//     Feb 2025): budget me fund ki maang. REJECT — sirf maang.
+// 27. TOI "MLAs demand that administration control laterite stone price" (articleshow/125254306.cms,
+//     Nov 2025): DISHA meeting me thekedaaron par karrawai ki maang. REJECT — sirf maang.
+// 28. TOI "BJP delegation submits 44 demands to CM ahead of cabinet meeting"
+//     (articleshow/134215523.cms, Sep 2026): 44 maangon ka gyaapan. REJECT — sirf maang.
+// NEGATIVE leads: upar #15, #16, #17, #23, #24 sab reject — is karyakaal me MLA ke khilaf koi FIR/
+// chargesheet/janch ya nyayik vikas established media me NAHI mila. Negatives = 0.
+
+// bharath-shetty-y — Dr Y. Bharath Shetty (Mangalore City North, BJP); karyakaal May 2023+; doosri baar ke MLA (2018 se).
+// Mining: 0 works + 2 negatives (dono in-term FIR, MLA khud aaropi, established media, jawab disclosed).
+// Works: whitelist outlets (The Hindu, Indian Express, HT, NDTV, India Today, TOI, Deccan Herald, PTI) me May 2023–Oct 2026 tak
+// MLA ke vyaktigat lokarpan/shilanyas ya dastaveji sanction wala koi seat-level bhautik kaam nahi mila.
+// Sabse mazboot lead (The Hindu, Surathkal-Bajpe RoB concreting, Rs 78 lakh tender, MLA ne adhikariyon ki baithak ki adhyakshata ki)
+// browser.open par 403 aane se source verify nahi ho saka — RETRY-LEADS me darj, entry nahi banayi.
+// Fund note: KLLADS (Rs 2cr/seat/varsh) ka istemal kisi whitelist source me kisi vishisht kaam ke liye cited nahi mila — ghoshit nahi.
+// Halafnama (myneta.info, Karnataka 2023): 0 declared criminal cases — halafnama akele negative nahi, entry nahi.
+// Sab entries Roman-script Hinglish me hain; currency Rs me; negative entries me stage field nahi.
+karnatakaWorks['bharath-shetty-y'] = [
+  {
+    title: 'St Gerosa English Higher Primary School vivad me Mangalore City North MLA Y. Bharath Shetty ke khilaf FIR darj hone par Vidhansabha me hungama hua, jisme Grih Mantri ne sadan me bayan diya ki MLA virodh ke samay school me maujood nahi the.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/karnataka/2024/Feb/16/st-gerosa-school-issue-ruckus-over-fir-against-mangaluru-bjp-mla',
+    date: '2024-02-16',
+    note: 'NIE ne likha ki St Gerosa English Higher Primary School vivad me Mangaluru North BJP MLA Bharath Shetty Y ke khilaf police ne FIR darj ki, jisse sadan me hungama hua. Grih Mantri G Parameshwara ne sadan me bayan diya ki unhone police commissioner se verify kiya hai — MLA us samay school me nahi the jahan ek teacher ke kathit bayan par virodh hua tha — aur dono pakshon par aage ki jaanch ke baad hi doshiyon par kaarvai hogi. Vipaksh ne FIR darj karne wale sub-inspector ke turant nilamban ki maang ki, jise mantri ne thukra diya. MLA Shetty ne sadan me apna paksh rakhte hue kaha ki ve us samay Bengaluru ja rahe the (boarding pass ka hawala diya) aur phir bhi unpar gair-zamanati mamla darj kiya gaya. Tithi: lekh 16 Feb 2024 ko prakashit hua; sadan ka hungama Guruvaar (15 Feb) ko hua — isi aadhar par tithi li gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Rahul Gandhi par kathit uksaane wale bayan ko lekar Mangaluru North MLA Y. Bharath Shetty ke khilaf Kavoor police station me BNS ki dharaon me FIR darj hui aur police ne unhe jaanch team ke samne pesh hone ka notice bheja.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/india/bjp-mla-bharath-shetty-booked-for-remarks-against-rahul-gandhi-9445289/',
+    date: '2024-07-10',
+    note: 'Indian Express ne likha ki Karnataka BJP MLA Y Bharath Shetty ke khilaf Kavoor (Mangaluru) me ek karyakram me Congress MP aur Lok Sabha me Vipaksh ke Neta Rahul Gandhi ke khilaf kathit uksaane wale bayan par mamla darj hua. FIR ke mutabik 8 Jul ko Shetty ne kaha tha ki Rahul Gandhi ko Parliament ke andar band karke thappad marna chahiye. Congress neta Anil K ki shikayat par Mangaluru Police Commissioner Anupam Agarwal ke anusaar FIR darj ki gayi; Shetty par Bharatiya Nyaya Sanhita 2023 ki dhara 351(3) (criminal intimidation) aur 353 (public mischief ke liye uksaane wale bayan) lagayi gayin, aur ek police adhikari ne bataya ki Shetty ko jaanch team ke samne pesh hone ka notice bheja gaya. Tithi anumanit: IE ne 10 Jul 2024 ko FIR darj hone ki khabar prakashit ki. Adalat se raahat: 19 Jul 2024 ko Karnataka High Court ne FIR par rok lagayi thi — ye tathya barandbench/scroll.in se hai, kisi whitelist outlet me iski pushti nahi mili, isliye stage-framing ki live-browser se pushti karne yogya hai.',
+    period: '2023-2028',
+  },
+];
+
+/*
+REJECT-LOG (bharath-shetty-y):
+1. mangalorean.com — "MLA Dr Bharath Shetty Lays Foundation Stone for RGUHS Regional Centre in City" (Oct 2020)
+   URL: https://www.mangalorean.com/mla-dr-bharath-shetty-lays-foundation-stone-for-rguhs-regional-centre-in-city/
+   REJECT: pre-term (karyakaal May 2023 se) + non-whitelist portal.
+2. mangaloretoday.com — "Mangaluru: CM lays foundation for RGUHS Regional Centre at Maryhill" (17 Jan 2025)
+   URL: https://www.mangaloretoday.com/main/Mangaluru-CM-lays-foundation-for-RGUHS-Regional-Centre-at-Maryhill.html
+   REJECT: non-whitelist + shilanyas CM Siddaramaiah ne kiya, MLA Bharath Shetty sirf upasthit the. (Dusre neta ka kaam.)
+3. TOI — "Mla Bharath Shetty Launches High-tech Bus Stand At Surathkal" (Dec 2022)
+   URL: https://timesofindia.indiatimes.com/city/mangaluru/mla-bharath-shetty-launches-high-tech-bus-stand-at-surathkal/articleshow/96696816.cms
+   REJECT: pre-term (Dec 2022).
+4. daijiworld.com — "Mangaluru: MCC zonal office inaugurated at Surathkal" (Aug 2022)
+   URL: https://www.daijiworld.com/news/newsDisplay?newsID=991563
+   REJECT: pre-term + udghatan district in-charge minister Sunil Kumar ne kiya. (Dusre neta ka kaam.)
+5. The Hindu — "37 km Port connectivity road to be illuminated with street lights" (24 Apr 2025)
+   URL: https://www.thehindu.com/news/cities/Mangalore/37-km-port-connectivity-road-to-be-illuminated-with-street-lights-dakshina-kannada-mp/article69486710.ece/amp/
+   REJECT: MLA ne MP se Surathkal-MRPL Road ke liye atirikt RoB ki sirf maang ki — maang ka dastaveji nateeja nahi mila. (Sirf maang/prastav.)
+6. daijiworld.com / mangalorean.com — HYDGEN 20 MW electrolyser manufacturing facility inauguration, Ganjimutt (Oct 2026)
+   URL: https://www.daijiworld.com/news/newsDisplay?newsID=1331638
+   REJECT: niji company ki facility ka udghatan; MP ke saath atithi bhoomika — bhautik sarkari sanrachna nahi. (Niji kharch/CSR jaisa karyakram.)
+7. mangaloretoday.com — "George Fernandes Road inaugurated" (7 Jul 2024)
+   URL: http://www.mangaloretoday.com/main/George-Fernandes-Road-inaugurated.html
+   REJECT: non-whitelist + udghatan Mayor aur Mangaluru South MLA Vedavyas Kamath ne kiya; MLA Bharath Shetty sirf upasthit. (Dusre neta ke karyakram me maujoodgi.)
+8. daijiworld.com — "Sitting MLA Dr Bharath Shetty releases 30-point manifesto" (6 May 2023)
+   URL: https://www.daijiworld.com/news/newsDisplay?newsID=1077302
+   REJECT: chunaav ghoshna-patra — sirf ghoshna, kaam nahi.
+9. daijiworld.com / mangaloretoday.com — "Rs 2,250 crore grants secured in past 5 years" (25 Apr 2023)
+   URL: https://www.daijiworld.com/index.php/news/newsDisplay?newsID=1073693
+   REJECT: pre-term dawa (2018-2023 karyakaal ka) + kul rashi ka dawa, itemized kaam nahi. (Sirf MLA ke dawe par bina item ke entry nahi.)
+10. mangaloretoday.com — "MLA Bharat Shetty demands 15 crore for pothole repairs" (15 Sep 2025)
+    URL: https://www.mangaloretoday.com/main/Mangaluru-City-North-MLA-Bharat-Shetty-demands-15-crore-for-pothole-repairs-warns-of-protests-against-govt-inaction.html
+    REJECT: non-whitelist + fund ki sirf maang, swikriti ya kaam nahi. (Sirf maang.)
+11. mangaloretoday.com — "MLA alleges he was not invited to Minister Dinesh Gundu Rao's Pacchanadi STP inspection" (5 Mar 2026)
+    URL: https://www.mangaloretoday.com/main/Mangaluru-MLA-Dr-Bharath-Shetty-alleges-he-was-not-invited-to-Minister-Dinesh-Gundu-Rao-s-Pacchanadi-STP-inspection.html
+    REJECT: non-whitelist + district in-charge minister ke karyakram par shikayat — MLA ka apna kaam nahi. (Dusre neta ka karyakram.)
+12. TOI — "MP lays foundation for devpt of Mulki, Surathkal railway stations" (Jan 2025)
+    URL: https://timesofindia.indiatimes.com/city/mangaluru/mp-lays-foundation-for-devpt-of-mulki-surathkal-railway-stations/articleshow/117750784.cms
+    REJECT: shilanyas MP Capt Brijesh Chowta ne kiya; MLA Surathkal karyakram me sirf upasthit the. (Dusre neta ka kaam — MP ke MPLADS/kendriya kaam.)
+13. mangaloretoday.com — "PM Modi lays foundation stone for redevelopment Mangaluru Junction Railway station virtually" (6 Aug 2023)
+    URL: https://www.mangaloretoday.com/mainnewsprint/PM-Modi-lays-foundation-stone-for-redevelopment-Mangaluru-Junction-Railway-station-virtually.html
+    REJECT: non-whitelist + PM/MP ka kendriya karyakram; MLA sirf upasthit. (Dusre neta ke karyakram me maujoodgi.)
+14. Deccan Herald / TOI — MRPL blast, Jokatte (Oct 2026): MLA ne spot ka daura kiya aur jaanch + muavze ki maang ki
+    URL: https://www.deccanherald.com/india/karnataka/mangaluru/high-impact-mrpl-blast-damages-4000-roof-tiles-of-pezar-church-triggers-panic-across-mangaluru-4166008
+    REJECT: sirf nirikshan/daura + muavza-jaanch ki maang — bhautik kaam ya sanction nahi. (Sirf nirikshan + sirf maang.)
+15. Deccan Herald — "St Agnes College: Students and ABVP activists protest against Dasara exams" (12 Oct 2026)
+    URL: https://www.deccanherald.com/india/karnataka/mangaluru/students-abvp-activists-protest-against-semester-exams-during-dasara-at-st-agnes-college-in-mangaluru-4179588
+    REJECT: MLA ka bayan (exams na rakhe jayein) — vikas kaam nahi.
+16. Deccan Herald — "Six arrested for stone pelting at mosque in Mangaluru's Katipalla" (Sep 2024): aaropi "Bharath Shetty (26), Ashraya Colony"
+    URL: https://www.deccanherald.com/india/karnataka/six-arrested-for-stone-pelting-at-mosque-in-mangalurus-katipalla-3192643
+    REJECT as negative: vyakti galat — 26 saal ka aaropi, MLA Dr Y. Bharath Shetty nahi. (Name collision.)
+17. myneta.info Karnataka 2023 — Dr Y. Bharath Shetty: declared criminal cases 0, assets ~Rs 11.39 crore
+    URL: https://myneta.info/karnataka2018/candidate.php?candidate_id=6620&scan=original
+    REJECT as negative: halafname ke 0 pending mamle — halafname akele negative nahi, aur in-term FIR wali dono entries alag se darj hain.
+18. mangaloretoday.com — "MLA Bharath Shetty inspects places ideal for Covid care centres" (6 May 2021)
+    URL: https://www.mangaloretoday.com/main/MLA-Bharath-Shetty-inspects-places-ideal-for-Covid-care-centres.html
+    REJECT: pre-term + sirf nirikshan.
+
+RETRY-LEADS:
+- The Hindu — "RoB concreting work on Surathkal-Bajpe road to start after festival, says MLA Bharath Shetty"
+  URL: https://www.thehindu.com/news/cities/Mangalore/rob-concreting-work-on-surathkal-bajpe-road-to-start-after-festival-says-mla-bharath-shetty/article68605222.ece/amp/
+  Tathya (search snippet se): MLA Y. Bharath Shetty ne MCC zonal office Surathkal me adhikariyon ki baithak ki adhyakshata ki; MCC Surathkal-Bajpe (MRPL) road ke railway overbridge ki satah ka concreting karega; Rs 78 lakh ka tender pehle hi award ho chuka tha, kaam Ganesh Chaturthi ke baad shuru hoga; RoB dono taraf ke approaches ka concreting pehle se chal raha tha; Surathkal-Chokkabettu Cross ka hissa bhi vikasit hoga.
+  Anumanit tithi: lekh me "Mangalvaar" aur "Ganesh Chaturthi ke baad" ka ullekh — 2024 me 3 Sep Mangalvaar tha aur Ganesh Chaturthi 7 Sep ko thi, isliye anumanit tithi 2024-09-03.
+  ROK: browser.open par HTTP 403 aaya (page seedha khula nahi) — isliye sourceUrl cite karke entry nahi banayi. Live-browser se page kholkar verify karo; verify hote hi category Sadak, badge news ki entry ban sakti hai (Rs 78 lakh tender + MLA ki adhyakshata wali bhoomika disclosed).
+- Sambhavit future lead: Karnataka Vidhansabha karyavahi (aplegislature/kla portal — sarkari) me MLA ke sawalon par mantri-ashwasan mil sakte hain; live-browser ya direct fetch se verify karna hoga.
+*/
+
+// FRAGMENT: d-vedavyas-kamath (D. Vedavyas Kamath, Mangalore City South, BJP) — 2023-2028 works research
+// Researched 2026-10-19. Positive works: 2 qualifying (Jeppu enclave sanyukt lokarpan — The Hindu, Feb 2025; Padil PHC navinikaran lokarpan MLA LAD fund se — TOI, Jan 2026).
+// Negative: 1 in-term matter — St Gerosa School virodh par FIR (Feb 2024, PTI/EdexLive) + Special Court se agrim zamaanat (Feb 2024, The Hindu). Conviction NAHI hui hai.
+
+karnatakaWorks['d-vedavyas-kamath'] = [
+  {
+    title: 'MLA D. Vedavyasa Kamath ne Jeppu me UPHC, pashu chikitsalaya, MCC staff ke 8 flat, bus bay aur walking path wale enclave ka sanyukt lokarpan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/newly-inaugurated-govt-health-facility-closed-amidst-political-one-upmanship/article69216080.ece',
+    date: '2025-02-09',
+    note: 'The Hindu ki report ke anusar Mayor Manoj Kumar, Mangaluru City South MLA D. Vedavyasa Kamath aur MP Capt. Brijesh Chowta ne 9 Feb 2025 (Ravivar) ko Jeppu ke enclave ka lokarpan kiya — isme naya Urban Primary Health Centre (UPHC), pashu chikitsalaya, MCC staff ke aath flat, bus bay aur walking path shamil hain. Kamath ne kaha ki ve Mayor ke aamantran par karyakram me shamil hue; suvidhayen MCC ki zameen par Mangaluru Smart City Limited ke Rs 7.85 crore se bani hain, jisme kendra sarkar ka bada hissa hai. Vivad: jilha prabhari mantri Dinesh Gundu Rao ko aamantrit na kiye jane par 13 Feb ko jilha swasthya adhikari ke aadesh se UPHC band kar diya gaya tha; koi sarkari adhikari lokarpan karyakram me maujood nahi tha.',
+    period: '2023-2028'
+  },
+  {
+    title: 'MLA D. Vedavyas Kamath ne Padil ke Primary Health Centre ke navinikaran ka lokarpan kiya — naya kamra aur ceiling MLA LAD fund se bane',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/health-workers-not-paid-for-3-4-months-mla/articleshow/126531621.cms',
+    date: '2026-01-14',
+    note: 'TOI ki report ke anusar MLA D. Vedavyas Kamath ne MCC seema me Padil ke navinikrit Primary Health Centre ka lokarpan kiya. Unhone bataya ki marijon ke liye behtar suvidhaon hetu naya kamra aur achhi tarah susajjit ceiling unke MLA local area development fund ki madad se banwaye gaye (raashi ghoshit nahi). Alape, Kannur, Maroli, Bajal, Shakthinagar aur Kulasekhar sahit 6 wardon ke lagbhag 30,000 se 40,000 logon ko labh milega; MRPL ne table-kursiyan uplabdh karayin. Date inference: TOI report ~Jan 2026 ki hai aur event ko ‘Wednesday’ bataya gaya hai; 14 Jan 2026 Budhwar ko padta hai, isliye 2026-01-14 rakha gaya hai.',
+    period: '2023-2028'
+  },
+  {
+    title: 'St Gerosa School virodh mamle me Mangaluru South police ne MLA Vedavyas Kamath sahit 5 logon ke khilaf FIR darj ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI (EdexLive)',
+    sourceUrl: 'https://www.edexlive.com/news/2024/Feb/15/case-registered-against-two-bjp-mlas-three-others-in-st-gerosa-school-issue-40341.html',
+    date: '2024-02-14',
+    note: 'PTI ki report (EdexLive par, published 15 Feb 2024) ke anusar Mangaluru South police ne 14 Feb ko St Gerosa School ke bahar 12 Feb ke virodh ke sambandh me case darj kiya; FIR me Mangaluru City South MLA Vedavyas Kamath sahit 5 logon ko aaropi banaya gaya — anyon me Mangaluru City North MLA Y. Bharath Shetty, corporators Sandeep Garodi aur Bharat Kumar, aur VHP neta Sharan Pumpwell. Aarop: chhatron se ‘Jai Shri Ram’ ke naare lagwana aur Hindu-Christian samudayon ke beech dushmani bhadkana; dharaen 143, 153A, 295A, 505(2), 506 aur 149 IPC. School prabandhan ne police ko bataya ki Kamath ne bina spashtikaran liye school ke saamne virodh shuru kiya tha; school ke anusar shikshika ne aisa kuch nahi kaha tha jo viral audio me daava kiya gaya. Ab tak koi conviction nahi hua hai.',
+    period: '2023-2028'
+  },
+];
+
+// RETRY-LEAD (coordinator QA-DROP): Special Court dwara St Gerosa School case me paanchon aaropiyon ko agrim zamaanat (The Hindu 21 Feb 2024, article67871856.ece) — The Hindu ka page browser.open par HTTP 403 par nahi khula, tathya sirf indexed snippet se mile; niyam ke tahat khula-na-page source nahi ban sakta. FIR negative entry rakhi gayi hai; bail-relief live-browser se page khulne par restore karo. Isi case me Y. Bharath Shetty par bhi FIR hai (fragment ka6_worker_bharath-shetty-y.ts dekho).
+
+// REJECT-LOG (d-vedavyas-kamath):
+// 1. Kadri Padavu drainage bhoomi puja (Rs 25 lakh, PWD special grant, 22nd Kadri Padavu ward, May 2026) — srot: ibcworldnews.com. REJECT: outlet whitelist me NAHI (chhota portal).
+// 2. Land Trades ‘Laxmi Govind’ aavasiya project lokarpan (Alvares Road, Sep 2026) — srot: mangalorean.com. REJECT: niji developer ka aavasiya project; mukhya-atithi bhoomika + outlet whitelist me nahi.
+// 3. Land Trades ‘Adira’ 42nd project lokarpan (Urva, Nov 2023) — srot: mangalorean.com. REJECT: niji developer ka project; mukhya-atithi bhoomika + outlet whitelist me nahi.
+// 4. George Fernandes Road naamkaran lokarpan (Circuit House–Bejai Circle, 6 Jul 2024) — srot: daijiworld.com. REJECT: sadak ka naamkaran-samaroh; koi bhautik nirmaan-bhoomika nahi + outlet whitelist me nahi.
+// 5. Kadri ground–City Hospital concrete road bhoomi pujan (~Oct 2026) — srot: TOI (whitelisted). REJECT: TOI me sirf ek pankti ka zikr (‘MLA ne bhoomi pujan kiya’); fund/raashi aur swikriti dene wale nikay ka koi vivaran nahi — VALID rule me fund+bhoomika disclosed chahiye.
+// 6. Congress ki shikayat (Barke PS, Aug 2024, MLC Ivan D’Souza ke khilaf bayan par FIR ki maang) — srot: The Hindu (whitelisted). REJECT: keval shikayat; FIR darj hone ki koi khabar nahi — ‘shikayat lekin FIR-aaropi column me naam nahi = NAHI’.
+// 7. Brahma Kalashotsava (Sri Krishna Bhajana Mandir, Shakthi Nagar) maarpeet ka FIR + Karnataka HC dwara FIR radd (Jul 2026) — srot: deccanchronicle.com aur newskarnataka.com. REJECT: donon outlet whitelist me NAHI; negative rules me established-media whitelist mandatory hai.
+// 8. St Agnes College exam-row me ABVP virodh ‘orchestrate’ karne ka Congress ka aarop (TOI, Oct 2026) — srot: TOI (whitelisted). REJECT: keval rajnaitik aarop; koi FIR/case/janch nahi.
+// 9. St Agnes exam-row par nagrikon ki aalochana (daijiworld/newskarnataka, Oct 2026) — REJECT: keval aalochana + outlets whitelist me nahi.
+// 10. High Court Circuit Bench (Mangaluru) ki maang — CM ko patra (Sep 2024), Vidhansabha me mudda — srot: newskarnataka.com. REJECT: sirf maang/prastav; koi dastaveji nateeja nahi + outlet whitelist me nahi.
+// 11. White Paper ki maang (The Hindu, Apr 2026), solid-waste press conference (The Hindu, Nov 2025), monsoon-taiyari aarop (The Hindu, May 2026) — REJECT: vipakshi aarop/maang matra; koi lokarpan/shilanyas/swikriti nahi.
+// 12. MGNVY-2 ke Rs 200 crore ke kaam ruke hone ka aarop (TOI, Sep 2026) — REJECT: rajya sarkar par aarop matra.
+// 13. Bus terminal-cum-healthcare complex shilanyas (Mangaladevi/Jeppu, Sep 2022) — srot: The Hindu. REJECT: pre-term (karyakaal May 2023+); in-term vikas (Feb 2025 lokarpan) alag entry me darj hai.
+// 14. Alake Market lokarpan (Oct 2020) aur University College classrooms shilanyas (Feb 2021) — REJECT: pre-term.
+// 15. Praja Soudha lokarpan par CM se Smart City fund ka shrey-vivad (TOI, May 2025) — REJECT: kendriya pariyojna (Smart City) par shrey ka vivad; MLA ki vyaktigat dastaveji bhoomika nahi.
+// 16. Kudla da Pili Parba sanskritik samaroh ki adhyakshata (The Hindu, Oct 2026) — REJECT: sanskritik samaroh; vikas-karya nahi.
+// 17. Myneta 2023 halafnama ke mamle — REJECT: ‘halafname ke mamle akele NAHI’ rule; media-sourced FIR/janch ka dastavej nahi mila.
+
+// QA: 21 candidates screened, 2 qualifying positive entries + 2 qualifying negative entries (1 FIR + 1 raahat).
+// NOTE: St Gerosa bail wali The Hindu report ka poora page browser.open par HTTP 403 (access denied) aaya — retry nahi kiya gaya (recovery rule). Us article ke key facts (judge, bond, sharten, ‘Wednesday’, FIR date 14 Feb) The Hindu ke indexed snippet se verify kiye gaye hain; parent QA chahe to dobara verify kar le.
+
+// u-t-khader (Mangalore, INC) — REJECT-LOG:
+// 1. Residential Government PU College for minority girls, Mangaluru seat (The Hindu, 15 Mar 2025) — 2025-26 Budget me ullekh, "April 2026 se shuru hone ki sambhavna"; pre-event announcement, abhi shuru nahi hua; REJECT (sirf ghoshna).
+// 2. "Smart surveillance network soon across Mangaluru constituency" (TOI, ~Jun 2026) — AI camera pariyojna ka pre-sanction announcement ("discussions held"); REJECT (pre-event); swikriti ka tathya The Hindu 1 Jun 2026 wale khule page se liya.
+// 3. "New bridge across Nethravati will promote tourism: Khader" (TOI, Dec 2024, articleshow/116749033) — page 403 par khul nahi saka; retry ki anumati nahi thi isliye "khulkar padha" rule par source ke roop me istemal nahi; REJECT. Pulon ke tathya TOI ke Feb 2026 wale khule page se liye.
+// 4. Mahakalipadpu twin railway underbridges (The Hindu, Jan 2026) — idea Khader ke district in-charge minister karyakaal (2018-19, pad, pre-term) ka, MLC Ivan D'Souza ke saath sanyukt; udghatan mantriyon dwara Speaker ke roop me; is karyakaal me vyaktigat MLA-star ki dastaveji bhoomika nahi; REJECT.
+// 5. Adyar-Harekala vented dam-cum-bridge, Rs 174 crore (The Hindu profile, Jun 2026) — "pehle" sakar hua, pre-term; REJECT.
+// 6. Kotepura-Bolar pul Rs 200 crore + Bolar-Sajipanadu-Thumbe Rs 60 crore (The Hindu profile, Jun 2026) — "fillip milne ki ummeed", drishti/bhavishya ki baat; REJECT (sirf ghoshna).
+// 7. "Khader: Funds won't impede cabinet projects" (TOI, Sep 2026) — Wenlock hospital 200-bed expansion aadi teenon coastal jilon ke cabinet faisle; mantri pad ke karye; REJECT (vishesh niyam).
+// 8. Rs 300 crore MESCOM underground cabling announcement (mangaloretoday/newskarnataka, Apr 2026) — non-whitelist portal; REJECT. Bijli tathya TOI (whitelist) ke khule page se.
+// 9. Rs 186 crore Ullal underground power / Sajipa-Thumbe Rs 62 crore / Kannada Bhavan Thiruvail (daijiworld, coastaldigest, mangaloretoday versions) — non-whitelist; REJECT. Tathya The Hindu/TOI ke khule pages se. (Kannada Bhavan Thiruvail waise bhi seat ke bahar — Mangalore City North.)
+// 10. Kotekar-Ullal bridge Rs 252 crore "tenders soon" (mangaloretoday, Feb 2026) — non-whitelist; REJECT; tathya TOI se.
+// 11. Karnire me charitable trust ke 7 ghar lokarpan (mpositive.in/varthabharati) — niji trust ka kaam, Kaup seat (seat ke bahar); REJECT.
+// 12. Deralakatte Nursing College building lokarpan (mpositive.in) — Ullal Charitable Trust (niji) ki building; REJECT.
+// 13. Energia corporate service center (mpositive.in) — niji company ka karyalaya; REJECT.
+// 14. Press Day celebrations udghatan (daijiworld) — samaroh; REJECT.
+// 15. India Paddle Festival logo launch (karnatakafirst) — pre-event samaroh; REJECT.
+// 16. Koragajja circle gherao FIR (May 2026; siasat/rediff/newskarnataka) — FIR Khader ke PSO ki shikayat par 10-11 vyaktiyon ke KHILAF darj; Khader complainant/pidit hain, aaropi NAHI; negative nahi.
+// 17. AI camera kharid me aniyamitta ka aarop (organiser.org, Feb 2025) — non-whitelist; RTI-aadharit aarop, koi FIR/chargesheet/nyayik vikas whitelisted media me nahi; negative nahi.
+// 18. Counterfeit drugs SIT / McGann hospital janch (newindianexpress/deccanchronicle/ibcworldnews) — Khader mantri ke roop me janch ke aadesh de rahe hain (pad ke karye), ve aaropi nahi; negative nahi.
+// 19. "Khader lays foundation for road concretisation" (mangaloretoday) — non-whitelist; REJECT.
+// 20. Rs 6 crore Calamity Relief Fund, Kotepura-Boliyar vikas (The Hindu 28 Nov 2024 page se) — rahat fund ka upyog; REJECT (daan/rahat).
+// 21. Pavoor-Uliya hanging footbridge Rs 12 crore CM approval (mangaloretoday) — non-whitelist; REJECT.
+// 22. 18 gram panchayats ko Rs 1.5 crore pratyek (mangaloretoday, Apr 2025) — non-whitelist; REJECT.
+// 23. Thokkottu-Olapete footbridge prastav (TOI Dec 2024, 403 page) — prastav matra + page khula nahi; REJECT.
+// 24. Balepuni district prison "funds assured" (gkseries) — ashwasan + non-whitelist; REJECT.
+// 25. Shramika School Ullal / Sajipanadu police station / GTTC maang (bharathorizon) — non-whitelist; REJECT.
+// 26. ACP office complex Rs 20 crore (mangaloretoday) — non-whitelist; REJECT.
+// 27. Sea erosion Rs 200 crore earmark (mangaloretoday/gkseries) — non-whitelist; REJECT.
+// 28. DC office Padil + indoor stadium Urwa (coastaldigest) — CM dwara udghatan (dusre neta), sthal bhi City South seat me; REJECT.
+// 29. mpositive.in tag pages — aggregator-type; REJECT.
+// KLLADS: kisi bhi srot ne neta-war kharch spasht roop se nahi kaha; sabhi entries me fund sarkari yojanaon/swikriti se hai, KLLADS "ghoshit nahi".
+karnatakaWorks['u-t-khader'] = [
+  {
+    title: 'Mangalore ke MLA U. T. Khader ne Ullal me Rs 200 crore ki bijli infrastructure swikriti dilwai, jisme underground cables, Kotekar me naya MESCOM sub-station aur Thokkottu sub-station ka 32 kV se 132 kV tak upgrade shaamil hai',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/karnataka-govt-sanctions-over-300-crore-for-creating-power-road-infrastructure-facilities-in-ullal-says-ut-khader/article68924015.ece',
+    date: '2024-11-28',
+    note: 'Page ke “Published” metadata me 2024-11-28T21:42:00+05:30 hai aur text me “on Thursday” — 28 Nov 2024 Thursday hai, isliye date pakki. Speaker aur Mangaluru MLA U. T. Khader ne bataya ki rajya sarkar ne Ullal me bijli aur sadak infrastructure banane-sudharne ke liye Rs 300 crore se adhik swikrit kiye hain, jisme se Rs 200 crore sirf bijli infrastructure ke liye hai. Mangaluru se Ullal tak alag power supply line bichhegi, Kotekar me naya MESCOM sub-station banega aur Thokkottu ka sub-station 32 kV se 132 kV ka hoga, jisse Ullal vasiyon ko bar-bar ki bijli katoti se rahat milegi. Khader ne kaha ki Speaker ka kartavya nibhate hue ve apne nirvachan kshetra ki vikas zarooraton ke liye anudan dilwane me safal rahe hain. Fund sarkari yojanaon se; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mangalore ke MLA U. T. Khader ne Ullal me sadak karyon ke liye Rs 100 crore aur road junction sudhar karyon ke liye Rs 25 crore ki swikriti dilwai',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/karnataka-govt-sanctions-over-300-crore-for-creating-power-road-infrastructure-facilities-in-ullal-says-ut-khader/article68924015.ece',
+    date: '2024-11-28',
+    note: 'Page ke “Published” metadata me 2024-11-28T21:42:00+05:30 hai aur text me “on Thursday” — 28 Nov 2024 Thursday hai, isliye date pakki. U. T. Khader ne bataya ki sadak karyon ke liye Rs 100 crore swikrit hue hain aur road junction sudhar karyon ke liye Rs 25 crore istemal honge. Ye ghoshna unhi Rs 300 crore se adhik ke package ka hissa hai jo rajya sarkar ne Ullal ke bijli aur sadak infrastructure ke liye swikrit kiya. Khader ne kaha ki Speaker ka kartavya nibhate hue ve apne nirvachan kshetra ki vikas zarooraton ke liye anudan dilwane me safal rahe hain. Fund sarkari yojanaon se; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mangalore (erstwhile Ullal) seat ke sarkari high schools, pre-university aur degree colleges ke basic infrastructure ko majboot karne ke liye Rs 5 crore swikrit hue',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/karnataka-govt-sanctions-over-300-crore-for-creating-power-road-infrastructure-facilities-in-ullal-says-ut-khader/article68924015.ece',
+    date: '2024-11-28',
+    note: 'Page ke “Published” metadata me 2024-11-28T21:42:00+05:30 hai aur text me “on Thursday” — 28 Nov 2024 Thursday hai, isliye date pakki. U. T. Khader ne bataya ki unke Mangaluru (erstwhile Ullal) nirvachan kshetra me sarkari high schools, pre-university aur degree colleges ke basic infrastructure ko majboot karne ke liye lagbhag Rs 5 crore kharch kiye jayenge. Ye ghoshna unhi press conference me hui jisme Ullal ke liye Rs 300 crore se adhik ke bijli-sadak package ki swikriti batayi gayi thi. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Pajir me do acre zameen par naya fire station banega aur Konaje me naya circuit house banane ki sarkari swikriti mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/karnataka-govt-sanctions-over-300-crore-for-creating-power-road-infrastructure-facilities-in-ullal-says-ut-khader/article68924015.ece',
+    date: '2024-11-28',
+    note: 'Page ke “Published” metadata me 2024-11-28T21:42:00+05:30 hai aur text me “on Thursday” — 28 Nov 2024 Thursday hai, isliye date pakki. U. T. Khader ne bataya ki rajya sarkar ne Pajir me do acre zameen par naya fire station swikrit kiya hai aur Konaje me naya circuit house banane ki swikriti di hai. Ye ghoshna unhi press conference me hui jisme Ullal ke liye Rs 300 crore se adhik ke bijli-sadak package ki swikriti batayi gayi thi. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Netravati kinare Kallapu-Sajipa riverfront road pariyojna ke liye sarkar ne aur Rs 40 crore swikrit kiye, kul swikriti Rs 160 crore lagat ka 25 pratishat hui',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/govt-grants-another-40-crore-for-ongoing-kallapu-sajipa-riverfront-road-project-says-ut-khader/article69497341.ece',
+    date: '2025-04-28',
+    note: 'Page par “Published - April 28, 2025 12:03 am IST” hai, isliye date pakki. Legislative Assembly Speaker aur Mangaluru MLA U. T. Khader ne Ravivar ko bataya ki rajya sarkar ne chal rahi Kallapu-Sajipa riverfront road pariyojna ke liye aur Rs 40 crore swikrit kiye hain. Isse pehle sarkar Rs 15 crore swikrit kar chuki thi; Rs 40 crore ki nayi swikriti ke saath sarkar ne Rs 160 crore ki kul pariyojna lagat ka 25 pratishat swikrit kar diya hai. Ye pariyojna Netravati nadi ke kinare charanon me chal rahi hai. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mangalore seat me monsoon se kharab hui sadakon ki marammat ke liye vibhinn sarkari yojanaon ke tahat Rs 90 crore swikrit hue',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/govt-sanctions-90-crore-for-repairings-roads-in-mangaluru-assembly-constituency-says-ut-khader/article70057045.ece/amp/',
+    date: '2025-09-16',
+    note: 'Page par “Published - September 16, 2025 08:26 pm IST” hai aur text me “on Tuesday” — 16 Sep 2025 Tuesday hai, isliye date pakki. Legislative Assembly Speaker aur Mangaluru ke MLA U. T. Khader ne bataya ki rajya sarkar ne unke nirvachan kshetra me sadakon ki marammat ke liye vibhinn yojanaon ke tahat Rs 90 crore swikrit kiye hain. Ye sadken monsoon ki bhari barish se kharab hui thin. Anudan se Thokkottu-Mudipu, Abbakka Circle-Kotepura, Abbakka Circle-Kodi aur Kotekar-Deralakatte sadakon ki marammat hogi; barish rukne ke baad kaam shuru hoga. Fund sarkari yojanaon se; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Ullal shahar me Rs 186 crore ki underground power cable pariyojna KPTCL ke madhyam se lagegi, tender prakriya shuru; 33 kV sub-station ka 110 kV me Rs 96 crore ka upgrade bhi swikrit',
+    category: 'Bijli',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/ullal-to-get-rs-186-crore-underground-power-cable-network/articleshow/128042213.cms',
+    date: '2026-02-07',
+    note: 'Page par prakashan tithi dikhai nahi di; reasoning: search metadata me lagbhag 254 din pehle (19 Oct 2026 se ginti par 7 Feb 2026) aur text me “told reporters on Saturday” — 7 Feb 2026 Saturday hai, isliye date 2026-02-07 anumaanit lekin majboot. Speaker U. T. Khader ke nirvachan kshetra ke Ullal shahar ko Rs 186 crore ki underground power cable pariyojna swikrit hui; Mangaluru seat ke MLA Khader ne Shanivar ko bataya ki tender prakriya ke baad kaam jald shuru hoga. Tender nikalne ki prakriya chal rahi hai; pariyojna Ullal shahar ke saundaryakaran ka hissa bhi hai; kaam poora hone par shahar me live overhead bijli cables nahi rahenge. Gharo-chhaton ke upar se guzarne wali high-tension/low-tension lines aur gharon ke andar lage bijli ke khambe nagrikon ke liye khatra hain; jagah ki kami se MESCOM khambe hata nahi pata — underground cabling se ye samasya hal hogi. Pariyojna Karnataka Power Transmission Corporation Limited (KPTCL) ke madhyam se hogi. Ullal me nirbadh bijli ke liye maujuda 33 kV sub-station ki kshamta Rs 96 crore ki lagat se 110 kV ki jayegi. Page me Mangaluru city ke liye Rs 60 crore ki alag pariyojna ka bhi ullekh hai jo inki seat ke bahar hai, isliye usse entry me shaamil nahi kiya. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Netravati nadi par Kotepura (Ullal) se Bolar tak 1.5 km lambe pul ke liye Rs 252 crore ki pariyojna ke tender jald niklenge, Sajipa-Thumbe ke beech Rs 62 crore ka pul bhi banega',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/ullal-to-get-rs-186-crore-underground-power-cable-network/articleshow/128042213.cms',
+    date: '2026-02-07',
+    note: 'Page par prakashan tithi dikhai nahi di; reasoning: search metadata me lagbhag 254 din pehle (19 Oct 2026 se ginti par 7 Feb 2026) aur text me “told reporters on Saturday” — 7 Feb 2026 Saturday hai, isliye date 2026-02-07 anumaanit lekin majboot. Ullal ke Kotepura aur Mangaluru ke Bolar ke beech Netravati nadi par prastavit pul ke baare me Khader ne kaha ki Rs 252 crore ki pariyojna ke tender jald nikale jayenge. 1.5 km lamba pul Arab Sagar ke nazdeeki drishya dene ke liye design hoga aur paryatan vikas par vishesh dhyan rahega; pul ke neeche hotel, restaurant aur park jaisi suvidhaen vikasit hongi; saptahant me sham 4 se 8 baje tak pul par yatayat band rahega taaki paryatan gatividhiyan ho saken. Netravati nadi par Sajipa aur Thumbe ke beech Rs 62 crore ki lagat se ek aur pul banega. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mangalore seat me Abbakka Bhavana ke liye Rs 8 crore aur Beary Bhavana ke liye Rs 6 crore swikrit hue',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/ullal-to-get-rs-186-crore-underground-power-cable-network/articleshow/128042213.cms',
+    date: '2026-02-07',
+    note: 'Page par prakashan tithi dikhai nahi di; reasoning: search metadata me lagbhag 254 din pehle (19 Oct 2026 se ginti par 7 Feb 2026) aur text me “told reporters on Saturday” — 7 Feb 2026 Saturday hai, isliye date 2026-02-07 anumaanit lekin majboot. Khader ne bataya ki Mangaluru nirvachan kshetra me Abbakka Bhavana ke liye Rs 8 crore aur Beary Bhavana ke liye Rs 6 crore swikrit hue hain. Page me ye bhi hai ki Kannada aur sanskriti mantri Shivaraj S. Tangadagi 15 Feb ko asthai roop se inka shilanyas karenge — ye karyakram dusre mantri ka aur bhavishya ka hai, isliye entry swikriti par hai, shilanyas par nahi. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mangalore (erstwhile Ullal) seat me traffic enforcement aur crime investigation ke liye AI-based cameras lagane par Rs 20 crore ki sarkari swikriti mili',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/government-sanctions-20-crore-for-installation-of-ai-cameras-in-ullal/article71049327.ece',
+    date: '2026-06-01',
+    note: 'Page par “Published - June 01, 2026 08:56 pm IST” hai aur text me “in Mangaluru on Monday” — 1 Jun 2026 Monday hai, isliye date pakki. Rajya sarkar ne traffic enforcement aur crime investigation ke liye Mangaluru (erstwhile Ullal) nirvachan kshetra me AI-based cameras lagane ke liye Rs 20 crore swikrit kiye; is kshetra ka pratinidhitva karne wale Assembly Speaker U. T. Khader ne Somvar ko Mangaluru me ye ghoshna ki. Cameras nirvachan kshetra ke pramukh sthanon par aur Kerala se Mangaluru shahar ke pravesh binduon par lagenge; andaruni ilakon me CCTV cameras lagenge. Inka upyog mukhyatah traffic enforcement ke liye hoga. Mangaluru Smart City Limited ke lagaye AI cameras me abhi Ullal, Deralakatte aur aaspaas ke kshetra cover nahi hote; naye cameras crime investigation me bhi kaam aayenge. Khader ne bataya ki Mangaluru City police ke paramarsh se prastav sarkar ko bheja gaya tha jise kuch din pehle manzoori mili. Pariyojna ke tahat cameras ke feed dekhne aur us par karyavahi ke liye alag command centre banane ka prastav hai; Karnataka State Police Housing Corporation pariyojna ka karyanvayan karegi. Kshetra ke niji shikshan sansthan cameras ke rakh-rakhav ka zimma lenge aur command centre ke karmiyon ka vetan bhi denge. Fund sarkari; KLLADS ghoshit nahi.',
+    period: '2023-2028',
+  },
+];
+
+// ============================================================================
+// KA6 WORKER — u-rajesh-naik (Bantval, BJP)
+// Karyakaal: May 2023+. Pehchan: Rajesh Naik U, S/o Late Ramesh Naik.
+// Halafnama: koi aapradhik mamla nahi.
+// ============================================================================
+
+// REJECT-LOG (u-rajesh-naik):
+// POSITIVE LEADS (sab whitelist outlet par khole-padhne gaye):
+// - The Hindu 19 Mar 2025 (Paschima Vahini): Vidhansabha budget charcha me MLA ne Paschima Vahini scheme (vented dams) ke liye Rs 500 crore ki maang ki; saath hi Daddalakadu sarkari school ke liye Sri Durga Charitable Trust school-adoption scheme ke renewal ki maang. Dono sirf maang — koi dastaveji nateeja/ashwasan nahi. REJECT (sirf maang).
+// - The Hindu 9 Sep 2025: Dakshina Kannada ke BJP MLAs ne raat me Yakshagana/natak performances ki anumati ki maang — MLA janagraha convention me bole. Bhashan/maang, kaam nahi. REJECT.
+// - The Hindu 9 Jul 2025: sand/laterite protest (Vedavyasa Kamath lead) — MLA ne Mines dept ke khali pad par sawal uthaya. Virodh/bayan, kaam nahi. REJECT.
+// - The Hindu ~Sep 2024: Bantwal TMC councillor/ex-president par inflammatory post ka case — MLA ne SP ko karwai ke liye kaha. MLA aaropi nahi; kaam bhi nahi. REJECT.
+// - The Hindu 14 Jan 2024: MLA hit-and-run me ghayal — ve khud shikar the, case driver Mohammed Sufail par. Negative nahi. REJECT.
+// - The Hindu Nov 2025: laterite permits KDP meeting — MLA ne keemat par tippani ki. Charcha, kaam nahi. REJECT.
+// - Deccan Herald Oct 2026: Mangaluru High Court circuit bench — MLAs Rajesh Naik aur Vedavyasa Kamath ne concerted effort ka aagrah kiya. Sirf maang. REJECT.
+// - NIE 19 Dec 2025: BPL card income limit — MLA ne Vidhansabha me prashn uthaya. Question Hour, kaam nahi. REJECT.
+// - The Hindu 10 Aug 2023: BJP MLAs ka dharna-chetawani (protocol breach); Irvattur GP me 'Swachha Sankeerna' unit ka MLA dwara udghatan PDO ne cancel kiya — karyakram hua hi nahi. REJECT.
+// - TOI Feb 2025 (Oddoor Energy bio-CNG plant): MLA ke NIJI farm Oddoor Farms par unka apna private CNG plant — vyapar, sarkari kaam nahi. REJECT (niji kharch/vyapar).
+// - PTI/Business Standard Dec 2018: Indira Canteen udghatan me MLA se durvyavahar — pre-term (2018) + ve shikayat-karta the. REJECT.
+// - The Hindu 5 Jun 2021: Vamadapadavu CHC oxygen plant — pre-term + udghatan mantri ne kiya, MLA sirf maujood. REJECT.
+// - Daijiworld (non-whitelist) in-term leads: Sep 2025 Jakribettu Namma Clinic lokarpan (15th Finance Commission/PMHIM sanction); Feb 2026 Siddakatte fish market + Sangabettu crematorium statues lokarpan; May 2026 rail projects memorandum V Somanna ko (maang). Source whitelist bahar — entry nahi, RETRY-LEAD agar whitelisted outlet coverage mile.
+//
+// NEGATIVE-QA (galat pehchan wale 'Rajesh Naik' alag kiye gaye):
+// - The Hindu 13 Aug 2025: Lokayukta ne Bantwal Deputy Tahsildar 'Rajesh Naika' ko Rs 20,000 rishwat me giraftaar kiya — ye TALUK ADHIKARI hain, MLA U. Rajesh Naik NAHI. Pehchan-galat — REJECT.
+// - TOI 2025: Surathkal police ne 'Rajesh Naik alias Raj/Raju Pamadi' (21 cases, Manchi-Udupi niwasi) ko giraftaar kiya — dusra vyakti. REJECT.
+// - NIE Nov 2020: Congress neta Ramanath Rai ne MLA ki PATNI Usha R Naik par laterite permit durupyog ka aarop — pre-term (2020) + parivar ka mamla (MLA aaropi nahi). REJECT.
+// - In-term (May 2023+) me MLA khud par koi FIR/chargesheet/giraftaari/nyayik aadesh established media me nahi mila; halafnama me zero criminal cases.
+//
+// RETRY-LEADS:
+// - TOI ~Aug 2026 'Suspension bridge safety fix hangs in limbo': Badagabellur-Muthuru suspension bridge ki marammat ka MLA ne ashwasan diya, kaha funds MLA area development fund (KLLADS) se aayenge. Page browser.open par 403 — khul nahi saka, isliye entry nahi. Srot spasht KLLADS kahe to swikriti-entry possible.
+// - TOI ~Aug 2024 'Ban on Heavy Vehicles: MLA Introduces Free Mini Bus Service on Addoor Bridge': page 403 — khul nahi saka. Srot me fund-srot saaf hua to hi entry (niji kharch hua to reject).
+karnatakaWorks['u-rajesh-naik'] = [];
+
+// ashok-kumar-rai (Puttur, INC) — REJECT-LOG: (1) TOI "Puttur MLA Announces Major Drinking Water Project" (Oct 2024, articleshow/114662153.cms) — page 403 par khul nahi saka; "khulkar padha" rule par fail, retry lead (waise bhi wahi event The Hindu ke Oct 2024 page se cover ho gaya). (2) ibcworldnews.com — Kaniyar (Keyyur gram panchayat) me Rs 65 lakh bridge ki foundation stone (8 May 2026, byline "City Hilights") — non-whitelist portal, source REJECT. (3) nammakudlaenglish.com — medical college Dec 2027 se classes story — non-whitelist, REJECT. (4) mirrornow.in — Rs 50 lakh road development announcement (5 Oct 2026) — non-whitelist + sirf ghoshna, REJECT. (5) newsable.asianetnews.com — "Ashok Jana-Mana 2025" kapda vitran (1 lakh log) — non-whitelist + daan/charity (MLA ke trust ka karyakram), REJECT. (6) TOI (Dec 2024) — 30-bed Ayush Hospital Kabaka ki "request" — sirf maang, nateeja nahi, REJECT. (7) The Hindu (Oct 2024) — 20 acre par synthetic-track stadium "he has plans" — sirf yojana, REJECT. (8) The Hindu (Oct 2024) — Rs 570 crore NABARD tourism DPR submitted — prastav, REJECT. (9) TOI (Jan 2026) — 400-bed hospital ke liye "Rs 450 crore expected to be sanctioned", DPR pending — sirf ghoshna, REJECT. (10) TOI (Jan 2026) — Rs 8 crore Hindu temples + Rs 9 crore minority communities earmarks — itemized nahi, vague dawa, REJECT. (11) Deccan Herald (Sep 2026) — KRIDL engineers ke khilaf CM ko bhrashtachar ka patra — aarop-patra hai, vikas kaam nahi, koi nateeja nahi, REJECT. (12) Deccan Herald/newskarnataka/starofmysore — Mysuru Dasara Kambala (Oct 2026) — sanskritik karyakram, seat ke bahar (Mysuru), sarkari sanrachna nahi; AWBI-niyam ullanghan wala DH piece sirf activist ki shikayat hai, MLA ke khilaf FIR nahi — negative bhi nahi, REJECT. (13) TOI bhoomi-puja page — "veterinary college in Koila will be inaugurated in a month or two" — pre-event, REJECT. (14) The Hindu (Oct 2024) — Jana Mana me 75,000 logon ko kapda vitran — daan, REJECT. (15) Mysuru Kambala udghatan me MLA sirf deep prajwalan karne wale atithi the — dusre aayojan me maujoodgi, REJECT. KLLADS: neta-war kharch ka public record kisi whitelist source me nahi mila — fund dawa nahi joda. Cross-check: scratch me 'ashok-kumar-rai' ki koi works entry pehle se nahi (sirf ka_mla_g7.ts me profile hai) — koi antar nahi.
+karnatakaWorks['ashok-kumar-rai'] = [
+  {
+    title: 'MLA ka dawa — Puttur me Rs 1,010 crore ki peyjal pariyojna swikrit hui hai, jisme se Rs 400 crore jari ho chuke hain aur kaam chal raha hai; Sullia ke 28 gaon bhi isse paani payenge',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/comprehensive-development-of-puttur-constituency-by-strengthening-infrastructure-is-priority-says-ashok-kumar-rai/article68803192.ece/amp/',
+    date: '2024-10-26',
+    note: 'The Hindu (published 27 Oct 2024) ke mutabik MLA Ashok Kumar Rai ne 26 Oct 2024 (Saturday) ko Mangaluru me presspersons se kaha ki sarkar ne Puttur ke liye Rs 1,010 crore ki drinking water project swikrit ki hai, jisme se Rs 400 crore pehle hi swikrit ho chuke hain aur kaam chal raha hai; ye pariyojna Sullia constituency ke 28 gaonon ko bhi peyjal degi. Poora lekh MLA ke press-conference bayanon par aadharit hai, isliye badge dawa rakha gaya hai. Date: page par "Saturday, October 26" saaf likha hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa — Puttur me Kabaka-Vitla four-lane concrete sadak ke liye Rs 10 crore, Bettampady-Panaje PWD sadak ke liye Rs 6 crore aur Puttur-Uppinangady four-lane concrete sadak ke liye Rs 12 crore swikrit hue hain',
+    category: 'Sadak',
+    badge: 'dawa',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/puttur-mla-boasts-of-getting-rs-2k-cr-for-his-constituency/articleshow/126488490.cms',
+    date: '2026-01-12',
+    note: 'TOI ke mutabik MLA Ashok Kumar Rai ne press conference me kaha: "The govt sanctioned Rs 10 crore for a 4-lane concrete road from Kabaka to Vitla, Rs 6 crore for upgrading the PWD road from Bettampady to Panaje, and Rs 12 crore to convert the Puttur-Uppinangady road into a 4-lane concrete road." Unhone ye bhi dawa kiya ki karyabhar sambhalne ke baad se constituency ke liye kul Rs 2,259 crore swikrit hue hain (2023-24 me Rs 1,479 crore, 2024-25 me Rs 529 crore, 2025-26 me Rs 251 crore). Poora lekh MLA ke press-conference bayanon par aadharit hai, isliye badge dawa rakha gaya hai. Date: search result me "Last Updated: 280 days ago" (19 Oct 2026 se) aur page par "press conference on Monday" — 12 Jan 2026 Monday tha, isliye date pakki.',
+    period: '2023-2028',
+  },
+  {
+    title: 'MLA ka dawa — Puttur me 629 pariyojnaon ka Rs 50 crore ka tender poora ho gaya hai, paanch thekedaron ko work order jari hue hain aur 13% fund release ho chuka hai',
+    category: 'Any',
+    badge: 'dawa',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/puttur-mla-boasts-of-getting-rs-2k-cr-for-his-constituency/articleshow/126488490.cms',
+    date: '2026-01-12',
+    note: 'TOI ke mutabik MLA Ashok Kumar Rai ne press conference me kaha ki is saal 629 pariyojnaon ka Rs 50 crore ka tender process poora ho gaya hai, paanch thekedaron ko work order jari kiye gaye hain aur 13% fund pehle hi release ho chuka hai. Ye upar wali entry wale hi press conference ka hissa hai, isliye badge dawa rakha gaya hai. Date: 12 Jan 2026 (Monday) — upar wali entry me reasoning darj hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Puttur me sarkari medical college ki neev ke taur par 300-bed aspatal ke nirman ko Rajya Finance Department ne 27 November ko sahmati di, jiska aadesh MLA ne press conference me patrakaron ko dikhaya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/finance-department-approves-300-bed-govt-hospital-as-a-prelude-to-open-government-medical-college-in-puttur-says-mla-ashok-kumar-rai/article70345039.ece',
+    date: '2025-12-01',
+    note: 'The Hindu (published 1 Dec 2025, 07:40 pm IST) ke mutabik State Finance Department ne Department of Medical Education ke zariye Puttur me 300-bed aspatal banane ki sahmati di, taaki 2025-26 budget me ghoshit sarkari medical college ka rasta saaf ho. MLA Ashok Kumar Rai ne Puttur me press conference me bataya ki sahmati 27 November ko mili thi aur unhone Finance Department ka aadesh patrakaron ko dikhaya. College Bannur me 40 acre zameen par prastavit hai; MLA ke anuman me medical college par lagbhag Rs 1,000 crore kharch aa sakta hai. DPR dedh mahine me aur aspatal bhawan ke liye tender uske do mahine me aane the; CM Siddaramaiah baad me shilanyas karenge.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Puttur ke Sediyapu (Bannur) me Rs 180 crore ki lagat se 300-bed aspatal ke nirman ka sarkari aadesh jari hua; medical education department ne design aur structural plans ko antim anumati de di aur tender prakriya bhi poori ho gayi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/govt-hosp-dream-in-puttur-inches-closer-to-reality/articleshow/129661955.cms',
+    date: '2026-03-17',
+    note: 'TOI ke mutabik sarkar ne 300-bed aspatal ke nirman ka official order jari kiya; aspatal Puttur taluk ke Bannur gaon ke Sediyapu me Rs 180 crore ke swikrit budget se banega. MLA Ashok Kumar Rai ne bataya ki fund ke saath-saath medical education department ne aspatal bhawan ke design aur structural plans ko final approval de diya hai; project ke liye 40 acre zameen aarakshit hai aur tender process poori ho chuki hai. Pehle maujooda aspatal parisar me medical college sambhav nahi paya gaya tha, isliye 4 Dec 2025 ke sarkari aadesh se project health department se medical education department ko transfer hua tha. Asparal banne ke baad medical college bhawan ka kaam shuru hoga. Date inferred: page par byline date nahi hai; search result me "Last Updated: 215 days ago" (19 Oct 2026 se ≈ 19 Mar 2026) aur page par "govt on Tuesday issued an official order" — 17 Mar 2026 Tuesday tha, isliye order ki date 2026-03-17 rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Puttur ke MLA Ashok Kumar Rai ne prastavit sarkari medical college ke hisse ke taur par Rs 180 crore ki lagat se banne wale 300-bed aspatal ki bhoomi puja ki',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/mla-holds-bhoomi-pooja-for-300-bed-hospital-in-puttur/articleshow/134490190.cms',
+    date: '2026-09-25',
+    note: 'TOI ke mutabik MLA Ashok Kumar Rai ne Puttur me banne wale Government Medical College ke hisse ke taur par Rs 180 crore ki anumaanit lagat se banne wale 300-bed aspatal ki bhoomi puja (groundbreaking ceremony) ki. MLA ne kaha ki CM D.K. Shivakumar medical college ka shilanyas karenge; unke dawe ke mutabik poorv CM Siddaramaiah ne prastav ko manzoori di thi aur Shivakumar ne project ke liye Rs 550 crore swikrit kiye hain. MLA ne ye bhi kaha ki Puttur me medical college 40 saal purani maang hai aur unhone Vidhansabha satron me is par 14 baar bola hai. Date: page par "on Friday" likha hai aur search result me "Last Updated: 24 days ago" (19 Oct 2026 se) — 25 Sep 2026 Friday tha, isliye date pakki.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Puttur taluk ke Bajathur ke Bidiradi me 6.2 acre par Dr BR Ambedkar Residential School complex ke liye 821 pedon ki katayi ki sarkari anumati mili, jisse school ke nirman ka rasta saaf hua',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/rto-track-ambedkar-school-in-puttur-taluk-get-govt-nod-mla-ashok-kumar-rai/articleshow/130996954.cms',
+    date: '2026-05-10',
+    note: 'TOI ke mutabik rajya sarkar ne Puttur taluk ke Mundoor aur Bajathur me kul 1,088 pedon ki katayi ki anumati di; sarkar ne Karnataka Preservation of Trees Act ki dhara 8(3) ke tahat ped hatane ka nirdesh diya. Isme Bajathur gaon ke Bidiradi me 6.2 acre zameen se 821 ped hatane ki anumati shaamil hai, jahan samaj kalyan vibhag ke tahat anusuchit jaati, anusuchit janjaati aur samajik-aarthik roop se pichhde vidyarthiyon ke liye Dr BR Ambedkar Residential School complex prastavit hai. MLA Ashok Kumar Rai ne press release me kaha ki anumati lambit hone se dono projects atke the aur van mantri ko anurodh bheje gaye the; unke shabd: "With the govt now issuing orders for tree felling, the hurdles for both projects have been cleared and the development works are expected to commence shortly" — matlab report ke samay nirman shuru nahi hua tha, entry sirf sarkari anumati (GO) tak seemit hai. Date inferred: page par byline date nahi; search result me "Last Updated: 162 days ago" (19 Oct 2026 se ≈ 10 May 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Puttur taluk ke Mundoor me 4 acre sarkari zameen par RTO driving track aur driver training centre ke liye 267 pedon ki katayi ki sarkari anumati mili, jisse project ka rasta saaf hua',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/rto-track-ambedkar-school-in-puttur-taluk-get-govt-nod-mla-ashok-kumar-rai/articleshow/130996954.cms',
+    date: '2026-05-10',
+    note: 'TOI ke mutabik Mundoor gaon me Mangaluru Social Forestry Division ke tahat 4 acre sarkari zameen par lage 267 ped RTO driving track aur driver training centre ke liye hataye jayenge; sarkar ne Karnataka Preservation of Trees Act ki dhara 8(3) ke tahat kaarvai ka nirdesh diya hai. Ye upar wali school-entry wale hi sarkari aadesh ka hissa hai — dono projects ki rukavat ek saath door hui. Nirman "expected to commence shortly" tha, isliye entry sirf sarkari anumati (GO) tak seemit hai. Date inferred: upar wali entry me reasoning darj hai (10 May 2026).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Kepu (Bantwal taluk) me ‘koli anka’ (murgon ki ladai) ke aarop me Puttur ke MLA Ashok Kumar Rai samet 17 logon par Vitla police ne case darj kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/bangalore/ashok-kumar-rai-sanjeeva-matandoor-booked-cockfighting-karnataka-police-10433026/',
+    date: '2025-12-20',
+    note: 'Indian Express (Bengaluru, 22 Dec 2025) ke mutabik Dakshina Kannada police ne Kepu gaon me murgon ki ladai ke aarop me Puttur Congress MLA Ashok Kumar Rai samet 43 logon ko do alag mamlo me book kiya. Pehle mamle me Vitla police ne Saturday ko Rai aur 16 any logon ko book kiya — tip-off par chhape me Muralidhara Rai ke dhan ke khet me bheed aur ladai ke liye laye gaye murge mile; MLA maujood the aur unhone adhikariyon ko giraftar karne ya event rokne ki chunauti di (aarop); police ne 22 murge aur ladai me istemal hone wale tez dhaar wale hathiyar zabt kiye. Dono mamle BNS aur Prevention of Cruelty to Animals Act ke tahat darj hue. MLA ka jawab: ‘koli anka’ sthaniya Ullalthi shrine ki 800 saal purani parampara ka hissa hai, sthaniya logon ki mannat ke taur par hota hai, isme koi satta nahi lagta; unhone kaha ki event se pehle sthaniya adhikariyon se anumati maangi gayi thi aur "No law bans koli anka". Stage: sirf case/FIR darj — chargesheet ya adalati faisle ki reporting nahi mili. Date: IE ne booking ko "Saturday" bataya aur The Hindu ne 20 Dec 2025 (11:44 pm) ko case darj hone ki khabar di; 20 Dec 2025 Saturday tha, isliye date 2025-12-20 rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Bantwal Court ke niyantran wali sampatti par do purani imaraton ko earthmover se dhahane ke aarop me Puttur ke MLA Ashok Kumar Rai aur Mahalingeshwara mandir ke prabandh trustee par Puttur Town Police ne case darj kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/cities/Mangalore/puttur-mla-mahalingeshwara-temple-trustee-booked/article70881543.ece',
+    date: '2026-04-17',
+    note: 'The Hindu (published 19 Apr 2026) ke mutabik Puttur Town Police ne Puttur MLA Ashok Kumar Rai, Puttur Mahalingeshwara mandir ke managing trustee Ishwarbhat Panjigudde aur any logon ke khilaf Bantwal Court ke niyantran wali sampatti me ghuspaith (trespass) ke aarop me case darj kiya. Shikayat court-niyukt receiver Aravind Rao Kedige ne ki thi — Senior Civil Judge aur JMFC Court, Bantwal ne 26 Feb 2019 ke aadesh se unhe mandir ke saamne Kedige pariwar ki 9.79 acre zameen ka receiver niyukt kiya tha (2018 ki Final Decree yachika se juda partition suit). Shikayat me aarop hai ki MLA, Panjigudde aur kuch any logon ne 14 Apr 2026 ko us zameen par do purani imaratein earthmover se dhaha di; shikayatkarta ke mutabik 100 saal purani imaratein theen aur Rs 2 crore se adhik ka nuksan hua. Legal opinion ke aadhar par police ne 17 April ko BNS ki dhara 329(3) aur 324(2) ke tahat shikayat darj ki. MLA ka jawab: Ullalti ‘bhoota’ har saal usi sankeern raste se Mahalingeshwara devta se milne aate hain, 40,000 se adhik shraddhalu jama hote hain; bhagdad se bachne ke liye rasta chauda karne ko court ke aadesh ke anusaar earthmover se imaratein dhahayi gayin; "The action was for the benefit of the devotees. I am ready to face any number of complaints for this." Stage: sirf case darj — chargesheet ya adalati faisle ki reporting nahi mili. Date: page par "registered the complaint on April 17" aur "Published - April 19, 2026" — isliye date 2026-04-17 rakhi gayi hai.',
+    period: '2023-2028',
+  },
+];
+
+// bhageerathi-murulya (Sullia, SC, BJP) — REJECT-LOG: whitelist (The Hindu, Indian Express, HT, NDTV, India Today, TOI, Deccan Herald, PTI) me May 2023–Oct 2026 tak Bhageerathi Murulya ke naam se Sullia me 2 dastaveji kaam mile — dono media badge ke saath rakhe (credit capped/disclosure ke saath). (1) The Hindu, 15 Apr 2025: MP Capt Brijesh Chowta ne Sullia taluk me Rs 6 crore ki 2 road projects (Nintikallu-Bellare 6.2 km Rs 3.72cr; Sullia-Paichar-Bellare 3.8 km Rs 2.28cr, Central Road Infrastructure Fund) ka shilanyas kiya; MLA sirf maujood thi — dusre neta (MP) ka kaam, REJECT. (2) The Hindu, 16 Oct 2025: Kaniyoor station ko Yeladka sthanantarit kar full terminal banane ka sujhav — sirf maang/prastav, REJECT. (3) TOI + The Hindu, Nov 2025: rajya me kanoon-vyavastha dhwast hone ke aarop — raajneetik bayan, vikas kaam nahi, REJECT. (4) asianetnews (newsable), Jun 2026: Kayarthodi Sri Mahavishnu Temple road ka MLA dwara lokarpan; Rs 24 lakh lagat (Rs 20 lakh grant unki sifarish par CM se) — kaam in-term aur dastaveji tha lekin outlet non-whitelist, REJECT. (5) daijiworld, Jun 2026: Sullia shahar me bijli ka khamba sadak ke beech me — MLA ne sthal ka nirikshan kiya — sirf nirikshan + non-whitelist, REJECT. (6) newskarnataka/mangaloretoday, Aug 2026: hathi-sankat par sthayi upay (solar fencing) ki maang — sirf maang + non-whitelist, REJECT. (7) The Hindu, 19 Jun 2025: ‘state ne 2 saal me naye projects ke liye koi fund nahi diya’ — ye bayan Mangaluru City South MLA Vedavyasa Kamath ka tha, Murulya ka nahi — dusre MLA, REJECT. KLLADS (Rs 2cr/seat/varsh) ka vyaktigat istemal kisi whitelist source me sourced nahi mila — fund dawa nahi joda. Negatives: (a) The Hindu, 8 Jan 2026: Facebook par apmanjanak ‘Shraddhanjali’ post par Bantwal Rural police me shikayat darj (BNS Sec 352) — MLA khud peedit (victim) thi, aaropi nahi — negative NAHI. (b) myneta.info 2023 halafnama: 0 criminal cases — negative-rule fail, koi negative entry nahi. Foundation cross-check: karnataka.ts me ‘bhageerathi-murulya’ ki works khaali ([]) — koi antar nahi.
+karnatakaWorks['bhageerathi-murulya'] = [
+  {
+    title: 'Sullia taluk ke Thodikana gaon ke sarkari Higher Primary School me local MLA funds se bana auditorium Amrit Mahotsav ke dauran hue vikas karyon me shamil hai.',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/govt-school-in-sullia-to-celebrate-amrit-mahotsav-on-jan-22/articleshow/126531565.cms',
+    date: '2026-01-22',
+    note: 'TOI ne likha ki Sullia taluk ke Thodikana ka Govt Higher Primary School apni 75vi varshgaanth par 22 Jan ko Amrit Mahotsav manayega; is silsile me hue vikas karyon me ‘local MLA funds’ se bana auditorium shamil hai. Saath hi gram panchayat funds se interlock, ek abhibhavak ke saujanya se football maidan, puratan chhatron ka band set aur nariyal-chadhne wali machine ka hastantaran bhi hua. Lekh me MLA ka naam nahi diya gaya hai — lekin May 2023 se Sullia ke MLA Bhagirathi Murulya hi hain, isliye ‘local MLA funds’ unhi se joda gaya hai (credit capped). Fund ki rashi lekh me ghoshit nahi. Tithi anumanit hai: lekh Nov 2025 me update hua tha aur 22 Jan ka samaroh aane wala bataya gaya tha, isi se 2026-01-22 li gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sullia depot ke liye 10 nayi KSRTC buses aur drivers-conductors ki maang par parivahan mantri ne 6 mahine me buses dene ka ashwasan diya; CM ko 35 maangon ka gyapan bhi saunpa gaya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mangaluru/sullia-mla-urges-minister-to-sanction-ksrtc-buses/articleshow/133766698.cms',
+    date: '2026-08-24',
+    note: 'TOI ne likha ki BJP MLA Bhagirathi Murulya ne parivahan mantri Byrathi Suresh se milkar Sullia depot ke liye 10 nayi buses aur drivers-conductors ki maang rakhi; mantri ne ashwasan diya ki sarkar ko 6 mahine me nayi buses milengi, uske baad Sullia ko buses aur staff diye jayenge. MLA ne CM D.K. Shivakumar ko 18 Sep ko Mangaluru me hone wali cabinet meeting se pehle Sullia kshetra ki 35 pramukh maangon ka gyapan bhi saunpa — jinme 1837 ke Amara Sullia swatantrata sangharsh ki yaad me Kedambadi Ramegowda Theme Park, 33 kV lines ko underground cable me badalna, aur Tulu ko rajya ki doosri aadhikarik bhasha ghoshit karna shamil hai. Disclosure: buses abhi mili nahi hain, sirf mantri ka ashwasan hai — credit capped. Ye Vidhansabha floor ki maang nahi, mantri se mulakat aur CM ko gyapan tha. Tithi anumanit hai: lekh 18 Sep 2026 ki cabinet meeting se pehle chhapa aur TOI metadata ke mutabiq lagbhag 55 din pehle update hua tha, isi se tithi li gayi hai.',
+    period: '2023-2028',
+  },
+];
+
+// --- Davanagere ---
+
+// QA-DROP (coordinator, b-devendrappa): worker ne Election Petition No. 19/2023 par 2 'negative' entries banayi theen
+// (HC ne dismissal-arzi kharij ki — petition maintainable; SC ne karyavahi par stay diya). Chunav-yachika AKELE
+// negative NAHI hoti (standing rule) — chaahe HC ka interim aadesh ho, stage-accurate relief bhi yahin banta hai
+// jab poori yachika khaarij/niptaan ho, interim par nahi. Fragment ka6_worker_b-devendrappa.ts scratch me preserved hai.
+// WATCH: SC stay ke baad koi final HC order aaye to us par entry possible. REJECT-LOG fragment file me.
+// FOUNDATION CROSS-CHECK: slug 'b-devendrappa' karnataka.ts me maujood — seat 'Jagalur', party 'Indian National Congress' (INC).
+karnatakaWorks['b-devendrappa'] = [];
+
+// b-p-harish (Harihar, BJP) — REJECT-LOG:
+// 1. The Hindu (22 Jul 2024): "Govt. finding it tough to get land for cemeteries, playgrounds, hospitals" — Revenue Minister Krishna Byre Gowda ne B.P. Harish ke Harihar ke liye kabrastan ki zameen ke prashna par kaha sarkar zameen jutane me sangharsh kar rahi hai. Sirf prashna; mantri se koi ashwasan/nateeja nahi mila — REJECT (sirf maang/prashna). URL: https://www.thehindu.com/news/national/karnataka/govt-finding-it-tough-to-get-land-for-cemeteries-playgrounds-hospitals/article68432594.ece
+// 2. Retired soldiers ko sites allot karne ki ghoshna (lokmattimes/thefreedompress/newkerala/mangalorean, 9 Mar 2026; IANS copy) — Harish ne Vidhansabha me prashna uthaya tha, mantri ne poore rajya me sites allot karne ki ghoshna ki. REJECT: kisi bhi whitelisted outlet (Hindu/IE/HT/NDTV/India Today/TOI/Deccan Herald/PTI-on-established) par iss event ki coverage nahi mili; sirf IANS-syndicated chhote portals. URL: https://www.lokmattimes.com/national/karnataka-govt-to-allot-sites-to-retired-soldiers-across-state-minister/
+// 3. LiveLaw (14 Aug 2026): NEET protest ke dauran BJP MLA par ande phenkne ke mamle me engineering student par FIR par Karnataka HC ka interim stay — FIR complainant B.P. Harish ne darj karayi thi; Harish aaropi nahi, gawah/shikayatakarta. REJECT as negative (MLA khud aaropi nahi). URL: https://Www.livelaw.in/high-court/karnataka-high-court/karnataka-high-court-interim-stay-fir-engineering-egg-attack-incident-against-bjp-mla-b-p-harish-545897
+// 4. Bharathorizon (Jan 2026): Kadajji gaon me talab se mitti uthane ke vivad me Dalit kisan Kantharaj par jati-gat tippani ke aarop me Harish par DCRIE police station me FIR — REJECT: sirf chhota portal, whitelisted established outlet par koi coverage nahi mili, verify nahi ho saka. URL: https://bharathorizon.com/politics/state-politics/bjp-mla-bp-harish-faces-fir-for-casteist-remarks-in-davangere.html
+// 5. Minister S.S. Mallikarjun dwara Harish ke khilaaf apshabd ka vivad (NDTV/hansindia, Sep 2026) — mantri ne aapattijanak bhasha istemal ki; Harish yahan peedhit-paksh; koi FIR/janch nahi. REJECT as negative (MLA khud aaropi nahi); REJECT as work (sirf rajnaitik vivad). URL: https://www.ndtv.com/india-news/beat-him-with-slippers-karnataka-minister-abuses-bjp-mla-on-camera-12021717?pfrom=home-ndtv_mainnavigation
+// 6. DNA India (27 Mar 2010): "BJP MLA demands ban on mining activities in Karnataka" — B.P. Harish ne 2010 me mining ban ki maang ki thi; karyakaal May 2023+ se pehle ka mamla, bina in-term vikas. REJECT.
+// 7. Star of Mysore ke K. Harishgowda (Chamaraja, Congress) ke saare works — NAMESAKE: ye B.P. Harish (Harihar, BJP) nahi hain. REJECT.
+// 8. Citizen Matters ka N.A. Haris (Shantinagar) ka LAD-fund article — NAMESAKE: alag neta, alag seat. REJECT.
+// 9. TOI (21 Jan 2022): Bommai ka Harihar ko Varanasi jaisa banane ka wada — pre-term; Harish ki koi vyaktigat bhoomika darj nahi. REJECT.
+// 10. Fund: KLLADS Rs 2cr/seat/varsh — Harish ki seat par kharch ke kisi spasht source ka pata nahi chala; koi fund line nahi jodi. Notes me "ghoshit nahi" kisi entry me lagu nahi hua.
+// IDENTITY QA: saare kaam sirf B.P. Harish (Harihar, BJP; pita Basavanagowda P, jeet 63,924 vote, N.H. Srinivasa ko 4,304 vote se haraaya) tak seemit; "Harish" naam ke anya netaon (K. Harishgowda, N.A. Haris, G.D. Harish Gowda) se koi mix nahi.
+karnatakaWorks['b-p-harish'] = [
+  {
+    title: 'Bhadra reservoir se kharif fasal ke liye Harihar sahit right-bank canal ke 4 branch canals (Anaveri, Davangere, Malebennur, Harihar) me 120 din tak pani chhodne ka nirnay — Harish ne IAC baithak me talab me pani ki jaldi maang uthai thi',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/water-to-be-released-from-bhadra-reservoir-for-kharif-crops-for-120-days-from-tuesday/article69838371.ece',
+    date: '2025-07-21',
+    period: '2023-2028',
+    note: 'The Hindu (21 Jul 2025) ke mutabik Shivamogga me Irrigation Advisory Committee (IAC) ki baithak me Bhadra reservoir se kharif fasal ke liye command area me 22 Jul 2025 se 120 din tak pani chhodne ka nirnay liya gaya; member-secretary R. Ravichandra ne usi din water-release timetable ki notification jaari ki. Baithak me mantri Madhu Bangarappa adhyaksh the; command-area ke vidhayakon B.P. Harish, D.G. Shantana Gowda aur Latha Mallikarjun ne maang ki thi ki talab (tail-end) ke kisanon ko fayda mile isliye pani turant jaldi chhoda jaye. Credit capped: pani chhodne ka nirnay committee ka tha; Harish maang uthane wale kayi vidhayakon me se ek the. Date-note: article 21 Jul 2025 ko publish hua, baithak usi din (Somvar) aur release 22 Jul (Mangalvar) se.',
+  },
+  {
+    title: 'Davangere ke kisanon ke virodh par Bhadra right-bank canal se Chikkamagaluru-Chitradurga ke liye nayi peya-jal pariyojna ka kaam rokne ka nirnay — Harish design-badalne ki maang me shamil the',
+    category: 'Paani',
+    badge: 'news',
+    stage: 'swikriti',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/water-project-to-benefit-parts-of-chikkamagaluru-chitradurga-irks-farmers-in-davangere/article69776155.ece',
+    date: '2025-07-06',
+    period: '2023-2028',
+    note: 'The Hindu (6 Jul 2025) ke mutabik poorv mantri M.P. Renukacharya, Harihar MLA B.P. Harish, KRRS neta K.T. Gangadhar aur anyon ne Bhadra right-bank canal par Lakkavalli me naye outlet se Chikkamagaluru-Chitradurga ke gaon/kasbon ko peya-jal dene wali pariyojna ke design ka virodh kiya, kahte hue ki outlet talab ke kisanon ka pani rok lega; unki maang thi ki outlet ki jagah alag aqueduct bane. 23 June ko mantri D. Sudhakar ki adhyakshata me baithak me nirnay hua ki IISc Bengaluru ke experts ki technical rai aane tak kaam rok diya jayega. Credit capped: virodh Davangere ke kisan sangathanon aur kayi netaon ka sanyukt tha; Harish unme se ek the. Date-note: article 6 Jul 2025 ko publish hua; sambandhit baithak 23 June ko hui thi.',
+  },
+  {
+    title: '2023 ke chunaav-ke-baad Dalit samuday par kathit tippani ke mamle me Bengaluru ki special court ne BJP MLA B.P. Harish ke khilaaf giraftari warrant jaari kiya — lagatar pesh na hone par',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/bangalore/bp-harish-arrest-warrant-dalit-remarks-case-karnataka-10676973/',
+    date: '2026-05-06',
+    period: '2023-2028',
+    note: 'Indian Express (7 May 2026) ke mutabik Bengaluru ki elected-representatives special court ke judge Santosh Gajanan Bhat ne BJP MLA B.P. Harish (Harihar, Davangere) ke khilaaf giraftari warrant jaari kiya kyunki wo mamle me baar-baar court me pesh nahi hue; court ne police ko unhe pesh karne ka nirdesh bhi diya. Mamla 2023 ke Assembly chunaav ke baad ka hai: Harish par aarop hai ki jeet par badhai dene aaye Dalit samuday ke logon par unhone aapattijanak tippani ki aur kaha ki party ne community ke liye internal reservation laya phir bhi unhone BJP ko vote nahi diya. Harish ne baad me maafi maangi thi, lekin BSP neta D. Hanumanthappa ne unke ek public event me apni tippani ka bachav karne ke baad Harihar Town police station me shikayat darj karayi. Stage: sirf giraftari-warrant star — chargesheet ya dosh-siddhi ki koi reporting nahi mili. Date-note: IE ki report 7 May 2026 (Guruvaar) ko publish hui aur warrant ko "Wednesday" jaari bataya gaya; Asia/Kolkata calendar ke hisab se 6 May 2026 Wednesday tha, isliye tithi 2026-05-06 rakhi gayi hai.',
+  },
+  {
+    title: 'Davangere ki mahila SP Uma Prashanth par apmanjanak tippani ke aarop me Harihar BJP MLA B.P. Harish par KTJ Nagar police station me FIR darj hui',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/karnataka/2025/Sep/04/fir-against-bjp-mla-bp-harish-for-remark-against-sp',
+    date: '2025-09-03',
+    period: '2023-2028',
+    note: 'New Indian Express (4 Sep 2025) ke mutabik Harihar BJP MLA B.P. Harish ke khilaaf Davangere ke KTJ Nagar police station me FIR darj ki gayi. SP Uma Prashanth ne shikayat ki thi ki 2 Sep 2025 ki press conference me Harish ne unhe Shamanuru pariwar ke darwaze par "pomeranian dog" ki tarah intezar karti bataya; unhone kaha tha ki MLA ke meeting me aane par SP uchit abhivadan nahi karti, lekin Shamanuru pariwar ke logon ke liye gate par intezar karti hain. BNS ki dhaarayein 132, 351(2) aur 79 ke tahat mamla darj hua. Akhil Bharat Veerashaiva-Lingayat Mahasabha ke Davangere taluk adhyaksh Shambhu Urekondi ne maafi ki maang ki aur chetavni di ki public me maafi na maange par teevra virodh hoga. Stage: sirf FIR star — chargesheet ya dosh-siddhi ki koi reporting nahi mili. Date-note: NIE ki report 4 Sep 2025 ko update hui aur FIR ko "Wednesday" bataya gaya; calendar ke hisab se 3 Sep 2025 Wednesday tha, isliye tithi 2025-09-03 rakhi gayi hai.',
+  },
+];
+
+// FRAGMENT: s-s-mallikarjun (S. S. Mallikarjun, Davanagere North, INC) — 2023-2028 works research
+// Mantri portfolio (foundation record + Deccan Herald 12 Aug 2026 se verify): Mines and Geology; Horticulture.
+// Researched 2026-10-19. Positive works: ZERO qualifying (whitelisted outlet par Davanagere North seat ka
+// koi vyaktigat lokarpan/shilanyas/itemized sanction nahi mila; mile hue sabhi kaam mantri-vibhaag ke
+// rajya-stariya faisle, CM-led events, ya seat ke bahar ke the).
+// Negative: 1 major in-term matter — Dec 2022 me Davanagere farmhouse par Wildlife Act raid, FIR me MLA khud
+// aaropi, aur 6 Oct 2023 ko Karnataka HC ne karyavahi prakriya-dosh par radd ki (in-term nyayik vikas, raahat).
+
+karnatakaWorks['s-s-mallikarjun'] = [
+  {
+    title: 'Karnataka HC ne Davanagere North ke MLA S. S. Mallikarjun ke khilaf Wildlife Protection Act ki karyavahi prakriya-dosh ke aadhar par radd ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/cities/bangalore/karnataka-hc-horticulture-minister-wildlife-protection-act-case-quashed-8992312/lite/',
+    date: '2023-10-06',
+    note: 'The Indian Express ki report ke anusar Karnataka High Court ne 6 Oct 2023 ko Horticulture Minister S. S. Mallikarjun (Davanagere North ke Congress MLA) aur unke bhai S. S. Ganesh sahit sabhi aaropiyon ke khilaf Wildlife (Protection) Act ke tehat chal rahi aapradhik karyavahi radd kar di. Justice M. Nagaprasanna ki single-judge bench ne kaha ki search aur seizure ke baad Forest Officer ko Wildlife Offence Register me saara vivaran darj karke Wildlife Offence Report taiyaar karni chahiye thi, lekin poori prakriya ulta-pulta (topsy-turvy) hui aur magistrate dwara dohra (dual) cognizance lena bhi niyam-viruddh tha — ye ‘incurable illegalities’ the. Case ka pichhla vikaas: Dec 2022 me minister ke Davanagere farmhouse par chhaapa pada aur 29 jungli jaanwar (10 blackbuck, 7 cheetal, 7 jungli suar, 3 nevle, 2 siyaar) baramad hue; farmhouse karmchari Senthil (Bengaluru me hiran ki khaal/sing/haad ki bikri par giraftaar) ke bayaan ke aadhar par Assistant Conservator of Forests ne FIR darj ki jisme minister aur unke bhai ko aaropi banaya gaya; report magistrate ke saamne pesh hui aur cognizance liya gaya, ek alag case me criminal conspiracy ki dhara bhi jodi gayi. HC ke is aadesh se MLA ko case se raahat mili; koi conviction nahi hua hai. Date inference: page 20 Oct 2023 ko prakashit hua aur aadesh ko ‘October 6’ bataya gaya hai, isliye 2023-10-06 rakha gaya hai.',
+    period: '2023-2028'
+  }
+];
+
+// REJECT-LOG (s-s-mallikarjun):
+// 1. lawstreet.co, 14 Mar 2024 — HC notice on plea against naming government buildings after living Congress ministers (Mallikarjun + father Shamanur Shivashankarappa; bus stand, lake, ZP sabhangana, corporation meeting hall): REJECT — outlet whitelist me NAHI hai; kisi bhi whitelisted outlet par iski coverage nahi mili, isliye entry NAHI.
+// 2. newsable.asianetnews.com, Jan 2026 — Karnataka Anna Bhagya case: FIR against minister's aide Mohammed Jameer over alleged rice hoarding in Davanagere: REJECT — outlet whitelist me NAHI; FIR me MLA KHUD aaropi NAHI (aaropi sahyogi hai; BJP ka 'mastermind' ka aarop rajneetik aarop hai, FIR-aaropi column me MLA ka naam nahi).
+// 3. thehansindia.com, Sep 2026 — Davanagere-Harihar Urban Development Authority plans 200-acre layout (Karur), meeting chaired by district in-charge minister: REJECT — outlet whitelist me NAHI; zila-prabhari mantri ki bhoomika me authority ki baithak ka faisla, Davanagere North seat ka vyaktigat MLA-kaam nahi; keval prastav-taiyaari ka nirdesh.
+// 4. The Hindu, 16 Jun 2025 — CM Siddaramaiah laid foundation for development projects worth Rs 1,350 crore in Davanagere district: REJECT — CM dwara udghatan/shilanyas; MLA ki vyaktigat dastaveji bhoomika (fund + bhoomika disclosed) ka koi zikr nahi; dusre neta ke karyakram me maujoodgi.
+// 5. newsnext.live, Mar 2026 — Budget 2026-27: Rs 100 crore package (Davanagere South SC/ST/minority areas) + Rs 64 crore horticulture cold storage in district: REJECT — outlet whitelist me NAHI; CM ki budget ghoshna (sirf ghoshna); MLA ki vyaktigat bhoomika nahi; package Davanagere South seat (putra ki seat) ke liye hai.
+// 6. timesofindia.indiatimes.com — 'Davanagere to be made model district' (Mallikarjun as sports/youth services and district-in-charge minister, Rs 230.89 crore works claim): REJECT — pre-term mamla (lagbhag 25 saal purana, ~2001; karyakaal 2023-2028 ke bahar), is par karyakaal me koi naya nyayik/prakashit vikas nahi.
+// 7. ssmallikarjun.in — MLA ki apni website (sustainable mining, road connectivity to 100+ villages, healthcare access claims): REJECT — sirf apne dawe; post-event reporting nahi; vikas-karya nahi.
+// 8. deccanherald.com, 29 Sep 2026 — 'Basavanthappa pleads with fellow Minister S S Mallikarjun to take him into confidence': REJECT — samudaayik samman samaroh me rajneetik bayaan; vikas-karya nahi.
+// 9. saptashwatv.com, Oct 2026 — Lalbagh AI Welcome Gates launched by S.S. Mallikarjun: REJECT — outlet whitelist me NAHI; Bengaluru ka kaam (Davanagere North seat ke bahar); mantri-vibhaag (horticulture) ka rajya kaam.
+// 10. starofmysore.com, Sep 2026 — Mallikarjun listed as inaugurator of Mysuru Dasara Flower Show: REJECT — outlet whitelist me NAHI; samaroh/utsav ka udghatan (keval shubharambh), bhautik sarkari sanrachna ka kaam nahi.
+// 11. Parivaar firewall — patni Dr. Prabha Mallikarjun (Davanagere MP) ke Lok Sabha prashn (PMGSY Phase 4, STPI Davanagere IT hub): MP ke MPLADS/prashn wale kaam, MLA par NAHI; entry NAHI. Putra Samarth Mallikarjun (Davanagere South MLA, 2026 by-election) ke kaam/mamle: pita par NAHI aur ulta bhi NAHI; teenon record alag rakhe gaye.
+// 12. Lokmattimes/economicobserver/ibcworldnews epapers — Mallikarjun se judi khabrein mili (bypoll campaign, cabinet reshuffle): REJECT — ye sab outlets whitelist me NAHI; aur ye vikas-karya nahi, rajneetik coverage hai.
+// NOTE: Foundation fund field me KLLADS 'Rs 2 crore/seat/varsh' darj hai; kisi bhi whitelisted source ne is MLA ke sandarbh me iska upyog/nidhi-avaantn spasht nahi kaha, isliye works me fund disclosure ke bina joda nahi gaya.
+
+// QA: 15 candidates screened, 1 qualifying negative entry (in-term HC order with relief), 0 qualifying positive works. Portfolio verified: Mines and Geology; Horticulture (Deccan Herald, 12 Aug 2026).
+
+// samarth-mallikarjun — 0 works + 0 negatives
+// Mined 2026-10-19. Fragment khud merge mat karo.
+
+// Pehchan pakki: Davanagere South (Davanagere jila, Karnataka Vidhan
+// Sabha seat 107), INC. 2026 upchunav me jeet — polling 9 Apr 2026,
+// ginti/jeet 4 May 2026: 69,578 vote; BJP ke Shrinivasa T. Dasakariyappa
+// (63,870) ko 5,708 maton se haraya (New Indian Express, 04 May 2026;
+// ECI numbers wiki par bhi). Oath/pad grahan 4 May 2026. Poorv MLA:
+// dada Shamanuru Shivashankarappa (seat Dec 2025 me unki mrityu par
+// khaali hui). Pita: S. S. Mallikarjun (Davanagere North ke MLA,
+// Karnataka sarkar me mantri). Maa: Prabha Mallikarjun (Davanagere
+// Lok Sabha MP). Janm: 2 Feb 1999, Davanagere.
+// PARIVAAR FIREWALL (sakht): pita S. S. Mallikarjun ke kaam/mamle
+// putra par NAHI jode; maa Prabha Mallikarjun ke MPLADS kaam putra
+// par NAHI jode; dada ke pichhle karyakaal ke kaam in par NAHI jode.
+// Karyakaal: sirf apni jeet (4 May 2026) se — 2026 se pehle ka kuch
+// bhi entry NAHI. Tenure ~5.5 mahine (Oct 2026 tak) — chhota tenure.
+
+karnatakaWorks['samarth-mallikarjun'] = [];
+
+// ===== REJECT-LOG: Samarth Mallikarjun (Davanagere South, INC) =====
+// Chhote tenure + bhadkau/parivaar-dominated coverage ke kaaran
+// whitelisted outlets me May 2026 ke baad unki VYAKTIGAT vikas-gatividhi
+// (lokarpan/shilanyas/sanction list/GO-swikriti) ki koi post-event
+// reporting NAHI mili. Election/bypoll reporting prachur hai, lekin
+// woh kaam NAHI hai.
+
+// --- WORKS LEADS (har ek khoja/padha; sab REJECT) ---
+// 1. Karnataka Budget 2026-27: Davanagere South ke SC/ST/alpasankhyak
+//    kshetron ke liye Rs 100 crore package, 12,000 MT cold storage,
+//    Mayakonda PHC ko CHC banana, Matsyadarshini outlet, 150-capacity
+//    hostel (newsnext.live, ~Mar 2026, budget pesh hone par). YE CM
+//    Siddaramaiah ki BUDGET GHOSHNA hai, Samarth ka koi lokarpan/
+//    bhoomika nahi; aur ye jeet (4 May 2026) se PEHLE ka hai (polling
+//    9 Apr 2026; budget March me pesh hua). REJECT (pre-term; sarkar ki
+//    ghoshna, MLA ki vyaktigat bhoomika nahi). sourceUrl:
+//    https://newsnext.live/karnataka/major-allocations-announced-for-davanagere-and-bagalkot-in-budget-ahead-of-bypoll/
+// 2. The Hindu / New Indian Express / Times of India / The News Minute
+//    (Mar-May 2026): nomination (20 Mar 2026), CM roadshow, deputy CM
+//    bayan, polling-day reporting, ginti aur jeet ki khabar, "reduced
+//    margin" vishleshan. Sab chunav reporting; koi bhautik sanrachna
+//    ka vyaktigat lokarpan/shilanyas nahi. REJECT (chunav reporting).
+//    sourceUrls:
+//    https://www.thehindu.com/news/national/karnataka/davangere-bypoll-eight-candidates-file-nominations/article70766269.ece/amp/
+//    https://www.newindianexpress.com/states/karnataka/2026/May/04/congress-wrests-two-bypolls-seats-in-karnataka
+//    https://www.thehindu.com/news/national/karnataka/davanagere-south-grandsons-victory-with-reduced-margin-in-shamanur-bastion-matter-of-concern/article70939063.ece
+// 3. The Hindu (06 May 2026, "Davanagere South bypolls: Sadiq Pahilwan,
+//    Congress MLA Rizwan Arshad congratulate CM Siddaramaiah") — jeet
+//    ke baad minority leaders ki CM se shishtachar bhet; shuddh
+//    party-politics. REJECT (party karyawahi; koi vikas kaam nahi).
+//    sourceUrl:
+//    https://www.thehindu.com/news/national/karnataka/davanagere-south-bypolls-sadiq-pahilwan-congress-mla-rizwan-arshad-congratulate-cm-siddaramaiah/article70946176.ece
+// 4. New Indian Express (05 Apr 2026, "Samarth walks untrodden paths in
+//    Davanagere South") — jeet se PEHLE ka campaign profile piece
+//    (maa Prabha ka bayan: "He will make Davanagere South one of the
+//    best constituencies"). Pre-term vaade/interview, koi dastaveji
+//    kaam nahi. REJECT (pre-term; campaign profile, ghoshna nahi).
+//    sourceUrl:
+//    https://www.newindianexpress.com/states/karnataka/2026/Apr/05/samarth-walks-untrodden-paths-in-davanagere-south
+// 5. Karnataka sarkari portal/DIPR par Samarth ke naam koi
+//    itemized KLLADS sanction list, GO ya shilanyas/lokarpan press
+//    release (May-Oct 2026) NAHI mila. KLLADS fund: ghoshit nahi.
+// 6. Vidhan Sabha me inki koi maang ka dastaveji nateeja/ashwasan
+//    whitelisted media me report NAHI hua.
+
+// --- NEGATIVES CHECK (koi qualify NAHI hua) ---
+// 1. New Indian Express (13 Mar 2024, "Karnataka HC issues notice to
+//    MLA Shamanur, Minister Mallikarjun on PIL against public infra
+//    being named after politicians") — PIL me prativadi: dada
+//    Shivashankarappa aur PITA S. S. Mallikarjun; Samarth na prativadi
+//    hai na aaropi, aur mamla pre-term (2024) hai, in-term koi vikas
+//    (adalati aadesh/notice) report nahi hua. REJECT as negative
+//    (parivaar firewall + pre-term; pehchan galat hogi). sourceUrl:
+//    https://www.newindianexpress.com/amp/story/states/karnataka/2024/Mar/13/karnataka-hc-issues-notice-to-mla-shamanur-minister-mallikarjun-on-pil-against-public-infra-being-named-after-politicians
+// 2. Sep 2026 war-of-words (IANS: Minister S. S. Mallikarjun vs BJP
+//    MLA B. P. Harish — Harihar veterinary hospital lokarpan ke dauraan
+//    paani ki maang par apshabd). Lokarpan aur tippaniyan PITA ki,
+//    Harihar seat me — Samarth is ghatna se juda nahi. REJECT as
+//    negative (pita ka mamla; parivaar firewall; Davanagere South se
+//    bahar). sourceUrl:
+//    https://www.lokmattimes.com/national/war-of-words-between-karnataka-minister-mallikarjun-bjp-mla-harish-spark-public-concern/
+// 3. Deccan Herald (29 Sep 2026, Basavanthappa ki S. S. Mallikarjun se
+//    apeel) — pita se sambandhit mantri-stariya mamla; Samarth ka
+//    ullekh tak nahi. REJECT (parivaar firewall). sourceUrl:
+//    https://www.deccanherald.com/india/karnataka/basavanthappa-pleads-with-fellow-minister-s-s-mallikarjun-to-take-him-into-confidence-4164493
+// 4. Maa Prabha Mallikarjun ke Sansad-sabha (PMGSY) sawal — MPLADS/
+//    Sansad ke mamle; firewall ke tahat putra par NAHI. REJECT.
+// 5. Samarth ke khilaf established media me koi FIR/chargesheet/janch
+//    ya adalati aadesh/notice report NAHI hua. Halafname ke mamle
+//    (publicly reported nahi) akele negative NAHI — koi entry nahi.
+
+// NEGATIVES: koi nahi. Fund (KLLADS): srot me ghoshit nahi.
+
+// k-s-basavanthappa (Mayakonda SC, Davangere, INC) — researched 2026-10-19 — 0 works + 0 negatives.
+// Pehchan (grounded): K. S. Basavanthappa, INC, first-time MLA from Mayakonda (SC), Davangere district — 2023 me
+// 70,916 votes se jeete (runner-up independent B. M. Pushpa Vageeshaswamy). 3 Aug 2026 ko D. K. Shivakumar cabinet
+// me minister baney; 12 Aug 2026 ko Muzrai, Fisheries, Ports and Inland Water portfolios miley. Pourakarmikas ke
+// bete (Sangappa Pailwan aur Hanumakka), 'Ambulance Basavanthappa' ke naam se mashhoor, 2014 me Anagodu se zilla
+// panchayat member rahe, 2018 me Mayakonda se haare. Sources: Deccan Herald (opened 2026-10-19), The Hindu election page, Wikipedia/ECI figures.
+// Whitelisted media (The Hindu, Indian Express, Hindustan Times, NDTV, India Today, Times of India, Deccan Herald,
+// PTI-on-established-outlet) me May 2023 se ab tak is MLA ke Mayakonda seat-level vyaktigat lokarpan/shilanyas,
+// GO-backed swikriti, itemized sanction list ya dastaveji Vidhansabha-nateeja ka koi post-event proof nahi mila.
+// Sarkari portal/DIPR press release me bhi naam se koi release nahi mili. Isliye array khaali rakha gaya hai —
+// khali profile theek hai.
+// REJECT-LOG:
+// R1: Deccan Herald (5 Aug 2026, opened): 'Karnataka Cabinet expansion | Pourakarmikas' son becomes minister' —
+//     journey profile; koi seat-level kaam nahi — REJECT (profile piece).
+//     URL: https://www.deccanherald.com/india/karnataka/karnataka-cabinet-expansion-pourakarmikas-son-becomes-minister-4099613
+// R2: Deccan Herald (29 Sep 2026, opened): 'Basavanthappa pleads with fellow Minister S S Mallikarjun to take him
+//     into confidence' — Gandhi Nagar (Davangere city, Davangere North seat) ki maangon par appeal; na koi
+//     dastaveji nateeja, na Mayakonda seat — REJECT (sirf maang/appeal + seat ke bahar).
+//     URL: https://www.deccanherald.com/india/karnataka/basavanthappa-pleads-with-fellow-minister-s-s-mallikarjun-to-take-him-into-confidence-4164493
+// R3: Deccan Herald (~16 Aug 2026): 'Winds of change in Muzrai dept as Dalit takes over as minister' — minister
+//     appointment ki symbolism story; koi seat-level work nahi — REJECT (appointment coverage).
+//     URL: https://www.deccanherald.com/india/karnataka/winds-of-change-in-muzrai-dept-as-dalit-takes-over-as-minister-4113472
+// R4: TOI Hubballi (Sep 2026): 'Poor upkeep of Huligemma shrine irks muzrai minister' — Huligi (Koppal) mandir ka
+//     nirikshan + officials ko fatkaar — REJECT (seat ke bahar + sirf nirikshan/daura).
+//     URL: https://timesofindia.indiatimes.com/city/hubballi/poor-upkeep-of-huligemma-shrine-irks-muzrai-minister/articleshow/133688529.cms
+// R5: Deccan Herald (8 Sep 2026): leopard attack me injured forest watcher se hospital visit — REJECT
+//     (sirf daura/nirikshan; koi lokarpan/swikriti nahi).
+//     URL: https://www.deccanherald.com/india/karnataka/davangere-forest-watcher-injured-in-leopard-attack-during-rescue-ops-4139460
+// R6: daijiworld (16 Sep 2026): 'Priority to comprehensive development of Malpe all-weather port' — Malpe (Udupi)
+//     par minister ka bayan — REJECT (seat ke bahar + sirf ghoshna; outlet bhi whitelist me nahi).
+//     URL: https://daijiworld.com/news/newsDisplay?newsID=1325902
+// R7: forpressrelease (3 Jun 2026): Aahwahan Foundation school inauguration, Kolkunthe (Davangere) — MLA 'esteemed
+//     presence' me kai dignitaries ke saath — REJECT (CSR mukhya-atithi samaroh + outlet whitelist me nahi).
+//     URL: https://www.forpressrelease.com/forpressrelease/672162/17/aahwahan-foundation-transforms-government-higher-primary-school-village-kolkunthe-davanagere-district-karnataka
+// R8: newsnext.live (Mar 2026): budget 2026-27 me Mayakonda PHC ka CHC me upgrade — CM ka budget ghoshna, MLA ki
+//     vyaktigat dastaveji bhoomika nahi — REJECT (dusre neta ki ghoshna + outlet whitelist me nahi).
+//     URL: https://newsnext.live/karnataka/major-allocations-announced-for-davanagere-and-bagalkot-in-budget-ahead-of-bypoll/
+// R9: coastaldigest (Jan 2026): 'Yediyurappa promises to carve out new Mayakonda taluk' — purv CM ka vaada, is MLA
+//     se sambandh nahi — REJECT (dusre neta ki ghoshna + outlet whitelist me nahi).
+//     URL: http://www.coastaldigest.com/yediyurappa-promises-carve-out-new-mayakonda-taluk?page=1
+// R10: thesouthfirst minister-profile: pending criminal case (Siddapura PS) ka daawa — outlet whitelist me nahi,
+//     article khud contradictory hai (aage 'no criminal cases' likha hai), aur halafname ke mamle akele negative
+//     nahi (rule) — negative entry nahi. REJECT.
+//     URL: https://thesouthfirst.com/karnataka/from-ambulance-basavanthappa-to-dharam-singhs-son-karnatakas-new-ministers/
+// Fund: KLLADS (Rs 2cr/seat/varsh) jodne ke liye koi spasht source nahi mila — 'ghoshit nahi' status; fragment me
+// koi fund line nahi.
+// NEGATIVE CHECK: whitelisted media me May 2023 se ab tak is MLA ke khilaf koi FIR/chargesheet/janch ya in-term
+// nyayik vikas (adalat ka aadesh/notice) ki reporting nahi mili. Isliye koi negative entry nahi.
+karnatakaWorks['k-s-basavanthappa'] = [];
+
+// basavaraju-v-shivaganga — 0 works + 0 negatives (researched 2026-10-19)
+// Pehchan: Basavaraju V. Shivaganga, INC, Channagiri (Davanagere jila), 16th Karnataka Vidhansabha 2023-2028,
+// 78,263 vote, margin 16,435 (runner-up Madal Mallikarjuna, IND); first-time MLA; Davanagere jila Kisan
+// Congress adhyaksh (ANI/firstindia report ke anusar).
+// Whitelisted media (The Hindu, Indian Express, Hindustan Times, NDTV, India Today, Times of India, Deccan
+// Herald, PTI on established outlet) me May 2023+ koi VALID work lead nahi mila — saare lead political
+// bayan, party-vivad ya rival ke aarop nikle; koi vyaktigat lokarpan/shilanyas bhautik sarkari sanrachna ka,
+// GO-backed swikriti, itemized sanction list ya dastaveji Vidhansabha-nateeja nahi mila. Khali profile theek hai.
+karnatakaWorks['basavaraju-v-shivaganga'] = [];
+
+// REJECT-LOG (basavaraju-v-shivaganga)
+// R1: Garbhwati van-adhikari par vivadaspad tippani (KDP review meeting, Channagiri) — Hindustan Times,
+//     16 Oct 2025 (India Today ki reporting ke hawale) — MLA ne garbhwati Range Forest Officer (Shweta) ki
+//     anupasthiti par sexist tippaniyan ki, notice jari karne ka nirdesh diya. NEGATIVE NAHI: whitelisted
+//     coverage me MLA ke khilaf koi FIR/chargesheet/janch ya karyakaal me koi nyayik vikas (adalat ka
+//     aadesh/notice) report nahi hua. Congress Disciplinary Committee show-cause ki khabar sirf The Logical
+//     Indian (whitelisted NAHI) ne di — aur niyam ke anusar "Party karyawahi akele negative NAHI".
+//     URL: https://www.hindustantimes.com/india-news/pregnancy-an-excuse-karnataka-congress-mla-shivaganga-basavaraj-backlash-for-sexist-remarks-against-pregnant-officer-101760594589067.html
+// R2: CM-change bayan par Congress show-cause (Aug 2025, PTI via theweek.in/m.rediff.com) — MLA ne kaha DK
+//     Shivakumar December tak CM banenge; KPCC Disciplinary Committee (coordinator Nivedith Alwa) ne 7 din me
+//     jawab manga. NEGATIVE NAHI: party karyawahi akele negative nahi; works se sambandh nahi.
+//     URL: http://theweek.in/wire-updates/national/2025/08/17/mes6-ka-cong-mla-notice.html
+// R3: MP Renukacharya ke ret-khanan (sand) aarop par press conference — Times of India (Hubballi),
+//     16 Jun 2025 — MLA ne Renukacharya ke 'sand smuggling' aarop ka khandan kiya ("legitimate sand trading,
+//     not smuggling"; khud ko nirdosh bataya, devtaon ke saamne kasam ki chunauti). NEGATIVE NAHI: rival neta
+//     ka political aarop; koi FIR/chargesheet/janch ya adalati vikas report nahi; works entry bhi nahi.
+//     URL: https://timesofindia.indiatimes.com/city/hubballi/mla-shivaganga-exposes-ls-poll-agreement-financial-dealings-of-renukacharya/articleshow/122096564.cms
+// R4: "DK Shivakumar ko CM banao" / 5-10 DyCM posts ki maang — Deccan Chronicle (create-5-deputy-cm-posts...,
+//     2024) aur Times of India (karnataka-to-see-rotational-cm..., 25 Mar 2025) — sirf political bayan;
+//     REJECT (sirf ghoshna/bayan; works kaam nahi).
+//     URLs: https://www.deccanchronicle.com/southern-states/karnataka/create-5-deputy-cm-posts-in-karnataka-demands-congress-mla-basavaraju-shivaganga-900983
+//           https://timesofindia.indiatimes.com/india/karnataka-to-see-rotational-cm-mla-claims-shivakumar-will-take-over-in-december/articleshow/118665774.cms
+// R5: Davanagere jila prabhari mantri SS Mallikarjun ke hatane ki maang (DK Shivakumar ko chitthi, Dec 2024) —
+//     firstindia.co.in (ANI) / thenewsmill.com — REJECT: party-level political maang (sirf maang/prastav);
+//     outlet whitelisted nahi; works kaam nahi.
+//     URL: https://firstindia.co.in/news/india/Channagiri-mla-basavaraju-v-shivaganga-demands-replacement-of-davangere-district-in-charge-minister-mallikarjun
+// R6: Bhadra jalashay jal-vivad par tippani ("recent water policies have disadvantaged his constituency";
+//     mantriyon se charcha ki maang) — devdiscourse.com (agency inputs, ~Sep 2026) — REJECT: sirf maang,
+//     koi dastaveji nateeja/ashwasan nahi; outlet whitelisted nahi.
+//     URL: https://www.devdiscourse.com/article/politics/3975049-political-rifts-unveiled-harsh-words-ignite-controversy-among-senior-leaders
+// R7: Mallikarjun vs BP Harish war-of-words ki ninda ("enough of politics") — newsable.asianetnews.com,
+//     ~Sep 2026 — REJECT: political bayan; works kaam nahi; outlet whitelisted nahi.
+//     URL: https://newsable.asianetnews.com/india/k-taka-mla-slams-senior-leaders-war-of-words-feels-enough-of-politics-articleshow-ua8u5dg
+// R8: IBC World News "CM-DCM Delhi trip" bayan (Jan 2026) — REJECT: political bayan; works kaam nahi;
+//     outlet whitelisted nahi. URL: http://ibcworldnews.com/2026/01/17/cm-dcm-delhi-trip-signals-political-change-ahead-mla/
+// R9: Purv Channagiri MLA Madal Virupakshappa (BJP) ka Mar 2023 Lokayukta rishwat mamla — purv MLA ka hai,
+//     pre-term hai, aur is MLA (Shivaganga) se sambandh nahi — REJECT (galat vyakti + pre-term).
+// NEGATIVES: whitelisted media me May 2023+ MLA (pehchan: Channagiri seat, INC) ke khilaf koi FIR/chargesheet/
+//     janch ya karyakaal me koi nyayik vikas (adalat ka aadesh/notice) nahi mila. R1 aur R3 ke mamle aarop/
+//     bayan tak seemit rahe, koi kaanuni janch report nahi hui. Halafname ke mamle akele negative nahi (niyam).
+// FUND-NOTE: KLLADS (Rs 2 crore/seat/varsh) ka koi srot-spasht ullekh Channagiri/MLA ke sandarbh me nahi mila —
+//     isliye koi fund entry nahi; "ghoshit nahi" ki sthiti bhi kahin darj nahi.
+// SEARCH-SCOPE: 8 alag web searches (development/foundation-stone/inauguration/water/road/school/hospital
+//     angles + Deccan Herald/The Hindu specific) + 2 whitelisted articles poore kholkar padhe gaye (HT,
+//     ToI-Hubballi). Kannada-regional whitelisted coverage me bhi koi works lead nahi mila. RETRY-LEAD: koi
+//     thos nahi — live-browser se Channagiri ke sthaniya sarkari/DIPR press releases me MLA ke vyaktigat
+//     lokarpan/shilanyas ka dastavej mile to entry ban sakti hai; filhal khali profile sahi hai.
+
+// FRAGMENT: d-g-shanthana-gowda (D. G. Shanthana Gowda, Honnali, INC) — 2023-2028 works research
+// Researched 2026-10-19. Positive works: ZERO qualifying (whitelisted outlet par karyakaal ka koi vyaktigat lokarpan/shilanyas/itemized sanction nahi mila).
+// Negatives: halafname ke 2 pending case darj hain (PAR 33/2023 CrPC 107; PAR 192/2022 IPC 143/147/323/307/504/506/149) lekin halafname ke mamle akele qualifying NAHI;
+// karyakaal me koi FIR/chargesheet/adalt-order jisme MLA aaropi ho, established media me nahi mili. Isliye negative entry: ZERO.
+
+karnatakaWorks['d-g-shanthana-gowda'] = [];
+
+// REJECT-LOG (d-g-shanthana-gowda):
+// 1. vijayavani.net, 16 Jun 2025 — "Shaikshanik abhivruddhige sarkara needuttide saulabhya" (Nyamati Govt First Grade College ke cultural/sports/NSS closing ceremony ka udghatan, MLA ne bhashan diya): REJECT — outlet whitelist me NAHI; samaroh ka udghatan/bhashan, koi bhautik sarkari sanrachna ka kaam nahi; promise/fund ka zikr nahi.
+// 2. vijayavani.net, Nov 2023 (Rajyotsava) — Honnali me Rajyotsava samaroh me MLA ka bhashan; Tumminkatte road widening ke baad Kannada flagstaff, Jayachamarajendra circle name board aur Bhuvaneshwari statue lagwane ka bharosa: REJECT — outlet whitelist me NAHI; sirf vaada/bharosa, koi shuru/hua kaam nahi; pre/post-event works ka koi sanction nahi.
+// 3. newindianexpress.com, 07 Sep 2023 — "New districts: CM will not commit due to fund crunch" (Kannada Bhavana ka udghatan + Rs 150 crore ke works ke shilanyas): REJECT — ye ghatna Madhugiri (Tumakuru) ki thi, Honnali ki NAHI; galat seat.
+// 4. vijaykarnataka.com, 2016 — Honnali town me Rs 3.25 crore ke water reservoir + pipeline ka lokarpan (MLA ne kiya): REJECT — pre-term (2016, is karyakaal se bahar); outlet whitelist me bhi NAHI.
+// 5. deccanherald.com, 05 Aug 2026 — "No resentment over denial of ministerial berth" (Honnali MLA ne mantri-pad na milne par narazgi se inkaar, corporation/board adhyaksh ki ummeed): REJECT — vikas-karya nahi, political statement; works category me qualify nahi karta.
+// 6. newsnext.live, Feb 2026 (budget 2026-27 coverage) — Honnali me KSRTC ka naya bus stand + depot; Davanagere district me cold storage, Mayakonda PHC upgrade: REJECT — outlet whitelist me NAHI; CM budget ghoshna hai, MLA ki vyaktigat dastaveji bhoomika ka koi zikr nahi; sirf ghoshna.
+// 7. myneta.info affidavit (Karnataka 2023) — 2 pending cases (PAR:33/2023, Section-107 CrPC, Honnali Tashildar Court; PAR:192/2022, IPC 143/147/323/307/504/506/149, District Court Davanagere): REJECT — halafname ke mamle akele negative entry NAHI banate; inme se 192/2022 pre-term FIR hai aur dono me karyakaal ki koi nyayik pragati (chargesheet/FIR/adalt-order) established media me nahi mili.
+// 8. myneta.info 2008/2013 affidavits — 2007 aur 2009 ke purane case (charges framed 2007/2009): REJECT — pre-term mamle, karyakaal me koi nayi nyayik vikas nahi.
+// 9. english.publictv.in, May 2023 — former MLA M. P. Renukacharya haar ke baad seat ka daura, apne karyakaal ke kaamo ki taraf ishara: REJECT — ye dusre neta (poorv MLA, BJP) ke baare me hai; D. G. Shanthana Gowda se sambandh nahi.
+// 10. Karnataka DIPR/karvarta press releases: naam par targeted search me karyakaal ka koi lokarpan/shilanyas press release nahi mili.
+
+// QA: 10 candidates screened, 0 qualifying entries. Whitelisted outlets (The Hindu, Indian Express, New Indian Express, Deccan Herald, Times of India) par is karyakaal ke koi vyaktigat vikas-karya (lokarpan/shilanyas/itemized sanction) aur koi qualifying negative nahi mile. Profile khali rakhi gayi.
