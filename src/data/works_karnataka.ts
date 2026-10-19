@@ -3614,3 +3614,149 @@ karnatakaWorks['h-t-manju'] = [
     period: '2023-2028',
   },
 ];
+
+
+// ============ KARNATAKA BATCH 10 — Mysuru jila (coordinator merge, 11 MLA) ============
+karnatakaWorks['k-venkatesh'] = [];
+
+karnatakaWorks['d-ravishankar'] = [];
+
+
+
+karnatakaWorks['g-d-harish-gowda'] = [];
+
+karnatakaWorks['anil-chikkamadhu'] = [];
+
+karnatakaWorks['darshan-dhruvanarayana'] = [];
+
+karnatakaWorks['g-t-devegowda'] = [];
+
+karnatakaWorks['t-s-srivatsa'] = [
+  {
+    title: 'Kuruba samudaay par apmaan-janak tippani ke aarop me Krishnaraja MLA T. S. Srivatsa aur Chalavadi Narayanaswamy par BNS ki dhara 353(2) ke tehat FIR darj hui, aur Bengaluru court ne 20 Sep 2025 ko dono netaon ko antarim jamanat de di.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'PTI via The Week',
+    sourceUrl: 'https://www.theweek.in/wire-updates/national/2025/09/20/lgm2-ka-court-bjp-leaders-bail.amp.html',
+    date: '2025-09-20',
+    note: 'PTI wire (page kholkar verify kiya) ke anusar Hubballi ke kisan ki shikayat par FIR darj hui — aarop tha ki netaon ne CM Siddaramaiah ke virodh aur Kuruba samudaay ko ST darja dene ki maang ke virodh me samudaay ka apmaan kiya. City Civil and Sessions court ke nyayadhish Santosh Gajanan Bhat ne BNS ki dhara 482(1) ke tehat antarim jamanat di: giraftari ki sthiti me rihaai, Rs 1 lakh ka personal bond + ek jamanati, 15 din me janch adhikari ke saamne hazir hone ka nirdesh, aur raahat mukhya yachika ke nistaran tak jaari. MLA ka jawab is page par uplabdh nahi — anupasthiti disclose ki ja rahi hai. (Stage note: isi FIR ka HC quash 20 Aug 2026 ko hua tha, lekin wo sirf barandbench jaise non-whitelisted portal par reported hai, isliye yahan cite nahi kiya; retry-lead me rakha hai.)',
+    period: '2023-2028',
+  },
+];
+
+
+karnatakaWorks['k-harish-gowda'] = [];
+
+
+
+
+
+karnatakaWorks['tanveer-sait'] = [];
+
+karnatakaWorks['siddaramaiah'] = [
+  {
+    title: 'CM Siddaramaiah ne apni Varuna seat me Rs 1,107.72 crore ke vikas karyon ka shilanyas kiya — kai vibhagon ke projects ek hi karyakram me launch (Mysuru, 9 Aug 2025)',
+    category: 'Any',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/karnataka-cm-siddaramaiah-launches-projects-worth-1107-crore-for-varuna-constituency/article69913973.ece',
+    date: '2025-08-09',
+    period: '2023-2028',
+    note: 'The Hindu (9 Aug 2025, Mysuru) ke mutabik Siddaramaiah ne Varuna assembly constituency me Rs 1,107.72 crore ke vikas karyon ka shilanyas/launch kiya; karyakram me Chamarajanagar ke MP Sunil Bose, MLC Yathindra Siddaramaiah, Mysuru prabhari mantri H. C. Mahadevappa aur zila prashasan ke adhikari maujood the. Credit capped: karyakram CM ke roop me kiya gaya lekin kaam poori tarah Varuna seat ke hain, isliye seat-work ke roop me darj. Fund ka srot ghoshit nahi.',
+  },
+  {
+    title: 'Siddaramaiah ne Varuna ke Kuppya gaon me Rs 323.04 crore ke 154 karyon (15 vibhag) ka lokarpan aur shilanyas kiya — is package me Rs 100 crore ka NIMHANS-type mansik-swasthya aur de-addiction kendra bhi shamil (18 Jan 2026)',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/chief-minister-siddaramaiah-launches-development-works-worth-324-crore-in-varuna-assembly-constituency/article70522178.ece',
+    date: '2026-01-18',
+    period: '2023-2028',
+    note: 'The Hindu ke mutabik Siddaramaiah (jo Varuna seat ka pratinidhitva karte hain) ne Mysuru zila prashasan aur zila panchayat ke karyakram me Kupya/Kuppya gaon me Rs 323.04 crore ke karya launch kiye; Siddaramaiah ne kaha ki 2024 me Rs 501 crore aur 2025 me Rs 1,108 crore ke karya launch hue the — ye aankde unke dawe ke roop me darj hain, alag entry nahi. Fund ka srot ghoshit nahi.',
+  },
+  {
+    title: 'Varuna ke Gudamadanahalli me Rs 100 crore ki NIMHANS-type mansik-swasthya sanstha aur de-addiction centre ka shilanyas hua — MMCRI ke adheen banegi, Revenue vibhag ne zameen transfer ki (19 Jan 2026)',
+    category: 'Aspataal',
+    badge: 'news',
+    stage: 'shilanyas',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/nimhans-type-healthcare-facility-to-come-up-in-mysuru/article70525763.ece',
+    date: '2026-01-19',
+    period: '2023-2028',
+    note: 'The Hindu (19 Jan 2026, Mysuru) ke mutabik Siddaramaiah ne Varuna assembly constituency ke Gudamadanahalli gaon (Mysuru taluk) me Rs 100 crore ki NIMHANS-type swasthya sanstha ka shilanyas rakha; Revenue vibhag ne zaroori zameen Mysore Medical College and Research Institute (MMCRI) ko transfer kar di hai jiske adheen sanstha banegi. Pehle charan me ek acre par G+5 building aur G+1 de-addiction centre banega; neurosurgery, neuro-radiology, neuro-anaesthesia aur neuro-psychiatry vibhag honge; blood bank, laboratory aur rehabilitation centre bhi pehle charan me. Fund ka srot ghoshit nahi.',
+  },
+  {
+    title: 'MUDA site-allotment mamle me Governor ki Sec 17A jaanch-swikriti (19 Aug 2024), Karnataka HC ne swikriti barkarar rakhi (24 Sept 2024), special court ke nirdesh par Mysuru Lokayukta police ne Siddaramaiah aur anyon par FIR darj ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/muda-case-bengaluru-special-court-accepts-b-report-filed-by-lokayukta-police-giving-clean-chit-to-siddaramaiah-and-wife-parvathi/article70560918.ece',
+    date: '2024-09-25',
+    period: '2023-2028',
+    note: 'The Hindu ke mutabik Karnataka ke Governor ne 19 Aug 2024 ko Prevention of Corruption Act, 1988 ki dhara 17A ke tahat Siddaramaiah ke khilaf jaanch ki swikriti di; 24 Sept 2024 ko Karnataka HC ne swikriti ko barkarar rakhte hue kaha ki shikayat me lagaye aaropon par jaanch zaroori hai; iske baad special court ne 25 Sept 2024 ko Lokayukta police Mysuru ke SP ko Siddaramaiah aur anyon par FIR darj karke jaanch ke nirdesh diye. Mamla MUDA dwara unki patni B. M. Parvathi ko Rs 56 crore ke 14 sites ke aavant me aniyamitta/bhrashtachar ke aarop ka tha. Jawab: iss The Hindu report me us samay unka pratyaksh jawab darj nahi hai. Stage: FIR star — negative entry me stage field nahi rakha gaya.',
+  },
+  {
+    title: 'Lokayukta police ne MUDA mamle me Feb 2025 me B-report dakhil ki — Siddaramaiah, unki patni, sale aur mool zameen-malik ke khilaf bhrashtachar ka saboot nahi mila; shikayat-karta ne report ko chunauti di aur CBI jaanch maangi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Indian Express',
+    sourceUrl: 'https://indianexpress.com/article/legal-news/bengaluru-court-accepts-lokayukta-clean-chit-for-cm-siddaramaiah-in-muda-case-10499884/lite/',
+    date: '2025-02-01',
+    period: '2023-2028',
+    note: 'Indian Express ke mutabik Karnataka Lokayukta police ne Feb 2025 me B-report (closure report) dakhil ki jisme Siddaramaiah, unki patni B. M. Parvathi, sale Mallikarjun Swamy aur mool zameen-malik J. Devaraj ke khilaf bhrashtachar ke aarop sthapit karne ke liye saboot ka abhav bataya gaya; report ko Mysuru me MUDA dwara zameen-aavant me bade star ke bhrashtachar ki jaanch poori hone tak abeyance me rakha gaya. Shikayat-karta RTI activist Snehamayi Krishna ne closure report ko chunauti di aur CBI jaanch ki maang ki. Jawab/raahat tathya: vivaad ke baad 2024 me patni ne 14 housing sites MUDA ko wapas kar di thi. Stage: jaanch-closure — negative entry me stage field nahi rakha gaya. Date-note: page me keval "February 2025" darj hai, isliye tithi 2025-02-01 (maah-star) rakhi gayi hai.',
+  },
+  {
+    title: 'Bengaluru special court ne 28 Jan 2026 ko Lokayukta ki B-report sweekar ki — Siddaramaiah aur unki patni B. M. Parvathi ko MUDA ke 14-sites mamle me clean chit; shikayat-karta ki virodh-yachika kharij, anya aaropiyon par jaanch jaari rahegi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/muda-case-bengaluru-special-court-accepts-b-report-filed-by-lokayukta-police-giving-clean-chit-to-siddaramaiah-and-wife-parvathi/article70560918.ece',
+    date: '2026-01-28',
+    period: '2023-2028',
+    note: 'The Hindu (28 Jan 2026, Bengaluru) ke mutabik MPs/MLAs ke khilaf aapradhik mamalon ke special court ke judge Santosh Gajanan Bhat ne Karnataka Lokayukta police ki B-report sweekar karte hue Siddaramaiah aur unki patni B. M. Parvathi ko MUDA dwara Rs 56 crore ke 14 sites ke aavant me aniyamitta/bhrashtachar ke aarop se clean chit di; shikayat-karta Snehamayi Krishna (Mysuru-based social activist) ki virodh-yachika kharij kar di; saath hi adalat ne kaha ki anya aaropiyon ke khilaf jaanch jaari rahegi. Ye mamle ka raahat charan hai. Stage: adalati clean-chit — negative entry me stage field nahi rakha gaya.',
+  },
+];
+
+karnatakaWorks['h-c-mahadevappa'] = [];
+
+
+// ============ KARNATAKA BATCH 10 — Raichur jila (coordinator merge, 7 MLA) ============
+
+karnatakaWorks['basanagouda-daddal'] = [
+  {
+    title: 'Valmiki ST Development Corporation ghotala jaanch me ED ne adhyaksh aur Raichur Rural MLA Basanagouda Daddal ke thikanon par chhape mare aur SIT ne unse ghanton poochhtach ki, lekin August 2024 ki 3,072-page chargesheet me unhe aaropi nahi banaya gaya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/amp/story/states/karnataka/2024/Aug/06/valmiki-st-corporation-row-nagendra-daddal-not-in-sit-chargesheet',
+    date: '2024-08-06',
+    note: 'The Indian Express ke anusaar SIT ne August 2024 me corporation ghotala mamle me 12 logon ke khilaf 3,072-page chargesheet dayar ki, lekin corporation ke adhyaksh aur Raichur Rural MLA Basanagouda Daddal ka naam aaropiyon me nahi tha. Usse pehle SIT ne Daddal se ghanton poochhtach ki thi, aur ED ne PMLA ke tahat Daddal ke parisaron par chhape mare, jahan agency ke anusaar dhokhe se nikali gayi rakam ke prabandhan se jude dastavej mile. Is article me Daddal ka koi jawab quote nahi hua hai (jawab ki anupasthiti disclose ki jati hai). Raahat pramukh roop se: Daddal ko kabhi aaropi nahi banaya gaya — SIT ki chargesheet me unka naam nahi aaya.',
+    period: '2023-2028',
+  },
+];
+
+
+karnatakaWorks['dr-shivaraj-patil'] = [];
+
+
+karnatakaWorks['g-hampayya-nayak'] = [];
+
+
+karnatakaWorks['karemma'] = [
+  {
+    title: 'Raichur KDP baithak me Karemma ki maang par jila-prabhari mantri ne DC ko nirdesh diya ki Devadurga ke dono toll plaza ki vasuli PWD-mantri se baithak hone tak asthaayi roop se rok di jaye.',
+    category: 'Any', badge: 'news',
+    sourceLabel: 'Times of India', sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/congress-mlas-express-dissatisfaction-during-raichur-kdp-meeting/articleshow/122770296.cms',
+    date: '2025-07-18',
+    note: 'Page ke anusaar: JD(S) MLA Karemma Nayak (Devadurga) ne KDP baithak me zameen par baithkar virodh kiya — Devadurga ke vikas ke liye fund na milne, 33 PDOs ke nilamban ke baad sirf 6 bache hone, aur 40 km ke dayre me do toll plaza hone ka mudda uthaya; unhone kaha ki Nitin Gadkari ke bayan ke mutabik 60 km me do toll nahi hone chahiye. Unki maang par jila-prabhari mantri ne DC Nitish K ko nirdesh diya ki PWD-mantri se baithak hone tak toll vasuli asthaayi roop se rokne ke upay kiye jayen; isi ashwasan par unhone virodh samapt kiya. Credit capped: ye asthaayi rok ka ashwasan hai, bhautik sanrachna ka sampann kaam nahi; rok ke aage amal hua ya nahi, page par iska zikr nahi; fund ka srot ghoshit nahi.',
+    period: '2023-2028',
+  },
+];
+
+
+karnatakaWorks['manappa-d-vajjal'] = [];
+
+karnatakaWorks['hampanagouda-badarli'] = [];
+karnatakaWorks['basan-gouda-turvihal'] = [];
+
