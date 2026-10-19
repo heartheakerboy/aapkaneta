@@ -22,7 +22,7 @@ const mlaladsNote = 'MLALADS (MLA Local Area Development Scheme) — har sadasya
 export const puducherryNetas: Neta[] = [
 
   {
-    slug: 'mannadeepet',
+    slug: 'a-namassivayam',
     name: 'A. Namassivayam',
     party: 'Bharatiya Janata Party',
     partyShort: 'BJP',
@@ -48,12 +48,12 @@ export const puducherryNetas: Neta[] = [
       assets: 'Rs 85,46,14,473',
       liabilities: 'Rs 20,90,61,621',
       mynetaUrl: 'https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=35',
-      backgroundNote: 'A. Namassivayam (BJP), Mannadipet, 2026 vijeta. 13 May 2026 ko Cabinet mantri ke roop me shapath; portfolio (Home, Electricity, Education, Law, Animal Husbandry, Forest & Wildlife) 6 Aug 2026 ko notify hue (New Indian Express). 2021-2026 me bhi Home Minister rahe; 2024 Lok Sabha me BJP se lade. Age/figures ADR Winning Candidates 2026 report se. ECI-sourced votes/margin. Grih Mantri (Home), Rangasamy sarkar me. 13 May 2026 ko Cabinet mantri ke roop me shapath; portfolio notification 6 Aug 2026 ko (New Indian Express).',
+      backgroundNote: 'A. Namassivayam (BJP), Mannadipet, 2026 vijeta. 13 May 2026 ko Cabinet mantri ke roop me shapath; portfolio (Home, Electricity, Education, Law, Animal Husbandry, Forest & Wildlife) 6 Aug 2026 ko notify hue (New Indian Express). 2021-2026 me bhi Home Minister rahe; 2024 Lok Sabha me BJP se lade. Age/figures ADR Winning Candidates 2026 report se. ECI-sourced votes/margin.',
     },
     electionNote: '2026 me Mannadipet se BJP ticket par jeete: 15918 votes, margin 6110.',
   },
   {
-    slug: 'thirubhuvanai',
+    slug: 'ak-sai-j-saravanan-kumar',
     name: 'A.K. Sai J. Saravanan Kumar',
     party: 'Tamilaga Vettri Kazhagam',
     partyShort: 'TVK',
@@ -84,7 +84,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Thirubhuvanai se TVK ticket par jeete: 9740 votes, margin 701.',
   },
   {
-    slug: 'oussudu',
+    slug: 'p-karthikeyan',
     name: 'P. Karthikeyan',
     party: 'Indian National Congress',
     partyShort: 'INC',
@@ -115,7 +115,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Oussudu se INC ticket par jeete: 15400 votes, margin 4018.',
   },
   {
-    slug: 'mangalam',
+    slug: 'n-rangasamy',
     name: 'N. Rangasamy',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -141,12 +141,12 @@ export const puducherryNetas: Neta[] = [
       assets: 'Rs 27,99,25,752',
       liabilities: 'Rs 35,00,000',
       mynetaUrl: 'https://www.myneta.info/Puducherry2026/candidate.php?candidate_id=32',
-      backgroundNote: 'N. Rangasamy (AINRC), Mangalam, 2026 vijeta — Mukhyamantri (5va karyakaal), 13 May 2026 ko shapath (New Indian Express/Scroll/ETV Bharat; karyakaal 2001-06 INC, 2006-08 INC, 2011-16 AINRC, 2021-26 AINRC-NDA, 2026- AINRC-NDA). Dono seats jeete — Thattanchavady (10,024 votes, margin 4,441) aur Mangalam; Thattanchavady se istifa diya, Mangalam rakhi. Koi criminal case nahi. (myneta spelling ’Rangasamy’; news me ’Rangaswamy’ — same vyakti.) Mukhyamantri (AINRC, 5va karyakaal) — 13 May 2026 ko shapath. Thattanchavady seat bhi jeeti thi, resign ki; wahan Ashok Anand Oct 2026 upchunav me vijeta.',
+      backgroundNote: 'N. Rangasamy (AINRC), Mangalam, 2026 vijeta — Mukhyamantri (5va karyakaal), 13 May 2026 ko shapath (New Indian Express/Scroll/ETV Bharat; karyakaal 2001-06 INC, 2006-08 INC, 2011-16 AINRC, 2021-26 AINRC-NDA, 2026- AINRC-NDA). Dono seats jeete — Thattanchavady (10,024 votes, margin 4,441) aur Mangalam; Thattanchavady se istifa diya, Mangalam rakhi. Koi criminal case nahi. (myneta spelling ’Rangasamy’; news me ’Rangaswamy’ — same vyakti.)',
     },
     electionNote: '2026 me Mangalam se AINRC ticket par jeete: 17917 votes, margin 7050.',
   },
   {
-    slug: 'villianur',
+    slug: 'b-ravicoumar',
     name: 'B. Ravicoumar',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -177,7 +177,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Villianur se AINRC ticket par jeete: 16970 votes, margin 1970.',
   },
   {
-    slug: 'ozhukarai',
+    slug: 'k-narayanasamy',
     name: 'K. Narayanasamy alias Nithyanandam',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -208,7 +208,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Ozhukarai se AINRC ticket par jeete: 12635 votes, margin 4234.',
   },
   {
-    slug: 'kadirgamam',
+    slug: 'azhagu-azhaganantham',
     name: 'Azhagu @ Azhaganantham',
     party: 'Independent',
     partyShort: 'IND',
@@ -239,7 +239,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Kadirgamam se IND ticket par jeete: 14633 votes, margin 7004.',
   },
   {
-    slug: 'indira-nagar',
+    slug: 'pv-aroumougame',
     name: 'P.V. Aroumougame @ AKD',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -270,7 +270,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Indira Nagar se AINRC ticket par jeete: 12640 votes, margin 584.',
   },
   {
-    slug: 'thattanchavady',
+    slug: 'ashok-anand',
     name: 'Ashok Anand',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -301,7 +301,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: 'Thattanchavady upchunav (Oct 2026) me AINRC ticket par jeete: 13358 votes, margin 8482.',
   },
   {
-    slug: 'kamaraj-nagar',
+    slug: 'jose-charles-martin',
     name: 'Jose Charles Martin',
     party: 'Latchiya Jananayaka Katchi',
     partyShort: 'LJK',
@@ -332,7 +332,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Kamaraj Nagar se LJK ticket par jeete: 16592 votes, margin 10205.',
   },
   {
-    slug: 'lawspet',
+    slug: 'vp-sivakolundhu',
     name: 'V.P. Sivakolundhu',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -363,7 +363,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Lawspet se AINRC ticket par jeete: 10578 votes, margin 1417.',
   },
   {
-    slug: 'kalapet',
+    slug: 'senthil-ramesh',
     name: 'Senthil @ Ramesh',
     party: 'Dravida Munnetra Kazhagam',
     partyShort: 'DMK',
@@ -394,7 +394,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Kalapet se DMK ticket par jeete: 12069 votes, margin 447.',
   },
   {
-    slug: 'muthialpet',
+    slug: 'vaiyapuri-manikandan',
     name: 'Vaiyapuri Manikandan',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -425,7 +425,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Muthialpet se AINRC ticket par jeete: 8382 votes, margin 952.',
   },
   {
-    slug: 'raj-bhavan',
+    slug: 'vignesh-kannan',
     name: 'Vignesh Kannan',
     party: 'Dravida Munnetra Kazhagam',
     partyShort: 'DMK',
@@ -456,7 +456,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Raj Bhavan se DMK ticket par jeete: 7304 votes, margin 287.',
   },
   {
-    slug: 'oupalam',
+    slug: 'a-anbalagan',
     name: 'A. Anbalagan',
     party: 'All India Anna Dravida Munnetra Kazhagam',
     partyShort: 'AIADMK',
@@ -487,7 +487,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Oupalam se AIADMK ticket par jeete: 9099 votes, margin 1026.',
   },
   {
-    slug: 'orleampeth',
+    slug: 'g-nehru',
     name: 'G. Nehru alias Couppoussamy',
     party: 'Neyam Makkal Kazhagam',
     partyShort: 'NMK',
@@ -518,7 +518,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Orleampeth se NMK ticket par jeete: 9960 votes, margin 1201.',
   },
   {
-    slug: 'nellithope',
+    slug: 'v-cartigueyane',
     name: 'V. Cartigueyane',
     party: 'Dravida Munnetra Kazhagam',
     partyShort: 'DMK',
@@ -549,7 +549,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Nellithope se DMK ticket par jeete: 8226 votes, margin 850.',
   },
   {
-    slug: 'mudaliarpet',
+    slug: 'a-johnkumar',
     name: 'A. Johnkumar',
     party: 'Bharatiya Janata Party',
     partyShort: 'BJP',
@@ -580,7 +580,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Mudaliarpet se BJP ticket par jeete: 12945 votes, margin 2371.',
   },
   {
-    slug: 'ariankuppam',
+    slug: 'c-aiyappan',
     name: 'C. Aiyappan @ Mouttayappan',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -611,7 +611,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Ariankuppam se AINRC ticket par jeete: 14210 votes, margin 603.',
   },
   {
-    slug: 'manavely',
+    slug: 'b-ramu',
     name: 'B. Ramu',
     party: 'Tamilaga Vettri Kazhagam',
     partyShort: 'TVK',
@@ -642,7 +642,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Manavely se TVK ticket par jeete: 13822 votes, margin 3093.',
   },
   {
-    slug: 'embalam',
+    slug: 'e-mohandoss',
     name: 'E. Mohandoss',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -673,7 +673,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Embalam se AINRC ticket par jeete: 16017 votes, margin 4061.',
   },
   {
-    slug: 'nettapakkam',
+    slug: 'p-rajavelu',
     name: 'P. Rajavelu',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -704,7 +704,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Nettapakkam se AINRC ticket par jeete: 13665 votes, margin 6689.',
   },
   {
-    slug: 'bahour',
+    slug: 'r-senthil-kumar',
     name: 'R. Senthil Kumar',
     party: 'Dravida Munnetra Kazhagam',
     partyShort: 'DMK',
@@ -735,7 +735,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Bahour se DMK ticket par jeete: 10520 votes, margin 2397.',
   },
   {
-    slug: 'nedungadu',
+    slug: 'dr-v-vigneswaran',
     name: 'Dr. V. Vigneswaran',
     party: 'Independent',
     partyShort: 'IND',
@@ -766,7 +766,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Nedungadu se IND ticket par jeete: 14368 votes, margin 4499.',
   },
   {
-    slug: 'thirunallar',
+    slug: 'gns-rajasekaran',
     name: 'G.N.S. Rajasekaran',
     party: 'Bharatiya Janata Party',
     partyShort: 'BJP',
@@ -797,7 +797,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Thirunallar se BJP ticket par jeete: 16829 votes, margin 9526.',
   },
   {
-    slug: 'karaikal-north',
+    slug: 'prn-thirumurugan',
     name: 'P.R.N. Thirumurugan',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
@@ -828,7 +828,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Karaikal North se AINRC ticket par jeete: 12731 votes, margin 2653.',
   },
   {
-    slug: 'karaikal-south',
+    slug: 'amh-nazeem',
     name: 'A.M.H. Nazeem',
     party: 'Dravida Munnetra Kazhagam',
     partyShort: 'DMK',
@@ -859,7 +859,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Karaikal South se DMK ticket par jeete: 12543 votes, margin 5862.',
   },
   {
-    slug: 'neravy-t-r-pattinam',
+    slug: 'tksm-meenatchisundaram',
     name: 'T.K.S.M. Meenatchisundaram',
     party: 'Bharatiya Janata Party',
     partyShort: 'BJP',
@@ -890,7 +890,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Neravy T.R. Pattinam se BJP ticket par jeete: 10818 votes, margin 2018.',
   },
   {
-    slug: 'mahe',
+    slug: 't-ashok-kumar',
     name: 'Adv. T. Ashok Kumar',
     party: 'Independent',
     partyShort: 'IND',
@@ -921,7 +921,7 @@ export const puducherryNetas: Neta[] = [
     electionNote: '2026 me Mahe se IND ticket par jeete: 8375 votes, margin 1115.',
   },
   {
-    slug: 'yanam',
+    slug: 'malladi-krishna-rao',
     name: 'Malladi Krishna Rao',
     party: 'All India N.R. Congress',
     partyShort: 'AINRC',
