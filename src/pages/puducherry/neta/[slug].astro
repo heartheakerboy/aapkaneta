@@ -1,0 +1,14 @@
+---
+import NetaProfile from '../../../components/NetaProfile.astro';
+import { puducherryNetasAll } from '../../../data/all';
+
+export function getStaticPaths() {
+  return puducherryNetasAll.map(n => ({ params: { slug: n.slug } }));
+}
+
+const { slug } = Astro.params;
+const neta = puducherryNetasAll.find(n => n.slug === slug);
+if (!neta) throw new Error('Neta not found: ' + slug);
+---
+
+<NetaProfile neta={neta} base="/puducherry" stateName="Puducherry" homeLabel="Puducherry home" />

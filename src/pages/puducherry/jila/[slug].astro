@@ -1,0 +1,21 @@
+---
+import JilaDetail from '../../../components/JilaDetail.astro';
+import { puducherryConstsAll, puducherryNetasAll } from '../../../data/all';
+
+const dslug = (d: string): string => d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+
+export function getStaticPaths() {
+  const districts = [...new Set(puducherryConstsAll.filter(c => c.type === 'Vidhan Sabha').map(c => c.district))];
+  return districts.map(d => ({ params: { slug: d.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '') }, props: { district: d } }));
+}
+
+const { district } = Astro.props;
+const acs = puducherryConstsAll
+  .filter(c => c.type === 'Vidhan Sabha' && c.district === district)
+  .sort((a, b) => (a.number ?? 999) - (b.number ?? 999));
+const netaByConst: Record<string, (typeof puducherryNetasAll)[number]> = Object.fromEntries(puducherryNetasAll.filter(n => n.post === 'MLA').map(n => [n.constituencySlug, n]));
+// Lok Sabha mapping: Puducherry LS me sabhi 30 AC segments
+const mps = puducherryNetasAll.filter(n => n.post === 'MP' && n.house !== 'Rajya Sabha');
+---
+
+<JilaDetail district={district} districtSlugStr={dslug(district)} acs={acs} netaByConst={netaByConst} mps={mps} talukas={[]} base="/puducherry" stateName="Puducherry" />
