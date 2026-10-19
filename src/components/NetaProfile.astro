@@ -32,6 +32,14 @@ const avatarPalettes = [
 const avatarBg = avatarPalettes[avatarHv % avatarPalettes.length];
 const verifiedCount = neta.works.filter(w => w.badge !== 'dawa').length;
 
+// ---------- Share ----------
+const shareUrl = `https://aapkaneta.org${base}/neta/${neta.slug}/`;
+const shareText = `${neta.name} (${neta.constituency}, ${stateName}) ne apne kshetra me kya kaam kiya? Halafnama aur satyaapit kaamon ka hisaab dekho —`;
+const waShare = `https://wa.me/?text=${encodeURIComponent(shareText + ' ' + shareUrl)}`;
+const xShare = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+const fbShare = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
+const tgShare = `https://t.me/share/url?url=${encodeURIComponent(shareUrl)}&text=${encodeURIComponent(shareText)}`;
+
 // ---------- Bio + Janta ki Rai (researched profile ho to woh, warna record se auto) ----------
 const extra = profiles[neta.slug];
 const ok = (v?: string | null) => !!v && v.trim() !== '' && v.trim() !== '—' && v.trim().toLowerCase() !== 'n/a' && v.trim().toLowerCase() !== 'nil';
@@ -268,6 +276,17 @@ const districtMates = myDistrict
     .fundbar { height: 14px; background: #e9e2d2; border-radius: 999px; overflow: hidden; margin: 10px 0 6px; }
     .fundbar i { display: block; height: 100%; background: linear-gradient(90deg, #f59e0b, #b45309); }
     .cta-row { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 18px; }
+    .share-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-top: 20px; }
+    .share-label { font-size: 14px; color: var(--ink-soft); font-weight: 600; margin-right: 2px; }
+    .share-btn {
+      display: inline-block; padding: 7px 14px; border-radius: 999px; font-size: 13.5px; font-weight: 600;
+      text-decoration: none; border: 1px solid var(--line); background: #fff; color: var(--ink); cursor: pointer;
+    }
+    .share-btn:hover { filter: brightness(0.96); }
+    .share-btn.wa { background: #25d366; border-color: #25d366; color: #07351a; }
+    .share-btn.x { background: #000; border-color: #000; color: #fff; }
+    .share-btn.fb { background: #1877f2; border-color: #1877f2; color: #fff; }
+    .share-btn.tg { background: #229ed9; border-color: #229ed9; color: #fff; }
     .back { display: inline-block; margin-bottom: 18px; font-size: 15px; text-decoration: none; }
     .bg-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
     .bg-item { background: var(--paper); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
@@ -325,6 +344,14 @@ const districtMates = myDistrict
         <div class="stat"><b>{neta.tenures.length}</b><span>karyakaal (tenure)</span></div>
         <div class="stat"><b>{neta.fund?.utilizationPct != null ? neta.fund.utilizationPct + '%' : '—'}</b><span>fund utilization</span></div>
         <div class="stat"><b>{neta.works.filter(w=>w.badge==='rti').length}</b><span>RTI verified</span></div>
+      </div>
+      <div class="share-row">
+        <span class="share-label">Ye hisaab share karo:</span>
+        <a class="share-btn wa" href={waShare} target="_blank" rel="noopener">WhatsApp</a>
+        <a class="share-btn x" href={xShare} target="_blank" rel="noopener">X</a>
+        <a class="share-btn fb" href={fbShare} target="_blank" rel="noopener">Facebook</a>
+        <a class="share-btn tg" href={tgShare} target="_blank" rel="noopener">Telegram</a>
+        <button class="share-btn copy" type="button" data-copy={shareUrl}>Link copy karo</button>
       </div>
     </div>
   </div>
@@ -505,4 +532,24 @@ const districtMates = myDistrict
       <a class="btn-ghost" href={`/correction/?neta=${encodeURIComponent(neta.name)}`}>Galat info? Correction bhejo</a>
     </div>
   </div>
+  <script>
+    document.querySelectorAll('[data-copy]').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var url = btn.getAttribute('data-copy');
+        var done = function () {
+          var old = btn.textContent;
+          btn.textContent = 'Link copy ho gaya ✓';
+          setTimeout(function () { btn.textContent = old; }, 2000);
+        };
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(url).then(done).catch(done);
+        } else {
+          var ta = document.createElement('textarea');
+          ta.value = url; document.body.appendChild(ta); ta.select();
+          try { document.execCommand('copy'); } catch (e) {}
+          document.body.removeChild(ta); done();
+        }
+      });
+    });
+  </script>
 </Layout>
