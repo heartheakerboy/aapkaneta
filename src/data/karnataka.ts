@@ -1566,7 +1566,7 @@ export const karnatakaNetas: Neta[] = [
       assets: 'Rs 8,74,42,877',
       liabilities: 'Rs 58,02,106',
       mynetaUrl: 'https://myneta.info/Karnataka2023/candidate.php?candidate_id=7146',
-      backgroundNote: 'Pehchan pakki: Bhalki, INC, Winner (2023). S/o Bheemanna Khandre (purv mantri). Graduate Professional — BE (1985). 7 mamle (halafnama: IPC 171E x2, 141/143/290/336/149 x4, 269 x1; 2002 ke BJP worker Suresh Khed murder case me aarop the, bail mil chuki — Wikipedia). 2008 se lagatar 5vi baar MLA; May 2023 se cabinet mantri (Rural Development & Panchayat Raj); KPCC working president (2018 se); 9 Jun 2023 se Bidar district incharge minister.',
+      backgroundNote: 'Pehchan pakki: Bhalki, INC, Winner (2023). S/o Bheemanna Khandre (purv mantri). Graduate Professional — BE (1985). 7 mamle (halafnama: IPC 171E x2, 141/143/290/336/149 x4, 269 x1; 2002 ke BJP worker Suresh Khed murder case me aarop the, bail mil chuki — Wikipedia). 2008 se lagatar 5vi baar MLA; May 2023–May 2026 cabinet mantri (Forest, Ecology & Environment); Jun 2026 se cabinet mantri (Rural Development & Panchayat Raj); KPCC working president (2018 se); 9 Jun 2023 se Bidar district incharge minister.',
     },
     electionNote: '2023 me Bhalki se 99,451 vote lekar jeete; runner-up Prakash Khandre (BJP, 71,745 vote) ko 27,706 maton se haraya.',
   },
