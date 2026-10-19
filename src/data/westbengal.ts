@@ -2960,7 +2960,7 @@ export const westbengalNetas: Neta[] = [
         assets: 'Rs 4,03,81,819',
         liabilities: 'Rs 10,00,000',
         mynetaUrl: 'https://www.myneta.info/WestBengal2026/candidate.php?candidate_id=2621',
-        backgroundNote: 'Pehchan pakki: Bangaon Uttar (SC), BJP, Winner (2026). Myneta WestBengal2026 candidate page se: age 52, Graduate (B.A., Calcutta University, 1993-94), 3 criminal cases, assets Rs 4,03,81,819, liabilities Rs 10,00,000. Votes/margin voterslist.in PDF (ECI winners list) se.',
+        backgroundNote: 'Pehchan pakki: Bangaon Uttar (SC), BJP, Winner (2026). Myneta WestBengal2026 candidate page se: age 52, Graduate (B.A., Calcutta University, 1993-94), 3 criminal cases, assets Rs 4,03,81,819, liabilities Rs 10,00,000. Votes/margin voterslist.in PDF (ECI winners list) se. 9 May 2026 ko CM Suvendu Adhikari ke saath shapath lekar Cabinet Mantri bane (Khadya aur Aapoorti + Sahkarita vibhag — Indian Express/The Telegraph ke anusaar).',
       },
       electionNote: '2026 me Bangaon Uttar se BJP ticket par jeete: 119317 votes, margin 40670.',
   },
