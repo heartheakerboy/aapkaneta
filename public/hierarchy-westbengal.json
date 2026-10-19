@@ -1,0 +1,2790 @@
+{
+ "state": "West Bengal",
+ "stateSlug": "westbengal",
+ "districts": [
+  {
+   "name": "Cooch Behar",
+   "slug": "cooch-behar",
+   "acs": [
+    {
+     "slug": "mekliganj",
+     "name": "Mekliganj",
+     "type": "Vidhan Sabha",
+     "number": 1,
+     "district": "Cooch Behar",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mathabhanga",
+     "name": "Mathabhanga",
+     "type": "Vidhan Sabha",
+     "number": 2,
+     "district": "Cooch Behar",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "cooch-behar-uttar",
+     "name": "Cooch Behar Uttar",
+     "type": "Vidhan Sabha",
+     "number": 3,
+     "district": "Cooch Behar",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "cooch-behar-dakshin",
+     "name": "Cooch Behar Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 4,
+     "district": "Cooch Behar",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sitalkuchi",
+     "name": "Sitalkuchi",
+     "type": "Vidhan Sabha",
+     "number": 5,
+     "district": "Cooch Behar",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sitai",
+     "name": "Sitai",
+     "type": "Vidhan Sabha",
+     "number": 6,
+     "district": "Cooch Behar",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "dinhata",
+     "name": "Dinhata",
+     "type": "Vidhan Sabha",
+     "number": 7,
+     "district": "Cooch Behar",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "natabari",
+     "name": "Natabari",
+     "type": "Vidhan Sabha",
+     "number": 8,
+     "district": "Cooch Behar",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "tufanganj",
+     "name": "Tufanganj",
+     "type": "Vidhan Sabha",
+     "number": 9,
+     "district": "Cooch Behar",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Alipurduar",
+   "slug": "alipurduar",
+   "acs": [
+    {
+     "slug": "kumargram",
+     "name": "Kumargram",
+     "type": "Vidhan Sabha",
+     "number": 10,
+     "district": "Alipurduar",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kalchini",
+     "name": "Kalchini",
+     "type": "Vidhan Sabha",
+     "number": 11,
+     "district": "Alipurduar",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "alipurduars",
+     "name": "Alipurduars",
+     "type": "Vidhan Sabha",
+     "number": 12,
+     "district": "Alipurduar",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "falakata",
+     "name": "Falakata",
+     "type": "Vidhan Sabha",
+     "number": 13,
+     "district": "Alipurduar",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "madarihat",
+     "name": "Madarihat",
+     "type": "Vidhan Sabha",
+     "number": 14,
+     "district": "Alipurduar",
+     "reservation": "ST",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Jalpaiguri",
+   "slug": "jalpaiguri",
+   "acs": [
+    {
+     "slug": "dhupguri",
+     "name": "Dhupguri",
+     "type": "Vidhan Sabha",
+     "number": 15,
+     "district": "Jalpaiguri",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "maynaguri",
+     "name": "Maynaguri",
+     "type": "Vidhan Sabha",
+     "number": 16,
+     "district": "Jalpaiguri",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jalpaiguri",
+     "name": "Jalpaiguri",
+     "type": "Vidhan Sabha",
+     "number": 17,
+     "district": "Jalpaiguri",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "rajganj",
+     "name": "Rajganj",
+     "type": "Vidhan Sabha",
+     "number": 18,
+     "district": "Jalpaiguri",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "dabgram-phulbari",
+     "name": "Dabgram-Phulbari",
+     "type": "Vidhan Sabha",
+     "number": 19,
+     "district": "Jalpaiguri",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mal",
+     "name": "Mal",
+     "type": "Vidhan Sabha",
+     "number": 20,
+     "district": "Jalpaiguri",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nagrakata",
+     "name": "Nagrakata",
+     "type": "Vidhan Sabha",
+     "number": 21,
+     "district": "Jalpaiguri",
+     "reservation": "ST",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Kalimpong",
+   "slug": "kalimpong",
+   "acs": [
+    {
+     "slug": "kalimpong",
+     "name": "Kalimpong",
+     "type": "Vidhan Sabha",
+     "number": 22,
+     "district": "Kalimpong",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Darjeeling",
+   "slug": "darjeeling",
+   "acs": [
+    {
+     "slug": "darjeeling",
+     "name": "Darjeeling",
+     "type": "Vidhan Sabha",
+     "number": 23,
+     "district": "Darjeeling",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kurseong",
+     "name": "Kurseong",
+     "type": "Vidhan Sabha",
+     "number": 24,
+     "district": "Darjeeling",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "matigara-naxalbari",
+     "name": "Matigara-Naxalbari",
+     "type": "Vidhan Sabha",
+     "number": 25,
+     "district": "Darjeeling",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "siliguri",
+     "name": "Siliguri",
+     "type": "Vidhan Sabha",
+     "number": 26,
+     "district": "Darjeeling",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "phansidewa",
+     "name": "Phansidewa",
+     "type": "Vidhan Sabha",
+     "number": 27,
+     "district": "Darjeeling",
+     "reservation": "ST",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Uttar Dinajpur",
+   "slug": "uttar-dinajpur",
+   "acs": [
+    {
+     "slug": "chopra",
+     "name": "Chopra",
+     "type": "Vidhan Sabha",
+     "number": 28,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "islampur",
+     "name": "Islampur",
+     "type": "Vidhan Sabha",
+     "number": 29,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "goalpokhar",
+     "name": "Goalpokhar",
+     "type": "Vidhan Sabha",
+     "number": 30,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chakulia",
+     "name": "Chakulia",
+     "type": "Vidhan Sabha",
+     "number": 31,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "karandighi",
+     "name": "Karandighi",
+     "type": "Vidhan Sabha",
+     "number": 32,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "hemtabad",
+     "name": "Hemtabad",
+     "type": "Vidhan Sabha",
+     "number": 33,
+     "district": "Uttar Dinajpur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kaliaganj",
+     "name": "Kaliaganj",
+     "type": "Vidhan Sabha",
+     "number": 34,
+     "district": "Uttar Dinajpur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raiganj",
+     "name": "Raiganj",
+     "type": "Vidhan Sabha",
+     "number": 35,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "itahar",
+     "name": "Itahar",
+     "type": "Vidhan Sabha",
+     "number": 36,
+     "district": "Uttar Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Dakshin Dinajpur",
+   "slug": "dakshin-dinajpur",
+   "acs": [
+    {
+     "slug": "kushmandi",
+     "name": "Kushmandi",
+     "type": "Vidhan Sabha",
+     "number": 37,
+     "district": "Dakshin Dinajpur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kumarganj",
+     "name": "Kumarganj",
+     "type": "Vidhan Sabha",
+     "number": 38,
+     "district": "Dakshin Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "balurghat",
+     "name": "Balurghat",
+     "type": "Vidhan Sabha",
+     "number": 39,
+     "district": "Dakshin Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "tapan",
+     "name": "Tapan",
+     "type": "Vidhan Sabha",
+     "number": 40,
+     "district": "Dakshin Dinajpur",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "gangarampur",
+     "name": "Gangarampur",
+     "type": "Vidhan Sabha",
+     "number": 41,
+     "district": "Dakshin Dinajpur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "harirampur",
+     "name": "Harirampur",
+     "type": "Vidhan Sabha",
+     "number": 42,
+     "district": "Dakshin Dinajpur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Malda",
+   "slug": "malda",
+   "acs": [
+    {
+     "slug": "habibpur",
+     "name": "Habibpur",
+     "type": "Vidhan Sabha",
+     "number": 43,
+     "district": "Malda",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "gazole",
+     "name": "Gazole",
+     "type": "Vidhan Sabha",
+     "number": 44,
+     "district": "Malda",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chanchal",
+     "name": "Chanchal",
+     "type": "Vidhan Sabha",
+     "number": 45,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "harishchandrapur",
+     "name": "Harishchandrapur",
+     "type": "Vidhan Sabha",
+     "number": 46,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "malatipur",
+     "name": "Malatipur",
+     "type": "Vidhan Sabha",
+     "number": 47,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ratua",
+     "name": "Ratua",
+     "type": "Vidhan Sabha",
+     "number": 48,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "manikchak",
+     "name": "Manikchak",
+     "type": "Vidhan Sabha",
+     "number": 49,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "maldaha",
+     "name": "Maldaha",
+     "type": "Vidhan Sabha",
+     "number": 50,
+     "district": "Malda",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "english-bazar",
+     "name": "English Bazar",
+     "type": "Vidhan Sabha",
+     "number": 51,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mothabari",
+     "name": "Mothabari",
+     "type": "Vidhan Sabha",
+     "number": 52,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sujapur",
+     "name": "Sujapur",
+     "type": "Vidhan Sabha",
+     "number": 53,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baisnabnagar",
+     "name": "Baisnabnagar",
+     "type": "Vidhan Sabha",
+     "number": 54,
+     "district": "Malda",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Murshidabad",
+   "slug": "murshidabad",
+   "acs": [
+    {
+     "slug": "farakka",
+     "name": "Farakka",
+     "type": "Vidhan Sabha",
+     "number": 55,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "samserganj",
+     "name": "Samserganj",
+     "type": "Vidhan Sabha",
+     "number": 56,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "suti",
+     "name": "Suti",
+     "type": "Vidhan Sabha",
+     "number": 57,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jangipur",
+     "name": "Jangipur",
+     "type": "Vidhan Sabha",
+     "number": 58,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raghunathganj",
+     "name": "Raghunathganj",
+     "type": "Vidhan Sabha",
+     "number": 59,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sagardighi",
+     "name": "Sagardighi",
+     "type": "Vidhan Sabha",
+     "number": 60,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "lalgola",
+     "name": "Lalgola",
+     "type": "Vidhan Sabha",
+     "number": 61,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bhagabangola",
+     "name": "Bhagabangola",
+     "type": "Vidhan Sabha",
+     "number": 62,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raninagar",
+     "name": "Raninagar",
+     "type": "Vidhan Sabha",
+     "number": 63,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "murshidabad",
+     "name": "Murshidabad",
+     "type": "Vidhan Sabha",
+     "number": 64,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nabagram",
+     "name": "Nabagram",
+     "type": "Vidhan Sabha",
+     "number": 65,
+     "district": "Murshidabad",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "khargram",
+     "name": "Khargram",
+     "type": "Vidhan Sabha",
+     "number": 66,
+     "district": "Murshidabad",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "burwan",
+     "name": "Burwan",
+     "type": "Vidhan Sabha",
+     "number": 67,
+     "district": "Murshidabad",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kandi",
+     "name": "Kandi",
+     "type": "Vidhan Sabha",
+     "number": 68,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bharatpur",
+     "name": "Bharatpur",
+     "type": "Vidhan Sabha",
+     "number": 69,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "rejinagar",
+     "name": "Rejinagar",
+     "type": "Vidhan Sabha",
+     "number": 70,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "beldanga",
+     "name": "Beldanga",
+     "type": "Vidhan Sabha",
+     "number": 71,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baharampur",
+     "name": "Baharampur",
+     "type": "Vidhan Sabha",
+     "number": 72,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "hariharpara",
+     "name": "Hariharpara",
+     "type": "Vidhan Sabha",
+     "number": 73,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "naoda",
+     "name": "Naoda",
+     "type": "Vidhan Sabha",
+     "number": 74,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "domkal",
+     "name": "Domkal",
+     "type": "Vidhan Sabha",
+     "number": 75,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jalangi",
+     "name": "Jalangi",
+     "type": "Vidhan Sabha",
+     "number": 76,
+     "district": "Murshidabad",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Nadia",
+   "slug": "nadia",
+   "acs": [
+    {
+     "slug": "karimpur",
+     "name": "Karimpur",
+     "type": "Vidhan Sabha",
+     "number": 77,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "tehatta",
+     "name": "Tehatta",
+     "type": "Vidhan Sabha",
+     "number": 78,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "palashipara",
+     "name": "Palashipara",
+     "type": "Vidhan Sabha",
+     "number": 79,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kaliganj",
+     "name": "Kaliganj",
+     "type": "Vidhan Sabha",
+     "number": 80,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nakashipara",
+     "name": "Nakashipara",
+     "type": "Vidhan Sabha",
+     "number": 81,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chapra",
+     "name": "Chapra",
+     "type": "Vidhan Sabha",
+     "number": 82,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "krishnanagar-uttar",
+     "name": "Krishnanagar Uttar",
+     "type": "Vidhan Sabha",
+     "number": 83,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nabadwip",
+     "name": "Nabadwip",
+     "type": "Vidhan Sabha",
+     "number": 84,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "krishnanagar-dakshin",
+     "name": "Krishnanagar Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 85,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "santipur",
+     "name": "Santipur",
+     "type": "Vidhan Sabha",
+     "number": 86,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ranaghat-uttar-paschim",
+     "name": "Ranaghat Uttar Paschim",
+     "type": "Vidhan Sabha",
+     "number": 87,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "krishnaganj",
+     "name": "Krishnaganj",
+     "type": "Vidhan Sabha",
+     "number": 88,
+     "district": "Nadia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ranaghat-uttar-purba",
+     "name": "Ranaghat Uttar Purba",
+     "type": "Vidhan Sabha",
+     "number": 89,
+     "district": "Nadia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ranaghat-dakshin",
+     "name": "Ranaghat Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 90,
+     "district": "Nadia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chakdaha",
+     "name": "Chakdaha",
+     "type": "Vidhan Sabha",
+     "number": 91,
+     "district": "Nadia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kalyani",
+     "name": "Kalyani",
+     "type": "Vidhan Sabha",
+     "number": 92,
+     "district": "Nadia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "haringhata",
+     "name": "Haringhata",
+     "type": "Vidhan Sabha",
+     "number": 93,
+     "district": "Nadia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "North 24 Parganas",
+   "slug": "north-24-parganas",
+   "acs": [
+    {
+     "slug": "bagda",
+     "name": "Bagda",
+     "type": "Vidhan Sabha",
+     "number": 94,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bangaon-uttar",
+     "name": "Bangaon Uttar",
+     "type": "Vidhan Sabha",
+     "number": 95,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bangaon-dakshin",
+     "name": "Bangaon Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 96,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "gaighata",
+     "name": "Gaighata",
+     "type": "Vidhan Sabha",
+     "number": 97,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "swarupnagar",
+     "name": "Swarupnagar",
+     "type": "Vidhan Sabha",
+     "number": 98,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baduria",
+     "name": "Baduria",
+     "type": "Vidhan Sabha",
+     "number": 99,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "habra",
+     "name": "Habra",
+     "type": "Vidhan Sabha",
+     "number": 100,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ashoknagar",
+     "name": "Ashoknagar",
+     "type": "Vidhan Sabha",
+     "number": 101,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "amdanga",
+     "name": "Amdanga",
+     "type": "Vidhan Sabha",
+     "number": 102,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bijpur",
+     "name": "Bijpur",
+     "type": "Vidhan Sabha",
+     "number": 103,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "naihati",
+     "name": "Naihati",
+     "type": "Vidhan Sabha",
+     "number": 104,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bhatpara",
+     "name": "Bhatpara",
+     "type": "Vidhan Sabha",
+     "number": 105,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jagatdal",
+     "name": "Jagatdal",
+     "type": "Vidhan Sabha",
+     "number": 106,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "noapara",
+     "name": "Noapara",
+     "type": "Vidhan Sabha",
+     "number": 107,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "barrackpur",
+     "name": "Barrackpur",
+     "type": "Vidhan Sabha",
+     "number": 108,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "khardaha",
+     "name": "Khardaha",
+     "type": "Vidhan Sabha",
+     "number": 109,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "dum-dum-uttar",
+     "name": "Dum Dum Uttar",
+     "type": "Vidhan Sabha",
+     "number": 110,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "panihati",
+     "name": "Panihati",
+     "type": "Vidhan Sabha",
+     "number": 111,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kamarhati",
+     "name": "Kamarhati",
+     "type": "Vidhan Sabha",
+     "number": 112,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baranagar",
+     "name": "Baranagar",
+     "type": "Vidhan Sabha",
+     "number": 113,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "dum-dum",
+     "name": "Dum Dum",
+     "type": "Vidhan Sabha",
+     "number": 114,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "rajarhat-new-town",
+     "name": "Rajarhat New Town",
+     "type": "Vidhan Sabha",
+     "number": 115,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bidhannagar",
+     "name": "Bidhannagar",
+     "type": "Vidhan Sabha",
+     "number": 116,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "rajarhat-gopalpur",
+     "name": "Rajarhat Gopalpur",
+     "type": "Vidhan Sabha",
+     "number": 117,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "madhyamgram",
+     "name": "Madhyamgram",
+     "type": "Vidhan Sabha",
+     "number": 118,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "barasat",
+     "name": "Barasat",
+     "type": "Vidhan Sabha",
+     "number": 119,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "deganga",
+     "name": "Deganga",
+     "type": "Vidhan Sabha",
+     "number": 120,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "haroa",
+     "name": "Haroa",
+     "type": "Vidhan Sabha",
+     "number": 121,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "minakhan",
+     "name": "Minakhan",
+     "type": "Vidhan Sabha",
+     "number": 122,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sandeshkhali",
+     "name": "Sandeshkhali",
+     "type": "Vidhan Sabha",
+     "number": 123,
+     "district": "North 24 Parganas",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "basirhat-dakshin",
+     "name": "Basirhat Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 124,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "basirhat-uttar",
+     "name": "Basirhat Uttar",
+     "type": "Vidhan Sabha",
+     "number": 125,
+     "district": "North 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "hingalganj",
+     "name": "Hingalganj",
+     "type": "Vidhan Sabha",
+     "number": 126,
+     "district": "North 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "South 24 Parganas",
+   "slug": "south-24-parganas",
+   "acs": [
+    {
+     "slug": "gosaba",
+     "name": "Gosaba",
+     "type": "Vidhan Sabha",
+     "number": 127,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "basanti",
+     "name": "Basanti",
+     "type": "Vidhan Sabha",
+     "number": 128,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kultali",
+     "name": "Kultali",
+     "type": "Vidhan Sabha",
+     "number": 129,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "patharpratima",
+     "name": "Patharpratima",
+     "type": "Vidhan Sabha",
+     "number": 130,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kakdwip",
+     "name": "Kakdwip",
+     "type": "Vidhan Sabha",
+     "number": 131,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sagar",
+     "name": "Sagar",
+     "type": "Vidhan Sabha",
+     "number": 132,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kulpi",
+     "name": "Kulpi",
+     "type": "Vidhan Sabha",
+     "number": 133,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raidighi",
+     "name": "Raidighi",
+     "type": "Vidhan Sabha",
+     "number": 134,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mandirbazar",
+     "name": "Mandirbazar",
+     "type": "Vidhan Sabha",
+     "number": 135,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jaynagar",
+     "name": "Jaynagar",
+     "type": "Vidhan Sabha",
+     "number": 136,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baruipur-purba",
+     "name": "Baruipur Purba",
+     "type": "Vidhan Sabha",
+     "number": 137,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "canning-paschim",
+     "name": "Canning Paschim",
+     "type": "Vidhan Sabha",
+     "number": 138,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "canning-purba",
+     "name": "Canning Purba",
+     "type": "Vidhan Sabha",
+     "number": 139,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baruipur-paschim",
+     "name": "Baruipur Paschim",
+     "type": "Vidhan Sabha",
+     "number": 140,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "magrahat-purba",
+     "name": "Magrahat Purba",
+     "type": "Vidhan Sabha",
+     "number": 141,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "magrahat-paschim",
+     "name": "Magrahat Paschim",
+     "type": "Vidhan Sabha",
+     "number": 142,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "diamond-harbour",
+     "name": "Diamond Harbour",
+     "type": "Vidhan Sabha",
+     "number": 143,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "falta",
+     "name": "Falta",
+     "type": "Vidhan Sabha",
+     "number": 144,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "satgachhia",
+     "name": "Satgachhia",
+     "type": "Vidhan Sabha",
+     "number": 145,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bishnupur-south-24-parganas",
+     "name": "Bishnupur",
+     "type": "Vidhan Sabha",
+     "number": 146,
+     "district": "South 24 Parganas",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sonarpur-dakshin",
+     "name": "Sonarpur Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 147,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bhangar",
+     "name": "Bhangar",
+     "type": "Vidhan Sabha",
+     "number": 148,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kasba",
+     "name": "Kasba",
+     "type": "Vidhan Sabha",
+     "number": 149,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jadavpur",
+     "name": "Jadavpur",
+     "type": "Vidhan Sabha",
+     "number": 150,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sonarpur-uttar",
+     "name": "Sonarpur Uttar",
+     "type": "Vidhan Sabha",
+     "number": 151,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "tollyganj",
+     "name": "Tollyganj",
+     "type": "Vidhan Sabha",
+     "number": 152,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "behala-purba",
+     "name": "Behala Purba",
+     "type": "Vidhan Sabha",
+     "number": 153,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "behala-paschim",
+     "name": "Behala Paschim",
+     "type": "Vidhan Sabha",
+     "number": 154,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "maheshtala",
+     "name": "Maheshtala",
+     "type": "Vidhan Sabha",
+     "number": 155,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "budge-budge",
+     "name": "Budge Budge",
+     "type": "Vidhan Sabha",
+     "number": 156,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "metiaburuz",
+     "name": "Metiaburuz",
+     "type": "Vidhan Sabha",
+     "number": 157,
+     "district": "South 24 Parganas",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Kolkata",
+   "slug": "kolkata",
+   "acs": [
+    {
+     "slug": "kolkata-port",
+     "name": "Kolkata Port",
+     "type": "Vidhan Sabha",
+     "number": 158,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bhabanipur",
+     "name": "Bhabanipur",
+     "type": "Vidhan Sabha",
+     "number": 159,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "rashbehari",
+     "name": "Rashbehari",
+     "type": "Vidhan Sabha",
+     "number": 160,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ballygunge",
+     "name": "Ballygunge",
+     "type": "Vidhan Sabha",
+     "number": 161,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chowrangee",
+     "name": "Chowrangee",
+     "type": "Vidhan Sabha",
+     "number": 162,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "entally",
+     "name": "Entally",
+     "type": "Vidhan Sabha",
+     "number": 163,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "beleghata",
+     "name": "Beleghata",
+     "type": "Vidhan Sabha",
+     "number": 164,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jorasanko",
+     "name": "Jorasanko",
+     "type": "Vidhan Sabha",
+     "number": 165,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "shyampukur",
+     "name": "Shyampukur",
+     "type": "Vidhan Sabha",
+     "number": 166,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "maniktola",
+     "name": "Maniktola",
+     "type": "Vidhan Sabha",
+     "number": 167,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kashipur-belgachhia",
+     "name": "Kashipur-Belgachhia",
+     "type": "Vidhan Sabha",
+     "number": 168,
+     "district": "Kolkata",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Howrah",
+   "slug": "howrah",
+   "acs": [
+    {
+     "slug": "bally",
+     "name": "Bally",
+     "type": "Vidhan Sabha",
+     "number": 169,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "howrah-uttar",
+     "name": "Howrah Uttar",
+     "type": "Vidhan Sabha",
+     "number": 170,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "howrah-madhya",
+     "name": "Howrah Madhya",
+     "type": "Vidhan Sabha",
+     "number": 171,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "shibpur",
+     "name": "Shibpur",
+     "type": "Vidhan Sabha",
+     "number": 172,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "howrah-dakshin",
+     "name": "Howrah Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 173,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sankrail",
+     "name": "Sankrail",
+     "type": "Vidhan Sabha",
+     "number": 174,
+     "district": "Howrah",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "panchla",
+     "name": "Panchla",
+     "type": "Vidhan Sabha",
+     "number": 175,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "uluberia-purba",
+     "name": "Uluberia Purba",
+     "type": "Vidhan Sabha",
+     "number": 176,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "uluberia-uttar",
+     "name": "Uluberia Uttar",
+     "type": "Vidhan Sabha",
+     "number": 177,
+     "district": "Howrah",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "uluberia-dakshin",
+     "name": "Uluberia Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 178,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "shyampur",
+     "name": "Shyampur",
+     "type": "Vidhan Sabha",
+     "number": 179,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bagnan",
+     "name": "Bagnan",
+     "type": "Vidhan Sabha",
+     "number": 180,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "amta",
+     "name": "Amta",
+     "type": "Vidhan Sabha",
+     "number": 181,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "udaynarayanpur",
+     "name": "Udaynarayanpur",
+     "type": "Vidhan Sabha",
+     "number": 182,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jagatballavpur",
+     "name": "Jagatballavpur",
+     "type": "Vidhan Sabha",
+     "number": 183,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "domjur",
+     "name": "Domjur",
+     "type": "Vidhan Sabha",
+     "number": 184,
+     "district": "Howrah",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Hooghly",
+   "slug": "hooghly",
+   "acs": [
+    {
+     "slug": "uttarpara",
+     "name": "Uttarpara",
+     "type": "Vidhan Sabha",
+     "number": 185,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sreerampur",
+     "name": "Sreerampur",
+     "type": "Vidhan Sabha",
+     "number": 186,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "champdani",
+     "name": "Champdani",
+     "type": "Vidhan Sabha",
+     "number": 187,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "singur",
+     "name": "Singur",
+     "type": "Vidhan Sabha",
+     "number": 188,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chandannagar",
+     "name": "Chandannagar",
+     "type": "Vidhan Sabha",
+     "number": 189,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chunchura",
+     "name": "Chunchura",
+     "type": "Vidhan Sabha",
+     "number": 190,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "balagarh",
+     "name": "Balagarh",
+     "type": "Vidhan Sabha",
+     "number": 191,
+     "district": "Hooghly",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "pandua",
+     "name": "Pandua",
+     "type": "Vidhan Sabha",
+     "number": 192,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "saptagram",
+     "name": "Saptagram",
+     "type": "Vidhan Sabha",
+     "number": 193,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chanditala",
+     "name": "Chanditala",
+     "type": "Vidhan Sabha",
+     "number": 194,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jangipara",
+     "name": "Jangipara",
+     "type": "Vidhan Sabha",
+     "number": 195,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "haripal",
+     "name": "Haripal",
+     "type": "Vidhan Sabha",
+     "number": 196,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "dhanekhali",
+     "name": "Dhanekhali",
+     "type": "Vidhan Sabha",
+     "number": 197,
+     "district": "Hooghly",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "tarakeswar",
+     "name": "Tarakeswar",
+     "type": "Vidhan Sabha",
+     "number": 198,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "pursurah",
+     "name": "Pursurah",
+     "type": "Vidhan Sabha",
+     "number": 199,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "arambag",
+     "name": "Arambag",
+     "type": "Vidhan Sabha",
+     "number": 200,
+     "district": "Hooghly",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "goghat",
+     "name": "Goghat",
+     "type": "Vidhan Sabha",
+     "number": 201,
+     "district": "Hooghly",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "khanakul",
+     "name": "Khanakul",
+     "type": "Vidhan Sabha",
+     "number": 202,
+     "district": "Hooghly",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Purba Medinipur",
+   "slug": "purba-medinipur",
+   "acs": [
+    {
+     "slug": "tamluk",
+     "name": "Tamluk",
+     "type": "Vidhan Sabha",
+     "number": 203,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "panskura-purba",
+     "name": "Panskura Purba",
+     "type": "Vidhan Sabha",
+     "number": 204,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "panskura-paschim",
+     "name": "Panskura Paschim",
+     "type": "Vidhan Sabha",
+     "number": 205,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "moyna",
+     "name": "Moyna",
+     "type": "Vidhan Sabha",
+     "number": 206,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nandakumar",
+     "name": "Nandakumar",
+     "type": "Vidhan Sabha",
+     "number": 207,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mahisadal",
+     "name": "Mahisadal",
+     "type": "Vidhan Sabha",
+     "number": 208,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "haldia",
+     "name": "Haldia",
+     "type": "Vidhan Sabha",
+     "number": 209,
+     "district": "Purba Medinipur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nandigram",
+     "name": "Nandigram",
+     "type": "Vidhan Sabha",
+     "number": 210,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chandipur",
+     "name": "Chandipur",
+     "type": "Vidhan Sabha",
+     "number": 211,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "patashpur",
+     "name": "Patashpur",
+     "type": "Vidhan Sabha",
+     "number": 212,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kanthi-uttar",
+     "name": "Kanthi Uttar",
+     "type": "Vidhan Sabha",
+     "number": 213,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bhagabanpur",
+     "name": "Bhagabanpur",
+     "type": "Vidhan Sabha",
+     "number": 214,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "khejuri",
+     "name": "Khejuri",
+     "type": "Vidhan Sabha",
+     "number": 215,
+     "district": "Purba Medinipur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kanthi-dakshin",
+     "name": "Kanthi Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 216,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ramnagar",
+     "name": "Ramnagar",
+     "type": "Vidhan Sabha",
+     "number": 217,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "egra",
+     "name": "Egra",
+     "type": "Vidhan Sabha",
+     "number": 218,
+     "district": "Purba Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Paschim Medinipur",
+   "slug": "paschim-medinipur",
+   "acs": [
+    {
+     "slug": "dantan",
+     "name": "Dantan",
+     "type": "Vidhan Sabha",
+     "number": 219,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "keshiary",
+     "name": "Keshiary",
+     "type": "Vidhan Sabha",
+     "number": 223,
+     "district": "Paschim Medinipur",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kharagpur-sadar",
+     "name": "Kharagpur Sadar",
+     "type": "Vidhan Sabha",
+     "number": 224,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "narayangarh",
+     "name": "Narayangarh",
+     "type": "Vidhan Sabha",
+     "number": 225,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sabang",
+     "name": "Sabang",
+     "type": "Vidhan Sabha",
+     "number": 226,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "pingla",
+     "name": "Pingla",
+     "type": "Vidhan Sabha",
+     "number": 227,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kharagpur",
+     "name": "Kharagpur",
+     "type": "Vidhan Sabha",
+     "number": 228,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "debra",
+     "name": "Debra",
+     "type": "Vidhan Sabha",
+     "number": 229,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "daspur",
+     "name": "Daspur",
+     "type": "Vidhan Sabha",
+     "number": 230,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ghatal",
+     "name": "Ghatal",
+     "type": "Vidhan Sabha",
+     "number": 231,
+     "district": "Paschim Medinipur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chandrakona",
+     "name": "Chandrakona",
+     "type": "Vidhan Sabha",
+     "number": 232,
+     "district": "Paschim Medinipur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "garbeta",
+     "name": "Garbeta",
+     "type": "Vidhan Sabha",
+     "number": 233,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "salboni",
+     "name": "Salboni",
+     "type": "Vidhan Sabha",
+     "number": 234,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "keshpur",
+     "name": "Keshpur",
+     "type": "Vidhan Sabha",
+     "number": 235,
+     "district": "Paschim Medinipur",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "medinipur",
+     "name": "Medinipur",
+     "type": "Vidhan Sabha",
+     "number": 236,
+     "district": "Paschim Medinipur",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Jhargram",
+   "slug": "jhargram",
+   "acs": [
+    {
+     "slug": "nayagram",
+     "name": "Nayagram",
+     "type": "Vidhan Sabha",
+     "number": 220,
+     "district": "Jhargram",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "gopiballavpur",
+     "name": "Gopiballavpur",
+     "type": "Vidhan Sabha",
+     "number": 221,
+     "district": "Jhargram",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jhargram",
+     "name": "Jhargram",
+     "type": "Vidhan Sabha",
+     "number": 222,
+     "district": "Jhargram",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "binpur",
+     "name": "Binpur",
+     "type": "Vidhan Sabha",
+     "number": 237,
+     "district": "Jhargram",
+     "reservation": "ST",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Purulia",
+   "slug": "purulia",
+   "acs": [
+    {
+     "slug": "bandwan",
+     "name": "Bandwan",
+     "type": "Vidhan Sabha",
+     "number": 238,
+     "district": "Purulia",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "balarampur",
+     "name": "Balarampur",
+     "type": "Vidhan Sabha",
+     "number": 239,
+     "district": "Purulia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "baghmundi",
+     "name": "Baghmundi",
+     "type": "Vidhan Sabha",
+     "number": 240,
+     "district": "Purulia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "joypur",
+     "name": "Joypur",
+     "type": "Vidhan Sabha",
+     "number": 241,
+     "district": "Purulia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "purulia",
+     "name": "Purulia",
+     "type": "Vidhan Sabha",
+     "number": 242,
+     "district": "Purulia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "manbazar",
+     "name": "Manbazar",
+     "type": "Vidhan Sabha",
+     "number": 243,
+     "district": "Purulia",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kashipur",
+     "name": "Kashipur",
+     "type": "Vidhan Sabha",
+     "number": 244,
+     "district": "Purulia",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "para",
+     "name": "Para",
+     "type": "Vidhan Sabha",
+     "number": 245,
+     "district": "Purulia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raghunathpur",
+     "name": "Raghunathpur",
+     "type": "Vidhan Sabha",
+     "number": 246,
+     "district": "Purulia",
+     "reservation": "SC",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Bankura",
+   "slug": "bankura",
+   "acs": [
+    {
+     "slug": "saltora",
+     "name": "Saltora",
+     "type": "Vidhan Sabha",
+     "number": 247,
+     "district": "Bankura",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "chhatna",
+     "name": "Chhatna",
+     "type": "Vidhan Sabha",
+     "number": 248,
+     "district": "Bankura",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ranibandh",
+     "name": "Ranibandh",
+     "type": "Vidhan Sabha",
+     "number": 249,
+     "district": "Bankura",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raipur",
+     "name": "Raipur",
+     "type": "Vidhan Sabha",
+     "number": 250,
+     "district": "Bankura",
+     "reservation": "ST",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "taldangra",
+     "name": "Taldangra",
+     "type": "Vidhan Sabha",
+     "number": 251,
+     "district": "Bankura",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bankura",
+     "name": "Bankura",
+     "type": "Vidhan Sabha",
+     "number": 252,
+     "district": "Bankura",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "barjora",
+     "name": "Barjora",
+     "type": "Vidhan Sabha",
+     "number": 253,
+     "district": "Bankura",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "onda",
+     "name": "Onda",
+     "type": "Vidhan Sabha",
+     "number": 254,
+     "district": "Bankura",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bishnupur-bankura",
+     "name": "Bishnupur",
+     "type": "Vidhan Sabha",
+     "number": 255,
+     "district": "Bankura",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "katulpur",
+     "name": "Katulpur",
+     "type": "Vidhan Sabha",
+     "number": 256,
+     "district": "Bankura",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "indas",
+     "name": "Indas",
+     "type": "Vidhan Sabha",
+     "number": 257,
+     "district": "Bankura",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sonamukhi",
+     "name": "Sonamukhi",
+     "type": "Vidhan Sabha",
+     "number": 258,
+     "district": "Bankura",
+     "reservation": "SC",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Purba Bardhaman",
+   "slug": "purba-bardhaman",
+   "acs": [
+    {
+     "slug": "khandaghosh",
+     "name": "Khandaghosh",
+     "type": "Vidhan Sabha",
+     "number": 259,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "burdwan-dakshin",
+     "name": "Burdwan Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 260,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raina",
+     "name": "Raina",
+     "type": "Vidhan Sabha",
+     "number": 261,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jamalpur",
+     "name": "Jamalpur",
+     "type": "Vidhan Sabha",
+     "number": 262,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "manteswar",
+     "name": "Manteswar",
+     "type": "Vidhan Sabha",
+     "number": 263,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kalna",
+     "name": "Kalna",
+     "type": "Vidhan Sabha",
+     "number": 264,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "memari",
+     "name": "Memari",
+     "type": "Vidhan Sabha",
+     "number": 265,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "burdwan-uttar",
+     "name": "Burdwan Uttar",
+     "type": "Vidhan Sabha",
+     "number": 266,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bhatar",
+     "name": "Bhatar",
+     "type": "Vidhan Sabha",
+     "number": 267,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "purbasthali-dakshin",
+     "name": "Purbasthali Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 268,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "purbasthali-uttar",
+     "name": "Purbasthali Uttar",
+     "type": "Vidhan Sabha",
+     "number": 269,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "katwa",
+     "name": "Katwa",
+     "type": "Vidhan Sabha",
+     "number": 270,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ketugram",
+     "name": "Ketugram",
+     "type": "Vidhan Sabha",
+     "number": 271,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mangalkot",
+     "name": "Mangalkot",
+     "type": "Vidhan Sabha",
+     "number": 272,
+     "district": "Purba Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "ausgram",
+     "name": "Ausgram",
+     "type": "Vidhan Sabha",
+     "number": 273,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "galsi",
+     "name": "Galsi",
+     "type": "Vidhan Sabha",
+     "number": 274,
+     "district": "Purba Bardhaman",
+     "reservation": "SC",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Paschim Bardhaman",
+   "slug": "paschim-bardhaman",
+   "acs": [
+    {
+     "slug": "pandabeswar",
+     "name": "Pandabeswar",
+     "type": "Vidhan Sabha",
+     "number": 275,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "durgapur-purba",
+     "name": "Durgapur Purba",
+     "type": "Vidhan Sabha",
+     "number": 276,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "durgapur-paschim",
+     "name": "Durgapur Paschim",
+     "type": "Vidhan Sabha",
+     "number": 277,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "raniganj",
+     "name": "Raniganj",
+     "type": "Vidhan Sabha",
+     "number": 278,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "jamuria",
+     "name": "Jamuria",
+     "type": "Vidhan Sabha",
+     "number": 279,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "asansol-dakshin",
+     "name": "Asansol Dakshin",
+     "type": "Vidhan Sabha",
+     "number": 280,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "asansol-uttar",
+     "name": "Asansol Uttar",
+     "type": "Vidhan Sabha",
+     "number": 281,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "kulti",
+     "name": "Kulti",
+     "type": "Vidhan Sabha",
+     "number": 282,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "barabani",
+     "name": "Barabani",
+     "type": "Vidhan Sabha",
+     "number": 283,
+     "district": "Paschim Bardhaman",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  },
+  {
+   "name": "Birbhum",
+   "slug": "birbhum",
+   "acs": [
+    {
+     "slug": "dubrajpur",
+     "name": "Dubrajpur",
+     "type": "Vidhan Sabha",
+     "number": 284,
+     "district": "Birbhum",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "suri",
+     "name": "Suri",
+     "type": "Vidhan Sabha",
+     "number": 285,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "bolpur",
+     "name": "Bolpur",
+     "type": "Vidhan Sabha",
+     "number": 286,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nanoor",
+     "name": "Nanoor",
+     "type": "Vidhan Sabha",
+     "number": 287,
+     "district": "Birbhum",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "labhpur",
+     "name": "Labhpur",
+     "type": "Vidhan Sabha",
+     "number": 288,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "sainthia",
+     "name": "Sainthia",
+     "type": "Vidhan Sabha",
+     "number": 289,
+     "district": "Birbhum",
+     "reservation": "SC",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "mayureswar",
+     "name": "Mayureswar",
+     "type": "Vidhan Sabha",
+     "number": 290,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "rampurhat",
+     "name": "Rampurhat",
+     "type": "Vidhan Sabha",
+     "number": 291,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "hansan",
+     "name": "Hansan",
+     "type": "Vidhan Sabha",
+     "number": 292,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "nalhati",
+     "name": "Nalhati",
+     "type": "Vidhan Sabha",
+     "number": 293,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    },
+    {
+     "slug": "murarai",
+     "name": "Murarai",
+     "type": "Vidhan Sabha",
+     "number": 294,
+     "district": "Birbhum",
+     "reservation": "GEN",
+     "state": "West Bengal"
+    }
+   ]
+  }
+ ]
+}

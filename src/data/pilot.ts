@@ -24,7 +24,7 @@ export interface Tenure {
 }
 
 export interface FundInfo {
-  scheme: 'MPLADS' | 'MLALADS' | 'CDP' | 'KLLADS';
+  scheme: 'MPLADS' | 'MLALADS' | 'CDP' | 'KLLADS' | 'BEUP';
   allocated: string | null;
   utilized: string | null;
   utilizationPct: number | null;

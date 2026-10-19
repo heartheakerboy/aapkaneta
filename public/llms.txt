@@ -43,6 +43,7 @@
 - [Telangana](https://aapkaneta.org/telangana/)
 - [Andhra Pradesh](https://aapkaneta.org/andhra/)
 - [Karnataka](https://aapkaneta.org/karnataka/)
+- [West Bengal](https://aapkaneta.org/westbengal/)
 - Maharashtra ke neta profiles homepage ke neta-khande se milte hain (jaise https://aapkaneta.org/neta/<slug>/)
 
 ## Har neta ke profile par kya milta hai
