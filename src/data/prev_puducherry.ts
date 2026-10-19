@@ -1,10 +1,161 @@
 // Puducherry — 2021 vs 2026 affidavit comparison (vartaman 30 MLAs, 16th VS 2026-2031).
 // Puducherry me pichhla aam Vidhan Sabha chunav 2021 me hua tha (16th VS 2026 me chuni gayi).
-// Mining abhi baaki hai — 2021 ke myneta.info/puducherry2021 candidate pages kholkar padhe jayenge,
-// seat + party + pita-naam se pehchan pakki ki jayegi. Thattanchavady ke Ashok Anand ke liye 2021 ka record
-// unhi ke naam-seat se milan par hi jode jayega (pehchan-jaal se bachna hai).
-// NOTE: Ashok Anand ne Thattanchavady Oct 2026 upchunav me jeeta (karyakaal sirf Oct 2026 se) —
-// unke prevAffidavit ka aadhaar 2021 ka Thattanchavady halafnama hi hoga, upchunav ka nahi.
+// Coverage: 14/30 ke verified records — 2021 ke myneta.info/puducherry2021 candidate pages kholkar padhe gaye,
+// seat + party + pita-naam/umr se pehchan pakki ki gayi (jeete/haare dono shamil — affidavit hi tulna ka aadhaar hai).
+// 13 MLAs ne 2021 me Assembly ladi hi nahi (verified-absent — 2026 me debut, ya 2021 me ummidwar hi nahi the):
+// azhagu-azhaganantham, c-aiyappan, malladi-krishna-rao, vignesh-kannan, vp-sivakolundhu, t-ashok-kumar,
+// e-mohandoss, b-ravicoumar, b-ramu, ashok-anand, jose-charles-martin, k-narayanasamy, tksm-meenatchisundaram.
+// 3 retry-leads (2021 me ummidwari pakki hai, par myneta.info/puducherry2021 ka candidate page khul nahi saka;
+// candidate_id JS-rendered constituency table me chhupa hai — live browser se nikalna hoga):
+// v-cartigueyane (Nellithope/DMK 2021 runner-up), gns-rajasekaran (Thirunallar/BJP 2021 runner-up),
+// vaiyapuri-manikandan (Muthialpet/AIADMK 2021 runner-up).
+// Pehchan-jaal se bache: ak-sai-j-saravanan-kumar ka 2021 record Oussudu seat se liya (2021 me BJP se Oussudu ke MLA the,
+// 2026 me TVK se Thirubhuvanai — pehchan pita-naam se pakki); a-johnkumar ka 2021 record Kamaraj Nagar se
+// (2021 me Nellithope se unke bete Richards Johnkumar lade/jeete the, woh page NAHI uthaya);
+// r-senthil-kumar (Bahour) vs senthil-ramesh (Kalapet) alag-alag vyakti; k-narayanasamy vs poorv CM V. Narayanasamy alag.
+// Note: g-nehru ke 2021 halafnama me 0 criminal cases (2026 record me 4 — cases baad ke hain);
+// a-johnkumar ke 2021 halafnama me 6 pending cases (2026 record me 2).
 import type { PrevAffidavit } from './pilot';
 
-export const prevPuducherryNetas: Record<string, PrevAffidavit> = {};
+export const prevPuducherryNetas: Record<string, PrevAffidavit> = {
+'a-anbalagan': {
+year: '2021',
+age: '63',
+education: '10th Pass (SSLC, Jeevanathan Government Boys High Sec School)',
+criminalCases: 4,
+assets: 'Rs 7,81,92,485',
+assetsNum: 78192485,
+liabilities: 'Rs 1,02,22,633',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=232',
+},
+'a-johnkumar': {
+year: '2021',
+age: '56',
+education: 'Illiterate',
+criminalCases: 6,
+assets: 'Rs 26,69,93,315',
+assetsNum: 266993315,
+liabilities: 'Rs 43,14,45,386',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=14',
+},
+'a-namassivayam': {
+year: '2021',
+age: '51',
+education: 'Diploma in Civil Engineering (1991)',
+criminalCases: 0,
+assets: 'Rs 25,05,76,451',
+assetsNum: 250576451,
+liabilities: 'Rs 6,32,59,206',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=146',
+},
+'ak-sai-j-saravanan-kumar': {
+year: '2021',
+age: '48',
+education: 'B.A. (Graduate) from Tagore Arts College, Pondicherry University in 1994',
+criminalCases: 5,
+assets: 'Rs 3,10,86,206',
+assetsNum: 31086206,
+liabilities: 'Rs 2,48,56,826',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=244',
+},
+'amh-nazeem': {
+year: '2021',
+age: '59',
+education: '12th Pass, B.A (Economics) Incomplete, Aringar Anna Arts College Karaikal',
+criminalCases: 9,
+assets: 'Rs 51,08,000',
+assetsNum: 5108000,
+liabilities: 'Nil',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=107',
+},
+'dr-v-vigneswaran': {
+year: '2021',
+age: '37',
+education: 'M.B.B.S., Pondicherry University',
+criminalCases: 0,
+assets: 'Rs 1,41,50,000',
+assetsNum: 14150000,
+liabilities: 'Rs 68,00,000',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=186',
+},
+'g-nehru': {
+year: '2021',
+age: '56',
+education: '5th Pass (8th discontinued — Petit Seminare Higher Secondary School)',
+criminalCases: 0,
+assets: 'Rs 43,93,05,327',
+assetsNum: 439305327,
+liabilities: 'Rs 14,50,55,721',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=230',
+},
+'n-rangasamy': {
+year: '2021',
+age: '70',
+education: 'B.L. from Ambedkar Law College, Puducherry (1977)',
+criminalCases: 0,
+assets: 'Rs 38,39,75,200',
+assetsNum: 383975200,
+liabilities: 'Rs 1,15,00,000',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=11',
+},
+'p-karthikeyan': {
+year: '2021',
+age: '45',
+education: 'Diploma in Civil Engineering, Govt Technical College Thirunallar Karaikal in 1993',
+criminalCases: 3,
+assets: 'Rs 4,16,68,280',
+assetsNum: 41668280,
+liabilities: 'Rs 1,60,96,501',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=243',
+},
+'p-rajavelu': {
+year: '2021',
+age: '60',
+education: '12th Pass, +2 from Bharathi Govt HSS in 1981',
+criminalCases: 0,
+assets: 'Rs 1,29,89,820',
+assetsNum: 12989820,
+liabilities: 'Rs 11,76,706',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=210',
+},
+'prn-thirumurugan': {
+year: '2021',
+age: '49',
+education: 'Graduate',
+criminalCases: 4,
+assets: 'Rs 26,53,39,593',
+assetsNum: 265339593,
+liabilities: 'Rs 2,35,26,767',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=329',
+},
+'pv-aroumougame': {
+year: '2021',
+age: '57',
+education: '10th Pass - S.S.L.C. from Kamban High School, Nettapakkam, Puducherry (1984)',
+criminalCases: 0,
+assets: 'Rs 17,19,33,878',
+assetsNum: 171933878,
+liabilities: 'Rs 2,24,75,176',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=13',
+},
+'r-senthil-kumar': {
+year: '2021',
+age: '42',
+education: 'Post Graduate',
+criminalCases: 0,
+assets: 'Rs 14,72,13,960',
+assetsNum: 147213960,
+liabilities: 'Rs 3,34,93,946',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=44',
+},
+'senthil-ramesh': {
+year: '2021',
+age: '47',
+education: '8th Pass (10th not completed, Indiranagar Govt High School, 1989)',
+criminalCases: 21,
+assets: 'Rs 18,50,22,105',
+assetsNum: 185022105,
+liabilities: 'Rs 1,50,00,000',
+mynetaUrl: 'https://myneta.info/puducherry2021/candidate.php?candidate_id=87',
+},
+};
