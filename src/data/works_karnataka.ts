@@ -2769,3 +2769,436 @@ karnatakaWorks['a-manju'] =  [];
 //      REJECT: CM ka karyakram; MLA ki koi vyaktigat bhoomika darj nahi ("badi pariyojna bina vyaktigat bhoomika"). latestly.com whitelisted established outlet bhi nahi.
 // Negatives: Cement Manju (S Manjunatha) ke khilaf established media me koi FIR/chargesheet/janch/judicial development nahi mili. Unka 2023 election affidavit myneta.info par cited hai lekin whitelisted media coverage bina us par negative entry nahi banti ("Halafname ke mamle akele NAHI"). Party-badlav ka koi sanket nahi (2023 se BJP; karyakaal 2023-2028).
 karnatakaWorks['cement-manju'] =  [];
+
+// Batch 8: Haveri + Kalaburagi + Kodagu (16/31 jile; 17 assignments; QA-DROPS (coordinator): mantar-gowda ki 4 entries (TOI pages 403 par khule nahi — 'khul na sakne wala page source nahi' niyam) aur 1 negative (complaint me naam, darj FIR me MLA aaropi nahi — FIR-accused-column niyam) — sab retry-leads; bhojaraj ki entry (The Hindu amp 403 — tathya search-index se, khuli page se nahi) retry-lead par drop).
+
+// Haveri — srinivas-mane
+
+karnatakaWorks['srinivas-mane'] = [];
+
+// Haveri — yasir-ahmed-khan-pathan
+
+karnatakaWorks['yasir-ahmed-khan-pathan'] = [];
+
+// Haveri — rudrappa-manappa-lamani
+
+karnatakaWorks['rudrappa-manappa-lamani'] = [
+  {
+    title: 'Tungabhadra nadi par Kancharagatti ke paas Rs 150 crore ke barrage-cum-bridge ko KNNL ne manzoori di jisse Guttal aur Haveri shahar ki peyjal samasya door hogi',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Times of India (Hubballi)',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/rs-150-crore-sanctioned-for-tungabhadra-barrage-cum-bridge-to-ease-haveris-water-woes/articleshow/121372289.cms',
+    date: '2025-01-25',
+    note: 'Karnataka Neeravari Nigam Limited (KNNL) ke board ne 25 Jan 2025 ko Rs 150 crore ki swikriti di; turant Rs 50 crore aabantit aur DPR ke liye Rs 50 lakh rakhe gaye. Barrage se Budapanahalli Lift Irrigation ke 17 talab aur Guttal-Haveri shahar ka peyjal sankat hal hoga — 20 saal purani maang thi. Article ke mutabik deputy speaker aur Haveri MLA Rudrappa Lamani aur jila prabhari mantri Shivanand Patil ke samarthan se ye aage badha, isliye credit saamuhik hai, Lamani akele nahi. Sarkari cabinet ki antim prashasanik manzoori abhi baki thi (CM ka cabinet me le jaane ka ashwasan). Tithi ki tark-vyavastha: article me board-meeting ki tarikh 25 Jan 2025 darj hai, wahi sanstan tarikh ke roop me li gayi hai; article ki report May 2025 ki hai.',
+    period: '2023-2028',
+    stage: 'swikriti',
+  },
+  {
+    title: 'Haveri jile ke liye super speciality hospital ki maang par CM ne ghoshna ki jo Lamani ne HIMS lokarpan samaroh me dusre netaon ke saath uthayi thi',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'Times of India (Hubballi)',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/cm-announces-super-speciality-hospital-cancer-hospital-in-each-district/articleshow/126399839.cms',
+    date: '2026-01-07',
+    note: 'Haveri Institute of Medical Sciences ke lokarpan samaroh me deputy speaker aur Haveri MLA Rudrappa Lamani ne super speciality hospital ki maang rakhi thi; CM Siddaramaiah ne Haveri jile ke liye super speciality hospital ki ghoshna ki. Maang saamuhik thi (purv CM Bommai, mantri Shivanand Patil aur H. K. Patil, Lamani, Byadgi MLA Shivannavar) aur ghoshna CM ki thi, isliye credit capped hai. Abhi ghoshna-stage hi hai — nirman ki sthiti srot me darj nahi. Tithi ki tark-vyavastha: article me samaroh “Wednesday” ko hua darj hai aur “8th January” trending me hai, isse event ki tarikh 7 Jan 2026 (Budhwar) nishchit hui.',
+    period: '2023-2028',
+    stage: 'ghoshna',
+  },
+  {
+    title: 'Khana aur Bhugarbh Vigyan vibhag ne Hunasikatti ki pathar khadan par anadhikrit utkhanan ke liye Rs 3 crore ka notice diya jisme Lamani khud lease-holder hain',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/haveri-district-minister-rudrappa-lamani-fined-rs-3-crore-for-illegal-quarrying-4150154',
+    date: '2026-09-18',
+    note: 'Ranebennur taluk ke Hunasikatti ke paas khadan ka mining lease Lamani ke naam hai; KSRSAC drone survey aur vibhagiya jaanch me seema se zyada utkhanan milne par Rs 3 crore ka notice mila — 3 kishton me 6 mahine me bhugtan. Haveri jile me 60 se zyada khadan malikon par aisi karwai hui. Lamani ka jawab (Deccan Herald, 21 Sep 2026) bhi darj hai: unhone kaha ye sirf notice hai, jurmana nahi, aur vibhag se review ka ashwasan mila hai. FIR/chargesheet ki koi report nahi mili — mamla adhikarik jaanch aur vibhagiya notice ke star par hai, imaandaari se isi roop me darj kiya gaya hai. (Indian Express ne bhi 18 Sep 2026 ko iski pushti ki.)',
+    period: '2023-2028',
+  },
+];
+
+// Haveri — basavaraj-neelappa-shivannanavar
+
+karnatakaWorks['basavaraj-neelappa-shivannanavar'] = [];
+
+// Haveri — ujaneshwar-basavannappa-banakar
+
+karnatakaWorks['ujaneshwar-basavannappa-banakar'] = [
+  {
+    title: 'Hirekerur aur Rattihalli talukon ke 88 talabon me Tungabhadra se paani bharne ki Sarvagna yojna ke poore fund jaari hone aur yojna poori hone ka shrey MLA U. B. Banakar ne Congress sarkar ko diya, aur 8 July 2026 se motaron se talabon me paani bharna shuru hone ka daawa kiya.',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/minister-visits-sarvagna-project-site-as-filling-of-88-tanks-begin-4073930',
+    date: '2026-07-15',
+    note: 'Deccan Herald ne likha ki Sarvagna Tank Filling Scheme ke tahat Hirekerur aur Rattihalli talukon ke 42 gaonon ke 88 talabon me Tungabhadra nadi se paani bhara ja raha hai; Ukkadagatri gaon (Harihar taluk) ke paas pump se paani uthaya jata hai; yojna ka maksad peene, ghar-istiimaal aur kheti ka paani aur bhujal star sudharna hai. Sarkari aadesh 25 Oct 2019 ke mutabiq yojna ko Rs 185 crore ki prashasanik swikriti mili thi; kul storage 671.67 million cft; project ki motoron ka test-run 8 Oct 2025 ko hua; mantri ke 3 July ke nirdesh ke baad 8 July se teen motaren chalakar 88 talabon me paani bharna shuru hua. MLA U. B. Banakar ne kaha ki Congress sarkar ne yojna ke poore fund jaari kar diye aur kisano ke kalyan ke liye ise poora kar diya. Fund release aur completion ka shrey sirf MLA ke bayan par aadharit hai — yojna ki manzoori 2019 ki hai, jo inke karyakaal (May 2023) se pehle ki hai — isliye shrey credit-capped rakha gaya hai aur badge daawa hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Hirekerur ke Madag Masur ke vikas ke liye Rs 52 crore ki swikriti milne aur tender prakriya jaari hone ka daawa MLA U. B. Banakar ne kiya.',
+    category: 'Paani',
+    badge: 'dawa',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/minister-visits-sarvagna-project-site-as-filling-of-88-tanks-begin-4073930',
+    date: '2026-07-15',
+    note: 'Deccan Herald ke lekh me MLA U. B. Banakar ne kaha ki Madag Masur ke vikas ke liye Rs 52 crore swikrit hue hain aur tender prakriya chal rahi hai. Swikriti ka tathya sirf MLA ke bayan par aadharit hai — lekh me iska GO ya sarkari dastavej nahi diya gaya — isliye badge daawa rakha gaya hai. (Pichhbhumi: Feb 2024 me Banakar ne Assembly me Madag Masur left/right bank canal ke vikas ka sawal uthaya tha, lekin us coverage ka koi whitelisted source nahi mila — dekhein retry-lead.)',
+    period: '2023-2028',
+  },
+];
+
+// Haveri — prakash-koliwad
+
+karnatakaWorks['prakash-koliwad'] = [
+  {
+    title: 'MLA Prakash Koliwad ke netritva me MLA grant se Ranebennur taluk office parisar me 1971 ke yudh ka aitihasik T-55 Shivashakti tank sthapit hua',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/historic-indo-pak-war-tank-shivashakti-installed-in-ranebennur/articleshow/123369561.cms',
+    date: '2025-08-15',
+    note: 'The Times of India (Haveri): Haveri jila prashasan ne 79vein Swatantrata Diwas par Ranebennur taluk office parisar me 1971 ke Bharat-Pak yudh ka aitihasik T-55 tank sthapit kiya. TOI ke anusaar tank ka anavaran MLA Prakash Koliwad ke netritva me MLA grant ke tahat hua. Tank Bharatiya Sena ki assault regiment ka tha aur Pune ke Kirkee Central Army Fighting Vehicle Depot se laya gaya; Russia se khareeda gaya yah T-55 tank 1966 se 1977 tak mukhya yuddhak tank raha aur 1971 ke Bangla mukti yuddh me aham bhoomika nibhai. Iska naam Shiva Shakti rakha gaya hai aur sthapna se shahar ki sanskritik-shaikshik pratishtha badhne ki ummeed jatayi gayi hai. Fund disclosure: srot ne spasht roop se ‘MLA grant’ bataya — Karnataka me vidhayak anudan KLLADS (Karnataka Legislators Local Area Development Scheme) ke tahat milta hai, jisme har MLA ko saalana Rs 2 crore vikas karyon ki sifarish ka adhikaar hai; tank ki vyaktigat lagat ka ankda srot ne nahi diya. Date reasoning: lekh me ‘79th Independence Day’ likha hai, arthaat 15 August 2025.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'Vidhan Sabha me Prakash Koliwad ke prashn par sarkar ne agle saal tak sabhi jilon me vishesh bachchon ke Early Intervention Centre banane ka elaan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'NDTV',
+    sourceUrl: 'https://www.ndtv.com/health/ktaka-govt-to-set-up-early-intervention-centres-for-specially-abled-children-in-all-districts-by-next-year-11204695',
+    date: '2026-03-12',
+    note: 'NDTV (syndicated feed): Karnataka sarkar ne Vidhan Sabha me elaan kiya ki Rashtriya Bala Swasthya Karyakram ke tahat sabhi jilon me District Early Intervention Centres agle saal tak banaye jayenge. Swasthya mantri Dinesh Gundu Rao ne yah ghoshna sadan me Congress MLA Prakash Koliwad ke prashn ka jawab dete hue ki. Koliwad ne mudda uthaya tha ki Haveri jile me abhi koi DEIC nahi hai aur sthapna ke prastav bhi manzoor nahi hue hain; unhone kaha ki Ranebennur me sirf 137 vishesh bachche registered hain jabki anuman lagbhag 18,000 ka hai, aur taluk star par tele-therapy aur tele-counselling ke saath digital tracking ki maang rakhi. Mantri ne kaha ki filhaal rajya me 17 DEIC kaam kar rahe hain aur Koppal me ek aur jald shuru hoga; unhone mudda uthane ke liye Koliwad ki sarahna bhi ki. Credit capped: faisla, ghoshna aur fund sarkar ka hai — Koliwad ki bhoomika Vidhan Sabha me prashn uthane aur Haveri ke liye DEIC ki maang rakhne tak seemit rahi. Date reasoning: lekh me ‘announced on Thursday’ aur ‘Last Updated 221 days ago’ (19 Oct 2026 se ginte hue) — dono Thursday 12 March 2026 par milte hain.',
+    period: '2023-2028',
+  },
+];
+
+// Kalaburagi — m-y-patil
+
+karnatakaWorks['m-y-patil'] = [];
+
+// Kalaburagi — ajay-dharam-singh
+
+karnatakaWorks['ajay-dharam-singh'] = [
+  {
+    title: 'Jewargi taluk me Rs 73.75 crore ki lagat se naya Government Tool Room and Training Centre (GTTC) — cabinet se manzoori ke baad KKRDB yojna ke tahat sthapit hoga',
+    category: 'School',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/cabinet-clears-gttc-centre-for-jewargi-7375-crore-project-to-boost-skill-training/article70931941.ece',
+    date: '2026-05-02',
+    note: 'State Cabinet ne 30 April 2026 ki baithak me prastav manzoor kiya; kendra KKRDB yojna ke tahat Rs 73.75 crore ki laagat se banega; campus me aadhunik training block, workshop, machine, chhatravas aur staff quarter honge; AI/ML aur Electronics-Communication Engineering me diploma plus short-term skill courses milenge; saalana 750 se zyada vidyarthi prashikshit honge. Shrey: nirnay Cabinet ka hai; Jewargi MLA aur KKRDB chairman ke roop me Ajay Singh ne media note jari karke ghoshna ki — vyaktigat bhoomika ghoshna/jankari tak capped. KLLADS ka zikr srot me nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mallabad Lift Irrigation Project ki Phase I, II, III ki bachi hui vitran-naharon ke karyon ki swikriti — KBJNL ki 140vi board baithak me faisla, kaam tezi se aage badhega',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/works-on-mallabad-lift-irrigation-project-expedited/article68406688.ece',
+    date: '2024-07-15', // page ke khud ke stamp ‘Published - July 15, 2024 10:08 pm IST’ ke aadhaar par
+    note: 'Jewargi MLA aur KKRDB chairman Ajay Singh ki vigyapti ke mutabik Jal Sansadhan Mantri D.K. Shivakumar ne adhikariyon ko tender prakriya poori karne ka nirdesh diya; KBJNL ki 140vi board baithak ne pariyojana ke karyanvayan ko manzoori di aur teenon charanon ki pending distributary karyon ke liye anudan ke nirdesh hue; pariyojana 33,860 hectare khet — Yadrami taluk ke 38 gaon aur Jewargi taluk ke 20 gaon — ko sinchit karegi. Shrey: faisla KBJNL board ka aur nirdesh Mantri ka hai; MLA ne vijyapti jari karke kisaano ki char-dashak purani maang ke dastaveji nateeje ki ghoshna ki — vyaktigat bhoomika capped. KLLADS ka zikr srot me nahi.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Mallabad Lift Irrigation ki bachi hui Phase 1, 2, 3 distributary naharon ke liye Rs 359.6 crore ke tenderon ki swikriti — Jevargi taluk ke kisaano ke liye dastaveji nateeja',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/hubballi/kbjnl-sanctions-rs-359-cr-for-completion-of-mallabad-lift-irrigation-project/articleshow/117530817.cms',
+    date: '2025-01-24', // INFERRED — page par prakashan tithi metadata me nahi dikhi; crawl metadata (‘633 din pehle’ — 2026-10-19 ki tithi se) aur 2025 copyright/trending topics se anuman: lagbhag January 2025 ka chautha hafta. Reasoning note me darj.
+    note: 'CM ke nivas par hui KBJNL ki 142vi baithak ne pending karyon ke liye Rs 359.6 crore ke tender manzoor kiye; Jevargi taluk (Krishna Upper Bank Project ka Phase 3) me Lift 1, 2, 3 ki pramukh naharein taiyaar ho chuki thi; bachi 26,716 hectare ki distributary naharein isi tender se poori hongi; 68 gaon (Jewargi + Shahapur taluk) aur 33,860 hectare labhanvit. Shrey: nirnay KBJNL board ka tha, adhyakshata CM Siddaramaiah aur Jal Sansadhan Mantri D.K. Shivakumar ne ki; Jewargi MLA Ajay Singh ne TOI se baat me tender prakriya turant shuru hone ki pushti ki — vyaktigat bhoomika capped. KLLADS ka zikr srot me nahi.',
+    period: '2023-2028',
+  },
+];
+
+// Kalaburagi — priyank-kharge
+
+karnatakaWorks['priyank-kharge'] = [
+  {
+    title: 'Priyank Kharge ne Chittapur shahar me AMRUT 2.0 ke tehet do badi peya-jal pariyojnaon ka shilanyas kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/87-villages-in-chittapur-constituency-to-be-developed-at-a-cost-of-150-crore-says-karnataka-minister-priyank-kharge/article69572133.ece',
+    date: '2025-05-13',
+    note: 'The Hindu ke anusaar Priyank Kharge ne 13 May 2025 ko Chittapur shahar me AMRUT 2.0 yojna ke tehet do peya-jal pariyojnaon ka shilanyas kiya. Pehli pariyojna Kagina nadi se Chittapur ko paani pahunchayegi aur iski lagat Rs 45.53 crore hai; dusri Bhima nadi se Wadi ko paani degi aur iski lagat Rs 32.81 crore hai. Dono pariyojnaon ke 18 mahine me poori tarah chalu hone ki ummeed hai aur 125 litre prati vyakti prati din paani milega. Khabar 14 May 2025 ko prakashit hui thi.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Priyank Kharge ne Chittapur shahar me Rs 18.41 crore ki lagat se bane naye Praja Soudha ka udghatan kiya',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/priyank-kharge-delegation-will-be-taken-to-centre-urging-to-include-koli-kabbaliga-community-in-sts-list/article69772944.ece',
+    date: '2025-07-04',
+    note: 'The Hindu ke anusaar Priyank Kharge ne 4 July 2025 ko Chittapur shahar me Rs 18.41 crore ki lagat se bane naye Praja Soudha ka udghatan kiya. Purane Mini Vidhana Soudha ka naam badalkar Praja Soudha rakha gaya hai. Udghatan karyakram me 517 labharthiyon ko vibhinn sarkari yojnaon ke laabh bante gaye. Kisi fund scheme ka naam page par nahi diya gaya hai.',
+    period: '2023-2028',
+    stage: 'lokarpan',
+  },
+  {
+    title: 'RSS par manhanikarak tippani ke aarop me niji shikayat: adalat ne Priyank Kharge ko sammon bheja, peshi ke baad zamaanat par riha hue; sessions court ne kaaryavaahi par rok lagayi',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'Deccan Herald',
+    sourceUrl: 'https://www.deccanherald.com/india/karnataka/remarks-on-rss-court-stays-proceedings-against-priyank-nalapad-4174235',
+    date: '2026-10-08',
+    note: 'Deccan Herald ke anusaar Bengaluru ke RSS sadasya Tejas A ne November 2025 me niji shikayat darj karai thi ki Priyank Kharge ne RSS ke khilaf manhanikarak tippani ki hai. Vishesh magistrate adalat ne sangyaan lekar Priyank Kharge aur Mohammad Haris Nalapad ko sammon bheje; dono adalat me pesh hue aur zamaanat par riha hue. Unki punarvichar yachika me kaha gaya ki shikayatkarta peedit paksh sabit nahi hue isliye unhe shikayat ka adhikaar nahi hai. Sessions court ne 7 October 2026 ko kaaryavaahi par rok lagate hue shikayatkarta ko notice diya aur mamla 30 October 2026 ke liye lagaya. Dinesh Gundu Rao ke khilaf aarop magistrate adalat ne kharij kar diye the.',
+    period: '2023-2028',
+  },
+];
+
+// Kalaburagi — sharanprakash-rudrappa-patil
+
+karnatakaWorks['sharanprakash-rudrappa-patil'] = [
+  {
+    title: 'Sedam kasbe ke liye Khachur Barrage se peene ka paani laane wali Rs 47.85 crore ki pariyojna ka shilanyas kiya',
+    category: 'Paani',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/foundation-stone-laid-for-4785-crore-project-to-draw-water-from-khachur-barrage-for-sedam-in-karnataka/article70267784.ece',
+    date: '2025-11-11',
+    note: 'The Hindu ki post-event report (published 12 Nov 2025; date event ki hai — reasoning note me) ke mutabik, Dr. Patil ne 11 November 2025 ko Ashraya Colony (Survey No. 705) me bhoomi puja karke Sedam kasbe ke liye Khachur Barrage se paani laane wali Rs 47.85 crore ki pariyojna ka shilanyas kiya. Yojana kendra-praayojit AMRUT 2.0 ke tahat hai aur kasbe me paanch naye overhead paani ke tank (Ashraya Colony, Chincholi Road, Kalaburagi Road sahit any sthanon par) banenge. Unke daave ke mutabik dedh saal me har niwasi ko roz 135 litre saaf paani milega — ye lakshya unka bayan hai, pusti honi baki hai. Stage ka sach: shilanyas ho chuka hai, nirmaan kaam abhi hona baki hai.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Sedam Taluk Hospital ki bistar kshamta 150 tak badhai aur upgradation ke liye Rs 5 crore ka atirikt anudan swikrit hua',
+    category: 'Aspataal',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/foundation-stone-laid-for-4785-crore-project-to-draw-water-from-khachur-barrage-for-sedam-in-karnataka/article70267784.ece',
+    date: '2025-11-11',
+    note: 'Usi The Hindu report me shilanyas karyakram ke dauraan unhone bataya ki Sedam Taluk Hospital ki bed capacity 150 tak badha di gayi hai aur uske upgradation ke liye Rs 5 crore ka atirikt anudan swikrit hua hai. Ye unka bayan hai — GO ya swikriti-aadesh ka pratyaksh dastavej article me nahi diya gaya, isliye credit unke media-reported daave tak seemit hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Sedam me Rs 56 crore ki bhumigat naali (UGD) network mazbooti aur STP pariyojna ka kaam antim charan me pahuncha',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/foundation-stone-laid-for-4785-crore-project-to-draw-water-from-khachur-barrage-for-sedam-in-karnataka/article70267784.ece',
+    date: '2025-11-11',
+    note: 'Usi report me unhone bataya ki Sedam me bhumigat naali (UGD) network mazboot karne ka Rs 56 crore ka kaam — jisme Sewage Treatment Plant (STP) bhi shamil hai — chal raha hai aur sirf 800 metre kaam baki hai. Ye unka bayan hai; shilanyas/lokarpan ka koi swatantra dastavej article me nahi hai, isliye credit unke media-reported daave tak seemit hai.',
+    period: '2023-2028',
+  },
+];
+
+// Kalaburagi — avinash-umesh-jadhav
+
+karnatakaWorks['avinash-umesh-jadhav'] = [];
+
+// Kalaburagi — basawaraj-mattimudu
+
+karnatakaWorks['basawaraj-mattimudu'] = [];
+
+// Kalaburagi — allamprabhu-patil
+
+karnatakaWorks['allamprabhu-patil'] = [
+  {
+  title: 'Kalaburagi Dakshin ke MLA Allamprabhu Patil ne Melkunda (B) gaon me naye gram panchayat bhavan ka udghatan kiya',
+  category: 'Any',
+  badge: 'news',
+  sourceLabel: 'The Hindu',
+  sourceUrl: 'https://www.thehindu.com/news/national/karnataka/government-reaching-peoples-doorstep-through-janaspandana-allamprabhu-patil/article69887402.ece',
+  date: '2025-08-02',
+  note: 'The Hindu ki report ke mutabik MLA ne Janaspandana grievance redressal meet se pehle naye gram panchayat bhavan ka udghatan kiya. Bhavan ki lagat ya kosh ka srot report me nahi diya gaya — fund disclosed nahi, isliye credit lokarpan tak seemit. Usi samaroh me MLA ne CM grants se sadak aur buniyadi suvidhaon ke sudhaar ka dawa kiya, lekin uska koi alag post-event saboot report me nahi hai.',
+  period: '2023-2028',
+},
+];
+
+// Kalaburagi — kaneez-fatima
+
+karnatakaWorks['kaneez-fatima'] = [
+  {
+    title: 'Kaneez Fatima ne Kalaburagi me Masjid-e-Mahbas ke paas sadak aur drainage vikas karyon ka shilanyas kiya',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/kaneez-fatima-lays-foundation-stone-for-road-drainage-works-in-kalaburagi/article70932217.ece',
+    date: '2026-05-01',
+    note: 'KKRDB ki 2025-26 action plan ke tehet PWD ke zariye liye gaye karyon ki anumaanit laagat Rs 130 lakh hai; Kaneez Fatima ne khud 1 May 2026 ko shaam 5.30 baje shilanyas kiya. Date page par di gayi tithi ke aadhaar par li gayi hai (khabar 2 May 2026 ko prakashit hui).',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+];
+
+// Kalaburagi — bhojaraj
+
+karnatakaWorks['bhojaraj'] = [];
+
+// Kodagu — mantar-gowda
+
+karnatakaWorks['mantar-gowda'] = [
+  {
+    title: 'Madikeri ke KoIMS Teaching Hospital me Anti-Rabies Unit aur Dialysis Unit ka lokarpan — MLA Mantar Gowda ne suvidhaon ka udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/kodagu-hospital-gets-dialysis-anti-rabies-units/article69893023.ece',
+    date: '2025-08-04',
+    note: 'The Hindu ke anusaar Kodagu Institute of Medical Sciences (KoIMS) Teaching Hospital, Madikeri me Anti-Rabies Unit aur Dialysis Unit launch hui; Madikeri ke MLA Mantar Gowda ne suvidhaon ka udghatan kiya. MLA ne KoIMS ko full-fledged multi-specialty hospital banane ki pratibaddhta doharai aur kaha ve sansthan me swasthya suvidhaon ke vistar ke liye sarkar se anudan dilane ka prayas karenge. Udghatan ke samay KoIMS Dean Lokesh Kumar, District Surgeon Nanjundayya, Medical Superintendent Somashekar aur varishth swasthya adhikari maujood the. Fund-srot report me ghoshit nahi (LAD/KLLADS ka zikr nahi). Date-note: report 4 Aug 2025 ko publish hui; event ki alag tithi report me darj nahi, isliye tithi report ki rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'KoIMS Teaching Hospital Madikeri me upgraded Dental Department aur OPG X-ray machine ka lokarpan — MLA Mantar Gowda ne udghatan kiya',
+    category: 'Aspataal',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/upgraded-dental-unit-inaugurated-at-koims-teaching-hospital-in-madikeri/article69892964.ece',
+    date: '2025-08-03',
+    note: 'The Hindu ke anusaar KoIMS Teaching Hospital, Madikeri me naya upgraded Dental Department aur OPG (Orthopantomogram) X-ray machine ka udghatan MLA Mantar Gowda ne kiya; ye suvidhayein kshetra me dental swasthya sewaon ko majboot karne ke liye hain. Dental vibhag pichhle paanch varshon se karyarat hai aur Danta Bhagya Yojane ke tahat 45 varsh se upar ke BPL card-dharakon ko muft denture deta hai; pichhle 4-5 varshon me Ayushman Bharat-Arogya Karnataka (AB-ARK) ke tahat 250 se zyada oral aur maxillofacial surgery muft ki gayi hain. Fund-srot report me ghoshit nahi. Date-note: report me ‘Sunday’ likha hai aur report 4 Aug 2025 (Monday) ko publish hui, isliye tithi 2025-08-03 rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Madikeri, Kushalnagar aur Virajpet me Rs 12 crore ki legacy waste bioremediation pariyojna ka shubharambh — Mysuru MP ke saath MLA ne launch kiya, Swachh Bharat Abhiyan ke tahat 1.52 lakh tonne kachre ka vaigyanik niptaan hoga',
+    category: 'Any',
+    badge: 'news',
+    stage: 'lokarpan',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/project-for-scientific-disposal-of-legacy-waste-launched-in-kodagu/article69442883.ece',
+    date: '2025-04-11',
+    note: 'The Hindu ke anusaar Madikeri, Kushalnagar aur Virajpet me legacy waste ke vaigyanik niptaan ki Rs 12 crore ki pariyojna launch hui; Madikeri ke MLA Mantar Gowda aur Mysuru ke MP Yaduveer Krishnadatta Chamaraja Wadiyar ne ise Madikeri ke Subramanyanagar me Swachh Bharat Abhiyan yojna ke tahat launch kiya. MLA ke anusaar lagbhag 1.52 lakh tonne legacy waste — jisme Madikeri ka lagbhag 76,636 tonne shamil hai — bioremediation ke tahat liya gaya hai; MP ke anusaar pariyojna lagat ka 50% kendriya funding hai. Credit-cap: ye sanyukt launch tha (MLA + MP); pariyojna teen shaharon me hai jinme Virajpet dusre MLA (A.S. Ponnanna) ki seat me padta hai. Date-note: report me ‘Friday’ likha hai aur report 12 Apr 2025 (Saturday) ko publish hui, isliye tithi 2025-04-11 rakhi gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Madikeri ke Gandhi Memorial Park (Raj Ghat model) ke liye MLA Local Area Development Fund se Rs 10 lakh dene ka MLA Mantar Gowda ka ashwasan',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/madikeris-gandhi-memorial-park-set-to-get-a-major-facelift/article67706041.ece/amp/',
+    date: '2024-01-04',
+    note: 'The Hindu ke anusaar Kodagu prabhari mantri N.S. Boseraju ne Madikeri me ban rahe Gandhi Memorial Park ke karyon ka nirikshan kiya aur kaha sarkar ne karyon ke liye Rs 50 lakh swikrit kiye hain aur atirikt Rs 5 lakh bhi jaari honge; MLA Mantar Gowda ne kaam jald poora karne par zor diya aur MLA local area development fund se Rs 10 lakh dene ka ashwasan diya, saath hi atirikt anudan ke liye kadam uthane ki baat kahi. Sarvodaya Samiti ke poorv adhyaksh T.P. Ramesh ke anusaar park Raj Ghat (New Delhi) ki tarah banaya jana hai. Credit-cap: ye ashwasan hai — vastavik swikriti ya vitran ki pushti is report me nahi hai; KLLADS ke tahat (Rs 2 crore/seat/varsh ka adhikaar) Rs 10 lakh ka ashwasan.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Madikeri me Field Marshal K.M. Cariappa ki pratima aur aaspaas ke park ke vikas ke liye MLA Local Area Development Fund se Rs 3 lakh ki swikriti — MLA Mantar Gowda ne estimate milne par grant ghoshit ki',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/grant-of-3-lakh-sanctioned-for-development-of-field-marshal-km-cariappas-statue-in-karnatakas-madikeri/article70212493.ece/amp/',
+    date: '2025-10-28',
+    note: 'The Hindu ke anusaar Madikeri ke MLA Mantar Gowda ne Bharat ke pehle Commander-in-Chief Field Marshal K.M. Cariappa ki pratima aur uske aaspaas ke park ke vikas ke liye MLA Local Area Development Fund se Rs 3 lakh ka anudan swikrit kiya. Rajiv Gandhi Panchayat Raj Organisation ke zila adhyaksh Tennira Maina aur Madikeri City Municipal Council ki manoneet sadasya Mandira Sada Muddappa ne prastavit karyon ka estimate saunpa, jiske jawab me MLA ne grant ghoshit ki. MLA ne kaha Field Marshal Cariappa aur General K.S. Thimayya asadharan sainya neta the aur unke yogdaan ka samman har Bharatiya ka kartavya hai. KLLADS (Rs 2 crore/seat/varsh) ke adhikaar me se Rs 3 lakh ki itemized swikriti. Date-note: report 28 Oct 2025 (Tuesday) ko publish hui aur ‘Tuesday’ ko estimate saunpa gaya, isliye tithi 2025-10-28 rakhi gayi hai.',
+    period: '2023-2028',
+  },
+];
+
+// Kodagu — a-s-ponnanna
+
+karnatakaWorks['a-s-ponnanna'] = [
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Thithimathi me MGNREGA me kaam karne wali mahilaon ke chhote bachchon ke liye bane Koosina Mane kendra ka lokarpan kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/koosina-mane-at-thithimathi-to-benefit-mgnrega-workers/article67752969.ece',
+    date: '2024-01-17',
+    note: 'The Hindu ne likha ki Thithimathi (Virajpet taluk) me bane shishu dekhbhal kendra ka MLA aur CM ke kanuni salaahkar A. S. Ponnanna ne lokarpan kiya; kendra me 6 mahine se 3 saal tak ke bachchon ki dekhbhal prashikshit sevikaon dwara hoti hai aur sevikao ko yojna ke tahat roz Rs 316 milta hai. Koosina Mane yojna ki ghoshna CM Siddaramaiah ne budget me ki thi aur sarkar ka lakshya lagbhag 4,000 aise kendra kholna tha; ye unme se ek hai. Tithi anumanit: lekh 18 Jan 2024 ko chhapa, photo-caption me Budhvaar ko launch bataya (17 Jan 2024 Budhvaar tha), body me Guruvaar ko lokarpan — karyakram 17–18 Jan ka, launch-tithi li gayi hai. Kendra ke liye MLA ke niji fund ka koi ullekh lekh me nahi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Ponnampet taluk ke Srimangala gaon me Sri Krishna Mandir tak jaane wali sadak ka lokarpan kiya, jo unke dwara di gayi Rs 15 lakh ki grant se bani thi.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/ajjikuttira-sp-ponnanna-inaugurates-new-roads-in-ponnampet-taluk/articleshow/121077671.cms',
+    date: '2025-05-11',
+    note: 'TOI ne likha ki MLA A. S. Ponnanna ne Srimangala gaon (Ponnampet taluk) me Sri Krishna Mandir tak ki sadak ka lokarpan kiya; sadak Rs 15 lakh ki grant se bani jo unhone khud di thi, kyunki unhone dekha tha ki ye sadak kai saalon se nahi bani thi. Tithi anumanit: page par prakashan-tithi nahi dikhi; search-engine crawl lagbhag 11 May 2025 ka hai, isi se tithi li gayi hai. Grant ko lekh ne KLLADS nahi bataya, isliye waisa dawa nahi joda gaya.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Ponnampet taluk ke T. Shettigeri gaon ki seema me Rs 22 lakh ki lagat se bani sadak ka lokarpan kiya.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/ajjikuttira-sp-ponnanna-inaugurates-new-roads-in-ponnampet-taluk/articleshow/121077671.cms',
+    date: '2025-05-11',
+    note: 'TOI ne likha ki MLA ne T. Shettigeri gaon ki seema (Ponnampet taluk) me Rs 22 lakh ki lagat se bani sadak ka bhi lokarpan kiya; ye usi Rs 37 lakh ke sadak-karyakram ka hissa tha jisme Srimangala ki sadak bhi shamil thi. Tithi anumanit: search-engine crawl lagbhag 11 May 2025 ka hai, isi se tithi li gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Ponnampet taluk me Mysuru–Gonikoppal mukhya sadak ke chune hue hisson par Rs 3.8 crore ke sadak vikas karyon ki bhoomi puja ki, jisme Thithimathi shahar ki seema me Thithimathi Bridge se Devarapura tak ki sadak bhi shamil hai.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/mla-ponnanna-launches-development-works-in-ponnampet-taluk/articleshow/126457247.cms',
+    date: '2026-01-10',
+    note: 'TOI ne likha ki MLA ne Ponnampet taluk me kul Rs 10.7 crore ke vikas karyon ki shuruaat ki; isme Mysuru–Gonikoppal mukhya sadak ke chune hue hisson par Rs 3.8 crore ke karyon ki bhoomi puja bhi thi, jisme Thithimathi Bridge se Devarapura tak ki sadak shamil hai. Unhone adhikariyon ko kaam jaldi aur gunvatta ke saath poora karne ka nirdesh diya. Tithi anumanit: lekh me ‘Shanivaar’ likha hai aur search-engine crawl lagbhag 11 Jan 2026 (Ravivaar) ka hai — usse pehla Shanivaar 10 Jan 2026 tha, isi se tithi li gayi hai.',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Mysuru–Ponnampet mukhya sadak par Devarapura se Seagethodu Bridge tak ki poori hui 4.34 km lambi sadak ka lokarpan kiya, jo Rs 3.5 crore ki lagat se bani thi.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/mla-ponnanna-launches-development-works-in-ponnampet-taluk/articleshow/126457247.cms',
+    date: '2026-01-10',
+    note: 'TOI ne likha ki MLA ne Mysuru–Ponnampet mukhya sadak par Devarapura se Seagethodu Bridge tak ki 4.34 km lambi, poori hui sadak ka lokarpan kiya; iski lagat Rs 3.5 crore thi. Tithi anumanit: lekh me ‘Shanivaar’ likha hai; crawl ke hisaab se 10 Jan 2026 (Shanivaar) li gayi hai.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Gonikoppal–Ponnampet mukhya sadak ke Balaji–Jodubiti hisse (Mayamudi–Balaji–Jodubiti–Kunda) par Rs 1 crore ke anudan se sadak chaudaikaran aur dobara damrikaran kaam ka shubharambh kiya, jiska shilanyas samaroh Jodubiti me hua.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/mla-ponnanna-launches-development-works-in-ponnampet-taluk/articleshow/126457247.cms',
+    date: '2026-01-10',
+    note: 'TOI ne likha ki MLA ne Gonikoppal–Ponnampet mukhya sadak ke Balaji–Jodubiti hisse (Mayamudi–Balaji–Jodubiti–Kunda) par sadak chaudaikaran aur re-asphalting kaam Rs 1 crore ke anudan se shuru karwaya; shilanyas samaroh Jodubiti me hua. Tithi anumanit: 10 Jan 2026 (Shanivaar).',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Hudikeri me nayi bani Hudikeri–Kalathode sadak ka lokarpan kiya, jo Rs 5 lakh ki lagat se bani thi.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/mla-ponnanna-launches-development-works-in-ponnampet-taluk/articleshow/126457247.cms',
+    date: '2026-01-10',
+    note: 'TOI ne likha ki MLA ne Hudikeri me nayi nirmit Hudikeri–Kalathode sadak ka lokarpan kiya, jo Rs 5 lakh ki lagat se bani thi. Tithi anumanit: 10 Jan 2026 (Shanivaar).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Hudikeri ke Mukkatimani me Rs 42 lakh ke vishesh anudan se bichi nayi 11 kV bijli line ka shubharambh kiya.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/mla-ponnanna-launches-development-works-in-ponnampet-taluk/articleshow/126457247.cms',
+    date: '2026-01-10',
+    note: 'TOI ne likha ki MLA ne Hudikeri ke Mukkatimani me Rs 42 lakh ke vishesh anudan se taiyaar hui nayi 11 kV bijli line ka shubharambh kiya. Tithi anumanit: 10 Jan 2026 (Shanivaar).',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Hudikeri ke paas Madikeri–Kutta sadak par Pokaletodu hisse me pul ke punarnirman ke liye Rs 2 crore ke anudan ki ghoshna ke saath us sthal par bhoomi puja ki.',
+    category: 'Sadak',
+    badge: 'news',
+    sourceLabel: 'The Times of India',
+    sourceUrl: 'https://timesofindia.indiatimes.com/city/mysuru/mla-ponnanna-launches-development-works-in-ponnampet-taluk/articleshow/126457247.cms',
+    date: '2026-01-10',
+    note: 'TOI ne likha ki MLA ne Hudikeri ke paas Madikeri–Kutta sadak par Pokaletodu hisse me pul ke punarnirman ke liye Rs 2 crore ke anudan ki ghoshna ki aur usi sthal par bhoomi puja ki; avsar par State Sports Authority ke upaadhyaksh Cheppudeera Arun Machiah aadi maujood the. Tithi anumanit: 10 Jan 2026 (Shanivaar).',
+    period: '2023-2028',
+    stage: 'shilanyas',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Talacauvery mandir ke paas naye bane Bhandara Mane bhavan ka lokarpan kiya, jo lagbhag Rs 1 crore ki lagat se Greater Bengaluru Authority ke anudan se bana tha.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The Hindu',
+    sourceUrl: 'https://www.thehindu.com/news/national/karnataka/talacauvery-gears-up-for-cauvery-theerthodbhava-on-saturday/article71592889.ece',
+    date: '2026-10-16',
+    note: 'The Hindu ne likha ki CM ke raajnaitik sachiv aur Virajpet MLA A. S. Ponnanna ne Cauvery Theerthodbhava se pehle Shukravaar ko Talacauvery ka daura karke mandir ke paas naye nirmit Bhandara Mane bhavan ka lokarpan kiya; bhavan lagbhag Rs 1 crore ki lagat se Greater Bengaluru Authority (GBA) ke anudan se bana tha. Tithi pakki: lekh 16 Oct 2026 ko chhapa aur ‘Shukravaar’ ka daura bataya — 16 Oct 2026 Shukravaar tha.',
+    period: '2023-2028',
+  },
+  {
+    title: 'Virajpet ke MLA A. S. Ponnanna ne Kodagu ke Thithimathi ke paas Cheeni Hudlu Haadi me Rs 4.84 crore ki bijli pariyojna ka lokarpan kiya, jisse Jungle Haadi, Ayur Suruli Haadi, Cheeni Hudlu Haadi aur Chombu Kaadu Haadi ki aadiwasi bastiyon me pehli baar bijli pahunchi.',
+    category: 'Any',
+    badge: 'news',
+    sourceLabel: 'The New Indian Express',
+    sourceUrl: 'https://www.newindianexpress.com/states/karnataka/2026/Oct/13/karnataka-mla-as-ponnanna-inaugurates-484-crore-power-project-in-kodagu-district',
+    date: '2026-10-13',
+    note: 'The New Indian Express ne likha ki MLA A. S. Ponnanna ne Rs 4.84 crore ki bijli pariyojna ka lokarpan kiya, jisse Thithimathi (Ponnampet taluk) ke jungle-kinare ki chaar aadiwasi bastiyon — Jungle Haadi, Ayur Suruli Haadi, Cheeni Hudlu Haadi aur Chombu Kaadu Haadi — me pehli baar bijli aayi; yahan Jenu Kuruba, Paniyera Yerava aur Panjari Yerava samudaayon ke 185 se adhik parivaar rehte hain. Sthaniya nivasi C. Ramu ke anusaar pariyojna chaar mahine pehle poori ho gayi thi aur bastiyon ke logon ne khud MLA se lokarpan karne ka aagrah kiya tha; unhone ye bhi kaha ki vartamaan MLA ke prayason se yahan achchhi sadken bani hain. Pariyojna ke fund-srot ka ullekh lekh me nahi hai, isliye koi fund dawa nahi joda gaya. Tithi anumanit: lekh 13 Oct 2026 ko chhapa aur ‘is hafte’ lokarpan bataya, isi se tithi li gayi hai.',
+    period: '2023-2028',
+  },
+];
